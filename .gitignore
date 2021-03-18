@@ -1,6 +1,8 @@
 .idea
 venv/bin/*
 venv/include/*
+venv/share/*
+venv/src/*
 venv/lib/*
 venv/lib64/*
 venv/main/corpus/*
