@@ -1,21 +1,35 @@
-import trafilatura
-array_links = [
-    "https://en.wikipedia.org/wiki/Coronavirus_disease_2019",
-    "https://en.wikipedia.org/wiki/Recession",
-    "https://en.wikipedia.org/wiki/Vienna",
-    "https://en.wikipedia.org/wiki/Machine_learning",
-    "https://en.wikipedia.org/wiki/Graph_database"
-]
-array_text = []
-for l in array_links:
-    html = trafilatura.fetch_url(l)
-    text = trafilatura.extract(html)
-    text_clean = text.replace("\n", " ").replace("\'", "")
-    array_text.append(text_clean[0:5000])
-
-
-
-
 from summa import keywords
-for j in range(len(array_text)):
-    print("Keywords of article", str(j+1), "\n", (keywords.keywords(array_text[j], words=5)).split("\n"))
+import shutil
+import os
+
+
+""" Processing all corpora
+# Interrupted by signal 9: SIGKILL
+all = 'corpus/Medical/txt_all.txt'
+all_kw = 'corpus/Medical/txt_all_textrank.txt'
+
+with open(all) as f:
+    texto = f.read()
+    kws = keywords.keywords(texto)
+
+with open(all_kw, 'w') as f_w:
+    for keyword in kws.split():
+        f_w.write('- ' + keyword + '\n')
+"""
+
+
+dir_all = 'corpus/Medical/txt/'
+dir_kw = 'corpus/Medical/kw/textrank/'
+shutil.rmtree(dir_kw, ignore_errors=True)
+os.makedirs(dir_kw)
+docs = os.listdir(dir_all)
+
+
+for doc in docs:
+    with open(dir_all + doc) as f:
+        texto = f.read()
+        kws = keywords.keywords(texto)
+    with open(dir_kw + doc, 'w') as f_w:
+        f_w.write('Texto: \n' + texto + '\n\nKeywords: \n')
+        for keyword in kws.split():
+            f_w.write('- ' + keyword + '\n')

@@ -3,29 +3,31 @@ import shutil
 from rake_nltk import Rake
 from rake_nltk import Metric
 
-all = 'corpus/Medical/txt_all.txt'
-dir_all = 'corpus/Medical/txt/'
-dir_kw = 'corpus/Medical/kw/'
-shutil.rmtree(dir_kw, ignore_errors=True)
-os.makedirs(dir_kw)
-
-# Controlling the max and min word length
-# Using stopwords for english from NLTK, and all puntuation characters
-
 
 """ Processing all corpora
-r = Rake()
+all = 'corpus/Medical/txt_all.txt'
+all_kw = 'corpus/Medical/txt_all_rake_length.txt'
+
+r = Rake(max_length=4)
 with open(all) as f:
     texto = f.read()
     r.extract_keywords_from_text(texto)
     keywords = r.get_ranked_phrases()
+
+with open(all_kw, 'w') as f_w:
     for keyword in keywords:
-        print(keyword + '\n')
+        f_w.write('-' + keyword + '\n')
 """
 
+
+dir_all = 'corpus/Medical/txt/'
+dir_kw = 'corpus/Medical/kw/rake/'
+shutil.rmtree(dir_kw, ignore_errors=True)
+os.makedirs(dir_kw)
 docs = os.listdir(dir_all)
 
-## Rake default exacution
+# Rake default exacution
+# Using stopwords for english from NLTK, and all puntuation characters
 r = Rake()
 folder = 'rake/'
 os.makedirs(dir_kw + folder)
@@ -94,4 +96,3 @@ for doc in docs:
         f_w.write('Texto: \n' + texto + '\n\nKeywords: \n')
         for keyword in keywords:
             f_w.write('- ' + keyword + '\n')
-
