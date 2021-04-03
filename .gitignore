@@ -5,7 +5,6 @@ venv/share/*
 venv/src/*
 venv/lib/*
 venv/lib64
-venv/main/corpus/*
-venv/main/__pychache__/*
+venv/main/__pycache__/*
 venv/pyvenv.cfg
 docs
