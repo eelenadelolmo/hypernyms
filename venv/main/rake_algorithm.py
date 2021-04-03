@@ -4,22 +4,6 @@ from rake_nltk import Rake
 from rake_nltk import Metric
 
 
-""" Processing all corpora
-all = 'corpus/Medical/txt_all.txt'
-all_kw = 'corpus/Medical/txt_all_rake_length.txt'
-
-r = Rake(max_length=4)
-with open(all) as f:
-    texto = f.read()
-    r.extract_keywords_from_text(texto)
-    keywords = r.get_ranked_phrases()
-
-with open(all_kw, 'w') as f_w:
-    for keyword in keywords:
-        f_w.write('-' + keyword + '\n')
-"""
-
-
 dir_all = 'corpus/Medical/txt/'
 dir_kw = 'corpus/Medical/kw/rake/'
 shutil.rmtree(dir_kw, ignore_errors=True)
