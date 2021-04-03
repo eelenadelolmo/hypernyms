@@ -6,5 +6,6 @@ venv/src/*
 venv/lib/*
 venv/lib64
 venv/main/__pycache__/*
+venv/main/corpus/*
 venv/pyvenv.cfg
 docs
