@@ -1,6 +1,25 @@
 import os
 import shutil
+import nltk
 
+
+#_____________________________________________________________________________________________________________________
+
+## Creating sentence and word tokeniser
+
+from nltk.tokenize.punkt import PunktSentenceTokenizer
+stoker = PunktSentenceTokenizer()
+s_tokers = {'en': stoker}
+sent_tokenizer = s_tokers.get('en', stoker)
+
+tokenisers = {'en': nltk.word_tokenize}
+tokeniser = tokenisers.get('en', nltk.word_tokenize)
+
+
+
+#_____________________________________________________________________________________________________________________
+
+#### Testing the original TF-IDF algorithm ####
 
 
 # The argument is a frequency dictionary word:freq_abs and the list of words
@@ -11,7 +30,6 @@ def computeTF(f_dict, w_list):
   for word, count in f_dict.items():
     tfDict[word] = count / n_words
   return tfDict
-
 
 
 # The argument is a list of frequency dictionaries word:freq_abs of every text in the corpora
@@ -33,7 +51,6 @@ def computeIDF(documents):
     return idfDict
 
 
-
 # The arguments are the output of the previous functions (dictionary of tfs and dictionary of idfs)
 # returns a dictionary word:tf_idf, tf_idf consisting of the TI-IDF value for a given term
 def computeTFIDF(tf, idfs):
@@ -43,18 +60,21 @@ def computeTFIDF(tf, idfs):
   return tfidf
 
 
-
-
-dir_all = 'corpus/Medical/txt/'
+dir_all = 'corpus/Medical/txt_short/'
 docs = os.listdir(dir_all)
 
 ## Getting a set of unique words
 unique = set()
 for doc in docs:
     with open(dir_all + doc) as f:
-        texto = f.read()
-        unique = unique.union(set(texto.split()))
+        texto = f.read().lower()
 
+        sents = sent_tokenizer.tokenize(texto)
+        toks = list()
+        for sent in sents:
+            toks.extend(tokeniser(sent))
+
+        unique = unique.union(set(toks))
 
 
 ## Getting word lists freqs of every text and their tf
@@ -64,12 +84,16 @@ for doc in docs:
     with open(dir_all + doc) as f:
 
         # word_list == list of the words
-        texto = f.read()
-        word_list = texto.split()
+        texto = f.read().lower()
+
+        sents = sent_tokenizer.tokenize(texto)
+        word_list = list()
+        for sent in sents:
+            word_list.extend(tokeniser(sent))
 
         # freq == dict with words:freq in the text
         freq = dict.fromkeys(unique, 0)
-        for word in texto.split():
+        for word in word_list:
             freq[word] += 1
 
     e = dict()
@@ -83,20 +107,70 @@ for doc in docs:
 idf = computeIDF([x['freqs'] for x in text_words_freqs_tf])
 
 
-
-
 dir_kw = 'corpus/Medical/kw/tfidf/'
 shutil.rmtree(dir_kw, ignore_errors=True)
 os.makedirs(dir_kw)
+
 
 ## Getting and saving the TF-IDF metrics for every text
 
 for elem in text_words_freqs_tf:
     tfidf = computeTFIDF(elem['tf'], idf)
     with open(dir_kw + elem['id'], 'w') as f_w:
-        f_w.write('Texto: \n' + elem['text'] + '\n\nKeywords: \n')
+        f_w.write('Texto: \n' + elem['text'] + '\n\nKeywords by value: \n')
 
-        words_text = elem['text'].split()
+        sents = sent_tokenizer.tokenize(elem['text'])
+        words_text = list()
+        for sent in sents:
+            words_text.extend(tokeniser(sent))
 
+        word_tfif = dict()
         for word in words_text:
-            f_w.write('- ' + word + ': ' + str(tfidf[word]) + '\n')
+            word_tfif[word] = tfidf[word]
+
+        word_tfif = {k: v for k, v in sorted(word_tfif.items(), key=lambda item: item[1], reverse=True)}
+
+        for word in word_tfif:
+            f_w.write('- ' + word + ': ' + str(word_tfif[word]) + '\n')
+
+
+# _____________________________________________________________________________________________________________________
+
+#### Testing the sklearn algorithm ####
+
+dir_kw_sklearn = 'corpus/Medical/kw/tfidf_sklearn/'
+shutil.rmtree(dir_kw_sklearn, ignore_errors=True)
+os.makedirs(dir_kw_sklearn)
+
+import pandas as pd
+from sklearn.feature_extraction.text import TfidfVectorizer
+
+vectorizer = TfidfVectorizer()
+vectors = vectorizer.fit_transform([x['text'] for x in text_words_freqs_tf])
+feature_names = vectorizer.get_feature_names()
+dense = vectors.todense()
+denselist = dense.tolist()
+df = pd.DataFrame(denselist, columns=feature_names)
+
+for n, elem in enumerate(text_words_freqs_tf):
+    with open(dir_kw_sklearn + elem['id'], 'w') as f_w:
+        f_w.write('Texto: \n' + elem['text'] + '\n\nKeywords by value: \n')
+
+        sents = sent_tokenizer.tokenize(elem['text'])
+        words_text = list()
+        for sent in sents:
+            words_text.extend(tokeniser(sent))
+
+        df_texto = df.iloc[[n]]
+
+        word_tfif_sklearn = dict()
+        for word in words_text:
+            if word.lower() in df_texto.columns:
+                word_tfif_sklearn[word] = str(df_texto[word.lower()][n])
+            else:
+                print("Not matched because of different tokenisation:", word)
+
+        word_tfif_sklearn = {k: v for k, v in sorted(word_tfif_sklearn.items(), key=lambda item: item[1], reverse=True)}
+
+        for word in word_tfif_sklearn:
+            f_w.write('- ' + word + ': ' + str(word_tfif_sklearn[word]) + '\n')
