@@ -60,7 +60,7 @@ def computeTFIDF(tf, idfs):
   return tfidf
 
 
-dir_all = 'corpus/Medical/txt_short/'
+dir_all = 'corpus/Medical/txt/'
 docs = os.listdir(dir_all)
 
 ## Getting a set of unique words

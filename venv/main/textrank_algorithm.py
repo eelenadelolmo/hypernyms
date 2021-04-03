@@ -6,7 +6,7 @@ import os
 """ Processing all corpora
 # Interrupted by signal 9: SIGKILL
 all = 'corpus/Medical/txt_all.txt'
-all_kw = 'corpus/Medical/txt_all_textrank.txt'
+all_kw = 'corpus/Medical/txt_all_text_rank.txt'
 
 with open(all) as f:
     texto = f.read()
@@ -19,7 +19,7 @@ with open(all_kw, 'w') as f_w:
 
 
 dir_all = 'corpus/Medical/txt/'
-dir_kw = 'corpus/Medical/kw/textrank/'
+dir_kw = 'corpus/Medical/kw/text_rank/'
 shutil.rmtree(dir_kw, ignore_errors=True)
 os.makedirs(dir_kw)
 docs = os.listdir(dir_all)
