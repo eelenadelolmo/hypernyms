@@ -2,10 +2,12 @@ from yake import KeywordExtractor
 import shutil
 import os
 
-kw_extractor = KeywordExtractor(lan="en", n=1, top=5)
 
 
 """ Processing all corpora
+
+kw_extractor = KeywordExtractor(lan="en", n=1, top=500)
+
 all = 'corpus/Medical/txt_all.txt'
 all_kw = 'corpus/Medical/txt_all_yake.txt'
 
@@ -20,12 +22,13 @@ with open(all_kw, 'w') as f_w:
 """
 
 
+kw_extractor = KeywordExtractor(lan="en", n=1, top=5)
+
 dir_all = 'corpus/Medical/txt/'
 dir_kw = 'corpus/Medical/kw/yake/'
 shutil.rmtree(dir_kw, ignore_errors=True)
 os.makedirs(dir_kw)
 docs = os.listdir(dir_all)
-
 
 for doc in docs:
     with open(dir_all + doc) as f:
