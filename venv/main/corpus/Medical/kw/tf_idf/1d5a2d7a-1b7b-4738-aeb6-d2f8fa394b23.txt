@@ -1,0 +1,211 @@
+Texto: 
+vs:bp 115/75, hr 106, rr 18, o2 90% on 2-4 lnc
+gen: alert and oriented, in no acute distress. 
+heent: extensive jvd while upright. 
+heart: normal s1, s2. no murmurs, rubs, gallops.
+chest: coarse breath sounds bilaterally. both breasts were enlarged.
+abd: unremarkable
+neuro: no focal deficits
+this woman has a past medical history of non-small cell lung cancer, status post external beam radiotherapy and chemotherapy.  she was treated palliatively with venous stent placement to relieve the venous obstruction.
+•cxr: bilateral breast enlargement, blunting of the costophrenic sulci, bilateral pleural effusions, consolidation of the right upper lobe
+
+•ct: bilateral breast enlargement, right sided pleural effusion, elevation of the right hemidiaphragm, right upper lobe mass causing occlusion of the right brachiocephalic vein, extensive venous collateral formation
+superior vena cava syndrome secondary to lung cancer
+svc syndrome
+-malignancy related
+-secondary to thrombosis
+-fibrosing mediastinitis
+-post-radiation fibrosis
+-sarcoidosis
+inflammatory breast cancer
+pulmonary htn
+59 year-old woman presents with facial swelling and discomfort in her breasts.  these symptoms are worse in the morning, and are exacerbated when lying flat. the patient also endorses worsening orthopnea.
+this patient's lung cancer was refractory to radiation and chemotherapy. therefore, when she started to experience swelling in her face and chest, svc syndrome would have been at the top of the differential since it is a fairly common complication of this type of malignancy. her lung cancer was most likely related to her smoking history. the patient could very well have a component of post radiation fibrosis contributing to the occlusion of the svc, but the malignancy was the main contributor.  surgery was not an option for this patient, due to the overwhelming tumor burden.
+
+
+Keywords by value: 
+- svc: 0.05061520535807349
+- cancer: 0.04321792714407331
+- breasts: 0.03254866399600207
+- her: 0.031623528104429977
+- :: 0.03129991798127996
+- lung: 0.030463496864476875
+- breast: 0.029100534866128177
+- venous: 0.028631867247296577
+- 115/75: 0.027124672073743073
+- lnc: 0.027124672073743073
+- palliatively: 0.027124672073743073
+- -fibrosing: 0.027124672073743073
+- -post-radiation: 0.027124672073743073
+- occlusion: 0.026225486353021278
+- •cxr: 0.02499191151817401
+- -secondary: 0.02499191151817401
+- -sarcoidosis: 0.02499191151817401
+- orthopnea: 0.02499191151817401
+- fibrosis: 0.023414665414586106
+- syndrome: 0.022559137631396692
+- related: 0.021706162420135157
+- •ct: 0.021611566014579826
+- overwhelming: 0.021611566014579826
+- -malignancy: 0.021137256230495952
+- extensive: 0.021029881368915357
+- enlargement: 0.020865036347600587
+- 106: 0.020726390407035885
+- pleural: 0.020420616607220284
+- malignancy: 0.020320551863393942
+- contributor: 0.020039794864530624
+- 2-4: 0.019478805459010762
+- brachiocephalic: 0.019478805459010762
+- endorses: 0.019478805459010762
+- bilateral: 0.019142932885979486
+- mediastinitis: 0.019004495674926892
+- chemotherapy: 0.018848897139328403
+- burden: 0.0187922099165055
+- jvd: 0.018064859830154024
+- non-small: 0.01790703430896156
+- beam: 0.01775691072690177
+- blunting: 0.017613772217255946
+- contributing: 0.017613772217255946
+- swelling: 0.01751883608603774
+- radiation: 0.017256930766537455
+- costophrenic: 0.0172204387664563
+- exacerbated: 0.01709975964906159
+- ,: 0.016659080954909995
+- post: 0.016558984818906424
+- upright: 0.01655855759840416
+- relieve: 0.016274331998001035
+- refractory: 0.016274331998001035
+- radiotherapy: 0.016014155419453148
+- gallops: 0.015698296483883663
+- coarse: 0.015551748640839802
+- flat: 0.015411864412911319
+- fairly: 0.015411864412911319
+- hemidiaphragm: 0.015278064068481353
+- was: 0.01520426957251826
+- o2: 0.015087678210887237
+- rubs: 0.015087678210887237
+- when: 0.015060499923790804
+- sulci: 0.015026747049975914
+- stent: 0.014794416119181622
+- lying: 0.014794416119181622
+- she: 0.014761760870487214
+- option: 0.014684514326559841
+- gen: 0.014475829414748268
+- s2: 0.014475829414748268
+- htn: 0.014475829414748268
+- experience: 0.014425797042835097
+- morning: 0.014376565223307587
+- lobe: 0.014149694448760209
+- murmurs: 0.014141571442431973
+- 59: 0.014141571442431973
+- top: 0.014096652059597658
+- abd: 0.0139232584086711
+- vena: 0.0139232584086711
+- right: 0.01387125706323718
+- cava: 0.013840093262862117
+- collateral: 0.01375911692957789
+- s1: 0.0135655359283146
+- neuro: 0.0135655359283146
+- rr: 0.013418988085270738
+- effusions: 0.013418988085270738
+- smoking: 0.013279103857342257
+- consolidation: 0.013178212094809976
+- discomfort: 0.013178212094809976
+- alert: 0.013112743176510639
+- elevation: 0.012985841765636642
+- oriented: 0.012893986494406852
+- face: 0.012893986494406852
+- complication: 0.012893986494406852
+- hr: 0.012804794073258385
+- heent: 0.012718114451822395
+- upper: 0.012689726186884421
+- chest: 0.012582947692661653
+- therefore: 0.01241967671032298
+- 90: 0.012393928249798316
+- main: 0.012243804667738525
+- woman: 0.012147095061470192
+- deficits: 0.012031518909317135
+- component: 0.012008810886862911
+- this: 0.011829381086943177
+- started: 0.011727914209295505
+- worse: 0.01164640154638173
+- facial: 0.011432775372745537
+- bp: 0.011414070615587439
+- 18: 0.011414070615587439
+- have: 0.011387311251477487
+- causing: 0.011358629060194582
+- thrombosis: 0.011286227529701678
+- external: 0.011180722688228964
+- distress: 0.011078715896484653
+- formation: 0.010853081210067578
+- placement: 0.010672033517689321
+- patient: 0.010542669918970928
+- to: 0.010512445746288892
+- sounds: 0.0104872204692504
+- vs: 0.010352246062771686
+- worsening: 0.010352246062771686
+- effusion: 0.009991304369862774
+- breath: 0.009831130948459534
+- sided: 0.009721620348143525
+- could: 0.009700178288709392
+- year-old: 0.009657737297532974
+- since: 0.009657737297532974
+- very: 0.009543955749098859
+- vein: 0.009513640990812668
+- status: 0.00938562252671278
+- would: 0.00935682116437566
+- obstruction: 0.009272000149505955
+- heart: 0.009135629688950073
+- inflammatory: 0.009117895212898535
+- enlarged: 0.008971141755027712
+- type: 0.00886345916414434
+- unremarkable: 0.008704819749790956
+- bilaterally: 0.008636016118535088
+- superior: 0.008396134452474434
+- past: 0.008354459913681335
+- differential: 0.008347568705701322
+- while: 0.008272766891853273
+- medical: 0.00809018400020309
+- no: 0.007942561391112019
+- treated: 0.007870310264873413
+- pulmonary: 0.00768169326221558
+- focal: 0.0075092110896566215
+- likely: 0.007416276818263559
+- secondary: 0.0073508614354117156
+- history: 0.007262858693582052
+- are: 0.007168454600182165
+- been: 0.0071532150445045885
+- cell: 0.00710227911255842
+- due: 0.007016237393701045
+- common: 0.006880822190635068
+- these: 0.00684259905217797
+- both: 0.00671446150980345
+- symptoms: 0.006552792236609659
+- acute: 0.006491936397250754
+- surgery: 0.006384612505723923
+- the: 0.006380736217090422
+- %: 0.006133295487218485
+- tumor: 0.0061299455434178805
+- most: 0.006070261974547926
+- were: 0.005970111805199758
+- well: 0.005947941393749695
+- it: 0.005910302721640052
+- 's: 0.0057970665180524465
+- but: 0.005607702464718577
+- presents: 0.005371213216947464
+- in: 0.005186427447880061
+- also: 0.005183444903600466
+- has: 0.004937538370751625
+- normal: 0.004121884475689542
+- not: 0.0037994420668982626
+- a: 0.0036609212475563198
+- mass: 0.0036568030983001984
+- an: 0.003635891890106861
+- of: 0.003584732332245798
+- at: 0.0035623481625588708
+- and: 0.0033232431827486487
+- for: 0.002243409688131431
+- on: 0.0022273569611243943
+- .: 0.0017476694694078165
+- is: 0.001730125471953002
+- with: 0.000720025699014706
