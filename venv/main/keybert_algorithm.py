@@ -23,17 +23,17 @@ for doc in docs:
             f_w.write('-' + keyword + '\n')
 
 
-
-
+""" For executing selected
 from keybert import KeyBERT
 import os
 
+os.chdir('venv/main')
 dir_kw = 'corpus/Medical/kw/keybert/'
 dir_all = 'corpus/Medical/txt/'
 docs = os.listdir(dir_all)
 
 kw_extractor = KeyBERT('distilbert-base-nli-mean-tokens')
-
+"""
 os.makedirs(dir_kw + 'keybert_maxSum/')
 for doc in docs:
     with open(dir_all + doc) as f:
@@ -45,6 +45,18 @@ for doc in docs:
             f_w.write('-' + keyword + '\n')
 
 
+
+""" For executing selected
+from keybert import KeyBERT
+import os
+
+os.chdir('venv/main')
+dir_kw = 'corpus/Medical/kw/keybert/'
+dir_all = 'corpus/Medical/txt/'
+docs = os.listdir(dir_all)
+
+kw_extractor = KeyBERT('distilbert-base-nli-mean-tokens')
+"""
 os.makedirs(dir_kw + 'keybert_maxMargRelevance/')
 for doc in docs:
     with open(dir_all + doc) as f:

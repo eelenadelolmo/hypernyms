@@ -83,6 +83,8 @@ You can set keyphrase_ngram_range to set the length of the resulting keywords/ke
 
 You can select any model from sentence-transformers here (https://www.sbert.net/docs/pretrained_models.html) and pass it through KeyBERT. 'distilbert-base-nli-mean-tokens' or 'xlm-r-distilroberta-base-paraphrase-v1' as they have shown great performance in semantic similarity and paraphrase identification respectively.
 
+The results are ordered but we are not keeping the similarity measure in our output.
+
 - To diversify the results:
 
     Max Sum Similarity: `model.extract_keywords(doc, keyphrase_ngram_range=(3, 3), stop_words='english', use_maxsum=True, nr_candidates=20, top_n=5)`
