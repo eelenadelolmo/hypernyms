@@ -38,7 +38,8 @@ The final score for each candidate keyword is calculated as the sum of its membe
 - **Implementation**: https://github.com/LIAAD/yake
 
 
-Light-weight unsupervised automatic keyword extraction method which rests on statistical text features extracted from single documents to select the most relevant keywords of a text. Our system does not need to be trained on a particular set of documents, nor does it depend on dictionaries, external corpora, text size, language, or domain.
+Light-weight **unsupervised** automatic keyword extraction method which rests on statistical text features extracted from **single documents** to select the most relevant keywords of a text. Our system does not need to be trained on a particular set of documents, nor does it depend on dictionaries, external corpora, text size, language, or domain.
+
 
 
 
@@ -81,17 +82,17 @@ Our approach has several advantages over TextRank. Intuitively, ranking topics i
 - **Implementation**: https://github.com/MaartenGr/KeyBERT
 
 
-Uses BERT-embeddings and simple cosine similarity to find the sub-phrases in a document that are the most similar to the document itself.
+Uses BERT-embeddings and simple cosine similarity to find the **sub-phrases in a document that are the most similar to the document itself**.
 
-You can set keyphrase_ngram_range to set the length of the resulting keywords/keyphrases (1,500 in our script)
+You can set `keyphrase_ngram_range` to set the length of the resulting keywords (1,15 in our script).
 
-You can select any model from sentence-transformers here (https://www.sbert.net/docs/pretrained_models.html) and pass it through KeyBERT. 'distilbert-base-nli-mean-tokens' or 'xlm-r-distilroberta-base-paraphrase-v1' as they have shown great performance in semantic similarity and paraphrase identification respectively.
+You can select any model from `sentence-transformers` here (https://www.sbert.net/docs/pretrained_models.html) and pass it through KeyBERT. 'distilbert-base-nli-mean-tokens' or 'xlm-r-distilroberta-base-paraphrase-v1' as they have shown great performance in semantic similarity and paraphrase identification respectively.
 
-The results are ordered but we are not keeping the similarity measure in our output.
+The results are ordered by its similarity measure.
 
 Output in the `keybert/keybert` folder.
 
-- To diversify the results:
+- To **diversify** the results:
 
     Max Sum Similarity: `model.extract_keywords(doc, keyphrase_ngram_range=(3, 3), stop_words='english', use_maxsum=True, nr_candidates=20, top_n=5)`
     Output in the `keybert/keybert_maxSum` folder.
@@ -99,7 +100,7 @@ Output in the `keybert/keybert` folder.
     Maximal marginal relevance: `model.extract_keywords(doc, keyphrase_ngram_range=(3, 3), stop_words='english', use_mmr=True, diversity=0.7)`
     Output in the `keybert/keybert_maxMargRelevance` folder.
 
-- Multiple documents:
+- **Multiple documents**:
 
     There is an option to extract keywords for multiple documents that is faster than extraction for multiple single documents. However, this method assumes that you can keep the word embeddings for all words in the vocabulary in memory which might be troublesome.
     
@@ -114,12 +115,12 @@ Output in the `keybert/keybert` folder.
 - **Implementation**: https://scikit-learn.org/stable/modules/generated/sklearn.feature_extraction.text.TfidfVectorizer.html#examples-using-sklearn-feature-extraction-text-tfidfvectorizer
 
 
-TF-IDF is a numerical statistic that is intended to reflect how important a word is to a document in a collection or corpus. 
+TF-IDF is a numerical statistic that is intended to reflect **how important a word is to a document in a collection or corpus**. 
 
-The tf–idf value increases proportionally to the number of times a word appears in the document and is offset by the number of documents in the corpus that contain the word, which helps to adjust for the fact that some words appear more frequently in general.
+The tf–idf value for a word **increases proportionally appearances of the word in the document** and **is offset by the number of documents where it appears**.
 
 The output of the original formula is in the `tf_idf/tf_idf` folder. 
 
-We have also tested the scikit-learn implementation (TfidfVectorizer). Its outputis in the `tf_idf/tf_idf_sklearn` folder. 
+We have also tested the **scikit-learn implementation** (TfidfVectorizer). Its outputis in the `tf_idf/tf_idf_sklearn` folder. 
 
-The main difference between these two lies in an extra normalization step carried out in the scikit-learn known as Euclidean normalization. Besides, for the computation of the IDF, the scikit-learn implementation performs the addition of unitary constants in the denominator and numerator (in order to avoid zero divisions).
+The main difference between these two lies in an **extra normalization step** carried out in the scikit-learn known as Euclidean normalization. Besides, the scikit-learn implementation performs the **addition of unitary constants in the denominator and numerator for the computation of the IDF** in order to avoid zero divisions.
