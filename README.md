@@ -79,7 +79,24 @@ Our approach has several advantages over TextRank. Intuitively, ranking topics i
 
 Uses BERT-embeddings and simple cosine similarity to find the sub-phrases in a document that are the most similar to the document itself.
 
+You can set keyphrase_ngram_range to set the length of the resulting keywords/keyphrases (1,500 in our script)
 
+You can select any model from sentence-transformers here (https://www.sbert.net/docs/pretrained_models.html) and pass it through KeyBERT. 'distilbert-base-nli-mean-tokens' or 'xlm-r-distilroberta-base-paraphrase-v1' as they have shown great performance in semantic similarity and paraphrase identification respectively.
+
+- To diversify the results:
+
+    Max Sum Similarity: `model.extract_keywords(doc, keyphrase_ngram_range=(3, 3), stop_words='english', use_maxsum=True, nr_candidates=20, top_n=5)`
+    
+    Maximal marginal relevance: `model.extract_keywords(doc, keyphrase_ngram_range=(3, 3), stop_words='english', use_mmr=True, diversity=0.7)`
+
+- Multiple documents:
+
+    There is an option to extract keywords for multiple documents that is faster than extraction for multiple single documents. However, this method assumes that you can keep the word embeddings for all words in the vocabulary in memory which might be troublesome.
+    
+    You can set the `min_df` paramater to specify the minimum document frequency of a word across all documents if keywords for multiple documents need to be extracted.
+
+    
+    
 
 ## TF-IDF
 
@@ -87,7 +104,6 @@ Uses BERT-embeddings and simple cosine similarity to find the sub-phrases in a d
 
 - Implementation: https://scikit-learn.org/stable/modules/generated/sklearn.feature_extraction.text.TfidfVectorizer.html#examples-using-sklearn-feature-extraction-text-tfidfvectorizer
 
-- Description:
 
 TF-IDF is a numerical statistic that is intended to reflect how important a word is to a document in a collection or corpus. 
 
