@@ -17,11 +17,15 @@ The script `corpus_processing.py` creates the folder `venv/main/corpus/Medical/t
 
 RAKE, short for Rapid Automatic Keyword Extraction algorithm, is a domain independent keyword extraction algorithm which tries to determine key phrases in a body of text by analyzing the frequency of word appearance and its co-occurance with other words in the text.
 
-The input parameters for the RAKE Algorithm comprise a list of stop words also a set of phrase delimiters and word delimiters. It uses stop words and phrase delimiters to partition the document into candidate keywords.
+RAKE is based on our observation that keywords frequently contain multiple words but rarely contain standard punctuation or stop words, such as the function words or other words with minimal lexical meaning. Co-occurrences of words within these candidate keywords are meaningful and allow us to identify word co-occurrence **without the application of an arbitrarily sized sliding window**.
+
+The **input parameters** for the RAKE Algorithm comprise a list of **stop words** and a set of **phrase delimiters** and **word delimiters**. It uses stop words and phrase delimiters to partition the document into candidate keywords.
+
+While RAKE has generated strong interest due to its ability to pick out highly specific terminology, **an interest was also expressed in identifying keywords that contain interior stop words**. To find these RAKE looks for pairs of keywords that adjoin one another at least twice in the same document and in the same order. A new candidate keyword is then created as a combination of those keywords and their interior stop words.
 
     - Word Frequency (freq(w)) --> favors words that occur frequently regardless of the number of words with which they co-occurred.
     - Word Degree (deg(w)) --> favors words that occur often and in longer candidates.
-    - Ratio of degree to frequency (deg(w)/freq(w)) --> favors the words that predominately 
+    - Ratio of degree to frequency (deg(w)/freq(w)) --> favors the words that predominately occur in longer candidate keywords.
 
 The final score for each candidate keyword is calculated as the sum of its member word scores.
 
@@ -102,7 +106,6 @@ Output in the `keybert/keybert` folder.
     You can set the `min_df` paramater to specify the minimum document frequency of a word across all documents if keywords for multiple documents need to be extracted.
 
     
-    
 
 ## TF-IDF
 
@@ -119,4 +122,4 @@ The output of the original formula is in the `tf_idf/tf_idf` folder.
 
 We have also tested the scikit-learn implementation (TfidfVectorizer). Its outputis in the `tf_idf/tf_idf_sklearn` folder. 
 
-The main difference lies in an extra normalization step carried out in the scikit-learn known as Euclidean normalization. Besides, for the computation of the IDF, the scikit-learn implementation performs the addition of unitary constants in the denominator and numerator (in order to avoid zero divisions).
+The main difference between these two lies in an extra normalization step carried out in the scikit-learn known as Euclidean normalization. Besides, for the computation of the IDF, the scikit-learn implementation performs the addition of unitary constants in the denominator and numerator (in order to avoid zero divisions).
