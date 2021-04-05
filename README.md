@@ -14,7 +14,6 @@ The script `corpus_processing.py` creates the folder `venv/main/corpus/Medical/t
 
 - **Implementation**: https://pypi.org/project/rake-nltk/
 
-
 RAKE, short for Rapid Automatic Keyword Extraction algorithm, is a domain independent keyword extraction algorithm which tries to determine key phrases in a body of text by analyzing the frequency of word appearance and its co-occurance with other words in the text.
 
 RAKE is based on our observation that keywords frequently contain multiple words but rarely contain standard punctuation or stop words, such as the function words or other words with minimal lexical meaning. Co-occurrences of words within these candidate keywords are meaningful and allow us to identify word co-occurrence **without the application of an arbitrarily sized sliding window**.
@@ -37,9 +36,30 @@ The final score for each candidate keyword is calculated as the sum of its membe
 
 - **Implementation**: https://github.com/LIAAD/yake
 
-
 Light-weight **unsupervised** automatic keyword extraction method which rests on statistical text features extracted from **single documents** to select the most relevant keywords of a text. Our system does not need to be trained on a particular set of documents, nor does it depend on dictionaries, external corpora, text size, language, or domain.
 
+    It has five main steps: 
+    - Text pre-processing and candidate term identification: 
+    - feature extraction: 
+    - computing term score: 
+    - n-gram generation and computing candidate keyword score: 
+    - data deduplication and ranking: 
+
+The algorithm receives a text and the following parameters as inputs: a window size w (to be used by one of the statistical features), the number of n-grams, the deduplication threshold θ and the text language (for identification of the specific list of stopwords; note that tokens with fewer than three characters are also considered a stopword in our approach). 
+
+Given a text, the algorithm begins by dividing it into sentences with the **segtok** rule-based sentence segmenter that also perferms the tokenisation (pypi.python.org/pypi/segtok).
+
+Each term is characterized by a number of **statistical features**. These features comprise **TF** (term frequency), **offsets_sentences** (index of sentences where the terms occur), **TF_a** (term frequency of acronyms) and **TF_U** (term frequency of uppercase terms).
+
+To compute every **term score**, we gather all the feature weights into a unique S(t) score. The smaller the value, the more significant the 1-gram term.
+
+To form the list of candidate keywords, we consider a **sliding window** of size n, generating a contiguous sequence of terms ranging from 1-gram to n-grams, where n was experimentally evaluated, obtaining the best resunts for n=3 and n=2.
+
+To compute the **score of an n-gram**, we begin by splitting each candidate into tokens and compute their S(t) into a formula to abstract the n-gram score. We evaluate whether the token is a stopword, since stopwords are given special treatment to mitigate the impact of applying their S(t), likely a high value, when put in context.
+
+The final step is deciding if the **removal similar potential candidates** improves the ranking results. Two strings are considered similar if their distance similarity score is above a given threshold θ. Between two strings considered similar, we keep the most relevant one, that is, the one that has the lowest S(kw) score. Conversely, a candidate keyword is inserted into the list if no similarity between it and keywords already in the structure is found to be relevant. 
+
+The final list of keywords is then given by **ascending order** of the S(kw) scores.
 
 
 
@@ -48,7 +68,6 @@ Light-weight **unsupervised** automatic keyword extraction method which rests on
 - **Original paper**: https://web.eecs.umich.edu/~mihalcea/papers/mihalcea.emnlp04.pdf
 
 - **Implementation**: https://summanlp.github.io/textrank/
-
 
 A graph-based ranking algorithm is a way of deciding on the importance of a vertex within a graph, by taking into account global information recursively computed from the entire graph, rather than relying only on local vertex-specific information. 
 
@@ -117,7 +136,7 @@ Output in the `keybert/keybert` folder.
 
 TF-IDF is a numerical statistic that is intended to reflect **how important a word is to a document in a collection or corpus**. 
 
-The tf–idf value for a word **increases proportionally appearances of the word in the document** and **is offset by the number of documents where it appears**.
+The tf–idf value for a word **increases** proportionally **appearances of the word in the text and is **offset by the number of documents** where it appears.
 
 The output of the original formula is in the `tf_idf/tf_idf` folder. 
 
