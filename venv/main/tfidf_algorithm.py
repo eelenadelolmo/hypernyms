@@ -2,6 +2,10 @@ import os
 import shutil
 import nltk
 
+dir_parent = 'corpus/Medical/kw/tf_idf/'
+shutil.rmtree(dir_parent, ignore_errors=True)
+os.makedirs(dir_parent)
+
 
 #_____________________________________________________________________________________________________________________
 
@@ -107,9 +111,9 @@ for doc in docs:
 idf = computeIDF([x['freqs'] for x in text_words_freqs_tf])
 
 
-dir_kw = 'corpus/Medical/kw/tf_idf/'
-shutil.rmtree(dir_kw, ignore_errors=True)
-os.makedirs(dir_kw)
+dir_kw = 'corpus/Medical/kw/tf_idf/tf_idf/'
+shutil.rmtree(dir_parent, ignore_errors=True)
+os.makedirs(dir_parent)
 
 
 ## Getting and saving the TF-IDF metrics for every text
@@ -138,7 +142,7 @@ for elem in text_words_freqs_tf:
 
 #### Testing the sklearn algorithm ####
 
-dir_kw_sklearn = 'corpus/Medical/kw/tf_idf_sklearn/'
+dir_kw_sklearn = 'corpus/Medical/kw/tf_idf/tf_idf_sklearn/'
 shutil.rmtree(dir_kw_sklearn, ignore_errors=True)
 os.makedirs(dir_kw_sklearn)
 

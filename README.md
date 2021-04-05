@@ -85,11 +85,15 @@ You can select any model from sentence-transformers here (https://www.sbert.net/
 
 The results are ordered but we are not keeping the similarity measure in our output.
 
+Output in the `keybert/keybert` folder.
+
 - To diversify the results:
 
     Max Sum Similarity: `model.extract_keywords(doc, keyphrase_ngram_range=(3, 3), stop_words='english', use_maxsum=True, nr_candidates=20, top_n=5)`
+    Output in the `keybert/keybert_maxSum` folder.
     
     Maximal marginal relevance: `model.extract_keywords(doc, keyphrase_ngram_range=(3, 3), stop_words='english', use_mmr=True, diversity=0.7)`
+    Output in the `keybert/keybert_maxMargRelevance` folder.
 
 - Multiple documents:
 
@@ -110,3 +114,9 @@ The results are ordered but we are not keeping the similarity measure in our out
 TF-IDF is a numerical statistic that is intended to reflect how important a word is to a document in a collection or corpus. 
 
 The tf–idf value increases proportionally to the number of times a word appears in the document and is offset by the number of documents in the corpus that contain the word, which helps to adjust for the fact that some words appear more frequently in general.
+
+The output of the original formula is in the `tf_idf/tf_idf` folder. 
+
+We have also tested the scikit-learn implementation (TfidfVectorizer). Its outputis in the `tf_idf/tf_idf_sklearn` folder. 
+
+The main difference lies in an extra normalization step carried out in the scikit-learn known as Euclidean normalization. Besides, for the computation of the IDF, the scikit-learn implementation performs the addition of unitary constants in the denominator and numerator (in order to avoid zero divisions).
