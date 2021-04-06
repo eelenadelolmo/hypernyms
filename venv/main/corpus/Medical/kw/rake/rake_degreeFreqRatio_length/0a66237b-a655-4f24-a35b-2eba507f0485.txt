@@ -25,91 +25,91 @@ All: NKDA
 
 
 Keywords: 
-- sent child via ambulance
-- physician gave child dose
-- old baby boy presents
-- thoracic inlet coin lodged
-- child otherwise well
-- soft tissue damage
-- mother denied rash
-- likely impinging slightly
-- foreign body lodged
-- 60 sat 90
-- similar previous episodes
-- racemic epi produced
-- lung dz sh
-- causing breathing difficulties
-- 4 days later
-- coin lodged
-- repeat dose
-- racemic epi
-- breathing difficulties
-- previous illnesses
-- funny breathing
-- u visit
-- term svd
-- temp 99
-- since early
-- sick contacts
-- repeat films
-- peds ward
-- observed overnight
-- none fh
-- nicu stay
-- inspiratory stridor
-- initially respond
-- following day
-- egd retrieval
-- cxr revealed
-- clinic 3
-- clear rhinorrhea
-- 5days prior
-- symptoms returned
-- like symptoms
-- pt seemed
-- per mom
-- imaging performed
-- baby
-- lung
-- later
-- 4
-- symptoms
-- pt
-- performed
-- mom
-- utd
-- use
-- treatment
-- trachea
-- sig
-- shot
-- sedation
-- return
-- retractions
-- relief
-- pshx
-- presentation
-- pmhx
-- nkda
-- look
-- level
-- immunizations
-- hx
-- hospital
-- home
-- history
-- flaring
-- fever
-- f
-- evidence
-- evening
-- esophagus
-- discharged
-- diarrhea
-- decadron
-- cough
-- complications
-- cold
-- asthma
-- admission
-- acc
+\-\ sent\\ child\\ via\\ ambulance\ \(1\)\
+\-\ physician\\ gave\\ child\\ dose\ \(1\)\
+\-\ old\\ baby\\ boy\\ presents\ \(5\)\
+\-\ thoracic\\ inlet\\ coin\\ lodged\ \(0\)\
+\-\ child\\ otherwise\\ well\ \(1\)\
+\-\ soft\\ tissue\\ damage\ \(1\)\
+\-\ mother\\ denied\\ rash\ \(1\)\
+\-\ likely\\ impinging\\ slightly\ \(1\)\
+\-\ foreign\\ body\\ lodged\ \(0\)\
+\-\ 60\\ sat\\ 90\ \(0\)\
+\-\ similar\\ previous\\ episodes\ \(1\)\
+\-\ racemic\\ epi\\ produced\ \(1\)\
+\-\ lung\\ dz\\ sh\ \(0\)\
+\-\ causing\\ breathing\\ difficulties\ \(1\)\
+\-\ 4\\ days\\ later\ \(8\)\
+\-\ coin\\ lodged\ \(1\)\
+\-\ repeat\\ dose\ \(0\)\
+\-\ racemic\\ epi\ \(2\)\
+\-\ breathing\\ difficulties\ \(4\)\
+\-\ previous\\ illnesses\ \(1\)\
+\-\ funny\\ breathing\ \(1\)\
+\-\ u\\ visit\ \(0\)\
+\-\ term\\ svd\ \(0\)\
+\-\ temp\\ 99\ \(0\)\
+\-\ since\\ early\ \(2\)\
+\-\ sick\\ contacts\ \(9\)\
+\-\ repeat\\ films\ \(4\)\
+\-\ peds\\ ward\ \(0\)\
+\-\ observed\\ overnight\ \(2\)\
+\-\ none\\ fh\ \(0\)\
+\-\ nicu\\ stay\ \(0\)\
+\-\ inspiratory\\ stridor\ \(8\)\
+\-\ initially\\ respond\ \(1\)\
+\-\ following\\ day\ \(25\)\
+\-\ egd\\ retrieval\ \(0\)\
+\-\ cxr\\ revealed\ \(0\)\
+\-\ clinic\\ 3\ \(1\)\
+\-\ clear\\ rhinorrhea\ \(2\)\
+\-\ 5days\\ prior\ \(1\)\
+\-\ symptoms\\ returned\ \(3\)\
+\-\ like\\ symptoms\ \(11\)\
+\-\ pt\\ seemed\ \(0\)\
+\-\ per\\ mom\ \(1\)\
+\-\ imaging\\ performed\ \(3\)\
+\-\ baby\ \(116\)\
+\-\ lung\ \(1237\)\
+\-\ later\ \(4874\)\
+\-\ 4\ \(7367\)\
+\-\ symptoms\ \(1193\)\
+\-\ pt\ \(6402\)\
+\-\ performed\ \(898\)\
+\-\ mom\ \(434\)\
+\-\ utd\ \(1\)\
+\-\ use\ \(3780\)\
+\-\ treatment\ \(1387\)\
+\-\ trachea\ \(208\)\
+\-\ sig\ \(3321\)\
+\-\ shot\ \(44\)\
+\-\ sedation\ \(21\)\
+\-\ return\ \(214\)\
+\-\ retractions\ \(22\)\
+\-\ relief\ \(113\)\
+\-\ pshx\ \(0\)\
+\-\ presentation\ \(433\)\
+\-\ pmhx\ \(1\)\
+\-\ nkda\ \(0\)\
+\-\ look\ \(117\)\
+\-\ level\ \(1141\)\
+\-\ immunizations\ \(5\)\
+\-\ hx\ \(67\)\
+\-\ hospital\ \(381\)\
+\-\ home\ \(149\)\
+\-\ history\ \(2609\)\
+\-\ flaring\ \(14\)\
+\-\ fever\ \(530\)\
+\-\ f\ \(122186\)\
+\-\ evidence\ \(994\)\
+\-\ evening\ \(15\)\
+\-\ esophagus\ \(335\)\
+\-\ discharged\ \(141\)\
+\-\ diarrhea\ \(91\)\
+\-\ decadron\ \(1\)\
+\-\ cough\ \(310\)\
+\-\ complications\ \(227\)\
+\-\ cold\ \(52\)\
+\-\ asthma\ \(67\)\
+\-\ admission\ \(190\)\
+\-\ acc\ \(1182\)\

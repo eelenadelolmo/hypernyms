@@ -10,21 +10,21 @@ This MR finding represents the classic "Medusa Head" configuration.  These lesio
 
 
 Keywords: 
-- noncontributory none large left
-- sided venous vascular anomaly
-- developmental venous anomaly
-- mr finding represents
-- venous angioma
-- typically asymptomatic
-- surrounding gliosis
-- minimal amount
-- likely unrelated
-- roentgen classic
-- medusa head
-- head
-- classic
-- symptoms
-- snakes
-- patient
-- lesions
-- configuration
+\-\ noncontributory\\ none\\ large\\ left\ \(0\)\
+\-\ sided\\ venous\\ vascular\\ anomaly\ \(1\)\
+\-\ developmental\\ venous\\ anomaly\ \(10\)\
+\-\ mr\\ finding\\ represents\ \(0\)\
+\-\ venous\\ angioma\ \(15\)\
+\-\ typically\\ asymptomatic\ \(3\)\
+\-\ surrounding\\ gliosis\ \(1\)\
+\-\ minimal\\ amount\ \(3\)\
+\-\ likely\\ unrelated\ \(3\)\
+\-\ roentgen\\ classic\ \(1\)\
+\-\ medusa\\ head\ \(0\)\
+\-\ head\ \(1754\)\
+\-\ classic\ \(290\)\
+\-\ symptoms\ \(1193\)\
+\-\ snakes\ \(1\)\
+\-\ patient\ \(6664\)\
+\-\ lesions\ \(1236\)\
+\-\ configuration\ \(59\)\

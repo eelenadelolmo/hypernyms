@@ -13,28 +13,28 @@ Please see factoid for discussion.
 
 
 Keywords: 
-- normal t2w signal suggests
-- acute myocardial infarction ).
-- prior myocardial infarction
-- please see factoid
-- mycardial delayed enhancement
-- left ventricle consistent
-- chronic myocardial infarction
-- cardiovascular risk factors
-- myocardial infarction
-- subendocardial hyperenhancement
-- old male
-- medical management
-- infarcted region
-- anterioseptal wall
-- vs
-- revascularization
-- n
-- mde
-- lack
-- imaging
-- history
-- edema
-- discussion
-- consideration
-- anterior
+\-\ normal\\ t2w\\ signal\\ suggests\ \(0\)\
+\-\ acute\\ myocardial\\ infarction\\ \\)\\.\ \(0\)\
+\-\ prior\\ myocardial\\ infarction\ \(1\)\
+\-\ please\\ see\\ factoid\ \(0\)\
+\-\ mycardial\\ delayed\\ enhancement\ \(1\)\
+\-\ left\\ ventricle\\ consistent\ \(1\)\
+\-\ chronic\\ myocardial\\ infarction\ \(1\)\
+\-\ cardiovascular\\ risk\\ factors\ \(2\)\
+\-\ myocardial\\ infarction\ \(21\)\
+\-\ subendocardial\\ hyperenhancement\ \(0\)\
+\-\ old\\ male\ \(687\)\
+\-\ medical\\ management\ \(20\)\
+\-\ infarcted\\ region\ \(1\)\
+\-\ anterioseptal\\ wall\ \(1\)\
+\-\ vs\ \(251\)\
+\-\ revascularization\ \(9\)\
+\-\ n\ \(427216\)\
+\-\ mde\ \(0\)\
+\-\ lack\ \(240\)\
+\-\ imaging\ \(1265\)\
+\-\ history\ \(2609\)\
+\-\ edema\ \(920\)\
+\-\ discussion\ \(89\)\
+\-\ consideration\ \(94\)\
+\-\ anterior\ \(1277\)\

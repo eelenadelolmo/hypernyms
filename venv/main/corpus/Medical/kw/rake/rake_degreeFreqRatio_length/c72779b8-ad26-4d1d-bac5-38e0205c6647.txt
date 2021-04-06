@@ -10,27 +10,27 @@ The ability to recognize brown fat hypermetabolism is critical in evaluating PET
 
 
 Keywords: 
-- low attenuation areas consistent
-- supraclavicular lymph node metastasis
-- recognize brown fat hypermetabolism
-- supraclavicular brown fat
-- evaluating pet scans
-- 18 fdg pet
-- ct scan correlates
-- normal finding f
-- supraclavicular region
-- normal finding
-- ct scan
-- muscle due
-- metastatic disease
-- hepatocellular carcinoma
-- benign uptake
-- fat
-- f
-- tension
-- staging
-- evaluation
-- diagnosis
-- critical
-- confused
-- ability
+\-\ low\\ attenuation\\ areas\\ consistent\ \(1\)\
+\-\ supraclavicular\\ lymph\\ node\\ metastasis\ \(0\)\
+\-\ recognize\\ brown\\ fat\\ hypermetabolism\ \(1\)\
+\-\ supraclavicular\\ brown\\ fat\ \(1\)\
+\-\ evaluating\\ pet\\ scans\ \(0\)\
+\-\ 18\\ fdg\\ pet\ \(0\)\
+\-\ ct\\ scan\\ correlates\ \(0\)\
+\-\ normal\\ finding\\ f\ \(0\)\
+\-\ supraclavicular\\ region\ \(8\)\
+\-\ normal\\ finding\ \(31\)\
+\-\ ct\\ scan\ \(0\)\
+\-\ muscle\\ due\ \(1\)\
+\-\ metastatic\\ disease\ \(243\)\
+\-\ hepatocellular\\ carcinoma\ \(28\)\
+\-\ benign\\ uptake\ \(0\)\
+\-\ fat\ \(988\)\
+\-\ f\ \(122186\)\
+\-\ tension\ \(1095\)\
+\-\ staging\ \(52\)\
+\-\ evaluation\ \(719\)\
+\-\ diagnosis\ \(1295\)\
+\-\ critical\ \(35\)\
+\-\ confused\ \(41\)\
+\-\ ability\ \(529\)\

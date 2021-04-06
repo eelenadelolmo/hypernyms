@@ -12,15 +12,15 @@ Arachnoid Cyst
 
 
 Keywords: 
-- contrast entering cystic space
-- none none mri
-- brief time delay
-- t2 sequences
-- head obtained
-- csf signal
-- ct myelogram
-- ct
-- t1
-- headaches
-- er
-- cisternogram
+\-\ contrast\\ entering\\ cystic\\ space\ \(1\)\
+\-\ none\\ none\\ mri\ \(0\)\
+\-\ brief\\ time\\ delay\ \(1\)\
+\-\ t2\\ sequences\ \(0\)\
+\-\ head\\ obtained\ \(1\)\
+\-\ csf\\ signal\ \(0\)\
+\-\ ct\\ myelogram\ \(0\)\
+\-\ ct\ \(23117\)\
+\-\ t1\ \(2\)\
+\-\ headaches\ \(312\)\
+\-\ er\ \(88390\)\
+\-\ cisternogram\ \(2\)\

@@ -10,29 +10,29 @@ The ordering provider ordered a CT, instead of nuclear medicine bone scan or MRI
 
 
 Keywords: 
-- stress fracture acute traumatic fracture nutrient vessel
-- stop offending activity immediately ct findings
-- periosteal reactive changes indicating healing
-- nuclear medicine bone scan
-- identify stress fracture
-- cortical fracture lucency
-- per ordering provider
-- ordering provider ordered
-- gold standard test
-- stress fracture
-- wide window
-- tibia patient
-- shin pain
-- proximal diaphysis
-- level settings
-- diagnosis could
-- ct
-- weeks
-- training
-- tenderness
-- r
-- palpation
-- mri
-- marathon
-- made
-- instead
+\-\ stress\\ fracture\\ acute\\ traumatic\\ fracture\\ nutrient\\ vessel\ \(0\)\
+\-\ stop\\ offending\\ activity\\ immediately\\ ct\\ findings\ \(0\)\
+\-\ periosteal\\ reactive\\ changes\\ indicating\\ healing\ \(1\)\
+\-\ nuclear\\ medicine\\ bone\\ scan\ \(6\)\
+\-\ identify\\ stress\\ fracture\ \(1\)\
+\-\ cortical\\ fracture\\ lucency\ \(1\)\
+\-\ per\\ ordering\\ provider\ \(1\)\
+\-\ ordering\\ provider\\ ordered\ \(1\)\
+\-\ gold\\ standard\\ test\ \(1\)\
+\-\ stress\\ fracture\ \(98\)\
+\-\ wide\\ window\ \(1\)\
+\-\ tibia\\ patient\ \(0\)\
+\-\ shin\\ pain\ \(6\)\
+\-\ proximal\\ diaphysis\ \(6\)\
+\-\ level\\ settings\ \(2\)\
+\-\ diagnosis\\ could\ \(10\)\
+\-\ ct\ \(23117\)\
+\-\ weeks\ \(793\)\
+\-\ training\ \(42\)\
+\-\ tenderness\ \(526\)\
+\-\ r\ \(387594\)\
+\-\ palpation\ \(394\)\
+\-\ mri\ \(5\)\
+\-\ marathon\ \(7\)\
+\-\ made\ \(256\)\
+\-\ instead\ \(25\)\

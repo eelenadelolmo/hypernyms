@@ -14,26 +14,26 @@ Patient is a an academic neuroradiologist, who should have known better than to 
 
 
 Keywords: 
-- severe cough â€¢ osteopenia
-- breath â€¢ severe left
-- left â€¢ trauma
-- â€¢ mild shortness
-- â€¢ bony metastasis
-- five year follow
-- cross country skiing
-- hemothorax rib fractures
-- pleural scarring
-- mvc ),
-- known better
-- icy trail
-- gunshot wound
-- academic neuroradiologist
-- hemothorax
-- ski
-- prostate
-- penetrating
-- patient
-- lung
-- breast
-- blunt
-- athletes
+\-\ severe\\ cough\\ \\â\\€\\¢\\ osteopenia\ \(0\)\
+\-\ breath\\ \\â\\€\\¢\\ severe\\ left\ \(0\)\
+\-\ left\\ \\â\\€\\¢\\ trauma\ \(0\)\
+\-\ \\â\\€\\¢\\ mild\\ shortness\ \(1\)\
+\-\ \\â\\€\\¢\\ bony\\ metastasis\ \(0\)\
+\-\ five\\ year\\ follow\ \(2\)\
+\-\ cross\\ country\\ skiing\ \(1\)\
+\-\ hemothorax\\ rib\\ fractures\ \(0\)\
+\-\ pleural\\ scarring\ \(2\)\
+\-\ mvc\\ \\)\\,\ \(0\)\
+\-\ known\\ better\ \(1\)\
+\-\ icy\\ trail\ \(1\)\
+\-\ gunshot\\ wound\ \(11\)\
+\-\ academic\\ neuroradiologist\ \(1\)\
+\-\ hemothorax\ \(29\)\
+\-\ ski\ \(397\)\
+\-\ prostate\ \(114\)\
+\-\ penetrating\ \(33\)\
+\-\ patient\ \(6664\)\
+\-\ lung\ \(1237\)\
+\-\ breast\ \(862\)\
+\-\ blunt\ \(77\)\
+\-\ athletes\ \(13\)\

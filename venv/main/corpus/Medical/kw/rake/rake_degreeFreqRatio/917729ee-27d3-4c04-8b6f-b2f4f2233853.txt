@@ -28,48 +28,48 @@ Radiographic images originally read in the Emergency Department may have been su
 
 
 Keywords: 
-- diffuse increased signal intensity indicating edema
-- subchondral decreased signal intensity indicating necrosis
-- linear serpiginous low signal indicating fracture
-- articular surface indicating collapse
-- radiographic images originally read
-- subtle articular surface collapse
-- articular surface flattening
-- two week duration
-- protected weight bearing
-- physical therapy focusing
-- may show flattening
-- emergency department may
-- right knee pain
-- mri spontaneous osteonecrosis
-- subchondral fracture
-- subchondral sclerosis
-- early collapse
-- spontaneous osteonecrosis
-- effusion mri
-- stress response
-- patient presented
-- osteochondritis dissecans
-- nonsteroidal anti
-- inflammatory medications
-- sonk due
-- fracture
-- may
-- knee
-- sonk
-- trauma
-- t2
-- t1
-- swelling
-- suggestive
-- strengthening
-- radiographs
-- quadriceps
-- osteoarthritis
-- ocd
-- history
-- hamstrings
-- crutches
-- available
-- area
-- analgesics
+\-\ diffuse\\ increased\\ signal\\ intensity\\ indicating\\ edema\ \(0\)\
+\-\ subchondral\\ decreased\\ signal\\ intensity\\ indicating\\ necrosis\ \(1\)\
+\-\ linear\\ serpiginous\\ low\\ signal\\ indicating\\ fracture\ \(1\)\
+\-\ articular\\ surface\\ indicating\\ collapse\ \(1\)\
+\-\ radiographic\\ images\\ originally\\ read\ \(0\)\
+\-\ subtle\\ articular\\ surface\\ collapse\ \(0\)\
+\-\ articular\\ surface\\ flattening\ \(1\)\
+\-\ two\\ week\\ duration\ \(1\)\
+\-\ protected\\ weight\\ bearing\ \(4\)\
+\-\ physical\\ therapy\\ focusing\ \(1\)\
+\-\ may\\ show\\ flattening\ \(1\)\
+\-\ emergency\\ department\\ may\ \(0\)\
+\-\ right\\ knee\\ pain\ \(31\)\
+\-\ mri\\ spontaneous\\ osteonecrosis\ \(0\)\
+\-\ subchondral\\ fracture\ \(9\)\
+\-\ subchondral\\ sclerosis\ \(15\)\
+\-\ early\\ collapse\ \(1\)\
+\-\ spontaneous\\ osteonecrosis\ \(1\)\
+\-\ effusion\\ mri\ \(0\)\
+\-\ stress\\ response\ \(0\)\
+\-\ patient\\ presented\ \(106\)\
+\-\ osteochondritis\\ dissecans\ \(16\)\
+\-\ nonsteroidal\\ anti\ \(4\)\
+\-\ inflammatory\\ medications\ \(13\)\
+\-\ sonk\\ due\ \(0\)\
+\-\ fracture\ \(2355\)\
+\-\ may\ \(2058\)\
+\-\ knee\ \(865\)\
+\-\ sonk\ \(0\)\
+\-\ trauma\ \(1087\)\
+\-\ t2\ \(2\)\
+\-\ t1\ \(2\)\
+\-\ swelling\ \(523\)\
+\-\ suggestive\ \(196\)\
+\-\ strengthening\ \(13\)\
+\-\ radiographs\ \(541\)\
+\-\ quadriceps\ \(53\)\
+\-\ osteoarthritis\ \(102\)\
+\-\ ocd\ \(0\)\
+\-\ history\ \(2609\)\
+\-\ hamstrings\ \(5\)\
+\-\ crutches\ \(14\)\
+\-\ available\ \(430\)\
+\-\ area\ \(1149\)\
+\-\ analgesics\ \(22\)\

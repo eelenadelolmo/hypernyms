@@ -8,36 +8,36 @@ The difficulty with this case is trying to decide whether the findings represent
 
 
 Keywords: 
-- findings represent avascular necrosis
-- linear high t2 signal
-- necessitating wheelchair use
-- low t1 signal
-- femoral head consistent
-- left femoral head
-- subchondral fracture seen
-- t2 bright
-- subchondral fracture
-- t1 dark
-- left hip
-- subchondral portion
-- transient osteoporosis
-- small step
-- several weeks
-- risk factors
-- proximal femur
-- lateral aspect
-- injury occuring
-- incresed pain
-- giving birth
-- decide whether
-- bone secondary
-- weakining
-- trying
-- patient
-- osteporosis
-- osteonecrosis
-- mobility
-- explained
-- difficulty
-- delivery
-- case
+\-\ findings\\ represent\\ avascular\\ necrosis\ \(1\)\
+\-\ linear\\ high\\ t2\\ signal\ \(0\)\
+\-\ necessitating\\ wheelchair\\ use\ \(1\)\
+\-\ low\\ t1\\ signal\ \(1\)\
+\-\ femoral\\ head\\ consistent\ \(3\)\
+\-\ left\\ femoral\\ head\ \(13\)\
+\-\ subchondral\\ fracture\\ seen\ \(1\)\
+\-\ t2\\ bright\ \(0\)\
+\-\ subchondral\\ fracture\ \(9\)\
+\-\ t1\\ dark\ \(0\)\
+\-\ left\\ hip\ \(103\)\
+\-\ subchondral\\ portion\ \(1\)\
+\-\ transient\\ osteoporosis\ \(4\)\
+\-\ small\\ step\ \(1\)\
+\-\ several\\ weeks\ \(48\)\
+\-\ risk\\ factors\ \(85\)\
+\-\ proximal\\ femur\ \(20\)\
+\-\ lateral\\ aspect\ \(132\)\
+\-\ injury\\ occuring\ \(1\)\
+\-\ incresed\\ pain\ \(1\)\
+\-\ giving\\ birth\ \(1\)\
+\-\ decide\\ whether\ \(3\)\
+\-\ bone\\ secondary\ \(2\)\
+\-\ weakining\ \(1\)\
+\-\ trying\ \(14\)\
+\-\ patient\ \(6664\)\
+\-\ osteporosis\ \(1\)\
+\-\ osteonecrosis\ \(57\)\
+\-\ mobility\ \(82\)\
+\-\ explained\ \(29\)\
+\-\ difficulty\ \(173\)\
+\-\ delivery\ \(108\)\
+\-\ case\ \(1848\)\

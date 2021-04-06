@@ -31,103 +31,103 @@ The clinical history and interval changes in the mammographic appearance of the 
 
 
 Keywords: 
-- normal asymmetric glandular tissue
-- continue annual screening mammography
-- resulting pressure pattern corresponds
-- invasive lobular breast carcinoma
-- screening mammography approximately 1
-- right breast include mastitis
-- oil cysts include lipomas
-- previously noted increased density
-- shows new increased density
-- would exert pressure
-- unilateral increased density
-- new suspicious masses
-- new screening mammogram
-- traumatic oil cysts
-- pendulous right breast
-- differential diagnostic considerations
-- six months ago
-- upper right breast
-- upper outer quadrant
-- several new round
-- clinical breast exam
-- birads category 2
-- right diagnostic mammogram
-- upper inner quadrant
-- six month follow
-- right breast consistent
-- 2 months following
-- mammographic abnormalities seen
-- motor vehicle accident
-- increased density
-- right breast
-- oil cysts
-- month follow
-- diagram shows
-- breast trauma
-- 2 months
-- upper portion
-- upper half
-- inner half
-- round calcifications
-- round calcfications
-- mammographic evidence
-- mammographic appearance
-- prior mammogram
-- mammogram happened
-- skin changes
-- posterior third
-- palpable nodules
-- nipple discharge
-- mlo view
-- lymphangitic spread
-- leading diagnosis
-- interval changes
-- initial appearance
-- fat necrosis
-- coarse benign
-- clinical history
-- centered nodules
-- cc view
-- benign findings
-- architectural distortion
-- appearing calcifications
-- anterior third
-- performed 1
-- seatbelt overlies
-- patient presented
-- circumscribed lucent
-- noted
-- 1
-- 2
-- mammogram
-- vehicle
-- seen
-- consistent
-- accident
-- seatbelt
-- performed
-- patient
-- lucent
-- history
-- circumscribed
-- well
-- wearing
-- time
-- resolved
-- recommended
-- malignancy
-- location
-- involved
-- inflammatory
-- galactoceles
-- driving
-- disease
-- development
-- chest
-- based
-- areas
-- additionally
-- 6
-- 3
+\-\ normal\\ asymmetric\\ glandular\\ tissue\ \(1\)\
+\-\ continue\\ annual\\ screening\\ mammography\ \(0\)\
+\-\ resulting\\ pressure\\ pattern\\ corresponds\ \(1\)\
+\-\ invasive\\ lobular\\ breast\\ carcinoma\ \(1\)\
+\-\ screening\\ mammography\\ approximately\\ 1\ \(1\)\
+\-\ right\\ breast\\ include\\ mastitis\ \(1\)\
+\-\ oil\\ cysts\\ include\\ lipomas\ \(1\)\
+\-\ previously\\ noted\\ increased\\ density\ \(2\)\
+\-\ shows\\ new\\ increased\\ density\ \(2\)\
+\-\ would\\ exert\\ pressure\ \(1\)\
+\-\ unilateral\\ increased\\ density\ \(1\)\
+\-\ new\\ suspicious\\ masses\ \(3\)\
+\-\ new\\ screening\\ mammogram\ \(0\)\
+\-\ traumatic\\ oil\\ cysts\ \(4\)\
+\-\ pendulous\\ right\\ breast\ \(1\)\
+\-\ differential\\ diagnostic\\ considerations\ \(0\)\
+\-\ six\\ months\\ ago\ \(6\)\
+\-\ upper\\ right\\ breast\ \(1\)\
+\-\ upper\\ outer\\ quadrant\ \(34\)\
+\-\ several\\ new\\ round\ \(3\)\
+\-\ clinical\\ breast\\ exam\ \(6\)\
+\-\ birads\\ category\\ 2\ \(0\)\
+\-\ right\\ diagnostic\\ mammogram\ \(2\)\
+\-\ upper\\ inner\\ quadrant\ \(2\)\
+\-\ six\\ month\\ follow\ \(3\)\
+\-\ right\\ breast\\ consistent\ \(2\)\
+\-\ 2\\ months\\ following\ \(6\)\
+\-\ mammographic\\ abnormalities\\ seen\ \(1\)\
+\-\ motor\\ vehicle\\ accident\ \(113\)\
+\-\ increased\\ density\ \(42\)\
+\-\ right\\ breast\ \(162\)\
+\-\ oil\\ cysts\ \(8\)\
+\-\ month\\ follow\ \(25\)\
+\-\ diagram\\ shows\ \(1\)\
+\-\ breast\\ trauma\ \(2\)\
+\-\ 2\\ months\ \(112\)\
+\-\ upper\\ portion\ \(8\)\
+\-\ upper\\ half\ \(5\)\
+\-\ inner\\ half\ \(1\)\
+\-\ round\\ calcifications\ \(2\)\
+\-\ round\\ calcfications\ \(2\)\
+\-\ mammographic\\ evidence\ \(1\)\
+\-\ mammographic\\ appearance\ \(3\)\
+\-\ prior\\ mammogram\ \(4\)\
+\-\ mammogram\\ happened\ \(2\)\
+\-\ skin\\ changes\ \(24\)\
+\-\ posterior\\ third\ \(12\)\
+\-\ palpable\\ nodules\ \(8\)\
+\-\ nipple\\ discharge\ \(18\)\
+\-\ mlo\\ view\ \(0\)\
+\-\ lymphangitic\\ spread\ \(4\)\
+\-\ leading\\ diagnosis\ \(4\)\
+\-\ interval\\ changes\ \(2\)\
+\-\ initial\\ appearance\ \(2\)\
+\-\ fat\\ necrosis\ \(11\)\
+\-\ coarse\\ benign\ \(1\)\
+\-\ clinical\\ history\ \(42\)\
+\-\ centered\\ nodules\ \(3\)\
+\-\ cc\\ view\ \(0\)\
+\-\ benign\\ findings\ \(3\)\
+\-\ architectural\\ distortion\ \(25\)\
+\-\ appearing\\ calcifications\ \(4\)\
+\-\ anterior\\ third\ \(9\)\
+\-\ performed\\ 1\ \(7\)\
+\-\ seatbelt\\ overlies\ \(1\)\
+\-\ patient\\ presented\ \(106\)\
+\-\ circumscribed\\ lucent\ \(3\)\
+\-\ noted\ \(1338\)\
+\-\ 1\ \(15898\)\
+\-\ 2\ \(13754\)\
+\-\ mammogram\ \(142\)\
+\-\ vehicle\ \(275\)\
+\-\ seen\ \(1878\)\
+\-\ consistent\ \(1042\)\
+\-\ accident\ \(382\)\
+\-\ seatbelt\ \(14\)\
+\-\ performed\ \(898\)\
+\-\ patient\ \(6664\)\
+\-\ lucent\ \(148\)\
+\-\ history\ \(2609\)\
+\-\ circumscribed\ \(248\)\
+\-\ well\ \(2069\)\
+\-\ wearing\ \(24\)\
+\-\ time\ \(1151\)\
+\-\ resolved\ \(129\)\
+\-\ recommended\ \(221\)\
+\-\ malignancy\ \(256\)\
+\-\ location\ \(775\)\
+\-\ involved\ \(224\)\
+\-\ inflammatory\ \(375\)\
+\-\ galactoceles\ \(2\)\
+\-\ driving\ \(15\)\
+\-\ disease\ \(2755\)\
+\-\ development\ \(314\)\
+\-\ chest\ \(1434\)\
+\-\ based\ \(311\)\
+\-\ areas\ \(516\)\
+\-\ additionally\ \(13\)\
+\-\ 6\ \(5312\)\
+\-\ 3\ \(8405\)\

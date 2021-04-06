@@ -12,21 +12,21 @@ This was an incidental finding which could be confused with an abnormality of th
 
 
 Keywords: 
-- normal variant unusual persistence
-- otherwise normal non
-- labs yet drawn
-- contrast head ct
-- ventricular system
-- treatment necessary
-- short duration
-- novice reader
-- incidental finding
-- cavum vergae
-- subjective headache
-- headache
-- present
-- could
-- confused
-- adults
-- abnormality
-- 15
+\-\ normal\\ variant\\ unusual\\ persistence\ \(0\)\
+\-\ otherwise\\ normal\\ non\ \(1\)\
+\-\ labs\\ yet\\ drawn\ \(1\)\
+\-\ contrast\\ head\\ ct\ \(0\)\
+\-\ ventricular\\ system\ \(18\)\
+\-\ treatment\\ necessary\ \(12\)\
+\-\ short\\ duration\ \(2\)\
+\-\ novice\\ reader\ \(1\)\
+\-\ incidental\\ finding\ \(160\)\
+\-\ cavum\\ vergae\ \(4\)\
+\-\ subjective\\ headache\ \(1\)\
+\-\ headache\ \(722\)\
+\-\ present\ \(4381\)\
+\-\ could\ \(419\)\
+\-\ confused\ \(41\)\
+\-\ adults\ \(101\)\
+\-\ abnormality\ \(331\)\
+\-\ 15\ \(862\)\
