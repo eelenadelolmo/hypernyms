@@ -15,51 +15,51 @@ Patients are often unaware of the exact mechanism of their injuries.  In this ca
 
 
 Keywords: 
-- abnormal high t2 signal
-- abnormal high signal extends
-- corresponding t1 low signal
-- superior posterior labrum
-- persistent shoulder pain
-- shoulder stabilization surgery
-- posterior labrum
-- posterior rim
-- posterior dislocation
-- patient may benefit
-- anteromedial portion indicating
-- shoulder instability
-- small contour abnormality
-- associated periosteal sleeve
-- patient reported
-- ongoing pain
-- anteromedial aspect
-- reverse hill
-- reverse bankhart
-- physical exam
-- recent contusion
-- old man
-- often unaware
-- impaction fracture
-- humeral head
-- exact mechanism
-- decreased rom
-- also evident
-- exam
-- sach
-- result
-- relocation
-- referral
-- patients
-- orthopedics
-- macerated
-- labs
-- injuries
-- however
-- glenoid
-- found
-- findings
-- evaluation
-- deformity
-- crepitus
-- clearly
-- case
-- avulsed
+\-\ abnormal\\ high\\ t2\\ signal\ \(0\)\
+\-\ abnormal\\ high\\ signal\\ extends\ \(0\)\
+\-\ corresponding\\ t1\\ low\\ signal\ \(0\)\
+\-\ superior\\ posterior\\ labrum\ \(1\)\
+\-\ persistent\\ shoulder\\ pain\ \(2\)\
+\-\ shoulder\\ stabilization\\ surgery\ \(2\)\
+\-\ posterior\\ labrum\ \(2\)\
+\-\ posterior\\ rim\ \(5\)\
+\-\ posterior\\ dislocation\ \(9\)\
+\-\ patient\\ may\\ benefit\ \(1\)\
+\-\ anteromedial\\ portion\\ indicating\ \(1\)\
+\-\ shoulder\\ instability\ \(3\)\
+\-\ small\\ contour\\ abnormality\ \(1\)\
+\-\ associated\\ periosteal\\ sleeve\ \(1\)\
+\-\ patient\\ reported\ \(43\)\
+\-\ ongoing\\ pain\ \(1\)\
+\-\ anteromedial\\ aspect\ \(9\)\
+\-\ reverse\\ hill\ \(0\)\
+\-\ reverse\\ bankhart\ \(0\)\
+\-\ physical\\ exam\ \(415\)\
+\-\ recent\\ contusion\ \(1\)\
+\-\ old\\ man\ \(474\)\
+\-\ often\\ unaware\ \(1\)\
+\-\ impaction\\ fracture\ \(15\)\
+\-\ humeral\\ head\ \(85\)\
+\-\ exact\\ mechanism\ \(5\)\
+\-\ decreased\\ rom\ \(0\)\
+\-\ also\\ evident\ \(3\)\
+\-\ exam\ \(1928\)\
+\-\ sach\ \(4\)\
+\-\ result\ \(873\)\
+\-\ relocation\ \(1\)\
+\-\ referral\ \(51\)\
+\-\ patients\ \(1247\)\
+\-\ orthopedics\ \(24\)\
+\-\ macerated\ \(1\)\
+\-\ labs\ \(154\)\
+\-\ injuries\ \(217\)\
+\-\ however\ \(389\)\
+\-\ glenoid\ \(46\)\
+\-\ found\ \(632\)\
+\-\ findings\ \(1459\)\
+\-\ evaluation\ \(719\)\
+\-\ deformity\ \(223\)\
+\-\ crepitus\ \(22\)\
+\-\ clearly\ \(92\)\
+\-\ case\ \(1848\)\
+\-\ avulsed\ \(13\)\

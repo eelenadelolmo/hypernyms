@@ -22,92 +22,92 @@ Given this particular patient's history, the likely cause of his pneumomediastin
 
 
 Keywords: 
-- neck subcutaneous emphysema
-- hyperactive bowel sounds patient
-- denies chest pain
-- provided adequate pain control
-- barotrauma â€¢ booerhave â€™
-- traumatic scars evident lungs
-- pneumomediastinum due
-- per patient
-- particular patient
-- appears well developed
-- vomiting associated
-- upper chest
-- syndrome â€¢ asthma
-- subcutaneous emphysema
-- significant pneumomediastinum
-- patient
-- pain controlled
-- neck radiographs
-- neck fullness
-- well nourished
-- supple without masses
-- prior sore throat
-- pneumomediastinum
-- otherwise clear
-- eating mexican food
-- crackles noted cv
-- chest
-- blood tinged emesis
-- Â» cxr
-- vomiting
-- viral gastroenteritis
-- v started
-- uri symptoms
-- regular rate
-- oral agents
-- multiple episodes
-- mild discomfort
-- man presented
-- lungs
-- likely cause
-- kept npo
-- emergency department
-- due
-- difficulty swallowing
-- contrast extravasation
-- conditions leading
-- condition improved
-- clear
-- cardiothoracic surgery
-- barotrauma
-- auscultation bilaterally
-- associated
-- appears
-- also complains
-- tender
-- talking
-- surgical
-- soft
-- sob
-- rubs
-- retching
-- pneumothorax
-- observation
-- noticed
-- normocephalic
-- normal
-- non
-- nausea
-- n
-- murmurs
-- lymphadenopathy
-- jvd
-- home
-- history
-- heent
-- hd
-- given
-- gallops
-- follow
-- distended
-- discharged
-- diarrhea
-- complaints
-- back
-- arranged
-- afebrile
-- admitted
-- abd
-- 3
+\-\ neck\\ subcutaneous\\ emphysema\ \(1\)\
+\-\ hyperactive\\ bowel\\ sounds\\ patient\ \(0\)\
+\-\ denies\\ chest\\ pain\ \(2\)\
+\-\ provided\\ adequate\\ pain\\ control\ \(1\)\
+\-\ barotrauma\\ \\â\\€\\¢\\ booerhave\\ \\â\\€\\™\ \(0\)\
+\-\ traumatic\\ scars\\ evident\\ lungs\ \(0\)\
+\-\ pneumomediastinum\\ due\ \(0\)\
+\-\ per\\ patient\ \(6\)\
+\-\ particular\\ patient\ \(17\)\
+\-\ appears\\ well\\ developed\ \(0\)\
+\-\ vomiting\\ associated\ \(1\)\
+\-\ upper\\ chest\ \(15\)\
+\-\ syndrome\\ \\â\\€\\¢\\ asthma\ \(0\)\
+\-\ subcutaneous\\ emphysema\ \(35\)\
+\-\ significant\\ pneumomediastinum\ \(1\)\
+\-\ patient\ \(6664\)\
+\-\ pain\\ controlled\ \(1\)\
+\-\ neck\\ radiographs\ \(1\)\
+\-\ neck\\ fullness\ \(4\)\
+\-\ well\\ nourished\ \(23\)\
+\-\ supple\\ without\\ masses\ \(1\)\
+\-\ prior\\ sore\\ throat\ \(1\)\
+\-\ pneumomediastinum\ \(57\)\
+\-\ otherwise\\ clear\ \(7\)\
+\-\ eating\\ mexican\\ food\ \(0\)\
+\-\ crackles\\ noted\\ cv\ \(0\)\
+\-\ chest\ \(1434\)\
+\-\ blood\\ tinged\\ emesis\ \(1\)\
+\-\ \\Â\\»\\ cxr\ \(0\)\
+\-\ vomiting\ \(297\)\
+\-\ viral\\ gastroenteritis\ \(3\)\
+\-\ v\\ started\ \(0\)\
+\-\ uri\\ symptoms\ \(0\)\
+\-\ regular\\ rate\ \(15\)\
+\-\ oral\\ agents\ \(1\)\
+\-\ multiple\\ episodes\ \(12\)\
+\-\ mild\\ discomfort\ \(7\)\
+\-\ man\\ presented\ \(83\)\
+\-\ lungs\ \(195\)\
+\-\ likely\\ cause\ \(10\)\
+\-\ kept\\ npo\ \(0\)\
+\-\ emergency\\ department\ \(85\)\
+\-\ due\ \(942\)\
+\-\ difficulty\\ swallowing\ \(21\)\
+\-\ contrast\\ extravasation\ \(9\)\
+\-\ conditions\\ leading\ \(1\)\
+\-\ condition\\ improved\ \(1\)\
+\-\ clear\ \(592\)\
+\-\ cardiothoracic\\ surgery\ \(4\)\
+\-\ barotrauma\ \(7\)\
+\-\ auscultation\\ bilaterally\ \(40\)\
+\-\ associated\ \(1240\)\
+\-\ appears\ \(318\)\
+\-\ also\\ complains\ \(9\)\
+\-\ tender\ \(869\)\
+\-\ talking\ \(6\)\
+\-\ surgical\ \(1169\)\
+\-\ soft\ \(1126\)\
+\-\ sob\ \(37\)\
+\-\ rubs\ \(64\)\
+\-\ retching\ \(26\)\
+\-\ pneumothorax\ \(252\)\
+\-\ observation\ \(85\)\
+\-\ noticed\ \(65\)\
+\-\ normocephalic\ \(13\)\
+\-\ normal\ \(4026\)\
+\-\ non\ \(1889\)\
+\-\ nausea\ \(246\)\
+\-\ n\ \(427216\)\
+\-\ murmurs\ \(78\)\
+\-\ lymphadenopathy\ \(201\)\
+\-\ jvd\ \(0\)\
+\-\ home\ \(149\)\
+\-\ history\ \(2609\)\
+\-\ heent\ \(2\)\
+\-\ hd\ \(52\)\
+\-\ given\ \(318\)\
+\-\ gallops\ \(49\)\
+\-\ follow\ \(2068\)\
+\-\ distended\ \(165\)\
+\-\ discharged\ \(141\)\
+\-\ diarrhea\ \(91\)\
+\-\ complaints\ \(175\)\
+\-\ back\ \(894\)\
+\-\ arranged\ \(16\)\
+\-\ afebrile\ \(65\)\
+\-\ admitted\ \(182\)\
+\-\ abd\ \(2100\)\
+\-\ 3\ \(8405\)\

@@ -1,102 +1,100 @@
-Texto: 
-n/a
-no treatment or followup is needed.
-ultrasound shows a heterogeneous isoechoic mass with echogenic rim.
-the peripheral nodular enhancement on ct is pathognomonic of a hemangioma
-the u/s characteristics are nonspecific, and a reasonable differential diagnosis would include
-hemangioma, fnh, adenoma, hcc, metastasis, and lymphoma.
-49 year old female with incidental lesion on ct please evaluate with ultrasound.
-the liver lesion was a nonspecific incidental finding on an earlier unenhanced ct study.  at that time an ultrasound was recommended for further evaluation.  however, on the same day as the ultrasound, the patient was undergoing a contrast ct of the chest contrast for different reasons.  the submitted ct image is from that study. although not a 3 phase ct, the characteristics shown on the single obtained phase are sufficient for the diagnosis of a hemangioma. the ct and us images were made available at the same time.
-
-
-Keywords by value: 
-- hemangioma: 0.06900553283498283
-- ultrasound: 0.06108729120497117
-- nonspecific: 0.052972021881565065
-- characteristics: 0.05121891846383931
-- ct: 0.05040437092617048
-- phase: 0.04843045636590069
-- same: 0.042436308424602484
-- incidental: 0.038985404794943085
-- fnh: 0.038136215507099384
-- isoechoic: 0.03720759695392313
-- u/s: 0.03640319097425733
-- reasonable: 0.03396063008203947
-- hcc: 0.03396063008203947
-- study: 0.03387507658867421
-- sufficient: 0.03204223411144589
-- unenhanced: 0.03168777326793425
-- reasons: 0.03058945063664536
-- submitted: 0.0304477006522466
-- time: 0.029079532858304974
-- 49: 0.02854205409675168
-- pathognomonic: 0.02786664868638598
-- echogenic: 0.025609459231919655
-- different: 0.025485246658409195
-- earlier: 0.025424087794168125
-- undergoing: 0.025244250666760403
-- followup: 0.02457421672031327
-- diagnosis: 0.023641196756390603
-- contrast: 0.023045490202504886
-- please: 0.02284119218747122
-- needed: 0.022420290500962267
-- on: 0.02180394615558518
-- rim: 0.021789285498196826
-- nodular: 0.02159283016332477
-- us: 0.02159283016332477
-- adenoma: 0.02149695392654224
-- recommended: 0.02134047509278766
-- lesion: 0.020970544891571744
-- single: 0.02086542343668935
-- evaluate: 0.020808591917211284
-- shown: 0.020641245145481914
-- made: 0.020505255253683484
-- metastasis: 0.019269562206626064
-- heterogeneous: 0.018928886486716902
-- n/a: 0.01864582317686197
-- peripheral: 0.018626104349482635
-- would: 0.018319077580855964
-- obtained: 0.01830039819725206
-- was: 0.01786043714844012
-- that: 0.01778290034408221
-- liver: 0.017748322354414
-- although: 0.01738511614805183
-- available: 0.01730553643879396
-- a: 0.016724088028495232
-- finding: 0.01659073195806314
-- further: 0.016370145432531676
-- differential: 0.016343131502126084
-- day: 0.016343131502126084
-- image: 0.01607945280902169
-- evaluation: 0.014953245757992818
-- lymphoma: 0.014712039966201722
-- ,: 0.014677051744913171
-- include: 0.014440683662833053
-- however: 0.014333542503596811
-- an: 0.014236926075719638
-- shows: 0.014152853612824572
-- are: 0.014034624970236166
-- at: 0.013948953648573893
-- enhancement: 0.013798125097126723
-- for: 0.013176653288723767
-- chest: 0.012317644578659751
-- 3: 0.012054069437991203
-- were: 0.011688471907770611
-- the: 0.010826751211729732
-- female: 0.010582893201492975
-- treatment: 0.010419379274704139
-- is: 0.010161881537073354
-- images: 0.009875083686441893
-- as: 0.007786611481289927
-- from: 0.0076291308021338095
-- not: 0.007438666697240575
-- mass: 0.00715940365631063
-- or: 0.006033269572070527
-- year: 0.0057596702968247876
-- old: 0.005270690342543702
-- no: 0.005183398498215675
-- patient: 0.0051601923549180004
-- and: 0.00325317480238949
-- .: 0.0021385262709244742
-- with: 0.0021145333028293324
-- of: 0.0021054903758672607
+\-\ Texto\\:\\ \ \(0\)\
+\-\ n\\/a\ \(127\)\
+\-\ no\\ treatment\\ or\\ followup\\ is\\ needed\\.\ \(1\)\
+\-\ ultrasound\\ shows\\ a\\ heterogeneous\\ isoechoic\\ mass\\ with\\ echogenic\\ rim\\.\ \(1\)\
+\-\ the\\ peripheral\\ nodular\\ enhancement\\ on\\ ct\\ is\\ pathognomonic\\ of\\ a\\ hemangioma\ \(0\)\
+\-\ the\\ u\\/s\\ characteristics\\ are\\ nonspecific\\,\\ and\\ a\\ reasonable\\ differential\\ diagnosis\\ would\\ include\ \(0\)\
+\-\ hemangioma\\,\\ fnh\\,\\ adenoma\\,\\ hcc\\,\\ metastasis\\,\\ and\\ lymphoma\\.\ \(0\)\
+\-\ 49\\ year\\ old\\ female\\ with\\ incidental\\ lesion\\ on\\ ct\\ please\\ evaluate\\ with\\ ultrasound\\.\ \(0\)\
+\-\ the\\ liver\\ lesion\\ was\\ a\\ nonspecific\\ incidental\\ finding\\ on\\ an\\ earlier\\ unenhanced\\ ct\\ study\\.\\ \\ at\\ that\\ time\\ an\\ ultrasound\\ was\\ recommended\\ for\\ further\\ evaluation\\.\\ \\ however\\,\\ on\\ the\\ same\\ day\\ as\\ the\\ ultrasound\\,\\ the\\ patient\\ was\\ undergoing\\ a\\ contrast\\ ct\\ of\\ the\\ chest\\ contrast\\ for\\ different\\ reasons\\.\\ \\ the\\ submitted\\ ct\\ image\\ is\\ from\\ that\\ study\\.\\ although\\ not\\ a\\ 3\\ phase\\ ct\\,\\ the\\ characteristics\\ shown\\ on\\ the\\ single\\ obtained\\ phase\\ are\\ sufficient\\ for\\ the\\ diagnosis\\ of\\ a\\ hemangioma\\.\\ the\\ ct\\ and\\ us\\ images\\ were\\ made\\ available\\ at\\ the\\ same\\ time\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ hemangioma\\:\\ 0\\.06900553283498283\ \(0\)\
+\-\ ultrasound\\:\\ 0\\.06108729120497117\ \(0\)\
+\-\ nonspecific\\:\\ 0\\.052972021881565065\ \(0\)\
+\-\ characteristics\\:\\ 0\\.05121891846383931\ \(0\)\
+\-\ ct\\:\\ 0\\.05040437092617048\ \(0\)\
+\-\ phase\\:\\ 0\\.04843045636590069\ \(0\)\
+\-\ same\\:\\ 0\\.042436308424602484\ \(0\)\
+\-\ incidental\\:\\ 0\\.038985404794943085\ \(0\)\
+\-\ fnh\\:\\ 0\\.038136215507099384\ \(0\)\
+\-\ isoechoic\\:\\ 0\\.03720759695392313\ \(0\)\
+\-\ u\\/s\\:\\ 0\\.03640319097425733\ \(0\)\
+\-\ reasonable\\:\\ 0\\.03396063008203947\ \(0\)\
+\-\ hcc\\:\\ 0\\.03396063008203947\ \(0\)\
+\-\ study\\:\\ 0\\.03387507658867421\ \(0\)\
+\-\ sufficient\\:\\ 0\\.03204223411144589\ \(0\)\
+\-\ unenhanced\\:\\ 0\\.03168777326793425\ \(0\)\
+\-\ reasons\\:\\ 0\\.03058945063664536\ \(0\)\
+\-\ submitted\\:\\ 0\\.0304477006522466\ \(0\)\
+\-\ time\\:\\ 0\\.029079532858304974\ \(0\)\
+\-\ 49\\:\\ 0\\.02854205409675168\ \(0\)\
+\-\ pathognomonic\\:\\ 0\\.02786664868638598\ \(0\)\
+\-\ echogenic\\:\\ 0\\.025609459231919655\ \(0\)\
+\-\ different\\:\\ 0\\.025485246658409195\ \(0\)\
+\-\ earlier\\:\\ 0\\.025424087794168125\ \(0\)\
+\-\ undergoing\\:\\ 0\\.025244250666760403\ \(0\)\
+\-\ followup\\:\\ 0\\.02457421672031327\ \(0\)\
+\-\ diagnosis\\:\\ 0\\.023641196756390603\ \(0\)\
+\-\ contrast\\:\\ 0\\.023045490202504886\ \(0\)\
+\-\ please\\:\\ 0\\.02284119218747122\ \(0\)\
+\-\ needed\\:\\ 0\\.022420290500962267\ \(0\)\
+\-\ on\\:\\ 0\\.02180394615558518\ \(0\)\
+\-\ rim\\:\\ 0\\.021789285498196826\ \(0\)\
+\-\ nodular\\:\\ 0\\.02159283016332477\ \(0\)\
+\-\ us\\:\\ 0\\.02159283016332477\ \(0\)\
+\-\ adenoma\\:\\ 0\\.02149695392654224\ \(0\)\
+\-\ recommended\\:\\ 0\\.02134047509278766\ \(0\)\
+\-\ lesion\\:\\ 0\\.020970544891571744\ \(0\)\
+\-\ single\\:\\ 0\\.02086542343668935\ \(0\)\
+\-\ evaluate\\:\\ 0\\.020808591917211284\ \(0\)\
+\-\ shown\\:\\ 0\\.020641245145481914\ \(0\)\
+\-\ made\\:\\ 0\\.020505255253683484\ \(0\)\
+\-\ metastasis\\:\\ 0\\.019269562206626064\ \(0\)\
+\-\ heterogeneous\\:\\ 0\\.018928886486716902\ \(0\)\
+\-\ n\\/a\\:\\ 0\\.01864582317686197\ \(0\)\
+\-\ peripheral\\:\\ 0\\.018626104349482635\ \(0\)\
+\-\ would\\:\\ 0\\.018319077580855964\ \(0\)\
+\-\ obtained\\:\\ 0\\.01830039819725206\ \(0\)\
+\-\ was\\:\\ 0\\.01786043714844012\ \(0\)\
+\-\ that\\:\\ 0\\.01778290034408221\ \(0\)\
+\-\ liver\\:\\ 0\\.017748322354414\ \(0\)\
+\-\ although\\:\\ 0\\.01738511614805183\ \(0\)\
+\-\ available\\:\\ 0\\.01730553643879396\ \(0\)\
+\-\ a\\:\\ 0\\.016724088028495232\ \(0\)\
+\-\ finding\\:\\ 0\\.01659073195806314\ \(0\)\
+\-\ further\\:\\ 0\\.016370145432531676\ \(0\)\
+\-\ differential\\:\\ 0\\.016343131502126084\ \(0\)\
+\-\ day\\:\\ 0\\.016343131502126084\ \(0\)\
+\-\ image\\:\\ 0\\.01607945280902169\ \(0\)\
+\-\ evaluation\\:\\ 0\\.014953245757992818\ \(0\)\
+\-\ lymphoma\\:\\ 0\\.014712039966201722\ \(0\)\
+\-\ \\,\\:\\ 0\\.014677051744913171\ \(0\)\
+\-\ include\\:\\ 0\\.014440683662833053\ \(0\)\
+\-\ however\\:\\ 0\\.014333542503596811\ \(0\)\
+\-\ an\\:\\ 0\\.014236926075719638\ \(0\)\
+\-\ shows\\:\\ 0\\.014152853612824572\ \(0\)\
+\-\ are\\:\\ 0\\.014034624970236166\ \(0\)\
+\-\ at\\:\\ 0\\.013948953648573893\ \(0\)\
+\-\ enhancement\\:\\ 0\\.013798125097126723\ \(0\)\
+\-\ for\\:\\ 0\\.013176653288723767\ \(0\)\
+\-\ chest\\:\\ 0\\.012317644578659751\ \(0\)\
+\-\ 3\\:\\ 0\\.012054069437991203\ \(0\)\
+\-\ were\\:\\ 0\\.011688471907770611\ \(0\)\
+\-\ the\\:\\ 0\\.010826751211729732\ \(0\)\
+\-\ female\\:\\ 0\\.010582893201492975\ \(0\)\
+\-\ treatment\\:\\ 0\\.010419379274704139\ \(0\)\
+\-\ is\\:\\ 0\\.010161881537073354\ \(0\)\
+\-\ images\\:\\ 0\\.009875083686441893\ \(0\)\
+\-\ as\\:\\ 0\\.007786611481289927\ \(0\)\
+\-\ from\\:\\ 0\\.0076291308021338095\ \(0\)\
+\-\ not\\:\\ 0\\.007438666697240575\ \(0\)\
+\-\ mass\\:\\ 0\\.00715940365631063\ \(0\)\
+\-\ or\\:\\ 0\\.006033269572070527\ \(0\)\
+\-\ year\\:\\ 0\\.0057596702968247876\ \(0\)\
+\-\ old\\:\\ 0\\.005270690342543702\ \(0\)\
+\-\ no\\:\\ 0\\.005183398498215675\ \(0\)\
+\-\ patient\\:\\ 0\\.0051601923549180004\ \(0\)\
+\-\ and\\:\\ 0\\.00325317480238949\ \(0\)\
+\-\ \\.\\:\\ 0\\.0021385262709244742\ \(0\)\
+\-\ with\\:\\ 0\\.0021145333028293324\ \(0\)\
+\-\ of\\:\\ 0\\.0021054903758672607\ \(0\)\
