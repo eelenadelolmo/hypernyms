@@ -13,25 +13,25 @@ leukemia
 
 
 Keywords: 
-- scattered hypointense nodular lesions
-- scattered calcific nodules within
-- calcified lesions present
-- prior ct scan
-- ct without evidence
-- acute intracrabial pathology
-- patient becomes symptomatic
-- acute onset
-- unknown treatment
-- successfully treated
-- patient
-- facial numbness
-- emergency room
-- cerebral hemispheres
-- valid
-- torch
-- necessary
-- mri
-- immunocompetent
-- follow
-- e
-- correspond
+\-\ scattered\\ hypointense\\ nodular\\ lesions\ \(1\)\
+\-\ scattered\\ calcific\\ nodules\\ within\ \(1\)\
+\-\ calcified\\ lesions\\ present\ \(1\)\
+\-\ prior\\ ct\\ scan\ \(0\)\
+\-\ ct\\ without\\ evidence\ \(2\)\
+\-\ acute\\ intracrabial\\ pathology\ \(1\)\
+\-\ patient\\ becomes\\ symptomatic\ \(6\)\
+\-\ acute\\ onset\ \(100\)\
+\-\ unknown\\ treatment\ \(0\)\
+\-\ successfully\\ treated\ \(9\)\
+\-\ patient\ \(6664\)\
+\-\ facial\\ numbness\ \(14\)\
+\-\ emergency\\ room\ \(90\)\
+\-\ cerebral\\ hemispheres\ \(60\)\
+\-\ valid\ \(14\)\
+\-\ torch\ \(9\)\
+\-\ necessary\ \(182\)\
+\-\ mri\ \(5\)\
+\-\ immunocompetent\ \(5\)\
+\-\ follow\ \(2068\)\
+\-\ e\ \(661096\)\
+\-\ correspond\ \(142\)\

@@ -14,40 +14,40 @@ Given this patients history of surgery and subsequent ulcers, the stricure of th
 
 
 Keywords: 
-- stricture stenosis secondary
-- recent surgical manipulation
-- surgical patients
-- subsequent ulcers
-- small bowel obstruction
-- likely secondary
-- possibility given
-- marginal ulcers
-- ischemic stricture
-- duodenal stenosis
-- differential given
-- subsequent kub
-- secondary
-- patients history
-- ulcers
-- given
-- recovery complicated
-- gastric pull
-- frequent emesis
-- flouroscopic images
-- even though
-- common cause
-- would
-- surgery
-- stricure
-- sbo
-- pt
-- post
-- partial
-- meals
-- high
-- duodenum
-- ct
-- consistent
-- appearance
-- also
-- adhesions
+\-\ stricture\\ stenosis\\ secondary\ \(0\)\
+\-\ recent\\ surgical\\ manipulation\ \(1\)\
+\-\ surgical\\ patients\ \(5\)\
+\-\ subsequent\\ ulcers\ \(1\)\
+\-\ small\\ bowel\\ obstruction\ \(31\)\
+\-\ likely\\ secondary\ \(28\)\
+\-\ possibility\\ given\ \(2\)\
+\-\ marginal\\ ulcers\ \(1\)\
+\-\ ischemic\\ stricture\ \(0\)\
+\-\ duodenal\\ stenosis\ \(3\)\
+\-\ differential\\ given\ \(3\)\
+\-\ subsequent\\ kub\ \(0\)\
+\-\ secondary\ \(741\)\
+\-\ patients\\ history\ \(6\)\
+\-\ ulcers\ \(76\)\
+\-\ given\ \(318\)\
+\-\ recovery\\ complicated\ \(1\)\
+\-\ gastric\\ pull\ \(4\)\
+\-\ frequent\\ emesis\ \(1\)\
+\-\ flouroscopic\\ images\ \(4\)\
+\-\ even\\ though\ \(12\)\
+\-\ common\\ cause\ \(69\)\
+\-\ would\ \(459\)\
+\-\ surgery\ \(977\)\
+\-\ stricure\ \(1\)\
+\-\ sbo\ \(11\)\
+\-\ pt\ \(6402\)\
+\-\ post\ \(2733\)\
+\-\ partial\ \(354\)\
+\-\ meals\ \(22\)\
+\-\ high\ \(1213\)\
+\-\ duodenum\ \(128\)\
+\-\ ct\ \(23117\)\
+\-\ consistent\ \(1042\)\
+\-\ appearance\ \(749\)\
+\-\ also\ \(1857\)\
+\-\ adhesions\ \(44\)\

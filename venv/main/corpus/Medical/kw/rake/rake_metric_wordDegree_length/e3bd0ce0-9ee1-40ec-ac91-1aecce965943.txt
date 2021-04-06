@@ -13,30 +13,30 @@ Given cortical discontinuity and associated marrow signal changes, findings were
 
 
 Keywords: 
-- associated marrow signal changes
-- associated subcutaneous edema without
-- given cortical discontinuity
-- soft tissue swelling
-- soft tissue abscess
-- distal first phalanx
-- osteomyelitis given patient
-- high t2 signal
-- associated lucency
-- distal phalanx
-- cortical discontinuity
-- underlying medical disease
-- normal wbc count
-- first digit
-- 1st digit
-- subsequent amputation
-- sedimentation rate
-- patient
-- low t1
-- mri
-- hypertension
-- history
-- findings
-- enhancement
-- diabetes
-- consistent
-- 120
+\-\ associated\\ marrow\\ signal\\ changes\ \(1\)\
+\-\ associated\\ subcutaneous\\ edema\\ without\ \(0\)\
+\-\ given\\ cortical\\ discontinuity\ \(0\)\
+\-\ soft\\ tissue\\ swelling\ \(100\)\
+\-\ soft\\ tissue\\ abscess\ \(3\)\
+\-\ distal\\ first\\ phalanx\ \(1\)\
+\-\ osteomyelitis\\ given\\ patient\ \(1\)\
+\-\ high\\ t2\\ signal\ \(0\)\
+\-\ associated\\ lucency\ \(1\)\
+\-\ distal\\ phalanx\ \(28\)\
+\-\ cortical\\ discontinuity\ \(6\)\
+\-\ underlying\\ medical\\ disease\ \(1\)\
+\-\ normal\\ wbc\\ count\ \(0\)\
+\-\ first\\ digit\ \(6\)\
+\-\ 1st\\ digit\ \(2\)\
+\-\ subsequent\\ amputation\ \(1\)\
+\-\ sedimentation\\ rate\ \(17\)\
+\-\ patient\ \(6664\)\
+\-\ low\\ t1\ \(1\)\
+\-\ mri\ \(5\)\
+\-\ hypertension\ \(298\)\
+\-\ history\ \(2609\)\
+\-\ findings\ \(1459\)\
+\-\ enhancement\ \(862\)\
+\-\ diabetes\ \(101\)\
+\-\ consistent\ \(1042\)\
+\-\ 120\ \(51\)\

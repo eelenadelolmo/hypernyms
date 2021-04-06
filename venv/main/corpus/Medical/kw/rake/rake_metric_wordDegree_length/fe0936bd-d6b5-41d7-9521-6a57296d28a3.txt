@@ -18,108 +18,108 @@ In this case, the lesion remained ill-defined on the true ML lateral view.  Beca
 
 
 Keywords: 
-- true ml lateral view
-- accurately target breast ultrasound
-- normal clinical breast exam
-- true lateral view
-- spot compression views reveal
-- simple breast cyst
-- spot magnification views
-- additional mammographic views
-- lesion remained ill
-- left breast
-- breast must
-- breast cancer
-- breast
-- small lesion
-- mlo views
-- medial view
-- true medial
-- likely sharpen definition --
-- lesion within
-- lesion could
-- lesion close
-- benign lesion
-- 3 views
-- lesion
-- initial screening cc
-- 3rd view
-- routine screening mammogram
-- lateral projection
-- simple cyst
-- nipple line along
-- true
-- patient called back
-- lateral
-- defined nodular density
-- would therefore place
-- significant risk factors
-- good posterior enhancement
-- prior exam
-- medial half
-- additional evaluation
-- accurately located
-- straight line
-- cyst
-- ultrasound
-- ml
-- less helpful
-- anechoic mass
-- 00 position
-- typically accomplished
-- typical presentation
-- teaching point
-- roentgen classic
-- patient
-- middle third
-- ill
-- horizontal plane
-- family history
-- defined
-- clinically asymptomatic
-- cirmscribed nodule
-- circumscribed malignancy
-- cc
-- acurately identified
-- small
-- position
-- mlo
-- mass
-- helpful
-- evaluation
-- well
-- value
-- solving
-- respect
-- represent
-- recalled
-- proven
-- problem
-- possible
-- personal
-- papilloma
-- order
-- obtaing
-- none
-- new
-- location
-- localized
-- localization
-- lm
-- lining
-- inferomedial
-- film
-- fibroadenoma
-- evaluated
-- drawn
-- demonstrating
-- defining
-- complexity
-- characterizing
-- case
-- breasts
-- beyond
-- address
-- abnormality
-- able
-- 9
+\-\ true\\ ml\\ lateral\\ view\ \(0\)\
+\-\ accurately\\ target\\ breast\\ ultrasound\ \(1\)\
+\-\ normal\\ clinical\\ breast\\ exam\ \(0\)\
+\-\ true\\ lateral\\ view\ \(1\)\
+\-\ spot\\ compression\\ views\\ reveal\ \(0\)\
+\-\ simple\\ breast\\ cyst\ \(1\)\
+\-\ spot\\ magnification\\ views\ \(1\)\
+\-\ additional\\ mammographic\\ views\ \(1\)\
+\-\ lesion\\ remained\\ ill\ \(1\)\
+\-\ left\\ breast\ \(132\)\
+\-\ breast\\ must\ \(1\)\
+\-\ breast\\ cancer\ \(149\)\
+\-\ breast\ \(862\)\
+\-\ small\\ lesion\ \(10\)\
+\-\ mlo\\ views\ \(0\)\
+\-\ medial\\ view\ \(1\)\
+\-\ true\\ medial\ \(1\)\
+\-\ likely\\ sharpen\\ definition\\ \\-\\-\ \(0\)\
+\-\ lesion\\ within\ \(46\)\
+\-\ lesion\\ could\ \(5\)\
+\-\ lesion\\ close\ \(2\)\
+\-\ benign\\ lesion\ \(24\)\
+\-\ 3\\ views\ \(4\)\
+\-\ lesion\ \(3405\)\
+\-\ initial\\ screening\\ cc\ \(0\)\
+\-\ 3rd\\ view\ \(1\)\
+\-\ routine\\ screening\\ mammogram\ \(7\)\
+\-\ lateral\\ projection\ \(19\)\
+\-\ simple\\ cyst\ \(23\)\
+\-\ nipple\\ line\\ along\ \(1\)\
+\-\ true\ \(79\)\
+\-\ patient\\ called\\ back\ \(1\)\
+\-\ lateral\ \(4531\)\
+\-\ defined\\ nodular\\ density\ \(1\)\
+\-\ would\\ therefore\\ place\ \(1\)\
+\-\ significant\\ risk\\ factors\ \(2\)\
+\-\ good\\ posterior\\ enhancement\ \(1\)\
+\-\ prior\\ exam\ \(4\)\
+\-\ medial\\ half\ \(2\)\
+\-\ additional\\ evaluation\ \(5\)\
+\-\ accurately\\ located\ \(1\)\
+\-\ straight\\ line\ \(1\)\
+\-\ cyst\ \(3194\)\
+\-\ ultrasound\ \(622\)\
+\-\ ml\ \(261\)\
+\-\ less\\ helpful\ \(1\)\
+\-\ anechoic\\ mass\ \(3\)\
+\-\ 00\\ position\ \(24\)\
+\-\ typically\\ accomplished\ \(1\)\
+\-\ typical\\ presentation\ \(11\)\
+\-\ teaching\\ point\ \(5\)\
+\-\ roentgen\\ classic\ \(1\)\
+\-\ patient\ \(6664\)\
+\-\ middle\\ third\ \(13\)\
+\-\ ill\ \(3454\)\
+\-\ horizontal\\ plane\ \(3\)\
+\-\ family\\ history\ \(101\)\
+\-\ defined\ \(373\)\
+\-\ clinically\\ asymptomatic\ \(4\)\
+\-\ cirmscribed\\ nodule\ \(1\)\
+\-\ circumscribed\\ malignancy\ \(2\)\
+\-\ cc\ \(3643\)\
+\-\ acurately\\ identified\ \(1\)\
+\-\ small\ \(1354\)\
+\-\ position\ \(545\)\
+\-\ mlo\ \(7\)\
+\-\ mass\ \(4930\)\
+\-\ helpful\ \(84\)\
+\-\ evaluation\ \(719\)\
+\-\ well\ \(2069\)\
+\-\ value\ \(162\)\
+\-\ solving\ \(40\)\
+\-\ respect\ \(99\)\
+\-\ represent\ \(421\)\
+\-\ recalled\ \(11\)\
+\-\ proven\ \(60\)\
+\-\ problem\ \(217\)\
+\-\ possible\ \(420\)\
+\-\ personal\ \(26\)\
+\-\ papilloma\ \(115\)\
+\-\ order\ \(805\)\
+\-\ obtaing\ \(1\)\
+\-\ none\ \(204\)\
+\-\ new\ \(425\)\
+\-\ location\ \(775\)\
+\-\ localized\ \(111\)\
+\-\ localization\ \(27\)\
+\-\ lm\ \(2988\)\
+\-\ lining\ \(50\)\
+\-\ inferomedial\ \(9\)\
+\-\ film\ \(532\)\
+\-\ fibroadenoma\ \(22\)\
+\-\ evaluated\ \(154\)\
+\-\ drawn\ \(48\)\
+\-\ demonstrating\ \(185\)\
+\-\ defining\ \(7\)\
+\-\ complexity\ \(6\)\
+\-\ characterizing\ \(2\)\
+\-\ case\ \(1848\)\
+\-\ breasts\ \(41\)\
+\-\ beyond\ \(50\)\
+\-\ address\ \(23\)\
+\-\ abnormality\ \(331\)\
+\-\ able\ \(2982\)\
+\-\ 9\ \(4978\)\

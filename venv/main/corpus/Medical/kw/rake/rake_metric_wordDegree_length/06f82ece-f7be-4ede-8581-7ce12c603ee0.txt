@@ -20,65 +20,65 @@ The findings are subtle examples for metastatic disease on plain radiographs.  I
 
 
 Keywords: 
-- thoracic spine demonstrates abnormality
-- t4 demonstrates lytic destruction
-- left t4 pedicle
-- causing severe central stenosis
-- t11 spinous process
-- thoracic spine
-- spinous process
-- right pedicle
-- left pedicle
-- soft tissue mass
-- lumbar spine
-- transverse process
-- spinous processes
-- routine search pattern
-- detect radiographic evidence
-- adjacent fourth rib
-- t4
-- central canal
-- right side
-- mass effect
-- hepatocellular carcinoma
-- hepatocelluar carcinoma
-- cortical margins
-- cortical margin
-- right
-- vertebral bodies
-- tumor debulking
-- subtle examples
-- subpleural space
-- spinal cord
-- plain radiographs
-- metastatic disease
-- known malignancy
-- decreased mineralization
-- bone metastasis
-- back pain
-- ap radiograph
-- ------------------------------------------------ ct
-- well
-- t3
-- setting
-- region
-- present
-- pedicles
-- patient
-- neurosurgery
-- n
-- majority
-- lucency
-- loss
-- level
-- l3
-- involving
-- integrity
-- insure
-- important
-- impingement
-- history
-- followed
-- findings
-- base
-- additionally
+\-\ thoracic\\ spine\\ demonstrates\\ abnormality\ \(1\)\
+\-\ t4\\ demonstrates\\ lytic\\ destruction\ \(0\)\
+\-\ left\\ t4\\ pedicle\ \(0\)\
+\-\ causing\\ severe\\ central\\ stenosis\ \(1\)\
+\-\ t11\\ spinous\\ process\ \(0\)\
+\-\ thoracic\\ spine\ \(62\)\
+\-\ spinous\\ process\ \(35\)\
+\-\ right\\ pedicle\ \(4\)\
+\-\ left\\ pedicle\ \(5\)\
+\-\ soft\\ tissue\\ mass\ \(178\)\
+\-\ lumbar\\ spine\ \(201\)\
+\-\ transverse\\ process\ \(9\)\
+\-\ spinous\\ processes\ \(19\)\
+\-\ routine\\ search\\ pattern\ \(1\)\
+\-\ detect\\ radiographic\\ evidence\ \(1\)\
+\-\ adjacent\\ fourth\\ rib\ \(1\)\
+\-\ t4\ \(1\)\
+\-\ central\\ canal\ \(43\)\
+\-\ right\\ side\ \(342\)\
+\-\ mass\\ effect\ \(295\)\
+\-\ hepatocellular\\ carcinoma\ \(28\)\
+\-\ hepatocelluar\\ carcinoma\ \(1\)\
+\-\ cortical\\ margins\ \(4\)\
+\-\ cortical\\ margin\ \(12\)\
+\-\ right\ \(7267\)\
+\-\ vertebral\\ bodies\ \(89\)\
+\-\ tumor\\ debulking\ \(2\)\
+\-\ subtle\\ examples\ \(1\)\
+\-\ subpleural\\ space\ \(2\)\
+\-\ spinal\\ cord\ \(299\)\
+\-\ plain\\ radiographs\ \(69\)\
+\-\ metastatic\\ disease\ \(243\)\
+\-\ known\\ malignancy\ \(4\)\
+\-\ decreased\\ mineralization\ \(4\)\
+\-\ bone\\ metastasis\ \(4\)\
+\-\ back\\ pain\ \(447\)\
+\-\ ap\\ radiograph\ \(0\)\
+\-\ \\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\ ct\ \(0\)\
+\-\ well\ \(2069\)\
+\-\ t3\ \(0\)\
+\-\ setting\ \(115\)\
+\-\ region\ \(988\)\
+\-\ present\ \(4381\)\
+\-\ pedicles\ \(11\)\
+\-\ patient\ \(6664\)\
+\-\ neurosurgery\ \(37\)\
+\-\ n\ \(427216\)\
+\-\ majority\ \(110\)\
+\-\ lucency\ \(164\)\
+\-\ loss\ \(825\)\
+\-\ level\ \(1141\)\
+\-\ l3\ \(0\)\
+\-\ involving\ \(398\)\
+\-\ integrity\ \(26\)\
+\-\ insure\ \(7\)\
+\-\ important\ \(184\)\
+\-\ impingement\ \(109\)\
+\-\ history\ \(2609\)\
+\-\ followed\ \(428\)\
+\-\ findings\ \(1459\)\
+\-\ base\ \(744\)\
+\-\ additionally\ \(13\)\
