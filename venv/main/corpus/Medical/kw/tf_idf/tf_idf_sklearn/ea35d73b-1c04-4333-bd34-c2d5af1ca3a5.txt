@@ -1,98 +1,93 @@
-Texto: 
-ground glass, expansile appearance of left maxillary, bilateral ethmoid, left sphenoid, frontal and temporal bone.
-polyostotic fibrous dysplasia
-hyperphosphatasia
-chronic severe anemia
-paget's disease
-metastatic disease
-follow up. patient with long history of facial deformity.
--hyperphosphatasia can show thickening of the cranial bones and increased density, but with similar appearance to paget's disease (see below). the most common involvement in the skull involves the jaw, which is prognathic.
-
--chronic severe anemia (sickle cell disease, thallesemia) would show more generalized, rather than focal, skull thickening
-
--paget's disease would be found in a much older age group(not a 13 year-old girl), and would show trabecular expansion, rather than ground glass appearance.
-
-metastatic disease (osteoblastic lesions) would be more focal than the above process, and more destructive in appearance.
-
-
-Keywords by value: 
-- paget: 0.28201522744368795
-- hyperphosphatasia: 0.27274409145292766
-- would: 0.26841673764842416
-- disease: 0.23875137334928725
-- appearance: 0.22859477655966565
-- glass: 0.1907137738121109
-- ground: 0.1845603377754973
-- show: 0.18053560354270334
-- anemia: 0.17418960108503428
-- rather: 0.16795903961268355
-- than: 0.16121107633292145
-- more: 0.15615904642880674
-- skull: 0.1538266011102923
-- prognathic: 0.1515990693591284
-- thallesemia: 0.1515990693591284
-- thickening: 0.1289822421730449
-- severe: 0.12001964250033194
-- polyostotic: 0.11704267323238894
-- focal: 0.11340508696857339
-- chronic: 0.11253611648970178
-- trabecular: 0.10715976285344145
-- osteoblastic: 0.10605147800425492
-- jaw: 0.10451640766060351
-- metastatic: 0.10398147280219863
-- destructive: 0.10100484910048767
-- ethmoid: 0.0991356771747938
-- sphenoid: 0.09535688690605545
-- the: 0.09457595256512039
-- maxillary: 0.09400507581456263
-- sickle: 0.09374742547872926
-- generalized: 0.09050588652466757
-- group: 0.09009041204011109
-- older: 0.08797427103109708
-- expansion: 0.08642327023684945
-- expansile: 0.0857778254678231
-- involves: 0.0824862771056495
-- much: 0.0821012842786919
-- and: 0.07835353910864339
-- facial: 0.07816627338805901
-- below: 0.07806646459689494
-- deformity: 0.07747988203829037
-- cranial: 0.07747988203829037
-- be: 0.07690970630674325
-- bones: 0.07627581528835915
-- fibrous: 0.0736377164972017
-- temporal: 0.07281965759480338
-- dysplasia: 0.07260336672670199
-- similar: 0.07224902251768495
-- 13: 0.07149508187751547
-- process: 0.07109781721213605
-- in: 0.07074633133694208
-- involvement: 0.06861106456447773
-- above: 0.06838724820118883
-- girl: 0.0664979853912668
-- left: 0.06467380759253898
-- long: 0.0628593548237426
-- density: 0.0628593548237426
-- found: 0.06133718264630707
-- frontal: 0.06101309214943198
-- age: 0.05951372131204317
-- see: 0.05896881630573002
-- of: 0.05565333635140502
-- lesions: 0.05444228462046407
-- cell: 0.054227546493993375
-- common: 0.05376005817671828
-- bone: 0.05172352535135317
-- increased: 0.05126104345703994
-- follow: 0.051103150451915415
-- bilateral: 0.050946743520647896
-- can: 0.04974581563965567
-- most: 0.049334587967925704
-- up: 0.04689189415562399
-- but: 0.0468766551689767
-- which: 0.04310457866374151
-- not: 0.03742311406106395
-- with: 0.03712439280440902
-- history: 0.03621747098749397
-- patient: 0.03083230431822174
-- is: 0.025960464977776775
-- to: 0.02369875567198305
+\-\ Texto\\:\\ \ \(0\)\
+\-\ ground\\ glass\\,\\ expansile\\ appearance\\ of\\ left\\ maxillary\\,\\ bilateral\\ ethmoid\\,\\ left\\ sphenoid\\,\\ frontal\\ and\\ temporal\\ bone\\.\ \(0\)\
+\-\ polyostotic\\ fibrous\\ dysplasia\ \(2\)\
+\-\ hyperphosphatasia\ \(2\)\
+\-\ chronic\\ severe\\ anemia\ \(0\)\
+\-\ paget\\'s\\ disease\ \(1\)\
+\-\ metastatic\\ disease\ \(243\)\
+\-\ follow\\ up\\.\\ patient\\ with\\ long\\ history\\ of\\ facial\\ deformity\\.\ \(0\)\
+\-\ hyperphosphatasia\\ can\\ show\\ thickening\\ of\\ the\\ cranial\\ bones\\ and\\ increased\\ density\\,\\ but\\ with\\ similar\\ appearance\\ to\\ paget\\'s\\ disease\\ \\(see\\ below\\)\\.\\ the\\ most\\ common\\ involvement\\ in\\ the\\ skull\\ involves\\ the\\ jaw\\,\\ which\\ is\\ prognathic\\.\ \(0\)\
+\-\ chronic\\ severe\\ anemia\\ \\(sickle\\ cell\\ disease\\,\\ thallesemia\\)\\ would\\ show\\ more\\ generalized\\,\\ rather\\ than\\ focal\\,\\ skull\\ thickening\ \(0\)\
+\-\ paget\\'s\\ disease\\ would\\ be\\ found\\ in\\ a\\ much\\ older\\ age\\ group\\(not\\ a\\ 13\\ year\\-old\\ girl\\)\\,\\ and\\ would\\ show\\ trabecular\\ expansion\\,\\ rather\\ than\\ ground\\ glass\\ appearance\\.\ \(0\)\
+\-\ metastatic\\ disease\\ \\(osteoblastic\\ lesions\\)\\ would\\ be\\ more\\ focal\\ than\\ the\\ above\\ process\\,\\ and\\ more\\ destructive\\ in\\ appearance\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ paget\\:\\ 0\\.28201522744368795\ \(0\)\
+\-\ hyperphosphatasia\\:\\ 0\\.27274409145292766\ \(0\)\
+\-\ would\\:\\ 0\\.26841673764842416\ \(0\)\
+\-\ disease\\:\\ 0\\.23875137334928725\ \(0\)\
+\-\ appearance\\:\\ 0\\.22859477655966565\ \(0\)\
+\-\ glass\\:\\ 0\\.1907137738121109\ \(0\)\
+\-\ ground\\:\\ 0\\.1845603377754973\ \(0\)\
+\-\ show\\:\\ 0\\.18053560354270334\ \(0\)\
+\-\ anemia\\:\\ 0\\.17418960108503428\ \(0\)\
+\-\ rather\\:\\ 0\\.16795903961268355\ \(0\)\
+\-\ than\\:\\ 0\\.16121107633292145\ \(0\)\
+\-\ more\\:\\ 0\\.15615904642880674\ \(0\)\
+\-\ skull\\:\\ 0\\.1538266011102923\ \(0\)\
+\-\ prognathic\\:\\ 0\\.1515990693591284\ \(0\)\
+\-\ thallesemia\\:\\ 0\\.1515990693591284\ \(0\)\
+\-\ thickening\\:\\ 0\\.1289822421730449\ \(0\)\
+\-\ severe\\:\\ 0\\.12001964250033194\ \(0\)\
+\-\ polyostotic\\:\\ 0\\.11704267323238894\ \(0\)\
+\-\ focal\\:\\ 0\\.11340508696857339\ \(0\)\
+\-\ chronic\\:\\ 0\\.11253611648970178\ \(0\)\
+\-\ trabecular\\:\\ 0\\.10715976285344145\ \(0\)\
+\-\ osteoblastic\\:\\ 0\\.10605147800425492\ \(0\)\
+\-\ jaw\\:\\ 0\\.10451640766060351\ \(0\)\
+\-\ metastatic\\:\\ 0\\.10398147280219863\ \(0\)\
+\-\ destructive\\:\\ 0\\.10100484910048767\ \(0\)\
+\-\ ethmoid\\:\\ 0\\.0991356771747938\ \(0\)\
+\-\ sphenoid\\:\\ 0\\.09535688690605545\ \(0\)\
+\-\ the\\:\\ 0\\.09457595256512039\ \(0\)\
+\-\ maxillary\\:\\ 0\\.09400507581456263\ \(0\)\
+\-\ sickle\\:\\ 0\\.09374742547872926\ \(0\)\
+\-\ generalized\\:\\ 0\\.09050588652466757\ \(0\)\
+\-\ group\\:\\ 0\\.09009041204011109\ \(0\)\
+\-\ older\\:\\ 0\\.08797427103109708\ \(0\)\
+\-\ expansion\\:\\ 0\\.08642327023684945\ \(0\)\
+\-\ expansile\\:\\ 0\\.0857778254678231\ \(0\)\
+\-\ involves\\:\\ 0\\.0824862771056495\ \(0\)\
+\-\ much\\:\\ 0\\.0821012842786919\ \(0\)\
+\-\ and\\:\\ 0\\.07835353910864339\ \(0\)\
+\-\ facial\\:\\ 0\\.07816627338805901\ \(0\)\
+\-\ below\\:\\ 0\\.07806646459689494\ \(0\)\
+\-\ deformity\\:\\ 0\\.07747988203829037\ \(0\)\
+\-\ cranial\\:\\ 0\\.07747988203829037\ \(0\)\
+\-\ be\\:\\ 0\\.07690970630674325\ \(0\)\
+\-\ bones\\:\\ 0\\.07627581528835915\ \(0\)\
+\-\ fibrous\\:\\ 0\\.0736377164972017\ \(0\)\
+\-\ temporal\\:\\ 0\\.07281965759480338\ \(0\)\
+\-\ dysplasia\\:\\ 0\\.07260336672670199\ \(0\)\
+\-\ similar\\:\\ 0\\.07224902251768495\ \(0\)\
+\-\ 13\\:\\ 0\\.07149508187751547\ \(0\)\
+\-\ process\\:\\ 0\\.07109781721213605\ \(0\)\
+\-\ in\\:\\ 0\\.07074633133694208\ \(0\)\
+\-\ involvement\\:\\ 0\\.06861106456447773\ \(0\)\
+\-\ above\\:\\ 0\\.06838724820118883\ \(0\)\
+\-\ girl\\:\\ 0\\.0664979853912668\ \(0\)\
+\-\ left\\:\\ 0\\.06467380759253898\ \(0\)\
+\-\ long\\:\\ 0\\.0628593548237426\ \(0\)\
+\-\ density\\:\\ 0\\.0628593548237426\ \(0\)\
+\-\ found\\:\\ 0\\.06133718264630707\ \(0\)\
+\-\ frontal\\:\\ 0\\.06101309214943198\ \(0\)\
+\-\ age\\:\\ 0\\.05951372131204317\ \(0\)\
+\-\ see\\:\\ 0\\.05896881630573002\ \(0\)\
+\-\ of\\:\\ 0\\.05565333635140502\ \(0\)\
+\-\ lesions\\:\\ 0\\.05444228462046407\ \(0\)\
+\-\ cell\\:\\ 0\\.054227546493993375\ \(0\)\
+\-\ common\\:\\ 0\\.05376005817671828\ \(0\)\
+\-\ bone\\:\\ 0\\.05172352535135317\ \(0\)\
+\-\ increased\\:\\ 0\\.05126104345703994\ \(0\)\
+\-\ follow\\:\\ 0\\.051103150451915415\ \(0\)\
+\-\ bilateral\\:\\ 0\\.050946743520647896\ \(0\)\
+\-\ can\\:\\ 0\\.04974581563965567\ \(0\)\
+\-\ most\\:\\ 0\\.049334587967925704\ \(0\)\
+\-\ up\\:\\ 0\\.04689189415562399\ \(0\)\
+\-\ but\\:\\ 0\\.0468766551689767\ \(0\)\
+\-\ which\\:\\ 0\\.04310457866374151\ \(0\)\
+\-\ not\\:\\ 0\\.03742311406106395\ \(0\)\
+\-\ with\\:\\ 0\\.03712439280440902\ \(0\)\
+\-\ history\\:\\ 0\\.03621747098749397\ \(0\)\
+\-\ patient\\:\\ 0\\.03083230431822174\ \(0\)\
+\-\ is\\:\\ 0\\.025960464977776775\ \(0\)\
+\-\ to\\:\\ 0\\.02369875567198305\ \(0\)\

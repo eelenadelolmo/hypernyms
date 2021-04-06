@@ -1,113 +1,111 @@
-Texto: 
-neurological and physical exam were within normal limits. 
-no significant laboratory findings.
-the patient's symptoms did not abate and she ultimately had the lesion excised after embolization.
-gadloinium enahaced mri of the bran demonstated a well circumscribed nodular extraaxial mass lesion within the left temporal region that demonstrated homogeneous enhancement. additionally, no evidence of diffusion abnormality was present. finally, small linear projections (i.e. "dural tails" were present at the periphery of this lesion).
-meningioma
-meningioma
-metastatic disease
-arachnoid cyst (unlikely here since no restricted diffusion was present)
-53 year old female with history of dull headaches that have been progressively increasing in frequency and duration.
-although meningioma's are histologically benign entities, they can sometimes cause mass effect which can lead to serious patient symptomology which can lead to surgical intervention.
-
-
-Keywords by value: 
-- meningioma: 0.24497402697708104
-- lead: 0.19407587315414135
-- diffusion: 0.1835902147137604
-- gadloinium: 0.17427620708527555
-- enahaced: 0.17427620708527555
-- bran: 0.17427620708527555
-- tails: 0.17427620708527555
-- can: 0.17156131837798538
-- present: 0.16775723933677847
-- abate: 0.16653021980313296
-- symptomology: 0.16653021980313296
-- lesion: 0.15673642905790588
-- demonstated: 0.15034347939193318
-- histologically: 0.1333924788583731
-- dull: 0.13126762930218835
-- entities: 0.1302877245014054
-- projections: 0.12761771860813204
-- serious: 0.1231893909454983
-- excised: 0.12130879619932539
-- extraaxial: 0.11853524557964695
-- finally: 0.11752954205076574
-- ultimately: 0.1139650123044312
-- were: 0.11234786730839155
-- periphery: 0.10994753822401075
-- the: 0.10872321554613587
-- progressively: 0.10662987860450189
-- no: 0.10631317952572643
-- duration: 0.10503696007836774
-- here: 0.10380401905843033
-- frequency: 0.10356669979224253
-- 53: 0.10198321764824812
-- sometimes: 0.10198321764824812
-- within: 0.10038188909047273
-- arachnoid: 0.0995410946390228
-- which: 0.09910486270506161
-- dural: 0.0967056855025232
-- unlikely: 0.09654170204713561
-- homogeneous: 0.09621789844354316
-- embolization: 0.09497492646761077
-- that: 0.09458291790536523
-- restricted: 0.09366692069391047
-- intervention: 0.09154207113772571
-- additionally: 0.08974413502680632
-- neurological: 0.08951670430202868
-- linear: 0.08778861571726435
-- nodular: 0.08678291218838313
-- limits: 0.08610915124215911
-- increasing: 0.08582751535151749
-- of: 0.08530441435175769
-- circumscribed: 0.08439180110600587
-- temporal: 0.08371247779105613
-- mass: 0.08325177833786283
-- headaches: 0.08128704674903821
-- abnormality: 0.07926689790998306
-- laboratory: 0.07913514597223677
-- since: 0.07893920625198554
-- did: 0.07817494612962525
-- they: 0.0778653128482947
-- effect: 0.07644517028893108
-- was: 0.07595836834534062
-- benign: 0.07485909619659087
-- cause: 0.07423945413996859
-- although: 0.07418871319313108
-- patient: 0.07088878678469403
-- and: 0.06755561395571955
-- demonstrated: 0.066973663366458
-- region: 0.0651844648671279
-- she: 0.06487076397192226
-- been: 0.06349060050372292
-- significant: 0.06292029083152786
-- cyst: 0.06286418519574323
-- enhancement: 0.062724637787426
-- evidence: 0.061854890765316986
-- metastatic: 0.059767836186973095
-- symptoms: 0.05962544579918402
-- physical: 0.05908924102018629
-- small: 0.056213445468184416
-- mri: 0.055938563671745545
-- exam: 0.054858528504538207
-- to: 0.05448752777459152
-- have: 0.054439445441683554
-- had: 0.05429580600368762
-- findings: 0.053783983518326334
-- surgical: 0.05296584792867353
-- after: 0.05286600124535934
-- well: 0.052766673697925634
-- female: 0.052585903740277155
-- disease: 0.04574421637240402
-- normal: 0.04449413407248889
-- not: 0.043021097711568215
-- history: 0.041635107000354395
-- are: 0.041351402331201124
-- at: 0.04116158148379586
-- this: 0.03744608578821136
-- left: 0.03717406027833215
-- year: 0.03358423046284421
-- old: 0.0322524867142095
-- in: 0.027109670137866262
-- with: 0.021338845929751486
+\-\ Texto\\:\\ \ \(0\)\
+\-\ neurological\\ and\\ physical\\ exam\\ were\\ within\\ normal\\ limits\\.\\ \ \(0\)\
+\-\ no\\ significant\\ laboratory\\ findings\\.\ \(0\)\
+\-\ the\\ patient\\'s\\ symptoms\\ did\\ not\\ abate\\ and\\ she\\ ultimately\\ had\\ the\\ lesion\\ excised\\ after\\ embolization\\.\ \(0\)\
+\-\ gadloinium\\ enahaced\\ mri\\ of\\ the\\ bran\\ demonstated\\ a\\ well\\ circumscribed\\ nodular\\ extraaxial\\ mass\\ lesion\\ within\\ the\\ left\\ temporal\\ region\\ that\\ demonstrated\\ homogeneous\\ enhancement\\.\\ additionally\\,\\ no\\ evidence\\ of\\ diffusion\\ abnormality\\ was\\ present\\.\\ finally\\,\\ small\\ linear\\ projections\\ \\(i\\.e\\.\\ \\"dural\\ tails\\"\\ were\\ present\\ at\\ the\\ periphery\\ of\\ this\\ lesion\\)\\.\ \(0\)\
+\-\ meningioma\ \(167\)\
+\-\ meningioma\ \(167\)\
+\-\ metastatic\\ disease\ \(243\)\
+\-\ arachnoid\\ cyst\\ \\(unlikely\\ here\\ since\\ no\\ restricted\\ diffusion\\ was\\ present\\)\ \(0\)\
+\-\ 53\\ year\\ old\\ female\\ with\\ history\\ of\\ dull\\ headaches\\ that\\ have\\ been\\ progressively\\ increasing\\ in\\ frequency\\ and\\ duration\\.\ \(1\)\
+\-\ although\\ meningioma\\'s\\ are\\ histologically\\ benign\\ entities\\,\\ they\\ can\\ sometimes\\ cause\\ mass\\ effect\\ which\\ can\\ lead\\ to\\ serious\\ patient\\ symptomology\\ which\\ can\\ lead\\ to\\ surgical\\ intervention\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ meningioma\\:\\ 0\\.24497402697708104\ \(0\)\
+\-\ lead\\:\\ 0\\.19407587315414135\ \(0\)\
+\-\ diffusion\\:\\ 0\\.1835902147137604\ \(0\)\
+\-\ gadloinium\\:\\ 0\\.17427620708527555\ \(0\)\
+\-\ enahaced\\:\\ 0\\.17427620708527555\ \(0\)\
+\-\ bran\\:\\ 0\\.17427620708527555\ \(0\)\
+\-\ tails\\:\\ 0\\.17427620708527555\ \(0\)\
+\-\ can\\:\\ 0\\.17156131837798538\ \(0\)\
+\-\ present\\:\\ 0\\.16775723933677847\ \(0\)\
+\-\ abate\\:\\ 0\\.16653021980313296\ \(0\)\
+\-\ symptomology\\:\\ 0\\.16653021980313296\ \(0\)\
+\-\ lesion\\:\\ 0\\.15673642905790588\ \(0\)\
+\-\ demonstated\\:\\ 0\\.15034347939193318\ \(0\)\
+\-\ histologically\\:\\ 0\\.1333924788583731\ \(0\)\
+\-\ dull\\:\\ 0\\.13126762930218835\ \(0\)\
+\-\ entities\\:\\ 0\\.1302877245014054\ \(0\)\
+\-\ projections\\:\\ 0\\.12761771860813204\ \(0\)\
+\-\ serious\\:\\ 0\\.1231893909454983\ \(0\)\
+\-\ excised\\:\\ 0\\.12130879619932539\ \(0\)\
+\-\ extraaxial\\:\\ 0\\.11853524557964695\ \(0\)\
+\-\ finally\\:\\ 0\\.11752954205076574\ \(0\)\
+\-\ ultimately\\:\\ 0\\.1139650123044312\ \(0\)\
+\-\ were\\:\\ 0\\.11234786730839155\ \(0\)\
+\-\ periphery\\:\\ 0\\.10994753822401075\ \(0\)\
+\-\ the\\:\\ 0\\.10872321554613587\ \(0\)\
+\-\ progressively\\:\\ 0\\.10662987860450189\ \(0\)\
+\-\ no\\:\\ 0\\.10631317952572643\ \(0\)\
+\-\ duration\\:\\ 0\\.10503696007836774\ \(0\)\
+\-\ here\\:\\ 0\\.10380401905843033\ \(0\)\
+\-\ frequency\\:\\ 0\\.10356669979224253\ \(0\)\
+\-\ 53\\:\\ 0\\.10198321764824812\ \(0\)\
+\-\ sometimes\\:\\ 0\\.10198321764824812\ \(0\)\
+\-\ within\\:\\ 0\\.10038188909047273\ \(0\)\
+\-\ arachnoid\\:\\ 0\\.0995410946390228\ \(0\)\
+\-\ which\\:\\ 0\\.09910486270506161\ \(0\)\
+\-\ dural\\:\\ 0\\.0967056855025232\ \(0\)\
+\-\ unlikely\\:\\ 0\\.09654170204713561\ \(0\)\
+\-\ homogeneous\\:\\ 0\\.09621789844354316\ \(0\)\
+\-\ embolization\\:\\ 0\\.09497492646761077\ \(0\)\
+\-\ that\\:\\ 0\\.09458291790536523\ \(0\)\
+\-\ restricted\\:\\ 0\\.09366692069391047\ \(0\)\
+\-\ intervention\\:\\ 0\\.09154207113772571\ \(0\)\
+\-\ additionally\\:\\ 0\\.08974413502680632\ \(0\)\
+\-\ neurological\\:\\ 0\\.08951670430202868\ \(0\)\
+\-\ linear\\:\\ 0\\.08778861571726435\ \(0\)\
+\-\ nodular\\:\\ 0\\.08678291218838313\ \(0\)\
+\-\ limits\\:\\ 0\\.08610915124215911\ \(0\)\
+\-\ increasing\\:\\ 0\\.08582751535151749\ \(0\)\
+\-\ of\\:\\ 0\\.08530441435175769\ \(0\)\
+\-\ circumscribed\\:\\ 0\\.08439180110600587\ \(0\)\
+\-\ temporal\\:\\ 0\\.08371247779105613\ \(0\)\
+\-\ mass\\:\\ 0\\.08325177833786283\ \(0\)\
+\-\ headaches\\:\\ 0\\.08128704674903821\ \(0\)\
+\-\ abnormality\\:\\ 0\\.07926689790998306\ \(0\)\
+\-\ laboratory\\:\\ 0\\.07913514597223677\ \(0\)\
+\-\ since\\:\\ 0\\.07893920625198554\ \(0\)\
+\-\ did\\:\\ 0\\.07817494612962525\ \(0\)\
+\-\ they\\:\\ 0\\.0778653128482947\ \(0\)\
+\-\ effect\\:\\ 0\\.07644517028893108\ \(0\)\
+\-\ was\\:\\ 0\\.07595836834534062\ \(0\)\
+\-\ benign\\:\\ 0\\.07485909619659087\ \(0\)\
+\-\ cause\\:\\ 0\\.07423945413996859\ \(0\)\
+\-\ although\\:\\ 0\\.07418871319313108\ \(0\)\
+\-\ patient\\:\\ 0\\.07088878678469403\ \(0\)\
+\-\ and\\:\\ 0\\.06755561395571955\ \(0\)\
+\-\ demonstrated\\:\\ 0\\.066973663366458\ \(0\)\
+\-\ region\\:\\ 0\\.0651844648671279\ \(0\)\
+\-\ she\\:\\ 0\\.06487076397192226\ \(0\)\
+\-\ been\\:\\ 0\\.06349060050372292\ \(0\)\
+\-\ significant\\:\\ 0\\.06292029083152786\ \(0\)\
+\-\ cyst\\:\\ 0\\.06286418519574323\ \(0\)\
+\-\ enhancement\\:\\ 0\\.062724637787426\ \(0\)\
+\-\ evidence\\:\\ 0\\.061854890765316986\ \(0\)\
+\-\ metastatic\\:\\ 0\\.059767836186973095\ \(0\)\
+\-\ symptoms\\:\\ 0\\.05962544579918402\ \(0\)\
+\-\ physical\\:\\ 0\\.05908924102018629\ \(0\)\
+\-\ small\\:\\ 0\\.056213445468184416\ \(0\)\
+\-\ mri\\:\\ 0\\.055938563671745545\ \(0\)\
+\-\ exam\\:\\ 0\\.054858528504538207\ \(0\)\
+\-\ to\\:\\ 0\\.05448752777459152\ \(0\)\
+\-\ have\\:\\ 0\\.054439445441683554\ \(0\)\
+\-\ had\\:\\ 0\\.05429580600368762\ \(0\)\
+\-\ findings\\:\\ 0\\.053783983518326334\ \(0\)\
+\-\ surgical\\:\\ 0\\.05296584792867353\ \(0\)\
+\-\ after\\:\\ 0\\.05286600124535934\ \(0\)\
+\-\ well\\:\\ 0\\.052766673697925634\ \(0\)\
+\-\ female\\:\\ 0\\.052585903740277155\ \(0\)\
+\-\ disease\\:\\ 0\\.04574421637240402\ \(0\)\
+\-\ normal\\:\\ 0\\.04449413407248889\ \(0\)\
+\-\ not\\:\\ 0\\.043021097711568215\ \(0\)\
+\-\ history\\:\\ 0\\.041635107000354395\ \(0\)\
+\-\ are\\:\\ 0\\.041351402331201124\ \(0\)\
+\-\ at\\:\\ 0\\.04116158148379586\ \(0\)\
+\-\ this\\:\\ 0\\.03744608578821136\ \(0\)\
+\-\ left\\:\\ 0\\.03717406027833215\ \(0\)\
+\-\ year\\:\\ 0\\.03358423046284421\ \(0\)\
+\-\ old\\:\\ 0\\.0322524867142095\ \(0\)\
+\-\ in\\:\\ 0\\.027109670137866262\ \(0\)\
+\-\ with\\:\\ 0\\.021338845929751486\ \(0\)\

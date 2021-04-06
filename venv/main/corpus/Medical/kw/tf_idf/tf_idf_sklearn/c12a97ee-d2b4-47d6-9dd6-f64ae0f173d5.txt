@@ -1,63 +1,61 @@
-Texto: 
-no physical exam was performed.
-conservatively
-flouroscopic examination revealed a finger like sac (windsock deformity) in the second portion of the duodenum. there is separation of the adjacent duodenal lumen by a radiolucent line representing the wall of the diverticulum. (halo sign).
-intraluminal duodenal diverticulum
-intraluminal polyp when duodenum is emptied of the barium
-54 year old caucasian female presents as an outpatient with chronic gerd type symptoms.
-
-
-Keywords by value: 
-- intraluminal: 0.29917137266014526
-- duodenum: 0.2880958032012149
-- duodenal: 0.28733512174334275
-- diverticulum: 0.259471892014317
-- windsock: 0.23419815596071228
-- emptied: 0.21067465498794397
-- flouroscopic: 0.1904329600342264
-- halo: 0.18247049844439742
-- the: 0.17532704217207212
-- radiolucent: 0.15999500133590855
-- gerd: 0.15729013037481207
-- separation: 0.15260947480403383
-- outpatient: 0.15006556066885932
-- polyp: 0.14911461752374747
-- conservatively: 0.1473122966121141
-- finger: 0.13917637132423671
-- representing: 0.1385501810209475
-- 54: 0.1379389014366137
-- sac: 0.13040280245175598
-- lumen: 0.13040280245175598
-- barium: 0.13040280245175598
-- caucasian: 0.13017858679389308
-- deformity: 0.11969496629583694
-- of: 0.11463490553655792
-- line: 0.11411513353635586
-- second: 0.10963426519673786
-- like: 0.10884427887754794
-- portion: 0.1047206751601882
-- sign: 0.10138592242551056
-- type: 0.09824120801133955
-- revealed: 0.09602349644289244
-- adjacent: 0.09492596584216158
-- examination: 0.09371112489354433
-- wall: 0.08908445994127702
-- when: 0.08846152571379148
-- chronic: 0.08692583362247756
-- performed: 0.0866376065252701
-- is: 0.0802101629169649
-- symptoms: 0.08012665462515746
-- physical: 0.07940608483219001
-- exam: 0.07372071282337724
-- female: 0.07066668417608085
-- presents: 0.07044782070525739
-- by: 0.062189231562814716
-- as: 0.05883233470560179
-- there: 0.058270190101543495
-- an: 0.05600024853606751
-- was: 0.05103768923419012
-- no: 0.04762239400635682
-- year: 0.04513160445309135
-- old: 0.04334196296755086
-- in: 0.03643087522489403
-- with: 0.028675849966325006
+\-\ Texto\\:\\ \ \(0\)\
+\-\ no\\ physical\\ exam\\ was\\ performed\\.\ \(0\)\
+\-\ conservatively\ \(61\)\
+\-\ flouroscopic\\ examination\\ revealed\\ a\\ finger\\ like\\ sac\\ \\(windsock\\ deformity\\)\\ in\\ the\\ second\\ portion\\ of\\ the\\ duodenum\\.\\ there\\ is\\ separation\\ of\\ the\\ adjacent\\ duodenal\\ lumen\\ by\\ a\\ radiolucent\\ line\\ representing\\ the\\ wall\\ of\\ the\\ diverticulum\\.\\ \\(halo\\ sign\\)\\.\ \(0\)\
+\-\ intraluminal\\ duodenal\\ diverticulum\ \(0\)\
+\-\ intraluminal\\ polyp\\ when\\ duodenum\\ is\\ emptied\\ of\\ the\\ barium\ \(0\)\
+\-\ 54\\ year\\ old\\ caucasian\\ female\\ presents\\ as\\ an\\ outpatient\\ with\\ chronic\\ gerd\\ type\\ symptoms\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ intraluminal\\:\\ 0\\.29917137266014526\ \(0\)\
+\-\ duodenum\\:\\ 0\\.2880958032012149\ \(0\)\
+\-\ duodenal\\:\\ 0\\.28733512174334275\ \(0\)\
+\-\ diverticulum\\:\\ 0\\.259471892014317\ \(0\)\
+\-\ windsock\\:\\ 0\\.23419815596071228\ \(0\)\
+\-\ emptied\\:\\ 0\\.21067465498794397\ \(0\)\
+\-\ flouroscopic\\:\\ 0\\.1904329600342264\ \(0\)\
+\-\ halo\\:\\ 0\\.18247049844439742\ \(0\)\
+\-\ the\\:\\ 0\\.17532704217207212\ \(0\)\
+\-\ radiolucent\\:\\ 0\\.15999500133590855\ \(0\)\
+\-\ gerd\\:\\ 0\\.15729013037481207\ \(0\)\
+\-\ separation\\:\\ 0\\.15260947480403383\ \(0\)\
+\-\ outpatient\\:\\ 0\\.15006556066885932\ \(0\)\
+\-\ polyp\\:\\ 0\\.14911461752374747\ \(0\)\
+\-\ conservatively\\:\\ 0\\.1473122966121141\ \(0\)\
+\-\ finger\\:\\ 0\\.13917637132423671\ \(0\)\
+\-\ representing\\:\\ 0\\.1385501810209475\ \(0\)\
+\-\ 54\\:\\ 0\\.1379389014366137\ \(0\)\
+\-\ sac\\:\\ 0\\.13040280245175598\ \(0\)\
+\-\ lumen\\:\\ 0\\.13040280245175598\ \(0\)\
+\-\ barium\\:\\ 0\\.13040280245175598\ \(0\)\
+\-\ caucasian\\:\\ 0\\.13017858679389308\ \(0\)\
+\-\ deformity\\:\\ 0\\.11969496629583694\ \(0\)\
+\-\ of\\:\\ 0\\.11463490553655792\ \(0\)\
+\-\ line\\:\\ 0\\.11411513353635586\ \(0\)\
+\-\ second\\:\\ 0\\.10963426519673786\ \(0\)\
+\-\ like\\:\\ 0\\.10884427887754794\ \(0\)\
+\-\ portion\\:\\ 0\\.1047206751601882\ \(0\)\
+\-\ sign\\:\\ 0\\.10138592242551056\ \(0\)\
+\-\ type\\:\\ 0\\.09824120801133955\ \(0\)\
+\-\ revealed\\:\\ 0\\.09602349644289244\ \(0\)\
+\-\ adjacent\\:\\ 0\\.09492596584216158\ \(0\)\
+\-\ examination\\:\\ 0\\.09371112489354433\ \(0\)\
+\-\ wall\\:\\ 0\\.08908445994127702\ \(0\)\
+\-\ when\\:\\ 0\\.08846152571379148\ \(0\)\
+\-\ chronic\\:\\ 0\\.08692583362247756\ \(0\)\
+\-\ performed\\:\\ 0\\.0866376065252701\ \(0\)\
+\-\ is\\:\\ 0\\.0802101629169649\ \(0\)\
+\-\ symptoms\\:\\ 0\\.08012665462515746\ \(0\)\
+\-\ physical\\:\\ 0\\.07940608483219001\ \(0\)\
+\-\ exam\\:\\ 0\\.07372071282337724\ \(0\)\
+\-\ female\\:\\ 0\\.07066668417608085\ \(0\)\
+\-\ presents\\:\\ 0\\.07044782070525739\ \(0\)\
+\-\ by\\:\\ 0\\.062189231562814716\ \(0\)\
+\-\ as\\:\\ 0\\.05883233470560179\ \(0\)\
+\-\ there\\:\\ 0\\.058270190101543495\ \(0\)\
+\-\ an\\:\\ 0\\.05600024853606751\ \(0\)\
+\-\ was\\:\\ 0\\.05103768923419012\ \(0\)\
+\-\ no\\:\\ 0\\.04762239400635682\ \(0\)\
+\-\ year\\:\\ 0\\.04513160445309135\ \(0\)\
+\-\ old\\:\\ 0\\.04334196296755086\ \(0\)\
+\-\ in\\:\\ 0\\.03643087522489403\ \(0\)\
+\-\ with\\:\\ 0\\.028675849966325006\ \(0\)\

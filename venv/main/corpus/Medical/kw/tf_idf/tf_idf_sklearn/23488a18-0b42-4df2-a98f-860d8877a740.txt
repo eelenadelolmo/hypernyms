@@ -1,66 +1,64 @@
-Texto: 
-unremarkable physical examination and laboratory results.
-surgery may be indicated to alleviate the patient's symptoms.
-two images demonstrate herniation of a portion of the gastric fundus adjacent to the distal esophagus with the gastric cardia remaining below the diaphragm.
-paraesophageal hernia
-although these images are typical for a paraesophageal hernia, occasionally there may be an accompanying sliding hiatal hernia with a resultant "mixed" (sliding plus paraesophageal) hiatal hernia.
-36 y/o male with post-prandial chest pain.
-this is a classic example of a paraesophageal hernia.
-
-
-Keywords by value: 
-- paraesophageal: 0.5071897689353945
-- hernia: 0.4591584091554592
-- sliding: 0.2521803309317992
-- hiatal: 0.2252197230202185
-- gastric: 0.1868961956988362
-- alleviate: 0.15045385917122986
-- cardia: 0.14816321850209938
-- plus: 0.1357945295305479
-- accompanying: 0.12349325125964918
-- resultant: 0.1164354769523125
-- fundus: 0.11520677571635966
-- may: 0.11165528501543584
-- the: 0.11068103712062571
-- example: 0.11063039496214043
-- diaphragm: 0.10745405455188237
-- occasionally: 0.10641658364397773
-- remaining: 0.10543166596559786
-- images: 0.10263268427184952
-- herniation: 0.09331887499746547
-- mixed: 0.09183168183109185
-- 36: 0.09183168183109185
-- esophagus: 0.0913601928563768
-- below: 0.0913601928563768
-- indicated: 0.0912440852418585
-- be: 0.09000645330864435
-- results: 0.08644677631805364
-- typical: 0.0857362692589807
-- classic: 0.08297651875953038
-- laboratory: 0.08056016357594352
-- portion: 0.0793300984795696
-- although: 0.07552465844220732
-- unremarkable: 0.07437296225029784
-- adjacent: 0.0719102145493979
-- examination: 0.07098992395784662
-- two: 0.06588118753732176
-- with: 0.06516930868715677
-- of: 0.06513039329268411
-- distal: 0.0644578997341158
-- these: 0.06264683129257151
-- symptoms: 0.060699144581802165
-- physical: 0.060153284153094365
-- surgery: 0.05964511356868622
-- chest: 0.05855884786810237
-- demonstrate: 0.05767373884662453
-- to: 0.05546870605267916
-- male: 0.04939399153992409
-- there: 0.04414199881835807
-- an: 0.04242242732345868
-- are: 0.04209603324754006
-- pain: 0.039697800607426614
-- this: 0.03812039213822221
-- patient: 0.036082654482489214
-- for: 0.03362454239485072
-- is: 0.030381202725878752
-- and: 0.02292403812862701
+\-\ Texto\\:\\ \ \(0\)\
+\-\ unremarkable\\ physical\\ examination\\ and\\ laboratory\\ results\\.\ \(0\)\
+\-\ surgery\\ may\\ be\\ indicated\\ to\\ alleviate\\ the\\ patient\\'s\\ symptoms\\.\ \(0\)\
+\-\ two\\ images\\ demonstrate\\ herniation\\ of\\ a\\ portion\\ of\\ the\\ gastric\\ fundus\\ adjacent\\ to\\ the\\ distal\\ esophagus\\ with\\ the\\ gastric\\ cardia\\ remaining\\ below\\ the\\ diaphragm\\.\ \(0\)\
+\-\ paraesophageal\\ hernia\ \(16\)\
+\-\ although\\ these\\ images\\ are\\ typical\\ for\\ a\\ paraesophageal\\ hernia\\,\\ occasionally\\ there\\ may\\ be\\ an\\ accompanying\\ sliding\\ hiatal\\ hernia\\ with\\ a\\ resultant\\ \\"mixed\\"\\ \\(sliding\\ plus\\ paraesophageal\\)\\ hiatal\\ hernia\\.\ \(0\)\
+\-\ 36\\ y\\/o\\ male\\ with\\ post\\-prandial\\ chest\\ pain\\.\ \(1\)\
+\-\ this\\ is\\ a\\ classic\\ example\\ of\\ a\\ paraesophageal\\ hernia\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ paraesophageal\\:\\ 0\\.5071897689353945\ \(0\)\
+\-\ hernia\\:\\ 0\\.4591584091554592\ \(0\)\
+\-\ sliding\\:\\ 0\\.2521803309317992\ \(0\)\
+\-\ hiatal\\:\\ 0\\.2252197230202185\ \(0\)\
+\-\ gastric\\:\\ 0\\.1868961956988362\ \(0\)\
+\-\ alleviate\\:\\ 0\\.15045385917122986\ \(0\)\
+\-\ cardia\\:\\ 0\\.14816321850209938\ \(0\)\
+\-\ plus\\:\\ 0\\.1357945295305479\ \(0\)\
+\-\ accompanying\\:\\ 0\\.12349325125964918\ \(0\)\
+\-\ resultant\\:\\ 0\\.1164354769523125\ \(0\)\
+\-\ fundus\\:\\ 0\\.11520677571635966\ \(0\)\
+\-\ may\\:\\ 0\\.11165528501543584\ \(0\)\
+\-\ the\\:\\ 0\\.11068103712062571\ \(0\)\
+\-\ example\\:\\ 0\\.11063039496214043\ \(0\)\
+\-\ diaphragm\\:\\ 0\\.10745405455188237\ \(0\)\
+\-\ occasionally\\:\\ 0\\.10641658364397773\ \(0\)\
+\-\ remaining\\:\\ 0\\.10543166596559786\ \(0\)\
+\-\ images\\:\\ 0\\.10263268427184952\ \(0\)\
+\-\ herniation\\:\\ 0\\.09331887499746547\ \(0\)\
+\-\ mixed\\:\\ 0\\.09183168183109185\ \(0\)\
+\-\ 36\\:\\ 0\\.09183168183109185\ \(0\)\
+\-\ esophagus\\:\\ 0\\.0913601928563768\ \(0\)\
+\-\ below\\:\\ 0\\.0913601928563768\ \(0\)\
+\-\ indicated\\:\\ 0\\.0912440852418585\ \(0\)\
+\-\ be\\:\\ 0\\.09000645330864435\ \(0\)\
+\-\ results\\:\\ 0\\.08644677631805364\ \(0\)\
+\-\ typical\\:\\ 0\\.0857362692589807\ \(0\)\
+\-\ classic\\:\\ 0\\.08297651875953038\ \(0\)\
+\-\ laboratory\\:\\ 0\\.08056016357594352\ \(0\)\
+\-\ portion\\:\\ 0\\.0793300984795696\ \(0\)\
+\-\ although\\:\\ 0\\.07552465844220732\ \(0\)\
+\-\ unremarkable\\:\\ 0\\.07437296225029784\ \(0\)\
+\-\ adjacent\\:\\ 0\\.0719102145493979\ \(0\)\
+\-\ examination\\:\\ 0\\.07098992395784662\ \(0\)\
+\-\ two\\:\\ 0\\.06588118753732176\ \(0\)\
+\-\ with\\:\\ 0\\.06516930868715677\ \(0\)\
+\-\ of\\:\\ 0\\.06513039329268411\ \(0\)\
+\-\ distal\\:\\ 0\\.0644578997341158\ \(0\)\
+\-\ these\\:\\ 0\\.06264683129257151\ \(0\)\
+\-\ symptoms\\:\\ 0\\.060699144581802165\ \(0\)\
+\-\ physical\\:\\ 0\\.060153284153094365\ \(0\)\
+\-\ surgery\\:\\ 0\\.05964511356868622\ \(0\)\
+\-\ chest\\:\\ 0\\.05855884786810237\ \(0\)\
+\-\ demonstrate\\:\\ 0\\.05767373884662453\ \(0\)\
+\-\ to\\:\\ 0\\.05546870605267916\ \(0\)\
+\-\ male\\:\\ 0\\.04939399153992409\ \(0\)\
+\-\ there\\:\\ 0\\.04414199881835807\ \(0\)\
+\-\ an\\:\\ 0\\.04242242732345868\ \(0\)\
+\-\ are\\:\\ 0\\.04209603324754006\ \(0\)\
+\-\ pain\\:\\ 0\\.039697800607426614\ \(0\)\
+\-\ this\\:\\ 0\\.03812039213822221\ \(0\)\
+\-\ patient\\:\\ 0\\.036082654482489214\ \(0\)\
+\-\ for\\:\\ 0\\.03362454239485072\ \(0\)\
+\-\ is\\:\\ 0\\.030381202725878752\ \(0\)\
+\-\ and\\:\\ 0\\.02292403812862701\ \(0\)\

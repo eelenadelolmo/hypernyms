@@ -1,60 +1,58 @@
-Texto: 
-non-contributory
-unknown
-â€¢ enhancing lesion left frontal bone
-â€¢ enhancing lesion left temporal bone with associated bone destruction
-â€¢ lytic lesion left parietal bone.
-renal cell carcinoma with metastatic lesions to the skull
-â€¢ metastatic disease
-  Â» lung
-  Â» thyroid
-  Â» gi
-  Â» renal cell carcinoma
-â€¢ hyperparathyroidism
-â€¢ multiple myeloma
-51 year old man with two year history of renal cell carcinoma.
-ct scan ordered to evaluate enlarging left- sided skull masses
-
-
-Keywords by value: 
-- bone: 0.3478150391882453
-- renal: 0.29772069393823475
-- carcinoma: 0.2859723488986487
-- cell: 0.27349000402769236
-- skull: 0.25860188826036373
-- lesion: 0.22920739814842678
-- left: 0.21744963021612262
-- enhancing: 0.1996636004299558
-- metastatic: 0.17480595044456887
-- myeloma: 0.165495341713322
-- 51: 0.15215179289553482
-- hyperparathyroidism: 0.15180037767060767
-- enlarging: 0.1488220063617787
-- destruction: 0.14528840078095967
-- ordered: 0.14001105990595683
-- lytic: 0.13423884827855048
-- gi: 0.1338688144977739
-- parietal: 0.12868352359737614
-- thyroid: 0.12524075582059338
-- evaluate: 0.12392272168198115
-- temporal: 0.12241901479047448
-- unknown: 0.12076124043389302
-- masses: 0.10849170180274512
-- frontal: 0.10257069144454363
-- sided: 0.1025108047291826
-- year: 0.098225462063599
-- lung: 0.09694273388300449
-- two: 0.09463878818040959
-- scan: 0.09454866828930042
-- with: 0.09361616921695036
-- lesions: 0.09152433650903942
-- man: 0.08436908073647115
-- associated: 0.08399657999096888
-- to: 0.07968118546416704
-- multiple: 0.07794821644106881
-- disease: 0.06689518753284704
-- history: 0.06088612969265055
-- ct: 0.06067122754052454
-- old: 0.047165222584275655
-- the: 0.031798817292760566
-- of: 0.031186755659908055
+\-\ Texto\\:\\ \ \(0\)\
+\-\ non\\-contributory\ \(73\)\
+\-\ unknown\ \(157\)\
+\-\ \\â\\€\\¢\\ enhancing\\ lesion\\ left\\ frontal\\ bone\ \(0\)\
+\-\ \\â\\€\\¢\\ enhancing\\ lesion\\ left\\ temporal\\ bone\\ with\\ associated\\ bone\\ destruction\ \(0\)\
+\-\ \\â\\€\\¢\\ lytic\\ lesion\\ left\\ parietal\\ bone\\.\ \(0\)\
+\-\ renal\\ cell\\ carcinoma\\ with\\ metastatic\\ lesions\\ to\\ the\\ skull\ \(0\)\
+\-\ \\â\\€\\¢\\ metastatic\\ disease\ \(13\)\
+\-\ \\ \\ \\Â\\»\\ lung\ \(0\)\
+\-\ \\ \\ \\Â\\»\\ thyroid\ \(0\)\
+\-\ \\ \\ \\Â\\»\\ gi\ \(0\)\
+\-\ \\ \\ \\Â\\»\\ renal\\ cell\\ carcinoma\ \(0\)\
+\-\ \\â\\€\\¢\\ hyperparathyroidism\ \(0\)\
+\-\ \\â\\€\\¢\\ multiple\\ myeloma\ \(0\)\
+\-\ 51\\ year\\ old\\ man\\ with\\ two\\ year\\ history\\ of\\ renal\\ cell\\ carcinoma\\.\ \(1\)\
+\-\ ct\\ scan\\ ordered\\ to\\ evaluate\\ enlarging\\ left\\-\\ sided\\ skull\\ masses\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ bone\\:\\ 0\\.3478150391882453\ \(0\)\
+\-\ renal\\:\\ 0\\.29772069393823475\ \(0\)\
+\-\ carcinoma\\:\\ 0\\.2859723488986487\ \(0\)\
+\-\ cell\\:\\ 0\\.27349000402769236\ \(0\)\
+\-\ skull\\:\\ 0\\.25860188826036373\ \(0\)\
+\-\ lesion\\:\\ 0\\.22920739814842678\ \(0\)\
+\-\ left\\:\\ 0\\.21744963021612262\ \(0\)\
+\-\ enhancing\\:\\ 0\\.1996636004299558\ \(0\)\
+\-\ metastatic\\:\\ 0\\.17480595044456887\ \(0\)\
+\-\ myeloma\\:\\ 0\\.165495341713322\ \(0\)\
+\-\ 51\\:\\ 0\\.15215179289553482\ \(0\)\
+\-\ hyperparathyroidism\\:\\ 0\\.15180037767060767\ \(0\)\
+\-\ enlarging\\:\\ 0\\.1488220063617787\ \(0\)\
+\-\ destruction\\:\\ 0\\.14528840078095967\ \(0\)\
+\-\ ordered\\:\\ 0\\.14001105990595683\ \(0\)\
+\-\ lytic\\:\\ 0\\.13423884827855048\ \(0\)\
+\-\ gi\\:\\ 0\\.1338688144977739\ \(0\)\
+\-\ parietal\\:\\ 0\\.12868352359737614\ \(0\)\
+\-\ thyroid\\:\\ 0\\.12524075582059338\ \(0\)\
+\-\ evaluate\\:\\ 0\\.12392272168198115\ \(0\)\
+\-\ temporal\\:\\ 0\\.12241901479047448\ \(0\)\
+\-\ unknown\\:\\ 0\\.12076124043389302\ \(0\)\
+\-\ masses\\:\\ 0\\.10849170180274512\ \(0\)\
+\-\ frontal\\:\\ 0\\.10257069144454363\ \(0\)\
+\-\ sided\\:\\ 0\\.1025108047291826\ \(0\)\
+\-\ year\\:\\ 0\\.098225462063599\ \(0\)\
+\-\ lung\\:\\ 0\\.09694273388300449\ \(0\)\
+\-\ two\\:\\ 0\\.09463878818040959\ \(0\)\
+\-\ scan\\:\\ 0\\.09454866828930042\ \(0\)\
+\-\ with\\:\\ 0\\.09361616921695036\ \(0\)\
+\-\ lesions\\:\\ 0\\.09152433650903942\ \(0\)\
+\-\ man\\:\\ 0\\.08436908073647115\ \(0\)\
+\-\ associated\\:\\ 0\\.08399657999096888\ \(0\)\
+\-\ to\\:\\ 0\\.07968118546416704\ \(0\)\
+\-\ multiple\\:\\ 0\\.07794821644106881\ \(0\)\
+\-\ disease\\:\\ 0\\.06689518753284704\ \(0\)\
+\-\ history\\:\\ 0\\.06088612969265055\ \(0\)\
+\-\ ct\\:\\ 0\\.06067122754052454\ \(0\)\
+\-\ old\\:\\ 0\\.047165222584275655\ \(0\)\
+\-\ the\\:\\ 0\\.031798817292760566\ \(0\)\
+\-\ of\\:\\ 0\\.031186755659908055\ \(0\)\

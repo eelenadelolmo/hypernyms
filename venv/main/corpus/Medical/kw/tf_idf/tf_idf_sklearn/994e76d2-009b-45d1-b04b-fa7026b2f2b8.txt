@@ -1,113 +1,111 @@
-Texto: 
-biliary colic consists of right upper quadrant pain occuring 15-30 minutes after a meal.  pain typically is less than 4 hours duration and is not associated with fever or leukocytosis.  ultrasound imaging demonstrates the presence of gallstones without gallbladder wall thickening.  hida scan shows visualization of the gallbladder within 4 hours.  treatment usually consists of laporascopic cholecystectomy.  for patients with contraindications to surgery, a combination of chenodeoxycholic acid with ursodeoxycholic acid (udca) or udca alone can dissolve multiple small (<5 mm) stones in up to 60% of patients with a functioning gallbladder.  efficacy is lower with calcified stones.  stones dissolve at a rate of 1mm per month.
-the gallbladder is distended with multiple mobile, round, hyperechoic shadowing stones. no pericholecystic fluid is present.  there is no intra- or extrahepatic biliary ductal dilatation.
-cholelithiasis without associated cholecystitis.
--cholelithiasis
--sludge ball
--adenomatous polyp
--polypoid carcinoma
--cholesterol polyp
-24 year old female with three week history of biliary colic type symptoms.
-
-
-Keywords by value: 
-- stones: 0.30480068158716617
-- gallbladder: 0.2885169055602281
-- udca: 0.25818269700387314
-- dissolve: 0.25818269700387314
-- biliary: 0.2252024956834368
-- colic: 0.19599753441571133
-- acid: 0.16765485113277978
-- polyp: 0.16438564153955362
-- cholelithiasis: 0.1619230727694192
-- consists: 0.16054222880705213
-- is: 0.13263688672571816
-- laporascopic: 0.12909134850193657
-- chenodeoxycholic: 0.12909134850193657
-- ursodeoxycholic: 0.12909134850193657
-- of: 0.12637481691861713
-- hours: 0.12304460422062782
-- contraindications: 0.11136369569760697
-- with: 0.11064403511141097
-- hida: 0.10496772491307584
-- 1mm: 0.10496772491307584
-- occuring: 0.10155507837071949
-- meal: 0.10057877103848456
-- efficacy: 0.09799876720785566
-- extrahepatic: 0.0927951513654752
-- patients: 0.0908205849720592
-- pericholecystic: 0.0903061500579613
-- functioning: 0.08942143426603538
-- leukocytosis: 0.08819014988096818
-- gallstones: 0.08742505309021173
-- ball: 0.08567581133557418
-- without: 0.08515517660988493
-- associated: 0.0850926314194553
-- or: 0.08424478070050916
-- mobile: 0.0796128169391479
-- alone: 0.07940001828885505
-- multiple: 0.0789653442096921
-- cholecystectomy: 0.0783815325540807
-- duration: 0.07780386689518554
-- shadowing: 0.07780386689518554
-- cholecystitis: 0.07780386689518554
-- visualization: 0.07724886071843476
-- minutes: 0.07636964360292366
-- combination: 0.07491284299361922
-- hyperechoic: 0.07431058854734618
-- ductal: 0.07103548399732762
-- distended: 0.06897155690053296
-- per: 0.06699380751617709
-- round: 0.06614108912301832
-- dilatation: 0.0658949812923977
-- calcified: 0.06502752713980457
-- rate: 0.0611685125936218
-- 60: 0.060375858163045165
-- presence: 0.05799920110954929
-- pain: 0.057770290069768714
-- mm: 0.05776835025461197
-- 24: 0.05722920529032934
-- typically: 0.05666741864216207
-- quadrant: 0.05654088268509737
-- less: 0.05491620642959813
-- thickening: 0.05491620642959813
-- fever: 0.05473025311545794
-- week: 0.054293688614055334
-- three: 0.05418661992993656
-- type: 0.05415110963884169
-- no: 0.05249946598386057
-- usually: 0.05081721316972455
-- ultrasound: 0.04979055686475343
-- wall: 0.04910385829987225
-- month: 0.04910385829987225
-- the: 0.04832062876414259
-- carcinoma: 0.04828398902988062
-- scan: 0.04789120570627283
-- shows: 0.047376572862402135
-- fluid: 0.046606850857165726
-- than: 0.04575875767848692
-- symptoms: 0.04416626533236112
-- surgery: 0.04339932514375469
-- upper: 0.04313635184160614
-- imaging: 0.04242191188806366
-- can: 0.04236011771311838
-- small: 0.04163889954224916
-- present: 0.04142085449516791
-- lower: 0.04124880564541545
-- demonstrates: 0.04055363426208112
-- to: 0.04036046316705171
-- up: 0.039929914319062294
-- after: 0.039159352299474585
-- female: 0.038951876102649885
-- treatment: 0.0384519625271411
-- within: 0.03717786163868093
-- there: 0.03211885843769975
-- not: 0.031866951952325
-- history: 0.030840309171224066
-- at: 0.030489555339103386
-- right: 0.02676253725430859
-- year: 0.024876795698950422
-- for: 0.024466085499587616
-- old: 0.023890335187526982
-- in: 0.020080904525466438
-- and: 0.01668012222336401
+\-\ Texto\\:\\ \ \(0\)\
+\-\ biliary\\ colic\\ consists\\ of\\ right\\ upper\\ quadrant\\ pain\\ occuring\\ 15\\-30\\ minutes\\ after\\ a\\ meal\\.\\ \\ pain\\ typically\\ is\\ less\\ than\\ 4\\ hours\\ duration\\ and\\ is\\ not\\ associated\\ with\\ fever\\ or\\ leukocytosis\\.\\ \\ ultrasound\\ imaging\\ demonstrates\\ the\\ presence\\ of\\ gallstones\\ without\\ gallbladder\\ wall\\ thickening\\.\\ \\ hida\\ scan\\ shows\\ visualization\\ of\\ the\\ gallbladder\\ within\\ 4\\ hours\\.\\ \\ treatment\\ usually\\ consists\\ of\\ laporascopic\\ cholecystectomy\\.\\ \\ for\\ patients\\ with\\ contraindications\\ to\\ surgery\\,\\ a\\ combination\\ of\\ chenodeoxycholic\\ acid\\ with\\ ursodeoxycholic\\ acid\\ \\(udca\\)\\ or\\ udca\\ alone\\ can\\ dissolve\\ multiple\\ small\\ \\(\\<5\\ mm\\)\\ stones\\ in\\ up\\ to\\ 60\\%\\ of\\ patients\\ with\\ a\\ functioning\\ gallbladder\\.\\ \\ efficacy\\ is\\ lower\\ with\\ calcified\\ stones\\.\\ \\ stones\\ dissolve\\ at\\ a\\ rate\\ of\\ 1mm\\ per\\ month\\.\ \(0\)\
+\-\ the\\ gallbladder\\ is\\ distended\\ with\\ multiple\\ mobile\\,\\ round\\,\\ hyperechoic\\ shadowing\\ stones\\.\\ no\\ pericholecystic\\ fluid\\ is\\ present\\.\\ \\ there\\ is\\ no\\ intra\\-\\ or\\ extrahepatic\\ biliary\\ ductal\\ dilatation\\.\ \(0\)\
+\-\ cholelithiasis\\ without\\ associated\\ cholecystitis\\.\ \(0\)\
+\-\ cholelithiasis\ \(35\)\
+\-\ sludge\\ ball\ \(3\)\
+\-\ adenomatous\\ polyp\ \(13\)\
+\-\ polypoid\\ carcinoma\ \(0\)\
+\-\ cholesterol\\ polyp\ \(3\)\
+\-\ 24\\ year\\ old\\ female\\ with\\ three\\ week\\ history\\ of\\ biliary\\ colic\\ type\\ symptoms\\.\ \(1\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ stones\\:\\ 0\\.30480068158716617\ \(0\)\
+\-\ gallbladder\\:\\ 0\\.2885169055602281\ \(0\)\
+\-\ udca\\:\\ 0\\.25818269700387314\ \(0\)\
+\-\ dissolve\\:\\ 0\\.25818269700387314\ \(0\)\
+\-\ biliary\\:\\ 0\\.2252024956834368\ \(0\)\
+\-\ colic\\:\\ 0\\.19599753441571133\ \(0\)\
+\-\ acid\\:\\ 0\\.16765485113277978\ \(0\)\
+\-\ polyp\\:\\ 0\\.16438564153955362\ \(0\)\
+\-\ cholelithiasis\\:\\ 0\\.1619230727694192\ \(0\)\
+\-\ consists\\:\\ 0\\.16054222880705213\ \(0\)\
+\-\ is\\:\\ 0\\.13263688672571816\ \(0\)\
+\-\ laporascopic\\:\\ 0\\.12909134850193657\ \(0\)\
+\-\ chenodeoxycholic\\:\\ 0\\.12909134850193657\ \(0\)\
+\-\ ursodeoxycholic\\:\\ 0\\.12909134850193657\ \(0\)\
+\-\ of\\:\\ 0\\.12637481691861713\ \(0\)\
+\-\ hours\\:\\ 0\\.12304460422062782\ \(0\)\
+\-\ contraindications\\:\\ 0\\.11136369569760697\ \(0\)\
+\-\ with\\:\\ 0\\.11064403511141097\ \(0\)\
+\-\ hida\\:\\ 0\\.10496772491307584\ \(0\)\
+\-\ 1mm\\:\\ 0\\.10496772491307584\ \(0\)\
+\-\ occuring\\:\\ 0\\.10155507837071949\ \(0\)\
+\-\ meal\\:\\ 0\\.10057877103848456\ \(0\)\
+\-\ efficacy\\:\\ 0\\.09799876720785566\ \(0\)\
+\-\ extrahepatic\\:\\ 0\\.0927951513654752\ \(0\)\
+\-\ patients\\:\\ 0\\.0908205849720592\ \(0\)\
+\-\ pericholecystic\\:\\ 0\\.0903061500579613\ \(0\)\
+\-\ functioning\\:\\ 0\\.08942143426603538\ \(0\)\
+\-\ leukocytosis\\:\\ 0\\.08819014988096818\ \(0\)\
+\-\ gallstones\\:\\ 0\\.08742505309021173\ \(0\)\
+\-\ ball\\:\\ 0\\.08567581133557418\ \(0\)\
+\-\ without\\:\\ 0\\.08515517660988493\ \(0\)\
+\-\ associated\\:\\ 0\\.0850926314194553\ \(0\)\
+\-\ or\\:\\ 0\\.08424478070050916\ \(0\)\
+\-\ mobile\\:\\ 0\\.0796128169391479\ \(0\)\
+\-\ alone\\:\\ 0\\.07940001828885505\ \(0\)\
+\-\ multiple\\:\\ 0\\.0789653442096921\ \(0\)\
+\-\ cholecystectomy\\:\\ 0\\.0783815325540807\ \(0\)\
+\-\ duration\\:\\ 0\\.07780386689518554\ \(0\)\
+\-\ shadowing\\:\\ 0\\.07780386689518554\ \(0\)\
+\-\ cholecystitis\\:\\ 0\\.07780386689518554\ \(0\)\
+\-\ visualization\\:\\ 0\\.07724886071843476\ \(0\)\
+\-\ minutes\\:\\ 0\\.07636964360292366\ \(0\)\
+\-\ combination\\:\\ 0\\.07491284299361922\ \(0\)\
+\-\ hyperechoic\\:\\ 0\\.07431058854734618\ \(0\)\
+\-\ ductal\\:\\ 0\\.07103548399732762\ \(0\)\
+\-\ distended\\:\\ 0\\.06897155690053296\ \(0\)\
+\-\ per\\:\\ 0\\.06699380751617709\ \(0\)\
+\-\ round\\:\\ 0\\.06614108912301832\ \(0\)\
+\-\ dilatation\\:\\ 0\\.0658949812923977\ \(0\)\
+\-\ calcified\\:\\ 0\\.06502752713980457\ \(0\)\
+\-\ rate\\:\\ 0\\.0611685125936218\ \(0\)\
+\-\ 60\\:\\ 0\\.060375858163045165\ \(0\)\
+\-\ presence\\:\\ 0\\.05799920110954929\ \(0\)\
+\-\ pain\\:\\ 0\\.057770290069768714\ \(0\)\
+\-\ mm\\:\\ 0\\.05776835025461197\ \(0\)\
+\-\ 24\\:\\ 0\\.05722920529032934\ \(0\)\
+\-\ typically\\:\\ 0\\.05666741864216207\ \(0\)\
+\-\ quadrant\\:\\ 0\\.05654088268509737\ \(0\)\
+\-\ less\\:\\ 0\\.05491620642959813\ \(0\)\
+\-\ thickening\\:\\ 0\\.05491620642959813\ \(0\)\
+\-\ fever\\:\\ 0\\.05473025311545794\ \(0\)\
+\-\ week\\:\\ 0\\.054293688614055334\ \(0\)\
+\-\ three\\:\\ 0\\.05418661992993656\ \(0\)\
+\-\ type\\:\\ 0\\.05415110963884169\ \(0\)\
+\-\ no\\:\\ 0\\.05249946598386057\ \(0\)\
+\-\ usually\\:\\ 0\\.05081721316972455\ \(0\)\
+\-\ ultrasound\\:\\ 0\\.04979055686475343\ \(0\)\
+\-\ wall\\:\\ 0\\.04910385829987225\ \(0\)\
+\-\ month\\:\\ 0\\.04910385829987225\ \(0\)\
+\-\ the\\:\\ 0\\.04832062876414259\ \(0\)\
+\-\ carcinoma\\:\\ 0\\.04828398902988062\ \(0\)\
+\-\ scan\\:\\ 0\\.04789120570627283\ \(0\)\
+\-\ shows\\:\\ 0\\.047376572862402135\ \(0\)\
+\-\ fluid\\:\\ 0\\.046606850857165726\ \(0\)\
+\-\ than\\:\\ 0\\.04575875767848692\ \(0\)\
+\-\ symptoms\\:\\ 0\\.04416626533236112\ \(0\)\
+\-\ surgery\\:\\ 0\\.04339932514375469\ \(0\)\
+\-\ upper\\:\\ 0\\.04313635184160614\ \(0\)\
+\-\ imaging\\:\\ 0\\.04242191188806366\ \(0\)\
+\-\ can\\:\\ 0\\.04236011771311838\ \(0\)\
+\-\ small\\:\\ 0\\.04163889954224916\ \(0\)\
+\-\ present\\:\\ 0\\.04142085449516791\ \(0\)\
+\-\ lower\\:\\ 0\\.04124880564541545\ \(0\)\
+\-\ demonstrates\\:\\ 0\\.04055363426208112\ \(0\)\
+\-\ to\\:\\ 0\\.04036046316705171\ \(0\)\
+\-\ up\\:\\ 0\\.039929914319062294\ \(0\)\
+\-\ after\\:\\ 0\\.039159352299474585\ \(0\)\
+\-\ female\\:\\ 0\\.038951876102649885\ \(0\)\
+\-\ treatment\\:\\ 0\\.0384519625271411\ \(0\)\
+\-\ within\\:\\ 0\\.03717786163868093\ \(0\)\
+\-\ there\\:\\ 0\\.03211885843769975\ \(0\)\
+\-\ not\\:\\ 0\\.031866951952325\ \(0\)\
+\-\ history\\:\\ 0\\.030840309171224066\ \(0\)\
+\-\ at\\:\\ 0\\.030489555339103386\ \(0\)\
+\-\ right\\:\\ 0\\.02676253725430859\ \(0\)\
+\-\ year\\:\\ 0\\.024876795698950422\ \(0\)\
+\-\ for\\:\\ 0\\.024466085499587616\ \(0\)\
+\-\ old\\:\\ 0\\.023890335187526982\ \(0\)\
+\-\ in\\:\\ 0\\.020080904525466438\ \(0\)\
+\-\ and\\:\\ 0\\.01668012222336401\ \(0\)\

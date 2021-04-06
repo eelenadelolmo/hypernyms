@@ -1,71 +1,68 @@
-Texto: 
-muliple firm nodular lesions palpated under the skin surface.  lesions not tender to palpation.  temperature on exam: 99.7.
-patient treated with chemotherapy.  eventually sent into remission.
-ultrasound - multiple hypoechoic lesions consistent with adenopathy.
-
-ct - metastatic lymphadenopathy in various locations.
-non-hodgkin's lymphoma - b-cell lymphoma
-various forms of lymphoma. 
-metastatic disease from another type of malignancy.  
-benign lymphadenopathy, such as castleman's disease.
-enlarging palpable neck mass.  patient also with occasional fever and night sweats.
-
-
-Keywords by value: 
-- various: 0.2928978672463106
-- lymphoma: 0.2616385426758971
-- lesions: 0.25230287220347253
-- lymphadenopathy: 0.23677378445365638
-- muliple: 0.2163921840684125
-- castleman: 0.1842322438076062
-- remission: 0.17778069854050763
-- metastatic: 0.1606277450627086
-- palpated: 0.15728204041126825
-- locations: 0.15314209205464394
-- forms: 0.15260162558244145
-- sweats: 0.14957799263215146
-- temperature: 0.1491069480544887
-- eventually: 0.1460315063899141
-- occasional: 0.14114489600099758
-- sent: 0.1370413865564032
-- enlarging: 0.13675131330944518
-- firm: 0.13275290619882707
-- night: 0.1315474636618848
-- hypoechoic: 0.1251221001504619
-- adenopathy: 0.1231803962659225
-- disease: 0.12293887137847241
-- surface: 0.12218009273544443
-- under: 0.12121730955315564
-- another: 0.11983762899968957
-- nodular: 0.11661576178855641
-- malignancy: 0.10962862633556787
-- skin: 0.10893610470886574
-- tender: 0.10705458822554892
-- chemotherapy: 0.10398060968309808
-- palpable: 0.10287799563633368
-- benign: 0.10059296593802075
-- fever: 0.09928678602178317
-- palpation: 0.0987560961316473
-- type: 0.09823615513364521
-- patient: 0.09525780668916344
-- such: 0.09419633236932431
-- treated: 0.09119102945138381
-- ultrasound: 0.090325625845497
-- neck: 0.08958012999652648
-- with: 0.08602312521103822
-- consistent: 0.07940200070860312
-- into: 0.07784387624925553
-- exam: 0.0737169211177073
-- multiple: 0.0716259727243046
-- also: 0.06888019977326902
-- as: 0.05882930875958833
-- from: 0.05815893266890404
-- not: 0.057810206596017204
-- of: 0.057314504737768626
-- mass: 0.05593537544607486
-- ct: 0.05575029022316527
-- on: 0.04422676477382976
-- to: 0.03660919182808712
-- in: 0.03642900146172951
-- and: 0.03025960290215763
-- the: 0.02921967075152212
+\-\ Texto\\:\\ \ \(0\)\
+\-\ muliple\\ firm\\ nodular\\ lesions\\ palpated\\ under\\ the\\ skin\\ surface\\.\\ \\ lesions\\ not\\ tender\\ to\\ palpation\\.\\ \\ temperature\\ on\\ exam\\:\\ 99\\.7\\.\ \(0\)\
+\-\ patient\\ treated\\ with\\ chemotherapy\\.\\ \\ eventually\\ sent\\ into\\ remission\\.\ \(0\)\
+\-\ ultrasound\\ \\-\\ multiple\\ hypoechoic\\ lesions\\ consistent\\ with\\ adenopathy\\.\ \(0\)\
+\-\ ct\\ \\-\\ metastatic\\ lymphadenopathy\\ in\\ various\\ locations\\.\ \(0\)\
+\-\ non\\-hodgkin\\'s\\ lymphoma\\ \\-\\ b\\-cell\\ lymphoma\ \(0\)\
+\-\ various\\ forms\\ of\\ lymphoma\\.\\ \ \(0\)\
+\-\ metastatic\\ disease\\ from\\ another\\ type\\ of\\ malignancy\\.\\ \\ \ \(0\)\
+\-\ benign\\ lymphadenopathy\\,\\ such\\ as\\ castleman\\'s\\ disease\\.\ \(0\)\
+\-\ enlarging\\ palpable\\ neck\\ mass\\.\\ \\ patient\\ also\\ with\\ occasional\\ fever\\ and\\ night\\ sweats\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ various\\:\\ 0\\.2928978672463106\ \(0\)\
+\-\ lymphoma\\:\\ 0\\.2616385426758971\ \(0\)\
+\-\ lesions\\:\\ 0\\.25230287220347253\ \(0\)\
+\-\ lymphadenopathy\\:\\ 0\\.23677378445365638\ \(0\)\
+\-\ muliple\\:\\ 0\\.2163921840684125\ \(0\)\
+\-\ castleman\\:\\ 0\\.1842322438076062\ \(0\)\
+\-\ remission\\:\\ 0\\.17778069854050763\ \(0\)\
+\-\ metastatic\\:\\ 0\\.1606277450627086\ \(0\)\
+\-\ palpated\\:\\ 0\\.15728204041126825\ \(0\)\
+\-\ locations\\:\\ 0\\.15314209205464394\ \(0\)\
+\-\ forms\\:\\ 0\\.15260162558244145\ \(0\)\
+\-\ sweats\\:\\ 0\\.14957799263215146\ \(0\)\
+\-\ temperature\\:\\ 0\\.1491069480544887\ \(0\)\
+\-\ eventually\\:\\ 0\\.1460315063899141\ \(0\)\
+\-\ occasional\\:\\ 0\\.14114489600099758\ \(0\)\
+\-\ sent\\:\\ 0\\.1370413865564032\ \(0\)\
+\-\ enlarging\\:\\ 0\\.13675131330944518\ \(0\)\
+\-\ firm\\:\\ 0\\.13275290619882707\ \(0\)\
+\-\ night\\:\\ 0\\.1315474636618848\ \(0\)\
+\-\ hypoechoic\\:\\ 0\\.1251221001504619\ \(0\)\
+\-\ adenopathy\\:\\ 0\\.1231803962659225\ \(0\)\
+\-\ disease\\:\\ 0\\.12293887137847241\ \(0\)\
+\-\ surface\\:\\ 0\\.12218009273544443\ \(0\)\
+\-\ under\\:\\ 0\\.12121730955315564\ \(0\)\
+\-\ another\\:\\ 0\\.11983762899968957\ \(0\)\
+\-\ nodular\\:\\ 0\\.11661576178855641\ \(0\)\
+\-\ malignancy\\:\\ 0\\.10962862633556787\ \(0\)\
+\-\ skin\\:\\ 0\\.10893610470886574\ \(0\)\
+\-\ tender\\:\\ 0\\.10705458822554892\ \(0\)\
+\-\ chemotherapy\\:\\ 0\\.10398060968309808\ \(0\)\
+\-\ palpable\\:\\ 0\\.10287799563633368\ \(0\)\
+\-\ benign\\:\\ 0\\.10059296593802075\ \(0\)\
+\-\ fever\\:\\ 0\\.09928678602178317\ \(0\)\
+\-\ palpation\\:\\ 0\\.0987560961316473\ \(0\)\
+\-\ type\\:\\ 0\\.09823615513364521\ \(0\)\
+\-\ patient\\:\\ 0\\.09525780668916344\ \(0\)\
+\-\ such\\:\\ 0\\.09419633236932431\ \(0\)\
+\-\ treated\\:\\ 0\\.09119102945138381\ \(0\)\
+\-\ ultrasound\\:\\ 0\\.090325625845497\ \(0\)\
+\-\ neck\\:\\ 0\\.08958012999652648\ \(0\)\
+\-\ with\\:\\ 0\\.08602312521103822\ \(0\)\
+\-\ consistent\\:\\ 0\\.07940200070860312\ \(0\)\
+\-\ into\\:\\ 0\\.07784387624925553\ \(0\)\
+\-\ exam\\:\\ 0\\.0737169211177073\ \(0\)\
+\-\ multiple\\:\\ 0\\.0716259727243046\ \(0\)\
+\-\ also\\:\\ 0\\.06888019977326902\ \(0\)\
+\-\ as\\:\\ 0\\.05882930875958833\ \(0\)\
+\-\ from\\:\\ 0\\.05815893266890404\ \(0\)\
+\-\ not\\:\\ 0\\.057810206596017204\ \(0\)\
+\-\ of\\:\\ 0\\.057314504737768626\ \(0\)\
+\-\ mass\\:\\ 0\\.05593537544607486\ \(0\)\
+\-\ ct\\:\\ 0\\.05575029022316527\ \(0\)\
+\-\ on\\:\\ 0\\.04422676477382976\ \(0\)\
+\-\ to\\:\\ 0\\.03660919182808712\ \(0\)\
+\-\ in\\:\\ 0\\.03642900146172951\ \(0\)\
+\-\ and\\:\\ 0\\.03025960290215763\ \(0\)\
+\-\ the\\:\\ 0\\.02921967075152212\ \(0\)\

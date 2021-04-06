@@ -1,152 +1,150 @@
-Texto: 
-physical examination reveals right-sided motor weakness.
-referred for neurosurgery consultation.
-conventional mr imaging demonstrates a large , intra-axial left temporal mass lesion. the lesion is infiltrative, exerts significant mass effect on the adjacent structures, producing mild rightward midline shift, and is surrounded by a large amount of edema. the mass lesion demonstrates heterogeneously high signal intensity on t2 and flair sequences and is hypo-isointense on the t1 weighted images. the tumor contains scattered t1 hyperintense areas compatible with subacute hemorrhagic elements. following gadolinium-based contrast administration, the mass lesion exhibits intense, irregular ring enhancement. heterogeneous, vivid enhancement is noted in a central solid component of the mass. extensive nonenhancing necrotic areas are present in the center of the mass lesion. diffusion weighted imaging (dwi) reveals no evidence of restricted diffusion. dynamic susceptibility contrast (dsc-perfusion) mr imaging  demonstrates elevated blood volume (rcbv values) along the enhancing tumor margins. the constellation of mr imaging findings is compatible with the presence of multiforme glioblastoma.
-glioblastoma multiforme
-differential diagnosis includes:
-metastasis, anaplastic astrocytoma, primary cns lymphoma, anaplastic oligoastrocytoma, anaplastic oligodendroglioma, abscess, tumefactive demyelination, subacute ischemia, arteriovenous malformation
-a 70 y.o. man presents with a several weeks history of headache, confusion, and right sided weakness.
-although there is no histological confirmation in this case , conventional mr imaging and advanced mri techniques are in keeping with a high grade glioma (glioblastoma, who gr4).
-
-
-Keywords by value: 
-- anaplastic: 0.2427736630922334
-- glioblastoma: 0.2205999263352567
-- imaging: 0.19375895384627725
-- mr: 0.19084727206505517
-- lesion: 0.17675807966543947
-- the: 0.17656072650830168
-- mass: 0.16899558195328288
-- multiforme: 0.15368330754708084
-- conventional: 0.15063824226133876
-- compatible: 0.14748700362821734
-- subacute: 0.1380127733006889
-- diffusion: 0.12422531504599114
-- is: 0.12116183957580409
-- vivid: 0.11792304270651349
-- gr4: 0.1126817627615738
-- reveals: 0.112182176158061
-- demonstrates: 0.11113544014733057
-- weighted: 0.11000487152652833
-- weakness: 0.10763135500403588
-- rcbv: 0.10607853095773691
-- oligoastrocytoma: 0.10607853095773691
-- of: 0.10101133977821183
-- areas: 0.10012591509469046
-- exerts: 0.10000298821249681
-- susceptibility: 0.09711850371072855
-- keeping: 0.09711850371072855
-- sided: 0.09486402167781094
-- t1: 0.0918867074519888
-- rightward: 0.09025929152478467
-- exhibits: 0.08635183157372066
-- nonenhancing: 0.08635183157372066
-- demyelination: 0.08580168102054878
-- enhancement: 0.08488456645074834
-- high: 0.08381564436725299
-- constellation: 0.08380903886584604
-- tumefactive: 0.08380903886584604
-- dynamic: 0.08335542787173009
-- histological: 0.08129926427777633
-- confusion: 0.07887925801487965
-- confirmation: 0.07887925801487965
-- techniques: 0.07856775892090634
-- oligodendroglioma: 0.0773918043267123
-- tumor: 0.07713845731785696
-- heterogeneously: 0.07657511676620361
-- and: 0.07618522806220866
-- producing: 0.07580697475904909
-- surrounded: 0.07580697475904909
-- infiltrative: 0.07556074661193916
-- neurosurgery: 0.07462021649780289
-- consultation: 0.07439540062472175
-- large: 0.07389275150579025
-- in: 0.073374440329949
-- elements: 0.07312290647147178
-- contains: 0.07178116820054882
-- necrotic: 0.07178116820054882
-- contrast: 0.07165553350619731
-- arteriovenous: 0.07073249179771036
-- dwi: 0.07007784118572968
-- intense: 0.069607731673898
-- advanced: 0.06930356265490166
-- cns: 0.06886032196770009
-- values: 0.06801698469396597
-- on: 0.06681038422697126
-- center: 0.06672324717212974
-- shift: 0.06478347456710032
-- volume: 0.06478347456710032
-- scattered: 0.06416287922446345
-- hemorrhagic: 0.0639624630102725
-- ischemia: 0.06386340822001108
-- restricted: 0.06337920978375963
-- component: 0.06319049713476427
-- margins: 0.06291249530461339
-- flair: 0.06273042769091342
-- glioma: 0.0626403465815924
-- ring: 0.06211265752299557
-- 70: 0.06088062220363651
-- amount: 0.05898910119205503
-- sequences: 0.05898910119205503
-- administration: 0.0587211830653328
-- motor: 0.05865506227218692
-- hyperintense: 0.05865506227218692
-- with: 0.05775525373123408
-- includes: 0.05733935943176812
-- irregular: 0.05692895712482101
-- malformation: 0.05687137757805589
-- extensive: 0.05681405337380033
-- temporal: 0.056643590417322205
-- solid: 0.05653118460576233
-- are: 0.055960400614989574
-- astrocytoma: 0.05566548298929486
-- midline: 0.0554578225094092
-- structures: 0.05540642448194996
-- referred: 0.05456254726181216
-- metastasis: 0.05404447262305275
-- heterogeneous: 0.05336988895103056
-- grade: 0.0530240064597739
-- presence: 0.05298141470171755
-- intensity: 0.05235882630957774
-- effect: 0.05172620652845247
-- headache: 0.050831791982219085
-- elevated: 0.05026814577421898
-- although: 0.050199387171274035
-- along: 0.04940160683511387
-- central: 0.04924142403106263
-- right: 0.048894366046957
-- several: 0.04837933218475978
-- no: 0.0479574877877356
-- differential: 0.047911350331047535
-- adjacent: 0.04779695501035497
-- abscess: 0.04734923625376815
-- examination: 0.04718526043710886
-- enhancing: 0.046192428616417466
-- primary: 0.045340887430212584
-- following: 0.04423576362625625
-- weeks: 0.04419260302897889
-- edema: 0.04397893557131538
-- lymphoma: 0.043915518010550485
-- blood: 0.0428241894919289
-- significant: 0.042574670787974694
-- t2: 0.04242348091387663
-- evidence: 0.041853773658019185
-- mild: 0.04179995017897165
-- signal: 0.04179995017897165
-- who: 0.04171073942547556
-- physical: 0.039982411878572585
-- noted: 0.03909575572490681
-- man: 0.03903778887047958
-- diagnosis: 0.038225233190100516
-- mri: 0.03785052327640198
-- present: 0.037837339606849735
-- case: 0.037045146715776855
-- findings: 0.03639263839529518
-- presents: 0.03547176251464797
-- images: 0.03410871336897319
-- by: 0.031313412265710966
-- there: 0.029340103416585737
-- history: 0.02817216752078299
-- this: 0.025337689220160334
-- left: 0.025153624646141626
-- for: 0.022349408219140263
+\-\ Texto\\:\\ \ \(0\)\
+\-\ physical\\ examination\\ reveals\\ right\\-sided\\ motor\\ weakness\\.\ \(0\)\
+\-\ referred\\ for\\ neurosurgery\\ consultation\\.\ \(0\)\
+\-\ conventional\\ mr\\ imaging\\ demonstrates\\ a\\ large\\ \\,\\ intra\\-axial\\ left\\ temporal\\ mass\\ lesion\\.\\ the\\ lesion\\ is\\ infiltrative\\,\\ exerts\\ significant\\ mass\\ effect\\ on\\ the\\ adjacent\\ structures\\,\\ producing\\ mild\\ rightward\\ midline\\ shift\\,\\ and\\ is\\ surrounded\\ by\\ a\\ large\\ amount\\ of\\ edema\\.\\ the\\ mass\\ lesion\\ demonstrates\\ heterogeneously\\ high\\ signal\\ intensity\\ on\\ t2\\ and\\ flair\\ sequences\\ and\\ is\\ hypo\\-isointense\\ on\\ the\\ t1\\ weighted\\ images\\.\\ the\\ tumor\\ contains\\ scattered\\ t1\\ hyperintense\\ areas\\ compatible\\ with\\ subacute\\ hemorrhagic\\ elements\\.\\ following\\ gadolinium\\-based\\ contrast\\ administration\\,\\ the\\ mass\\ lesion\\ exhibits\\ intense\\,\\ irregular\\ ring\\ enhancement\\.\\ heterogeneous\\,\\ vivid\\ enhancement\\ is\\ noted\\ in\\ a\\ central\\ solid\\ component\\ of\\ the\\ mass\\.\\ extensive\\ nonenhancing\\ necrotic\\ areas\\ are\\ present\\ in\\ the\\ center\\ of\\ the\\ mass\\ lesion\\.\\ diffusion\\ weighted\\ imaging\\ \\(dwi\\)\\ reveals\\ no\\ evidence\\ of\\ restricted\\ diffusion\\.\\ dynamic\\ susceptibility\\ contrast\\ \\(dsc\\-perfusion\\)\\ mr\\ imaging\\ \\ demonstrates\\ elevated\\ blood\\ volume\\ \\(rcbv\\ values\\)\\ along\\ the\\ enhancing\\ tumor\\ margins\\.\\ the\\ constellation\\ of\\ mr\\ imaging\\ findings\\ is\\ compatible\\ with\\ the\\ presence\\ of\\ multiforme\\ glioblastoma\\.\ \(0\)\
+\-\ glioblastoma\\ multiforme\ \(8\)\
+\-\ differential\\ diagnosis\\ includes\\:\ \(0\)\
+\-\ metastasis\\,\\ anaplastic\\ astrocytoma\\,\\ primary\\ cns\\ lymphoma\\,\\ anaplastic\\ oligoastrocytoma\\,\\ anaplastic\\ oligodendroglioma\\,\\ abscess\\,\\ tumefactive\\ demyelination\\,\\ subacute\\ ischemia\\,\\ arteriovenous\\ malformation\ \(0\)\
+\-\ a\\ 70\\ y\\.o\\.\\ man\\ presents\\ with\\ a\\ several\\ weeks\\ history\\ of\\ headache\\,\\ confusion\\,\\ and\\ right\\ sided\\ weakness\\.\ \(0\)\
+\-\ although\\ there\\ is\\ no\\ histological\\ confirmation\\ in\\ this\\ case\\ \\,\\ conventional\\ mr\\ imaging\\ and\\ advanced\\ mri\\ techniques\\ are\\ in\\ keeping\\ with\\ a\\ high\\ grade\\ glioma\\ \\(glioblastoma\\,\\ who\\ gr4\\)\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ anaplastic\\:\\ 0\\.2427736630922334\ \(0\)\
+\-\ glioblastoma\\:\\ 0\\.2205999263352567\ \(0\)\
+\-\ imaging\\:\\ 0\\.19375895384627725\ \(0\)\
+\-\ mr\\:\\ 0\\.19084727206505517\ \(0\)\
+\-\ lesion\\:\\ 0\\.17675807966543947\ \(0\)\
+\-\ the\\:\\ 0\\.17656072650830168\ \(0\)\
+\-\ mass\\:\\ 0\\.16899558195328288\ \(0\)\
+\-\ multiforme\\:\\ 0\\.15368330754708084\ \(0\)\
+\-\ conventional\\:\\ 0\\.15063824226133876\ \(0\)\
+\-\ compatible\\:\\ 0\\.14748700362821734\ \(0\)\
+\-\ subacute\\:\\ 0\\.1380127733006889\ \(0\)\
+\-\ diffusion\\:\\ 0\\.12422531504599114\ \(0\)\
+\-\ is\\:\\ 0\\.12116183957580409\ \(0\)\
+\-\ vivid\\:\\ 0\\.11792304270651349\ \(0\)\
+\-\ gr4\\:\\ 0\\.1126817627615738\ \(0\)\
+\-\ reveals\\:\\ 0\\.112182176158061\ \(0\)\
+\-\ demonstrates\\:\\ 0\\.11113544014733057\ \(0\)\
+\-\ weighted\\:\\ 0\\.11000487152652833\ \(0\)\
+\-\ weakness\\:\\ 0\\.10763135500403588\ \(0\)\
+\-\ rcbv\\:\\ 0\\.10607853095773691\ \(0\)\
+\-\ oligoastrocytoma\\:\\ 0\\.10607853095773691\ \(0\)\
+\-\ of\\:\\ 0\\.10101133977821183\ \(0\)\
+\-\ areas\\:\\ 0\\.10012591509469046\ \(0\)\
+\-\ exerts\\:\\ 0\\.10000298821249681\ \(0\)\
+\-\ susceptibility\\:\\ 0\\.09711850371072855\ \(0\)\
+\-\ keeping\\:\\ 0\\.09711850371072855\ \(0\)\
+\-\ sided\\:\\ 0\\.09486402167781094\ \(0\)\
+\-\ t1\\:\\ 0\\.0918867074519888\ \(0\)\
+\-\ rightward\\:\\ 0\\.09025929152478467\ \(0\)\
+\-\ exhibits\\:\\ 0\\.08635183157372066\ \(0\)\
+\-\ nonenhancing\\:\\ 0\\.08635183157372066\ \(0\)\
+\-\ demyelination\\:\\ 0\\.08580168102054878\ \(0\)\
+\-\ enhancement\\:\\ 0\\.08488456645074834\ \(0\)\
+\-\ high\\:\\ 0\\.08381564436725299\ \(0\)\
+\-\ constellation\\:\\ 0\\.08380903886584604\ \(0\)\
+\-\ tumefactive\\:\\ 0\\.08380903886584604\ \(0\)\
+\-\ dynamic\\:\\ 0\\.08335542787173009\ \(0\)\
+\-\ histological\\:\\ 0\\.08129926427777633\ \(0\)\
+\-\ confusion\\:\\ 0\\.07887925801487965\ \(0\)\
+\-\ confirmation\\:\\ 0\\.07887925801487965\ \(0\)\
+\-\ techniques\\:\\ 0\\.07856775892090634\ \(0\)\
+\-\ oligodendroglioma\\:\\ 0\\.0773918043267123\ \(0\)\
+\-\ tumor\\:\\ 0\\.07713845731785696\ \(0\)\
+\-\ heterogeneously\\:\\ 0\\.07657511676620361\ \(0\)\
+\-\ and\\:\\ 0\\.07618522806220866\ \(0\)\
+\-\ producing\\:\\ 0\\.07580697475904909\ \(0\)\
+\-\ surrounded\\:\\ 0\\.07580697475904909\ \(0\)\
+\-\ infiltrative\\:\\ 0\\.07556074661193916\ \(0\)\
+\-\ neurosurgery\\:\\ 0\\.07462021649780289\ \(0\)\
+\-\ consultation\\:\\ 0\\.07439540062472175\ \(0\)\
+\-\ large\\:\\ 0\\.07389275150579025\ \(0\)\
+\-\ in\\:\\ 0\\.073374440329949\ \(0\)\
+\-\ elements\\:\\ 0\\.07312290647147178\ \(0\)\
+\-\ contains\\:\\ 0\\.07178116820054882\ \(0\)\
+\-\ necrotic\\:\\ 0\\.07178116820054882\ \(0\)\
+\-\ contrast\\:\\ 0\\.07165553350619731\ \(0\)\
+\-\ arteriovenous\\:\\ 0\\.07073249179771036\ \(0\)\
+\-\ dwi\\:\\ 0\\.07007784118572968\ \(0\)\
+\-\ intense\\:\\ 0\\.069607731673898\ \(0\)\
+\-\ advanced\\:\\ 0\\.06930356265490166\ \(0\)\
+\-\ cns\\:\\ 0\\.06886032196770009\ \(0\)\
+\-\ values\\:\\ 0\\.06801698469396597\ \(0\)\
+\-\ on\\:\\ 0\\.06681038422697126\ \(0\)\
+\-\ center\\:\\ 0\\.06672324717212974\ \(0\)\
+\-\ shift\\:\\ 0\\.06478347456710032\ \(0\)\
+\-\ volume\\:\\ 0\\.06478347456710032\ \(0\)\
+\-\ scattered\\:\\ 0\\.06416287922446345\ \(0\)\
+\-\ hemorrhagic\\:\\ 0\\.0639624630102725\ \(0\)\
+\-\ ischemia\\:\\ 0\\.06386340822001108\ \(0\)\
+\-\ restricted\\:\\ 0\\.06337920978375963\ \(0\)\
+\-\ component\\:\\ 0\\.06319049713476427\ \(0\)\
+\-\ margins\\:\\ 0\\.06291249530461339\ \(0\)\
+\-\ flair\\:\\ 0\\.06273042769091342\ \(0\)\
+\-\ glioma\\:\\ 0\\.0626403465815924\ \(0\)\
+\-\ ring\\:\\ 0\\.06211265752299557\ \(0\)\
+\-\ 70\\:\\ 0\\.06088062220363651\ \(0\)\
+\-\ amount\\:\\ 0\\.05898910119205503\ \(0\)\
+\-\ sequences\\:\\ 0\\.05898910119205503\ \(0\)\
+\-\ administration\\:\\ 0\\.0587211830653328\ \(0\)\
+\-\ motor\\:\\ 0\\.05865506227218692\ \(0\)\
+\-\ hyperintense\\:\\ 0\\.05865506227218692\ \(0\)\
+\-\ with\\:\\ 0\\.05775525373123408\ \(0\)\
+\-\ includes\\:\\ 0\\.05733935943176812\ \(0\)\
+\-\ irregular\\:\\ 0\\.05692895712482101\ \(0\)\
+\-\ malformation\\:\\ 0\\.05687137757805589\ \(0\)\
+\-\ extensive\\:\\ 0\\.05681405337380033\ \(0\)\
+\-\ temporal\\:\\ 0\\.056643590417322205\ \(0\)\
+\-\ solid\\:\\ 0\\.05653118460576233\ \(0\)\
+\-\ are\\:\\ 0\\.055960400614989574\ \(0\)\
+\-\ astrocytoma\\:\\ 0\\.05566548298929486\ \(0\)\
+\-\ midline\\:\\ 0\\.0554578225094092\ \(0\)\
+\-\ structures\\:\\ 0\\.05540642448194996\ \(0\)\
+\-\ referred\\:\\ 0\\.05456254726181216\ \(0\)\
+\-\ metastasis\\:\\ 0\\.05404447262305275\ \(0\)\
+\-\ heterogeneous\\:\\ 0\\.05336988895103056\ \(0\)\
+\-\ grade\\:\\ 0\\.0530240064597739\ \(0\)\
+\-\ presence\\:\\ 0\\.05298141470171755\ \(0\)\
+\-\ intensity\\:\\ 0\\.05235882630957774\ \(0\)\
+\-\ effect\\:\\ 0\\.05172620652845247\ \(0\)\
+\-\ headache\\:\\ 0\\.050831791982219085\ \(0\)\
+\-\ elevated\\:\\ 0\\.05026814577421898\ \(0\)\
+\-\ although\\:\\ 0\\.050199387171274035\ \(0\)\
+\-\ along\\:\\ 0\\.04940160683511387\ \(0\)\
+\-\ central\\:\\ 0\\.04924142403106263\ \(0\)\
+\-\ right\\:\\ 0\\.048894366046957\ \(0\)\
+\-\ several\\:\\ 0\\.04837933218475978\ \(0\)\
+\-\ no\\:\\ 0\\.0479574877877356\ \(0\)\
+\-\ differential\\:\\ 0\\.047911350331047535\ \(0\)\
+\-\ adjacent\\:\\ 0\\.04779695501035497\ \(0\)\
+\-\ abscess\\:\\ 0\\.04734923625376815\ \(0\)\
+\-\ examination\\:\\ 0\\.04718526043710886\ \(0\)\
+\-\ enhancing\\:\\ 0\\.046192428616417466\ \(0\)\
+\-\ primary\\:\\ 0\\.045340887430212584\ \(0\)\
+\-\ following\\:\\ 0\\.04423576362625625\ \(0\)\
+\-\ weeks\\:\\ 0\\.04419260302897889\ \(0\)\
+\-\ edema\\:\\ 0\\.04397893557131538\ \(0\)\
+\-\ lymphoma\\:\\ 0\\.043915518010550485\ \(0\)\
+\-\ blood\\:\\ 0\\.0428241894919289\ \(0\)\
+\-\ significant\\:\\ 0\\.042574670787974694\ \(0\)\
+\-\ t2\\:\\ 0\\.04242348091387663\ \(0\)\
+\-\ evidence\\:\\ 0\\.041853773658019185\ \(0\)\
+\-\ mild\\:\\ 0\\.04179995017897165\ \(0\)\
+\-\ signal\\:\\ 0\\.04179995017897165\ \(0\)\
+\-\ who\\:\\ 0\\.04171073942547556\ \(0\)\
+\-\ physical\\:\\ 0\\.039982411878572585\ \(0\)\
+\-\ noted\\:\\ 0\\.03909575572490681\ \(0\)\
+\-\ man\\:\\ 0\\.03903778887047958\ \(0\)\
+\-\ diagnosis\\:\\ 0\\.038225233190100516\ \(0\)\
+\-\ mri\\:\\ 0\\.03785052327640198\ \(0\)\
+\-\ present\\:\\ 0\\.037837339606849735\ \(0\)\
+\-\ case\\:\\ 0\\.037045146715776855\ \(0\)\
+\-\ findings\\:\\ 0\\.03639263839529518\ \(0\)\
+\-\ presents\\:\\ 0\\.03547176251464797\ \(0\)\
+\-\ images\\:\\ 0\\.03410871336897319\ \(0\)\
+\-\ by\\:\\ 0\\.031313412265710966\ \(0\)\
+\-\ there\\:\\ 0\\.029340103416585737\ \(0\)\
+\-\ history\\:\\ 0\\.02817216752078299\ \(0\)\
+\-\ this\\:\\ 0\\.025337689220160334\ \(0\)\
+\-\ left\\:\\ 0\\.025153624646141626\ \(0\)\
+\-\ for\\:\\ 0\\.022349408219140263\ \(0\)\

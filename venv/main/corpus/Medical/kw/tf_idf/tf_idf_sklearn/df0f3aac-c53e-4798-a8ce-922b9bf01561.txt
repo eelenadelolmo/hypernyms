@@ -1,104 +1,101 @@
-Texto: 
-mastectomy.
-breast mri demonstrates soft tissue mass in right breast sub- areolar region.
-
-lymphoscintigraphy identified two nodular hot foci superior to the the right periareolar injection site and two nodular foci more in the right infraclavicular region.
-infiltrating breast cancer
-breast cancer
-inflammatory reaction
-woman presents with breast lump. biopsy proven infiltrating ductal carcinoma in left breast.  she undergoes left breast total mastectomy with reconstruction in left and augmentation of right.  she presents for follow-up mammogram and a ill-defined right breast nodular density is identified.  pre-operative planning included intraoperative sentinal node biopsy and bilateral breast mastectomies.
-lymphoscintigraphy is a valuable tool that is currently being investigated to localize sentinel lymph nodes in breast cancer.  axillary node disection is still the standard of care due to skip metastisis.  axillary node disection has significant morbidity to include lymphoedema and moderate to severe pain.  lymphoscintigraphy sensitivity increases with combined imaging, intraoperative gamma ray dectors, and blue dye.
-
-
-Keywords by value: 
-- breast: 0.5055890112906656
-- lymphoscintigraphy: 0.30865122824888247
-- disection: 0.21279002684805035
-- node: 0.1795294565105994
-- nodular: 0.16633501928072242
-- intraoperative: 0.16103275804638073
-- mastectomy: 0.14779420367864002
-- cancer: 0.13912344364362345
-- axillary: 0.13696820948806415
-- infiltrating: 0.13660656181351352
-- right: 0.11541611979687615
-- foci: 0.11381217661698888
-- metastisis: 0.11134387148618444
-- lymphoedema: 0.11134387148618444
-- dectors: 0.11134387148618444
-- infraclavicular: 0.10639501342402517
-- areolar: 0.10288374274962749
-- periareolar: 0.10288374274962749
-- sentinal: 0.10288374274962749
-- dye: 0.10288374274962749
-- mastectomies: 0.10016018962296588
-- identified: 0.09872266969164561
-- biopsy: 0.0976078288559664
-- investigated: 0.09605341617292726
-- skip: 0.09442361401307053
-- undergoes: 0.09053676337375427
-- valuable: 0.08947475595091127
-- tool: 0.0875932874363703
-- sentinel: 0.0875932874363703
-- to: 0.08702926795918613
-- in: 0.08660091008253482
-- and: 0.08632163534263013
-- augmentation: 0.08596348527651358
-- localize: 0.08386598659544639
-- region: 0.08329181361526666
-- she: 0.0828909709214182
-- two: 0.08269299115374673
-- hot: 0.08051637902319037
-- planning: 0.07913315869981334
-- blue: 0.07913315869981334
-- is: 0.07626797943883601
-- gamma: 0.07508881702668299
-- morbidity: 0.07477980341329502
-- increases: 0.07307395499015072
-- lump: 0.07281146345890452
-- reconstruction: 0.0723028321231131
-- left: 0.07125075521453664
-- sensitivity: 0.07067302996325639
-- proven: 0.07024472686765812
-- combined: 0.06904322780339966
-- presents: 0.06698543857368199
-- mammogram: 0.06647320356613379
-- standard: 0.06461382625359377
-- still: 0.061679830227966775
-- ductal: 0.06126952652476712
-- injection: 0.06058309906684272
-- included: 0.06020751910192412
-- reaction: 0.05923056697641208
-- nodes: 0.05914551167908113
-- ray: 0.05755816307775972
-- total: 0.05704801299801394
-- site: 0.05615369751703681
-- the: 0.055570012415568484
-- lymph: 0.05414027760087881
-- currently: 0.053483326983336306
-- moderate: 0.05226684687772054
-- care: 0.04974761346951863
-- being: 0.04851671562964914
-- inflammatory: 0.04707912824188755
-- density: 0.046167855480821425
-- superior: 0.045265429950174234
-- severe: 0.044074979176546285
-- carcinoma: 0.04164590680763333
-- include: 0.04142562315238188
-- with: 0.0408997262208574
-- significant: 0.04019934157042428
-- due: 0.04002115759165897
-- more: 0.03823100161603379
-- bilateral: 0.037418486057883234
-- soft: 0.03706631547083043
-- imaging: 0.03658974795969338
-- tissue: 0.03652316085633309
-- woman: 0.03626038675049178
-- mri: 0.03573876405022367
-- demonstrates: 0.034978321118917965
-- has: 0.03180219690317026
-- that: 0.030214188247998354
-- of: 0.02725020215794226
-- mass: 0.02659449463377291
-- pain: 0.024914015648195936
-- for: 0.021102488363852038
+\-\ Texto\\:\\ \ \(0\)\
+\-\ mastectomy\\.\ \(18\)\
+\-\ breast\\ mri\\ demonstrates\\ soft\\ tissue\\ mass\\ in\\ right\\ breast\\ sub\\-\\ areolar\\ region\\.\ \(0\)\
+\-\ lymphoscintigraphy\\ identified\\ two\\ nodular\\ hot\\ foci\\ superior\\ to\\ the\\ the\\ right\\ periareolar\\ injection\\ site\\ and\\ two\\ nodular\\ foci\\ more\\ in\\ the\\ right\\ infraclavicular\\ region\\.\ \(0\)\
+\-\ infiltrating\\ breast\\ cancer\ \(0\)\
+\-\ breast\\ cancer\ \(149\)\
+\-\ inflammatory\\ reaction\ \(4\)\
+\-\ woman\\ presents\\ with\\ breast\\ lump\\.\\ biopsy\\ proven\\ infiltrating\\ ductal\\ carcinoma\\ in\\ left\\ breast\\.\\ \\ she\\ undergoes\\ left\\ breast\\ total\\ mastectomy\\ with\\ reconstruction\\ in\\ left\\ and\\ augmentation\\ of\\ right\\.\\ \\ she\\ presents\\ for\\ follow\\-up\\ mammogram\\ and\\ a\\ ill\\-defined\\ right\\ breast\\ nodular\\ density\\ is\\ identified\\.\\ \\ pre\\-operative\\ planning\\ included\\ intraoperative\\ sentinal\\ node\\ biopsy\\ and\\ bilateral\\ breast\\ mastectomies\\.\ \(0\)\
+\-\ lymphoscintigraphy\\ is\\ a\\ valuable\\ tool\\ that\\ is\\ currently\\ being\\ investigated\\ to\\ localize\\ sentinel\\ lymph\\ nodes\\ in\\ breast\\ cancer\\.\\ \\ axillary\\ node\\ disection\\ is\\ still\\ the\\ standard\\ of\\ care\\ due\\ to\\ skip\\ metastisis\\.\\ \\ axillary\\ node\\ disection\\ has\\ significant\\ morbidity\\ to\\ include\\ lymphoedema\\ and\\ moderate\\ to\\ severe\\ pain\\.\\ \\ lymphoscintigraphy\\ sensitivity\\ increases\\ with\\ combined\\ imaging\\,\\ intraoperative\\ gamma\\ ray\\ dectors\\,\\ and\\ blue\\ dye\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ breast\\:\\ 0\\.5055890112906656\ \(0\)\
+\-\ lymphoscintigraphy\\:\\ 0\\.30865122824888247\ \(0\)\
+\-\ disection\\:\\ 0\\.21279002684805035\ \(0\)\
+\-\ node\\:\\ 0\\.1795294565105994\ \(0\)\
+\-\ nodular\\:\\ 0\\.16633501928072242\ \(0\)\
+\-\ intraoperative\\:\\ 0\\.16103275804638073\ \(0\)\
+\-\ mastectomy\\:\\ 0\\.14779420367864002\ \(0\)\
+\-\ cancer\\:\\ 0\\.13912344364362345\ \(0\)\
+\-\ axillary\\:\\ 0\\.13696820948806415\ \(0\)\
+\-\ infiltrating\\:\\ 0\\.13660656181351352\ \(0\)\
+\-\ right\\:\\ 0\\.11541611979687615\ \(0\)\
+\-\ foci\\:\\ 0\\.11381217661698888\ \(0\)\
+\-\ metastisis\\:\\ 0\\.11134387148618444\ \(0\)\
+\-\ lymphoedema\\:\\ 0\\.11134387148618444\ \(0\)\
+\-\ dectors\\:\\ 0\\.11134387148618444\ \(0\)\
+\-\ infraclavicular\\:\\ 0\\.10639501342402517\ \(0\)\
+\-\ areolar\\:\\ 0\\.10288374274962749\ \(0\)\
+\-\ periareolar\\:\\ 0\\.10288374274962749\ \(0\)\
+\-\ sentinal\\:\\ 0\\.10288374274962749\ \(0\)\
+\-\ dye\\:\\ 0\\.10288374274962749\ \(0\)\
+\-\ mastectomies\\:\\ 0\\.10016018962296588\ \(0\)\
+\-\ identified\\:\\ 0\\.09872266969164561\ \(0\)\
+\-\ biopsy\\:\\ 0\\.0976078288559664\ \(0\)\
+\-\ investigated\\:\\ 0\\.09605341617292726\ \(0\)\
+\-\ skip\\:\\ 0\\.09442361401307053\ \(0\)\
+\-\ undergoes\\:\\ 0\\.09053676337375427\ \(0\)\
+\-\ valuable\\:\\ 0\\.08947475595091127\ \(0\)\
+\-\ tool\\:\\ 0\\.0875932874363703\ \(0\)\
+\-\ sentinel\\:\\ 0\\.0875932874363703\ \(0\)\
+\-\ to\\:\\ 0\\.08702926795918613\ \(0\)\
+\-\ in\\:\\ 0\\.08660091008253482\ \(0\)\
+\-\ and\\:\\ 0\\.08632163534263013\ \(0\)\
+\-\ augmentation\\:\\ 0\\.08596348527651358\ \(0\)\
+\-\ localize\\:\\ 0\\.08386598659544639\ \(0\)\
+\-\ region\\:\\ 0\\.08329181361526666\ \(0\)\
+\-\ she\\:\\ 0\\.0828909709214182\ \(0\)\
+\-\ two\\:\\ 0\\.08269299115374673\ \(0\)\
+\-\ hot\\:\\ 0\\.08051637902319037\ \(0\)\
+\-\ planning\\:\\ 0\\.07913315869981334\ \(0\)\
+\-\ blue\\:\\ 0\\.07913315869981334\ \(0\)\
+\-\ is\\:\\ 0\\.07626797943883601\ \(0\)\
+\-\ gamma\\:\\ 0\\.07508881702668299\ \(0\)\
+\-\ morbidity\\:\\ 0\\.07477980341329502\ \(0\)\
+\-\ increases\\:\\ 0\\.07307395499015072\ \(0\)\
+\-\ lump\\:\\ 0\\.07281146345890452\ \(0\)\
+\-\ reconstruction\\:\\ 0\\.0723028321231131\ \(0\)\
+\-\ left\\:\\ 0\\.07125075521453664\ \(0\)\
+\-\ sensitivity\\:\\ 0\\.07067302996325639\ \(0\)\
+\-\ proven\\:\\ 0\\.07024472686765812\ \(0\)\
+\-\ combined\\:\\ 0\\.06904322780339966\ \(0\)\
+\-\ presents\\:\\ 0\\.06698543857368199\ \(0\)\
+\-\ mammogram\\:\\ 0\\.06647320356613379\ \(0\)\
+\-\ standard\\:\\ 0\\.06461382625359377\ \(0\)\
+\-\ still\\:\\ 0\\.061679830227966775\ \(0\)\
+\-\ ductal\\:\\ 0\\.06126952652476712\ \(0\)\
+\-\ injection\\:\\ 0\\.06058309906684272\ \(0\)\
+\-\ included\\:\\ 0\\.06020751910192412\ \(0\)\
+\-\ reaction\\:\\ 0\\.05923056697641208\ \(0\)\
+\-\ nodes\\:\\ 0\\.05914551167908113\ \(0\)\
+\-\ ray\\:\\ 0\\.05755816307775972\ \(0\)\
+\-\ total\\:\\ 0\\.05704801299801394\ \(0\)\
+\-\ site\\:\\ 0\\.05615369751703681\ \(0\)\
+\-\ the\\:\\ 0\\.055570012415568484\ \(0\)\
+\-\ lymph\\:\\ 0\\.05414027760087881\ \(0\)\
+\-\ currently\\:\\ 0\\.053483326983336306\ \(0\)\
+\-\ moderate\\:\\ 0\\.05226684687772054\ \(0\)\
+\-\ care\\:\\ 0\\.04974761346951863\ \(0\)\
+\-\ being\\:\\ 0\\.04851671562964914\ \(0\)\
+\-\ inflammatory\\:\\ 0\\.04707912824188755\ \(0\)\
+\-\ density\\:\\ 0\\.046167855480821425\ \(0\)\
+\-\ superior\\:\\ 0\\.045265429950174234\ \(0\)\
+\-\ severe\\:\\ 0\\.044074979176546285\ \(0\)\
+\-\ carcinoma\\:\\ 0\\.04164590680763333\ \(0\)\
+\-\ include\\:\\ 0\\.04142562315238188\ \(0\)\
+\-\ with\\:\\ 0\\.0408997262208574\ \(0\)\
+\-\ significant\\:\\ 0\\.04019934157042428\ \(0\)\
+\-\ due\\:\\ 0\\.04002115759165897\ \(0\)\
+\-\ more\\:\\ 0\\.03823100161603379\ \(0\)\
+\-\ bilateral\\:\\ 0\\.037418486057883234\ \(0\)\
+\-\ soft\\:\\ 0\\.03706631547083043\ \(0\)\
+\-\ imaging\\:\\ 0\\.03658974795969338\ \(0\)\
+\-\ tissue\\:\\ 0\\.03652316085633309\ \(0\)\
+\-\ woman\\:\\ 0\\.03626038675049178\ \(0\)\
+\-\ mri\\:\\ 0\\.03573876405022367\ \(0\)\
+\-\ demonstrates\\:\\ 0\\.034978321118917965\ \(0\)\
+\-\ has\\:\\ 0\\.03180219690317026\ \(0\)\
+\-\ that\\:\\ 0\\.030214188247998354\ \(0\)\
+\-\ of\\:\\ 0\\.02725020215794226\ \(0\)\
+\-\ mass\\:\\ 0\\.02659449463377291\ \(0\)\
+\-\ pain\\:\\ 0\\.024914015648195936\ \(0\)\
+\-\ for\\:\\ 0\\.021102488363852038\ \(0\)\

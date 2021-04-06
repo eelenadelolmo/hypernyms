@@ -1,55 +1,51 @@
-Texto: 
-axial ct images thru the abdomen demonstrate thickening of bowel wall especially in the body of stomach and pylorus.  diffuse mesenteric adenopathy and fatty infiltration.  
-
-axial ct images thru the pelvis demonstrate bilateral adnexal masses, likely representing bilateral ovarian masses.
-krukenberg tumor, primary gastric adenocarcinoma
-primary gastric adenocarcinoma with metastases to ovaries (krukenberg tumors)
-
-primary gastric adenocarcinoma and primary bilateral ovarian neoplasm
-with worsening pelvic pain
-
-
-Keywords by value: 
-- krukenberg: 0.3830401023050174
-- thru: 0.35258220326937856
-- gastric: 0.31671015045779055
-- primary: 0.3082553508967903
-- adenocarcinoma: 0.3073073613035795
-- ovarian: 0.213548454231033
-- bilateral: 0.202069348925999
-- masses: 0.17064321613799915
-- axial: 0.14478911836267036
-- pylorus: 0.14167541773030412
-- ovaries: 0.1381806502804445
-- demonstrate: 0.13031018592453542
-- adnexal: 0.12498121003355972
-- infiltration: 0.12360759215411363
-- fatty: 0.11910810941915084
-- representing: 0.11857221138953755
-- images: 0.11594604786214234
-- mesenteric: 0.10821282501942243
-- adenopathy: 0.10542406469890166
-- stomach: 0.10456795392711943
-- metastases: 0.10132153949788694
-- especially: 0.09913988510043731
-- pelvic: 0.09796925458336106
-- worsening: 0.09570628610814057
-- ct: 0.09542788270921469
-- tumors: 0.09217305544734926
-- pelvis: 0.08765589003139389
-- neoplasm: 0.08555596474383617
-- thickening: 0.08526340742583365
-- body: 0.08248273201062849
-- bowel: 0.08043064001600014
-- diffuse: 0.07859681940325336
-- and: 0.07769313374914026
-- abdomen: 0.07647159890242872
-- wall: 0.07623910223605461
-- the: 0.07502305285182634
-- likely: 0.07489353508489675
-- tumor: 0.06555435826204337
-- with: 0.0490819848653634
-- of: 0.049052675903199845
-- pain: 0.04484734197401231
-- to: 0.0313320132493069
-- in: 0.031177797144984642
+\-\ Texto\\:\\ \ \(0\)\
+\-\ axial\\ ct\\ images\\ thru\\ the\\ abdomen\\ demonstrate\\ thickening\\ of\\ bowel\\ wall\\ especially\\ in\\ the\\ body\\ of\\ stomach\\ and\\ pylorus\\.\\ \\ diffuse\\ mesenteric\\ adenopathy\\ and\\ fatty\\ infiltration\\.\\ \\ \ \(0\)\
+\-\ axial\\ ct\\ images\\ thru\\ the\\ pelvis\\ demonstrate\\ bilateral\\ adnexal\\ masses\\,\\ likely\\ representing\\ bilateral\\ ovarian\\ masses\\.\ \(0\)\
+\-\ krukenberg\\ tumor\\,\\ primary\\ gastric\\ adenocarcinoma\ \(0\)\
+\-\ primary\\ gastric\\ adenocarcinoma\\ with\\ metastases\\ to\\ ovaries\\ \\(krukenberg\\ tumors\\)\ \(0\)\
+\-\ primary\\ gastric\\ adenocarcinoma\\ and\\ primary\\ bilateral\\ ovarian\\ neoplasm\ \(0\)\
+\-\ with\\ worsening\\ pelvic\\ pain\ \(1\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ krukenberg\\:\\ 0\\.3830401023050174\ \(0\)\
+\-\ thru\\:\\ 0\\.35258220326937856\ \(0\)\
+\-\ gastric\\:\\ 0\\.31671015045779055\ \(0\)\
+\-\ primary\\:\\ 0\\.3082553508967903\ \(0\)\
+\-\ adenocarcinoma\\:\\ 0\\.3073073613035795\ \(0\)\
+\-\ ovarian\\:\\ 0\\.213548454231033\ \(0\)\
+\-\ bilateral\\:\\ 0\\.202069348925999\ \(0\)\
+\-\ masses\\:\\ 0\\.17064321613799915\ \(0\)\
+\-\ axial\\:\\ 0\\.14478911836267036\ \(0\)\
+\-\ pylorus\\:\\ 0\\.14167541773030412\ \(0\)\
+\-\ ovaries\\:\\ 0\\.1381806502804445\ \(0\)\
+\-\ demonstrate\\:\\ 0\\.13031018592453542\ \(0\)\
+\-\ adnexal\\:\\ 0\\.12498121003355972\ \(0\)\
+\-\ infiltration\\:\\ 0\\.12360759215411363\ \(0\)\
+\-\ fatty\\:\\ 0\\.11910810941915084\ \(0\)\
+\-\ representing\\:\\ 0\\.11857221138953755\ \(0\)\
+\-\ images\\:\\ 0\\.11594604786214234\ \(0\)\
+\-\ mesenteric\\:\\ 0\\.10821282501942243\ \(0\)\
+\-\ adenopathy\\:\\ 0\\.10542406469890166\ \(0\)\
+\-\ stomach\\:\\ 0\\.10456795392711943\ \(0\)\
+\-\ metastases\\:\\ 0\\.10132153949788694\ \(0\)\
+\-\ especially\\:\\ 0\\.09913988510043731\ \(0\)\
+\-\ pelvic\\:\\ 0\\.09796925458336106\ \(0\)\
+\-\ worsening\\:\\ 0\\.09570628610814057\ \(0\)\
+\-\ ct\\:\\ 0\\.09542788270921469\ \(0\)\
+\-\ tumors\\:\\ 0\\.09217305544734926\ \(0\)\
+\-\ pelvis\\:\\ 0\\.08765589003139389\ \(0\)\
+\-\ neoplasm\\:\\ 0\\.08555596474383617\ \(0\)\
+\-\ thickening\\:\\ 0\\.08526340742583365\ \(0\)\
+\-\ body\\:\\ 0\\.08248273201062849\ \(0\)\
+\-\ bowel\\:\\ 0\\.08043064001600014\ \(0\)\
+\-\ diffuse\\:\\ 0\\.07859681940325336\ \(0\)\
+\-\ and\\:\\ 0\\.07769313374914026\ \(0\)\
+\-\ abdomen\\:\\ 0\\.07647159890242872\ \(0\)\
+\-\ wall\\:\\ 0\\.07623910223605461\ \(0\)\
+\-\ the\\:\\ 0\\.07502305285182634\ \(0\)\
+\-\ likely\\:\\ 0\\.07489353508489675\ \(0\)\
+\-\ tumor\\:\\ 0\\.06555435826204337\ \(0\)\
+\-\ with\\:\\ 0\\.0490819848653634\ \(0\)\
+\-\ of\\:\\ 0\\.049052675903199845\ \(0\)\
+\-\ pain\\:\\ 0\\.04484734197401231\ \(0\)\
+\-\ to\\:\\ 0\\.0313320132493069\ \(0\)\
+\-\ in\\:\\ 0\\.031177797144984642\ \(0\)\

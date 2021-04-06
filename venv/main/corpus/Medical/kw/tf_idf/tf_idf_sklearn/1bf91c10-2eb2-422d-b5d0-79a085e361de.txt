@@ -1,75 +1,73 @@
-Texto: 
-unremarkable pelvic exam.
-patient to undergo endometrial biopsy to remove polyps.
-transvaginal ultrasound demonstrates an area of focal thickening of the endometrial stripe. on subsequent sonohysterography, two well-defined, smooth, polypoid lesions, isoechoic to the endometrium are seen extending into the endometrial canal.
-endometrial polyps
-- endometrial polyp(s)
-- submucosal fibroid(s)
-- glandular hyperplasia
-41 y/o female with irregular menstrual bleeding.
-endometrial polyps are a common cause of dysfunctional uterine bleeding and can be seen in 30% of cases of dysfunctional uterine bleeding.  this patient had two endometrial polyps that were seen on sonohysterography.  multiple polyps are seen in aproximately 20% of cases.
-
-
-Keywords by value: 
-- endometrial: 0.585598596951486
-- polyps: 0.44164606886240854
-- sonohysterography: 0.25031125158669776
-- dysfunctional: 0.22214662362751136
-- bleeding: 0.20082098393042572
-- seen: 0.15423282332505675
-- uterine: 0.15296630931190847
-- aproximately: 0.12102521343245487
-- cases: 0.110173621744264
-- glandular: 0.10525182255595046
-- endometrium: 0.10303859505806584
-- isoechoic: 0.10204802582733617
-- transvaginal: 0.10112141019505647
-- two: 0.09727423046909457
-- polypoid: 0.09654919192585835
-- of: 0.09616567527879263
-- menstrual: 0.09471381673782789
-- stripe: 0.09415070303028691
-- are: 0.0932328194062107
-- submucosal: 0.09072770266805315
-- fibroid: 0.08988289671075234
-- remove: 0.08832921377248171
-- polyp: 0.08339349357854486
-- undergo: 0.07648315465595423
-- 41: 0.07510007506497758
-- hyperplasia: 0.07466715103701407
-- smooth: 0.06762010270204045
-- pelvic: 0.0640215125889071
-- irregular: 0.06323098858326902
-- canal: 0.06303997611035503
-- subsequent: 0.062003098922682985
-- to: 0.06142507328060211
-- biopsy: 0.057409499325463804
-- 30: 0.05587116385964625
-- cause: 0.055794590029536434
-- thickening: 0.05571842242855259
-- extending: 0.055529752708211755
-- unremarkable: 0.05490621026303107
-- patient: 0.053276399216058375
-- area: 0.05305648468988518
-- 20: 0.05283728105626569
-- ultrasound: 0.05051789736969096
-- on: 0.049470859303194704
-- the: 0.049026496557902685
-- focal: 0.048989321590365634
-- lesions: 0.04703652473941016
-- common: 0.04644710125685728
-- into: 0.043537024121431664
-- can: 0.04297891435542874
-- were: 0.04221746556316422
-- exam: 0.041228874093869286
-- demonstrates: 0.04114604179231531
-- had: 0.04080596054205142
-- in: 0.04074849279808712
-- multiple: 0.04005943501880636
-- female: 0.039520885148074336
-- that: 0.035541850283392906
-- be: 0.03322385649883351
-- an: 0.03131856852293992
-- this: 0.028142569594127514
-- and: 0.016923785465639368
-- with: 0.016037189041142784
+\-\ Texto\\:\\ \ \(0\)\
+\-\ unremarkable\\ pelvic\\ exam\\.\ \(0\)\
+\-\ patient\\ to\\ undergo\\ endometrial\\ biopsy\\ to\\ remove\\ polyps\\.\ \(0\)\
+\-\ transvaginal\\ ultrasound\\ demonstrates\\ an\\ area\\ of\\ focal\\ thickening\\ of\\ the\\ endometrial\\ stripe\\.\\ on\\ subsequent\\ sonohysterography\\,\\ two\\ well\\-defined\\,\\ smooth\\,\\ polypoid\\ lesions\\,\\ isoechoic\\ to\\ the\\ endometrium\\ are\\ seen\\ extending\\ into\\ the\\ endometrial\\ canal\\.\ \(0\)\
+\-\ endometrial\\ polyps\ \(2\)\
+\-\ endometrial\\ polyp\\(s\\)\ \(0\)\
+\-\ submucosal\\ fibroid\\(s\\)\ \(0\)\
+\-\ glandular\\ hyperplasia\ \(0\)\
+\-\ 41\\ y\\/o\\ female\\ with\\ irregular\\ menstrual\\ bleeding\\.\ \(1\)\
+\-\ endometrial\\ polyps\\ are\\ a\\ common\\ cause\\ of\\ dysfunctional\\ uterine\\ bleeding\\ and\\ can\\ be\\ seen\\ in\\ 30\\%\\ of\\ cases\\ of\\ dysfunctional\\ uterine\\ bleeding\\.\\ \\ this\\ patient\\ had\\ two\\ endometrial\\ polyps\\ that\\ were\\ seen\\ on\\ sonohysterography\\.\\ \\ multiple\\ polyps\\ are\\ seen\\ in\\ aproximately\\ 20\\%\\ of\\ cases\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ endometrial\\:\\ 0\\.585598596951486\ \(0\)\
+\-\ polyps\\:\\ 0\\.44164606886240854\ \(0\)\
+\-\ sonohysterography\\:\\ 0\\.25031125158669776\ \(0\)\
+\-\ dysfunctional\\:\\ 0\\.22214662362751136\ \(0\)\
+\-\ bleeding\\:\\ 0\\.20082098393042572\ \(0\)\
+\-\ seen\\:\\ 0\\.15423282332505675\ \(0\)\
+\-\ uterine\\:\\ 0\\.15296630931190847\ \(0\)\
+\-\ aproximately\\:\\ 0\\.12102521343245487\ \(0\)\
+\-\ cases\\:\\ 0\\.110173621744264\ \(0\)\
+\-\ glandular\\:\\ 0\\.10525182255595046\ \(0\)\
+\-\ endometrium\\:\\ 0\\.10303859505806584\ \(0\)\
+\-\ isoechoic\\:\\ 0\\.10204802582733617\ \(0\)\
+\-\ transvaginal\\:\\ 0\\.10112141019505647\ \(0\)\
+\-\ two\\:\\ 0\\.09727423046909457\ \(0\)\
+\-\ polypoid\\:\\ 0\\.09654919192585835\ \(0\)\
+\-\ of\\:\\ 0\\.09616567527879263\ \(0\)\
+\-\ menstrual\\:\\ 0\\.09471381673782789\ \(0\)\
+\-\ stripe\\:\\ 0\\.09415070303028691\ \(0\)\
+\-\ are\\:\\ 0\\.0932328194062107\ \(0\)\
+\-\ submucosal\\:\\ 0\\.09072770266805315\ \(0\)\
+\-\ fibroid\\:\\ 0\\.08988289671075234\ \(0\)\
+\-\ remove\\:\\ 0\\.08832921377248171\ \(0\)\
+\-\ polyp\\:\\ 0\\.08339349357854486\ \(0\)\
+\-\ undergo\\:\\ 0\\.07648315465595423\ \(0\)\
+\-\ 41\\:\\ 0\\.07510007506497758\ \(0\)\
+\-\ hyperplasia\\:\\ 0\\.07466715103701407\ \(0\)\
+\-\ smooth\\:\\ 0\\.06762010270204045\ \(0\)\
+\-\ pelvic\\:\\ 0\\.0640215125889071\ \(0\)\
+\-\ irregular\\:\\ 0\\.06323098858326902\ \(0\)\
+\-\ canal\\:\\ 0\\.06303997611035503\ \(0\)\
+\-\ subsequent\\:\\ 0\\.062003098922682985\ \(0\)\
+\-\ to\\:\\ 0\\.06142507328060211\ \(0\)\
+\-\ biopsy\\:\\ 0\\.057409499325463804\ \(0\)\
+\-\ 30\\:\\ 0\\.05587116385964625\ \(0\)\
+\-\ cause\\:\\ 0\\.055794590029536434\ \(0\)\
+\-\ thickening\\:\\ 0\\.05571842242855259\ \(0\)\
+\-\ extending\\:\\ 0\\.055529752708211755\ \(0\)\
+\-\ unremarkable\\:\\ 0\\.05490621026303107\ \(0\)\
+\-\ patient\\:\\ 0\\.053276399216058375\ \(0\)\
+\-\ area\\:\\ 0\\.05305648468988518\ \(0\)\
+\-\ 20\\:\\ 0\\.05283728105626569\ \(0\)\
+\-\ ultrasound\\:\\ 0\\.05051789736969096\ \(0\)\
+\-\ on\\:\\ 0\\.049470859303194704\ \(0\)\
+\-\ the\\:\\ 0\\.049026496557902685\ \(0\)\
+\-\ focal\\:\\ 0\\.048989321590365634\ \(0\)\
+\-\ lesions\\:\\ 0\\.04703652473941016\ \(0\)\
+\-\ common\\:\\ 0\\.04644710125685728\ \(0\)\
+\-\ into\\:\\ 0\\.043537024121431664\ \(0\)\
+\-\ can\\:\\ 0\\.04297891435542874\ \(0\)\
+\-\ were\\:\\ 0\\.04221746556316422\ \(0\)\
+\-\ exam\\:\\ 0\\.041228874093869286\ \(0\)\
+\-\ demonstrates\\:\\ 0\\.04114604179231531\ \(0\)\
+\-\ had\\:\\ 0\\.04080596054205142\ \(0\)\
+\-\ in\\:\\ 0\\.04074849279808712\ \(0\)\
+\-\ multiple\\:\\ 0\\.04005943501880636\ \(0\)\
+\-\ female\\:\\ 0\\.039520885148074336\ \(0\)\
+\-\ that\\:\\ 0\\.035541850283392906\ \(0\)\
+\-\ be\\:\\ 0\\.03322385649883351\ \(0\)\
+\-\ an\\:\\ 0\\.03131856852293992\ \(0\)\
+\-\ this\\:\\ 0\\.028142569594127514\ \(0\)\
+\-\ and\\:\\ 0\\.016923785465639368\ \(0\)\
+\-\ with\\:\\ 0\\.016037189041142784\ \(0\)\

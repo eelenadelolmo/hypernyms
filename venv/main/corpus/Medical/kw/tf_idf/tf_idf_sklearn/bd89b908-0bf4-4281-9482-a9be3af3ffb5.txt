@@ -1,78 +1,76 @@
-Texto: 
-no peritoneal signs on abdominal exam.  labs within normal limits.
-self-limited
-supportive pain palliation
-focal well circumscribed area of graying and fat stranding, with fat density centrally, adjacent to the descending colon.  the focus of inflammation gives rise to the hyperattenuating ring, characteristic of segmental omental infarction.
-epiploic appendagitis
-epiploic appendagitis
-segmental omental infarction (typically without low density centrally)
-mesenteric panniculitis(similar findings, but not in this location)
-diverticulitis (if diverticuli present)
-acute onset of severe left upper quadrant pain.
-
-
-Keywords by value: 
-- appendagitis: 0.30513302117430285
-- epiploic: 0.2943327656684915
-- omental: 0.29245756127620376
-- centrally: 0.24788576478022886
-- segmental: 0.23832176098953742
-- infarction: 0.19730927563583484
-- graying: 0.18078590127058328
-- panniculitis: 0.1704315679197209
-- palliation: 0.16783676920248572
-- density: 0.16666297047258302
-- hyperattenuating: 0.15658311398896427
-- fat: 0.156347740417039
-- diverticuli: 0.14814566967173345
-- gives: 0.14622878063810188
-- rise: 0.14283279085020395
-- peritoneal: 0.11811161903081498
-- diverticulitis: 0.11811161903081498
-- descending: 0.1135052584811463
-- stranding: 0.11248985634642708
-- mesenteric: 0.10850635637139505
-- focus: 0.10645186335274413
-- ring: 0.10585641287848951
-- supportive: 0.10499236776696699
-- characteristic: 0.10159637797906904
-- inflammation: 0.10099931362060599
-- limits: 0.09929947389318121
-- of: 0.09837146625767951
-- circumscribed: 0.09731905761279282
-- similar: 0.09577919420507494
-- colon: 0.09568643479907649
-- pain: 0.08993798414686237
-- typically: 0.08822101106515684
-- quadrant: 0.08802401726632443
-- signs: 0.08782876937345296
-- location: 0.08750715305748627
-- labs: 0.08706463521039631
-- adjacent: 0.08145866568400387
-- area: 0.08141019409926287
-- onset: 0.0806956343882788
-- severe: 0.07955391122868925
-- the: 0.07522655570029885
-- focal: 0.07516951420309989
-- if: 0.0730168104494738
-- low: 0.07210955116054352
-- abdominal: 0.06873170826525109
-- acute: 0.06798212303012423
-- upper: 0.06715556600803793
-- without: 0.06628567136077873
-- present: 0.06448484420689042
-- exam: 0.06326183617505764
-- to: 0.06283400502394003
-- but: 0.062143515616626434
-- findings: 0.06202269085465696
-- well: 0.06084954806443169
-- within: 0.057879265044987076
-- normal: 0.05130980901560251
-- not: 0.049611130843132796
-- this: 0.04318213063872123
-- left: 0.04286843587310257
-- no: 0.0408661280190288
-- on: 0.03795419430509505
-- in: 0.03126236809067294
-- and: 0.025967959764108647
-- with: 0.024607560796331963
+\-\ Texto\\:\\ \ \(0\)\
+\-\ no\\ peritoneal\\ signs\\ on\\ abdominal\\ exam\\.\\ \\ labs\\ within\\ normal\\ limits\\.\ \(0\)\
+\-\ self\\-limited\ \(9\)\
+\-\ supportive\\ pain\\ palliation\ \(1\)\
+\-\ focal\\ well\\ circumscribed\\ area\\ of\\ graying\\ and\\ fat\\ stranding\\,\\ with\\ fat\\ density\\ centrally\\,\\ adjacent\\ to\\ the\\ descending\\ colon\\.\\ \\ the\\ focus\\ of\\ inflammation\\ gives\\ rise\\ to\\ the\\ hyperattenuating\\ ring\\,\\ characteristic\\ of\\ segmental\\ omental\\ infarction\\.\ \(0\)\
+\-\ epiploic\\ appendagitis\ \(11\)\
+\-\ epiploic\\ appendagitis\ \(11\)\
+\-\ segmental\\ omental\\ infarction\\ \\(typically\\ without\\ low\\ density\\ centrally\\)\ \(0\)\
+\-\ mesenteric\\ panniculitis\\(similar\\ findings\\,\\ but\\ not\\ in\\ this\\ location\\)\ \(1\)\
+\-\ diverticulitis\\ \\(if\\ diverticuli\\ present\\)\ \(1\)\
+\-\ acute\\ onset\\ of\\ severe\\ left\\ upper\\ quadrant\\ pain\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ appendagitis\\:\\ 0\\.30513302117430285\ \(0\)\
+\-\ epiploic\\:\\ 0\\.2943327656684915\ \(0\)\
+\-\ omental\\:\\ 0\\.29245756127620376\ \(0\)\
+\-\ centrally\\:\\ 0\\.24788576478022886\ \(0\)\
+\-\ segmental\\:\\ 0\\.23832176098953742\ \(0\)\
+\-\ infarction\\:\\ 0\\.19730927563583484\ \(0\)\
+\-\ graying\\:\\ 0\\.18078590127058328\ \(0\)\
+\-\ panniculitis\\:\\ 0\\.1704315679197209\ \(0\)\
+\-\ palliation\\:\\ 0\\.16783676920248572\ \(0\)\
+\-\ density\\:\\ 0\\.16666297047258302\ \(0\)\
+\-\ hyperattenuating\\:\\ 0\\.15658311398896427\ \(0\)\
+\-\ fat\\:\\ 0\\.156347740417039\ \(0\)\
+\-\ diverticuli\\:\\ 0\\.14814566967173345\ \(0\)\
+\-\ gives\\:\\ 0\\.14622878063810188\ \(0\)\
+\-\ rise\\:\\ 0\\.14283279085020395\ \(0\)\
+\-\ peritoneal\\:\\ 0\\.11811161903081498\ \(0\)\
+\-\ diverticulitis\\:\\ 0\\.11811161903081498\ \(0\)\
+\-\ descending\\:\\ 0\\.1135052584811463\ \(0\)\
+\-\ stranding\\:\\ 0\\.11248985634642708\ \(0\)\
+\-\ mesenteric\\:\\ 0\\.10850635637139505\ \(0\)\
+\-\ focus\\:\\ 0\\.10645186335274413\ \(0\)\
+\-\ ring\\:\\ 0\\.10585641287848951\ \(0\)\
+\-\ supportive\\:\\ 0\\.10499236776696699\ \(0\)\
+\-\ characteristic\\:\\ 0\\.10159637797906904\ \(0\)\
+\-\ inflammation\\:\\ 0\\.10099931362060599\ \(0\)\
+\-\ limits\\:\\ 0\\.09929947389318121\ \(0\)\
+\-\ of\\:\\ 0\\.09837146625767951\ \(0\)\
+\-\ circumscribed\\:\\ 0\\.09731905761279282\ \(0\)\
+\-\ similar\\:\\ 0\\.09577919420507494\ \(0\)\
+\-\ colon\\:\\ 0\\.09568643479907649\ \(0\)\
+\-\ pain\\:\\ 0\\.08993798414686237\ \(0\)\
+\-\ typically\\:\\ 0\\.08822101106515684\ \(0\)\
+\-\ quadrant\\:\\ 0\\.08802401726632443\ \(0\)\
+\-\ signs\\:\\ 0\\.08782876937345296\ \(0\)\
+\-\ location\\:\\ 0\\.08750715305748627\ \(0\)\
+\-\ labs\\:\\ 0\\.08706463521039631\ \(0\)\
+\-\ adjacent\\:\\ 0\\.08145866568400387\ \(0\)\
+\-\ area\\:\\ 0\\.08141019409926287\ \(0\)\
+\-\ onset\\:\\ 0\\.0806956343882788\ \(0\)\
+\-\ severe\\:\\ 0\\.07955391122868925\ \(0\)\
+\-\ the\\:\\ 0\\.07522655570029885\ \(0\)\
+\-\ focal\\:\\ 0\\.07516951420309989\ \(0\)\
+\-\ if\\:\\ 0\\.0730168104494738\ \(0\)\
+\-\ low\\:\\ 0\\.07210955116054352\ \(0\)\
+\-\ abdominal\\:\\ 0\\.06873170826525109\ \(0\)\
+\-\ acute\\:\\ 0\\.06798212303012423\ \(0\)\
+\-\ upper\\:\\ 0\\.06715556600803793\ \(0\)\
+\-\ without\\:\\ 0\\.06628567136077873\ \(0\)\
+\-\ present\\:\\ 0\\.06448484420689042\ \(0\)\
+\-\ exam\\:\\ 0\\.06326183617505764\ \(0\)\
+\-\ to\\:\\ 0\\.06283400502394003\ \(0\)\
+\-\ but\\:\\ 0\\.062143515616626434\ \(0\)\
+\-\ findings\\:\\ 0\\.06202269085465696\ \(0\)\
+\-\ well\\:\\ 0\\.06084954806443169\ \(0\)\
+\-\ within\\:\\ 0\\.057879265044987076\ \(0\)\
+\-\ normal\\:\\ 0\\.05130980901560251\ \(0\)\
+\-\ not\\:\\ 0\\.049611130843132796\ \(0\)\
+\-\ this\\:\\ 0\\.04318213063872123\ \(0\)\
+\-\ left\\:\\ 0\\.04286843587310257\ \(0\)\
+\-\ no\\:\\ 0\\.0408661280190288\ \(0\)\
+\-\ on\\:\\ 0\\.03795419430509505\ \(0\)\
+\-\ in\\:\\ 0\\.03126236809067294\ \(0\)\
+\-\ and\\:\\ 0\\.025967959764108647\ \(0\)\
+\-\ with\\:\\ 0\\.024607560796331963\ \(0\)\

@@ -1,70 +1,68 @@
-Texto: 
-negative for focal neurological findings
-negative eeg
-vp shunt
-chemotherapy
-patient died 4 months after presentation
-â€¢ large frond-like intraventicular mass, right trigone
-â€¢ marked hydrodrocephalus
-â€¢ mass enhances homogeneously with contrast
-â€¢ dandy-walker variant
-atypical teratoid/rhabdoid tumor
-â€¢ choroid plexus papilloma
-â€¢ choroid plexus carcinoma
-â€¢ ependymoma
-â€¢ pnet
-â€¢ at-rt (atypical teratoid/rhabdoid tumor)
-4 month old girl brought to er with projectile vomiting. evaluated for gastroenteritis.  returned to er 1 week later with dehydration and seizure.
-
-
-Keywords by value: 
-- choroid: 0.23233572264766975
-- plexus: 0.22334932219911713
-- atypical: 0.2032429243059247
-- hydrodrocephalus: 0.19809184958691733
-- er: 0.1852946080849962
-- intraventicular: 0.18304043699636502
-- trigone: 0.15744641721326091
-- negative: 0.1533716263782863
-- vp: 0.1503800005091019
-- eeg: 0.14809213923462017
-- gastroenteritis: 0.14703268041855508
-- dehydration: 0.14703268041855508
-- projectile: 0.1423950046227086
-- pnet: 0.13304072664406785
-- died: 0.1300058522073773
-- tumor: 0.12958026975614786
-- homogeneously: 0.12908168727635264
-- brought: 0.12216659242709738
-- shunt: 0.11745312389006983
-- returned: 0.11641889993832383
-- papilloma: 0.11358253514690357
-- variant: 0.10992096068163791
-- enhances: 0.10918480210516011
-- evaluated: 0.1058374820146133
-- ependymoma: 0.1046308050190422
-- seizure: 0.10307404359106717
-- neurological: 0.10174957224905216
-- mass: 0.09462851543629137
-- marked: 0.09368564997571106
-- vomiting: 0.09165635194951563
-- later: 0.08864605941698166
-- chemotherapy: 0.08795445324183035
-- girl: 0.08689175319905532
-- presentation: 0.08526864285827279
-- week: 0.0833141594945306
-- month: 0.07535031762666634
-- for: 0.07508686190062171
-- focal: 0.07409222076737385
-- carcinoma: 0.07409222076737385
-- with: 0.07276469110105864
-- months: 0.07210117976052133
-- large: 0.06206400157634313
-- to: 0.06193349819121293
-- findings: 0.06113381138759993
-- contrast: 0.06018491738169814
-- after: 0.06009038262941577
-- right: 0.04106735707594874
-- patient: 0.040288032210505635
-- old: 0.03665993685454172
-- and: 0.025595799415732753
+\-\ Texto\\:\\ \ \(0\)\
+\-\ negative\\ for\\ focal\\ neurological\\ findings\ \(0\)\
+\-\ negative\\ eeg\ \(0\)\
+\-\ vp\\ shunt\ \(0\)\
+\-\ chemotherapy\ \(327\)\
+\-\ patient\\ died\\ 4\\ months\\ after\\ presentation\ \(0\)\
+\-\ \\â\\€\\¢\\ large\\ frond\\-like\\ intraventicular\\ mass\\,\\ right\\ trigone\ \(0\)\
+\-\ \\â\\€\\¢\\ marked\\ hydrodrocephalus\ \(0\)\
+\-\ \\â\\€\\¢\\ mass\\ enhances\\ homogeneously\\ with\\ contrast\ \(0\)\
+\-\ \\â\\€\\¢\\ dandy\\-walker\\ variant\ \(0\)\
+\-\ atypical\\ teratoid\\/rhabdoid\\ tumor\ \(1\)\
+\-\ \\â\\€\\¢\\ choroid\\ plexus\\ papilloma\ \(4\)\
+\-\ \\â\\€\\¢\\ choroid\\ plexus\\ carcinoma\ \(1\)\
+\-\ \\â\\€\\¢\\ ependymoma\ \(8\)\
+\-\ \\â\\€\\¢\\ pnet\ \(0\)\
+\-\ \\â\\€\\¢\\ at\\-rt\\ \\(atypical\\ teratoid\\/rhabdoid\\ tumor\\)\ \(0\)\
+\-\ 4\\ month\\ old\\ girl\\ brought\\ to\\ er\\ with\\ projectile\\ vomiting\\.\\ evaluated\\ for\\ gastroenteritis\\.\\ \\ returned\\ to\\ er\\ 1\\ week\\ later\\ with\\ dehydration\\ and\\ seizure\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ choroid\\:\\ 0\\.23233572264766975\ \(0\)\
+\-\ plexus\\:\\ 0\\.22334932219911713\ \(0\)\
+\-\ atypical\\:\\ 0\\.2032429243059247\ \(0\)\
+\-\ hydrodrocephalus\\:\\ 0\\.19809184958691733\ \(0\)\
+\-\ er\\:\\ 0\\.1852946080849962\ \(0\)\
+\-\ intraventicular\\:\\ 0\\.18304043699636502\ \(0\)\
+\-\ trigone\\:\\ 0\\.15744641721326091\ \(0\)\
+\-\ negative\\:\\ 0\\.1533716263782863\ \(0\)\
+\-\ vp\\:\\ 0\\.1503800005091019\ \(0\)\
+\-\ eeg\\:\\ 0\\.14809213923462017\ \(0\)\
+\-\ gastroenteritis\\:\\ 0\\.14703268041855508\ \(0\)\
+\-\ dehydration\\:\\ 0\\.14703268041855508\ \(0\)\
+\-\ projectile\\:\\ 0\\.1423950046227086\ \(0\)\
+\-\ pnet\\:\\ 0\\.13304072664406785\ \(0\)\
+\-\ died\\:\\ 0\\.1300058522073773\ \(0\)\
+\-\ tumor\\:\\ 0\\.12958026975614786\ \(0\)\
+\-\ homogeneously\\:\\ 0\\.12908168727635264\ \(0\)\
+\-\ brought\\:\\ 0\\.12216659242709738\ \(0\)\
+\-\ shunt\\:\\ 0\\.11745312389006983\ \(0\)\
+\-\ returned\\:\\ 0\\.11641889993832383\ \(0\)\
+\-\ papilloma\\:\\ 0\\.11358253514690357\ \(0\)\
+\-\ variant\\:\\ 0\\.10992096068163791\ \(0\)\
+\-\ enhances\\:\\ 0\\.10918480210516011\ \(0\)\
+\-\ evaluated\\:\\ 0\\.1058374820146133\ \(0\)\
+\-\ ependymoma\\:\\ 0\\.1046308050190422\ \(0\)\
+\-\ seizure\\:\\ 0\\.10307404359106717\ \(0\)\
+\-\ neurological\\:\\ 0\\.10174957224905216\ \(0\)\
+\-\ mass\\:\\ 0\\.09462851543629137\ \(0\)\
+\-\ marked\\:\\ 0\\.09368564997571106\ \(0\)\
+\-\ vomiting\\:\\ 0\\.09165635194951563\ \(0\)\
+\-\ later\\:\\ 0\\.08864605941698166\ \(0\)\
+\-\ chemotherapy\\:\\ 0\\.08795445324183035\ \(0\)\
+\-\ girl\\:\\ 0\\.08689175319905532\ \(0\)\
+\-\ presentation\\:\\ 0\\.08526864285827279\ \(0\)\
+\-\ week\\:\\ 0\\.0833141594945306\ \(0\)\
+\-\ month\\:\\ 0\\.07535031762666634\ \(0\)\
+\-\ for\\:\\ 0\\.07508686190062171\ \(0\)\
+\-\ focal\\:\\ 0\\.07409222076737385\ \(0\)\
+\-\ carcinoma\\:\\ 0\\.07409222076737385\ \(0\)\
+\-\ with\\:\\ 0\\.07276469110105864\ \(0\)\
+\-\ months\\:\\ 0\\.07210117976052133\ \(0\)\
+\-\ large\\:\\ 0\\.06206400157634313\ \(0\)\
+\-\ to\\:\\ 0\\.06193349819121293\ \(0\)\
+\-\ findings\\:\\ 0\\.06113381138759993\ \(0\)\
+\-\ contrast\\:\\ 0\\.06018491738169814\ \(0\)\
+\-\ after\\:\\ 0\\.06009038262941577\ \(0\)\
+\-\ right\\:\\ 0\\.04106735707594874\ \(0\)\
+\-\ patient\\:\\ 0\\.040288032210505635\ \(0\)\
+\-\ old\\:\\ 0\\.03665993685454172\ \(0\)\
+\-\ and\\:\\ 0\\.025595799415732753\ \(0\)\

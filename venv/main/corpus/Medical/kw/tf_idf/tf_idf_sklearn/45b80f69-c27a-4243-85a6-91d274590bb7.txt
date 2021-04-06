@@ -1,129 +1,125 @@
-Texto: 
-gen: a+0x3. resting comfortabily.
-lungs: cta.
-cv: wnl.
-hct 39
-wbc 10
-particle embolization of the bronchial artery. the patient's symptoms have resolved.
-selective catherization of a lingular bronchial artery reveals enlarged, tortuous, abnormal bronchial vessels.
-bronchiectasis - bronchial artery embolization.
-cystic fibrosis
-chronic infection
-chronic granulomatous disease
-bronchiectasis
-tumor
-65 year old german woman who has complained of a 5 year history of hemoptysis
-there are several finer points to this case. 
-
-first, the angiographer must take care to identify hazardous collaterals originating from the intercostal-bronchial trunk (icbt), namely the anterior spinal artery. filling the anterior spinal artery from icbt injection is at least a relative contraindication to embolization. if the catheter cannot be positioned distal to the origin of the spinal artery, embolization should not be performed. 
-
-second, coils should not be used for embolization. the hemostasis required is at the capillary level. placing a large, proximal coil will not treat the abnormal vessels, which will recruit proximal supply via other icbt collaterals.
-
-
-Keywords by value: 
-- bronchial: 0.3637523795439854
-- icbt: 0.3427838447908922
-- embolization: 0.3113436136596842
-- artery: 0.266244669801179
-- collaterals: 0.17348125751315002
-- the: 0.17107814068823465
-- spinal: 0.1521989204078113
-- bronchiectasis: 0.14943851006289532
-- comfortabily: 0.11426128159696408
-- vessels: 0.11088787931338767
-- german: 0.1091827545341257
-- finer: 0.1091827545341257
-- angiographer: 0.1091827545341257
-- particle: 0.10557948223960792
-- hazardous: 0.10557948223960792
-- contraindication: 0.10557948223960792
-- hemostasis: 0.0985701887961299
-- catherization: 0.09689768288225177
-- namely: 0.09689768288225177
-- should: 0.09323993727610003
-- recruit: 0.09290898975081739
-- will: 0.09197199076035077
-- lingular: 0.0918191558194134
-- proximal: 0.08927360793049453
-- placing: 0.0890242406921054
-- be: 0.08695107740770684
-- abnormal: 0.08585028537145048
-- resting: 0.08542096839758763
-- chronic: 0.08481926010770927
-- selective: 0.08480986237593535
-- not: 0.08461819044225667
-- points: 0.08313735646205724
-- coils: 0.08034244133474924
-- anterior: 0.07978503830658443
-- trunk: 0.07953408416753947
-- tortuous: 0.07914866333062286
-- coil: 0.07914866333062286
-- positioned: 0.07738162724065403
-- identify: 0.0761280630185792
-- originating: 0.0761280630185792
-- capillary: 0.07498862431390757
-- hemoptysis: 0.07394425391292349
-- take: 0.07252479072406143
-- treat: 0.07230310017781566
-- supply: 0.07187115430881497
-- to: 0.07144767330779275
-- cv: 0.07104953595574082
-- gen: 0.0704668639732667
-- of: 0.06991051642050142
-- complained: 0.0688657268500851
-- hct: 0.06774809004626864
-- cta: 0.06729803484391558
-- wnl: 0.06700673825257875
-- least: 0.06603745567409151
-- resolved: 0.06418306263300393
-- granulomatous: 0.06351190982924342
-- catheter: 0.06351190982924342
-- relative: 0.06329595294703864
-- injection: 0.06217048545282717
-- origin: 0.061503587851716335
-- must: 0.06122829789371303
-- 65: 0.06113786292409296
-- fibrosis: 0.05985429823527089
-- 39: 0.05937557032551917
-- via: 0.0583971303854418
-- from: 0.0567524194575329
-- filling: 0.05533007351904336
-- reveals: 0.05434934057823641
-- at: 0.05397380550742717
-- second: 0.053488686095471014
-- used: 0.053488686095471014
-- lungs: 0.052729351256511264
-- care: 0.05105109060378676
-- required: 0.05101088129516472
-- wbc: 0.050499578103387115
-- enlarged: 0.0487072130080648
-- first: 0.04821596616785673
-- several: 0.04687705109504074
-- year: 0.044037878472472196
-- infection: 0.04315886800481991
-- level: 0.04315886800481991
-- cystic: 0.04303084110943851
-- performed: 0.042269008974312815
-- 10: 0.04177929887281949
-- if: 0.041513199874680745
-- distal: 0.041513199874680745
-- who: 0.0404155323143524
-- is: 0.03913316897990924
-- symptoms: 0.03909242671015588
-- tumor: 0.037371572134070316
-- woman: 0.0372104742363557
-- other: 0.0371042153689083
-- case: 0.03589481617453573
-- large: 0.03579911225997918
-- have: 0.03569231227617368
-- has: 0.0326354717799274
-- which: 0.0324882231905317
-- disease: 0.029991430705180396
-- there: 0.0284290308460755
-- history: 0.02729736184216717
-- are: 0.027111355618858475
-- this: 0.024550900117176075
-- patient: 0.023238523962452646
-- for: 0.021655411592527003
-- old: 0.02114580371175633
-- can: 0.0
+\-\ Texto\\:\\ \ \(0\)\
+\-\ gen\\:\\ a\\+0x3\\.\\ resting\\ comfortabily\\.\ \(0\)\
+\-\ lungs\\:\\ cta\\.\ \(0\)\
+\-\ cv\\:\\ wnl\\.\ \(0\)\
+\-\ hct\\ 39\ \(0\)\
+\-\ wbc\\ 10\ \(1\)\
+\-\ particle\\ embolization\\ of\\ the\\ bronchial\\ artery\\.\\ the\\ patient\\'s\\ symptoms\\ have\\ resolved\\.\ \(0\)\
+\-\ selective\\ catherization\\ of\\ a\\ lingular\\ bronchial\\ artery\\ reveals\\ enlarged\\,\\ tortuous\\,\\ abnormal\\ bronchial\\ vessels\\.\ \(0\)\
+\-\ bronchiectasis\\ \\-\\ bronchial\\ artery\\ embolization\\.\ \(0\)\
+\-\ cystic\\ fibrosis\ \(30\)\
+\-\ chronic\\ infection\ \(10\)\
+\-\ chronic\\ granulomatous\\ disease\ \(0\)\
+\-\ bronchiectasis\ \(47\)\
+\-\ tumor\ \(1901\)\
+\-\ 65\\ year\\ old\\ german\\ woman\\ who\\ has\\ complained\\ of\\ a\\ 5\\ year\\ history\\ of\\ hemoptysis\ \(0\)\
+\-\ there\\ are\\ several\\ finer\\ points\\ to\\ this\\ case\\.\\ \ \(0\)\
+\-\ first\\,\\ the\\ angiographer\\ must\\ take\\ care\\ to\\ identify\\ hazardous\\ collaterals\\ originating\\ from\\ the\\ intercostal\\-bronchial\\ trunk\\ \\(icbt\\)\\,\\ namely\\ the\\ anterior\\ spinal\\ artery\\.\\ filling\\ the\\ anterior\\ spinal\\ artery\\ from\\ icbt\\ injection\\ is\\ at\\ least\\ a\\ relative\\ contraindication\\ to\\ embolization\\.\\ if\\ the\\ catheter\\ cannot\\ be\\ positioned\\ distal\\ to\\ the\\ origin\\ of\\ the\\ spinal\\ artery\\,\\ embolization\\ should\\ not\\ be\\ performed\\.\\ \ \(0\)\
+\-\ second\\,\\ coils\\ should\\ not\\ be\\ used\\ for\\ embolization\\.\\ the\\ hemostasis\\ required\\ is\\ at\\ the\\ capillary\\ level\\.\\ placing\\ a\\ large\\,\\ proximal\\ coil\\ will\\ not\\ treat\\ the\\ abnormal\\ vessels\\,\\ which\\ will\\ recruit\\ proximal\\ supply\\ via\\ other\\ icbt\\ collaterals\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ bronchial\\:\\ 0\\.3637523795439854\ \(0\)\
+\-\ icbt\\:\\ 0\\.3427838447908922\ \(0\)\
+\-\ embolization\\:\\ 0\\.3113436136596842\ \(0\)\
+\-\ artery\\:\\ 0\\.266244669801179\ \(0\)\
+\-\ collaterals\\:\\ 0\\.17348125751315002\ \(0\)\
+\-\ the\\:\\ 0\\.17107814068823465\ \(0\)\
+\-\ spinal\\:\\ 0\\.1521989204078113\ \(0\)\
+\-\ bronchiectasis\\:\\ 0\\.14943851006289532\ \(0\)\
+\-\ comfortabily\\:\\ 0\\.11426128159696408\ \(0\)\
+\-\ vessels\\:\\ 0\\.11088787931338767\ \(0\)\
+\-\ german\\:\\ 0\\.1091827545341257\ \(0\)\
+\-\ finer\\:\\ 0\\.1091827545341257\ \(0\)\
+\-\ angiographer\\:\\ 0\\.1091827545341257\ \(0\)\
+\-\ particle\\:\\ 0\\.10557948223960792\ \(0\)\
+\-\ hazardous\\:\\ 0\\.10557948223960792\ \(0\)\
+\-\ contraindication\\:\\ 0\\.10557948223960792\ \(0\)\
+\-\ hemostasis\\:\\ 0\\.0985701887961299\ \(0\)\
+\-\ catherization\\:\\ 0\\.09689768288225177\ \(0\)\
+\-\ namely\\:\\ 0\\.09689768288225177\ \(0\)\
+\-\ should\\:\\ 0\\.09323993727610003\ \(0\)\
+\-\ recruit\\:\\ 0\\.09290898975081739\ \(0\)\
+\-\ will\\:\\ 0\\.09197199076035077\ \(0\)\
+\-\ lingular\\:\\ 0\\.0918191558194134\ \(0\)\
+\-\ proximal\\:\\ 0\\.08927360793049453\ \(0\)\
+\-\ placing\\:\\ 0\\.0890242406921054\ \(0\)\
+\-\ be\\:\\ 0\\.08695107740770684\ \(0\)\
+\-\ abnormal\\:\\ 0\\.08585028537145048\ \(0\)\
+\-\ resting\\:\\ 0\\.08542096839758763\ \(0\)\
+\-\ chronic\\:\\ 0\\.08481926010770927\ \(0\)\
+\-\ selective\\:\\ 0\\.08480986237593535\ \(0\)\
+\-\ not\\:\\ 0\\.08461819044225667\ \(0\)\
+\-\ points\\:\\ 0\\.08313735646205724\ \(0\)\
+\-\ coils\\:\\ 0\\.08034244133474924\ \(0\)\
+\-\ anterior\\:\\ 0\\.07978503830658443\ \(0\)\
+\-\ trunk\\:\\ 0\\.07953408416753947\ \(0\)\
+\-\ tortuous\\:\\ 0\\.07914866333062286\ \(0\)\
+\-\ coil\\:\\ 0\\.07914866333062286\ \(0\)\
+\-\ positioned\\:\\ 0\\.07738162724065403\ \(0\)\
+\-\ identify\\:\\ 0\\.0761280630185792\ \(0\)\
+\-\ originating\\:\\ 0\\.0761280630185792\ \(0\)\
+\-\ capillary\\:\\ 0\\.07498862431390757\ \(0\)\
+\-\ hemoptysis\\:\\ 0\\.07394425391292349\ \(0\)\
+\-\ take\\:\\ 0\\.07252479072406143\ \(0\)\
+\-\ treat\\:\\ 0\\.07230310017781566\ \(0\)\
+\-\ supply\\:\\ 0\\.07187115430881497\ \(0\)\
+\-\ to\\:\\ 0\\.07144767330779275\ \(0\)\
+\-\ cv\\:\\ 0\\.07104953595574082\ \(0\)\
+\-\ gen\\:\\ 0\\.0704668639732667\ \(0\)\
+\-\ of\\:\\ 0\\.06991051642050142\ \(0\)\
+\-\ complained\\:\\ 0\\.0688657268500851\ \(0\)\
+\-\ hct\\:\\ 0\\.06774809004626864\ \(0\)\
+\-\ cta\\:\\ 0\\.06729803484391558\ \(0\)\
+\-\ wnl\\:\\ 0\\.06700673825257875\ \(0\)\
+\-\ least\\:\\ 0\\.06603745567409151\ \(0\)\
+\-\ resolved\\:\\ 0\\.06418306263300393\ \(0\)\
+\-\ granulomatous\\:\\ 0\\.06351190982924342\ \(0\)\
+\-\ catheter\\:\\ 0\\.06351190982924342\ \(0\)\
+\-\ relative\\:\\ 0\\.06329595294703864\ \(0\)\
+\-\ injection\\:\\ 0\\.06217048545282717\ \(0\)\
+\-\ origin\\:\\ 0\\.061503587851716335\ \(0\)\
+\-\ must\\:\\ 0\\.06122829789371303\ \(0\)\
+\-\ 65\\:\\ 0\\.06113786292409296\ \(0\)\
+\-\ fibrosis\\:\\ 0\\.05985429823527089\ \(0\)\
+\-\ 39\\:\\ 0\\.05937557032551917\ \(0\)\
+\-\ via\\:\\ 0\\.0583971303854418\ \(0\)\
+\-\ from\\:\\ 0\\.0567524194575329\ \(0\)\
+\-\ filling\\:\\ 0\\.05533007351904336\ \(0\)\
+\-\ reveals\\:\\ 0\\.05434934057823641\ \(0\)\
+\-\ at\\:\\ 0\\.05397380550742717\ \(0\)\
+\-\ second\\:\\ 0\\.053488686095471014\ \(0\)\
+\-\ used\\:\\ 0\\.053488686095471014\ \(0\)\
+\-\ lungs\\:\\ 0\\.052729351256511264\ \(0\)\
+\-\ care\\:\\ 0\\.05105109060378676\ \(0\)\
+\-\ required\\:\\ 0\\.05101088129516472\ \(0\)\
+\-\ wbc\\:\\ 0\\.050499578103387115\ \(0\)\
+\-\ enlarged\\:\\ 0\\.0487072130080648\ \(0\)\
+\-\ first\\:\\ 0\\.04821596616785673\ \(0\)\
+\-\ several\\:\\ 0\\.04687705109504074\ \(0\)\
+\-\ year\\:\\ 0\\.044037878472472196\ \(0\)\
+\-\ infection\\:\\ 0\\.04315886800481991\ \(0\)\
+\-\ level\\:\\ 0\\.04315886800481991\ \(0\)\
+\-\ cystic\\:\\ 0\\.04303084110943851\ \(0\)\
+\-\ performed\\:\\ 0\\.042269008974312815\ \(0\)\
+\-\ 10\\:\\ 0\\.04177929887281949\ \(0\)\
+\-\ if\\:\\ 0\\.041513199874680745\ \(0\)\
+\-\ distal\\:\\ 0\\.041513199874680745\ \(0\)\
+\-\ who\\:\\ 0\\.0404155323143524\ \(0\)\
+\-\ is\\:\\ 0\\.03913316897990924\ \(0\)\
+\-\ symptoms\\:\\ 0\\.03909242671015588\ \(0\)\
+\-\ tumor\\:\\ 0\\.037371572134070316\ \(0\)\
+\-\ woman\\:\\ 0\\.0372104742363557\ \(0\)\
+\-\ other\\:\\ 0\\.0371042153689083\ \(0\)\
+\-\ case\\:\\ 0\\.03589481617453573\ \(0\)\
+\-\ large\\:\\ 0\\.03579911225997918\ \(0\)\
+\-\ have\\:\\ 0\\.03569231227617368\ \(0\)\
+\-\ has\\:\\ 0\\.0326354717799274\ \(0\)\
+\-\ which\\:\\ 0\\.0324882231905317\ \(0\)\
+\-\ disease\\:\\ 0\\.029991430705180396\ \(0\)\
+\-\ there\\:\\ 0\\.0284290308460755\ \(0\)\
+\-\ history\\:\\ 0\\.02729736184216717\ \(0\)\
+\-\ are\\:\\ 0\\.027111355618858475\ \(0\)\
+\-\ this\\:\\ 0\\.024550900117176075\ \(0\)\
+\-\ patient\\:\\ 0\\.023238523962452646\ \(0\)\
+\-\ for\\:\\ 0\\.021655411592527003\ \(0\)\
+\-\ old\\:\\ 0\\.02114580371175633\ \(0\)\
+\-\ can\\:\\ 0\\.0\ \(0\)\

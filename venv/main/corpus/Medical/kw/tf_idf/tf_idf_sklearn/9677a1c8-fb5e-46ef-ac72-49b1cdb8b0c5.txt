@@ -1,58 +1,56 @@
-Texto: 
-palpable hard lymph node in the left neck.
-the patient was scheduled for surgical re-exploration of the neck.
-abnormally enlarged left internal jugular lymph node with heterogeneous echogenicity and multiple echogenic foci consistent with calcifications ("psamomma bodies").
-metastatic thyroid papillary carcinoma to internal jugular nodes. s/p us-guided percutaneous biopsy.
-metastatic disease 
-infectious- tb,  fungi
-lymphoma
-60 y/o male patient s/p thyroidectomy for papillary thyroid carcinoma now with a palpable left neck lump.
-
-
-Keywords by value: 
-- jugular: 0.28439624894019394
-- papillary: 0.25694266471250066
-- neck: 0.2529994300593168
-- node: 0.2369877361516272
-- psamomma: 0.2204691019853113
-- thyroid: 0.2166838911439775
-- lymph: 0.214403509139383
-- palpable: 0.1937042233409467
-- fungi: 0.1869657405459658
-- internal: 0.1858198278074883
-- carcinoma: 0.16492395230539728
-- thyroidectomy: 0.16364208361913835
-- metastatic: 0.15121927877738925
-- lump: 0.1441720837326265
-- left: 0.14108176595847266
-- abnormally: 0.1370912978544034
-- hard: 0.13633599992469747
-- echogenicity: 0.13454499056460936
-- percutaneous: 0.13287760074106686
-- scheduled: 0.12794015566211306
-- echogenic: 0.1264132753430897
-- tb: 0.122758390795056
-- bodies: 0.12072630645145677
-- nodes: 0.11711248829682316
-- foci: 0.11267826436614704
-- 60: 0.103113116295314
-- calcifications: 0.10061387341513761
-- heterogeneous: 0.09978042645468116
-- biopsy: 0.09663536074044728
-- now: 0.09463461988424555
-- enlarged: 0.09398140264147571
-- patient: 0.08967826087471788
-- for: 0.08356897595053026
-- the: 0.08252455144843657
-- lymphoma: 0.08210452000549544
-- with: 0.08098448339364925
-- consistent: 0.074751178732847
-- multiple: 0.06743061687674079
-- surgical: 0.06700474565074363
-- male: 0.061380839665088574
-- disease: 0.05786897978397522
-- was: 0.04804578185814109
-- to: 0.03446487767543012
-- in: 0.034295241618890866
-- and: 0.028487203908441085
-- of: 0.02697870802626606
+\-\ Texto\\:\\ \ \(0\)\
+\-\ palpable\\ hard\\ lymph\\ node\\ in\\ the\\ left\\ neck\\.\ \(0\)\
+\-\ the\\ patient\\ was\\ scheduled\\ for\\ surgical\\ re\\-exploration\\ of\\ the\\ neck\\.\ \(0\)\
+\-\ abnormally\\ enlarged\\ left\\ internal\\ jugular\\ lymph\\ node\\ with\\ heterogeneous\\ echogenicity\\ and\\ multiple\\ echogenic\\ foci\\ consistent\\ with\\ calcifications\\ \\(\\"psamomma\\ bodies\\"\\)\\.\ \(0\)\
+\-\ metastatic\\ thyroid\\ papillary\\ carcinoma\\ to\\ internal\\ jugular\\ nodes\\.\\ s\\/p\\ us\\-guided\\ percutaneous\\ biopsy\\.\ \(0\)\
+\-\ metastatic\\ disease\\ \ \(81\)\
+\-\ infectious\\-\\ tb\\,\\ \\ fungi\ \(0\)\
+\-\ lymphoma\ \(373\)\
+\-\ 60\\ y\\/o\\ male\\ patient\\ s\\/p\\ thyroidectomy\\ for\\ papillary\\ thyroid\\ carcinoma\\ now\\ with\\ a\\ palpable\\ left\\ neck\\ lump\\.\ \(1\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ jugular\\:\\ 0\\.28439624894019394\ \(0\)\
+\-\ papillary\\:\\ 0\\.25694266471250066\ \(0\)\
+\-\ neck\\:\\ 0\\.2529994300593168\ \(0\)\
+\-\ node\\:\\ 0\\.2369877361516272\ \(0\)\
+\-\ psamomma\\:\\ 0\\.2204691019853113\ \(0\)\
+\-\ thyroid\\:\\ 0\\.2166838911439775\ \(0\)\
+\-\ lymph\\:\\ 0\\.214403509139383\ \(0\)\
+\-\ palpable\\:\\ 0\\.1937042233409467\ \(0\)\
+\-\ fungi\\:\\ 0\\.1869657405459658\ \(0\)\
+\-\ internal\\:\\ 0\\.1858198278074883\ \(0\)\
+\-\ carcinoma\\:\\ 0\\.16492395230539728\ \(0\)\
+\-\ thyroidectomy\\:\\ 0\\.16364208361913835\ \(0\)\
+\-\ metastatic\\:\\ 0\\.15121927877738925\ \(0\)\
+\-\ lump\\:\\ 0\\.1441720837326265\ \(0\)\
+\-\ left\\:\\ 0\\.14108176595847266\ \(0\)\
+\-\ abnormally\\:\\ 0\\.1370912978544034\ \(0\)\
+\-\ hard\\:\\ 0\\.13633599992469747\ \(0\)\
+\-\ echogenicity\\:\\ 0\\.13454499056460936\ \(0\)\
+\-\ percutaneous\\:\\ 0\\.13287760074106686\ \(0\)\
+\-\ scheduled\\:\\ 0\\.12794015566211306\ \(0\)\
+\-\ echogenic\\:\\ 0\\.1264132753430897\ \(0\)\
+\-\ tb\\:\\ 0\\.122758390795056\ \(0\)\
+\-\ bodies\\:\\ 0\\.12072630645145677\ \(0\)\
+\-\ nodes\\:\\ 0\\.11711248829682316\ \(0\)\
+\-\ foci\\:\\ 0\\.11267826436614704\ \(0\)\
+\-\ 60\\:\\ 0\\.103113116295314\ \(0\)\
+\-\ calcifications\\:\\ 0\\.10061387341513761\ \(0\)\
+\-\ heterogeneous\\:\\ 0\\.09978042645468116\ \(0\)\
+\-\ biopsy\\:\\ 0\\.09663536074044728\ \(0\)\
+\-\ now\\:\\ 0\\.09463461988424555\ \(0\)\
+\-\ enlarged\\:\\ 0\\.09398140264147571\ \(0\)\
+\-\ patient\\:\\ 0\\.08967826087471788\ \(0\)\
+\-\ for\\:\\ 0\\.08356897595053026\ \(0\)\
+\-\ the\\:\\ 0\\.08252455144843657\ \(0\)\
+\-\ lymphoma\\:\\ 0\\.08210452000549544\ \(0\)\
+\-\ with\\:\\ 0\\.08098448339364925\ \(0\)\
+\-\ consistent\\:\\ 0\\.074751178732847\ \(0\)\
+\-\ multiple\\:\\ 0\\.06743061687674079\ \(0\)\
+\-\ surgical\\:\\ 0\\.06700474565074363\ \(0\)\
+\-\ male\\:\\ 0\\.061380839665088574\ \(0\)\
+\-\ disease\\:\\ 0\\.05786897978397522\ \(0\)\
+\-\ was\\:\\ 0\\.04804578185814109\ \(0\)\
+\-\ to\\:\\ 0\\.03446487767543012\ \(0\)\
+\-\ in\\:\\ 0\\.034295241618890866\ \(0\)\
+\-\ and\\:\\ 0\\.028487203908441085\ \(0\)\
+\-\ of\\:\\ 0\\.02697870802626606\ \(0\)\

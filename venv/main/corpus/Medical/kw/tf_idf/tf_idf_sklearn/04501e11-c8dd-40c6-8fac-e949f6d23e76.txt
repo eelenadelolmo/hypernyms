@@ -1,153 +1,151 @@
-Texto: 
--respiratory distress
--absent breath sounds auscultated over right side of chest, with dullness to percussion.
--deviation of trachea to the left
-1.	chest tube
-2.	blood transfusion
-3.    surgical ligation of bleeding vessel with open thoracostomy.
-artery was apparently severed during spinal surgery.
-1.	severe mediastinal shift to the left
-2.	large right pleural fluid collection
-3.	heterogenous attenuation of fluid
-massive tension hemothorax
-1.	hemothorax
-2.	chylothorax
-23 y/o wf recently s/p c7-t12 posterior fusion surgery for transection of spinal cord after a fall.
-a hemothorax is defined as a bloody pleural effusion with a hematocrit exceeding half the value in peripheral blood.  it can be seen after trauma, pulmonary embolism, as a result of metastatic disease, after anticoagulant therapy, or as a sequel of a leaking aortic aneurysm.  hemothorax is a potential surgical complication of posterior spinal surgery and  may be caused by iatrogenic rupture of  blood vessel with subsequent hemorrhage into the thoracic pleural space.   ct scanning of a hemothorax shows an effusion with relatively high attenuation, exceeding 35 hounsfield units (hu) when the blood is fresh, and reaching 70 hu with clotted blood.  spontaneous hemopneumothorax has been reported widely, though a rare occurrence, and can result in a massive fluid accumulation in the pleural space if there is lung collapse and lack of tamponade of the bleeding vessel.   therapeutic methods include tube thoracostomy, open thoracostomy and vats (video assisted thoracoscopic surgery).
-
-
-Keywords by value: 
-- hemothorax: 0.3702120979011403
-- thoracostomy: 0.2536377190086246
-- pleural: 0.2002877822984104
-- blood: 0.19314652040943797
-- exceeding: 0.1804141951821893
-- vessel: 0.1750270764753143
-- of: 0.15620001444331197
-- hu: 0.14808483916045612
-- surgery: 0.14304485402129868
-- spinal: 0.14168989864463957
-- massive: 0.1367624566506832
-- fluid: 0.11521268168063489
-- open: 0.10997577011193174
-- bleeding: 0.10872985778454168
-- sequel: 0.10637177560196122
-- clotted: 0.10637177560196122
-- tube: 0.10629975266613415
-- attenuation: 0.10178619236893434
-- result: 0.09959080512785638
-- effusion: 0.09878501937667927
-- severed: 0.09828943659652792
-- after: 0.09680237794065728
-- hemopneumothorax: 0.09568750459827498
-- chylothorax: 0.09356157136023353
-- leaking: 0.09356157136023353
-- the: 0.0929049028109362
-- thoracoscopic: 0.0917641204187532
-- space: 0.0885504175994761
-- fresh: 0.08760516559284169
-- dullness: 0.08649381549945306
-- vats: 0.08649381549945306
-- anticoagulant: 0.08454590633620819
-- auscultated: 0.08368178141331992
-- transection: 0.08287730035654728
-- tamponade: 0.08212475858566134
-- wf: 0.08075136711850583
-- reaching: 0.08075136711850583
-- as: 0.0801641654235771
-- methods: 0.07952282658740839
-- hounsfield: 0.07895391617702552
-- transfusion: 0.07841147649401978
-- with: 0.0781466719573607
-- ligation: 0.07692089458915544
-- widely: 0.07692089458915544
-- apparently: 0.0764635673307749
-- occurrence: 0.0764635673307749
-- tension: 0.0751902653228213
-- bloody: 0.07441262052738098
-- assisted: 0.07333551524686442
-- is: 0.0728622086352502
-- scanning: 0.07234954647338591
-- iatrogenic: 0.0714404875819751
-- percussion: 0.07115256306683246
-- units: 0.07032913748858648
-- chest: 0.07021984990691542
-- can: 0.06980980504336269
-- video: 0.06956004447233542
-- hematocrit: 0.06883855558372214
-- posterior: 0.06879083770564885
-- and: 0.06872242945584947
-- value: 0.06772720549033352
-- therapeutic: 0.06731072013150849
-- surgical: 0.06465680410039726
-- trachea: 0.06442585413836963
-- accumulation: 0.06426720746795263
-- heterogenous: 0.06265124424317817
-- half: 0.06265124424317817
-- collapse: 0.06238006108109362
-- complication: 0.06041155058669133
-- embolism: 0.060298889319908316
-- potential: 0.059434764397020036
-- shift: 0.05843754588759712
-- recently: 0.05806137292986453
-- spontaneous: 0.057877741569361485
-- though: 0.05778699908493015
-- lack: 0.05691641949794019
-- fusion: 0.05587390735693629
-- fall: 0.055422482579269974
-- 70: 0.05491700124860584
-- 23: 0.0548465457448107
-- relatively: 0.054164459477719896
-- be: 0.05396485648268277
-- rupture: 0.05377357314213359
-- mediastinal: 0.053709680651302716
-- collection: 0.053709680651302716
-- distress: 0.05358293646426637
-- caused: 0.053333507693570134
-- 35: 0.053333507693570134
-- aortic: 0.05140459706878797
-- sounds: 0.05135242539158674
-- aneurysm: 0.05064552105822311
-- subsequent: 0.05035520688216383
-- rare: 0.05021271610204985
-- to: 0.049885769042831415
-- thoracic: 0.04970466007949686
-- in: 0.04964023139091958
-- cord: 0.04930483746777876
-- breath: 0.04875049339333379
-- reported: 0.04790720913801653
-- peripheral: 0.04756367151282814
-- defined: 0.047451371925053894
-- side: 0.04595036369863986
-- left: 0.045379353432974966
-- hemorrhage: 0.044533382085759424
-- right: 0.04410487054927209
-- during: 0.04213037709661656
-- severe: 0.04210679700687814
-- artery: 0.04131017068290635
-- pulmonary: 0.040543886599997324
-- lung: 0.04046177111695565
-- when: 0.040178837122069766
-- include: 0.03957574881598522
-- shows: 0.03903848116695291
-- been: 0.03875232323773924
-- if: 0.038646798984497244
-- trauma: 0.0386293040818876
-- therapy: 0.03821711328550263
-- high: 0.03780270043046797
-- over: 0.03698519832220049
-- metastatic: 0.03648008506396183
-- into: 0.03535816587816419
-- it: 0.034048038091183265
-- may: 0.033472385645109855
-- large: 0.03332725734251788
-- seen: 0.03131466757910795
-- has: 0.030382059717163307
-- by: 0.02824607630884957
-- disease: 0.027920584229102357
-- there: 0.026466064860070027
-- an: 0.025435067353527397
-- ct: 0.025322839823066042
-- was: 0.023181094676819898
-- or: 0.023139342830493303
-- for: 0.02016015005514866
+\-\ Texto\\:\\ \ \(0\)\
+\-\ respiratory\\ distress\ \(78\)\
+\-\ absent\\ breath\\ sounds\\ auscultated\\ over\\ right\\ side\\ of\\ chest\\,\\ with\\ dullness\\ to\\ percussion\\.\ \(0\)\
+\-\ deviation\\ of\\ trachea\\ to\\ the\\ left\ \(0\)\
+\-\ 1\\.\\	chest\\ tube\ \(0\)\
+\-\ 2\\.\\	blood\\ transfusion\ \(0\)\
+\-\ 3\\.\\ \\ \\ \\ surgical\\ ligation\\ of\\ bleeding\\ vessel\\ with\\ open\\ thoracostomy\\.\ \(0\)\
+\-\ artery\\ was\\ apparently\\ severed\\ during\\ spinal\\ surgery\\.\ \(0\)\
+\-\ 1\\.\\	severe\\ mediastinal\\ shift\\ to\\ the\\ left\ \(0\)\
+\-\ 2\\.\\	large\\ right\\ pleural\\ fluid\\ collection\ \(0\)\
+\-\ 3\\.\\	heterogenous\\ attenuation\\ of\\ fluid\ \(0\)\
+\-\ massive\\ tension\\ hemothorax\ \(0\)\
+\-\ 1\\.\\	hemothorax\ \(0\)\
+\-\ 2\\.\\	chylothorax\ \(0\)\
+\-\ 23\\ y\\/o\\ wf\\ recently\\ s\\/p\\ c7\\-t12\\ posterior\\ fusion\\ surgery\\ for\\ transection\\ of\\ spinal\\ cord\\ after\\ a\\ fall\\.\ \(0\)\
+\-\ a\\ hemothorax\\ is\\ defined\\ as\\ a\\ bloody\\ pleural\\ effusion\\ with\\ a\\ hematocrit\\ exceeding\\ half\\ the\\ value\\ in\\ peripheral\\ blood\\.\\ \\ it\\ can\\ be\\ seen\\ after\\ trauma\\,\\ pulmonary\\ embolism\\,\\ as\\ a\\ result\\ of\\ metastatic\\ disease\\,\\ after\\ anticoagulant\\ therapy\\,\\ or\\ as\\ a\\ sequel\\ of\\ a\\ leaking\\ aortic\\ aneurysm\\.\\ \\ hemothorax\\ is\\ a\\ potential\\ surgical\\ complication\\ of\\ posterior\\ spinal\\ surgery\\ and\\ \\ may\\ be\\ caused\\ by\\ iatrogenic\\ rupture\\ of\\ \\ blood\\ vessel\\ with\\ subsequent\\ hemorrhage\\ into\\ the\\ thoracic\\ pleural\\ space\\.\\ \\ \\ ct\\ scanning\\ of\\ a\\ hemothorax\\ shows\\ an\\ effusion\\ with\\ relatively\\ high\\ attenuation\\,\\ exceeding\\ 35\\ hounsfield\\ units\\ \\(hu\\)\\ when\\ the\\ blood\\ is\\ fresh\\,\\ and\\ reaching\\ 70\\ hu\\ with\\ clotted\\ blood\\.\\ \\ spontaneous\\ hemopneumothorax\\ has\\ been\\ reported\\ widely\\,\\ though\\ a\\ rare\\ occurrence\\,\\ and\\ can\\ result\\ in\\ a\\ massive\\ fluid\\ accumulation\\ in\\ the\\ pleural\\ space\\ if\\ there\\ is\\ lung\\ collapse\\ and\\ lack\\ of\\ tamponade\\ of\\ the\\ bleeding\\ vessel\\.\\ \\ \\ therapeutic\\ methods\\ include\\ tube\\ thoracostomy\\,\\ open\\ thoracostomy\\ and\\ vats\\ \\(video\\ assisted\\ thoracoscopic\\ surgery\\)\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ hemothorax\\:\\ 0\\.3702120979011403\ \(0\)\
+\-\ thoracostomy\\:\\ 0\\.2536377190086246\ \(0\)\
+\-\ pleural\\:\\ 0\\.2002877822984104\ \(0\)\
+\-\ blood\\:\\ 0\\.19314652040943797\ \(0\)\
+\-\ exceeding\\:\\ 0\\.1804141951821893\ \(0\)\
+\-\ vessel\\:\\ 0\\.1750270764753143\ \(0\)\
+\-\ of\\:\\ 0\\.15620001444331197\ \(0\)\
+\-\ hu\\:\\ 0\\.14808483916045612\ \(0\)\
+\-\ surgery\\:\\ 0\\.14304485402129868\ \(0\)\
+\-\ spinal\\:\\ 0\\.14168989864463957\ \(0\)\
+\-\ massive\\:\\ 0\\.1367624566506832\ \(0\)\
+\-\ fluid\\:\\ 0\\.11521268168063489\ \(0\)\
+\-\ open\\:\\ 0\\.10997577011193174\ \(0\)\
+\-\ bleeding\\:\\ 0\\.10872985778454168\ \(0\)\
+\-\ sequel\\:\\ 0\\.10637177560196122\ \(0\)\
+\-\ clotted\\:\\ 0\\.10637177560196122\ \(0\)\
+\-\ tube\\:\\ 0\\.10629975266613415\ \(0\)\
+\-\ attenuation\\:\\ 0\\.10178619236893434\ \(0\)\
+\-\ result\\:\\ 0\\.09959080512785638\ \(0\)\
+\-\ effusion\\:\\ 0\\.09878501937667927\ \(0\)\
+\-\ severed\\:\\ 0\\.09828943659652792\ \(0\)\
+\-\ after\\:\\ 0\\.09680237794065728\ \(0\)\
+\-\ hemopneumothorax\\:\\ 0\\.09568750459827498\ \(0\)\
+\-\ chylothorax\\:\\ 0\\.09356157136023353\ \(0\)\
+\-\ leaking\\:\\ 0\\.09356157136023353\ \(0\)\
+\-\ the\\:\\ 0\\.0929049028109362\ \(0\)\
+\-\ thoracoscopic\\:\\ 0\\.0917641204187532\ \(0\)\
+\-\ space\\:\\ 0\\.0885504175994761\ \(0\)\
+\-\ fresh\\:\\ 0\\.08760516559284169\ \(0\)\
+\-\ dullness\\:\\ 0\\.08649381549945306\ \(0\)\
+\-\ vats\\:\\ 0\\.08649381549945306\ \(0\)\
+\-\ anticoagulant\\:\\ 0\\.08454590633620819\ \(0\)\
+\-\ auscultated\\:\\ 0\\.08368178141331992\ \(0\)\
+\-\ transection\\:\\ 0\\.08287730035654728\ \(0\)\
+\-\ tamponade\\:\\ 0\\.08212475858566134\ \(0\)\
+\-\ wf\\:\\ 0\\.08075136711850583\ \(0\)\
+\-\ reaching\\:\\ 0\\.08075136711850583\ \(0\)\
+\-\ as\\:\\ 0\\.0801641654235771\ \(0\)\
+\-\ methods\\:\\ 0\\.07952282658740839\ \(0\)\
+\-\ hounsfield\\:\\ 0\\.07895391617702552\ \(0\)\
+\-\ transfusion\\:\\ 0\\.07841147649401978\ \(0\)\
+\-\ with\\:\\ 0\\.0781466719573607\ \(0\)\
+\-\ ligation\\:\\ 0\\.07692089458915544\ \(0\)\
+\-\ widely\\:\\ 0\\.07692089458915544\ \(0\)\
+\-\ apparently\\:\\ 0\\.0764635673307749\ \(0\)\
+\-\ occurrence\\:\\ 0\\.0764635673307749\ \(0\)\
+\-\ tension\\:\\ 0\\.0751902653228213\ \(0\)\
+\-\ bloody\\:\\ 0\\.07441262052738098\ \(0\)\
+\-\ assisted\\:\\ 0\\.07333551524686442\ \(0\)\
+\-\ is\\:\\ 0\\.0728622086352502\ \(0\)\
+\-\ scanning\\:\\ 0\\.07234954647338591\ \(0\)\
+\-\ iatrogenic\\:\\ 0\\.0714404875819751\ \(0\)\
+\-\ percussion\\:\\ 0\\.07115256306683246\ \(0\)\
+\-\ units\\:\\ 0\\.07032913748858648\ \(0\)\
+\-\ chest\\:\\ 0\\.07021984990691542\ \(0\)\
+\-\ can\\:\\ 0\\.06980980504336269\ \(0\)\
+\-\ video\\:\\ 0\\.06956004447233542\ \(0\)\
+\-\ hematocrit\\:\\ 0\\.06883855558372214\ \(0\)\
+\-\ posterior\\:\\ 0\\.06879083770564885\ \(0\)\
+\-\ and\\:\\ 0\\.06872242945584947\ \(0\)\
+\-\ value\\:\\ 0\\.06772720549033352\ \(0\)\
+\-\ therapeutic\\:\\ 0\\.06731072013150849\ \(0\)\
+\-\ surgical\\:\\ 0\\.06465680410039726\ \(0\)\
+\-\ trachea\\:\\ 0\\.06442585413836963\ \(0\)\
+\-\ accumulation\\:\\ 0\\.06426720746795263\ \(0\)\
+\-\ heterogenous\\:\\ 0\\.06265124424317817\ \(0\)\
+\-\ half\\:\\ 0\\.06265124424317817\ \(0\)\
+\-\ collapse\\:\\ 0\\.06238006108109362\ \(0\)\
+\-\ complication\\:\\ 0\\.06041155058669133\ \(0\)\
+\-\ embolism\\:\\ 0\\.060298889319908316\ \(0\)\
+\-\ potential\\:\\ 0\\.059434764397020036\ \(0\)\
+\-\ shift\\:\\ 0\\.05843754588759712\ \(0\)\
+\-\ recently\\:\\ 0\\.05806137292986453\ \(0\)\
+\-\ spontaneous\\:\\ 0\\.057877741569361485\ \(0\)\
+\-\ though\\:\\ 0\\.05778699908493015\ \(0\)\
+\-\ lack\\:\\ 0\\.05691641949794019\ \(0\)\
+\-\ fusion\\:\\ 0\\.05587390735693629\ \(0\)\
+\-\ fall\\:\\ 0\\.055422482579269974\ \(0\)\
+\-\ 70\\:\\ 0\\.05491700124860584\ \(0\)\
+\-\ 23\\:\\ 0\\.0548465457448107\ \(0\)\
+\-\ relatively\\:\\ 0\\.054164459477719896\ \(0\)\
+\-\ be\\:\\ 0\\.05396485648268277\ \(0\)\
+\-\ rupture\\:\\ 0\\.05377357314213359\ \(0\)\
+\-\ mediastinal\\:\\ 0\\.053709680651302716\ \(0\)\
+\-\ collection\\:\\ 0\\.053709680651302716\ \(0\)\
+\-\ distress\\:\\ 0\\.05358293646426637\ \(0\)\
+\-\ caused\\:\\ 0\\.053333507693570134\ \(0\)\
+\-\ 35\\:\\ 0\\.053333507693570134\ \(0\)\
+\-\ aortic\\:\\ 0\\.05140459706878797\ \(0\)\
+\-\ sounds\\:\\ 0\\.05135242539158674\ \(0\)\
+\-\ aneurysm\\:\\ 0\\.05064552105822311\ \(0\)\
+\-\ subsequent\\:\\ 0\\.05035520688216383\ \(0\)\
+\-\ rare\\:\\ 0\\.05021271610204985\ \(0\)\
+\-\ to\\:\\ 0\\.049885769042831415\ \(0\)\
+\-\ thoracic\\:\\ 0\\.04970466007949686\ \(0\)\
+\-\ in\\:\\ 0\\.04964023139091958\ \(0\)\
+\-\ cord\\:\\ 0\\.04930483746777876\ \(0\)\
+\-\ breath\\:\\ 0\\.04875049339333379\ \(0\)\
+\-\ reported\\:\\ 0\\.04790720913801653\ \(0\)\
+\-\ peripheral\\:\\ 0\\.04756367151282814\ \(0\)\
+\-\ defined\\:\\ 0\\.047451371925053894\ \(0\)\
+\-\ side\\:\\ 0\\.04595036369863986\ \(0\)\
+\-\ left\\:\\ 0\\.045379353432974966\ \(0\)\
+\-\ hemorrhage\\:\\ 0\\.044533382085759424\ \(0\)\
+\-\ right\\:\\ 0\\.04410487054927209\ \(0\)\
+\-\ during\\:\\ 0\\.04213037709661656\ \(0\)\
+\-\ severe\\:\\ 0\\.04210679700687814\ \(0\)\
+\-\ artery\\:\\ 0\\.04131017068290635\ \(0\)\
+\-\ pulmonary\\:\\ 0\\.040543886599997324\ \(0\)\
+\-\ lung\\:\\ 0\\.04046177111695565\ \(0\)\
+\-\ when\\:\\ 0\\.040178837122069766\ \(0\)\
+\-\ include\\:\\ 0\\.03957574881598522\ \(0\)\
+\-\ shows\\:\\ 0\\.03903848116695291\ \(0\)\
+\-\ been\\:\\ 0\\.03875232323773924\ \(0\)\
+\-\ if\\:\\ 0\\.038646798984497244\ \(0\)\
+\-\ trauma\\:\\ 0\\.0386293040818876\ \(0\)\
+\-\ therapy\\:\\ 0\\.03821711328550263\ \(0\)\
+\-\ high\\:\\ 0\\.03780270043046797\ \(0\)\
+\-\ over\\:\\ 0\\.03698519832220049\ \(0\)\
+\-\ metastatic\\:\\ 0\\.03648008506396183\ \(0\)\
+\-\ into\\:\\ 0\\.03535816587816419\ \(0\)\
+\-\ it\\:\\ 0\\.034048038091183265\ \(0\)\
+\-\ may\\:\\ 0\\.033472385645109855\ \(0\)\
+\-\ large\\:\\ 0\\.03332725734251788\ \(0\)\
+\-\ seen\\:\\ 0\\.03131466757910795\ \(0\)\
+\-\ has\\:\\ 0\\.030382059717163307\ \(0\)\
+\-\ by\\:\\ 0\\.02824607630884957\ \(0\)\
+\-\ disease\\:\\ 0\\.027920584229102357\ \(0\)\
+\-\ there\\:\\ 0\\.026466064860070027\ \(0\)\
+\-\ an\\:\\ 0\\.025435067353527397\ \(0\)\
+\-\ ct\\:\\ 0\\.025322839823066042\ \(0\)\
+\-\ was\\:\\ 0\\.023181094676819898\ \(0\)\
+\-\ or\\:\\ 0\\.023139342830493303\ \(0\)\
+\-\ for\\:\\ 0\\.02016015005514866\ \(0\)\

@@ -1,101 +1,98 @@
-Texto: 
-the patient will be followed with plain film to verify resolution of the collapse, thus excluding a neoplastic or other cause.
-perfusion and ventilation images reveal absence of ventilation with normal perfusion to the right lower lobe, best appreciated on the right posterior oblique and right lateral views.  the linear photopenic defect in the region of the right major fissue is consistent with the pleural effusion seen on ct.  
-
-axial ct image with iv contrast confirms a right lower lobe consolidation.  a small amount of dependent atelectasis and small effusions are incidentally noted.
-lobar consolidation; likely atelectasis given the lack of findings consistent with infection and the lack of known cancer.
-various causes of lobar consolidation, including infection, atelectasis, hemorrhage, and edema; with atelectasis most consistent with the clinical picture.
-64 yo woman s/p lysis of adhesions with subsequent shortness of breath and desaturation.  indeterminate ct pe/dvt study.
-
-
-Keywords by value: 
-- atelectasis: 0.3450550223667281
-- consolidation: 0.2686194181525329
-- the: 0.21263354408038315
-- ventilation: 0.2072616942561269
-- lobar: 0.19984856718043667
-- perfusion: 0.19432850398723486
-- of: 0.17062428028388635
-- lack: 0.16579295288428594
-- right: 0.16059242634736606
-- consistent: 0.15758558019465713
-- with: 0.1517566473339542
-- fissue: 0.1362686666618965
-- excluding: 0.13138301049743464
-- desaturation: 0.12938272104832377
-- verify: 0.1275934011632593
-- lysis: 0.12187914986143639
-- and: 0.12010974628451099
-- photopenic: 0.11761111927028921
-- infection: 0.11703772142880117
-- indeterminate: 0.11669290476132387
-- lobe: 0.11196847172283182
-- ct: 0.1106450939829546
-- adhesions: 0.10583951749225465
-- picture: 0.10167664408853351
-- small: 0.09994406500971767
-- lower: 0.0990077393571753
-- various: 0.09688353764362707
-- confirms: 0.09360260355207786
-- dependent: 0.09337464265944208
-- 64: 0.09105038621896624
-- collapse: 0.0908540507200292
-- effusions: 0.09065995910449481
-- neoplastic: 0.0895398060508443
-- thus: 0.08900627008357517
-- appreciated: 0.08733995106785725
-- major: 0.08469937716080486
-- oblique: 0.08390316112097085
-- incidentally: 0.0825338399270795
-- reveal: 0.0814901977319654
-- resolution: 0.07860131672141125
-- linear: 0.07804139243986793
-- best: 0.07794984056581405
-- shortness: 0.07767810946464912
-- amount: 0.07749934116650231
-- absence: 0.0772346683055406
-- views: 0.07646453391956909
-- subsequent: 0.07334033408755793
-- causes: 0.07320169795842159
-- pleural: 0.07292777538277029
-- film: 0.07239283882735897
-- effusion: 0.07193820433391711
-- defect: 0.07106389495224134
-- breath: 0.07100313341512275
-- including: 0.06932944694531201
-- iv: 0.06921987991037226
-- given: 0.06664101487412986
-- cause: 0.06599660249477517
-- followed: 0.06541935265135382
-- hemorrhage: 0.0648610803617875
-- study: 0.06460947825611463
-- cancer: 0.06452643245978437
-- plain: 0.06391620520133663
-- known: 0.06272055203561289
-- will: 0.062352146450296624
-- image: 0.06195592244094705
-- clinical: 0.06139561326192375
-- yo: 0.0605227855764566
-- on: 0.05851658081508475
-- region: 0.05794699417589626
-- likely: 0.057890852533005285
-- edema: 0.057779122975348006
-- axial: 0.055959205891507775
-- noted: 0.051363645993217334
-- woman: 0.050453467841438976
-- most: 0.0504173341437471
-- other: 0.050309392054670665
-- posterior: 0.050095544551146405
-- to: 0.04843774450015452
-- lateral: 0.0480775554323683
-- findings: 0.04781231518960659
-- contrast: 0.04707019199686047
-- seen: 0.04560855419513882
-- images: 0.04481171539681841
-- normal: 0.03955392336526309
-- be: 0.03929882179502028
-- are: 0.03676013103636964
-- or: 0.03370152242103136
-- patient: 0.03150898088465055
-- is: 0.026530219288799048
-- in: 0.02409966701102139
+\-\ Texto\\:\\ \ \(0\)\
+\-\ the\\ patient\\ will\\ be\\ followed\\ with\\ plain\\ film\\ to\\ verify\\ resolution\\ of\\ the\\ collapse\\,\\ thus\\ excluding\\ a\\ neoplastic\\ or\\ other\\ cause\\.\ \(0\)\
+\-\ perfusion\\ and\\ ventilation\\ images\\ reveal\\ absence\\ of\\ ventilation\\ with\\ normal\\ perfusion\\ to\\ the\\ right\\ lower\\ lobe\\,\\ best\\ appreciated\\ on\\ the\\ right\\ posterior\\ oblique\\ and\\ right\\ lateral\\ views\\.\\ \\ the\\ linear\\ photopenic\\ defect\\ in\\ the\\ region\\ of\\ the\\ right\\ major\\ fissue\\ is\\ consistent\\ with\\ the\\ pleural\\ effusion\\ seen\\ on\\ ct\\.\\ \\ \ \(0\)\
+\-\ axial\\ ct\\ image\\ with\\ iv\\ contrast\\ confirms\\ a\\ right\\ lower\\ lobe\\ consolidation\\.\\ \\ a\\ small\\ amount\\ of\\ dependent\\ atelectasis\\ and\\ small\\ effusions\\ are\\ incidentally\\ noted\\.\ \(0\)\
+\-\ lobar\\ consolidation\\;\\ likely\\ atelectasis\\ given\\ the\\ lack\\ of\\ findings\\ consistent\\ with\\ infection\\ and\\ the\\ lack\\ of\\ known\\ cancer\\.\ \(0\)\
+\-\ various\\ causes\\ of\\ lobar\\ consolidation\\,\\ including\\ infection\\,\\ atelectasis\\,\\ hemorrhage\\,\\ and\\ edema\\;\\ with\\ atelectasis\\ most\\ consistent\\ with\\ the\\ clinical\\ picture\\.\ \(0\)\
+\-\ 64\\ yo\\ woman\\ s\\/p\\ lysis\\ of\\ adhesions\\ with\\ subsequent\\ shortness\\ of\\ breath\\ and\\ desaturation\\.\\ \\ indeterminate\\ ct\\ pe\\/dvt\\ study\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ atelectasis\\:\\ 0\\.3450550223667281\ \(0\)\
+\-\ consolidation\\:\\ 0\\.2686194181525329\ \(0\)\
+\-\ the\\:\\ 0\\.21263354408038315\ \(0\)\
+\-\ ventilation\\:\\ 0\\.2072616942561269\ \(0\)\
+\-\ lobar\\:\\ 0\\.19984856718043667\ \(0\)\
+\-\ perfusion\\:\\ 0\\.19432850398723486\ \(0\)\
+\-\ of\\:\\ 0\\.17062428028388635\ \(0\)\
+\-\ lack\\:\\ 0\\.16579295288428594\ \(0\)\
+\-\ right\\:\\ 0\\.16059242634736606\ \(0\)\
+\-\ consistent\\:\\ 0\\.15758558019465713\ \(0\)\
+\-\ with\\:\\ 0\\.1517566473339542\ \(0\)\
+\-\ fissue\\:\\ 0\\.1362686666618965\ \(0\)\
+\-\ excluding\\:\\ 0\\.13138301049743464\ \(0\)\
+\-\ desaturation\\:\\ 0\\.12938272104832377\ \(0\)\
+\-\ verify\\:\\ 0\\.1275934011632593\ \(0\)\
+\-\ lysis\\:\\ 0\\.12187914986143639\ \(0\)\
+\-\ and\\:\\ 0\\.12010974628451099\ \(0\)\
+\-\ photopenic\\:\\ 0\\.11761111927028921\ \(0\)\
+\-\ infection\\:\\ 0\\.11703772142880117\ \(0\)\
+\-\ indeterminate\\:\\ 0\\.11669290476132387\ \(0\)\
+\-\ lobe\\:\\ 0\\.11196847172283182\ \(0\)\
+\-\ ct\\:\\ 0\\.1106450939829546\ \(0\)\
+\-\ adhesions\\:\\ 0\\.10583951749225465\ \(0\)\
+\-\ picture\\:\\ 0\\.10167664408853351\ \(0\)\
+\-\ small\\:\\ 0\\.09994406500971767\ \(0\)\
+\-\ lower\\:\\ 0\\.0990077393571753\ \(0\)\
+\-\ various\\:\\ 0\\.09688353764362707\ \(0\)\
+\-\ confirms\\:\\ 0\\.09360260355207786\ \(0\)\
+\-\ dependent\\:\\ 0\\.09337464265944208\ \(0\)\
+\-\ 64\\:\\ 0\\.09105038621896624\ \(0\)\
+\-\ collapse\\:\\ 0\\.0908540507200292\ \(0\)\
+\-\ effusions\\:\\ 0\\.09065995910449481\ \(0\)\
+\-\ neoplastic\\:\\ 0\\.0895398060508443\ \(0\)\
+\-\ thus\\:\\ 0\\.08900627008357517\ \(0\)\
+\-\ appreciated\\:\\ 0\\.08733995106785725\ \(0\)\
+\-\ major\\:\\ 0\\.08469937716080486\ \(0\)\
+\-\ oblique\\:\\ 0\\.08390316112097085\ \(0\)\
+\-\ incidentally\\:\\ 0\\.0825338399270795\ \(0\)\
+\-\ reveal\\:\\ 0\\.0814901977319654\ \(0\)\
+\-\ resolution\\:\\ 0\\.07860131672141125\ \(0\)\
+\-\ linear\\:\\ 0\\.07804139243986793\ \(0\)\
+\-\ best\\:\\ 0\\.07794984056581405\ \(0\)\
+\-\ shortness\\:\\ 0\\.07767810946464912\ \(0\)\
+\-\ amount\\:\\ 0\\.07749934116650231\ \(0\)\
+\-\ absence\\:\\ 0\\.0772346683055406\ \(0\)\
+\-\ views\\:\\ 0\\.07646453391956909\ \(0\)\
+\-\ subsequent\\:\\ 0\\.07334033408755793\ \(0\)\
+\-\ causes\\:\\ 0\\.07320169795842159\ \(0\)\
+\-\ pleural\\:\\ 0\\.07292777538277029\ \(0\)\
+\-\ film\\:\\ 0\\.07239283882735897\ \(0\)\
+\-\ effusion\\:\\ 0\\.07193820433391711\ \(0\)\
+\-\ defect\\:\\ 0\\.07106389495224134\ \(0\)\
+\-\ breath\\:\\ 0\\.07100313341512275\ \(0\)\
+\-\ including\\:\\ 0\\.06932944694531201\ \(0\)\
+\-\ iv\\:\\ 0\\.06921987991037226\ \(0\)\
+\-\ given\\:\\ 0\\.06664101487412986\ \(0\)\
+\-\ cause\\:\\ 0\\.06599660249477517\ \(0\)\
+\-\ followed\\:\\ 0\\.06541935265135382\ \(0\)\
+\-\ hemorrhage\\:\\ 0\\.0648610803617875\ \(0\)\
+\-\ study\\:\\ 0\\.06460947825611463\ \(0\)\
+\-\ cancer\\:\\ 0\\.06452643245978437\ \(0\)\
+\-\ plain\\:\\ 0\\.06391620520133663\ \(0\)\
+\-\ known\\:\\ 0\\.06272055203561289\ \(0\)\
+\-\ will\\:\\ 0\\.062352146450296624\ \(0\)\
+\-\ image\\:\\ 0\\.06195592244094705\ \(0\)\
+\-\ clinical\\:\\ 0\\.06139561326192375\ \(0\)\
+\-\ yo\\:\\ 0\\.0605227855764566\ \(0\)\
+\-\ on\\:\\ 0\\.05851658081508475\ \(0\)\
+\-\ region\\:\\ 0\\.05794699417589626\ \(0\)\
+\-\ likely\\:\\ 0\\.057890852533005285\ \(0\)\
+\-\ edema\\:\\ 0\\.057779122975348006\ \(0\)\
+\-\ axial\\:\\ 0\\.055959205891507775\ \(0\)\
+\-\ noted\\:\\ 0\\.051363645993217334\ \(0\)\
+\-\ woman\\:\\ 0\\.050453467841438976\ \(0\)\
+\-\ most\\:\\ 0\\.0504173341437471\ \(0\)\
+\-\ other\\:\\ 0\\.050309392054670665\ \(0\)\
+\-\ posterior\\:\\ 0\\.050095544551146405\ \(0\)\
+\-\ to\\:\\ 0\\.04843774450015452\ \(0\)\
+\-\ lateral\\:\\ 0\\.0480775554323683\ \(0\)\
+\-\ findings\\:\\ 0\\.04781231518960659\ \(0\)\
+\-\ contrast\\:\\ 0\\.04707019199686047\ \(0\)\
+\-\ seen\\:\\ 0\\.04560855419513882\ \(0\)\
+\-\ images\\:\\ 0\\.04481171539681841\ \(0\)\
+\-\ normal\\:\\ 0\\.03955392336526309\ \(0\)\
+\-\ be\\:\\ 0\\.03929882179502028\ \(0\)\
+\-\ are\\:\\ 0\\.03676013103636964\ \(0\)\
+\-\ or\\:\\ 0\\.03370152242103136\ \(0\)\
+\-\ patient\\:\\ 0\\.03150898088465055\ \(0\)\
+\-\ is\\:\\ 0\\.026530219288799048\ \(0\)\
+\-\ in\\:\\ 0\\.02409966701102139\ \(0\)\

@@ -1,74 +1,72 @@
-Texto: 
-palpable right abdominal mass
-chemotherapy as mass was nonresectable
-- large abdominal mass arising from the superior pole of the r kidney
-- heterogenous in appearance with enhancement on ct and mr, no calcification
-- mass affect on adjacent structures
-- tumor thrombus in r renal vein and ivc
-- no definite invasion of adjacent solid organs
-- normal l kidney
-- multiple lung nodules, likely mets
-wilms tumor
-wilms tumor
-clear cell sarcoma of kidney
-rhabdoid tumor of kidney
-renal cell carcinoma
-neuroblastoma
-pt was a 3 y/o female with palpable right abdominal mass
-
-
-Keywords by value: 
-- kidney: 0.37670987602713435
-- wilms: 0.2942370037151998
-- tumor: 0.2804709736219962
-- mass: 0.25602423797587376
-- abdominal: 0.2199521988950301
-- nonresectable: 0.20485218923262888
-- palpable: 0.18835493801356717
-- adjacent: 0.17378696663172313
-- renal: 0.16695776967142414
-- rhabdoid: 0.15802975862475704
-- cell: 0.153369523951752
-- affect: 0.13873658307916453
-- organs: 0.13827121813997578
-- mets: 0.13781488998670108
-- definite: 0.13185879989074475
-- ivc: 0.1301674110272734
-- heterogenous: 0.12626673349334583
-- thrombus: 0.12466382860345308
-- neuroblastoma: 0.12316330870103295
-- invasion: 0.11957537830186406
-- pole: 0.1168305766490797
-- sarcoma: 0.11245365195234683
-- arising: 0.1065136146631001
-- nodules: 0.1065136146631001
-- of: 0.10493468423823032
-- solid: 0.10277206038130457
-- structures: 0.10072727897144987
-- clear: 0.09718478187400117
-- pt: 0.09647379839211052
-- vein: 0.09608790858050106
-- calcification: 0.09570825312649665
-- chemotherapy: 0.09518683354167082
-- was: 0.09343792414659809
-- right: 0.08888854487530531
-- no: 0.08718532726721685
-- superior: 0.08715373139617007
-- mr: 0.08673870672028092
-- lung: 0.08154627624733393
-- on: 0.08097289887880822
-- appearance: 0.08081564243067975
-- carcinoma: 0.08018472771953501
-- likely: 0.08010704116455555
-- enhancement: 0.07715884471159605
-- large: 0.06716744370787278
-- in: 0.06669630633624911
-- multiple: 0.06556847054222331
-- female: 0.06468698303951557
-- and: 0.05540101742551966
-- normal: 0.054733133623042135
-- as: 0.05385403718382628
-- the: 0.05349704996814737
-- from: 0.05324035567581476
-- with: 0.05249869134352906
-- ct: 0.05103541527161162
+\-\ Texto\\:\\ \ \(0\)\
+\-\ palpable\\ right\\ abdominal\\ mass\ \(1\)\
+\-\ chemotherapy\\ as\\ mass\\ was\\ nonresectable\ \(0\)\
+\-\ large\\ abdominal\\ mass\\ arising\\ from\\ the\\ superior\\ pole\\ of\\ the\\ r\\ kidney\ \(0\)\
+\-\ heterogenous\\ in\\ appearance\\ with\\ enhancement\\ on\\ ct\\ and\\ mr\\,\\ no\\ calcification\ \(0\)\
+\-\ mass\\ affect\\ on\\ adjacent\\ structures\ \(0\)\
+\-\ tumor\\ thrombus\\ in\\ r\\ renal\\ vein\\ and\\ ivc\ \(0\)\
+\-\ no\\ definite\\ invasion\\ of\\ adjacent\\ solid\\ organs\ \(0\)\
+\-\ normal\\ l\\ kidney\ \(0\)\
+\-\ multiple\\ lung\\ nodules\\,\\ likely\\ mets\ \(0\)\
+\-\ wilms\\ tumor\ \(0\)\
+\-\ wilms\\ tumor\ \(0\)\
+\-\ clear\\ cell\\ sarcoma\\ of\\ kidney\ \(0\)\
+\-\ rhabdoid\\ tumor\\ of\\ kidney\ \(0\)\
+\-\ renal\\ cell\\ carcinoma\ \(60\)\
+\-\ neuroblastoma\ \(81\)\
+\-\ pt\\ was\\ a\\ 3\\ y\\/o\\ female\\ with\\ palpable\\ right\\ abdominal\\ mass\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ kidney\\:\\ 0\\.37670987602713435\ \(0\)\
+\-\ wilms\\:\\ 0\\.2942370037151998\ \(0\)\
+\-\ tumor\\:\\ 0\\.2804709736219962\ \(0\)\
+\-\ mass\\:\\ 0\\.25602423797587376\ \(0\)\
+\-\ abdominal\\:\\ 0\\.2199521988950301\ \(0\)\
+\-\ nonresectable\\:\\ 0\\.20485218923262888\ \(0\)\
+\-\ palpable\\:\\ 0\\.18835493801356717\ \(0\)\
+\-\ adjacent\\:\\ 0\\.17378696663172313\ \(0\)\
+\-\ renal\\:\\ 0\\.16695776967142414\ \(0\)\
+\-\ rhabdoid\\:\\ 0\\.15802975862475704\ \(0\)\
+\-\ cell\\:\\ 0\\.153369523951752\ \(0\)\
+\-\ affect\\:\\ 0\\.13873658307916453\ \(0\)\
+\-\ organs\\:\\ 0\\.13827121813997578\ \(0\)\
+\-\ mets\\:\\ 0\\.13781488998670108\ \(0\)\
+\-\ definite\\:\\ 0\\.13185879989074475\ \(0\)\
+\-\ ivc\\:\\ 0\\.1301674110272734\ \(0\)\
+\-\ heterogenous\\:\\ 0\\.12626673349334583\ \(0\)\
+\-\ thrombus\\:\\ 0\\.12466382860345308\ \(0\)\
+\-\ neuroblastoma\\:\\ 0\\.12316330870103295\ \(0\)\
+\-\ invasion\\:\\ 0\\.11957537830186406\ \(0\)\
+\-\ pole\\:\\ 0\\.1168305766490797\ \(0\)\
+\-\ sarcoma\\:\\ 0\\.11245365195234683\ \(0\)\
+\-\ arising\\:\\ 0\\.1065136146631001\ \(0\)\
+\-\ nodules\\:\\ 0\\.1065136146631001\ \(0\)\
+\-\ of\\:\\ 0\\.10493468423823032\ \(0\)\
+\-\ solid\\:\\ 0\\.10277206038130457\ \(0\)\
+\-\ structures\\:\\ 0\\.10072727897144987\ \(0\)\
+\-\ clear\\:\\ 0\\.09718478187400117\ \(0\)\
+\-\ pt\\:\\ 0\\.09647379839211052\ \(0\)\
+\-\ vein\\:\\ 0\\.09608790858050106\ \(0\)\
+\-\ calcification\\:\\ 0\\.09570825312649665\ \(0\)\
+\-\ chemotherapy\\:\\ 0\\.09518683354167082\ \(0\)\
+\-\ was\\:\\ 0\\.09343792414659809\ \(0\)\
+\-\ right\\:\\ 0\\.08888854487530531\ \(0\)\
+\-\ no\\:\\ 0\\.08718532726721685\ \(0\)\
+\-\ superior\\:\\ 0\\.08715373139617007\ \(0\)\
+\-\ mr\\:\\ 0\\.08673870672028092\ \(0\)\
+\-\ lung\\:\\ 0\\.08154627624733393\ \(0\)\
+\-\ on\\:\\ 0\\.08097289887880822\ \(0\)\
+\-\ appearance\\:\\ 0\\.08081564243067975\ \(0\)\
+\-\ carcinoma\\:\\ 0\\.08018472771953501\ \(0\)\
+\-\ likely\\:\\ 0\\.08010704116455555\ \(0\)\
+\-\ enhancement\\:\\ 0\\.07715884471159605\ \(0\)\
+\-\ large\\:\\ 0\\.06716744370787278\ \(0\)\
+\-\ in\\:\\ 0\\.06669630633624911\ \(0\)\
+\-\ multiple\\:\\ 0\\.06556847054222331\ \(0\)\
+\-\ female\\:\\ 0\\.06468698303951557\ \(0\)\
+\-\ and\\:\\ 0\\.05540101742551966\ \(0\)\
+\-\ normal\\:\\ 0\\.054733133623042135\ \(0\)\
+\-\ as\\:\\ 0\\.05385403718382628\ \(0\)\
+\-\ the\\:\\ 0\\.05349704996814737\ \(0\)\
+\-\ from\\:\\ 0\\.05324035567581476\ \(0\)\
+\-\ with\\:\\ 0\\.05249869134352906\ \(0\)\
+\-\ ct\\:\\ 0\\.05103541527161162\ \(0\)\

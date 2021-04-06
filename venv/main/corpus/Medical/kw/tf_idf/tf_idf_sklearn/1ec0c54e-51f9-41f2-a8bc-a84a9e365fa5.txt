@@ -1,61 +1,59 @@
-Texto: 
-unremarkable physical exam.
-endometrial biopsy was performed.
-endovaginal ultrasound demonstrates markedly thickened endometrial stripe with complex cystic change of the endometrium.
-endometrial hyperplasia/tamoxifen effect
-(pathology pending)
-endometrial hyperplasia/tamoxifen effect
-endometrial hyperplasia (unrelated to tamoxifen)
-cystic endometrial carcinoma
-cystic endometrial polyp
-54 year old female with irregular vaginal bleeding.  five years s/p mastectomy for breast cancer with adjuvant tamoxifen therapy since that time.
-
-
-Keywords by value: 
-- endometrial: 0.6651806141368436
-- tamoxifen: 0.4901153156070299
-- hyperplasia: 0.2544429322809537
-- cystic: 0.16808810283436448
-- effect: 0.13051995793385723
-- endovaginal: 0.12097444081834642
-- endometrium: 0.11704139370777886
-- adjuvant: 0.10825104477066418
-- stripe: 0.10694564978319135
-- unrelated: 0.10633015292649671
-- mastectomy: 0.09874066887285765
-- polyp: 0.0947265508530393
-- vaginal: 0.08966831756089282
-- 54: 0.08762706553210213
-- five: 0.08402629608159926
-- markedly: 0.0821396303381235
-- thickened: 0.07847305556231807
-- pending: 0.07651571961137843
-- bleeding: 0.07603742342610863
-- pathology: 0.07303259706234846
-- irregular: 0.07182399007998837
-- complex: 0.07167902262774138
-- change: 0.07049620836148637
-- breast: 0.06755636676815374
-- since: 0.06738909626598792
-- biopsy: 0.06521136870443081
-- unremarkable: 0.0623678862156075
-- cancer: 0.061965181039333996
-- ultrasound: 0.057383207835890626
-- years: 0.057026718647750975
-- carcinoma: 0.05564690078027356
-- time: 0.05514178153123044
-- performed: 0.05503740529659749
-- with: 0.0546498607285757
-- therapy: 0.05345230618753677
-- physical: 0.05044350887798975
-- exam: 0.04683181949666211
-- demonstrates: 0.04673773040303232
-- female: 0.04489171728019975
-- that: 0.040371937231648884
-- was: 0.03242220209493668
-- year: 0.028670302719477958
-- for: 0.028196962588047544
-- old: 0.027533415082276583
-- to: 0.0232575511513031
-- the: 0.01856304259102432
-- of: 0.01820574231616285
+\-\ Texto\\:\\ \ \(0\)\
+\-\ unremarkable\\ physical\\ exam\\.\ \(7\)\
+\-\ endometrial\\ biopsy\\ was\\ performed\\.\ \(0\)\
+\-\ endovaginal\\ ultrasound\\ demonstrates\\ markedly\\ thickened\\ endometrial\\ stripe\\ with\\ complex\\ cystic\\ change\\ of\\ the\\ endometrium\\.\ \(0\)\
+\-\ endometrial\\ hyperplasia\\/tamoxifen\\ effect\ \(0\)\
+\-\ \\(pathology\\ pending\\)\ \(1\)\
+\-\ endometrial\\ hyperplasia\\/tamoxifen\\ effect\ \(0\)\
+\-\ endometrial\\ hyperplasia\\ \\(unrelated\\ to\\ tamoxifen\\)\ \(0\)\
+\-\ cystic\\ endometrial\\ carcinoma\ \(0\)\
+\-\ cystic\\ endometrial\\ polyp\ \(0\)\
+\-\ 54\\ year\\ old\\ female\\ with\\ irregular\\ vaginal\\ bleeding\\.\\ \\ five\\ years\\ s\\/p\\ mastectomy\\ for\\ breast\\ cancer\\ with\\ adjuvant\\ tamoxifen\\ therapy\\ since\\ that\\ time\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ endometrial\\:\\ 0\\.6651806141368436\ \(0\)\
+\-\ tamoxifen\\:\\ 0\\.4901153156070299\ \(0\)\
+\-\ hyperplasia\\:\\ 0\\.2544429322809537\ \(0\)\
+\-\ cystic\\:\\ 0\\.16808810283436448\ \(0\)\
+\-\ effect\\:\\ 0\\.13051995793385723\ \(0\)\
+\-\ endovaginal\\:\\ 0\\.12097444081834642\ \(0\)\
+\-\ endometrium\\:\\ 0\\.11704139370777886\ \(0\)\
+\-\ adjuvant\\:\\ 0\\.10825104477066418\ \(0\)\
+\-\ stripe\\:\\ 0\\.10694564978319135\ \(0\)\
+\-\ unrelated\\:\\ 0\\.10633015292649671\ \(0\)\
+\-\ mastectomy\\:\\ 0\\.09874066887285765\ \(0\)\
+\-\ polyp\\:\\ 0\\.0947265508530393\ \(0\)\
+\-\ vaginal\\:\\ 0\\.08966831756089282\ \(0\)\
+\-\ 54\\:\\ 0\\.08762706553210213\ \(0\)\
+\-\ five\\:\\ 0\\.08402629608159926\ \(0\)\
+\-\ markedly\\:\\ 0\\.0821396303381235\ \(0\)\
+\-\ thickened\\:\\ 0\\.07847305556231807\ \(0\)\
+\-\ pending\\:\\ 0\\.07651571961137843\ \(0\)\
+\-\ bleeding\\:\\ 0\\.07603742342610863\ \(0\)\
+\-\ pathology\\:\\ 0\\.07303259706234846\ \(0\)\
+\-\ irregular\\:\\ 0\\.07182399007998837\ \(0\)\
+\-\ complex\\:\\ 0\\.07167902262774138\ \(0\)\
+\-\ change\\:\\ 0\\.07049620836148637\ \(0\)\
+\-\ breast\\:\\ 0\\.06755636676815374\ \(0\)\
+\-\ since\\:\\ 0\\.06738909626598792\ \(0\)\
+\-\ biopsy\\:\\ 0\\.06521136870443081\ \(0\)\
+\-\ unremarkable\\:\\ 0\\.0623678862156075\ \(0\)\
+\-\ cancer\\:\\ 0\\.061965181039333996\ \(0\)\
+\-\ ultrasound\\:\\ 0\\.057383207835890626\ \(0\)\
+\-\ years\\:\\ 0\\.057026718647750975\ \(0\)\
+\-\ carcinoma\\:\\ 0\\.05564690078027356\ \(0\)\
+\-\ time\\:\\ 0\\.05514178153123044\ \(0\)\
+\-\ performed\\:\\ 0\\.05503740529659749\ \(0\)\
+\-\ with\\:\\ 0\\.0546498607285757\ \(0\)\
+\-\ therapy\\:\\ 0\\.05345230618753677\ \(0\)\
+\-\ physical\\:\\ 0\\.05044350887798975\ \(0\)\
+\-\ exam\\:\\ 0\\.04683181949666211\ \(0\)\
+\-\ demonstrates\\:\\ 0\\.04673773040303232\ \(0\)\
+\-\ female\\:\\ 0\\.04489171728019975\ \(0\)\
+\-\ that\\:\\ 0\\.040371937231648884\ \(0\)\
+\-\ was\\:\\ 0\\.03242220209493668\ \(0\)\
+\-\ year\\:\\ 0\\.028670302719477958\ \(0\)\
+\-\ for\\:\\ 0\\.028196962588047544\ \(0\)\
+\-\ old\\:\\ 0\\.027533415082276583\ \(0\)\
+\-\ to\\:\\ 0\\.0232575511513031\ \(0\)\
+\-\ the\\:\\ 0\\.01856304259102432\ \(0\)\
+\-\ of\\:\\ 0\\.01820574231616285\ \(0\)\

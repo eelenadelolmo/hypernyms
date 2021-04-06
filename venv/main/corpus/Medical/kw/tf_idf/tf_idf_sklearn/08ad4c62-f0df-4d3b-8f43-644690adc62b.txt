@@ -1,133 +1,122 @@
-Texto: 
-no specific findings noted. possibly enlarged and irregular uterus on bimanual exam.
-depending on the patient's symptoms, surgical options may be discussed.
-numerous areas of discrete low signal intensity in the muscle of the uterus and below the serosa. uterus is irregularly enlarged.
-uterine leiomyoma
--adenomyosis
--leiomyosarcoma
--endometrial polyps
--endometrial cancer
-patient referred by ob-gyn for pelvic mri. no symptoms noted.
-lesions/condition: uterine leiomyoma 
-
-cell of origin: smooth muscle cells of uterus 
-
-synonyms: fibroids 
-
-associations/predisposing factors: increase estrogen states, pregnancy, african american, obesity, perimenopausal 
-
-common locations: uterus; submucosal, intramural, subserosal 
-
-demographics: about 25% of american women and about 40% of african american women by age 40. 
-
-gross morphology: smooth muscle tissue 
-
-histology: smooth muscle tissue with a pseudocapsule 
-
-radiology: ultrasound shows areas of hyperechogenicity and an enlarged uterus. mri shows discrete areas of low signal intensity and an irregularly enlarged uterus. 
-
-treatment: usually expectant management. if symptomatic, treated with medications to decrease estrogen (provera, danazol, gnrh agonists), uterine artery embolization, myomectomy, endometrial ablation, or hysterectomy.
-
-
-Keywords by value: 
-- uterus: 0.4254093424792787
-- endometrial: 0.21231429206642766
-- muscle: 0.1967898186537297
-- uterine: 0.1941078213681566
-- enlarged: 0.18893202900459707
-- american: 0.17734171220025674
-- estrogen: 0.17265954450902538
-- smooth: 0.1716141400708063
-- irregularly: 0.15664502712201933
-- leiomyoma: 0.1439031812202105
-- discrete: 0.14341241329786786
-- areas: 0.14112062423001565
-- african: 0.12515887396462896
-- women: 0.12470480119416559
-- provera: 0.11080297165229734
-- danazol: 0.11080297165229734
-- myomectomy: 0.11080297165229734
-- of: 0.10847129121428101
-- perimenopausal: 0.1058781547561944
-- gnrh: 0.1058781547561944
-- about: 0.10373952202042479
-- hyperechogenicity: 0.10238394156057092
-- 40: 0.10191218068581742
-- serosa: 0.09967361924234207
-- intensity: 0.09839490932686484
-- synonyms: 0.09558679617706452
-- pseudocapsule: 0.09558679617706452
-- expectant: 0.09558679617706452
-- agonists: 0.09558679617706452
-- subserosal: 0.0939649114688445
-- demographics: 0.08632977225451269
-- bimanual: 0.08554588137711808
-- shows: 0.08132946352755767
-- hysterectomy: 0.08062106448101512
-- low: 0.0795130582152504
-- signal: 0.07855222505197812
-- fibroids: 0.07832251356100967
-- intramural: 0.07712685128539165
-- obesity: 0.07675309585861714
-- submucosal: 0.07675309585861714
-- symptoms: 0.07581845727695746
-- ablation: 0.07569624758491218
-- polyps: 0.07472404141654489
-- morphology: 0.07382391909750871
-- histology: 0.07353811548851232
-- noted: 0.07347038905862148
-- tissue: 0.07269146838528437
-- locations: 0.07245775105458162
-- and: 0.07158524298181498
-- mri: 0.07113029584994139
-- discussed: 0.06870782119366523
-- depending: 0.06599749887543636
-- possibly: 0.06511908539678589
-- options: 0.06246538832313227
-- gross: 0.061484453377556814
-- states: 0.06087191554122996
-- embolization: 0.06038405506450125
-- origin: 0.059642078278853934
-- decrease: 0.059552438809544306
-- by: 0.05884548179865828
-- factors: 0.05860774362227588
-- numerous: 0.0585253969138953
-- medications: 0.05812183510906482
-- below: 0.057058373117275164
-- pregnancy: 0.05670005530505946
-- increase: 0.05561969087112878
-- radiology: 0.055491159587461494
-- the: 0.05530005763419181
-- pelvic: 0.05416040689058806
-- irregular: 0.053491645718432394
-- cells: 0.05338367973676439
-- symptomatic: 0.0532766650095874
-- an: 0.05298926394710305
-- specific: 0.052502766804876894
-- referred: 0.05126811722942231
-- management: 0.05117814575904765
-- 25: 0.04908376185550526
-- cancer: 0.04614919760574677
-- patient: 0.04507034186672886
-- no: 0.045061864398164425
-- usually: 0.043617936411976296
-- age: 0.043498269503486064
-- treated: 0.04314618418587172
-- artery: 0.04303105448063277
-- ultrasound: 0.042736726549530236
-- on: 0.04185096166491242
-- if: 0.04025673302996297
-- cell: 0.03963463181105461
-- common: 0.03929294703036441
-- exam: 0.03487847297365619
-- may: 0.0348667658951957
-- findings: 0.03419528862142793
-- surgical: 0.03367512665517812
-- treatment: 0.033004471355461126
-- be: 0.02810645224841366
-- with: 0.027134025696233566
-- or: 0.024103273008189468
-- for: 0.020999974123074732
-- is: 0.018974368887442333
-- to: 0.017321297314147024
-- in: 0.01723604192464043
+\-\ Texto\\:\\ \ \(0\)\
+\-\ no\\ specific\\ findings\\ noted\\.\\ possibly\\ enlarged\\ and\\ irregular\\ uterus\\ on\\ bimanual\\ exam\\.\ \(0\)\
+\-\ depending\\ on\\ the\\ patient\\'s\\ symptoms\\,\\ surgical\\ options\\ may\\ be\\ discussed\\.\ \(0\)\
+\-\ numerous\\ areas\\ of\\ discrete\\ low\\ signal\\ intensity\\ in\\ the\\ muscle\\ of\\ the\\ uterus\\ and\\ below\\ the\\ serosa\\.\\ uterus\\ is\\ irregularly\\ enlarged\\.\ \(0\)\
+\-\ uterine\\ leiomyoma\ \(5\)\
+\-\ adenomyosis\ \(10\)\
+\-\ leiomyosarcoma\ \(24\)\
+\-\ endometrial\\ polyps\ \(2\)\
+\-\ endometrial\\ cancer\ \(5\)\
+\-\ patient\\ referred\\ by\\ ob\\-gyn\\ for\\ pelvic\\ mri\\.\\ no\\ symptoms\\ noted\\.\ \(0\)\
+\-\ lesions\\/condition\\:\\ uterine\\ leiomyoma\\ \ \(0\)\
+\-\ cell\\ of\\ origin\\:\\ smooth\\ muscle\\ cells\\ of\\ uterus\\ \ \(0\)\
+\-\ synonyms\\:\\ fibroids\\ \ \(0\)\
+\-\ associations\\/predisposing\\ factors\\:\\ increase\\ estrogen\\ states\\,\\ pregnancy\\,\\ african\\ american\\,\\ obesity\\,\\ perimenopausal\\ \ \(0\)\
+\-\ common\\ locations\\:\\ uterus\\;\\ submucosal\\,\\ intramural\\,\\ subserosal\\ \ \(0\)\
+\-\ demographics\\:\\ about\\ 25\\%\\ of\\ american\\ women\\ and\\ about\\ 40\\%\\ of\\ african\\ american\\ women\\ by\\ age\\ 40\\.\\ \ \(0\)\
+\-\ gross\\ morphology\\:\\ smooth\\ muscle\\ tissue\\ \ \(0\)\
+\-\ histology\\:\\ smooth\\ muscle\\ tissue\\ with\\ a\\ pseudocapsule\\ \ \(0\)\
+\-\ radiology\\:\\ ultrasound\\ shows\\ areas\\ of\\ hyperechogenicity\\ and\\ an\\ enlarged\\ uterus\\.\\ mri\\ shows\\ discrete\\ areas\\ of\\ low\\ signal\\ intensity\\ and\\ an\\ irregularly\\ enlarged\\ uterus\\.\\ \ \(0\)\
+\-\ treatment\\:\\ usually\\ expectant\\ management\\.\\ if\\ symptomatic\\,\\ treated\\ with\\ medications\\ to\\ decrease\\ estrogen\\ \\(provera\\,\\ danazol\\,\\ gnrh\\ agonists\\)\\,\\ uterine\\ artery\\ embolization\\,\\ myomectomy\\,\\ endometrial\\ ablation\\,\\ or\\ hysterectomy\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ uterus\\:\\ 0\\.4254093424792787\ \(0\)\
+\-\ endometrial\\:\\ 0\\.21231429206642766\ \(0\)\
+\-\ muscle\\:\\ 0\\.1967898186537297\ \(0\)\
+\-\ uterine\\:\\ 0\\.1941078213681566\ \(0\)\
+\-\ enlarged\\:\\ 0\\.18893202900459707\ \(0\)\
+\-\ american\\:\\ 0\\.17734171220025674\ \(0\)\
+\-\ estrogen\\:\\ 0\\.17265954450902538\ \(0\)\
+\-\ smooth\\:\\ 0\\.1716141400708063\ \(0\)\
+\-\ irregularly\\:\\ 0\\.15664502712201933\ \(0\)\
+\-\ leiomyoma\\:\\ 0\\.1439031812202105\ \(0\)\
+\-\ discrete\\:\\ 0\\.14341241329786786\ \(0\)\
+\-\ areas\\:\\ 0\\.14112062423001565\ \(0\)\
+\-\ african\\:\\ 0\\.12515887396462896\ \(0\)\
+\-\ women\\:\\ 0\\.12470480119416559\ \(0\)\
+\-\ provera\\:\\ 0\\.11080297165229734\ \(0\)\
+\-\ danazol\\:\\ 0\\.11080297165229734\ \(0\)\
+\-\ myomectomy\\:\\ 0\\.11080297165229734\ \(0\)\
+\-\ of\\:\\ 0\\.10847129121428101\ \(0\)\
+\-\ perimenopausal\\:\\ 0\\.1058781547561944\ \(0\)\
+\-\ gnrh\\:\\ 0\\.1058781547561944\ \(0\)\
+\-\ about\\:\\ 0\\.10373952202042479\ \(0\)\
+\-\ hyperechogenicity\\:\\ 0\\.10238394156057092\ \(0\)\
+\-\ 40\\:\\ 0\\.10191218068581742\ \(0\)\
+\-\ serosa\\:\\ 0\\.09967361924234207\ \(0\)\
+\-\ intensity\\:\\ 0\\.09839490932686484\ \(0\)\
+\-\ synonyms\\:\\ 0\\.09558679617706452\ \(0\)\
+\-\ pseudocapsule\\:\\ 0\\.09558679617706452\ \(0\)\
+\-\ expectant\\:\\ 0\\.09558679617706452\ \(0\)\
+\-\ agonists\\:\\ 0\\.09558679617706452\ \(0\)\
+\-\ subserosal\\:\\ 0\\.0939649114688445\ \(0\)\
+\-\ demographics\\:\\ 0\\.08632977225451269\ \(0\)\
+\-\ bimanual\\:\\ 0\\.08554588137711808\ \(0\)\
+\-\ shows\\:\\ 0\\.08132946352755767\ \(0\)\
+\-\ hysterectomy\\:\\ 0\\.08062106448101512\ \(0\)\
+\-\ low\\:\\ 0\\.0795130582152504\ \(0\)\
+\-\ signal\\:\\ 0\\.07855222505197812\ \(0\)\
+\-\ fibroids\\:\\ 0\\.07832251356100967\ \(0\)\
+\-\ intramural\\:\\ 0\\.07712685128539165\ \(0\)\
+\-\ obesity\\:\\ 0\\.07675309585861714\ \(0\)\
+\-\ submucosal\\:\\ 0\\.07675309585861714\ \(0\)\
+\-\ symptoms\\:\\ 0\\.07581845727695746\ \(0\)\
+\-\ ablation\\:\\ 0\\.07569624758491218\ \(0\)\
+\-\ polyps\\:\\ 0\\.07472404141654489\ \(0\)\
+\-\ morphology\\:\\ 0\\.07382391909750871\ \(0\)\
+\-\ histology\\:\\ 0\\.07353811548851232\ \(0\)\
+\-\ noted\\:\\ 0\\.07347038905862148\ \(0\)\
+\-\ tissue\\:\\ 0\\.07269146838528437\ \(0\)\
+\-\ locations\\:\\ 0\\.07245775105458162\ \(0\)\
+\-\ and\\:\\ 0\\.07158524298181498\ \(0\)\
+\-\ mri\\:\\ 0\\.07113029584994139\ \(0\)\
+\-\ discussed\\:\\ 0\\.06870782119366523\ \(0\)\
+\-\ depending\\:\\ 0\\.06599749887543636\ \(0\)\
+\-\ possibly\\:\\ 0\\.06511908539678589\ \(0\)\
+\-\ options\\:\\ 0\\.06246538832313227\ \(0\)\
+\-\ gross\\:\\ 0\\.061484453377556814\ \(0\)\
+\-\ states\\:\\ 0\\.06087191554122996\ \(0\)\
+\-\ embolization\\:\\ 0\\.06038405506450125\ \(0\)\
+\-\ origin\\:\\ 0\\.059642078278853934\ \(0\)\
+\-\ decrease\\:\\ 0\\.059552438809544306\ \(0\)\
+\-\ by\\:\\ 0\\.05884548179865828\ \(0\)\
+\-\ factors\\:\\ 0\\.05860774362227588\ \(0\)\
+\-\ numerous\\:\\ 0\\.0585253969138953\ \(0\)\
+\-\ medications\\:\\ 0\\.05812183510906482\ \(0\)\
+\-\ below\\:\\ 0\\.057058373117275164\ \(0\)\
+\-\ pregnancy\\:\\ 0\\.05670005530505946\ \(0\)\
+\-\ increase\\:\\ 0\\.05561969087112878\ \(0\)\
+\-\ radiology\\:\\ 0\\.055491159587461494\ \(0\)\
+\-\ the\\:\\ 0\\.05530005763419181\ \(0\)\
+\-\ pelvic\\:\\ 0\\.05416040689058806\ \(0\)\
+\-\ irregular\\:\\ 0\\.053491645718432394\ \(0\)\
+\-\ cells\\:\\ 0\\.05338367973676439\ \(0\)\
+\-\ symptomatic\\:\\ 0\\.0532766650095874\ \(0\)\
+\-\ an\\:\\ 0\\.05298926394710305\ \(0\)\
+\-\ specific\\:\\ 0\\.052502766804876894\ \(0\)\
+\-\ referred\\:\\ 0\\.05126811722942231\ \(0\)\
+\-\ management\\:\\ 0\\.05117814575904765\ \(0\)\
+\-\ 25\\:\\ 0\\.04908376185550526\ \(0\)\
+\-\ cancer\\:\\ 0\\.04614919760574677\ \(0\)\
+\-\ patient\\:\\ 0\\.04507034186672886\ \(0\)\
+\-\ no\\:\\ 0\\.045061864398164425\ \(0\)\
+\-\ usually\\:\\ 0\\.043617936411976296\ \(0\)\
+\-\ age\\:\\ 0\\.043498269503486064\ \(0\)\
+\-\ treated\\:\\ 0\\.04314618418587172\ \(0\)\
+\-\ artery\\:\\ 0\\.04303105448063277\ \(0\)\
+\-\ ultrasound\\:\\ 0\\.042736726549530236\ \(0\)\
+\-\ on\\:\\ 0\\.04185096166491242\ \(0\)\
+\-\ if\\:\\ 0\\.04025673302996297\ \(0\)\
+\-\ cell\\:\\ 0\\.03963463181105461\ \(0\)\
+\-\ common\\:\\ 0\\.03929294703036441\ \(0\)\
+\-\ exam\\:\\ 0\\.03487847297365619\ \(0\)\
+\-\ may\\:\\ 0\\.0348667658951957\ \(0\)\
+\-\ findings\\:\\ 0\\.03419528862142793\ \(0\)\
+\-\ surgical\\:\\ 0\\.03367512665517812\ \(0\)\
+\-\ treatment\\:\\ 0\\.033004471355461126\ \(0\)\
+\-\ be\\:\\ 0\\.02810645224841366\ \(0\)\
+\-\ with\\:\\ 0\\.027134025696233566\ \(0\)\
+\-\ or\\:\\ 0\\.024103273008189468\ \(0\)\
+\-\ for\\:\\ 0\\.020999974123074732\ \(0\)\
+\-\ is\\:\\ 0\\.018974368887442333\ \(0\)\
+\-\ to\\:\\ 0\\.017321297314147024\ \(0\)\
+\-\ in\\:\\ 0\\.01723604192464043\ \(0\)\

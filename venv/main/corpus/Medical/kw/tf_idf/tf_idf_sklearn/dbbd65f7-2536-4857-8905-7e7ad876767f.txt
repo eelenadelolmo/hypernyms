@@ -1,166 +1,162 @@
-Texto: 
-vs: bp-140/90     hr-103     rr-22   spo2-94%     tc-98.7f   gen- middle aged obese male, in mild distress;  cardiac- tachycardic, no appreciable m/r/g;  pulm- tachypnic, slightly diminished breath sounds bilaterally with bibasilar coarse breath sounds; abd- non-distended, mild ttp llq, nabs; extr- (+) lle mild edema with thigh pain, pulses intact throughout
-the pt had supplemental oxygen and 2 large bore ivs started.  he was admitted to the hospital and started on anticoagulation with heparin.  even though the clots were rather large, t-pa was not started secondary to the patient being hemodynamically stable after initial resuscitation and without any signs of right heart strain.  due to the ptâ€™s history of the lle dvt and the current bilateral pes, in spite of therapeutic coumadin levels, a greenfield filter was placed in the ivc.
-cxr- bilateral small pleural effusions,no westermarkâ€™s sign or hamptonâ€™s hump.  there may be slight evidence of acute pah with enlarged pa's on lateral view.
-
-spiral chest ct demonstrating bilateral filling defects found in the right and left pulmonary arteries.
-
-us of l common femoral vein and artery show decreased compressibility of vein with highly diminished blood flow.
-pulmonary embolism
-pulmonary embolism
-old pe with other pulmonary or cardiac etiologies of the patientâ€™s pain:     mi, pericarditis, esophageal rupture, pneumonia, pneumothorax, asthma, copd
-however, these other possibilities on the differential were not supported by ecg, ct, or the patientâ€™s clinical presentation/history
-42 y/o aam with hx/of lle dvt, presents to er with acute shortness of breath and chest pain
-
-
-Keywords by value: 
-- lle: 0.2672583757165959
-- started: 0.1751775929805633
-- pulmonary: 0.16901872699678647
-- the: 0.16598593758538938
-- breath: 0.15242272679292918
-- dvt: 0.14551312125452015
-- diminished: 0.13748668154766902
-- embolism: 0.1256865383025674
-- of: 0.12209328803326598
-- mild: 0.11788925077547663
-- bilateral: 0.11176788021741582
-- ivs: 0.11086025297727932
-- with: 0.10859221221668679
-- sounds: 0.10703859811856344
-- pa: 0.10639614456848696
-- compressibility: 0.10593289012024323
-- cardiac: 0.10295336499264181
-- westermark: 0.10243687053659035
-- and: 0.10027115012610105
-- pt: 0.09977680319489737
-- vein: 0.09937770154834065
-- tachypnic: 0.09750950767955427
-- spite: 0.09750950767955427
-- greenfield: 0.09750950767955427
-- pah: 0.09750950767955427
-- bore: 0.0940134880959014
-- hampton: 0.09258214482251818
-- aam: 0.09258214482251818
-- hump: 0.09130176463426275
-- nabs: 0.09014351986677469
-- supplemental: 0.0890861252388653
-- mi: 0.0890861252388653
-- clots: 0.0881134164733506
-- pes: 0.0881134164733506
-- resuscitation: 0.08485337269401157
-- possibilities: 0.08415876238182922
-- spiral: 0.08287838219357378
-- pericarditis: 0.08287838219357378
-- llq: 0.08228546596500148
-- ecg: 0.08228546596500148
-- appreciable: 0.08117994306794904
-- supported: 0.08117994306794904
-- filter: 0.08016665873193513
-- tachycardic: 0.0787894463813486
-- bibasilar: 0.07836300360641
-- hemodynamically: 0.07836300360641
-- coumadin: 0.07716672321452347
-- aged: 0.07573537994114025
-- heparin: 0.07573537994114025
-- acute: 0.07500061863230854
-- pain: 0.07441740727817975
-- copd: 0.07386208352431252
-- strain: 0.07329675498539676
-- chest: 0.0731828558906156
-- coarse: 0.0730236564795016
-- was: 0.07247774155182389
-- or: 0.07234720071371599
-- other: 0.07199958979682795
-- obese: 0.07174327629124616
-- were: 0.07146651398702837
-- oxygen: 0.07126665159197267
-- ttp: 0.0705850315237581
-- therapeutic: 0.07015097209418301
-- etiologies: 0.06952763689584872
-- large: 0.06946707731674458
-- to: 0.0693210073161858
-- asthma: 0.06912916276864048
-- in: 0.06897980946174427
-- thigh: 0.06818664624741316
-- patient: 0.06764046252473992
-- ivc: 0.06731199750045129
-- pulses: 0.06573154349650141
-- effusions: 0.06487337254470779
-- anticoagulation: 0.06433317818657111
-- on: 0.06280889575877745
-- highly: 0.06205167211461632
-- 42: 0.061621454724932447
-- rather: 0.06141192587790049
-- current: 0.060705780327951514
-- slight: 0.060705780327951514
-- pneumothorax: 0.06041527154389978
-- though: 0.060225386866956186
-- defects: 0.059763263806724205
-- esophageal: 0.059230958038332025
-- even: 0.05831178403813765
-- pe: 0.05730816105581244
-- demonstrating: 0.05716085777257189
-- admitted: 0.05680022679645795
-- rupture: 0.05604260987741987
-- distress: 0.05584392906932479
-- shortness: 0.05558397536955137
-- us: 0.055142022226106854
-- arteries: 0.05501864683063561
-- levels: 0.0549574256831479
-- stable: 0.0548359009496881
-- not: 0.05473299947744458
-- pneumonia: 0.054715579451168256
-- slightly: 0.054074298339543574
-- placed: 0.05401764382166465
-- filling: 0.05368315374939387
-- history: 0.052969691870065456
-- vs: 0.052885118369754854
-- ct: 0.052782731377785996
-- pleural: 0.052184787948229575
-- er: 0.05184919816354008
-- femoral: 0.051522627246982734
-- hospital: 0.05120460309999694
-- throughout: 0.050982432888846047
-- view: 0.0507642515871412
-- intact: 0.050173394908116196
-- middle: 0.04957067442562389
-- signs: 0.04844811946961705
-- being: 0.04830598484261435
-- heart: 0.048200464306331486
-- sign: 0.04799213282581277
-- enlarged: 0.04725742509119348
-- initial: 0.04650354793894125
-- bilaterally: 0.046232480074219616
-- flow: 0.04617305515348482
-- right: 0.045965925443594
-- no: 0.04508515983203587
-- differential: 0.04504178569579605
-- found: 0.04485420401212867
-- any: 0.0448011368008364
-- show: 0.04400691632377923
-- clinical: 0.043932740882453275
-- artery: 0.043053300055631946
-- decreased: 0.042939192437215945
-- edema: 0.041344895884697114
-- secondary: 0.041088631989741685
-- he: 0.04104968204590195
-- however: 0.041030253789046546
-- blood: 0.04025931125639074
-- due: 0.039847326986518425
-- evidence: 0.03934701674319594
-- common: 0.03931326013239392
-- these: 0.039145869440724505
-- without: 0.03656451238153703
-- small: 0.035758391174293254
-- may: 0.03488479081382858
-- had: 0.034538545965880456
-- lateral: 0.03440276385970965
-- after: 0.033629021252969814
-- presents: 0.033347244742580245
-- male: 0.03086462162703825
-- by: 0.029437951444300843
-- be: 0.028120982317430078
-- there: 0.027582830399292026
-- left: 0.023647093286991345
-- old: 0.020516391170563284
+\-\ Texto\\:\\ \ \(0\)\
+\-\ vs\\:\\ bp\\-140\\/90\\ \\ \\ \\ \\ hr\\-103\\ \\ \\ \\ \\ rr\\-22\\ \\ \\ spo2\\-94\\%\\ \\ \\ \\ \\ tc\\-98\\.7f\\ \\ \\ gen\\-\\ middle\\ aged\\ obese\\ male\\,\\ in\\ mild\\ distress\\;\\ \\ cardiac\\-\\ tachycardic\\,\\ no\\ appreciable\\ m\\/r\\/g\\;\\ \\ pulm\\-\\ tachypnic\\,\\ slightly\\ diminished\\ breath\\ sounds\\ bilaterally\\ with\\ bibasilar\\ coarse\\ breath\\ sounds\\;\\ abd\\-\\ non\\-distended\\,\\ mild\\ ttp\\ llq\\,\\ nabs\\;\\ extr\\-\\ \\(\\+\\)\\ lle\\ mild\\ edema\\ with\\ thigh\\ pain\\,\\ pulses\\ intact\\ throughout\ \(0\)\
+\-\ the\\ pt\\ had\\ supplemental\\ oxygen\\ and\\ 2\\ large\\ bore\\ ivs\\ started\\.\\ \\ he\\ was\\ admitted\\ to\\ the\\ hospital\\ and\\ started\\ on\\ anticoagulation\\ with\\ heparin\\.\\ \\ even\\ though\\ the\\ clots\\ were\\ rather\\ large\\,\\ t\\-pa\\ was\\ not\\ started\\ secondary\\ to\\ the\\ patient\\ being\\ hemodynamically\\ stable\\ after\\ initial\\ resuscitation\\ and\\ without\\ any\\ signs\\ of\\ right\\ heart\\ strain\\.\\ \\ due\\ to\\ the\\ pt\\â\\€\\™s\\ history\\ of\\ the\\ lle\\ dvt\\ and\\ the\\ current\\ bilateral\\ pes\\,\\ in\\ spite\\ of\\ therapeutic\\ coumadin\\ levels\\,\\ a\\ greenfield\\ filter\\ was\\ placed\\ in\\ the\\ ivc\\.\ \(0\)\
+\-\ cxr\\-\\ bilateral\\ small\\ pleural\\ effusions\\,no\\ westermark\\â\\€\\™s\\ sign\\ or\\ hampton\\â\\€\\™s\\ hump\\.\\ \\ there\\ may\\ be\\ slight\\ evidence\\ of\\ acute\\ pah\\ with\\ enlarged\\ pa\\'s\\ on\\ lateral\\ view\\.\ \(0\)\
+\-\ spiral\\ chest\\ ct\\ demonstrating\\ bilateral\\ filling\\ defects\\ found\\ in\\ the\\ right\\ and\\ left\\ pulmonary\\ arteries\\.\ \(0\)\
+\-\ us\\ of\\ l\\ common\\ femoral\\ vein\\ and\\ artery\\ show\\ decreased\\ compressibility\\ of\\ vein\\ with\\ highly\\ diminished\\ blood\\ flow\\.\ \(0\)\
+\-\ pulmonary\\ embolism\ \(77\)\
+\-\ pulmonary\\ embolism\ \(77\)\
+\-\ old\\ pe\\ with\\ other\\ pulmonary\\ or\\ cardiac\\ etiologies\\ of\\ the\\ patient\\â\\€\\™s\\ pain\\:\\ \\ \\ \\ \\ mi\\,\\ pericarditis\\,\\ esophageal\\ rupture\\,\\ pneumonia\\,\\ pneumothorax\\,\\ asthma\\,\\ copd\ \(0\)\
+\-\ however\\,\\ these\\ other\\ possibilities\\ on\\ the\\ differential\\ were\\ not\\ supported\\ by\\ ecg\\,\\ ct\\,\\ or\\ the\\ patient\\â\\€\\™s\\ clinical\\ presentation\\/history\ \(0\)\
+\-\ 42\\ y\\/o\\ aam\\ with\\ hx\\/of\\ lle\\ dvt\\,\\ presents\\ to\\ er\\ with\\ acute\\ shortness\\ of\\ breath\\ and\\ chest\\ pain\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ lle\\:\\ 0\\.2672583757165959\ \(0\)\
+\-\ started\\:\\ 0\\.1751775929805633\ \(0\)\
+\-\ pulmonary\\:\\ 0\\.16901872699678647\ \(0\)\
+\-\ the\\:\\ 0\\.16598593758538938\ \(0\)\
+\-\ breath\\:\\ 0\\.15242272679292918\ \(0\)\
+\-\ dvt\\:\\ 0\\.14551312125452015\ \(0\)\
+\-\ diminished\\:\\ 0\\.13748668154766902\ \(0\)\
+\-\ embolism\\:\\ 0\\.1256865383025674\ \(0\)\
+\-\ of\\:\\ 0\\.12209328803326598\ \(0\)\
+\-\ mild\\:\\ 0\\.11788925077547663\ \(0\)\
+\-\ bilateral\\:\\ 0\\.11176788021741582\ \(0\)\
+\-\ ivs\\:\\ 0\\.11086025297727932\ \(0\)\
+\-\ with\\:\\ 0\\.10859221221668679\ \(0\)\
+\-\ sounds\\:\\ 0\\.10703859811856344\ \(0\)\
+\-\ pa\\:\\ 0\\.10639614456848696\ \(0\)\
+\-\ compressibility\\:\\ 0\\.10593289012024323\ \(0\)\
+\-\ cardiac\\:\\ 0\\.10295336499264181\ \(0\)\
+\-\ westermark\\:\\ 0\\.10243687053659035\ \(0\)\
+\-\ and\\:\\ 0\\.10027115012610105\ \(0\)\
+\-\ pt\\:\\ 0\\.09977680319489737\ \(0\)\
+\-\ vein\\:\\ 0\\.09937770154834065\ \(0\)\
+\-\ tachypnic\\:\\ 0\\.09750950767955427\ \(0\)\
+\-\ spite\\:\\ 0\\.09750950767955427\ \(0\)\
+\-\ greenfield\\:\\ 0\\.09750950767955427\ \(0\)\
+\-\ pah\\:\\ 0\\.09750950767955427\ \(0\)\
+\-\ bore\\:\\ 0\\.0940134880959014\ \(0\)\
+\-\ hampton\\:\\ 0\\.09258214482251818\ \(0\)\
+\-\ aam\\:\\ 0\\.09258214482251818\ \(0\)\
+\-\ hump\\:\\ 0\\.09130176463426275\ \(0\)\
+\-\ nabs\\:\\ 0\\.09014351986677469\ \(0\)\
+\-\ supplemental\\:\\ 0\\.0890861252388653\ \(0\)\
+\-\ mi\\:\\ 0\\.0890861252388653\ \(0\)\
+\-\ clots\\:\\ 0\\.0881134164733506\ \(0\)\
+\-\ pes\\:\\ 0\\.0881134164733506\ \(0\)\
+\-\ resuscitation\\:\\ 0\\.08485337269401157\ \(0\)\
+\-\ possibilities\\:\\ 0\\.08415876238182922\ \(0\)\
+\-\ spiral\\:\\ 0\\.08287838219357378\ \(0\)\
+\-\ pericarditis\\:\\ 0\\.08287838219357378\ \(0\)\
+\-\ llq\\:\\ 0\\.08228546596500148\ \(0\)\
+\-\ ecg\\:\\ 0\\.08228546596500148\ \(0\)\
+\-\ appreciable\\:\\ 0\\.08117994306794904\ \(0\)\
+\-\ supported\\:\\ 0\\.08117994306794904\ \(0\)\
+\-\ filter\\:\\ 0\\.08016665873193513\ \(0\)\
+\-\ tachycardic\\:\\ 0\\.0787894463813486\ \(0\)\
+\-\ bibasilar\\:\\ 0\\.07836300360641\ \(0\)\
+\-\ hemodynamically\\:\\ 0\\.07836300360641\ \(0\)\
+\-\ coumadin\\:\\ 0\\.07716672321452347\ \(0\)\
+\-\ aged\\:\\ 0\\.07573537994114025\ \(0\)\
+\-\ heparin\\:\\ 0\\.07573537994114025\ \(0\)\
+\-\ acute\\:\\ 0\\.07500061863230854\ \(0\)\
+\-\ pain\\:\\ 0\\.07441740727817975\ \(0\)\
+\-\ copd\\:\\ 0\\.07386208352431252\ \(0\)\
+\-\ strain\\:\\ 0\\.07329675498539676\ \(0\)\
+\-\ chest\\:\\ 0\\.0731828558906156\ \(0\)\
+\-\ coarse\\:\\ 0\\.0730236564795016\ \(0\)\
+\-\ was\\:\\ 0\\.07247774155182389\ \(0\)\
+\-\ or\\:\\ 0\\.07234720071371599\ \(0\)\
+\-\ other\\:\\ 0\\.07199958979682795\ \(0\)\
+\-\ obese\\:\\ 0\\.07174327629124616\ \(0\)\
+\-\ were\\:\\ 0\\.07146651398702837\ \(0\)\
+\-\ oxygen\\:\\ 0\\.07126665159197267\ \(0\)\
+\-\ ttp\\:\\ 0\\.0705850315237581\ \(0\)\
+\-\ therapeutic\\:\\ 0\\.07015097209418301\ \(0\)\
+\-\ etiologies\\:\\ 0\\.06952763689584872\ \(0\)\
+\-\ large\\:\\ 0\\.06946707731674458\ \(0\)\
+\-\ to\\:\\ 0\\.0693210073161858\ \(0\)\
+\-\ asthma\\:\\ 0\\.06912916276864048\ \(0\)\
+\-\ in\\:\\ 0\\.06897980946174427\ \(0\)\
+\-\ thigh\\:\\ 0\\.06818664624741316\ \(0\)\
+\-\ patient\\:\\ 0\\.06764046252473992\ \(0\)\
+\-\ ivc\\:\\ 0\\.06731199750045129\ \(0\)\
+\-\ pulses\\:\\ 0\\.06573154349650141\ \(0\)\
+\-\ effusions\\:\\ 0\\.06487337254470779\ \(0\)\
+\-\ anticoagulation\\:\\ 0\\.06433317818657111\ \(0\)\
+\-\ on\\:\\ 0\\.06280889575877745\ \(0\)\
+\-\ highly\\:\\ 0\\.06205167211461632\ \(0\)\
+\-\ 42\\:\\ 0\\.061621454724932447\ \(0\)\
+\-\ rather\\:\\ 0\\.06141192587790049\ \(0\)\
+\-\ current\\:\\ 0\\.060705780327951514\ \(0\)\
+\-\ slight\\:\\ 0\\.060705780327951514\ \(0\)\
+\-\ pneumothorax\\:\\ 0\\.06041527154389978\ \(0\)\
+\-\ though\\:\\ 0\\.060225386866956186\ \(0\)\
+\-\ defects\\:\\ 0\\.059763263806724205\ \(0\)\
+\-\ esophageal\\:\\ 0\\.059230958038332025\ \(0\)\
+\-\ even\\:\\ 0\\.05831178403813765\ \(0\)\
+\-\ pe\\:\\ 0\\.05730816105581244\ \(0\)\
+\-\ demonstrating\\:\\ 0\\.05716085777257189\ \(0\)\
+\-\ admitted\\:\\ 0\\.05680022679645795\ \(0\)\
+\-\ rupture\\:\\ 0\\.05604260987741987\ \(0\)\
+\-\ distress\\:\\ 0\\.05584392906932479\ \(0\)\
+\-\ shortness\\:\\ 0\\.05558397536955137\ \(0\)\
+\-\ us\\:\\ 0\\.055142022226106854\ \(0\)\
+\-\ arteries\\:\\ 0\\.05501864683063561\ \(0\)\
+\-\ levels\\:\\ 0\\.0549574256831479\ \(0\)\
+\-\ stable\\:\\ 0\\.0548359009496881\ \(0\)\
+\-\ not\\:\\ 0\\.05473299947744458\ \(0\)\
+\-\ pneumonia\\:\\ 0\\.054715579451168256\ \(0\)\
+\-\ slightly\\:\\ 0\\.054074298339543574\ \(0\)\
+\-\ placed\\:\\ 0\\.05401764382166465\ \(0\)\
+\-\ filling\\:\\ 0\\.05368315374939387\ \(0\)\
+\-\ history\\:\\ 0\\.052969691870065456\ \(0\)\
+\-\ vs\\:\\ 0\\.052885118369754854\ \(0\)\
+\-\ ct\\:\\ 0\\.052782731377785996\ \(0\)\
+\-\ pleural\\:\\ 0\\.052184787948229575\ \(0\)\
+\-\ er\\:\\ 0\\.05184919816354008\ \(0\)\
+\-\ femoral\\:\\ 0\\.051522627246982734\ \(0\)\
+\-\ hospital\\:\\ 0\\.05120460309999694\ \(0\)\
+\-\ throughout\\:\\ 0\\.050982432888846047\ \(0\)\
+\-\ view\\:\\ 0\\.0507642515871412\ \(0\)\
+\-\ intact\\:\\ 0\\.050173394908116196\ \(0\)\
+\-\ middle\\:\\ 0\\.04957067442562389\ \(0\)\
+\-\ signs\\:\\ 0\\.04844811946961705\ \(0\)\
+\-\ being\\:\\ 0\\.04830598484261435\ \(0\)\
+\-\ heart\\:\\ 0\\.048200464306331486\ \(0\)\
+\-\ sign\\:\\ 0\\.04799213282581277\ \(0\)\
+\-\ enlarged\\:\\ 0\\.04725742509119348\ \(0\)\
+\-\ initial\\:\\ 0\\.04650354793894125\ \(0\)\
+\-\ bilaterally\\:\\ 0\\.046232480074219616\ \(0\)\
+\-\ flow\\:\\ 0\\.04617305515348482\ \(0\)\
+\-\ right\\:\\ 0\\.045965925443594\ \(0\)\
+\-\ no\\:\\ 0\\.04508515983203587\ \(0\)\
+\-\ differential\\:\\ 0\\.04504178569579605\ \(0\)\
+\-\ found\\:\\ 0\\.04485420401212867\ \(0\)\
+\-\ any\\:\\ 0\\.0448011368008364\ \(0\)\
+\-\ show\\:\\ 0\\.04400691632377923\ \(0\)\
+\-\ clinical\\:\\ 0\\.043932740882453275\ \(0\)\
+\-\ artery\\:\\ 0\\.043053300055631946\ \(0\)\
+\-\ decreased\\:\\ 0\\.042939192437215945\ \(0\)\
+\-\ edema\\:\\ 0\\.041344895884697114\ \(0\)\
+\-\ secondary\\:\\ 0\\.041088631989741685\ \(0\)\
+\-\ he\\:\\ 0\\.04104968204590195\ \(0\)\
+\-\ however\\:\\ 0\\.041030253789046546\ \(0\)\
+\-\ blood\\:\\ 0\\.04025931125639074\ \(0\)\
+\-\ due\\:\\ 0\\.039847326986518425\ \(0\)\
+\-\ evidence\\:\\ 0\\.03934701674319594\ \(0\)\
+\-\ common\\:\\ 0\\.03931326013239392\ \(0\)\
+\-\ these\\:\\ 0\\.039145869440724505\ \(0\)\
+\-\ without\\:\\ 0\\.03656451238153703\ \(0\)\
+\-\ small\\:\\ 0\\.035758391174293254\ \(0\)\
+\-\ may\\:\\ 0\\.03488479081382858\ \(0\)\
+\-\ had\\:\\ 0\\.034538545965880456\ \(0\)\
+\-\ lateral\\:\\ 0\\.03440276385970965\ \(0\)\
+\-\ after\\:\\ 0\\.033629021252969814\ \(0\)\
+\-\ presents\\:\\ 0\\.033347244742580245\ \(0\)\
+\-\ male\\:\\ 0\\.03086462162703825\ \(0\)\
+\-\ by\\:\\ 0\\.029437951444300843\ \(0\)\
+\-\ be\\:\\ 0\\.028120982317430078\ \(0\)\
+\-\ there\\:\\ 0\\.027582830399292026\ \(0\)\
+\-\ left\\:\\ 0\\.023647093286991345\ \(0\)\
+\-\ old\\:\\ 0\\.020516391170563284\ \(0\)\

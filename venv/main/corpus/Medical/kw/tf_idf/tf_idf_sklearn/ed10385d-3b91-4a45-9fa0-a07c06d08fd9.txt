@@ -1,66 +1,63 @@
-Texto: 
-none indicated.  the patient was asymptomatic.
-chest radiograph demonstrates dextrocardia with stomach bubble under the right hemi-diaphragm. elevated right hemi-diaphragm is present.  lungs are clear.  osseous structures are unremarkable. all findings are stable compared to multiple prior radiographs (not shown).	
-
-mr of the abdomen demonstrates a left-sided liver with right-sided polysplenism.
-situs inversus totalis
-misplaced radiographic markers
-situs inversus totalis
-situs solitus with dextrocardia
-40 year old male. no history given.
-
-
-Keywords by value: 
-- situs: 0.4261766144936169
-- dextrocardia: 0.30671672643612025
-- totalis: 0.30671672643612025
-- inversus: 0.29674493961477233
-- polysplenism: 0.18860309612562656
-- solitus: 0.18022032713842354
-- misplaced: 0.16965928720886228
-- markers: 0.1363850400556836
-- are: 0.1342524485568733
-- bubble: 0.1306451559944427
-- demonstrates: 0.11849811888610101
-- right: 0.11730059631992237
-- stomach: 0.09839842226198263
-- under: 0.09762303943163302
-- indicated: 0.09699838611093994
-- compared: 0.09534354697899056
-- osseous: 0.09413029772684095
-- stable: 0.09329061065798747
-- shown: 0.09142323959205267
-- structures: 0.08861561712373693
-- radiographic: 0.08749780694321749
-- lungs: 0.08703664762620655
-- 40: 0.08673482544572589
-- clear: 0.0854990773973095
-- liver: 0.08135673635683761
-- given: 0.08112701785815422
-- elevated: 0.08039758567888752
-- asymptomatic: 0.0802876149292948
-- unremarkable: 0.07906328711002607
-- radiograph: 0.07681278192136748
-- radiographs: 0.07649081509135632
-- mr: 0.07630906049503387
-- abdomen: 0.07195975819795247
-- the: 0.07059667667440615
-- all: 0.07020365624065154
-- with: 0.06927920587799309
-- prior: 0.06598461458964476
-- none: 0.06445051180555363
-- chest: 0.0622518568810882
-- present: 0.06051607247592236
-- findings: 0.05820545433699113
-- multiple: 0.05768437845527011
-- male: 0.05250901962850858
-- not: 0.046557773793841135
-- history: 0.04505784363293066
-- was: 0.04110137489844538
-- patient: 0.038358204174252716
-- no: 0.03835098921965936
-- year: 0.0363451210708852
-- old: 0.034903897403930184
-- is: 0.03229719082292489
-- to: 0.02948341776078074
-- of: 0.02307927876243663
+\-\ Texto\\:\\ \ \(0\)\
+\-\ none\\ indicated\\.\\ \\ the\\ patient\\ was\\ asymptomatic\\.\ \(0\)\
+\-\ chest\\ radiograph\\ demonstrates\\ dextrocardia\\ with\\ stomach\\ bubble\\ under\\ the\\ right\\ hemi\\-diaphragm\\.\\ elevated\\ right\\ hemi\\-diaphragm\\ is\\ present\\.\\ \\ lungs\\ are\\ clear\\.\\ \\ osseous\\ structures\\ are\\ unremarkable\\.\\ all\\ findings\\ are\\ stable\\ compared\\ to\\ multiple\\ prior\\ radiographs\\ \\(not\\ shown\\)\\.\\	\ \(0\)\
+\-\ mr\\ of\\ the\\ abdomen\\ demonstrates\\ a\\ left\\-sided\\ liver\\ with\\ right\\-sided\\ polysplenism\\.\ \(0\)\
+\-\ situs\\ inversus\\ totalis\ \(1\)\
+\-\ misplaced\\ radiographic\\ markers\ \(0\)\
+\-\ situs\\ inversus\\ totalis\ \(1\)\
+\-\ situs\\ solitus\\ with\\ dextrocardia\ \(0\)\
+\-\ 40\\ year\\ old\\ male\\.\\ no\\ history\\ given\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ situs\\:\\ 0\\.4261766144936169\ \(0\)\
+\-\ dextrocardia\\:\\ 0\\.30671672643612025\ \(0\)\
+\-\ totalis\\:\\ 0\\.30671672643612025\ \(0\)\
+\-\ inversus\\:\\ 0\\.29674493961477233\ \(0\)\
+\-\ polysplenism\\:\\ 0\\.18860309612562656\ \(0\)\
+\-\ solitus\\:\\ 0\\.18022032713842354\ \(0\)\
+\-\ misplaced\\:\\ 0\\.16965928720886228\ \(0\)\
+\-\ markers\\:\\ 0\\.1363850400556836\ \(0\)\
+\-\ are\\:\\ 0\\.1342524485568733\ \(0\)\
+\-\ bubble\\:\\ 0\\.1306451559944427\ \(0\)\
+\-\ demonstrates\\:\\ 0\\.11849811888610101\ \(0\)\
+\-\ right\\:\\ 0\\.11730059631992237\ \(0\)\
+\-\ stomach\\:\\ 0\\.09839842226198263\ \(0\)\
+\-\ under\\:\\ 0\\.09762303943163302\ \(0\)\
+\-\ indicated\\:\\ 0\\.09699838611093994\ \(0\)\
+\-\ compared\\:\\ 0\\.09534354697899056\ \(0\)\
+\-\ osseous\\:\\ 0\\.09413029772684095\ \(0\)\
+\-\ stable\\:\\ 0\\.09329061065798747\ \(0\)\
+\-\ shown\\:\\ 0\\.09142323959205267\ \(0\)\
+\-\ structures\\:\\ 0\\.08861561712373693\ \(0\)\
+\-\ radiographic\\:\\ 0\\.08749780694321749\ \(0\)\
+\-\ lungs\\:\\ 0\\.08703664762620655\ \(0\)\
+\-\ 40\\:\\ 0\\.08673482544572589\ \(0\)\
+\-\ clear\\:\\ 0\\.0854990773973095\ \(0\)\
+\-\ liver\\:\\ 0\\.08135673635683761\ \(0\)\
+\-\ given\\:\\ 0\\.08112701785815422\ \(0\)\
+\-\ elevated\\:\\ 0\\.08039758567888752\ \(0\)\
+\-\ asymptomatic\\:\\ 0\\.0802876149292948\ \(0\)\
+\-\ unremarkable\\:\\ 0\\.07906328711002607\ \(0\)\
+\-\ radiograph\\:\\ 0\\.07681278192136748\ \(0\)\
+\-\ radiographs\\:\\ 0\\.07649081509135632\ \(0\)\
+\-\ mr\\:\\ 0\\.07630906049503387\ \(0\)\
+\-\ abdomen\\:\\ 0\\.07195975819795247\ \(0\)\
+\-\ the\\:\\ 0\\.07059667667440615\ \(0\)\
+\-\ all\\:\\ 0\\.07020365624065154\ \(0\)\
+\-\ with\\:\\ 0\\.06927920587799309\ \(0\)\
+\-\ prior\\:\\ 0\\.06598461458964476\ \(0\)\
+\-\ none\\:\\ 0\\.06445051180555363\ \(0\)\
+\-\ chest\\:\\ 0\\.0622518568810882\ \(0\)\
+\-\ present\\:\\ 0\\.06051607247592236\ \(0\)\
+\-\ findings\\:\\ 0\\.05820545433699113\ \(0\)\
+\-\ multiple\\:\\ 0\\.05768437845527011\ \(0\)\
+\-\ male\\:\\ 0\\.05250901962850858\ \(0\)\
+\-\ not\\:\\ 0\\.046557773793841135\ \(0\)\
+\-\ history\\:\\ 0\\.04505784363293066\ \(0\)\
+\-\ was\\:\\ 0\\.04110137489844538\ \(0\)\
+\-\ patient\\:\\ 0\\.038358204174252716\ \(0\)\
+\-\ no\\:\\ 0\\.03835098921965936\ \(0\)\
+\-\ year\\:\\ 0\\.0363451210708852\ \(0\)\
+\-\ old\\:\\ 0\\.034903897403930184\ \(0\)\
+\-\ is\\:\\ 0\\.03229719082292489\ \(0\)\
+\-\ to\\:\\ 0\\.02948341776078074\ \(0\)\
+\-\ of\\:\\ 0\\.02307927876243663\ \(0\)\

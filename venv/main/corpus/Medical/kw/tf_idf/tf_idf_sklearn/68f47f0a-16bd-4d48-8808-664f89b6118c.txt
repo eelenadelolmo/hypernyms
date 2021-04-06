@@ -1,95 +1,92 @@
-Texto: 
-tumor was initially treated on daily carboplatin and weekly vincristine with craniospinal irradiation. subsequent decrease in the size of lesion occurred then re-resection. patient then received stereotactic radiotherapy. ultimately, patient underwent high-dose chemotherapy with cytoxan and melphalan with autologous stem cell rescue.
-there is a large heterogeneous mass in the pineal region causing severe hydrocephalus of the lateral and third ventricles.
-
-the lobular mass is iso - to hypointense on t1-weighted imaging and iso- to hypointense on t2 weighted
-imaging with intense enhancement of most of the mass.
-medulloepithelioma
-pineoblastoma
-non germinomatous germ cell tumor
-pnet
-presents with headache and vomiting
-pt is alive 2 years from time of presentation/resection.  there is a stable cranial nerve iii palsy bilaterally and cognitive difficulties
-
-
-Keywords by value: 
-- iso: 0.23967205117802154
-- hypointense: 0.1885278039772011
-- craniospinal: 0.17130388276400865
-- melphalan: 0.17130388276400865
-- germinomatous: 0.17130388276400865
-- medulloepithelioma: 0.1636900052332544
-- weighted: 0.1598013516522787
-- carboplatin: 0.1540976539775013
-- cytoxan: 0.1540976539775013
-- then: 0.15165274283148042
-- rescue: 0.15067399562346284
-- alive: 0.15067399562346284
-- pineoblastoma: 0.13929189718120039
-- autologous: 0.1361549334420214
-- and: 0.13280687211030037
-- irradiation: 0.132255853934634
-- weekly: 0.1311174367524199
-- stereotactic: 0.127149446589657
-- vincristine: 0.12627588757140884
-- cognitive: 0.1238754155812024
-- mass: 0.12274784763911775
-- cell: 0.12255206191511517
-- difficulties: 0.1217473145106197
-- pineal: 0.11810142714262833
-- is: 0.11733920182629265
-- radiotherapy: 0.11601281742732898
-- pnet: 0.11504962514812662
-- stem: 0.11325987796161727
-- imaging: 0.11258753285994137
-- tumor: 0.11205712595003088
-- ultimately: 0.11202131050192302
-- lobular: 0.10873130490082812
-- palsy: 0.10712535819493209
-- the: 0.106868913899004
-- with: 0.1048745328638219
-- of: 0.10481190777390229
-- occurred: 0.10349758769522126
-- daily: 0.10156993438694165
-- intense: 0.10111742737007384
-- germ: 0.10003168380589311
-- on: 0.09705379003422966
-- ventricles: 0.09410934858514051
-- received: 0.09320782510525931
-- iii: 0.09248826839352312
-- decrease: 0.0920694079230452
-- causing: 0.08798997451024257
-- cranial: 0.08755069991765302
-- hydrocephalus: 0.08744246830669757
-- there: 0.08524328274784378
-- stable: 0.0847337300364033
-- initially: 0.0840008318445207
-- third: 0.08156086849903091
-- subsequent: 0.08109333897534896
-- vomiting: 0.0792616606976923
-- heterogeneous: 0.07752911551603404
-- pt: 0.07708873711739266
-- nerve: 0.0764169273967721
-- chemotherapy: 0.07606036986443515
-- headache: 0.07384208492718586
-- underwent: 0.07378985086703496
-- size: 0.07252910014130405
-- bilaterally: 0.07143952078249936
-- patient: 0.0696797607874611
-- severe: 0.0678098845038098
-- treated: 0.06670496979705913
-- years: 0.06566147176816807
-- region: 0.0640727275076011
-- time: 0.0634911251622957
-- enhancement: 0.06165485339427016
-- t2: 0.06162753974215822
-- most: 0.05574708676771528
-- large: 0.05367108476229449
-- to: 0.05355822935389042
-- in: 0.053294615859933475
-- lateral: 0.053159963726489116
-- presents: 0.05152895064253951
-- lesion: 0.05135441667996795
-- non: 0.05082498152390005
-- from: 0.04254245039723662
-- was: 0.03733143968301048
+\-\ Texto\\:\\ \ \(0\)\
+\-\ tumor\\ was\\ initially\\ treated\\ on\\ daily\\ carboplatin\\ and\\ weekly\\ vincristine\\ with\\ craniospinal\\ irradiation\\.\\ subsequent\\ decrease\\ in\\ the\\ size\\ of\\ lesion\\ occurred\\ then\\ re\\-resection\\.\\ patient\\ then\\ received\\ stereotactic\\ radiotherapy\\.\\ ultimately\\,\\ patient\\ underwent\\ high\\-dose\\ chemotherapy\\ with\\ cytoxan\\ and\\ melphalan\\ with\\ autologous\\ stem\\ cell\\ rescue\\.\ \(0\)\
+\-\ there\\ is\\ a\\ large\\ heterogeneous\\ mass\\ in\\ the\\ pineal\\ region\\ causing\\ severe\\ hydrocephalus\\ of\\ the\\ lateral\\ and\\ third\\ ventricles\\.\ \(0\)\
+\-\ the\\ lobular\\ mass\\ is\\ iso\\ \\-\\ to\\ hypointense\\ on\\ t1\\-weighted\\ imaging\\ and\\ iso\\-\\ to\\ hypointense\\ on\\ t2\\ weighted\ \(0\)\
+\-\ imaging\\ with\\ intense\\ enhancement\\ of\\ most\\ of\\ the\\ mass\\.\ \(1\)\
+\-\ medulloepithelioma\ \(1\)\
+\-\ pineoblastoma\ \(3\)\
+\-\ non\\ germinomatous\\ germ\\ cell\\ tumor\ \(0\)\
+\-\ pnet\ \(0\)\
+\-\ presents\\ with\\ headache\\ and\\ vomiting\ \(0\)\
+\-\ pt\\ is\\ alive\\ 2\\ years\\ from\\ time\\ of\\ presentation\\/resection\\.\\ \\ there\\ is\\ a\\ stable\\ cranial\\ nerve\\ iii\\ palsy\\ bilaterally\\ and\\ cognitive\\ difficulties\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ iso\\:\\ 0\\.23967205117802154\ \(0\)\
+\-\ hypointense\\:\\ 0\\.1885278039772011\ \(0\)\
+\-\ craniospinal\\:\\ 0\\.17130388276400865\ \(0\)\
+\-\ melphalan\\:\\ 0\\.17130388276400865\ \(0\)\
+\-\ germinomatous\\:\\ 0\\.17130388276400865\ \(0\)\
+\-\ medulloepithelioma\\:\\ 0\\.1636900052332544\ \(0\)\
+\-\ weighted\\:\\ 0\\.1598013516522787\ \(0\)\
+\-\ carboplatin\\:\\ 0\\.1540976539775013\ \(0\)\
+\-\ cytoxan\\:\\ 0\\.1540976539775013\ \(0\)\
+\-\ then\\:\\ 0\\.15165274283148042\ \(0\)\
+\-\ rescue\\:\\ 0\\.15067399562346284\ \(0\)\
+\-\ alive\\:\\ 0\\.15067399562346284\ \(0\)\
+\-\ pineoblastoma\\:\\ 0\\.13929189718120039\ \(0\)\
+\-\ autologous\\:\\ 0\\.1361549334420214\ \(0\)\
+\-\ and\\:\\ 0\\.13280687211030037\ \(0\)\
+\-\ irradiation\\:\\ 0\\.132255853934634\ \(0\)\
+\-\ weekly\\:\\ 0\\.1311174367524199\ \(0\)\
+\-\ stereotactic\\:\\ 0\\.127149446589657\ \(0\)\
+\-\ vincristine\\:\\ 0\\.12627588757140884\ \(0\)\
+\-\ cognitive\\:\\ 0\\.1238754155812024\ \(0\)\
+\-\ mass\\:\\ 0\\.12274784763911775\ \(0\)\
+\-\ cell\\:\\ 0\\.12255206191511517\ \(0\)\
+\-\ difficulties\\:\\ 0\\.1217473145106197\ \(0\)\
+\-\ pineal\\:\\ 0\\.11810142714262833\ \(0\)\
+\-\ is\\:\\ 0\\.11733920182629265\ \(0\)\
+\-\ radiotherapy\\:\\ 0\\.11601281742732898\ \(0\)\
+\-\ pnet\\:\\ 0\\.11504962514812662\ \(0\)\
+\-\ stem\\:\\ 0\\.11325987796161727\ \(0\)\
+\-\ imaging\\:\\ 0\\.11258753285994137\ \(0\)\
+\-\ tumor\\:\\ 0\\.11205712595003088\ \(0\)\
+\-\ ultimately\\:\\ 0\\.11202131050192302\ \(0\)\
+\-\ lobular\\:\\ 0\\.10873130490082812\ \(0\)\
+\-\ palsy\\:\\ 0\\.10712535819493209\ \(0\)\
+\-\ the\\:\\ 0\\.106868913899004\ \(0\)\
+\-\ with\\:\\ 0\\.1048745328638219\ \(0\)\
+\-\ of\\:\\ 0\\.10481190777390229\ \(0\)\
+\-\ occurred\\:\\ 0\\.10349758769522126\ \(0\)\
+\-\ daily\\:\\ 0\\.10156993438694165\ \(0\)\
+\-\ intense\\:\\ 0\\.10111742737007384\ \(0\)\
+\-\ germ\\:\\ 0\\.10003168380589311\ \(0\)\
+\-\ on\\:\\ 0\\.09705379003422966\ \(0\)\
+\-\ ventricles\\:\\ 0\\.09410934858514051\ \(0\)\
+\-\ received\\:\\ 0\\.09320782510525931\ \(0\)\
+\-\ iii\\:\\ 0\\.09248826839352312\ \(0\)\
+\-\ decrease\\:\\ 0\\.0920694079230452\ \(0\)\
+\-\ causing\\:\\ 0\\.08798997451024257\ \(0\)\
+\-\ cranial\\:\\ 0\\.08755069991765302\ \(0\)\
+\-\ hydrocephalus\\:\\ 0\\.08744246830669757\ \(0\)\
+\-\ there\\:\\ 0\\.08524328274784378\ \(0\)\
+\-\ stable\\:\\ 0\\.0847337300364033\ \(0\)\
+\-\ initially\\:\\ 0\\.0840008318445207\ \(0\)\
+\-\ third\\:\\ 0\\.08156086849903091\ \(0\)\
+\-\ subsequent\\:\\ 0\\.08109333897534896\ \(0\)\
+\-\ vomiting\\:\\ 0\\.0792616606976923\ \(0\)\
+\-\ heterogeneous\\:\\ 0\\.07752911551603404\ \(0\)\
+\-\ pt\\:\\ 0\\.07708873711739266\ \(0\)\
+\-\ nerve\\:\\ 0\\.0764169273967721\ \(0\)\
+\-\ chemotherapy\\:\\ 0\\.07606036986443515\ \(0\)\
+\-\ headache\\:\\ 0\\.07384208492718586\ \(0\)\
+\-\ underwent\\:\\ 0\\.07378985086703496\ \(0\)\
+\-\ size\\:\\ 0\\.07252910014130405\ \(0\)\
+\-\ bilaterally\\:\\ 0\\.07143952078249936\ \(0\)\
+\-\ patient\\:\\ 0\\.0696797607874611\ \(0\)\
+\-\ severe\\:\\ 0\\.0678098845038098\ \(0\)\
+\-\ treated\\:\\ 0\\.06670496979705913\ \(0\)\
+\-\ years\\:\\ 0\\.06566147176816807\ \(0\)\
+\-\ region\\:\\ 0\\.0640727275076011\ \(0\)\
+\-\ time\\:\\ 0\\.0634911251622957\ \(0\)\
+\-\ enhancement\\:\\ 0\\.06165485339427016\ \(0\)\
+\-\ t2\\:\\ 0\\.06162753974215822\ \(0\)\
+\-\ most\\:\\ 0\\.05574708676771528\ \(0\)\
+\-\ large\\:\\ 0\\.05367108476229449\ \(0\)\
+\-\ to\\:\\ 0\\.05355822935389042\ \(0\)\
+\-\ in\\:\\ 0\\.053294615859933475\ \(0\)\
+\-\ lateral\\:\\ 0\\.053159963726489116\ \(0\)\
+\-\ presents\\:\\ 0\\.05152895064253951\ \(0\)\
+\-\ lesion\\:\\ 0\\.05135441667996795\ \(0\)\
+\-\ non\\:\\ 0\\.05082498152390005\ \(0\)\
+\-\ from\\:\\ 0\\.04254245039723662\ \(0\)\
+\-\ was\\:\\ 0\\.03733143968301048\ \(0\)\

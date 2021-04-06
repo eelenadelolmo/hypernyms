@@ -1,82 +1,80 @@
-Texto: 
-knee demonstrates no evidence of ligamentous laxity.
-referral to orthapedics for evaluation.
-saggital t1 and pd images through the menisci demonstrate a complex tear of the medial meniscus with diffusely abnormal signal which appears to extend to both the superior and inferior articular surfaces. the abnormal signal is present within both the body and posterior horn of the medial meniscus.
-meniscal tear
-meniscal tear
-male staff physician injured left knee while playing basketball with his residents. patient has noticed that going up stairs his knee occasionally locks up. there is mild discomfort, but no sharp pains.
-see factoid
-
-
-Keywords by value: 
-- tear: 0.2908016684509061
-- knee: 0.2514842814371543
-- meniscus: 0.24289886785721473
-- meniscal: 0.24207048469218065
-- orthapedics: 0.18702794574341314
-- locks: 0.18702794574341314
-- residents: 0.17281719056485448
-- medial: 0.15225070083996417
-- pains: 0.1520775651325523
-- saggital: 0.14571883515836595
-- staff: 0.14571883515836595
-- his: 0.141854283441462
-- pd: 0.1408724430121616
-- menisci: 0.1408724430121616
-- abnormal: 0.14052356397632768
-- the: 0.1400141533830533
-- laxity: 0.1344419028558955
-- surfaces: 0.13366815872713847
-- going: 0.13366815872713847
-- signal: 0.13259085984758545
-- both: 0.13043373495084265
-- stairs: 0.12955405106760784
-- basketball: 0.1272084345289004
-- injured: 0.12319532109342149
-- ligamentous: 0.11945740354857982
-- referral: 0.11945740354857982
-- noticed: 0.11597416985061988
-- up: 0.11570116720397707
-- horn: 0.1153432958890492
-- sharp: 0.11503499254507533
-- playing: 0.11327661951749805
-- occasionally: 0.11218293163587006
-- diffusely: 0.10875802453777193
-- discomfort: 0.108093043454671
-- extend: 0.10787609131350016
-- articular: 0.10682448716753166
-- physician: 0.10258032696300363
-- complex: 0.09010805223457474
-- to: 0.08771154616073826
-- appears: 0.08564235996728847
-- factoid: 0.08167469425912582
-- inferior: 0.0795627700518976
-- body: 0.0769680081800902
-- no: 0.07606138900501408
-- superior: 0.07603382443751207
-- while: 0.07558222498867415
-- t1: 0.07286693822276263
-- see: 0.07274989631008101
-- and: 0.0724986382988638
-- evaluation: 0.07132245571447199
-- through: 0.06961733863382612
-- of: 0.06865958488777325
-- evidence: 0.06638079487442479
-- mild: 0.06629542992379273
-- is: 0.06405491083636461
-- demonstrate: 0.06079888003040634
-- posterior: 0.060475671244782814
-- present: 0.06001066234931971
-- demonstrates: 0.05875423098824432
-- but: 0.05783178324668357
-- images: 0.05409699789740574
-- within: 0.05386340115047313
-- has: 0.05341919117358412
-- which: 0.05317816813582899
-- male: 0.05207048174638174
-- that: 0.05075176105250724
-- there: 0.0465339016358355
-- with: 0.04580040598225535
-- left: 0.03989407530195034
-- patient: 0.03803784920019731
-- for: 0.03544654048835763
+\-\ Texto\\:\\ \ \(0\)\
+\-\ knee\\ demonstrates\\ no\\ evidence\\ of\\ ligamentous\\ laxity\\.\ \(0\)\
+\-\ referral\\ to\\ orthapedics\\ for\\ evaluation\\.\ \(0\)\
+\-\ saggital\\ t1\\ and\\ pd\\ images\\ through\\ the\\ menisci\\ demonstrate\\ a\\ complex\\ tear\\ of\\ the\\ medial\\ meniscus\\ with\\ diffusely\\ abnormal\\ signal\\ which\\ appears\\ to\\ extend\\ to\\ both\\ the\\ superior\\ and\\ inferior\\ articular\\ surfaces\\.\\ the\\ abnormal\\ signal\\ is\\ present\\ within\\ both\\ the\\ body\\ and\\ posterior\\ horn\\ of\\ the\\ medial\\ meniscus\\.\ \(0\)\
+\-\ meniscal\\ tear\ \(35\)\
+\-\ meniscal\\ tear\ \(35\)\
+\-\ male\\ staff\\ physician\\ injured\\ left\\ knee\\ while\\ playing\\ basketball\\ with\\ his\\ residents\\.\\ patient\\ has\\ noticed\\ that\\ going\\ up\\ stairs\\ his\\ knee\\ occasionally\\ locks\\ up\\.\\ there\\ is\\ mild\\ discomfort\\,\\ but\\ no\\ sharp\\ pains\\.\ \(0\)\
+\-\ see\\ factoid\ \(116\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ tear\\:\\ 0\\.2908016684509061\ \(0\)\
+\-\ knee\\:\\ 0\\.2514842814371543\ \(0\)\
+\-\ meniscus\\:\\ 0\\.24289886785721473\ \(0\)\
+\-\ meniscal\\:\\ 0\\.24207048469218065\ \(0\)\
+\-\ orthapedics\\:\\ 0\\.18702794574341314\ \(0\)\
+\-\ locks\\:\\ 0\\.18702794574341314\ \(0\)\
+\-\ residents\\:\\ 0\\.17281719056485448\ \(0\)\
+\-\ medial\\:\\ 0\\.15225070083996417\ \(0\)\
+\-\ pains\\:\\ 0\\.1520775651325523\ \(0\)\
+\-\ saggital\\:\\ 0\\.14571883515836595\ \(0\)\
+\-\ staff\\:\\ 0\\.14571883515836595\ \(0\)\
+\-\ his\\:\\ 0\\.141854283441462\ \(0\)\
+\-\ pd\\:\\ 0\\.1408724430121616\ \(0\)\
+\-\ menisci\\:\\ 0\\.1408724430121616\ \(0\)\
+\-\ abnormal\\:\\ 0\\.14052356397632768\ \(0\)\
+\-\ the\\:\\ 0\\.1400141533830533\ \(0\)\
+\-\ laxity\\:\\ 0\\.1344419028558955\ \(0\)\
+\-\ surfaces\\:\\ 0\\.13366815872713847\ \(0\)\
+\-\ going\\:\\ 0\\.13366815872713847\ \(0\)\
+\-\ signal\\:\\ 0\\.13259085984758545\ \(0\)\
+\-\ both\\:\\ 0\\.13043373495084265\ \(0\)\
+\-\ stairs\\:\\ 0\\.12955405106760784\ \(0\)\
+\-\ basketball\\:\\ 0\\.1272084345289004\ \(0\)\
+\-\ injured\\:\\ 0\\.12319532109342149\ \(0\)\
+\-\ ligamentous\\:\\ 0\\.11945740354857982\ \(0\)\
+\-\ referral\\:\\ 0\\.11945740354857982\ \(0\)\
+\-\ noticed\\:\\ 0\\.11597416985061988\ \(0\)\
+\-\ up\\:\\ 0\\.11570116720397707\ \(0\)\
+\-\ horn\\:\\ 0\\.1153432958890492\ \(0\)\
+\-\ sharp\\:\\ 0\\.11503499254507533\ \(0\)\
+\-\ playing\\:\\ 0\\.11327661951749805\ \(0\)\
+\-\ occasionally\\:\\ 0\\.11218293163587006\ \(0\)\
+\-\ diffusely\\:\\ 0\\.10875802453777193\ \(0\)\
+\-\ discomfort\\:\\ 0\\.108093043454671\ \(0\)\
+\-\ extend\\:\\ 0\\.10787609131350016\ \(0\)\
+\-\ articular\\:\\ 0\\.10682448716753166\ \(0\)\
+\-\ physician\\:\\ 0\\.10258032696300363\ \(0\)\
+\-\ complex\\:\\ 0\\.09010805223457474\ \(0\)\
+\-\ to\\:\\ 0\\.08771154616073826\ \(0\)\
+\-\ appears\\:\\ 0\\.08564235996728847\ \(0\)\
+\-\ factoid\\:\\ 0\\.08167469425912582\ \(0\)\
+\-\ inferior\\:\\ 0\\.0795627700518976\ \(0\)\
+\-\ body\\:\\ 0\\.0769680081800902\ \(0\)\
+\-\ no\\:\\ 0\\.07606138900501408\ \(0\)\
+\-\ superior\\:\\ 0\\.07603382443751207\ \(0\)\
+\-\ while\\:\\ 0\\.07558222498867415\ \(0\)\
+\-\ t1\\:\\ 0\\.07286693822276263\ \(0\)\
+\-\ see\\:\\ 0\\.07274989631008101\ \(0\)\
+\-\ and\\:\\ 0\\.0724986382988638\ \(0\)\
+\-\ evaluation\\:\\ 0\\.07132245571447199\ \(0\)\
+\-\ through\\:\\ 0\\.06961733863382612\ \(0\)\
+\-\ of\\:\\ 0\\.06865958488777325\ \(0\)\
+\-\ evidence\\:\\ 0\\.06638079487442479\ \(0\)\
+\-\ mild\\:\\ 0\\.06629542992379273\ \(0\)\
+\-\ is\\:\\ 0\\.06405491083636461\ \(0\)\
+\-\ demonstrate\\:\\ 0\\.06079888003040634\ \(0\)\
+\-\ posterior\\:\\ 0\\.060475671244782814\ \(0\)\
+\-\ present\\:\\ 0\\.06001066234931971\ \(0\)\
+\-\ demonstrates\\:\\ 0\\.05875423098824432\ \(0\)\
+\-\ but\\:\\ 0\\.05783178324668357\ \(0\)\
+\-\ images\\:\\ 0\\.05409699789740574\ \(0\)\
+\-\ within\\:\\ 0\\.05386340115047313\ \(0\)\
+\-\ has\\:\\ 0\\.05341919117358412\ \(0\)\
+\-\ which\\:\\ 0\\.05317816813582899\ \(0\)\
+\-\ male\\:\\ 0\\.05207048174638174\ \(0\)\
+\-\ that\\:\\ 0\\.05075176105250724\ \(0\)\
+\-\ there\\:\\ 0\\.0465339016358355\ \(0\)\
+\-\ with\\:\\ 0\\.04580040598225535\ \(0\)\
+\-\ left\\:\\ 0\\.03989407530195034\ \(0\)\
+\-\ patient\\:\\ 0\\.03803784920019731\ \(0\)\
+\-\ for\\:\\ 0\\.03544654048835763\ \(0\)\

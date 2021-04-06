@@ -1,114 +1,112 @@
-Texto: 
-patient has leukocytosis, fever, and increased creatinine level from baseline.
-percutaneous nephrostomy to relieve obstruction:
-after access was gained in the right renal collecting system, frank pus was aspirated.  the nephrostomy tube was placed uneventfully after draining the pus. three days later, the patient's wbc and serum creatinine levels had returned to baseline.
-noncontrast ct of the abdomen demonstrates a dilated right collecting system with perinephric stranding and a large calculus in the dilated ureter at the anastamosis with the ileal diversion.  fluoroscopic spot image demonstrates an opacified right renal collecting system and proximal ureter with a right percutaneous nephrostomy tube placed the evening of presentation.
-obstructive nephropathy
-Â» nephrolithiasis
-Â» anastomotic stenosis
-Â» ileitis
-57 year old man has fevers, chills, right sided flank, and abdominal pain.  previous history of transitional cell carcinoma treated with cystectomy, left nephrectomy, and right urinary diversion to ileostomy.
-as this was the patient's only kidney, it was imperative to relieve the obstruction promptly to retain renal function.
-
-
-Keywords by value: 
-- nephrostomy: 0.305619163719637
-- collecting: 0.227821895977816
-- diversion: 0.22342476676278009
-- pus: 0.18965211614192487
-- system: 0.1853248641018095
-- relieve: 0.17773233877369526
-- the: 0.17773038837917224
-- baseline: 0.17123545747847338
-- creatinine: 0.1649003447220994
-- right: 0.161077996017492
-- ureter: 0.15887664607629026
-- percutaneous: 0.1560949527169181
-- renal: 0.15127496459723455
-- was: 0.1411017358374844
-- tube: 0.1294078629969552
-- placed: 0.1261957088489776
-- retain: 0.11965621392441547
-- dilated: 0.11599048115971167
-- anastamosis: 0.11390057553936614
-- obstruction: 0.11343583245281115
-- uneventfully: 0.11171238338139004
-- ileostomy: 0.11171238338139004
-- gained: 0.10981688511623779
-- cystectomy: 0.10981688511623779
-- imperative: 0.10814493715431679
-- anastomotic: 0.10664932873805079
-- ileitis: 0.10664932873805079
-- promptly: 0.10187305457321233
-- to: 0.10121708664848662
-- aspirated: 0.10089369035300144
-- evening: 0.10089369035300144
-- nephropathy: 0.10089369035300144
-- and: 0.10039409326310238
-- opacified: 0.09680999992987309
-- ileal: 0.09422191792301073
-- calculus: 0.09254996996108975
-- access: 0.09058890506261362
-- perinephric: 0.09058890506261362
-- leukocytosis: 0.08846627953796139
-- transitional: 0.0873300612259132
-- nephrolithiasis: 0.08498672926278474
-- frank: 0.08297597880123686
-- nephrectomy: 0.08271064115291205
-- demonstrates: 0.08136122117383413
-- fluoroscopic: 0.08007881442459786
-- spot: 0.07902684057866993
-- patient: 0.0790106297801792
-- after: 0.07856392605583806
-- draining: 0.07843115244101688
-- noncontrast: 0.07823801815730196
-- 57: 0.07643875857180757
-- returned: 0.0761047396108535
-- obstructive: 0.0753025402597594
-- has: 0.07397340676403225
-- chills: 0.07368268465309577
-- serum: 0.07261084355287199
-- stranding: 0.07248237977225261
-- fevers: 0.07149449249511967
-- flank: 0.07102518856719492
-- urinary: 0.07002276154600964
-- function: 0.06554142184710003
-- levels: 0.06419561091461662
-- with: 0.06342312542086127
-- stenosis: 0.061595645147430884
-- previous: 0.061185859759017205
-- later: 0.05794922708453459
-- wbc: 0.05723260043005545
-- kidney: 0.05688741257902557
-- presentation: 0.05574136042461858
-- fever: 0.054901617446285376
-- three: 0.054356282106438926
-- sided: 0.05208680038700392
-- image: 0.05178604441478277
-- days: 0.0512602379745956
-- proximal: 0.050588152649266666
-- only: 0.050588152649266666
-- treated: 0.05042498819907818
-- abdomen: 0.04940782062529393
-- level: 0.04891316601648377
-- carcinoma: 0.0484351696475242
-- of: 0.047538939560586406
-- cell: 0.04632103346004984
-- abdominal: 0.04428699566950631
-- increased: 0.04378705404703546
-- man: 0.042868802744893166
-- it: 0.041449615244708686
-- large: 0.04057214663321445
-- had: 0.040344376229801304
-- in: 0.04028755854305222
-- as: 0.0325302523483811
-- from: 0.03215956121061166
-- an: 0.030964302633342197
-- history: 0.030936872381565683
-- ct: 0.030827678374845156
-- at: 0.030585020314149076
-- pain: 0.02897558648669555
-- this: 0.027824229614906347
-- left: 0.02762210167312894
-- year: 0.024954686722751977
-- old: 0.023965137533023484
+\-\ Texto\\:\\ \ \(0\)\
+\-\ patient\\ has\\ leukocytosis\\,\\ fever\\,\\ and\\ increased\\ creatinine\\ level\\ from\\ baseline\\.\ \(0\)\
+\-\ percutaneous\\ nephrostomy\\ to\\ relieve\\ obstruction\\:\ \(0\)\
+\-\ after\\ access\\ was\\ gained\\ in\\ the\\ right\\ renal\\ collecting\\ system\\,\\ frank\\ pus\\ was\\ aspirated\\.\\ \\ the\\ nephrostomy\\ tube\\ was\\ placed\\ uneventfully\\ after\\ draining\\ the\\ pus\\.\\ three\\ days\\ later\\,\\ the\\ patient\\'s\\ wbc\\ and\\ serum\\ creatinine\\ levels\\ had\\ returned\\ to\\ baseline\\.\ \(0\)\
+\-\ noncontrast\\ ct\\ of\\ the\\ abdomen\\ demonstrates\\ a\\ dilated\\ right\\ collecting\\ system\\ with\\ perinephric\\ stranding\\ and\\ a\\ large\\ calculus\\ in\\ the\\ dilated\\ ureter\\ at\\ the\\ anastamosis\\ with\\ the\\ ileal\\ diversion\\.\\ \\ fluoroscopic\\ spot\\ image\\ demonstrates\\ an\\ opacified\\ right\\ renal\\ collecting\\ system\\ and\\ proximal\\ ureter\\ with\\ a\\ right\\ percutaneous\\ nephrostomy\\ tube\\ placed\\ the\\ evening\\ of\\ presentation\\.\ \(0\)\
+\-\ obstructive\\ nephropathy\ \(2\)\
+\-\ \\Â\\»\\ nephrolithiasis\ \(0\)\
+\-\ \\Â\\»\\ anastomotic\\ stenosis\ \(0\)\
+\-\ \\Â\\»\\ ileitis\ \(0\)\
+\-\ 57\\ year\\ old\\ man\\ has\\ fevers\\,\\ chills\\,\\ right\\ sided\\ flank\\,\\ and\\ abdominal\\ pain\\.\\ \\ previous\\ history\\ of\\ transitional\\ cell\\ carcinoma\\ treated\\ with\\ cystectomy\\,\\ left\\ nephrectomy\\,\\ and\\ right\\ urinary\\ diversion\\ to\\ ileostomy\\.\ \(0\)\
+\-\ as\\ this\\ was\\ the\\ patient\\'s\\ only\\ kidney\\,\\ it\\ was\\ imperative\\ to\\ relieve\\ the\\ obstruction\\ promptly\\ to\\ retain\\ renal\\ function\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ nephrostomy\\:\\ 0\\.305619163719637\ \(0\)\
+\-\ collecting\\:\\ 0\\.227821895977816\ \(0\)\
+\-\ diversion\\:\\ 0\\.22342476676278009\ \(0\)\
+\-\ pus\\:\\ 0\\.18965211614192487\ \(0\)\
+\-\ system\\:\\ 0\\.1853248641018095\ \(0\)\
+\-\ relieve\\:\\ 0\\.17773233877369526\ \(0\)\
+\-\ the\\:\\ 0\\.17773038837917224\ \(0\)\
+\-\ baseline\\:\\ 0\\.17123545747847338\ \(0\)\
+\-\ creatinine\\:\\ 0\\.1649003447220994\ \(0\)\
+\-\ right\\:\\ 0\\.161077996017492\ \(0\)\
+\-\ ureter\\:\\ 0\\.15887664607629026\ \(0\)\
+\-\ percutaneous\\:\\ 0\\.1560949527169181\ \(0\)\
+\-\ renal\\:\\ 0\\.15127496459723455\ \(0\)\
+\-\ was\\:\\ 0\\.1411017358374844\ \(0\)\
+\-\ tube\\:\\ 0\\.1294078629969552\ \(0\)\
+\-\ placed\\:\\ 0\\.1261957088489776\ \(0\)\
+\-\ retain\\:\\ 0\\.11965621392441547\ \(0\)\
+\-\ dilated\\:\\ 0\\.11599048115971167\ \(0\)\
+\-\ anastamosis\\:\\ 0\\.11390057553936614\ \(0\)\
+\-\ obstruction\\:\\ 0\\.11343583245281115\ \(0\)\
+\-\ uneventfully\\:\\ 0\\.11171238338139004\ \(0\)\
+\-\ ileostomy\\:\\ 0\\.11171238338139004\ \(0\)\
+\-\ gained\\:\\ 0\\.10981688511623779\ \(0\)\
+\-\ cystectomy\\:\\ 0\\.10981688511623779\ \(0\)\
+\-\ imperative\\:\\ 0\\.10814493715431679\ \(0\)\
+\-\ anastomotic\\:\\ 0\\.10664932873805079\ \(0\)\
+\-\ ileitis\\:\\ 0\\.10664932873805079\ \(0\)\
+\-\ promptly\\:\\ 0\\.10187305457321233\ \(0\)\
+\-\ to\\:\\ 0\\.10121708664848662\ \(0\)\
+\-\ aspirated\\:\\ 0\\.10089369035300144\ \(0\)\
+\-\ evening\\:\\ 0\\.10089369035300144\ \(0\)\
+\-\ nephropathy\\:\\ 0\\.10089369035300144\ \(0\)\
+\-\ and\\:\\ 0\\.10039409326310238\ \(0\)\
+\-\ opacified\\:\\ 0\\.09680999992987309\ \(0\)\
+\-\ ileal\\:\\ 0\\.09422191792301073\ \(0\)\
+\-\ calculus\\:\\ 0\\.09254996996108975\ \(0\)\
+\-\ access\\:\\ 0\\.09058890506261362\ \(0\)\
+\-\ perinephric\\:\\ 0\\.09058890506261362\ \(0\)\
+\-\ leukocytosis\\:\\ 0\\.08846627953796139\ \(0\)\
+\-\ transitional\\:\\ 0\\.0873300612259132\ \(0\)\
+\-\ nephrolithiasis\\:\\ 0\\.08498672926278474\ \(0\)\
+\-\ frank\\:\\ 0\\.08297597880123686\ \(0\)\
+\-\ nephrectomy\\:\\ 0\\.08271064115291205\ \(0\)\
+\-\ demonstrates\\:\\ 0\\.08136122117383413\ \(0\)\
+\-\ fluoroscopic\\:\\ 0\\.08007881442459786\ \(0\)\
+\-\ spot\\:\\ 0\\.07902684057866993\ \(0\)\
+\-\ patient\\:\\ 0\\.0790106297801792\ \(0\)\
+\-\ after\\:\\ 0\\.07856392605583806\ \(0\)\
+\-\ draining\\:\\ 0\\.07843115244101688\ \(0\)\
+\-\ noncontrast\\:\\ 0\\.07823801815730196\ \(0\)\
+\-\ 57\\:\\ 0\\.07643875857180757\ \(0\)\
+\-\ returned\\:\\ 0\\.0761047396108535\ \(0\)\
+\-\ obstructive\\:\\ 0\\.0753025402597594\ \(0\)\
+\-\ has\\:\\ 0\\.07397340676403225\ \(0\)\
+\-\ chills\\:\\ 0\\.07368268465309577\ \(0\)\
+\-\ serum\\:\\ 0\\.07261084355287199\ \(0\)\
+\-\ stranding\\:\\ 0\\.07248237977225261\ \(0\)\
+\-\ fevers\\:\\ 0\\.07149449249511967\ \(0\)\
+\-\ flank\\:\\ 0\\.07102518856719492\ \(0\)\
+\-\ urinary\\:\\ 0\\.07002276154600964\ \(0\)\
+\-\ function\\:\\ 0\\.06554142184710003\ \(0\)\
+\-\ levels\\:\\ 0\\.06419561091461662\ \(0\)\
+\-\ with\\:\\ 0\\.06342312542086127\ \(0\)\
+\-\ stenosis\\:\\ 0\\.061595645147430884\ \(0\)\
+\-\ previous\\:\\ 0\\.061185859759017205\ \(0\)\
+\-\ later\\:\\ 0\\.05794922708453459\ \(0\)\
+\-\ wbc\\:\\ 0\\.05723260043005545\ \(0\)\
+\-\ kidney\\:\\ 0\\.05688741257902557\ \(0\)\
+\-\ presentation\\:\\ 0\\.05574136042461858\ \(0\)\
+\-\ fever\\:\\ 0\\.054901617446285376\ \(0\)\
+\-\ three\\:\\ 0\\.054356282106438926\ \(0\)\
+\-\ sided\\:\\ 0\\.05208680038700392\ \(0\)\
+\-\ image\\:\\ 0\\.05178604441478277\ \(0\)\
+\-\ days\\:\\ 0\\.0512602379745956\ \(0\)\
+\-\ proximal\\:\\ 0\\.050588152649266666\ \(0\)\
+\-\ only\\:\\ 0\\.050588152649266666\ \(0\)\
+\-\ treated\\:\\ 0\\.05042498819907818\ \(0\)\
+\-\ abdomen\\:\\ 0\\.04940782062529393\ \(0\)\
+\-\ level\\:\\ 0\\.04891316601648377\ \(0\)\
+\-\ carcinoma\\:\\ 0\\.0484351696475242\ \(0\)\
+\-\ of\\:\\ 0\\.047538939560586406\ \(0\)\
+\-\ cell\\:\\ 0\\.04632103346004984\ \(0\)\
+\-\ abdominal\\:\\ 0\\.04428699566950631\ \(0\)\
+\-\ increased\\:\\ 0\\.04378705404703546\ \(0\)\
+\-\ man\\:\\ 0\\.042868802744893166\ \(0\)\
+\-\ it\\:\\ 0\\.041449615244708686\ \(0\)\
+\-\ large\\:\\ 0\\.04057214663321445\ \(0\)\
+\-\ had\\:\\ 0\\.040344376229801304\ \(0\)\
+\-\ in\\:\\ 0\\.04028755854305222\ \(0\)\
+\-\ as\\:\\ 0\\.0325302523483811\ \(0\)\
+\-\ from\\:\\ 0\\.03215956121061166\ \(0\)\
+\-\ an\\:\\ 0\\.030964302633342197\ \(0\)\
+\-\ history\\:\\ 0\\.030936872381565683\ \(0\)\
+\-\ ct\\:\\ 0\\.030827678374845156\ \(0\)\
+\-\ at\\:\\ 0\\.030585020314149076\ \(0\)\
+\-\ pain\\:\\ 0\\.02897558648669555\ \(0\)\
+\-\ this\\:\\ 0\\.027824229614906347\ \(0\)\
+\-\ left\\:\\ 0\\.02762210167312894\ \(0\)\
+\-\ year\\:\\ 0\\.024954686722751977\ \(0\)\
+\-\ old\\:\\ 0\\.023965137533023484\ \(0\)\

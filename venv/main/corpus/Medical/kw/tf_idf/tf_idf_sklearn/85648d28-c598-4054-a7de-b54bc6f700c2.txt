@@ -1,129 +1,127 @@
-Texto: 
-the pts pe was unremarkable. the patient was well-developed with clear lung sounds. 
-laboratory tests were within normal limits.
-pt underwent primary closure for a small fistula.  the pt undergoes frequent barium swallows to evaluate for recurrent fistulas or strictures.  he is growing and developing normally.  he has no other associated abnormalities.
-lateral projections of the barium swallow demonstrate a linear filling defect seen in the mid-esophagus, consistent with stricture.  there is a small amount of contrast seen exiting the esophagus anteriorly, just distal to the stricture and extending superiorly along the trachea.  these findings are consistent with a tracheoesophageal fistula, and confirmed by direct visualization at surgery.
-tracheoesophageal fistula
-- recurrent tracheoesophageal fistula
-- gastroesophageal reflux
-- foreign body
-- laryngotracheal cleft
-- aspiration
-- esophageal webs/ rings
-pt is a 15 month old male brought to the ed by his mother, complaining of vomiting, wheezing and coughing with feedings. the patient has a history of a te fistula found at birth and repaired at day 1 of life.  later, he was found to have an esophageal stricture and underwent esophageal dilatation.  the patient also has a history of tracheomalacia.
-
-
-Keywords by value: 
-- fistula: 0.3596577014077879
-- tracheoesophageal: 0.31908893436739993
-- stricture: 0.2314164075743993
-- esophageal: 0.20414242204307445
-- the: 0.17480183454077503
-- pt: 0.17194283988062195
-- barium: 0.14183145746846626
-- he: 0.1414797564396194
-- esophagus: 0.13117077628695614
-- recurrent: 0.1277152774441527
-- laryngotracheal: 0.11768457774125002
-- tracheomalacia: 0.11768457774125002
-- swallows: 0.11456921479759202
-- feedings: 0.11202377793185835
-- underwent: 0.10972321843526475
-- has: 0.1091317640796237
-- te: 0.10489201360535677
-- undergoes: 0.10356136434138735
-- found: 0.10306148619020368
-- exiting: 0.10122908047353087
-- and: 0.09873984882094866
-- coughing: 0.09748377984515545
-- pts: 0.09593093092809533
-- fistulas: 0.09521481241312152
-- of: 0.09351123263833867
-- projections: 0.09326356097141558
-- rings: 0.09326356097141558
-- strictures: 0.09155187928129561
-- at: 0.09024316622165189
-- repaired: 0.0878065786529202
-- consistent: 0.08636532752262586
-- gastroesophageal: 0.08625372973586007
-- closure: 0.08420696195691683
-- was: 0.08326603854145576
-- swallow: 0.08299217435515258
-- wheezing: 0.08242224827722826
-- small: 0.08216204075758003
-- superiorly: 0.08011145979494169
-- to: 0.07963942506120776
-- brought: 0.07854616214752515
-- growing: 0.07812937746068495
-- patient: 0.07770873152165922
-- trachea: 0.07713880252479977
-- tests: 0.07621387827966868
-- developing: 0.07621387827966868
-- visualization: 0.07621387827966868
-- seen: 0.0749877821821824
-- frequent: 0.07302710213595857
-- normally: 0.07260612802668041
-- anteriorly: 0.0721974768968251
-- foreign: 0.0721974768968251
-- complaining: 0.07206387539720172
-- cleft: 0.07193154028155758
-- birth: 0.07116283695801616
-- direct: 0.07019961021925931
-- aspiration: 0.06962968414133498
-- reflux: 0.06897513066974746
-- mother: 0.06804747401435815
-- by: 0.06763956897829064
-- pe: 0.06583846909469752
-- is: 0.06542990696751931
-- life: 0.06533681332479169
-- dilatation: 0.06501211845395358
-- linear: 0.0641562864768336
-- amount: 0.06371067683697519
-- just: 0.06371067683697519
-- ed: 0.06371067683697519
-- limits: 0.06292892683444515
-- with: 0.062378070385038384
-- evaluate: 0.061928887285513816
-- filling: 0.06167388019296578
-- sounds: 0.06148563576578091
-- history: 0.060854219658985964
-- vomiting: 0.0589298149277056
-- confirmed: 0.05872374107314057
-- defect: 0.05842022368102328
-- laboratory: 0.057832294699031554
-- clear: 0.05773666932402754
-- abnormalities: 0.05768910113433162
-- later: 0.05699436825055449
-- extending: 0.053996975623506485
-- 15: 0.05381589331618799
-- unremarkable: 0.05339064470052249
-- along: 0.053355785131426185
-- body: 0.05241346368757074
-- day: 0.05072934617258365
-- primary: 0.04897003968856895
-- lung: 0.04844596340610462
-- month: 0.04844596340610462
-- his: 0.04829977096905513
-- for: 0.04827657637675824
-- distal: 0.046272848609472964
-- these: 0.04497272409156817
-- surgery: 0.042817859747885545
-- associated: 0.04197627895858037
-- demonstrate: 0.04140265502600067
-- other: 0.0413583569978169
-- were: 0.04105214498034839
-- have: 0.03978457376119382
-- lateral: 0.039523608216005424
-- findings: 0.03930555945408825
-- contrast: 0.038695474643113
-- also: 0.03746039747206096
-- within: 0.03667975158826659
-- male: 0.03545881423646185
-- normal: 0.03251649873699812
-- there: 0.031688529056436786
-- an: 0.03045408809908535
-- are: 0.03021977727412347
-- or: 0.027705355575441567
-- no: 0.025898038320756153
-- old: 0.023570251795417805
-- in: 0.019811859993998853
+\-\ Texto\\:\\ \ \(0\)\
+\-\ the\\ pts\\ pe\\ was\\ unremarkable\\.\\ the\\ patient\\ was\\ well\\-developed\\ with\\ clear\\ lung\\ sounds\\.\\ \ \(0\)\
+\-\ laboratory\\ tests\\ were\\ within\\ normal\\ limits\\.\ \(0\)\
+\-\ pt\\ underwent\\ primary\\ closure\\ for\\ a\\ small\\ fistula\\.\\ \\ the\\ pt\\ undergoes\\ frequent\\ barium\\ swallows\\ to\\ evaluate\\ for\\ recurrent\\ fistulas\\ or\\ strictures\\.\\ \\ he\\ is\\ growing\\ and\\ developing\\ normally\\.\\ \\ he\\ has\\ no\\ other\\ associated\\ abnormalities\\.\ \(0\)\
+\-\ lateral\\ projections\\ of\\ the\\ barium\\ swallow\\ demonstrate\\ a\\ linear\\ filling\\ defect\\ seen\\ in\\ the\\ mid\\-esophagus\\,\\ consistent\\ with\\ stricture\\.\\ \\ there\\ is\\ a\\ small\\ amount\\ of\\ contrast\\ seen\\ exiting\\ the\\ esophagus\\ anteriorly\\,\\ just\\ distal\\ to\\ the\\ stricture\\ and\\ extending\\ superiorly\\ along\\ the\\ trachea\\.\\ \\ these\\ findings\\ are\\ consistent\\ with\\ a\\ tracheoesophageal\\ fistula\\,\\ and\\ confirmed\\ by\\ direct\\ visualization\\ at\\ surgery\\.\ \(0\)\
+\-\ tracheoesophageal\\ fistula\ \(7\)\
+\-\ recurrent\\ tracheoesophageal\\ fistula\ \(0\)\
+\-\ gastroesophageal\\ reflux\ \(18\)\
+\-\ foreign\\ body\ \(86\)\
+\-\ laryngotracheal\\ cleft\ \(0\)\
+\-\ aspiration\ \(122\)\
+\-\ esophageal\\ webs\\/\\ rings\ \(0\)\
+\-\ pt\\ is\\ a\\ 15\\ month\\ old\\ male\\ brought\\ to\\ the\\ ed\\ by\\ his\\ mother\\,\\ complaining\\ of\\ vomiting\\,\\ wheezing\\ and\\ coughing\\ with\\ feedings\\.\\ the\\ patient\\ has\\ a\\ history\\ of\\ a\\ te\\ fistula\\ found\\ at\\ birth\\ and\\ repaired\\ at\\ day\\ 1\\ of\\ life\\.\\ \\ later\\,\\ he\\ was\\ found\\ to\\ have\\ an\\ esophageal\\ stricture\\ and\\ underwent\\ esophageal\\ dilatation\\.\\ \\ the\\ patient\\ also\\ has\\ a\\ history\\ of\\ tracheomalacia\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ fistula\\:\\ 0\\.3596577014077879\ \(0\)\
+\-\ tracheoesophageal\\:\\ 0\\.31908893436739993\ \(0\)\
+\-\ stricture\\:\\ 0\\.2314164075743993\ \(0\)\
+\-\ esophageal\\:\\ 0\\.20414242204307445\ \(0\)\
+\-\ the\\:\\ 0\\.17480183454077503\ \(0\)\
+\-\ pt\\:\\ 0\\.17194283988062195\ \(0\)\
+\-\ barium\\:\\ 0\\.14183145746846626\ \(0\)\
+\-\ he\\:\\ 0\\.1414797564396194\ \(0\)\
+\-\ esophagus\\:\\ 0\\.13117077628695614\ \(0\)\
+\-\ recurrent\\:\\ 0\\.1277152774441527\ \(0\)\
+\-\ laryngotracheal\\:\\ 0\\.11768457774125002\ \(0\)\
+\-\ tracheomalacia\\:\\ 0\\.11768457774125002\ \(0\)\
+\-\ swallows\\:\\ 0\\.11456921479759202\ \(0\)\
+\-\ feedings\\:\\ 0\\.11202377793185835\ \(0\)\
+\-\ underwent\\:\\ 0\\.10972321843526475\ \(0\)\
+\-\ has\\:\\ 0\\.1091317640796237\ \(0\)\
+\-\ te\\:\\ 0\\.10489201360535677\ \(0\)\
+\-\ undergoes\\:\\ 0\\.10356136434138735\ \(0\)\
+\-\ found\\:\\ 0\\.10306148619020368\ \(0\)\
+\-\ exiting\\:\\ 0\\.10122908047353087\ \(0\)\
+\-\ and\\:\\ 0\\.09873984882094866\ \(0\)\
+\-\ coughing\\:\\ 0\\.09748377984515545\ \(0\)\
+\-\ pts\\:\\ 0\\.09593093092809533\ \(0\)\
+\-\ fistulas\\:\\ 0\\.09521481241312152\ \(0\)\
+\-\ of\\:\\ 0\\.09351123263833867\ \(0\)\
+\-\ projections\\:\\ 0\\.09326356097141558\ \(0\)\
+\-\ rings\\:\\ 0\\.09326356097141558\ \(0\)\
+\-\ strictures\\:\\ 0\\.09155187928129561\ \(0\)\
+\-\ at\\:\\ 0\\.09024316622165189\ \(0\)\
+\-\ repaired\\:\\ 0\\.0878065786529202\ \(0\)\
+\-\ consistent\\:\\ 0\\.08636532752262586\ \(0\)\
+\-\ gastroesophageal\\:\\ 0\\.08625372973586007\ \(0\)\
+\-\ closure\\:\\ 0\\.08420696195691683\ \(0\)\
+\-\ was\\:\\ 0\\.08326603854145576\ \(0\)\
+\-\ swallow\\:\\ 0\\.08299217435515258\ \(0\)\
+\-\ wheezing\\:\\ 0\\.08242224827722826\ \(0\)\
+\-\ small\\:\\ 0\\.08216204075758003\ \(0\)\
+\-\ superiorly\\:\\ 0\\.08011145979494169\ \(0\)\
+\-\ to\\:\\ 0\\.07963942506120776\ \(0\)\
+\-\ brought\\:\\ 0\\.07854616214752515\ \(0\)\
+\-\ growing\\:\\ 0\\.07812937746068495\ \(0\)\
+\-\ patient\\:\\ 0\\.07770873152165922\ \(0\)\
+\-\ trachea\\:\\ 0\\.07713880252479977\ \(0\)\
+\-\ tests\\:\\ 0\\.07621387827966868\ \(0\)\
+\-\ developing\\:\\ 0\\.07621387827966868\ \(0\)\
+\-\ visualization\\:\\ 0\\.07621387827966868\ \(0\)\
+\-\ seen\\:\\ 0\\.0749877821821824\ \(0\)\
+\-\ frequent\\:\\ 0\\.07302710213595857\ \(0\)\
+\-\ normally\\:\\ 0\\.07260612802668041\ \(0\)\
+\-\ anteriorly\\:\\ 0\\.0721974768968251\ \(0\)\
+\-\ foreign\\:\\ 0\\.0721974768968251\ \(0\)\
+\-\ complaining\\:\\ 0\\.07206387539720172\ \(0\)\
+\-\ cleft\\:\\ 0\\.07193154028155758\ \(0\)\
+\-\ birth\\:\\ 0\\.07116283695801616\ \(0\)\
+\-\ direct\\:\\ 0\\.07019961021925931\ \(0\)\
+\-\ aspiration\\:\\ 0\\.06962968414133498\ \(0\)\
+\-\ reflux\\:\\ 0\\.06897513066974746\ \(0\)\
+\-\ mother\\:\\ 0\\.06804747401435815\ \(0\)\
+\-\ by\\:\\ 0\\.06763956897829064\ \(0\)\
+\-\ pe\\:\\ 0\\.06583846909469752\ \(0\)\
+\-\ is\\:\\ 0\\.06542990696751931\ \(0\)\
+\-\ life\\:\\ 0\\.06533681332479169\ \(0\)\
+\-\ dilatation\\:\\ 0\\.06501211845395358\ \(0\)\
+\-\ linear\\:\\ 0\\.0641562864768336\ \(0\)\
+\-\ amount\\:\\ 0\\.06371067683697519\ \(0\)\
+\-\ just\\:\\ 0\\.06371067683697519\ \(0\)\
+\-\ ed\\:\\ 0\\.06371067683697519\ \(0\)\
+\-\ limits\\:\\ 0\\.06292892683444515\ \(0\)\
+\-\ with\\:\\ 0\\.062378070385038384\ \(0\)\
+\-\ evaluate\\:\\ 0\\.061928887285513816\ \(0\)\
+\-\ filling\\:\\ 0\\.06167388019296578\ \(0\)\
+\-\ sounds\\:\\ 0\\.06148563576578091\ \(0\)\
+\-\ history\\:\\ 0\\.060854219658985964\ \(0\)\
+\-\ vomiting\\:\\ 0\\.0589298149277056\ \(0\)\
+\-\ confirmed\\:\\ 0\\.05872374107314057\ \(0\)\
+\-\ defect\\:\\ 0\\.05842022368102328\ \(0\)\
+\-\ laboratory\\:\\ 0\\.057832294699031554\ \(0\)\
+\-\ clear\\:\\ 0\\.05773666932402754\ \(0\)\
+\-\ abnormalities\\:\\ 0\\.05768910113433162\ \(0\)\
+\-\ later\\:\\ 0\\.05699436825055449\ \(0\)\
+\-\ extending\\:\\ 0\\.053996975623506485\ \(0\)\
+\-\ 15\\:\\ 0\\.05381589331618799\ \(0\)\
+\-\ unremarkable\\:\\ 0\\.05339064470052249\ \(0\)\
+\-\ along\\:\\ 0\\.053355785131426185\ \(0\)\
+\-\ body\\:\\ 0\\.05241346368757074\ \(0\)\
+\-\ day\\:\\ 0\\.05072934617258365\ \(0\)\
+\-\ primary\\:\\ 0\\.04897003968856895\ \(0\)\
+\-\ lung\\:\\ 0\\.04844596340610462\ \(0\)\
+\-\ month\\:\\ 0\\.04844596340610462\ \(0\)\
+\-\ his\\:\\ 0\\.04829977096905513\ \(0\)\
+\-\ for\\:\\ 0\\.04827657637675824\ \(0\)\
+\-\ distal\\:\\ 0\\.046272848609472964\ \(0\)\
+\-\ these\\:\\ 0\\.04497272409156817\ \(0\)\
+\-\ surgery\\:\\ 0\\.042817859747885545\ \(0\)\
+\-\ associated\\:\\ 0\\.04197627895858037\ \(0\)\
+\-\ demonstrate\\:\\ 0\\.04140265502600067\ \(0\)\
+\-\ other\\:\\ 0\\.0413583569978169\ \(0\)\
+\-\ were\\:\\ 0\\.04105214498034839\ \(0\)\
+\-\ have\\:\\ 0\\.03978457376119382\ \(0\)\
+\-\ lateral\\:\\ 0\\.039523608216005424\ \(0\)\
+\-\ findings\\:\\ 0\\.03930555945408825\ \(0\)\
+\-\ contrast\\:\\ 0\\.038695474643113\ \(0\)\
+\-\ also\\:\\ 0\\.03746039747206096\ \(0\)\
+\-\ within\\:\\ 0\\.03667975158826659\ \(0\)\
+\-\ male\\:\\ 0\\.03545881423646185\ \(0\)\
+\-\ normal\\:\\ 0\\.03251649873699812\ \(0\)\
+\-\ there\\:\\ 0\\.031688529056436786\ \(0\)\
+\-\ an\\:\\ 0\\.03045408809908535\ \(0\)\
+\-\ are\\:\\ 0\\.03021977727412347\ \(0\)\
+\-\ or\\:\\ 0\\.027705355575441567\ \(0\)\
+\-\ no\\:\\ 0\\.025898038320756153\ \(0\)\
+\-\ old\\:\\ 0\\.023570251795417805\ \(0\)\
+\-\ in\\:\\ 0\\.019811859993998853\ \(0\)\

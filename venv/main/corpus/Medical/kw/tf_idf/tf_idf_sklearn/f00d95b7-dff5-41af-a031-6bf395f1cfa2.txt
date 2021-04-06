@@ -1,71 +1,69 @@
-Texto: 
-abdominal tenderness; + blood on fast scan
-patient underwent medical therapy for disseminated echinococcus
-abdominal radiographs demonstrate numerous rim-calcified lesions scattered throughout the abdomen with ct image demonstrating a rim-calcified lesion in the liver.
-disseminated echinococcus multilocularis infection
-steatocystoma multiplex
-disseminated parasitic disease (echinococcus)
-multiple calcified aneurysms (hemangiomatosis)
-injured in ied explosion; underwent exploratory laparotomy for hypotension
-somewhat dramatic example of disseminated parasitic infection on deployment; the topic discussion references a different case but contains key information.
-
-
-Keywords by value: 
-- echinococcus: 0.45074820231439816
-- disseminated: 0.4404849456353007
-- calcified: 0.24572744663436058
-- parasitic: 0.22119316948241757
-- multilocularis: 0.16260440690893227
-- steatocystoma: 0.15537719162233482
-- multiplex: 0.15024940077146606
-- hemangiomatosis: 0.15024940077146606
-- explosion: 0.1462719771833099
-- underwent: 0.14008503184556778
-- deployment: 0.1266897557592462
-- ied: 0.12445878455608546
-- infection: 0.12283814843839627
-- exploratory: 0.12156196490837747
-- laparotomy: 0.11556451347939838
-- dramatic: 0.11556451347939838
-- fast: 0.11210377841861925
-- abdominal: 0.11122020901505539
-- hypotension: 0.11012123640882518
-- aneurysms: 0.10876682514754765
-- injured: 0.10710753433518252
-- key: 0.10710753433518252
-- example: 0.10139528108788996
-- information: 0.10055302175435295
-- contains: 0.09897924964105298
-- topic: 0.09730323005591165
-- different: 0.09305367131786263
-- somewhat: 0.09252155699455555
-- discussion: 0.08904027495042374
-- scattered: 0.088474370084135
-- numerous: 0.08588657246627636
-- demonstrating: 0.08384075560805189
-- references: 0.08106244323696823
-- throughout: 0.07477854361710931
-- liver: 0.0701418170491659
-- radiographs: 0.06594665664250893
-- image: 0.06502647782722452
-- medical: 0.06462009842871035
-- tenderness: 0.06376435780920256
-- abdomen: 0.06204019999382376
-- for: 0.061635320541778865
-- on: 0.06141668132734101
-- the: 0.06086501746894549
-- scan: 0.060324113043914364
-- blood: 0.059050392305610044
-- therapy: 0.05842029997519432
-- lesions: 0.05839452338923476
-- demonstrate: 0.05285929751714511
-- case: 0.05108165437661791
-- in: 0.05058810847435498
-- but: 0.05027966691252658
-- multiple: 0.049732662609005336
-- lesion: 0.04874644013705226
-- disease: 0.04268058903249492
-- ct: 0.03870956677537709
-- patient: 0.033070576082651106
-- with: 0.019909719430779852
-- of: 0.019897830481808362
+\-\ Texto\\:\\ \ \(0\)\
+\-\ abdominal\\ tenderness\\;\\ \\+\\ blood\\ on\\ fast\\ scan\ \(0\)\
+\-\ patient\\ underwent\\ medical\\ therapy\\ for\\ disseminated\\ echinococcus\ \(0\)\
+\-\ abdominal\\ radiographs\\ demonstrate\\ numerous\\ rim\\-calcified\\ lesions\\ scattered\\ throughout\\ the\\ abdomen\\ with\\ ct\\ image\\ demonstrating\\ a\\ rim\\-calcified\\ lesion\\ in\\ the\\ liver\\.\ \(0\)\
+\-\ disseminated\\ echinococcus\\ multilocularis\\ infection\ \(0\)\
+\-\ steatocystoma\\ multiplex\ \(0\)\
+\-\ disseminated\\ parasitic\\ disease\\ \\(echinococcus\\)\ \(0\)\
+\-\ multiple\\ calcified\\ aneurysms\\ \\(hemangiomatosis\\)\ \(0\)\
+\-\ injured\\ in\\ ied\\ explosion\\;\\ underwent\\ exploratory\\ laparotomy\\ for\\ hypotension\ \(0\)\
+\-\ somewhat\\ dramatic\\ example\\ of\\ disseminated\\ parasitic\\ infection\\ on\\ deployment\\;\\ the\\ topic\\ discussion\\ references\\ a\\ different\\ case\\ but\\ contains\\ key\\ information\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ echinococcus\\:\\ 0\\.45074820231439816\ \(0\)\
+\-\ disseminated\\:\\ 0\\.4404849456353007\ \(0\)\
+\-\ calcified\\:\\ 0\\.24572744663436058\ \(0\)\
+\-\ parasitic\\:\\ 0\\.22119316948241757\ \(0\)\
+\-\ multilocularis\\:\\ 0\\.16260440690893227\ \(0\)\
+\-\ steatocystoma\\:\\ 0\\.15537719162233482\ \(0\)\
+\-\ multiplex\\:\\ 0\\.15024940077146606\ \(0\)\
+\-\ hemangiomatosis\\:\\ 0\\.15024940077146606\ \(0\)\
+\-\ explosion\\:\\ 0\\.1462719771833099\ \(0\)\
+\-\ underwent\\:\\ 0\\.14008503184556778\ \(0\)\
+\-\ deployment\\:\\ 0\\.1266897557592462\ \(0\)\
+\-\ ied\\:\\ 0\\.12445878455608546\ \(0\)\
+\-\ infection\\:\\ 0\\.12283814843839627\ \(0\)\
+\-\ exploratory\\:\\ 0\\.12156196490837747\ \(0\)\
+\-\ laparotomy\\:\\ 0\\.11556451347939838\ \(0\)\
+\-\ dramatic\\:\\ 0\\.11556451347939838\ \(0\)\
+\-\ fast\\:\\ 0\\.11210377841861925\ \(0\)\
+\-\ abdominal\\:\\ 0\\.11122020901505539\ \(0\)\
+\-\ hypotension\\:\\ 0\\.11012123640882518\ \(0\)\
+\-\ aneurysms\\:\\ 0\\.10876682514754765\ \(0\)\
+\-\ injured\\:\\ 0\\.10710753433518252\ \(0\)\
+\-\ key\\:\\ 0\\.10710753433518252\ \(0\)\
+\-\ example\\:\\ 0\\.10139528108788996\ \(0\)\
+\-\ information\\:\\ 0\\.10055302175435295\ \(0\)\
+\-\ contains\\:\\ 0\\.09897924964105298\ \(0\)\
+\-\ topic\\:\\ 0\\.09730323005591165\ \(0\)\
+\-\ different\\:\\ 0\\.09305367131786263\ \(0\)\
+\-\ somewhat\\:\\ 0\\.09252155699455555\ \(0\)\
+\-\ discussion\\:\\ 0\\.08904027495042374\ \(0\)\
+\-\ scattered\\:\\ 0\\.088474370084135\ \(0\)\
+\-\ numerous\\:\\ 0\\.08588657246627636\ \(0\)\
+\-\ demonstrating\\:\\ 0\\.08384075560805189\ \(0\)\
+\-\ references\\:\\ 0\\.08106244323696823\ \(0\)\
+\-\ throughout\\:\\ 0\\.07477854361710931\ \(0\)\
+\-\ liver\\:\\ 0\\.0701418170491659\ \(0\)\
+\-\ radiographs\\:\\ 0\\.06594665664250893\ \(0\)\
+\-\ image\\:\\ 0\\.06502647782722452\ \(0\)\
+\-\ medical\\:\\ 0\\.06462009842871035\ \(0\)\
+\-\ tenderness\\:\\ 0\\.06376435780920256\ \(0\)\
+\-\ abdomen\\:\\ 0\\.06204019999382376\ \(0\)\
+\-\ for\\:\\ 0\\.061635320541778865\ \(0\)\
+\-\ on\\:\\ 0\\.06141668132734101\ \(0\)\
+\-\ the\\:\\ 0\\.06086501746894549\ \(0\)\
+\-\ scan\\:\\ 0\\.060324113043914364\ \(0\)\
+\-\ blood\\:\\ 0\\.059050392305610044\ \(0\)\
+\-\ therapy\\:\\ 0\\.05842029997519432\ \(0\)\
+\-\ lesions\\:\\ 0\\.05839452338923476\ \(0\)\
+\-\ demonstrate\\:\\ 0\\.05285929751714511\ \(0\)\
+\-\ case\\:\\ 0\\.05108165437661791\ \(0\)\
+\-\ in\\:\\ 0\\.05058810847435498\ \(0\)\
+\-\ but\\:\\ 0\\.05027966691252658\ \(0\)\
+\-\ multiple\\:\\ 0\\.049732662609005336\ \(0\)\
+\-\ lesion\\:\\ 0\\.04874644013705226\ \(0\)\
+\-\ disease\\:\\ 0\\.04268058903249492\ \(0\)\
+\-\ ct\\:\\ 0\\.03870956677537709\ \(0\)\
+\-\ patient\\:\\ 0\\.033070576082651106\ \(0\)\
+\-\ with\\:\\ 0\\.019909719430779852\ \(0\)\
+\-\ of\\:\\ 0\\.019897830481808362\ \(0\)\

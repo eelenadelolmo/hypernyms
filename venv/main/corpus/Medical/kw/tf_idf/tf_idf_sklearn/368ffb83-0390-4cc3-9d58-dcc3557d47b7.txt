@@ -1,84 +1,82 @@
-Texto: 
-no visual field defect.  no endocrine abnormality.
-biopsy with no significant resection attempted.  no radiation or chemotherapy.
-ct  shows a heterogenosu suprasellar mass with ring type calcification.
-mri - t1-weighted shows the lesion as hyperintense.  with gadolinium contrast administration there is homogeneous enhancement.  
-there is no significant compression of either the optic chiasm or the pituitary gland.
-craniopharyngioma
-aneurysm (giant, calcified)
-craniopharyngioma
-epidermoid or dermoid cyst
-meningioma
-osteochondroma
-rathke cleft cyst
-44 y.o. man who experienced a first time seizure while driving.  a screening ct done in er was abnormal
-
-
-Keywords by value: 
-- craniopharyngioma: 0.27156667275074725
-- no: 0.22849737330501066
-- heterogenosu: 0.2247415930528682
-- driving: 0.17351265379538752
-- shows: 0.16496049630036688
-- significant: 0.16228040113253178
-- cyst: 0.1621356966983882
-- rathke: 0.15353464818382212
-- endocrine: 0.1528596494612005
-- chiasm: 0.1491573103008144
-- osteochondroma: 0.14859094254818192
-- or: 0.1466659574071916
-- attempted: 0.1417851886150729
-- suprasellar: 0.13786648476316696
-- experienced: 0.13355664257225672
-- field: 0.1320809972149875
-- pituitary: 0.12962899484216012
-- cleft: 0.1269298300400351
-- giant: 0.12535439487512334
-- 44: 0.12428773856980198
-- homogeneous: 0.12407983934272795
-- epidermoid: 0.12209199440920482
-- optic: 0.12097198735279213
-- visual: 0.11990069195279449
-- dermoid: 0.11870702328954671
-- ring: 0.11837633493911025
-- gadolinium: 0.1170962593725879
-- seizure: 0.1169408272342524
-- either: 0.11617804456258342
-- gland: 0.11415994152533002
-- screening: 0.11415994152533002
-- calcified: 0.11320967835012634
-- administration: 0.111912751953805
-- there: 0.11183465810987189
-- hyperintense: 0.1117867367828557
-- done: 0.1117867367828557
-- ct: 0.10700386132039981
-- aneurysm: 0.10700352625690106
-- meningioma: 0.10530382393213698
-- er: 0.10511135488907865
-- defect: 0.10308786707066118
-- compression: 0.10291189552101179
-- abnormality: 0.10222031573094639
-- calcification: 0.10033378380739852
-- chemotherapy: 0.0997871642820404
-- biopsy: 0.09850806631168513
-- first: 0.09483643886797813
-- type: 0.0942743784695319
-- radiation: 0.09312831544854802
-- while: 0.09082316325999197
-- resection: 0.090082972881955
-- abnormal: 0.08442986823165377
-- the: 0.08412380234456021
-- time: 0.08329698301906412
-- with: 0.08255388916885456
-- enhancement: 0.08088789201794191
-- who: 0.07949369190909346
-- is: 0.07697139936495834
-- man: 0.07439949528650103
-- mri: 0.07213676567178152
-- contrast: 0.06828173010814981
-- lesion: 0.0673742662964419
-- as: 0.056456775120699715
-- mass: 0.053679551560875005
-- was: 0.04897686549740937
-- in: 0.03495985227025633
-- of: 0.027501530898126476
+\-\ Texto\\:\\ \ \(0\)\
+\-\ no\\ visual\\ field\\ defect\\.\\ \\ no\\ endocrine\\ abnormality\\.\ \(0\)\
+\-\ biopsy\\ with\\ no\\ significant\\ resection\\ attempted\\.\\ \\ no\\ radiation\\ or\\ chemotherapy\\.\ \(0\)\
+\-\ ct\\ \\ shows\\ a\\ heterogenosu\\ suprasellar\\ mass\\ with\\ ring\\ type\\ calcification\\.\ \(0\)\
+\-\ mri\\ \\-\\ t1\\-weighted\\ shows\\ the\\ lesion\\ as\\ hyperintense\\.\\ \\ with\\ gadolinium\\ contrast\\ administration\\ there\\ is\\ homogeneous\\ enhancement\\.\\ \\ \ \(0\)\
+\-\ there\\ is\\ no\\ significant\\ compression\\ of\\ either\\ the\\ optic\\ chiasm\\ or\\ the\\ pituitary\\ gland\\.\ \(0\)\
+\-\ craniopharyngioma\ \(24\)\
+\-\ aneurysm\\ \\(giant\\,\\ calcified\\)\ \(0\)\
+\-\ craniopharyngioma\ \(24\)\
+\-\ epidermoid\\ or\\ dermoid\\ cyst\ \(1\)\
+\-\ meningioma\ \(167\)\
+\-\ osteochondroma\ \(97\)\
+\-\ rathke\\ cleft\\ cyst\ \(0\)\
+\-\ 44\\ y\\.o\\.\\ man\\ who\\ experienced\\ a\\ first\\ time\\ seizure\\ while\\ driving\\.\\ \\ a\\ screening\\ ct\\ done\\ in\\ er\\ was\\ abnormal\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ craniopharyngioma\\:\\ 0\\.27156667275074725\ \(0\)\
+\-\ no\\:\\ 0\\.22849737330501066\ \(0\)\
+\-\ heterogenosu\\:\\ 0\\.2247415930528682\ \(0\)\
+\-\ driving\\:\\ 0\\.17351265379538752\ \(0\)\
+\-\ shows\\:\\ 0\\.16496049630036688\ \(0\)\
+\-\ significant\\:\\ 0\\.16228040113253178\ \(0\)\
+\-\ cyst\\:\\ 0\\.1621356966983882\ \(0\)\
+\-\ rathke\\:\\ 0\\.15353464818382212\ \(0\)\
+\-\ endocrine\\:\\ 0\\.1528596494612005\ \(0\)\
+\-\ chiasm\\:\\ 0\\.1491573103008144\ \(0\)\
+\-\ osteochondroma\\:\\ 0\\.14859094254818192\ \(0\)\
+\-\ or\\:\\ 0\\.1466659574071916\ \(0\)\
+\-\ attempted\\:\\ 0\\.1417851886150729\ \(0\)\
+\-\ suprasellar\\:\\ 0\\.13786648476316696\ \(0\)\
+\-\ experienced\\:\\ 0\\.13355664257225672\ \(0\)\
+\-\ field\\:\\ 0\\.1320809972149875\ \(0\)\
+\-\ pituitary\\:\\ 0\\.12962899484216012\ \(0\)\
+\-\ cleft\\:\\ 0\\.1269298300400351\ \(0\)\
+\-\ giant\\:\\ 0\\.12535439487512334\ \(0\)\
+\-\ 44\\:\\ 0\\.12428773856980198\ \(0\)\
+\-\ homogeneous\\:\\ 0\\.12407983934272795\ \(0\)\
+\-\ epidermoid\\:\\ 0\\.12209199440920482\ \(0\)\
+\-\ optic\\:\\ 0\\.12097198735279213\ \(0\)\
+\-\ visual\\:\\ 0\\.11990069195279449\ \(0\)\
+\-\ dermoid\\:\\ 0\\.11870702328954671\ \(0\)\
+\-\ ring\\:\\ 0\\.11837633493911025\ \(0\)\
+\-\ gadolinium\\:\\ 0\\.1170962593725879\ \(0\)\
+\-\ seizure\\:\\ 0\\.1169408272342524\ \(0\)\
+\-\ either\\:\\ 0\\.11617804456258342\ \(0\)\
+\-\ gland\\:\\ 0\\.11415994152533002\ \(0\)\
+\-\ screening\\:\\ 0\\.11415994152533002\ \(0\)\
+\-\ calcified\\:\\ 0\\.11320967835012634\ \(0\)\
+\-\ administration\\:\\ 0\\.111912751953805\ \(0\)\
+\-\ there\\:\\ 0\\.11183465810987189\ \(0\)\
+\-\ hyperintense\\:\\ 0\\.1117867367828557\ \(0\)\
+\-\ done\\:\\ 0\\.1117867367828557\ \(0\)\
+\-\ ct\\:\\ 0\\.10700386132039981\ \(0\)\
+\-\ aneurysm\\:\\ 0\\.10700352625690106\ \(0\)\
+\-\ meningioma\\:\\ 0\\.10530382393213698\ \(0\)\
+\-\ er\\:\\ 0\\.10511135488907865\ \(0\)\
+\-\ defect\\:\\ 0\\.10308786707066118\ \(0\)\
+\-\ compression\\:\\ 0\\.10291189552101179\ \(0\)\
+\-\ abnormality\\:\\ 0\\.10222031573094639\ \(0\)\
+\-\ calcification\\:\\ 0\\.10033378380739852\ \(0\)\
+\-\ chemotherapy\\:\\ 0\\.0997871642820404\ \(0\)\
+\-\ biopsy\\:\\ 0\\.09850806631168513\ \(0\)\
+\-\ first\\:\\ 0\\.09483643886797813\ \(0\)\
+\-\ type\\:\\ 0\\.0942743784695319\ \(0\)\
+\-\ radiation\\:\\ 0\\.09312831544854802\ \(0\)\
+\-\ while\\:\\ 0\\.09082316325999197\ \(0\)\
+\-\ resection\\:\\ 0\\.090082972881955\ \(0\)\
+\-\ abnormal\\:\\ 0\\.08442986823165377\ \(0\)\
+\-\ the\\:\\ 0\\.08412380234456021\ \(0\)\
+\-\ time\\:\\ 0\\.08329698301906412\ \(0\)\
+\-\ with\\:\\ 0\\.08255388916885456\ \(0\)\
+\-\ enhancement\\:\\ 0\\.08088789201794191\ \(0\)\
+\-\ who\\:\\ 0\\.07949369190909346\ \(0\)\
+\-\ is\\:\\ 0\\.07697139936495834\ \(0\)\
+\-\ man\\:\\ 0\\.07439949528650103\ \(0\)\
+\-\ mri\\:\\ 0\\.07213676567178152\ \(0\)\
+\-\ contrast\\:\\ 0\\.06828173010814981\ \(0\)\
+\-\ lesion\\:\\ 0\\.0673742662964419\ \(0\)\
+\-\ as\\:\\ 0\\.056456775120699715\ \(0\)\
+\-\ mass\\:\\ 0\\.053679551560875005\ \(0\)\
+\-\ was\\:\\ 0\\.04897686549740937\ \(0\)\
+\-\ in\\:\\ 0\\.03495985227025633\ \(0\)\
+\-\ of\\:\\ 0\\.027501530898126476\ \(0\)\

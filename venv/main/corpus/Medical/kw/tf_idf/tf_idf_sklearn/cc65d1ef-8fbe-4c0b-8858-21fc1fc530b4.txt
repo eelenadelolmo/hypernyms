@@ -1,104 +1,100 @@
-Texto: 
-na
-coil embolization
-plain radiographs demonstrate a branching, lobular mass in the right middle lobe.
-
-ct demonstrates multiple conglomerations of serpiginous contrast-filled vessels with large feeding artery and draining vein.
-
-post-procedural radiograph demonstrates the coil embolization.
-pulmonary arteriovenous malformation
-malignancy
-granulomatous disease
-inflammation
-benign
-other congenital mass
-36 yo woman with a recent cva of unknown etiology with no known predisposing factors.
-this patient was evaluated for possible hereditary hemorrhagic telangiectasia, suggested multiple times by radiologists based on the pulmonary findings.  however there is no evidence of skin, liver, or brain avms.  she has had an mri/mra, which only demonstrated the stroke, there was no evidence of intracranial avm.
-
-
-Keywords by value: 
-- coil: 0.2778609625059012
-- embolization: 0.21860188794388458
-- conglomerations: 0.20056402942061163
-- avms: 0.16517957804058975
-- pulmonary: 0.15289103183340824
-- predisposing: 0.1522567380196294
-- serpiginous: 0.15106803794769091
-- radiologists: 0.1499403243109266
-- cva: 0.14784487322377857
-- telangiectasia: 0.14686757474007062
-- evidence: 0.1423701644504279
-- branching: 0.13960701450195903
-- hereditary: 0.12893283591487317
-- lobular: 0.12730352799483077
-- demonstrates: 0.12601309676660083
-- multiple: 0.12268527521845374
-- no: 0.12234945907310885
-- draining: 0.1214749761554019
-- arteriovenous: 0.12030213298698718
-- na: 0.11891893505237121
-- feeding: 0.11761763245115311
-- suggested: 0.11736636576445227
-- stroke: 0.11662934940774493
-- times: 0.11286383858947514
-- granulomatous: 0.11148312336004872
-- avm: 0.11091693939034718
-- hemorrhagic: 0.10878763826451446
-- evaluated: 0.10715833034447203
-- factors: 0.10608564951687456
-- 36: 0.10381415021762823
-- etiology: 0.10103065013858566
-- intracranial: 0.1009121291195739
-- inflammation: 0.10079424360505794
-- the: 0.10009841993326725
-- there: 0.09980355373789647
-- of: 0.09817173184967427
-- vessels: 0.0973213304549108
-- malformation: 0.09672708898924877
-- mass: 0.09580947622817586
-- unknown: 0.09503505464781922
-- malignancy: 0.09388925331296959
-- skin: 0.09329615696024213
-- based: 0.0908463957872114
-- congenital: 0.0901110230290383
-- vein: 0.08989512346313656
-- middle: 0.08968132344004312
-- was: 0.08741592830340926
-- liver: 0.08651626192482537
-- benign: 0.08615084194841863
-- possible: 0.0849748613421416
-- recent: 0.08491768160696526
-- plain: 0.08274449704184722
-- radiograph: 0.08168413652602222
-- radiographs: 0.08134175102921253
-- known: 0.08119663105821033
-- yo: 0.07835145150311176
-- only: 0.07835145150311176
-- brain: 0.07818265531287713
-- artery: 0.07789034489017364
-- demonstrated: 0.07707597046373477
-- she: 0.07465586973347342
-- however: 0.0742303287885159
-- with: 0.07367279207704606
-- lobe: 0.0724759460301647
-- woman: 0.06531593681768795
-- demonstrate: 0.0651991782013577
-- other: 0.06512941950999579
-- large: 0.06283855829543764
-- had: 0.062485785150298324
-- findings: 0.06189675936342254
-- has: 0.05728538688471016
-- which: 0.0570269198869403
-- by: 0.053257989234133794
-- disease: 0.05264427377541213
-- an: 0.04795783061944161
-- ct: 0.04774622556167252
-- or: 0.043629241027195106
-- this: 0.043094453209201806
-- right: 0.041579876355252746
-- patient: 0.040790825540860894
-- for: 0.038011971746293116
-- on: 0.03787713172974432
-- is: 0.03434543156225557
-- in: 0.031198892666131888
-- and: 0.025915234159134926
+\-\ Texto\\:\\ \ \(0\)\
+\-\ na\ \(21935\)\
+\-\ coil\\ embolization\ \(19\)\
+\-\ plain\\ radiographs\\ demonstrate\\ a\\ branching\\,\\ lobular\\ mass\\ in\\ the\\ right\\ middle\\ lobe\\.\ \(0\)\
+\-\ ct\\ demonstrates\\ multiple\\ conglomerations\\ of\\ serpiginous\\ contrast\\-filled\\ vessels\\ with\\ large\\ feeding\\ artery\\ and\\ draining\\ vein\\.\ \(0\)\
+\-\ post\\-procedural\\ radiograph\\ demonstrates\\ the\\ coil\\ embolization\\.\ \(0\)\
+\-\ pulmonary\\ arteriovenous\\ malformation\ \(5\)\
+\-\ malignancy\ \(256\)\
+\-\ granulomatous\\ disease\ \(29\)\
+\-\ inflammation\ \(200\)\
+\-\ benign\ \(377\)\
+\-\ other\\ congenital\\ mass\ \(0\)\
+\-\ 36\\ yo\\ woman\\ with\\ a\\ recent\\ cva\\ of\\ unknown\\ etiology\\ with\\ no\\ known\\ predisposing\\ factors\\.\ \(0\)\
+\-\ this\\ patient\\ was\\ evaluated\\ for\\ possible\\ hereditary\\ hemorrhagic\\ telangiectasia\\,\\ suggested\\ multiple\\ times\\ by\\ radiologists\\ based\\ on\\ the\\ pulmonary\\ findings\\.\\ \\ however\\ there\\ is\\ no\\ evidence\\ of\\ skin\\,\\ liver\\,\\ or\\ brain\\ avms\\.\\ \\ she\\ has\\ had\\ an\\ mri\\/mra\\,\\ which\\ only\\ demonstrated\\ the\\ stroke\\,\\ there\\ was\\ no\\ evidence\\ of\\ intracranial\\ avm\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ coil\\:\\ 0\\.2778609625059012\ \(0\)\
+\-\ embolization\\:\\ 0\\.21860188794388458\ \(0\)\
+\-\ conglomerations\\:\\ 0\\.20056402942061163\ \(0\)\
+\-\ avms\\:\\ 0\\.16517957804058975\ \(0\)\
+\-\ pulmonary\\:\\ 0\\.15289103183340824\ \(0\)\
+\-\ predisposing\\:\\ 0\\.1522567380196294\ \(0\)\
+\-\ serpiginous\\:\\ 0\\.15106803794769091\ \(0\)\
+\-\ radiologists\\:\\ 0\\.1499403243109266\ \(0\)\
+\-\ cva\\:\\ 0\\.14784487322377857\ \(0\)\
+\-\ telangiectasia\\:\\ 0\\.14686757474007062\ \(0\)\
+\-\ evidence\\:\\ 0\\.1423701644504279\ \(0\)\
+\-\ branching\\:\\ 0\\.13960701450195903\ \(0\)\
+\-\ hereditary\\:\\ 0\\.12893283591487317\ \(0\)\
+\-\ lobular\\:\\ 0\\.12730352799483077\ \(0\)\
+\-\ demonstrates\\:\\ 0\\.12601309676660083\ \(0\)\
+\-\ multiple\\:\\ 0\\.12268527521845374\ \(0\)\
+\-\ no\\:\\ 0\\.12234945907310885\ \(0\)\
+\-\ draining\\:\\ 0\\.1214749761554019\ \(0\)\
+\-\ arteriovenous\\:\\ 0\\.12030213298698718\ \(0\)\
+\-\ na\\:\\ 0\\.11891893505237121\ \(0\)\
+\-\ feeding\\:\\ 0\\.11761763245115311\ \(0\)\
+\-\ suggested\\:\\ 0\\.11736636576445227\ \(0\)\
+\-\ stroke\\:\\ 0\\.11662934940774493\ \(0\)\
+\-\ times\\:\\ 0\\.11286383858947514\ \(0\)\
+\-\ granulomatous\\:\\ 0\\.11148312336004872\ \(0\)\
+\-\ avm\\:\\ 0\\.11091693939034718\ \(0\)\
+\-\ hemorrhagic\\:\\ 0\\.10878763826451446\ \(0\)\
+\-\ evaluated\\:\\ 0\\.10715833034447203\ \(0\)\
+\-\ factors\\:\\ 0\\.10608564951687456\ \(0\)\
+\-\ 36\\:\\ 0\\.10381415021762823\ \(0\)\
+\-\ etiology\\:\\ 0\\.10103065013858566\ \(0\)\
+\-\ intracranial\\:\\ 0\\.1009121291195739\ \(0\)\
+\-\ inflammation\\:\\ 0\\.10079424360505794\ \(0\)\
+\-\ the\\:\\ 0\\.10009841993326725\ \(0\)\
+\-\ there\\:\\ 0\\.09980355373789647\ \(0\)\
+\-\ of\\:\\ 0\\.09817173184967427\ \(0\)\
+\-\ vessels\\:\\ 0\\.0973213304549108\ \(0\)\
+\-\ malformation\\:\\ 0\\.09672708898924877\ \(0\)\
+\-\ mass\\:\\ 0\\.09580947622817586\ \(0\)\
+\-\ unknown\\:\\ 0\\.09503505464781922\ \(0\)\
+\-\ malignancy\\:\\ 0\\.09388925331296959\ \(0\)\
+\-\ skin\\:\\ 0\\.09329615696024213\ \(0\)\
+\-\ based\\:\\ 0\\.0908463957872114\ \(0\)\
+\-\ congenital\\:\\ 0\\.0901110230290383\ \(0\)\
+\-\ vein\\:\\ 0\\.08989512346313656\ \(0\)\
+\-\ middle\\:\\ 0\\.08968132344004312\ \(0\)\
+\-\ was\\:\\ 0\\.08741592830340926\ \(0\)\
+\-\ liver\\:\\ 0\\.08651626192482537\ \(0\)\
+\-\ benign\\:\\ 0\\.08615084194841863\ \(0\)\
+\-\ possible\\:\\ 0\\.0849748613421416\ \(0\)\
+\-\ recent\\:\\ 0\\.08491768160696526\ \(0\)\
+\-\ plain\\:\\ 0\\.08274449704184722\ \(0\)\
+\-\ radiograph\\:\\ 0\\.08168413652602222\ \(0\)\
+\-\ radiographs\\:\\ 0\\.08134175102921253\ \(0\)\
+\-\ known\\:\\ 0\\.08119663105821033\ \(0\)\
+\-\ yo\\:\\ 0\\.07835145150311176\ \(0\)\
+\-\ only\\:\\ 0\\.07835145150311176\ \(0\)\
+\-\ brain\\:\\ 0\\.07818265531287713\ \(0\)\
+\-\ artery\\:\\ 0\\.07789034489017364\ \(0\)\
+\-\ demonstrated\\:\\ 0\\.07707597046373477\ \(0\)\
+\-\ she\\:\\ 0\\.07465586973347342\ \(0\)\
+\-\ however\\:\\ 0\\.0742303287885159\ \(0\)\
+\-\ with\\:\\ 0\\.07367279207704606\ \(0\)\
+\-\ lobe\\:\\ 0\\.0724759460301647\ \(0\)\
+\-\ woman\\:\\ 0\\.06531593681768795\ \(0\)\
+\-\ demonstrate\\:\\ 0\\.0651991782013577\ \(0\)\
+\-\ other\\:\\ 0\\.06512941950999579\ \(0\)\
+\-\ large\\:\\ 0\\.06283855829543764\ \(0\)\
+\-\ had\\:\\ 0\\.062485785150298324\ \(0\)\
+\-\ findings\\:\\ 0\\.06189675936342254\ \(0\)\
+\-\ has\\:\\ 0\\.05728538688471016\ \(0\)\
+\-\ which\\:\\ 0\\.0570269198869403\ \(0\)\
+\-\ by\\:\\ 0\\.053257989234133794\ \(0\)\
+\-\ disease\\:\\ 0\\.05264427377541213\ \(0\)\
+\-\ an\\:\\ 0\\.04795783061944161\ \(0\)\
+\-\ ct\\:\\ 0\\.04774622556167252\ \(0\)\
+\-\ or\\:\\ 0\\.043629241027195106\ \(0\)\
+\-\ this\\:\\ 0\\.043094453209201806\ \(0\)\
+\-\ right\\:\\ 0\\.041579876355252746\ \(0\)\
+\-\ patient\\:\\ 0\\.040790825540860894\ \(0\)\
+\-\ for\\:\\ 0\\.038011971746293116\ \(0\)\
+\-\ on\\:\\ 0\\.03787713172974432\ \(0\)\
+\-\ is\\:\\ 0\\.03434543156225557\ \(0\)\
+\-\ in\\:\\ 0\\.031198892666131888\ \(0\)\
+\-\ and\\:\\ 0\\.025915234159134926\ \(0\)\

@@ -1,101 +1,99 @@
-Texto: 
-negative sonographic murphy's.
-normal lft's.
-the clinician and the patient will discuss the options, though continued monitoring is a likely plan given the patient's age.
-6mm x 12mm x 11mm hypoechoic filling defect in the posterior gallbladder wall with a broad based stalk and no evidence of abnormal shadowing.  normally distended gallbladder with no evidence of wall thickening or pericholecystic fluid.
-gallbladder polyp, histological diagnosis unknown
-cholesterol polyp, adherent stone or sludge, adenomyomatosis, carcinoma, metastasis (melanoma, gi, breast), ectopic mucosa, benign tumor â€“ adenoma, papilloma, lipoma
-86 yo woman with intermittent, vague epigastric pain and normal liver function on laboratory analysis.
-given the size of the polyp and the patient's demographic, malignancy is the diagnosis of exclusion, though no concerning findings (other than size) were noted on the ultrasound.
-
-
-Keywords by value: 
-- polyp: 0.3180922981456782
-- gallbladder: 0.2791454432516544
-- the: 0.20778267638731324
-- though: 0.18093762281383538
-- 11mm: 0.14980419375605603
-- given: 0.14326557304360904
-- size: 0.14101659681472692
-- 12mm: 0.13907418507911454
-- demographic: 0.13907418507911454
-- adenomyomatosis: 0.1310085559167032
-- lft: 0.12857094872508074
-- wall: 0.12669037667070454
-- adherent: 0.1264208268015084
-- discuss: 0.12194613171456707
-- exclusion: 0.12194613171456707
-- stalk: 0.12042400567660677
-- sludge: 0.11835519763909709
-- evidence: 0.11821187118411394
-- clinician: 0.1177146077983545
-- pericholecystic: 0.11649716094258573
-- 6mm: 0.11591759044747459
-- 86: 0.11591759044747459
-- cholesterol: 0.11535585574981326
-- histological: 0.11481089178115665
-- murphy: 0.11376746852390228
-- plan: 0.11326730196972105
-- diagnosis: 0.10796341516949694
-- epigastric: 0.10705467574196989
-- monitoring: 0.1038438026649796
-- vague: 0.1018910333363717
-- patient: 0.10160752078098945
-- no: 0.10158840899865866
-- shadowing: 0.1003689072984114
-- mucosa: 0.1003689072984114
-- concerning: 0.09988848648681271
-- melanoma: 0.09724460662321581
-- analysis: 0.09683892465598624
-- papilloma: 0.09548608827550731
-- stone: 0.09511728912139449
-- normally: 0.09493564645617562
-- broad: 0.09405359386068236
-- options: 0.09388218473991781
-- sonographic: 0.09371237014570691
-- ectopic: 0.09209583343505427
-- lipoma: 0.09032784594012679
-- hypoechoic: 0.08897500955964782
-- distended: 0.08897500955964782
-- gi: 0.08747375823778461
-- and: 0.08607107630875817
-- continued: 0.0853236363142123
-- intermittent: 0.08511136721041389
-- normal: 0.08503345136250678
-- function: 0.08428614479941066
-- adenoma: 0.0830199617647316
-- of: 0.08151331540658475
-- filling: 0.08064126052043968
-- unknown: 0.07890888994452847
-- malignancy: 0.07795751561465619
-- defect: 0.07638696418619499
-- metastasis: 0.07632165128204169
-- breast: 0.07561822166414238
-- laboratory: 0.07561822166414238
-- based: 0.07543098989731194
-- or: 0.07245189664669163
-- liver: 0.07183562124457306
-- benign: 0.07153220810077397
-- thickening: 0.07084326078211713
-- will: 0.0670226587078024
-- age: 0.06537560532351204
-- yo: 0.06505626883221852
-- negative: 0.0644679071319109
-- ultrasound: 0.0642310464212153
-- on: 0.0628997885075744
-- abnormal: 0.06256159433811763
-- carcinoma: 0.06228753675529053
-- likely: 0.06222718980037412
-- with: 0.06117151469483748
-- fluid: 0.060123987146495125
-- than: 0.05902992602809465
-- is: 0.057034951771989105
-- noted: 0.055211060266160426
-- tumor: 0.054467498285262976
-- woman: 0.05423270485896419
-- other: 0.05407783701825035
-- posterior: 0.05384797118266685
-- were: 0.05367745158769358
-- findings: 0.051393715620316624
-- pain: 0.03726254953642767
-- in: 0.025904862125940287
+\-\ Texto\\:\\ \ \(0\)\
+\-\ negative\\ sonographic\\ murphy\\'s\\.\ \(0\)\
+\-\ normal\\ lft\\'s\\.\ \(0\)\
+\-\ the\\ clinician\\ and\\ the\\ patient\\ will\\ discuss\\ the\\ options\\,\\ though\\ continued\\ monitoring\\ is\\ a\\ likely\\ plan\\ given\\ the\\ patient\\'s\\ age\\.\ \(0\)\
+\-\ 6mm\\ x\\ 12mm\\ x\\ 11mm\\ hypoechoic\\ filling\\ defect\\ in\\ the\\ posterior\\ gallbladder\\ wall\\ with\\ a\\ broad\\ based\\ stalk\\ and\\ no\\ evidence\\ of\\ abnormal\\ shadowing\\.\\ \\ normally\\ distended\\ gallbladder\\ with\\ no\\ evidence\\ of\\ wall\\ thickening\\ or\\ pericholecystic\\ fluid\\.\ \(0\)\
+\-\ gallbladder\\ polyp\\,\\ histological\\ diagnosis\\ unknown\ \(0\)\
+\-\ cholesterol\\ polyp\\,\\ adherent\\ stone\\ or\\ sludge\\,\\ adenomyomatosis\\,\\ carcinoma\\,\\ metastasis\\ \\(melanoma\\,\\ gi\\,\\ breast\\)\\,\\ ectopic\\ mucosa\\,\\ benign\\ tumor\\ \\â\\€\\“\\ adenoma\\,\\ papilloma\\,\\ lipoma\ \(0\)\
+\-\ 86\\ yo\\ woman\\ with\\ intermittent\\,\\ vague\\ epigastric\\ pain\\ and\\ normal\\ liver\\ function\\ on\\ laboratory\\ analysis\\.\ \(1\)\
+\-\ given\\ the\\ size\\ of\\ the\\ polyp\\ and\\ the\\ patient\\'s\\ demographic\\,\\ malignancy\\ is\\ the\\ diagnosis\\ of\\ exclusion\\,\\ though\\ no\\ concerning\\ findings\\ \\(other\\ than\\ size\\)\\ were\\ noted\\ on\\ the\\ ultrasound\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ polyp\\:\\ 0\\.3180922981456782\ \(0\)\
+\-\ gallbladder\\:\\ 0\\.2791454432516544\ \(0\)\
+\-\ the\\:\\ 0\\.20778267638731324\ \(0\)\
+\-\ though\\:\\ 0\\.18093762281383538\ \(0\)\
+\-\ 11mm\\:\\ 0\\.14980419375605603\ \(0\)\
+\-\ given\\:\\ 0\\.14326557304360904\ \(0\)\
+\-\ size\\:\\ 0\\.14101659681472692\ \(0\)\
+\-\ 12mm\\:\\ 0\\.13907418507911454\ \(0\)\
+\-\ demographic\\:\\ 0\\.13907418507911454\ \(0\)\
+\-\ adenomyomatosis\\:\\ 0\\.1310085559167032\ \(0\)\
+\-\ lft\\:\\ 0\\.12857094872508074\ \(0\)\
+\-\ wall\\:\\ 0\\.12669037667070454\ \(0\)\
+\-\ adherent\\:\\ 0\\.1264208268015084\ \(0\)\
+\-\ discuss\\:\\ 0\\.12194613171456707\ \(0\)\
+\-\ exclusion\\:\\ 0\\.12194613171456707\ \(0\)\
+\-\ stalk\\:\\ 0\\.12042400567660677\ \(0\)\
+\-\ sludge\\:\\ 0\\.11835519763909709\ \(0\)\
+\-\ evidence\\:\\ 0\\.11821187118411394\ \(0\)\
+\-\ clinician\\:\\ 0\\.1177146077983545\ \(0\)\
+\-\ pericholecystic\\:\\ 0\\.11649716094258573\ \(0\)\
+\-\ 6mm\\:\\ 0\\.11591759044747459\ \(0\)\
+\-\ 86\\:\\ 0\\.11591759044747459\ \(0\)\
+\-\ cholesterol\\:\\ 0\\.11535585574981326\ \(0\)\
+\-\ histological\\:\\ 0\\.11481089178115665\ \(0\)\
+\-\ murphy\\:\\ 0\\.11376746852390228\ \(0\)\
+\-\ plan\\:\\ 0\\.11326730196972105\ \(0\)\
+\-\ diagnosis\\:\\ 0\\.10796341516949694\ \(0\)\
+\-\ epigastric\\:\\ 0\\.10705467574196989\ \(0\)\
+\-\ monitoring\\:\\ 0\\.1038438026649796\ \(0\)\
+\-\ vague\\:\\ 0\\.1018910333363717\ \(0\)\
+\-\ patient\\:\\ 0\\.10160752078098945\ \(0\)\
+\-\ no\\:\\ 0\\.10158840899865866\ \(0\)\
+\-\ shadowing\\:\\ 0\\.1003689072984114\ \(0\)\
+\-\ mucosa\\:\\ 0\\.1003689072984114\ \(0\)\
+\-\ concerning\\:\\ 0\\.09988848648681271\ \(0\)\
+\-\ melanoma\\:\\ 0\\.09724460662321581\ \(0\)\
+\-\ analysis\\:\\ 0\\.09683892465598624\ \(0\)\
+\-\ papilloma\\:\\ 0\\.09548608827550731\ \(0\)\
+\-\ stone\\:\\ 0\\.09511728912139449\ \(0\)\
+\-\ normally\\:\\ 0\\.09493564645617562\ \(0\)\
+\-\ broad\\:\\ 0\\.09405359386068236\ \(0\)\
+\-\ options\\:\\ 0\\.09388218473991781\ \(0\)\
+\-\ sonographic\\:\\ 0\\.09371237014570691\ \(0\)\
+\-\ ectopic\\:\\ 0\\.09209583343505427\ \(0\)\
+\-\ lipoma\\:\\ 0\\.09032784594012679\ \(0\)\
+\-\ hypoechoic\\:\\ 0\\.08897500955964782\ \(0\)\
+\-\ distended\\:\\ 0\\.08897500955964782\ \(0\)\
+\-\ gi\\:\\ 0\\.08747375823778461\ \(0\)\
+\-\ and\\:\\ 0\\.08607107630875817\ \(0\)\
+\-\ continued\\:\\ 0\\.0853236363142123\ \(0\)\
+\-\ intermittent\\:\\ 0\\.08511136721041389\ \(0\)\
+\-\ normal\\:\\ 0\\.08503345136250678\ \(0\)\
+\-\ function\\:\\ 0\\.08428614479941066\ \(0\)\
+\-\ adenoma\\:\\ 0\\.0830199617647316\ \(0\)\
+\-\ of\\:\\ 0\\.08151331540658475\ \(0\)\
+\-\ filling\\:\\ 0\\.08064126052043968\ \(0\)\
+\-\ unknown\\:\\ 0\\.07890888994452847\ \(0\)\
+\-\ malignancy\\:\\ 0\\.07795751561465619\ \(0\)\
+\-\ defect\\:\\ 0\\.07638696418619499\ \(0\)\
+\-\ metastasis\\:\\ 0\\.07632165128204169\ \(0\)\
+\-\ breast\\:\\ 0\\.07561822166414238\ \(0\)\
+\-\ laboratory\\:\\ 0\\.07561822166414238\ \(0\)\
+\-\ based\\:\\ 0\\.07543098989731194\ \(0\)\
+\-\ or\\:\\ 0\\.07245189664669163\ \(0\)\
+\-\ liver\\:\\ 0\\.07183562124457306\ \(0\)\
+\-\ benign\\:\\ 0\\.07153220810077397\ \(0\)\
+\-\ thickening\\:\\ 0\\.07084326078211713\ \(0\)\
+\-\ will\\:\\ 0\\.0670226587078024\ \(0\)\
+\-\ age\\:\\ 0\\.06537560532351204\ \(0\)\
+\-\ yo\\:\\ 0\\.06505626883221852\ \(0\)\
+\-\ negative\\:\\ 0\\.0644679071319109\ \(0\)\
+\-\ ultrasound\\:\\ 0\\.0642310464212153\ \(0\)\
+\-\ on\\:\\ 0\\.0628997885075744\ \(0\)\
+\-\ abnormal\\:\\ 0\\.06256159433811763\ \(0\)\
+\-\ carcinoma\\:\\ 0\\.06228753675529053\ \(0\)\
+\-\ likely\\:\\ 0\\.06222718980037412\ \(0\)\
+\-\ with\\:\\ 0\\.06117151469483748\ \(0\)\
+\-\ fluid\\:\\ 0\\.060123987146495125\ \(0\)\
+\-\ than\\:\\ 0\\.05902992602809465\ \(0\)\
+\-\ is\\:\\ 0\\.057034951771989105\ \(0\)\
+\-\ noted\\:\\ 0\\.055211060266160426\ \(0\)\
+\-\ tumor\\:\\ 0\\.054467498285262976\ \(0\)\
+\-\ woman\\:\\ 0\\.05423270485896419\ \(0\)\
+\-\ other\\:\\ 0\\.05407783701825035\ \(0\)\
+\-\ posterior\\:\\ 0\\.05384797118266685\ \(0\)\
+\-\ were\\:\\ 0\\.05367745158769358\ \(0\)\
+\-\ findings\\:\\ 0\\.051393715620316624\ \(0\)\
+\-\ pain\\:\\ 0\\.03726254953642767\ \(0\)\
+\-\ in\\:\\ 0\\.025904862125940287\ \(0\)\

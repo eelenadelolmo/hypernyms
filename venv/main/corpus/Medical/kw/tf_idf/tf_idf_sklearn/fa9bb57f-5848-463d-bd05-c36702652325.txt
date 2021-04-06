@@ -1,89 +1,86 @@
-Texto: 
-the patient had an elevated white count.
-no treatment was required for the asymptomatic aberrant right subclavian artery.  the patient was treated with antibiotics for his pneumonia with the recommendation for followup imaging to document resolution.
-the patient's pa/lat chest radiograph revealed widening of the superior mediastinum.  on lateral view there is a soft tissue density in the superior middle mediastinum with mass effect on the posterior trachea.
-
-ct, pe/dvt showed an incidental finding of an aberrant right subclavian artery.  the artery is seen passing posterior to the esophagus from left to right.  the patients symptoms likely resulted from a left lung base pneumonia also seen on the ct.
-left aortic arch with aberrant right subclavian artery
-aberrant right subclavian artery
-85 year old male presented to emergency room with tachycardia and tachypnea.
-
-
-Keywords by value: 
-- aberrant: 0.40904670843725277
-- subclavian: 0.37711700809376836
-- artery: 0.31284275559964886
-- the: 0.24122424082662958
-- mediastinum: 0.18035705573155528
-- right: 0.16700353702132584
-- pneumonia: 0.1590342447860353
-- superior: 0.13099533964188526
-- document: 0.12331581040810848
-- recommendation: 0.12230634630732982
-- an: 0.11557216677924928
-- passing: 0.11160149477638684
-- tachypnea: 0.10652079527708223
-- posterior: 0.10419088022189375
-- left: 0.1030976275862495
-- tachycardia: 0.10290395929935416
-- resulted: 0.10257989857895662
-- to: 0.10074291597492578
-- with: 0.09863438709295327
-- patient: 0.09830061184128112
-- trachea: 0.09757965850694757
-- seen: 0.09485864361425955
-- widening: 0.09292749197736774
-- 85: 0.09292749197736774
-- for: 0.0916039337377736
-- on: 0.09127898674413758
-- followup: 0.08894945370142075
-- arch: 0.08545949589429946
-- count: 0.08317751157098095
-- esophagus: 0.08296472810851183
-- room: 0.08244372236925228
-- resolution: 0.08173920903726639
-- from: 0.08002225908958166
-- aortic: 0.07785761003472984
-- ct: 0.07670815064566712
-- base: 0.07663386080577526
-- emergency: 0.07474357522244579
-- incidental: 0.07467730567472701
-- antibiotics: 0.07422025356399445
-- view: 0.07377473193438802
-- middle: 0.07204012869724993
-- required: 0.0719265539409131
-- effect: 0.07067038716608767
-- was: 0.07022035897337499
-- elevated: 0.06867832695272794
-- asymptomatic: 0.06858438623259325
-- showed: 0.06710243251971655
-- density: 0.06680345150708546
-- white: 0.06646784399729666
-- finding: 0.06622025844144469
-- revealed: 0.06605710888632378
-- radiograph: 0.06561606678108971
-- treated: 0.06273595345144613
-- lung: 0.06128356171575192
-- his: 0.061098630039129104
-- likely: 0.06020194945731593
-- presented: 0.05874802393259434
-- patients: 0.056673845161067125
-- is: 0.055178697525837754
-- symptoms: 0.05512124995801132
-- soft: 0.053633806082471654
-- chest: 0.05317763393256364
-- imaging: 0.052944227710495465
-- tissue: 0.05284787824214785
-- had: 0.05019421916744671
-- lateral: 0.049996889586667946
-- treatment: 0.04798957353275766
-- also: 0.0473869527814234
-- male: 0.04485497403388969
-- there: 0.04008560857449755
-- of: 0.039430195304882336
-- mass: 0.03848140690356977
-- no: 0.03276070735641468
-- year: 0.031047227189288835
-- old: 0.02981608536611915
-- in: 0.025061764887785734
-- and: 0.020817453762171534
+\-\ Texto\\:\\ \ \(0\)\
+\-\ the\\ patient\\ had\\ an\\ elevated\\ white\\ count\\.\ \(0\)\
+\-\ no\\ treatment\\ was\\ required\\ for\\ the\\ asymptomatic\\ aberrant\\ right\\ subclavian\\ artery\\.\\ \\ the\\ patient\\ was\\ treated\\ with\\ antibiotics\\ for\\ his\\ pneumonia\\ with\\ the\\ recommendation\\ for\\ followup\\ imaging\\ to\\ document\\ resolution\\.\ \(0\)\
+\-\ the\\ patient\\'s\\ pa\\/lat\\ chest\\ radiograph\\ revealed\\ widening\\ of\\ the\\ superior\\ mediastinum\\.\\ \\ on\\ lateral\\ view\\ there\\ is\\ a\\ soft\\ tissue\\ density\\ in\\ the\\ superior\\ middle\\ mediastinum\\ with\\ mass\\ effect\\ on\\ the\\ posterior\\ trachea\\.\ \(0\)\
+\-\ ct\\,\\ pe\\/dvt\\ showed\\ an\\ incidental\\ finding\\ of\\ an\\ aberrant\\ right\\ subclavian\\ artery\\.\\ \\ the\\ artery\\ is\\ seen\\ passing\\ posterior\\ to\\ the\\ esophagus\\ from\\ left\\ to\\ right\\.\\ \\ the\\ patients\\ symptoms\\ likely\\ resulted\\ from\\ a\\ left\\ lung\\ base\\ pneumonia\\ also\\ seen\\ on\\ the\\ ct\\.\ \(0\)\
+\-\ left\\ aortic\\ arch\\ with\\ aberrant\\ right\\ subclavian\\ artery\ \(0\)\
+\-\ aberrant\\ right\\ subclavian\\ artery\ \(23\)\
+\-\ 85\\ year\\ old\\ male\\ presented\\ to\\ emergency\\ room\\ with\\ tachycardia\\ and\\ tachypnea\\.\ \(1\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ aberrant\\:\\ 0\\.40904670843725277\ \(0\)\
+\-\ subclavian\\:\\ 0\\.37711700809376836\ \(0\)\
+\-\ artery\\:\\ 0\\.31284275559964886\ \(0\)\
+\-\ the\\:\\ 0\\.24122424082662958\ \(0\)\
+\-\ mediastinum\\:\\ 0\\.18035705573155528\ \(0\)\
+\-\ right\\:\\ 0\\.16700353702132584\ \(0\)\
+\-\ pneumonia\\:\\ 0\\.1590342447860353\ \(0\)\
+\-\ superior\\:\\ 0\\.13099533964188526\ \(0\)\
+\-\ document\\:\\ 0\\.12331581040810848\ \(0\)\
+\-\ recommendation\\:\\ 0\\.12230634630732982\ \(0\)\
+\-\ an\\:\\ 0\\.11557216677924928\ \(0\)\
+\-\ passing\\:\\ 0\\.11160149477638684\ \(0\)\
+\-\ tachypnea\\:\\ 0\\.10652079527708223\ \(0\)\
+\-\ posterior\\:\\ 0\\.10419088022189375\ \(0\)\
+\-\ left\\:\\ 0\\.1030976275862495\ \(0\)\
+\-\ tachycardia\\:\\ 0\\.10290395929935416\ \(0\)\
+\-\ resulted\\:\\ 0\\.10257989857895662\ \(0\)\
+\-\ to\\:\\ 0\\.10074291597492578\ \(0\)\
+\-\ with\\:\\ 0\\.09863438709295327\ \(0\)\
+\-\ patient\\:\\ 0\\.09830061184128112\ \(0\)\
+\-\ trachea\\:\\ 0\\.09757965850694757\ \(0\)\
+\-\ seen\\:\\ 0\\.09485864361425955\ \(0\)\
+\-\ widening\\:\\ 0\\.09292749197736774\ \(0\)\
+\-\ 85\\:\\ 0\\.09292749197736774\ \(0\)\
+\-\ for\\:\\ 0\\.0916039337377736\ \(0\)\
+\-\ on\\:\\ 0\\.09127898674413758\ \(0\)\
+\-\ followup\\:\\ 0\\.08894945370142075\ \(0\)\
+\-\ arch\\:\\ 0\\.08545949589429946\ \(0\)\
+\-\ count\\:\\ 0\\.08317751157098095\ \(0\)\
+\-\ esophagus\\:\\ 0\\.08296472810851183\ \(0\)\
+\-\ room\\:\\ 0\\.08244372236925228\ \(0\)\
+\-\ resolution\\:\\ 0\\.08173920903726639\ \(0\)\
+\-\ from\\:\\ 0\\.08002225908958166\ \(0\)\
+\-\ aortic\\:\\ 0\\.07785761003472984\ \(0\)\
+\-\ ct\\:\\ 0\\.07670815064566712\ \(0\)\
+\-\ base\\:\\ 0\\.07663386080577526\ \(0\)\
+\-\ emergency\\:\\ 0\\.07474357522244579\ \(0\)\
+\-\ incidental\\:\\ 0\\.07467730567472701\ \(0\)\
+\-\ antibiotics\\:\\ 0\\.07422025356399445\ \(0\)\
+\-\ view\\:\\ 0\\.07377473193438802\ \(0\)\
+\-\ middle\\:\\ 0\\.07204012869724993\ \(0\)\
+\-\ required\\:\\ 0\\.0719265539409131\ \(0\)\
+\-\ effect\\:\\ 0\\.07067038716608767\ \(0\)\
+\-\ was\\:\\ 0\\.07022035897337499\ \(0\)\
+\-\ elevated\\:\\ 0\\.06867832695272794\ \(0\)\
+\-\ asymptomatic\\:\\ 0\\.06858438623259325\ \(0\)\
+\-\ showed\\:\\ 0\\.06710243251971655\ \(0\)\
+\-\ density\\:\\ 0\\.06680345150708546\ \(0\)\
+\-\ white\\:\\ 0\\.06646784399729666\ \(0\)\
+\-\ finding\\:\\ 0\\.06622025844144469\ \(0\)\
+\-\ revealed\\:\\ 0\\.06605710888632378\ \(0\)\
+\-\ radiograph\\:\\ 0\\.06561606678108971\ \(0\)\
+\-\ treated\\:\\ 0\\.06273595345144613\ \(0\)\
+\-\ lung\\:\\ 0\\.06128356171575192\ \(0\)\
+\-\ his\\:\\ 0\\.061098630039129104\ \(0\)\
+\-\ likely\\:\\ 0\\.06020194945731593\ \(0\)\
+\-\ presented\\:\\ 0\\.05874802393259434\ \(0\)\
+\-\ patients\\:\\ 0\\.056673845161067125\ \(0\)\
+\-\ is\\:\\ 0\\.055178697525837754\ \(0\)\
+\-\ symptoms\\:\\ 0\\.05512124995801132\ \(0\)\
+\-\ soft\\:\\ 0\\.053633806082471654\ \(0\)\
+\-\ chest\\:\\ 0\\.05317763393256364\ \(0\)\
+\-\ imaging\\:\\ 0\\.052944227710495465\ \(0\)\
+\-\ tissue\\:\\ 0\\.05284787824214785\ \(0\)\
+\-\ had\\:\\ 0\\.05019421916744671\ \(0\)\
+\-\ lateral\\:\\ 0\\.049996889586667946\ \(0\)\
+\-\ treatment\\:\\ 0\\.04798957353275766\ \(0\)\
+\-\ also\\:\\ 0\\.0473869527814234\ \(0\)\
+\-\ male\\:\\ 0\\.04485497403388969\ \(0\)\
+\-\ there\\:\\ 0\\.04008560857449755\ \(0\)\
+\-\ of\\:\\ 0\\.039430195304882336\ \(0\)\
+\-\ mass\\:\\ 0\\.03848140690356977\ \(0\)\
+\-\ no\\:\\ 0\\.03276070735641468\ \(0\)\
+\-\ year\\:\\ 0\\.031047227189288835\ \(0\)\
+\-\ old\\:\\ 0\\.02981608536611915\ \(0\)\
+\-\ in\\:\\ 0\\.025061764887785734\ \(0\)\
+\-\ and\\:\\ 0\\.020817453762171534\ \(0\)\

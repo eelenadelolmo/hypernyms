@@ -1,93 +1,90 @@
-Texto: 
-normal
-supportive.  patient left hospital without neurologic deficit.
-â€¢ hyperdense clot right transverse sinus on ct scan.
-â€¢ high signal intensity thrombus (clot) on t1w sequence mr
-â€¢ low signal intensity thrombus on t2w sequences mr
-â€¢ clot is hyperintense on mrv with no signal adjacent to it.
-â€¢ no evidence of venous infarction
-dural sinus thrombosis (transverse sinus)
-â€¢ epidural hematoma
-â€¢ transverse sinus thrombosis
-9 week old baby boy brought to er for a first time seizure.  no history of recent illness or dehydration.
-Â» companion cases: http://rad.usuhs.edu/medpix/medpix.html?mode=image_finder&srchstr=dural%20sinus%20thrombosis#top
-
-â€¢ nejm review article - http://dura.stanford.edu/articles/stam_nejm05.pdf
-â€¢ blind spots on imaing - http://radiographics.rsna.org/content/29/7/1877.full
-â€¢ http://emedicine.medscape.com/article/1162804-overview
-â€¢ acute treatment of sinus thrombosis - http://link.springer.com/article/10.1007%2fs11940-008-0014-0?li=true
-â€¢ http://stroke.about.com/od/causesofstroke/a/sinusthrombosis.htm
-
-
-Keywords by value: 
-- http: 0.3311305401299509
-- sinus: 0.26970579576410963
-- article: 0.23769296013868607
-- clot: 0.2333744231548356
-- thrombosis: 0.18258943187225404
-- transverse: 0.17254895336159803
-- thrombus: 0.13884133428915274
-- dural: 0.13248840757600952
-- signal: 0.12694988696713105
-- on: 0.11272701800852371
-- intensity: 0.10601204153390639
-- 20sinus: 0.1050038141451575
-- 20thrombosis: 0.1050038141451575
-- imaing: 0.1050038141451575
-- mr: 0.09660314391487994
-- nejm: 0.09391576151525216
-- spots: 0.09062696811955087
-- dehydration: 0.08860969540971632
-- mrv: 0.08686225430501596
-- companion: 0.08050871977448171
-- blind: 0.07863604930066918
-- t1w: 0.07649473424782038
-- sequence: 0.07531498370807552
-- t2w: 0.07531498370807552
-- illness: 0.07509127964173962
-- brought: 0.07362407128396439
-- top: 0.0728540627762997
-- no: 0.07282541758797835
-- deficit: 0.07062486042731383
-- hyperdense: 0.06872069446487443
-- epidural: 0.06779966537331875
-- baby: 0.06730107671876737
-- supportive: 0.06236715993434019
-- seizure: 0.06211788822221377
-- review: 0.06147548345892091
-- sequences: 0.05971825083172284
-- neurologic: 0.05964991454480366
-- hyperintense: 0.05938008293966945
-- infarction: 0.05860244611980526
-- er: 0.05583418168238146
-- hospital: 0.05514004485550297
-- venous: 0.05329638001426942
-- hematoma: 0.05224891158927102
-- boy: 0.05106515644831951
-- recent: 0.05054509983517737
-- first: 0.0503762411154585
-- week: 0.050209533520788885
-- cases: 0.050209533520788885
-- adjacent: 0.04838776130878544
-- scan: 0.04428866705581705
-- time: 0.04424658866198195
-- of: 0.04382567823419331
-- low: 0.04283423648474044
-- high: 0.042425834372775924
-- evidence: 0.042371117766757574
-- acute: 0.04038247760166909
-- without: 0.03937475794705781
-- it: 0.03821199036908658
-- to: 0.03732441246911416
-- treatment: 0.03555947570942544
-- normal: 0.030478854159943423
-- history: 0.028520396691618478
-- ct: 0.02841973181672077
-- or: 0.025969201015866056
-- left: 0.025464542357658538
-- right: 0.024749368585425376
-- patient: 0.024279706067163776
-- for: 0.022625663707365427
-- old: 0.022093223283239784
-- is: 0.020443248500722926
-- with: 0.014617288022165054
+\-\ Texto\\:\\ \ \(0\)\
+\-\ normal\ \(4026\)\
+\-\ supportive\\.\\ \\ patient\\ left\\ hospital\\ without\\ neurologic\\ deficit\\.\ \(0\)\
+\-\ \\â\\€\\¢\\ hyperdense\\ clot\\ right\\ transverse\\ sinus\\ on\\ ct\\ scan\\.\ \(0\)\
+\-\ \\â\\€\\¢\\ high\\ signal\\ intensity\\ thrombus\\ \\(clot\\)\\ on\\ t1w\\ sequence\\ mr\ \(0\)\
+\-\ \\â\\€\\¢\\ low\\ signal\\ intensity\\ thrombus\\ on\\ t2w\\ sequences\\ mr\ \(0\)\
+\-\ \\â\\€\\¢\\ clot\\ is\\ hyperintense\\ on\\ mrv\\ with\\ no\\ signal\\ adjacent\\ to\\ it\\.\ \(0\)\
+\-\ \\â\\€\\¢\\ no\\ evidence\\ of\\ venous\\ infarction\ \(0\)\
+\-\ dural\\ sinus\\ thrombosis\\ \\(transverse\\ sinus\\)\ \(0\)\
+\-\ \\â\\€\\¢\\ epidural\\ hematoma\ \(1\)\
+\-\ \\â\\€\\¢\\ transverse\\ sinus\\ thrombosis\ \(0\)\
+\-\ 9\\ week\\ old\\ baby\\ boy\\ brought\\ to\\ er\\ for\\ a\\ first\\ time\\ seizure\\.\\ \\ no\\ history\\ of\\ recent\\ illness\\ or\\ dehydration\\.\ \(0\)\
+\-\ \\Â\\»\\ companion\\ cases\\:\\ http\\:\\/\\/rad\\.usuhs\\.edu\\/medpix\\/medpix\\.html\\?mode\\=image\\_finder\\&srchstr\\=dural\\%20sinus\\%20thrombosis\\#top\ \(0\)\
+\-\ \\â\\€\\¢\\ nejm\\ review\\ article\\ \\-\\ http\\:\\/\\/dura\\.stanford\\.edu\\/articles\\/stam\\_nejm05\\.pdf\ \(0\)\
+\-\ \\â\\€\\¢\\ blind\\ spots\\ on\\ imaing\\ \\-\\ http\\:\\/\\/radiographics\\.rsna\\.org\\/content\\/29\\/7\\/1877\\.full\ \(0\)\
+\-\ \\â\\€\\¢\\ http\\:\\/\\/emedicine\\.medscape\\.com\\/article\\/1162804\\-overview\ \(5\)\
+\-\ \\â\\€\\¢\\ acute\\ treatment\\ of\\ sinus\\ thrombosis\\ \\-\\ http\\:\\/\\/link\\.springer\\.com\\/article\\/10\\.1007\\%2fs11940\\-008\\-0014\\-0\\?li\\=true\ \(0\)\
+\-\ \\â\\€\\¢\\ http\\:\\/\\/stroke\\.about\\.com\\/od\\/causesofstroke\\/a\\/sinusthrombosis\\.htm\ \(5\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ http\\:\\ 0\\.3311305401299509\ \(0\)\
+\-\ sinus\\:\\ 0\\.26970579576410963\ \(0\)\
+\-\ article\\:\\ 0\\.23769296013868607\ \(0\)\
+\-\ clot\\:\\ 0\\.2333744231548356\ \(0\)\
+\-\ thrombosis\\:\\ 0\\.18258943187225404\ \(0\)\
+\-\ transverse\\:\\ 0\\.17254895336159803\ \(0\)\
+\-\ thrombus\\:\\ 0\\.13884133428915274\ \(0\)\
+\-\ dural\\:\\ 0\\.13248840757600952\ \(0\)\
+\-\ signal\\:\\ 0\\.12694988696713105\ \(0\)\
+\-\ on\\:\\ 0\\.11272701800852371\ \(0\)\
+\-\ intensity\\:\\ 0\\.10601204153390639\ \(0\)\
+\-\ 20sinus\\:\\ 0\\.1050038141451575\ \(0\)\
+\-\ 20thrombosis\\:\\ 0\\.1050038141451575\ \(0\)\
+\-\ imaing\\:\\ 0\\.1050038141451575\ \(0\)\
+\-\ mr\\:\\ 0\\.09660314391487994\ \(0\)\
+\-\ nejm\\:\\ 0\\.09391576151525216\ \(0\)\
+\-\ spots\\:\\ 0\\.09062696811955087\ \(0\)\
+\-\ dehydration\\:\\ 0\\.08860969540971632\ \(0\)\
+\-\ mrv\\:\\ 0\\.08686225430501596\ \(0\)\
+\-\ companion\\:\\ 0\\.08050871977448171\ \(0\)\
+\-\ blind\\:\\ 0\\.07863604930066918\ \(0\)\
+\-\ t1w\\:\\ 0\\.07649473424782038\ \(0\)\
+\-\ sequence\\:\\ 0\\.07531498370807552\ \(0\)\
+\-\ t2w\\:\\ 0\\.07531498370807552\ \(0\)\
+\-\ illness\\:\\ 0\\.07509127964173962\ \(0\)\
+\-\ brought\\:\\ 0\\.07362407128396439\ \(0\)\
+\-\ top\\:\\ 0\\.0728540627762997\ \(0\)\
+\-\ no\\:\\ 0\\.07282541758797835\ \(0\)\
+\-\ deficit\\:\\ 0\\.07062486042731383\ \(0\)\
+\-\ hyperdense\\:\\ 0\\.06872069446487443\ \(0\)\
+\-\ epidural\\:\\ 0\\.06779966537331875\ \(0\)\
+\-\ baby\\:\\ 0\\.06730107671876737\ \(0\)\
+\-\ supportive\\:\\ 0\\.06236715993434019\ \(0\)\
+\-\ seizure\\:\\ 0\\.06211788822221377\ \(0\)\
+\-\ review\\:\\ 0\\.06147548345892091\ \(0\)\
+\-\ sequences\\:\\ 0\\.05971825083172284\ \(0\)\
+\-\ neurologic\\:\\ 0\\.05964991454480366\ \(0\)\
+\-\ hyperintense\\:\\ 0\\.05938008293966945\ \(0\)\
+\-\ infarction\\:\\ 0\\.05860244611980526\ \(0\)\
+\-\ er\\:\\ 0\\.05583418168238146\ \(0\)\
+\-\ hospital\\:\\ 0\\.05514004485550297\ \(0\)\
+\-\ venous\\:\\ 0\\.05329638001426942\ \(0\)\
+\-\ hematoma\\:\\ 0\\.05224891158927102\ \(0\)\
+\-\ boy\\:\\ 0\\.05106515644831951\ \(0\)\
+\-\ recent\\:\\ 0\\.05054509983517737\ \(0\)\
+\-\ first\\:\\ 0\\.0503762411154585\ \(0\)\
+\-\ week\\:\\ 0\\.050209533520788885\ \(0\)\
+\-\ cases\\:\\ 0\\.050209533520788885\ \(0\)\
+\-\ adjacent\\:\\ 0\\.04838776130878544\ \(0\)\
+\-\ scan\\:\\ 0\\.04428866705581705\ \(0\)\
+\-\ time\\:\\ 0\\.04424658866198195\ \(0\)\
+\-\ of\\:\\ 0\\.04382567823419331\ \(0\)\
+\-\ low\\:\\ 0\\.04283423648474044\ \(0\)\
+\-\ high\\:\\ 0\\.042425834372775924\ \(0\)\
+\-\ evidence\\:\\ 0\\.042371117766757574\ \(0\)\
+\-\ acute\\:\\ 0\\.04038247760166909\ \(0\)\
+\-\ without\\:\\ 0\\.03937475794705781\ \(0\)\
+\-\ it\\:\\ 0\\.03821199036908658\ \(0\)\
+\-\ to\\:\\ 0\\.03732441246911416\ \(0\)\
+\-\ treatment\\:\\ 0\\.03555947570942544\ \(0\)\
+\-\ normal\\:\\ 0\\.030478854159943423\ \(0\)\
+\-\ history\\:\\ 0\\.028520396691618478\ \(0\)\
+\-\ ct\\:\\ 0\\.02841973181672077\ \(0\)\
+\-\ or\\:\\ 0\\.025969201015866056\ \(0\)\
+\-\ left\\:\\ 0\\.025464542357658538\ \(0\)\
+\-\ right\\:\\ 0\\.024749368585425376\ \(0\)\
+\-\ patient\\:\\ 0\\.024279706067163776\ \(0\)\
+\-\ for\\:\\ 0\\.022625663707365427\ \(0\)\
+\-\ old\\:\\ 0\\.022093223283239784\ \(0\)\
+\-\ is\\:\\ 0\\.020443248500722926\ \(0\)\
+\-\ with\\:\\ 0\\.014617288022165054\ \(0\)\

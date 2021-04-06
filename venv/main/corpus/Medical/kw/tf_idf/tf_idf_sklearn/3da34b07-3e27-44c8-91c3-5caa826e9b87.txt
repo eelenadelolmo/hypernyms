@@ -1,70 +1,68 @@
-Texto: 
-right upper and lower extremity weakness, expressive aphasia.  blood pressure 200/160.
-patient has been treated with supportive therapy.  he is doing well.
-hemorrhage of the putamen with local edema and mass effect.
-acute stroke, hemorrhage in basal ganglia
-hypertensive hemorrhage of the putamen
-bleeding mass lesion
-bleeding vascular malformation
-36 year old male with long standing history of poorly controlled hypertension.  patient reported to medical attention with right upper and lower extremity weakness and expressive aphasia.
-the putamen is the most common location for hypertensive hemorrhage.
-
-
-Keywords by value: 
-- putamen: 0.44162766874950665
-- hemorrhage: 0.3164062797646581
-- expressive: 0.31121400660765897
-- aphasia: 0.26303286912993434
-- hypertensive: 0.24538319665881486
-- bleeding: 0.19312933461182302
-- weakness: 0.1724510981305255
-- extremity: 0.17018853169602866
-- attention: 0.1290769741847384
-- upper: 0.12627055925401864
-- doing: 0.12539693495185858
-- controlled: 0.1231186541776399
-- lower: 0.12074525394572626
-- ganglia: 0.11104083455743283
-- stroke: 0.10987038333609762
-- standing: 0.10987038333609762
-- poorly: 0.10671023504567609
-- local: 0.10170146135299618
-- basal: 0.10109670379507629
-- supportive: 0.09870697086933736
-- 36: 0.09779785738361153
-- and: 0.09765352291744177
-- the: 0.09429746307643744
-- with: 0.09253768967588466
-- malformation: 0.0911215092959085
-- hypertension: 0.09039789072398707
-- mass: 0.09025707451748316
-- pressure: 0.08995814013135132
-- reported: 0.08509426584801433
-- effect: 0.0828777182785026
-- location: 0.0822685133349428
-- long: 0.07834282301332327
-- right: 0.07834043450328618
-- vascular: 0.07799803425682458
-- patient: 0.07685378785921024
-- medical: 0.07508637472279657
-- treated: 0.07357272097381726
-- edema: 0.07046474267280738
-- he: 0.06996160518173314
-- of: 0.06936182358385015
-- been: 0.06883307450284287
-- blood: 0.06861456407527276
-- therapy: 0.06788241804049461
-- common: 0.06700219457762867
-- is: 0.06471005370005328
-- acute: 0.06391235458622924
-- most: 0.061486645932716105
-- well: 0.057206773177449134
-- lesion: 0.05664171921017802
-- has: 0.053965553683880924
-- male: 0.05260304988330601
-- history: 0.045138530732926084
-- year: 0.036410205908102074
-- for: 0.03580908174772685
-- old: 0.03496640137733389
-- to: 0.029536215038352458
-- in: 0.02939083784910529
+\-\ Texto\\:\\ \ \(0\)\
+\-\ right\\ upper\\ and\\ lower\\ extremity\\ weakness\\,\\ expressive\\ aphasia\\.\\ \\ blood\\ pressure\\ 200\\/160\\.\ \(0\)\
+\-\ patient\\ has\\ been\\ treated\\ with\\ supportive\\ therapy\\.\\ \\ he\\ is\\ doing\\ well\\.\ \(0\)\
+\-\ hemorrhage\\ of\\ the\\ putamen\\ with\\ local\\ edema\\ and\\ mass\\ effect\\.\ \(0\)\
+\-\ acute\\ stroke\\,\\ hemorrhage\\ in\\ basal\\ ganglia\ \(0\)\
+\-\ hypertensive\\ hemorrhage\\ of\\ the\\ putamen\ \(0\)\
+\-\ bleeding\\ mass\\ lesion\ \(0\)\
+\-\ bleeding\\ vascular\\ malformation\ \(0\)\
+\-\ 36\\ year\\ old\\ male\\ with\\ long\\ standing\\ history\\ of\\ poorly\\ controlled\\ hypertension\\.\\ \\ patient\\ reported\\ to\\ medical\\ attention\\ with\\ right\\ upper\\ and\\ lower\\ extremity\\ weakness\\ and\\ expressive\\ aphasia\\.\ \(0\)\
+\-\ the\\ putamen\\ is\\ the\\ most\\ common\\ location\\ for\\ hypertensive\\ hemorrhage\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ putamen\\:\\ 0\\.44162766874950665\ \(0\)\
+\-\ hemorrhage\\:\\ 0\\.3164062797646581\ \(0\)\
+\-\ expressive\\:\\ 0\\.31121400660765897\ \(0\)\
+\-\ aphasia\\:\\ 0\\.26303286912993434\ \(0\)\
+\-\ hypertensive\\:\\ 0\\.24538319665881486\ \(0\)\
+\-\ bleeding\\:\\ 0\\.19312933461182302\ \(0\)\
+\-\ weakness\\:\\ 0\\.1724510981305255\ \(0\)\
+\-\ extremity\\:\\ 0\\.17018853169602866\ \(0\)\
+\-\ attention\\:\\ 0\\.1290769741847384\ \(0\)\
+\-\ upper\\:\\ 0\\.12627055925401864\ \(0\)\
+\-\ doing\\:\\ 0\\.12539693495185858\ \(0\)\
+\-\ controlled\\:\\ 0\\.1231186541776399\ \(0\)\
+\-\ lower\\:\\ 0\\.12074525394572626\ \(0\)\
+\-\ ganglia\\:\\ 0\\.11104083455743283\ \(0\)\
+\-\ stroke\\:\\ 0\\.10987038333609762\ \(0\)\
+\-\ standing\\:\\ 0\\.10987038333609762\ \(0\)\
+\-\ poorly\\:\\ 0\\.10671023504567609\ \(0\)\
+\-\ local\\:\\ 0\\.10170146135299618\ \(0\)\
+\-\ basal\\:\\ 0\\.10109670379507629\ \(0\)\
+\-\ supportive\\:\\ 0\\.09870697086933736\ \(0\)\
+\-\ 36\\:\\ 0\\.09779785738361153\ \(0\)\
+\-\ and\\:\\ 0\\.09765352291744177\ \(0\)\
+\-\ the\\:\\ 0\\.09429746307643744\ \(0\)\
+\-\ with\\:\\ 0\\.09253768967588466\ \(0\)\
+\-\ malformation\\:\\ 0\\.0911215092959085\ \(0\)\
+\-\ hypertension\\:\\ 0\\.09039789072398707\ \(0\)\
+\-\ mass\\:\\ 0\\.09025707451748316\ \(0\)\
+\-\ pressure\\:\\ 0\\.08995814013135132\ \(0\)\
+\-\ reported\\:\\ 0\\.08509426584801433\ \(0\)\
+\-\ effect\\:\\ 0\\.0828777182785026\ \(0\)\
+\-\ location\\:\\ 0\\.0822685133349428\ \(0\)\
+\-\ long\\:\\ 0\\.07834282301332327\ \(0\)\
+\-\ right\\:\\ 0\\.07834043450328618\ \(0\)\
+\-\ vascular\\:\\ 0\\.07799803425682458\ \(0\)\
+\-\ patient\\:\\ 0\\.07685378785921024\ \(0\)\
+\-\ medical\\:\\ 0\\.07508637472279657\ \(0\)\
+\-\ treated\\:\\ 0\\.07357272097381726\ \(0\)\
+\-\ edema\\:\\ 0\\.07046474267280738\ \(0\)\
+\-\ he\\:\\ 0\\.06996160518173314\ \(0\)\
+\-\ of\\:\\ 0\\.06936182358385015\ \(0\)\
+\-\ been\\:\\ 0\\.06883307450284287\ \(0\)\
+\-\ blood\\:\\ 0\\.06861456407527276\ \(0\)\
+\-\ therapy\\:\\ 0\\.06788241804049461\ \(0\)\
+\-\ common\\:\\ 0\\.06700219457762867\ \(0\)\
+\-\ is\\:\\ 0\\.06471005370005328\ \(0\)\
+\-\ acute\\:\\ 0\\.06391235458622924\ \(0\)\
+\-\ most\\:\\ 0\\.061486645932716105\ \(0\)\
+\-\ well\\:\\ 0\\.057206773177449134\ \(0\)\
+\-\ lesion\\:\\ 0\\.05664171921017802\ \(0\)\
+\-\ has\\:\\ 0\\.053965553683880924\ \(0\)\
+\-\ male\\:\\ 0\\.05260304988330601\ \(0\)\
+\-\ history\\:\\ 0\\.045138530732926084\ \(0\)\
+\-\ year\\:\\ 0\\.036410205908102074\ \(0\)\
+\-\ for\\:\\ 0\\.03580908174772685\ \(0\)\
+\-\ old\\:\\ 0\\.03496640137733389\ \(0\)\
+\-\ to\\:\\ 0\\.029536215038352458\ \(0\)\
+\-\ in\\:\\ 0\\.02939083784910529\ \(0\)\

@@ -1,77 +1,75 @@
-Texto: 
-there is a visible mass bulging behind the last mandibular molar on the left.
-radiograph shows a multiloculated radiolucency in  the posterior left mandible, involving the roots of molar teeth.
-ameloblastoma
-â€¢ myxoma
-â€¢ ameloblastoma
-â€¢ central giant cell lesion
-â€¢ hemangioma
-â€¢ odontogenic keratocyst
-â€¢ metastatic disease
-â€¢ aneurysmal bone cyst
-â€¢ cherubism
-â€¢ hyperparathyroidism
-â€¢ odontogenic fibroma
-39 y.o. woman with a slowly growing oral mass over 1 year, spontaneous pain at left mandibular body, involved vital teeth.  her medical history is otherwise noncontributory.
-
-
-Keywords by value: 
-- odontogenic: 0.3136173908263894
-- molar: 0.3109178700434805
-- ameloblastoma: 0.3109178700434805
-- teeth: 0.280053096565767
-- mandibular: 0.2775079206709588
-- cherubism: 0.19407848809090728
-- radiolucency: 0.16515095573318173
-- keratocyst: 0.15978166875933894
-- myxoma: 0.15545893502174024
-- multiloculated: 0.14872888482557056
-- bulging: 0.13479802612663128
-- roots: 0.13479802612663128
-- mandible: 0.13428618225546823
-- left: 0.12997074207098158
-- fibroma: 0.12775501978422218
-- slowly: 0.12525881471661057
-- aneurysmal: 0.12459416154402674
-- growing: 0.12459416154402674
-- behind: 0.12241270341067
-- hyperparathyroidism: 0.12097580307307605
-- giant: 0.11328660299241577
-- vital: 0.11309044112595903
-- noncontributory: 0.11309044112595903
-- visible: 0.1119484355342184
-- spontaneous: 0.11051153519662447
-- hemangioma: 0.10683238105898352
-- 39: 0.1055434163342193
-- last: 0.10329526550650779
-- involved: 0.1018347926650525
-- oral: 0.1017173030635548
-- the: 0.10136700626959193
-- mass: 0.09702370710728982
-- otherwise: 0.09053244711958051
-- involving: 0.08895859009208962
-- central: 0.0848114272725141
-- body: 0.08358458462128794
-- radiograph: 0.08271935146308591
-- medical: 0.08071564991220338
-- her: 0.07934443002239626
-- shows: 0.07453992447743107
-- cyst: 0.07326349555221755
-- cell: 0.07265171399749223
-- over: 0.07061939418005332
-- metastatic: 0.069654932884527
-- is: 0.06956140923750871
-- bone: 0.06929693511368415
-- woman: 0.06614371117263186
-- posterior: 0.06567447930913593
-- lesion: 0.06088818637299335
-- disease: 0.05331145519987164
-- there: 0.05053420155993211
-- history: 0.04852259624520061
-- at: 0.047970737751079906
-- pain: 0.04544643901687984
-- year: 0.03913990313368199
-- on: 0.038357163400609434
-- in: 0.03159428840735439
-- with: 0.02486882537323755
-- of: 0.024853975129020336
+\-\ Texto\\:\\ \ \(0\)\
+\-\ there\\ is\\ a\\ visible\\ mass\\ bulging\\ behind\\ the\\ last\\ mandibular\\ molar\\ on\\ the\\ left\\.\ \(0\)\
+\-\ radiograph\\ shows\\ a\\ multiloculated\\ radiolucency\\ in\\ \\ the\\ posterior\\ left\\ mandible\\,\\ involving\\ the\\ roots\\ of\\ molar\\ teeth\\.\ \(0\)\
+\-\ ameloblastoma\ \(9\)\
+\-\ \\â\\€\\¢\\ myxoma\\\ \(0\)\
+\-\ \\â\\€\\¢\\ ameloblastoma\ \(0\)\
+\-\ \\â\\€\\¢\\ \\central\\ giant\\ cell\\ lesion\ \(0\)\
+\-\ \\\\â\\€\\¢\\ hemangioma\\\ \(0\)\
+\-\ \\â\\€\\¢\\ odontogenic\\ keratocyst\ \(0\)\
+\-\ \\\\â\\€\\¢\\ metastatic\\ disease\\\ \(0\)\
+\-\ \\â\\€\\¢\\ aneurysmal\\ bone\\ cyst\ \(1\)\
+\-\ \\\\â\\€\\¢\\ cherubism\\\ \(0\)\
+\-\ \\â\\€\\¢\\ hyperparathyroidism\\\ \(0\)\
+\-\ \\â\\€\\¢\\ odontogenic\\ fibroma\ \(0\)\
+\-\ 39\\ y\\.o\\.\\ woman\\ with\\ a\\ slowly\\ growing\\ oral\\ mass\\ over\\ 1\\ year\\,\\ spontaneous\\ pain\\ at\\ left\\ mandibular\\ body\\,\\ involved\\ vital\\ teeth\\.\\ \\ her\\ medical\\ history\\ is\\ otherwise\\ noncontributory\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ odontogenic\\:\\ 0\\.3136173908263894\ \(0\)\
+\-\ molar\\:\\ 0\\.3109178700434805\ \(0\)\
+\-\ ameloblastoma\\:\\ 0\\.3109178700434805\ \(0\)\
+\-\ teeth\\:\\ 0\\.280053096565767\ \(0\)\
+\-\ mandibular\\:\\ 0\\.2775079206709588\ \(0\)\
+\-\ cherubism\\:\\ 0\\.19407848809090728\ \(0\)\
+\-\ radiolucency\\:\\ 0\\.16515095573318173\ \(0\)\
+\-\ keratocyst\\:\\ 0\\.15978166875933894\ \(0\)\
+\-\ myxoma\\:\\ 0\\.15545893502174024\ \(0\)\
+\-\ multiloculated\\:\\ 0\\.14872888482557056\ \(0\)\
+\-\ bulging\\:\\ 0\\.13479802612663128\ \(0\)\
+\-\ roots\\:\\ 0\\.13479802612663128\ \(0\)\
+\-\ mandible\\:\\ 0\\.13428618225546823\ \(0\)\
+\-\ left\\:\\ 0\\.12997074207098158\ \(0\)\
+\-\ fibroma\\:\\ 0\\.12775501978422218\ \(0\)\
+\-\ slowly\\:\\ 0\\.12525881471661057\ \(0\)\
+\-\ aneurysmal\\:\\ 0\\.12459416154402674\ \(0\)\
+\-\ growing\\:\\ 0\\.12459416154402674\ \(0\)\
+\-\ behind\\:\\ 0\\.12241270341067\ \(0\)\
+\-\ hyperparathyroidism\\:\\ 0\\.12097580307307605\ \(0\)\
+\-\ giant\\:\\ 0\\.11328660299241577\ \(0\)\
+\-\ vital\\:\\ 0\\.11309044112595903\ \(0\)\
+\-\ noncontributory\\:\\ 0\\.11309044112595903\ \(0\)\
+\-\ visible\\:\\ 0\\.1119484355342184\ \(0\)\
+\-\ spontaneous\\:\\ 0\\.11051153519662447\ \(0\)\
+\-\ hemangioma\\:\\ 0\\.10683238105898352\ \(0\)\
+\-\ 39\\:\\ 0\\.1055434163342193\ \(0\)\
+\-\ last\\:\\ 0\\.10329526550650779\ \(0\)\
+\-\ involved\\:\\ 0\\.1018347926650525\ \(0\)\
+\-\ oral\\:\\ 0\\.1017173030635548\ \(0\)\
+\-\ the\\:\\ 0\\.10136700626959193\ \(0\)\
+\-\ mass\\:\\ 0\\.09702370710728982\ \(0\)\
+\-\ otherwise\\:\\ 0\\.09053244711958051\ \(0\)\
+\-\ involving\\:\\ 0\\.08895859009208962\ \(0\)\
+\-\ central\\:\\ 0\\.0848114272725141\ \(0\)\
+\-\ body\\:\\ 0\\.08358458462128794\ \(0\)\
+\-\ radiograph\\:\\ 0\\.08271935146308591\ \(0\)\
+\-\ medical\\:\\ 0\\.08071564991220338\ \(0\)\
+\-\ her\\:\\ 0\\.07934443002239626\ \(0\)\
+\-\ shows\\:\\ 0\\.07453992447743107\ \(0\)\
+\-\ cyst\\:\\ 0\\.07326349555221755\ \(0\)\
+\-\ cell\\:\\ 0\\.07265171399749223\ \(0\)\
+\-\ over\\:\\ 0\\.07061939418005332\ \(0\)\
+\-\ metastatic\\:\\ 0\\.069654932884527\ \(0\)\
+\-\ is\\:\\ 0\\.06956140923750871\ \(0\)\
+\-\ bone\\:\\ 0\\.06929693511368415\ \(0\)\
+\-\ woman\\:\\ 0\\.06614371117263186\ \(0\)\
+\-\ posterior\\:\\ 0\\.06567447930913593\ \(0\)\
+\-\ lesion\\:\\ 0\\.06088818637299335\ \(0\)\
+\-\ disease\\:\\ 0\\.05331145519987164\ \(0\)\
+\-\ there\\:\\ 0\\.05053420155993211\ \(0\)\
+\-\ history\\:\\ 0\\.04852259624520061\ \(0\)\
+\-\ at\\:\\ 0\\.047970737751079906\ \(0\)\
+\-\ pain\\:\\ 0\\.04544643901687984\ \(0\)\
+\-\ year\\:\\ 0\\.03913990313368199\ \(0\)\
+\-\ on\\:\\ 0\\.038357163400609434\ \(0\)\
+\-\ in\\:\\ 0\\.03159428840735439\ \(0\)\
+\-\ with\\:\\ 0\\.02486882537323755\ \(0\)\
+\-\ of\\:\\ 0\\.024853975129020336\ \(0\)\

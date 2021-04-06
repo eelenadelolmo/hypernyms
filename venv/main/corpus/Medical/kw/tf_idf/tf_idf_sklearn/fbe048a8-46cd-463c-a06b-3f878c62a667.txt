@@ -1,55 +1,53 @@
-Texto: 
-wnl
-ultrasound imaging of the patient's right kidney revealed a faceless kidney sign and showed evidence of a duplex collecting system, without presence of hydronephrosis.
-duplicated collecting system with presence of faceless kidney sign
-hypertrophied column of bertin, lobar dysmorphism, nodular compensatory hypertrophy, segmental infarction, pyelonephritis, infiltrative disease (lymphoma), tumors (tcc).
-35 year old female with prior history of pyelonephritis and right flank pain.
-
-
-Keywords by value: 
-- faceless: 0.400764566857306
-- kidney: 0.2857995232441592
-- pyelonephritis: 0.28164229278566805
-- collecting: 0.254347964800318
-- system: 0.20690286071440955
-- dysmorphism: 0.19507773501338188
-- presence: 0.1948649606004357
-- sign: 0.18775999524141013
-- bertin: 0.18390485104696813
-- tcc: 0.178600302631697
-- compensatory: 0.16742741866528327
-- of: 0.15922217406852596
-- duplex: 0.15778873861382914
-- duplicated: 0.15778873861382914
-- hypertrophied: 0.152484190198558
-- column: 0.1439262376112991
-- lobar: 0.13987014317953175
-- infiltrative: 0.13895572621428798
-- segmental: 0.12858101492288318
-- hypertrophy: 0.12772684243402987
-- wnl: 0.127173982400159
-- hydronephrosis: 0.12584559717336144
-- flank: 0.11894233487142904
-- 35: 0.10873080999301137
-- nodular: 0.10798787734207198
-- infarction: 0.1064536734271124
-- tumors: 0.09972948474022243
-- showed: 0.0903216017442423
-- right: 0.08991642415519235
-- revealed: 0.08891456922151811
-- ultrasound: 0.08364283228141285
-- lymphoma: 0.08076035469279592
-- evidence: 0.07696882011141415
-- prior: 0.075870465871004
-- without: 0.0715258133627822
-- imaging: 0.07126429356370595
-- female: 0.06543500304184541
-- disease: 0.05692158400964121
-- and: 0.056041657431228346
-- with: 0.05310576975986378
-- history: 0.05180843456968209
-- pain: 0.04852396706748666
-- patient: 0.044105051439254174
-- year: 0.04179036711716815
-- old: 0.04013321852705796
-- the: 0.027057836545391734
+\-\ Texto\\:\\ \ \(0\)\
+\-\ wnl\ \(30\)\
+\-\ ultrasound\\ imaging\\ of\\ the\\ patient\\'s\\ right\\ kidney\\ revealed\\ a\\ faceless\\ kidney\\ sign\\ and\\ showed\\ evidence\\ of\\ a\\ duplex\\ collecting\\ system\\,\\ without\\ presence\\ of\\ hydronephrosis\\.\ \(0\)\
+\-\ duplicated\\ collecting\\ system\\ with\\ presence\\ of\\ faceless\\ kidney\\ sign\ \(0\)\
+\-\ hypertrophied\\ column\\ of\\ bertin\\,\\ lobar\\ dysmorphism\\,\\ nodular\\ compensatory\\ hypertrophy\\,\\ segmental\\ infarction\\,\\ pyelonephritis\\,\\ infiltrative\\ disease\\ \\(lymphoma\\)\\,\\ tumors\\ \\(tcc\\)\\.\ \(0\)\
+\-\ 35\\ year\\ old\\ female\\ with\\ prior\\ history\\ of\\ pyelonephritis\\ and\\ right\\ flank\\ pain\\.\ \(2\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ faceless\\:\\ 0\\.400764566857306\ \(0\)\
+\-\ kidney\\:\\ 0\\.2857995232441592\ \(0\)\
+\-\ pyelonephritis\\:\\ 0\\.28164229278566805\ \(0\)\
+\-\ collecting\\:\\ 0\\.254347964800318\ \(0\)\
+\-\ system\\:\\ 0\\.20690286071440955\ \(0\)\
+\-\ dysmorphism\\:\\ 0\\.19507773501338188\ \(0\)\
+\-\ presence\\:\\ 0\\.1948649606004357\ \(0\)\
+\-\ sign\\:\\ 0\\.18775999524141013\ \(0\)\
+\-\ bertin\\:\\ 0\\.18390485104696813\ \(0\)\
+\-\ tcc\\:\\ 0\\.178600302631697\ \(0\)\
+\-\ compensatory\\:\\ 0\\.16742741866528327\ \(0\)\
+\-\ of\\:\\ 0\\.15922217406852596\ \(0\)\
+\-\ duplex\\:\\ 0\\.15778873861382914\ \(0\)\
+\-\ duplicated\\:\\ 0\\.15778873861382914\ \(0\)\
+\-\ hypertrophied\\:\\ 0\\.152484190198558\ \(0\)\
+\-\ column\\:\\ 0\\.1439262376112991\ \(0\)\
+\-\ lobar\\:\\ 0\\.13987014317953175\ \(0\)\
+\-\ infiltrative\\:\\ 0\\.13895572621428798\ \(0\)\
+\-\ segmental\\:\\ 0\\.12858101492288318\ \(0\)\
+\-\ hypertrophy\\:\\ 0\\.12772684243402987\ \(0\)\
+\-\ wnl\\:\\ 0\\.127173982400159\ \(0\)\
+\-\ hydronephrosis\\:\\ 0\\.12584559717336144\ \(0\)\
+\-\ flank\\:\\ 0\\.11894233487142904\ \(0\)\
+\-\ 35\\:\\ 0\\.10873080999301137\ \(0\)\
+\-\ nodular\\:\\ 0\\.10798787734207198\ \(0\)\
+\-\ infarction\\:\\ 0\\.1064536734271124\ \(0\)\
+\-\ tumors\\:\\ 0\\.09972948474022243\ \(0\)\
+\-\ showed\\:\\ 0\\.0903216017442423\ \(0\)\
+\-\ right\\:\\ 0\\.08991642415519235\ \(0\)\
+\-\ revealed\\:\\ 0\\.08891456922151811\ \(0\)\
+\-\ ultrasound\\:\\ 0\\.08364283228141285\ \(0\)\
+\-\ lymphoma\\:\\ 0\\.08076035469279592\ \(0\)\
+\-\ evidence\\:\\ 0\\.07696882011141415\ \(0\)\
+\-\ prior\\:\\ 0\\.075870465871004\ \(0\)\
+\-\ without\\:\\ 0\\.0715258133627822\ \(0\)\
+\-\ imaging\\:\\ 0\\.07126429356370595\ \(0\)\
+\-\ female\\:\\ 0\\.06543500304184541\ \(0\)\
+\-\ disease\\:\\ 0\\.05692158400964121\ \(0\)\
+\-\ and\\:\\ 0\\.056041657431228346\ \(0\)\
+\-\ with\\:\\ 0\\.05310576975986378\ \(0\)\
+\-\ history\\:\\ 0\\.05180843456968209\ \(0\)\
+\-\ pain\\:\\ 0\\.04852396706748666\ \(0\)\
+\-\ patient\\:\\ 0\\.044105051439254174\ \(0\)\
+\-\ year\\:\\ 0\\.04179036711716815\ \(0\)\
+\-\ old\\:\\ 0\\.04013321852705796\ \(0\)\
+\-\ the\\:\\ 0\\.027057836545391734\ \(0\)\

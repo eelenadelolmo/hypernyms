@@ -1,106 +1,104 @@
-Texto: 
-vitals:
-â€¢ hr: 164bpm
-â€¢ rr: 28
-â€¢ heart rate normal
-â€¢ regular rhythm
-â€¢ heart sounds normal
-â€¢ nasal congestion
-â€¢ dyspnea
-â€¢ fever
-surgical correction
-â€¢ double aortic arch creating complete vascular ring with right arch dominance measuring 7mm in diameter and left arch measuring 5mm in diameter
-â€¢ right arch ascends 6mm higher than left
-â€¢ right carotid and subclavian aa arise from right arch and left carotid and subclavian aa arise from left arch.
-â€¢ trachea and esophagus are constrained; maximum constraint by vascular ring results in trachea with reduced diameter from 4.5mm to 2mm and a completely collapsed esophagus
-â€¢ small azygous lobe
-â€¢ right middle lobe consolidation
-double aortic arch
-â€¢ tracheoesophageal fistula/esophageal atresia
-â€¢ double aortic arch-vascular ring
-patient is a 20-month old infant girl with a history of gagging while eating solid foods and cyanotic spells. there is no significant past medical history.
-
-
-Keywords by value: 
-- arch: 0.5176407754421996
-- double: 0.20170679188480084
-- ring: 0.19275531960512077
-- diameter: 0.18391096436627646
-- aortic: 0.1768481366993221
-- aa: 0.17245225885763535
-- 5mm: 0.16254715313971319
-- vascular: 0.15107157687318162
-- trachea: 0.14776359715307746
-- subclavian: 0.14276583489881228
-- arise: 0.1396158997338025
-- carotid: 0.12850354640341385
-- right: 0.12644563295843705
-- esophagus: 0.12563239972056167
-- 164bpm: 0.12198422829403181
-- constraint: 0.12198422829403181
-- measuring: 0.11801895368114593
-- dominance: 0.11656244240145038
-- gagging: 0.11656244240145038
-- constrained: 0.1127156240913738
-- and: 0.11033259026383675
-- ascends: 0.10973179999814713
-- heart: 0.10607402173305357
-- spells: 0.10523257086775407
-- left: 0.10407959024238593
-- tracheoesophageal: 0.10187205230621091
-- 7mm: 0.10046319579548911
-- cyanotic: 0.10046319579548911
-- foods: 0.09596396666509606
-- from: 0.09088249310600618
-- creating: 0.09054218077251461
-- 2mm: 0.08992012585472216
-- collapsed: 0.08932572713979592
-- azygous: 0.08932572713979592
-- lobe: 0.0881605976097424
-- 6mm: 0.08490981148339978
-- eating: 0.08226453127820521
-- maximum: 0.08095893218652292
-- correction: 0.07841771296812865
-- atresia: 0.07564120728074177
-- congestion: 0.07543388887490196
-- reduced: 0.0731684684284444
-- rhythm: 0.0723271992680698
-- consolidation: 0.07050094271933513
-- rr: 0.07008085259041764
-- nasal: 0.06954050556547073
-- higher: 0.06927830560936445
-- completely: 0.06815815405712203
-- vitals: 0.06734749559913272
-- infant: 0.06734749559913272
-- dyspnea: 0.06712462761807052
-- regular: 0.06586021206406426
-- hr: 0.06556194462009445
-- 28: 0.06330546551086014
-- normal: 0.062287132583600004
-- results: 0.05943789968798021
-- sounds: 0.05888954985446401
-- solid: 0.058478078333204946
-- history: 0.058284793803121265
-- rate: 0.05780088202049254
-- in: 0.056926052839592296
-- middle: 0.0545447110522445
-- girl: 0.05350762023377187
-- complete: 0.05346776396188257
-- fever: 0.05171708071920881
-- past: 0.049650826712998364
-- while: 0.049296586942350104
-- medical: 0.048477362876919644
-- with: 0.04480822764553789
-- significant: 0.04404091212155173
-- than: 0.0432395106866522
-- is: 0.041778189006773825
-- small: 0.039346471212962676
-- surgical: 0.03707332282229918
-- by: 0.03239182387781653
-- there: 0.03035055567762762
-- are: 0.02894381847419595
-- patient: 0.024809221222033547
-- no: 0.024804554752148766
-- old: 0.02257505352105385
-- to: 0.01906920955647404
-- of: 0.014927156909149692
+\-\ Texto\\:\\ \ \(0\)\
+\-\ vitals\\:\ \(1\)\
+\-\ \\â\\€\\¢\\ hr\\:\\ 164bpm\ \(0\)\
+\-\ \\â\\€\\¢\\ rr\\:\\ 28\ \(0\)\
+\-\ \\â\\€\\¢\\ heart\\ rate\\ normal\ \(0\)\
+\-\ \\â\\€\\¢\\ regular\\ rhythm\ \(1\)\
+\-\ \\â\\€\\¢\\ heart\\ sounds\\ normal\ \(1\)\
+\-\ \\â\\€\\¢\\ nasal\\ congestion\ \(1\)\
+\-\ \\â\\€\\¢\\ dyspnea\ \(1\)\
+\-\ \\â\\€\\¢\\ fever\ \(1\)\
+\-\ surgical\\ correction\ \(25\)\
+\-\ \\â\\€\\¢\\ double\\ aortic\\ arch\\ creating\\ complete\\ vascular\\ ring\\ with\\ right\\ arch\\ dominance\\ measuring\\ 7mm\\ in\\ diameter\\ and\\ left\\ arch\\ measuring\\ 5mm\\ in\\ diameter\ \(1\)\
+\-\ \\â\\€\\¢\\ right\\ arch\\ ascends\\ 6mm\\ higher\\ than\\ left\ \(1\)\
+\-\ \\â\\€\\¢\\ right\\ carotid\\ and\\ subclavian\\ aa\\ arise\\ from\\ right\\ arch\\ and\\ left\\ carotid\\ and\\ subclavian\\ aa\\ arise\\ from\\ left\\ arch\\.\ \(1\)\
+\-\ \\â\\€\\¢\\ trachea\\ and\\ esophagus\\ are\\ constrained\\;\\ maximum\\ constraint\\ by\\ vascular\\ ring\\ results\\ in\\ trachea\\ with\\ reduced\\ diameter\\ from\\ 4\\.5mm\\ to\\ 2mm\\ and\\ a\\ completely\\ collapsed\\ esophagus\ \(1\)\
+\-\ \\â\\€\\¢\\ small\\ azygous\\ lobe\ \(1\)\
+\-\ \\â\\€\\¢\\ right\\ middle\\ lobe\\ consolidation\ \(1\)\
+\-\ double\\ aortic\\ arch\ \(15\)\
+\-\ \\â\\€\\¢\\ tracheoesophageal\\ fistula\\/esophageal\\ atresia\ \(1\)\
+\-\ \\â\\€\\¢\\ double\\ aortic\\ arch\\-vascular\\ ring\ \(1\)\
+\-\ patient\\ is\\ a\\ 20\\-month\\ old\\ infant\\ girl\\ with\\ a\\ history\\ of\\ gagging\\ while\\ eating\\ solid\\ foods\\ and\\ cyanotic\\ spells\\.\\ there\\ is\\ no\\ significant\\ past\\ medical\\ history\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ arch\\:\\ 0\\.5176407754421996\ \(0\)\
+\-\ double\\:\\ 0\\.20170679188480084\ \(0\)\
+\-\ ring\\:\\ 0\\.19275531960512077\ \(0\)\
+\-\ diameter\\:\\ 0\\.18391096436627646\ \(0\)\
+\-\ aortic\\:\\ 0\\.1768481366993221\ \(0\)\
+\-\ aa\\:\\ 0\\.17245225885763535\ \(0\)\
+\-\ 5mm\\:\\ 0\\.16254715313971319\ \(0\)\
+\-\ vascular\\:\\ 0\\.15107157687318162\ \(0\)\
+\-\ trachea\\:\\ 0\\.14776359715307746\ \(0\)\
+\-\ subclavian\\:\\ 0\\.14276583489881228\ \(0\)\
+\-\ arise\\:\\ 0\\.1396158997338025\ \(0\)\
+\-\ carotid\\:\\ 0\\.12850354640341385\ \(0\)\
+\-\ right\\:\\ 0\\.12644563295843705\ \(0\)\
+\-\ esophagus\\:\\ 0\\.12563239972056167\ \(0\)\
+\-\ 164bpm\\:\\ 0\\.12198422829403181\ \(0\)\
+\-\ constraint\\:\\ 0\\.12198422829403181\ \(0\)\
+\-\ measuring\\:\\ 0\\.11801895368114593\ \(0\)\
+\-\ dominance\\:\\ 0\\.11656244240145038\ \(0\)\
+\-\ gagging\\:\\ 0\\.11656244240145038\ \(0\)\
+\-\ constrained\\:\\ 0\\.1127156240913738\ \(0\)\
+\-\ and\\:\\ 0\\.11033259026383675\ \(0\)\
+\-\ ascends\\:\\ 0\\.10973179999814713\ \(0\)\
+\-\ heart\\:\\ 0\\.10607402173305357\ \(0\)\
+\-\ spells\\:\\ 0\\.10523257086775407\ \(0\)\
+\-\ left\\:\\ 0\\.10407959024238593\ \(0\)\
+\-\ tracheoesophageal\\:\\ 0\\.10187205230621091\ \(0\)\
+\-\ 7mm\\:\\ 0\\.10046319579548911\ \(0\)\
+\-\ cyanotic\\:\\ 0\\.10046319579548911\ \(0\)\
+\-\ foods\\:\\ 0\\.09596396666509606\ \(0\)\
+\-\ from\\:\\ 0\\.09088249310600618\ \(0\)\
+\-\ creating\\:\\ 0\\.09054218077251461\ \(0\)\
+\-\ 2mm\\:\\ 0\\.08992012585472216\ \(0\)\
+\-\ collapsed\\:\\ 0\\.08932572713979592\ \(0\)\
+\-\ azygous\\:\\ 0\\.08932572713979592\ \(0\)\
+\-\ lobe\\:\\ 0\\.0881605976097424\ \(0\)\
+\-\ 6mm\\:\\ 0\\.08490981148339978\ \(0\)\
+\-\ eating\\:\\ 0\\.08226453127820521\ \(0\)\
+\-\ maximum\\:\\ 0\\.08095893218652292\ \(0\)\
+\-\ correction\\:\\ 0\\.07841771296812865\ \(0\)\
+\-\ atresia\\:\\ 0\\.07564120728074177\ \(0\)\
+\-\ congestion\\:\\ 0\\.07543388887490196\ \(0\)\
+\-\ reduced\\:\\ 0\\.0731684684284444\ \(0\)\
+\-\ rhythm\\:\\ 0\\.0723271992680698\ \(0\)\
+\-\ consolidation\\:\\ 0\\.07050094271933513\ \(0\)\
+\-\ rr\\:\\ 0\\.07008085259041764\ \(0\)\
+\-\ nasal\\:\\ 0\\.06954050556547073\ \(0\)\
+\-\ higher\\:\\ 0\\.06927830560936445\ \(0\)\
+\-\ completely\\:\\ 0\\.06815815405712203\ \(0\)\
+\-\ vitals\\:\\ 0\\.06734749559913272\ \(0\)\
+\-\ infant\\:\\ 0\\.06734749559913272\ \(0\)\
+\-\ dyspnea\\:\\ 0\\.06712462761807052\ \(0\)\
+\-\ regular\\:\\ 0\\.06586021206406426\ \(0\)\
+\-\ hr\\:\\ 0\\.06556194462009445\ \(0\)\
+\-\ 28\\:\\ 0\\.06330546551086014\ \(0\)\
+\-\ normal\\:\\ 0\\.062287132583600004\ \(0\)\
+\-\ results\\:\\ 0\\.05943789968798021\ \(0\)\
+\-\ sounds\\:\\ 0\\.05888954985446401\ \(0\)\
+\-\ solid\\:\\ 0\\.058478078333204946\ \(0\)\
+\-\ history\\:\\ 0\\.058284793803121265\ \(0\)\
+\-\ rate\\:\\ 0\\.05780088202049254\ \(0\)\
+\-\ in\\:\\ 0\\.056926052839592296\ \(0\)\
+\-\ middle\\:\\ 0\\.0545447110522445\ \(0\)\
+\-\ girl\\:\\ 0\\.05350762023377187\ \(0\)\
+\-\ complete\\:\\ 0\\.05346776396188257\ \(0\)\
+\-\ fever\\:\\ 0\\.05171708071920881\ \(0\)\
+\-\ past\\:\\ 0\\.049650826712998364\ \(0\)\
+\-\ while\\:\\ 0\\.049296586942350104\ \(0\)\
+\-\ medical\\:\\ 0\\.048477362876919644\ \(0\)\
+\-\ with\\:\\ 0\\.04480822764553789\ \(0\)\
+\-\ significant\\:\\ 0\\.04404091212155173\ \(0\)\
+\-\ than\\:\\ 0\\.0432395106866522\ \(0\)\
+\-\ is\\:\\ 0\\.041778189006773825\ \(0\)\
+\-\ small\\:\\ 0\\.039346471212962676\ \(0\)\
+\-\ surgical\\:\\ 0\\.03707332282229918\ \(0\)\
+\-\ by\\:\\ 0\\.03239182387781653\ \(0\)\
+\-\ there\\:\\ 0\\.03035055567762762\ \(0\)\
+\-\ are\\:\\ 0\\.02894381847419595\ \(0\)\
+\-\ patient\\:\\ 0\\.024809221222033547\ \(0\)\
+\-\ no\\:\\ 0\\.024804554752148766\ \(0\)\
+\-\ old\\:\\ 0\\.02257505352105385\ \(0\)\
+\-\ to\\:\\ 0\\.01906920955647404\ \(0\)\
+\-\ of\\:\\ 0\\.014927156909149692\ \(0\)\

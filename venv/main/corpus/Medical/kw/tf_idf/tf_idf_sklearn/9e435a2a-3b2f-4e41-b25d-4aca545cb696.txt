@@ -1,83 +1,80 @@
-Texto: 
-mass in ruq on pe.  
-nontender abdominal exam.
-baby is well nourished.
-
-afp 193
-axial ct images (non-con, hepatic arterial phase, portal phase, venous phase, and ten minute delayed) demonstrate a single 3 cm mass in the right anterior lobe.  the mass is heterogenously hypo attenuating on the non contrast images.  it demonstrates heterogenous, predominately peripheral enhancement with some inner enhancment on arterial and portal phase images.  on the venous phase and ten minute delayed images, the mass is iso-attentuating to the liver.
-hepatoblastoma
-hepatocellular carcinoma
-hepatoblastoma
-mesenchymal hamartoma
-hemangioendothelioma
-hepatic adenoma
-abdominal mass found on well baby exam at 3 months.  patient was sent to tertiary facility to evaluate.
-
-
-Keywords by value: 
-- phase: 0.41311986547506624
-- hepatoblastoma: 0.25112130199864313
-- ten: 0.23088212302726535
-- minute: 0.2171555037660318
-- portal: 0.18480761107844743
-- mass: 0.1844124935982911
-- images: 0.17865762822246203
-- baby: 0.1741056816133079
-- arterial: 0.1590350626164409
-- hepatic: 0.15378749675167214
-- delayed: 0.1511178178775627
-- on: 0.14581055210025112
-- venous: 0.13787598984012522
-- 193: 0.1332114051348752
-- enhancment: 0.12895740472536732
-- hemangioendothelioma: 0.12895740472536732
-- heterogenously: 0.12408780904640354
-- attenuating: 0.11921821336743976
-- tertiary: 0.11921821336743976
-- the: 0.11560066885981443
-- mesenchymal: 0.11307531051332406
-- hypo: 0.11036118978517
-- predominately: 0.10915160359418825
-- abdominal: 0.10562003501788793
-- afp: 0.10171444225239912
-- hepatocellular: 0.09926711516984048
-- nourished: 0.09894468629156235
-- ruq: 0.09801268920613355
-- exam: 0.09721448107064688
-- facility: 0.09575240274827865
-- hamartoma: 0.09497698453465077
-- inner: 0.09447909557312673
-- well: 0.09350751726677532
-- non: 0.09162941845594562
-- nontender: 0.09094905765997446
-- heterogenous: 0.09094905765997446
-- sent: 0.09036193507057992
-- pe: 0.07982437362526341
-- is: 0.07932902164734762
-- adenoma: 0.0769807768673152
-- evaluate: 0.07508428894003266
-- single: 0.07424727776920799
-- to: 0.07241777461718432
-- peripheral: 0.06904685062837068
-- liver: 0.06661002742719492
-- found: 0.062477292479180026
-- some: 0.06075322159730312
-- and: 0.059857456380469035
-- carcinoma: 0.05775650658768062
-- months: 0.05620444657601395
-- lobe: 0.05580020039557337
-- axial: 0.05577525270600899
-- enhancement: 0.055576983917318044
-- cm: 0.05545423497980449
-- anterior: 0.05391222838956989
-- demonstrate: 0.05019771949921508
-- it: 0.04942658389264493
-- demonstrates: 0.048509584470387945
-- in: 0.048040889653667276
-- contrast: 0.04691545942655472
-- ct: 0.036760457785051964
-- at: 0.03647110023798155
-- was: 0.0336513463036767
-- right: 0.032012903040694436
-- patient: 0.031405402263167084
-- with: 0.01890722272595834
+\-\ Texto\\:\\ \ \(0\)\
+\-\ mass\\ in\\ ruq\\ on\\ pe\\.\\ \\ \ \(0\)\
+\-\ nontender\\ abdominal\\ exam\\.\ \(0\)\
+\-\ baby\\ is\\ well\\ nourished\\.\ \(0\)\
+\-\ afp\\ 193\ \(0\)\
+\-\ axial\\ ct\\ images\\ \\(non\\-con\\,\\ hepatic\\ arterial\\ phase\\,\\ portal\\ phase\\,\\ venous\\ phase\\,\\ and\\ ten\\ minute\\ delayed\\)\\ demonstrate\\ a\\ single\\ 3\\ cm\\ mass\\ in\\ the\\ right\\ anterior\\ lobe\\.\\ \\ the\\ mass\\ is\\ heterogenously\\ hypo\\ attenuating\\ on\\ the\\ non\\ contrast\\ images\\.\\ \\ it\\ demonstrates\\ heterogenous\\,\\ predominately\\ peripheral\\ enhancement\\ with\\ some\\ inner\\ enhancment\\ on\\ arterial\\ and\\ portal\\ phase\\ images\\.\\ \\ on\\ the\\ venous\\ phase\\ and\\ ten\\ minute\\ delayed\\ images\\,\\ the\\ mass\\ is\\ iso\\-attentuating\\ to\\ the\\ liver\\.\ \(0\)\
+\-\ hepatoblastoma\ \(1\)\
+\-\ hepatocellular\\ carcinoma\ \(28\)\
+\-\ hepatoblastoma\ \(1\)\
+\-\ mesenchymal\\ hamartoma\ \(0\)\
+\-\ hemangioendothelioma\ \(5\)\
+\-\ hepatic\\ adenoma\ \(5\)\
+\-\ abdominal\\ mass\\ found\\ on\\ well\\ baby\\ exam\\ at\\ 3\\ months\\.\\ \\ patient\\ was\\ sent\\ to\\ tertiary\\ facility\\ to\\ evaluate\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ phase\\:\\ 0\\.41311986547506624\ \(0\)\
+\-\ hepatoblastoma\\:\\ 0\\.25112130199864313\ \(0\)\
+\-\ ten\\:\\ 0\\.23088212302726535\ \(0\)\
+\-\ minute\\:\\ 0\\.2171555037660318\ \(0\)\
+\-\ portal\\:\\ 0\\.18480761107844743\ \(0\)\
+\-\ mass\\:\\ 0\\.1844124935982911\ \(0\)\
+\-\ images\\:\\ 0\\.17865762822246203\ \(0\)\
+\-\ baby\\:\\ 0\\.1741056816133079\ \(0\)\
+\-\ arterial\\:\\ 0\\.1590350626164409\ \(0\)\
+\-\ hepatic\\:\\ 0\\.15378749675167214\ \(0\)\
+\-\ delayed\\:\\ 0\\.1511178178775627\ \(0\)\
+\-\ on\\:\\ 0\\.14581055210025112\ \(0\)\
+\-\ venous\\:\\ 0\\.13787598984012522\ \(0\)\
+\-\ 193\\:\\ 0\\.1332114051348752\ \(0\)\
+\-\ enhancment\\:\\ 0\\.12895740472536732\ \(0\)\
+\-\ hemangioendothelioma\\:\\ 0\\.12895740472536732\ \(0\)\
+\-\ heterogenously\\:\\ 0\\.12408780904640354\ \(0\)\
+\-\ attenuating\\:\\ 0\\.11921821336743976\ \(0\)\
+\-\ tertiary\\:\\ 0\\.11921821336743976\ \(0\)\
+\-\ the\\:\\ 0\\.11560066885981443\ \(0\)\
+\-\ mesenchymal\\:\\ 0\\.11307531051332406\ \(0\)\
+\-\ hypo\\:\\ 0\\.11036118978517\ \(0\)\
+\-\ predominately\\:\\ 0\\.10915160359418825\ \(0\)\
+\-\ abdominal\\:\\ 0\\.10562003501788793\ \(0\)\
+\-\ afp\\:\\ 0\\.10171444225239912\ \(0\)\
+\-\ hepatocellular\\:\\ 0\\.09926711516984048\ \(0\)\
+\-\ nourished\\:\\ 0\\.09894468629156235\ \(0\)\
+\-\ ruq\\:\\ 0\\.09801268920613355\ \(0\)\
+\-\ exam\\:\\ 0\\.09721448107064688\ \(0\)\
+\-\ facility\\:\\ 0\\.09575240274827865\ \(0\)\
+\-\ hamartoma\\:\\ 0\\.09497698453465077\ \(0\)\
+\-\ inner\\:\\ 0\\.09447909557312673\ \(0\)\
+\-\ well\\:\\ 0\\.09350751726677532\ \(0\)\
+\-\ non\\:\\ 0\\.09162941845594562\ \(0\)\
+\-\ nontender\\:\\ 0\\.09094905765997446\ \(0\)\
+\-\ heterogenous\\:\\ 0\\.09094905765997446\ \(0\)\
+\-\ sent\\:\\ 0\\.09036193507057992\ \(0\)\
+\-\ pe\\:\\ 0\\.07982437362526341\ \(0\)\
+\-\ is\\:\\ 0\\.07932902164734762\ \(0\)\
+\-\ adenoma\\:\\ 0\\.0769807768673152\ \(0\)\
+\-\ evaluate\\:\\ 0\\.07508428894003266\ \(0\)\
+\-\ single\\:\\ 0\\.07424727776920799\ \(0\)\
+\-\ to\\:\\ 0\\.07241777461718432\ \(0\)\
+\-\ peripheral\\:\\ 0\\.06904685062837068\ \(0\)\
+\-\ liver\\:\\ 0\\.06661002742719492\ \(0\)\
+\-\ found\\:\\ 0\\.062477292479180026\ \(0\)\
+\-\ some\\:\\ 0\\.06075322159730312\ \(0\)\
+\-\ and\\:\\ 0\\.059857456380469035\ \(0\)\
+\-\ carcinoma\\:\\ 0\\.05775650658768062\ \(0\)\
+\-\ months\\:\\ 0\\.05620444657601395\ \(0\)\
+\-\ lobe\\:\\ 0\\.05580020039557337\ \(0\)\
+\-\ axial\\:\\ 0\\.05577525270600899\ \(0\)\
+\-\ enhancement\\:\\ 0\\.055576983917318044\ \(0\)\
+\-\ cm\\:\\ 0\\.05545423497980449\ \(0\)\
+\-\ anterior\\:\\ 0\\.05391222838956989\ \(0\)\
+\-\ demonstrate\\:\\ 0\\.05019771949921508\ \(0\)\
+\-\ it\\:\\ 0\\.04942658389264493\ \(0\)\
+\-\ demonstrates\\:\\ 0\\.048509584470387945\ \(0\)\
+\-\ in\\:\\ 0\\.048040889653667276\ \(0\)\
+\-\ contrast\\:\\ 0\\.04691545942655472\ \(0\)\
+\-\ ct\\:\\ 0\\.036760457785051964\ \(0\)\
+\-\ at\\:\\ 0\\.03647110023798155\ \(0\)\
+\-\ was\\:\\ 0\\.0336513463036767\ \(0\)\
+\-\ right\\:\\ 0\\.032012903040694436\ \(0\)\
+\-\ patient\\:\\ 0\\.031405402263167084\ \(0\)\
+\-\ with\\:\\ 0\\.01890722272595834\ \(0\)\

@@ -1,117 +1,112 @@
-Texto: 
-pain along the medial tibia with tenderness to palpation.  antalgic gait.
-patient was given exercise limitations and a walking boot.
-initial plain radiographs demonstrate linear, nonaggressive periosteal reaction along the tibial diaphysis.
-
-tc 99m mdp bone scan demonstrates a tubular focus of increased uptake along the distal tibial diaphysis on pool and delayed imaging.
-
-ct demonstrates a vertically oriented fracture along the medial tibial diaphysis with eccentric periosteal reaction and endosteal callus.
-vertical stress fracture
-based upon scintigraphic findings:
-tumor
-fracture
-infection
-38 year old african american male with history of pain with ambulation for 3 weeks.  
-
-pmhx:  no chronic medical disease, history of malignancy or sickle cell disease.
-given the clinical history of a recent increase in activity and pain along the tibial diaphysis, the likelihood of a stress fracture was high.  the initial plain radiographs demonstrated periosteal reaction. scintigraphic findings of a tubular focus of activity suggested a longitudinal stress fracture; however, given the pattern of uptake, the possibility of neoplasm was entertained.  subsequent ct of the tibia, confirmed the diagnosis of a longitudinal stress fracture.
-
-
-Keywords by value: 
-- diaphysis: 0.29724158849818044
-- tibial: 0.26364356152231505
-- fracture: 0.26030673396588405
-- along: 0.2557114292324853
-- stress: 0.25210306973561
-- periosteal: 0.2015288366427465
-- reaction: 0.19482225395721672
-- the: 0.182781891578769
-- scintigraphic: 0.17352414614784265
-- of: 0.16432507413629255
-- given: 0.1575345024807013
-- longitudinal: 0.1450941058410515
-- tubular: 0.1326390692216613
-- tibia: 0.13044896101152598
-- focus: 0.12932582626285197
-- uptake: 0.11739601517087543
-- activity: 0.11208934683218341
-- nonaggressive: 0.10737639898810483
-- boot: 0.10531354554680437
-- initial: 0.10241839255847715
-- entertained: 0.10195044112320614
-- plain: 0.10072883399575178
-- medial: 0.0993780643646351
-- callus: 0.09926505410340103
-- radiographs: 0.09902120417991735
-- limitations: 0.09511454265638801
-- antalgic: 0.09343960213419256
-- ambulation: 0.0899893178669595
-- vertically: 0.08939446177230023
-- mdp: 0.08775379030511625
-- history: 0.08749446444558934
-- endosteal: 0.08629247897343749
-- eccentric: 0.08540001108718613
-- likelihood: 0.08416386589775104
-- pain: 0.08194763162810638
-- pmhx: 0.08071358163051798
-- pool: 0.0801187255358587
-- vertical: 0.0801187255358587
-- was: 0.07981169303203439
-- demonstrates: 0.07670088500915115
-- sickle: 0.07549193397339943
-- findings: 0.07534988575300663
-- tc: 0.07375657773382834
-- 99m: 0.07322477032431884
-- exercise: 0.07190200956603422
-- walking: 0.07174549247572931
-- suggested: 0.07143784539407647
-- possibility: 0.07098924276247559
-- african: 0.06894741376959856
-- oriented: 0.06882175971335121
-- 38: 0.06774100650055444
-- gait: 0.06611365272430433
-- american: 0.065129234134506
-- disease: 0.06408639249167905
-- and: 0.06309570818362333
-- linear: 0.06149472140211152
-- increase: 0.06127945576296315
-- upon: 0.060055877854466304
-- with: 0.05979027575597545
-- delayed: 0.05973494979603608
-- ct: 0.05812376412286504
-- subsequent: 0.05779040162215473
-- malignancy: 0.05714793943435438
-- pattern: 0.056992030191187676
-- confirmed: 0.056287548661135396
-- based: 0.05529583142994046
-- neoplasm: 0.05211091950167207
-- recent: 0.05168717775616051
-- palpation: 0.05148023458060623
-- medical: 0.04851466538571321
-- clinical: 0.04837825178174349
-- tenderness: 0.047872203197912855
-- demonstrated: 0.046914132730642835
-- infection: 0.04611144065854295
-- weeks: 0.04574974137890511
-- chronic: 0.045310946046144746
-- scan: 0.04528937946827962
-- however: 0.04518206487016898
-- distal: 0.04435318953114794
-- cell: 0.04366778435310569
-- high: 0.04338445566098067
-- bone: 0.04165137272576899
-- increased: 0.04127895020375201
-- imaging: 0.040117220624010914
-- tumor: 0.039928225888227434
-- demonstrate: 0.039685039081103976
-- diagnosis: 0.03957210964578581
-- male: 0.033987782374340234
-- or: 0.026555980964911723
-- patient: 0.02482831149712021
-- no: 0.02482364143646597
-- year: 0.02352529287474301
-- for: 0.023136895677468055
-- on: 0.023054822076633556
-- old: 0.022592424641975223
-- to: 0.019083882989906726
-- in: 0.018989952157354485
+\-\ Texto\\:\\ \ \(0\)\
+\-\ pain\\ along\\ the\\ medial\\ tibia\\ with\\ tenderness\\ to\\ palpation\\.\\ \\ antalgic\\ gait\\.\ \(0\)\
+\-\ patient\\ was\\ given\\ exercise\\ limitations\\ and\\ a\\ walking\\ boot\\.\ \(0\)\
+\-\ initial\\ plain\\ radiographs\\ demonstrate\\ linear\\,\\ nonaggressive\\ periosteal\\ reaction\\ along\\ the\\ tibial\\ diaphysis\\.\ \(0\)\
+\-\ tc\\ 99m\\ mdp\\ bone\\ scan\\ demonstrates\\ a\\ tubular\\ focus\\ of\\ increased\\ uptake\\ along\\ the\\ distal\\ tibial\\ diaphysis\\ on\\ pool\\ and\\ delayed\\ imaging\\.\ \(0\)\
+\-\ ct\\ demonstrates\\ a\\ vertically\\ oriented\\ fracture\\ along\\ the\\ medial\\ tibial\\ diaphysis\\ with\\ eccentric\\ periosteal\\ reaction\\ and\\ endosteal\\ callus\\.\ \(0\)\
+\-\ vertical\\ stress\\ fracture\ \(0\)\
+\-\ based\\ upon\\ scintigraphic\\ findings\\:\ \(0\)\
+\-\ tumor\ \(1901\)\
+\-\ fracture\ \(2355\)\
+\-\ infection\ \(713\)\
+\-\ 38\\ year\\ old\\ african\\ american\\ male\\ with\\ history\\ of\\ pain\\ with\\ ambulation\\ for\\ 3\\ weeks\\.\\ \\ \ \(0\)\
+\-\ pmhx\\:\\ \\ no\\ chronic\\ medical\\ disease\\,\\ history\\ of\\ malignancy\\ or\\ sickle\\ cell\\ disease\\.\ \(0\)\
+\-\ given\\ the\\ clinical\\ history\\ of\\ a\\ recent\\ increase\\ in\\ activity\\ and\\ pain\\ along\\ the\\ tibial\\ diaphysis\\,\\ the\\ likelihood\\ of\\ a\\ stress\\ fracture\\ was\\ high\\.\\ \\ the\\ initial\\ plain\\ radiographs\\ demonstrated\\ periosteal\\ reaction\\.\\ scintigraphic\\ findings\\ of\\ a\\ tubular\\ focus\\ of\\ activity\\ suggested\\ a\\ longitudinal\\ stress\\ fracture\\;\\ however\\,\\ given\\ the\\ pattern\\ of\\ uptake\\,\\ the\\ possibility\\ of\\ neoplasm\\ was\\ entertained\\.\\ \\ subsequent\\ ct\\ of\\ the\\ tibia\\,\\ confirmed\\ the\\ diagnosis\\ of\\ a\\ longitudinal\\ stress\\ fracture\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ diaphysis\\:\\ 0\\.29724158849818044\ \(0\)\
+\-\ tibial\\:\\ 0\\.26364356152231505\ \(0\)\
+\-\ fracture\\:\\ 0\\.26030673396588405\ \(0\)\
+\-\ along\\:\\ 0\\.2557114292324853\ \(0\)\
+\-\ stress\\:\\ 0\\.25210306973561\ \(0\)\
+\-\ periosteal\\:\\ 0\\.2015288366427465\ \(0\)\
+\-\ reaction\\:\\ 0\\.19482225395721672\ \(0\)\
+\-\ the\\:\\ 0\\.182781891578769\ \(0\)\
+\-\ scintigraphic\\:\\ 0\\.17352414614784265\ \(0\)\
+\-\ of\\:\\ 0\\.16432507413629255\ \(0\)\
+\-\ given\\:\\ 0\\.1575345024807013\ \(0\)\
+\-\ longitudinal\\:\\ 0\\.1450941058410515\ \(0\)\
+\-\ tubular\\:\\ 0\\.1326390692216613\ \(0\)\
+\-\ tibia\\:\\ 0\\.13044896101152598\ \(0\)\
+\-\ focus\\:\\ 0\\.12932582626285197\ \(0\)\
+\-\ uptake\\:\\ 0\\.11739601517087543\ \(0\)\
+\-\ activity\\:\\ 0\\.11208934683218341\ \(0\)\
+\-\ nonaggressive\\:\\ 0\\.10737639898810483\ \(0\)\
+\-\ boot\\:\\ 0\\.10531354554680437\ \(0\)\
+\-\ initial\\:\\ 0\\.10241839255847715\ \(0\)\
+\-\ entertained\\:\\ 0\\.10195044112320614\ \(0\)\
+\-\ plain\\:\\ 0\\.10072883399575178\ \(0\)\
+\-\ medial\\:\\ 0\\.0993780643646351\ \(0\)\
+\-\ callus\\:\\ 0\\.09926505410340103\ \(0\)\
+\-\ radiographs\\:\\ 0\\.09902120417991735\ \(0\)\
+\-\ limitations\\:\\ 0\\.09511454265638801\ \(0\)\
+\-\ antalgic\\:\\ 0\\.09343960213419256\ \(0\)\
+\-\ ambulation\\:\\ 0\\.0899893178669595\ \(0\)\
+\-\ vertically\\:\\ 0\\.08939446177230023\ \(0\)\
+\-\ mdp\\:\\ 0\\.08775379030511625\ \(0\)\
+\-\ history\\:\\ 0\\.08749446444558934\ \(0\)\
+\-\ endosteal\\:\\ 0\\.08629247897343749\ \(0\)\
+\-\ eccentric\\:\\ 0\\.08540001108718613\ \(0\)\
+\-\ likelihood\\:\\ 0\\.08416386589775104\ \(0\)\
+\-\ pain\\:\\ 0\\.08194763162810638\ \(0\)\
+\-\ pmhx\\:\\ 0\\.08071358163051798\ \(0\)\
+\-\ pool\\:\\ 0\\.0801187255358587\ \(0\)\
+\-\ vertical\\:\\ 0\\.0801187255358587\ \(0\)\
+\-\ was\\:\\ 0\\.07981169303203439\ \(0\)\
+\-\ demonstrates\\:\\ 0\\.07670088500915115\ \(0\)\
+\-\ sickle\\:\\ 0\\.07549193397339943\ \(0\)\
+\-\ findings\\:\\ 0\\.07534988575300663\ \(0\)\
+\-\ tc\\:\\ 0\\.07375657773382834\ \(0\)\
+\-\ 99m\\:\\ 0\\.07322477032431884\ \(0\)\
+\-\ exercise\\:\\ 0\\.07190200956603422\ \(0\)\
+\-\ walking\\:\\ 0\\.07174549247572931\ \(0\)\
+\-\ suggested\\:\\ 0\\.07143784539407647\ \(0\)\
+\-\ possibility\\:\\ 0\\.07098924276247559\ \(0\)\
+\-\ african\\:\\ 0\\.06894741376959856\ \(0\)\
+\-\ oriented\\:\\ 0\\.06882175971335121\ \(0\)\
+\-\ 38\\:\\ 0\\.06774100650055444\ \(0\)\
+\-\ gait\\:\\ 0\\.06611365272430433\ \(0\)\
+\-\ american\\:\\ 0\\.065129234134506\ \(0\)\
+\-\ disease\\:\\ 0\\.06408639249167905\ \(0\)\
+\-\ and\\:\\ 0\\.06309570818362333\ \(0\)\
+\-\ linear\\:\\ 0\\.06149472140211152\ \(0\)\
+\-\ increase\\:\\ 0\\.06127945576296315\ \(0\)\
+\-\ upon\\:\\ 0\\.060055877854466304\ \(0\)\
+\-\ with\\:\\ 0\\.05979027575597545\ \(0\)\
+\-\ delayed\\:\\ 0\\.05973494979603608\ \(0\)\
+\-\ ct\\:\\ 0\\.05812376412286504\ \(0\)\
+\-\ subsequent\\:\\ 0\\.05779040162215473\ \(0\)\
+\-\ malignancy\\:\\ 0\\.05714793943435438\ \(0\)\
+\-\ pattern\\:\\ 0\\.056992030191187676\ \(0\)\
+\-\ confirmed\\:\\ 0\\.056287548661135396\ \(0\)\
+\-\ based\\:\\ 0\\.05529583142994046\ \(0\)\
+\-\ neoplasm\\:\\ 0\\.05211091950167207\ \(0\)\
+\-\ recent\\:\\ 0\\.05168717775616051\ \(0\)\
+\-\ palpation\\:\\ 0\\.05148023458060623\ \(0\)\
+\-\ medical\\:\\ 0\\.04851466538571321\ \(0\)\
+\-\ clinical\\:\\ 0\\.04837825178174349\ \(0\)\
+\-\ tenderness\\:\\ 0\\.047872203197912855\ \(0\)\
+\-\ demonstrated\\:\\ 0\\.046914132730642835\ \(0\)\
+\-\ infection\\:\\ 0\\.04611144065854295\ \(0\)\
+\-\ weeks\\:\\ 0\\.04574974137890511\ \(0\)\
+\-\ chronic\\:\\ 0\\.045310946046144746\ \(0\)\
+\-\ scan\\:\\ 0\\.04528937946827962\ \(0\)\
+\-\ however\\:\\ 0\\.04518206487016898\ \(0\)\
+\-\ distal\\:\\ 0\\.04435318953114794\ \(0\)\
+\-\ cell\\:\\ 0\\.04366778435310569\ \(0\)\
+\-\ high\\:\\ 0\\.04338445566098067\ \(0\)\
+\-\ bone\\:\\ 0\\.04165137272576899\ \(0\)\
+\-\ increased\\:\\ 0\\.04127895020375201\ \(0\)\
+\-\ imaging\\:\\ 0\\.040117220624010914\ \(0\)\
+\-\ tumor\\:\\ 0\\.039928225888227434\ \(0\)\
+\-\ demonstrate\\:\\ 0\\.039685039081103976\ \(0\)\
+\-\ diagnosis\\:\\ 0\\.03957210964578581\ \(0\)\
+\-\ male\\:\\ 0\\.033987782374340234\ \(0\)\
+\-\ or\\:\\ 0\\.026555980964911723\ \(0\)\
+\-\ patient\\:\\ 0\\.02482831149712021\ \(0\)\
+\-\ no\\:\\ 0\\.02482364143646597\ \(0\)\
+\-\ year\\:\\ 0\\.02352529287474301\ \(0\)\
+\-\ for\\:\\ 0\\.023136895677468055\ \(0\)\
+\-\ on\\:\\ 0\\.023054822076633556\ \(0\)\
+\-\ old\\:\\ 0\\.022592424641975223\ \(0\)\
+\-\ to\\:\\ 0\\.019083882989906726\ \(0\)\
+\-\ in\\:\\ 0\\.018989952157354485\ \(0\)\

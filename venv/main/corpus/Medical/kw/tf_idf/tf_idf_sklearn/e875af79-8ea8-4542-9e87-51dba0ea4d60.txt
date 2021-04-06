@@ -1,93 +1,91 @@
-Texto: 
-no recent labs.
-due to the extensive vascular involvement the patient's tumor1 was considered non-operable and the patient went on to receive chemotherapy.
-pancreatic head mass w/ pancreatic ductal dilatation
-pancreatic adenocarcinoma
-the aggressive appearance of this lesion is highly suggestive of adenocarcionoma. based upon imaging characteristics cystic neoplasms such as mucinous cystadenoma and mucinous cystadenocarcinoma would also be included in the differential diagnosis. these, however, tend to occur in younger patients.  islet cell tumors tend to be hypervascular.  an abscess secondary to pancreatitis would be expected to have a more cystic and less infiltrative appearance.
-78 year old female with epigastric pain radiating to the back and twenty pound weight loss.
-
-
-Keywords by value: 
-- pancreatic: 0.3159732772608234
-- mucinous: 0.24856520345349828
-- tend: 0.23734646013343438
-- to: 0.20331678995979002
-- tumor1: 0.18580020806401862
-- adenocarcionoma: 0.18580020806401862
-- would: 0.16448612090354933
-- pound: 0.14616746133807978
-- islet: 0.14476226952957566
-- be: 0.1413910998366727
-- appearance: 0.1400831721021916
-- cystic: 0.1399448548022558
-- the: 0.13909503591601588
-- twenty: 0.1306448003009643
-- cystadenocarcinoma: 0.1299769633282434
-- hypervascular: 0.12284431941081009
-- receive: 0.12238661019714182
-- younger: 0.12150094010148328
-- epigastric: 0.11944189498221916
-- infiltrative: 0.11905393653140048
-- 78: 0.11829950943741227
-- cystadenoma: 0.11757203200378483
-- pancreatitis: 0.11521286192096188
-- went: 0.11281395094192831
-- radiating: 0.11171275287899594
-- neoplasms: 0.10826914096853049
-- characteristics: 0.10653471461214095
-- expected: 0.1047452245564125
-- highly: 0.10399772037304364
-- ductal: 0.1022408384434356
-- aggressive: 0.10046866007837627
-- included: 0.10046866007837627
-- and: 0.09603029840803938
-- adenocarcinoma: 0.09495954206280319
-- dilatation: 0.09484215151969257
-- suggestive: 0.09460938095358738
-- upon: 0.09140374262441597
-- considered: 0.0905328031612043
-- extensive: 0.08951654142849974
-- occur: 0.08544583278462163
-- tumors: 0.08544583278462163
-- based: 0.08415905527970713
-- involvement: 0.08408989662973924
-- chemotherapy: 0.08249686065614056
-- weight: 0.08101943711481346
-- labs: 0.08049191172497604
-- less: 0.07904048334077834
-- recent: 0.07866676271147344
-- back: 0.07748497938991813
-- vascular: 0.07670152884556644
-- patient: 0.07557630243557684
-- differential: 0.07548939253790998
-- such: 0.0747341425432592
-- abscess: 0.07460372244225144
-- loss: 0.07078229323695588
-- head: 0.06929345776737768
-- secondary: 0.06886396312233323
-- however: 0.06876612208783926
-- due: 0.06678355358261247
-- cell: 0.06646142000724971
-- these: 0.06560792070738082
-- patients: 0.06535869281763425
-- more: 0.06379630921703931
-- imaging: 0.06105753907402595
-- diagnosis: 0.06022789199641312
-- have: 0.05803924964355728
-- in: 0.057804590040197563
-- female: 0.05606314263769313
-- lesion: 0.0557002045148569
-- also: 0.05464865285922791
-- as: 0.046674406911327376
-- of: 0.04547258114121234
-- an: 0.044427582219663406
-- mass: 0.04437839793387771
-- pain: 0.041574172240987604
-- was: 0.04049055484625605
-- this: 0.03992220537154779
-- no: 0.03778104348683302
-- year: 0.035804985155622054
-- on: 0.03508893881213326
-- old: 0.03438517995259047
-- is: 0.031817212432110185
-- with: 0.022749875498804348
+\-\ Texto\\:\\ \ \(0\)\
+\-\ no\\ recent\\ labs\\.\ \(0\)\
+\-\ due\\ to\\ the\\ extensive\\ vascular\\ involvement\\ the\\ patient\\'s\\ tumor1\\ was\\ considered\\ non\\-operable\\ and\\ the\\ patient\\ went\\ on\\ to\\ receive\\ chemotherapy\\.\ \(0\)\
+\-\ pancreatic\\ head\\ mass\\ w\\/\\ pancreatic\\ ductal\\ dilatation\ \(0\)\
+\-\ pancreatic\\ adenocarcinoma\ \(3\)\
+\-\ the\\ aggressive\\ appearance\\ of\\ this\\ lesion\\ is\\ highly\\ suggestive\\ of\\ adenocarcionoma\\.\\ based\\ upon\\ imaging\\ characteristics\\ cystic\\ neoplasms\\ such\\ as\\ mucinous\\ cystadenoma\\ and\\ mucinous\\ cystadenocarcinoma\\ would\\ also\\ be\\ included\\ in\\ the\\ differential\\ diagnosis\\.\\ these\\,\\ however\\,\\ tend\\ to\\ occur\\ in\\ younger\\ patients\\.\\ \\ islet\\ cell\\ tumors\\ tend\\ to\\ be\\ hypervascular\\.\\ \\ an\\ abscess\\ secondary\\ to\\ pancreatitis\\ would\\ be\\ expected\\ to\\ have\\ a\\ more\\ cystic\\ and\\ less\\ infiltrative\\ appearance\\.\ \(0\)\
+\-\ 78\\ year\\ old\\ female\\ with\\ epigastric\\ pain\\ radiating\\ to\\ the\\ back\\ and\\ twenty\\ pound\\ weight\\ loss\\.\ \(1\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ pancreatic\\:\\ 0\\.3159732772608234\ \(0\)\
+\-\ mucinous\\:\\ 0\\.24856520345349828\ \(0\)\
+\-\ tend\\:\\ 0\\.23734646013343438\ \(0\)\
+\-\ to\\:\\ 0\\.20331678995979002\ \(0\)\
+\-\ tumor1\\:\\ 0\\.18580020806401862\ \(0\)\
+\-\ adenocarcionoma\\:\\ 0\\.18580020806401862\ \(0\)\
+\-\ would\\:\\ 0\\.16448612090354933\ \(0\)\
+\-\ pound\\:\\ 0\\.14616746133807978\ \(0\)\
+\-\ islet\\:\\ 0\\.14476226952957566\ \(0\)\
+\-\ be\\:\\ 0\\.1413910998366727\ \(0\)\
+\-\ appearance\\:\\ 0\\.1400831721021916\ \(0\)\
+\-\ cystic\\:\\ 0\\.1399448548022558\ \(0\)\
+\-\ the\\:\\ 0\\.13909503591601588\ \(0\)\
+\-\ twenty\\:\\ 0\\.1306448003009643\ \(0\)\
+\-\ cystadenocarcinoma\\:\\ 0\\.1299769633282434\ \(0\)\
+\-\ hypervascular\\:\\ 0\\.12284431941081009\ \(0\)\
+\-\ receive\\:\\ 0\\.12238661019714182\ \(0\)\
+\-\ younger\\:\\ 0\\.12150094010148328\ \(0\)\
+\-\ epigastric\\:\\ 0\\.11944189498221916\ \(0\)\
+\-\ infiltrative\\:\\ 0\\.11905393653140048\ \(0\)\
+\-\ 78\\:\\ 0\\.11829950943741227\ \(0\)\
+\-\ cystadenoma\\:\\ 0\\.11757203200378483\ \(0\)\
+\-\ pancreatitis\\:\\ 0\\.11521286192096188\ \(0\)\
+\-\ went\\:\\ 0\\.11281395094192831\ \(0\)\
+\-\ radiating\\:\\ 0\\.11171275287899594\ \(0\)\
+\-\ neoplasms\\:\\ 0\\.10826914096853049\ \(0\)\
+\-\ characteristics\\:\\ 0\\.10653471461214095\ \(0\)\
+\-\ expected\\:\\ 0\\.1047452245564125\ \(0\)\
+\-\ highly\\:\\ 0\\.10399772037304364\ \(0\)\
+\-\ ductal\\:\\ 0\\.1022408384434356\ \(0\)\
+\-\ aggressive\\:\\ 0\\.10046866007837627\ \(0\)\
+\-\ included\\:\\ 0\\.10046866007837627\ \(0\)\
+\-\ and\\:\\ 0\\.09603029840803938\ \(0\)\
+\-\ adenocarcinoma\\:\\ 0\\.09495954206280319\ \(0\)\
+\-\ dilatation\\:\\ 0\\.09484215151969257\ \(0\)\
+\-\ suggestive\\:\\ 0\\.09460938095358738\ \(0\)\
+\-\ upon\\:\\ 0\\.09140374262441597\ \(0\)\
+\-\ considered\\:\\ 0\\.0905328031612043\ \(0\)\
+\-\ extensive\\:\\ 0\\.08951654142849974\ \(0\)\
+\-\ occur\\:\\ 0\\.08544583278462163\ \(0\)\
+\-\ tumors\\:\\ 0\\.08544583278462163\ \(0\)\
+\-\ based\\:\\ 0\\.08415905527970713\ \(0\)\
+\-\ involvement\\:\\ 0\\.08408989662973924\ \(0\)\
+\-\ chemotherapy\\:\\ 0\\.08249686065614056\ \(0\)\
+\-\ weight\\:\\ 0\\.08101943711481346\ \(0\)\
+\-\ labs\\:\\ 0\\.08049191172497604\ \(0\)\
+\-\ less\\:\\ 0\\.07904048334077834\ \(0\)\
+\-\ recent\\:\\ 0\\.07866676271147344\ \(0\)\
+\-\ back\\:\\ 0\\.07748497938991813\ \(0\)\
+\-\ vascular\\:\\ 0\\.07670152884556644\ \(0\)\
+\-\ patient\\:\\ 0\\.07557630243557684\ \(0\)\
+\-\ differential\\:\\ 0\\.07548939253790998\ \(0\)\
+\-\ such\\:\\ 0\\.0747341425432592\ \(0\)\
+\-\ abscess\\:\\ 0\\.07460372244225144\ \(0\)\
+\-\ loss\\:\\ 0\\.07078229323695588\ \(0\)\
+\-\ head\\:\\ 0\\.06929345776737768\ \(0\)\
+\-\ secondary\\:\\ 0\\.06886396312233323\ \(0\)\
+\-\ however\\:\\ 0\\.06876612208783926\ \(0\)\
+\-\ due\\:\\ 0\\.06678355358261247\ \(0\)\
+\-\ cell\\:\\ 0\\.06646142000724971\ \(0\)\
+\-\ these\\:\\ 0\\.06560792070738082\ \(0\)\
+\-\ patients\\:\\ 0\\.06535869281763425\ \(0\)\
+\-\ more\\:\\ 0\\.06379630921703931\ \(0\)\
+\-\ imaging\\:\\ 0\\.06105753907402595\ \(0\)\
+\-\ diagnosis\\:\\ 0\\.06022789199641312\ \(0\)\
+\-\ have\\:\\ 0\\.05803924964355728\ \(0\)\
+\-\ in\\:\\ 0\\.057804590040197563\ \(0\)\
+\-\ female\\:\\ 0\\.05606314263769313\ \(0\)\
+\-\ lesion\\:\\ 0\\.0557002045148569\ \(0\)\
+\-\ also\\:\\ 0\\.05464865285922791\ \(0\)\
+\-\ as\\:\\ 0\\.046674406911327376\ \(0\)\
+\-\ of\\:\\ 0\\.04547258114121234\ \(0\)\
+\-\ an\\:\\ 0\\.044427582219663406\ \(0\)\
+\-\ mass\\:\\ 0\\.04437839793387771\ \(0\)\
+\-\ pain\\:\\ 0\\.041574172240987604\ \(0\)\
+\-\ was\\:\\ 0\\.04049055484625605\ \(0\)\
+\-\ this\\:\\ 0\\.03992220537154779\ \(0\)\
+\-\ no\\:\\ 0\\.03778104348683302\ \(0\)\
+\-\ year\\:\\ 0\\.035804985155622054\ \(0\)\
+\-\ on\\:\\ 0\\.03508893881213326\ \(0\)\
+\-\ old\\:\\ 0\\.03438517995259047\ \(0\)\
+\-\ is\\:\\ 0\\.031817212432110185\ \(0\)\
+\-\ with\\:\\ 0\\.022749875498804348\ \(0\)\

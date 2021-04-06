@@ -1,89 +1,87 @@
-Texto: 
-physical exam demonstrated tenderness to palpation over the pubic symphysis.  there was also pain with resisted hip adduction and with passive hip abduction.
-initial treatment was conservative with activity modification and the use of nsaids for pain relief.  on follow-up, patient was free of pain.
-plain films at time of presentation showed diffuse sclerosis on both sides of the pubic symphysis.
-osetitis pubis
-1. ostetitis pubis
-2. bilateral stress fracture of the pubic symphysis
-3. oseomyelitis
-32 year old white female with gradual onset of pubic pain that radiates to the groin.  her pain developed and progress over several months.  patient has a recent history of long distance running with no change in her training regimen.
-
-
-Keywords by value: 
-- pubic: 0.45071508106994146
-- symphysis: 0.36303761019858355
-- pubis: 0.28041935375283017
-- pain: 0.17834227787549997
-- osetitis: 0.15940681701996898
-- ostetitis: 0.15940681701996898
-- oseomyelitis: 0.15940681701996898
-- hip: 0.15314011995908938
-- resisted: 0.15232172377646427
-- of: 0.1365457995944158
-- adduction: 0.13312458363291038
-- her: 0.12454631599779734
-- modification: 0.1230706763198214
-- gradual: 0.11267877026748536
-- abduction: 0.11208637489259747
-- training: 0.11208637489259747
-- over: 0.11085069715214148
-- regimen: 0.11042092576401624
-- sides: 0.10989927538453655
-- radiates: 0.10989927538453655
-- distance: 0.10705942123605298
-- passive: 0.10662794277063138
-- was: 0.10421630634326676
-- groin: 0.10316021305233378
-- progress: 0.10149476392375253
-- running: 0.10117990873882494
-- the: 0.09944686091260375
-- with: 0.09759098976938314
-- nsaids: 0.09753212920942347
-- relief: 0.09348163012393149
-- 32: 0.08542008230937428
-- stress: 0.08229762378019864
-- films: 0.07893611925223538
-- free: 0.07759130278920891
-- conservative: 0.07695581493872657
-- use: 0.07626747250524848
-- change: 0.0755331632022487
-- developed: 0.07395290526808528
-- activity: 0.07318186886845535
-- sclerosis: 0.07099846716804713
-- presentation: 0.06861666937834207
-- recent: 0.06749194944270688
-- palpation: 0.06722172771754492
-- initial: 0.06686781202458057
-- showed: 0.06639259388676458
-- long: 0.06609677562495064
-- plain: 0.06576471831695052
-- white: 0.06576471831695052
-- several: 0.06539854447546684
-- patient: 0.0648404968913858
-- onset: 0.06400607435414145
-- tenderness: 0.06251044181957544
-- diffuse: 0.06251044181957544
-- and: 0.061791713123764073
-- demonstrated: 0.06125941503988573
-- on: 0.06020893202362149
-- time: 0.059081662410891043
-- months: 0.0580206585630688
-- fracture: 0.05665044243436701
-- both: 0.055585346986233394
-- physical: 0.05404769812636979
-- bilateral: 0.053570633754488776
-- exam: 0.05017795350015118
-- to: 0.049838606859195486
-- female: 0.04809923095959033
-- treatment: 0.0474819190112553
-- also: 0.04688567304358019
-- has: 0.04553000461462944
-- that: 0.043256512578271386
-- there: 0.03966156562220654
-- history: 0.038082765250707994
-- at: 0.03764964132269298
-- no: 0.03241415038595636
-- year: 0.030718796155160252
-- for: 0.030211635866280943
-- old: 0.029500677884131868
-- in: 0.024796650669726913
+\-\ Texto\\:\\ \ \(0\)\
+\-\ physical\\ exam\\ demonstrated\\ tenderness\\ to\\ palpation\\ over\\ the\\ pubic\\ symphysis\\.\\ \\ there\\ was\\ also\\ pain\\ with\\ resisted\\ hip\\ adduction\\ and\\ with\\ passive\\ hip\\ abduction\\.\ \(0\)\
+\-\ initial\\ treatment\\ was\\ conservative\\ with\\ activity\\ modification\\ and\\ the\\ use\\ of\\ nsaids\\ for\\ pain\\ relief\\.\\ \\ on\\ follow\\-up\\,\\ patient\\ was\\ free\\ of\\ pain\\.\ \(0\)\
+\-\ plain\\ films\\ at\\ time\\ of\\ presentation\\ showed\\ diffuse\\ sclerosis\\ on\\ both\\ sides\\ of\\ the\\ pubic\\ symphysis\\.\ \(0\)\
+\-\ osetitis\\ pubis\ \(0\)\
+\-\ 1\\.\\ ostetitis\\ pubis\ \(0\)\
+\-\ 2\\.\\ bilateral\\ stress\\ fracture\\ of\\ the\\ pubic\\ symphysis\ \(0\)\
+\-\ 3\\.\\ oseomyelitis\ \(0\)\
+\-\ 32\\ year\\ old\\ white\\ female\\ with\\ gradual\\ onset\\ of\\ pubic\\ pain\\ that\\ radiates\\ to\\ the\\ groin\\.\\ \\ her\\ pain\\ developed\\ and\\ progress\\ over\\ several\\ months\\.\\ \\ patient\\ has\\ a\\ recent\\ history\\ of\\ long\\ distance\\ running\\ with\\ no\\ change\\ in\\ her\\ training\\ regimen\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ pubic\\:\\ 0\\.45071508106994146\ \(0\)\
+\-\ symphysis\\:\\ 0\\.36303761019858355\ \(0\)\
+\-\ pubis\\:\\ 0\\.28041935375283017\ \(0\)\
+\-\ pain\\:\\ 0\\.17834227787549997\ \(0\)\
+\-\ osetitis\\:\\ 0\\.15940681701996898\ \(0\)\
+\-\ ostetitis\\:\\ 0\\.15940681701996898\ \(0\)\
+\-\ oseomyelitis\\:\\ 0\\.15940681701996898\ \(0\)\
+\-\ hip\\:\\ 0\\.15314011995908938\ \(0\)\
+\-\ resisted\\:\\ 0\\.15232172377646427\ \(0\)\
+\-\ of\\:\\ 0\\.1365457995944158\ \(0\)\
+\-\ adduction\\:\\ 0\\.13312458363291038\ \(0\)\
+\-\ her\\:\\ 0\\.12454631599779734\ \(0\)\
+\-\ modification\\:\\ 0\\.1230706763198214\ \(0\)\
+\-\ gradual\\:\\ 0\\.11267877026748536\ \(0\)\
+\-\ abduction\\:\\ 0\\.11208637489259747\ \(0\)\
+\-\ training\\:\\ 0\\.11208637489259747\ \(0\)\
+\-\ over\\:\\ 0\\.11085069715214148\ \(0\)\
+\-\ regimen\\:\\ 0\\.11042092576401624\ \(0\)\
+\-\ sides\\:\\ 0\\.10989927538453655\ \(0\)\
+\-\ radiates\\:\\ 0\\.10989927538453655\ \(0\)\
+\-\ distance\\:\\ 0\\.10705942123605298\ \(0\)\
+\-\ passive\\:\\ 0\\.10662794277063138\ \(0\)\
+\-\ was\\:\\ 0\\.10421630634326676\ \(0\)\
+\-\ groin\\:\\ 0\\.10316021305233378\ \(0\)\
+\-\ progress\\:\\ 0\\.10149476392375253\ \(0\)\
+\-\ running\\:\\ 0\\.10117990873882494\ \(0\)\
+\-\ the\\:\\ 0\\.09944686091260375\ \(0\)\
+\-\ with\\:\\ 0\\.09759098976938314\ \(0\)\
+\-\ nsaids\\:\\ 0\\.09753212920942347\ \(0\)\
+\-\ relief\\:\\ 0\\.09348163012393149\ \(0\)\
+\-\ 32\\:\\ 0\\.08542008230937428\ \(0\)\
+\-\ stress\\:\\ 0\\.08229762378019864\ \(0\)\
+\-\ films\\:\\ 0\\.07893611925223538\ \(0\)\
+\-\ free\\:\\ 0\\.07759130278920891\ \(0\)\
+\-\ conservative\\:\\ 0\\.07695581493872657\ \(0\)\
+\-\ use\\:\\ 0\\.07626747250524848\ \(0\)\
+\-\ change\\:\\ 0\\.0755331632022487\ \(0\)\
+\-\ developed\\:\\ 0\\.07395290526808528\ \(0\)\
+\-\ activity\\:\\ 0\\.07318186886845535\ \(0\)\
+\-\ sclerosis\\:\\ 0\\.07099846716804713\ \(0\)\
+\-\ presentation\\:\\ 0\\.06861666937834207\ \(0\)\
+\-\ recent\\:\\ 0\\.06749194944270688\ \(0\)\
+\-\ palpation\\:\\ 0\\.06722172771754492\ \(0\)\
+\-\ initial\\:\\ 0\\.06686781202458057\ \(0\)\
+\-\ showed\\:\\ 0\\.06639259388676458\ \(0\)\
+\-\ long\\:\\ 0\\.06609677562495064\ \(0\)\
+\-\ plain\\:\\ 0\\.06576471831695052\ \(0\)\
+\-\ white\\:\\ 0\\.06576471831695052\ \(0\)\
+\-\ several\\:\\ 0\\.06539854447546684\ \(0\)\
+\-\ patient\\:\\ 0\\.0648404968913858\ \(0\)\
+\-\ onset\\:\\ 0\\.06400607435414145\ \(0\)\
+\-\ tenderness\\:\\ 0\\.06251044181957544\ \(0\)\
+\-\ diffuse\\:\\ 0\\.06251044181957544\ \(0\)\
+\-\ and\\:\\ 0\\.061791713123764073\ \(0\)\
+\-\ demonstrated\\:\\ 0\\.06125941503988573\ \(0\)\
+\-\ on\\:\\ 0\\.06020893202362149\ \(0\)\
+\-\ time\\:\\ 0\\.059081662410891043\ \(0\)\
+\-\ months\\:\\ 0\\.0580206585630688\ \(0\)\
+\-\ fracture\\:\\ 0\\.05665044243436701\ \(0\)\
+\-\ both\\:\\ 0\\.055585346986233394\ \(0\)\
+\-\ physical\\:\\ 0\\.05404769812636979\ \(0\)\
+\-\ bilateral\\:\\ 0\\.053570633754488776\ \(0\)\
+\-\ exam\\:\\ 0\\.05017795350015118\ \(0\)\
+\-\ to\\:\\ 0\\.049838606859195486\ \(0\)\
+\-\ female\\:\\ 0\\.04809923095959033\ \(0\)\
+\-\ treatment\\:\\ 0\\.0474819190112553\ \(0\)\
+\-\ also\\:\\ 0\\.04688567304358019\ \(0\)\
+\-\ has\\:\\ 0\\.04553000461462944\ \(0\)\
+\-\ that\\:\\ 0\\.043256512578271386\ \(0\)\
+\-\ there\\:\\ 0\\.03966156562220654\ \(0\)\
+\-\ history\\:\\ 0\\.038082765250707994\ \(0\)\
+\-\ at\\:\\ 0\\.03764964132269298\ \(0\)\
+\-\ no\\:\\ 0\\.03241415038595636\ \(0\)\
+\-\ year\\:\\ 0\\.030718796155160252\ \(0\)\
+\-\ for\\:\\ 0\\.030211635866280943\ \(0\)\
+\-\ old\\:\\ 0\\.029500677884131868\ \(0\)\
+\-\ in\\:\\ 0\\.024796650669726913\ \(0\)\

@@ -1,97 +1,93 @@
-Texto: 
-none required
-â€¢ patient 1: scleral plaques and phthisis bulbi ("wood eye")
-Â» axial nect shows calcified scleral plaques in the left globe at the insertion sites of the medial and lateral rectus muscles. the right globe is calcified and shrunken, indicative of phthisis bulbi.
-
-â€¢ patients 2 and 3: optic drusen
-Â» axial nect shows a punctate calcification near the optic discs.
-benign orbital calcifications
-â€¢ benign globe calcification
-â€¢ retinoblastoma
-â€¢ radiation therapy (e.g. for pituitary, other skull base tumor)
-â€¢ retinal astrocytic hamartoma (tuberous sclerosis)
-â€¢ toxocara canii or other parasitic infection
-patient 1: 72 year old man with remote history of right zygomatic arch fracture and chronic blindness.
-
-patients 2 and 3: 24 and 32 year old patients with concern for papilledema and visual field deficits.
-
-
-Keywords by value: 
-- globe: 0.29502848432378487
-- phthisis: 0.26548852883427315
-- bulbi: 0.26548852883427315
-- nect: 0.25596993810269036
-- scleral: 0.23745382548263003
-- plaques: 0.1904241706514844
-- optic: 0.16247106336513625
-- patients: 0.15926600382893977
-- and: 0.156004363149508
-- calcified: 0.1520459176315709
-- canii: 0.14421140985353934
-- toxocara: 0.1357605182036105
-- calcification: 0.1347529862355318
-- shrunken: 0.13274426441713658
-- astrocytic: 0.13274426441713658
-- wood: 0.1301940581777178
-- drusen: 0.1301940581777178
-- benign: 0.12965257375669417
-- zygomatic: 0.12127711898073382
-- blindness: 0.11651782361494241
-- retinoblastoma: 0.11282622733080495
-- discs: 0.1112494544259466
-- shows: 0.11077484892845581
-- retinal: 0.11051406251986913
-- axial: 0.10902379549755131
-- papilledema: 0.104047729057641
-- parasitic: 0.10264884597272843
-- punctate: 0.09834282810792828
-- other: 0.0980164172023557
-- rectus: 0.09766748561026474
-- remote: 0.09766748561026474
-- indicative: 0.09701863406118277
-- the: 0.09415184953369964
-- tuberous: 0.09410877031245443
-- hamartoma: 0.09282567838338347
-- insertion: 0.09258058362123824
-- sites: 0.09210102558437203
-- 72: 0.09095963553965337
-- field: 0.08869549280555537
-- pituitary: 0.08704891560365612
-- concern: 0.08653456555847931
-- orbital: 0.08277558183349261
-- deficits: 0.08111343818483546
-- muscles: 0.08087192157645225
-- 32: 0.08087192157645225
-- visual: 0.08051613165193046
-- arch: 0.08005334360520198
-- near: 0.07684801811673829
-- skull: 0.07656840142341863
-- eye: 0.07549492695547658
-- base: 0.07178601659979095
-- calcifications: 0.06887392009664202
-- required: 0.0673764931177659
-- sclerosis: 0.06721818000674654
-- 24: 0.06690602746576953
-- right: 0.06257556936206571
-- radiation: 0.06253785182599224
-- medial: 0.06142815449949918
-- patient: 0.06138808858303896
-- year: 0.05816637039954031
-- for: 0.057206056946308315
-- infection: 0.05700535060885043
-- chronic: 0.056015737719108685
-- old: 0.055859850372349
-- of: 0.055403772397618165
-- therapy: 0.054222075553838386
-- fracture: 0.05363411055061311
-- none: 0.05157297914636542
-- man: 0.04996100906309641
-- tumor: 0.04936134034073151
-- lateral: 0.04683409537335983
-- with: 0.036957917425615834
-- history: 0.03605506248068445
-- at: 0.03564500007624362
-- or: 0.032829878746941446
-- left: 0.03219189675637406
-- is: 0.0258440515386778
-- in: 0.023476362163382777
+\-\ Texto\\:\\ \ \(0\)\
+\-\ none\\ required\ \(5\)\
+\-\ \\â\\€\\¢\\ patient\\ 1\\:\\ scleral\\ plaques\\ and\\ phthisis\\ bulbi\\ \\(\\"wood\\ eye\\"\\)\ \(0\)\
+\-\ \\Â\\»\\ axial\\ nect\\ shows\\ calcified\\ scleral\\ plaques\\ in\\ the\\ left\\ globe\\ at\\ the\\ insertion\\ sites\\ of\\ the\\ medial\\ and\\ lateral\\ rectus\\ muscles\\.\\ the\\ right\\ globe\\ is\\ calcified\\ and\\ shrunken\\,\\ indicative\\ of\\ phthisis\\ bulbi\\.\ \(0\)\
+\-\ \\â\\€\\¢\\ patients\\ 2\\ and\\ 3\\:\\ optic\\ drusen\ \(0\)\
+\-\ \\Â\\»\\ axial\\ nect\\ shows\\ a\\ punctate\\ calcification\\ near\\ the\\ optic\\ discs\\.\ \(0\)\
+\-\ benign\\ orbital\\ calcifications\ \(0\)\
+\-\ \\â\\€\\¢\\ benign\\ globe\\ calcification\ \(0\)\
+\-\ \\â\\€\\¢\\ retinoblastoma\ \(1\)\
+\-\ \\â\\€\\¢\\ radiation\\ therapy\\ \\(e\\.g\\.\\ for\\ pituitary\\,\\ other\\ skull\\ base\\ tumor\\)\ \(0\)\
+\-\ \\â\\€\\¢\\ retinal\\ astrocytic\\ hamartoma\\ \\(tuberous\\ sclerosis\\)\ \(0\)\
+\-\ \\â\\€\\¢\\ toxocara\\ canii\\ or\\ other\\ parasitic\\ infection\ \(0\)\
+\-\ patient\\ 1\\:\\ 72\\ year\\ old\\ man\\ with\\ remote\\ history\\ of\\ right\\ zygomatic\\ arch\\ fracture\\ and\\ chronic\\ blindness\\.\ \(0\)\
+\-\ patients\\ 2\\ and\\ 3\\:\\ 24\\ and\\ 32\\ year\\ old\\ patients\\ with\\ concern\\ for\\ papilledema\\ and\\ visual\\ field\\ deficits\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ globe\\:\\ 0\\.29502848432378487\ \(0\)\
+\-\ phthisis\\:\\ 0\\.26548852883427315\ \(0\)\
+\-\ bulbi\\:\\ 0\\.26548852883427315\ \(0\)\
+\-\ nect\\:\\ 0\\.25596993810269036\ \(0\)\
+\-\ scleral\\:\\ 0\\.23745382548263003\ \(0\)\
+\-\ plaques\\:\\ 0\\.1904241706514844\ \(0\)\
+\-\ optic\\:\\ 0\\.16247106336513625\ \(0\)\
+\-\ patients\\:\\ 0\\.15926600382893977\ \(0\)\
+\-\ and\\:\\ 0\\.156004363149508\ \(0\)\
+\-\ calcified\\:\\ 0\\.1520459176315709\ \(0\)\
+\-\ canii\\:\\ 0\\.14421140985353934\ \(0\)\
+\-\ toxocara\\:\\ 0\\.1357605182036105\ \(0\)\
+\-\ calcification\\:\\ 0\\.1347529862355318\ \(0\)\
+\-\ shrunken\\:\\ 0\\.13274426441713658\ \(0\)\
+\-\ astrocytic\\:\\ 0\\.13274426441713658\ \(0\)\
+\-\ wood\\:\\ 0\\.1301940581777178\ \(0\)\
+\-\ drusen\\:\\ 0\\.1301940581777178\ \(0\)\
+\-\ benign\\:\\ 0\\.12965257375669417\ \(0\)\
+\-\ zygomatic\\:\\ 0\\.12127711898073382\ \(0\)\
+\-\ blindness\\:\\ 0\\.11651782361494241\ \(0\)\
+\-\ retinoblastoma\\:\\ 0\\.11282622733080495\ \(0\)\
+\-\ discs\\:\\ 0\\.1112494544259466\ \(0\)\
+\-\ shows\\:\\ 0\\.11077484892845581\ \(0\)\
+\-\ retinal\\:\\ 0\\.11051406251986913\ \(0\)\
+\-\ axial\\:\\ 0\\.10902379549755131\ \(0\)\
+\-\ papilledema\\:\\ 0\\.104047729057641\ \(0\)\
+\-\ parasitic\\:\\ 0\\.10264884597272843\ \(0\)\
+\-\ punctate\\:\\ 0\\.09834282810792828\ \(0\)\
+\-\ other\\:\\ 0\\.0980164172023557\ \(0\)\
+\-\ rectus\\:\\ 0\\.09766748561026474\ \(0\)\
+\-\ remote\\:\\ 0\\.09766748561026474\ \(0\)\
+\-\ indicative\\:\\ 0\\.09701863406118277\ \(0\)\
+\-\ the\\:\\ 0\\.09415184953369964\ \(0\)\
+\-\ tuberous\\:\\ 0\\.09410877031245443\ \(0\)\
+\-\ hamartoma\\:\\ 0\\.09282567838338347\ \(0\)\
+\-\ insertion\\:\\ 0\\.09258058362123824\ \(0\)\
+\-\ sites\\:\\ 0\\.09210102558437203\ \(0\)\
+\-\ 72\\:\\ 0\\.09095963553965337\ \(0\)\
+\-\ field\\:\\ 0\\.08869549280555537\ \(0\)\
+\-\ pituitary\\:\\ 0\\.08704891560365612\ \(0\)\
+\-\ concern\\:\\ 0\\.08653456555847931\ \(0\)\
+\-\ orbital\\:\\ 0\\.08277558183349261\ \(0\)\
+\-\ deficits\\:\\ 0\\.08111343818483546\ \(0\)\
+\-\ muscles\\:\\ 0\\.08087192157645225\ \(0\)\
+\-\ 32\\:\\ 0\\.08087192157645225\ \(0\)\
+\-\ visual\\:\\ 0\\.08051613165193046\ \(0\)\
+\-\ arch\\:\\ 0\\.08005334360520198\ \(0\)\
+\-\ near\\:\\ 0\\.07684801811673829\ \(0\)\
+\-\ skull\\:\\ 0\\.07656840142341863\ \(0\)\
+\-\ eye\\:\\ 0\\.07549492695547658\ \(0\)\
+\-\ base\\:\\ 0\\.07178601659979095\ \(0\)\
+\-\ calcifications\\:\\ 0\\.06887392009664202\ \(0\)\
+\-\ required\\:\\ 0\\.0673764931177659\ \(0\)\
+\-\ sclerosis\\:\\ 0\\.06721818000674654\ \(0\)\
+\-\ 24\\:\\ 0\\.06690602746576953\ \(0\)\
+\-\ right\\:\\ 0\\.06257556936206571\ \(0\)\
+\-\ radiation\\:\\ 0\\.06253785182599224\ \(0\)\
+\-\ medial\\:\\ 0\\.06142815449949918\ \(0\)\
+\-\ patient\\:\\ 0\\.06138808858303896\ \(0\)\
+\-\ year\\:\\ 0\\.05816637039954031\ \(0\)\
+\-\ for\\:\\ 0\\.057206056946308315\ \(0\)\
+\-\ infection\\:\\ 0\\.05700535060885043\ \(0\)\
+\-\ chronic\\:\\ 0\\.056015737719108685\ \(0\)\
+\-\ old\\:\\ 0\\.055859850372349\ \(0\)\
+\-\ of\\:\\ 0\\.055403772397618165\ \(0\)\
+\-\ therapy\\:\\ 0\\.054222075553838386\ \(0\)\
+\-\ fracture\\:\\ 0\\.05363411055061311\ \(0\)\
+\-\ none\\:\\ 0\\.05157297914636542\ \(0\)\
+\-\ man\\:\\ 0\\.04996100906309641\ \(0\)\
+\-\ tumor\\:\\ 0\\.04936134034073151\ \(0\)\
+\-\ lateral\\:\\ 0\\.04683409537335983\ \(0\)\
+\-\ with\\:\\ 0\\.036957917425615834\ \(0\)\
+\-\ history\\:\\ 0\\.03605506248068445\ \(0\)\
+\-\ at\\:\\ 0\\.03564500007624362\ \(0\)\
+\-\ or\\:\\ 0\\.032829878746941446\ \(0\)\
+\-\ left\\:\\ 0\\.03219189675637406\ \(0\)\
+\-\ is\\:\\ 0\\.0258440515386778\ \(0\)\
+\-\ in\\:\\ 0\\.023476362163382777\ \(0\)\

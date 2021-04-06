@@ -1,94 +1,92 @@
-Texto: 
-non-focal neurologic examination.
-no treatment. being followed by neurosurgery with serial examinations.
-11 x 11 x 13 mm nonenhancing well-circumscribed mildly t1 hyperintense and markedly t2 hypointense round mass in the anterior-superior third ventricle without ventricular enlargement.
-colloid cyst.
-colloid cyst.
-although other lesions can occur in this region such as ependymoma, subependymoma, giant cell astrocytoma and central neurocytoma,the imaging findings are characteristic for a colloid cyst.
-29 year old female with worsening headaches.
-the diagnosis of colloid cyst was made based on the imaging characteristics. the patient and neurosurgeon have elected conservative management at this time as her headaches have resolved and she has no evidence of ventricular obstruction currently.
-
-
-Keywords by value: 
-- colloid: 0.48597626657334075
-- cyst: 0.26806913284047
-- ventricular: 0.19544838486004737
-- 11: 0.17394600603050697
-- headaches: 0.17331448793400525
-- neurosurgeon: 0.14929863301719878
-- elected: 0.14343968535906199
-- subependymoma: 0.14220500124061952
-- nonenhancing: 0.13604873369406842
-- neurocytoma: 0.12996961037099955
-- examinations: 0.12692423950343132
-- imaging: 0.12210816994735649
-- neurosurgery: 0.1175653808088172
-- have: 0.11607193258313617
-- the: 0.11590597261512624
-- serial: 0.10694862125934239
-- characteristics: 0.10652868781184135
-- resolved: 0.10436213912498979
-- giant: 0.10362814795321451
-- markedly: 0.10257449658808102
-- hypointense: 0.10223505455301071
-- 29: 0.1012494081506198
-- ependymoma: 0.09813288943550273
-- and: 0.09602486585552987
-- round: 0.09519098729504973
-- characteristic: 0.09392130394020852
-- mildly: 0.09380970886292099
-- as: 0.09334353296503796
-- neurologic: 0.09283195067339024
-- hyperintense: 0.09241201722588922
-- conservative: 0.08969251012057133
-- made: 0.08960179259575098
-- currently: 0.08924291017015787
-- enlargement: 0.08906581296163461
-- worsening: 0.08871617260354288
-- third: 0.08845782600212888
-- astrocytoma: 0.08770188579841333
-- 13: 0.08761959861314315
-- management: 0.0858133320595091
-- ventricle: 0.08551492304835602
-- occur: 0.08544099900839665
-- based: 0.08415429429807386
-- mm: 0.08314084887406228
-- obstruction: 0.08137426396649555
-- being: 0.08095556389072227
-- this: 0.07983989384622923
-- although: 0.07908996175766732
-- followed: 0.0784518087460811
-- central: 0.07758067504334801
-- no: 0.07555781233314093
-- such: 0.07472991474057246
-- examination: 0.07434115541617675
-- her: 0.07257977657053427
-- t1: 0.07238451092660338
-- region: 0.06949085125811942
-- she: 0.06915642583493446
-- time: 0.06886006740294177
-- t2: 0.06683889330477014
-- lesions: 0.06672082891239747
-- cell: 0.0664576602026877
-- evidence: 0.06594131013457925
-- without: 0.061278136195358116
-- can: 0.06096515011336496
-- other: 0.06033173126366845
-- diagnosis: 0.06022448483022461
-- in: 0.05780131996319176
-- findings: 0.05733720153045171
-- female: 0.056059971076516335
-- treatment: 0.05534048992726628
-- has: 0.05306552081787215
-- by: 0.049334797059322276
-- with: 0.04549717702053519
-- of: 0.04547000870117114
-- mass: 0.044375887393131086
-- are: 0.04408326668892022
-- at: 0.04388090540084925
-- was: 0.04048826424559159
-- patient: 0.03778601349543276
-- year: 0.03580295962341831
-- for: 0.035211860960123305
-- on: 0.03508695378755498
-- old: 0.034383234740519505
+\-\ Texto\\:\\ \ \(0\)\
+\-\ non\\-focal\\ neurologic\\ examination\\.\ \(1\)\
+\-\ no\\ treatment\\.\\ being\\ followed\\ by\\ neurosurgery\\ with\\ serial\\ examinations\\.\ \(0\)\
+\-\ 11\\ x\\ 11\\ x\\ 13\\ mm\\ nonenhancing\\ well\\-circumscribed\\ mildly\\ t1\\ hyperintense\\ and\\ markedly\\ t2\\ hypointense\\ round\\ mass\\ in\\ the\\ anterior\\-superior\\ third\\ ventricle\\ without\\ ventricular\\ enlargement\\.\ \(0\)\
+\-\ colloid\\ cyst\\.\ \(2\)\
+\-\ colloid\\ cyst\\.\ \(2\)\
+\-\ although\\ other\\ lesions\\ can\\ occur\\ in\\ this\\ region\\ such\\ as\\ ependymoma\\,\\ subependymoma\\,\\ giant\\ cell\\ astrocytoma\\ and\\ central\\ neurocytoma\\,the\\ imaging\\ findings\\ are\\ characteristic\\ for\\ a\\ colloid\\ cyst\\.\ \(0\)\
+\-\ 29\\ year\\ old\\ female\\ with\\ worsening\\ headaches\\.\ \(1\)\
+\-\ the\\ diagnosis\\ of\\ colloid\\ cyst\\ was\\ made\\ based\\ on\\ the\\ imaging\\ characteristics\\.\\ the\\ patient\\ and\\ neurosurgeon\\ have\\ elected\\ conservative\\ management\\ at\\ this\\ time\\ as\\ her\\ headaches\\ have\\ resolved\\ and\\ she\\ has\\ no\\ evidence\\ of\\ ventricular\\ obstruction\\ currently\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ colloid\\:\\ 0\\.48597626657334075\ \(0\)\
+\-\ cyst\\:\\ 0\\.26806913284047\ \(0\)\
+\-\ ventricular\\:\\ 0\\.19544838486004737\ \(0\)\
+\-\ 11\\:\\ 0\\.17394600603050697\ \(0\)\
+\-\ headaches\\:\\ 0\\.17331448793400525\ \(0\)\
+\-\ neurosurgeon\\:\\ 0\\.14929863301719878\ \(0\)\
+\-\ elected\\:\\ 0\\.14343968535906199\ \(0\)\
+\-\ subependymoma\\:\\ 0\\.14220500124061952\ \(0\)\
+\-\ nonenhancing\\:\\ 0\\.13604873369406842\ \(0\)\
+\-\ neurocytoma\\:\\ 0\\.12996961037099955\ \(0\)\
+\-\ examinations\\:\\ 0\\.12692423950343132\ \(0\)\
+\-\ imaging\\:\\ 0\\.12210816994735649\ \(0\)\
+\-\ neurosurgery\\:\\ 0\\.1175653808088172\ \(0\)\
+\-\ have\\:\\ 0\\.11607193258313617\ \(0\)\
+\-\ the\\:\\ 0\\.11590597261512624\ \(0\)\
+\-\ serial\\:\\ 0\\.10694862125934239\ \(0\)\
+\-\ characteristics\\:\\ 0\\.10652868781184135\ \(0\)\
+\-\ resolved\\:\\ 0\\.10436213912498979\ \(0\)\
+\-\ giant\\:\\ 0\\.10362814795321451\ \(0\)\
+\-\ markedly\\:\\ 0\\.10257449658808102\ \(0\)\
+\-\ hypointense\\:\\ 0\\.10223505455301071\ \(0\)\
+\-\ 29\\:\\ 0\\.1012494081506198\ \(0\)\
+\-\ ependymoma\\:\\ 0\\.09813288943550273\ \(0\)\
+\-\ and\\:\\ 0\\.09602486585552987\ \(0\)\
+\-\ round\\:\\ 0\\.09519098729504973\ \(0\)\
+\-\ characteristic\\:\\ 0\\.09392130394020852\ \(0\)\
+\-\ mildly\\:\\ 0\\.09380970886292099\ \(0\)\
+\-\ as\\:\\ 0\\.09334353296503796\ \(0\)\
+\-\ neurologic\\:\\ 0\\.09283195067339024\ \(0\)\
+\-\ hyperintense\\:\\ 0\\.09241201722588922\ \(0\)\
+\-\ conservative\\:\\ 0\\.08969251012057133\ \(0\)\
+\-\ made\\:\\ 0\\.08960179259575098\ \(0\)\
+\-\ currently\\:\\ 0\\.08924291017015787\ \(0\)\
+\-\ enlargement\\:\\ 0\\.08906581296163461\ \(0\)\
+\-\ worsening\\:\\ 0\\.08871617260354288\ \(0\)\
+\-\ third\\:\\ 0\\.08845782600212888\ \(0\)\
+\-\ astrocytoma\\:\\ 0\\.08770188579841333\ \(0\)\
+\-\ 13\\:\\ 0\\.08761959861314315\ \(0\)\
+\-\ management\\:\\ 0\\.0858133320595091\ \(0\)\
+\-\ ventricle\\:\\ 0\\.08551492304835602\ \(0\)\
+\-\ occur\\:\\ 0\\.08544099900839665\ \(0\)\
+\-\ based\\:\\ 0\\.08415429429807386\ \(0\)\
+\-\ mm\\:\\ 0\\.08314084887406228\ \(0\)\
+\-\ obstruction\\:\\ 0\\.08137426396649555\ \(0\)\
+\-\ being\\:\\ 0\\.08095556389072227\ \(0\)\
+\-\ this\\:\\ 0\\.07983989384622923\ \(0\)\
+\-\ although\\:\\ 0\\.07908996175766732\ \(0\)\
+\-\ followed\\:\\ 0\\.0784518087460811\ \(0\)\
+\-\ central\\:\\ 0\\.07758067504334801\ \(0\)\
+\-\ no\\:\\ 0\\.07555781233314093\ \(0\)\
+\-\ such\\:\\ 0\\.07472991474057246\ \(0\)\
+\-\ examination\\:\\ 0\\.07434115541617675\ \(0\)\
+\-\ her\\:\\ 0\\.07257977657053427\ \(0\)\
+\-\ t1\\:\\ 0\\.07238451092660338\ \(0\)\
+\-\ region\\:\\ 0\\.06949085125811942\ \(0\)\
+\-\ she\\:\\ 0\\.06915642583493446\ \(0\)\
+\-\ time\\:\\ 0\\.06886006740294177\ \(0\)\
+\-\ t2\\:\\ 0\\.06683889330477014\ \(0\)\
+\-\ lesions\\:\\ 0\\.06672082891239747\ \(0\)\
+\-\ cell\\:\\ 0\\.0664576602026877\ \(0\)\
+\-\ evidence\\:\\ 0\\.06594131013457925\ \(0\)\
+\-\ without\\:\\ 0\\.061278136195358116\ \(0\)\
+\-\ can\\:\\ 0\\.06096515011336496\ \(0\)\
+\-\ other\\:\\ 0\\.06033173126366845\ \(0\)\
+\-\ diagnosis\\:\\ 0\\.06022448483022461\ \(0\)\
+\-\ in\\:\\ 0\\.05780131996319176\ \(0\)\
+\-\ findings\\:\\ 0\\.05733720153045171\ \(0\)\
+\-\ female\\:\\ 0\\.056059971076516335\ \(0\)\
+\-\ treatment\\:\\ 0\\.05534048992726628\ \(0\)\
+\-\ has\\:\\ 0\\.05306552081787215\ \(0\)\
+\-\ by\\:\\ 0\\.049334797059322276\ \(0\)\
+\-\ with\\:\\ 0\\.04549717702053519\ \(0\)\
+\-\ of\\:\\ 0\\.04547000870117114\ \(0\)\
+\-\ mass\\:\\ 0\\.044375887393131086\ \(0\)\
+\-\ are\\:\\ 0\\.04408326668892022\ \(0\)\
+\-\ at\\:\\ 0\\.04388090540084925\ \(0\)\
+\-\ was\\:\\ 0\\.04048826424559159\ \(0\)\
+\-\ patient\\:\\ 0\\.03778601349543276\ \(0\)\
+\-\ year\\:\\ 0\\.03580295962341831\ \(0\)\
+\-\ for\\:\\ 0\\.035211860960123305\ \(0\)\
+\-\ on\\:\\ 0\\.03508695378755498\ \(0\)\
+\-\ old\\:\\ 0\\.034383234740519505\ \(0\)\

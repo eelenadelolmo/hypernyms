@@ -1,69 +1,67 @@
-Texto: 
-swollen knee
-surgical excision
-there are numerous villous-like projections within the joint space of the knee on mr imaging.  these are fatty in signal intensity.  there is an associated effusion.
-lipoma arborescens
-essentially none.
-other synovial processes; such as pvns, synovial hemangioma and synovial osteochondromatosis; would not present with an arborizing fatty mass.
-presents with atraumatic knee swelling
-this uncommon diagnosis has an "aunt minnie" appearance.  the villous-like fatty synovial mass can only be lipoma arborescens
-
-
-Keywords by value: 
-- synovial: 0.4590913017148719
-- fatty: 0.3182965099872058
-- arborescens: 0.30281185985707604
-- knee: 0.2400672545263724
-- lipoma: 0.1936801362777644
-- arborizing: 0.17060177282553451
-- pvns: 0.15401927738607643
-- minnie: 0.15140592992853802
-- osteochondromatosis: 0.13910340832968515
-- aunt: 0.13910340832968515
-- projections: 0.13073788687864288
-- an: 0.12807262826188054
-- atraumatic: 0.12620128955239918
-- essentially: 0.11297605673854093
-- processes: 0.10981256831218375
-- swollen: 0.10786774622439745
-- uncommon: 0.10101993416918287
-- numerous: 0.09430213901838387
-- hemangioma: 0.09390939605474768
-- there: 0.08884265803234295
-- excision: 0.08802164303992908
-- mass: 0.0852872289012053
-- are: 0.08472483318480714
-- effusion: 0.08290166805683431
-- intensity: 0.07927199905790189
-- would: 0.07902812008600683
-- swelling: 0.07513938325393892
-- space: 0.07431265765240971
-- joint: 0.07356522422265963
-- mr: 0.07223636317730422
-- such: 0.07181273117744243
-- only: 0.06974652656667389
-- appearance: 0.06730361009250281
-- the: 0.0668288554764084
-- signal: 0.06328571216657797
-- these: 0.0630432599148762
-- none: 0.06101071809227808
-- associated: 0.05884281012768991
-- imaging: 0.058670755971290664
-- can: 0.058585292803854265
-- other: 0.05797660031793491
-- diagnosis: 0.05787354039445743
-- present: 0.05728626405666838
-- surgical: 0.05426082765351261
-- presents: 0.05370474708538153
-- within: 0.05141807972948058
-- has: 0.05099403625059771
-- be: 0.04528800669464888
-- as: 0.04484987078629482
-- not: 0.044072934913378436
-- with: 0.04372113301682025
-- this: 0.03836161765953381
-- on: 0.033717286965042365
-- is: 0.03057345472158357
-- in: 0.027772483527031454
-- and: 0.02306910124938647
-- of: 0.02184751262482277
+\-\ Texto\\:\\ \ \(0\)\
+\-\ swollen\\ knee\ \(3\)\
+\-\ surgical\\ excision\ \(50\)\
+\-\ there\\ are\\ numerous\\ villous\\-like\\ projections\\ within\\ the\\ joint\\ space\\ of\\ the\\ knee\\ on\\ mr\\ imaging\\.\\ \\ these\\ are\\ fatty\\ in\\ signal\\ intensity\\.\\ \\ there\\ is\\ an\\ associated\\ effusion\\.\ \(0\)\
+\-\ lipoma\\ arborescens\ \(2\)\
+\-\ essentially\\ none\\.\ \(1\)\
+\-\ other\\ synovial\\ processes\\;\\ such\\ as\\ pvns\\,\\ synovial\\ hemangioma\\ and\\ synovial\\ osteochondromatosis\\;\\ would\\ not\\ present\\ with\\ an\\ arborizing\\ fatty\\ mass\\.\ \(0\)\
+\-\ presents\\ with\\ atraumatic\\ knee\\ swelling\ \(1\)\
+\-\ this\\ uncommon\\ diagnosis\\ has\\ an\\ \\"aunt\\ minnie\\"\\ appearance\\.\\ \\ the\\ villous\\-like\\ fatty\\ synovial\\ mass\\ can\\ only\\ be\\ lipoma\\ arborescens\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ synovial\\:\\ 0\\.4590913017148719\ \(0\)\
+\-\ fatty\\:\\ 0\\.3182965099872058\ \(0\)\
+\-\ arborescens\\:\\ 0\\.30281185985707604\ \(0\)\
+\-\ knee\\:\\ 0\\.2400672545263724\ \(0\)\
+\-\ lipoma\\:\\ 0\\.1936801362777644\ \(0\)\
+\-\ arborizing\\:\\ 0\\.17060177282553451\ \(0\)\
+\-\ pvns\\:\\ 0\\.15401927738607643\ \(0\)\
+\-\ minnie\\:\\ 0\\.15140592992853802\ \(0\)\
+\-\ osteochondromatosis\\:\\ 0\\.13910340832968515\ \(0\)\
+\-\ aunt\\:\\ 0\\.13910340832968515\ \(0\)\
+\-\ projections\\:\\ 0\\.13073788687864288\ \(0\)\
+\-\ an\\:\\ 0\\.12807262826188054\ \(0\)\
+\-\ atraumatic\\:\\ 0\\.12620128955239918\ \(0\)\
+\-\ essentially\\:\\ 0\\.11297605673854093\ \(0\)\
+\-\ processes\\:\\ 0\\.10981256831218375\ \(0\)\
+\-\ swollen\\:\\ 0\\.10786774622439745\ \(0\)\
+\-\ uncommon\\:\\ 0\\.10101993416918287\ \(0\)\
+\-\ numerous\\:\\ 0\\.09430213901838387\ \(0\)\
+\-\ hemangioma\\:\\ 0\\.09390939605474768\ \(0\)\
+\-\ there\\:\\ 0\\.08884265803234295\ \(0\)\
+\-\ excision\\:\\ 0\\.08802164303992908\ \(0\)\
+\-\ mass\\:\\ 0\\.0852872289012053\ \(0\)\
+\-\ are\\:\\ 0\\.08472483318480714\ \(0\)\
+\-\ effusion\\:\\ 0\\.08290166805683431\ \(0\)\
+\-\ intensity\\:\\ 0\\.07927199905790189\ \(0\)\
+\-\ would\\:\\ 0\\.07902812008600683\ \(0\)\
+\-\ swelling\\:\\ 0\\.07513938325393892\ \(0\)\
+\-\ space\\:\\ 0\\.07431265765240971\ \(0\)\
+\-\ joint\\:\\ 0\\.07356522422265963\ \(0\)\
+\-\ mr\\:\\ 0\\.07223636317730422\ \(0\)\
+\-\ such\\:\\ 0\\.07181273117744243\ \(0\)\
+\-\ only\\:\\ 0\\.06974652656667389\ \(0\)\
+\-\ appearance\\:\\ 0\\.06730361009250281\ \(0\)\
+\-\ the\\:\\ 0\\.0668288554764084\ \(0\)\
+\-\ signal\\:\\ 0\\.06328571216657797\ \(0\)\
+\-\ these\\:\\ 0\\.0630432599148762\ \(0\)\
+\-\ none\\:\\ 0\\.06101071809227808\ \(0\)\
+\-\ associated\\:\\ 0\\.05884281012768991\ \(0\)\
+\-\ imaging\\:\\ 0\\.058670755971290664\ \(0\)\
+\-\ can\\:\\ 0\\.058585292803854265\ \(0\)\
+\-\ other\\:\\ 0\\.05797660031793491\ \(0\)\
+\-\ diagnosis\\:\\ 0\\.05787354039445743\ \(0\)\
+\-\ present\\:\\ 0\\.05728626405666838\ \(0\)\
+\-\ surgical\\:\\ 0\\.05426082765351261\ \(0\)\
+\-\ presents\\:\\ 0\\.05370474708538153\ \(0\)\
+\-\ within\\:\\ 0\\.05141807972948058\ \(0\)\
+\-\ has\\:\\ 0\\.05099403625059771\ \(0\)\
+\-\ be\\:\\ 0\\.04528800669464888\ \(0\)\
+\-\ as\\:\\ 0\\.04484987078629482\ \(0\)\
+\-\ not\\:\\ 0\\.044072934913378436\ \(0\)\
+\-\ with\\:\\ 0\\.04372113301682025\ \(0\)\
+\-\ this\\:\\ 0\\.03836161765953381\ \(0\)\
+\-\ on\\:\\ 0\\.033717286965042365\ \(0\)\
+\-\ is\\:\\ 0\\.03057345472158357\ \(0\)\
+\-\ in\\:\\ 0\\.027772483527031454\ \(0\)\
+\-\ and\\:\\ 0\\.02306910124938647\ \(0\)\
+\-\ of\\:\\ 0\\.02184751262482277\ \(0\)\

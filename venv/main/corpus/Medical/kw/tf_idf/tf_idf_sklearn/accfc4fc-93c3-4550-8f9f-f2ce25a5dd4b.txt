@@ -1,119 +1,117 @@
-Texto: 
-this patient has agenesis of the corpus callosum.  the posterior fossa is small, with a normally formed cerebellum, which is compressed inferiorly, and the 4th ventricle and cerebral aqueduct are patent.  the globes maintain cross-midline symmetry, and hypotelorism is noted.  the optic tracts are normally formed.  the thalami are fused, and there is partial interhemispheric fusion of the insular parenchyma, and a suggestion of anterior frontal lobe fusion.  there is a partially formed posterior falx cerebri, and anterior interhemispheric fissure.  there is a probable large monoventricle with a dorsal interhemispheric cyst, abutting dysplastic cerebral tissue.  there is an apparent hypoplastic left internal jugular vein.  a cephalocele at the vertex is also noted.
-complex malformation
-alobar holoprosencephaly
-semilobar holoprosencephaly
-lobar holoprosencephaly
-septooptic dysplasia
-scizencephaly
-full-term neonate with abnormal prenatal ultrasound.
-in semi-lobar holoprosencephaly, the craniofacial anomalies are variable.  there are rudimentary occipital and temporal horns, with a partially formed falx cerebri and interhemispheric fissure.  there is fusion of the thalami and basal ganglia.  facial anomalies are either absent or milder than those seen with alobar holoprosencephaly.  facial anomalies seen include hypotelorism, as well as median and lateral cleft lip.
-
-
-Keywords by value: 
-- holoprosencephaly: 0.37684215064290977
-- interhemispheric: 0.3057466007409023
-- formed: 0.27816702258526427
-- hypotelorism: 0.18394799656765745
-- anomalies: 0.18312084872422238
-- alobar: 0.16841064846905432
-- fusion: 0.16111654330204908
-- is: 0.15757767464252995
-- there: 0.1526337099649057
-- cerebri: 0.1478713914974661
-- are: 0.14555919308995746
-- falx: 0.14378453437211716
-- thalami: 0.1423378611448331
-- and: 0.13211080454796995
-- lobar: 0.13189015453629974
-- the: 0.12757055087907723
-- fissure: 0.12479179780871842
-- normally: 0.11657365211621762
-- partially: 0.10974000634983799
-- facial: 0.10543604675208748
-- scizencephaly: 0.10224362676962283
-- septooptic: 0.09769924377045584
-- cephalocele: 0.09197399828382873
-- monoventricle: 0.08993056972115428
-- semilobar: 0.08993056972115428
-- cerebral: 0.08858746786275132
-- craniofacial: 0.08820287548875647
-- milder: 0.08538618672198728
-- globes: 0.08420532423452716
-- symmetry: 0.08420532423452716
-- insular: 0.08313710417788352
-- rudimentary: 0.0804342014394549
-- aqueduct: 0.0776175126726857
-- neonate: 0.07701153658192107
-- vertex: 0.07643665018522558
-- tracts: 0.07487022244049645
-- abutting: 0.07487022244049645
-- lip: 0.07307312967351871
-- anterior: 0.0713934901167363
-- dysplastic: 0.07116893057241655
-- horns: 0.07116893057241655
-- maintain: 0.06954175564631607
-- compressed: 0.0692428625326195
-- suggestion: 0.06895173376112831
-- fused: 0.06785741863443047
-- noted: 0.06779492395836775
-- agenesis: 0.06710154839119488
-- hypoplastic: 0.06639345015858852
-- probable: 0.06616702169943146
-- median: 0.06616702169943146
-- posterior: 0.06612115568950211
-- jugular: 0.06594507726814987
-- prenatal: 0.06305537308011337
-- with: 0.06259491859001823
-- variable: 0.062080164574082566
-- inferiorly: 0.06132767884771557
-- callosum: 0.06021983178152275
-- seen: 0.06019877295935804
-- ganglia: 0.060088744585128896
-- dorsal: 0.05897323404682539
-- 4th: 0.05885587352394799
-- cerebellum: 0.058739729194173106
-- corpus: 0.05828682605810881
-- patent: 0.057958768661692174
-- cleft: 0.057745279777794055
-- optic: 0.055034827138423024
-- occipital: 0.05470756804875021
-- basal: 0.05470756804875021
-- those: 0.05470756804875021
-- apparent: 0.05348646197218062
-- either: 0.05285387749426115
-- absent: 0.05245115773222118
-- parenchyma: 0.05193576451427956
-- as: 0.05136873300261304
-- fossa: 0.0501900946123906
-- of: 0.05004603237959309
-- malformation: 0.04930958165179591
-- partial: 0.04925987945271546
-- complex: 0.04925987945271546
-- temporal: 0.04911208178314912
-- dysplasia: 0.048966207782171915
-- ventricle: 0.04706049910769214
-- vein: 0.04582677900082882
-- internal: 0.04308742801068381
-- frontal: 0.041149327948770166
-- ultrasound: 0.03943538565371143
-- abnormal: 0.0384104064513548
-- include: 0.03803986600930004
-- lobe: 0.03694682240424689
-- cyst: 0.03688089381693384
-- than: 0.03624209829561618
-- tissue: 0.03353808680440185
-- small: 0.03297906601255836
-- large: 0.03203387027903241
-- lateral: 0.031728804990518306
-- well: 0.030956928554253613
-- also: 0.03007249843593491
-- has: 0.029202971903354826
-- which: 0.02907121047370771
-- an: 0.0244479658127125
-- at: 0.02414850222450254
-- or: 0.022241335341700218
-- this: 0.021968710952263073
-- left: 0.021809120178691226
-- patient: 0.020794366538569222
-- in: 0.015904586413607886
+\-\ Texto\\:\\ \ \(0\)\
+\-\ this\\ patient\\ has\\ agenesis\\ of\\ the\\ corpus\\ callosum\\.\\ \\ the\\ posterior\\ fossa\\ is\\ small\\,\\ with\\ a\\ normally\\ formed\\ cerebellum\\,\\ which\\ is\\ compressed\\ inferiorly\\,\\ and\\ the\\ 4th\\ ventricle\\ and\\ cerebral\\ aqueduct\\ are\\ patent\\.\\ \\ the\\ globes\\ maintain\\ cross\\-midline\\ symmetry\\,\\ and\\ hypotelorism\\ is\\ noted\\.\\ \\ the\\ optic\\ tracts\\ are\\ normally\\ formed\\.\\ \\ the\\ thalami\\ are\\ fused\\,\\ and\\ there\\ is\\ partial\\ interhemispheric\\ fusion\\ of\\ the\\ insular\\ parenchyma\\,\\ and\\ a\\ suggestion\\ of\\ anterior\\ frontal\\ lobe\\ fusion\\.\\ \\ there\\ is\\ a\\ partially\\ formed\\ posterior\\ falx\\ cerebri\\,\\ and\\ anterior\\ interhemispheric\\ fissure\\.\\ \\ there\\ is\\ a\\ probable\\ large\\ monoventricle\\ with\\ a\\ dorsal\\ interhemispheric\\ cyst\\,\\ abutting\\ dysplastic\\ cerebral\\ tissue\\.\\ \\ there\\ is\\ an\\ apparent\\ hypoplastic\\ left\\ internal\\ jugular\\ vein\\.\\ \\ a\\ cephalocele\\ at\\ the\\ vertex\\ is\\ also\\ noted\\.\ \(0\)\
+\-\ complex\\ malformation\ \(0\)\
+\-\ alobar\\ holoprosencephaly\ \(2\)\
+\-\ semilobar\\ holoprosencephaly\ \(1\)\
+\-\ lobar\\ holoprosencephaly\ \(9\)\
+\-\ septooptic\\ dysplasia\ \(0\)\
+\-\ scizencephaly\ \(0\)\
+\-\ full\\-term\\ neonate\\ with\\ abnormal\\ prenatal\\ ultrasound\\.\ \(0\)\
+\-\ in\\ semi\\-lobar\\ holoprosencephaly\\,\\ the\\ craniofacial\\ anomalies\\ are\\ variable\\.\\ \\ there\\ are\\ rudimentary\\ occipital\\ and\\ temporal\\ horns\\,\\ with\\ a\\ partially\\ formed\\ falx\\ cerebri\\ and\\ interhemispheric\\ fissure\\.\\ \\ there\\ is\\ fusion\\ of\\ the\\ thalami\\ and\\ basal\\ ganglia\\.\\ \\ facial\\ anomalies\\ are\\ either\\ absent\\ or\\ milder\\ than\\ those\\ seen\\ with\\ alobar\\ holoprosencephaly\\.\\ \\ facial\\ anomalies\\ seen\\ include\\ hypotelorism\\,\\ as\\ well\\ as\\ median\\ and\\ lateral\\ cleft\\ lip\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ holoprosencephaly\\:\\ 0\\.37684215064290977\ \(0\)\
+\-\ interhemispheric\\:\\ 0\\.3057466007409023\ \(0\)\
+\-\ formed\\:\\ 0\\.27816702258526427\ \(0\)\
+\-\ hypotelorism\\:\\ 0\\.18394799656765745\ \(0\)\
+\-\ anomalies\\:\\ 0\\.18312084872422238\ \(0\)\
+\-\ alobar\\:\\ 0\\.16841064846905432\ \(0\)\
+\-\ fusion\\:\\ 0\\.16111654330204908\ \(0\)\
+\-\ is\\:\\ 0\\.15757767464252995\ \(0\)\
+\-\ there\\:\\ 0\\.1526337099649057\ \(0\)\
+\-\ cerebri\\:\\ 0\\.1478713914974661\ \(0\)\
+\-\ are\\:\\ 0\\.14555919308995746\ \(0\)\
+\-\ falx\\:\\ 0\\.14378453437211716\ \(0\)\
+\-\ thalami\\:\\ 0\\.1423378611448331\ \(0\)\
+\-\ and\\:\\ 0\\.13211080454796995\ \(0\)\
+\-\ lobar\\:\\ 0\\.13189015453629974\ \(0\)\
+\-\ the\\:\\ 0\\.12757055087907723\ \(0\)\
+\-\ fissure\\:\\ 0\\.12479179780871842\ \(0\)\
+\-\ normally\\:\\ 0\\.11657365211621762\ \(0\)\
+\-\ partially\\:\\ 0\\.10974000634983799\ \(0\)\
+\-\ facial\\:\\ 0\\.10543604675208748\ \(0\)\
+\-\ scizencephaly\\:\\ 0\\.10224362676962283\ \(0\)\
+\-\ septooptic\\:\\ 0\\.09769924377045584\ \(0\)\
+\-\ cephalocele\\:\\ 0\\.09197399828382873\ \(0\)\
+\-\ monoventricle\\:\\ 0\\.08993056972115428\ \(0\)\
+\-\ semilobar\\:\\ 0\\.08993056972115428\ \(0\)\
+\-\ cerebral\\:\\ 0\\.08858746786275132\ \(0\)\
+\-\ craniofacial\\:\\ 0\\.08820287548875647\ \(0\)\
+\-\ milder\\:\\ 0\\.08538618672198728\ \(0\)\
+\-\ globes\\:\\ 0\\.08420532423452716\ \(0\)\
+\-\ symmetry\\:\\ 0\\.08420532423452716\ \(0\)\
+\-\ insular\\:\\ 0\\.08313710417788352\ \(0\)\
+\-\ rudimentary\\:\\ 0\\.0804342014394549\ \(0\)\
+\-\ aqueduct\\:\\ 0\\.0776175126726857\ \(0\)\
+\-\ neonate\\:\\ 0\\.07701153658192107\ \(0\)\
+\-\ vertex\\:\\ 0\\.07643665018522558\ \(0\)\
+\-\ tracts\\:\\ 0\\.07487022244049645\ \(0\)\
+\-\ abutting\\:\\ 0\\.07487022244049645\ \(0\)\
+\-\ lip\\:\\ 0\\.07307312967351871\ \(0\)\
+\-\ anterior\\:\\ 0\\.0713934901167363\ \(0\)\
+\-\ dysplastic\\:\\ 0\\.07116893057241655\ \(0\)\
+\-\ horns\\:\\ 0\\.07116893057241655\ \(0\)\
+\-\ maintain\\:\\ 0\\.06954175564631607\ \(0\)\
+\-\ compressed\\:\\ 0\\.0692428625326195\ \(0\)\
+\-\ suggestion\\:\\ 0\\.06895173376112831\ \(0\)\
+\-\ fused\\:\\ 0\\.06785741863443047\ \(0\)\
+\-\ noted\\:\\ 0\\.06779492395836775\ \(0\)\
+\-\ agenesis\\:\\ 0\\.06710154839119488\ \(0\)\
+\-\ hypoplastic\\:\\ 0\\.06639345015858852\ \(0\)\
+\-\ probable\\:\\ 0\\.06616702169943146\ \(0\)\
+\-\ median\\:\\ 0\\.06616702169943146\ \(0\)\
+\-\ posterior\\:\\ 0\\.06612115568950211\ \(0\)\
+\-\ jugular\\:\\ 0\\.06594507726814987\ \(0\)\
+\-\ prenatal\\:\\ 0\\.06305537308011337\ \(0\)\
+\-\ with\\:\\ 0\\.06259491859001823\ \(0\)\
+\-\ variable\\:\\ 0\\.062080164574082566\ \(0\)\
+\-\ inferiorly\\:\\ 0\\.06132767884771557\ \(0\)\
+\-\ callosum\\:\\ 0\\.06021983178152275\ \(0\)\
+\-\ seen\\:\\ 0\\.06019877295935804\ \(0\)\
+\-\ ganglia\\:\\ 0\\.060088744585128896\ \(0\)\
+\-\ dorsal\\:\\ 0\\.05897323404682539\ \(0\)\
+\-\ 4th\\:\\ 0\\.05885587352394799\ \(0\)\
+\-\ cerebellum\\:\\ 0\\.058739729194173106\ \(0\)\
+\-\ corpus\\:\\ 0\\.05828682605810881\ \(0\)\
+\-\ patent\\:\\ 0\\.057958768661692174\ \(0\)\
+\-\ cleft\\:\\ 0\\.057745279777794055\ \(0\)\
+\-\ optic\\:\\ 0\\.055034827138423024\ \(0\)\
+\-\ occipital\\:\\ 0\\.05470756804875021\ \(0\)\
+\-\ basal\\:\\ 0\\.05470756804875021\ \(0\)\
+\-\ those\\:\\ 0\\.05470756804875021\ \(0\)\
+\-\ apparent\\:\\ 0\\.05348646197218062\ \(0\)\
+\-\ either\\:\\ 0\\.05285387749426115\ \(0\)\
+\-\ absent\\:\\ 0\\.05245115773222118\ \(0\)\
+\-\ parenchyma\\:\\ 0\\.05193576451427956\ \(0\)\
+\-\ as\\:\\ 0\\.05136873300261304\ \(0\)\
+\-\ fossa\\:\\ 0\\.0501900946123906\ \(0\)\
+\-\ of\\:\\ 0\\.05004603237959309\ \(0\)\
+\-\ malformation\\:\\ 0\\.04930958165179591\ \(0\)\
+\-\ partial\\:\\ 0\\.04925987945271546\ \(0\)\
+\-\ complex\\:\\ 0\\.04925987945271546\ \(0\)\
+\-\ temporal\\:\\ 0\\.04911208178314912\ \(0\)\
+\-\ dysplasia\\:\\ 0\\.048966207782171915\ \(0\)\
+\-\ ventricle\\:\\ 0\\.04706049910769214\ \(0\)\
+\-\ vein\\:\\ 0\\.04582677900082882\ \(0\)\
+\-\ internal\\:\\ 0\\.04308742801068381\ \(0\)\
+\-\ frontal\\:\\ 0\\.041149327948770166\ \(0\)\
+\-\ ultrasound\\:\\ 0\\.03943538565371143\ \(0\)\
+\-\ abnormal\\:\\ 0\\.0384104064513548\ \(0\)\
+\-\ include\\:\\ 0\\.03803986600930004\ \(0\)\
+\-\ lobe\\:\\ 0\\.03694682240424689\ \(0\)\
+\-\ cyst\\:\\ 0\\.03688089381693384\ \(0\)\
+\-\ than\\:\\ 0\\.03624209829561618\ \(0\)\
+\-\ tissue\\:\\ 0\\.03353808680440185\ \(0\)\
+\-\ small\\:\\ 0\\.03297906601255836\ \(0\)\
+\-\ large\\:\\ 0\\.03203387027903241\ \(0\)\
+\-\ lateral\\:\\ 0\\.031728804990518306\ \(0\)\
+\-\ well\\:\\ 0\\.030956928554253613\ \(0\)\
+\-\ also\\:\\ 0\\.03007249843593491\ \(0\)\
+\-\ has\\:\\ 0\\.029202971903354826\ \(0\)\
+\-\ which\\:\\ 0\\.02907121047370771\ \(0\)\
+\-\ an\\:\\ 0\\.0244479658127125\ \(0\)\
+\-\ at\\:\\ 0\\.02414850222450254\ \(0\)\
+\-\ or\\:\\ 0\\.022241335341700218\ \(0\)\
+\-\ this\\:\\ 0\\.021968710952263073\ \(0\)\
+\-\ left\\:\\ 0\\.021809120178691226\ \(0\)\
+\-\ patient\\:\\ 0\\.020794366538569222\ \(0\)\
+\-\ in\\:\\ 0\\.015904586413607886\ \(0\)\

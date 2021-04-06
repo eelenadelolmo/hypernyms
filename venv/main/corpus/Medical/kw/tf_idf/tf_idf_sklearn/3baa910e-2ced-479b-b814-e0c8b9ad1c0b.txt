@@ -1,206 +1,204 @@
-Texto: 
-physical exam was unremarkable
-the patient will need to follow-up with gi to pursue either esophageal dilation or heller myotomy
-the swallowing mechanism is intact. the vocal cords moved appropriately with phonation. there was no visualized nasopharyngeal reflux or aspiration. proximal esophageal dilation measured to be 4.5cm at greatest dimension.  narrowing of short segment of the lower esophageal sphincter length measured to be 1.25cm.   distal esophagus showed evidence of sigmoidization.  constellation of findings most consistent with achalasia.
-primary achalasia
-esophageal web/ring, esophageal stricture, malignancy (esophageal scc, adenocarcinoma), achalasia, scleroderma, diffuse esophageal spasm, neuromuscular disorder, esophageal diverticuli
-the patient is a 56 yo man with a 1.5 yr history of globus sensation and dysphagia.  he feels like it has been getting progressively worse over past few months.  he reports difficulty swallowing both liquids as well as solids and states that it feels like it is getting caught up high in his throat.  the patient denies recent weight loss or associated pain with swallowing.  he reports a greater than 10 year history of gerd and has a remote 20 pack-year smoking history.
-primary achalasia is an idiopathic condition resulting in loss of peristalsis in distal esophagus and failure of ues and les relaxation.  it results from degeneration of the neurons in the esophageal wall resulting in increased lower esophageal sphincter tone.  it is likely also associated with loss of nitrous oxide producing inhibitory neurons, causing impaired relaxation and basal sphincter pressure to rise.  the cholinergic neurons which contribute to les tone may be relatively spared.  there is a thought that development of primary achalasia may be associated with hsv-1 as well as certain hla subtypes.  the histology of affected areas reveals decreased ganglion cells in the myenteric plexus.  remaining neurons are surrounded by lymphocytes and eosinophils.
- 
-secondary achalasia is most commonly associated with malignancies such as gastric and esophageal cancers.  in south america, especially central brazil, chagas disease is a known cause of secondary achalasia, which cannot be distinguished from primary achalasia on a clinical or radiological basis.
-
-
-Keywords by value: 
-- esophageal: 0.42826488808030183
-- achalasia: 0.40990461963001423
-- neurons: 0.24718447177494599
-- sphincter: 0.17032458302473766
-- swallowing: 0.13791628731257236
-- les: 0.11850468902650181
-- it: 0.1166225626265636
-- of: 0.11592141125855925
-- relaxation: 0.11465193697729617
-- primary: 0.1120722841344439
-- feels: 0.10817431546931888
-- getting: 0.10357836986830796
-- the: 0.1000123799800022
-- is: 0.09982810130695435
-- associated: 0.0960664416910987
-- be: 0.0924211820653316
-- as: 0.0915270592829276
-- tone: 0.09037153456050837
-- measured: 0.0898799333005481
-- loss: 0.08328112442763358
-- he: 0.08094724633577433
-- dilation: 0.08019644083856599
-- in: 0.07934710139199107
-- resulting: 0.07583323704892028
-- and: 0.0753249705522601
-- esophagus: 0.0750489922188019
-- sigmoidization: 0.0728696850527247
-- inhibitory: 0.0728696850527247
-- cholinergic: 0.0728696850527247
-- brazil: 0.0728696850527247
-- with: 0.07137887647640842
-- reports: 0.07086487877211353
-- ues: 0.06963087429873606
-- nitrous: 0.06963087429873606
-- myenteric: 0.06963087429873606
-- to: 0.0683482109458567
-- like: 0.06773279908257167
-- oxide: 0.0673329014982306
-- phonation: 0.06555045531672864
-- south: 0.06555045531672864
-- or: 0.06340616633850688
-- heller: 0.06286275204314219
-- neuromuscular: 0.060855279990253315
-- caught: 0.06001367176223453
-- pursue: 0.059252344513250906
-- chagas: 0.05855730718974785
-- cords: 0.057325968488648085
-- myotomy: 0.056774861008245886
-- moved: 0.056774861008245886
-- liquids: 0.056774861008245886
-- hla: 0.056774861008245886
-- peristalsis: 0.05625933438924239
-- eosinophils: 0.05625933438924239
-- scc: 0.05577507156817819
-- globus: 0.05577507156817819
-- vocal: 0.05488661341010133
-- nasopharyngeal: 0.05488661341010133
-- solids: 0.05488661341010133
-- contribute: 0.05408715773465944
-- spared: 0.05408715773465944
-- secondary: 0.054016035358559505
-- diverticuli: 0.0537155609587568
-- subtypes: 0.0537155609587568
-- america: 0.0537155609587568
-- distinguished: 0.0537155609587568
-- distal: 0.05294976142608175
-- history: 0.052226356970824624
-- constellation: 0.05178918493415398
-- yr: 0.05178918493415398
-- impaired: 0.05178918493415398
-- rise: 0.05178918493415398
-- certain: 0.051508879325351566
-- ganglion: 0.05123807745375178
-- lymphocytes: 0.05123807745375178
-- malignancies: 0.05123807745375178
-- scleroderma: 0.05097615595013339
-- appropriately: 0.05023828801368408
-- gerd: 0.04894010465324632
-- cancers: 0.04894010465324632
-- basis: 0.04874286277570248
-- histology: 0.048362415151053245
-- most: 0.04742767752633593
-- radiological: 0.04731903547906557
-- remote: 0.04715765847174436
-- dimension: 0.04699947725969544
-- producing: 0.0468443677224302
-- surrounded: 0.0468443677224302
-- lower: 0.04656837984982991
-- spasm: 0.046111019101618585
-- may: 0.045860326879370576
-- throat: 0.04570129389925767
-- greatest: 0.04556925965057647
-- up: 0.045079400198049714
-- progressively: 0.04458489085270441
-- patient: 0.04446083306348404
-- stricture: 0.0441347497844082
-- well: 0.04412640093511195
-- remaining: 0.04330409137328782
-- mechanism: 0.04291905827768801
-- 56: 0.04255173424335637
-- degeneration: 0.042374218267341786
-- smoking: 0.04220056164165064
-- need: 0.041946956526265546
-- has: 0.04162628874650364
-- length: 0.04154139276717487
-- which: 0.041438474323564276
-- dysphagia: 0.041155429278448785
-- plexus: 0.041080425063748004
-- states: 0.04003247609608237
-- aspiration: 0.039838428735748284
-- that: 0.03954772458273221
-- reflux: 0.03946392780050569
-- thought: 0.039342896846024704
-- short: 0.03916472090469587
-- sensation: 0.0390481072982103
-- basal: 0.03899043275035067
-- few: 0.038652866034861386
-- disorder: 0.038543441170582816
-- idiopathic: 0.038543441170582816
-- gastric: 0.038382064163261606
-- difficulty: 0.03832898828575153
-- gi: 0.038276262746619015
-- worse: 0.038171844394680174
-- either: 0.03766929566671427
-- development: 0.03766929566671427
-- segment: 0.03762073691427798
-- affected: 0.03747680707117712
-- causing: 0.03742940105561801
-- adenocarcinoma: 0.03724254130266214
-- relatively: 0.03710521029527448
-- denies: 0.036750134497704846
-- condition: 0.03641017297177143
-- there: 0.03626100626833439
-- from: 0.03619363334675242
-- especially: 0.03604425142891501
-- visualized: 0.035581055583165044
-- results: 0.03550640186056307
-- narrowing: 0.03532276411377252
-- cells: 0.03510783033491763
-- pressure: 0.034694571449607456
-- reveals: 0.03466107919854267
-- failure: 0.034594513061848985
-- malignancy: 0.034112200171265976
-- commonly: 0.03371652853749716
-- greater: 0.033569417746517324
-- intact: 0.03297953402406294
-- weight: 0.03177531891498894
-- was: 0.031760287138538935
-- cause: 0.03104156173779146
-- areas: 0.03093603985747115
-- recent: 0.030852614658684104
-- unremarkable: 0.030547307808262043
-- central: 0.030428379206780837
-- showed: 0.0303500659307182
-- past: 0.029659900757519626
-- known: 0.029500668438136268
-- 20: 0.029396250086197426
-- will: 0.029327388537522488
-- such: 0.029310265508079143
-- clinical: 0.028877482286310936
-- diffuse: 0.028575416616771866
-- proximal: 0.02846694699417939
-- yo: 0.02846694699417939
-- decreased: 0.028224411773257834
-- year: 0.0280849846057081
-- wall: 0.0277182222566343
-- his: 0.027634578663288684
-- likely: 0.02722901490419801
-- 10: 0.026644584307436155
-- been: 0.026547169805289768
-- months: 0.026523000678903598
-- high: 0.025896633377810348
-- evidence: 0.025863234485209084
-- than: 0.025829974658489747
-- both: 0.025409745982982908
-- over: 0.025336605862783225
-- physical: 0.02470684010834954
-- consistent: 0.02470684010834954
-- increased: 0.024639835244236692
-- man: 0.024123117203025523
-- exam: 0.022937862611535843
-- findings: 0.022488565739462365
-- also: 0.021432861480087897
-- by: 0.019349894959947884
-- disease: 0.019126917528161005
-- an: 0.017424221198317654
-- are: 0.017290160916163984
-- at: 0.01721079158859941
-- pain: 0.016305131566293322
-- no: 0.014817490079990775
-- on: 0.013761663384109215
-- can: 0.0
-- not: 0.0
+\-\ Texto\\:\\ \ \(0\)\
+\-\ physical\\ exam\\ was\\ unremarkable\ \(8\)\
+\-\ the\\ patient\\ will\\ need\\ to\\ follow\\-up\\ with\\ gi\\ to\\ pursue\\ either\\ esophageal\\ dilation\\ or\\ heller\\ myotomy\ \(0\)\
+\-\ the\\ swallowing\\ mechanism\\ is\\ intact\\.\\ the\\ vocal\\ cords\\ moved\\ appropriately\\ with\\ phonation\\.\\ there\\ was\\ no\\ visualized\\ nasopharyngeal\\ reflux\\ or\\ aspiration\\.\\ proximal\\ esophageal\\ dilation\\ measured\\ to\\ be\\ 4\\.5cm\\ at\\ greatest\\ dimension\\.\\ \\ narrowing\\ of\\ short\\ segment\\ of\\ the\\ lower\\ esophageal\\ sphincter\\ length\\ measured\\ to\\ be\\ 1\\.25cm\\.\\ \\ \\ distal\\ esophagus\\ showed\\ evidence\\ of\\ sigmoidization\\.\\ \\ constellation\\ of\\ findings\\ most\\ consistent\\ with\\ achalasia\\.\ \(0\)\
+\-\ primary\\ achalasia\ \(5\)\
+\-\ esophageal\\ web\\/ring\\,\\ esophageal\\ stricture\\,\\ malignancy\\ \\(esophageal\\ scc\\,\\ adenocarcinoma\\)\\,\\ achalasia\\,\\ scleroderma\\,\\ diffuse\\ esophageal\\ spasm\\,\\ neuromuscular\\ disorder\\,\\ esophageal\\ diverticuli\ \(0\)\
+\-\ the\\ patient\\ is\\ a\\ 56\\ yo\\ man\\ with\\ a\\ 1\\.5\\ yr\\ history\\ of\\ globus\\ sensation\\ and\\ dysphagia\\.\\ \\ he\\ feels\\ like\\ it\\ has\\ been\\ getting\\ progressively\\ worse\\ over\\ past\\ few\\ months\\.\\ \\ he\\ reports\\ difficulty\\ swallowing\\ both\\ liquids\\ as\\ well\\ as\\ solids\\ and\\ states\\ that\\ it\\ feels\\ like\\ it\\ is\\ getting\\ caught\\ up\\ high\\ in\\ his\\ throat\\.\\ \\ the\\ patient\\ denies\\ recent\\ weight\\ loss\\ or\\ associated\\ pain\\ with\\ swallowing\\.\\ \\ he\\ reports\\ a\\ greater\\ than\\ 10\\ year\\ history\\ of\\ gerd\\ and\\ has\\ a\\ remote\\ 20\\ pack\\-year\\ smoking\\ history\\.\ \(0\)\
+\-\ primary\\ achalasia\\ is\\ an\\ idiopathic\\ condition\\ resulting\\ in\\ loss\\ of\\ peristalsis\\ in\\ distal\\ esophagus\\ and\\ failure\\ of\\ ues\\ and\\ les\\ relaxation\\.\\ \\ it\\ results\\ from\\ degeneration\\ of\\ the\\ neurons\\ in\\ the\\ esophageal\\ wall\\ resulting\\ in\\ increased\\ lower\\ esophageal\\ sphincter\\ tone\\.\\ \\ it\\ is\\ likely\\ also\\ associated\\ with\\ loss\\ of\\ nitrous\\ oxide\\ producing\\ inhibitory\\ neurons\\,\\ causing\\ impaired\\ relaxation\\ and\\ basal\\ sphincter\\ pressure\\ to\\ rise\\.\\ \\ the\\ cholinergic\\ neurons\\ which\\ contribute\\ to\\ les\\ tone\\ may\\ be\\ relatively\\ spared\\.\\ \\ there\\ is\\ a\\ thought\\ that\\ development\\ of\\ primary\\ achalasia\\ may\\ be\\ associated\\ with\\ hsv\\-1\\ as\\ well\\ as\\ certain\\ hla\\ subtypes\\.\\ \\ the\\ histology\\ of\\ affected\\ areas\\ reveals\\ decreased\\ ganglion\\ cells\\ in\\ the\\ myenteric\\ plexus\\.\\ \\ remaining\\ neurons\\ are\\ surrounded\\ by\\ lymphocytes\\ and\\ eosinophils\\.\ \(0\)\
+\-\ \\ \ \(1082074\)\
+\-\ secondary\\ achalasia\\ is\\ most\\ commonly\\ associated\\ with\\ malignancies\\ such\\ as\\ gastric\\ and\\ esophageal\\ cancers\\.\\ \\ in\\ south\\ america\\,\\ especially\\ central\\ brazil\\,\\ chagas\\ disease\\ is\\ a\\ known\\ cause\\ of\\ secondary\\ achalasia\\,\\ which\\ cannot\\ be\\ distinguished\\ from\\ primary\\ achalasia\\ on\\ a\\ clinical\\ or\\ radiological\\ basis\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ esophageal\\:\\ 0\\.42826488808030183\ \(0\)\
+\-\ achalasia\\:\\ 0\\.40990461963001423\ \(0\)\
+\-\ neurons\\:\\ 0\\.24718447177494599\ \(0\)\
+\-\ sphincter\\:\\ 0\\.17032458302473766\ \(0\)\
+\-\ swallowing\\:\\ 0\\.13791628731257236\ \(0\)\
+\-\ les\\:\\ 0\\.11850468902650181\ \(0\)\
+\-\ it\\:\\ 0\\.1166225626265636\ \(0\)\
+\-\ of\\:\\ 0\\.11592141125855925\ \(0\)\
+\-\ relaxation\\:\\ 0\\.11465193697729617\ \(0\)\
+\-\ primary\\:\\ 0\\.1120722841344439\ \(0\)\
+\-\ feels\\:\\ 0\\.10817431546931888\ \(0\)\
+\-\ getting\\:\\ 0\\.10357836986830796\ \(0\)\
+\-\ the\\:\\ 0\\.1000123799800022\ \(0\)\
+\-\ is\\:\\ 0\\.09982810130695435\ \(0\)\
+\-\ associated\\:\\ 0\\.0960664416910987\ \(0\)\
+\-\ be\\:\\ 0\\.0924211820653316\ \(0\)\
+\-\ as\\:\\ 0\\.0915270592829276\ \(0\)\
+\-\ tone\\:\\ 0\\.09037153456050837\ \(0\)\
+\-\ measured\\:\\ 0\\.0898799333005481\ \(0\)\
+\-\ loss\\:\\ 0\\.08328112442763358\ \(0\)\
+\-\ he\\:\\ 0\\.08094724633577433\ \(0\)\
+\-\ dilation\\:\\ 0\\.08019644083856599\ \(0\)\
+\-\ in\\:\\ 0\\.07934710139199107\ \(0\)\
+\-\ resulting\\:\\ 0\\.07583323704892028\ \(0\)\
+\-\ and\\:\\ 0\\.0753249705522601\ \(0\)\
+\-\ esophagus\\:\\ 0\\.0750489922188019\ \(0\)\
+\-\ sigmoidization\\:\\ 0\\.0728696850527247\ \(0\)\
+\-\ inhibitory\\:\\ 0\\.0728696850527247\ \(0\)\
+\-\ cholinergic\\:\\ 0\\.0728696850527247\ \(0\)\
+\-\ brazil\\:\\ 0\\.0728696850527247\ \(0\)\
+\-\ with\\:\\ 0\\.07137887647640842\ \(0\)\
+\-\ reports\\:\\ 0\\.07086487877211353\ \(0\)\
+\-\ ues\\:\\ 0\\.06963087429873606\ \(0\)\
+\-\ nitrous\\:\\ 0\\.06963087429873606\ \(0\)\
+\-\ myenteric\\:\\ 0\\.06963087429873606\ \(0\)\
+\-\ to\\:\\ 0\\.0683482109458567\ \(0\)\
+\-\ like\\:\\ 0\\.06773279908257167\ \(0\)\
+\-\ oxide\\:\\ 0\\.0673329014982306\ \(0\)\
+\-\ phonation\\:\\ 0\\.06555045531672864\ \(0\)\
+\-\ south\\:\\ 0\\.06555045531672864\ \(0\)\
+\-\ or\\:\\ 0\\.06340616633850688\ \(0\)\
+\-\ heller\\:\\ 0\\.06286275204314219\ \(0\)\
+\-\ neuromuscular\\:\\ 0\\.060855279990253315\ \(0\)\
+\-\ caught\\:\\ 0\\.06001367176223453\ \(0\)\
+\-\ pursue\\:\\ 0\\.059252344513250906\ \(0\)\
+\-\ chagas\\:\\ 0\\.05855730718974785\ \(0\)\
+\-\ cords\\:\\ 0\\.057325968488648085\ \(0\)\
+\-\ myotomy\\:\\ 0\\.056774861008245886\ \(0\)\
+\-\ moved\\:\\ 0\\.056774861008245886\ \(0\)\
+\-\ liquids\\:\\ 0\\.056774861008245886\ \(0\)\
+\-\ hla\\:\\ 0\\.056774861008245886\ \(0\)\
+\-\ peristalsis\\:\\ 0\\.05625933438924239\ \(0\)\
+\-\ eosinophils\\:\\ 0\\.05625933438924239\ \(0\)\
+\-\ scc\\:\\ 0\\.05577507156817819\ \(0\)\
+\-\ globus\\:\\ 0\\.05577507156817819\ \(0\)\
+\-\ vocal\\:\\ 0\\.05488661341010133\ \(0\)\
+\-\ nasopharyngeal\\:\\ 0\\.05488661341010133\ \(0\)\
+\-\ solids\\:\\ 0\\.05488661341010133\ \(0\)\
+\-\ contribute\\:\\ 0\\.05408715773465944\ \(0\)\
+\-\ spared\\:\\ 0\\.05408715773465944\ \(0\)\
+\-\ secondary\\:\\ 0\\.054016035358559505\ \(0\)\
+\-\ diverticuli\\:\\ 0\\.0537155609587568\ \(0\)\
+\-\ subtypes\\:\\ 0\\.0537155609587568\ \(0\)\
+\-\ america\\:\\ 0\\.0537155609587568\ \(0\)\
+\-\ distinguished\\:\\ 0\\.0537155609587568\ \(0\)\
+\-\ distal\\:\\ 0\\.05294976142608175\ \(0\)\
+\-\ history\\:\\ 0\\.052226356970824624\ \(0\)\
+\-\ constellation\\:\\ 0\\.05178918493415398\ \(0\)\
+\-\ yr\\:\\ 0\\.05178918493415398\ \(0\)\
+\-\ impaired\\:\\ 0\\.05178918493415398\ \(0\)\
+\-\ rise\\:\\ 0\\.05178918493415398\ \(0\)\
+\-\ certain\\:\\ 0\\.051508879325351566\ \(0\)\
+\-\ ganglion\\:\\ 0\\.05123807745375178\ \(0\)\
+\-\ lymphocytes\\:\\ 0\\.05123807745375178\ \(0\)\
+\-\ malignancies\\:\\ 0\\.05123807745375178\ \(0\)\
+\-\ scleroderma\\:\\ 0\\.05097615595013339\ \(0\)\
+\-\ appropriately\\:\\ 0\\.05023828801368408\ \(0\)\
+\-\ gerd\\:\\ 0\\.04894010465324632\ \(0\)\
+\-\ cancers\\:\\ 0\\.04894010465324632\ \(0\)\
+\-\ basis\\:\\ 0\\.04874286277570248\ \(0\)\
+\-\ histology\\:\\ 0\\.048362415151053245\ \(0\)\
+\-\ most\\:\\ 0\\.04742767752633593\ \(0\)\
+\-\ radiological\\:\\ 0\\.04731903547906557\ \(0\)\
+\-\ remote\\:\\ 0\\.04715765847174436\ \(0\)\
+\-\ dimension\\:\\ 0\\.04699947725969544\ \(0\)\
+\-\ producing\\:\\ 0\\.0468443677224302\ \(0\)\
+\-\ surrounded\\:\\ 0\\.0468443677224302\ \(0\)\
+\-\ lower\\:\\ 0\\.04656837984982991\ \(0\)\
+\-\ spasm\\:\\ 0\\.046111019101618585\ \(0\)\
+\-\ may\\:\\ 0\\.045860326879370576\ \(0\)\
+\-\ throat\\:\\ 0\\.04570129389925767\ \(0\)\
+\-\ greatest\\:\\ 0\\.04556925965057647\ \(0\)\
+\-\ up\\:\\ 0\\.045079400198049714\ \(0\)\
+\-\ progressively\\:\\ 0\\.04458489085270441\ \(0\)\
+\-\ patient\\:\\ 0\\.04446083306348404\ \(0\)\
+\-\ stricture\\:\\ 0\\.0441347497844082\ \(0\)\
+\-\ well\\:\\ 0\\.04412640093511195\ \(0\)\
+\-\ remaining\\:\\ 0\\.04330409137328782\ \(0\)\
+\-\ mechanism\\:\\ 0\\.04291905827768801\ \(0\)\
+\-\ 56\\:\\ 0\\.04255173424335637\ \(0\)\
+\-\ degeneration\\:\\ 0\\.042374218267341786\ \(0\)\
+\-\ smoking\\:\\ 0\\.04220056164165064\ \(0\)\
+\-\ need\\:\\ 0\\.041946956526265546\ \(0\)\
+\-\ has\\:\\ 0\\.04162628874650364\ \(0\)\
+\-\ length\\:\\ 0\\.04154139276717487\ \(0\)\
+\-\ which\\:\\ 0\\.041438474323564276\ \(0\)\
+\-\ dysphagia\\:\\ 0\\.041155429278448785\ \(0\)\
+\-\ plexus\\:\\ 0\\.041080425063748004\ \(0\)\
+\-\ states\\:\\ 0\\.04003247609608237\ \(0\)\
+\-\ aspiration\\:\\ 0\\.039838428735748284\ \(0\)\
+\-\ that\\:\\ 0\\.03954772458273221\ \(0\)\
+\-\ reflux\\:\\ 0\\.03946392780050569\ \(0\)\
+\-\ thought\\:\\ 0\\.039342896846024704\ \(0\)\
+\-\ short\\:\\ 0\\.03916472090469587\ \(0\)\
+\-\ sensation\\:\\ 0\\.0390481072982103\ \(0\)\
+\-\ basal\\:\\ 0\\.03899043275035067\ \(0\)\
+\-\ few\\:\\ 0\\.038652866034861386\ \(0\)\
+\-\ disorder\\:\\ 0\\.038543441170582816\ \(0\)\
+\-\ idiopathic\\:\\ 0\\.038543441170582816\ \(0\)\
+\-\ gastric\\:\\ 0\\.038382064163261606\ \(0\)\
+\-\ difficulty\\:\\ 0\\.03832898828575153\ \(0\)\
+\-\ gi\\:\\ 0\\.038276262746619015\ \(0\)\
+\-\ worse\\:\\ 0\\.038171844394680174\ \(0\)\
+\-\ either\\:\\ 0\\.03766929566671427\ \(0\)\
+\-\ development\\:\\ 0\\.03766929566671427\ \(0\)\
+\-\ segment\\:\\ 0\\.03762073691427798\ \(0\)\
+\-\ affected\\:\\ 0\\.03747680707117712\ \(0\)\
+\-\ causing\\:\\ 0\\.03742940105561801\ \(0\)\
+\-\ adenocarcinoma\\:\\ 0\\.03724254130266214\ \(0\)\
+\-\ relatively\\:\\ 0\\.03710521029527448\ \(0\)\
+\-\ denies\\:\\ 0\\.036750134497704846\ \(0\)\
+\-\ condition\\:\\ 0\\.03641017297177143\ \(0\)\
+\-\ there\\:\\ 0\\.03626100626833439\ \(0\)\
+\-\ from\\:\\ 0\\.03619363334675242\ \(0\)\
+\-\ especially\\:\\ 0\\.03604425142891501\ \(0\)\
+\-\ visualized\\:\\ 0\\.035581055583165044\ \(0\)\
+\-\ results\\:\\ 0\\.03550640186056307\ \(0\)\
+\-\ narrowing\\:\\ 0\\.03532276411377252\ \(0\)\
+\-\ cells\\:\\ 0\\.03510783033491763\ \(0\)\
+\-\ pressure\\:\\ 0\\.034694571449607456\ \(0\)\
+\-\ reveals\\:\\ 0\\.03466107919854267\ \(0\)\
+\-\ failure\\:\\ 0\\.034594513061848985\ \(0\)\
+\-\ malignancy\\:\\ 0\\.034112200171265976\ \(0\)\
+\-\ commonly\\:\\ 0\\.03371652853749716\ \(0\)\
+\-\ greater\\:\\ 0\\.033569417746517324\ \(0\)\
+\-\ intact\\:\\ 0\\.03297953402406294\ \(0\)\
+\-\ weight\\:\\ 0\\.03177531891498894\ \(0\)\
+\-\ was\\:\\ 0\\.031760287138538935\ \(0\)\
+\-\ cause\\:\\ 0\\.03104156173779146\ \(0\)\
+\-\ areas\\:\\ 0\\.03093603985747115\ \(0\)\
+\-\ recent\\:\\ 0\\.030852614658684104\ \(0\)\
+\-\ unremarkable\\:\\ 0\\.030547307808262043\ \(0\)\
+\-\ central\\:\\ 0\\.030428379206780837\ \(0\)\
+\-\ showed\\:\\ 0\\.0303500659307182\ \(0\)\
+\-\ past\\:\\ 0\\.029659900757519626\ \(0\)\
+\-\ known\\:\\ 0\\.029500668438136268\ \(0\)\
+\-\ 20\\:\\ 0\\.029396250086197426\ \(0\)\
+\-\ will\\:\\ 0\\.029327388537522488\ \(0\)\
+\-\ such\\:\\ 0\\.029310265508079143\ \(0\)\
+\-\ clinical\\:\\ 0\\.028877482286310936\ \(0\)\
+\-\ diffuse\\:\\ 0\\.028575416616771866\ \(0\)\
+\-\ proximal\\:\\ 0\\.02846694699417939\ \(0\)\
+\-\ yo\\:\\ 0\\.02846694699417939\ \(0\)\
+\-\ decreased\\:\\ 0\\.028224411773257834\ \(0\)\
+\-\ year\\:\\ 0\\.0280849846057081\ \(0\)\
+\-\ wall\\:\\ 0\\.0277182222566343\ \(0\)\
+\-\ his\\:\\ 0\\.027634578663288684\ \(0\)\
+\-\ likely\\:\\ 0\\.02722901490419801\ \(0\)\
+\-\ 10\\:\\ 0\\.026644584307436155\ \(0\)\
+\-\ been\\:\\ 0\\.026547169805289768\ \(0\)\
+\-\ months\\:\\ 0\\.026523000678903598\ \(0\)\
+\-\ high\\:\\ 0\\.025896633377810348\ \(0\)\
+\-\ evidence\\:\\ 0\\.025863234485209084\ \(0\)\
+\-\ than\\:\\ 0\\.025829974658489747\ \(0\)\
+\-\ both\\:\\ 0\\.025409745982982908\ \(0\)\
+\-\ over\\:\\ 0\\.025336605862783225\ \(0\)\
+\-\ physical\\:\\ 0\\.02470684010834954\ \(0\)\
+\-\ consistent\\:\\ 0\\.02470684010834954\ \(0\)\
+\-\ increased\\:\\ 0\\.024639835244236692\ \(0\)\
+\-\ man\\:\\ 0\\.024123117203025523\ \(0\)\
+\-\ exam\\:\\ 0\\.022937862611535843\ \(0\)\
+\-\ findings\\:\\ 0\\.022488565739462365\ \(0\)\
+\-\ also\\:\\ 0\\.021432861480087897\ \(0\)\
+\-\ by\\:\\ 0\\.019349894959947884\ \(0\)\
+\-\ disease\\:\\ 0\\.019126917528161005\ \(0\)\
+\-\ an\\:\\ 0\\.017424221198317654\ \(0\)\
+\-\ are\\:\\ 0\\.017290160916163984\ \(0\)\
+\-\ at\\:\\ 0\\.01721079158859941\ \(0\)\
+\-\ pain\\:\\ 0\\.016305131566293322\ \(0\)\
+\-\ no\\:\\ 0\\.014817490079990775\ \(0\)\
+\-\ on\\:\\ 0\\.013761663384109215\ \(0\)\
+\-\ can\\:\\ 0\\.0\ \(0\)\
+\-\ not\\:\\ 0\\.0\ \(0\)\

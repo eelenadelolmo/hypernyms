@@ -1,55 +1,53 @@
-Texto: 
-neurological exam unremarkable.
-steroids, pain meds. palliative radiation therapy following initial steroid treatment.
-numerous enhancing cerebral and predominantly cerebellar masses with mild hydrocephalus.
-metastatic breast cancer
-metastatic cancer
-multiple septic emboli
-39 year old woman with a history of stage iv breast cancer, presents now with new onset persistent and worsening headache.
-
-
-Keywords by value: 
-- cancer: 0.38112654756225856
-- breast: 0.2770106738476481
-- metastatic: 0.20921587207759465
-- meds: 0.20838101203781262
-- palliative: 0.20570466662126438
-- emboli: 0.18711579412777488
-- steroid: 0.18383967536008042
-- septic: 0.1812663699874343
-- steroids: 0.16757173267978537
-- predominantly: 0.16702803829748922
-- numerous: 0.16111210037395576
-- 39: 0.15850534180413692
-- neurological: 0.1566755344586416
-- cerebellar: 0.15608719433304183
-- hydrocephalus: 0.15570064126726046
-- stage: 0.15189074771024777
-- persistent: 0.14695768369985496
-- worsening: 0.14565197241735495
-- iv: 0.13628282677984416
-- cerebral: 0.13214211267449236
-- new: 0.13195267042390255
-- headache: 0.13148370806904275
-- now: 0.13092949978263305
-- masses: 0.12984790247767497
-- initial: 0.12795151209905734
-- unremarkable: 0.12786781626615765
-- radiation: 0.1263960470949248
-- onset: 0.12247557904431766
-- enhancing: 0.11948333045834097
-- following: 0.11442213630557008
-- with: 0.11204417488922194
-- therapy: 0.1095889259892849
-- mild: 0.10812155606386924
-- woman: 0.09933477531571011
-- exam: 0.09601547934633205
-- multiple: 0.09329204205083737
-- presents: 0.09175279259880974
-- treatment: 0.09085661921496378
-- and: 0.07882560024017146
-- history: 0.07287134498957892
-- pain: 0.06825156509374695
-- year: 0.05878039521422664
-- old: 0.05644952674441225
-- of: 0.037325756165992374
+\-\ Texto\\:\\ \ \(0\)\
+\-\ neurological\\ exam\\ unremarkable\\.\ \(0\)\
+\-\ steroids\\,\\ pain\\ meds\\.\\ palliative\\ radiation\\ therapy\\ following\\ initial\\ steroid\\ treatment\\.\ \(0\)\
+\-\ numerous\\ enhancing\\ cerebral\\ and\\ predominantly\\ cerebellar\\ masses\\ with\\ mild\\ hydrocephalus\\.\ \(0\)\
+\-\ metastatic\\ breast\\ cancer\ \(11\)\
+\-\ metastatic\\ cancer\ \(6\)\
+\-\ multiple\\ septic\\ emboli\ \(0\)\
+\-\ 39\\ year\\ old\\ woman\\ with\\ a\\ history\\ of\\ stage\\ iv\\ breast\\ cancer\\,\\ presents\\ now\\ with\\ new\\ onset\\ persistent\\ and\\ worsening\\ headache\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ cancer\\:\\ 0\\.38112654756225856\ \(0\)\
+\-\ breast\\:\\ 0\\.2770106738476481\ \(0\)\
+\-\ metastatic\\:\\ 0\\.20921587207759465\ \(0\)\
+\-\ meds\\:\\ 0\\.20838101203781262\ \(0\)\
+\-\ palliative\\:\\ 0\\.20570466662126438\ \(0\)\
+\-\ emboli\\:\\ 0\\.18711579412777488\ \(0\)\
+\-\ steroid\\:\\ 0\\.18383967536008042\ \(0\)\
+\-\ septic\\:\\ 0\\.1812663699874343\ \(0\)\
+\-\ steroids\\:\\ 0\\.16757173267978537\ \(0\)\
+\-\ predominantly\\:\\ 0\\.16702803829748922\ \(0\)\
+\-\ numerous\\:\\ 0\\.16111210037395576\ \(0\)\
+\-\ 39\\:\\ 0\\.15850534180413692\ \(0\)\
+\-\ neurological\\:\\ 0\\.1566755344586416\ \(0\)\
+\-\ cerebellar\\:\\ 0\\.15608719433304183\ \(0\)\
+\-\ hydrocephalus\\:\\ 0\\.15570064126726046\ \(0\)\
+\-\ stage\\:\\ 0\\.15189074771024777\ \(0\)\
+\-\ persistent\\:\\ 0\\.14695768369985496\ \(0\)\
+\-\ worsening\\:\\ 0\\.14565197241735495\ \(0\)\
+\-\ iv\\:\\ 0\\.13628282677984416\ \(0\)\
+\-\ cerebral\\:\\ 0\\.13214211267449236\ \(0\)\
+\-\ new\\:\\ 0\\.13195267042390255\ \(0\)\
+\-\ headache\\:\\ 0\\.13148370806904275\ \(0\)\
+\-\ now\\:\\ 0\\.13092949978263305\ \(0\)\
+\-\ masses\\:\\ 0\\.12984790247767497\ \(0\)\
+\-\ initial\\:\\ 0\\.12795151209905734\ \(0\)\
+\-\ unremarkable\\:\\ 0\\.12786781626615765\ \(0\)\
+\-\ radiation\\:\\ 0\\.1263960470949248\ \(0\)\
+\-\ onset\\:\\ 0\\.12247557904431766\ \(0\)\
+\-\ enhancing\\:\\ 0\\.11948333045834097\ \(0\)\
+\-\ following\\:\\ 0\\.11442213630557008\ \(0\)\
+\-\ with\\:\\ 0\\.11204417488922194\ \(0\)\
+\-\ therapy\\:\\ 0\\.1095889259892849\ \(0\)\
+\-\ mild\\:\\ 0\\.10812155606386924\ \(0\)\
+\-\ woman\\:\\ 0\\.09933477531571011\ \(0\)\
+\-\ exam\\:\\ 0\\.09601547934633205\ \(0\)\
+\-\ multiple\\:\\ 0\\.09329204205083737\ \(0\)\
+\-\ presents\\:\\ 0\\.09175279259880974\ \(0\)\
+\-\ treatment\\:\\ 0\\.09085661921496378\ \(0\)\
+\-\ and\\:\\ 0\\.07882560024017146\ \(0\)\
+\-\ history\\:\\ 0\\.07287134498957892\ \(0\)\
+\-\ pain\\:\\ 0\\.06825156509374695\ \(0\)\
+\-\ year\\:\\ 0\\.05878039521422664\ \(0\)\
+\-\ old\\:\\ 0\\.05644952674441225\ \(0\)\
+\-\ of\\:\\ 0\\.037325756165992374\ \(0\)\

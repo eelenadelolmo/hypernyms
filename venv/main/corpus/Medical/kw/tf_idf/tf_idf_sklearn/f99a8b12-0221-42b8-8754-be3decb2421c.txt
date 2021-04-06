@@ -1,117 +1,115 @@
-Texto: 
-no signs/symptoms of trauma or physical deformity on exam.  auscultation revealed decreaed breath sounds on the right with dullness to percussion.  labs were all within normal limits.
-the exact cause for this case is uncertain (no evidence of tb, prior pleural hemorrhage, no underlying lung disease).
-chest x-ray demonstrated volume loss on the right in association with diffuse pleural thickening.  similar findings noted on ct, but there is extension of the process into the chest wall as noted by asymmetric chest wall tissues (thicker on right).  no calcification associated with areas of pleural thickening found with either imaging mode.
-unilateral fibrothorax
-- primary malignancy (mesothelioma)
-- metastatic disease (spread of thymoma or lung adenocarcinoma)
-- hemothorax
-- prior empyema or exudative effusion (esp. asbestos exposure)
-- pleural fibrosis (fibrothorax)
-- multi-loculated pleural effusion/empyema
-54 year-old woman with right-sided chest pain
-diffuse pleural thickening is typically the result of underlying / untreated disease.  in particular, unilateral involvement is suggestive of malignancy.  however, biopsy with subsequent histology showed no evidence of metastatic disease or mesothelioma.
-
-
-Keywords by value: 
-- pleural: 0.38242379465586296
-- fibrothorax: 0.27080432367978613
-- mesothelioma: 0.18758585536448164
-- empyema: 0.18262681222961774
-- chest: 0.17876771216168097
-- thickening: 0.17280258879242882
-- unilateral: 0.15497326921322596
-- disease: 0.14216205165549875
-- underlying: 0.13823270149286743
-- no: 0.13766494176695374
-- decreaed: 0.13540216183989306
-- of: 0.1325528287640806
-- on: 0.12785556650705002
-- malignancy: 0.12677056707360854
-- effusion: 0.12574487081093233
-- exudative: 0.11909586876426523
-- or: 0.11781760810413534
-- esp: 0.1148259108961534
-- thicker: 0.11307770116050724
-- right: 0.1122834471126374
-- dullness: 0.11009922075786864
-- diffuse: 0.10619431612986886
-- lung: 0.10300873986737752
-- wall: 0.10300873986737752
-- the: 0.10136570222643039
-- with: 0.09947402178576115
-- asbestos: 0.09791371215804118
-- untreated: 0.09791371215804118
-- evidence: 0.09611508157159082
-- prior: 0.09474350789722877
-- uncertain: 0.09424965995241374
-- hemothorax: 0.09424965995241374
-- exact: 0.09291958005270207
-- metastatic: 0.09287204907149361
-- is: 0.09274735247965817
-- thymoma: 0.09250145021676759
-- percussion: 0.09057112006618433
-- histology: 0.08986419467180275
-- noted: 0.08978143240573562
-- mode: 0.08373141161357585
-- particular: 0.08263145458083224
-- exposure: 0.08046511500925158
-- 54: 0.079749669162513
-- auscultation: 0.07923484434225915
-- association: 0.07619515714113975
-- asymmetric: 0.07619515714113975
-- spread: 0.0760583577617153
-- tb: 0.07539265751054962
-- volume: 0.07438599197034289
-- fibrosis: 0.07092867560379884
-- either: 0.06999486912244467
-- deformity: 0.06920189926913106
-- adenocarcinoma: 0.06920189926913106
-- suggestive: 0.06894671887038932
-- limits: 0.06690164668709814
-- tissues: 0.06675541272000636
-- sounds: 0.06536724027021378
-- similar: 0.06452990695173157
-- subsequent: 0.06409786649847306
-- process: 0.06350169689904572
-- result: 0.06338528353680427
-- breath: 0.06205520363709257
-- involvement: 0.06128062993684447
-- calcification: 0.0604490296991994
-- extension: 0.05993474548565824
-- typically: 0.059437685631736174
-- biopsy: 0.059349072666455775
-- labs: 0.0586585933985195
-- cause: 0.057679603845444516
-- areas: 0.05748352929528773
-- hemorrhage: 0.0566871820492824
-- showed: 0.05639470701745364
-- revealed: 0.05551618864144269
-- found: 0.05478389258316552
-- primary: 0.05206153129095705
-- demonstrated: 0.0520345201322771
-- loss: 0.0515826953270516
-- all: 0.05040069341023571
-- however: 0.050113407778484644
-- trauma: 0.04917179631023992
-- physical: 0.04590879678542013
-- into: 0.04500791748096665
-- associated: 0.044626252589911604
-- imaging: 0.044495767111295687
-- woman: 0.04409524017472665
-- were: 0.0436437777883649
-- exam: 0.04262178686982367
-- case: 0.04253615608847533
-- in: 0.042125175947137286
-- but: 0.04186833386599845
-- findings: 0.04178692985428102
-- within: 0.038995354040989895
-- by: 0.03595483645985414
-- normal: 0.03456927393227652
-- as: 0.03401403940414879
-- there: 0.03368903430603481
-- ct: 0.03223380672706623
-- pain: 0.0302972362452587
-- this: 0.029093363075574405
-- for: 0.025662144728111867
-- to: 0.021166770775487707
+\-\ Texto\\:\\ \ \(0\)\
+\-\ no\\ signs\\/symptoms\\ of\\ trauma\\ or\\ physical\\ deformity\\ on\\ exam\\.\\ \\ auscultation\\ revealed\\ decreaed\\ breath\\ sounds\\ on\\ the\\ right\\ with\\ dullness\\ to\\ percussion\\.\\ \\ labs\\ were\\ all\\ within\\ normal\\ limits\\.\ \(0\)\
+\-\ the\\ exact\\ cause\\ for\\ this\\ case\\ is\\ uncertain\\ \\(no\\ evidence\\ of\\ tb\\,\\ prior\\ pleural\\ hemorrhage\\,\\ no\\ underlying\\ lung\\ disease\\)\\.\ \(0\)\
+\-\ chest\\ x\\-ray\\ demonstrated\\ volume\\ loss\\ on\\ the\\ right\\ in\\ association\\ with\\ diffuse\\ pleural\\ thickening\\.\\ \\ similar\\ findings\\ noted\\ on\\ ct\\,\\ but\\ there\\ is\\ extension\\ of\\ the\\ process\\ into\\ the\\ chest\\ wall\\ as\\ noted\\ by\\ asymmetric\\ chest\\ wall\\ tissues\\ \\(thicker\\ on\\ right\\)\\.\\ \\ no\\ calcification\\ associated\\ with\\ areas\\ of\\ pleural\\ thickening\\ found\\ with\\ either\\ imaging\\ mode\\.\ \(0\)\
+\-\ unilateral\\ fibrothorax\ \(0\)\
+\-\ primary\\ malignancy\\ \\(mesothelioma\\)\ \(0\)\
+\-\ metastatic\\ disease\\ \\(spread\\ of\\ thymoma\\ or\\ lung\\ adenocarcinoma\\)\ \(0\)\
+\-\ hemothorax\ \(29\)\
+\-\ prior\\ empyema\\ or\\ exudative\\ effusion\\ \\(esp\\.\\ asbestos\\ exposure\\)\ \(0\)\
+\-\ pleural\\ fibrosis\\ \\(fibrothorax\\)\ \(0\)\
+\-\ multi\\-loculated\\ pleural\\ effusion\\/empyema\ \(0\)\
+\-\ 54\\ year\\-old\\ woman\\ with\\ right\\-sided\\ chest\\ pain\ \(1\)\
+\-\ diffuse\\ pleural\\ thickening\\ is\\ typically\\ the\\ result\\ of\\ underlying\\ \\/\\ untreated\\ disease\\.\\ \\ in\\ particular\\,\\ unilateral\\ involvement\\ is\\ suggestive\\ of\\ malignancy\\.\\ \\ however\\,\\ biopsy\\ with\\ subsequent\\ histology\\ showed\\ no\\ evidence\\ of\\ metastatic\\ disease\\ or\\ mesothelioma\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ pleural\\:\\ 0\\.38242379465586296\ \(0\)\
+\-\ fibrothorax\\:\\ 0\\.27080432367978613\ \(0\)\
+\-\ mesothelioma\\:\\ 0\\.18758585536448164\ \(0\)\
+\-\ empyema\\:\\ 0\\.18262681222961774\ \(0\)\
+\-\ chest\\:\\ 0\\.17876771216168097\ \(0\)\
+\-\ thickening\\:\\ 0\\.17280258879242882\ \(0\)\
+\-\ unilateral\\:\\ 0\\.15497326921322596\ \(0\)\
+\-\ disease\\:\\ 0\\.14216205165549875\ \(0\)\
+\-\ underlying\\:\\ 0\\.13823270149286743\ \(0\)\
+\-\ no\\:\\ 0\\.13766494176695374\ \(0\)\
+\-\ decreaed\\:\\ 0\\.13540216183989306\ \(0\)\
+\-\ of\\:\\ 0\\.1325528287640806\ \(0\)\
+\-\ on\\:\\ 0\\.12785556650705002\ \(0\)\
+\-\ malignancy\\:\\ 0\\.12677056707360854\ \(0\)\
+\-\ effusion\\:\\ 0\\.12574487081093233\ \(0\)\
+\-\ exudative\\:\\ 0\\.11909586876426523\ \(0\)\
+\-\ or\\:\\ 0\\.11781760810413534\ \(0\)\
+\-\ esp\\:\\ 0\\.1148259108961534\ \(0\)\
+\-\ thicker\\:\\ 0\\.11307770116050724\ \(0\)\
+\-\ right\\:\\ 0\\.1122834471126374\ \(0\)\
+\-\ dullness\\:\\ 0\\.11009922075786864\ \(0\)\
+\-\ diffuse\\:\\ 0\\.10619431612986886\ \(0\)\
+\-\ lung\\:\\ 0\\.10300873986737752\ \(0\)\
+\-\ wall\\:\\ 0\\.10300873986737752\ \(0\)\
+\-\ the\\:\\ 0\\.10136570222643039\ \(0\)\
+\-\ with\\:\\ 0\\.09947402178576115\ \(0\)\
+\-\ asbestos\\:\\ 0\\.09791371215804118\ \(0\)\
+\-\ untreated\\:\\ 0\\.09791371215804118\ \(0\)\
+\-\ evidence\\:\\ 0\\.09611508157159082\ \(0\)\
+\-\ prior\\:\\ 0\\.09474350789722877\ \(0\)\
+\-\ uncertain\\:\\ 0\\.09424965995241374\ \(0\)\
+\-\ hemothorax\\:\\ 0\\.09424965995241374\ \(0\)\
+\-\ exact\\:\\ 0\\.09291958005270207\ \(0\)\
+\-\ metastatic\\:\\ 0\\.09287204907149361\ \(0\)\
+\-\ is\\:\\ 0\\.09274735247965817\ \(0\)\
+\-\ thymoma\\:\\ 0\\.09250145021676759\ \(0\)\
+\-\ percussion\\:\\ 0\\.09057112006618433\ \(0\)\
+\-\ histology\\:\\ 0\\.08986419467180275\ \(0\)\
+\-\ noted\\:\\ 0\\.08978143240573562\ \(0\)\
+\-\ mode\\:\\ 0\\.08373141161357585\ \(0\)\
+\-\ particular\\:\\ 0\\.08263145458083224\ \(0\)\
+\-\ exposure\\:\\ 0\\.08046511500925158\ \(0\)\
+\-\ 54\\:\\ 0\\.079749669162513\ \(0\)\
+\-\ auscultation\\:\\ 0\\.07923484434225915\ \(0\)\
+\-\ association\\:\\ 0\\.07619515714113975\ \(0\)\
+\-\ asymmetric\\:\\ 0\\.07619515714113975\ \(0\)\
+\-\ spread\\:\\ 0\\.0760583577617153\ \(0\)\
+\-\ tb\\:\\ 0\\.07539265751054962\ \(0\)\
+\-\ volume\\:\\ 0\\.07438599197034289\ \(0\)\
+\-\ fibrosis\\:\\ 0\\.07092867560379884\ \(0\)\
+\-\ either\\:\\ 0\\.06999486912244467\ \(0\)\
+\-\ deformity\\:\\ 0\\.06920189926913106\ \(0\)\
+\-\ adenocarcinoma\\:\\ 0\\.06920189926913106\ \(0\)\
+\-\ suggestive\\:\\ 0\\.06894671887038932\ \(0\)\
+\-\ limits\\:\\ 0\\.06690164668709814\ \(0\)\
+\-\ tissues\\:\\ 0\\.06675541272000636\ \(0\)\
+\-\ sounds\\:\\ 0\\.06536724027021378\ \(0\)\
+\-\ similar\\:\\ 0\\.06452990695173157\ \(0\)\
+\-\ subsequent\\:\\ 0\\.06409786649847306\ \(0\)\
+\-\ process\\:\\ 0\\.06350169689904572\ \(0\)\
+\-\ result\\:\\ 0\\.06338528353680427\ \(0\)\
+\-\ breath\\:\\ 0\\.06205520363709257\ \(0\)\
+\-\ involvement\\:\\ 0\\.06128062993684447\ \(0\)\
+\-\ calcification\\:\\ 0\\.0604490296991994\ \(0\)\
+\-\ extension\\:\\ 0\\.05993474548565824\ \(0\)\
+\-\ typically\\:\\ 0\\.059437685631736174\ \(0\)\
+\-\ biopsy\\:\\ 0\\.059349072666455775\ \(0\)\
+\-\ labs\\:\\ 0\\.0586585933985195\ \(0\)\
+\-\ cause\\:\\ 0\\.057679603845444516\ \(0\)\
+\-\ areas\\:\\ 0\\.05748352929528773\ \(0\)\
+\-\ hemorrhage\\:\\ 0\\.0566871820492824\ \(0\)\
+\-\ showed\\:\\ 0\\.05639470701745364\ \(0\)\
+\-\ revealed\\:\\ 0\\.05551618864144269\ \(0\)\
+\-\ found\\:\\ 0\\.05478389258316552\ \(0\)\
+\-\ primary\\:\\ 0\\.05206153129095705\ \(0\)\
+\-\ demonstrated\\:\\ 0\\.0520345201322771\ \(0\)\
+\-\ loss\\:\\ 0\\.0515826953270516\ \(0\)\
+\-\ all\\:\\ 0\\.05040069341023571\ \(0\)\
+\-\ however\\:\\ 0\\.050113407778484644\ \(0\)\
+\-\ trauma\\:\\ 0\\.04917179631023992\ \(0\)\
+\-\ physical\\:\\ 0\\.04590879678542013\ \(0\)\
+\-\ into\\:\\ 0\\.04500791748096665\ \(0\)\
+\-\ associated\\:\\ 0\\.044626252589911604\ \(0\)\
+\-\ imaging\\:\\ 0\\.044495767111295687\ \(0\)\
+\-\ woman\\:\\ 0\\.04409524017472665\ \(0\)\
+\-\ were\\:\\ 0\\.0436437777883649\ \(0\)\
+\-\ exam\\:\\ 0\\.04262178686982367\ \(0\)\
+\-\ case\\:\\ 0\\.04253615608847533\ \(0\)\
+\-\ in\\:\\ 0\\.042125175947137286\ \(0\)\
+\-\ but\\:\\ 0\\.04186833386599845\ \(0\)\
+\-\ findings\\:\\ 0\\.04178692985428102\ \(0\)\
+\-\ within\\:\\ 0\\.038995354040989895\ \(0\)\
+\-\ by\\:\\ 0\\.03595483645985414\ \(0\)\
+\-\ normal\\:\\ 0\\.03456927393227652\ \(0\)\
+\-\ as\\:\\ 0\\.03401403940414879\ \(0\)\
+\-\ there\\:\\ 0\\.03368903430603481\ \(0\)\
+\-\ ct\\:\\ 0\\.03223380672706623\ \(0\)\
+\-\ pain\\:\\ 0\\.0302972362452587\ \(0\)\
+\-\ this\\:\\ 0\\.029093363075574405\ \(0\)\
+\-\ for\\:\\ 0\\.025662144728111867\ \(0\)\
+\-\ to\\:\\ 0\\.021166770775487707\ \(0\)\

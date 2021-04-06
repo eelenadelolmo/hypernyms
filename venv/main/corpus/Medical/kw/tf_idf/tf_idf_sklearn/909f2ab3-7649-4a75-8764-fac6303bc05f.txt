@@ -1,111 +1,108 @@
-Texto: 
-altered/decreased awareness and confusion noted on pe.
-patient was hospitalized and after brief observation no change in mental status was noted.  elective craniotomy with burr holes was performed and 2 drains were placed.  she remained hospitalized until mental status improved and serial cts demonstrated resolution of the hematoma, pneumocephalus and hydrocephalus.
-ct demonstrates several different densities suggesting different ages of previous bleeds.  also present is a midline shift and evidence of mass effect from the hematoma.  the second image demonstrates placement of 2 drains with resolution of the midline shift.
-
-mri(gradiant echo)well demonstrates old vs. new blood and t1 oost-constrast image demonstrates fluid/fluid levels due to different ages of blood.
-subdural hematoma
-trauma--acute subdural
-subacute subdural
-chronic subdural
-infection
-electrolyte imbalance
-stroke
-90 year old woman who was in her normal state of health until this morning when an acute deterioration in her mental status was noted.
-
-
-Keywords by value: 
-- subdural: 0.3292194907061696
-- different: 0.23034179954559478
-- mental: 0.21935241554052343
-- drains: 0.2021156013882784
-- hospitalized: 0.20060682082168824
-- hematoma: 0.17616305230720442
-- status: 0.17564396210575886
-- ages: 0.1713905462434487
-- demonstrates: 0.1685943180423106
-- shift: 0.1474164186586973
-- was: 0.14619342350626796
-- until: 0.13962494093816327
-- resolution: 0.13613983156518306
-- noted: 0.13344505675791332
-- gradiant: 0.12820508644727727
-- midline: 0.12619566387225842
-- holes: 0.12397403514267455
-- and: 0.1213529759784032
-- imbalance: 0.1180107032603256
-- burr: 0.11574354969934784
-- of: 0.1149269165749788
-- bleeds: 0.10909602998713284
-- image: 0.10730951079956204
-- pneumocephalus: 0.10663910106963218
-- electrolyte: 0.10663910106963218
-- awareness: 0.10554916651239618
-- her: 0.10482727488444235
-- cts: 0.10453446171544682
-- brief: 0.10030341041084412
-- deterioration: 0.10030341041084412
-- elective: 0.09890164680018118
-- blood: 0.09744751557471369
-- acute: 0.09076936147442016
-- confusion: 0.0897458634374801
-- craniotomy: 0.0897458634374801
-- state: 0.08464429855036698
-- densities: 0.08390259251630032
-- morning: 0.0831965023948679
-- remained: 0.08296847633780173
-- health: 0.08296847633780173
-- observation: 0.07868096666801802
-- subacute: 0.07851288042627784
-- stroke: 0.07801984925240213
-- echo: 0.07770011087581133
-- serial: 0.07723317051251895
-- suggesting: 0.07563770381502032
-- improved: 0.0744499153634153
-- pe: 0.06935709706357678
-- hydrocephalus: 0.06848658348106634
-- 90: 0.06703878732556726
-- the: 0.06696139242185076
-- levels: 0.06651212387984656
-- placement: 0.06551220780819429
-- placed: 0.06537475460146397
-- vs: 0.06400411774542213
-- change: 0.06357422617007479
-- previous: 0.06339376518122782
-- second: 0.06280773602096457
-- in: 0.06261201614381574
-- effect: 0.05885213913099548
-- new: 0.05804078586307316
-- several: 0.05504419094093024
-- t1: 0.05227262594908205
-- demonstrated: 0.05156039733652029
-- infection: 0.05067820854249593
-- when: 0.05067820854249593
-- she: 0.04994145754898444
-- chronic: 0.04979843483937818
-- old: 0.04965984975247237
-- performed: 0.04963331409539353
-- trauma: 0.048723757787356846
-- due: 0.04822515457853336
-- evidence: 0.047619655021947954
-- who: 0.04745691603296909
-- woman: 0.04369345769459495
-- were: 0.04324610889683279
-- mri: 0.04306490677638402
-- present: 0.04304990689128093
-- after: 0.040699461441866494
-- well: 0.040622993057807505
-- also: 0.03946240638999223
-- normal: 0.034254289172882396
-- from: 0.03332004616338474
-- with: 0.03285588153721337
-- an: 0.03208165641325784
-- mass: 0.03204613988774208
-- ct: 0.03194010203786239
-- this: 0.028828273158260018
-- patient: 0.027287248670596318
-- no: 0.0272821160981943
-- year: 0.025855182169604158
-- on: 0.025338117057795984
-- is: 0.022975566669995756
-- to: 0.02097390556770437
+\-\ Texto\\:\\ \ \(0\)\
+\-\ altered\\/decreased\\ awareness\\ and\\ confusion\\ noted\\ on\\ pe\\.\ \(0\)\
+\-\ patient\\ was\\ hospitalized\\ and\\ after\\ brief\\ observation\\ no\\ change\\ in\\ mental\\ status\\ was\\ noted\\.\\ \\ elective\\ craniotomy\\ with\\ burr\\ holes\\ was\\ performed\\ and\\ 2\\ drains\\ were\\ placed\\.\\ \\ she\\ remained\\ hospitalized\\ until\\ mental\\ status\\ improved\\ and\\ serial\\ cts\\ demonstrated\\ resolution\\ of\\ the\\ hematoma\\,\\ pneumocephalus\\ and\\ hydrocephalus\\.\ \(0\)\
+\-\ ct\\ demonstrates\\ several\\ different\\ densities\\ suggesting\\ different\\ ages\\ of\\ previous\\ bleeds\\.\\ \\ also\\ present\\ is\\ a\\ midline\\ shift\\ and\\ evidence\\ of\\ mass\\ effect\\ from\\ the\\ hematoma\\.\\ \\ the\\ second\\ image\\ demonstrates\\ placement\\ of\\ 2\\ drains\\ with\\ resolution\\ of\\ the\\ midline\\ shift\\.\ \(0\)\
+\-\ mri\\(gradiant\\ echo\\)well\\ demonstrates\\ old\\ vs\\.\\ new\\ blood\\ and\\ t1\\ oost\\-constrast\\ image\\ demonstrates\\ fluid\\/fluid\\ levels\\ due\\ to\\ different\\ ages\\ of\\ blood\\.\ \(0\)\
+\-\ subdural\\ hematoma\ \(56\)\
+\-\ trauma\\-\\-acute\\ subdural\ \(0\)\
+\-\ subacute\\ subdural\ \(2\)\
+\-\ chronic\\ subdural\ \(9\)\
+\-\ infection\ \(713\)\
+\-\ electrolyte\\ imbalance\ \(1\)\
+\-\ stroke\ \(152\)\
+\-\ 90\\ year\\ old\\ woman\\ who\\ was\\ in\\ her\\ normal\\ state\\ of\\ health\\ until\\ this\\ morning\\ when\\ an\\ acute\\ deterioration\\ in\\ her\\ mental\\ status\\ was\\ noted\\.\ \(1\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ subdural\\:\\ 0\\.3292194907061696\ \(0\)\
+\-\ different\\:\\ 0\\.23034179954559478\ \(0\)\
+\-\ mental\\:\\ 0\\.21935241554052343\ \(0\)\
+\-\ drains\\:\\ 0\\.2021156013882784\ \(0\)\
+\-\ hospitalized\\:\\ 0\\.20060682082168824\ \(0\)\
+\-\ hematoma\\:\\ 0\\.17616305230720442\ \(0\)\
+\-\ status\\:\\ 0\\.17564396210575886\ \(0\)\
+\-\ ages\\:\\ 0\\.1713905462434487\ \(0\)\
+\-\ demonstrates\\:\\ 0\\.1685943180423106\ \(0\)\
+\-\ shift\\:\\ 0\\.1474164186586973\ \(0\)\
+\-\ was\\:\\ 0\\.14619342350626796\ \(0\)\
+\-\ until\\:\\ 0\\.13962494093816327\ \(0\)\
+\-\ resolution\\:\\ 0\\.13613983156518306\ \(0\)\
+\-\ noted\\:\\ 0\\.13344505675791332\ \(0\)\
+\-\ gradiant\\:\\ 0\\.12820508644727727\ \(0\)\
+\-\ midline\\:\\ 0\\.12619566387225842\ \(0\)\
+\-\ holes\\:\\ 0\\.12397403514267455\ \(0\)\
+\-\ and\\:\\ 0\\.1213529759784032\ \(0\)\
+\-\ imbalance\\:\\ 0\\.1180107032603256\ \(0\)\
+\-\ burr\\:\\ 0\\.11574354969934784\ \(0\)\
+\-\ of\\:\\ 0\\.1149269165749788\ \(0\)\
+\-\ bleeds\\:\\ 0\\.10909602998713284\ \(0\)\
+\-\ image\\:\\ 0\\.10730951079956204\ \(0\)\
+\-\ pneumocephalus\\:\\ 0\\.10663910106963218\ \(0\)\
+\-\ electrolyte\\:\\ 0\\.10663910106963218\ \(0\)\
+\-\ awareness\\:\\ 0\\.10554916651239618\ \(0\)\
+\-\ her\\:\\ 0\\.10482727488444235\ \(0\)\
+\-\ cts\\:\\ 0\\.10453446171544682\ \(0\)\
+\-\ brief\\:\\ 0\\.10030341041084412\ \(0\)\
+\-\ deterioration\\:\\ 0\\.10030341041084412\ \(0\)\
+\-\ elective\\:\\ 0\\.09890164680018118\ \(0\)\
+\-\ blood\\:\\ 0\\.09744751557471369\ \(0\)\
+\-\ acute\\:\\ 0\\.09076936147442016\ \(0\)\
+\-\ confusion\\:\\ 0\\.0897458634374801\ \(0\)\
+\-\ craniotomy\\:\\ 0\\.0897458634374801\ \(0\)\
+\-\ state\\:\\ 0\\.08464429855036698\ \(0\)\
+\-\ densities\\:\\ 0\\.08390259251630032\ \(0\)\
+\-\ morning\\:\\ 0\\.0831965023948679\ \(0\)\
+\-\ remained\\:\\ 0\\.08296847633780173\ \(0\)\
+\-\ health\\:\\ 0\\.08296847633780173\ \(0\)\
+\-\ observation\\:\\ 0\\.07868096666801802\ \(0\)\
+\-\ subacute\\:\\ 0\\.07851288042627784\ \(0\)\
+\-\ stroke\\:\\ 0\\.07801984925240213\ \(0\)\
+\-\ echo\\:\\ 0\\.07770011087581133\ \(0\)\
+\-\ serial\\:\\ 0\\.07723317051251895\ \(0\)\
+\-\ suggesting\\:\\ 0\\.07563770381502032\ \(0\)\
+\-\ improved\\:\\ 0\\.0744499153634153\ \(0\)\
+\-\ pe\\:\\ 0\\.06935709706357678\ \(0\)\
+\-\ hydrocephalus\\:\\ 0\\.06848658348106634\ \(0\)\
+\-\ 90\\:\\ 0\\.06703878732556726\ \(0\)\
+\-\ the\\:\\ 0\\.06696139242185076\ \(0\)\
+\-\ levels\\:\\ 0\\.06651212387984656\ \(0\)\
+\-\ placement\\:\\ 0\\.06551220780819429\ \(0\)\
+\-\ placed\\:\\ 0\\.06537475460146397\ \(0\)\
+\-\ vs\\:\\ 0\\.06400411774542213\ \(0\)\
+\-\ change\\:\\ 0\\.06357422617007479\ \(0\)\
+\-\ previous\\:\\ 0\\.06339376518122782\ \(0\)\
+\-\ second\\:\\ 0\\.06280773602096457\ \(0\)\
+\-\ in\\:\\ 0\\.06261201614381574\ \(0\)\
+\-\ effect\\:\\ 0\\.05885213913099548\ \(0\)\
+\-\ new\\:\\ 0\\.05804078586307316\ \(0\)\
+\-\ several\\:\\ 0\\.05504419094093024\ \(0\)\
+\-\ t1\\:\\ 0\\.05227262594908205\ \(0\)\
+\-\ demonstrated\\:\\ 0\\.05156039733652029\ \(0\)\
+\-\ infection\\:\\ 0\\.05067820854249593\ \(0\)\
+\-\ when\\:\\ 0\\.05067820854249593\ \(0\)\
+\-\ she\\:\\ 0\\.04994145754898444\ \(0\)\
+\-\ chronic\\:\\ 0\\.04979843483937818\ \(0\)\
+\-\ old\\:\\ 0\\.04965984975247237\ \(0\)\
+\-\ performed\\:\\ 0\\.04963331409539353\ \(0\)\
+\-\ trauma\\:\\ 0\\.048723757787356846\ \(0\)\
+\-\ due\\:\\ 0\\.04822515457853336\ \(0\)\
+\-\ evidence\\:\\ 0\\.047619655021947954\ \(0\)\
+\-\ who\\:\\ 0\\.04745691603296909\ \(0\)\
+\-\ woman\\:\\ 0\\.04369345769459495\ \(0\)\
+\-\ were\\:\\ 0\\.04324610889683279\ \(0\)\
+\-\ mri\\:\\ 0\\.04306490677638402\ \(0\)\
+\-\ present\\:\\ 0\\.04304990689128093\ \(0\)\
+\-\ after\\:\\ 0\\.040699461441866494\ \(0\)\
+\-\ well\\:\\ 0\\.040622993057807505\ \(0\)\
+\-\ also\\:\\ 0\\.03946240638999223\ \(0\)\
+\-\ normal\\:\\ 0\\.034254289172882396\ \(0\)\
+\-\ from\\:\\ 0\\.03332004616338474\ \(0\)\
+\-\ with\\:\\ 0\\.03285588153721337\ \(0\)\
+\-\ an\\:\\ 0\\.03208165641325784\ \(0\)\
+\-\ mass\\:\\ 0\\.03204613988774208\ \(0\)\
+\-\ ct\\:\\ 0\\.03194010203786239\ \(0\)\
+\-\ this\\:\\ 0\\.028828273158260018\ \(0\)\
+\-\ patient\\:\\ 0\\.027287248670596318\ \(0\)\
+\-\ no\\:\\ 0\\.0272821160981943\ \(0\)\
+\-\ year\\:\\ 0\\.025855182169604158\ \(0\)\
+\-\ on\\:\\ 0\\.025338117057795984\ \(0\)\
+\-\ is\\:\\ 0\\.022975566669995756\ \(0\)\
+\-\ to\\:\\ 0\\.02097390556770437\ \(0\)\

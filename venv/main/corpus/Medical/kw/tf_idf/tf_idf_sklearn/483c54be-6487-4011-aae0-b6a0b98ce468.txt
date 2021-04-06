@@ -1,107 +1,105 @@
-Texto: 
-significant symmetric wrist and hand deformity. no recent rheumatoid factor (rf) performed. esr elevations with more acute exacerbations.
-rheumatologic medical management.
-carpo-metacarpal, hindfoot and phalangeal involvement with progressive deformity, ankylosis, joint space narrowing and gracile bones.
-juvenile rheumatoid arthritis, untreated, presenting as adult.
-juvenile ra
-adult-onset ra
-other inflammatory arthritides (e.g. ankylosing spondylitis, psoriatic arthritis, etc.)
-46 y.o. woman with juvenile-onset (early second decade) of arthritis, essentially untreated as child. slowly progressive arthritic symptoms especially of hands and feet.
-this patient had noted slowly progressive symptoms since early adolescence but was never brought for definitive care. presenting now in her 5th decade, she already has significant involvement of her more distal appendicular skeletal joints and is a treatment dilemma at this late stage. mainstay of treatment is to halt further progression.
-
-
-Keywords by value: 
-- juvenile: 0.26147700734935336
-- arthritis: 0.21620613469558034
-- untreated: 0.20494470367276194
-- progressive: 0.20359648020357093
-- decade: 0.18668373953736017
-- ra: 0.17525951128834888
-- slowly: 0.17478519164541345
-- adult: 0.16346978078661245
-- rheumatoid: 0.15621199037785408
-- deformity: 0.14484756452101935
-- presenting: 0.13882622026210115
-- arthritides: 0.13540781865119678
-- involvement: 0.12826743329897694
-- early: 0.12774528095507168
-- elevations: 0.1274728237354918
-- halt: 0.1274728237354918
-- dilemma: 0.12464070146347712
-- rheumatologic: 0.12224617620128687
-- gracile: 0.12224617620128687
-- adolescence: 0.12224617620128687
-- hindfoot: 0.12017194407144371
-- mainstay: 0.11834234166779091
-- exacerbations: 0.11522518999383223
-- phalangeal: 0.11263022754328526
-- her: 0.11071661055420766
-- arthritic: 0.11040734675208594
-- rf: 0.10593858936005253
-- ankylosis: 0.10518069921788102
-- appendicular: 0.10376757394782651
-- significant: 0.10232256152028206
-- more: 0.09731239025359321
-- symptoms: 0.09696440155206927
-- ankylosing: 0.09556475055987941
-- psoriatic: 0.09517147217233289
-- spondylitis: 0.09441358203016138
-- already: 0.0940480671291324
-- never: 0.09334186976868009
-- and: 0.09155053393312335
-- essentially: 0.08966988530901121
-- brought: 0.08739259582270673
-- etc: 0.08715900244978446
-- treatment: 0.08441899053246273
-- hands: 0.08402078817385784
-- late: 0.08364646484244175
-- feet: 0.08328094994141276
-- factor: 0.08310136798094336
-- 5th: 0.08240310810996952
-- 46: 0.08141126063403806
-- progression: 0.0812519395802515
-- esr: 0.08109423602702051
-- definitive: 0.0809381174609417
-- skeletal: 0.08032887598012636
-- wrist: 0.07650824285910131
-- joints: 0.07616175265925186
-- symmetric: 0.07593497977670102
-- child: 0.07334867841730201
-- bones: 0.07129828921857341
-- as: 0.07119531138953379
-- stage: 0.07056427866076859
-- especially: 0.07009352546637859
-- of: 0.06936209345273465
-- hand: 0.06926587048294508
-- narrowing: 0.06869048371928213
-- second: 0.06633635813284555
-- management: 0.06545184977772957
-- since: 0.06418646259684564
-- care: 0.06331326634796307
-- this: 0.0608957677423529
-- now: 0.06082625733860566
-- recent: 0.05999759866140565
-- inflammatory: 0.059917113162320686
-- space: 0.058982475411767085
-- joint: 0.05838923227816294
-- further: 0.0577129750547707
-- medical: 0.056315000148319784
-- she: 0.05274723503072794
-- performed: 0.05242177966824081
-- with: 0.05205265296528344
-- distal: 0.05148442960838392
-- is: 0.0485327291025798
-- acute: 0.047934452439481336
-- noted: 0.04698072582012322
-- woman: 0.04614821423786887
-- other: 0.04601643260701708
-- had: 0.04414860354810856
-- but: 0.04381762823775558
-- has: 0.04047432273740122
-- at: 0.033469000206348326
-- was: 0.030881352880293225
-- patient: 0.028820282579019984
-- no: 0.028814861651876716
-- for: 0.02685691580368958
-- to: 0.02215224746708444
-- in: 0.022043214150930333
+\-\ Texto\\:\\ \ \(0\)\
+\-\ significant\\ symmetric\\ wrist\\ and\\ hand\\ deformity\\.\\ no\\ recent\\ rheumatoid\\ factor\\ \\(rf\\)\\ performed\\.\\ esr\\ elevations\\ with\\ more\\ acute\\ exacerbations\\.\ \(0\)\
+\-\ rheumatologic\\ medical\\ management\\.\ \(0\)\
+\-\ carpo\\-metacarpal\\,\\ hindfoot\\ and\\ phalangeal\\ involvement\\ with\\ progressive\\ deformity\\,\\ ankylosis\\,\\ joint\\ space\\ narrowing\\ and\\ gracile\\ bones\\.\ \(0\)\
+\-\ juvenile\\ rheumatoid\\ arthritis\\,\\ untreated\\,\\ presenting\\ as\\ adult\\.\ \(0\)\
+\-\ juvenile\\ ra\ \(0\)\
+\-\ adult\\-onset\\ ra\ \(0\)\
+\-\ other\\ inflammatory\\ arthritides\\ \\(e\\.g\\.\\ ankylosing\\ spondylitis\\,\\ psoriatic\\ arthritis\\,\\ etc\\.\\)\ \(0\)\
+\-\ 46\\ y\\.o\\.\\ woman\\ with\\ juvenile\\-onset\\ \\(early\\ second\\ decade\\)\\ of\\ arthritis\\,\\ essentially\\ untreated\\ as\\ child\\.\\ slowly\\ progressive\\ arthritic\\ symptoms\\ especially\\ of\\ hands\\ and\\ feet\\.\ \(0\)\
+\-\ this\\ patient\\ had\\ noted\\ slowly\\ progressive\\ symptoms\\ since\\ early\\ adolescence\\ but\\ was\\ never\\ brought\\ for\\ definitive\\ care\\.\\ presenting\\ now\\ in\\ her\\ 5th\\ decade\\,\\ she\\ already\\ has\\ significant\\ involvement\\ of\\ her\\ more\\ distal\\ appendicular\\ skeletal\\ joints\\ and\\ is\\ a\\ treatment\\ dilemma\\ at\\ this\\ late\\ stage\\.\\ mainstay\\ of\\ treatment\\ is\\ to\\ halt\\ further\\ progression\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ juvenile\\:\\ 0\\.26147700734935336\ \(0\)\
+\-\ arthritis\\:\\ 0\\.21620613469558034\ \(0\)\
+\-\ untreated\\:\\ 0\\.20494470367276194\ \(0\)\
+\-\ progressive\\:\\ 0\\.20359648020357093\ \(0\)\
+\-\ decade\\:\\ 0\\.18668373953736017\ \(0\)\
+\-\ ra\\:\\ 0\\.17525951128834888\ \(0\)\
+\-\ slowly\\:\\ 0\\.17478519164541345\ \(0\)\
+\-\ adult\\:\\ 0\\.16346978078661245\ \(0\)\
+\-\ rheumatoid\\:\\ 0\\.15621199037785408\ \(0\)\
+\-\ deformity\\:\\ 0\\.14484756452101935\ \(0\)\
+\-\ presenting\\:\\ 0\\.13882622026210115\ \(0\)\
+\-\ arthritides\\:\\ 0\\.13540781865119678\ \(0\)\
+\-\ involvement\\:\\ 0\\.12826743329897694\ \(0\)\
+\-\ early\\:\\ 0\\.12774528095507168\ \(0\)\
+\-\ elevations\\:\\ 0\\.1274728237354918\ \(0\)\
+\-\ halt\\:\\ 0\\.1274728237354918\ \(0\)\
+\-\ dilemma\\:\\ 0\\.12464070146347712\ \(0\)\
+\-\ rheumatologic\\:\\ 0\\.12224617620128687\ \(0\)\
+\-\ gracile\\:\\ 0\\.12224617620128687\ \(0\)\
+\-\ adolescence\\:\\ 0\\.12224617620128687\ \(0\)\
+\-\ hindfoot\\:\\ 0\\.12017194407144371\ \(0\)\
+\-\ mainstay\\:\\ 0\\.11834234166779091\ \(0\)\
+\-\ exacerbations\\:\\ 0\\.11522518999383223\ \(0\)\
+\-\ phalangeal\\:\\ 0\\.11263022754328526\ \(0\)\
+\-\ her\\:\\ 0\\.11071661055420766\ \(0\)\
+\-\ arthritic\\:\\ 0\\.11040734675208594\ \(0\)\
+\-\ rf\\:\\ 0\\.10593858936005253\ \(0\)\
+\-\ ankylosis\\:\\ 0\\.10518069921788102\ \(0\)\
+\-\ appendicular\\:\\ 0\\.10376757394782651\ \(0\)\
+\-\ significant\\:\\ 0\\.10232256152028206\ \(0\)\
+\-\ more\\:\\ 0\\.09731239025359321\ \(0\)\
+\-\ symptoms\\:\\ 0\\.09696440155206927\ \(0\)\
+\-\ ankylosing\\:\\ 0\\.09556475055987941\ \(0\)\
+\-\ psoriatic\\:\\ 0\\.09517147217233289\ \(0\)\
+\-\ spondylitis\\:\\ 0\\.09441358203016138\ \(0\)\
+\-\ already\\:\\ 0\\.0940480671291324\ \(0\)\
+\-\ never\\:\\ 0\\.09334186976868009\ \(0\)\
+\-\ and\\:\\ 0\\.09155053393312335\ \(0\)\
+\-\ essentially\\:\\ 0\\.08966988530901121\ \(0\)\
+\-\ brought\\:\\ 0\\.08739259582270673\ \(0\)\
+\-\ etc\\:\\ 0\\.08715900244978446\ \(0\)\
+\-\ treatment\\:\\ 0\\.08441899053246273\ \(0\)\
+\-\ hands\\:\\ 0\\.08402078817385784\ \(0\)\
+\-\ late\\:\\ 0\\.08364646484244175\ \(0\)\
+\-\ feet\\:\\ 0\\.08328094994141276\ \(0\)\
+\-\ factor\\:\\ 0\\.08310136798094336\ \(0\)\
+\-\ 5th\\:\\ 0\\.08240310810996952\ \(0\)\
+\-\ 46\\:\\ 0\\.08141126063403806\ \(0\)\
+\-\ progression\\:\\ 0\\.0812519395802515\ \(0\)\
+\-\ esr\\:\\ 0\\.08109423602702051\ \(0\)\
+\-\ definitive\\:\\ 0\\.0809381174609417\ \(0\)\
+\-\ skeletal\\:\\ 0\\.08032887598012636\ \(0\)\
+\-\ wrist\\:\\ 0\\.07650824285910131\ \(0\)\
+\-\ joints\\:\\ 0\\.07616175265925186\ \(0\)\
+\-\ symmetric\\:\\ 0\\.07593497977670102\ \(0\)\
+\-\ child\\:\\ 0\\.07334867841730201\ \(0\)\
+\-\ bones\\:\\ 0\\.07129828921857341\ \(0\)\
+\-\ as\\:\\ 0\\.07119531138953379\ \(0\)\
+\-\ stage\\:\\ 0\\.07056427866076859\ \(0\)\
+\-\ especially\\:\\ 0\\.07009352546637859\ \(0\)\
+\-\ of\\:\\ 0\\.06936209345273465\ \(0\)\
+\-\ hand\\:\\ 0\\.06926587048294508\ \(0\)\
+\-\ narrowing\\:\\ 0\\.06869048371928213\ \(0\)\
+\-\ second\\:\\ 0\\.06633635813284555\ \(0\)\
+\-\ management\\:\\ 0\\.06545184977772957\ \(0\)\
+\-\ since\\:\\ 0\\.06418646259684564\ \(0\)\
+\-\ care\\:\\ 0\\.06331326634796307\ \(0\)\
+\-\ this\\:\\ 0\\.0608957677423529\ \(0\)\
+\-\ now\\:\\ 0\\.06082625733860566\ \(0\)\
+\-\ recent\\:\\ 0\\.05999759866140565\ \(0\)\
+\-\ inflammatory\\:\\ 0\\.059917113162320686\ \(0\)\
+\-\ space\\:\\ 0\\.058982475411767085\ \(0\)\
+\-\ joint\\:\\ 0\\.05838923227816294\ \(0\)\
+\-\ further\\:\\ 0\\.0577129750547707\ \(0\)\
+\-\ medical\\:\\ 0\\.056315000148319784\ \(0\)\
+\-\ she\\:\\ 0\\.05274723503072794\ \(0\)\
+\-\ performed\\:\\ 0\\.05242177966824081\ \(0\)\
+\-\ with\\:\\ 0\\.05205265296528344\ \(0\)\
+\-\ distal\\:\\ 0\\.05148442960838392\ \(0\)\
+\-\ is\\:\\ 0\\.0485327291025798\ \(0\)\
+\-\ acute\\:\\ 0\\.047934452439481336\ \(0\)\
+\-\ noted\\:\\ 0\\.04698072582012322\ \(0\)\
+\-\ woman\\:\\ 0\\.04614821423786887\ \(0\)\
+\-\ other\\:\\ 0\\.04601643260701708\ \(0\)\
+\-\ had\\:\\ 0\\.04414860354810856\ \(0\)\
+\-\ but\\:\\ 0\\.04381762823775558\ \(0\)\
+\-\ has\\:\\ 0\\.04047432273740122\ \(0\)\
+\-\ at\\:\\ 0\\.033469000206348326\ \(0\)\
+\-\ was\\:\\ 0\\.030881352880293225\ \(0\)\
+\-\ patient\\:\\ 0\\.028820282579019984\ \(0\)\
+\-\ no\\:\\ 0\\.028814861651876716\ \(0\)\
+\-\ for\\:\\ 0\\.02685691580368958\ \(0\)\
+\-\ to\\:\\ 0\\.02215224746708444\ \(0\)\
+\-\ in\\:\\ 0\\.022043214150930333\ \(0\)\

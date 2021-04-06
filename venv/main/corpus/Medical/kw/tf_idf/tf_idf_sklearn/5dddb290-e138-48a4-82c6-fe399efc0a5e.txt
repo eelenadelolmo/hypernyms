@@ -1,41 +1,39 @@
-Texto: 
-left testicle ttp, relieved by elevation.
-hypoechoic regions within the left testicle with accompanying increased blood flow.
-orchitis
-orchitis
-transient torsion
-tumor
-infarct
-patient presents with one week of left testicular pain that is relieved by elevation.
-
-
-Keywords by value: 
-- orchitis: 0.4403805817156346
-- relieved: 0.3837115869399663
-- testicle: 0.3677597092540334
-- elevation: 0.3333057293113897
-- accompanying: 0.2034851947942953
-- left: 0.18706897934924915
-- ttp: 0.1861295684312554
-- torsion: 0.1822905076951079
-- transient: 0.17980513381982216
-- testicular: 0.17143441492498127
-- regions: 0.15688353323015058
-- hypoechoic: 0.15618938490852374
-- by: 0.15525312037251715
-- infarct: 0.15211124794428027
-- week: 0.1229506511107725
-- flow: 0.12175627953042685
-- blood: 0.10616200159901301
-- one: 0.10466033834701668
-- increased: 0.09884837398473333
-- tumor: 0.09561387064508418
-- presents: 0.0879351916166353
-- within: 0.08419104341712931
-- that: 0.07932740278191432
-- with: 0.07158820063742556
-- pain: 0.06541179058054908
-- patient: 0.05945495726424062
-- is: 0.05006042752702546
-- the: 0.036474790595919945
-- of: 0.03577272612337823
+\-\ Texto\\:\\ \ \(0\)\
+\-\ left\\ testicle\\ ttp\\,\\ relieved\\ by\\ elevation\\.\ \(0\)\
+\-\ hypoechoic\\ regions\\ within\\ the\\ left\\ testicle\\ with\\ accompanying\\ increased\\ blood\\ flow\\.\ \(1\)\
+\-\ orchitis\ \(17\)\
+\-\ orchitis\ \(17\)\
+\-\ transient\\ torsion\ \(1\)\
+\-\ tumor\ \(1901\)\
+\-\ infarct\ \(514\)\
+\-\ patient\\ presents\\ with\\ one\\ week\\ of\\ left\\ testicular\\ pain\\ that\\ is\\ relieved\\ by\\ elevation\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ orchitis\\:\\ 0\\.4403805817156346\ \(0\)\
+\-\ relieved\\:\\ 0\\.3837115869399663\ \(0\)\
+\-\ testicle\\:\\ 0\\.3677597092540334\ \(0\)\
+\-\ elevation\\:\\ 0\\.3333057293113897\ \(0\)\
+\-\ accompanying\\:\\ 0\\.2034851947942953\ \(0\)\
+\-\ left\\:\\ 0\\.18706897934924915\ \(0\)\
+\-\ ttp\\:\\ 0\\.1861295684312554\ \(0\)\
+\-\ torsion\\:\\ 0\\.1822905076951079\ \(0\)\
+\-\ transient\\:\\ 0\\.17980513381982216\ \(0\)\
+\-\ testicular\\:\\ 0\\.17143441492498127\ \(0\)\
+\-\ regions\\:\\ 0\\.15688353323015058\ \(0\)\
+\-\ hypoechoic\\:\\ 0\\.15618938490852374\ \(0\)\
+\-\ by\\:\\ 0\\.15525312037251715\ \(0\)\
+\-\ infarct\\:\\ 0\\.15211124794428027\ \(0\)\
+\-\ week\\:\\ 0\\.1229506511107725\ \(0\)\
+\-\ flow\\:\\ 0\\.12175627953042685\ \(0\)\
+\-\ blood\\:\\ 0\\.10616200159901301\ \(0\)\
+\-\ one\\:\\ 0\\.10466033834701668\ \(0\)\
+\-\ increased\\:\\ 0\\.09884837398473333\ \(0\)\
+\-\ tumor\\:\\ 0\\.09561387064508418\ \(0\)\
+\-\ presents\\:\\ 0\\.0879351916166353\ \(0\)\
+\-\ within\\:\\ 0\\.08419104341712931\ \(0\)\
+\-\ that\\:\\ 0\\.07932740278191432\ \(0\)\
+\-\ with\\:\\ 0\\.07158820063742556\ \(0\)\
+\-\ pain\\:\\ 0\\.06541179058054908\ \(0\)\
+\-\ patient\\:\\ 0\\.05945495726424062\ \(0\)\
+\-\ is\\:\\ 0\\.05006042752702546\ \(0\)\
+\-\ the\\:\\ 0\\.036474790595919945\ \(0\)\
+\-\ of\\:\\ 0\\.03577272612337823\ \(0\)\

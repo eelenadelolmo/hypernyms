@@ -1,73 +1,71 @@
-Texto: 
-afebrile. vss. palpable rlq, nontender, fairly mobile, tympanic mass.  rectal examination demonstrated normal tone and was guaiac negative.
-conservative unless evidence of underlying diverticulitis or perforation.
-kub: large ( 15   x  17  cm)   thin-walled radiolucent mass
-barium enema: persistant radiolucent mass without evidence of filling.
-ct scan: thin walled large mass with close association with sigmoid colon
-giant sigmoid diverticulum
-sigmoid volvulus
-giant sigmoid diverticulum
-53 yo male presents c/o fatigue x 1 week.
-no evidence of retrograde contrast filling noted.  no evidence of underlying diverticulitis
-
-
-Keywords by value: 
-- sigmoid: 0.41268019676261464
-- evidence: 0.2529171243479273
-- radiolucent: 0.2434082186093971
-- walled: 0.238328749885605
-- diverticulitis: 0.20939638462427815
-- giant: 0.19873227517271097
-- diverticulum: 0.19737363819828269
-- underlying: 0.181872692509659
-- thin: 0.1734276936724409
-- filling: 0.17253390467743923
-- mass: 0.17020319746381038
-- persistant: 0.14671874560338907
-- guaiac: 0.13635640506788518
-- vss: 0.128059100250685
-- tympanic: 0.12661188736234874
-- kub: 0.1259266087233076
-- retrograde: 0.1191643749428025
-- fairly: 0.11691725074985701
-- rlq: 0.11568346553025943
-- rectal: 0.1127301610187547
-- enema: 0.11239052746150344
-- large: 0.1116311660072955
-- volvulus: 0.11140569169798739
-- tone: 0.1104681466708297
-- mobile: 0.10986722426364744
-- unless: 0.10957355801826643
-- fatigue: 0.10789866601634365
-- perforation: 0.10515770615567481
-- nontender: 0.10492659769142369
-- 53: 0.10424924294671302
-- close: 0.10080006130282167
-- association: 0.10024992809802462
-- barium: 0.09919407975695053
-- afebrile: 0.09618375786973096
-- 17: 0.0909363462548295
-- of: 0.08719984347675878
-- conservative: 0.08600364357693623
-- colon: 0.08481973945038336
-- palpable: 0.07826068774157419
-- 15: 0.0752755151653765
-- week: 0.07492633840127129
-- no: 0.07245027653498672
-- examination: 0.07128365818857918
-- yo: 0.06959472119438699
-- negative: 0.06896531423285393
-- demonstrated: 0.0684617907173984
-- scan: 0.0660907883916394
-- cm: 0.06397673987745256
-- noted: 0.05906269165204598
-- without: 0.05875789380094298
-- contrast: 0.054125679401347195
-- presents: 0.05358785711929731
-- male: 0.04959836851765414
-- normal: 0.045482775495720947
-- with: 0.04362597268122878
-- ct: 0.04241000252454726
-- was: 0.03882306607927151
-- or: 0.03875314122406223
-- and: 0.023018890670080564
+\-\ Texto\\:\\ \ \(0\)\
+\-\ afebrile\\.\\ vss\\.\\ palpable\\ rlq\\,\\ nontender\\,\\ fairly\\ mobile\\,\\ tympanic\\ mass\\.\\ \\ rectal\\ examination\\ demonstrated\\ normal\\ tone\\ and\\ was\\ guaiac\\ negative\\.\ \(0\)\
+\-\ conservative\\ unless\\ evidence\\ of\\ underlying\\ diverticulitis\\ or\\ perforation\\.\ \(0\)\
+\-\ kub\\:\\ large\\ \\(\\ 15\\ \\ \\ x\\ \\ 17\\ \\ cm\\)\\ \\ \\ thin\\-walled\\ radiolucent\\ mass\ \(0\)\
+\-\ barium\\ enema\\:\\ persistant\\ radiolucent\\ mass\\ without\\ evidence\\ of\\ filling\\.\ \(0\)\
+\-\ ct\\ scan\\:\\ thin\\ walled\\ large\\ mass\\ with\\ close\\ association\\ with\\ sigmoid\\ colon\ \(0\)\
+\-\ giant\\ sigmoid\\ diverticulum\ \(0\)\
+\-\ sigmoid\\ volvulus\ \(2\)\
+\-\ giant\\ sigmoid\\ diverticulum\ \(0\)\
+\-\ 53\\ yo\\ male\\ presents\\ c\\/o\\ fatigue\\ x\\ 1\\ week\\.\ \(1\)\
+\-\ no\\ evidence\\ of\\ retrograde\\ contrast\\ filling\\ noted\\.\\ \\ no\\ evidence\\ of\\ underlying\\ diverticulitis\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ sigmoid\\:\\ 0\\.41268019676261464\ \(0\)\
+\-\ evidence\\:\\ 0\\.2529171243479273\ \(0\)\
+\-\ radiolucent\\:\\ 0\\.2434082186093971\ \(0\)\
+\-\ walled\\:\\ 0\\.238328749885605\ \(0\)\
+\-\ diverticulitis\\:\\ 0\\.20939638462427815\ \(0\)\
+\-\ giant\\:\\ 0\\.19873227517271097\ \(0\)\
+\-\ diverticulum\\:\\ 0\\.19737363819828269\ \(0\)\
+\-\ underlying\\:\\ 0\\.181872692509659\ \(0\)\
+\-\ thin\\:\\ 0\\.1734276936724409\ \(0\)\
+\-\ filling\\:\\ 0\\.17253390467743923\ \(0\)\
+\-\ mass\\:\\ 0\\.17020319746381038\ \(0\)\
+\-\ persistant\\:\\ 0\\.14671874560338907\ \(0\)\
+\-\ guaiac\\:\\ 0\\.13635640506788518\ \(0\)\
+\-\ vss\\:\\ 0\\.128059100250685\ \(0\)\
+\-\ tympanic\\:\\ 0\\.12661188736234874\ \(0\)\
+\-\ kub\\:\\ 0\\.1259266087233076\ \(0\)\
+\-\ retrograde\\:\\ 0\\.1191643749428025\ \(0\)\
+\-\ fairly\\:\\ 0\\.11691725074985701\ \(0\)\
+\-\ rlq\\:\\ 0\\.11568346553025943\ \(0\)\
+\-\ rectal\\:\\ 0\\.1127301610187547\ \(0\)\
+\-\ enema\\:\\ 0\\.11239052746150344\ \(0\)\
+\-\ large\\:\\ 0\\.1116311660072955\ \(0\)\
+\-\ volvulus\\:\\ 0\\.11140569169798739\ \(0\)\
+\-\ tone\\:\\ 0\\.1104681466708297\ \(0\)\
+\-\ mobile\\:\\ 0\\.10986722426364744\ \(0\)\
+\-\ unless\\:\\ 0\\.10957355801826643\ \(0\)\
+\-\ fatigue\\:\\ 0\\.10789866601634365\ \(0\)\
+\-\ perforation\\:\\ 0\\.10515770615567481\ \(0\)\
+\-\ nontender\\:\\ 0\\.10492659769142369\ \(0\)\
+\-\ 53\\:\\ 0\\.10424924294671302\ \(0\)\
+\-\ close\\:\\ 0\\.10080006130282167\ \(0\)\
+\-\ association\\:\\ 0\\.10024992809802462\ \(0\)\
+\-\ barium\\:\\ 0\\.09919407975695053\ \(0\)\
+\-\ afebrile\\:\\ 0\\.09618375786973096\ \(0\)\
+\-\ 17\\:\\ 0\\.0909363462548295\ \(0\)\
+\-\ of\\:\\ 0\\.08719984347675878\ \(0\)\
+\-\ conservative\\:\\ 0\\.08600364357693623\ \(0\)\
+\-\ colon\\:\\ 0\\.08481973945038336\ \(0\)\
+\-\ palpable\\:\\ 0\\.07826068774157419\ \(0\)\
+\-\ 15\\:\\ 0\\.0752755151653765\ \(0\)\
+\-\ week\\:\\ 0\\.07492633840127129\ \(0\)\
+\-\ no\\:\\ 0\\.07245027653498672\ \(0\)\
+\-\ examination\\:\\ 0\\.07128365818857918\ \(0\)\
+\-\ yo\\:\\ 0\\.06959472119438699\ \(0\)\
+\-\ negative\\:\\ 0\\.06896531423285393\ \(0\)\
+\-\ demonstrated\\:\\ 0\\.0684617907173984\ \(0\)\
+\-\ scan\\:\\ 0\\.0660907883916394\ \(0\)\
+\-\ cm\\:\\ 0\\.06397673987745256\ \(0\)\
+\-\ noted\\:\\ 0\\.05906269165204598\ \(0\)\
+\-\ without\\:\\ 0\\.05875789380094298\ \(0\)\
+\-\ contrast\\:\\ 0\\.054125679401347195\ \(0\)\
+\-\ presents\\:\\ 0\\.05358785711929731\ \(0\)\
+\-\ male\\:\\ 0\\.04959836851765414\ \(0\)\
+\-\ normal\\:\\ 0\\.045482775495720947\ \(0\)\
+\-\ with\\:\\ 0\\.04362597268122878\ \(0\)\
+\-\ ct\\:\\ 0\\.04241000252454726\ \(0\)\
+\-\ was\\:\\ 0\\.03882306607927151\ \(0\)\
+\-\ or\\:\\ 0\\.03875314122406223\ \(0\)\
+\-\ and\\:\\ 0\\.023018890670080564\ \(0\)\

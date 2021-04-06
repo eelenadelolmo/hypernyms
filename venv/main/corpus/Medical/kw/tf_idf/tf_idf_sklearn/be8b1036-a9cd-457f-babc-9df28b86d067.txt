@@ -1,134 +1,132 @@
-Texto: 
-abdominal pain, distension; elevated amylase and lipase.
-treatment
-â€¢	sterile necrosis- conservative treatment
-o	aggressive crystalloid resuscitation 
-o	npo (minimal pancreatic stimulation)
-o	gastric decompression
-o	intravenous narcotics
-o	nasojejunal nutrition or tpn
-o	glucose control with iv insulin
-o	antibiotic prophylaxis- early empiric use of carbapenems with signs of infection
-â€¢	early surgical intervention contraindicated except in abdominal compartment syndrome
-â€¢	gallstone impaction and biliary obstruction- urgent ercp
-â€¢	infected necrosis and sepsis with persistent clinical decline- open surgical necrosectomy and/or percutaneous drainage (questionable benefit over surgery alone)
-axial contrast enhanced ct images of the abdomen demonstrates nonenhancement of the majority of the pancreas with extensive peripancreatic fat stranding and retroperitoneal fluid. associated small bowel dilation consistent with ileus and pleural effusions.
-necrotizing pancreatitis
-necrotizing pancreatitis- specific clinical presentation and imaging
-pancreatic or ampullary mass with massive duct dilation
-one week progressive epigastric pain; negative cardiac workup.
-this patient clinically improved with non-operative management suggesting sterile necrosis.
-
-
-Keywords by value: 
-- sterile: 0.23408773414386533
-- necrosis: 0.20378524092861516
-- necrotizing: 0.1858697839024006
-- pancreatitis: 0.17625040374288328
-- pancreatic: 0.16112326569750163
-- dilation: 0.15640605357957746
-- nasojejunal: 0.1421167790678626
-- carbapenems: 0.1421167790678626
-- necrosectomy: 0.1421167790678626
-- crystalloid: 0.1313184636285784
-- nonenhancement: 0.1313184636285784
-- and: 0.12854212855054686
-- early: 0.12811542918898958
-- ampullary: 0.1226003905087417
-- with: 0.12180811553664524
-- narcotics: 0.11704386707193266
-- empiric: 0.11704386707193266
-- peripancreatic: 0.11555906064846777
-- tpn: 0.1129565791666034
-- insulin: 0.1129565791666034
-- clinical: 0.11263874043507516
-- resuscitation: 0.10877738140097283
-- npo: 0.10877738140097283
-- contraindicated: 0.10877738140097283
-- urgent: 0.10877738140097283
-- nutrition: 0.10704463325376881
-- compartment: 0.10406824559649776
-- ercp: 0.10406824559649776
-- gallstone: 0.10340522314707047
-- impaction: 0.09941811999945142
-- stimulation: 0.09797906596168864
-- abdominal: 0.09720682343699658
-- sepsis: 0.09708861354413093
-- ileus: 0.0966617737988447
-- infected: 0.09506255797891137
-- amylase: 0.09432057602880348
-- benefit: 0.09432057602880348
-- lipase: 0.09361233242676936
-- or: 0.0927451531444432
-- distension: 0.0922856865103366
-- massive: 0.09135994828803501
-- epigastric: 0.09135994828803501
-- questionable: 0.09048614865253783
-- alone: 0.08741154994575168
-- of: 0.08695384191206695
-- surgical: 0.08638397442902901
-- decompression: 0.08586345835956051
-- glucose: 0.08586345835956051
-- percutaneous: 0.08565434547306318
-- retroperitoneal: 0.08565434547306318
-- treatment: 0.0846635987091492
-- workup: 0.08370446940504289
-- pancreas: 0.08352226058951928
-- antibiotic: 0.08316411433061519
-- effusions: 0.08316411433061519
-- except: 0.08281401698748518
-- biliary: 0.08264187516819829
-- intravenous: 0.0810176266549288
-- majority: 0.08071215262968236
-- suggesting: 0.08011860746446661
-- stranding: 0.07954684875662096
-- improved: 0.07886045244514316
-- aggressive: 0.07684750472767564
-- duct: 0.07649740738454563
-- control: 0.07593084763424338
-- gastric: 0.07485603003377898
-- intervention: 0.07464968693591623
-- clinically: 0.0738506053147959
-- open: 0.07346592710034298
-- drainage: 0.07117340581855469
-- conservative: 0.06860881331232073
-- persistent: 0.06847033527933344
-- extensive: 0.06847033527933344
-- progressive: 0.06806213700585897
-- use: 0.06799513184392166
-- minimal: 0.06779582836485659
-- enhanced: 0.06766436196328354
-- specific: 0.06734046929602809
-- pleural: 0.0668980430800728
-- cardiac: 0.06599029063171533
-- management: 0.06564149973129935
-- pain: 0.06359936313167022
-- iv: 0.06349671965087227
-- signs: 0.0621078385264745
-- presentation: 0.061174172000390846
-- elevated: 0.06058143347713325
-- week: 0.0597719695323136
-- bowel: 0.05703055360844378
-- fat: 0.05528040689327745
-- negative: 0.055016603627899105
-- abdomen: 0.05422333603040819
-- infection: 0.05368047008867967
-- syndrome: 0.05357413058954447
-- the: 0.05319622269180061
-- axial: 0.05133244976702243
-- fluid: 0.051309523087190306
-- one: 0.05088020680169791
-- over: 0.04941364595064952
-- consistent: 0.04818542216290294
-- surgery: 0.04777835520911608
-- associated: 0.04683927637319699
-- imaging: 0.04670232009654648
-- small: 0.04584030111658472
-- demonstrates: 0.04464553161544072
-- contrast: 0.043178387321783314
-- images: 0.041106643543888696
-- mass: 0.03394460663026546
-- ct: 0.033832286921411485
-- this: 0.030536108112081416
-- patient: 0.028903790765137567
-- in: 0.02210708544798991
+\-\ Texto\\:\\ \ \(0\)\
+\-\ abdominal\\ pain\\,\\ distension\\;\\ elevated\\ amylase\\ and\\ lipase\\.\ \(0\)\
+\-\ treatment\ \(1387\)\
+\-\ \\â\\€\\¢\\	sterile\\ necrosis\\-\\ conservative\\ treatment\ \(0\)\
+\-\ o\\	aggressive\\ crystalloid\\ resuscitation\\ \ \(0\)\
+\-\ o\\	npo\\ \\(minimal\\ pancreatic\\ stimulation\\)\ \(0\)\
+\-\ o\\	gastric\\ decompression\ \(0\)\
+\-\ o\\	intravenous\\ narcotics\ \(0\)\
+\-\ o\\	nasojejunal\\ nutrition\\ or\\ tpn\ \(0\)\
+\-\ o\\	glucose\\ control\\ with\\ iv\\ insulin\ \(0\)\
+\-\ o\\	antibiotic\\ prophylaxis\\-\\ early\\ empiric\\ use\\ of\\ carbapenems\\ with\\ signs\\ of\\ infection\ \(0\)\
+\-\ \\â\\€\\¢\\	early\\ surgical\\ intervention\\ contraindicated\\ except\\ in\\ abdominal\\ compartment\\ syndrome\ \(0\)\
+\-\ \\â\\€\\¢\\	gallstone\\ impaction\\ and\\ biliary\\ obstruction\\-\\ urgent\\ ercp\ \(0\)\
+\-\ \\â\\€\\¢\\	infected\\ necrosis\\ and\\ sepsis\\ with\\ persistent\\ clinical\\ decline\\-\\ open\\ surgical\\ necrosectomy\\ and\\/or\\ percutaneous\\ drainage\\ \\(questionable\\ benefit\\ over\\ surgery\\ alone\\)\ \(0\)\
+\-\ axial\\ contrast\\ enhanced\\ ct\\ images\\ of\\ the\\ abdomen\\ demonstrates\\ nonenhancement\\ of\\ the\\ majority\\ of\\ the\\ pancreas\\ with\\ extensive\\ peripancreatic\\ fat\\ stranding\\ and\\ retroperitoneal\\ fluid\\.\\ associated\\ small\\ bowel\\ dilation\\ consistent\\ with\\ ileus\\ and\\ pleural\\ effusions\\.\ \(0\)\
+\-\ necrotizing\\ pancreatitis\ \(1\)\
+\-\ necrotizing\\ pancreatitis\\-\\ specific\\ clinical\\ presentation\\ and\\ imaging\ \(0\)\
+\-\ pancreatic\\ or\\ ampullary\\ mass\\ with\\ massive\\ duct\\ dilation\ \(0\)\
+\-\ one\\ week\\ progressive\\ epigastric\\ pain\\;\\ negative\\ cardiac\\ workup\\.\ \(0\)\
+\-\ this\\ patient\\ clinically\\ improved\\ with\\ non\\-operative\\ management\\ suggesting\\ sterile\\ necrosis\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ sterile\\:\\ 0\\.23408773414386533\ \(0\)\
+\-\ necrosis\\:\\ 0\\.20378524092861516\ \(0\)\
+\-\ necrotizing\\:\\ 0\\.1858697839024006\ \(0\)\
+\-\ pancreatitis\\:\\ 0\\.17625040374288328\ \(0\)\
+\-\ pancreatic\\:\\ 0\\.16112326569750163\ \(0\)\
+\-\ dilation\\:\\ 0\\.15640605357957746\ \(0\)\
+\-\ nasojejunal\\:\\ 0\\.1421167790678626\ \(0\)\
+\-\ carbapenems\\:\\ 0\\.1421167790678626\ \(0\)\
+\-\ necrosectomy\\:\\ 0\\.1421167790678626\ \(0\)\
+\-\ crystalloid\\:\\ 0\\.1313184636285784\ \(0\)\
+\-\ nonenhancement\\:\\ 0\\.1313184636285784\ \(0\)\
+\-\ and\\:\\ 0\\.12854212855054686\ \(0\)\
+\-\ early\\:\\ 0\\.12811542918898958\ \(0\)\
+\-\ ampullary\\:\\ 0\\.1226003905087417\ \(0\)\
+\-\ with\\:\\ 0\\.12180811553664524\ \(0\)\
+\-\ narcotics\\:\\ 0\\.11704386707193266\ \(0\)\
+\-\ empiric\\:\\ 0\\.11704386707193266\ \(0\)\
+\-\ peripancreatic\\:\\ 0\\.11555906064846777\ \(0\)\
+\-\ tpn\\:\\ 0\\.1129565791666034\ \(0\)\
+\-\ insulin\\:\\ 0\\.1129565791666034\ \(0\)\
+\-\ clinical\\:\\ 0\\.11263874043507516\ \(0\)\
+\-\ resuscitation\\:\\ 0\\.10877738140097283\ \(0\)\
+\-\ npo\\:\\ 0\\.10877738140097283\ \(0\)\
+\-\ contraindicated\\:\\ 0\\.10877738140097283\ \(0\)\
+\-\ urgent\\:\\ 0\\.10877738140097283\ \(0\)\
+\-\ nutrition\\:\\ 0\\.10704463325376881\ \(0\)\
+\-\ compartment\\:\\ 0\\.10406824559649776\ \(0\)\
+\-\ ercp\\:\\ 0\\.10406824559649776\ \(0\)\
+\-\ gallstone\\:\\ 0\\.10340522314707047\ \(0\)\
+\-\ impaction\\:\\ 0\\.09941811999945142\ \(0\)\
+\-\ stimulation\\:\\ 0\\.09797906596168864\ \(0\)\
+\-\ abdominal\\:\\ 0\\.09720682343699658\ \(0\)\
+\-\ sepsis\\:\\ 0\\.09708861354413093\ \(0\)\
+\-\ ileus\\:\\ 0\\.0966617737988447\ \(0\)\
+\-\ infected\\:\\ 0\\.09506255797891137\ \(0\)\
+\-\ amylase\\:\\ 0\\.09432057602880348\ \(0\)\
+\-\ benefit\\:\\ 0\\.09432057602880348\ \(0\)\
+\-\ lipase\\:\\ 0\\.09361233242676936\ \(0\)\
+\-\ or\\:\\ 0\\.0927451531444432\ \(0\)\
+\-\ distension\\:\\ 0\\.0922856865103366\ \(0\)\
+\-\ massive\\:\\ 0\\.09135994828803501\ \(0\)\
+\-\ epigastric\\:\\ 0\\.09135994828803501\ \(0\)\
+\-\ questionable\\:\\ 0\\.09048614865253783\ \(0\)\
+\-\ alone\\:\\ 0\\.08741154994575168\ \(0\)\
+\-\ of\\:\\ 0\\.08695384191206695\ \(0\)\
+\-\ surgical\\:\\ 0\\.08638397442902901\ \(0\)\
+\-\ decompression\\:\\ 0\\.08586345835956051\ \(0\)\
+\-\ glucose\\:\\ 0\\.08586345835956051\ \(0\)\
+\-\ percutaneous\\:\\ 0\\.08565434547306318\ \(0\)\
+\-\ retroperitoneal\\:\\ 0\\.08565434547306318\ \(0\)\
+\-\ treatment\\:\\ 0\\.0846635987091492\ \(0\)\
+\-\ workup\\:\\ 0\\.08370446940504289\ \(0\)\
+\-\ pancreas\\:\\ 0\\.08352226058951928\ \(0\)\
+\-\ antibiotic\\:\\ 0\\.08316411433061519\ \(0\)\
+\-\ effusions\\:\\ 0\\.08316411433061519\ \(0\)\
+\-\ except\\:\\ 0\\.08281401698748518\ \(0\)\
+\-\ biliary\\:\\ 0\\.08264187516819829\ \(0\)\
+\-\ intravenous\\:\\ 0\\.0810176266549288\ \(0\)\
+\-\ majority\\:\\ 0\\.08071215262968236\ \(0\)\
+\-\ suggesting\\:\\ 0\\.08011860746446661\ \(0\)\
+\-\ stranding\\:\\ 0\\.07954684875662096\ \(0\)\
+\-\ improved\\:\\ 0\\.07886045244514316\ \(0\)\
+\-\ aggressive\\:\\ 0\\.07684750472767564\ \(0\)\
+\-\ duct\\:\\ 0\\.07649740738454563\ \(0\)\
+\-\ control\\:\\ 0\\.07593084763424338\ \(0\)\
+\-\ gastric\\:\\ 0\\.07485603003377898\ \(0\)\
+\-\ intervention\\:\\ 0\\.07464968693591623\ \(0\)\
+\-\ clinically\\:\\ 0\\.0738506053147959\ \(0\)\
+\-\ open\\:\\ 0\\.07346592710034298\ \(0\)\
+\-\ drainage\\:\\ 0\\.07117340581855469\ \(0\)\
+\-\ conservative\\:\\ 0\\.06860881331232073\ \(0\)\
+\-\ persistent\\:\\ 0\\.06847033527933344\ \(0\)\
+\-\ extensive\\:\\ 0\\.06847033527933344\ \(0\)\
+\-\ progressive\\:\\ 0\\.06806213700585897\ \(0\)\
+\-\ use\\:\\ 0\\.06799513184392166\ \(0\)\
+\-\ minimal\\:\\ 0\\.06779582836485659\ \(0\)\
+\-\ enhanced\\:\\ 0\\.06766436196328354\ \(0\)\
+\-\ specific\\:\\ 0\\.06734046929602809\ \(0\)\
+\-\ pleural\\:\\ 0\\.0668980430800728\ \(0\)\
+\-\ cardiac\\:\\ 0\\.06599029063171533\ \(0\)\
+\-\ management\\:\\ 0\\.06564149973129935\ \(0\)\
+\-\ pain\\:\\ 0\\.06359936313167022\ \(0\)\
+\-\ iv\\:\\ 0\\.06349671965087227\ \(0\)\
+\-\ signs\\:\\ 0\\.0621078385264745\ \(0\)\
+\-\ presentation\\:\\ 0\\.061174172000390846\ \(0\)\
+\-\ elevated\\:\\ 0\\.06058143347713325\ \(0\)\
+\-\ week\\:\\ 0\\.0597719695323136\ \(0\)\
+\-\ bowel\\:\\ 0\\.05703055360844378\ \(0\)\
+\-\ fat\\:\\ 0\\.05528040689327745\ \(0\)\
+\-\ negative\\:\\ 0\\.055016603627899105\ \(0\)\
+\-\ abdomen\\:\\ 0\\.05422333603040819\ \(0\)\
+\-\ infection\\:\\ 0\\.05368047008867967\ \(0\)\
+\-\ syndrome\\:\\ 0\\.05357413058954447\ \(0\)\
+\-\ the\\:\\ 0\\.05319622269180061\ \(0\)\
+\-\ axial\\:\\ 0\\.05133244976702243\ \(0\)\
+\-\ fluid\\:\\ 0\\.051309523087190306\ \(0\)\
+\-\ one\\:\\ 0\\.05088020680169791\ \(0\)\
+\-\ over\\:\\ 0\\.04941364595064952\ \(0\)\
+\-\ consistent\\:\\ 0\\.04818542216290294\ \(0\)\
+\-\ surgery\\:\\ 0\\.04777835520911608\ \(0\)\
+\-\ associated\\:\\ 0\\.04683927637319699\ \(0\)\
+\-\ imaging\\:\\ 0\\.04670232009654648\ \(0\)\
+\-\ small\\:\\ 0\\.04584030111658472\ \(0\)\
+\-\ demonstrates\\:\\ 0\\.04464553161544072\ \(0\)\
+\-\ contrast\\:\\ 0\\.043178387321783314\ \(0\)\
+\-\ images\\:\\ 0\\.041106643543888696\ \(0\)\
+\-\ mass\\:\\ 0\\.03394460663026546\ \(0\)\
+\-\ ct\\:\\ 0\\.033832286921411485\ \(0\)\
+\-\ this\\:\\ 0\\.030536108112081416\ \(0\)\
+\-\ patient\\:\\ 0\\.028903790765137567\ \(0\)\
+\-\ in\\:\\ 0\\.02210708544798991\ \(0\)\

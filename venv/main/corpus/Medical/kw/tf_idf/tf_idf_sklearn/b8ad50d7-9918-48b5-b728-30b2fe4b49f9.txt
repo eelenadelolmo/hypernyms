@@ -1,50 +1,48 @@
-Texto: 
-severe tenderness; "surgical" abdomen
-pain medications; no operative intervention required
-axial ct images demonstrate inflammatory stranding in the region of the omentum
-omental torsion
-â€¢ omental torsion
-â€¢ focal perforation (gastric ulcer, diverticulitis)
-â€¢ infectious peritonitis
-â€¢ blood from trauma
-7 y.o. boy with generalized abdominal pain
-
-
-Keywords by value: 
-- omental: 0.4473618492429997
-- torsion: 0.38339571678312073
-- omentum: 0.25318334617091853
-- peritonitis: 0.2298249788824656
-- ulcer: 0.1906279589864107
-- generalized: 0.18353213669532892
-- perforation: 0.18146406453148514
-- diverticulitis: 0.1806711102839568
-- stranding: 0.17207170140043038
-- gastric: 0.16192476068289216
-- intervention: 0.16147840977802963
-- medications: 0.16125743193276026
-- operative: 0.16125743193276026
-- infectious: 0.15467572216129077
-- pain: 0.13757491079920903
-- required: 0.13724469455638105
-- boy: 0.1314990210844903
-- inflammatory: 0.12998520511187053
-- severe: 0.12169076664141508
-- tenderness: 0.12055285712105195
-- abdomen: 0.1172931653761206
-- region: 0.11498411165658888
-- focal: 0.11498411165658888
-- blood: 0.11164063673096215
-- trauma: 0.11164063673096215
-- axial: 0.11103974709907645
-- abdominal: 0.10513643065680225
-- demonstrate: 0.09993575658945797
-- surgical: 0.09343071212797158
-- images: 0.08891980265741464
-- the: 0.07671424399358481
-- from: 0.07634614690065185
-- ct: 0.07318428402671642
-- no: 0.06251145131012013
-- in: 0.047820923964932045
-- with: 0.037641303767865106
-- of: 0.03761882652797871
+\-\ Texto\\:\\ \ \(0\)\
+\-\ severe\\ tenderness\\;\\ \\"surgical\\"\\ abdomen\ \(0\)\
+\-\ pain\\ medications\\;\\ no\\ operative\\ intervention\\ required\ \(0\)\
+\-\ axial\\ ct\\ images\\ demonstrate\\ inflammatory\\ stranding\\ in\\ the\\ region\\ of\\ the\\ omentum\ \(0\)\
+\-\ omental\\ torsion\ \(0\)\
+\-\ \\â\\€\\¢\\ omental\\ torsion\ \(0\)\
+\-\ \\â\\€\\¢\\ focal\\ perforation\\ \\(gastric\\ ulcer\\,\\ diverticulitis\\)\ \(0\)\
+\-\ \\â\\€\\¢\\ infectious\\ peritonitis\ \(0\)\
+\-\ \\â\\€\\¢\\ blood\\ from\\ trauma\ \(0\)\
+\-\ 7\\ y\\.o\\.\\ boy\\ with\\ generalized\\ abdominal\\ pain\ \(1\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ omental\\:\\ 0\\.4473618492429997\ \(0\)\
+\-\ torsion\\:\\ 0\\.38339571678312073\ \(0\)\
+\-\ omentum\\:\\ 0\\.25318334617091853\ \(0\)\
+\-\ peritonitis\\:\\ 0\\.2298249788824656\ \(0\)\
+\-\ ulcer\\:\\ 0\\.1906279589864107\ \(0\)\
+\-\ generalized\\:\\ 0\\.18353213669532892\ \(0\)\
+\-\ perforation\\:\\ 0\\.18146406453148514\ \(0\)\
+\-\ diverticulitis\\:\\ 0\\.1806711102839568\ \(0\)\
+\-\ stranding\\:\\ 0\\.17207170140043038\ \(0\)\
+\-\ gastric\\:\\ 0\\.16192476068289216\ \(0\)\
+\-\ intervention\\:\\ 0\\.16147840977802963\ \(0\)\
+\-\ medications\\:\\ 0\\.16125743193276026\ \(0\)\
+\-\ operative\\:\\ 0\\.16125743193276026\ \(0\)\
+\-\ infectious\\:\\ 0\\.15467572216129077\ \(0\)\
+\-\ pain\\:\\ 0\\.13757491079920903\ \(0\)\
+\-\ required\\:\\ 0\\.13724469455638105\ \(0\)\
+\-\ boy\\:\\ 0\\.1314990210844903\ \(0\)\
+\-\ inflammatory\\:\\ 0\\.12998520511187053\ \(0\)\
+\-\ severe\\:\\ 0\\.12169076664141508\ \(0\)\
+\-\ tenderness\\:\\ 0\\.12055285712105195\ \(0\)\
+\-\ abdomen\\:\\ 0\\.1172931653761206\ \(0\)\
+\-\ region\\:\\ 0\\.11498411165658888\ \(0\)\
+\-\ focal\\:\\ 0\\.11498411165658888\ \(0\)\
+\-\ blood\\:\\ 0\\.11164063673096215\ \(0\)\
+\-\ trauma\\:\\ 0\\.11164063673096215\ \(0\)\
+\-\ axial\\:\\ 0\\.11103974709907645\ \(0\)\
+\-\ abdominal\\:\\ 0\\.10513643065680225\ \(0\)\
+\-\ demonstrate\\:\\ 0\\.09993575658945797\ \(0\)\
+\-\ surgical\\:\\ 0\\.09343071212797158\ \(0\)\
+\-\ images\\:\\ 0\\.08891980265741464\ \(0\)\
+\-\ the\\:\\ 0\\.07671424399358481\ \(0\)\
+\-\ from\\:\\ 0\\.07634614690065185\ \(0\)\
+\-\ ct\\:\\ 0\\.07318428402671642\ \(0\)\
+\-\ no\\:\\ 0\\.06251145131012013\ \(0\)\
+\-\ in\\:\\ 0\\.047820923964932045\ \(0\)\
+\-\ with\\:\\ 0\\.037641303767865106\ \(0\)\
+\-\ of\\:\\ 0\\.03761882652797871\ \(0\)\

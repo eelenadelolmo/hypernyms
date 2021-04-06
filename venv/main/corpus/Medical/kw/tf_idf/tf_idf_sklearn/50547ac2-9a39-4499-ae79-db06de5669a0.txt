@@ -1,127 +1,123 @@
-Texto: 
-vitals:  temp 37.1, hr 83, bp 145/92, rr 18
-there was marked proptosis of the left eye with associated superior lid swelling.  the left orbit was slightly tender to palpation.  
-
-cranial nerves ii-xii were grossly intact.
-the patient underwent stealth-assisted endoscopic sinus surgery.  the mucocele was drained and he experienced immediate improvement in his diplopia post-operatively.
-Â» ct: there is a round, homogenous mass centered within the left frontal sinus that is isodense to soft tissue.  the mass is expanding the left frontal sinus and eroding anteriorly through the frontal bone.  there is proptosis and inferolateral displacement of the left globe by the mass.  the mass does not extend intracranially.
-
-Â» mr: the mass is hyperintense on t1 and isointense on t2.  there is no evidence of enhancement within the mass.  again seen is the erosion through the left frontal bone and mass effect causing proptosis and inferolateral displacement of the left globe.  there is no signal abnormality within the optic nerve.
-frontal sinus mucocele
-â€¢ mucocele
-â€¢ sinonasal neoplasm
-â€¢ allergic fungal sinusitis
-â€¢ sinonasal polyposis
-a 50  y.o.  man presents with a 6 month history of diplopia, left proptosis, and intermittent swelling of his face.  he denies any headaches, facial pain, or nasal discharge.
-
-
-Keywords by value: 
-- proptosis: 0.2959810984812609
-- the: 0.24878241654548217
-- mucocele: 0.24614896898017463
-- frontal: 0.23602232314437138
-- sinus: 0.2119838942180223
-- left: 0.2001467131309816
-- inferolateral: 0.19893027024514462
-- mass: 0.1961011046801288
-- sinonasal: 0.19319232889247828
-- is: 0.1606802484674925
-- diplopia: 0.1533981118411688
-- globe: 0.1528567418282808
-- there: 0.14591150739614897
-- displacement: 0.11959333534057542
-- and: 0.10608566598459372
-- within: 0.10133631325635421
-- eroding: 0.09946513512257231
-- swelling: 0.09872465248761803
-- intracranially: 0.09795079122386896
-- polyposis: 0.09537075546890501
-- lid: 0.0905532982189402
-- his: 0.08895953960415282
-- through: 0.08731673437111606
-- he: 0.08686013579815832
-- of: 0.08611548291453702
-- allergic: 0.08382586391906917
-- drained: 0.08335828283021825
-- expanding: 0.08335828283021825
-- isodense: 0.08204965632672488
-- bone: 0.0800346691804691
-- homogenous: 0.07784265934363628
-- endoscopic: 0.0766990559205844
-- was: 0.07668057533911796
-- centered: 0.0764283709141404
-- sinusitis: 0.07564891633778911
-- 83: 0.07444644592658614
-- temp: 0.07272962441167602
-- grossly: 0.07035206627291886
-- immediate: 0.07018616638524096
-- experienced: 0.06970093661426935
-- nerves: 0.06848996566529816
-- erosion: 0.06806372565034934
-- orbit: 0.06792472902192506
-- extend: 0.06765116417161056
-- rr: 0.06738329900570997
-- nasal: 0.06686375102929418
-- anteriorly: 0.06648741988277657
-- isointense: 0.06636438484908526
-- face: 0.06612179155944141
-- discharge: 0.06576627408167555
-- fungal: 0.06564991977710628
-- again: 0.06542032326684168
-- vitals: 0.06475515444660276
-- improvement: 0.06402026512425073
-- optic: 0.0631332194354718
-- hr: 0.06303833293169264
-- facial: 0.06047549726344921
-- causing: 0.060245215353877134
-- round: 0.06009395404560831
-- cranial: 0.05994445162963075
-- intermittent: 0.05994445162963075
-- bp: 0.05950610020966088
-- denies: 0.059151888746717236
-- eye: 0.058671835969133904
-- hyperintense: 0.058339593634232086
-- slightly: 0.05720995465580932
-- 18: 0.05557600930946955
-- marked: 0.05547062295789891
-- headaches: 0.05470661230281132
-- tender: 0.053616779937528086
-- abnormality: 0.053347041451709244
-- intact: 0.05308284593167354
-- nerve: 0.052321349941568895
-- effect: 0.051448003841625914
-- 50: 0.051219765962161296
-- does: 0.05070245802226424
-- underwent: 0.05052263602937533
-- neoplasm: 0.0500665395888147
-- palpation: 0.04946059726673385
-- no: 0.04769955466540889
-- superior: 0.047682268396888286
-- mr: 0.04745520619691061
-- any: 0.047399061728189494
-- t1: 0.04569625336224814
-- month: 0.04461439996317866
-- on: 0.04430070216572617
-- enhancement: 0.04221401291481393
-- t2: 0.042195311729107905
-- evidence: 0.04162866856976789
-- signal: 0.04157513457331517
-- surgery: 0.039431419793351456
-- soft: 0.039045381977136535
-- man: 0.038827829190842884
-- associated: 0.038656399145694
-- tissue: 0.038473226932150134
-- were: 0.03780535439344516
-- to: 0.036670394318864964
-- presents: 0.035280982244832115
-- seen: 0.03452852076222764
-- that: 0.03182740194936821
-- by: 0.031144997142880784
-- not: 0.028953426252700868
-- with: 0.02872231229835276
-- history: 0.028020647175023658
-- ct: 0.027921746203451423
-- pain: 0.026244239418231365
-- or: 0.02551415490292588
-- patient: 0.023854264180736745
-- in: 0.018244951356987255
+\-\ Texto\\:\\ \ \(0\)\
+\-\ vitals\\:\\ \\ temp\\ 37\\.1\\,\\ hr\\ 83\\,\\ bp\\ 145\\/92\\,\\ rr\\ 18\ \(0\)\
+\-\ there\\ was\\ marked\\ proptosis\\ of\\ the\\ left\\ eye\\ with\\ associated\\ superior\\ lid\\ swelling\\.\\ \\ the\\ left\\ orbit\\ was\\ slightly\\ tender\\ to\\ palpation\\.\\ \\ \ \(0\)\
+\-\ cranial\\ nerves\\ ii\\-xii\\ were\\ grossly\\ intact\\.\ \(0\)\
+\-\ the\\ patient\\ underwent\\ stealth\\-assisted\\ endoscopic\\ sinus\\ surgery\\.\\ \\ the\\ mucocele\\ was\\ drained\\ and\\ he\\ experienced\\ immediate\\ improvement\\ in\\ his\\ diplopia\\ post\\-operatively\\.\ \(0\)\
+\-\ \\Â\\»\\ ct\\:\\ there\\ is\\ a\\ round\\,\\ homogenous\\ mass\\ centered\\ within\\ the\\ left\\ frontal\\ sinus\\ that\\ is\\ isodense\\ to\\ soft\\ tissue\\.\\ \\ the\\ mass\\ is\\ expanding\\ the\\ left\\ frontal\\ sinus\\ and\\ eroding\\ anteriorly\\ through\\ the\\ frontal\\ bone\\.\\ \\ there\\ is\\ proptosis\\ and\\ inferolateral\\ displacement\\ of\\ the\\ left\\ globe\\ by\\ the\\ mass\\.\\ \\ the\\ mass\\ does\\ not\\ extend\\ intracranially\\.\ \(0\)\
+\-\ \\Â\\»\\ mr\\:\\ the\\ mass\\ is\\ hyperintense\\ on\\ t1\\ and\\ isointense\\ on\\ t2\\.\\ \\ there\\ is\\ no\\ evidence\\ of\\ enhancement\\ within\\ the\\ mass\\.\\ \\ again\\ seen\\ is\\ the\\ erosion\\ through\\ the\\ left\\ frontal\\ bone\\ and\\ mass\\ effect\\ causing\\ proptosis\\ and\\ inferolateral\\ displacement\\ of\\ the\\ left\\ globe\\.\\ \\ there\\ is\\ no\\ signal\\ abnormality\\ within\\ the\\ optic\\ nerve\\.\ \(0\)\
+\-\ frontal\\ sinus\\ mucocele\ \(1\)\
+\-\ \\â\\€\\¢\\ mucocele\ \(1\)\
+\-\ \\â\\€\\¢\\ sinonasal\\ neoplasm\ \(0\)\
+\-\ \\â\\€\\¢\\ allergic\\ fungal\\ sinusitis\ \(0\)\
+\-\ \\â\\€\\¢\\ sinonasal\\ polyposis\ \(0\)\
+\-\ a\\ 50\\ \\ y\\.o\\.\\ \\ man\\ presents\\ with\\ a\\ 6\\ month\\ history\\ of\\ diplopia\\,\\ left\\ proptosis\\,\\ and\\ intermittent\\ swelling\\ of\\ his\\ face\\.\\ \\ he\\ denies\\ any\\ headaches\\,\\ facial\\ pain\\,\\ or\\ nasal\\ discharge\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ proptosis\\:\\ 0\\.2959810984812609\ \(0\)\
+\-\ the\\:\\ 0\\.24878241654548217\ \(0\)\
+\-\ mucocele\\:\\ 0\\.24614896898017463\ \(0\)\
+\-\ frontal\\:\\ 0\\.23602232314437138\ \(0\)\
+\-\ sinus\\:\\ 0\\.2119838942180223\ \(0\)\
+\-\ left\\:\\ 0\\.2001467131309816\ \(0\)\
+\-\ inferolateral\\:\\ 0\\.19893027024514462\ \(0\)\
+\-\ mass\\:\\ 0\\.1961011046801288\ \(0\)\
+\-\ sinonasal\\:\\ 0\\.19319232889247828\ \(0\)\
+\-\ is\\:\\ 0\\.1606802484674925\ \(0\)\
+\-\ diplopia\\:\\ 0\\.1533981118411688\ \(0\)\
+\-\ globe\\:\\ 0\\.1528567418282808\ \(0\)\
+\-\ there\\:\\ 0\\.14591150739614897\ \(0\)\
+\-\ displacement\\:\\ 0\\.11959333534057542\ \(0\)\
+\-\ and\\:\\ 0\\.10608566598459372\ \(0\)\
+\-\ within\\:\\ 0\\.10133631325635421\ \(0\)\
+\-\ eroding\\:\\ 0\\.09946513512257231\ \(0\)\
+\-\ swelling\\:\\ 0\\.09872465248761803\ \(0\)\
+\-\ intracranially\\:\\ 0\\.09795079122386896\ \(0\)\
+\-\ polyposis\\:\\ 0\\.09537075546890501\ \(0\)\
+\-\ lid\\:\\ 0\\.0905532982189402\ \(0\)\
+\-\ his\\:\\ 0\\.08895953960415282\ \(0\)\
+\-\ through\\:\\ 0\\.08731673437111606\ \(0\)\
+\-\ he\\:\\ 0\\.08686013579815832\ \(0\)\
+\-\ of\\:\\ 0\\.08611548291453702\ \(0\)\
+\-\ allergic\\:\\ 0\\.08382586391906917\ \(0\)\
+\-\ drained\\:\\ 0\\.08335828283021825\ \(0\)\
+\-\ expanding\\:\\ 0\\.08335828283021825\ \(0\)\
+\-\ isodense\\:\\ 0\\.08204965632672488\ \(0\)\
+\-\ bone\\:\\ 0\\.0800346691804691\ \(0\)\
+\-\ homogenous\\:\\ 0\\.07784265934363628\ \(0\)\
+\-\ endoscopic\\:\\ 0\\.0766990559205844\ \(0\)\
+\-\ was\\:\\ 0\\.07668057533911796\ \(0\)\
+\-\ centered\\:\\ 0\\.0764283709141404\ \(0\)\
+\-\ sinusitis\\:\\ 0\\.07564891633778911\ \(0\)\
+\-\ 83\\:\\ 0\\.07444644592658614\ \(0\)\
+\-\ temp\\:\\ 0\\.07272962441167602\ \(0\)\
+\-\ grossly\\:\\ 0\\.07035206627291886\ \(0\)\
+\-\ immediate\\:\\ 0\\.07018616638524096\ \(0\)\
+\-\ experienced\\:\\ 0\\.06970093661426935\ \(0\)\
+\-\ nerves\\:\\ 0\\.06848996566529816\ \(0\)\
+\-\ erosion\\:\\ 0\\.06806372565034934\ \(0\)\
+\-\ orbit\\:\\ 0\\.06792472902192506\ \(0\)\
+\-\ extend\\:\\ 0\\.06765116417161056\ \(0\)\
+\-\ rr\\:\\ 0\\.06738329900570997\ \(0\)\
+\-\ nasal\\:\\ 0\\.06686375102929418\ \(0\)\
+\-\ anteriorly\\:\\ 0\\.06648741988277657\ \(0\)\
+\-\ isointense\\:\\ 0\\.06636438484908526\ \(0\)\
+\-\ face\\:\\ 0\\.06612179155944141\ \(0\)\
+\-\ discharge\\:\\ 0\\.06576627408167555\ \(0\)\
+\-\ fungal\\:\\ 0\\.06564991977710628\ \(0\)\
+\-\ again\\:\\ 0\\.06542032326684168\ \(0\)\
+\-\ vitals\\:\\ 0\\.06475515444660276\ \(0\)\
+\-\ improvement\\:\\ 0\\.06402026512425073\ \(0\)\
+\-\ optic\\:\\ 0\\.0631332194354718\ \(0\)\
+\-\ hr\\:\\ 0\\.06303833293169264\ \(0\)\
+\-\ facial\\:\\ 0\\.06047549726344921\ \(0\)\
+\-\ causing\\:\\ 0\\.060245215353877134\ \(0\)\
+\-\ round\\:\\ 0\\.06009395404560831\ \(0\)\
+\-\ cranial\\:\\ 0\\.05994445162963075\ \(0\)\
+\-\ intermittent\\:\\ 0\\.05994445162963075\ \(0\)\
+\-\ bp\\:\\ 0\\.05950610020966088\ \(0\)\
+\-\ denies\\:\\ 0\\.059151888746717236\ \(0\)\
+\-\ eye\\:\\ 0\\.058671835969133904\ \(0\)\
+\-\ hyperintense\\:\\ 0\\.058339593634232086\ \(0\)\
+\-\ slightly\\:\\ 0\\.05720995465580932\ \(0\)\
+\-\ 18\\:\\ 0\\.05557600930946955\ \(0\)\
+\-\ marked\\:\\ 0\\.05547062295789891\ \(0\)\
+\-\ headaches\\:\\ 0\\.05470661230281132\ \(0\)\
+\-\ tender\\:\\ 0\\.053616779937528086\ \(0\)\
+\-\ abnormality\\:\\ 0\\.053347041451709244\ \(0\)\
+\-\ intact\\:\\ 0\\.05308284593167354\ \(0\)\
+\-\ nerve\\:\\ 0\\.052321349941568895\ \(0\)\
+\-\ effect\\:\\ 0\\.051448003841625914\ \(0\)\
+\-\ 50\\:\\ 0\\.051219765962161296\ \(0\)\
+\-\ does\\:\\ 0\\.05070245802226424\ \(0\)\
+\-\ underwent\\:\\ 0\\.05052263602937533\ \(0\)\
+\-\ neoplasm\\:\\ 0\\.0500665395888147\ \(0\)\
+\-\ palpation\\:\\ 0\\.04946059726673385\ \(0\)\
+\-\ no\\:\\ 0\\.04769955466540889\ \(0\)\
+\-\ superior\\:\\ 0\\.047682268396888286\ \(0\)\
+\-\ mr\\:\\ 0\\.04745520619691061\ \(0\)\
+\-\ any\\:\\ 0\\.047399061728189494\ \(0\)\
+\-\ t1\\:\\ 0\\.04569625336224814\ \(0\)\
+\-\ month\\:\\ 0\\.04461439996317866\ \(0\)\
+\-\ on\\:\\ 0\\.04430070216572617\ \(0\)\
+\-\ enhancement\\:\\ 0\\.04221401291481393\ \(0\)\
+\-\ t2\\:\\ 0\\.042195311729107905\ \(0\)\
+\-\ evidence\\:\\ 0\\.04162866856976789\ \(0\)\
+\-\ signal\\:\\ 0\\.04157513457331517\ \(0\)\
+\-\ surgery\\:\\ 0\\.039431419793351456\ \(0\)\
+\-\ soft\\:\\ 0\\.039045381977136535\ \(0\)\
+\-\ man\\:\\ 0\\.038827829190842884\ \(0\)\
+\-\ associated\\:\\ 0\\.038656399145694\ \(0\)\
+\-\ tissue\\:\\ 0\\.038473226932150134\ \(0\)\
+\-\ were\\:\\ 0\\.03780535439344516\ \(0\)\
+\-\ to\\:\\ 0\\.036670394318864964\ \(0\)\
+\-\ presents\\:\\ 0\\.035280982244832115\ \(0\)\
+\-\ seen\\:\\ 0\\.03452852076222764\ \(0\)\
+\-\ that\\:\\ 0\\.03182740194936821\ \(0\)\
+\-\ by\\:\\ 0\\.031144997142880784\ \(0\)\
+\-\ not\\:\\ 0\\.028953426252700868\ \(0\)\
+\-\ with\\:\\ 0\\.02872231229835276\ \(0\)\
+\-\ history\\:\\ 0\\.028020647175023658\ \(0\)\
+\-\ ct\\:\\ 0\\.027921746203451423\ \(0\)\
+\-\ pain\\:\\ 0\\.026244239418231365\ \(0\)\
+\-\ or\\:\\ 0\\.02551415490292588\ \(0\)\
+\-\ patient\\:\\ 0\\.023854264180736745\ \(0\)\
+\-\ in\\:\\ 0\\.018244951356987255\ \(0\)\

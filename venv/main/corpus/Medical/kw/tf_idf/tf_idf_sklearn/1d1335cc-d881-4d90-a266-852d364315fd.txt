@@ -1,109 +1,107 @@
-Texto: 
-left lower extremity weakness noted.
-the patient underwent surgical resection, xrt, and chemotherapy.  he is doing well 10 months after surgery.  his 10 month follow up mri exam is included at the end of the images provided.
-large cystic/necrotic mass which enhances following administration of gadolinium in the right frontal lobe.  a subfalcine herniation is evident, with mass effect on the right lateral ventricle.  vasogenic edema surrounds the mass.
-glioblastoma multiforme
-glioblastoma multiforme
-metastatic disease
-abscess
-56 year old man presented with headaches and left lower extremity weakness for two weeks.
-this lesion has an appearance consistent with gbm. spectroscopy is consistent with a tumor, showing an elevated choline level (indicating increased cellular turnover), an elevated choline/creatine ratio, and a relative decline in the n-acetyl -l-aspartate peak.  this patient is doing well at the 10 month point, an uncommonly positive response to treatment.
-
-
-Keywords by value: 
-- choline: 0.2790776898852634
-- doing: 0.2184096921738109
-- multiforme: 0.2144415042530005
-- glioblastoma: 0.2052089273561972
-- 10: 0.18049456706752823
-- the: 0.16424229101933677
-- an: 0.15737918697429112
-- weakness: 0.15018306177971485
-- extremity: 0.1482126530186436
-- is: 0.14088564958351413
-- elevated: 0.14028298802106803
-- turnover: 0.13741438396230338
-- uncommonly: 0.13551398885756755
-- subfalcine: 0.13379487237450222
-- spectroscopy: 0.13379487237450222
-- month: 0.12517837191894102
-- surrounds: 0.11972309705688716
-- decline: 0.11972309705688716
-- cellular: 0.1189867878421165
-- xrt: 0.11827936105310183
-- mass: 0.11790371831719976
-- consistent: 0.11157865722375256
-- gbm: 0.10879018251372838
-- peak: 0.10543344247702469
-- lower: 0.10515382116739617
-- ratio: 0.1031958960414361
-- vasogenic: 0.10120554029619781
-- well: 0.09963970590461788
-- indicating: 0.09734293781827551
-- 56: 0.09608402670261261
-- response: 0.09490727877560194
-- relative: 0.09115021021199972
-- enhances: 0.09069355111104918
-- end: 0.09054386501521199
-- included: 0.08897443462798385
-- showing: 0.08883830514385627
-- evident: 0.08843597461118059
-- herniation: 0.0865488469370029
-- gadolinium: 0.08573149352416287
-- point: 0.08505922672879743
-- provided: 0.08441111852611646
-- administration: 0.08193641215190627
-- with: 0.08058860579146096
-- at: 0.07772572319212942
-- headaches: 0.07674747017687696
-- ventricle: 0.07573578048282627
-- chemotherapy: 0.07305871830815303
-- effect: 0.07217599435035985
-- underwent: 0.07087780322530468
-- this: 0.07070972478909826
-- left: 0.07019605697751542
-- right: 0.06822459492807455
-- positive: 0.06779923627047303
-- patient: 0.06692991401729904
-- frontal: 0.06622276702616803
-- abscess: 0.06606860308741196
-- resection: 0.06595383872761522
-- and: 0.06378288638476762
-- his: 0.06240031437998189
-- level: 0.062151523248933666
-- appearance: 0.06202840283210679
-- following: 0.06172422916450132
-- weeks: 0.06166400516521123
-- edema: 0.061365864971831795
-- two: 0.06110168833851146
-- he: 0.060927695950440564
-- presented: 0.059999629455666274
-- months: 0.05989031353905568
-- lobe: 0.05945955704257797
-- metastatic: 0.056430026784685214
-- increased: 0.05563802814746269
-- follow: 0.055466653261760875
-- surgery: 0.05531802440756582
-- noted: 0.054552135826387724
-- man: 0.054471251964252065
-- tumor: 0.05381744799424484
-- mri: 0.05281460477201333
-- exam: 0.05179488551660559
-- large: 0.05155300546040275
-- in: 0.051191393552146254
-- lateral: 0.05106205533956016
-- up: 0.05089581387676854
-- surgical: 0.050007904049570714
-- after: 0.04991363342889515
-- lesion: 0.049327762523222074
-- treatment: 0.0490119741389871
-- images: 0.047593482465467477
-- has: 0.04699716134453653
-- which: 0.0467851139820761
-- disease: 0.04318957352017742
-- of: 0.0402702414360683
-- year: 0.03170867719943332
-- for: 0.03118517420122928
-- on: 0.031074550910402992
-- old: 0.030451306342461036
-- to: 0.02572230189271636
+\-\ Texto\\:\\ \ \(0\)\
+\-\ left\\ lower\\ extremity\\ weakness\\ noted\\.\ \(0\)\
+\-\ the\\ patient\\ underwent\\ surgical\\ resection\\,\\ xrt\\,\\ and\\ chemotherapy\\.\\ \\ he\\ is\\ doing\\ well\\ 10\\ months\\ after\\ surgery\\.\\ \\ his\\ 10\\ month\\ follow\\ up\\ mri\\ exam\\ is\\ included\\ at\\ the\\ end\\ of\\ the\\ images\\ provided\\.\ \(0\)\
+\-\ large\\ cystic\\/necrotic\\ mass\\ which\\ enhances\\ following\\ administration\\ of\\ gadolinium\\ in\\ the\\ right\\ frontal\\ lobe\\.\\ \\ a\\ subfalcine\\ herniation\\ is\\ evident\\,\\ with\\ mass\\ effect\\ on\\ the\\ right\\ lateral\\ ventricle\\.\\ \\ vasogenic\\ edema\\ surrounds\\ the\\ mass\\.\ \(0\)\
+\-\ glioblastoma\\ multiforme\ \(8\)\
+\-\ glioblastoma\\ multiforme\ \(8\)\
+\-\ metastatic\\ disease\ \(243\)\
+\-\ abscess\ \(594\)\
+\-\ 56\\ year\\ old\\ man\\ presented\\ with\\ headaches\\ and\\ left\\ lower\\ extremity\\ weakness\\ for\\ two\\ weeks\\.\ \(1\)\
+\-\ this\\ lesion\\ has\\ an\\ appearance\\ consistent\\ with\\ gbm\\.\\ spectroscopy\\ is\\ consistent\\ with\\ a\\ tumor\\,\\ showing\\ an\\ elevated\\ choline\\ level\\ \\(indicating\\ increased\\ cellular\\ turnover\\)\\,\\ an\\ elevated\\ choline\\/creatine\\ ratio\\,\\ and\\ a\\ relative\\ decline\\ in\\ the\\ n\\-acetyl\\ \\-l\\-aspartate\\ peak\\.\\ \\ this\\ patient\\ is\\ doing\\ well\\ at\\ the\\ 10\\ month\\ point\\,\\ an\\ uncommonly\\ positive\\ response\\ to\\ treatment\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ choline\\:\\ 0\\.2790776898852634\ \(0\)\
+\-\ doing\\:\\ 0\\.2184096921738109\ \(0\)\
+\-\ multiforme\\:\\ 0\\.2144415042530005\ \(0\)\
+\-\ glioblastoma\\:\\ 0\\.2052089273561972\ \(0\)\
+\-\ 10\\:\\ 0\\.18049456706752823\ \(0\)\
+\-\ the\\:\\ 0\\.16424229101933677\ \(0\)\
+\-\ an\\:\\ 0\\.15737918697429112\ \(0\)\
+\-\ weakness\\:\\ 0\\.15018306177971485\ \(0\)\
+\-\ extremity\\:\\ 0\\.1482126530186436\ \(0\)\
+\-\ is\\:\\ 0\\.14088564958351413\ \(0\)\
+\-\ elevated\\:\\ 0\\.14028298802106803\ \(0\)\
+\-\ turnover\\:\\ 0\\.13741438396230338\ \(0\)\
+\-\ uncommonly\\:\\ 0\\.13551398885756755\ \(0\)\
+\-\ subfalcine\\:\\ 0\\.13379487237450222\ \(0\)\
+\-\ spectroscopy\\:\\ 0\\.13379487237450222\ \(0\)\
+\-\ month\\:\\ 0\\.12517837191894102\ \(0\)\
+\-\ surrounds\\:\\ 0\\.11972309705688716\ \(0\)\
+\-\ decline\\:\\ 0\\.11972309705688716\ \(0\)\
+\-\ cellular\\:\\ 0\\.1189867878421165\ \(0\)\
+\-\ xrt\\:\\ 0\\.11827936105310183\ \(0\)\
+\-\ mass\\:\\ 0\\.11790371831719976\ \(0\)\
+\-\ consistent\\:\\ 0\\.11157865722375256\ \(0\)\
+\-\ gbm\\:\\ 0\\.10879018251372838\ \(0\)\
+\-\ peak\\:\\ 0\\.10543344247702469\ \(0\)\
+\-\ lower\\:\\ 0\\.10515382116739617\ \(0\)\
+\-\ ratio\\:\\ 0\\.1031958960414361\ \(0\)\
+\-\ vasogenic\\:\\ 0\\.10120554029619781\ \(0\)\
+\-\ well\\:\\ 0\\.09963970590461788\ \(0\)\
+\-\ indicating\\:\\ 0\\.09734293781827551\ \(0\)\
+\-\ 56\\:\\ 0\\.09608402670261261\ \(0\)\
+\-\ response\\:\\ 0\\.09490727877560194\ \(0\)\
+\-\ relative\\:\\ 0\\.09115021021199972\ \(0\)\
+\-\ enhances\\:\\ 0\\.09069355111104918\ \(0\)\
+\-\ end\\:\\ 0\\.09054386501521199\ \(0\)\
+\-\ included\\:\\ 0\\.08897443462798385\ \(0\)\
+\-\ showing\\:\\ 0\\.08883830514385627\ \(0\)\
+\-\ evident\\:\\ 0\\.08843597461118059\ \(0\)\
+\-\ herniation\\:\\ 0\\.0865488469370029\ \(0\)\
+\-\ gadolinium\\:\\ 0\\.08573149352416287\ \(0\)\
+\-\ point\\:\\ 0\\.08505922672879743\ \(0\)\
+\-\ provided\\:\\ 0\\.08441111852611646\ \(0\)\
+\-\ administration\\:\\ 0\\.08193641215190627\ \(0\)\
+\-\ with\\:\\ 0\\.08058860579146096\ \(0\)\
+\-\ at\\:\\ 0\\.07772572319212942\ \(0\)\
+\-\ headaches\\:\\ 0\\.07674747017687696\ \(0\)\
+\-\ ventricle\\:\\ 0\\.07573578048282627\ \(0\)\
+\-\ chemotherapy\\:\\ 0\\.07305871830815303\ \(0\)\
+\-\ effect\\:\\ 0\\.07217599435035985\ \(0\)\
+\-\ underwent\\:\\ 0\\.07087780322530468\ \(0\)\
+\-\ this\\:\\ 0\\.07070972478909826\ \(0\)\
+\-\ left\\:\\ 0\\.07019605697751542\ \(0\)\
+\-\ right\\:\\ 0\\.06822459492807455\ \(0\)\
+\-\ positive\\:\\ 0\\.06779923627047303\ \(0\)\
+\-\ patient\\:\\ 0\\.06692991401729904\ \(0\)\
+\-\ frontal\\:\\ 0\\.06622276702616803\ \(0\)\
+\-\ abscess\\:\\ 0\\.06606860308741196\ \(0\)\
+\-\ resection\\:\\ 0\\.06595383872761522\ \(0\)\
+\-\ and\\:\\ 0\\.06378288638476762\ \(0\)\
+\-\ his\\:\\ 0\\.06240031437998189\ \(0\)\
+\-\ level\\:\\ 0\\.062151523248933666\ \(0\)\
+\-\ appearance\\:\\ 0\\.06202840283210679\ \(0\)\
+\-\ following\\:\\ 0\\.06172422916450132\ \(0\)\
+\-\ weeks\\:\\ 0\\.06166400516521123\ \(0\)\
+\-\ edema\\:\\ 0\\.061365864971831795\ \(0\)\
+\-\ two\\:\\ 0\\.06110168833851146\ \(0\)\
+\-\ he\\:\\ 0\\.060927695950440564\ \(0\)\
+\-\ presented\\:\\ 0\\.059999629455666274\ \(0\)\
+\-\ months\\:\\ 0\\.05989031353905568\ \(0\)\
+\-\ lobe\\:\\ 0\\.05945955704257797\ \(0\)\
+\-\ metastatic\\:\\ 0\\.056430026784685214\ \(0\)\
+\-\ increased\\:\\ 0\\.05563802814746269\ \(0\)\
+\-\ follow\\:\\ 0\\.055466653261760875\ \(0\)\
+\-\ surgery\\:\\ 0\\.05531802440756582\ \(0\)\
+\-\ noted\\:\\ 0\\.054552135826387724\ \(0\)\
+\-\ man\\:\\ 0\\.054471251964252065\ \(0\)\
+\-\ tumor\\:\\ 0\\.05381744799424484\ \(0\)\
+\-\ mri\\:\\ 0\\.05281460477201333\ \(0\)\
+\-\ exam\\:\\ 0\\.05179488551660559\ \(0\)\
+\-\ large\\:\\ 0\\.05155300546040275\ \(0\)\
+\-\ in\\:\\ 0\\.051191393552146254\ \(0\)\
+\-\ lateral\\:\\ 0\\.05106205533956016\ \(0\)\
+\-\ up\\:\\ 0\\.05089581387676854\ \(0\)\
+\-\ surgical\\:\\ 0\\.050007904049570714\ \(0\)\
+\-\ after\\:\\ 0\\.04991363342889515\ \(0\)\
+\-\ lesion\\:\\ 0\\.049327762523222074\ \(0\)\
+\-\ treatment\\:\\ 0\\.0490119741389871\ \(0\)\
+\-\ images\\:\\ 0\\.047593482465467477\ \(0\)\
+\-\ has\\:\\ 0\\.04699716134453653\ \(0\)\
+\-\ which\\:\\ 0\\.0467851139820761\ \(0\)\
+\-\ disease\\:\\ 0\\.04318957352017742\ \(0\)\
+\-\ of\\:\\ 0\\.0402702414360683\ \(0\)\
+\-\ year\\:\\ 0\\.03170867719943332\ \(0\)\
+\-\ for\\:\\ 0\\.03118517420122928\ \(0\)\
+\-\ on\\:\\ 0\\.031074550910402992\ \(0\)\
+\-\ old\\:\\ 0\\.030451306342461036\ \(0\)\
+\-\ to\\:\\ 0\\.02572230189271636\ \(0\)\

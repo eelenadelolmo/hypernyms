@@ -1,74 +1,72 @@
-Texto: 
-careful monitoring
-linear lucencies extending  from the axilla into the distal forearm
-subcutaneous emphysema
-necrotizing fasciitis
-gangrene
-penetrating extremity trauma
-penetrating chest trauma
-35 yo man s/p bilateral renal transplants, small pneumothorax formation and s/p right chest tube placement x 2
-the forearm films and hand films were provided initially, with a call from a concerned intern about the possibility of necrotizing fasciitis in this afebrile, non-septic patient with a non-erythematous forearm.  subsequent review of all the available images revealed the large pocket of subcutaneous air in the axilla, which had dissected into the forearm.
-
-
-Keywords by value: 
-- forearm: 0.446297825664915
-- axilla: 0.26087307600821813
-- fasciitis: 0.26087307600821813
-- penetrating: 0.22635677317526842
-- necrotizing: 0.2247187065221585
-- subcutaneous: 0.20468303756507347
-- the: 0.1715062535241442
-- films: 0.17016673473212376
-- dissected: 0.1587655328882648
-- intern: 0.15112867922772916
-- gangrene: 0.14349182556719348
-- transplants: 0.14349182556719348
-- pocket: 0.14150738147178996
-- call: 0.13516999465224677
-- concerned: 0.12581970586868074
-- trauma: 0.12479473400258263
-- careful: 0.11902009220467707
-- lucencies: 0.11447785342862671
-- into: 0.11422708771120785
-- chest: 0.11342512762148867
-- monitoring: 0.10714236297527678
-- emphysema: 0.10540253009231959
-- possibility: 0.0999149775851402
-- pneumothorax: 0.0936368197408985
-- afebrile: 0.09276736698018706
-- review: 0.08847972519540417
-- provided: 0.08814437867584475
-- linear: 0.08655175730011053
-- 35: 0.08614885854447096
-- tube: 0.08585224141230709
-- from: 0.08534165849975472
-- formation: 0.08517777758190592
-- initially: 0.08425431819315303
-- hand: 0.08398588421546908
-- placement: 0.0838972497054299
-- subsequent: 0.08133805148525972
-- about: 0.08043380750975837
-- extremity: 0.07738383544926561
-- available: 0.07289530811253683
-- extending: 0.07284606678089604
-- revealed: 0.07044818894386488
-- air: 0.07027578683741498
-- yo: 0.06712275735439154
-- renal: 0.0669062630325926
-- all: 0.06395679637156411
-- of: 0.06307691698357723
-- distal: 0.06242562626934523
-- bilateral: 0.057742513249241685
-- man: 0.05688035822672901
-- small: 0.0554214512828738
-- were: 0.05538249615290745
-- large: 0.053833046102495404
-- had: 0.053530829541499195
-- in: 0.05345544114320093
-- images: 0.04969840483324949
-- which: 0.04885428454490593
-- and: 0.044402546241961265
-- with: 0.04207640361762968
-- this: 0.036918505919019906
-- right: 0.0356209859278534
-- patient: 0.034945015472441915
+\-\ Texto\\:\\ \ \(0\)\
+\-\ careful\\ monitoring\ \(1\)\
+\-\ linear\\ lucencies\\ extending\\ \\ from\\ the\\ axilla\\ into\\ the\\ distal\\ forearm\ \(0\)\
+\-\ subcutaneous\\ emphysema\ \(35\)\
+\-\ necrotizing\\ fasciitis\ \(7\)\
+\-\ gangrene\ \(7\)\
+\-\ penetrating\\ extremity\\ trauma\ \(1\)\
+\-\ penetrating\\ chest\\ trauma\ \(1\)\
+\-\ 35\\ yo\\ man\\ s\\/p\\ bilateral\\ renal\\ transplants\\,\\ small\\ pneumothorax\\ formation\\ and\\ s\\/p\\ right\\ chest\\ tube\\ placement\\ x\\ 2\ \(1\)\
+\-\ the\\ forearm\\ films\\ and\\ hand\\ films\\ were\\ provided\\ initially\\,\\ with\\ a\\ call\\ from\\ a\\ concerned\\ intern\\ about\\ the\\ possibility\\ of\\ necrotizing\\ fasciitis\\ in\\ this\\ afebrile\\,\\ non\\-septic\\ patient\\ with\\ a\\ non\\-erythematous\\ forearm\\.\\ \\ subsequent\\ review\\ of\\ all\\ the\\ available\\ images\\ revealed\\ the\\ large\\ pocket\\ of\\ subcutaneous\\ air\\ in\\ the\\ axilla\\,\\ which\\ had\\ dissected\\ into\\ the\\ forearm\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ forearm\\:\\ 0\\.446297825664915\ \(0\)\
+\-\ axilla\\:\\ 0\\.26087307600821813\ \(0\)\
+\-\ fasciitis\\:\\ 0\\.26087307600821813\ \(0\)\
+\-\ penetrating\\:\\ 0\\.22635677317526842\ \(0\)\
+\-\ necrotizing\\:\\ 0\\.2247187065221585\ \(0\)\
+\-\ subcutaneous\\:\\ 0\\.20468303756507347\ \(0\)\
+\-\ the\\:\\ 0\\.1715062535241442\ \(0\)\
+\-\ films\\:\\ 0\\.17016673473212376\ \(0\)\
+\-\ dissected\\:\\ 0\\.1587655328882648\ \(0\)\
+\-\ intern\\:\\ 0\\.15112867922772916\ \(0\)\
+\-\ gangrene\\:\\ 0\\.14349182556719348\ \(0\)\
+\-\ transplants\\:\\ 0\\.14349182556719348\ \(0\)\
+\-\ pocket\\:\\ 0\\.14150738147178996\ \(0\)\
+\-\ call\\:\\ 0\\.13516999465224677\ \(0\)\
+\-\ concerned\\:\\ 0\\.12581970586868074\ \(0\)\
+\-\ trauma\\:\\ 0\\.12479473400258263\ \(0\)\
+\-\ careful\\:\\ 0\\.11902009220467707\ \(0\)\
+\-\ lucencies\\:\\ 0\\.11447785342862671\ \(0\)\
+\-\ into\\:\\ 0\\.11422708771120785\ \(0\)\
+\-\ chest\\:\\ 0\\.11342512762148867\ \(0\)\
+\-\ monitoring\\:\\ 0\\.10714236297527678\ \(0\)\
+\-\ emphysema\\:\\ 0\\.10540253009231959\ \(0\)\
+\-\ possibility\\:\\ 0\\.0999149775851402\ \(0\)\
+\-\ pneumothorax\\:\\ 0\\.0936368197408985\ \(0\)\
+\-\ afebrile\\:\\ 0\\.09276736698018706\ \(0\)\
+\-\ review\\:\\ 0\\.08847972519540417\ \(0\)\
+\-\ provided\\:\\ 0\\.08814437867584475\ \(0\)\
+\-\ linear\\:\\ 0\\.08655175730011053\ \(0\)\
+\-\ 35\\:\\ 0\\.08614885854447096\ \(0\)\
+\-\ tube\\:\\ 0\\.08585224141230709\ \(0\)\
+\-\ from\\:\\ 0\\.08534165849975472\ \(0\)\
+\-\ formation\\:\\ 0\\.08517777758190592\ \(0\)\
+\-\ initially\\:\\ 0\\.08425431819315303\ \(0\)\
+\-\ hand\\:\\ 0\\.08398588421546908\ \(0\)\
+\-\ placement\\:\\ 0\\.0838972497054299\ \(0\)\
+\-\ subsequent\\:\\ 0\\.08133805148525972\ \(0\)\
+\-\ about\\:\\ 0\\.08043380750975837\ \(0\)\
+\-\ extremity\\:\\ 0\\.07738383544926561\ \(0\)\
+\-\ available\\:\\ 0\\.07289530811253683\ \(0\)\
+\-\ extending\\:\\ 0\\.07284606678089604\ \(0\)\
+\-\ revealed\\:\\ 0\\.07044818894386488\ \(0\)\
+\-\ air\\:\\ 0\\.07027578683741498\ \(0\)\
+\-\ yo\\:\\ 0\\.06712275735439154\ \(0\)\
+\-\ renal\\:\\ 0\\.0669062630325926\ \(0\)\
+\-\ all\\:\\ 0\\.06395679637156411\ \(0\)\
+\-\ of\\:\\ 0\\.06307691698357723\ \(0\)\
+\-\ distal\\:\\ 0\\.06242562626934523\ \(0\)\
+\-\ bilateral\\:\\ 0\\.057742513249241685\ \(0\)\
+\-\ man\\:\\ 0\\.05688035822672901\ \(0\)\
+\-\ small\\:\\ 0\\.0554214512828738\ \(0\)\
+\-\ were\\:\\ 0\\.05538249615290745\ \(0\)\
+\-\ large\\:\\ 0\\.053833046102495404\ \(0\)\
+\-\ had\\:\\ 0\\.053530829541499195\ \(0\)\
+\-\ in\\:\\ 0\\.05345544114320093\ \(0\)\
+\-\ images\\:\\ 0\\.04969840483324949\ \(0\)\
+\-\ which\\:\\ 0\\.04885428454490593\ \(0\)\
+\-\ and\\:\\ 0\\.044402546241961265\ \(0\)\
+\-\ with\\:\\ 0\\.04207640361762968\ \(0\)\
+\-\ this\\:\\ 0\\.036918505919019906\ \(0\)\
+\-\ right\\:\\ 0\\.0356209859278534\ \(0\)\
+\-\ patient\\:\\ 0\\.034945015472441915\ \(0\)\

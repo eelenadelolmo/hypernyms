@@ -1,66 +1,64 @@
-Texto: 
-normal laboratory data.  physical exam subjectively demonstrated left adnexal mass.
-t2w mri image demonstrates two equal sized uterine cavities separated by a fundal cleft measuring greater than 1 cm.  normal endometrium is present within both cavities.  the tissue separating the cavities demonstrates signal intensity of myometrium.
-bicornuate uterus
-bicornuate uterus
-septate uterus
-21-year old woman with left adnexal mass and irregular menses presents for pelvic ultrasound, which showed an anomaly.
-
-
-Keywords by value: 
-- cavities: 0.46528971982767753
-- uterus: 0.3305470878614969
-- bicornuate: 0.30752310059666127
-- adnexal: 0.2505358809121787
-- subjectively: 0.19195943420196956
-- myometrium: 0.167766744749082
-- separating: 0.15966902774603586
-- endometrium: 0.1580370860912854
-- fundal: 0.15509657327589252
-- septate: 0.1525028571543408
-- separated: 0.1480838606915428
-- menses: 0.14710498242975548
-- sized: 0.12831016770145326
-- t2w: 0.12673656021309992
-- demonstrates: 0.12621679372439656
-- data: 0.12323377510884832
-- equal: 0.12021245069840712
-- uterine: 0.11730725647107854
-- anomaly: 0.11496236938050881
-- cleft: 0.11345790209004462
-- normal: 0.10257680332084518
-- pelvic: 0.09819401449530349
-- measuring: 0.09717903600422212
-- irregular: 0.09698153571232075
-- mass: 0.09596434980351407
-- greater: 0.09254467220194006
-- laboratory: 0.09121910644373661
-- intensity: 0.08919607243926793
-- left: 0.08570110081466789
-- showed: 0.08366951503521321
-- image: 0.08033641077901063
-- ultrasound: 0.07748262960364974
-- demonstrated: 0.07720056180467845
-- two: 0.07459795005184539
-- cm: 0.07214301889003819
-- than: 0.07120845990849359
-- signal: 0.07120845990849359
-- both: 0.0700499672197525
-- physical: 0.0681121858066831
-- tissue: 0.0658956192364751
-- woman: 0.06542151836410438
-- mri: 0.06448039908428145
-- present: 0.0644579399951979
-- exam: 0.0632354422238363
-- presents: 0.060428052380278145
-- within: 0.05785511679715411
-- which: 0.057119102448844536
-- by: 0.05334407941573932
-- the: 0.05013011323837185
-- an: 0.04803535322979184
-- for: 0.03807341712937801
-- old: 0.03717745108716731
-- is: 0.034400950076623735
-- and: 0.025957125474357162
-- with: 0.024597294088967714
-- of: 0.024582605987747745
+\-\ Texto\\:\\ \ \(0\)\
+\-\ normal\\ laboratory\\ data\\.\\ \\ physical\\ exam\\ subjectively\\ demonstrated\\ left\\ adnexal\\ mass\\.\ \(0\)\
+\-\ t2w\\ mri\\ image\\ demonstrates\\ two\\ equal\\ sized\\ uterine\\ cavities\\ separated\\ by\\ a\\ fundal\\ cleft\\ measuring\\ greater\\ than\\ 1\\ cm\\.\\ \\ normal\\ endometrium\\ is\\ present\\ within\\ both\\ cavities\\.\\ \\ the\\ tissue\\ separating\\ the\\ cavities\\ demonstrates\\ signal\\ intensity\\ of\\ myometrium\\.\ \(0\)\
+\-\ bicornuate\\ uterus\ \(14\)\
+\-\ bicornuate\\ uterus\ \(14\)\
+\-\ septate\\ uterus\ \(14\)\
+\-\ 21\\-year\\ old\\ woman\\ with\\ left\\ adnexal\\ mass\\ and\\ irregular\\ menses\\ presents\\ for\\ pelvic\\ ultrasound\\,\\ which\\ showed\\ an\\ anomaly\\.\ \(1\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ cavities\\:\\ 0\\.46528971982767753\ \(0\)\
+\-\ uterus\\:\\ 0\\.3305470878614969\ \(0\)\
+\-\ bicornuate\\:\\ 0\\.30752310059666127\ \(0\)\
+\-\ adnexal\\:\\ 0\\.2505358809121787\ \(0\)\
+\-\ subjectively\\:\\ 0\\.19195943420196956\ \(0\)\
+\-\ myometrium\\:\\ 0\\.167766744749082\ \(0\)\
+\-\ separating\\:\\ 0\\.15966902774603586\ \(0\)\
+\-\ endometrium\\:\\ 0\\.1580370860912854\ \(0\)\
+\-\ fundal\\:\\ 0\\.15509657327589252\ \(0\)\
+\-\ septate\\:\\ 0\\.1525028571543408\ \(0\)\
+\-\ separated\\:\\ 0\\.1480838606915428\ \(0\)\
+\-\ menses\\:\\ 0\\.14710498242975548\ \(0\)\
+\-\ sized\\:\\ 0\\.12831016770145326\ \(0\)\
+\-\ t2w\\:\\ 0\\.12673656021309992\ \(0\)\
+\-\ demonstrates\\:\\ 0\\.12621679372439656\ \(0\)\
+\-\ data\\:\\ 0\\.12323377510884832\ \(0\)\
+\-\ equal\\:\\ 0\\.12021245069840712\ \(0\)\
+\-\ uterine\\:\\ 0\\.11730725647107854\ \(0\)\
+\-\ anomaly\\:\\ 0\\.11496236938050881\ \(0\)\
+\-\ cleft\\:\\ 0\\.11345790209004462\ \(0\)\
+\-\ normal\\:\\ 0\\.10257680332084518\ \(0\)\
+\-\ pelvic\\:\\ 0\\.09819401449530349\ \(0\)\
+\-\ measuring\\:\\ 0\\.09717903600422212\ \(0\)\
+\-\ irregular\\:\\ 0\\.09698153571232075\ \(0\)\
+\-\ mass\\:\\ 0\\.09596434980351407\ \(0\)\
+\-\ greater\\:\\ 0\\.09254467220194006\ \(0\)\
+\-\ laboratory\\:\\ 0\\.09121910644373661\ \(0\)\
+\-\ intensity\\:\\ 0\\.08919607243926793\ \(0\)\
+\-\ left\\:\\ 0\\.08570110081466789\ \(0\)\
+\-\ showed\\:\\ 0\\.08366951503521321\ \(0\)\
+\-\ image\\:\\ 0\\.08033641077901063\ \(0\)\
+\-\ ultrasound\\:\\ 0\\.07748262960364974\ \(0\)\
+\-\ demonstrated\\:\\ 0\\.07720056180467845\ \(0\)\
+\-\ two\\:\\ 0\\.07459795005184539\ \(0\)\
+\-\ cm\\:\\ 0\\.07214301889003819\ \(0\)\
+\-\ than\\:\\ 0\\.07120845990849359\ \(0\)\
+\-\ signal\\:\\ 0\\.07120845990849359\ \(0\)\
+\-\ both\\:\\ 0\\.0700499672197525\ \(0\)\
+\-\ physical\\:\\ 0\\.0681121858066831\ \(0\)\
+\-\ tissue\\:\\ 0\\.0658956192364751\ \(0\)\
+\-\ woman\\:\\ 0\\.06542151836410438\ \(0\)\
+\-\ mri\\:\\ 0\\.06448039908428145\ \(0\)\
+\-\ present\\:\\ 0\\.0644579399951979\ \(0\)\
+\-\ exam\\:\\ 0\\.0632354422238363\ \(0\)\
+\-\ presents\\:\\ 0\\.060428052380278145\ \(0\)\
+\-\ within\\:\\ 0\\.05785511679715411\ \(0\)\
+\-\ which\\:\\ 0\\.057119102448844536\ \(0\)\
+\-\ by\\:\\ 0\\.05334407941573932\ \(0\)\
+\-\ the\\:\\ 0\\.05013011323837185\ \(0\)\
+\-\ an\\:\\ 0\\.04803535322979184\ \(0\)\
+\-\ for\\:\\ 0\\.03807341712937801\ \(0\)\
+\-\ old\\:\\ 0\\.03717745108716731\ \(0\)\
+\-\ is\\:\\ 0\\.034400950076623735\ \(0\)\
+\-\ and\\:\\ 0\\.025957125474357162\ \(0\)\
+\-\ with\\:\\ 0\\.024597294088967714\ \(0\)\
+\-\ of\\:\\ 0\\.024582605987747745\ \(0\)\

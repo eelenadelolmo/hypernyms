@@ -1,76 +1,74 @@
-Texto: 
-not available
-chemotherapy with some decrease in the enhancing portion of tumor over past 6 months.
-â€¢ enhancing lesions in the hypothalamus and chiasm.
-â€¢ elevated signal intensity basal ganglia bilaterally, likely due to myelinopathic changes.
-neurofibromatosis type 1 with hypothalmic and chiasmatic glioma
-â€¢ meningioma
-â€¢ craniopharyngioma
-â€¢ pituitary adenoma
-â€¢ neurofibromatosis hamartoma
-â€¢ neurofibromatosis neoplasm (astrocytoma)
-8 year old boy with a known diagnosis presents with decreasing visual acutity.
-this child was known to have neurofibromatosis type 1 (nf1 or von recklinghausen disease).
-
-
-Keywords by value: 
-- neurofibromatosis: 0.5195837003767442
-- myelinopathic: 0.2094791285171336
-- hypothalmic: 0.2094791285171336
-- acutity: 0.2094791285171336
-- chiasmatic: 0.18425184989460652
-- recklinghausen: 0.18071210963321846
-- type: 0.17574419025005603
-- known: 0.1696116652795283
-- enhancing: 0.1641129582237715
-- hypothalamus: 0.15902457127207942
-- nf1: 0.15902457127207942
-- decreasing: 0.1472945547128309
-- von: 0.14510596053243827
-- chiasm: 0.1390278628416776
-- hamartoma: 0.12884400719653427
-- craniopharyngioma: 0.1265621311332921
-- ganglia: 0.12311122215708806
-- pituitary: 0.12082573813428417
-- decrease: 0.11258716979216159
-- basal: 0.11208614209241682
-- visual: 0.11175809567641641
-- glioma: 0.1112746492183109
-- child: 0.10842870368210036
-- adenoma: 0.10443068725843317
-- with: 0.10259674395457727
-- astrocytoma: 0.09888446394742433
-- meningioma: 0.09815251804162742
-- portion: 0.093667670782011
-- chemotherapy: 0.09301050120295522
-- intensity: 0.09301050120295522
-- boy: 0.0896048359515165
-- neoplasm: 0.0894194013617058
-- elevated: 0.0892966050338692
-- available: 0.08887191654823837
-- bilaterally: 0.0873598911696345
-- past: 0.0852635791975001
-- some: 0.08241668820133748
-- changes: 0.07916398740977229
-- likely: 0.07827549012163823
-- months: 0.07624590477996475
-- due: 0.07529464444379254
-- lesions: 0.07522818170974377
-- signal: 0.07425365674580693
-- over: 0.07283536510247993
-- tumor: 0.06851458562817529
-- diagnosis: 0.0679035102236569
-- to: 0.06549373562903815
-- have: 0.0654359409055754
-- in: 0.06517137559791422
-- presents: 0.06301223007812327
-- disease: 0.05498431909125479
-- and: 0.05413433986797572
-- the: 0.05227390433403408
-- not: 0.0517111440924352
-- was: 0.04565078925770857
-- or: 0.045568566879328753
-- this: 0.045010007668195844
-- year: 0.04036807689894677
-- old: 0.03876732757958825
-- of: 0.02563386975757238
+\-\ Texto\\:\\ \ \(0\)\
+\-\ not\\ available\ \(73\)\
+\-\ chemotherapy\\ with\\ some\\ decrease\\ in\\ the\\ enhancing\\ portion\\ of\\ tumor\\ over\\ past\\ 6\\ months\\.\ \(0\)\
+\-\ \\â\\€\\¢\\ enhancing\\ lesions\\ in\\ the\\ hypothalamus\\ and\\ chiasm\\.\ \(0\)\
+\-\ \\â\\€\\¢\\ elevated\\ signal\\ intensity\\ basal\\ ganglia\\ bilaterally\\,\\ likely\\ due\\ to\\ myelinopathic\\ changes\\.\ \(0\)\
+\-\ neurofibromatosis\\ type\\ 1\\ with\\ hypothalmic\\ and\\ chiasmatic\\ glioma\ \(0\)\
+\-\ \\â\\€\\¢\\ meningioma\ \(7\)\
+\-\ \\â\\€\\¢\\ craniopharyngioma\ \(0\)\
+\-\ \\â\\€\\¢\\ pituitary\\ adenoma\ \(1\)\
+\-\ \\â\\€\\¢\\ neurofibromatosis\\ hamartoma\ \(0\)\
+\-\ \\â\\€\\¢\\ neurofibromatosis\\ neoplasm\\ \\(astrocytoma\\)\ \(0\)\
+\-\ 8\\ year\\ old\\ boy\\ with\\ a\\ known\\ diagnosis\\ presents\\ with\\ decreasing\\ visual\\ acutity\\.\ \(1\)\
+\-\ this\\ child\\ was\\ known\\ to\\ have\\ neurofibromatosis\\ type\\ 1\\ \\(nf1\\ or\\ von\\ recklinghausen\\ disease\\)\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ neurofibromatosis\\:\\ 0\\.5195837003767442\ \(0\)\
+\-\ myelinopathic\\:\\ 0\\.2094791285171336\ \(0\)\
+\-\ hypothalmic\\:\\ 0\\.2094791285171336\ \(0\)\
+\-\ acutity\\:\\ 0\\.2094791285171336\ \(0\)\
+\-\ chiasmatic\\:\\ 0\\.18425184989460652\ \(0\)\
+\-\ recklinghausen\\:\\ 0\\.18071210963321846\ \(0\)\
+\-\ type\\:\\ 0\\.17574419025005603\ \(0\)\
+\-\ known\\:\\ 0\\.1696116652795283\ \(0\)\
+\-\ enhancing\\:\\ 0\\.1641129582237715\ \(0\)\
+\-\ hypothalamus\\:\\ 0\\.15902457127207942\ \(0\)\
+\-\ nf1\\:\\ 0\\.15902457127207942\ \(0\)\
+\-\ decreasing\\:\\ 0\\.1472945547128309\ \(0\)\
+\-\ von\\:\\ 0\\.14510596053243827\ \(0\)\
+\-\ chiasm\\:\\ 0\\.1390278628416776\ \(0\)\
+\-\ hamartoma\\:\\ 0\\.12884400719653427\ \(0\)\
+\-\ craniopharyngioma\\:\\ 0\\.1265621311332921\ \(0\)\
+\-\ ganglia\\:\\ 0\\.12311122215708806\ \(0\)\
+\-\ pituitary\\:\\ 0\\.12082573813428417\ \(0\)\
+\-\ decrease\\:\\ 0\\.11258716979216159\ \(0\)\
+\-\ basal\\:\\ 0\\.11208614209241682\ \(0\)\
+\-\ visual\\:\\ 0\\.11175809567641641\ \(0\)\
+\-\ glioma\\:\\ 0\\.1112746492183109\ \(0\)\
+\-\ child\\:\\ 0\\.10842870368210036\ \(0\)\
+\-\ adenoma\\:\\ 0\\.10443068725843317\ \(0\)\
+\-\ with\\:\\ 0\\.10259674395457727\ \(0\)\
+\-\ astrocytoma\\:\\ 0\\.09888446394742433\ \(0\)\
+\-\ meningioma\\:\\ 0\\.09815251804162742\ \(0\)\
+\-\ portion\\:\\ 0\\.093667670782011\ \(0\)\
+\-\ chemotherapy\\:\\ 0\\.09301050120295522\ \(0\)\
+\-\ intensity\\:\\ 0\\.09301050120295522\ \(0\)\
+\-\ boy\\:\\ 0\\.0896048359515165\ \(0\)\
+\-\ neoplasm\\:\\ 0\\.0894194013617058\ \(0\)\
+\-\ elevated\\:\\ 0\\.0892966050338692\ \(0\)\
+\-\ available\\:\\ 0\\.08887191654823837\ \(0\)\
+\-\ bilaterally\\:\\ 0\\.0873598911696345\ \(0\)\
+\-\ past\\:\\ 0\\.0852635791975001\ \(0\)\
+\-\ some\\:\\ 0\\.08241668820133748\ \(0\)\
+\-\ changes\\:\\ 0\\.07916398740977229\ \(0\)\
+\-\ likely\\:\\ 0\\.07827549012163823\ \(0\)\
+\-\ months\\:\\ 0\\.07624590477996475\ \(0\)\
+\-\ due\\:\\ 0\\.07529464444379254\ \(0\)\
+\-\ lesions\\:\\ 0\\.07522818170974377\ \(0\)\
+\-\ signal\\:\\ 0\\.07425365674580693\ \(0\)\
+\-\ over\\:\\ 0\\.07283536510247993\ \(0\)\
+\-\ tumor\\:\\ 0\\.06851458562817529\ \(0\)\
+\-\ diagnosis\\:\\ 0\\.0679035102236569\ \(0\)\
+\-\ to\\:\\ 0\\.06549373562903815\ \(0\)\
+\-\ have\\:\\ 0\\.0654359409055754\ \(0\)\
+\-\ in\\:\\ 0\\.06517137559791422\ \(0\)\
+\-\ presents\\:\\ 0\\.06301223007812327\ \(0\)\
+\-\ disease\\:\\ 0\\.05498431909125479\ \(0\)\
+\-\ and\\:\\ 0\\.05413433986797572\ \(0\)\
+\-\ the\\:\\ 0\\.05227390433403408\ \(0\)\
+\-\ not\\:\\ 0\\.0517111440924352\ \(0\)\
+\-\ was\\:\\ 0\\.04565078925770857\ \(0\)\
+\-\ or\\:\\ 0\\.045568566879328753\ \(0\)\
+\-\ this\\:\\ 0\\.045010007668195844\ \(0\)\
+\-\ year\\:\\ 0\\.04036807689894677\ \(0\)\
+\-\ old\\:\\ 0\\.03876732757958825\ \(0\)\
+\-\ of\\:\\ 0\\.02563386975757238\ \(0\)\

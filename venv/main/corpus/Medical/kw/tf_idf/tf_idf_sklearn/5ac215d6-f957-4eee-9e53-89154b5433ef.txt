@@ -1,105 +1,102 @@
-Texto: 
-rebound tenderness with palpation of abdomen and associated guarding.
-
-fever 103 f
-wbc 17,000
-patient underwent an uneventful appendectomy.  a ladd's procedure was not performed given symptoms were believed to be primarily the result of the acute appendicitis and not due to malrotation.
-contrast enhanced axial ct images of the abdomen demonstrates the presence of a "whirlpool sign" - inversion of the superior mesenteric vessels - all of the small bowel loops on the right, left-sided colon, and inflamatory changes within the appendix consistent with phlegmon.
-incidental malrotation and acute appendicitis
-malrotation
-diverticulitis
-acute appendicitis
-mesenteric adenitis
-infectious enteritis
-atypical cholecystitis
-67 year old male presents to the ed with acute onset of lower abdominal pain associated with fever, nausea and vomiting.
-this is a case of acute appendicitis in an adult with incidental malrotation of the midgut.
-
-
-Keywords by value: 
-- malrotation: 0.4027631090078683
-- appendicitis: 0.3386390860634684
-- acute: 0.2699425039267603
-- the: 0.19913906678599616
-- of: 0.17577544551161
-- mesenteric: 0.17234223484244274
-- whirlpool: 0.159603452986717
-- incidental: 0.14795696065566588
-- fever: 0.13533265368179298
-- inflamatory: 0.13328879920216866
-- ladd: 0.13144545955885004
-- abdomen: 0.12179042783934334
-- phlegmon: 0.12116181151040169
-- adenitis: 0.12021587600743534
-- enteritis: 0.11931847186708307
-- midgut: 0.11687326051443526
-- uneventful: 0.11343170670873605
-- 103: 0.1100348414203193
-- inversion: 0.1100348414203193
-- believed: 0.10675947346047902
-- appendectomy: 0.10552398063522606
-- associated: 0.10520517413347288
-- and: 0.10311322695065944
-- 67: 0.09816705172864192
-- with: 0.09771137294356567
-- guarding: 0.09765243977627762
-- cholecystitis: 0.09619363308459238
-- primarily: 0.09573319743254602
-- rebound: 0.09506449648354913
-- diverticulitis: 0.09379920709417576
-- adult: 0.09205788257956837
-- loops: 0.09064333108433975
-- appendix: 0.08997675350994391
-- atypical: 0.08187684799245235
-- infectious: 0.08030315456990039
-- ed: 0.07983905454565425
-- procedure: 0.07956639118277897
-- not: 0.07879808564671666
-- vessels: 0.07744569370059146
-- nausea: 0.07666451282697935
-- an: 0.0763270999962107
-- enhanced: 0.07599008283410533
-- colon: 0.07599008283410533
-- to: 0.07485012776252808
-- result: 0.07471453914434825
-- vomiting: 0.07384791595319948
-- presence: 0.0717079252403675
-- wbc: 0.07053926690672739
-- sign: 0.06909338477485465
-- underwent: 0.06874984269900081
-- given: 0.06865291422390986
-- palpation: 0.06730464894803757
-- superior: 0.06488474690654693
-- onset: 0.06408502892172933
-- bowel: 0.06404784390240963
-- tenderness: 0.06258755145258127
-- changes: 0.06031553516685183
-- all: 0.05940913048870154
-- performed: 0.05904257060955373
-- axial: 0.05764862028833197
-- due: 0.057367458656643694
-- symptoms: 0.054605428902670575
-- abdominal: 0.054583789388466177
-- consistent: 0.05411436855847716
-- small: 0.051480693498296676
-- were: 0.05144450828373511
-- lower: 0.05099839678634645
-- demonstrates: 0.050138914299833824
-- case: 0.050138914299833824
-- contrast: 0.048491246115729636
-- presents: 0.048009410637009434
-- images: 0.04616458586614832
-- within: 0.04596524214097017
-- male: 0.04443522411782161
-- be: 0.04048525741827509
-- ct: 0.03799516039211786
-- pain: 0.03571245432857576
-- was: 0.03478162072124183
-- this: 0.03429340523638419
-- right: 0.03308814576686544
-- patient: 0.03246024037962964
-- year: 0.030756689265958318
-- on: 0.030141601316864382
-- old: 0.029537068387523836
-- is: 0.02733116943995553
-- in: 0.024827238529566958
+\-\ Texto\\:\\ \ \(0\)\
+\-\ rebound\\ tenderness\\ with\\ palpation\\ of\\ abdomen\\ and\\ associated\\ guarding\\.\ \(0\)\
+\-\ fever\\ 103\\ f\ \(0\)\
+\-\ wbc\\ 17\\,000\ \(0\)\
+\-\ patient\\ underwent\\ an\\ uneventful\\ appendectomy\\.\\ \\ a\\ ladd\\'s\\ procedure\\ was\\ not\\ performed\\ given\\ symptoms\\ were\\ believed\\ to\\ be\\ primarily\\ the\\ result\\ of\\ the\\ acute\\ appendicitis\\ and\\ not\\ due\\ to\\ malrotation\\.\ \(0\)\
+\-\ contrast\\ enhanced\\ axial\\ ct\\ images\\ of\\ the\\ abdomen\\ demonstrates\\ the\\ presence\\ of\\ a\\ \\"whirlpool\\ sign\\"\\ \\-\\ inversion\\ of\\ the\\ superior\\ mesenteric\\ vessels\\ \\-\\ all\\ of\\ the\\ small\\ bowel\\ loops\\ on\\ the\\ right\\,\\ left\\-sided\\ colon\\,\\ and\\ inflamatory\\ changes\\ within\\ the\\ appendix\\ consistent\\ with\\ phlegmon\\.\ \(0\)\
+\-\ incidental\\ malrotation\\ and\\ acute\\ appendicitis\ \(0\)\
+\-\ malrotation\ \(81\)\
+\-\ diverticulitis\ \(62\)\
+\-\ acute\\ appendicitis\ \(36\)\
+\-\ mesenteric\\ adenitis\ \(1\)\
+\-\ infectious\\ enteritis\ \(2\)\
+\-\ atypical\\ cholecystitis\ \(0\)\
+\-\ 67\\ year\\ old\\ male\\ presents\\ to\\ the\\ ed\\ with\\ acute\\ onset\\ of\\ lower\\ abdominal\\ pain\\ associated\\ with\\ fever\\,\\ nausea\\ and\\ vomiting\\.\ \(0\)\
+\-\ this\\ is\\ a\\ case\\ of\\ acute\\ appendicitis\\ in\\ an\\ adult\\ with\\ incidental\\ malrotation\\ of\\ the\\ midgut\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ malrotation\\:\\ 0\\.4027631090078683\ \(0\)\
+\-\ appendicitis\\:\\ 0\\.3386390860634684\ \(0\)\
+\-\ acute\\:\\ 0\\.2699425039267603\ \(0\)\
+\-\ the\\:\\ 0\\.19913906678599616\ \(0\)\
+\-\ of\\:\\ 0\\.17577544551161\ \(0\)\
+\-\ mesenteric\\:\\ 0\\.17234223484244274\ \(0\)\
+\-\ whirlpool\\:\\ 0\\.159603452986717\ \(0\)\
+\-\ incidental\\:\\ 0\\.14795696065566588\ \(0\)\
+\-\ fever\\:\\ 0\\.13533265368179298\ \(0\)\
+\-\ inflamatory\\:\\ 0\\.13328879920216866\ \(0\)\
+\-\ ladd\\:\\ 0\\.13144545955885004\ \(0\)\
+\-\ abdomen\\:\\ 0\\.12179042783934334\ \(0\)\
+\-\ phlegmon\\:\\ 0\\.12116181151040169\ \(0\)\
+\-\ adenitis\\:\\ 0\\.12021587600743534\ \(0\)\
+\-\ enteritis\\:\\ 0\\.11931847186708307\ \(0\)\
+\-\ midgut\\:\\ 0\\.11687326051443526\ \(0\)\
+\-\ uneventful\\:\\ 0\\.11343170670873605\ \(0\)\
+\-\ 103\\:\\ 0\\.1100348414203193\ \(0\)\
+\-\ inversion\\:\\ 0\\.1100348414203193\ \(0\)\
+\-\ believed\\:\\ 0\\.10675947346047902\ \(0\)\
+\-\ appendectomy\\:\\ 0\\.10552398063522606\ \(0\)\
+\-\ associated\\:\\ 0\\.10520517413347288\ \(0\)\
+\-\ and\\:\\ 0\\.10311322695065944\ \(0\)\
+\-\ 67\\:\\ 0\\.09816705172864192\ \(0\)\
+\-\ with\\:\\ 0\\.09771137294356567\ \(0\)\
+\-\ guarding\\:\\ 0\\.09765243977627762\ \(0\)\
+\-\ cholecystitis\\:\\ 0\\.09619363308459238\ \(0\)\
+\-\ primarily\\:\\ 0\\.09573319743254602\ \(0\)\
+\-\ rebound\\:\\ 0\\.09506449648354913\ \(0\)\
+\-\ diverticulitis\\:\\ 0\\.09379920709417576\ \(0\)\
+\-\ adult\\:\\ 0\\.09205788257956837\ \(0\)\
+\-\ loops\\:\\ 0\\.09064333108433975\ \(0\)\
+\-\ appendix\\:\\ 0\\.08997675350994391\ \(0\)\
+\-\ atypical\\:\\ 0\\.08187684799245235\ \(0\)\
+\-\ infectious\\:\\ 0\\.08030315456990039\ \(0\)\
+\-\ ed\\:\\ 0\\.07983905454565425\ \(0\)\
+\-\ procedure\\:\\ 0\\.07956639118277897\ \(0\)\
+\-\ not\\:\\ 0\\.07879808564671666\ \(0\)\
+\-\ vessels\\:\\ 0\\.07744569370059146\ \(0\)\
+\-\ nausea\\:\\ 0\\.07666451282697935\ \(0\)\
+\-\ an\\:\\ 0\\.0763270999962107\ \(0\)\
+\-\ enhanced\\:\\ 0\\.07599008283410533\ \(0\)\
+\-\ colon\\:\\ 0\\.07599008283410533\ \(0\)\
+\-\ to\\:\\ 0\\.07485012776252808\ \(0\)\
+\-\ result\\:\\ 0\\.07471453914434825\ \(0\)\
+\-\ vomiting\\:\\ 0\\.07384791595319948\ \(0\)\
+\-\ presence\\:\\ 0\\.0717079252403675\ \(0\)\
+\-\ wbc\\:\\ 0\\.07053926690672739\ \(0\)\
+\-\ sign\\:\\ 0\\.06909338477485465\ \(0\)\
+\-\ underwent\\:\\ 0\\.06874984269900081\ \(0\)\
+\-\ given\\:\\ 0\\.06865291422390986\ \(0\)\
+\-\ palpation\\:\\ 0\\.06730464894803757\ \(0\)\
+\-\ superior\\:\\ 0\\.06488474690654693\ \(0\)\
+\-\ onset\\:\\ 0\\.06408502892172933\ \(0\)\
+\-\ bowel\\:\\ 0\\.06404784390240963\ \(0\)\
+\-\ tenderness\\:\\ 0\\.06258755145258127\ \(0\)\
+\-\ changes\\:\\ 0\\.06031553516685183\ \(0\)\
+\-\ all\\:\\ 0\\.05940913048870154\ \(0\)\
+\-\ performed\\:\\ 0\\.05904257060955373\ \(0\)\
+\-\ axial\\:\\ 0\\.05764862028833197\ \(0\)\
+\-\ due\\:\\ 0\\.057367458656643694\ \(0\)\
+\-\ symptoms\\:\\ 0\\.054605428902670575\ \(0\)\
+\-\ abdominal\\:\\ 0\\.054583789388466177\ \(0\)\
+\-\ consistent\\:\\ 0\\.05411436855847716\ \(0\)\
+\-\ small\\:\\ 0\\.051480693498296676\ \(0\)\
+\-\ were\\:\\ 0\\.05144450828373511\ \(0\)\
+\-\ lower\\:\\ 0\\.05099839678634645\ \(0\)\
+\-\ demonstrates\\:\\ 0\\.050138914299833824\ \(0\)\
+\-\ case\\:\\ 0\\.050138914299833824\ \(0\)\
+\-\ contrast\\:\\ 0\\.048491246115729636\ \(0\)\
+\-\ presents\\:\\ 0\\.048009410637009434\ \(0\)\
+\-\ images\\:\\ 0\\.04616458586614832\ \(0\)\
+\-\ within\\:\\ 0\\.04596524214097017\ \(0\)\
+\-\ male\\:\\ 0\\.04443522411782161\ \(0\)\
+\-\ be\\:\\ 0\\.04048525741827509\ \(0\)\
+\-\ ct\\:\\ 0\\.03799516039211786\ \(0\)\
+\-\ pain\\:\\ 0\\.03571245432857576\ \(0\)\
+\-\ was\\:\\ 0\\.03478162072124183\ \(0\)\
+\-\ this\\:\\ 0\\.03429340523638419\ \(0\)\
+\-\ right\\:\\ 0\\.03308814576686544\ \(0\)\
+\-\ patient\\:\\ 0\\.03246024037962964\ \(0\)\
+\-\ year\\:\\ 0\\.030756689265958318\ \(0\)\
+\-\ on\\:\\ 0\\.030141601316864382\ \(0\)\
+\-\ old\\:\\ 0\\.029537068387523836\ \(0\)\
+\-\ is\\:\\ 0\\.02733116943995553\ \(0\)\
+\-\ in\\:\\ 0\\.024827238529566958\ \(0\)\

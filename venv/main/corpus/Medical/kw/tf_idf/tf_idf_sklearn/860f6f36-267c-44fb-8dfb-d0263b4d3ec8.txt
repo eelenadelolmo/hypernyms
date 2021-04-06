@@ -1,56 +1,54 @@
-Texto: 
-no neurological deficit.
-surgical
-image one: vertebral artery flow is reversed. image 2/3: lao and ap views of aortogram. abrupt cutoff of left subclavian artery at origin. bovine arch. image 4: delayed images show subclavian steal. image 5: companion case of partial steal/ vertebral artery reversal.
-subclavian steal
-subclavian stenosis and steal
-inominate artery stenosis and steal
-asvd, trauma, emboli, congenital, surgical, neoplastic.
-70 y/o female with dizziness.
-
-
-Keywords by value: 
-- steal: 0.6479334385686785
-- subclavian: 0.35768167479595436
-- image: 0.24443534192050503
-- artery: 0.237375919662241
-- inominate: 0.15280799886690652
-- cutoff: 0.1460162007458151
-- asvd: 0.1460162007458151
-- vertebral: 0.14593425806757482
-- stenosis: 0.14536882235910314
-- bovine: 0.13745954706015764
-- lao: 0.13440554516922965
-- aortogram: 0.1295866877137357
-- reversed: 0.12425238542874488
-- reversal: 0.10860211220907844
-- abrupt: 0.10486431597891496
-- companion: 0.103051669696562
-- emboli: 0.09373922005847214
-- dizziness: 0.09325366040232953
-- surgical: 0.09288250376380047
-- deficit: 0.0904002673189718
-- neoplastic: 0.08831558084053631
-- origin: 0.082252185967127
-- arch: 0.08105520292813365
-- 70: 0.07889082434773367
-- neurological: 0.0784895923449858
-- views: 0.07541907923022532
-- delayed: 0.07477163109075967
-- partial: 0.07362124996363002
-- congenital: 0.06865480886425582
-- ap: 0.06859979851851969
-- flow: 0.06364420042430681
-- show: 0.06065842932108686
-- and: 0.059233778112623106
-- of: 0.05609714488404272
-- trauma: 0.05549279046034495
-- one: 0.05470784403007901
-- case: 0.048004144121835325
-- female: 0.046108111104504544
-- images: 0.04419903111565323
-- at: 0.036091093568832784
-- left: 0.03259477501774041
-- no: 0.03107233146013119
-- is: 0.026167487173097304
-- with: 0.018710220971581242
+\-\ Texto\\:\\ \ \(0\)\
+\-\ no\\ neurological\\ deficit\\.\ \(0\)\
+\-\ surgical\ \(1169\)\
+\-\ image\\ one\\:\\ vertebral\\ artery\\ flow\\ is\\ reversed\\.\\ image\\ 2\\/3\\:\\ lao\\ and\\ ap\\ views\\ of\\ aortogram\\.\\ abrupt\\ cutoff\\ of\\ left\\ subclavian\\ artery\\ at\\ origin\\.\\ bovine\\ arch\\.\\ image\\ 4\\:\\ delayed\\ images\\ show\\ subclavian\\ steal\\.\\ image\\ 5\\:\\ companion\\ case\\ of\\ partial\\ steal\\/\\ vertebral\\ artery\\ reversal\\.\ \(0\)\
+\-\ subclavian\\ steal\ \(2\)\
+\-\ subclavian\\ stenosis\\ and\\ steal\ \(0\)\
+\-\ inominate\\ artery\\ stenosis\\ and\\ steal\ \(0\)\
+\-\ asvd\\,\\ trauma\\,\\ emboli\\,\\ congenital\\,\\ surgical\\,\\ neoplastic\\.\ \(0\)\
+\-\ 70\\ y\\/o\\ female\\ with\\ dizziness\\.\ \(1\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ steal\\:\\ 0\\.6479334385686785\ \(0\)\
+\-\ subclavian\\:\\ 0\\.35768167479595436\ \(0\)\
+\-\ image\\:\\ 0\\.24443534192050503\ \(0\)\
+\-\ artery\\:\\ 0\\.237375919662241\ \(0\)\
+\-\ inominate\\:\\ 0\\.15280799886690652\ \(0\)\
+\-\ cutoff\\:\\ 0\\.1460162007458151\ \(0\)\
+\-\ asvd\\:\\ 0\\.1460162007458151\ \(0\)\
+\-\ vertebral\\:\\ 0\\.14593425806757482\ \(0\)\
+\-\ stenosis\\:\\ 0\\.14536882235910314\ \(0\)\
+\-\ bovine\\:\\ 0\\.13745954706015764\ \(0\)\
+\-\ lao\\:\\ 0\\.13440554516922965\ \(0\)\
+\-\ aortogram\\:\\ 0\\.1295866877137357\ \(0\)\
+\-\ reversed\\:\\ 0\\.12425238542874488\ \(0\)\
+\-\ reversal\\:\\ 0\\.10860211220907844\ \(0\)\
+\-\ abrupt\\:\\ 0\\.10486431597891496\ \(0\)\
+\-\ companion\\:\\ 0\\.103051669696562\ \(0\)\
+\-\ emboli\\:\\ 0\\.09373922005847214\ \(0\)\
+\-\ dizziness\\:\\ 0\\.09325366040232953\ \(0\)\
+\-\ surgical\\:\\ 0\\.09288250376380047\ \(0\)\
+\-\ deficit\\:\\ 0\\.0904002673189718\ \(0\)\
+\-\ neoplastic\\:\\ 0\\.08831558084053631\ \(0\)\
+\-\ origin\\:\\ 0\\.082252185967127\ \(0\)\
+\-\ arch\\:\\ 0\\.08105520292813365\ \(0\)\
+\-\ 70\\:\\ 0\\.07889082434773367\ \(0\)\
+\-\ neurological\\:\\ 0\\.0784895923449858\ \(0\)\
+\-\ views\\:\\ 0\\.07541907923022532\ \(0\)\
+\-\ delayed\\:\\ 0\\.07477163109075967\ \(0\)\
+\-\ partial\\:\\ 0\\.07362124996363002\ \(0\)\
+\-\ congenital\\:\\ 0\\.06865480886425582\ \(0\)\
+\-\ ap\\:\\ 0\\.06859979851851969\ \(0\)\
+\-\ flow\\:\\ 0\\.06364420042430681\ \(0\)\
+\-\ show\\:\\ 0\\.06065842932108686\ \(0\)\
+\-\ and\\:\\ 0\\.059233778112623106\ \(0\)\
+\-\ of\\:\\ 0\\.05609714488404272\ \(0\)\
+\-\ trauma\\:\\ 0\\.05549279046034495\ \(0\)\
+\-\ one\\:\\ 0\\.05470784403007901\ \(0\)\
+\-\ case\\:\\ 0\\.048004144121835325\ \(0\)\
+\-\ female\\:\\ 0\\.046108111104504544\ \(0\)\
+\-\ images\\:\\ 0\\.04419903111565323\ \(0\)\
+\-\ at\\:\\ 0\\.036091093568832784\ \(0\)\
+\-\ left\\:\\ 0\\.03259477501774041\ \(0\)\
+\-\ no\\:\\ 0\\.03107233146013119\ \(0\)\
+\-\ is\\:\\ 0\\.026167487173097304\ \(0\)\
+\-\ with\\:\\ 0\\.018710220971581242\ \(0\)\

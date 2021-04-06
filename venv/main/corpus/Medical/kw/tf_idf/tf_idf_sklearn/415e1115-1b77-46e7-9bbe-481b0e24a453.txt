@@ -1,92 +1,90 @@
-Texto: 
-below 2 standard deviations, height for age.
-a patient such as this should be further evaluated with chemical tests to ascertain whether an underlying metabolic disorder exists, assuming patient history is not explanatory (eg. chronic renal disease, etc.). additional skeletal plain radiographs may also be helpful to verify the abnormality and assess its extent.
-single frontal view of the non-dominant hand is within standards for bone age, but is notable for metaphyseal fraying, especially affecting the distal ulna. fifth metacarpal is partially obscured but bowed.
-metaphyseal fraying
-rickets (generic term encompassing a variety of underlying disorders)
-developmental variation
-6 yom with delayed growth.
-
-
-Keywords by value: 
-- fraying: 0.27591694252640264
-- metaphyseal: 0.2345454255878453
-- underlying: 0.18242563776473966
-- explanatory: 0.17869017578045024
-- generic: 0.17074800253610187
-- ascertain: 0.16511294094136728
-- standards: 0.16074204759578298
-- encompassing: 0.15415129356610166
-- yom: 0.1515357061022843
-- deviations: 0.1492285944526705
-- assuming: 0.1492285944526705
-- bowed: 0.1492285944526705
-- verify: 0.14716481275670001
-- age: 0.1402979235631749
-- exists: 0.13922263951235161
-- variation: 0.13677096772785205
-- obscured: 0.13358757791761702
-- metacarpal: 0.12500312387449222
-- rickets: 0.12319373288876907
-- is: 0.12239864188696166
-- chemical: 0.1215374388911378
-- ulna: 0.12001034307853405
-- eg: 0.11905465064358732
-- variety: 0.11814342544537976
-- affecting: 0.11239738446384834
-- notable: 0.1117443970185242
-- fifth: 0.11111247739923893
-- but: 0.11050724503197118
-- etc: 0.10990669312586532
-- whether: 0.10933053954957427
-- height: 0.10718177807011414
-- tests: 0.10692902863594729
-- helpful: 0.10594943405115079
-- standard: 0.10369547795483967
-- assess: 0.10327421850667073
-- extent: 0.10225907895668299
-- for: 0.10159896467070956
-- metabolic: 0.10129396704121268
-- skeletal: 0.10129396704121268
-- disorders: 0.09865485067442047
-- developmental: 0.0966240173619484
-- partially: 0.09589576213383287
-- evaluated: 0.09547146086418545
-- disorder: 0.09451576842923873
-- growth: 0.09213476831263907
-- below: 0.09201712345826803
-- be: 0.09065364977022684
-- especially: 0.08838728504243396
-- term: 0.08762278569412034
-- delayed: 0.08743623371860275
-- hand: 0.08734361979017584
-- additional: 0.0866180624216295
-- single: 0.08591842342851057
-- its: 0.08267927062828247
-- view: 0.08182439418867614
-- abnormality: 0.08127452483617083
-- plain: 0.07372024168035153
-- should: 0.07290772757299072
-- further: 0.0727755258830534
-- patient: 0.07268421767534594
-- radiographs: 0.0724704815299541
-- frontal: 0.07191627367621653
-- such: 0.07187428478688744
-- renal: 0.06958115943516979
-- the: 0.06688613720350896
-- chronic: 0.06632329117257602
-- distal: 0.06492138788519211
-- bone: 0.06096663967720687
-- may: 0.05622907430911985
-- to: 0.0558675569013261
-- also: 0.05255740823613926
-- within: 0.051462152254591206
-- disease: 0.04690279987860972
-- as: 0.044888313432672064
-- not: 0.044110711616454246
-- with: 0.04375860817619778
-- of: 0.043732478030995135
-- an: 0.04272746817160025
-- history: 0.0426896173204573
-- this: 0.038394498960556314
-- and: 0.023088874713301153
+\-\ Texto\\:\\ \ \(0\)\
+\-\ below\\ 2\\ standard\\ deviations\\,\\ height\\ for\\ age\\.\ \(0\)\
+\-\ a\\ patient\\ such\\ as\\ this\\ should\\ be\\ further\\ evaluated\\ with\\ chemical\\ tests\\ to\\ ascertain\\ whether\\ an\\ underlying\\ metabolic\\ disorder\\ exists\\,\\ assuming\\ patient\\ history\\ is\\ not\\ explanatory\\ \\(eg\\.\\ chronic\\ renal\\ disease\\,\\ etc\\.\\)\\.\\ additional\\ skeletal\\ plain\\ radiographs\\ may\\ also\\ be\\ helpful\\ to\\ verify\\ the\\ abnormality\\ and\\ assess\\ its\\ extent\\.\ \(0\)\
+\-\ single\\ frontal\\ view\\ of\\ the\\ non\\-dominant\\ hand\\ is\\ within\\ standards\\ for\\ bone\\ age\\,\\ but\\ is\\ notable\\ for\\ metaphyseal\\ fraying\\,\\ especially\\ affecting\\ the\\ distal\\ ulna\\.\\ fifth\\ metacarpal\\ is\\ partially\\ obscured\\ but\\ bowed\\.\ \(0\)\
+\-\ metaphyseal\\ fraying\ \(3\)\
+\-\ rickets\\ \\(generic\\ term\\ encompassing\\ a\\ variety\\ of\\ underlying\\ disorders\\)\ \(0\)\
+\-\ developmental\\ variation\ \(0\)\
+\-\ 6\\ yom\\ with\\ delayed\\ growth\\.\ \(1\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ fraying\\:\\ 0\\.27591694252640264\ \(0\)\
+\-\ metaphyseal\\:\\ 0\\.2345454255878453\ \(0\)\
+\-\ underlying\\:\\ 0\\.18242563776473966\ \(0\)\
+\-\ explanatory\\:\\ 0\\.17869017578045024\ \(0\)\
+\-\ generic\\:\\ 0\\.17074800253610187\ \(0\)\
+\-\ ascertain\\:\\ 0\\.16511294094136728\ \(0\)\
+\-\ standards\\:\\ 0\\.16074204759578298\ \(0\)\
+\-\ encompassing\\:\\ 0\\.15415129356610166\ \(0\)\
+\-\ yom\\:\\ 0\\.1515357061022843\ \(0\)\
+\-\ deviations\\:\\ 0\\.1492285944526705\ \(0\)\
+\-\ assuming\\:\\ 0\\.1492285944526705\ \(0\)\
+\-\ bowed\\:\\ 0\\.1492285944526705\ \(0\)\
+\-\ verify\\:\\ 0\\.14716481275670001\ \(0\)\
+\-\ age\\:\\ 0\\.1402979235631749\ \(0\)\
+\-\ exists\\:\\ 0\\.13922263951235161\ \(0\)\
+\-\ variation\\:\\ 0\\.13677096772785205\ \(0\)\
+\-\ obscured\\:\\ 0\\.13358757791761702\ \(0\)\
+\-\ metacarpal\\:\\ 0\\.12500312387449222\ \(0\)\
+\-\ rickets\\:\\ 0\\.12319373288876907\ \(0\)\
+\-\ is\\:\\ 0\\.12239864188696166\ \(0\)\
+\-\ chemical\\:\\ 0\\.1215374388911378\ \(0\)\
+\-\ ulna\\:\\ 0\\.12001034307853405\ \(0\)\
+\-\ eg\\:\\ 0\\.11905465064358732\ \(0\)\
+\-\ variety\\:\\ 0\\.11814342544537976\ \(0\)\
+\-\ affecting\\:\\ 0\\.11239738446384834\ \(0\)\
+\-\ notable\\:\\ 0\\.1117443970185242\ \(0\)\
+\-\ fifth\\:\\ 0\\.11111247739923893\ \(0\)\
+\-\ but\\:\\ 0\\.11050724503197118\ \(0\)\
+\-\ etc\\:\\ 0\\.10990669312586532\ \(0\)\
+\-\ whether\\:\\ 0\\.10933053954957427\ \(0\)\
+\-\ height\\:\\ 0\\.10718177807011414\ \(0\)\
+\-\ tests\\:\\ 0\\.10692902863594729\ \(0\)\
+\-\ helpful\\:\\ 0\\.10594943405115079\ \(0\)\
+\-\ standard\\:\\ 0\\.10369547795483967\ \(0\)\
+\-\ assess\\:\\ 0\\.10327421850667073\ \(0\)\
+\-\ extent\\:\\ 0\\.10225907895668299\ \(0\)\
+\-\ for\\:\\ 0\\.10159896467070956\ \(0\)\
+\-\ metabolic\\:\\ 0\\.10129396704121268\ \(0\)\
+\-\ skeletal\\:\\ 0\\.10129396704121268\ \(0\)\
+\-\ disorders\\:\\ 0\\.09865485067442047\ \(0\)\
+\-\ developmental\\:\\ 0\\.0966240173619484\ \(0\)\
+\-\ partially\\:\\ 0\\.09589576213383287\ \(0\)\
+\-\ evaluated\\:\\ 0\\.09547146086418545\ \(0\)\
+\-\ disorder\\:\\ 0\\.09451576842923873\ \(0\)\
+\-\ growth\\:\\ 0\\.09213476831263907\ \(0\)\
+\-\ below\\:\\ 0\\.09201712345826803\ \(0\)\
+\-\ be\\:\\ 0\\.09065364977022684\ \(0\)\
+\-\ especially\\:\\ 0\\.08838728504243396\ \(0\)\
+\-\ term\\:\\ 0\\.08762278569412034\ \(0\)\
+\-\ delayed\\:\\ 0\\.08743623371860275\ \(0\)\
+\-\ hand\\:\\ 0\\.08734361979017584\ \(0\)\
+\-\ additional\\:\\ 0\\.0866180624216295\ \(0\)\
+\-\ single\\:\\ 0\\.08591842342851057\ \(0\)\
+\-\ its\\:\\ 0\\.08267927062828247\ \(0\)\
+\-\ view\\:\\ 0\\.08182439418867614\ \(0\)\
+\-\ abnormality\\:\\ 0\\.08127452483617083\ \(0\)\
+\-\ plain\\:\\ 0\\.07372024168035153\ \(0\)\
+\-\ should\\:\\ 0\\.07290772757299072\ \(0\)\
+\-\ further\\:\\ 0\\.0727755258830534\ \(0\)\
+\-\ patient\\:\\ 0\\.07268421767534594\ \(0\)\
+\-\ radiographs\\:\\ 0\\.0724704815299541\ \(0\)\
+\-\ frontal\\:\\ 0\\.07191627367621653\ \(0\)\
+\-\ such\\:\\ 0\\.07187428478688744\ \(0\)\
+\-\ renal\\:\\ 0\\.06958115943516979\ \(0\)\
+\-\ the\\:\\ 0\\.06688613720350896\ \(0\)\
+\-\ chronic\\:\\ 0\\.06632329117257602\ \(0\)\
+\-\ distal\\:\\ 0\\.06492138788519211\ \(0\)\
+\-\ bone\\:\\ 0\\.06096663967720687\ \(0\)\
+\-\ may\\:\\ 0\\.05622907430911985\ \(0\)\
+\-\ to\\:\\ 0\\.0558675569013261\ \(0\)\
+\-\ also\\:\\ 0\\.05255740823613926\ \(0\)\
+\-\ within\\:\\ 0\\.051462152254591206\ \(0\)\
+\-\ disease\\:\\ 0\\.04690279987860972\ \(0\)\
+\-\ as\\:\\ 0\\.044888313432672064\ \(0\)\
+\-\ not\\:\\ 0\\.044110711616454246\ \(0\)\
+\-\ with\\:\\ 0\\.04375860817619778\ \(0\)\
+\-\ of\\:\\ 0\\.043732478030995135\ \(0\)\
+\-\ an\\:\\ 0\\.04272746817160025\ \(0\)\
+\-\ history\\:\\ 0\\.0426896173204573\ \(0\)\
+\-\ this\\:\\ 0\\.038394498960556314\ \(0\)\
+\-\ and\\:\\ 0\\.023088874713301153\ \(0\)\

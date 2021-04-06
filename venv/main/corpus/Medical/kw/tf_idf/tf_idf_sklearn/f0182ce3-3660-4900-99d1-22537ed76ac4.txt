@@ -1,71 +1,69 @@
-Texto: 
-bilateral shoulders demonstrated decreased range of motion.
-the patient was referred to orthopedic surgery for further management.
-there is flattening of the bilateral humeral heads with associated mixed subchondral lucent and sclerotic changes. the joint spaces are also narrowed.
-avascular necrosis (dx verified by combination of clinical hx and radiographic findings)
-avascular necrosis
-34 yo dialysis dependent african american female with sle complained of chronic bilateral shoulder pain. the patient related a history of long-term steroid therapy.
-
-
-Keywords by value: 
-- avascular: 0.29836637845872455
-- bilateral: 0.24187939927570637
-- necrosis: 0.22934741233627262
-- verified: 0.1927932999593512
-- dx: 0.16869556524981616
-- dialysis: 0.16618898153337391
-- shoulders: 0.16179558883134001
-- heads: 0.16179558883134001
-- narrowed: 0.16112975014170877
-- sle: 0.15922777290223664
-- flattening: 0.14795974894293687
-- of: 0.14679158223889
-- lucent: 0.14495084555146975
-- humeral: 0.14459783054028108
-- dependent: 0.14459783054028108
-- complained: 0.14459783054028108
-- steroid: 0.14459783054028108
-- subchondral: 0.143566356240903
-- combination: 0.13922488699790228
-- spaces: 0.13651122171186716
-- hx: 0.13651122171186716
-- african: 0.1354995883968005
-- orthopedic: 0.1331286845520146
-- 34: 0.13074605655659652
-- american: 0.12799587301874504
-- sclerotic: 0.1258478042295375
-- mixed: 0.1241827404456206
-- the: 0.11973797478986532
-- shoulder: 0.11653637635124627
-- range: 0.11641601356240211
-- motion: 0.11629619912529442
-- related: 0.11400786747850504
-- radiographic: 0.11130279811457862
-- referred: 0.11100785046098882
-- management: 0.11081304050757448
-- joint: 0.0988556990156725
-- further: 0.09771076393219068
-- patient: 0.09758817059301354
-- clinical: 0.09507583889496761
-- yo: 0.09372419795520674
-- decreased: 0.09292567821716072
-- demonstrated: 0.09219846441575937
-- changes: 0.09066603738038619
-- chronic: 0.08904778589141844
-- therapy: 0.0861964149917714
-- surgery: 0.08065727981301046
-- associated: 0.07907196897290959
-- findings: 0.07404105496543113
-- female: 0.07239173327342063
-- also: 0.07056526829227652
-- by: 0.06370733700419044
-- and: 0.06199973299256194
-- there: 0.059692627562823286
-- with: 0.0587517160697197
-- history: 0.05731645453249937
-- are: 0.056925896012497416
-- pain: 0.05368279847211686
-- was: 0.05228357363884638
-- for: 0.04547001358967561
-- is: 0.041084089252258496
-- to: 0.03750479022732051
+\-\ Texto\\:\\ \ \(0\)\
+\-\ bilateral\\ shoulders\\ demonstrated\\ decreased\\ range\\ of\\ motion\\.\ \(0\)\
+\-\ the\\ patient\\ was\\ referred\\ to\\ orthopedic\\ surgery\\ for\\ further\\ management\\.\ \(0\)\
+\-\ there\\ is\\ flattening\\ of\\ the\\ bilateral\\ humeral\\ heads\\ with\\ associated\\ mixed\\ subchondral\\ lucent\\ and\\ sclerotic\\ changes\\.\\ the\\ joint\\ spaces\\ are\\ also\\ narrowed\\.\ \(0\)\
+\-\ avascular\\ necrosis\\ \\(dx\\ verified\\ by\\ combination\\ of\\ clinical\\ hx\\ and\\ radiographic\\ findings\\)\ \(0\)\
+\-\ avascular\\ necrosis\ \(69\)\
+\-\ 34\\ yo\\ dialysis\\ dependent\\ african\\ american\\ female\\ with\\ sle\\ complained\\ of\\ chronic\\ bilateral\\ shoulder\\ pain\\.\\ the\\ patient\\ related\\ a\\ history\\ of\\ long\\-term\\ steroid\\ therapy\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ avascular\\:\\ 0\\.29836637845872455\ \(0\)\
+\-\ bilateral\\:\\ 0\\.24187939927570637\ \(0\)\
+\-\ necrosis\\:\\ 0\\.22934741233627262\ \(0\)\
+\-\ verified\\:\\ 0\\.1927932999593512\ \(0\)\
+\-\ dx\\:\\ 0\\.16869556524981616\ \(0\)\
+\-\ dialysis\\:\\ 0\\.16618898153337391\ \(0\)\
+\-\ shoulders\\:\\ 0\\.16179558883134001\ \(0\)\
+\-\ heads\\:\\ 0\\.16179558883134001\ \(0\)\
+\-\ narrowed\\:\\ 0\\.16112975014170877\ \(0\)\
+\-\ sle\\:\\ 0\\.15922777290223664\ \(0\)\
+\-\ flattening\\:\\ 0\\.14795974894293687\ \(0\)\
+\-\ of\\:\\ 0\\.14679158223889\ \(0\)\
+\-\ lucent\\:\\ 0\\.14495084555146975\ \(0\)\
+\-\ humeral\\:\\ 0\\.14459783054028108\ \(0\)\
+\-\ dependent\\:\\ 0\\.14459783054028108\ \(0\)\
+\-\ complained\\:\\ 0\\.14459783054028108\ \(0\)\
+\-\ steroid\\:\\ 0\\.14459783054028108\ \(0\)\
+\-\ subchondral\\:\\ 0\\.143566356240903\ \(0\)\
+\-\ combination\\:\\ 0\\.13922488699790228\ \(0\)\
+\-\ spaces\\:\\ 0\\.13651122171186716\ \(0\)\
+\-\ hx\\:\\ 0\\.13651122171186716\ \(0\)\
+\-\ african\\:\\ 0\\.1354995883968005\ \(0\)\
+\-\ orthopedic\\:\\ 0\\.1331286845520146\ \(0\)\
+\-\ 34\\:\\ 0\\.13074605655659652\ \(0\)\
+\-\ american\\:\\ 0\\.12799587301874504\ \(0\)\
+\-\ sclerotic\\:\\ 0\\.1258478042295375\ \(0\)\
+\-\ mixed\\:\\ 0\\.1241827404456206\ \(0\)\
+\-\ the\\:\\ 0\\.11973797478986532\ \(0\)\
+\-\ shoulder\\:\\ 0\\.11653637635124627\ \(0\)\
+\-\ range\\:\\ 0\\.11641601356240211\ \(0\)\
+\-\ motion\\:\\ 0\\.11629619912529442\ \(0\)\
+\-\ related\\:\\ 0\\.11400786747850504\ \(0\)\
+\-\ radiographic\\:\\ 0\\.11130279811457862\ \(0\)\
+\-\ referred\\:\\ 0\\.11100785046098882\ \(0\)\
+\-\ management\\:\\ 0\\.11081304050757448\ \(0\)\
+\-\ joint\\:\\ 0\\.0988556990156725\ \(0\)\
+\-\ further\\:\\ 0\\.09771076393219068\ \(0\)\
+\-\ patient\\:\\ 0\\.09758817059301354\ \(0\)\
+\-\ clinical\\:\\ 0\\.09507583889496761\ \(0\)\
+\-\ yo\\:\\ 0\\.09372419795520674\ \(0\)\
+\-\ decreased\\:\\ 0\\.09292567821716072\ \(0\)\
+\-\ demonstrated\\:\\ 0\\.09219846441575937\ \(0\)\
+\-\ changes\\:\\ 0\\.09066603738038619\ \(0\)\
+\-\ chronic\\:\\ 0\\.08904778589141844\ \(0\)\
+\-\ therapy\\:\\ 0\\.0861964149917714\ \(0\)\
+\-\ surgery\\:\\ 0\\.08065727981301046\ \(0\)\
+\-\ associated\\:\\ 0\\.07907196897290959\ \(0\)\
+\-\ findings\\:\\ 0\\.07404105496543113\ \(0\)\
+\-\ female\\:\\ 0\\.07239173327342063\ \(0\)\
+\-\ also\\:\\ 0\\.07056526829227652\ \(0\)\
+\-\ by\\:\\ 0\\.06370733700419044\ \(0\)\
+\-\ and\\:\\ 0\\.06199973299256194\ \(0\)\
+\-\ there\\:\\ 0\\.059692627562823286\ \(0\)\
+\-\ with\\:\\ 0\\.0587517160697197\ \(0\)\
+\-\ history\\:\\ 0\\.05731645453249937\ \(0\)\
+\-\ are\\:\\ 0\\.056925896012497416\ \(0\)\
+\-\ pain\\:\\ 0\\.05368279847211686\ \(0\)\
+\-\ was\\:\\ 0\\.05228357363884638\ \(0\)\
+\-\ for\\:\\ 0\\.04547001358967561\ \(0\)\
+\-\ is\\:\\ 0\\.041084089252258496\ \(0\)\
+\-\ to\\:\\ 0\\.03750479022732051\ \(0\)\

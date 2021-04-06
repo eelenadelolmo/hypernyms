@@ -1,179 +1,170 @@
-Texto: 
-pcr of csf:
-hsv 1 dnaâ€¦..detected
-hsv 2 dnaâ€¦..not detected
-
-csf:
-glucose . . . . . . .   115.0     h           (40-70)        mg/dl
-protein csf . . . . .   150       h           (12-60)        mg/dl
-color. . . . . .   colorless                              
-appear . . . . . . .   clear                              
-wbc. . . . . . . .   259       h          (0.0-5.0)       cu/mm
-rbc . . . . . . . . . 133     h            (0-1)         cu/mm
-lymph.. . . . . . . .  99       h           (40-80)        %
-mono  . . . . . . . .   1                                  %
-      
-serum wbc: 11.2
-intravenous acyclovir.
-non-contrast ct: hypoattenuation in the left temporal and inferior frontal lobes.  mild mass effect is also seen with effacement of the sylvian cistern, and ambient cistern.
-
-contrast enhanced ct:  patchy peripheral enhancement in the bilateral temporal lobes, and insula.  there are also foci of circumscribed low density within the left insula, and evidence of subtle mass effect.
-
-mri:
-
-dwi: t2 signal hyperintensity with restricted diffusion, in the left temporal lobe, and bilateral insula.
-
-t2wi: increased signal intensity and swelling of the gray matter of the left temporal lobe with mild mass effect, evidenced by effacement of the ambient cistern at the left medial temporal lobe and midbrain.  additionally, there is mild increased signal intensity of the right medial temporal lobe.  also, there is increased signal intensity in the left greater than right insular gray matter.
-
-coronal t2-weighted flair mr shows bilateral asymmetric involvement of the medial temporal lobes and insula.
- 
-t1wi:  low signal intensity in the left greater than right insula secondary to surrounding edema, with no evidence of hyperintensity to suggest the presence of subacute blood products.  
-
-post-gadolinium t1wi demonstrates patchy peripheral enhancement in the left temporal lobe, and left greater than right insula.
-herpes encephalitis hsv-1
-hsv encephalitis
-ischemia
-infiltrating neoplasm
-status epilepticus
-abscess
-other encephalitides (neurosyphilis)
-21 yo male presenting with fever, new onset of aphasia, and one episode of loss of consciousness.
-the prognosis of this patient is very poor, as he presented with aphasia, and one episode of loss of consciousness before receiving intravenous acyclovir.
-
-
-Keywords by value: 
-- insula: 0.39631667432676926
-- temporal: 0.3039357639885473
-- hsv: 0.2442572203929633
-- of: 0.16453642557970652
-- the: 0.15789700389844075
-- left: 0.15183927830189756
-- cistern: 0.14407133817654985
-- lobe: 0.14290603613545183
-- intensity: 0.14047237965231965
-- signal: 0.1401802447850723
-- ambient: 0.13414794330466714
-- acyclovir: 0.12711708415270237
-- lobes: 0.12379419892562037
-- csf: 0.1172390217076479
-- and: 0.11241764892393159
-- aphasia: 0.11010927708829614
-- greater: 0.10930949625502165
-- t1wi: 0.10806689189255209
-- effect: 0.10408135313916385
-- hyperintensity: 0.09864047378315471
-- encephalitis: 0.09836302414780858
-- effacement: 0.09808994398011063
-- medial: 0.09657923873626792
-- patchy: 0.0962900834687926
-- detected: 0.09488334767871812
-- consciousness: 0.09237194540262551
-- episode: 0.09052549711953205
-- intravenous: 0.09017868091328411
-- gray: 0.08464101849861637
-- mild: 0.08410814687104337
-- than: 0.08410814687104337
-- increased: 0.08023278803022033
-- bilateral: 0.07974085188390313
-- encephalitides: 0.07909330476051908
-- colorless: 0.0755778751845367
-- 259: 0.0755778751845367
-- matter: 0.07531549810360545
-- in: 0.0738205210464175
-- neurosyphilis: 0.07308363820642633
-- epilepticus: 0.07114895770175896
-- peripheral: 0.07073244655744894
-- wbc: 0.06991307055871424
-- also: 0.06979016762765038
-- right: 0.06558882651033801
-- hypoattenuation: 0.06431294081991631
-- insular: 0.06431294081991631
-- mono: 0.06355854207635118
-- pcr: 0.0628645625050629
-- loss: 0.060262639627508004
-- there: 0.05903695379558716
-- evidenced: 0.05870660820397944
-- 133: 0.05830327426582356
-- with: 0.05810637743110007
-- sylvian: 0.05754887552225843
-- enhancement: 0.05693374873698654
-- t2: 0.056908526576510604
-- low: 0.05675795921425816
-- mass: 0.056674330817084596
-- one: 0.05663347747169645
-- evidence: 0.056144298846668904
-- herpes: 0.05532990344567011
-- midbrain: 0.05505463854414807
-- is: 0.054177086360548785
-- 150: 0.05379589365808561
-- t2wi: 0.052905870220645954
-- products: 0.052293607711730805
-- receiving: 0.05136043735349733
-- rbc: 0.04975024813119577
-- 99: 0.04851934947826723
-- infiltrating: 0.04851934947826723
-- contrast: 0.048060776073158486
-- glucose: 0.04778622710399286
-- dwi: 0.04700258679431126
-- subacute: 0.04628394115763805
-- protein: 0.04589853921374411
-- color: 0.04458900264091639
-- asymmetric: 0.044508349816200894
-- serum: 0.04434926065297067
-- prognosis: 0.04352291032522079
-- ischemia: 0.042834444341485554
-- subtle: 0.04263813143848143
-- restricted: 0.04250968292417447
-- flair: 0.04207453201036737
-- poor: 0.041718175708831115
-- diffusion: 0.04166018140473816
-- additionally: 0.040729370582819426
-- foci: 0.040423334712869526
-- suggest: 0.04017630614722
-- before: 0.03998362897041289
-- 21: 0.039519875859980166
-- coronal: 0.039385452762134864
-- appear: 0.038951856607793066
-- presenting: 0.0387429280370338
-- lymph: 0.038458636465112855
-- circumscribed: 0.038300273776903794
-- ct: 0.03765786697069376
-- enhanced: 0.037657749051802726
-- clear: 0.03585521512766811
-- involvement: 0.03579623451834288
-- presence: 0.03553567719648851
-- very: 0.035478823772209685
-- status: 0.03451448459861648
-- new: 0.03421548544702787
-- neoplasm: 0.033762198713873794
-- inferior: 0.03364674938973639
-- fever: 0.033532817183456146
-- swelling: 0.03328731486757028
-- surrounding: 0.032984586794099324
-- density: 0.032795413119233036
-- mr: 0.03200125502553995
-- frontal: 0.03183216831183061
-- abscess: 0.031758064304002624
-- onset: 0.031758064304002624
-- yo: 0.03089823858279438
-- edema: 0.02949753732900541
-- secondary: 0.029314705720755504
-- he: 0.02928691686320029
-- shows: 0.029027272233186848
-- presented: 0.028840810936298256
-- blood: 0.02872302641509321
-- other: 0.025684072268895113
-- mri: 0.02538709063245893
-- demonstrates: 0.02484690872827386
-- to: 0.024728554241568234
-- seen: 0.02328418917793327
-- within: 0.022778598062971587
-- male: 0.02202038024544074
-- by: 0.021002521666504233
-- as: 0.01986883184265391
-- not: 0.01952464337698238
-- are: 0.018766870828535846
-- at: 0.018680722762859973
-- this: 0.016994486653512775
-- patient: 0.01608604097781911
-- no: 0.016083015287285878
+\-\ Texto\\:\\ \ \(0\)\
+\-\ pcr\\ of\\ csf\\:\ \(0\)\
+\-\ hsv\\ 1\\ dna\\â\\€\\¦\\.\\.detected\ \(0\)\
+\-\ hsv\\ 2\\ dna\\â\\€\\¦\\.\\.not\\ detected\ \(0\)\
+\-\ csf\\:\ \(0\)\
+\-\ glucose\\ \\.\\ \\.\\ \\.\\ \\.\\ \\.\\ \\.\\ \\.\\ \\ \\ 115\\.0\\ \\ \\ \\ \\ h\\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\(40\\-70\\)\\ \\ \\ \\ \\ \\ \\ \\ mg\\/dl\ \(0\)\
+\-\ protein\\ csf\\ \\.\\ \\.\\ \\.\\ \\.\\ \\.\\ \\ \\ 150\\ \\ \\ \\ \\ \\ \\ h\\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\(12\\-60\\)\\ \\ \\ \\ \\ \\ \\ \\ mg\\/dl\ \(0\)\
+\-\ color\\.\\ \\.\\ \\.\\ \\.\\ \\.\\ \\.\\ \\ \\ colorless\\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \ \(0\)\
+\-\ appear\\ \\.\\ \\.\\ \\.\\ \\.\\ \\.\\ \\.\\ \\.\\ \\ \\ clear\\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \ \(0\)\
+\-\ wbc\\.\\ \\.\\ \\.\\ \\.\\ \\.\\ \\.\\ \\.\\ \\.\\ \\ \\ 259\\ \\ \\ \\ \\ \\ \\ h\\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\(0\\.0\\-5\\.0\\)\\ \\ \\ \\ \\ \\ \\ cu\\/mm\ \(0\)\
+\-\ rbc\\ \\.\\ \\.\\ \\.\\ \\.\\ \\.\\ \\.\\ \\.\\ \\.\\ \\.\\ 133\\ \\ \\ \\ \\ h\\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\(0\\-1\\)\\ \\ \\ \\ \\ \\ \\ \\ \\ cu\\/mm\ \(0\)\
+\-\ lymph\\.\\.\\ \\.\\ \\.\\ \\.\\ \\.\\ \\.\\ \\.\\ \\.\\ \\ 99\\ \\ \\ \\ \\ \\ \\ h\\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\(40\\-80\\)\\ \\ \\ \\ \\ \\ \\ \\ \\%\ \(0\)\
+\-\ mono\\ \\ \\.\\ \\.\\ \\.\\ \\.\\ \\.\\ \\.\\ \\.\\ \\.\\ \\ \\ 1\\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\%\ \(0\)\
+\-\ \\ \\ \\ \\ \\ \\ \ \(1250\)\
+\-\ serum\\ wbc\\:\\ 11\\.2\ \(0\)\
+\-\ intravenous\\ acyclovir\\.\ \(1\)\
+\-\ non\\-contrast\\ ct\\:\\ hypoattenuation\\ in\\ the\\ left\\ temporal\\ and\\ inferior\\ frontal\\ lobes\\.\\ \\ mild\\ mass\\ effect\\ is\\ also\\ seen\\ with\\ effacement\\ of\\ the\\ sylvian\\ cistern\\,\\ and\\ ambient\\ cistern\\.\ \(0\)\
+\-\ contrast\\ enhanced\\ ct\\:\\ \\ patchy\\ peripheral\\ enhancement\\ in\\ the\\ bilateral\\ temporal\\ lobes\\,\\ and\\ insula\\.\\ \\ there\\ are\\ also\\ foci\\ of\\ circumscribed\\ low\\ density\\ within\\ the\\ left\\ insula\\,\\ and\\ evidence\\ of\\ subtle\\ mass\\ effect\\.\ \(0\)\
+\-\ mri\\:\ \(0\)\
+\-\ dwi\\:\\ t2\\ signal\\ hyperintensity\\ with\\ restricted\\ diffusion\\,\\ in\\ the\\ left\\ temporal\\ lobe\\,\\ and\\ bilateral\\ insula\\.\ \(0\)\
+\-\ t2wi\\:\\ increased\\ signal\\ intensity\\ and\\ swelling\\ of\\ the\\ gray\\ matter\\ of\\ the\\ left\\ temporal\\ lobe\\ with\\ mild\\ mass\\ effect\\,\\ evidenced\\ by\\ effacement\\ of\\ the\\ ambient\\ cistern\\ at\\ the\\ left\\ medial\\ temporal\\ lobe\\ and\\ midbrain\\.\\ \\ additionally\\,\\ there\\ is\\ mild\\ increased\\ signal\\ intensity\\ of\\ the\\ right\\ medial\\ temporal\\ lobe\\.\\ \\ also\\,\\ there\\ is\\ increased\\ signal\\ intensity\\ in\\ the\\ left\\ greater\\ than\\ right\\ insular\\ gray\\ matter\\.\ \(0\)\
+\-\ coronal\\ t2\\-weighted\\ flair\\ mr\\ shows\\ bilateral\\ asymmetric\\ involvement\\ of\\ the\\ medial\\ temporal\\ lobes\\ and\\ insula\\.\ \(0\)\
+\-\ \\ \ \(1082074\)\
+\-\ t1wi\\:\\ \\ low\\ signal\\ intensity\\ in\\ the\\ left\\ greater\\ than\\ right\\ insula\\ secondary\\ to\\ surrounding\\ edema\\,\\ with\\ no\\ evidence\\ of\\ hyperintensity\\ to\\ suggest\\ the\\ presence\\ of\\ subacute\\ blood\\ products\\.\\ \\ \ \(0\)\
+\-\ post\\-gadolinium\\ t1wi\\ demonstrates\\ patchy\\ peripheral\\ enhancement\\ in\\ the\\ left\\ temporal\\ lobe\\,\\ and\\ left\\ greater\\ than\\ right\\ insula\\.\ \(0\)\
+\-\ herpes\\ encephalitis\\ hsv\\-1\ \(0\)\
+\-\ hsv\\ encephalitis\ \(0\)\
+\-\ ischemia\ \(171\)\
+\-\ infiltrating\\ neoplasm\ \(3\)\
+\-\ status\\ epilepticus\ \(3\)\
+\-\ abscess\ \(594\)\
+\-\ other\\ encephalitides\\ \\(neurosyphilis\\)\ \(0\)\
+\-\ 21\\ yo\\ male\\ presenting\\ with\\ fever\\,\\ new\\ onset\\ of\\ aphasia\\,\\ and\\ one\\ episode\\ of\\ loss\\ of\\ consciousness\\.\ \(1\)\
+\-\ the\\ prognosis\\ of\\ this\\ patient\\ is\\ very\\ poor\\,\\ as\\ he\\ presented\\ with\\ aphasia\\,\\ and\\ one\\ episode\\ of\\ loss\\ of\\ consciousness\\ before\\ receiving\\ intravenous\\ acyclovir\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ insula\\:\\ 0\\.39631667432676926\ \(0\)\
+\-\ temporal\\:\\ 0\\.3039357639885473\ \(0\)\
+\-\ hsv\\:\\ 0\\.2442572203929633\ \(0\)\
+\-\ of\\:\\ 0\\.16453642557970652\ \(0\)\
+\-\ the\\:\\ 0\\.15789700389844075\ \(0\)\
+\-\ left\\:\\ 0\\.15183927830189756\ \(0\)\
+\-\ cistern\\:\\ 0\\.14407133817654985\ \(0\)\
+\-\ lobe\\:\\ 0\\.14290603613545183\ \(0\)\
+\-\ intensity\\:\\ 0\\.14047237965231965\ \(0\)\
+\-\ signal\\:\\ 0\\.1401802447850723\ \(0\)\
+\-\ ambient\\:\\ 0\\.13414794330466714\ \(0\)\
+\-\ acyclovir\\:\\ 0\\.12711708415270237\ \(0\)\
+\-\ lobes\\:\\ 0\\.12379419892562037\ \(0\)\
+\-\ csf\\:\\ 0\\.1172390217076479\ \(0\)\
+\-\ and\\:\\ 0\\.11241764892393159\ \(0\)\
+\-\ aphasia\\:\\ 0\\.11010927708829614\ \(0\)\
+\-\ greater\\:\\ 0\\.10930949625502165\ \(0\)\
+\-\ t1wi\\:\\ 0\\.10806689189255209\ \(0\)\
+\-\ effect\\:\\ 0\\.10408135313916385\ \(0\)\
+\-\ hyperintensity\\:\\ 0\\.09864047378315471\ \(0\)\
+\-\ encephalitis\\:\\ 0\\.09836302414780858\ \(0\)\
+\-\ effacement\\:\\ 0\\.09808994398011063\ \(0\)\
+\-\ medial\\:\\ 0\\.09657923873626792\ \(0\)\
+\-\ patchy\\:\\ 0\\.0962900834687926\ \(0\)\
+\-\ detected\\:\\ 0\\.09488334767871812\ \(0\)\
+\-\ consciousness\\:\\ 0\\.09237194540262551\ \(0\)\
+\-\ episode\\:\\ 0\\.09052549711953205\ \(0\)\
+\-\ intravenous\\:\\ 0\\.09017868091328411\ \(0\)\
+\-\ gray\\:\\ 0\\.08464101849861637\ \(0\)\
+\-\ mild\\:\\ 0\\.08410814687104337\ \(0\)\
+\-\ than\\:\\ 0\\.08410814687104337\ \(0\)\
+\-\ increased\\:\\ 0\\.08023278803022033\ \(0\)\
+\-\ bilateral\\:\\ 0\\.07974085188390313\ \(0\)\
+\-\ encephalitides\\:\\ 0\\.07909330476051908\ \(0\)\
+\-\ colorless\\:\\ 0\\.0755778751845367\ \(0\)\
+\-\ 259\\:\\ 0\\.0755778751845367\ \(0\)\
+\-\ matter\\:\\ 0\\.07531549810360545\ \(0\)\
+\-\ in\\:\\ 0\\.0738205210464175\ \(0\)\
+\-\ neurosyphilis\\:\\ 0\\.07308363820642633\ \(0\)\
+\-\ epilepticus\\:\\ 0\\.07114895770175896\ \(0\)\
+\-\ peripheral\\:\\ 0\\.07073244655744894\ \(0\)\
+\-\ wbc\\:\\ 0\\.06991307055871424\ \(0\)\
+\-\ also\\:\\ 0\\.06979016762765038\ \(0\)\
+\-\ right\\:\\ 0\\.06558882651033801\ \(0\)\
+\-\ hypoattenuation\\:\\ 0\\.06431294081991631\ \(0\)\
+\-\ insular\\:\\ 0\\.06431294081991631\ \(0\)\
+\-\ mono\\:\\ 0\\.06355854207635118\ \(0\)\
+\-\ pcr\\:\\ 0\\.0628645625050629\ \(0\)\
+\-\ loss\\:\\ 0\\.060262639627508004\ \(0\)\
+\-\ there\\:\\ 0\\.05903695379558716\ \(0\)\
+\-\ evidenced\\:\\ 0\\.05870660820397944\ \(0\)\
+\-\ 133\\:\\ 0\\.05830327426582356\ \(0\)\
+\-\ with\\:\\ 0\\.05810637743110007\ \(0\)\
+\-\ sylvian\\:\\ 0\\.05754887552225843\ \(0\)\
+\-\ enhancement\\:\\ 0\\.05693374873698654\ \(0\)\
+\-\ t2\\:\\ 0\\.056908526576510604\ \(0\)\
+\-\ low\\:\\ 0\\.05675795921425816\ \(0\)\
+\-\ mass\\:\\ 0\\.056674330817084596\ \(0\)\
+\-\ one\\:\\ 0\\.05663347747169645\ \(0\)\
+\-\ evidence\\:\\ 0\\.056144298846668904\ \(0\)\
+\-\ herpes\\:\\ 0\\.05532990344567011\ \(0\)\
+\-\ midbrain\\:\\ 0\\.05505463854414807\ \(0\)\
+\-\ is\\:\\ 0\\.054177086360548785\ \(0\)\
+\-\ 150\\:\\ 0\\.05379589365808561\ \(0\)\
+\-\ t2wi\\:\\ 0\\.052905870220645954\ \(0\)\
+\-\ products\\:\\ 0\\.052293607711730805\ \(0\)\
+\-\ receiving\\:\\ 0\\.05136043735349733\ \(0\)\
+\-\ rbc\\:\\ 0\\.04975024813119577\ \(0\)\
+\-\ 99\\:\\ 0\\.04851934947826723\ \(0\)\
+\-\ infiltrating\\:\\ 0\\.04851934947826723\ \(0\)\
+\-\ contrast\\:\\ 0\\.048060776073158486\ \(0\)\
+\-\ glucose\\:\\ 0\\.04778622710399286\ \(0\)\
+\-\ dwi\\:\\ 0\\.04700258679431126\ \(0\)\
+\-\ subacute\\:\\ 0\\.04628394115763805\ \(0\)\
+\-\ protein\\:\\ 0\\.04589853921374411\ \(0\)\
+\-\ color\\:\\ 0\\.04458900264091639\ \(0\)\
+\-\ asymmetric\\:\\ 0\\.044508349816200894\ \(0\)\
+\-\ serum\\:\\ 0\\.04434926065297067\ \(0\)\
+\-\ prognosis\\:\\ 0\\.04352291032522079\ \(0\)\
+\-\ ischemia\\:\\ 0\\.042834444341485554\ \(0\)\
+\-\ subtle\\:\\ 0\\.04263813143848143\ \(0\)\
+\-\ restricted\\:\\ 0\\.04250968292417447\ \(0\)\
+\-\ flair\\:\\ 0\\.04207453201036737\ \(0\)\
+\-\ poor\\:\\ 0\\.041718175708831115\ \(0\)\
+\-\ diffusion\\:\\ 0\\.04166018140473816\ \(0\)\
+\-\ additionally\\:\\ 0\\.040729370582819426\ \(0\)\
+\-\ foci\\:\\ 0\\.040423334712869526\ \(0\)\
+\-\ suggest\\:\\ 0\\.04017630614722\ \(0\)\
+\-\ before\\:\\ 0\\.03998362897041289\ \(0\)\
+\-\ 21\\:\\ 0\\.039519875859980166\ \(0\)\
+\-\ coronal\\:\\ 0\\.039385452762134864\ \(0\)\
+\-\ appear\\:\\ 0\\.038951856607793066\ \(0\)\
+\-\ presenting\\:\\ 0\\.0387429280370338\ \(0\)\
+\-\ lymph\\:\\ 0\\.038458636465112855\ \(0\)\
+\-\ circumscribed\\:\\ 0\\.038300273776903794\ \(0\)\
+\-\ ct\\:\\ 0\\.03765786697069376\ \(0\)\
+\-\ enhanced\\:\\ 0\\.037657749051802726\ \(0\)\
+\-\ clear\\:\\ 0\\.03585521512766811\ \(0\)\
+\-\ involvement\\:\\ 0\\.03579623451834288\ \(0\)\
+\-\ presence\\:\\ 0\\.03553567719648851\ \(0\)\
+\-\ very\\:\\ 0\\.035478823772209685\ \(0\)\
+\-\ status\\:\\ 0\\.03451448459861648\ \(0\)\
+\-\ new\\:\\ 0\\.03421548544702787\ \(0\)\
+\-\ neoplasm\\:\\ 0\\.033762198713873794\ \(0\)\
+\-\ inferior\\:\\ 0\\.03364674938973639\ \(0\)\
+\-\ fever\\:\\ 0\\.033532817183456146\ \(0\)\
+\-\ swelling\\:\\ 0\\.03328731486757028\ \(0\)\
+\-\ surrounding\\:\\ 0\\.032984586794099324\ \(0\)\
+\-\ density\\:\\ 0\\.032795413119233036\ \(0\)\
+\-\ mr\\:\\ 0\\.03200125502553995\ \(0\)\
+\-\ frontal\\:\\ 0\\.03183216831183061\ \(0\)\
+\-\ abscess\\:\\ 0\\.031758064304002624\ \(0\)\
+\-\ onset\\:\\ 0\\.031758064304002624\ \(0\)\
+\-\ yo\\:\\ 0\\.03089823858279438\ \(0\)\
+\-\ edema\\:\\ 0\\.02949753732900541\ \(0\)\
+\-\ secondary\\:\\ 0\\.029314705720755504\ \(0\)\
+\-\ he\\:\\ 0\\.02928691686320029\ \(0\)\
+\-\ shows\\:\\ 0\\.029027272233186848\ \(0\)\
+\-\ presented\\:\\ 0\\.028840810936298256\ \(0\)\
+\-\ blood\\:\\ 0\\.02872302641509321\ \(0\)\
+\-\ other\\:\\ 0\\.025684072268895113\ \(0\)\
+\-\ mri\\:\\ 0\\.02538709063245893\ \(0\)\
+\-\ demonstrates\\:\\ 0\\.02484690872827386\ \(0\)\
+\-\ to\\:\\ 0\\.024728554241568234\ \(0\)\
+\-\ seen\\:\\ 0\\.02328418917793327\ \(0\)\
+\-\ within\\:\\ 0\\.022778598062971587\ \(0\)\
+\-\ male\\:\\ 0\\.02202038024544074\ \(0\)\
+\-\ by\\:\\ 0\\.021002521666504233\ \(0\)\
+\-\ as\\:\\ 0\\.01986883184265391\ \(0\)\
+\-\ not\\:\\ 0\\.01952464337698238\ \(0\)\
+\-\ are\\:\\ 0\\.018766870828535846\ \(0\)\
+\-\ at\\:\\ 0\\.018680722762859973\ \(0\)\
+\-\ this\\:\\ 0\\.016994486653512775\ \(0\)\
+\-\ patient\\:\\ 0\\.01608604097781911\ \(0\)\
+\-\ no\\:\\ 0\\.016083015287285878\ \(0\)\

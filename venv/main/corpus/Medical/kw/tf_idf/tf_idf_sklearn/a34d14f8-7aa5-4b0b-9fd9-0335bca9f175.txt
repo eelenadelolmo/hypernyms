@@ -1,68 +1,64 @@
-Texto: 
-well nourished and well developed.
-elevated d-dimer.
-reduced pulse oximetry.
-antibiotics.
-anticoagulation.
-filling defect within the proximal portion of the right gonadal vein with enlargement and prominence of the uterine plexus.
-gonadal vein thrombosis
-gonadal vein thrombosis.
-
-infiltrating neoplasm of the retro-peritoneum.
-
-mixing artifact at the junction of the gonadal vein with ivc.
-27 year-old female presenting with shortness of breath and pleuritic chest pain. no recent pregnancy, history of malignancy or known inflammatory bowel disease.
-
-
-Keywords by value: 
-- gonadal: 0.5997872784109765
-- vein: 0.33453852093464737
-- thrombosis: 0.19026261268930597
-- mixing: 0.16785406928643934
-- oximetry: 0.153676110553895
-- pleuritic: 0.14054732901124478
-- the: 0.13969102019519902
-- of: 0.13700225623494405
-- prominence: 0.12337067380350027
-- nourished: 0.11956405016759394
-- infiltrating: 0.11446647304654317
-- ivc: 0.11329732794234493
-- well: 0.11299381406483153
-- artifact: 0.11273689642614179
-- reduced: 0.11192402903605099
-- pulse: 0.11014425737020614
-- uterine: 0.10896158864848823
-- anticoagulation: 0.10828347779351503
-- plexus: 0.10519402926568207
-- pregnancy: 0.09548499476657271
-- 27: 0.0945550859656409
-- shortness: 0.09355710897958515
-- junction: 0.09344916956945207
-- presenting: 0.09140201539350215
-- filling: 0.0903577088955594
-- enlargement: 0.08945249610819613
-- malignancy: 0.08735060013533286
-- developed: 0.08656680804616243
-- antibiotics: 0.08596070530865314
-- defect: 0.08559081329838936
-- breath: 0.08551763085626828
-- portion: 0.08343571971230636
-- neoplasm: 0.07965151739729565
-- elevated: 0.07954213494008777
-- recent: 0.07900382832680262
-- inflammatory: 0.07889784637595171
-- known: 0.07554191988575686
-- bowel: 0.07487990512048555
-- proximal: 0.07289488486458998
-- and: 0.07233132152736202
-- with: 0.06854205752519929
-- chest: 0.06158948130710914
-- female: 0.05630335790801982
-- within: 0.05373909191385753
-- disease: 0.0489780112814657
-- history: 0.044578416728515084
-- at: 0.0440714162827482
-- pain: 0.04175230622623378
-- or: 0.040590805152863355
-- right: 0.038684162723898734
-- no: 0.03794292495025837
+\-\ Texto\\:\\ \ \(0\)\
+\-\ well\\ nourished\\ and\\ well\\ developed\\.\ \(0\)\
+\-\ elevated\\ d\\-dimer\\.\ \(0\)\
+\-\ reduced\\ pulse\\ oximetry\\.\ \(0\)\
+\-\ antibiotics\\.\ \(66\)\
+\-\ anticoagulation\\.\ \(15\)\
+\-\ filling\\ defect\\ within\\ the\\ proximal\\ portion\\ of\\ the\\ right\\ gonadal\\ vein\\ with\\ enlargement\\ and\\ prominence\\ of\\ the\\ uterine\\ plexus\\.\ \(0\)\
+\-\ gonadal\\ vein\\ thrombosis\ \(0\)\
+\-\ gonadal\\ vein\\ thrombosis\\.\ \(0\)\
+\-\ infiltrating\\ neoplasm\\ of\\ the\\ retro\\-peritoneum\\.\ \(0\)\
+\-\ mixing\\ artifact\\ at\\ the\\ junction\\ of\\ the\\ gonadal\\ vein\\ with\\ ivc\\.\ \(0\)\
+\-\ 27\\ year\\-old\\ female\\ presenting\\ with\\ shortness\\ of\\ breath\\ and\\ pleuritic\\ chest\\ pain\\.\\ no\\ recent\\ pregnancy\\,\\ history\\ of\\ malignancy\\ or\\ known\\ inflammatory\\ bowel\\ disease\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ gonadal\\:\\ 0\\.5997872784109765\ \(0\)\
+\-\ vein\\:\\ 0\\.33453852093464737\ \(0\)\
+\-\ thrombosis\\:\\ 0\\.19026261268930597\ \(0\)\
+\-\ mixing\\:\\ 0\\.16785406928643934\ \(0\)\
+\-\ oximetry\\:\\ 0\\.153676110553895\ \(0\)\
+\-\ pleuritic\\:\\ 0\\.14054732901124478\ \(0\)\
+\-\ the\\:\\ 0\\.13969102019519902\ \(0\)\
+\-\ of\\:\\ 0\\.13700225623494405\ \(0\)\
+\-\ prominence\\:\\ 0\\.12337067380350027\ \(0\)\
+\-\ nourished\\:\\ 0\\.11956405016759394\ \(0\)\
+\-\ infiltrating\\:\\ 0\\.11446647304654317\ \(0\)\
+\-\ ivc\\:\\ 0\\.11329732794234493\ \(0\)\
+\-\ well\\:\\ 0\\.11299381406483153\ \(0\)\
+\-\ artifact\\:\\ 0\\.11273689642614179\ \(0\)\
+\-\ reduced\\:\\ 0\\.11192402903605099\ \(0\)\
+\-\ pulse\\:\\ 0\\.11014425737020614\ \(0\)\
+\-\ uterine\\:\\ 0\\.10896158864848823\ \(0\)\
+\-\ anticoagulation\\:\\ 0\\.10828347779351503\ \(0\)\
+\-\ plexus\\:\\ 0\\.10519402926568207\ \(0\)\
+\-\ pregnancy\\:\\ 0\\.09548499476657271\ \(0\)\
+\-\ 27\\:\\ 0\\.0945550859656409\ \(0\)\
+\-\ shortness\\:\\ 0\\.09355710897958515\ \(0\)\
+\-\ junction\\:\\ 0\\.09344916956945207\ \(0\)\
+\-\ presenting\\:\\ 0\\.09140201539350215\ \(0\)\
+\-\ filling\\:\\ 0\\.0903577088955594\ \(0\)\
+\-\ enlargement\\:\\ 0\\.08945249610819613\ \(0\)\
+\-\ malignancy\\:\\ 0\\.08735060013533286\ \(0\)\
+\-\ developed\\:\\ 0\\.08656680804616243\ \(0\)\
+\-\ antibiotics\\:\\ 0\\.08596070530865314\ \(0\)\
+\-\ defect\\:\\ 0\\.08559081329838936\ \(0\)\
+\-\ breath\\:\\ 0\\.08551763085626828\ \(0\)\
+\-\ portion\\:\\ 0\\.08343571971230636\ \(0\)\
+\-\ neoplasm\\:\\ 0\\.07965151739729565\ \(0\)\
+\-\ elevated\\:\\ 0\\.07954213494008777\ \(0\)\
+\-\ recent\\:\\ 0\\.07900382832680262\ \(0\)\
+\-\ inflammatory\\:\\ 0\\.07889784637595171\ \(0\)\
+\-\ known\\:\\ 0\\.07554191988575686\ \(0\)\
+\-\ bowel\\:\\ 0\\.07487990512048555\ \(0\)\
+\-\ proximal\\:\\ 0\\.07289488486458998\ \(0\)\
+\-\ and\\:\\ 0\\.07233132152736202\ \(0\)\
+\-\ with\\:\\ 0\\.06854205752519929\ \(0\)\
+\-\ chest\\:\\ 0\\.06158948130710914\ \(0\)\
+\-\ female\\:\\ 0\\.05630335790801982\ \(0\)\
+\-\ within\\:\\ 0\\.05373909191385753\ \(0\)\
+\-\ disease\\:\\ 0\\.0489780112814657\ \(0\)\
+\-\ history\\:\\ 0\\.044578416728515084\ \(0\)\
+\-\ at\\:\\ 0\\.0440714162827482\ \(0\)\
+\-\ pain\\:\\ 0\\.04175230622623378\ \(0\)\
+\-\ or\\:\\ 0\\.040590805152863355\ \(0\)\
+\-\ right\\:\\ 0\\.038684162723898734\ \(0\)\
+\-\ no\\:\\ 0\\.03794292495025837\ \(0\)\

@@ -1,83 +1,81 @@
-Texto: 
-non contributory physical exam.
-no labs.
-1) drugs (nitrates, beta agonists, calcium channel blockers) - effective in 50%.
-2) balloon dilitation - effective in 70%.
-3) myotomy.
-- conical narrowing of distal esophageal segment.
-- marked proximal esophageal dilitation.
-- dysmotility - no coordinated contractions (aperistaltic). tertiary contractile activity. 
-- poor esophageal emptying.
-achalasia
-1) achalasia
-2) esophageal spasm
-3) scleroderma
-4) infection - chagas disease
-5) neoplasm - fundal carcinoma, lymphoma
-6) metastasis 
-7) reflux esophagitis
-35 year old male with dysphagia and an epigastric burning sensation.
-
-
-Keywords by value: 
-- esophageal: 0.3885315512380144
-- dilitation: 0.26802581633909134
-- achalasia: 0.25566385777357525
-- effective: 0.23223622940532762
-- aperistaltic: 0.18179980320437342
-- contractile: 0.18179980320437342
-- coordinated: 0.16798629269085977
-- nitrates: 0.1635393355675378
-- conical: 0.1599059070371369
-- dysmotility: 0.1599059070371369
-- agonists: 0.1568338869868801
-- contractions: 0.14609239652362324
-- chagas: 0.14609239652362324
-- myotomy: 0.14164543940030128
-- blockers: 0.14035927166383255
-- tertiary: 0.14035927166383255
-- fundal: 0.14035927166383255
-- burning: 0.13801201086990034
-- emptying: 0.13693452235029027
-- esophagitis: 0.13591231454051056
-- channel: 0.13146535741718857
-- scleroderma: 0.12717847089834755
-- balloon: 0.11888494221699242
-- beta: 0.11805446025587317
-- epigastric: 0.11687022973969441
-- spasm: 0.11504062618305375
-- drugs: 0.1136890111525743
-- calcium: 0.10267711378469492
-- dysphagia: 0.10267711378469492
-- reflux: 0.09845705114016091
-- sensation: 0.09741963639861308
-- poor: 0.09589125346165638
-- 70: 0.09385854436547351
-- segment: 0.09385854436547351
-- 35: 0.09115219848517049
-- narrowing: 0.08812541950568278
-- marked: 0.08598048210552392
-- activity: 0.08346223585122327
-- metastasis: 0.08331937729598998
-- 50: 0.07939157586351976
-- labs: 0.07875886611549114
-- contributory: 0.07771119756720161
-- neoplasm: 0.07760405385150987
-- no: 0.07393518384430982
-- proximal: 0.07102110236412544
-- infection: 0.06866957555645221
-- carcinoma: 0.06799851272312596
-- lymphoma: 0.06770375279245747
-- distal: 0.0660511720341259
-- physical: 0.06164015483599122
-- exam: 0.05722680022136647
-- in: 0.05656001789834652
-- non: 0.05393906717012419
-- male: 0.050614913705122125
-- disease: 0.047719018409507055
-- an: 0.04347102615513741
-- year: 0.03503407947091624
-- old: 0.03364484363964768
-- and: 0.02349067519104103
-- with: 0.022260055205005846
-- of: 0.02224676276955215
+\-\ Texto\\:\\ \ \(0\)\
+\-\ non\\ contributory\\ physical\\ exam\\.\ \(0\)\
+\-\ no\\ labs\\.\ \(1\)\
+\-\ 1\\)\\ drugs\\ \\(nitrates\\,\\ beta\\ agonists\\,\\ calcium\\ channel\\ blockers\\)\\ \\-\\ effective\\ in\\ 50\\%\\.\ \(0\)\
+\-\ 2\\)\\ balloon\\ dilitation\\ \\-\\ effective\\ in\\ 70\\%\\.\ \(0\)\
+\-\ 3\\)\\ myotomy\\.\ \(0\)\
+\-\ conical\\ narrowing\\ of\\ distal\\ esophageal\\ segment\\.\ \(0\)\
+\-\ marked\\ proximal\\ esophageal\\ dilitation\\.\ \(0\)\
+\-\ dysmotility\\ \\-\\ no\\ coordinated\\ contractions\\ \\(aperistaltic\\)\\.\\ tertiary\\ contractile\\ activity\\.\\ \ \(0\)\
+\-\ poor\\ esophageal\\ emptying\\.\ \(0\)\
+\-\ achalasia\ \(51\)\
+\-\ 1\\)\\ achalasia\ \(0\)\
+\-\ 2\\)\\ esophageal\\ spasm\ \(0\)\
+\-\ 3\\)\\ scleroderma\ \(0\)\
+\-\ 4\\)\\ infection\\ \\-\\ chagas\\ disease\ \(0\)\
+\-\ 5\\)\\ neoplasm\\ \\-\\ fundal\\ carcinoma\\,\\ lymphoma\ \(0\)\
+\-\ 6\\)\\ metastasis\\ \ \(0\)\
+\-\ 7\\)\\ reflux\\ esophagitis\ \(0\)\
+\-\ 35\\ year\\ old\\ male\\ with\\ dysphagia\\ and\\ an\\ epigastric\\ burning\\ sensation\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ esophageal\\:\\ 0\\.3885315512380144\ \(0\)\
+\-\ dilitation\\:\\ 0\\.26802581633909134\ \(0\)\
+\-\ achalasia\\:\\ 0\\.25566385777357525\ \(0\)\
+\-\ effective\\:\\ 0\\.23223622940532762\ \(0\)\
+\-\ aperistaltic\\:\\ 0\\.18179980320437342\ \(0\)\
+\-\ contractile\\:\\ 0\\.18179980320437342\ \(0\)\
+\-\ coordinated\\:\\ 0\\.16798629269085977\ \(0\)\
+\-\ nitrates\\:\\ 0\\.1635393355675378\ \(0\)\
+\-\ conical\\:\\ 0\\.1599059070371369\ \(0\)\
+\-\ dysmotility\\:\\ 0\\.1599059070371369\ \(0\)\
+\-\ agonists\\:\\ 0\\.1568338869868801\ \(0\)\
+\-\ contractions\\:\\ 0\\.14609239652362324\ \(0\)\
+\-\ chagas\\:\\ 0\\.14609239652362324\ \(0\)\
+\-\ myotomy\\:\\ 0\\.14164543940030128\ \(0\)\
+\-\ blockers\\:\\ 0\\.14035927166383255\ \(0\)\
+\-\ tertiary\\:\\ 0\\.14035927166383255\ \(0\)\
+\-\ fundal\\:\\ 0\\.14035927166383255\ \(0\)\
+\-\ burning\\:\\ 0\\.13801201086990034\ \(0\)\
+\-\ emptying\\:\\ 0\\.13693452235029027\ \(0\)\
+\-\ esophagitis\\:\\ 0\\.13591231454051056\ \(0\)\
+\-\ channel\\:\\ 0\\.13146535741718857\ \(0\)\
+\-\ scleroderma\\:\\ 0\\.12717847089834755\ \(0\)\
+\-\ balloon\\:\\ 0\\.11888494221699242\ \(0\)\
+\-\ beta\\:\\ 0\\.11805446025587317\ \(0\)\
+\-\ epigastric\\:\\ 0\\.11687022973969441\ \(0\)\
+\-\ spasm\\:\\ 0\\.11504062618305375\ \(0\)\
+\-\ drugs\\:\\ 0\\.1136890111525743\ \(0\)\
+\-\ calcium\\:\\ 0\\.10267711378469492\ \(0\)\
+\-\ dysphagia\\:\\ 0\\.10267711378469492\ \(0\)\
+\-\ reflux\\:\\ 0\\.09845705114016091\ \(0\)\
+\-\ sensation\\:\\ 0\\.09741963639861308\ \(0\)\
+\-\ poor\\:\\ 0\\.09589125346165638\ \(0\)\
+\-\ 70\\:\\ 0\\.09385854436547351\ \(0\)\
+\-\ segment\\:\\ 0\\.09385854436547351\ \(0\)\
+\-\ 35\\:\\ 0\\.09115219848517049\ \(0\)\
+\-\ narrowing\\:\\ 0\\.08812541950568278\ \(0\)\
+\-\ marked\\:\\ 0\\.08598048210552392\ \(0\)\
+\-\ activity\\:\\ 0\\.08346223585122327\ \(0\)\
+\-\ metastasis\\:\\ 0\\.08331937729598998\ \(0\)\
+\-\ 50\\:\\ 0\\.07939157586351976\ \(0\)\
+\-\ labs\\:\\ 0\\.07875886611549114\ \(0\)\
+\-\ contributory\\:\\ 0\\.07771119756720161\ \(0\)\
+\-\ neoplasm\\:\\ 0\\.07760405385150987\ \(0\)\
+\-\ no\\:\\ 0\\.07393518384430982\ \(0\)\
+\-\ proximal\\:\\ 0\\.07102110236412544\ \(0\)\
+\-\ infection\\:\\ 0\\.06866957555645221\ \(0\)\
+\-\ carcinoma\\:\\ 0\\.06799851272312596\ \(0\)\
+\-\ lymphoma\\:\\ 0\\.06770375279245747\ \(0\)\
+\-\ distal\\:\\ 0\\.0660511720341259\ \(0\)\
+\-\ physical\\:\\ 0\\.06164015483599122\ \(0\)\
+\-\ exam\\:\\ 0\\.05722680022136647\ \(0\)\
+\-\ in\\:\\ 0\\.05656001789834652\ \(0\)\
+\-\ non\\:\\ 0\\.05393906717012419\ \(0\)\
+\-\ male\\:\\ 0\\.050614913705122125\ \(0\)\
+\-\ disease\\:\\ 0\\.047719018409507055\ \(0\)\
+\-\ an\\:\\ 0\\.04347102615513741\ \(0\)\
+\-\ year\\:\\ 0\\.03503407947091624\ \(0\)\
+\-\ old\\:\\ 0\\.03364484363964768\ \(0\)\
+\-\ and\\:\\ 0\\.02349067519104103\ \(0\)\
+\-\ with\\:\\ 0\\.022260055205005846\ \(0\)\
+\-\ of\\:\\ 0\\.02224676276955215\ \(0\)\

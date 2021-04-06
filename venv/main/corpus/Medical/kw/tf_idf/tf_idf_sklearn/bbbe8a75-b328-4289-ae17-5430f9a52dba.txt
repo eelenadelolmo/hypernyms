@@ -1,77 +1,75 @@
-Texto: 
-selective r and l internal carotid injections shows dilated anterior cerebral artery and early filling of anterior venous circulation.  l ica also has bilobed opthalmic artery aneursym.  venous phase of l ica injection shows no filling of superior sagittal sinus which was partially obliterated during previous craniotomy.  l eca injection shows filling of superior sagittal sinus by middle meningeal artery.  l eca injection also shows retrograde flow through sinus with pathologic cortical venous drainage posteriorly i.e. cortical venous hypertension due to drainage of the fistula.
-dural av fistulae
-avm
-av fistula
-48 yo woman with pulsatile tinnitus during exercise.  past surgical history includes craniotomy and repair of ruptured aneurysm.
-
-
-Keywords by value: 
-- venous: 0.2754088620225392
-- eca: 0.26157635290405606
-- injection: 0.2517448564191191
-- shows: 0.22640221887758238
-- filling: 0.22404620636716382
-- av: 0.21470312859173438
-- sinus: 0.20905556701709235
-- craniotomy: 0.20632332093384254
-- ica: 0.20170544476883498
-- artery: 0.1796825982706065
-- fistula: 0.17420652706143952
-- drainage: 0.1544744194019472
-- sagittal: 0.14830978404869433
-- aneursym: 0.13873403057908504
-- cortical: 0.13847167037764674
-- opthalmic: 0.13565171290245862
-- fistulae: 0.12879694327480876
-- superior: 0.12539623909503833
-- obliterated: 0.12393340682437819
-- during: 0.1221667771349898
-- bilobed: 0.12016095487335476
-- selective: 0.11447257473406242
-- tinnitus: 0.11368611004480784
-- of: 0.11323452143103871
-- pulsatile: 0.1102238675690785
-- meningeal: 0.10844264879527434
-- anterior: 0.10769029101504647
-- injections: 0.10632664795163715
-- circulation: 0.10444627380815785
-- retrograde: 0.10316166046692127
-- ruptured: 0.09144335438884084
-- exercise: 0.0908358899225333
-- also: 0.09072300857739342
-- dural: 0.08557917430770584
-- avm: 0.08529017680767446
-- posteriorly: 0.08500603663911349
-- 48: 0.08352329117764236
-- partially: 0.08276618218610313
-- phase: 0.08252116424427706
-- carotid: 0.08123358468809005
-- pathologic: 0.07901842847477775
-- includes: 0.07499086170378258
-- repair: 0.07460574386453239
-- hypertension: 0.07378815438821121
-- aneurysm: 0.07342920370516055
-- previous: 0.07287027868311056
-- early: 0.06951527861000964
-- dilated: 0.06907035972025082
-- middle: 0.06896093576499449
-- cerebral: 0.06681288573248616
-- internal: 0.06499328795907482
-- flow: 0.06423429028165657
-- past: 0.06277359262852043
-- yo: 0.06024876983235533
-- and: 0.05978297586267318
-- through: 0.05740703236401059
-- due: 0.055434165231038085
-- woman: 0.050225040739127286
-- surgical: 0.04687184118171754
-- has: 0.044049906197809956
-- which: 0.04385115661041683
-- by: 0.04095301712405352
-- with: 0.03776739301020382
-- history: 0.036844763167625194
-- was: 0.03360947399822332
-- no: 0.031360424758760025
-- to: 0.02410922177319174
-- the: 0.019242804528332033
+\-\ Texto\\:\\ \ \(0\)\
+\-\ selective\\ r\\ and\\ l\\ internal\\ carotid\\ injections\\ shows\\ dilated\\ anterior\\ cerebral\\ artery\\ and\\ early\\ filling\\ of\\ anterior\\ venous\\ circulation\\.\\ \\ l\\ ica\\ also\\ has\\ bilobed\\ opthalmic\\ artery\\ aneursym\\.\\ \\ venous\\ phase\\ of\\ l\\ ica\\ injection\\ shows\\ no\\ filling\\ of\\ superior\\ sagittal\\ sinus\\ which\\ was\\ partially\\ obliterated\\ during\\ previous\\ craniotomy\\.\\ \\ l\\ eca\\ injection\\ shows\\ filling\\ of\\ superior\\ sagittal\\ sinus\\ by\\ middle\\ meningeal\\ artery\\.\\ \\ l\\ eca\\ injection\\ also\\ shows\\ retrograde\\ flow\\ through\\ sinus\\ with\\ pathologic\\ cortical\\ venous\\ drainage\\ posteriorly\\ i\\.e\\.\\ cortical\\ venous\\ hypertension\\ due\\ to\\ drainage\\ of\\ the\\ fistula\\.\ \(0\)\
+\-\ dural\\ av\\ fistulae\ \(0\)\
+\-\ avm\ \(1\)\
+\-\ av\\ fistula\ \(0\)\
+\-\ 48\\ yo\\ woman\\ with\\ pulsatile\\ tinnitus\\ during\\ exercise\\.\\ \\ past\\ surgical\\ history\\ includes\\ craniotomy\\ and\\ repair\\ of\\ ruptured\\ aneurysm\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ venous\\:\\ 0\\.2754088620225392\ \(0\)\
+\-\ eca\\:\\ 0\\.26157635290405606\ \(0\)\
+\-\ injection\\:\\ 0\\.2517448564191191\ \(0\)\
+\-\ shows\\:\\ 0\\.22640221887758238\ \(0\)\
+\-\ filling\\:\\ 0\\.22404620636716382\ \(0\)\
+\-\ av\\:\\ 0\\.21470312859173438\ \(0\)\
+\-\ sinus\\:\\ 0\\.20905556701709235\ \(0\)\
+\-\ craniotomy\\:\\ 0\\.20632332093384254\ \(0\)\
+\-\ ica\\:\\ 0\\.20170544476883498\ \(0\)\
+\-\ artery\\:\\ 0\\.1796825982706065\ \(0\)\
+\-\ fistula\\:\\ 0\\.17420652706143952\ \(0\)\
+\-\ drainage\\:\\ 0\\.1544744194019472\ \(0\)\
+\-\ sagittal\\:\\ 0\\.14830978404869433\ \(0\)\
+\-\ aneursym\\:\\ 0\\.13873403057908504\ \(0\)\
+\-\ cortical\\:\\ 0\\.13847167037764674\ \(0\)\
+\-\ opthalmic\\:\\ 0\\.13565171290245862\ \(0\)\
+\-\ fistulae\\:\\ 0\\.12879694327480876\ \(0\)\
+\-\ superior\\:\\ 0\\.12539623909503833\ \(0\)\
+\-\ obliterated\\:\\ 0\\.12393340682437819\ \(0\)\
+\-\ during\\:\\ 0\\.1221667771349898\ \(0\)\
+\-\ bilobed\\:\\ 0\\.12016095487335476\ \(0\)\
+\-\ selective\\:\\ 0\\.11447257473406242\ \(0\)\
+\-\ tinnitus\\:\\ 0\\.11368611004480784\ \(0\)\
+\-\ of\\:\\ 0\\.11323452143103871\ \(0\)\
+\-\ pulsatile\\:\\ 0\\.1102238675690785\ \(0\)\
+\-\ meningeal\\:\\ 0\\.10844264879527434\ \(0\)\
+\-\ anterior\\:\\ 0\\.10769029101504647\ \(0\)\
+\-\ injections\\:\\ 0\\.10632664795163715\ \(0\)\
+\-\ circulation\\:\\ 0\\.10444627380815785\ \(0\)\
+\-\ retrograde\\:\\ 0\\.10316166046692127\ \(0\)\
+\-\ ruptured\\:\\ 0\\.09144335438884084\ \(0\)\
+\-\ exercise\\:\\ 0\\.0908358899225333\ \(0\)\
+\-\ also\\:\\ 0\\.09072300857739342\ \(0\)\
+\-\ dural\\:\\ 0\\.08557917430770584\ \(0\)\
+\-\ avm\\:\\ 0\\.08529017680767446\ \(0\)\
+\-\ posteriorly\\:\\ 0\\.08500603663911349\ \(0\)\
+\-\ 48\\:\\ 0\\.08352329117764236\ \(0\)\
+\-\ partially\\:\\ 0\\.08276618218610313\ \(0\)\
+\-\ phase\\:\\ 0\\.08252116424427706\ \(0\)\
+\-\ carotid\\:\\ 0\\.08123358468809005\ \(0\)\
+\-\ pathologic\\:\\ 0\\.07901842847477775\ \(0\)\
+\-\ includes\\:\\ 0\\.07499086170378258\ \(0\)\
+\-\ repair\\:\\ 0\\.07460574386453239\ \(0\)\
+\-\ hypertension\\:\\ 0\\.07378815438821121\ \(0\)\
+\-\ aneurysm\\:\\ 0\\.07342920370516055\ \(0\)\
+\-\ previous\\:\\ 0\\.07287027868311056\ \(0\)\
+\-\ early\\:\\ 0\\.06951527861000964\ \(0\)\
+\-\ dilated\\:\\ 0\\.06907035972025082\ \(0\)\
+\-\ middle\\:\\ 0\\.06896093576499449\ \(0\)\
+\-\ cerebral\\:\\ 0\\.06681288573248616\ \(0\)\
+\-\ internal\\:\\ 0\\.06499328795907482\ \(0\)\
+\-\ flow\\:\\ 0\\.06423429028165657\ \(0\)\
+\-\ past\\:\\ 0\\.06277359262852043\ \(0\)\
+\-\ yo\\:\\ 0\\.06024876983235533\ \(0\)\
+\-\ and\\:\\ 0\\.05978297586267318\ \(0\)\
+\-\ through\\:\\ 0\\.05740703236401059\ \(0\)\
+\-\ due\\:\\ 0\\.055434165231038085\ \(0\)\
+\-\ woman\\:\\ 0\\.050225040739127286\ \(0\)\
+\-\ surgical\\:\\ 0\\.04687184118171754\ \(0\)\
+\-\ has\\:\\ 0\\.044049906197809956\ \(0\)\
+\-\ which\\:\\ 0\\.04385115661041683\ \(0\)\
+\-\ by\\:\\ 0\\.04095301712405352\ \(0\)\
+\-\ with\\:\\ 0\\.03776739301020382\ \(0\)\
+\-\ history\\:\\ 0\\.036844763167625194\ \(0\)\
+\-\ was\\:\\ 0\\.03360947399822332\ \(0\)\
+\-\ no\\:\\ 0\\.031360424758760025\ \(0\)\
+\-\ to\\:\\ 0\\.02410922177319174\ \(0\)\
+\-\ the\\:\\ 0\\.019242804528332033\ \(0\)\

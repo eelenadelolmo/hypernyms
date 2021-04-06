@@ -1,87 +1,85 @@
-Texto: 
-cn vi palsy.
-mild hemiparesis
-radiation therapy
-stable appearing postoperative bed left parietal lobe.
-multiple enhancing intradural lesions at the conus and surrounding the cauda equina.
-leptomeningeal carcinomatosis from endometrial carcinoma.
-â€¢ sarcoidosis
-â€¢ neurofibromatosis
-â€¢ myxopapillary epenymoma
-â€¢ carcinomatous meningitis
-68 year old woman who had right parietal lobe tumor resected two years previously.  the lesion was metastatic from an endometrial carcinoma.  now presents with new onset right cn vi palsy and back pain.
-the spinal canal lesions are likely from leptomeningeal spread of the brain metastatic lesion resected two year previously rather than hematogenous spread of the primary tumor of the endometrium.
-
-
-Keywords by value: 
-- vi: 0.25566935882380304
-- leptomeningeal: 0.2365190374444633
-- endometrial: 0.22848820588878865
-- palsy: 0.22370840461919997
-- cn: 0.2183117041433293
-- resected: 0.20471912705776285
-- spread: 0.2009456299847681
-- parietal: 0.18062729649083534
-- previously: 0.17957024827029225
-- epenymoma: 0.17886576513694122
-- the: 0.1562210128787667
-- carcinomatous: 0.15168461220192683
-- myxopapillary: 0.14544067165724603
-- endometrium: 0.14071219339728466
-- carcinoma: 0.13380219111374012
-- from: 0.1332612165875702
-- two: 0.13284022673859047
-- equina: 0.13097852693514916
-- cauda: 0.13014405813774452
-- lobe: 0.12927009472394288
-- lesions: 0.12846861046849925
-- hematogenous: 0.12712161692977744
-- intradural: 0.12450345926691243
-- hemiparesis: 0.12331478883483427
-- metastatic: 0.12268364028523238
-- carcinomatosis: 0.12113398143705846
-- conus: 0.12012827087630683
-- tumor: 0.11700367352274622
-- postoperative: 0.11614919812513527
-- bed: 0.11614919812513527
-- neurofibromatosis: 0.11091288279940524
-- 68: 0.10754340496955128
-- lesion: 0.10724271843012385
-- meningitis: 0.10534902397672145
-- rather: 0.09908412452328653
-- sarcoidosis: 0.09474248114902835
-- appearing: 0.08937232873522294
-- stable: 0.08847413853863093
-- canal: 0.08608903591126847
-- spinal: 0.07941790946526808
-- new: 0.07737670087935711
-- now: 0.07677671629091555
-- surrounding: 0.07459308183563758
-- back: 0.07459308183563758
-- right: 0.07416301337848352
-- radiation: 0.07411831148985609
-- onset: 0.07181935927703331
-- enhancing: 0.070064712530969
-- brain: 0.06972436933668014
-- year: 0.0689373400848994
-- primary: 0.06877309418123538
-- years: 0.06855997189515316
-- likely: 0.0668362787795862
-- of: 0.06566317742581976
-- therapy: 0.06426265962425616
-- mild: 0.06340219773717573
-- than: 0.06340219773717573
-- who: 0.06326688279519077
-- woman: 0.05824965248395255
-- had: 0.055725684228510174
-- multiple: 0.05470620949922382
-- presents: 0.05380359764570364
-- and: 0.04622312585130279
-- an: 0.04276945418794374
-- are: 0.04244039012070452
-- at: 0.04224557034766762
-- pain: 0.04002253929262039
-- was: 0.038979364710396154
-- left: 0.03815303790538161
-- old: 0.03310185486698901
-- with: 0.021900803719561674
+\-\ Texto\\:\\ \ \(0\)\
+\-\ cn\\ vi\\ palsy\\.\ \(0\)\
+\-\ mild\\ hemiparesis\ \(1\)\
+\-\ radiation\\ therapy\ \(165\)\
+\-\ stable\\ appearing\\ postoperative\\ bed\\ left\\ parietal\\ lobe\\.\ \(0\)\
+\-\ multiple\\ enhancing\\ intradural\\ lesions\\ at\\ the\\ conus\\ and\\ surrounding\\ the\\ cauda\\ equina\\.\ \(0\)\
+\-\ leptomeningeal\\ carcinomatosis\\ from\\ endometrial\\ carcinoma\\.\ \(0\)\
+\-\ \\â\\€\\¢\\ sarcoidosis\ \(1\)\
+\-\ \\â\\€\\¢\\ neurofibromatosis\ \(0\)\
+\-\ \\â\\€\\¢\\ myxopapillary\\ epenymoma\ \(0\)\
+\-\ \\â\\€\\¢\\ carcinomatous\\ meningitis\ \(0\)\
+\-\ 68\\ year\\ old\\ woman\\ who\\ had\\ right\\ parietal\\ lobe\\ tumor\\ resected\\ two\\ years\\ previously\\.\\ \\ the\\ lesion\\ was\\ metastatic\\ from\\ an\\ endometrial\\ carcinoma\\.\\ \\ now\\ presents\\ with\\ new\\ onset\\ right\\ cn\\ vi\\ palsy\\ and\\ back\\ pain\\.\ \(0\)\
+\-\ the\\ spinal\\ canal\\ lesions\\ are\\ likely\\ from\\ leptomeningeal\\ spread\\ of\\ the\\ brain\\ metastatic\\ lesion\\ resected\\ two\\ year\\ previously\\ rather\\ than\\ hematogenous\\ spread\\ of\\ the\\ primary\\ tumor\\ of\\ the\\ endometrium\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ vi\\:\\ 0\\.25566935882380304\ \(0\)\
+\-\ leptomeningeal\\:\\ 0\\.2365190374444633\ \(0\)\
+\-\ endometrial\\:\\ 0\\.22848820588878865\ \(0\)\
+\-\ palsy\\:\\ 0\\.22370840461919997\ \(0\)\
+\-\ cn\\:\\ 0\\.2183117041433293\ \(0\)\
+\-\ resected\\:\\ 0\\.20471912705776285\ \(0\)\
+\-\ spread\\:\\ 0\\.2009456299847681\ \(0\)\
+\-\ parietal\\:\\ 0\\.18062729649083534\ \(0\)\
+\-\ previously\\:\\ 0\\.17957024827029225\ \(0\)\
+\-\ epenymoma\\:\\ 0\\.17886576513694122\ \(0\)\
+\-\ the\\:\\ 0\\.1562210128787667\ \(0\)\
+\-\ carcinomatous\\:\\ 0\\.15168461220192683\ \(0\)\
+\-\ myxopapillary\\:\\ 0\\.14544067165724603\ \(0\)\
+\-\ endometrium\\:\\ 0\\.14071219339728466\ \(0\)\
+\-\ carcinoma\\:\\ 0\\.13380219111374012\ \(0\)\
+\-\ from\\:\\ 0\\.1332612165875702\ \(0\)\
+\-\ two\\:\\ 0\\.13284022673859047\ \(0\)\
+\-\ equina\\:\\ 0\\.13097852693514916\ \(0\)\
+\-\ cauda\\:\\ 0\\.13014405813774452\ \(0\)\
+\-\ lobe\\:\\ 0\\.12927009472394288\ \(0\)\
+\-\ lesions\\:\\ 0\\.12846861046849925\ \(0\)\
+\-\ hematogenous\\:\\ 0\\.12712161692977744\ \(0\)\
+\-\ intradural\\:\\ 0\\.12450345926691243\ \(0\)\
+\-\ hemiparesis\\:\\ 0\\.12331478883483427\ \(0\)\
+\-\ metastatic\\:\\ 0\\.12268364028523238\ \(0\)\
+\-\ carcinomatosis\\:\\ 0\\.12113398143705846\ \(0\)\
+\-\ conus\\:\\ 0\\.12012827087630683\ \(0\)\
+\-\ tumor\\:\\ 0\\.11700367352274622\ \(0\)\
+\-\ postoperative\\:\\ 0\\.11614919812513527\ \(0\)\
+\-\ bed\\:\\ 0\\.11614919812513527\ \(0\)\
+\-\ neurofibromatosis\\:\\ 0\\.11091288279940524\ \(0\)\
+\-\ 68\\:\\ 0\\.10754340496955128\ \(0\)\
+\-\ lesion\\:\\ 0\\.10724271843012385\ \(0\)\
+\-\ meningitis\\:\\ 0\\.10534902397672145\ \(0\)\
+\-\ rather\\:\\ 0\\.09908412452328653\ \(0\)\
+\-\ sarcoidosis\\:\\ 0\\.09474248114902835\ \(0\)\
+\-\ appearing\\:\\ 0\\.08937232873522294\ \(0\)\
+\-\ stable\\:\\ 0\\.08847413853863093\ \(0\)\
+\-\ canal\\:\\ 0\\.08608903591126847\ \(0\)\
+\-\ spinal\\:\\ 0\\.07941790946526808\ \(0\)\
+\-\ new\\:\\ 0\\.07737670087935711\ \(0\)\
+\-\ now\\:\\ 0\\.07677671629091555\ \(0\)\
+\-\ surrounding\\:\\ 0\\.07459308183563758\ \(0\)\
+\-\ back\\:\\ 0\\.07459308183563758\ \(0\)\
+\-\ right\\:\\ 0\\.07416301337848352\ \(0\)\
+\-\ radiation\\:\\ 0\\.07411831148985609\ \(0\)\
+\-\ onset\\:\\ 0\\.07181935927703331\ \(0\)\
+\-\ enhancing\\:\\ 0\\.070064712530969\ \(0\)\
+\-\ brain\\:\\ 0\\.06972436933668014\ \(0\)\
+\-\ year\\:\\ 0\\.0689373400848994\ \(0\)\
+\-\ primary\\:\\ 0\\.06877309418123538\ \(0\)\
+\-\ years\\:\\ 0\\.06855997189515316\ \(0\)\
+\-\ likely\\:\\ 0\\.0668362787795862\ \(0\)\
+\-\ of\\:\\ 0\\.06566317742581976\ \(0\)\
+\-\ therapy\\:\\ 0\\.06426265962425616\ \(0\)\
+\-\ mild\\:\\ 0\\.06340219773717573\ \(0\)\
+\-\ than\\:\\ 0\\.06340219773717573\ \(0\)\
+\-\ who\\:\\ 0\\.06326688279519077\ \(0\)\
+\-\ woman\\:\\ 0\\.05824965248395255\ \(0\)\
+\-\ had\\:\\ 0\\.055725684228510174\ \(0\)\
+\-\ multiple\\:\\ 0\\.05470620949922382\ \(0\)\
+\-\ presents\\:\\ 0\\.05380359764570364\ \(0\)\
+\-\ and\\:\\ 0\\.04622312585130279\ \(0\)\
+\-\ an\\:\\ 0\\.04276945418794374\ \(0\)\
+\-\ are\\:\\ 0\\.04244039012070452\ \(0\)\
+\-\ at\\:\\ 0\\.04224557034766762\ \(0\)\
+\-\ pain\\:\\ 0\\.04002253929262039\ \(0\)\
+\-\ was\\:\\ 0\\.038979364710396154\ \(0\)\
+\-\ left\\:\\ 0\\.03815303790538161\ \(0\)\
+\-\ old\\:\\ 0\\.03310185486698901\ \(0\)\
+\-\ with\\:\\ 0\\.021900803719561674\ \(0\)\

@@ -1,80 +1,78 @@
-Texto: 
-patient underwent stereotactic drainage and antibiotic therapy and is currently responding well to treatment.
-non-contrast ct scan demonstrates a well defined round mass with low density center and associated vasogenic edema.  mri demonstrates thin rim of enhancement with inherent low t2 signal intensity in rim.  restricted diffusion is present on dwi.
-cerebral abscess
-metastatic disease
-gbm (glioblastoma)
-resolving contusion
-tumefactive multiple sclerosis
-cerebral abscess
-52 y.o. man presents to the emergency room with headache and confusion. history of tooth extraction approximately three weeks ago.
-
-
-Keywords by value: 
-- rim: 0.23614062303209382
-- inherent: 0.20855263780303002
-- cerebral: 0.2054379301315829
-- abscess: 0.1904096199257195
-- responding: 0.18845634511605017
-- extraction: 0.1830595059806396
-- stereotactic: 0.17599156624037374
-- tooth: 0.174782445603608
-- low: 0.17014987655252486
-- tumefactive: 0.1685143045524375
-- resolving: 0.163467916656629
-- confusion: 0.15860202536467233
-- gbm: 0.15676657546915387
-- demonstrates: 0.14897288455592006
-- glioblastoma: 0.14785295903548024
-- vasogenic: 0.1458371114391529
-- contusion: 0.1458371114391529
-- well: 0.14358074519683284
-- dwi: 0.14090507219456808
-- antibiotic: 0.13875070533469974
-- 52: 0.13731435058896235
-- center: 0.1341600112213425
-- restricted: 0.1274361763877207
-- diffusion: 0.12488952776496755
-- and: 0.12254812509779363
-- round: 0.12148391893373779
-- room: 0.12133236511366925
-- drainage: 0.11874545094219649
-- thin: 0.11541194037217768
-- currently: 0.11389290911458069
-- emergency: 0.11000006426411728
-- ago: 0.10848188640091895
-- defined: 0.10577108355994087
-- sclerosis: 0.10560553264037047
-- intensity: 0.10527756101419754
-- headache: 0.10220716274707926
-- underwent: 0.10213486393411848
-- three: 0.09952667895471254
-- density: 0.0983145900764658
-- approximately: 0.09460350980938398
-- weeks: 0.08885778749605927
-- edema: 0.08842816768987954
-- scan: 0.08796364603005961
-- with: 0.08709609263340493
-- enhancement: 0.08533843053360866
-- t2: 0.08530062484476097
-- therapy: 0.08518753660326406
-- signal: 0.08404689553845339
-- metastatic: 0.08131562837989906
-- is: 0.08120644825710316
-- man: 0.07849303525964428
-- associated: 0.07814647803873202
-- mri: 0.07610580783629582
-- present: 0.07607929951528285
-- to: 0.07413163739101228
-- multiple: 0.07251936429941845
-- presents: 0.07132284861270592
-- treatment: 0.07062621980418275
-- disease: 0.06223614466201545
-- of: 0.05802938920937832
-- history: 0.05664559911131715
-- mass: 0.05663305802229203
-- ct: 0.05644566422928508
-- patient: 0.048222979199491846
-- on: 0.04477840571552511
-- in: 0.036883380812652806
-- the: 0.02958412803823136
+\-\ Texto\\:\\ \ \(0\)\
+\-\ patient\\ underwent\\ stereotactic\\ drainage\\ and\\ antibiotic\\ therapy\\ and\\ is\\ currently\\ responding\\ well\\ to\\ treatment\\.\ \(0\)\
+\-\ non\\-contrast\\ ct\\ scan\\ demonstrates\\ a\\ well\\ defined\\ round\\ mass\\ with\\ low\\ density\\ center\\ and\\ associated\\ vasogenic\\ edema\\.\\ \\ mri\\ demonstrates\\ thin\\ rim\\ of\\ enhancement\\ with\\ inherent\\ low\\ t2\\ signal\\ intensity\\ in\\ rim\\.\\ \\ restricted\\ diffusion\\ is\\ present\\ on\\ dwi\\.\ \(0\)\
+\-\ cerebral\\ abscess\ \(11\)\
+\-\ metastatic\\ disease\ \(243\)\
+\-\ gbm\\ \\(glioblastoma\\)\ \(0\)\
+\-\ resolving\\ contusion\ \(0\)\
+\-\ tumefactive\\ multiple\\ sclerosis\ \(2\)\
+\-\ cerebral\\ abscess\ \(11\)\
+\-\ 52\\ y\\.o\\.\\ man\\ presents\\ to\\ the\\ emergency\\ room\\ with\\ headache\\ and\\ confusion\\.\\ history\\ of\\ tooth\\ extraction\\ approximately\\ three\\ weeks\\ ago\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ rim\\:\\ 0\\.23614062303209382\ \(0\)\
+\-\ inherent\\:\\ 0\\.20855263780303002\ \(0\)\
+\-\ cerebral\\:\\ 0\\.2054379301315829\ \(0\)\
+\-\ abscess\\:\\ 0\\.1904096199257195\ \(0\)\
+\-\ responding\\:\\ 0\\.18845634511605017\ \(0\)\
+\-\ extraction\\:\\ 0\\.1830595059806396\ \(0\)\
+\-\ stereotactic\\:\\ 0\\.17599156624037374\ \(0\)\
+\-\ tooth\\:\\ 0\\.174782445603608\ \(0\)\
+\-\ low\\:\\ 0\\.17014987655252486\ \(0\)\
+\-\ tumefactive\\:\\ 0\\.1685143045524375\ \(0\)\
+\-\ resolving\\:\\ 0\\.163467916656629\ \(0\)\
+\-\ confusion\\:\\ 0\\.15860202536467233\ \(0\)\
+\-\ gbm\\:\\ 0\\.15676657546915387\ \(0\)\
+\-\ demonstrates\\:\\ 0\\.14897288455592006\ \(0\)\
+\-\ glioblastoma\\:\\ 0\\.14785295903548024\ \(0\)\
+\-\ vasogenic\\:\\ 0\\.1458371114391529\ \(0\)\
+\-\ contusion\\:\\ 0\\.1458371114391529\ \(0\)\
+\-\ well\\:\\ 0\\.14358074519683284\ \(0\)\
+\-\ dwi\\:\\ 0\\.14090507219456808\ \(0\)\
+\-\ antibiotic\\:\\ 0\\.13875070533469974\ \(0\)\
+\-\ 52\\:\\ 0\\.13731435058896235\ \(0\)\
+\-\ center\\:\\ 0\\.1341600112213425\ \(0\)\
+\-\ restricted\\:\\ 0\\.1274361763877207\ \(0\)\
+\-\ diffusion\\:\\ 0\\.12488952776496755\ \(0\)\
+\-\ and\\:\\ 0\\.12254812509779363\ \(0\)\
+\-\ round\\:\\ 0\\.12148391893373779\ \(0\)\
+\-\ room\\:\\ 0\\.12133236511366925\ \(0\)\
+\-\ drainage\\:\\ 0\\.11874545094219649\ \(0\)\
+\-\ thin\\:\\ 0\\.11541194037217768\ \(0\)\
+\-\ currently\\:\\ 0\\.11389290911458069\ \(0\)\
+\-\ emergency\\:\\ 0\\.11000006426411728\ \(0\)\
+\-\ ago\\:\\ 0\\.10848188640091895\ \(0\)\
+\-\ defined\\:\\ 0\\.10577108355994087\ \(0\)\
+\-\ sclerosis\\:\\ 0\\.10560553264037047\ \(0\)\
+\-\ intensity\\:\\ 0\\.10527756101419754\ \(0\)\
+\-\ headache\\:\\ 0\\.10220716274707926\ \(0\)\
+\-\ underwent\\:\\ 0\\.10213486393411848\ \(0\)\
+\-\ three\\:\\ 0\\.09952667895471254\ \(0\)\
+\-\ density\\:\\ 0\\.0983145900764658\ \(0\)\
+\-\ approximately\\:\\ 0\\.09460350980938398\ \(0\)\
+\-\ weeks\\:\\ 0\\.08885778749605927\ \(0\)\
+\-\ edema\\:\\ 0\\.08842816768987954\ \(0\)\
+\-\ scan\\:\\ 0\\.08796364603005961\ \(0\)\
+\-\ with\\:\\ 0\\.08709609263340493\ \(0\)\
+\-\ enhancement\\:\\ 0\\.08533843053360866\ \(0\)\
+\-\ t2\\:\\ 0\\.08530062484476097\ \(0\)\
+\-\ therapy\\:\\ 0\\.08518753660326406\ \(0\)\
+\-\ signal\\:\\ 0\\.08404689553845339\ \(0\)\
+\-\ metastatic\\:\\ 0\\.08131562837989906\ \(0\)\
+\-\ is\\:\\ 0\\.08120644825710316\ \(0\)\
+\-\ man\\:\\ 0\\.07849303525964428\ \(0\)\
+\-\ associated\\:\\ 0\\.07814647803873202\ \(0\)\
+\-\ mri\\:\\ 0\\.07610580783629582\ \(0\)\
+\-\ present\\:\\ 0\\.07607929951528285\ \(0\)\
+\-\ to\\:\\ 0\\.07413163739101228\ \(0\)\
+\-\ multiple\\:\\ 0\\.07251936429941845\ \(0\)\
+\-\ presents\\:\\ 0\\.07132284861270592\ \(0\)\
+\-\ treatment\\:\\ 0\\.07062621980418275\ \(0\)\
+\-\ disease\\:\\ 0\\.06223614466201545\ \(0\)\
+\-\ of\\:\\ 0\\.05802938920937832\ \(0\)\
+\-\ history\\:\\ 0\\.05664559911131715\ \(0\)\
+\-\ mass\\:\\ 0\\.05663305802229203\ \(0\)\
+\-\ ct\\:\\ 0\\.05644566422928508\ \(0\)\
+\-\ patient\\:\\ 0\\.048222979199491846\ \(0\)\
+\-\ on\\:\\ 0\\.04477840571552511\ \(0\)\
+\-\ in\\:\\ 0\\.036883380812652806\ \(0\)\
+\-\ the\\:\\ 0\\.02958412803823136\ \(0\)\

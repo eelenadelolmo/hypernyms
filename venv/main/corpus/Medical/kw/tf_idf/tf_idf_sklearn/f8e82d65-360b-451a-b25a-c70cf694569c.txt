@@ -1,77 +1,75 @@
-Texto: 
-upon evaluation patient was found to have signs and clinical symptoms of obstruction consistent with cecal volvulus.
-surgical repair.
-ct abd/pelvis w/o contrast showed decompression of the distal colon up to the ascending colon and mesenteric swirling sign in the region of the cecum with a dilated cecum consistent with cecal volvulus. no focal bowel wall thickening or mural gas to suggest ischemic bowel.
-cecal volvulus
-(1) splenic flexure volvulus  
-(2) sigmoid volvulus 
-(3) bowel obstruction
-(4) bowel infarction
-81-year-old male s/p pci for severe 3-vessel disease who developed abdominal distention and pain, nausea, vomiting, lack of bowel movements, and obstipation.
-
-
-Keywords by value: 
-- volvulus: 0.5194604440517564
-- cecal: 0.3582669937264487
-- bowel: 0.3333416904054829
-- cecum: 0.2108991293110398
-- colon: 0.15819837872806422
-- pci: 0.15351041109627317
-- obstipation: 0.15351041109627317
-- obstruction: 0.14553010413549294
-- swirling: 0.13350317748634621
-- flexure: 0.11349594387641923
-- consistent: 0.11265687643127323
-- mural: 0.10611186923765006
-- movements: 0.10245738118559564
-- splenic: 0.10191371786246978
-- ascending: 0.10112749351666138
-- distention: 0.10087278490526143
-- decompression: 0.10037381208026366
-- sigmoid: 0.09621188782832482
-- ischemic: 0.09187603168475994
-- gas: 0.09097280349593619
-- mesenteric: 0.08969677726883983
-- lack: 0.08889320417129526
-- and: 0.08586565362548634
-- suggest: 0.08438935751350096
-- the: 0.08291470763557354
-- upon: 0.08172881095206672
-- infarction: 0.08155285432867615
-- of: 0.08131877056421362
-- repair: 0.08036657847033671
-- nausea: 0.07980121341413858
-- to: 0.0779125934463776
-- developed: 0.07707361829768201
-- vomiting: 0.07686937650631954
-- dilated: 0.07440376835476932
-- signs: 0.072603650401109
-- sign: 0.07192031541851793
-- thickening: 0.07067418176805458
-- showed: 0.06919427195553095
-- found: 0.06721786072953538
-- clinical: 0.06583696942442664
-- severe: 0.06576323908546569
-- evaluation: 0.06335445832291499
-- wall: 0.06319400469598976
-- region: 0.06213887737419061
-- focal: 0.06213887737419061
-- with: 0.0610255188826864
-- distal: 0.06035934486040972
-- who: 0.05876335864359312
-- symptoms: 0.056839590114751114
-- abdominal: 0.05681706522771374
-- have: 0.05189589316281465
-- up: 0.051387635928312705
-- surgical: 0.05049114595277781
-- contrast: 0.050475247768574746
-- male: 0.04625327510962121
-- disease: 0.04360692777853435
-- ct: 0.03954971852490266
-- pain: 0.03717361637514289
-- was: 0.036204698050186584
-- or: 0.03613948918018426
-- patient: 0.033788339278371785
-- no: 0.033781983888725
-- for: 0.031486526221860024
-- in: 0.025843035940932353
+\-\ Texto\\:\\ \ \(0\)\
+\-\ upon\\ evaluation\\ patient\\ was\\ found\\ to\\ have\\ signs\\ and\\ clinical\\ symptoms\\ of\\ obstruction\\ consistent\\ with\\ cecal\\ volvulus\\.\ \(0\)\
+\-\ surgical\\ repair\\.\ \(11\)\
+\-\ ct\\ abd\\/pelvis\\ w\\/o\\ contrast\\ showed\\ decompression\\ of\\ the\\ distal\\ colon\\ up\\ to\\ the\\ ascending\\ colon\\ and\\ mesenteric\\ swirling\\ sign\\ in\\ the\\ region\\ of\\ the\\ cecum\\ with\\ a\\ dilated\\ cecum\\ consistent\\ with\\ cecal\\ volvulus\\.\\ no\\ focal\\ bowel\\ wall\\ thickening\\ or\\ mural\\ gas\\ to\\ suggest\\ ischemic\\ bowel\\.\ \(0\)\
+\-\ cecal\\ volvulus\ \(2\)\
+\-\ \\(1\\)\\ splenic\\ flexure\\ volvulus\\ \\ \ \(0\)\
+\-\ \\(2\\)\\ sigmoid\\ volvulus\\ \ \(0\)\
+\-\ \\(3\\)\\ bowel\\ obstruction\ \(0\)\
+\-\ \\(4\\)\\ bowel\\ infarction\ \(0\)\
+\-\ 81\\-year\\-old\\ male\\ s\\/p\\ pci\\ for\\ severe\\ 3\\-vessel\\ disease\\ who\\ developed\\ abdominal\\ distention\\ and\\ pain\\,\\ nausea\\,\\ vomiting\\,\\ lack\\ of\\ bowel\\ movements\\,\\ and\\ obstipation\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ volvulus\\:\\ 0\\.5194604440517564\ \(0\)\
+\-\ cecal\\:\\ 0\\.3582669937264487\ \(0\)\
+\-\ bowel\\:\\ 0\\.3333416904054829\ \(0\)\
+\-\ cecum\\:\\ 0\\.2108991293110398\ \(0\)\
+\-\ colon\\:\\ 0\\.15819837872806422\ \(0\)\
+\-\ pci\\:\\ 0\\.15351041109627317\ \(0\)\
+\-\ obstipation\\:\\ 0\\.15351041109627317\ \(0\)\
+\-\ obstruction\\:\\ 0\\.14553010413549294\ \(0\)\
+\-\ swirling\\:\\ 0\\.13350317748634621\ \(0\)\
+\-\ flexure\\:\\ 0\\.11349594387641923\ \(0\)\
+\-\ consistent\\:\\ 0\\.11265687643127323\ \(0\)\
+\-\ mural\\:\\ 0\\.10611186923765006\ \(0\)\
+\-\ movements\\:\\ 0\\.10245738118559564\ \(0\)\
+\-\ splenic\\:\\ 0\\.10191371786246978\ \(0\)\
+\-\ ascending\\:\\ 0\\.10112749351666138\ \(0\)\
+\-\ distention\\:\\ 0\\.10087278490526143\ \(0\)\
+\-\ decompression\\:\\ 0\\.10037381208026366\ \(0\)\
+\-\ sigmoid\\:\\ 0\\.09621188782832482\ \(0\)\
+\-\ ischemic\\:\\ 0\\.09187603168475994\ \(0\)\
+\-\ gas\\:\\ 0\\.09097280349593619\ \(0\)\
+\-\ mesenteric\\:\\ 0\\.08969677726883983\ \(0\)\
+\-\ lack\\:\\ 0\\.08889320417129526\ \(0\)\
+\-\ and\\:\\ 0\\.08586565362548634\ \(0\)\
+\-\ suggest\\:\\ 0\\.08438935751350096\ \(0\)\
+\-\ the\\:\\ 0\\.08291470763557354\ \(0\)\
+\-\ upon\\:\\ 0\\.08172881095206672\ \(0\)\
+\-\ infarction\\:\\ 0\\.08155285432867615\ \(0\)\
+\-\ of\\:\\ 0\\.08131877056421362\ \(0\)\
+\-\ repair\\:\\ 0\\.08036657847033671\ \(0\)\
+\-\ nausea\\:\\ 0\\.07980121341413858\ \(0\)\
+\-\ to\\:\\ 0\\.0779125934463776\ \(0\)\
+\-\ developed\\:\\ 0\\.07707361829768201\ \(0\)\
+\-\ vomiting\\:\\ 0\\.07686937650631954\ \(0\)\
+\-\ dilated\\:\\ 0\\.07440376835476932\ \(0\)\
+\-\ signs\\:\\ 0\\.072603650401109\ \(0\)\
+\-\ sign\\:\\ 0\\.07192031541851793\ \(0\)\
+\-\ thickening\\:\\ 0\\.07067418176805458\ \(0\)\
+\-\ showed\\:\\ 0\\.06919427195553095\ \(0\)\
+\-\ found\\:\\ 0\\.06721786072953538\ \(0\)\
+\-\ clinical\\:\\ 0\\.06583696942442664\ \(0\)\
+\-\ severe\\:\\ 0\\.06576323908546569\ \(0\)\
+\-\ evaluation\\:\\ 0\\.06335445832291499\ \(0\)\
+\-\ wall\\:\\ 0\\.06319400469598976\ \(0\)\
+\-\ region\\:\\ 0\\.06213887737419061\ \(0\)\
+\-\ focal\\:\\ 0\\.06213887737419061\ \(0\)\
+\-\ with\\:\\ 0\\.0610255188826864\ \(0\)\
+\-\ distal\\:\\ 0\\.06035934486040972\ \(0\)\
+\-\ who\\:\\ 0\\.05876335864359312\ \(0\)\
+\-\ symptoms\\:\\ 0\\.056839590114751114\ \(0\)\
+\-\ abdominal\\:\\ 0\\.05681706522771374\ \(0\)\
+\-\ have\\:\\ 0\\.05189589316281465\ \(0\)\
+\-\ up\\:\\ 0\\.051387635928312705\ \(0\)\
+\-\ surgical\\:\\ 0\\.05049114595277781\ \(0\)\
+\-\ contrast\\:\\ 0\\.050475247768574746\ \(0\)\
+\-\ male\\:\\ 0\\.04625327510962121\ \(0\)\
+\-\ disease\\:\\ 0\\.04360692777853435\ \(0\)\
+\-\ ct\\:\\ 0\\.03954971852490266\ \(0\)\
+\-\ pain\\:\\ 0\\.03717361637514289\ \(0\)\
+\-\ was\\:\\ 0\\.036204698050186584\ \(0\)\
+\-\ or\\:\\ 0\\.03613948918018426\ \(0\)\
+\-\ patient\\:\\ 0\\.033788339278371785\ \(0\)\
+\-\ no\\:\\ 0\\.033781983888725\ \(0\)\
+\-\ for\\:\\ 0\\.031486526221860024\ \(0\)\
+\-\ in\\:\\ 0\\.025843035940932353\ \(0\)\

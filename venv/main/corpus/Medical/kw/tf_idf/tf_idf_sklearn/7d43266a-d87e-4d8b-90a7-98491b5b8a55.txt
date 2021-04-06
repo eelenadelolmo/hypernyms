@@ -1,98 +1,96 @@
-Texto: 
-right lower quadrant tenderness with moderate increase in wbc count. +nausea and little emesis.
-excision of involved bowel with re-anastomosis. later development of ileus with non-surgical management pursued.
-well-circumscribed 5.1 x 3.9 cm cystic mass with dependent peripherally calcified densities within that are faceted and almost appear to have a cortex. presence of peri-lesional free fluid but no clear connection of lesion with bowel.
-meckel's diverticulum with what are listed as fecoliths
-ectopic appendix with fecalith
-enteric duplication cyst
-rlq pain presenting to er to r/o appendicitis.
-2 large fecaliths within larger than average-sized meckel's diverticulum in a patient outside of the usual presenting age.  we wanted genetic testing on those "fecoliths"....they look a lot like pigs knuckles.  a case of southern-fried abdominal pain!
-
-
-Keywords by value: 
-- fecoliths: 0.32097084513267227
-- meckel: 0.21927470173763625
-- diverticulum: 0.17780437281064643
-- faceted: 0.16048542256633613
-- fecaliths: 0.16048542256633613
-- presenting: 0.15722380538546396
-- pigs: 0.15335238895859962
-- knuckles: 0.15335238895859962
-- wanted: 0.14829142107232116
-- with: 0.13755185715666254
-- fecalith: 0.13609741957830618
-- lot: 0.1340253538568481
-- pursued: 0.13217182790828427
-- bowel: 0.1288035452966847
-- of: 0.1178311877419697
-- listed: 0.11469831875509659
-- ileus: 0.10915534193687029
-- connection: 0.10915534193687029
-- peripherally: 0.10651154353459286
-- enteric: 0.10532510131590755
-- rlq: 0.1042136438327496
-- usual: 0.1042136438327496
-- emesis: 0.10186452946450539
-- duplication: 0.10155315451320115
-- look: 0.10094646592767594
-- densities: 0.1003600041054988
-- genetic: 0.09897407313847872
-- little: 0.09870952340908086
-- dependent: 0.09672519964249585
-- what: 0.09649218662692269
-- we: 0.09649218662692269
-- within: 0.0924384926555629
-- appendix: 0.0904739655563228
-- almost: 0.09014817429225244
-- testing: 0.09014817429225244
-- larger: 0.08982830683511876
-- ectopic: 0.08875246443366094
-- those: 0.08587104598375599
-- appendicitis: 0.08512760188981719
-- development: 0.08296142392374523
-- count: 0.08285447997444184
-- cortex: 0.08171910375818525
-- calcified: 0.0808417472788184
-- increase: 0.08055875631632503
-- outside: 0.08055875631632503
-- involved: 0.08046542864129581
-- excision: 0.07912185797763223
-- appear: 0.07903583225372332
-- free: 0.0781163142730516
-- are: 0.07615838544829204
-- moderate: 0.07533478848381664
-- to: 0.07526374998987835
-- er: 0.07505882634695789
-- like: 0.07458607015044873
-- management: 0.07412568657523018
-- clear: 0.07275254673443664
-- presence: 0.07210418363889269
-- pain: 0.07181960310444477
-- later: 0.07181719154039541
-- they: 0.07170369291778289
-- wbc: 0.07092906729272247
-- quadrant: 0.07029121281396612
-- age: 0.06300226481359533
-- tenderness: 0.0629334106142162
-- cystic: 0.060438869775609055
-- fluid: 0.057941296927316865
-- cyst: 0.05788963102972912
-- cm: 0.05763355335707289
-- than: 0.0568869536755392
-- abdominal: 0.054885419715881296
-- lower: 0.05128021421405992
-- case: 0.05041598222248877
-- large: 0.05028156150749069
-- have: 0.050131555833726575
-- in: 0.049928867978869834
-- but: 0.04962444588276531
-- lesion: 0.04811119939929315
-- that: 0.04354920215865226
-- and: 0.041473212489286995
-- as: 0.040315142777539704
-- mass: 0.03833195893290617
-- right: 0.0332709910466277
-- patient: 0.03263961585068754
-- no: 0.03263347652922094
-- on: 0.030308163975409717
-- the: 0.02002395103900178
+\-\ Texto\\:\\ \ \(0\)\
+\-\ right\\ lower\\ quadrant\\ tenderness\\ with\\ moderate\\ increase\\ in\\ wbc\\ count\\.\\ \\+nausea\\ and\\ little\\ emesis\\.\ \(0\)\
+\-\ excision\\ of\\ involved\\ bowel\\ with\\ re\\-anastomosis\\.\\ later\\ development\\ of\\ ileus\\ with\\ non\\-surgical\\ management\\ pursued\\.\ \(0\)\
+\-\ well\\-circumscribed\\ 5\\.1\\ x\\ 3\\.9\\ cm\\ cystic\\ mass\\ with\\ dependent\\ peripherally\\ calcified\\ densities\\ within\\ that\\ are\\ faceted\\ and\\ almost\\ appear\\ to\\ have\\ a\\ cortex\\.\\ presence\\ of\\ peri\\-lesional\\ free\\ fluid\\ but\\ no\\ clear\\ connection\\ of\\ lesion\\ with\\ bowel\\.\ \(0\)\
+\-\ meckel\\'s\\ diverticulum\\ with\\ what\\ are\\ listed\\ as\\ fecoliths\ \(0\)\
+\-\ ectopic\\ appendix\\ with\\ fecalith\ \(1\)\
+\-\ enteric\\ duplication\\ cyst\ \(2\)\
+\-\ rlq\\ pain\\ presenting\\ to\\ er\\ to\\ r\\/o\\ appendicitis\\.\ \(0\)\
+\-\ 2\\ large\\ fecaliths\\ within\\ larger\\ than\\ average\\-sized\\ meckel\\'s\\ diverticulum\\ in\\ a\\ patient\\ outside\\ of\\ the\\ usual\\ presenting\\ age\\.\\ \\ we\\ wanted\\ genetic\\ testing\\ on\\ those\\ \\"fecoliths\\"\\.\\.\\.\\.they\\ look\\ a\\ lot\\ like\\ pigs\\ knuckles\\.\\ \\ a\\ case\\ of\\ southern\\-fried\\ abdominal\\ pain\\!\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ fecoliths\\:\\ 0\\.32097084513267227\ \(0\)\
+\-\ meckel\\:\\ 0\\.21927470173763625\ \(0\)\
+\-\ diverticulum\\:\\ 0\\.17780437281064643\ \(0\)\
+\-\ faceted\\:\\ 0\\.16048542256633613\ \(0\)\
+\-\ fecaliths\\:\\ 0\\.16048542256633613\ \(0\)\
+\-\ presenting\\:\\ 0\\.15722380538546396\ \(0\)\
+\-\ pigs\\:\\ 0\\.15335238895859962\ \(0\)\
+\-\ knuckles\\:\\ 0\\.15335238895859962\ \(0\)\
+\-\ wanted\\:\\ 0\\.14829142107232116\ \(0\)\
+\-\ with\\:\\ 0\\.13755185715666254\ \(0\)\
+\-\ fecalith\\:\\ 0\\.13609741957830618\ \(0\)\
+\-\ lot\\:\\ 0\\.1340253538568481\ \(0\)\
+\-\ pursued\\:\\ 0\\.13217182790828427\ \(0\)\
+\-\ bowel\\:\\ 0\\.1288035452966847\ \(0\)\
+\-\ of\\:\\ 0\\.1178311877419697\ \(0\)\
+\-\ listed\\:\\ 0\\.11469831875509659\ \(0\)\
+\-\ ileus\\:\\ 0\\.10915534193687029\ \(0\)\
+\-\ connection\\:\\ 0\\.10915534193687029\ \(0\)\
+\-\ peripherally\\:\\ 0\\.10651154353459286\ \(0\)\
+\-\ enteric\\:\\ 0\\.10532510131590755\ \(0\)\
+\-\ rlq\\:\\ 0\\.1042136438327496\ \(0\)\
+\-\ usual\\:\\ 0\\.1042136438327496\ \(0\)\
+\-\ emesis\\:\\ 0\\.10186452946450539\ \(0\)\
+\-\ duplication\\:\\ 0\\.10155315451320115\ \(0\)\
+\-\ look\\:\\ 0\\.10094646592767594\ \(0\)\
+\-\ densities\\:\\ 0\\.1003600041054988\ \(0\)\
+\-\ genetic\\:\\ 0\\.09897407313847872\ \(0\)\
+\-\ little\\:\\ 0\\.09870952340908086\ \(0\)\
+\-\ dependent\\:\\ 0\\.09672519964249585\ \(0\)\
+\-\ what\\:\\ 0\\.09649218662692269\ \(0\)\
+\-\ we\\:\\ 0\\.09649218662692269\ \(0\)\
+\-\ within\\:\\ 0\\.0924384926555629\ \(0\)\
+\-\ appendix\\:\\ 0\\.0904739655563228\ \(0\)\
+\-\ almost\\:\\ 0\\.09014817429225244\ \(0\)\
+\-\ testing\\:\\ 0\\.09014817429225244\ \(0\)\
+\-\ larger\\:\\ 0\\.08982830683511876\ \(0\)\
+\-\ ectopic\\:\\ 0\\.08875246443366094\ \(0\)\
+\-\ those\\:\\ 0\\.08587104598375599\ \(0\)\
+\-\ appendicitis\\:\\ 0\\.08512760188981719\ \(0\)\
+\-\ development\\:\\ 0\\.08296142392374523\ \(0\)\
+\-\ count\\:\\ 0\\.08285447997444184\ \(0\)\
+\-\ cortex\\:\\ 0\\.08171910375818525\ \(0\)\
+\-\ calcified\\:\\ 0\\.0808417472788184\ \(0\)\
+\-\ increase\\:\\ 0\\.08055875631632503\ \(0\)\
+\-\ outside\\:\\ 0\\.08055875631632503\ \(0\)\
+\-\ involved\\:\\ 0\\.08046542864129581\ \(0\)\
+\-\ excision\\:\\ 0\\.07912185797763223\ \(0\)\
+\-\ appear\\:\\ 0\\.07903583225372332\ \(0\)\
+\-\ free\\:\\ 0\\.0781163142730516\ \(0\)\
+\-\ are\\:\\ 0\\.07615838544829204\ \(0\)\
+\-\ moderate\\:\\ 0\\.07533478848381664\ \(0\)\
+\-\ to\\:\\ 0\\.07526374998987835\ \(0\)\
+\-\ er\\:\\ 0\\.07505882634695789\ \(0\)\
+\-\ like\\:\\ 0\\.07458607015044873\ \(0\)\
+\-\ management\\:\\ 0\\.07412568657523018\ \(0\)\
+\-\ clear\\:\\ 0\\.07275254673443664\ \(0\)\
+\-\ presence\\:\\ 0\\.07210418363889269\ \(0\)\
+\-\ pain\\:\\ 0\\.07181960310444477\ \(0\)\
+\-\ later\\:\\ 0\\.07181719154039541\ \(0\)\
+\-\ they\\:\\ 0\\.07170369291778289\ \(0\)\
+\-\ wbc\\:\\ 0\\.07092906729272247\ \(0\)\
+\-\ quadrant\\:\\ 0\\.07029121281396612\ \(0\)\
+\-\ age\\:\\ 0\\.06300226481359533\ \(0\)\
+\-\ tenderness\\:\\ 0\\.0629334106142162\ \(0\)\
+\-\ cystic\\:\\ 0\\.060438869775609055\ \(0\)\
+\-\ fluid\\:\\ 0\\.057941296927316865\ \(0\)\
+\-\ cyst\\:\\ 0\\.05788963102972912\ \(0\)\
+\-\ cm\\:\\ 0\\.05763355335707289\ \(0\)\
+\-\ than\\:\\ 0\\.0568869536755392\ \(0\)\
+\-\ abdominal\\:\\ 0\\.054885419715881296\ \(0\)\
+\-\ lower\\:\\ 0\\.05128021421405992\ \(0\)\
+\-\ case\\:\\ 0\\.05041598222248877\ \(0\)\
+\-\ large\\:\\ 0\\.05028156150749069\ \(0\)\
+\-\ have\\:\\ 0\\.050131555833726575\ \(0\)\
+\-\ in\\:\\ 0\\.049928867978869834\ \(0\)\
+\-\ but\\:\\ 0\\.04962444588276531\ \(0\)\
+\-\ lesion\\:\\ 0\\.04811119939929315\ \(0\)\
+\-\ that\\:\\ 0\\.04354920215865226\ \(0\)\
+\-\ and\\:\\ 0\\.041473212489286995\ \(0\)\
+\-\ as\\:\\ 0\\.040315142777539704\ \(0\)\
+\-\ mass\\:\\ 0\\.03833195893290617\ \(0\)\
+\-\ right\\:\\ 0\\.0332709910466277\ \(0\)\
+\-\ patient\\:\\ 0\\.03263961585068754\ \(0\)\
+\-\ no\\:\\ 0\\.03263347652922094\ \(0\)\
+\-\ on\\:\\ 0\\.030308163975409717\ \(0\)\
+\-\ the\\:\\ 0\\.02002395103900178\ \(0\)\

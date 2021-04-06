@@ -1,123 +1,121 @@
-Texto: 
-none provided
-annual screening by multidisciplinary team to include physical exam, ophthalmology exam, growth measurements, developmental assessment and review of school progress.
-â€¢ nf spots in r posterior internal capsule.  
-â€¢ l optic glioma.  
-â€¢ scoliosis with severe kyphosis of cervical spine.
-â€¢ posterior cervical fusion mass.
-â€¢ dural ectasia.  widened spinal canal.  posterior vertebral body scalloping.   
-â€¢ syrinx.  
-â€¢ plexiform neurofibroma of l apex.
-neurofibromatosis type 1 (nf1) with optic glioma, dural ectasia, thoracic syrinx.
-â€¢ neurofibromatosis 1
-10 yo girl with known disease for routine followup
-nf1 or von recklinghausen disease is an autosomal dominant disorder, from a mutation on chromosome 17.  it is found in approximately 1 in 3000 individuals.  common findings include caf?-au-lait spots, axillary or inguinal freckling, neurofibromas, optic gliomas, lisch nodules, a variety of bony lesions, including dural ectasia with associated scalloping of the posterior vertebral bodies, pseudoarthrosis, cns and soft tissue tumors, cognitive deficits, learning disabilities, seizures and macrocephaly.
-
-
-Keywords by value: 
-- ectasia: 0.2771327246947358
-- dural: 0.21982725137935374
-- optic: 0.21324015119858747
-- spots: 0.20049328759711188
-- nf1: 0.20049328759711188
-- syrinx: 0.19339678022824214
-- scalloping: 0.17963285262182166
-- posterior: 0.17079712332206648
-- neurofibromatosis: 0.16376878654207108
-- glioma: 0.14029165473946836
-- vertebral: 0.12611232511932027
-- freckling: 0.12201881517613122
-- 3000: 0.11878871568030297
-- caf: 0.11878871568030297
-- lisch: 0.11878871568030297
-- disabilities: 0.11878871568030297
-- cervical: 0.11828070284555033
-- multidisciplinary: 0.11391813440887735
-- recklinghausen: 0.11391813440887735
-- learning: 0.11198520969985731
-- plexiform: 0.10875511020402905
-- pseudoarthrosis: 0.10875511020402905
-- kyphosis: 0.10737545409512474
-- chromosome: 0.10495727390811709
-- neurofibromas: 0.10495727390811709
-- macrocephaly: 0.10388452893260343
-- nf: 0.10288582725337836
-- include: 0.09826052824084004
-- ophthalmology: 0.09734184861885081
-- measurements: 0.0960823212729327
-- gliomas: 0.09549140523192685
-- cognitive: 0.09549140523192685
-- school: 0.09334296141233243
-- mutation: 0.09285222177710444
-- scoliosis: 0.09147256566820013
-- von: 0.09147256566820013
-- team: 0.08833046299572074
-- widened: 0.08764102637018793
-- variety: 0.08730824314257689
-- individuals: 0.08635347300803625
-- autosomal: 0.0851711481537189
-- progress: 0.08407814364674862
-- inguinal: 0.08330935593605851
-- exam: 0.08313471590426062
-- neurofibroma: 0.08165996345974097
-- axillary: 0.08122128040773592
-- of: 0.08079598612372138
-- assessment: 0.08079550168719646
-- capsule: 0.08079550168719646
-- apex: 0.07760742089391401
-- dominant: 0.07727463766630296
-- cns: 0.07711107171284451
-- annual: 0.07631986753176233
-- followup: 0.07290614486084178
-- bodies: 0.07231036394569743
-- developmental: 0.07140535471565228
-- deficits: 0.07097322015182174
-- disorder: 0.06984735426215102
-- fusion: 0.06936318093815508
-- disease: 0.0693225381003108
-- growth: 0.06808779010258045
-- review: 0.06800085030452416
-- provided: 0.06774312065599347
-- seizures: 0.0674064675091339
-- screening: 0.06707746623657058
-- nodules: 0.06560936525253798
-- with: 0.06467540936494215
-- routine: 0.06394528436008151
-- bony: 0.06362143566594793
-- canal: 0.06355752636627357
-- thoracic: 0.06170453246698942
-- in: 0.061624549179712856
-- tumors: 0.06072829073464861
-- including: 0.05909342939510047
-- spinal: 0.05863238937877809
-- girl: 0.05792396995935981
-- or: 0.057451447355856285
-- internal: 0.055649426260253855
-- type: 0.05539321722025053
-- spine: 0.05454769615418705
-- body: 0.05434381344763814
-- known: 0.05346029251123048
-- found: 0.0534285828975363
-- approximately: 0.05268767409034884
-- severe: 0.05227236679289941
-- yo: 0.05158701120287795
-- and: 0.05118818283179108
-- 10: 0.048284576124189946
-- lesions: 0.04742268867725471
-- common: 0.04682842610222335
-- is: 0.04522642857993229
-- none: 0.045125696613913406
-- physical: 0.044773049871408704
-- soft: 0.043960180450490154
-- associated: 0.04352223479350133
-- tissue: 0.04331600596045728
-- it: 0.042268034193867016
-- findings: 0.04075315463142256
-- by: 0.035065342562988745
-- from: 0.032794548873005994
-- an: 0.031575690021934076
-- mass: 0.03154073363483561
-- for: 0.02502728379245947
-- on: 0.024938504410446073
-- to: 0.02064312179596398
-- the: 0.016476332637828533
+\-\ Texto\\:\\ \ \(0\)\
+\-\ none\\ provided\ \(5\)\
+\-\ annual\\ screening\\ by\\ multidisciplinary\\ team\\ to\\ include\\ physical\\ exam\\,\\ ophthalmology\\ exam\\,\\ growth\\ measurements\\,\\ developmental\\ assessment\\ and\\ review\\ of\\ school\\ progress\\.\ \(0\)\
+\-\ \\â\\€\\¢\\ nf\\ spots\\ in\\ r\\ posterior\\ internal\\ capsule\\.\\ \\ \ \(0\)\
+\-\ \\â\\€\\¢\\ l\\ optic\\ glioma\\.\\ \\ \ \(0\)\
+\-\ \\â\\€\\¢\\ scoliosis\\ with\\ severe\\ kyphosis\\ of\\ cervical\\ spine\\.\ \(0\)\
+\-\ \\â\\€\\¢\\ posterior\\ cervical\\ fusion\\ mass\\.\ \(0\)\
+\-\ \\â\\€\\¢\\ dural\\ ectasia\\.\\ \\ widened\\ spinal\\ canal\\.\\ \\ posterior\\ vertebral\\ body\\ scalloping\\.\\ \\ \\ \ \(0\)\
+\-\ \\â\\€\\¢\\ syrinx\\.\\ \\ \ \(0\)\
+\-\ \\â\\€\\¢\\ plexiform\\ neurofibroma\\ of\\ l\\ apex\\.\ \(0\)\
+\-\ neurofibromatosis\\ type\\ 1\\ \\(nf1\\)\\ with\\ optic\\ glioma\\,\\ dural\\ ectasia\\,\\ thoracic\\ syrinx\\.\ \(0\)\
+\-\ \\â\\€\\¢\\ neurofibromatosis\\ 1\ \(0\)\
+\-\ 10\\ yo\\ girl\\ with\\ known\\ disease\\ for\\ routine\\ followup\ \(1\)\
+\-\ nf1\\ or\\ von\\ recklinghausen\\ disease\\ is\\ an\\ autosomal\\ dominant\\ disorder\\,\\ from\\ a\\ mutation\\ on\\ chromosome\\ 17\\.\\ \\ it\\ is\\ found\\ in\\ approximately\\ 1\\ in\\ 3000\\ individuals\\.\\ \\ common\\ findings\\ include\\ caf\\?\\-au\\-lait\\ spots\\,\\ axillary\\ or\\ inguinal\\ freckling\\,\\ neurofibromas\\,\\ optic\\ gliomas\\,\\ lisch\\ nodules\\,\\ a\\ variety\\ of\\ bony\\ lesions\\,\\ including\\ dural\\ ectasia\\ with\\ associated\\ scalloping\\ of\\ the\\ posterior\\ vertebral\\ bodies\\,\\ pseudoarthrosis\\,\\ cns\\ and\\ soft\\ tissue\\ tumors\\,\\ cognitive\\ deficits\\,\\ learning\\ disabilities\\,\\ seizures\\ and\\ macrocephaly\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ ectasia\\:\\ 0\\.2771327246947358\ \(0\)\
+\-\ dural\\:\\ 0\\.21982725137935374\ \(0\)\
+\-\ optic\\:\\ 0\\.21324015119858747\ \(0\)\
+\-\ spots\\:\\ 0\\.20049328759711188\ \(0\)\
+\-\ nf1\\:\\ 0\\.20049328759711188\ \(0\)\
+\-\ syrinx\\:\\ 0\\.19339678022824214\ \(0\)\
+\-\ scalloping\\:\\ 0\\.17963285262182166\ \(0\)\
+\-\ posterior\\:\\ 0\\.17079712332206648\ \(0\)\
+\-\ neurofibromatosis\\:\\ 0\\.16376878654207108\ \(0\)\
+\-\ glioma\\:\\ 0\\.14029165473946836\ \(0\)\
+\-\ vertebral\\:\\ 0\\.12611232511932027\ \(0\)\
+\-\ freckling\\:\\ 0\\.12201881517613122\ \(0\)\
+\-\ 3000\\:\\ 0\\.11878871568030297\ \(0\)\
+\-\ caf\\:\\ 0\\.11878871568030297\ \(0\)\
+\-\ lisch\\:\\ 0\\.11878871568030297\ \(0\)\
+\-\ disabilities\\:\\ 0\\.11878871568030297\ \(0\)\
+\-\ cervical\\:\\ 0\\.11828070284555033\ \(0\)\
+\-\ multidisciplinary\\:\\ 0\\.11391813440887735\ \(0\)\
+\-\ recklinghausen\\:\\ 0\\.11391813440887735\ \(0\)\
+\-\ learning\\:\\ 0\\.11198520969985731\ \(0\)\
+\-\ plexiform\\:\\ 0\\.10875511020402905\ \(0\)\
+\-\ pseudoarthrosis\\:\\ 0\\.10875511020402905\ \(0\)\
+\-\ kyphosis\\:\\ 0\\.10737545409512474\ \(0\)\
+\-\ chromosome\\:\\ 0\\.10495727390811709\ \(0\)\
+\-\ neurofibromas\\:\\ 0\\.10495727390811709\ \(0\)\
+\-\ macrocephaly\\:\\ 0\\.10388452893260343\ \(0\)\
+\-\ nf\\:\\ 0\\.10288582725337836\ \(0\)\
+\-\ include\\:\\ 0\\.09826052824084004\ \(0\)\
+\-\ ophthalmology\\:\\ 0\\.09734184861885081\ \(0\)\
+\-\ measurements\\:\\ 0\\.0960823212729327\ \(0\)\
+\-\ gliomas\\:\\ 0\\.09549140523192685\ \(0\)\
+\-\ cognitive\\:\\ 0\\.09549140523192685\ \(0\)\
+\-\ school\\:\\ 0\\.09334296141233243\ \(0\)\
+\-\ mutation\\:\\ 0\\.09285222177710444\ \(0\)\
+\-\ scoliosis\\:\\ 0\\.09147256566820013\ \(0\)\
+\-\ von\\:\\ 0\\.09147256566820013\ \(0\)\
+\-\ team\\:\\ 0\\.08833046299572074\ \(0\)\
+\-\ widened\\:\\ 0\\.08764102637018793\ \(0\)\
+\-\ variety\\:\\ 0\\.08730824314257689\ \(0\)\
+\-\ individuals\\:\\ 0\\.08635347300803625\ \(0\)\
+\-\ autosomal\\:\\ 0\\.0851711481537189\ \(0\)\
+\-\ progress\\:\\ 0\\.08407814364674862\ \(0\)\
+\-\ inguinal\\:\\ 0\\.08330935593605851\ \(0\)\
+\-\ exam\\:\\ 0\\.08313471590426062\ \(0\)\
+\-\ neurofibroma\\:\\ 0\\.08165996345974097\ \(0\)\
+\-\ axillary\\:\\ 0\\.08122128040773592\ \(0\)\
+\-\ of\\:\\ 0\\.08079598612372138\ \(0\)\
+\-\ assessment\\:\\ 0\\.08079550168719646\ \(0\)\
+\-\ capsule\\:\\ 0\\.08079550168719646\ \(0\)\
+\-\ apex\\:\\ 0\\.07760742089391401\ \(0\)\
+\-\ dominant\\:\\ 0\\.07727463766630296\ \(0\)\
+\-\ cns\\:\\ 0\\.07711107171284451\ \(0\)\
+\-\ annual\\:\\ 0\\.07631986753176233\ \(0\)\
+\-\ followup\\:\\ 0\\.07290614486084178\ \(0\)\
+\-\ bodies\\:\\ 0\\.07231036394569743\ \(0\)\
+\-\ developmental\\:\\ 0\\.07140535471565228\ \(0\)\
+\-\ deficits\\:\\ 0\\.07097322015182174\ \(0\)\
+\-\ disorder\\:\\ 0\\.06984735426215102\ \(0\)\
+\-\ fusion\\:\\ 0\\.06936318093815508\ \(0\)\
+\-\ disease\\:\\ 0\\.0693225381003108\ \(0\)\
+\-\ growth\\:\\ 0\\.06808779010258045\ \(0\)\
+\-\ review\\:\\ 0\\.06800085030452416\ \(0\)\
+\-\ provided\\:\\ 0\\.06774312065599347\ \(0\)\
+\-\ seizures\\:\\ 0\\.0674064675091339\ \(0\)\
+\-\ screening\\:\\ 0\\.06707746623657058\ \(0\)\
+\-\ nodules\\:\\ 0\\.06560936525253798\ \(0\)\
+\-\ with\\:\\ 0\\.06467540936494215\ \(0\)\
+\-\ routine\\:\\ 0\\.06394528436008151\ \(0\)\
+\-\ bony\\:\\ 0\\.06362143566594793\ \(0\)\
+\-\ canal\\:\\ 0\\.06355752636627357\ \(0\)\
+\-\ thoracic\\:\\ 0\\.06170453246698942\ \(0\)\
+\-\ in\\:\\ 0\\.061624549179712856\ \(0\)\
+\-\ tumors\\:\\ 0\\.06072829073464861\ \(0\)\
+\-\ including\\:\\ 0\\.05909342939510047\ \(0\)\
+\-\ spinal\\:\\ 0\\.05863238937877809\ \(0\)\
+\-\ girl\\:\\ 0\\.05792396995935981\ \(0\)\
+\-\ or\\:\\ 0\\.057451447355856285\ \(0\)\
+\-\ internal\\:\\ 0\\.055649426260253855\ \(0\)\
+\-\ type\\:\\ 0\\.05539321722025053\ \(0\)\
+\-\ spine\\:\\ 0\\.05454769615418705\ \(0\)\
+\-\ body\\:\\ 0\\.05434381344763814\ \(0\)\
+\-\ known\\:\\ 0\\.05346029251123048\ \(0\)\
+\-\ found\\:\\ 0\\.0534285828975363\ \(0\)\
+\-\ approximately\\:\\ 0\\.05268767409034884\ \(0\)\
+\-\ severe\\:\\ 0\\.05227236679289941\ \(0\)\
+\-\ yo\\:\\ 0\\.05158701120287795\ \(0\)\
+\-\ and\\:\\ 0\\.05118818283179108\ \(0\)\
+\-\ 10\\:\\ 0\\.048284576124189946\ \(0\)\
+\-\ lesions\\:\\ 0\\.04742268867725471\ \(0\)\
+\-\ common\\:\\ 0\\.04682842610222335\ \(0\)\
+\-\ is\\:\\ 0\\.04522642857993229\ \(0\)\
+\-\ none\\:\\ 0\\.045125696613913406\ \(0\)\
+\-\ physical\\:\\ 0\\.044773049871408704\ \(0\)\
+\-\ soft\\:\\ 0\\.043960180450490154\ \(0\)\
+\-\ associated\\:\\ 0\\.04352223479350133\ \(0\)\
+\-\ tissue\\:\\ 0\\.04331600596045728\ \(0\)\
+\-\ it\\:\\ 0\\.042268034193867016\ \(0\)\
+\-\ findings\\:\\ 0\\.04075315463142256\ \(0\)\
+\-\ by\\:\\ 0\\.035065342562988745\ \(0\)\
+\-\ from\\:\\ 0\\.032794548873005994\ \(0\)\
+\-\ an\\:\\ 0\\.031575690021934076\ \(0\)\
+\-\ mass\\:\\ 0\\.03154073363483561\ \(0\)\
+\-\ for\\:\\ 0\\.02502728379245947\ \(0\)\
+\-\ on\\:\\ 0\\.024938504410446073\ \(0\)\
+\-\ to\\:\\ 0\\.02064312179596398\ \(0\)\
+\-\ the\\:\\ 0\\.016476332637828533\ \(0\)\

@@ -1,56 +1,52 @@
-Texto: 
-noncontributory
-ct: permeative lytic lesion in r iliac w/ aggressive periosteal reaction
-
-bone scan: focal radiotracer uptake in r iliac
-
-mr: abnormal bone marrow signal throughout r iliac wing, heterogenous enhancement s/p gad, soft tissue mass
-ewing sarcoma
-ewing sarcoma
-chondroblastic osteosarcoma
-osteomyelitis
-patient is a 12 year old girl with r hip pain
-
-
-Keywords by value: 
-- iliac: 0.45368228598104343
-- ewing: 0.35433654362892103
-- sarcoma: 0.2756099612855812
-- chondroblastic: 0.24274899542334996
-- permeative: 0.21361692110428174
-- gad: 0.18775800685710606
-- bone: 0.1792662701251836
-- wing: 0.17868430559678078
-- osteosarcoma: 0.1554177547984146
-- heterogenous: 0.15473205594294434
-- noncontributory: 0.14627848644534752
-- periosteal: 0.1445623537447112
-- radiotracer: 0.1433962838700714
-- aggressive: 0.14205660086153069
-- osteomyelitis: 0.14162354019904283
-- reaction: 0.13975153165713872
-- lytic: 0.13837525653266491
-- marrow: 0.1365166767582528
-- uptake: 0.12631723992509636
-- hip: 0.12619120912716253
-- throughout: 0.12081523286661772
-- girl: 0.11523620761495021
-- 12: 0.11229675255289495
-- mr: 0.10629290906118545
-- abnormal: 0.09869375227391204
-- focal: 0.09826141400832783
-- scan: 0.09746207150262254
-- enhancement: 0.0945533819249138
-- signal: 0.09312238535159137
-- soft: 0.0874560995169632
-- tissue: 0.08617455363318201
-- in: 0.08173218960916662
-- lesion: 0.07875671592016853
-- mass: 0.06274836707535525
-- ct: 0.0625407382641649
-- pain: 0.0587833617725098
-- patient: 0.05343015733118047
-- year: 0.05062608062193076
-- old: 0.04861856204976267
-- is: 0.04498761149465761
-- with: 0.0321669461985662
+\-\ Texto\\:\\ \ \(0\)\
+\-\ noncontributory\ \(52\)\
+\-\ ct\\:\\ permeative\\ lytic\\ lesion\\ in\\ r\\ iliac\\ w\\/\\ aggressive\\ periosteal\\ reaction\ \(0\)\
+\-\ bone\\ scan\\:\\ focal\\ radiotracer\\ uptake\\ in\\ r\\ iliac\ \(0\)\
+\-\ mr\\:\\ abnormal\\ bone\\ marrow\\ signal\\ throughout\\ r\\ iliac\\ wing\\,\\ heterogenous\\ enhancement\\ s\\/p\\ gad\\,\\ soft\\ tissue\\ mass\ \(0\)\
+\-\ ewing\\ sarcoma\ \(0\)\
+\-\ ewing\\ sarcoma\ \(0\)\
+\-\ chondroblastic\\ osteosarcoma\ \(3\)\
+\-\ osteomyelitis\ \(170\)\
+\-\ patient\\ is\\ a\\ 12\\ year\\ old\\ girl\\ with\\ r\\ hip\\ pain\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ iliac\\:\\ 0\\.45368228598104343\ \(0\)\
+\-\ ewing\\:\\ 0\\.35433654362892103\ \(0\)\
+\-\ sarcoma\\:\\ 0\\.2756099612855812\ \(0\)\
+\-\ chondroblastic\\:\\ 0\\.24274899542334996\ \(0\)\
+\-\ permeative\\:\\ 0\\.21361692110428174\ \(0\)\
+\-\ gad\\:\\ 0\\.18775800685710606\ \(0\)\
+\-\ bone\\:\\ 0\\.1792662701251836\ \(0\)\
+\-\ wing\\:\\ 0\\.17868430559678078\ \(0\)\
+\-\ osteosarcoma\\:\\ 0\\.1554177547984146\ \(0\)\
+\-\ heterogenous\\:\\ 0\\.15473205594294434\ \(0\)\
+\-\ noncontributory\\:\\ 0\\.14627848644534752\ \(0\)\
+\-\ periosteal\\:\\ 0\\.1445623537447112\ \(0\)\
+\-\ radiotracer\\:\\ 0\\.1433962838700714\ \(0\)\
+\-\ aggressive\\:\\ 0\\.14205660086153069\ \(0\)\
+\-\ osteomyelitis\\:\\ 0\\.14162354019904283\ \(0\)\
+\-\ reaction\\:\\ 0\\.13975153165713872\ \(0\)\
+\-\ lytic\\:\\ 0\\.13837525653266491\ \(0\)\
+\-\ marrow\\:\\ 0\\.1365166767582528\ \(0\)\
+\-\ uptake\\:\\ 0\\.12631723992509636\ \(0\)\
+\-\ hip\\:\\ 0\\.12619120912716253\ \(0\)\
+\-\ throughout\\:\\ 0\\.12081523286661772\ \(0\)\
+\-\ girl\\:\\ 0\\.11523620761495021\ \(0\)\
+\-\ 12\\:\\ 0\\.11229675255289495\ \(0\)\
+\-\ mr\\:\\ 0\\.10629290906118545\ \(0\)\
+\-\ abnormal\\:\\ 0\\.09869375227391204\ \(0\)\
+\-\ focal\\:\\ 0\\.09826141400832783\ \(0\)\
+\-\ scan\\:\\ 0\\.09746207150262254\ \(0\)\
+\-\ enhancement\\:\\ 0\\.0945533819249138\ \(0\)\
+\-\ signal\\:\\ 0\\.09312238535159137\ \(0\)\
+\-\ soft\\:\\ 0\\.0874560995169632\ \(0\)\
+\-\ tissue\\:\\ 0\\.08617455363318201\ \(0\)\
+\-\ in\\:\\ 0\\.08173218960916662\ \(0\)\
+\-\ lesion\\:\\ 0\\.07875671592016853\ \(0\)\
+\-\ mass\\:\\ 0\\.06274836707535525\ \(0\)\
+\-\ ct\\:\\ 0\\.0625407382641649\ \(0\)\
+\-\ pain\\:\\ 0\\.0587833617725098\ \(0\)\
+\-\ patient\\:\\ 0\\.05343015733118047\ \(0\)\
+\-\ year\\:\\ 0\\.05062608062193076\ \(0\)\
+\-\ old\\:\\ 0\\.04861856204976267\ \(0\)\
+\-\ is\\:\\ 0\\.04498761149465761\ \(0\)\
+\-\ with\\:\\ 0\\.0321669461985662\ \(0\)\

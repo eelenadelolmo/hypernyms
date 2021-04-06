@@ -1,93 +1,91 @@
-Texto: 
-axial contrast-enhanced ct images reveal a large, mildly heterogeneous, enhancing right hilar mass that measures 7.2cm ap.  no distinct calcification or necrosis is appreciated, no other masses or nodules are appreciated. the mass exerts minimal compressive effect on the superior vena cava and right atrium.
-castleman disease
-broad differential for asymmetric hilar lymphadenopathy includes infection (tuberculosis or other granulomatous/infectious causes), primary or metastatic lung cancer, metastatic disease, lymphoma, sarcoidosis, inflammatory pneumoconioses, collagen vascular disease, reactive hyperplasia
-50yo man presents for follow-up of his "castleman disease, hyaline vascular variant".  no prior studies are available.
-if the mass continues to grow, it could compress the right atrium/svc and result in superior vena cava syndrome, so continued monitoring was recommended.
-
-
-Keywords by value: 
-- castleman: 0.27235772015158544
-- atrium: 0.21974680800717314
-- vena: 0.20916942506310462
-- cava: 0.2081573450578512
-- hilar: 0.19850896857030742
-- appreciated: 0.19517456413206627
-- disease: 0.18174533422942196
-- 50yo: 0.16540938318312762
-- or: 0.15062247845780086
-- pneumoconioses: 0.14933158811189579
-- exerts: 0.14679777979422556
-- vascular: 0.14291999968584784
-- superior: 0.14074582269636085
-- hyaline: 0.1336450517581225
-- compress: 0.13038412860113172
-- mass: 0.12403717463452199
-- grow: 0.12371622174431324
-- metastatic: 0.11873113395952466
-- compressive: 0.1177374405676554
-- distinct: 0.11488577933204655
-- other: 0.112424080228655
-- collagen: 0.10987340400358657
-- monitoring: 0.10794203915844787
-- right: 0.10766054857612511
-- no: 0.10559763549448391
-- continues: 0.10334405012253901
-- hyperplasia: 0.09868231906304185
-- broad: 0.09776545591513007
-- asymmetric: 0.09741076567210709
-- variant: 0.09605480499685831
-- tuberculosis: 0.09525403742367036
-- reactive: 0.09289747832382078
-- sarcoidosis: 0.09169015685229118
-- reveal: 0.09105119495095249
-- so: 0.09105119495095249
-- continued: 0.08869096716231735
-- measures: 0.08825221060901497
-- lymphadenopathy: 0.087507982849089
-- mildly: 0.08740400792860094
-- the: 0.08639316055636038
-- recommended: 0.08610175624905063
-- nodules: 0.08600518924414048
-- includes: 0.08417039140391193
-- necrosis: 0.08273919720091365
-- minimal: 0.08257770366860029
-- are: 0.08214617096461242
-- causes: 0.08179023069100404
-- result: 0.08103413961371023
-- studies: 0.07940160575573656
-- could: 0.07873338968524905
-- heterogeneous: 0.07834347098936602
-- ap: 0.07771089989656772
-- calcification: 0.0772803218481147
-- effect: 0.07593065378625864
-- masses: 0.07368938384236078
-- available: 0.07343937527835027
-- inflammatory: 0.07319261789323217
-- cancer: 0.07209712265897082
-- differential: 0.07033069692473652
-- enhancing: 0.06780743341173437
-- primary: 0.06655742720919375
-- lung: 0.06584513109418107
-- his: 0.06564643424710198
-- for: 0.0656149094127693
-- infection: 0.06538470078008504
-- syndrome: 0.06525517552964345
-- lymphoma: 0.06446507907107249
-- if: 0.06289155109273795
-- axial: 0.06252472943662445
-- prior: 0.06056183879006256
-- man: 0.057304894950589116
-- it: 0.05540779530222189
-- large: 0.05423483866745545
-- presents: 0.052070203857044806
-- images: 0.050069337763820713
-- that: 0.04697316237521872
-- and: 0.04473395258503438
-- ct: 0.04120891552194087
-- was: 0.03772356413884714
-- on: 0.032691076693556
-- is: 0.029642929282136396
-- to: 0.027060398920458154
-- in: 0.026927207693015667
-- of: 0.02118256761055557
+\-\ Texto\\:\\ \ \(0\)\
+\-\ axial\\ contrast\\-enhanced\\ ct\\ images\\ reveal\\ a\\ large\\,\\ mildly\\ heterogeneous\\,\\ enhancing\\ right\\ hilar\\ mass\\ that\\ measures\\ 7\\.2cm\\ ap\\.\\ \\ no\\ distinct\\ calcification\\ or\\ necrosis\\ is\\ appreciated\\,\\ no\\ other\\ masses\\ or\\ nodules\\ are\\ appreciated\\.\\ the\\ mass\\ exerts\\ minimal\\ compressive\\ effect\\ on\\ the\\ superior\\ vena\\ cava\\ and\\ right\\ atrium\\.\ \(0\)\
+\-\ castleman\\ disease\ \(0\)\
+\-\ broad\\ differential\\ for\\ asymmetric\\ hilar\\ lymphadenopathy\\ includes\\ infection\\ \\(tuberculosis\\ or\\ other\\ granulomatous\\/infectious\\ causes\\)\\,\\ primary\\ or\\ metastatic\\ lung\\ cancer\\,\\ metastatic\\ disease\\,\\ lymphoma\\,\\ sarcoidosis\\,\\ inflammatory\\ pneumoconioses\\,\\ collagen\\ vascular\\ disease\\,\\ reactive\\ hyperplasia\ \(0\)\
+\-\ 50yo\\ man\\ presents\\ for\\ follow\\-up\\ of\\ his\\ \\"castleman\\ disease\\,\\ hyaline\\ vascular\\ variant\\"\\.\\ \\ no\\ prior\\ studies\\ are\\ available\\.\ \(0\)\
+\-\ if\\ the\\ mass\\ continues\\ to\\ grow\\,\\ it\\ could\\ compress\\ the\\ right\\ atrium\\/svc\\ and\\ result\\ in\\ superior\\ vena\\ cava\\ syndrome\\,\\ so\\ continued\\ monitoring\\ was\\ recommended\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ castleman\\:\\ 0\\.27235772015158544\ \(0\)\
+\-\ atrium\\:\\ 0\\.21974680800717314\ \(0\)\
+\-\ vena\\:\\ 0\\.20916942506310462\ \(0\)\
+\-\ cava\\:\\ 0\\.2081573450578512\ \(0\)\
+\-\ hilar\\:\\ 0\\.19850896857030742\ \(0\)\
+\-\ appreciated\\:\\ 0\\.19517456413206627\ \(0\)\
+\-\ disease\\:\\ 0\\.18174533422942196\ \(0\)\
+\-\ 50yo\\:\\ 0\\.16540938318312762\ \(0\)\
+\-\ or\\:\\ 0\\.15062247845780086\ \(0\)\
+\-\ pneumoconioses\\:\\ 0\\.14933158811189579\ \(0\)\
+\-\ exerts\\:\\ 0\\.14679777979422556\ \(0\)\
+\-\ vascular\\:\\ 0\\.14291999968584784\ \(0\)\
+\-\ superior\\:\\ 0\\.14074582269636085\ \(0\)\
+\-\ hyaline\\:\\ 0\\.1336450517581225\ \(0\)\
+\-\ compress\\:\\ 0\\.13038412860113172\ \(0\)\
+\-\ mass\\:\\ 0\\.12403717463452199\ \(0\)\
+\-\ grow\\:\\ 0\\.12371622174431324\ \(0\)\
+\-\ metastatic\\:\\ 0\\.11873113395952466\ \(0\)\
+\-\ compressive\\:\\ 0\\.1177374405676554\ \(0\)\
+\-\ distinct\\:\\ 0\\.11488577933204655\ \(0\)\
+\-\ other\\:\\ 0\\.112424080228655\ \(0\)\
+\-\ collagen\\:\\ 0\\.10987340400358657\ \(0\)\
+\-\ monitoring\\:\\ 0\\.10794203915844787\ \(0\)\
+\-\ right\\:\\ 0\\.10766054857612511\ \(0\)\
+\-\ no\\:\\ 0\\.10559763549448391\ \(0\)\
+\-\ continues\\:\\ 0\\.10334405012253901\ \(0\)\
+\-\ hyperplasia\\:\\ 0\\.09868231906304185\ \(0\)\
+\-\ broad\\:\\ 0\\.09776545591513007\ \(0\)\
+\-\ asymmetric\\:\\ 0\\.09741076567210709\ \(0\)\
+\-\ variant\\:\\ 0\\.09605480499685831\ \(0\)\
+\-\ tuberculosis\\:\\ 0\\.09525403742367036\ \(0\)\
+\-\ reactive\\:\\ 0\\.09289747832382078\ \(0\)\
+\-\ sarcoidosis\\:\\ 0\\.09169015685229118\ \(0\)\
+\-\ reveal\\:\\ 0\\.09105119495095249\ \(0\)\
+\-\ so\\:\\ 0\\.09105119495095249\ \(0\)\
+\-\ continued\\:\\ 0\\.08869096716231735\ \(0\)\
+\-\ measures\\:\\ 0\\.08825221060901497\ \(0\)\
+\-\ lymphadenopathy\\:\\ 0\\.087507982849089\ \(0\)\
+\-\ mildly\\:\\ 0\\.08740400792860094\ \(0\)\
+\-\ the\\:\\ 0\\.08639316055636038\ \(0\)\
+\-\ recommended\\:\\ 0\\.08610175624905063\ \(0\)\
+\-\ nodules\\:\\ 0\\.08600518924414048\ \(0\)\
+\-\ includes\\:\\ 0\\.08417039140391193\ \(0\)\
+\-\ necrosis\\:\\ 0\\.08273919720091365\ \(0\)\
+\-\ minimal\\:\\ 0\\.08257770366860029\ \(0\)\
+\-\ are\\:\\ 0\\.08214617096461242\ \(0\)\
+\-\ causes\\:\\ 0\\.08179023069100404\ \(0\)\
+\-\ result\\:\\ 0\\.08103413961371023\ \(0\)\
+\-\ studies\\:\\ 0\\.07940160575573656\ \(0\)\
+\-\ could\\:\\ 0\\.07873338968524905\ \(0\)\
+\-\ heterogeneous\\:\\ 0\\.07834347098936602\ \(0\)\
+\-\ ap\\:\\ 0\\.07771089989656772\ \(0\)\
+\-\ calcification\\:\\ 0\\.0772803218481147\ \(0\)\
+\-\ effect\\:\\ 0\\.07593065378625864\ \(0\)\
+\-\ masses\\:\\ 0\\.07368938384236078\ \(0\)\
+\-\ available\\:\\ 0\\.07343937527835027\ \(0\)\
+\-\ inflammatory\\:\\ 0\\.07319261789323217\ \(0\)\
+\-\ cancer\\:\\ 0\\.07209712265897082\ \(0\)\
+\-\ differential\\:\\ 0\\.07033069692473652\ \(0\)\
+\-\ enhancing\\:\\ 0\\.06780743341173437\ \(0\)\
+\-\ primary\\:\\ 0\\.06655742720919375\ \(0\)\
+\-\ lung\\:\\ 0\\.06584513109418107\ \(0\)\
+\-\ his\\:\\ 0\\.06564643424710198\ \(0\)\
+\-\ for\\:\\ 0\\.0656149094127693\ \(0\)\
+\-\ infection\\:\\ 0\\.06538470078008504\ \(0\)\
+\-\ syndrome\\:\\ 0\\.06525517552964345\ \(0\)\
+\-\ lymphoma\\:\\ 0\\.06446507907107249\ \(0\)\
+\-\ if\\:\\ 0\\.06289155109273795\ \(0\)\
+\-\ axial\\:\\ 0\\.06252472943662445\ \(0\)\
+\-\ prior\\:\\ 0\\.06056183879006256\ \(0\)\
+\-\ man\\:\\ 0\\.057304894950589116\ \(0\)\
+\-\ it\\:\\ 0\\.05540779530222189\ \(0\)\
+\-\ large\\:\\ 0\\.05423483866745545\ \(0\)\
+\-\ presents\\:\\ 0\\.052070203857044806\ \(0\)\
+\-\ images\\:\\ 0\\.050069337763820713\ \(0\)\
+\-\ that\\:\\ 0\\.04697316237521872\ \(0\)\
+\-\ and\\:\\ 0\\.04473395258503438\ \(0\)\
+\-\ ct\\:\\ 0\\.04120891552194087\ \(0\)\
+\-\ was\\:\\ 0\\.03772356413884714\ \(0\)\
+\-\ on\\:\\ 0\\.032691076693556\ \(0\)\
+\-\ is\\:\\ 0\\.029642929282136396\ \(0\)\
+\-\ to\\:\\ 0\\.027060398920458154\ \(0\)\
+\-\ in\\:\\ 0\\.026927207693015667\ \(0\)\
+\-\ of\\:\\ 0\\.02118256761055557\ \(0\)\

@@ -1,88 +1,86 @@
-Texto: 
-marked pelvic/lower abdominal pain
-low grade fever
-no overt lab abnormalities
-patient underwent emergent surgery revealing a dusky appearing, torsed right ovary. the ovary was detorsed, vascular flow was achieved, and the ovary was saved.
-pelvic ultrasound reveals a markedly enlarged right ovary, heterogeneous in echotexture, with no discernable vascular flow.
-ovarian torsion
-ovarian torsion
-ovarian hyperstimulation syndrome
-32 year old female, currently on clomid for fertility, presents with acute onset lower pelvic pain.
-this patient had been on clomid which had caused bilateral enlargment of the ovaries due to stimulation. there is a reported increased risk of torsion due to the large size.
-
-
-Keywords by value: 
-- ovary: 0.3967165212346845
-- clomid: 0.3241973615354326
-- torsion: 0.30323977583751205
-- ovarian: 0.25906448406955485
-- pelvic: 0.23770112956059056
-- torsed: 0.1458170475538173
-- saved: 0.1458170475538173
-- hyperstimulation: 0.1458170475538173
-- dusky: 0.1425773632358994
-- detorsed: 0.1425773632358994
-- discernable: 0.1425773632358994
-- overt: 0.13983824917382973
-- flow: 0.13502749860996352
-- vascular: 0.1338342595875815
-- enlargment: 0.13180689433531553
-- fertility: 0.12883849878273138
-- due: 0.11652867395058648
-- revealing: 0.11520508905435087
-- achieved: 0.11339650533891012
-- echotexture: 0.1128323605287586
-- ovaries: 0.11175511744224652
-- stimulation: 0.11175511744224652
-- emergent: 0.10931718125091444
-- was: 0.10597618149926105
-- lower: 0.10359140338929015
-- had: 0.10100378785626242
-- lab: 0.0915502899132696
-- markedly: 0.08949468584835991
-- 32: 0.08686255024893169
-- caused: 0.08127429657837892
-- appearing: 0.08099446293720222
-- the: 0.08090095649249056
-- currently: 0.07786307976674713
-- reveals: 0.07710360224562295
-- marked: 0.07666302424656524
-- abnormalities: 0.07342333992864732
-- heterogeneous: 0.07336300347348249
-- reported: 0.07300522489719899
-- grade: 0.07288754851364995
-- pain: 0.07254156003907054
-- risk: 0.07242448468079206
-- underwent: 0.06982467231096515
-- enlarged: 0.06909930347472346
-- fever: 0.06872421685149444
-- size: 0.06863166940805103
-- right: 0.06721088644999637
-- patient: 0.06593544242904106
-- no: 0.06592304035669543
-- onset: 0.06508692920345414
-- ultrasound: 0.06252149099167104
-- on: 0.061225665463476006
-- syndrome: 0.061106759868907894
-- been: 0.05905420341038126
-- low: 0.05816162530795935
-- abdominal: 0.05543714804158788
-- acute: 0.054832552743459294
-- increased: 0.054811335942164946
-- surgery: 0.05449608694657242
-- bilateral: 0.05447526788271113
-- large: 0.05078701016558693
-- to: 0.050680219166313406
-- female: 0.04891147085331099
-- presents: 0.04875998597187291
-- which: 0.046089961936959765
-- there: 0.040331320734774564
-- with: 0.039695593932977176
-- of: 0.03967188998816253
-- this: 0.034829545625890766
-- year: 0.03123753691725801
-- for: 0.030721812337205633
-- old: 0.029998848582316745
-- is: 0.027758462784789696
-- in: 0.025215385616269577
-- and: 0.020945058199705862
+\-\ Texto\\:\\ \ \(0\)\
+\-\ marked\\ pelvic\\/lower\\ abdominal\\ pain\ \(0\)\
+\-\ low\\ grade\\ fever\ \(20\)\
+\-\ no\\ overt\\ lab\\ abnormalities\ \(0\)\
+\-\ patient\\ underwent\\ emergent\\ surgery\\ revealing\\ a\\ dusky\\ appearing\\,\\ torsed\\ right\\ ovary\\.\\ the\\ ovary\\ was\\ detorsed\\,\\ vascular\\ flow\\ was\\ achieved\\,\\ and\\ the\\ ovary\\ was\\ saved\\.\ \(0\)\
+\-\ pelvic\\ ultrasound\\ reveals\\ a\\ markedly\\ enlarged\\ right\\ ovary\\,\\ heterogeneous\\ in\\ echotexture\\,\\ with\\ no\\ discernable\\ vascular\\ flow\\.\ \(0\)\
+\-\ ovarian\\ torsion\ \(10\)\
+\-\ ovarian\\ torsion\ \(10\)\
+\-\ ovarian\\ hyperstimulation\\ syndrome\ \(1\)\
+\-\ 32\\ year\\ old\\ female\\,\\ currently\\ on\\ clomid\\ for\\ fertility\\,\\ presents\\ with\\ acute\\ onset\\ lower\\ pelvic\\ pain\\.\ \(0\)\
+\-\ this\\ patient\\ had\\ been\\ on\\ clomid\\ which\\ had\\ caused\\ bilateral\\ enlargment\\ of\\ the\\ ovaries\\ due\\ to\\ stimulation\\.\\ there\\ is\\ a\\ reported\\ increased\\ risk\\ of\\ torsion\\ due\\ to\\ the\\ large\\ size\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ ovary\\:\\ 0\\.3967165212346845\ \(0\)\
+\-\ clomid\\:\\ 0\\.3241973615354326\ \(0\)\
+\-\ torsion\\:\\ 0\\.30323977583751205\ \(0\)\
+\-\ ovarian\\:\\ 0\\.25906448406955485\ \(0\)\
+\-\ pelvic\\:\\ 0\\.23770112956059056\ \(0\)\
+\-\ torsed\\:\\ 0\\.1458170475538173\ \(0\)\
+\-\ saved\\:\\ 0\\.1458170475538173\ \(0\)\
+\-\ hyperstimulation\\:\\ 0\\.1458170475538173\ \(0\)\
+\-\ dusky\\:\\ 0\\.1425773632358994\ \(0\)\
+\-\ detorsed\\:\\ 0\\.1425773632358994\ \(0\)\
+\-\ discernable\\:\\ 0\\.1425773632358994\ \(0\)\
+\-\ overt\\:\\ 0\\.13983824917382973\ \(0\)\
+\-\ flow\\:\\ 0\\.13502749860996352\ \(0\)\
+\-\ vascular\\:\\ 0\\.1338342595875815\ \(0\)\
+\-\ enlargment\\:\\ 0\\.13180689433531553\ \(0\)\
+\-\ fertility\\:\\ 0\\.12883849878273138\ \(0\)\
+\-\ due\\:\\ 0\\.11652867395058648\ \(0\)\
+\-\ revealing\\:\\ 0\\.11520508905435087\ \(0\)\
+\-\ achieved\\:\\ 0\\.11339650533891012\ \(0\)\
+\-\ echotexture\\:\\ 0\\.1128323605287586\ \(0\)\
+\-\ ovaries\\:\\ 0\\.11175511744224652\ \(0\)\
+\-\ stimulation\\:\\ 0\\.11175511744224652\ \(0\)\
+\-\ emergent\\:\\ 0\\.10931718125091444\ \(0\)\
+\-\ was\\:\\ 0\\.10597618149926105\ \(0\)\
+\-\ lower\\:\\ 0\\.10359140338929015\ \(0\)\
+\-\ had\\:\\ 0\\.10100378785626242\ \(0\)\
+\-\ lab\\:\\ 0\\.0915502899132696\ \(0\)\
+\-\ markedly\\:\\ 0\\.08949468584835991\ \(0\)\
+\-\ 32\\:\\ 0\\.08686255024893169\ \(0\)\
+\-\ caused\\:\\ 0\\.08127429657837892\ \(0\)\
+\-\ appearing\\:\\ 0\\.08099446293720222\ \(0\)\
+\-\ the\\:\\ 0\\.08090095649249056\ \(0\)\
+\-\ currently\\:\\ 0\\.07786307976674713\ \(0\)\
+\-\ reveals\\:\\ 0\\.07710360224562295\ \(0\)\
+\-\ marked\\:\\ 0\\.07666302424656524\ \(0\)\
+\-\ abnormalities\\:\\ 0\\.07342333992864732\ \(0\)\
+\-\ heterogeneous\\:\\ 0\\.07336300347348249\ \(0\)\
+\-\ reported\\:\\ 0\\.07300522489719899\ \(0\)\
+\-\ grade\\:\\ 0\\.07288754851364995\ \(0\)\
+\-\ pain\\:\\ 0\\.07254156003907054\ \(0\)\
+\-\ risk\\:\\ 0\\.07242448468079206\ \(0\)\
+\-\ underwent\\:\\ 0\\.06982467231096515\ \(0\)\
+\-\ enlarged\\:\\ 0\\.06909930347472346\ \(0\)\
+\-\ fever\\:\\ 0\\.06872421685149444\ \(0\)\
+\-\ size\\:\\ 0\\.06863166940805103\ \(0\)\
+\-\ right\\:\\ 0\\.06721088644999637\ \(0\)\
+\-\ patient\\:\\ 0\\.06593544242904106\ \(0\)\
+\-\ no\\:\\ 0\\.06592304035669543\ \(0\)\
+\-\ onset\\:\\ 0\\.06508692920345414\ \(0\)\
+\-\ ultrasound\\:\\ 0\\.06252149099167104\ \(0\)\
+\-\ on\\:\\ 0\\.061225665463476006\ \(0\)\
+\-\ syndrome\\:\\ 0\\.061106759868907894\ \(0\)\
+\-\ been\\:\\ 0\\.05905420341038126\ \(0\)\
+\-\ low\\:\\ 0\\.05816162530795935\ \(0\)\
+\-\ abdominal\\:\\ 0\\.05543714804158788\ \(0\)\
+\-\ acute\\:\\ 0\\.054832552743459294\ \(0\)\
+\-\ increased\\:\\ 0\\.054811335942164946\ \(0\)\
+\-\ surgery\\:\\ 0\\.05449608694657242\ \(0\)\
+\-\ bilateral\\:\\ 0\\.05447526788271113\ \(0\)\
+\-\ large\\:\\ 0\\.05078701016558693\ \(0\)\
+\-\ to\\:\\ 0\\.050680219166313406\ \(0\)\
+\-\ female\\:\\ 0\\.04891147085331099\ \(0\)\
+\-\ presents\\:\\ 0\\.04875998597187291\ \(0\)\
+\-\ which\\:\\ 0\\.046089961936959765\ \(0\)\
+\-\ there\\:\\ 0\\.040331320734774564\ \(0\)\
+\-\ with\\:\\ 0\\.039695593932977176\ \(0\)\
+\-\ of\\:\\ 0\\.03967188998816253\ \(0\)\
+\-\ this\\:\\ 0\\.034829545625890766\ \(0\)\
+\-\ year\\:\\ 0\\.03123753691725801\ \(0\)\
+\-\ for\\:\\ 0\\.030721812337205633\ \(0\)\
+\-\ old\\:\\ 0\\.029998848582316745\ \(0\)\
+\-\ is\\:\\ 0\\.027758462784789696\ \(0\)\
+\-\ in\\:\\ 0\\.025215385616269577\ \(0\)\
+\-\ and\\:\\ 0\\.020945058199705862\ \(0\)\

@@ -1,72 +1,70 @@
-Texto: 
-blood pressure 18/125
-renal biopsy results pending
-supportive
-hematoma left temporal lobe.
-thrombosis left transverse and sigmoid sinus and jugular vein.
-acute dural venous sinus thrombosis (dvst), secondary temporal lobe venous hemorrhagic infarction
-ruptured avm
-hemorrhagic tumor
-hypertensive hemorrhage
-amyloid angiopathy
-mycotic aneurysm
-vasculitis
-venous infarction
-27 year old man presents with acute onset of severe headache and somnolence.  he had a renal biopsy one week earlier, for suspected glomerulonephritis.
-
-
-Keywords by value: 
-- venous: 0.2909396403721054
-- hemorrhagic: 0.2356537771203363
-- thrombosis: 0.22149723502354096
-- dvst: 0.21722905213054142
-- infarction: 0.2132699518485992
-- temporal: 0.20868921244254623
-- sinus: 0.19630628372852274
-- somnolence: 0.19106846104064484
-- biopsy: 0.19043038345880217
-- glomerulonephritis: 0.17265695708282813
-- renal: 0.16917605284374776
-- angiopathy: 0.16490786995074821
-- lobe: 0.15699605860410562
-- amyloid: 0.15355116498797303
-- mycotic: 0.15355116498797303
-- acute: 0.1469626205709606
-- hypertensive: 0.14106098053547886
-- jugular: 0.14010835765747312
-- ruptured: 0.1288000027543585
-- vasculitis: 0.12605992628285118
-- sigmoid: 0.12580249246527353
-- earlier: 0.12407441037485357
-- dural: 0.12054017440870875
-- avm: 0.12013311498871238
-- supportive: 0.11348537541366727
-- pending: 0.1117206870190332
-- suspected: 0.11129921767653853
-- 27: 0.11007780142808822
-- results: 0.10584678683811338
-- transverse: 0.10465862039194941
-- pressure: 0.10342667001539024
-- aneurysm: 0.10342667001539024
-- vein: 0.09736457986742217
-- hematoma: 0.09507387145585056
-- headache: 0.09363854372275618
-- left: 0.09267227022165296
-- week: 0.09136295074123484
-- hemorrhage: 0.0909446544810557
-- onset: 0.0872232387703052
-- severe: 0.08598915972113012
-- and: 0.0842056539508979
-- secondary: 0.08051257633609701
-- he: 0.08043625448806212
-- blood: 0.07888753442991489
-- one: 0.07777166896289549
-- man: 0.07191250903109607
-- tumor: 0.071049362284835
-- had: 0.06767777810928352
-- presents: 0.06534344070169616
-- year: 0.04186154078053544
-- for: 0.04117041632995625
-- old: 0.040201569881265546
-- with: 0.026598107408955768
-- of: 0.026582224536129625
+\-\ Texto\\:\\ \ \(0\)\
+\-\ blood\\ pressure\\ 18\\/125\ \(0\)\
+\-\ renal\\ biopsy\\ results\\ pending\ \(0\)\
+\-\ supportive\ \(54\)\
+\-\ hematoma\\ left\\ temporal\\ lobe\\.\ \(1\)\
+\-\ thrombosis\\ left\\ transverse\\ and\\ sigmoid\\ sinus\\ and\\ jugular\\ vein\\.\ \(0\)\
+\-\ acute\\ dural\\ venous\\ sinus\\ thrombosis\\ \\(dvst\\)\\,\\ secondary\\ temporal\\ lobe\\ venous\\ hemorrhagic\\ infarction\ \(0\)\
+\-\ ruptured\\ avm\ \(0\)\
+\-\ hemorrhagic\\ tumor\ \(0\)\
+\-\ hypertensive\\ hemorrhage\ \(2\)\
+\-\ amyloid\\ angiopathy\ \(2\)\
+\-\ mycotic\\ aneurysm\ \(9\)\
+\-\ vasculitis\ \(67\)\
+\-\ venous\\ infarction\ \(7\)\
+\-\ 27\\ year\\ old\\ man\\ presents\\ with\\ acute\\ onset\\ of\\ severe\\ headache\\ and\\ somnolence\\.\\ \\ he\\ had\\ a\\ renal\\ biopsy\\ one\\ week\\ earlier\\,\\ for\\ suspected\\ glomerulonephritis\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ venous\\:\\ 0\\.2909396403721054\ \(0\)\
+\-\ hemorrhagic\\:\\ 0\\.2356537771203363\ \(0\)\
+\-\ thrombosis\\:\\ 0\\.22149723502354096\ \(0\)\
+\-\ dvst\\:\\ 0\\.21722905213054142\ \(0\)\
+\-\ infarction\\:\\ 0\\.2132699518485992\ \(0\)\
+\-\ temporal\\:\\ 0\\.20868921244254623\ \(0\)\
+\-\ sinus\\:\\ 0\\.19630628372852274\ \(0\)\
+\-\ somnolence\\:\\ 0\\.19106846104064484\ \(0\)\
+\-\ biopsy\\:\\ 0\\.19043038345880217\ \(0\)\
+\-\ glomerulonephritis\\:\\ 0\\.17265695708282813\ \(0\)\
+\-\ renal\\:\\ 0\\.16917605284374776\ \(0\)\
+\-\ angiopathy\\:\\ 0\\.16490786995074821\ \(0\)\
+\-\ lobe\\:\\ 0\\.15699605860410562\ \(0\)\
+\-\ amyloid\\:\\ 0\\.15355116498797303\ \(0\)\
+\-\ mycotic\\:\\ 0\\.15355116498797303\ \(0\)\
+\-\ acute\\:\\ 0\\.1469626205709606\ \(0\)\
+\-\ hypertensive\\:\\ 0\\.14106098053547886\ \(0\)\
+\-\ jugular\\:\\ 0\\.14010835765747312\ \(0\)\
+\-\ ruptured\\:\\ 0\\.1288000027543585\ \(0\)\
+\-\ vasculitis\\:\\ 0\\.12605992628285118\ \(0\)\
+\-\ sigmoid\\:\\ 0\\.12580249246527353\ \(0\)\
+\-\ earlier\\:\\ 0\\.12407441037485357\ \(0\)\
+\-\ dural\\:\\ 0\\.12054017440870875\ \(0\)\
+\-\ avm\\:\\ 0\\.12013311498871238\ \(0\)\
+\-\ supportive\\:\\ 0\\.11348537541366727\ \(0\)\
+\-\ pending\\:\\ 0\\.1117206870190332\ \(0\)\
+\-\ suspected\\:\\ 0\\.11129921767653853\ \(0\)\
+\-\ 27\\:\\ 0\\.11007780142808822\ \(0\)\
+\-\ results\\:\\ 0\\.10584678683811338\ \(0\)\
+\-\ transverse\\:\\ 0\\.10465862039194941\ \(0\)\
+\-\ pressure\\:\\ 0\\.10342667001539024\ \(0\)\
+\-\ aneurysm\\:\\ 0\\.10342667001539024\ \(0\)\
+\-\ vein\\:\\ 0\\.09736457986742217\ \(0\)\
+\-\ hematoma\\:\\ 0\\.09507387145585056\ \(0\)\
+\-\ headache\\:\\ 0\\.09363854372275618\ \(0\)\
+\-\ left\\:\\ 0\\.09267227022165296\ \(0\)\
+\-\ week\\:\\ 0\\.09136295074123484\ \(0\)\
+\-\ hemorrhage\\:\\ 0\\.0909446544810557\ \(0\)\
+\-\ onset\\:\\ 0\\.0872232387703052\ \(0\)\
+\-\ severe\\:\\ 0\\.08598915972113012\ \(0\)\
+\-\ and\\:\\ 0\\.0842056539508979\ \(0\)\
+\-\ secondary\\:\\ 0\\.08051257633609701\ \(0\)\
+\-\ he\\:\\ 0\\.08043625448806212\ \(0\)\
+\-\ blood\\:\\ 0\\.07888753442991489\ \(0\)\
+\-\ one\\:\\ 0\\.07777166896289549\ \(0\)\
+\-\ man\\:\\ 0\\.07191250903109607\ \(0\)\
+\-\ tumor\\:\\ 0\\.071049362284835\ \(0\)\
+\-\ had\\:\\ 0\\.06767777810928352\ \(0\)\
+\-\ presents\\:\\ 0\\.06534344070169616\ \(0\)\
+\-\ year\\:\\ 0\\.04186154078053544\ \(0\)\
+\-\ for\\:\\ 0\\.04117041632995625\ \(0\)\
+\-\ old\\:\\ 0\\.040201569881265546\ \(0\)\
+\-\ with\\:\\ 0\\.026598107408955768\ \(0\)\
+\-\ of\\:\\ 0\\.026582224536129625\ \(0\)\

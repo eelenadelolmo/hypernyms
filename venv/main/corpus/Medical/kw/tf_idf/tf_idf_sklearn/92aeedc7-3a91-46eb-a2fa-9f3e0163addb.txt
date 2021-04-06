@@ -1,63 +1,61 @@
-Texto: 
-treatment options for staghorn calculi include percutaneous stone removal, open surgery, or a combination of percutaneous debulking and extracorporeal shockwave lithotripsy (eswl).
-coronal mip noncontrast ct images reveal a staghorn calculus, which forms a cast of nearly the entire left renal collecting system.
-staghorn calculus
-calcifications from granulomatous disease
-calcified tumor
-staghorn calculus
-62 yo male with left flank pain and urinary tract infections.
-
-
-Keywords by value: 
-- staghorn: 0.6085152498179431
-- calculus: 0.38462710924580085
-- percutaneous: 0.21623760100123837
-- shockwave: 0.1714163052585079
-- eswl: 0.16137118730118402
-- extracorporeal: 0.15778592951662704
-- mip: 0.15778592951662704
-- lithotripsy: 0.14774081155930316
-- debulking: 0.1373062853229103
-- calculi: 0.13136209052739373
-- forms: 0.11689480229098444
-- cast: 0.11648933482320076
-- nearly: 0.11186200672863457
-- noncontrast: 0.10838275715491905
-- 62: 0.10684968433366056
-- collecting: 0.10520019894800278
-- combination: 0.10410133904363199
-- stone: 0.10246168343847793
-- entire: 0.10207227515940896
-- options: 0.10113121160399548
-- granulomatous: 0.09971333814844936
-- infections: 0.0990409828944465
-- flank: 0.09839085837889637
-- urinary: 0.09700220095937669
-- reveal: 0.09435776331131634
-- tract: 0.09397090869441423
-- open: 0.09273374131675512
-- calcified: 0.09036438051785554
-- coronal: 0.08932916911112072
-- removal: 0.08574391132656374
-- system: 0.08557655307820092
-- calcifications: 0.08186670474705379
-- left: 0.07652953406176763
-- yo: 0.07007952901462555
-- renal: 0.06985349807215536
-- include: 0.066742105999952
-- surgery: 0.060309122982285544
-- tumor: 0.05867315625309565
-- treatment: 0.0534341059285642
-- images: 0.05188763007907702
-- which: 0.05100632611347143
-- male: 0.04994387858674789
-- disease: 0.04708637607500307
-- and: 0.046358487796586204
-- from: 0.04455048830468327
-- of: 0.043903645679761606
-- ct: 0.04270543730073968
-- pain: 0.040139743152680804
-- or: 0.039023101726838844
-- for: 0.03399887335580093
-- the: 0.02238264253391967
-- with: 0.021964939048796803
+\-\ Texto\\:\\ \ \(0\)\
+\-\ treatment\\ options\\ for\\ staghorn\\ calculi\\ include\\ percutaneous\\ stone\\ removal\\,\\ open\\ surgery\\,\\ or\\ a\\ combination\\ of\\ percutaneous\\ debulking\\ and\\ extracorporeal\\ shockwave\\ lithotripsy\\ \\(eswl\\)\\.\ \(0\)\
+\-\ coronal\\ mip\\ noncontrast\\ ct\\ images\\ reveal\\ a\\ staghorn\\ calculus\\,\\ which\\ forms\\ a\\ cast\\ of\\ nearly\\ the\\ entire\\ left\\ renal\\ collecting\\ system\\.\ \(0\)\
+\-\ staghorn\\ calculus\ \(8\)\
+\-\ calcifications\\ from\\ granulomatous\\ disease\ \(1\)\
+\-\ calcified\\ tumor\ \(1\)\
+\-\ staghorn\\ calculus\ \(8\)\
+\-\ 62\\ yo\\ male\\ with\\ left\\ flank\\ pain\\ and\\ urinary\\ tract\\ infections\\.\ \(1\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ staghorn\\:\\ 0\\.6085152498179431\ \(0\)\
+\-\ calculus\\:\\ 0\\.38462710924580085\ \(0\)\
+\-\ percutaneous\\:\\ 0\\.21623760100123837\ \(0\)\
+\-\ shockwave\\:\\ 0\\.1714163052585079\ \(0\)\
+\-\ eswl\\:\\ 0\\.16137118730118402\ \(0\)\
+\-\ extracorporeal\\:\\ 0\\.15778592951662704\ \(0\)\
+\-\ mip\\:\\ 0\\.15778592951662704\ \(0\)\
+\-\ lithotripsy\\:\\ 0\\.14774081155930316\ \(0\)\
+\-\ debulking\\:\\ 0\\.1373062853229103\ \(0\)\
+\-\ calculi\\:\\ 0\\.13136209052739373\ \(0\)\
+\-\ forms\\:\\ 0\\.11689480229098444\ \(0\)\
+\-\ cast\\:\\ 0\\.11648933482320076\ \(0\)\
+\-\ nearly\\:\\ 0\\.11186200672863457\ \(0\)\
+\-\ noncontrast\\:\\ 0\\.10838275715491905\ \(0\)\
+\-\ 62\\:\\ 0\\.10684968433366056\ \(0\)\
+\-\ collecting\\:\\ 0\\.10520019894800278\ \(0\)\
+\-\ combination\\:\\ 0\\.10410133904363199\ \(0\)\
+\-\ stone\\:\\ 0\\.10246168343847793\ \(0\)\
+\-\ entire\\:\\ 0\\.10207227515940896\ \(0\)\
+\-\ options\\:\\ 0\\.10113121160399548\ \(0\)\
+\-\ granulomatous\\:\\ 0\\.09971333814844936\ \(0\)\
+\-\ infections\\:\\ 0\\.0990409828944465\ \(0\)\
+\-\ flank\\:\\ 0\\.09839085837889637\ \(0\)\
+\-\ urinary\\:\\ 0\\.09700220095937669\ \(0\)\
+\-\ reveal\\:\\ 0\\.09435776331131634\ \(0\)\
+\-\ tract\\:\\ 0\\.09397090869441423\ \(0\)\
+\-\ open\\:\\ 0\\.09273374131675512\ \(0\)\
+\-\ calcified\\:\\ 0\\.09036438051785554\ \(0\)\
+\-\ coronal\\:\\ 0\\.08932916911112072\ \(0\)\
+\-\ removal\\:\\ 0\\.08574391132656374\ \(0\)\
+\-\ system\\:\\ 0\\.08557655307820092\ \(0\)\
+\-\ calcifications\\:\\ 0\\.08186670474705379\ \(0\)\
+\-\ left\\:\\ 0\\.07652953406176763\ \(0\)\
+\-\ yo\\:\\ 0\\.07007952901462555\ \(0\)\
+\-\ renal\\:\\ 0\\.06985349807215536\ \(0\)\
+\-\ include\\:\\ 0\\.066742105999952\ \(0\)\
+\-\ surgery\\:\\ 0\\.060309122982285544\ \(0\)\
+\-\ tumor\\:\\ 0\\.05867315625309565\ \(0\)\
+\-\ treatment\\:\\ 0\\.0534341059285642\ \(0\)\
+\-\ images\\:\\ 0\\.05188763007907702\ \(0\)\
+\-\ which\\:\\ 0\\.05100632611347143\ \(0\)\
+\-\ male\\:\\ 0\\.04994387858674789\ \(0\)\
+\-\ disease\\:\\ 0\\.04708637607500307\ \(0\)\
+\-\ and\\:\\ 0\\.046358487796586204\ \(0\)\
+\-\ from\\:\\ 0\\.04455048830468327\ \(0\)\
+\-\ of\\:\\ 0\\.043903645679761606\ \(0\)\
+\-\ ct\\:\\ 0\\.04270543730073968\ \(0\)\
+\-\ pain\\:\\ 0\\.040139743152680804\ \(0\)\
+\-\ or\\:\\ 0\\.039023101726838844\ \(0\)\
+\-\ for\\:\\ 0\\.03399887335580093\ \(0\)\
+\-\ the\\:\\ 0\\.02238264253391967\ \(0\)\
+\-\ with\\:\\ 0\\.021964939048796803\ \(0\)\

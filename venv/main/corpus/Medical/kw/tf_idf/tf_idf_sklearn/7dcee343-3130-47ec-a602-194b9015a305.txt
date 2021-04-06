@@ -1,126 +1,123 @@
-Texto: 
-laboratory values were significant for ldh of 1773, wbc 27.4 and platelet count of 27 (nl 162-142).
-patient was kept on mechanical ventilation until the family decided to remove life support.
-portable chest radiograph demonstrates low lung volumes and diffuse bilateral air space conolidation.  pleural effusions are not evident on this image.  a right-sided tunneled catheter is present.
-adult respiratory distress syndrome
-adult respiratory distress syndrome
-pulmonary edema
-infection
-52-year-old female with aml and persistent fevers on chemotherapy.  patient presented to the emergency room with fever.
-adult respiratory distress syndrome (ards) is a syndrome of acute respiratory failure with associated chest radiograph findings demonstrating diffuse air space opacification.  ards can be differentiated from pulmonary edema by a more peripheral distribution of opacification and lack of septal lines.  pleural effusions are usually absent, and lung volumes are typically reduced.  
-
-risk factors for developing ards include trauma, sepsis, fat emboli, severe pneumonia, multiple transfusions, aspiration of gastric contrents, and near drowning.  often, more than one risk factor is present
-
-
-Keywords by value: 
-- ards: 0.3083526442659748
-- respiratory: 0.2599493460346927
-- adult: 0.2260798557556744
-- distress: 0.19744369523737607
-- syndrome: 0.19701154707279195
-- volumes: 0.19134837878375752
-- opacification: 0.15711167831348075
-- effusions: 0.1529123351598598
-- 27: 0.13241395258696412
-- 1773: 0.13065376050463617
-- conolidation: 0.13065376050463617
-- contrents: 0.13065376050463617
-- pleural: 0.12300420761209303
-- tunneled: 0.12072642800729567
-- risk: 0.11675025646526373
-- space: 0.10876423739432399
-- air: 0.10687640529955786
-- radiograph: 0.10642326683931422
-- drowning: 0.10278421475532493
-- diffuse: 0.10247020105182442
-- and: 0.1012920255051841
-- pulmonary: 0.09959806010167817
-- lung: 0.0993963393614849
-- platelet: 0.09918486102368579
-- kept: 0.09918486102368579
-- aml: 0.09841050415142136
-- transfusions: 0.09841050415142136
-- edema: 0.09745361353478853
-- of: 0.09592826274830425
-- decided: 0.0933777437805511
-- are: 0.09300264747099966
-- more: 0.08972247977947163
-- nl: 0.08966099501980221
-- sepsis: 0.0892575285263453
-- ldh: 0.08886511731198858
-- remove: 0.08811114779314991
-- ventilation: 0.08739489288033986
-- portable: 0.08671275856344918
-- chest: 0.08624926490594816
-- present: 0.08384435465135552
-- lines: 0.08147180647432817
-- mechanical: 0.08101709801793369
-- emboli: 0.08014882531167947
-- septal: 0.07953050857209173
-- support: 0.0793301960290048
-- reduced: 0.07836861932264015
-- developing: 0.07818381529580942
-- differentiated: 0.07800136552448873
-- factor: 0.07661985065710901
-- values: 0.07535995191855813
-- on: 0.07402308946300006
-- catheter: 0.07262363715901553
-- fevers: 0.07213394455704922
-- aspiration: 0.07142943630338701
-- evident: 0.07022149281433897
-- lack: 0.06990899794407658
-- distribution: 0.06930374816472097
-- factors: 0.06910755176287897
-- gastric: 0.06881820629843453
-- until: 0.06798367239073487
-- count: 0.06745316309861299
-- demonstrating: 0.06736662438599877
-- is: 0.06712110545534572
-- life: 0.06702560557615675
-- absent: 0.06702560557615675
-- room: 0.06685809356876818
-- near: 0.06652883508258942
-- pneumonia: 0.06448475464827295
-- family: 0.06427464652764585
-- persistent: 0.0629475762533739
-- failure: 0.0620272095465619
-- emergency: 0.060613625904769604
-- laboratory: 0.05932711402364233
-- peripheral: 0.058421254241464944
-- chemotherapy: 0.058011372467558935
-- wbc: 0.05774449306789866
-- typically: 0.057353272931206
-- fever: 0.05539266159883587
-- often: 0.05330829596901069
-- patient: 0.05314487115558852
-- image: 0.05224922265025969
-- severe: 0.05171871335813779
-- usually: 0.05143226154222591
-- fat: 0.050821536276052445
-- for: 0.04952440442282805
-- infection: 0.04935064901374929
-- include: 0.048609890907001435
-- with: 0.04799278993121896
-- presented: 0.04764196433870029
-- trauma: 0.04744739678748628
-- significant: 0.04717094058147575
-- low: 0.046879067908243796
-- one: 0.04677625258254017
-- than: 0.04631258280352555
-- acute: 0.04419578975024308
-- bilateral: 0.04390781325094623
-- associated: 0.04306126016655566
-- can: 0.04287280858759439
-- were: 0.04211323964990463
-- demonstrates: 0.0410444609957039
-- to: 0.040848951921863746
-- findings: 0.04032150928181647
-- multiple: 0.03996053682243663
-- female: 0.03942331651640879
-- by: 0.03469394083503544
-- be: 0.03314183388711573
-- the: 0.032603640400110476
-- from: 0.03244719871958872
-- not: 0.03225264246371522
-- was: 0.028472752052892143
-- this: 0.028073091595429773
+\-\ Texto\\:\\ \ \(0\)\
+\-\ laboratory\\ values\\ were\\ significant\\ for\\ ldh\\ of\\ 1773\\,\\ wbc\\ 27\\.4\\ and\\ platelet\\ count\\ of\\ 27\\ \\(nl\\ 162\\-142\\)\\.\ \(0\)\
+\-\ patient\\ was\\ kept\\ on\\ mechanical\\ ventilation\\ until\\ the\\ family\\ decided\\ to\\ remove\\ life\\ support\\.\ \(0\)\
+\-\ portable\\ chest\\ radiograph\\ demonstrates\\ low\\ lung\\ volumes\\ and\\ diffuse\\ bilateral\\ air\\ space\\ conolidation\\.\\ \\ pleural\\ effusions\\ are\\ not\\ evident\\ on\\ this\\ image\\.\\ \\ a\\ right\\-sided\\ tunneled\\ catheter\\ is\\ present\\.\ \(0\)\
+\-\ adult\\ respiratory\\ distress\\ syndrome\ \(1\)\
+\-\ adult\\ respiratory\\ distress\\ syndrome\ \(1\)\
+\-\ pulmonary\\ edema\ \(53\)\
+\-\ infection\ \(713\)\
+\-\ 52\\-year\\-old\\ female\\ with\\ aml\\ and\\ persistent\\ fevers\\ on\\ chemotherapy\\.\\ \\ patient\\ presented\\ to\\ the\\ emergency\\ room\\ with\\ fever\\.\ \(0\)\
+\-\ adult\\ respiratory\\ distress\\ syndrome\\ \\(ards\\)\\ is\\ a\\ syndrome\\ of\\ acute\\ respiratory\\ failure\\ with\\ associated\\ chest\\ radiograph\\ findings\\ demonstrating\\ diffuse\\ air\\ space\\ opacification\\.\\ \\ ards\\ can\\ be\\ differentiated\\ from\\ pulmonary\\ edema\\ by\\ a\\ more\\ peripheral\\ distribution\\ of\\ opacification\\ and\\ lack\\ of\\ septal\\ lines\\.\\ \\ pleural\\ effusions\\ are\\ usually\\ absent\\,\\ and\\ lung\\ volumes\\ are\\ typically\\ reduced\\.\\ \\ \ \(0\)\
+\-\ risk\\ factors\\ for\\ developing\\ ards\\ include\\ trauma\\,\\ sepsis\\,\\ fat\\ emboli\\,\\ severe\\ pneumonia\\,\\ multiple\\ transfusions\\,\\ aspiration\\ of\\ gastric\\ contrents\\,\\ and\\ near\\ drowning\\.\\ \\ often\\,\\ more\\ than\\ one\\ risk\\ factor\\ is\\ present\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ ards\\:\\ 0\\.3083526442659748\ \(0\)\
+\-\ respiratory\\:\\ 0\\.2599493460346927\ \(0\)\
+\-\ adult\\:\\ 0\\.2260798557556744\ \(0\)\
+\-\ distress\\:\\ 0\\.19744369523737607\ \(0\)\
+\-\ syndrome\\:\\ 0\\.19701154707279195\ \(0\)\
+\-\ volumes\\:\\ 0\\.19134837878375752\ \(0\)\
+\-\ opacification\\:\\ 0\\.15711167831348075\ \(0\)\
+\-\ effusions\\:\\ 0\\.1529123351598598\ \(0\)\
+\-\ 27\\:\\ 0\\.13241395258696412\ \(0\)\
+\-\ 1773\\:\\ 0\\.13065376050463617\ \(0\)\
+\-\ conolidation\\:\\ 0\\.13065376050463617\ \(0\)\
+\-\ contrents\\:\\ 0\\.13065376050463617\ \(0\)\
+\-\ pleural\\:\\ 0\\.12300420761209303\ \(0\)\
+\-\ tunneled\\:\\ 0\\.12072642800729567\ \(0\)\
+\-\ risk\\:\\ 0\\.11675025646526373\ \(0\)\
+\-\ space\\:\\ 0\\.10876423739432399\ \(0\)\
+\-\ air\\:\\ 0\\.10687640529955786\ \(0\)\
+\-\ radiograph\\:\\ 0\\.10642326683931422\ \(0\)\
+\-\ drowning\\:\\ 0\\.10278421475532493\ \(0\)\
+\-\ diffuse\\:\\ 0\\.10247020105182442\ \(0\)\
+\-\ and\\:\\ 0\\.1012920255051841\ \(0\)\
+\-\ pulmonary\\:\\ 0\\.09959806010167817\ \(0\)\
+\-\ lung\\:\\ 0\\.0993963393614849\ \(0\)\
+\-\ platelet\\:\\ 0\\.09918486102368579\ \(0\)\
+\-\ kept\\:\\ 0\\.09918486102368579\ \(0\)\
+\-\ aml\\:\\ 0\\.09841050415142136\ \(0\)\
+\-\ transfusions\\:\\ 0\\.09841050415142136\ \(0\)\
+\-\ edema\\:\\ 0\\.09745361353478853\ \(0\)\
+\-\ of\\:\\ 0\\.09592826274830425\ \(0\)\
+\-\ decided\\:\\ 0\\.0933777437805511\ \(0\)\
+\-\ are\\:\\ 0\\.09300264747099966\ \(0\)\
+\-\ more\\:\\ 0\\.08972247977947163\ \(0\)\
+\-\ nl\\:\\ 0\\.08966099501980221\ \(0\)\
+\-\ sepsis\\:\\ 0\\.0892575285263453\ \(0\)\
+\-\ ldh\\:\\ 0\\.08886511731198858\ \(0\)\
+\-\ remove\\:\\ 0\\.08811114779314991\ \(0\)\
+\-\ ventilation\\:\\ 0\\.08739489288033986\ \(0\)\
+\-\ portable\\:\\ 0\\.08671275856344918\ \(0\)\
+\-\ chest\\:\\ 0\\.08624926490594816\ \(0\)\
+\-\ present\\:\\ 0\\.08384435465135552\ \(0\)\
+\-\ lines\\:\\ 0\\.08147180647432817\ \(0\)\
+\-\ mechanical\\:\\ 0\\.08101709801793369\ \(0\)\
+\-\ emboli\\:\\ 0\\.08014882531167947\ \(0\)\
+\-\ septal\\:\\ 0\\.07953050857209173\ \(0\)\
+\-\ support\\:\\ 0\\.0793301960290048\ \(0\)\
+\-\ reduced\\:\\ 0\\.07836861932264015\ \(0\)\
+\-\ developing\\:\\ 0\\.07818381529580942\ \(0\)\
+\-\ differentiated\\:\\ 0\\.07800136552448873\ \(0\)\
+\-\ factor\\:\\ 0\\.07661985065710901\ \(0\)\
+\-\ values\\:\\ 0\\.07535995191855813\ \(0\)\
+\-\ on\\:\\ 0\\.07402308946300006\ \(0\)\
+\-\ catheter\\:\\ 0\\.07262363715901553\ \(0\)\
+\-\ fevers\\:\\ 0\\.07213394455704922\ \(0\)\
+\-\ aspiration\\:\\ 0\\.07142943630338701\ \(0\)\
+\-\ evident\\:\\ 0\\.07022149281433897\ \(0\)\
+\-\ lack\\:\\ 0\\.06990899794407658\ \(0\)\
+\-\ distribution\\:\\ 0\\.06930374816472097\ \(0\)\
+\-\ factors\\:\\ 0\\.06910755176287897\ \(0\)\
+\-\ gastric\\:\\ 0\\.06881820629843453\ \(0\)\
+\-\ until\\:\\ 0\\.06798367239073487\ \(0\)\
+\-\ count\\:\\ 0\\.06745316309861299\ \(0\)\
+\-\ demonstrating\\:\\ 0\\.06736662438599877\ \(0\)\
+\-\ is\\:\\ 0\\.06712110545534572\ \(0\)\
+\-\ life\\:\\ 0\\.06702560557615675\ \(0\)\
+\-\ absent\\:\\ 0\\.06702560557615675\ \(0\)\
+\-\ room\\:\\ 0\\.06685809356876818\ \(0\)\
+\-\ near\\:\\ 0\\.06652883508258942\ \(0\)\
+\-\ pneumonia\\:\\ 0\\.06448475464827295\ \(0\)\
+\-\ family\\:\\ 0\\.06427464652764585\ \(0\)\
+\-\ persistent\\:\\ 0\\.0629475762533739\ \(0\)\
+\-\ failure\\:\\ 0\\.0620272095465619\ \(0\)\
+\-\ emergency\\:\\ 0\\.060613625904769604\ \(0\)\
+\-\ laboratory\\:\\ 0\\.05932711402364233\ \(0\)\
+\-\ peripheral\\:\\ 0\\.058421254241464944\ \(0\)\
+\-\ chemotherapy\\:\\ 0\\.058011372467558935\ \(0\)\
+\-\ wbc\\:\\ 0\\.05774449306789866\ \(0\)\
+\-\ typically\\:\\ 0\\.057353272931206\ \(0\)\
+\-\ fever\\:\\ 0\\.05539266159883587\ \(0\)\
+\-\ often\\:\\ 0\\.05330829596901069\ \(0\)\
+\-\ patient\\:\\ 0\\.05314487115558852\ \(0\)\
+\-\ image\\:\\ 0\\.05224922265025969\ \(0\)\
+\-\ severe\\:\\ 0\\.05171871335813779\ \(0\)\
+\-\ usually\\:\\ 0\\.05143226154222591\ \(0\)\
+\-\ fat\\:\\ 0\\.050821536276052445\ \(0\)\
+\-\ for\\:\\ 0\\.04952440442282805\ \(0\)\
+\-\ infection\\:\\ 0\\.04935064901374929\ \(0\)\
+\-\ include\\:\\ 0\\.048609890907001435\ \(0\)\
+\-\ with\\:\\ 0\\.04799278993121896\ \(0\)\
+\-\ presented\\:\\ 0\\.04764196433870029\ \(0\)\
+\-\ trauma\\:\\ 0\\.04744739678748628\ \(0\)\
+\-\ significant\\:\\ 0\\.04717094058147575\ \(0\)\
+\-\ low\\:\\ 0\\.046879067908243796\ \(0\)\
+\-\ one\\:\\ 0\\.04677625258254017\ \(0\)\
+\-\ than\\:\\ 0\\.04631258280352555\ \(0\)\
+\-\ acute\\:\\ 0\\.04419578975024308\ \(0\)\
+\-\ bilateral\\:\\ 0\\.04390781325094623\ \(0\)\
+\-\ associated\\:\\ 0\\.04306126016655566\ \(0\)\
+\-\ can\\:\\ 0\\.04287280858759439\ \(0\)\
+\-\ were\\:\\ 0\\.04211323964990463\ \(0\)\
+\-\ demonstrates\\:\\ 0\\.0410444609957039\ \(0\)\
+\-\ to\\:\\ 0\\.040848951921863746\ \(0\)\
+\-\ findings\\:\\ 0\\.04032150928181647\ \(0\)\
+\-\ multiple\\:\\ 0\\.03996053682243663\ \(0\)\
+\-\ female\\:\\ 0\\.03942331651640879\ \(0\)\
+\-\ by\\:\\ 0\\.03469394083503544\ \(0\)\
+\-\ be\\:\\ 0\\.03314183388711573\ \(0\)\
+\-\ the\\:\\ 0\\.032603640400110476\ \(0\)\
+\-\ from\\:\\ 0\\.03244719871958872\ \(0\)\
+\-\ not\\:\\ 0\\.03225264246371522\ \(0\)\
+\-\ was\\:\\ 0\\.028472752052892143\ \(0\)\
+\-\ this\\:\\ 0\\.028073091595429773\ \(0\)\

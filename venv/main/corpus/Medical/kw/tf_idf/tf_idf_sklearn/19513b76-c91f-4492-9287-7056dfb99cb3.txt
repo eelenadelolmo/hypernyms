@@ -1,74 +1,72 @@
-Texto: 
-large sellar/suprasellar heterogenous mass w/ cystic component.  cystic component hyperintense on t2 flair sequence.  enhancing non-cystic component.
-pituitary macroadenoma-pathology proven.(null cell macroadenoma)
-craniopharyngioma
-adenocarcinoma
-aneurysm
-pituitary adenoma
-presents with 1 week history of temporal field visual loss.
-the cystic appearance and mr characteristics were suggestive of a craniopharyngioma.  the fluid-fluid level and acute visual symptoms are suggestive of intratumoral hemorrhage or necrosis in a pituitary macroadenoma.  however, the isointense signal on the t1w mr is not consistent with methemoglobin - that would be expected in a week-old hematoma.  the acute presentation with hemorrhage is sometimes called "pituitary apoplexy".
-
-
-Keywords by value: 
-- pituitary: 0.3916871617465
-- macroadenoma: 0.3682983893580398
-- component: 0.27291977051867783
-- cystic: 0.2557416028168358
-- craniopharyngioma: 0.20514156459401472
-- visual: 0.18114605370355463
-- suggestive: 0.17289349266014634
-- null: 0.14932473255729833
-- intratumoral: 0.14645599192779354
-- methemoglobin: 0.14397097576201606
-- week: 0.14280481572705372
-- hemorrhage: 0.14215099796099467
-- mr: 0.137378234750046
-- apoplexy: 0.12887958296660443
-- acute: 0.11485492630837774
-- t1w: 0.1087822935441833
-- sequence: 0.10710458368891844
-- proven: 0.10710458368891844
-- the: 0.10591191877951846
-- heterogenous: 0.09999169696470996
-- field: 0.09977403393195156
-- sometimes: 0.09934619952306124
-- called: 0.09913591505796114
-- characteristics: 0.09734319532161868
-- isointense: 0.09605923955961612
-- expected: 0.09570809749782429
-- flair: 0.09031091016439045
-- adenocarcinoma: 0.08676669651131243
-- adenoma: 0.08463461536239844
-- hyperintense: 0.0844437421286306
-- temporal: 0.08154789300612891
-- necrosis: 0.08114593402896941
-- aneurysm: 0.08083050313601862
-- would: 0.07514735761532171
-- hematoma: 0.07430258427272217
-- presentation: 0.07307745108723675
-- enhancing: 0.06650170299502947
-- loss: 0.06467539356501796
-- level: 0.06412562359193517
-- on: 0.06412312525270625
-- appearance: 0.0639985925379367
-- however: 0.06283317206299588
-- with: 0.06236123827669907
-- of: 0.06232399970172828
-- t2: 0.06107567435298731
-- cell: 0.0607273132769115
-- signal: 0.06017799789424866
-- is: 0.05814422342321406
-- symptoms: 0.058083688391243504
-- consistent: 0.05756134845936117
-- were: 0.05472142328410643
-- large: 0.05319046823592508
-- in: 0.05281737055620546
-- presents: 0.051067516606410686
-- that: 0.04606862604644025
-- and: 0.043872535486483566
-- be: 0.04306408947934047
-- not: 0.041908685129900765
-- history: 0.04055853249784442
-- mass: 0.04054955301532921
-- are: 0.040282163686217606
-- or: 0.03693050607723811
+\-\ Texto\\:\\ \ \(0\)\
+\-\ large\\ sellar\\/suprasellar\\ heterogenous\\ mass\\ w\\/\\ cystic\\ component\\.\\ \\ cystic\\ component\\ hyperintense\\ on\\ t2\\ flair\\ sequence\\.\\ \\ enhancing\\ non\\-cystic\\ component\\.\ \(0\)\
+\-\ pituitary\\ macroadenoma\\-pathology\\ proven\\.\\(null\\ cell\\ macroadenoma\\)\ \(0\)\
+\-\ craniopharyngioma\ \(24\)\
+\-\ adenocarcinoma\ \(192\)\
+\-\ aneurysm\ \(644\)\
+\-\ pituitary\\ adenoma\ \(19\)\
+\-\ presents\\ with\\ 1\\ week\\ history\\ of\\ temporal\\ field\\ visual\\ loss\\.\ \(0\)\
+\-\ the\\ cystic\\ appearance\\ and\\ mr\\ characteristics\\ were\\ suggestive\\ of\\ a\\ craniopharyngioma\\.\\ \\ the\\ fluid\\-fluid\\ level\\ and\\ acute\\ visual\\ symptoms\\ are\\ suggestive\\ of\\ intratumoral\\ hemorrhage\\ or\\ necrosis\\ in\\ a\\ pituitary\\ macroadenoma\\.\\ \\ however\\,\\ the\\ isointense\\ signal\\ on\\ the\\ t1w\\ mr\\ is\\ not\\ consistent\\ with\\ methemoglobin\\ \\-\\ that\\ would\\ be\\ expected\\ in\\ a\\ week\\-old\\ hematoma\\.\\ \\ the\\ acute\\ presentation\\ with\\ hemorrhage\\ is\\ sometimes\\ called\\ \\"pituitary\\ apoplexy\\"\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ pituitary\\:\\ 0\\.3916871617465\ \(0\)\
+\-\ macroadenoma\\:\\ 0\\.3682983893580398\ \(0\)\
+\-\ component\\:\\ 0\\.27291977051867783\ \(0\)\
+\-\ cystic\\:\\ 0\\.2557416028168358\ \(0\)\
+\-\ craniopharyngioma\\:\\ 0\\.20514156459401472\ \(0\)\
+\-\ visual\\:\\ 0\\.18114605370355463\ \(0\)\
+\-\ suggestive\\:\\ 0\\.17289349266014634\ \(0\)\
+\-\ null\\:\\ 0\\.14932473255729833\ \(0\)\
+\-\ intratumoral\\:\\ 0\\.14645599192779354\ \(0\)\
+\-\ methemoglobin\\:\\ 0\\.14397097576201606\ \(0\)\
+\-\ week\\:\\ 0\\.14280481572705372\ \(0\)\
+\-\ hemorrhage\\:\\ 0\\.14215099796099467\ \(0\)\
+\-\ mr\\:\\ 0\\.137378234750046\ \(0\)\
+\-\ apoplexy\\:\\ 0\\.12887958296660443\ \(0\)\
+\-\ acute\\:\\ 0\\.11485492630837774\ \(0\)\
+\-\ t1w\\:\\ 0\\.1087822935441833\ \(0\)\
+\-\ sequence\\:\\ 0\\.10710458368891844\ \(0\)\
+\-\ proven\\:\\ 0\\.10710458368891844\ \(0\)\
+\-\ the\\:\\ 0\\.10591191877951846\ \(0\)\
+\-\ heterogenous\\:\\ 0\\.09999169696470996\ \(0\)\
+\-\ field\\:\\ 0\\.09977403393195156\ \(0\)\
+\-\ sometimes\\:\\ 0\\.09934619952306124\ \(0\)\
+\-\ called\\:\\ 0\\.09913591505796114\ \(0\)\
+\-\ characteristics\\:\\ 0\\.09734319532161868\ \(0\)\
+\-\ isointense\\:\\ 0\\.09605923955961612\ \(0\)\
+\-\ expected\\:\\ 0\\.09570809749782429\ \(0\)\
+\-\ flair\\:\\ 0\\.09031091016439045\ \(0\)\
+\-\ adenocarcinoma\\:\\ 0\\.08676669651131243\ \(0\)\
+\-\ adenoma\\:\\ 0\\.08463461536239844\ \(0\)\
+\-\ hyperintense\\:\\ 0\\.0844437421286306\ \(0\)\
+\-\ temporal\\:\\ 0\\.08154789300612891\ \(0\)\
+\-\ necrosis\\:\\ 0\\.08114593402896941\ \(0\)\
+\-\ aneurysm\\:\\ 0\\.08083050313601862\ \(0\)\
+\-\ would\\:\\ 0\\.07514735761532171\ \(0\)\
+\-\ hematoma\\:\\ 0\\.07430258427272217\ \(0\)\
+\-\ presentation\\:\\ 0\\.07307745108723675\ \(0\)\
+\-\ enhancing\\:\\ 0\\.06650170299502947\ \(0\)\
+\-\ loss\\:\\ 0\\.06467539356501796\ \(0\)\
+\-\ level\\:\\ 0\\.06412562359193517\ \(0\)\
+\-\ on\\:\\ 0\\.06412312525270625\ \(0\)\
+\-\ appearance\\:\\ 0\\.0639985925379367\ \(0\)\
+\-\ however\\:\\ 0\\.06283317206299588\ \(0\)\
+\-\ with\\:\\ 0\\.06236123827669907\ \(0\)\
+\-\ of\\:\\ 0\\.06232399970172828\ \(0\)\
+\-\ t2\\:\\ 0\\.06107567435298731\ \(0\)\
+\-\ cell\\:\\ 0\\.0607273132769115\ \(0\)\
+\-\ signal\\:\\ 0\\.06017799789424866\ \(0\)\
+\-\ is\\:\\ 0\\.05814422342321406\ \(0\)\
+\-\ symptoms\\:\\ 0\\.058083688391243504\ \(0\)\
+\-\ consistent\\:\\ 0\\.05756134845936117\ \(0\)\
+\-\ were\\:\\ 0\\.05472142328410643\ \(0\)\
+\-\ large\\:\\ 0\\.05319046823592508\ \(0\)\
+\-\ in\\:\\ 0\\.05281737055620546\ \(0\)\
+\-\ presents\\:\\ 0\\.051067516606410686\ \(0\)\
+\-\ that\\:\\ 0\\.04606862604644025\ \(0\)\
+\-\ and\\:\\ 0\\.043872535486483566\ \(0\)\
+\-\ be\\:\\ 0\\.04306408947934047\ \(0\)\
+\-\ not\\:\\ 0\\.041908685129900765\ \(0\)\
+\-\ history\\:\\ 0\\.04055853249784442\ \(0\)\
+\-\ mass\\:\\ 0\\.04054955301532921\ \(0\)\
+\-\ are\\:\\ 0\\.040282163686217606\ \(0\)\
+\-\ or\\:\\ 0\\.03693050607723811\ \(0\)\

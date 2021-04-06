@@ -1,77 +1,75 @@
-Texto: 
-physical exam revealed a palpable tender mass, freely mobile, smooth in the 3 o'clock position of the right breast.
-the patient was referred to general surgery for excision.
-diagnostic mammogram revealed a 2.5cm mass in the outer mid right breast. subsequent targeted ultrasound showed a well-circumscribed hypoechoic lesion with increased thru transmission.
-phyllodes tumor (histologically proven)
-fibroadenoma
-phyllodes tumor
-complex cyst
-36 yo aaf presented to her physician with a painful breast lump. she denied any history of trauma or infectious symptoms. she had no significant family history of breast cancer.
-
-
-Keywords by value: 
-- phyllodes: 0.3759806271092276
-- breast: 0.3695271350833261
-- thru: 0.17894770532537568
-- targeted: 0.1755098652299543
-- revealed: 0.1668318921365928
-- aaf: 0.1654297761724222
-- freely: 0.16005142435880412
-- histologically: 0.15572139265242232
-- she: 0.151459299573549
-- transmission: 0.14712041897315686
-- fibroadenoma: 0.13961647706807565
-- tumor: 0.13308444812352277
-- lump: 0.1330419119697055
-- proven: 0.12835194245941317
-- mobile: 0.1254702862008837
-- outer: 0.12232397726311421
-- mammogram: 0.12146057333652366
-- denied: 0.11490403476424718
-- painful: 0.11251226468112145
-- physician: 0.11158674531902517
-- hypoechoic: 0.10869959532577532
-- 36: 0.10530731564657655
-- smooth: 0.10503533891015526
-- infectious: 0.10236355459718986
-- general: 0.10212503022740517
-- the: 0.10153814178065879
-- position: 0.10142439200006964
-- excision: 0.1003034618097337
-- family: 0.10008588139138778
-- complex: 0.09801942120460652
-- history: 0.09720903158582893
-- mass: 0.0971875099294551
-- diagnostic: 0.09695952423613537
-- subsequent: 0.09631036109957539
-- referred: 0.09413497162161857
-- tender: 0.09300347743437168
-- mid: 0.09155430276145414
-- palpable: 0.08937507027254822
-- showed: 0.08473596538638466
-- cancer: 0.08473596538638466
-- right: 0.08435584464563103
-- any: 0.08221824535125745
-- yo: 0.0794783853406196
-- her: 0.0794783853406196
-- ultrasound: 0.07847022200831137
-- of: 0.0746878065162058
-- presented: 0.07418614103159549
-- trauma: 0.07388316830587163
-- significant: 0.0734526818770932
-- cyst: 0.0733871845730862
-- symptoms: 0.06960630416973197
-- physical: 0.06898034267889662
-- increased: 0.06879326823038813
-- surgery: 0.0683976017438781
-- exam: 0.06404144019738389
-- to: 0.06360833669082336
-- had: 0.06338452211430108
-- in: 0.0632952565893685
-- lesion: 0.06099098245306266
-- with: 0.04982162164186807
-- was: 0.044336618539417914
-- or: 0.04425676313527473
-- patient: 0.04137752254110791
-- no: 0.04136973967033108
-- for: 0.03855870031825312
+\-\ Texto\\:\\ \ \(0\)\
+\-\ physical\\ exam\\ revealed\\ a\\ palpable\\ tender\\ mass\\,\\ freely\\ mobile\\,\\ smooth\\ in\\ the\\ 3\\ o\\'clock\\ position\\ of\\ the\\ right\\ breast\\.\ \(0\)\
+\-\ the\\ patient\\ was\\ referred\\ to\\ general\\ surgery\\ for\\ excision\\.\ \(0\)\
+\-\ diagnostic\\ mammogram\\ revealed\\ a\\ 2\\.5cm\\ mass\\ in\\ the\\ outer\\ mid\\ right\\ breast\\.\\ subsequent\\ targeted\\ ultrasound\\ showed\\ a\\ well\\-circumscribed\\ hypoechoic\\ lesion\\ with\\ increased\\ thru\\ transmission\\.\ \(0\)\
+\-\ phyllodes\\ tumor\\ \\(histologically\\ proven\\)\ \(0\)\
+\-\ fibroadenoma\ \(22\)\
+\-\ phyllodes\\ tumor\ \(3\)\
+\-\ complex\\ cyst\ \(20\)\
+\-\ 36\\ yo\\ aaf\\ presented\\ to\\ her\\ physician\\ with\\ a\\ painful\\ breast\\ lump\\.\\ she\\ denied\\ any\\ history\\ of\\ trauma\\ or\\ infectious\\ symptoms\\.\\ she\\ had\\ no\\ significant\\ family\\ history\\ of\\ breast\\ cancer\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ phyllodes\\:\\ 0\\.3759806271092276\ \(0\)\
+\-\ breast\\:\\ 0\\.3695271350833261\ \(0\)\
+\-\ thru\\:\\ 0\\.17894770532537568\ \(0\)\
+\-\ targeted\\:\\ 0\\.1755098652299543\ \(0\)\
+\-\ revealed\\:\\ 0\\.1668318921365928\ \(0\)\
+\-\ aaf\\:\\ 0\\.1654297761724222\ \(0\)\
+\-\ freely\\:\\ 0\\.16005142435880412\ \(0\)\
+\-\ histologically\\:\\ 0\\.15572139265242232\ \(0\)\
+\-\ she\\:\\ 0\\.151459299573549\ \(0\)\
+\-\ transmission\\:\\ 0\\.14712041897315686\ \(0\)\
+\-\ fibroadenoma\\:\\ 0\\.13961647706807565\ \(0\)\
+\-\ tumor\\:\\ 0\\.13308444812352277\ \(0\)\
+\-\ lump\\:\\ 0\\.1330419119697055\ \(0\)\
+\-\ proven\\:\\ 0\\.12835194245941317\ \(0\)\
+\-\ mobile\\:\\ 0\\.1254702862008837\ \(0\)\
+\-\ outer\\:\\ 0\\.12232397726311421\ \(0\)\
+\-\ mammogram\\:\\ 0\\.12146057333652366\ \(0\)\
+\-\ denied\\:\\ 0\\.11490403476424718\ \(0\)\
+\-\ painful\\:\\ 0\\.11251226468112145\ \(0\)\
+\-\ physician\\:\\ 0\\.11158674531902517\ \(0\)\
+\-\ hypoechoic\\:\\ 0\\.10869959532577532\ \(0\)\
+\-\ 36\\:\\ 0\\.10530731564657655\ \(0\)\
+\-\ smooth\\:\\ 0\\.10503533891015526\ \(0\)\
+\-\ infectious\\:\\ 0\\.10236355459718986\ \(0\)\
+\-\ general\\:\\ 0\\.10212503022740517\ \(0\)\
+\-\ the\\:\\ 0\\.10153814178065879\ \(0\)\
+\-\ position\\:\\ 0\\.10142439200006964\ \(0\)\
+\-\ excision\\:\\ 0\\.1003034618097337\ \(0\)\
+\-\ family\\:\\ 0\\.10008588139138778\ \(0\)\
+\-\ complex\\:\\ 0\\.09801942120460652\ \(0\)\
+\-\ history\\:\\ 0\\.09720903158582893\ \(0\)\
+\-\ mass\\:\\ 0\\.0971875099294551\ \(0\)\
+\-\ diagnostic\\:\\ 0\\.09695952423613537\ \(0\)\
+\-\ subsequent\\:\\ 0\\.09631036109957539\ \(0\)\
+\-\ referred\\:\\ 0\\.09413497162161857\ \(0\)\
+\-\ tender\\:\\ 0\\.09300347743437168\ \(0\)\
+\-\ mid\\:\\ 0\\.09155430276145414\ \(0\)\
+\-\ palpable\\:\\ 0\\.08937507027254822\ \(0\)\
+\-\ showed\\:\\ 0\\.08473596538638466\ \(0\)\
+\-\ cancer\\:\\ 0\\.08473596538638466\ \(0\)\
+\-\ right\\:\\ 0\\.08435584464563103\ \(0\)\
+\-\ any\\:\\ 0\\.08221824535125745\ \(0\)\
+\-\ yo\\:\\ 0\\.0794783853406196\ \(0\)\
+\-\ her\\:\\ 0\\.0794783853406196\ \(0\)\
+\-\ ultrasound\\:\\ 0\\.07847022200831137\ \(0\)\
+\-\ of\\:\\ 0\\.0746878065162058\ \(0\)\
+\-\ presented\\:\\ 0\\.07418614103159549\ \(0\)\
+\-\ trauma\\:\\ 0\\.07388316830587163\ \(0\)\
+\-\ significant\\:\\ 0\\.0734526818770932\ \(0\)\
+\-\ cyst\\:\\ 0\\.0733871845730862\ \(0\)\
+\-\ symptoms\\:\\ 0\\.06960630416973197\ \(0\)\
+\-\ physical\\:\\ 0\\.06898034267889662\ \(0\)\
+\-\ increased\\:\\ 0\\.06879326823038813\ \(0\)\
+\-\ surgery\\:\\ 0\\.0683976017438781\ \(0\)\
+\-\ exam\\:\\ 0\\.06404144019738389\ \(0\)\
+\-\ to\\:\\ 0\\.06360833669082336\ \(0\)\
+\-\ had\\:\\ 0\\.06338452211430108\ \(0\)\
+\-\ in\\:\\ 0\\.0632952565893685\ \(0\)\
+\-\ lesion\\:\\ 0\\.06099098245306266\ \(0\)\
+\-\ with\\:\\ 0\\.04982162164186807\ \(0\)\
+\-\ was\\:\\ 0\\.044336618539417914\ \(0\)\
+\-\ or\\:\\ 0\\.04425676313527473\ \(0\)\
+\-\ patient\\:\\ 0\\.04137752254110791\ \(0\)\
+\-\ no\\:\\ 0\\.04136973967033108\ \(0\)\
+\-\ for\\:\\ 0\\.03855870031825312\ \(0\)\

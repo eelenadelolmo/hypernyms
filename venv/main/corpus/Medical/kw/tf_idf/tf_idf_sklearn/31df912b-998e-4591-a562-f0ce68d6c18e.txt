@@ -1,47 +1,45 @@
-Texto: 
-hemodynamically stable with a normal hematocrit.
-small bowel soft tissue mass without desmoplastic reaction, calcification, or frank necrosis.
-gastrointestinal stromal tumor
-gi lymphoma, carcinoid, gi stromal tumor, adenocarcinoma, or metastatic disease (especially melanoma, breast lung, and kaposi's).
-55 year old female w/ second gi bleed
-
-
-Keywords by value: 
-- gi: 0.44059044941369024
-- stromal: 0.3820182654044037
-- kaposi: 0.24120021293106242
-- desmoplastic: 0.22222727704123016
-- hemodynamically: 0.1976361558684026
-- carcinoid: 0.1841700048475801
-- tumor: 0.18289568613792148
-- hematocrit: 0.1809408098600086
-- frank: 0.17915492579451778
-- bleed: 0.17915492579451778
-- gastrointestinal: 0.17243167333370743
-- melanoma: 0.16326818388478745
-- 55: 0.1502724382018018
-- reaction: 0.14873417246314233
-- adenocarcinoma: 0.14289716247438702
-- stable: 0.13829940365366936
-- especially: 0.13829940365366936
-- necrosis: 0.13364025813247063
-- second: 0.1308862510379701
-- breast: 0.12695870905764314
-- calcification: 0.12482308881078209
-- or: 0.12164262878194039
-- bowel: 0.11220014566717215
-- lung: 0.10635298158410893
-- lymphoma: 0.10412392311069128
-- metastatic: 0.0958871969242204
-- soft: 0.09307740984494098
-- without: 0.09221787496285394
-- tissue: 0.09171349158059325
-- small: 0.09018478933275408
-- female: 0.08436502354892127
-- disease: 0.0733887147883878
-- normal: 0.07138317309053442
-- mass: 0.06678156825689227
-- year: 0.053880112203912034
-- old: 0.05174355877945046
-- and: 0.0361271149164817
-- with: 0.034234502239645234
+\-\ Texto\\:\\ \ \(0\)\
+\-\ hemodynamically\\ stable\\ with\\ a\\ normal\\ hematocrit\\.\ \(0\)\
+\-\ small\\ bowel\\ soft\\ tissue\\ mass\\ without\\ desmoplastic\\ reaction\\,\\ calcification\\,\\ or\\ frank\\ necrosis\\.\ \(0\)\
+\-\ gastrointestinal\\ stromal\\ tumor\ \(3\)\
+\-\ gi\\ lymphoma\\,\\ carcinoid\\,\\ gi\\ stromal\\ tumor\\,\\ adenocarcinoma\\,\\ or\\ metastatic\\ disease\\ \\(especially\\ melanoma\\,\\ breast\\ lung\\,\\ and\\ kaposi\\'s\\)\\.\ \(0\)\
+\-\ 55\\ year\\ old\\ female\\ w\\/\\ second\\ gi\\ bleed\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ gi\\:\\ 0\\.44059044941369024\ \(0\)\
+\-\ stromal\\:\\ 0\\.3820182654044037\ \(0\)\
+\-\ kaposi\\:\\ 0\\.24120021293106242\ \(0\)\
+\-\ desmoplastic\\:\\ 0\\.22222727704123016\ \(0\)\
+\-\ hemodynamically\\:\\ 0\\.1976361558684026\ \(0\)\
+\-\ carcinoid\\:\\ 0\\.1841700048475801\ \(0\)\
+\-\ tumor\\:\\ 0\\.18289568613792148\ \(0\)\
+\-\ hematocrit\\:\\ 0\\.1809408098600086\ \(0\)\
+\-\ frank\\:\\ 0\\.17915492579451778\ \(0\)\
+\-\ bleed\\:\\ 0\\.17915492579451778\ \(0\)\
+\-\ gastrointestinal\\:\\ 0\\.17243167333370743\ \(0\)\
+\-\ melanoma\\:\\ 0\\.16326818388478745\ \(0\)\
+\-\ 55\\:\\ 0\\.1502724382018018\ \(0\)\
+\-\ reaction\\:\\ 0\\.14873417246314233\ \(0\)\
+\-\ adenocarcinoma\\:\\ 0\\.14289716247438702\ \(0\)\
+\-\ stable\\:\\ 0\\.13829940365366936\ \(0\)\
+\-\ especially\\:\\ 0\\.13829940365366936\ \(0\)\
+\-\ necrosis\\:\\ 0\\.13364025813247063\ \(0\)\
+\-\ second\\:\\ 0\\.1308862510379701\ \(0\)\
+\-\ breast\\:\\ 0\\.12695870905764314\ \(0\)\
+\-\ calcification\\:\\ 0\\.12482308881078209\ \(0\)\
+\-\ or\\:\\ 0\\.12164262878194039\ \(0\)\
+\-\ bowel\\:\\ 0\\.11220014566717215\ \(0\)\
+\-\ lung\\:\\ 0\\.10635298158410893\ \(0\)\
+\-\ lymphoma\\:\\ 0\\.10412392311069128\ \(0\)\
+\-\ metastatic\\:\\ 0\\.0958871969242204\ \(0\)\
+\-\ soft\\:\\ 0\\.09307740984494098\ \(0\)\
+\-\ without\\:\\ 0\\.09221787496285394\ \(0\)\
+\-\ tissue\\:\\ 0\\.09171349158059325\ \(0\)\
+\-\ small\\:\\ 0\\.09018478933275408\ \(0\)\
+\-\ female\\:\\ 0\\.08436502354892127\ \(0\)\
+\-\ disease\\:\\ 0\\.0733887147883878\ \(0\)\
+\-\ normal\\:\\ 0\\.07138317309053442\ \(0\)\
+\-\ mass\\:\\ 0\\.06678156825689227\ \(0\)\
+\-\ year\\:\\ 0\\.053880112203912034\ \(0\)\
+\-\ old\\:\\ 0\\.05174355877945046\ \(0\)\
+\-\ and\\:\\ 0\\.0361271149164817\ \(0\)\
+\-\ with\\:\\ 0\\.034234502239645234\ \(0\)\

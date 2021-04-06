@@ -1,61 +1,59 @@
-Texto: 
-none given
-none given
-pa/lat chest
- right upper lobe consolidation with right middle and 
- lower lobe diffuse intersitial disease.
-ct chest
- right upper lobe and middle lobe diffuse interstial 
- thickening.
-mycoplasma pneumonia
-pneumonia
- pneumocystis carinii
- mycoplasma
- h. influenzae
- granulomatous
-pulmonary fibrosis
-sarcoidosis
-tumor (lymphangitic carcinomatosis, lymphoma)
-47 yo female with a history of cough and fever for 4 days.
-
-
-Keywords by value: 
-- mycoplasma: 0.3746856783080897
-- lobe: 0.3369796935833433
-- pneumonia: 0.23012723862118525
-- interstial: 0.21541866490347533
-- intersitial: 0.20971607125107583
-- influenzae: 0.20971607125107583
-- middle: 0.2084883782020345
-- given: 0.2005624300022316
-- carinii: 0.19200219742967248
-- pneumocystis: 0.18340340786365464
-- diffuse: 0.18284309630730353
-- lymphangitic: 0.16962896533264146
-- none: 0.15933472724475473
-- carcinomatosis: 0.15788528674927127
-- upper: 0.1558042011779337
-- chest: 0.15389920667430598
-- right: 0.14499542359469217
-- consolidation: 0.1347392526764872
-- 47: 0.13367427700243054
-- granulomatous: 0.1295862655381813
-- sarcoidosis: 0.1234867675122543
-- fibrosis: 0.12212347267734032
-- cough: 0.10883768208782167
-- thickening: 0.0991759306153631
-- fever: 0.09884010820191023
-- days: 0.09228448456590052
-- yo: 0.09107452046345088
-- and: 0.09037040712567468
-- pulmonary: 0.08885909029290187
-- lymphoma: 0.08682048875467376
-- tumor: 0.07625093440215043
-- lower: 0.07449328627425836
-- female: 0.07034514604804422
-- disease: 0.06119289301298859
-- with: 0.05709074587132581
-- history: 0.055696060623611564
-- ct: 0.05549947720874557
-- for: 0.04418453050006862
-- of: 0.028528327266918847
+\-\ Texto\\:\\ \ \(0\)\
+\-\ none\\ given\ \(0\)\
+\-\ none\\ given\ \(0\)\
+\-\ pa\\/lat\\ chest\ \(0\)\
+\-\ \\ right\\ upper\\ lobe\\ consolidation\\ with\\ right\\ middle\\ and\\ \ \(0\)\
+\-\ \\ lower\\ lobe\\ diffuse\\ intersitial\\ disease\\.\ \(1\)\
+\-\ ct\\ chest\ \(2\)\
+\-\ \\ right\\ upper\\ lobe\\ and\\ middle\\ lobe\\ diffuse\\ interstial\\ \ \(0\)\
+\-\ \\ thickening\\.\ \(56\)\
+\-\ mycoplasma\\ pneumonia\ \(1\)\
+\-\ pneumonia\ \(272\)\
+\-\ \\ pneumocystis\\ carinii\ \(0\)\
+\-\ \\ mycoplasma\ \(3\)\
+\-\ \\ h\\.\\ influenzae\ \(0\)\
+\-\ \\ granulomatous\ \(62\)\
+\-\ pulmonary\\ fibrosis\ \(23\)\
+\-\ sarcoidosis\ \(108\)\
+\-\ tumor\\ \\(lymphangitic\\ carcinomatosis\\,\\ lymphoma\\)\ \(0\)\
+\-\ 47\\ yo\\ female\\ with\\ a\\ history\\ of\\ cough\\ and\\ fever\\ for\\ 4\\ days\\.\ \(1\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ mycoplasma\\:\\ 0\\.3746856783080897\ \(0\)\
+\-\ lobe\\:\\ 0\\.3369796935833433\ \(0\)\
+\-\ pneumonia\\:\\ 0\\.23012723862118525\ \(0\)\
+\-\ interstial\\:\\ 0\\.21541866490347533\ \(0\)\
+\-\ intersitial\\:\\ 0\\.20971607125107583\ \(0\)\
+\-\ influenzae\\:\\ 0\\.20971607125107583\ \(0\)\
+\-\ middle\\:\\ 0\\.2084883782020345\ \(0\)\
+\-\ given\\:\\ 0\\.2005624300022316\ \(0\)\
+\-\ carinii\\:\\ 0\\.19200219742967248\ \(0\)\
+\-\ pneumocystis\\:\\ 0\\.18340340786365464\ \(0\)\
+\-\ diffuse\\:\\ 0\\.18284309630730353\ \(0\)\
+\-\ lymphangitic\\:\\ 0\\.16962896533264146\ \(0\)\
+\-\ none\\:\\ 0\\.15933472724475473\ \(0\)\
+\-\ carcinomatosis\\:\\ 0\\.15788528674927127\ \(0\)\
+\-\ upper\\:\\ 0\\.1558042011779337\ \(0\)\
+\-\ chest\\:\\ 0\\.15389920667430598\ \(0\)\
+\-\ right\\:\\ 0\\.14499542359469217\ \(0\)\
+\-\ consolidation\\:\\ 0\\.1347392526764872\ \(0\)\
+\-\ 47\\:\\ 0\\.13367427700243054\ \(0\)\
+\-\ granulomatous\\:\\ 0\\.1295862655381813\ \(0\)\
+\-\ sarcoidosis\\:\\ 0\\.1234867675122543\ \(0\)\
+\-\ fibrosis\\:\\ 0\\.12212347267734032\ \(0\)\
+\-\ cough\\:\\ 0\\.10883768208782167\ \(0\)\
+\-\ thickening\\:\\ 0\\.0991759306153631\ \(0\)\
+\-\ fever\\:\\ 0\\.09884010820191023\ \(0\)\
+\-\ days\\:\\ 0\\.09228448456590052\ \(0\)\
+\-\ yo\\:\\ 0\\.09107452046345088\ \(0\)\
+\-\ and\\:\\ 0\\.09037040712567468\ \(0\)\
+\-\ pulmonary\\:\\ 0\\.08885909029290187\ \(0\)\
+\-\ lymphoma\\:\\ 0\\.08682048875467376\ \(0\)\
+\-\ tumor\\:\\ 0\\.07625093440215043\ \(0\)\
+\-\ lower\\:\\ 0\\.07449328627425836\ \(0\)\
+\-\ female\\:\\ 0\\.07034514604804422\ \(0\)\
+\-\ disease\\:\\ 0\\.06119289301298859\ \(0\)\
+\-\ with\\:\\ 0\\.05709074587132581\ \(0\)\
+\-\ history\\:\\ 0\\.055696060623611564\ \(0\)\
+\-\ ct\\:\\ 0\\.05549947720874557\ \(0\)\
+\-\ for\\:\\ 0\\.04418453050006862\ \(0\)\
+\-\ of\\:\\ 0\\.028528327266918847\ \(0\)\

@@ -1,70 +1,67 @@
-Texto: 
-after an attempt to decrease the step-off via closed reduction was unsuccessful, the patient underwent an orif.
-plain film:  lucent fracture line inferior to the anterior tibial spine
-
-mri:  t1 dark fracture line demonstrated in the coronal and sagittal plane inferior to the anterior tibial spine.  the fracture fragment demonstrates approximately 4mm superior displacement and slight rotation. the acl is intact.
-tibial spine avulsion
-9 yo girl in a "sledding accident" earlier today, presents with a painful, flexed, swollen knee. she is unable to bear weight.
-
-
-Keywords by value: 
-- tibial: 0.33324249109486853
-- spine: 0.2549593695883374
-- fracture: 0.2193498524413822
-- sledding: 0.20574044549308204
-- line: 0.2004977222383506
-- the: 0.17969330665625446
-- inferior: 0.17504635138962982
-- unsuccessful: 0.15166064507578378
-- flexed: 0.15166064507578378
-- today: 0.1478930695440403
-- orif: 0.1470419108516034
-- 4mm: 0.1470419108516034
-- anterior: 0.14366204453036208
-- bear: 0.14184290420998116
-- acl: 0.1376207169665298
-- attempt: 0.1326984380727765
-- plane: 0.12979772668570339
-- to: 0.12864966968985966
-- dark: 0.1262103360950488
-- closed: 0.12492124075894333
-- avulsion: 0.12492124075894333
-- lucent: 0.12430331091332385
-- swollen: 0.12430331091332385
-- earlier: 0.11751247917554604
-- rotation: 0.11455739503974294
-- painful: 0.11377962732809965
-- slight: 0.11266106610128028
-- reduction: 0.11230020994695192
-- fragment: 0.1114225494553482
-- unable: 0.1114225494553482
-- decrease: 0.11057776798011644
-- accident: 0.10992401123499174
-- via: 0.10515068143028446
-- displacement: 0.10489144836355464
-- coronal: 0.10245090430553384
-- sagittal: 0.09892482692481058
-- an: 0.09839117677311368
-- film: 0.09613695785340777
-- intact: 0.09311449634173019
-- knee: 0.09221525316573352
-- girl: 0.09024676204562655
-- weight: 0.08971451248244604
-- underwent: 0.0886235416576415
-- plain: 0.08488007412230987
-- superior: 0.08364115239643247
-- approximately: 0.08208850307921449
-- yo: 0.08037364717814746
-- t1: 0.08015741322548349
-- demonstrated: 0.07906524687318014
-- she: 0.07658268505080117
-- is: 0.07046372583043482
-- mri: 0.0660378441931356
-- demonstrates: 0.06463270293685808
-- in: 0.06400822814104438
-- after: 0.06241055408289879
-- presents: 0.06188761801501053
-- and: 0.0531681761316869
-- was: 0.04483603586418186
-- patient: 0.041843607964254646
-- with: 0.02519141161792154
+\-\ Texto\\:\\ \ \(0\)\
+\-\ after\\ an\\ attempt\\ to\\ decrease\\ the\\ step\\-off\\ via\\ closed\\ reduction\\ was\\ unsuccessful\\,\\ the\\ patient\\ underwent\\ an\\ orif\\.\ \(0\)\
+\-\ plain\\ film\\:\\ \\ lucent\\ fracture\\ line\\ inferior\\ to\\ the\\ anterior\\ tibial\\ spine\ \(0\)\
+\-\ mri\\:\\ \\ t1\\ dark\\ fracture\\ line\\ demonstrated\\ in\\ the\\ coronal\\ and\\ sagittal\\ plane\\ inferior\\ to\\ the\\ anterior\\ tibial\\ spine\\.\\ \\ the\\ fracture\\ fragment\\ demonstrates\\ approximately\\ 4mm\\ superior\\ displacement\\ and\\ slight\\ rotation\\.\\ the\\ acl\\ is\\ intact\\.\ \(0\)\
+\-\ tibial\\ spine\\ avulsion\ \(0\)\
+\-\ 9\\ yo\\ girl\\ in\\ a\\ \\"sledding\\ accident\\"\\ earlier\\ today\\,\\ presents\\ with\\ a\\ painful\\,\\ flexed\\,\\ swollen\\ knee\\.\\ she\\ is\\ unable\\ to\\ bear\\ weight\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ tibial\\:\\ 0\\.33324249109486853\ \(0\)\
+\-\ spine\\:\\ 0\\.2549593695883374\ \(0\)\
+\-\ fracture\\:\\ 0\\.2193498524413822\ \(0\)\
+\-\ sledding\\:\\ 0\\.20574044549308204\ \(0\)\
+\-\ line\\:\\ 0\\.2004977222383506\ \(0\)\
+\-\ the\\:\\ 0\\.17969330665625446\ \(0\)\
+\-\ inferior\\:\\ 0\\.17504635138962982\ \(0\)\
+\-\ unsuccessful\\:\\ 0\\.15166064507578378\ \(0\)\
+\-\ flexed\\:\\ 0\\.15166064507578378\ \(0\)\
+\-\ today\\:\\ 0\\.1478930695440403\ \(0\)\
+\-\ orif\\:\\ 0\\.1470419108516034\ \(0\)\
+\-\ 4mm\\:\\ 0\\.1470419108516034\ \(0\)\
+\-\ anterior\\:\\ 0\\.14366204453036208\ \(0\)\
+\-\ bear\\:\\ 0\\.14184290420998116\ \(0\)\
+\-\ acl\\:\\ 0\\.1376207169665298\ \(0\)\
+\-\ attempt\\:\\ 0\\.1326984380727765\ \(0\)\
+\-\ plane\\:\\ 0\\.12979772668570339\ \(0\)\
+\-\ to\\:\\ 0\\.12864966968985966\ \(0\)\
+\-\ dark\\:\\ 0\\.1262103360950488\ \(0\)\
+\-\ closed\\:\\ 0\\.12492124075894333\ \(0\)\
+\-\ avulsion\\:\\ 0\\.12492124075894333\ \(0\)\
+\-\ lucent\\:\\ 0\\.12430331091332385\ \(0\)\
+\-\ swollen\\:\\ 0\\.12430331091332385\ \(0\)\
+\-\ earlier\\:\\ 0\\.11751247917554604\ \(0\)\
+\-\ rotation\\:\\ 0\\.11455739503974294\ \(0\)\
+\-\ painful\\:\\ 0\\.11377962732809965\ \(0\)\
+\-\ slight\\:\\ 0\\.11266106610128028\ \(0\)\
+\-\ reduction\\:\\ 0\\.11230020994695192\ \(0\)\
+\-\ fragment\\:\\ 0\\.1114225494553482\ \(0\)\
+\-\ unable\\:\\ 0\\.1114225494553482\ \(0\)\
+\-\ decrease\\:\\ 0\\.11057776798011644\ \(0\)\
+\-\ accident\\:\\ 0\\.10992401123499174\ \(0\)\
+\-\ via\\:\\ 0\\.10515068143028446\ \(0\)\
+\-\ displacement\\:\\ 0\\.10489144836355464\ \(0\)\
+\-\ coronal\\:\\ 0\\.10245090430553384\ \(0\)\
+\-\ sagittal\\:\\ 0\\.09892482692481058\ \(0\)\
+\-\ an\\:\\ 0\\.09839117677311368\ \(0\)\
+\-\ film\\:\\ 0\\.09613695785340777\ \(0\)\
+\-\ intact\\:\\ 0\\.09311449634173019\ \(0\)\
+\-\ knee\\:\\ 0\\.09221525316573352\ \(0\)\
+\-\ girl\\:\\ 0\\.09024676204562655\ \(0\)\
+\-\ weight\\:\\ 0\\.08971451248244604\ \(0\)\
+\-\ underwent\\:\\ 0\\.0886235416576415\ \(0\)\
+\-\ plain\\:\\ 0\\.08488007412230987\ \(0\)\
+\-\ superior\\:\\ 0\\.08364115239643247\ \(0\)\
+\-\ approximately\\:\\ 0\\.08208850307921449\ \(0\)\
+\-\ yo\\:\\ 0\\.08037364717814746\ \(0\)\
+\-\ t1\\:\\ 0\\.08015741322548349\ \(0\)\
+\-\ demonstrated\\:\\ 0\\.07906524687318014\ \(0\)\
+\-\ she\\:\\ 0\\.07658268505080117\ \(0\)\
+\-\ is\\:\\ 0\\.07046372583043482\ \(0\)\
+\-\ mri\\:\\ 0\\.0660378441931356\ \(0\)\
+\-\ demonstrates\\:\\ 0\\.06463270293685808\ \(0\)\
+\-\ in\\:\\ 0\\.06400822814104438\ \(0\)\
+\-\ after\\:\\ 0\\.06241055408289879\ \(0\)\
+\-\ presents\\:\\ 0\\.06188761801501053\ \(0\)\
+\-\ and\\:\\ 0\\.0531681761316869\ \(0\)\
+\-\ was\\:\\ 0\\.04483603586418186\ \(0\)\
+\-\ patient\\:\\ 0\\.041843607964254646\ \(0\)\
+\-\ with\\:\\ 0\\.02519141161792154\ \(0\)\

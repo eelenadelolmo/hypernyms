@@ -1,48 +1,46 @@
-Texto: 
-elevated urine catecholamines.
-abdominal mass with calcification. aggressive appearing, permeative lesion in the left frontoparietal bone.
-metastatic neuroblastoma
-- metastatic neuroblastoma
-- eosinophilic granuloma (for skull lesion)
-presents with flank pain and a "lump" on the patient's left forehead, which seems to have grown recently per mother.
-
-
-Keywords by value: 
-- neuroblastoma: 0.3475038994317194
-- catecholamines: 0.2889940815826182
-- frontoparietal: 0.2525720943095436
-- permeative: 0.24591931462412583
-- grown: 0.2379241361114388
-- seems: 0.220054935218267
-- forehead: 0.21494442065665506
-- metastatic: 0.20744043870780637
-- lump: 0.19777319757582681
-- eosinophilic: 0.18409662993059936
-- lesion: 0.1813320546051688
-- granuloma: 0.17112461736616824
-- urine: 0.1692823255654995
-- flank: 0.16587906098228847
-- recently: 0.16508016156528957
-- aggressive: 0.16353789644148375
-- mother: 0.1615871737296754
-- per: 0.15695368497394746
-- skull: 0.15344011177813907
-- appearing: 0.15111578885391583
-- calcification: 0.13501988343780463
-- left: 0.12902262930456274
-- elevated: 0.12892234080167922
-- abdominal: 0.10343211195327233
-- bone: 0.10318713998992497
-- have: 0.09447340882564792
-- presents: 0.09097416634959872
-- which: 0.08599255682145544
-- the: 0.07547066438898306
-- with: 0.07406223553648975
-- mass: 0.07223695269637105
-- pain: 0.06767237334789905
-- patient: 0.061509676308501696
-- for: 0.05731936157115235
-- on: 0.05711603237490843
-- to: 0.04727842509768078
-- in: 0.04704572078726697
-- and: 0.03907833792161523
+\-\ Texto\\:\\ \ \(0\)\
+\-\ elevated\\ urine\\ catecholamines\\.\ \(0\)\
+\-\ abdominal\\ mass\\ with\\ calcification\\.\\ aggressive\\ appearing\\,\\ permeative\\ lesion\\ in\\ the\\ left\\ frontoparietal\\ bone\\.\ \(0\)\
+\-\ metastatic\\ neuroblastoma\ \(2\)\
+\-\ metastatic\\ neuroblastoma\ \(2\)\
+\-\ eosinophilic\\ granuloma\\ \\(for\\ skull\\ lesion\\)\ \(0\)\
+\-\ presents\\ with\\ flank\\ pain\\ and\\ a\\ \\"lump\\"\\ on\\ the\\ patient\\'s\\ left\\ forehead\\,\\ which\\ seems\\ to\\ have\\ grown\\ recently\\ per\\ mother\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ neuroblastoma\\:\\ 0\\.3475038994317194\ \(0\)\
+\-\ catecholamines\\:\\ 0\\.2889940815826182\ \(0\)\
+\-\ frontoparietal\\:\\ 0\\.2525720943095436\ \(0\)\
+\-\ permeative\\:\\ 0\\.24591931462412583\ \(0\)\
+\-\ grown\\:\\ 0\\.2379241361114388\ \(0\)\
+\-\ seems\\:\\ 0\\.220054935218267\ \(0\)\
+\-\ forehead\\:\\ 0\\.21494442065665506\ \(0\)\
+\-\ metastatic\\:\\ 0\\.20744043870780637\ \(0\)\
+\-\ lump\\:\\ 0\\.19777319757582681\ \(0\)\
+\-\ eosinophilic\\:\\ 0\\.18409662993059936\ \(0\)\
+\-\ lesion\\:\\ 0\\.1813320546051688\ \(0\)\
+\-\ granuloma\\:\\ 0\\.17112461736616824\ \(0\)\
+\-\ urine\\:\\ 0\\.1692823255654995\ \(0\)\
+\-\ flank\\:\\ 0\\.16587906098228847\ \(0\)\
+\-\ recently\\:\\ 0\\.16508016156528957\ \(0\)\
+\-\ aggressive\\:\\ 0\\.16353789644148375\ \(0\)\
+\-\ mother\\:\\ 0\\.1615871737296754\ \(0\)\
+\-\ per\\:\\ 0\\.15695368497394746\ \(0\)\
+\-\ skull\\:\\ 0\\.15344011177813907\ \(0\)\
+\-\ appearing\\:\\ 0\\.15111578885391583\ \(0\)\
+\-\ calcification\\:\\ 0\\.13501988343780463\ \(0\)\
+\-\ left\\:\\ 0\\.12902262930456274\ \(0\)\
+\-\ elevated\\:\\ 0\\.12892234080167922\ \(0\)\
+\-\ abdominal\\:\\ 0\\.10343211195327233\ \(0\)\
+\-\ bone\\:\\ 0\\.10318713998992497\ \(0\)\
+\-\ have\\:\\ 0\\.09447340882564792\ \(0\)\
+\-\ presents\\:\\ 0\\.09097416634959872\ \(0\)\
+\-\ which\\:\\ 0\\.08599255682145544\ \(0\)\
+\-\ the\\:\\ 0\\.07547066438898306\ \(0\)\
+\-\ with\\:\\ 0\\.07406223553648975\ \(0\)\
+\-\ mass\\:\\ 0\\.07223695269637105\ \(0\)\
+\-\ pain\\:\\ 0\\.06767237334789905\ \(0\)\
+\-\ patient\\:\\ 0\\.061509676308501696\ \(0\)\
+\-\ for\\:\\ 0\\.05731936157115235\ \(0\)\
+\-\ on\\:\\ 0\\.05711603237490843\ \(0\)\
+\-\ to\\:\\ 0\\.04727842509768078\ \(0\)\
+\-\ in\\:\\ 0\\.04704572078726697\ \(0\)\
+\-\ and\\:\\ 0\\.03907833792161523\ \(0\)\

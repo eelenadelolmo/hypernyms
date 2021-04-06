@@ -1,68 +1,66 @@
-Texto: 
-soft tissue scalp mass.  no neurologic deficit
-surgical excision of lesion.
-radiation therapy
-large enhancing mass with both extra- and intra- cranial components.  displacement of brain, without edema.  bone destruction of the calvaria is present
-ewing sarcoma of the skull
-meningioma
-hemangiopericytoma
-ewings sarcoma
-metastatic disease (neuroblastoma, thyroid, lung, breast or kidney)
-6 y.o. girl presents with a rapidly enlarging mass on left side of scalp.  no definite history of trauma
-
-
-Keywords by value: 
-- scalp: 0.33622413687899183
-- sarcoma: 0.2778621578573182
-- calvaria: 0.2284851587926243
-- ewings: 0.20272380177023155
-- of: 0.19446263387382037
-- mass: 0.18978338006638798
-- ewing: 0.1786160343428535
-- hemangiopericytoma: 0.17578126547497683
-- rapidly: 0.16562907586640005
-- definite: 0.16290520598497127
-- deficit: 0.15668777904903075
-- enlarging: 0.1546613764033493
-- neuroblastoma: 0.15216234479880683
-- destruction: 0.15098912176738177
-- components: 0.1504198227555611
-- cranial: 0.13536422900384187
-- displacement: 0.13503050901522298
-- skull: 0.1343743608778712
-- neurologic: 0.13233884745314242
-- excision: 0.13057871344735975
-- thyroid: 0.1301548618416116
-- meningioma: 0.12410011546074468
-- breast: 0.12026598337802061
-- kidney: 0.11635173382743788
-- girl: 0.1161778810962706
-- side: 0.11441264950126372
-- radiation: 0.1097513297074332
-- no: 0.1077132789703936
-- enhancing: 0.10374892804857441
-- brain: 0.10324496192496418
-- lung: 0.10074650262543257
-- edema: 0.09877738752665659
-- trauma: 0.09618380949897823
-- therapy: 0.09515748810958223
-- both: 0.09235596051884044
-- metastatic: 0.09083242982738121
-- bone: 0.09036558841282771
-- soft: 0.08817076282808171
-- without: 0.08735653898625788
-- tissue: 0.08687874456067364
-- present: 0.08498326548315147
-- large: 0.08298214652174304
-- surgical: 0.08049507849303042
-- presents: 0.07967014177687876
-- lesion: 0.0794002906471824
-- disease: 0.06951997242557965
-- the: 0.06609303248528244
-- with: 0.06485960841707404
-- history: 0.0632751355283208
-- or: 0.05761507217478616
-- left: 0.05649544030784914
-- on: 0.05001906123058223
-- is: 0.04535523588641143
-- and: 0.03422264635716111
+\-\ Texto\\:\\ \ \(0\)\
+\-\ soft\\ tissue\\ scalp\\ mass\\.\\ \\ no\\ neurologic\\ deficit\ \(0\)\
+\-\ surgical\\ excision\\ of\\ lesion\\.\ \(0\)\
+\-\ radiation\\ therapy\ \(165\)\
+\-\ large\\ enhancing\\ mass\\ with\\ both\\ extra\\-\\ and\\ intra\\-\\ cranial\\ components\\.\\ \\ displacement\\ of\\ brain\\,\\ without\\ edema\\.\\ \\ bone\\ destruction\\ of\\ the\\ calvaria\\ is\\ present\ \(0\)\
+\-\ ewing\\ sarcoma\\ of\\ the\\ skull\ \(0\)\
+\-\ meningioma\ \(167\)\
+\-\ hemangiopericytoma\ \(13\)\
+\-\ ewings\\ sarcoma\ \(0\)\
+\-\ metastatic\\ disease\\ \\(neuroblastoma\\,\\ thyroid\\,\\ lung\\,\\ breast\\ or\\ kidney\\)\ \(0\)\
+\-\ 6\\ y\\.o\\.\\ girl\\ presents\\ with\\ a\\ rapidly\\ enlarging\\ mass\\ on\\ left\\ side\\ of\\ scalp\\.\\ \\ no\\ definite\\ history\\ of\\ trauma\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ scalp\\:\\ 0\\.33622413687899183\ \(0\)\
+\-\ sarcoma\\:\\ 0\\.2778621578573182\ \(0\)\
+\-\ calvaria\\:\\ 0\\.2284851587926243\ \(0\)\
+\-\ ewings\\:\\ 0\\.20272380177023155\ \(0\)\
+\-\ of\\:\\ 0\\.19446263387382037\ \(0\)\
+\-\ mass\\:\\ 0\\.18978338006638798\ \(0\)\
+\-\ ewing\\:\\ 0\\.1786160343428535\ \(0\)\
+\-\ hemangiopericytoma\\:\\ 0\\.17578126547497683\ \(0\)\
+\-\ rapidly\\:\\ 0\\.16562907586640005\ \(0\)\
+\-\ definite\\:\\ 0\\.16290520598497127\ \(0\)\
+\-\ deficit\\:\\ 0\\.15668777904903075\ \(0\)\
+\-\ enlarging\\:\\ 0\\.1546613764033493\ \(0\)\
+\-\ neuroblastoma\\:\\ 0\\.15216234479880683\ \(0\)\
+\-\ destruction\\:\\ 0\\.15098912176738177\ \(0\)\
+\-\ components\\:\\ 0\\.1504198227555611\ \(0\)\
+\-\ cranial\\:\\ 0\\.13536422900384187\ \(0\)\
+\-\ displacement\\:\\ 0\\.13503050901522298\ \(0\)\
+\-\ skull\\:\\ 0\\.1343743608778712\ \(0\)\
+\-\ neurologic\\:\\ 0\\.13233884745314242\ \(0\)\
+\-\ excision\\:\\ 0\\.13057871344735975\ \(0\)\
+\-\ thyroid\\:\\ 0\\.1301548618416116\ \(0\)\
+\-\ meningioma\\:\\ 0\\.12410011546074468\ \(0\)\
+\-\ breast\\:\\ 0\\.12026598337802061\ \(0\)\
+\-\ kidney\\:\\ 0\\.11635173382743788\ \(0\)\
+\-\ girl\\:\\ 0\\.1161778810962706\ \(0\)\
+\-\ side\\:\\ 0\\.11441264950126372\ \(0\)\
+\-\ radiation\\:\\ 0\\.1097513297074332\ \(0\)\
+\-\ no\\:\\ 0\\.1077132789703936\ \(0\)\
+\-\ enhancing\\:\\ 0\\.10374892804857441\ \(0\)\
+\-\ brain\\:\\ 0\\.10324496192496418\ \(0\)\
+\-\ lung\\:\\ 0\\.10074650262543257\ \(0\)\
+\-\ edema\\:\\ 0\\.09877738752665659\ \(0\)\
+\-\ trauma\\:\\ 0\\.09618380949897823\ \(0\)\
+\-\ therapy\\:\\ 0\\.09515748810958223\ \(0\)\
+\-\ both\\:\\ 0\\.09235596051884044\ \(0\)\
+\-\ metastatic\\:\\ 0\\.09083242982738121\ \(0\)\
+\-\ bone\\:\\ 0\\.09036558841282771\ \(0\)\
+\-\ soft\\:\\ 0\\.08817076282808171\ \(0\)\
+\-\ without\\:\\ 0\\.08735653898625788\ \(0\)\
+\-\ tissue\\:\\ 0\\.08687874456067364\ \(0\)\
+\-\ present\\:\\ 0\\.08498326548315147\ \(0\)\
+\-\ large\\:\\ 0\\.08298214652174304\ \(0\)\
+\-\ surgical\\:\\ 0\\.08049507849303042\ \(0\)\
+\-\ presents\\:\\ 0\\.07967014177687876\ \(0\)\
+\-\ lesion\\:\\ 0\\.0794002906471824\ \(0\)\
+\-\ disease\\:\\ 0\\.06951997242557965\ \(0\)\
+\-\ the\\:\\ 0\\.06609303248528244\ \(0\)\
+\-\ with\\:\\ 0\\.06485960841707404\ \(0\)\
+\-\ history\\:\\ 0\\.0632751355283208\ \(0\)\
+\-\ or\\:\\ 0\\.05761507217478616\ \(0\)\
+\-\ left\\:\\ 0\\.05649544030784914\ \(0\)\
+\-\ on\\:\\ 0\\.05001906123058223\ \(0\)\
+\-\ is\\:\\ 0\\.04535523588641143\ \(0\)\
+\-\ and\\:\\ 0\\.03422264635716111\ \(0\)\

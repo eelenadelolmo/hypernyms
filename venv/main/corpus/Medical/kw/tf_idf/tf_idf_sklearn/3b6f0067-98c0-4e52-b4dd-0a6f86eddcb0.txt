@@ -1,91 +1,89 @@
-Texto: 
-noncontributory
-unknown thus far.  a referral to gastroenterology was recommended.
-on fluoroscopy there are typically multiple small, less that 1cm, sharply defined masses or filling defects throughout the stomach of similar sizes.
-multiple gastric polyps
-hyperplastic polyps secondary to inflammation (majority)
-adenomatous polyps secondary to chronic atrophic gastritis or polyposis syndrome
-hamartomas secondary to polyposis syndrome
-metastatic disease, often melanoma, breast, or lung
-55 year old female with history of stomach pains, mainly postprandial.
-this case nicely demonstrates the fluoroscopic appearance of multiple gastric polyps.  they are likely sequela of previous inflammation, but a referral to gastroenterology was recommended for further evaluation and likely endoscopy for a tissue biopsy.
-
-
-Keywords by value: 
-- polyps: 0.4326510132609264
-- polyposis: 0.2608299342171023
-- gastroenterology: 0.25495583771695124
-- referral: 0.20488272995536352
-- secondary: 0.17833470217483488
-- gastric: 0.1689585678517965
-- stomach: 0.16735477261951592
-- inflammation: 0.16120609908575176
-- recommended: 0.15955323301208976
-- multiple: 0.14716327484972805
-- postprandial: 0.14107169606416975
-- pains: 0.13041496710855116
-- gastritis: 0.12617499537492474
-- to: 0.1253625455056722
-- hamartomas: 0.12382732369824123
-- sequela: 0.12382732369824123
-- syndrome: 0.12092290192560176
-- hyperplastic: 0.12080595192275201
-- likely: 0.11986263538770484
-- atrophic: 0.11822845447216032
-- nicely: 0.11822845447216032
-- adenomatous: 0.11598096210553309
-- sizes: 0.11529140622208477
-- sharply: 0.11337152745933589
-- fluoroscopy: 0.112775489995034
-- mainly: 0.112775489995034
-- 1cm: 0.10644613024222524
-- or: 0.10466817598668735
-- endoscopy: 0.10379444946914225
-- far: 0.1021187610394154
-- fluoroscopic: 0.09918171278933986
-- melanoma: 0.09365676695743397
-- thus: 0.09214345299341298
-- majority: 0.09108825107605228
-- noncontributory: 0.08930427374311718
-- defects: 0.08646238903442624
-- 55: 0.0862019187689568
-- of: 0.07850588171477824
-- filling: 0.07766600129280034
-- similar: 0.07643710495586302
-- are: 0.07611161332793537
-- unknown: 0.07599754652758461
-- previous: 0.0757818208597704
-- throughout: 0.07375873848879326
-- breast: 0.07282828745016898
-- they: 0.0716596566145521
-- defined: 0.071546954809742
-- typically: 0.07040525594380542
-- biopsy: 0.07030029192250822
-- was: 0.06990469046510717
-- masses: 0.0682760720740069
-- less: 0.06822949874519275
-- often: 0.06543975661385866
-- further: 0.06532109640181492
-- evaluation: 0.061162971066749186
-- lung: 0.061008067673981425
-- for: 0.060794758357313856
-- appearance: 0.06046145096280088
-- chronic: 0.059529766962196626
-- metastatic: 0.05500450022075641
-- tissue: 0.05261030596063697
-- small: 0.05173338489269508
-- case: 0.050385019612468475
-- demonstrates: 0.050385019612468475
-- but: 0.04959396938905027
-- female: 0.04839494849440754
-- that: 0.0435224567318314
-- disease: 0.0420985252282337
-- the: 0.04002330694924657
-- there: 0.03990540778306444
-- history: 0.038316900833217066
-- this: 0.0344617333570638
-- year: 0.03090765752550499
-- on: 0.030289550436205813
-- old: 0.02968205017564857
-- and: 0.020723871008236444
-- with: 0.019638197240098975
+\-\ Texto\\:\\ \ \(0\)\
+\-\ noncontributory\ \(52\)\
+\-\ unknown\\ thus\\ far\\.\\ \\ a\\ referral\\ to\\ gastroenterology\\ was\\ recommended\\.\ \(0\)\
+\-\ on\\ fluoroscopy\\ there\\ are\\ typically\\ multiple\\ small\\,\\ less\\ that\\ 1cm\\,\\ sharply\\ defined\\ masses\\ or\\ filling\\ defects\\ throughout\\ the\\ stomach\\ of\\ similar\\ sizes\\.\ \(0\)\
+\-\ multiple\\ gastric\\ polyps\ \(1\)\
+\-\ hyperplastic\\ polyps\\ secondary\\ to\\ inflammation\\ \\(majority\\)\ \(0\)\
+\-\ adenomatous\\ polyps\\ secondary\\ to\\ chronic\\ atrophic\\ gastritis\\ or\\ polyposis\\ syndrome\ \(0\)\
+\-\ hamartomas\\ secondary\\ to\\ polyposis\\ syndrome\ \(0\)\
+\-\ metastatic\\ disease\\,\\ often\\ melanoma\\,\\ breast\\,\\ or\\ lung\ \(0\)\
+\-\ 55\\ year\\ old\\ female\\ with\\ history\\ of\\ stomach\\ pains\\,\\ mainly\\ postprandial\\.\ \(1\)\
+\-\ this\\ case\\ nicely\\ demonstrates\\ the\\ fluoroscopic\\ appearance\\ of\\ multiple\\ gastric\\ polyps\\.\\ \\ they\\ are\\ likely\\ sequela\\ of\\ previous\\ inflammation\\,\\ but\\ a\\ referral\\ to\\ gastroenterology\\ was\\ recommended\\ for\\ further\\ evaluation\\ and\\ likely\\ endoscopy\\ for\\ a\\ tissue\\ biopsy\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ polyps\\:\\ 0\\.4326510132609264\ \(0\)\
+\-\ polyposis\\:\\ 0\\.2608299342171023\ \(0\)\
+\-\ gastroenterology\\:\\ 0\\.25495583771695124\ \(0\)\
+\-\ referral\\:\\ 0\\.20488272995536352\ \(0\)\
+\-\ secondary\\:\\ 0\\.17833470217483488\ \(0\)\
+\-\ gastric\\:\\ 0\\.1689585678517965\ \(0\)\
+\-\ stomach\\:\\ 0\\.16735477261951592\ \(0\)\
+\-\ inflammation\\:\\ 0\\.16120609908575176\ \(0\)\
+\-\ recommended\\:\\ 0\\.15955323301208976\ \(0\)\
+\-\ multiple\\:\\ 0\\.14716327484972805\ \(0\)\
+\-\ postprandial\\:\\ 0\\.14107169606416975\ \(0\)\
+\-\ pains\\:\\ 0\\.13041496710855116\ \(0\)\
+\-\ gastritis\\:\\ 0\\.12617499537492474\ \(0\)\
+\-\ to\\:\\ 0\\.1253625455056722\ \(0\)\
+\-\ hamartomas\\:\\ 0\\.12382732369824123\ \(0\)\
+\-\ sequela\\:\\ 0\\.12382732369824123\ \(0\)\
+\-\ syndrome\\:\\ 0\\.12092290192560176\ \(0\)\
+\-\ hyperplastic\\:\\ 0\\.12080595192275201\ \(0\)\
+\-\ likely\\:\\ 0\\.11986263538770484\ \(0\)\
+\-\ atrophic\\:\\ 0\\.11822845447216032\ \(0\)\
+\-\ nicely\\:\\ 0\\.11822845447216032\ \(0\)\
+\-\ adenomatous\\:\\ 0\\.11598096210553309\ \(0\)\
+\-\ sizes\\:\\ 0\\.11529140622208477\ \(0\)\
+\-\ sharply\\:\\ 0\\.11337152745933589\ \(0\)\
+\-\ fluoroscopy\\:\\ 0\\.112775489995034\ \(0\)\
+\-\ mainly\\:\\ 0\\.112775489995034\ \(0\)\
+\-\ 1cm\\:\\ 0\\.10644613024222524\ \(0\)\
+\-\ or\\:\\ 0\\.10466817598668735\ \(0\)\
+\-\ endoscopy\\:\\ 0\\.10379444946914225\ \(0\)\
+\-\ far\\:\\ 0\\.1021187610394154\ \(0\)\
+\-\ fluoroscopic\\:\\ 0\\.09918171278933986\ \(0\)\
+\-\ melanoma\\:\\ 0\\.09365676695743397\ \(0\)\
+\-\ thus\\:\\ 0\\.09214345299341298\ \(0\)\
+\-\ majority\\:\\ 0\\.09108825107605228\ \(0\)\
+\-\ noncontributory\\:\\ 0\\.08930427374311718\ \(0\)\
+\-\ defects\\:\\ 0\\.08646238903442624\ \(0\)\
+\-\ 55\\:\\ 0\\.0862019187689568\ \(0\)\
+\-\ of\\:\\ 0\\.07850588171477824\ \(0\)\
+\-\ filling\\:\\ 0\\.07766600129280034\ \(0\)\
+\-\ similar\\:\\ 0\\.07643710495586302\ \(0\)\
+\-\ are\\:\\ 0\\.07611161332793537\ \(0\)\
+\-\ unknown\\:\\ 0\\.07599754652758461\ \(0\)\
+\-\ previous\\:\\ 0\\.0757818208597704\ \(0\)\
+\-\ throughout\\:\\ 0\\.07375873848879326\ \(0\)\
+\-\ breast\\:\\ 0\\.07282828745016898\ \(0\)\
+\-\ they\\:\\ 0\\.0716596566145521\ \(0\)\
+\-\ defined\\:\\ 0\\.071546954809742\ \(0\)\
+\-\ typically\\:\\ 0\\.07040525594380542\ \(0\)\
+\-\ biopsy\\:\\ 0\\.07030029192250822\ \(0\)\
+\-\ was\\:\\ 0\\.06990469046510717\ \(0\)\
+\-\ masses\\:\\ 0\\.0682760720740069\ \(0\)\
+\-\ less\\:\\ 0\\.06822949874519275\ \(0\)\
+\-\ often\\:\\ 0\\.06543975661385866\ \(0\)\
+\-\ further\\:\\ 0\\.06532109640181492\ \(0\)\
+\-\ evaluation\\:\\ 0\\.061162971066749186\ \(0\)\
+\-\ lung\\:\\ 0\\.061008067673981425\ \(0\)\
+\-\ for\\:\\ 0\\.060794758357313856\ \(0\)\
+\-\ appearance\\:\\ 0\\.06046145096280088\ \(0\)\
+\-\ chronic\\:\\ 0\\.059529766962196626\ \(0\)\
+\-\ metastatic\\:\\ 0\\.05500450022075641\ \(0\)\
+\-\ tissue\\:\\ 0\\.05261030596063697\ \(0\)\
+\-\ small\\:\\ 0\\.05173338489269508\ \(0\)\
+\-\ case\\:\\ 0\\.050385019612468475\ \(0\)\
+\-\ demonstrates\\:\\ 0\\.050385019612468475\ \(0\)\
+\-\ but\\:\\ 0\\.04959396938905027\ \(0\)\
+\-\ female\\:\\ 0\\.04839494849440754\ \(0\)\
+\-\ that\\:\\ 0\\.0435224567318314\ \(0\)\
+\-\ disease\\:\\ 0\\.0420985252282337\ \(0\)\
+\-\ the\\:\\ 0\\.04002330694924657\ \(0\)\
+\-\ there\\:\\ 0\\.03990540778306444\ \(0\)\
+\-\ history\\:\\ 0\\.038316900833217066\ \(0\)\
+\-\ this\\:\\ 0\\.0344617333570638\ \(0\)\
+\-\ year\\:\\ 0\\.03090765752550499\ \(0\)\
+\-\ on\\:\\ 0\\.030289550436205813\ \(0\)\
+\-\ old\\:\\ 0\\.02968205017564857\ \(0\)\
+\-\ and\\:\\ 0\\.020723871008236444\ \(0\)\
+\-\ with\\:\\ 0\\.019638197240098975\ \(0\)\

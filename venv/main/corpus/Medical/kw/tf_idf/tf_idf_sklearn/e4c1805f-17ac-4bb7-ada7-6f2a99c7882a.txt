@@ -1,71 +1,69 @@
-Texto: 
-uncontrolled hypertension
-patient admitted to hospital and treated for hypertension.
-abnormal signal in bilateral parietal white matter due to edema.  
-adc map reveals t2 "shine through" - no restricted diffusion.
-posterior reversible encephalopathy syndrome (pres)
-â€¢ x lined adrenoleukodystrophy
-â€¢ trauma
-â€¢ ischemia (posterior cerbral artery, basilar)
-â€¢ encephalitis
-â€¢ pres
-17 y.o. boy presents with headache and visual problems.  he has a history of acute glomerulonephritis 2 months prior to presentation.
-
-
-Keywords by value: 
-- pres: 0.37402832178477463
-- hypertension: 0.23178709665797284
-- cerbral: 0.23146309266807485
-- shine: 0.2238242988624689
-- adrenoleukodystrophy: 0.2238242988624689
-- glomerulonephritis: 0.1925275885451788
-- uncontrolled: 0.18701416089238732
-- lined: 0.18245103790416847
-- reversible: 0.17516394330313798
-- map: 0.17215473785650487
-- encephalopathy: 0.1595565017388929
-- posterior: 0.1566502113633302
-- adc: 0.15623305710107147
-- encephalitis: 0.15062218749763515
-- basilar: 0.14330139631625508
-- problems: 0.13138727279543172
-- ischemia: 0.131183801288281
-- restricted: 0.13018919431042472
-- visual: 0.12923050166940936
-- diffusion: 0.1275875301536215
-- admitted: 0.12410834957521716
-- 17: 0.1236465483396939
-- parietal: 0.12230746283807271
-- matter: 0.11532977127454229
-- reveals: 0.11521843819004572
-- to: 0.11359966712456693
-- hospital: 0.1118819261790511
-- headache: 0.1044151554760462
-- presentation: 0.10426763897578646
-- boy: 0.10361377251404964
-- white: 0.0999339077361346
-- treated: 0.09432303813269827
-- artery: 0.09407134997574149
-- syndrome: 0.09131383268606515
-- abnormal: 0.09099959349487681
-- edema: 0.0903384912528013
-- through: 0.09016494225752154
-- he: 0.08969344977372544
-- months: 0.08816628867301056
-- trauma: 0.08796649162987495
-- t2: 0.08714338375099968
-- due: 0.08706630705899235
-- signal: 0.08586256999074565
-- prior: 0.08474628364035357
-- acute: 0.08193807948101847
-- bilateral: 0.08140417701154352
-- presents: 0.07286364406102262
-- has: 0.06918590084208455
-- and: 0.06259777295182645
-- history: 0.05786932030271025
-- patient: 0.04926474559413374
-- no: 0.04925547918267975
-- for: 0.045908610399087495
-- in: 0.0376801765994176
-- with: 0.029659213076802287
-- of: 0.029641502286249434
+\-\ Texto\\:\\ \ \(0\)\
+\-\ uncontrolled\\ hypertension\ \(4\)\
+\-\ patient\\ admitted\\ to\\ hospital\\ and\\ treated\\ for\\ hypertension\\.\ \(0\)\
+\-\ abnormal\\ signal\\ in\\ bilateral\\ parietal\\ white\\ matter\\ due\\ to\\ edema\\.\\ \\ \ \(0\)\
+\-\ adc\\ map\\ reveals\\ t2\\ \\"shine\\ through\\"\\ \\-\\ no\\ restricted\\ diffusion\\.\ \(0\)\
+\-\ posterior\\ reversible\\ encephalopathy\\ syndrome\\ \\(pres\\)\ \(0\)\
+\-\ \\â\\€\\¢\\ x\\ lined\\ adrenoleukodystrophy\ \(0\)\
+\-\ \\â\\€\\¢\\ trauma\ \(16\)\
+\-\ \\â\\€\\¢\\ ischemia\\ \\(posterior\\ cerbral\\ artery\\,\\ basilar\\)\ \(0\)\
+\-\ \\â\\€\\¢\\ encephalitis\ \(1\)\
+\-\ \\â\\€\\¢\\ pres\ \(0\)\
+\-\ 17\\ y\\.o\\.\\ boy\\ presents\\ with\\ headache\\ and\\ visual\\ problems\\.\\ \\ he\\ has\\ a\\ history\\ of\\ acute\\ glomerulonephritis\\ 2\\ months\\ prior\\ to\\ presentation\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ pres\\:\\ 0\\.37402832178477463\ \(0\)\
+\-\ hypertension\\:\\ 0\\.23178709665797284\ \(0\)\
+\-\ cerbral\\:\\ 0\\.23146309266807485\ \(0\)\
+\-\ shine\\:\\ 0\\.2238242988624689\ \(0\)\
+\-\ adrenoleukodystrophy\\:\\ 0\\.2238242988624689\ \(0\)\
+\-\ glomerulonephritis\\:\\ 0\\.1925275885451788\ \(0\)\
+\-\ uncontrolled\\:\\ 0\\.18701416089238732\ \(0\)\
+\-\ lined\\:\\ 0\\.18245103790416847\ \(0\)\
+\-\ reversible\\:\\ 0\\.17516394330313798\ \(0\)\
+\-\ map\\:\\ 0\\.17215473785650487\ \(0\)\
+\-\ encephalopathy\\:\\ 0\\.1595565017388929\ \(0\)\
+\-\ posterior\\:\\ 0\\.1566502113633302\ \(0\)\
+\-\ adc\\:\\ 0\\.15623305710107147\ \(0\)\
+\-\ encephalitis\\:\\ 0\\.15062218749763515\ \(0\)\
+\-\ basilar\\:\\ 0\\.14330139631625508\ \(0\)\
+\-\ problems\\:\\ 0\\.13138727279543172\ \(0\)\
+\-\ ischemia\\:\\ 0\\.131183801288281\ \(0\)\
+\-\ restricted\\:\\ 0\\.13018919431042472\ \(0\)\
+\-\ visual\\:\\ 0\\.12923050166940936\ \(0\)\
+\-\ diffusion\\:\\ 0\\.1275875301536215\ \(0\)\
+\-\ admitted\\:\\ 0\\.12410834957521716\ \(0\)\
+\-\ 17\\:\\ 0\\.1236465483396939\ \(0\)\
+\-\ parietal\\:\\ 0\\.12230746283807271\ \(0\)\
+\-\ matter\\:\\ 0\\.11532977127454229\ \(0\)\
+\-\ reveals\\:\\ 0\\.11521843819004572\ \(0\)\
+\-\ to\\:\\ 0\\.11359966712456693\ \(0\)\
+\-\ hospital\\:\\ 0\\.1118819261790511\ \(0\)\
+\-\ headache\\:\\ 0\\.1044151554760462\ \(0\)\
+\-\ presentation\\:\\ 0\\.10426763897578646\ \(0\)\
+\-\ boy\\:\\ 0\\.10361377251404964\ \(0\)\
+\-\ white\\:\\ 0\\.0999339077361346\ \(0\)\
+\-\ treated\\:\\ 0\\.09432303813269827\ \(0\)\
+\-\ artery\\:\\ 0\\.09407134997574149\ \(0\)\
+\-\ syndrome\\:\\ 0\\.09131383268606515\ \(0\)\
+\-\ abnormal\\:\\ 0\\.09099959349487681\ \(0\)\
+\-\ edema\\:\\ 0\\.0903384912528013\ \(0\)\
+\-\ through\\:\\ 0\\.09016494225752154\ \(0\)\
+\-\ he\\:\\ 0\\.08969344977372544\ \(0\)\
+\-\ months\\:\\ 0\\.08816628867301056\ \(0\)\
+\-\ trauma\\:\\ 0\\.08796649162987495\ \(0\)\
+\-\ t2\\:\\ 0\\.08714338375099968\ \(0\)\
+\-\ due\\:\\ 0\\.08706630705899235\ \(0\)\
+\-\ signal\\:\\ 0\\.08586256999074565\ \(0\)\
+\-\ prior\\:\\ 0\\.08474628364035357\ \(0\)\
+\-\ acute\\:\\ 0\\.08193807948101847\ \(0\)\
+\-\ bilateral\\:\\ 0\\.08140417701154352\ \(0\)\
+\-\ presents\\:\\ 0\\.07286364406102262\ \(0\)\
+\-\ has\\:\\ 0\\.06918590084208455\ \(0\)\
+\-\ and\\:\\ 0\\.06259777295182645\ \(0\)\
+\-\ history\\:\\ 0\\.05786932030271025\ \(0\)\
+\-\ patient\\:\\ 0\\.04926474559413374\ \(0\)\
+\-\ no\\:\\ 0\\.04925547918267975\ \(0\)\
+\-\ for\\:\\ 0\\.045908610399087495\ \(0\)\
+\-\ in\\:\\ 0\\.0376801765994176\ \(0\)\
+\-\ with\\:\\ 0\\.029659213076802287\ \(0\)\
+\-\ of\\:\\ 0\\.029641502286249434\ \(0\)\

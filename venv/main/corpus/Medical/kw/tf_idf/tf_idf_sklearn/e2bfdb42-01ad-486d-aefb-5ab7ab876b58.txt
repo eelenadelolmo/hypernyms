@@ -1,111 +1,109 @@
-Texto: 
-sensory and motor deficiencies in both lower extremities.
-inr: 3.7
-surgery was performed after the mri confirmed the findings.  following surgery he had minimal return of motor and sensory symptoms and is continuing in physical therapy.
-mri is the procedure of choice to evaluate any cord compression symptoms.  findings include mass effect (whether extradural or intradural) on the spinal cord, cauda equina, or exiting spinal nerves.
-epidural spinal hematoma
-epidural spinal hematoma
-79 yo male post op day 3 from a aaa repair who is now complaining of inability to move legs.  the patient is being anticoagulated and has a epidural catheter for pain control.
-this patient had a very high pretest probability of a positive exam.  he had recent surgery, an epidural catheter in place, and was being anticoagulated.  this is an unfortunate complication following surgery, but demonstrates the diagnostic power of mri.  furthermore, given the hyperintense signal on the t2 weighted images, this signifies an acute bleed.
-
-
-Keywords by value: 
-- epidural: 0.3310202917794712
-- spinal: 0.25879284748285014
-- anticoagulated: 0.22306133188866822
-- surgery: 0.195950728196147
-- sensory: 0.17164625761395802
-- catheter: 0.16198959837963828
-- the: 0.1454471524901422
-- motor: 0.1449565589472203
-- mri: 0.1403122270087651
-- had: 0.13619165308424447
-- cord: 0.1350809698329364
-- pretest: 0.1346422896989427
-- signifies: 0.1310780197833077
-- hematoma: 0.12754819558627628
-- being: 0.12698608169699568
-- deficiencies: 0.1257035518079965
-- is: 0.12476333854983548
-- unfortunate: 0.12357065608808271
-- exiting: 0.11581564416233046
-- power: 0.11581564416233046
-- aaa: 0.11352989568837056
-- probability: 0.11061767511992854
-- following: 0.10932157991596383
-- he: 0.10791081674248475
-- continuing: 0.10670233632717424
-- equina: 0.10670233632717424
-- cauda: 0.1060225319931456
-- extradural: 0.10474401055147044
-- an: 0.10452707307247089
-- move: 0.10356028458627643
-- intradural: 0.10142738886636266
-- symptoms: 0.09970675609486757
-- furthermore: 0.09910839794355743
-- inr: 0.09746870407440271
-- 79: 0.09634073031556613
-- and: 0.09413977306221022
-- inability: 0.093982541849397
-- this: 0.09392703968119695
-- bleed: 0.09336812029558823
-- findings: 0.08993855651047442
-- legs: 0.08962403995311582
-- of: 0.0891547467862142
-- whether: 0.08915421223223713
-- choice: 0.08639707046354268
-- op: 0.08563630807021788
-- nerves: 0.0850886090114053
-- return: 0.08491013798257344
-- complication: 0.0827550729448678
-- complaining: 0.08244789057570427
-- place: 0.0821465044475206
-- control: 0.07785274744892133
-- procedure: 0.07264210645749705
-- hyperintense: 0.07247827947361014
-- evaluate: 0.07085250542311844
-- repair: 0.0704886402377603
-- minimal: 0.06951182119293607
-- diagnostic: 0.0694442820187157
-- extremities: 0.06924336124493048
-- in: 0.06799992600522084
-- weighted: 0.06796483980325532
-- confirmed: 0.06718551495472708
-- compression: 0.06672416906864034
-- very: 0.06536278414359986
-- effect: 0.06391650281576072
-- was: 0.06350948327900495
-- or: 0.06339509531661083
-- given: 0.06267837751010202
-- now: 0.06254655015188486
-- recent: 0.06169445528726479
-- positive: 0.06004060096425275
-- patient: 0.05927075998398059
-- any: 0.0588862936595228
-- day: 0.05803917093218954
-- yo: 0.056923953056374224
-- on: 0.05503704212572086
-- include: 0.054213042842110495
-- performed: 0.05390437640801003
-- t2: 0.052421407237637815
-- therapy: 0.05235190898047865
-- high: 0.051784223401899254
-- signal: 0.05165092924112467
-- who: 0.05154069422178505
-- both: 0.050810618638010646
-- post: 0.0495789886341971
-- physical: 0.04940505235024327
-- acute: 0.049290138250973406
-- lower: 0.04656024878651615
-- exam: 0.04586771510059037
-- demonstrates: 0.045775562974384995
-- to: 0.04555751801278664
-- but: 0.045056881715620126
-- after: 0.04420174491973479
-- images: 0.04214710144829122
-- has: 0.041619020596089004
-- male: 0.04056823783065034
-- from: 0.036187313764124755
-- mass: 0.03480378488554155
-- pain: 0.03260456922364962
-- for: 0.027616485128935702
+\-\ Texto\\:\\ \ \(0\)\
+\-\ sensory\\ and\\ motor\\ deficiencies\\ in\\ both\\ lower\\ extremities\\.\ \(0\)\
+\-\ inr\\:\\ 3\\.7\ \(0\)\
+\-\ surgery\\ was\\ performed\\ after\\ the\\ mri\\ confirmed\\ the\\ findings\\.\\ \\ following\\ surgery\\ he\\ had\\ minimal\\ return\\ of\\ motor\\ and\\ sensory\\ symptoms\\ and\\ is\\ continuing\\ in\\ physical\\ therapy\\.\ \(0\)\
+\-\ mri\\ is\\ the\\ procedure\\ of\\ choice\\ to\\ evaluate\\ any\\ cord\\ compression\\ symptoms\\.\\ \\ findings\\ include\\ mass\\ effect\\ \\(whether\\ extradural\\ or\\ intradural\\)\\ on\\ the\\ spinal\\ cord\\,\\ cauda\\ equina\\,\\ or\\ exiting\\ spinal\\ nerves\\.\ \(0\)\
+\-\ epidural\\ spinal\\ hematoma\ \(1\)\
+\-\ epidural\\ spinal\\ hematoma\ \(1\)\
+\-\ 79\\ yo\\ male\\ post\\ op\\ day\\ 3\\ from\\ a\\ aaa\\ repair\\ who\\ is\\ now\\ complaining\\ of\\ inability\\ to\\ move\\ legs\\.\\ \\ the\\ patient\\ is\\ being\\ anticoagulated\\ and\\ has\\ a\\ epidural\\ catheter\\ for\\ pain\\ control\\.\ \(0\)\
+\-\ this\\ patient\\ had\\ a\\ very\\ high\\ pretest\\ probability\\ of\\ a\\ positive\\ exam\\.\\ \\ he\\ had\\ recent\\ surgery\\,\\ an\\ epidural\\ catheter\\ in\\ place\\,\\ and\\ was\\ being\\ anticoagulated\\.\\ \\ this\\ is\\ an\\ unfortunate\\ complication\\ following\\ surgery\\,\\ but\\ demonstrates\\ the\\ diagnostic\\ power\\ of\\ mri\\.\\ \\ furthermore\\,\\ given\\ the\\ hyperintense\\ signal\\ on\\ the\\ t2\\ weighted\\ images\\,\\ this\\ signifies\\ an\\ acute\\ bleed\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ epidural\\:\\ 0\\.3310202917794712\ \(0\)\
+\-\ spinal\\:\\ 0\\.25879284748285014\ \(0\)\
+\-\ anticoagulated\\:\\ 0\\.22306133188866822\ \(0\)\
+\-\ surgery\\:\\ 0\\.195950728196147\ \(0\)\
+\-\ sensory\\:\\ 0\\.17164625761395802\ \(0\)\
+\-\ catheter\\:\\ 0\\.16198959837963828\ \(0\)\
+\-\ the\\:\\ 0\\.1454471524901422\ \(0\)\
+\-\ motor\\:\\ 0\\.1449565589472203\ \(0\)\
+\-\ mri\\:\\ 0\\.1403122270087651\ \(0\)\
+\-\ had\\:\\ 0\\.13619165308424447\ \(0\)\
+\-\ cord\\:\\ 0\\.1350809698329364\ \(0\)\
+\-\ pretest\\:\\ 0\\.1346422896989427\ \(0\)\
+\-\ signifies\\:\\ 0\\.1310780197833077\ \(0\)\
+\-\ hematoma\\:\\ 0\\.12754819558627628\ \(0\)\
+\-\ being\\:\\ 0\\.12698608169699568\ \(0\)\
+\-\ deficiencies\\:\\ 0\\.1257035518079965\ \(0\)\
+\-\ is\\:\\ 0\\.12476333854983548\ \(0\)\
+\-\ unfortunate\\:\\ 0\\.12357065608808271\ \(0\)\
+\-\ exiting\\:\\ 0\\.11581564416233046\ \(0\)\
+\-\ power\\:\\ 0\\.11581564416233046\ \(0\)\
+\-\ aaa\\:\\ 0\\.11352989568837056\ \(0\)\
+\-\ probability\\:\\ 0\\.11061767511992854\ \(0\)\
+\-\ following\\:\\ 0\\.10932157991596383\ \(0\)\
+\-\ he\\:\\ 0\\.10791081674248475\ \(0\)\
+\-\ continuing\\:\\ 0\\.10670233632717424\ \(0\)\
+\-\ equina\\:\\ 0\\.10670233632717424\ \(0\)\
+\-\ cauda\\:\\ 0\\.1060225319931456\ \(0\)\
+\-\ extradural\\:\\ 0\\.10474401055147044\ \(0\)\
+\-\ an\\:\\ 0\\.10452707307247089\ \(0\)\
+\-\ move\\:\\ 0\\.10356028458627643\ \(0\)\
+\-\ intradural\\:\\ 0\\.10142738886636266\ \(0\)\
+\-\ symptoms\\:\\ 0\\.09970675609486757\ \(0\)\
+\-\ furthermore\\:\\ 0\\.09910839794355743\ \(0\)\
+\-\ inr\\:\\ 0\\.09746870407440271\ \(0\)\
+\-\ 79\\:\\ 0\\.09634073031556613\ \(0\)\
+\-\ and\\:\\ 0\\.09413977306221022\ \(0\)\
+\-\ inability\\:\\ 0\\.093982541849397\ \(0\)\
+\-\ this\\:\\ 0\\.09392703968119695\ \(0\)\
+\-\ bleed\\:\\ 0\\.09336812029558823\ \(0\)\
+\-\ findings\\:\\ 0\\.08993855651047442\ \(0\)\
+\-\ legs\\:\\ 0\\.08962403995311582\ \(0\)\
+\-\ of\\:\\ 0\\.0891547467862142\ \(0\)\
+\-\ whether\\:\\ 0\\.08915421223223713\ \(0\)\
+\-\ choice\\:\\ 0\\.08639707046354268\ \(0\)\
+\-\ op\\:\\ 0\\.08563630807021788\ \(0\)\
+\-\ nerves\\:\\ 0\\.0850886090114053\ \(0\)\
+\-\ return\\:\\ 0\\.08491013798257344\ \(0\)\
+\-\ complication\\:\\ 0\\.0827550729448678\ \(0\)\
+\-\ complaining\\:\\ 0\\.08244789057570427\ \(0\)\
+\-\ place\\:\\ 0\\.0821465044475206\ \(0\)\
+\-\ control\\:\\ 0\\.07785274744892133\ \(0\)\
+\-\ procedure\\:\\ 0\\.07264210645749705\ \(0\)\
+\-\ hyperintense\\:\\ 0\\.07247827947361014\ \(0\)\
+\-\ evaluate\\:\\ 0\\.07085250542311844\ \(0\)\
+\-\ repair\\:\\ 0\\.0704886402377603\ \(0\)\
+\-\ minimal\\:\\ 0\\.06951182119293607\ \(0\)\
+\-\ diagnostic\\:\\ 0\\.0694442820187157\ \(0\)\
+\-\ extremities\\:\\ 0\\.06924336124493048\ \(0\)\
+\-\ in\\:\\ 0\\.06799992600522084\ \(0\)\
+\-\ weighted\\:\\ 0\\.06796483980325532\ \(0\)\
+\-\ confirmed\\:\\ 0\\.06718551495472708\ \(0\)\
+\-\ compression\\:\\ 0\\.06672416906864034\ \(0\)\
+\-\ very\\:\\ 0\\.06536278414359986\ \(0\)\
+\-\ effect\\:\\ 0\\.06391650281576072\ \(0\)\
+\-\ was\\:\\ 0\\.06350948327900495\ \(0\)\
+\-\ or\\:\\ 0\\.06339509531661083\ \(0\)\
+\-\ given\\:\\ 0\\.06267837751010202\ \(0\)\
+\-\ now\\:\\ 0\\.06254655015188486\ \(0\)\
+\-\ recent\\:\\ 0\\.06169445528726479\ \(0\)\
+\-\ positive\\:\\ 0\\.06004060096425275\ \(0\)\
+\-\ patient\\:\\ 0\\.05927075998398059\ \(0\)\
+\-\ any\\:\\ 0\\.0588862936595228\ \(0\)\
+\-\ day\\:\\ 0\\.05803917093218954\ \(0\)\
+\-\ yo\\:\\ 0\\.056923953056374224\ \(0\)\
+\-\ on\\:\\ 0\\.05503704212572086\ \(0\)\
+\-\ include\\:\\ 0\\.054213042842110495\ \(0\)\
+\-\ performed\\:\\ 0\\.05390437640801003\ \(0\)\
+\-\ t2\\:\\ 0\\.052421407237637815\ \(0\)\
+\-\ therapy\\:\\ 0\\.05235190898047865\ \(0\)\
+\-\ high\\:\\ 0\\.051784223401899254\ \(0\)\
+\-\ signal\\:\\ 0\\.05165092924112467\ \(0\)\
+\-\ who\\:\\ 0\\.05154069422178505\ \(0\)\
+\-\ both\\:\\ 0\\.050810618638010646\ \(0\)\
+\-\ post\\:\\ 0\\.0495789886341971\ \(0\)\
+\-\ physical\\:\\ 0\\.04940505235024327\ \(0\)\
+\-\ acute\\:\\ 0\\.049290138250973406\ \(0\)\
+\-\ lower\\:\\ 0\\.04656024878651615\ \(0\)\
+\-\ exam\\:\\ 0\\.04586771510059037\ \(0\)\
+\-\ demonstrates\\:\\ 0\\.045775562974384995\ \(0\)\
+\-\ to\\:\\ 0\\.04555751801278664\ \(0\)\
+\-\ but\\:\\ 0\\.045056881715620126\ \(0\)\
+\-\ after\\:\\ 0\\.04420174491973479\ \(0\)\
+\-\ images\\:\\ 0\\.04214710144829122\ \(0\)\
+\-\ has\\:\\ 0\\.041619020596089004\ \(0\)\
+\-\ male\\:\\ 0\\.04056823783065034\ \(0\)\
+\-\ from\\:\\ 0\\.036187313764124755\ \(0\)\
+\-\ mass\\:\\ 0\\.03480378488554155\ \(0\)\
+\-\ pain\\:\\ 0\\.03260456922364962\ \(0\)\
+\-\ for\\:\\ 0\\.027616485128935702\ \(0\)\

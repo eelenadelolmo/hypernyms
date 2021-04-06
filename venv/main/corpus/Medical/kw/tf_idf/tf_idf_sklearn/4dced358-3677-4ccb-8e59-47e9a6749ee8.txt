@@ -1,73 +1,71 @@
-Texto: 
-the left ovary measured 2.7 x 2.4 x 2.1 cm.  there was a left adnexal mass inferior and medial to the left ovary.  it measured 6.4 x 2.4 x 2 cm.  it had cystic, solid, and calcific components.  there was no increased vascularity.
-dermoid cyst (cystic teratoma)
-dermoid tumor (benign cystic teratoma)
-germ cell tumors
-epithelial tumors
-metastases
-40 y.o. female 10 months post-partum with a history of a left adnexal mass, probable dermoid, prior to pregnancy.  the patient was referred to ultrasound for evaluation of the mass.  the patient had a right salpingo-oophorectomy previously for ovarian torsion.
-this mass demonstrated the "tip of the iceberg" or "snowcapping" that is typical of the calcified components.
-
-
-Keywords by value: 
-- dermoid: 0.2984091146812909
-- adnexal: 0.23486229332047992
-- measured: 0.23228101694120581
-- ovary: 0.23044573815712194
-- components: 0.2139052479242348
-- cystic: 0.212764843697197
-- teratoma: 0.20366306702972337
-- snowcapping: 0.18832061759139135
-- the: 0.1879758430882231
-- mass: 0.17992159198755672
-- tumors: 0.173209838334157
-- iceberg: 0.16940518158835738
-- left: 0.1606792368752808
-- cm: 0.13525946704229885
-- epithelial: 0.1264782567211337
-- calcific: 0.12404680413114134
-- was: 0.12311944708863401
-- probable: 0.12187179567384093
-- it: 0.12055730995974144
-- vascularity: 0.11776682051486584
-- torsion: 0.11743114666023996
-- had: 0.11734269284657539
-- tip: 0.11067633111313771
-- germ: 0.10996848506337817
-- ovarian: 0.1003240400742571
-- pregnancy: 0.09636735615739647
-- metastases: 0.0952007470676812
-- calcified: 0.09486324384647087
-- previously: 0.09453116986755539
-- there: 0.09371105542719387
-- of: 0.09217884794872977
-- typical: 0.09100671124692866
-- solid: 0.090279112154745
-- to: 0.08831777773759672
-- referred: 0.08713523974510193
-- 40: 0.0866049191670785
-- benign: 0.08089177211193997
-- inferior: 0.08011268013396819
-- medial: 0.07665150225795603
-- patient: 0.07660150706094841
-- ultrasound: 0.07263529684833211
-- demonstrated: 0.07237087528166049
-- evaluation: 0.07181541162148525
-- for: 0.07138306919548533
-- 10: 0.06885887552020717
-- months: 0.06854466112504837
-- cyst: 0.06793022626805953
-- cell: 0.06736297979523055
-- prior: 0.06588578674644253
-- increased: 0.06367790648727775
-- tumor: 0.061594246504901355
-- female: 0.056823648130721494
-- that: 0.05110253950161611
-- and: 0.0486664823794397
-- history: 0.044990358666423265
-- or: 0.040965898217243724
-- this: 0.04046375647001325
-- right: 0.03904163681401474
-- no: 0.038293549382012036
-- is: 0.032248818005558746
-- with: 0.02305848119710353
+\-\ Texto\\:\\ \ \(0\)\
+\-\ the\\ left\\ ovary\\ measured\\ 2\\.7\\ x\\ 2\\.4\\ x\\ 2\\.1\\ cm\\.\\ \\ there\\ was\\ a\\ left\\ adnexal\\ mass\\ inferior\\ and\\ medial\\ to\\ the\\ left\\ ovary\\.\\ \\ it\\ measured\\ 6\\.4\\ x\\ 2\\.4\\ x\\ 2\\ cm\\.\\ \\ it\\ had\\ cystic\\,\\ solid\\,\\ and\\ calcific\\ components\\.\\ \\ there\\ was\\ no\\ increased\\ vascularity\\.\ \(0\)\
+\-\ dermoid\\ cyst\\ \\(cystic\\ teratoma\\)\ \(0\)\
+\-\ dermoid\\ tumor\\ \\(benign\\ cystic\\ teratoma\\)\ \(1\)\
+\-\ germ\\ cell\\ tumors\ \(18\)\
+\-\ epithelial\\ tumors\ \(4\)\
+\-\ metastases\ \(207\)\
+\-\ 40\\ y\\.o\\.\\ female\\ 10\\ months\\ post\\-partum\\ with\\ a\\ history\\ of\\ a\\ left\\ adnexal\\ mass\\,\\ probable\\ dermoid\\,\\ prior\\ to\\ pregnancy\\.\\ \\ the\\ patient\\ was\\ referred\\ to\\ ultrasound\\ for\\ evaluation\\ of\\ the\\ mass\\.\\ \\ the\\ patient\\ had\\ a\\ right\\ salpingo\\-oophorectomy\\ previously\\ for\\ ovarian\\ torsion\\.\ \(0\)\
+\-\ this\\ mass\\ demonstrated\\ the\\ \\"tip\\ of\\ the\\ iceberg\\"\\ or\\ \\"snowcapping\\"\\ that\\ is\\ typical\\ of\\ the\\ calcified\\ components\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ dermoid\\:\\ 0\\.2984091146812909\ \(0\)\
+\-\ adnexal\\:\\ 0\\.23486229332047992\ \(0\)\
+\-\ measured\\:\\ 0\\.23228101694120581\ \(0\)\
+\-\ ovary\\:\\ 0\\.23044573815712194\ \(0\)\
+\-\ components\\:\\ 0\\.2139052479242348\ \(0\)\
+\-\ cystic\\:\\ 0\\.212764843697197\ \(0\)\
+\-\ teratoma\\:\\ 0\\.20366306702972337\ \(0\)\
+\-\ snowcapping\\:\\ 0\\.18832061759139135\ \(0\)\
+\-\ the\\:\\ 0\\.1879758430882231\ \(0\)\
+\-\ mass\\:\\ 0\\.17992159198755672\ \(0\)\
+\-\ tumors\\:\\ 0\\.173209838334157\ \(0\)\
+\-\ iceberg\\:\\ 0\\.16940518158835738\ \(0\)\
+\-\ left\\:\\ 0\\.1606792368752808\ \(0\)\
+\-\ cm\\:\\ 0\\.13525946704229885\ \(0\)\
+\-\ epithelial\\:\\ 0\\.1264782567211337\ \(0\)\
+\-\ calcific\\:\\ 0\\.12404680413114134\ \(0\)\
+\-\ was\\:\\ 0\\.12311944708863401\ \(0\)\
+\-\ probable\\:\\ 0\\.12187179567384093\ \(0\)\
+\-\ it\\:\\ 0\\.12055730995974144\ \(0\)\
+\-\ vascularity\\:\\ 0\\.11776682051486584\ \(0\)\
+\-\ torsion\\:\\ 0\\.11743114666023996\ \(0\)\
+\-\ had\\:\\ 0\\.11734269284657539\ \(0\)\
+\-\ tip\\:\\ 0\\.11067633111313771\ \(0\)\
+\-\ germ\\:\\ 0\\.10996848506337817\ \(0\)\
+\-\ ovarian\\:\\ 0\\.1003240400742571\ \(0\)\
+\-\ pregnancy\\:\\ 0\\.09636735615739647\ \(0\)\
+\-\ metastases\\:\\ 0\\.0952007470676812\ \(0\)\
+\-\ calcified\\:\\ 0\\.09486324384647087\ \(0\)\
+\-\ previously\\:\\ 0\\.09453116986755539\ \(0\)\
+\-\ there\\:\\ 0\\.09371105542719387\ \(0\)\
+\-\ of\\:\\ 0\\.09217884794872977\ \(0\)\
+\-\ typical\\:\\ 0\\.09100671124692866\ \(0\)\
+\-\ solid\\:\\ 0\\.090279112154745\ \(0\)\
+\-\ to\\:\\ 0\\.08831777773759672\ \(0\)\
+\-\ referred\\:\\ 0\\.08713523974510193\ \(0\)\
+\-\ 40\\:\\ 0\\.0866049191670785\ \(0\)\
+\-\ benign\\:\\ 0\\.08089177211193997\ \(0\)\
+\-\ inferior\\:\\ 0\\.08011268013396819\ \(0\)\
+\-\ medial\\:\\ 0\\.07665150225795603\ \(0\)\
+\-\ patient\\:\\ 0\\.07660150706094841\ \(0\)\
+\-\ ultrasound\\:\\ 0\\.07263529684833211\ \(0\)\
+\-\ demonstrated\\:\\ 0\\.07237087528166049\ \(0\)\
+\-\ evaluation\\:\\ 0\\.07181541162148525\ \(0\)\
+\-\ for\\:\\ 0\\.07138306919548533\ \(0\)\
+\-\ 10\\:\\ 0\\.06885887552020717\ \(0\)\
+\-\ months\\:\\ 0\\.06854466112504837\ \(0\)\
+\-\ cyst\\:\\ 0\\.06793022626805953\ \(0\)\
+\-\ cell\\:\\ 0\\.06736297979523055\ \(0\)\
+\-\ prior\\:\\ 0\\.06588578674644253\ \(0\)\
+\-\ increased\\:\\ 0\\.06367790648727775\ \(0\)\
+\-\ tumor\\:\\ 0\\.061594246504901355\ \(0\)\
+\-\ female\\:\\ 0\\.056823648130721494\ \(0\)\
+\-\ that\\:\\ 0\\.05110253950161611\ \(0\)\
+\-\ and\\:\\ 0\\.0486664823794397\ \(0\)\
+\-\ history\\:\\ 0\\.044990358666423265\ \(0\)\
+\-\ or\\:\\ 0\\.040965898217243724\ \(0\)\
+\-\ this\\:\\ 0\\.04046375647001325\ \(0\)\
+\-\ right\\:\\ 0\\.03904163681401474\ \(0\)\
+\-\ no\\:\\ 0\\.038293549382012036\ \(0\)\
+\-\ is\\:\\ 0\\.032248818005558746\ \(0\)\
+\-\ with\\:\\ 0\\.02305848119710353\ \(0\)\

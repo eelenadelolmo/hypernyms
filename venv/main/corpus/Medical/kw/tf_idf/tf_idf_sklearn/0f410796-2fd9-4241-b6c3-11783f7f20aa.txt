@@ -1,83 +1,78 @@
-Texto: 
-slightly tender to palpation in the right lower quadrant. peritoneal signs.
-
-increased wbc
-drainage of abscess followed by appendectomy.
-plain films demonstrate a mass with calcified rim in the right lower quadrant suggesting an appendicolith.  
-
-ct confirmed the appendicolith and a dilated appendix with a surrounding fluid collection with an enhancing rim suggestive of a periappendiceal abscess.
-acute appendicitis with an appendicolith
-plain film:
-appendicolith,
-calcified lymph node
-phlebolith
-
-ct: appendicitis with appendicolith and periappendiceal abscess.
-8 y.o. girl brought to the er with 1 day history of periumbilical abdominal pain, which then moved to the right lower quadrant. fevers, nausea and vomiting. unable to tolerate oral intake.
-
-
-Keywords by value: 
-- appendicolith: 0.585511187137382
-- periappendiceal: 0.25082277620571236
-- quadrant: 0.21529325925644172
-- abscess: 0.19736915758632678
-- appendicitis: 0.1738235181880573
-- calcified: 0.16507215775515605
-- rim: 0.163181096480092
-- lower: 0.15706493047335615
-- phlebolith: 0.14411687270719473
-- plain: 0.13519474189591765
-- moved: 0.12765943508807967
-- tolerate: 0.12249239629043837
-- periumbilical: 0.12161607935814499
-- with: 0.12037264670991461
-- an: 0.11753615220848773
-- intake: 0.1119351986298351
-- appendectomy: 0.10833096545615899
-- to: 0.10245489927148947
-- the: 0.10221812726880779
-- right: 0.10190491548464436
-- brought: 0.10104843329546666
-- peritoneal: 0.096294307723852
-- suggesting: 0.09237017517408957
-- appendix: 0.09237017517408957
-- fevers: 0.09046102379547281
-- unable: 0.08873544804693782
-- node: 0.08806267522785524
-- suggestive: 0.0834318235394917
-- collection: 0.08273130834630044
-- drainage: 0.0820570922442983
-- oral: 0.0820570922442983
-- films: 0.08113581675465605
-- slightly: 0.07992060421575593
-- lymph: 0.07967056396949483
-- nausea: 0.07870382296780352
-- ct: 0.07801169711684887
-- er: 0.07663195589358734
-- film: 0.07656220460482605
-- vomiting: 0.07581230336438632
-- confirmed: 0.07554719251011131
-- tender: 0.07490104605904178
-- dilated: 0.07338060114877562
-- then: 0.07252651309838247
-- wbc: 0.0724156427816233
-- girl: 0.07187133039092092
-- signs: 0.07160523760874021
-- followed: 0.06918709010365999
-- palpation: 0.06909498254650585
-- surrounding: 0.06833057210882927
-- day: 0.06526252604443093
-- enhancing: 0.0641823849352537
-- and: 0.06351365079078193
-- of: 0.06015038351514006
-- fluid: 0.059155666650406565
-- abdominal: 0.05603574246453578
-- acute: 0.05542461891980026
-- increased: 0.055403173025571364
-- demonstrate: 0.05326388088564129
-- in: 0.05097530823473329
-- which: 0.04658762812549905
-- by: 0.043508634204174626
-- history: 0.039144010272642395
-- mass: 0.03913534395918943
-- pain: 0.036662421498266755
+\-\ Texto\\:\\ \ \(0\)\
+\-\ slightly\\ tender\\ to\\ palpation\\ in\\ the\\ right\\ lower\\ quadrant\\.\\ peritoneal\\ signs\\.\ \(0\)\
+\-\ increased\\ wbc\ \(0\)\
+\-\ drainage\\ of\\ abscess\\ followed\\ by\\ appendectomy\\.\ \(0\)\
+\-\ plain\\ films\\ demonstrate\\ a\\ mass\\ with\\ calcified\\ rim\\ in\\ the\\ right\\ lower\\ quadrant\\ suggesting\\ an\\ appendicolith\\.\\ \\ \ \(0\)\
+\-\ ct\\ confirmed\\ the\\ appendicolith\\ and\\ a\\ dilated\\ appendix\\ with\\ a\\ surrounding\\ fluid\\ collection\\ with\\ an\\ enhancing\\ rim\\ suggestive\\ of\\ a\\ periappendiceal\\ abscess\\.\ \(0\)\
+\-\ acute\\ appendicitis\\ with\\ an\\ appendicolith\ \(0\)\
+\-\ plain\\ film\\:\ \(7\)\
+\-\ appendicolith\\,\ \(4\)\
+\-\ calcified\\ lymph\\ node\ \(3\)\
+\-\ phlebolith\ \(9\)\
+\-\ ct\\:\\ appendicitis\\ with\\ appendicolith\\ and\\ periappendiceal\\ abscess\\.\ \(0\)\
+\-\ 8\\ y\\.o\\.\\ girl\\ brought\\ to\\ the\\ er\\ with\\ 1\\ day\\ history\\ of\\ periumbilical\\ abdominal\\ pain\\,\\ which\\ then\\ moved\\ to\\ the\\ right\\ lower\\ quadrant\\.\\ fevers\\,\\ nausea\\ and\\ vomiting\\.\\ unable\\ to\\ tolerate\\ oral\\ intake\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ appendicolith\\:\\ 0\\.585511187137382\ \(0\)\
+\-\ periappendiceal\\:\\ 0\\.25082277620571236\ \(0\)\
+\-\ quadrant\\:\\ 0\\.21529325925644172\ \(0\)\
+\-\ abscess\\:\\ 0\\.19736915758632678\ \(0\)\
+\-\ appendicitis\\:\\ 0\\.1738235181880573\ \(0\)\
+\-\ calcified\\:\\ 0\\.16507215775515605\ \(0\)\
+\-\ rim\\:\\ 0\\.163181096480092\ \(0\)\
+\-\ lower\\:\\ 0\\.15706493047335615\ \(0\)\
+\-\ phlebolith\\:\\ 0\\.14411687270719473\ \(0\)\
+\-\ plain\\:\\ 0\\.13519474189591765\ \(0\)\
+\-\ moved\\:\\ 0\\.12765943508807967\ \(0\)\
+\-\ tolerate\\:\\ 0\\.12249239629043837\ \(0\)\
+\-\ periumbilical\\:\\ 0\\.12161607935814499\ \(0\)\
+\-\ with\\:\\ 0\\.12037264670991461\ \(0\)\
+\-\ an\\:\\ 0\\.11753615220848773\ \(0\)\
+\-\ intake\\:\\ 0\\.1119351986298351\ \(0\)\
+\-\ appendectomy\\:\\ 0\\.10833096545615899\ \(0\)\
+\-\ to\\:\\ 0\\.10245489927148947\ \(0\)\
+\-\ the\\:\\ 0\\.10221812726880779\ \(0\)\
+\-\ right\\:\\ 0\\.10190491548464436\ \(0\)\
+\-\ brought\\:\\ 0\\.10104843329546666\ \(0\)\
+\-\ peritoneal\\:\\ 0\\.096294307723852\ \(0\)\
+\-\ suggesting\\:\\ 0\\.09237017517408957\ \(0\)\
+\-\ appendix\\:\\ 0\\.09237017517408957\ \(0\)\
+\-\ fevers\\:\\ 0\\.09046102379547281\ \(0\)\
+\-\ unable\\:\\ 0\\.08873544804693782\ \(0\)\
+\-\ node\\:\\ 0\\.08806267522785524\ \(0\)\
+\-\ suggestive\\:\\ 0\\.0834318235394917\ \(0\)\
+\-\ collection\\:\\ 0\\.08273130834630044\ \(0\)\
+\-\ drainage\\:\\ 0\\.0820570922442983\ \(0\)\
+\-\ oral\\:\\ 0\\.0820570922442983\ \(0\)\
+\-\ films\\:\\ 0\\.08113581675465605\ \(0\)\
+\-\ slightly\\:\\ 0\\.07992060421575593\ \(0\)\
+\-\ lymph\\:\\ 0\\.07967056396949483\ \(0\)\
+\-\ nausea\\:\\ 0\\.07870382296780352\ \(0\)\
+\-\ ct\\:\\ 0\\.07801169711684887\ \(0\)\
+\-\ er\\:\\ 0\\.07663195589358734\ \(0\)\
+\-\ film\\:\\ 0\\.07656220460482605\ \(0\)\
+\-\ vomiting\\:\\ 0\\.07581230336438632\ \(0\)\
+\-\ confirmed\\:\\ 0\\.07554719251011131\ \(0\)\
+\-\ tender\\:\\ 0\\.07490104605904178\ \(0\)\
+\-\ dilated\\:\\ 0\\.07338060114877562\ \(0\)\
+\-\ then\\:\\ 0\\.07252651309838247\ \(0\)\
+\-\ wbc\\:\\ 0\\.0724156427816233\ \(0\)\
+\-\ girl\\:\\ 0\\.07187133039092092\ \(0\)\
+\-\ signs\\:\\ 0\\.07160523760874021\ \(0\)\
+\-\ followed\\:\\ 0\\.06918709010365999\ \(0\)\
+\-\ palpation\\:\\ 0\\.06909498254650585\ \(0\)\
+\-\ surrounding\\:\\ 0\\.06833057210882927\ \(0\)\
+\-\ day\\:\\ 0\\.06526252604443093\ \(0\)\
+\-\ enhancing\\:\\ 0\\.0641823849352537\ \(0\)\
+\-\ and\\:\\ 0\\.06351365079078193\ \(0\)\
+\-\ of\\:\\ 0\\.06015038351514006\ \(0\)\
+\-\ fluid\\:\\ 0\\.059155666650406565\ \(0\)\
+\-\ abdominal\\:\\ 0\\.05603574246453578\ \(0\)\
+\-\ acute\\:\\ 0\\.05542461891980026\ \(0\)\
+\-\ increased\\:\\ 0\\.055403173025571364\ \(0\)\
+\-\ demonstrate\\:\\ 0\\.05326388088564129\ \(0\)\
+\-\ in\\:\\ 0\\.05097530823473329\ \(0\)\
+\-\ which\\:\\ 0\\.04658762812549905\ \(0\)\
+\-\ by\\:\\ 0\\.043508634204174626\ \(0\)\
+\-\ history\\:\\ 0\\.039144010272642395\ \(0\)\
+\-\ mass\\:\\ 0\\.03913534395918943\ \(0\)\
+\-\ pain\\:\\ 0\\.036662421498266755\ \(0\)\

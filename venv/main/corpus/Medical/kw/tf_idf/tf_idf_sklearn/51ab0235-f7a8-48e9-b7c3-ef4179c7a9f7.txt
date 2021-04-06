@@ -1,89 +1,85 @@
-Texto: 
-5 cm left adnexal mass noted on bimanual exam during annual pap.
-
-negative urine hcg
-multiloculated, cystic mass in the left adnexa, with flow on doppler evaluation and predominantly anechoic cysts with thin septa.
-
-histology shows a single layer of mucin rich, non-ciliated columnar epithelium, no cytologic atypia.
-mucinous cystadenoma
-the classic differential for complex adnexal mass is cheetah
-cystadenoma/cystadenocarcinoma
-hematoma/hemorrhagic cyst
-ectopic pregnancy
-endometrioma
-torsion of the ovary/teratoma
-abscess (tubovarian)/appendicitis
-hydrosalpinx
-27 yo female presents for ultrasonographic evaluation of palpable mass noted on routine gyn exam.  no significant past medical history
-
-
-Keywords by value: 
-- cystadenoma: 0.23627540588845633
-- adnexal: 0.23283385111129606
-- mass: 0.17836765778053137
-- cheetah: 0.17250875106535482
-- tubovarian: 0.16421082856869393
-- columnar: 0.16105610484910582
-- cytologic: 0.15832335886255375
-- atypia: 0.155912906072033
-- ultrasonographic: 0.15180614116181596
-- pap: 0.15002543636589283
-- rich: 0.15002543636589283
-- bimanual: 0.14413796665975265
-- mucin: 0.14413796665975265
-- evaluation: 0.14239032260624923
-- septa: 0.14062101764369014
-- gyn: 0.13762074895901485
-- multiloculated: 0.13671103497061823
-- epithelium: 0.1342019545435018
-- hydrosalpinx: 0.13342959137257102
-- adnexa: 0.1306023177584491
-- layer: 0.12995257445695158
-- anechoic: 0.12754212166643084
-- endometrioma: 0.12698139631730823
-- mucinous: 0.12488055903854631
-- histology: 0.12390584172927151
-- noted: 0.12379172811285374
-- exam: 0.11753487353663883
-- torsion: 0.11641692555564803
-- hcg: 0.10948385504185648
-- annual: 0.1079001218818021
-- on: 0.1057732836466385
-- urine: 0.10449808161784621
-- doppler: 0.10449808161784621
-- ectopic: 0.10324654442387644
-- predominantly: 0.10223153335284693
-- pregnancy: 0.09553505732366933
-- 27: 0.09460466097375084
-- thin: 0.09087341476416774
-- routine: 0.09040508322879115
-- complex: 0.0899472297930035
-- single: 0.08976691853862598
-- cysts: 0.088462961973647
-- classic: 0.0873166114122692
-- palpable: 0.08201476691838422
-- left: 0.07964574684674068
-- flow: 0.07775770614306525
-- past: 0.07598948393062399
-- no: 0.0759256366722787
-- differential: 0.07585259248387197
-- abscess: 0.07496266118912215
-- medical: 0.07419352367742789
-- during: 0.07394343671623496
-- yo: 0.07293310348045215
-- negative: 0.0722735045587381
-- for: 0.07076655290191566
-- cystic: 0.07030908373119647
-- the: 0.06988212993347792
-- of: 0.06853704309705544
-- shows: 0.06851681994316486
-- significant: 0.06740363465236203
-- cyst: 0.06734353124650697
-- cm: 0.06704563377431197
-- female: 0.056332877625509384
-- presents: 0.056158407728381175
-- with: 0.045718662642649635
-- history: 0.04460178908705376
-- is: 0.03197029367236788
-- in: 0.02904135180194009
-- and: 0.02412308155609945
+\-\ Texto\\:\\ \ \(0\)\
+\-\ 5\\ cm\\ left\\ adnexal\\ mass\\ noted\\ on\\ bimanual\\ exam\\ during\\ annual\\ pap\\.\ \(1\)\
+\-\ negative\\ urine\\ hcg\ \(0\)\
+\-\ multiloculated\\,\\ cystic\\ mass\\ in\\ the\\ left\\ adnexa\\,\\ with\\ flow\\ on\\ doppler\\ evaluation\\ and\\ predominantly\\ anechoic\\ cysts\\ with\\ thin\\ septa\\.\ \(0\)\
+\-\ histology\\ shows\\ a\\ single\\ layer\\ of\\ mucin\\ rich\\,\\ non\\-ciliated\\ columnar\\ epithelium\\,\\ no\\ cytologic\\ atypia\\.\ \(0\)\
+\-\ mucinous\\ cystadenoma\ \(9\)\
+\-\ the\\ classic\\ differential\\ for\\ complex\\ adnexal\\ mass\\ is\\ cheetah\ \(0\)\
+\-\ cystadenoma\\/cystadenocarcinoma\ \(2\)\
+\-\ hematoma\\/hemorrhagic\\ cyst\ \(0\)\
+\-\ ectopic\\ pregnancy\ \(58\)\
+\-\ endometrioma\ \(17\)\
+\-\ torsion\\ of\\ the\\ ovary\\/teratoma\ \(0\)\
+\-\ abscess\\ \\(tubovarian\\)\\/appendicitis\ \(0\)\
+\-\ hydrosalpinx\ \(11\)\
+\-\ 27\\ yo\\ female\\ presents\\ for\\ ultrasonographic\\ evaluation\\ of\\ palpable\\ mass\\ noted\\ on\\ routine\\ gyn\\ exam\\.\\ \\ no\\ significant\\ past\\ medical\\ history\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ cystadenoma\\:\\ 0\\.23627540588845633\ \(0\)\
+\-\ adnexal\\:\\ 0\\.23283385111129606\ \(0\)\
+\-\ mass\\:\\ 0\\.17836765778053137\ \(0\)\
+\-\ cheetah\\:\\ 0\\.17250875106535482\ \(0\)\
+\-\ tubovarian\\:\\ 0\\.16421082856869393\ \(0\)\
+\-\ columnar\\:\\ 0\\.16105610484910582\ \(0\)\
+\-\ cytologic\\:\\ 0\\.15832335886255375\ \(0\)\
+\-\ atypia\\:\\ 0\\.155912906072033\ \(0\)\
+\-\ ultrasonographic\\:\\ 0\\.15180614116181596\ \(0\)\
+\-\ pap\\:\\ 0\\.15002543636589283\ \(0\)\
+\-\ rich\\:\\ 0\\.15002543636589283\ \(0\)\
+\-\ bimanual\\:\\ 0\\.14413796665975265\ \(0\)\
+\-\ mucin\\:\\ 0\\.14413796665975265\ \(0\)\
+\-\ evaluation\\:\\ 0\\.14239032260624923\ \(0\)\
+\-\ septa\\:\\ 0\\.14062101764369014\ \(0\)\
+\-\ gyn\\:\\ 0\\.13762074895901485\ \(0\)\
+\-\ multiloculated\\:\\ 0\\.13671103497061823\ \(0\)\
+\-\ epithelium\\:\\ 0\\.1342019545435018\ \(0\)\
+\-\ hydrosalpinx\\:\\ 0\\.13342959137257102\ \(0\)\
+\-\ adnexa\\:\\ 0\\.1306023177584491\ \(0\)\
+\-\ layer\\:\\ 0\\.12995257445695158\ \(0\)\
+\-\ anechoic\\:\\ 0\\.12754212166643084\ \(0\)\
+\-\ endometrioma\\:\\ 0\\.12698139631730823\ \(0\)\
+\-\ mucinous\\:\\ 0\\.12488055903854631\ \(0\)\
+\-\ histology\\:\\ 0\\.12390584172927151\ \(0\)\
+\-\ noted\\:\\ 0\\.12379172811285374\ \(0\)\
+\-\ exam\\:\\ 0\\.11753487353663883\ \(0\)\
+\-\ torsion\\:\\ 0\\.11641692555564803\ \(0\)\
+\-\ hcg\\:\\ 0\\.10948385504185648\ \(0\)\
+\-\ annual\\:\\ 0\\.1079001218818021\ \(0\)\
+\-\ on\\:\\ 0\\.1057732836466385\ \(0\)\
+\-\ urine\\:\\ 0\\.10449808161784621\ \(0\)\
+\-\ doppler\\:\\ 0\\.10449808161784621\ \(0\)\
+\-\ ectopic\\:\\ 0\\.10324654442387644\ \(0\)\
+\-\ predominantly\\:\\ 0\\.10223153335284693\ \(0\)\
+\-\ pregnancy\\:\\ 0\\.09553505732366933\ \(0\)\
+\-\ 27\\:\\ 0\\.09460466097375084\ \(0\)\
+\-\ thin\\:\\ 0\\.09087341476416774\ \(0\)\
+\-\ routine\\:\\ 0\\.09040508322879115\ \(0\)\
+\-\ complex\\:\\ 0\\.0899472297930035\ \(0\)\
+\-\ single\\:\\ 0\\.08976691853862598\ \(0\)\
+\-\ cysts\\:\\ 0\\.088462961973647\ \(0\)\
+\-\ classic\\:\\ 0\\.0873166114122692\ \(0\)\
+\-\ palpable\\:\\ 0\\.08201476691838422\ \(0\)\
+\-\ left\\:\\ 0\\.07964574684674068\ \(0\)\
+\-\ flow\\:\\ 0\\.07775770614306525\ \(0\)\
+\-\ past\\:\\ 0\\.07598948393062399\ \(0\)\
+\-\ no\\:\\ 0\\.0759256366722787\ \(0\)\
+\-\ differential\\:\\ 0\\.07585259248387197\ \(0\)\
+\-\ abscess\\:\\ 0\\.07496266118912215\ \(0\)\
+\-\ medical\\:\\ 0\\.07419352367742789\ \(0\)\
+\-\ during\\:\\ 0\\.07394343671623496\ \(0\)\
+\-\ yo\\:\\ 0\\.07293310348045215\ \(0\)\
+\-\ negative\\:\\ 0\\.0722735045587381\ \(0\)\
+\-\ for\\:\\ 0\\.07076655290191566\ \(0\)\
+\-\ cystic\\:\\ 0\\.07030908373119647\ \(0\)\
+\-\ the\\:\\ 0\\.06988212993347792\ \(0\)\
+\-\ of\\:\\ 0\\.06853704309705544\ \(0\)\
+\-\ shows\\:\\ 0\\.06851681994316486\ \(0\)\
+\-\ significant\\:\\ 0\\.06740363465236203\ \(0\)\
+\-\ cyst\\:\\ 0\\.06734353124650697\ \(0\)\
+\-\ cm\\:\\ 0\\.06704563377431197\ \(0\)\
+\-\ female\\:\\ 0\\.056332877625509384\ \(0\)\
+\-\ presents\\:\\ 0\\.056158407728381175\ \(0\)\
+\-\ with\\:\\ 0\\.045718662642649635\ \(0\)\
+\-\ history\\:\\ 0\\.04460178908705376\ \(0\)\
+\-\ is\\:\\ 0\\.03197029367236788\ \(0\)\
+\-\ in\\:\\ 0\\.02904135180194009\ \(0\)\
+\-\ and\\:\\ 0\\.02412308155609945\ \(0\)\

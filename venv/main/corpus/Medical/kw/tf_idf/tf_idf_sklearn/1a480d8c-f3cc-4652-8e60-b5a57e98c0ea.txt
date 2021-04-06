@@ -1,103 +1,101 @@
-Texto: 
-physical exam revealed decreased left visual acuity with a relative afferent left pupillary defecit.  the remainder of the exam was unremarkable.
-patient was placed on oral corticosteroids.
-follow-up mri of the orbits demonstrated significant decrease enhancement of the left optic nerve dura and decrease in size of the left optic nerve.
-mri of the orbits reveals enlargement of the left optic nerve extending from the globe to the optic chiasm with diffuse abnormal thickening and enhancement of the optic nerve dura creating a tram-track appearance.  the remainder of the left orbit is normal in appearance.  the lacrimal glands are normal bilaterally.  the brain is normal in appearance with no abnormal parenchymal or leptomeningeal enhancement.
-orbital sarcoidosis
-1.  optic nerve meningioma
-2.  optic nerve sarcoidosis
-3.  optic nerve glioma
-4.  orbital pseudotumor
-5.  lymphoma
-6.  tuberculosis
-36-year-old female with gradual loss of vision in her left eye, claiming that her vision has become darker and darker.  the patient also complains of dryness in her left eye and feeling of pressure behind her left eye.  patient is otherwise healthy with no significant past medical history.
-
-
-Keywords by value: 
-- optic: 0.477693509329113
-- nerve: 0.34640041017509243
-- left: 0.21296213974203904
-- darker: 0.21200345782010405
-- the: 0.20761725110628534
-- her: 0.17334526550551146
-- eye: 0.16647627512995017
-- orbits: 0.15682785309520694
-- dura: 0.15090283292815054
-- of: 0.14932210137593926
-- appearance: 0.12545530295847274
-- remainder: 0.12208609279913933
-- orbital: 0.12168738652228582
-- vision: 0.12015487723126303
-- enhancement: 0.11977862141629471
-- decrease: 0.11924388915084404
-- sarcoidosis: 0.11751830474594413
-- defecit: 0.1109322937348211
-- claiming: 0.1109322937348211
-- dryness: 0.10600172891005202
-- afferent: 0.09407458125345501
-- pupillary: 0.08817067556397919
-- in: 0.08628079360587529
-- normal: 0.08496575234720392
-- abnormal: 0.08334904825973001
-- creating: 0.08233893785545451
-- lacrimal: 0.08233893785545451
-- significant: 0.08010149292482674
-- gradual: 0.07841392654760347
-- acuity: 0.07721686877208891
-- corticosteroids: 0.07512712340316291
-- chiasm: 0.0736239444342349
-- glands: 0.0736239444342349
-- feeling: 0.0736239444342349
-- leptomeningeal: 0.07334438570617081
-- globe: 0.07228630394731983
-- pseudotumor: 0.07203556786630913
-- mri: 0.07121331454386877
-- exam: 0.06983836175580452
-- with: 0.06791423695269541
-- patient: 0.06768441759456785
-- behind: 0.06685933268403473
-- orbit: 0.06424352042167868
-- parenchymal: 0.06231309729151497
-- become: 0.06155621406623737
-- relative: 0.061451833433074934
-- tuberculosis: 0.061043046399569666
-- complains: 0.06035915629072282
-- visual: 0.05918289800316048
-- glioma: 0.058926882881867704
-- healthy: 0.058842728434594815
-- and: 0.05733503412855511
-- is: 0.05698954364129535
-- oral: 0.05555592529015427
-- placed: 0.05405274632122625
-- enlargement: 0.05317988606748727
-- pressure: 0.052816866002190606
-- reveals: 0.052765879474250064
-- meningioma: 0.05197789411901039
-- otherwise: 0.049446984112109856
-- was: 0.048349893366568385
-- thickening: 0.047191239483867206
-- extending: 0.04703144389799297
-- size: 0.04696810901993075
-- unremarkable: 0.046503328786754665
-- bilaterally: 0.04626252350996989
-- revealed: 0.04548330736914269
-- past: 0.04515239527381192
-- no: 0.045114457700126225
-- medical: 0.0440852488338861
-- diffuse: 0.043501443809356714
-- brain: 0.0432429549266178
-- decreased: 0.04296709578280945
-- demonstrated: 0.042630845720836565
-- loss: 0.04226067465909813
-- lymphoma: 0.04131210518022129
-- physical: 0.037612162618455125
-- female: 0.03347258365092293
-- also: 0.032628060400789964
-- has: 0.031684641473175665
-- that: 0.0301025028225466
-- from: 0.027549472478488688
-- history: 0.02650205668742861
-- are: 0.026321469731705783
-- or: 0.02413140479395817
-- on: 0.020949903704141966
-- to: 0.01734151361527393
+\-\ Texto\\:\\ \ \(0\)\
+\-\ physical\\ exam\\ revealed\\ decreased\\ left\\ visual\\ acuity\\ with\\ a\\ relative\\ afferent\\ left\\ pupillary\\ defecit\\.\\ \\ the\\ remainder\\ of\\ the\\ exam\\ was\\ unremarkable\\.\ \(0\)\
+\-\ patient\\ was\\ placed\\ on\\ oral\\ corticosteroids\\.\ \(0\)\
+\-\ follow\\-up\\ mri\\ of\\ the\\ orbits\\ demonstrated\\ significant\\ decrease\\ enhancement\\ of\\ the\\ left\\ optic\\ nerve\\ dura\\ and\\ decrease\\ in\\ size\\ of\\ the\\ left\\ optic\\ nerve\\.\ \(0\)\
+\-\ mri\\ of\\ the\\ orbits\\ reveals\\ enlargement\\ of\\ the\\ left\\ optic\\ nerve\\ extending\\ from\\ the\\ globe\\ to\\ the\\ optic\\ chiasm\\ with\\ diffuse\\ abnormal\\ thickening\\ and\\ enhancement\\ of\\ the\\ optic\\ nerve\\ dura\\ creating\\ a\\ tram\\-track\\ appearance\\.\\ \\ the\\ remainder\\ of\\ the\\ left\\ orbit\\ is\\ normal\\ in\\ appearance\\.\\ \\ the\\ lacrimal\\ glands\\ are\\ normal\\ bilaterally\\.\\ \\ the\\ brain\\ is\\ normal\\ in\\ appearance\\ with\\ no\\ abnormal\\ parenchymal\\ or\\ leptomeningeal\\ enhancement\\.\ \(0\)\
+\-\ orbital\\ sarcoidosis\ \(0\)\
+\-\ 1\\.\\ \\ optic\\ nerve\\ meningioma\ \(0\)\
+\-\ 2\\.\\ \\ optic\\ nerve\\ sarcoidosis\ \(0\)\
+\-\ 3\\.\\ \\ optic\\ nerve\\ glioma\ \(0\)\
+\-\ 4\\.\\ \\ orbital\\ pseudotumor\ \(0\)\
+\-\ 5\\.\\ \\ lymphoma\ \(0\)\
+\-\ 6\\.\\ \\ tuberculosis\ \(0\)\
+\-\ 36\\-year\\-old\\ female\\ with\\ gradual\\ loss\\ of\\ vision\\ in\\ her\\ left\\ eye\\,\\ claiming\\ that\\ her\\ vision\\ has\\ become\\ darker\\ and\\ darker\\.\\ \\ the\\ patient\\ also\\ complains\\ of\\ dryness\\ in\\ her\\ left\\ eye\\ and\\ feeling\\ of\\ pressure\\ behind\\ her\\ left\\ eye\\.\\ \\ patient\\ is\\ otherwise\\ healthy\\ with\\ no\\ significant\\ past\\ medical\\ history\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ optic\\:\\ 0\\.477693509329113\ \(0\)\
+\-\ nerve\\:\\ 0\\.34640041017509243\ \(0\)\
+\-\ left\\:\\ 0\\.21296213974203904\ \(0\)\
+\-\ darker\\:\\ 0\\.21200345782010405\ \(0\)\
+\-\ the\\:\\ 0\\.20761725110628534\ \(0\)\
+\-\ her\\:\\ 0\\.17334526550551146\ \(0\)\
+\-\ eye\\:\\ 0\\.16647627512995017\ \(0\)\
+\-\ orbits\\:\\ 0\\.15682785309520694\ \(0\)\
+\-\ dura\\:\\ 0\\.15090283292815054\ \(0\)\
+\-\ of\\:\\ 0\\.14932210137593926\ \(0\)\
+\-\ appearance\\:\\ 0\\.12545530295847274\ \(0\)\
+\-\ remainder\\:\\ 0\\.12208609279913933\ \(0\)\
+\-\ orbital\\:\\ 0\\.12168738652228582\ \(0\)\
+\-\ vision\\:\\ 0\\.12015487723126303\ \(0\)\
+\-\ enhancement\\:\\ 0\\.11977862141629471\ \(0\)\
+\-\ decrease\\:\\ 0\\.11924388915084404\ \(0\)\
+\-\ sarcoidosis\\:\\ 0\\.11751830474594413\ \(0\)\
+\-\ defecit\\:\\ 0\\.1109322937348211\ \(0\)\
+\-\ claiming\\:\\ 0\\.1109322937348211\ \(0\)\
+\-\ dryness\\:\\ 0\\.10600172891005202\ \(0\)\
+\-\ afferent\\:\\ 0\\.09407458125345501\ \(0\)\
+\-\ pupillary\\:\\ 0\\.08817067556397919\ \(0\)\
+\-\ in\\:\\ 0\\.08628079360587529\ \(0\)\
+\-\ normal\\:\\ 0\\.08496575234720392\ \(0\)\
+\-\ abnormal\\:\\ 0\\.08334904825973001\ \(0\)\
+\-\ creating\\:\\ 0\\.08233893785545451\ \(0\)\
+\-\ lacrimal\\:\\ 0\\.08233893785545451\ \(0\)\
+\-\ significant\\:\\ 0\\.08010149292482674\ \(0\)\
+\-\ gradual\\:\\ 0\\.07841392654760347\ \(0\)\
+\-\ acuity\\:\\ 0\\.07721686877208891\ \(0\)\
+\-\ corticosteroids\\:\\ 0\\.07512712340316291\ \(0\)\
+\-\ chiasm\\:\\ 0\\.0736239444342349\ \(0\)\
+\-\ glands\\:\\ 0\\.0736239444342349\ \(0\)\
+\-\ feeling\\:\\ 0\\.0736239444342349\ \(0\)\
+\-\ leptomeningeal\\:\\ 0\\.07334438570617081\ \(0\)\
+\-\ globe\\:\\ 0\\.07228630394731983\ \(0\)\
+\-\ pseudotumor\\:\\ 0\\.07203556786630913\ \(0\)\
+\-\ mri\\:\\ 0\\.07121331454386877\ \(0\)\
+\-\ exam\\:\\ 0\\.06983836175580452\ \(0\)\
+\-\ with\\:\\ 0\\.06791423695269541\ \(0\)\
+\-\ patient\\:\\ 0\\.06768441759456785\ \(0\)\
+\-\ behind\\:\\ 0\\.06685933268403473\ \(0\)\
+\-\ orbit\\:\\ 0\\.06424352042167868\ \(0\)\
+\-\ parenchymal\\:\\ 0\\.06231309729151497\ \(0\)\
+\-\ become\\:\\ 0\\.06155621406623737\ \(0\)\
+\-\ relative\\:\\ 0\\.061451833433074934\ \(0\)\
+\-\ tuberculosis\\:\\ 0\\.061043046399569666\ \(0\)\
+\-\ complains\\:\\ 0\\.06035915629072282\ \(0\)\
+\-\ visual\\:\\ 0\\.05918289800316048\ \(0\)\
+\-\ glioma\\:\\ 0\\.058926882881867704\ \(0\)\
+\-\ healthy\\:\\ 0\\.058842728434594815\ \(0\)\
+\-\ and\\:\\ 0\\.05733503412855511\ \(0\)\
+\-\ is\\:\\ 0\\.05698954364129535\ \(0\)\
+\-\ oral\\:\\ 0\\.05555592529015427\ \(0\)\
+\-\ placed\\:\\ 0\\.05405274632122625\ \(0\)\
+\-\ enlargement\\:\\ 0\\.05317988606748727\ \(0\)\
+\-\ pressure\\:\\ 0\\.052816866002190606\ \(0\)\
+\-\ reveals\\:\\ 0\\.052765879474250064\ \(0\)\
+\-\ meningioma\\:\\ 0\\.05197789411901039\ \(0\)\
+\-\ otherwise\\:\\ 0\\.049446984112109856\ \(0\)\
+\-\ was\\:\\ 0\\.048349893366568385\ \(0\)\
+\-\ thickening\\:\\ 0\\.047191239483867206\ \(0\)\
+\-\ extending\\:\\ 0\\.04703144389799297\ \(0\)\
+\-\ size\\:\\ 0\\.04696810901993075\ \(0\)\
+\-\ unremarkable\\:\\ 0\\.046503328786754665\ \(0\)\
+\-\ bilaterally\\:\\ 0\\.04626252350996989\ \(0\)\
+\-\ revealed\\:\\ 0\\.04548330736914269\ \(0\)\
+\-\ past\\:\\ 0\\.04515239527381192\ \(0\)\
+\-\ no\\:\\ 0\\.045114457700126225\ \(0\)\
+\-\ medical\\:\\ 0\\.0440852488338861\ \(0\)\
+\-\ diffuse\\:\\ 0\\.043501443809356714\ \(0\)\
+\-\ brain\\:\\ 0\\.0432429549266178\ \(0\)\
+\-\ decreased\\:\\ 0\\.04296709578280945\ \(0\)\
+\-\ demonstrated\\:\\ 0\\.042630845720836565\ \(0\)\
+\-\ loss\\:\\ 0\\.04226067465909813\ \(0\)\
+\-\ lymphoma\\:\\ 0\\.04131210518022129\ \(0\)\
+\-\ physical\\:\\ 0\\.037612162618455125\ \(0\)\
+\-\ female\\:\\ 0\\.03347258365092293\ \(0\)\
+\-\ also\\:\\ 0\\.032628060400789964\ \(0\)\
+\-\ has\\:\\ 0\\.031684641473175665\ \(0\)\
+\-\ that\\:\\ 0\\.0301025028225466\ \(0\)\
+\-\ from\\:\\ 0\\.027549472478488688\ \(0\)\
+\-\ history\\:\\ 0\\.02650205668742861\ \(0\)\
+\-\ are\\:\\ 0\\.026321469731705783\ \(0\)\
+\-\ or\\:\\ 0\\.02413140479395817\ \(0\)\
+\-\ on\\:\\ 0\\.020949903704141966\ \(0\)\
+\-\ to\\:\\ 0\\.01734151361527393\ \(0\)\

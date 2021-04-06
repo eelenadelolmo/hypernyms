@@ -1,91 +1,89 @@
-Texto: 
-mild ataxia
-conservative
-â€¢ subacute left cerebellar hematoma on ct and mri scans
-â€¢ contrast mri reveals large developmental venous anomaly (dva) just superior to the hematoma.
-intracranial venous anomaly or malformation ,   developmental venous anomaly
-â€¢ traumatic hemorrhage
-â€¢ metastatic disease
-â€¢ primary neoplasm hemorrhage (e.g. gbm, oligo, etc.)
-â€¢ avm or other vascular malformation
-â€¢ hypertensive hemorrhage
-â€¢ amyloid angiopathy
-56 y.o. man with sudden onset occipital headache.
-brief loss of consciousness
-it is most likely that the hematoma resulted from a cavernous angioma which is frequently associated with many dvas.  due to the hematoma itself the suspected cavernous angioma is often not readily appreciated.
-
-
-Keywords by value: 
-- hematoma: 0.3181991841666727
-- anomaly: 0.3120457371805003
-- venous: 0.24343374996341385
-- angioma: 0.23857343842260448
-- hemorrhage: 0.22828444674436682
-- cavernous: 0.19717520302175406
-- developmental: 0.1965668185467273
-- malformation: 0.17531572257120664
-- dvas: 0.16794854109698643
-- oligo: 0.15679864167541888
-- dva: 0.14161360739176893
-- angiopathy: 0.1379809954025039
-- brief: 0.13588177093829915
-- readily: 0.133982791421316
-- amyloid: 0.12847866264103966
-- gbm: 0.12017238522084196
-- hypertensive: 0.11802792985290322
-- mri: 0.11668069458653563
-- resulted: 0.11572642746310274
-- itself: 0.11536742307399675
-- etc: 0.11179419772940795
-- ataxia: 0.11036018300155581
-- subacute: 0.10636197902036792
-- 56: 0.10613684437029915
-- consciousness: 0.10613684437029915
-- appreciated: 0.10246695602864907
-- avm: 0.10051725725337819
-- scans: 0.09889651009461625
-- sudden: 0.09828340927336365
-- occipital: 0.09725388556638447
-- frequently: 0.09359739795468408
-- is: 0.09337550960557744
-- suspected: 0.09312579713215235
-- cerebellar: 0.09300962068323483
-- intracranial: 0.09145050790664966
-- just: 0.09092198342757886
-- the: 0.09071309289989786
-- many: 0.08961004298249721
-- conservative: 0.08774661067304866
-- reveals: 0.08645517354387765
-- traumatic: 0.08612447376054305
-- or: 0.07907704031872828
-- headache: 0.07834883486619286
-- neoplasm: 0.07758661387663454
-- vascular: 0.0750332267349907
-- often: 0.07415982303245701
-- superior: 0.07389178036378467
-- onset: 0.07298104882048034
-- primary: 0.06988550990291653
-- loss: 0.06924273788550567
-- likely: 0.06791736620451934
-- due: 0.06533097310513662
-- mild: 0.06442773835580934
-- metastatic: 0.06233403382640595
-- man: 0.060170321652724526
-- associated: 0.05990466165646642
-- most: 0.05914945792419007
-- other: 0.059022820604615174
-- it: 0.05817836099826471
-- large: 0.056946752807385925
-- to: 0.05682700957741718
-- contrast: 0.055222601279626526
-- which: 0.051680019374409684
-- that: 0.04932196964324968
-- disease: 0.04770829450475165
-- from: 0.04513891264396237
-- not: 0.04486825575570198
-- with: 0.044510105396504504
-- ct: 0.043269492144660915
-- left: 0.038770169353386515
-- on: 0.03432573432899956
-- and: 0.023485396126806574
-- of: 0.022241763250010288
+\-\ Texto\\:\\ \ \(0\)\
+\-\ mild\\ ataxia\ \(0\)\
+\-\ conservative\ \(240\)\
+\-\ \\â\\€\\¢\\ subacute\\ left\\ cerebellar\\ hematoma\\ on\\ ct\\ and\\ mri\\ scans\ \(0\)\
+\-\ \\â\\€\\¢\\ contrast\\ mri\\ reveals\\ large\\ developmental\\ venous\\ anomaly\\ \\(dva\\)\\ just\\ superior\\ to\\ the\\ hematoma\\.\ \(0\)\
+\-\ intracranial\\ venous\\ anomaly\\ or\\ malformation\\ \\,\\ \\ \\ developmental\\ venous\\ anomaly\ \(0\)\
+\-\ \\â\\€\\¢\\ traumatic\\ hemorrhage\ \(0\)\
+\-\ \\â\\€\\¢\\ metastatic\\ disease\ \(13\)\
+\-\ \\â\\€\\¢\\ primary\\ neoplasm\\ hemorrhage\\ \\(e\\.g\\.\\ gbm\\,\\ oligo\\,\\ etc\\.\\)\ \(0\)\
+\-\ \\â\\€\\¢\\ avm\\ or\\ other\\ vascular\\ malformation\ \(0\)\
+\-\ \\â\\€\\¢\\ hypertensive\\ hemorrhage\ \(1\)\
+\-\ \\â\\€\\¢\\ amyloid\\ angiopathy\ \(0\)\
+\-\ 56\\ y\\.o\\.\\ man\\ with\\ sudden\\ onset\\ occipital\\ headache\\.\ \(1\)\
+\-\ brief\\ loss\\ of\\ consciousness\ \(4\)\
+\-\ it\\ is\\ most\\ likely\\ that\\ the\\ hematoma\\ resulted\\ from\\ a\\ cavernous\\ angioma\\ which\\ is\\ frequently\\ associated\\ with\\ many\\ dvas\\.\\ \\ due\\ to\\ the\\ hematoma\\ itself\\ the\\ suspected\\ cavernous\\ angioma\\ is\\ often\\ not\\ readily\\ appreciated\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ hematoma\\:\\ 0\\.3181991841666727\ \(0\)\
+\-\ anomaly\\:\\ 0\\.3120457371805003\ \(0\)\
+\-\ venous\\:\\ 0\\.24343374996341385\ \(0\)\
+\-\ angioma\\:\\ 0\\.23857343842260448\ \(0\)\
+\-\ hemorrhage\\:\\ 0\\.22828444674436682\ \(0\)\
+\-\ cavernous\\:\\ 0\\.19717520302175406\ \(0\)\
+\-\ developmental\\:\\ 0\\.1965668185467273\ \(0\)\
+\-\ malformation\\:\\ 0\\.17531572257120664\ \(0\)\
+\-\ dvas\\:\\ 0\\.16794854109698643\ \(0\)\
+\-\ oligo\\:\\ 0\\.15679864167541888\ \(0\)\
+\-\ dva\\:\\ 0\\.14161360739176893\ \(0\)\
+\-\ angiopathy\\:\\ 0\\.1379809954025039\ \(0\)\
+\-\ brief\\:\\ 0\\.13588177093829915\ \(0\)\
+\-\ readily\\:\\ 0\\.133982791421316\ \(0\)\
+\-\ amyloid\\:\\ 0\\.12847866264103966\ \(0\)\
+\-\ gbm\\:\\ 0\\.12017238522084196\ \(0\)\
+\-\ hypertensive\\:\\ 0\\.11802792985290322\ \(0\)\
+\-\ mri\\:\\ 0\\.11668069458653563\ \(0\)\
+\-\ resulted\\:\\ 0\\.11572642746310274\ \(0\)\
+\-\ itself\\:\\ 0\\.11536742307399675\ \(0\)\
+\-\ etc\\:\\ 0\\.11179419772940795\ \(0\)\
+\-\ ataxia\\:\\ 0\\.11036018300155581\ \(0\)\
+\-\ subacute\\:\\ 0\\.10636197902036792\ \(0\)\
+\-\ 56\\:\\ 0\\.10613684437029915\ \(0\)\
+\-\ consciousness\\:\\ 0\\.10613684437029915\ \(0\)\
+\-\ appreciated\\:\\ 0\\.10246695602864907\ \(0\)\
+\-\ avm\\:\\ 0\\.10051725725337819\ \(0\)\
+\-\ scans\\:\\ 0\\.09889651009461625\ \(0\)\
+\-\ sudden\\:\\ 0\\.09828340927336365\ \(0\)\
+\-\ occipital\\:\\ 0\\.09725388556638447\ \(0\)\
+\-\ frequently\\:\\ 0\\.09359739795468408\ \(0\)\
+\-\ is\\:\\ 0\\.09337550960557744\ \(0\)\
+\-\ suspected\\:\\ 0\\.09312579713215235\ \(0\)\
+\-\ cerebellar\\:\\ 0\\.09300962068323483\ \(0\)\
+\-\ intracranial\\:\\ 0\\.09145050790664966\ \(0\)\
+\-\ just\\:\\ 0\\.09092198342757886\ \(0\)\
+\-\ the\\:\\ 0\\.09071309289989786\ \(0\)\
+\-\ many\\:\\ 0\\.08961004298249721\ \(0\)\
+\-\ conservative\\:\\ 0\\.08774661067304866\ \(0\)\
+\-\ reveals\\:\\ 0\\.08645517354387765\ \(0\)\
+\-\ traumatic\\:\\ 0\\.08612447376054305\ \(0\)\
+\-\ or\\:\\ 0\\.07907704031872828\ \(0\)\
+\-\ headache\\:\\ 0\\.07834883486619286\ \(0\)\
+\-\ neoplasm\\:\\ 0\\.07758661387663454\ \(0\)\
+\-\ vascular\\:\\ 0\\.0750332267349907\ \(0\)\
+\-\ often\\:\\ 0\\.07415982303245701\ \(0\)\
+\-\ superior\\:\\ 0\\.07389178036378467\ \(0\)\
+\-\ onset\\:\\ 0\\.07298104882048034\ \(0\)\
+\-\ primary\\:\\ 0\\.06988550990291653\ \(0\)\
+\-\ loss\\:\\ 0\\.06924273788550567\ \(0\)\
+\-\ likely\\:\\ 0\\.06791736620451934\ \(0\)\
+\-\ due\\:\\ 0\\.06533097310513662\ \(0\)\
+\-\ mild\\:\\ 0\\.06442773835580934\ \(0\)\
+\-\ metastatic\\:\\ 0\\.06233403382640595\ \(0\)\
+\-\ man\\:\\ 0\\.060170321652724526\ \(0\)\
+\-\ associated\\:\\ 0\\.05990466165646642\ \(0\)\
+\-\ most\\:\\ 0\\.05914945792419007\ \(0\)\
+\-\ other\\:\\ 0\\.059022820604615174\ \(0\)\
+\-\ it\\:\\ 0\\.05817836099826471\ \(0\)\
+\-\ large\\:\\ 0\\.056946752807385925\ \(0\)\
+\-\ to\\:\\ 0\\.05682700957741718\ \(0\)\
+\-\ contrast\\:\\ 0\\.055222601279626526\ \(0\)\
+\-\ which\\:\\ 0\\.051680019374409684\ \(0\)\
+\-\ that\\:\\ 0\\.04932196964324968\ \(0\)\
+\-\ disease\\:\\ 0\\.04770829450475165\ \(0\)\
+\-\ from\\:\\ 0\\.04513891264396237\ \(0\)\
+\-\ not\\:\\ 0\\.04486825575570198\ \(0\)\
+\-\ with\\:\\ 0\\.044510105396504504\ \(0\)\
+\-\ ct\\:\\ 0\\.043269492144660915\ \(0\)\
+\-\ left\\:\\ 0\\.038770169353386515\ \(0\)\
+\-\ on\\:\\ 0\\.03432573432899956\ \(0\)\
+\-\ and\\:\\ 0\\.023485396126806574\ \(0\)\
+\-\ of\\:\\ 0\\.022241763250010288\ \(0\)\

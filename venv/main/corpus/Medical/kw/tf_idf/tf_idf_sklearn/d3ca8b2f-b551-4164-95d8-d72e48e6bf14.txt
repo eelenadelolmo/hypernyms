@@ -1,60 +1,57 @@
-Texto: 
-single axial ct image demonstrates a large right adnexal mass.  ultrasound images show a large right adnexal mass with internal blood flow.
-uterine leiomyoma (fibroid)
-solid adnexal tumor:
-granulosa cell tumor
-thecoma
-fibroma
-sertoli-leydig cell tumor
-
-broad ligament fibroid
-denies history of pelvic pain or post-menopausal bleeding.
-since no discrete right ovary was identified and mass had internal blood flow, there was concern for a solid adnexal tumor.
-
-
-Keywords by value: 
-- adnexal: 0.5096129192686492
-- fibroid: 0.2804184870441711
-- tumor: 0.26729896338603487
-- solid: 0.19589096761216696
-- thecoma: 0.19523153188407943
-- granulosa: 0.17326438727287272
-- internal: 0.17220245010769636
-- flow: 0.17019145383743886
-- blood: 0.1483937047362997
-- mass: 0.146400205045568
-- cell: 0.146166693251347
-- leiomyoma: 0.13267344230406664
-- discrete: 0.13222097232336497
-- fibroma: 0.12851402782296878
-- large: 0.12802599744671905
-- right: 0.1270709884621663
-- ovary: 0.12500742849664268
-- uterine: 0.11930684978926798
-- concern: 0.11714936988732715
-- broad: 0.11539188017238924
-- ligament: 0.10981031812457075
-- bleeding: 0.10442089752572316
-- denies: 0.10304028388543596
-- pelvic: 0.09986780775564978
-- single: 0.09823825271084217
-- since: 0.09254429724831541
-- identified: 0.09057651019212955
-- was: 0.0890497149947137
-- image: 0.08170580731110529
-- show: 0.0811035899958338
-- ultrasound: 0.07880338121861401
-- axial: 0.07379749850729704
-- demonstrates: 0.06418412851327829
-- had: 0.0636536323167773
-- images: 0.05909648729679324
-- there: 0.05083443136914361
-- history: 0.04881087486370943
-- ct: 0.048638593227344706
-- pain: 0.04571644181289114
-- or: 0.04444466305296755
-- no: 0.0415453822191381
-- for: 0.038722408102168454
-- and: 0.026399584843191912
-- with: 0.025016574075436126
-- of: 0.025001635604120227
+\-\ Texto\\:\\ \ \(0\)\
+\-\ single\\ axial\\ ct\\ image\\ demonstrates\\ a\\ large\\ right\\ adnexal\\ mass\\.\\ \\ ultrasound\\ images\\ show\\ a\\ large\\ right\\ adnexal\\ mass\\ with\\ internal\\ blood\\ flow\\.\ \(0\)\
+\-\ uterine\\ leiomyoma\\ \\(fibroid\\)\ \(0\)\
+\-\ solid\\ adnexal\\ tumor\\:\ \(0\)\
+\-\ granulosa\\ cell\\ tumor\ \(1\)\
+\-\ thecoma\ \(1\)\
+\-\ fibroma\ \(312\)\
+\-\ sertoli\\-leydig\\ cell\\ tumor\ \(0\)\
+\-\ broad\\ ligament\\ fibroid\ \(1\)\
+\-\ denies\\ history\\ of\\ pelvic\\ pain\\ or\\ post\\-menopausal\\ bleeding\\.\ \(0\)\
+\-\ since\\ no\\ discrete\\ right\\ ovary\\ was\\ identified\\ and\\ mass\\ had\\ internal\\ blood\\ flow\\,\\ there\\ was\\ concern\\ for\\ a\\ solid\\ adnexal\\ tumor\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ adnexal\\:\\ 0\\.5096129192686492\ \(0\)\
+\-\ fibroid\\:\\ 0\\.2804184870441711\ \(0\)\
+\-\ tumor\\:\\ 0\\.26729896338603487\ \(0\)\
+\-\ solid\\:\\ 0\\.19589096761216696\ \(0\)\
+\-\ thecoma\\:\\ 0\\.19523153188407943\ \(0\)\
+\-\ granulosa\\:\\ 0\\.17326438727287272\ \(0\)\
+\-\ internal\\:\\ 0\\.17220245010769636\ \(0\)\
+\-\ flow\\:\\ 0\\.17019145383743886\ \(0\)\
+\-\ blood\\:\\ 0\\.1483937047362997\ \(0\)\
+\-\ mass\\:\\ 0\\.146400205045568\ \(0\)\
+\-\ cell\\:\\ 0\\.146166693251347\ \(0\)\
+\-\ leiomyoma\\:\\ 0\\.13267344230406664\ \(0\)\
+\-\ discrete\\:\\ 0\\.13222097232336497\ \(0\)\
+\-\ fibroma\\:\\ 0\\.12851402782296878\ \(0\)\
+\-\ large\\:\\ 0\\.12802599744671905\ \(0\)\
+\-\ right\\:\\ 0\\.1270709884621663\ \(0\)\
+\-\ ovary\\:\\ 0\\.12500742849664268\ \(0\)\
+\-\ uterine\\:\\ 0\\.11930684978926798\ \(0\)\
+\-\ concern\\:\\ 0\\.11714936988732715\ \(0\)\
+\-\ broad\\:\\ 0\\.11539188017238924\ \(0\)\
+\-\ ligament\\:\\ 0\\.10981031812457075\ \(0\)\
+\-\ bleeding\\:\\ 0\\.10442089752572316\ \(0\)\
+\-\ denies\\:\\ 0\\.10304028388543596\ \(0\)\
+\-\ pelvic\\:\\ 0\\.09986780775564978\ \(0\)\
+\-\ single\\:\\ 0\\.09823825271084217\ \(0\)\
+\-\ since\\:\\ 0\\.09254429724831541\ \(0\)\
+\-\ identified\\:\\ 0\\.09057651019212955\ \(0\)\
+\-\ was\\:\\ 0\\.0890497149947137\ \(0\)\
+\-\ image\\:\\ 0\\.08170580731110529\ \(0\)\
+\-\ show\\:\\ 0\\.0811035899958338\ \(0\)\
+\-\ ultrasound\\:\\ 0\\.07880338121861401\ \(0\)\
+\-\ axial\\:\\ 0\\.07379749850729704\ \(0\)\
+\-\ demonstrates\\:\\ 0\\.06418412851327829\ \(0\)\
+\-\ had\\:\\ 0\\.0636536323167773\ \(0\)\
+\-\ images\\:\\ 0\\.05909648729679324\ \(0\)\
+\-\ there\\:\\ 0\\.05083443136914361\ \(0\)\
+\-\ history\\:\\ 0\\.04881087486370943\ \(0\)\
+\-\ ct\\:\\ 0\\.048638593227344706\ \(0\)\
+\-\ pain\\:\\ 0\\.04571644181289114\ \(0\)\
+\-\ or\\:\\ 0\\.04444466305296755\ \(0\)\
+\-\ no\\:\\ 0\\.0415453822191381\ \(0\)\
+\-\ for\\:\\ 0\\.038722408102168454\ \(0\)\
+\-\ and\\:\\ 0\\.026399584843191912\ \(0\)\
+\-\ with\\:\\ 0\\.025016574075436126\ \(0\)\
+\-\ of\\:\\ 0\\.025001635604120227\ \(0\)\

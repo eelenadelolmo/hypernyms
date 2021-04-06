@@ -1,58 +1,56 @@
-Texto: 
-axial t1 images demonstrate parieto-occipital hyperintense enhancing lesions within the deep white matter.
-axial t2 images show more extensive hyperintense lesions of the deep white matter with cortical sparing.  
-pa cxr demonstrates bilateral hilar adenopathy and diffuse increased reticulonodular interstitial markings.
-neurosarcoid
-ischemic microvascular white matter disease
-demyelinating disease
-lyme disease
-vasculitis
-27 y/o male with fever, fatigue, and weight loss.
-
-
-Keywords by value: 
-- matter: 0.3416757746219454
-- white: 0.29606401677030747
-- hyperintense: 0.23796611332254053
-- deep: 0.232870484946064
-- neurosarcoid: 0.1970069757363598
-- microvascular: 0.1970069757363598
-- disease: 0.18836388776430377
-- reticulonodular: 0.18309291613849232
-- axial: 0.17280445253102503
-- lesions: 0.17180986640656723
-- demyelinating: 0.16415720083132246
-- lyme: 0.16415720083132246
-- sparing: 0.1569909413204997
-- markings: 0.15002371016394003
-- fatigue: 0.14488121330677728
-- vasculitis: 0.1388153331407631
-- images: 0.13838051885754993
-- hilar: 0.13715866484100686
-- interstitial: 0.1356004722414142
-- ischemic: 0.1322888158841031
-- adenopathy: 0.1258226308019704
-- 27: 0.12121605277125684
-- cxr: 0.11966066180207298
-- extensive: 0.1152485304740139
-- pa: 0.11478848604630477
-- cortical: 0.10738782585161925
-- weight: 0.1043088899359695
-- fever: 0.10141649970149577
-- show: 0.09495620956681193
-- diffuse: 0.09380456557266209
-- enhancing: 0.09370233597032651
-- t1: 0.09319708219252666
-- loss: 0.09112902653478461
-- t2: 0.08605694441036522
-- more: 0.08213488557086664
-- increased: 0.08088522634210676
-- bilateral: 0.08038928986130364
-- demonstrate: 0.07776199134489337
-- demonstrates: 0.07514687769410848
-- within: 0.0688914883296349
-- male: 0.06659833781249841
-- and: 0.06181735015615795
-- the: 0.05969287251174385
-- with: 0.05857888783154514
-- of: 0.029271953930274354
+\-\ Texto\\:\\ \ \(0\)\
+\-\ axial\\ t1\\ images\\ demonstrate\\ parieto\\-occipital\\ hyperintense\\ enhancing\\ lesions\\ within\\ the\\ deep\\ white\\ matter\\.\ \(0\)\
+\-\ axial\\ t2\\ images\\ show\\ more\\ extensive\\ hyperintense\\ lesions\\ of\\ the\\ deep\\ white\\ matter\\ with\\ cortical\\ sparing\\.\\ \\ \ \(0\)\
+\-\ pa\\ cxr\\ demonstrates\\ bilateral\\ hilar\\ adenopathy\\ and\\ diffuse\\ increased\\ reticulonodular\\ interstitial\\ markings\\.\ \(0\)\
+\-\ neurosarcoid\ \(5\)\
+\-\ ischemic\\ microvascular\\ white\\ matter\\ disease\ \(0\)\
+\-\ demyelinating\\ disease\ \(15\)\
+\-\ lyme\\ disease\ \(3\)\
+\-\ vasculitis\ \(67\)\
+\-\ 27\\ y\\/o\\ male\\ with\\ fever\\,\\ fatigue\\,\\ and\\ weight\\ loss\\.\ \(1\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ matter\\:\\ 0\\.3416757746219454\ \(0\)\
+\-\ white\\:\\ 0\\.29606401677030747\ \(0\)\
+\-\ hyperintense\\:\\ 0\\.23796611332254053\ \(0\)\
+\-\ deep\\:\\ 0\\.232870484946064\ \(0\)\
+\-\ neurosarcoid\\:\\ 0\\.1970069757363598\ \(0\)\
+\-\ microvascular\\:\\ 0\\.1970069757363598\ \(0\)\
+\-\ disease\\:\\ 0\\.18836388776430377\ \(0\)\
+\-\ reticulonodular\\:\\ 0\\.18309291613849232\ \(0\)\
+\-\ axial\\:\\ 0\\.17280445253102503\ \(0\)\
+\-\ lesions\\:\\ 0\\.17180986640656723\ \(0\)\
+\-\ demyelinating\\:\\ 0\\.16415720083132246\ \(0\)\
+\-\ lyme\\:\\ 0\\.16415720083132246\ \(0\)\
+\-\ sparing\\:\\ 0\\.1569909413204997\ \(0\)\
+\-\ markings\\:\\ 0\\.15002371016394003\ \(0\)\
+\-\ fatigue\\:\\ 0\\.14488121330677728\ \(0\)\
+\-\ vasculitis\\:\\ 0\\.1388153331407631\ \(0\)\
+\-\ images\\:\\ 0\\.13838051885754993\ \(0\)\
+\-\ hilar\\:\\ 0\\.13715866484100686\ \(0\)\
+\-\ interstitial\\:\\ 0\\.1356004722414142\ \(0\)\
+\-\ ischemic\\:\\ 0\\.1322888158841031\ \(0\)\
+\-\ adenopathy\\:\\ 0\\.1258226308019704\ \(0\)\
+\-\ 27\\:\\ 0\\.12121605277125684\ \(0\)\
+\-\ cxr\\:\\ 0\\.11966066180207298\ \(0\)\
+\-\ extensive\\:\\ 0\\.1152485304740139\ \(0\)\
+\-\ pa\\:\\ 0\\.11478848604630477\ \(0\)\
+\-\ cortical\\:\\ 0\\.10738782585161925\ \(0\)\
+\-\ weight\\:\\ 0\\.1043088899359695\ \(0\)\
+\-\ fever\\:\\ 0\\.10141649970149577\ \(0\)\
+\-\ show\\:\\ 0\\.09495620956681193\ \(0\)\
+\-\ diffuse\\:\\ 0\\.09380456557266209\ \(0\)\
+\-\ enhancing\\:\\ 0\\.09370233597032651\ \(0\)\
+\-\ t1\\:\\ 0\\.09319708219252666\ \(0\)\
+\-\ loss\\:\\ 0\\.09112902653478461\ \(0\)\
+\-\ t2\\:\\ 0\\.08605694441036522\ \(0\)\
+\-\ more\\:\\ 0\\.08213488557086664\ \(0\)\
+\-\ increased\\:\\ 0\\.08088522634210676\ \(0\)\
+\-\ bilateral\\:\\ 0\\.08038928986130364\ \(0\)\
+\-\ demonstrate\\:\\ 0\\.07776199134489337\ \(0\)\
+\-\ demonstrates\\:\\ 0\\.07514687769410848\ \(0\)\
+\-\ within\\:\\ 0\\.0688914883296349\ \(0\)\
+\-\ male\\:\\ 0\\.06659833781249841\ \(0\)\
+\-\ and\\:\\ 0\\.06181735015615795\ \(0\)\
+\-\ the\\:\\ 0\\.05969287251174385\ \(0\)\
+\-\ with\\:\\ 0\\.05857888783154514\ \(0\)\
+\-\ of\\:\\ 0\\.029271953930274354\ \(0\)\

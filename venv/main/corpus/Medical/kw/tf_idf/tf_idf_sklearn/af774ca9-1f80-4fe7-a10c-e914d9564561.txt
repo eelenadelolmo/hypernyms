@@ -1,71 +1,69 @@
-Texto: 
-indurated, right testicular mass.
-with concern for malignancy, subsequent ct of the abdomen and pelvis was perform and showed no metastatic disease.  patient went to surgery with complete orchiectomy, from which the diagnosis of abscess was made.
-ill-defined hypoechoic solid extratesticular mass inferior to the testicle, which demonstrates internal vascularity.
-acute epididymitis and orchitis with testicular abscess formation
-primary neoplasm
-metastatic disease
-lymphoma
-abscess
-tuberculosis
-sarcoidosis
-67 year old male with painless, enlarging scrotal mass
-
-
-Keywords by value: 
-- abscess: 0.2944434328667721
-- testicular: 0.28669208208143826
-- extratesticular: 0.2108690364139265
-- epididymitis: 0.19642670008500648
-- indurated: 0.19428196685700366
-- orchitis: 0.18411359518381729
-- mass: 0.17515115070690135
-- orchiectomy: 0.17469793764228256
-- metastatic: 0.16765856525692008
-- scrotal: 0.16161259309591802
-- perform: 0.15765670702594395
-- testicle: 0.15375237929595476
-- vascularity: 0.15285913454788622
-- 67: 0.15034527404049494
-- went: 0.14841675412071453
-- enlarging: 0.14273704071180418
-- painless: 0.1415590549296062
-- concern: 0.14015586203562452
-- which: 0.1390026823050374
-- tuberculosis: 0.1345068872569326
-- hypoechoic: 0.13059880648246316
-- sarcoidosis: 0.12947438159967053
-- disease: 0.1283200158327128
-- formation: 0.12117606129083476
-- with: 0.11971791254508825
-- made: 0.11788577085804289
-- solid: 0.11718060223918408
-- subsequent: 0.11571356980495622
-- malignancy: 0.11442716944904346
-- complete: 0.10714074333523951
-- pelvis: 0.10690256522455523
-- was: 0.10653782927825133
-- neoplasm: 0.10434155763066243
-- inferior: 0.10398476326398057
-- internal: 0.10301029729269451
-- showed: 0.10180733343518741
-- and: 0.09475227842810012
-- primary: 0.09398480736223226
-- abdomen: 0.09326253017983203
-- the: 0.09149592569267401
-- lymphoma: 0.09103023196859553
-- acute: 0.08268472774395223
-- surgery: 0.08217735426927733
-- diagnosis: 0.07923513149753893
-- demonstrates: 0.07678899058045179
-- to: 0.07642321785338209
-- male: 0.06805364762824505
-- from: 0.060704601215285495
-- of: 0.0598232119176784
-- ct: 0.05819053033349713
-- right: 0.05067531575219742
-- patient: 0.049713663081030104
-- no: 0.04970431223081383
-- year: 0.047104632306276
-- for: 0.04632694561545197
-- old: 0.04523675268714874
+\-\ Texto\\:\\ \ \(0\)\
+\-\ indurated\\,\\ right\\ testicular\\ mass\\.\ \(0\)\
+\-\ with\\ concern\\ for\\ malignancy\\,\\ subsequent\\ ct\\ of\\ the\\ abdomen\\ and\\ pelvis\\ was\\ perform\\ and\\ showed\\ no\\ metastatic\\ disease\\.\\ \\ patient\\ went\\ to\\ surgery\\ with\\ complete\\ orchiectomy\\,\\ from\\ which\\ the\\ diagnosis\\ of\\ abscess\\ was\\ made\\.\ \(0\)\
+\-\ ill\\-defined\\ hypoechoic\\ solid\\ extratesticular\\ mass\\ inferior\\ to\\ the\\ testicle\\,\\ which\\ demonstrates\\ internal\\ vascularity\\.\ \(0\)\
+\-\ acute\\ epididymitis\\ and\\ orchitis\\ with\\ testicular\\ abscess\\ formation\ \(0\)\
+\-\ primary\\ neoplasm\ \(4\)\
+\-\ metastatic\\ disease\ \(243\)\
+\-\ lymphoma\ \(373\)\
+\-\ abscess\ \(594\)\
+\-\ tuberculosis\ \(73\)\
+\-\ sarcoidosis\ \(108\)\
+\-\ 67\\ year\\ old\\ male\\ with\\ painless\\,\\ enlarging\\ scrotal\\ mass\ \(1\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ abscess\\:\\ 0\\.2944434328667721\ \(0\)\
+\-\ testicular\\:\\ 0\\.28669208208143826\ \(0\)\
+\-\ extratesticular\\:\\ 0\\.2108690364139265\ \(0\)\
+\-\ epididymitis\\:\\ 0\\.19642670008500648\ \(0\)\
+\-\ indurated\\:\\ 0\\.19428196685700366\ \(0\)\
+\-\ orchitis\\:\\ 0\\.18411359518381729\ \(0\)\
+\-\ mass\\:\\ 0\\.17515115070690135\ \(0\)\
+\-\ orchiectomy\\:\\ 0\\.17469793764228256\ \(0\)\
+\-\ metastatic\\:\\ 0\\.16765856525692008\ \(0\)\
+\-\ scrotal\\:\\ 0\\.16161259309591802\ \(0\)\
+\-\ perform\\:\\ 0\\.15765670702594395\ \(0\)\
+\-\ testicle\\:\\ 0\\.15375237929595476\ \(0\)\
+\-\ vascularity\\:\\ 0\\.15285913454788622\ \(0\)\
+\-\ 67\\:\\ 0\\.15034527404049494\ \(0\)\
+\-\ went\\:\\ 0\\.14841675412071453\ \(0\)\
+\-\ enlarging\\:\\ 0\\.14273704071180418\ \(0\)\
+\-\ painless\\:\\ 0\\.1415590549296062\ \(0\)\
+\-\ concern\\:\\ 0\\.14015586203562452\ \(0\)\
+\-\ which\\:\\ 0\\.1390026823050374\ \(0\)\
+\-\ tuberculosis\\:\\ 0\\.1345068872569326\ \(0\)\
+\-\ hypoechoic\\:\\ 0\\.13059880648246316\ \(0\)\
+\-\ sarcoidosis\\:\\ 0\\.12947438159967053\ \(0\)\
+\-\ disease\\:\\ 0\\.1283200158327128\ \(0\)\
+\-\ formation\\:\\ 0\\.12117606129083476\ \(0\)\
+\-\ with\\:\\ 0\\.11971791254508825\ \(0\)\
+\-\ made\\:\\ 0\\.11788577085804289\ \(0\)\
+\-\ solid\\:\\ 0\\.11718060223918408\ \(0\)\
+\-\ subsequent\\:\\ 0\\.11571356980495622\ \(0\)\
+\-\ malignancy\\:\\ 0\\.11442716944904346\ \(0\)\
+\-\ complete\\:\\ 0\\.10714074333523951\ \(0\)\
+\-\ pelvis\\:\\ 0\\.10690256522455523\ \(0\)\
+\-\ was\\:\\ 0\\.10653782927825133\ \(0\)\
+\-\ neoplasm\\:\\ 0\\.10434155763066243\ \(0\)\
+\-\ inferior\\:\\ 0\\.10398476326398057\ \(0\)\
+\-\ internal\\:\\ 0\\.10301029729269451\ \(0\)\
+\-\ showed\\:\\ 0\\.10180733343518741\ \(0\)\
+\-\ and\\:\\ 0\\.09475227842810012\ \(0\)\
+\-\ primary\\:\\ 0\\.09398480736223226\ \(0\)\
+\-\ abdomen\\:\\ 0\\.09326253017983203\ \(0\)\
+\-\ the\\:\\ 0\\.09149592569267401\ \(0\)\
+\-\ lymphoma\\:\\ 0\\.09103023196859553\ \(0\)\
+\-\ acute\\:\\ 0\\.08268472774395223\ \(0\)\
+\-\ surgery\\:\\ 0\\.08217735426927733\ \(0\)\
+\-\ diagnosis\\:\\ 0\\.07923513149753893\ \(0\)\
+\-\ demonstrates\\:\\ 0\\.07678899058045179\ \(0\)\
+\-\ to\\:\\ 0\\.07642321785338209\ \(0\)\
+\-\ male\\:\\ 0\\.06805364762824505\ \(0\)\
+\-\ from\\:\\ 0\\.060704601215285495\ \(0\)\
+\-\ of\\:\\ 0\\.0598232119176784\ \(0\)\
+\-\ ct\\:\\ 0\\.05819053033349713\ \(0\)\
+\-\ right\\:\\ 0\\.05067531575219742\ \(0\)\
+\-\ patient\\:\\ 0\\.049713663081030104\ \(0\)\
+\-\ no\\:\\ 0\\.04970431223081383\ \(0\)\
+\-\ year\\:\\ 0\\.047104632306276\ \(0\)\
+\-\ for\\:\\ 0\\.04632694561545197\ \(0\)\
+\-\ old\\:\\ 0\\.04523675268714874\ \(0\)\

@@ -1,86 +1,84 @@
-Texto: 
-hematuria.
-none.
-the liver is enlarged and extends inferiorly to the level of the pelvis.  incidentally noted are numerous surgical clips consistent with the surgical history.
-reidel's lobe of the liver
-hepatic enlargement:
-1. malignancy: lymphoma, hepatocellular ca, metastases
-2. vascular:  passive congestion 
-3. infxn/infl'n: hepatitis, mononucleosis, tb, sarcoid
-                 histoplasmosis
-4. metabolic: amyloid, fatty infiltration, storage
-              diseases
-hematuria and flank pain.  there is a history of colectomy and crohn's disease.
-this is a normal variant not associated with the patient's crohn's disease.  numerous laboratory evaluations, ct examinations and direct evaluation during surgery show that there is no intrinsic liver disease.
-
-
-Keywords by value: 
-- liver: 0.2540806932743345
-- crohn: 0.23902732517792422
-- hematuria: 0.21716035212473836
-- numerous: 0.2074095101727182
-- reidel: 0.19633860928697267
-- mononucleosis: 0.15964832166225032
-- evaluations: 0.15777562711992602
-- disease: 0.15460554212805677
-- storage: 0.15297304008868312
-- intrinsic: 0.15297304008868312
-- colectomy: 0.14788538385494307
-- the: 0.14698436667553322
-- amyloid: 0.13878448528153586
-- clips: 0.13805484218202554
-- histoplasmosis: 0.13666581766034241
-- is: 0.13448741108311926
-- examinations: 0.13413084285953694
-- passive: 0.1313317860935277
-- hepatocellular: 0.12621651932343014
-- hepatitis: 0.12621651932343014
-- congestion: 0.12141393229218725
-- infiltration: 0.12108533949520366
-- surgical: 0.11934206161524462
-- inferiorly: 0.11776764534076575
-- fatty: 0.11667767015207386
-- sarcoid: 0.11513970102114678
-- diseases: 0.11279800124719186
-- metabolic: 0.11129832141677258
-- tb: 0.1093224016878964
-- variant: 0.10894808946822071
-- direct: 0.1082184463687104
-- flank: 0.1076870018331386
-- ca: 0.10474756715380037
-- incidentally: 0.10459546468230453
-- and: 0.10147704050121956
-- extends: 0.10110524527426536
-- metastases: 0.09925404090860315
-- hepatic: 0.09776914803179815
-- there: 0.09770092373693834
-- enlargement: 0.09412286108037665
-- history: 0.09381176171643393
-- malignancy: 0.09191122394036973
-- laboratory: 0.08915321698680276
-- pelvis: 0.08586724341310892
-- enlarged: 0.08369507439956703
-- vascular: 0.08105196253889177
-- show: 0.0779382737994455
-- during: 0.07776329389140055
-- evaluation: 0.07487304482893997
-- level: 0.07416118569679608
-- lymphoma: 0.07311812462105192
-- of: 0.07207761042074651
-- lobe: 0.07094904550645136
-- none: 0.06709393491243236
-- consistent: 0.06656961153652692
-- surgery: 0.06600723628346104
-- noted: 0.0650933535284993
-- associated: 0.06470987059684398
-- that: 0.05327829562745947
-- normal: 0.050126844916621234
-- not: 0.04846733031408692
-- with: 0.04808045118386517
-- ct: 0.046740323040784966
-- are: 0.04658626074987643
-- pain: 0.04393221754218967
-- this: 0.042186552770801404
-- patient: 0.0399314572084335
-- no: 0.03992394633411581
-- to: 0.03069267344541738
+\-\ Texto\\:\\ \ \(0\)\
+\-\ hematuria\\.\ \(64\)\
+\-\ none\\.\ \(8\)\
+\-\ the\\ liver\\ is\\ enlarged\\ and\\ extends\\ inferiorly\\ to\\ the\\ level\\ of\\ the\\ pelvis\\.\\ \\ incidentally\\ noted\\ are\\ numerous\\ surgical\\ clips\\ consistent\\ with\\ the\\ surgical\\ history\\.\ \(0\)\
+\-\ reidel\\'s\\ lobe\\ of\\ the\\ liver\ \(0\)\
+\-\ hepatic\\ enlargement\\:\ \(0\)\
+\-\ 1\\.\\ malignancy\\:\\ lymphoma\\,\\ hepatocellular\\ ca\\,\\ metastases\ \(0\)\
+\-\ 2\\.\\ vascular\\:\\ \\ passive\\ congestion\\ \ \(0\)\
+\-\ 3\\.\\ infxn\\/infl\\'n\\:\\ hepatitis\\,\\ mononucleosis\\,\\ tb\\,\\ sarcoid\ \(0\)\
+\-\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ histoplasmosis\ \(1\)\
+\-\ 4\\.\\ metabolic\\:\\ amyloid\\,\\ fatty\\ infiltration\\,\\ storage\ \(0\)\
+\-\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ diseases\ \(1\)\
+\-\ hematuria\\ and\\ flank\\ pain\\.\\ \\ there\\ is\\ a\\ history\\ of\\ colectomy\\ and\\ crohn\\'s\\ disease\\.\ \(0\)\
+\-\ this\\ is\\ a\\ normal\\ variant\\ not\\ associated\\ with\\ the\\ patient\\'s\\ crohn\\'s\\ disease\\.\\ \\ numerous\\ laboratory\\ evaluations\\,\\ ct\\ examinations\\ and\\ direct\\ evaluation\\ during\\ surgery\\ show\\ that\\ there\\ is\\ no\\ intrinsic\\ liver\\ disease\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ liver\\:\\ 0\\.2540806932743345\ \(0\)\
+\-\ crohn\\:\\ 0\\.23902732517792422\ \(0\)\
+\-\ hematuria\\:\\ 0\\.21716035212473836\ \(0\)\
+\-\ numerous\\:\\ 0\\.2074095101727182\ \(0\)\
+\-\ reidel\\:\\ 0\\.19633860928697267\ \(0\)\
+\-\ mononucleosis\\:\\ 0\\.15964832166225032\ \(0\)\
+\-\ evaluations\\:\\ 0\\.15777562711992602\ \(0\)\
+\-\ disease\\:\\ 0\\.15460554212805677\ \(0\)\
+\-\ storage\\:\\ 0\\.15297304008868312\ \(0\)\
+\-\ intrinsic\\:\\ 0\\.15297304008868312\ \(0\)\
+\-\ colectomy\\:\\ 0\\.14788538385494307\ \(0\)\
+\-\ the\\:\\ 0\\.14698436667553322\ \(0\)\
+\-\ amyloid\\:\\ 0\\.13878448528153586\ \(0\)\
+\-\ clips\\:\\ 0\\.13805484218202554\ \(0\)\
+\-\ histoplasmosis\\:\\ 0\\.13666581766034241\ \(0\)\
+\-\ is\\:\\ 0\\.13448741108311926\ \(0\)\
+\-\ examinations\\:\\ 0\\.13413084285953694\ \(0\)\
+\-\ passive\\:\\ 0\\.1313317860935277\ \(0\)\
+\-\ hepatocellular\\:\\ 0\\.12621651932343014\ \(0\)\
+\-\ hepatitis\\:\\ 0\\.12621651932343014\ \(0\)\
+\-\ congestion\\:\\ 0\\.12141393229218725\ \(0\)\
+\-\ infiltration\\:\\ 0\\.12108533949520366\ \(0\)\
+\-\ surgical\\:\\ 0\\.11934206161524462\ \(0\)\
+\-\ inferiorly\\:\\ 0\\.11776764534076575\ \(0\)\
+\-\ fatty\\:\\ 0\\.11667767015207386\ \(0\)\
+\-\ sarcoid\\:\\ 0\\.11513970102114678\ \(0\)\
+\-\ diseases\\:\\ 0\\.11279800124719186\ \(0\)\
+\-\ metabolic\\:\\ 0\\.11129832141677258\ \(0\)\
+\-\ tb\\:\\ 0\\.1093224016878964\ \(0\)\
+\-\ variant\\:\\ 0\\.10894808946822071\ \(0\)\
+\-\ direct\\:\\ 0\\.1082184463687104\ \(0\)\
+\-\ flank\\:\\ 0\\.1076870018331386\ \(0\)\
+\-\ ca\\:\\ 0\\.10474756715380037\ \(0\)\
+\-\ incidentally\\:\\ 0\\.10459546468230453\ \(0\)\
+\-\ and\\:\\ 0\\.10147704050121956\ \(0\)\
+\-\ extends\\:\\ 0\\.10110524527426536\ \(0\)\
+\-\ metastases\\:\\ 0\\.09925404090860315\ \(0\)\
+\-\ hepatic\\:\\ 0\\.09776914803179815\ \(0\)\
+\-\ there\\:\\ 0\\.09770092373693834\ \(0\)\
+\-\ enlargement\\:\\ 0\\.09412286108037665\ \(0\)\
+\-\ history\\:\\ 0\\.09381176171643393\ \(0\)\
+\-\ malignancy\\:\\ 0\\.09191122394036973\ \(0\)\
+\-\ laboratory\\:\\ 0\\.08915321698680276\ \(0\)\
+\-\ pelvis\\:\\ 0\\.08586724341310892\ \(0\)\
+\-\ enlarged\\:\\ 0\\.08369507439956703\ \(0\)\
+\-\ vascular\\:\\ 0\\.08105196253889177\ \(0\)\
+\-\ show\\:\\ 0\\.0779382737994455\ \(0\)\
+\-\ during\\:\\ 0\\.07776329389140055\ \(0\)\
+\-\ evaluation\\:\\ 0\\.07487304482893997\ \(0\)\
+\-\ level\\:\\ 0\\.07416118569679608\ \(0\)\
+\-\ lymphoma\\:\\ 0\\.07311812462105192\ \(0\)\
+\-\ of\\:\\ 0\\.07207761042074651\ \(0\)\
+\-\ lobe\\:\\ 0\\.07094904550645136\ \(0\)\
+\-\ none\\:\\ 0\\.06709393491243236\ \(0\)\
+\-\ consistent\\:\\ 0\\.06656961153652692\ \(0\)\
+\-\ surgery\\:\\ 0\\.06600723628346104\ \(0\)\
+\-\ noted\\:\\ 0\\.0650933535284993\ \(0\)\
+\-\ associated\\:\\ 0\\.06470987059684398\ \(0\)\
+\-\ that\\:\\ 0\\.05327829562745947\ \(0\)\
+\-\ normal\\:\\ 0\\.050126844916621234\ \(0\)\
+\-\ not\\:\\ 0\\.04846733031408692\ \(0\)\
+\-\ with\\:\\ 0\\.04808045118386517\ \(0\)\
+\-\ ct\\:\\ 0\\.046740323040784966\ \(0\)\
+\-\ are\\:\\ 0\\.04658626074987643\ \(0\)\
+\-\ pain\\:\\ 0\\.04393221754218967\ \(0\)\
+\-\ this\\:\\ 0\\.042186552770801404\ \(0\)\
+\-\ patient\\:\\ 0\\.0399314572084335\ \(0\)\
+\-\ no\\:\\ 0\\.03992394633411581\ \(0\)\
+\-\ to\\:\\ 0\\.03069267344541738\ \(0\)\

@@ -1,80 +1,78 @@
-Texto: 
-markedly dilated pulmonary arteries
-pulmonary arterial hypertension
-pa chest radiograph ddx for an ap window mass:
--aneurysm 
--pseudoaneurysm (post cabg)
--enlargement of the main pulmonary artery (pah, post stenotic dilatation, etc.)
--lymphadenopathy (neoplastic, infectious, inflammatory)
--primary bronchogenic ca
-57 year old woman presenting to the emergency department with intracranial hemorrhage and a past medical history of chf, atrial fibrillation, cabg 20 years prior, hepatitis c and cirrhosis.
-the cause of underlying pulmonary arterial hypertension in this patient and associated clinical information was not provided with this image submission.
-
-
-Keywords by value: 
-- pulmonary: 0.32495939825212994
-- cabg: 0.3121569534718416
-- arterial: 0.21951697685456295
-- hypertension: 0.203954175316943
-- pah: 0.18747408350798817
-- submission: 0.1631410993341227
-- stenotic: 0.15413031232869714
-- fibrillation: 0.1491043559014851
-- chf: 0.14626882771902108
-- post: 0.14504299138129176
-- cirrhosis: 0.1403970074168187
-- window: 0.13701894830394712
-- hepatitis: 0.13701894830394712
-- information: 0.13180532470153392
-- etc: 0.1310972572513312
-- bronchogenic: 0.1281523866805481
-- ddx: 0.12666370250494027
-- 57: 0.12581399294848328
-- atrial: 0.12526421610773752
-- neoplastic: 0.12318600811230265
-- markedly: 0.11767600289042304
-- main: 0.11615582861725121
-- ca: 0.11371254385515685
-- department: 0.112738884736394
-- provided: 0.10934249338429389
-- dilatation: 0.1087991098772036
-- underlying: 0.1087991098772036
-- infectious: 0.10724090341272885
-- intracranial: 0.10724090341272885
-- arteries: 0.10578015042717563
-- presenting: 0.10440537523026487
-- pa: 0.10227987078609196
-- emergency: 0.09888228435265359
-- ap: 0.0956856678785036
-- dilated: 0.0954569766135728
-- this: 0.09159430356991537
-- cause: 0.09079601988069225
-- inflammatory: 0.09012229347764068
-- hemorrhage: 0.08923380476257498
-- radiograph: 0.08680701390374444
-- past: 0.0867546859139025
-- 20: 0.08598351235642698
-- image: 0.08523698119339106
-- medical: 0.0847042973651116
-- clinical: 0.08446612570333818
-- artery: 0.08277529198946428
-- and: 0.08262157822727867
-- years: 0.08169839918684728
-- the: 0.07978212141706825
-- of: 0.0782464801679805
-- prior: 0.0745699766736757
-- chest: 0.07035154398316744
-- associated: 0.070248161346802
-- woman: 0.06941227117780537
-- not: 0.052615479038197625
-- with: 0.05219548828082384
-- an: 0.05096553928863595
-- history: 0.05092039060270664
-- mass: 0.05090911704991947
-- was: 0.04644913949249715
-- patient: 0.04334905050679806
-- year: 0.04107404199164877
-- for: 0.040395918965710265
-- old: 0.03944529844446358
-- to: 0.03331955166146697
-- in: 0.03315555289719639
+\-\ Texto\\:\\ \ \(0\)\
+\-\ markedly\\ dilated\\ pulmonary\\ arteries\ \(0\)\
+\-\ pulmonary\\ arterial\\ hypertension\ \(11\)\
+\-\ pa\\ chest\\ radiograph\\ ddx\\ for\\ an\\ ap\\ window\\ mass\\:\ \(0\)\
+\-\ aneurysm\\ \ \(224\)\
+\-\ pseudoaneurysm\\ \\(post\\ cabg\\)\ \(0\)\
+\-\ enlargement\\ of\\ the\\ main\\ pulmonary\\ artery\\ \\(pah\\,\\ post\\ stenotic\\ dilatation\\,\\ etc\\.\\)\ \(0\)\
+\-\ lymphadenopathy\\ \\(neoplastic\\,\\ infectious\\,\\ inflammatory\\)\ \(0\)\
+\-\ primary\\ bronchogenic\\ ca\ \(2\)\
+\-\ 57\\ year\\ old\\ woman\\ presenting\\ to\\ the\\ emergency\\ department\\ with\\ intracranial\\ hemorrhage\\ and\\ a\\ past\\ medical\\ history\\ of\\ chf\\,\\ atrial\\ fibrillation\\,\\ cabg\\ 20\\ years\\ prior\\,\\ hepatitis\\ c\\ and\\ cirrhosis\\.\ \(0\)\
+\-\ the\\ cause\\ of\\ underlying\\ pulmonary\\ arterial\\ hypertension\\ in\\ this\\ patient\\ and\\ associated\\ clinical\\ information\\ was\\ not\\ provided\\ with\\ this\\ image\\ submission\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ pulmonary\\:\\ 0\\.32495939825212994\ \(0\)\
+\-\ cabg\\:\\ 0\\.3121569534718416\ \(0\)\
+\-\ arterial\\:\\ 0\\.21951697685456295\ \(0\)\
+\-\ hypertension\\:\\ 0\\.203954175316943\ \(0\)\
+\-\ pah\\:\\ 0\\.18747408350798817\ \(0\)\
+\-\ submission\\:\\ 0\\.1631410993341227\ \(0\)\
+\-\ stenotic\\:\\ 0\\.15413031232869714\ \(0\)\
+\-\ fibrillation\\:\\ 0\\.1491043559014851\ \(0\)\
+\-\ chf\\:\\ 0\\.14626882771902108\ \(0\)\
+\-\ post\\:\\ 0\\.14504299138129176\ \(0\)\
+\-\ cirrhosis\\:\\ 0\\.1403970074168187\ \(0\)\
+\-\ window\\:\\ 0\\.13701894830394712\ \(0\)\
+\-\ hepatitis\\:\\ 0\\.13701894830394712\ \(0\)\
+\-\ information\\:\\ 0\\.13180532470153392\ \(0\)\
+\-\ etc\\:\\ 0\\.1310972572513312\ \(0\)\
+\-\ bronchogenic\\:\\ 0\\.1281523866805481\ \(0\)\
+\-\ ddx\\:\\ 0\\.12666370250494027\ \(0\)\
+\-\ 57\\:\\ 0\\.12581399294848328\ \(0\)\
+\-\ atrial\\:\\ 0\\.12526421610773752\ \(0\)\
+\-\ neoplastic\\:\\ 0\\.12318600811230265\ \(0\)\
+\-\ markedly\\:\\ 0\\.11767600289042304\ \(0\)\
+\-\ main\\:\\ 0\\.11615582861725121\ \(0\)\
+\-\ ca\\:\\ 0\\.11371254385515685\ \(0\)\
+\-\ department\\:\\ 0\\.112738884736394\ \(0\)\
+\-\ provided\\:\\ 0\\.10934249338429389\ \(0\)\
+\-\ dilatation\\:\\ 0\\.1087991098772036\ \(0\)\
+\-\ underlying\\:\\ 0\\.1087991098772036\ \(0\)\
+\-\ infectious\\:\\ 0\\.10724090341272885\ \(0\)\
+\-\ intracranial\\:\\ 0\\.10724090341272885\ \(0\)\
+\-\ arteries\\:\\ 0\\.10578015042717563\ \(0\)\
+\-\ presenting\\:\\ 0\\.10440537523026487\ \(0\)\
+\-\ pa\\:\\ 0\\.10227987078609196\ \(0\)\
+\-\ emergency\\:\\ 0\\.09888228435265359\ \(0\)\
+\-\ ap\\:\\ 0\\.0956856678785036\ \(0\)\
+\-\ dilated\\:\\ 0\\.0954569766135728\ \(0\)\
+\-\ this\\:\\ 0\\.09159430356991537\ \(0\)\
+\-\ cause\\:\\ 0\\.09079601988069225\ \(0\)\
+\-\ inflammatory\\:\\ 0\\.09012229347764068\ \(0\)\
+\-\ hemorrhage\\:\\ 0\\.08923380476257498\ \(0\)\
+\-\ radiograph\\:\\ 0\\.08680701390374444\ \(0\)\
+\-\ past\\:\\ 0\\.0867546859139025\ \(0\)\
+\-\ 20\\:\\ 0\\.08598351235642698\ \(0\)\
+\-\ image\\:\\ 0\\.08523698119339106\ \(0\)\
+\-\ medical\\:\\ 0\\.0847042973651116\ \(0\)\
+\-\ clinical\\:\\ 0\\.08446612570333818\ \(0\)\
+\-\ artery\\:\\ 0\\.08277529198946428\ \(0\)\
+\-\ and\\:\\ 0\\.08262157822727867\ \(0\)\
+\-\ years\\:\\ 0\\.08169839918684728\ \(0\)\
+\-\ the\\:\\ 0\\.07978212141706825\ \(0\)\
+\-\ of\\:\\ 0\\.0782464801679805\ \(0\)\
+\-\ prior\\:\\ 0\\.0745699766736757\ \(0\)\
+\-\ chest\\:\\ 0\\.07035154398316744\ \(0\)\
+\-\ associated\\:\\ 0\\.070248161346802\ \(0\)\
+\-\ woman\\:\\ 0\\.06941227117780537\ \(0\)\
+\-\ not\\:\\ 0\\.052615479038197625\ \(0\)\
+\-\ with\\:\\ 0\\.05219548828082384\ \(0\)\
+\-\ an\\:\\ 0\\.05096553928863595\ \(0\)\
+\-\ history\\:\\ 0\\.05092039060270664\ \(0\)\
+\-\ mass\\:\\ 0\\.05090911704991947\ \(0\)\
+\-\ was\\:\\ 0\\.04644913949249715\ \(0\)\
+\-\ patient\\:\\ 0\\.04334905050679806\ \(0\)\
+\-\ year\\:\\ 0\\.04107404199164877\ \(0\)\
+\-\ for\\:\\ 0\\.040395918965710265\ \(0\)\
+\-\ old\\:\\ 0\\.03944529844446358\ \(0\)\
+\-\ to\\:\\ 0\\.03331955166146697\ \(0\)\
+\-\ in\\:\\ 0\\.03315555289719639\ \(0\)\

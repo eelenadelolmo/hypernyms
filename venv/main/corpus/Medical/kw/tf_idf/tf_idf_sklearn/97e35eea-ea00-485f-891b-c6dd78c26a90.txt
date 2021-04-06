@@ -1,81 +1,78 @@
-Texto: 
-non-contributory
-chemotherapy and whole brain radiation
-unenhanced mri is negative for leptomeningeal tumor.
-
-enhanced mri reveals multiple enhancing nodules in the basal subarachnoid spaces including the supravermian cistern.
-interestingly the post contrast flair scans show more extensive involvement than the t1 contrast scans.
-leptomeningeal carcinomatosis
-meningitis
-sarcoidosis
-leptomeningeal carcinomatosis
-zuckerguss
-61 year old woman treated with gamma knife for cns metastatic lesion four months prior to current exam.  now presents with visual problems and numbness and tingling in lower extremities
-
-
-Keywords by value: 
-- leptomeningeal: 0.4192013139050124
-- carcinomatosis: 0.2862603914149829
-- scans: 0.22998931574336048
-- supravermian: 0.211345253129676
-- zuckerguss: 0.20195167227166116
-- interestingly: 0.15377637464266325
-- knife: 0.14639862298665524
-- unenhanced: 0.1443827937846484
-- gamma: 0.1425284106784571
-- tingling: 0.1397337713016708
-- whole: 0.13870393860425653
-- mri: 0.13567371124998992
-- 61: 0.13414666840355832
-- contrast: 0.12842322008854312
-- cistern: 0.12832436124164912
-- meningitis: 0.12447891368299692
-- cns: 0.12341355720505601
-- spaces: 0.12025499342042703
-- subarachnoid: 0.11893078038363424
-- numbness: 0.11747584546581225
-- current: 0.11573019333155307
-- problems: 0.11463546585502839
-- basal: 0.11308465067875781
-- visual: 0.11275368189289989
-- flair: 0.11242737479446534
-- sarcoidosis: 0.11194637299790086
-- four: 0.1070962681032048
-- the: 0.10547916273815586
-- nodules: 0.10500548069069005
-- extensive: 0.10182386933054878
-- enhanced: 0.1006252871813221
-- reveals: 0.10052814900549428
-- extremities: 0.10043141641822038
-- involvement: 0.09565113340851092
-- including: 0.0945769546071602
-- chemotherapy: 0.0938390762822407
-- now: 0.09071827985945659
-- radiation: 0.08757714642248554
-- show: 0.08389528816799426
-- enhancing: 0.08278747134186697
-- brain: 0.08238532664697316
-- t1: 0.08234107177010792
-- treated: 0.08229690126865491
-- and: 0.08192488562030747
-- negative: 0.08181650397889406
-- for: 0.0801105743027399
-- months: 0.07692513406892859
-- than: 0.0749151382853069
-- prior: 0.07394117784696179
-- more: 0.07256744898567921
-- metastatic: 0.07248062532005882
-- post: 0.07190997033639544
-- tumor: 0.06912494120614604
-- woman: 0.06882696383800088
-- lower: 0.06753155321091373
-- exam: 0.06652709389893963
-- in: 0.06575194851177645
-- multiple: 0.06464008182631625
-- presents: 0.0635735684523678
-- lesion: 0.06335823810547644
-- with: 0.0517553585764206
-- year: 0.040727692018578926
-- old: 0.039112682578298044
-- is: 0.03619165384910689
-- to: 0.03303859012807333
+\-\ Texto\\:\\ \ \(0\)\
+\-\ non\\-contributory\ \(73\)\
+\-\ chemotherapy\\ and\\ whole\\ brain\\ radiation\ \(0\)\
+\-\ unenhanced\\ mri\\ is\\ negative\\ for\\ leptomeningeal\\ tumor\\.\ \(0\)\
+\-\ enhanced\\ mri\\ reveals\\ multiple\\ enhancing\\ nodules\\ in\\ the\\ basal\\ subarachnoid\\ spaces\\ including\\ the\\ supravermian\\ cistern\\.\ \(0\)\
+\-\ interestingly\\ the\\ post\\ contrast\\ flair\\ scans\\ show\\ more\\ extensive\\ involvement\\ than\\ the\\ t1\\ contrast\\ scans\\.\ \(0\)\
+\-\ leptomeningeal\\ carcinomatosis\ \(1\)\
+\-\ meningitis\ \(79\)\
+\-\ sarcoidosis\ \(108\)\
+\-\ leptomeningeal\\ carcinomatosis\ \(1\)\
+\-\ zuckerguss\ \(1\)\
+\-\ 61\\ year\\ old\\ woman\\ treated\\ with\\ gamma\\ knife\\ for\\ cns\\ metastatic\\ lesion\\ four\\ months\\ prior\\ to\\ current\\ exam\\.\\ \\ now\\ presents\\ with\\ visual\\ problems\\ and\\ numbness\\ and\\ tingling\\ in\\ lower\\ extremities\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ leptomeningeal\\:\\ 0\\.4192013139050124\ \(0\)\
+\-\ carcinomatosis\\:\\ 0\\.2862603914149829\ \(0\)\
+\-\ scans\\:\\ 0\\.22998931574336048\ \(0\)\
+\-\ supravermian\\:\\ 0\\.211345253129676\ \(0\)\
+\-\ zuckerguss\\:\\ 0\\.20195167227166116\ \(0\)\
+\-\ interestingly\\:\\ 0\\.15377637464266325\ \(0\)\
+\-\ knife\\:\\ 0\\.14639862298665524\ \(0\)\
+\-\ unenhanced\\:\\ 0\\.1443827937846484\ \(0\)\
+\-\ gamma\\:\\ 0\\.1425284106784571\ \(0\)\
+\-\ tingling\\:\\ 0\\.1397337713016708\ \(0\)\
+\-\ whole\\:\\ 0\\.13870393860425653\ \(0\)\
+\-\ mri\\:\\ 0\\.13567371124998992\ \(0\)\
+\-\ 61\\:\\ 0\\.13414666840355832\ \(0\)\
+\-\ contrast\\:\\ 0\\.12842322008854312\ \(0\)\
+\-\ cistern\\:\\ 0\\.12832436124164912\ \(0\)\
+\-\ meningitis\\:\\ 0\\.12447891368299692\ \(0\)\
+\-\ cns\\:\\ 0\\.12341355720505601\ \(0\)\
+\-\ spaces\\:\\ 0\\.12025499342042703\ \(0\)\
+\-\ subarachnoid\\:\\ 0\\.11893078038363424\ \(0\)\
+\-\ numbness\\:\\ 0\\.11747584546581225\ \(0\)\
+\-\ current\\:\\ 0\\.11573019333155307\ \(0\)\
+\-\ problems\\:\\ 0\\.11463546585502839\ \(0\)\
+\-\ basal\\:\\ 0\\.11308465067875781\ \(0\)\
+\-\ visual\\:\\ 0\\.11275368189289989\ \(0\)\
+\-\ flair\\:\\ 0\\.11242737479446534\ \(0\)\
+\-\ sarcoidosis\\:\\ 0\\.11194637299790086\ \(0\)\
+\-\ four\\:\\ 0\\.1070962681032048\ \(0\)\
+\-\ the\\:\\ 0\\.10547916273815586\ \(0\)\
+\-\ nodules\\:\\ 0\\.10500548069069005\ \(0\)\
+\-\ extensive\\:\\ 0\\.10182386933054878\ \(0\)\
+\-\ enhanced\\:\\ 0\\.1006252871813221\ \(0\)\
+\-\ reveals\\:\\ 0\\.10052814900549428\ \(0\)\
+\-\ extremities\\:\\ 0\\.10043141641822038\ \(0\)\
+\-\ involvement\\:\\ 0\\.09565113340851092\ \(0\)\
+\-\ including\\:\\ 0\\.0945769546071602\ \(0\)\
+\-\ chemotherapy\\:\\ 0\\.0938390762822407\ \(0\)\
+\-\ now\\:\\ 0\\.09071827985945659\ \(0\)\
+\-\ radiation\\:\\ 0\\.08757714642248554\ \(0\)\
+\-\ show\\:\\ 0\\.08389528816799426\ \(0\)\
+\-\ enhancing\\:\\ 0\\.08278747134186697\ \(0\)\
+\-\ brain\\:\\ 0\\.08238532664697316\ \(0\)\
+\-\ t1\\:\\ 0\\.08234107177010792\ \(0\)\
+\-\ treated\\:\\ 0\\.08229690126865491\ \(0\)\
+\-\ and\\:\\ 0\\.08192488562030747\ \(0\)\
+\-\ negative\\:\\ 0\\.08181650397889406\ \(0\)\
+\-\ for\\:\\ 0\\.0801105743027399\ \(0\)\
+\-\ months\\:\\ 0\\.07692513406892859\ \(0\)\
+\-\ than\\:\\ 0\\.0749151382853069\ \(0\)\
+\-\ prior\\:\\ 0\\.07394117784696179\ \(0\)\
+\-\ more\\:\\ 0\\.07256744898567921\ \(0\)\
+\-\ metastatic\\:\\ 0\\.07248062532005882\ \(0\)\
+\-\ post\\:\\ 0\\.07190997033639544\ \(0\)\
+\-\ tumor\\:\\ 0\\.06912494120614604\ \(0\)\
+\-\ woman\\:\\ 0\\.06882696383800088\ \(0\)\
+\-\ lower\\:\\ 0\\.06753155321091373\ \(0\)\
+\-\ exam\\:\\ 0\\.06652709389893963\ \(0\)\
+\-\ in\\:\\ 0\\.06575194851177645\ \(0\)\
+\-\ multiple\\:\\ 0\\.06464008182631625\ \(0\)\
+\-\ presents\\:\\ 0\\.0635735684523678\ \(0\)\
+\-\ lesion\\:\\ 0\\.06335823810547644\ \(0\)\
+\-\ with\\:\\ 0\\.0517553585764206\ \(0\)\
+\-\ year\\:\\ 0\\.040727692018578926\ \(0\)\
+\-\ old\\:\\ 0\\.039112682578298044\ \(0\)\
+\-\ is\\:\\ 0\\.03619165384910689\ \(0\)\
+\-\ to\\:\\ 0\\.03303859012807333\ \(0\)\

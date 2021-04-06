@@ -1,100 +1,98 @@
-Texto: 
-the treating physician was called immediately and the endotracheal tube was adjusted.
-the initial portable cxr demonstrates near complete opacification of the left hemithorax with leftward shift of the mediastinum and the tip of the endotracheal tube at the level of the carina.  an enteric tube is also noted.  no pneumothorax is present.  the follow up portable cxr (one hour later) demonstrates interval drawback of the endotracheal tube tip to an appropriate position with interval resolution of the perviously seen opacification and mediastinal shift.
-obstructive atelectasis
-*obstructive atelectasis of nearly the entire left lung.
-*large pneumonia (less likely given leftward mediastinal shift)
-*large pleural effusion (although much less likely given ett location and again, leftward shift of the mediastinum)
-status post fall from three stories, intubated upon arrival to the ed.
-this is a case of obstructive atelectasis secondary to inappropriate endotracheal tube placement at the carina causing near complete ventilation of the right lung and obstruction of the left mainsetm bronchus.
-
-
-Keywords by value: 
-- endotracheal: 0.3423913993655366
-- tube: 0.2881120629434882
-- leftward: 0.28131668407924787
-- the: 0.25900149913337006
-- shift: 0.2534201478629674
-- obstructive: 0.2011831712541438
-- atelectasis: 0.1926372618152652
-- carina: 0.18534453640672163
-- of: 0.1552321555813083
-- portable: 0.1530758473342287
-- opacification: 0.13867626680531123
-- tip: 0.1355509195268971
-- interval: 0.1305040774460523
-- mediastinum: 0.12909909787307688
-- near: 0.11744474482350556
-- mediastinal: 0.11645864833634927
-- cxr: 0.11537685224733109
-- perviously: 0.11532290880825961
-- ett: 0.11532290880825961
-- mainsetm: 0.11532290880825961
-- drawback: 0.11019719601069242
-- stories: 0.10373956159356741
-- adjusted: 0.10143473210702661
-- complete: 0.10109598845344193
-- given: 0.0992115598792733
-- less: 0.0981180650705047
-- inappropriate: 0.09630901930945941
-- lung: 0.0877332189734608
-- likely: 0.0861847886528818
-- arrival: 0.08196109873528556
-- treating: 0.07914021542425916
-- ventilation: 0.07714001665944714
-- intubated: 0.07624730021908437
-- bronchus: 0.07624730021908437
-- enteric: 0.07568536045231421
-- and: 0.07450538848646296
-- left: 0.07379700594608105
-- hemithorax: 0.07342641690805796
-- demonstrates: 0.07245664593517412
-- large: 0.07226345969296254
-- nearly: 0.07191194246682037
-- hour: 0.06837755275578133
-- called: 0.0673419922733205
-- immediately: 0.06599587462394994
-- entire: 0.06561848650299527
-- again: 0.06432380073722149
-- appropriate: 0.06335503696574185
-- physician: 0.06325183995821412
-- pneumothorax: 0.0628472754099824
-- much: 0.06245525754174077
-- fall: 0.06008625754573439
-- is: 0.05924514605350177
-- causing: 0.05923543379612032
-- resolution: 0.05850870710196278
-- ed: 0.057688426123665544
-- position: 0.05749141076125459
-- pneumonia: 0.05691814342811737
-- upon: 0.056732689296974344
-- placement: 0.05631025885935993
-- an: 0.055150831813109265
-- at: 0.054475288247888394
-- pleural: 0.054285475453185614
-- to: 0.054083632256772055
-- effusion: 0.0535488653673884
-- later: 0.051606976499407146
-- obstruction: 0.050510426403471746
-- status: 0.05032424390385539
-- was: 0.05026354504965591
-- location: 0.050213836536388994
-- although: 0.049092520139523074
-- three: 0.04840726122490039
-- initial: 0.04837553833944594
-- level: 0.043559866733717825
-- secondary: 0.04274264610401224
-- one: 0.0412875487864506
-- post: 0.03923848219302326
-- follow: 0.03887467109326387
-- noted: 0.0382337172512967
-- present: 0.03700304847024493
-- case: 0.03622832296758706
-- up: 0.03567112685068714
-- seen: 0.03394978163286246
-- also: 0.033919453997637614
-- from: 0.02863985946190832
-- with: 0.028240892137686973
-- this: 0.02477900804019175
-- right: 0.02390813698262654
-- no: 0.02345002666095883
+\-\ Texto\\:\\ \ \(0\)\
+\-\ the\\ treating\\ physician\\ was\\ called\\ immediately\\ and\\ the\\ endotracheal\\ tube\\ was\\ adjusted\\.\ \(0\)\
+\-\ the\\ initial\\ portable\\ cxr\\ demonstrates\\ near\\ complete\\ opacification\\ of\\ the\\ left\\ hemithorax\\ with\\ leftward\\ shift\\ of\\ the\\ mediastinum\\ and\\ the\\ tip\\ of\\ the\\ endotracheal\\ tube\\ at\\ the\\ level\\ of\\ the\\ carina\\.\\ \\ an\\ enteric\\ tube\\ is\\ also\\ noted\\.\\ \\ no\\ pneumothorax\\ is\\ present\\.\\ \\ the\\ follow\\ up\\ portable\\ cxr\\ \\(one\\ hour\\ later\\)\\ demonstrates\\ interval\\ drawback\\ of\\ the\\ endotracheal\\ tube\\ tip\\ to\\ an\\ appropriate\\ position\\ with\\ interval\\ resolution\\ of\\ the\\ perviously\\ seen\\ opacification\\ and\\ mediastinal\\ shift\\.\ \(0\)\
+\-\ obstructive\\ atelectasis\ \(3\)\
+\-\ \\*obstructive\\ atelectasis\\ of\\ nearly\\ the\\ entire\\ left\\ lung\\.\ \(0\)\
+\-\ \\*large\\ pneumonia\\ \\(less\\ likely\\ given\\ leftward\\ mediastinal\\ shift\\)\ \(0\)\
+\-\ \\*large\\ pleural\\ effusion\\ \\(although\\ much\\ less\\ likely\\ given\\ ett\\ location\\ and\\ again\\,\\ leftward\\ shift\\ of\\ the\\ mediastinum\\)\ \(0\)\
+\-\ status\\ post\\ fall\\ from\\ three\\ stories\\,\\ intubated\\ upon\\ arrival\\ to\\ the\\ ed\\.\ \(0\)\
+\-\ this\\ is\\ a\\ case\\ of\\ obstructive\\ atelectasis\\ secondary\\ to\\ inappropriate\\ endotracheal\\ tube\\ placement\\ at\\ the\\ carina\\ causing\\ near\\ complete\\ ventilation\\ of\\ the\\ right\\ lung\\ and\\ obstruction\\ of\\ the\\ left\\ mainsetm\\ bronchus\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ endotracheal\\:\\ 0\\.3423913993655366\ \(0\)\
+\-\ tube\\:\\ 0\\.2881120629434882\ \(0\)\
+\-\ leftward\\:\\ 0\\.28131668407924787\ \(0\)\
+\-\ the\\:\\ 0\\.25900149913337006\ \(0\)\
+\-\ shift\\:\\ 0\\.2534201478629674\ \(0\)\
+\-\ obstructive\\:\\ 0\\.2011831712541438\ \(0\)\
+\-\ atelectasis\\:\\ 0\\.1926372618152652\ \(0\)\
+\-\ carina\\:\\ 0\\.18534453640672163\ \(0\)\
+\-\ of\\:\\ 0\\.1552321555813083\ \(0\)\
+\-\ portable\\:\\ 0\\.1530758473342287\ \(0\)\
+\-\ opacification\\:\\ 0\\.13867626680531123\ \(0\)\
+\-\ tip\\:\\ 0\\.1355509195268971\ \(0\)\
+\-\ interval\\:\\ 0\\.1305040774460523\ \(0\)\
+\-\ mediastinum\\:\\ 0\\.12909909787307688\ \(0\)\
+\-\ near\\:\\ 0\\.11744474482350556\ \(0\)\
+\-\ mediastinal\\:\\ 0\\.11645864833634927\ \(0\)\
+\-\ cxr\\:\\ 0\\.11537685224733109\ \(0\)\
+\-\ perviously\\:\\ 0\\.11532290880825961\ \(0\)\
+\-\ ett\\:\\ 0\\.11532290880825961\ \(0\)\
+\-\ mainsetm\\:\\ 0\\.11532290880825961\ \(0\)\
+\-\ drawback\\:\\ 0\\.11019719601069242\ \(0\)\
+\-\ stories\\:\\ 0\\.10373956159356741\ \(0\)\
+\-\ adjusted\\:\\ 0\\.10143473210702661\ \(0\)\
+\-\ complete\\:\\ 0\\.10109598845344193\ \(0\)\
+\-\ given\\:\\ 0\\.0992115598792733\ \(0\)\
+\-\ less\\:\\ 0\\.0981180650705047\ \(0\)\
+\-\ inappropriate\\:\\ 0\\.09630901930945941\ \(0\)\
+\-\ lung\\:\\ 0\\.0877332189734608\ \(0\)\
+\-\ likely\\:\\ 0\\.0861847886528818\ \(0\)\
+\-\ arrival\\:\\ 0\\.08196109873528556\ \(0\)\
+\-\ treating\\:\\ 0\\.07914021542425916\ \(0\)\
+\-\ ventilation\\:\\ 0\\.07714001665944714\ \(0\)\
+\-\ intubated\\:\\ 0\\.07624730021908437\ \(0\)\
+\-\ bronchus\\:\\ 0\\.07624730021908437\ \(0\)\
+\-\ enteric\\:\\ 0\\.07568536045231421\ \(0\)\
+\-\ and\\:\\ 0\\.07450538848646296\ \(0\)\
+\-\ left\\:\\ 0\\.07379700594608105\ \(0\)\
+\-\ hemithorax\\:\\ 0\\.07342641690805796\ \(0\)\
+\-\ demonstrates\\:\\ 0\\.07245664593517412\ \(0\)\
+\-\ large\\:\\ 0\\.07226345969296254\ \(0\)\
+\-\ nearly\\:\\ 0\\.07191194246682037\ \(0\)\
+\-\ hour\\:\\ 0\\.06837755275578133\ \(0\)\
+\-\ called\\:\\ 0\\.0673419922733205\ \(0\)\
+\-\ immediately\\:\\ 0\\.06599587462394994\ \(0\)\
+\-\ entire\\:\\ 0\\.06561848650299527\ \(0\)\
+\-\ again\\:\\ 0\\.06432380073722149\ \(0\)\
+\-\ appropriate\\:\\ 0\\.06335503696574185\ \(0\)\
+\-\ physician\\:\\ 0\\.06325183995821412\ \(0\)\
+\-\ pneumothorax\\:\\ 0\\.0628472754099824\ \(0\)\
+\-\ much\\:\\ 0\\.06245525754174077\ \(0\)\
+\-\ fall\\:\\ 0\\.06008625754573439\ \(0\)\
+\-\ is\\:\\ 0\\.05924514605350177\ \(0\)\
+\-\ causing\\:\\ 0\\.05923543379612032\ \(0\)\
+\-\ resolution\\:\\ 0\\.05850870710196278\ \(0\)\
+\-\ ed\\:\\ 0\\.057688426123665544\ \(0\)\
+\-\ position\\:\\ 0\\.05749141076125459\ \(0\)\
+\-\ pneumonia\\:\\ 0\\.05691814342811737\ \(0\)\
+\-\ upon\\:\\ 0\\.056732689296974344\ \(0\)\
+\-\ placement\\:\\ 0\\.05631025885935993\ \(0\)\
+\-\ an\\:\\ 0\\.055150831813109265\ \(0\)\
+\-\ at\\:\\ 0\\.054475288247888394\ \(0\)\
+\-\ pleural\\:\\ 0\\.054285475453185614\ \(0\)\
+\-\ to\\:\\ 0\\.054083632256772055\ \(0\)\
+\-\ effusion\\:\\ 0\\.0535488653673884\ \(0\)\
+\-\ later\\:\\ 0\\.051606976499407146\ \(0\)\
+\-\ obstruction\\:\\ 0\\.050510426403471746\ \(0\)\
+\-\ status\\:\\ 0\\.05032424390385539\ \(0\)\
+\-\ was\\:\\ 0\\.05026354504965591\ \(0\)\
+\-\ location\\:\\ 0\\.050213836536388994\ \(0\)\
+\-\ although\\:\\ 0\\.049092520139523074\ \(0\)\
+\-\ three\\:\\ 0\\.04840726122490039\ \(0\)\
+\-\ initial\\:\\ 0\\.04837553833944594\ \(0\)\
+\-\ level\\:\\ 0\\.043559866733717825\ \(0\)\
+\-\ secondary\\:\\ 0\\.04274264610401224\ \(0\)\
+\-\ one\\:\\ 0\\.0412875487864506\ \(0\)\
+\-\ post\\:\\ 0\\.03923848219302326\ \(0\)\
+\-\ follow\\:\\ 0\\.03887467109326387\ \(0\)\
+\-\ noted\\:\\ 0\\.0382337172512967\ \(0\)\
+\-\ present\\:\\ 0\\.03700304847024493\ \(0\)\
+\-\ case\\:\\ 0\\.03622832296758706\ \(0\)\
+\-\ up\\:\\ 0\\.03567112685068714\ \(0\)\
+\-\ seen\\:\\ 0\\.03394978163286246\ \(0\)\
+\-\ also\\:\\ 0\\.033919453997637614\ \(0\)\
+\-\ from\\:\\ 0\\.02863985946190832\ \(0\)\
+\-\ with\\:\\ 0\\.028240892137686973\ \(0\)\
+\-\ this\\:\\ 0\\.02477900804019175\ \(0\)\
+\-\ right\\:\\ 0\\.02390813698262654\ \(0\)\
+\-\ no\\:\\ 0\\.02345002666095883\ \(0\)\

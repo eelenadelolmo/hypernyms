@@ -1,50 +1,48 @@
-Texto: 
-normal between seizures.
-the lesion was resected completely
-â€¢ solitary ring-enhancing lesion in the right temporal lobe.
-â€¢ thin and smooth rim of enhancement
-â€¢ small chunk of calcification in the lateral/peripheral rim
-cysticercosis
-â€¢ abscess - chronic (because of calcification)
-â€¢ neoplasm (astrocytoma, oligodendroglioma)
-43 year old man presents with a new onset of seizures.
-
-
-Keywords by value: 
-- seizures: 0.3139284261981614
-- chunk: 0.30750023048937986
-- rim: 0.3062468015201839
-- calcification: 0.2745612080749902
-- cysticercosis: 0.21199879116291132
-- oligodendroglioma: 0.20180956259483065
-- lesion: 0.1843682082500424
-- 43: 0.17994345560630726
-- resected: 0.17597324649479665
-- solitary: 0.17597324649479665
-- completely: 0.17181440892323213
-- smooth: 0.15875442941671178
-- of: 0.15051467732535534
-- thin: 0.14967580394421984
-- temporal: 0.14770579786023896
-- astrocytoma: 0.14515525088775
-- because: 0.13438367226834258
-- new: 0.13302351814889624
-- neoplasm: 0.13126122265062756
-- between: 0.12493530468444043
-- abscess: 0.12346951645206819
-- onset: 0.12346951645206819
-- the: 0.11510147391591237
-- chronic: 0.1141328964130587
-- lobe: 0.11111848008634577
-- enhancement: 0.11067397494804655
-- man: 0.10179629697432468
-- small: 0.09918535482936468
-- in: 0.09566687220597946
-- presents: 0.0924974025328157
-- normal: 0.07850731153462016
-- was: 0.0670120613835728
-- right: 0.06374932533962223
-- year: 0.05925742119852217
-- old: 0.05690763681597829
-- and: 0.0397326504664913
-- with: 0.037651152452297894
+\-\ Texto\\:\\ \ \(0\)\
+\-\ normal\\ between\\ seizures\\.\ \(0\)\
+\-\ the\\ lesion\\ was\\ resected\\ completely\ \(0\)\
+\-\ \\â\\€\\¢\\ solitary\\ ring\\-enhancing\\ lesion\\ in\\ the\\ right\\ temporal\\ lobe\\.\ \(0\)\
+\-\ \\â\\€\\¢\\ thin\\ and\\ smooth\\ rim\\ of\\ enhancement\ \(0\)\
+\-\ \\â\\€\\¢\\ small\\ chunk\\ of\\ calcification\\ in\\ the\\ lateral\\/peripheral\\ rim\ \(0\)\
+\-\ cysticercosis\ \(25\)\
+\-\ \\â\\€\\¢\\ abscess\\ \\-\\ chronic\\ \\(because\\ of\\ calcification\\)\ \(0\)\
+\-\ \\â\\€\\¢\\ neoplasm\\ \\(astrocytoma\\,\\ oligodendroglioma\\)\ \(0\)\
+\-\ 43\\ year\\ old\\ man\\ presents\\ with\\ a\\ new\\ onset\\ of\\ seizures\\.\ \(1\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ seizures\\:\\ 0\\.3139284261981614\ \(0\)\
+\-\ chunk\\:\\ 0\\.30750023048937986\ \(0\)\
+\-\ rim\\:\\ 0\\.3062468015201839\ \(0\)\
+\-\ calcification\\:\\ 0\\.2745612080749902\ \(0\)\
+\-\ cysticercosis\\:\\ 0\\.21199879116291132\ \(0\)\
+\-\ oligodendroglioma\\:\\ 0\\.20180956259483065\ \(0\)\
+\-\ lesion\\:\\ 0\\.1843682082500424\ \(0\)\
+\-\ 43\\:\\ 0\\.17994345560630726\ \(0\)\
+\-\ resected\\:\\ 0\\.17597324649479665\ \(0\)\
+\-\ solitary\\:\\ 0\\.17597324649479665\ \(0\)\
+\-\ completely\\:\\ 0\\.17181440892323213\ \(0\)\
+\-\ smooth\\:\\ 0\\.15875442941671178\ \(0\)\
+\-\ of\\:\\ 0\\.15051467732535534\ \(0\)\
+\-\ thin\\:\\ 0\\.14967580394421984\ \(0\)\
+\-\ temporal\\:\\ 0\\.14770579786023896\ \(0\)\
+\-\ astrocytoma\\:\\ 0\\.14515525088775\ \(0\)\
+\-\ because\\:\\ 0\\.13438367226834258\ \(0\)\
+\-\ new\\:\\ 0\\.13302351814889624\ \(0\)\
+\-\ neoplasm\\:\\ 0\\.13126122265062756\ \(0\)\
+\-\ between\\:\\ 0\\.12493530468444043\ \(0\)\
+\-\ abscess\\:\\ 0\\.12346951645206819\ \(0\)\
+\-\ onset\\:\\ 0\\.12346951645206819\ \(0\)\
+\-\ the\\:\\ 0\\.11510147391591237\ \(0\)\
+\-\ chronic\\:\\ 0\\.1141328964130587\ \(0\)\
+\-\ lobe\\:\\ 0\\.11111848008634577\ \(0\)\
+\-\ enhancement\\:\\ 0\\.11067397494804655\ \(0\)\
+\-\ man\\:\\ 0\\.10179629697432468\ \(0\)\
+\-\ small\\:\\ 0\\.09918535482936468\ \(0\)\
+\-\ in\\:\\ 0\\.09566687220597946\ \(0\)\
+\-\ presents\\:\\ 0\\.0924974025328157\ \(0\)\
+\-\ normal\\:\\ 0\\.07850731153462016\ \(0\)\
+\-\ was\\:\\ 0\\.0670120613835728\ \(0\)\
+\-\ right\\:\\ 0\\.06374932533962223\ \(0\)\
+\-\ year\\:\\ 0\\.05925742119852217\ \(0\)\
+\-\ old\\:\\ 0\\.05690763681597829\ \(0\)\
+\-\ and\\:\\ 0\\.0397326504664913\ \(0\)\
+\-\ with\\:\\ 0\\.037651152452297894\ \(0\)\

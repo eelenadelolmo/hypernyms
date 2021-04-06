@@ -1,82 +1,79 @@
-Texto: 
->>tissue culture negative for bacteria
-surgical removal of skull cap from abdomen and cranioplasty using prosthetic plastic material.
-skull cap within the left lower anterior abdominal wall.  there is a 10x6x1.5 cm nonenhancing fluid collection just posterior to the skull cap.
-skull cap in anterior abdominal wall with underlying liquified hematoma.
->> liquified hematoma
->> abscess
->> proteinaceous fluid collection
-26 yo man developed persistent gi symptoms after craniocerebral trauma.
-patient had a craniectomy for intracranial hypertension.  the removed skull cap was placed subcutaneously in his abdominal wall for preservation. 
-
-there is a companion case:
-http://rad.usuhs.mil/medpix/medpix.html?mode=pt&pt_id=6414#top
-
-
-Keywords by value: 
-- cap: 0.5038214839184408
-- skull: 0.3635261546812241
-- liquified: 0.28660960504672445
-- wall: 0.16353114593173826
-- abdominal: 0.14702913401144155
-- collection: 0.14471611733039222
-- craniocerebral: 0.14330480252336222
-- cranioplasty: 0.13693538930063376
-- subcutaneously: 0.13693538930063376
-- hematoma: 0.12543941282701607
-- prosthetic: 0.11652507518557129
-- craniectomy: 0.11515822165355857
-- proteinaceous: 0.10968670457435038
-- plastic: 0.10636726990938869
-- nonenhancing: 0.10493820280740737
-- fluid: 0.10347688882065921
-- anterior: 0.10006521018356723
-- bacteria: 0.09926707813930521
-- preservation: 0.09790022460729252
-- companion: 0.09664284124570666
-- top: 0.08745417443870918
-- culture: 0.08679496278454316
-- for: 0.08147968686651769
-- removed: 0.07612305696021732
-- material: 0.07548178809028018
-- gi: 0.07527372006984495
-- using: 0.07370151843877591
-- underlying: 0.07315027219849701
-- 26: 0.07279323624139993
-- intracranial: 0.07210262367318801
-- just: 0.07168591738594235
-- there: 0.07131053659450061
-- placed: 0.06982653902321038
-- persistent: 0.06904271219957682
-- hypertension: 0.06856353630692877
-- removal: 0.06849626037590299
-- developed: 0.06648276832567507
-- http: 0.06624830269115603
-- abscess: 0.05754068751317487
-- yo: 0.055982816647172556
-- negative: 0.0554765142449323
-- abdomen: 0.0546766153367792
-- his: 0.05434588931314213
-- the: 0.05364091585693112
-- trauma: 0.05204166952880823
-- cm: 0.05146364604636344
-- is: 0.049080239381178635
-- symptoms: 0.04902914103150361
-- man: 0.04744028390580005
-- tissue: 0.04700702682765288
-- posterior: 0.04633774963817993
-- lower: 0.04579045781098285
-- case: 0.045018745384358655
-- had: 0.04464665537159626
-- in: 0.0445837787103028
-- surgical: 0.04355305009700483
-- after: 0.04347094761454748
-- within: 0.041271287210173736
-- from: 0.0355890208363498
-- was: 0.031229733415071344
-- left: 0.03056769169053166
-- patient: 0.029145411646268292
-- to: 0.022402152704365835
-- and: 0.018516667840439104
-- with: 0.017546624138676546
-- of: 0.01753614629544365
+\-\ Texto\\:\\ \ \(0\)\
+\-\ \\>\\>tissue\\ culture\\ negative\\ for\\ bacteria\ \(1\)\
+\-\ surgical\\ removal\\ of\\ skull\\ cap\\ from\\ abdomen\\ and\\ cranioplasty\\ using\\ prosthetic\\ plastic\\ material\\.\ \(0\)\
+\-\ skull\\ cap\\ within\\ the\\ left\\ lower\\ anterior\\ abdominal\\ wall\\.\\ \\ there\\ is\\ a\\ 10x6x1\\.5\\ cm\\ nonenhancing\\ fluid\\ collection\\ just\\ posterior\\ to\\ the\\ skull\\ cap\\.\ \(0\)\
+\-\ skull\\ cap\\ in\\ anterior\\ abdominal\\ wall\\ with\\ underlying\\ liquified\\ hematoma\\.\ \(0\)\
+\-\ \\>\\>\\ liquified\\ hematoma\ \(0\)\
+\-\ \\>\\>\\ abscess\ \(0\)\
+\-\ \\>\\>\\ proteinaceous\\ fluid\\ collection\ \(0\)\
+\-\ 26\\ yo\\ man\\ developed\\ persistent\\ gi\\ symptoms\\ after\\ craniocerebral\\ trauma\\.\ \(0\)\
+\-\ patient\\ had\\ a\\ craniectomy\\ for\\ intracranial\\ hypertension\\.\\ \\ the\\ removed\\ skull\\ cap\\ was\\ placed\\ subcutaneously\\ in\\ his\\ abdominal\\ wall\\ for\\ preservation\\.\\ \ \(0\)\
+\-\ there\\ is\\ a\\ companion\\ case\\:\ \(0\)\
+\-\ http\\:\\/\\/rad\\.usuhs\\.mil\\/medpix\\/medpix\\.html\\?mode\\=pt\\&pt\\_id\\=6414\\#top\ \(1\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ cap\\:\\ 0\\.5038214839184408\ \(0\)\
+\-\ skull\\:\\ 0\\.3635261546812241\ \(0\)\
+\-\ liquified\\:\\ 0\\.28660960504672445\ \(0\)\
+\-\ wall\\:\\ 0\\.16353114593173826\ \(0\)\
+\-\ abdominal\\:\\ 0\\.14702913401144155\ \(0\)\
+\-\ collection\\:\\ 0\\.14471611733039222\ \(0\)\
+\-\ craniocerebral\\:\\ 0\\.14330480252336222\ \(0\)\
+\-\ cranioplasty\\:\\ 0\\.13693538930063376\ \(0\)\
+\-\ subcutaneously\\:\\ 0\\.13693538930063376\ \(0\)\
+\-\ hematoma\\:\\ 0\\.12543941282701607\ \(0\)\
+\-\ prosthetic\\:\\ 0\\.11652507518557129\ \(0\)\
+\-\ craniectomy\\:\\ 0\\.11515822165355857\ \(0\)\
+\-\ proteinaceous\\:\\ 0\\.10968670457435038\ \(0\)\
+\-\ plastic\\:\\ 0\\.10636726990938869\ \(0\)\
+\-\ nonenhancing\\:\\ 0\\.10493820280740737\ \(0\)\
+\-\ fluid\\:\\ 0\\.10347688882065921\ \(0\)\
+\-\ anterior\\:\\ 0\\.10006521018356723\ \(0\)\
+\-\ bacteria\\:\\ 0\\.09926707813930521\ \(0\)\
+\-\ preservation\\:\\ 0\\.09790022460729252\ \(0\)\
+\-\ companion\\:\\ 0\\.09664284124570666\ \(0\)\
+\-\ top\\:\\ 0\\.08745417443870918\ \(0\)\
+\-\ culture\\:\\ 0\\.08679496278454316\ \(0\)\
+\-\ for\\:\\ 0\\.08147968686651769\ \(0\)\
+\-\ removed\\:\\ 0\\.07612305696021732\ \(0\)\
+\-\ material\\:\\ 0\\.07548178809028018\ \(0\)\
+\-\ gi\\:\\ 0\\.07527372006984495\ \(0\)\
+\-\ using\\:\\ 0\\.07370151843877591\ \(0\)\
+\-\ underlying\\:\\ 0\\.07315027219849701\ \(0\)\
+\-\ 26\\:\\ 0\\.07279323624139993\ \(0\)\
+\-\ intracranial\\:\\ 0\\.07210262367318801\ \(0\)\
+\-\ just\\:\\ 0\\.07168591738594235\ \(0\)\
+\-\ there\\:\\ 0\\.07131053659450061\ \(0\)\
+\-\ placed\\:\\ 0\\.06982653902321038\ \(0\)\
+\-\ persistent\\:\\ 0\\.06904271219957682\ \(0\)\
+\-\ hypertension\\:\\ 0\\.06856353630692877\ \(0\)\
+\-\ removal\\:\\ 0\\.06849626037590299\ \(0\)\
+\-\ developed\\:\\ 0\\.06648276832567507\ \(0\)\
+\-\ http\\:\\ 0\\.06624830269115603\ \(0\)\
+\-\ abscess\\:\\ 0\\.05754068751317487\ \(0\)\
+\-\ yo\\:\\ 0\\.055982816647172556\ \(0\)\
+\-\ negative\\:\\ 0\\.0554765142449323\ \(0\)\
+\-\ abdomen\\:\\ 0\\.0546766153367792\ \(0\)\
+\-\ his\\:\\ 0\\.05434588931314213\ \(0\)\
+\-\ the\\:\\ 0\\.05364091585693112\ \(0\)\
+\-\ trauma\\:\\ 0\\.05204166952880823\ \(0\)\
+\-\ cm\\:\\ 0\\.05146364604636344\ \(0\)\
+\-\ is\\:\\ 0\\.049080239381178635\ \(0\)\
+\-\ symptoms\\:\\ 0\\.04902914103150361\ \(0\)\
+\-\ man\\:\\ 0\\.04744028390580005\ \(0\)\
+\-\ tissue\\:\\ 0\\.04700702682765288\ \(0\)\
+\-\ posterior\\:\\ 0\\.04633774963817993\ \(0\)\
+\-\ lower\\:\\ 0\\.04579045781098285\ \(0\)\
+\-\ case\\:\\ 0\\.045018745384358655\ \(0\)\
+\-\ had\\:\\ 0\\.04464665537159626\ \(0\)\
+\-\ in\\:\\ 0\\.0445837787103028\ \(0\)\
+\-\ surgical\\:\\ 0\\.04355305009700483\ \(0\)\
+\-\ after\\:\\ 0\\.04347094761454748\ \(0\)\
+\-\ within\\:\\ 0\\.041271287210173736\ \(0\)\
+\-\ from\\:\\ 0\\.0355890208363498\ \(0\)\
+\-\ was\\:\\ 0\\.031229733415071344\ \(0\)\
+\-\ left\\:\\ 0\\.03056769169053166\ \(0\)\
+\-\ patient\\:\\ 0\\.029145411646268292\ \(0\)\
+\-\ to\\:\\ 0\\.022402152704365835\ \(0\)\
+\-\ and\\:\\ 0\\.018516667840439104\ \(0\)\
+\-\ with\\:\\ 0\\.017546624138676546\ \(0\)\
+\-\ of\\:\\ 0\\.01753614629544365\ \(0\)\

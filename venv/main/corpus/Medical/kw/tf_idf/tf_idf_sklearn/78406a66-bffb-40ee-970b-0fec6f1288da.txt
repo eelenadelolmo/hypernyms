@@ -1,72 +1,70 @@
-Texto: 
-t2 hyperintense lesions in the upper thoracic and upper cervical spinal cord.  the lesions are isointense on t1 and on t1 with gadolinium.
-lupus myelitis
-etiologies for transverse myelitis include multiple sclerosis, sle, other connective tissue diseases, sarcoidosis, vasculitides, idiopathic, and post-infectious.
-37 yo woman with systemic lupus erythematosus presents with progressive weakness and malaise.
-this case is not radiographically unique for lupus myelitis, since the lesions are not greater than 2 vertebral bodies in length.  given that the lesions do not enhance (and symptomatic cord lesions in ms typically do), ms is less likely.
-
-
-Keywords by value: 
-- myelitis: 0.4079607137756195
-- lupus: 0.35293670519153525
-- lesions: 0.324180849923544
-- ms: 0.21924220166684436
-- do: 0.18714433141181938
-- cord: 0.16736732086152364
-- vasculitides: 0.15574856114004823
-- t1: 0.1406797406806567
-- erythematosus: 0.1340061756689672
-- not: 0.1337033191131871
-- unique: 0.1269473031267769
-- malaise: 0.1250610410760074
-- upper: 0.12065735947564094
-- sle: 0.11982257104914533
-- connective: 0.11723749678253781
-- and: 0.11664057212070915
-- etiologies: 0.11322938521945211
-- radiographically: 0.1125804493075753
-- diseases: 0.10372256293293695
-- length: 0.10292282696756222
-- isointense: 0.10215415667659128
-- enhance: 0.10105438641474279
-- systemic: 0.10018240519640498
-- bodies: 0.0988625314002505
-- 37: 0.09617998145406148
-- sarcoidosis: 0.09563020243077484
-- idiopathic: 0.09549511131145677
-- gadolinium: 0.09406696078096587
-- the: 0.09010558729819348
-- hyperintense: 0.08980166096788822
-- transverse: 0.0869830524705587
-- symptomatic: 0.08680868330614255
-- progressive: 0.08646448728908021
-- vertebral: 0.08621021262892739
-- are: 0.0856760990267913
-- thoracic: 0.08436226767073951
-- in: 0.08425291473959104
-- greater: 0.08317148617262371
-- weakness: 0.08239250012841626
-- since: 0.08177719340413196
-- cervical: 0.08085652637492845
-- sclerosis: 0.08041177120551024
-- spinal: 0.08016204206058442
-- typically: 0.07925265825411308
-- given: 0.07765943739363892
-- less: 0.07680348681948032
-- yo: 0.07052962032827736
-- for: 0.06843446761388419
-- on: 0.06819170975835506
-- likely: 0.06746252358915639
-- include: 0.06717076245052743
-- with: 0.06631803181734053
-- t2: 0.06495089941984615
-- than: 0.06399626577886294
-- is: 0.061833449199100395
-- tissue: 0.05922152462978926
-- woman: 0.05879544203408058
-- other: 0.058627544762953995
-- case: 0.05671660001720489
-- multiple: 0.05521879757826888
-- presents: 0.05430772840188984
-- that: 0.048991660402460904
-- this: 0.03879233077103881
+\-\ Texto\\:\\ \ \(0\)\
+\-\ t2\\ hyperintense\\ lesions\\ in\\ the\\ upper\\ thoracic\\ and\\ upper\\ cervical\\ spinal\\ cord\\.\\ \\ the\\ lesions\\ are\\ isointense\\ on\\ t1\\ and\\ on\\ t1\\ with\\ gadolinium\\.\ \(0\)\
+\-\ lupus\\ myelitis\ \(1\)\
+\-\ etiologies\\ for\\ transverse\\ myelitis\\ include\\ multiple\\ sclerosis\\,\\ sle\\,\\ other\\ connective\\ tissue\\ diseases\\,\\ sarcoidosis\\,\\ vasculitides\\,\\ idiopathic\\,\\ and\\ post\\-infectious\\.\ \(0\)\
+\-\ 37\\ yo\\ woman\\ with\\ systemic\\ lupus\\ erythematosus\\ presents\\ with\\ progressive\\ weakness\\ and\\ malaise\\.\ \(1\)\
+\-\ this\\ case\\ is\\ not\\ radiographically\\ unique\\ for\\ lupus\\ myelitis\\,\\ since\\ the\\ lesions\\ are\\ not\\ greater\\ than\\ 2\\ vertebral\\ bodies\\ in\\ length\\.\\ \\ given\\ that\\ the\\ lesions\\ do\\ not\\ enhance\\ \\(and\\ symptomatic\\ cord\\ lesions\\ in\\ ms\\ typically\\ do\\)\\,\\ ms\\ is\\ less\\ likely\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ myelitis\\:\\ 0\\.4079607137756195\ \(0\)\
+\-\ lupus\\:\\ 0\\.35293670519153525\ \(0\)\
+\-\ lesions\\:\\ 0\\.324180849923544\ \(0\)\
+\-\ ms\\:\\ 0\\.21924220166684436\ \(0\)\
+\-\ do\\:\\ 0\\.18714433141181938\ \(0\)\
+\-\ cord\\:\\ 0\\.16736732086152364\ \(0\)\
+\-\ vasculitides\\:\\ 0\\.15574856114004823\ \(0\)\
+\-\ t1\\:\\ 0\\.1406797406806567\ \(0\)\
+\-\ erythematosus\\:\\ 0\\.1340061756689672\ \(0\)\
+\-\ not\\:\\ 0\\.1337033191131871\ \(0\)\
+\-\ unique\\:\\ 0\\.1269473031267769\ \(0\)\
+\-\ malaise\\:\\ 0\\.1250610410760074\ \(0\)\
+\-\ upper\\:\\ 0\\.12065735947564094\ \(0\)\
+\-\ sle\\:\\ 0\\.11982257104914533\ \(0\)\
+\-\ connective\\:\\ 0\\.11723749678253781\ \(0\)\
+\-\ and\\:\\ 0\\.11664057212070915\ \(0\)\
+\-\ etiologies\\:\\ 0\\.11322938521945211\ \(0\)\
+\-\ radiographically\\:\\ 0\\.1125804493075753\ \(0\)\
+\-\ diseases\\:\\ 0\\.10372256293293695\ \(0\)\
+\-\ length\\:\\ 0\\.10292282696756222\ \(0\)\
+\-\ isointense\\:\\ 0\\.10215415667659128\ \(0\)\
+\-\ enhance\\:\\ 0\\.10105438641474279\ \(0\)\
+\-\ systemic\\:\\ 0\\.10018240519640498\ \(0\)\
+\-\ bodies\\:\\ 0\\.0988625314002505\ \(0\)\
+\-\ 37\\:\\ 0\\.09617998145406148\ \(0\)\
+\-\ sarcoidosis\\:\\ 0\\.09563020243077484\ \(0\)\
+\-\ idiopathic\\:\\ 0\\.09549511131145677\ \(0\)\
+\-\ gadolinium\\:\\ 0\\.09406696078096587\ \(0\)\
+\-\ the\\:\\ 0\\.09010558729819348\ \(0\)\
+\-\ hyperintense\\:\\ 0\\.08980166096788822\ \(0\)\
+\-\ transverse\\:\\ 0\\.0869830524705587\ \(0\)\
+\-\ symptomatic\\:\\ 0\\.08680868330614255\ \(0\)\
+\-\ progressive\\:\\ 0\\.08646448728908021\ \(0\)\
+\-\ vertebral\\:\\ 0\\.08621021262892739\ \(0\)\
+\-\ are\\:\\ 0\\.0856760990267913\ \(0\)\
+\-\ thoracic\\:\\ 0\\.08436226767073951\ \(0\)\
+\-\ in\\:\\ 0\\.08425291473959104\ \(0\)\
+\-\ greater\\:\\ 0\\.08317148617262371\ \(0\)\
+\-\ weakness\\:\\ 0\\.08239250012841626\ \(0\)\
+\-\ since\\:\\ 0\\.08177719340413196\ \(0\)\
+\-\ cervical\\:\\ 0\\.08085652637492845\ \(0\)\
+\-\ sclerosis\\:\\ 0\\.08041177120551024\ \(0\)\
+\-\ spinal\\:\\ 0\\.08016204206058442\ \(0\)\
+\-\ typically\\:\\ 0\\.07925265825411308\ \(0\)\
+\-\ given\\:\\ 0\\.07765943739363892\ \(0\)\
+\-\ less\\:\\ 0\\.07680348681948032\ \(0\)\
+\-\ yo\\:\\ 0\\.07052962032827736\ \(0\)\
+\-\ for\\:\\ 0\\.06843446761388419\ \(0\)\
+\-\ on\\:\\ 0\\.06819170975835506\ \(0\)\
+\-\ likely\\:\\ 0\\.06746252358915639\ \(0\)\
+\-\ include\\:\\ 0\\.06717076245052743\ \(0\)\
+\-\ with\\:\\ 0\\.06631803181734053\ \(0\)\
+\-\ t2\\:\\ 0\\.06495089941984615\ \(0\)\
+\-\ than\\:\\ 0\\.06399626577886294\ \(0\)\
+\-\ is\\:\\ 0\\.061833449199100395\ \(0\)\
+\-\ tissue\\:\\ 0\\.05922152462978926\ \(0\)\
+\-\ woman\\:\\ 0\\.05879544203408058\ \(0\)\
+\-\ other\\:\\ 0\\.058627544762953995\ \(0\)\
+\-\ case\\:\\ 0\\.05671660001720489\ \(0\)\
+\-\ multiple\\:\\ 0\\.05521879757826888\ \(0\)\
+\-\ presents\\:\\ 0\\.05430772840188984\ \(0\)\
+\-\ that\\:\\ 0\\.048991660402460904\ \(0\)\
+\-\ this\\:\\ 0\\.03879233077103881\ \(0\)\

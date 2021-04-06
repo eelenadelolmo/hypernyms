@@ -1,82 +1,80 @@
-Texto: 
-palpable, nontender left neck mass on physical exam.
-alert, moving all extremities well, afebrile.
-conservative therapy as condition will most likely resolve without intervention by 2 years of age.
-there is lobular enlargement of the mid portion of the left
-sternocleidal mastoid muscle with maintenance of normal echogenicity.
-there is no significant increase in vascular color-flow. no
-calcifications are evident. the right sternocleidomastoid is within
-normal limits. scattered small lymph nodes are present.
-fibromatosis coli
-lymphadenopathy
-infection (abscess)
-fibromatosis coli
-1 month-old female with left neck mass.
-
-
-Keywords by value: 
-- fibromatosis: 0.3477888678131186
-- coli: 0.3313246570349983
-- sternocleidal: 0.2231909053789215
-- maintenance: 0.1738944339065593
-- sternocleidomastoid: 0.17231543911937072
-- neck: 0.17074855795152694
-- moving: 0.15180493782085214
-- resolve: 0.1475656844286696
-- mastoid: 0.1439536327670079
-- left: 0.1428234922407699
-- lobular: 0.14166543100064583
-- echogenicity: 0.13620601702416468
-- nontender: 0.13145581002685702
-- alert: 0.12847838162348968
-- scattered: 0.12143997285981996
-- afebrile: 0.12050246629912442
-- evident: 0.11995673525015459
-- nodes: 0.1185583016339758
-- intervention: 0.11723549691148212
-- is: 0.11466046012568533
-- normal: 0.11396490931008964
-- lymphadenopathy: 0.11282854316508344
-- increase: 0.11203498405600375
-- condition: 0.11151989287030606
-- there: 0.11106301355803218
-- limits: 0.11027770083235734
-- of: 0.109247095690299
-- lymph: 0.10852521484943715
-- conservative: 0.10774845349427865
-- enlargement: 0.10699559632043083
-- mass: 0.1066183393154807
-- extremities: 0.10606047889382493
-- are: 0.1059152833234755
-- calcifications: 0.1018560029454871
-- mid: 0.10043850001608635
-- portion: 0.0997988314853137
-- muscle: 0.09909864586598623
-- palpable: 0.09804780033545721
-- vascular: 0.09213705326471405
-- no: 0.09076830849491013
-- will: 0.08982619309185966
-- abscess: 0.089617081326339
-- age: 0.08761875253097595
-- years: 0.08554997759530633
-- infection: 0.08430385770660796
-- the: 0.08354335908254884
-- likely: 0.08339913208965988
-- all: 0.0830782628659752
-- significant: 0.08058034376730625
-- therapy: 0.08018773840043783
-- physical: 0.07567402012023099
-- without: 0.07361399964373701
-- most: 0.07263257882522328
-- small: 0.07199106520819352
-- present: 0.07161407889550717
-- exam: 0.07025585907255916
-- well: 0.06757687623251687
-- female: 0.06734536895342437
-- within: 0.06427820838098218
-- by: 0.0592663543416305
-- as: 0.05606723073729822
-- with: 0.054656185401970904
-- right: 0.04627076089407064
-- on: 0.04215028661091271
-- in: 0.03471863385019409
+\-\ Texto\\:\\ \ \(0\)\
+\-\ palpable\\,\\ nontender\\ left\\ neck\\ mass\\ on\\ physical\\ exam\\.\ \(0\)\
+\-\ alert\\,\\ moving\\ all\\ extremities\\ well\\,\\ afebrile\\.\ \(0\)\
+\-\ conservative\\ therapy\\ as\\ condition\\ will\\ most\\ likely\\ resolve\\ without\\ intervention\\ by\\ 2\\ years\\ of\\ age\\.\ \(0\)\
+\-\ there\\ is\\ lobular\\ enlargement\\ of\\ the\\ mid\\ portion\\ of\\ the\\ left\ \(0\)\
+\-\ sternocleidal\\ mastoid\\ muscle\\ with\\ maintenance\\ of\\ normal\\ echogenicity\\.\ \(1\)\
+\-\ there\\ is\\ no\\ significant\\ increase\\ in\\ vascular\\ color\\-flow\\.\\ no\ \(0\)\
+\-\ calcifications\\ are\\ evident\\.\\ the\\ right\\ sternocleidomastoid\\ is\\ within\ \(0\)\
+\-\ normal\\ limits\\.\\ scattered\\ small\\ lymph\\ nodes\\ are\\ present\\.\ \(0\)\
+\-\ fibromatosis\\ coli\ \(0\)\
+\-\ lymphadenopathy\ \(201\)\
+\-\ infection\\ \\(abscess\\)\ \(1\)\
+\-\ fibromatosis\\ coli\ \(0\)\
+\-\ 1\\ month\\-old\\ female\\ with\\ left\\ neck\\ mass\\.\ \(1\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ fibromatosis\\:\\ 0\\.3477888678131186\ \(0\)\
+\-\ coli\\:\\ 0\\.3313246570349983\ \(0\)\
+\-\ sternocleidal\\:\\ 0\\.2231909053789215\ \(0\)\
+\-\ maintenance\\:\\ 0\\.1738944339065593\ \(0\)\
+\-\ sternocleidomastoid\\:\\ 0\\.17231543911937072\ \(0\)\
+\-\ neck\\:\\ 0\\.17074855795152694\ \(0\)\
+\-\ moving\\:\\ 0\\.15180493782085214\ \(0\)\
+\-\ resolve\\:\\ 0\\.1475656844286696\ \(0\)\
+\-\ mastoid\\:\\ 0\\.1439536327670079\ \(0\)\
+\-\ left\\:\\ 0\\.1428234922407699\ \(0\)\
+\-\ lobular\\:\\ 0\\.14166543100064583\ \(0\)\
+\-\ echogenicity\\:\\ 0\\.13620601702416468\ \(0\)\
+\-\ nontender\\:\\ 0\\.13145581002685702\ \(0\)\
+\-\ alert\\:\\ 0\\.12847838162348968\ \(0\)\
+\-\ scattered\\:\\ 0\\.12143997285981996\ \(0\)\
+\-\ afebrile\\:\\ 0\\.12050246629912442\ \(0\)\
+\-\ evident\\:\\ 0\\.11995673525015459\ \(0\)\
+\-\ nodes\\:\\ 0\\.1185583016339758\ \(0\)\
+\-\ intervention\\:\\ 0\\.11723549691148212\ \(0\)\
+\-\ is\\:\\ 0\\.11466046012568533\ \(0\)\
+\-\ normal\\:\\ 0\\.11396490931008964\ \(0\)\
+\-\ lymphadenopathy\\:\\ 0\\.11282854316508344\ \(0\)\
+\-\ increase\\:\\ 0\\.11203498405600375\ \(0\)\
+\-\ condition\\:\\ 0\\.11151989287030606\ \(0\)\
+\-\ there\\:\\ 0\\.11106301355803218\ \(0\)\
+\-\ limits\\:\\ 0\\.11027770083235734\ \(0\)\
+\-\ of\\:\\ 0\\.109247095690299\ \(0\)\
+\-\ lymph\\:\\ 0\\.10852521484943715\ \(0\)\
+\-\ conservative\\:\\ 0\\.10774845349427865\ \(0\)\
+\-\ enlargement\\:\\ 0\\.10699559632043083\ \(0\)\
+\-\ mass\\:\\ 0\\.1066183393154807\ \(0\)\
+\-\ extremities\\:\\ 0\\.10606047889382493\ \(0\)\
+\-\ are\\:\\ 0\\.1059152833234755\ \(0\)\
+\-\ calcifications\\:\\ 0\\.1018560029454871\ \(0\)\
+\-\ mid\\:\\ 0\\.10043850001608635\ \(0\)\
+\-\ portion\\:\\ 0\\.0997988314853137\ \(0\)\
+\-\ muscle\\:\\ 0\\.09909864586598623\ \(0\)\
+\-\ palpable\\:\\ 0\\.09804780033545721\ \(0\)\
+\-\ vascular\\:\\ 0\\.09213705326471405\ \(0\)\
+\-\ no\\:\\ 0\\.09076830849491013\ \(0\)\
+\-\ will\\:\\ 0\\.08982619309185966\ \(0\)\
+\-\ abscess\\:\\ 0\\.089617081326339\ \(0\)\
+\-\ age\\:\\ 0\\.08761875253097595\ \(0\)\
+\-\ years\\:\\ 0\\.08554997759530633\ \(0\)\
+\-\ infection\\:\\ 0\\.08430385770660796\ \(0\)\
+\-\ the\\:\\ 0\\.08354335908254884\ \(0\)\
+\-\ likely\\:\\ 0\\.08339913208965988\ \(0\)\
+\-\ all\\:\\ 0\\.0830782628659752\ \(0\)\
+\-\ significant\\:\\ 0\\.08058034376730625\ \(0\)\
+\-\ therapy\\:\\ 0\\.08018773840043783\ \(0\)\
+\-\ physical\\:\\ 0\\.07567402012023099\ \(0\)\
+\-\ without\\:\\ 0\\.07361399964373701\ \(0\)\
+\-\ most\\:\\ 0\\.07263257882522328\ \(0\)\
+\-\ small\\:\\ 0\\.07199106520819352\ \(0\)\
+\-\ present\\:\\ 0\\.07161407889550717\ \(0\)\
+\-\ exam\\:\\ 0\\.07025585907255916\ \(0\)\
+\-\ well\\:\\ 0\\.06757687623251687\ \(0\)\
+\-\ female\\:\\ 0\\.06734536895342437\ \(0\)\
+\-\ within\\:\\ 0\\.06427820838098218\ \(0\)\
+\-\ by\\:\\ 0\\.0592663543416305\ \(0\)\
+\-\ as\\:\\ 0\\.05606723073729822\ \(0\)\
+\-\ with\\:\\ 0\\.054656185401970904\ \(0\)\
+\-\ right\\:\\ 0\\.04627076089407064\ \(0\)\
+\-\ on\\:\\ 0\\.04215028661091271\ \(0\)\
+\-\ in\\:\\ 0\\.03471863385019409\ \(0\)\

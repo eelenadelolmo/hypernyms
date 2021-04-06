@@ -1,61 +1,59 @@
-Texto: 
-non-focal neurologic examination.
-this is a normal variant, and no further treatment or follow-up is required.
-fluid filled space seperated by the unfused laminae of the septum pellucidum from the lateral ventricles.  this is also seen posterior to the foramen of monro which indicates that a cavum vergae is also present.
-cavum septi pellucidi and cavum vergae
-cavum septi pellucidi
-cavum vergae
-new onset of headaches.
-the remainder of the brain imaging for this patient was normal.
-
-
-Keywords by value: 
-- cavum: 0.63309926023036
-- vergae: 0.40778885223252603
-- septi: 0.2771843404877162
-- pellucidi: 0.27185923482168406
-- laminae: 0.14559552743626442
-- seperated: 0.14174130184746586
-- unfused: 0.1297689836496798
-- monro: 0.11961649485366564
-- the: 0.11795952962617727
-- pellucidum: 0.11022694918958714
-- is: 0.10793033375465634
-- indicates: 0.10378995106708098
-- this: 0.10156806537892824
-- also: 0.09268956787028687
-- septum: 0.09260287736532534
-- foramen: 0.08758377872215167
-- variant: 0.08743423316379964
-- remainder: 0.08670533158822084
-- ventricles: 0.08656317108125698
-- normal: 0.08045670681510968
-- filled: 0.07927895560160862
-- neurologic: 0.07873057925492764
-- of: 0.07712603468529627
-- headaches: 0.0734938236745827
-- required: 0.0703446920709749
-- new: 0.06816329581290348
-- space: 0.06558458976634639
-- further: 0.06417298980312701
-- onset: 0.06326767845951989
-- examination: 0.06304857525819399
-- brain: 0.0614221433383986
-- fluid: 0.05688794149703175
-- imaging: 0.05177983917163459
-- posterior: 0.050949718735544235
-- present: 0.05055795669395441
-- lateral: 0.04889732108353029
-- treatment: 0.046934151406064
-- seen: 0.04638622114995996
-- which: 0.04480169717216172
-- that: 0.04275749070221136
-- by: 0.04184073610141337
-- and: 0.04071924190347564
-- from: 0.03913117524791104
-- was: 0.03433801050133193
-- or: 0.03427616375260844
-- patient: 0.03204623740695214
-- no: 0.03204020969651167
-- for: 0.02986310413521377
-- to: 0.02463182584977561
+\-\ Texto\\:\\ \ \(0\)\
+\-\ non\\-focal\\ neurologic\\ examination\\.\ \(1\)\
+\-\ this\\ is\\ a\\ normal\\ variant\\,\\ and\\ no\\ further\\ treatment\\ or\\ follow\\-up\\ is\\ required\\.\ \(0\)\
+\-\ fluid\\ filled\\ space\\ seperated\\ by\\ the\\ unfused\\ laminae\\ of\\ the\\ septum\\ pellucidum\\ from\\ the\\ lateral\\ ventricles\\.\\ \\ this\\ is\\ also\\ seen\\ posterior\\ to\\ the\\ foramen\\ of\\ monro\\ which\\ indicates\\ that\\ a\\ cavum\\ vergae\\ is\\ also\\ present\\.\ \(0\)\
+\-\ cavum\\ septi\\ pellucidi\\ and\\ cavum\\ vergae\ \(0\)\
+\-\ cavum\\ septi\\ pellucidi\ \(3\)\
+\-\ cavum\\ vergae\ \(4\)\
+\-\ new\\ onset\\ of\\ headaches\\.\ \(0\)\
+\-\ the\\ remainder\\ of\\ the\\ brain\\ imaging\\ for\\ this\\ patient\\ was\\ normal\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ cavum\\:\\ 0\\.63309926023036\ \(0\)\
+\-\ vergae\\:\\ 0\\.40778885223252603\ \(0\)\
+\-\ septi\\:\\ 0\\.2771843404877162\ \(0\)\
+\-\ pellucidi\\:\\ 0\\.27185923482168406\ \(0\)\
+\-\ laminae\\:\\ 0\\.14559552743626442\ \(0\)\
+\-\ seperated\\:\\ 0\\.14174130184746586\ \(0\)\
+\-\ unfused\\:\\ 0\\.1297689836496798\ \(0\)\
+\-\ monro\\:\\ 0\\.11961649485366564\ \(0\)\
+\-\ the\\:\\ 0\\.11795952962617727\ \(0\)\
+\-\ pellucidum\\:\\ 0\\.11022694918958714\ \(0\)\
+\-\ is\\:\\ 0\\.10793033375465634\ \(0\)\
+\-\ indicates\\:\\ 0\\.10378995106708098\ \(0\)\
+\-\ this\\:\\ 0\\.10156806537892824\ \(0\)\
+\-\ also\\:\\ 0\\.09268956787028687\ \(0\)\
+\-\ septum\\:\\ 0\\.09260287736532534\ \(0\)\
+\-\ foramen\\:\\ 0\\.08758377872215167\ \(0\)\
+\-\ variant\\:\\ 0\\.08743423316379964\ \(0\)\
+\-\ remainder\\:\\ 0\\.08670533158822084\ \(0\)\
+\-\ ventricles\\:\\ 0\\.08656317108125698\ \(0\)\
+\-\ normal\\:\\ 0\\.08045670681510968\ \(0\)\
+\-\ filled\\:\\ 0\\.07927895560160862\ \(0\)\
+\-\ neurologic\\:\\ 0\\.07873057925492764\ \(0\)\
+\-\ of\\:\\ 0\\.07712603468529627\ \(0\)\
+\-\ headaches\\:\\ 0\\.0734938236745827\ \(0\)\
+\-\ required\\:\\ 0\\.0703446920709749\ \(0\)\
+\-\ new\\:\\ 0\\.06816329581290348\ \(0\)\
+\-\ space\\:\\ 0\\.06558458976634639\ \(0\)\
+\-\ further\\:\\ 0\\.06417298980312701\ \(0\)\
+\-\ onset\\:\\ 0\\.06326767845951989\ \(0\)\
+\-\ examination\\:\\ 0\\.06304857525819399\ \(0\)\
+\-\ brain\\:\\ 0\\.0614221433383986\ \(0\)\
+\-\ fluid\\:\\ 0\\.05688794149703175\ \(0\)\
+\-\ imaging\\:\\ 0\\.05177983917163459\ \(0\)\
+\-\ posterior\\:\\ 0\\.050949718735544235\ \(0\)\
+\-\ present\\:\\ 0\\.05055795669395441\ \(0\)\
+\-\ lateral\\:\\ 0\\.04889732108353029\ \(0\)\
+\-\ treatment\\:\\ 0\\.046934151406064\ \(0\)\
+\-\ seen\\:\\ 0\\.04638622114995996\ \(0\)\
+\-\ which\\:\\ 0\\.04480169717216172\ \(0\)\
+\-\ that\\:\\ 0\\.04275749070221136\ \(0\)\
+\-\ by\\:\\ 0\\.04184073610141337\ \(0\)\
+\-\ and\\:\\ 0\\.04071924190347564\ \(0\)\
+\-\ from\\:\\ 0\\.03913117524791104\ \(0\)\
+\-\ was\\:\\ 0\\.03433801050133193\ \(0\)\
+\-\ or\\:\\ 0\\.03427616375260844\ \(0\)\
+\-\ patient\\:\\ 0\\.03204623740695214\ \(0\)\
+\-\ no\\:\\ 0\\.03204020969651167\ \(0\)\
+\-\ for\\:\\ 0\\.02986310413521377\ \(0\)\
+\-\ to\\:\\ 0\\.02463182584977561\ \(0\)\

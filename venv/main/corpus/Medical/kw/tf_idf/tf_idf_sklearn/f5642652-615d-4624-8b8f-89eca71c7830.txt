@@ -1,102 +1,100 @@
-Texto: 
-febrile to 102. alert, no apparent distress.
-frontal radiograph shows subtle air-fluid level in largely opacified left hemithorax. lateral pleural thickening is apparent.
-pneumonia with left lower lobe abcess/necrosis and empyema.
-lung abscess or necrosis
-sequestration or infected bronchogenic cyst 
-bronchiectasis with fluid accumulation
-cavitary neoplasm
-4 month female with worsening fever
-drainage of the abscess can be preformed but has as a high risk of causing the complication broncho-pleural fistula, which is very difficult to treat. furthermore drainage of small pulmonary abscesses in young children who are clinically not in extremis is usually not necessary. these generally resolve with intravenous followed by oral antibiotic therapy. on the otherhand, drainage of the empyema is necessary as antibiotics will have no effect on the empyema
-
-
-Keywords by value: 
-- empyema: 0.34646345026724523
-- drainage: 0.2572887954872502
-- apparent: 0.1791698158179981
-- necessary: 0.1791698158179981
-- otherhand: 0.17124867771591928
-- necrosis: 0.16370552572299787
-- extremis: 0.16363725386262085
-- pleural: 0.1612223622627218
-- abscess: 0.13752179240314988
-- preformed: 0.1361110556295224
-- opacified: 0.12802436383392432
-- fluid: 0.12365447684006427
-- largely: 0.12239077611507292
-- cavitary: 0.11751921093224035
-- is: 0.11730138764382887
-- furthermore: 0.11647604918503733
-- infected: 0.11454901708972655
-- resolve: 0.1132233783977511
-- sequestration: 0.1128015161273274
-- bronchiectasis: 0.1119852100835699
-- febrile: 0.11008742558857136
-- hemithorax: 0.10903450957718265
-- abscesses: 0.10869626473233329
-- treat: 0.10836400683730442
-- the: 0.10683447391179611
-- accumulation: 0.10346423416456182
-- bronchogenic: 0.10296361567012736
-- antibiotic: 0.10021156337727559
-- alert: 0.0985781787602433
-- intravenous: 0.09762507655562248
-- complication: 0.09725698474237479
-- fistula: 0.09671803630914494
-- subtle: 0.09231784727197674
-- generally: 0.09070782554657608
-- clinically: 0.08898891877249779
-- difficult: 0.08887195838788559
-- young: 0.08829784388699573
-- causing: 0.08796161852264996
-- children: 0.08774076796353045
-- distress: 0.08626355032351787
-- as: 0.0860379065236091
-- oral: 0.0857629318290834
-- not: 0.08454746887380332
-- pneumonia: 0.08452055971217431
-- with: 0.08387258847481338
-- of: 0.08382250454831956
-- worsening: 0.08177271122205043
-- in: 0.07991616139808531
-- antibiotics: 0.07889039724303644
-- very: 0.07681688957495468
-- risk: 0.07651263524849489
-- effect: 0.07511716343093276
-- or: 0.0745043850309528
-- neoplasm: 0.07310014297719747
-- left: 0.07305654368391538
-- thickening: 0.07285017815196242
-- fever: 0.07260349811079046
-- followed: 0.07231169823014466
-- radiograph: 0.06974481122491037
-- no: 0.06964420338666721
-- frontal: 0.06892134231509134
-- will: 0.06892134231509134
-- usually: 0.06741257769410303
-- pulmonary: 0.06527189125519973
-- lung: 0.06513969295530944
-- month: 0.06513969295530944
-- level: 0.06468419550562507
-- on: 0.06468167540439142
-- shows: 0.06284832834693459
-- lobe: 0.06188253177666032
-- cyst: 0.06177210745235032
-- therapy: 0.061526002355658256
-- high: 0.06085883615436513
-- who: 0.06057263117729418
-- these: 0.060469629102668516
-- can: 0.05619365070118073
-- small: 0.05523690449363612
-- lower: 0.05471941773102149
-- to: 0.053540969472915416
-- have: 0.053493722427149976
-- lateral: 0.05314283219212691
-- but: 0.05295260219847122
-- female: 0.05167238048514956
-- has: 0.04891229391825989
-- which: 0.048691605633679864
-- by: 0.04547355904496398
-- be: 0.04343920303807729
-- are: 0.040633045034381365
-- and: 0.022127345542820444
+\-\ Texto\\:\\ \ \(0\)\
+\-\ febrile\\ to\\ 102\\.\\ alert\\,\\ no\\ apparent\\ distress\\.\ \(0\)\
+\-\ frontal\\ radiograph\\ shows\\ subtle\\ air\\-fluid\\ level\\ in\\ largely\\ opacified\\ left\\ hemithorax\\.\\ lateral\\ pleural\\ thickening\\ is\\ apparent\\.\ \(0\)\
+\-\ pneumonia\\ with\\ left\\ lower\\ lobe\\ abcess\\/necrosis\\ and\\ empyema\\.\ \(0\)\
+\-\ lung\\ abscess\\ or\\ necrosis\ \(0\)\
+\-\ sequestration\\ or\\ infected\\ bronchogenic\\ cyst\\ \ \(0\)\
+\-\ bronchiectasis\\ with\\ fluid\\ accumulation\ \(0\)\
+\-\ cavitary\\ neoplasm\ \(1\)\
+\-\ 4\\ month\\ female\\ with\\ worsening\\ fever\ \(1\)\
+\-\ drainage\\ of\\ the\\ abscess\\ can\\ be\\ preformed\\ but\\ has\\ as\\ a\\ high\\ risk\\ of\\ causing\\ the\\ complication\\ broncho\\-pleural\\ fistula\\,\\ which\\ is\\ very\\ difficult\\ to\\ treat\\.\\ furthermore\\ drainage\\ of\\ small\\ pulmonary\\ abscesses\\ in\\ young\\ children\\ who\\ are\\ clinically\\ not\\ in\\ extremis\\ is\\ usually\\ not\\ necessary\\.\\ these\\ generally\\ resolve\\ with\\ intravenous\\ followed\\ by\\ oral\\ antibiotic\\ therapy\\.\\ on\\ the\\ otherhand\\,\\ drainage\\ of\\ the\\ empyema\\ is\\ necessary\\ as\\ antibiotics\\ will\\ have\\ no\\ effect\\ on\\ the\\ empyema\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ empyema\\:\\ 0\\.34646345026724523\ \(0\)\
+\-\ drainage\\:\\ 0\\.2572887954872502\ \(0\)\
+\-\ apparent\\:\\ 0\\.1791698158179981\ \(0\)\
+\-\ necessary\\:\\ 0\\.1791698158179981\ \(0\)\
+\-\ otherhand\\:\\ 0\\.17124867771591928\ \(0\)\
+\-\ necrosis\\:\\ 0\\.16370552572299787\ \(0\)\
+\-\ extremis\\:\\ 0\\.16363725386262085\ \(0\)\
+\-\ pleural\\:\\ 0\\.1612223622627218\ \(0\)\
+\-\ abscess\\:\\ 0\\.13752179240314988\ \(0\)\
+\-\ preformed\\:\\ 0\\.1361110556295224\ \(0\)\
+\-\ opacified\\:\\ 0\\.12802436383392432\ \(0\)\
+\-\ fluid\\:\\ 0\\.12365447684006427\ \(0\)\
+\-\ largely\\:\\ 0\\.12239077611507292\ \(0\)\
+\-\ cavitary\\:\\ 0\\.11751921093224035\ \(0\)\
+\-\ is\\:\\ 0\\.11730138764382887\ \(0\)\
+\-\ furthermore\\:\\ 0\\.11647604918503733\ \(0\)\
+\-\ infected\\:\\ 0\\.11454901708972655\ \(0\)\
+\-\ resolve\\:\\ 0\\.1132233783977511\ \(0\)\
+\-\ sequestration\\:\\ 0\\.1128015161273274\ \(0\)\
+\-\ bronchiectasis\\:\\ 0\\.1119852100835699\ \(0\)\
+\-\ febrile\\:\\ 0\\.11008742558857136\ \(0\)\
+\-\ hemithorax\\:\\ 0\\.10903450957718265\ \(0\)\
+\-\ abscesses\\:\\ 0\\.10869626473233329\ \(0\)\
+\-\ treat\\:\\ 0\\.10836400683730442\ \(0\)\
+\-\ the\\:\\ 0\\.10683447391179611\ \(0\)\
+\-\ accumulation\\:\\ 0\\.10346423416456182\ \(0\)\
+\-\ bronchogenic\\:\\ 0\\.10296361567012736\ \(0\)\
+\-\ antibiotic\\:\\ 0\\.10021156337727559\ \(0\)\
+\-\ alert\\:\\ 0\\.0985781787602433\ \(0\)\
+\-\ intravenous\\:\\ 0\\.09762507655562248\ \(0\)\
+\-\ complication\\:\\ 0\\.09725698474237479\ \(0\)\
+\-\ fistula\\:\\ 0\\.09671803630914494\ \(0\)\
+\-\ subtle\\:\\ 0\\.09231784727197674\ \(0\)\
+\-\ generally\\:\\ 0\\.09070782554657608\ \(0\)\
+\-\ clinically\\:\\ 0\\.08898891877249779\ \(0\)\
+\-\ difficult\\:\\ 0\\.08887195838788559\ \(0\)\
+\-\ young\\:\\ 0\\.08829784388699573\ \(0\)\
+\-\ causing\\:\\ 0\\.08796161852264996\ \(0\)\
+\-\ children\\:\\ 0\\.08774076796353045\ \(0\)\
+\-\ distress\\:\\ 0\\.08626355032351787\ \(0\)\
+\-\ as\\:\\ 0\\.0860379065236091\ \(0\)\
+\-\ oral\\:\\ 0\\.0857629318290834\ \(0\)\
+\-\ not\\:\\ 0\\.08454746887380332\ \(0\)\
+\-\ pneumonia\\:\\ 0\\.08452055971217431\ \(0\)\
+\-\ with\\:\\ 0\\.08387258847481338\ \(0\)\
+\-\ of\\:\\ 0\\.08382250454831956\ \(0\)\
+\-\ worsening\\:\\ 0\\.08177271122205043\ \(0\)\
+\-\ in\\:\\ 0\\.07991616139808531\ \(0\)\
+\-\ antibiotics\\:\\ 0\\.07889039724303644\ \(0\)\
+\-\ very\\:\\ 0\\.07681688957495468\ \(0\)\
+\-\ risk\\:\\ 0\\.07651263524849489\ \(0\)\
+\-\ effect\\:\\ 0\\.07511716343093276\ \(0\)\
+\-\ or\\:\\ 0\\.0745043850309528\ \(0\)\
+\-\ neoplasm\\:\\ 0\\.07310014297719747\ \(0\)\
+\-\ left\\:\\ 0\\.07305654368391538\ \(0\)\
+\-\ thickening\\:\\ 0\\.07285017815196242\ \(0\)\
+\-\ fever\\:\\ 0\\.07260349811079046\ \(0\)\
+\-\ followed\\:\\ 0\\.07231169823014466\ \(0\)\
+\-\ radiograph\\:\\ 0\\.06974481122491037\ \(0\)\
+\-\ no\\:\\ 0\\.06964420338666721\ \(0\)\
+\-\ frontal\\:\\ 0\\.06892134231509134\ \(0\)\
+\-\ will\\:\\ 0\\.06892134231509134\ \(0\)\
+\-\ usually\\:\\ 0\\.06741257769410303\ \(0\)\
+\-\ pulmonary\\:\\ 0\\.06527189125519973\ \(0\)\
+\-\ lung\\:\\ 0\\.06513969295530944\ \(0\)\
+\-\ month\\:\\ 0\\.06513969295530944\ \(0\)\
+\-\ level\\:\\ 0\\.06468419550562507\ \(0\)\
+\-\ on\\:\\ 0\\.06468167540439142\ \(0\)\
+\-\ shows\\:\\ 0\\.06284832834693459\ \(0\)\
+\-\ lobe\\:\\ 0\\.06188253177666032\ \(0\)\
+\-\ cyst\\:\\ 0\\.06177210745235032\ \(0\)\
+\-\ therapy\\:\\ 0\\.061526002355658256\ \(0\)\
+\-\ high\\:\\ 0\\.06085883615436513\ \(0\)\
+\-\ who\\:\\ 0\\.06057263117729418\ \(0\)\
+\-\ these\\:\\ 0\\.060469629102668516\ \(0\)\
+\-\ can\\:\\ 0\\.05619365070118073\ \(0\)\
+\-\ small\\:\\ 0\\.05523690449363612\ \(0\)\
+\-\ lower\\:\\ 0\\.05471941773102149\ \(0\)\
+\-\ to\\:\\ 0\\.053540969472915416\ \(0\)\
+\-\ have\\:\\ 0\\.053493722427149976\ \(0\)\
+\-\ lateral\\:\\ 0\\.05314283219212691\ \(0\)\
+\-\ but\\:\\ 0\\.05295260219847122\ \(0\)\
+\-\ female\\:\\ 0\\.05167238048514956\ \(0\)\
+\-\ has\\:\\ 0\\.04891229391825989\ \(0\)\
+\-\ which\\:\\ 0\\.048691605633679864\ \(0\)\
+\-\ by\\:\\ 0\\.04547355904496398\ \(0\)\
+\-\ be\\:\\ 0\\.04343920303807729\ \(0\)\
+\-\ are\\:\\ 0\\.040633045034381365\ \(0\)\
+\-\ and\\:\\ 0\\.022127345542820444\ \(0\)\

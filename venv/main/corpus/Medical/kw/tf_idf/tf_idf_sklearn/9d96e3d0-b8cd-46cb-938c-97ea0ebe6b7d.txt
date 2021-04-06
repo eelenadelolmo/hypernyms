@@ -1,125 +1,122 @@
-Texto: 
-rlq tenderness, elevated esr, wbc 12.7.
-contrast enhanced axial ct shows diffuse, circumferential, asymmetric bowel wall thickening in the terminal ileum and cecum.  proliferate fatty inflammatory changes are present in the surrounding mesentery as are several prominent lymph nodes.  there is a focus of air within the inflammatory change that is possibly extraluminal; however there is no clear evidence of abscess.
-
-small bowel follow through shows mucosal irregularity within the terminal ileum and cecum.  the ileocecal junction is poorly defined.  there is luminal narrowing with tethering along the mesenteric border and saculation along the antimesenteric border of the bowel.  a cobblestone mucosal pattern is present along the terminal ileum.  there is isolation of the region from the remaining bowel (due to the proliferate fatty infiltration seen on ct).  there is a wisp of extraluminal contrast which upon comparison with the ct is likely a fistulous connection with pericecal inflammatory pockets.
-crohnâ€™s disease
-crohn's disease
-appendicits (+/- rupture)
-cecal diverticulitis
-infectious enteritis (yersinia, campylobacter, tb)
-22 year old male with 3 months of abdominal pain localizing to the right lower quadrant, nausea.
-
-
-Keywords by value: 
-- terminal: 0.24225698876778248
-- ileum: 0.23846445538047067
-- proliferate: 0.23214268516566391
-- the: 0.21942534569729774
-- bowel: 0.20163540579631445
-- extraluminal: 0.19764192480293918
-- is: 0.19359895644493877
-- cecum: 0.1594637452526304
-- inflammatory: 0.15934114010500441
-- along: 0.15787313172968925
-- there: 0.15627069335043656
-- crohn: 0.15292778985725078
-- fatty: 0.14929889884989533
-- mucosal: 0.14797142573197933
-- border: 0.13893747365636222
-- saculation: 0.12561588747040914
-- antimesenteric: 0.12561588747040914
-- wisp: 0.12561588747040914
-- appendicits: 0.12003268662472667
-- cobblestone: 0.11299868543060733
-- pericecal: 0.11299868543060733
-- campylobacter: 0.11299868543060733
-- pockets: 0.11048814173714948
-- localizing: 0.11048814173714948
-- isolation: 0.10836550728904679
-- fistulous: 0.104904940891467
-- yersinia: 0.10345414054303013
-- tethering: 0.10214173198839885
-- enteritis: 0.09390959565545294
-- of: 0.09222936876887855
-- shows: 0.09220215474513954
-- ileocecal: 0.09083693850322831
-- luminal: 0.09083693850322831
-- cecal: 0.09029687447683801
-- ct: 0.08971226567323026
-- mesentery: 0.08543857087000077
-- connection: 0.08543857087000077
-- circumferential: 0.08436505076787576
-- rlq: 0.08157058222010721
-- present: 0.08061140359247465
-- infiltration: 0.07746944136756198
-- contrast: 0.07633006431108173
-- irregularity: 0.07608137400952834
-- comparison: 0.07482050588029857
-- remaining: 0.07464944942494767
-- possibly: 0.07382465994727695
-- diverticulitis: 0.07382465994727695
-- within: 0.07235388177736676
-- esr: 0.0718862405218795
-- poorly: 0.07094549357935916
-- asymmetric: 0.07068810538305297
-- tb: 0.06994360690591303
-- mesenteric: 0.06782097245781031
-- nodes: 0.06672676134115825
-- focus: 0.06653682912195115
-- disease: 0.0659436010498698
-- rupture: 0.06350194940789845
-- infectious: 0.06320259267079266
-- junction: 0.06290960571179369
-- prominent: 0.061863289835000876
-- 22: 0.061863289835000876
-- upon: 0.06179628304790038
-- with: 0.0615229838631606
-- lymph: 0.06107995822268996
-- narrowing: 0.06089089528586545
-- nausea: 0.06033879991962992
-- enhanced: 0.059807989836851934
-- are: 0.05961104144799402
-- change: 0.05952170369168801
-- pattern: 0.058643645801061205
-- clear: 0.056945207718172346
-- defined: 0.05603597535457707
-- wbc: 0.055517925509657166
-- quadrant: 0.05501866112075085
-- elevated: 0.05354744584258963
-- thickening: 0.053437725201690586
-- surrounding: 0.05238607939737745
-- several: 0.051535413335112766
-- air: 0.05137768116852139
-- abscess: 0.0504381179161571
-- tenderness: 0.04925952836979164
-- diffuse: 0.04925952836979164
-- and: 0.04869315520794948
-- wall: 0.047781859978534014
-- changes: 0.04747133809734886
-- region: 0.04698406363389229
-- likely: 0.04693854336904311
-- through: 0.046757952353353366
-- however: 0.04649143046699989
-- months: 0.04572148577626056
-- axial: 0.045372342912694597
-- due: 0.04515105466844784
-- evidence: 0.04458415252329063
-- abdominal: 0.04296016794887715
-- follow: 0.04234437337701677
-- small: 0.040517876526887285
-- lower: 0.04013828493057809
-- to: 0.03927385884709311
-- in: 0.039080552995186674
-- seen: 0.03697992006366366
-- which: 0.03571670938201519
-- male: 0.03497274030137201
-- that: 0.034087031646292724
-- as: 0.031555653825216586
-- from: 0.031196068504627767
-- pain: 0.028107484896356543
-- right: 0.026042023010623586
-- no: 0.025543024717827125
-- year: 0.02420705032062498
-- on: 0.023722945389610613
-- old: 0.02324714778621842
+\-\ Texto\\:\\ \ \(0\)\
+\-\ rlq\\ tenderness\\,\\ elevated\\ esr\\,\\ wbc\\ 12\\.7\\.\ \(0\)\
+\-\ contrast\\ enhanced\\ axial\\ ct\\ shows\\ diffuse\\,\\ circumferential\\,\\ asymmetric\\ bowel\\ wall\\ thickening\\ in\\ the\\ terminal\\ ileum\\ and\\ cecum\\.\\ \\ proliferate\\ fatty\\ inflammatory\\ changes\\ are\\ present\\ in\\ the\\ surrounding\\ mesentery\\ as\\ are\\ several\\ prominent\\ lymph\\ nodes\\.\\ \\ there\\ is\\ a\\ focus\\ of\\ air\\ within\\ the\\ inflammatory\\ change\\ that\\ is\\ possibly\\ extraluminal\\;\\ however\\ there\\ is\\ no\\ clear\\ evidence\\ of\\ abscess\\.\ \(0\)\
+\-\ small\\ bowel\\ follow\\ through\\ shows\\ mucosal\\ irregularity\\ within\\ the\\ terminal\\ ileum\\ and\\ cecum\\.\\ \\ the\\ ileocecal\\ junction\\ is\\ poorly\\ defined\\.\\ \\ there\\ is\\ luminal\\ narrowing\\ with\\ tethering\\ along\\ the\\ mesenteric\\ border\\ and\\ saculation\\ along\\ the\\ antimesenteric\\ border\\ of\\ the\\ bowel\\.\\ \\ a\\ cobblestone\\ mucosal\\ pattern\\ is\\ present\\ along\\ the\\ terminal\\ ileum\\.\\ \\ there\\ is\\ isolation\\ of\\ the\\ region\\ from\\ the\\ remaining\\ bowel\\ \\(due\\ to\\ the\\ proliferate\\ fatty\\ infiltration\\ seen\\ on\\ ct\\)\\.\\ \\ there\\ is\\ a\\ wisp\\ of\\ extraluminal\\ contrast\\ which\\ upon\\ comparison\\ with\\ the\\ ct\\ is\\ likely\\ a\\ fistulous\\ connection\\ with\\ pericecal\\ inflammatory\\ pockets\\.\ \(0\)\
+\-\ crohn\\â\\€\\™s\\ disease\ \(0\)\
+\-\ crohn\\'s\\ disease\ \(1\)\
+\-\ appendicits\\ \\(\\+\\/\\-\\ rupture\\)\ \(0\)\
+\-\ cecal\\ diverticulitis\ \(0\)\
+\-\ infectious\\ enteritis\\ \\(yersinia\\,\\ campylobacter\\,\\ tb\\)\ \(0\)\
+\-\ 22\\ year\\ old\\ male\\ with\\ 3\\ months\\ of\\ abdominal\\ pain\\ localizing\\ to\\ the\\ right\\ lower\\ quadrant\\,\\ nausea\\.\ \(1\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ terminal\\:\\ 0\\.24225698876778248\ \(0\)\
+\-\ ileum\\:\\ 0\\.23846445538047067\ \(0\)\
+\-\ proliferate\\:\\ 0\\.23214268516566391\ \(0\)\
+\-\ the\\:\\ 0\\.21942534569729774\ \(0\)\
+\-\ bowel\\:\\ 0\\.20163540579631445\ \(0\)\
+\-\ extraluminal\\:\\ 0\\.19764192480293918\ \(0\)\
+\-\ is\\:\\ 0\\.19359895644493877\ \(0\)\
+\-\ cecum\\:\\ 0\\.1594637452526304\ \(0\)\
+\-\ inflammatory\\:\\ 0\\.15934114010500441\ \(0\)\
+\-\ along\\:\\ 0\\.15787313172968925\ \(0\)\
+\-\ there\\:\\ 0\\.15627069335043656\ \(0\)\
+\-\ crohn\\:\\ 0\\.15292778985725078\ \(0\)\
+\-\ fatty\\:\\ 0\\.14929889884989533\ \(0\)\
+\-\ mucosal\\:\\ 0\\.14797142573197933\ \(0\)\
+\-\ border\\:\\ 0\\.13893747365636222\ \(0\)\
+\-\ saculation\\:\\ 0\\.12561588747040914\ \(0\)\
+\-\ antimesenteric\\:\\ 0\\.12561588747040914\ \(0\)\
+\-\ wisp\\:\\ 0\\.12561588747040914\ \(0\)\
+\-\ appendicits\\:\\ 0\\.12003268662472667\ \(0\)\
+\-\ cobblestone\\:\\ 0\\.11299868543060733\ \(0\)\
+\-\ pericecal\\:\\ 0\\.11299868543060733\ \(0\)\
+\-\ campylobacter\\:\\ 0\\.11299868543060733\ \(0\)\
+\-\ pockets\\:\\ 0\\.11048814173714948\ \(0\)\
+\-\ localizing\\:\\ 0\\.11048814173714948\ \(0\)\
+\-\ isolation\\:\\ 0\\.10836550728904679\ \(0\)\
+\-\ fistulous\\:\\ 0\\.104904940891467\ \(0\)\
+\-\ yersinia\\:\\ 0\\.10345414054303013\ \(0\)\
+\-\ tethering\\:\\ 0\\.10214173198839885\ \(0\)\
+\-\ enteritis\\:\\ 0\\.09390959565545294\ \(0\)\
+\-\ of\\:\\ 0\\.09222936876887855\ \(0\)\
+\-\ shows\\:\\ 0\\.09220215474513954\ \(0\)\
+\-\ ileocecal\\:\\ 0\\.09083693850322831\ \(0\)\
+\-\ luminal\\:\\ 0\\.09083693850322831\ \(0\)\
+\-\ cecal\\:\\ 0\\.09029687447683801\ \(0\)\
+\-\ ct\\:\\ 0\\.08971226567323026\ \(0\)\
+\-\ mesentery\\:\\ 0\\.08543857087000077\ \(0\)\
+\-\ connection\\:\\ 0\\.08543857087000077\ \(0\)\
+\-\ circumferential\\:\\ 0\\.08436505076787576\ \(0\)\
+\-\ rlq\\:\\ 0\\.08157058222010721\ \(0\)\
+\-\ present\\:\\ 0\\.08061140359247465\ \(0\)\
+\-\ infiltration\\:\\ 0\\.07746944136756198\ \(0\)\
+\-\ contrast\\:\\ 0\\.07633006431108173\ \(0\)\
+\-\ irregularity\\:\\ 0\\.07608137400952834\ \(0\)\
+\-\ comparison\\:\\ 0\\.07482050588029857\ \(0\)\
+\-\ remaining\\:\\ 0\\.07464944942494767\ \(0\)\
+\-\ possibly\\:\\ 0\\.07382465994727695\ \(0\)\
+\-\ diverticulitis\\:\\ 0\\.07382465994727695\ \(0\)\
+\-\ within\\:\\ 0\\.07235388177736676\ \(0\)\
+\-\ esr\\:\\ 0\\.0718862405218795\ \(0\)\
+\-\ poorly\\:\\ 0\\.07094549357935916\ \(0\)\
+\-\ asymmetric\\:\\ 0\\.07068810538305297\ \(0\)\
+\-\ tb\\:\\ 0\\.06994360690591303\ \(0\)\
+\-\ mesenteric\\:\\ 0\\.06782097245781031\ \(0\)\
+\-\ nodes\\:\\ 0\\.06672676134115825\ \(0\)\
+\-\ focus\\:\\ 0\\.06653682912195115\ \(0\)\
+\-\ disease\\:\\ 0\\.0659436010498698\ \(0\)\
+\-\ rupture\\:\\ 0\\.06350194940789845\ \(0\)\
+\-\ infectious\\:\\ 0\\.06320259267079266\ \(0\)\
+\-\ junction\\:\\ 0\\.06290960571179369\ \(0\)\
+\-\ prominent\\:\\ 0\\.061863289835000876\ \(0\)\
+\-\ 22\\:\\ 0\\.061863289835000876\ \(0\)\
+\-\ upon\\:\\ 0\\.06179628304790038\ \(0\)\
+\-\ with\\:\\ 0\\.0615229838631606\ \(0\)\
+\-\ lymph\\:\\ 0\\.06107995822268996\ \(0\)\
+\-\ narrowing\\:\\ 0\\.06089089528586545\ \(0\)\
+\-\ nausea\\:\\ 0\\.06033879991962992\ \(0\)\
+\-\ enhanced\\:\\ 0\\.059807989836851934\ \(0\)\
+\-\ are\\:\\ 0\\.05961104144799402\ \(0\)\
+\-\ change\\:\\ 0\\.05952170369168801\ \(0\)\
+\-\ pattern\\:\\ 0\\.058643645801061205\ \(0\)\
+\-\ clear\\:\\ 0\\.056945207718172346\ \(0\)\
+\-\ defined\\:\\ 0\\.05603597535457707\ \(0\)\
+\-\ wbc\\:\\ 0\\.055517925509657166\ \(0\)\
+\-\ quadrant\\:\\ 0\\.05501866112075085\ \(0\)\
+\-\ elevated\\:\\ 0\\.05354744584258963\ \(0\)\
+\-\ thickening\\:\\ 0\\.053437725201690586\ \(0\)\
+\-\ surrounding\\:\\ 0\\.05238607939737745\ \(0\)\
+\-\ several\\:\\ 0\\.051535413335112766\ \(0\)\
+\-\ air\\:\\ 0\\.05137768116852139\ \(0\)\
+\-\ abscess\\:\\ 0\\.0504381179161571\ \(0\)\
+\-\ tenderness\\:\\ 0\\.04925952836979164\ \(0\)\
+\-\ diffuse\\:\\ 0\\.04925952836979164\ \(0\)\
+\-\ and\\:\\ 0\\.04869315520794948\ \(0\)\
+\-\ wall\\:\\ 0\\.047781859978534014\ \(0\)\
+\-\ changes\\:\\ 0\\.04747133809734886\ \(0\)\
+\-\ region\\:\\ 0\\.04698406363389229\ \(0\)\
+\-\ likely\\:\\ 0\\.04693854336904311\ \(0\)\
+\-\ through\\:\\ 0\\.046757952353353366\ \(0\)\
+\-\ however\\:\\ 0\\.04649143046699989\ \(0\)\
+\-\ months\\:\\ 0\\.04572148577626056\ \(0\)\
+\-\ axial\\:\\ 0\\.045372342912694597\ \(0\)\
+\-\ due\\:\\ 0\\.04515105466844784\ \(0\)\
+\-\ evidence\\:\\ 0\\.04458415252329063\ \(0\)\
+\-\ abdominal\\:\\ 0\\.04296016794887715\ \(0\)\
+\-\ follow\\:\\ 0\\.04234437337701677\ \(0\)\
+\-\ small\\:\\ 0\\.040517876526887285\ \(0\)\
+\-\ lower\\:\\ 0\\.04013828493057809\ \(0\)\
+\-\ to\\:\\ 0\\.03927385884709311\ \(0\)\
+\-\ in\\:\\ 0\\.039080552995186674\ \(0\)\
+\-\ seen\\:\\ 0\\.03697992006366366\ \(0\)\
+\-\ which\\:\\ 0\\.03571670938201519\ \(0\)\
+\-\ male\\:\\ 0\\.03497274030137201\ \(0\)\
+\-\ that\\:\\ 0\\.034087031646292724\ \(0\)\
+\-\ as\\:\\ 0\\.031555653825216586\ \(0\)\
+\-\ from\\:\\ 0\\.031196068504627767\ \(0\)\
+\-\ pain\\:\\ 0\\.028107484896356543\ \(0\)\
+\-\ right\\:\\ 0\\.026042023010623586\ \(0\)\
+\-\ no\\:\\ 0\\.025543024717827125\ \(0\)\
+\-\ year\\:\\ 0\\.02420705032062498\ \(0\)\
+\-\ on\\:\\ 0\\.023722945389610613\ \(0\)\
+\-\ old\\:\\ 0\\.02324714778621842\ \(0\)\

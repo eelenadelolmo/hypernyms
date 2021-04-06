@@ -1,82 +1,78 @@
-Texto: 
-unknown
-imaging has been negative for metastatic disease. 
-
-the patient is currently responding well to chemotherapy.
-ultrasound: there is a large, solid, well circumscribed, heterogeneous mass arising from the vagina.   the mass demonstrates increased internal vascularity and multiple cystic regions. 
-
-contrast enhanced ct: there is a large, centrally enhancing, heterogeneous mass centered in the vagina.  the mass displaces the bladder anteriorly, the rectum posteriorly, and the uterus superiorly.
-rhabdomyosarcoma
-â€¢ rhabdomyosarcoma
-â€¢ germ cell tumor
-â€¢ lymphoma 
-â€¢ neuroblastoma
-17 year old girl with a history of menorraghia and, recently, urinary retention.
-
-
-Keywords by value: 
-- vagina: 0.35197457430171086
-- rhabdomyosarcoma: 0.28311612950986026
-- the: 0.22329600859105514
-- menorraghia: 0.21376261043375827
-- mass: 0.21372838493568563
-- heterogeneous: 0.20249038533185876
-- responding: 0.17780458834079335
-- retention: 0.1638134910259807
-- displaces: 0.1542285329271391
-- centered: 0.14577223588021934
-- rectum: 0.14113157845653548
-- superiorly: 0.14071238288037358
-- large: 0.14017802940687804
-- vascularity: 0.13989489571320485
-- centrally: 0.13796300392199723
-- well: 0.13546540594144718
-- germ: 0.1306312735830248
-- neuroblastoma: 0.12852052241284095
-- anteriorly: 0.12681180742563916
-- posteriorly: 0.12330263930415988
-- uterus: 0.12269711856274658
-- recently: 0.12210619011218289
-- urinary: 0.1209654102836125
-- regions: 0.12005369397471401
-- is: 0.11492485774952918
-- 17: 0.11419102993719919
-- there: 0.11131911576492629
-- arising: 0.11114661943526412
-- bladder: 0.10855048788902175
-- circumscribed: 0.1083275559532226
-- currently: 0.10745555851453648
-- solid: 0.10724231939652758
-- enhanced: 0.1065102547632847
-- unknown: 0.10600041635641319
-- chemotherapy: 0.09932715922154392
-- girl: 0.09812704970505094
-- internal: 0.09427382171023159
-- enhancing: 0.08762921240603534
-- and: 0.08671617923582517
-- negative: 0.08660145900434096
-- ultrasound: 0.08628327769460692
-- cystic: 0.08424759902754464
-- lymphoma: 0.08330980576110829
-- been: 0.0814982200691683
-- cell: 0.08002030616250641
-- metastatic: 0.07671958097700325
-- increased: 0.07564281729206096
-- imaging: 0.07351397201112765
-- tumor: 0.07316764309051639
-- demonstrates: 0.07027638787140524
-- multiple: 0.0684204912710894
-- contrast: 0.06796696075264005
-- has: 0.06389510568937028
-- disease: 0.05871849034710627
-- from: 0.05555614246699585
-- history: 0.05344392848700943
-- ct: 0.05325529414109348
-- patient: 0.04549736417658058
-- year: 0.043109609665040884
-- for: 0.04239787988302846
-- old: 0.04140014804015664
-- to: 0.03497081847050881
-- in: 0.03479869217442402
-- with: 0.02739110904303052
-- of: 0.027374752634854237
+\-\ Texto\\:\\ \ \(0\)\
+\-\ unknown\ \(157\)\
+\-\ imaging\\ has\\ been\\ negative\\ for\\ metastatic\\ disease\\.\\ \ \(0\)\
+\-\ the\\ patient\\ is\\ currently\\ responding\\ well\\ to\\ chemotherapy\\.\ \(0\)\
+\-\ ultrasound\\:\\ there\\ is\\ a\\ large\\,\\ solid\\,\\ well\\ circumscribed\\,\\ heterogeneous\\ mass\\ arising\\ from\\ the\\ vagina\\.\\ \\ \\ the\\ mass\\ demonstrates\\ increased\\ internal\\ vascularity\\ and\\ multiple\\ cystic\\ regions\\.\\ \ \(0\)\
+\-\ contrast\\ enhanced\\ ct\\:\\ there\\ is\\ a\\ large\\,\\ centrally\\ enhancing\\,\\ heterogeneous\\ mass\\ centered\\ in\\ the\\ vagina\\.\\ \\ the\\ mass\\ displaces\\ the\\ bladder\\ anteriorly\\,\\ the\\ rectum\\ posteriorly\\,\\ and\\ the\\ uterus\\ superiorly\\.\ \(0\)\
+\-\ rhabdomyosarcoma\ \(41\)\
+\-\ \\â\\€\\¢\\ rhabdomyosarcoma\ \(2\)\
+\-\ \\â\\€\\¢\\ germ\\ cell\\ tumor\ \(3\)\
+\-\ \\â\\€\\¢\\ lymphoma\\ \ \(2\)\
+\-\ \\â\\€\\¢\\ neuroblastoma\ \(1\)\
+\-\ 17\\ year\\ old\\ girl\\ with\\ a\\ history\\ of\\ menorraghia\\ and\\,\\ recently\\,\\ urinary\\ retention\\.\ \(1\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ vagina\\:\\ 0\\.35197457430171086\ \(0\)\
+\-\ rhabdomyosarcoma\\:\\ 0\\.28311612950986026\ \(0\)\
+\-\ the\\:\\ 0\\.22329600859105514\ \(0\)\
+\-\ menorraghia\\:\\ 0\\.21376261043375827\ \(0\)\
+\-\ mass\\:\\ 0\\.21372838493568563\ \(0\)\
+\-\ heterogeneous\\:\\ 0\\.20249038533185876\ \(0\)\
+\-\ responding\\:\\ 0\\.17780458834079335\ \(0\)\
+\-\ retention\\:\\ 0\\.1638134910259807\ \(0\)\
+\-\ displaces\\:\\ 0\\.1542285329271391\ \(0\)\
+\-\ centered\\:\\ 0\\.14577223588021934\ \(0\)\
+\-\ rectum\\:\\ 0\\.14113157845653548\ \(0\)\
+\-\ superiorly\\:\\ 0\\.14071238288037358\ \(0\)\
+\-\ large\\:\\ 0\\.14017802940687804\ \(0\)\
+\-\ vascularity\\:\\ 0\\.13989489571320485\ \(0\)\
+\-\ centrally\\:\\ 0\\.13796300392199723\ \(0\)\
+\-\ well\\:\\ 0\\.13546540594144718\ \(0\)\
+\-\ germ\\:\\ 0\\.1306312735830248\ \(0\)\
+\-\ neuroblastoma\\:\\ 0\\.12852052241284095\ \(0\)\
+\-\ anteriorly\\:\\ 0\\.12681180742563916\ \(0\)\
+\-\ posteriorly\\:\\ 0\\.12330263930415988\ \(0\)\
+\-\ uterus\\:\\ 0\\.12269711856274658\ \(0\)\
+\-\ recently\\:\\ 0\\.12210619011218289\ \(0\)\
+\-\ urinary\\:\\ 0\\.1209654102836125\ \(0\)\
+\-\ regions\\:\\ 0\\.12005369397471401\ \(0\)\
+\-\ is\\:\\ 0\\.11492485774952918\ \(0\)\
+\-\ 17\\:\\ 0\\.11419102993719919\ \(0\)\
+\-\ there\\:\\ 0\\.11131911576492629\ \(0\)\
+\-\ arising\\:\\ 0\\.11114661943526412\ \(0\)\
+\-\ bladder\\:\\ 0\\.10855048788902175\ \(0\)\
+\-\ circumscribed\\:\\ 0\\.1083275559532226\ \(0\)\
+\-\ currently\\:\\ 0\\.10745555851453648\ \(0\)\
+\-\ solid\\:\\ 0\\.10724231939652758\ \(0\)\
+\-\ enhanced\\:\\ 0\\.1065102547632847\ \(0\)\
+\-\ unknown\\:\\ 0\\.10600041635641319\ \(0\)\
+\-\ chemotherapy\\:\\ 0\\.09932715922154392\ \(0\)\
+\-\ girl\\:\\ 0\\.09812704970505094\ \(0\)\
+\-\ internal\\:\\ 0\\.09427382171023159\ \(0\)\
+\-\ enhancing\\:\\ 0\\.08762921240603534\ \(0\)\
+\-\ and\\:\\ 0\\.08671617923582517\ \(0\)\
+\-\ negative\\:\\ 0\\.08660145900434096\ \(0\)\
+\-\ ultrasound\\:\\ 0\\.08628327769460692\ \(0\)\
+\-\ cystic\\:\\ 0\\.08424759902754464\ \(0\)\
+\-\ lymphoma\\:\\ 0\\.08330980576110829\ \(0\)\
+\-\ been\\:\\ 0\\.0814982200691683\ \(0\)\
+\-\ cell\\:\\ 0\\.08002030616250641\ \(0\)\
+\-\ metastatic\\:\\ 0\\.07671958097700325\ \(0\)\
+\-\ increased\\:\\ 0\\.07564281729206096\ \(0\)\
+\-\ imaging\\:\\ 0\\.07351397201112765\ \(0\)\
+\-\ tumor\\:\\ 0\\.07316764309051639\ \(0\)\
+\-\ demonstrates\\:\\ 0\\.07027638787140524\ \(0\)\
+\-\ multiple\\:\\ 0\\.0684204912710894\ \(0\)\
+\-\ contrast\\:\\ 0\\.06796696075264005\ \(0\)\
+\-\ has\\:\\ 0\\.06389510568937028\ \(0\)\
+\-\ disease\\:\\ 0\\.05871849034710627\ \(0\)\
+\-\ from\\:\\ 0\\.05555614246699585\ \(0\)\
+\-\ history\\:\\ 0\\.05344392848700943\ \(0\)\
+\-\ ct\\:\\ 0\\.05325529414109348\ \(0\)\
+\-\ patient\\:\\ 0\\.04549736417658058\ \(0\)\
+\-\ year\\:\\ 0\\.043109609665040884\ \(0\)\
+\-\ for\\:\\ 0\\.04239787988302846\ \(0\)\
+\-\ old\\:\\ 0\\.04140014804015664\ \(0\)\
+\-\ to\\:\\ 0\\.03497081847050881\ \(0\)\
+\-\ in\\:\\ 0\\.03479869217442402\ \(0\)\
+\-\ with\\:\\ 0\\.02739110904303052\ \(0\)\
+\-\ of\\:\\ 0\\.027374752634854237\ \(0\)\

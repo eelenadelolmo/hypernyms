@@ -1,26 +1,24 @@
-Texto: 
-large heterogeneous retroperitoneal mass containing fat.
-retroperitoneal liposarcoma
-see factoid.
-65 year old male with vague abdominal pain.
-see factoid.
-
-
-Keywords by value: 
-- retroperitoneal: 0.5344488447102101
-- factoid: 0.38724258594296807
-- see: 0.34492762084690404
-- liposarcoma: 0.2965761632199045
-- vague: 0.27127696474292123
-- containing: 0.24905395792050378
-- 65: 0.23723745978143476
-- heterogeneous: 0.2006641200096381
-- fat: 0.17246381042345202
-- abdominal: 0.15163292123979347
-- large: 0.1389137606188887
-- male: 0.1234403641524008
-- mass: 0.10590038192162214
-- pain: 0.09920864482209996
-- year: 0.08544160625915297
-- old: 0.08205351835477706
-- with: 0.054288136033716
+\-\ Texto\\:\\ \ \(0\)\
+\-\ large\\ heterogeneous\\ retroperitoneal\\ mass\\ containing\\ fat\\.\ \(0\)\
+\-\ retroperitoneal\\ liposarcoma\ \(1\)\
+\-\ see\\ factoid\\.\ \(59\)\
+\-\ 65\\ year\\ old\\ male\\ with\\ vague\\ abdominal\\ pain\\.\ \(1\)\
+\-\ see\\ factoid\\.\ \(59\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ retroperitoneal\\:\\ 0\\.5344488447102101\ \(0\)\
+\-\ factoid\\:\\ 0\\.38724258594296807\ \(0\)\
+\-\ see\\:\\ 0\\.34492762084690404\ \(0\)\
+\-\ liposarcoma\\:\\ 0\\.2965761632199045\ \(0\)\
+\-\ vague\\:\\ 0\\.27127696474292123\ \(0\)\
+\-\ containing\\:\\ 0\\.24905395792050378\ \(0\)\
+\-\ 65\\:\\ 0\\.23723745978143476\ \(0\)\
+\-\ heterogeneous\\:\\ 0\\.2006641200096381\ \(0\)\
+\-\ fat\\:\\ 0\\.17246381042345202\ \(0\)\
+\-\ abdominal\\:\\ 0\\.15163292123979347\ \(0\)\
+\-\ large\\:\\ 0\\.1389137606188887\ \(0\)\
+\-\ male\\:\\ 0\\.1234403641524008\ \(0\)\
+\-\ mass\\:\\ 0\\.10590038192162214\ \(0\)\
+\-\ pain\\:\\ 0\\.09920864482209996\ \(0\)\
+\-\ year\\:\\ 0\\.08544160625915297\ \(0\)\
+\-\ old\\:\\ 0\\.08205351835477706\ \(0\)\
+\-\ with\\:\\ 0\\.054288136033716\ \(0\)\

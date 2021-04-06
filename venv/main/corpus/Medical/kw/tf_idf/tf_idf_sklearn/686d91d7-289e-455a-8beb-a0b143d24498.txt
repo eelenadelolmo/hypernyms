@@ -1,55 +1,53 @@
-Texto: 
-negative
-tumor resected.  post-op clinical course was complicated by sepsis and by a large left pca infarct.
-complex mass occupying the frontal horn of the left lateral ventricle with minimal patchy enhancement.
-subependymoma, lateral ventricle
-â€¢ neurocytoma
-â€¢ ependymoma
-â€¢ subependymal giant cell astrocytoma
-â€¢ choroid plexus pappilloma
-â€¢ menintioma
-43 y.o. man with headaches
-
-
-Keywords by value: 
-- menintioma: 0.2792540744792225
-- pappilloma: 0.26684217646067016
-- ventricle: 0.25706905238133354
-- pca: 0.21559923504976827
-- subependymoma: 0.2137434240111569
-- neurocytoma: 0.19535283074248355
-- sepsis: 0.19077543901266347
-- occupying: 0.189936715120927
-- subependymal: 0.18605665438916374
-- lateral: 0.17331932271775402
-- horn: 0.17222070858367397
-- patchy: 0.1699852991477675
-- complicated: 0.16557603694958425
-- choroid: 0.16376417639527482
-- 43: 0.1634143267924083
-- resected: 0.15980881056512156
-- plexus: 0.15743002144293
-- giant: 0.1557598887114804
-- by: 0.14830685776672978
-- ependymoma: 0.14750015550129084
-- infarct: 0.14530555752736776
-- complex: 0.1345416089016623
-- minimal: 0.1332162284267634
-- astrocytoma: 0.1318216743380878
-- headaches: 0.13025150929492452
-- course: 0.12898305446494115
-- left: 0.11913281762645793
-- frontal: 0.1123895723854535
-- clinical: 0.11066542394576155
-- negative: 0.10810553706514049
-- enhancement: 0.10050775699864331
-- cell: 0.09989021285866681
-- man: 0.09244555898945547
-- tumor: 0.09133595949802999
-- large: 0.08749287441568392
-- the: 0.06968570509888357
-- with: 0.06838523479744635
-- mass: 0.06669986310039883
-- was: 0.060856511069382016
-- and: 0.036082914523245156
-- of: 0.03417219951765416
+\-\ Texto\\:\\ \ \(0\)\
+\-\ negative\ \(599\)\
+\-\ tumor\\ resected\\.\\ \\ post\\-op\\ clinical\\ course\\ was\\ complicated\\ by\\ sepsis\\ and\\ by\\ a\\ large\\ left\\ pca\\ infarct\\.\ \(0\)\
+\-\ complex\\ mass\\ occupying\\ the\\ frontal\\ horn\\ of\\ the\\ left\\ lateral\\ ventricle\\ with\\ minimal\\ patchy\\ enhancement\\.\ \(0\)\
+\-\ subependymoma\\,\\ lateral\\ ventricle\ \(0\)\
+\-\ \\â\\€\\¢\\ neurocytoma\ \(1\)\
+\-\ \\â\\€\\¢\\ ependymoma\ \(8\)\
+\-\ \\â\\€\\¢\\ subependymal\\ giant\\ cell\\ astrocytoma\ \(0\)\
+\-\ \\â\\€\\¢\\ choroid\\ plexus\\ pappilloma\ \(0\)\
+\-\ \\â\\€\\¢\\ menintioma\ \(0\)\
+\-\ 43\\ y\\.o\\.\\ man\\ with\\ headaches\ \(1\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ menintioma\\:\\ 0\\.2792540744792225\ \(0\)\
+\-\ pappilloma\\:\\ 0\\.26684217646067016\ \(0\)\
+\-\ ventricle\\:\\ 0\\.25706905238133354\ \(0\)\
+\-\ pca\\:\\ 0\\.21559923504976827\ \(0\)\
+\-\ subependymoma\\:\\ 0\\.2137434240111569\ \(0\)\
+\-\ neurocytoma\\:\\ 0\\.19535283074248355\ \(0\)\
+\-\ sepsis\\:\\ 0\\.19077543901266347\ \(0\)\
+\-\ occupying\\:\\ 0\\.189936715120927\ \(0\)\
+\-\ subependymal\\:\\ 0\\.18605665438916374\ \(0\)\
+\-\ lateral\\:\\ 0\\.17331932271775402\ \(0\)\
+\-\ horn\\:\\ 0\\.17222070858367397\ \(0\)\
+\-\ patchy\\:\\ 0\\.1699852991477675\ \(0\)\
+\-\ complicated\\:\\ 0\\.16557603694958425\ \(0\)\
+\-\ choroid\\:\\ 0\\.16376417639527482\ \(0\)\
+\-\ 43\\:\\ 0\\.1634143267924083\ \(0\)\
+\-\ resected\\:\\ 0\\.15980881056512156\ \(0\)\
+\-\ plexus\\:\\ 0\\.15743002144293\ \(0\)\
+\-\ giant\\:\\ 0\\.1557598887114804\ \(0\)\
+\-\ by\\:\\ 0\\.14830685776672978\ \(0\)\
+\-\ ependymoma\\:\\ 0\\.14750015550129084\ \(0\)\
+\-\ infarct\\:\\ 0\\.14530555752736776\ \(0\)\
+\-\ complex\\:\\ 0\\.1345416089016623\ \(0\)\
+\-\ minimal\\:\\ 0\\.1332162284267634\ \(0\)\
+\-\ astrocytoma\\:\\ 0\\.1318216743380878\ \(0\)\
+\-\ headaches\\:\\ 0\\.13025150929492452\ \(0\)\
+\-\ course\\:\\ 0\\.12898305446494115\ \(0\)\
+\-\ left\\:\\ 0\\.11913281762645793\ \(0\)\
+\-\ frontal\\:\\ 0\\.1123895723854535\ \(0\)\
+\-\ clinical\\:\\ 0\\.11066542394576155\ \(0\)\
+\-\ negative\\:\\ 0\\.10810553706514049\ \(0\)\
+\-\ enhancement\\:\\ 0\\.10050775699864331\ \(0\)\
+\-\ cell\\:\\ 0\\.09989021285866681\ \(0\)\
+\-\ man\\:\\ 0\\.09244555898945547\ \(0\)\
+\-\ tumor\\:\\ 0\\.09133595949802999\ \(0\)\
+\-\ large\\:\\ 0\\.08749287441568392\ \(0\)\
+\-\ the\\:\\ 0\\.06968570509888357\ \(0\)\
+\-\ with\\:\\ 0\\.06838523479744635\ \(0\)\
+\-\ mass\\:\\ 0\\.06669986310039883\ \(0\)\
+\-\ was\\:\\ 0\\.060856511069382016\ \(0\)\
+\-\ and\\:\\ 0\\.036082914523245156\ \(0\)\
+\-\ of\\:\\ 0\\.03417219951765416\ \(0\)\

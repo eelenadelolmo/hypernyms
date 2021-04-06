@@ -1,80 +1,78 @@
-Texto: 
-papilledema and unsteady gait.
-surgery only
-complex enhancing mass in the posterior fossa (cerebellum) and with a second smaller lesion in the quadrigeminal plate of the brain stem.
-obstructive hydrocephalus from the mass
-herniation of cerebellum (tonsils) from hydrocephalus
-pilocytic astrocytoma
-ependymoma
-mendullobastoma
-diffuse astrocytoma
-circumscribed (pilocytic) astrocytoma
-13 year old boy with a recent onset of severe headaches.
-had a ct scan at outside facility.
-this is an unsual presentation for a pilocyitic astrocytoma - since they are not typically multicentric or multifocal.
-
-
-Keywords by value: 
-- astrocytoma: 0.4016825115896136
-- pilocytic: 0.2552030758608527
-- cerebellum: 0.24443383228003737
-- hydrocephalus: 0.2171804979899869
-- mendullobastoma: 0.21273337364983866
-- unsual: 0.21273337364983866
-- pilocyitic: 0.21273337364983866
-- multicentric: 0.17765891272022233
-- quadrigeminal: 0.16735555623042253
-- unsteady: 0.16424165954962378
-- tonsils: 0.14807775484955216
-- papilledema: 0.14666401381878416
-- stem: 0.14065154594969922
-- facility: 0.1319138501494805
-- multifocal: 0.12916719862000745
-- obstructive: 0.12370590597810162
-- plate: 0.1219777388110064
-- smaller: 0.1197119205052351
-- gait: 0.1152096992377672
-- ependymoma: 0.11236436120827328
-- herniation: 0.1118963939629129
-- outside: 0.1067856241031694
-- the: 0.1061719523233403
-- from: 0.10566250864030657
-- fossa: 0.10442810459723123
-- circumscribed: 0.10301436356646325
-- complex: 0.10249265086392616
-- mass: 0.10162277435551591
-- 13: 0.10032640722315547
-- second: 0.09958604074933727
-- headaches: 0.09922448955119631
-- since: 0.09635855599616241
-- they: 0.09504768877838049
-- typically: 0.09338388113277826
-- presentation: 0.09157108734968157
-- boy: 0.09099684146216672
-- recent: 0.09007011348424815
-- onset: 0.08541810435706283
-- severe: 0.08420956527397631
-- diffuse: 0.08342213604926563
-- enhancing: 0.08333122137211492
-- only: 0.08310547338308386
-- brain: 0.08292643538154595
-- scan: 0.07892130554280319
-- of: 0.07809627095306902
-- surgery: 0.0715190054104881
-- posterior: 0.06878754678346928
-- had: 0.06627714809371432
-- in: 0.06618380883330387
-- lesion: 0.06377437648158465
-- and: 0.054975313445031405
-- not: 0.052514473474988235
-- with: 0.05209528897090278
-- an: 0.050867701103101584
-- ct: 0.050643256780006224
-- are: 0.05047632990293289
-- at: 0.05024462168565551
-- or: 0.04627647170985354
-- this: 0.04570923531638258
-- year: 0.04099519244355968
-- for: 0.04031837120560092
-- old: 0.03936957558384963
-- is: 0.03642936147027473
+\-\ Texto\\:\\ \ \(0\)\
+\-\ papilledema\\ and\\ unsteady\\ gait\\.\ \(0\)\
+\-\ surgery\\ only\ \(3\)\
+\-\ complex\\ enhancing\\ mass\\ in\\ the\\ posterior\\ fossa\\ \\(cerebellum\\)\\ and\\ with\\ a\\ second\\ smaller\\ lesion\\ in\\ the\\ quadrigeminal\\ plate\\ of\\ the\\ brain\\ stem\\.\ \(0\)\
+\-\ obstructive\\ hydrocephalus\\ from\\ the\\ mass\ \(1\)\
+\-\ herniation\\ of\\ cerebellum\\ \\(tonsils\\)\\ from\\ hydrocephalus\ \(0\)\
+\-\ pilocytic\\ astrocytoma\ \(31\)\
+\-\ ependymoma\ \(74\)\
+\-\ mendullobastoma\ \(0\)\
+\-\ diffuse\\ astrocytoma\ \(6\)\
+\-\ circumscribed\\ \\(pilocytic\\)\\ astrocytoma\ \(0\)\
+\-\ 13\\ year\\ old\\ boy\\ with\\ a\\ recent\\ onset\\ of\\ severe\\ headaches\\.\ \(1\)\
+\-\ had\\ a\\ ct\\ scan\\ at\\ outside\\ facility\\.\ \(0\)\
+\-\ this\\ is\\ an\\ unsual\\ presentation\\ for\\ a\\ pilocyitic\\ astrocytoma\\ \\-\\ since\\ they\\ are\\ not\\ typically\\ multicentric\\ or\\ multifocal\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ astrocytoma\\:\\ 0\\.4016825115896136\ \(0\)\
+\-\ pilocytic\\:\\ 0\\.2552030758608527\ \(0\)\
+\-\ cerebellum\\:\\ 0\\.24443383228003737\ \(0\)\
+\-\ hydrocephalus\\:\\ 0\\.2171804979899869\ \(0\)\
+\-\ mendullobastoma\\:\\ 0\\.21273337364983866\ \(0\)\
+\-\ unsual\\:\\ 0\\.21273337364983866\ \(0\)\
+\-\ pilocyitic\\:\\ 0\\.21273337364983866\ \(0\)\
+\-\ multicentric\\:\\ 0\\.17765891272022233\ \(0\)\
+\-\ quadrigeminal\\:\\ 0\\.16735555623042253\ \(0\)\
+\-\ unsteady\\:\\ 0\\.16424165954962378\ \(0\)\
+\-\ tonsils\\:\\ 0\\.14807775484955216\ \(0\)\
+\-\ papilledema\\:\\ 0\\.14666401381878416\ \(0\)\
+\-\ stem\\:\\ 0\\.14065154594969922\ \(0\)\
+\-\ facility\\:\\ 0\\.1319138501494805\ \(0\)\
+\-\ multifocal\\:\\ 0\\.12916719862000745\ \(0\)\
+\-\ obstructive\\:\\ 0\\.12370590597810162\ \(0\)\
+\-\ plate\\:\\ 0\\.1219777388110064\ \(0\)\
+\-\ smaller\\:\\ 0\\.1197119205052351\ \(0\)\
+\-\ gait\\:\\ 0\\.1152096992377672\ \(0\)\
+\-\ ependymoma\\:\\ 0\\.11236436120827328\ \(0\)\
+\-\ herniation\\:\\ 0\\.1118963939629129\ \(0\)\
+\-\ outside\\:\\ 0\\.1067856241031694\ \(0\)\
+\-\ the\\:\\ 0\\.1061719523233403\ \(0\)\
+\-\ from\\:\\ 0\\.10566250864030657\ \(0\)\
+\-\ fossa\\:\\ 0\\.10442810459723123\ \(0\)\
+\-\ circumscribed\\:\\ 0\\.10301436356646325\ \(0\)\
+\-\ complex\\:\\ 0\\.10249265086392616\ \(0\)\
+\-\ mass\\:\\ 0\\.10162277435551591\ \(0\)\
+\-\ 13\\:\\ 0\\.10032640722315547\ \(0\)\
+\-\ second\\:\\ 0\\.09958604074933727\ \(0\)\
+\-\ headaches\\:\\ 0\\.09922448955119631\ \(0\)\
+\-\ since\\:\\ 0\\.09635855599616241\ \(0\)\
+\-\ they\\:\\ 0\\.09504768877838049\ \(0\)\
+\-\ typically\\:\\ 0\\.09338388113277826\ \(0\)\
+\-\ presentation\\:\\ 0\\.09157108734968157\ \(0\)\
+\-\ boy\\:\\ 0\\.09099684146216672\ \(0\)\
+\-\ recent\\:\\ 0\\.09007011348424815\ \(0\)\
+\-\ onset\\:\\ 0\\.08541810435706283\ \(0\)\
+\-\ severe\\:\\ 0\\.08420956527397631\ \(0\)\
+\-\ diffuse\\:\\ 0\\.08342213604926563\ \(0\)\
+\-\ enhancing\\:\\ 0\\.08333122137211492\ \(0\)\
+\-\ only\\:\\ 0\\.08310547338308386\ \(0\)\
+\-\ brain\\:\\ 0\\.08292643538154595\ \(0\)\
+\-\ scan\\:\\ 0\\.07892130554280319\ \(0\)\
+\-\ of\\:\\ 0\\.07809627095306902\ \(0\)\
+\-\ surgery\\:\\ 0\\.0715190054104881\ \(0\)\
+\-\ posterior\\:\\ 0\\.06878754678346928\ \(0\)\
+\-\ had\\:\\ 0\\.06627714809371432\ \(0\)\
+\-\ in\\:\\ 0\\.06618380883330387\ \(0\)\
+\-\ lesion\\:\\ 0\\.06377437648158465\ \(0\)\
+\-\ and\\:\\ 0\\.054975313445031405\ \(0\)\
+\-\ not\\:\\ 0\\.052514473474988235\ \(0\)\
+\-\ with\\:\\ 0\\.05209528897090278\ \(0\)\
+\-\ an\\:\\ 0\\.050867701103101584\ \(0\)\
+\-\ ct\\:\\ 0\\.050643256780006224\ \(0\)\
+\-\ are\\:\\ 0\\.05047632990293289\ \(0\)\
+\-\ at\\:\\ 0\\.05024462168565551\ \(0\)\
+\-\ or\\:\\ 0\\.04627647170985354\ \(0\)\
+\-\ this\\:\\ 0\\.04570923531638258\ \(0\)\
+\-\ year\\:\\ 0\\.04099519244355968\ \(0\)\
+\-\ for\\:\\ 0\\.04031837120560092\ \(0\)\
+\-\ old\\:\\ 0\\.03936957558384963\ \(0\)\
+\-\ is\\:\\ 0\\.03642936147027473\ \(0\)\

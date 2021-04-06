@@ -1,129 +1,127 @@
-Texto: 
-temp: 99.2.  patient was tender to palpation in the right upper and lower quadrants, with rebound tenderness in the rlq, mcburney&#8217;s point (1/3 distance from right anterior superior iliac spine to the umbilicus).  elevated wbc at 15.2.
-an open appendectomy was performed and an incidental meckel&#8217;s diverticulum was found and also removed.  the appendix was enlarged with significant erythema.  antibiotics were given pre and post-op to decrease risk of infection.
-calcified fecalith in right lower quadrant, superior to iliac spine in mid clavicular line, seen best in supine film.
-acute appendicitis
-meckel diverticulitis, phlebolith, bone island (should not move in relation to iliac spine with repositioning of patient), calcified lymph node, and appediceal tumor.
-9 year old male presents to the emergency department with 8 hour history of worsening abdominal pain, starting in the peri-umbilical region migrating to the upper portion of the right lower quadrant.  he complained of worse pain while driving over bump (cat's eye sign) en route to ed.  upon arrival, patient had multiple episodes of emisis and diarrhea.  he had no recent illnesses or fevers, and no previous medical history.
-
-
-Keywords by value: 
-- iliac: 0.23709517441646852
-- 8217: 0.22327317037740774
-- meckel: 0.18758617828754798
-- to: 0.17169865454682587
-- spine: 0.17013716719194555
-- in: 0.1494968598591532
-- calcified: 0.1383177749001443
-- appediceal: 0.13729284250082743
-- emisis: 0.13729284250082743
-- the: 0.13704148886697048
-- lower: 0.13160833415738102
-- migrating: 0.13119064054379123
-- and: 0.12417896272039938
-- phlebolith: 0.12075885739613088
-- quadrant: 0.12026613078918116
-- was: 0.11967830234856866
-- fecalith: 0.11642927620550675
-- cat: 0.11642927620550675
-- right: 0.113851310868387
-- mcburney: 0.11163658518870387
-- superior: 0.11162930589588163
-- repositioning: 0.11032707424847053
-- island: 0.10912244095785054
-- umbilicus: 0.1080071247354056
-- illnesses: 0.1080071247354056
-- driving: 0.10599749305784639
-- route: 0.10599749305784639
-- clavicular: 0.10341116700126426
-- bump: 0.10263920898284201
-- he: 0.10167444833437493
-- quadrants: 0.10120480204104353
-- of: 0.10080279218915852
-- move: 0.09757534158774525
-- arrival: 0.09757534158774525
-- starting: 0.0965370070258058
-- relation: 0.09556570991018605
-- distance: 0.09220742583518166
-- upper: 0.09175382282664847
-- en: 0.09111900842564313
-- appendectomy: 0.09077301889338318
-- rlq: 0.0891531901176441
-- supine: 0.08610522387814545
-- had: 0.0855472547491491
-- temp: 0.0851339267625257
-- patient: 0.08376808746770138
-- complained: 0.08274693980314106
-- rebound: 0.08177564268752131
-- hour: 0.0814040217863386
-- diarrhea: 0.08122159674289274
-- diverticulitis: 0.08068722527798278
-- episodes: 0.07841735861251693
-- erythema: 0.0776830724080443
-- appendix: 0.07739910394923971
-- diverticulum: 0.07605447074845742
-- fevers: 0.07579938189902277
-- decrease: 0.07378975022146357
-- node: 0.07378975022146357
-- removed: 0.07292952284845329
-- appendicitis: 0.07282537100153665
-- department: 0.07261920501294754
-- worse: 0.07191908427562169
-- point: 0.07097223863867826
-- open: 0.07097223863867826
-- pre: 0.07016819619430709
-- best: 0.06907775581523601
-- eye: 0.06867853129758876
-- ed: 0.06867853129758876
-- upon: 0.06754071898453551
-- with: 0.06724201455564771
-- line: 0.06689715805531805
-- lymph: 0.06675780630217107
-- an: 0.06565750503654073
-- history: 0.0655993412239887
-- worsening: 0.06555850890304989
-- previous: 0.06487003668164204
-- film: 0.06415324017328623
-- emergency: 0.06369366608818207
-- incidental: 0.06363719366989525
-- antibiotics: 0.06324771103624735
-- tender: 0.06276131704746121
-- mid: 0.0617833739251913
-- pain: 0.06144058008393093
-- portion: 0.06138989054960749
-- risk: 0.06134142067900098
-- wbc: 0.060678740217200364
-- sign: 0.05943497472158489
-- given: 0.05905607656590309
-- elevated: 0.05852508943281599
-- enlarged: 0.05852508943281599
-- recent: 0.05812901705295695
-- palpation: 0.05789628228385159
-- should: 0.056017120779322485
-- no: 0.05583488745252041
-- found: 0.055548864462714787
-- while: 0.055483144350354945
-- medical: 0.054561110394318234
-- tenderness: 0.05383857731954466
-- infection: 0.051858368685208045
-- region: 0.05135159077753095
-- performed: 0.0507891414367838
-- significant: 0.04956789985113849
-- anterior: 0.04793362434348638
-- over: 0.04773637536250846
-- abdominal: 0.04695364329136857
-- bone: 0.04684243676211783
-- acute: 0.046441568753503235
-- tumor: 0.04490453192280275
-- were: 0.044253195285938914
-- multiple: 0.04199110432811943
-- presents: 0.04129828227270905
-- seen: 0.04041748574351115
-- also: 0.040381380451948744
-- male: 0.03822372331007636
-- from: 0.034095981058604646
-- not: 0.03389153855888614
-- at: 0.03242663251773985
-- or: 0.02986568695334436
-- year: 0.026457280317046385
-- old: 0.025408147519226765
+\-\ Texto\\:\\ \ \(0\)\
+\-\ temp\\:\\ 99\\.2\\.\\ \\ patient\\ was\\ tender\\ to\\ palpation\\ in\\ the\\ right\\ upper\\ and\\ lower\\ quadrants\\,\\ with\\ rebound\\ tenderness\\ in\\ the\\ rlq\\,\\ mcburney\\&\\#8217\\;s\\ point\\ \\(1\\/3\\ distance\\ from\\ right\\ anterior\\ superior\\ iliac\\ spine\\ to\\ the\\ umbilicus\\)\\.\\ \\ elevated\\ wbc\\ at\\ 15\\.2\\.\ \(0\)\
+\-\ an\\ open\\ appendectomy\\ was\\ performed\\ and\\ an\\ incidental\\ meckel\\&\\#8217\\;s\\ diverticulum\\ was\\ found\\ and\\ also\\ removed\\.\\ \\ the\\ appendix\\ was\\ enlarged\\ with\\ significant\\ erythema\\.\\ \\ antibiotics\\ were\\ given\\ pre\\ and\\ post\\-op\\ to\\ decrease\\ risk\\ of\\ infection\\.\ \(0\)\
+\-\ calcified\\ fecalith\\ in\\ right\\ lower\\ quadrant\\,\\ superior\\ to\\ iliac\\ spine\\ in\\ mid\\ clavicular\\ line\\,\\ seen\\ best\\ in\\ supine\\ film\\.\ \(0\)\
+\-\ acute\\ appendicitis\ \(36\)\
+\-\ meckel\\ diverticulitis\\,\\ phlebolith\\,\\ bone\\ island\\ \\(should\\ not\\ move\\ in\\ relation\\ to\\ iliac\\ spine\\ with\\ repositioning\\ of\\ patient\\)\\,\\ calcified\\ lymph\\ node\\,\\ and\\ appediceal\\ tumor\\.\ \(0\)\
+\-\ 9\\ year\\ old\\ male\\ presents\\ to\\ the\\ emergency\\ department\\ with\\ 8\\ hour\\ history\\ of\\ worsening\\ abdominal\\ pain\\,\\ starting\\ in\\ the\\ peri\\-umbilical\\ region\\ migrating\\ to\\ the\\ upper\\ portion\\ of\\ the\\ right\\ lower\\ quadrant\\.\\ \\ he\\ complained\\ of\\ worse\\ pain\\ while\\ driving\\ over\\ bump\\ \\(cat\\'s\\ eye\\ sign\\)\\ en\\ route\\ to\\ ed\\.\\ \\ upon\\ arrival\\,\\ patient\\ had\\ multiple\\ episodes\\ of\\ emisis\\ and\\ diarrhea\\.\\ \\ he\\ had\\ no\\ recent\\ illnesses\\ or\\ fevers\\,\\ and\\ no\\ previous\\ medical\\ history\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ iliac\\:\\ 0\\.23709517441646852\ \(0\)\
+\-\ 8217\\:\\ 0\\.22327317037740774\ \(0\)\
+\-\ meckel\\:\\ 0\\.18758617828754798\ \(0\)\
+\-\ to\\:\\ 0\\.17169865454682587\ \(0\)\
+\-\ spine\\:\\ 0\\.17013716719194555\ \(0\)\
+\-\ in\\:\\ 0\\.1494968598591532\ \(0\)\
+\-\ calcified\\:\\ 0\\.1383177749001443\ \(0\)\
+\-\ appediceal\\:\\ 0\\.13729284250082743\ \(0\)\
+\-\ emisis\\:\\ 0\\.13729284250082743\ \(0\)\
+\-\ the\\:\\ 0\\.13704148886697048\ \(0\)\
+\-\ lower\\:\\ 0\\.13160833415738102\ \(0\)\
+\-\ migrating\\:\\ 0\\.13119064054379123\ \(0\)\
+\-\ and\\:\\ 0\\.12417896272039938\ \(0\)\
+\-\ phlebolith\\:\\ 0\\.12075885739613088\ \(0\)\
+\-\ quadrant\\:\\ 0\\.12026613078918116\ \(0\)\
+\-\ was\\:\\ 0\\.11967830234856866\ \(0\)\
+\-\ fecalith\\:\\ 0\\.11642927620550675\ \(0\)\
+\-\ cat\\:\\ 0\\.11642927620550675\ \(0\)\
+\-\ right\\:\\ 0\\.113851310868387\ \(0\)\
+\-\ mcburney\\:\\ 0\\.11163658518870387\ \(0\)\
+\-\ superior\\:\\ 0\\.11162930589588163\ \(0\)\
+\-\ repositioning\\:\\ 0\\.11032707424847053\ \(0\)\
+\-\ island\\:\\ 0\\.10912244095785054\ \(0\)\
+\-\ umbilicus\\:\\ 0\\.1080071247354056\ \(0\)\
+\-\ illnesses\\:\\ 0\\.1080071247354056\ \(0\)\
+\-\ driving\\:\\ 0\\.10599749305784639\ \(0\)\
+\-\ route\\:\\ 0\\.10599749305784639\ \(0\)\
+\-\ clavicular\\:\\ 0\\.10341116700126426\ \(0\)\
+\-\ bump\\:\\ 0\\.10263920898284201\ \(0\)\
+\-\ he\\:\\ 0\\.10167444833437493\ \(0\)\
+\-\ quadrants\\:\\ 0\\.10120480204104353\ \(0\)\
+\-\ of\\:\\ 0\\.10080279218915852\ \(0\)\
+\-\ move\\:\\ 0\\.09757534158774525\ \(0\)\
+\-\ arrival\\:\\ 0\\.09757534158774525\ \(0\)\
+\-\ starting\\:\\ 0\\.0965370070258058\ \(0\)\
+\-\ relation\\:\\ 0\\.09556570991018605\ \(0\)\
+\-\ distance\\:\\ 0\\.09220742583518166\ \(0\)\
+\-\ upper\\:\\ 0\\.09175382282664847\ \(0\)\
+\-\ en\\:\\ 0\\.09111900842564313\ \(0\)\
+\-\ appendectomy\\:\\ 0\\.09077301889338318\ \(0\)\
+\-\ rlq\\:\\ 0\\.0891531901176441\ \(0\)\
+\-\ supine\\:\\ 0\\.08610522387814545\ \(0\)\
+\-\ had\\:\\ 0\\.0855472547491491\ \(0\)\
+\-\ temp\\:\\ 0\\.0851339267625257\ \(0\)\
+\-\ patient\\:\\ 0\\.08376808746770138\ \(0\)\
+\-\ complained\\:\\ 0\\.08274693980314106\ \(0\)\
+\-\ rebound\\:\\ 0\\.08177564268752131\ \(0\)\
+\-\ hour\\:\\ 0\\.0814040217863386\ \(0\)\
+\-\ diarrhea\\:\\ 0\\.08122159674289274\ \(0\)\
+\-\ diverticulitis\\:\\ 0\\.08068722527798278\ \(0\)\
+\-\ episodes\\:\\ 0\\.07841735861251693\ \(0\)\
+\-\ erythema\\:\\ 0\\.0776830724080443\ \(0\)\
+\-\ appendix\\:\\ 0\\.07739910394923971\ \(0\)\
+\-\ diverticulum\\:\\ 0\\.07605447074845742\ \(0\)\
+\-\ fevers\\:\\ 0\\.07579938189902277\ \(0\)\
+\-\ decrease\\:\\ 0\\.07378975022146357\ \(0\)\
+\-\ node\\:\\ 0\\.07378975022146357\ \(0\)\
+\-\ removed\\:\\ 0\\.07292952284845329\ \(0\)\
+\-\ appendicitis\\:\\ 0\\.07282537100153665\ \(0\)\
+\-\ department\\:\\ 0\\.07261920501294754\ \(0\)\
+\-\ worse\\:\\ 0\\.07191908427562169\ \(0\)\
+\-\ point\\:\\ 0\\.07097223863867826\ \(0\)\
+\-\ open\\:\\ 0\\.07097223863867826\ \(0\)\
+\-\ pre\\:\\ 0\\.07016819619430709\ \(0\)\
+\-\ best\\:\\ 0\\.06907775581523601\ \(0\)\
+\-\ eye\\:\\ 0\\.06867853129758876\ \(0\)\
+\-\ ed\\:\\ 0\\.06867853129758876\ \(0\)\
+\-\ upon\\:\\ 0\\.06754071898453551\ \(0\)\
+\-\ with\\:\\ 0\\.06724201455564771\ \(0\)\
+\-\ line\\:\\ 0\\.06689715805531805\ \(0\)\
+\-\ lymph\\:\\ 0\\.06675780630217107\ \(0\)\
+\-\ an\\:\\ 0\\.06565750503654073\ \(0\)\
+\-\ history\\:\\ 0\\.0655993412239887\ \(0\)\
+\-\ worsening\\:\\ 0\\.06555850890304989\ \(0\)\
+\-\ previous\\:\\ 0\\.06487003668164204\ \(0\)\
+\-\ film\\:\\ 0\\.06415324017328623\ \(0\)\
+\-\ emergency\\:\\ 0\\.06369366608818207\ \(0\)\
+\-\ incidental\\:\\ 0\\.06363719366989525\ \(0\)\
+\-\ antibiotics\\:\\ 0\\.06324771103624735\ \(0\)\
+\-\ tender\\:\\ 0\\.06276131704746121\ \(0\)\
+\-\ mid\\:\\ 0\\.0617833739251913\ \(0\)\
+\-\ pain\\:\\ 0\\.06144058008393093\ \(0\)\
+\-\ portion\\:\\ 0\\.06138989054960749\ \(0\)\
+\-\ risk\\:\\ 0\\.06134142067900098\ \(0\)\
+\-\ wbc\\:\\ 0\\.060678740217200364\ \(0\)\
+\-\ sign\\:\\ 0\\.05943497472158489\ \(0\)\
+\-\ given\\:\\ 0\\.05905607656590309\ \(0\)\
+\-\ elevated\\:\\ 0\\.05852508943281599\ \(0\)\
+\-\ enlarged\\:\\ 0\\.05852508943281599\ \(0\)\
+\-\ recent\\:\\ 0\\.05812901705295695\ \(0\)\
+\-\ palpation\\:\\ 0\\.05789628228385159\ \(0\)\
+\-\ should\\:\\ 0\\.056017120779322485\ \(0\)\
+\-\ no\\:\\ 0\\.05583488745252041\ \(0\)\
+\-\ found\\:\\ 0\\.055548864462714787\ \(0\)\
+\-\ while\\:\\ 0\\.055483144350354945\ \(0\)\
+\-\ medical\\:\\ 0\\.054561110394318234\ \(0\)\
+\-\ tenderness\\:\\ 0\\.05383857731954466\ \(0\)\
+\-\ infection\\:\\ 0\\.051858368685208045\ \(0\)\
+\-\ region\\:\\ 0\\.05135159077753095\ \(0\)\
+\-\ performed\\:\\ 0\\.0507891414367838\ \(0\)\
+\-\ significant\\:\\ 0\\.04956789985113849\ \(0\)\
+\-\ anterior\\:\\ 0\\.04793362434348638\ \(0\)\
+\-\ over\\:\\ 0\\.04773637536250846\ \(0\)\
+\-\ abdominal\\:\\ 0\\.04695364329136857\ \(0\)\
+\-\ bone\\:\\ 0\\.04684243676211783\ \(0\)\
+\-\ acute\\:\\ 0\\.046441568753503235\ \(0\)\
+\-\ tumor\\:\\ 0\\.04490453192280275\ \(0\)\
+\-\ were\\:\\ 0\\.044253195285938914\ \(0\)\
+\-\ multiple\\:\\ 0\\.04199110432811943\ \(0\)\
+\-\ presents\\:\\ 0\\.04129828227270905\ \(0\)\
+\-\ seen\\:\\ 0\\.04041748574351115\ \(0\)\
+\-\ also\\:\\ 0\\.040381380451948744\ \(0\)\
+\-\ male\\:\\ 0\\.03822372331007636\ \(0\)\
+\-\ from\\:\\ 0\\.034095981058604646\ \(0\)\
+\-\ not\\:\\ 0\\.03389153855888614\ \(0\)\
+\-\ at\\:\\ 0\\.03242663251773985\ \(0\)\
+\-\ or\\:\\ 0\\.02986568695334436\ \(0\)\
+\-\ year\\:\\ 0\\.026457280317046385\ \(0\)\
+\-\ old\\:\\ 0\\.025408147519226765\ \(0\)\

@@ -1,75 +1,73 @@
-Texto: 
-t2 slightly hyperintense liver lesion with minimal septal enhancement.  no definitive central scar.  corresponding to photopenic focus on sulfur colloid liver/spleen scintigram.
-photopenic defect on liver/spleen scan of uncertain etiology
-1. focal nodular hyperplasia
-2. fibrolamellar hcc
-3. adenoma
-4. regenerating nodule
-history of blunt trauma with an incidental liver lesion noted on ct of the abdomen.  asymptomatic.
-the fact that there was no radiotracer uptake in the lesion does not rule out fnh, however it likewise does not rule out any of the other entities in the differential.
-
-
-Keywords by value: 
-- liver: 0.3425767914824756
-- photopenic: 0.30144405012363107
-- rule: 0.19706853170798727
-- scintigram: 0.17860025137405558
-- lesion: 0.17856037697139882
-- regenerating: 0.1746322075598426
-- does: 0.17165469219780546
-- likewise: 0.16580767061314433
-- out: 0.16321068781388617
-- fnh: 0.15619162876693038
-- sulfur: 0.1532854534038833
-- fibrolamellar: 0.1532854534038833
-- entities: 0.148428960271398
-- hcc: 0.14357246713891272
-- uncertain: 0.1381998078525545
-- blunt: 0.13176932885209452
-- colloid: 0.1298334770094272
-- the: 0.12386181355636437
-- septal: 0.1208551303340456
-- fact: 0.11908951511043728
-- scar: 0.11719580071757452
-- corresponding: 0.11618333974739017
-- definitive: 0.11340117603625512
-- hyperplasia: 0.11318461717461757
-- on: 0.11248601681793947
-- radiotracer: 0.10837126377087626
-- focus: 0.10516489073769562
-- etiology: 0.10001228438400041
-- adenoma: 0.09897844425097166
-- nodular: 0.09886654690409297
-- hyperintense: 0.09875522192466231
-- not: 0.09802269288989553
-- nodule: 0.0979914949306731
-- of: 0.09718218333497208
-- slightly: 0.0968430086050373
-- uptake: 0.0954638332129664
-- minimal: 0.09471327655888018
-- incidental: 0.09202723388672203
-- defect: 0.09107042108294704
-- asymptomatic: 0.08451873424967685
-- central: 0.08290584937934431
-- no: 0.08074413641314732
-- differential: 0.08066645659152978
-- any: 0.08023547248778734
-- abdomen: 0.07575200340874255
-- focal: 0.07426073625202426
-- scan: 0.0736566358165656
-- however: 0.07348210411920877
-- trauma: 0.07210140392306075
-- enhancement: 0.07145840335930692
-- t2: 0.07142674664677937
-- noted: 0.06582398659827741
-- other: 0.0644729299164515
-- it: 0.06355049373905793
-- in: 0.061768829983989026
-- that: 0.05387631190065384
-- there: 0.04939877841663121
-- with: 0.04862012483317875
-- an: 0.04747442669894772
-- history: 0.04743237067421763
-- ct: 0.047264954571571864
-- was: 0.04326739790934472
-- to: 0.031037179927316555
+\-\ Texto\\:\\ \ \(0\)\
+\-\ t2\\ slightly\\ hyperintense\\ liver\\ lesion\\ with\\ minimal\\ septal\\ enhancement\\.\\ \\ no\\ definitive\\ central\\ scar\\.\\ \\ corresponding\\ to\\ photopenic\\ focus\\ on\\ sulfur\\ colloid\\ liver\\/spleen\\ scintigram\\.\ \(0\)\
+\-\ photopenic\\ defect\\ on\\ liver\\/spleen\\ scan\\ of\\ uncertain\\ etiology\ \(1\)\
+\-\ 1\\.\\ focal\\ nodular\\ hyperplasia\ \(0\)\
+\-\ 2\\.\\ fibrolamellar\\ hcc\ \(0\)\
+\-\ 3\\.\\ adenoma\ \(0\)\
+\-\ 4\\.\\ regenerating\\ nodule\ \(0\)\
+\-\ history\\ of\\ blunt\\ trauma\\ with\\ an\\ incidental\\ liver\\ lesion\\ noted\\ on\\ ct\\ of\\ the\\ abdomen\\.\\ \\ asymptomatic\\.\ \(0\)\
+\-\ the\\ fact\\ that\\ there\\ was\\ no\\ radiotracer\\ uptake\\ in\\ the\\ lesion\\ does\\ not\\ rule\\ out\\ fnh\\,\\ however\\ it\\ likewise\\ does\\ not\\ rule\\ out\\ any\\ of\\ the\\ other\\ entities\\ in\\ the\\ differential\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ liver\\:\\ 0\\.3425767914824756\ \(0\)\
+\-\ photopenic\\:\\ 0\\.30144405012363107\ \(0\)\
+\-\ rule\\:\\ 0\\.19706853170798727\ \(0\)\
+\-\ scintigram\\:\\ 0\\.17860025137405558\ \(0\)\
+\-\ lesion\\:\\ 0\\.17856037697139882\ \(0\)\
+\-\ regenerating\\:\\ 0\\.1746322075598426\ \(0\)\
+\-\ does\\:\\ 0\\.17165469219780546\ \(0\)\
+\-\ likewise\\:\\ 0\\.16580767061314433\ \(0\)\
+\-\ out\\:\\ 0\\.16321068781388617\ \(0\)\
+\-\ fnh\\:\\ 0\\.15619162876693038\ \(0\)\
+\-\ sulfur\\:\\ 0\\.1532854534038833\ \(0\)\
+\-\ fibrolamellar\\:\\ 0\\.1532854534038833\ \(0\)\
+\-\ entities\\:\\ 0\\.148428960271398\ \(0\)\
+\-\ hcc\\:\\ 0\\.14357246713891272\ \(0\)\
+\-\ uncertain\\:\\ 0\\.1381998078525545\ \(0\)\
+\-\ blunt\\:\\ 0\\.13176932885209452\ \(0\)\
+\-\ colloid\\:\\ 0\\.1298334770094272\ \(0\)\
+\-\ the\\:\\ 0\\.12386181355636437\ \(0\)\
+\-\ septal\\:\\ 0\\.1208551303340456\ \(0\)\
+\-\ fact\\:\\ 0\\.11908951511043728\ \(0\)\
+\-\ scar\\:\\ 0\\.11719580071757452\ \(0\)\
+\-\ corresponding\\:\\ 0\\.11618333974739017\ \(0\)\
+\-\ definitive\\:\\ 0\\.11340117603625512\ \(0\)\
+\-\ hyperplasia\\:\\ 0\\.11318461717461757\ \(0\)\
+\-\ on\\:\\ 0\\.11248601681793947\ \(0\)\
+\-\ radiotracer\\:\\ 0\\.10837126377087626\ \(0\)\
+\-\ focus\\:\\ 0\\.10516489073769562\ \(0\)\
+\-\ etiology\\:\\ 0\\.10001228438400041\ \(0\)\
+\-\ adenoma\\:\\ 0\\.09897844425097166\ \(0\)\
+\-\ nodular\\:\\ 0\\.09886654690409297\ \(0\)\
+\-\ hyperintense\\:\\ 0\\.09875522192466231\ \(0\)\
+\-\ not\\:\\ 0\\.09802269288989553\ \(0\)\
+\-\ nodule\\:\\ 0\\.0979914949306731\ \(0\)\
+\-\ of\\:\\ 0\\.09718218333497208\ \(0\)\
+\-\ slightly\\:\\ 0\\.0968430086050373\ \(0\)\
+\-\ uptake\\:\\ 0\\.0954638332129664\ \(0\)\
+\-\ minimal\\:\\ 0\\.09471327655888018\ \(0\)\
+\-\ incidental\\:\\ 0\\.09202723388672203\ \(0\)\
+\-\ defect\\:\\ 0\\.09107042108294704\ \(0\)\
+\-\ asymptomatic\\:\\ 0\\.08451873424967685\ \(0\)\
+\-\ central\\:\\ 0\\.08290584937934431\ \(0\)\
+\-\ no\\:\\ 0\\.08074413641314732\ \(0\)\
+\-\ differential\\:\\ 0\\.08066645659152978\ \(0\)\
+\-\ any\\:\\ 0\\.08023547248778734\ \(0\)\
+\-\ abdomen\\:\\ 0\\.07575200340874255\ \(0\)\
+\-\ focal\\:\\ 0\\.07426073625202426\ \(0\)\
+\-\ scan\\:\\ 0\\.0736566358165656\ \(0\)\
+\-\ however\\:\\ 0\\.07348210411920877\ \(0\)\
+\-\ trauma\\:\\ 0\\.07210140392306075\ \(0\)\
+\-\ enhancement\\:\\ 0\\.07145840335930692\ \(0\)\
+\-\ t2\\:\\ 0\\.07142674664677937\ \(0\)\
+\-\ noted\\:\\ 0\\.06582398659827741\ \(0\)\
+\-\ other\\:\\ 0\\.0644729299164515\ \(0\)\
+\-\ it\\:\\ 0\\.06355049373905793\ \(0\)\
+\-\ in\\:\\ 0\\.061768829983989026\ \(0\)\
+\-\ that\\:\\ 0\\.05387631190065384\ \(0\)\
+\-\ there\\:\\ 0\\.04939877841663121\ \(0\)\
+\-\ with\\:\\ 0\\.04862012483317875\ \(0\)\
+\-\ an\\:\\ 0\\.04747442669894772\ \(0\)\
+\-\ history\\:\\ 0\\.04743237067421763\ \(0\)\
+\-\ ct\\:\\ 0\\.047264954571571864\ \(0\)\
+\-\ was\\:\\ 0\\.04326739790934472\ \(0\)\
+\-\ to\\:\\ 0\\.031037179927316555\ \(0\)\

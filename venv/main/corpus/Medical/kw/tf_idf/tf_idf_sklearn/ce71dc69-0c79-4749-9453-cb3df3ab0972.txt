@@ -1,100 +1,98 @@
-Texto: 
-temperature: 99.4 f.  tenderness to palpation over the right lower quadrant.  positive guarding and rebound.
-surgical removal of the appendix.  patients generally do well and are often discharged from the hospital after 24 to 48 hours.
-ultrasonic images using linear and curvilinear transducers over the right lower quadrant at the point of maximal tenderness demonstrates an immobile, noncompressible, blind ending tubular structure.  the appendix measures up to 1.1 cm and demonstrates a 7 mm round hyperechoic structure intraluminally.
-acute appendicitis diagnosed by ultrasound
-acute appendicitis
-16 year old girl is brought to the emergency room with seven hours of worsening right lower quadrant abdominal pain and nausea.  she denies fevers and chills.
-the patient was found to have appendicitis at laproscopy without perforation or abscess.  an appendicolith measuring 6 mm was found in the appendix.
-
-
-Keywords by value: 
-- appendix: 0.2819425435354946
-- appendicitis: 0.26528175762286693
-- quadrant: 0.2190473602776591
-- the: 0.1872009362975853
-- structure: 0.1781370311867472
-- transducers: 0.16670603512105892
-- lower: 0.1598036953465523
-- laproscopy: 0.15929651634910005
-- hours: 0.15889738817278728
-- intraluminally: 0.14996162668090696
-- mm: 0.14920182859948214
-- ultrasonic: 0.14662986034495581
-- noncompressible: 0.14662986034495581
-- immobile: 0.1355532608420646
-- found: 0.13489896168477192
-- tenderness: 0.1307455741758099
-- to: 0.1303017759963944
-- and: 0.12924229579102872
-- maximal: 0.11914416679689384
-- appendicolith: 0.11914416679689384
-- ending: 0.11783831698525186
-- over: 0.11592653663189216
-- acute: 0.11278213271244528
-- seven: 0.11242431937533434
-- blind: 0.10980927712870071
-- curvilinear: 0.10788390623246648
-- temperature: 0.10614219639776838
-- demonstrates: 0.10474033552263427
-- right: 0.10368184686005864
-- brought: 0.10281043006181724
-- guarding: 0.101998113138292
-- rebound: 0.09929500266432996
-- perforation: 0.0984034052615667
-- hyperechoic: 0.09596323632837883
-- chills: 0.09485537460511569
-- fevers: 0.0920384063061182
-- tubular: 0.09056388731387643
-- 48: 0.09028274143309258
-- discharged: 0.08946436042396272
-- generally: 0.08830165670772183
-- do: 0.08640133601664647
-- point: 0.08617711085010397
-- using: 0.08573674925742246
-- round: 0.08541330502966721
-- room: 0.08530675008169103
-- measures: 0.08499076315736587
-- denies: 0.08407431990196237
-- linear: 0.08397527292885355
-- 16: 0.08122899764568331
-- measuring: 0.08064350659290243
-- nausea: 0.0800761933949947
-- an: 0.07972376521024171
-- removal: 0.07968148859508699
-- worsening: 0.0796035604522517
-- at: 0.07874722732654373
-- emergency: 0.07733919949848432
-- hospital: 0.07699888944414947
-- diagnosed: 0.07551026218646609
-- 24: 0.07390467306906173
-- girl: 0.07312456161492048
-- was: 0.07265890526823697
-- palpation: 0.07029980217455499
-- positive: 0.06869028234011491
-- often: 0.06801805493947766
-- abscess: 0.06693690444810746
-- ultrasound: 0.06429854841332104
-- she: 0.06205292184114151
-- of: 0.06119923482131047
-- cm: 0.05986750083873965
-- patients: 0.05864196092056506
-- abdominal: 0.05701284615434623
-- without: 0.054983862309155807
-- have: 0.05207471665556486
-- up: 0.05156470806217207
-- surgical: 0.05066512895069846
-- after: 0.05056961938588936
-- well: 0.05047460640684931
-- images: 0.04821897602297962
-- by: 0.044267300818548794
-- from: 0.041400598256303496
-- are: 0.039555189114008904
-- pain: 0.037301709669490944
-- or: 0.036264019066607714
-- patient: 0.033904767544189106
-- year: 0.03212540596728233
-- old: 0.030851510213838976
-- is: 0.028547445605303007
-- in: 0.025932086184960877
-- with: 0.020411933783177745
+\-\ Texto\\:\\ \ \(0\)\
+\-\ temperature\\:\\ 99\\.4\\ f\\.\\ \\ tenderness\\ to\\ palpation\\ over\\ the\\ right\\ lower\\ quadrant\\.\\ \\ positive\\ guarding\\ and\\ rebound\\.\ \(0\)\
+\-\ surgical\\ removal\\ of\\ the\\ appendix\\.\\ \\ patients\\ generally\\ do\\ well\\ and\\ are\\ often\\ discharged\\ from\\ the\\ hospital\\ after\\ 24\\ to\\ 48\\ hours\\.\ \(0\)\
+\-\ ultrasonic\\ images\\ using\\ linear\\ and\\ curvilinear\\ transducers\\ over\\ the\\ right\\ lower\\ quadrant\\ at\\ the\\ point\\ of\\ maximal\\ tenderness\\ demonstrates\\ an\\ immobile\\,\\ noncompressible\\,\\ blind\\ ending\\ tubular\\ structure\\.\\ \\ the\\ appendix\\ measures\\ up\\ to\\ 1\\.1\\ cm\\ and\\ demonstrates\\ a\\ 7\\ mm\\ round\\ hyperechoic\\ structure\\ intraluminally\\.\ \(0\)\
+\-\ acute\\ appendicitis\\ diagnosed\\ by\\ ultrasound\ \(0\)\
+\-\ acute\\ appendicitis\ \(36\)\
+\-\ 16\\ year\\ old\\ girl\\ is\\ brought\\ to\\ the\\ emergency\\ room\\ with\\ seven\\ hours\\ of\\ worsening\\ right\\ lower\\ quadrant\\ abdominal\\ pain\\ and\\ nausea\\.\\ \\ she\\ denies\\ fevers\\ and\\ chills\\.\ \(0\)\
+\-\ the\\ patient\\ was\\ found\\ to\\ have\\ appendicitis\\ at\\ laproscopy\\ without\\ perforation\\ or\\ abscess\\.\\ \\ an\\ appendicolith\\ measuring\\ 6\\ mm\\ was\\ found\\ in\\ the\\ appendix\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ appendix\\:\\ 0\\.2819425435354946\ \(0\)\
+\-\ appendicitis\\:\\ 0\\.26528175762286693\ \(0\)\
+\-\ quadrant\\:\\ 0\\.2190473602776591\ \(0\)\
+\-\ the\\:\\ 0\\.1872009362975853\ \(0\)\
+\-\ structure\\:\\ 0\\.1781370311867472\ \(0\)\
+\-\ transducers\\:\\ 0\\.16670603512105892\ \(0\)\
+\-\ lower\\:\\ 0\\.1598036953465523\ \(0\)\
+\-\ laproscopy\\:\\ 0\\.15929651634910005\ \(0\)\
+\-\ hours\\:\\ 0\\.15889738817278728\ \(0\)\
+\-\ intraluminally\\:\\ 0\\.14996162668090696\ \(0\)\
+\-\ mm\\:\\ 0\\.14920182859948214\ \(0\)\
+\-\ ultrasonic\\:\\ 0\\.14662986034495581\ \(0\)\
+\-\ noncompressible\\:\\ 0\\.14662986034495581\ \(0\)\
+\-\ immobile\\:\\ 0\\.1355532608420646\ \(0\)\
+\-\ found\\:\\ 0\\.13489896168477192\ \(0\)\
+\-\ tenderness\\:\\ 0\\.1307455741758099\ \(0\)\
+\-\ to\\:\\ 0\\.1303017759963944\ \(0\)\
+\-\ and\\:\\ 0\\.12924229579102872\ \(0\)\
+\-\ maximal\\:\\ 0\\.11914416679689384\ \(0\)\
+\-\ appendicolith\\:\\ 0\\.11914416679689384\ \(0\)\
+\-\ ending\\:\\ 0\\.11783831698525186\ \(0\)\
+\-\ over\\:\\ 0\\.11592653663189216\ \(0\)\
+\-\ acute\\:\\ 0\\.11278213271244528\ \(0\)\
+\-\ seven\\:\\ 0\\.11242431937533434\ \(0\)\
+\-\ blind\\:\\ 0\\.10980927712870071\ \(0\)\
+\-\ curvilinear\\:\\ 0\\.10788390623246648\ \(0\)\
+\-\ temperature\\:\\ 0\\.10614219639776838\ \(0\)\
+\-\ demonstrates\\:\\ 0\\.10474033552263427\ \(0\)\
+\-\ right\\:\\ 0\\.10368184686005864\ \(0\)\
+\-\ brought\\:\\ 0\\.10281043006181724\ \(0\)\
+\-\ guarding\\:\\ 0\\.101998113138292\ \(0\)\
+\-\ rebound\\:\\ 0\\.09929500266432996\ \(0\)\
+\-\ perforation\\:\\ 0\\.0984034052615667\ \(0\)\
+\-\ hyperechoic\\:\\ 0\\.09596323632837883\ \(0\)\
+\-\ chills\\:\\ 0\\.09485537460511569\ \(0\)\
+\-\ fevers\\:\\ 0\\.0920384063061182\ \(0\)\
+\-\ tubular\\:\\ 0\\.09056388731387643\ \(0\)\
+\-\ 48\\:\\ 0\\.09028274143309258\ \(0\)\
+\-\ discharged\\:\\ 0\\.08946436042396272\ \(0\)\
+\-\ generally\\:\\ 0\\.08830165670772183\ \(0\)\
+\-\ do\\:\\ 0\\.08640133601664647\ \(0\)\
+\-\ point\\:\\ 0\\.08617711085010397\ \(0\)\
+\-\ using\\:\\ 0\\.08573674925742246\ \(0\)\
+\-\ round\\:\\ 0\\.08541330502966721\ \(0\)\
+\-\ room\\:\\ 0\\.08530675008169103\ \(0\)\
+\-\ measures\\:\\ 0\\.08499076315736587\ \(0\)\
+\-\ denies\\:\\ 0\\.08407431990196237\ \(0\)\
+\-\ linear\\:\\ 0\\.08397527292885355\ \(0\)\
+\-\ 16\\:\\ 0\\.08122899764568331\ \(0\)\
+\-\ measuring\\:\\ 0\\.08064350659290243\ \(0\)\
+\-\ nausea\\:\\ 0\\.0800761933949947\ \(0\)\
+\-\ an\\:\\ 0\\.07972376521024171\ \(0\)\
+\-\ removal\\:\\ 0\\.07968148859508699\ \(0\)\
+\-\ worsening\\:\\ 0\\.0796035604522517\ \(0\)\
+\-\ at\\:\\ 0\\.07874722732654373\ \(0\)\
+\-\ emergency\\:\\ 0\\.07733919949848432\ \(0\)\
+\-\ hospital\\:\\ 0\\.07699888944414947\ \(0\)\
+\-\ diagnosed\\:\\ 0\\.07551026218646609\ \(0\)\
+\-\ 24\\:\\ 0\\.07390467306906173\ \(0\)\
+\-\ girl\\:\\ 0\\.07312456161492048\ \(0\)\
+\-\ was\\:\\ 0\\.07265890526823697\ \(0\)\
+\-\ palpation\\:\\ 0\\.07029980217455499\ \(0\)\
+\-\ positive\\:\\ 0\\.06869028234011491\ \(0\)\
+\-\ often\\:\\ 0\\.06801805493947766\ \(0\)\
+\-\ abscess\\:\\ 0\\.06693690444810746\ \(0\)\
+\-\ ultrasound\\:\\ 0\\.06429854841332104\ \(0\)\
+\-\ she\\:\\ 0\\.06205292184114151\ \(0\)\
+\-\ of\\:\\ 0\\.06119923482131047\ \(0\)\
+\-\ cm\\:\\ 0\\.05986750083873965\ \(0\)\
+\-\ patients\\:\\ 0\\.05864196092056506\ \(0\)\
+\-\ abdominal\\:\\ 0\\.05701284615434623\ \(0\)\
+\-\ without\\:\\ 0\\.054983862309155807\ \(0\)\
+\-\ have\\:\\ 0\\.05207471665556486\ \(0\)\
+\-\ up\\:\\ 0\\.05156470806217207\ \(0\)\
+\-\ surgical\\:\\ 0\\.05066512895069846\ \(0\)\
+\-\ after\\:\\ 0\\.05056961938588936\ \(0\)\
+\-\ well\\:\\ 0\\.05047460640684931\ \(0\)\
+\-\ images\\:\\ 0\\.04821897602297962\ \(0\)\
+\-\ by\\:\\ 0\\.044267300818548794\ \(0\)\
+\-\ from\\:\\ 0\\.041400598256303496\ \(0\)\
+\-\ are\\:\\ 0\\.039555189114008904\ \(0\)\
+\-\ pain\\:\\ 0\\.037301709669490944\ \(0\)\
+\-\ or\\:\\ 0\\.036264019066607714\ \(0\)\
+\-\ patient\\:\\ 0\\.033904767544189106\ \(0\)\
+\-\ year\\:\\ 0\\.03212540596728233\ \(0\)\
+\-\ old\\:\\ 0\\.030851510213838976\ \(0\)\
+\-\ is\\:\\ 0\\.028547445605303007\ \(0\)\
+\-\ in\\:\\ 0\\.025932086184960877\ \(0\)\
+\-\ with\\:\\ 0\\.020411933783177745\ \(0\)\

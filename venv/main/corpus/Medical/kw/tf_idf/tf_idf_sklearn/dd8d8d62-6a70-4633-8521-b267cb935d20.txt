@@ -1,70 +1,68 @@
-Texto: 
-fever, right cva tenderness, elevated wbc count and +wbc's and rbc's in urine.
-contrast enhanced ct of the abdomen revealed mildly enlarged right kidney with bluring of the renal capsule/perirenal fat interface, stranding of the perirenal fat, and striated nephrogram.
-acute pyelonephritis (pyuria with positve culture for e. coli).
-ddx of striated nephrogram:
-bacterial nephritis (acute)
-contusion
-hypotension 
-obstruction (ureteral)
-intratubular obstr.
-renal v thrombosis
-26 year old female with right flank pain, nausea and vomiting.
-
-
-Keywords by value: 
-- perirenal: 0.31484342194585796
-- striated: 0.3082229178818239
-- nephrogram: 0.3052597938360487
-- bluring: 0.1958981901590374
-- intratubular: 0.1958981901590374
-- obstr: 0.1958981901590374
-- positve: 0.18719117894422388
-- pyuria: 0.1762216421184853
-- wbc: 0.17316059851566273
-- nephritis: 0.16359943374376293
-- renal: 0.15256376734739865
-- fat: 0.15240046576734026
-- coli: 0.14540444772609842
-- cva: 0.14440547077408347
-- interface: 0.13382996577246806
-- hypotension: 0.1326689191311168
-- acute: 0.13253158870103451
-- ureteral: 0.12765224300163408
-- pyelonephritis: 0.12720946170843392
-- rbc: 0.12322134722241591
-- right: 0.12183773753291186
-- contusion: 0.12049080021150943
-- culture: 0.11864903216792823
-- ddx: 0.11641594334284101
-- bacterial: 0.11463600280278857
-- urine: 0.10964985138620117
-- stranding: 0.10964985138620117
-- flank: 0.1074454425412115
-- and: 0.10124941115289472
-- count: 0.10113717753307042
-- thrombosis: 0.09987362887416028
-- 26: 0.0995086206771385
-- mildly: 0.09891373133585334
-- of: 0.09588790497321904
-- nausea: 0.09409846109958206
-- enhanced: 0.09327066187268195
-- vomiting: 0.09064135400286404
-- kidney: 0.08605810618574022
-- obstruction: 0.0858016955941774
-- elevated: 0.08350733286562523
-- enlarged: 0.08350733286562523
-- fever: 0.0830540362052488
-- revealed: 0.08032014209821955
-- tenderness: 0.07682031827385782
-- abdomen: 0.07474313351606444
-- the: 0.07332732853201432
-- with: 0.07195889848019378
-- contrast: 0.05951843255808803
-- female: 0.05911009622533846
-- ct: 0.04663547696701581
-- pain: 0.04383367050139897
-- year: 0.037750936146641975
-- for: 0.037127676837101
-- old: 0.036253966511621764
-- in: 0.030473094432321976
+\-\ Texto\\:\\ \ \(0\)\
+\-\ fever\\,\\ right\\ cva\\ tenderness\\,\\ elevated\\ wbc\\ count\\ and\\ \\+wbc\\'s\\ and\\ rbc\\'s\\ in\\ urine\\.\ \(0\)\
+\-\ contrast\\ enhanced\\ ct\\ of\\ the\\ abdomen\\ revealed\\ mildly\\ enlarged\\ right\\ kidney\\ with\\ bluring\\ of\\ the\\ renal\\ capsule\\/perirenal\\ fat\\ interface\\,\\ stranding\\ of\\ the\\ perirenal\\ fat\\,\\ and\\ striated\\ nephrogram\\.\ \(0\)\
+\-\ acute\\ pyelonephritis\\ \\(pyuria\\ with\\ positve\\ culture\\ for\\ e\\.\\ coli\\)\\.\ \(0\)\
+\-\ ddx\\ of\\ striated\\ nephrogram\\:\ \(0\)\
+\-\ bacterial\\ nephritis\\ \\(acute\\)\ \(0\)\
+\-\ contusion\ \(92\)\
+\-\ hypotension\\ \ \(7\)\
+\-\ obstruction\\ \\(ureteral\\)\ \(0\)\
+\-\ intratubular\\ obstr\\.\ \(0\)\
+\-\ renal\\ v\\ thrombosis\ \(0\)\
+\-\ 26\\ year\\ old\\ female\\ with\\ right\\ flank\\ pain\\,\\ nausea\\ and\\ vomiting\\.\ \(1\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ perirenal\\:\\ 0\\.31484342194585796\ \(0\)\
+\-\ striated\\:\\ 0\\.3082229178818239\ \(0\)\
+\-\ nephrogram\\:\\ 0\\.3052597938360487\ \(0\)\
+\-\ bluring\\:\\ 0\\.1958981901590374\ \(0\)\
+\-\ intratubular\\:\\ 0\\.1958981901590374\ \(0\)\
+\-\ obstr\\:\\ 0\\.1958981901590374\ \(0\)\
+\-\ positve\\:\\ 0\\.18719117894422388\ \(0\)\
+\-\ pyuria\\:\\ 0\\.1762216421184853\ \(0\)\
+\-\ wbc\\:\\ 0\\.17316059851566273\ \(0\)\
+\-\ nephritis\\:\\ 0\\.16359943374376293\ \(0\)\
+\-\ renal\\:\\ 0\\.15256376734739865\ \(0\)\
+\-\ fat\\:\\ 0\\.15240046576734026\ \(0\)\
+\-\ coli\\:\\ 0\\.14540444772609842\ \(0\)\
+\-\ cva\\:\\ 0\\.14440547077408347\ \(0\)\
+\-\ interface\\:\\ 0\\.13382996577246806\ \(0\)\
+\-\ hypotension\\:\\ 0\\.1326689191311168\ \(0\)\
+\-\ acute\\:\\ 0\\.13253158870103451\ \(0\)\
+\-\ ureteral\\:\\ 0\\.12765224300163408\ \(0\)\
+\-\ pyelonephritis\\:\\ 0\\.12720946170843392\ \(0\)\
+\-\ rbc\\:\\ 0\\.12322134722241591\ \(0\)\
+\-\ right\\:\\ 0\\.12183773753291186\ \(0\)\
+\-\ contusion\\:\\ 0\\.12049080021150943\ \(0\)\
+\-\ culture\\:\\ 0\\.11864903216792823\ \(0\)\
+\-\ ddx\\:\\ 0\\.11641594334284101\ \(0\)\
+\-\ bacterial\\:\\ 0\\.11463600280278857\ \(0\)\
+\-\ urine\\:\\ 0\\.10964985138620117\ \(0\)\
+\-\ stranding\\:\\ 0\\.10964985138620117\ \(0\)\
+\-\ flank\\:\\ 0\\.1074454425412115\ \(0\)\
+\-\ and\\:\\ 0\\.10124941115289472\ \(0\)\
+\-\ count\\:\\ 0\\.10113717753307042\ \(0\)\
+\-\ thrombosis\\:\\ 0\\.09987362887416028\ \(0\)\
+\-\ 26\\:\\ 0\\.0995086206771385\ \(0\)\
+\-\ mildly\\:\\ 0\\.09891373133585334\ \(0\)\
+\-\ of\\:\\ 0\\.09588790497321904\ \(0\)\
+\-\ nausea\\:\\ 0\\.09409846109958206\ \(0\)\
+\-\ enhanced\\:\\ 0\\.09327066187268195\ \(0\)\
+\-\ vomiting\\:\\ 0\\.09064135400286404\ \(0\)\
+\-\ kidney\\:\\ 0\\.08605810618574022\ \(0\)\
+\-\ obstruction\\:\\ 0\\.0858016955941774\ \(0\)\
+\-\ elevated\\:\\ 0\\.08350733286562523\ \(0\)\
+\-\ enlarged\\:\\ 0\\.08350733286562523\ \(0\)\
+\-\ fever\\:\\ 0\\.0830540362052488\ \(0\)\
+\-\ revealed\\:\\ 0\\.08032014209821955\ \(0\)\
+\-\ tenderness\\:\\ 0\\.07682031827385782\ \(0\)\
+\-\ abdomen\\:\\ 0\\.07474313351606444\ \(0\)\
+\-\ the\\:\\ 0\\.07332732853201432\ \(0\)\
+\-\ with\\:\\ 0\\.07195889848019378\ \(0\)\
+\-\ contrast\\:\\ 0\\.05951843255808803\ \(0\)\
+\-\ female\\:\\ 0\\.05911009622533846\ \(0\)\
+\-\ ct\\:\\ 0\\.04663547696701581\ \(0\)\
+\-\ pain\\:\\ 0\\.04383367050139897\ \(0\)\
+\-\ year\\:\\ 0\\.037750936146641975\ \(0\)\
+\-\ for\\:\\ 0\\.037127676837101\ \(0\)\
+\-\ old\\:\\ 0\\.036253966511621764\ \(0\)\
+\-\ in\\:\\ 0\\.030473094432321976\ \(0\)\

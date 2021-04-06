@@ -1,61 +1,59 @@
-Texto: 
-wbc = 23k
-right sided abdominal pain with nausea and vomiting
-surgical excision of cystic mass and portion of jejunum
-abdominal ct demonstrates large septated cystic mass in the right abdomen with enhancing walls and a small amount of free fluid in the abdomen
-lymphangioma - confirmed by surgery and pathology
-abcess
-pancreatitis
-mesenteric cyst
-ovarian cystic mass
-lymphangioma
-3yo girl with several day history of abdominal pain and fever.
-
-
-Keywords by value: 
-- lymphangioma: 0.3592852746508176
-- cystic: 0.28712844082729216
-- abdominal: 0.2607455275997293
-- 23k: 0.2428450019129512
-- 3yo: 0.23483057993771556
-- septated: 0.19621034928790096
-- abdomen: 0.1939300399095939
-- jejunum: 0.18863465461007267
-- abcess: 0.18491465593822926
-- mass: 0.1821045900283007
-- and: 0.1641898511443493
-- pancreatitis: 0.15759011863808634
-- walls: 0.14903682865082982
-- mesenteric: 0.1372124931082093
-- ovarian: 0.13538836916597097
-- amount: 0.12712978605188266
-- excision: 0.1252953924123192
-- pathology: 0.12475443157772897
-- of: 0.12439634494523166
-- free: 0.12370303858907125
-- nausea: 0.12207488138392798
-- vomiting: 0.117589941525913
-- confirmed: 0.11717873689990072
-- pain: 0.1137317245054123
-- portion: 0.11363789387840477
-- wbc: 0.11232149430052364
-- girl: 0.11147722946019971
-- fever: 0.10774683772439758
-- right: 0.10537421606839593
-- several: 0.10426424586394355
-- sided: 0.1022226355056379
-- day: 0.10122653290868165
-- enhancing: 0.09955116196978003
-- with: 0.09335300379877082
-- fluid: 0.09175438647357365
-- cyst: 0.09167256965230508
-- surgery: 0.08543976644412378
-- small: 0.08197403623434117
-- demonstrates: 0.0798374866045869
-- large: 0.07962462132734847
-- in: 0.07906610468985585
-- surgical: 0.0772381820955107
-- by: 0.06748479501210636
-- the: 0.06341885459226866
-- history: 0.06071497203990824
-- ct: 0.06050067400152887
+\-\ Texto\\:\\ \ \(0\)\
+\-\ wbc\\ \\=\\ 23k\ \(0\)\
+\-\ right\\ sided\\ abdominal\\ pain\\ with\\ nausea\\ and\\ vomiting\ \(0\)\
+\-\ surgical\\ excision\\ of\\ cystic\\ mass\\ and\\ portion\\ of\\ jejunum\ \(0\)\
+\-\ abdominal\\ ct\\ demonstrates\\ large\\ septated\\ cystic\\ mass\\ in\\ the\\ right\\ abdomen\\ with\\ enhancing\\ walls\\ and\\ a\\ small\\ amount\\ of\\ free\\ fluid\\ in\\ the\\ abdomen\ \(0\)\
+\-\ lymphangioma\\ \\-\\ confirmed\\ by\\ surgery\\ and\\ pathology\ \(0\)\
+\-\ abcess\ \(32\)\
+\-\ pancreatitis\ \(88\)\
+\-\ mesenteric\\ cyst\ \(2\)\
+\-\ ovarian\\ cystic\\ mass\ \(3\)\
+\-\ lymphangioma\ \(16\)\
+\-\ 3yo\\ girl\\ with\\ several\\ day\\ history\\ of\\ abdominal\\ pain\\ and\\ fever\\.\ \(1\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ lymphangioma\\:\\ 0\\.3592852746508176\ \(0\)\
+\-\ cystic\\:\\ 0\\.28712844082729216\ \(0\)\
+\-\ abdominal\\:\\ 0\\.2607455275997293\ \(0\)\
+\-\ 23k\\:\\ 0\\.2428450019129512\ \(0\)\
+\-\ 3yo\\:\\ 0\\.23483057993771556\ \(0\)\
+\-\ septated\\:\\ 0\\.19621034928790096\ \(0\)\
+\-\ abdomen\\:\\ 0\\.1939300399095939\ \(0\)\
+\-\ jejunum\\:\\ 0\\.18863465461007267\ \(0\)\
+\-\ abcess\\:\\ 0\\.18491465593822926\ \(0\)\
+\-\ mass\\:\\ 0\\.1821045900283007\ \(0\)\
+\-\ and\\:\\ 0\\.1641898511443493\ \(0\)\
+\-\ pancreatitis\\:\\ 0\\.15759011863808634\ \(0\)\
+\-\ walls\\:\\ 0\\.14903682865082982\ \(0\)\
+\-\ mesenteric\\:\\ 0\\.1372124931082093\ \(0\)\
+\-\ ovarian\\:\\ 0\\.13538836916597097\ \(0\)\
+\-\ amount\\:\\ 0\\.12712978605188266\ \(0\)\
+\-\ excision\\:\\ 0\\.1252953924123192\ \(0\)\
+\-\ pathology\\:\\ 0\\.12475443157772897\ \(0\)\
+\-\ of\\:\\ 0\\.12439634494523166\ \(0\)\
+\-\ free\\:\\ 0\\.12370303858907125\ \(0\)\
+\-\ nausea\\:\\ 0\\.12207488138392798\ \(0\)\
+\-\ vomiting\\:\\ 0\\.117589941525913\ \(0\)\
+\-\ confirmed\\:\\ 0\\.11717873689990072\ \(0\)\
+\-\ pain\\:\\ 0\\.1137317245054123\ \(0\)\
+\-\ portion\\:\\ 0\\.11363789387840477\ \(0\)\
+\-\ wbc\\:\\ 0\\.11232149430052364\ \(0\)\
+\-\ girl\\:\\ 0\\.11147722946019971\ \(0\)\
+\-\ fever\\:\\ 0\\.10774683772439758\ \(0\)\
+\-\ right\\:\\ 0\\.10537421606839593\ \(0\)\
+\-\ several\\:\\ 0\\.10426424586394355\ \(0\)\
+\-\ sided\\:\\ 0\\.1022226355056379\ \(0\)\
+\-\ day\\:\\ 0\\.10122653290868165\ \(0\)\
+\-\ enhancing\\:\\ 0\\.09955116196978003\ \(0\)\
+\-\ with\\:\\ 0\\.09335300379877082\ \(0\)\
+\-\ fluid\\:\\ 0\\.09175438647357365\ \(0\)\
+\-\ cyst\\:\\ 0\\.09167256965230508\ \(0\)\
+\-\ surgery\\:\\ 0\\.08543976644412378\ \(0\)\
+\-\ small\\:\\ 0\\.08197403623434117\ \(0\)\
+\-\ demonstrates\\:\\ 0\\.0798374866045869\ \(0\)\
+\-\ large\\:\\ 0\\.07962462132734847\ \(0\)\
+\-\ in\\:\\ 0\\.07906610468985585\ \(0\)\
+\-\ surgical\\:\\ 0\\.0772381820955107\ \(0\)\
+\-\ by\\:\\ 0\\.06748479501210636\ \(0\)\
+\-\ the\\:\\ 0\\.06341885459226866\ \(0\)\
+\-\ history\\:\\ 0\\.06071497203990824\ \(0\)\
+\-\ ct\\:\\ 0\\.06050067400152887\ \(0\)\

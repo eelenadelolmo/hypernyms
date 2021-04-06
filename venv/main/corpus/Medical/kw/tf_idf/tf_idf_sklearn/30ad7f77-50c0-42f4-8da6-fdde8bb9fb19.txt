@@ -1,109 +1,107 @@
-Texto: 
-patient underwent successful resection.
--axial ct with contrast reveals a spiculated non-enhancing nodular lesion within the right lower lobe with areas of internal hypodensity.
--pet (not included) evaluation revealed significant suv within the lesion.
-large cell carcinoma
-carcinoma
-metastatic disease
-noncalcified granuloma
-hamartoma
-avm
-79 year old female with incidental findings of a right lung nodule on virtual colonography.
-this is an uncomplicated presentation of a common malignancy.  undoubtedly, the patient's disease would have progressed significantly had she not sought screening ct colonography.  one of the benefits of screening ct colonography is in finding extra-colonic disease.  clinically significant findings depend upon the screened population where age is the most important factor determining risk for extra-colonic malignancy.  it is generally agreed that in older populations (>70 y/o), the ct colonography technique has benefit in findings significant extra-colonic disease whereas virtual colonography and the potential benefit in discovering extra-colonic findings important in a younger screening population.
-
-
-Keywords by value: 
-- colonography: 0.5200692837024867
-- virtual: 0.18970518725608318
-- screening: 0.18373683873554997
-- benefit: 0.16004266939168732
-- findings: 0.1488399651048287
-- population: 0.14265872049733053
-- significant: 0.1305926032128027
-- important: 0.12772979863043757
-- disease: 0.1265909871903854
-- the: 0.12035077024339531
-- discovering: 0.11521251533903244
-- ct: 0.11481290167003771
-- malignancy: 0.11288533786373744
-- undoubtedly: 0.10846097962604853
-- agreed: 0.10401385674049736
-- noncalcified: 0.10069225684655006
-- screened: 0.10069225684655006
-- populations: 0.09583207194184262
-- in: 0.0937779728594421
-- sought: 0.09308772138169176
-- depend: 0.09308772138169176
-- carcinoma: 0.09019463455039896
-- suv: 0.08949359824801499
-- benefits: 0.08718918542058225
-- determining: 0.08718918542058225
-- is: 0.08258869911463065
-- hypodensity: 0.08200760087691979
-- spiculated: 0.08165512908576239
-- whereas: 0.08002133469584366
-- 79: 0.07971748432871828
-- younger: 0.07884572387978245
-- progressed: 0.07829493964947991
-- technique: 0.07776619278795208
-- uncomplicated: 0.07653006740313006
-- hamartoma: 0.07415973469410737
-- of: 0.07377141637271294
-- successful: 0.07320846750918279
-- lesion: 0.07229117637374076
-- significantly: 0.0708600715833879
-- factor: 0.07070727324735908
-- older: 0.06996870632166995
-- within: 0.0694483556814447
-- granuloma: 0.06822180404254871
-- potential: 0.06736880429067431
-- avm: 0.06667906994719613
-- included: 0.06519722583623591
-- generally: 0.06386489931521878
-- clinically: 0.06265466406376972
-- 70: 0.06224795785568117
-- nodular: 0.060040019243893974
-- not: 0.05952756065362279
-- nodule: 0.059508614648824
-- upon: 0.05931472008795941
-- where: 0.059250715561616735
-- reveals: 0.057350854187134676
-- incidental: 0.05588661753182339
-- risk: 0.05387045403241544
-- would: 0.05337006964713781
-- underwent: 0.05193667330371652
-- presentation: 0.051900010564921516
-- areas: 0.05118733611352215
-- internal: 0.05081115031211262
-- right: 0.04999249887576592
-- finding: 0.04955757606595048
-- revealed: 0.049435479041892806
-- patient: 0.049043803848046734
-- resection: 0.04832857141795866
-- age: 0.04733313547003005
-- evaluation: 0.045979525677327465
-- lung: 0.045863076387813756
-- she: 0.044880285980558335
-- with: 0.04428929686585012
-- lobe: 0.04356979827785561
-- one: 0.04316663690252549
-- cell: 0.043128874280091996
-- common: 0.04275706610939774
-- metastatic: 0.04134986882028284
-- most: 0.039237350381774894
-- it: 0.03859316408363445
-- lower: 0.038526445573151505
-- large: 0.03777616518263841
-- have: 0.03766346702966633
-- had: 0.03756409130691187
-- contrast: 0.03663243301703388
-- female: 0.0363811099778515
-- has: 0.03443780850817637
-- that: 0.03271819340917404
-- an: 0.02883043437698594
-- this: 0.025906755772983504
-- year: 0.02323496403189906
-- for: 0.02285136009732434
-- on: 0.022770299377973834
-- old: 0.022313608453022018
-- and: 0.01557925886427144
+\-\ Texto\\:\\ \ \(0\)\
+\-\ patient\\ underwent\\ successful\\ resection\\.\ \(0\)\
+\-\ axial\\ ct\\ with\\ contrast\\ reveals\\ a\\ spiculated\\ non\\-enhancing\\ nodular\\ lesion\\ within\\ the\\ right\\ lower\\ lobe\\ with\\ areas\\ of\\ internal\\ hypodensity\\.\ \(0\)\
+\-\ pet\\ \\(not\\ included\\)\\ evaluation\\ revealed\\ significant\\ suv\\ within\\ the\\ lesion\\.\ \(0\)\
+\-\ large\\ cell\\ carcinoma\ \(1\)\
+\-\ carcinoma\ \(1182\)\
+\-\ metastatic\\ disease\ \(243\)\
+\-\ noncalcified\\ granuloma\ \(0\)\
+\-\ hamartoma\ \(55\)\
+\-\ avm\ \(1\)\
+\-\ 79\\ year\\ old\\ female\\ with\\ incidental\\ findings\\ of\\ a\\ right\\ lung\\ nodule\\ on\\ virtual\\ colonography\\.\ \(1\)\
+\-\ this\\ is\\ an\\ uncomplicated\\ presentation\\ of\\ a\\ common\\ malignancy\\.\\ \\ undoubtedly\\,\\ the\\ patient\\'s\\ disease\\ would\\ have\\ progressed\\ significantly\\ had\\ she\\ not\\ sought\\ screening\\ ct\\ colonography\\.\\ \\ one\\ of\\ the\\ benefits\\ of\\ screening\\ ct\\ colonography\\ is\\ in\\ finding\\ extra\\-colonic\\ disease\\.\\ \\ clinically\\ significant\\ findings\\ depend\\ upon\\ the\\ screened\\ population\\ where\\ age\\ is\\ the\\ most\\ important\\ factor\\ determining\\ risk\\ for\\ extra\\-colonic\\ malignancy\\.\\ \\ it\\ is\\ generally\\ agreed\\ that\\ in\\ older\\ populations\\ \\(\\>70\\ y\\/o\\)\\,\\ the\\ ct\\ colonography\\ technique\\ has\\ benefit\\ in\\ findings\\ significant\\ extra\\-colonic\\ disease\\ whereas\\ virtual\\ colonography\\ and\\ the\\ potential\\ benefit\\ in\\ discovering\\ extra\\-colonic\\ findings\\ important\\ in\\ a\\ younger\\ screening\\ population\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ colonography\\:\\ 0\\.5200692837024867\ \(0\)\
+\-\ virtual\\:\\ 0\\.18970518725608318\ \(0\)\
+\-\ screening\\:\\ 0\\.18373683873554997\ \(0\)\
+\-\ benefit\\:\\ 0\\.16004266939168732\ \(0\)\
+\-\ findings\\:\\ 0\\.1488399651048287\ \(0\)\
+\-\ population\\:\\ 0\\.14265872049733053\ \(0\)\
+\-\ significant\\:\\ 0\\.1305926032128027\ \(0\)\
+\-\ important\\:\\ 0\\.12772979863043757\ \(0\)\
+\-\ disease\\:\\ 0\\.1265909871903854\ \(0\)\
+\-\ the\\:\\ 0\\.12035077024339531\ \(0\)\
+\-\ discovering\\:\\ 0\\.11521251533903244\ \(0\)\
+\-\ ct\\:\\ 0\\.11481290167003771\ \(0\)\
+\-\ malignancy\\:\\ 0\\.11288533786373744\ \(0\)\
+\-\ undoubtedly\\:\\ 0\\.10846097962604853\ \(0\)\
+\-\ agreed\\:\\ 0\\.10401385674049736\ \(0\)\
+\-\ noncalcified\\:\\ 0\\.10069225684655006\ \(0\)\
+\-\ screened\\:\\ 0\\.10069225684655006\ \(0\)\
+\-\ populations\\:\\ 0\\.09583207194184262\ \(0\)\
+\-\ in\\:\\ 0\\.0937779728594421\ \(0\)\
+\-\ sought\\:\\ 0\\.09308772138169176\ \(0\)\
+\-\ depend\\:\\ 0\\.09308772138169176\ \(0\)\
+\-\ carcinoma\\:\\ 0\\.09019463455039896\ \(0\)\
+\-\ suv\\:\\ 0\\.08949359824801499\ \(0\)\
+\-\ benefits\\:\\ 0\\.08718918542058225\ \(0\)\
+\-\ determining\\:\\ 0\\.08718918542058225\ \(0\)\
+\-\ is\\:\\ 0\\.08258869911463065\ \(0\)\
+\-\ hypodensity\\:\\ 0\\.08200760087691979\ \(0\)\
+\-\ spiculated\\:\\ 0\\.08165512908576239\ \(0\)\
+\-\ whereas\\:\\ 0\\.08002133469584366\ \(0\)\
+\-\ 79\\:\\ 0\\.07971748432871828\ \(0\)\
+\-\ younger\\:\\ 0\\.07884572387978245\ \(0\)\
+\-\ progressed\\:\\ 0\\.07829493964947991\ \(0\)\
+\-\ technique\\:\\ 0\\.07776619278795208\ \(0\)\
+\-\ uncomplicated\\:\\ 0\\.07653006740313006\ \(0\)\
+\-\ hamartoma\\:\\ 0\\.07415973469410737\ \(0\)\
+\-\ of\\:\\ 0\\.07377141637271294\ \(0\)\
+\-\ successful\\:\\ 0\\.07320846750918279\ \(0\)\
+\-\ lesion\\:\\ 0\\.07229117637374076\ \(0\)\
+\-\ significantly\\:\\ 0\\.0708600715833879\ \(0\)\
+\-\ factor\\:\\ 0\\.07070727324735908\ \(0\)\
+\-\ older\\:\\ 0\\.06996870632166995\ \(0\)\
+\-\ within\\:\\ 0\\.0694483556814447\ \(0\)\
+\-\ granuloma\\:\\ 0\\.06822180404254871\ \(0\)\
+\-\ potential\\:\\ 0\\.06736880429067431\ \(0\)\
+\-\ avm\\:\\ 0\\.06667906994719613\ \(0\)\
+\-\ included\\:\\ 0\\.06519722583623591\ \(0\)\
+\-\ generally\\:\\ 0\\.06386489931521878\ \(0\)\
+\-\ clinically\\:\\ 0\\.06265466406376972\ \(0\)\
+\-\ 70\\:\\ 0\\.06224795785568117\ \(0\)\
+\-\ nodular\\:\\ 0\\.060040019243893974\ \(0\)\
+\-\ not\\:\\ 0\\.05952756065362279\ \(0\)\
+\-\ nodule\\:\\ 0\\.059508614648824\ \(0\)\
+\-\ upon\\:\\ 0\\.05931472008795941\ \(0\)\
+\-\ where\\:\\ 0\\.059250715561616735\ \(0\)\
+\-\ reveals\\:\\ 0\\.057350854187134676\ \(0\)\
+\-\ incidental\\:\\ 0\\.05588661753182339\ \(0\)\
+\-\ risk\\:\\ 0\\.05387045403241544\ \(0\)\
+\-\ would\\:\\ 0\\.05337006964713781\ \(0\)\
+\-\ underwent\\:\\ 0\\.05193667330371652\ \(0\)\
+\-\ presentation\\:\\ 0\\.051900010564921516\ \(0\)\
+\-\ areas\\:\\ 0\\.05118733611352215\ \(0\)\
+\-\ internal\\:\\ 0\\.05081115031211262\ \(0\)\
+\-\ right\\:\\ 0\\.04999249887576592\ \(0\)\
+\-\ finding\\:\\ 0\\.04955757606595048\ \(0\)\
+\-\ revealed\\:\\ 0\\.049435479041892806\ \(0\)\
+\-\ patient\\:\\ 0\\.049043803848046734\ \(0\)\
+\-\ resection\\:\\ 0\\.04832857141795866\ \(0\)\
+\-\ age\\:\\ 0\\.04733313547003005\ \(0\)\
+\-\ evaluation\\:\\ 0\\.045979525677327465\ \(0\)\
+\-\ lung\\:\\ 0\\.045863076387813756\ \(0\)\
+\-\ she\\:\\ 0\\.044880285980558335\ \(0\)\
+\-\ with\\:\\ 0\\.04428929686585012\ \(0\)\
+\-\ lobe\\:\\ 0\\.04356979827785561\ \(0\)\
+\-\ one\\:\\ 0\\.04316663690252549\ \(0\)\
+\-\ cell\\:\\ 0\\.043128874280091996\ \(0\)\
+\-\ common\\:\\ 0\\.04275706610939774\ \(0\)\
+\-\ metastatic\\:\\ 0\\.04134986882028284\ \(0\)\
+\-\ most\\:\\ 0\\.039237350381774894\ \(0\)\
+\-\ it\\:\\ 0\\.03859316408363445\ \(0\)\
+\-\ lower\\:\\ 0\\.038526445573151505\ \(0\)\
+\-\ large\\:\\ 0\\.03777616518263841\ \(0\)\
+\-\ have\\:\\ 0\\.03766346702966633\ \(0\)\
+\-\ had\\:\\ 0\\.03756409130691187\ \(0\)\
+\-\ contrast\\:\\ 0\\.03663243301703388\ \(0\)\
+\-\ female\\:\\ 0\\.0363811099778515\ \(0\)\
+\-\ has\\:\\ 0\\.03443780850817637\ \(0\)\
+\-\ that\\:\\ 0\\.03271819340917404\ \(0\)\
+\-\ an\\:\\ 0\\.02883043437698594\ \(0\)\
+\-\ this\\:\\ 0\\.025906755772983504\ \(0\)\
+\-\ year\\:\\ 0\\.02323496403189906\ \(0\)\
+\-\ for\\:\\ 0\\.02285136009732434\ \(0\)\
+\-\ on\\:\\ 0\\.022770299377973834\ \(0\)\
+\-\ old\\:\\ 0\\.022313608453022018\ \(0\)\
+\-\ and\\:\\ 0\\.01557925886427144\ \(0\)\

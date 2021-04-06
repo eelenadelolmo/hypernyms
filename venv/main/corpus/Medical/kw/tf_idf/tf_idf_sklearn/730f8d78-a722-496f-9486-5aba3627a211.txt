@@ -1,57 +1,55 @@
-Texto: 
-axial ct images of the chest show a few partially calcified pleural plaques and a small right pleural effusion.
-asbestos pleural disease
-asbestos related pleural disease
-prior pleural infection
-prior chest wall hematoma
-68 year old caucasian male, previous shipyard worker.
-the differential diagnoses of calcified pleural plaques include: prior pleural infection or hematoma.  however, this patient has known asbestos exposure and thus, his plaques are consistent with asbestos related pleural disease.
-
-
-Keywords by value: 
-- pleural: 0.6092303649655378
-- asbestos: 0.4679521051783972
-- plaques: 0.3061908168330685
-- prior: 0.1698003642518416
-- calcified: 0.16298723548405536
-- shipyard: 0.15458895170235026
-- related: 0.1537554723606369
-- hematoma: 0.14161092636552658
-- worker: 0.13956290276898803
-- disease: 0.1273922017964403
-- infection: 0.12221498147749843
-- diagnoses: 0.10696270538370999
-- chest: 0.10679649126794216
-- 68: 0.09727025499518331
-- exposure: 0.09614031357841027
-- thus: 0.0929435357835707
-- caucasian: 0.08992482011477544
-- partially: 0.08682049055205068
-- few: 0.08581403150253228
-- previous: 0.07643983538719484
-- effusion: 0.0751204500810678
-- differential: 0.06572993926259772
-- known: 0.06549504733782839
-- show: 0.06421974378707204
-- wall: 0.061537801512046075
-- his: 0.06135210263145409
-- include: 0.060190261278704284
-- however: 0.059875869657954404
-- axial: 0.0584346074755618
-- consistent: 0.05485216939602131
-- small: 0.05218258654061042
-- images: 0.04679399855309701
-- has: 0.04620769454203266
-- male: 0.04504105850975697
-- and: 0.041807633294702364
-- the: 0.04037082983942501
-- of: 0.03959377464886122
-- ct: 0.038513190296313005
-- are: 0.03838624572380611
-- or: 0.03519233703601705
-- this: 0.03476096503204739
-- right: 0.03353927293160719
-- patient: 0.032902806618078775
-- year: 0.031176029114227774
-- old: 0.02993977979995332
-- with: 0.019808715959889617
+\-\ Texto\\:\\ \ \(0\)\
+\-\ axial\\ ct\\ images\\ of\\ the\\ chest\\ show\\ a\\ few\\ partially\\ calcified\\ pleural\\ plaques\\ and\\ a\\ small\\ right\\ pleural\\ effusion\\.\ \(0\)\
+\-\ asbestos\\ pleural\\ disease\ \(0\)\
+\-\ asbestos\\ related\\ pleural\\ disease\ \(1\)\
+\-\ prior\\ pleural\\ infection\ \(1\)\
+\-\ prior\\ chest\\ wall\\ hematoma\ \(0\)\
+\-\ 68\\ year\\ old\\ caucasian\\ male\\,\\ previous\\ shipyard\\ worker\\.\ \(0\)\
+\-\ the\\ differential\\ diagnoses\\ of\\ calcified\\ pleural\\ plaques\\ include\\:\\ prior\\ pleural\\ infection\\ or\\ hematoma\\.\\ \\ however\\,\\ this\\ patient\\ has\\ known\\ asbestos\\ exposure\\ and\\ thus\\,\\ his\\ plaques\\ are\\ consistent\\ with\\ asbestos\\ related\\ pleural\\ disease\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ pleural\\:\\ 0\\.6092303649655378\ \(0\)\
+\-\ asbestos\\:\\ 0\\.4679521051783972\ \(0\)\
+\-\ plaques\\:\\ 0\\.3061908168330685\ \(0\)\
+\-\ prior\\:\\ 0\\.1698003642518416\ \(0\)\
+\-\ calcified\\:\\ 0\\.16298723548405536\ \(0\)\
+\-\ shipyard\\:\\ 0\\.15458895170235026\ \(0\)\
+\-\ related\\:\\ 0\\.1537554723606369\ \(0\)\
+\-\ hematoma\\:\\ 0\\.14161092636552658\ \(0\)\
+\-\ worker\\:\\ 0\\.13956290276898803\ \(0\)\
+\-\ disease\\:\\ 0\\.1273922017964403\ \(0\)\
+\-\ infection\\:\\ 0\\.12221498147749843\ \(0\)\
+\-\ diagnoses\\:\\ 0\\.10696270538370999\ \(0\)\
+\-\ chest\\:\\ 0\\.10679649126794216\ \(0\)\
+\-\ 68\\:\\ 0\\.09727025499518331\ \(0\)\
+\-\ exposure\\:\\ 0\\.09614031357841027\ \(0\)\
+\-\ thus\\:\\ 0\\.0929435357835707\ \(0\)\
+\-\ caucasian\\:\\ 0\\.08992482011477544\ \(0\)\
+\-\ partially\\:\\ 0\\.08682049055205068\ \(0\)\
+\-\ few\\:\\ 0\\.08581403150253228\ \(0\)\
+\-\ previous\\:\\ 0\\.07643983538719484\ \(0\)\
+\-\ effusion\\:\\ 0\\.0751204500810678\ \(0\)\
+\-\ differential\\:\\ 0\\.06572993926259772\ \(0\)\
+\-\ known\\:\\ 0\\.06549504733782839\ \(0\)\
+\-\ show\\:\\ 0\\.06421974378707204\ \(0\)\
+\-\ wall\\:\\ 0\\.061537801512046075\ \(0\)\
+\-\ his\\:\\ 0\\.06135210263145409\ \(0\)\
+\-\ include\\:\\ 0\\.060190261278704284\ \(0\)\
+\-\ however\\:\\ 0\\.059875869657954404\ \(0\)\
+\-\ axial\\:\\ 0\\.0584346074755618\ \(0\)\
+\-\ consistent\\:\\ 0\\.05485216939602131\ \(0\)\
+\-\ small\\:\\ 0\\.05218258654061042\ \(0\)\
+\-\ images\\:\\ 0\\.04679399855309701\ \(0\)\
+\-\ has\\:\\ 0\\.04620769454203266\ \(0\)\
+\-\ male\\:\\ 0\\.04504105850975697\ \(0\)\
+\-\ and\\:\\ 0\\.041807633294702364\ \(0\)\
+\-\ the\\:\\ 0\\.04037082983942501\ \(0\)\
+\-\ of\\:\\ 0\\.03959377464886122\ \(0\)\
+\-\ ct\\:\\ 0\\.038513190296313005\ \(0\)\
+\-\ are\\:\\ 0\\.03838624572380611\ \(0\)\
+\-\ or\\:\\ 0\\.03519233703601705\ \(0\)\
+\-\ this\\:\\ 0\\.03476096503204739\ \(0\)\
+\-\ right\\:\\ 0\\.03353927293160719\ \(0\)\
+\-\ patient\\:\\ 0\\.032902806618078775\ \(0\)\
+\-\ year\\:\\ 0\\.031176029114227774\ \(0\)\
+\-\ old\\:\\ 0\\.02993977979995332\ \(0\)\
+\-\ with\\:\\ 0\\.019808715959889617\ \(0\)\

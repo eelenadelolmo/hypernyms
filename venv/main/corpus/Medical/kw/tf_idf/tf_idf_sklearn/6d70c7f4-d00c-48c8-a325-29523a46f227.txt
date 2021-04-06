@@ -1,68 +1,66 @@
-Texto: 
-hyperechoic renal pyramids with faint shadowing.
-medullary nephrocalcinosis likely secondary to wilson's syndrome
-pathognomonic.
-causes include:
-hyperparathyroidism
-renal tubular acidosis
-medullary sponge kidney
-papillary necrosis
-other: drugs (furosemide,amphotericin,steroids,etc), chronic pyelonephritis
-wilson's syndrome
-a patient with wilson's syndrome presents with a urinary tract infection.
-wilson's disease can be a cause of medullary nephrocalcinosis.  the patient in this case did not have other associated risk factors for nephrocalcinosis
-
-
-Keywords by value: 
-- wilson: 0.5365908535830387
-- nephrocalcinosis: 0.41721040108231355
-- medullary: 0.30393203855387607
-- syndrome: 0.207176946470838
-- furosemide: 0.15087375639611447
-- amphotericin: 0.14560509520799392
-- pyramids: 0.14273141931921698
-- renal: 0.1426695784370244
-- sponge: 0.1390701336941045
-- acidosis: 0.1301974807118174
-- faint: 0.1281535341697014
-- other: 0.11897742190571306
-- pyelonephritis: 0.1189595707466811
-- drugs: 0.11456065222789451
-- pathognomonic: 0.11267663332259009
-- etc: 0.11267663332259009
-- shadowing: 0.1104115335255402
-- hyperparathyroidism: 0.10911550488327687
-- papillary: 0.10675024790042777
-- hyperechoic: 0.10545421925816444
-- steroids: 0.10064123505694865
-- tubular: 0.09952086231219502
-- urinary: 0.09905919889682897
-- factors: 0.09689781649883773
-- tract: 0.0959636260085902
-- necrosis: 0.08756216954136133
-- causes: 0.08655788657463148
-- did: 0.08217503323600137
-- risk: 0.0818495565143146
-- kidney: 0.08047699623627307
-- cause: 0.07803816840831332
-- patient: 0.07451605275727193
-- infection: 0.06919605759788258
-- likely: 0.06845346470114362
-- include: 0.06815741795190057
-- chronic: 0.06799481403413288
-- secondary: 0.06789787994024724
-- with: 0.06729216175938207
-- associated: 0.060377512723130446
-- can: 0.06011327898815801
-- case: 0.057549696790036235
-- have: 0.05722502489610956
-- presents: 0.0551054418271955
-- disease: 0.04808487484627267
-- be: 0.04646918110263147
-- not: 0.045222418553834534
-- this: 0.03936214217662651
-- for: 0.03471984269130984
-- to: 0.028637783762589648
-- in: 0.02849682865022107
-- the: 0.02285728175933566
-- of: 0.02241732623937442
+\-\ Texto\\:\\ \ \(0\)\
+\-\ hyperechoic\\ renal\\ pyramids\\ with\\ faint\\ shadowing\\.\ \(0\)\
+\-\ medullary\\ nephrocalcinosis\\ likely\\ secondary\\ to\\ wilson\\'s\\ syndrome\ \(0\)\
+\-\ pathognomonic\\.\ \(5\)\
+\-\ causes\\ include\\:\ \(1\)\
+\-\ hyperparathyroidism\ \(35\)\
+\-\ renal\\ tubular\\ acidosis\ \(5\)\
+\-\ medullary\\ sponge\\ kidney\ \(4\)\
+\-\ papillary\\ necrosis\ \(4\)\
+\-\ other\\:\\ drugs\\ \\(furosemide\\,amphotericin\\,steroids\\,etc\\)\\,\\ chronic\\ pyelonephritis\ \(0\)\
+\-\ wilson\\'s\\ syndrome\ \(0\)\
+\-\ a\\ patient\\ with\\ wilson\\'s\\ syndrome\\ presents\\ with\\ a\\ urinary\\ tract\\ infection\\.\ \(0\)\
+\-\ wilson\\'s\\ disease\\ can\\ be\\ a\\ cause\\ of\\ medullary\\ nephrocalcinosis\\.\\ \\ the\\ patient\\ in\\ this\\ case\\ did\\ not\\ have\\ other\\ associated\\ risk\\ factors\\ for\\ nephrocalcinosis\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ wilson\\:\\ 0\\.5365908535830387\ \(0\)\
+\-\ nephrocalcinosis\\:\\ 0\\.41721040108231355\ \(0\)\
+\-\ medullary\\:\\ 0\\.30393203855387607\ \(0\)\
+\-\ syndrome\\:\\ 0\\.207176946470838\ \(0\)\
+\-\ furosemide\\:\\ 0\\.15087375639611447\ \(0\)\
+\-\ amphotericin\\:\\ 0\\.14560509520799392\ \(0\)\
+\-\ pyramids\\:\\ 0\\.14273141931921698\ \(0\)\
+\-\ renal\\:\\ 0\\.1426695784370244\ \(0\)\
+\-\ sponge\\:\\ 0\\.1390701336941045\ \(0\)\
+\-\ acidosis\\:\\ 0\\.1301974807118174\ \(0\)\
+\-\ faint\\:\\ 0\\.1281535341697014\ \(0\)\
+\-\ other\\:\\ 0\\.11897742190571306\ \(0\)\
+\-\ pyelonephritis\\:\\ 0\\.1189595707466811\ \(0\)\
+\-\ drugs\\:\\ 0\\.11456065222789451\ \(0\)\
+\-\ pathognomonic\\:\\ 0\\.11267663332259009\ \(0\)\
+\-\ etc\\:\\ 0\\.11267663332259009\ \(0\)\
+\-\ shadowing\\:\\ 0\\.1104115335255402\ \(0\)\
+\-\ hyperparathyroidism\\:\\ 0\\.10911550488327687\ \(0\)\
+\-\ papillary\\:\\ 0\\.10675024790042777\ \(0\)\
+\-\ hyperechoic\\:\\ 0\\.10545421925816444\ \(0\)\
+\-\ steroids\\:\\ 0\\.10064123505694865\ \(0\)\
+\-\ tubular\\:\\ 0\\.09952086231219502\ \(0\)\
+\-\ urinary\\:\\ 0\\.09905919889682897\ \(0\)\
+\-\ factors\\:\\ 0\\.09689781649883773\ \(0\)\
+\-\ tract\\:\\ 0\\.0959636260085902\ \(0\)\
+\-\ necrosis\\:\\ 0\\.08756216954136133\ \(0\)\
+\-\ causes\\:\\ 0\\.08655788657463148\ \(0\)\
+\-\ did\\:\\ 0\\.08217503323600137\ \(0\)\
+\-\ risk\\:\\ 0\\.0818495565143146\ \(0\)\
+\-\ kidney\\:\\ 0\\.08047699623627307\ \(0\)\
+\-\ cause\\:\\ 0\\.07803816840831332\ \(0\)\
+\-\ patient\\:\\ 0\\.07451605275727193\ \(0\)\
+\-\ infection\\:\\ 0\\.06919605759788258\ \(0\)\
+\-\ likely\\:\\ 0\\.06845346470114362\ \(0\)\
+\-\ include\\:\\ 0\\.06815741795190057\ \(0\)\
+\-\ chronic\\:\\ 0\\.06799481403413288\ \(0\)\
+\-\ secondary\\:\\ 0\\.06789787994024724\ \(0\)\
+\-\ with\\:\\ 0\\.06729216175938207\ \(0\)\
+\-\ associated\\:\\ 0\\.060377512723130446\ \(0\)\
+\-\ can\\:\\ 0\\.06011327898815801\ \(0\)\
+\-\ case\\:\\ 0\\.057549696790036235\ \(0\)\
+\-\ have\\:\\ 0\\.05722502489610956\ \(0\)\
+\-\ presents\\:\\ 0\\.0551054418271955\ \(0\)\
+\-\ disease\\:\\ 0\\.04808487484627267\ \(0\)\
+\-\ be\\:\\ 0\\.04646918110263147\ \(0\)\
+\-\ not\\:\\ 0\\.045222418553834534\ \(0\)\
+\-\ this\\:\\ 0\\.03936214217662651\ \(0\)\
+\-\ for\\:\\ 0\\.03471984269130984\ \(0\)\
+\-\ to\\:\\ 0\\.028637783762589648\ \(0\)\
+\-\ in\\:\\ 0\\.02849682865022107\ \(0\)\
+\-\ the\\:\\ 0\\.02285728175933566\ \(0\)\
+\-\ of\\:\\ 0\\.02241732623937442\ \(0\)\

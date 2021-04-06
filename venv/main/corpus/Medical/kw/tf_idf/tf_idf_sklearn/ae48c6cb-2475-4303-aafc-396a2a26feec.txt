@@ -1,93 +1,90 @@
-Texto: 
-1) on physical examination, the child was febrile with temperature of 103.1'. he had an abnormal gait with limp, and favored his left leg which was held with knee extended. however, examination of left knee was normal with full range of motion without tenderness to palpation over anteromedial aspect of proximal tibia and without warmth, erythema, or clinical effusion. examination of the left hip was normal. laboratory studies were positive for esr of 74  and crp of 18.7.
-admit for administration of iv antibiotics.
-plain radiographs:
-1)	left knee â€“ normal
-2)	left tibia/fibula â€“ normal
-3)	left hip â€“ normal
-
-mri:
-1)	left knee â€“ normal
-2)	coronal stir mr image shows a left joint effusion
-septic arthritis
-1)	septic arthritis
-2)	toxic synovitis
-6 year-old caucasian male complained of fevers and pain of the left knee and proximal tibia.
-
-
-Keywords by value: 
-- knee: 0.35690135397499895
-- left: 0.30573102545888436
-- tibia: 0.25526381220439914
-- normal: 0.24395572495150353
-- of: 0.19488056008726215
-- examination: 0.19117189222792796
-- septic: 0.1892810506023778
-- arthritis: 0.1619880851394749
-- hip: 0.15299498561415178
-- effusion: 0.1478971430800601
-- was: 0.1388233842662754
-- admit: 0.13505460750475531
-- held: 0.1311590946885575
-- proximal: 0.12442828064565342
-- favored: 0.12408071614768587
-- limp: 0.11587566092380379
-- anteromedial: 0.11587566092380379
-- warmth: 0.11318458629782399
-- stir: 0.11257198205603879
-- synovitis: 0.10831896672257871
-- crp: 0.10652688906484746
-- without: 0.10505313584905772
-- and: 0.1028885862064278
-- extended: 0.10271674282219546
-- febrile: 0.10237775295725486
-- toxic: 0.10171890384206053
-- temperature: 0.10139857504731306
-- 74: 0.09902782921608072
-- complained: 0.09598406725132826
-- esr: 0.09113733078176761
-- erythema: 0.09011012690067464
-- caucasian: 0.08852199349585263
-- fevers: 0.08792510015613578
-- gait: 0.08624789804022814
-- child: 0.08243252658667113
-- administration: 0.07930329356010551
-- coronal: 0.07930329356010551
-- with: 0.07799880047019073
-- full: 0.07784408435622789
-- range: 0.07727697181315832
-- motion: 0.07719743896715328
-- leg: 0.07517655313166316
-- antibiotics: 0.07336552341438125
-- studies: 0.0730498289253428
-- laboratory: 0.07231467063856108
-- iv: 0.07115428149672488
-- palpation: 0.06715802017036222
-- plain: 0.06570239161043177
-- positive: 0.0656204316969618
-- joint: 0.0656204316969618
-- radiographs: 0.0645885559942036
-- mr: 0.06443508309804273
-- aspect: 0.06424512007562803
-- image: 0.06368732727448462
-- clinical: 0.06311135983419079
-- tenderness: 0.06245119926427597
-- his: 0.060395010222612594
-- for: 0.06036600723541878
-- abnormal: 0.05982845125977816
-- the: 0.05961156772801644
-- he: 0.05896971603956457
-- however: 0.05894180647406231
-- shows: 0.058446917065039225
-- over: 0.05537282072340434
-- physical: 0.05399647590410007
-- were: 0.051332432142106664
-- mri: 0.05111734815445516
-- had: 0.04961617597305479
-- which: 0.0452816218201624
-- male: 0.04433841828494138
-- an: 0.0380804075291164
-- pain: 0.03563465177544115
-- or: 0.034643336803231305
-- on: 0.030075935330526916
-- to: 0.024895686843816548
+\-\ Texto\\:\\ \ \(0\)\
+\-\ 1\\)\\ on\\ physical\\ examination\\,\\ the\\ child\\ was\\ febrile\\ with\\ temperature\\ of\\ 103\\.1\\'\\.\\ he\\ had\\ an\\ abnormal\\ gait\\ with\\ limp\\,\\ and\\ favored\\ his\\ left\\ leg\\ which\\ was\\ held\\ with\\ knee\\ extended\\.\\ however\\,\\ examination\\ of\\ left\\ knee\\ was\\ normal\\ with\\ full\\ range\\ of\\ motion\\ without\\ tenderness\\ to\\ palpation\\ over\\ anteromedial\\ aspect\\ of\\ proximal\\ tibia\\ and\\ without\\ warmth\\,\\ erythema\\,\\ or\\ clinical\\ effusion\\.\\ examination\\ of\\ the\\ left\\ hip\\ was\\ normal\\.\\ laboratory\\ studies\\ were\\ positive\\ for\\ esr\\ of\\ 74\\ \\ and\\ crp\\ of\\ 18\\.7\\.\ \(0\)\
+\-\ admit\\ for\\ administration\\ of\\ iv\\ antibiotics\\.\ \(0\)\
+\-\ plain\\ radiographs\\:\ \(0\)\
+\-\ 1\\)\\	left\\ knee\\ \\â\\€\\“\\ normal\ \(0\)\
+\-\ 2\\)\\	left\\ tibia\\/fibula\\ \\â\\€\\“\\ normal\ \(0\)\
+\-\ 3\\)\\	left\\ hip\\ \\â\\€\\“\\ normal\ \(0\)\
+\-\ mri\\:\ \(0\)\
+\-\ 1\\)\\	left\\ knee\\ \\â\\€\\“\\ normal\ \(0\)\
+\-\ 2\\)\\	coronal\\ stir\\ mr\\ image\\ shows\\ a\\ left\\ joint\\ effusion\ \(0\)\
+\-\ septic\\ arthritis\ \(8\)\
+\-\ 1\\)\\	septic\\ arthritis\ \(0\)\
+\-\ 2\\)\\	toxic\\ synovitis\ \(0\)\
+\-\ 6\\ year\\-old\\ caucasian\\ male\\ complained\\ of\\ fevers\\ and\\ pain\\ of\\ the\\ left\\ knee\\ and\\ proximal\\ tibia\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ knee\\:\\ 0\\.35690135397499895\ \(0\)\
+\-\ left\\:\\ 0\\.30573102545888436\ \(0\)\
+\-\ tibia\\:\\ 0\\.25526381220439914\ \(0\)\
+\-\ normal\\:\\ 0\\.24395572495150353\ \(0\)\
+\-\ of\\:\\ 0\\.19488056008726215\ \(0\)\
+\-\ examination\\:\\ 0\\.19117189222792796\ \(0\)\
+\-\ septic\\:\\ 0\\.1892810506023778\ \(0\)\
+\-\ arthritis\\:\\ 0\\.1619880851394749\ \(0\)\
+\-\ hip\\:\\ 0\\.15299498561415178\ \(0\)\
+\-\ effusion\\:\\ 0\\.1478971430800601\ \(0\)\
+\-\ was\\:\\ 0\\.1388233842662754\ \(0\)\
+\-\ admit\\:\\ 0\\.13505460750475531\ \(0\)\
+\-\ held\\:\\ 0\\.1311590946885575\ \(0\)\
+\-\ proximal\\:\\ 0\\.12442828064565342\ \(0\)\
+\-\ favored\\:\\ 0\\.12408071614768587\ \(0\)\
+\-\ limp\\:\\ 0\\.11587566092380379\ \(0\)\
+\-\ anteromedial\\:\\ 0\\.11587566092380379\ \(0\)\
+\-\ warmth\\:\\ 0\\.11318458629782399\ \(0\)\
+\-\ stir\\:\\ 0\\.11257198205603879\ \(0\)\
+\-\ synovitis\\:\\ 0\\.10831896672257871\ \(0\)\
+\-\ crp\\:\\ 0\\.10652688906484746\ \(0\)\
+\-\ without\\:\\ 0\\.10505313584905772\ \(0\)\
+\-\ and\\:\\ 0\\.1028885862064278\ \(0\)\
+\-\ extended\\:\\ 0\\.10271674282219546\ \(0\)\
+\-\ febrile\\:\\ 0\\.10237775295725486\ \(0\)\
+\-\ toxic\\:\\ 0\\.10171890384206053\ \(0\)\
+\-\ temperature\\:\\ 0\\.10139857504731306\ \(0\)\
+\-\ 74\\:\\ 0\\.09902782921608072\ \(0\)\
+\-\ complained\\:\\ 0\\.09598406725132826\ \(0\)\
+\-\ esr\\:\\ 0\\.09113733078176761\ \(0\)\
+\-\ erythema\\:\\ 0\\.09011012690067464\ \(0\)\
+\-\ caucasian\\:\\ 0\\.08852199349585263\ \(0\)\
+\-\ fevers\\:\\ 0\\.08792510015613578\ \(0\)\
+\-\ gait\\:\\ 0\\.08624789804022814\ \(0\)\
+\-\ child\\:\\ 0\\.08243252658667113\ \(0\)\
+\-\ administration\\:\\ 0\\.07930329356010551\ \(0\)\
+\-\ coronal\\:\\ 0\\.07930329356010551\ \(0\)\
+\-\ with\\:\\ 0\\.07799880047019073\ \(0\)\
+\-\ full\\:\\ 0\\.07784408435622789\ \(0\)\
+\-\ range\\:\\ 0\\.07727697181315832\ \(0\)\
+\-\ motion\\:\\ 0\\.07719743896715328\ \(0\)\
+\-\ leg\\:\\ 0\\.07517655313166316\ \(0\)\
+\-\ antibiotics\\:\\ 0\\.07336552341438125\ \(0\)\
+\-\ studies\\:\\ 0\\.0730498289253428\ \(0\)\
+\-\ laboratory\\:\\ 0\\.07231467063856108\ \(0\)\
+\-\ iv\\:\\ 0\\.07115428149672488\ \(0\)\
+\-\ palpation\\:\\ 0\\.06715802017036222\ \(0\)\
+\-\ plain\\:\\ 0\\.06570239161043177\ \(0\)\
+\-\ positive\\:\\ 0\\.0656204316969618\ \(0\)\
+\-\ joint\\:\\ 0\\.0656204316969618\ \(0\)\
+\-\ radiographs\\:\\ 0\\.0645885559942036\ \(0\)\
+\-\ mr\\:\\ 0\\.06443508309804273\ \(0\)\
+\-\ aspect\\:\\ 0\\.06424512007562803\ \(0\)\
+\-\ image\\:\\ 0\\.06368732727448462\ \(0\)\
+\-\ clinical\\:\\ 0\\.06311135983419079\ \(0\)\
+\-\ tenderness\\:\\ 0\\.06245119926427597\ \(0\)\
+\-\ his\\:\\ 0\\.060395010222612594\ \(0\)\
+\-\ for\\:\\ 0\\.06036600723541878\ \(0\)\
+\-\ abnormal\\:\\ 0\\.05982845125977816\ \(0\)\
+\-\ the\\:\\ 0\\.05961156772801644\ \(0\)\
+\-\ he\\:\\ 0\\.05896971603956457\ \(0\)\
+\-\ however\\:\\ 0\\.05894180647406231\ \(0\)\
+\-\ shows\\:\\ 0\\.058446917065039225\ \(0\)\
+\-\ over\\:\\ 0\\.05537282072340434\ \(0\)\
+\-\ physical\\:\\ 0\\.05399647590410007\ \(0\)\
+\-\ were\\:\\ 0\\.051332432142106664\ \(0\)\
+\-\ mri\\:\\ 0\\.05111734815445516\ \(0\)\
+\-\ had\\:\\ 0\\.04961617597305479\ \(0\)\
+\-\ which\\:\\ 0\\.0452816218201624\ \(0\)\
+\-\ male\\:\\ 0\\.04433841828494138\ \(0\)\
+\-\ an\\:\\ 0\\.0380804075291164\ \(0\)\
+\-\ pain\\:\\ 0\\.03563465177544115\ \(0\)\
+\-\ or\\:\\ 0\\.034643336803231305\ \(0\)\
+\-\ on\\:\\ 0\\.030075935330526916\ \(0\)\
+\-\ to\\:\\ 0\\.024895686843816548\ \(0\)\

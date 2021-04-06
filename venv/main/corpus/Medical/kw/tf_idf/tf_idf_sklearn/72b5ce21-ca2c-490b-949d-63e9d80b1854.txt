@@ -1,58 +1,56 @@
-Texto: 
-non-contributory
-surgical resection
-â€¢ ct: heterogeneous complex mass adjacent to left frontal horn, with calcifications and "fluid"
-â€¢ mr: partially "cystic" lesion with an enhancing mural nodule
-neurocytoma (extraventricular) with ganglion cell development
-â€¢ astrocytoma
-â€¢ oligodendroglioma
-â€¢ ependymoma
-â€¢ other glioma
-59 year old man with insomnia, failing memory and gait disturbance.
-http://www.ajnr.org/cgi/content/abstract/ajnr.a1279v1
-
-
-Keywords by value: 
-- extraventricular: 0.20908971239263446
-- failing: 0.20590634839425223
-- insomnia: 0.2004827501323754
-- disturbance: 0.19035577700136155
-- memory: 0.17939712730653395
-- ganglion: 0.17336614717627855
-- neurocytoma: 0.17247992497198283
-- oligodendroglioma: 0.16181346575198807
-- mural: 0.1574798279168788
-- horn: 0.15205622965500198
-- 59: 0.14618955006528042
-- gait: 0.13352782647615777
-- partially: 0.13231744411908838
-- glioma: 0.13097060682916056
-- ependymoma: 0.13023008500836536
-- development: 0.12745561467400748
-- nodule: 0.12168961074150239
-- with: 0.12075668545190822
-- complex: 0.1187887911363754
-- astrocytoma: 0.11638732038383508
-- http: 0.11398097700407754
-- calcifications: 0.1125196829838887
-- heterogeneous: 0.11158761283698651
-- adjacent: 0.09993552947760749
-- mr: 0.09975752210076119
-- frontal: 0.09923042803628333
-- resection: 0.09882745680184489
-- enhancing: 0.0965807301037938
-- cystic: 0.09285367744571359
-- fluid: 0.08901659669762049
-- cell: 0.08819455727268061
-- man: 0.08162156144803034
-- other: 0.08006496635700683
-- surgical: 0.07493353036842187
-- lesion: 0.07391438336180166
-- and: 0.06371628571836556
-- an: 0.05895557067741586
-- mass: 0.05889030294300439
-- ct: 0.05869544012568179
-- left: 0.05259206986613627
-- year: 0.047513351559604504
-- old: 0.045629264652024736
-- to: 0.038543164858758416
+\-\ Texto\\:\\ \ \(0\)\
+\-\ non\\-contributory\ \(73\)\
+\-\ surgical\\ resection\ \(126\)\
+\-\ \\â\\€\\¢\\ ct\\:\\ heterogeneous\\ complex\\ mass\\ adjacent\\ to\\ left\\ frontal\\ horn\\,\\ with\\ calcifications\\ and\\ \\"fluid\\"\ \(0\)\
+\-\ \\â\\€\\¢\\ mr\\:\\ partially\\ \\"cystic\\"\\ lesion\\ with\\ an\\ enhancing\\ mural\\ nodule\ \(0\)\
+\-\ neurocytoma\\ \\(extraventricular\\)\\ with\\ ganglion\\ cell\\ development\ \(0\)\
+\-\ \\â\\€\\¢\\ astrocytoma\ \(1\)\
+\-\ \\â\\€\\¢\\ oligodendroglioma\ \(1\)\
+\-\ \\â\\€\\¢\\ ependymoma\ \(8\)\
+\-\ \\â\\€\\¢\\ other\\ glioma\ \(0\)\
+\-\ 59\\ year\\ old\\ man\\ with\\ insomnia\\,\\ failing\\ memory\\ and\\ gait\\ disturbance\\.\ \(1\)\
+\-\ http\\:\\/\\/www\\.ajnr\\.org\\/cgi\\/content\\/abstract\\/ajnr\\.a1279v1\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ extraventricular\\:\\ 0\\.20908971239263446\ \(0\)\
+\-\ failing\\:\\ 0\\.20590634839425223\ \(0\)\
+\-\ insomnia\\:\\ 0\\.2004827501323754\ \(0\)\
+\-\ disturbance\\:\\ 0\\.19035577700136155\ \(0\)\
+\-\ memory\\:\\ 0\\.17939712730653395\ \(0\)\
+\-\ ganglion\\:\\ 0\\.17336614717627855\ \(0\)\
+\-\ neurocytoma\\:\\ 0\\.17247992497198283\ \(0\)\
+\-\ oligodendroglioma\\:\\ 0\\.16181346575198807\ \(0\)\
+\-\ mural\\:\\ 0\\.1574798279168788\ \(0\)\
+\-\ horn\\:\\ 0\\.15205622965500198\ \(0\)\
+\-\ 59\\:\\ 0\\.14618955006528042\ \(0\)\
+\-\ gait\\:\\ 0\\.13352782647615777\ \(0\)\
+\-\ partially\\:\\ 0\\.13231744411908838\ \(0\)\
+\-\ glioma\\:\\ 0\\.13097060682916056\ \(0\)\
+\-\ ependymoma\\:\\ 0\\.13023008500836536\ \(0\)\
+\-\ development\\:\\ 0\\.12745561467400748\ \(0\)\
+\-\ nodule\\:\\ 0\\.12168961074150239\ \(0\)\
+\-\ with\\:\\ 0\\.12075668545190822\ \(0\)\
+\-\ complex\\:\\ 0\\.1187887911363754\ \(0\)\
+\-\ astrocytoma\\:\\ 0\\.11638732038383508\ \(0\)\
+\-\ http\\:\\ 0\\.11398097700407754\ \(0\)\
+\-\ calcifications\\:\\ 0\\.1125196829838887\ \(0\)\
+\-\ heterogeneous\\:\\ 0\\.11158761283698651\ \(0\)\
+\-\ adjacent\\:\\ 0\\.09993552947760749\ \(0\)\
+\-\ mr\\:\\ 0\\.09975752210076119\ \(0\)\
+\-\ frontal\\:\\ 0\\.09923042803628333\ \(0\)\
+\-\ resection\\:\\ 0\\.09882745680184489\ \(0\)\
+\-\ enhancing\\:\\ 0\\.0965807301037938\ \(0\)\
+\-\ cystic\\:\\ 0\\.09285367744571359\ \(0\)\
+\-\ fluid\\:\\ 0\\.08901659669762049\ \(0\)\
+\-\ cell\\:\\ 0\\.08819455727268061\ \(0\)\
+\-\ man\\:\\ 0\\.08162156144803034\ \(0\)\
+\-\ other\\:\\ 0\\.08006496635700683\ \(0\)\
+\-\ surgical\\:\\ 0\\.07493353036842187\ \(0\)\
+\-\ lesion\\:\\ 0\\.07391438336180166\ \(0\)\
+\-\ and\\:\\ 0\\.06371628571836556\ \(0\)\
+\-\ an\\:\\ 0\\.05895557067741586\ \(0\)\
+\-\ mass\\:\\ 0\\.05889030294300439\ \(0\)\
+\-\ ct\\:\\ 0\\.05869544012568179\ \(0\)\
+\-\ left\\:\\ 0\\.05259206986613627\ \(0\)\
+\-\ year\\:\\ 0\\.047513351559604504\ \(0\)\
+\-\ old\\:\\ 0\\.045629264652024736\ \(0\)\
+\-\ to\\:\\ 0\\.038543164858758416\ \(0\)\

@@ -1,86 +1,84 @@
-Texto: 
-rales in left lower lobe. elevated wbcs.
-oral erythromycin with complete resolution.
-pa and lateral chest films demonstrate left lower lobe consolidation with air bronchograms.  costophrenic angles are sharp.  no loss of lung volume or displacement of lung fissures.  the cardiomediastinal silhouette is unremarkable.
-community acquired legionella pneumonia
-â€¢ bacterial pneumonia (s. pneumoniae, klebsiella,    legionella, h.influenzae, s. aureus, mycoplasma)
-â€¢ viral pneumonia â€“ less likely with a complete lobe consolidation
-â€¢ lobar collapse â€“ you would expect to see volume loss and fissure displacement
-â€¢ neoplastic lung mass (should not be so "anatomic")
-33 year old man presents with fever, cough, dyspnea.
-
-
-Keywords by value: 
-- legionella: 0.30000668378141493
-- pneumonia: 0.2659536497095333
-- consolidation: 0.20762077085789415
-- lung: 0.20496952624803258
-- volume: 0.19735362977654494
-- lobe: 0.19472049446092807
-- displacement: 0.18314706542738812
-- erythromycin: 0.1579867483745437
-- klebsiella: 0.1579867483745437
-- complete: 0.1574591479436983
-- pneumoniae: 0.14433902484697725
-- mycoplasma: 0.14433902484697725
-- community: 0.13748103912692694
-- loss: 0.13685415609581378
-- wbcs: 0.136355618363141
-- bronchograms: 0.13529106164489194
-- angles: 0.13529106164489194
-- fissures: 0.1324045120922628
-- cardiomediastinal: 0.131529278977429
-- expect: 0.13069130131941076
-- aureus: 0.1298875365336892
-- costophrenic: 0.12911530018233078
-- you: 0.11663759427352269
-- lobar: 0.11584990911552422
-- lower: 0.11478728887664578
-- silhouette: 0.11472448835173828
-- rales: 0.11047729374858568
-- sharp: 0.11047729374858568
-- fissure: 0.10961484187603945
-- acquired: 0.10825640652228646
-- collapse: 0.10533409037843683
-- bacterial: 0.10510906503712986
-- anatomic: 0.10423383192229603
-- neoplastic: 0.10381038542894708
-- viral: 0.10360202895498005
-- 33: 0.09883886932614566
-- dyspnea: 0.09883886932614566
-- so: 0.09447785525057735
-- resolution: 0.09112855325417031
-- oral: 0.08995430542741359
-- films: 0.08894436595098974
-- with: 0.08797157792701088
-- pa: 0.08619252275995064
-- cough: 0.0838544188296632
-- would: 0.07950649885830595
-- left: 0.07662693548199731
-- elevated: 0.0765673738323746
-- less: 0.07641048453174314
-- fever: 0.07615174883680853
-- unremarkable: 0.07529664242342328
-- air: 0.07346483214595999
-- should: 0.0732862413247113
-- see: 0.06986753758147693
-- likely: 0.06711731886987876
-- man: 0.059461532308364984
-- chest: 0.059286123548675636
-- demonstrate: 0.05839002185419598
-- lateral: 0.05574000860669343
-- presents: 0.05402983657187545
-- and: 0.04641748962648685
-- be: 0.0455621473551996
-- not: 0.04433972041292639
-- of: 0.043959523158892976
-- mass: 0.04290174788342472
-- are: 0.042618847857870124
-- or: 0.039072767592135946
-- no: 0.036523914289557285
-- year: 0.034613607467421266
-- old: 0.03324104496629644
-- is: 0.030758524184437253
-- to: 0.028078801751115077
-- in: 0.027940597947049284
-- the: 0.02241112959055767
+\-\ Texto\\:\\ \ \(0\)\
+\-\ rales\\ in\\ left\\ lower\\ lobe\\.\\ elevated\\ wbcs\\.\ \(0\)\
+\-\ oral\\ erythromycin\\ with\\ complete\\ resolution\\.\ \(0\)\
+\-\ pa\\ and\\ lateral\\ chest\\ films\\ demonstrate\\ left\\ lower\\ lobe\\ consolidation\\ with\\ air\\ bronchograms\\.\\ \\ costophrenic\\ angles\\ are\\ sharp\\.\\ \\ no\\ loss\\ of\\ lung\\ volume\\ or\\ displacement\\ of\\ lung\\ fissures\\.\\ \\ the\\ cardiomediastinal\\ silhouette\\ is\\ unremarkable\\.\ \(0\)\
+\-\ community\\ acquired\\ legionella\\ pneumonia\ \(0\)\
+\-\ \\â\\€\\¢\\ bacterial\\ pneumonia\\ \\(s\\.\\ pneumoniae\\,\\ klebsiella\\,\\ \\ \\ \\ legionella\\,\\ h\\.influenzae\\,\\ s\\.\\ aureus\\,\\ mycoplasma\\)\ \(0\)\
+\-\ \\â\\€\\¢\\ viral\\ pneumonia\\ \\â\\€\\“\\ less\\ likely\\ with\\ a\\ complete\\ lobe\\ consolidation\ \(0\)\
+\-\ \\â\\€\\¢\\ lobar\\ collapse\\ \\â\\€\\“\\ you\\ would\\ expect\\ to\\ see\\ volume\\ loss\\ and\\ fissure\\ displacement\ \(0\)\
+\-\ \\â\\€\\¢\\ neoplastic\\ lung\\ mass\\ \\(should\\ not\\ be\\ so\\ \\"anatomic\\"\\)\ \(0\)\
+\-\ 33\\ year\\ old\\ man\\ presents\\ with\\ fever\\,\\ cough\\,\\ dyspnea\\.\ \(1\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ legionella\\:\\ 0\\.30000668378141493\ \(0\)\
+\-\ pneumonia\\:\\ 0\\.2659536497095333\ \(0\)\
+\-\ consolidation\\:\\ 0\\.20762077085789415\ \(0\)\
+\-\ lung\\:\\ 0\\.20496952624803258\ \(0\)\
+\-\ volume\\:\\ 0\\.19735362977654494\ \(0\)\
+\-\ lobe\\:\\ 0\\.19472049446092807\ \(0\)\
+\-\ displacement\\:\\ 0\\.18314706542738812\ \(0\)\
+\-\ erythromycin\\:\\ 0\\.1579867483745437\ \(0\)\
+\-\ klebsiella\\:\\ 0\\.1579867483745437\ \(0\)\
+\-\ complete\\:\\ 0\\.1574591479436983\ \(0\)\
+\-\ pneumoniae\\:\\ 0\\.14433902484697725\ \(0\)\
+\-\ mycoplasma\\:\\ 0\\.14433902484697725\ \(0\)\
+\-\ community\\:\\ 0\\.13748103912692694\ \(0\)\
+\-\ loss\\:\\ 0\\.13685415609581378\ \(0\)\
+\-\ wbcs\\:\\ 0\\.136355618363141\ \(0\)\
+\-\ bronchograms\\:\\ 0\\.13529106164489194\ \(0\)\
+\-\ angles\\:\\ 0\\.13529106164489194\ \(0\)\
+\-\ fissures\\:\\ 0\\.1324045120922628\ \(0\)\
+\-\ cardiomediastinal\\:\\ 0\\.131529278977429\ \(0\)\
+\-\ expect\\:\\ 0\\.13069130131941076\ \(0\)\
+\-\ aureus\\:\\ 0\\.1298875365336892\ \(0\)\
+\-\ costophrenic\\:\\ 0\\.12911530018233078\ \(0\)\
+\-\ you\\:\\ 0\\.11663759427352269\ \(0\)\
+\-\ lobar\\:\\ 0\\.11584990911552422\ \(0\)\
+\-\ lower\\:\\ 0\\.11478728887664578\ \(0\)\
+\-\ silhouette\\:\\ 0\\.11472448835173828\ \(0\)\
+\-\ rales\\:\\ 0\\.11047729374858568\ \(0\)\
+\-\ sharp\\:\\ 0\\.11047729374858568\ \(0\)\
+\-\ fissure\\:\\ 0\\.10961484187603945\ \(0\)\
+\-\ acquired\\:\\ 0\\.10825640652228646\ \(0\)\
+\-\ collapse\\:\\ 0\\.10533409037843683\ \(0\)\
+\-\ bacterial\\:\\ 0\\.10510906503712986\ \(0\)\
+\-\ anatomic\\:\\ 0\\.10423383192229603\ \(0\)\
+\-\ neoplastic\\:\\ 0\\.10381038542894708\ \(0\)\
+\-\ viral\\:\\ 0\\.10360202895498005\ \(0\)\
+\-\ 33\\:\\ 0\\.09883886932614566\ \(0\)\
+\-\ dyspnea\\:\\ 0\\.09883886932614566\ \(0\)\
+\-\ so\\:\\ 0\\.09447785525057735\ \(0\)\
+\-\ resolution\\:\\ 0\\.09112855325417031\ \(0\)\
+\-\ oral\\:\\ 0\\.08995430542741359\ \(0\)\
+\-\ films\\:\\ 0\\.08894436595098974\ \(0\)\
+\-\ with\\:\\ 0\\.08797157792701088\ \(0\)\
+\-\ pa\\:\\ 0\\.08619252275995064\ \(0\)\
+\-\ cough\\:\\ 0\\.0838544188296632\ \(0\)\
+\-\ would\\:\\ 0\\.07950649885830595\ \(0\)\
+\-\ left\\:\\ 0\\.07662693548199731\ \(0\)\
+\-\ elevated\\:\\ 0\\.0765673738323746\ \(0\)\
+\-\ less\\:\\ 0\\.07641048453174314\ \(0\)\
+\-\ fever\\:\\ 0\\.07615174883680853\ \(0\)\
+\-\ unremarkable\\:\\ 0\\.07529664242342328\ \(0\)\
+\-\ air\\:\\ 0\\.07346483214595999\ \(0\)\
+\-\ should\\:\\ 0\\.0732862413247113\ \(0\)\
+\-\ see\\:\\ 0\\.06986753758147693\ \(0\)\
+\-\ likely\\:\\ 0\\.06711731886987876\ \(0\)\
+\-\ man\\:\\ 0\\.059461532308364984\ \(0\)\
+\-\ chest\\:\\ 0\\.059286123548675636\ \(0\)\
+\-\ demonstrate\\:\\ 0\\.05839002185419598\ \(0\)\
+\-\ lateral\\:\\ 0\\.05574000860669343\ \(0\)\
+\-\ presents\\:\\ 0\\.05402983657187545\ \(0\)\
+\-\ and\\:\\ 0\\.04641748962648685\ \(0\)\
+\-\ be\\:\\ 0\\.0455621473551996\ \(0\)\
+\-\ not\\:\\ 0\\.04433972041292639\ \(0\)\
+\-\ of\\:\\ 0\\.043959523158892976\ \(0\)\
+\-\ mass\\:\\ 0\\.04290174788342472\ \(0\)\
+\-\ are\\:\\ 0\\.042618847857870124\ \(0\)\
+\-\ or\\:\\ 0\\.039072767592135946\ \(0\)\
+\-\ no\\:\\ 0\\.036523914289557285\ \(0\)\
+\-\ year\\:\\ 0\\.034613607467421266\ \(0\)\
+\-\ old\\:\\ 0\\.03324104496629644\ \(0\)\
+\-\ is\\:\\ 0\\.030758524184437253\ \(0\)\
+\-\ to\\:\\ 0\\.028078801751115077\ \(0\)\
+\-\ in\\:\\ 0\\.027940597947049284\ \(0\)\
+\-\ the\\:\\ 0\\.02241112959055767\ \(0\)\

@@ -1,82 +1,80 @@
-Texto: 
-physical therapy and nsaids
-severe, bone on bone, patellofemoral joint space disease.  chondrocalcinosis affects both the medial and lateral menisci bilaterally.
-calcium pyrophosphate dihydrate (cppd) crystal deposition disease
-calcium pyrophosphat deposition disease
-wilsons disease
-hemochromatosis
-71 year old female who presents to the internal medicine clinic for bilateral knee pain.
-this case is a classic presentation of chondrocalcinosis. it demonstrates an osteoarthritic finding in an atypical location, the patellofemoral joint.  osteoarthrtis most commonly affects the medial aspect of the knee.  in this patient, the medial and lateral knee compartments are relatively preserved.  cppd also affects the lateral knee compartment of the knee typically before the medaial compartment.
-
-
-Keywords by value: 
-- knee: 0.3498980378949651
-- affects: 0.3001284977732453
-- patellofemoral: 0.2370510516566668
-- chondrocalcinosis: 0.2301821458648677
-- compartment: 0.22866057357612232
-- cppd: 0.21630318051298897
-- deposition: 0.19699981654414972
-- medial: 0.190648095653702
-- calcium: 0.17635941720085122
-- the: 0.17532550956926504
-- disease: 0.16392549353781702
-- pyrophosphat: 0.15613073916152445
-- wilsons: 0.15613073916152445
-- osteoarthrtis: 0.15613073916152445
-- medaial: 0.15613073916152445
-- lateral: 0.1453540508801661
-- joint: 0.1286655824690197
-- dihydrate: 0.12546500850427275
-- compartments: 0.12546500850427275
-- menisci: 0.11760017235687964
-- osteoarthritic: 0.11760017235687964
-- hemochromatosis: 0.11672229428383148
-- crystal: 0.11509107293243385
-- pyrophosphate: 0.11433028678806116
-- bone: 0.10653933799574943
-- preserved: 0.10246716279740499
-- nsaids: 0.09552768012146562
-- 71: 0.09479927784702107
-- medicine: 0.08605656362657976
-- clinic: 0.08223749072085526
-- atypical: 0.08009533978153513
-- relatively: 0.07950170096046537
-- before: 0.0789279644391197
-- an: 0.07466634535441888
-- classic: 0.0730221465024528
-- commonly: 0.07224110435925686
-- typically: 0.06853693962956464
-- location: 0.06798235923442879
-- presentation: 0.06720648156157866
-- this: 0.06709447205215498
-- internal: 0.06579649212791568
-- bilaterally: 0.06511180602066409
-- space: 0.06498642179576893
-- finding: 0.06417321086951631
-- aspect: 0.06298446673969009
-- severe: 0.06180366270286212
-- and: 0.06052178962247015
-- of: 0.05731695173382404
-- therapy: 0.05609444904081519
-- who: 0.055225242056220536
-- both: 0.05444297473440716
-- physical: 0.05293692714152846
-- bilateral: 0.05246966724385369
-- most: 0.0508093203884677
-- it: 0.049975149179310785
-- case: 0.049047972358347965
-- demonstrates: 0.049047972358347965
-- in: 0.04857407569099866
-- female: 0.04711071096715373
-- presents: 0.046964803262052685
-- also: 0.045922093704830205
-- are: 0.03704593483708826
-- pain: 0.034935408897806025
-- patient: 0.03175395788118775
-- year: 0.030087473293294288
-- for: 0.029590736000270117
-- on: 0.029485768666331267
-- old: 0.028894389398908548
-- is: 0.026736487256101324
-- to: 0.02440716988512493
+\-\ Texto\\:\\ \ \(0\)\
+\-\ physical\\ therapy\\ and\\ nsaids\ \(0\)\
+\-\ severe\\,\\ bone\\ on\\ bone\\,\\ patellofemoral\\ joint\\ space\\ disease\\.\\ \\ chondrocalcinosis\\ affects\\ both\\ the\\ medial\\ and\\ lateral\\ menisci\\ bilaterally\\.\ \(0\)\
+\-\ calcium\\ pyrophosphate\\ dihydrate\\ \\(cppd\\)\\ crystal\\ deposition\\ disease\ \(0\)\
+\-\ calcium\\ pyrophosphat\\ deposition\\ disease\ \(0\)\
+\-\ wilsons\\ disease\ \(0\)\
+\-\ hemochromatosis\ \(13\)\
+\-\ 71\\ year\\ old\\ female\\ who\\ presents\\ to\\ the\\ internal\\ medicine\\ clinic\\ for\\ bilateral\\ knee\\ pain\\.\ \(1\)\
+\-\ this\\ case\\ is\\ a\\ classic\\ presentation\\ of\\ chondrocalcinosis\\.\\ it\\ demonstrates\\ an\\ osteoarthritic\\ finding\\ in\\ an\\ atypical\\ location\\,\\ the\\ patellofemoral\\ joint\\.\\ \\ osteoarthrtis\\ most\\ commonly\\ affects\\ the\\ medial\\ aspect\\ of\\ the\\ knee\\.\\ \\ in\\ this\\ patient\\,\\ the\\ medial\\ and\\ lateral\\ knee\\ compartments\\ are\\ relatively\\ preserved\\.\\ \\ cppd\\ also\\ affects\\ the\\ lateral\\ knee\\ compartment\\ of\\ the\\ knee\\ typically\\ before\\ the\\ medaial\\ compartment\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ knee\\:\\ 0\\.3498980378949651\ \(0\)\
+\-\ affects\\:\\ 0\\.3001284977732453\ \(0\)\
+\-\ patellofemoral\\:\\ 0\\.2370510516566668\ \(0\)\
+\-\ chondrocalcinosis\\:\\ 0\\.2301821458648677\ \(0\)\
+\-\ compartment\\:\\ 0\\.22866057357612232\ \(0\)\
+\-\ cppd\\:\\ 0\\.21630318051298897\ \(0\)\
+\-\ deposition\\:\\ 0\\.19699981654414972\ \(0\)\
+\-\ medial\\:\\ 0\\.190648095653702\ \(0\)\
+\-\ calcium\\:\\ 0\\.17635941720085122\ \(0\)\
+\-\ the\\:\\ 0\\.17532550956926504\ \(0\)\
+\-\ disease\\:\\ 0\\.16392549353781702\ \(0\)\
+\-\ pyrophosphat\\:\\ 0\\.15613073916152445\ \(0\)\
+\-\ wilsons\\:\\ 0\\.15613073916152445\ \(0\)\
+\-\ osteoarthrtis\\:\\ 0\\.15613073916152445\ \(0\)\
+\-\ medaial\\:\\ 0\\.15613073916152445\ \(0\)\
+\-\ lateral\\:\\ 0\\.1453540508801661\ \(0\)\
+\-\ joint\\:\\ 0\\.1286655824690197\ \(0\)\
+\-\ dihydrate\\:\\ 0\\.12546500850427275\ \(0\)\
+\-\ compartments\\:\\ 0\\.12546500850427275\ \(0\)\
+\-\ menisci\\:\\ 0\\.11760017235687964\ \(0\)\
+\-\ osteoarthritic\\:\\ 0\\.11760017235687964\ \(0\)\
+\-\ hemochromatosis\\:\\ 0\\.11672229428383148\ \(0\)\
+\-\ crystal\\:\\ 0\\.11509107293243385\ \(0\)\
+\-\ pyrophosphate\\:\\ 0\\.11433028678806116\ \(0\)\
+\-\ bone\\:\\ 0\\.10653933799574943\ \(0\)\
+\-\ preserved\\:\\ 0\\.10246716279740499\ \(0\)\
+\-\ nsaids\\:\\ 0\\.09552768012146562\ \(0\)\
+\-\ 71\\:\\ 0\\.09479927784702107\ \(0\)\
+\-\ medicine\\:\\ 0\\.08605656362657976\ \(0\)\
+\-\ clinic\\:\\ 0\\.08223749072085526\ \(0\)\
+\-\ atypical\\:\\ 0\\.08009533978153513\ \(0\)\
+\-\ relatively\\:\\ 0\\.07950170096046537\ \(0\)\
+\-\ before\\:\\ 0\\.0789279644391197\ \(0\)\
+\-\ an\\:\\ 0\\.07466634535441888\ \(0\)\
+\-\ classic\\:\\ 0\\.0730221465024528\ \(0\)\
+\-\ commonly\\:\\ 0\\.07224110435925686\ \(0\)\
+\-\ typically\\:\\ 0\\.06853693962956464\ \(0\)\
+\-\ location\\:\\ 0\\.06798235923442879\ \(0\)\
+\-\ presentation\\:\\ 0\\.06720648156157866\ \(0\)\
+\-\ this\\:\\ 0\\.06709447205215498\ \(0\)\
+\-\ internal\\:\\ 0\\.06579649212791568\ \(0\)\
+\-\ bilaterally\\:\\ 0\\.06511180602066409\ \(0\)\
+\-\ space\\:\\ 0\\.06498642179576893\ \(0\)\
+\-\ finding\\:\\ 0\\.06417321086951631\ \(0\)\
+\-\ aspect\\:\\ 0\\.06298446673969009\ \(0\)\
+\-\ severe\\:\\ 0\\.06180366270286212\ \(0\)\
+\-\ and\\:\\ 0\\.06052178962247015\ \(0\)\
+\-\ of\\:\\ 0\\.05731695173382404\ \(0\)\
+\-\ therapy\\:\\ 0\\.05609444904081519\ \(0\)\
+\-\ who\\:\\ 0\\.055225242056220536\ \(0\)\
+\-\ both\\:\\ 0\\.05444297473440716\ \(0\)\
+\-\ physical\\:\\ 0\\.05293692714152846\ \(0\)\
+\-\ bilateral\\:\\ 0\\.05246966724385369\ \(0\)\
+\-\ most\\:\\ 0\\.0508093203884677\ \(0\)\
+\-\ it\\:\\ 0\\.049975149179310785\ \(0\)\
+\-\ case\\:\\ 0\\.049047972358347965\ \(0\)\
+\-\ demonstrates\\:\\ 0\\.049047972358347965\ \(0\)\
+\-\ in\\:\\ 0\\.04857407569099866\ \(0\)\
+\-\ female\\:\\ 0\\.04711071096715373\ \(0\)\
+\-\ presents\\:\\ 0\\.046964803262052685\ \(0\)\
+\-\ also\\:\\ 0\\.045922093704830205\ \(0\)\
+\-\ are\\:\\ 0\\.03704593483708826\ \(0\)\
+\-\ pain\\:\\ 0\\.034935408897806025\ \(0\)\
+\-\ patient\\:\\ 0\\.03175395788118775\ \(0\)\
+\-\ year\\:\\ 0\\.030087473293294288\ \(0\)\
+\-\ for\\:\\ 0\\.029590736000270117\ \(0\)\
+\-\ on\\:\\ 0\\.029485768666331267\ \(0\)\
+\-\ old\\:\\ 0\\.028894389398908548\ \(0\)\
+\-\ is\\:\\ 0\\.026736487256101324\ \(0\)\
+\-\ to\\:\\ 0\\.02440716988512493\ \(0\)\

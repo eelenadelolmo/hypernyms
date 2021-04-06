@@ -1,117 +1,115 @@
-Texto: 
-patient was alert and oriented. there was conjunctival injection and purulent discharge with tearing of the right eye. no worsening of pain with extraocular muscle movements. no facial tenderness or sinusitis-type symptoms.
-patient was started on iv antibiotics and topical ointment. after clinically improving he was discharged with oral antibiotics on hospital day 4. surgical drainage was performed as an outpatient. he is doing well.
-ct of the orbits with iv contrast.
-preseptal cellulitis is present at the right orbit. no post septal extension is seen. a small focal area of edema or fluis is noted along the medial aspect of the anterior chamber of the globe.  the is no evidence of paranaal sinus disease.
-preseptal cellulitis secondary to infected chalazion
--orbital cellulitis
--abscess/phlegmon
-this is a 4 year old caucasian male who presented to the ed with 3 days of right eye swelling and pain. patient was diagnosed with right-sided periorbital cellulitis and admitted to the hospital for further care.
-preseptal cellulitis was found to be caused by an infected chalazion. this is a relatively rare cause of preseptal cellulitis.
-
-
-Keywords by value: 
-- cellulitis: 0.47738755970708696
-- preseptal: 0.39938049334134135
-- chalazion: 0.2316906474194264
-- was: 0.18493926345263403
-- infected: 0.16218761501008128
-- is: 0.14532406025684616
-- the: 0.136138275721167
-- of: 0.13351789476282888
-- eye: 0.1212904618362788
-- fluis: 0.12123375354071886
-- paranaal: 0.12123375354071886
-- hospital: 0.1119919189368551
-- antibiotics: 0.11169930306799211
-- iv: 0.10833267839713846
-- ointment: 0.10124531223994836
-- right: 0.10053416850206602
-- no: 0.09860780592916692
-- conjunctival: 0.09857849840069575
-- chamber: 0.0935990086244413
-- tearing: 0.09131520409386115
-- topical: 0.08998514465620715
-- he: 0.0897816287158879
-- with: 0.08906511444875606
-- improving: 0.08877617492327368
-- periorbital: 0.08821057879343563
-- purulent: 0.08714685097775515
-- orbits: 0.08569564664331983
-- extraocular: 0.08245803020867817
-- doing: 0.08046085439801809
-- globe: 0.07899899715467645
-- and: 0.07832414217231777
-- outpatient: 0.07768212829195051
-- to: 0.07580756574574331
-- movements: 0.07476690529217171
-- patient: 0.0739697677289731
-- septal: 0.07379643753043652
-- orbit: 0.07020933994214495
-- alert: 0.06978741551591727
-- oriented: 0.06834576166924401
-- discharge: 0.06797828655655304
-- caucasian: 0.06738754471789016
-- injection: 0.06596426370816375
-- discharged: 0.06506123317275524
-- started: 0.06385648166018697
-- clinically: 0.06299879678029859
-- facial: 0.06250955736855772
-- admitted: 0.062115181154331456
-- relatively: 0.061732171845659004
-- caused: 0.06078512171667746
-- oral: 0.06071499224971844
-- drainage: 0.06071499224971844
-- ed: 0.0606452309181394
-- an: 0.057977572892414356
-- worsening: 0.057890156297124316
-- rare: 0.057228301530897446
-- diagnosed: 0.0549133839639419
-- sinus: 0.054778463991401204
-- pain: 0.054253899967503336
-- care: 0.05416633919856923
-- muscle: 0.05382880986453753
-- extension: 0.05366320643628907
-- or: 0.05274461895425017
-- this: 0.052098098890702674
-- cause: 0.05164404158623029
-- swelling: 0.05102260095094345
-- along: 0.0507885659164125
-- further: 0.04937512725681461
-- medial: 0.04934536351951563
-- area: 0.04910962335762477
-- found: 0.049051335969673544
-- aspect: 0.04890672623866566
-- day: 0.048288498344395074
-- days: 0.04798984525578253
-- tenderness: 0.04754110043064537
-- on: 0.045790731929533666
-- focal: 0.045345015711285304
-- edema: 0.04521365217233751
-- secondary: 0.04493340895578289
-- performed: 0.044848355845314006
-- presented: 0.04420702581024261
-- evidence: 0.043028825952479095
-- who: 0.04288177600788738
-- anterior: 0.042326847446083046
-- symptoms: 0.04147793162170848
-- post: 0.04124964006423121
-- noted: 0.04019337616514623
-- small: 0.03910440276124359
-- present: 0.03889962978609548
-- surgical: 0.03684523929716925
-- contrast: 0.03683363780961537
-- after: 0.036775781805528714
-- well: 0.03670668544632524
-- seen: 0.03568986857661439
-- male: 0.03375270965895036
-- by: 0.03219254200036377
-- disease: 0.031821573044057264
-- be: 0.030752340428926724
-- as: 0.03045482888909044
-- there: 0.030163832147023513
-- ct: 0.02886087878751257
-- at: 0.028633702261554095
-- year: 0.02336258280394466
-- for: 0.02297687191267248
-- old: 0.02243616665052004
+\-\ Texto\\:\\ \ \(0\)\
+\-\ patient\\ was\\ alert\\ and\\ oriented\\.\\ there\\ was\\ conjunctival\\ injection\\ and\\ purulent\\ discharge\\ with\\ tearing\\ of\\ the\\ right\\ eye\\.\\ no\\ worsening\\ of\\ pain\\ with\\ extraocular\\ muscle\\ movements\\.\\ no\\ facial\\ tenderness\\ or\\ sinusitis\\-type\\ symptoms\\.\ \(0\)\
+\-\ patient\\ was\\ started\\ on\\ iv\\ antibiotics\\ and\\ topical\\ ointment\\.\\ after\\ clinically\\ improving\\ he\\ was\\ discharged\\ with\\ oral\\ antibiotics\\ on\\ hospital\\ day\\ 4\\.\\ surgical\\ drainage\\ was\\ performed\\ as\\ an\\ outpatient\\.\\ he\\ is\\ doing\\ well\\.\ \(0\)\
+\-\ ct\\ of\\ the\\ orbits\\ with\\ iv\\ contrast\\.\ \(0\)\
+\-\ preseptal\\ cellulitis\\ is\\ present\\ at\\ the\\ right\\ orbit\\.\\ no\\ post\\ septal\\ extension\\ is\\ seen\\.\\ a\\ small\\ focal\\ area\\ of\\ edema\\ or\\ fluis\\ is\\ noted\\ along\\ the\\ medial\\ aspect\\ of\\ the\\ anterior\\ chamber\\ of\\ the\\ globe\\.\\ \\ the\\ is\\ no\\ evidence\\ of\\ paranaal\\ sinus\\ disease\\.\ \(0\)\
+\-\ preseptal\\ cellulitis\\ secondary\\ to\\ infected\\ chalazion\ \(0\)\
+\-\ orbital\\ cellulitis\ \(19\)\
+\-\ abscess\\/phlegmon\ \(0\)\
+\-\ this\\ is\\ a\\ 4\\ year\\ old\\ caucasian\\ male\\ who\\ presented\\ to\\ the\\ ed\\ with\\ 3\\ days\\ of\\ right\\ eye\\ swelling\\ and\\ pain\\.\\ patient\\ was\\ diagnosed\\ with\\ right\\-sided\\ periorbital\\ cellulitis\\ and\\ admitted\\ to\\ the\\ hospital\\ for\\ further\\ care\\.\ \(0\)\
+\-\ preseptal\\ cellulitis\\ was\\ found\\ to\\ be\\ caused\\ by\\ an\\ infected\\ chalazion\\.\\ this\\ is\\ a\\ relatively\\ rare\\ cause\\ of\\ preseptal\\ cellulitis\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ cellulitis\\:\\ 0\\.47738755970708696\ \(0\)\
+\-\ preseptal\\:\\ 0\\.39938049334134135\ \(0\)\
+\-\ chalazion\\:\\ 0\\.2316906474194264\ \(0\)\
+\-\ was\\:\\ 0\\.18493926345263403\ \(0\)\
+\-\ infected\\:\\ 0\\.16218761501008128\ \(0\)\
+\-\ is\\:\\ 0\\.14532406025684616\ \(0\)\
+\-\ the\\:\\ 0\\.136138275721167\ \(0\)\
+\-\ of\\:\\ 0\\.13351789476282888\ \(0\)\
+\-\ eye\\:\\ 0\\.1212904618362788\ \(0\)\
+\-\ fluis\\:\\ 0\\.12123375354071886\ \(0\)\
+\-\ paranaal\\:\\ 0\\.12123375354071886\ \(0\)\
+\-\ hospital\\:\\ 0\\.1119919189368551\ \(0\)\
+\-\ antibiotics\\:\\ 0\\.11169930306799211\ \(0\)\
+\-\ iv\\:\\ 0\\.10833267839713846\ \(0\)\
+\-\ ointment\\:\\ 0\\.10124531223994836\ \(0\)\
+\-\ right\\:\\ 0\\.10053416850206602\ \(0\)\
+\-\ no\\:\\ 0\\.09860780592916692\ \(0\)\
+\-\ conjunctival\\:\\ 0\\.09857849840069575\ \(0\)\
+\-\ chamber\\:\\ 0\\.0935990086244413\ \(0\)\
+\-\ tearing\\:\\ 0\\.09131520409386115\ \(0\)\
+\-\ topical\\:\\ 0\\.08998514465620715\ \(0\)\
+\-\ he\\:\\ 0\\.0897816287158879\ \(0\)\
+\-\ with\\:\\ 0\\.08906511444875606\ \(0\)\
+\-\ improving\\:\\ 0\\.08877617492327368\ \(0\)\
+\-\ periorbital\\:\\ 0\\.08821057879343563\ \(0\)\
+\-\ purulent\\:\\ 0\\.08714685097775515\ \(0\)\
+\-\ orbits\\:\\ 0\\.08569564664331983\ \(0\)\
+\-\ extraocular\\:\\ 0\\.08245803020867817\ \(0\)\
+\-\ doing\\:\\ 0\\.08046085439801809\ \(0\)\
+\-\ globe\\:\\ 0\\.07899899715467645\ \(0\)\
+\-\ and\\:\\ 0\\.07832414217231777\ \(0\)\
+\-\ outpatient\\:\\ 0\\.07768212829195051\ \(0\)\
+\-\ to\\:\\ 0\\.07580756574574331\ \(0\)\
+\-\ movements\\:\\ 0\\.07476690529217171\ \(0\)\
+\-\ patient\\:\\ 0\\.0739697677289731\ \(0\)\
+\-\ septal\\:\\ 0\\.07379643753043652\ \(0\)\
+\-\ orbit\\:\\ 0\\.07020933994214495\ \(0\)\
+\-\ alert\\:\\ 0\\.06978741551591727\ \(0\)\
+\-\ oriented\\:\\ 0\\.06834576166924401\ \(0\)\
+\-\ discharge\\:\\ 0\\.06797828655655304\ \(0\)\
+\-\ caucasian\\:\\ 0\\.06738754471789016\ \(0\)\
+\-\ injection\\:\\ 0\\.06596426370816375\ \(0\)\
+\-\ discharged\\:\\ 0\\.06506123317275524\ \(0\)\
+\-\ started\\:\\ 0\\.06385648166018697\ \(0\)\
+\-\ clinically\\:\\ 0\\.06299879678029859\ \(0\)\
+\-\ facial\\:\\ 0\\.06250955736855772\ \(0\)\
+\-\ admitted\\:\\ 0\\.062115181154331456\ \(0\)\
+\-\ relatively\\:\\ 0\\.061732171845659004\ \(0\)\
+\-\ caused\\:\\ 0\\.06078512171667746\ \(0\)\
+\-\ oral\\:\\ 0\\.06071499224971844\ \(0\)\
+\-\ drainage\\:\\ 0\\.06071499224971844\ \(0\)\
+\-\ ed\\:\\ 0\\.0606452309181394\ \(0\)\
+\-\ an\\:\\ 0\\.057977572892414356\ \(0\)\
+\-\ worsening\\:\\ 0\\.057890156297124316\ \(0\)\
+\-\ rare\\:\\ 0\\.057228301530897446\ \(0\)\
+\-\ diagnosed\\:\\ 0\\.0549133839639419\ \(0\)\
+\-\ sinus\\:\\ 0\\.054778463991401204\ \(0\)\
+\-\ pain\\:\\ 0\\.054253899967503336\ \(0\)\
+\-\ care\\:\\ 0\\.05416633919856923\ \(0\)\
+\-\ muscle\\:\\ 0\\.05382880986453753\ \(0\)\
+\-\ extension\\:\\ 0\\.05366320643628907\ \(0\)\
+\-\ or\\:\\ 0\\.05274461895425017\ \(0\)\
+\-\ this\\:\\ 0\\.052098098890702674\ \(0\)\
+\-\ cause\\:\\ 0\\.05164404158623029\ \(0\)\
+\-\ swelling\\:\\ 0\\.05102260095094345\ \(0\)\
+\-\ along\\:\\ 0\\.0507885659164125\ \(0\)\
+\-\ further\\:\\ 0\\.04937512725681461\ \(0\)\
+\-\ medial\\:\\ 0\\.04934536351951563\ \(0\)\
+\-\ area\\:\\ 0\\.04910962335762477\ \(0\)\
+\-\ found\\:\\ 0\\.049051335969673544\ \(0\)\
+\-\ aspect\\:\\ 0\\.04890672623866566\ \(0\)\
+\-\ day\\:\\ 0\\.048288498344395074\ \(0\)\
+\-\ days\\:\\ 0\\.04798984525578253\ \(0\)\
+\-\ tenderness\\:\\ 0\\.04754110043064537\ \(0\)\
+\-\ on\\:\\ 0\\.045790731929533666\ \(0\)\
+\-\ focal\\:\\ 0\\.045345015711285304\ \(0\)\
+\-\ edema\\:\\ 0\\.04521365217233751\ \(0\)\
+\-\ secondary\\:\\ 0\\.04493340895578289\ \(0\)\
+\-\ performed\\:\\ 0\\.044848355845314006\ \(0\)\
+\-\ presented\\:\\ 0\\.04420702581024261\ \(0\)\
+\-\ evidence\\:\\ 0\\.043028825952479095\ \(0\)\
+\-\ who\\:\\ 0\\.04288177600788738\ \(0\)\
+\-\ anterior\\:\\ 0\\.042326847446083046\ \(0\)\
+\-\ symptoms\\:\\ 0\\.04147793162170848\ \(0\)\
+\-\ post\\:\\ 0\\.04124964006423121\ \(0\)\
+\-\ noted\\:\\ 0\\.04019337616514623\ \(0\)\
+\-\ small\\:\\ 0\\.03910440276124359\ \(0\)\
+\-\ present\\:\\ 0\\.03889962978609548\ \(0\)\
+\-\ surgical\\:\\ 0\\.03684523929716925\ \(0\)\
+\-\ contrast\\:\\ 0\\.03683363780961537\ \(0\)\
+\-\ after\\:\\ 0\\.036775781805528714\ \(0\)\
+\-\ well\\:\\ 0\\.03670668544632524\ \(0\)\
+\-\ seen\\:\\ 0\\.03568986857661439\ \(0\)\
+\-\ male\\:\\ 0\\.03375270965895036\ \(0\)\
+\-\ by\\:\\ 0\\.03219254200036377\ \(0\)\
+\-\ disease\\:\\ 0\\.031821573044057264\ \(0\)\
+\-\ be\\:\\ 0\\.030752340428926724\ \(0\)\
+\-\ as\\:\\ 0\\.03045482888909044\ \(0\)\
+\-\ there\\:\\ 0\\.030163832147023513\ \(0\)\
+\-\ ct\\:\\ 0\\.02886087878751257\ \(0\)\
+\-\ at\\:\\ 0\\.028633702261554095\ \(0\)\
+\-\ year\\:\\ 0\\.02336258280394466\ \(0\)\
+\-\ for\\:\\ 0\\.02297687191267248\ \(0\)\
+\-\ old\\:\\ 0\\.02243616665052004\ \(0\)\

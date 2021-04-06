@@ -1,53 +1,51 @@
-Texto: 
-ct shows a very large heterogeneous mass filling the abdomen and extending into the pelvis. the mass causes secondary bilateral hydronephrosis and does not appear to originate from the kidneys or the liver.
-rhabdomyosarcoma
-rhabdomyosarcoma
-burkitt lymphoma
-neuroblastoma
-leiomyosarcoma (if older)
-ovarian tumor
-sacrococcygeal teratoma (if associated with sacrum/coccyx)
-6 y.o. girl
-
-
-Keywords by value: 
-- rhabdomyosarcoma: 0.3690216493167863
-- sacrococcygeal: 0.24727392507544718
-- burkitt: 0.23709514910069257
-- originate: 0.22938685646638063
-- if: 0.21187569341421433
-- leiomyosarcoma: 0.2061100792547148
-- the: 0.18190649698849246
-- hydronephrosis: 0.16920888486282104
-- older: 0.16920888486282104
-- neuroblastoma: 0.16751731960290805
-- teratoma: 0.1576697706712106
-- kidneys: 0.1569514680015336
-- ovarian: 0.15533565925341694
-- appear: 0.14359934614144598
-- filling: 0.14119723038571144
-- mass: 0.13928984062356792
-- causes: 0.13777177968318582
-- heterogeneous: 0.13196587579682859
-- very: 0.13079571397214482
-- girl: 0.1279015992039656
-- pelvis: 0.1275222104931808
-- does: 0.12604814531934594
-- liver: 0.12577916933974267
-- extending: 0.12362159448034002
-- abdomen: 0.11125124995585577
-- lymphoma: 0.10858838025035439
-- secondary: 0.10807116631732493
-- shows: 0.10701151821660368
-- bilateral: 0.09799048696264576
-- into: 0.09692311019466322
-- associated: 0.09610120706375729
-- tumor: 0.09536879575398392
-- large: 0.09135602358519372
-- and: 0.07535222981809371
-- from: 0.07241346283711167
-- not: 0.0719792653482567
-- ct: 0.06941447141432631
-- or: 0.06342911232216993
-- to: 0.045581963600189894
-- with: 0.03570235384742722
+\-\ Texto\\:\\ \ \(0\)\
+\-\ ct\\ shows\\ a\\ very\\ large\\ heterogeneous\\ mass\\ filling\\ the\\ abdomen\\ and\\ extending\\ into\\ the\\ pelvis\\.\\ the\\ mass\\ causes\\ secondary\\ bilateral\\ hydronephrosis\\ and\\ does\\ not\\ appear\\ to\\ originate\\ from\\ the\\ kidneys\\ or\\ the\\ liver\\.\ \(0\)\
+\-\ rhabdomyosarcoma\ \(41\)\
+\-\ rhabdomyosarcoma\ \(41\)\
+\-\ burkitt\\ lymphoma\ \(0\)\
+\-\ neuroblastoma\ \(81\)\
+\-\ leiomyosarcoma\\ \\(if\\ older\\)\ \(0\)\
+\-\ ovarian\\ tumor\ \(8\)\
+\-\ sacrococcygeal\\ teratoma\\ \\(if\\ associated\\ with\\ sacrum\\/coccyx\\)\ \(0\)\
+\-\ 6\\ y\\.o\\.\\ girl\ \(7\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ rhabdomyosarcoma\\:\\ 0\\.3690216493167863\ \(0\)\
+\-\ sacrococcygeal\\:\\ 0\\.24727392507544718\ \(0\)\
+\-\ burkitt\\:\\ 0\\.23709514910069257\ \(0\)\
+\-\ originate\\:\\ 0\\.22938685646638063\ \(0\)\
+\-\ if\\:\\ 0\\.21187569341421433\ \(0\)\
+\-\ leiomyosarcoma\\:\\ 0\\.2061100792547148\ \(0\)\
+\-\ the\\:\\ 0\\.18190649698849246\ \(0\)\
+\-\ hydronephrosis\\:\\ 0\\.16920888486282104\ \(0\)\
+\-\ older\\:\\ 0\\.16920888486282104\ \(0\)\
+\-\ neuroblastoma\\:\\ 0\\.16751731960290805\ \(0\)\
+\-\ teratoma\\:\\ 0\\.1576697706712106\ \(0\)\
+\-\ kidneys\\:\\ 0\\.1569514680015336\ \(0\)\
+\-\ ovarian\\:\\ 0\\.15533565925341694\ \(0\)\
+\-\ appear\\:\\ 0\\.14359934614144598\ \(0\)\
+\-\ filling\\:\\ 0\\.14119723038571144\ \(0\)\
+\-\ mass\\:\\ 0\\.13928984062356792\ \(0\)\
+\-\ causes\\:\\ 0\\.13777177968318582\ \(0\)\
+\-\ heterogeneous\\:\\ 0\\.13196587579682859\ \(0\)\
+\-\ very\\:\\ 0\\.13079571397214482\ \(0\)\
+\-\ girl\\:\\ 0\\.1279015992039656\ \(0\)\
+\-\ pelvis\\:\\ 0\\.1275222104931808\ \(0\)\
+\-\ does\\:\\ 0\\.12604814531934594\ \(0\)\
+\-\ liver\\:\\ 0\\.12577916933974267\ \(0\)\
+\-\ extending\\:\\ 0\\.12362159448034002\ \(0\)\
+\-\ abdomen\\:\\ 0\\.11125124995585577\ \(0\)\
+\-\ lymphoma\\:\\ 0\\.10858838025035439\ \(0\)\
+\-\ secondary\\:\\ 0\\.10807116631732493\ \(0\)\
+\-\ shows\\:\\ 0\\.10701151821660368\ \(0\)\
+\-\ bilateral\\:\\ 0\\.09799048696264576\ \(0\)\
+\-\ into\\:\\ 0\\.09692311019466322\ \(0\)\
+\-\ associated\\:\\ 0\\.09610120706375729\ \(0\)\
+\-\ tumor\\:\\ 0\\.09536879575398392\ \(0\)\
+\-\ large\\:\\ 0\\.09135602358519372\ \(0\)\
+\-\ and\\:\\ 0\\.07535222981809371\ \(0\)\
+\-\ from\\:\\ 0\\.07241346283711167\ \(0\)\
+\-\ not\\:\\ 0\\.0719792653482567\ \(0\)\
+\-\ ct\\:\\ 0\\.06941447141432631\ \(0\)\
+\-\ or\\:\\ 0\\.06342911232216993\ \(0\)\
+\-\ to\\:\\ 0\\.045581963600189894\ \(0\)\
+\-\ with\\:\\ 0\\.03570235384742722\ \(0\)\

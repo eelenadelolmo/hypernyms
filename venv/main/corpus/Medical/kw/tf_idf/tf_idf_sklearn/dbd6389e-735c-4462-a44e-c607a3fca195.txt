@@ -1,192 +1,190 @@
-Texto: 
-vitals: bp 130/75 p 95 t 99.9of
-gen: well nourished and developed.  ms: alert and oriented x3. chest.lungs:  rrr no m/r/g  cta bil.  ab: nondistended, ttp with guarding, no palpable masses, bs+.  ext: no cyanosis clubbing or edema.
-labs:  bhcg negative.  wbc 13.2 h/h 14/40 plt 123  85%neutr.  amylase/lipase normal
-emergent laproscopic appendectomy
-ct scan abdomen:  positive ‚Äúarrowhead sign‚Äù in appendix.  presence of thickened appendix.  questionable appendicolith.  terminal ileum normal and seen with contrast,  good visualization of ileocecal juntion. cecum normal size without evidence of edema.
-acute appendicitis
-diff from history: appendicitis, ectopic pregnancy, crohns dz, mesenteric adenitis
-diff from viewing ct:  appendicitis from‚Ä¶ lymphoprolifertation, apendicolith, cecal obstruction of proximal opening (cancer)
-34 y/o wf w/ abdominal pain for past 30hrs.  pain started midepigastric and has moved slightly inferior and to the right.  no radiation and no relief with oral meds.  has had nausea but no vomiting.  denies fevers, chills, melena, hematachezia, constipation, diarrhea.  anorexia for 30 hrs. no bm since pain began.  lmp unknown.
-in the ed the patient clearly had a diffusely tender abdomen, with evidence of appendicitis.  b-hcg was used to rule out ectopic preg and amylase and lipase were normal.  likely the patient clinical picture was not overtly obvious for appendicitis (while on paper it seems that way) or else a ct scan should not have been done.  her ct showed clear evidence of thickening in the appendix with fat stranding.  in addition, there was a positive arrowhead sign, which is indicative of appendicitis.   finally, the terminal ileum was visible with contrast and showed no evidence of inflammation or changes.  the most likely cause of appendicitis is lymphoproliferation (most common cause of appendicitis) or a fecolith.  the path report is still pending.
-
-
-Keywords by value: 
-- appendicitis: 0.40177419003245074
-- appendix: 0.1601277233681399
-- arrowhead: 0.15813886094002882
-- no: 0.15401924063878844
-- diff: 0.14753546202253023
-- evidence: 0.13441668306746418
-- amylase: 0.1256748345504493
-- lipase: 0.12473115501354878
-- terminal: 0.1217300282615975
-- ileum: 0.1198243445545196
-- of: 0.11585923407091778
-- and: 0.1101036810286336
-- ectopic: 0.10472058627168791
-- normal: 0.09669007323405544
-- juntion: 0.0946797795782236
-- lymphoprolifertation: 0.0946797795782236
-- apendicolith: 0.0946797795782236
-- 30hrs: 0.0946797795782236
-- hematachezia: 0.0946797795782236
-- preg: 0.0946797795782236
-- overtly: 0.0946797795782236
-- lymphoproliferation: 0.0946797795782236
-- the: 0.09450644128748482
-- ct: 0.09015778402399258
-- bil: 0.08748582167745134
-- neutr: 0.08748582167745134
-- midepigastric: 0.08748582167745134
-- fecolith: 0.08516988451575584
-- was: 0.08253245457125845
-- or: 0.08238380402613721
-- sign: 0.08197499889104612
-- paper: 0.08167774435718766
-- cause: 0.08066477084322243
-- laproscopic: 0.08029186377667907
-- else: 0.08029186377667907
-- showed: 0.07886784608512609
-- positive: 0.0780245392604442
-- viewing: 0.07797592661498358
-- bm: 0.07797592661498358
-- lmp: 0.07797592661498358
-- crohns: 0.0769867320539187
-- x3: 0.07376773101126512
-- dz: 0.07376773101126512
-- moved: 0.07376773101126512
-- bhcg: 0.07246870187806995
-- abdomen: 0.07224837963578551
-- wf: 0.07187547256924215
-- melena: 0.07187547256924215
-- adenitis: 0.07131432578175051
-- hrs: 0.07131432578175051
-- anorexia: 0.07078196871421132
-- likely: 0.07075746594475603
-- edema: 0.07062090377603601
-- from: 0.07053972907100062
-- scan: 0.07024992538422904
-- with: 0.06955707596140044
-- seems: 0.06888971027218835
-- ab: 0.06846603155251581
-- ileocecal: 0.06846603155251581
-- cecal: 0.068058972031571
-- appendicolith: 0.0676672769655237
-- nondistended: 0.06728982855564314
-- 123: 0.06590394797513456
-- path: 0.06558457854942798
-- clubbing: 0.0646815146684699
-- opening: 0.0646815146684699
-- meds: 0.0646815146684699
-- constipation: 0.06439714928062483
-- emergent: 0.06385077642785254
-- finally: 0.06385077642785254
-- plt: 0.06358801081343905
-- pain: 0.06355590510266095
-- ext: 0.06333173390657533
-- appendectomy: 0.06259881625237418
-- picture: 0.062137465304814433
-- way: 0.061914259123928
-- most: 0.061622910142283514
-- cyanosis: 0.06148175123537947
-- indicative: 0.06086501413079875
-- nourished: 0.06066731886989589
-- ttp: 0.060282879090678684
-- questionable: 0.060282879090678684
-- cecum: 0.06009587065487088
-- had: 0.05899502898792968
-- in: 0.05891194526251288
-- gen: 0.058390620648655724
-- guarding: 0.05792926970109597
-- contrast: 0.057531844177491215
-- ms: 0.05748755676769764
-- visualization: 0.056656818527080294
-- 95: 0.056137776005803074
-- diarrhea: 0.05601197219412295
-- cta: 0.055764848914829926
-- clearly: 0.055764848914829926
-- relief: 0.05552347321280565
-- rrr: 0.055171619606002135
-- began: 0.05505693681053508
-- diffusely: 0.05505693681053508
-- obvious: 0.05505693681053508
-- 85: 0.05461047281851048
-- alert: 0.05450179447064384
-- has: 0.05408514995401491
-- chills: 0.053872590472806965
-- for: 0.05383266057232746
-- oriented: 0.053375907789379964
-- stranding: 0.052994995776134105
-- still: 0.05244862292336183
-- vitals: 0.052272708756261756
-- fevers: 0.052272708756261756
-- visible: 0.05218585730894833
-- 34: 0.05159743406058512
-- mesenteric: 0.05111833265994231
-- thickened: 0.0499393430642107
-- started: 0.049869920147252826
-- report: 0.049869920147252826
-- pending: 0.04869371715038016
-- is: 0.04864009612133077
-- pregnancy: 0.04844950147368012
-- good: 0.048152097532125494
-- bp: 0.04803548184022156
-- addition: 0.04792016190503929
-- denies: 0.04774954950326991
-- inflammation: 0.047581696452992796
-- oral: 0.04741651491773823
-- ed: 0.04736203349400859
-- done: 0.04709383543383495
-- rule: 0.046988467144165005
-- not: 0.04674451110301495
-- slightly: 0.04618194988860771
-- nausea: 0.045478835451852016
-- unknown: 0.04486296995654226
-- used: 0.04432207427281778
-- developed: 0.04392437475917005
-- vomiting: 0.043807977045095696
-- tender: 0.04328140896388551
-- clear: 0.04292100166121729
-- since: 0.042885639830116486
-- presence: 0.04253849417866147
-- wbc: 0.04184522400586322
-- palpable: 0.04159284227164339
-- obstruction: 0.04146891617375049
-- labs: 0.041016942550057396
-- 30: 0.04038773855222053
-- masses: 0.04030481917064379
-- inferior: 0.04027732594294324
-- thickening: 0.04027732594294324
-- size: 0.040086885968870486
-- cancer: 0.039433923042563046
-- radiation: 0.039233362455901095
-- out: 0.0389154979511553
-- should: 0.038630481759899596
-- past: 0.03853718955971998
-- patient: 0.03851205405255569
-- while: 0.038262241364597785
-- clinical: 0.03752059111637046
-- proximal: 0.036987181496993454
-- her: 0.036987181496993454
-- fat: 0.0368284221889855
-- negative: 0.03665267351819618
-- changes: 0.03578031344481874
-- been: 0.03449280978464344
-- common: 0.03357534106114007
-- abdominal: 0.032380133707221634
-- acute: 0.03202699727643925
-- without: 0.031227783445331576
-- were: 0.030517852926524765
-- it: 0.030305602433553402
-- to: 0.02960167199953096
-- have: 0.029575550105111346
-- but: 0.029276376151420373
-- well: 0.028666776253347494
-- seen: 0.027872673998126072
-- which: 0.0269205610822538
-- that: 0.025692232947103787
-- there: 0.02355701193360731
-- history: 0.022619282456499853
-- right: 0.01962851234878783
-- on: 0.017880566588073264
+\-\ Texto\\:\\ \ \(0\)\
+\-\ vitals\\:\\ bp\\ 130\\/75\\ p\\ 95\\ t\\ 99\\.9of\ \(0\)\
+\-\ gen\\:\\ well\\ nourished\\ and\\ developed\\.\\ \\ ms\\:\\ alert\\ and\\ oriented\\ x3\\.\\ chest\\.lungs\\:\\ \\ rrr\\ no\\ m\\/r\\/g\\ \\ cta\\ bil\\.\\ \\ ab\\:\\ nondistended\\,\\ ttp\\ with\\ guarding\\,\\ no\\ palpable\\ masses\\,\\ bs\\+\\.\\ \\ ext\\:\\ no\\ cyanosis\\ clubbing\\ or\\ edema\\.\ \(0\)\
+\-\ labs\\:\\ \\ bhcg\\ negative\\.\\ \\ wbc\\ 13\\.2\\ h\\/h\\ 14\\/40\\ plt\\ 123\\ \\ 85\\%neutr\\.\\ \\ amylase\\/lipase\\ normal\ \(0\)\
+\-\ emergent\\ laproscopic\\ appendectomy\ \(0\)\
+\-\ ct\\ scan\\ abdomen\\:\\ \\ positive\\ \\‚\\Ä\\úarrowhead\\ sign\\‚\\Ä\\ù\\ in\\ appendix\\.\\ \\ presence\\ of\\ thickened\\ appendix\\.\\ \\ questionable\\ appendicolith\\.\\ \\ terminal\\ ileum\\ normal\\ and\\ seen\\ with\\ contrast\\,\\ \\ good\\ visualization\\ of\\ ileocecal\\ juntion\\.\\ cecum\\ normal\\ size\\ without\\ evidence\\ of\\ edema\\.\ \(0\)\
+\-\ acute\\ appendicitis\ \(36\)\
+\-\ diff\\ from\\ history\\:\\ appendicitis\\,\\ ectopic\\ pregnancy\\,\\ crohns\\ dz\\,\\ mesenteric\\ adenitis\ \(0\)\
+\-\ diff\\ from\\ viewing\\ ct\\:\\ \\ appendicitis\\ from\\‚\\Ä\\¶\\ lymphoprolifertation\\,\\ apendicolith\\,\\ cecal\\ obstruction\\ of\\ proximal\\ opening\\ \\(cancer\\)\ \(0\)\
+\-\ 34\\ y\\/o\\ wf\\ w\\/\\ abdominal\\ pain\\ for\\ past\\ 30hrs\\.\\ \\ pain\\ started\\ midepigastric\\ and\\ has\\ moved\\ slightly\\ inferior\\ and\\ to\\ the\\ right\\.\\ \\ no\\ radiation\\ and\\ no\\ relief\\ with\\ oral\\ meds\\.\\ \\ has\\ had\\ nausea\\ but\\ no\\ vomiting\\.\\ \\ denies\\ fevers\\,\\ chills\\,\\ melena\\,\\ hematachezia\\,\\ constipation\\,\\ diarrhea\\.\\ \\ anorexia\\ for\\ 30\\ hrs\\.\\ no\\ bm\\ since\\ pain\\ began\\.\\ \\ lmp\\ unknown\\.\ \(0\)\
+\-\ in\\ the\\ ed\\ the\\ patient\\ clearly\\ had\\ a\\ diffusely\\ tender\\ abdomen\\,\\ with\\ evidence\\ of\\ appendicitis\\.\\ \\ b\\-hcg\\ was\\ used\\ to\\ rule\\ out\\ ectopic\\ preg\\ and\\ amylase\\ and\\ lipase\\ were\\ normal\\.\\ \\ likely\\ the\\ patient\\ clinical\\ picture\\ was\\ not\\ overtly\\ obvious\\ for\\ appendicitis\\ \\(while\\ on\\ paper\\ it\\ seems\\ that\\ way\\)\\ or\\ else\\ a\\ ct\\ scan\\ should\\ not\\ have\\ been\\ done\\.\\ \\ her\\ ct\\ showed\\ clear\\ evidence\\ of\\ thickening\\ in\\ the\\ appendix\\ with\\ fat\\ stranding\\.\\ \\ in\\ addition\\,\\ there\\ was\\ a\\ positive\\ arrowhead\\ sign\\,\\ which\\ is\\ indicative\\ of\\ appendicitis\\.\\ \\ \\ finally\\,\\ the\\ terminal\\ ileum\\ was\\ visible\\ with\\ contrast\\ and\\ showed\\ no\\ evidence\\ of\\ inflammation\\ or\\ changes\\.\\ \\ the\\ most\\ likely\\ cause\\ of\\ appendicitis\\ is\\ lymphoproliferation\\ \\(most\\ common\\ cause\\ of\\ appendicitis\\)\\ or\\ a\\ fecolith\\.\\ \\ the\\ path\\ report\\ is\\ still\\ pending\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ appendicitis\\:\\ 0\\.40177419003245074\ \(0\)\
+\-\ appendix\\:\\ 0\\.1601277233681399\ \(0\)\
+\-\ arrowhead\\:\\ 0\\.15813886094002882\ \(0\)\
+\-\ no\\:\\ 0\\.15401924063878844\ \(0\)\
+\-\ diff\\:\\ 0\\.14753546202253023\ \(0\)\
+\-\ evidence\\:\\ 0\\.13441668306746418\ \(0\)\
+\-\ amylase\\:\\ 0\\.1256748345504493\ \(0\)\
+\-\ lipase\\:\\ 0\\.12473115501354878\ \(0\)\
+\-\ terminal\\:\\ 0\\.1217300282615975\ \(0\)\
+\-\ ileum\\:\\ 0\\.1198243445545196\ \(0\)\
+\-\ of\\:\\ 0\\.11585923407091778\ \(0\)\
+\-\ and\\:\\ 0\\.1101036810286336\ \(0\)\
+\-\ ectopic\\:\\ 0\\.10472058627168791\ \(0\)\
+\-\ normal\\:\\ 0\\.09669007323405544\ \(0\)\
+\-\ juntion\\:\\ 0\\.0946797795782236\ \(0\)\
+\-\ lymphoprolifertation\\:\\ 0\\.0946797795782236\ \(0\)\
+\-\ apendicolith\\:\\ 0\\.0946797795782236\ \(0\)\
+\-\ 30hrs\\:\\ 0\\.0946797795782236\ \(0\)\
+\-\ hematachezia\\:\\ 0\\.0946797795782236\ \(0\)\
+\-\ preg\\:\\ 0\\.0946797795782236\ \(0\)\
+\-\ overtly\\:\\ 0\\.0946797795782236\ \(0\)\
+\-\ lymphoproliferation\\:\\ 0\\.0946797795782236\ \(0\)\
+\-\ the\\:\\ 0\\.09450644128748482\ \(0\)\
+\-\ ct\\:\\ 0\\.09015778402399258\ \(0\)\
+\-\ bil\\:\\ 0\\.08748582167745134\ \(0\)\
+\-\ neutr\\:\\ 0\\.08748582167745134\ \(0\)\
+\-\ midepigastric\\:\\ 0\\.08748582167745134\ \(0\)\
+\-\ fecolith\\:\\ 0\\.08516988451575584\ \(0\)\
+\-\ was\\:\\ 0\\.08253245457125845\ \(0\)\
+\-\ or\\:\\ 0\\.08238380402613721\ \(0\)\
+\-\ sign\\:\\ 0\\.08197499889104612\ \(0\)\
+\-\ paper\\:\\ 0\\.08167774435718766\ \(0\)\
+\-\ cause\\:\\ 0\\.08066477084322243\ \(0\)\
+\-\ laproscopic\\:\\ 0\\.08029186377667907\ \(0\)\
+\-\ else\\:\\ 0\\.08029186377667907\ \(0\)\
+\-\ showed\\:\\ 0\\.07886784608512609\ \(0\)\
+\-\ positive\\:\\ 0\\.0780245392604442\ \(0\)\
+\-\ viewing\\:\\ 0\\.07797592661498358\ \(0\)\
+\-\ bm\\:\\ 0\\.07797592661498358\ \(0\)\
+\-\ lmp\\:\\ 0\\.07797592661498358\ \(0\)\
+\-\ crohns\\:\\ 0\\.0769867320539187\ \(0\)\
+\-\ x3\\:\\ 0\\.07376773101126512\ \(0\)\
+\-\ dz\\:\\ 0\\.07376773101126512\ \(0\)\
+\-\ moved\\:\\ 0\\.07376773101126512\ \(0\)\
+\-\ bhcg\\:\\ 0\\.07246870187806995\ \(0\)\
+\-\ abdomen\\:\\ 0\\.07224837963578551\ \(0\)\
+\-\ wf\\:\\ 0\\.07187547256924215\ \(0\)\
+\-\ melena\\:\\ 0\\.07187547256924215\ \(0\)\
+\-\ adenitis\\:\\ 0\\.07131432578175051\ \(0\)\
+\-\ hrs\\:\\ 0\\.07131432578175051\ \(0\)\
+\-\ anorexia\\:\\ 0\\.07078196871421132\ \(0\)\
+\-\ likely\\:\\ 0\\.07075746594475603\ \(0\)\
+\-\ edema\\:\\ 0\\.07062090377603601\ \(0\)\
+\-\ from\\:\\ 0\\.07053972907100062\ \(0\)\
+\-\ scan\\:\\ 0\\.07024992538422904\ \(0\)\
+\-\ with\\:\\ 0\\.06955707596140044\ \(0\)\
+\-\ seems\\:\\ 0\\.06888971027218835\ \(0\)\
+\-\ ab\\:\\ 0\\.06846603155251581\ \(0\)\
+\-\ ileocecal\\:\\ 0\\.06846603155251581\ \(0\)\
+\-\ cecal\\:\\ 0\\.068058972031571\ \(0\)\
+\-\ appendicolith\\:\\ 0\\.0676672769655237\ \(0\)\
+\-\ nondistended\\:\\ 0\\.06728982855564314\ \(0\)\
+\-\ 123\\:\\ 0\\.06590394797513456\ \(0\)\
+\-\ path\\:\\ 0\\.06558457854942798\ \(0\)\
+\-\ clubbing\\:\\ 0\\.0646815146684699\ \(0\)\
+\-\ opening\\:\\ 0\\.0646815146684699\ \(0\)\
+\-\ meds\\:\\ 0\\.0646815146684699\ \(0\)\
+\-\ constipation\\:\\ 0\\.06439714928062483\ \(0\)\
+\-\ emergent\\:\\ 0\\.06385077642785254\ \(0\)\
+\-\ finally\\:\\ 0\\.06385077642785254\ \(0\)\
+\-\ plt\\:\\ 0\\.06358801081343905\ \(0\)\
+\-\ pain\\:\\ 0\\.06355590510266095\ \(0\)\
+\-\ ext\\:\\ 0\\.06333173390657533\ \(0\)\
+\-\ appendectomy\\:\\ 0\\.06259881625237418\ \(0\)\
+\-\ picture\\:\\ 0\\.062137465304814433\ \(0\)\
+\-\ way\\:\\ 0\\.061914259123928\ \(0\)\
+\-\ most\\:\\ 0\\.061622910142283514\ \(0\)\
+\-\ cyanosis\\:\\ 0\\.06148175123537947\ \(0\)\
+\-\ indicative\\:\\ 0\\.06086501413079875\ \(0\)\
+\-\ nourished\\:\\ 0\\.06066731886989589\ \(0\)\
+\-\ ttp\\:\\ 0\\.060282879090678684\ \(0\)\
+\-\ questionable\\:\\ 0\\.060282879090678684\ \(0\)\
+\-\ cecum\\:\\ 0\\.06009587065487088\ \(0\)\
+\-\ had\\:\\ 0\\.05899502898792968\ \(0\)\
+\-\ in\\:\\ 0\\.05891194526251288\ \(0\)\
+\-\ gen\\:\\ 0\\.058390620648655724\ \(0\)\
+\-\ guarding\\:\\ 0\\.05792926970109597\ \(0\)\
+\-\ contrast\\:\\ 0\\.057531844177491215\ \(0\)\
+\-\ ms\\:\\ 0\\.05748755676769764\ \(0\)\
+\-\ visualization\\:\\ 0\\.056656818527080294\ \(0\)\
+\-\ 95\\:\\ 0\\.056137776005803074\ \(0\)\
+\-\ diarrhea\\:\\ 0\\.05601197219412295\ \(0\)\
+\-\ cta\\:\\ 0\\.055764848914829926\ \(0\)\
+\-\ clearly\\:\\ 0\\.055764848914829926\ \(0\)\
+\-\ relief\\:\\ 0\\.05552347321280565\ \(0\)\
+\-\ rrr\\:\\ 0\\.055171619606002135\ \(0\)\
+\-\ began\\:\\ 0\\.05505693681053508\ \(0\)\
+\-\ diffusely\\:\\ 0\\.05505693681053508\ \(0\)\
+\-\ obvious\\:\\ 0\\.05505693681053508\ \(0\)\
+\-\ 85\\:\\ 0\\.05461047281851048\ \(0\)\
+\-\ alert\\:\\ 0\\.05450179447064384\ \(0\)\
+\-\ has\\:\\ 0\\.05408514995401491\ \(0\)\
+\-\ chills\\:\\ 0\\.053872590472806965\ \(0\)\
+\-\ for\\:\\ 0\\.05383266057232746\ \(0\)\
+\-\ oriented\\:\\ 0\\.053375907789379964\ \(0\)\
+\-\ stranding\\:\\ 0\\.052994995776134105\ \(0\)\
+\-\ still\\:\\ 0\\.05244862292336183\ \(0\)\
+\-\ vitals\\:\\ 0\\.052272708756261756\ \(0\)\
+\-\ fevers\\:\\ 0\\.052272708756261756\ \(0\)\
+\-\ visible\\:\\ 0\\.05218585730894833\ \(0\)\
+\-\ 34\\:\\ 0\\.05159743406058512\ \(0\)\
+\-\ mesenteric\\:\\ 0\\.05111833265994231\ \(0\)\
+\-\ thickened\\:\\ 0\\.0499393430642107\ \(0\)\
+\-\ started\\:\\ 0\\.049869920147252826\ \(0\)\
+\-\ report\\:\\ 0\\.049869920147252826\ \(0\)\
+\-\ pending\\:\\ 0\\.04869371715038016\ \(0\)\
+\-\ is\\:\\ 0\\.04864009612133077\ \(0\)\
+\-\ pregnancy\\:\\ 0\\.04844950147368012\ \(0\)\
+\-\ good\\:\\ 0\\.048152097532125494\ \(0\)\
+\-\ bp\\:\\ 0\\.04803548184022156\ \(0\)\
+\-\ addition\\:\\ 0\\.04792016190503929\ \(0\)\
+\-\ denies\\:\\ 0\\.04774954950326991\ \(0\)\
+\-\ inflammation\\:\\ 0\\.047581696452992796\ \(0\)\
+\-\ oral\\:\\ 0\\.04741651491773823\ \(0\)\
+\-\ ed\\:\\ 0\\.04736203349400859\ \(0\)\
+\-\ done\\:\\ 0\\.04709383543383495\ \(0\)\
+\-\ rule\\:\\ 0\\.046988467144165005\ \(0\)\
+\-\ not\\:\\ 0\\.04674451110301495\ \(0\)\
+\-\ slightly\\:\\ 0\\.04618194988860771\ \(0\)\
+\-\ nausea\\:\\ 0\\.045478835451852016\ \(0\)\
+\-\ unknown\\:\\ 0\\.04486296995654226\ \(0\)\
+\-\ used\\:\\ 0\\.04432207427281778\ \(0\)\
+\-\ developed\\:\\ 0\\.04392437475917005\ \(0\)\
+\-\ vomiting\\:\\ 0\\.043807977045095696\ \(0\)\
+\-\ tender\\:\\ 0\\.04328140896388551\ \(0\)\
+\-\ clear\\:\\ 0\\.04292100166121729\ \(0\)\
+\-\ since\\:\\ 0\\.042885639830116486\ \(0\)\
+\-\ presence\\:\\ 0\\.04253849417866147\ \(0\)\
+\-\ wbc\\:\\ 0\\.04184522400586322\ \(0\)\
+\-\ palpable\\:\\ 0\\.04159284227164339\ \(0\)\
+\-\ obstruction\\:\\ 0\\.04146891617375049\ \(0\)\
+\-\ labs\\:\\ 0\\.041016942550057396\ \(0\)\
+\-\ 30\\:\\ 0\\.04038773855222053\ \(0\)\
+\-\ masses\\:\\ 0\\.04030481917064379\ \(0\)\
+\-\ inferior\\:\\ 0\\.04027732594294324\ \(0\)\
+\-\ thickening\\:\\ 0\\.04027732594294324\ \(0\)\
+\-\ size\\:\\ 0\\.040086885968870486\ \(0\)\
+\-\ cancer\\:\\ 0\\.039433923042563046\ \(0\)\
+\-\ radiation\\:\\ 0\\.039233362455901095\ \(0\)\
+\-\ out\\:\\ 0\\.0389154979511553\ \(0\)\
+\-\ should\\:\\ 0\\.038630481759899596\ \(0\)\
+\-\ past\\:\\ 0\\.03853718955971998\ \(0\)\
+\-\ patient\\:\\ 0\\.03851205405255569\ \(0\)\
+\-\ while\\:\\ 0\\.038262241364597785\ \(0\)\
+\-\ clinical\\:\\ 0\\.03752059111637046\ \(0\)\
+\-\ proximal\\:\\ 0\\.036987181496993454\ \(0\)\
+\-\ her\\:\\ 0\\.036987181496993454\ \(0\)\
+\-\ fat\\:\\ 0\\.0368284221889855\ \(0\)\
+\-\ negative\\:\\ 0\\.03665267351819618\ \(0\)\
+\-\ changes\\:\\ 0\\.03578031344481874\ \(0\)\
+\-\ been\\:\\ 0\\.03449280978464344\ \(0\)\
+\-\ common\\:\\ 0\\.03357534106114007\ \(0\)\
+\-\ abdominal\\:\\ 0\\.032380133707221634\ \(0\)\
+\-\ acute\\:\\ 0\\.03202699727643925\ \(0\)\
+\-\ without\\:\\ 0\\.031227783445331576\ \(0\)\
+\-\ were\\:\\ 0\\.030517852926524765\ \(0\)\
+\-\ it\\:\\ 0\\.030305602433553402\ \(0\)\
+\-\ to\\:\\ 0\\.02960167199953096\ \(0\)\
+\-\ have\\:\\ 0\\.029575550105111346\ \(0\)\
+\-\ but\\:\\ 0\\.029276376151420373\ \(0\)\
+\-\ well\\:\\ 0\\.028666776253347494\ \(0\)\
+\-\ seen\\:\\ 0\\.027872673998126072\ \(0\)\
+\-\ which\\:\\ 0\\.0269205610822538\ \(0\)\
+\-\ that\\:\\ 0\\.025692232947103787\ \(0\)\
+\-\ there\\:\\ 0\\.02355701193360731\ \(0\)\
+\-\ history\\:\\ 0\\.022619282456499853\ \(0\)\
+\-\ right\\:\\ 0\\.01962851234878783\ \(0\)\
+\-\ on\\:\\ 0\\.017880566588073264\ \(0\)\

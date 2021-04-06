@@ -1,59 +1,57 @@
-Texto: 
-unknown
-this patient was being considered for reimplantation surgery to decrease reflux.
-multiple fluoroscopic images demonstrate severe bilateral hydronephrosis. there is moderately severe hydronephrosis with moderate dilatation of the collecting system and blunting of the calyces.
-reflux
-vesicoureteral reflux
-obstruction
-congenital
-3 month old female with history of in-utero hydronephrosis for fluoroscopic evaluation of vesicoureteral reflux.
-this patient was found to have hydronephrosis initially on antenatal imaging.
-
-
-Keywords by value: 
-- hydronephrosis: 0.4876033607379711
-- reflux: 0.45505193354819545
-- vesicoureteral: 0.2857504725741934
-- fluoroscopic: 0.2598007303055845
-- reimplantation: 0.17080721205906632
-- antenatal: 0.17080721205906632
-- severe: 0.16630425109474728
-- blunting: 0.15382270152134264
-- calyces: 0.1528426916849547
-- moderately: 0.13252413175611122
-- collecting: 0.12318758583847239
-- decrease: 0.11290045725205865
-- dilatation: 0.10722665517004744
-- initially: 0.10300633553249856
-- of: 0.10282079644109245
-- considered: 0.10235459139841012
-- system: 0.10020864108148726
-- unknown: 0.09953557734597444
-- moderate: 0.09860695330411572
-- congenital: 0.09437836107602579
-- obstruction: 0.09200533351368437
-- was: 0.0915556362350533
-- being: 0.09153193273270051
-- this: 0.09027050695099302
-- patient: 0.0854450683629228
-- found: 0.08499137317649995
-- evaluation: 0.08010642337136903
-- month: 0.07990354315567165
-- for: 0.0796241674789835
-- surgery: 0.07062092409060348
-- bilateral: 0.07059394487776519
-- imaging: 0.06903044250807502
-- demonstrate: 0.06828677974463741
-- to: 0.06567597989463493
-- have: 0.06561802435034203
-- multiple: 0.06424760708547024
-- female: 0.06338387696859571
-- images: 0.06075950376748363
-- the: 0.05241936281511983
-- there: 0.052264947809494776
-- with: 0.05144111592123258
-- history: 0.05018444700919905
-- on: 0.039670858178605176
-- old: 0.038875202372131906
-- is: 0.03597190923301277
-- and: 0.027142487618328583
+\-\ Texto\\:\\ \ \(0\)\
+\-\ unknown\ \(157\)\
+\-\ this\\ patient\\ was\\ being\\ considered\\ for\\ reimplantation\\ surgery\\ to\\ decrease\\ reflux\\.\ \(0\)\
+\-\ multiple\\ fluoroscopic\\ images\\ demonstrate\\ severe\\ bilateral\\ hydronephrosis\\.\\ there\\ is\\ moderately\\ severe\\ hydronephrosis\\ with\\ moderate\\ dilatation\\ of\\ the\\ collecting\\ system\\ and\\ blunting\\ of\\ the\\ calyces\\.\ \(0\)\
+\-\ reflux\ \(206\)\
+\-\ vesicoureteral\\ reflux\ \(36\)\
+\-\ obstruction\ \(546\)\
+\-\ congenital\ \(240\)\
+\-\ 3\\ month\\ old\\ female\\ with\\ history\\ of\\ in\\-utero\\ hydronephrosis\\ for\\ fluoroscopic\\ evaluation\\ of\\ vesicoureteral\\ reflux\\.\ \(1\)\
+\-\ this\\ patient\\ was\\ found\\ to\\ have\\ hydronephrosis\\ initially\\ on\\ antenatal\\ imaging\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ hydronephrosis\\:\\ 0\\.4876033607379711\ \(0\)\
+\-\ reflux\\:\\ 0\\.45505193354819545\ \(0\)\
+\-\ vesicoureteral\\:\\ 0\\.2857504725741934\ \(0\)\
+\-\ fluoroscopic\\:\\ 0\\.2598007303055845\ \(0\)\
+\-\ reimplantation\\:\\ 0\\.17080721205906632\ \(0\)\
+\-\ antenatal\\:\\ 0\\.17080721205906632\ \(0\)\
+\-\ severe\\:\\ 0\\.16630425109474728\ \(0\)\
+\-\ blunting\\:\\ 0\\.15382270152134264\ \(0\)\
+\-\ calyces\\:\\ 0\\.1528426916849547\ \(0\)\
+\-\ moderately\\:\\ 0\\.13252413175611122\ \(0\)\
+\-\ collecting\\:\\ 0\\.12318758583847239\ \(0\)\
+\-\ decrease\\:\\ 0\\.11290045725205865\ \(0\)\
+\-\ dilatation\\:\\ 0\\.10722665517004744\ \(0\)\
+\-\ initially\\:\\ 0\\.10300633553249856\ \(0\)\
+\-\ of\\:\\ 0\\.10282079644109245\ \(0\)\
+\-\ considered\\:\\ 0\\.10235459139841012\ \(0\)\
+\-\ system\\:\\ 0\\.10020864108148726\ \(0\)\
+\-\ unknown\\:\\ 0\\.09953557734597444\ \(0\)\
+\-\ moderate\\:\\ 0\\.09860695330411572\ \(0\)\
+\-\ congenital\\:\\ 0\\.09437836107602579\ \(0\)\
+\-\ obstruction\\:\\ 0\\.09200533351368437\ \(0\)\
+\-\ was\\:\\ 0\\.0915556362350533\ \(0\)\
+\-\ being\\:\\ 0\\.09153193273270051\ \(0\)\
+\-\ this\\:\\ 0\\.09027050695099302\ \(0\)\
+\-\ patient\\:\\ 0\\.0854450683629228\ \(0\)\
+\-\ found\\:\\ 0\\.08499137317649995\ \(0\)\
+\-\ evaluation\\:\\ 0\\.08010642337136903\ \(0\)\
+\-\ month\\:\\ 0\\.07990354315567165\ \(0\)\
+\-\ for\\:\\ 0\\.0796241674789835\ \(0\)\
+\-\ surgery\\:\\ 0\\.07062092409060348\ \(0\)\
+\-\ bilateral\\:\\ 0\\.07059394487776519\ \(0\)\
+\-\ imaging\\:\\ 0\\.06903044250807502\ \(0\)\
+\-\ demonstrate\\:\\ 0\\.06828677974463741\ \(0\)\
+\-\ to\\:\\ 0\\.06567597989463493\ \(0\)\
+\-\ have\\:\\ 0\\.06561802435034203\ \(0\)\
+\-\ multiple\\:\\ 0\\.06424760708547024\ \(0\)\
+\-\ female\\:\\ 0\\.06338387696859571\ \(0\)\
+\-\ images\\:\\ 0\\.06075950376748363\ \(0\)\
+\-\ the\\:\\ 0\\.05241936281511983\ \(0\)\
+\-\ there\\:\\ 0\\.052264947809494776\ \(0\)\
+\-\ with\\:\\ 0\\.05144111592123258\ \(0\)\
+\-\ history\\:\\ 0\\.05018444700919905\ \(0\)\
+\-\ on\\:\\ 0\\.039670858178605176\ \(0\)\
+\-\ old\\:\\ 0\\.038875202372131906\ \(0\)\
+\-\ is\\:\\ 0\\.03597190923301277\ \(0\)\
+\-\ and\\:\\ 0\\.027142487618328583\ \(0\)\

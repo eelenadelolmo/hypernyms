@@ -1,75 +1,73 @@
-Texto: 
-the patient was evaluated by cardiology and no treatment was needed.
-the frontal exam shows an abnormal cardiac contour with increased prominence of the left atrial appendage.  there is mild shift of the heart to the left.  the lungs are clear. there is prominence of the pulmonary outflow tract on the lateral exam.
-partial absent left pericardium
-congenital partial absence of the left pericardium
-cardiac mass
-congenital heart disease
-7 year old boy with a cough.  no significant past medical history.
-when the absent left pericardium is limited to the left atrial appendage this presents with  the appearance of a mass as the appendage is focally protruding from the adjacent pericardium.
-
-
-Keywords by value: 
-- pericardium: 0.48557283460928435
-- appendage: 0.4068794245945891
-- the: 0.2876625911415336
-- prominence: 0.21776097181745802
-- left: 0.21076297371660982
-- atrial: 0.19356554187566502
-- absent: 0.1689623712151248
-- partial: 0.15868221785672962
-- cardiac: 0.15293463412631175
-- congenital: 0.14797761981074645
-- heart: 0.1432011546962842
-- protruding: 0.12311375212127094
-- focally: 0.12059076352073518
-- outflow: 0.1198224755290472
-- cardiology: 0.11769625109879507
-- is: 0.11280207555334659
-- exam: 0.10367575772608631
-- of: 0.10075917132199969
-- contour: 0.09267080561161091
-- shift: 0.0904704453767517
-- evaluated: 0.08798609833870559
-- tract: 0.08626555486975573
-- needed: 0.08502009258351646
-- limited: 0.08219053024036758
-- absence: 0.08209723782058524
-- there: 0.08194720154286025
-- mass: 0.07866772438590006
-- cough: 0.07688074069798462
-- lungs: 0.0759966598586687
-- clear: 0.07465411961980128
-- was: 0.07177590803578417
-- boy: 0.07044202925507537
-- past: 0.06702918962401258
-- no: 0.06697287091035337
-- adjacent: 0.06674868608599434
-- frontal: 0.06627773651468823
-- medical: 0.06544499988956753
-- pulmonary: 0.06276826691287836
-- when: 0.0622031133228186
-- appearance: 0.062079890707508585
-- abnormal: 0.06186625456858914
-- with: 0.060491624941713
-- shows: 0.06043766425098567
-- significant: 0.05945574012037825
-- mild: 0.05837383892555336
-- increased: 0.055684211568767475
-- to: 0.051487306373744865
-- lateral: 0.051104440386136304
-- presents: 0.049536493286951644
-- treatment: 0.04905265747601409
-- by: 0.04372933642221455
-- disease: 0.043225423860965374
-- as: 0.0413688815924187
-- from: 0.04089747185290877
-- an: 0.03937745565303923
-- history: 0.03934257246720839
-- are: 0.039074489296307614
-- this: 0.03538420938184373
-- patient: 0.03349273524342774
-- year: 0.0317349976001894
-- on: 0.031100344942368838
-- old: 0.030476583038219696
-- and: 0.02127861020105802
+\-\ Texto\\:\\ \ \(0\)\
+\-\ the\\ patient\\ was\\ evaluated\\ by\\ cardiology\\ and\\ no\\ treatment\\ was\\ needed\\.\ \(0\)\
+\-\ the\\ frontal\\ exam\\ shows\\ an\\ abnormal\\ cardiac\\ contour\\ with\\ increased\\ prominence\\ of\\ the\\ left\\ atrial\\ appendage\\.\\ \\ there\\ is\\ mild\\ shift\\ of\\ the\\ heart\\ to\\ the\\ left\\.\\ \\ the\\ lungs\\ are\\ clear\\.\\ there\\ is\\ prominence\\ of\\ the\\ pulmonary\\ outflow\\ tract\\ on\\ the\\ lateral\\ exam\\.\ \(0\)\
+\-\ partial\\ absent\\ left\\ pericardium\ \(0\)\
+\-\ congenital\\ partial\\ absence\\ of\\ the\\ left\\ pericardium\ \(0\)\
+\-\ cardiac\\ mass\ \(4\)\
+\-\ congenital\\ heart\\ disease\ \(15\)\
+\-\ 7\\ year\\ old\\ boy\\ with\\ a\\ cough\\.\\ \\ no\\ significant\\ past\\ medical\\ history\\.\ \(0\)\
+\-\ when\\ the\\ absent\\ left\\ pericardium\\ is\\ limited\\ to\\ the\\ left\\ atrial\\ appendage\\ this\\ presents\\ with\\ \\ the\\ appearance\\ of\\ a\\ mass\\ as\\ the\\ appendage\\ is\\ focally\\ protruding\\ from\\ the\\ adjacent\\ pericardium\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ pericardium\\:\\ 0\\.48557283460928435\ \(0\)\
+\-\ appendage\\:\\ 0\\.4068794245945891\ \(0\)\
+\-\ the\\:\\ 0\\.2876625911415336\ \(0\)\
+\-\ prominence\\:\\ 0\\.21776097181745802\ \(0\)\
+\-\ left\\:\\ 0\\.21076297371660982\ \(0\)\
+\-\ atrial\\:\\ 0\\.19356554187566502\ \(0\)\
+\-\ absent\\:\\ 0\\.1689623712151248\ \(0\)\
+\-\ partial\\:\\ 0\\.15868221785672962\ \(0\)\
+\-\ cardiac\\:\\ 0\\.15293463412631175\ \(0\)\
+\-\ congenital\\:\\ 0\\.14797761981074645\ \(0\)\
+\-\ heart\\:\\ 0\\.1432011546962842\ \(0\)\
+\-\ protruding\\:\\ 0\\.12311375212127094\ \(0\)\
+\-\ focally\\:\\ 0\\.12059076352073518\ \(0\)\
+\-\ outflow\\:\\ 0\\.1198224755290472\ \(0\)\
+\-\ cardiology\\:\\ 0\\.11769625109879507\ \(0\)\
+\-\ is\\:\\ 0\\.11280207555334659\ \(0\)\
+\-\ exam\\:\\ 0\\.10367575772608631\ \(0\)\
+\-\ of\\:\\ 0\\.10075917132199969\ \(0\)\
+\-\ contour\\:\\ 0\\.09267080561161091\ \(0\)\
+\-\ shift\\:\\ 0\\.0904704453767517\ \(0\)\
+\-\ evaluated\\:\\ 0\\.08798609833870559\ \(0\)\
+\-\ tract\\:\\ 0\\.08626555486975573\ \(0\)\
+\-\ needed\\:\\ 0\\.08502009258351646\ \(0\)\
+\-\ limited\\:\\ 0\\.08219053024036758\ \(0\)\
+\-\ absence\\:\\ 0\\.08209723782058524\ \(0\)\
+\-\ there\\:\\ 0\\.08194720154286025\ \(0\)\
+\-\ mass\\:\\ 0\\.07866772438590006\ \(0\)\
+\-\ cough\\:\\ 0\\.07688074069798462\ \(0\)\
+\-\ lungs\\:\\ 0\\.0759966598586687\ \(0\)\
+\-\ clear\\:\\ 0\\.07465411961980128\ \(0\)\
+\-\ was\\:\\ 0\\.07177590803578417\ \(0\)\
+\-\ boy\\:\\ 0\\.07044202925507537\ \(0\)\
+\-\ past\\:\\ 0\\.06702918962401258\ \(0\)\
+\-\ no\\:\\ 0\\.06697287091035337\ \(0\)\
+\-\ adjacent\\:\\ 0\\.06674868608599434\ \(0\)\
+\-\ frontal\\:\\ 0\\.06627773651468823\ \(0\)\
+\-\ medical\\:\\ 0\\.06544499988956753\ \(0\)\
+\-\ pulmonary\\:\\ 0\\.06276826691287836\ \(0\)\
+\-\ when\\:\\ 0\\.0622031133228186\ \(0\)\
+\-\ appearance\\:\\ 0\\.062079890707508585\ \(0\)\
+\-\ abnormal\\:\\ 0\\.06186625456858914\ \(0\)\
+\-\ with\\:\\ 0\\.060491624941713\ \(0\)\
+\-\ shows\\:\\ 0\\.06043766425098567\ \(0\)\
+\-\ significant\\:\\ 0\\.05945574012037825\ \(0\)\
+\-\ mild\\:\\ 0\\.05837383892555336\ \(0\)\
+\-\ increased\\:\\ 0\\.055684211568767475\ \(0\)\
+\-\ to\\:\\ 0\\.051487306373744865\ \(0\)\
+\-\ lateral\\:\\ 0\\.051104440386136304\ \(0\)\
+\-\ presents\\:\\ 0\\.049536493286951644\ \(0\)\
+\-\ treatment\\:\\ 0\\.04905265747601409\ \(0\)\
+\-\ by\\:\\ 0\\.04372933642221455\ \(0\)\
+\-\ disease\\:\\ 0\\.043225423860965374\ \(0\)\
+\-\ as\\:\\ 0\\.0413688815924187\ \(0\)\
+\-\ from\\:\\ 0\\.04089747185290877\ \(0\)\
+\-\ an\\:\\ 0\\.03937745565303923\ \(0\)\
+\-\ history\\:\\ 0\\.03934257246720839\ \(0\)\
+\-\ are\\:\\ 0\\.039074489296307614\ \(0\)\
+\-\ this\\:\\ 0\\.03538420938184373\ \(0\)\
+\-\ patient\\:\\ 0\\.03349273524342774\ \(0\)\
+\-\ year\\:\\ 0\\.0317349976001894\ \(0\)\
+\-\ on\\:\\ 0\\.031100344942368838\ \(0\)\
+\-\ old\\:\\ 0\\.030476583038219696\ \(0\)\
+\-\ and\\:\\ 0\\.02127861020105802\ \(0\)\

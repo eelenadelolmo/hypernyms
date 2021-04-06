@@ -1,108 +1,103 @@
-Texto: 
-patient  has tenderness to palpation and diffuse swelling at the posteriolateral aspect of right ankle. pain is worsened with manual compression of distal right leg.  lab tests within normal limits.
-follow-up plain films several weeks later reveal a lucent fracture line with extensive surrounding callous formation at the fracture site in the distal fibula. 
-
-there is also a horizontal sclerotic line in the distal tibia - a second stress fracture.
-
-patient was conservatively managed with a walking cast for 3 weeks and cessation from all athletic activity for 8 weeks.
-
-follow-up radiographs were used to evaluate healing.
-plain film: ap view of right ankle demonstrates a subtle sclerotic line that runs perpendicular to the long axis of the distal fibula, just superior to lateral malleolous.
-stress fracture of the distal fibula and tibia
-infection, neoplasm, stress fracture, complete fracture
-30 year old female long distance runner, presents with right ankle pain of several weeks duration.
-
-
-Keywords by value: 
-- fracture: 0.30668211440632204
-- fibula: 0.27647737736803274
-- distal: 0.26127503001631003
-- ankle: 0.23822086906210185
-- stress: 0.22276268451714645
-- weeks: 0.21560145150088797
-- line: 0.21024312772038722
-- tibia: 0.15368931327902532
-- sclerotic: 0.15088938490285536
-- malleolous: 0.14382711941777737
-- posteriolateral: 0.1328988489180981
-- the: 0.12561832756356808
-- callous: 0.1201135920379989
-- long: 0.11927355452745698
-- right: 0.1192699181243866
-- plain: 0.1186743474548348
-- runs: 0.11845246111604338
-- several: 0.11801357610501048
-- runner: 0.11557794997836926
-- perpendicular: 0.11104230791873963
-- of: 0.10560037191850058
-- athletic: 0.10532068123960742
-- manual: 0.10464967947869001
-- cessation: 0.10011403741906037
-- horizontal: 0.097404618487836
-- distance: 0.09659592011668487
-- cast: 0.09339632196375372
-- conservatively: 0.09046827542097242
-- to: 0.08993521600089675
-- worsened: 0.08968632202935671
-- managed: 0.08799978229987854
-- lucent: 0.08689680388271974
-- axis: 0.08689680388271974
-- duration: 0.08668517437425975
-- tests: 0.08606681427044582
-- walking: 0.08452743037551717
-- healing: 0.08398682330003984
-- lab: 0.08123085528966499
-- subtle: 0.07753525586927452
-- reveal: 0.0756521449399519
-- site: 0.07253586974056965
-- just: 0.07194719799261443
-- formation: 0.0713002903596452
-- films: 0.07122126181495086
-- limits: 0.0710643832901953
-- with: 0.07044231207703913
-- evaluate: 0.06993505855218449
-- extensive: 0.06929435886028244
-- at: 0.06793987308431239
-- leg: 0.06789348277991256
-- second: 0.06732922592002262
-- used: 0.06732922592002262
-- film: 0.06720653143578831
-- activity: 0.0660294057037781
-- compression: 0.06586017873037184
-- view: 0.06586017873037184
-- ap: 0.06456802972828787
-- pain: 0.06436476576538061
-- later: 0.06436260452042164
-- complete: 0.0630418750021593
-- neoplasm: 0.06139482729834018
-- 30: 0.06135261532759454
-- palpation: 0.06065178165303618
-- swelling: 0.060531275372185694
-- surrounding: 0.05998077989211879
-- patient: 0.05850328150230311
-- superior: 0.05847107983620416
-- radiographs: 0.058331246000223026
-- aspect: 0.05802108199758544
-- tenderness: 0.05640095542034337
-- diffuse: 0.05640095542034337
-- and: 0.05575247199978491
-- for: 0.05451777584896716
-- infection: 0.05432650129342025
-- all: 0.05353671205356644
-- is: 0.04925912688361632
-- were: 0.04635936941119564
-- demonstrates: 0.04518282956622542
-- in: 0.04474627752700129
-- lateral: 0.04463322329749827
-- female: 0.043398230793741
-- presents: 0.043263821099415324
-- also: 0.04230328051137939
-- within: 0.0414217126682502
-- has: 0.0410801089515509
-- that: 0.039028817691104535
-- normal: 0.03672023417116898
-- there: 0.035785224507221165
-- from: 0.035718735587783115
-- was: 0.03134355944939503
-- year: 0.027716480672373783
-- old: 0.02661741574336119
+\-\ Texto\\:\\ \ \(0\)\
+\-\ patient\\ \\ has\\ tenderness\\ to\\ palpation\\ and\\ diffuse\\ swelling\\ at\\ the\\ posteriolateral\\ aspect\\ of\\ right\\ ankle\\.\\ pain\\ is\\ worsened\\ with\\ manual\\ compression\\ of\\ distal\\ right\\ leg\\.\\ \\ lab\\ tests\\ within\\ normal\\ limits\\.\ \(0\)\
+\-\ follow\\-up\\ plain\\ films\\ several\\ weeks\\ later\\ reveal\\ a\\ lucent\\ fracture\\ line\\ with\\ extensive\\ surrounding\\ callous\\ formation\\ at\\ the\\ fracture\\ site\\ in\\ the\\ distal\\ fibula\\.\\ \ \(0\)\
+\-\ there\\ is\\ also\\ a\\ horizontal\\ sclerotic\\ line\\ in\\ the\\ distal\\ tibia\\ \\-\\ a\\ second\\ stress\\ fracture\\.\ \(0\)\
+\-\ patient\\ was\\ conservatively\\ managed\\ with\\ a\\ walking\\ cast\\ for\\ 3\\ weeks\\ and\\ cessation\\ from\\ all\\ athletic\\ activity\\ for\\ 8\\ weeks\\.\ \(0\)\
+\-\ follow\\-up\\ radiographs\\ were\\ used\\ to\\ evaluate\\ healing\\.\ \(0\)\
+\-\ plain\\ film\\:\\ ap\\ view\\ of\\ right\\ ankle\\ demonstrates\\ a\\ subtle\\ sclerotic\\ line\\ that\\ runs\\ perpendicular\\ to\\ the\\ long\\ axis\\ of\\ the\\ distal\\ fibula\\,\\ just\\ superior\\ to\\ lateral\\ malleolous\\.\ \(0\)\
+\-\ stress\\ fracture\\ of\\ the\\ distal\\ fibula\\ and\\ tibia\ \(0\)\
+\-\ infection\\,\\ neoplasm\\,\\ stress\\ fracture\\,\\ complete\\ fracture\ \(1\)\
+\-\ 30\\ year\\ old\\ female\\ long\\ distance\\ runner\\,\\ presents\\ with\\ right\\ ankle\\ pain\\ of\\ several\\ weeks\\ duration\\.\ \(1\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ fracture\\:\\ 0\\.30668211440632204\ \(0\)\
+\-\ fibula\\:\\ 0\\.27647737736803274\ \(0\)\
+\-\ distal\\:\\ 0\\.26127503001631003\ \(0\)\
+\-\ ankle\\:\\ 0\\.23822086906210185\ \(0\)\
+\-\ stress\\:\\ 0\\.22276268451714645\ \(0\)\
+\-\ weeks\\:\\ 0\\.21560145150088797\ \(0\)\
+\-\ line\\:\\ 0\\.21024312772038722\ \(0\)\
+\-\ tibia\\:\\ 0\\.15368931327902532\ \(0\)\
+\-\ sclerotic\\:\\ 0\\.15088938490285536\ \(0\)\
+\-\ malleolous\\:\\ 0\\.14382711941777737\ \(0\)\
+\-\ posteriolateral\\:\\ 0\\.1328988489180981\ \(0\)\
+\-\ the\\:\\ 0\\.12561832756356808\ \(0\)\
+\-\ callous\\:\\ 0\\.1201135920379989\ \(0\)\
+\-\ long\\:\\ 0\\.11927355452745698\ \(0\)\
+\-\ right\\:\\ 0\\.1192699181243866\ \(0\)\
+\-\ plain\\:\\ 0\\.1186743474548348\ \(0\)\
+\-\ runs\\:\\ 0\\.11845246111604338\ \(0\)\
+\-\ several\\:\\ 0\\.11801357610501048\ \(0\)\
+\-\ runner\\:\\ 0\\.11557794997836926\ \(0\)\
+\-\ perpendicular\\:\\ 0\\.11104230791873963\ \(0\)\
+\-\ of\\:\\ 0\\.10560037191850058\ \(0\)\
+\-\ athletic\\:\\ 0\\.10532068123960742\ \(0\)\
+\-\ manual\\:\\ 0\\.10464967947869001\ \(0\)\
+\-\ cessation\\:\\ 0\\.10011403741906037\ \(0\)\
+\-\ horizontal\\:\\ 0\\.097404618487836\ \(0\)\
+\-\ distance\\:\\ 0\\.09659592011668487\ \(0\)\
+\-\ cast\\:\\ 0\\.09339632196375372\ \(0\)\
+\-\ conservatively\\:\\ 0\\.09046827542097242\ \(0\)\
+\-\ to\\:\\ 0\\.08993521600089675\ \(0\)\
+\-\ worsened\\:\\ 0\\.08968632202935671\ \(0\)\
+\-\ managed\\:\\ 0\\.08799978229987854\ \(0\)\
+\-\ lucent\\:\\ 0\\.08689680388271974\ \(0\)\
+\-\ axis\\:\\ 0\\.08689680388271974\ \(0\)\
+\-\ duration\\:\\ 0\\.08668517437425975\ \(0\)\
+\-\ tests\\:\\ 0\\.08606681427044582\ \(0\)\
+\-\ walking\\:\\ 0\\.08452743037551717\ \(0\)\
+\-\ healing\\:\\ 0\\.08398682330003984\ \(0\)\
+\-\ lab\\:\\ 0\\.08123085528966499\ \(0\)\
+\-\ subtle\\:\\ 0\\.07753525586927452\ \(0\)\
+\-\ reveal\\:\\ 0\\.0756521449399519\ \(0\)\
+\-\ site\\:\\ 0\\.07253586974056965\ \(0\)\
+\-\ just\\:\\ 0\\.07194719799261443\ \(0\)\
+\-\ formation\\:\\ 0\\.0713002903596452\ \(0\)\
+\-\ films\\:\\ 0\\.07122126181495086\ \(0\)\
+\-\ limits\\:\\ 0\\.0710643832901953\ \(0\)\
+\-\ with\\:\\ 0\\.07044231207703913\ \(0\)\
+\-\ evaluate\\:\\ 0\\.06993505855218449\ \(0\)\
+\-\ extensive\\:\\ 0\\.06929435886028244\ \(0\)\
+\-\ at\\:\\ 0\\.06793987308431239\ \(0\)\
+\-\ leg\\:\\ 0\\.06789348277991256\ \(0\)\
+\-\ second\\:\\ 0\\.06732922592002262\ \(0\)\
+\-\ used\\:\\ 0\\.06732922592002262\ \(0\)\
+\-\ film\\:\\ 0\\.06720653143578831\ \(0\)\
+\-\ activity\\:\\ 0\\.0660294057037781\ \(0\)\
+\-\ compression\\:\\ 0\\.06586017873037184\ \(0\)\
+\-\ view\\:\\ 0\\.06586017873037184\ \(0\)\
+\-\ ap\\:\\ 0\\.06456802972828787\ \(0\)\
+\-\ pain\\:\\ 0\\.06436476576538061\ \(0\)\
+\-\ later\\:\\ 0\\.06436260452042164\ \(0\)\
+\-\ complete\\:\\ 0\\.0630418750021593\ \(0\)\
+\-\ neoplasm\\:\\ 0\\.06139482729834018\ \(0\)\
+\-\ 30\\:\\ 0\\.06135261532759454\ \(0\)\
+\-\ palpation\\:\\ 0\\.06065178165303618\ \(0\)\
+\-\ swelling\\:\\ 0\\.060531275372185694\ \(0\)\
+\-\ surrounding\\:\\ 0\\.05998077989211879\ \(0\)\
+\-\ patient\\:\\ 0\\.05850328150230311\ \(0\)\
+\-\ superior\\:\\ 0\\.05847107983620416\ \(0\)\
+\-\ radiographs\\:\\ 0\\.058331246000223026\ \(0\)\
+\-\ aspect\\:\\ 0\\.05802108199758544\ \(0\)\
+\-\ tenderness\\:\\ 0\\.05640095542034337\ \(0\)\
+\-\ diffuse\\:\\ 0\\.05640095542034337\ \(0\)\
+\-\ and\\:\\ 0\\.05575247199978491\ \(0\)\
+\-\ for\\:\\ 0\\.05451777584896716\ \(0\)\
+\-\ infection\\:\\ 0\\.05432650129342025\ \(0\)\
+\-\ all\\:\\ 0\\.05353671205356644\ \(0\)\
+\-\ is\\:\\ 0\\.04925912688361632\ \(0\)\
+\-\ were\\:\\ 0\\.04635936941119564\ \(0\)\
+\-\ demonstrates\\:\\ 0\\.04518282956622542\ \(0\)\
+\-\ in\\:\\ 0\\.04474627752700129\ \(0\)\
+\-\ lateral\\:\\ 0\\.04463322329749827\ \(0\)\
+\-\ female\\:\\ 0\\.043398230793741\ \(0\)\
+\-\ presents\\:\\ 0\\.043263821099415324\ \(0\)\
+\-\ also\\:\\ 0\\.04230328051137939\ \(0\)\
+\-\ within\\:\\ 0\\.0414217126682502\ \(0\)\
+\-\ has\\:\\ 0\\.0410801089515509\ \(0\)\
+\-\ that\\:\\ 0\\.039028817691104535\ \(0\)\
+\-\ normal\\:\\ 0\\.03672023417116898\ \(0\)\
+\-\ there\\:\\ 0\\.035785224507221165\ \(0\)\
+\-\ from\\:\\ 0\\.035718735587783115\ \(0\)\
+\-\ was\\:\\ 0\\.03134355944939503\ \(0\)\
+\-\ year\\:\\ 0\\.027716480672373783\ \(0\)\
+\-\ old\\:\\ 0\\.02661741574336119\ \(0\)\

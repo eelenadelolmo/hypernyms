@@ -1,83 +1,81 @@
-Texto: 
-well nourished and well developed
-cochlear implants
-incomplete formation of the left sided cochlear turns with only the basilar turn visualized. there is an incidental finding of a subarcuate artery channel along the posterior margin of the internal ear canal.
-mondini syndrome
-mondini syndrome
-michel deformity
-genetic abnormalities
-cmv infection
-mitochondrial disorders
-girl presenting with progressive hearing loss with history of cochlear implant in the right auditory system.
-this patient is not elegible for a second cochlear implant. also, the importance of the subarcuate artery is that it may be confused with a hairline fracture.
-
-
-Keywords by value: 
-- cochlear: 0.5351922182356833
-- subarcuate: 0.3204264970249873
-- mondini: 0.2960798546884871
-- implant: 0.22303992767898648
-- elegible: 0.16021324851249366
-- michel: 0.1530923121198323
-- hairline: 0.14412099325209682
-- the: 0.1399299409814793
-- mitochondrial: 0.13586660617599344
-- turns: 0.13379805455892083
-- artery: 0.12443971352851946
-- syndrome: 0.12079200716876433
-- implants: 0.11810047635922252
-- turn: 0.11731979716518409
-- channel: 0.11585541682344984
-- cmv: 0.11207754686384465
-- confused: 0.10592715519097241
-- importance: 0.10476877563169033
-- nourished: 0.1026587543611568
-- auditory: 0.1026587543611568
-- genetic: 0.09880621879831104
-- incomplete: 0.09828192941441508
-- of: 0.0980261273492679
-- well: 0.09701749134587044
-- basilar: 0.09478116722269914
-- ear: 0.0911609930217537
-- hearing: 0.0909896512716688
-- disorders: 0.08845373865144034
-- margin: 0.08787311089201419
-- is: 0.08230678020453157
-- deformity: 0.08188245249918386
-- formation: 0.07942348553349983
-- presenting: 0.07847858142346027
-- with: 0.07846775834960061
-- visualized: 0.07822946533058084
-- canal: 0.07711148130606943
-- progressive: 0.07672884329305027
-- system: 0.0764286241861877
-- second: 0.07500000033474293
-- developed: 0.07432702949242385
-- incidental: 0.07426112926470416
-- abnormalities: 0.07256932475263227
-- girl: 0.07027654130140404
-- internal: 0.06751693997704353
-- along: 0.06711828096641734
-- finding: 0.06585121313136098
-- sided: 0.06444233769386203
-- only: 0.06258819493827239
-- loss: 0.06103470633762291
-- infection: 0.060515883845624965
-- fracture: 0.05693703432358846
-- posterior: 0.05180511237284704
-- it: 0.0512819002709683
-- may: 0.05041487377002228
-- also: 0.04712286542968638
-- that: 0.04347534521449132
-- be: 0.040639939089451946
-- there: 0.039862211593053413
-- not: 0.03954957440387223
-- an: 0.03830936114191899
-- history: 0.03827542414569584
-- this: 0.03442442975174059
-- left: 0.03417435493461601
-- right: 0.03321456535784108
-- patient: 0.032584260937949146
-- for: 0.0303644750927251
-- in: 0.02492209574405329
-- and: 0.020701438152150815
+\-\ Texto\\:\\ \ \(0\)\
+\-\ well\\ nourished\\ and\\ well\\ developed\ \(0\)\
+\-\ cochlear\\ implants\ \(0\)\
+\-\ incomplete\\ formation\\ of\\ the\\ left\\ sided\\ cochlear\\ turns\\ with\\ only\\ the\\ basilar\\ turn\\ visualized\\.\\ there\\ is\\ an\\ incidental\\ finding\\ of\\ a\\ subarcuate\\ artery\\ channel\\ along\\ the\\ posterior\\ margin\\ of\\ the\\ internal\\ ear\\ canal\\.\ \(0\)\
+\-\ mondini\\ syndrome\ \(0\)\
+\-\ mondini\\ syndrome\ \(0\)\
+\-\ michel\\ deformity\ \(0\)\
+\-\ genetic\\ abnormalities\ \(0\)\
+\-\ cmv\\ infection\ \(0\)\
+\-\ mitochondrial\\ disorders\ \(3\)\
+\-\ girl\\ presenting\\ with\\ progressive\\ hearing\\ loss\\ with\\ history\\ of\\ cochlear\\ implant\\ in\\ the\\ right\\ auditory\\ system\\.\ \(0\)\
+\-\ this\\ patient\\ is\\ not\\ elegible\\ for\\ a\\ second\\ cochlear\\ implant\\.\\ also\\,\\ the\\ importance\\ of\\ the\\ subarcuate\\ artery\\ is\\ that\\ it\\ may\\ be\\ confused\\ with\\ a\\ hairline\\ fracture\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ cochlear\\:\\ 0\\.5351922182356833\ \(0\)\
+\-\ subarcuate\\:\\ 0\\.3204264970249873\ \(0\)\
+\-\ mondini\\:\\ 0\\.2960798546884871\ \(0\)\
+\-\ implant\\:\\ 0\\.22303992767898648\ \(0\)\
+\-\ elegible\\:\\ 0\\.16021324851249366\ \(0\)\
+\-\ michel\\:\\ 0\\.1530923121198323\ \(0\)\
+\-\ hairline\\:\\ 0\\.14412099325209682\ \(0\)\
+\-\ the\\:\\ 0\\.1399299409814793\ \(0\)\
+\-\ mitochondrial\\:\\ 0\\.13586660617599344\ \(0\)\
+\-\ turns\\:\\ 0\\.13379805455892083\ \(0\)\
+\-\ artery\\:\\ 0\\.12443971352851946\ \(0\)\
+\-\ syndrome\\:\\ 0\\.12079200716876433\ \(0\)\
+\-\ implants\\:\\ 0\\.11810047635922252\ \(0\)\
+\-\ turn\\:\\ 0\\.11731979716518409\ \(0\)\
+\-\ channel\\:\\ 0\\.11585541682344984\ \(0\)\
+\-\ cmv\\:\\ 0\\.11207754686384465\ \(0\)\
+\-\ confused\\:\\ 0\\.10592715519097241\ \(0\)\
+\-\ importance\\:\\ 0\\.10476877563169033\ \(0\)\
+\-\ nourished\\:\\ 0\\.1026587543611568\ \(0\)\
+\-\ auditory\\:\\ 0\\.1026587543611568\ \(0\)\
+\-\ genetic\\:\\ 0\\.09880621879831104\ \(0\)\
+\-\ incomplete\\:\\ 0\\.09828192941441508\ \(0\)\
+\-\ of\\:\\ 0\\.0980261273492679\ \(0\)\
+\-\ well\\:\\ 0\\.09701749134587044\ \(0\)\
+\-\ basilar\\:\\ 0\\.09478116722269914\ \(0\)\
+\-\ ear\\:\\ 0\\.0911609930217537\ \(0\)\
+\-\ hearing\\:\\ 0\\.0909896512716688\ \(0\)\
+\-\ disorders\\:\\ 0\\.08845373865144034\ \(0\)\
+\-\ margin\\:\\ 0\\.08787311089201419\ \(0\)\
+\-\ is\\:\\ 0\\.08230678020453157\ \(0\)\
+\-\ deformity\\:\\ 0\\.08188245249918386\ \(0\)\
+\-\ formation\\:\\ 0\\.07942348553349983\ \(0\)\
+\-\ presenting\\:\\ 0\\.07847858142346027\ \(0\)\
+\-\ with\\:\\ 0\\.07846775834960061\ \(0\)\
+\-\ visualized\\:\\ 0\\.07822946533058084\ \(0\)\
+\-\ canal\\:\\ 0\\.07711148130606943\ \(0\)\
+\-\ progressive\\:\\ 0\\.07672884329305027\ \(0\)\
+\-\ system\\:\\ 0\\.0764286241861877\ \(0\)\
+\-\ second\\:\\ 0\\.07500000033474293\ \(0\)\
+\-\ developed\\:\\ 0\\.07432702949242385\ \(0\)\
+\-\ incidental\\:\\ 0\\.07426112926470416\ \(0\)\
+\-\ abnormalities\\:\\ 0\\.07256932475263227\ \(0\)\
+\-\ girl\\:\\ 0\\.07027654130140404\ \(0\)\
+\-\ internal\\:\\ 0\\.06751693997704353\ \(0\)\
+\-\ along\\:\\ 0\\.06711828096641734\ \(0\)\
+\-\ finding\\:\\ 0\\.06585121313136098\ \(0\)\
+\-\ sided\\:\\ 0\\.06444233769386203\ \(0\)\
+\-\ only\\:\\ 0\\.06258819493827239\ \(0\)\
+\-\ loss\\:\\ 0\\.06103470633762291\ \(0\)\
+\-\ infection\\:\\ 0\\.060515883845624965\ \(0\)\
+\-\ fracture\\:\\ 0\\.05693703432358846\ \(0\)\
+\-\ posterior\\:\\ 0\\.05180511237284704\ \(0\)\
+\-\ it\\:\\ 0\\.0512819002709683\ \(0\)\
+\-\ may\\:\\ 0\\.05041487377002228\ \(0\)\
+\-\ also\\:\\ 0\\.04712286542968638\ \(0\)\
+\-\ that\\:\\ 0\\.04347534521449132\ \(0\)\
+\-\ be\\:\\ 0\\.040639939089451946\ \(0\)\
+\-\ there\\:\\ 0\\.039862211593053413\ \(0\)\
+\-\ not\\:\\ 0\\.03954957440387223\ \(0\)\
+\-\ an\\:\\ 0\\.03830936114191899\ \(0\)\
+\-\ history\\:\\ 0\\.03827542414569584\ \(0\)\
+\-\ this\\:\\ 0\\.03442442975174059\ \(0\)\
+\-\ left\\:\\ 0\\.03417435493461601\ \(0\)\
+\-\ right\\:\\ 0\\.03321456535784108\ \(0\)\
+\-\ patient\\:\\ 0\\.032584260937949146\ \(0\)\
+\-\ for\\:\\ 0\\.0303644750927251\ \(0\)\
+\-\ in\\:\\ 0\\.02492209574405329\ \(0\)\
+\-\ and\\:\\ 0\\.020701438152150815\ \(0\)\

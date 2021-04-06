@@ -1,327 +1,306 @@
-Texto: 
-vs:hr76,  bp 117/67, rr18, o2sats: 98% on room air.  bmi 24.3
-
-general: well nourished, well developed cacausian healthy appearing female in nad. 
-
-heent: atraumatic normocephalic, pupils anicteric equally round reactive to light and accomadation. external auditory canals clear bilaterally, tms clear and mobile. pink moist mucous membranes. 
-
-firm mobile mass in left lateral neck, measuring ~3 cm by palpation without bruit, freely moves horizontally, vertical movement restricted, no palpable lad, thyroid normal. 
-
-heart: regular rate, normal s1 and s2, no mrg
-
-pulm: ctab
-
-abd: soft, nt/nd, no hsm
-
-ext: 2+ pulses, normal reflexes.
-pt then underwent pre&#8208; operative tumor embolization with particle and coil embolization via the left ascending pharyngeal artery.
-
-thereafter, pt underwent a successful transcervical surgical resection of the vagal paraganglioma.
-
-pt had uneventful post-op course and was discharged home on post-op day 3. 
-
-pt has mild residual voice hoarseness due to vagal nerve encased within resected mass. otherwise, pt is without complications from surgery. 
-
-pt is undergoing vocal therapy to maximize vocal cord recovery.
-angiogram: pre&#8208;surgical digital subtraction angiogram (dsa) reveals tumor splaying the internal and external carotids at the bifurcation. the tumor demonstrates a vascular ‚Äúblush‚Äù.
-
-ct: (axial t2 weighted image with fat&#8208;saturation) well defined enhancing mass at the level of the left carotid bifurcation. splays the ica and eca with partial encasement.
-vagal paraganglioma
-congenital: branchial cleft cyst
-inflammatory: reactive lymphadenopathy, abscess
-neoplastic: lymphoma, salivary gland tumors, neurogenic tumors, paraganglioma
-vascular: aneurysms of the carotid artery, hematoma, pseudoaneurysm
-29year old woman w/ ~15 year history of a small lateral painless neck mass.  she presents now with 1 month persistent hoarse voice following laryngitis.  about 1month ago, pt had laryngitis w/ dyphonia that failed to resolve following resolution of other uri symptoms. pt is an avid amateur singer and is concerned that her ‚Äòbreathy hoarse‚Äô voice has not resolved.  pt reports history of painless left lateral neck mass since a teenager; was told by pcm it was a ‚Äòlymph node‚Äô. pt denies mass changing in size or any other issues/complaints.  
-
-ros: denies fever, chills, decreased neck rom. denies neck pain, tenderness, dysphagia, odynophagia, or feeling of neck fullness.
-
-pmh: asthma, gerd, nephrolithiasis during  pregnancy, snoring d/t deviated septum.
-
-psh: lithotripsy, septoturbinoplasty. no complications. 
-
-meds: albuterol prn, flovent prn, omeprazole
-
-allergies: ndka
-
-sh: full-time homemaker. married for 6 years. denies alcohol, smoking, or illicit drug use.
-
-fh: mother and maternal grandmother had migraines and breast cancer. father had occupational hearing loss and dm2.
-
-
-Keywords by value: 
-- pt: 0.3221338006358687
-- 8208: 0.21475032364747793
-- vagal: 0.17686305937631433
-- voice: 0.16437170905927562
-- neck: 0.16429122871371965
-- paraganglioma: 0.14606401400167476
-- denies: 0.1444057890787762
-- laryngitis: 0.14316688243165196
-- hoarse: 0.1322887780509041
-- prn: 0.11504739052848821
-- vocal: 0.10783558791930979
-- mass: 0.10258627176534796
-- and: 0.10174365817351146
-- bifurcation: 0.09654982978137994
-- had: 0.08920737264907452
-- mobile: 0.08829343666364002
-- painless: 0.08291133470287958
-- angiogram: 0.08041997125933494
-- the: 0.0803839357661802
-- embolization: 0.07802134530555803
-- reactive: 0.07683185291605805
-- carotid: 0.07540914254768456
-- pre: 0.07317032492011306
-- external: 0.07237441304709907
-- hr76: 0.07158344121582598
-- rr18: 0.07158344121582598
-- cacausian: 0.07158344121582598
-- accomadation: 0.07158344121582598
-- transcervical: 0.07158344121582598
-- 29year: 0.07158344121582598
-- 1month: 0.07158344121582598
-- dyphonia: 0.07158344121582598
-- amateur: 0.07158344121582598
-- singer: 0.07158344121582598
-- breathy: 0.07158344121582598
-- septoturbinoplasty: 0.07158344121582598
-- ndka: 0.07158344121582598
-- tumor: 0.07023864163641508
-- complications: 0.06856504932546915
-- o2sats: 0.06840179964499196
-- flovent: 0.06840179964499196
-- homemaker: 0.06840179964499196
-- lateral: 0.0666425023831992
-- particle: 0.06614438902545206
-- snoring: 0.06614438902545206
-- omeprazole: 0.06614438902545206
-- married: 0.06614438902545206
-- tumors: 0.06583961139772006
-- well: 0.06502126964976732
-- clear: 0.0649015663751456
-- tms: 0.06439340531581204
-- mrg: 0.06439340531581204
-- splays: 0.06439340531581204
-- horizontally: 0.06296274745461804
-- encased: 0.06296274745461804
-- dsa: 0.06296274745461804
-- teenager: 0.06296274745461804
-- maximize: 0.06175314346822547
-- dm2: 0.06175314346822547
-- underwent: 0.06166972244454871
-- of: 0.0613174417585314
-- left: 0.0610765451737305
-- eca: 0.06070533683507812
-- grandmother: 0.06070533683507812
-- migraines: 0.05978110588378402
-- vascular: 0.05910175708079703
-- lithotripsy: 0.05895435312543811
-- no: 0.0582237691484269
-- pcm: 0.05820646428340189
-- sh: 0.05820646428340189
-- fh: 0.05820646428340189
-- subtraction: 0.057523695264244105
-- anicteric: 0.05689560865189792
-- hsm: 0.05689560865189792
-- freely: 0.05631409127785154
-- carotids: 0.05577271155460409
-- blush: 0.05577271155460409
-- encasement: 0.05577271155460409
-- albuterol: 0.05577271155460409
-- artery: 0.055599789661517
-- splaying: 0.05526628464470419
-- changing: 0.05526628464470419
-- normal: 0.05482750544258643
-- thereafter: 0.054790569686425206
-- uri: 0.054790569686425206
-- odynophagia: 0.054790569686425206
-- deviated: 0.054790569686425206
-- following: 0.05370533379227982
-- bruit: 0.05313244970701752
-- lad: 0.05313244970701752
-- salivary: 0.05276741209302796
-- told: 0.05276741209302796
-- hoarseness: 0.05241860384081584
-- concerned: 0.05241860384081584
-- ros: 0.05241860384081584
-- psh: 0.05241860384081584
-- occupational: 0.05241860384081584
-- bmi: 0.052084643073870174
-- equally: 0.052084643073870174
-- canals: 0.052084643073870174
-- moves: 0.05176431722542416
-- branchial: 0.05176431722542416
-- illicit: 0.051456556461523986
-- pink: 0.05116041212257608
-- pulm: 0.05116041212257608
-- uneventful: 0.050875039087477605
-- atraumatic: 0.050599681233856365
-- avid: 0.050599681233856365
-- pharyngeal: 0.050333659364230156
-- digital: 0.050333659364230156
-- moist: 0.04958577052219394
-- coil: 0.04958577052219394
-- ctab: 0.049124055377837594
-- is: 0.049033003343045785
-- meds: 0.04890300150303616
-- maternal: 0.04890300150303616
-- normocephalic: 0.04868800466722493
-- neurogenic: 0.04868800466722493
-- pseudoaneurysm: 0.04807624874469025
-- gerd: 0.04807624874469025
-- ext: 0.047882488440439686
-- aneurysms: 0.047882488440439686
-- father: 0.04769339751664359
-- feeling: 0.04750875620658861
-- resolve: 0.04732835990265403
-- without: 0.04722005502162318
-- membranes: 0.04697955165044191
-- vertical: 0.04697955165044191
-- nephrolithiasis: 0.04697955165044191
-- ica: 0.04681079474585604
-- allergies: 0.04681079474585604
-- was: 0.04679951571907499
-- or: 0.04671522435079824
-- other: 0.046490768921852624
-- saturation: 0.04648379353025102
-- mucous: 0.046169875925217256
-- nourished: 0.0458680351115203
-- auditory: 0.0458680351115203
-- fullness: 0.04557737619301402
-- failed: 0.045160629043482434
-- to: 0.04476118463537183
-- asthma: 0.044637308922273806
-- nad: 0.04451175594580957
-- pupils: 0.04438818026395633
-- recovery: 0.044028717707836944
-- ascending: 0.0435736978656122
-- surgical: 0.04351113356275148
-- successful: 0.04346394931266223
-- 98: 0.0433557145811932
-- s2: 0.04303968957890704
-- pulses: 0.042443436250065754
-- rom: 0.04234832122341225
-- septum: 0.042069704016214675
-- abd: 0.04162625871392347
-- smoking: 0.04145566735143979
-- neoplastic: 0.04137174255548211
-- alcohol: 0.04137174255548211
-- movement: 0.04120653869312232
-- resected: 0.04096507676098599
-- has: 0.04089153111286742
-- residual: 0.040730823734843324
-- chills: 0.040730823734843324
-- drug: 0.040730823734843324
-- undergoing: 0.04065426806788759
-- hearing: 0.04065426806788759
-- firm: 0.04057845208077612
-- pmh: 0.040503361616629645
-- cleft: 0.04042898292114637
-- dysphagia: 0.04042898292114637
-- resolved: 0.04020998562966747
-- heent: 0.03999693470672974
-- home: 0.039587438653006485
-- reflexes: 0.03913522913503629
-- s1: 0.039072703755435645
-- that: 0.03884965628490572
-- light: 0.03876733862386126
-- regular: 0.038648444021680446
-- restricted: 0.03847341311530341
-- node: 0.03847341311530341
-- discharged: 0.03841592645802903
-- mother: 0.03824595099708973
-- by: 0.03801668876146857
-- healthy: 0.037970593143468484
-- operative: 0.037549182164009307
-- round: 0.036676406437239
-- room: 0.03663065182584074
-- pregnancy: 0.03663065182584074
-- via: 0.03658516246005653
-- gland: 0.036361589113850505
-- bp: 0.03631762881051578
-- resolution: 0.03631762881051578
-- lymphadenopathy: 0.03618720652354954
-- general: 0.03593269036510818
-- appearing: 0.03576748650274838
-- thyroid: 0.03517721631839994
-- with: 0.03505947366592627
-- reports: 0.03480701117467329
-- lymph: 0.03480701117467329
-- measuring: 0.034628258715643054
-- partial: 0.034488131891559456
-- persistent: 0.034488131891559456
-- use: 0.03424877453060973
-- history: 0.03420299631625738
-- vs: 0.03414838646263255
-- reveals: 0.03404926648839954
-- rate: 0.033919024600160184
-- at: 0.033813997880433315
-- about: 0.03351007588320847
-- in: 0.03340565263297509
-- weighted: 0.03338841618076218
-- developed: 0.033209391831306515
-- cord: 0.033179947543016494
-- course: 0.03306326295989557
-- ago: 0.032751048794274165
-- breast: 0.03250452924441703
-- since: 0.03242404757866914
-- congenital: 0.032161585198159176
-- nerve: 0.03193264823854989
-- defined: 0.03193264823854989
-- otherwise: 0.03190761825361985
-- then: 0.03168587023988019
-- palpable: 0.031446617144809036
-- hematoma: 0.031329671707221986
-- heart: 0.031123464096324445
-- now: 0.03072662649080533
-- fever: 0.030348895585042928
-- size: 0.030308026255039564
-- inflammatory: 0.03026736868417271
-- palpation: 0.030186680121041125
-- internal: 0.030166636959129224
-- bilaterally: 0.029852719354095468
-- cancer: 0.029814348159677876
-- air: 0.02927807376752932
-- any: 0.028928488402801364
-- abscess: 0.02874265446509424
-- resection: 0.028692727083790583
-- image: 0.02862664758910441
-- day: 0.028512330779856
-- during: 0.028351857014978967
-- tenderness: 0.028071023692834537
-- enhancing: 0.02804043147622171
-- her: 0.027964468698848586
-- fat: 0.027844437392873022
-- decreased: 0.027726214537093338
-- years: 0.027438222815629104
-- loss: 0.027270368423393677
-- month: 0.02722895991768514
-- level: 0.027038558010071417
-- on: 0.027037504585771012
-- lymphoma: 0.02665826652552232
-- she: 0.026645476150038146
-- axial: 0.025855873067650536
-- cyst: 0.02582127979947578
-- t2: 0.025752547445092887
-- due: 0.025729769798846083
-- therapy: 0.025718405722099276
-- cm: 0.02570705807930867
-- mild: 0.02537404232273595
-- symptoms: 0.024490977085844114
-- surgery: 0.0240656951553022
-- soft: 0.02383008942636486
-- woman: 0.023311954477341943
-- small: 0.023089507951259507
-- it: 0.022912804824605035
-- demonstrates: 0.02248770911432722
-- female: 0.021599505819697485
-- presents: 0.021532609475728784
-- within: 0.020615783350521777
-- from: 0.01777738454056578
-- not: 0.017670789780095814
-- an: 0.01711666124231016
-- ct: 0.017041137140318675
-- pain: 0.016017324984286097
-- year: 0.013794624219354373
-- for: 0.013566878132927937
-- old: 0.013247614378256044
+\-\ Texto\\:\\ \ \(0\)\
+\-\ vs\\:hr76\\,\\ \\ bp\\ 117\\/67\\,\\ rr18\\,\\ o2sats\\:\\ 98\\%\\ on\\ room\\ air\\.\\ \\ bmi\\ 24\\.3\ \(0\)\
+\-\ general\\:\\ well\\ nourished\\,\\ well\\ developed\\ cacausian\\ healthy\\ appearing\\ female\\ in\\ nad\\.\\ \ \(0\)\
+\-\ heent\\:\\ atraumatic\\ normocephalic\\,\\ pupils\\ anicteric\\ equally\\ round\\ reactive\\ to\\ light\\ and\\ accomadation\\.\\ external\\ auditory\\ canals\\ clear\\ bilaterally\\,\\ tms\\ clear\\ and\\ mobile\\.\\ pink\\ moist\\ mucous\\ membranes\\.\\ \ \(0\)\
+\-\ firm\\ mobile\\ mass\\ in\\ left\\ lateral\\ neck\\,\\ measuring\\ \\~3\\ cm\\ by\\ palpation\\ without\\ bruit\\,\\ freely\\ moves\\ horizontally\\,\\ vertical\\ movement\\ restricted\\,\\ no\\ palpable\\ lad\\,\\ thyroid\\ normal\\.\\ \ \(0\)\
+\-\ heart\\:\\ regular\\ rate\\,\\ normal\\ s1\\ and\\ s2\\,\\ no\\ mrg\ \(0\)\
+\-\ pulm\\:\\ ctab\ \(0\)\
+\-\ abd\\:\\ soft\\,\\ nt\\/nd\\,\\ no\\ hsm\ \(0\)\
+\-\ ext\\:\\ 2\\+\\ pulses\\,\\ normal\\ reflexes\\.\ \(0\)\
+\-\ pt\\ then\\ underwent\\ pre\\&\\#8208\\;\\ operative\\ tumor\\ embolization\\ with\\ particle\\ and\\ coil\\ embolization\\ via\\ the\\ left\\ ascending\\ pharyngeal\\ artery\\.\ \(0\)\
+\-\ thereafter\\,\\ pt\\ underwent\\ a\\ successful\\ transcervical\\ surgical\\ resection\\ of\\ the\\ vagal\\ paraganglioma\\.\ \(0\)\
+\-\ pt\\ had\\ uneventful\\ post\\-op\\ course\\ and\\ was\\ discharged\\ home\\ on\\ post\\-op\\ day\\ 3\\.\\ \ \(0\)\
+\-\ pt\\ has\\ mild\\ residual\\ voice\\ hoarseness\\ due\\ to\\ vagal\\ nerve\\ encased\\ within\\ resected\\ mass\\.\\ otherwise\\,\\ pt\\ is\\ without\\ complications\\ from\\ surgery\\.\\ \ \(0\)\
+\-\ pt\\ is\\ undergoing\\ vocal\\ therapy\\ to\\ maximize\\ vocal\\ cord\\ recovery\\.\ \(0\)\
+\-\ angiogram\\:\\ pre\\&\\#8208\\;surgical\\ digital\\ subtraction\\ angiogram\\ \\(dsa\\)\\ reveals\\ tumor\\ splaying\\ the\\ internal\\ and\\ external\\ carotids\\ at\\ the\\ bifurcation\\.\\ the\\ tumor\\ demonstrates\\ a\\ vascular\\ \\‚\\Ä\\úblush\\‚\\Ä\\ù\\.\ \(0\)\
+\-\ ct\\:\\ \\(axial\\ t2\\ weighted\\ image\\ with\\ fat\\&\\#8208\\;saturation\\)\\ well\\ defined\\ enhancing\\ mass\\ at\\ the\\ level\\ of\\ the\\ left\\ carotid\\ bifurcation\\.\\ splays\\ the\\ ica\\ and\\ eca\\ with\\ partial\\ encasement\\.\ \(0\)\
+\-\ vagal\\ paraganglioma\ \(2\)\
+\-\ congenital\\:\\ branchial\\ cleft\\ cyst\ \(0\)\
+\-\ inflammatory\\:\\ reactive\\ lymphadenopathy\\,\\ abscess\ \(0\)\
+\-\ neoplastic\\:\\ lymphoma\\,\\ salivary\\ gland\\ tumors\\,\\ neurogenic\\ tumors\\,\\ paraganglioma\ \(0\)\
+\-\ vascular\\:\\ aneurysms\\ of\\ the\\ carotid\\ artery\\,\\ hematoma\\,\\ pseudoaneurysm\ \(0\)\
+\-\ 29year\\ old\\ woman\\ w\\/\\ \\~15\\ year\\ history\\ of\\ a\\ small\\ lateral\\ painless\\ neck\\ mass\\.\\ \\ she\\ presents\\ now\\ with\\ 1\\ month\\ persistent\\ hoarse\\ voice\\ following\\ laryngitis\\.\\ \\ about\\ 1month\\ ago\\,\\ pt\\ had\\ laryngitis\\ w\\/\\ dyphonia\\ that\\ failed\\ to\\ resolve\\ following\\ resolution\\ of\\ other\\ uri\\ symptoms\\.\\ pt\\ is\\ an\\ avid\\ amateur\\ singer\\ and\\ is\\ concerned\\ that\\ her\\ \\‚\\Ä\\òbreathy\\ hoarse\\‚\\Ä\\ô\\ voice\\ has\\ not\\ resolved\\.\\ \\ pt\\ reports\\ history\\ of\\ painless\\ left\\ lateral\\ neck\\ mass\\ since\\ a\\ teenager\\;\\ was\\ told\\ by\\ pcm\\ it\\ was\\ a\\ \\‚\\Ä\\òlymph\\ node\\‚\\Ä\\ô\\.\\ pt\\ denies\\ mass\\ changing\\ in\\ size\\ or\\ any\\ other\\ issues\\/complaints\\.\\ \\ \ \(0\)\
+\-\ ros\\:\\ denies\\ fever\\,\\ chills\\,\\ decreased\\ neck\\ rom\\.\\ denies\\ neck\\ pain\\,\\ tenderness\\,\\ dysphagia\\,\\ odynophagia\\,\\ or\\ feeling\\ of\\ neck\\ fullness\\.\ \(0\)\
+\-\ pmh\\:\\ asthma\\,\\ gerd\\,\\ nephrolithiasis\\ during\\ \\ pregnancy\\,\\ snoring\\ d\\/t\\ deviated\\ septum\\.\ \(0\)\
+\-\ psh\\:\\ lithotripsy\\,\\ septoturbinoplasty\\.\\ no\\ complications\\.\\ \ \(0\)\
+\-\ meds\\:\\ albuterol\\ prn\\,\\ flovent\\ prn\\,\\ omeprazole\ \(0\)\
+\-\ allergies\\:\\ ndka\ \(0\)\
+\-\ sh\\:\\ full\\-time\\ homemaker\\.\\ married\\ for\\ 6\\ years\\.\\ denies\\ alcohol\\,\\ smoking\\,\\ or\\ illicit\\ drug\\ use\\.\ \(0\)\
+\-\ fh\\:\\ mother\\ and\\ maternal\\ grandmother\\ had\\ migraines\\ and\\ breast\\ cancer\\.\\ father\\ had\\ occupational\\ hearing\\ loss\\ and\\ dm2\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ pt\\:\\ 0\\.3221338006358687\ \(0\)\
+\-\ 8208\\:\\ 0\\.21475032364747793\ \(0\)\
+\-\ vagal\\:\\ 0\\.17686305937631433\ \(0\)\
+\-\ voice\\:\\ 0\\.16437170905927562\ \(0\)\
+\-\ neck\\:\\ 0\\.16429122871371965\ \(0\)\
+\-\ paraganglioma\\:\\ 0\\.14606401400167476\ \(0\)\
+\-\ denies\\:\\ 0\\.1444057890787762\ \(0\)\
+\-\ laryngitis\\:\\ 0\\.14316688243165196\ \(0\)\
+\-\ hoarse\\:\\ 0\\.1322887780509041\ \(0\)\
+\-\ prn\\:\\ 0\\.11504739052848821\ \(0\)\
+\-\ vocal\\:\\ 0\\.10783558791930979\ \(0\)\
+\-\ mass\\:\\ 0\\.10258627176534796\ \(0\)\
+\-\ and\\:\\ 0\\.10174365817351146\ \(0\)\
+\-\ bifurcation\\:\\ 0\\.09654982978137994\ \(0\)\
+\-\ had\\:\\ 0\\.08920737264907452\ \(0\)\
+\-\ mobile\\:\\ 0\\.08829343666364002\ \(0\)\
+\-\ painless\\:\\ 0\\.08291133470287958\ \(0\)\
+\-\ angiogram\\:\\ 0\\.08041997125933494\ \(0\)\
+\-\ the\\:\\ 0\\.0803839357661802\ \(0\)\
+\-\ embolization\\:\\ 0\\.07802134530555803\ \(0\)\
+\-\ reactive\\:\\ 0\\.07683185291605805\ \(0\)\
+\-\ carotid\\:\\ 0\\.07540914254768456\ \(0\)\
+\-\ pre\\:\\ 0\\.07317032492011306\ \(0\)\
+\-\ external\\:\\ 0\\.07237441304709907\ \(0\)\
+\-\ hr76\\:\\ 0\\.07158344121582598\ \(0\)\
+\-\ rr18\\:\\ 0\\.07158344121582598\ \(0\)\
+\-\ cacausian\\:\\ 0\\.07158344121582598\ \(0\)\
+\-\ accomadation\\:\\ 0\\.07158344121582598\ \(0\)\
+\-\ transcervical\\:\\ 0\\.07158344121582598\ \(0\)\
+\-\ 29year\\:\\ 0\\.07158344121582598\ \(0\)\
+\-\ 1month\\:\\ 0\\.07158344121582598\ \(0\)\
+\-\ dyphonia\\:\\ 0\\.07158344121582598\ \(0\)\
+\-\ amateur\\:\\ 0\\.07158344121582598\ \(0\)\
+\-\ singer\\:\\ 0\\.07158344121582598\ \(0\)\
+\-\ breathy\\:\\ 0\\.07158344121582598\ \(0\)\
+\-\ septoturbinoplasty\\:\\ 0\\.07158344121582598\ \(0\)\
+\-\ ndka\\:\\ 0\\.07158344121582598\ \(0\)\
+\-\ tumor\\:\\ 0\\.07023864163641508\ \(0\)\
+\-\ complications\\:\\ 0\\.06856504932546915\ \(0\)\
+\-\ o2sats\\:\\ 0\\.06840179964499196\ \(0\)\
+\-\ flovent\\:\\ 0\\.06840179964499196\ \(0\)\
+\-\ homemaker\\:\\ 0\\.06840179964499196\ \(0\)\
+\-\ lateral\\:\\ 0\\.0666425023831992\ \(0\)\
+\-\ particle\\:\\ 0\\.06614438902545206\ \(0\)\
+\-\ snoring\\:\\ 0\\.06614438902545206\ \(0\)\
+\-\ omeprazole\\:\\ 0\\.06614438902545206\ \(0\)\
+\-\ married\\:\\ 0\\.06614438902545206\ \(0\)\
+\-\ tumors\\:\\ 0\\.06583961139772006\ \(0\)\
+\-\ well\\:\\ 0\\.06502126964976732\ \(0\)\
+\-\ clear\\:\\ 0\\.0649015663751456\ \(0\)\
+\-\ tms\\:\\ 0\\.06439340531581204\ \(0\)\
+\-\ mrg\\:\\ 0\\.06439340531581204\ \(0\)\
+\-\ splays\\:\\ 0\\.06439340531581204\ \(0\)\
+\-\ horizontally\\:\\ 0\\.06296274745461804\ \(0\)\
+\-\ encased\\:\\ 0\\.06296274745461804\ \(0\)\
+\-\ dsa\\:\\ 0\\.06296274745461804\ \(0\)\
+\-\ teenager\\:\\ 0\\.06296274745461804\ \(0\)\
+\-\ maximize\\:\\ 0\\.06175314346822547\ \(0\)\
+\-\ dm2\\:\\ 0\\.06175314346822547\ \(0\)\
+\-\ underwent\\:\\ 0\\.06166972244454871\ \(0\)\
+\-\ of\\:\\ 0\\.0613174417585314\ \(0\)\
+\-\ left\\:\\ 0\\.0610765451737305\ \(0\)\
+\-\ eca\\:\\ 0\\.06070533683507812\ \(0\)\
+\-\ grandmother\\:\\ 0\\.06070533683507812\ \(0\)\
+\-\ migraines\\:\\ 0\\.05978110588378402\ \(0\)\
+\-\ vascular\\:\\ 0\\.05910175708079703\ \(0\)\
+\-\ lithotripsy\\:\\ 0\\.05895435312543811\ \(0\)\
+\-\ no\\:\\ 0\\.0582237691484269\ \(0\)\
+\-\ pcm\\:\\ 0\\.05820646428340189\ \(0\)\
+\-\ sh\\:\\ 0\\.05820646428340189\ \(0\)\
+\-\ fh\\:\\ 0\\.05820646428340189\ \(0\)\
+\-\ subtraction\\:\\ 0\\.057523695264244105\ \(0\)\
+\-\ anicteric\\:\\ 0\\.05689560865189792\ \(0\)\
+\-\ hsm\\:\\ 0\\.05689560865189792\ \(0\)\
+\-\ freely\\:\\ 0\\.05631409127785154\ \(0\)\
+\-\ carotids\\:\\ 0\\.05577271155460409\ \(0\)\
+\-\ blush\\:\\ 0\\.05577271155460409\ \(0\)\
+\-\ encasement\\:\\ 0\\.05577271155460409\ \(0\)\
+\-\ albuterol\\:\\ 0\\.05577271155460409\ \(0\)\
+\-\ artery\\:\\ 0\\.055599789661517\ \(0\)\
+\-\ splaying\\:\\ 0\\.05526628464470419\ \(0\)\
+\-\ changing\\:\\ 0\\.05526628464470419\ \(0\)\
+\-\ normal\\:\\ 0\\.05482750544258643\ \(0\)\
+\-\ thereafter\\:\\ 0\\.054790569686425206\ \(0\)\
+\-\ uri\\:\\ 0\\.054790569686425206\ \(0\)\
+\-\ odynophagia\\:\\ 0\\.054790569686425206\ \(0\)\
+\-\ deviated\\:\\ 0\\.054790569686425206\ \(0\)\
+\-\ following\\:\\ 0\\.05370533379227982\ \(0\)\
+\-\ bruit\\:\\ 0\\.05313244970701752\ \(0\)\
+\-\ lad\\:\\ 0\\.05313244970701752\ \(0\)\
+\-\ salivary\\:\\ 0\\.05276741209302796\ \(0\)\
+\-\ told\\:\\ 0\\.05276741209302796\ \(0\)\
+\-\ hoarseness\\:\\ 0\\.05241860384081584\ \(0\)\
+\-\ concerned\\:\\ 0\\.05241860384081584\ \(0\)\
+\-\ ros\\:\\ 0\\.05241860384081584\ \(0\)\
+\-\ psh\\:\\ 0\\.05241860384081584\ \(0\)\
+\-\ occupational\\:\\ 0\\.05241860384081584\ \(0\)\
+\-\ bmi\\:\\ 0\\.052084643073870174\ \(0\)\
+\-\ equally\\:\\ 0\\.052084643073870174\ \(0\)\
+\-\ canals\\:\\ 0\\.052084643073870174\ \(0\)\
+\-\ moves\\:\\ 0\\.05176431722542416\ \(0\)\
+\-\ branchial\\:\\ 0\\.05176431722542416\ \(0\)\
+\-\ illicit\\:\\ 0\\.051456556461523986\ \(0\)\
+\-\ pink\\:\\ 0\\.05116041212257608\ \(0\)\
+\-\ pulm\\:\\ 0\\.05116041212257608\ \(0\)\
+\-\ uneventful\\:\\ 0\\.050875039087477605\ \(0\)\
+\-\ atraumatic\\:\\ 0\\.050599681233856365\ \(0\)\
+\-\ avid\\:\\ 0\\.050599681233856365\ \(0\)\
+\-\ pharyngeal\\:\\ 0\\.050333659364230156\ \(0\)\
+\-\ digital\\:\\ 0\\.050333659364230156\ \(0\)\
+\-\ moist\\:\\ 0\\.04958577052219394\ \(0\)\
+\-\ coil\\:\\ 0\\.04958577052219394\ \(0\)\
+\-\ ctab\\:\\ 0\\.049124055377837594\ \(0\)\
+\-\ is\\:\\ 0\\.049033003343045785\ \(0\)\
+\-\ meds\\:\\ 0\\.04890300150303616\ \(0\)\
+\-\ maternal\\:\\ 0\\.04890300150303616\ \(0\)\
+\-\ normocephalic\\:\\ 0\\.04868800466722493\ \(0\)\
+\-\ neurogenic\\:\\ 0\\.04868800466722493\ \(0\)\
+\-\ pseudoaneurysm\\:\\ 0\\.04807624874469025\ \(0\)\
+\-\ gerd\\:\\ 0\\.04807624874469025\ \(0\)\
+\-\ ext\\:\\ 0\\.047882488440439686\ \(0\)\
+\-\ aneurysms\\:\\ 0\\.047882488440439686\ \(0\)\
+\-\ father\\:\\ 0\\.04769339751664359\ \(0\)\
+\-\ feeling\\:\\ 0\\.04750875620658861\ \(0\)\
+\-\ resolve\\:\\ 0\\.04732835990265403\ \(0\)\
+\-\ without\\:\\ 0\\.04722005502162318\ \(0\)\
+\-\ membranes\\:\\ 0\\.04697955165044191\ \(0\)\
+\-\ vertical\\:\\ 0\\.04697955165044191\ \(0\)\
+\-\ nephrolithiasis\\:\\ 0\\.04697955165044191\ \(0\)\
+\-\ ica\\:\\ 0\\.04681079474585604\ \(0\)\
+\-\ allergies\\:\\ 0\\.04681079474585604\ \(0\)\
+\-\ was\\:\\ 0\\.04679951571907499\ \(0\)\
+\-\ or\\:\\ 0\\.04671522435079824\ \(0\)\
+\-\ other\\:\\ 0\\.046490768921852624\ \(0\)\
+\-\ saturation\\:\\ 0\\.04648379353025102\ \(0\)\
+\-\ mucous\\:\\ 0\\.046169875925217256\ \(0\)\
+\-\ nourished\\:\\ 0\\.0458680351115203\ \(0\)\
+\-\ auditory\\:\\ 0\\.0458680351115203\ \(0\)\
+\-\ fullness\\:\\ 0\\.04557737619301402\ \(0\)\
+\-\ failed\\:\\ 0\\.045160629043482434\ \(0\)\
+\-\ to\\:\\ 0\\.04476118463537183\ \(0\)\
+\-\ asthma\\:\\ 0\\.044637308922273806\ \(0\)\
+\-\ nad\\:\\ 0\\.04451175594580957\ \(0\)\
+\-\ pupils\\:\\ 0\\.04438818026395633\ \(0\)\
+\-\ recovery\\:\\ 0\\.044028717707836944\ \(0\)\
+\-\ ascending\\:\\ 0\\.0435736978656122\ \(0\)\
+\-\ surgical\\:\\ 0\\.04351113356275148\ \(0\)\
+\-\ successful\\:\\ 0\\.04346394931266223\ \(0\)\
+\-\ 98\\:\\ 0\\.0433557145811932\ \(0\)\
+\-\ s2\\:\\ 0\\.04303968957890704\ \(0\)\
+\-\ pulses\\:\\ 0\\.042443436250065754\ \(0\)\
+\-\ rom\\:\\ 0\\.04234832122341225\ \(0\)\
+\-\ septum\\:\\ 0\\.042069704016214675\ \(0\)\
+\-\ abd\\:\\ 0\\.04162625871392347\ \(0\)\
+\-\ smoking\\:\\ 0\\.04145566735143979\ \(0\)\
+\-\ neoplastic\\:\\ 0\\.04137174255548211\ \(0\)\
+\-\ alcohol\\:\\ 0\\.04137174255548211\ \(0\)\
+\-\ movement\\:\\ 0\\.04120653869312232\ \(0\)\
+\-\ resected\\:\\ 0\\.04096507676098599\ \(0\)\
+\-\ has\\:\\ 0\\.04089153111286742\ \(0\)\
+\-\ residual\\:\\ 0\\.040730823734843324\ \(0\)\
+\-\ chills\\:\\ 0\\.040730823734843324\ \(0\)\
+\-\ drug\\:\\ 0\\.040730823734843324\ \(0\)\
+\-\ undergoing\\:\\ 0\\.04065426806788759\ \(0\)\
+\-\ hearing\\:\\ 0\\.04065426806788759\ \(0\)\
+\-\ firm\\:\\ 0\\.04057845208077612\ \(0\)\
+\-\ pmh\\:\\ 0\\.040503361616629645\ \(0\)\
+\-\ cleft\\:\\ 0\\.04042898292114637\ \(0\)\
+\-\ dysphagia\\:\\ 0\\.04042898292114637\ \(0\)\
+\-\ resolved\\:\\ 0\\.04020998562966747\ \(0\)\
+\-\ heent\\:\\ 0\\.03999693470672974\ \(0\)\
+\-\ home\\:\\ 0\\.039587438653006485\ \(0\)\
+\-\ reflexes\\:\\ 0\\.03913522913503629\ \(0\)\
+\-\ s1\\:\\ 0\\.039072703755435645\ \(0\)\
+\-\ that\\:\\ 0\\.03884965628490572\ \(0\)\
+\-\ light\\:\\ 0\\.03876733862386126\ \(0\)\
+\-\ regular\\:\\ 0\\.038648444021680446\ \(0\)\
+\-\ restricted\\:\\ 0\\.03847341311530341\ \(0\)\
+\-\ node\\:\\ 0\\.03847341311530341\ \(0\)\
+\-\ discharged\\:\\ 0\\.03841592645802903\ \(0\)\
+\-\ mother\\:\\ 0\\.03824595099708973\ \(0\)\
+\-\ by\\:\\ 0\\.03801668876146857\ \(0\)\
+\-\ healthy\\:\\ 0\\.037970593143468484\ \(0\)\
+\-\ operative\\:\\ 0\\.037549182164009307\ \(0\)\
+\-\ round\\:\\ 0\\.036676406437239\ \(0\)\
+\-\ room\\:\\ 0\\.03663065182584074\ \(0\)\
+\-\ pregnancy\\:\\ 0\\.03663065182584074\ \(0\)\
+\-\ via\\:\\ 0\\.03658516246005653\ \(0\)\
+\-\ gland\\:\\ 0\\.036361589113850505\ \(0\)\
+\-\ bp\\:\\ 0\\.03631762881051578\ \(0\)\
+\-\ resolution\\:\\ 0\\.03631762881051578\ \(0\)\
+\-\ lymphadenopathy\\:\\ 0\\.03618720652354954\ \(0\)\
+\-\ general\\:\\ 0\\.03593269036510818\ \(0\)\
+\-\ appearing\\:\\ 0\\.03576748650274838\ \(0\)\
+\-\ thyroid\\:\\ 0\\.03517721631839994\ \(0\)\
+\-\ with\\:\\ 0\\.03505947366592627\ \(0\)\
+\-\ reports\\:\\ 0\\.03480701117467329\ \(0\)\
+\-\ lymph\\:\\ 0\\.03480701117467329\ \(0\)\
+\-\ measuring\\:\\ 0\\.034628258715643054\ \(0\)\
+\-\ partial\\:\\ 0\\.034488131891559456\ \(0\)\
+\-\ persistent\\:\\ 0\\.034488131891559456\ \(0\)\
+\-\ use\\:\\ 0\\.03424877453060973\ \(0\)\
+\-\ history\\:\\ 0\\.03420299631625738\ \(0\)\
+\-\ vs\\:\\ 0\\.03414838646263255\ \(0\)\
+\-\ reveals\\:\\ 0\\.03404926648839954\ \(0\)\
+\-\ rate\\:\\ 0\\.033919024600160184\ \(0\)\
+\-\ at\\:\\ 0\\.033813997880433315\ \(0\)\
+\-\ about\\:\\ 0\\.03351007588320847\ \(0\)\
+\-\ in\\:\\ 0\\.03340565263297509\ \(0\)\
+\-\ weighted\\:\\ 0\\.03338841618076218\ \(0\)\
+\-\ developed\\:\\ 0\\.033209391831306515\ \(0\)\
+\-\ cord\\:\\ 0\\.033179947543016494\ \(0\)\
+\-\ course\\:\\ 0\\.03306326295989557\ \(0\)\
+\-\ ago\\:\\ 0\\.032751048794274165\ \(0\)\
+\-\ breast\\:\\ 0\\.03250452924441703\ \(0\)\
+\-\ since\\:\\ 0\\.03242404757866914\ \(0\)\
+\-\ congenital\\:\\ 0\\.032161585198159176\ \(0\)\
+\-\ nerve\\:\\ 0\\.03193264823854989\ \(0\)\
+\-\ defined\\:\\ 0\\.03193264823854989\ \(0\)\
+\-\ otherwise\\:\\ 0\\.03190761825361985\ \(0\)\
+\-\ then\\:\\ 0\\.03168587023988019\ \(0\)\
+\-\ palpable\\:\\ 0\\.031446617144809036\ \(0\)\
+\-\ hematoma\\:\\ 0\\.031329671707221986\ \(0\)\
+\-\ heart\\:\\ 0\\.031123464096324445\ \(0\)\
+\-\ now\\:\\ 0\\.03072662649080533\ \(0\)\
+\-\ fever\\:\\ 0\\.030348895585042928\ \(0\)\
+\-\ size\\:\\ 0\\.030308026255039564\ \(0\)\
+\-\ inflammatory\\:\\ 0\\.03026736868417271\ \(0\)\
+\-\ palpation\\:\\ 0\\.030186680121041125\ \(0\)\
+\-\ internal\\:\\ 0\\.030166636959129224\ \(0\)\
+\-\ bilaterally\\:\\ 0\\.029852719354095468\ \(0\)\
+\-\ cancer\\:\\ 0\\.029814348159677876\ \(0\)\
+\-\ air\\:\\ 0\\.02927807376752932\ \(0\)\
+\-\ any\\:\\ 0\\.028928488402801364\ \(0\)\
+\-\ abscess\\:\\ 0\\.02874265446509424\ \(0\)\
+\-\ resection\\:\\ 0\\.028692727083790583\ \(0\)\
+\-\ image\\:\\ 0\\.02862664758910441\ \(0\)\
+\-\ day\\:\\ 0\\.028512330779856\ \(0\)\
+\-\ during\\:\\ 0\\.028351857014978967\ \(0\)\
+\-\ tenderness\\:\\ 0\\.028071023692834537\ \(0\)\
+\-\ enhancing\\:\\ 0\\.02804043147622171\ \(0\)\
+\-\ her\\:\\ 0\\.027964468698848586\ \(0\)\
+\-\ fat\\:\\ 0\\.027844437392873022\ \(0\)\
+\-\ decreased\\:\\ 0\\.027726214537093338\ \(0\)\
+\-\ years\\:\\ 0\\.027438222815629104\ \(0\)\
+\-\ loss\\:\\ 0\\.027270368423393677\ \(0\)\
+\-\ month\\:\\ 0\\.02722895991768514\ \(0\)\
+\-\ level\\:\\ 0\\.027038558010071417\ \(0\)\
+\-\ on\\:\\ 0\\.027037504585771012\ \(0\)\
+\-\ lymphoma\\:\\ 0\\.02665826652552232\ \(0\)\
+\-\ she\\:\\ 0\\.026645476150038146\ \(0\)\
+\-\ axial\\:\\ 0\\.025855873067650536\ \(0\)\
+\-\ cyst\\:\\ 0\\.02582127979947578\ \(0\)\
+\-\ t2\\:\\ 0\\.025752547445092887\ \(0\)\
+\-\ due\\:\\ 0\\.025729769798846083\ \(0\)\
+\-\ therapy\\:\\ 0\\.025718405722099276\ \(0\)\
+\-\ cm\\:\\ 0\\.02570705807930867\ \(0\)\
+\-\ mild\\:\\ 0\\.02537404232273595\ \(0\)\
+\-\ symptoms\\:\\ 0\\.024490977085844114\ \(0\)\
+\-\ surgery\\:\\ 0\\.0240656951553022\ \(0\)\
+\-\ soft\\:\\ 0\\.02383008942636486\ \(0\)\
+\-\ woman\\:\\ 0\\.023311954477341943\ \(0\)\
+\-\ small\\:\\ 0\\.023089507951259507\ \(0\)\
+\-\ it\\:\\ 0\\.022912804824605035\ \(0\)\
+\-\ demonstrates\\:\\ 0\\.02248770911432722\ \(0\)\
+\-\ female\\:\\ 0\\.021599505819697485\ \(0\)\
+\-\ presents\\:\\ 0\\.021532609475728784\ \(0\)\
+\-\ within\\:\\ 0\\.020615783350521777\ \(0\)\
+\-\ from\\:\\ 0\\.01777738454056578\ \(0\)\
+\-\ not\\:\\ 0\\.017670789780095814\ \(0\)\
+\-\ an\\:\\ 0\\.01711666124231016\ \(0\)\
+\-\ ct\\:\\ 0\\.017041137140318675\ \(0\)\
+\-\ pain\\:\\ 0\\.016017324984286097\ \(0\)\
+\-\ year\\:\\ 0\\.013794624219354373\ \(0\)\
+\-\ for\\:\\ 0\\.013566878132927937\ \(0\)\
+\-\ old\\:\\ 0\\.013247614378256044\ \(0\)\

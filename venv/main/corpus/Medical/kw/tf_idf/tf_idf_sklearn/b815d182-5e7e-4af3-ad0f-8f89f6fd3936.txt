@@ -1,63 +1,61 @@
-Texto: 
-palpable mass in the right hemi-abdomen.
-the lesion was surgically resected and the patient did well post-operatively.
-axial ct image of the abdomen which shows a large, heterogenous mass involving the right kidney and causing considerable mass effect on the remaining abdominal contents.  (note the left-sided liver).
-wilms tumor
-wilms tumor (nephroblastoma)
-neuroblastoma
-clear cell sarcoma
-rhabdoid tumor
-renal cell carcinoma
-17 month old caucasian male with palpable abdominal mass.
-
-
-Keywords by value: 
-- wilms: 0.3389690002117527
-- tumor: 0.24233262043007703
-- mass: 0.23595748700774208
-- palpable: 0.21698999179995837
-- the: 0.21570517846343587
-- nephroblastoma: 0.20625273643553163
-- abdomen: 0.18846001437388604
-- considerable: 0.18331399166317933
-- rhabdoid: 0.18205456352657695
-- cell: 0.1766858469208652
-- abdominal: 0.16892726161207267
-- contents: 0.1544448485288044
-- remaining: 0.1467676649589881
-- heterogenous: 0.14546269800134
-- surgically: 0.143320227350659
-- neuroblastoma: 0.14188746855772832
-- resected: 0.14133494279397146
-- caucasian: 0.13727910154296039
-- sarcoma: 0.12954965382037123
-- causing: 0.1268569693886977
-- 17: 0.1260676183508116
-- note: 0.1162562752814128
-- clear: 0.11195950180186559
-- did: 0.11078420307643315
-- kidney: 0.10849499589997919
-- effect: 0.1083328827046299
-- involving: 0.1081717344744921
-- liver: 0.10653518082317807
-- right: 0.1024020120046623
-- image: 0.09876572728023056
-- renal: 0.09616993707202981
-- month: 0.09394351961694564
-- carcinoma: 0.09237497882370636
-- shows: 0.09063894684003493
-- axial: 0.08920618804710424
-- large: 0.07737871495753229
-- well: 0.0747773319207134
-- lesion: 0.07403872658227414
-- which: 0.07022232684097023
-- male: 0.0687596153861796
-- and: 0.06382347308572794
-- ct: 0.05879418112466371
-- was: 0.05382151009206628
-- patient: 0.05022937744002741
-- on: 0.04664148667678111
-- old: 0.045706024944901044
-- in: 0.03841797597031345
-- with: 0.030239957402445092
-- of: 0.030221899824501432
+\-\ Texto\\:\\ \ \(0\)\
+\-\ palpable\\ mass\\ in\\ the\\ right\\ hemi\\-abdomen\\.\ \(0\)\
+\-\ the\\ lesion\\ was\\ surgically\\ resected\\ and\\ the\\ patient\\ did\\ well\\ post\\-operatively\\.\ \(0\)\
+\-\ axial\\ ct\\ image\\ of\\ the\\ abdomen\\ which\\ shows\\ a\\ large\\,\\ heterogenous\\ mass\\ involving\\ the\\ right\\ kidney\\ and\\ causing\\ considerable\\ mass\\ effect\\ on\\ the\\ remaining\\ abdominal\\ contents\\.\\ \\ \\(note\\ the\\ left\\-sided\\ liver\\)\\.\ \(0\)\
+\-\ wilms\\ tumor\ \(0\)\
+\-\ wilms\\ tumor\\ \\(nephroblastoma\\)\ \(0\)\
+\-\ neuroblastoma\ \(81\)\
+\-\ clear\\ cell\\ sarcoma\ \(2\)\
+\-\ rhabdoid\\ tumor\ \(8\)\
+\-\ renal\\ cell\\ carcinoma\ \(60\)\
+\-\ 17\\ month\\ old\\ caucasian\\ male\\ with\\ palpable\\ abdominal\\ mass\\.\ \(1\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ wilms\\:\\ 0\\.3389690002117527\ \(0\)\
+\-\ tumor\\:\\ 0\\.24233262043007703\ \(0\)\
+\-\ mass\\:\\ 0\\.23595748700774208\ \(0\)\
+\-\ palpable\\:\\ 0\\.21698999179995837\ \(0\)\
+\-\ the\\:\\ 0\\.21570517846343587\ \(0\)\
+\-\ nephroblastoma\\:\\ 0\\.20625273643553163\ \(0\)\
+\-\ abdomen\\:\\ 0\\.18846001437388604\ \(0\)\
+\-\ considerable\\:\\ 0\\.18331399166317933\ \(0\)\
+\-\ rhabdoid\\:\\ 0\\.18205456352657695\ \(0\)\
+\-\ cell\\:\\ 0\\.1766858469208652\ \(0\)\
+\-\ abdominal\\:\\ 0\\.16892726161207267\ \(0\)\
+\-\ contents\\:\\ 0\\.1544448485288044\ \(0\)\
+\-\ remaining\\:\\ 0\\.1467676649589881\ \(0\)\
+\-\ heterogenous\\:\\ 0\\.14546269800134\ \(0\)\
+\-\ surgically\\:\\ 0\\.143320227350659\ \(0\)\
+\-\ neuroblastoma\\:\\ 0\\.14188746855772832\ \(0\)\
+\-\ resected\\:\\ 0\\.14133494279397146\ \(0\)\
+\-\ caucasian\\:\\ 0\\.13727910154296039\ \(0\)\
+\-\ sarcoma\\:\\ 0\\.12954965382037123\ \(0\)\
+\-\ causing\\:\\ 0\\.1268569693886977\ \(0\)\
+\-\ 17\\:\\ 0\\.1260676183508116\ \(0\)\
+\-\ note\\:\\ 0\\.1162562752814128\ \(0\)\
+\-\ clear\\:\\ 0\\.11195950180186559\ \(0\)\
+\-\ did\\:\\ 0\\.11078420307643315\ \(0\)\
+\-\ kidney\\:\\ 0\\.10849499589997919\ \(0\)\
+\-\ effect\\:\\ 0\\.1083328827046299\ \(0\)\
+\-\ involving\\:\\ 0\\.1081717344744921\ \(0\)\
+\-\ liver\\:\\ 0\\.10653518082317807\ \(0\)\
+\-\ right\\:\\ 0\\.1024020120046623\ \(0\)\
+\-\ image\\:\\ 0\\.09876572728023056\ \(0\)\
+\-\ renal\\:\\ 0\\.09616993707202981\ \(0\)\
+\-\ month\\:\\ 0\\.09394351961694564\ \(0\)\
+\-\ carcinoma\\:\\ 0\\.09237497882370636\ \(0\)\
+\-\ shows\\:\\ 0\\.09063894684003493\ \(0\)\
+\-\ axial\\:\\ 0\\.08920618804710424\ \(0\)\
+\-\ large\\:\\ 0\\.07737871495753229\ \(0\)\
+\-\ well\\:\\ 0\\.0747773319207134\ \(0\)\
+\-\ lesion\\:\\ 0\\.07403872658227414\ \(0\)\
+\-\ which\\:\\ 0\\.07022232684097023\ \(0\)\
+\-\ male\\:\\ 0\\.0687596153861796\ \(0\)\
+\-\ and\\:\\ 0\\.06382347308572794\ \(0\)\
+\-\ ct\\:\\ 0\\.05879418112466371\ \(0\)\
+\-\ was\\:\\ 0\\.05382151009206628\ \(0\)\
+\-\ patient\\:\\ 0\\.05022937744002741\ \(0\)\
+\-\ on\\:\\ 0\\.04664148667678111\ \(0\)\
+\-\ old\\:\\ 0\\.045706024944901044\ \(0\)\
+\-\ in\\:\\ 0\\.03841797597031345\ \(0\)\
+\-\ with\\:\\ 0\\.030239957402445092\ \(0\)\
+\-\ of\\:\\ 0\\.030221899824501432\ \(0\)\

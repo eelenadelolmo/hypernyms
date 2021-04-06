@@ -1,112 +1,109 @@
-Texto: 
-physical exam was normal.  semen analysis revealed azoospermia.
-the patient was referred to an infertility clinic for surgical sperm retrieval [microepididymal sperm aspiration (mesa) or testicular sperm extraction (tese)] and ivf.
-us findings: multiple anechoic, serpiginous, tubular structures of varying sizes within the testicle.
-intratesticular varicoceles
-the profound dilatation and augmentation of flow with valsalva is diagnostic for intratesticular varicoceles. 
-
-benign intratesticular cystic lesions: 
-intratesticular simple cysts
-tubular ectasia
-epidermoid cyst
-tunica albuginea cyst
-intratesticular varicocele
-abscess
-hemorrhage
-26 year old man undergoing an infertility evaluation.
-in patients with extratesticular varicoceles and infertility, internal spermatic vein ligation or percutaneous venographic occlusion is usually performed.  at this point there are no generally accepted analogous alternatives for patients with intratesticular varicocels.
-
-
-Keywords by value: 
-- intratesticular: 0.5415904535397208
-- varicoceles: 0.3351569761819892
-- sperm: 0.32409605496101507
-- infertility: 0.2355652956365345
-- tubular: 0.12702984898462788
-- semen: 0.1169154896855308
-- azoospermia: 0.1169154896855308
-- microepididymal: 0.1169154896855308
-- mesa: 0.1169154896855308
-- tese: 0.1169154896855308
-- venographic: 0.1169154896855308
-- varicocels: 0.1169154896855308
-- analogous: 0.11171899206066305
-- alternatives: 0.10517217930775552
-- extratesticular: 0.10085990398869245
-- albuginea: 0.09914854695514591
-- retrieval: 0.09763902307060283
-- spermatic: 0.09628870794256307
-- accepted: 0.09628870794256307
-- tunica: 0.09395204933027815
-- ivf: 0.0919764326235
-- extraction: 0.09026507558995346
-- profound: 0.09026507558995346
-- augmentation: 0.09026507558995346
-- serpiginous: 0.088062618623634
-- varicocele: 0.088062618623634
-- valsalva: 0.08618372796152501
-- ligation: 0.08454539756478778
-- cyst: 0.08434653380132226
-- sizes: 0.08404273941080359
-- patients: 0.08225441355100084
-- ectasia: 0.08178849998985938
-- anechoic: 0.07987208034021795
-- varying: 0.07673055658022439
-- testicle: 0.07354066997006894
-- percutaneous: 0.07046542857472757
-- testicular: 0.06856325699779815
-- analysis: 0.06798715371396524
-- occlusion: 0.067168824304388
-- for: 0.06647535408221658
-- undergoing: 0.06639962508414693
-- simple: 0.0661531532556645
-- aspiration: 0.06391861582182004
-- epidermoid: 0.06351492449231394
-- generally: 0.061928360461155185
-- clinic: 0.06158195720953512
-- point: 0.06043835849978421
-- dilatation: 0.05967978563260569
-- 26: 0.05938849718292136
-- us: 0.058153904196276744
-- an: 0.05591245117407414
-- diagnostic: 0.05571953629178032
-- cysts: 0.05539911610042223
-- structures: 0.054933023278187144
-- referred: 0.0540963562777229
-- vein: 0.05240287807537313
-- was: 0.05095767218794231
-- or: 0.0508658914964774
-- benign: 0.05022021098358034
-- internal: 0.049270432831084295
-- hemorrhage: 0.04894759107333554
-- flow: 0.04869504812200892
-- revealed: 0.047936475254830406
-- abscess: 0.04694467693326757
-- usually: 0.04602414825733439
-- and: 0.04532057369583957
-- evaluation: 0.04458531478965225
-- cystic: 0.04403041686190876
-- the: 0.043763040973948196
-- performed: 0.043250887909568006
-- with: 0.042946337820748526
-- lesions: 0.04198671134927603
-- is: 0.040042204588350054
-- physical: 0.03964079586401053
-- man: 0.03870424386344625
-- exam: 0.0368025666314701
-- findings: 0.03608169396988744
-- multiple: 0.03575867784169963
-- surgical: 0.03553283693028814
-- within: 0.03367125643498941
-- normal: 0.029849476071471242
-- there: 0.029089416959089055
-- of: 0.028613795144718342
-- are: 0.02774113307601501
-- at: 0.02761378925956364
-- this: 0.025121200018961298
-- patient: 0.02377833830205596
-- no: 0.023773865735238823
-- year: 0.022530423492369542
-- old: 0.021637005652313586
-- to: 0.0182768379518473
-- in: 0.01818687939330094
+\-\ Texto\\:\\ \ \(0\)\
+\-\ physical\\ exam\\ was\\ normal\\.\\ \\ semen\\ analysis\\ revealed\\ azoospermia\\.\ \(0\)\
+\-\ the\\ patient\\ was\\ referred\\ to\\ an\\ infertility\\ clinic\\ for\\ surgical\\ sperm\\ retrieval\\ \\[microepididymal\\ sperm\\ aspiration\\ \\(mesa\\)\\ or\\ testicular\\ sperm\\ extraction\\ \\(tese\\)\\]\\ and\\ ivf\\.\ \(0\)\
+\-\ us\\ findings\\:\\ multiple\\ anechoic\\,\\ serpiginous\\,\\ tubular\\ structures\\ of\\ varying\\ sizes\\ within\\ the\\ testicle\\.\ \(0\)\
+\-\ intratesticular\\ varicoceles\ \(1\)\
+\-\ the\\ profound\\ dilatation\\ and\\ augmentation\\ of\\ flow\\ with\\ valsalva\\ is\\ diagnostic\\ for\\ intratesticular\\ varicoceles\\.\\ \ \(0\)\
+\-\ benign\\ intratesticular\\ cystic\\ lesions\\:\\ \ \(0\)\
+\-\ intratesticular\\ simple\\ cysts\ \(1\)\
+\-\ tubular\\ ectasia\ \(11\)\
+\-\ epidermoid\\ cyst\ \(38\)\
+\-\ tunica\\ albuginea\\ cyst\ \(1\)\
+\-\ intratesticular\\ varicocele\ \(2\)\
+\-\ abscess\ \(594\)\
+\-\ hemorrhage\ \(627\)\
+\-\ 26\\ year\\ old\\ man\\ undergoing\\ an\\ infertility\\ evaluation\\.\ \(1\)\
+\-\ in\\ patients\\ with\\ extratesticular\\ varicoceles\\ and\\ infertility\\,\\ internal\\ spermatic\\ vein\\ ligation\\ or\\ percutaneous\\ venographic\\ occlusion\\ is\\ usually\\ performed\\.\\ \\ at\\ this\\ point\\ there\\ are\\ no\\ generally\\ accepted\\ analogous\\ alternatives\\ for\\ patients\\ with\\ intratesticular\\ varicocels\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ intratesticular\\:\\ 0\\.5415904535397208\ \(0\)\
+\-\ varicoceles\\:\\ 0\\.3351569761819892\ \(0\)\
+\-\ sperm\\:\\ 0\\.32409605496101507\ \(0\)\
+\-\ infertility\\:\\ 0\\.2355652956365345\ \(0\)\
+\-\ tubular\\:\\ 0\\.12702984898462788\ \(0\)\
+\-\ semen\\:\\ 0\\.1169154896855308\ \(0\)\
+\-\ azoospermia\\:\\ 0\\.1169154896855308\ \(0\)\
+\-\ microepididymal\\:\\ 0\\.1169154896855308\ \(0\)\
+\-\ mesa\\:\\ 0\\.1169154896855308\ \(0\)\
+\-\ tese\\:\\ 0\\.1169154896855308\ \(0\)\
+\-\ venographic\\:\\ 0\\.1169154896855308\ \(0\)\
+\-\ varicocels\\:\\ 0\\.1169154896855308\ \(0\)\
+\-\ analogous\\:\\ 0\\.11171899206066305\ \(0\)\
+\-\ alternatives\\:\\ 0\\.10517217930775552\ \(0\)\
+\-\ extratesticular\\:\\ 0\\.10085990398869245\ \(0\)\
+\-\ albuginea\\:\\ 0\\.09914854695514591\ \(0\)\
+\-\ retrieval\\:\\ 0\\.09763902307060283\ \(0\)\
+\-\ spermatic\\:\\ 0\\.09628870794256307\ \(0\)\
+\-\ accepted\\:\\ 0\\.09628870794256307\ \(0\)\
+\-\ tunica\\:\\ 0\\.09395204933027815\ \(0\)\
+\-\ ivf\\:\\ 0\\.0919764326235\ \(0\)\
+\-\ extraction\\:\\ 0\\.09026507558995346\ \(0\)\
+\-\ profound\\:\\ 0\\.09026507558995346\ \(0\)\
+\-\ augmentation\\:\\ 0\\.09026507558995346\ \(0\)\
+\-\ serpiginous\\:\\ 0\\.088062618623634\ \(0\)\
+\-\ varicocele\\:\\ 0\\.088062618623634\ \(0\)\
+\-\ valsalva\\:\\ 0\\.08618372796152501\ \(0\)\
+\-\ ligation\\:\\ 0\\.08454539756478778\ \(0\)\
+\-\ cyst\\:\\ 0\\.08434653380132226\ \(0\)\
+\-\ sizes\\:\\ 0\\.08404273941080359\ \(0\)\
+\-\ patients\\:\\ 0\\.08225441355100084\ \(0\)\
+\-\ ectasia\\:\\ 0\\.08178849998985938\ \(0\)\
+\-\ anechoic\\:\\ 0\\.07987208034021795\ \(0\)\
+\-\ varying\\:\\ 0\\.07673055658022439\ \(0\)\
+\-\ testicle\\:\\ 0\\.07354066997006894\ \(0\)\
+\-\ percutaneous\\:\\ 0\\.07046542857472757\ \(0\)\
+\-\ testicular\\:\\ 0\\.06856325699779815\ \(0\)\
+\-\ analysis\\:\\ 0\\.06798715371396524\ \(0\)\
+\-\ occlusion\\:\\ 0\\.067168824304388\ \(0\)\
+\-\ for\\:\\ 0\\.06647535408221658\ \(0\)\
+\-\ undergoing\\:\\ 0\\.06639962508414693\ \(0\)\
+\-\ simple\\:\\ 0\\.0661531532556645\ \(0\)\
+\-\ aspiration\\:\\ 0\\.06391861582182004\ \(0\)\
+\-\ epidermoid\\:\\ 0\\.06351492449231394\ \(0\)\
+\-\ generally\\:\\ 0\\.061928360461155185\ \(0\)\
+\-\ clinic\\:\\ 0\\.06158195720953512\ \(0\)\
+\-\ point\\:\\ 0\\.06043835849978421\ \(0\)\
+\-\ dilatation\\:\\ 0\\.05967978563260569\ \(0\)\
+\-\ 26\\:\\ 0\\.05938849718292136\ \(0\)\
+\-\ us\\:\\ 0\\.058153904196276744\ \(0\)\
+\-\ an\\:\\ 0\\.05591245117407414\ \(0\)\
+\-\ diagnostic\\:\\ 0\\.05571953629178032\ \(0\)\
+\-\ cysts\\:\\ 0\\.05539911610042223\ \(0\)\
+\-\ structures\\:\\ 0\\.054933023278187144\ \(0\)\
+\-\ referred\\:\\ 0\\.0540963562777229\ \(0\)\
+\-\ vein\\:\\ 0\\.05240287807537313\ \(0\)\
+\-\ was\\:\\ 0\\.05095767218794231\ \(0\)\
+\-\ or\\:\\ 0\\.0508658914964774\ \(0\)\
+\-\ benign\\:\\ 0\\.05022021098358034\ \(0\)\
+\-\ internal\\:\\ 0\\.049270432831084295\ \(0\)\
+\-\ hemorrhage\\:\\ 0\\.04894759107333554\ \(0\)\
+\-\ flow\\:\\ 0\\.04869504812200892\ \(0\)\
+\-\ revealed\\:\\ 0\\.047936475254830406\ \(0\)\
+\-\ abscess\\:\\ 0\\.04694467693326757\ \(0\)\
+\-\ usually\\:\\ 0\\.04602414825733439\ \(0\)\
+\-\ and\\:\\ 0\\.04532057369583957\ \(0\)\
+\-\ evaluation\\:\\ 0\\.04458531478965225\ \(0\)\
+\-\ cystic\\:\\ 0\\.04403041686190876\ \(0\)\
+\-\ the\\:\\ 0\\.043763040973948196\ \(0\)\
+\-\ performed\\:\\ 0\\.043250887909568006\ \(0\)\
+\-\ with\\:\\ 0\\.042946337820748526\ \(0\)\
+\-\ lesions\\:\\ 0\\.04198671134927603\ \(0\)\
+\-\ is\\:\\ 0\\.040042204588350054\ \(0\)\
+\-\ physical\\:\\ 0\\.03964079586401053\ \(0\)\
+\-\ man\\:\\ 0\\.03870424386344625\ \(0\)\
+\-\ exam\\:\\ 0\\.0368025666314701\ \(0\)\
+\-\ findings\\:\\ 0\\.03608169396988744\ \(0\)\
+\-\ multiple\\:\\ 0\\.03575867784169963\ \(0\)\
+\-\ surgical\\:\\ 0\\.03553283693028814\ \(0\)\
+\-\ within\\:\\ 0\\.03367125643498941\ \(0\)\
+\-\ normal\\:\\ 0\\.029849476071471242\ \(0\)\
+\-\ there\\:\\ 0\\.029089416959089055\ \(0\)\
+\-\ of\\:\\ 0\\.028613795144718342\ \(0\)\
+\-\ are\\:\\ 0\\.02774113307601501\ \(0\)\
+\-\ at\\:\\ 0\\.02761378925956364\ \(0\)\
+\-\ this\\:\\ 0\\.025121200018961298\ \(0\)\
+\-\ patient\\:\\ 0\\.02377833830205596\ \(0\)\
+\-\ no\\:\\ 0\\.023773865735238823\ \(0\)\
+\-\ year\\:\\ 0\\.022530423492369542\ \(0\)\
+\-\ old\\:\\ 0\\.021637005652313586\ \(0\)\
+\-\ to\\:\\ 0\\.0182768379518473\ \(0\)\
+\-\ in\\:\\ 0\\.01818687939330094\ \(0\)\

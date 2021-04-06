@@ -1,99 +1,97 @@
-Texto: 
-no significant joint swelling.  no ttp.
-treatment is typically limited to decreasing symptoms of pain in order to allow patients to continue desired activities.  nsaids and tylenol are the mainstays of pharmacological treatment.
-degenerative changes of the 1st carpometacarpal (cmc) joint with asymmetric joint space narrowing, subchondral sclerosis and peripheral osteophyte formation.  additional unexpected finding of 5th dip joint 'gull wing' with loss of the joint space, subchondral sclerosis, peripheral proximal and distal cortical hypertrophy and subchondral cysts.
-erosive osteoarthritis
-erosive osteoarthritis
-rheumatoid arthritis - unlikely due to dip joint involvement.
-psoriatic arthritis - unlikely due to 1st cmc joint involvement.
-pain in the base of the thumb.
-this case demonstrates the disconnection between radiographic appearance of lesions and report of symptoms.  the patient had no 5th digit complaints where radiographic signs of disease were more severe, but had significant pain at the 1st cmc joint where the radiographic signs were mild.
-
-
-Keywords by value: 
-- joint: 0.4123608500677436
-- cmc: 0.31341233673439833
-- 1st: 0.24454722643595123
-- subchondral: 0.22457409622095323
-- dip: 0.18204157152365116
-- radiographic: 0.17410573025550719
-- erosive: 0.16604834228613963
-- 5th: 0.1454883648177344
-- osteoarthritis: 0.14290182289123463
-- the: 0.1404753601880097
-- unlikely: 0.13859587598054918
-- of: 0.1377714993009637
-- arthritis: 0.1272422756936324
-- where: 0.12294825043433136
-- mainstays: 0.11559096707821906
-- disconnection: 0.11559096707821906
-- involvement: 0.1132324954608006
-- peripheral: 0.11187226172690787
-- sclerosis: 0.11143344022797572
-- pharmacological: 0.1100308729948426
-- signs: 0.10933885334995185
-- carpometacarpal: 0.10608592346171057
-- space: 0.10413762414286915
-- desired: 0.1030259828784267
-- to: 0.09777829789875342
-- tylenol: 0.09160440061693564
-- unexpected: 0.09102078576182558
-- significant: 0.09032876611693484
-- due: 0.08992838296848255
-- decreasing: 0.0879608451785417
-- osteophyte: 0.08707583622869355
-- allow: 0.08584699551375784
-- activities: 0.08584699551375784
-- digit: 0.08584699551375784
-- symptoms: 0.08559866582043395
-- wing: 0.08508497285276588
-- psoriatic: 0.08401589564540968
-- pain: 0.08397347585570641
-- thumb: 0.08302417114306981
-- and: 0.08081938767616192
-- were: 0.0806436532295166
-- ttp: 0.07964897807145907
-- had: 0.07794740133623239
-- continue: 0.07673945449127681
-- nsaids: 0.07653926291705065
-- no: 0.07631193532019677
-- treatment: 0.07452377206294886
-- hypertrophy: 0.07367951390799295
-- order: 0.07229940138775973
-- asymmetric: 0.07039555397856412
-- rheumatoid: 0.06895075794552469
-- degenerative: 0.06645060444543209
-- report: 0.06589081736224082
-- complaints: 0.06441862295986914
-- limited: 0.06243441901553602
-- formation: 0.06201460421006597
-- narrowing: 0.06063889083844205
-- additional: 0.06063889083844205
-- base: 0.05950297069315473
-- cysts: 0.05927536581181116
-- cortical: 0.056159109423344435
-- typically: 0.05491357934336063
-- swelling: 0.0526480757035067
-- finding: 0.0514172463177983
-- between: 0.05082567966235584
-- severe: 0.0495187026716891
-- proximal: 0.0488694510351387
-- loss: 0.04765647253051877
-- changes: 0.04727487213524551
-- appearance: 0.04715776741597935
-- distal: 0.04544965383648741
-- lesions: 0.044924501502006664
-- mild: 0.04434253810463197
-- patients: 0.04400485780344798
-- more: 0.04295293241732598
-- case: 0.03929851166814069
-- demonstrates: 0.03929851166814069
-- in: 0.03891881332760063
-- but: 0.038681520811052826
-- disease: 0.03283534267958984
-- with: 0.030634181719770417
-- are: 0.0296821669164211
-- at: 0.029545912913914195
-- this: 0.02687891839386693
-- patient: 0.025442097283581485
-- is: 0.021421969265568688
+\-\ Texto\\:\\ \ \(0\)\
+\-\ no\\ significant\\ joint\\ swelling\\.\\ \\ no\\ ttp\\.\ \(0\)\
+\-\ treatment\\ is\\ typically\\ limited\\ to\\ decreasing\\ symptoms\\ of\\ pain\\ in\\ order\\ to\\ allow\\ patients\\ to\\ continue\\ desired\\ activities\\.\\ \\ nsaids\\ and\\ tylenol\\ are\\ the\\ mainstays\\ of\\ pharmacological\\ treatment\\.\ \(0\)\
+\-\ degenerative\\ changes\\ of\\ the\\ 1st\\ carpometacarpal\\ \\(cmc\\)\\ joint\\ with\\ asymmetric\\ joint\\ space\\ narrowing\\,\\ subchondral\\ sclerosis\\ and\\ peripheral\\ osteophyte\\ formation\\.\\ \\ additional\\ unexpected\\ finding\\ of\\ 5th\\ dip\\ joint\\ \\'gull\\ wing\\'\\ with\\ loss\\ of\\ the\\ joint\\ space\\,\\ subchondral\\ sclerosis\\,\\ peripheral\\ proximal\\ and\\ distal\\ cortical\\ hypertrophy\\ and\\ subchondral\\ cysts\\.\ \(0\)\
+\-\ erosive\\ osteoarthritis\ \(8\)\
+\-\ erosive\\ osteoarthritis\ \(8\)\
+\-\ rheumatoid\\ arthritis\\ \\-\\ unlikely\\ due\\ to\\ dip\\ joint\\ involvement\\.\ \(0\)\
+\-\ psoriatic\\ arthritis\\ \\-\\ unlikely\\ due\\ to\\ 1st\\ cmc\\ joint\\ involvement\\.\ \(0\)\
+\-\ pain\\ in\\ the\\ base\\ of\\ the\\ thumb\\.\ \(0\)\
+\-\ this\\ case\\ demonstrates\\ the\\ disconnection\\ between\\ radiographic\\ appearance\\ of\\ lesions\\ and\\ report\\ of\\ symptoms\\.\\ \\ the\\ patient\\ had\\ no\\ 5th\\ digit\\ complaints\\ where\\ radiographic\\ signs\\ of\\ disease\\ were\\ more\\ severe\\,\\ but\\ had\\ significant\\ pain\\ at\\ the\\ 1st\\ cmc\\ joint\\ where\\ the\\ radiographic\\ signs\\ were\\ mild\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ joint\\:\\ 0\\.4123608500677436\ \(0\)\
+\-\ cmc\\:\\ 0\\.31341233673439833\ \(0\)\
+\-\ 1st\\:\\ 0\\.24454722643595123\ \(0\)\
+\-\ subchondral\\:\\ 0\\.22457409622095323\ \(0\)\
+\-\ dip\\:\\ 0\\.18204157152365116\ \(0\)\
+\-\ radiographic\\:\\ 0\\.17410573025550719\ \(0\)\
+\-\ erosive\\:\\ 0\\.16604834228613963\ \(0\)\
+\-\ 5th\\:\\ 0\\.1454883648177344\ \(0\)\
+\-\ osteoarthritis\\:\\ 0\\.14290182289123463\ \(0\)\
+\-\ the\\:\\ 0\\.1404753601880097\ \(0\)\
+\-\ unlikely\\:\\ 0\\.13859587598054918\ \(0\)\
+\-\ of\\:\\ 0\\.1377714993009637\ \(0\)\
+\-\ arthritis\\:\\ 0\\.1272422756936324\ \(0\)\
+\-\ where\\:\\ 0\\.12294825043433136\ \(0\)\
+\-\ mainstays\\:\\ 0\\.11559096707821906\ \(0\)\
+\-\ disconnection\\:\\ 0\\.11559096707821906\ \(0\)\
+\-\ involvement\\:\\ 0\\.1132324954608006\ \(0\)\
+\-\ peripheral\\:\\ 0\\.11187226172690787\ \(0\)\
+\-\ sclerosis\\:\\ 0\\.11143344022797572\ \(0\)\
+\-\ pharmacological\\:\\ 0\\.1100308729948426\ \(0\)\
+\-\ signs\\:\\ 0\\.10933885334995185\ \(0\)\
+\-\ carpometacarpal\\:\\ 0\\.10608592346171057\ \(0\)\
+\-\ space\\:\\ 0\\.10413762414286915\ \(0\)\
+\-\ desired\\:\\ 0\\.1030259828784267\ \(0\)\
+\-\ to\\:\\ 0\\.09777829789875342\ \(0\)\
+\-\ tylenol\\:\\ 0\\.09160440061693564\ \(0\)\
+\-\ unexpected\\:\\ 0\\.09102078576182558\ \(0\)\
+\-\ significant\\:\\ 0\\.09032876611693484\ \(0\)\
+\-\ due\\:\\ 0\\.08992838296848255\ \(0\)\
+\-\ decreasing\\:\\ 0\\.0879608451785417\ \(0\)\
+\-\ osteophyte\\:\\ 0\\.08707583622869355\ \(0\)\
+\-\ allow\\:\\ 0\\.08584699551375784\ \(0\)\
+\-\ activities\\:\\ 0\\.08584699551375784\ \(0\)\
+\-\ digit\\:\\ 0\\.08584699551375784\ \(0\)\
+\-\ symptoms\\:\\ 0\\.08559866582043395\ \(0\)\
+\-\ wing\\:\\ 0\\.08508497285276588\ \(0\)\
+\-\ psoriatic\\:\\ 0\\.08401589564540968\ \(0\)\
+\-\ pain\\:\\ 0\\.08397347585570641\ \(0\)\
+\-\ thumb\\:\\ 0\\.08302417114306981\ \(0\)\
+\-\ and\\:\\ 0\\.08081938767616192\ \(0\)\
+\-\ were\\:\\ 0\\.0806436532295166\ \(0\)\
+\-\ ttp\\:\\ 0\\.07964897807145907\ \(0\)\
+\-\ had\\:\\ 0\\.07794740133623239\ \(0\)\
+\-\ continue\\:\\ 0\\.07673945449127681\ \(0\)\
+\-\ nsaids\\:\\ 0\\.07653926291705065\ \(0\)\
+\-\ no\\:\\ 0\\.07631193532019677\ \(0\)\
+\-\ treatment\\:\\ 0\\.07452377206294886\ \(0\)\
+\-\ hypertrophy\\:\\ 0\\.07367951390799295\ \(0\)\
+\-\ order\\:\\ 0\\.07229940138775973\ \(0\)\
+\-\ asymmetric\\:\\ 0\\.07039555397856412\ \(0\)\
+\-\ rheumatoid\\:\\ 0\\.06895075794552469\ \(0\)\
+\-\ degenerative\\:\\ 0\\.06645060444543209\ \(0\)\
+\-\ report\\:\\ 0\\.06589081736224082\ \(0\)\
+\-\ complaints\\:\\ 0\\.06441862295986914\ \(0\)\
+\-\ limited\\:\\ 0\\.06243441901553602\ \(0\)\
+\-\ formation\\:\\ 0\\.06201460421006597\ \(0\)\
+\-\ narrowing\\:\\ 0\\.06063889083844205\ \(0\)\
+\-\ additional\\:\\ 0\\.06063889083844205\ \(0\)\
+\-\ base\\:\\ 0\\.05950297069315473\ \(0\)\
+\-\ cysts\\:\\ 0\\.05927536581181116\ \(0\)\
+\-\ cortical\\:\\ 0\\.056159109423344435\ \(0\)\
+\-\ typically\\:\\ 0\\.05491357934336063\ \(0\)\
+\-\ swelling\\:\\ 0\\.0526480757035067\ \(0\)\
+\-\ finding\\:\\ 0\\.0514172463177983\ \(0\)\
+\-\ between\\:\\ 0\\.05082567966235584\ \(0\)\
+\-\ severe\\:\\ 0\\.0495187026716891\ \(0\)\
+\-\ proximal\\:\\ 0\\.0488694510351387\ \(0\)\
+\-\ loss\\:\\ 0\\.04765647253051877\ \(0\)\
+\-\ changes\\:\\ 0\\.04727487213524551\ \(0\)\
+\-\ appearance\\:\\ 0\\.04715776741597935\ \(0\)\
+\-\ distal\\:\\ 0\\.04544965383648741\ \(0\)\
+\-\ lesions\\:\\ 0\\.044924501502006664\ \(0\)\
+\-\ mild\\:\\ 0\\.04434253810463197\ \(0\)\
+\-\ patients\\:\\ 0\\.04400485780344798\ \(0\)\
+\-\ more\\:\\ 0\\.04295293241732598\ \(0\)\
+\-\ case\\:\\ 0\\.03929851166814069\ \(0\)\
+\-\ demonstrates\\:\\ 0\\.03929851166814069\ \(0\)\
+\-\ in\\:\\ 0\\.03891881332760063\ \(0\)\
+\-\ but\\:\\ 0\\.038681520811052826\ \(0\)\
+\-\ disease\\:\\ 0\\.03283534267958984\ \(0\)\
+\-\ with\\:\\ 0\\.030634181719770417\ \(0\)\
+\-\ are\\:\\ 0\\.0296821669164211\ \(0\)\
+\-\ at\\:\\ 0\\.029545912913914195\ \(0\)\
+\-\ this\\:\\ 0\\.02687891839386693\ \(0\)\
+\-\ patient\\:\\ 0\\.025442097283581485\ \(0\)\
+\-\ is\\:\\ 0\\.021421969265568688\ \(0\)\

@@ -1,82 +1,80 @@
-Texto: 
-non-contributory
-surgery only
-â€¢ mass in medial temporal lobe, invoving the cortex, and extending into both the hypthalamus and thalamus on the right.  
-â€¢ mass is hyperintense on both t2 and flair sequences.
-â€¢ there is no enhancement noted after contrast.
-dnet (dysembryoplastic neuroepithelial tumor)
-â€¢ astrocytoma
-â€¢ mesial temporal lobe cortical dysplasia
-â€¢ hamartoma
-â€¢ ganglioglioma
-â€¢ mcd (malformation of cortical development)
-â€¢ dnet (dysembryoplastic neuropithelial tumor)
-16 year old boy presents with temporal lobe seizures.  phm includes prematurity (born 1 month premature), iq of 65, and history of adhd (attention deficit disorder and hyperactivity).
-
-
-Keywords by value: 
-- dysembryoplastic: 0.29284772737904197
-- temporal: 0.2708170650637149
-- dnet: 0.26036173969318976
-- lobe: 0.20373459327438972
-- invoving: 0.18793283931965618
-- hypthalamus: 0.18793283931965618
-- mcd: 0.18793283931965618
-- hyperactivity: 0.18793283931965618
-- neuropithelial: 0.17957986097789838
-- phm: 0.17957986097789838
-- adhd: 0.17957986097789838
-- iq: 0.17365332852800705
-- cortical: 0.16873665001752458
-- mesial: 0.1547768420312788
-- neuroepithelial: 0.1385338481883527
-- prematurity: 0.1385338481883527
-- thalamus: 0.13590035553455054
-- both: 0.13106480988680078
-- attention: 0.1283883502611932
-- ganglioglioma: 0.12333858755144665
-- tumor: 0.12293483081642222
-- and: 0.12141567835541935
-- premature: 0.11590135905494575
-- hamartoma: 0.11559156405305744
-- born: 0.11219744488952038
-- deficit: 0.1111799057541982
-- 65: 0.10055735423823578
-- flair: 0.09997289009095904
-- disorder: 0.09940455116687667
-- development: 0.09715010686124173
-- seizures: 0.09593075814069871
-- cortex: 0.09569531581340532
-- sequences: 0.09401037338841564
-- hyperintense: 0.09347801871698536
-- 16: 0.09157194669981401
-- includes: 0.0913811955276768
-- malformation: 0.09063537726773667
-- dysplasia: 0.09000422569080742
-- mass: 0.08977555423724336
-- astrocytoma: 0.08871355445190163
-- boy: 0.08038839647818735
-- extending: 0.07967700379640213
-- medial: 0.07649366618322528
-- only: 0.07341700696946056
-- month: 0.07148602612751094
-- on: 0.07098338552350553
-- the: 0.07034579053312884
-- of: 0.06899177918668138
-- enhancement: 0.06763986588783136
-- t2: 0.0676099008215949
-- is: 0.06436482643273313
-- surgery: 0.0631812936612124
-- into: 0.06246920735331097
-- noted: 0.0623065366199511
-- contrast: 0.05709837346335959
-- after: 0.057008686863694556
-- presents: 0.0565310128711776
-- there: 0.04675904568316178
-- history: 0.044897717277755635
-- right: 0.03896124466873036
-- no: 0.03821469765251005
-- year: 0.03621595794863534
-- old: 0.03477985609564597
-- in: 0.029234038123950867
-- with: 0.02301100058610186
+\-\ Texto\\:\\ \ \(0\)\
+\-\ non\\-contributory\ \(73\)\
+\-\ surgery\\ only\ \(3\)\
+\-\ \\â\\€\\¢\\ mass\\ in\\ medial\\ temporal\\ lobe\\,\\ invoving\\ the\\ cortex\\,\\ and\\ extending\\ into\\ both\\ the\\ hypthalamus\\ and\\ thalamus\\ on\\ the\\ right\\.\\ \\ \ \(0\)\
+\-\ \\â\\€\\¢\\ mass\\ is\\ hyperintense\\ on\\ both\\ t2\\ and\\ flair\\ sequences\\.\ \(0\)\
+\-\ \\â\\€\\¢\\ there\\ is\\ no\\ enhancement\\ noted\\ after\\ contrast\\.\ \(0\)\
+\-\ dnet\\ \\(dysembryoplastic\\ neuroepithelial\\ tumor\\)\ \(0\)\
+\-\ \\â\\€\\¢\\ astrocytoma\ \(1\)\
+\-\ \\â\\€\\¢\\ mesial\\ temporal\\ lobe\\ cortical\\ dysplasia\ \(0\)\
+\-\ \\â\\€\\¢\\ hamartoma\ \(0\)\
+\-\ \\â\\€\\¢\\ ganglioglioma\ \(1\)\
+\-\ \\â\\€\\¢\\ mcd\\ \\(malformation\\ of\\ cortical\\ development\\)\ \(0\)\
+\-\ \\â\\€\\¢\\ dnet\\ \\(dysembryoplastic\\ neuropithelial\\ tumor\\)\ \(0\)\
+\-\ 16\\ year\\ old\\ boy\\ presents\\ with\\ temporal\\ lobe\\ seizures\\.\\ \\ phm\\ includes\\ prematurity\\ \\(born\\ 1\\ month\\ premature\\)\\,\\ iq\\ of\\ 65\\,\\ and\\ history\\ of\\ adhd\\ \\(attention\\ deficit\\ disorder\\ and\\ hyperactivity\\)\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ dysembryoplastic\\:\\ 0\\.29284772737904197\ \(0\)\
+\-\ temporal\\:\\ 0\\.2708170650637149\ \(0\)\
+\-\ dnet\\:\\ 0\\.26036173969318976\ \(0\)\
+\-\ lobe\\:\\ 0\\.20373459327438972\ \(0\)\
+\-\ invoving\\:\\ 0\\.18793283931965618\ \(0\)\
+\-\ hypthalamus\\:\\ 0\\.18793283931965618\ \(0\)\
+\-\ mcd\\:\\ 0\\.18793283931965618\ \(0\)\
+\-\ hyperactivity\\:\\ 0\\.18793283931965618\ \(0\)\
+\-\ neuropithelial\\:\\ 0\\.17957986097789838\ \(0\)\
+\-\ phm\\:\\ 0\\.17957986097789838\ \(0\)\
+\-\ adhd\\:\\ 0\\.17957986097789838\ \(0\)\
+\-\ iq\\:\\ 0\\.17365332852800705\ \(0\)\
+\-\ cortical\\:\\ 0\\.16873665001752458\ \(0\)\
+\-\ mesial\\:\\ 0\\.1547768420312788\ \(0\)\
+\-\ neuroepithelial\\:\\ 0\\.1385338481883527\ \(0\)\
+\-\ prematurity\\:\\ 0\\.1385338481883527\ \(0\)\
+\-\ thalamus\\:\\ 0\\.13590035553455054\ \(0\)\
+\-\ both\\:\\ 0\\.13106480988680078\ \(0\)\
+\-\ attention\\:\\ 0\\.1283883502611932\ \(0\)\
+\-\ ganglioglioma\\:\\ 0\\.12333858755144665\ \(0\)\
+\-\ tumor\\:\\ 0\\.12293483081642222\ \(0\)\
+\-\ and\\:\\ 0\\.12141567835541935\ \(0\)\
+\-\ premature\\:\\ 0\\.11590135905494575\ \(0\)\
+\-\ hamartoma\\:\\ 0\\.11559156405305744\ \(0\)\
+\-\ born\\:\\ 0\\.11219744488952038\ \(0\)\
+\-\ deficit\\:\\ 0\\.1111799057541982\ \(0\)\
+\-\ 65\\:\\ 0\\.10055735423823578\ \(0\)\
+\-\ flair\\:\\ 0\\.09997289009095904\ \(0\)\
+\-\ disorder\\:\\ 0\\.09940455116687667\ \(0\)\
+\-\ development\\:\\ 0\\.09715010686124173\ \(0\)\
+\-\ seizures\\:\\ 0\\.09593075814069871\ \(0\)\
+\-\ cortex\\:\\ 0\\.09569531581340532\ \(0\)\
+\-\ sequences\\:\\ 0\\.09401037338841564\ \(0\)\
+\-\ hyperintense\\:\\ 0\\.09347801871698536\ \(0\)\
+\-\ 16\\:\\ 0\\.09157194669981401\ \(0\)\
+\-\ includes\\:\\ 0\\.0913811955276768\ \(0\)\
+\-\ malformation\\:\\ 0\\.09063537726773667\ \(0\)\
+\-\ dysplasia\\:\\ 0\\.09000422569080742\ \(0\)\
+\-\ mass\\:\\ 0\\.08977555423724336\ \(0\)\
+\-\ astrocytoma\\:\\ 0\\.08871355445190163\ \(0\)\
+\-\ boy\\:\\ 0\\.08038839647818735\ \(0\)\
+\-\ extending\\:\\ 0\\.07967700379640213\ \(0\)\
+\-\ medial\\:\\ 0\\.07649366618322528\ \(0\)\
+\-\ only\\:\\ 0\\.07341700696946056\ \(0\)\
+\-\ month\\:\\ 0\\.07148602612751094\ \(0\)\
+\-\ on\\:\\ 0\\.07098338552350553\ \(0\)\
+\-\ the\\:\\ 0\\.07034579053312884\ \(0\)\
+\-\ of\\:\\ 0\\.06899177918668138\ \(0\)\
+\-\ enhancement\\:\\ 0\\.06763986588783136\ \(0\)\
+\-\ t2\\:\\ 0\\.0676099008215949\ \(0\)\
+\-\ is\\:\\ 0\\.06436482643273313\ \(0\)\
+\-\ surgery\\:\\ 0\\.0631812936612124\ \(0\)\
+\-\ into\\:\\ 0\\.06246920735331097\ \(0\)\
+\-\ noted\\:\\ 0\\.0623065366199511\ \(0\)\
+\-\ contrast\\:\\ 0\\.05709837346335959\ \(0\)\
+\-\ after\\:\\ 0\\.057008686863694556\ \(0\)\
+\-\ presents\\:\\ 0\\.0565310128711776\ \(0\)\
+\-\ there\\:\\ 0\\.04675904568316178\ \(0\)\
+\-\ history\\:\\ 0\\.044897717277755635\ \(0\)\
+\-\ right\\:\\ 0\\.03896124466873036\ \(0\)\
+\-\ no\\:\\ 0\\.03821469765251005\ \(0\)\
+\-\ year\\:\\ 0\\.03621595794863534\ \(0\)\
+\-\ old\\:\\ 0\\.03477985609564597\ \(0\)\
+\-\ in\\:\\ 0\\.029234038123950867\ \(0\)\
+\-\ with\\:\\ 0\\.02301100058610186\ \(0\)\

@@ -1,92 +1,90 @@
-Texto: 
-temperature 102.5 f
-lower abdominal pain.
-decreased bowel sounds on exam.
-abnormally high wbc count of 13.5.
-surgical resection of appendix and intravenous antibiotics.
-ct images of the abdomen demonstrate enlarged, non-contrast filled appendix with enhancing wall. surrounding inflammatory change is present within the mesentery.
-acute appendicitis
-acute appendicitis
-colitis
-diverticulitis
-epiploic appendagitis
-infectious enteritis
-inflammatory bowel disease
-mesenteric adenitis
-(female)-pelvic inflammatory disease
-(female)-ovarian torsion
-48 year old man presents to emergency room with 4 days of increasing abdominal pain and increased temperature. reports having "chills" throughout the day prior to presentation.
-see factoid
-
-
-Keywords by value: 
-- temperature: 0.2719480044488985
-- inflammatory: 0.27089593130774064
-- appendix: 0.24078928922979678
-- appendicitis: 0.22656036603287466
-- bowel: 0.1714002140370379
-- appendagitis: 0.1621222445648696
-- adenitis: 0.1608565224281439
-- enteritis: 0.15965573835515876
-- epiploic: 0.15638388934609432
-- abdominal: 0.14607319488211093
-- mesentery: 0.1452541459799957
-- acute: 0.14448012651679581
-- torsion: 0.1331694373319587
-- abnormally: 0.1327948668295073
-- colitis: 0.13206323988044721
-- female: 0.12887846987667192
-- diverticulitis: 0.1255093317188255
-- intravenous: 0.12174560538871954
-- chills: 0.12151496158249975
-- 48: 0.11565716652826687
-- mesenteric: 0.11530246039439586
-- having: 0.1151271025934254
-- disease: 0.11211074056843359
-- count: 0.11025531610046709
-- room: 0.10928264742043975
-- filled: 0.10745075120797652
-- infectious: 0.10745075120797652
-- increasing: 0.10517380196080894
-- of: 0.10453278933532502
-- reports: 0.10384205959659641
-- sounds: 0.10309881758554297
-- change: 0.10119287049130883
-- emergency: 0.09907577609601012
-- antibiotics: 0.09838209106282018
-- throughout: 0.09821183462534064
-- pain: 0.0955710909649456
-- wbc: 0.09438604572115775
-- factoid: 0.09326101690286345
-- presentation: 0.09192674374506811
-- enlarged: 0.09103603250936912
-- surrounding: 0.08906159298572829
-- resection: 0.08560091128973024
-- day: 0.08506272305948626
-- days: 0.08453662997648488
-- enhancing: 0.08365487464165827
-- see: 0.0830701525239924
-- decreased: 0.08271745045560892
-- abdomen: 0.08148168668696007
-- wall: 0.08123395784648652
-- the: 0.07993823817612912
-- high: 0.07589541654950287
-- prior: 0.07471589436644649
-- increased: 0.07221211082884724
-- man: 0.07069776221046783
-- demonstrate: 0.06942377231558897
-- present: 0.06852373855181712
-- lower: 0.06823911307650363
-- exam: 0.06722412957158595
-- to: 0.06676950197181308
-- surgical: 0.06490482193177155
-- presents: 0.06423965864888291
-- images: 0.06177116524363864
-- within: 0.06150443060371433
-- and: 0.05518883413568828
-- with: 0.052297623826022044
-- ct: 0.05083995203260523
-- year: 0.041154415215666526
-- on: 0.040331388243150926
-- old: 0.03952248456140257
-- is: 0.03657085083948223
+\-\ Texto\\:\\ \ \(0\)\
+\-\ temperature\\ 102\\.5\\ f\ \(0\)\
+\-\ lower\\ abdominal\\ pain\\.\ \(9\)\
+\-\ decreased\\ bowel\\ sounds\\ on\\ exam\\.\ \(0\)\
+\-\ abnormally\\ high\\ wbc\\ count\\ of\\ 13\\.5\\.\ \(0\)\
+\-\ surgical\\ resection\\ of\\ appendix\\ and\\ intravenous\\ antibiotics\\.\ \(0\)\
+\-\ ct\\ images\\ of\\ the\\ abdomen\\ demonstrate\\ enlarged\\,\\ non\\-contrast\\ filled\\ appendix\\ with\\ enhancing\\ wall\\.\\ surrounding\\ inflammatory\\ change\\ is\\ present\\ within\\ the\\ mesentery\\.\ \(0\)\
+\-\ acute\\ appendicitis\ \(36\)\
+\-\ acute\\ appendicitis\ \(36\)\
+\-\ colitis\ \(153\)\
+\-\ diverticulitis\ \(62\)\
+\-\ epiploic\\ appendagitis\ \(11\)\
+\-\ infectious\\ enteritis\ \(2\)\
+\-\ inflammatory\\ bowel\\ disease\ \(31\)\
+\-\ mesenteric\\ adenitis\ \(1\)\
+\-\ \\(female\\)\\-pelvic\\ inflammatory\\ disease\ \(0\)\
+\-\ \\(female\\)\\-ovarian\\ torsion\ \(0\)\
+\-\ 48\\ year\\ old\\ man\\ presents\\ to\\ emergency\\ room\\ with\\ 4\\ days\\ of\\ increasing\\ abdominal\\ pain\\ and\\ increased\\ temperature\\.\\ reports\\ having\\ \\"chills\\"\\ throughout\\ the\\ day\\ prior\\ to\\ presentation\\.\ \(0\)\
+\-\ see\\ factoid\ \(116\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ temperature\\:\\ 0\\.2719480044488985\ \(0\)\
+\-\ inflammatory\\:\\ 0\\.27089593130774064\ \(0\)\
+\-\ appendix\\:\\ 0\\.24078928922979678\ \(0\)\
+\-\ appendicitis\\:\\ 0\\.22656036603287466\ \(0\)\
+\-\ bowel\\:\\ 0\\.1714002140370379\ \(0\)\
+\-\ appendagitis\\:\\ 0\\.1621222445648696\ \(0\)\
+\-\ adenitis\\:\\ 0\\.1608565224281439\ \(0\)\
+\-\ enteritis\\:\\ 0\\.15965573835515876\ \(0\)\
+\-\ epiploic\\:\\ 0\\.15638388934609432\ \(0\)\
+\-\ abdominal\\:\\ 0\\.14607319488211093\ \(0\)\
+\-\ mesentery\\:\\ 0\\.1452541459799957\ \(0\)\
+\-\ acute\\:\\ 0\\.14448012651679581\ \(0\)\
+\-\ torsion\\:\\ 0\\.1331694373319587\ \(0\)\
+\-\ abnormally\\:\\ 0\\.1327948668295073\ \(0\)\
+\-\ colitis\\:\\ 0\\.13206323988044721\ \(0\)\
+\-\ female\\:\\ 0\\.12887846987667192\ \(0\)\
+\-\ diverticulitis\\:\\ 0\\.1255093317188255\ \(0\)\
+\-\ intravenous\\:\\ 0\\.12174560538871954\ \(0\)\
+\-\ chills\\:\\ 0\\.12151496158249975\ \(0\)\
+\-\ 48\\:\\ 0\\.11565716652826687\ \(0\)\
+\-\ mesenteric\\:\\ 0\\.11530246039439586\ \(0\)\
+\-\ having\\:\\ 0\\.1151271025934254\ \(0\)\
+\-\ disease\\:\\ 0\\.11211074056843359\ \(0\)\
+\-\ count\\:\\ 0\\.11025531610046709\ \(0\)\
+\-\ room\\:\\ 0\\.10928264742043975\ \(0\)\
+\-\ filled\\:\\ 0\\.10745075120797652\ \(0\)\
+\-\ infectious\\:\\ 0\\.10745075120797652\ \(0\)\
+\-\ increasing\\:\\ 0\\.10517380196080894\ \(0\)\
+\-\ of\\:\\ 0\\.10453278933532502\ \(0\)\
+\-\ reports\\:\\ 0\\.10384205959659641\ \(0\)\
+\-\ sounds\\:\\ 0\\.10309881758554297\ \(0\)\
+\-\ change\\:\\ 0\\.10119287049130883\ \(0\)\
+\-\ emergency\\:\\ 0\\.09907577609601012\ \(0\)\
+\-\ antibiotics\\:\\ 0\\.09838209106282018\ \(0\)\
+\-\ throughout\\:\\ 0\\.09821183462534064\ \(0\)\
+\-\ pain\\:\\ 0\\.0955710909649456\ \(0\)\
+\-\ wbc\\:\\ 0\\.09438604572115775\ \(0\)\
+\-\ factoid\\:\\ 0\\.09326101690286345\ \(0\)\
+\-\ presentation\\:\\ 0\\.09192674374506811\ \(0\)\
+\-\ enlarged\\:\\ 0\\.09103603250936912\ \(0\)\
+\-\ surrounding\\:\\ 0\\.08906159298572829\ \(0\)\
+\-\ resection\\:\\ 0\\.08560091128973024\ \(0\)\
+\-\ day\\:\\ 0\\.08506272305948626\ \(0\)\
+\-\ days\\:\\ 0\\.08453662997648488\ \(0\)\
+\-\ enhancing\\:\\ 0\\.08365487464165827\ \(0\)\
+\-\ see\\:\\ 0\\.0830701525239924\ \(0\)\
+\-\ decreased\\:\\ 0\\.08271745045560892\ \(0\)\
+\-\ abdomen\\:\\ 0\\.08148168668696007\ \(0\)\
+\-\ wall\\:\\ 0\\.08123395784648652\ \(0\)\
+\-\ the\\:\\ 0\\.07993823817612912\ \(0\)\
+\-\ high\\:\\ 0\\.07589541654950287\ \(0\)\
+\-\ prior\\:\\ 0\\.07471589436644649\ \(0\)\
+\-\ increased\\:\\ 0\\.07221211082884724\ \(0\)\
+\-\ man\\:\\ 0\\.07069776221046783\ \(0\)\
+\-\ demonstrate\\:\\ 0\\.06942377231558897\ \(0\)\
+\-\ present\\:\\ 0\\.06852373855181712\ \(0\)\
+\-\ lower\\:\\ 0\\.06823911307650363\ \(0\)\
+\-\ exam\\:\\ 0\\.06722412957158595\ \(0\)\
+\-\ to\\:\\ 0\\.06676950197181308\ \(0\)\
+\-\ surgical\\:\\ 0\\.06490482193177155\ \(0\)\
+\-\ presents\\:\\ 0\\.06423965864888291\ \(0\)\
+\-\ images\\:\\ 0\\.06177116524363864\ \(0\)\
+\-\ within\\:\\ 0\\.06150443060371433\ \(0\)\
+\-\ and\\:\\ 0\\.05518883413568828\ \(0\)\
+\-\ with\\:\\ 0\\.052297623826022044\ \(0\)\
+\-\ ct\\:\\ 0\\.05083995203260523\ \(0\)\
+\-\ year\\:\\ 0\\.041154415215666526\ \(0\)\
+\-\ on\\:\\ 0\\.040331388243150926\ \(0\)\
+\-\ old\\:\\ 0\\.03952248456140257\ \(0\)\
+\-\ is\\:\\ 0\\.03657085083948223\ \(0\)\

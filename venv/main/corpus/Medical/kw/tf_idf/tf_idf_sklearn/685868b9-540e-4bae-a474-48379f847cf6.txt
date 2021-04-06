@@ -1,85 +1,81 @@
-Texto: 
-b/l breast prostheses.
-mild tenderness to palpation at/above right knee.
-no further radiographic analysis required.
-tc99m-mdp bone scan (25.0 mci iv): intense radiotracer uptake in the distal right femur involving medial and lateral condyles anteriorly and posteriorly.  no involvment of proximal right tibia.  breast prosthesis attenuation artifact.  plain films recommended.
-
-plain films:  expansion of the distal femoral cortex with coarsened trabecular markings.  (no osteoblastic regions identified.)
-paget's disease
-bone scan:  paget's disease, fibrous dysplasia, less likely metastatic disease.
-
-plain films:  paget's disease (no radiographic evidence of extremely unlikely concurrent breast cancer recurrence).
-66 y/o aaf s/p mrm 1995 for breast cancer.  presents for bone scan to r/o recurrence.
-
-
-Keywords by value: 
-- paget: 0.30800376381381944
-- breast: 0.30072622302432367
-- films: 0.24596320085920884
-- plain: 0.20492140700701236
-- scan: 0.18427222861540865
-- disease: 0.17383534516644125
-- recurrence: 0.1709583830557295
-- bone: 0.16947000305985982
-- mrm: 0.16556937147164283
-- radiographic: 0.1536237442367972
-- prostheses: 0.14040879139149498
-- coarsened: 0.13827108558829068
-- cancer: 0.1379185689257769
-- involvment: 0.1363588425857635
-- no: 0.13466903377207018
-- aaf: 0.13462900837545713
-- condyles: 0.13025203230672902
-- prosthesis: 0.1267281934407628
-- concurrent: 0.12470950132338639
-- distal: 0.12030872251673042
-- mci: 0.11833179762657765
-- trabecular: 0.1170348515838449
-- osteoblastic: 0.11582443501158572
-- 1995: 0.11165776861997934
-- extremely: 0.10609076086683956
-- markings: 0.1038392645839765
-- right: 0.10297490552860311
-- artifact: 0.10003293718179129
-- intense: 0.09773245430494203
-- 66: 0.09709556362213186
-- analysis: 0.09627971741677854
-- expansion: 0.09438742991054844
-- anteriorly: 0.09385618646147055
-- unlikely: 0.0917184806582663
-- posteriorly: 0.09125897454390257
-- radiotracer: 0.09037345638330292
-- regions: 0.08885435919432319
-- tibia: 0.08846121338077573
-- femur: 0.08493737451480952
-- cortex: 0.08430784821516137
-- recommended: 0.08235440310174125
-- fibrous: 0.08042364962126711
-- uptake: 0.07960963328152545
-- dysplasia: 0.07929398146362308
-- attenuation: 0.07921591888283507
-- femoral: 0.07694885029352225
-- knee: 0.07421011201836007
-- iv: 0.07397516346810737
-- required: 0.07391689849975752
-- identified: 0.0734007635654941
-- involving: 0.07251793801257743
-- less: 0.07043416842158988
-- palpation: 0.06982047201932137
-- further: 0.06743178815706163
-- medial: 0.06739113971441828
-- tenderness: 0.06492705115105132
-- proximal: 0.06468059410621288
-- for: 0.06275919254925791
-- likely: 0.061867851908761456
-- of: 0.06078195571355083
-- evidence: 0.05876462173318629
-- mild: 0.05868905109498205
-- metastatic: 0.05678183635735854
-- to: 0.05176533204138693
-- lateral: 0.051380398620476476
-- presents: 0.049803984783181376
-- and: 0.04278702460918411
-- the: 0.04131656240037731
-- in: 0.025755271592144458
-- with: 0.020272757639202044
+\-\ Texto\\:\\ \ \(0\)\
+\-\ b\\/l\\ breast\\ prostheses\\.\ \(0\)\
+\-\ mild\\ tenderness\\ to\\ palpation\\ at\\/above\\ right\\ knee\\.\ \(0\)\
+\-\ no\\ further\\ radiographic\\ analysis\\ required\\.\ \(0\)\
+\-\ tc99m\\-mdp\\ bone\\ scan\\ \\(25\\.0\\ mci\\ iv\\)\\:\\ intense\\ radiotracer\\ uptake\\ in\\ the\\ distal\\ right\\ femur\\ involving\\ medial\\ and\\ lateral\\ condyles\\ anteriorly\\ and\\ posteriorly\\.\\ \\ no\\ involvment\\ of\\ proximal\\ right\\ tibia\\.\\ \\ breast\\ prosthesis\\ attenuation\\ artifact\\.\\ \\ plain\\ films\\ recommended\\.\ \(0\)\
+\-\ plain\\ films\\:\\ \\ expansion\\ of\\ the\\ distal\\ femoral\\ cortex\\ with\\ coarsened\\ trabecular\\ markings\\.\\ \\ \\(no\\ osteoblastic\\ regions\\ identified\\.\\)\ \(0\)\
+\-\ paget\\'s\\ disease\ \(1\)\
+\-\ bone\\ scan\\:\\ \\ paget\\'s\\ disease\\,\\ fibrous\\ dysplasia\\,\\ less\\ likely\\ metastatic\\ disease\\.\ \(0\)\
+\-\ plain\\ films\\:\\ \\ paget\\'s\\ disease\\ \\(no\\ radiographic\\ evidence\\ of\\ extremely\\ unlikely\\ concurrent\\ breast\\ cancer\\ recurrence\\)\\.\ \(0\)\
+\-\ 66\\ y\\/o\\ aaf\\ s\\/p\\ mrm\\ 1995\\ for\\ breast\\ cancer\\.\\ \\ presents\\ for\\ bone\\ scan\\ to\\ r\\/o\\ recurrence\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ paget\\:\\ 0\\.30800376381381944\ \(0\)\
+\-\ breast\\:\\ 0\\.30072622302432367\ \(0\)\
+\-\ films\\:\\ 0\\.24596320085920884\ \(0\)\
+\-\ plain\\:\\ 0\\.20492140700701236\ \(0\)\
+\-\ scan\\:\\ 0\\.18427222861540865\ \(0\)\
+\-\ disease\\:\\ 0\\.17383534516644125\ \(0\)\
+\-\ recurrence\\:\\ 0\\.1709583830557295\ \(0\)\
+\-\ bone\\:\\ 0\\.16947000305985982\ \(0\)\
+\-\ mrm\\:\\ 0\\.16556937147164283\ \(0\)\
+\-\ radiographic\\:\\ 0\\.1536237442367972\ \(0\)\
+\-\ prostheses\\:\\ 0\\.14040879139149498\ \(0\)\
+\-\ coarsened\\:\\ 0\\.13827108558829068\ \(0\)\
+\-\ cancer\\:\\ 0\\.1379185689257769\ \(0\)\
+\-\ involvment\\:\\ 0\\.1363588425857635\ \(0\)\
+\-\ no\\:\\ 0\\.13466903377207018\ \(0\)\
+\-\ aaf\\:\\ 0\\.13462900837545713\ \(0\)\
+\-\ condyles\\:\\ 0\\.13025203230672902\ \(0\)\
+\-\ prosthesis\\:\\ 0\\.1267281934407628\ \(0\)\
+\-\ concurrent\\:\\ 0\\.12470950132338639\ \(0\)\
+\-\ distal\\:\\ 0\\.12030872251673042\ \(0\)\
+\-\ mci\\:\\ 0\\.11833179762657765\ \(0\)\
+\-\ trabecular\\:\\ 0\\.1170348515838449\ \(0\)\
+\-\ osteoblastic\\:\\ 0\\.11582443501158572\ \(0\)\
+\-\ 1995\\:\\ 0\\.11165776861997934\ \(0\)\
+\-\ extremely\\:\\ 0\\.10609076086683956\ \(0\)\
+\-\ markings\\:\\ 0\\.1038392645839765\ \(0\)\
+\-\ right\\:\\ 0\\.10297490552860311\ \(0\)\
+\-\ artifact\\:\\ 0\\.10003293718179129\ \(0\)\
+\-\ intense\\:\\ 0\\.09773245430494203\ \(0\)\
+\-\ 66\\:\\ 0\\.09709556362213186\ \(0\)\
+\-\ analysis\\:\\ 0\\.09627971741677854\ \(0\)\
+\-\ expansion\\:\\ 0\\.09438742991054844\ \(0\)\
+\-\ anteriorly\\:\\ 0\\.09385618646147055\ \(0\)\
+\-\ unlikely\\:\\ 0\\.0917184806582663\ \(0\)\
+\-\ posteriorly\\:\\ 0\\.09125897454390257\ \(0\)\
+\-\ radiotracer\\:\\ 0\\.09037345638330292\ \(0\)\
+\-\ regions\\:\\ 0\\.08885435919432319\ \(0\)\
+\-\ tibia\\:\\ 0\\.08846121338077573\ \(0\)\
+\-\ femur\\:\\ 0\\.08493737451480952\ \(0\)\
+\-\ cortex\\:\\ 0\\.08430784821516137\ \(0\)\
+\-\ recommended\\:\\ 0\\.08235440310174125\ \(0\)\
+\-\ fibrous\\:\\ 0\\.08042364962126711\ \(0\)\
+\-\ uptake\\:\\ 0\\.07960963328152545\ \(0\)\
+\-\ dysplasia\\:\\ 0\\.07929398146362308\ \(0\)\
+\-\ attenuation\\:\\ 0\\.07921591888283507\ \(0\)\
+\-\ femoral\\:\\ 0\\.07694885029352225\ \(0\)\
+\-\ knee\\:\\ 0\\.07421011201836007\ \(0\)\
+\-\ iv\\:\\ 0\\.07397516346810737\ \(0\)\
+\-\ required\\:\\ 0\\.07391689849975752\ \(0\)\
+\-\ identified\\:\\ 0\\.0734007635654941\ \(0\)\
+\-\ involving\\:\\ 0\\.07251793801257743\ \(0\)\
+\-\ less\\:\\ 0\\.07043416842158988\ \(0\)\
+\-\ palpation\\:\\ 0\\.06982047201932137\ \(0\)\
+\-\ further\\:\\ 0\\.06743178815706163\ \(0\)\
+\-\ medial\\:\\ 0\\.06739113971441828\ \(0\)\
+\-\ tenderness\\:\\ 0\\.06492705115105132\ \(0\)\
+\-\ proximal\\:\\ 0\\.06468059410621288\ \(0\)\
+\-\ for\\:\\ 0\\.06275919254925791\ \(0\)\
+\-\ likely\\:\\ 0\\.061867851908761456\ \(0\)\
+\-\ of\\:\\ 0\\.06078195571355083\ \(0\)\
+\-\ evidence\\:\\ 0\\.05876462173318629\ \(0\)\
+\-\ mild\\:\\ 0\\.05868905109498205\ \(0\)\
+\-\ metastatic\\:\\ 0\\.05678183635735854\ \(0\)\
+\-\ to\\:\\ 0\\.05176533204138693\ \(0\)\
+\-\ lateral\\:\\ 0\\.051380398620476476\ \(0\)\
+\-\ presents\\:\\ 0\\.049803984783181376\ \(0\)\
+\-\ and\\:\\ 0\\.04278702460918411\ \(0\)\
+\-\ the\\:\\ 0\\.04131656240037731\ \(0\)\
+\-\ in\\:\\ 0\\.025755271592144458\ \(0\)\
+\-\ with\\:\\ 0\\.020272757639202044\ \(0\)\

@@ -1,67 +1,65 @@
-Texto: 
-physical exam reveal swelling of the dorsum of hand with ttp.
-pain control and immobilization.
-an oblique fracture is present through the ulnar aspect of the third metacarpal which extends to the physis, consistent with a sprial salter-harris ii fracture. there is minimal displacement of the fracture fragments, less than 2 mm at the midshaft. no other fractures are evident. soft tissue structures are remarkable for
- extensive swelling on the dorsum of the hand.
-spiral salter-harris ii fracture
-salter-harris ii fracture
-spiral fracture
-13-year-old male with fall on hand.
-
-
-Keywords by value: 
-- fracture: 0.3639022206492646
-- spiral: 0.25517165756180216
-- ii: 0.2524173372645886
-- hand: 0.25025848121580235
-- dorsum: 0.2499423864843186
-- sprial: 0.17066208196403782
-- the: 0.17034963643751302
-- swelling: 0.14365014777148957
-- midshaft: 0.14252413433825792
-- metacarpal: 0.11938705236174126
-- physis: 0.11461858447196088
-- ttp: 0.1086610224298392
-- remarkable: 0.10525019102773547
-- of: 0.10441922335151571
-- immobilization: 0.10414941595361456
-- fragments: 0.10212498012103641
-- ulnar: 0.10141894240353783
-- oblique: 0.09242521188392237
-- evident: 0.09172446407994939
-- control: 0.09118217164467435
-- reveal: 0.08976716361115909
-- fall: 0.08891941693243145
-- extends: 0.0878830288074965
-- displacement: 0.08700765138835824
-- extensive: 0.08222315512770575
-- minimal: 0.08141316805173363
-- third: 0.08125529556160305
-- are: 0.08098772095174431
-- structures: 0.08018598858415078
-- fractures: 0.07889528518776115
-- mm: 0.0763712443977757
-- less: 0.07260063692573093
-- aspect: 0.06884653389150873
-- on: 0.06446011459281112
-- through: 0.06352547960048716
-- with: 0.0626889682875519
-- than: 0.060494254217054115
-- is: 0.058449791553355564
-- physical: 0.05786385337870846
-- consistent: 0.05786385337870846
-- soft: 0.056813316121962346
-- tissue: 0.05598079704299361
-- other: 0.05541932101580934
-- present: 0.05475943467093602
-- exam: 0.05372087701843848
-- which: 0.04852481725669522
-- male: 0.04751405886636545
-- there: 0.04246195670660154
-- an: 0.04080783201073577
-- at: 0.040307976117013526
-- pain: 0.038186904441645075
-- no: 0.03470282195817104
-- for: 0.03234479411149029
-- to: 0.02667878503499628
-- and: 0.022051550464756462
+\-\ Texto\\:\\ \ \(0\)\
+\-\ physical\\ exam\\ reveal\\ swelling\\ of\\ the\\ dorsum\\ of\\ hand\\ with\\ ttp\\.\ \(0\)\
+\-\ pain\\ control\\ and\\ immobilization\\.\ \(0\)\
+\-\ an\\ oblique\\ fracture\\ is\\ present\\ through\\ the\\ ulnar\\ aspect\\ of\\ the\\ third\\ metacarpal\\ which\\ extends\\ to\\ the\\ physis\\,\\ consistent\\ with\\ a\\ sprial\\ salter\\-harris\\ ii\\ fracture\\.\\ there\\ is\\ minimal\\ displacement\\ of\\ the\\ fracture\\ fragments\\,\\ less\\ than\\ 2\\ mm\\ at\\ the\\ midshaft\\.\\ no\\ other\\ fractures\\ are\\ evident\\.\\ soft\\ tissue\\ structures\\ are\\ remarkable\\ for\ \(0\)\
+\-\ \\ extensive\\ swelling\\ on\\ the\\ dorsum\\ of\\ the\\ hand\\.\ \(1\)\
+\-\ spiral\\ salter\\-harris\\ ii\\ fracture\ \(0\)\
+\-\ salter\\-harris\\ ii\\ fracture\ \(0\)\
+\-\ spiral\\ fracture\ \(17\)\
+\-\ 13\\-year\\-old\\ male\\ with\\ fall\\ on\\ hand\\.\ \(1\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ fracture\\:\\ 0\\.3639022206492646\ \(0\)\
+\-\ spiral\\:\\ 0\\.25517165756180216\ \(0\)\
+\-\ ii\\:\\ 0\\.2524173372645886\ \(0\)\
+\-\ hand\\:\\ 0\\.25025848121580235\ \(0\)\
+\-\ dorsum\\:\\ 0\\.2499423864843186\ \(0\)\
+\-\ sprial\\:\\ 0\\.17066208196403782\ \(0\)\
+\-\ the\\:\\ 0\\.17034963643751302\ \(0\)\
+\-\ swelling\\:\\ 0\\.14365014777148957\ \(0\)\
+\-\ midshaft\\:\\ 0\\.14252413433825792\ \(0\)\
+\-\ metacarpal\\:\\ 0\\.11938705236174126\ \(0\)\
+\-\ physis\\:\\ 0\\.11461858447196088\ \(0\)\
+\-\ ttp\\:\\ 0\\.1086610224298392\ \(0\)\
+\-\ remarkable\\:\\ 0\\.10525019102773547\ \(0\)\
+\-\ of\\:\\ 0\\.10441922335151571\ \(0\)\
+\-\ immobilization\\:\\ 0\\.10414941595361456\ \(0\)\
+\-\ fragments\\:\\ 0\\.10212498012103641\ \(0\)\
+\-\ ulnar\\:\\ 0\\.10141894240353783\ \(0\)\
+\-\ oblique\\:\\ 0\\.09242521188392237\ \(0\)\
+\-\ evident\\:\\ 0\\.09172446407994939\ \(0\)\
+\-\ control\\:\\ 0\\.09118217164467435\ \(0\)\
+\-\ reveal\\:\\ 0\\.08976716361115909\ \(0\)\
+\-\ fall\\:\\ 0\\.08891941693243145\ \(0\)\
+\-\ extends\\:\\ 0\\.0878830288074965\ \(0\)\
+\-\ displacement\\:\\ 0\\.08700765138835824\ \(0\)\
+\-\ extensive\\:\\ 0\\.08222315512770575\ \(0\)\
+\-\ minimal\\:\\ 0\\.08141316805173363\ \(0\)\
+\-\ third\\:\\ 0\\.08125529556160305\ \(0\)\
+\-\ are\\:\\ 0\\.08098772095174431\ \(0\)\
+\-\ structures\\:\\ 0\\.08018598858415078\ \(0\)\
+\-\ fractures\\:\\ 0\\.07889528518776115\ \(0\)\
+\-\ mm\\:\\ 0\\.0763712443977757\ \(0\)\
+\-\ less\\:\\ 0\\.07260063692573093\ \(0\)\
+\-\ aspect\\:\\ 0\\.06884653389150873\ \(0\)\
+\-\ on\\:\\ 0\\.06446011459281112\ \(0\)\
+\-\ through\\:\\ 0\\.06352547960048716\ \(0\)\
+\-\ with\\:\\ 0\\.0626889682875519\ \(0\)\
+\-\ than\\:\\ 0\\.060494254217054115\ \(0\)\
+\-\ is\\:\\ 0\\.058449791553355564\ \(0\)\
+\-\ physical\\:\\ 0\\.05786385337870846\ \(0\)\
+\-\ consistent\\:\\ 0\\.05786385337870846\ \(0\)\
+\-\ soft\\:\\ 0\\.056813316121962346\ \(0\)\
+\-\ tissue\\:\\ 0\\.05598079704299361\ \(0\)\
+\-\ other\\:\\ 0\\.05541932101580934\ \(0\)\
+\-\ present\\:\\ 0\\.05475943467093602\ \(0\)\
+\-\ exam\\:\\ 0\\.05372087701843848\ \(0\)\
+\-\ which\\:\\ 0\\.04852481725669522\ \(0\)\
+\-\ male\\:\\ 0\\.04751405886636545\ \(0\)\
+\-\ there\\:\\ 0\\.04246195670660154\ \(0\)\
+\-\ an\\:\\ 0\\.04080783201073577\ \(0\)\
+\-\ at\\:\\ 0\\.040307976117013526\ \(0\)\
+\-\ pain\\:\\ 0\\.038186904441645075\ \(0\)\
+\-\ no\\:\\ 0\\.03470282195817104\ \(0\)\
+\-\ for\\:\\ 0\\.03234479411149029\ \(0\)\
+\-\ to\\:\\ 0\\.02667878503499628\ \(0\)\
+\-\ and\\:\\ 0\\.022051550464756462\ \(0\)\

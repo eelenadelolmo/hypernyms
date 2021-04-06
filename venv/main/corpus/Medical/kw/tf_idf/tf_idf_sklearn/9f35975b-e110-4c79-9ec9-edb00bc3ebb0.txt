@@ -1,80 +1,78 @@
-Texto: 
-pelvic examination revealed mass and tenderness to palpation in right adnexal region.
-afebrile, normal cbc.
-4.7cm x 6cm heterogeneous complex cystic mass in the adnexal region that appears to arise from the ovary. no internal doppler signal. uterus and contralateral ovary have normal sonographic appearance.
-endometrioma
-cystic neoplasm
-dermoid cyst
-endometrioma
-tubo-ovarian abscess
-28 y/o female with pain in adnexal region and dysmennorhea. pt had been diagnosed 9 months earlier with complex ovarian cyst but patient was not compliant with suggested follow-up. ultrasound was ordered for reevaluation when she presented to the emergency dept secondary to pain.
-
-
-Keywords by value: 
-- adnexal: 0.36340511390514574
-- endometrioma: 0.2642553252589141
-- ovary: 0.237714218375816
-- region: 0.2179774700899023
-- ovarian: 0.20697671357493952
-- dysmennorhea: 0.19426043099250534
-- complex: 0.1871851716427266
-- reevaluation: 0.17950013720462896
-- compliant: 0.1675833413639707
-- dept: 0.16223170047355875
-- cystic: 0.1463171009997081
-- cyst: 0.14014562187645335
-- 6cm: 0.13883718832014727
-- contralateral: 0.12148129929922578
-- to: 0.12147120718583222
-- suggested: 0.11367761638659739
-- arise: 0.11116947344340353
-- earlier: 0.11095545553490585
-- sonographic: 0.10931660074439452
-- doppler: 0.10873315047604556
-- ordered: 0.1067210055113494
-- uterus: 0.10654717105498131
-- afebrile: 0.10488268327594019
-- dermoid: 0.1026070750537043
-- cbc: 0.10134997945560252
-- 28: 0.10081423792490846
-- normal: 0.09919253816822694
-- pelvic: 0.09495434850168977
-- mass: 0.09279824602157156
-- in: 0.0906549946167293
-- emergency: 0.09012238948806382
-- appears: 0.08895420249808669
-- diagnosed: 0.0879911520062718
-- heterogeneous: 0.08791884428773043
-- pt: 0.08741945048451047
-- pain: 0.08693441952345062
-- was: 0.08466850190877284
-- neoplasm: 0.08292306527423812
-- palpation: 0.08191946895743658
-- internal: 0.08186507658393055
-- revealed: 0.07964864508810567
-- abscess: 0.07800072683601898
-- examination: 0.07773060140433503
-- tenderness: 0.07617808068949433
-- and: 0.07530220505992508
-- ultrasound: 0.07492628396982581
-- when: 0.07337621443227126
-- appearance: 0.07323085821839544
-- the: 0.07271429323871673
-- she: 0.07230948377154246
-- secondary: 0.071999613430934
-- with: 0.07135730361347342
-- presented: 0.07083568425446952
-- been: 0.0707710571862007
-- months: 0.07070662566155375
-- signal: 0.06885911481644436
-- have: 0.060682007666828186
-- had: 0.06052189711818079
-- but: 0.060068173736873544
-- female: 0.05861592064439487
-- that: 0.05271436274670158
-- from: 0.04824359270962665
-- not: 0.047954319886767995
-- right: 0.04027304758844452
-- patient: 0.03950879613357723
-- no: 0.039501364759343786
-- for: 0.036817279926222767
+\-\ Texto\\:\\ \ \(0\)\
+\-\ pelvic\\ examination\\ revealed\\ mass\\ and\\ tenderness\\ to\\ palpation\\ in\\ right\\ adnexal\\ region\\.\ \(0\)\
+\-\ afebrile\\,\\ normal\\ cbc\\.\ \(0\)\
+\-\ 4\\.7cm\\ x\\ 6cm\\ heterogeneous\\ complex\\ cystic\\ mass\\ in\\ the\\ adnexal\\ region\\ that\\ appears\\ to\\ arise\\ from\\ the\\ ovary\\.\\ no\\ internal\\ doppler\\ signal\\.\\ uterus\\ and\\ contralateral\\ ovary\\ have\\ normal\\ sonographic\\ appearance\\.\ \(0\)\
+\-\ endometrioma\ \(17\)\
+\-\ cystic\\ neoplasm\ \(15\)\
+\-\ dermoid\\ cyst\ \(104\)\
+\-\ endometrioma\ \(17\)\
+\-\ tubo\\-ovarian\\ abscess\ \(4\)\
+\-\ 28\\ y\\/o\\ female\\ with\\ pain\\ in\\ adnexal\\ region\\ and\\ dysmennorhea\\.\\ pt\\ had\\ been\\ diagnosed\\ 9\\ months\\ earlier\\ with\\ complex\\ ovarian\\ cyst\\ but\\ patient\\ was\\ not\\ compliant\\ with\\ suggested\\ follow\\-up\\.\\ ultrasound\\ was\\ ordered\\ for\\ reevaluation\\ when\\ she\\ presented\\ to\\ the\\ emergency\\ dept\\ secondary\\ to\\ pain\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ adnexal\\:\\ 0\\.36340511390514574\ \(0\)\
+\-\ endometrioma\\:\\ 0\\.2642553252589141\ \(0\)\
+\-\ ovary\\:\\ 0\\.237714218375816\ \(0\)\
+\-\ region\\:\\ 0\\.2179774700899023\ \(0\)\
+\-\ ovarian\\:\\ 0\\.20697671357493952\ \(0\)\
+\-\ dysmennorhea\\:\\ 0\\.19426043099250534\ \(0\)\
+\-\ complex\\:\\ 0\\.1871851716427266\ \(0\)\
+\-\ reevaluation\\:\\ 0\\.17950013720462896\ \(0\)\
+\-\ compliant\\:\\ 0\\.1675833413639707\ \(0\)\
+\-\ dept\\:\\ 0\\.16223170047355875\ \(0\)\
+\-\ cystic\\:\\ 0\\.1463171009997081\ \(0\)\
+\-\ cyst\\:\\ 0\\.14014562187645335\ \(0\)\
+\-\ 6cm\\:\\ 0\\.13883718832014727\ \(0\)\
+\-\ contralateral\\:\\ 0\\.12148129929922578\ \(0\)\
+\-\ to\\:\\ 0\\.12147120718583222\ \(0\)\
+\-\ suggested\\:\\ 0\\.11367761638659739\ \(0\)\
+\-\ arise\\:\\ 0\\.11116947344340353\ \(0\)\
+\-\ earlier\\:\\ 0\\.11095545553490585\ \(0\)\
+\-\ sonographic\\:\\ 0\\.10931660074439452\ \(0\)\
+\-\ doppler\\:\\ 0\\.10873315047604556\ \(0\)\
+\-\ ordered\\:\\ 0\\.1067210055113494\ \(0\)\
+\-\ uterus\\:\\ 0\\.10654717105498131\ \(0\)\
+\-\ afebrile\\:\\ 0\\.10488268327594019\ \(0\)\
+\-\ dermoid\\:\\ 0\\.1026070750537043\ \(0\)\
+\-\ cbc\\:\\ 0\\.10134997945560252\ \(0\)\
+\-\ 28\\:\\ 0\\.10081423792490846\ \(0\)\
+\-\ normal\\:\\ 0\\.09919253816822694\ \(0\)\
+\-\ pelvic\\:\\ 0\\.09495434850168977\ \(0\)\
+\-\ mass\\:\\ 0\\.09279824602157156\ \(0\)\
+\-\ in\\:\\ 0\\.0906549946167293\ \(0\)\
+\-\ emergency\\:\\ 0\\.09012238948806382\ \(0\)\
+\-\ appears\\:\\ 0\\.08895420249808669\ \(0\)\
+\-\ diagnosed\\:\\ 0\\.0879911520062718\ \(0\)\
+\-\ heterogeneous\\:\\ 0\\.08791884428773043\ \(0\)\
+\-\ pt\\:\\ 0\\.08741945048451047\ \(0\)\
+\-\ pain\\:\\ 0\\.08693441952345062\ \(0\)\
+\-\ was\\:\\ 0\\.08466850190877284\ \(0\)\
+\-\ neoplasm\\:\\ 0\\.08292306527423812\ \(0\)\
+\-\ palpation\\:\\ 0\\.08191946895743658\ \(0\)\
+\-\ internal\\:\\ 0\\.08186507658393055\ \(0\)\
+\-\ revealed\\:\\ 0\\.07964864508810567\ \(0\)\
+\-\ abscess\\:\\ 0\\.07800072683601898\ \(0\)\
+\-\ examination\\:\\ 0\\.07773060140433503\ \(0\)\
+\-\ tenderness\\:\\ 0\\.07617808068949433\ \(0\)\
+\-\ and\\:\\ 0\\.07530220505992508\ \(0\)\
+\-\ ultrasound\\:\\ 0\\.07492628396982581\ \(0\)\
+\-\ when\\:\\ 0\\.07337621443227126\ \(0\)\
+\-\ appearance\\:\\ 0\\.07323085821839544\ \(0\)\
+\-\ the\\:\\ 0\\.07271429323871673\ \(0\)\
+\-\ she\\:\\ 0\\.07230948377154246\ \(0\)\
+\-\ secondary\\:\\ 0\\.071999613430934\ \(0\)\
+\-\ with\\:\\ 0\\.07135730361347342\ \(0\)\
+\-\ presented\\:\\ 0\\.07083568425446952\ \(0\)\
+\-\ been\\:\\ 0\\.0707710571862007\ \(0\)\
+\-\ months\\:\\ 0\\.07070662566155375\ \(0\)\
+\-\ signal\\:\\ 0\\.06885911481644436\ \(0\)\
+\-\ have\\:\\ 0\\.060682007666828186\ \(0\)\
+\-\ had\\:\\ 0\\.06052189711818079\ \(0\)\
+\-\ but\\:\\ 0\\.060068173736873544\ \(0\)\
+\-\ female\\:\\ 0\\.05861592064439487\ \(0\)\
+\-\ that\\:\\ 0\\.05271436274670158\ \(0\)\
+\-\ from\\:\\ 0\\.04824359270962665\ \(0\)\
+\-\ not\\:\\ 0\\.047954319886767995\ \(0\)\
+\-\ right\\:\\ 0\\.04027304758844452\ \(0\)\
+\-\ patient\\:\\ 0\\.03950879613357723\ \(0\)\
+\-\ no\\:\\ 0\\.039501364759343786\ \(0\)\
+\-\ for\\:\\ 0\\.036817279926222767\ \(0\)\

@@ -1,79 +1,77 @@
-Texto: 
-generalized pain about the left hip.  no significant lab abnormalities.
-the patiennt was treated with rest (non-weightbearing).  her all treatment continues.
-the plain film demonstrates an area of sclerosis at the medial base of the femoral neck.  mri images show an irregular area of t1 hypointensity extending to the cortex, with t2 hyperintensity representing local edema.  an incomplete femoral neck fracture is seen.
-femoral neck insufficiency fracture.
-insufficiency fracture, pathological fracture (due to malignancy), osteoid osteoma.
-patient with acute lymphocytic leukemia, treated for one year, with left leg limp.  paitent has history of corticosteroid therapy.
-
-
-Keywords by value: 
-- fracture: 0.2901085475115988
-- femoral: 0.28454273873264685
-- insufficiency: 0.2460017279832712
-- neck: 0.23419408774040074
-- patiennt: 0.20408172541056666
-- paitent: 0.1950109837643794
-- area: 0.1653397074061706
-- treated: 0.15893703178225616
-- the: 0.15278107178439987
-- limp: 0.14849137796911227
-- an: 0.14639689152691387
-- corticosteroid: 0.14425780705757765
-- lymphocytic: 0.14349938861291844
-- hypointensity: 0.14276584087846764
-- osteoid: 0.14069933871797724
-- osteoma: 0.13493139175391433
-- pathological: 0.13298484270402322
-- hyperintensity: 0.1272593056133786
-- incomplete: 0.1251928034528882
-- generalized: 0.1218384622006581
-- continues: 0.1218384622006581
-- representing: 0.12073348691714145
-- leukemia: 0.11656507037273384
-- lab: 0.11526152488625757
-- rest: 0.110354114842638
-- local: 0.10985137005545485
-- cortex: 0.10391832122373625
-- with: 0.09995325393977707
-- of: 0.0998935675569651
-- irregular: 0.09852323624970298
-- hip: 0.09802937068531087
-- base: 0.09707319089293076
-- leg: 0.09633662389920977
-- about: 0.0955359785549434
-- malignancy: 0.0955359785549434
-- film: 0.09536188272279256
-- abnormalities: 0.09243975229827528
-- sclerosis: 0.09089629886622363
-- left: 0.0870634780157482
-- extending: 0.08652357123523378
-- plain: 0.0841957542103225
-- medial: 0.08306669251721222
-- show: 0.08101196932317972
-- her: 0.0797256589697041
-- t1: 0.07951116833784877
-- edema: 0.07611147785129561
-- all: 0.07596526032732362
-- significant: 0.07368120830142727
-- t2: 0.07341955383880175
-- due: 0.07335461561750524
-- therapy: 0.0733222170578552
-- one: 0.07306470398107319
-- acute: 0.06903401014463867
-- mri: 0.06550543405809067
-- demonstrates: 0.06411162132798101
-- to: 0.06380623532937975
-- treatment: 0.06078906874106817
-- seen: 0.06007938998890655
-- images: 0.05902972749099545
-- has: 0.058290116278657295
-- history: 0.048755734453918974
-- at: 0.04820122442606469
-- pain: 0.04566479710578923
-- was: 0.04447455889289379
-- patient: 0.041506256537368856
-- no: 0.04149844945247779
-- year: 0.03932795998991214
-- for: 0.038678664377910524
-- is: 0.034947816682004286
+\-\ Texto\\:\\ \ \(0\)\
+\-\ generalized\\ pain\\ about\\ the\\ left\\ hip\\.\\ \\ no\\ significant\\ lab\\ abnormalities\\.\ \(0\)\
+\-\ the\\ patiennt\\ was\\ treated\\ with\\ rest\\ \\(non\\-weightbearing\\)\\.\\ \\ her\\ all\\ treatment\\ continues\\.\ \(0\)\
+\-\ the\\ plain\\ film\\ demonstrates\\ an\\ area\\ of\\ sclerosis\\ at\\ the\\ medial\\ base\\ of\\ the\\ femoral\\ neck\\.\\ \\ mri\\ images\\ show\\ an\\ irregular\\ area\\ of\\ t1\\ hypointensity\\ extending\\ to\\ the\\ cortex\\,\\ with\\ t2\\ hyperintensity\\ representing\\ local\\ edema\\.\\ \\ an\\ incomplete\\ femoral\\ neck\\ fracture\\ is\\ seen\\.\ \(0\)\
+\-\ femoral\\ neck\\ insufficiency\\ fracture\\.\ \(0\)\
+\-\ insufficiency\\ fracture\\,\\ pathological\\ fracture\\ \\(due\\ to\\ malignancy\\)\\,\\ osteoid\\ osteoma\\.\ \(0\)\
+\-\ patient\\ with\\ acute\\ lymphocytic\\ leukemia\\,\\ treated\\ for\\ one\\ year\\,\\ with\\ left\\ leg\\ limp\\.\\ \\ paitent\\ has\\ history\\ of\\ corticosteroid\\ therapy\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ fracture\\:\\ 0\\.2901085475115988\ \(0\)\
+\-\ femoral\\:\\ 0\\.28454273873264685\ \(0\)\
+\-\ insufficiency\\:\\ 0\\.2460017279832712\ \(0\)\
+\-\ neck\\:\\ 0\\.23419408774040074\ \(0\)\
+\-\ patiennt\\:\\ 0\\.20408172541056666\ \(0\)\
+\-\ paitent\\:\\ 0\\.1950109837643794\ \(0\)\
+\-\ area\\:\\ 0\\.1653397074061706\ \(0\)\
+\-\ treated\\:\\ 0\\.15893703178225616\ \(0\)\
+\-\ the\\:\\ 0\\.15278107178439987\ \(0\)\
+\-\ limp\\:\\ 0\\.14849137796911227\ \(0\)\
+\-\ an\\:\\ 0\\.14639689152691387\ \(0\)\
+\-\ corticosteroid\\:\\ 0\\.14425780705757765\ \(0\)\
+\-\ lymphocytic\\:\\ 0\\.14349938861291844\ \(0\)\
+\-\ hypointensity\\:\\ 0\\.14276584087846764\ \(0\)\
+\-\ osteoid\\:\\ 0\\.14069933871797724\ \(0\)\
+\-\ osteoma\\:\\ 0\\.13493139175391433\ \(0\)\
+\-\ pathological\\:\\ 0\\.13298484270402322\ \(0\)\
+\-\ hyperintensity\\:\\ 0\\.1272593056133786\ \(0\)\
+\-\ incomplete\\:\\ 0\\.1251928034528882\ \(0\)\
+\-\ generalized\\:\\ 0\\.1218384622006581\ \(0\)\
+\-\ continues\\:\\ 0\\.1218384622006581\ \(0\)\
+\-\ representing\\:\\ 0\\.12073348691714145\ \(0\)\
+\-\ leukemia\\:\\ 0\\.11656507037273384\ \(0\)\
+\-\ lab\\:\\ 0\\.11526152488625757\ \(0\)\
+\-\ rest\\:\\ 0\\.110354114842638\ \(0\)\
+\-\ local\\:\\ 0\\.10985137005545485\ \(0\)\
+\-\ cortex\\:\\ 0\\.10391832122373625\ \(0\)\
+\-\ with\\:\\ 0\\.09995325393977707\ \(0\)\
+\-\ of\\:\\ 0\\.0998935675569651\ \(0\)\
+\-\ irregular\\:\\ 0\\.09852323624970298\ \(0\)\
+\-\ hip\\:\\ 0\\.09802937068531087\ \(0\)\
+\-\ base\\:\\ 0\\.09707319089293076\ \(0\)\
+\-\ leg\\:\\ 0\\.09633662389920977\ \(0\)\
+\-\ about\\:\\ 0\\.0955359785549434\ \(0\)\
+\-\ malignancy\\:\\ 0\\.0955359785549434\ \(0\)\
+\-\ film\\:\\ 0\\.09536188272279256\ \(0\)\
+\-\ abnormalities\\:\\ 0\\.09243975229827528\ \(0\)\
+\-\ sclerosis\\:\\ 0\\.09089629886622363\ \(0\)\
+\-\ left\\:\\ 0\\.0870634780157482\ \(0\)\
+\-\ extending\\:\\ 0\\.08652357123523378\ \(0\)\
+\-\ plain\\:\\ 0\\.0841957542103225\ \(0\)\
+\-\ medial\\:\\ 0\\.08306669251721222\ \(0\)\
+\-\ show\\:\\ 0\\.08101196932317972\ \(0\)\
+\-\ her\\:\\ 0\\.0797256589697041\ \(0\)\
+\-\ t1\\:\\ 0\\.07951116833784877\ \(0\)\
+\-\ edema\\:\\ 0\\.07611147785129561\ \(0\)\
+\-\ all\\:\\ 0\\.07596526032732362\ \(0\)\
+\-\ significant\\:\\ 0\\.07368120830142727\ \(0\)\
+\-\ t2\\:\\ 0\\.07341955383880175\ \(0\)\
+\-\ due\\:\\ 0\\.07335461561750524\ \(0\)\
+\-\ therapy\\:\\ 0\\.0733222170578552\ \(0\)\
+\-\ one\\:\\ 0\\.07306470398107319\ \(0\)\
+\-\ acute\\:\\ 0\\.06903401014463867\ \(0\)\
+\-\ mri\\:\\ 0\\.06550543405809067\ \(0\)\
+\-\ demonstrates\\:\\ 0\\.06411162132798101\ \(0\)\
+\-\ to\\:\\ 0\\.06380623532937975\ \(0\)\
+\-\ treatment\\:\\ 0\\.06078906874106817\ \(0\)\
+\-\ seen\\:\\ 0\\.06007938998890655\ \(0\)\
+\-\ images\\:\\ 0\\.05902972749099545\ \(0\)\
+\-\ has\\:\\ 0\\.058290116278657295\ \(0\)\
+\-\ history\\:\\ 0\\.048755734453918974\ \(0\)\
+\-\ at\\:\\ 0\\.04820122442606469\ \(0\)\
+\-\ pain\\:\\ 0\\.04566479710578923\ \(0\)\
+\-\ was\\:\\ 0\\.04447455889289379\ \(0\)\
+\-\ patient\\:\\ 0\\.041506256537368856\ \(0\)\
+\-\ no\\:\\ 0\\.04149844945247779\ \(0\)\
+\-\ year\\:\\ 0\\.03932795998991214\ \(0\)\
+\-\ for\\:\\ 0\\.038678664377910524\ \(0\)\
+\-\ is\\:\\ 0\\.034947816682004286\ \(0\)\

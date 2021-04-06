@@ -1,66 +1,64 @@
-Texto: 
-â€¢ cortical blindness.
-â€¢ positive blood cultures.
-antibiotics followed by possible aortic valve replacement.
-â€¢ bliateral occipital lobe hemorrhagic lesions with surrounding edema.
-â€¢ minimal entrancement following contrast administration.
-pyogenic hemorrhagic  septic emboli
-â€¢ trauma
-â€¢ amyloid angiopathy
-â€¢ metastatic disease
-â€¢ septic or mycotic emboli
-â€¢ hemorrhagic vasculitis
-65 year old woman presents with visual problems.  she had an aortic valve replaced two months ago.
-
-
-Keywords by value: 
-- hemorrhagic: 0.37298765153219504
-- emboli: 0.2812237142838359
-- septic: 0.2724323838093769
-- valve: 0.2628582688553176
-- bliateral: 0.22921693282078748
-- entrancement: 0.22921693282078748
-- aortic: 0.2215400468087848
-- blindness: 0.17696785792213338
-- angiopathy: 0.17400838321296228
-- pyogenic: 0.1629066753246718
-- amyloid: 0.16202495349678595
-- mycotic: 0.16202495349678595
-- replaced: 0.16202495349678595
-- cultures: 0.13500504209466768
-- vasculitis: 0.13301659870432775
-- replacement: 0.12875616788261676
-- problems: 0.12432921717739835
-- occipital: 0.12264726268439366
-- 65: 0.12264726268439366
-- visual: 0.12228830666891494
-- administration: 0.1141413006730371
-- minimal: 0.10934635542518484
-- antibiotics: 0.10559506284223603
-- ago: 0.10487194836936356
-- cortical: 0.10290191302246329
-- possible: 0.09711450821956667
-- followed: 0.09678945202059978
-- surrounding: 0.09559122403845399
-- positive: 0.09444754547225195
-- following: 0.08598477300684297
-- edema: 0.08548555472291192
-- she: 0.08532132868894399
-- two: 0.08511754416762053
-- months: 0.08343004173029048
-- blood: 0.08324097767987758
-- trauma: 0.08324097767987758
-- lobe: 0.0828299775403895
-- lesions: 0.08231642548475636
-- metastatic: 0.07860969848517392
-- woman: 0.0746470777682141
-- had: 0.07141260603122963
-- contrast: 0.06964144255845467
-- presents: 0.06894944718811846
-- by: 0.06086651218424369
-- disease: 0.060165120337065205
-- with: 0.05613187130655928
-- an: 0.05480916429074068
-- or: 0.04986218535019512
-- year: 0.04417168830208038
-- old: 0.04242011117935853
+\-\ Texto\\:\\ \ \(0\)\
+\-\ \\â\\€\\¢\\ cortical\\ blindness\\.\ \(0\)\
+\-\ \\â\\€\\¢\\ positive\\ blood\\ cultures\\.\ \(0\)\
+\-\ antibiotics\\ followed\\ by\\ possible\\ aortic\\ valve\\ replacement\\.\ \(0\)\
+\-\ \\â\\€\\¢\\ bliateral\\ occipital\\ lobe\\ hemorrhagic\\ lesions\\ with\\ surrounding\\ edema\\.\ \(0\)\
+\-\ \\â\\€\\¢\\ minimal\\ entrancement\\ following\\ contrast\\ administration\\.\ \(0\)\
+\-\ pyogenic\\ hemorrhagic\\ \\ septic\\ emboli\ \(0\)\
+\-\ \\â\\€\\¢\\ trauma\ \(16\)\
+\-\ \\â\\€\\¢\\ amyloid\\ angiopathy\ \(0\)\
+\-\ \\â\\€\\¢\\ metastatic\\ disease\ \(13\)\
+\-\ \\â\\€\\¢\\ septic\\ or\\ mycotic\\ emboli\ \(0\)\
+\-\ \\â\\€\\¢\\ hemorrhagic\\ vasculitis\ \(0\)\
+\-\ 65\\ year\\ old\\ woman\\ presents\\ with\\ visual\\ problems\\.\\ \\ she\\ had\\ an\\ aortic\\ valve\\ replaced\\ two\\ months\\ ago\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ hemorrhagic\\:\\ 0\\.37298765153219504\ \(0\)\
+\-\ emboli\\:\\ 0\\.2812237142838359\ \(0\)\
+\-\ septic\\:\\ 0\\.2724323838093769\ \(0\)\
+\-\ valve\\:\\ 0\\.2628582688553176\ \(0\)\
+\-\ bliateral\\:\\ 0\\.22921693282078748\ \(0\)\
+\-\ entrancement\\:\\ 0\\.22921693282078748\ \(0\)\
+\-\ aortic\\:\\ 0\\.2215400468087848\ \(0\)\
+\-\ blindness\\:\\ 0\\.17696785792213338\ \(0\)\
+\-\ angiopathy\\:\\ 0\\.17400838321296228\ \(0\)\
+\-\ pyogenic\\:\\ 0\\.1629066753246718\ \(0\)\
+\-\ amyloid\\:\\ 0\\.16202495349678595\ \(0\)\
+\-\ mycotic\\:\\ 0\\.16202495349678595\ \(0\)\
+\-\ replaced\\:\\ 0\\.16202495349678595\ \(0\)\
+\-\ cultures\\:\\ 0\\.13500504209466768\ \(0\)\
+\-\ vasculitis\\:\\ 0\\.13301659870432775\ \(0\)\
+\-\ replacement\\:\\ 0\\.12875616788261676\ \(0\)\
+\-\ problems\\:\\ 0\\.12432921717739835\ \(0\)\
+\-\ occipital\\:\\ 0\\.12264726268439366\ \(0\)\
+\-\ 65\\:\\ 0\\.12264726268439366\ \(0\)\
+\-\ visual\\:\\ 0\\.12228830666891494\ \(0\)\
+\-\ administration\\:\\ 0\\.1141413006730371\ \(0\)\
+\-\ minimal\\:\\ 0\\.10934635542518484\ \(0\)\
+\-\ antibiotics\\:\\ 0\\.10559506284223603\ \(0\)\
+\-\ ago\\:\\ 0\\.10487194836936356\ \(0\)\
+\-\ cortical\\:\\ 0\\.10290191302246329\ \(0\)\
+\-\ possible\\:\\ 0\\.09711450821956667\ \(0\)\
+\-\ followed\\:\\ 0\\.09678945202059978\ \(0\)\
+\-\ surrounding\\:\\ 0\\.09559122403845399\ \(0\)\
+\-\ positive\\:\\ 0\\.09444754547225195\ \(0\)\
+\-\ following\\:\\ 0\\.08598477300684297\ \(0\)\
+\-\ edema\\:\\ 0\\.08548555472291192\ \(0\)\
+\-\ she\\:\\ 0\\.08532132868894399\ \(0\)\
+\-\ two\\:\\ 0\\.08511754416762053\ \(0\)\
+\-\ months\\:\\ 0\\.08343004173029048\ \(0\)\
+\-\ blood\\:\\ 0\\.08324097767987758\ \(0\)\
+\-\ trauma\\:\\ 0\\.08324097767987758\ \(0\)\
+\-\ lobe\\:\\ 0\\.0828299775403895\ \(0\)\
+\-\ lesions\\:\\ 0\\.08231642548475636\ \(0\)\
+\-\ metastatic\\:\\ 0\\.07860969848517392\ \(0\)\
+\-\ woman\\:\\ 0\\.0746470777682141\ \(0\)\
+\-\ had\\:\\ 0\\.07141260603122963\ \(0\)\
+\-\ contrast\\:\\ 0\\.06964144255845467\ \(0\)\
+\-\ presents\\:\\ 0\\.06894944718811846\ \(0\)\
+\-\ by\\:\\ 0\\.06086651218424369\ \(0\)\
+\-\ disease\\:\\ 0\\.060165120337065205\ \(0\)\
+\-\ with\\:\\ 0\\.05613187130655928\ \(0\)\
+\-\ an\\:\\ 0\\.05480916429074068\ \(0\)\
+\-\ or\\:\\ 0\\.04986218535019512\ \(0\)\
+\-\ year\\:\\ 0\\.04417168830208038\ \(0\)\
+\-\ old\\:\\ 0\\.04242011117935853\ \(0\)\

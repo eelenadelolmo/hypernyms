@@ -1,51 +1,49 @@
-Texto: 
-bloated abdomen.
-c-diff toxin (+)
-axial ct images show distention and significant colonic wall thickening of the transverse and sigmoid colon.
-pseudomembranous colitis
-pseudomembranous colitis
-other infectious colitis
-vasculitis
-ischemia
-ibd
-28 y/o post-partum female s/p c-section secondary to endometritis on antibiotic therapy presents with non-specific abdominal discomfort.
-
-
-Keywords by value: 
-- colitis: 0.46228118958568865
-- pseudomembranous: 0.3920637203337224
-- endometritis: 0.23810971142213005
-- bloated: 0.2302515645024641
-- toxin: 0.202619294892164
-- ibd: 0.19072841364406978
-- colonic: 0.15206944198000166
-- distention: 0.151299943595297
-- antibiotic: 0.14581854604426456
-- vasculitis: 0.1446043289811618
-- sigmoid: 0.14430902463230513
-- discomfort: 0.14401687867926943
-- ischemia: 0.13495083258394122
-- 28: 0.12931820759485865
-- infectious: 0.12537544168300532
-- transverse: 0.12005472333780651
-- colon: 0.11864154340986724
-- thickening: 0.10600480323006022
-- show: 0.09891615469509893
-- abdomen: 0.09507427675103598
-- wall: 0.09478522234757375
-- secondary: 0.0923566070434049
-- axial: 0.09000544586046201
-- significant: 0.08996524660931082
-- therapy: 0.08952691590731664
-- abdominal: 0.08522039688184538
-- other: 0.08091821874006602
-- female: 0.07518884187669667
-- presents: 0.07495597272354201
-- images: 0.0720756908502673
-- and: 0.06439531020438681
-- ct: 0.05932095745792711
-- on: 0.04705937890454176
-- to: 0.03895391938427382
-- the: 0.03109111788740871
-- with: 0.030510897375989842
-- of: 0.03049267800814598
+\-\ Texto\\:\\ \ \(0\)\
+\-\ bloated\\ abdomen\\.\ \(0\)\
+\-\ c\\-diff\\ toxin\\ \\(\\+\\)\ \(0\)\
+\-\ axial\\ ct\\ images\\ show\\ distention\\ and\\ significant\\ colonic\\ wall\\ thickening\\ of\\ the\\ transverse\\ and\\ sigmoid\\ colon\\.\ \(0\)\
+\-\ pseudomembranous\\ colitis\ \(3\)\
+\-\ pseudomembranous\\ colitis\ \(3\)\
+\-\ other\\ infectious\\ colitis\ \(0\)\
+\-\ vasculitis\ \(67\)\
+\-\ ischemia\ \(171\)\
+\-\ ibd\ \(0\)\
+\-\ 28\\ y\\/o\\ post\\-partum\\ female\\ s\\/p\\ c\\-section\\ secondary\\ to\\ endometritis\\ on\\ antibiotic\\ therapy\\ presents\\ with\\ non\\-specific\\ abdominal\\ discomfort\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ colitis\\:\\ 0\\.46228118958568865\ \(0\)\
+\-\ pseudomembranous\\:\\ 0\\.3920637203337224\ \(0\)\
+\-\ endometritis\\:\\ 0\\.23810971142213005\ \(0\)\
+\-\ bloated\\:\\ 0\\.2302515645024641\ \(0\)\
+\-\ toxin\\:\\ 0\\.202619294892164\ \(0\)\
+\-\ ibd\\:\\ 0\\.19072841364406978\ \(0\)\
+\-\ colonic\\:\\ 0\\.15206944198000166\ \(0\)\
+\-\ distention\\:\\ 0\\.151299943595297\ \(0\)\
+\-\ antibiotic\\:\\ 0\\.14581854604426456\ \(0\)\
+\-\ vasculitis\\:\\ 0\\.1446043289811618\ \(0\)\
+\-\ sigmoid\\:\\ 0\\.14430902463230513\ \(0\)\
+\-\ discomfort\\:\\ 0\\.14401687867926943\ \(0\)\
+\-\ ischemia\\:\\ 0\\.13495083258394122\ \(0\)\
+\-\ 28\\:\\ 0\\.12931820759485865\ \(0\)\
+\-\ infectious\\:\\ 0\\.12537544168300532\ \(0\)\
+\-\ transverse\\:\\ 0\\.12005472333780651\ \(0\)\
+\-\ colon\\:\\ 0\\.11864154340986724\ \(0\)\
+\-\ thickening\\:\\ 0\\.10600480323006022\ \(0\)\
+\-\ show\\:\\ 0\\.09891615469509893\ \(0\)\
+\-\ abdomen\\:\\ 0\\.09507427675103598\ \(0\)\
+\-\ wall\\:\\ 0\\.09478522234757375\ \(0\)\
+\-\ secondary\\:\\ 0\\.0923566070434049\ \(0\)\
+\-\ axial\\:\\ 0\\.09000544586046201\ \(0\)\
+\-\ significant\\:\\ 0\\.08996524660931082\ \(0\)\
+\-\ therapy\\:\\ 0\\.08952691590731664\ \(0\)\
+\-\ abdominal\\:\\ 0\\.08522039688184538\ \(0\)\
+\-\ other\\:\\ 0\\.08091821874006602\ \(0\)\
+\-\ female\\:\\ 0\\.07518884187669667\ \(0\)\
+\-\ presents\\:\\ 0\\.07495597272354201\ \(0\)\
+\-\ images\\:\\ 0\\.0720756908502673\ \(0\)\
+\-\ and\\:\\ 0\\.06439531020438681\ \(0\)\
+\-\ ct\\:\\ 0\\.05932095745792711\ \(0\)\
+\-\ on\\:\\ 0\\.04705937890454176\ \(0\)\
+\-\ to\\:\\ 0\\.03895391938427382\ \(0\)\
+\-\ the\\:\\ 0\\.03109111788740871\ \(0\)\
+\-\ with\\:\\ 0\\.030510897375989842\ \(0\)\
+\-\ of\\:\\ 0\\.03049267800814598\ \(0\)\

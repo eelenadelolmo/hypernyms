@@ -1,164 +1,158 @@
-Texto: 
-vitals:
-â€¢hr: 74 bpm
-â€¢bp: 143/91
-
-respiratory:
-â€¢normal
-â€¢patent airway
-â€¢breath sounds equal
-
-cardiovascular:
-â€¢regular rate and rhythm
-â€¢normal pulses
-â€¢no murmur
-â€¢no ru
-â€¢normal pmi
-â€¢positive s1 and s2
-
-test results:
-â€¢cardiac enzymes negative x2
-â€¢electrolytes within normal limits
-â€¢no cbc abnormalities
-â€¢bnp noted at 97
-follow up with primary cardiologist
-â€¢ d-transposition of great vessels corrected with atria switch procedure
-â€¢ tight stenosis of superior systemic baffle
-â€¢ collateral flow via azygos veing into ivc
-â€¢ dialted embryological right ventricle with thickened walls
-â€¢ normal diameter thoracic aorta
-â€¢ bilateral subcentimeter triangular shaped pulmonary nodules
-d-transposition of the great vessels
-this patient is a 38 year old woman who presented to the ed with constant substernal and epigastric sharp pain with a rating of 8/10. the pain started 5-6 hours prior with no alleviating or aggravating factors. she did not have nausea or vomiting, though she did present with shortness of air and lower extremity edema.
-
-this patient has a past medical history (withheld for now). significant for transposition of the great arteries which was corrected at age 1 year and revised an obstructed venous baffle at age 25.
-this patient has a past medical history. significant for transposition of the great arteries which was corrected at age 1 year and revised an obstructed venous baffle at age 25.
-
-
-Keywords by value: 
-- transposition: 0.33655103564448885
-- baffle: 0.30659328759589216
-- great: 0.2645508966103775
-- corrected: 0.2416724968612552
-- revised: 0.18139726236715836
-- age: 0.16794496759053362
-- obstructed: 0.1511999460180676
-- normal: 0.13652780118170607
-- at: 0.12630204700666342
-- ru: 0.1069513896500442
-- veing: 0.1069513896500442
-- dialted: 0.1069513896500442
-- arteries: 0.10615744736587357
-- vessels: 0.10379380155865774
-- rating: 0.10219776253196405
-- switch: 0.09882501041681169
-- embryological: 0.09620890063192493
-- did: 0.09595020759534505
-- venous: 0.09549489670587191
-- 25: 0.09475515794235971
-- alleviating: 0.09226413814435473
-- with: 0.09166790376720069
-- of: 0.0916131649229894
-- aggravating: 0.08931775618065137
-- pmi: 0.08808252139869242
-- past: 0.08706412277214888
-- no: 0.08699097047196594
-- x2: 0.08696511561879465
-- azygos: 0.08594500406549901
-- subcentimeter: 0.08500659240394617
-- medical: 0.0850064208917029
-- cardiologist: 0.08413775891112221
-- atria: 0.08413775891112221
-- withheld: 0.08332889428061226
-- and: 0.08291627310537875
-- tight: 0.08055749895375174
-- substernal: 0.08055749895375174
-- she: 0.07962094735126117
-- significant: 0.07722697956496212
-- enzymes: 0.0764377498293387
-- bpm: 0.0755999730090338
-- constant: 0.07212658605263349
-- triangular: 0.06898148938221772
-- this: 0.0689407517925437
-- 97: 0.06875383393748115
-- epigastric: 0.06875383393748115
-- cardiovascular: 0.06747359377580128
-- airway: 0.06707613581414722
-- the: 0.0667222404271786
-- 74: 0.06650412544172937
-- sharp: 0.06578242765900445
-- patient: 0.06525550203349546
-- ivc: 0.06493861848095384
-- s2: 0.06430474048728671
-- equal: 0.064000206819401
-- collateral: 0.064000206819401
-- rhythm: 0.06341389029875259
-- pulses: 0.06341389029875259
-- murmur: 0.06341389029875259
-- walls: 0.06271996665772113
-- year: 0.061830817500595193
-- has: 0.06109521983238069
-- which: 0.06081956317879214
-- for: 0.060810004865006984
-- systemic: 0.05934721454256876
-- 38: 0.05934721454256876
-- vitals: 0.0590478649946084
-- s1: 0.05837774620849686
-- though: 0.0581018773153314
-- factors: 0.05657050105412005
-- thickened: 0.05641206773738713
-- started: 0.05633364679602794
-- shaped: 0.055873827586168476
-- cbc: 0.05579891431517679
-- via: 0.05466116044740539
-- test: 0.054393174219110385
-- aorta: 0.05432712397668933
-- diameter: 0.053748842469048326
-- shortness: 0.0536241190904167
-- ed: 0.05350070861382962
-- procedure: 0.05331799498815016
-- respiratory: 0.0531977489389677
-- nodules: 0.05313808526302433
-- limits: 0.05284423812613976
-- results: 0.05211301541529228
-- sounds: 0.051632241978192155
-- nausea: 0.051373426014608065
-- an: 0.05114732331782326
-- history: 0.05110201359543372
-- hours: 0.05097084956912672
-- stenosis: 0.050872328930365904
-- rate: 0.05067773712671334
-- thoracic: 0.04997549808209888
-- vomiting: 0.049486004758378735
-- ventricle: 0.049227379116091055
-- abnormalities: 0.04844412182088753
-- extremity: 0.048168252927722074
-- pain: 0.04786233062981153
-- was: 0.046614814414161564
-- or: 0.04653085571440658
-- now: 0.04590803887928975
-- flow: 0.04454502204740079
-- air: 0.04374378519010731
-- superior: 0.04347972251780882
-- negative: 0.04140328995930691
-- primary: 0.04112233544292364
-- pulmonary: 0.04076480804371918
-- edema: 0.03988710066096468
-- presented: 0.038999063417704226
-- who: 0.03782993927648284
-- prior: 0.03741797653832998
-- follow: 0.03605268145400086
-- bilateral: 0.035942338173394484
-- into: 0.035550830610340145
-- noted: 0.03545825572533754
-- woman: 0.03482992553114467
-- present: 0.03431692363709433
-- lower: 0.034174382221404946
-- have: 0.033408888333889775
-- up: 0.03308168885513537
-- within: 0.030801630106252597
-- not: 0.026401574038567115
-- right: 0.022172597800900994
-- old: 0.019792996023068346
-- is: 0.018314807716643452
-- to: 0.016719197966124158
+\-\ Texto\\:\\ \ \(0\)\
+\-\ vitals\\:\ \(1\)\
+\-\ \\â\\€\\¢hr\\:\\ 74\\ bpm\ \(0\)\
+\-\ \\â\\€\\¢bp\\:\\ 143\\/91\ \(0\)\
+\-\ respiratory\\:\ \(0\)\
+\-\ \\â\\€\\¢normal\ \(5\)\
+\-\ \\â\\€\\¢patent\\ airway\ \(1\)\
+\-\ \\â\\€\\¢breath\\ sounds\\ equal\ \(1\)\
+\-\ cardiovascular\\:\ \(0\)\
+\-\ \\â\\€\\¢regular\\ rate\\ and\\ rhythm\ \(1\)\
+\-\ \\â\\€\\¢normal\\ pulses\ \(1\)\
+\-\ \\â\\€\\¢no\\ murmur\ \(1\)\
+\-\ \\â\\€\\¢no\\ ru\ \(1\)\
+\-\ \\â\\€\\¢normal\\ pmi\ \(0\)\
+\-\ \\â\\€\\¢positive\\ s1\\ and\\ s2\ \(0\)\
+\-\ test\\ results\\:\ \(0\)\
+\-\ \\â\\€\\¢cardiac\\ enzymes\\ negative\\ x2\ \(1\)\
+\-\ \\â\\€\\¢electrolytes\\ within\\ normal\\ limits\ \(1\)\
+\-\ \\â\\€\\¢no\\ cbc\\ abnormalities\ \(0\)\
+\-\ \\â\\€\\¢bnp\\ noted\\ at\\ 97\ \(0\)\
+\-\ follow\\ up\\ with\\ primary\\ cardiologist\ \(1\)\
+\-\ \\â\\€\\¢\\ d\\-transposition\\ of\\ great\\ vessels\\ corrected\\ with\\ atria\\ switch\\ procedure\ \(0\)\
+\-\ \\â\\€\\¢\\ tight\\ stenosis\\ of\\ superior\\ systemic\\ baffle\ \(1\)\
+\-\ \\â\\€\\¢\\ collateral\\ flow\\ via\\ azygos\\ veing\\ into\\ ivc\ \(0\)\
+\-\ \\â\\€\\¢\\ dialted\\ embryological\\ right\\ ventricle\\ with\\ thickened\\ walls\ \(1\)\
+\-\ \\â\\€\\¢\\ normal\\ diameter\\ thoracic\\ aorta\ \(1\)\
+\-\ \\â\\€\\¢\\ bilateral\\ subcentimeter\\ triangular\\ shaped\\ pulmonary\\ nodules\ \(1\)\
+\-\ d\\-transposition\\ of\\ the\\ great\\ vessels\ \(0\)\
+\-\ this\\ patient\\ is\\ a\\ 38\\ year\\ old\\ woman\\ who\\ presented\\ to\\ the\\ ed\\ with\\ constant\\ substernal\\ and\\ epigastric\\ sharp\\ pain\\ with\\ a\\ rating\\ of\\ 8\\/10\\.\\ the\\ pain\\ started\\ 5\\-6\\ hours\\ prior\\ with\\ no\\ alleviating\\ or\\ aggravating\\ factors\\.\\ she\\ did\\ not\\ have\\ nausea\\ or\\ vomiting\\,\\ though\\ she\\ did\\ present\\ with\\ shortness\\ of\\ air\\ and\\ lower\\ extremity\\ edema\\.\ \(0\)\
+\-\ this\\ patient\\ has\\ a\\ past\\ medical\\ history\\ \\(withheld\\ for\\ now\\)\\.\\ significant\\ for\\ transposition\\ of\\ the\\ great\\ arteries\\ which\\ was\\ corrected\\ at\\ age\\ 1\\ year\\ and\\ revised\\ an\\ obstructed\\ venous\\ baffle\\ at\\ age\\ 25\\.\ \(0\)\
+\-\ this\\ patient\\ has\\ a\\ past\\ medical\\ history\\.\\ significant\\ for\\ transposition\\ of\\ the\\ great\\ arteries\\ which\\ was\\ corrected\\ at\\ age\\ 1\\ year\\ and\\ revised\\ an\\ obstructed\\ venous\\ baffle\\ at\\ age\\ 25\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ transposition\\:\\ 0\\.33655103564448885\ \(0\)\
+\-\ baffle\\:\\ 0\\.30659328759589216\ \(0\)\
+\-\ great\\:\\ 0\\.2645508966103775\ \(0\)\
+\-\ corrected\\:\\ 0\\.2416724968612552\ \(0\)\
+\-\ revised\\:\\ 0\\.18139726236715836\ \(0\)\
+\-\ age\\:\\ 0\\.16794496759053362\ \(0\)\
+\-\ obstructed\\:\\ 0\\.1511999460180676\ \(0\)\
+\-\ normal\\:\\ 0\\.13652780118170607\ \(0\)\
+\-\ at\\:\\ 0\\.12630204700666342\ \(0\)\
+\-\ ru\\:\\ 0\\.1069513896500442\ \(0\)\
+\-\ veing\\:\\ 0\\.1069513896500442\ \(0\)\
+\-\ dialted\\:\\ 0\\.1069513896500442\ \(0\)\
+\-\ arteries\\:\\ 0\\.10615744736587357\ \(0\)\
+\-\ vessels\\:\\ 0\\.10379380155865774\ \(0\)\
+\-\ rating\\:\\ 0\\.10219776253196405\ \(0\)\
+\-\ switch\\:\\ 0\\.09882501041681169\ \(0\)\
+\-\ embryological\\:\\ 0\\.09620890063192493\ \(0\)\
+\-\ did\\:\\ 0\\.09595020759534505\ \(0\)\
+\-\ venous\\:\\ 0\\.09549489670587191\ \(0\)\
+\-\ 25\\:\\ 0\\.09475515794235971\ \(0\)\
+\-\ alleviating\\:\\ 0\\.09226413814435473\ \(0\)\
+\-\ with\\:\\ 0\\.09166790376720069\ \(0\)\
+\-\ of\\:\\ 0\\.0916131649229894\ \(0\)\
+\-\ aggravating\\:\\ 0\\.08931775618065137\ \(0\)\
+\-\ pmi\\:\\ 0\\.08808252139869242\ \(0\)\
+\-\ past\\:\\ 0\\.08706412277214888\ \(0\)\
+\-\ no\\:\\ 0\\.08699097047196594\ \(0\)\
+\-\ x2\\:\\ 0\\.08696511561879465\ \(0\)\
+\-\ azygos\\:\\ 0\\.08594500406549901\ \(0\)\
+\-\ subcentimeter\\:\\ 0\\.08500659240394617\ \(0\)\
+\-\ medical\\:\\ 0\\.0850064208917029\ \(0\)\
+\-\ cardiologist\\:\\ 0\\.08413775891112221\ \(0\)\
+\-\ atria\\:\\ 0\\.08413775891112221\ \(0\)\
+\-\ withheld\\:\\ 0\\.08332889428061226\ \(0\)\
+\-\ and\\:\\ 0\\.08291627310537875\ \(0\)\
+\-\ tight\\:\\ 0\\.08055749895375174\ \(0\)\
+\-\ substernal\\:\\ 0\\.08055749895375174\ \(0\)\
+\-\ she\\:\\ 0\\.07962094735126117\ \(0\)\
+\-\ significant\\:\\ 0\\.07722697956496212\ \(0\)\
+\-\ enzymes\\:\\ 0\\.0764377498293387\ \(0\)\
+\-\ bpm\\:\\ 0\\.0755999730090338\ \(0\)\
+\-\ constant\\:\\ 0\\.07212658605263349\ \(0\)\
+\-\ triangular\\:\\ 0\\.06898148938221772\ \(0\)\
+\-\ this\\:\\ 0\\.0689407517925437\ \(0\)\
+\-\ 97\\:\\ 0\\.06875383393748115\ \(0\)\
+\-\ epigastric\\:\\ 0\\.06875383393748115\ \(0\)\
+\-\ cardiovascular\\:\\ 0\\.06747359377580128\ \(0\)\
+\-\ airway\\:\\ 0\\.06707613581414722\ \(0\)\
+\-\ the\\:\\ 0\\.0667222404271786\ \(0\)\
+\-\ 74\\:\\ 0\\.06650412544172937\ \(0\)\
+\-\ sharp\\:\\ 0\\.06578242765900445\ \(0\)\
+\-\ patient\\:\\ 0\\.06525550203349546\ \(0\)\
+\-\ ivc\\:\\ 0\\.06493861848095384\ \(0\)\
+\-\ s2\\:\\ 0\\.06430474048728671\ \(0\)\
+\-\ equal\\:\\ 0\\.064000206819401\ \(0\)\
+\-\ collateral\\:\\ 0\\.064000206819401\ \(0\)\
+\-\ rhythm\\:\\ 0\\.06341389029875259\ \(0\)\
+\-\ pulses\\:\\ 0\\.06341389029875259\ \(0\)\
+\-\ murmur\\:\\ 0\\.06341389029875259\ \(0\)\
+\-\ walls\\:\\ 0\\.06271996665772113\ \(0\)\
+\-\ year\\:\\ 0\\.061830817500595193\ \(0\)\
+\-\ has\\:\\ 0\\.06109521983238069\ \(0\)\
+\-\ which\\:\\ 0\\.06081956317879214\ \(0\)\
+\-\ for\\:\\ 0\\.060810004865006984\ \(0\)\
+\-\ systemic\\:\\ 0\\.05934721454256876\ \(0\)\
+\-\ 38\\:\\ 0\\.05934721454256876\ \(0\)\
+\-\ vitals\\:\\ 0\\.0590478649946084\ \(0\)\
+\-\ s1\\:\\ 0\\.05837774620849686\ \(0\)\
+\-\ though\\:\\ 0\\.0581018773153314\ \(0\)\
+\-\ factors\\:\\ 0\\.05657050105412005\ \(0\)\
+\-\ thickened\\:\\ 0\\.05641206773738713\ \(0\)\
+\-\ started\\:\\ 0\\.05633364679602794\ \(0\)\
+\-\ shaped\\:\\ 0\\.055873827586168476\ \(0\)\
+\-\ cbc\\:\\ 0\\.05579891431517679\ \(0\)\
+\-\ via\\:\\ 0\\.05466116044740539\ \(0\)\
+\-\ test\\:\\ 0\\.054393174219110385\ \(0\)\
+\-\ aorta\\:\\ 0\\.05432712397668933\ \(0\)\
+\-\ diameter\\:\\ 0\\.053748842469048326\ \(0\)\
+\-\ shortness\\:\\ 0\\.0536241190904167\ \(0\)\
+\-\ ed\\:\\ 0\\.05350070861382962\ \(0\)\
+\-\ procedure\\:\\ 0\\.05331799498815016\ \(0\)\
+\-\ respiratory\\:\\ 0\\.0531977489389677\ \(0\)\
+\-\ nodules\\:\\ 0\\.05313808526302433\ \(0\)\
+\-\ limits\\:\\ 0\\.05284423812613976\ \(0\)\
+\-\ results\\:\\ 0\\.05211301541529228\ \(0\)\
+\-\ sounds\\:\\ 0\\.051632241978192155\ \(0\)\
+\-\ nausea\\:\\ 0\\.051373426014608065\ \(0\)\
+\-\ an\\:\\ 0\\.05114732331782326\ \(0\)\
+\-\ history\\:\\ 0\\.05110201359543372\ \(0\)\
+\-\ hours\\:\\ 0\\.05097084956912672\ \(0\)\
+\-\ stenosis\\:\\ 0\\.050872328930365904\ \(0\)\
+\-\ rate\\:\\ 0\\.05067773712671334\ \(0\)\
+\-\ thoracic\\:\\ 0\\.04997549808209888\ \(0\)\
+\-\ vomiting\\:\\ 0\\.049486004758378735\ \(0\)\
+\-\ ventricle\\:\\ 0\\.049227379116091055\ \(0\)\
+\-\ abnormalities\\:\\ 0\\.04844412182088753\ \(0\)\
+\-\ extremity\\:\\ 0\\.048168252927722074\ \(0\)\
+\-\ pain\\:\\ 0\\.04786233062981153\ \(0\)\
+\-\ was\\:\\ 0\\.046614814414161564\ \(0\)\
+\-\ or\\:\\ 0\\.04653085571440658\ \(0\)\
+\-\ now\\:\\ 0\\.04590803887928975\ \(0\)\
+\-\ flow\\:\\ 0\\.04454502204740079\ \(0\)\
+\-\ air\\:\\ 0\\.04374378519010731\ \(0\)\
+\-\ superior\\:\\ 0\\.04347972251780882\ \(0\)\
+\-\ negative\\:\\ 0\\.04140328995930691\ \(0\)\
+\-\ primary\\:\\ 0\\.04112233544292364\ \(0\)\
+\-\ pulmonary\\:\\ 0\\.04076480804371918\ \(0\)\
+\-\ edema\\:\\ 0\\.03988710066096468\ \(0\)\
+\-\ presented\\:\\ 0\\.038999063417704226\ \(0\)\
+\-\ who\\:\\ 0\\.03782993927648284\ \(0\)\
+\-\ prior\\:\\ 0\\.03741797653832998\ \(0\)\
+\-\ follow\\:\\ 0\\.03605268145400086\ \(0\)\
+\-\ bilateral\\:\\ 0\\.035942338173394484\ \(0\)\
+\-\ into\\:\\ 0\\.035550830610340145\ \(0\)\
+\-\ noted\\:\\ 0\\.03545825572533754\ \(0\)\
+\-\ woman\\:\\ 0\\.03482992553114467\ \(0\)\
+\-\ present\\:\\ 0\\.03431692363709433\ \(0\)\
+\-\ lower\\:\\ 0\\.034174382221404946\ \(0\)\
+\-\ have\\:\\ 0\\.033408888333889775\ \(0\)\
+\-\ up\\:\\ 0\\.03308168885513537\ \(0\)\
+\-\ within\\:\\ 0\\.030801630106252597\ \(0\)\
+\-\ not\\:\\ 0\\.026401574038567115\ \(0\)\
+\-\ right\\:\\ 0\\.022172597800900994\ \(0\)\
+\-\ old\\:\\ 0\\.019792996023068346\ \(0\)\
+\-\ is\\:\\ 0\\.018314807716643452\ \(0\)\
+\-\ to\\:\\ 0\\.016719197966124158\ \(0\)\

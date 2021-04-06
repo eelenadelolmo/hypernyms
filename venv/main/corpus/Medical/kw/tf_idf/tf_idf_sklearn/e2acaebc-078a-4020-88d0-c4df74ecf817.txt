@@ -1,86 +1,83 @@
-Texto: 
-abdomen soft, flat/nondistended and nontender to palpation.  no palpable masses.  normoactive bowel sounds in all quadrants of the abdomen.
-
-hgb 14.8, hct 43.7
-serum helicobacter pylori antibody test negative.
-fecal occult blood negative.
-simple sliding hiatal hernias do not require treatment.
-fluoroscopic images of the distal esophagus demonstrate barium-coated portion of the stomach located above the diaphragm.  the gastroesophageal junction lies more than 2 cm above the diaphragm.  the gastric fundus is positioned normally, below the diaphragm.
-axial (sliding) hiatal hernia
-axial (sliding) hiatal hernia
-27-year-old male with history of symptoms of gastroesophageal reflux over the past year complaints of dyspepsia.
-none.
-
-
-Keywords by value: 
-- sliding: 0.35059467502108704
-- hiatal: 0.3131125861753559
-- diaphragm: 0.29877682526718363
-- gastroesophageal: 0.22272072933850912
-- the: 0.18464968507379914
-- hernia: 0.17022579849506533
-- dyspepsia: 0.15194006721038358
-- above: 0.14835441193525203
-- helicobacter: 0.14463152840256643
-- negative: 0.12731227920170143
-- pylori: 0.12695200797989617
-- abdomen: 0.12547660234791952
-- normoactive: 0.12482895997950558
-- fecal: 0.12482895997950558
-- quadrants: 0.12121185573046242
-- of: 0.12073037304203081
-- axial: 0.11878688879173967
-- hernias: 0.1182006933977484
-- antibody: 0.11752042117168844
-- lies: 0.11562129002057732
-- positioned: 0.11136036466925456
-- occult: 0.11043579921315076
-- fundus: 0.10677777536749519
-- fluoroscopic: 0.10168448463100299
-- hgb: 0.09984090074901816
-- hct: 0.09749668341472065
-- nontender: 0.09684900626909194
-- normally: 0.09374023499081434
-- simple: 0.09304014409913312
-- serum: 0.0922016173484733
-- reflux: 0.08905233116312579
-- require: 0.08837715580534992
-- gastric: 0.0866110516385882
-- stomach: 0.08578891877224776
-- do: 0.08522382313338386
-- esophagus: 0.08467590634049808
-- below: 0.08467590634049808
-- complaints: 0.08467590634049808
-- test: 0.08362764154317573
-- junction: 0.08235012628726544
-- located: 0.08133566002352098
-- sounds: 0.07938280282796453
-- portion: 0.07352598302193343
-- palpable: 0.07223592496535017
-- masses: 0.0699989645895771
-- palpation: 0.06934172760571497
-- past: 0.06692905272572078
-- bowel: 0.0659863503491869
-- year: 0.06337517548840536
-- all: 0.06120723914361986
-- distal: 0.059741895350106454
-- blood: 0.059714850972089915
-- cm: 0.05905160195596348
-- than: 0.058286632512881825
-- over: 0.05717332109586046
-- more: 0.0564600470377181
-- symptoms: 0.0562581461450832
-- none: 0.05619134529815202
-- soft: 0.054740023188937184
-- demonstrate: 0.05345409150526174
-- treatment: 0.048979376253308414
-- images: 0.04756182801922827
-- male: 0.045780124479302
-- not: 0.0405915154166014
-- history: 0.03928379742905284
-- no: 0.033436409074130764
-- is: 0.02815838929513199
-- to: 0.025705193978350093
-- in: 0.025578673066825937
-- and: 0.021246821452940278
-- with: 0.02013375156852583
+\-\ Texto\\:\\ \ \(0\)\
+\-\ abdomen\\ soft\\,\\ flat\\/nondistended\\ and\\ nontender\\ to\\ palpation\\.\\ \\ no\\ palpable\\ masses\\.\\ \\ normoactive\\ bowel\\ sounds\\ in\\ all\\ quadrants\\ of\\ the\\ abdomen\\.\ \(0\)\
+\-\ hgb\\ 14\\.8\\,\\ hct\\ 43\\.7\ \(0\)\
+\-\ serum\\ helicobacter\\ pylori\\ antibody\\ test\\ negative\\.\ \(0\)\
+\-\ fecal\\ occult\\ blood\\ negative\\.\ \(0\)\
+\-\ simple\\ sliding\\ hiatal\\ hernias\\ do\\ not\\ require\\ treatment\\.\ \(0\)\
+\-\ fluoroscopic\\ images\\ of\\ the\\ distal\\ esophagus\\ demonstrate\\ barium\\-coated\\ portion\\ of\\ the\\ stomach\\ located\\ above\\ the\\ diaphragm\\.\\ \\ the\\ gastroesophageal\\ junction\\ lies\\ more\\ than\\ 2\\ cm\\ above\\ the\\ diaphragm\\.\\ \\ the\\ gastric\\ fundus\\ is\\ positioned\\ normally\\,\\ below\\ the\\ diaphragm\\.\ \(0\)\
+\-\ axial\\ \\(sliding\\)\\ hiatal\\ hernia\ \(0\)\
+\-\ axial\\ \\(sliding\\)\\ hiatal\\ hernia\ \(0\)\
+\-\ 27\\-year\\-old\\ male\\ with\\ history\\ of\\ symptoms\\ of\\ gastroesophageal\\ reflux\\ over\\ the\\ past\\ year\\ complaints\\ of\\ dyspepsia\\.\ \(1\)\
+\-\ none\\.\ \(8\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ sliding\\:\\ 0\\.35059467502108704\ \(0\)\
+\-\ hiatal\\:\\ 0\\.3131125861753559\ \(0\)\
+\-\ diaphragm\\:\\ 0\\.29877682526718363\ \(0\)\
+\-\ gastroesophageal\\:\\ 0\\.22272072933850912\ \(0\)\
+\-\ the\\:\\ 0\\.18464968507379914\ \(0\)\
+\-\ hernia\\:\\ 0\\.17022579849506533\ \(0\)\
+\-\ dyspepsia\\:\\ 0\\.15194006721038358\ \(0\)\
+\-\ above\\:\\ 0\\.14835441193525203\ \(0\)\
+\-\ helicobacter\\:\\ 0\\.14463152840256643\ \(0\)\
+\-\ negative\\:\\ 0\\.12731227920170143\ \(0\)\
+\-\ pylori\\:\\ 0\\.12695200797989617\ \(0\)\
+\-\ abdomen\\:\\ 0\\.12547660234791952\ \(0\)\
+\-\ normoactive\\:\\ 0\\.12482895997950558\ \(0\)\
+\-\ fecal\\:\\ 0\\.12482895997950558\ \(0\)\
+\-\ quadrants\\:\\ 0\\.12121185573046242\ \(0\)\
+\-\ of\\:\\ 0\\.12073037304203081\ \(0\)\
+\-\ axial\\:\\ 0\\.11878688879173967\ \(0\)\
+\-\ hernias\\:\\ 0\\.1182006933977484\ \(0\)\
+\-\ antibody\\:\\ 0\\.11752042117168844\ \(0\)\
+\-\ lies\\:\\ 0\\.11562129002057732\ \(0\)\
+\-\ positioned\\:\\ 0\\.11136036466925456\ \(0\)\
+\-\ occult\\:\\ 0\\.11043579921315076\ \(0\)\
+\-\ fundus\\:\\ 0\\.10677777536749519\ \(0\)\
+\-\ fluoroscopic\\:\\ 0\\.10168448463100299\ \(0\)\
+\-\ hgb\\:\\ 0\\.09984090074901816\ \(0\)\
+\-\ hct\\:\\ 0\\.09749668341472065\ \(0\)\
+\-\ nontender\\:\\ 0\\.09684900626909194\ \(0\)\
+\-\ normally\\:\\ 0\\.09374023499081434\ \(0\)\
+\-\ simple\\:\\ 0\\.09304014409913312\ \(0\)\
+\-\ serum\\:\\ 0\\.0922016173484733\ \(0\)\
+\-\ reflux\\:\\ 0\\.08905233116312579\ \(0\)\
+\-\ require\\:\\ 0\\.08837715580534992\ \(0\)\
+\-\ gastric\\:\\ 0\\.0866110516385882\ \(0\)\
+\-\ stomach\\:\\ 0\\.08578891877224776\ \(0\)\
+\-\ do\\:\\ 0\\.08522382313338386\ \(0\)\
+\-\ esophagus\\:\\ 0\\.08467590634049808\ \(0\)\
+\-\ below\\:\\ 0\\.08467590634049808\ \(0\)\
+\-\ complaints\\:\\ 0\\.08467590634049808\ \(0\)\
+\-\ test\\:\\ 0\\.08362764154317573\ \(0\)\
+\-\ junction\\:\\ 0\\.08235012628726544\ \(0\)\
+\-\ located\\:\\ 0\\.08133566002352098\ \(0\)\
+\-\ sounds\\:\\ 0\\.07938280282796453\ \(0\)\
+\-\ portion\\:\\ 0\\.07352598302193343\ \(0\)\
+\-\ palpable\\:\\ 0\\.07223592496535017\ \(0\)\
+\-\ masses\\:\\ 0\\.0699989645895771\ \(0\)\
+\-\ palpation\\:\\ 0\\.06934172760571497\ \(0\)\
+\-\ past\\:\\ 0\\.06692905272572078\ \(0\)\
+\-\ bowel\\:\\ 0\\.0659863503491869\ \(0\)\
+\-\ year\\:\\ 0\\.06337517548840536\ \(0\)\
+\-\ all\\:\\ 0\\.06120723914361986\ \(0\)\
+\-\ distal\\:\\ 0\\.059741895350106454\ \(0\)\
+\-\ blood\\:\\ 0\\.059714850972089915\ \(0\)\
+\-\ cm\\:\\ 0\\.05905160195596348\ \(0\)\
+\-\ than\\:\\ 0\\.058286632512881825\ \(0\)\
+\-\ over\\:\\ 0\\.05717332109586046\ \(0\)\
+\-\ more\\:\\ 0\\.0564600470377181\ \(0\)\
+\-\ symptoms\\:\\ 0\\.0562581461450832\ \(0\)\
+\-\ none\\:\\ 0\\.05619134529815202\ \(0\)\
+\-\ soft\\:\\ 0\\.054740023188937184\ \(0\)\
+\-\ demonstrate\\:\\ 0\\.05345409150526174\ \(0\)\
+\-\ treatment\\:\\ 0\\.048979376253308414\ \(0\)\
+\-\ images\\:\\ 0\\.04756182801922827\ \(0\)\
+\-\ male\\:\\ 0\\.045780124479302\ \(0\)\
+\-\ not\\:\\ 0\\.0405915154166014\ \(0\)\
+\-\ history\\:\\ 0\\.03928379742905284\ \(0\)\
+\-\ no\\:\\ 0\\.033436409074130764\ \(0\)\
+\-\ is\\:\\ 0\\.02815838929513199\ \(0\)\
+\-\ to\\:\\ 0\\.025705193978350093\ \(0\)\
+\-\ in\\:\\ 0\\.025578673066825937\ \(0\)\
+\-\ and\\:\\ 0\\.021246821452940278\ \(0\)\
+\-\ with\\:\\ 0\\.02013375156852583\ \(0\)\

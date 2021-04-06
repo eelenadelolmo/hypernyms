@@ -1,111 +1,109 @@
-Texto: 
-current treatment for gbm is palliative to prolong survival without therapy patients with gbm usually die with 3 months. patient treated with optimal therapy , including surgical resection, radiation therapy and chemotherapy have a median survival of one year.
-males had a slight preponderance over females with a ratio of 5:1. gbm may  manifest at any age with peak incidence 45-70 yrs.
-multiple mr images taken with and without contrast illustrates a cerebral mass located within corpus callosum with surrounding edema.
-glioblastom multiforme (gbm)
-gbm
-cerebral abscess
-cns lymphoma
-demyelinating processes
-anaplastic astrocytoma
-metastasis
-51 year old with symptoms of increased intacranial presure for approximately 2 months.  patient complaineed of vomitting, early morning headache, seizures and personality changes.
-patient underwent surigal excision of the cerebral mass followed by post operative radiation therapy.  surgery was without complications.
-
-
-Keywords by value: 
-- gbm: 0.48816669120992007
-- therapy: 0.21221726762346466
-- cerebral: 0.1919183747579203
-- survival: 0.18023496698708188
-- preponderance: 0.14766897359479383
-- glioblastom: 0.14766897359479383
-- intacranial: 0.14766897359479383
-- complaineed: 0.14766897359479383
-- surigal: 0.14766897359479383
-- without: 0.14611487530564216
-- with: 0.1446478795399526
-- presure: 0.1411055877456135
-- prolong: 0.13283669949017812
-- die: 0.12332201967776292
-- radiation: 0.12238199941622921
-- vomitting: 0.1200737026793244
-- personality: 0.1186652233082731
-- optimal: 0.11505313142232755
-- manifest: 0.11039633505283772
-- months: 0.107496671189778
-- yrs: 0.10278824472011308
-- demyelinating: 0.10133766571221113
-- anaplastic: 0.10133766571221113
-- palliative: 0.09958597981886586
-- illustrates: 0.09958597981886586
-- multiforme: 0.09622485887093271
-- median: 0.09556406094822198
-- males: 0.09524350985474128
-- peak: 0.09462084457921675
-- females: 0.09288482887223051
-- ratio: 0.09261276698498716
-- morning: 0.09156806250144289
-- processes: 0.09082652974182229
-- of: 0.09035094004732154
-- patient: 0.09009899766828577
-- 51: 0.08815958715237183
-- callosum: 0.08697462159930591
-- cns: 0.08623024671848674
-- corpus: 0.08418280972654667
-- current: 0.08086180602651938
-- slight: 0.08086180602651938
-- incidence: 0.07948599528662643
-- operative: 0.07745994178689072
-- seizures: 0.07537797354677517
-- taken: 0.07378449443359232
-- located: 0.07304296167397172
-- excision: 0.07280314541740089
-- complications: 0.07072117717728536
-- mass: 0.0705414976760312
-- astrocytoma: 0.06970702713417683
-- metastasis: 0.06767711905620055
-- early: 0.06656031066170122
-- including: 0.06608183342538347
-- chemotherapy: 0.0655662706991563
-- headache: 0.06365404399104564
-- underwent: 0.06360901669846641
-- followed: 0.062354900481367555
-- surrounding: 0.06158296319873071
-- mr: 0.05974706073636705
-- any: 0.05967637371904017
-- abscess: 0.05929301820589081
-- resection: 0.05919002336481915
-- approximately: 0.058918531864694895
-- usually: 0.058130353403260726
-- age: 0.05797087131278515
-- treated: 0.05750164132107464
-- and: 0.05724171038749952
-- year: 0.05691366508788592
-- for: 0.055974033512437495
-- changes: 0.05580539144507711
-- edema: 0.055072563652981424
-- lymphoma: 0.05499314909674965
-- one: 0.052867986201051036
-- patients: 0.051945319030816194
-- over: 0.05134412999625195
-- symptoms: 0.05052226307053608
-- post: 0.05024419216215905
-- increased: 0.04993213813712248
-- surgery: 0.04964495198986045
-- may: 0.04646752208479023
-- have: 0.04612802381859043
-- had: 0.04600631421329581
-- multiple: 0.04516465070790512
-- surgical: 0.04487940453844076
-- contrast: 0.04486527332737767
-- treatment: 0.04398561100322863
-- images: 0.042712591010485225
-- within: 0.04252815337621882
-- by: 0.03921217891685861
-- at: 0.03487732829918902
-- was: 0.03218079644114374
-- old: 0.027328409819227916
-- is: 0.025287458778724063
-- to: 0.023084382643967814
-- the: 0.01842482793737585
+\-\ Texto\\:\\ \ \(0\)\
+\-\ current\\ treatment\\ for\\ gbm\\ is\\ palliative\\ to\\ prolong\\ survival\\ without\\ therapy\\ patients\\ with\\ gbm\\ usually\\ die\\ with\\ 3\\ months\\.\\ patient\\ treated\\ with\\ optimal\\ therapy\\ \\,\\ including\\ surgical\\ resection\\,\\ radiation\\ therapy\\ and\\ chemotherapy\\ have\\ a\\ median\\ survival\\ of\\ one\\ year\\.\ \(0\)\
+\-\ males\\ had\\ a\\ slight\\ preponderance\\ over\\ females\\ with\\ a\\ ratio\\ of\\ 5\\:1\\.\\ gbm\\ may\\ \\ manifest\\ at\\ any\\ age\\ with\\ peak\\ incidence\\ 45\\-70\\ yrs\\.\ \(0\)\
+\-\ multiple\\ mr\\ images\\ taken\\ with\\ and\\ without\\ contrast\\ illustrates\\ a\\ cerebral\\ mass\\ located\\ within\\ corpus\\ callosum\\ with\\ surrounding\\ edema\\.\ \(0\)\
+\-\ glioblastom\\ multiforme\\ \\(gbm\\)\ \(0\)\
+\-\ gbm\ \(0\)\
+\-\ cerebral\\ abscess\ \(11\)\
+\-\ cns\\ lymphoma\ \(0\)\
+\-\ demyelinating\\ processes\ \(0\)\
+\-\ anaplastic\\ astrocytoma\ \(4\)\
+\-\ metastasis\ \(206\)\
+\-\ 51\\ year\\ old\\ with\\ symptoms\\ of\\ increased\\ intacranial\\ presure\\ for\\ approximately\\ 2\\ months\\.\\ \\ patient\\ complaineed\\ of\\ vomitting\\,\\ early\\ morning\\ headache\\,\\ seizures\\ and\\ personality\\ changes\\.\ \(0\)\
+\-\ patient\\ underwent\\ surigal\\ excision\\ of\\ the\\ cerebral\\ mass\\ followed\\ by\\ post\\ operative\\ radiation\\ therapy\\.\\ \\ surgery\\ was\\ without\\ complications\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ gbm\\:\\ 0\\.48816669120992007\ \(0\)\
+\-\ therapy\\:\\ 0\\.21221726762346466\ \(0\)\
+\-\ cerebral\\:\\ 0\\.1919183747579203\ \(0\)\
+\-\ survival\\:\\ 0\\.18023496698708188\ \(0\)\
+\-\ preponderance\\:\\ 0\\.14766897359479383\ \(0\)\
+\-\ glioblastom\\:\\ 0\\.14766897359479383\ \(0\)\
+\-\ intacranial\\:\\ 0\\.14766897359479383\ \(0\)\
+\-\ complaineed\\:\\ 0\\.14766897359479383\ \(0\)\
+\-\ surigal\\:\\ 0\\.14766897359479383\ \(0\)\
+\-\ without\\:\\ 0\\.14611487530564216\ \(0\)\
+\-\ with\\:\\ 0\\.1446478795399526\ \(0\)\
+\-\ presure\\:\\ 0\\.1411055877456135\ \(0\)\
+\-\ prolong\\:\\ 0\\.13283669949017812\ \(0\)\
+\-\ die\\:\\ 0\\.12332201967776292\ \(0\)\
+\-\ radiation\\:\\ 0\\.12238199941622921\ \(0\)\
+\-\ vomitting\\:\\ 0\\.1200737026793244\ \(0\)\
+\-\ personality\\:\\ 0\\.1186652233082731\ \(0\)\
+\-\ optimal\\:\\ 0\\.11505313142232755\ \(0\)\
+\-\ manifest\\:\\ 0\\.11039633505283772\ \(0\)\
+\-\ months\\:\\ 0\\.107496671189778\ \(0\)\
+\-\ yrs\\:\\ 0\\.10278824472011308\ \(0\)\
+\-\ demyelinating\\:\\ 0\\.10133766571221113\ \(0\)\
+\-\ anaplastic\\:\\ 0\\.10133766571221113\ \(0\)\
+\-\ palliative\\:\\ 0\\.09958597981886586\ \(0\)\
+\-\ illustrates\\:\\ 0\\.09958597981886586\ \(0\)\
+\-\ multiforme\\:\\ 0\\.09622485887093271\ \(0\)\
+\-\ median\\:\\ 0\\.09556406094822198\ \(0\)\
+\-\ males\\:\\ 0\\.09524350985474128\ \(0\)\
+\-\ peak\\:\\ 0\\.09462084457921675\ \(0\)\
+\-\ females\\:\\ 0\\.09288482887223051\ \(0\)\
+\-\ ratio\\:\\ 0\\.09261276698498716\ \(0\)\
+\-\ morning\\:\\ 0\\.09156806250144289\ \(0\)\
+\-\ processes\\:\\ 0\\.09082652974182229\ \(0\)\
+\-\ of\\:\\ 0\\.09035094004732154\ \(0\)\
+\-\ patient\\:\\ 0\\.09009899766828577\ \(0\)\
+\-\ 51\\:\\ 0\\.08815958715237183\ \(0\)\
+\-\ callosum\\:\\ 0\\.08697462159930591\ \(0\)\
+\-\ cns\\:\\ 0\\.08623024671848674\ \(0\)\
+\-\ corpus\\:\\ 0\\.08418280972654667\ \(0\)\
+\-\ current\\:\\ 0\\.08086180602651938\ \(0\)\
+\-\ slight\\:\\ 0\\.08086180602651938\ \(0\)\
+\-\ incidence\\:\\ 0\\.07948599528662643\ \(0\)\
+\-\ operative\\:\\ 0\\.07745994178689072\ \(0\)\
+\-\ seizures\\:\\ 0\\.07537797354677517\ \(0\)\
+\-\ taken\\:\\ 0\\.07378449443359232\ \(0\)\
+\-\ located\\:\\ 0\\.07304296167397172\ \(0\)\
+\-\ excision\\:\\ 0\\.07280314541740089\ \(0\)\
+\-\ complications\\:\\ 0\\.07072117717728536\ \(0\)\
+\-\ mass\\:\\ 0\\.0705414976760312\ \(0\)\
+\-\ astrocytoma\\:\\ 0\\.06970702713417683\ \(0\)\
+\-\ metastasis\\:\\ 0\\.06767711905620055\ \(0\)\
+\-\ early\\:\\ 0\\.06656031066170122\ \(0\)\
+\-\ including\\:\\ 0\\.06608183342538347\ \(0\)\
+\-\ chemotherapy\\:\\ 0\\.0655662706991563\ \(0\)\
+\-\ headache\\:\\ 0\\.06365404399104564\ \(0\)\
+\-\ underwent\\:\\ 0\\.06360901669846641\ \(0\)\
+\-\ followed\\:\\ 0\\.062354900481367555\ \(0\)\
+\-\ surrounding\\:\\ 0\\.06158296319873071\ \(0\)\
+\-\ mr\\:\\ 0\\.05974706073636705\ \(0\)\
+\-\ any\\:\\ 0\\.05967637371904017\ \(0\)\
+\-\ abscess\\:\\ 0\\.05929301820589081\ \(0\)\
+\-\ resection\\:\\ 0\\.05919002336481915\ \(0\)\
+\-\ approximately\\:\\ 0\\.058918531864694895\ \(0\)\
+\-\ usually\\:\\ 0\\.058130353403260726\ \(0\)\
+\-\ age\\:\\ 0\\.05797087131278515\ \(0\)\
+\-\ treated\\:\\ 0\\.05750164132107464\ \(0\)\
+\-\ and\\:\\ 0\\.05724171038749952\ \(0\)\
+\-\ year\\:\\ 0\\.05691366508788592\ \(0\)\
+\-\ for\\:\\ 0\\.055974033512437495\ \(0\)\
+\-\ changes\\:\\ 0\\.05580539144507711\ \(0\)\
+\-\ edema\\:\\ 0\\.055072563652981424\ \(0\)\
+\-\ lymphoma\\:\\ 0\\.05499314909674965\ \(0\)\
+\-\ one\\:\\ 0\\.052867986201051036\ \(0\)\
+\-\ patients\\:\\ 0\\.051945319030816194\ \(0\)\
+\-\ over\\:\\ 0\\.05134412999625195\ \(0\)\
+\-\ symptoms\\:\\ 0\\.05052226307053608\ \(0\)\
+\-\ post\\:\\ 0\\.05024419216215905\ \(0\)\
+\-\ increased\\:\\ 0\\.04993213813712248\ \(0\)\
+\-\ surgery\\:\\ 0\\.04964495198986045\ \(0\)\
+\-\ may\\:\\ 0\\.04646752208479023\ \(0\)\
+\-\ have\\:\\ 0\\.04612802381859043\ \(0\)\
+\-\ had\\:\\ 0\\.04600631421329581\ \(0\)\
+\-\ multiple\\:\\ 0\\.04516465070790512\ \(0\)\
+\-\ surgical\\:\\ 0\\.04487940453844076\ \(0\)\
+\-\ contrast\\:\\ 0\\.04486527332737767\ \(0\)\
+\-\ treatment\\:\\ 0\\.04398561100322863\ \(0\)\
+\-\ images\\:\\ 0\\.042712591010485225\ \(0\)\
+\-\ within\\:\\ 0\\.04252815337621882\ \(0\)\
+\-\ by\\:\\ 0\\.03921217891685861\ \(0\)\
+\-\ at\\:\\ 0\\.03487732829918902\ \(0\)\
+\-\ was\\:\\ 0\\.03218079644114374\ \(0\)\
+\-\ old\\:\\ 0\\.027328409819227916\ \(0\)\
+\-\ is\\:\\ 0\\.025287458778724063\ \(0\)\
+\-\ to\\:\\ 0\\.023084382643967814\ \(0\)\
+\-\ the\\:\\ 0\\.01842482793737585\ \(0\)\

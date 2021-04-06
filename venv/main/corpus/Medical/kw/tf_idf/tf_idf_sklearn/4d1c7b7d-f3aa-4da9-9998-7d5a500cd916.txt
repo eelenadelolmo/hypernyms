@@ -1,105 +1,102 @@
-Texto: 
-vitals signs stable, afebrile.
-lungs - clear.
-physical exam otherwise noncontributory.
-
-cbc - normal.
-ekg - normal.
-ct, standard axial chest protocol at 5mm collimation:
-left posterior base triangular consolidative density (airless) just overlying left hemidiaphragm.
-ct multiplanar reconstructions, sag and coronal:
-a) sagitally reconstructed descending aorta (systemic) feeding vessel, posterior aspect dives inferiorly towards the posterio-medial lung base.
-b) coronally reconstructed venous return into the left inferior pulmonary vein.
-pulmonary sequestration
-1) ccam
-2) congenital lobar emphysema
-3) bronchogenic cyst
-4) esophageal duplication cyst
-5) pneumonia
-6) pulmonary mass
-5) unilateral pulmonary underdevelopment (aplasia, hypoplasia)
-chest pain, chronic. cxrs at an outlying institution demonstrate a nonresolving lll process.
-
-
-Keywords by value: 
-- reconstructed: 0.25831237374561306
-- pulmonary: 0.25505067579819474
-- airless: 0.1672890510029194
-- sagitally: 0.1672890510029194
-- dives: 0.15985361914918245
-- coronally: 0.15985361914918245
-- underdevelopment: 0.15985361914918245
-- nonresolving: 0.15985361914918245
-- base: 0.15914489109334834
-- cxrs: 0.15457809629288177
-- outlying: 0.14431584444368162
-- collimation: 0.14186714158284416
-- consolidative: 0.13970723258540785
-- reconstructions: 0.1360273270859862
-- aplasia: 0.13443170972910717
-- sag: 0.1329638840484412
-- lll: 0.12804445065886225
-- ccam: 0.1269962778753702
-- cyst: 0.12068761489997092
-- multiplanar: 0.11889393502360636
-- towards: 0.1148019215896044
-- ekg: 0.11190040482558528
-- 5mm: 0.11145850316986938
-- chest: 0.11043354297715356
-- sequestration: 0.11019330973133061
-- hemidiaphragm: 0.10900980030903192
-- posterior: 0.10818616021355261
-- triangular: 0.10789806409508765
-- lobar: 0.10789806409508765
-- left: 0.10705098595893636
-- duplication: 0.10585840491427827
-- institution: 0.10344996119436399
-- hypoplasia: 0.10316998581217396
-- emphysema: 0.10262254123878699
-- protocol: 0.10209096687956677
-- bronchogenic: 0.10058288205797761
-- inferiorly: 0.10034316581671077
-- feeding: 0.09810404273789235
-- return: 0.097482355021293
-- standard: 0.09707930514139186
-- unilateral: 0.09573455395843698
-- descending: 0.09448171352226843
-- noncontributory: 0.09314745020424063
-- systemic: 0.09282851988159167
-- vitals: 0.09236028938958682
-- vessel: 0.09175401826181066
-- afebrile: 0.09032063020877742
-- esophageal: 0.08938001216952914
-- overlying: 0.08911989388871103
-- cbc: 0.0872784117468948
-- normal: 0.08542051251484016
-- aorta: 0.08497629664762893
-- just: 0.08368365106126112
-- coronal: 0.08330357463058938
-- stable: 0.08274783418222485
-- pneumonia: 0.08256626803239152
-- ct: 0.07964958408800969
-- at: 0.07902262757915313
-- process: 0.07845619646662488
-- lungs: 0.07720063181871173
-- clear: 0.07583682247662542
-- congenital: 0.07516097263790235
-- vein: 0.07498089232342134
-- venous: 0.07468463335455372
-- otherwise: 0.07456745703685716
-- signs: 0.07310861838470976
-- inferior: 0.07116573004232019
-- density: 0.06936508159036724
-- aspect: 0.06748582454289853
-- lung: 0.06363352735016341
-- chronic: 0.06209160851284146
-- axial: 0.06042465121644531
-- physical: 0.05672020994760859
-- into: 0.055607175695700575
-- demonstrate: 0.054382177497050495
-- exam: 0.05265911696397125
-- the: 0.04174569519245781
-- an: 0.04000129033935656
-- mass: 0.03995700625281501
-- pain: 0.037432163789775603
-- and: 0.02161571514854391
+\-\ Texto\\:\\ \ \(0\)\
+\-\ vitals\\ signs\\ stable\\,\\ afebrile\\.\ \(0\)\
+\-\ lungs\\ \\-\\ clear\\.\ \(0\)\
+\-\ physical\\ exam\\ otherwise\\ noncontributory\\.\ \(0\)\
+\-\ cbc\\ \\-\\ normal\\.\ \(0\)\
+\-\ ekg\\ \\-\\ normal\\.\ \(0\)\
+\-\ ct\\,\\ standard\\ axial\\ chest\\ protocol\\ at\\ 5mm\\ collimation\\:\ \(0\)\
+\-\ left\\ posterior\\ base\\ triangular\\ consolidative\\ density\\ \\(airless\\)\\ just\\ overlying\\ left\\ hemidiaphragm\\.\ \(0\)\
+\-\ ct\\ multiplanar\\ reconstructions\\,\\ sag\\ and\\ coronal\\:\ \(0\)\
+\-\ a\\)\\ sagitally\\ reconstructed\\ descending\\ aorta\\ \\(systemic\\)\\ feeding\\ vessel\\,\\ posterior\\ aspect\\ dives\\ inferiorly\\ towards\\ the\\ posterio\\-medial\\ lung\\ base\\.\ \(0\)\
+\-\ b\\)\\ coronally\\ reconstructed\\ venous\\ return\\ into\\ the\\ left\\ inferior\\ pulmonary\\ vein\\.\ \(0\)\
+\-\ pulmonary\\ sequestration\ \(29\)\
+\-\ 1\\)\\ ccam\ \(0\)\
+\-\ 2\\)\\ congenital\\ lobar\\ emphysema\ \(0\)\
+\-\ 3\\)\\ bronchogenic\\ cyst\ \(0\)\
+\-\ 4\\)\\ esophageal\\ duplication\\ cyst\ \(0\)\
+\-\ 5\\)\\ pneumonia\ \(0\)\
+\-\ 6\\)\\ pulmonary\\ mass\ \(0\)\
+\-\ 5\\)\\ unilateral\\ pulmonary\\ underdevelopment\\ \\(aplasia\\,\\ hypoplasia\\)\ \(0\)\
+\-\ chest\\ pain\\,\\ chronic\\.\\ cxrs\\ at\\ an\\ outlying\\ institution\\ demonstrate\\ a\\ nonresolving\\ lll\\ process\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ reconstructed\\:\\ 0\\.25831237374561306\ \(0\)\
+\-\ pulmonary\\:\\ 0\\.25505067579819474\ \(0\)\
+\-\ airless\\:\\ 0\\.1672890510029194\ \(0\)\
+\-\ sagitally\\:\\ 0\\.1672890510029194\ \(0\)\
+\-\ dives\\:\\ 0\\.15985361914918245\ \(0\)\
+\-\ coronally\\:\\ 0\\.15985361914918245\ \(0\)\
+\-\ underdevelopment\\:\\ 0\\.15985361914918245\ \(0\)\
+\-\ nonresolving\\:\\ 0\\.15985361914918245\ \(0\)\
+\-\ base\\:\\ 0\\.15914489109334834\ \(0\)\
+\-\ cxrs\\:\\ 0\\.15457809629288177\ \(0\)\
+\-\ outlying\\:\\ 0\\.14431584444368162\ \(0\)\
+\-\ collimation\\:\\ 0\\.14186714158284416\ \(0\)\
+\-\ consolidative\\:\\ 0\\.13970723258540785\ \(0\)\
+\-\ reconstructions\\:\\ 0\\.1360273270859862\ \(0\)\
+\-\ aplasia\\:\\ 0\\.13443170972910717\ \(0\)\
+\-\ sag\\:\\ 0\\.1329638840484412\ \(0\)\
+\-\ lll\\:\\ 0\\.12804445065886225\ \(0\)\
+\-\ ccam\\:\\ 0\\.1269962778753702\ \(0\)\
+\-\ cyst\\:\\ 0\\.12068761489997092\ \(0\)\
+\-\ multiplanar\\:\\ 0\\.11889393502360636\ \(0\)\
+\-\ towards\\:\\ 0\\.1148019215896044\ \(0\)\
+\-\ ekg\\:\\ 0\\.11190040482558528\ \(0\)\
+\-\ 5mm\\:\\ 0\\.11145850316986938\ \(0\)\
+\-\ chest\\:\\ 0\\.11043354297715356\ \(0\)\
+\-\ sequestration\\:\\ 0\\.11019330973133061\ \(0\)\
+\-\ hemidiaphragm\\:\\ 0\\.10900980030903192\ \(0\)\
+\-\ posterior\\:\\ 0\\.10818616021355261\ \(0\)\
+\-\ triangular\\:\\ 0\\.10789806409508765\ \(0\)\
+\-\ lobar\\:\\ 0\\.10789806409508765\ \(0\)\
+\-\ left\\:\\ 0\\.10705098595893636\ \(0\)\
+\-\ duplication\\:\\ 0\\.10585840491427827\ \(0\)\
+\-\ institution\\:\\ 0\\.10344996119436399\ \(0\)\
+\-\ hypoplasia\\:\\ 0\\.10316998581217396\ \(0\)\
+\-\ emphysema\\:\\ 0\\.10262254123878699\ \(0\)\
+\-\ protocol\\:\\ 0\\.10209096687956677\ \(0\)\
+\-\ bronchogenic\\:\\ 0\\.10058288205797761\ \(0\)\
+\-\ inferiorly\\:\\ 0\\.10034316581671077\ \(0\)\
+\-\ feeding\\:\\ 0\\.09810404273789235\ \(0\)\
+\-\ return\\:\\ 0\\.097482355021293\ \(0\)\
+\-\ standard\\:\\ 0\\.09707930514139186\ \(0\)\
+\-\ unilateral\\:\\ 0\\.09573455395843698\ \(0\)\
+\-\ descending\\:\\ 0\\.09448171352226843\ \(0\)\
+\-\ noncontributory\\:\\ 0\\.09314745020424063\ \(0\)\
+\-\ systemic\\:\\ 0\\.09282851988159167\ \(0\)\
+\-\ vitals\\:\\ 0\\.09236028938958682\ \(0\)\
+\-\ vessel\\:\\ 0\\.09175401826181066\ \(0\)\
+\-\ afebrile\\:\\ 0\\.09032063020877742\ \(0\)\
+\-\ esophageal\\:\\ 0\\.08938001216952914\ \(0\)\
+\-\ overlying\\:\\ 0\\.08911989388871103\ \(0\)\
+\-\ cbc\\:\\ 0\\.0872784117468948\ \(0\)\
+\-\ normal\\:\\ 0\\.08542051251484016\ \(0\)\
+\-\ aorta\\:\\ 0\\.08497629664762893\ \(0\)\
+\-\ just\\:\\ 0\\.08368365106126112\ \(0\)\
+\-\ coronal\\:\\ 0\\.08330357463058938\ \(0\)\
+\-\ stable\\:\\ 0\\.08274783418222485\ \(0\)\
+\-\ pneumonia\\:\\ 0\\.08256626803239152\ \(0\)\
+\-\ ct\\:\\ 0\\.07964958408800969\ \(0\)\
+\-\ at\\:\\ 0\\.07902262757915313\ \(0\)\
+\-\ process\\:\\ 0\\.07845619646662488\ \(0\)\
+\-\ lungs\\:\\ 0\\.07720063181871173\ \(0\)\
+\-\ clear\\:\\ 0\\.07583682247662542\ \(0\)\
+\-\ congenital\\:\\ 0\\.07516097263790235\ \(0\)\
+\-\ vein\\:\\ 0\\.07498089232342134\ \(0\)\
+\-\ venous\\:\\ 0\\.07468463335455372\ \(0\)\
+\-\ otherwise\\:\\ 0\\.07456745703685716\ \(0\)\
+\-\ signs\\:\\ 0\\.07310861838470976\ \(0\)\
+\-\ inferior\\:\\ 0\\.07116573004232019\ \(0\)\
+\-\ density\\:\\ 0\\.06936508159036724\ \(0\)\
+\-\ aspect\\:\\ 0\\.06748582454289853\ \(0\)\
+\-\ lung\\:\\ 0\\.06363352735016341\ \(0\)\
+\-\ chronic\\:\\ 0\\.06209160851284146\ \(0\)\
+\-\ axial\\:\\ 0\\.06042465121644531\ \(0\)\
+\-\ physical\\:\\ 0\\.05672020994760859\ \(0\)\
+\-\ into\\:\\ 0\\.055607175695700575\ \(0\)\
+\-\ demonstrate\\:\\ 0\\.054382177497050495\ \(0\)\
+\-\ exam\\:\\ 0\\.05265911696397125\ \(0\)\
+\-\ the\\:\\ 0\\.04174569519245781\ \(0\)\
+\-\ an\\:\\ 0\\.04000129033935656\ \(0\)\
+\-\ mass\\:\\ 0\\.03995700625281501\ \(0\)\
+\-\ pain\\:\\ 0\\.037432163789775603\ \(0\)\
+\-\ and\\:\\ 0\\.02161571514854391\ \(0\)\

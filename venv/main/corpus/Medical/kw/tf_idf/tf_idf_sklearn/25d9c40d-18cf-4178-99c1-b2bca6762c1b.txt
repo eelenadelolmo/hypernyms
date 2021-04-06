@@ -1,102 +1,100 @@
-Texto: 
-n/a
-patient has nonspecific enhancing nodules that will be followed for interval change.
-well circumscribed non-enhancing area in the left breast that is hyperintense on t2wi, hypointense on t1wi and fat saturated t2 sequences compatible with injected silicone.  post gadolinium images demonstrate symmetric enhancement of breast parenchyma with nonspecific nodules of enhancement with non-aggressive time intensity curves (not shown).  architectural distortion in the upper breast with blooming artifact on gradient imaging compatible with post surgical change.
-siliconomas:  silicone granulomas from silicone breast augmentation
-injected silicone
-free silicone from silicone breast implant rupture
-65 year old asian female with prior left breast reduction and subsequent augmentation.
-silicone demonstrates characteristic low signal intensity on t1wi, high t2 signal, with decreased signal intensity on t2 fat suppressed imaging.  patient's mammogram was obscured by the presence of hyperdense foci in the breast parenchyma and an mri was recommended for evaluation for breast cancer screening.
-
-
-Keywords by value: 
-- silicone: 0.5703650835843592
-- breast: 0.4141471952391225
-- augmentation: 0.1760399035837638
-- t1wi: 0.15577091394682843
-- injected: 0.15577091394682843
-- intensity: 0.15186087926321512
-- compatible: 0.1425898148699908
-- nonspecific: 0.13400478585494305
-- t2: 0.12304452882300461
-- signal: 0.12123604814602298
-- parenchyma: 0.11582270606584105
-- nodules: 0.11328773510929238
-- change: 0.10804239616711205
-- on: 0.10765333084682016
-- siliconomas: 0.10255627763021712
-- curves: 0.1002777377069614
-- with: 0.09771568874376568
-- blooming: 0.09389376096806044
-- enhancing: 0.08931729145997899
-- fat: 0.0886929907718198
-- obscured: 0.08523124430590379
-- architectural: 0.08295270438264805
-- enhancement: 0.08206604187337327
-- suppressed: 0.08195238106264838
-- asian: 0.08148072622633704
-- saturated: 0.08102622632728372
-- granulomas: 0.08016399689666993
-- implant: 0.07935743512972525
-- post: 0.0775818330395865
-- t2wi: 0.07626013493213357
-- distortion: 0.07537760107815805
-- imaging: 0.07493013670001211
-- gradient: 0.07482207096171004
-- artifact: 0.068880525197863
-- mammogram: 0.068063412674842
-- hyperdense: 0.06562767105833474
-- for: 0.06482194163604311
-- interval: 0.06450775476991508
-- hypointense: 0.0627352503644342
-- reduction: 0.062229214846659366
-- that: 0.061873977874795615
-- symmetric: 0.061092306890319525
-- 65: 0.06100207278112974
-- gadolinium: 0.05940089601268535
-- foci: 0.05826742754166517
-- screening: 0.057911353032920526
-- rupture: 0.057633622273736855
-- characteristic: 0.057633622273736855
-- sequences: 0.05703041496134264
-- the: 0.05689938929487518
-- hyperintense: 0.05670746753837219
-- recommended: 0.05670746753837219
-- from: 0.05662636959607119
-- free: 0.05549317623986704
-- shown: 0.05526386026786659
-- circumscribed: 0.05520718275652775
-- subsequent: 0.053969874110682076
-- in: 0.05320357525811311
-- presence: 0.05122220892704312
-- was: 0.04969022426552334
-- left: 0.048636837055063366
-- followed: 0.048140961872095635
-- cancer: 0.04748387745968545
-- patient: 0.04637382015932135
-- area: 0.04618239812560206
-- will: 0.04588385826598261
-- and: 0.044193334861974236
-- decreased: 0.044158207533138094
-- evaluation: 0.04347636372940519
-- time: 0.042255110906165676
-- of: 0.04185314507454773
-- low: 0.04090632674692081
-- high: 0.04051630624913268
-- prior: 0.039886625509911934
-- upper: 0.038096028636804814
-- demonstrate: 0.03706145835926486
-- mri: 0.036593726728080735
-- demonstrates: 0.035815092056176695
-- surgical: 0.03464904419778569
-- well: 0.034518748979373674
-- female: 0.03440049341475723
-- images: 0.03297616064528257
-- has: 0.03256298682270587
-- by: 0.030273675293930668
-- be: 0.028919318290032033
-- not: 0.02814341645304639
-- an: 0.027260882599070863
-- year: 0.021970034109956182
-- old: 0.02109883786159803
-- is: 0.01952312616187253
+\-\ Texto\\:\\ \ \(0\)\
+\-\ n\\/a\ \(127\)\
+\-\ patient\\ has\\ nonspecific\\ enhancing\\ nodules\\ that\\ will\\ be\\ followed\\ for\\ interval\\ change\\.\ \(0\)\
+\-\ well\\ circumscribed\\ non\\-enhancing\\ area\\ in\\ the\\ left\\ breast\\ that\\ is\\ hyperintense\\ on\\ t2wi\\,\\ hypointense\\ on\\ t1wi\\ and\\ fat\\ saturated\\ t2\\ sequences\\ compatible\\ with\\ injected\\ silicone\\.\\ \\ post\\ gadolinium\\ images\\ demonstrate\\ symmetric\\ enhancement\\ of\\ breast\\ parenchyma\\ with\\ nonspecific\\ nodules\\ of\\ enhancement\\ with\\ non\\-aggressive\\ time\\ intensity\\ curves\\ \\(not\\ shown\\)\\.\\ \\ architectural\\ distortion\\ in\\ the\\ upper\\ breast\\ with\\ blooming\\ artifact\\ on\\ gradient\\ imaging\\ compatible\\ with\\ post\\ surgical\\ change\\.\ \(0\)\
+\-\ siliconomas\\:\\ \\ silicone\\ granulomas\\ from\\ silicone\\ breast\\ augmentation\ \(0\)\
+\-\ injected\\ silicone\ \(1\)\
+\-\ free\\ silicone\\ from\\ silicone\\ breast\\ implant\\ rupture\ \(0\)\
+\-\ 65\\ year\\ old\\ asian\\ female\\ with\\ prior\\ left\\ breast\\ reduction\\ and\\ subsequent\\ augmentation\\.\ \(0\)\
+\-\ silicone\\ demonstrates\\ characteristic\\ low\\ signal\\ intensity\\ on\\ t1wi\\,\\ high\\ t2\\ signal\\,\\ with\\ decreased\\ signal\\ intensity\\ on\\ t2\\ fat\\ suppressed\\ imaging\\.\\ \\ patient\\'s\\ mammogram\\ was\\ obscured\\ by\\ the\\ presence\\ of\\ hyperdense\\ foci\\ in\\ the\\ breast\\ parenchyma\\ and\\ an\\ mri\\ was\\ recommended\\ for\\ evaluation\\ for\\ breast\\ cancer\\ screening\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ silicone\\:\\ 0\\.5703650835843592\ \(0\)\
+\-\ breast\\:\\ 0\\.4141471952391225\ \(0\)\
+\-\ augmentation\\:\\ 0\\.1760399035837638\ \(0\)\
+\-\ t1wi\\:\\ 0\\.15577091394682843\ \(0\)\
+\-\ injected\\:\\ 0\\.15577091394682843\ \(0\)\
+\-\ intensity\\:\\ 0\\.15186087926321512\ \(0\)\
+\-\ compatible\\:\\ 0\\.1425898148699908\ \(0\)\
+\-\ nonspecific\\:\\ 0\\.13400478585494305\ \(0\)\
+\-\ t2\\:\\ 0\\.12304452882300461\ \(0\)\
+\-\ signal\\:\\ 0\\.12123604814602298\ \(0\)\
+\-\ parenchyma\\:\\ 0\\.11582270606584105\ \(0\)\
+\-\ nodules\\:\\ 0\\.11328773510929238\ \(0\)\
+\-\ change\\:\\ 0\\.10804239616711205\ \(0\)\
+\-\ on\\:\\ 0\\.10765333084682016\ \(0\)\
+\-\ siliconomas\\:\\ 0\\.10255627763021712\ \(0\)\
+\-\ curves\\:\\ 0\\.1002777377069614\ \(0\)\
+\-\ with\\:\\ 0\\.09771568874376568\ \(0\)\
+\-\ blooming\\:\\ 0\\.09389376096806044\ \(0\)\
+\-\ enhancing\\:\\ 0\\.08931729145997899\ \(0\)\
+\-\ fat\\:\\ 0\\.0886929907718198\ \(0\)\
+\-\ obscured\\:\\ 0\\.08523124430590379\ \(0\)\
+\-\ architectural\\:\\ 0\\.08295270438264805\ \(0\)\
+\-\ enhancement\\:\\ 0\\.08206604187337327\ \(0\)\
+\-\ suppressed\\:\\ 0\\.08195238106264838\ \(0\)\
+\-\ asian\\:\\ 0\\.08148072622633704\ \(0\)\
+\-\ saturated\\:\\ 0\\.08102622632728372\ \(0\)\
+\-\ granulomas\\:\\ 0\\.08016399689666993\ \(0\)\
+\-\ implant\\:\\ 0\\.07935743512972525\ \(0\)\
+\-\ post\\:\\ 0\\.0775818330395865\ \(0\)\
+\-\ t2wi\\:\\ 0\\.07626013493213357\ \(0\)\
+\-\ distortion\\:\\ 0\\.07537760107815805\ \(0\)\
+\-\ imaging\\:\\ 0\\.07493013670001211\ \(0\)\
+\-\ gradient\\:\\ 0\\.07482207096171004\ \(0\)\
+\-\ artifact\\:\\ 0\\.068880525197863\ \(0\)\
+\-\ mammogram\\:\\ 0\\.068063412674842\ \(0\)\
+\-\ hyperdense\\:\\ 0\\.06562767105833474\ \(0\)\
+\-\ for\\:\\ 0\\.06482194163604311\ \(0\)\
+\-\ interval\\:\\ 0\\.06450775476991508\ \(0\)\
+\-\ hypointense\\:\\ 0\\.0627352503644342\ \(0\)\
+\-\ reduction\\:\\ 0\\.062229214846659366\ \(0\)\
+\-\ that\\:\\ 0\\.061873977874795615\ \(0\)\
+\-\ symmetric\\:\\ 0\\.061092306890319525\ \(0\)\
+\-\ 65\\:\\ 0\\.06100207278112974\ \(0\)\
+\-\ gadolinium\\:\\ 0\\.05940089601268535\ \(0\)\
+\-\ foci\\:\\ 0\\.05826742754166517\ \(0\)\
+\-\ screening\\:\\ 0\\.057911353032920526\ \(0\)\
+\-\ rupture\\:\\ 0\\.057633622273736855\ \(0\)\
+\-\ characteristic\\:\\ 0\\.057633622273736855\ \(0\)\
+\-\ sequences\\:\\ 0\\.05703041496134264\ \(0\)\
+\-\ the\\:\\ 0\\.05689938929487518\ \(0\)\
+\-\ hyperintense\\:\\ 0\\.05670746753837219\ \(0\)\
+\-\ recommended\\:\\ 0\\.05670746753837219\ \(0\)\
+\-\ from\\:\\ 0\\.05662636959607119\ \(0\)\
+\-\ free\\:\\ 0\\.05549317623986704\ \(0\)\
+\-\ shown\\:\\ 0\\.05526386026786659\ \(0\)\
+\-\ circumscribed\\:\\ 0\\.05520718275652775\ \(0\)\
+\-\ subsequent\\:\\ 0\\.053969874110682076\ \(0\)\
+\-\ in\\:\\ 0\\.05320357525811311\ \(0\)\
+\-\ presence\\:\\ 0\\.05122220892704312\ \(0\)\
+\-\ was\\:\\ 0\\.04969022426552334\ \(0\)\
+\-\ left\\:\\ 0\\.048636837055063366\ \(0\)\
+\-\ followed\\:\\ 0\\.048140961872095635\ \(0\)\
+\-\ cancer\\:\\ 0\\.04748387745968545\ \(0\)\
+\-\ patient\\:\\ 0\\.04637382015932135\ \(0\)\
+\-\ area\\:\\ 0\\.04618239812560206\ \(0\)\
+\-\ will\\:\\ 0\\.04588385826598261\ \(0\)\
+\-\ and\\:\\ 0\\.044193334861974236\ \(0\)\
+\-\ decreased\\:\\ 0\\.044158207533138094\ \(0\)\
+\-\ evaluation\\:\\ 0\\.04347636372940519\ \(0\)\
+\-\ time\\:\\ 0\\.042255110906165676\ \(0\)\
+\-\ of\\:\\ 0\\.04185314507454773\ \(0\)\
+\-\ low\\:\\ 0\\.04090632674692081\ \(0\)\
+\-\ high\\:\\ 0\\.04051630624913268\ \(0\)\
+\-\ prior\\:\\ 0\\.039886625509911934\ \(0\)\
+\-\ upper\\:\\ 0\\.038096028636804814\ \(0\)\
+\-\ demonstrate\\:\\ 0\\.03706145835926486\ \(0\)\
+\-\ mri\\:\\ 0\\.036593726728080735\ \(0\)\
+\-\ demonstrates\\:\\ 0\\.035815092056176695\ \(0\)\
+\-\ surgical\\:\\ 0\\.03464904419778569\ \(0\)\
+\-\ well\\:\\ 0\\.034518748979373674\ \(0\)\
+\-\ female\\:\\ 0\\.03440049341475723\ \(0\)\
+\-\ images\\:\\ 0\\.03297616064528257\ \(0\)\
+\-\ has\\:\\ 0\\.03256298682270587\ \(0\)\
+\-\ by\\:\\ 0\\.030273675293930668\ \(0\)\
+\-\ be\\:\\ 0\\.028919318290032033\ \(0\)\
+\-\ not\\:\\ 0\\.02814341645304639\ \(0\)\
+\-\ an\\:\\ 0\\.027260882599070863\ \(0\)\
+\-\ year\\:\\ 0\\.021970034109956182\ \(0\)\
+\-\ old\\:\\ 0\\.02109883786159803\ \(0\)\
+\-\ is\\:\\ 0\\.01952312616187253\ \(0\)\

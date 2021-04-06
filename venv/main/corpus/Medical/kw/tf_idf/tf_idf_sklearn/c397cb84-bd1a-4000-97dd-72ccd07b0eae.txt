@@ -1,136 +1,134 @@
-Texto: 
-gen - alert and oriented elderly gentleman in no acute distress
-chest - breath sounds decreased on left w/dullness to percussion at left lung base. breath sounds present on right with diffuse inspiratory crackles. good inspiratory effort. no accessory muscle use.
-cv - rrr no murmur
-abd - bs+, soft, nontender, nondistended, no masses
-ext - within normal limits
-therapeutic thoracentesis as needed for symptomatic relief of dyspnea.
-pa and lateral views of the chest are provided. there is an apical pneumothorax on the left. there is an air-fluid level also seen high in the left hemithorax, consistent with a hydropheumothorax. there is atelectasis and probable volume loss in the left lung base. patchy airspace disease in the right lung base. there is interstitial prominence in the right upper lobe, likely representing scar with emphysematous changes. the heart size is prominent. there is evidence of previous cabg with scarring and surgical clips.
-stable left pneumothorax and stable left pleural effusion
-congestive heart failure
-atelectasis
-postcardiac syndrome
-pnuemonia
-pulmonary embolism
-chylothorax
-hemothorax
-83 year old white gentleman with known cad s/p cabg presents with increasing dyspnea.
-
-
-Keywords by value: 
-- inspiratory: 0.21142098758984804
-- gentleman: 0.2076979230671482
-- left: 0.2025857313884282
-- cabg: 0.19870636881723253
-- base: 0.19360891770447958
-- there: 0.16878812250943862
-- lung: 0.15482769538303415
-- atelectasis: 0.1510923108879172
-- dyspnea: 0.14931970261290375
-- pneumothorax: 0.1478801139284748
-- is: 0.1394042763341397
-- hydropheumothorax: 0.1356778379164211
-- postcardiac: 0.1356778379164211
-- stable: 0.13422333579876508
-- sounds: 0.1310006533117673
-- pnuemonia: 0.12964741744453792
-- breath: 0.12436309356566476
-- chylothorax: 0.1193383455562566
-- the: 0.11850076088220016
-- heart: 0.11798159589246102
-- thoracentesis: 0.11174091426680723
-- no: 0.11035617985429973
-- cad: 0.1067366142090089
-- in: 0.10552735489398388
-- effort: 0.10001430866729584
-- with: 0.09967654889219532
-- nondistended: 0.09642754232072759
-- emphysematous: 0.0954014219066427
-- clips: 0.0954014219066427
-- hemothorax: 0.09444155036329586
-- congestive: 0.09268978130781078
-- airspace: 0.0911227704902446
-- percussion: 0.09075552104388895
-- accessory: 0.09075552104388895
-- ext: 0.09075552104388895
-- prominence: 0.08970523677901453
-- chest: 0.08956583981296473
-- elderly: 0.0893710014347595
-- probable: 0.08780399061719334
-- and: 0.08765587104443819
-- crackles: 0.08750946917340957
-- scarring: 0.08750946917340957
-- apical: 0.08722066695557185
-- hemithorax: 0.08638645690596326
-- 83: 0.08611847043244628
-- therapeutic: 0.08585522733223991
-- right: 0.08438404046343488
-- cv: 0.08436670137696116
-- gen: 0.08367481630713132
-- patchy: 0.08258872465497774
-- murmur: 0.08044644915560764
-- representing: 0.08026617001631897
-- scar: 0.08008804996056305
-- nontender: 0.0799120378839602
-- relief: 0.07956614213386339
-- rrr: 0.0790619295464782
-- abd: 0.07889758702472226
-- alert: 0.07810205800313136
-- interstitial: 0.07691159506729053
-- embolism: 0.07691159506729053
-- on: 0.0768695267204137
-- oriented: 0.07648864200941782
-- volume: 0.07453744035297122
-- needed: 0.07004696454579876
-- provided: 0.06960296599567889
-- good: 0.0690028273555683
-- distress: 0.06834535691017067
-- limits: 0.06703785709335276
-- views: 0.06696441078661569
-- prominent: 0.06681859739427506
-- increasing: 0.06681859739427506
-- symptomatic: 0.06523708355567728
-- pa: 0.06510718887072106
-- use: 0.06491444949663559
-- an: 0.06488516199444766
-- failure: 0.06441236479349316
-- previous: 0.06410695679544312
-- pleural: 0.06386706696757945
-- effusion: 0.06300044241863954
-- muscle: 0.06024210524490264
-- masses: 0.05775753542145995
-- size: 0.05744523319855104
-- white: 0.05597511423434632
-- known: 0.05492801166739597
-- diffuse: 0.05320526281017062
-- decreased: 0.05255171835980395
-- pulmonary: 0.05171397058558429
-- loss: 0.051687716656632125
-- changes: 0.051273836819128164
-- level: 0.05124834778651524
-- syndrome: 0.05114682625315085
-- likely: 0.05069836473318824
-- of: 0.049808513870928495
-- lobe: 0.049028630341774584
-- high: 0.0482175711816687
-- evidence: 0.048155384971673924
-- consistent: 0.046002266171757504
-- acute: 0.045895266811772535
-- upper: 0.045337251654655644
-- soft: 0.04516707992531292
-- present: 0.04353422632710935
-- lateral: 0.04210429340975105
-- surgical: 0.041235070756709964
-- presents: 0.040812481891686785
-- seen: 0.0399420463573279
-- also: 0.039906365779904494
-- within: 0.03907474779703313
-- disease: 0.03561287268291203
-- normal: 0.03463965627829358
-- as: 0.03408329130384072
-- are: 0.03219297089914374
-- at: 0.03204519121884116
-- year: 0.026146057763673323
-- for: 0.02571439233832585
-- old: 0.02510926613562823
-- to: 0.021209865894803857
+\-\ Texto\\:\\ \ \(0\)\
+\-\ gen\\ \\-\\ alert\\ and\\ oriented\\ elderly\\ gentleman\\ in\\ no\\ acute\\ distress\ \(0\)\
+\-\ chest\\ \\-\\ breath\\ sounds\\ decreased\\ on\\ left\\ w\\/dullness\\ to\\ percussion\\ at\\ left\\ lung\\ base\\.\\ breath\\ sounds\\ present\\ on\\ right\\ with\\ diffuse\\ inspiratory\\ crackles\\.\\ good\\ inspiratory\\ effort\\.\\ no\\ accessory\\ muscle\\ use\\.\ \(0\)\
+\-\ cv\\ \\-\\ rrr\\ no\\ murmur\ \(0\)\
+\-\ abd\\ \\-\\ bs\\+\\,\\ soft\\,\\ nontender\\,\\ nondistended\\,\\ no\\ masses\ \(0\)\
+\-\ ext\\ \\-\\ within\\ normal\\ limits\ \(0\)\
+\-\ therapeutic\\ thoracentesis\\ as\\ needed\\ for\\ symptomatic\\ relief\\ of\\ dyspnea\\.\ \(0\)\
+\-\ pa\\ and\\ lateral\\ views\\ of\\ the\\ chest\\ are\\ provided\\.\\ there\\ is\\ an\\ apical\\ pneumothorax\\ on\\ the\\ left\\.\\ there\\ is\\ an\\ air\\-fluid\\ level\\ also\\ seen\\ high\\ in\\ the\\ left\\ hemithorax\\,\\ consistent\\ with\\ a\\ hydropheumothorax\\.\\ there\\ is\\ atelectasis\\ and\\ probable\\ volume\\ loss\\ in\\ the\\ left\\ lung\\ base\\.\\ patchy\\ airspace\\ disease\\ in\\ the\\ right\\ lung\\ base\\.\\ there\\ is\\ interstitial\\ prominence\\ in\\ the\\ right\\ upper\\ lobe\\,\\ likely\\ representing\\ scar\\ with\\ emphysematous\\ changes\\.\\ the\\ heart\\ size\\ is\\ prominent\\.\\ there\\ is\\ evidence\\ of\\ previous\\ cabg\\ with\\ scarring\\ and\\ surgical\\ clips\\.\ \(0\)\
+\-\ stable\\ left\\ pneumothorax\\ and\\ stable\\ left\\ pleural\\ effusion\ \(0\)\
+\-\ congestive\\ heart\\ failure\ \(21\)\
+\-\ atelectasis\ \(143\)\
+\-\ postcardiac\\ syndrome\ \(0\)\
+\-\ pnuemonia\ \(0\)\
+\-\ pulmonary\\ embolism\ \(77\)\
+\-\ chylothorax\ \(4\)\
+\-\ hemothorax\ \(29\)\
+\-\ 83\\ year\\ old\\ white\\ gentleman\\ with\\ known\\ cad\\ s\\/p\\ cabg\\ presents\\ with\\ increasing\\ dyspnea\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ inspiratory\\:\\ 0\\.21142098758984804\ \(0\)\
+\-\ gentleman\\:\\ 0\\.2076979230671482\ \(0\)\
+\-\ left\\:\\ 0\\.2025857313884282\ \(0\)\
+\-\ cabg\\:\\ 0\\.19870636881723253\ \(0\)\
+\-\ base\\:\\ 0\\.19360891770447958\ \(0\)\
+\-\ there\\:\\ 0\\.16878812250943862\ \(0\)\
+\-\ lung\\:\\ 0\\.15482769538303415\ \(0\)\
+\-\ atelectasis\\:\\ 0\\.1510923108879172\ \(0\)\
+\-\ dyspnea\\:\\ 0\\.14931970261290375\ \(0\)\
+\-\ pneumothorax\\:\\ 0\\.1478801139284748\ \(0\)\
+\-\ is\\:\\ 0\\.1394042763341397\ \(0\)\
+\-\ hydropheumothorax\\:\\ 0\\.1356778379164211\ \(0\)\
+\-\ postcardiac\\:\\ 0\\.1356778379164211\ \(0\)\
+\-\ stable\\:\\ 0\\.13422333579876508\ \(0\)\
+\-\ sounds\\:\\ 0\\.1310006533117673\ \(0\)\
+\-\ pnuemonia\\:\\ 0\\.12964741744453792\ \(0\)\
+\-\ breath\\:\\ 0\\.12436309356566476\ \(0\)\
+\-\ chylothorax\\:\\ 0\\.1193383455562566\ \(0\)\
+\-\ the\\:\\ 0\\.11850076088220016\ \(0\)\
+\-\ heart\\:\\ 0\\.11798159589246102\ \(0\)\
+\-\ thoracentesis\\:\\ 0\\.11174091426680723\ \(0\)\
+\-\ no\\:\\ 0\\.11035617985429973\ \(0\)\
+\-\ cad\\:\\ 0\\.1067366142090089\ \(0\)\
+\-\ in\\:\\ 0\\.10552735489398388\ \(0\)\
+\-\ effort\\:\\ 0\\.10001430866729584\ \(0\)\
+\-\ with\\:\\ 0\\.09967654889219532\ \(0\)\
+\-\ nondistended\\:\\ 0\\.09642754232072759\ \(0\)\
+\-\ emphysematous\\:\\ 0\\.0954014219066427\ \(0\)\
+\-\ clips\\:\\ 0\\.0954014219066427\ \(0\)\
+\-\ hemothorax\\:\\ 0\\.09444155036329586\ \(0\)\
+\-\ congestive\\:\\ 0\\.09268978130781078\ \(0\)\
+\-\ airspace\\:\\ 0\\.0911227704902446\ \(0\)\
+\-\ percussion\\:\\ 0\\.09075552104388895\ \(0\)\
+\-\ accessory\\:\\ 0\\.09075552104388895\ \(0\)\
+\-\ ext\\:\\ 0\\.09075552104388895\ \(0\)\
+\-\ prominence\\:\\ 0\\.08970523677901453\ \(0\)\
+\-\ chest\\:\\ 0\\.08956583981296473\ \(0\)\
+\-\ elderly\\:\\ 0\\.0893710014347595\ \(0\)\
+\-\ probable\\:\\ 0\\.08780399061719334\ \(0\)\
+\-\ and\\:\\ 0\\.08765587104443819\ \(0\)\
+\-\ crackles\\:\\ 0\\.08750946917340957\ \(0\)\
+\-\ scarring\\:\\ 0\\.08750946917340957\ \(0\)\
+\-\ apical\\:\\ 0\\.08722066695557185\ \(0\)\
+\-\ hemithorax\\:\\ 0\\.08638645690596326\ \(0\)\
+\-\ 83\\:\\ 0\\.08611847043244628\ \(0\)\
+\-\ therapeutic\\:\\ 0\\.08585522733223991\ \(0\)\
+\-\ right\\:\\ 0\\.08438404046343488\ \(0\)\
+\-\ cv\\:\\ 0\\.08436670137696116\ \(0\)\
+\-\ gen\\:\\ 0\\.08367481630713132\ \(0\)\
+\-\ patchy\\:\\ 0\\.08258872465497774\ \(0\)\
+\-\ murmur\\:\\ 0\\.08044644915560764\ \(0\)\
+\-\ representing\\:\\ 0\\.08026617001631897\ \(0\)\
+\-\ scar\\:\\ 0\\.08008804996056305\ \(0\)\
+\-\ nontender\\:\\ 0\\.0799120378839602\ \(0\)\
+\-\ relief\\:\\ 0\\.07956614213386339\ \(0\)\
+\-\ rrr\\:\\ 0\\.0790619295464782\ \(0\)\
+\-\ abd\\:\\ 0\\.07889758702472226\ \(0\)\
+\-\ alert\\:\\ 0\\.07810205800313136\ \(0\)\
+\-\ interstitial\\:\\ 0\\.07691159506729053\ \(0\)\
+\-\ embolism\\:\\ 0\\.07691159506729053\ \(0\)\
+\-\ on\\:\\ 0\\.0768695267204137\ \(0\)\
+\-\ oriented\\:\\ 0\\.07648864200941782\ \(0\)\
+\-\ volume\\:\\ 0\\.07453744035297122\ \(0\)\
+\-\ needed\\:\\ 0\\.07004696454579876\ \(0\)\
+\-\ provided\\:\\ 0\\.06960296599567889\ \(0\)\
+\-\ good\\:\\ 0\\.0690028273555683\ \(0\)\
+\-\ distress\\:\\ 0\\.06834535691017067\ \(0\)\
+\-\ limits\\:\\ 0\\.06703785709335276\ \(0\)\
+\-\ views\\:\\ 0\\.06696441078661569\ \(0\)\
+\-\ prominent\\:\\ 0\\.06681859739427506\ \(0\)\
+\-\ increasing\\:\\ 0\\.06681859739427506\ \(0\)\
+\-\ symptomatic\\:\\ 0\\.06523708355567728\ \(0\)\
+\-\ pa\\:\\ 0\\.06510718887072106\ \(0\)\
+\-\ use\\:\\ 0\\.06491444949663559\ \(0\)\
+\-\ an\\:\\ 0\\.06488516199444766\ \(0\)\
+\-\ failure\\:\\ 0\\.06441236479349316\ \(0\)\
+\-\ previous\\:\\ 0\\.06410695679544312\ \(0\)\
+\-\ pleural\\:\\ 0\\.06386706696757945\ \(0\)\
+\-\ effusion\\:\\ 0\\.06300044241863954\ \(0\)\
+\-\ muscle\\:\\ 0\\.06024210524490264\ \(0\)\
+\-\ masses\\:\\ 0\\.05775753542145995\ \(0\)\
+\-\ size\\:\\ 0\\.05744523319855104\ \(0\)\
+\-\ white\\:\\ 0\\.05597511423434632\ \(0\)\
+\-\ known\\:\\ 0\\.05492801166739597\ \(0\)\
+\-\ diffuse\\:\\ 0\\.05320526281017062\ \(0\)\
+\-\ decreased\\:\\ 0\\.05255171835980395\ \(0\)\
+\-\ pulmonary\\:\\ 0\\.05171397058558429\ \(0\)\
+\-\ loss\\:\\ 0\\.051687716656632125\ \(0\)\
+\-\ changes\\:\\ 0\\.051273836819128164\ \(0\)\
+\-\ level\\:\\ 0\\.05124834778651524\ \(0\)\
+\-\ syndrome\\:\\ 0\\.05114682625315085\ \(0\)\
+\-\ likely\\:\\ 0\\.05069836473318824\ \(0\)\
+\-\ of\\:\\ 0\\.049808513870928495\ \(0\)\
+\-\ lobe\\:\\ 0\\.049028630341774584\ \(0\)\
+\-\ high\\:\\ 0\\.0482175711816687\ \(0\)\
+\-\ evidence\\:\\ 0\\.048155384971673924\ \(0\)\
+\-\ consistent\\:\\ 0\\.046002266171757504\ \(0\)\
+\-\ acute\\:\\ 0\\.045895266811772535\ \(0\)\
+\-\ upper\\:\\ 0\\.045337251654655644\ \(0\)\
+\-\ soft\\:\\ 0\\.04516707992531292\ \(0\)\
+\-\ present\\:\\ 0\\.04353422632710935\ \(0\)\
+\-\ lateral\\:\\ 0\\.04210429340975105\ \(0\)\
+\-\ surgical\\:\\ 0\\.041235070756709964\ \(0\)\
+\-\ presents\\:\\ 0\\.040812481891686785\ \(0\)\
+\-\ seen\\:\\ 0\\.0399420463573279\ \(0\)\
+\-\ also\\:\\ 0\\.039906365779904494\ \(0\)\
+\-\ within\\:\\ 0\\.03907474779703313\ \(0\)\
+\-\ disease\\:\\ 0\\.03561287268291203\ \(0\)\
+\-\ normal\\:\\ 0\\.03463965627829358\ \(0\)\
+\-\ as\\:\\ 0\\.03408329130384072\ \(0\)\
+\-\ are\\:\\ 0\\.03219297089914374\ \(0\)\
+\-\ at\\:\\ 0\\.03204519121884116\ \(0\)\
+\-\ year\\:\\ 0\\.026146057763673323\ \(0\)\
+\-\ for\\:\\ 0\\.02571439233832585\ \(0\)\
+\-\ old\\:\\ 0\\.02510926613562823\ \(0\)\
+\-\ to\\:\\ 0\\.021209865894803857\ \(0\)\

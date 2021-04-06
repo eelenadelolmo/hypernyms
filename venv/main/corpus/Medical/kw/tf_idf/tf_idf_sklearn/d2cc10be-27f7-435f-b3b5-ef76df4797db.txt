@@ -1,130 +1,128 @@
-Texto: 
-normal
-the patient is in good general condition and he is seizure-free after surgery.
-conventional multiplanar mr imaging demonstrates a cortically-based mass lesion in the anteromedial portion of the left temporal lobe. the lesion is hyperintense on t2-weighted  and flair sequences, possibly containing a small cystic space in the medial portion. on t1-weighted sequence the lesion is slightly hypointense compared to gray matter signal intensity. there is no edema or mass effect in the surrounding brain parenchyma. following contrast administration, the mass enhances strongly and homogeneously, except from the small cystic region in the medial aspect of the mass. 
-the imaging findings are more compatible with a  low-grade intra-axial neoplasm
-anaplastic ganglioglioma (who grade iii)
-ganglioglioma
-low-grade diffuse  astrocytoma
-oligodendroglioma
-dnet
-an otherwise healthy 14-year old boy presents with 1-month history of complex partial seizures.
-in the clinical setting of complex partial seizures, ganglioglioma is one of the most common tumors we have to think, despite the fact that the typical imaging appearance of a circumscribed cyst with mural nodule is not present. in this case , a major differential diagnosis would be diffuse low grade astrocytoma.
-
-
-Keywords by value: 
-- the: 0.28792021291776526
-- ganglioglioma: 0.2839589343911993
-- grade: 0.2594011170813783
-- is: 0.17288286823919877
-- in: 0.15704429394724306
-- low: 0.15524452616204856
-- seizures: 0.14723911036417126
-- imaging: 0.14218452855983374
-- complex: 0.13897128767764277
-- partial: 0.13897128767764277
-- mass: 0.13779180936895116
-- astrocytoma: 0.1361618013649352
-- lesion: 0.1297089178459916
-- portion: 0.1289783882543718
-- medial: 0.1174061330860441
-- think: 0.11463154951997549
-- diffuse: 0.1131132970985179
-- cystic: 0.10862973683620444
-- of: 0.1058918785462892
-- anteromedial: 0.10493856174879733
-- multiplanar: 0.10250148826367005
-- dnet: 0.09990390899722638
-- anaplastic: 0.09897365930505367
-- oligodendroglioma: 0.09465297813039977
-- homogeneously: 0.09398012408944763
-- small: 0.09304008294560642
-- conventional: 0.09211801155437715
-- mural: 0.09211801155437715
-- sequence: 0.09098826793864541
-- strongly: 0.09071801035476768
-- compatible: 0.09019097209574574
-- we: 0.08671506332719893
-- fact: 0.0865083978527494
-- possibly: 0.08476076578652711
-- except: 0.08404202003362118
-- setting: 0.08386732561893871
-- containing: 0.08101386149335045
-- enhances: 0.07949385747148156
-- hypointense: 0.07936265602416614
-- major: 0.07884847465145892
-- despite: 0.07847352386795835
-- iii: 0.07786771474486152
-- gray: 0.07717011553738161
-- flair: 0.07672158379035546
-- healthy: 0.07650200132067934
-- good: 0.0733492975982079
-- parenchyma: 0.07326022872224452
-- compared: 0.07290888795958901
-- general: 0.07239609651027862
-- sequences: 0.07214580605321723
-- condition: 0.07206324877074824
-- administration: 0.07181813248609993
-- hyperintense: 0.07173726436263327
-- nodule: 0.07118248169695834
-- slightly: 0.0703482041210155
-- circumscribed: 0.06983934278922527
-- typical: 0.06969691224330227
-- temporal: 0.06927716147260787
-- matter: 0.06866771919226951
-- tumors: 0.06632582771449029
-- otherwise: 0.06428650309872883
-- intensity: 0.06403673986837509
-- would: 0.06383973191514809
-- effect: 0.06326302297640388
-- boy: 0.06169197560020646
-- neoplasm: 0.06156430585929844
-- surrounding: 0.06014635501804712
-- space: 0.06003053264165943
-- differential: 0.05859731575630541
-- mr: 0.058353280512627614
-- aspect: 0.058181247436839924
-- clinical: 0.05715449886724489
-- brain: 0.056220584648506065
-- and: 0.05590637500986219
-- on: 0.05447434554717584
-- appearance: 0.05436855160607348
-- following: 0.054101940166969065
-- region: 0.053944105075671565
-- edema: 0.05378783015908027
-- he: 0.05340377037414316
-- with: 0.05297757445924398
-- lobe: 0.052116931082261606
-- cyst: 0.05202393267488164
-- one: 0.05163468111913087
-- common: 0.051144764396023265
-- signal: 0.05112285214904073
-- who: 0.05101374416825228
-- more: 0.04952076509822779
-- surgery: 0.04848683389268276
-- most: 0.04693458236038818
-- diagnosis: 0.04675084387357012
-- present: 0.04627643598023088
-- demonstrates: 0.045307555398545064
-- case: 0.045307555398545064
-- to: 0.04509173972015528
-- have: 0.04505194866834627
-- findings: 0.04450951410301298
-- contrast: 0.04381865563730775
-- after: 0.04374982799848675
-- presents: 0.04338324956699378
-- that: 0.03913655556006291
-- normal: 0.03682159926525319
-- be: 0.03658411971854236
-- there: 0.03588400853545177
-- from: 0.03581733607536571
-- not: 0.035602572179646755
-- an: 0.0344861307806586
-- history: 0.03445558065778605
-- are: 0.034220797807079845
-- or: 0.03137347316362502
-- this: 0.030988911093301864
-- left: 0.03076379345648304
-- patient: 0.029332389019341685
-- no: 0.029326871767962354
-- old: 0.026690892313214403
+\-\ Texto\\:\\ \ \(0\)\
+\-\ normal\ \(4026\)\
+\-\ the\\ patient\\ is\\ in\\ good\\ general\\ condition\\ and\\ he\\ is\\ seizure\\-free\\ after\\ surgery\\.\ \(0\)\
+\-\ conventional\\ multiplanar\\ mr\\ imaging\\ demonstrates\\ a\\ cortically\\-based\\ mass\\ lesion\\ in\\ the\\ anteromedial\\ portion\\ of\\ the\\ left\\ temporal\\ lobe\\.\\ the\\ lesion\\ is\\ hyperintense\\ on\\ t2\\-weighted\\ \\ and\\ flair\\ sequences\\,\\ possibly\\ containing\\ a\\ small\\ cystic\\ space\\ in\\ the\\ medial\\ portion\\.\\ on\\ t1\\-weighted\\ sequence\\ the\\ lesion\\ is\\ slightly\\ hypointense\\ compared\\ to\\ gray\\ matter\\ signal\\ intensity\\.\\ there\\ is\\ no\\ edema\\ or\\ mass\\ effect\\ in\\ the\\ surrounding\\ brain\\ parenchyma\\.\\ following\\ contrast\\ administration\\,\\ the\\ mass\\ enhances\\ strongly\\ and\\ homogeneously\\,\\ except\\ from\\ the\\ small\\ cystic\\ region\\ in\\ the\\ medial\\ aspect\\ of\\ the\\ mass\\.\\ \ \(0\)\
+\-\ the\\ imaging\\ findings\\ are\\ more\\ compatible\\ with\\ a\\ \\ low\\-grade\\ intra\\-axial\\ neoplasm\ \(0\)\
+\-\ anaplastic\\ ganglioglioma\\ \\(who\\ grade\\ iii\\)\ \(0\)\
+\-\ ganglioglioma\ \(14\)\
+\-\ low\\-grade\\ diffuse\\ \\ astrocytoma\ \(1\)\
+\-\ oligodendroglioma\ \(21\)\
+\-\ dnet\ \(1\)\
+\-\ an\\ otherwise\\ healthy\\ 14\\-year\\ old\\ boy\\ presents\\ with\\ 1\\-month\\ history\\ of\\ complex\\ partial\\ seizures\\.\ \(0\)\
+\-\ in\\ the\\ clinical\\ setting\\ of\\ complex\\ partial\\ seizures\\,\\ ganglioglioma\\ is\\ one\\ of\\ the\\ most\\ common\\ tumors\\ we\\ have\\ to\\ think\\,\\ despite\\ the\\ fact\\ that\\ the\\ typical\\ imaging\\ appearance\\ of\\ a\\ circumscribed\\ cyst\\ with\\ mural\\ nodule\\ is\\ not\\ present\\.\\ in\\ this\\ case\\ \\,\\ a\\ major\\ differential\\ diagnosis\\ would\\ be\\ diffuse\\ low\\ grade\\ astrocytoma\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ the\\:\\ 0\\.28792021291776526\ \(0\)\
+\-\ ganglioglioma\\:\\ 0\\.2839589343911993\ \(0\)\
+\-\ grade\\:\\ 0\\.2594011170813783\ \(0\)\
+\-\ is\\:\\ 0\\.17288286823919877\ \(0\)\
+\-\ in\\:\\ 0\\.15704429394724306\ \(0\)\
+\-\ low\\:\\ 0\\.15524452616204856\ \(0\)\
+\-\ seizures\\:\\ 0\\.14723911036417126\ \(0\)\
+\-\ imaging\\:\\ 0\\.14218452855983374\ \(0\)\
+\-\ complex\\:\\ 0\\.13897128767764277\ \(0\)\
+\-\ partial\\:\\ 0\\.13897128767764277\ \(0\)\
+\-\ mass\\:\\ 0\\.13779180936895116\ \(0\)\
+\-\ astrocytoma\\:\\ 0\\.1361618013649352\ \(0\)\
+\-\ lesion\\:\\ 0\\.1297089178459916\ \(0\)\
+\-\ portion\\:\\ 0\\.1289783882543718\ \(0\)\
+\-\ medial\\:\\ 0\\.1174061330860441\ \(0\)\
+\-\ think\\:\\ 0\\.11463154951997549\ \(0\)\
+\-\ diffuse\\:\\ 0\\.1131132970985179\ \(0\)\
+\-\ cystic\\:\\ 0\\.10862973683620444\ \(0\)\
+\-\ of\\:\\ 0\\.1058918785462892\ \(0\)\
+\-\ anteromedial\\:\\ 0\\.10493856174879733\ \(0\)\
+\-\ multiplanar\\:\\ 0\\.10250148826367005\ \(0\)\
+\-\ dnet\\:\\ 0\\.09990390899722638\ \(0\)\
+\-\ anaplastic\\:\\ 0\\.09897365930505367\ \(0\)\
+\-\ oligodendroglioma\\:\\ 0\\.09465297813039977\ \(0\)\
+\-\ homogeneously\\:\\ 0\\.09398012408944763\ \(0\)\
+\-\ small\\:\\ 0\\.09304008294560642\ \(0\)\
+\-\ conventional\\:\\ 0\\.09211801155437715\ \(0\)\
+\-\ mural\\:\\ 0\\.09211801155437715\ \(0\)\
+\-\ sequence\\:\\ 0\\.09098826793864541\ \(0\)\
+\-\ strongly\\:\\ 0\\.09071801035476768\ \(0\)\
+\-\ compatible\\:\\ 0\\.09019097209574574\ \(0\)\
+\-\ we\\:\\ 0\\.08671506332719893\ \(0\)\
+\-\ fact\\:\\ 0\\.0865083978527494\ \(0\)\
+\-\ possibly\\:\\ 0\\.08476076578652711\ \(0\)\
+\-\ except\\:\\ 0\\.08404202003362118\ \(0\)\
+\-\ setting\\:\\ 0\\.08386732561893871\ \(0\)\
+\-\ containing\\:\\ 0\\.08101386149335045\ \(0\)\
+\-\ enhances\\:\\ 0\\.07949385747148156\ \(0\)\
+\-\ hypointense\\:\\ 0\\.07936265602416614\ \(0\)\
+\-\ major\\:\\ 0\\.07884847465145892\ \(0\)\
+\-\ despite\\:\\ 0\\.07847352386795835\ \(0\)\
+\-\ iii\\:\\ 0\\.07786771474486152\ \(0\)\
+\-\ gray\\:\\ 0\\.07717011553738161\ \(0\)\
+\-\ flair\\:\\ 0\\.07672158379035546\ \(0\)\
+\-\ healthy\\:\\ 0\\.07650200132067934\ \(0\)\
+\-\ good\\:\\ 0\\.0733492975982079\ \(0\)\
+\-\ parenchyma\\:\\ 0\\.07326022872224452\ \(0\)\
+\-\ compared\\:\\ 0\\.07290888795958901\ \(0\)\
+\-\ general\\:\\ 0\\.07239609651027862\ \(0\)\
+\-\ sequences\\:\\ 0\\.07214580605321723\ \(0\)\
+\-\ condition\\:\\ 0\\.07206324877074824\ \(0\)\
+\-\ administration\\:\\ 0\\.07181813248609993\ \(0\)\
+\-\ hyperintense\\:\\ 0\\.07173726436263327\ \(0\)\
+\-\ nodule\\:\\ 0\\.07118248169695834\ \(0\)\
+\-\ slightly\\:\\ 0\\.0703482041210155\ \(0\)\
+\-\ circumscribed\\:\\ 0\\.06983934278922527\ \(0\)\
+\-\ typical\\:\\ 0\\.06969691224330227\ \(0\)\
+\-\ temporal\\:\\ 0\\.06927716147260787\ \(0\)\
+\-\ matter\\:\\ 0\\.06866771919226951\ \(0\)\
+\-\ tumors\\:\\ 0\\.06632582771449029\ \(0\)\
+\-\ otherwise\\:\\ 0\\.06428650309872883\ \(0\)\
+\-\ intensity\\:\\ 0\\.06403673986837509\ \(0\)\
+\-\ would\\:\\ 0\\.06383973191514809\ \(0\)\
+\-\ effect\\:\\ 0\\.06326302297640388\ \(0\)\
+\-\ boy\\:\\ 0\\.06169197560020646\ \(0\)\
+\-\ neoplasm\\:\\ 0\\.06156430585929844\ \(0\)\
+\-\ surrounding\\:\\ 0\\.06014635501804712\ \(0\)\
+\-\ space\\:\\ 0\\.06003053264165943\ \(0\)\
+\-\ differential\\:\\ 0\\.05859731575630541\ \(0\)\
+\-\ mr\\:\\ 0\\.058353280512627614\ \(0\)\
+\-\ aspect\\:\\ 0\\.058181247436839924\ \(0\)\
+\-\ clinical\\:\\ 0\\.05715449886724489\ \(0\)\
+\-\ brain\\:\\ 0\\.056220584648506065\ \(0\)\
+\-\ and\\:\\ 0\\.05590637500986219\ \(0\)\
+\-\ on\\:\\ 0\\.05447434554717584\ \(0\)\
+\-\ appearance\\:\\ 0\\.05436855160607348\ \(0\)\
+\-\ following\\:\\ 0\\.054101940166969065\ \(0\)\
+\-\ region\\:\\ 0\\.053944105075671565\ \(0\)\
+\-\ edema\\:\\ 0\\.05378783015908027\ \(0\)\
+\-\ he\\:\\ 0\\.05340377037414316\ \(0\)\
+\-\ with\\:\\ 0\\.05297757445924398\ \(0\)\
+\-\ lobe\\:\\ 0\\.052116931082261606\ \(0\)\
+\-\ cyst\\:\\ 0\\.05202393267488164\ \(0\)\
+\-\ one\\:\\ 0\\.05163468111913087\ \(0\)\
+\-\ common\\:\\ 0\\.051144764396023265\ \(0\)\
+\-\ signal\\:\\ 0\\.05112285214904073\ \(0\)\
+\-\ who\\:\\ 0\\.05101374416825228\ \(0\)\
+\-\ more\\:\\ 0\\.04952076509822779\ \(0\)\
+\-\ surgery\\:\\ 0\\.04848683389268276\ \(0\)\
+\-\ most\\:\\ 0\\.04693458236038818\ \(0\)\
+\-\ diagnosis\\:\\ 0\\.04675084387357012\ \(0\)\
+\-\ present\\:\\ 0\\.04627643598023088\ \(0\)\
+\-\ demonstrates\\:\\ 0\\.045307555398545064\ \(0\)\
+\-\ case\\:\\ 0\\.045307555398545064\ \(0\)\
+\-\ to\\:\\ 0\\.04509173972015528\ \(0\)\
+\-\ have\\:\\ 0\\.04505194866834627\ \(0\)\
+\-\ findings\\:\\ 0\\.04450951410301298\ \(0\)\
+\-\ contrast\\:\\ 0\\.04381865563730775\ \(0\)\
+\-\ after\\:\\ 0\\.04374982799848675\ \(0\)\
+\-\ presents\\:\\ 0\\.04338324956699378\ \(0\)\
+\-\ that\\:\\ 0\\.03913655556006291\ \(0\)\
+\-\ normal\\:\\ 0\\.03682159926525319\ \(0\)\
+\-\ be\\:\\ 0\\.03658411971854236\ \(0\)\
+\-\ there\\:\\ 0\\.03588400853545177\ \(0\)\
+\-\ from\\:\\ 0\\.03581733607536571\ \(0\)\
+\-\ not\\:\\ 0\\.035602572179646755\ \(0\)\
+\-\ an\\:\\ 0\\.0344861307806586\ \(0\)\
+\-\ history\\:\\ 0\\.03445558065778605\ \(0\)\
+\-\ are\\:\\ 0\\.034220797807079845\ \(0\)\
+\-\ or\\:\\ 0\\.03137347316362502\ \(0\)\
+\-\ this\\:\\ 0\\.030988911093301864\ \(0\)\
+\-\ left\\:\\ 0\\.03076379345648304\ \(0\)\
+\-\ patient\\:\\ 0\\.029332389019341685\ \(0\)\
+\-\ no\\:\\ 0\\.029326871767962354\ \(0\)\
+\-\ old\\:\\ 0\\.026690892313214403\ \(0\)\

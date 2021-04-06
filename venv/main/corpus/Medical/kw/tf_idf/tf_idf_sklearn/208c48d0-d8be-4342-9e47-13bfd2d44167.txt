@@ -1,114 +1,111 @@
-Texto: 
-pe was unchanged from pre-op
-labs: bun 21, cr 2.9
-the patient underwent a total nephrectomy of the l kidney and reimplantation of the r ureter into the bladder.
-ultrasound of the l kidney shows mild hydronephrosis and a 7.5 by 5.5 cm mass located in the lower pole of the kidney.
-
-mri: t1 axial image shows a low-intensity, homogenous mass within the l kidney that enhances with contrast and reveals a well-defined capsule.  t2 coronal section shows a high-intensity homogenous mass in the lower pole of the l kidney
-renal oncocytoma
-renal oncocytoma
-renal cell carcinoma
-angiomyolipoma
-the patient was a 39 y/o female admitted for a laproscopic bso.  on the night of surgery the patient became anuric and was noted to have an increasing bun and creatinine.
-renal oncocytomas are very difficult to distinguish from renal cell carcinomas.  this patient had images that showed some features indicative of oncocytoma, but these cases are often considered renal cell carcinoma until proven otherwise.  as a result the treatment was resection of the tumor with diagnosed confirmed by tissue pathology.
-
-
-Keywords by value: 
-- renal: 0.3249071427227189
-- kidney: 0.3054558090155644
-- oncocytoma: 0.29650393525516305
-- the: 0.26026901418623
-- homogenous: 0.18458997348530048
-- bun: 0.16762973706760634
-- shows: 0.15311043208406766
-- pole: 0.15157161764680274
-- cell: 0.1492319102787949
-- of: 0.13613833204828502
-- bso: 0.13288378175921248
-- anuric: 0.13288378175921248
-- oncocytomas: 0.12509669720868766
-- was: 0.1212228657828052
-- laproscopic: 0.1179319078369104
-- patient: 0.11313226011961834
-- reimplantation: 0.11307736253949961
-- carcinoma: 0.10402866475207184
-- mass: 0.09964687931829751
-- carcinomas: 0.09728305798860357
-- unchanged: 0.09679907718058912
-- distinguish: 0.09417937210226607
-- angiomyolipoma: 0.09302103419837805
-- cr: 0.08999582526782238
-- and: 0.08984400821378284
-- indicative: 0.08939794020637057
-- lower: 0.08887124407336694
-- nephrectomy: 0.08882262230669216
-- creatinine: 0.08854290592679497
-- proven: 0.08773329364240263
-- ureter: 0.08530849314599642
-- became: 0.08530849314599642
-- capsule: 0.08508594736884734
-- hydronephrosis: 0.08070048877470591
-- section: 0.07927772595190859
-- night: 0.07811570722825284
-- enhances: 0.0766500791620259
-- that: 0.07547300325396922
-- by: 0.07385480204915577
-- until: 0.07236019526963103
-- 39: 0.07226462056788448
-- difficult: 0.07216964135101049
-- pe: 0.07188820354205677
-- total: 0.07125104330606703
-- admitted: 0.07125104330606703
-- features: 0.06996927059826308
-- 21: 0.06948528979024864
-- coronal: 0.06924894218780735
-- from: 0.069072044881822
-- located: 0.06878696395516991
-- increasing: 0.06848657758567339
-- pathology: 0.06826510955004929
-- considered: 0.0677605301299456
-- bladder: 0.06747952466163751
-- reveals: 0.06614731367578892
-- are: 0.06599319606150358
-- result: 0.06509983119610722
-- confirmed: 0.06411972072049534
-- diagnosed: 0.06299001027101847
-- very: 0.06238016434979737
-- otherwise: 0.06198674599902455
-- labs: 0.06024528589869642
-- underwent: 0.05990270709984607
-- cases: 0.05848833168578519
-- showed: 0.05792016225751275
-- often: 0.05674007552340762
-- resection: 0.05574119546075754
-- image: 0.0556128232074512
-- some: 0.05471311282097384
-- t1: 0.054180254552188126
-- ultrasound: 0.05363729521909398
-- axial: 0.05023005552116533
-- t2: 0.050029325430007696
-- cm: 0.049940953501394596
-- mild: 0.04929400571130047
-- these: 0.04910515672357563
-- surgery: 0.046752287213177895
-- into: 0.04622536442229467
-- noted: 0.046104992894481396
-- tissue: 0.04561619553584868
-- tumor: 0.04548406803484969
-- mri: 0.04463651039233302
-- to: 0.0434786476469998
-- have: 0.04344028006278495
-- had: 0.043325662116845576
-- in: 0.04326464583332865
-- but: 0.043000856272199885
-- contrast: 0.0422511063144486
-- female: 0.041961235411174795
-- treatment: 0.04142269931674161
-- images: 0.04022385444040831
-- within: 0.04005016344254204
-- as: 0.034934106151345075
-- with: 0.034054918667310974
-- an: 0.033252439099181554
-- this: 0.029880327411444474
-- for: 0.026356295920962967
-- on: 0.026262802129010592
+\-\ Texto\\:\\ \ \(0\)\
+\-\ pe\\ was\\ unchanged\\ from\\ pre\\-op\ \(0\)\
+\-\ labs\\:\\ bun\\ 21\\,\\ cr\\ 2\\.9\ \(0\)\
+\-\ the\\ patient\\ underwent\\ a\\ total\\ nephrectomy\\ of\\ the\\ l\\ kidney\\ and\\ reimplantation\\ of\\ the\\ r\\ ureter\\ into\\ the\\ bladder\\.\ \(0\)\
+\-\ ultrasound\\ of\\ the\\ l\\ kidney\\ shows\\ mild\\ hydronephrosis\\ and\\ a\\ 7\\.5\\ by\\ 5\\.5\\ cm\\ mass\\ located\\ in\\ the\\ lower\\ pole\\ of\\ the\\ kidney\\.\ \(0\)\
+\-\ mri\\:\\ t1\\ axial\\ image\\ shows\\ a\\ low\\-intensity\\,\\ homogenous\\ mass\\ within\\ the\\ l\\ kidney\\ that\\ enhances\\ with\\ contrast\\ and\\ reveals\\ a\\ well\\-defined\\ capsule\\.\\ \\ t2\\ coronal\\ section\\ shows\\ a\\ high\\-intensity\\ homogenous\\ mass\\ in\\ the\\ lower\\ pole\\ of\\ the\\ l\\ kidney\ \(0\)\
+\-\ renal\\ oncocytoma\ \(1\)\
+\-\ renal\\ oncocytoma\ \(1\)\
+\-\ renal\\ cell\\ carcinoma\ \(60\)\
+\-\ angiomyolipoma\ \(35\)\
+\-\ the\\ patient\\ was\\ a\\ 39\\ y\\/o\\ female\\ admitted\\ for\\ a\\ laproscopic\\ bso\\.\\ \\ on\\ the\\ night\\ of\\ surgery\\ the\\ patient\\ became\\ anuric\\ and\\ was\\ noted\\ to\\ have\\ an\\ increasing\\ bun\\ and\\ creatinine\\.\ \(0\)\
+\-\ renal\\ oncocytomas\\ are\\ very\\ difficult\\ to\\ distinguish\\ from\\ renal\\ cell\\ carcinomas\\.\\ \\ this\\ patient\\ had\\ images\\ that\\ showed\\ some\\ features\\ indicative\\ of\\ oncocytoma\\,\\ but\\ these\\ cases\\ are\\ often\\ considered\\ renal\\ cell\\ carcinoma\\ until\\ proven\\ otherwise\\.\\ \\ as\\ a\\ result\\ the\\ treatment\\ was\\ resection\\ of\\ the\\ tumor\\ with\\ diagnosed\\ confirmed\\ by\\ tissue\\ pathology\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ renal\\:\\ 0\\.3249071427227189\ \(0\)\
+\-\ kidney\\:\\ 0\\.3054558090155644\ \(0\)\
+\-\ oncocytoma\\:\\ 0\\.29650393525516305\ \(0\)\
+\-\ the\\:\\ 0\\.26026901418623\ \(0\)\
+\-\ homogenous\\:\\ 0\\.18458997348530048\ \(0\)\
+\-\ bun\\:\\ 0\\.16762973706760634\ \(0\)\
+\-\ shows\\:\\ 0\\.15311043208406766\ \(0\)\
+\-\ pole\\:\\ 0\\.15157161764680274\ \(0\)\
+\-\ cell\\:\\ 0\\.1492319102787949\ \(0\)\
+\-\ of\\:\\ 0\\.13613833204828502\ \(0\)\
+\-\ bso\\:\\ 0\\.13288378175921248\ \(0\)\
+\-\ anuric\\:\\ 0\\.13288378175921248\ \(0\)\
+\-\ oncocytomas\\:\\ 0\\.12509669720868766\ \(0\)\
+\-\ was\\:\\ 0\\.1212228657828052\ \(0\)\
+\-\ laproscopic\\:\\ 0\\.1179319078369104\ \(0\)\
+\-\ patient\\:\\ 0\\.11313226011961834\ \(0\)\
+\-\ reimplantation\\:\\ 0\\.11307736253949961\ \(0\)\
+\-\ carcinoma\\:\\ 0\\.10402866475207184\ \(0\)\
+\-\ mass\\:\\ 0\\.09964687931829751\ \(0\)\
+\-\ carcinomas\\:\\ 0\\.09728305798860357\ \(0\)\
+\-\ unchanged\\:\\ 0\\.09679907718058912\ \(0\)\
+\-\ distinguish\\:\\ 0\\.09417937210226607\ \(0\)\
+\-\ angiomyolipoma\\:\\ 0\\.09302103419837805\ \(0\)\
+\-\ cr\\:\\ 0\\.08999582526782238\ \(0\)\
+\-\ and\\:\\ 0\\.08984400821378284\ \(0\)\
+\-\ indicative\\:\\ 0\\.08939794020637057\ \(0\)\
+\-\ lower\\:\\ 0\\.08887124407336694\ \(0\)\
+\-\ nephrectomy\\:\\ 0\\.08882262230669216\ \(0\)\
+\-\ creatinine\\:\\ 0\\.08854290592679497\ \(0\)\
+\-\ proven\\:\\ 0\\.08773329364240263\ \(0\)\
+\-\ ureter\\:\\ 0\\.08530849314599642\ \(0\)\
+\-\ became\\:\\ 0\\.08530849314599642\ \(0\)\
+\-\ capsule\\:\\ 0\\.08508594736884734\ \(0\)\
+\-\ hydronephrosis\\:\\ 0\\.08070048877470591\ \(0\)\
+\-\ section\\:\\ 0\\.07927772595190859\ \(0\)\
+\-\ night\\:\\ 0\\.07811570722825284\ \(0\)\
+\-\ enhances\\:\\ 0\\.0766500791620259\ \(0\)\
+\-\ that\\:\\ 0\\.07547300325396922\ \(0\)\
+\-\ by\\:\\ 0\\.07385480204915577\ \(0\)\
+\-\ until\\:\\ 0\\.07236019526963103\ \(0\)\
+\-\ 39\\:\\ 0\\.07226462056788448\ \(0\)\
+\-\ difficult\\:\\ 0\\.07216964135101049\ \(0\)\
+\-\ pe\\:\\ 0\\.07188820354205677\ \(0\)\
+\-\ total\\:\\ 0\\.07125104330606703\ \(0\)\
+\-\ admitted\\:\\ 0\\.07125104330606703\ \(0\)\
+\-\ features\\:\\ 0\\.06996927059826308\ \(0\)\
+\-\ 21\\:\\ 0\\.06948528979024864\ \(0\)\
+\-\ coronal\\:\\ 0\\.06924894218780735\ \(0\)\
+\-\ from\\:\\ 0\\.069072044881822\ \(0\)\
+\-\ located\\:\\ 0\\.06878696395516991\ \(0\)\
+\-\ increasing\\:\\ 0\\.06848657758567339\ \(0\)\
+\-\ pathology\\:\\ 0\\.06826510955004929\ \(0\)\
+\-\ considered\\:\\ 0\\.0677605301299456\ \(0\)\
+\-\ bladder\\:\\ 0\\.06747952466163751\ \(0\)\
+\-\ reveals\\:\\ 0\\.06614731367578892\ \(0\)\
+\-\ are\\:\\ 0\\.06599319606150358\ \(0\)\
+\-\ result\\:\\ 0\\.06509983119610722\ \(0\)\
+\-\ confirmed\\:\\ 0\\.06411972072049534\ \(0\)\
+\-\ diagnosed\\:\\ 0\\.06299001027101847\ \(0\)\
+\-\ very\\:\\ 0\\.06238016434979737\ \(0\)\
+\-\ otherwise\\:\\ 0\\.06198674599902455\ \(0\)\
+\-\ labs\\:\\ 0\\.06024528589869642\ \(0\)\
+\-\ underwent\\:\\ 0\\.05990270709984607\ \(0\)\
+\-\ cases\\:\\ 0\\.05848833168578519\ \(0\)\
+\-\ showed\\:\\ 0\\.05792016225751275\ \(0\)\
+\-\ often\\:\\ 0\\.05674007552340762\ \(0\)\
+\-\ resection\\:\\ 0\\.05574119546075754\ \(0\)\
+\-\ image\\:\\ 0\\.0556128232074512\ \(0\)\
+\-\ some\\:\\ 0\\.05471311282097384\ \(0\)\
+\-\ t1\\:\\ 0\\.054180254552188126\ \(0\)\
+\-\ ultrasound\\:\\ 0\\.05363729521909398\ \(0\)\
+\-\ axial\\:\\ 0\\.05023005552116533\ \(0\)\
+\-\ t2\\:\\ 0\\.050029325430007696\ \(0\)\
+\-\ cm\\:\\ 0\\.049940953501394596\ \(0\)\
+\-\ mild\\:\\ 0\\.04929400571130047\ \(0\)\
+\-\ these\\:\\ 0\\.04910515672357563\ \(0\)\
+\-\ surgery\\:\\ 0\\.046752287213177895\ \(0\)\
+\-\ into\\:\\ 0\\.04622536442229467\ \(0\)\
+\-\ noted\\:\\ 0\\.046104992894481396\ \(0\)\
+\-\ tissue\\:\\ 0\\.04561619553584868\ \(0\)\
+\-\ tumor\\:\\ 0\\.04548406803484969\ \(0\)\
+\-\ mri\\:\\ 0\\.04463651039233302\ \(0\)\
+\-\ to\\:\\ 0\\.0434786476469998\ \(0\)\
+\-\ have\\:\\ 0\\.04344028006278495\ \(0\)\
+\-\ had\\:\\ 0\\.043325662116845576\ \(0\)\
+\-\ in\\:\\ 0\\.04326464583332865\ \(0\)\
+\-\ but\\:\\ 0\\.043000856272199885\ \(0\)\
+\-\ contrast\\:\\ 0\\.0422511063144486\ \(0\)\
+\-\ female\\:\\ 0\\.041961235411174795\ \(0\)\
+\-\ treatment\\:\\ 0\\.04142269931674161\ \(0\)\
+\-\ images\\:\\ 0\\.04022385444040831\ \(0\)\
+\-\ within\\:\\ 0\\.04005016344254204\ \(0\)\
+\-\ as\\:\\ 0\\.034934106151345075\ \(0\)\
+\-\ with\\:\\ 0\\.034054918667310974\ \(0\)\
+\-\ an\\:\\ 0\\.033252439099181554\ \(0\)\
+\-\ this\\:\\ 0\\.029880327411444474\ \(0\)\
+\-\ for\\:\\ 0\\.026356295920962967\ \(0\)\
+\-\ on\\:\\ 0\\.026262802129010592\ \(0\)\

@@ -1,92 +1,90 @@
-Texto: 
-unavailable
-the patient is on peritoneal dialysis.
-the plain film demonstrates widening of the growth plate and widening and fraying of the metaphysis. the bones are diffusely sclerotic. there is subperiosteal resorption seen involving the radial aspect of the 2nd and 3rd digit middle phalange.  the us images show a diffusely echogenic kidney.
-rickets due to renal failure
-renal failure and rickets.
-10 year old female with renal failure and radiographic evidence of rickets.
-renal osteodystrophy results in decreased formation of 1,25 oh2d. there is generalized increased bone density and subperiosteal bone reorption is seen involving the radial aspect of the middle digits of the hand. brown tumors as not usually seen in children. in the setting of growing bones there is loss of the normal white line at the edge of the metaphysis, followed by widening of the physis and cupping and fraying of the metaphysis.
-
-
-Keywords by value: 
-- the: 0.2957019682096973
-- rickets: 0.28833695176030194
-- widening: 0.24122985870545294
-- metaphysis: 0.2402747077200479
-- renal: 0.21714112605169653
-- fraying: 0.2152627093428445
-- subperiosteal: 0.20552957676057604
-- of: 0.20471316377378912
-- failure: 0.19855128107009723
-- diffusely: 0.16213467737466208
-- radial: 0.1496304024132226
-- and: 0.14410637290929243
-- bones: 0.1402850618740214
-- oh2d: 0.1394090954301151
-- reorption: 0.1394090954301151
-- middle: 0.12467232747436156
-- seen: 0.1231214612013406
-- involving: 0.12211993137296007
-- phalange: 0.12026454337275042
-- is: 0.1193650117641412
-- aspect: 0.11247762716660711
-- cupping: 0.10763135467142225
-- there: 0.10405796483674824
-- osteodystrophy: 0.1008112563099086
-- resorption: 0.09802504325684089
-- unavailable: 0.0965685261464635
-- dialysis: 0.0965685261464635
-- brown: 0.09611231725343397
-- digit: 0.09566933368619834
-- digits: 0.09523883020377319
-- bone: 0.09512894653207955
-- physis: 0.0936287252377678
-- edge: 0.08795054187217485
-- growing: 0.08551973700053635
-- generalized: 0.08322837221127577
-- peritoneal: 0.08193095054246331
-- setting: 0.08106733868733104
-- plate: 0.07993483080959048
-- echogenic: 0.07993483080959048
-- 2nd: 0.07977968365974134
-- 3rd: 0.07962609580411335
-- sclerotic: 0.07312721253288727
-- growth: 0.071880978638186
-- children: 0.07142747761492542
-- us: 0.06934225055669285
-- formation: 0.06911011652865029
-- hand: 0.06814305808004299
-- results: 0.06792832110880886
-- line: 0.06792832110880886
-- film: 0.06514210805574118
-- in: 0.06505766887868054
-- radiographic: 0.06467545002520977
-- tumors: 0.06411147964200689
-- kidney: 0.06124243786041617
-- followed: 0.05886707315780226
-- density: 0.05780487856781775
-- plain: 0.05751447813322745
-- white: 0.05751447813322745
-- show: 0.05533962112303841
-- usually: 0.05487882652464782
-- decreased: 0.05399693592074665
-- loss: 0.053109173425861814
-- 10: 0.0509745224467966
-- due: 0.05010885020835245
-- evidence: 0.04947969957426267
-- increased: 0.04713917921369781
-- demonstrates: 0.04379492146056279
-- female: 0.04206514128012906
-- images: 0.04032345814624218
-- by: 0.03701884193793716
-- normal: 0.03559227668959303
-- as: 0.035020611198687636
-- not: 0.03441394793177735
-- are: 0.03307830535317269
-- at: 0.03292646160425751
-- patient: 0.02835310053814988
-- year: 0.02686509689329359
-- on: 0.026327834992072148
-- old: 0.02579979260163529
-- to: 0.02179315549242539
-- with: 0.017069623320030293
+\-\ Texto\\:\\ \ \(0\)\
+\-\ unavailable\ \(26\)\
+\-\ the\\ patient\\ is\\ on\\ peritoneal\\ dialysis\\.\ \(0\)\
+\-\ the\\ plain\\ film\\ demonstrates\\ widening\\ of\\ the\\ growth\\ plate\\ and\\ widening\\ and\\ fraying\\ of\\ the\\ metaphysis\\.\\ the\\ bones\\ are\\ diffusely\\ sclerotic\\.\\ there\\ is\\ subperiosteal\\ resorption\\ seen\\ involving\\ the\\ radial\\ aspect\\ of\\ the\\ 2nd\\ and\\ 3rd\\ digit\\ middle\\ phalange\\.\\ \\ the\\ us\\ images\\ show\\ a\\ diffusely\\ echogenic\\ kidney\\.\ \(0\)\
+\-\ rickets\\ due\\ to\\ renal\\ failure\ \(0\)\
+\-\ renal\\ failure\\ and\\ rickets\\.\ \(0\)\
+\-\ 10\\ year\\ old\\ female\\ with\\ renal\\ failure\\ and\\ radiographic\\ evidence\\ of\\ rickets\\.\ \(1\)\
+\-\ renal\\ osteodystrophy\\ results\\ in\\ decreased\\ formation\\ of\\ 1\\,25\\ oh2d\\.\\ there\\ is\\ generalized\\ increased\\ bone\\ density\\ and\\ subperiosteal\\ bone\\ reorption\\ is\\ seen\\ involving\\ the\\ radial\\ aspect\\ of\\ the\\ middle\\ digits\\ of\\ the\\ hand\\.\\ brown\\ tumors\\ as\\ not\\ usually\\ seen\\ in\\ children\\.\\ in\\ the\\ setting\\ of\\ growing\\ bones\\ there\\ is\\ loss\\ of\\ the\\ normal\\ white\\ line\\ at\\ the\\ edge\\ of\\ the\\ metaphysis\\,\\ followed\\ by\\ widening\\ of\\ the\\ physis\\ and\\ cupping\\ and\\ fraying\\ of\\ the\\ metaphysis\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ the\\:\\ 0\\.2957019682096973\ \(0\)\
+\-\ rickets\\:\\ 0\\.28833695176030194\ \(0\)\
+\-\ widening\\:\\ 0\\.24122985870545294\ \(0\)\
+\-\ metaphysis\\:\\ 0\\.2402747077200479\ \(0\)\
+\-\ renal\\:\\ 0\\.21714112605169653\ \(0\)\
+\-\ fraying\\:\\ 0\\.2152627093428445\ \(0\)\
+\-\ subperiosteal\\:\\ 0\\.20552957676057604\ \(0\)\
+\-\ of\\:\\ 0\\.20471316377378912\ \(0\)\
+\-\ failure\\:\\ 0\\.19855128107009723\ \(0\)\
+\-\ diffusely\\:\\ 0\\.16213467737466208\ \(0\)\
+\-\ radial\\:\\ 0\\.1496304024132226\ \(0\)\
+\-\ and\\:\\ 0\\.14410637290929243\ \(0\)\
+\-\ bones\\:\\ 0\\.1402850618740214\ \(0\)\
+\-\ oh2d\\:\\ 0\\.1394090954301151\ \(0\)\
+\-\ reorption\\:\\ 0\\.1394090954301151\ \(0\)\
+\-\ middle\\:\\ 0\\.12467232747436156\ \(0\)\
+\-\ seen\\:\\ 0\\.1231214612013406\ \(0\)\
+\-\ involving\\:\\ 0\\.12211993137296007\ \(0\)\
+\-\ phalange\\:\\ 0\\.12026454337275042\ \(0\)\
+\-\ is\\:\\ 0\\.1193650117641412\ \(0\)\
+\-\ aspect\\:\\ 0\\.11247762716660711\ \(0\)\
+\-\ cupping\\:\\ 0\\.10763135467142225\ \(0\)\
+\-\ there\\:\\ 0\\.10405796483674824\ \(0\)\
+\-\ osteodystrophy\\:\\ 0\\.1008112563099086\ \(0\)\
+\-\ resorption\\:\\ 0\\.09802504325684089\ \(0\)\
+\-\ unavailable\\:\\ 0\\.0965685261464635\ \(0\)\
+\-\ dialysis\\:\\ 0\\.0965685261464635\ \(0\)\
+\-\ brown\\:\\ 0\\.09611231725343397\ \(0\)\
+\-\ digit\\:\\ 0\\.09566933368619834\ \(0\)\
+\-\ digits\\:\\ 0\\.09523883020377319\ \(0\)\
+\-\ bone\\:\\ 0\\.09512894653207955\ \(0\)\
+\-\ physis\\:\\ 0\\.0936287252377678\ \(0\)\
+\-\ edge\\:\\ 0\\.08795054187217485\ \(0\)\
+\-\ growing\\:\\ 0\\.08551973700053635\ \(0\)\
+\-\ generalized\\:\\ 0\\.08322837221127577\ \(0\)\
+\-\ peritoneal\\:\\ 0\\.08193095054246331\ \(0\)\
+\-\ setting\\:\\ 0\\.08106733868733104\ \(0\)\
+\-\ plate\\:\\ 0\\.07993483080959048\ \(0\)\
+\-\ echogenic\\:\\ 0\\.07993483080959048\ \(0\)\
+\-\ 2nd\\:\\ 0\\.07977968365974134\ \(0\)\
+\-\ 3rd\\:\\ 0\\.07962609580411335\ \(0\)\
+\-\ sclerotic\\:\\ 0\\.07312721253288727\ \(0\)\
+\-\ growth\\:\\ 0\\.071880978638186\ \(0\)\
+\-\ children\\:\\ 0\\.07142747761492542\ \(0\)\
+\-\ us\\:\\ 0\\.06934225055669285\ \(0\)\
+\-\ formation\\:\\ 0\\.06911011652865029\ \(0\)\
+\-\ hand\\:\\ 0\\.06814305808004299\ \(0\)\
+\-\ results\\:\\ 0\\.06792832110880886\ \(0\)\
+\-\ line\\:\\ 0\\.06792832110880886\ \(0\)\
+\-\ film\\:\\ 0\\.06514210805574118\ \(0\)\
+\-\ in\\:\\ 0\\.06505766887868054\ \(0\)\
+\-\ radiographic\\:\\ 0\\.06467545002520977\ \(0\)\
+\-\ tumors\\:\\ 0\\.06411147964200689\ \(0\)\
+\-\ kidney\\:\\ 0\\.06124243786041617\ \(0\)\
+\-\ followed\\:\\ 0\\.05886707315780226\ \(0\)\
+\-\ density\\:\\ 0\\.05780487856781775\ \(0\)\
+\-\ plain\\:\\ 0\\.05751447813322745\ \(0\)\
+\-\ white\\:\\ 0\\.05751447813322745\ \(0\)\
+\-\ show\\:\\ 0\\.05533962112303841\ \(0\)\
+\-\ usually\\:\\ 0\\.05487882652464782\ \(0\)\
+\-\ decreased\\:\\ 0\\.05399693592074665\ \(0\)\
+\-\ loss\\:\\ 0\\.053109173425861814\ \(0\)\
+\-\ 10\\:\\ 0\\.0509745224467966\ \(0\)\
+\-\ due\\:\\ 0\\.05010885020835245\ \(0\)\
+\-\ evidence\\:\\ 0\\.04947969957426267\ \(0\)\
+\-\ increased\\:\\ 0\\.04713917921369781\ \(0\)\
+\-\ demonstrates\\:\\ 0\\.04379492146056279\ \(0\)\
+\-\ female\\:\\ 0\\.04206514128012906\ \(0\)\
+\-\ images\\:\\ 0\\.04032345814624218\ \(0\)\
+\-\ by\\:\\ 0\\.03701884193793716\ \(0\)\
+\-\ normal\\:\\ 0\\.03559227668959303\ \(0\)\
+\-\ as\\:\\ 0\\.035020611198687636\ \(0\)\
+\-\ not\\:\\ 0\\.03441394793177735\ \(0\)\
+\-\ are\\:\\ 0\\.03307830535317269\ \(0\)\
+\-\ at\\:\\ 0\\.03292646160425751\ \(0\)\
+\-\ patient\\:\\ 0\\.02835310053814988\ \(0\)\
+\-\ year\\:\\ 0\\.02686509689329359\ \(0\)\
+\-\ on\\:\\ 0\\.026327834992072148\ \(0\)\
+\-\ old\\:\\ 0\\.02579979260163529\ \(0\)\
+\-\ to\\:\\ 0\\.02179315549242539\ \(0\)\
+\-\ with\\:\\ 0\\.017069623320030293\ \(0\)\

@@ -1,127 +1,125 @@
-Texto: 
-patient is non toxic appearing, afebrile, but shows increased work of breathing, is tachypnic, with course breath sounds bilaterally. heart has regular rhythm without murmur, rub, or gallop. no cyanosis noted. normal capillary refill. mucus membranes moist and free of discharge or erythema.
-inotropes and diuretics for symptoms of chf, but surgical correction by balloon septostomy or complete resection of accessory membrane is definitive.
-increased perihilar pulmonary markings suggestive of pulmonary venous congestion.  cardiomegaly with enlarged right atrium and ventricle. suggestive of underlying congenital heart disease.
-cor triatriatum
-total anomalous pulmonary venous connection
-bronchial asthma
-pulmonary vein stenosis
-pulmonary veno-occlusive disease
-supravalvular mitral ring
-pulmonary hypertension, persistent-newborn
-atrial tumors
-patient had uncomplicated birth history. brought to ed due to increased work of breathing, dyspnea, tachypnea, fussiness, and noisey breathing. mother reports subjective fever. child to be evaluated for respiratory infection.
-prognosis is excellent following corrective surgery.
-
-
-Keywords by value: 
-- pulmonary: 0.31950730294845664
-- breathing: 0.25644405712668483
-- work: 0.14245607395251367
-- suggestive: 0.14228154406381285
-- increased: 0.14172378122087198
-- inotropes: 0.1397109896728685
-- septostomy: 0.1397109896728685
-- supravalvular: 0.1397109896728685
-- noisey: 0.1397109896728685
-- triatriatum: 0.13350130926220832
-- fussiness: 0.12567803715881257
-- venous: 0.12474533123076817
-- tachypnic: 0.12288579048450077
-- heart: 0.12148871015673214
-- of: 0.119674610870746
-- rub: 0.11667611007384056
-- gallop: 0.11667611007384056
-- diuretics: 0.11667611007384056
-- corrective: 0.11360284714273662
-- cor: 0.11227027170679321
-- refill: 0.10523255416527515
-- perihilar: 0.10298732836502907
-- subjective: 0.10102956586704905
-- mucus: 0.10042890235916692
-- moist: 0.09677764795436887
-- chf: 0.09587650826802036
-- is: 0.09569879999252494
-- connection: 0.09502545842615016
-- mitral: 0.09502545842615016
-- accessory: 0.09345331454300808
-- tachypnea: 0.09237180958732152
-- capillary: 0.09169103278622182
-- membranes: 0.09169103278622182
-- membrane: 0.09169103278622182
-- balloon: 0.09136166619314709
-- cardiomegaly: 0.09136166619314709
-- anomalous: 0.09136166619314709
-- or: 0.09117513933372026
-- cyanosis: 0.09072345066899165
-- correction: 0.08981338358145938
-- excellent: 0.08981338358145938
-- toxic: 0.08923539210776528
-- bronchial: 0.08895437585097311
-- atrium: 0.08867842322666121
-- uncomplicated: 0.08867842322666121
-- markings: 0.0876218004150297
-- asthma: 0.08711962571150719
-- but: 0.08640137322607078
-- congestion: 0.08639594984511097
-- brought: 0.08616212917666131
-- rhythm: 0.08283779576530054
-- murmur: 0.08283779576530054
-- atrial: 0.08210837427651575
-- definitive: 0.07979852831163395
-- erythema: 0.0790513090796526
-- discharge: 0.07833885707326556
-- birth: 0.07806290444895367
-- dyspnea: 0.07687918583489717
-- prognosis: 0.07687918583489717
-- afebrile: 0.07543102527448294
-- regular: 0.07543102527448294
-- mother: 0.07464547071260524
-- evaluated: 0.07464547071260524
-- ring: 0.07358884790097375
-- disease: 0.07334299785479287
-- child: 0.07231594673706794
-- and: 0.07220921961801753
-- total: 0.07158215578853966
-- underlying: 0.07131580200897762
-- ed: 0.06988817043982007
-- appearing: 0.06980819659596302
-- respiratory: 0.06949241311357655
-- free: 0.06800435455235018
-- reports: 0.06793361559842254
-- sounds: 0.06744738567124611
-- hypertension: 0.06684409276061103
-- stenosis: 0.06645470849029013
-- to: 0.06552104751589408
-- course: 0.06453030353785297
-- ventricle: 0.0643059045592096
-- tumors: 0.06425031482014651
-- breath: 0.0640299519348977
-- congenital: 0.06277047905444497
-- vein: 0.06262008547634818
-- complete: 0.06123770526058592
-- enlarged: 0.059555895386917794
-- fever: 0.05923261253787675
-- bilaterally: 0.05826421438461085
-- patient: 0.05682899991937764
-- resection: 0.056000231746383855
-- for: 0.052957553828901646
-- infection: 0.05277175328194726
-- following: 0.05240894547252022
-- shows: 0.051273985117722055
-- due: 0.05021736230609056
-- symptoms: 0.04779958309635372
-- surgery: 0.046969550921358724
-- noted: 0.046319248545252684
-- without: 0.04608021427460901
-- had: 0.043527001870940905
-- surgical: 0.042460822143993306
-- non: 0.04145153252942629
-- has: 0.03990445404680089
-- by: 0.03709900726158395
-- normal: 0.03566935274683249
-- be: 0.03543930457155457
-- with: 0.03421317612063554
-- history: 0.033377373202235314
-- right: 0.02896414523007617
-- no: 0.028409155357890712
+\-\ Texto\\:\\ \ \(0\)\
+\-\ patient\\ is\\ non\\ toxic\\ appearing\\,\\ afebrile\\,\\ but\\ shows\\ increased\\ work\\ of\\ breathing\\,\\ is\\ tachypnic\\,\\ with\\ course\\ breath\\ sounds\\ bilaterally\\.\\ heart\\ has\\ regular\\ rhythm\\ without\\ murmur\\,\\ rub\\,\\ or\\ gallop\\.\\ no\\ cyanosis\\ noted\\.\\ normal\\ capillary\\ refill\\.\\ mucus\\ membranes\\ moist\\ and\\ free\\ of\\ discharge\\ or\\ erythema\\.\ \(0\)\
+\-\ inotropes\\ and\\ diuretics\\ for\\ symptoms\\ of\\ chf\\,\\ but\\ surgical\\ correction\\ by\\ balloon\\ septostomy\\ or\\ complete\\ resection\\ of\\ accessory\\ membrane\\ is\\ definitive\\.\ \(0\)\
+\-\ increased\\ perihilar\\ pulmonary\\ markings\\ suggestive\\ of\\ pulmonary\\ venous\\ congestion\\.\\ \\ cardiomegaly\\ with\\ enlarged\\ right\\ atrium\\ and\\ ventricle\\.\\ suggestive\\ of\\ underlying\\ congenital\\ heart\\ disease\\.\ \(0\)\
+\-\ cor\\ triatriatum\ \(0\)\
+\-\ total\\ anomalous\\ pulmonary\\ venous\\ connection\ \(0\)\
+\-\ bronchial\\ asthma\ \(0\)\
+\-\ pulmonary\\ vein\\ stenosis\ \(0\)\
+\-\ pulmonary\\ veno\\-occlusive\\ disease\ \(1\)\
+\-\ supravalvular\\ mitral\\ ring\ \(0\)\
+\-\ pulmonary\\ hypertension\\,\\ persistent\\-newborn\ \(0\)\
+\-\ atrial\\ tumors\ \(0\)\
+\-\ patient\\ had\\ uncomplicated\\ birth\\ history\\.\\ brought\\ to\\ ed\\ due\\ to\\ increased\\ work\\ of\\ breathing\\,\\ dyspnea\\,\\ tachypnea\\,\\ fussiness\\,\\ and\\ noisey\\ breathing\\.\\ mother\\ reports\\ subjective\\ fever\\.\\ child\\ to\\ be\\ evaluated\\ for\\ respiratory\\ infection\\.\ \(0\)\
+\-\ prognosis\\ is\\ excellent\\ following\\ corrective\\ surgery\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ pulmonary\\:\\ 0\\.31950730294845664\ \(0\)\
+\-\ breathing\\:\\ 0\\.25644405712668483\ \(0\)\
+\-\ work\\:\\ 0\\.14245607395251367\ \(0\)\
+\-\ suggestive\\:\\ 0\\.14228154406381285\ \(0\)\
+\-\ increased\\:\\ 0\\.14172378122087198\ \(0\)\
+\-\ inotropes\\:\\ 0\\.1397109896728685\ \(0\)\
+\-\ septostomy\\:\\ 0\\.1397109896728685\ \(0\)\
+\-\ supravalvular\\:\\ 0\\.1397109896728685\ \(0\)\
+\-\ noisey\\:\\ 0\\.1397109896728685\ \(0\)\
+\-\ triatriatum\\:\\ 0\\.13350130926220832\ \(0\)\
+\-\ fussiness\\:\\ 0\\.12567803715881257\ \(0\)\
+\-\ venous\\:\\ 0\\.12474533123076817\ \(0\)\
+\-\ tachypnic\\:\\ 0\\.12288579048450077\ \(0\)\
+\-\ heart\\:\\ 0\\.12148871015673214\ \(0\)\
+\-\ of\\:\\ 0\\.119674610870746\ \(0\)\
+\-\ rub\\:\\ 0\\.11667611007384056\ \(0\)\
+\-\ gallop\\:\\ 0\\.11667611007384056\ \(0\)\
+\-\ diuretics\\:\\ 0\\.11667611007384056\ \(0\)\
+\-\ corrective\\:\\ 0\\.11360284714273662\ \(0\)\
+\-\ cor\\:\\ 0\\.11227027170679321\ \(0\)\
+\-\ refill\\:\\ 0\\.10523255416527515\ \(0\)\
+\-\ perihilar\\:\\ 0\\.10298732836502907\ \(0\)\
+\-\ subjective\\:\\ 0\\.10102956586704905\ \(0\)\
+\-\ mucus\\:\\ 0\\.10042890235916692\ \(0\)\
+\-\ moist\\:\\ 0\\.09677764795436887\ \(0\)\
+\-\ chf\\:\\ 0\\.09587650826802036\ \(0\)\
+\-\ is\\:\\ 0\\.09569879999252494\ \(0\)\
+\-\ connection\\:\\ 0\\.09502545842615016\ \(0\)\
+\-\ mitral\\:\\ 0\\.09502545842615016\ \(0\)\
+\-\ accessory\\:\\ 0\\.09345331454300808\ \(0\)\
+\-\ tachypnea\\:\\ 0\\.09237180958732152\ \(0\)\
+\-\ capillary\\:\\ 0\\.09169103278622182\ \(0\)\
+\-\ membranes\\:\\ 0\\.09169103278622182\ \(0\)\
+\-\ membrane\\:\\ 0\\.09169103278622182\ \(0\)\
+\-\ balloon\\:\\ 0\\.09136166619314709\ \(0\)\
+\-\ cardiomegaly\\:\\ 0\\.09136166619314709\ \(0\)\
+\-\ anomalous\\:\\ 0\\.09136166619314709\ \(0\)\
+\-\ or\\:\\ 0\\.09117513933372026\ \(0\)\
+\-\ cyanosis\\:\\ 0\\.09072345066899165\ \(0\)\
+\-\ correction\\:\\ 0\\.08981338358145938\ \(0\)\
+\-\ excellent\\:\\ 0\\.08981338358145938\ \(0\)\
+\-\ toxic\\:\\ 0\\.08923539210776528\ \(0\)\
+\-\ bronchial\\:\\ 0\\.08895437585097311\ \(0\)\
+\-\ atrium\\:\\ 0\\.08867842322666121\ \(0\)\
+\-\ uncomplicated\\:\\ 0\\.08867842322666121\ \(0\)\
+\-\ markings\\:\\ 0\\.0876218004150297\ \(0\)\
+\-\ asthma\\:\\ 0\\.08711962571150719\ \(0\)\
+\-\ but\\:\\ 0\\.08640137322607078\ \(0\)\
+\-\ congestion\\:\\ 0\\.08639594984511097\ \(0\)\
+\-\ brought\\:\\ 0\\.08616212917666131\ \(0\)\
+\-\ rhythm\\:\\ 0\\.08283779576530054\ \(0\)\
+\-\ murmur\\:\\ 0\\.08283779576530054\ \(0\)\
+\-\ atrial\\:\\ 0\\.08210837427651575\ \(0\)\
+\-\ definitive\\:\\ 0\\.07979852831163395\ \(0\)\
+\-\ erythema\\:\\ 0\\.0790513090796526\ \(0\)\
+\-\ discharge\\:\\ 0\\.07833885707326556\ \(0\)\
+\-\ birth\\:\\ 0\\.07806290444895367\ \(0\)\
+\-\ dyspnea\\:\\ 0\\.07687918583489717\ \(0\)\
+\-\ prognosis\\:\\ 0\\.07687918583489717\ \(0\)\
+\-\ afebrile\\:\\ 0\\.07543102527448294\ \(0\)\
+\-\ regular\\:\\ 0\\.07543102527448294\ \(0\)\
+\-\ mother\\:\\ 0\\.07464547071260524\ \(0\)\
+\-\ evaluated\\:\\ 0\\.07464547071260524\ \(0\)\
+\-\ ring\\:\\ 0\\.07358884790097375\ \(0\)\
+\-\ disease\\:\\ 0\\.07334299785479287\ \(0\)\
+\-\ child\\:\\ 0\\.07231594673706794\ \(0\)\
+\-\ and\\:\\ 0\\.07220921961801753\ \(0\)\
+\-\ total\\:\\ 0\\.07158215578853966\ \(0\)\
+\-\ underlying\\:\\ 0\\.07131580200897762\ \(0\)\
+\-\ ed\\:\\ 0\\.06988817043982007\ \(0\)\
+\-\ appearing\\:\\ 0\\.06980819659596302\ \(0\)\
+\-\ respiratory\\:\\ 0\\.06949241311357655\ \(0\)\
+\-\ free\\:\\ 0\\.06800435455235018\ \(0\)\
+\-\ reports\\:\\ 0\\.06793361559842254\ \(0\)\
+\-\ sounds\\:\\ 0\\.06744738567124611\ \(0\)\
+\-\ hypertension\\:\\ 0\\.06684409276061103\ \(0\)\
+\-\ stenosis\\:\\ 0\\.06645470849029013\ \(0\)\
+\-\ to\\:\\ 0\\.06552104751589408\ \(0\)\
+\-\ course\\:\\ 0\\.06453030353785297\ \(0\)\
+\-\ ventricle\\:\\ 0\\.0643059045592096\ \(0\)\
+\-\ tumors\\:\\ 0\\.06425031482014651\ \(0\)\
+\-\ breath\\:\\ 0\\.0640299519348977\ \(0\)\
+\-\ congenital\\:\\ 0\\.06277047905444497\ \(0\)\
+\-\ vein\\:\\ 0\\.06262008547634818\ \(0\)\
+\-\ complete\\:\\ 0\\.06123770526058592\ \(0\)\
+\-\ enlarged\\:\\ 0\\.059555895386917794\ \(0\)\
+\-\ fever\\:\\ 0\\.05923261253787675\ \(0\)\
+\-\ bilaterally\\:\\ 0\\.05826421438461085\ \(0\)\
+\-\ patient\\:\\ 0\\.05682899991937764\ \(0\)\
+\-\ resection\\:\\ 0\\.056000231746383855\ \(0\)\
+\-\ for\\:\\ 0\\.052957553828901646\ \(0\)\
+\-\ infection\\:\\ 0\\.05277175328194726\ \(0\)\
+\-\ following\\:\\ 0\\.05240894547252022\ \(0\)\
+\-\ shows\\:\\ 0\\.051273985117722055\ \(0\)\
+\-\ due\\:\\ 0\\.05021736230609056\ \(0\)\
+\-\ symptoms\\:\\ 0\\.04779958309635372\ \(0\)\
+\-\ surgery\\:\\ 0\\.046969550921358724\ \(0\)\
+\-\ noted\\:\\ 0\\.046319248545252684\ \(0\)\
+\-\ without\\:\\ 0\\.04608021427460901\ \(0\)\
+\-\ had\\:\\ 0\\.043527001870940905\ \(0\)\
+\-\ surgical\\:\\ 0\\.042460822143993306\ \(0\)\
+\-\ non\\:\\ 0\\.04145153252942629\ \(0\)\
+\-\ has\\:\\ 0\\.03990445404680089\ \(0\)\
+\-\ by\\:\\ 0\\.03709900726158395\ \(0\)\
+\-\ normal\\:\\ 0\\.03566935274683249\ \(0\)\
+\-\ be\\:\\ 0\\.03543930457155457\ \(0\)\
+\-\ with\\:\\ 0\\.03421317612063554\ \(0\)\
+\-\ history\\:\\ 0\\.033377373202235314\ \(0\)\
+\-\ right\\:\\ 0\\.02896414523007617\ \(0\)\
+\-\ no\\:\\ 0\\.028409155357890712\ \(0\)\

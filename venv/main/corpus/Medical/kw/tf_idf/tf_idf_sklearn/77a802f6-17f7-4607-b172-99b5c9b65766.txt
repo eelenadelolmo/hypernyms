@@ -1,51 +1,49 @@
-Texto: 
-palpable left axillary adenopathy.
-asymmetric skin and trabecular thickening and a solid mass at the 6:00 position of the affected breast with associated axillary adenopathy.
-inflammatory breast carcinoma
-metastatic disease, lymphoma, mastitis with focal phlegmonous inflammation (not yet an abscess)
-48 yo woman with palpable abnormality 5:00-6:00 position of left breast with signs of breast edema on recent screening exam.
-
-
-Keywords by value: 
-- breast: 0.40978730569705946
-- axillary: 0.2775368544352918
-- adenopathy: 0.23734367371190004
-- position: 0.22494926290216205
-- palpable: 0.19822505990102315
-- phlegmonous: 0.19463175493084992
-- mastitis: 0.18581060922868
-- trabecular: 0.15947859824422403
-- yet: 0.14276607812586262
-- asymmetric: 0.12696060164922132
-- 48: 0.12218576620707627
-- affected: 0.11603336622078135
-- screening: 0.11460339512829303
-- inflammation: 0.1133835068061355
-- with: 0.11049942566992102
-- solid: 0.10815749265765613
-- skin: 0.10494890451419663
-- abnormality: 0.10261738992966475
-- signs: 0.09859803510583165
-- left: 0.09624963608850999
-- thickening: 0.09597775616714904
-- recent: 0.09552395242104322
-- inflammatory: 0.09539580907603094
-- abscess: 0.09059025930867444
-- yo: 0.0881375961268474
-- carcinoma: 0.08438654501432381
-- focal: 0.08438654501432381
-- edema: 0.08414207900149365
-- lymphoma: 0.08402074624664993
-- of: 0.08282508128610844
-- metastatic: 0.07737428249325388
-- associated: 0.07435873998750765
-- woman: 0.07347393761627287
-- exam: 0.07101878790451367
-- disease: 0.059219576043516964
-- and: 0.05830412578278271
-- the: 0.056300387164260085
-- not: 0.05569427939621949
-- an: 0.053947793246539
-- mass: 0.053888069454516595
-- at: 0.05328698572310827
-- on: 0.04260800884725175
+\-\ Texto\\:\\ \ \(0\)\
+\-\ palpable\\ left\\ axillary\\ adenopathy\\.\ \(0\)\
+\-\ asymmetric\\ skin\\ and\\ trabecular\\ thickening\\ and\\ a\\ solid\\ mass\\ at\\ the\\ 6\\:00\\ position\\ of\\ the\\ affected\\ breast\\ with\\ associated\\ axillary\\ adenopathy\\.\ \(0\)\
+\-\ inflammatory\\ breast\\ carcinoma\ \(0\)\
+\-\ metastatic\\ disease\\,\\ lymphoma\\,\\ mastitis\\ with\\ focal\\ phlegmonous\\ inflammation\\ \\(not\\ yet\\ an\\ abscess\\)\ \(0\)\
+\-\ 48\\ yo\\ woman\\ with\\ palpable\\ abnormality\\ 5\\:00\\-6\\:00\\ position\\ of\\ left\\ breast\\ with\\ signs\\ of\\ breast\\ edema\\ on\\ recent\\ screening\\ exam\\.\ \(1\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ breast\\:\\ 0\\.40978730569705946\ \(0\)\
+\-\ axillary\\:\\ 0\\.2775368544352918\ \(0\)\
+\-\ adenopathy\\:\\ 0\\.23734367371190004\ \(0\)\
+\-\ position\\:\\ 0\\.22494926290216205\ \(0\)\
+\-\ palpable\\:\\ 0\\.19822505990102315\ \(0\)\
+\-\ phlegmonous\\:\\ 0\\.19463175493084992\ \(0\)\
+\-\ mastitis\\:\\ 0\\.18581060922868\ \(0\)\
+\-\ trabecular\\:\\ 0\\.15947859824422403\ \(0\)\
+\-\ yet\\:\\ 0\\.14276607812586262\ \(0\)\
+\-\ asymmetric\\:\\ 0\\.12696060164922132\ \(0\)\
+\-\ 48\\:\\ 0\\.12218576620707627\ \(0\)\
+\-\ affected\\:\\ 0\\.11603336622078135\ \(0\)\
+\-\ screening\\:\\ 0\\.11460339512829303\ \(0\)\
+\-\ inflammation\\:\\ 0\\.1133835068061355\ \(0\)\
+\-\ with\\:\\ 0\\.11049942566992102\ \(0\)\
+\-\ solid\\:\\ 0\\.10815749265765613\ \(0\)\
+\-\ skin\\:\\ 0\\.10494890451419663\ \(0\)\
+\-\ abnormality\\:\\ 0\\.10261738992966475\ \(0\)\
+\-\ signs\\:\\ 0\\.09859803510583165\ \(0\)\
+\-\ left\\:\\ 0\\.09624963608850999\ \(0\)\
+\-\ thickening\\:\\ 0\\.09597775616714904\ \(0\)\
+\-\ recent\\:\\ 0\\.09552395242104322\ \(0\)\
+\-\ inflammatory\\:\\ 0\\.09539580907603094\ \(0\)\
+\-\ abscess\\:\\ 0\\.09059025930867444\ \(0\)\
+\-\ yo\\:\\ 0\\.0881375961268474\ \(0\)\
+\-\ carcinoma\\:\\ 0\\.08438654501432381\ \(0\)\
+\-\ focal\\:\\ 0\\.08438654501432381\ \(0\)\
+\-\ edema\\:\\ 0\\.08414207900149365\ \(0\)\
+\-\ lymphoma\\:\\ 0\\.08402074624664993\ \(0\)\
+\-\ of\\:\\ 0\\.08282508128610844\ \(0\)\
+\-\ metastatic\\:\\ 0\\.07737428249325388\ \(0\)\
+\-\ associated\\:\\ 0\\.07435873998750765\ \(0\)\
+\-\ woman\\:\\ 0\\.07347393761627287\ \(0\)\
+\-\ exam\\:\\ 0\\.07101878790451367\ \(0\)\
+\-\ disease\\:\\ 0\\.059219576043516964\ \(0\)\
+\-\ and\\:\\ 0\\.05830412578278271\ \(0\)\
+\-\ the\\:\\ 0\\.056300387164260085\ \(0\)\
+\-\ not\\:\\ 0\\.05569427939621949\ \(0\)\
+\-\ an\\:\\ 0\\.053947793246539\ \(0\)\
+\-\ mass\\:\\ 0\\.053888069454516595\ \(0\)\
+\-\ at\\:\\ 0\\.05328698572310827\ \(0\)\
+\-\ on\\:\\ 0\\.04260800884725175\ \(0\)\

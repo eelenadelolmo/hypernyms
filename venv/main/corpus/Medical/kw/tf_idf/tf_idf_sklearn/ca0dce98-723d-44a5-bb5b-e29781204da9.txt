@@ -1,73 +1,71 @@
-Texto: 
-elevated wbc count, few wbcs and rbcs (5-10/hpf) in urine. more right-sided cva than rlq tenderness to palpation.
-typical post-operative appendectomy course and f/u
-clear appendicitis with appendicolith. appendix is of enlarged diameter, exhibiting thickened walls and peri-appendiceal fluid. large calcific density within lumen, consistent with appendicolith.
-appendicitis with appendicolith
-gallstone ileus with acute obstruction
-inflammatory bowel disease
-woman with 1-2 days increasing right flank pain, sometimes colicky in nature.
-unusually large appendicolith. clear appendicitis with all classic findings, but without abscess.
-
-
-Keywords by value: 
-- appendicolith: 0.5336338487501934
-- appendicitis: 0.2970420817261468
-- clear: 0.16924058670454853
-- exhibiting: 0.15588821655147067
-- unusually: 0.15373233450274945
-- colicky: 0.14411514175460968
-- wbcs: 0.14170507067029425
-- rbcs: 0.140598749663482
-- cva: 0.1375989560850519
-- with: 0.13713426865101727
-- gallstone: 0.13581853327186377
-- ileus: 0.12696128823341452
-- appendectomy: 0.12341581020387549
-- calcific: 0.12295597165608119
-- rlq: 0.12121347647975207
-- large: 0.11696746508422366
-- walls: 0.10946651777351611
-- sometimes: 0.10923266432269907
-- appendix: 0.10523251555805316
-- urine: 0.10448153386949217
-- lumen: 0.10393584941838326
-- nature: 0.10305751911819232
-- flank: 0.1023810292679056
-- few: 0.09901402724204894
-- thickened: 0.09845720501280403
-- count: 0.09637010270691651
-- diameter: 0.09380902020488693
-- increasing: 0.09192853873643846
-- typical: 0.09020642399429117
-- classic: 0.08730278442817142
-- course: 0.08621742639238328
-- wbc: 0.08249935914164193
-- obstruction: 0.0817574547612297
-- elevated: 0.07957123622922456
-- enlarged: 0.07957123622922456
-- inflammatory: 0.07892671194564488
-- palpation: 0.07871630439267761
-- density: 0.077398991161457
-- right: 0.07739663142689372
-- abscess: 0.07495079050944935
-- bowel: 0.07490730068600673
-- days: 0.07389034834299416
-- tenderness: 0.07319941234872764
-- and: 0.07235778466797296
-- all: 0.069482082922138
-- fluid: 0.06739296097905523
-- than: 0.06616662816647224
-- more: 0.06409309952467386
-- consistent: 0.06328958213206509
-- acute: 0.06314237319334536
-- without: 0.06156669447612112
-- woman: 0.060789424251645824
-- in: 0.058073505942563546
-- but: 0.05771942504462178
-- findings: 0.057607201979627286
-- within: 0.053758752900489475
-- disease: 0.048995930378919146
-- pain: 0.04176758172690437
-- is: 0.03196523103039106
-- to: 0.029180378734980708
-- of: 0.022842063314448793
+\-\ Texto\\:\\ \ \(0\)\
+\-\ elevated\\ wbc\\ count\\,\\ few\\ wbcs\\ and\\ rbcs\\ \\(5\\-10\\/hpf\\)\\ in\\ urine\\.\\ more\\ right\\-sided\\ cva\\ than\\ rlq\\ tenderness\\ to\\ palpation\\.\ \(0\)\
+\-\ typical\\ post\\-operative\\ appendectomy\\ course\\ and\\ f\\/u\ \(1\)\
+\-\ clear\\ appendicitis\\ with\\ appendicolith\\.\\ appendix\\ is\\ of\\ enlarged\\ diameter\\,\\ exhibiting\\ thickened\\ walls\\ and\\ peri\\-appendiceal\\ fluid\\.\\ large\\ calcific\\ density\\ within\\ lumen\\,\\ consistent\\ with\\ appendicolith\\.\ \(0\)\
+\-\ appendicitis\\ with\\ appendicolith\ \(1\)\
+\-\ gallstone\\ ileus\\ with\\ acute\\ obstruction\ \(0\)\
+\-\ inflammatory\\ bowel\\ disease\ \(31\)\
+\-\ woman\\ with\\ 1\\-2\\ days\\ increasing\\ right\\ flank\\ pain\\,\\ sometimes\\ colicky\\ in\\ nature\\.\ \(1\)\
+\-\ unusually\\ large\\ appendicolith\\.\\ clear\\ appendicitis\\ with\\ all\\ classic\\ findings\\,\\ but\\ without\\ abscess\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ appendicolith\\:\\ 0\\.5336338487501934\ \(0\)\
+\-\ appendicitis\\:\\ 0\\.2970420817261468\ \(0\)\
+\-\ clear\\:\\ 0\\.16924058670454853\ \(0\)\
+\-\ exhibiting\\:\\ 0\\.15588821655147067\ \(0\)\
+\-\ unusually\\:\\ 0\\.15373233450274945\ \(0\)\
+\-\ colicky\\:\\ 0\\.14411514175460968\ \(0\)\
+\-\ wbcs\\:\\ 0\\.14170507067029425\ \(0\)\
+\-\ rbcs\\:\\ 0\\.140598749663482\ \(0\)\
+\-\ cva\\:\\ 0\\.1375989560850519\ \(0\)\
+\-\ with\\:\\ 0\\.13713426865101727\ \(0\)\
+\-\ gallstone\\:\\ 0\\.13581853327186377\ \(0\)\
+\-\ ileus\\:\\ 0\\.12696128823341452\ \(0\)\
+\-\ appendectomy\\:\\ 0\\.12341581020387549\ \(0\)\
+\-\ calcific\\:\\ 0\\.12295597165608119\ \(0\)\
+\-\ rlq\\:\\ 0\\.12121347647975207\ \(0\)\
+\-\ large\\:\\ 0\\.11696746508422366\ \(0\)\
+\-\ walls\\:\\ 0\\.10946651777351611\ \(0\)\
+\-\ sometimes\\:\\ 0\\.10923266432269907\ \(0\)\
+\-\ appendix\\:\\ 0\\.10523251555805316\ \(0\)\
+\-\ urine\\:\\ 0\\.10448153386949217\ \(0\)\
+\-\ lumen\\:\\ 0\\.10393584941838326\ \(0\)\
+\-\ nature\\:\\ 0\\.10305751911819232\ \(0\)\
+\-\ flank\\:\\ 0\\.1023810292679056\ \(0\)\
+\-\ few\\:\\ 0\\.09901402724204894\ \(0\)\
+\-\ thickened\\:\\ 0\\.09845720501280403\ \(0\)\
+\-\ count\\:\\ 0\\.09637010270691651\ \(0\)\
+\-\ diameter\\:\\ 0\\.09380902020488693\ \(0\)\
+\-\ increasing\\:\\ 0\\.09192853873643846\ \(0\)\
+\-\ typical\\:\\ 0\\.09020642399429117\ \(0\)\
+\-\ classic\\:\\ 0\\.08730278442817142\ \(0\)\
+\-\ course\\:\\ 0\\.08621742639238328\ \(0\)\
+\-\ wbc\\:\\ 0\\.08249935914164193\ \(0\)\
+\-\ obstruction\\:\\ 0\\.0817574547612297\ \(0\)\
+\-\ elevated\\:\\ 0\\.07957123622922456\ \(0\)\
+\-\ enlarged\\:\\ 0\\.07957123622922456\ \(0\)\
+\-\ inflammatory\\:\\ 0\\.07892671194564488\ \(0\)\
+\-\ palpation\\:\\ 0\\.07871630439267761\ \(0\)\
+\-\ density\\:\\ 0\\.077398991161457\ \(0\)\
+\-\ right\\:\\ 0\\.07739663142689372\ \(0\)\
+\-\ abscess\\:\\ 0\\.07495079050944935\ \(0\)\
+\-\ bowel\\:\\ 0\\.07490730068600673\ \(0\)\
+\-\ days\\:\\ 0\\.07389034834299416\ \(0\)\
+\-\ tenderness\\:\\ 0\\.07319941234872764\ \(0\)\
+\-\ and\\:\\ 0\\.07235778466797296\ \(0\)\
+\-\ all\\:\\ 0\\.069482082922138\ \(0\)\
+\-\ fluid\\:\\ 0\\.06739296097905523\ \(0\)\
+\-\ than\\:\\ 0\\.06616662816647224\ \(0\)\
+\-\ more\\:\\ 0\\.06409309952467386\ \(0\)\
+\-\ consistent\\:\\ 0\\.06328958213206509\ \(0\)\
+\-\ acute\\:\\ 0\\.06314237319334536\ \(0\)\
+\-\ without\\:\\ 0\\.06156669447612112\ \(0\)\
+\-\ woman\\:\\ 0\\.060789424251645824\ \(0\)\
+\-\ in\\:\\ 0\\.058073505942563546\ \(0\)\
+\-\ but\\:\\ 0\\.05771942504462178\ \(0\)\
+\-\ findings\\:\\ 0\\.057607201979627286\ \(0\)\
+\-\ within\\:\\ 0\\.053758752900489475\ \(0\)\
+\-\ disease\\:\\ 0\\.048995930378919146\ \(0\)\
+\-\ pain\\:\\ 0\\.04176758172690437\ \(0\)\
+\-\ is\\:\\ 0\\.03196523103039106\ \(0\)\
+\-\ to\\:\\ 0\\.029180378734980708\ \(0\)\
+\-\ of\\:\\ 0\\.022842063314448793\ \(0\)\

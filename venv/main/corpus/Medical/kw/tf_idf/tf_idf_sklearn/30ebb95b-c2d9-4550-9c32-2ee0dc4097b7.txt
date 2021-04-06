@@ -1,61 +1,59 @@
-Texto: 
-left-sided hemiparesis
-pending
-â€¢ ct: acute (hyperdense) right basal ganglionic hematoma
-â€¢ mri: heterogeneous lesion adjacent to hematoma.  the lesion has a "popcorn" pattern of hyper/hypo signal and a hypointense rim on t2w
-cavernous malformation with adjacent basal ganglionic hemorrhage
-â€¢ hypertensive hemorrhage
-â€¢ ruptured avm
-â€¢ metastatic tumor
-â€¢ primary brain tumor
-â€¢ cerebral cavernous malformation w/bleed
-41 year old previously healthy woman presents with headache and acute weakness.
-
-
-Keywords by value: 
-- ganglionic: 0.4065809343064675
-- cavernous: 0.25563894371165324
-- basal: 0.2521806007756619
-- malformation: 0.2272979839620292
-- hematoma: 0.20627366444578593
-- hemorrhage: 0.19731485479977076
-- adjacent: 0.19103021547994792
-- popcorn: 0.17370956768181997
-- hemiparesis: 0.16246449140933994
-- acute: 0.15942612737614684
-- tumor: 0.154149737363275
-- hypertensive: 0.1530239850329475
-- t2w: 0.14866814642249426
-- lesion: 0.14128989614085433
-- ruptured: 0.13972318651768717
-- hyperdense: 0.1356513374092915
-- 41: 0.13511870283106467
-- avm: 0.13032128317986869
-- hypointense: 0.12967275049388563
-- healthy: 0.12499865083293868
-- pending: 0.12119541969277094
-- previously: 0.11828990396503379
-- rim: 0.11734555320289518
-- pattern: 0.11001373452409899
-- weakness: 0.10754262972591738
-- heterogeneous: 0.1066517875903131
-- cerebral: 0.10208843887428855
-- headache: 0.10157977818347938
-- brain: 0.09186030572774925
-- primary: 0.09060702186958465
-- signal: 0.08353098526893733
-- metastatic: 0.08081648361691197
-- woman: 0.07674262150544973
-- mri: 0.07563864283774337
-- presents: 0.07088504314928343
-- has: 0.06730716847493859
-- and: 0.060897940171961644
-- with: 0.05770764352554713
-- ct: 0.056099180309100063
-- right: 0.048854060262218155
-- year: 0.04541170609717704
-- on: 0.044503539651606944
-- old: 0.04361095750546343
-- to: 0.0368382952826481
-- the: 0.029402529950975198
-- of: 0.02883659190598112
+\-\ Texto\\:\\ \ \(0\)\
+\-\ left\\-sided\\ hemiparesis\ \(3\)\
+\-\ pending\ \(213\)\
+\-\ \\â\\€\\¢\\ ct\\:\\ acute\\ \\(hyperdense\\)\\ right\\ basal\\ ganglionic\\ hematoma\ \(0\)\
+\-\ \\â\\€\\¢\\ mri\\:\\ heterogeneous\\ lesion\\ adjacent\\ to\\ hematoma\\.\\ \\ the\\ lesion\\ has\\ a\\ \\"popcorn\\"\\ pattern\\ of\\ hyper\\/hypo\\ signal\\ and\\ a\\ hypointense\\ rim\\ on\\ t2w\ \(0\)\
+\-\ cavernous\\ malformation\\ with\\ adjacent\\ basal\\ ganglionic\\ hemorrhage\ \(0\)\
+\-\ \\â\\€\\¢\\ hypertensive\\ hemorrhage\ \(1\)\
+\-\ \\â\\€\\¢\\ ruptured\\ avm\ \(0\)\
+\-\ \\â\\€\\¢\\ metastatic\\ tumor\ \(2\)\
+\-\ \\â\\€\\¢\\ primary\\ brain\\ tumor\ \(0\)\
+\-\ \\â\\€\\¢\\ cerebral\\ cavernous\\ malformation\\ w\\/bleed\ \(0\)\
+\-\ 41\\ year\\ old\\ previously\\ healthy\\ woman\\ presents\\ with\\ headache\\ and\\ acute\\ weakness\\.\ \(1\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ ganglionic\\:\\ 0\\.4065809343064675\ \(0\)\
+\-\ cavernous\\:\\ 0\\.25563894371165324\ \(0\)\
+\-\ basal\\:\\ 0\\.2521806007756619\ \(0\)\
+\-\ malformation\\:\\ 0\\.2272979839620292\ \(0\)\
+\-\ hematoma\\:\\ 0\\.20627366444578593\ \(0\)\
+\-\ hemorrhage\\:\\ 0\\.19731485479977076\ \(0\)\
+\-\ adjacent\\:\\ 0\\.19103021547994792\ \(0\)\
+\-\ popcorn\\:\\ 0\\.17370956768181997\ \(0\)\
+\-\ hemiparesis\\:\\ 0\\.16246449140933994\ \(0\)\
+\-\ acute\\:\\ 0\\.15942612737614684\ \(0\)\
+\-\ tumor\\:\\ 0\\.154149737363275\ \(0\)\
+\-\ hypertensive\\:\\ 0\\.1530239850329475\ \(0\)\
+\-\ t2w\\:\\ 0\\.14866814642249426\ \(0\)\
+\-\ lesion\\:\\ 0\\.14128989614085433\ \(0\)\
+\-\ ruptured\\:\\ 0\\.13972318651768717\ \(0\)\
+\-\ hyperdense\\:\\ 0\\.1356513374092915\ \(0\)\
+\-\ 41\\:\\ 0\\.13511870283106467\ \(0\)\
+\-\ avm\\:\\ 0\\.13032128317986869\ \(0\)\
+\-\ hypointense\\:\\ 0\\.12967275049388563\ \(0\)\
+\-\ healthy\\:\\ 0\\.12499865083293868\ \(0\)\
+\-\ pending\\:\\ 0\\.12119541969277094\ \(0\)\
+\-\ previously\\:\\ 0\\.11828990396503379\ \(0\)\
+\-\ rim\\:\\ 0\\.11734555320289518\ \(0\)\
+\-\ pattern\\:\\ 0\\.11001373452409899\ \(0\)\
+\-\ weakness\\:\\ 0\\.10754262972591738\ \(0\)\
+\-\ heterogeneous\\:\\ 0\\.1066517875903131\ \(0\)\
+\-\ cerebral\\:\\ 0\\.10208843887428855\ \(0\)\
+\-\ headache\\:\\ 0\\.10157977818347938\ \(0\)\
+\-\ brain\\:\\ 0\\.09186030572774925\ \(0\)\
+\-\ primary\\:\\ 0\\.09060702186958465\ \(0\)\
+\-\ signal\\:\\ 0\\.08353098526893733\ \(0\)\
+\-\ metastatic\\:\\ 0\\.08081648361691197\ \(0\)\
+\-\ woman\\:\\ 0\\.07674262150544973\ \(0\)\
+\-\ mri\\:\\ 0\\.07563864283774337\ \(0\)\
+\-\ presents\\:\\ 0\\.07088504314928343\ \(0\)\
+\-\ has\\:\\ 0\\.06730716847493859\ \(0\)\
+\-\ and\\:\\ 0\\.060897940171961644\ \(0\)\
+\-\ with\\:\\ 0\\.05770764352554713\ \(0\)\
+\-\ ct\\:\\ 0\\.056099180309100063\ \(0\)\
+\-\ right\\:\\ 0\\.048854060262218155\ \(0\)\
+\-\ year\\:\\ 0\\.04541170609717704\ \(0\)\
+\-\ on\\:\\ 0\\.044503539651606944\ \(0\)\
+\-\ old\\:\\ 0\\.04361095750546343\ \(0\)\
+\-\ to\\:\\ 0\\.0368382952826481\ \(0\)\
+\-\ the\\:\\ 0\\.029402529950975198\ \(0\)\
+\-\ of\\:\\ 0\\.02883659190598112\ \(0\)\

@@ -1,91 +1,89 @@
-Texto: 
-chest exam: diffuse decreased breath sounds with associated diffuse wheezing.  
-labs: elevated hepatic enzymes.
-patient listed for liver transplant
-abdominal ct demonstrates a nodular hepatic contour.  cxr reveals hyperinflated lungs.  chest ct reveals basilar-predominant hyperlucent lungs with significant oligemia.  nuclear medicine v/q scans demonstrate patchy pulmonary perfusion and basilar-predominant air trapping on xenon washout imaging.
-alpha 1-antitrypsin (serum trypsin inhibitor) deficiency
-swyer-james (post-viral) syndrome
-toxic inhalation (toxic liver injury)
-genetic syndrome (a1at deficiency)
-pulmonary/hepatic venoocclusive disease
-44-yo female with progressive shortness of breath and ruq abdominal pain.  she denies smoking, alcohol use, and has no history to suggest pneumoconiosis or other explanation for progressive shortness of breath
-
-
-Keywords by value: 
-- hepatic: 0.23402129913598785
-- breath: 0.21538322346630084
-- toxic: 0.20011266413767814
-- deficiency: 0.19169413339168503
-- shortness: 0.15708754252152396
-- xenon: 0.15665274557759493
-- a1at: 0.15665274557759493
-- progressive: 0.15004731604218155
-- trypsin: 0.14969006148404554
-- venoocclusive: 0.14969006148404554
-- reveals: 0.14902639464423337
-- lungs: 0.14458436893775167
-- liver: 0.135148959729081
-- oligemia: 0.13514018476951783
-- hyperinflated: 0.13082459031446023
-- hyperlucent: 0.129015329858285
-- inhalation: 0.1273786546928849
-- explanation: 0.12450998660089116
-- diffuse: 0.12286089793861575
-- inhibitor: 0.11990333277301937
-- pulmonary: 0.11941722541217296
-- syndrome: 0.11810758312749563
-- washout: 0.11711254278224914
-- pneumoconiosis: 0.11711254278224914
-- enzymes: 0.11195911914487496
-- listed: 0.11195911914487496
-- trapping: 0.11133461061744608
-- abdominal: 0.10714931678131114
-- chest: 0.10341213371418151
-- alpha: 0.10318717459515031
-- wheezing: 0.10137791413897511
-- ruq: 0.0994318235414102
-- perfusion: 0.09824707161266384
-- transplant: 0.09796322892072384
-- genetic: 0.09661039644726373
-- patchy: 0.0953564021187016
-- nuclear: 0.0926747957009755
-- smoking: 0.09072131766862797
-- alcohol: 0.09053765718115335
-- contour: 0.08815354499280319
-- serum: 0.08783845189753911
-- medicine: 0.08634428453662796
-- scans: 0.08523602312137965
-- suggest: 0.07957346938763458
-- denies: 0.07900417663732016
-- cxr: 0.07836301072970517
-- nodular: 0.07800709971199594
-- sounds: 0.07562624938933843
-- use: 0.0749497994474994
-- ct: 0.07458543136384037
-- labs: 0.06786471931270549
-- elevated: 0.06677781432611578
-- air: 0.0640719496437512
-- injury: 0.06387747313835386
-- and: 0.0607241377485641
-- decreased: 0.06067587081506277
-- for: 0.059379338918116385
-- she: 0.05831078983114008
-- with: 0.05754294619317463
-- significant: 0.056557555825601805
-- associated: 0.051630084025654215
-- imaging: 0.05147911960820747
-- demonstrate: 0.05092453668861084
-- other: 0.05087005089391819
-- exam: 0.04931102904011239
-- demonstrates: 0.04921195900443574
-- female: 0.04726822058712071
-- has: 0.044743382763541346
-- disease: 0.04111839022022247
-- of: 0.038339056551629176
-- history: 0.0374248093477903
-- pain: 0.03505221169839889
-- or: 0.03407709953834013
-- patient: 0.031860123840809974
-- no: 0.03185413113724633
-- on: 0.02958435117807273
-- to: 0.02448877264539225
+\-\ Texto\\:\\ \ \(0\)\
+\-\ chest\\ exam\\:\\ diffuse\\ decreased\\ breath\\ sounds\\ with\\ associated\\ diffuse\\ wheezing\\.\\ \\ \ \(0\)\
+\-\ labs\\:\\ elevated\\ hepatic\\ enzymes\\.\ \(0\)\
+\-\ patient\\ listed\\ for\\ liver\\ transplant\ \(0\)\
+\-\ abdominal\\ ct\\ demonstrates\\ a\\ nodular\\ hepatic\\ contour\\.\\ \\ cxr\\ reveals\\ hyperinflated\\ lungs\\.\\ \\ chest\\ ct\\ reveals\\ basilar\\-predominant\\ hyperlucent\\ lungs\\ with\\ significant\\ oligemia\\.\\ \\ nuclear\\ medicine\\ v\\/q\\ scans\\ demonstrate\\ patchy\\ pulmonary\\ perfusion\\ and\\ basilar\\-predominant\\ air\\ trapping\\ on\\ xenon\\ washout\\ imaging\\.\ \(0\)\
+\-\ alpha\\ 1\\-antitrypsin\\ \\(serum\\ trypsin\\ inhibitor\\)\\ deficiency\ \(0\)\
+\-\ swyer\\-james\\ \\(post\\-viral\\)\\ syndrome\ \(0\)\
+\-\ toxic\\ inhalation\\ \\(toxic\\ liver\\ injury\\)\ \(0\)\
+\-\ genetic\\ syndrome\\ \\(a1at\\ deficiency\\)\ \(0\)\
+\-\ pulmonary\\/hepatic\\ venoocclusive\\ disease\ \(0\)\
+\-\ 44\\-yo\\ female\\ with\\ progressive\\ shortness\\ of\\ breath\\ and\\ ruq\\ abdominal\\ pain\\.\\ \\ she\\ denies\\ smoking\\,\\ alcohol\\ use\\,\\ and\\ has\\ no\\ history\\ to\\ suggest\\ pneumoconiosis\\ or\\ other\\ explanation\\ for\\ progressive\\ shortness\\ of\\ breath\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ hepatic\\:\\ 0\\.23402129913598785\ \(0\)\
+\-\ breath\\:\\ 0\\.21538322346630084\ \(0\)\
+\-\ toxic\\:\\ 0\\.20011266413767814\ \(0\)\
+\-\ deficiency\\:\\ 0\\.19169413339168503\ \(0\)\
+\-\ shortness\\:\\ 0\\.15708754252152396\ \(0\)\
+\-\ xenon\\:\\ 0\\.15665274557759493\ \(0\)\
+\-\ a1at\\:\\ 0\\.15665274557759493\ \(0\)\
+\-\ progressive\\:\\ 0\\.15004731604218155\ \(0\)\
+\-\ trypsin\\:\\ 0\\.14969006148404554\ \(0\)\
+\-\ venoocclusive\\:\\ 0\\.14969006148404554\ \(0\)\
+\-\ reveals\\:\\ 0\\.14902639464423337\ \(0\)\
+\-\ lungs\\:\\ 0\\.14458436893775167\ \(0\)\
+\-\ liver\\:\\ 0\\.135148959729081\ \(0\)\
+\-\ oligemia\\:\\ 0\\.13514018476951783\ \(0\)\
+\-\ hyperinflated\\:\\ 0\\.13082459031446023\ \(0\)\
+\-\ hyperlucent\\:\\ 0\\.129015329858285\ \(0\)\
+\-\ inhalation\\:\\ 0\\.1273786546928849\ \(0\)\
+\-\ explanation\\:\\ 0\\.12450998660089116\ \(0\)\
+\-\ diffuse\\:\\ 0\\.12286089793861575\ \(0\)\
+\-\ inhibitor\\:\\ 0\\.11990333277301937\ \(0\)\
+\-\ pulmonary\\:\\ 0\\.11941722541217296\ \(0\)\
+\-\ syndrome\\:\\ 0\\.11810758312749563\ \(0\)\
+\-\ washout\\:\\ 0\\.11711254278224914\ \(0\)\
+\-\ pneumoconiosis\\:\\ 0\\.11711254278224914\ \(0\)\
+\-\ enzymes\\:\\ 0\\.11195911914487496\ \(0\)\
+\-\ listed\\:\\ 0\\.11195911914487496\ \(0\)\
+\-\ trapping\\:\\ 0\\.11133461061744608\ \(0\)\
+\-\ abdominal\\:\\ 0\\.10714931678131114\ \(0\)\
+\-\ chest\\:\\ 0\\.10341213371418151\ \(0\)\
+\-\ alpha\\:\\ 0\\.10318717459515031\ \(0\)\
+\-\ wheezing\\:\\ 0\\.10137791413897511\ \(0\)\
+\-\ ruq\\:\\ 0\\.0994318235414102\ \(0\)\
+\-\ perfusion\\:\\ 0\\.09824707161266384\ \(0\)\
+\-\ transplant\\:\\ 0\\.09796322892072384\ \(0\)\
+\-\ genetic\\:\\ 0\\.09661039644726373\ \(0\)\
+\-\ patchy\\:\\ 0\\.0953564021187016\ \(0\)\
+\-\ nuclear\\:\\ 0\\.0926747957009755\ \(0\)\
+\-\ smoking\\:\\ 0\\.09072131766862797\ \(0\)\
+\-\ alcohol\\:\\ 0\\.09053765718115335\ \(0\)\
+\-\ contour\\:\\ 0\\.08815354499280319\ \(0\)\
+\-\ serum\\:\\ 0\\.08783845189753911\ \(0\)\
+\-\ medicine\\:\\ 0\\.08634428453662796\ \(0\)\
+\-\ scans\\:\\ 0\\.08523602312137965\ \(0\)\
+\-\ suggest\\:\\ 0\\.07957346938763458\ \(0\)\
+\-\ denies\\:\\ 0\\.07900417663732016\ \(0\)\
+\-\ cxr\\:\\ 0\\.07836301072970517\ \(0\)\
+\-\ nodular\\:\\ 0\\.07800709971199594\ \(0\)\
+\-\ sounds\\:\\ 0\\.07562624938933843\ \(0\)\
+\-\ use\\:\\ 0\\.0749497994474994\ \(0\)\
+\-\ ct\\:\\ 0\\.07458543136384037\ \(0\)\
+\-\ labs\\:\\ 0\\.06786471931270549\ \(0\)\
+\-\ elevated\\:\\ 0\\.06677781432611578\ \(0\)\
+\-\ air\\:\\ 0\\.0640719496437512\ \(0\)\
+\-\ injury\\:\\ 0\\.06387747313835386\ \(0\)\
+\-\ and\\:\\ 0\\.0607241377485641\ \(0\)\
+\-\ decreased\\:\\ 0\\.06067587081506277\ \(0\)\
+\-\ for\\:\\ 0\\.059379338918116385\ \(0\)\
+\-\ she\\:\\ 0\\.05831078983114008\ \(0\)\
+\-\ with\\:\\ 0\\.05754294619317463\ \(0\)\
+\-\ significant\\:\\ 0\\.056557555825601805\ \(0\)\
+\-\ associated\\:\\ 0\\.051630084025654215\ \(0\)\
+\-\ imaging\\:\\ 0\\.05147911960820747\ \(0\)\
+\-\ demonstrate\\:\\ 0\\.05092453668861084\ \(0\)\
+\-\ other\\:\\ 0\\.05087005089391819\ \(0\)\
+\-\ exam\\:\\ 0\\.04931102904011239\ \(0\)\
+\-\ demonstrates\\:\\ 0\\.04921195900443574\ \(0\)\
+\-\ female\\:\\ 0\\.04726822058712071\ \(0\)\
+\-\ has\\:\\ 0\\.044743382763541346\ \(0\)\
+\-\ disease\\:\\ 0\\.04111839022022247\ \(0\)\
+\-\ of\\:\\ 0\\.038339056551629176\ \(0\)\
+\-\ history\\:\\ 0\\.0374248093477903\ \(0\)\
+\-\ pain\\:\\ 0\\.03505221169839889\ \(0\)\
+\-\ or\\:\\ 0\\.03407709953834013\ \(0\)\
+\-\ patient\\:\\ 0\\.031860123840809974\ \(0\)\
+\-\ no\\:\\ 0\\.03185413113724633\ \(0\)\
+\-\ on\\:\\ 0\\.02958435117807273\ \(0\)\
+\-\ to\\:\\ 0\\.02448877264539225\ \(0\)\

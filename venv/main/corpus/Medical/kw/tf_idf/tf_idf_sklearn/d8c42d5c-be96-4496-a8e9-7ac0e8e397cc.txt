@@ -1,107 +1,103 @@
-Texto: 
-no findings
-lesion resected.
-pa and lateral chest films were unremarkable. 
-lingular bronchial lesion. no associated calcifications. post obstructive air trapping in lingula.
-endobronchial tumors
-neoplasm (benign or malignant. unlikley mucous plug or foreign body given symptomatology.
-23 yo male with recurrent hemoptysis.
-endobronchial lesions: 
- - tumors 80%, inflammatory 20%
- - less than 10% of tumors are benign
- 
-benign: squamous cell papilloma - most common
-        hamartomas 
-        pleomorphic adenoma
-
-malignant: squamous cell carcinoma - most common
-           adenoid cystic carcinoma
-           mucoepidermoid carinoma
-           carccinoma
-
-ball valve phenomenon can generate distal air trapping. during exhalation the bronchial caliber decreases. this combined with endobronchial lesion can partially or completely occlude the bronchial lumen generating peripheral air trapping.
-
-
-Keywords by value: 
-- endobronchial: 0.33723600543782317
-- trapping: 0.31313591109830746
-- bronchial: 0.28052879124337904
-- tumors: 0.20262143352788292
-- benign: 0.18925491742924755
-- air: 0.18020657023250067
-- squamous: 0.16529176012609761
-- unlikley: 0.14686538157495735
-- carccinoma: 0.14686538157495735
-- generate: 0.14686538157495735
-- exhalation: 0.14686538157495735
-- generating: 0.14686538157495735
-- carinoma: 0.1357062578757076
-- lesion: 0.13208432662883246
-- malignant: 0.13092761259792368
-- mucoepidermoid: 0.12669688443126867
-- occlude: 0.12454713417645785
-- lingular: 0.118019465271488
-- hamartomas: 0.1133880104772081
-- lingula: 0.11241200181260773
-- adenoid: 0.11241200181260773
-- carcinoma: 0.10986400800868684
-- decreases: 0.10901009182704906
-- phenomenon: 0.10557171701860403
-- cell: 0.10506857781359492
-- plug: 0.10437863703276916
-- symptomatology: 0.10437863703276916
-- common: 0.10416279586666495
-- ball: 0.09747214565160729
-- caliber: 0.096386394146097
-- can: 0.09638500060139836
-- or: 0.09584408255750207
-- most: 0.09558822646316495
-- hemoptysis: 0.09504401591173459
-- mucous: 0.09472520920838813
-- pleomorphic: 0.09293456408202413
-- combined: 0.09106976307870861
-- obstructive: 0.08540321987491534
-- papilloma: 0.08421013988908047
-- valve: 0.08421013988908047
-- resected: 0.08404669470429851
-- foreign: 0.08325346962010453
-- completely: 0.08206038963426966
-- lumen: 0.08177544038277439
-- partially: 0.07881668723920723
-- 23: 0.07572552797296224
-- recurrent: 0.07363650661860986
-- adenoma: 0.07321613776472422
-- films: 0.07272576851323509
-- 80: 0.07163651755929855
-- pa: 0.07047571131448561
-- calcifications: 0.06702388125041275
-- peripheral: 0.06567020928537214
-- given: 0.0631736735956864
-- neoplasm: 0.06269175642535216
-- less: 0.062477382919360114
-- inflammatory: 0.06209856044316809
-- unremarkable: 0.06156664481398534
-- body: 0.0604398227521648
-- no: 0.05972789186632062
-- 20: 0.059246742766329935
-- during: 0.058168568430640666
-- yo: 0.05737377661985538
-- cystic: 0.05530955727698544
-- 10: 0.05370089137048373
-- distal: 0.05335886185399178
-- lesions: 0.05274232182557548
-- than: 0.05205908439903062
-- post: 0.04997077093573789
-- chest: 0.04847557066879132
-- associated: 0.048404335099373565
-- were: 0.04733868345351909
-- lateral: 0.04557607353218767
-- findings: 0.045324633776170783
-- male: 0.04088881551939697
-- the: 0.03664912567078395
-- with: 0.03596518196323497
-- are: 0.034847496302577864
-- this: 0.031556422817276816
-- in: 0.022845757982446625
-- and: 0.01897673657824197
-- of: 0.01797185280384964
+\-\ Texto\\:\\ \ \(0\)\
+\-\ no\\ findings\ \(5\)\
+\-\ lesion\\ resected\\.\ \(2\)\
+\-\ pa\\ and\\ lateral\\ chest\\ films\\ were\\ unremarkable\\.\\ \ \(0\)\
+\-\ lingular\\ bronchial\\ lesion\\.\\ no\\ associated\\ calcifications\\.\\ post\\ obstructive\\ air\\ trapping\\ in\\ lingula\\.\ \(0\)\
+\-\ endobronchial\\ tumors\ \(0\)\
+\-\ neoplasm\\ \\(benign\\ or\\ malignant\\.\\ unlikley\\ mucous\\ plug\\ or\\ foreign\\ body\\ given\\ symptomatology\\.\ \(0\)\
+\-\ 23\\ yo\\ male\\ with\\ recurrent\\ hemoptysis\\.\ \(1\)\
+\-\ endobronchial\\ lesions\\:\\ \ \(0\)\
+\-\ \\ \\-\\ tumors\\ 80\\%\\,\\ inflammatory\\ 20\\%\ \(0\)\
+\-\ \\ \\-\\ less\\ than\\ 10\\%\\ of\\ tumors\\ are\\ benign\ \(0\)\
+\-\ \\ \ \(1082074\)\
+\-\ benign\\:\\ squamous\\ cell\\ papilloma\\ \\-\\ most\\ common\ \(0\)\
+\-\ \\ \\ \\ \\ \\ \\ \\ \\ hamartomas\\ \ \(0\)\
+\-\ \\ \\ \\ \\ \\ \\ \\ \\ pleomorphic\\ adenoma\ \(0\)\
+\-\ malignant\\:\\ squamous\\ cell\\ carcinoma\\ \\-\\ most\\ common\ \(0\)\
+\-\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ adenoid\\ cystic\\ carcinoma\ \(0\)\
+\-\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ mucoepidermoid\\ carinoma\ \(0\)\
+\-\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ carccinoma\ \(0\)\
+\-\ ball\\ valve\\ phenomenon\\ can\\ generate\\ distal\\ air\\ trapping\\.\\ during\\ exhalation\\ the\\ bronchial\\ caliber\\ decreases\\.\\ this\\ combined\\ with\\ endobronchial\\ lesion\\ can\\ partially\\ or\\ completely\\ occlude\\ the\\ bronchial\\ lumen\\ generating\\ peripheral\\ air\\ trapping\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ endobronchial\\:\\ 0\\.33723600543782317\ \(0\)\
+\-\ trapping\\:\\ 0\\.31313591109830746\ \(0\)\
+\-\ bronchial\\:\\ 0\\.28052879124337904\ \(0\)\
+\-\ tumors\\:\\ 0\\.20262143352788292\ \(0\)\
+\-\ benign\\:\\ 0\\.18925491742924755\ \(0\)\
+\-\ air\\:\\ 0\\.18020657023250067\ \(0\)\
+\-\ squamous\\:\\ 0\\.16529176012609761\ \(0\)\
+\-\ unlikley\\:\\ 0\\.14686538157495735\ \(0\)\
+\-\ carccinoma\\:\\ 0\\.14686538157495735\ \(0\)\
+\-\ generate\\:\\ 0\\.14686538157495735\ \(0\)\
+\-\ exhalation\\:\\ 0\\.14686538157495735\ \(0\)\
+\-\ generating\\:\\ 0\\.14686538157495735\ \(0\)\
+\-\ carinoma\\:\\ 0\\.1357062578757076\ \(0\)\
+\-\ lesion\\:\\ 0\\.13208432662883246\ \(0\)\
+\-\ malignant\\:\\ 0\\.13092761259792368\ \(0\)\
+\-\ mucoepidermoid\\:\\ 0\\.12669688443126867\ \(0\)\
+\-\ occlude\\:\\ 0\\.12454713417645785\ \(0\)\
+\-\ lingular\\:\\ 0\\.118019465271488\ \(0\)\
+\-\ hamartomas\\:\\ 0\\.1133880104772081\ \(0\)\
+\-\ lingula\\:\\ 0\\.11241200181260773\ \(0\)\
+\-\ adenoid\\:\\ 0\\.11241200181260773\ \(0\)\
+\-\ carcinoma\\:\\ 0\\.10986400800868684\ \(0\)\
+\-\ decreases\\:\\ 0\\.10901009182704906\ \(0\)\
+\-\ phenomenon\\:\\ 0\\.10557171701860403\ \(0\)\
+\-\ cell\\:\\ 0\\.10506857781359492\ \(0\)\
+\-\ plug\\:\\ 0\\.10437863703276916\ \(0\)\
+\-\ symptomatology\\:\\ 0\\.10437863703276916\ \(0\)\
+\-\ common\\:\\ 0\\.10416279586666495\ \(0\)\
+\-\ ball\\:\\ 0\\.09747214565160729\ \(0\)\
+\-\ caliber\\:\\ 0\\.096386394146097\ \(0\)\
+\-\ can\\:\\ 0\\.09638500060139836\ \(0\)\
+\-\ or\\:\\ 0\\.09584408255750207\ \(0\)\
+\-\ most\\:\\ 0\\.09558822646316495\ \(0\)\
+\-\ hemoptysis\\:\\ 0\\.09504401591173459\ \(0\)\
+\-\ mucous\\:\\ 0\\.09472520920838813\ \(0\)\
+\-\ pleomorphic\\:\\ 0\\.09293456408202413\ \(0\)\
+\-\ combined\\:\\ 0\\.09106976307870861\ \(0\)\
+\-\ obstructive\\:\\ 0\\.08540321987491534\ \(0\)\
+\-\ papilloma\\:\\ 0\\.08421013988908047\ \(0\)\
+\-\ valve\\:\\ 0\\.08421013988908047\ \(0\)\
+\-\ resected\\:\\ 0\\.08404669470429851\ \(0\)\
+\-\ foreign\\:\\ 0\\.08325346962010453\ \(0\)\
+\-\ completely\\:\\ 0\\.08206038963426966\ \(0\)\
+\-\ lumen\\:\\ 0\\.08177544038277439\ \(0\)\
+\-\ partially\\:\\ 0\\.07881668723920723\ \(0\)\
+\-\ 23\\:\\ 0\\.07572552797296224\ \(0\)\
+\-\ recurrent\\:\\ 0\\.07363650661860986\ \(0\)\
+\-\ adenoma\\:\\ 0\\.07321613776472422\ \(0\)\
+\-\ films\\:\\ 0\\.07272576851323509\ \(0\)\
+\-\ 80\\:\\ 0\\.07163651755929855\ \(0\)\
+\-\ pa\\:\\ 0\\.07047571131448561\ \(0\)\
+\-\ calcifications\\:\\ 0\\.06702388125041275\ \(0\)\
+\-\ peripheral\\:\\ 0\\.06567020928537214\ \(0\)\
+\-\ given\\:\\ 0\\.0631736735956864\ \(0\)\
+\-\ neoplasm\\:\\ 0\\.06269175642535216\ \(0\)\
+\-\ less\\:\\ 0\\.062477382919360114\ \(0\)\
+\-\ inflammatory\\:\\ 0\\.06209856044316809\ \(0\)\
+\-\ unremarkable\\:\\ 0\\.06156664481398534\ \(0\)\
+\-\ body\\:\\ 0\\.0604398227521648\ \(0\)\
+\-\ no\\:\\ 0\\.05972789186632062\ \(0\)\
+\-\ 20\\:\\ 0\\.059246742766329935\ \(0\)\
+\-\ during\\:\\ 0\\.058168568430640666\ \(0\)\
+\-\ yo\\:\\ 0\\.05737377661985538\ \(0\)\
+\-\ cystic\\:\\ 0\\.05530955727698544\ \(0\)\
+\-\ 10\\:\\ 0\\.05370089137048373\ \(0\)\
+\-\ distal\\:\\ 0\\.05335886185399178\ \(0\)\
+\-\ lesions\\:\\ 0\\.05274232182557548\ \(0\)\
+\-\ than\\:\\ 0\\.05205908439903062\ \(0\)\
+\-\ post\\:\\ 0\\.04997077093573789\ \(0\)\
+\-\ chest\\:\\ 0\\.04847557066879132\ \(0\)\
+\-\ associated\\:\\ 0\\.048404335099373565\ \(0\)\
+\-\ were\\:\\ 0\\.04733868345351909\ \(0\)\
+\-\ lateral\\:\\ 0\\.04557607353218767\ \(0\)\
+\-\ findings\\:\\ 0\\.045324633776170783\ \(0\)\
+\-\ male\\:\\ 0\\.04088881551939697\ \(0\)\
+\-\ the\\:\\ 0\\.03664912567078395\ \(0\)\
+\-\ with\\:\\ 0\\.03596518196323497\ \(0\)\
+\-\ are\\:\\ 0\\.034847496302577864\ \(0\)\
+\-\ this\\:\\ 0\\.031556422817276816\ \(0\)\
+\-\ in\\:\\ 0\\.022845757982446625\ \(0\)\
+\-\ and\\:\\ 0\\.01897673657824197\ \(0\)\
+\-\ of\\:\\ 0\\.01797185280384964\ \(0\)\

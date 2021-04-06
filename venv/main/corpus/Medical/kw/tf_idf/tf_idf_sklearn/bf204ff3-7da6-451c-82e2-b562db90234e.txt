@@ -1,66 +1,63 @@
-Texto: 
-surgical resection.
-small, well cirumbscribed, smooth and fusiform mass with intermediate signal on t1, and the normal common peroneal nerve seen entering and exiting the nerve ("string" sign).
-
-mass is hyperintense on t2 and demonstrates diffuse enhancement with slightly lower intensity centrally and high signal in the periphery of the mass, ("target" sign)
-peripheral neurofibroma
-neurofibroma
-schwannoma
-30 year old woman with a history of type 1 neurofibromatosis, presents with a palpable mass posteriorly in the left knee.
-
-
-Keywords by value: 
-- neurofibroma: 0.3085959076929462
-- cirumbscribed: 0.24951539829166236
-- mass: 0.23838710949563802
-- nerve: 0.22261258493361713
-- sign: 0.21603371479502673
-- exiting: 0.19831863644306433
-- peroneal: 0.187938992682525
-- entering: 0.18392915486579448
-- string: 0.18154925553624537
-- signal: 0.17689046988781043
-- fusiform: 0.16826984581712975
-- target: 0.16147403309847996
-- and: 0.16120163699637255
-- intermediate: 0.15936902641385867
-- periphery: 0.15741451027636955
-- the: 0.15566161832561698
-- neurofibromatosis: 0.1547220179679563
-- centrally: 0.1538803642398599
-- posteriorly: 0.13752857293965415
-- schwannoma: 0.13370586188205574
-- smooth: 0.12881835770800992
-- hyperintense: 0.12410925709482726
-- with: 0.12220533669615792
-- slightly: 0.12170610949533586
-- knee: 0.11183569456686218
-- peripheral: 0.11156971268531027
-- intensity: 0.1107869429152429
-- palpable: 0.10961215427119932
-- 30: 0.10643627093186254
-- type: 0.1046664694905435
-- resection: 0.10001303520461616
-- diffuse: 0.09784598977373264
-- t1: 0.09721233391447277
-- on: 0.09424349557589871
-- enhancement: 0.08980435850644682
-- t2: 0.08976457437151919
-- high: 0.08867348317756861
-- common: 0.08848314428876863
-- woman: 0.08125750184087402
-- small: 0.0804821293160088
-- lower: 0.0797281327456023
-- demonstrates: 0.0783844643541374
-- in: 0.07762712139696083
-- surgical: 0.07583246653579016
-- well: 0.07554730404375716
-- presents: 0.0750553136080229
-- seen: 0.07345455793282882
-- normal: 0.0637033119461187
-- of: 0.06106618131929195
-- history: 0.05960997476279785
-- left: 0.05322298787422939
-- year: 0.04808334298987365
-- old: 0.046176653732513194
-- is: 0.042728070733876744
+\-\ Texto\\:\\ \ \(0\)\
+\-\ surgical\\ resection\\.\ \(23\)\
+\-\ small\\,\\ well\\ cirumbscribed\\,\\ smooth\\ and\\ fusiform\\ mass\\ with\\ intermediate\\ signal\\ on\\ t1\\,\\ and\\ the\\ normal\\ common\\ peroneal\\ nerve\\ seen\\ entering\\ and\\ exiting\\ the\\ nerve\\ \\(\\"string\\"\\ sign\\)\\.\ \(0\)\
+\-\ mass\\ is\\ hyperintense\\ on\\ t2\\ and\\ demonstrates\\ diffuse\\ enhancement\\ with\\ slightly\\ lower\\ intensity\\ centrally\\ and\\ high\\ signal\\ in\\ the\\ periphery\\ of\\ the\\ mass\\,\\ \\(\\"target\\"\\ sign\\)\ \(0\)\
+\-\ peripheral\\ neurofibroma\ \(0\)\
+\-\ neurofibroma\ \(78\)\
+\-\ schwannoma\ \(67\)\
+\-\ 30\\ year\\ old\\ woman\\ with\\ a\\ history\\ of\\ type\\ 1\\ neurofibromatosis\\,\\ presents\\ with\\ a\\ palpable\\ mass\\ posteriorly\\ in\\ the\\ left\\ knee\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ neurofibroma\\:\\ 0\\.3085959076929462\ \(0\)\
+\-\ cirumbscribed\\:\\ 0\\.24951539829166236\ \(0\)\
+\-\ mass\\:\\ 0\\.23838710949563802\ \(0\)\
+\-\ nerve\\:\\ 0\\.22261258493361713\ \(0\)\
+\-\ sign\\:\\ 0\\.21603371479502673\ \(0\)\
+\-\ exiting\\:\\ 0\\.19831863644306433\ \(0\)\
+\-\ peroneal\\:\\ 0\\.187938992682525\ \(0\)\
+\-\ entering\\:\\ 0\\.18392915486579448\ \(0\)\
+\-\ string\\:\\ 0\\.18154925553624537\ \(0\)\
+\-\ signal\\:\\ 0\\.17689046988781043\ \(0\)\
+\-\ fusiform\\:\\ 0\\.16826984581712975\ \(0\)\
+\-\ target\\:\\ 0\\.16147403309847996\ \(0\)\
+\-\ and\\:\\ 0\\.16120163699637255\ \(0\)\
+\-\ intermediate\\:\\ 0\\.15936902641385867\ \(0\)\
+\-\ periphery\\:\\ 0\\.15741451027636955\ \(0\)\
+\-\ the\\:\\ 0\\.15566161832561698\ \(0\)\
+\-\ neurofibromatosis\\:\\ 0\\.1547220179679563\ \(0\)\
+\-\ centrally\\:\\ 0\\.1538803642398599\ \(0\)\
+\-\ posteriorly\\:\\ 0\\.13752857293965415\ \(0\)\
+\-\ schwannoma\\:\\ 0\\.13370586188205574\ \(0\)\
+\-\ smooth\\:\\ 0\\.12881835770800992\ \(0\)\
+\-\ hyperintense\\:\\ 0\\.12410925709482726\ \(0\)\
+\-\ with\\:\\ 0\\.12220533669615792\ \(0\)\
+\-\ slightly\\:\\ 0\\.12170610949533586\ \(0\)\
+\-\ knee\\:\\ 0\\.11183569456686218\ \(0\)\
+\-\ peripheral\\:\\ 0\\.11156971268531027\ \(0\)\
+\-\ intensity\\:\\ 0\\.1107869429152429\ \(0\)\
+\-\ palpable\\:\\ 0\\.10961215427119932\ \(0\)\
+\-\ 30\\:\\ 0\\.10643627093186254\ \(0\)\
+\-\ type\\:\\ 0\\.1046664694905435\ \(0\)\
+\-\ resection\\:\\ 0\\.10001303520461616\ \(0\)\
+\-\ diffuse\\:\\ 0\\.09784598977373264\ \(0\)\
+\-\ t1\\:\\ 0\\.09721233391447277\ \(0\)\
+\-\ on\\:\\ 0\\.09424349557589871\ \(0\)\
+\-\ enhancement\\:\\ 0\\.08980435850644682\ \(0\)\
+\-\ t2\\:\\ 0\\.08976457437151919\ \(0\)\
+\-\ high\\:\\ 0\\.08867348317756861\ \(0\)\
+\-\ common\\:\\ 0\\.08848314428876863\ \(0\)\
+\-\ woman\\:\\ 0\\.08125750184087402\ \(0\)\
+\-\ small\\:\\ 0\\.0804821293160088\ \(0\)\
+\-\ lower\\:\\ 0\\.0797281327456023\ \(0\)\
+\-\ demonstrates\\:\\ 0\\.0783844643541374\ \(0\)\
+\-\ in\\:\\ 0\\.07762712139696083\ \(0\)\
+\-\ surgical\\:\\ 0\\.07583246653579016\ \(0\)\
+\-\ well\\:\\ 0\\.07554730404375716\ \(0\)\
+\-\ presents\\:\\ 0\\.0750553136080229\ \(0\)\
+\-\ seen\\:\\ 0\\.07345455793282882\ \(0\)\
+\-\ normal\\:\\ 0\\.0637033119461187\ \(0\)\
+\-\ of\\:\\ 0\\.06106618131929195\ \(0\)\
+\-\ history\\:\\ 0\\.05960997476279785\ \(0\)\
+\-\ left\\:\\ 0\\.05322298787422939\ \(0\)\
+\-\ year\\:\\ 0\\.04808334298987365\ \(0\)\
+\-\ old\\:\\ 0\\.046176653732513194\ \(0\)\
+\-\ is\\:\\ 0\\.042728070733876744\ \(0\)\

@@ -1,87 +1,85 @@
-Texto: 
-patient was tachypnic and pale.  her oxygen saturation was 93% on room air.  lab work showed a hematocrit and hemoglobin of 4.5 and 15.7, respectively.  her coagulation studies were normal.  blood gas showed a po2 of 55.
-patient was anticoagulated with heparin and coumadin for treatment of her pulmonary embolus.
-a ct pe/dvt protocol was initially performed following transfusion of 3 units of blood.   the study was limited secondary to patientâ€™s respiratory motion.  a questionable filling defect was thought to be
-pulmonary embolus
-pulmonary embolus
-84 year old woman with past medical history significant for depression, presented to the pulmonology clinic with 2-3 month history of fatigue which had increased in the last 2-3 weeks.  patient also reported increased difficulty breathing.
-
-
-Keywords by value: 
-- embolus: 0.3611262113831839
-- was: 0.23530567376727765
-- her: 0.21090596924845398
-- pulmonary: 0.20577558321903297
-- tachypnic: 0.1582868057971079
-- po2: 0.15028823677339112
-- pulmonology: 0.15028823677339112
-- showed: 0.1499050828593459
-- patient: 0.14640066745580219
-- anticoagulated: 0.13774215093963463
-- transfusion: 0.13265598227595243
-- of: 0.13212904076022486
-- coagulation: 0.13093951767571232
-- blood: 0.13070556777514789
-- pale: 0.1301342263341724
-- 93: 0.1252644426387313
-- coumadin: 0.1252644426387313
-- heparin: 0.12294094865199556
-- increased: 0.12170110445096245
-- hemoglobin: 0.11898233821525464
-- units: 0.11898233821525464
-- depression: 0.11726587361501453
-- saturation: 0.11685911902969291
-- 84: 0.11685911902969291
-- hematocrit: 0.11646058227347462
-- respectively: 0.11646058227347462
-- oxygen: 0.11568687924689451
-- questionable: 0.11458040803262631
-- breathing: 0.11010687378416824
-- protocol: 0.10982302862123487
-- fatigue: 0.10899520512592918
-- lab: 0.10163747337783498
-- gas: 0.09854345786577227
-- thought: 0.09716124217148396
-- clinic: 0.09478836918906007
-- difficulty: 0.09465729296942116
-- and: 0.09301129672823692
-- room: 0.09208856198591857
-- work: 0.09174745437790875
-- last: 0.09152328266469402
-- limited: 0.08981610786847641
-- respiratory: 0.08951183090829734
-- initially: 0.08824497752217761
-- motion: 0.08723311991123073
-- filling: 0.08714365536570448
-- history: 0.08598549546289763
-- to: 0.08439639182757655
-- studies: 0.08254631981833874
-- defect: 0.08254631981833874
-- reported: 0.08104907815105049
-- study: 0.07504900567312671
-- air: 0.073604360735602
-- past: 0.0732481090948118
-- medical: 0.07151693938880149
-- month: 0.06845293867861138
-- for: 0.06821359902846132
-- following: 0.06750694723395487
-- weeks: 0.0674410810676645
-- the: 0.06736108224946556
-- secondary: 0.06669901701896078
-- performed: 0.06657276443776307
-- with: 0.06610399391529724
-- presented: 0.06562077606389871
-- significant: 0.06497200045351735
-- woman: 0.05860568288837276
-- were: 0.05800565754898684
-- had: 0.05606628776941431
-- treatment: 0.053603727366358496
-- also: 0.05293060785139173
-- which: 0.05116824079739144
-- normal: 0.04594500217548362
-- be: 0.045648681578117335
-- ct: 0.042841001610288906
-- year: 0.03467934760037027
-- on: 0.03398581233046601
-- old: 0.03330417825043924
-- in: 0.027993664320597387
+\-\ Texto\\:\\ \ \(0\)\
+\-\ patient\\ was\\ tachypnic\\ and\\ pale\\.\\ \\ her\\ oxygen\\ saturation\\ was\\ 93\\%\\ on\\ room\\ air\\.\\ \\ lab\\ work\\ showed\\ a\\ hematocrit\\ and\\ hemoglobin\\ of\\ 4\\.5\\ and\\ 15\\.7\\,\\ respectively\\.\\ \\ her\\ coagulation\\ studies\\ were\\ normal\\.\\ \\ blood\\ gas\\ showed\\ a\\ po2\\ of\\ 55\\.\ \(0\)\
+\-\ patient\\ was\\ anticoagulated\\ with\\ heparin\\ and\\ coumadin\\ for\\ treatment\\ of\\ her\\ pulmonary\\ embolus\\.\ \(0\)\
+\-\ a\\ ct\\ pe\\/dvt\\ protocol\\ was\\ initially\\ performed\\ following\\ transfusion\\ of\\ 3\\ units\\ of\\ blood\\.\\ \\ \\ the\\ study\\ was\\ limited\\ secondary\\ to\\ patient\\â\\€\\™s\\ respiratory\\ motion\\.\\ \\ a\\ questionable\\ filling\\ defect\\ was\\ thought\\ to\\ be\ \(0\)\
+\-\ pulmonary\\ embolus\ \(16\)\
+\-\ pulmonary\\ embolus\ \(16\)\
+\-\ 84\\ year\\ old\\ woman\\ with\\ past\\ medical\\ history\\ significant\\ for\\ depression\\,\\ presented\\ to\\ the\\ pulmonology\\ clinic\\ with\\ 2\\-3\\ month\\ history\\ of\\ fatigue\\ which\\ had\\ increased\\ in\\ the\\ last\\ 2\\-3\\ weeks\\.\\ \\ patient\\ also\\ reported\\ increased\\ difficulty\\ breathing\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ embolus\\:\\ 0\\.3611262113831839\ \(0\)\
+\-\ was\\:\\ 0\\.23530567376727765\ \(0\)\
+\-\ her\\:\\ 0\\.21090596924845398\ \(0\)\
+\-\ pulmonary\\:\\ 0\\.20577558321903297\ \(0\)\
+\-\ tachypnic\\:\\ 0\\.1582868057971079\ \(0\)\
+\-\ po2\\:\\ 0\\.15028823677339112\ \(0\)\
+\-\ pulmonology\\:\\ 0\\.15028823677339112\ \(0\)\
+\-\ showed\\:\\ 0\\.1499050828593459\ \(0\)\
+\-\ patient\\:\\ 0\\.14640066745580219\ \(0\)\
+\-\ anticoagulated\\:\\ 0\\.13774215093963463\ \(0\)\
+\-\ transfusion\\:\\ 0\\.13265598227595243\ \(0\)\
+\-\ of\\:\\ 0\\.13212904076022486\ \(0\)\
+\-\ coagulation\\:\\ 0\\.13093951767571232\ \(0\)\
+\-\ blood\\:\\ 0\\.13070556777514789\ \(0\)\
+\-\ pale\\:\\ 0\\.1301342263341724\ \(0\)\
+\-\ 93\\:\\ 0\\.1252644426387313\ \(0\)\
+\-\ coumadin\\:\\ 0\\.1252644426387313\ \(0\)\
+\-\ heparin\\:\\ 0\\.12294094865199556\ \(0\)\
+\-\ increased\\:\\ 0\\.12170110445096245\ \(0\)\
+\-\ hemoglobin\\:\\ 0\\.11898233821525464\ \(0\)\
+\-\ units\\:\\ 0\\.11898233821525464\ \(0\)\
+\-\ depression\\:\\ 0\\.11726587361501453\ \(0\)\
+\-\ saturation\\:\\ 0\\.11685911902969291\ \(0\)\
+\-\ 84\\:\\ 0\\.11685911902969291\ \(0\)\
+\-\ hematocrit\\:\\ 0\\.11646058227347462\ \(0\)\
+\-\ respectively\\:\\ 0\\.11646058227347462\ \(0\)\
+\-\ oxygen\\:\\ 0\\.11568687924689451\ \(0\)\
+\-\ questionable\\:\\ 0\\.11458040803262631\ \(0\)\
+\-\ breathing\\:\\ 0\\.11010687378416824\ \(0\)\
+\-\ protocol\\:\\ 0\\.10982302862123487\ \(0\)\
+\-\ fatigue\\:\\ 0\\.10899520512592918\ \(0\)\
+\-\ lab\\:\\ 0\\.10163747337783498\ \(0\)\
+\-\ gas\\:\\ 0\\.09854345786577227\ \(0\)\
+\-\ thought\\:\\ 0\\.09716124217148396\ \(0\)\
+\-\ clinic\\:\\ 0\\.09478836918906007\ \(0\)\
+\-\ difficulty\\:\\ 0\\.09465729296942116\ \(0\)\
+\-\ and\\:\\ 0\\.09301129672823692\ \(0\)\
+\-\ room\\:\\ 0\\.09208856198591857\ \(0\)\
+\-\ work\\:\\ 0\\.09174745437790875\ \(0\)\
+\-\ last\\:\\ 0\\.09152328266469402\ \(0\)\
+\-\ limited\\:\\ 0\\.08981610786847641\ \(0\)\
+\-\ respiratory\\:\\ 0\\.08951183090829734\ \(0\)\
+\-\ initially\\:\\ 0\\.08824497752217761\ \(0\)\
+\-\ motion\\:\\ 0\\.08723311991123073\ \(0\)\
+\-\ filling\\:\\ 0\\.08714365536570448\ \(0\)\
+\-\ history\\:\\ 0\\.08598549546289763\ \(0\)\
+\-\ to\\:\\ 0\\.08439639182757655\ \(0\)\
+\-\ studies\\:\\ 0\\.08254631981833874\ \(0\)\
+\-\ defect\\:\\ 0\\.08254631981833874\ \(0\)\
+\-\ reported\\:\\ 0\\.08104907815105049\ \(0\)\
+\-\ study\\:\\ 0\\.07504900567312671\ \(0\)\
+\-\ air\\:\\ 0\\.073604360735602\ \(0\)\
+\-\ past\\:\\ 0\\.0732481090948118\ \(0\)\
+\-\ medical\\:\\ 0\\.07151693938880149\ \(0\)\
+\-\ month\\:\\ 0\\.06845293867861138\ \(0\)\
+\-\ for\\:\\ 0\\.06821359902846132\ \(0\)\
+\-\ following\\:\\ 0\\.06750694723395487\ \(0\)\
+\-\ weeks\\:\\ 0\\.0674410810676645\ \(0\)\
+\-\ the\\:\\ 0\\.06736108224946556\ \(0\)\
+\-\ secondary\\:\\ 0\\.06669901701896078\ \(0\)\
+\-\ performed\\:\\ 0\\.06657276443776307\ \(0\)\
+\-\ with\\:\\ 0\\.06610399391529724\ \(0\)\
+\-\ presented\\:\\ 0\\.06562077606389871\ \(0\)\
+\-\ significant\\:\\ 0\\.06497200045351735\ \(0\)\
+\-\ woman\\:\\ 0\\.05860568288837276\ \(0\)\
+\-\ were\\:\\ 0\\.05800565754898684\ \(0\)\
+\-\ had\\:\\ 0\\.05606628776941431\ \(0\)\
+\-\ treatment\\:\\ 0\\.053603727366358496\ \(0\)\
+\-\ also\\:\\ 0\\.05293060785139173\ \(0\)\
+\-\ which\\:\\ 0\\.05116824079739144\ \(0\)\
+\-\ normal\\:\\ 0\\.04594500217548362\ \(0\)\
+\-\ be\\:\\ 0\\.045648681578117335\ \(0\)\
+\-\ ct\\:\\ 0\\.042841001610288906\ \(0\)\
+\-\ year\\:\\ 0\\.03467934760037027\ \(0\)\
+\-\ on\\:\\ 0\\.03398581233046601\ \(0\)\
+\-\ old\\:\\ 0\\.03330417825043924\ \(0\)\
+\-\ in\\:\\ 0\\.027993664320597387\ \(0\)\

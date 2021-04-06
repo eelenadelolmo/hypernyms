@@ -1,56 +1,54 @@
-Texto: 
-non-contributory
-none required
-â€¢ ct reveals calcified lesion left frontal lobe. 
-â€¢ cta has findings consistent with developmental venous anomaly in the same location
-developmental venous anomaly (venous angioma)
-â€¢ vascular malformation - developmental venous anomaly
-â€¢ hematoma
-â€¢ neoplasm (e.g. oligodendroglioma, ganglioglioma, astrocytoma)
-â€¢ abscess
-80 year old woman who presents with transient resolving symptoms, suggestive of a tia.
-
-
-Keywords by value: 
-- venous: 0.44112081277845855
-- anomaly: 0.4240882865352583
-- developmental: 0.4007185902636545
-- tia: 0.18606014896968695
-- resolving: 0.17030278916949562
-- angioma: 0.16211758190906278
-- oligodendroglioma: 0.16211758190906278
-- ganglioglioma: 0.16211758190906278
-- transient: 0.15193480990328093
-- cta: 0.14549132986433538
-- suggestive: 0.1257829646640169
-- calcified: 0.12443252769191669
-- same: 0.12218641985170345
-- 80: 0.12048940211931217
-- malformation: 0.11913212636663412
-- reveals: 0.1174976038500507
-- astrocytoma: 0.11660606154015889
-- required: 0.11028020319461464
-- hematoma: 0.10811279462544279
-- location: 0.10755773255232508
-- neoplasm: 0.10544471600322435
-- vascular: 0.10197451452716787
-- frontal: 0.0994169241124846
-- abscess: 0.09918548551080039
-- lobe: 0.08926365562357232
-- who: 0.0873741641524585
-- symptoms: 0.08451374788098825
-- none: 0.0844133963706271
-- consistent: 0.08375372546275059
-- woman: 0.08044516298412303
-- findings: 0.07623399644527715
-- presents: 0.07430497860795329
-- lesion: 0.07405329984885714
-- has: 0.07055448500129434
-- with: 0.06049181924952416
-- ct: 0.05880575376123664
-- left: 0.05269091267940874
-- year: 0.04760264930635812
-- old: 0.04571502140009036
-- in: 0.03842553789677058
-- the: 0.030821090909486225
-- of: 0.030227848492490716
+\-\ Texto\\:\\ \ \(0\)\
+\-\ non\\-contributory\ \(73\)\
+\-\ none\\ required\ \(5\)\
+\-\ \\â\\€\\¢\\ ct\\ reveals\\ calcified\\ lesion\\ left\\ frontal\\ lobe\\.\\ \ \(0\)\
+\-\ \\â\\€\\¢\\ cta\\ has\\ findings\\ consistent\\ with\\ developmental\\ venous\\ anomaly\\ in\\ the\\ same\\ location\ \(0\)\
+\-\ developmental\\ venous\\ anomaly\\ \\(venous\\ angioma\\)\ \(0\)\
+\-\ \\â\\€\\¢\\ vascular\\ malformation\\ \\-\\ developmental\\ venous\\ anomaly\ \(0\)\
+\-\ \\â\\€\\¢\\ hematoma\ \(2\)\
+\-\ \\â\\€\\¢\\ neoplasm\\ \\(e\\.g\\.\\ oligodendroglioma\\,\\ ganglioglioma\\,\\ astrocytoma\\)\ \(0\)\
+\-\ \\â\\€\\¢\\ abscess\ \(6\)\
+\-\ 80\\ year\\ old\\ woman\\ who\\ presents\\ with\\ transient\\ resolving\\ symptoms\\,\\ suggestive\\ of\\ a\\ tia\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ venous\\:\\ 0\\.44112081277845855\ \(0\)\
+\-\ anomaly\\:\\ 0\\.4240882865352583\ \(0\)\
+\-\ developmental\\:\\ 0\\.4007185902636545\ \(0\)\
+\-\ tia\\:\\ 0\\.18606014896968695\ \(0\)\
+\-\ resolving\\:\\ 0\\.17030278916949562\ \(0\)\
+\-\ angioma\\:\\ 0\\.16211758190906278\ \(0\)\
+\-\ oligodendroglioma\\:\\ 0\\.16211758190906278\ \(0\)\
+\-\ ganglioglioma\\:\\ 0\\.16211758190906278\ \(0\)\
+\-\ transient\\:\\ 0\\.15193480990328093\ \(0\)\
+\-\ cta\\:\\ 0\\.14549132986433538\ \(0\)\
+\-\ suggestive\\:\\ 0\\.1257829646640169\ \(0\)\
+\-\ calcified\\:\\ 0\\.12443252769191669\ \(0\)\
+\-\ same\\:\\ 0\\.12218641985170345\ \(0\)\
+\-\ 80\\:\\ 0\\.12048940211931217\ \(0\)\
+\-\ malformation\\:\\ 0\\.11913212636663412\ \(0\)\
+\-\ reveals\\:\\ 0\\.1174976038500507\ \(0\)\
+\-\ astrocytoma\\:\\ 0\\.11660606154015889\ \(0\)\
+\-\ required\\:\\ 0\\.11028020319461464\ \(0\)\
+\-\ hematoma\\:\\ 0\\.10811279462544279\ \(0\)\
+\-\ location\\:\\ 0\\.10755773255232508\ \(0\)\
+\-\ neoplasm\\:\\ 0\\.10544471600322435\ \(0\)\
+\-\ vascular\\:\\ 0\\.10197451452716787\ \(0\)\
+\-\ frontal\\:\\ 0\\.0994169241124846\ \(0\)\
+\-\ abscess\\:\\ 0\\.09918548551080039\ \(0\)\
+\-\ lobe\\:\\ 0\\.08926365562357232\ \(0\)\
+\-\ who\\:\\ 0\\.0873741641524585\ \(0\)\
+\-\ symptoms\\:\\ 0\\.08451374788098825\ \(0\)\
+\-\ none\\:\\ 0\\.0844133963706271\ \(0\)\
+\-\ consistent\\:\\ 0\\.08375372546275059\ \(0\)\
+\-\ woman\\:\\ 0\\.08044516298412303\ \(0\)\
+\-\ findings\\:\\ 0\\.07623399644527715\ \(0\)\
+\-\ presents\\:\\ 0\\.07430497860795329\ \(0\)\
+\-\ lesion\\:\\ 0\\.07405329984885714\ \(0\)\
+\-\ has\\:\\ 0\\.07055448500129434\ \(0\)\
+\-\ with\\:\\ 0\\.06049181924952416\ \(0\)\
+\-\ ct\\:\\ 0\\.05880575376123664\ \(0\)\
+\-\ left\\:\\ 0\\.05269091267940874\ \(0\)\
+\-\ year\\:\\ 0\\.04760264930635812\ \(0\)\
+\-\ old\\:\\ 0\\.04571502140009036\ \(0\)\
+\-\ in\\:\\ 0\\.03842553789677058\ \(0\)\
+\-\ the\\:\\ 0\\.030821090909486225\ \(0\)\
+\-\ of\\:\\ 0\\.030227848492490716\ \(0\)\

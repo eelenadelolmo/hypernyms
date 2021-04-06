@@ -1,87 +1,83 @@
-Texto: 
-hr-120 bpm
-
-lab:
-tsh <0.01 (0.35-4.94) mciu/ml
-ft4 >6.00 (0.70-1.48) ng/dl
-cxr:
-cardiomegaly
-symmetric narrowing of the tracheal air column
-
-tc-99m pertechnetate thyroid study:
-diffuse enlargment of the thyroid with diffuse marked increased pertechnetate uptake.
-graves disease with thyroid storm
->>graves disease with severe thyrotoxicosis (thyroid storm)
->>severe subacute thyroiditis (painless)
->>factitious thyrotoxicosis
-new onset "racing heart", shortness of breath. new onset of mental agitation and disorientation.
-this study demonstrates the utility of pertechnetate scanning in "emergency" evaluation of severe thyrotoxicosis. while no iodine uptake value can be determined, this study clearly demonstrates dramatic diffuse pertechnetate uptake and allows the clinician to treat the patient for graves' disease rather than subacute or painless thyroiditis.
-
-
-Keywords by value: 
-- pertechnetate: 0.39388170744165235
-- thyrotoxicosis: 0.2981182514394416
-- graves: 0.2637954600324839
-- thyroid: 0.2507073184964574
-- storm: 0.2243671221258666
-- uptake: 0.18397762209262453
-- thyroiditis: 0.1766983983422452
-- study: 0.15956980118928146
-- severe: 0.15146251921095974
-- diffuse: 0.15004621913047622
-- subacute: 0.1492721299372048
-- painless: 0.14772685683949743
-- racing: 0.12187456515965082
-- new: 0.1103496863440815
-- factitious: 0.11002835519668284
-- agitation: 0.10651468707201843
-- disorientation: 0.10651468707201843
-- enlargment: 0.103709077258755
-- onset: 0.10242416230707838
-- disease: 0.10043323942428681
-- utility: 0.1003373510999653
-- of: 0.09364461072839667
-- ft4: 0.09280155286949822
-- dramatic: 0.09064634700324778
-- bpm: 0.09015572952172599
-- clinician: 0.09015572952172599
-- iodine: 0.08793182001082796
-- allows: 0.08713267887858336
-- scanning: 0.08674960933931412
-- tracheal: 0.08637675621522477
-- column: 0.08464848927959122
-- cardiomegaly: 0.08340489993009369
-- value: 0.08120726257891803
-- treat: 0.08070788222430991
-- demonstrates: 0.08013472697997955
-- the: 0.07956870910942623
-- tsh: 0.07705860524259658
-- determined: 0.07596861218057611
-- clearly: 0.07512100942770852
-- lab: 0.07203413855972156
-- rather: 0.07065371060385683
-- mental: 0.06950707131710705
-- symmetric: 0.06834570361502919
-- shortness: 0.06394872093378566
-- cxr: 0.06380154943220322
-- narrowing: 0.06182525438548296
-- marked: 0.0603204524662455
-- emergency: 0.05917066816462438
-- breath: 0.058453528226693266
-- heart: 0.05545407683260074
-- this: 0.05480957663737357
-- air: 0.05216606182365357
-- while: 0.051543189844648306
-- evaluation: 0.04863824630233392
-- with: 0.0468502816804963
-- than: 0.04521007327988385
-- increased: 0.04312697831587181
-- can: 0.04185218574793077
-- and: 0.03296022821835673
-- be: 0.03235286498752944
-- or: 0.027744872618547196
-- patient: 0.025939856664733862
-- no: 0.02593497752891343
-- for: 0.024172717408110264
-- to: 0.01993825433606918
-- in: 0.01984011828952059
+\-\ Texto\\:\\ \ \(0\)\
+\-\ hr\\-120\\ bpm\ \(0\)\
+\-\ lab\\:\ \(0\)\
+\-\ tsh\\ \\<0\\.01\\ \\(0\\.35\\-4\\.94\\)\\ mciu\\/ml\ \(0\)\
+\-\ ft4\\ \\>6\\.00\\ \\(0\\.70\\-1\\.48\\)\\ ng\\/dl\ \(0\)\
+\-\ cxr\\:\ \(0\)\
+\-\ cardiomegaly\ \(43\)\
+\-\ symmetric\\ narrowing\\ of\\ the\\ tracheal\\ air\\ column\ \(0\)\
+\-\ tc\\-99m\\ pertechnetate\\ thyroid\\ study\\:\ \(0\)\
+\-\ diffuse\\ enlargment\\ of\\ the\\ thyroid\\ with\\ diffuse\\ marked\\ increased\\ pertechnetate\\ uptake\\.\ \(0\)\
+\-\ graves\\ disease\\ with\\ thyroid\\ storm\ \(0\)\
+\-\ \\>\\>graves\\ disease\\ with\\ severe\\ thyrotoxicosis\\ \\(thyroid\\ storm\\)\ \(0\)\
+\-\ \\>\\>severe\\ subacute\\ thyroiditis\\ \\(painless\\)\ \(0\)\
+\-\ \\>\\>factitious\\ thyrotoxicosis\ \(0\)\
+\-\ new\\ onset\\ \\"racing\\ heart\\"\\,\\ shortness\\ of\\ breath\\.\\ new\\ onset\\ of\\ mental\\ agitation\\ and\\ disorientation\\.\ \(0\)\
+\-\ this\\ study\\ demonstrates\\ the\\ utility\\ of\\ pertechnetate\\ scanning\\ in\\ \\"emergency\\"\\ evaluation\\ of\\ severe\\ thyrotoxicosis\\.\\ while\\ no\\ iodine\\ uptake\\ value\\ can\\ be\\ determined\\,\\ this\\ study\\ clearly\\ demonstrates\\ dramatic\\ diffuse\\ pertechnetate\\ uptake\\ and\\ allows\\ the\\ clinician\\ to\\ treat\\ the\\ patient\\ for\\ graves\\'\\ disease\\ rather\\ than\\ subacute\\ or\\ painless\\ thyroiditis\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ pertechnetate\\:\\ 0\\.39388170744165235\ \(0\)\
+\-\ thyrotoxicosis\\:\\ 0\\.2981182514394416\ \(0\)\
+\-\ graves\\:\\ 0\\.2637954600324839\ \(0\)\
+\-\ thyroid\\:\\ 0\\.2507073184964574\ \(0\)\
+\-\ storm\\:\\ 0\\.2243671221258666\ \(0\)\
+\-\ uptake\\:\\ 0\\.18397762209262453\ \(0\)\
+\-\ thyroiditis\\:\\ 0\\.1766983983422452\ \(0\)\
+\-\ study\\:\\ 0\\.15956980118928146\ \(0\)\
+\-\ severe\\:\\ 0\\.15146251921095974\ \(0\)\
+\-\ diffuse\\:\\ 0\\.15004621913047622\ \(0\)\
+\-\ subacute\\:\\ 0\\.1492721299372048\ \(0\)\
+\-\ painless\\:\\ 0\\.14772685683949743\ \(0\)\
+\-\ racing\\:\\ 0\\.12187456515965082\ \(0\)\
+\-\ new\\:\\ 0\\.1103496863440815\ \(0\)\
+\-\ factitious\\:\\ 0\\.11002835519668284\ \(0\)\
+\-\ agitation\\:\\ 0\\.10651468707201843\ \(0\)\
+\-\ disorientation\\:\\ 0\\.10651468707201843\ \(0\)\
+\-\ enlargment\\:\\ 0\\.103709077258755\ \(0\)\
+\-\ onset\\:\\ 0\\.10242416230707838\ \(0\)\
+\-\ disease\\:\\ 0\\.10043323942428681\ \(0\)\
+\-\ utility\\:\\ 0\\.1003373510999653\ \(0\)\
+\-\ of\\:\\ 0\\.09364461072839667\ \(0\)\
+\-\ ft4\\:\\ 0\\.09280155286949822\ \(0\)\
+\-\ dramatic\\:\\ 0\\.09064634700324778\ \(0\)\
+\-\ bpm\\:\\ 0\\.09015572952172599\ \(0\)\
+\-\ clinician\\:\\ 0\\.09015572952172599\ \(0\)\
+\-\ iodine\\:\\ 0\\.08793182001082796\ \(0\)\
+\-\ allows\\:\\ 0\\.08713267887858336\ \(0\)\
+\-\ scanning\\:\\ 0\\.08674960933931412\ \(0\)\
+\-\ tracheal\\:\\ 0\\.08637675621522477\ \(0\)\
+\-\ column\\:\\ 0\\.08464848927959122\ \(0\)\
+\-\ cardiomegaly\\:\\ 0\\.08340489993009369\ \(0\)\
+\-\ value\\:\\ 0\\.08120726257891803\ \(0\)\
+\-\ treat\\:\\ 0\\.08070788222430991\ \(0\)\
+\-\ demonstrates\\:\\ 0\\.08013472697997955\ \(0\)\
+\-\ the\\:\\ 0\\.07956870910942623\ \(0\)\
+\-\ tsh\\:\\ 0\\.07705860524259658\ \(0\)\
+\-\ determined\\:\\ 0\\.07596861218057611\ \(0\)\
+\-\ clearly\\:\\ 0\\.07512100942770852\ \(0\)\
+\-\ lab\\:\\ 0\\.07203413855972156\ \(0\)\
+\-\ rather\\:\\ 0\\.07065371060385683\ \(0\)\
+\-\ mental\\:\\ 0\\.06950707131710705\ \(0\)\
+\-\ symmetric\\:\\ 0\\.06834570361502919\ \(0\)\
+\-\ shortness\\:\\ 0\\.06394872093378566\ \(0\)\
+\-\ cxr\\:\\ 0\\.06380154943220322\ \(0\)\
+\-\ narrowing\\:\\ 0\\.06182525438548296\ \(0\)\
+\-\ marked\\:\\ 0\\.0603204524662455\ \(0\)\
+\-\ emergency\\:\\ 0\\.05917066816462438\ \(0\)\
+\-\ breath\\:\\ 0\\.058453528226693266\ \(0\)\
+\-\ heart\\:\\ 0\\.05545407683260074\ \(0\)\
+\-\ this\\:\\ 0\\.05480957663737357\ \(0\)\
+\-\ air\\:\\ 0\\.05216606182365357\ \(0\)\
+\-\ while\\:\\ 0\\.051543189844648306\ \(0\)\
+\-\ evaluation\\:\\ 0\\.04863824630233392\ \(0\)\
+\-\ with\\:\\ 0\\.0468502816804963\ \(0\)\
+\-\ than\\:\\ 0\\.04521007327988385\ \(0\)\
+\-\ increased\\:\\ 0\\.04312697831587181\ \(0\)\
+\-\ can\\:\\ 0\\.04185218574793077\ \(0\)\
+\-\ and\\:\\ 0\\.03296022821835673\ \(0\)\
+\-\ be\\:\\ 0\\.03235286498752944\ \(0\)\
+\-\ or\\:\\ 0\\.027744872618547196\ \(0\)\
+\-\ patient\\:\\ 0\\.025939856664733862\ \(0\)\
+\-\ no\\:\\ 0\\.02593497752891343\ \(0\)\
+\-\ for\\:\\ 0\\.024172717408110264\ \(0\)\
+\-\ to\\:\\ 0\\.01993825433606918\ \(0\)\
+\-\ in\\:\\ 0\\.01984011828952059\ \(0\)\

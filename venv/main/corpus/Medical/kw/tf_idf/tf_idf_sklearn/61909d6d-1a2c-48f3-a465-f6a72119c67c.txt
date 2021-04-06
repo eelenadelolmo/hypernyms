@@ -1,101 +1,97 @@
-Texto: 
-serum creatinine - 10
-on the pa view there is proximal and distal clavicular resorption.  the lateral view demonstrates vertebral body endplate band-like sclerosis and resorption.
-renal osteodystrophy
-differential diagnosis and discussion
-
-rugger jersey spine
-	pimary hyperparathyroidsm
-	renal osteodystrophy (secondary hyperparathyroidism)
-        osteopetrosis
-
-destruction of distal clavicle
-	hyperparathyroidism
-	rheumatoid arthritis
-	gout
-	scleroderma
-	osteomyelitis
-	post-traumatic osteolysis
-45 year old male with chronic renal failure presents for routine chest radiographs.
-given that the patient has chronic renal failure and both a rugger jersey spine and clavical resorption at both ends, renal osteodystrophy is the top differential diagnosis.  although gout and traumatic osteolysis, as well as rheumatoid arthritis may also be present, the constellation of findings point towards the chronic renal failuire and subsequent hyperparathyroidism as the culprit
-
-
-Keywords by value: 
-- renal: 0.3123656777601734
-- osteodystrophy: 0.29004156859352453
-- resorption: 0.28202542402864345
-- rugger: 0.255508895278275
-- jersey: 0.24707653682306405
-- hyperparathyroidism: 0.2389012360617105
-- osteolysis: 0.20466534513570822
-- gout: 0.16869355041621334
-- chronic: 0.14887018243573244
-- rheumatoid: 0.14738274897360681
-- arthritis: 0.13599064706584774
-- pimary: 0.13369681850623757
-- hyperparathyroidsm: 0.13369681850623757
-- failuire: 0.13369681850623757
-- failure: 0.1269437717699796
-- traumatic: 0.12670152758382996
-- clavical: 0.12353826841153202
-- view: 0.1224427826705752
-- and: 0.12092642222788869
-- culprit: 0.11759589754443195
-- the: 0.11677054236579244
-- spine: 0.11045391514414334
-- osteopetrosis: 0.10871255920380787
-- differential: 0.10864026169238278
-- ends: 0.10233267256785411
-- as: 0.10075693307447607
-- clavicular: 0.10070258415694851
-- endplate: 0.09995084554331457
-- distal: 0.09714896720370454
-- constellation: 0.0950196128021917
-- scleroderma: 0.0935279172028727
-- both: 0.09324047975556438
-- towards: 0.09174929012338531
-- clavicle: 0.09016334538996315
-- diagnosis: 0.08667673334879432
-- creatinine: 0.0851251363355904
-- top: 0.08159074002867978
-- destruction: 0.07621759371226537
-- serum: 0.07496658624088487
-- discussion: 0.07321081701346162
-- osteomyelitis: 0.07207414758602054
-- point: 0.06911330798762916
-- 45: 0.0670339501061859
-- routine: 0.06474157031867978
-- pa: 0.06415656490091078
-- vertebral: 0.06384137662746545
-- subsequent: 0.06329057606935891
-- sclerosis: 0.059547448199774054
-- given: 0.05750925835973154
-- although: 0.056914223053637886
-- body: 0.055020535992827906
-- radiographs: 0.05422275048894969
-- proximal: 0.05222940435317797
-- secondary: 0.04955265053317126
-- 10: 0.04888584532440267
-- is: 0.045789615848487605
-- chest: 0.04412904868519944
-- present: 0.04289858716388467
-- may: 0.04207085425847243
-- demonstrates: 0.04200042793436665
-- lateral: 0.04148953256319215
-- findings: 0.04126063794510759
-- well: 0.04048020389333727
-- presents: 0.04021658266417256
-- also: 0.03932369666891399
-- has: 0.038186677818099354
-- male: 0.03722255366654764
-- that: 0.03627986694361673
-- be: 0.03391374066123688
-- there: 0.03326473258669431
-- of: 0.032720842948421695
-- at: 0.031577302381707174
-- patient: 0.027191334432252988
-- year: 0.02576430162188159
-- for: 0.02533893890300004
-- on: 0.025249053985589975
-- old: 0.024742648091340223
-- with: 0.016370196822143215
+\-\ Texto\\:\\ \ \(0\)\
+\-\ serum\\ creatinine\\ \\-\\ 10\ \(1\)\
+\-\ on\\ the\\ pa\\ view\\ there\\ is\\ proximal\\ and\\ distal\\ clavicular\\ resorption\\.\\ \\ the\\ lateral\\ view\\ demonstrates\\ vertebral\\ body\\ endplate\\ band\\-like\\ sclerosis\\ and\\ resorption\\.\ \(0\)\
+\-\ renal\\ osteodystrophy\ \(9\)\
+\-\ differential\\ diagnosis\\ and\\ discussion\ \(0\)\
+\-\ rugger\\ jersey\\ spine\ \(1\)\
+\-\ \\	pimary\\ hyperparathyroidsm\ \(0\)\
+\-\ \\	renal\\ osteodystrophy\\ \\(secondary\\ hyperparathyroidism\\)\ \(0\)\
+\-\ \\ \\ \\ \\ \\ \\ \\ \\ osteopetrosis\ \(0\)\
+\-\ destruction\\ of\\ distal\\ clavicle\ \(0\)\
+\-\ \\	hyperparathyroidism\ \(0\)\
+\-\ \\	rheumatoid\\ arthritis\ \(0\)\
+\-\ \\	gout\ \(0\)\
+\-\ \\	scleroderma\ \(0\)\
+\-\ \\	osteomyelitis\ \(0\)\
+\-\ \\	post\\-traumatic\\ osteolysis\ \(0\)\
+\-\ 45\\ year\\ old\\ male\\ with\\ chronic\\ renal\\ failure\\ presents\\ for\\ routine\\ chest\\ radiographs\\.\ \(1\)\
+\-\ given\\ that\\ the\\ patient\\ has\\ chronic\\ renal\\ failure\\ and\\ both\\ a\\ rugger\\ jersey\\ spine\\ and\\ clavical\\ resorption\\ at\\ both\\ ends\\,\\ renal\\ osteodystrophy\\ is\\ the\\ top\\ differential\\ diagnosis\\.\\ \\ although\\ gout\\ and\\ traumatic\\ osteolysis\\,\\ as\\ well\\ as\\ rheumatoid\\ arthritis\\ may\\ also\\ be\\ present\\,\\ the\\ constellation\\ of\\ findings\\ point\\ towards\\ the\\ chronic\\ renal\\ failuire\\ and\\ subsequent\\ hyperparathyroidism\\ as\\ the\\ culprit\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ renal\\:\\ 0\\.3123656777601734\ \(0\)\
+\-\ osteodystrophy\\:\\ 0\\.29004156859352453\ \(0\)\
+\-\ resorption\\:\\ 0\\.28202542402864345\ \(0\)\
+\-\ rugger\\:\\ 0\\.255508895278275\ \(0\)\
+\-\ jersey\\:\\ 0\\.24707653682306405\ \(0\)\
+\-\ hyperparathyroidism\\:\\ 0\\.2389012360617105\ \(0\)\
+\-\ osteolysis\\:\\ 0\\.20466534513570822\ \(0\)\
+\-\ gout\\:\\ 0\\.16869355041621334\ \(0\)\
+\-\ chronic\\:\\ 0\\.14887018243573244\ \(0\)\
+\-\ rheumatoid\\:\\ 0\\.14738274897360681\ \(0\)\
+\-\ arthritis\\:\\ 0\\.13599064706584774\ \(0\)\
+\-\ pimary\\:\\ 0\\.13369681850623757\ \(0\)\
+\-\ hyperparathyroidsm\\:\\ 0\\.13369681850623757\ \(0\)\
+\-\ failuire\\:\\ 0\\.13369681850623757\ \(0\)\
+\-\ failure\\:\\ 0\\.1269437717699796\ \(0\)\
+\-\ traumatic\\:\\ 0\\.12670152758382996\ \(0\)\
+\-\ clavical\\:\\ 0\\.12353826841153202\ \(0\)\
+\-\ view\\:\\ 0\\.1224427826705752\ \(0\)\
+\-\ and\\:\\ 0\\.12092642222788869\ \(0\)\
+\-\ culprit\\:\\ 0\\.11759589754443195\ \(0\)\
+\-\ the\\:\\ 0\\.11677054236579244\ \(0\)\
+\-\ spine\\:\\ 0\\.11045391514414334\ \(0\)\
+\-\ osteopetrosis\\:\\ 0\\.10871255920380787\ \(0\)\
+\-\ differential\\:\\ 0\\.10864026169238278\ \(0\)\
+\-\ ends\\:\\ 0\\.10233267256785411\ \(0\)\
+\-\ as\\:\\ 0\\.10075693307447607\ \(0\)\
+\-\ clavicular\\:\\ 0\\.10070258415694851\ \(0\)\
+\-\ endplate\\:\\ 0\\.09995084554331457\ \(0\)\
+\-\ distal\\:\\ 0\\.09714896720370454\ \(0\)\
+\-\ constellation\\:\\ 0\\.0950196128021917\ \(0\)\
+\-\ scleroderma\\:\\ 0\\.0935279172028727\ \(0\)\
+\-\ both\\:\\ 0\\.09324047975556438\ \(0\)\
+\-\ towards\\:\\ 0\\.09174929012338531\ \(0\)\
+\-\ clavicle\\:\\ 0\\.09016334538996315\ \(0\)\
+\-\ diagnosis\\:\\ 0\\.08667673334879432\ \(0\)\
+\-\ creatinine\\:\\ 0\\.0851251363355904\ \(0\)\
+\-\ top\\:\\ 0\\.08159074002867978\ \(0\)\
+\-\ destruction\\:\\ 0\\.07621759371226537\ \(0\)\
+\-\ serum\\:\\ 0\\.07496658624088487\ \(0\)\
+\-\ discussion\\:\\ 0\\.07321081701346162\ \(0\)\
+\-\ osteomyelitis\\:\\ 0\\.07207414758602054\ \(0\)\
+\-\ point\\:\\ 0\\.06911330798762916\ \(0\)\
+\-\ 45\\:\\ 0\\.0670339501061859\ \(0\)\
+\-\ routine\\:\\ 0\\.06474157031867978\ \(0\)\
+\-\ pa\\:\\ 0\\.06415656490091078\ \(0\)\
+\-\ vertebral\\:\\ 0\\.06384137662746545\ \(0\)\
+\-\ subsequent\\:\\ 0\\.06329057606935891\ \(0\)\
+\-\ sclerosis\\:\\ 0\\.059547448199774054\ \(0\)\
+\-\ given\\:\\ 0\\.05750925835973154\ \(0\)\
+\-\ although\\:\\ 0\\.056914223053637886\ \(0\)\
+\-\ body\\:\\ 0\\.055020535992827906\ \(0\)\
+\-\ radiographs\\:\\ 0\\.05422275048894969\ \(0\)\
+\-\ proximal\\:\\ 0\\.05222940435317797\ \(0\)\
+\-\ secondary\\:\\ 0\\.04955265053317126\ \(0\)\
+\-\ 10\\:\\ 0\\.04888584532440267\ \(0\)\
+\-\ is\\:\\ 0\\.045789615848487605\ \(0\)\
+\-\ chest\\:\\ 0\\.04412904868519944\ \(0\)\
+\-\ present\\:\\ 0\\.04289858716388467\ \(0\)\
+\-\ may\\:\\ 0\\.04207085425847243\ \(0\)\
+\-\ demonstrates\\:\\ 0\\.04200042793436665\ \(0\)\
+\-\ lateral\\:\\ 0\\.04148953256319215\ \(0\)\
+\-\ findings\\:\\ 0\\.04126063794510759\ \(0\)\
+\-\ well\\:\\ 0\\.04048020389333727\ \(0\)\
+\-\ presents\\:\\ 0\\.04021658266417256\ \(0\)\
+\-\ also\\:\\ 0\\.03932369666891399\ \(0\)\
+\-\ has\\:\\ 0\\.038186677818099354\ \(0\)\
+\-\ male\\:\\ 0\\.03722255366654764\ \(0\)\
+\-\ that\\:\\ 0\\.03627986694361673\ \(0\)\
+\-\ be\\:\\ 0\\.03391374066123688\ \(0\)\
+\-\ there\\:\\ 0\\.03326473258669431\ \(0\)\
+\-\ of\\:\\ 0\\.032720842948421695\ \(0\)\
+\-\ at\\:\\ 0\\.031577302381707174\ \(0\)\
+\-\ patient\\:\\ 0\\.027191334432252988\ \(0\)\
+\-\ year\\:\\ 0\\.02576430162188159\ \(0\)\
+\-\ for\\:\\ 0\\.02533893890300004\ \(0\)\
+\-\ on\\:\\ 0\\.025249053985589975\ \(0\)\
+\-\ old\\:\\ 0\\.024742648091340223\ \(0\)\
+\-\ with\\:\\ 0\\.016370196822143215\ \(0\)\

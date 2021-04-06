@@ -1,51 +1,47 @@
-Texto: 
-patient 1: unenhanced axial ct image at the level of the left ventricle demonstrates visualization of the interventricular septum.  the ct attenuation of blood in the lumen of the left ventricle measures 31 hu, suggesting anemia.  
-
-patient 2: unenhanced axial ct image at the level of the left ventricle demonstrates visualization of the interventricular septum.  the ct attenuation of blood in the lumen of the left ventricle measures 34 hu, suggesting anemia.
-assessing anemia on thoracic ct
-anemia
-patient 1:  42 yo female undergoing routine chest ct for pulmonary nodule follow-up.
-
-patient 2:  65 yo male undergoing routine chest ct for pulmonary nodule follow-up.
-
-
-Keywords by value: 
-- anemia: 0.3581218726331166
-- ventricle: 0.28691644137112665
-- interventricular: 0.2741424286196541
-- ct: 0.25969237665639944
-- the: 0.23333000611544552
-- hu: 0.21694984842063564
-- unenhanced: 0.21292570830864577
-- visualization: 0.1865091328987326
-- septum: 0.18317324603135957
-- undergoing: 0.17701037887392437
-- suggesting: 0.1757086708764228
-- lumen: 0.1735436035228236
-- measures: 0.1589006097897414
-- nodule: 0.15382973610500617
-- of: 0.15255925656714944
-- routine: 0.15092713003110506
-- attenuation: 0.14912059283683088
-- left: 0.13296491260719612
-- patient: 0.1267782059463521
-- image: 0.12464161763227581
-- yo: 0.12175846312434647
-- pulmonary: 0.11879663174326761
-- level: 0.11772700936529275
-- assessing: 0.11567045110040755
-- blood: 0.11318676121975459
-- axial: 0.11257754979571395
-- chest: 0.1028747161410508
-- demonstrates: 0.09791242345543216
-- 42: 0.0866226056072641
-- 31: 0.08647470121091988
-- 34: 0.08492704794074842
-- 65: 0.08338469118600218
-- at: 0.07361377858362439
-- thoracic: 0.07281919291117829
-- for: 0.059070753270868456
-- in: 0.04848320164252215
-- female: 0.04702257463164369
-- male: 0.04338706313167616
-- on: 0.02943060567798751
+\-\ Texto\\:\\ \ \(0\)\
+\-\ patient\\ 1\\:\\ unenhanced\\ axial\\ ct\\ image\\ at\\ the\\ level\\ of\\ the\\ left\\ ventricle\\ demonstrates\\ visualization\\ of\\ the\\ interventricular\\ septum\\.\\ \\ the\\ ct\\ attenuation\\ of\\ blood\\ in\\ the\\ lumen\\ of\\ the\\ left\\ ventricle\\ measures\\ 31\\ hu\\,\\ suggesting\\ anemia\\.\\ \\ \ \(0\)\
+\-\ patient\\ 2\\:\\ unenhanced\\ axial\\ ct\\ image\\ at\\ the\\ level\\ of\\ the\\ left\\ ventricle\\ demonstrates\\ visualization\\ of\\ the\\ interventricular\\ septum\\.\\ \\ the\\ ct\\ attenuation\\ of\\ blood\\ in\\ the\\ lumen\\ of\\ the\\ left\\ ventricle\\ measures\\ 34\\ hu\\,\\ suggesting\\ anemia\\.\ \(0\)\
+\-\ assessing\\ anemia\\ on\\ thoracic\\ ct\ \(0\)\
+\-\ anemia\ \(107\)\
+\-\ patient\\ 1\\:\\ \\ 42\\ yo\\ female\\ undergoing\\ routine\\ chest\\ ct\\ for\\ pulmonary\\ nodule\\ follow\\-up\\.\ \(0\)\
+\-\ patient\\ 2\\:\\ \\ 65\\ yo\\ male\\ undergoing\\ routine\\ chest\\ ct\\ for\\ pulmonary\\ nodule\\ follow\\-up\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ anemia\\:\\ 0\\.3581218726331166\ \(0\)\
+\-\ ventricle\\:\\ 0\\.28691644137112665\ \(0\)\
+\-\ interventricular\\:\\ 0\\.2741424286196541\ \(0\)\
+\-\ ct\\:\\ 0\\.25969237665639944\ \(0\)\
+\-\ the\\:\\ 0\\.23333000611544552\ \(0\)\
+\-\ hu\\:\\ 0\\.21694984842063564\ \(0\)\
+\-\ unenhanced\\:\\ 0\\.21292570830864577\ \(0\)\
+\-\ visualization\\:\\ 0\\.1865091328987326\ \(0\)\
+\-\ septum\\:\\ 0\\.18317324603135957\ \(0\)\
+\-\ undergoing\\:\\ 0\\.17701037887392437\ \(0\)\
+\-\ suggesting\\:\\ 0\\.1757086708764228\ \(0\)\
+\-\ lumen\\:\\ 0\\.1735436035228236\ \(0\)\
+\-\ measures\\:\\ 0\\.1589006097897414\ \(0\)\
+\-\ nodule\\:\\ 0\\.15382973610500617\ \(0\)\
+\-\ of\\:\\ 0\\.15255925656714944\ \(0\)\
+\-\ routine\\:\\ 0\\.15092713003110506\ \(0\)\
+\-\ attenuation\\:\\ 0\\.14912059283683088\ \(0\)\
+\-\ left\\:\\ 0\\.13296491260719612\ \(0\)\
+\-\ patient\\:\\ 0\\.1267782059463521\ \(0\)\
+\-\ image\\:\\ 0\\.12464161763227581\ \(0\)\
+\-\ yo\\:\\ 0\\.12175846312434647\ \(0\)\
+\-\ pulmonary\\:\\ 0\\.11879663174326761\ \(0\)\
+\-\ level\\:\\ 0\\.11772700936529275\ \(0\)\
+\-\ assessing\\:\\ 0\\.11567045110040755\ \(0\)\
+\-\ blood\\:\\ 0\\.11318676121975459\ \(0\)\
+\-\ axial\\:\\ 0\\.11257754979571395\ \(0\)\
+\-\ chest\\:\\ 0\\.1028747161410508\ \(0\)\
+\-\ demonstrates\\:\\ 0\\.09791242345543216\ \(0\)\
+\-\ 42\\:\\ 0\\.0866226056072641\ \(0\)\
+\-\ 31\\:\\ 0\\.08647470121091988\ \(0\)\
+\-\ 34\\:\\ 0\\.08492704794074842\ \(0\)\
+\-\ 65\\:\\ 0\\.08338469118600218\ \(0\)\
+\-\ at\\:\\ 0\\.07361377858362439\ \(0\)\
+\-\ thoracic\\:\\ 0\\.07281919291117829\ \(0\)\
+\-\ for\\:\\ 0\\.059070753270868456\ \(0\)\
+\-\ in\\:\\ 0\\.04848320164252215\ \(0\)\
+\-\ female\\:\\ 0\\.04702257463164369\ \(0\)\
+\-\ male\\:\\ 0\\.04338706313167616\ \(0\)\
+\-\ on\\:\\ 0\\.02943060567798751\ \(0\)\

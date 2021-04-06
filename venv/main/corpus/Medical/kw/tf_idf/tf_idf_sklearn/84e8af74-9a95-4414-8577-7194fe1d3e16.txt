@@ -1,90 +1,86 @@
-Texto: 
-bilateral granulomatous uveitis.
-
-ace . . . .188       h           (12-68)        u/l
-steroids
-on frontal plain film: left ap window fullness, bilateral hilar nodularity and fullness, and some suggestion of right paratracheal region fullness.  right lower lung linear atelectasis.  
-
-on thoracic ct: diffuse bilateral lung nodularity, right lower lobe parenchymal opacity, bilateral hilar fullness, and mediastinal lymphadenopathy.
-pulmonary sarcoidosis (stage 2)
-tuberculosis
-fungal infection
-rheumatoid lung disease
-wegener's disease
-silicosis
-histiocytosis
-lymphoma
-lymphangitic spread of tumor.
-referred to radiology at 35 years of age with newly diagnosed bilateral granulomatous uveitis, rule out pulmonary sarcoidosis.
-being treated for presenting complaint of uveitis as well.
-
-
-Keywords by value: 
-- uveitis: 0.4136164227798557
-- fullness: 0.4070303197946215
-- bilateral: 0.26854676223828305
-- nodularity: 0.22141371134923846
-- hilar: 0.18327573446426712
-- lung: 0.182376869656262
-- granulomatous: 0.17767081689590802
-- sarcoidosis: 0.16930802634537606
-- pulmonary: 0.12183133062288493
-- ace: 0.12037867661073641
-- silicosis: 0.11862529067126204
-- lymphangitic: 0.1162859224111917
-- newly: 0.11557075216982397
-- wegener: 0.11180216469413694
-- paratracheal: 0.11070685567461923
-- suggestion: 0.10778019539125792
-- window: 0.10274022466933679
-- lower: 0.10213492124833684
-- histiocytosis: 0.10023320691851015
-- right: 0.09939886472246094
-- parenchymal: 0.08977416361392765
-- spread: 0.08977416361392765
-- fungal: 0.08945562323685473
-- atelectasis: 0.08898841586674106
-- rheumatoid: 0.08808979642987132
-- tuberculosis: 0.08794440772748678
-- steroids: 0.08780021565350278
-- opacity: 0.08695913071199289
-- complaint: 0.08655326148456122
-- disease: 0.08389925618034114
-- lymphadenopathy: 0.08079277195212944
-- mediastinal: 0.08069677588678509
-- linear: 0.08050634751089088
-- 35: 0.080131590160549
-- radiology: 0.08003914014077719
-- stage: 0.07958406940993754
-- rule: 0.07931659493062387
-- presenting: 0.07828575420130282
-- of: 0.07822821637982694
-- film: 0.07467938305208868
-- thoracic: 0.07467938305208868
-- referred: 0.07394792342034104
-- diagnosed: 0.07239101697677702
-- ap: 0.07174750016082124
-- being: 0.06963941233016753
-- plain: 0.0659350130314631
-- out: 0.06568941221353729
-- frontal: 0.0643215531302229
-- some: 0.06287882573814658
-- age: 0.06274087826878812
-- diffuse: 0.06267230973471521
-- treated: 0.06223303870862126
-- and: 0.06195171992398999
-- years: 0.06125949725553435
-- infection: 0.060367192195410375
-- on: 0.060364840284957824
-- region: 0.05977726312265384
-- lymphoma: 0.05951814066205929
-- lobe: 0.05775251064188285
-- tumor: 0.052272382987665886
-- well: 0.04838955637938795
-- as: 0.040147881554388296
-- ct: 0.03804661478599488
-- at: 0.037747133337935085
-- left: 0.03409038621587086
-- for: 0.030289867508360067
-- to: 0.024983830820149974
-- with: 0.019568739430118283
+\-\ Texto\\:\\ \ \(0\)\
+\-\ bilateral\\ granulomatous\\ uveitis\\.\ \(0\)\
+\-\ ace\\ \\.\\ \\.\\ \\.\\ \\.188\\ \\ \\ \\ \\ \\ \\ h\\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\(12\\-68\\)\\ \\ \\ \\ \\ \\ \\ \\ u\\/l\ \(0\)\
+\-\ steroids\ \(152\)\
+\-\ on\\ frontal\\ plain\\ film\\:\\ left\\ ap\\ window\\ fullness\\,\\ bilateral\\ hilar\\ nodularity\\ and\\ fullness\\,\\ and\\ some\\ suggestion\\ of\\ right\\ paratracheal\\ region\\ fullness\\.\\ \\ right\\ lower\\ lung\\ linear\\ atelectasis\\.\\ \\ \ \(0\)\
+\-\ on\\ thoracic\\ ct\\:\\ diffuse\\ bilateral\\ lung\\ nodularity\\,\\ right\\ lower\\ lobe\\ parenchymal\\ opacity\\,\\ bilateral\\ hilar\\ fullness\\,\\ and\\ mediastinal\\ lymphadenopathy\\.\ \(0\)\
+\-\ pulmonary\\ sarcoidosis\\ \\(stage\\ 2\\)\ \(0\)\
+\-\ tuberculosis\ \(73\)\
+\-\ fungal\\ infection\ \(12\)\
+\-\ rheumatoid\\ lung\\ disease\ \(0\)\
+\-\ wegener\\'s\\ disease\ \(0\)\
+\-\ silicosis\ \(7\)\
+\-\ histiocytosis\ \(48\)\
+\-\ lymphoma\ \(373\)\
+\-\ lymphangitic\\ spread\\ of\\ tumor\\.\ \(0\)\
+\-\ referred\\ to\\ radiology\\ at\\ 35\\ years\\ of\\ age\\ with\\ newly\\ diagnosed\\ bilateral\\ granulomatous\\ uveitis\\,\\ rule\\ out\\ pulmonary\\ sarcoidosis\\.\ \(0\)\
+\-\ being\\ treated\\ for\\ presenting\\ complaint\\ of\\ uveitis\\ as\\ well\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ uveitis\\:\\ 0\\.4136164227798557\ \(0\)\
+\-\ fullness\\:\\ 0\\.4070303197946215\ \(0\)\
+\-\ bilateral\\:\\ 0\\.26854676223828305\ \(0\)\
+\-\ nodularity\\:\\ 0\\.22141371134923846\ \(0\)\
+\-\ hilar\\:\\ 0\\.18327573446426712\ \(0\)\
+\-\ lung\\:\\ 0\\.182376869656262\ \(0\)\
+\-\ granulomatous\\:\\ 0\\.17767081689590802\ \(0\)\
+\-\ sarcoidosis\\:\\ 0\\.16930802634537606\ \(0\)\
+\-\ pulmonary\\:\\ 0\\.12183133062288493\ \(0\)\
+\-\ ace\\:\\ 0\\.12037867661073641\ \(0\)\
+\-\ silicosis\\:\\ 0\\.11862529067126204\ \(0\)\
+\-\ lymphangitic\\:\\ 0\\.1162859224111917\ \(0\)\
+\-\ newly\\:\\ 0\\.11557075216982397\ \(0\)\
+\-\ wegener\\:\\ 0\\.11180216469413694\ \(0\)\
+\-\ paratracheal\\:\\ 0\\.11070685567461923\ \(0\)\
+\-\ suggestion\\:\\ 0\\.10778019539125792\ \(0\)\
+\-\ window\\:\\ 0\\.10274022466933679\ \(0\)\
+\-\ lower\\:\\ 0\\.10213492124833684\ \(0\)\
+\-\ histiocytosis\\:\\ 0\\.10023320691851015\ \(0\)\
+\-\ right\\:\\ 0\\.09939886472246094\ \(0\)\
+\-\ parenchymal\\:\\ 0\\.08977416361392765\ \(0\)\
+\-\ spread\\:\\ 0\\.08977416361392765\ \(0\)\
+\-\ fungal\\:\\ 0\\.08945562323685473\ \(0\)\
+\-\ atelectasis\\:\\ 0\\.08898841586674106\ \(0\)\
+\-\ rheumatoid\\:\\ 0\\.08808979642987132\ \(0\)\
+\-\ tuberculosis\\:\\ 0\\.08794440772748678\ \(0\)\
+\-\ steroids\\:\\ 0\\.08780021565350278\ \(0\)\
+\-\ opacity\\:\\ 0\\.08695913071199289\ \(0\)\
+\-\ complaint\\:\\ 0\\.08655326148456122\ \(0\)\
+\-\ disease\\:\\ 0\\.08389925618034114\ \(0\)\
+\-\ lymphadenopathy\\:\\ 0\\.08079277195212944\ \(0\)\
+\-\ mediastinal\\:\\ 0\\.08069677588678509\ \(0\)\
+\-\ linear\\:\\ 0\\.08050634751089088\ \(0\)\
+\-\ 35\\:\\ 0\\.080131590160549\ \(0\)\
+\-\ radiology\\:\\ 0\\.08003914014077719\ \(0\)\
+\-\ stage\\:\\ 0\\.07958406940993754\ \(0\)\
+\-\ rule\\:\\ 0\\.07931659493062387\ \(0\)\
+\-\ presenting\\:\\ 0\\.07828575420130282\ \(0\)\
+\-\ of\\:\\ 0\\.07822821637982694\ \(0\)\
+\-\ film\\:\\ 0\\.07467938305208868\ \(0\)\
+\-\ thoracic\\:\\ 0\\.07467938305208868\ \(0\)\
+\-\ referred\\:\\ 0\\.07394792342034104\ \(0\)\
+\-\ diagnosed\\:\\ 0\\.07239101697677702\ \(0\)\
+\-\ ap\\:\\ 0\\.07174750016082124\ \(0\)\
+\-\ being\\:\\ 0\\.06963941233016753\ \(0\)\
+\-\ plain\\:\\ 0\\.0659350130314631\ \(0\)\
+\-\ out\\:\\ 0\\.06568941221353729\ \(0\)\
+\-\ frontal\\:\\ 0\\.0643215531302229\ \(0\)\
+\-\ some\\:\\ 0\\.06287882573814658\ \(0\)\
+\-\ age\\:\\ 0\\.06274087826878812\ \(0\)\
+\-\ diffuse\\:\\ 0\\.06267230973471521\ \(0\)\
+\-\ treated\\:\\ 0\\.06223303870862126\ \(0\)\
+\-\ and\\:\\ 0\\.06195171992398999\ \(0\)\
+\-\ years\\:\\ 0\\.06125949725553435\ \(0\)\
+\-\ infection\\:\\ 0\\.060367192195410375\ \(0\)\
+\-\ on\\:\\ 0\\.060364840284957824\ \(0\)\
+\-\ region\\:\\ 0\\.05977726312265384\ \(0\)\
+\-\ lymphoma\\:\\ 0\\.05951814066205929\ \(0\)\
+\-\ lobe\\:\\ 0\\.05775251064188285\ \(0\)\
+\-\ tumor\\:\\ 0\\.052272382987665886\ \(0\)\
+\-\ well\\:\\ 0\\.04838955637938795\ \(0\)\
+\-\ as\\:\\ 0\\.040147881554388296\ \(0\)\
+\-\ ct\\:\\ 0\\.03804661478599488\ \(0\)\
+\-\ at\\:\\ 0\\.037747133337935085\ \(0\)\
+\-\ left\\:\\ 0\\.03409038621587086\ \(0\)\
+\-\ for\\:\\ 0\\.030289867508360067\ \(0\)\
+\-\ to\\:\\ 0\\.024983830820149974\ \(0\)\
+\-\ with\\:\\ 0\\.019568739430118283\ \(0\)\

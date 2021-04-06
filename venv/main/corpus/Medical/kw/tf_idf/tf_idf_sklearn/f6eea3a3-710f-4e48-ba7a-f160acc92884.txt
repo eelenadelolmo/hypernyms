@@ -1,92 +1,90 @@
-Texto: 
-clinical breast exam:  no evidence of palpable masses
-pt. recieved a mastectomy and lymph node dissection.  pt. was started on chemotherapy/xrt
-a spiculated mass is noted in the 12:00 position of the left breast.  this is found to be irregular, hypoechoic, and densely shadowing on ultrasound.
-bone scan performed for staging demonstrates diffuse metastatic disease.  the mr of the cervical and thoracic spine demonstrates diffuse metastases.
-osteoblastic metastases to bone,breast cancer, stage iv ductal carcinoma,
-57 y.o. female presents for screening mammogram.  pt. had several monthes of back and upper extremity pain following a "motor vehicle" accident 6 monthes prior.
-pts. persistent back and upper extremity pain were likely due to metastatic breast carcinoma and not due to the mva.  the metastases to bone were osteolytic in this patient.
-
-
-Keywords by value: 
-- monthes: 0.33810779717561784
-- breast: 0.30705522378911754
-- metastases: 0.25638282700171744
-- pt: 0.22822865430655687
-- bone: 0.1730366217876477
-- extremity: 0.15227536495299182
-- recieved: 0.14869497389641528
-- back: 0.14100240235843328
-- diffuse: 0.13258697575928416
-- to: 0.1321369271910852
-- densely: 0.13171473965175404
-- and: 0.13106252542114558
-- pts: 0.12733410293383168
-- the: 0.12655829797408893
-- carcinoma: 0.12646233352732952
-- osteolytic: 0.12379356436779763
-- due: 0.12152860550940207
-- osteoblastic: 0.11826204397829977
-- metastatic: 0.1159537023045414
-- spiculated: 0.11448905159531082
-- upper: 0.11297997169143419
-- mastectomy: 0.11219830057577505
-- were: 0.10898128484754088
-- staging: 0.10797712451362798
-- demonstrates: 0.10621548312056106
-- shadowing: 0.10188945406857193
-- mammogram: 0.1009265625892155
-- 57: 0.09978930445861527
-- mva: 0.09712273063867304
-- dissection: 0.09601050737961457
-- ductal: 0.09302579643933301
-- vehicle: 0.09183937588438142
-- node: 0.09086012587061028
-- hypoechoic: 0.09032294356682684
-- accident: 0.09032294356682684
-- started: 0.08904440273005108
-- screening: 0.08587277021246974
-- position: 0.08427767930015218
-- stage: 0.08418240149713005
-- motor: 0.08408761105072979
-- of: 0.08274820788277815
-- lymph: 0.08220142587902063
-- irregular: 0.08161307513444636
-- persistent: 0.08144834967768594
-- thoracic: 0.07899432454586056
-- cervical: 0.07571165240651054
-- pain: 0.07565412300806879
-- iv: 0.07553202426147931
-- palpable: 0.07426540461640836
-- this: 0.0726479752483152
-- masses: 0.07196559648773351
-- cancer: 0.07041058245651222
-- spine: 0.06983212157936762
-- several: 0.06935637454049977
-- found: 0.06839942948585344
-- mr: 0.06839942948585344
-- clinical: 0.06699426460220055
-- ultrasound: 0.06520411978435788
-- for: 0.06408000512638382
-- on: 0.06385269387272513
-- following: 0.0634161748746528
-- likely: 0.06316990557773941
-- scan: 0.06271679029361668
-- performed: 0.06253860149893965
-- evidence: 0.060001365679729565
-- prior: 0.05914513903718347
-- is: 0.05789900732502324
-- noted: 0.05604748462928765
-- exam: 0.05321465430989508
-- had: 0.05266879418255524
-- in: 0.052594619803646256
-- female: 0.051010130336995335
-- presents: 0.050852145647280814
-- disease: 0.044373458918664704
-- be: 0.04288247198799655
-- not: 0.04173194041404032
-- mass: 0.04037854027169987
-- was: 0.03684111134248336
-- left: 0.03606011354903548
-- patient: 0.03438227734164692
-- no: 0.034375810235712845
+\-\ Texto\\:\\ \ \(0\)\
+\-\ clinical\\ breast\\ exam\\:\\ \\ no\\ evidence\\ of\\ palpable\\ masses\ \(0\)\
+\-\ pt\\.\\ recieved\\ a\\ mastectomy\\ and\\ lymph\\ node\\ dissection\\.\\ \\ pt\\.\\ was\\ started\\ on\\ chemotherapy\\/xrt\ \(0\)\
+\-\ a\\ spiculated\\ mass\\ is\\ noted\\ in\\ the\\ 12\\:00\\ position\\ of\\ the\\ left\\ breast\\.\\ \\ this\\ is\\ found\\ to\\ be\\ irregular\\,\\ hypoechoic\\,\\ and\\ densely\\ shadowing\\ on\\ ultrasound\\.\ \(0\)\
+\-\ bone\\ scan\\ performed\\ for\\ staging\\ demonstrates\\ diffuse\\ metastatic\\ disease\\.\\ \\ the\\ mr\\ of\\ the\\ cervical\\ and\\ thoracic\\ spine\\ demonstrates\\ diffuse\\ metastases\\.\ \(0\)\
+\-\ osteoblastic\\ metastases\\ to\\ bone\\,breast\\ cancer\\,\\ stage\\ iv\\ ductal\\ carcinoma\\,\ \(0\)\
+\-\ 57\\ y\\.o\\.\\ female\\ presents\\ for\\ screening\\ mammogram\\.\\ \\ pt\\.\\ had\\ several\\ monthes\\ of\\ back\\ and\\ upper\\ extremity\\ pain\\ following\\ a\\ \\"motor\\ vehicle\\"\\ accident\\ 6\\ monthes\\ prior\\.\ \(0\)\
+\-\ pts\\.\\ persistent\\ back\\ and\\ upper\\ extremity\\ pain\\ were\\ likely\\ due\\ to\\ metastatic\\ breast\\ carcinoma\\ and\\ not\\ due\\ to\\ the\\ mva\\.\\ \\ the\\ metastases\\ to\\ bone\\ were\\ osteolytic\\ in\\ this\\ patient\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ monthes\\:\\ 0\\.33810779717561784\ \(0\)\
+\-\ breast\\:\\ 0\\.30705522378911754\ \(0\)\
+\-\ metastases\\:\\ 0\\.25638282700171744\ \(0\)\
+\-\ pt\\:\\ 0\\.22822865430655687\ \(0\)\
+\-\ bone\\:\\ 0\\.1730366217876477\ \(0\)\
+\-\ extremity\\:\\ 0\\.15227536495299182\ \(0\)\
+\-\ recieved\\:\\ 0\\.14869497389641528\ \(0\)\
+\-\ back\\:\\ 0\\.14100240235843328\ \(0\)\
+\-\ diffuse\\:\\ 0\\.13258697575928416\ \(0\)\
+\-\ to\\:\\ 0\\.1321369271910852\ \(0\)\
+\-\ densely\\:\\ 0\\.13171473965175404\ \(0\)\
+\-\ and\\:\\ 0\\.13106252542114558\ \(0\)\
+\-\ pts\\:\\ 0\\.12733410293383168\ \(0\)\
+\-\ the\\:\\ 0\\.12655829797408893\ \(0\)\
+\-\ carcinoma\\:\\ 0\\.12646233352732952\ \(0\)\
+\-\ osteolytic\\:\\ 0\\.12379356436779763\ \(0\)\
+\-\ due\\:\\ 0\\.12152860550940207\ \(0\)\
+\-\ osteoblastic\\:\\ 0\\.11826204397829977\ \(0\)\
+\-\ metastatic\\:\\ 0\\.1159537023045414\ \(0\)\
+\-\ spiculated\\:\\ 0\\.11448905159531082\ \(0\)\
+\-\ upper\\:\\ 0\\.11297997169143419\ \(0\)\
+\-\ mastectomy\\:\\ 0\\.11219830057577505\ \(0\)\
+\-\ were\\:\\ 0\\.10898128484754088\ \(0\)\
+\-\ staging\\:\\ 0\\.10797712451362798\ \(0\)\
+\-\ demonstrates\\:\\ 0\\.10621548312056106\ \(0\)\
+\-\ shadowing\\:\\ 0\\.10188945406857193\ \(0\)\
+\-\ mammogram\\:\\ 0\\.1009265625892155\ \(0\)\
+\-\ 57\\:\\ 0\\.09978930445861527\ \(0\)\
+\-\ mva\\:\\ 0\\.09712273063867304\ \(0\)\
+\-\ dissection\\:\\ 0\\.09601050737961457\ \(0\)\
+\-\ ductal\\:\\ 0\\.09302579643933301\ \(0\)\
+\-\ vehicle\\:\\ 0\\.09183937588438142\ \(0\)\
+\-\ node\\:\\ 0\\.09086012587061028\ \(0\)\
+\-\ hypoechoic\\:\\ 0\\.09032294356682684\ \(0\)\
+\-\ accident\\:\\ 0\\.09032294356682684\ \(0\)\
+\-\ started\\:\\ 0\\.08904440273005108\ \(0\)\
+\-\ screening\\:\\ 0\\.08587277021246974\ \(0\)\
+\-\ position\\:\\ 0\\.08427767930015218\ \(0\)\
+\-\ stage\\:\\ 0\\.08418240149713005\ \(0\)\
+\-\ motor\\:\\ 0\\.08408761105072979\ \(0\)\
+\-\ of\\:\\ 0\\.08274820788277815\ \(0\)\
+\-\ lymph\\:\\ 0\\.08220142587902063\ \(0\)\
+\-\ irregular\\:\\ 0\\.08161307513444636\ \(0\)\
+\-\ persistent\\:\\ 0\\.08144834967768594\ \(0\)\
+\-\ thoracic\\:\\ 0\\.07899432454586056\ \(0\)\
+\-\ cervical\\:\\ 0\\.07571165240651054\ \(0\)\
+\-\ pain\\:\\ 0\\.07565412300806879\ \(0\)\
+\-\ iv\\:\\ 0\\.07553202426147931\ \(0\)\
+\-\ palpable\\:\\ 0\\.07426540461640836\ \(0\)\
+\-\ this\\:\\ 0\\.0726479752483152\ \(0\)\
+\-\ masses\\:\\ 0\\.07196559648773351\ \(0\)\
+\-\ cancer\\:\\ 0\\.07041058245651222\ \(0\)\
+\-\ spine\\:\\ 0\\.06983212157936762\ \(0\)\
+\-\ several\\:\\ 0\\.06935637454049977\ \(0\)\
+\-\ found\\:\\ 0\\.06839942948585344\ \(0\)\
+\-\ mr\\:\\ 0\\.06839942948585344\ \(0\)\
+\-\ clinical\\:\\ 0\\.06699426460220055\ \(0\)\
+\-\ ultrasound\\:\\ 0\\.06520411978435788\ \(0\)\
+\-\ for\\:\\ 0\\.06408000512638382\ \(0\)\
+\-\ on\\:\\ 0\\.06385269387272513\ \(0\)\
+\-\ following\\:\\ 0\\.0634161748746528\ \(0\)\
+\-\ likely\\:\\ 0\\.06316990557773941\ \(0\)\
+\-\ scan\\:\\ 0\\.06271679029361668\ \(0\)\
+\-\ performed\\:\\ 0\\.06253860149893965\ \(0\)\
+\-\ evidence\\:\\ 0\\.060001365679729565\ \(0\)\
+\-\ prior\\:\\ 0\\.05914513903718347\ \(0\)\
+\-\ is\\:\\ 0\\.05789900732502324\ \(0\)\
+\-\ noted\\:\\ 0\\.05604748462928765\ \(0\)\
+\-\ exam\\:\\ 0\\.05321465430989508\ \(0\)\
+\-\ had\\:\\ 0\\.05266879418255524\ \(0\)\
+\-\ in\\:\\ 0\\.052594619803646256\ \(0\)\
+\-\ female\\:\\ 0\\.051010130336995335\ \(0\)\
+\-\ presents\\:\\ 0\\.050852145647280814\ \(0\)\
+\-\ disease\\:\\ 0\\.044373458918664704\ \(0\)\
+\-\ be\\:\\ 0\\.04288247198799655\ \(0\)\
+\-\ not\\:\\ 0\\.04173194041404032\ \(0\)\
+\-\ mass\\:\\ 0\\.04037854027169987\ \(0\)\
+\-\ was\\:\\ 0\\.03684111134248336\ \(0\)\
+\-\ left\\:\\ 0\\.03606011354903548\ \(0\)\
+\-\ patient\\:\\ 0\\.03438227734164692\ \(0\)\
+\-\ no\\:\\ 0\\.034375810235712845\ \(0\)\

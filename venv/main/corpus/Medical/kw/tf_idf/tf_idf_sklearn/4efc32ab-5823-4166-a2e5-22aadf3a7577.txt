@@ -1,112 +1,110 @@
-Texto: 
-tenderness over left mastoid with associated "doughy" edema. treatment with po antibiotics as outpatient failed to improve pt's sx.
-iv antibiotics
-coalescent mastoiditis with destruction and erosion of mastoid septa in several places.  there is also fluid opacifying many left mastoid air cells.
-coalescent mastoiditis without sub-periosteal abscess
-acute mastoiditis
-glomus jugulare tumor
-metastatic disease
-several days of fever, chills and left ear pain
-this represents a more advanced stage along the spectrum of mastoiditis. acute otomastoiditis with fluid present but no septal erosion is the most common and least severe entitiy.  in this case there is erosion of the internal boney margin of mastoid bone which forms the lateral aspect of the posterior crainial fossa. if allowed to progress sub-periosteal abscess, petrous apicitis or even brain abscess may ensue. aggressive treatment possibly including drainage  with mastoidectomy may be necessary to prevent progression.
-
-
-Keywords by value: 
-- mastoiditis: 0.40465646589452275
-- mastoid: 0.3409882198636067
-- coalescent: 0.23250609560925534
-- erosion: 0.23009842477284675
-- abscess: 0.15920943662620063
-- entitiy: 0.13217010931235668
-- apicitis: 0.13217010931235668
-- crainial: 0.12629559549928085
-- opacifying: 0.12212756161770347
-- ensue: 0.12212756161770347
-- antibiotics: 0.1217755671620941
-- doughy: 0.11889458337054831
-- mastoidectomy: 0.11889458337054831
-- otomastoiditis: 0.11625304780462767
-- boney: 0.11037853399155186
-- places: 0.10885203567589512
-- several: 0.10844872175207747
-- jugulare: 0.10747114998045353
-- sx: 0.1039771136117738
-- septa: 0.09955264234982311
-- allowed: 0.09810259979869798
-- of: 0.09704159240895285
-- fluid: 0.0954367995064191
-- glomus: 0.09342615116372245
-- petrous: 0.09342615116372245
-- acute: 0.08941743949617559
-- forms: 0.0861254047206681
-- po: 0.08468974265087935
-- outpatient: 0.08468974265087935
-- left: 0.08457780369583938
-- progress: 0.08415307634399197
-- spectrum: 0.0838920182224674
-- failed: 0.08338360346906926
-- may: 0.08318087847314189
-- the: 0.08245508393748947
-- with: 0.08091631228107789
-- septal: 0.08045352824932803
-- improve: 0.08025089090759228
-- treatment: 0.07873804324556484
-- advanced: 0.07767658670944526
-- possibly: 0.07767658670944526
-- least: 0.0763878858451951
-- prevent: 0.07578411791119091
-- progression: 0.07578411791119091
-- destruction: 0.07534725063038743
-- chills: 0.07520450727124849
-- ear: 0.07520450727124849
-- represents: 0.07384947052781422
-- margin: 0.07249212396631895
-- aggressive: 0.07146899308341813
-- even: 0.06952063217913407
-- necessary: 0.06914183063481326
-- is: 0.0679001033796074
-- drainage: 0.06619202101870839
-- stage: 0.06581567950219837
-- there: 0.06576975265906687
-- many: 0.06516195957659529
-- fossa: 0.06488062386777617
-- cells: 0.06367813679623184
-- to: 0.06198455849974964
-- pt: 0.05947808448448087
-- including: 0.05914609504471968
-- iv: 0.05905262159948326
-- this: 0.056797807741203014
-- fever: 0.05603554088564277
-- internal: 0.05569902252188453
-- along: 0.0553701433218057
-- air: 0.05405839876630666
-- aspect: 0.05331854507748844
-- days: 0.05231895332853395
-- severe: 0.05231895332853395
-- tenderness: 0.051829727755131144
-- brain: 0.05152175157671281
-- and: 0.05123380311359329
-- edema: 0.049292323098959354
-- if: 0.04801980240949835
-- common: 0.04687016085186581
-- over: 0.04595521394205534
-- more: 0.045381893006469116
-- metastatic: 0.0453275956271525
-- bone: 0.04509463038664201
-- without: 0.04359304140692545
-- associated: 0.043561022976751865
-- tumor: 0.04322903353699068
-- most: 0.04301185958572105
-- posterior: 0.04273733557511736
-- present: 0.04240872010377547
-- case: 0.04152081712394682
-- in: 0.04111964708745887
-- lateral: 0.041015755763401725
-- but: 0.04086893583234409
-- also: 0.038874651957808815
-- which: 0.03758028923220923
-- disease: 0.03469216010301591
-- be: 0.03352647325843038
-- as: 0.033202123548935966
-- pain: 0.029574040561724163
-- or: 0.028751324813515743
-- no: 0.026875775326737367
+\-\ Texto\\:\\ \ \(0\)\
+\-\ tenderness\\ over\\ left\\ mastoid\\ with\\ associated\\ \\"doughy\\"\\ edema\\.\\ treatment\\ with\\ po\\ antibiotics\\ as\\ outpatient\\ failed\\ to\\ improve\\ pt\\'s\\ sx\\.\ \(0\)\
+\-\ iv\\ antibiotics\ \(0\)\
+\-\ coalescent\\ mastoiditis\\ with\\ destruction\\ and\\ erosion\\ of\\ mastoid\\ septa\\ in\\ several\\ places\\.\\ \\ there\\ is\\ also\\ fluid\\ opacifying\\ many\\ left\\ mastoid\\ air\\ cells\\.\ \(0\)\
+\-\ coalescent\\ mastoiditis\\ without\\ sub\\-periosteal\\ abscess\ \(0\)\
+\-\ acute\\ mastoiditis\ \(0\)\
+\-\ glomus\\ jugulare\\ tumor\ \(4\)\
+\-\ metastatic\\ disease\ \(243\)\
+\-\ several\\ days\\ of\\ fever\\,\\ chills\\ and\\ left\\ ear\\ pain\ \(0\)\
+\-\ this\\ represents\\ a\\ more\\ advanced\\ stage\\ along\\ the\\ spectrum\\ of\\ mastoiditis\\.\\ acute\\ otomastoiditis\\ with\\ fluid\\ present\\ but\\ no\\ septal\\ erosion\\ is\\ the\\ most\\ common\\ and\\ least\\ severe\\ entitiy\\.\\ \\ in\\ this\\ case\\ there\\ is\\ erosion\\ of\\ the\\ internal\\ boney\\ margin\\ of\\ mastoid\\ bone\\ which\\ forms\\ the\\ lateral\\ aspect\\ of\\ the\\ posterior\\ crainial\\ fossa\\.\\ if\\ allowed\\ to\\ progress\\ sub\\-periosteal\\ abscess\\,\\ petrous\\ apicitis\\ or\\ even\\ brain\\ abscess\\ may\\ ensue\\.\\ aggressive\\ treatment\\ possibly\\ including\\ drainage\\ \\ with\\ mastoidectomy\\ may\\ be\\ necessary\\ to\\ prevent\\ progression\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ mastoiditis\\:\\ 0\\.40465646589452275\ \(0\)\
+\-\ mastoid\\:\\ 0\\.3409882198636067\ \(0\)\
+\-\ coalescent\\:\\ 0\\.23250609560925534\ \(0\)\
+\-\ erosion\\:\\ 0\\.23009842477284675\ \(0\)\
+\-\ abscess\\:\\ 0\\.15920943662620063\ \(0\)\
+\-\ entitiy\\:\\ 0\\.13217010931235668\ \(0\)\
+\-\ apicitis\\:\\ 0\\.13217010931235668\ \(0\)\
+\-\ crainial\\:\\ 0\\.12629559549928085\ \(0\)\
+\-\ opacifying\\:\\ 0\\.12212756161770347\ \(0\)\
+\-\ ensue\\:\\ 0\\.12212756161770347\ \(0\)\
+\-\ antibiotics\\:\\ 0\\.1217755671620941\ \(0\)\
+\-\ doughy\\:\\ 0\\.11889458337054831\ \(0\)\
+\-\ mastoidectomy\\:\\ 0\\.11889458337054831\ \(0\)\
+\-\ otomastoiditis\\:\\ 0\\.11625304780462767\ \(0\)\
+\-\ boney\\:\\ 0\\.11037853399155186\ \(0\)\
+\-\ places\\:\\ 0\\.10885203567589512\ \(0\)\
+\-\ several\\:\\ 0\\.10844872175207747\ \(0\)\
+\-\ jugulare\\:\\ 0\\.10747114998045353\ \(0\)\
+\-\ sx\\:\\ 0\\.1039771136117738\ \(0\)\
+\-\ septa\\:\\ 0\\.09955264234982311\ \(0\)\
+\-\ allowed\\:\\ 0\\.09810259979869798\ \(0\)\
+\-\ of\\:\\ 0\\.09704159240895285\ \(0\)\
+\-\ fluid\\:\\ 0\\.0954367995064191\ \(0\)\
+\-\ glomus\\:\\ 0\\.09342615116372245\ \(0\)\
+\-\ petrous\\:\\ 0\\.09342615116372245\ \(0\)\
+\-\ acute\\:\\ 0\\.08941743949617559\ \(0\)\
+\-\ forms\\:\\ 0\\.0861254047206681\ \(0\)\
+\-\ po\\:\\ 0\\.08468974265087935\ \(0\)\
+\-\ outpatient\\:\\ 0\\.08468974265087935\ \(0\)\
+\-\ left\\:\\ 0\\.08457780369583938\ \(0\)\
+\-\ progress\\:\\ 0\\.08415307634399197\ \(0\)\
+\-\ spectrum\\:\\ 0\\.0838920182224674\ \(0\)\
+\-\ failed\\:\\ 0\\.08338360346906926\ \(0\)\
+\-\ may\\:\\ 0\\.08318087847314189\ \(0\)\
+\-\ the\\:\\ 0\\.08245508393748947\ \(0\)\
+\-\ with\\:\\ 0\\.08091631228107789\ \(0\)\
+\-\ septal\\:\\ 0\\.08045352824932803\ \(0\)\
+\-\ improve\\:\\ 0\\.08025089090759228\ \(0\)\
+\-\ treatment\\:\\ 0\\.07873804324556484\ \(0\)\
+\-\ advanced\\:\\ 0\\.07767658670944526\ \(0\)\
+\-\ possibly\\:\\ 0\\.07767658670944526\ \(0\)\
+\-\ least\\:\\ 0\\.0763878858451951\ \(0\)\
+\-\ prevent\\:\\ 0\\.07578411791119091\ \(0\)\
+\-\ progression\\:\\ 0\\.07578411791119091\ \(0\)\
+\-\ destruction\\:\\ 0\\.07534725063038743\ \(0\)\
+\-\ chills\\:\\ 0\\.07520450727124849\ \(0\)\
+\-\ ear\\:\\ 0\\.07520450727124849\ \(0\)\
+\-\ represents\\:\\ 0\\.07384947052781422\ \(0\)\
+\-\ margin\\:\\ 0\\.07249212396631895\ \(0\)\
+\-\ aggressive\\:\\ 0\\.07146899308341813\ \(0\)\
+\-\ even\\:\\ 0\\.06952063217913407\ \(0\)\
+\-\ necessary\\:\\ 0\\.06914183063481326\ \(0\)\
+\-\ is\\:\\ 0\\.0679001033796074\ \(0\)\
+\-\ drainage\\:\\ 0\\.06619202101870839\ \(0\)\
+\-\ stage\\:\\ 0\\.06581567950219837\ \(0\)\
+\-\ there\\:\\ 0\\.06576975265906687\ \(0\)\
+\-\ many\\:\\ 0\\.06516195957659529\ \(0\)\
+\-\ fossa\\:\\ 0\\.06488062386777617\ \(0\)\
+\-\ cells\\:\\ 0\\.06367813679623184\ \(0\)\
+\-\ to\\:\\ 0\\.06198455849974964\ \(0\)\
+\-\ pt\\:\\ 0\\.05947808448448087\ \(0\)\
+\-\ including\\:\\ 0\\.05914609504471968\ \(0\)\
+\-\ iv\\:\\ 0\\.05905262159948326\ \(0\)\
+\-\ this\\:\\ 0\\.056797807741203014\ \(0\)\
+\-\ fever\\:\\ 0\\.05603554088564277\ \(0\)\
+\-\ internal\\:\\ 0\\.05569902252188453\ \(0\)\
+\-\ along\\:\\ 0\\.0553701433218057\ \(0\)\
+\-\ air\\:\\ 0\\.05405839876630666\ \(0\)\
+\-\ aspect\\:\\ 0\\.05331854507748844\ \(0\)\
+\-\ days\\:\\ 0\\.05231895332853395\ \(0\)\
+\-\ severe\\:\\ 0\\.05231895332853395\ \(0\)\
+\-\ tenderness\\:\\ 0\\.051829727755131144\ \(0\)\
+\-\ brain\\:\\ 0\\.05152175157671281\ \(0\)\
+\-\ and\\:\\ 0\\.05123380311359329\ \(0\)\
+\-\ edema\\:\\ 0\\.049292323098959354\ \(0\)\
+\-\ if\\:\\ 0\\.04801980240949835\ \(0\)\
+\-\ common\\:\\ 0\\.04687016085186581\ \(0\)\
+\-\ over\\:\\ 0\\.04595521394205534\ \(0\)\
+\-\ more\\:\\ 0\\.045381893006469116\ \(0\)\
+\-\ metastatic\\:\\ 0\\.0453275956271525\ \(0\)\
+\-\ bone\\:\\ 0\\.04509463038664201\ \(0\)\
+\-\ without\\:\\ 0\\.04359304140692545\ \(0\)\
+\-\ associated\\:\\ 0\\.043561022976751865\ \(0\)\
+\-\ tumor\\:\\ 0\\.04322903353699068\ \(0\)\
+\-\ most\\:\\ 0\\.04301185958572105\ \(0\)\
+\-\ posterior\\:\\ 0\\.04273733557511736\ \(0\)\
+\-\ present\\:\\ 0\\.04240872010377547\ \(0\)\
+\-\ case\\:\\ 0\\.04152081712394682\ \(0\)\
+\-\ in\\:\\ 0\\.04111964708745887\ \(0\)\
+\-\ lateral\\:\\ 0\\.041015755763401725\ \(0\)\
+\-\ but\\:\\ 0\\.04086893583234409\ \(0\)\
+\-\ also\\:\\ 0\\.038874651957808815\ \(0\)\
+\-\ which\\:\\ 0\\.03758028923220923\ \(0\)\
+\-\ disease\\:\\ 0\\.03469216010301591\ \(0\)\
+\-\ be\\:\\ 0\\.03352647325843038\ \(0\)\
+\-\ as\\:\\ 0\\.033202123548935966\ \(0\)\
+\-\ pain\\:\\ 0\\.029574040561724163\ \(0\)\
+\-\ or\\:\\ 0\\.028751324813515743\ \(0\)\
+\-\ no\\:\\ 0\\.026875775326737367\ \(0\)\

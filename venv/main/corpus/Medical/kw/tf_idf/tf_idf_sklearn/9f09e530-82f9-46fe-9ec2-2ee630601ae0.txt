@@ -1,57 +1,55 @@
-Texto: 
-non-contributory
-surgical resection with gastric pull through.
-long segment smooth narrowing middle 1/3 of esophagus with minimal wall thicking.
-esophageal stricture
-alkaline burn/stricture
-prior radiation therapy
-long standing gartric reflux disease
-prior surgery (repair esophageal atresia)
-27 yo man with history lye ingestion 2 yrs ago. now with increasing symptoms dysphagia,and regurgitaion of food.
-
-
-Keywords by value: 
-- stricture: 0.2927440875359105
-- esophageal: 0.2582422210022318
-- thicking: 0.24167090063944624
-- gartric: 0.24167090063944624
-- regurgitaion: 0.24167090063944624
-- lye: 0.23092944743636434
-- long: 0.20041385422863303
-- pull: 0.1834627231608989
-- alkaline: 0.16993009255251185
-- prior: 0.16910179698857494
-- yrs: 0.16822035849467917
-- ingestion: 0.1636677559259203
-- food: 0.15693266566668235
-- atresia: 0.1498577229584874
-- standing: 0.1405332750532871
-- dysphagia: 0.13649118495200432
-- reflux: 0.13088135302653786
-- gastric: 0.1272933732048511
-- segment: 0.12476844611328898
-- smooth: 0.12476844611328898
-- esophagus: 0.1244492653459223
-- 27: 0.12246336827704639
-- increasing: 0.11901804200098182
-- with: 0.11836333141967105
-- narrowing: 0.1171472637801791
-- repair: 0.11690751840434063
-- minimal: 0.11528743479831123
-- ago: 0.11056992126342216
-- middle: 0.10806208006940535
-- now: 0.10373532442029454
-- radiation: 0.10014347395050568
-- resection: 0.09686873218674572
-- yo: 0.0944100789451878
-- wall: 0.09192694783898592
-- through: 0.08995706422846496
-- therapy: 0.08682720707895075
-- symptoms: 0.08268331878640452
-- surgery: 0.08124753607696662
-- man: 0.08000385148457713
-- surgical: 0.07344837477321921
-- disease: 0.06343405192629198
-- of: 0.05914632579426724
-- history: 0.057735900816752915
-- and: 0.031226725936912423
+\-\ Texto\\:\\ \ \(0\)\
+\-\ non\\-contributory\ \(73\)\
+\-\ surgical\\ resection\\ with\\ gastric\\ pull\\ through\\.\ \(0\)\
+\-\ long\\ segment\\ smooth\\ narrowing\\ middle\\ 1\\/3\\ of\\ esophagus\\ with\\ minimal\\ wall\\ thicking\\.\ \(0\)\
+\-\ esophageal\\ stricture\ \(10\)\
+\-\ alkaline\\ burn\\/stricture\ \(0\)\
+\-\ prior\\ radiation\\ therapy\ \(2\)\
+\-\ long\\ standing\\ gartric\\ reflux\\ disease\ \(0\)\
+\-\ prior\\ surgery\\ \\(repair\\ esophageal\\ atresia\\)\ \(0\)\
+\-\ 27\\ yo\\ man\\ with\\ history\\ lye\\ ingestion\\ 2\\ yrs\\ ago\\.\\ now\\ with\\ increasing\\ symptoms\\ dysphagia\\,and\\ regurgitaion\\ of\\ food\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ stricture\\:\\ 0\\.2927440875359105\ \(0\)\
+\-\ esophageal\\:\\ 0\\.2582422210022318\ \(0\)\
+\-\ thicking\\:\\ 0\\.24167090063944624\ \(0\)\
+\-\ gartric\\:\\ 0\\.24167090063944624\ \(0\)\
+\-\ regurgitaion\\:\\ 0\\.24167090063944624\ \(0\)\
+\-\ lye\\:\\ 0\\.23092944743636434\ \(0\)\
+\-\ long\\:\\ 0\\.20041385422863303\ \(0\)\
+\-\ pull\\:\\ 0\\.1834627231608989\ \(0\)\
+\-\ alkaline\\:\\ 0\\.16993009255251185\ \(0\)\
+\-\ prior\\:\\ 0\\.16910179698857494\ \(0\)\
+\-\ yrs\\:\\ 0\\.16822035849467917\ \(0\)\
+\-\ ingestion\\:\\ 0\\.1636677559259203\ \(0\)\
+\-\ food\\:\\ 0\\.15693266566668235\ \(0\)\
+\-\ atresia\\:\\ 0\\.1498577229584874\ \(0\)\
+\-\ standing\\:\\ 0\\.1405332750532871\ \(0\)\
+\-\ dysphagia\\:\\ 0\\.13649118495200432\ \(0\)\
+\-\ reflux\\:\\ 0\\.13088135302653786\ \(0\)\
+\-\ gastric\\:\\ 0\\.1272933732048511\ \(0\)\
+\-\ segment\\:\\ 0\\.12476844611328898\ \(0\)\
+\-\ smooth\\:\\ 0\\.12476844611328898\ \(0\)\
+\-\ esophagus\\:\\ 0\\.1244492653459223\ \(0\)\
+\-\ 27\\:\\ 0\\.12246336827704639\ \(0\)\
+\-\ increasing\\:\\ 0\\.11901804200098182\ \(0\)\
+\-\ with\\:\\ 0\\.11836333141967105\ \(0\)\
+\-\ narrowing\\:\\ 0\\.1171472637801791\ \(0\)\
+\-\ repair\\:\\ 0\\.11690751840434063\ \(0\)\
+\-\ minimal\\:\\ 0\\.11528743479831123\ \(0\)\
+\-\ ago\\:\\ 0\\.11056992126342216\ \(0\)\
+\-\ middle\\:\\ 0\\.10806208006940535\ \(0\)\
+\-\ now\\:\\ 0\\.10373532442029454\ \(0\)\
+\-\ radiation\\:\\ 0\\.10014347395050568\ \(0\)\
+\-\ resection\\:\\ 0\\.09686873218674572\ \(0\)\
+\-\ yo\\:\\ 0\\.0944100789451878\ \(0\)\
+\-\ wall\\:\\ 0\\.09192694783898592\ \(0\)\
+\-\ through\\:\\ 0\\.08995706422846496\ \(0\)\
+\-\ therapy\\:\\ 0\\.08682720707895075\ \(0\)\
+\-\ symptoms\\:\\ 0\\.08268331878640452\ \(0\)\
+\-\ surgery\\:\\ 0\\.08124753607696662\ \(0\)\
+\-\ man\\:\\ 0\\.08000385148457713\ \(0\)\
+\-\ surgical\\:\\ 0\\.07344837477321921\ \(0\)\
+\-\ disease\\:\\ 0\\.06343405192629198\ \(0\)\
+\-\ of\\:\\ 0\\.05914632579426724\ \(0\)\
+\-\ history\\:\\ 0\\.057735900816752915\ \(0\)\
+\-\ and\\:\\ 0\\.031226725936912423\ \(0\)\

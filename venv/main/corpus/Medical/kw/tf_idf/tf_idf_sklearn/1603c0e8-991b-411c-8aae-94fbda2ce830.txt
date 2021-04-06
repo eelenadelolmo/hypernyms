@@ -1,83 +1,80 @@
-Texto: 
-surgical treatment was performed with reanastomosis.  a ladd procedure was also performed to correct the patients malrotation.
-frontal view of the chest and abdomen show multiple dilated bowel loops in the upper abdomen with no air seen distal.
-
-images from contrast enema show small caliber of the colon.  the colon is in the left abdomen.  contrast refluxes into ilium which is in the right abdomen.
-jejunal atresia (proximal)
-duodenal atresia
-jejunal atresia
-ilial atresia
-volvulus
-hirshprung's
-1 day old female with distended abdomen and failure to pass meconium.
-per report the patient had a type ii atresia with intact mesentary.  the bowel was anastomosed and ladd procedure performed to correct malrotation.
-
-
-Keywords by value: 
-- atresia: 0.4773300020909688
-- abdomen: 0.2937006049476257
-- ladd: 0.25358716066572
-- jejunal: 0.22697455741525444
-- correct: 0.20207856554775097
-- malrotation: 0.1942546238892254
-- the: 0.17288234840529237
-- performed: 0.17085912921068194
-- ilial: 0.15395505714377972
-- procedure: 0.153501043643317
-- refluxes: 0.14711227616637568
-- colon: 0.14660155937928104
-- reanastomosis: 0.1384913916779772
-- mesentary: 0.1384913916779772
-- anastomosed: 0.13541446482125846
-- bowel: 0.12356235762332783
-- show: 0.12222752763765585
-- ilium: 0.11995079935545593
-- meconium: 0.11201884213102409
-- caliber: 0.10103928277387549
-- was: 0.1006520781127031
-- pass: 0.09929790696925249
-- enema: 0.0971273119446127
-- volvulus: 0.09627622197664366
-- duodenal: 0.09444287660153937
-- contrast: 0.09355026381968763
-- loops: 0.08743544676288098
-- distended: 0.08225586073072677
-- report: 0.081091511199419
-- per: 0.07989718586197664
-- ii: 0.0759022842790181
-- with: 0.07540267944641922
-- failure: 0.07308938183888922
-- to: 0.07220116783976017
-- in: 0.07184579384118664
-- view: 0.07049788399419667
-- intact: 0.06967734307587745
-- dilated: 0.068949559105494
-- type: 0.0645809132493638
-- air: 0.06296857825470445
-- frontal: 0.06196129124072945
-- day: 0.06132168892635752
-- proximal: 0.06014339773839826
-- and: 0.05967841841914091
-- distal: 0.05593466981642395
-- patients: 0.05415656630542953
-- is: 0.05272782855499839
-- upper: 0.05144465209958695
-- into: 0.051174932612214896
-- chest: 0.05081564608595044
-- small: 0.04965878219433819
-- had: 0.04796474547942787
-- multiple: 0.0470872534110952
-- surgical: 0.04678986466889108
-- female: 0.04645422315927647
-- treatment: 0.045858023460554974
-- seen: 0.045322656402956046
-- also: 0.04528216927977881
-- images: 0.0445308125986052
-- which: 0.04377446312427037
-- from: 0.03823395755113071
-- of: 0.03767882663327459
-- left: 0.03283944877005807
-- right: 0.03191715014300748
-- patient: 0.03131146644404127
-- no: 0.03130557693973553
-- old: 0.028491746051630965
+\-\ Texto\\:\\ \ \(0\)\
+\-\ surgical\\ treatment\\ was\\ performed\\ with\\ reanastomosis\\.\\ \\ a\\ ladd\\ procedure\\ was\\ also\\ performed\\ to\\ correct\\ the\\ patients\\ malrotation\\.\ \(0\)\
+\-\ frontal\\ view\\ of\\ the\\ chest\\ and\\ abdomen\\ show\\ multiple\\ dilated\\ bowel\\ loops\\ in\\ the\\ upper\\ abdomen\\ with\\ no\\ air\\ seen\\ distal\\.\ \(0\)\
+\-\ images\\ from\\ contrast\\ enema\\ show\\ small\\ caliber\\ of\\ the\\ colon\\.\\ \\ the\\ colon\\ is\\ in\\ the\\ left\\ abdomen\\.\\ \\ contrast\\ refluxes\\ into\\ ilium\\ which\\ is\\ in\\ the\\ right\\ abdomen\\.\ \(0\)\
+\-\ jejunal\\ atresia\\ \\(proximal\\)\ \(0\)\
+\-\ duodenal\\ atresia\ \(5\)\
+\-\ jejunal\\ atresia\ \(2\)\
+\-\ ilial\\ atresia\ \(0\)\
+\-\ volvulus\ \(94\)\
+\-\ hirshprung\\'s\ \(0\)\
+\-\ 1\\ day\\ old\\ female\\ with\\ distended\\ abdomen\\ and\\ failure\\ to\\ pass\\ meconium\\.\ \(1\)\
+\-\ per\\ report\\ the\\ patient\\ had\\ a\\ type\\ ii\\ atresia\\ with\\ intact\\ mesentary\\.\\ \\ the\\ bowel\\ was\\ anastomosed\\ and\\ ladd\\ procedure\\ performed\\ to\\ correct\\ malrotation\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ atresia\\:\\ 0\\.4773300020909688\ \(0\)\
+\-\ abdomen\\:\\ 0\\.2937006049476257\ \(0\)\
+\-\ ladd\\:\\ 0\\.25358716066572\ \(0\)\
+\-\ jejunal\\:\\ 0\\.22697455741525444\ \(0\)\
+\-\ correct\\:\\ 0\\.20207856554775097\ \(0\)\
+\-\ malrotation\\:\\ 0\\.1942546238892254\ \(0\)\
+\-\ the\\:\\ 0\\.17288234840529237\ \(0\)\
+\-\ performed\\:\\ 0\\.17085912921068194\ \(0\)\
+\-\ ilial\\:\\ 0\\.15395505714377972\ \(0\)\
+\-\ procedure\\:\\ 0\\.153501043643317\ \(0\)\
+\-\ refluxes\\:\\ 0\\.14711227616637568\ \(0\)\
+\-\ colon\\:\\ 0\\.14660155937928104\ \(0\)\
+\-\ reanastomosis\\:\\ 0\\.1384913916779772\ \(0\)\
+\-\ mesentary\\:\\ 0\\.1384913916779772\ \(0\)\
+\-\ anastomosed\\:\\ 0\\.13541446482125846\ \(0\)\
+\-\ bowel\\:\\ 0\\.12356235762332783\ \(0\)\
+\-\ show\\:\\ 0\\.12222752763765585\ \(0\)\
+\-\ ilium\\:\\ 0\\.11995079935545593\ \(0\)\
+\-\ meconium\\:\\ 0\\.11201884213102409\ \(0\)\
+\-\ caliber\\:\\ 0\\.10103928277387549\ \(0\)\
+\-\ was\\:\\ 0\\.1006520781127031\ \(0\)\
+\-\ pass\\:\\ 0\\.09929790696925249\ \(0\)\
+\-\ enema\\:\\ 0\\.0971273119446127\ \(0\)\
+\-\ volvulus\\:\\ 0\\.09627622197664366\ \(0\)\
+\-\ duodenal\\:\\ 0\\.09444287660153937\ \(0\)\
+\-\ contrast\\:\\ 0\\.09355026381968763\ \(0\)\
+\-\ loops\\:\\ 0\\.08743544676288098\ \(0\)\
+\-\ distended\\:\\ 0\\.08225586073072677\ \(0\)\
+\-\ report\\:\\ 0\\.081091511199419\ \(0\)\
+\-\ per\\:\\ 0\\.07989718586197664\ \(0\)\
+\-\ ii\\:\\ 0\\.0759022842790181\ \(0\)\
+\-\ with\\:\\ 0\\.07540267944641922\ \(0\)\
+\-\ failure\\:\\ 0\\.07308938183888922\ \(0\)\
+\-\ to\\:\\ 0\\.07220116783976017\ \(0\)\
+\-\ in\\:\\ 0\\.07184579384118664\ \(0\)\
+\-\ view\\:\\ 0\\.07049788399419667\ \(0\)\
+\-\ intact\\:\\ 0\\.06967734307587745\ \(0\)\
+\-\ dilated\\:\\ 0\\.068949559105494\ \(0\)\
+\-\ type\\:\\ 0\\.0645809132493638\ \(0\)\
+\-\ air\\:\\ 0\\.06296857825470445\ \(0\)\
+\-\ frontal\\:\\ 0\\.06196129124072945\ \(0\)\
+\-\ day\\:\\ 0\\.06132168892635752\ \(0\)\
+\-\ proximal\\:\\ 0\\.06014339773839826\ \(0\)\
+\-\ and\\:\\ 0\\.05967841841914091\ \(0\)\
+\-\ distal\\:\\ 0\\.05593466981642395\ \(0\)\
+\-\ patients\\:\\ 0\\.05415656630542953\ \(0\)\
+\-\ is\\:\\ 0\\.05272782855499839\ \(0\)\
+\-\ upper\\:\\ 0\\.05144465209958695\ \(0\)\
+\-\ into\\:\\ 0\\.051174932612214896\ \(0\)\
+\-\ chest\\:\\ 0\\.05081564608595044\ \(0\)\
+\-\ small\\:\\ 0\\.04965878219433819\ \(0\)\
+\-\ had\\:\\ 0\\.04796474547942787\ \(0\)\
+\-\ multiple\\:\\ 0\\.0470872534110952\ \(0\)\
+\-\ surgical\\:\\ 0\\.04678986466889108\ \(0\)\
+\-\ female\\:\\ 0\\.04645422315927647\ \(0\)\
+\-\ treatment\\:\\ 0\\.045858023460554974\ \(0\)\
+\-\ seen\\:\\ 0\\.045322656402956046\ \(0\)\
+\-\ also\\:\\ 0\\.04528216927977881\ \(0\)\
+\-\ images\\:\\ 0\\.0445308125986052\ \(0\)\
+\-\ which\\:\\ 0\\.04377446312427037\ \(0\)\
+\-\ from\\:\\ 0\\.03823395755113071\ \(0\)\
+\-\ of\\:\\ 0\\.03767882663327459\ \(0\)\
+\-\ left\\:\\ 0\\.03283944877005807\ \(0\)\
+\-\ right\\:\\ 0\\.03191715014300748\ \(0\)\
+\-\ patient\\:\\ 0\\.03131146644404127\ \(0\)\
+\-\ no\\:\\ 0\\.03130557693973553\ \(0\)\
+\-\ old\\:\\ 0\\.028491746051630965\ \(0\)\

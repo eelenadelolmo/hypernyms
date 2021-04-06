@@ -1,106 +1,102 @@
-Texto: 
-asymptomatic.
-
-alk phos. . . . . . .118  h   (35-113)       ast . . . . . . . . .33   h   (9-26)       tbili . . . . . . . .0.3      (0.3-1.3)       dbili . . . . . . . .0.1      (0.1-0.5)
-alt . . . . . . . . .62   h   (8-30)
-unknown.
-ct: 
-diffuse fatty infiltration of the liver is seen.  tortuosity and the development of additional vessels are present in the portal area. no portal vein thrombosis is seen.
-
-u/s:
-the liver is of increased diffuse echogenicity.  multiple dilated and tortuous tubular-appearing structures are seen in the portal area. no normal portal vein is seen.  color doppler shows blood flow through these structures, consistent with periportal collateralization.
-cavernous transformation of the portal vein
-57 yo female with several months of abdominal pain and bloating.  left tubo-ovarian torsion resected 3 months prior.  ultrasonography of the ruq performed to assess mild elevation of transaminases.
-though cavernous transformation of the portal vein is usually a complication of portal vein thrombosis, none was seen in this patient.  she did have prior, somewhat chronic complaint of abdominal discomfort and bloating but no other underlying medical conditions.
-
-
-Keywords by value: 
-- portal: 0.5340606595051999
-- vein: 0.2857266132564886
-- bloating: 0.21000561362831827
-- seen: 0.18766747188977184
-- transformation: 0.1628674006150748
-- of: 0.15601667464439384
-- cavernous: 0.13831016521486028
-- thrombosis: 0.13000139248817047
-- the: 0.12726288776537076
-- structures: 0.11980889045552297
-- dbili: 0.11214210413604325
-- liver: 0.10999483646753594
-- is: 0.10916502990443072
-- periportal: 0.10812146039020419
-- collateralization: 0.10647532505183632
-- transaminases: 0.10647532505183632
-- area: 0.10329294254698657
-- tortuosity: 0.10133600467361319
-- diffuse: 0.09999384681985635
-- months: 0.09281183552482676
-- tbili: 0.09219673040806808
-- ultrasonography: 0.0911211231375834
-- prior: 0.08921162790168102
-- tortuous: 0.08831655012471931
-- abdominal: 0.08720652826773084
-- alk: 0.08337407802708123
-- phos: 0.08250930757802208
-- ruq: 0.08092542622622134
-- torsion: 0.07950291160852471
-- infiltration: 0.0786291272946733
-- echogenicity: 0.07780677265017628
-- no: 0.07777618012629625
-- alt: 0.07665741324613626
-- ast: 0.0764747178749894
-- fatty: 0.07576692122333047
-- 57: 0.0752586471420144
-- assess: 0.07368665519703524
-- discomfort: 0.07368665519703524
-- resected: 0.07296234821046638
-- conditions: 0.07282188474797607
-- elevation: 0.07268281895505802
-- somewhat: 0.07254512329075002
-- complication: 0.07240877102019286
-- color: 0.07187628768827829
-- doppler: 0.07136334949983539
-- though: 0.0692630058995142
-- complaint: 0.06904798632187761
-- development: 0.06590801161755425
-- and: 0.0658960958306036
-- underlying: 0.06508078813591481
-- vessels: 0.061866079220415565
-- additional: 0.06180240714274319
-- are: 0.06050339441514262
-- unknown: 0.060412719309077545
-- in: 0.05949835939099914
-- did: 0.05719092137649709
-- dilated: 0.057099872214897394
-- asymptomatic: 0.05427468867348475
-- flow: 0.05310193521146319
-- several: 0.05230687744454186
-- medical: 0.05066790010729124
-- usually: 0.05018931971892096
-- yo: 0.049807139740776815
-- through: 0.047457899821251724
-- she: 0.047457899821251724
-- chronic: 0.04732198954234165
-- performed: 0.04716508015060538
-- shows: 0.04679119169003308
-- blood: 0.046300755513979504
-- mild: 0.045193366102068325
-- these: 0.04502022696847388
-- none: 0.043568755482071723
-- consistent: 0.04322827586959745
-- increased: 0.0431110409363655
-- other: 0.04140204216435228
-- present: 0.04090906170603285
-- have: 0.039826596603890124
-- but: 0.03942372733093679
-- multiple: 0.03899482734342517
-- female: 0.038470589814484486
-- normal: 0.032550844604812654
-- with: 0.03122197891406343
-- ct: 0.030351740561569886
-- pain: 0.028528242476447307
-- was: 0.027784663034638953
-- this: 0.027394661003285133
-- left: 0.02719565364455786
-- patient: 0.025930270708189977
-- to: 0.019930886244483446
+\-\ Texto\\:\\ \ \(0\)\
+\-\ asymptomatic\\.\ \(81\)\
+\-\ alk\\ phos\\.\\ \\.\\ \\.\\ \\.\\ \\.\\ \\.\\ \\.118\\ \\ h\\ \\ \\ \\(35\\-113\\)\\ \\ \\ \\ \\ \\ \\ ast\\ \\.\\ \\.\\ \\.\\ \\.\\ \\.\\ \\.\\ \\.\\ \\.\\ \\.33\\ \\ \\ h\\ \\ \\ \\(9\\-26\\)\\ \\ \\ \\ \\ \\ \\ tbili\\ \\.\\ \\.\\ \\.\\ \\.\\ \\.\\ \\.\\ \\.\\ \\.0\\.3\\ \\ \\ \\ \\ \\ \\(0\\.3\\-1\\.3\\)\\ \\ \\ \\ \\ \\ \\ dbili\\ \\.\\ \\.\\ \\.\\ \\.\\ \\.\\ \\.\\ \\.\\ \\.0\\.1\\ \\ \\ \\ \\ \\ \\(0\\.1\\-0\\.5\\)\ \(0\)\
+\-\ alt\\ \\.\\ \\.\\ \\.\\ \\.\\ \\.\\ \\.\\ \\.\\ \\.\\ \\.62\\ \\ \\ h\\ \\ \\ \\(8\\-30\\)\ \(0\)\
+\-\ unknown\\.\ \(36\)\
+\-\ ct\\:\\ \ \(12\)\
+\-\ diffuse\\ fatty\\ infiltration\\ of\\ the\\ liver\\ is\\ seen\\.\\ \\ tortuosity\\ and\\ the\\ development\\ of\\ additional\\ vessels\\ are\\ present\\ in\\ the\\ portal\\ area\\.\\ no\\ portal\\ vein\\ thrombosis\\ is\\ seen\\.\ \(0\)\
+\-\ u\\/s\\:\ \(0\)\
+\-\ the\\ liver\\ is\\ of\\ increased\\ diffuse\\ echogenicity\\.\\ \\ multiple\\ dilated\\ and\\ tortuous\\ tubular\\-appearing\\ structures\\ are\\ seen\\ in\\ the\\ portal\\ area\\.\\ no\\ normal\\ portal\\ vein\\ is\\ seen\\.\\ \\ color\\ doppler\\ shows\\ blood\\ flow\\ through\\ these\\ structures\\,\\ consistent\\ with\\ periportal\\ collateralization\\.\ \(0\)\
+\-\ cavernous\\ transformation\\ of\\ the\\ portal\\ vein\ \(1\)\
+\-\ 57\\ yo\\ female\\ with\\ several\\ months\\ of\\ abdominal\\ pain\\ and\\ bloating\\.\\ \\ left\\ tubo\\-ovarian\\ torsion\\ resected\\ 3\\ months\\ prior\\.\\ \\ ultrasonography\\ of\\ the\\ ruq\\ performed\\ to\\ assess\\ mild\\ elevation\\ of\\ transaminases\\.\ \(0\)\
+\-\ though\\ cavernous\\ transformation\\ of\\ the\\ portal\\ vein\\ is\\ usually\\ a\\ complication\\ of\\ portal\\ vein\\ thrombosis\\,\\ none\\ was\\ seen\\ in\\ this\\ patient\\.\\ \\ she\\ did\\ have\\ prior\\,\\ somewhat\\ chronic\\ complaint\\ of\\ abdominal\\ discomfort\\ and\\ bloating\\ but\\ no\\ other\\ underlying\\ medical\\ conditions\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ portal\\:\\ 0\\.5340606595051999\ \(0\)\
+\-\ vein\\:\\ 0\\.2857266132564886\ \(0\)\
+\-\ bloating\\:\\ 0\\.21000561362831827\ \(0\)\
+\-\ seen\\:\\ 0\\.18766747188977184\ \(0\)\
+\-\ transformation\\:\\ 0\\.1628674006150748\ \(0\)\
+\-\ of\\:\\ 0\\.15601667464439384\ \(0\)\
+\-\ cavernous\\:\\ 0\\.13831016521486028\ \(0\)\
+\-\ thrombosis\\:\\ 0\\.13000139248817047\ \(0\)\
+\-\ the\\:\\ 0\\.12726288776537076\ \(0\)\
+\-\ structures\\:\\ 0\\.11980889045552297\ \(0\)\
+\-\ dbili\\:\\ 0\\.11214210413604325\ \(0\)\
+\-\ liver\\:\\ 0\\.10999483646753594\ \(0\)\
+\-\ is\\:\\ 0\\.10916502990443072\ \(0\)\
+\-\ periportal\\:\\ 0\\.10812146039020419\ \(0\)\
+\-\ collateralization\\:\\ 0\\.10647532505183632\ \(0\)\
+\-\ transaminases\\:\\ 0\\.10647532505183632\ \(0\)\
+\-\ area\\:\\ 0\\.10329294254698657\ \(0\)\
+\-\ tortuosity\\:\\ 0\\.10133600467361319\ \(0\)\
+\-\ diffuse\\:\\ 0\\.09999384681985635\ \(0\)\
+\-\ months\\:\\ 0\\.09281183552482676\ \(0\)\
+\-\ tbili\\:\\ 0\\.09219673040806808\ \(0\)\
+\-\ ultrasonography\\:\\ 0\\.0911211231375834\ \(0\)\
+\-\ prior\\:\\ 0\\.08921162790168102\ \(0\)\
+\-\ tortuous\\:\\ 0\\.08831655012471931\ \(0\)\
+\-\ abdominal\\:\\ 0\\.08720652826773084\ \(0\)\
+\-\ alk\\:\\ 0\\.08337407802708123\ \(0\)\
+\-\ phos\\:\\ 0\\.08250930757802208\ \(0\)\
+\-\ ruq\\:\\ 0\\.08092542622622134\ \(0\)\
+\-\ torsion\\:\\ 0\\.07950291160852471\ \(0\)\
+\-\ infiltration\\:\\ 0\\.0786291272946733\ \(0\)\
+\-\ echogenicity\\:\\ 0\\.07780677265017628\ \(0\)\
+\-\ no\\:\\ 0\\.07777618012629625\ \(0\)\
+\-\ alt\\:\\ 0\\.07665741324613626\ \(0\)\
+\-\ ast\\:\\ 0\\.0764747178749894\ \(0\)\
+\-\ fatty\\:\\ 0\\.07576692122333047\ \(0\)\
+\-\ 57\\:\\ 0\\.0752586471420144\ \(0\)\
+\-\ assess\\:\\ 0\\.07368665519703524\ \(0\)\
+\-\ discomfort\\:\\ 0\\.07368665519703524\ \(0\)\
+\-\ resected\\:\\ 0\\.07296234821046638\ \(0\)\
+\-\ conditions\\:\\ 0\\.07282188474797607\ \(0\)\
+\-\ elevation\\:\\ 0\\.07268281895505802\ \(0\)\
+\-\ somewhat\\:\\ 0\\.07254512329075002\ \(0\)\
+\-\ complication\\:\\ 0\\.07240877102019286\ \(0\)\
+\-\ color\\:\\ 0\\.07187628768827829\ \(0\)\
+\-\ doppler\\:\\ 0\\.07136334949983539\ \(0\)\
+\-\ though\\:\\ 0\\.0692630058995142\ \(0\)\
+\-\ complaint\\:\\ 0\\.06904798632187761\ \(0\)\
+\-\ development\\:\\ 0\\.06590801161755425\ \(0\)\
+\-\ and\\:\\ 0\\.0658960958306036\ \(0\)\
+\-\ underlying\\:\\ 0\\.06508078813591481\ \(0\)\
+\-\ vessels\\:\\ 0\\.061866079220415565\ \(0\)\
+\-\ additional\\:\\ 0\\.06180240714274319\ \(0\)\
+\-\ are\\:\\ 0\\.06050339441514262\ \(0\)\
+\-\ unknown\\:\\ 0\\.060412719309077545\ \(0\)\
+\-\ in\\:\\ 0\\.05949835939099914\ \(0\)\
+\-\ did\\:\\ 0\\.05719092137649709\ \(0\)\
+\-\ dilated\\:\\ 0\\.057099872214897394\ \(0\)\
+\-\ asymptomatic\\:\\ 0\\.05427468867348475\ \(0\)\
+\-\ flow\\:\\ 0\\.05310193521146319\ \(0\)\
+\-\ several\\:\\ 0\\.05230687744454186\ \(0\)\
+\-\ medical\\:\\ 0\\.05066790010729124\ \(0\)\
+\-\ usually\\:\\ 0\\.05018931971892096\ \(0\)\
+\-\ yo\\:\\ 0\\.049807139740776815\ \(0\)\
+\-\ through\\:\\ 0\\.047457899821251724\ \(0\)\
+\-\ she\\:\\ 0\\.047457899821251724\ \(0\)\
+\-\ chronic\\:\\ 0\\.04732198954234165\ \(0\)\
+\-\ performed\\:\\ 0\\.04716508015060538\ \(0\)\
+\-\ shows\\:\\ 0\\.04679119169003308\ \(0\)\
+\-\ blood\\:\\ 0\\.046300755513979504\ \(0\)\
+\-\ mild\\:\\ 0\\.045193366102068325\ \(0\)\
+\-\ these\\:\\ 0\\.04502022696847388\ \(0\)\
+\-\ none\\:\\ 0\\.043568755482071723\ \(0\)\
+\-\ consistent\\:\\ 0\\.04322827586959745\ \(0\)\
+\-\ increased\\:\\ 0\\.0431110409363655\ \(0\)\
+\-\ other\\:\\ 0\\.04140204216435228\ \(0\)\
+\-\ present\\:\\ 0\\.04090906170603285\ \(0\)\
+\-\ have\\:\\ 0\\.039826596603890124\ \(0\)\
+\-\ but\\:\\ 0\\.03942372733093679\ \(0\)\
+\-\ multiple\\:\\ 0\\.03899482734342517\ \(0\)\
+\-\ female\\:\\ 0\\.038470589814484486\ \(0\)\
+\-\ normal\\:\\ 0\\.032550844604812654\ \(0\)\
+\-\ with\\:\\ 0\\.03122197891406343\ \(0\)\
+\-\ ct\\:\\ 0\\.030351740561569886\ \(0\)\
+\-\ pain\\:\\ 0\\.028528242476447307\ \(0\)\
+\-\ was\\:\\ 0\\.027784663034638953\ \(0\)\
+\-\ this\\:\\ 0\\.027394661003285133\ \(0\)\
+\-\ left\\:\\ 0\\.02719565364455786\ \(0\)\
+\-\ patient\\:\\ 0\\.025930270708189977\ \(0\)\
+\-\ to\\:\\ 0\\.019930886244483446\ \(0\)\

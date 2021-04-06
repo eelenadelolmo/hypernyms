@@ -1,103 +1,101 @@
-Texto: 
-protein electrophoresis revealed a polyclonal gammopathy and bone marrow examination was suggestive of either a myeloproliferative or dysplastic syndrome. his mental status continued to deteriorate and he became unable to stand or walk without assistance.
-the patient was given radiation therapy and showed mild improvement. however, he remained unable to move his lower extremities and died 9 months after the onset of his illness.
-mri showed multiple white matter lesions. one of the lesions was biopsied about 6 months after the onset of his illness.
-intravascular lymphomatosis (ivl)
-this 52 year old man developed generalized malaise, low grade fever, subtle mental status changes, and generalized weakness over a three month period. he also developed mild anemia and enlargement of his spleen.
-the imaging findings in ivl resemble other causes of small vessel disease, vasculitis, and cerebral infarction.
-
-
-Keywords by value: 
-- ivl: 0.3074995553664365
-- his: 0.2915348352868428
-- illness: 0.19341939530827346
-- generalized: 0.1835797540316803
-- he: 0.17079284916888282
-- mental: 0.1675773655405529
-- unable: 0.1665320804239554
-- polyclonal: 0.14691612068273213
-- myeloproliferative: 0.14691612068273213
-- developed: 0.14265691965446942
-- gammopathy: 0.14206756387966432
-- lymphomatosis: 0.14206756387966432
-- and: 0.13906397131430204
-- status: 0.13418567728218206
-- electrophoresis: 0.1326358710648358
-- deteriorate: 0.1326358710648358
-- showed: 0.12807289852131615
-- resemble: 0.12662451724226545
-- assistance: 0.12355169307562429
-- onset: 0.12346924537226044
-- stand: 0.11412000026079575
-- biopsied: 0.11333595787552272
-- intravascular: 0.11333595787552272
-- of: 0.11288576015051452
-- months: 0.11192323542835995
-- lesions: 0.11042929474894989
-- move: 0.10927144345772793
-- mild: 0.10899876563024792
-- dysplastic: 0.10702092246900256
-- malaise: 0.10650230087503662
-- died: 0.10090455975893764
-- was: 0.10051787138586547
-- walk: 0.09851720008681511
-- the: 0.09591768434025866
-- remained: 0.09507740309133231
-- became: 0.09431694905409588
-- spleen: 0.0935893307989286
-- after: 0.09327877940902785
-- protein: 0.08922234595538371
-- vasculitis: 0.08922234595538371
-- 52: 0.08904014016001467
-- anemia: 0.08833039857952091
-- vessel: 0.08432805270112477
-- period: 0.08405621016391375
-- improvement: 0.0839219156532018
-- subtle: 0.08288442680886322
-- marrow: 0.07989566202804975
-- either: 0.07947949589805696
-- continued: 0.07877505244464496
-- suggestive: 0.07828931646486095
-- infarction: 0.07547380831806942
-- enlargement: 0.07370618045310022
-- matter: 0.0732030424357134
-- extremities: 0.07306200502756365
-- causes: 0.07264583889757084
-- to: 0.07210489677818528
-- about: 0.0719742810583408
-- weakness: 0.07016566280773219
-- grade: 0.06913347059194788
-- or: 0.06689121800949839
-- cerebral: 0.06660710266130702
-- given: 0.06613497453660772
-- fever: 0.06518457159754348
-- three: 0.0645370961285435
-- radiation: 0.06371076044147557
-- white: 0.0634308557792981
-- revealed: 0.06303888760309738
-- examination: 0.061520828632159484
-- month: 0.05848344900417826
-- changes: 0.058103380279119585
-- syndrome: 0.05795945223175151
-- however: 0.056904005077859844
-- therapy: 0.05523902029545571
-- low: 0.055166007017710114
-- one: 0.055045016749934395
-- over: 0.05345841025430076
-- bone: 0.05245731756389573
-- man: 0.050898036739253194
-- without: 0.050710561258675624
-- imaging: 0.05052514825646132
-- other: 0.049927366333964496
-- small: 0.0495925685329612
-- mri: 0.049350062594838734
-- lower: 0.049127960713693866
-- findings: 0.047449251089187905
-- multiple: 0.047024468555833684
-- also: 0.045221791274305916
-- disease: 0.040356415916882646
-- this: 0.03303564761555249
-- patient: 0.031269716591452675
-- year: 0.029628645548830792
-- old: 0.0284537559370583
-- in: 0.023916665541859145
+\-\ Texto\\:\\ \ \(0\)\
+\-\ protein\\ electrophoresis\\ revealed\\ a\\ polyclonal\\ gammopathy\\ and\\ bone\\ marrow\\ examination\\ was\\ suggestive\\ of\\ either\\ a\\ myeloproliferative\\ or\\ dysplastic\\ syndrome\\.\\ his\\ mental\\ status\\ continued\\ to\\ deteriorate\\ and\\ he\\ became\\ unable\\ to\\ stand\\ or\\ walk\\ without\\ assistance\\.\ \(0\)\
+\-\ the\\ patient\\ was\\ given\\ radiation\\ therapy\\ and\\ showed\\ mild\\ improvement\\.\\ however\\,\\ he\\ remained\\ unable\\ to\\ move\\ his\\ lower\\ extremities\\ and\\ died\\ 9\\ months\\ after\\ the\\ onset\\ of\\ his\\ illness\\.\ \(0\)\
+\-\ mri\\ showed\\ multiple\\ white\\ matter\\ lesions\\.\\ one\\ of\\ the\\ lesions\\ was\\ biopsied\\ about\\ 6\\ months\\ after\\ the\\ onset\\ of\\ his\\ illness\\.\ \(0\)\
+\-\ intravascular\\ lymphomatosis\\ \\(ivl\\)\ \(0\)\
+\-\ this\\ 52\\ year\\ old\\ man\\ developed\\ generalized\\ malaise\\,\\ low\\ grade\\ fever\\,\\ subtle\\ mental\\ status\\ changes\\,\\ and\\ generalized\\ weakness\\ over\\ a\\ three\\ month\\ period\\.\\ he\\ also\\ developed\\ mild\\ anemia\\ and\\ enlargement\\ of\\ his\\ spleen\\.\ \(0\)\
+\-\ the\\ imaging\\ findings\\ in\\ ivl\\ resemble\\ other\\ causes\\ of\\ small\\ vessel\\ disease\\,\\ vasculitis\\,\\ and\\ cerebral\\ infarction\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ ivl\\:\\ 0\\.3074995553664365\ \(0\)\
+\-\ his\\:\\ 0\\.2915348352868428\ \(0\)\
+\-\ illness\\:\\ 0\\.19341939530827346\ \(0\)\
+\-\ generalized\\:\\ 0\\.1835797540316803\ \(0\)\
+\-\ he\\:\\ 0\\.17079284916888282\ \(0\)\
+\-\ mental\\:\\ 0\\.1675773655405529\ \(0\)\
+\-\ unable\\:\\ 0\\.1665320804239554\ \(0\)\
+\-\ polyclonal\\:\\ 0\\.14691612068273213\ \(0\)\
+\-\ myeloproliferative\\:\\ 0\\.14691612068273213\ \(0\)\
+\-\ developed\\:\\ 0\\.14265691965446942\ \(0\)\
+\-\ gammopathy\\:\\ 0\\.14206756387966432\ \(0\)\
+\-\ lymphomatosis\\:\\ 0\\.14206756387966432\ \(0\)\
+\-\ and\\:\\ 0\\.13906397131430204\ \(0\)\
+\-\ status\\:\\ 0\\.13418567728218206\ \(0\)\
+\-\ electrophoresis\\:\\ 0\\.1326358710648358\ \(0\)\
+\-\ deteriorate\\:\\ 0\\.1326358710648358\ \(0\)\
+\-\ showed\\:\\ 0\\.12807289852131615\ \(0\)\
+\-\ resemble\\:\\ 0\\.12662451724226545\ \(0\)\
+\-\ assistance\\:\\ 0\\.12355169307562429\ \(0\)\
+\-\ onset\\:\\ 0\\.12346924537226044\ \(0\)\
+\-\ stand\\:\\ 0\\.11412000026079575\ \(0\)\
+\-\ biopsied\\:\\ 0\\.11333595787552272\ \(0\)\
+\-\ intravascular\\:\\ 0\\.11333595787552272\ \(0\)\
+\-\ of\\:\\ 0\\.11288576015051452\ \(0\)\
+\-\ months\\:\\ 0\\.11192323542835995\ \(0\)\
+\-\ lesions\\:\\ 0\\.11042929474894989\ \(0\)\
+\-\ move\\:\\ 0\\.10927144345772793\ \(0\)\
+\-\ mild\\:\\ 0\\.10899876563024792\ \(0\)\
+\-\ dysplastic\\:\\ 0\\.10702092246900256\ \(0\)\
+\-\ malaise\\:\\ 0\\.10650230087503662\ \(0\)\
+\-\ died\\:\\ 0\\.10090455975893764\ \(0\)\
+\-\ was\\:\\ 0\\.10051787138586547\ \(0\)\
+\-\ walk\\:\\ 0\\.09851720008681511\ \(0\)\
+\-\ the\\:\\ 0\\.09591768434025866\ \(0\)\
+\-\ remained\\:\\ 0\\.09507740309133231\ \(0\)\
+\-\ became\\:\\ 0\\.09431694905409588\ \(0\)\
+\-\ spleen\\:\\ 0\\.0935893307989286\ \(0\)\
+\-\ after\\:\\ 0\\.09327877940902785\ \(0\)\
+\-\ protein\\:\\ 0\\.08922234595538371\ \(0\)\
+\-\ vasculitis\\:\\ 0\\.08922234595538371\ \(0\)\
+\-\ 52\\:\\ 0\\.08904014016001467\ \(0\)\
+\-\ anemia\\:\\ 0\\.08833039857952091\ \(0\)\
+\-\ vessel\\:\\ 0\\.08432805270112477\ \(0\)\
+\-\ period\\:\\ 0\\.08405621016391375\ \(0\)\
+\-\ improvement\\:\\ 0\\.0839219156532018\ \(0\)\
+\-\ subtle\\:\\ 0\\.08288442680886322\ \(0\)\
+\-\ marrow\\:\\ 0\\.07989566202804975\ \(0\)\
+\-\ either\\:\\ 0\\.07947949589805696\ \(0\)\
+\-\ continued\\:\\ 0\\.07877505244464496\ \(0\)\
+\-\ suggestive\\:\\ 0\\.07828931646486095\ \(0\)\
+\-\ infarction\\:\\ 0\\.07547380831806942\ \(0\)\
+\-\ enlargement\\:\\ 0\\.07370618045310022\ \(0\)\
+\-\ matter\\:\\ 0\\.0732030424357134\ \(0\)\
+\-\ extremities\\:\\ 0\\.07306200502756365\ \(0\)\
+\-\ causes\\:\\ 0\\.07264583889757084\ \(0\)\
+\-\ to\\:\\ 0\\.07210489677818528\ \(0\)\
+\-\ about\\:\\ 0\\.0719742810583408\ \(0\)\
+\-\ weakness\\:\\ 0\\.07016566280773219\ \(0\)\
+\-\ grade\\:\\ 0\\.06913347059194788\ \(0\)\
+\-\ or\\:\\ 0\\.06689121800949839\ \(0\)\
+\-\ cerebral\\:\\ 0\\.06660710266130702\ \(0\)\
+\-\ given\\:\\ 0\\.06613497453660772\ \(0\)\
+\-\ fever\\:\\ 0\\.06518457159754348\ \(0\)\
+\-\ three\\:\\ 0\\.0645370961285435\ \(0\)\
+\-\ radiation\\:\\ 0\\.06371076044147557\ \(0\)\
+\-\ white\\:\\ 0\\.0634308557792981\ \(0\)\
+\-\ revealed\\:\\ 0\\.06303888760309738\ \(0\)\
+\-\ examination\\:\\ 0\\.061520828632159484\ \(0\)\
+\-\ month\\:\\ 0\\.05848344900417826\ \(0\)\
+\-\ changes\\:\\ 0\\.058103380279119585\ \(0\)\
+\-\ syndrome\\:\\ 0\\.05795945223175151\ \(0\)\
+\-\ however\\:\\ 0\\.056904005077859844\ \(0\)\
+\-\ therapy\\:\\ 0\\.05523902029545571\ \(0\)\
+\-\ low\\:\\ 0\\.055166007017710114\ \(0\)\
+\-\ one\\:\\ 0\\.055045016749934395\ \(0\)\
+\-\ over\\:\\ 0\\.05345841025430076\ \(0\)\
+\-\ bone\\:\\ 0\\.05245731756389573\ \(0\)\
+\-\ man\\:\\ 0\\.050898036739253194\ \(0\)\
+\-\ without\\:\\ 0\\.050710561258675624\ \(0\)\
+\-\ imaging\\:\\ 0\\.05052514825646132\ \(0\)\
+\-\ other\\:\\ 0\\.049927366333964496\ \(0\)\
+\-\ small\\:\\ 0\\.0495925685329612\ \(0\)\
+\-\ mri\\:\\ 0\\.049350062594838734\ \(0\)\
+\-\ lower\\:\\ 0\\.049127960713693866\ \(0\)\
+\-\ findings\\:\\ 0\\.047449251089187905\ \(0\)\
+\-\ multiple\\:\\ 0\\.047024468555833684\ \(0\)\
+\-\ also\\:\\ 0\\.045221791274305916\ \(0\)\
+\-\ disease\\:\\ 0\\.040356415916882646\ \(0\)\
+\-\ this\\:\\ 0\\.03303564761555249\ \(0\)\
+\-\ patient\\:\\ 0\\.031269716591452675\ \(0\)\
+\-\ year\\:\\ 0\\.029628645548830792\ \(0\)\
+\-\ old\\:\\ 0\\.0284537559370583\ \(0\)\
+\-\ in\\:\\ 0\\.023916665541859145\ \(0\)\

@@ -1,104 +1,102 @@
-Texto: 
-physical exam is not applicable
-surgical closure of defect postnatally.
-sagittal and axial t2w mri images demonstrate a well-defined ovoid sac immediately adjacent to the anterior abdominal wall.  the sac is in continuity with the intraperitoneal contents through a small central defect. the sac appears to be filled primarily with bowel.  no other anomalies were noted.
-omphalocele
-â€¢ omphalocele
-â€¢ gastroschisis
-30 week fetus with abnormal ultrasound.
-failure of proper closure of the abdominal wall during fetal life results in a number of abnormalities, the most common of which are omphalocele and gastroschisis.  omphalocele is a midline defect, which results from failure of the lateral abdominal folds to fuse.  the herniated abdominal contents consist of bowel, liver or both.  the contents are covered by a sac of peritoneum, as seen in this case.  patients with omphalocele typically have a worse prognosis than patients with gastroschisis given that up to 2/3 of the patients will have associated anomalies.  treatment is surgical closure postnatally.
-
-
-Keywords by value: 
-- omphalocele: 0.49017741287191763
-- gastroschisis: 0.302062819119816
-- sac: 0.26852707987340474
-- postnatally: 0.24113188424433066
-- closure: 0.23914140772679895
-- contents: 0.22618873888117186
-- defect: 0.16590901994471988
-- abdominal: 0.16493242142489173
-- the: 0.1504315148017544
-- anomalies: 0.1439577105925193
-- of: 0.1327824166298855
-- patients: 0.12723396476579013
-- results: 0.11749365428407112
-- failure: 0.11447613795891987
-- fuse: 0.09803548257438353
-- bowel: 0.09676468142114772
-- wall: 0.09172191640199023
-- peritoneum: 0.0888746425749916
-- covered: 0.08828715481478257
-- applicable: 0.08718515858684514
-- consist: 0.08568737286029827
-- is: 0.08258488475441735
-- proper: 0.08236592637448813
-- continuity: 0.0816513578424938
-- folds: 0.0813080580621291
-- intraperitoneal: 0.08001763890939162
-- fetus: 0.07884208238893224
-- herniated: 0.07750596593748786
-- t2w: 0.07606275550571483
-- to: 0.07538998271676656
-- have: 0.07532345508383909
-- ovoid: 0.07518134239713331
-- with: 0.07381208560676752
-- surgical: 0.07328455745763589
-- primarily: 0.0723177533119084
-- fetal: 0.0699654748159987
-- number: 0.06940299425045496
-- immediately: 0.06899630682609825
-- which: 0.06856168917583204
-- prognosis: 0.06634418302720979
-- worse: 0.06315691331251647
-- life: 0.06185053726265496
-- filled: 0.06066175452299066
-- sagittal: 0.057970929968959244
-- are: 0.057214588996585915
-- midline: 0.05670074707563009
-- in: 0.056264185033479484
-- appears: 0.05520860411517085
-- abnormalities: 0.054610895723072435
-- typically: 0.05292500849598711
-- liver: 0.05200790320172249
-- given: 0.05186105393049841
-- 30: 0.051430049482837276
-- week: 0.05070804352890358
-- central: 0.05034502624323971
-- adjacent: 0.048868183682610276
-- will: 0.04852339112555255
-- during: 0.04775222165720828
-- ultrasound: 0.04650230605574771
-- abnormal: 0.04529364799957176
-- through: 0.04487821318392827
-- axial: 0.04354830730187379
-- common: 0.04275509137370685
-- than: 0.042736773562822294
-- anterior: 0.042093691652334786
-- both: 0.042041487640664496
-- physical: 0.040878500467918265
-- noted: 0.03997197251501272
-- associated: 0.03973648658022536
-- most: 0.039235538204203675
-- demonstrate: 0.03919347037525062
-- other: 0.03915153602456194
-- small: 0.03888899767877286
-- were: 0.03886166302903398
-- mri: 0.03869883183046707
-- exam: 0.03795165320156964
-- case: 0.03787540511448127
-- lateral: 0.03741468673359749
-- up: 0.037292876669135305
-- treatment: 0.03591253126046179
-- seen: 0.03549327232296352
-- images: 0.03487316021975408
-- that: 0.032716682318957954
-- by: 0.032015210634203546
-- and: 0.03115707867196972
-- be: 0.030582942357136555
-- as: 0.03028706964805203
-- from: 0.029941940191713916
-- not: 0.029762405686204467
-- or: 0.026227038635564148
-- this: 0.025905559269109053
-- no: 0.02451615716586835
+\-\ Texto\\:\\ \ \(0\)\
+\-\ physical\\ exam\\ is\\ not\\ applicable\ \(0\)\
+\-\ surgical\\ closure\\ of\\ defect\\ postnatally\\.\ \(0\)\
+\-\ sagittal\\ and\\ axial\\ t2w\\ mri\\ images\\ demonstrate\\ a\\ well\\-defined\\ ovoid\\ sac\\ immediately\\ adjacent\\ to\\ the\\ anterior\\ abdominal\\ wall\\.\\ \\ the\\ sac\\ is\\ in\\ continuity\\ with\\ the\\ intraperitoneal\\ contents\\ through\\ a\\ small\\ central\\ defect\\.\\ the\\ sac\\ appears\\ to\\ be\\ filled\\ primarily\\ with\\ bowel\\.\\ \\ no\\ other\\ anomalies\\ were\\ noted\\.\ \(0\)\
+\-\ omphalocele\ \(9\)\
+\-\ \\â\\€\\¢\\ omphalocele\ \(0\)\
+\-\ \\â\\€\\¢\\ gastroschisis\ \(0\)\
+\-\ 30\\ week\\ fetus\\ with\\ abnormal\\ ultrasound\\.\ \(1\)\
+\-\ failure\\ of\\ proper\\ closure\\ of\\ the\\ abdominal\\ wall\\ during\\ fetal\\ life\\ results\\ in\\ a\\ number\\ of\\ abnormalities\\,\\ the\\ most\\ common\\ of\\ which\\ are\\ omphalocele\\ and\\ gastroschisis\\.\\ \\ omphalocele\\ is\\ a\\ midline\\ defect\\,\\ which\\ results\\ from\\ failure\\ of\\ the\\ lateral\\ abdominal\\ folds\\ to\\ fuse\\.\\ \\ the\\ herniated\\ abdominal\\ contents\\ consist\\ of\\ bowel\\,\\ liver\\ or\\ both\\.\\ \\ the\\ contents\\ are\\ covered\\ by\\ a\\ sac\\ of\\ peritoneum\\,\\ as\\ seen\\ in\\ this\\ case\\.\\ \\ patients\\ with\\ omphalocele\\ typically\\ have\\ a\\ worse\\ prognosis\\ than\\ patients\\ with\\ gastroschisis\\ given\\ that\\ up\\ to\\ 2\\/3\\ of\\ the\\ patients\\ will\\ have\\ associated\\ anomalies\\.\\ \\ treatment\\ is\\ surgical\\ closure\\ postnatally\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ omphalocele\\:\\ 0\\.49017741287191763\ \(0\)\
+\-\ gastroschisis\\:\\ 0\\.302062819119816\ \(0\)\
+\-\ sac\\:\\ 0\\.26852707987340474\ \(0\)\
+\-\ postnatally\\:\\ 0\\.24113188424433066\ \(0\)\
+\-\ closure\\:\\ 0\\.23914140772679895\ \(0\)\
+\-\ contents\\:\\ 0\\.22618873888117186\ \(0\)\
+\-\ defect\\:\\ 0\\.16590901994471988\ \(0\)\
+\-\ abdominal\\:\\ 0\\.16493242142489173\ \(0\)\
+\-\ the\\:\\ 0\\.1504315148017544\ \(0\)\
+\-\ anomalies\\:\\ 0\\.1439577105925193\ \(0\)\
+\-\ of\\:\\ 0\\.1327824166298855\ \(0\)\
+\-\ patients\\:\\ 0\\.12723396476579013\ \(0\)\
+\-\ results\\:\\ 0\\.11749365428407112\ \(0\)\
+\-\ failure\\:\\ 0\\.11447613795891987\ \(0\)\
+\-\ fuse\\:\\ 0\\.09803548257438353\ \(0\)\
+\-\ bowel\\:\\ 0\\.09676468142114772\ \(0\)\
+\-\ wall\\:\\ 0\\.09172191640199023\ \(0\)\
+\-\ peritoneum\\:\\ 0\\.0888746425749916\ \(0\)\
+\-\ covered\\:\\ 0\\.08828715481478257\ \(0\)\
+\-\ applicable\\:\\ 0\\.08718515858684514\ \(0\)\
+\-\ consist\\:\\ 0\\.08568737286029827\ \(0\)\
+\-\ is\\:\\ 0\\.08258488475441735\ \(0\)\
+\-\ proper\\:\\ 0\\.08236592637448813\ \(0\)\
+\-\ continuity\\:\\ 0\\.0816513578424938\ \(0\)\
+\-\ folds\\:\\ 0\\.0813080580621291\ \(0\)\
+\-\ intraperitoneal\\:\\ 0\\.08001763890939162\ \(0\)\
+\-\ fetus\\:\\ 0\\.07884208238893224\ \(0\)\
+\-\ herniated\\:\\ 0\\.07750596593748786\ \(0\)\
+\-\ t2w\\:\\ 0\\.07606275550571483\ \(0\)\
+\-\ to\\:\\ 0\\.07538998271676656\ \(0\)\
+\-\ have\\:\\ 0\\.07532345508383909\ \(0\)\
+\-\ ovoid\\:\\ 0\\.07518134239713331\ \(0\)\
+\-\ with\\:\\ 0\\.07381208560676752\ \(0\)\
+\-\ surgical\\:\\ 0\\.07328455745763589\ \(0\)\
+\-\ primarily\\:\\ 0\\.0723177533119084\ \(0\)\
+\-\ fetal\\:\\ 0\\.0699654748159987\ \(0\)\
+\-\ number\\:\\ 0\\.06940299425045496\ \(0\)\
+\-\ immediately\\:\\ 0\\.06899630682609825\ \(0\)\
+\-\ which\\:\\ 0\\.06856168917583204\ \(0\)\
+\-\ prognosis\\:\\ 0\\.06634418302720979\ \(0\)\
+\-\ worse\\:\\ 0\\.06315691331251647\ \(0\)\
+\-\ life\\:\\ 0\\.06185053726265496\ \(0\)\
+\-\ filled\\:\\ 0\\.06066175452299066\ \(0\)\
+\-\ sagittal\\:\\ 0\\.057970929968959244\ \(0\)\
+\-\ are\\:\\ 0\\.057214588996585915\ \(0\)\
+\-\ midline\\:\\ 0\\.05670074707563009\ \(0\)\
+\-\ in\\:\\ 0\\.056264185033479484\ \(0\)\
+\-\ appears\\:\\ 0\\.05520860411517085\ \(0\)\
+\-\ abnormalities\\:\\ 0\\.054610895723072435\ \(0\)\
+\-\ typically\\:\\ 0\\.05292500849598711\ \(0\)\
+\-\ liver\\:\\ 0\\.05200790320172249\ \(0\)\
+\-\ given\\:\\ 0\\.05186105393049841\ \(0\)\
+\-\ 30\\:\\ 0\\.051430049482837276\ \(0\)\
+\-\ week\\:\\ 0\\.05070804352890358\ \(0\)\
+\-\ central\\:\\ 0\\.05034502624323971\ \(0\)\
+\-\ adjacent\\:\\ 0\\.048868183682610276\ \(0\)\
+\-\ will\\:\\ 0\\.04852339112555255\ \(0\)\
+\-\ during\\:\\ 0\\.04775222165720828\ \(0\)\
+\-\ ultrasound\\:\\ 0\\.04650230605574771\ \(0\)\
+\-\ abnormal\\:\\ 0\\.04529364799957176\ \(0\)\
+\-\ through\\:\\ 0\\.04487821318392827\ \(0\)\
+\-\ axial\\:\\ 0\\.04354830730187379\ \(0\)\
+\-\ common\\:\\ 0\\.04275509137370685\ \(0\)\
+\-\ than\\:\\ 0\\.042736773562822294\ \(0\)\
+\-\ anterior\\:\\ 0\\.042093691652334786\ \(0\)\
+\-\ both\\:\\ 0\\.042041487640664496\ \(0\)\
+\-\ physical\\:\\ 0\\.040878500467918265\ \(0\)\
+\-\ noted\\:\\ 0\\.03997197251501272\ \(0\)\
+\-\ associated\\:\\ 0\\.03973648658022536\ \(0\)\
+\-\ most\\:\\ 0\\.039235538204203675\ \(0\)\
+\-\ demonstrate\\:\\ 0\\.03919347037525062\ \(0\)\
+\-\ other\\:\\ 0\\.03915153602456194\ \(0\)\
+\-\ small\\:\\ 0\\.03888899767877286\ \(0\)\
+\-\ were\\:\\ 0\\.03886166302903398\ \(0\)\
+\-\ mri\\:\\ 0\\.03869883183046707\ \(0\)\
+\-\ exam\\:\\ 0\\.03795165320156964\ \(0\)\
+\-\ case\\:\\ 0\\.03787540511448127\ \(0\)\
+\-\ lateral\\:\\ 0\\.03741468673359749\ \(0\)\
+\-\ up\\:\\ 0\\.037292876669135305\ \(0\)\
+\-\ treatment\\:\\ 0\\.03591253126046179\ \(0\)\
+\-\ seen\\:\\ 0\\.03549327232296352\ \(0\)\
+\-\ images\\:\\ 0\\.03487316021975408\ \(0\)\
+\-\ that\\:\\ 0\\.032716682318957954\ \(0\)\
+\-\ by\\:\\ 0\\.032015210634203546\ \(0\)\
+\-\ and\\:\\ 0\\.03115707867196972\ \(0\)\
+\-\ be\\:\\ 0\\.030582942357136555\ \(0\)\
+\-\ as\\:\\ 0\\.03028706964805203\ \(0\)\
+\-\ from\\:\\ 0\\.029941940191713916\ \(0\)\
+\-\ not\\:\\ 0\\.029762405686204467\ \(0\)\
+\-\ or\\:\\ 0\\.026227038635564148\ \(0\)\
+\-\ this\\:\\ 0\\.025905559269109053\ \(0\)\
+\-\ no\\:\\ 0\\.02451615716586835\ \(0\)\

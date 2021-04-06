@@ -1,103 +1,101 @@
-Texto: 
-a sonographic murphy's sign was obtained during the ultrasound examination.
-the patient underwent a cholecystectomy shortly after these images were obtained. there were multiple stones within the gall bladder with slight thickening of the gall bladder wall. a one cm diameter stone was found lodged in the cystic duct.
-this gall bladder displays the "wall-echo-shadow" sign which consists of a thickened wall (here measured as 3.7 mm thick) followed by multiple echoes (from gallstones) with a posterior shadow (due to the gallstones filling the gall bladder).
-cholelithiasis
-cholelithiasis within the gall bladder is the most likely reason for the "wall-echo-shadow" sign, although a calcified gall bladder wall from cholangiocarcinoma could produce a similar finding.
-29 year old caucasian man complaining of the acute onset of right abdominal pain.
-the ultasound findings in combination with the clinical presentation were highly suggestive of acute cholecystitis requiring surgical intervention.
-
-
-Keywords by value: 
-- gall: 0.533428147677396
-- bladder: 0.3621674854992851
-- shadow: 0.23835871649637952
-- wall: 0.23658744866494447
-- the: 0.2172928501915545
-- gallstones: 0.168489165423193
-- sign: 0.16155435010554106
-- cholelithiasis: 0.15603240964307155
-- were: 0.12028769656256044
-- ultasound: 0.11886614333431467
-- obtained: 0.11004078738129204
-- lodged: 0.09996257177276904
-- displays: 0.09233162600042805
-- echoes: 0.09051078599199623
-- reason: 0.08658794045782495
-- cholangiocarcinoma: 0.08658794045782495
-- murphy: 0.08498184574539472
-- acute: 0.08415737807578838
-- shortly: 0.07970779225585083
-- produce: 0.07801620482153578
-- requiring: 0.07756908133924441
-- consists: 0.0773508999730537
-- measured: 0.07671655097094998
-- of: 0.0761108611050653
-- multiple: 0.07609263290648101
-- cholecystectomy: 0.0755300599646219
-- cholecystitis: 0.07497340943184812
-- here: 0.07409335928736449
-- thick: 0.07392396525219165
-- stones: 0.07342805443888242
-- combination: 0.07218755922543887
-- within: 0.07165070718637778
-- stone: 0.07105056389767683
-- complaining: 0.07038525904919476
-- sonographic: 0.07000111971802037
-- highly: 0.06962750608746389
-- caucasian: 0.06914476383575122
-- slight: 0.0681172955584716
-- 29: 0.06779131881295115
-- duct: 0.06695832432833272
-- thickened: 0.06561283499098206
-- intervention: 0.06534101115005088
-- suggestive: 0.06334191965600589
-- calcified: 0.06266186516360496
-- diameter: 0.06251523961672995
-- from: 0.06178577610166239
-- filling: 0.06023728268878889
-- similar: 0.059284158093584935
-- could: 0.05657922303695461
-- mm: 0.055666772728354415
-- was: 0.054217656770354346
-- underwent: 0.053583693013388625
-- presentation: 0.053545867623049644
-- although: 0.05295451015814475
-- thickening: 0.05291838816490655
-- followed: 0.05252723621106616
-- finding: 0.051129149664183894
-- found: 0.050330414257558596
-- onset: 0.049947932703357054
-- examination: 0.04977495730388957
-- clinical: 0.04929645050631048
-- during: 0.04926881920106359
-- ultrasound: 0.047979206620794176
-- cystic: 0.04684723470236266
-- likely: 0.04648236893549019
-- with: 0.04569380239586362
-- due: 0.044712252027604066
-- cm: 0.04467278443283442
-- one: 0.04453554055492079
-- these: 0.04392515414811986
-- abdominal: 0.04254265754329558
-- man: 0.041180323182834905
-- most: 0.04048164820301153
-- posterior: 0.04022327331460686
-- in: 0.03870074680935451
-- findings: 0.038389997332241084
-- surgical: 0.03780602751354068
-- after: 0.03773475882618585
-- images: 0.03598072228284331
-- which: 0.03536959486798746
-- by: 0.03303200499745626
-- as: 0.031248978724629554
-- there: 0.0309503938586662
-- pain: 0.02783432098710645
-- this: 0.026728312770333815
-- right: 0.02578893238950989
-- patient: 0.025299542331435113
-- year: 0.023971792967596828
-- for: 0.023576024156052464
-- old: 0.023021219290957674
-- is: 0.02130193954594707
-- to: 0.019446087004639862
+\-\ Texto\\:\\ \ \(0\)\
+\-\ a\\ sonographic\\ murphy\\'s\\ sign\\ was\\ obtained\\ during\\ the\\ ultrasound\\ examination\\.\ \(0\)\
+\-\ the\\ patient\\ underwent\\ a\\ cholecystectomy\\ shortly\\ after\\ these\\ images\\ were\\ obtained\\.\\ there\\ were\\ multiple\\ stones\\ within\\ the\\ gall\\ bladder\\ with\\ slight\\ thickening\\ of\\ the\\ gall\\ bladder\\ wall\\.\\ a\\ one\\ cm\\ diameter\\ stone\\ was\\ found\\ lodged\\ in\\ the\\ cystic\\ duct\\.\ \(0\)\
+\-\ this\\ gall\\ bladder\\ displays\\ the\\ \\"wall\\-echo\\-shadow\\"\\ sign\\ which\\ consists\\ of\\ a\\ thickened\\ wall\\ \\(here\\ measured\\ as\\ 3\\.7\\ mm\\ thick\\)\\ followed\\ by\\ multiple\\ echoes\\ \\(from\\ gallstones\\)\\ with\\ a\\ posterior\\ shadow\\ \\(due\\ to\\ the\\ gallstones\\ filling\\ the\\ gall\\ bladder\\)\\.\ \(0\)\
+\-\ cholelithiasis\ \(35\)\
+\-\ cholelithiasis\\ within\\ the\\ gall\\ bladder\\ is\\ the\\ most\\ likely\\ reason\\ for\\ the\\ \\"wall\\-echo\\-shadow\\"\\ sign\\,\\ although\\ a\\ calcified\\ gall\\ bladder\\ wall\\ from\\ cholangiocarcinoma\\ could\\ produce\\ a\\ similar\\ finding\\.\ \(0\)\
+\-\ 29\\ year\\ old\\ caucasian\\ man\\ complaining\\ of\\ the\\ acute\\ onset\\ of\\ right\\ abdominal\\ pain\\.\ \(0\)\
+\-\ the\\ ultasound\\ findings\\ in\\ combination\\ with\\ the\\ clinical\\ presentation\\ were\\ highly\\ suggestive\\ of\\ acute\\ cholecystitis\\ requiring\\ surgical\\ intervention\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ gall\\:\\ 0\\.533428147677396\ \(0\)\
+\-\ bladder\\:\\ 0\\.3621674854992851\ \(0\)\
+\-\ shadow\\:\\ 0\\.23835871649637952\ \(0\)\
+\-\ wall\\:\\ 0\\.23658744866494447\ \(0\)\
+\-\ the\\:\\ 0\\.2172928501915545\ \(0\)\
+\-\ gallstones\\:\\ 0\\.168489165423193\ \(0\)\
+\-\ sign\\:\\ 0\\.16155435010554106\ \(0\)\
+\-\ cholelithiasis\\:\\ 0\\.15603240964307155\ \(0\)\
+\-\ were\\:\\ 0\\.12028769656256044\ \(0\)\
+\-\ ultasound\\:\\ 0\\.11886614333431467\ \(0\)\
+\-\ obtained\\:\\ 0\\.11004078738129204\ \(0\)\
+\-\ lodged\\:\\ 0\\.09996257177276904\ \(0\)\
+\-\ displays\\:\\ 0\\.09233162600042805\ \(0\)\
+\-\ echoes\\:\\ 0\\.09051078599199623\ \(0\)\
+\-\ reason\\:\\ 0\\.08658794045782495\ \(0\)\
+\-\ cholangiocarcinoma\\:\\ 0\\.08658794045782495\ \(0\)\
+\-\ murphy\\:\\ 0\\.08498184574539472\ \(0\)\
+\-\ acute\\:\\ 0\\.08415737807578838\ \(0\)\
+\-\ shortly\\:\\ 0\\.07970779225585083\ \(0\)\
+\-\ produce\\:\\ 0\\.07801620482153578\ \(0\)\
+\-\ requiring\\:\\ 0\\.07756908133924441\ \(0\)\
+\-\ consists\\:\\ 0\\.0773508999730537\ \(0\)\
+\-\ measured\\:\\ 0\\.07671655097094998\ \(0\)\
+\-\ of\\:\\ 0\\.0761108611050653\ \(0\)\
+\-\ multiple\\:\\ 0\\.07609263290648101\ \(0\)\
+\-\ cholecystectomy\\:\\ 0\\.0755300599646219\ \(0\)\
+\-\ cholecystitis\\:\\ 0\\.07497340943184812\ \(0\)\
+\-\ here\\:\\ 0\\.07409335928736449\ \(0\)\
+\-\ thick\\:\\ 0\\.07392396525219165\ \(0\)\
+\-\ stones\\:\\ 0\\.07342805443888242\ \(0\)\
+\-\ combination\\:\\ 0\\.07218755922543887\ \(0\)\
+\-\ within\\:\\ 0\\.07165070718637778\ \(0\)\
+\-\ stone\\:\\ 0\\.07105056389767683\ \(0\)\
+\-\ complaining\\:\\ 0\\.07038525904919476\ \(0\)\
+\-\ sonographic\\:\\ 0\\.07000111971802037\ \(0\)\
+\-\ highly\\:\\ 0\\.06962750608746389\ \(0\)\
+\-\ caucasian\\:\\ 0\\.06914476383575122\ \(0\)\
+\-\ slight\\:\\ 0\\.0681172955584716\ \(0\)\
+\-\ 29\\:\\ 0\\.06779131881295115\ \(0\)\
+\-\ duct\\:\\ 0\\.06695832432833272\ \(0\)\
+\-\ thickened\\:\\ 0\\.06561283499098206\ \(0\)\
+\-\ intervention\\:\\ 0\\.06534101115005088\ \(0\)\
+\-\ suggestive\\:\\ 0\\.06334191965600589\ \(0\)\
+\-\ calcified\\:\\ 0\\.06266186516360496\ \(0\)\
+\-\ diameter\\:\\ 0\\.06251523961672995\ \(0\)\
+\-\ from\\:\\ 0\\.06178577610166239\ \(0\)\
+\-\ filling\\:\\ 0\\.06023728268878889\ \(0\)\
+\-\ similar\\:\\ 0\\.059284158093584935\ \(0\)\
+\-\ could\\:\\ 0\\.05657922303695461\ \(0\)\
+\-\ mm\\:\\ 0\\.055666772728354415\ \(0\)\
+\-\ was\\:\\ 0\\.054217656770354346\ \(0\)\
+\-\ underwent\\:\\ 0\\.053583693013388625\ \(0\)\
+\-\ presentation\\:\\ 0\\.053545867623049644\ \(0\)\
+\-\ although\\:\\ 0\\.05295451015814475\ \(0\)\
+\-\ thickening\\:\\ 0\\.05291838816490655\ \(0\)\
+\-\ followed\\:\\ 0\\.05252723621106616\ \(0\)\
+\-\ finding\\:\\ 0\\.051129149664183894\ \(0\)\
+\-\ found\\:\\ 0\\.050330414257558596\ \(0\)\
+\-\ onset\\:\\ 0\\.049947932703357054\ \(0\)\
+\-\ examination\\:\\ 0\\.04977495730388957\ \(0\)\
+\-\ clinical\\:\\ 0\\.04929645050631048\ \(0\)\
+\-\ during\\:\\ 0\\.04926881920106359\ \(0\)\
+\-\ ultrasound\\:\\ 0\\.047979206620794176\ \(0\)\
+\-\ cystic\\:\\ 0\\.04684723470236266\ \(0\)\
+\-\ likely\\:\\ 0\\.04648236893549019\ \(0\)\
+\-\ with\\:\\ 0\\.04569380239586362\ \(0\)\
+\-\ due\\:\\ 0\\.044712252027604066\ \(0\)\
+\-\ cm\\:\\ 0\\.04467278443283442\ \(0\)\
+\-\ one\\:\\ 0\\.04453554055492079\ \(0\)\
+\-\ these\\:\\ 0\\.04392515414811986\ \(0\)\
+\-\ abdominal\\:\\ 0\\.04254265754329558\ \(0\)\
+\-\ man\\:\\ 0\\.041180323182834905\ \(0\)\
+\-\ most\\:\\ 0\\.04048164820301153\ \(0\)\
+\-\ posterior\\:\\ 0\\.04022327331460686\ \(0\)\
+\-\ in\\:\\ 0\\.03870074680935451\ \(0\)\
+\-\ findings\\:\\ 0\\.038389997332241084\ \(0\)\
+\-\ surgical\\:\\ 0\\.03780602751354068\ \(0\)\
+\-\ after\\:\\ 0\\.03773475882618585\ \(0\)\
+\-\ images\\:\\ 0\\.03598072228284331\ \(0\)\
+\-\ which\\:\\ 0\\.03536959486798746\ \(0\)\
+\-\ by\\:\\ 0\\.03303200499745626\ \(0\)\
+\-\ as\\:\\ 0\\.031248978724629554\ \(0\)\
+\-\ there\\:\\ 0\\.0309503938586662\ \(0\)\
+\-\ pain\\:\\ 0\\.02783432098710645\ \(0\)\
+\-\ this\\:\\ 0\\.026728312770333815\ \(0\)\
+\-\ right\\:\\ 0\\.02578893238950989\ \(0\)\
+\-\ patient\\:\\ 0\\.025299542331435113\ \(0\)\
+\-\ year\\:\\ 0\\.023971792967596828\ \(0\)\
+\-\ for\\:\\ 0\\.023576024156052464\ \(0\)\
+\-\ old\\:\\ 0\\.023021219290957674\ \(0\)\
+\-\ is\\:\\ 0\\.02130193954594707\ \(0\)\
+\-\ to\\:\\ 0\\.019446087004639862\ \(0\)\

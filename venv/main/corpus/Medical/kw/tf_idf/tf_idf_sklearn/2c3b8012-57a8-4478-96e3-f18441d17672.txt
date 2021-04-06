@@ -1,72 +1,69 @@
-Texto: 
-plain film: abdominal mass inferiorly displacing small and large intestine, crowding lungs.  lul opacity also noted.  
-
-ct: punctuate calcifications in retroperitoneal mass, intraparenchymal hemorrhage, vascular encasement, retroperitoneal adenopathy, diffuse infiltration of the liver
-neuroblastoma
-wilms tumor, ganglioneuroma, ganglioneuroblastoma,
-enlarging abdominal mass.  initially diagnosed as a hernia by ultrasound, due to enlarging abdomen with prominent displaced bowel.
-delayed presentation and stage iv disease make this an unfortunately unusual case.
-
-
-Keywords by value: 
-- retroperitoneal: 0.28445982303037765
-- enlarging: 0.27560510854676296
-- punctuate: 0.20357919493144344
-- ganglioneuroblastoma: 0.20357919493144344
-- crowding: 0.19707805504984843
-- lul: 0.18564848235684928
-- intestine: 0.1838637368034892
-- encasement: 0.1838637368034892
-- ganglioneuroma: 0.1764218186962419
-- displacing: 0.17170542436800698
-- intraparenchymal: 0.17170542436800698
-- mass: 0.1690960932843338
-- wilms: 0.1619453696431431
-- abdominal: 0.16141291862961651
-- unfortunately: 0.1522064407259956
-- infiltration: 0.14553677549194685
-- make: 0.1432859173260659
-- inferiorly: 0.14154912090619495
-- neuroblastoma: 0.13557592894310025
-- unusual: 0.13232245724558758
-- opacity: 0.12840208111157134
-- adenopathy: 0.1241273142543123
-- displaced: 0.12328461595700094
-- hernia: 0.12214913681138513
-- stage: 0.11751221581788894
-- prominent: 0.11621851874718252
-- initially: 0.1157186278272146
-- delayed: 0.11547225882108975
-- film: 0.11027005584698123
-- lungs: 0.10890309746955995
-- calcifications: 0.1076953695222217
-- diagnosed: 0.10689110111262103
-- iv: 0.10543694855841787
-- liver: 0.10179620689579788
-- presentation: 0.10158033457119561
-- hemorrhage: 0.09879754779124433
-- vascular: 0.09741923608903648
-- plain: 0.097358297191336
-- bowel: 0.0946998141027428
-- diffuse: 0.09254065596238296
-- ultrasound: 0.09101998113674824
-- abdomen: 0.09003840077312429
-- due: 0.08482233498146767
-- noted: 0.07823801641048696
-- tumor: 0.0771843359670537
-- small: 0.07611828606748085
-- case: 0.0741343591634781
-- large: 0.07393669974824144
-- also: 0.06940969880222478
-- by: 0.06266407228322934
-- disease: 0.061941966352838315
-- and: 0.06098443181719036
-- as: 0.059281544118441463
-- an: 0.05642783378981688
-- ct: 0.05617885640959239
-- this: 0.0507055179840867
-- to: 0.0368906156855619
-- in: 0.03670904015156066
-- the: 0.02944428954386398
-- with: 0.028894802040732907
-- of: 0.028877547712855615
+\-\ Texto\\:\\ \ \(0\)\
+\-\ plain\\ film\\:\\ abdominal\\ mass\\ inferiorly\\ displacing\\ small\\ and\\ large\\ intestine\\,\\ crowding\\ lungs\\.\\ \\ lul\\ opacity\\ also\\ noted\\.\\ \\ \ \(0\)\
+\-\ ct\\:\\ punctuate\\ calcifications\\ in\\ retroperitoneal\\ mass\\,\\ intraparenchymal\\ hemorrhage\\,\\ vascular\\ encasement\\,\\ retroperitoneal\\ adenopathy\\,\\ diffuse\\ infiltration\\ of\\ the\\ liver\ \(0\)\
+\-\ neuroblastoma\ \(81\)\
+\-\ wilms\\ tumor\\,\\ ganglioneuroma\\,\\ ganglioneuroblastoma\\,\ \(0\)\
+\-\ enlarging\\ abdominal\\ mass\\.\\ \\ initially\\ diagnosed\\ as\\ a\\ hernia\\ by\\ ultrasound\\,\\ due\\ to\\ enlarging\\ abdomen\\ with\\ prominent\\ displaced\\ bowel\\.\ \(0\)\
+\-\ delayed\\ presentation\\ and\\ stage\\ iv\\ disease\\ make\\ this\\ an\\ unfortunately\\ unusual\\ case\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ retroperitoneal\\:\\ 0\\.28445982303037765\ \(0\)\
+\-\ enlarging\\:\\ 0\\.27560510854676296\ \(0\)\
+\-\ punctuate\\:\\ 0\\.20357919493144344\ \(0\)\
+\-\ ganglioneuroblastoma\\:\\ 0\\.20357919493144344\ \(0\)\
+\-\ crowding\\:\\ 0\\.19707805504984843\ \(0\)\
+\-\ lul\\:\\ 0\\.18564848235684928\ \(0\)\
+\-\ intestine\\:\\ 0\\.1838637368034892\ \(0\)\
+\-\ encasement\\:\\ 0\\.1838637368034892\ \(0\)\
+\-\ ganglioneuroma\\:\\ 0\\.1764218186962419\ \(0\)\
+\-\ displacing\\:\\ 0\\.17170542436800698\ \(0\)\
+\-\ intraparenchymal\\:\\ 0\\.17170542436800698\ \(0\)\
+\-\ mass\\:\\ 0\\.1690960932843338\ \(0\)\
+\-\ wilms\\:\\ 0\\.1619453696431431\ \(0\)\
+\-\ abdominal\\:\\ 0\\.16141291862961651\ \(0\)\
+\-\ unfortunately\\:\\ 0\\.1522064407259956\ \(0\)\
+\-\ infiltration\\:\\ 0\\.14553677549194685\ \(0\)\
+\-\ make\\:\\ 0\\.1432859173260659\ \(0\)\
+\-\ inferiorly\\:\\ 0\\.14154912090619495\ \(0\)\
+\-\ neuroblastoma\\:\\ 0\\.13557592894310025\ \(0\)\
+\-\ unusual\\:\\ 0\\.13232245724558758\ \(0\)\
+\-\ opacity\\:\\ 0\\.12840208111157134\ \(0\)\
+\-\ adenopathy\\:\\ 0\\.1241273142543123\ \(0\)\
+\-\ displaced\\:\\ 0\\.12328461595700094\ \(0\)\
+\-\ hernia\\:\\ 0\\.12214913681138513\ \(0\)\
+\-\ stage\\:\\ 0\\.11751221581788894\ \(0\)\
+\-\ prominent\\:\\ 0\\.11621851874718252\ \(0\)\
+\-\ initially\\:\\ 0\\.1157186278272146\ \(0\)\
+\-\ delayed\\:\\ 0\\.11547225882108975\ \(0\)\
+\-\ film\\:\\ 0\\.11027005584698123\ \(0\)\
+\-\ lungs\\:\\ 0\\.10890309746955995\ \(0\)\
+\-\ calcifications\\:\\ 0\\.1076953695222217\ \(0\)\
+\-\ diagnosed\\:\\ 0\\.10689110111262103\ \(0\)\
+\-\ iv\\:\\ 0\\.10543694855841787\ \(0\)\
+\-\ liver\\:\\ 0\\.10179620689579788\ \(0\)\
+\-\ presentation\\:\\ 0\\.10158033457119561\ \(0\)\
+\-\ hemorrhage\\:\\ 0\\.09879754779124433\ \(0\)\
+\-\ vascular\\:\\ 0\\.09741923608903648\ \(0\)\
+\-\ plain\\:\\ 0\\.097358297191336\ \(0\)\
+\-\ bowel\\:\\ 0\\.0946998141027428\ \(0\)\
+\-\ diffuse\\:\\ 0\\.09254065596238296\ \(0\)\
+\-\ ultrasound\\:\\ 0\\.09101998113674824\ \(0\)\
+\-\ abdomen\\:\\ 0\\.09003840077312429\ \(0\)\
+\-\ due\\:\\ 0\\.08482233498146767\ \(0\)\
+\-\ noted\\:\\ 0\\.07823801641048696\ \(0\)\
+\-\ tumor\\:\\ 0\\.0771843359670537\ \(0\)\
+\-\ small\\:\\ 0\\.07611828606748085\ \(0\)\
+\-\ case\\:\\ 0\\.0741343591634781\ \(0\)\
+\-\ large\\:\\ 0\\.07393669974824144\ \(0\)\
+\-\ also\\:\\ 0\\.06940969880222478\ \(0\)\
+\-\ by\\:\\ 0\\.06266407228322934\ \(0\)\
+\-\ disease\\:\\ 0\\.061941966352838315\ \(0\)\
+\-\ and\\:\\ 0\\.06098443181719036\ \(0\)\
+\-\ as\\:\\ 0\\.059281544118441463\ \(0\)\
+\-\ an\\:\\ 0\\.05642783378981688\ \(0\)\
+\-\ ct\\:\\ 0\\.05617885640959239\ \(0\)\
+\-\ this\\:\\ 0\\.0507055179840867\ \(0\)\
+\-\ to\\:\\ 0\\.0368906156855619\ \(0\)\
+\-\ in\\:\\ 0\\.03670904015156066\ \(0\)\
+\-\ the\\:\\ 0\\.02944428954386398\ \(0\)\
+\-\ with\\:\\ 0\\.028894802040732907\ \(0\)\
+\-\ of\\:\\ 0\\.028877547712855615\ \(0\)\

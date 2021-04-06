@@ -1,62 +1,60 @@
-Texto: 
-pain over medial wrist
-patient referred to orthopedic surgery
-four view wrist radiographs (pa, oblique, lateral, and dedicated navicular view) demonstrate widening of the scapholunate (sl) interval from sl ligament tear and near 90-degree sl angle.  the lunate bone is also subluxed ventrally with the long axis vector of the lunate pointing dorsally.
-dorsal intercalated segment instability (disi) with scapholunate dissociation
-disi
-injured wrist several months ago
-
-
-Keywords by value: 
-- sl: 0.4472748000681996
-- disi: 0.31845712020155476
-- wrist: 0.29321795857828203
-- scapholunate: 0.2587624932444925
-- lunate: 0.24316320910809824
-- vector: 0.18102971570721393
-- ventrally: 0.1672747179728719
-- view: 0.16579139567348997
-- subluxed: 0.16284659775707522
-- intercalated: 0.15922856010077738
-- pointing: 0.14104544215063863
-- dorsally: 0.14104544215063863
-- dedicated: 0.13856167132095035
-- dissociation: 0.13856167132095035
-- navicular: 0.13090848207259445
-- injured: 0.11924428654420205
-- axis: 0.1093736964658273
-- instability: 0.10662355563646957
-- widening: 0.10441636443400952
-- dorsal: 0.10441636443400952
-- interval: 0.10243028155824234
-- orthopedic: 0.10045320039141553
-- angle: 0.09929044214997808
-- oblique: 0.09803999599073925
-- ligament: 0.09729667811792425
-- tear: 0.09382509328146764
-- segment: 0.09346096807417145
-- near: 0.09218024842772067
-- four: 0.09173429107551799
-- the: 0.09034914463778938
-- pa: 0.08687001556601319
-- referred: 0.08376176693176268
-- ago: 0.08282520303075
-- long: 0.07506253950889316
-- several: 0.07426959608996057
-- medial: 0.07368391119232909
-- radiographs: 0.07341931704545235
-- months: 0.06589092939169533
-- over: 0.06294357596038319
-- bone: 0.06176485864533128
-- surgery: 0.060860526935629565
-- demonstrate: 0.05884898068827287
-- lateral: 0.0561781377347394
-- also: 0.053245527515661056
-- and: 0.04678234163789636
-- from: 0.04495781167733162
-- with: 0.044331527255384355
-- of: 0.04430505499558181
-- pain: 0.04050673925486427
-- patient: 0.03681792578886895
-- is: 0.031000293170803897
-- to: 0.028299507510502316
+\-\ Texto\\:\\ \ \(0\)\
+\-\ pain\\ over\\ medial\\ wrist\ \(0\)\
+\-\ patient\\ referred\\ to\\ orthopedic\\ surgery\ \(0\)\
+\-\ four\\ view\\ wrist\\ radiographs\\ \\(pa\\,\\ oblique\\,\\ lateral\\,\\ and\\ dedicated\\ navicular\\ view\\)\\ demonstrate\\ widening\\ of\\ the\\ scapholunate\\ \\(sl\\)\\ interval\\ from\\ sl\\ ligament\\ tear\\ and\\ near\\ 90\\-degree\\ sl\\ angle\\.\\ \\ the\\ lunate\\ bone\\ is\\ also\\ subluxed\\ ventrally\\ with\\ the\\ long\\ axis\\ vector\\ of\\ the\\ lunate\\ pointing\\ dorsally\\.\ \(0\)\
+\-\ dorsal\\ intercalated\\ segment\\ instability\\ \\(disi\\)\\ with\\ scapholunate\\ dissociation\ \(0\)\
+\-\ disi\ \(2\)\
+\-\ injured\\ wrist\\ several\\ months\\ ago\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ sl\\:\\ 0\\.4472748000681996\ \(0\)\
+\-\ disi\\:\\ 0\\.31845712020155476\ \(0\)\
+\-\ wrist\\:\\ 0\\.29321795857828203\ \(0\)\
+\-\ scapholunate\\:\\ 0\\.2587624932444925\ \(0\)\
+\-\ lunate\\:\\ 0\\.24316320910809824\ \(0\)\
+\-\ vector\\:\\ 0\\.18102971570721393\ \(0\)\
+\-\ ventrally\\:\\ 0\\.1672747179728719\ \(0\)\
+\-\ view\\:\\ 0\\.16579139567348997\ \(0\)\
+\-\ subluxed\\:\\ 0\\.16284659775707522\ \(0\)\
+\-\ intercalated\\:\\ 0\\.15922856010077738\ \(0\)\
+\-\ pointing\\:\\ 0\\.14104544215063863\ \(0\)\
+\-\ dorsally\\:\\ 0\\.14104544215063863\ \(0\)\
+\-\ dedicated\\:\\ 0\\.13856167132095035\ \(0\)\
+\-\ dissociation\\:\\ 0\\.13856167132095035\ \(0\)\
+\-\ navicular\\:\\ 0\\.13090848207259445\ \(0\)\
+\-\ injured\\:\\ 0\\.11924428654420205\ \(0\)\
+\-\ axis\\:\\ 0\\.1093736964658273\ \(0\)\
+\-\ instability\\:\\ 0\\.10662355563646957\ \(0\)\
+\-\ widening\\:\\ 0\\.10441636443400952\ \(0\)\
+\-\ dorsal\\:\\ 0\\.10441636443400952\ \(0\)\
+\-\ interval\\:\\ 0\\.10243028155824234\ \(0\)\
+\-\ orthopedic\\:\\ 0\\.10045320039141553\ \(0\)\
+\-\ angle\\:\\ 0\\.09929044214997808\ \(0\)\
+\-\ oblique\\:\\ 0\\.09803999599073925\ \(0\)\
+\-\ ligament\\:\\ 0\\.09729667811792425\ \(0\)\
+\-\ tear\\:\\ 0\\.09382509328146764\ \(0\)\
+\-\ segment\\:\\ 0\\.09346096807417145\ \(0\)\
+\-\ near\\:\\ 0\\.09218024842772067\ \(0\)\
+\-\ four\\:\\ 0\\.09173429107551799\ \(0\)\
+\-\ the\\:\\ 0\\.09034914463778938\ \(0\)\
+\-\ pa\\:\\ 0\\.08687001556601319\ \(0\)\
+\-\ referred\\:\\ 0\\.08376176693176268\ \(0\)\
+\-\ ago\\:\\ 0\\.08282520303075\ \(0\)\
+\-\ long\\:\\ 0\\.07506253950889316\ \(0\)\
+\-\ several\\:\\ 0\\.07426959608996057\ \(0\)\
+\-\ medial\\:\\ 0\\.07368391119232909\ \(0\)\
+\-\ radiographs\\:\\ 0\\.07341931704545235\ \(0\)\
+\-\ months\\:\\ 0\\.06589092939169533\ \(0\)\
+\-\ over\\:\\ 0\\.06294357596038319\ \(0\)\
+\-\ bone\\:\\ 0\\.06176485864533128\ \(0\)\
+\-\ surgery\\:\\ 0\\.060860526935629565\ \(0\)\
+\-\ demonstrate\\:\\ 0\\.05884898068827287\ \(0\)\
+\-\ lateral\\:\\ 0\\.0561781377347394\ \(0\)\
+\-\ also\\:\\ 0\\.053245527515661056\ \(0\)\
+\-\ and\\:\\ 0\\.04678234163789636\ \(0\)\
+\-\ from\\:\\ 0\\.04495781167733162\ \(0\)\
+\-\ with\\:\\ 0\\.044331527255384355\ \(0\)\
+\-\ of\\:\\ 0\\.04430505499558181\ \(0\)\
+\-\ pain\\:\\ 0\\.04050673925486427\ \(0\)\
+\-\ patient\\:\\ 0\\.03681792578886895\ \(0\)\
+\-\ is\\:\\ 0\\.031000293170803897\ \(0\)\
+\-\ to\\:\\ 0\\.028299507510502316\ \(0\)\

@@ -1,78 +1,75 @@
-Texto: 
-no abnormal findings
-resection and re-imaging to insure no recurrence or residual tumor
-6 cm extra axial left parietal mass with vasogenic edema
-meningioma
-â€¢ meninigioma if extra-axial
-â€¢ astrocytoma, oligo-dendroglioma if intra-axial
-26 y.o. man complains of headache
-this extra axial mass demonstrates a large number of arterial feeders, typical for meningioma.
-
-angiographically, a large stain of contrast is seen with a central focus.  this capillary tumor blush arrives early in the arterial phase and stays late into the venous phase.  previously coined the "mother-in-law" phenomenon, since it comes early, stays late, and usually is very dense.
-
-
-Keywords by value: 
-- stays: 0.32145591922984845
-- extra: 0.2741036911847832
-- axial: 0.2513145428330633
-- late: 0.20535240582666542
-- phase: 0.186145333440932
-- arterial: 0.17914676364869467
-- meninigioma: 0.1739446175004706
-- arrives: 0.1662133682525654
-- meningioma: 0.1630052819898235
-- feeders: 0.16072795961492423
-- angiographically: 0.16072795961492423
-- coined: 0.16072795961492423
-- early: 0.15680758790308671
-- insure: 0.1475113017293779
-- blush: 0.13552523898760074
-- if: 0.1263944806586834
-- phenomenon: 0.1250371717197122
-- comes: 0.1250371717197122
-- stain: 0.11830971248179112
-- capillary: 0.1141582467031922
-- tumor: 0.11378454239961593
-- large: 0.10899690257078193
-- vasogenic: 0.10698784985252575
-- number: 0.10013007882483367
-- residual: 0.09897411237433007
-- dense: 0.09587526533096169
-- complains: 0.09464467018719251
-- focus: 0.09213582393420054
-- recurrence: 0.08980311480562975
-- 26: 0.08835706418539242
-- parietal: 0.08782884185296072
-- previously: 0.08731485906743115
-- typical: 0.0840594502093775
-- mass: 0.08309337792810513
-- astrocytoma: 0.0821104249374751
-- since: 0.07878901123073907
-- very: 0.07802620524087853
-- venous: 0.07765594881516799
-- headache: 0.07498039747173352
-- this: 0.07474967671442463
-- central: 0.07263449510524346
-- no: 0.07074060063292778
-- resection: 0.06972206634475021
-- usually: 0.0684738428239055
-- and: 0.06742707811966098
-- abnormal: 0.06534669856022329
-- the: 0.06510981088430516
-- edema: 0.06487196183590123
-- of: 0.06385658134442417
-- cm: 0.06246702182402383
-- is: 0.05957402205413785
-- into: 0.0578194977416741
-- man: 0.05758342981396485
-- it: 0.055677109166382396
-- demonstrates: 0.054644145264822745
-- in: 0.05411617892725521
-- findings: 0.05368165050877632
-- contrast: 0.05284842589479414
-- seen: 0.05120736063093311
-- with: 0.04259649042437418
-- or: 0.03783864765897735
-- left: 0.03710333042128876
-- for: 0.03296691787130673
-- to: 0.027191928077307696
+\-\ Texto\\:\\ \ \(0\)\
+\-\ no\\ abnormal\\ findings\ \(3\)\
+\-\ resection\\ and\\ re\\-imaging\\ to\\ insure\\ no\\ recurrence\\ or\\ residual\\ tumor\ \(0\)\
+\-\ 6\\ cm\\ extra\\ axial\\ left\\ parietal\\ mass\\ with\\ vasogenic\\ edema\ \(1\)\
+\-\ meningioma\ \(167\)\
+\-\ \\â\\€\\¢\\ meninigioma\\ if\\ extra\\-axial\ \(1\)\
+\-\ \\â\\€\\¢\\ astrocytoma\\,\\ oligo\\-dendroglioma\\ if\\ intra\\-axial\ \(1\)\
+\-\ 26\\ y\\.o\\.\\ man\\ complains\\ of\\ headache\ \(1\)\
+\-\ this\\ extra\\ axial\\ mass\\ demonstrates\\ a\\ large\\ number\\ of\\ arterial\\ feeders\\,\\ typical\\ for\\ meningioma\\.\ \(0\)\
+\-\ angiographically\\,\\ a\\ large\\ stain\\ of\\ contrast\\ is\\ seen\\ with\\ a\\ central\\ focus\\.\\ \\ this\\ capillary\\ tumor\\ blush\\ arrives\\ early\\ in\\ the\\ arterial\\ phase\\ and\\ stays\\ late\\ into\\ the\\ venous\\ phase\\.\\ \\ previously\\ coined\\ the\\ \\"mother\\-in\\-law\\"\\ phenomenon\\,\\ since\\ it\\ comes\\ early\\,\\ stays\\ late\\,\\ and\\ usually\\ is\\ very\\ dense\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ stays\\:\\ 0\\.32145591922984845\ \(0\)\
+\-\ extra\\:\\ 0\\.2741036911847832\ \(0\)\
+\-\ axial\\:\\ 0\\.2513145428330633\ \(0\)\
+\-\ late\\:\\ 0\\.20535240582666542\ \(0\)\
+\-\ phase\\:\\ 0\\.186145333440932\ \(0\)\
+\-\ arterial\\:\\ 0\\.17914676364869467\ \(0\)\
+\-\ meninigioma\\:\\ 0\\.1739446175004706\ \(0\)\
+\-\ arrives\\:\\ 0\\.1662133682525654\ \(0\)\
+\-\ meningioma\\:\\ 0\\.1630052819898235\ \(0\)\
+\-\ feeders\\:\\ 0\\.16072795961492423\ \(0\)\
+\-\ angiographically\\:\\ 0\\.16072795961492423\ \(0\)\
+\-\ coined\\:\\ 0\\.16072795961492423\ \(0\)\
+\-\ early\\:\\ 0\\.15680758790308671\ \(0\)\
+\-\ insure\\:\\ 0\\.1475113017293779\ \(0\)\
+\-\ blush\\:\\ 0\\.13552523898760074\ \(0\)\
+\-\ if\\:\\ 0\\.1263944806586834\ \(0\)\
+\-\ phenomenon\\:\\ 0\\.1250371717197122\ \(0\)\
+\-\ comes\\:\\ 0\\.1250371717197122\ \(0\)\
+\-\ stain\\:\\ 0\\.11830971248179112\ \(0\)\
+\-\ capillary\\:\\ 0\\.1141582467031922\ \(0\)\
+\-\ tumor\\:\\ 0\\.11378454239961593\ \(0\)\
+\-\ large\\:\\ 0\\.10899690257078193\ \(0\)\
+\-\ vasogenic\\:\\ 0\\.10698784985252575\ \(0\)\
+\-\ number\\:\\ 0\\.10013007882483367\ \(0\)\
+\-\ residual\\:\\ 0\\.09897411237433007\ \(0\)\
+\-\ dense\\:\\ 0\\.09587526533096169\ \(0\)\
+\-\ complains\\:\\ 0\\.09464467018719251\ \(0\)\
+\-\ focus\\:\\ 0\\.09213582393420054\ \(0\)\
+\-\ recurrence\\:\\ 0\\.08980311480562975\ \(0\)\
+\-\ 26\\:\\ 0\\.08835706418539242\ \(0\)\
+\-\ parietal\\:\\ 0\\.08782884185296072\ \(0\)\
+\-\ previously\\:\\ 0\\.08731485906743115\ \(0\)\
+\-\ typical\\:\\ 0\\.0840594502093775\ \(0\)\
+\-\ mass\\:\\ 0\\.08309337792810513\ \(0\)\
+\-\ astrocytoma\\:\\ 0\\.0821104249374751\ \(0\)\
+\-\ since\\:\\ 0\\.07878901123073907\ \(0\)\
+\-\ very\\:\\ 0\\.07802620524087853\ \(0\)\
+\-\ venous\\:\\ 0\\.07765594881516799\ \(0\)\
+\-\ headache\\:\\ 0\\.07498039747173352\ \(0\)\
+\-\ this\\:\\ 0\\.07474967671442463\ \(0\)\
+\-\ central\\:\\ 0\\.07263449510524346\ \(0\)\
+\-\ no\\:\\ 0\\.07074060063292778\ \(0\)\
+\-\ resection\\:\\ 0\\.06972206634475021\ \(0\)\
+\-\ usually\\:\\ 0\\.0684738428239055\ \(0\)\
+\-\ and\\:\\ 0\\.06742707811966098\ \(0\)\
+\-\ abnormal\\:\\ 0\\.06534669856022329\ \(0\)\
+\-\ the\\:\\ 0\\.06510981088430516\ \(0\)\
+\-\ edema\\:\\ 0\\.06487196183590123\ \(0\)\
+\-\ of\\:\\ 0\\.06385658134442417\ \(0\)\
+\-\ cm\\:\\ 0\\.06246702182402383\ \(0\)\
+\-\ is\\:\\ 0\\.05957402205413785\ \(0\)\
+\-\ into\\:\\ 0\\.0578194977416741\ \(0\)\
+\-\ man\\:\\ 0\\.05758342981396485\ \(0\)\
+\-\ it\\:\\ 0\\.055677109166382396\ \(0\)\
+\-\ demonstrates\\:\\ 0\\.054644145264822745\ \(0\)\
+\-\ in\\:\\ 0\\.05411617892725521\ \(0\)\
+\-\ findings\\:\\ 0\\.05368165050877632\ \(0\)\
+\-\ contrast\\:\\ 0\\.05284842589479414\ \(0\)\
+\-\ seen\\:\\ 0\\.05120736063093311\ \(0\)\
+\-\ with\\:\\ 0\\.04259649042437418\ \(0\)\
+\-\ or\\:\\ 0\\.03783864765897735\ \(0\)\
+\-\ left\\:\\ 0\\.03710333042128876\ \(0\)\
+\-\ for\\:\\ 0\\.03296691787130673\ \(0\)\
+\-\ to\\:\\ 0\\.027191928077307696\ \(0\)\

@@ -1,75 +1,73 @@
-Texto: 
-unilateral, palpable, nontender area of swelling at the left subareolar region.
-ongoing at the time of case preparation.
-bilateral screening mlo and cc views of the breasts as well as a coned down mlo view of the left breast show a unilateral/left-sided focal area of tissue radiating posteriorly from the nipple in a fan- or flame-shaped distribution.  no microcalcifications or dominant mass is present.
-gynecomastia (characteristic appearance).
-gynecomastia
-male breast cancer (although the case images show the typical appearance of gynecomastia).
-34 year-old asymptomatic male presents for screening mammography following a 3 week history of a unilateral, palpable area of swelling at the left subareolar region.
-please see factoid.
-
-
-Keywords by value: 
-- gynecomastia: 0.41828548506177343
-- unilateral: 0.2822667313437988
-- subareolar: 0.2746114282072869
-- mlo: 0.22888715867017342
-- area: 0.19980278855278316
-- screening: 0.16703116763769332
-- the: 0.16411240515123177
-- of: 0.16095357991117845
-- breast: 0.14931331675876788
-- coned: 0.14461333348349342
-- palpable: 0.14445367509948026
-- left: 0.14028108925193536
-- swelling: 0.1383904993525279
-- preparation: 0.13212087564074118
-- show: 0.1305305916798362
-- appearance: 0.1239586992276921
-- region: 0.1229909736170939
-- microcalcifications: 0.12039546151372782
-- at: 0.1164963843600805
-- ongoing: 0.11444357933508671
-- breasts: 0.11232079841813902
-- nipple: 0.10870414920763286
-- mammography: 0.10713595995523674
-- case: 0.10329989426760554
-- cc: 0.09957974619300683
-- radiating: 0.09885389748258212
-- nontender: 0.09683682248142939
-- dominant: 0.09621169136488064
-- male: 0.0915487305065866
-- posteriorly: 0.09062182895870662
-- 34: 0.08960001972305852
-- distribution: 0.08721115692704277
-- please: 0.08624325687550737
-- down: 0.08351558381884666
-- characteristic: 0.08311506051412451
-- as: 0.0826037657646907
-- views: 0.08114698275287757
-- typical: 0.07945345541356337
-- view: 0.07528689066851381
-- factoid: 0.07179897634091066
-- or: 0.07153059643368218
-- although: 0.06999015858780164
-- asymptomatic: 0.06999015858780164
-- week: 0.06914956446300995
-- cancer: 0.06847782930876918
-- see: 0.06395332276848509
-- following: 0.06167541649245208
-- focal: 0.06149548680854695
-- time: 0.06093727864815132
-- bilateral: 0.05525316152670712
-- tissue: 0.053931099808238424
-- present: 0.05275445675439129
-- well: 0.04978045448307538
-- presents: 0.049456266773107695
-- images: 0.04755584465155365
-- from: 0.04083123661149223
-- history: 0.03927885545324025
-- mass: 0.03927015928565138
-- no: 0.033432202710802404
-- for: 0.031160512383630455
-- is: 0.02815484691664709
-- in: 0.025575455221508347
-- and: 0.02124414856272633
+\-\ Texto\\:\\ \ \(0\)\
+\-\ unilateral\\,\\ palpable\\,\\ nontender\\ area\\ of\\ swelling\\ at\\ the\\ left\\ subareolar\\ region\\.\ \(0\)\
+\-\ ongoing\\ at\\ the\\ time\\ of\\ case\\ preparation\\.\ \(0\)\
+\-\ bilateral\\ screening\\ mlo\\ and\\ cc\\ views\\ of\\ the\\ breasts\\ as\\ well\\ as\\ a\\ coned\\ down\\ mlo\\ view\\ of\\ the\\ left\\ breast\\ show\\ a\\ unilateral\\/left\\-sided\\ focal\\ area\\ of\\ tissue\\ radiating\\ posteriorly\\ from\\ the\\ nipple\\ in\\ a\\ fan\\-\\ or\\ flame\\-shaped\\ distribution\\.\\ \\ no\\ microcalcifications\\ or\\ dominant\\ mass\\ is\\ present\\.\ \(0\)\
+\-\ gynecomastia\\ \\(characteristic\\ appearance\\)\\.\ \(0\)\
+\-\ gynecomastia\ \(16\)\
+\-\ male\\ breast\\ cancer\\ \\(although\\ the\\ case\\ images\\ show\\ the\\ typical\\ appearance\\ of\\ gynecomastia\\)\\.\ \(0\)\
+\-\ 34\\ year\\-old\\ asymptomatic\\ male\\ presents\\ for\\ screening\\ mammography\\ following\\ a\\ 3\\ week\\ history\\ of\\ a\\ unilateral\\,\\ palpable\\ area\\ of\\ swelling\\ at\\ the\\ left\\ subareolar\\ region\\.\ \(1\)\
+\-\ please\\ see\\ factoid\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ gynecomastia\\:\\ 0\\.41828548506177343\ \(0\)\
+\-\ unilateral\\:\\ 0\\.2822667313437988\ \(0\)\
+\-\ subareolar\\:\\ 0\\.2746114282072869\ \(0\)\
+\-\ mlo\\:\\ 0\\.22888715867017342\ \(0\)\
+\-\ area\\:\\ 0\\.19980278855278316\ \(0\)\
+\-\ screening\\:\\ 0\\.16703116763769332\ \(0\)\
+\-\ the\\:\\ 0\\.16411240515123177\ \(0\)\
+\-\ of\\:\\ 0\\.16095357991117845\ \(0\)\
+\-\ breast\\:\\ 0\\.14931331675876788\ \(0\)\
+\-\ coned\\:\\ 0\\.14461333348349342\ \(0\)\
+\-\ palpable\\:\\ 0\\.14445367509948026\ \(0\)\
+\-\ left\\:\\ 0\\.14028108925193536\ \(0\)\
+\-\ swelling\\:\\ 0\\.1383904993525279\ \(0\)\
+\-\ preparation\\:\\ 0\\.13212087564074118\ \(0\)\
+\-\ show\\:\\ 0\\.1305305916798362\ \(0\)\
+\-\ appearance\\:\\ 0\\.1239586992276921\ \(0\)\
+\-\ region\\:\\ 0\\.1229909736170939\ \(0\)\
+\-\ microcalcifications\\:\\ 0\\.12039546151372782\ \(0\)\
+\-\ at\\:\\ 0\\.1164963843600805\ \(0\)\
+\-\ ongoing\\:\\ 0\\.11444357933508671\ \(0\)\
+\-\ breasts\\:\\ 0\\.11232079841813902\ \(0\)\
+\-\ nipple\\:\\ 0\\.10870414920763286\ \(0\)\
+\-\ mammography\\:\\ 0\\.10713595995523674\ \(0\)\
+\-\ case\\:\\ 0\\.10329989426760554\ \(0\)\
+\-\ cc\\:\\ 0\\.09957974619300683\ \(0\)\
+\-\ radiating\\:\\ 0\\.09885389748258212\ \(0\)\
+\-\ nontender\\:\\ 0\\.09683682248142939\ \(0\)\
+\-\ dominant\\:\\ 0\\.09621169136488064\ \(0\)\
+\-\ male\\:\\ 0\\.0915487305065866\ \(0\)\
+\-\ posteriorly\\:\\ 0\\.09062182895870662\ \(0\)\
+\-\ 34\\:\\ 0\\.08960001972305852\ \(0\)\
+\-\ distribution\\:\\ 0\\.08721115692704277\ \(0\)\
+\-\ please\\:\\ 0\\.08624325687550737\ \(0\)\
+\-\ down\\:\\ 0\\.08351558381884666\ \(0\)\
+\-\ characteristic\\:\\ 0\\.08311506051412451\ \(0\)\
+\-\ as\\:\\ 0\\.0826037657646907\ \(0\)\
+\-\ views\\:\\ 0\\.08114698275287757\ \(0\)\
+\-\ typical\\:\\ 0\\.07945345541356337\ \(0\)\
+\-\ view\\:\\ 0\\.07528689066851381\ \(0\)\
+\-\ factoid\\:\\ 0\\.07179897634091066\ \(0\)\
+\-\ or\\:\\ 0\\.07153059643368218\ \(0\)\
+\-\ although\\:\\ 0\\.06999015858780164\ \(0\)\
+\-\ asymptomatic\\:\\ 0\\.06999015858780164\ \(0\)\
+\-\ week\\:\\ 0\\.06914956446300995\ \(0\)\
+\-\ cancer\\:\\ 0\\.06847782930876918\ \(0\)\
+\-\ see\\:\\ 0\\.06395332276848509\ \(0\)\
+\-\ following\\:\\ 0\\.06167541649245208\ \(0\)\
+\-\ focal\\:\\ 0\\.06149548680854695\ \(0\)\
+\-\ time\\:\\ 0\\.06093727864815132\ \(0\)\
+\-\ bilateral\\:\\ 0\\.05525316152670712\ \(0\)\
+\-\ tissue\\:\\ 0\\.053931099808238424\ \(0\)\
+\-\ present\\:\\ 0\\.05275445675439129\ \(0\)\
+\-\ well\\:\\ 0\\.04978045448307538\ \(0\)\
+\-\ presents\\:\\ 0\\.049456266773107695\ \(0\)\
+\-\ images\\:\\ 0\\.04755584465155365\ \(0\)\
+\-\ from\\:\\ 0\\.04083123661149223\ \(0\)\
+\-\ history\\:\\ 0\\.03927885545324025\ \(0\)\
+\-\ mass\\:\\ 0\\.03927015928565138\ \(0\)\
+\-\ no\\:\\ 0\\.033432202710802404\ \(0\)\
+\-\ for\\:\\ 0\\.031160512383630455\ \(0\)\
+\-\ is\\:\\ 0\\.02815484691664709\ \(0\)\
+\-\ in\\:\\ 0\\.025575455221508347\ \(0\)\
+\-\ and\\:\\ 0\\.02124414856272633\ \(0\)\

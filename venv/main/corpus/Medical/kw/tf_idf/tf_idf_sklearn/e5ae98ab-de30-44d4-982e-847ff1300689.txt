@@ -1,87 +1,83 @@
-Texto: 
-the patient's abdominal exam was normal and she had an unremarkable past medical history.
-no treatment was indicated in this asymptomatic patient.
-pneumatosis intestinalis
-primary pneumatosis intestinalis.
-pneumatosis intestinalis is a radiographic finding:
-
-primary(15%)-pneumatosis coli,sometimes associated with copd
-
-secondary(85%)-immunosuppressive meds(including steroids)
-              -connective tissue disorders (scleroderma)
-              -leukemia
-              -vascular (adult ischemia and nec)
-              -infectious colitis/enteritis (rotavirus, cmv, cryptosporidiosis)
-              -non-infectious colitis/enteritis (uc, crohn's)
-57 year old female found to have free air under her diaphragm on routine chest radiograph performed during hypertensive workup.
-
-
-Keywords by value: 
-- pneumatosis: 0.4653530737042991
-- intestinalis: 0.37749349978983887
-- rotavirus: 0.16952781147596485
-- cryptosporidiosis: 0.16952781147596485
-- uc: 0.14624716395465817
-- nec: 0.14376569111191087
-- primary: 0.1303653847459188
-- coli: 0.12583116659661295
-- scleroderma: 0.11859357083032246
-- cmv: 0.11859357083032246
-- meds: 0.11581475657784747
-- copd: 0.11295010641458597
-- hypertensive: 0.11008545625132449
-- crohn: 0.10319360890740494
-- diaphragm: 0.10267736899886969
-- 57: 0.10006904623255898
-- workup: 0.09984912127946383
-- sometimes: 0.09920454423663683
-- 85: 0.09778216617985339
-- adult: 0.09778216617985339
-- disorders: 0.09359630910471353
-- steroids: 0.09313362690702283
-- ischemia: 0.09181092668953506
-- under: 0.08774946204198525
-- indicated: 0.087187986050532
-- free: 0.08251769903777528
-- routine: 0.08209243009870881
-- radiographic: 0.0786482938230761
-- including: 0.07586365860214443
-- was: 0.07388877784429801
-- asymptomatic: 0.07216733938727186
-- 15: 0.07163287677759271
-- unremarkable: 0.07106683987271714
-- finding: 0.06967970594720443
-- air: 0.06933793186997221
-- radiograph: 0.06904395039112313
-- past: 0.06900233012367882
-- patient: 0.06895732402481713
-- found: 0.06859117526306793
-- medical: 0.06737150654296885
-- during: 0.0671444148170714
-- her: 0.06622698066876137
-- she: 0.06310327054313664
-- secondary: 0.0628328519076159
-- performed: 0.06271391747511751
-- abdominal: 0.05797788320946782
-- chest: 0.05595571480086595
-- associated: 0.05587348704880395
-- tissue: 0.055608732169215434
-- exam: 0.05336383223910517
-- have: 0.05295616767226255
-- had: 0.0528164418888504
-- female: 0.05115312827076176
-- treatment: 0.05049662219683337
-- and: 0.04380997872426881
-- normal: 0.04328183002706915
-- an: 0.04053661113378801
-- history: 0.04050070109044768
-- this: 0.03642581553837967
-- no: 0.0344721767770798
-- year: 0.0326691817873023
-- on: 0.03201584683793994
-- old: 0.031373723233729535
-- is: 0.029030658507244497
-- to: 0.026501469967849637
-- in: 0.02637102978755431
-- the: 0.021152180319310248
-- with: 0.020757439643631144
+\-\ Texto\\:\\ \ \(0\)\
+\-\ the\\ patient\\'s\\ abdominal\\ exam\\ was\\ normal\\ and\\ she\\ had\\ an\\ unremarkable\\ past\\ medical\\ history\\.\ \(0\)\
+\-\ no\\ treatment\\ was\\ indicated\\ in\\ this\\ asymptomatic\\ patient\\.\ \(0\)\
+\-\ pneumatosis\\ intestinalis\ \(24\)\
+\-\ primary\\ pneumatosis\\ intestinalis\\.\ \(0\)\
+\-\ pneumatosis\\ intestinalis\\ is\\ a\\ radiographic\\ finding\\:\ \(0\)\
+\-\ primary\\(15\\%\\)\\-pneumatosis\\ coli\\,sometimes\\ associated\\ with\\ copd\ \(0\)\
+\-\ secondary\\(85\\%\\)\\-immunosuppressive\\ meds\\(including\\ steroids\\)\ \(0\)\
+\-\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\-connective\\ tissue\\ disorders\\ \\(scleroderma\\)\ \(0\)\
+\-\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\-leukemia\ \(0\)\
+\-\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\-vascular\\ \\(adult\\ ischemia\\ and\\ nec\\)\ \(0\)\
+\-\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\-infectious\\ colitis\\/enteritis\\ \\(rotavirus\\,\\ cmv\\,\\ cryptosporidiosis\\)\ \(0\)\
+\-\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\-non\\-infectious\\ colitis\\/enteritis\\ \\(uc\\,\\ crohn\\'s\\)\ \(0\)\
+\-\ 57\\ year\\ old\\ female\\ found\\ to\\ have\\ free\\ air\\ under\\ her\\ diaphragm\\ on\\ routine\\ chest\\ radiograph\\ performed\\ during\\ hypertensive\\ workup\\.\ \(1\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ pneumatosis\\:\\ 0\\.4653530737042991\ \(0\)\
+\-\ intestinalis\\:\\ 0\\.37749349978983887\ \(0\)\
+\-\ rotavirus\\:\\ 0\\.16952781147596485\ \(0\)\
+\-\ cryptosporidiosis\\:\\ 0\\.16952781147596485\ \(0\)\
+\-\ uc\\:\\ 0\\.14624716395465817\ \(0\)\
+\-\ nec\\:\\ 0\\.14376569111191087\ \(0\)\
+\-\ primary\\:\\ 0\\.1303653847459188\ \(0\)\
+\-\ coli\\:\\ 0\\.12583116659661295\ \(0\)\
+\-\ scleroderma\\:\\ 0\\.11859357083032246\ \(0\)\
+\-\ cmv\\:\\ 0\\.11859357083032246\ \(0\)\
+\-\ meds\\:\\ 0\\.11581475657784747\ \(0\)\
+\-\ copd\\:\\ 0\\.11295010641458597\ \(0\)\
+\-\ hypertensive\\:\\ 0\\.11008545625132449\ \(0\)\
+\-\ crohn\\:\\ 0\\.10319360890740494\ \(0\)\
+\-\ diaphragm\\:\\ 0\\.10267736899886969\ \(0\)\
+\-\ 57\\:\\ 0\\.10006904623255898\ \(0\)\
+\-\ workup\\:\\ 0\\.09984912127946383\ \(0\)\
+\-\ sometimes\\:\\ 0\\.09920454423663683\ \(0\)\
+\-\ 85\\:\\ 0\\.09778216617985339\ \(0\)\
+\-\ adult\\:\\ 0\\.09778216617985339\ \(0\)\
+\-\ disorders\\:\\ 0\\.09359630910471353\ \(0\)\
+\-\ steroids\\:\\ 0\\.09313362690702283\ \(0\)\
+\-\ ischemia\\:\\ 0\\.09181092668953506\ \(0\)\
+\-\ under\\:\\ 0\\.08774946204198525\ \(0\)\
+\-\ indicated\\:\\ 0\\.087187986050532\ \(0\)\
+\-\ free\\:\\ 0\\.08251769903777528\ \(0\)\
+\-\ routine\\:\\ 0\\.08209243009870881\ \(0\)\
+\-\ radiographic\\:\\ 0\\.0786482938230761\ \(0\)\
+\-\ including\\:\\ 0\\.07586365860214443\ \(0\)\
+\-\ was\\:\\ 0\\.07388877784429801\ \(0\)\
+\-\ asymptomatic\\:\\ 0\\.07216733938727186\ \(0\)\
+\-\ 15\\:\\ 0\\.07163287677759271\ \(0\)\
+\-\ unremarkable\\:\\ 0\\.07106683987271714\ \(0\)\
+\-\ finding\\:\\ 0\\.06967970594720443\ \(0\)\
+\-\ air\\:\\ 0\\.06933793186997221\ \(0\)\
+\-\ radiograph\\:\\ 0\\.06904395039112313\ \(0\)\
+\-\ past\\:\\ 0\\.06900233012367882\ \(0\)\
+\-\ patient\\:\\ 0\\.06895732402481713\ \(0\)\
+\-\ found\\:\\ 0\\.06859117526306793\ \(0\)\
+\-\ medical\\:\\ 0\\.06737150654296885\ \(0\)\
+\-\ during\\:\\ 0\\.0671444148170714\ \(0\)\
+\-\ her\\:\\ 0\\.06622698066876137\ \(0\)\
+\-\ she\\:\\ 0\\.06310327054313664\ \(0\)\
+\-\ secondary\\:\\ 0\\.0628328519076159\ \(0\)\
+\-\ performed\\:\\ 0\\.06271391747511751\ \(0\)\
+\-\ abdominal\\:\\ 0\\.05797788320946782\ \(0\)\
+\-\ chest\\:\\ 0\\.05595571480086595\ \(0\)\
+\-\ associated\\:\\ 0\\.05587348704880395\ \(0\)\
+\-\ tissue\\:\\ 0\\.055608732169215434\ \(0\)\
+\-\ exam\\:\\ 0\\.05336383223910517\ \(0\)\
+\-\ have\\:\\ 0\\.05295616767226255\ \(0\)\
+\-\ had\\:\\ 0\\.0528164418888504\ \(0\)\
+\-\ female\\:\\ 0\\.05115312827076176\ \(0\)\
+\-\ treatment\\:\\ 0\\.05049662219683337\ \(0\)\
+\-\ and\\:\\ 0\\.04380997872426881\ \(0\)\
+\-\ normal\\:\\ 0\\.04328183002706915\ \(0\)\
+\-\ an\\:\\ 0\\.04053661113378801\ \(0\)\
+\-\ history\\:\\ 0\\.04050070109044768\ \(0\)\
+\-\ this\\:\\ 0\\.03642581553837967\ \(0\)\
+\-\ no\\:\\ 0\\.0344721767770798\ \(0\)\
+\-\ year\\:\\ 0\\.0326691817873023\ \(0\)\
+\-\ on\\:\\ 0\\.03201584683793994\ \(0\)\
+\-\ old\\:\\ 0\\.031373723233729535\ \(0\)\
+\-\ is\\:\\ 0\\.029030658507244497\ \(0\)\
+\-\ to\\:\\ 0\\.026501469967849637\ \(0\)\
+\-\ in\\:\\ 0\\.02637102978755431\ \(0\)\
+\-\ the\\:\\ 0\\.021152180319310248\ \(0\)\
+\-\ with\\:\\ 0\\.020757439643631144\ \(0\)\

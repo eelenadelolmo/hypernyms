@@ -1,96 +1,94 @@
-Texto: 
-precordial flow murmur
-patient died several weeks later
-cardiac ct images demonstrate a hypervascular mass arising from the free wall of the right atrium; the mass is invading / filling the majority of the right heart chambers.
-angiosarcoma
-primary cardiac neoplasm (angiosarcoma, mfh, rhabdomyosarcoma);
-metastatic disease;
-invasive lung cancer
-weight loss, shortness of breath, lower extremity edema; echocardiography demonstrated a cardiac "mass"
-cardiac sarcomas are the most common primary malignant tumor of the heart and pericardium. they are rare neoplasms; metastatic disease to the heart is at least 30 times more common.  angiosarcoma is the most common subtype.  most cardiac angiosarcomas arise as mural masses in the right atrium and invade adjacent structures.  treatment options are limited, with surgical resection being the best hope.
-
-
-Keywords by value: 
-- cardiac: 0.3705508928575318
-- angiosarcoma: 0.35539531380689
-- the: 0.21905342325398866
-- heart: 0.20818037471006703
-- atrium: 0.20260985405922505
-- common: 0.16979606614206502
-- most: 0.15581863647091745
-- precordial: 0.15250993309384472
-- angiosarcomas: 0.14747676811370997
-- chambers: 0.14357274205311552
-- mfh: 0.14038292050129533
-- hope: 0.1332890728888807
-- invade: 0.1268555142389418
-- sarcomas: 0.1255589522147113
-- primary: 0.1227338930263055
-- pericardium: 0.11765120990398135
-- subtype: 0.11765120990398135
-- invading: 0.11612889531619656
-- mass: 0.11436413606425974
-- are: 0.1136100032232617
-- echocardiography: 0.11222486925560209
-- metastatic: 0.10947188695018648
-- hypervascular: 0.10552419731143196
-- died: 0.10474648790197864
-- mural: 0.10194120009136728
-- rhabdomyosarcoma: 0.10099526264607736
-- right: 0.09926464112385551
-- murmur: 0.09463268008101766
-- neoplasms: 0.09300400905063806
-- least: 0.09224321175553021
-- arise: 0.09133650208660268
-- invasive: 0.09081420715387477
-- majority: 0.09064351720556975
-- options: 0.08997693826246607
-- times: 0.0898141874988179
-- disease: 0.0837859625314017
-- is: 0.08199367668010267
-- best: 0.080303319459272
-- shortness: 0.0800233841923686
-- limited: 0.07965697119946852
-- arising: 0.07929807490319732
-- of: 0.07812258063897312
-- free: 0.0776871749062685
-- filling: 0.07728680089152126
-- rare: 0.07534084379117446
-- structures: 0.07499021921223385
-- breath: 0.07314687578391926
-- extremity: 0.07188158379648142
-- later: 0.07142265700060572
-- they: 0.07130978189342006
-- malignant: 0.07114182302657857
-- weight: 0.06959630782416455
-- being: 0.06954537451038134
-- neoplasm: 0.06812933883602337
-- 30: 0.06808249655656079
-- masses: 0.06794271753666416
-- flow: 0.0664746288353244
-- cancer: 0.0664746288353244
-- several: 0.06547935117268795
-- adjacent: 0.06469112864468408
-- resection: 0.06397384148575148
-- demonstrated: 0.06133510741259485
-- loss: 0.060802523987404565
-- wall: 0.060710198807834716
-- lung: 0.060710198807834716
-- weeks: 0.05981279282481006
-- edema: 0.059523603084838166
-- more: 0.05480151100065904
-- tumor: 0.05220179679564169
-- demonstrate: 0.05188385659152702
-- lower: 0.05099850150319902
-- surgical: 0.048506618999303
-- treatment: 0.047540587856010084
-- images: 0.04616468065756211
-- and: 0.04124537547071105
-- as: 0.04009366772454566
-- from: 0.03963678939642839
-- ct: 0.03799523840895486
-- at: 0.03769616136669775
-- patient: 0.0324603070314152
-- to: 0.024950093818334174
-- in: 0.024827289508233753
-- with: 0.019542314715572332
+\-\ Texto\\:\\ \ \(0\)\
+\-\ precordial\\ flow\\ murmur\ \(0\)\
+\-\ patient\\ died\\ several\\ weeks\\ later\ \(0\)\
+\-\ cardiac\\ ct\\ images\\ demonstrate\\ a\\ hypervascular\\ mass\\ arising\\ from\\ the\\ free\\ wall\\ of\\ the\\ right\\ atrium\\;\\ the\\ mass\\ is\\ invading\\ \\/\\ filling\\ the\\ majority\\ of\\ the\\ right\\ heart\\ chambers\\.\ \(0\)\
+\-\ angiosarcoma\ \(17\)\
+\-\ primary\\ cardiac\\ neoplasm\\ \\(angiosarcoma\\,\\ mfh\\,\\ rhabdomyosarcoma\\)\\;\ \(0\)\
+\-\ metastatic\\ disease\\;\ \(1\)\
+\-\ invasive\\ lung\\ cancer\ \(0\)\
+\-\ weight\\ loss\\,\\ shortness\\ of\\ breath\\,\\ lower\\ extremity\\ edema\\;\\ echocardiography\\ demonstrated\\ a\\ cardiac\\ \\"mass\\"\ \(0\)\
+\-\ cardiac\\ sarcomas\\ are\\ the\\ most\\ common\\ primary\\ malignant\\ tumor\\ of\\ the\\ heart\\ and\\ pericardium\\.\\ they\\ are\\ rare\\ neoplasms\\;\\ metastatic\\ disease\\ to\\ the\\ heart\\ is\\ at\\ least\\ 30\\ times\\ more\\ common\\.\\ \\ angiosarcoma\\ is\\ the\\ most\\ common\\ subtype\\.\\ \\ most\\ cardiac\\ angiosarcomas\\ arise\\ as\\ mural\\ masses\\ in\\ the\\ right\\ atrium\\ and\\ invade\\ adjacent\\ structures\\.\\ \\ treatment\\ options\\ are\\ limited\\,\\ with\\ surgical\\ resection\\ being\\ the\\ best\\ hope\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ cardiac\\:\\ 0\\.3705508928575318\ \(0\)\
+\-\ angiosarcoma\\:\\ 0\\.35539531380689\ \(0\)\
+\-\ the\\:\\ 0\\.21905342325398866\ \(0\)\
+\-\ heart\\:\\ 0\\.20818037471006703\ \(0\)\
+\-\ atrium\\:\\ 0\\.20260985405922505\ \(0\)\
+\-\ common\\:\\ 0\\.16979606614206502\ \(0\)\
+\-\ most\\:\\ 0\\.15581863647091745\ \(0\)\
+\-\ precordial\\:\\ 0\\.15250993309384472\ \(0\)\
+\-\ angiosarcomas\\:\\ 0\\.14747676811370997\ \(0\)\
+\-\ chambers\\:\\ 0\\.14357274205311552\ \(0\)\
+\-\ mfh\\:\\ 0\\.14038292050129533\ \(0\)\
+\-\ hope\\:\\ 0\\.1332890728888807\ \(0\)\
+\-\ invade\\:\\ 0\\.1268555142389418\ \(0\)\
+\-\ sarcomas\\:\\ 0\\.1255589522147113\ \(0\)\
+\-\ primary\\:\\ 0\\.1227338930263055\ \(0\)\
+\-\ pericardium\\:\\ 0\\.11765120990398135\ \(0\)\
+\-\ subtype\\:\\ 0\\.11765120990398135\ \(0\)\
+\-\ invading\\:\\ 0\\.11612889531619656\ \(0\)\
+\-\ mass\\:\\ 0\\.11436413606425974\ \(0\)\
+\-\ are\\:\\ 0\\.1136100032232617\ \(0\)\
+\-\ echocardiography\\:\\ 0\\.11222486925560209\ \(0\)\
+\-\ metastatic\\:\\ 0\\.10947188695018648\ \(0\)\
+\-\ hypervascular\\:\\ 0\\.10552419731143196\ \(0\)\
+\-\ died\\:\\ 0\\.10474648790197864\ \(0\)\
+\-\ mural\\:\\ 0\\.10194120009136728\ \(0\)\
+\-\ rhabdomyosarcoma\\:\\ 0\\.10099526264607736\ \(0\)\
+\-\ right\\:\\ 0\\.09926464112385551\ \(0\)\
+\-\ murmur\\:\\ 0\\.09463268008101766\ \(0\)\
+\-\ neoplasms\\:\\ 0\\.09300400905063806\ \(0\)\
+\-\ least\\:\\ 0\\.09224321175553021\ \(0\)\
+\-\ arise\\:\\ 0\\.09133650208660268\ \(0\)\
+\-\ invasive\\:\\ 0\\.09081420715387477\ \(0\)\
+\-\ majority\\:\\ 0\\.09064351720556975\ \(0\)\
+\-\ options\\:\\ 0\\.08997693826246607\ \(0\)\
+\-\ times\\:\\ 0\\.0898141874988179\ \(0\)\
+\-\ disease\\:\\ 0\\.0837859625314017\ \(0\)\
+\-\ is\\:\\ 0\\.08199367668010267\ \(0\)\
+\-\ best\\:\\ 0\\.080303319459272\ \(0\)\
+\-\ shortness\\:\\ 0\\.0800233841923686\ \(0\)\
+\-\ limited\\:\\ 0\\.07965697119946852\ \(0\)\
+\-\ arising\\:\\ 0\\.07929807490319732\ \(0\)\
+\-\ of\\:\\ 0\\.07812258063897312\ \(0\)\
+\-\ free\\:\\ 0\\.0776871749062685\ \(0\)\
+\-\ filling\\:\\ 0\\.07728680089152126\ \(0\)\
+\-\ rare\\:\\ 0\\.07534084379117446\ \(0\)\
+\-\ structures\\:\\ 0\\.07499021921223385\ \(0\)\
+\-\ breath\\:\\ 0\\.07314687578391926\ \(0\)\
+\-\ extremity\\:\\ 0\\.07188158379648142\ \(0\)\
+\-\ later\\:\\ 0\\.07142265700060572\ \(0\)\
+\-\ they\\:\\ 0\\.07130978189342006\ \(0\)\
+\-\ malignant\\:\\ 0\\.07114182302657857\ \(0\)\
+\-\ weight\\:\\ 0\\.06959630782416455\ \(0\)\
+\-\ being\\:\\ 0\\.06954537451038134\ \(0\)\
+\-\ neoplasm\\:\\ 0\\.06812933883602337\ \(0\)\
+\-\ 30\\:\\ 0\\.06808249655656079\ \(0\)\
+\-\ masses\\:\\ 0\\.06794271753666416\ \(0\)\
+\-\ flow\\:\\ 0\\.0664746288353244\ \(0\)\
+\-\ cancer\\:\\ 0\\.0664746288353244\ \(0\)\
+\-\ several\\:\\ 0\\.06547935117268795\ \(0\)\
+\-\ adjacent\\:\\ 0\\.06469112864468408\ \(0\)\
+\-\ resection\\:\\ 0\\.06397384148575148\ \(0\)\
+\-\ demonstrated\\:\\ 0\\.06133510741259485\ \(0\)\
+\-\ loss\\:\\ 0\\.060802523987404565\ \(0\)\
+\-\ wall\\:\\ 0\\.060710198807834716\ \(0\)\
+\-\ lung\\:\\ 0\\.060710198807834716\ \(0\)\
+\-\ weeks\\:\\ 0\\.05981279282481006\ \(0\)\
+\-\ edema\\:\\ 0\\.059523603084838166\ \(0\)\
+\-\ more\\:\\ 0\\.05480151100065904\ \(0\)\
+\-\ tumor\\:\\ 0\\.05220179679564169\ \(0\)\
+\-\ demonstrate\\:\\ 0\\.05188385659152702\ \(0\)\
+\-\ lower\\:\\ 0\\.05099850150319902\ \(0\)\
+\-\ surgical\\:\\ 0\\.048506618999303\ \(0\)\
+\-\ treatment\\:\\ 0\\.047540587856010084\ \(0\)\
+\-\ images\\:\\ 0\\.04616468065756211\ \(0\)\
+\-\ and\\:\\ 0\\.04124537547071105\ \(0\)\
+\-\ as\\:\\ 0\\.04009366772454566\ \(0\)\
+\-\ from\\:\\ 0\\.03963678939642839\ \(0\)\
+\-\ ct\\:\\ 0\\.03799523840895486\ \(0\)\
+\-\ at\\:\\ 0\\.03769616136669775\ \(0\)\
+\-\ patient\\:\\ 0\\.0324603070314152\ \(0\)\
+\-\ to\\:\\ 0\\.024950093818334174\ \(0\)\
+\-\ in\\:\\ 0\\.024827289508233753\ \(0\)\
+\-\ with\\:\\ 0\\.019542314715572332\ \(0\)\

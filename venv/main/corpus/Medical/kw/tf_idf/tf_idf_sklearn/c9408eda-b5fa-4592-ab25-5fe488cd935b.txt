@@ -1,37 +1,35 @@
-Texto: 
-term infant with grunting and chest retractions
-high lung volumes with "coarse, ropey" perihilar markings.
-meconium aspiration syndrome
-meconium aspiration syndrome
-transient tachypnea of the newborn
-neonatal pneumonia
-newborn with respiratory distress
-
-
-Keywords by value: 
-- meconium: 0.40917865128876757
-- newborn: 0.34681805614410594
-- aspiration: 0.30744763389546165
-- ropey: 0.28118092207868917
-- grunting: 0.23482115681761698
-- syndrome: 0.21199500210371297
-- perihilar: 0.2072712534633429
-- retractions: 0.2059011289719825
-- volumes: 0.2059011289719825
-- tachypnea: 0.1859065679418352
-- neonatal: 0.1859065679418352
-- coarse: 0.18521389326679497
-- markings: 0.1763467476150695
-- transient: 0.17294551970064925
-- infant: 0.15523999435901747
-- distress: 0.1416400111537524
-- respiratory: 0.13985972644314643
-- pneumonia: 0.13877811631281772
-- term: 0.13788030354196817
-- lung: 0.10695579769369477
-- with: 0.10328563735071464
-- high: 0.0999268659750328
-- chest: 0.09280883971955431
-- and: 0.03633188592092497
-- the: 0.0350832675439899
-- of: 0.034407987019526354
+\-\ Texto\\:\\ \ \(0\)\
+\-\ term\\ infant\\ with\\ grunting\\ and\\ chest\\ retractions\ \(0\)\
+\-\ high\\ lung\\ volumes\\ with\\ \\"coarse\\,\\ ropey\\"\\ perihilar\\ markings\\.\ \(0\)\
+\-\ meconium\\ aspiration\\ syndrome\ \(0\)\
+\-\ meconium\\ aspiration\\ syndrome\ \(0\)\
+\-\ transient\\ tachypnea\\ of\\ the\\ newborn\ \(0\)\
+\-\ neonatal\\ pneumonia\ \(0\)\
+\-\ newborn\\ with\\ respiratory\\ distress\ \(1\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ meconium\\:\\ 0\\.40917865128876757\ \(0\)\
+\-\ newborn\\:\\ 0\\.34681805614410594\ \(0\)\
+\-\ aspiration\\:\\ 0\\.30744763389546165\ \(0\)\
+\-\ ropey\\:\\ 0\\.28118092207868917\ \(0\)\
+\-\ grunting\\:\\ 0\\.23482115681761698\ \(0\)\
+\-\ syndrome\\:\\ 0\\.21199500210371297\ \(0\)\
+\-\ perihilar\\:\\ 0\\.2072712534633429\ \(0\)\
+\-\ retractions\\:\\ 0\\.2059011289719825\ \(0\)\
+\-\ volumes\\:\\ 0\\.2059011289719825\ \(0\)\
+\-\ tachypnea\\:\\ 0\\.1859065679418352\ \(0\)\
+\-\ neonatal\\:\\ 0\\.1859065679418352\ \(0\)\
+\-\ coarse\\:\\ 0\\.18521389326679497\ \(0\)\
+\-\ markings\\:\\ 0\\.1763467476150695\ \(0\)\
+\-\ transient\\:\\ 0\\.17294551970064925\ \(0\)\
+\-\ infant\\:\\ 0\\.15523999435901747\ \(0\)\
+\-\ distress\\:\\ 0\\.1416400111537524\ \(0\)\
+\-\ respiratory\\:\\ 0\\.13985972644314643\ \(0\)\
+\-\ pneumonia\\:\\ 0\\.13877811631281772\ \(0\)\
+\-\ term\\:\\ 0\\.13788030354196817\ \(0\)\
+\-\ lung\\:\\ 0\\.10695579769369477\ \(0\)\
+\-\ with\\:\\ 0\\.10328563735071464\ \(0\)\
+\-\ high\\:\\ 0\\.0999268659750328\ \(0\)\
+\-\ chest\\:\\ 0\\.09280883971955431\ \(0\)\
+\-\ and\\:\\ 0\\.03633188592092497\ \(0\)\
+\-\ the\\:\\ 0\\.0350832675439899\ \(0\)\
+\-\ of\\:\\ 0\\.034407987019526354\ \(0\)\

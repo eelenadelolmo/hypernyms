@@ -1,92 +1,81 @@
-Texto: 
-noncontributory.
-no treatment.  no follow-up required.
-radiographic findings:  bilateral, symmetric, triangular-shaped sclerosis on the iliac aspect of the sacroiliac joint, with preservation of the sacroiliac joint space.
-osteiitis condensans ilii
-differential diagnosis: ankylosing spondylitis (as), enteric arthopathies
-abdominal pain
-oci	         ank spondylitis
-
-age	  young adults   young adults
-
-sex	  f > m		 m > f
-
-clin sx	  absent/mild    mild to severe	
-
-hla-b27	  = control      + in 90%
-
-si jt     b/l, symmetric b/l, symmetric
-dist.	  iliac		 iliac>sacral
-
-sclerosis well-defined	 ill-defined
-
-jt space  normal	 narrowed
-
-erosion	  absent	 common
-
-bony      absent         common
-ankylosis
-	
-spinal    absent         common
-abnormalities
-
-
-Keywords by value: 
-- absent: 0.31887194697440785
-- iliac: 0.2683566167968269
-- jt: 0.2595486999902243
-- symmetric: 0.24981116234990197
-- sacroiliac: 0.2261333442970786
-- spondylitis: 0.2070680884964968
-- adults: 0.1814837974118519
-- common: 0.16531868395306235
-- young: 0.16024716594801405
-- arthopathies: 0.15539516067595902
-- ank: 0.15539516067595902
-- dist: 0.15539516067595902
-- osteiitis: 0.14848837197293485
-- oci: 0.14848837197293485
-- sclerosis: 0.13842341776316125
-- condensans: 0.1340552995008696
-- ilii: 0.1340552995008696
-- space: 0.12936050275483185
-- joint: 0.12805940052941434
-- sx: 0.12224806622607111
-- sex: 0.11704612286509433
-- ankylosis: 0.11534127752304692
-- si: 0.11454884455649465
-- mild: 0.11016523700926523
-- preservation: 0.10615988344551514
-- ankylosing: 0.1047964170015133
-- narrowed: 0.10436514746271842
-- sacral: 0.1035340442482484
-- enteric: 0.10198440942779002
-- clin: 0.10198440942779002
-- erosion: 0.0901771761529915
-- noncontributory: 0.08652486761247312
-- control: 0.08302528628762901
-- 90: 0.07764497232414376
-- bony: 0.07486771669084963
-- radiographic: 0.07209179514040788
-- abnormalities: 0.07038694979836047
-- required: 0.06937471717711778
-- spinal: 0.06899676297728412
-- no: 0.06319682183691555
-- differential: 0.06313602339302646
-- aspect: 0.06268772812878402
-- severe: 0.06151248721200418
-- age: 0.06100396476577926
-- the: 0.05816649959818695
-- abdominal: 0.05314456901524135
-- bilateral: 0.05222246698990865
-- diagnosis: 0.05037197240776059
-- findings: 0.04795703843000146
-- treatment: 0.04628698177338669
-- normal: 0.03967364925465059
-- as: 0.039036430782368944
-- of: 0.03803127631780997
-- pain: 0.034770817765350855
-- on: 0.02934685241461946
-- to: 0.024292180427203613
-- in: 0.02417261436545175
-- with: 0.01902699999817375
+\-\ Texto\\:\\ \ \(0\)\
+\-\ noncontributory\\.\ \(24\)\
+\-\ no\\ treatment\\.\\ \\ no\\ follow\\-up\\ required\\.\ \(0\)\
+\-\ radiographic\\ findings\\:\\ \\ bilateral\\,\\ symmetric\\,\\ triangular\\-shaped\\ sclerosis\\ on\\ the\\ iliac\\ aspect\\ of\\ the\\ sacroiliac\\ joint\\,\\ with\\ preservation\\ of\\ the\\ sacroiliac\\ joint\\ space\\.\ \(0\)\
+\-\ osteiitis\\ condensans\\ ilii\ \(0\)\
+\-\ differential\\ diagnosis\\:\\ ankylosing\\ spondylitis\\ \\(as\\)\\,\\ enteric\\ arthopathies\ \(0\)\
+\-\ abdominal\\ pain\ \(486\)\
+\-\ oci\\	\\ \\ \\ \\ \\ \\ \\ \\ \\ ank\\ spondylitis\ \(0\)\
+\-\ age\\	\\ \\ young\\ adults\\ \\ \\ young\\ adults\ \(0\)\
+\-\ sex\\	\\ \\ f\\ \\>\\ m\\	\\	\\ m\\ \\>\\ f\ \(0\)\
+\-\ clin\\ sx\\	\\ \\ absent\\/mild\\ \\ \\ \\ mild\\ to\\ severe\\	\ \(0\)\
+\-\ hla\\-b27\\	\\ \\ \\=\\ control\\ \\ \\ \\ \\ \\ \\+\\ in\\ 90\\%\ \(0\)\
+\-\ si\\ jt\\ \\ \\ \\ \\ b\\/l\\,\\ symmetric\\ b\\/l\\,\\ symmetric\ \(0\)\
+\-\ dist\\.\\	\\ \\ iliac\\	\\	\\ iliac\\>sacral\ \(0\)\
+\-\ sclerosis\\ well\\-defined\\	\\ ill\\-defined\ \(0\)\
+\-\ jt\\ space\\ \\ normal\\	\\ narrowed\ \(0\)\
+\-\ erosion\\	\\ \\ absent\\	\\ common\ \(0\)\
+\-\ bony\\ \\ \\ \\ \\ \\ absent\\ \\ \\ \\ \\ \\ \\ \\ \\ common\ \(0\)\
+\-\ ankylosis\ \(19\)\
+\-\ \\	\ \(2191\)\
+\-\ spinal\\ \\ \\ \\ absent\\ \\ \\ \\ \\ \\ \\ \\ \\ common\ \(0\)\
+\-\ abnormalities\ \(345\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ absent\\:\\ 0\\.31887194697440785\ \(0\)\
+\-\ iliac\\:\\ 0\\.2683566167968269\ \(0\)\
+\-\ jt\\:\\ 0\\.2595486999902243\ \(0\)\
+\-\ symmetric\\:\\ 0\\.24981116234990197\ \(0\)\
+\-\ sacroiliac\\:\\ 0\\.2261333442970786\ \(0\)\
+\-\ spondylitis\\:\\ 0\\.2070680884964968\ \(0\)\
+\-\ adults\\:\\ 0\\.1814837974118519\ \(0\)\
+\-\ common\\:\\ 0\\.16531868395306235\ \(0\)\
+\-\ young\\:\\ 0\\.16024716594801405\ \(0\)\
+\-\ arthopathies\\:\\ 0\\.15539516067595902\ \(0\)\
+\-\ ank\\:\\ 0\\.15539516067595902\ \(0\)\
+\-\ dist\\:\\ 0\\.15539516067595902\ \(0\)\
+\-\ osteiitis\\:\\ 0\\.14848837197293485\ \(0\)\
+\-\ oci\\:\\ 0\\.14848837197293485\ \(0\)\
+\-\ sclerosis\\:\\ 0\\.13842341776316125\ \(0\)\
+\-\ condensans\\:\\ 0\\.1340552995008696\ \(0\)\
+\-\ ilii\\:\\ 0\\.1340552995008696\ \(0\)\
+\-\ space\\:\\ 0\\.12936050275483185\ \(0\)\
+\-\ joint\\:\\ 0\\.12805940052941434\ \(0\)\
+\-\ sx\\:\\ 0\\.12224806622607111\ \(0\)\
+\-\ sex\\:\\ 0\\.11704612286509433\ \(0\)\
+\-\ ankylosis\\:\\ 0\\.11534127752304692\ \(0\)\
+\-\ si\\:\\ 0\\.11454884455649465\ \(0\)\
+\-\ mild\\:\\ 0\\.11016523700926523\ \(0\)\
+\-\ preservation\\:\\ 0\\.10615988344551514\ \(0\)\
+\-\ ankylosing\\:\\ 0\\.1047964170015133\ \(0\)\
+\-\ narrowed\\:\\ 0\\.10436514746271842\ \(0\)\
+\-\ sacral\\:\\ 0\\.1035340442482484\ \(0\)\
+\-\ enteric\\:\\ 0\\.10198440942779002\ \(0\)\
+\-\ clin\\:\\ 0\\.10198440942779002\ \(0\)\
+\-\ erosion\\:\\ 0\\.0901771761529915\ \(0\)\
+\-\ noncontributory\\:\\ 0\\.08652486761247312\ \(0\)\
+\-\ control\\:\\ 0\\.08302528628762901\ \(0\)\
+\-\ 90\\:\\ 0\\.07764497232414376\ \(0\)\
+\-\ bony\\:\\ 0\\.07486771669084963\ \(0\)\
+\-\ radiographic\\:\\ 0\\.07209179514040788\ \(0\)\
+\-\ abnormalities\\:\\ 0\\.07038694979836047\ \(0\)\
+\-\ required\\:\\ 0\\.06937471717711778\ \(0\)\
+\-\ spinal\\:\\ 0\\.06899676297728412\ \(0\)\
+\-\ no\\:\\ 0\\.06319682183691555\ \(0\)\
+\-\ differential\\:\\ 0\\.06313602339302646\ \(0\)\
+\-\ aspect\\:\\ 0\\.06268772812878402\ \(0\)\
+\-\ severe\\:\\ 0\\.06151248721200418\ \(0\)\
+\-\ age\\:\\ 0\\.06100396476577926\ \(0\)\
+\-\ the\\:\\ 0\\.05816649959818695\ \(0\)\
+\-\ abdominal\\:\\ 0\\.05314456901524135\ \(0\)\
+\-\ bilateral\\:\\ 0\\.05222246698990865\ \(0\)\
+\-\ diagnosis\\:\\ 0\\.05037197240776059\ \(0\)\
+\-\ findings\\:\\ 0\\.04795703843000146\ \(0\)\
+\-\ treatment\\:\\ 0\\.04628698177338669\ \(0\)\
+\-\ normal\\:\\ 0\\.03967364925465059\ \(0\)\
+\-\ as\\:\\ 0\\.039036430782368944\ \(0\)\
+\-\ of\\:\\ 0\\.03803127631780997\ \(0\)\
+\-\ pain\\:\\ 0\\.034770817765350855\ \(0\)\
+\-\ on\\:\\ 0\\.02934685241461946\ \(0\)\
+\-\ to\\:\\ 0\\.024292180427203613\ \(0\)\
+\-\ in\\:\\ 0\\.02417261436545175\ \(0\)\
+\-\ with\\:\\ 0\\.01902699999817375\ \(0\)\

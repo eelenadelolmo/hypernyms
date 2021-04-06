@@ -1,118 +1,109 @@
-Texto: 
-febrile with elevated white blood cell count that demonstrated a left shift.
-
-diffuse abdominal tenderness that was worst in the right lower quadrant with peritoneal signs.
-the patient underwent an emergency open appendectomy and was released from the hospital 2 days later. she was instructed to follow-up within a week to the general surgery clinic.
->> diffuse enlargement of the vermiform appendix.
-
->> mesenteric fat stranding in the right lower quadrant.
-
->> no contrast enhancement within the appendiceal lumen.
-
->> an appendicolith was present in the appendiceal lumen.
-acute appendicitis
-acute appendicitis
-
-ovarian torsion
-
-pelvic inflammatory disease
-
-ruptured ovarian cyst
-28 year old female with 22 hours of progressive abdominal pain which was initially epigatric in location and then localized to the right pubic region and then finally to the right lower quadrant.
-the pain was preceded by nausea and vomiting. at presentation to er she reported chills and rigors.
-
-
-Keywords by value: 
-- appendiceal: 0.24554278554911224
-- the: 0.2270161661124735
-- quadrant: 0.2173384755814094
-- was: 0.21627618367638363
-- lumen: 0.18419734434265855
-- ovarian: 0.17623292689607897
-- appendicitis: 0.17547478538652578
-- epigatric: 0.16540548809858063
-- lower: 0.15855699650920632
-- vermiform: 0.1528376502430354
-- then: 0.14643098302731403
-- rigors: 0.14548593638239768
-- preceded: 0.1426909444907391
-- right: 0.1371639722932774
-- instructed: 0.13012310663519386
-- diffuse: 0.12972557050843767
-- to: 0.12928523459360305
-- she: 0.12313763946966444
-- worst: 0.11821467080557695
-- appendicolith: 0.11821467080557695
-- released: 0.11691900850204229
-- pubic: 0.11691900850204229
-- abdominal: 0.11313612778566601
-- acute: 0.11190226974418857
-- finally: 0.11154724786612616
-- appendectomy: 0.1093600745876555
-- and: 0.10686168321566945
-- febrile: 0.10633112387121868
-- torsion: 0.10314195216509799
-- in: 0.1029191143493538
-- ruptured: 0.09807264320188928
-- peritoneal: 0.09720907250022479
-- within: 0.09527241634965593
-- chills: 0.0941153661529972
-- appendix: 0.09324766196052514
-- localized: 0.0929118827838866
-- stranding: 0.09258220902269389
-- shift: 0.09086894287626229
-- that: 0.08976861479587887
-- mesenteric: 0.08930368027967069
-- clinic: 0.08712270476483885
-- 28: 0.08583955129750154
-- open: 0.08550480534634405
-- count: 0.08539458277378359
-- general: 0.08302847820093172
-- 22: 0.0814588652486551
-- initially: 0.08110848608767754
-- pelvic: 0.08085007472062423
-- nausea: 0.07945148382874756
-- enlargement: 0.0792938171191762
-- progressive: 0.07921549493540662
-- an: 0.0791018050911036
-- hours: 0.07882887991794549
-- er: 0.07735993468748487
-- emergency: 0.07673584242412546
-- vomiting: 0.07653249572437823
-- hospital: 0.07639818727804011
-- reported: 0.07449452889238323
-- pain: 0.07402140528761564
-- later: 0.07401891979128652
-- signs: 0.07228546420485556
-- location: 0.07202076523592596
-- underwent: 0.07124909314634484
-- presentation: 0.07119879753198909
-- elevated: 0.07050892681160469
-- inflammatory: 0.06993780692340405
-- week: 0.06956681582534907
-- white: 0.0682395241071666
-- days: 0.0654750310576006
-- tenderness: 0.06486278525421883
-- fat: 0.06433921979124274
-- demonstrated: 0.06356468082564191
-- region: 0.06186655314638772
-- with: 0.060758073959181855
-- blood: 0.060067615308804764
-- cyst: 0.059664376509718065
-- enhancement: 0.059531932112564585
-- cell: 0.05916615342129313
-- surgery: 0.05560780518490021
-- present: 0.05307277935152065
-- contrast: 0.05025403950971028
-- female: 0.049909263121669156
-- which: 0.04703019552362786
-- by: 0.04392195215597094
-- disease: 0.04341581999809224
-- from: 0.041077613999902965
-- of: 0.040481195135007544
-- at: 0.039066442804239716
-- left: 0.03528188780201594
-- patient: 0.033640261556476106
-- no: 0.03363393401938559
-- year: 0.031874781560995456
-- old: 0.030610824028012355
+\-\ Texto\\:\\ \ \(0\)\
+\-\ febrile\\ with\\ elevated\\ white\\ blood\\ cell\\ count\\ that\\ demonstrated\\ a\\ left\\ shift\\.\ \(0\)\
+\-\ diffuse\\ abdominal\\ tenderness\\ that\\ was\\ worst\\ in\\ the\\ right\\ lower\\ quadrant\\ with\\ peritoneal\\ signs\\.\ \(0\)\
+\-\ the\\ patient\\ underwent\\ an\\ emergency\\ open\\ appendectomy\\ and\\ was\\ released\\ from\\ the\\ hospital\\ 2\\ days\\ later\\.\\ she\\ was\\ instructed\\ to\\ follow\\-up\\ within\\ a\\ week\\ to\\ the\\ general\\ surgery\\ clinic\\.\ \(0\)\
+\-\ \\>\\>\\ diffuse\\ enlargement\\ of\\ the\\ vermiform\\ appendix\\.\ \(0\)\
+\-\ \\>\\>\\ mesenteric\\ fat\\ stranding\\ in\\ the\\ right\\ lower\\ quadrant\\.\ \(0\)\
+\-\ \\>\\>\\ no\\ contrast\\ enhancement\\ within\\ the\\ appendiceal\\ lumen\\.\ \(0\)\
+\-\ \\>\\>\\ an\\ appendicolith\\ was\\ present\\ in\\ the\\ appendiceal\\ lumen\\.\ \(0\)\
+\-\ acute\\ appendicitis\ \(36\)\
+\-\ acute\\ appendicitis\ \(36\)\
+\-\ ovarian\\ torsion\ \(10\)\
+\-\ pelvic\\ inflammatory\\ disease\ \(9\)\
+\-\ ruptured\\ ovarian\\ cyst\ \(0\)\
+\-\ 28\\ year\\ old\\ female\\ with\\ 22\\ hours\\ of\\ progressive\\ abdominal\\ pain\\ which\\ was\\ initially\\ epigatric\\ in\\ location\\ and\\ then\\ localized\\ to\\ the\\ right\\ pubic\\ region\\ and\\ then\\ finally\\ to\\ the\\ right\\ lower\\ quadrant\\.\ \(1\)\
+\-\ the\\ pain\\ was\\ preceded\\ by\\ nausea\\ and\\ vomiting\\.\\ at\\ presentation\\ to\\ er\\ she\\ reported\\ chills\\ and\\ rigors\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ appendiceal\\:\\ 0\\.24554278554911224\ \(0\)\
+\-\ the\\:\\ 0\\.2270161661124735\ \(0\)\
+\-\ quadrant\\:\\ 0\\.2173384755814094\ \(0\)\
+\-\ was\\:\\ 0\\.21627618367638363\ \(0\)\
+\-\ lumen\\:\\ 0\\.18419734434265855\ \(0\)\
+\-\ ovarian\\:\\ 0\\.17623292689607897\ \(0\)\
+\-\ appendicitis\\:\\ 0\\.17547478538652578\ \(0\)\
+\-\ epigatric\\:\\ 0\\.16540548809858063\ \(0\)\
+\-\ lower\\:\\ 0\\.15855699650920632\ \(0\)\
+\-\ vermiform\\:\\ 0\\.1528376502430354\ \(0\)\
+\-\ then\\:\\ 0\\.14643098302731403\ \(0\)\
+\-\ rigors\\:\\ 0\\.14548593638239768\ \(0\)\
+\-\ preceded\\:\\ 0\\.1426909444907391\ \(0\)\
+\-\ right\\:\\ 0\\.1371639722932774\ \(0\)\
+\-\ instructed\\:\\ 0\\.13012310663519386\ \(0\)\
+\-\ diffuse\\:\\ 0\\.12972557050843767\ \(0\)\
+\-\ to\\:\\ 0\\.12928523459360305\ \(0\)\
+\-\ she\\:\\ 0\\.12313763946966444\ \(0\)\
+\-\ worst\\:\\ 0\\.11821467080557695\ \(0\)\
+\-\ appendicolith\\:\\ 0\\.11821467080557695\ \(0\)\
+\-\ released\\:\\ 0\\.11691900850204229\ \(0\)\
+\-\ pubic\\:\\ 0\\.11691900850204229\ \(0\)\
+\-\ abdominal\\:\\ 0\\.11313612778566601\ \(0\)\
+\-\ acute\\:\\ 0\\.11190226974418857\ \(0\)\
+\-\ finally\\:\\ 0\\.11154724786612616\ \(0\)\
+\-\ appendectomy\\:\\ 0\\.1093600745876555\ \(0\)\
+\-\ and\\:\\ 0\\.10686168321566945\ \(0\)\
+\-\ febrile\\:\\ 0\\.10633112387121868\ \(0\)\
+\-\ torsion\\:\\ 0\\.10314195216509799\ \(0\)\
+\-\ in\\:\\ 0\\.1029191143493538\ \(0\)\
+\-\ ruptured\\:\\ 0\\.09807264320188928\ \(0\)\
+\-\ peritoneal\\:\\ 0\\.09720907250022479\ \(0\)\
+\-\ within\\:\\ 0\\.09527241634965593\ \(0\)\
+\-\ chills\\:\\ 0\\.0941153661529972\ \(0\)\
+\-\ appendix\\:\\ 0\\.09324766196052514\ \(0\)\
+\-\ localized\\:\\ 0\\.0929118827838866\ \(0\)\
+\-\ stranding\\:\\ 0\\.09258220902269389\ \(0\)\
+\-\ shift\\:\\ 0\\.09086894287626229\ \(0\)\
+\-\ that\\:\\ 0\\.08976861479587887\ \(0\)\
+\-\ mesenteric\\:\\ 0\\.08930368027967069\ \(0\)\
+\-\ clinic\\:\\ 0\\.08712270476483885\ \(0\)\
+\-\ 28\\:\\ 0\\.08583955129750154\ \(0\)\
+\-\ open\\:\\ 0\\.08550480534634405\ \(0\)\
+\-\ count\\:\\ 0\\.08539458277378359\ \(0\)\
+\-\ general\\:\\ 0\\.08302847820093172\ \(0\)\
+\-\ 22\\:\\ 0\\.0814588652486551\ \(0\)\
+\-\ initially\\:\\ 0\\.08110848608767754\ \(0\)\
+\-\ pelvic\\:\\ 0\\.08085007472062423\ \(0\)\
+\-\ nausea\\:\\ 0\\.07945148382874756\ \(0\)\
+\-\ enlargement\\:\\ 0\\.0792938171191762\ \(0\)\
+\-\ progressive\\:\\ 0\\.07921549493540662\ \(0\)\
+\-\ an\\:\\ 0\\.0791018050911036\ \(0\)\
+\-\ hours\\:\\ 0\\.07882887991794549\ \(0\)\
+\-\ er\\:\\ 0\\.07735993468748487\ \(0\)\
+\-\ emergency\\:\\ 0\\.07673584242412546\ \(0\)\
+\-\ vomiting\\:\\ 0\\.07653249572437823\ \(0\)\
+\-\ hospital\\:\\ 0\\.07639818727804011\ \(0\)\
+\-\ reported\\:\\ 0\\.07449452889238323\ \(0\)\
+\-\ pain\\:\\ 0\\.07402140528761564\ \(0\)\
+\-\ later\\:\\ 0\\.07401891979128652\ \(0\)\
+\-\ signs\\:\\ 0\\.07228546420485556\ \(0\)\
+\-\ location\\:\\ 0\\.07202076523592596\ \(0\)\
+\-\ underwent\\:\\ 0\\.07124909314634484\ \(0\)\
+\-\ presentation\\:\\ 0\\.07119879753198909\ \(0\)\
+\-\ elevated\\:\\ 0\\.07050892681160469\ \(0\)\
+\-\ inflammatory\\:\\ 0\\.06993780692340405\ \(0\)\
+\-\ week\\:\\ 0\\.06956681582534907\ \(0\)\
+\-\ white\\:\\ 0\\.0682395241071666\ \(0\)\
+\-\ days\\:\\ 0\\.0654750310576006\ \(0\)\
+\-\ tenderness\\:\\ 0\\.06486278525421883\ \(0\)\
+\-\ fat\\:\\ 0\\.06433921979124274\ \(0\)\
+\-\ demonstrated\\:\\ 0\\.06356468082564191\ \(0\)\
+\-\ region\\:\\ 0\\.06186655314638772\ \(0\)\
+\-\ with\\:\\ 0\\.060758073959181855\ \(0\)\
+\-\ blood\\:\\ 0\\.060067615308804764\ \(0\)\
+\-\ cyst\\:\\ 0\\.059664376509718065\ \(0\)\
+\-\ enhancement\\:\\ 0\\.059531932112564585\ \(0\)\
+\-\ cell\\:\\ 0\\.05916615342129313\ \(0\)\
+\-\ surgery\\:\\ 0\\.05560780518490021\ \(0\)\
+\-\ present\\:\\ 0\\.05307277935152065\ \(0\)\
+\-\ contrast\\:\\ 0\\.05025403950971028\ \(0\)\
+\-\ female\\:\\ 0\\.049909263121669156\ \(0\)\
+\-\ which\\:\\ 0\\.04703019552362786\ \(0\)\
+\-\ by\\:\\ 0\\.04392195215597094\ \(0\)\
+\-\ disease\\:\\ 0\\.04341581999809224\ \(0\)\
+\-\ from\\:\\ 0\\.041077613999902965\ \(0\)\
+\-\ of\\:\\ 0\\.040481195135007544\ \(0\)\
+\-\ at\\:\\ 0\\.039066442804239716\ \(0\)\
+\-\ left\\:\\ 0\\.03528188780201594\ \(0\)\
+\-\ patient\\:\\ 0\\.033640261556476106\ \(0\)\
+\-\ no\\:\\ 0\\.03363393401938559\ \(0\)\
+\-\ year\\:\\ 0\\.031874781560995456\ \(0\)\
+\-\ old\\:\\ 0\\.030610824028012355\ \(0\)\

@@ -1,59 +1,57 @@
-Texto: 
-tachypnea. t=101f
-anticoagulation, follow up chest radiograms
-wedge shaped opacity with distinct borders in left upper lobe, new from comparison film. no effusions. intact sternotomy wires and prosthetic aortic valve noted.
-pe with hampton's hump
-infection, neoplasm,hemorrhage, pulmonary embolism
-history of aortic valve replacement. now with fever and shortness of breath.
-hampton's hump.  v/q scan matched demonstrating a pe.
-
-
-Keywords by value: 
-- hampton: 0.3668608680206192
-- hump: 0.36178730455802866
-- valve: 0.25188074414183087
-- pe: 0.22708613793625604
-- aortic: 0.21228805960875857
-- radiograms: 0.20988189513186237
-- matched: 0.1834304340103096
-- prosthetic: 0.17859885406713677
-- wires: 0.1667414201632833
-- sternotomy: 0.16420463843198807
-- distinct: 0.1457743486245612
-- tachypnea: 0.14522082637308423
-- wedge: 0.14363274599322925
-- borders: 0.1381578449455025
-- comparison: 0.1308266107379355
-- effusions: 0.12853181252605794
-- anticoagulation: 0.12746154043684585
-- embolism: 0.12450962501619361
-- replacement: 0.12337903433798683
-- opacity: 0.11951025932423123
-- shaped: 0.11474717774166715
-- demonstrating: 0.11325122106130153
-- shortness: 0.11012698772102013
-- film: 0.10263387365598217
-- breath: 0.10066363941722507
-- intact: 0.09940715481812798
-- new: 0.09501736997692346
-- now: 0.09428059835222871
-- neoplasm: 0.09375857990958941
-- fever: 0.09312158091755962
-- hemorrhage: 0.09195583478798995
-- pulmonary: 0.0837180282124709
-- infection: 0.08296424693852443
-- scan: 0.0814851847662401
-- with: 0.08068152607300189
-- lobe: 0.07937082014189176
-- follow: 0.07404080990309747
-- upper: 0.07339496987219146
-- noted: 0.07282004737996517
-- chest: 0.07249758062887593
-- up: 0.06793933036358606
-- and: 0.05676127051928689
-- from: 0.054547558357040886
-- of: 0.05375556511132316
-- history: 0.05247369019018044
-- left: 0.04685132962765509
-- no: 0.04466298794042984
-- in: 0.0341669455049142
+\-\ Texto\\:\\ \ \(0\)\
+\-\ tachypnea\\.\\ t\\=101f\ \(0\)\
+\-\ anticoagulation\\,\\ follow\\ up\\ chest\\ radiograms\ \(1\)\
+\-\ wedge\\ shaped\\ opacity\\ with\\ distinct\\ borders\\ in\\ left\\ upper\\ lobe\\,\\ new\\ from\\ comparison\\ film\\.\\ no\\ effusions\\.\\ intact\\ sternotomy\\ wires\\ and\\ prosthetic\\ aortic\\ valve\\ noted\\.\ \(0\)\
+\-\ pe\\ with\\ hampton\\'s\\ hump\ \(0\)\
+\-\ infection\\,\\ neoplasm\\,hemorrhage\\,\\ pulmonary\\ embolism\ \(0\)\
+\-\ history\\ of\\ aortic\\ valve\\ replacement\\.\\ now\\ with\\ fever\\ and\\ shortness\\ of\\ breath\\.\ \(0\)\
+\-\ hampton\\'s\\ hump\\.\\ \\ v\\/q\\ scan\\ matched\\ demonstrating\\ a\\ pe\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ hampton\\:\\ 0\\.3668608680206192\ \(0\)\
+\-\ hump\\:\\ 0\\.36178730455802866\ \(0\)\
+\-\ valve\\:\\ 0\\.25188074414183087\ \(0\)\
+\-\ pe\\:\\ 0\\.22708613793625604\ \(0\)\
+\-\ aortic\\:\\ 0\\.21228805960875857\ \(0\)\
+\-\ radiograms\\:\\ 0\\.20988189513186237\ \(0\)\
+\-\ matched\\:\\ 0\\.1834304340103096\ \(0\)\
+\-\ prosthetic\\:\\ 0\\.17859885406713677\ \(0\)\
+\-\ wires\\:\\ 0\\.1667414201632833\ \(0\)\
+\-\ sternotomy\\:\\ 0\\.16420463843198807\ \(0\)\
+\-\ distinct\\:\\ 0\\.1457743486245612\ \(0\)\
+\-\ tachypnea\\:\\ 0\\.14522082637308423\ \(0\)\
+\-\ wedge\\:\\ 0\\.14363274599322925\ \(0\)\
+\-\ borders\\:\\ 0\\.1381578449455025\ \(0\)\
+\-\ comparison\\:\\ 0\\.1308266107379355\ \(0\)\
+\-\ effusions\\:\\ 0\\.12853181252605794\ \(0\)\
+\-\ anticoagulation\\:\\ 0\\.12746154043684585\ \(0\)\
+\-\ embolism\\:\\ 0\\.12450962501619361\ \(0\)\
+\-\ replacement\\:\\ 0\\.12337903433798683\ \(0\)\
+\-\ opacity\\:\\ 0\\.11951025932423123\ \(0\)\
+\-\ shaped\\:\\ 0\\.11474717774166715\ \(0\)\
+\-\ demonstrating\\:\\ 0\\.11325122106130153\ \(0\)\
+\-\ shortness\\:\\ 0\\.11012698772102013\ \(0\)\
+\-\ film\\:\\ 0\\.10263387365598217\ \(0\)\
+\-\ breath\\:\\ 0\\.10066363941722507\ \(0\)\
+\-\ intact\\:\\ 0\\.09940715481812798\ \(0\)\
+\-\ new\\:\\ 0\\.09501736997692346\ \(0\)\
+\-\ now\\:\\ 0\\.09428059835222871\ \(0\)\
+\-\ neoplasm\\:\\ 0\\.09375857990958941\ \(0\)\
+\-\ fever\\:\\ 0\\.09312158091755962\ \(0\)\
+\-\ hemorrhage\\:\\ 0\\.09195583478798995\ \(0\)\
+\-\ pulmonary\\:\\ 0\\.0837180282124709\ \(0\)\
+\-\ infection\\:\\ 0\\.08296424693852443\ \(0\)\
+\-\ scan\\:\\ 0\\.0814851847662401\ \(0\)\
+\-\ with\\:\\ 0\\.08068152607300189\ \(0\)\
+\-\ lobe\\:\\ 0\\.07937082014189176\ \(0\)\
+\-\ follow\\:\\ 0\\.07404080990309747\ \(0\)\
+\-\ upper\\:\\ 0\\.07339496987219146\ \(0\)\
+\-\ noted\\:\\ 0\\.07282004737996517\ \(0\)\
+\-\ chest\\:\\ 0\\.07249758062887593\ \(0\)\
+\-\ up\\:\\ 0\\.06793933036358606\ \(0\)\
+\-\ and\\:\\ 0\\.05676127051928689\ \(0\)\
+\-\ from\\:\\ 0\\.054547558357040886\ \(0\)\
+\-\ of\\:\\ 0\\.05375556511132316\ \(0\)\
+\-\ history\\:\\ 0\\.05247369019018044\ \(0\)\
+\-\ left\\:\\ 0\\.04685132962765509\ \(0\)\
+\-\ no\\:\\ 0\\.04466298794042984\ \(0\)\
+\-\ in\\:\\ 0\\.0341669455049142\ \(0\)\

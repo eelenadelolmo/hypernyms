@@ -1,105 +1,102 @@
-Texto: 
-none
-treatment will include prophylactic antibiotics for the prevention of urinary tract infections. in the absence of vesicoureteral reflux, a small diverticulum is unlikely to require further treatment.
-the vcug shows no evidence of vesicoureteral reflux.  there is a bladder diverticulum observed on the lateral posterior oblique view in the vicinity of the neck of the bladder. no evidence of bladder outlet obstruction is seen.
-bladder diverticulum
-bladder diverticulum
---other possible diagnoses for recurrent uti's in children include:
-vesicoureteral reflux
-ureteropelvic duplication
-ureterocele
-posterior uretral valves
-ureteropelvic junction obstruction
-the patient presented with recurrent urinary tract infections (two in the past year).
-a diverticulum located at the ureterovesical junction is called a hutch diverticulum. these are commonly associated with vesicoureteral reflux, although not in this case.
-
-bladder diverticula, especially multiple bladder diverticula, are often associated with bladder outlet obstruction. in this patient, evidence of bladder obstruction, such as trabeculation or thickening of the bladder wall and large post-void residual, was not observed.
-
-
-Keywords by value: 
-- bladder: 0.5221203523364488
-- diverticulum: 0.35763806243363677
-- vesicoureteral: 0.29274199411775026
-- reflux: 0.23309289614464032
-- obstruction: 0.18851289770148277
-- ureteropelvic: 0.1692973401794049
-- outlet: 0.15211808008321379
-- the: 0.14768027790912286
-- diverticula: 0.14574188894017442
-- observed: 0.11982545326383948
-- infections: 0.11881284474690626
-- urinary: 0.11636705438371481
-- evidence: 0.11457050588641746
-- tract: 0.11273061574251794
-- recurrent: 0.10789948352512055
-- junction: 0.10777499692295432
-- uretral: 0.10760083243582863
-- of: 0.10533653615962228
-- hutch: 0.10281833978502143
-- in: 0.10042758409819415
-- vicinity: 0.09679311161457886
-- trabeculation: 0.09282439527706272
-- ureterovesical: 0.0912493820611081
-- prevention: 0.08235858471957933
-- include: 0.08006604181932554
-- ureterocele: 0.07931747021738517
-- vcug: 0.07605904004160689
-- uti: 0.07489793168638754
-- valves: 0.07453497756657795
-- is: 0.07370408416987441
-- prophylactic: 0.07350867157213341
-- diagnoses: 0.07114174503002489
-- associated: 0.07092681330810625
-- posterior: 0.06958567119142206
-- duplication: 0.06808845181928001
-- treatment: 0.06410132398066325
-- called: 0.06283274070500597
-- residual: 0.06122464169405157
-- unlikely: 0.05960634373893947
-- oblique: 0.05827322403616008
-- require: 0.0578314091574985
-- children: 0.055130233981112525
-- absence: 0.053641758777576806
-- located: 0.05322366160182192
-- especially: 0.05322366160182192
-- not: 0.05312378555269776
-- are: 0.0510619939192151
-- commonly: 0.04978649948680426
-- antibiotics: 0.04956927275447695
-- view: 0.04927172347223233
-- this: 0.04623958794677511
-- although: 0.045805261833692414
-- thickening: 0.0457740165752
-- possible: 0.04558826347349951
-- often: 0.04390242576904275
-- further: 0.04382281863997396
-- past: 0.043796401880480534
-- patient: 0.0437678361032193
-- no: 0.043759603628395934
-- will: 0.04330540769488895
-- such: 0.04328012348760037
-- neck: 0.041159129986971174
-- wall: 0.04092928062330967
-- for: 0.040786175010981335
-- two: 0.03995655336026198
-- with: 0.039524803018079
-- shows: 0.039489545481622146
-- presented: 0.03923587810961101
-- these: 0.03799493529127606
-- none: 0.036769962231020255
-- other: 0.03494135900431629
-- small: 0.03470705283081493
-- case: 0.03380245737252182
-- large: 0.033712332172368936
-- lateral: 0.03339128253799557
-- multiple: 0.032909783921023755
-- seen: 0.03167648824037441
-- as: 0.027030136776687502
-- there: 0.026771863063566853
-- at: 0.025413798625215946
-- was: 0.023448937181731022
-- or: 0.023406702919916256
-- year: 0.020735424616801112
-- on: 0.020320747026152355
-- to: 0.016820722243075865
-- and: 0.013903294505738375
+\-\ Texto\\:\\ \ \(0\)\
+\-\ none\ \(204\)\
+\-\ treatment\\ will\\ include\\ prophylactic\\ antibiotics\\ for\\ the\\ prevention\\ of\\ urinary\\ tract\\ infections\\.\\ in\\ the\\ absence\\ of\\ vesicoureteral\\ reflux\\,\\ a\\ small\\ diverticulum\\ is\\ unlikely\\ to\\ require\\ further\\ treatment\\.\ \(0\)\
+\-\ the\\ vcug\\ shows\\ no\\ evidence\\ of\\ vesicoureteral\\ reflux\\.\\ \\ there\\ is\\ a\\ bladder\\ diverticulum\\ observed\\ on\\ the\\ lateral\\ posterior\\ oblique\\ view\\ in\\ the\\ vicinity\\ of\\ the\\ neck\\ of\\ the\\ bladder\\.\\ no\\ evidence\\ of\\ bladder\\ outlet\\ obstruction\\ is\\ seen\\.\ \(0\)\
+\-\ bladder\\ diverticulum\ \(8\)\
+\-\ bladder\\ diverticulum\ \(8\)\
+\-\ \\-other\\ possible\\ diagnoses\\ for\\ recurrent\\ uti\\'s\\ in\\ children\\ include\\:\ \(0\)\
+\-\ vesicoureteral\\ reflux\ \(36\)\
+\-\ ureteropelvic\\ duplication\ \(0\)\
+\-\ ureterocele\ \(36\)\
+\-\ posterior\\ uretral\\ valves\ \(0\)\
+\-\ ureteropelvic\\ junction\\ obstruction\ \(8\)\
+\-\ the\\ patient\\ presented\\ with\\ recurrent\\ urinary\\ tract\\ infections\\ \\(two\\ in\\ the\\ past\\ year\\)\\.\ \(0\)\
+\-\ a\\ diverticulum\\ located\\ at\\ the\\ ureterovesical\\ junction\\ is\\ called\\ a\\ hutch\\ diverticulum\\.\\ these\\ are\\ commonly\\ associated\\ with\\ vesicoureteral\\ reflux\\,\\ although\\ not\\ in\\ this\\ case\\.\ \(0\)\
+\-\ bladder\\ diverticula\\,\\ especially\\ multiple\\ bladder\\ diverticula\\,\\ are\\ often\\ associated\\ with\\ bladder\\ outlet\\ obstruction\\.\\ in\\ this\\ patient\\,\\ evidence\\ of\\ bladder\\ obstruction\\,\\ such\\ as\\ trabeculation\\ or\\ thickening\\ of\\ the\\ bladder\\ wall\\ and\\ large\\ post\\-void\\ residual\\,\\ was\\ not\\ observed\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ bladder\\:\\ 0\\.5221203523364488\ \(0\)\
+\-\ diverticulum\\:\\ 0\\.35763806243363677\ \(0\)\
+\-\ vesicoureteral\\:\\ 0\\.29274199411775026\ \(0\)\
+\-\ reflux\\:\\ 0\\.23309289614464032\ \(0\)\
+\-\ obstruction\\:\\ 0\\.18851289770148277\ \(0\)\
+\-\ ureteropelvic\\:\\ 0\\.1692973401794049\ \(0\)\
+\-\ outlet\\:\\ 0\\.15211808008321379\ \(0\)\
+\-\ the\\:\\ 0\\.14768027790912286\ \(0\)\
+\-\ diverticula\\:\\ 0\\.14574188894017442\ \(0\)\
+\-\ observed\\:\\ 0\\.11982545326383948\ \(0\)\
+\-\ infections\\:\\ 0\\.11881284474690626\ \(0\)\
+\-\ urinary\\:\\ 0\\.11636705438371481\ \(0\)\
+\-\ evidence\\:\\ 0\\.11457050588641746\ \(0\)\
+\-\ tract\\:\\ 0\\.11273061574251794\ \(0\)\
+\-\ recurrent\\:\\ 0\\.10789948352512055\ \(0\)\
+\-\ junction\\:\\ 0\\.10777499692295432\ \(0\)\
+\-\ uretral\\:\\ 0\\.10760083243582863\ \(0\)\
+\-\ of\\:\\ 0\\.10533653615962228\ \(0\)\
+\-\ hutch\\:\\ 0\\.10281833978502143\ \(0\)\
+\-\ in\\:\\ 0\\.10042758409819415\ \(0\)\
+\-\ vicinity\\:\\ 0\\.09679311161457886\ \(0\)\
+\-\ trabeculation\\:\\ 0\\.09282439527706272\ \(0\)\
+\-\ ureterovesical\\:\\ 0\\.0912493820611081\ \(0\)\
+\-\ prevention\\:\\ 0\\.08235858471957933\ \(0\)\
+\-\ include\\:\\ 0\\.08006604181932554\ \(0\)\
+\-\ ureterocele\\:\\ 0\\.07931747021738517\ \(0\)\
+\-\ vcug\\:\\ 0\\.07605904004160689\ \(0\)\
+\-\ uti\\:\\ 0\\.07489793168638754\ \(0\)\
+\-\ valves\\:\\ 0\\.07453497756657795\ \(0\)\
+\-\ is\\:\\ 0\\.07370408416987441\ \(0\)\
+\-\ prophylactic\\:\\ 0\\.07350867157213341\ \(0\)\
+\-\ diagnoses\\:\\ 0\\.07114174503002489\ \(0\)\
+\-\ associated\\:\\ 0\\.07092681330810625\ \(0\)\
+\-\ posterior\\:\\ 0\\.06958567119142206\ \(0\)\
+\-\ duplication\\:\\ 0\\.06808845181928001\ \(0\)\
+\-\ treatment\\:\\ 0\\.06410132398066325\ \(0\)\
+\-\ called\\:\\ 0\\.06283274070500597\ \(0\)\
+\-\ residual\\:\\ 0\\.06122464169405157\ \(0\)\
+\-\ unlikely\\:\\ 0\\.05960634373893947\ \(0\)\
+\-\ oblique\\:\\ 0\\.05827322403616008\ \(0\)\
+\-\ require\\:\\ 0\\.0578314091574985\ \(0\)\
+\-\ children\\:\\ 0\\.055130233981112525\ \(0\)\
+\-\ absence\\:\\ 0\\.053641758777576806\ \(0\)\
+\-\ located\\:\\ 0\\.05322366160182192\ \(0\)\
+\-\ especially\\:\\ 0\\.05322366160182192\ \(0\)\
+\-\ not\\:\\ 0\\.05312378555269776\ \(0\)\
+\-\ are\\:\\ 0\\.0510619939192151\ \(0\)\
+\-\ commonly\\:\\ 0\\.04978649948680426\ \(0\)\
+\-\ antibiotics\\:\\ 0\\.04956927275447695\ \(0\)\
+\-\ view\\:\\ 0\\.04927172347223233\ \(0\)\
+\-\ this\\:\\ 0\\.04623958794677511\ \(0\)\
+\-\ although\\:\\ 0\\.045805261833692414\ \(0\)\
+\-\ thickening\\:\\ 0\\.0457740165752\ \(0\)\
+\-\ possible\\:\\ 0\\.04558826347349951\ \(0\)\
+\-\ often\\:\\ 0\\.04390242576904275\ \(0\)\
+\-\ further\\:\\ 0\\.04382281863997396\ \(0\)\
+\-\ past\\:\\ 0\\.043796401880480534\ \(0\)\
+\-\ patient\\:\\ 0\\.0437678361032193\ \(0\)\
+\-\ no\\:\\ 0\\.043759603628395934\ \(0\)\
+\-\ will\\:\\ 0\\.04330540769488895\ \(0\)\
+\-\ such\\:\\ 0\\.04328012348760037\ \(0\)\
+\-\ neck\\:\\ 0\\.041159129986971174\ \(0\)\
+\-\ wall\\:\\ 0\\.04092928062330967\ \(0\)\
+\-\ for\\:\\ 0\\.040786175010981335\ \(0\)\
+\-\ two\\:\\ 0\\.03995655336026198\ \(0\)\
+\-\ with\\:\\ 0\\.039524803018079\ \(0\)\
+\-\ shows\\:\\ 0\\.039489545481622146\ \(0\)\
+\-\ presented\\:\\ 0\\.03923587810961101\ \(0\)\
+\-\ these\\:\\ 0\\.03799493529127606\ \(0\)\
+\-\ none\\:\\ 0\\.036769962231020255\ \(0\)\
+\-\ other\\:\\ 0\\.03494135900431629\ \(0\)\
+\-\ small\\:\\ 0\\.03470705283081493\ \(0\)\
+\-\ case\\:\\ 0\\.03380245737252182\ \(0\)\
+\-\ large\\:\\ 0\\.033712332172368936\ \(0\)\
+\-\ lateral\\:\\ 0\\.03339128253799557\ \(0\)\
+\-\ multiple\\:\\ 0\\.032909783921023755\ \(0\)\
+\-\ seen\\:\\ 0\\.03167648824037441\ \(0\)\
+\-\ as\\:\\ 0\\.027030136776687502\ \(0\)\
+\-\ there\\:\\ 0\\.026771863063566853\ \(0\)\
+\-\ at\\:\\ 0\\.025413798625215946\ \(0\)\
+\-\ was\\:\\ 0\\.023448937181731022\ \(0\)\
+\-\ or\\:\\ 0\\.023406702919916256\ \(0\)\
+\-\ year\\:\\ 0\\.020735424616801112\ \(0\)\
+\-\ on\\:\\ 0\\.020320747026152355\ \(0\)\
+\-\ to\\:\\ 0\\.016820722243075865\ \(0\)\
+\-\ and\\:\\ 0\\.013903294505738375\ \(0\)\

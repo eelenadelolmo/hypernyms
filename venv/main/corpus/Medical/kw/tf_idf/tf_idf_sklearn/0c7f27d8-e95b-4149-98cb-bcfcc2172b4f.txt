@@ -1,64 +1,62 @@
-Texto: 
-elevation of the right hemidiaphragm consistent with right sided volume loss.  edge in the right lower lung zone which does not obscure the right cardiac silhouette.
-rll atelectasis
-atelectasis
-consolidation
-effusion
-20 y.o. active duty male with subdural hematoma, intubated.
-there is volume loss which is essential for the diagnosis of atelectasis.  a consolidative process such as pneumonia maintains its lung volume.  the collapsed lung does not obscure the right heart border and therefore cannot be the right middle lobe.
-
-
-Keywords by value: 
-- atelectasis: 0.3378031679966221
-- volume: 0.3332927180426954
-- obscure: 0.3288725701240713
-- right: 0.25154773290039956
-- lung: 0.23076967842439436
-- the: 0.1766246175413134
-- does: 0.17484025998752345
-- maintains: 0.17149572982130618
-- consolidative: 0.16888472937588844
-- loss: 0.15408041464200806
-- rll: 0.15232056862787574
-- collapsed: 0.14808527866861423
-- essential: 0.14146832129669293
-- intubated: 0.13370507513700136
-- hemidiaphragm: 0.13177621719230445
-- silhouette: 0.12916521674688672
-- edge: 0.12758112285979425
-- subdural: 0.12405499546620267
-- zone: 0.12218053725943064
-- duty: 0.11990491207723716
-- consolidation: 0.11687732172226015
-- elevation: 0.115285097307998
-- which: 0.11499947947007588
-- border: 0.11183657051434917
-- therefore: 0.11146399229741236
-- not: 0.099841798031348
-- pneumonia: 0.09981002110039618
-- process: 0.09484157164180648
-- cardiac: 0.09390175188990861
-- effusion: 0.09390175188990861
-- active: 0.09390175188990861
-- its: 0.0935696425759872
-- middle: 0.09042488647676654
-- hematoma: 0.08850794995321186
-- heart: 0.08792540274123184
-- 20: 0.08158006571111866
-- sided: 0.08134144250195206
-- such: 0.08134144250195206
-- lobe: 0.07307685636971405
-- is: 0.06926039070083154
-- consistent: 0.06856608015114302
-- diagnosis: 0.06555268378177027
-- lower: 0.06461796108465628
-- male: 0.056302036216207094
-- be: 0.05129719664161641
-- as: 0.05080092521156367
-- there: 0.05031552094991484
-- with: 0.04952241711320663
-- of: 0.04949284515002298
-- for: 0.0383271354399067
-- in: 0.03145756796755902
-- and: 0.02613010175329624
-- can: 0.0
+\-\ Texto\\:\\ \ \(0\)\
+\-\ elevation\\ of\\ the\\ right\\ hemidiaphragm\\ consistent\\ with\\ right\\ sided\\ volume\\ loss\\.\\ \\ edge\\ in\\ the\\ right\\ lower\\ lung\\ zone\\ which\\ does\\ not\\ obscure\\ the\\ right\\ cardiac\\ silhouette\\.\ \(0\)\
+\-\ rll\\ atelectasis\ \(0\)\
+\-\ atelectasis\ \(143\)\
+\-\ consolidation\ \(120\)\
+\-\ effusion\ \(565\)\
+\-\ 20\\ y\\.o\\.\\ active\\ duty\\ male\\ with\\ subdural\\ hematoma\\,\\ intubated\\.\ \(1\)\
+\-\ there\\ is\\ volume\\ loss\\ which\\ is\\ essential\\ for\\ the\\ diagnosis\\ of\\ atelectasis\\.\\ \\ a\\ consolidative\\ process\\ such\\ as\\ pneumonia\\ maintains\\ its\\ lung\\ volume\\.\\ \\ the\\ collapsed\\ lung\\ does\\ not\\ obscure\\ the\\ right\\ heart\\ border\\ and\\ therefore\\ cannot\\ be\\ the\\ right\\ middle\\ lobe\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ atelectasis\\:\\ 0\\.3378031679966221\ \(0\)\
+\-\ volume\\:\\ 0\\.3332927180426954\ \(0\)\
+\-\ obscure\\:\\ 0\\.3288725701240713\ \(0\)\
+\-\ right\\:\\ 0\\.25154773290039956\ \(0\)\
+\-\ lung\\:\\ 0\\.23076967842439436\ \(0\)\
+\-\ the\\:\\ 0\\.1766246175413134\ \(0\)\
+\-\ does\\:\\ 0\\.17484025998752345\ \(0\)\
+\-\ maintains\\:\\ 0\\.17149572982130618\ \(0\)\
+\-\ consolidative\\:\\ 0\\.16888472937588844\ \(0\)\
+\-\ loss\\:\\ 0\\.15408041464200806\ \(0\)\
+\-\ rll\\:\\ 0\\.15232056862787574\ \(0\)\
+\-\ collapsed\\:\\ 0\\.14808527866861423\ \(0\)\
+\-\ essential\\:\\ 0\\.14146832129669293\ \(0\)\
+\-\ intubated\\:\\ 0\\.13370507513700136\ \(0\)\
+\-\ hemidiaphragm\\:\\ 0\\.13177621719230445\ \(0\)\
+\-\ silhouette\\:\\ 0\\.12916521674688672\ \(0\)\
+\-\ edge\\:\\ 0\\.12758112285979425\ \(0\)\
+\-\ subdural\\:\\ 0\\.12405499546620267\ \(0\)\
+\-\ zone\\:\\ 0\\.12218053725943064\ \(0\)\
+\-\ duty\\:\\ 0\\.11990491207723716\ \(0\)\
+\-\ consolidation\\:\\ 0\\.11687732172226015\ \(0\)\
+\-\ elevation\\:\\ 0\\.115285097307998\ \(0\)\
+\-\ which\\:\\ 0\\.11499947947007588\ \(0\)\
+\-\ border\\:\\ 0\\.11183657051434917\ \(0\)\
+\-\ therefore\\:\\ 0\\.11146399229741236\ \(0\)\
+\-\ not\\:\\ 0\\.099841798031348\ \(0\)\
+\-\ pneumonia\\:\\ 0\\.09981002110039618\ \(0\)\
+\-\ process\\:\\ 0\\.09484157164180648\ \(0\)\
+\-\ cardiac\\:\\ 0\\.09390175188990861\ \(0\)\
+\-\ effusion\\:\\ 0\\.09390175188990861\ \(0\)\
+\-\ active\\:\\ 0\\.09390175188990861\ \(0\)\
+\-\ its\\:\\ 0\\.0935696425759872\ \(0\)\
+\-\ middle\\:\\ 0\\.09042488647676654\ \(0\)\
+\-\ hematoma\\:\\ 0\\.08850794995321186\ \(0\)\
+\-\ heart\\:\\ 0\\.08792540274123184\ \(0\)\
+\-\ 20\\:\\ 0\\.08158006571111866\ \(0\)\
+\-\ sided\\:\\ 0\\.08134144250195206\ \(0\)\
+\-\ such\\:\\ 0\\.08134144250195206\ \(0\)\
+\-\ lobe\\:\\ 0\\.07307685636971405\ \(0\)\
+\-\ is\\:\\ 0\\.06926039070083154\ \(0\)\
+\-\ consistent\\:\\ 0\\.06856608015114302\ \(0\)\
+\-\ diagnosis\\:\\ 0\\.06555268378177027\ \(0\)\
+\-\ lower\\:\\ 0\\.06461796108465628\ \(0\)\
+\-\ male\\:\\ 0\\.056302036216207094\ \(0\)\
+\-\ be\\:\\ 0\\.05129719664161641\ \(0\)\
+\-\ as\\:\\ 0\\.05080092521156367\ \(0\)\
+\-\ there\\:\\ 0\\.05031552094991484\ \(0\)\
+\-\ with\\:\\ 0\\.04952241711320663\ \(0\)\
+\-\ of\\:\\ 0\\.04949284515002298\ \(0\)\
+\-\ for\\:\\ 0\\.0383271354399067\ \(0\)\
+\-\ in\\:\\ 0\\.03145756796755902\ \(0\)\
+\-\ and\\:\\ 0\\.02613010175329624\ \(0\)\
+\-\ can\\:\\ 0\\.0\ \(0\)\

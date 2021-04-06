@@ -1,60 +1,58 @@
-Texto: 
-no grossly abnormal findings on physical exam.
-conservative management was utilized for the lesions demonstrated.
-â€¢ multiple bony exophytic lesions
-multiple osteochondromatosis
-â€¢ osteochondromatosis
-â€¢ turnerâ€™s syndrome
-â€¢ tuberous sclerosis
-â€¢ traumatic injury
-â€¢ menkeâ€™s disease
-â€¢ fetal alcohol syndrome
-â€¢ hyperparathyroidism
-â€¢ fibrodysplasia ossificans progressiva
-this 9 y.o. girl has imaging performed due to pain, without trauma
-
-
-Keywords by value: 
-- osteochondromatosis: 0.423737579423173
-- menke: 0.2598440366430872
-- fibrodysplasia: 0.2598440366430872
-- progressiva: 0.2512686089381646
-- turner: 0.208137839518634
-- syndrome: 0.2050206329915793
-- ossificans: 0.19912724062647752
-- lesions: 0.1953114033903906
-- utilized: 0.1902295536000562
-- exophytic: 0.18263154778548418
-- tuberous: 0.16956773937887637
-- multiple: 0.16634019022229624
-- grossly: 0.16310905811289614
-- hyperparathyroidism: 0.16196973356430439
-- fetal: 0.1578036121841179
-- alcohol: 0.15716254023094461
-- conservative: 0.13127812042215625
-- bony: 0.13101315248272297
-- traumatic: 0.12885123369333878
-- management: 0.12560037538018404
-- sclerosis: 0.12111554312168045
-- girl: 0.11928058254667807
-- injury: 0.11088365056620228
-- demonstrated: 0.10450179588118395
-- abnormal: 0.10215754673466437
-- performed: 0.1005960141201183
-- trauma: 0.0987525398151294
-- due: 0.09774197873635997
-- physical: 0.09219940336962576
-- without: 0.08968952404036333
-- imaging: 0.08936159227414471
-- exam: 0.08559804645529503
-- findings: 0.0839213891668944
-- has: 0.07766915902819962
-- disease: 0.07137660569554259
-- pain: 0.060846445586842
-- was: 0.05926050260129567
-- this: 0.05842868699263631
-- no: 0.05529496037612719
-- for: 0.05153771387596711
-- on: 0.05135489394128166
-- to: 0.04250957928353682
-- the: 0.033929072138044344
+\-\ Texto\\:\\ \ \(0\)\
+\-\ no\\ grossly\\ abnormal\\ findings\\ on\\ physical\\ exam\\.\ \(0\)\
+\-\ conservative\\ management\\ was\\ utilized\\ for\\ the\\ lesions\\ demonstrated\\.\ \(1\)\
+\-\ \\â\\€\\¢\\ multiple\\ bony\\ exophytic\\ lesions\ \(1\)\
+\-\ multiple\\ osteochondromatosis\ \(0\)\
+\-\ \\â\\€\\¢\\ osteochondromatosis\ \(0\)\
+\-\ \\â\\€\\¢\\ turner\\â\\€\\™s\\ syndrome\ \(0\)\
+\-\ \\â\\€\\¢\\ tuberous\\ sclerosis\ \(1\)\
+\-\ \\â\\€\\¢\\ traumatic\\ injury\ \(0\)\
+\-\ \\â\\€\\¢\\ menke\\â\\€\\™s\\ disease\ \(0\)\
+\-\ \\â\\€\\¢\\ fetal\\ alcohol\\ syndrome\ \(0\)\
+\-\ \\â\\€\\¢\\ hyperparathyroidism\ \(0\)\
+\-\ \\â\\€\\¢\\ fibrodysplasia\\ ossificans\\ progressiva\ \(0\)\
+\-\ this\\ 9\\ y\\.o\\.\\ girl\\ has\\ imaging\\ performed\\ due\\ to\\ pain\\,\\ without\\ trauma\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ osteochondromatosis\\:\\ 0\\.423737579423173\ \(0\)\
+\-\ menke\\:\\ 0\\.2598440366430872\ \(0\)\
+\-\ fibrodysplasia\\:\\ 0\\.2598440366430872\ \(0\)\
+\-\ progressiva\\:\\ 0\\.2512686089381646\ \(0\)\
+\-\ turner\\:\\ 0\\.208137839518634\ \(0\)\
+\-\ syndrome\\:\\ 0\\.2050206329915793\ \(0\)\
+\-\ ossificans\\:\\ 0\\.19912724062647752\ \(0\)\
+\-\ lesions\\:\\ 0\\.1953114033903906\ \(0\)\
+\-\ utilized\\:\\ 0\\.1902295536000562\ \(0\)\
+\-\ exophytic\\:\\ 0\\.18263154778548418\ \(0\)\
+\-\ tuberous\\:\\ 0\\.16956773937887637\ \(0\)\
+\-\ multiple\\:\\ 0\\.16634019022229624\ \(0\)\
+\-\ grossly\\:\\ 0\\.16310905811289614\ \(0\)\
+\-\ hyperparathyroidism\\:\\ 0\\.16196973356430439\ \(0\)\
+\-\ fetal\\:\\ 0\\.1578036121841179\ \(0\)\
+\-\ alcohol\\:\\ 0\\.15716254023094461\ \(0\)\
+\-\ conservative\\:\\ 0\\.13127812042215625\ \(0\)\
+\-\ bony\\:\\ 0\\.13101315248272297\ \(0\)\
+\-\ traumatic\\:\\ 0\\.12885123369333878\ \(0\)\
+\-\ management\\:\\ 0\\.12560037538018404\ \(0\)\
+\-\ sclerosis\\:\\ 0\\.12111554312168045\ \(0\)\
+\-\ girl\\:\\ 0\\.11928058254667807\ \(0\)\
+\-\ injury\\:\\ 0\\.11088365056620228\ \(0\)\
+\-\ demonstrated\\:\\ 0\\.10450179588118395\ \(0\)\
+\-\ abnormal\\:\\ 0\\.10215754673466437\ \(0\)\
+\-\ performed\\:\\ 0\\.1005960141201183\ \(0\)\
+\-\ trauma\\:\\ 0\\.0987525398151294\ \(0\)\
+\-\ due\\:\\ 0\\.09774197873635997\ \(0\)\
+\-\ physical\\:\\ 0\\.09219940336962576\ \(0\)\
+\-\ without\\:\\ 0\\.08968952404036333\ \(0\)\
+\-\ imaging\\:\\ 0\\.08936159227414471\ \(0\)\
+\-\ exam\\:\\ 0\\.08559804645529503\ \(0\)\
+\-\ findings\\:\\ 0\\.0839213891668944\ \(0\)\
+\-\ has\\:\\ 0\\.07766915902819962\ \(0\)\
+\-\ disease\\:\\ 0\\.07137660569554259\ \(0\)\
+\-\ pain\\:\\ 0\\.060846445586842\ \(0\)\
+\-\ was\\:\\ 0\\.05926050260129567\ \(0\)\
+\-\ this\\:\\ 0\\.05842868699263631\ \(0\)\
+\-\ no\\:\\ 0\\.05529496037612719\ \(0\)\
+\-\ for\\:\\ 0\\.05153771387596711\ \(0\)\
+\-\ on\\:\\ 0\\.05135489394128166\ \(0\)\
+\-\ to\\:\\ 0\\.04250957928353682\ \(0\)\
+\-\ the\\:\\ 0\\.033929072138044344\ \(0\)\

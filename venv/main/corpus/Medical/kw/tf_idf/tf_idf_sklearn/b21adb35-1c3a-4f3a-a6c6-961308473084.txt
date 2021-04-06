@@ -1,113 +1,110 @@
-Texto: 
-bp: 195/92
-hr: 74
-the patient is mildly obese in no acute distress.  the bilateral upper extremity pulses are 2+/4 and symmetric.  lower extremity pulses are also present and normal.  the remainder of the examination is normal.
-
-labs are essentially normal except for a potassium of 2.9 (normal: 3.6 - 5.1).
-type b aortic dissections are generally treated with antihypertensive medications unless there is aortic rupture or renal or visceral vascular compromise.  follow-up imaging may be required when there is concern for extension of the dissection.
-axial ct images of the aorta after intravenous contrast demonstrate an intimal flap that extends from immediately distal to the origin of the left subclavian artery into the right common iliac artery.
-stanford type b aortic dissection
-stanford type a aortic dissection.
-stanford type b aortic dissection.
-45 year old african-american man with uncontrolled hypertension who presents to the emergency room with sharp tearing substernal chest pain radiating to the back.
-
-
-Keywords by value: 
-- aortic: 0.34640066272693093
-- stanford: 0.34183819723190456
-- dissection: 0.3256767270302784
-- type: 0.24054889903768503
-- the: 0.19676145666419942
-- pulses: 0.17000477512911139
-- normal: 0.14640564096869196
-- are: 0.13606464513705532
-- extremity: 0.129133112142477
-- antihypertensive: 0.12609685581851054
-- dissections: 0.11806915781891722
-- artery: 0.11135090103145744
-- uncontrolled: 0.11068298332265501
-- potassium: 0.10883200601115287
-- intimal: 0.10883200601115287
-- tearing: 0.10798233186827198
-- substernal: 0.10798233186827198
-- visceral: 0.10431104094970174
-- flap: 0.10305315830956378
-- is: 0.09819945607286394
-- compromise: 0.09668121593661051
-- obese: 0.09277661001196623
-- essentially: 0.09071748206091432
-- 74: 0.08914465614406421
-- unless: 0.08817726501977498
-- sharp: 0.08817726501977498
-- of: 0.08771554751661956
-- radiating: 0.0861965169994632
-- subclavian: 0.08389262235959155
-- except: 0.08353945820420189
-- iliac: 0.08252522608089295
-- concern: 0.08220119102288209
-- immediately: 0.0820416450480894
-- intravenous: 0.08172733169996885
-- remainder: 0.07888807626533689
-- origin: 0.07716751583124862
-- hr: 0.07705153638575186
-- symmetric: 0.0768221141573882
-- generally: 0.07593651967078513
-- medications: 0.07520055907424972
-- extends: 0.07382460567933834
-- room: 0.07336099850392276
-- aorta: 0.07282214079247322
-- bp: 0.07273410054239784
-- rupture: 0.07247290100807073
-- mildly: 0.07238679041707642
-- distress: 0.07221597195767901
-- 45: 0.07187980633670654
-- there: 0.0713388523990106
-- hypertension: 0.06859076133962792
-- to: 0.06723314428067692
-- emergency: 0.06650916713237452
-- required: 0.06400249363339733
-- extension: 0.06345797749696444
-- or: 0.06237172664400015
-- labs: 0.06210680749078275
-- back: 0.05978668657839419
-- vascular: 0.05918218345387091
-- examination: 0.0573641865186632
-- treated: 0.0558244103375199
-- renal: 0.0558244103375199
-- for: 0.05434136040737982
-- when: 0.05415070480197635
-- with: 0.05266077452121556
-- distal: 0.05208591271551027
-- axial: 0.05178211609369832
-- common: 0.05083892445607654
-- who: 0.05070868771453463
-- acute: 0.04849446181728756
-- bilateral: 0.04817847548853663
-- upper: 0.047904844486131054
-- into: 0.04765368387817467
-- man: 0.04745912137175005
-- chest: 0.047319119167087836
-- imaging: 0.047111427022484526
-- demonstrate: 0.04660389711631404
-- present: 0.045999708096775366
-- lower: 0.04580864016822932
-- may: 0.04511213872565366
-- contrast: 0.04355662500392972
-- after: 0.04348820894664931
-- presents: 0.04312382261295555
-- also: 0.042166390262358903
-- images: 0.04146673299000414
-- that: 0.03890252335865263
-- and: 0.037048040782586465
-- be: 0.03636535079644732
-- from: 0.03560315243323336
-- an: 0.03427990759649682
-- ct: 0.034128653844323655
-- pain: 0.032078243100771994
-- left: 0.030579829430949355
-- right: 0.029720992399393544
-- patient: 0.02915698463138312
-- no: 0.029151500372546633
-- year: 0.027626792215702155
-- old: 0.026531283778526683
-- in: 0.02230074096125735
+\-\ Texto\\:\\ \ \(0\)\
+\-\ bp\\:\\ 195\\/92\ \(0\)\
+\-\ hr\\:\\ 74\ \(0\)\
+\-\ the\\ patient\\ is\\ mildly\\ obese\\ in\\ no\\ acute\\ distress\\.\\ \\ the\\ bilateral\\ upper\\ extremity\\ pulses\\ are\\ 2\\+\\/4\\ and\\ symmetric\\.\\ \\ lower\\ extremity\\ pulses\\ are\\ also\\ present\\ and\\ normal\\.\\ \\ the\\ remainder\\ of\\ the\\ examination\\ is\\ normal\\.\ \(0\)\
+\-\ labs\\ are\\ essentially\\ normal\\ except\\ for\\ a\\ potassium\\ of\\ 2\\.9\\ \\(normal\\:\\ 3\\.6\\ \\-\\ 5\\.1\\)\\.\ \(0\)\
+\-\ type\\ b\\ aortic\\ dissections\\ are\\ generally\\ treated\\ with\\ antihypertensive\\ medications\\ unless\\ there\\ is\\ aortic\\ rupture\\ or\\ renal\\ or\\ visceral\\ vascular\\ compromise\\.\\ \\ follow\\-up\\ imaging\\ may\\ be\\ required\\ when\\ there\\ is\\ concern\\ for\\ extension\\ of\\ the\\ dissection\\.\ \(0\)\
+\-\ axial\\ ct\\ images\\ of\\ the\\ aorta\\ after\\ intravenous\\ contrast\\ demonstrate\\ an\\ intimal\\ flap\\ that\\ extends\\ from\\ immediately\\ distal\\ to\\ the\\ origin\\ of\\ the\\ left\\ subclavian\\ artery\\ into\\ the\\ right\\ common\\ iliac\\ artery\\.\ \(0\)\
+\-\ stanford\\ type\\ b\\ aortic\\ dissection\ \(0\)\
+\-\ stanford\\ type\\ a\\ aortic\\ dissection\\.\ \(0\)\
+\-\ stanford\\ type\\ b\\ aortic\\ dissection\\.\ \(0\)\
+\-\ 45\\ year\\ old\\ african\\-american\\ man\\ with\\ uncontrolled\\ hypertension\\ who\\ presents\\ to\\ the\\ emergency\\ room\\ with\\ sharp\\ tearing\\ substernal\\ chest\\ pain\\ radiating\\ to\\ the\\ back\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ aortic\\:\\ 0\\.34640066272693093\ \(0\)\
+\-\ stanford\\:\\ 0\\.34183819723190456\ \(0\)\
+\-\ dissection\\:\\ 0\\.3256767270302784\ \(0\)\
+\-\ type\\:\\ 0\\.24054889903768503\ \(0\)\
+\-\ the\\:\\ 0\\.19676145666419942\ \(0\)\
+\-\ pulses\\:\\ 0\\.17000477512911139\ \(0\)\
+\-\ normal\\:\\ 0\\.14640564096869196\ \(0\)\
+\-\ are\\:\\ 0\\.13606464513705532\ \(0\)\
+\-\ extremity\\:\\ 0\\.129133112142477\ \(0\)\
+\-\ antihypertensive\\:\\ 0\\.12609685581851054\ \(0\)\
+\-\ dissections\\:\\ 0\\.11806915781891722\ \(0\)\
+\-\ artery\\:\\ 0\\.11135090103145744\ \(0\)\
+\-\ uncontrolled\\:\\ 0\\.11068298332265501\ \(0\)\
+\-\ potassium\\:\\ 0\\.10883200601115287\ \(0\)\
+\-\ intimal\\:\\ 0\\.10883200601115287\ \(0\)\
+\-\ tearing\\:\\ 0\\.10798233186827198\ \(0\)\
+\-\ substernal\\:\\ 0\\.10798233186827198\ \(0\)\
+\-\ visceral\\:\\ 0\\.10431104094970174\ \(0\)\
+\-\ flap\\:\\ 0\\.10305315830956378\ \(0\)\
+\-\ is\\:\\ 0\\.09819945607286394\ \(0\)\
+\-\ compromise\\:\\ 0\\.09668121593661051\ \(0\)\
+\-\ obese\\:\\ 0\\.09277661001196623\ \(0\)\
+\-\ essentially\\:\\ 0\\.09071748206091432\ \(0\)\
+\-\ 74\\:\\ 0\\.08914465614406421\ \(0\)\
+\-\ unless\\:\\ 0\\.08817726501977498\ \(0\)\
+\-\ sharp\\:\\ 0\\.08817726501977498\ \(0\)\
+\-\ of\\:\\ 0\\.08771554751661956\ \(0\)\
+\-\ radiating\\:\\ 0\\.0861965169994632\ \(0\)\
+\-\ subclavian\\:\\ 0\\.08389262235959155\ \(0\)\
+\-\ except\\:\\ 0\\.08353945820420189\ \(0\)\
+\-\ iliac\\:\\ 0\\.08252522608089295\ \(0\)\
+\-\ concern\\:\\ 0\\.08220119102288209\ \(0\)\
+\-\ immediately\\:\\ 0\\.0820416450480894\ \(0\)\
+\-\ intravenous\\:\\ 0\\.08172733169996885\ \(0\)\
+\-\ remainder\\:\\ 0\\.07888807626533689\ \(0\)\
+\-\ origin\\:\\ 0\\.07716751583124862\ \(0\)\
+\-\ hr\\:\\ 0\\.07705153638575186\ \(0\)\
+\-\ symmetric\\:\\ 0\\.0768221141573882\ \(0\)\
+\-\ generally\\:\\ 0\\.07593651967078513\ \(0\)\
+\-\ medications\\:\\ 0\\.07520055907424972\ \(0\)\
+\-\ extends\\:\\ 0\\.07382460567933834\ \(0\)\
+\-\ room\\:\\ 0\\.07336099850392276\ \(0\)\
+\-\ aorta\\:\\ 0\\.07282214079247322\ \(0\)\
+\-\ bp\\:\\ 0\\.07273410054239784\ \(0\)\
+\-\ rupture\\:\\ 0\\.07247290100807073\ \(0\)\
+\-\ mildly\\:\\ 0\\.07238679041707642\ \(0\)\
+\-\ distress\\:\\ 0\\.07221597195767901\ \(0\)\
+\-\ 45\\:\\ 0\\.07187980633670654\ \(0\)\
+\-\ there\\:\\ 0\\.0713388523990106\ \(0\)\
+\-\ hypertension\\:\\ 0\\.06859076133962792\ \(0\)\
+\-\ to\\:\\ 0\\.06723314428067692\ \(0\)\
+\-\ emergency\\:\\ 0\\.06650916713237452\ \(0\)\
+\-\ required\\:\\ 0\\.06400249363339733\ \(0\)\
+\-\ extension\\:\\ 0\\.06345797749696444\ \(0\)\
+\-\ or\\:\\ 0\\.06237172664400015\ \(0\)\
+\-\ labs\\:\\ 0\\.06210680749078275\ \(0\)\
+\-\ back\\:\\ 0\\.05978668657839419\ \(0\)\
+\-\ vascular\\:\\ 0\\.05918218345387091\ \(0\)\
+\-\ examination\\:\\ 0\\.0573641865186632\ \(0\)\
+\-\ treated\\:\\ 0\\.0558244103375199\ \(0\)\
+\-\ renal\\:\\ 0\\.0558244103375199\ \(0\)\
+\-\ for\\:\\ 0\\.05434136040737982\ \(0\)\
+\-\ when\\:\\ 0\\.05415070480197635\ \(0\)\
+\-\ with\\:\\ 0\\.05266077452121556\ \(0\)\
+\-\ distal\\:\\ 0\\.05208591271551027\ \(0\)\
+\-\ axial\\:\\ 0\\.05178211609369832\ \(0\)\
+\-\ common\\:\\ 0\\.05083892445607654\ \(0\)\
+\-\ who\\:\\ 0\\.05070868771453463\ \(0\)\
+\-\ acute\\:\\ 0\\.04849446181728756\ \(0\)\
+\-\ bilateral\\:\\ 0\\.04817847548853663\ \(0\)\
+\-\ upper\\:\\ 0\\.047904844486131054\ \(0\)\
+\-\ into\\:\\ 0\\.04765368387817467\ \(0\)\
+\-\ man\\:\\ 0\\.04745912137175005\ \(0\)\
+\-\ chest\\:\\ 0\\.047319119167087836\ \(0\)\
+\-\ imaging\\:\\ 0\\.047111427022484526\ \(0\)\
+\-\ demonstrate\\:\\ 0\\.04660389711631404\ \(0\)\
+\-\ present\\:\\ 0\\.045999708096775366\ \(0\)\
+\-\ lower\\:\\ 0\\.04580864016822932\ \(0\)\
+\-\ may\\:\\ 0\\.04511213872565366\ \(0\)\
+\-\ contrast\\:\\ 0\\.04355662500392972\ \(0\)\
+\-\ after\\:\\ 0\\.04348820894664931\ \(0\)\
+\-\ presents\\:\\ 0\\.04312382261295555\ \(0\)\
+\-\ also\\:\\ 0\\.042166390262358903\ \(0\)\
+\-\ images\\:\\ 0\\.04146673299000414\ \(0\)\
+\-\ that\\:\\ 0\\.03890252335865263\ \(0\)\
+\-\ and\\:\\ 0\\.037048040782586465\ \(0\)\
+\-\ be\\:\\ 0\\.03636535079644732\ \(0\)\
+\-\ from\\:\\ 0\\.03560315243323336\ \(0\)\
+\-\ an\\:\\ 0\\.03427990759649682\ \(0\)\
+\-\ ct\\:\\ 0\\.034128653844323655\ \(0\)\
+\-\ pain\\:\\ 0\\.032078243100771994\ \(0\)\
+\-\ left\\:\\ 0\\.030579829430949355\ \(0\)\
+\-\ right\\:\\ 0\\.029720992399393544\ \(0\)\
+\-\ patient\\:\\ 0\\.02915698463138312\ \(0\)\
+\-\ no\\:\\ 0\\.029151500372546633\ \(0\)\
+\-\ year\\:\\ 0\\.027626792215702155\ \(0\)\
+\-\ old\\:\\ 0\\.026531283778526683\ \(0\)\
+\-\ in\\:\\ 0\\.02230074096125735\ \(0\)\
