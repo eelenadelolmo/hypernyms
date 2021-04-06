@@ -53,37 +53,41 @@ docs = os.listdir(dir_docs)
 for doc in docs:
     freq_calc(dir_docs + '/' + doc, dir_all)
 """
+"""
 dir_docs = 'corpus/Medical/kw/keybert/keybert'
 docs = os.listdir(dir_docs)
 for doc in docs:
     freq_calc(dir_docs + '/' + doc, dir_all)
-
+"""
+"""
 dir_docs = 'corpus/Medical/kw/keybert/keybert_maxMargRelevance'
 docs = os.listdir(dir_docs)
 for doc in docs:
     freq_calc(dir_docs + '/' + doc, dir_all)
-
+"""
+"""
 dir_docs = 'corpus/Medical/kw/keybert/keybert_maxSum'
 docs = os.listdir(dir_docs)
 for doc in docs:
     freq_calc(dir_docs + '/' + doc, dir_all)
+"""
 
-dir_docs = 'corpus/Medical/kw/rake/txt_all_rake_degreeFreqRatio'
+dir_docs = 'corpus/Medical/kw/rake/rake_degreeFreqRatio'
 docs = os.listdir(dir_docs)
 for doc in docs:
     freq_calc(dir_docs + '/' + doc, dir_all)
 
-dir_docs = 'corpus/Medical/kw/rake/txt_all_rake_degreeFreqRatio_length'
+dir_docs = 'corpus/Medical/kw/rake/rake_degreeFreqRatio_length'
 docs = os.listdir(dir_docs)
 for doc in docs:
     freq_calc(dir_docs + '/' + doc, dir_all)
 
-dir_docs = 'corpus/Medical/kw/rake/txt_all_rake_wordDegree_length'
+dir_docs = 'corpus/Medical/kw/rake/rake_wordDegree_length'
 docs = os.listdir(dir_docs)
 for doc in docs:
     freq_calc(dir_docs + '/' + doc, dir_all)
 
-dir_docs = 'corpus/Medical/kw/rake/txt_all_rake_wordFreq_length'
+dir_docs = 'corpus/Medical/kw/rake/rake_wordFreq_length'
 docs = os.listdir(dir_docs)
 for doc in docs:
     freq_calc(dir_docs + '/' + doc, dir_all)
