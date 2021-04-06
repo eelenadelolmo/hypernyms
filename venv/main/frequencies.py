@@ -27,7 +27,7 @@ def freq_calc(d, all):
     for k, f_k in kw_freq_list:
         keywords_replace += '- ' + re.escape(k) + ' (' + re.escape(str(f_k)) + ')\n'
 
-    text_replace = re.sub(keywords, keywords_replace, text)
+    text_replace = re.sub(re.escape(keywords), re.escape(keywords_replace), text)
 
     with open(d, 'w') as f:
         f.write(text_replace)
