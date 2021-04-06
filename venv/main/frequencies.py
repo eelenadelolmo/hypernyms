@@ -41,58 +41,59 @@ docs = os.listdir(dir_docs)
 for doc in docs:
     freq_calc(dir_docs + '/' + doc, dir_all)
 """
-
+"""
 dir_docs = 'corpus/Medical/kw/text_rank'
 docs = os.listdir(dir_docs)
 for doc in docs:
     freq_calc(dir_docs + '/' + doc, dir_all)
-
+"""
+"""
 dir_docs = 'corpus/Medical/kw/yake'
 docs = os.listdir(dir_docs)
 for doc in docs:
     freq_calc(dir_docs + '/' + doc, dir_all)
-
-dir_docs = 'corpus/Medical/keybert/keybert'
+"""
+dir_docs = 'corpus/Medical/kw/keybert/keybert'
 docs = os.listdir(dir_docs)
 for doc in docs:
     freq_calc(dir_docs + '/' + doc, dir_all)
 
-dir_docs = 'corpus/Medical/keybert/keybert_maxMargRelevance'
+dir_docs = 'corpus/Medical/kw/keybert/keybert_maxMargRelevance'
 docs = os.listdir(dir_docs)
 for doc in docs:
     freq_calc(dir_docs + '/' + doc, dir_all)
 
-dir_docs = 'corpus/Medical/keybert/keybert_maxSum'
+dir_docs = 'corpus/Medical/kw/keybert/keybert_maxSum'
 docs = os.listdir(dir_docs)
 for doc in docs:
     freq_calc(dir_docs + '/' + doc, dir_all)
 
-dir_docs = 'corpus/Medical/rake/txt_all_rake_degreeFreqRatio'
+dir_docs = 'corpus/Medical/kw/rake/txt_all_rake_degreeFreqRatio'
 docs = os.listdir(dir_docs)
 for doc in docs:
     freq_calc(dir_docs + '/' + doc, dir_all)
 
-dir_docs = 'corpus/Medical/rake/txt_all_rake_degreeFreqRatio_length'
+dir_docs = 'corpus/Medical/kw/rake/txt_all_rake_degreeFreqRatio_length'
 docs = os.listdir(dir_docs)
 for doc in docs:
     freq_calc(dir_docs + '/' + doc, dir_all)
 
-dir_docs = 'corpus/Medical/rake/txt_all_rake_wordDegree_length'
+dir_docs = 'corpus/Medical/kw/rake/txt_all_rake_wordDegree_length'
 docs = os.listdir(dir_docs)
 for doc in docs:
     freq_calc(dir_docs + '/' + doc, dir_all)
 
-dir_docs = 'corpus/Medical/rake/txt_all_rake_wordFreq_length'
+dir_docs = 'corpus/Medical/kw/rake/txt_all_rake_wordFreq_length'
 docs = os.listdir(dir_docs)
 for doc in docs:
     freq_calc(dir_docs + '/' + doc, dir_all)
 
-dir_docs = 'corpus/Medical/tf_idf/tf_idf'
+dir_docs = 'corpus/Medical/kw/tf_idf/tf_idf'
 docs = os.listdir(dir_docs)
 for doc in docs:
     freq_calc(dir_docs + '/' + doc, dir_all)
 
-dir_docs = 'corpus/Medical/tf_idf/tf_idf_sklearn'
+dir_docs = 'corpus/Medical/kw/tf_idf/tf_idf_sklearn'
 docs = os.listdir(dir_docs)
 for doc in docs:
     freq_calc(dir_docs + '/' + doc, dir_all)
