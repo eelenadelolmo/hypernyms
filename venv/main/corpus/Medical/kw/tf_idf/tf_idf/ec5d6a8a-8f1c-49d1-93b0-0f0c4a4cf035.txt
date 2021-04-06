@@ -1,117 +1,115 @@
-Texto: 
-noncontributory
-unknown
-comparative studies have shown that mri is more sensitive and accurate than transvaginal us or hysterosalpingogram for the detection and classification of uterine anomalies.  a septate uterus is distinguished from a bicornuate uterus on transvaginal us and mri by demonstrating that the fundus is convex, flat, or indented no more than 1cm.  the bicornuate uterus has divergent uterine horns and a fundal cleft greater than 1cm
-bicornuate uterus
-septate uterus vs. bicornuate uterus
-21 year old female with a history of infertility.
-this is a good example of the limitations of hysterosalpingograms when classifying uterine anomalies.  because only the inner uterine cavity is visualized, the outer contour of the uterus not seen.  when distinguishing between septate versus bicornuate uterus, the outer uterine contour must be evaluated.  in the cases of new diagnoses, mr or us is the recommended follow up study to attempt to visualize the full uterus to make the diagnosis.  this particular patient had a prior c-section where the surgeon definitively saw the clear separation between the uterine cavities, confirming the diagnosis of bicornuate uterus.
-
-
-Keywords by value: 
-- uterus: 0.20763024129816765
-- bicornuate: 0.18689473304309434
-- uterine: 0.13560932861205724
-- septate: 0.09344736652154717
-- transvaginal: 0.06296358992643596
-- us: 0.05542901763575121
-- 1cm: 0.054835163530928016
-- outer: 0.046792291803612815
-- anomalies: 0.04610013404240015
-- hysterosalpingograms: 0.04544081661838401
-- contour: 0.04270814009798548
-- indented: 0.04186789300725027
-- classifying: 0.04186789300725027
-- divergent: 0.037144744904806175
-- comparative: 0.034722045784982794
-- than: 0.0346244668286331
-- saw: 0.033571821293672435
-- limitations: 0.03183742832139814
-- fundal: 0.03148179496321798
-- cavities: 0.03148179496321798
-- hysterosalpingogram: 0.031149122173849055
-- distinguishing: 0.030836624123248876
-- distinguished: 0.029747401990943684
-- convex: 0.029747401990943684
-- definitively: 0.029059095843394597
-- accurate: 0.028646504566726884
-- c-section: 0.02808362161845373
-- between: 0.02792263439406437
-- confirming: 0.02790887135208424
-- horns: 0.027739851646811094
-- visualize: 0.027417581765464008
-- infertility: 0.026827837687228212
-- diagnoses: 0.02605318715604606
-- flat: 0.025818845021629788
-- detection: 0.025594694960084742
-- separation: 0.025594694960084742
-- fundus: 0.025486172232260865
-- attempt: 0.025275749580094597
-- when: 0.025230218944494905
-- classification: 0.02517367418166068
-- example: 0.024250745153573127
-- sensitive: 0.023923356464282786
-- inner: 0.023690776900981397
-- particular: 0.023615525357573396
-- make: 0.023541356607820304
-- surgeon: 0.023468239932604034
-- more: 0.022032745456826455
-- cleft: 0.021500657344459412
-- noncontributory: 0.021118657487996923
-- versus: 0.020937774396186257
-- mri: 0.02023995726716103
-- diagnosis: 0.020229065265777522
-- evaluated: 0.02019421971142055
-- must: 0.020080090196589552
-- 21: 0.019931745018496545
-- cavity: 0.01928012684913748
-- demonstrating: 0.019121510051886174
-- full: 0.01902863115754247
-- good: 0.0188477480657318
-- recommended: 0.018260406522694596
-- where: 0.01797753739781916
-- visualized: 0.01782954716131178
-- shown: 0.017662096361597924
-- is: 0.017390436444888423
-- vs: 0.017342680259797925
-- unknown: 0.017190100518683023
-- greater: 0.016544929678713922
-- studies: 0.016451035658655463
-- clear: 0.01628621965539508
-- or: 0.015487465190160426
-- because: 0.015409888229824989
-- new: 0.01534942256082762
-- that: 0.015216296170709518
-- cases: 0.014674282804026455
-- study: 0.014492945138453396
-- mr: 0.013995873566734197
-- follow: 0.013995873566734197
-- only: 0.01324438999219039
-- a: 0.01226597325212169
-- up: 0.01184457294357847
-- the: 0.011402002862154705
-- prior: 0.011309859650527646
-- this: 0.009908631065094155
-- have: 0.009538340610129339
-- had: 0.009504380511550042
-- female: 0.00905546531674141
-- seen: 0.008704266057049949
-- ,: 0.008372476253111981
-- has: 0.008271649332444732
-- by: 0.007334386099200385
-- be: 0.006792560429607882
-- to: 0.006604146006850303
-- from: 0.006528019139970167
-- not: 0.006365044699700698
-- history: 0.006083580091273626
-- year: 0.0049283776766645086
-- old: 0.0045099721487745085
-- no: 0.0044352791273391855
-- patient: 0.004415422324311278
-- of: 0.004203745389618139
-- for: 0.003758289425993377
-- on: 0.0037313969709558146
-- and: 0.0037115258913859475
-- in: 0.0021721506708260565
-- .: 0.0016468856952377138
-- with: 0.0006031143097416997
+\-\ Texto\\:\\ \ \(0\)\
+\-\ noncontributory\ \(52\)\
+\-\ unknown\ \(157\)\
+\-\ comparative\\ studies\\ have\\ shown\\ that\\ mri\\ is\\ more\\ sensitive\\ and\\ accurate\\ than\\ transvaginal\\ us\\ or\\ hysterosalpingogram\\ for\\ the\\ detection\\ and\\ classification\\ of\\ uterine\\ anomalies\\.\\ \\ a\\ septate\\ uterus\\ is\\ distinguished\\ from\\ a\\ bicornuate\\ uterus\\ on\\ transvaginal\\ us\\ and\\ mri\\ by\\ demonstrating\\ that\\ the\\ fundus\\ is\\ convex\\,\\ flat\\,\\ or\\ indented\\ no\\ more\\ than\\ 1cm\\.\\ \\ the\\ bicornuate\\ uterus\\ has\\ divergent\\ uterine\\ horns\\ and\\ a\\ fundal\\ cleft\\ greater\\ than\\ 1cm\ \(0\)\
+\-\ bicornuate\\ uterus\ \(14\)\
+\-\ septate\\ uterus\\ vs\\.\\ bicornuate\\ uterus\ \(0\)\
+\-\ 21\\ year\\ old\\ female\\ with\\ a\\ history\\ of\\ infertility\\.\ \(1\)\
+\-\ this\\ is\\ a\\ good\\ example\\ of\\ the\\ limitations\\ of\\ hysterosalpingograms\\ when\\ classifying\\ uterine\\ anomalies\\.\\ \\ because\\ only\\ the\\ inner\\ uterine\\ cavity\\ is\\ visualized\\,\\ the\\ outer\\ contour\\ of\\ the\\ uterus\\ not\\ seen\\.\\ \\ when\\ distinguishing\\ between\\ septate\\ versus\\ bicornuate\\ uterus\\,\\ the\\ outer\\ uterine\\ contour\\ must\\ be\\ evaluated\\.\\ \\ in\\ the\\ cases\\ of\\ new\\ diagnoses\\,\\ mr\\ or\\ us\\ is\\ the\\ recommended\\ follow\\ up\\ study\\ to\\ attempt\\ to\\ visualize\\ the\\ full\\ uterus\\ to\\ make\\ the\\ diagnosis\\.\\ \\ this\\ particular\\ patient\\ had\\ a\\ prior\\ c\\-section\\ where\\ the\\ surgeon\\ definitively\\ saw\\ the\\ clear\\ separation\\ between\\ the\\ uterine\\ cavities\\,\\ confirming\\ the\\ diagnosis\\ of\\ bicornuate\\ uterus\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ uterus\\:\\ 0\\.20763024129816765\ \(0\)\
+\-\ bicornuate\\:\\ 0\\.18689473304309434\ \(0\)\
+\-\ uterine\\:\\ 0\\.13560932861205724\ \(0\)\
+\-\ septate\\:\\ 0\\.09344736652154717\ \(0\)\
+\-\ transvaginal\\:\\ 0\\.06296358992643596\ \(0\)\
+\-\ us\\:\\ 0\\.05542901763575121\ \(0\)\
+\-\ 1cm\\:\\ 0\\.054835163530928016\ \(0\)\
+\-\ outer\\:\\ 0\\.046792291803612815\ \(0\)\
+\-\ anomalies\\:\\ 0\\.04610013404240015\ \(0\)\
+\-\ hysterosalpingograms\\:\\ 0\\.04544081661838401\ \(0\)\
+\-\ contour\\:\\ 0\\.04270814009798548\ \(0\)\
+\-\ indented\\:\\ 0\\.04186789300725027\ \(0\)\
+\-\ classifying\\:\\ 0\\.04186789300725027\ \(0\)\
+\-\ divergent\\:\\ 0\\.037144744904806175\ \(0\)\
+\-\ comparative\\:\\ 0\\.034722045784982794\ \(0\)\
+\-\ than\\:\\ 0\\.0346244668286331\ \(0\)\
+\-\ saw\\:\\ 0\\.033571821293672435\ \(0\)\
+\-\ limitations\\:\\ 0\\.03183742832139814\ \(0\)\
+\-\ fundal\\:\\ 0\\.03148179496321798\ \(0\)\
+\-\ cavities\\:\\ 0\\.03148179496321798\ \(0\)\
+\-\ hysterosalpingogram\\:\\ 0\\.031149122173849055\ \(0\)\
+\-\ distinguishing\\:\\ 0\\.030836624123248876\ \(0\)\
+\-\ distinguished\\:\\ 0\\.029747401990943684\ \(0\)\
+\-\ convex\\:\\ 0\\.029747401990943684\ \(0\)\
+\-\ definitively\\:\\ 0\\.029059095843394597\ \(0\)\
+\-\ accurate\\:\\ 0\\.028646504566726884\ \(0\)\
+\-\ c\\-section\\:\\ 0\\.02808362161845373\ \(0\)\
+\-\ between\\:\\ 0\\.02792263439406437\ \(0\)\
+\-\ confirming\\:\\ 0\\.02790887135208424\ \(0\)\
+\-\ horns\\:\\ 0\\.027739851646811094\ \(0\)\
+\-\ visualize\\:\\ 0\\.027417581765464008\ \(0\)\
+\-\ infertility\\:\\ 0\\.026827837687228212\ \(0\)\
+\-\ diagnoses\\:\\ 0\\.02605318715604606\ \(0\)\
+\-\ flat\\:\\ 0\\.025818845021629788\ \(0\)\
+\-\ detection\\:\\ 0\\.025594694960084742\ \(0\)\
+\-\ separation\\:\\ 0\\.025594694960084742\ \(0\)\
+\-\ fundus\\:\\ 0\\.025486172232260865\ \(0\)\
+\-\ attempt\\:\\ 0\\.025275749580094597\ \(0\)\
+\-\ when\\:\\ 0\\.025230218944494905\ \(0\)\
+\-\ classification\\:\\ 0\\.02517367418166068\ \(0\)\
+\-\ example\\:\\ 0\\.024250745153573127\ \(0\)\
+\-\ sensitive\\:\\ 0\\.023923356464282786\ \(0\)\
+\-\ inner\\:\\ 0\\.023690776900981397\ \(0\)\
+\-\ particular\\:\\ 0\\.023615525357573396\ \(0\)\
+\-\ make\\:\\ 0\\.023541356607820304\ \(0\)\
+\-\ surgeon\\:\\ 0\\.023468239932604034\ \(0\)\
+\-\ more\\:\\ 0\\.022032745456826455\ \(0\)\
+\-\ cleft\\:\\ 0\\.021500657344459412\ \(0\)\
+\-\ noncontributory\\:\\ 0\\.021118657487996923\ \(0\)\
+\-\ versus\\:\\ 0\\.020937774396186257\ \(0\)\
+\-\ mri\\:\\ 0\\.02023995726716103\ \(0\)\
+\-\ diagnosis\\:\\ 0\\.020229065265777522\ \(0\)\
+\-\ evaluated\\:\\ 0\\.02019421971142055\ \(0\)\
+\-\ must\\:\\ 0\\.020080090196589552\ \(0\)\
+\-\ 21\\:\\ 0\\.019931745018496545\ \(0\)\
+\-\ cavity\\:\\ 0\\.01928012684913748\ \(0\)\
+\-\ demonstrating\\:\\ 0\\.019121510051886174\ \(0\)\
+\-\ full\\:\\ 0\\.01902863115754247\ \(0\)\
+\-\ good\\:\\ 0\\.0188477480657318\ \(0\)\
+\-\ recommended\\:\\ 0\\.018260406522694596\ \(0\)\
+\-\ where\\:\\ 0\\.01797753739781916\ \(0\)\
+\-\ visualized\\:\\ 0\\.01782954716131178\ \(0\)\
+\-\ shown\\:\\ 0\\.017662096361597924\ \(0\)\
+\-\ is\\:\\ 0\\.017390436444888423\ \(0\)\
+\-\ vs\\:\\ 0\\.017342680259797925\ \(0\)\
+\-\ unknown\\:\\ 0\\.017190100518683023\ \(0\)\
+\-\ greater\\:\\ 0\\.016544929678713922\ \(0\)\
+\-\ studies\\:\\ 0\\.016451035658655463\ \(0\)\
+\-\ clear\\:\\ 0\\.01628621965539508\ \(0\)\
+\-\ or\\:\\ 0\\.015487465190160426\ \(0\)\
+\-\ because\\:\\ 0\\.015409888229824989\ \(0\)\
+\-\ new\\:\\ 0\\.01534942256082762\ \(0\)\
+\-\ that\\:\\ 0\\.015216296170709518\ \(0\)\
+\-\ cases\\:\\ 0\\.014674282804026455\ \(0\)\
+\-\ study\\:\\ 0\\.014492945138453396\ \(0\)\
+\-\ mr\\:\\ 0\\.013995873566734197\ \(0\)\
+\-\ follow\\:\\ 0\\.013995873566734197\ \(0\)\
+\-\ only\\:\\ 0\\.01324438999219039\ \(0\)\
+\-\ a\\:\\ 0\\.01226597325212169\ \(0\)\
+\-\ up\\:\\ 0\\.01184457294357847\ \(0\)\
+\-\ the\\:\\ 0\\.011402002862154705\ \(0\)\
+\-\ prior\\:\\ 0\\.011309859650527646\ \(0\)\
+\-\ this\\:\\ 0\\.009908631065094155\ \(0\)\
+\-\ have\\:\\ 0\\.009538340610129339\ \(0\)\
+\-\ had\\:\\ 0\\.009504380511550042\ \(0\)\
+\-\ female\\:\\ 0\\.00905546531674141\ \(0\)\
+\-\ seen\\:\\ 0\\.008704266057049949\ \(0\)\
+\-\ \\,\\:\\ 0\\.008372476253111981\ \(0\)\
+\-\ has\\:\\ 0\\.008271649332444732\ \(0\)\
+\-\ by\\:\\ 0\\.007334386099200385\ \(0\)\
+\-\ be\\:\\ 0\\.006792560429607882\ \(0\)\
+\-\ to\\:\\ 0\\.006604146006850303\ \(0\)\
+\-\ from\\:\\ 0\\.006528019139970167\ \(0\)\
+\-\ not\\:\\ 0\\.006365044699700698\ \(0\)\
+\-\ history\\:\\ 0\\.006083580091273626\ \(0\)\
+\-\ year\\:\\ 0\\.0049283776766645086\ \(0\)\
+\-\ old\\:\\ 0\\.0045099721487745085\ \(0\)\
+\-\ no\\:\\ 0\\.0044352791273391855\ \(0\)\
+\-\ patient\\:\\ 0\\.004415422324311278\ \(0\)\
+\-\ of\\:\\ 0\\.004203745389618139\ \(0\)\
+\-\ for\\:\\ 0\\.003758289425993377\ \(0\)\
+\-\ on\\:\\ 0\\.0037313969709558146\ \(0\)\
+\-\ and\\:\\ 0\\.0037115258913859475\ \(0\)\
+\-\ in\\:\\ 0\\.0021721506708260565\ \(0\)\
+\-\ \\.\\:\\ 0\\.0016468856952377138\ \(0\)\
+\-\ with\\:\\ 0\\.0006031143097416997\ \(0\)\

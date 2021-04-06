@@ -1,108 +1,106 @@
-Texto: 
-medical treatment: npo, broad spectrum antibiotics. surgical resection of affected area of small bowel after perforation.
-most common finding: diffuse gaseous distention of the intestine (nonspecific).  also seen is loss of symmetry of bowel gas distribution. in the nicu, pneumatosis intestinalis (intramural gas) is highly specific for nec; this is seen most commonly in the distal small bowel and colon. the gas seen in pneumatosis intestinalis can extend into the intestinal vascular system and distally into the portal venous system. this is seen as fine, branching lucencies seen overlying the liver. if severe enough, pneumoperitoneum is a common sequela, seen as low density in the non-dependent portion of the patinet's abdomen.
-necrotizing enterocolitis
-intestinal inertia, cpap treated babies
-seven-day-old male born at 28-weeks of gestational age. patient hospitalized for caffeine-treatment of apnea of prematurity. on the fourth day of hospitalization, patient was noted to have increased abdominal girth by nursing staff.
-
-
-Keywords by value: 
-- seen: 0.2514476012536444
-- gas: 0.23385695196568546
-- intestinalis: 0.21132560093063704
-- pneumatosis: 0.19538287016908085
-- intestinal: 0.18016178385593598
-- the: 0.1776188418923771
-- of: 0.17420004560844202
-- bowel: 0.17137928850306933
-- inertia: 0.14235569614268498
-- patinet: 0.13602846748477512
-- system: 0.1358196042121193
-- gaseous: 0.1315392273090255
-- babies: 0.12521199865111562
-- is: 0.12188795352511438
-- nec: 0.12072275847536607
-- symmetry: 0.11724063327033754
-- cpap: 0.11575333069117802
-- day: 0.1134031174773852
-- intestine: 0.11091340461242764
-- nursing: 0.11091340461242764
-- staff: 0.11091340461242764
-- sequela: 0.10990628964170658
-- npo: 0.10896025054521899
-- girth: 0.10806830115954627
-- apnea: 0.10722458941953734
-- hospitalized: 0.10642416443667807
-- prematurity: 0.10493686185751853
-- enterocolitis: 0.1035790609837967
-- pneumoperitoneum: 0.10233000526057624
-- common: 0.10096434679672596
-- intramural: 0.09908982080804711
-- branching: 0.09908982080804711
-- nicu: 0.09860963319960865
-- hospitalization: 0.09814378171155952
-- lucencies: 0.09484633163165905
-- enough: 0.09484633163165905
-- into: 0.09463856910219313
-- distally: 0.09342672922786666
-- necrotizing: 0.09309112777838095
-- most: 0.09265307028302952
-- small: 0.09183472943368139
-- fine: 0.09063826781883054
-- spectrum: 0.09035709145590946
-- in: 0.0885770015131474
-- distention: 0.08643536349222734
-- gestational: 0.08643536349222734
-- portal: 0.08518630776900689
-- born: 0.08498751697946426
-- treatment: 0.08480592940000921
-- perforation: 0.08402986279799958
-- nonspecific: 0.0836626725402649
-- extend: 0.08210952654718988
-- broad: 0.08039982306422157
-- fourth: 0.07982179898517107
-- highly: 0.07968057751504713
-- overlying: 0.07583714808967551
-- distribution: 0.0755109020756896
-- affected: 0.0732133939643401
-- as: 0.07152163883066912
-- colon: 0.06777811469210293
-- specific: 0.06745367751849767
-- commonly: 0.06586744388969532
-- antibiotics: 0.06558005333702745
-- portion: 0.06365372328320716
-- venous: 0.06355337010168793
-- liver: 0.06140723603105714
-- this: 0.061174886685377204
-- density: 0.059026663243002965
-- vascular: 0.05876688539690262
-- finding: 0.05851136141480954
-- patient: 0.057904763709412305
-- area: 0.05766574420243166
-- resection: 0.05706030708875791
-- medical: 0.05657312290299655
-- severe: 0.05635087283569182
-- age: 0.05588502134764268
-- diffuse: 0.05582394547340923
-- treated: 0.05543267472062359
-- abdomen: 0.05431449261949265
-- loss: 0.05423170799061043
-- for: 0.053960031769719995
-- distal: 0.05172041118981831
-- if: 0.05172041118981831
-- low: 0.05107776707553277
-- abdominal: 0.048685120472597106
-- increased: 0.04813552983653556
-- noted: 0.047196064439202774
-- can: 0.04671268923685143
-- have: 0.044468291358214625
-- surgical: 0.043264598649341145
-- after: 0.04318303993086516
-- also: 0.041870496820729235
-- male: 0.03963327324174603
-- by: 0.03780128547719331
-- and: 0.03678806424144579
-- at: 0.03362240712292094
-- was: 0.03102289917972699
-- on: 0.02688430956863198
-- to: 0.022253783454360042
+\-\ Texto\\:\\ \ \(0\)\
+\-\ medical\\ treatment\\:\\ npo\\,\\ broad\\ spectrum\\ antibiotics\\.\\ surgical\\ resection\\ of\\ affected\\ area\\ of\\ small\\ bowel\\ after\\ perforation\\.\ \(0\)\
+\-\ most\\ common\\ finding\\:\\ diffuse\\ gaseous\\ distention\\ of\\ the\\ intestine\\ \\(nonspecific\\)\\.\\ \\ also\\ seen\\ is\\ loss\\ of\\ symmetry\\ of\\ bowel\\ gas\\ distribution\\.\\ in\\ the\\ nicu\\,\\ pneumatosis\\ intestinalis\\ \\(intramural\\ gas\\)\\ is\\ highly\\ specific\\ for\\ nec\\;\\ this\\ is\\ seen\\ most\\ commonly\\ in\\ the\\ distal\\ small\\ bowel\\ and\\ colon\\.\\ the\\ gas\\ seen\\ in\\ pneumatosis\\ intestinalis\\ can\\ extend\\ into\\ the\\ intestinal\\ vascular\\ system\\ and\\ distally\\ into\\ the\\ portal\\ venous\\ system\\.\\ this\\ is\\ seen\\ as\\ fine\\,\\ branching\\ lucencies\\ seen\\ overlying\\ the\\ liver\\.\\ if\\ severe\\ enough\\,\\ pneumoperitoneum\\ is\\ a\\ common\\ sequela\\,\\ seen\\ as\\ low\\ density\\ in\\ the\\ non\\-dependent\\ portion\\ of\\ the\\ patinet\\'s\\ abdomen\\.\ \(0\)\
+\-\ necrotizing\\ enterocolitis\ \(12\)\
+\-\ intestinal\\ inertia\\,\\ cpap\\ treated\\ babies\ \(0\)\
+\-\ seven\\-day\\-old\\ male\\ born\\ at\\ 28\\-weeks\\ of\\ gestational\\ age\\.\\ patient\\ hospitalized\\ for\\ caffeine\\-treatment\\ of\\ apnea\\ of\\ prematurity\\.\\ on\\ the\\ fourth\\ day\\ of\\ hospitalization\\,\\ patient\\ was\\ noted\\ to\\ have\\ increased\\ abdominal\\ girth\\ by\\ nursing\\ staff\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ seen\\:\\ 0\\.2514476012536444\ \(0\)\
+\-\ gas\\:\\ 0\\.23385695196568546\ \(0\)\
+\-\ intestinalis\\:\\ 0\\.21132560093063704\ \(0\)\
+\-\ pneumatosis\\:\\ 0\\.19538287016908085\ \(0\)\
+\-\ intestinal\\:\\ 0\\.18016178385593598\ \(0\)\
+\-\ the\\:\\ 0\\.1776188418923771\ \(0\)\
+\-\ of\\:\\ 0\\.17420004560844202\ \(0\)\
+\-\ bowel\\:\\ 0\\.17137928850306933\ \(0\)\
+\-\ inertia\\:\\ 0\\.14235569614268498\ \(0\)\
+\-\ patinet\\:\\ 0\\.13602846748477512\ \(0\)\
+\-\ system\\:\\ 0\\.1358196042121193\ \(0\)\
+\-\ gaseous\\:\\ 0\\.1315392273090255\ \(0\)\
+\-\ babies\\:\\ 0\\.12521199865111562\ \(0\)\
+\-\ is\\:\\ 0\\.12188795352511438\ \(0\)\
+\-\ nec\\:\\ 0\\.12072275847536607\ \(0\)\
+\-\ symmetry\\:\\ 0\\.11724063327033754\ \(0\)\
+\-\ cpap\\:\\ 0\\.11575333069117802\ \(0\)\
+\-\ day\\:\\ 0\\.1134031174773852\ \(0\)\
+\-\ intestine\\:\\ 0\\.11091340461242764\ \(0\)\
+\-\ nursing\\:\\ 0\\.11091340461242764\ \(0\)\
+\-\ staff\\:\\ 0\\.11091340461242764\ \(0\)\
+\-\ sequela\\:\\ 0\\.10990628964170658\ \(0\)\
+\-\ npo\\:\\ 0\\.10896025054521899\ \(0\)\
+\-\ girth\\:\\ 0\\.10806830115954627\ \(0\)\
+\-\ apnea\\:\\ 0\\.10722458941953734\ \(0\)\
+\-\ hospitalized\\:\\ 0\\.10642416443667807\ \(0\)\
+\-\ prematurity\\:\\ 0\\.10493686185751853\ \(0\)\
+\-\ enterocolitis\\:\\ 0\\.1035790609837967\ \(0\)\
+\-\ pneumoperitoneum\\:\\ 0\\.10233000526057624\ \(0\)\
+\-\ common\\:\\ 0\\.10096434679672596\ \(0\)\
+\-\ intramural\\:\\ 0\\.09908982080804711\ \(0\)\
+\-\ branching\\:\\ 0\\.09908982080804711\ \(0\)\
+\-\ nicu\\:\\ 0\\.09860963319960865\ \(0\)\
+\-\ hospitalization\\:\\ 0\\.09814378171155952\ \(0\)\
+\-\ lucencies\\:\\ 0\\.09484633163165905\ \(0\)\
+\-\ enough\\:\\ 0\\.09484633163165905\ \(0\)\
+\-\ into\\:\\ 0\\.09463856910219313\ \(0\)\
+\-\ distally\\:\\ 0\\.09342672922786666\ \(0\)\
+\-\ necrotizing\\:\\ 0\\.09309112777838095\ \(0\)\
+\-\ most\\:\\ 0\\.09265307028302952\ \(0\)\
+\-\ small\\:\\ 0\\.09183472943368139\ \(0\)\
+\-\ fine\\:\\ 0\\.09063826781883054\ \(0\)\
+\-\ spectrum\\:\\ 0\\.09035709145590946\ \(0\)\
+\-\ in\\:\\ 0\\.0885770015131474\ \(0\)\
+\-\ distention\\:\\ 0\\.08643536349222734\ \(0\)\
+\-\ gestational\\:\\ 0\\.08643536349222734\ \(0\)\
+\-\ portal\\:\\ 0\\.08518630776900689\ \(0\)\
+\-\ born\\:\\ 0\\.08498751697946426\ \(0\)\
+\-\ treatment\\:\\ 0\\.08480592940000921\ \(0\)\
+\-\ perforation\\:\\ 0\\.08402986279799958\ \(0\)\
+\-\ nonspecific\\:\\ 0\\.0836626725402649\ \(0\)\
+\-\ extend\\:\\ 0\\.08210952654718988\ \(0\)\
+\-\ broad\\:\\ 0\\.08039982306422157\ \(0\)\
+\-\ fourth\\:\\ 0\\.07982179898517107\ \(0\)\
+\-\ highly\\:\\ 0\\.07968057751504713\ \(0\)\
+\-\ overlying\\:\\ 0\\.07583714808967551\ \(0\)\
+\-\ distribution\\:\\ 0\\.0755109020756896\ \(0\)\
+\-\ affected\\:\\ 0\\.0732133939643401\ \(0\)\
+\-\ as\\:\\ 0\\.07152163883066912\ \(0\)\
+\-\ colon\\:\\ 0\\.06777811469210293\ \(0\)\
+\-\ specific\\:\\ 0\\.06745367751849767\ \(0\)\
+\-\ commonly\\:\\ 0\\.06586744388969532\ \(0\)\
+\-\ antibiotics\\:\\ 0\\.06558005333702745\ \(0\)\
+\-\ portion\\:\\ 0\\.06365372328320716\ \(0\)\
+\-\ venous\\:\\ 0\\.06355337010168793\ \(0\)\
+\-\ liver\\:\\ 0\\.06140723603105714\ \(0\)\
+\-\ this\\:\\ 0\\.061174886685377204\ \(0\)\
+\-\ density\\:\\ 0\\.059026663243002965\ \(0\)\
+\-\ vascular\\:\\ 0\\.05876688539690262\ \(0\)\
+\-\ finding\\:\\ 0\\.05851136141480954\ \(0\)\
+\-\ patient\\:\\ 0\\.057904763709412305\ \(0\)\
+\-\ area\\:\\ 0\\.05766574420243166\ \(0\)\
+\-\ resection\\:\\ 0\\.05706030708875791\ \(0\)\
+\-\ medical\\:\\ 0\\.05657312290299655\ \(0\)\
+\-\ severe\\:\\ 0\\.05635087283569182\ \(0\)\
+\-\ age\\:\\ 0\\.05588502134764268\ \(0\)\
+\-\ diffuse\\:\\ 0\\.05582394547340923\ \(0\)\
+\-\ treated\\:\\ 0\\.05543267472062359\ \(0\)\
+\-\ abdomen\\:\\ 0\\.05431449261949265\ \(0\)\
+\-\ loss\\:\\ 0\\.05423170799061043\ \(0\)\
+\-\ for\\:\\ 0\\.053960031769719995\ \(0\)\
+\-\ distal\\:\\ 0\\.05172041118981831\ \(0\)\
+\-\ if\\:\\ 0\\.05172041118981831\ \(0\)\
+\-\ low\\:\\ 0\\.05107776707553277\ \(0\)\
+\-\ abdominal\\:\\ 0\\.048685120472597106\ \(0\)\
+\-\ increased\\:\\ 0\\.04813552983653556\ \(0\)\
+\-\ noted\\:\\ 0\\.047196064439202774\ \(0\)\
+\-\ can\\:\\ 0\\.04671268923685143\ \(0\)\
+\-\ have\\:\\ 0\\.044468291358214625\ \(0\)\
+\-\ surgical\\:\\ 0\\.043264598649341145\ \(0\)\
+\-\ after\\:\\ 0\\.04318303993086516\ \(0\)\
+\-\ also\\:\\ 0\\.041870496820729235\ \(0\)\
+\-\ male\\:\\ 0\\.03963327324174603\ \(0\)\
+\-\ by\\:\\ 0\\.03780128547719331\ \(0\)\
+\-\ and\\:\\ 0\\.03678806424144579\ \(0\)\
+\-\ at\\:\\ 0\\.03362240712292094\ \(0\)\
+\-\ was\\:\\ 0\\.03102289917972699\ \(0\)\
+\-\ on\\:\\ 0\\.02688430956863198\ \(0\)\
+\-\ to\\:\\ 0\\.022253783454360042\ \(0\)\

@@ -1,63 +1,60 @@
-Texto: 
-no abnormalities
-frontal view of the chest demonstrates narrowing of the trachea.  lateral view of the chest shows posterior indentation of the trachea and esophagus.
-
-frontal views of an esophagogram demonstrate right and left external compression of the esophagus, which persisted during swallow.  lateral views show posterior indentation of the esophagus.
-double aortic arch
-double aortic arch
-superior mediastinal mass
-esophageal stricture
-9 month old male presents for esophagogram for follow up of abnormality on chest x-ray.
-
-
-Keywords by value: 
-- esophagogram: 0.17901744729750863
-- indentation: 0.14561276389702932
-- esophagus: 0.13408095000238257
-- trachea: 0.10936993505904682
-- double: 0.09959969149017539
-- arch: 0.09266759335880717
-- views: 0.08487261684920497
-- aortic: 0.08334776263360207
-- view: 0.07725413563329009
-- chest: 0.0739058674719585
-- persisted: 0.0689695900073275
-- frontal: 0.06468173336104475
-- swallow: 0.0600828557527398
-- stricture: 0.05519773396830408
-- posterior: 0.04746116984825178
-- esophageal: 0.04720094727729623
-- x-ray: 0.046417756550681824
-- lateral: 0.0444980251957723
-- external: 0.04377993823704113
-- mediastinal: 0.04371244118223787
-- 9: 0.04255800837624711
-- narrowing: 0.04128249029096383
-- compression: 0.03853912441325213
-- abnormality: 0.037982625829283766
-- abnormalities: 0.03781644122527972
-- superior: 0.032876430084990256
-- follow: 0.03271324664995704
-- show: 0.03160428836736899
-- during: 0.0315061355412507
-- month: 0.0308869221783206
-- shows: 0.028305707225649145
-- up: 0.027684905434388233
-- demonstrate: 0.023692194473892057
-- demonstrates: 0.022489412068110677
-- presents: 0.021031858982023203
-- which: 0.019218609484849984
-- male: 0.01861693419141534
-- for: 0.017568871051631692
-- mass: 0.01431880731262126
-- an: 0.014236926075719638
-- left: 0.011519340593649575
-- of: 0.011229282004625392
-- right: 0.01086303263988454
-- old: 0.010541380685087405
-- no: 0.01036679699643135
-- the: 0.009993924195442828
-- on: 0.008721578462234073
-- and: 0.004337566403185987
-- ,: 0.0032615670544251492
-- .: 0.0021385262709244742
+\-\ Texto\\:\\ \ \(0\)\
+\-\ no\\ abnormalities\ \(21\)\
+\-\ frontal\\ view\\ of\\ the\\ chest\\ demonstrates\\ narrowing\\ of\\ the\\ trachea\\.\\ \\ lateral\\ view\\ of\\ the\\ chest\\ shows\\ posterior\\ indentation\\ of\\ the\\ trachea\\ and\\ esophagus\\.\ \(0\)\
+\-\ frontal\\ views\\ of\\ an\\ esophagogram\\ demonstrate\\ right\\ and\\ left\\ external\\ compression\\ of\\ the\\ esophagus\\,\\ which\\ persisted\\ during\\ swallow\\.\\ \\ lateral\\ views\\ show\\ posterior\\ indentation\\ of\\ the\\ esophagus\\.\ \(0\)\
+\-\ double\\ aortic\\ arch\ \(15\)\
+\-\ double\\ aortic\\ arch\ \(15\)\
+\-\ superior\\ mediastinal\\ mass\ \(0\)\
+\-\ esophageal\\ stricture\ \(10\)\
+\-\ 9\\ month\\ old\\ male\\ presents\\ for\\ esophagogram\\ for\\ follow\\ up\\ of\\ abnormality\\ on\\ chest\\ x\\-ray\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ esophagogram\\:\\ 0\\.17901744729750863\ \(0\)\
+\-\ indentation\\:\\ 0\\.14561276389702932\ \(0\)\
+\-\ esophagus\\:\\ 0\\.13408095000238257\ \(0\)\
+\-\ trachea\\:\\ 0\\.10936993505904682\ \(0\)\
+\-\ double\\:\\ 0\\.09959969149017539\ \(0\)\
+\-\ arch\\:\\ 0\\.09266759335880717\ \(0\)\
+\-\ views\\:\\ 0\\.08487261684920497\ \(0\)\
+\-\ aortic\\:\\ 0\\.08334776263360207\ \(0\)\
+\-\ view\\:\\ 0\\.07725413563329009\ \(0\)\
+\-\ chest\\:\\ 0\\.0739058674719585\ \(0\)\
+\-\ persisted\\:\\ 0\\.0689695900073275\ \(0\)\
+\-\ frontal\\:\\ 0\\.06468173336104475\ \(0\)\
+\-\ swallow\\:\\ 0\\.0600828557527398\ \(0\)\
+\-\ stricture\\:\\ 0\\.05519773396830408\ \(0\)\
+\-\ posterior\\:\\ 0\\.04746116984825178\ \(0\)\
+\-\ esophageal\\:\\ 0\\.04720094727729623\ \(0\)\
+\-\ x\\-ray\\:\\ 0\\.046417756550681824\ \(0\)\
+\-\ lateral\\:\\ 0\\.0444980251957723\ \(0\)\
+\-\ external\\:\\ 0\\.04377993823704113\ \(0\)\
+\-\ mediastinal\\:\\ 0\\.04371244118223787\ \(0\)\
+\-\ 9\\:\\ 0\\.04255800837624711\ \(0\)\
+\-\ narrowing\\:\\ 0\\.04128249029096383\ \(0\)\
+\-\ compression\\:\\ 0\\.03853912441325213\ \(0\)\
+\-\ abnormality\\:\\ 0\\.037982625829283766\ \(0\)\
+\-\ abnormalities\\:\\ 0\\.03781644122527972\ \(0\)\
+\-\ superior\\:\\ 0\\.032876430084990256\ \(0\)\
+\-\ follow\\:\\ 0\\.03271324664995704\ \(0\)\
+\-\ show\\:\\ 0\\.03160428836736899\ \(0\)\
+\-\ during\\:\\ 0\\.0315061355412507\ \(0\)\
+\-\ month\\:\\ 0\\.0308869221783206\ \(0\)\
+\-\ shows\\:\\ 0\\.028305707225649145\ \(0\)\
+\-\ up\\:\\ 0\\.027684905434388233\ \(0\)\
+\-\ demonstrate\\:\\ 0\\.023692194473892057\ \(0\)\
+\-\ demonstrates\\:\\ 0\\.022489412068110677\ \(0\)\
+\-\ presents\\:\\ 0\\.021031858982023203\ \(0\)\
+\-\ which\\:\\ 0\\.019218609484849984\ \(0\)\
+\-\ male\\:\\ 0\\.01861693419141534\ \(0\)\
+\-\ for\\:\\ 0\\.017568871051631692\ \(0\)\
+\-\ mass\\:\\ 0\\.01431880731262126\ \(0\)\
+\-\ an\\:\\ 0\\.014236926075719638\ \(0\)\
+\-\ left\\:\\ 0\\.011519340593649575\ \(0\)\
+\-\ of\\:\\ 0\\.011229282004625392\ \(0\)\
+\-\ right\\:\\ 0\\.01086303263988454\ \(0\)\
+\-\ old\\:\\ 0\\.010541380685087405\ \(0\)\
+\-\ no\\:\\ 0\\.01036679699643135\ \(0\)\
+\-\ the\\:\\ 0\\.009993924195442828\ \(0\)\
+\-\ on\\:\\ 0\\.008721578462234073\ \(0\)\
+\-\ and\\:\\ 0\\.004337566403185987\ \(0\)\
+\-\ \\,\\:\\ 0\\.0032615670544251492\ \(0\)\
+\-\ \\.\\:\\ 0\\.0021385262709244742\ \(0\)\

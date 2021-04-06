@@ -1,109 +1,104 @@
-Texto: 
->>physical exam within normal limits. no evidence of sonographic murphy's sign.
-
->>normal liver function tests.
-treatment is generally conservative, if the patient is symptomatic.
->>intramural cystic formation (anechoic diverticula) with echogenic foci 
->>comet-tail/ring-down reverberation artifacts together 
-with segmental/partial thickening of the gallbladder wall are considered to be the diagnostic findings on us examination.
-
-comet tail artifacts are generally v-shaped and short.
-adenomyomatosis
-differential for focal gallbladder wall thickening or intraluminal polypoid masses:
-
-1.  adenomyomatosis
-2.  adenomatous, hyperplastic, and cholesterol polyps
-3.  gall bladder carcinoma
-4.  carcinoid tumor
-5.  metastatic disease (e.g., melanoma)
-6.  hematoma 
-ref: dogra vs, adenomyomatosis.  emedicine.com
-68 year old male with possible pericholecsytic fluid noted on previous ct scan of the abdomen.
-
-
-Keywords by value: 
-- adenomyomatosis: 0.3835568152338573
-- artifacts: 0.2714471643317974
-- comet: 0.26429721300614695
-- tail: 0.20045633697414947
-- gallbladder: 0.18161347716136647
-- generally: 0.17216761608463096
-- pericholecsytic: 0.1625189250339603
-- reverberation: 0.15529550912725215
-- dogra: 0.15529550912725215
-- thickening: 0.13827298172111757
-- ref: 0.12439335600797392
-- wall: 0.12363812693141758
-- hyperplastic: 0.12241185622951559
-- polypoid: 0.11980009544842818
-- adenomatous: 0.11752272659298944
-- gall: 0.11615165520454526
-- together: 0.11487860406701603
-- intramural: 0.11312488081537914
-- cholesterol: 0.11257667954172003
-- murphy: 0.11102656005660813
-- anechoic: 0.11102656005660813
-- diverticula: 0.11006334517487029
-- polyps: 0.10960058836073835
-- carcinoid: 0.10705122741809062
-- intraluminal: 0.10380314414989998
-- 68: 0.09771483412022501
-- tests: 0.09725207730609309
-- melanoma: 0.09490177022938094
-- echogenic: 0.09318561845527791
-- sonographic: 0.09145463309525469
-- short: 0.08734782284403805
-- foci: 0.08306084723245558
-- normal: 0.082984808548645
-- function: 0.08225550624382261
-- the: 0.08111069393722856
-- us: 0.08083710740063262
-- formation: 0.08056649254164594
-- limits: 0.08029992693503354
-- considered: 0.07918879103192654
-- bladder: 0.07886039213560735
-- conservative: 0.07845822752603794
-- symptomatic: 0.07814290715887157
-- vs: 0.07752853125373803
-- diagnostic: 0.07745320287232703
-- are: 0.07712338440123656
-- previous: 0.07678920791774341
-- hematoma: 0.07112908350093275
-- sign: 0.07035551180400657
-- liver: 0.0701049431774838
-- masses: 0.06918368330050226
-- possible: 0.06885593174473512
-- differential: 0.06603036161563727
-- examination: 0.06502968060934215
-- abdomen: 0.062007585179010775
-- on: 0.06138439429912191
-- cystic: 0.06120468756057525
-- focal: 0.06078689303776241
-- carcinoma: 0.06078689303776241
-- scan: 0.06029240038380237
-- with: 0.05969775840264168
-- of: 0.059662110305950575
-- if: 0.05904607863712522
-- fluid: 0.05867546809622998
-- evidence: 0.05768194364221786
-- metastatic: 0.05573568906029615
-- is: 0.05566085437602996
-- physical: 0.055102874295252124
-- noted: 0.05388090442692759
-- tumor: 0.05315525648908517
-- exam: 0.05115758043288105
-- findings: 0.050155528007134055
-- treatment: 0.048408911115087994
-- within: 0.046804888001375965
-- male: 0.04524692117953419
-- disease: 0.04265815165306123
-- and: 0.041998717414211906
-- be: 0.04122480054293577
-- ct: 0.03868921698037328
-- or: 0.03535318557505316
-- patient: 0.033053190730656726
-- no: 0.03304697361816617
-- year: 0.03131852089392512
-- for: 0.030801459286966034
-- old: 0.03007662123321638
-- to: 0.025405804354439728
+\-\ Texto\\:\\ \ \(0\)\
+\-\ \\>\\>physical\\ exam\\ within\\ normal\\ limits\\.\\ no\\ evidence\\ of\\ sonographic\\ murphy\\'s\\ sign\\.\ \(0\)\
+\-\ \\>\\>normal\\ liver\\ function\\ tests\\.\ \(0\)\
+\-\ treatment\\ is\\ generally\\ conservative\\,\\ if\\ the\\ patient\\ is\\ symptomatic\\.\ \(0\)\
+\-\ \\>\\>intramural\\ cystic\\ formation\\ \\(anechoic\\ diverticula\\)\\ with\\ echogenic\\ foci\\ \ \(0\)\
+\-\ \\>\\>comet\\-tail\\/ring\\-down\\ reverberation\\ artifacts\\ together\\ \ \(0\)\
+\-\ with\\ segmental\\/partial\\ thickening\\ of\\ the\\ gallbladder\\ wall\\ are\\ considered\\ to\\ be\\ the\\ diagnostic\\ findings\\ on\\ us\\ examination\\.\ \(0\)\
+\-\ comet\\ tail\\ artifacts\\ are\\ generally\\ v\\-shaped\\ and\\ short\\.\ \(0\)\
+\-\ adenomyomatosis\ \(9\)\
+\-\ differential\\ for\\ focal\\ gallbladder\\ wall\\ thickening\\ or\\ intraluminal\\ polypoid\\ masses\\:\ \(0\)\
+\-\ 1\\.\\ \\ adenomyomatosis\ \(0\)\
+\-\ 2\\.\\ \\ adenomatous\\,\\ hyperplastic\\,\\ and\\ cholesterol\\ polyps\ \(0\)\
+\-\ 3\\.\\ \\ gall\\ bladder\\ carcinoma\ \(0\)\
+\-\ 4\\.\\ \\ carcinoid\\ tumor\ \(0\)\
+\-\ 5\\.\\ \\ metastatic\\ disease\\ \\(e\\.g\\.\\,\\ melanoma\\)\ \(0\)\
+\-\ 6\\.\\ \\ hematoma\\ \ \(0\)\
+\-\ ref\\:\\ dogra\\ vs\\,\\ adenomyomatosis\\.\\ \\ emedicine\\.com\ \(0\)\
+\-\ 68\\ year\\ old\\ male\\ with\\ possible\\ pericholecsytic\\ fluid\\ noted\\ on\\ previous\\ ct\\ scan\\ of\\ the\\ abdomen\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ adenomyomatosis\\:\\ 0\\.3835568152338573\ \(0\)\
+\-\ artifacts\\:\\ 0\\.2714471643317974\ \(0\)\
+\-\ comet\\:\\ 0\\.26429721300614695\ \(0\)\
+\-\ tail\\:\\ 0\\.20045633697414947\ \(0\)\
+\-\ gallbladder\\:\\ 0\\.18161347716136647\ \(0\)\
+\-\ generally\\:\\ 0\\.17216761608463096\ \(0\)\
+\-\ pericholecsytic\\:\\ 0\\.1625189250339603\ \(0\)\
+\-\ reverberation\\:\\ 0\\.15529550912725215\ \(0\)\
+\-\ dogra\\:\\ 0\\.15529550912725215\ \(0\)\
+\-\ thickening\\:\\ 0\\.13827298172111757\ \(0\)\
+\-\ ref\\:\\ 0\\.12439335600797392\ \(0\)\
+\-\ wall\\:\\ 0\\.12363812693141758\ \(0\)\
+\-\ hyperplastic\\:\\ 0\\.12241185622951559\ \(0\)\
+\-\ polypoid\\:\\ 0\\.11980009544842818\ \(0\)\
+\-\ adenomatous\\:\\ 0\\.11752272659298944\ \(0\)\
+\-\ gall\\:\\ 0\\.11615165520454526\ \(0\)\
+\-\ together\\:\\ 0\\.11487860406701603\ \(0\)\
+\-\ intramural\\:\\ 0\\.11312488081537914\ \(0\)\
+\-\ cholesterol\\:\\ 0\\.11257667954172003\ \(0\)\
+\-\ murphy\\:\\ 0\\.11102656005660813\ \(0\)\
+\-\ anechoic\\:\\ 0\\.11102656005660813\ \(0\)\
+\-\ diverticula\\:\\ 0\\.11006334517487029\ \(0\)\
+\-\ polyps\\:\\ 0\\.10960058836073835\ \(0\)\
+\-\ carcinoid\\:\\ 0\\.10705122741809062\ \(0\)\
+\-\ intraluminal\\:\\ 0\\.10380314414989998\ \(0\)\
+\-\ 68\\:\\ 0\\.09771483412022501\ \(0\)\
+\-\ tests\\:\\ 0\\.09725207730609309\ \(0\)\
+\-\ melanoma\\:\\ 0\\.09490177022938094\ \(0\)\
+\-\ echogenic\\:\\ 0\\.09318561845527791\ \(0\)\
+\-\ sonographic\\:\\ 0\\.09145463309525469\ \(0\)\
+\-\ short\\:\\ 0\\.08734782284403805\ \(0\)\
+\-\ foci\\:\\ 0\\.08306084723245558\ \(0\)\
+\-\ normal\\:\\ 0\\.082984808548645\ \(0\)\
+\-\ function\\:\\ 0\\.08225550624382261\ \(0\)\
+\-\ the\\:\\ 0\\.08111069393722856\ \(0\)\
+\-\ us\\:\\ 0\\.08083710740063262\ \(0\)\
+\-\ formation\\:\\ 0\\.08056649254164594\ \(0\)\
+\-\ limits\\:\\ 0\\.08029992693503354\ \(0\)\
+\-\ considered\\:\\ 0\\.07918879103192654\ \(0\)\
+\-\ bladder\\:\\ 0\\.07886039213560735\ \(0\)\
+\-\ conservative\\:\\ 0\\.07845822752603794\ \(0\)\
+\-\ symptomatic\\:\\ 0\\.07814290715887157\ \(0\)\
+\-\ vs\\:\\ 0\\.07752853125373803\ \(0\)\
+\-\ diagnostic\\:\\ 0\\.07745320287232703\ \(0\)\
+\-\ are\\:\\ 0\\.07712338440123656\ \(0\)\
+\-\ previous\\:\\ 0\\.07678920791774341\ \(0\)\
+\-\ hematoma\\:\\ 0\\.07112908350093275\ \(0\)\
+\-\ sign\\:\\ 0\\.07035551180400657\ \(0\)\
+\-\ liver\\:\\ 0\\.0701049431774838\ \(0\)\
+\-\ masses\\:\\ 0\\.06918368330050226\ \(0\)\
+\-\ possible\\:\\ 0\\.06885593174473512\ \(0\)\
+\-\ differential\\:\\ 0\\.06603036161563727\ \(0\)\
+\-\ examination\\:\\ 0\\.06502968060934215\ \(0\)\
+\-\ abdomen\\:\\ 0\\.062007585179010775\ \(0\)\
+\-\ on\\:\\ 0\\.06138439429912191\ \(0\)\
+\-\ cystic\\:\\ 0\\.06120468756057525\ \(0\)\
+\-\ focal\\:\\ 0\\.06078689303776241\ \(0\)\
+\-\ carcinoma\\:\\ 0\\.06078689303776241\ \(0\)\
+\-\ scan\\:\\ 0\\.06029240038380237\ \(0\)\
+\-\ with\\:\\ 0\\.05969775840264168\ \(0\)\
+\-\ of\\:\\ 0\\.059662110305950575\ \(0\)\
+\-\ if\\:\\ 0\\.05904607863712522\ \(0\)\
+\-\ fluid\\:\\ 0\\.05867546809622998\ \(0\)\
+\-\ evidence\\:\\ 0\\.05768194364221786\ \(0\)\
+\-\ metastatic\\:\\ 0\\.05573568906029615\ \(0\)\
+\-\ is\\:\\ 0\\.05566085437602996\ \(0\)\
+\-\ physical\\:\\ 0\\.055102874295252124\ \(0\)\
+\-\ noted\\:\\ 0\\.05388090442692759\ \(0\)\
+\-\ tumor\\:\\ 0\\.05315525648908517\ \(0\)\
+\-\ exam\\:\\ 0\\.05115758043288105\ \(0\)\
+\-\ findings\\:\\ 0\\.050155528007134055\ \(0\)\
+\-\ treatment\\:\\ 0\\.048408911115087994\ \(0\)\
+\-\ within\\:\\ 0\\.046804888001375965\ \(0\)\
+\-\ male\\:\\ 0\\.04524692117953419\ \(0\)\
+\-\ disease\\:\\ 0\\.04265815165306123\ \(0\)\
+\-\ and\\:\\ 0\\.041998717414211906\ \(0\)\
+\-\ be\\:\\ 0\\.04122480054293577\ \(0\)\
+\-\ ct\\:\\ 0\\.03868921698037328\ \(0\)\
+\-\ or\\:\\ 0\\.03535318557505316\ \(0\)\
+\-\ patient\\:\\ 0\\.033053190730656726\ \(0\)\
+\-\ no\\:\\ 0\\.03304697361816617\ \(0\)\
+\-\ year\\:\\ 0\\.03131852089392512\ \(0\)\
+\-\ for\\:\\ 0\\.030801459286966034\ \(0\)\
+\-\ old\\:\\ 0\\.03007662123321638\ \(0\)\
+\-\ to\\:\\ 0\\.025405804354439728\ \(0\)\

@@ -1,92 +1,89 @@
-Texto: 
-ttp lower abdomen.
-
-wbc 15k
-axial contrast enhanced ct shows long segment thickening of the sigmoid colon with multiple air filled outpouchings, diverticuli vs small contained perforations.  inflammatory changes are present in the surrounding mesentery.
-diverticulitis
-diverticulitis.
-inflammatory bowel disease, such as chron's.
-infectious colitis.
-ischemic colitis.
-microperforation of colon carcinoma
-36 year old male with lower abdominal pain.
-while severe diverticulitis is sometimes treated with hemicolectomy, given this patient's young age and absence of complications (free perforation, fistula, etc.) enabled concervative treatement, stool softners, flagyl, and cipro.
-
-
-Keywords by value: 
-- diverticulitis: 0.3345309393323571
-- colitis: 0.23466642723402562
-- microperforation: 0.18973967443288192
-- enabled: 0.18973967443288192
-- softners: 0.18973967443288192
-- cipro: 0.18973967443288192
-- 15k: 0.18130638838852922
-- concervative: 0.18130638838852922
-- colon: 0.18067696290093227
-- perforations: 0.17068170449377026
-- chron: 0.16368340412052865
-- treatement: 0.16368340412052865
-- inflammatory: 0.16045388661212523
-- flagyl: 0.15845630462815882
-- outpouchings: 0.15247279295649394
-- hemicolectomy: 0.15080798127214212
-- diverticuli: 0.13986574857459255
-- contained: 0.13341482301738225
-- mesentery: 0.12905283676559973
-- lower: 0.12125576260114658
-- ttp: 0.12080777863548088
-- stool: 0.11831602838059342
-- etc: 0.11670289136274867
-- perforation: 0.11199972492812298
-- sometimes: 0.11103215314255727
-- sigmoid: 0.1098827423362407
-- fistula: 0.10716140390600448
-- ischemic: 0.1049307995546951
-- 36: 0.09821134487934646
-- segment: 0.09795769487511051
-- young: 0.0978320205195172
-- filled: 0.09546594462022305
-- infectious: 0.09546594462022305
-- absence: 0.09459006604372307
-- free: 0.09235582771973555
-- complications: 0.09086954968583438
-- vs: 0.09051400183867746
-- enhanced: 0.09033848145046613
-- wbc: 0.08385844596188348
-- given: 0.08161591337749649
-- thickening: 0.08071635512339988
-- surrounding: 0.07912787028643142
-- long: 0.07867405499082478
-- air: 0.07760470983678755
-- while: 0.07667809591374361
-- such: 0.07631870826696155
-- bowel: 0.07614131663669352
-- severe: 0.07510761111474012
-- age: 0.07448669806333738
-- treated: 0.07388378504989963
-- abdomen: 0.07239340908621072
-- changes: 0.07170427576373274
-- carcinoma: 0.07096825980335125
-- with: 0.06969670296135146
-- of: 0.06965508406522038
-- shows: 0.06963453101214633
-- axial: 0.06853379573136976
-- abdominal: 0.06489026543017529
-- small: 0.06120124496779359
-- present: 0.06088076031312845
-- multiple: 0.05803200166277089
-- contrast: 0.05764733205119956
-- male: 0.05282545458568053
-- disease: 0.04980308480916308
-- and: 0.04903320008488855
-- as: 0.047664030433441314
-- the: 0.04734807548554413
-- ct: 0.04516938216509363
-- are: 0.04502049790322823
-- pain: 0.042455657009294594
-- this: 0.040768663979268385
-- patient: 0.03858936211208788
-- year: 0.03656414757168147
-- old: 0.03511423866259939
-- is: 0.03249182329306299
-- in: 0.02951510175697506
+\-\ Texto\\:\\ \ \(0\)\
+\-\ ttp\\ lower\\ abdomen\\.\ \(0\)\
+\-\ wbc\\ 15k\ \(0\)\
+\-\ axial\\ contrast\\ enhanced\\ ct\\ shows\\ long\\ segment\\ thickening\\ of\\ the\\ sigmoid\\ colon\\ with\\ multiple\\ air\\ filled\\ outpouchings\\,\\ diverticuli\\ vs\\ small\\ contained\\ perforations\\.\\ \\ inflammatory\\ changes\\ are\\ present\\ in\\ the\\ surrounding\\ mesentery\\.\ \(0\)\
+\-\ diverticulitis\ \(62\)\
+\-\ diverticulitis\\.\ \(15\)\
+\-\ inflammatory\\ bowel\\ disease\\,\\ such\\ as\\ chron\\'s\\.\ \(0\)\
+\-\ infectious\\ colitis\\.\ \(0\)\
+\-\ ischemic\\ colitis\\.\ \(1\)\
+\-\ microperforation\\ of\\ colon\\ carcinoma\ \(0\)\
+\-\ 36\\ year\\ old\\ male\\ with\\ lower\\ abdominal\\ pain\\.\ \(1\)\
+\-\ while\\ severe\\ diverticulitis\\ is\\ sometimes\\ treated\\ with\\ hemicolectomy\\,\\ given\\ this\\ patient\\'s\\ young\\ age\\ and\\ absence\\ of\\ complications\\ \\(free\\ perforation\\,\\ fistula\\,\\ etc\\.\\)\\ enabled\\ concervative\\ treatement\\,\\ stool\\ softners\\,\\ flagyl\\,\\ and\\ cipro\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ diverticulitis\\:\\ 0\\.3345309393323571\ \(0\)\
+\-\ colitis\\:\\ 0\\.23466642723402562\ \(0\)\
+\-\ microperforation\\:\\ 0\\.18973967443288192\ \(0\)\
+\-\ enabled\\:\\ 0\\.18973967443288192\ \(0\)\
+\-\ softners\\:\\ 0\\.18973967443288192\ \(0\)\
+\-\ cipro\\:\\ 0\\.18973967443288192\ \(0\)\
+\-\ 15k\\:\\ 0\\.18130638838852922\ \(0\)\
+\-\ concervative\\:\\ 0\\.18130638838852922\ \(0\)\
+\-\ colon\\:\\ 0\\.18067696290093227\ \(0\)\
+\-\ perforations\\:\\ 0\\.17068170449377026\ \(0\)\
+\-\ chron\\:\\ 0\\.16368340412052865\ \(0\)\
+\-\ treatement\\:\\ 0\\.16368340412052865\ \(0\)\
+\-\ inflammatory\\:\\ 0\\.16045388661212523\ \(0\)\
+\-\ flagyl\\:\\ 0\\.15845630462815882\ \(0\)\
+\-\ outpouchings\\:\\ 0\\.15247279295649394\ \(0\)\
+\-\ hemicolectomy\\:\\ 0\\.15080798127214212\ \(0\)\
+\-\ diverticuli\\:\\ 0\\.13986574857459255\ \(0\)\
+\-\ contained\\:\\ 0\\.13341482301738225\ \(0\)\
+\-\ mesentery\\:\\ 0\\.12905283676559973\ \(0\)\
+\-\ lower\\:\\ 0\\.12125576260114658\ \(0\)\
+\-\ ttp\\:\\ 0\\.12080777863548088\ \(0\)\
+\-\ stool\\:\\ 0\\.11831602838059342\ \(0\)\
+\-\ etc\\:\\ 0\\.11670289136274867\ \(0\)\
+\-\ perforation\\:\\ 0\\.11199972492812298\ \(0\)\
+\-\ sometimes\\:\\ 0\\.11103215314255727\ \(0\)\
+\-\ sigmoid\\:\\ 0\\.1098827423362407\ \(0\)\
+\-\ fistula\\:\\ 0\\.10716140390600448\ \(0\)\
+\-\ ischemic\\:\\ 0\\.1049307995546951\ \(0\)\
+\-\ 36\\:\\ 0\\.09821134487934646\ \(0\)\
+\-\ segment\\:\\ 0\\.09795769487511051\ \(0\)\
+\-\ young\\:\\ 0\\.0978320205195172\ \(0\)\
+\-\ filled\\:\\ 0\\.09546594462022305\ \(0\)\
+\-\ infectious\\:\\ 0\\.09546594462022305\ \(0\)\
+\-\ absence\\:\\ 0\\.09459006604372307\ \(0\)\
+\-\ free\\:\\ 0\\.09235582771973555\ \(0\)\
+\-\ complications\\:\\ 0\\.09086954968583438\ \(0\)\
+\-\ vs\\:\\ 0\\.09051400183867746\ \(0\)\
+\-\ enhanced\\:\\ 0\\.09033848145046613\ \(0\)\
+\-\ wbc\\:\\ 0\\.08385844596188348\ \(0\)\
+\-\ given\\:\\ 0\\.08161591337749649\ \(0\)\
+\-\ thickening\\:\\ 0\\.08071635512339988\ \(0\)\
+\-\ surrounding\\:\\ 0\\.07912787028643142\ \(0\)\
+\-\ long\\:\\ 0\\.07867405499082478\ \(0\)\
+\-\ air\\:\\ 0\\.07760470983678755\ \(0\)\
+\-\ while\\:\\ 0\\.07667809591374361\ \(0\)\
+\-\ such\\:\\ 0\\.07631870826696155\ \(0\)\
+\-\ bowel\\:\\ 0\\.07614131663669352\ \(0\)\
+\-\ severe\\:\\ 0\\.07510761111474012\ \(0\)\
+\-\ age\\:\\ 0\\.07448669806333738\ \(0\)\
+\-\ treated\\:\\ 0\\.07388378504989963\ \(0\)\
+\-\ abdomen\\:\\ 0\\.07239340908621072\ \(0\)\
+\-\ changes\\:\\ 0\\.07170427576373274\ \(0\)\
+\-\ carcinoma\\:\\ 0\\.07096825980335125\ \(0\)\
+\-\ with\\:\\ 0\\.06969670296135146\ \(0\)\
+\-\ of\\:\\ 0\\.06965508406522038\ \(0\)\
+\-\ shows\\:\\ 0\\.06963453101214633\ \(0\)\
+\-\ axial\\:\\ 0\\.06853379573136976\ \(0\)\
+\-\ abdominal\\:\\ 0\\.06489026543017529\ \(0\)\
+\-\ small\\:\\ 0\\.06120124496779359\ \(0\)\
+\-\ present\\:\\ 0\\.06088076031312845\ \(0\)\
+\-\ multiple\\:\\ 0\\.05803200166277089\ \(0\)\
+\-\ contrast\\:\\ 0\\.05764733205119956\ \(0\)\
+\-\ male\\:\\ 0\\.05282545458568053\ \(0\)\
+\-\ disease\\:\\ 0\\.04980308480916308\ \(0\)\
+\-\ and\\:\\ 0\\.04903320008488855\ \(0\)\
+\-\ as\\:\\ 0\\.047664030433441314\ \(0\)\
+\-\ the\\:\\ 0\\.04734807548554413\ \(0\)\
+\-\ ct\\:\\ 0\\.04516938216509363\ \(0\)\
+\-\ are\\:\\ 0\\.04502049790322823\ \(0\)\
+\-\ pain\\:\\ 0\\.042455657009294594\ \(0\)\
+\-\ this\\:\\ 0\\.040768663979268385\ \(0\)\
+\-\ patient\\:\\ 0\\.03858936211208788\ \(0\)\
+\-\ year\\:\\ 0\\.03656414757168147\ \(0\)\
+\-\ old\\:\\ 0\\.03511423866259939\ \(0\)\
+\-\ is\\:\\ 0\\.03249182329306299\ \(0\)\
+\-\ in\\:\\ 0\\.02951510175697506\ \(0\)\

@@ -1,117 +1,115 @@
-Texto: 
-positive anterior drawer sign.
-patient will be scheduled for arthroscopic repair of both his near complete acl tear and bucket-handle medial meniscus tear.
-on sagittal t2 image there is a curvilinear t2 hypointensity anterior to the pcl which appears to be a second pcl - the 'double pcl sign.'  on coronal t2 fs, the lateral aspect of the medial meniscus is seen to sit within the intercondylar notch.  there is partial discontinuity of the acl fibers and a 'pseudomass' consistent with a near complete acl tear.  there is also edema within the lateral tibial plateau.  on axial pd,  the inner free edge of the medial meniscus is flipped centrally toward the intercondylar notch.  the lateral meniscus is normal.
-bucket-handle meniscal tear
-1. bucket-handle medial meniscus tear
-2. complete acl tear
-42 y/o with instability following left knee injury.
-triplanar confirmation of bucket-handle tear requires good imaging and a bit of good luck!  while the sagittal 'double pcl sign' is highly correlated with a bucket-handle tear, 'psuedomass' from an acl tear must be excluded.  in this case, we see absence of the medial meniscus in the normal location on the axial sequence and both the flipped meniscus and the near-complete acl tear on coronal imaging.
-
-
-Keywords by value: 
-- tear: 0.16754122280980052
-- bucket-handle: 0.15678033381112597
-- meniscus: 0.1545099191580815
-- acl: 0.13732068669247932
-- pcl: 0.09994004641246959
-- 'double: 0.0787099859282723
-- ': 0.07746752874086234
-- flipped: 0.06133578816884986
-- medial: 0.061011149856920806
-- intercondylar: 0.05730020670685828
-- notch: 0.04864484458910735
-- complete: 0.0402773562587418
-- sign: 0.03964883707719737
-- luck: 0.03935499296413615
-- 'psuedomass: 0.03935499296413615
-- 'pseudomass: 0.03626058590806497
-- triplanar: 0.03626058590806497
-- near-complete: 0.03626058590806497
-- near: 0.03301361260312271
-- good: 0.03264699218528544
-- t2: 0.03239181386719221
-- coronal: 0.03176806296373854
-- sagittal: 0.03043166654023553
-- bit: 0.030071771795922596
-- sit: 0.029545954672456597
-- fs: 0.027265483137786997
-- discontinuity: 0.027265483137786997
-- pd: 0.02670671910674233
-- correlated: 0.026451547616385417
-- !: 0.025555696297357954
-- drawer: 0.02535725092873816
-- arthroscopic: 0.025167252650082822
-- lateral: 0.024732161325328798
-- hypointensity: 0.024171076081715814
-- plateau: 0.023612312050671144
-- confirmation: 0.02288678111541322
-- curvilinear: 0.021980795204713712
-- meniscal: 0.021980795204713712
-- axial: 0.02177492389346314
-- toward: 0.02171551207761192
-- sequence: 0.021630475492921325
-- fibers: 0.021465112672919763
-- edge: 0.021384672916211378
-- centrally: 0.020788550627709044
-- excluded: 0.02065117715151818
-- inner: 0.02051790499459996
-- requires: 0.020262733504243048
-- we: 0.020080492457277624
-- anterior: 0.019649935926453012
-- instability: 0.019628025965044194
-- both: 0.01948392848826894
-- 42: 0.01931643774211767
-- scheduled: 0.019217227310043074
-- highly: 0.018370705616848577
-- imaging: 0.017875659146925023
-- be: 0.017648527544784763
-- tibial: 0.01762492845317373
-- is: 0.017571586824522676
-- must: 0.01739079240240345
-- there: 0.01703190477408467
-- on: 0.01615828152601402
-- absence: 0.015860840335096483
-- free: 0.015701790434903846
-- repair: 0.015276298560777396
-- partial: 0.01525605233236047
-- second: 0.014652361318031151
-- within: 0.014554744717732871
-- appears: 0.014199682235702001
-- knee: 0.013832547868572662
-- location: 0.013306730745106665
-- positive: 0.012378953528054092
-- injury: 0.012161645276289285
-- 2.: 0.012131447061608295
-- while: 0.012002898392197828
-- aspect: 0.011983446136086416
-- normal: 0.011960825487491973
-- will: 0.011935183117764026
-- image: 0.011916023063828574
-- 1.: 0.011916023063828574
-- see: 0.011384898264414233
-- his: 0.010995040301995232
-- following: 0.010827132843308697
-- edema: 0.010789837006389691
-- a: 0.010623208977283962
-- y/o: 0.01056530816883768
-- the: 0.010492133214114458
-- consistent: 0.009354010128710727
-- case: 0.008346001932443172
-- -: 0.008177359190662337
-- seen: 0.007538516138695045
-- also: 0.007520623186027461
-- which: 0.007121181193047092
-- to: 0.005719662166647137
-- from: 0.00565373086229559
-- an: 0.005275289572699686
-- ,: 0.004834108312808703
-- this: 0.004290791130866665
-- left: 0.004268327094968369
-- and: 0.00401805816366559
-- patient: 0.003824071120162446
-- in: 0.0037624752691094187
-- of: 0.0036407437749371384
-- for: 0.003254947092154978
-- .: 0.0017432807904946832
-- with: 0.0015670202154895946
+\-\ Texto\\:\\ \ \(0\)\
+\-\ positive\\ anterior\\ drawer\\ sign\\.\ \(1\)\
+\-\ patient\\ will\\ be\\ scheduled\\ for\\ arthroscopic\\ repair\\ of\\ both\\ his\\ near\\ complete\\ acl\\ tear\\ and\\ bucket\\-handle\\ medial\\ meniscus\\ tear\\.\ \(0\)\
+\-\ on\\ sagittal\\ t2\\ image\\ there\\ is\\ a\\ curvilinear\\ t2\\ hypointensity\\ anterior\\ to\\ the\\ pcl\\ which\\ appears\\ to\\ be\\ a\\ second\\ pcl\\ \\-\\ the\\ \\'double\\ pcl\\ sign\\.\\'\\ \\ on\\ coronal\\ t2\\ fs\\,\\ the\\ lateral\\ aspect\\ of\\ the\\ medial\\ meniscus\\ is\\ seen\\ to\\ sit\\ within\\ the\\ intercondylar\\ notch\\.\\ \\ there\\ is\\ partial\\ discontinuity\\ of\\ the\\ acl\\ fibers\\ and\\ a\\ \\'pseudomass\\'\\ consistent\\ with\\ a\\ near\\ complete\\ acl\\ tear\\.\\ \\ there\\ is\\ also\\ edema\\ within\\ the\\ lateral\\ tibial\\ plateau\\.\\ \\ on\\ axial\\ pd\\,\\ \\ the\\ inner\\ free\\ edge\\ of\\ the\\ medial\\ meniscus\\ is\\ flipped\\ centrally\\ toward\\ the\\ intercondylar\\ notch\\.\\ \\ the\\ lateral\\ meniscus\\ is\\ normal\\.\ \(0\)\
+\-\ bucket\\-handle\\ meniscal\\ tear\ \(0\)\
+\-\ 1\\.\\ bucket\\-handle\\ medial\\ meniscus\\ tear\ \(0\)\
+\-\ 2\\.\\ complete\\ acl\\ tear\ \(0\)\
+\-\ 42\\ y\\/o\\ with\\ instability\\ following\\ left\\ knee\\ injury\\.\ \(1\)\
+\-\ triplanar\\ confirmation\\ of\\ bucket\\-handle\\ tear\\ requires\\ good\\ imaging\\ and\\ a\\ bit\\ of\\ good\\ luck\\!\\ \\ while\\ the\\ sagittal\\ \\'double\\ pcl\\ sign\\'\\ is\\ highly\\ correlated\\ with\\ a\\ bucket\\-handle\\ tear\\,\\ \\'psuedomass\\'\\ from\\ an\\ acl\\ tear\\ must\\ be\\ excluded\\.\\ \\ in\\ this\\ case\\,\\ we\\ see\\ absence\\ of\\ the\\ medial\\ meniscus\\ in\\ the\\ normal\\ location\\ on\\ the\\ axial\\ sequence\\ and\\ both\\ the\\ flipped\\ meniscus\\ and\\ the\\ near\\-complete\\ acl\\ tear\\ on\\ coronal\\ imaging\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ tear\\:\\ 0\\.16754122280980052\ \(0\)\
+\-\ bucket\\-handle\\:\\ 0\\.15678033381112597\ \(0\)\
+\-\ meniscus\\:\\ 0\\.1545099191580815\ \(0\)\
+\-\ acl\\:\\ 0\\.13732068669247932\ \(0\)\
+\-\ pcl\\:\\ 0\\.09994004641246959\ \(0\)\
+\-\ \\'double\\:\\ 0\\.0787099859282723\ \(0\)\
+\-\ \\'\\:\\ 0\\.07746752874086234\ \(0\)\
+\-\ flipped\\:\\ 0\\.06133578816884986\ \(0\)\
+\-\ medial\\:\\ 0\\.061011149856920806\ \(0\)\
+\-\ intercondylar\\:\\ 0\\.05730020670685828\ \(0\)\
+\-\ notch\\:\\ 0\\.04864484458910735\ \(0\)\
+\-\ complete\\:\\ 0\\.0402773562587418\ \(0\)\
+\-\ sign\\:\\ 0\\.03964883707719737\ \(0\)\
+\-\ luck\\:\\ 0\\.03935499296413615\ \(0\)\
+\-\ \\'psuedomass\\:\\ 0\\.03935499296413615\ \(0\)\
+\-\ \\'pseudomass\\:\\ 0\\.03626058590806497\ \(0\)\
+\-\ triplanar\\:\\ 0\\.03626058590806497\ \(0\)\
+\-\ near\\-complete\\:\\ 0\\.03626058590806497\ \(0\)\
+\-\ near\\:\\ 0\\.03301361260312271\ \(0\)\
+\-\ good\\:\\ 0\\.03264699218528544\ \(0\)\
+\-\ t2\\:\\ 0\\.03239181386719221\ \(0\)\
+\-\ coronal\\:\\ 0\\.03176806296373854\ \(0\)\
+\-\ sagittal\\:\\ 0\\.03043166654023553\ \(0\)\
+\-\ bit\\:\\ 0\\.030071771795922596\ \(0\)\
+\-\ sit\\:\\ 0\\.029545954672456597\ \(0\)\
+\-\ fs\\:\\ 0\\.027265483137786997\ \(0\)\
+\-\ discontinuity\\:\\ 0\\.027265483137786997\ \(0\)\
+\-\ pd\\:\\ 0\\.02670671910674233\ \(0\)\
+\-\ correlated\\:\\ 0\\.026451547616385417\ \(0\)\
+\-\ \\!\\:\\ 0\\.025555696297357954\ \(0\)\
+\-\ drawer\\:\\ 0\\.02535725092873816\ \(0\)\
+\-\ arthroscopic\\:\\ 0\\.025167252650082822\ \(0\)\
+\-\ lateral\\:\\ 0\\.024732161325328798\ \(0\)\
+\-\ hypointensity\\:\\ 0\\.024171076081715814\ \(0\)\
+\-\ plateau\\:\\ 0\\.023612312050671144\ \(0\)\
+\-\ confirmation\\:\\ 0\\.02288678111541322\ \(0\)\
+\-\ curvilinear\\:\\ 0\\.021980795204713712\ \(0\)\
+\-\ meniscal\\:\\ 0\\.021980795204713712\ \(0\)\
+\-\ axial\\:\\ 0\\.02177492389346314\ \(0\)\
+\-\ toward\\:\\ 0\\.02171551207761192\ \(0\)\
+\-\ sequence\\:\\ 0\\.021630475492921325\ \(0\)\
+\-\ fibers\\:\\ 0\\.021465112672919763\ \(0\)\
+\-\ edge\\:\\ 0\\.021384672916211378\ \(0\)\
+\-\ centrally\\:\\ 0\\.020788550627709044\ \(0\)\
+\-\ excluded\\:\\ 0\\.02065117715151818\ \(0\)\
+\-\ inner\\:\\ 0\\.02051790499459996\ \(0\)\
+\-\ requires\\:\\ 0\\.020262733504243048\ \(0\)\
+\-\ we\\:\\ 0\\.020080492457277624\ \(0\)\
+\-\ anterior\\:\\ 0\\.019649935926453012\ \(0\)\
+\-\ instability\\:\\ 0\\.019628025965044194\ \(0\)\
+\-\ both\\:\\ 0\\.01948392848826894\ \(0\)\
+\-\ 42\\:\\ 0\\.01931643774211767\ \(0\)\
+\-\ scheduled\\:\\ 0\\.019217227310043074\ \(0\)\
+\-\ highly\\:\\ 0\\.018370705616848577\ \(0\)\
+\-\ imaging\\:\\ 0\\.017875659146925023\ \(0\)\
+\-\ be\\:\\ 0\\.017648527544784763\ \(0\)\
+\-\ tibial\\:\\ 0\\.01762492845317373\ \(0\)\
+\-\ is\\:\\ 0\\.017571586824522676\ \(0\)\
+\-\ must\\:\\ 0\\.01739079240240345\ \(0\)\
+\-\ there\\:\\ 0\\.01703190477408467\ \(0\)\
+\-\ on\\:\\ 0\\.01615828152601402\ \(0\)\
+\-\ absence\\:\\ 0\\.015860840335096483\ \(0\)\
+\-\ free\\:\\ 0\\.015701790434903846\ \(0\)\
+\-\ repair\\:\\ 0\\.015276298560777396\ \(0\)\
+\-\ partial\\:\\ 0\\.01525605233236047\ \(0\)\
+\-\ second\\:\\ 0\\.014652361318031151\ \(0\)\
+\-\ within\\:\\ 0\\.014554744717732871\ \(0\)\
+\-\ appears\\:\\ 0\\.014199682235702001\ \(0\)\
+\-\ knee\\:\\ 0\\.013832547868572662\ \(0\)\
+\-\ location\\:\\ 0\\.013306730745106665\ \(0\)\
+\-\ positive\\:\\ 0\\.012378953528054092\ \(0\)\
+\-\ injury\\:\\ 0\\.012161645276289285\ \(0\)\
+\-\ 2\\.\\:\\ 0\\.012131447061608295\ \(0\)\
+\-\ while\\:\\ 0\\.012002898392197828\ \(0\)\
+\-\ aspect\\:\\ 0\\.011983446136086416\ \(0\)\
+\-\ normal\\:\\ 0\\.011960825487491973\ \(0\)\
+\-\ will\\:\\ 0\\.011935183117764026\ \(0\)\
+\-\ image\\:\\ 0\\.011916023063828574\ \(0\)\
+\-\ 1\\.\\:\\ 0\\.011916023063828574\ \(0\)\
+\-\ see\\:\\ 0\\.011384898264414233\ \(0\)\
+\-\ his\\:\\ 0\\.010995040301995232\ \(0\)\
+\-\ following\\:\\ 0\\.010827132843308697\ \(0\)\
+\-\ edema\\:\\ 0\\.010789837006389691\ \(0\)\
+\-\ a\\:\\ 0\\.010623208977283962\ \(0\)\
+\-\ y\\/o\\:\\ 0\\.01056530816883768\ \(0\)\
+\-\ the\\:\\ 0\\.010492133214114458\ \(0\)\
+\-\ consistent\\:\\ 0\\.009354010128710727\ \(0\)\
+\-\ case\\:\\ 0\\.008346001932443172\ \(0\)\
+\-\ \\-\\:\\ 0\\.008177359190662337\ \(0\)\
+\-\ seen\\:\\ 0\\.007538516138695045\ \(0\)\
+\-\ also\\:\\ 0\\.007520623186027461\ \(0\)\
+\-\ which\\:\\ 0\\.007121181193047092\ \(0\)\
+\-\ to\\:\\ 0\\.005719662166647137\ \(0\)\
+\-\ from\\:\\ 0\\.00565373086229559\ \(0\)\
+\-\ an\\:\\ 0\\.005275289572699686\ \(0\)\
+\-\ \\,\\:\\ 0\\.004834108312808703\ \(0\)\
+\-\ this\\:\\ 0\\.004290791130866665\ \(0\)\
+\-\ left\\:\\ 0\\.004268327094968369\ \(0\)\
+\-\ and\\:\\ 0\\.00401805816366559\ \(0\)\
+\-\ patient\\:\\ 0\\.003824071120162446\ \(0\)\
+\-\ in\\:\\ 0\\.0037624752691094187\ \(0\)\
+\-\ of\\:\\ 0\\.0036407437749371384\ \(0\)\
+\-\ for\\:\\ 0\\.003254947092154978\ \(0\)\
+\-\ \\.\\:\\ 0\\.0017432807904946832\ \(0\)\
+\-\ with\\:\\ 0\\.0015670202154895946\ \(0\)\

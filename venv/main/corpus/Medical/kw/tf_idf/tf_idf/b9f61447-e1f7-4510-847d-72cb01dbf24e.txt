@@ -1,94 +1,92 @@
-Texto: 
-patient presents with back pain and radicular pain along the left 9th rib.
-the patient has not had therapy due to the location of the osteochondroma. there is no definite compression of a spinal nerve and therefore conservative management was recommended.
-the chest ct shows an exostosis off the vertebral body of t9 which extends into the neural canal. mr confirms a small osteochondroma extending into the spinal canal on the left vertebral body of t9. there is no evidence of significant compression of the spinal cord.
-spinal osteochondroma
-differential diagnoses for a spinal osteochondroma include osteoblastomas, parosteal osteosarcoma, enchondroma, and chondrosarcomas.
-14 year-old girl with a known condition, presents with radicular pain along the left 9th rib.
-this 14 year-old girl was known to have multiple hereditary exostosis and history of multiple exostoses on the long bones of her appendicular skeleton.
-
-
-Keywords by value: 
-- osteochondroma: 0.1310412595015001
-- spinal: 0.09870245839934148
-- 9th: 0.08691712106176339
-- t9: 0.07969627218517729
-- exostosis: 0.07386420607236364
-- radicular: 0.07075243759730702
-- osteoblastomas: 0.05687431241268709
-- rib: 0.055125466344470894
-- 14: 0.048589192473767244
-- chondrosarcomas: 0.04531457390153834
-- canal: 0.043806237737989834
-- vertebral: 0.04363608284402914
-- compression: 0.04127415904903131
-- year-old: 0.040500188667073764
-- parosteal: 0.039848136092588644
-- girl: 0.03876616039986836
-- exostoses: 0.03859551664458247
-- appendicular: 0.03723223216931016
-- along: 0.03643940486269053
-- body: 0.03580985435727851
-- known: 0.03489098173501703
-- skeleton: 0.0337548353903896
-- enchondroma: 0.03276031487537503
-- diagnoses: 0.0326085052146641
-- hereditary: 0.03163545431315066
-- definite: 0.02984428181896821
-- confirms: 0.02928291809645447
-- osteosarcoma: 0.02868432626773856
-- neural: 0.02791536809183457
-- into: 0.02623646926399622
-- therefore: 0.026041257618419154
-- off: 0.025179764762777074
-- extends: 0.023893746036193257
-- bones: 0.02326472432983921
-- multiple: 0.023223303270700244
-- condition: 0.02305658973488294
-- recommended: 0.022854960421953237
-- presents: 0.022524442522682913
-- conservative: 0.02201832930383367
-- cord: 0.020949509162615492
-- management: 0.02080342866745575
-- pain: 0.02019886775865938
-- nerve: 0.01986416855798262
-- location: 0.019230372173573505
-- long: 0.01900788071504983
-- extending: 0.0185336712828374
-- left: 0.018505263276249965
-- back: 0.018187524744177272
-- mr: 0.01751741594804151
-- differential: 0.017502966640986644
-- her: 0.01657684940958023
-- there: 0.016409232986645015
-- include: 0.015465506374388947
-- shows: 0.015157249675670186
-- significant: 0.014824820329382087
-- therapy: 0.014739618040262019
-- due: 0.014711465502921546
-- evidence: 0.014454468279786309
-- chest: 0.013191800000371089
-- was: 0.0127519680285637
-- small: 0.012700485705684637
-- have: 0.011938310183000593
-- had: 0.011895805285423925
-- no: 0.011102505170371639
-- patient: 0.011052799108598554
-- the: 0.010703170428667804
-- has: 0.010352903035446955
-- which: 0.010291255401564831
-- a: 0.010234833595318743
-- on: 0.009340529191811974
-- not: 0.007966572075754422
-- ct: 0.0077116364734970515
-- an: 0.0076236442857079345
-- history: 0.007614287340045699
-- is: 0.007255364882383556
-- ,: 0.0069860662068977385
-- this: 0.006200885247187955
-- of: 0.006013099396025209
-- to: 0.005510556237974016
-- for: 0.00470392353963042
-- and: 0.004645393696315315
-- with: 0.002264596956578511
-- .: 0.002061263386297526
+\-\ Texto\\:\\ \ \(0\)\
+\-\ patient\\ presents\\ with\\ back\\ pain\\ and\\ radicular\\ pain\\ along\\ the\\ left\\ 9th\\ rib\\.\ \(0\)\
+\-\ the\\ patient\\ has\\ not\\ had\\ therapy\\ due\\ to\\ the\\ location\\ of\\ the\\ osteochondroma\\.\\ there\\ is\\ no\\ definite\\ compression\\ of\\ a\\ spinal\\ nerve\\ and\\ therefore\\ conservative\\ management\\ was\\ recommended\\.\ \(0\)\
+\-\ the\\ chest\\ ct\\ shows\\ an\\ exostosis\\ off\\ the\\ vertebral\\ body\\ of\\ t9\\ which\\ extends\\ into\\ the\\ neural\\ canal\\.\\ mr\\ confirms\\ a\\ small\\ osteochondroma\\ extending\\ into\\ the\\ spinal\\ canal\\ on\\ the\\ left\\ vertebral\\ body\\ of\\ t9\\.\\ there\\ is\\ no\\ evidence\\ of\\ significant\\ compression\\ of\\ the\\ spinal\\ cord\\.\ \(0\)\
+\-\ spinal\\ osteochondroma\ \(1\)\
+\-\ differential\\ diagnoses\\ for\\ a\\ spinal\\ osteochondroma\\ include\\ osteoblastomas\\,\\ parosteal\\ osteosarcoma\\,\\ enchondroma\\,\\ and\\ chondrosarcomas\\.\ \(0\)\
+\-\ 14\\ year\\-old\\ girl\\ with\\ a\\ known\\ condition\\,\\ presents\\ with\\ radicular\\ pain\\ along\\ the\\ left\\ 9th\\ rib\\.\ \(1\)\
+\-\ this\\ 14\\ year\\-old\\ girl\\ was\\ known\\ to\\ have\\ multiple\\ hereditary\\ exostosis\\ and\\ history\\ of\\ multiple\\ exostoses\\ on\\ the\\ long\\ bones\\ of\\ her\\ appendicular\\ skeleton\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ osteochondroma\\:\\ 0\\.1310412595015001\ \(0\)\
+\-\ spinal\\:\\ 0\\.09870245839934148\ \(0\)\
+\-\ 9th\\:\\ 0\\.08691712106176339\ \(0\)\
+\-\ t9\\:\\ 0\\.07969627218517729\ \(0\)\
+\-\ exostosis\\:\\ 0\\.07386420607236364\ \(0\)\
+\-\ radicular\\:\\ 0\\.07075243759730702\ \(0\)\
+\-\ osteoblastomas\\:\\ 0\\.05687431241268709\ \(0\)\
+\-\ rib\\:\\ 0\\.055125466344470894\ \(0\)\
+\-\ 14\\:\\ 0\\.048589192473767244\ \(0\)\
+\-\ chondrosarcomas\\:\\ 0\\.04531457390153834\ \(0\)\
+\-\ canal\\:\\ 0\\.043806237737989834\ \(0\)\
+\-\ vertebral\\:\\ 0\\.04363608284402914\ \(0\)\
+\-\ compression\\:\\ 0\\.04127415904903131\ \(0\)\
+\-\ year\\-old\\:\\ 0\\.040500188667073764\ \(0\)\
+\-\ parosteal\\:\\ 0\\.039848136092588644\ \(0\)\
+\-\ girl\\:\\ 0\\.03876616039986836\ \(0\)\
+\-\ exostoses\\:\\ 0\\.03859551664458247\ \(0\)\
+\-\ appendicular\\:\\ 0\\.03723223216931016\ \(0\)\
+\-\ along\\:\\ 0\\.03643940486269053\ \(0\)\
+\-\ body\\:\\ 0\\.03580985435727851\ \(0\)\
+\-\ known\\:\\ 0\\.03489098173501703\ \(0\)\
+\-\ skeleton\\:\\ 0\\.0337548353903896\ \(0\)\
+\-\ enchondroma\\:\\ 0\\.03276031487537503\ \(0\)\
+\-\ diagnoses\\:\\ 0\\.0326085052146641\ \(0\)\
+\-\ hereditary\\:\\ 0\\.03163545431315066\ \(0\)\
+\-\ definite\\:\\ 0\\.02984428181896821\ \(0\)\
+\-\ confirms\\:\\ 0\\.02928291809645447\ \(0\)\
+\-\ osteosarcoma\\:\\ 0\\.02868432626773856\ \(0\)\
+\-\ neural\\:\\ 0\\.02791536809183457\ \(0\)\
+\-\ into\\:\\ 0\\.02623646926399622\ \(0\)\
+\-\ therefore\\:\\ 0\\.026041257618419154\ \(0\)\
+\-\ off\\:\\ 0\\.025179764762777074\ \(0\)\
+\-\ extends\\:\\ 0\\.023893746036193257\ \(0\)\
+\-\ bones\\:\\ 0\\.02326472432983921\ \(0\)\
+\-\ multiple\\:\\ 0\\.023223303270700244\ \(0\)\
+\-\ condition\\:\\ 0\\.02305658973488294\ \(0\)\
+\-\ recommended\\:\\ 0\\.022854960421953237\ \(0\)\
+\-\ presents\\:\\ 0\\.022524442522682913\ \(0\)\
+\-\ conservative\\:\\ 0\\.02201832930383367\ \(0\)\
+\-\ cord\\:\\ 0\\.020949509162615492\ \(0\)\
+\-\ management\\:\\ 0\\.02080342866745575\ \(0\)\
+\-\ pain\\:\\ 0\\.02019886775865938\ \(0\)\
+\-\ nerve\\:\\ 0\\.01986416855798262\ \(0\)\
+\-\ location\\:\\ 0\\.019230372173573505\ \(0\)\
+\-\ long\\:\\ 0\\.01900788071504983\ \(0\)\
+\-\ extending\\:\\ 0\\.0185336712828374\ \(0\)\
+\-\ left\\:\\ 0\\.018505263276249965\ \(0\)\
+\-\ back\\:\\ 0\\.018187524744177272\ \(0\)\
+\-\ mr\\:\\ 0\\.01751741594804151\ \(0\)\
+\-\ differential\\:\\ 0\\.017502966640986644\ \(0\)\
+\-\ her\\:\\ 0\\.01657684940958023\ \(0\)\
+\-\ there\\:\\ 0\\.016409232986645015\ \(0\)\
+\-\ include\\:\\ 0\\.015465506374388947\ \(0\)\
+\-\ shows\\:\\ 0\\.015157249675670186\ \(0\)\
+\-\ significant\\:\\ 0\\.014824820329382087\ \(0\)\
+\-\ therapy\\:\\ 0\\.014739618040262019\ \(0\)\
+\-\ due\\:\\ 0\\.014711465502921546\ \(0\)\
+\-\ evidence\\:\\ 0\\.014454468279786309\ \(0\)\
+\-\ chest\\:\\ 0\\.013191800000371089\ \(0\)\
+\-\ was\\:\\ 0\\.0127519680285637\ \(0\)\
+\-\ small\\:\\ 0\\.012700485705684637\ \(0\)\
+\-\ have\\:\\ 0\\.011938310183000593\ \(0\)\
+\-\ had\\:\\ 0\\.011895805285423925\ \(0\)\
+\-\ no\\:\\ 0\\.011102505170371639\ \(0\)\
+\-\ patient\\:\\ 0\\.011052799108598554\ \(0\)\
+\-\ the\\:\\ 0\\.010703170428667804\ \(0\)\
+\-\ has\\:\\ 0\\.010352903035446955\ \(0\)\
+\-\ which\\:\\ 0\\.010291255401564831\ \(0\)\
+\-\ a\\:\\ 0\\.010234833595318743\ \(0\)\
+\-\ on\\:\\ 0\\.009340529191811974\ \(0\)\
+\-\ not\\:\\ 0\\.007966572075754422\ \(0\)\
+\-\ ct\\:\\ 0\\.0077116364734970515\ \(0\)\
+\-\ an\\:\\ 0\\.0076236442857079345\ \(0\)\
+\-\ history\\:\\ 0\\.007614287340045699\ \(0\)\
+\-\ is\\:\\ 0\\.007255364882383556\ \(0\)\
+\-\ \\,\\:\\ 0\\.0069860662068977385\ \(0\)\
+\-\ this\\:\\ 0\\.006200885247187955\ \(0\)\
+\-\ of\\:\\ 0\\.006013099396025209\ \(0\)\
+\-\ to\\:\\ 0\\.005510556237974016\ \(0\)\
+\-\ for\\:\\ 0\\.00470392353963042\ \(0\)\
+\-\ and\\:\\ 0\\.004645393696315315\ \(0\)\
+\-\ with\\:\\ 0\\.002264596956578511\ \(0\)\
+\-\ \\.\\:\\ 0\\.002061263386297526\ \(0\)\

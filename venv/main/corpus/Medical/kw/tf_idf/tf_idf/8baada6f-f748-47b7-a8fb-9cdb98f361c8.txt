@@ -1,121 +1,114 @@
-Texto: 
-obese male.
-none
-a diverticulum within the second part of the duodenum was incidently discovered during the barium upper gi series.
-duodenal diverticulum
-false (secondary) diverticula secondary to chronic duodenal ulceration.
-
-ulceration secondary to primary adenocarcinoma or metastasis
-
-ulceration secondary to stronglyloidiasis
-48 yo obese male present to flouroscopy for preoperative screening for pending gastric reduction procedure.  he report longstanding gastro esophageal reflux without excessive abdominal pain.  he has no history of gastric surgery.
-95% of duodenal diverticulum are located in the second part of the duodenum.
-
-the majority are asymptomatic. they can complicate endoscopic examinations and their location should be described to warn an endoscopist. 
-
-they are distinguished from ulcers by gastric folds entering the diverticulum.
-
-complications include obstruction or delayed emptying, perforation, hemorrhage, extrinsic pressure in common bile duct or pancreatic duct.
-
-
-Keywords by value: 
-- diverticulum: 0.1078301005457814
-- ulceration: 0.10450669594325333
-- duodenal: 0.0928288151836086
-- gastric: 0.07586038709011357
-- obese: 0.06548764785508089
-- secondary: 0.06328556202672338
-- duodenum: 0.06126971764159036
-- stronglyloidiasis: 0.058380916715009924
-- warn: 0.058380916715009924
-- part: 0.05487006078814029
-- gastro: 0.05379053803580498
-- endoscopist: 0.05379053803580498
-- duct: 0.051889783099544194
-- incidently: 0.05110533864436019
-- flouroscopy: 0.04549409453583566
-- complicate: 0.04549409453583566
-- second: 0.04347190642700633
-- they: 0.040780743397182864
-- emptying: 0.03961791443649194
-- distinguished: 0.038218516465185925
-- entering: 0.038218516465185925
-- longstanding: 0.037616054357863235
-- false: 0.035856430743737365
-- examinations: 0.034835565314417775
-- extrinsic: 0.034835565314417775
-- preoperative: 0.03464900321530059
-- diverticula: 0.0344675530551144
-- excessive: 0.034290942147285515
-- folds: 0.034290942147285515
-- endoscopic: 0.03332005821223998
-- ulcers: 0.03332005821223998
-- 95: 0.03184228634923197
-- he: 0.031578640291828074
-- bile: 0.03024518663521284
-- perforation: 0.029117071630264238
-- series: 0.02815344524833551
-- discovered: 0.02788310091376428
-- majority: 0.0278172046829486
-- 48: 0.027687347256535513
-- pancreatic: 0.027687347256535513
-- barium: 0.027435030394070144
-- reduction: 0.0266756733853275
-- reflux: 0.02614558922854911
-- esophageal: 0.025944891549772097
-- gi: 0.025422415109575654
-- report: 0.025331694286011668
-- their: 0.02477049409756736
-- pending: 0.02448691795728307
-- adenocarcinoma: 0.02444738042757112
-- screening: 0.02413930085383011
-- described: 0.024101779413196484
-- procedure: 0.023702493120109597
-- located: 0.02329272223455935
-- are: 0.023143189520455666
-- delayed: 0.023032982412352184
-- complications: 0.022424985397430843
-- pressure: 0.022224721257101586
-- metastasis: 0.021183757127814083
-- male: 0.02046629851506587
-- obstruction: 0.019956291712512817
-- or: 0.01989780295954386
-- location: 0.019739786005986047
-- asymptomatic: 0.01912975098010654
-- hemorrhage: 0.018836136319046595
-- should: 0.018041116171449007
-- during: 0.01731794205247555
-- yo: 0.01702881803511763
-- primary: 0.016764134191362228
-- chronic: 0.015940328694748346
-- include: 0.01587518866245223
-- common: 0.014809716635472828
-- abdominal: 0.014145160517365002
-- to: 0.014141328094138619
-- none: 0.014037877529192097
-- surgery: 0.013741715658015066
-- upper: 0.013656162287210056
-- without: 0.01332459050568318
-- %: 0.013200801545337799
-- can: 0.012835909619000462
-- present: 0.012781514926699872
-- within: 0.010795572240967428
-- has: 0.010627152122478662
-- for: 0.00965706157142669
-- by: 0.009422986114204468
-- be: 0.008726865717509464
-- from: 0.008386991477842465
-- an: 0.007825595127713443
-- history: 0.007815990315940949
-- pain: 0.00691131236775321
-- was: 0.0065448842530707735
-- the: 0.006408907237916428
-- no: 0.005698305633800013
-- in: 0.005581420266758344
-- ,: 0.005378345672528888
-- (: 0.004783852491681196
-- ): 0.004725415179558312
-- of: 0.00308619339862221
-- a: 0.0026264887537655714
-- .: 0.002586058920998735
-- and: 0.0011921126207431686
+\-\ Texto\\:\\ \ \(0\)\
+\-\ obese\\ male\\.\ \(0\)\
+\-\ none\ \(204\)\
+\-\ a\\ diverticulum\\ within\\ the\\ second\\ part\\ of\\ the\\ duodenum\\ was\\ incidently\\ discovered\\ during\\ the\\ barium\\ upper\\ gi\\ series\\.\ \(0\)\
+\-\ duodenal\\ diverticulum\ \(9\)\
+\-\ false\\ \\(secondary\\)\\ diverticula\\ secondary\\ to\\ chronic\\ duodenal\\ ulceration\\.\ \(1\)\
+\-\ ulceration\\ secondary\\ to\\ primary\\ adenocarcinoma\\ or\\ metastasis\ \(0\)\
+\-\ ulceration\\ secondary\\ to\\ stronglyloidiasis\ \(0\)\
+\-\ 48\\ yo\\ obese\\ male\\ present\\ to\\ flouroscopy\\ for\\ preoperative\\ screening\\ for\\ pending\\ gastric\\ reduction\\ procedure\\.\\ \\ he\\ report\\ longstanding\\ gastro\\ esophageal\\ reflux\\ without\\ excessive\\ abdominal\\ pain\\.\\ \\ he\\ has\\ no\\ history\\ of\\ gastric\\ surgery\\.\ \(0\)\
+\-\ 95\\%\\ of\\ duodenal\\ diverticulum\\ are\\ located\\ in\\ the\\ second\\ part\\ of\\ the\\ duodenum\\.\ \(1\)\
+\-\ the\\ majority\\ are\\ asymptomatic\\.\\ they\\ can\\ complicate\\ endoscopic\\ examinations\\ and\\ their\\ location\\ should\\ be\\ described\\ to\\ warn\\ an\\ endoscopist\\.\\ \ \(0\)\
+\-\ they\\ are\\ distinguished\\ from\\ ulcers\\ by\\ gastric\\ folds\\ entering\\ the\\ diverticulum\\.\ \(0\)\
+\-\ complications\\ include\\ obstruction\\ or\\ delayed\\ emptying\\,\\ perforation\\,\\ hemorrhage\\,\\ extrinsic\\ pressure\\ in\\ common\\ bile\\ duct\\ or\\ pancreatic\\ duct\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ diverticulum\\:\\ 0\\.1078301005457814\ \(0\)\
+\-\ ulceration\\:\\ 0\\.10450669594325333\ \(0\)\
+\-\ duodenal\\:\\ 0\\.0928288151836086\ \(0\)\
+\-\ gastric\\:\\ 0\\.07586038709011357\ \(0\)\
+\-\ obese\\:\\ 0\\.06548764785508089\ \(0\)\
+\-\ secondary\\:\\ 0\\.06328556202672338\ \(0\)\
+\-\ duodenum\\:\\ 0\\.06126971764159036\ \(0\)\
+\-\ stronglyloidiasis\\:\\ 0\\.058380916715009924\ \(0\)\
+\-\ warn\\:\\ 0\\.058380916715009924\ \(0\)\
+\-\ part\\:\\ 0\\.05487006078814029\ \(0\)\
+\-\ gastro\\:\\ 0\\.05379053803580498\ \(0\)\
+\-\ endoscopist\\:\\ 0\\.05379053803580498\ \(0\)\
+\-\ duct\\:\\ 0\\.051889783099544194\ \(0\)\
+\-\ incidently\\:\\ 0\\.05110533864436019\ \(0\)\
+\-\ flouroscopy\\:\\ 0\\.04549409453583566\ \(0\)\
+\-\ complicate\\:\\ 0\\.04549409453583566\ \(0\)\
+\-\ second\\:\\ 0\\.04347190642700633\ \(0\)\
+\-\ they\\:\\ 0\\.040780743397182864\ \(0\)\
+\-\ emptying\\:\\ 0\\.03961791443649194\ \(0\)\
+\-\ distinguished\\:\\ 0\\.038218516465185925\ \(0\)\
+\-\ entering\\:\\ 0\\.038218516465185925\ \(0\)\
+\-\ longstanding\\:\\ 0\\.037616054357863235\ \(0\)\
+\-\ false\\:\\ 0\\.035856430743737365\ \(0\)\
+\-\ examinations\\:\\ 0\\.034835565314417775\ \(0\)\
+\-\ extrinsic\\:\\ 0\\.034835565314417775\ \(0\)\
+\-\ preoperative\\:\\ 0\\.03464900321530059\ \(0\)\
+\-\ diverticula\\:\\ 0\\.0344675530551144\ \(0\)\
+\-\ excessive\\:\\ 0\\.034290942147285515\ \(0\)\
+\-\ folds\\:\\ 0\\.034290942147285515\ \(0\)\
+\-\ endoscopic\\:\\ 0\\.03332005821223998\ \(0\)\
+\-\ ulcers\\:\\ 0\\.03332005821223998\ \(0\)\
+\-\ 95\\:\\ 0\\.03184228634923197\ \(0\)\
+\-\ he\\:\\ 0\\.031578640291828074\ \(0\)\
+\-\ bile\\:\\ 0\\.03024518663521284\ \(0\)\
+\-\ perforation\\:\\ 0\\.029117071630264238\ \(0\)\
+\-\ series\\:\\ 0\\.02815344524833551\ \(0\)\
+\-\ discovered\\:\\ 0\\.02788310091376428\ \(0\)\
+\-\ majority\\:\\ 0\\.0278172046829486\ \(0\)\
+\-\ 48\\:\\ 0\\.027687347256535513\ \(0\)\
+\-\ pancreatic\\:\\ 0\\.027687347256535513\ \(0\)\
+\-\ barium\\:\\ 0\\.027435030394070144\ \(0\)\
+\-\ reduction\\:\\ 0\\.0266756733853275\ \(0\)\
+\-\ reflux\\:\\ 0\\.02614558922854911\ \(0\)\
+\-\ esophageal\\:\\ 0\\.025944891549772097\ \(0\)\
+\-\ gi\\:\\ 0\\.025422415109575654\ \(0\)\
+\-\ report\\:\\ 0\\.025331694286011668\ \(0\)\
+\-\ their\\:\\ 0\\.02477049409756736\ \(0\)\
+\-\ pending\\:\\ 0\\.02448691795728307\ \(0\)\
+\-\ adenocarcinoma\\:\\ 0\\.02444738042757112\ \(0\)\
+\-\ screening\\:\\ 0\\.02413930085383011\ \(0\)\
+\-\ described\\:\\ 0\\.024101779413196484\ \(0\)\
+\-\ procedure\\:\\ 0\\.023702493120109597\ \(0\)\
+\-\ located\\:\\ 0\\.02329272223455935\ \(0\)\
+\-\ are\\:\\ 0\\.023143189520455666\ \(0\)\
+\-\ delayed\\:\\ 0\\.023032982412352184\ \(0\)\
+\-\ complications\\:\\ 0\\.022424985397430843\ \(0\)\
+\-\ pressure\\:\\ 0\\.022224721257101586\ \(0\)\
+\-\ metastasis\\:\\ 0\\.021183757127814083\ \(0\)\
+\-\ male\\:\\ 0\\.02046629851506587\ \(0\)\
+\-\ obstruction\\:\\ 0\\.019956291712512817\ \(0\)\
+\-\ or\\:\\ 0\\.01989780295954386\ \(0\)\
+\-\ location\\:\\ 0\\.019739786005986047\ \(0\)\
+\-\ asymptomatic\\:\\ 0\\.01912975098010654\ \(0\)\
+\-\ hemorrhage\\:\\ 0\\.018836136319046595\ \(0\)\
+\-\ should\\:\\ 0\\.018041116171449007\ \(0\)\
+\-\ during\\:\\ 0\\.01731794205247555\ \(0\)\
+\-\ yo\\:\\ 0\\.01702881803511763\ \(0\)\
+\-\ primary\\:\\ 0\\.016764134191362228\ \(0\)\
+\-\ chronic\\:\\ 0\\.015940328694748346\ \(0\)\
+\-\ include\\:\\ 0\\.01587518866245223\ \(0\)\
+\-\ common\\:\\ 0\\.014809716635472828\ \(0\)\
+\-\ abdominal\\:\\ 0\\.014145160517365002\ \(0\)\
+\-\ to\\:\\ 0\\.014141328094138619\ \(0\)\
+\-\ none\\:\\ 0\\.014037877529192097\ \(0\)\
+\-\ surgery\\:\\ 0\\.013741715658015066\ \(0\)\
+\-\ upper\\:\\ 0\\.013656162287210056\ \(0\)\
+\-\ without\\:\\ 0\\.01332459050568318\ \(0\)\
+\-\ \\%\\:\\ 0\\.013200801545337799\ \(0\)\
+\-\ can\\:\\ 0\\.012835909619000462\ \(0\)\
+\-\ present\\:\\ 0\\.012781514926699872\ \(0\)\
+\-\ within\\:\\ 0\\.010795572240967428\ \(0\)\
+\-\ has\\:\\ 0\\.010627152122478662\ \(0\)\
+\-\ for\\:\\ 0\\.00965706157142669\ \(0\)\
+\-\ by\\:\\ 0\\.009422986114204468\ \(0\)\
+\-\ be\\:\\ 0\\.008726865717509464\ \(0\)\
+\-\ from\\:\\ 0\\.008386991477842465\ \(0\)\
+\-\ an\\:\\ 0\\.007825595127713443\ \(0\)\
+\-\ history\\:\\ 0\\.007815990315940949\ \(0\)\
+\-\ pain\\:\\ 0\\.00691131236775321\ \(0\)\
+\-\ was\\:\\ 0\\.0065448842530707735\ \(0\)\
+\-\ the\\:\\ 0\\.006408907237916428\ \(0\)\
+\-\ no\\:\\ 0\\.005698305633800013\ \(0\)\
+\-\ in\\:\\ 0\\.005581420266758344\ \(0\)\
+\-\ \\,\\:\\ 0\\.005378345672528888\ \(0\)\
+\-\ \\(\\:\\ 0\\.004783852491681196\ \(0\)\
+\-\ \\)\\:\\ 0\\.004725415179558312\ \(0\)\
+\-\ of\\:\\ 0\\.00308619339862221\ \(0\)\
+\-\ a\\:\\ 0\\.0026264887537655714\ \(0\)\
+\-\ \\.\\:\\ 0\\.002586058920998735\ \(0\)\
+\-\ and\\:\\ 0\\.0011921126207431686\ \(0\)\

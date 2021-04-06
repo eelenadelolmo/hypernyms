@@ -1,101 +1,98 @@
-Texto: 
-patient afebrile, but slightly tachycardic with heart rate in the 110-120 range.  o2 saturation adequate at present.
-
-chest pain not reproducible with palapation.  physical exam non-contributory.
-patient given initial dosing with heparin and subsequently started on coumadin.  treatment is essentially long-term and requires frequent follow-up for labwork and dose adjustment.
-multiple filling defects seen on ct angiography of the pulmonary vasculature consistent with the presence of pulmonary emboli.  large filling defect seen within the deep venous system of the left lower extremity consistent with a thrombus.
-pulmonary embolism
-pulmonary embolism
-deep venous thrombosis
-with intermittent chest pain post-operative day 4 from laparascopic cholecystectomy.  patient underwent stress test earlier in the day which was negative for cardiac etiology of pain.
-
-
-Keywords by value: 
-- pulmonary: 0.0768169326221558
-- 110-120: 0.06781168018435768
-- embolism: 0.06431983747287481
-- palapation: 0.06247977879543502
-- labwork: 0.05936081642537222
-- adjustment: 0.05714787740651237
-- laparascopic: 0.05714787740651237
-- deep: 0.0532143407583767
-- filling: 0.052926769481266664
-- dosing: 0.051815976017589714
-- reproducible: 0.049366331932062524
-- venous: 0.047719778745494296
-- tachycardic: 0.042459088907401306
-- day: 0.04173784352850661
-- coumadin: 0.0416486234023411
-- heparin: 0.04046284894213142
-- saturation: 0.03870252915421721
-- post-operative: 0.0380332108696816
-- o2: 0.03771919552721809
-- essentially: 0.03684743640947191
-- long-term: 0.03631672201341845
-- vasculature: 0.03570100887746816
-- emboli: 0.035583566784154405
-- adequate: 0.035241630148994146
-- cholecystectomy: 0.035130947553208766
-- requires: 0.03491424849961879
-- dose: 0.03439779232394473
-- thrombus: 0.03319775964335564
-- angiography: 0.03302869113013429
-- frequent: 0.032863258782280726
-- earlier: 0.03246460441409161
-- consistent: 0.032235357982018514
-- chest: 0.03145736923165413
-- afebrile: 0.030369107488545505
-- defects: 0.03019360996726727
-- subsequently: 0.029799046164286108
-- started: 0.029319785523238766
-- stress: 0.02882010939804821
-- thrombosis: 0.028215568824254196
-- intermittent: 0.028215568824254196
-- test: 0.02808255730802296
-- etiology: 0.02782324148231287
-- slightly: 0.0265709712173621
-- range: 0.026463384740633332
-- seen: 0.025978886385656774
-- system: 0.025880615156929215
-- rate: 0.02562093454212187
-- cardiac: 0.02503720609962285
-- defect: 0.02460574866384559
-- non-contributory: 0.024277201601591362
-- pain: 0.024083265404555416
-- extremity: 0.024039684381864906
-- presence: 0.023859889372747148
-- heart: 0.022839074222375185
-- underwent: 0.022555354119063228
-- given: 0.022533956865510327
-- initial: 0.021781401102148525
-- follow-up: 0.021384899934167246
-- patient: 0.019767506098070493
-- negative: 0.019631693549037495
-- 4: 0.018315168501377273
-- physical: 0.016126963612163373
-- present: 0.014846221184089852
-- lower: 0.01478355437972202
-- exam: 0.01444026107653491
-- large: 0.014373403321777537
-- but: 0.014019256161796443
-- multiple: 0.013844661565225146
-- treatment: 0.013304745843083747
-- within: 0.012539472372200629
-- which: 0.012270342978788836
-- for: 0.011217048440657157
-- on: 0.01113678480562197
-- from: 0.009741813178109326
-- not: 0.009498605167245657
-- ct: 0.0091946434876311
-- at: 0.008905870406397178
-- was: 0.00760213478625913
-- left: 0.00735465591748396
-- in: 0.0064830343098500765
-- the: 0.006380736217090422
-- with: 0.005400192742610296
-- is: 0.004325313679882505
-- and: 0.00415405397843581
-- of: 0.003584732332245798
-- a: 0.003050767706296933
-- .: 0.0027307335459497138
-- ,: 0.0020823851193637493
+\-\ Texto\\:\\ \ \(0\)\
+\-\ patient\\ afebrile\\,\\ but\\ slightly\\ tachycardic\\ with\\ heart\\ rate\\ in\\ the\\ 110\\-120\\ range\\.\\ \\ o2\\ saturation\\ adequate\\ at\\ present\\.\ \(0\)\
+\-\ chest\\ pain\\ not\\ reproducible\\ with\\ palapation\\.\\ \\ physical\\ exam\\ non\\-contributory\\.\ \(0\)\
+\-\ patient\\ given\\ initial\\ dosing\\ with\\ heparin\\ and\\ subsequently\\ started\\ on\\ coumadin\\.\\ \\ treatment\\ is\\ essentially\\ long\\-term\\ and\\ requires\\ frequent\\ follow\\-up\\ for\\ labwork\\ and\\ dose\\ adjustment\\.\ \(0\)\
+\-\ multiple\\ filling\\ defects\\ seen\\ on\\ ct\\ angiography\\ of\\ the\\ pulmonary\\ vasculature\\ consistent\\ with\\ the\\ presence\\ of\\ pulmonary\\ emboli\\.\\ \\ large\\ filling\\ defect\\ seen\\ within\\ the\\ deep\\ venous\\ system\\ of\\ the\\ left\\ lower\\ extremity\\ consistent\\ with\\ a\\ thrombus\\.\ \(0\)\
+\-\ pulmonary\\ embolism\ \(77\)\
+\-\ pulmonary\\ embolism\ \(77\)\
+\-\ deep\\ venous\\ thrombosis\ \(23\)\
+\-\ with\\ intermittent\\ chest\\ pain\\ post\\-operative\\ day\\ 4\\ from\\ laparascopic\\ cholecystectomy\\.\\ \\ patient\\ underwent\\ stress\\ test\\ earlier\\ in\\ the\\ day\\ which\\ was\\ negative\\ for\\ cardiac\\ etiology\\ of\\ pain\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ pulmonary\\:\\ 0\\.0768169326221558\ \(0\)\
+\-\ 110\\-120\\:\\ 0\\.06781168018435768\ \(0\)\
+\-\ embolism\\:\\ 0\\.06431983747287481\ \(0\)\
+\-\ palapation\\:\\ 0\\.06247977879543502\ \(0\)\
+\-\ labwork\\:\\ 0\\.05936081642537222\ \(0\)\
+\-\ adjustment\\:\\ 0\\.05714787740651237\ \(0\)\
+\-\ laparascopic\\:\\ 0\\.05714787740651237\ \(0\)\
+\-\ deep\\:\\ 0\\.0532143407583767\ \(0\)\
+\-\ filling\\:\\ 0\\.052926769481266664\ \(0\)\
+\-\ dosing\\:\\ 0\\.051815976017589714\ \(0\)\
+\-\ reproducible\\:\\ 0\\.049366331932062524\ \(0\)\
+\-\ venous\\:\\ 0\\.047719778745494296\ \(0\)\
+\-\ tachycardic\\:\\ 0\\.042459088907401306\ \(0\)\
+\-\ day\\:\\ 0\\.04173784352850661\ \(0\)\
+\-\ coumadin\\:\\ 0\\.0416486234023411\ \(0\)\
+\-\ heparin\\:\\ 0\\.04046284894213142\ \(0\)\
+\-\ saturation\\:\\ 0\\.03870252915421721\ \(0\)\
+\-\ post\\-operative\\:\\ 0\\.0380332108696816\ \(0\)\
+\-\ o2\\:\\ 0\\.03771919552721809\ \(0\)\
+\-\ essentially\\:\\ 0\\.03684743640947191\ \(0\)\
+\-\ long\\-term\\:\\ 0\\.03631672201341845\ \(0\)\
+\-\ vasculature\\:\\ 0\\.03570100887746816\ \(0\)\
+\-\ emboli\\:\\ 0\\.035583566784154405\ \(0\)\
+\-\ adequate\\:\\ 0\\.035241630148994146\ \(0\)\
+\-\ cholecystectomy\\:\\ 0\\.035130947553208766\ \(0\)\
+\-\ requires\\:\\ 0\\.03491424849961879\ \(0\)\
+\-\ dose\\:\\ 0\\.03439779232394473\ \(0\)\
+\-\ thrombus\\:\\ 0\\.03319775964335564\ \(0\)\
+\-\ angiography\\:\\ 0\\.03302869113013429\ \(0\)\
+\-\ frequent\\:\\ 0\\.032863258782280726\ \(0\)\
+\-\ earlier\\:\\ 0\\.03246460441409161\ \(0\)\
+\-\ consistent\\:\\ 0\\.032235357982018514\ \(0\)\
+\-\ chest\\:\\ 0\\.03145736923165413\ \(0\)\
+\-\ afebrile\\:\\ 0\\.030369107488545505\ \(0\)\
+\-\ defects\\:\\ 0\\.03019360996726727\ \(0\)\
+\-\ subsequently\\:\\ 0\\.029799046164286108\ \(0\)\
+\-\ started\\:\\ 0\\.029319785523238766\ \(0\)\
+\-\ stress\\:\\ 0\\.02882010939804821\ \(0\)\
+\-\ thrombosis\\:\\ 0\\.028215568824254196\ \(0\)\
+\-\ intermittent\\:\\ 0\\.028215568824254196\ \(0\)\
+\-\ test\\:\\ 0\\.02808255730802296\ \(0\)\
+\-\ etiology\\:\\ 0\\.02782324148231287\ \(0\)\
+\-\ slightly\\:\\ 0\\.0265709712173621\ \(0\)\
+\-\ range\\:\\ 0\\.026463384740633332\ \(0\)\
+\-\ seen\\:\\ 0\\.025978886385656774\ \(0\)\
+\-\ system\\:\\ 0\\.025880615156929215\ \(0\)\
+\-\ rate\\:\\ 0\\.02562093454212187\ \(0\)\
+\-\ cardiac\\:\\ 0\\.02503720609962285\ \(0\)\
+\-\ defect\\:\\ 0\\.02460574866384559\ \(0\)\
+\-\ non\\-contributory\\:\\ 0\\.024277201601591362\ \(0\)\
+\-\ pain\\:\\ 0\\.024083265404555416\ \(0\)\
+\-\ extremity\\:\\ 0\\.024039684381864906\ \(0\)\
+\-\ presence\\:\\ 0\\.023859889372747148\ \(0\)\
+\-\ heart\\:\\ 0\\.022839074222375185\ \(0\)\
+\-\ underwent\\:\\ 0\\.022555354119063228\ \(0\)\
+\-\ given\\:\\ 0\\.022533956865510327\ \(0\)\
+\-\ initial\\:\\ 0\\.021781401102148525\ \(0\)\
+\-\ follow\\-up\\:\\ 0\\.021384899934167246\ \(0\)\
+\-\ patient\\:\\ 0\\.019767506098070493\ \(0\)\
+\-\ negative\\:\\ 0\\.019631693549037495\ \(0\)\
+\-\ 4\\:\\ 0\\.018315168501377273\ \(0\)\
+\-\ physical\\:\\ 0\\.016126963612163373\ \(0\)\
+\-\ present\\:\\ 0\\.014846221184089852\ \(0\)\
+\-\ lower\\:\\ 0\\.01478355437972202\ \(0\)\
+\-\ exam\\:\\ 0\\.01444026107653491\ \(0\)\
+\-\ large\\:\\ 0\\.014373403321777537\ \(0\)\
+\-\ but\\:\\ 0\\.014019256161796443\ \(0\)\
+\-\ multiple\\:\\ 0\\.013844661565225146\ \(0\)\
+\-\ treatment\\:\\ 0\\.013304745843083747\ \(0\)\
+\-\ within\\:\\ 0\\.012539472372200629\ \(0\)\
+\-\ which\\:\\ 0\\.012270342978788836\ \(0\)\
+\-\ for\\:\\ 0\\.011217048440657157\ \(0\)\
+\-\ on\\:\\ 0\\.01113678480562197\ \(0\)\
+\-\ from\\:\\ 0\\.009741813178109326\ \(0\)\
+\-\ not\\:\\ 0\\.009498605167245657\ \(0\)\
+\-\ ct\\:\\ 0\\.0091946434876311\ \(0\)\
+\-\ at\\:\\ 0\\.008905870406397178\ \(0\)\
+\-\ was\\:\\ 0\\.00760213478625913\ \(0\)\
+\-\ left\\:\\ 0\\.00735465591748396\ \(0\)\
+\-\ in\\:\\ 0\\.0064830343098500765\ \(0\)\
+\-\ the\\:\\ 0\\.006380736217090422\ \(0\)\
+\-\ with\\:\\ 0\\.005400192742610296\ \(0\)\
+\-\ is\\:\\ 0\\.004325313679882505\ \(0\)\
+\-\ and\\:\\ 0\\.00415405397843581\ \(0\)\
+\-\ of\\:\\ 0\\.003584732332245798\ \(0\)\
+\-\ a\\:\\ 0\\.003050767706296933\ \(0\)\
+\-\ \\.\\:\\ 0\\.0027307335459497138\ \(0\)\
+\-\ \\,\\:\\ 0\\.0020823851193637493\ \(0\)\

@@ -1,59 +1,56 @@
-Texto: 
-large mass right nasopharynx and oropharynx
-chemotherapy
-radiation therapy
-bulky infiltrative mass in the right nasopharynx and oropharynx infiltrating the skull base.
-
-metastatic lymphadenopathy noded in neck
-nonkeratinizing undifferentiated carcinoma oropharyngeal cancer
-rhabodmyosarcoma
-angiofibroma (if male)
-lymphoma
-10 year old girl from africa, presents with right ear pain, sore throat and problem swallowing
-
-
-Keywords by value: 
-- nasopharynx: 0.3628266116692163
-- oropharynx: 0.3315558359156207
-- noded: 0.24266309797524752
-- nonkeratinizing: 0.24266309797524752
-- rhabodmyosarcoma: 0.24266309797524752
-- africa: 0.218289355159641
-- undifferentiated: 0.19287232385252318
-- oropharyngeal: 0.19287232385252318
-- bulky: 0.18906577748218062
-- angiofibroma: 0.18906577748218062
-- sore: 0.17343038960538282
-- infiltrative: 0.1554895840315954
-- swallowing: 0.15309152457704928
-- throat: 0.15218972815714776
-- right: 0.15092289936945869
-- problem: 0.14965443479506357
-- infiltrating: 0.1488603326386379
-- ear: 0.13807477962369394
-- skull: 0.12311434276683608
-- lymphadenopathy: 0.12267221990067179
-- mass: 0.11592020954145071
-- base: 0.11542474557695752
-- chemotherapy: 0.10774446373684214
-- girl: 0.10644265306095631
-- cancer: 0.10106865450526206
-- radiation: 0.10055462021506906
-- and: 0.09406478854622617
-- neck: 0.09282272047998229
-- carcinoma: 0.09076318821177957
-- lymphoma: 0.09036974797326304
-- 10: 0.08872904236688973
-- if: 0.08816391298663104
-- therapy: 0.08718368244818574
-- metastatic: 0.08322104624018628
-- large: 0.07602858434944273
-- in: 0.07549529164956788
-- presents: 0.07299411196393159
-- male: 0.0675598738114546
-- the: 0.06055470852276773
-- from: 0.06026414954688187
-- pain: 0.05429766487817134
-- year: 0.04676285732590409
-- old: 0.044908530397646244
-- with: 0.029712320156223403
+\-\ Texto\\:\\ \ \(0\)\
+\-\ large\\ mass\\ right\\ nasopharynx\\ and\\ oropharynx\ \(0\)\
+\-\ chemotherapy\ \(327\)\
+\-\ radiation\\ therapy\ \(165\)\
+\-\ bulky\\ infiltrative\\ mass\\ in\\ the\\ right\\ nasopharynx\\ and\\ oropharynx\\ infiltrating\\ the\\ skull\\ base\\.\ \(0\)\
+\-\ metastatic\\ lymphadenopathy\\ noded\\ in\\ neck\ \(0\)\
+\-\ nonkeratinizing\\ undifferentiated\\ carcinoma\\ oropharyngeal\\ cancer\ \(0\)\
+\-\ rhabodmyosarcoma\ \(0\)\
+\-\ angiofibroma\\ \\(if\\ male\\)\ \(0\)\
+\-\ lymphoma\ \(373\)\
+\-\ 10\\ year\\ old\\ girl\\ from\\ africa\\,\\ presents\\ with\\ right\\ ear\\ pain\\,\\ sore\\ throat\\ and\\ problem\\ swallowing\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ nasopharynx\\:\\ 0\\.3628266116692163\ \(0\)\
+\-\ oropharynx\\:\\ 0\\.3315558359156207\ \(0\)\
+\-\ noded\\:\\ 0\\.24266309797524752\ \(0\)\
+\-\ nonkeratinizing\\:\\ 0\\.24266309797524752\ \(0\)\
+\-\ rhabodmyosarcoma\\:\\ 0\\.24266309797524752\ \(0\)\
+\-\ africa\\:\\ 0\\.218289355159641\ \(0\)\
+\-\ undifferentiated\\:\\ 0\\.19287232385252318\ \(0\)\
+\-\ oropharyngeal\\:\\ 0\\.19287232385252318\ \(0\)\
+\-\ bulky\\:\\ 0\\.18906577748218062\ \(0\)\
+\-\ angiofibroma\\:\\ 0\\.18906577748218062\ \(0\)\
+\-\ sore\\:\\ 0\\.17343038960538282\ \(0\)\
+\-\ infiltrative\\:\\ 0\\.1554895840315954\ \(0\)\
+\-\ swallowing\\:\\ 0\\.15309152457704928\ \(0\)\
+\-\ throat\\:\\ 0\\.15218972815714776\ \(0\)\
+\-\ right\\:\\ 0\\.15092289936945869\ \(0\)\
+\-\ problem\\:\\ 0\\.14965443479506357\ \(0\)\
+\-\ infiltrating\\:\\ 0\\.1488603326386379\ \(0\)\
+\-\ ear\\:\\ 0\\.13807477962369394\ \(0\)\
+\-\ skull\\:\\ 0\\.12311434276683608\ \(0\)\
+\-\ lymphadenopathy\\:\\ 0\\.12267221990067179\ \(0\)\
+\-\ mass\\:\\ 0\\.11592020954145071\ \(0\)\
+\-\ base\\:\\ 0\\.11542474557695752\ \(0\)\
+\-\ chemotherapy\\:\\ 0\\.10774446373684214\ \(0\)\
+\-\ girl\\:\\ 0\\.10644265306095631\ \(0\)\
+\-\ cancer\\:\\ 0\\.10106865450526206\ \(0\)\
+\-\ radiation\\:\\ 0\\.10055462021506906\ \(0\)\
+\-\ and\\:\\ 0\\.09406478854622617\ \(0\)\
+\-\ neck\\:\\ 0\\.09282272047998229\ \(0\)\
+\-\ carcinoma\\:\\ 0\\.09076318821177957\ \(0\)\
+\-\ lymphoma\\:\\ 0\\.09036974797326304\ \(0\)\
+\-\ 10\\:\\ 0\\.08872904236688973\ \(0\)\
+\-\ if\\:\\ 0\\.08816391298663104\ \(0\)\
+\-\ therapy\\:\\ 0\\.08718368244818574\ \(0\)\
+\-\ metastatic\\:\\ 0\\.08322104624018628\ \(0\)\
+\-\ large\\:\\ 0\\.07602858434944273\ \(0\)\
+\-\ in\\:\\ 0\\.07549529164956788\ \(0\)\
+\-\ presents\\:\\ 0\\.07299411196393159\ \(0\)\
+\-\ male\\:\\ 0\\.0675598738114546\ \(0\)\
+\-\ the\\:\\ 0\\.06055470852276773\ \(0\)\
+\-\ from\\:\\ 0\\.06026414954688187\ \(0\)\
+\-\ pain\\:\\ 0\\.05429766487817134\ \(0\)\
+\-\ year\\:\\ 0\\.04676285732590409\ \(0\)\
+\-\ old\\:\\ 0\\.044908530397646244\ \(0\)\
+\-\ with\\:\\ 0\\.029712320156223403\ \(0\)\

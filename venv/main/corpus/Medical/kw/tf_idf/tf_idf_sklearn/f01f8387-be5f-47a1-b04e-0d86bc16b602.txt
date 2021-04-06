@@ -1,61 +1,59 @@
-Texto: 
-<li>jaw tenderness to palpation
-<li>ecchymosis in the inferior chin region
-<li>malocclusion
-lost to followup
-<li>right sided condylar process fracture with dislocation and medial angulation of the condylar process
-<li>fracture of the symphysis
-<li>impacted third molars
-mandible fracture
-none
-patient presented to the emergency department after a motor vehicle accident. patient was the driver and reported hitting his chin on the steering wheel.
-
-
-Keywords by value: 
-- li: 0.62323601723835
-- condylar: 0.29260698966973897
-- chin: 0.2848996859709371
-- fracture: 0.18677596922918444
-- malocclusion: 0.16740109091510522
-- process: 0.1643209950136434
-- molars: 0.15759126738699328
-- hitting: 0.14244984298546856
-- steering: 0.13649367130675755
-- wheel: 0.13409005588991402
-- symphysis: 0.13299239373901622
-- the: 0.13115014136223843
-- impacted: 0.13096906519528673
-- ecchymosis: 0.12255287905907797
-- jaw: 0.12077895479406076
-- driver: 0.11864299332018348
-- mandible: 0.11582764079376201
-- lost: 0.11456099324476036
-- angulation: 0.11376071663644084
-- followup: 0.09672107071046397
-- vehicle: 0.09517153219240014
-- dislocation: 0.09502323910385314
-- accident: 0.09360008001583667
-- department: 0.09266312055620511
-- motor: 0.08713851444473429
-- third: 0.0834099696146107
-- to: 0.08215870610316202
-- emergency: 0.08127400814073343
-- reported: 0.0789001430931858
-- inferior: 0.07452581247933045
-- palpation: 0.07387646537948334
-- medial: 0.07130600891123189
-- patient: 0.07125950026028142
-- sided: 0.07046544324595524
-- tenderness: 0.0686987771326615
-- his: 0.06643688825974986
-- region: 0.06552534754577483
-- presented: 0.06388090696945706
-- none: 0.05986608812445263
-- after: 0.053142464420298394
-- and: 0.04527259771828473
-- of: 0.0428752572333113
-- was: 0.038177796619056036
-- right: 0.03631896597669434
-- on: 0.03308471258629821
-- in: 0.027251440373959594
-- with: 0.021450437594645797
+\-\ Texto\\:\\ \ \(0\)\
+\-\ \\<li\\>jaw\\ tenderness\\ to\\ palpation\ \(0\)\
+\-\ \\<li\\>ecchymosis\\ in\\ the\\ inferior\\ chin\\ region\ \(1\)\
+\-\ \\<li\\>malocclusion\ \(0\)\
+\-\ lost\\ to\\ followup\ \(0\)\
+\-\ \\<li\\>right\\ sided\\ condylar\\ process\\ fracture\\ with\\ dislocation\\ and\\ medial\\ angulation\\ of\\ the\\ condylar\\ process\ \(0\)\
+\-\ \\<li\\>fracture\\ of\\ the\\ symphysis\ \(0\)\
+\-\ \\<li\\>impacted\\ third\\ molars\ \(0\)\
+\-\ mandible\\ fracture\ \(1\)\
+\-\ none\ \(204\)\
+\-\ patient\\ presented\\ to\\ the\\ emergency\\ department\\ after\\ a\\ motor\\ vehicle\\ accident\\.\\ patient\\ was\\ the\\ driver\\ and\\ reported\\ hitting\\ his\\ chin\\ on\\ the\\ steering\\ wheel\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ li\\:\\ 0\\.62323601723835\ \(0\)\
+\-\ condylar\\:\\ 0\\.29260698966973897\ \(0\)\
+\-\ chin\\:\\ 0\\.2848996859709371\ \(0\)\
+\-\ fracture\\:\\ 0\\.18677596922918444\ \(0\)\
+\-\ malocclusion\\:\\ 0\\.16740109091510522\ \(0\)\
+\-\ process\\:\\ 0\\.1643209950136434\ \(0\)\
+\-\ molars\\:\\ 0\\.15759126738699328\ \(0\)\
+\-\ hitting\\:\\ 0\\.14244984298546856\ \(0\)\
+\-\ steering\\:\\ 0\\.13649367130675755\ \(0\)\
+\-\ wheel\\:\\ 0\\.13409005588991402\ \(0\)\
+\-\ symphysis\\:\\ 0\\.13299239373901622\ \(0\)\
+\-\ the\\:\\ 0\\.13115014136223843\ \(0\)\
+\-\ impacted\\:\\ 0\\.13096906519528673\ \(0\)\
+\-\ ecchymosis\\:\\ 0\\.12255287905907797\ \(0\)\
+\-\ jaw\\:\\ 0\\.12077895479406076\ \(0\)\
+\-\ driver\\:\\ 0\\.11864299332018348\ \(0\)\
+\-\ mandible\\:\\ 0\\.11582764079376201\ \(0\)\
+\-\ lost\\:\\ 0\\.11456099324476036\ \(0\)\
+\-\ angulation\\:\\ 0\\.11376071663644084\ \(0\)\
+\-\ followup\\:\\ 0\\.09672107071046397\ \(0\)\
+\-\ vehicle\\:\\ 0\\.09517153219240014\ \(0\)\
+\-\ dislocation\\:\\ 0\\.09502323910385314\ \(0\)\
+\-\ accident\\:\\ 0\\.09360008001583667\ \(0\)\
+\-\ department\\:\\ 0\\.09266312055620511\ \(0\)\
+\-\ motor\\:\\ 0\\.08713851444473429\ \(0\)\
+\-\ third\\:\\ 0\\.0834099696146107\ \(0\)\
+\-\ to\\:\\ 0\\.08215870610316202\ \(0\)\
+\-\ emergency\\:\\ 0\\.08127400814073343\ \(0\)\
+\-\ reported\\:\\ 0\\.0789001430931858\ \(0\)\
+\-\ inferior\\:\\ 0\\.07452581247933045\ \(0\)\
+\-\ palpation\\:\\ 0\\.07387646537948334\ \(0\)\
+\-\ medial\\:\\ 0\\.07130600891123189\ \(0\)\
+\-\ patient\\:\\ 0\\.07125950026028142\ \(0\)\
+\-\ sided\\:\\ 0\\.07046544324595524\ \(0\)\
+\-\ tenderness\\:\\ 0\\.0686987771326615\ \(0\)\
+\-\ his\\:\\ 0\\.06643688825974986\ \(0\)\
+\-\ region\\:\\ 0\\.06552534754577483\ \(0\)\
+\-\ presented\\:\\ 0\\.06388090696945706\ \(0\)\
+\-\ none\\:\\ 0\\.05986608812445263\ \(0\)\
+\-\ after\\:\\ 0\\.053142464420298394\ \(0\)\
+\-\ and\\:\\ 0\\.04527259771828473\ \(0\)\
+\-\ of\\:\\ 0\\.0428752572333113\ \(0\)\
+\-\ was\\:\\ 0\\.038177796619056036\ \(0\)\
+\-\ right\\:\\ 0\\.03631896597669434\ \(0\)\
+\-\ on\\:\\ 0\\.03308471258629821\ \(0\)\
+\-\ in\\:\\ 0\\.027251440373959594\ \(0\)\
+\-\ with\\:\\ 0\\.021450437594645797\ \(0\)\

@@ -1,132 +1,127 @@
-Texto: 
-tachypnea.  no abnormal laboratory findings.
-surgical resection
-imaging findings:  abnormal cxr on day 1 of life demonstrates consolidative changes of the right upper lobe.  second set of images obtained on day 6 of life suggests small cystic changes within a persistent area of consolidation in the mid and upper right chest and ct is recommended.  ct shows a mixed solid and cystic mass in the right upper chest involving the right upper lobe consistent with cystic adenomatoid malformation.
-congenital pulmonary airway malformation type 1 (cpam 1)
-â€¢ ccam (cpam)
-â€¢ pneumonia with cavitary lesion
-â€¢ pulmonary sequestration
-
-â€¢ congenital diaphragmatic hernia
-â€¢ congenital lobar emphysema
-â€¢ pulmonary interstitial emphysema
-â€¢ bronchogenic cyst
-one day old baby boy
-congenital cystic adenomatoid malformation (ccam) is now considered to be part of a spectrum of congenital pulmonary airway malformations or cpams.
-
-â€¢ subtypes and correlations between cpam and ccam:
-Â» cpam type o - ccam type o (acinar dysplasia)
-Â» cpam type 1 - ccam type 1 (bronchial/bronchiolar)
-Â» cpam type 2 - ccam type 2 (bronchiolar)
-Â» cpam type 3 - ccam type 3 (bronchiolar/alveolar duct)
-Â» cpam type 4 - ccam type 4 (peripheral)
-Â» cpam type 5 - ccam type 5
-
-http://www.humpath.com/congenital-pulmonary-airway
-
-
-Keywords by value: 
-- cpam: 0.3206199175028902
-- ccam: 0.23853669875237038
-- type: 0.16424611828293786
-- Â»: 0.11079863784153701
-- congenital: 0.0685341879307552
-- â€¢: 0.05498295970511887
-- adenomatoid: 0.04874931478899136
-- -: 0.04820338049232535
-- o: 0.04565439045019538
-- malformation: 0.044846666480347096
-- 1: 0.044590490525432167
-- pulmonary: 0.043799128249474795
-- cystic: 0.04323917030266242
-- airway: 0.041711187837018236
-- emphysema: 0.04098582190855233
-- cpams: 0.03866455449108113
-- bronchial/bronchiolar: 0.03866455449108113
-- bronchiolar/alveolar: 0.03866455449108113
-- //www.humpath.com/congenital-pulmonary-airway: 0.03866455449108113
-- upper: 0.03617685097138102
-- day: 0.035696839859906966
-- bronchiolar: 0.035624435278098915
-- correlations: 0.033846079540782406
-- acinar: 0.033846079540782406
-- life: 0.03270107095380802
-- consolidative: 0.030129860854873618
-- (: 0.025346025482240717
-- subtypes: 0.02531138590457489
-- set: 0.0251073507482815
-- ): 0.02503641024958965
-- cavitary: 0.023328995010964988
-- tachypnea: 0.022271266691592673
-- sequestration: 0.02216806275558305
-- 5: 0.021931231775825993
-- spectrum: 0.021685602688853542
-- lobar: 0.0215951672186661
-- changes: 0.021482876984518073
-- diaphragmatic: 0.021419705224746368
-- abnormal: 0.021378002108025537
-- malformations: 0.02093187349180679
-- 4: 0.020885718466482853
-- lobe: 0.020169520595820473
-- bronchogenic: 0.019787076012115472
-- consolidation: 0.018784732152689658
-- suggests: 0.018737822989896905
-- interstitial: 0.01833679577077571
-- baby: 0.018252447692144628
-- part: 0.018169691182037682
-- chest: 0.017936219298750163
-- 3: 0.017552416900934557
-- duct: 0.0171828009825245
-- mixed: 0.016460190311138295
-- hernia: 0.016405020213739786
-- 2: 0.016141267513250405
-- findings: 0.01595470996306982
-- right: 0.01581810015983187
-- cxr: 0.01581593101370648
-- mid: 0.015674436003977436
-- recommended: 0.01553736344474891
-- pneumonia: 0.015492608312405743
-- considered: 0.015129571969055467
-- persistent: 0.014948888826782365
-- solid: 0.014948888826782365
-- :: 0.01487203705250875
-- dysplasia: 0.014794301374757476
-- second: 0.014395302347539376
-- http: 0.014192055254299455
-- laboratory: 0.01381180585900906
-- peripheral: 0.013561111061465425
-- obtained: 0.013323974126069482
-- involving: 0.013150909052646024
-- now: 0.012811910481147576
-- boy: 0.012740007806692856
-- between: 0.011879366386948437
-- area: 0.011850158965501172
-- resection: 0.011688226559299204
-- 6: 0.011193509479714361
-- ct: 0.010485119766596867
-- shows: 0.010304270612845959
-- one: 0.010156716593467736
-- cyst: 0.01007180322818466
-- consistent: 0.009189904687856154
-- imaging: 0.008781025545857905
-- small: 0.00863410212447859
-- demonstrates: 0.008186935094970114
-- surgical: 0.007878165658997602
-- lesion: 0.007634014149124801
-- images: 0.00718975391205857
-- within: 0.007149699159588077
-- on: 0.006349921161100246
-- be: 0.005779634751508461
-- a: 0.005218418444981596
-- mass: 0.005212548276085809
-- is: 0.004932375248988821
-- or: 0.004392643635805734
-- and: 0.003947565915180229
-- old: 0.0038374324423783093
-- no: 0.0037738778539640437
-- in: 0.0036964669310548676
-- of: 0.0035768710771312234
-- the: 0.0024254260474320315
-- to: 0.0018731057387850274
-- with: 0.0010263524218411379
-- .: 0.0009341983183512177
+\-\ Texto\\:\\ \ \(0\)\
+\-\ tachypnea\\.\\ \\ no\\ abnormal\\ laboratory\\ findings\\.\ \(0\)\
+\-\ surgical\\ resection\ \(126\)\
+\-\ imaging\\ findings\\:\\ \\ abnormal\\ cxr\\ on\\ day\\ 1\\ of\\ life\\ demonstrates\\ consolidative\\ changes\\ of\\ the\\ right\\ upper\\ lobe\\.\\ \\ second\\ set\\ of\\ images\\ obtained\\ on\\ day\\ 6\\ of\\ life\\ suggests\\ small\\ cystic\\ changes\\ within\\ a\\ persistent\\ area\\ of\\ consolidation\\ in\\ the\\ mid\\ and\\ upper\\ right\\ chest\\ and\\ ct\\ is\\ recommended\\.\\ \\ ct\\ shows\\ a\\ mixed\\ solid\\ and\\ cystic\\ mass\\ in\\ the\\ right\\ upper\\ chest\\ involving\\ the\\ right\\ upper\\ lobe\\ consistent\\ with\\ cystic\\ adenomatoid\\ malformation\\.\ \(0\)\
+\-\ congenital\\ pulmonary\\ airway\\ malformation\\ type\\ 1\\ \\(cpam\\ 1\\)\ \(0\)\
+\-\ \\â\\€\\¢\\ ccam\\ \\(cpam\\)\ \(0\)\
+\-\ \\â\\€\\¢\\ pneumonia\\ with\\ cavitary\\ lesion\ \(1\)\
+\-\ \\â\\€\\¢\\ pulmonary\\ sequestration\ \(1\)\
+\-\ \\â\\€\\¢\\ congenital\\ diaphragmatic\\ hernia\ \(1\)\
+\-\ \\â\\€\\¢\\ congenital\\ lobar\\ emphysema\ \(1\)\
+\-\ \\â\\€\\¢\\ pulmonary\\ interstitial\\ emphysema\ \(1\)\
+\-\ \\â\\€\\¢\\ bronchogenic\\ cyst\ \(1\)\
+\-\ one\\ day\\ old\\ baby\\ boy\ \(0\)\
+\-\ congenital\\ cystic\\ adenomatoid\\ malformation\\ \\(ccam\\)\\ is\\ now\\ considered\\ to\\ be\\ part\\ of\\ a\\ spectrum\\ of\\ congenital\\ pulmonary\\ airway\\ malformations\\ or\\ cpams\\.\ \(0\)\
+\-\ \\â\\€\\¢\\ subtypes\\ and\\ correlations\\ between\\ cpam\\ and\\ ccam\\:\ \(0\)\
+\-\ \\Â\\»\\ cpam\\ type\\ o\\ \\-\\ ccam\\ type\\ o\\ \\(acinar\\ dysplasia\\)\ \(0\)\
+\-\ \\Â\\»\\ cpam\\ type\\ 1\\ \\-\\ ccam\\ type\\ 1\\ \\(bronchial\\/bronchiolar\\)\ \(0\)\
+\-\ \\Â\\»\\ cpam\\ type\\ 2\\ \\-\\ ccam\\ type\\ 2\\ \\(bronchiolar\\)\ \(0\)\
+\-\ \\Â\\»\\ cpam\\ type\\ 3\\ \\-\\ ccam\\ type\\ 3\\ \\(bronchiolar\\/alveolar\\ duct\\)\ \(0\)\
+\-\ \\Â\\»\\ cpam\\ type\\ 4\\ \\-\\ ccam\\ type\\ 4\\ \\(peripheral\\)\ \(0\)\
+\-\ \\Â\\»\\ cpam\\ type\\ 5\\ \\-\\ ccam\\ type\\ 5\ \(0\)\
+\-\ http\\:\\/\\/www\\.humpath\\.com\\/congenital\\-pulmonary\\-airway\ \(1\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ cpam\\:\\ 0\\.3206199175028902\ \(0\)\
+\-\ ccam\\:\\ 0\\.23853669875237038\ \(0\)\
+\-\ type\\:\\ 0\\.16424611828293786\ \(0\)\
+\-\ \\Â\\»\\:\\ 0\\.11079863784153701\ \(0\)\
+\-\ congenital\\:\\ 0\\.0685341879307552\ \(0\)\
+\-\ \\â\\€\\¢\\:\\ 0\\.05498295970511887\ \(0\)\
+\-\ adenomatoid\\:\\ 0\\.04874931478899136\ \(0\)\
+\-\ \\-\\:\\ 0\\.04820338049232535\ \(0\)\
+\-\ o\\:\\ 0\\.04565439045019538\ \(0\)\
+\-\ malformation\\:\\ 0\\.044846666480347096\ \(0\)\
+\-\ 1\\:\\ 0\\.044590490525432167\ \(0\)\
+\-\ pulmonary\\:\\ 0\\.043799128249474795\ \(0\)\
+\-\ cystic\\:\\ 0\\.04323917030266242\ \(0\)\
+\-\ airway\\:\\ 0\\.041711187837018236\ \(0\)\
+\-\ emphysema\\:\\ 0\\.04098582190855233\ \(0\)\
+\-\ cpams\\:\\ 0\\.03866455449108113\ \(0\)\
+\-\ bronchial\\/bronchiolar\\:\\ 0\\.03866455449108113\ \(0\)\
+\-\ bronchiolar\\/alveolar\\:\\ 0\\.03866455449108113\ \(0\)\
+\-\ \\/\\/www\\.humpath\\.com\\/congenital\\-pulmonary\\-airway\\:\\ 0\\.03866455449108113\ \(0\)\
+\-\ upper\\:\\ 0\\.03617685097138102\ \(0\)\
+\-\ day\\:\\ 0\\.035696839859906966\ \(0\)\
+\-\ bronchiolar\\:\\ 0\\.035624435278098915\ \(0\)\
+\-\ correlations\\:\\ 0\\.033846079540782406\ \(0\)\
+\-\ acinar\\:\\ 0\\.033846079540782406\ \(0\)\
+\-\ life\\:\\ 0\\.03270107095380802\ \(0\)\
+\-\ consolidative\\:\\ 0\\.030129860854873618\ \(0\)\
+\-\ \\(\\:\\ 0\\.025346025482240717\ \(0\)\
+\-\ subtypes\\:\\ 0\\.02531138590457489\ \(0\)\
+\-\ set\\:\\ 0\\.0251073507482815\ \(0\)\
+\-\ \\)\\:\\ 0\\.02503641024958965\ \(0\)\
+\-\ cavitary\\:\\ 0\\.023328995010964988\ \(0\)\
+\-\ tachypnea\\:\\ 0\\.022271266691592673\ \(0\)\
+\-\ sequestration\\:\\ 0\\.02216806275558305\ \(0\)\
+\-\ 5\\:\\ 0\\.021931231775825993\ \(0\)\
+\-\ spectrum\\:\\ 0\\.021685602688853542\ \(0\)\
+\-\ lobar\\:\\ 0\\.0215951672186661\ \(0\)\
+\-\ changes\\:\\ 0\\.021482876984518073\ \(0\)\
+\-\ diaphragmatic\\:\\ 0\\.021419705224746368\ \(0\)\
+\-\ abnormal\\:\\ 0\\.021378002108025537\ \(0\)\
+\-\ malformations\\:\\ 0\\.02093187349180679\ \(0\)\
+\-\ 4\\:\\ 0\\.020885718466482853\ \(0\)\
+\-\ lobe\\:\\ 0\\.020169520595820473\ \(0\)\
+\-\ bronchogenic\\:\\ 0\\.019787076012115472\ \(0\)\
+\-\ consolidation\\:\\ 0\\.018784732152689658\ \(0\)\
+\-\ suggests\\:\\ 0\\.018737822989896905\ \(0\)\
+\-\ interstitial\\:\\ 0\\.01833679577077571\ \(0\)\
+\-\ baby\\:\\ 0\\.018252447692144628\ \(0\)\
+\-\ part\\:\\ 0\\.018169691182037682\ \(0\)\
+\-\ chest\\:\\ 0\\.017936219298750163\ \(0\)\
+\-\ 3\\:\\ 0\\.017552416900934557\ \(0\)\
+\-\ duct\\:\\ 0\\.0171828009825245\ \(0\)\
+\-\ mixed\\:\\ 0\\.016460190311138295\ \(0\)\
+\-\ hernia\\:\\ 0\\.016405020213739786\ \(0\)\
+\-\ 2\\:\\ 0\\.016141267513250405\ \(0\)\
+\-\ findings\\:\\ 0\\.01595470996306982\ \(0\)\
+\-\ right\\:\\ 0\\.01581810015983187\ \(0\)\
+\-\ cxr\\:\\ 0\\.01581593101370648\ \(0\)\
+\-\ mid\\:\\ 0\\.015674436003977436\ \(0\)\
+\-\ recommended\\:\\ 0\\.01553736344474891\ \(0\)\
+\-\ pneumonia\\:\\ 0\\.015492608312405743\ \(0\)\
+\-\ considered\\:\\ 0\\.015129571969055467\ \(0\)\
+\-\ persistent\\:\\ 0\\.014948888826782365\ \(0\)\
+\-\ solid\\:\\ 0\\.014948888826782365\ \(0\)\
+\-\ \\:\\:\\ 0\\.01487203705250875\ \(0\)\
+\-\ dysplasia\\:\\ 0\\.014794301374757476\ \(0\)\
+\-\ second\\:\\ 0\\.014395302347539376\ \(0\)\
+\-\ http\\:\\ 0\\.014192055254299455\ \(0\)\
+\-\ laboratory\\:\\ 0\\.01381180585900906\ \(0\)\
+\-\ peripheral\\:\\ 0\\.013561111061465425\ \(0\)\
+\-\ obtained\\:\\ 0\\.013323974126069482\ \(0\)\
+\-\ involving\\:\\ 0\\.013150909052646024\ \(0\)\
+\-\ now\\:\\ 0\\.012811910481147576\ \(0\)\
+\-\ boy\\:\\ 0\\.012740007806692856\ \(0\)\
+\-\ between\\:\\ 0\\.011879366386948437\ \(0\)\
+\-\ area\\:\\ 0\\.011850158965501172\ \(0\)\
+\-\ resection\\:\\ 0\\.011688226559299204\ \(0\)\
+\-\ 6\\:\\ 0\\.011193509479714361\ \(0\)\
+\-\ ct\\:\\ 0\\.010485119766596867\ \(0\)\
+\-\ shows\\:\\ 0\\.010304270612845959\ \(0\)\
+\-\ one\\:\\ 0\\.010156716593467736\ \(0\)\
+\-\ cyst\\:\\ 0\\.01007180322818466\ \(0\)\
+\-\ consistent\\:\\ 0\\.009189904687856154\ \(0\)\
+\-\ imaging\\:\\ 0\\.008781025545857905\ \(0\)\
+\-\ small\\:\\ 0\\.00863410212447859\ \(0\)\
+\-\ demonstrates\\:\\ 0\\.008186935094970114\ \(0\)\
+\-\ surgical\\:\\ 0\\.007878165658997602\ \(0\)\
+\-\ lesion\\:\\ 0\\.007634014149124801\ \(0\)\
+\-\ images\\:\\ 0\\.00718975391205857\ \(0\)\
+\-\ within\\:\\ 0\\.007149699159588077\ \(0\)\
+\-\ on\\:\\ 0\\.006349921161100246\ \(0\)\
+\-\ be\\:\\ 0\\.005779634751508461\ \(0\)\
+\-\ a\\:\\ 0\\.005218418444981596\ \(0\)\
+\-\ mass\\:\\ 0\\.005212548276085809\ \(0\)\
+\-\ is\\:\\ 0\\.004932375248988821\ \(0\)\
+\-\ or\\:\\ 0\\.004392643635805734\ \(0\)\
+\-\ and\\:\\ 0\\.003947565915180229\ \(0\)\
+\-\ old\\:\\ 0\\.0038374324423783093\ \(0\)\
+\-\ no\\:\\ 0\\.0037738778539640437\ \(0\)\
+\-\ in\\:\\ 0\\.0036964669310548676\ \(0\)\
+\-\ of\\:\\ 0\\.0035768710771312234\ \(0\)\
+\-\ the\\:\\ 0\\.0024254260474320315\ \(0\)\
+\-\ to\\:\\ 0\\.0018731057387850274\ \(0\)\
+\-\ with\\:\\ 0\\.0010263524218411379\ \(0\)\
+\-\ \\.\\:\\ 0\\.0009341983183512177\ \(0\)\

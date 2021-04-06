@@ -1,123 +1,118 @@
-Texto: 
-patient demonstrated decreased pulses in the posterior tibial and dorsalis pedal arteries.
-patient was discharged after treatment.
-radiographic/angiographic findings:  diffuse atherosclerotic disease of the abdominal aorta and iliac arteries.  the right external iliac artery demonstrates 40-60% stenosis and the left internal iliac artery demonstrates a high grade origin stenosis.  the common femoral artery demonstrates diffuse atherosclerotic disease without focal stenosis.
-
-patientâ€™s femoral popliteal bypass graft is patent.  there is complete occlusion of the native sfa and profunda femoris arteries.  
-
-the proximal peroneal artery demonstrates severe stenosis.
-
-treatment:  following cryoplasty of the proximal peroneal artery with a 3 mm balloon followed by a 4 mm balloon demonstrated no residual stenosis.
-cryoplasty of femoropopliteal atherosclerotic disease
-n/a
-clinical history:  74 year old with left foot pain and ankle ulcer.  patient with past medical history of hypertension, copd, hyperlipidaemia, and peripheral vascular disease.  past surgical history is significant for a right below the knee amputation.
-cryoplasty serves as another treatment modality to promote a longer term of patency in peripheral vascular disease.
-
-
-Keywords by value: 
-- cryoplasty: 0.13846364016701307
-- stenosis: 0.08762979797987872
-- atherosclerotic: 0.08052312518093029
-- iliac: 0.06693677799527682
-- artery: 0.06661073277770155
-- peroneal: 0.06204342058712392
-- arteries: 0.05556131567648138
-- balloon: 0.05268407109998154
-- radiographic/angiographic: 0.04615454672233769
-- hyperlipidaemia: 0.04615454672233769
-- femoropopliteal: 0.042525503892180905
-- sfa: 0.040402649923028215
-- demonstrates: 0.039091543490119084
-- profunda: 0.037728170217447114
-- promote: 0.03677360709287143
-- disease: 0.036563809979468696
-- 40-60: 0.03596653547073919
-- native: 0.03596653547073919
-- serves: 0.03596653547073919
-- pedal: 0.03526741823186735
-- femoris: 0.03526741823186735
-- dorsalis: 0.034650753123718736
-- femoral: 0.034041864048626226
-- mm: 0.0329025670868587
-- peripheral: 0.032376265151980284
-- patency: 0.03102171029356196
-- vascular: 0.02933825411438426
-- amputation: 0.02930179371255653
-- past: 0.028431408083208737
-- bypass: 0.027691926174609093
-- treatment: 0.02716675852776262
-- popliteal: 0.027109593006492738
-- diffuse: 0.027089082935867172
-- proximal: 0.026864326510021103
-- copd: 0.026841041726976763
-- graft: 0.026462399519753592
-- demonstrated: 0.02625570662258605
-- 74: 0.0255690722054564
-- longer: 0.02526981349425248
-- ulcer: 0.024631646909911976
-- modality: 0.024546513292782235
-- pulses: 0.023146959525099788
-- occlusion: 0.02231225933175894
-- residual: 0.022203180342738826
-- patent: 0.02204370805224297
-- ankle: 0.02131197013404842
-- tibial: 0.020670073159743015
-- discharged: 0.020511406408458572
-- origin: 0.020511406408458572
-- term: 0.020472479819518684
-- below: 0.01942184790610428
-- another: 0.019234842238030566
-- aorta: 0.019204313859440027
-- external: 0.019024789914525726
-- history: 0.018537401115818062
-- foot: 0.018493794215856073
-- patient: 0.017939098029662575
-- :: 0.01775300758100521
-- hypertension: 0.017637597132461717
-- grade: 0.017041030329586232
-- knee: 0.01622246451602239
-- n/a: 0.016205270405021396
-- complete: 0.015745423738146882
-- internal: 0.01499935011193074
-- followed: 0.01499935011193074
-- severe: 0.01376601989563353
-- clinical: 0.01376601989563353
-- medical: 0.01376601989563353
-- â€™: 0.013371867746834848
-- decreased: 0.013302389543060521
-- s: 0.012831244330442864
-- focal: 0.012777453424808387
-- following: 0.012697789303147375
-- 4: 0.012465821493084008
-- high: 0.012243696654852438
-- significant: 0.012030613356304835
-- common: 0.011708205298201033
-- abdominal: 0.011182823236241441
-- without: 0.010534100347424923
-- 3: 0.010476311658149422
-- %: 0.010436235776680668
-- a: 0.01038219376488485
-- posterior: 0.010312243710484024
-- left: 0.010011573500239946
-- findings: 0.009522706470104501
-- right: 0.009441169728904887
-- surgical: 0.009404302462049496
-- after: 0.00925655079900106
-- is: 0.00883179233065014
-- by: 0.007449585880863219
-- as: 0.006767421496827895
-- there: 0.006658196630706747
-- the: 0.00651436420069441
-- and: 0.005654733164362883
-- pain: 0.005463917107490758
-- was: 0.005174227864993125
-- year: 0.005005786750119973
-- old: 0.004580809407655783
-- no: 0.004504943197402105
-- in: 0.004412536441259214
-- ,: 0.004251990557863152
-- for: 0.0038173201499618597
-- of: 0.0036598052606697934
-- .: 0.002416198791965977
-- to: 0.0022359586829475723
-- with: 0.0018377619281134514
+\-\ Texto\\:\\ \ \(0\)\
+\-\ patient\\ demonstrated\\ decreased\\ pulses\\ in\\ the\\ posterior\\ tibial\\ and\\ dorsalis\\ pedal\\ arteries\\.\ \(0\)\
+\-\ patient\\ was\\ discharged\\ after\\ treatment\\.\ \(0\)\
+\-\ radiographic\\/angiographic\\ findings\\:\\ \\ diffuse\\ atherosclerotic\\ disease\\ of\\ the\\ abdominal\\ aorta\\ and\\ iliac\\ arteries\\.\\ \\ the\\ right\\ external\\ iliac\\ artery\\ demonstrates\\ 40\\-60\\%\\ stenosis\\ and\\ the\\ left\\ internal\\ iliac\\ artery\\ demonstrates\\ a\\ high\\ grade\\ origin\\ stenosis\\.\\ \\ the\\ common\\ femoral\\ artery\\ demonstrates\\ diffuse\\ atherosclerotic\\ disease\\ without\\ focal\\ stenosis\\.\ \(0\)\
+\-\ patient\\â\\€\\™s\\ femoral\\ popliteal\\ bypass\\ graft\\ is\\ patent\\.\\ \\ there\\ is\\ complete\\ occlusion\\ of\\ the\\ native\\ sfa\\ and\\ profunda\\ femoris\\ arteries\\.\\ \\ \ \(0\)\
+\-\ the\\ proximal\\ peroneal\\ artery\\ demonstrates\\ severe\\ stenosis\\.\ \(0\)\
+\-\ treatment\\:\\ \\ following\\ cryoplasty\\ of\\ the\\ proximal\\ peroneal\\ artery\\ with\\ a\\ 3\\ mm\\ balloon\\ followed\\ by\\ a\\ 4\\ mm\\ balloon\\ demonstrated\\ no\\ residual\\ stenosis\\.\ \(0\)\
+\-\ cryoplasty\\ of\\ femoropopliteal\\ atherosclerotic\\ disease\ \(0\)\
+\-\ n\\/a\ \(127\)\
+\-\ clinical\\ history\\:\\ \\ 74\\ year\\ old\\ with\\ left\\ foot\\ pain\\ and\\ ankle\\ ulcer\\.\\ \\ patient\\ with\\ past\\ medical\\ history\\ of\\ hypertension\\,\\ copd\\,\\ hyperlipidaemia\\,\\ and\\ peripheral\\ vascular\\ disease\\.\\ \\ past\\ surgical\\ history\\ is\\ significant\\ for\\ a\\ right\\ below\\ the\\ knee\\ amputation\\.\ \(0\)\
+\-\ cryoplasty\\ serves\\ as\\ another\\ treatment\\ modality\\ to\\ promote\\ a\\ longer\\ term\\ of\\ patency\\ in\\ peripheral\\ vascular\\ disease\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ cryoplasty\\:\\ 0\\.13846364016701307\ \(0\)\
+\-\ stenosis\\:\\ 0\\.08762979797987872\ \(0\)\
+\-\ atherosclerotic\\:\\ 0\\.08052312518093029\ \(0\)\
+\-\ iliac\\:\\ 0\\.06693677799527682\ \(0\)\
+\-\ artery\\:\\ 0\\.06661073277770155\ \(0\)\
+\-\ peroneal\\:\\ 0\\.06204342058712392\ \(0\)\
+\-\ arteries\\:\\ 0\\.05556131567648138\ \(0\)\
+\-\ balloon\\:\\ 0\\.05268407109998154\ \(0\)\
+\-\ radiographic\\/angiographic\\:\\ 0\\.04615454672233769\ \(0\)\
+\-\ hyperlipidaemia\\:\\ 0\\.04615454672233769\ \(0\)\
+\-\ femoropopliteal\\:\\ 0\\.042525503892180905\ \(0\)\
+\-\ sfa\\:\\ 0\\.040402649923028215\ \(0\)\
+\-\ demonstrates\\:\\ 0\\.039091543490119084\ \(0\)\
+\-\ profunda\\:\\ 0\\.037728170217447114\ \(0\)\
+\-\ promote\\:\\ 0\\.03677360709287143\ \(0\)\
+\-\ disease\\:\\ 0\\.036563809979468696\ \(0\)\
+\-\ 40\\-60\\:\\ 0\\.03596653547073919\ \(0\)\
+\-\ native\\:\\ 0\\.03596653547073919\ \(0\)\
+\-\ serves\\:\\ 0\\.03596653547073919\ \(0\)\
+\-\ pedal\\:\\ 0\\.03526741823186735\ \(0\)\
+\-\ femoris\\:\\ 0\\.03526741823186735\ \(0\)\
+\-\ dorsalis\\:\\ 0\\.034650753123718736\ \(0\)\
+\-\ femoral\\:\\ 0\\.034041864048626226\ \(0\)\
+\-\ mm\\:\\ 0\\.0329025670868587\ \(0\)\
+\-\ peripheral\\:\\ 0\\.032376265151980284\ \(0\)\
+\-\ patency\\:\\ 0\\.03102171029356196\ \(0\)\
+\-\ vascular\\:\\ 0\\.02933825411438426\ \(0\)\
+\-\ amputation\\:\\ 0\\.02930179371255653\ \(0\)\
+\-\ past\\:\\ 0\\.028431408083208737\ \(0\)\
+\-\ bypass\\:\\ 0\\.027691926174609093\ \(0\)\
+\-\ treatment\\:\\ 0\\.02716675852776262\ \(0\)\
+\-\ popliteal\\:\\ 0\\.027109593006492738\ \(0\)\
+\-\ diffuse\\:\\ 0\\.027089082935867172\ \(0\)\
+\-\ proximal\\:\\ 0\\.026864326510021103\ \(0\)\
+\-\ copd\\:\\ 0\\.026841041726976763\ \(0\)\
+\-\ graft\\:\\ 0\\.026462399519753592\ \(0\)\
+\-\ demonstrated\\:\\ 0\\.02625570662258605\ \(0\)\
+\-\ 74\\:\\ 0\\.0255690722054564\ \(0\)\
+\-\ longer\\:\\ 0\\.02526981349425248\ \(0\)\
+\-\ ulcer\\:\\ 0\\.024631646909911976\ \(0\)\
+\-\ modality\\:\\ 0\\.024546513292782235\ \(0\)\
+\-\ pulses\\:\\ 0\\.023146959525099788\ \(0\)\
+\-\ occlusion\\:\\ 0\\.02231225933175894\ \(0\)\
+\-\ residual\\:\\ 0\\.022203180342738826\ \(0\)\
+\-\ patent\\:\\ 0\\.02204370805224297\ \(0\)\
+\-\ ankle\\:\\ 0\\.02131197013404842\ \(0\)\
+\-\ tibial\\:\\ 0\\.020670073159743015\ \(0\)\
+\-\ discharged\\:\\ 0\\.020511406408458572\ \(0\)\
+\-\ origin\\:\\ 0\\.020511406408458572\ \(0\)\
+\-\ term\\:\\ 0\\.020472479819518684\ \(0\)\
+\-\ below\\:\\ 0\\.01942184790610428\ \(0\)\
+\-\ another\\:\\ 0\\.019234842238030566\ \(0\)\
+\-\ aorta\\:\\ 0\\.019204313859440027\ \(0\)\
+\-\ external\\:\\ 0\\.019024789914525726\ \(0\)\
+\-\ history\\:\\ 0\\.018537401115818062\ \(0\)\
+\-\ foot\\:\\ 0\\.018493794215856073\ \(0\)\
+\-\ patient\\:\\ 0\\.017939098029662575\ \(0\)\
+\-\ \\:\\:\\ 0\\.01775300758100521\ \(0\)\
+\-\ hypertension\\:\\ 0\\.017637597132461717\ \(0\)\
+\-\ grade\\:\\ 0\\.017041030329586232\ \(0\)\
+\-\ knee\\:\\ 0\\.01622246451602239\ \(0\)\
+\-\ n\\/a\\:\\ 0\\.016205270405021396\ \(0\)\
+\-\ complete\\:\\ 0\\.015745423738146882\ \(0\)\
+\-\ internal\\:\\ 0\\.01499935011193074\ \(0\)\
+\-\ followed\\:\\ 0\\.01499935011193074\ \(0\)\
+\-\ severe\\:\\ 0\\.01376601989563353\ \(0\)\
+\-\ clinical\\:\\ 0\\.01376601989563353\ \(0\)\
+\-\ medical\\:\\ 0\\.01376601989563353\ \(0\)\
+\-\ \\â\\€\\™\\:\\ 0\\.013371867746834848\ \(0\)\
+\-\ decreased\\:\\ 0\\.013302389543060521\ \(0\)\
+\-\ s\\:\\ 0\\.012831244330442864\ \(0\)\
+\-\ focal\\:\\ 0\\.012777453424808387\ \(0\)\
+\-\ following\\:\\ 0\\.012697789303147375\ \(0\)\
+\-\ 4\\:\\ 0\\.012465821493084008\ \(0\)\
+\-\ high\\:\\ 0\\.012243696654852438\ \(0\)\
+\-\ significant\\:\\ 0\\.012030613356304835\ \(0\)\
+\-\ common\\:\\ 0\\.011708205298201033\ \(0\)\
+\-\ abdominal\\:\\ 0\\.011182823236241441\ \(0\)\
+\-\ without\\:\\ 0\\.010534100347424923\ \(0\)\
+\-\ 3\\:\\ 0\\.010476311658149422\ \(0\)\
+\-\ \\%\\:\\ 0\\.010436235776680668\ \(0\)\
+\-\ a\\:\\ 0\\.01038219376488485\ \(0\)\
+\-\ posterior\\:\\ 0\\.010312243710484024\ \(0\)\
+\-\ left\\:\\ 0\\.010011573500239946\ \(0\)\
+\-\ findings\\:\\ 0\\.009522706470104501\ \(0\)\
+\-\ right\\:\\ 0\\.009441169728904887\ \(0\)\
+\-\ surgical\\:\\ 0\\.009404302462049496\ \(0\)\
+\-\ after\\:\\ 0\\.00925655079900106\ \(0\)\
+\-\ is\\:\\ 0\\.00883179233065014\ \(0\)\
+\-\ by\\:\\ 0\\.007449585880863219\ \(0\)\
+\-\ as\\:\\ 0\\.006767421496827895\ \(0\)\
+\-\ there\\:\\ 0\\.006658196630706747\ \(0\)\
+\-\ the\\:\\ 0\\.00651436420069441\ \(0\)\
+\-\ and\\:\\ 0\\.005654733164362883\ \(0\)\
+\-\ pain\\:\\ 0\\.005463917107490758\ \(0\)\
+\-\ was\\:\\ 0\\.005174227864993125\ \(0\)\
+\-\ year\\:\\ 0\\.005005786750119973\ \(0\)\
+\-\ old\\:\\ 0\\.004580809407655783\ \(0\)\
+\-\ no\\:\\ 0\\.004504943197402105\ \(0\)\
+\-\ in\\:\\ 0\\.004412536441259214\ \(0\)\
+\-\ \\,\\:\\ 0\\.004251990557863152\ \(0\)\
+\-\ for\\:\\ 0\\.0038173201499618597\ \(0\)\
+\-\ of\\:\\ 0\\.0036598052606697934\ \(0\)\
+\-\ \\.\\:\\ 0\\.002416198791965977\ \(0\)\
+\-\ to\\:\\ 0\\.0022359586829475723\ \(0\)\
+\-\ with\\:\\ 0\\.0018377619281134514\ \(0\)\

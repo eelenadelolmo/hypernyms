@@ -1,93 +1,91 @@
-Texto: 
-the patient is undergoing an extensive work-up to rule out clotting disorders or malignant reasons for the portal vein thrombosis.
-intraluminal filling defect within the portal vein, which persisted on all phases of imaging.
-large amount of free abdominal fluid (ascites).
-lobular, shrunken liver - consistent with cirrhosis.
-portal hypertension secondary to portal vein thrombosis
-50yo man with hepatitis c who has developed increasing abdominal girth and early satiety.
-this case demonstrates an important radiographic finding which accounts for the patient's symptoms, though it creates a new question (why is he developing thrombi, when his cirrhosis is not to the point of collateralization) as well as answers an old one (the reason for the ascites).
-
-
-Keywords by value: 
-- portal: 0.40732014023769714
-- vein: 0.22881542052462142
-- cirrhosis: 0.22418092328924666
-- ascites: 0.21951139945732692
-- thrombosis: 0.1735127327479331
-- 50yo: 0.16260575174375694
-- answers: 0.15307693851713833
-- shrunken: 0.14967595786728785
-- the: 0.14862544650147327
-- collateralization: 0.14211251330749944
-- creates: 0.14014714464066927
-- thrombi: 0.14014714464066927
-- clotting: 0.13387067582324969
-- satiety: 0.13258370008088083
-- girth: 0.12918271943103035
-- why: 0.12918271943103035
-- persisted: 0.12461026650076006
-- phases: 0.12232327349568177
-- an: 0.12206992724289448
-- accounts: 0.11845002079766911
-- reason: 0.11845002079766911
-- abdominal: 0.11639446888671402
-- reasons: 0.11293850538256735
-- question: 0.10975569972866346
-- hepatitis: 0.1093934796192127
-- intraluminal: 0.10868948099477288
-- lobular: 0.10801108807031155
-- developing: 0.10183003505942428
-- which: 0.09676934745338749
-- for: 0.09675413932397318
-- undergoing: 0.0966439166086337
-- disorders: 0.09395041768462527
-- though: 0.09244526694630986
-- important: 0.0901360406257207
-- point: 0.08796735932490085
-- is: 0.08742147586281218
-- as: 0.0854955588565172
-- amount: 0.08512439731989765
-- rule: 0.0844529816723104
-- increasing: 0.08380489541496289
-- free: 0.08282989324183475
-- filling: 0.08240301535705735
-- extensive: 0.08198568811888635
-- hypertension: 0.08141668432345067
-- to: 0.07980520374848749
-- developed: 0.07894584867224234
-- radiographic: 0.07894584867224234
-- defect: 0.07805577619063359
-- early: 0.07670206066506662
-- malignant: 0.07585125361336224
-- new: 0.07361459579019584
-- liver: 0.07340500089405143
-- out: 0.069943329395155
-- finding: 0.069943329395155
-- patient: 0.06921821444152815
-- his: 0.06453375004868507
-- when: 0.0642764528727826
-- all: 0.06334201296507141
-- secondary: 0.06307057123836342
-- he: 0.06301078352851006
-- of: 0.06247059139983581
-- fluid: 0.061437504872637674
-- one: 0.06092344588719318
-- who: 0.060190806159276
-- symptoms: 0.05822030649268709
-- consistent: 0.05769673796992531
-- man: 0.056333596938217996
-- imaging: 0.05592088653054325
-- it: 0.05446865246820539
-- case: 0.05345810877064887
-- demonstrates: 0.05345810877064887
-- large: 0.05331557703990357
-- well: 0.051523168910795517
-- within: 0.049008139652703654
-- has: 0.0486039708828615
-- not: 0.042007258157114154
-- with: 0.041671945042207524
-- or: 0.03701736997595676
-- this: 0.036563627530495635
-- on: 0.03213697432861664
-- old: 0.031492421339318406
-- and: 0.021987863833897274
+\-\ Texto\\:\\ \ \(0\)\
+\-\ the\\ patient\\ is\\ undergoing\\ an\\ extensive\\ work\\-up\\ to\\ rule\\ out\\ clotting\\ disorders\\ or\\ malignant\\ reasons\\ for\\ the\\ portal\\ vein\\ thrombosis\\.\ \(0\)\
+\-\ intraluminal\\ filling\\ defect\\ within\\ the\\ portal\\ vein\\,\\ which\\ persisted\\ on\\ all\\ phases\\ of\\ imaging\\.\ \(0\)\
+\-\ large\\ amount\\ of\\ free\\ abdominal\\ fluid\\ \\(ascites\\)\\.\ \(0\)\
+\-\ lobular\\,\\ shrunken\\ liver\\ \\-\\ consistent\\ with\\ cirrhosis\\.\ \(0\)\
+\-\ portal\\ hypertension\\ secondary\\ to\\ portal\\ vein\\ thrombosis\ \(0\)\
+\-\ 50yo\\ man\\ with\\ hepatitis\\ c\\ who\\ has\\ developed\\ increasing\\ abdominal\\ girth\\ and\\ early\\ satiety\\.\ \(0\)\
+\-\ this\\ case\\ demonstrates\\ an\\ important\\ radiographic\\ finding\\ which\\ accounts\\ for\\ the\\ patient\\'s\\ symptoms\\,\\ though\\ it\\ creates\\ a\\ new\\ question\\ \\(why\\ is\\ he\\ developing\\ thrombi\\,\\ when\\ his\\ cirrhosis\\ is\\ not\\ to\\ the\\ point\\ of\\ collateralization\\)\\ as\\ well\\ as\\ answers\\ an\\ old\\ one\\ \\(the\\ reason\\ for\\ the\\ ascites\\)\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ portal\\:\\ 0\\.40732014023769714\ \(0\)\
+\-\ vein\\:\\ 0\\.22881542052462142\ \(0\)\
+\-\ cirrhosis\\:\\ 0\\.22418092328924666\ \(0\)\
+\-\ ascites\\:\\ 0\\.21951139945732692\ \(0\)\
+\-\ thrombosis\\:\\ 0\\.1735127327479331\ \(0\)\
+\-\ 50yo\\:\\ 0\\.16260575174375694\ \(0\)\
+\-\ answers\\:\\ 0\\.15307693851713833\ \(0\)\
+\-\ shrunken\\:\\ 0\\.14967595786728785\ \(0\)\
+\-\ the\\:\\ 0\\.14862544650147327\ \(0\)\
+\-\ collateralization\\:\\ 0\\.14211251330749944\ \(0\)\
+\-\ creates\\:\\ 0\\.14014714464066927\ \(0\)\
+\-\ thrombi\\:\\ 0\\.14014714464066927\ \(0\)\
+\-\ clotting\\:\\ 0\\.13387067582324969\ \(0\)\
+\-\ satiety\\:\\ 0\\.13258370008088083\ \(0\)\
+\-\ girth\\:\\ 0\\.12918271943103035\ \(0\)\
+\-\ why\\:\\ 0\\.12918271943103035\ \(0\)\
+\-\ persisted\\:\\ 0\\.12461026650076006\ \(0\)\
+\-\ phases\\:\\ 0\\.12232327349568177\ \(0\)\
+\-\ an\\:\\ 0\\.12206992724289448\ \(0\)\
+\-\ accounts\\:\\ 0\\.11845002079766911\ \(0\)\
+\-\ reason\\:\\ 0\\.11845002079766911\ \(0\)\
+\-\ abdominal\\:\\ 0\\.11639446888671402\ \(0\)\
+\-\ reasons\\:\\ 0\\.11293850538256735\ \(0\)\
+\-\ question\\:\\ 0\\.10975569972866346\ \(0\)\
+\-\ hepatitis\\:\\ 0\\.1093934796192127\ \(0\)\
+\-\ intraluminal\\:\\ 0\\.10868948099477288\ \(0\)\
+\-\ lobular\\:\\ 0\\.10801108807031155\ \(0\)\
+\-\ developing\\:\\ 0\\.10183003505942428\ \(0\)\
+\-\ which\\:\\ 0\\.09676934745338749\ \(0\)\
+\-\ for\\:\\ 0\\.09675413932397318\ \(0\)\
+\-\ undergoing\\:\\ 0\\.0966439166086337\ \(0\)\
+\-\ disorders\\:\\ 0\\.09395041768462527\ \(0\)\
+\-\ though\\:\\ 0\\.09244526694630986\ \(0\)\
+\-\ important\\:\\ 0\\.0901360406257207\ \(0\)\
+\-\ point\\:\\ 0\\.08796735932490085\ \(0\)\
+\-\ is\\:\\ 0\\.08742147586281218\ \(0\)\
+\-\ as\\:\\ 0\\.0854955588565172\ \(0\)\
+\-\ amount\\:\\ 0\\.08512439731989765\ \(0\)\
+\-\ rule\\:\\ 0\\.0844529816723104\ \(0\)\
+\-\ increasing\\:\\ 0\\.08380489541496289\ \(0\)\
+\-\ free\\:\\ 0\\.08282989324183475\ \(0\)\
+\-\ filling\\:\\ 0\\.08240301535705735\ \(0\)\
+\-\ extensive\\:\\ 0\\.08198568811888635\ \(0\)\
+\-\ hypertension\\:\\ 0\\.08141668432345067\ \(0\)\
+\-\ to\\:\\ 0\\.07980520374848749\ \(0\)\
+\-\ developed\\:\\ 0\\.07894584867224234\ \(0\)\
+\-\ radiographic\\:\\ 0\\.07894584867224234\ \(0\)\
+\-\ defect\\:\\ 0\\.07805577619063359\ \(0\)\
+\-\ early\\:\\ 0\\.07670206066506662\ \(0\)\
+\-\ malignant\\:\\ 0\\.07585125361336224\ \(0\)\
+\-\ new\\:\\ 0\\.07361459579019584\ \(0\)\
+\-\ liver\\:\\ 0\\.07340500089405143\ \(0\)\
+\-\ out\\:\\ 0\\.069943329395155\ \(0\)\
+\-\ finding\\:\\ 0\\.069943329395155\ \(0\)\
+\-\ patient\\:\\ 0\\.06921821444152815\ \(0\)\
+\-\ his\\:\\ 0\\.06453375004868507\ \(0\)\
+\-\ when\\:\\ 0\\.0642764528727826\ \(0\)\
+\-\ all\\:\\ 0\\.06334201296507141\ \(0\)\
+\-\ secondary\\:\\ 0\\.06307057123836342\ \(0\)\
+\-\ he\\:\\ 0\\.06301078352851006\ \(0\)\
+\-\ of\\:\\ 0\\.06247059139983581\ \(0\)\
+\-\ fluid\\:\\ 0\\.061437504872637674\ \(0\)\
+\-\ one\\:\\ 0\\.06092344588719318\ \(0\)\
+\-\ who\\:\\ 0\\.060190806159276\ \(0\)\
+\-\ symptoms\\:\\ 0\\.05822030649268709\ \(0\)\
+\-\ consistent\\:\\ 0\\.05769673796992531\ \(0\)\
+\-\ man\\:\\ 0\\.056333596938217996\ \(0\)\
+\-\ imaging\\:\\ 0\\.05592088653054325\ \(0\)\
+\-\ it\\:\\ 0\\.05446865246820539\ \(0\)\
+\-\ case\\:\\ 0\\.05345810877064887\ \(0\)\
+\-\ demonstrates\\:\\ 0\\.05345810877064887\ \(0\)\
+\-\ large\\:\\ 0\\.05331557703990357\ \(0\)\
+\-\ well\\:\\ 0\\.051523168910795517\ \(0\)\
+\-\ within\\:\\ 0\\.049008139652703654\ \(0\)\
+\-\ has\\:\\ 0\\.0486039708828615\ \(0\)\
+\-\ not\\:\\ 0\\.042007258157114154\ \(0\)\
+\-\ with\\:\\ 0\\.041671945042207524\ \(0\)\
+\-\ or\\:\\ 0\\.03701736997595676\ \(0\)\
+\-\ this\\:\\ 0\\.036563627530495635\ \(0\)\
+\-\ on\\:\\ 0\\.03213697432861664\ \(0\)\
+\-\ old\\:\\ 0\\.031492421339318406\ \(0\)\
+\-\ and\\:\\ 0\\.021987863833897274\ \(0\)\

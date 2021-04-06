@@ -1,79 +1,77 @@
-Texto: 
-n/a
-patient is undergoing work up through rheumatology.
-ct demonstrates dilatation of the distal esophagus with an air fluid level consistent with a patulous esophagus seen in scleroderma.  interstitium demonstrates peripheral fibrosis in the lower lobes with some peripheral involvement in the bilateral upper lobes.
-scleroderma
-scleroderma
-connective tissue disease
-idiopathic pulmonary fibrosis
-witheld
-the combination of peripheral fibrosis with a basilar predominance and the coexistence of a patulous esophagus is pathognomonic for scleroderma.  without the associated gastrointestinal disease, the differential diagnosis would include connective tissue disease (e.g. rheumatoid arthritis, systemic lupus erythromatosis, mixed connective tissue disease) and idiopathic pulmonary fibrosis.
-
-
-Keywords by value: 
-- scleroderma: 0.19336860865372651
-- fibrosis: 0.1358886832096515
-- connective: 0.1347677354477206
-- patulous: 0.13266471540797511
-- esophagus: 0.09936356116247994
-- peripheral: 0.08281964255394957
-- coexistence: 0.0787099859282723
-- erythromatosis: 0.0787099859282723
-- idiopathic: 0.0695631696096138
-- lobes: 0.06724397172708858
-- witheld: 0.06271213352445038
-- rheumatology: 0.05580865237950858
-- interstitium: 0.055146974056707494
-- tissue: 0.05425235326212304
-- disease: 0.049883483614846576
-- predominance: 0.04776591536756045
-- lupus: 0.04492257848257354
-- pulmonary: 0.04458125553964399
-- gastrointestinal: 0.04157710125541809
-- pathognomonic: 0.04130235430303636
-- e.g: 0.040402312346590245
-- basilar: 0.04004272396143006
-- combination: 0.03843445462008615
-- undergoing: 0.037415585809662734
-- systemic: 0.03650116611834069
-- rheumatoid: 0.03603924045406222
-- work: 0.03574405418387572
-- mixed: 0.0335082445619601
-- demonstrates: 0.0333325214580926
-- dilatation: 0.03269845383454213
-- arthritis: 0.03259582544681236
-- involvement: 0.027963738005605504
-- n/a: 0.027635773637134698
-- would: 0.027151489985911513
-- air: 0.025814844879928266
-- differential: 0.024222855619222584
-- some: 0.02316900226666749
-- level: 0.021990080603990464
-- fluid: 0.02168427771967726
-- through: 0.02166925909304347
-- include: 0.021403156143127558
-- distal: 0.020743558829875237
-- up: 0.020516492420126993
-- consistent: 0.018708020257421454
-- bilateral: 0.01851622972602182
-- upper: 0.01841143308364927
-- associated: 0.018004130017033052
-- without: 0.017964403271055
-- diagnosis: 0.017519815453396606
-- lower: 0.017159482762177342
-- seen: 0.01507703227739009
-- in: 0.011287425807328257
-- ct: 0.01067235404814324
-- a: 0.010623208977283962
-- an: 0.010550579145399372
-- is: 0.0100409067568701
-- the: 0.008640580293976612
-- patient: 0.007648142240324892
-- ,: 0.007251162469213054
-- for: 0.006509894184309956
-- (: 0.006449658270034468
-- ): 0.006370872251011652
-- with: 0.004178720574638919
-- and: 0.003214446530932472
-- of: 0.00312063752137469
-- .: 0.0019017608623578361
+\-\ Texto\\:\\ \ \(0\)\
+\-\ n\\/a\ \(127\)\
+\-\ patient\\ is\\ undergoing\\ work\\ up\\ through\\ rheumatology\\.\ \(0\)\
+\-\ ct\\ demonstrates\\ dilatation\\ of\\ the\\ distal\\ esophagus\\ with\\ an\\ air\\ fluid\\ level\\ consistent\\ with\\ a\\ patulous\\ esophagus\\ seen\\ in\\ scleroderma\\.\\ \\ interstitium\\ demonstrates\\ peripheral\\ fibrosis\\ in\\ the\\ lower\\ lobes\\ with\\ some\\ peripheral\\ involvement\\ in\\ the\\ bilateral\\ upper\\ lobes\\.\ \(0\)\
+\-\ scleroderma\ \(13\)\
+\-\ scleroderma\ \(13\)\
+\-\ connective\\ tissue\\ disease\ \(9\)\
+\-\ idiopathic\\ pulmonary\\ fibrosis\ \(5\)\
+\-\ witheld\ \(4\)\
+\-\ the\\ combination\\ of\\ peripheral\\ fibrosis\\ with\\ a\\ basilar\\ predominance\\ and\\ the\\ coexistence\\ of\\ a\\ patulous\\ esophagus\\ is\\ pathognomonic\\ for\\ scleroderma\\.\\ \\ without\\ the\\ associated\\ gastrointestinal\\ disease\\,\\ the\\ differential\\ diagnosis\\ would\\ include\\ connective\\ tissue\\ disease\\ \\(e\\.g\\.\\ rheumatoid\\ arthritis\\,\\ systemic\\ lupus\\ erythromatosis\\,\\ mixed\\ connective\\ tissue\\ disease\\)\\ and\\ idiopathic\\ pulmonary\\ fibrosis\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ scleroderma\\:\\ 0\\.19336860865372651\ \(0\)\
+\-\ fibrosis\\:\\ 0\\.1358886832096515\ \(0\)\
+\-\ connective\\:\\ 0\\.1347677354477206\ \(0\)\
+\-\ patulous\\:\\ 0\\.13266471540797511\ \(0\)\
+\-\ esophagus\\:\\ 0\\.09936356116247994\ \(0\)\
+\-\ peripheral\\:\\ 0\\.08281964255394957\ \(0\)\
+\-\ coexistence\\:\\ 0\\.0787099859282723\ \(0\)\
+\-\ erythromatosis\\:\\ 0\\.0787099859282723\ \(0\)\
+\-\ idiopathic\\:\\ 0\\.0695631696096138\ \(0\)\
+\-\ lobes\\:\\ 0\\.06724397172708858\ \(0\)\
+\-\ witheld\\:\\ 0\\.06271213352445038\ \(0\)\
+\-\ rheumatology\\:\\ 0\\.05580865237950858\ \(0\)\
+\-\ interstitium\\:\\ 0\\.055146974056707494\ \(0\)\
+\-\ tissue\\:\\ 0\\.05425235326212304\ \(0\)\
+\-\ disease\\:\\ 0\\.049883483614846576\ \(0\)\
+\-\ predominance\\:\\ 0\\.04776591536756045\ \(0\)\
+\-\ lupus\\:\\ 0\\.04492257848257354\ \(0\)\
+\-\ pulmonary\\:\\ 0\\.04458125553964399\ \(0\)\
+\-\ gastrointestinal\\:\\ 0\\.04157710125541809\ \(0\)\
+\-\ pathognomonic\\:\\ 0\\.04130235430303636\ \(0\)\
+\-\ e\\.g\\:\\ 0\\.040402312346590245\ \(0\)\
+\-\ basilar\\:\\ 0\\.04004272396143006\ \(0\)\
+\-\ combination\\:\\ 0\\.03843445462008615\ \(0\)\
+\-\ undergoing\\:\\ 0\\.037415585809662734\ \(0\)\
+\-\ systemic\\:\\ 0\\.03650116611834069\ \(0\)\
+\-\ rheumatoid\\:\\ 0\\.03603924045406222\ \(0\)\
+\-\ work\\:\\ 0\\.03574405418387572\ \(0\)\
+\-\ mixed\\:\\ 0\\.0335082445619601\ \(0\)\
+\-\ demonstrates\\:\\ 0\\.0333325214580926\ \(0\)\
+\-\ dilatation\\:\\ 0\\.03269845383454213\ \(0\)\
+\-\ arthritis\\:\\ 0\\.03259582544681236\ \(0\)\
+\-\ involvement\\:\\ 0\\.027963738005605504\ \(0\)\
+\-\ n\\/a\\:\\ 0\\.027635773637134698\ \(0\)\
+\-\ would\\:\\ 0\\.027151489985911513\ \(0\)\
+\-\ air\\:\\ 0\\.025814844879928266\ \(0\)\
+\-\ differential\\:\\ 0\\.024222855619222584\ \(0\)\
+\-\ some\\:\\ 0\\.02316900226666749\ \(0\)\
+\-\ level\\:\\ 0\\.021990080603990464\ \(0\)\
+\-\ fluid\\:\\ 0\\.02168427771967726\ \(0\)\
+\-\ through\\:\\ 0\\.02166925909304347\ \(0\)\
+\-\ include\\:\\ 0\\.021403156143127558\ \(0\)\
+\-\ distal\\:\\ 0\\.020743558829875237\ \(0\)\
+\-\ up\\:\\ 0\\.020516492420126993\ \(0\)\
+\-\ consistent\\:\\ 0\\.018708020257421454\ \(0\)\
+\-\ bilateral\\:\\ 0\\.01851622972602182\ \(0\)\
+\-\ upper\\:\\ 0\\.01841143308364927\ \(0\)\
+\-\ associated\\:\\ 0\\.018004130017033052\ \(0\)\
+\-\ without\\:\\ 0\\.017964403271055\ \(0\)\
+\-\ diagnosis\\:\\ 0\\.017519815453396606\ \(0\)\
+\-\ lower\\:\\ 0\\.017159482762177342\ \(0\)\
+\-\ seen\\:\\ 0\\.01507703227739009\ \(0\)\
+\-\ in\\:\\ 0\\.011287425807328257\ \(0\)\
+\-\ ct\\:\\ 0\\.01067235404814324\ \(0\)\
+\-\ a\\:\\ 0\\.010623208977283962\ \(0\)\
+\-\ an\\:\\ 0\\.010550579145399372\ \(0\)\
+\-\ is\\:\\ 0\\.0100409067568701\ \(0\)\
+\-\ the\\:\\ 0\\.008640580293976612\ \(0\)\
+\-\ patient\\:\\ 0\\.007648142240324892\ \(0\)\
+\-\ \\,\\:\\ 0\\.007251162469213054\ \(0\)\
+\-\ for\\:\\ 0\\.006509894184309956\ \(0\)\
+\-\ \\(\\:\\ 0\\.006449658270034468\ \(0\)\
+\-\ \\)\\:\\ 0\\.006370872251011652\ \(0\)\
+\-\ with\\:\\ 0\\.004178720574638919\ \(0\)\
+\-\ and\\:\\ 0\\.003214446530932472\ \(0\)\
+\-\ of\\:\\ 0\\.00312063752137469\ \(0\)\
+\-\ \\.\\:\\ 0\\.0019017608623578361\ \(0\)\

@@ -1,252 +1,250 @@
-Texto: 
-heent:  pt was intubated, perrl
-cv: rrr, no murmurs, rubs or gallops
-lungs: on exam here, the child is intubated with clear lungs sounds bilaterally.
-musculoskeletal: no signs of trauma.
-abd: soft, no surgical scars noted, no masses
-neurological: she will localize to pain unilaterally.
-the patient was admitted on 12/14/09 and was brought to the or on 12/14/09 for left parietal craniotomy for clot evacuation and arteriovenous malformation resection.  pt was discharged three days post-op with appointments for pt and speech therapy
-a non-contrast ct of the head upon admission showed a left parietal intraparenchymal hematoma.  this was followed up with ct-angiography of the head which revealed an arteriovenous malformation (avm) in the left parietal region with associated hemorrhage.
-arteriovenous malformation, hematoma, left parietal lobe
-‚Ä¢ intracranial hemorrhage/hematoma
-‚Ä¢ intracranial neoplasm
-‚Ä¢ cardiac arrhythmia or congenital abnormality
-‚Ä¢ seizure
-‚Ä¢ head trauma
-this is a 12-year-old, previously healthy girl who experienced a syncopal episode on the way to school.  this was associated with nausea and vomiting.  she was seen at an outside hospital and intubated due to low gcs score.  she was then transported to our emergency room due to questionable intracranial hemorrhage.
-the yearly risk of hemorrhage associated with avms is 2-3%, with a mortality rate of 10% for the initial bleed and increasing up to 20% for subsequent bleeds.  neurological deficits occur approximately 50% of the time with each bleed, mainly due to mass effect.  patients with avms are at increased risk for cerebral aneurysms, specifically located on the arteries feeding the avm.  treatment options include endovascular techniques as well as surgical resection.  endovascular treatment options are often used as surgical adjuncts.  embolization can be used pre-operatively to shrink the avm, reduce intra-operative bleeding, and decrease surgical time.  embolization is also important in patients with either small avms, arterial feeders, or avms with rebleeding after surgery.  the rebleeding rate of a ruptured avm is 6% for the first year, and 2-4% each year thereafter, but there can be an ‚Äúangiographic cure‚Äù with embolization of any remnant arterial feeders.  treatment itself is not completely benign, with one study indicating that the overall rate of new neurological deficits after surgical resection was 32% in patients with unruptured avms.  arteriovenous malformations are graded based on the spetzler-martin grading system, which predicts surgical resectability based on size of avm, pattern of venous drainage, and eloquence of adjacent brain.  high grade avms are more difficult to resect, and, therefore, may result in neurological deficits due to the surgery itself.
-
-
-Keywords by value: 
-- avms: 0.08272867308287848
-- avm: 0.0424019405792005
-- arteriovenous: 0.03737320903066806
-- 12/14/09: 0.03673132676652707
-- rebleeding: 0.03384321351419397
-- feeders: 0.032153775563743284
-- intubated: 0.03173655503551956
-- neurological: 0.03081270509624786
-- parietal: 0.030422770417024868
-- %: 0.02906926506962928
-- embolization: 0.02487022823134388
-- deficits: 0.02443902278455043
-- intracranial: 0.022571948355560645
-- surgical: 0.022452772128143172
-- endovascular: 0.022290760504861548
-- malformation: 0.021302166578164874
-- rate: 0.02081700931547402
-- bleed: 0.02034871996350905
-- itself: 0.02003410516139178
-- pt: 0.019857273466454703
-- due: 0.01900230960794033
-- was: 0.018530203541506626
-- each: 0.018421121955391914
-- ct-angiography: 0.018365663383263536
-- predicts: 0.018365663383263536
-- eloquence: 0.018365663383263536
-- hemorrhage: 0.017776603651100224
-- options: 0.01730033054106013
-- 12-year-old: 0.016921606757096985
-- spetzler-martin: 0.016921606757096985
-- resectability: 0.016921606757096985
-- resection: 0.016655722847001366
-- ‚Ä¢: 0.016323066162457163
-- unilaterally: 0.016076887781871642
-- hemorrhage/hematoma: 0.016076887781871642
-- adjuncts: 0.016076887781871642
-- arterial: 0.015584769203052797
-- pre-operatively: 0.015477550130930433
-- head: 0.015147508191086852
-- unruptured: 0.015012667732359162
-- she: 0.014992413384088576
-- shrink: 0.014311683906064968
-- intra-operative: 0.014311683906064968
-- resect: 0.014311683906064968
-- :: 0.014128435199883313
-- ,: 0.014099482579025385
-- appointments: 0.01403349350476388
-- patients: 0.013822341246037663
-- arrhythmia: 0.013788112180479746
-- syncopal: 0.013788112180479746
-- used: 0.01365910065394984
-- based: 0.013577876509445669
-- transported: 0.01356861110619261
-- bleeds: 0.01356861110619261
-- lungs: 0.013482452491584482
-- cure: 0.013370048231600266
-- grading: 0.013370048231600266
-- 2-4: 0.013188774529538537
-- remnant: 0.013022018888552003
-- risk: 0.012896694363996193
-- hematoma: 0.012670695326758708
-- associated: 0.012602891011923138
-- perrl: 0.012589436878597326
-- thereafter: 0.012589436878597326
-- localize: 0.012344055554313196
-- yearly: 0.012022908304673072
-- angiographic: 0.012022908304673072
-- scars: 0.011925991605433712
-- gcs: 0.011925991605433712
-- intraparenchymal: 0.011833383766744476
-- score: 0.011499336579087853
-- evacuation: 0.011423570653731863
-- school: 0.011423570653731863
-- graded: 0.011423570653731863
-- mainly: 0.011350463737458382
-- treatment: 0.010810105997505544
-- craniotomy: 0.010680497853859503
-- aneurysms: 0.010680497853859503
-- for: 0.010632827167706263
-- gallops: 0.010629054910962896
-- techniques: 0.010629054910962896
-- on: 0.01055674393032916
-- post-op: 0.010435116529575373
-- way: 0.010435116529575373
-- clot: 0.010389327140577923
-- speech: 0.010257704428866398
-- rubs: 0.010215615455288233
-- time: 0.010056671780163803
-- questionable: 0.0100552799529213
-- reduce: 0.0100552799529213
-- specifically: 0.00997951402756531
-- malformations: 0.009942639908608225
-- cv: 0.009870793708459955
-- to: 0.009786977485151768
-- trauma: 0.009737536590658038
-- are: 0.009707282271080014
-- mortality: 0.00970132362626422
-- brought: 0.009669023237647626
-- 2-3: 0.009605887092865693
-- murmurs: 0.009575022330813315
-- up: 0.009574363129392596
-- abd: 0.00942720621420439
-- musculoskeletal: 0.009316068754401696
-- here: 0.009289186660993555
-- ruptured: 0.009262647023957243
-- experienced: 0.009236441227692951
-- indicating: 0.009184998284796344
-- feeding: 0.009134795052339967
-- rrr: 0.009085773182735396
-- 32: 0.008878419859095744
-- overall: 0.00885660465103888
-- episode: 0.008813647802699845
-- non-contrast: 0.008689849010052346
-- surgery: 0.008645829434834478
-- heent: 0.008611223326754746
-- completely: 0.00855414213052951
-- our: 0.008462350485125279
-- therefore: 0.008409156105947852
-- or: 0.008346022908030895
-- discharged: 0.00816183046669914
-- decrease: 0.008146340928183476
-- as: 0.008078609411838298
-- can: 0.008075926468621123
-- healthy: 0.00802640373688873
-- important: 0.007997468086554008
-- left: 0.007967543910607623
-- seizure: 0.007872012128235144
-- admission: 0.007845130034827003
-- child: 0.007792384601526398
-- difficult: 0.007792384601526398
-- either: 0.00775368379824945
-- bleeding: 0.007728276979303995
-- admitted: 0.007690738426173415
-- room: 0.0076538643072163294
-- previously: 0.007478691146361035
-- outside: 0.007467520431483149
-- drainage: 0.007445357101889282
-- an: 0.007385405401779562
-- arteries: 0.007369591176533294
-- after: 0.007366671677538343
-- located: 0.007327502202955128
-- increasing: 0.0072964842602598135
-- upon: 0.00727605926005852
-- no: 0.007170367922531683
-- nausea: 0.007167166700588193
-- sounds: 0.007100722192721624
-- is: 0.0070286347298090706
-- system: 0.007009333271668329
-- subsequent: 0.006930376453770441
-- result: 0.00682955032697492
-- pattern: 0.006805088206398496
-- vomiting: 0.006796997581343501
-- cardiac: 0.006780909985314522
-- grade: 0.006780909985314522
-- 50: 0.006772912534674593
-- emergency: 0.006741226245792241
-- hospital: 0.006702284302016924
-- occur: 0.006679263809961538
-- ‚Äú: 0.006648960245373249
-- which: 0.0066464357801772865
-- ‚Äù: 0.006611690318809134
-- clear: 0.006582347110722178
-- abnormality: 0.006567829049646983
-- congenital: 0.0065107478534217455
-- venous: 0.006462053371785685
-- 20: 0.006401073408660449
-- then: 0.006335347663379354
-- effect: 0.006303246360560927
-- signs: 0.006265366529137614
-- girl: 0.006259119647895412
-- new: 0.00620372495166783
-- cerebral: 0.006167596878675147
-- benign: 0.006143854931319169
-- neoplasm: 0.006062826199816517
-- masses: 0.006017900829158515
-- this: 0.006007107583213332
-- three: 0.00600130047572273
-- 10: 0.00600130047572273
-- first: 0.005973923822470526
-- followed: 0.0059684913987057735
-- size: 0.0059684913987057735
-- initial: 0.005899129465165225
-- study: 0.005857565326791581
-- bilaterally: 0.005847302580258132
-- showed: 0.005837090141507701
-- revealed: 0.005713487270554361
-- often: 0.005680153226082609
-- adjacent: 0.005628825508613057
-- any: 0.0056059063189006116
-- will: 0.005569752121623212
-- approximately: 0.0055079538053241315
-- be: 0.005490653013933038
-- days: 0.00545640478369162
-- brain: 0.0053569823402140875
-- 6: 0.005316917002864322
-- the: 0.0051843481763859675
-- region: 0.0050283358900819015
-- include: 0.004994069766729764
-- a: 0.004957497522732516
-- low: 0.0049503501101383325
-- high: 0.0048719709605766996
-- one: 0.0048244403818971755
-- at: 0.00482401313679847
-- lobe: 0.004790261141507363
-- therapy: 0.004759668325501277
-- who: 0.004641600852378545
-- more: 0.004452450644400347
-- increased: 0.004355176628749282
-- soft: 0.004335264091653229
-- noted: 0.004219627475942903
-- small: 0.00410119850912733
-- well: 0.004027251985351356
-- year: 0.003983771955303811
-- exam: 0.003910904041561538
-- may: 0.003904850768537758
-- but: 0.003796881877153203
-- and: 0.0037501876194212178
-- seen: 0.003517974198057688
-- in: 0.0035116435845021243
-- also: 0.003509624153479482
-- with: 0.003412621802621784
-- that: 0.0030749598511642154
-- of: 0.0029125950199497107
-- there: 0.0026494074093020596
-- not: 0.0025725388994623653
-- ct: 0.002490215944566756
-- mass: 0.0024759604311407595
-- pain: 0.0021741836823556972
-- patient: 0.001784566522742475
-- .: 0.0015531047042588995
-- (: 0.0015049202630080427
-- ): 0.0014865368585693856
+\-\ Texto\\:\\ \ \(0\)\
+\-\ heent\\:\\ \\ pt\\ was\\ intubated\\,\\ perrl\ \(0\)\
+\-\ cv\\:\\ rrr\\,\\ no\\ murmurs\\,\\ rubs\\ or\\ gallops\ \(0\)\
+\-\ lungs\\:\\ on\\ exam\\ here\\,\\ the\\ child\\ is\\ intubated\\ with\\ clear\\ lungs\\ sounds\\ bilaterally\\.\ \(0\)\
+\-\ musculoskeletal\\:\\ no\\ signs\\ of\\ trauma\\.\ \(0\)\
+\-\ abd\\:\\ soft\\,\\ no\\ surgical\\ scars\\ noted\\,\\ no\\ masses\ \(0\)\
+\-\ neurological\\:\\ she\\ will\\ localize\\ to\\ pain\\ unilaterally\\.\ \(0\)\
+\-\ the\\ patient\\ was\\ admitted\\ on\\ 12\\/14\\/09\\ and\\ was\\ brought\\ to\\ the\\ or\\ on\\ 12\\/14\\/09\\ for\\ left\\ parietal\\ craniotomy\\ for\\ clot\\ evacuation\\ and\\ arteriovenous\\ malformation\\ resection\\.\\ \\ pt\\ was\\ discharged\\ three\\ days\\ post\\-op\\ with\\ appointments\\ for\\ pt\\ and\\ speech\\ therapy\ \(0\)\
+\-\ a\\ non\\-contrast\\ ct\\ of\\ the\\ head\\ upon\\ admission\\ showed\\ a\\ left\\ parietal\\ intraparenchymal\\ hematoma\\.\\ \\ this\\ was\\ followed\\ up\\ with\\ ct\\-angiography\\ of\\ the\\ head\\ which\\ revealed\\ an\\ arteriovenous\\ malformation\\ \\(avm\\)\\ in\\ the\\ left\\ parietal\\ region\\ with\\ associated\\ hemorrhage\\.\ \(0\)\
+\-\ arteriovenous\\ malformation\\,\\ hematoma\\,\\ left\\ parietal\\ lobe\ \(0\)\
+\-\ \\‚\\Ä\\¢\\ intracranial\\ hemorrhage\\/hematoma\ \(0\)\
+\-\ \\‚\\Ä\\¢\\ intracranial\\ neoplasm\ \(0\)\
+\-\ \\‚\\Ä\\¢\\ cardiac\\ arrhythmia\\ or\\ congenital\\ abnormality\ \(0\)\
+\-\ \\‚\\Ä\\¢\\ seizure\ \(0\)\
+\-\ \\‚\\Ä\\¢\\ head\\ trauma\ \(0\)\
+\-\ this\\ is\\ a\\ 12\\-year\\-old\\,\\ previously\\ healthy\\ girl\\ who\\ experienced\\ a\\ syncopal\\ episode\\ on\\ the\\ way\\ to\\ school\\.\\ \\ this\\ was\\ associated\\ with\\ nausea\\ and\\ vomiting\\.\\ \\ she\\ was\\ seen\\ at\\ an\\ outside\\ hospital\\ and\\ intubated\\ due\\ to\\ low\\ gcs\\ score\\.\\ \\ she\\ was\\ then\\ transported\\ to\\ our\\ emergency\\ room\\ due\\ to\\ questionable\\ intracranial\\ hemorrhage\\.\ \(0\)\
+\-\ the\\ yearly\\ risk\\ of\\ hemorrhage\\ associated\\ with\\ avms\\ is\\ 2\\-3\\%\\,\\ with\\ a\\ mortality\\ rate\\ of\\ 10\\%\\ for\\ the\\ initial\\ bleed\\ and\\ increasing\\ up\\ to\\ 20\\%\\ for\\ subsequent\\ bleeds\\.\\ \\ neurological\\ deficits\\ occur\\ approximately\\ 50\\%\\ of\\ the\\ time\\ with\\ each\\ bleed\\,\\ mainly\\ due\\ to\\ mass\\ effect\\.\\ \\ patients\\ with\\ avms\\ are\\ at\\ increased\\ risk\\ for\\ cerebral\\ aneurysms\\,\\ specifically\\ located\\ on\\ the\\ arteries\\ feeding\\ the\\ avm\\.\\ \\ treatment\\ options\\ include\\ endovascular\\ techniques\\ as\\ well\\ as\\ surgical\\ resection\\.\\ \\ endovascular\\ treatment\\ options\\ are\\ often\\ used\\ as\\ surgical\\ adjuncts\\.\\ \\ embolization\\ can\\ be\\ used\\ pre\\-operatively\\ to\\ shrink\\ the\\ avm\\,\\ reduce\\ intra\\-operative\\ bleeding\\,\\ and\\ decrease\\ surgical\\ time\\.\\ \\ embolization\\ is\\ also\\ important\\ in\\ patients\\ with\\ either\\ small\\ avms\\,\\ arterial\\ feeders\\,\\ or\\ avms\\ with\\ rebleeding\\ after\\ surgery\\.\\ \\ the\\ rebleeding\\ rate\\ of\\ a\\ ruptured\\ avm\\ is\\ 6\\%\\ for\\ the\\ first\\ year\\,\\ and\\ 2\\-4\\%\\ each\\ year\\ thereafter\\,\\ but\\ there\\ can\\ be\\ an\\ \\‚\\Ä\\úangiographic\\ cure\\‚\\Ä\\ù\\ with\\ embolization\\ of\\ any\\ remnant\\ arterial\\ feeders\\.\\ \\ treatment\\ itself\\ is\\ not\\ completely\\ benign\\,\\ with\\ one\\ study\\ indicating\\ that\\ the\\ overall\\ rate\\ of\\ new\\ neurological\\ deficits\\ after\\ surgical\\ resection\\ was\\ 32\\%\\ in\\ patients\\ with\\ unruptured\\ avms\\.\\ \\ arteriovenous\\ malformations\\ are\\ graded\\ based\\ on\\ the\\ spetzler\\-martin\\ grading\\ system\\,\\ which\\ predicts\\ surgical\\ resectability\\ based\\ on\\ size\\ of\\ avm\\,\\ pattern\\ of\\ venous\\ drainage\\,\\ and\\ eloquence\\ of\\ adjacent\\ brain\\.\\ \\ high\\ grade\\ avms\\ are\\ more\\ difficult\\ to\\ resect\\,\\ and\\,\\ therefore\\,\\ may\\ result\\ in\\ neurological\\ deficits\\ due\\ to\\ the\\ surgery\\ itself\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ avms\\:\\ 0\\.08272867308287848\ \(0\)\
+\-\ avm\\:\\ 0\\.0424019405792005\ \(0\)\
+\-\ arteriovenous\\:\\ 0\\.03737320903066806\ \(0\)\
+\-\ 12\\/14\\/09\\:\\ 0\\.03673132676652707\ \(0\)\
+\-\ rebleeding\\:\\ 0\\.03384321351419397\ \(0\)\
+\-\ feeders\\:\\ 0\\.032153775563743284\ \(0\)\
+\-\ intubated\\:\\ 0\\.03173655503551956\ \(0\)\
+\-\ neurological\\:\\ 0\\.03081270509624786\ \(0\)\
+\-\ parietal\\:\\ 0\\.030422770417024868\ \(0\)\
+\-\ \\%\\:\\ 0\\.02906926506962928\ \(0\)\
+\-\ embolization\\:\\ 0\\.02487022823134388\ \(0\)\
+\-\ deficits\\:\\ 0\\.02443902278455043\ \(0\)\
+\-\ intracranial\\:\\ 0\\.022571948355560645\ \(0\)\
+\-\ surgical\\:\\ 0\\.022452772128143172\ \(0\)\
+\-\ endovascular\\:\\ 0\\.022290760504861548\ \(0\)\
+\-\ malformation\\:\\ 0\\.021302166578164874\ \(0\)\
+\-\ rate\\:\\ 0\\.02081700931547402\ \(0\)\
+\-\ bleed\\:\\ 0\\.02034871996350905\ \(0\)\
+\-\ itself\\:\\ 0\\.02003410516139178\ \(0\)\
+\-\ pt\\:\\ 0\\.019857273466454703\ \(0\)\
+\-\ due\\:\\ 0\\.01900230960794033\ \(0\)\
+\-\ was\\:\\ 0\\.018530203541506626\ \(0\)\
+\-\ each\\:\\ 0\\.018421121955391914\ \(0\)\
+\-\ ct\\-angiography\\:\\ 0\\.018365663383263536\ \(0\)\
+\-\ predicts\\:\\ 0\\.018365663383263536\ \(0\)\
+\-\ eloquence\\:\\ 0\\.018365663383263536\ \(0\)\
+\-\ hemorrhage\\:\\ 0\\.017776603651100224\ \(0\)\
+\-\ options\\:\\ 0\\.01730033054106013\ \(0\)\
+\-\ 12\\-year\\-old\\:\\ 0\\.016921606757096985\ \(0\)\
+\-\ spetzler\\-martin\\:\\ 0\\.016921606757096985\ \(0\)\
+\-\ resectability\\:\\ 0\\.016921606757096985\ \(0\)\
+\-\ resection\\:\\ 0\\.016655722847001366\ \(0\)\
+\-\ \\‚\\Ä\\¢\\:\\ 0\\.016323066162457163\ \(0\)\
+\-\ unilaterally\\:\\ 0\\.016076887781871642\ \(0\)\
+\-\ hemorrhage\\/hematoma\\:\\ 0\\.016076887781871642\ \(0\)\
+\-\ adjuncts\\:\\ 0\\.016076887781871642\ \(0\)\
+\-\ arterial\\:\\ 0\\.015584769203052797\ \(0\)\
+\-\ pre\\-operatively\\:\\ 0\\.015477550130930433\ \(0\)\
+\-\ head\\:\\ 0\\.015147508191086852\ \(0\)\
+\-\ unruptured\\:\\ 0\\.015012667732359162\ \(0\)\
+\-\ she\\:\\ 0\\.014992413384088576\ \(0\)\
+\-\ shrink\\:\\ 0\\.014311683906064968\ \(0\)\
+\-\ intra\\-operative\\:\\ 0\\.014311683906064968\ \(0\)\
+\-\ resect\\:\\ 0\\.014311683906064968\ \(0\)\
+\-\ \\:\\:\\ 0\\.014128435199883313\ \(0\)\
+\-\ \\,\\:\\ 0\\.014099482579025385\ \(0\)\
+\-\ appointments\\:\\ 0\\.01403349350476388\ \(0\)\
+\-\ patients\\:\\ 0\\.013822341246037663\ \(0\)\
+\-\ arrhythmia\\:\\ 0\\.013788112180479746\ \(0\)\
+\-\ syncopal\\:\\ 0\\.013788112180479746\ \(0\)\
+\-\ used\\:\\ 0\\.01365910065394984\ \(0\)\
+\-\ based\\:\\ 0\\.013577876509445669\ \(0\)\
+\-\ transported\\:\\ 0\\.01356861110619261\ \(0\)\
+\-\ bleeds\\:\\ 0\\.01356861110619261\ \(0\)\
+\-\ lungs\\:\\ 0\\.013482452491584482\ \(0\)\
+\-\ cure\\:\\ 0\\.013370048231600266\ \(0\)\
+\-\ grading\\:\\ 0\\.013370048231600266\ \(0\)\
+\-\ 2\\-4\\:\\ 0\\.013188774529538537\ \(0\)\
+\-\ remnant\\:\\ 0\\.013022018888552003\ \(0\)\
+\-\ risk\\:\\ 0\\.012896694363996193\ \(0\)\
+\-\ hematoma\\:\\ 0\\.012670695326758708\ \(0\)\
+\-\ associated\\:\\ 0\\.012602891011923138\ \(0\)\
+\-\ perrl\\:\\ 0\\.012589436878597326\ \(0\)\
+\-\ thereafter\\:\\ 0\\.012589436878597326\ \(0\)\
+\-\ localize\\:\\ 0\\.012344055554313196\ \(0\)\
+\-\ yearly\\:\\ 0\\.012022908304673072\ \(0\)\
+\-\ angiographic\\:\\ 0\\.012022908304673072\ \(0\)\
+\-\ scars\\:\\ 0\\.011925991605433712\ \(0\)\
+\-\ gcs\\:\\ 0\\.011925991605433712\ \(0\)\
+\-\ intraparenchymal\\:\\ 0\\.011833383766744476\ \(0\)\
+\-\ score\\:\\ 0\\.011499336579087853\ \(0\)\
+\-\ evacuation\\:\\ 0\\.011423570653731863\ \(0\)\
+\-\ school\\:\\ 0\\.011423570653731863\ \(0\)\
+\-\ graded\\:\\ 0\\.011423570653731863\ \(0\)\
+\-\ mainly\\:\\ 0\\.011350463737458382\ \(0\)\
+\-\ treatment\\:\\ 0\\.010810105997505544\ \(0\)\
+\-\ craniotomy\\:\\ 0\\.010680497853859503\ \(0\)\
+\-\ aneurysms\\:\\ 0\\.010680497853859503\ \(0\)\
+\-\ for\\:\\ 0\\.010632827167706263\ \(0\)\
+\-\ gallops\\:\\ 0\\.010629054910962896\ \(0\)\
+\-\ techniques\\:\\ 0\\.010629054910962896\ \(0\)\
+\-\ on\\:\\ 0\\.01055674393032916\ \(0\)\
+\-\ post\\-op\\:\\ 0\\.010435116529575373\ \(0\)\
+\-\ way\\:\\ 0\\.010435116529575373\ \(0\)\
+\-\ clot\\:\\ 0\\.010389327140577923\ \(0\)\
+\-\ speech\\:\\ 0\\.010257704428866398\ \(0\)\
+\-\ rubs\\:\\ 0\\.010215615455288233\ \(0\)\
+\-\ time\\:\\ 0\\.010056671780163803\ \(0\)\
+\-\ questionable\\:\\ 0\\.0100552799529213\ \(0\)\
+\-\ reduce\\:\\ 0\\.0100552799529213\ \(0\)\
+\-\ specifically\\:\\ 0\\.00997951402756531\ \(0\)\
+\-\ malformations\\:\\ 0\\.009942639908608225\ \(0\)\
+\-\ cv\\:\\ 0\\.009870793708459955\ \(0\)\
+\-\ to\\:\\ 0\\.009786977485151768\ \(0\)\
+\-\ trauma\\:\\ 0\\.009737536590658038\ \(0\)\
+\-\ are\\:\\ 0\\.009707282271080014\ \(0\)\
+\-\ mortality\\:\\ 0\\.00970132362626422\ \(0\)\
+\-\ brought\\:\\ 0\\.009669023237647626\ \(0\)\
+\-\ 2\\-3\\:\\ 0\\.009605887092865693\ \(0\)\
+\-\ murmurs\\:\\ 0\\.009575022330813315\ \(0\)\
+\-\ up\\:\\ 0\\.009574363129392596\ \(0\)\
+\-\ abd\\:\\ 0\\.00942720621420439\ \(0\)\
+\-\ musculoskeletal\\:\\ 0\\.009316068754401696\ \(0\)\
+\-\ here\\:\\ 0\\.009289186660993555\ \(0\)\
+\-\ ruptured\\:\\ 0\\.009262647023957243\ \(0\)\
+\-\ experienced\\:\\ 0\\.009236441227692951\ \(0\)\
+\-\ indicating\\:\\ 0\\.009184998284796344\ \(0\)\
+\-\ feeding\\:\\ 0\\.009134795052339967\ \(0\)\
+\-\ rrr\\:\\ 0\\.009085773182735396\ \(0\)\
+\-\ 32\\:\\ 0\\.008878419859095744\ \(0\)\
+\-\ overall\\:\\ 0\\.00885660465103888\ \(0\)\
+\-\ episode\\:\\ 0\\.008813647802699845\ \(0\)\
+\-\ non\\-contrast\\:\\ 0\\.008689849010052346\ \(0\)\
+\-\ surgery\\:\\ 0\\.008645829434834478\ \(0\)\
+\-\ heent\\:\\ 0\\.008611223326754746\ \(0\)\
+\-\ completely\\:\\ 0\\.00855414213052951\ \(0\)\
+\-\ our\\:\\ 0\\.008462350485125279\ \(0\)\
+\-\ therefore\\:\\ 0\\.008409156105947852\ \(0\)\
+\-\ or\\:\\ 0\\.008346022908030895\ \(0\)\
+\-\ discharged\\:\\ 0\\.00816183046669914\ \(0\)\
+\-\ decrease\\:\\ 0\\.008146340928183476\ \(0\)\
+\-\ as\\:\\ 0\\.008078609411838298\ \(0\)\
+\-\ can\\:\\ 0\\.008075926468621123\ \(0\)\
+\-\ healthy\\:\\ 0\\.00802640373688873\ \(0\)\
+\-\ important\\:\\ 0\\.007997468086554008\ \(0\)\
+\-\ left\\:\\ 0\\.007967543910607623\ \(0\)\
+\-\ seizure\\:\\ 0\\.007872012128235144\ \(0\)\
+\-\ admission\\:\\ 0\\.007845130034827003\ \(0\)\
+\-\ child\\:\\ 0\\.007792384601526398\ \(0\)\
+\-\ difficult\\:\\ 0\\.007792384601526398\ \(0\)\
+\-\ either\\:\\ 0\\.00775368379824945\ \(0\)\
+\-\ bleeding\\:\\ 0\\.007728276979303995\ \(0\)\
+\-\ admitted\\:\\ 0\\.007690738426173415\ \(0\)\
+\-\ room\\:\\ 0\\.0076538643072163294\ \(0\)\
+\-\ previously\\:\\ 0\\.007478691146361035\ \(0\)\
+\-\ outside\\:\\ 0\\.007467520431483149\ \(0\)\
+\-\ drainage\\:\\ 0\\.007445357101889282\ \(0\)\
+\-\ an\\:\\ 0\\.007385405401779562\ \(0\)\
+\-\ arteries\\:\\ 0\\.007369591176533294\ \(0\)\
+\-\ after\\:\\ 0\\.007366671677538343\ \(0\)\
+\-\ located\\:\\ 0\\.007327502202955128\ \(0\)\
+\-\ increasing\\:\\ 0\\.0072964842602598135\ \(0\)\
+\-\ upon\\:\\ 0\\.00727605926005852\ \(0\)\
+\-\ no\\:\\ 0\\.007170367922531683\ \(0\)\
+\-\ nausea\\:\\ 0\\.007167166700588193\ \(0\)\
+\-\ sounds\\:\\ 0\\.007100722192721624\ \(0\)\
+\-\ is\\:\\ 0\\.0070286347298090706\ \(0\)\
+\-\ system\\:\\ 0\\.007009333271668329\ \(0\)\
+\-\ subsequent\\:\\ 0\\.006930376453770441\ \(0\)\
+\-\ result\\:\\ 0\\.00682955032697492\ \(0\)\
+\-\ pattern\\:\\ 0\\.006805088206398496\ \(0\)\
+\-\ vomiting\\:\\ 0\\.006796997581343501\ \(0\)\
+\-\ cardiac\\:\\ 0\\.006780909985314522\ \(0\)\
+\-\ grade\\:\\ 0\\.006780909985314522\ \(0\)\
+\-\ 50\\:\\ 0\\.006772912534674593\ \(0\)\
+\-\ emergency\\:\\ 0\\.006741226245792241\ \(0\)\
+\-\ hospital\\:\\ 0\\.006702284302016924\ \(0\)\
+\-\ occur\\:\\ 0\\.006679263809961538\ \(0\)\
+\-\ \\‚\\Ä\\ú\\:\\ 0\\.006648960245373249\ \(0\)\
+\-\ which\\:\\ 0\\.0066464357801772865\ \(0\)\
+\-\ \\‚\\Ä\\ù\\:\\ 0\\.006611690318809134\ \(0\)\
+\-\ clear\\:\\ 0\\.006582347110722178\ \(0\)\
+\-\ abnormality\\:\\ 0\\.006567829049646983\ \(0\)\
+\-\ congenital\\:\\ 0\\.0065107478534217455\ \(0\)\
+\-\ venous\\:\\ 0\\.006462053371785685\ \(0\)\
+\-\ 20\\:\\ 0\\.006401073408660449\ \(0\)\
+\-\ then\\:\\ 0\\.006335347663379354\ \(0\)\
+\-\ effect\\:\\ 0\\.006303246360560927\ \(0\)\
+\-\ signs\\:\\ 0\\.006265366529137614\ \(0\)\
+\-\ girl\\:\\ 0\\.006259119647895412\ \(0\)\
+\-\ new\\:\\ 0\\.00620372495166783\ \(0\)\
+\-\ cerebral\\:\\ 0\\.006167596878675147\ \(0\)\
+\-\ benign\\:\\ 0\\.006143854931319169\ \(0\)\
+\-\ neoplasm\\:\\ 0\\.006062826199816517\ \(0\)\
+\-\ masses\\:\\ 0\\.006017900829158515\ \(0\)\
+\-\ this\\:\\ 0\\.006007107583213332\ \(0\)\
+\-\ three\\:\\ 0\\.00600130047572273\ \(0\)\
+\-\ 10\\:\\ 0\\.00600130047572273\ \(0\)\
+\-\ first\\:\\ 0\\.005973923822470526\ \(0\)\
+\-\ followed\\:\\ 0\\.0059684913987057735\ \(0\)\
+\-\ size\\:\\ 0\\.0059684913987057735\ \(0\)\
+\-\ initial\\:\\ 0\\.005899129465165225\ \(0\)\
+\-\ study\\:\\ 0\\.005857565326791581\ \(0\)\
+\-\ bilaterally\\:\\ 0\\.005847302580258132\ \(0\)\
+\-\ showed\\:\\ 0\\.005837090141507701\ \(0\)\
+\-\ revealed\\:\\ 0\\.005713487270554361\ \(0\)\
+\-\ often\\:\\ 0\\.005680153226082609\ \(0\)\
+\-\ adjacent\\:\\ 0\\.005628825508613057\ \(0\)\
+\-\ any\\:\\ 0\\.0056059063189006116\ \(0\)\
+\-\ will\\:\\ 0\\.005569752121623212\ \(0\)\
+\-\ approximately\\:\\ 0\\.0055079538053241315\ \(0\)\
+\-\ be\\:\\ 0\\.005490653013933038\ \(0\)\
+\-\ days\\:\\ 0\\.00545640478369162\ \(0\)\
+\-\ brain\\:\\ 0\\.0053569823402140875\ \(0\)\
+\-\ 6\\:\\ 0\\.005316917002864322\ \(0\)\
+\-\ the\\:\\ 0\\.0051843481763859675\ \(0\)\
+\-\ region\\:\\ 0\\.0050283358900819015\ \(0\)\
+\-\ include\\:\\ 0\\.004994069766729764\ \(0\)\
+\-\ a\\:\\ 0\\.004957497522732516\ \(0\)\
+\-\ low\\:\\ 0\\.0049503501101383325\ \(0\)\
+\-\ high\\:\\ 0\\.0048719709605766996\ \(0\)\
+\-\ one\\:\\ 0\\.0048244403818971755\ \(0\)\
+\-\ at\\:\\ 0\\.00482401313679847\ \(0\)\
+\-\ lobe\\:\\ 0\\.004790261141507363\ \(0\)\
+\-\ therapy\\:\\ 0\\.004759668325501277\ \(0\)\
+\-\ who\\:\\ 0\\.004641600852378545\ \(0\)\
+\-\ more\\:\\ 0\\.004452450644400347\ \(0\)\
+\-\ increased\\:\\ 0\\.004355176628749282\ \(0\)\
+\-\ soft\\:\\ 0\\.004335264091653229\ \(0\)\
+\-\ noted\\:\\ 0\\.004219627475942903\ \(0\)\
+\-\ small\\:\\ 0\\.00410119850912733\ \(0\)\
+\-\ well\\:\\ 0\\.004027251985351356\ \(0\)\
+\-\ year\\:\\ 0\\.003983771955303811\ \(0\)\
+\-\ exam\\:\\ 0\\.003910904041561538\ \(0\)\
+\-\ may\\:\\ 0\\.003904850768537758\ \(0\)\
+\-\ but\\:\\ 0\\.003796881877153203\ \(0\)\
+\-\ and\\:\\ 0\\.0037501876194212178\ \(0\)\
+\-\ seen\\:\\ 0\\.003517974198057688\ \(0\)\
+\-\ in\\:\\ 0\\.0035116435845021243\ \(0\)\
+\-\ also\\:\\ 0\\.003509624153479482\ \(0\)\
+\-\ with\\:\\ 0\\.003412621802621784\ \(0\)\
+\-\ that\\:\\ 0\\.0030749598511642154\ \(0\)\
+\-\ of\\:\\ 0\\.0029125950199497107\ \(0\)\
+\-\ there\\:\\ 0\\.0026494074093020596\ \(0\)\
+\-\ not\\:\\ 0\\.0025725388994623653\ \(0\)\
+\-\ ct\\:\\ 0\\.002490215944566756\ \(0\)\
+\-\ mass\\:\\ 0\\.0024759604311407595\ \(0\)\
+\-\ pain\\:\\ 0\\.0021741836823556972\ \(0\)\
+\-\ patient\\:\\ 0\\.001784566522742475\ \(0\)\
+\-\ \\.\\:\\ 0\\.0015531047042588995\ \(0\)\
+\-\ \\(\\:\\ 0\\.0015049202630080427\ \(0\)\
+\-\ \\)\\:\\ 0\\.0014865368585693856\ \(0\)\

@@ -1,68 +1,66 @@
-Texto: 
-tender to palpation in the right lower quadrant, laboratory findings were remarkable for a mildly elevated wbc.
-patient underwent an appendectomy.
-axial ct images and coronal reformatted images demonstrate an enlarged blind ending tubular structure in the right lower quadrant with surrounding mesenteric stranding.
-acute appendicitis
-appendicitis
-diverticulitis
-inflammatory bowel disease
-right lower quadrant pain, nausea and vomiting for 6 hours.
-this case illustrates the classic ct findings of acute appendicitis.
-
-
-Keywords by value: 
-- appendicitis: 0.14954864380035746
-- quadrant: 0.1156683051533098
-- reformatted: 0.07596341879577351
-- ending: 0.07527024929230844
-- lower: 0.07391777189861011
-- blind: 0.06858695539957399
-- illustrates: 0.06638374697743733
-- appendectomy: 0.06479895267016583
-- remarkable: 0.05950168146244693
-- diverticulitis: 0.05621412339901518
-- acute: 0.05409946997708962
-- stranding: 0.052992143549259976
-- tubular: 0.051015852782243847
-- mesenteric: 0.05051693718929932
-- structure: 0.049756980651741105
-- mildly: 0.04665857296657268
-- findings: 0.04663684450743486
-- coronal: 0.04561568015306047
-- tender: 0.044466806323705504
-- nausea: 0.044105641234388884
-- hours: 0.043079452674471753
-- images: 0.04203240748588087
-- classic: 0.04197762665138554
-- vomiting: 0.041827677423652315
-- laboratory: 0.04037297097248802
-- wbc: 0.03993685705866425
-- inflammatory: 0.03799123005374389
-- underwent: 0.037592256865105374
-- enlarged: 0.03737975731261547
-- elevated: 0.03717072258152645
-- palpation: 0.036563321542923743
-- surrounding: 0.03601493928672776
-- right: 0.03467814265809295
-- bowel: 0.03435837862672768
-- 6: 0.03271948924839582
-- axial: 0.03126655738548553
-- ct: 0.030648811625436995
-- an: 0.03029909908422384
-- demonstrate: 0.025210924888885135
-- were: 0.024875465854998988
-- case: 0.023968005549580392
-- for: 0.018695080734428594
-- disease: 0.01790689155404749
-- pain: 0.013379591891419676
-- this: 0.012322271965565807
-- patient: 0.010981947832261384
-- in: 0.01080505718308346
-- ,: 0.006941283731212496
-- to: 0.005475232159525465
-- the: 0.0053172801809086845
-- a: 0.005084612843828221
-- and: 0.004615615531595345
-- .: 0.0022756112882914275
-- with: 0.001500053539613971
-- of: 0.0014936384717690824
+\-\ Texto\\:\\ \ \(0\)\
+\-\ tender\\ to\\ palpation\\ in\\ the\\ right\\ lower\\ quadrant\\,\\ laboratory\\ findings\\ were\\ remarkable\\ for\\ a\\ mildly\\ elevated\\ wbc\\.\ \(0\)\
+\-\ patient\\ underwent\\ an\\ appendectomy\\.\ \(0\)\
+\-\ axial\\ ct\\ images\\ and\\ coronal\\ reformatted\\ images\\ demonstrate\\ an\\ enlarged\\ blind\\ ending\\ tubular\\ structure\\ in\\ the\\ right\\ lower\\ quadrant\\ with\\ surrounding\\ mesenteric\\ stranding\\.\ \(0\)\
+\-\ acute\\ appendicitis\ \(36\)\
+\-\ appendicitis\ \(180\)\
+\-\ diverticulitis\ \(62\)\
+\-\ inflammatory\\ bowel\\ disease\ \(31\)\
+\-\ right\\ lower\\ quadrant\\ pain\\,\\ nausea\\ and\\ vomiting\\ for\\ 6\\ hours\\.\ \(0\)\
+\-\ this\\ case\\ illustrates\\ the\\ classic\\ ct\\ findings\\ of\\ acute\\ appendicitis\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ appendicitis\\:\\ 0\\.14954864380035746\ \(0\)\
+\-\ quadrant\\:\\ 0\\.1156683051533098\ \(0\)\
+\-\ reformatted\\:\\ 0\\.07596341879577351\ \(0\)\
+\-\ ending\\:\\ 0\\.07527024929230844\ \(0\)\
+\-\ lower\\:\\ 0\\.07391777189861011\ \(0\)\
+\-\ blind\\:\\ 0\\.06858695539957399\ \(0\)\
+\-\ illustrates\\:\\ 0\\.06638374697743733\ \(0\)\
+\-\ appendectomy\\:\\ 0\\.06479895267016583\ \(0\)\
+\-\ remarkable\\:\\ 0\\.05950168146244693\ \(0\)\
+\-\ diverticulitis\\:\\ 0\\.05621412339901518\ \(0\)\
+\-\ acute\\:\\ 0\\.05409946997708962\ \(0\)\
+\-\ stranding\\:\\ 0\\.052992143549259976\ \(0\)\
+\-\ tubular\\:\\ 0\\.051015852782243847\ \(0\)\
+\-\ mesenteric\\:\\ 0\\.05051693718929932\ \(0\)\
+\-\ structure\\:\\ 0\\.049756980651741105\ \(0\)\
+\-\ mildly\\:\\ 0\\.04665857296657268\ \(0\)\
+\-\ findings\\:\\ 0\\.04663684450743486\ \(0\)\
+\-\ coronal\\:\\ 0\\.04561568015306047\ \(0\)\
+\-\ tender\\:\\ 0\\.044466806323705504\ \(0\)\
+\-\ nausea\\:\\ 0\\.044105641234388884\ \(0\)\
+\-\ hours\\:\\ 0\\.043079452674471753\ \(0\)\
+\-\ images\\:\\ 0\\.04203240748588087\ \(0\)\
+\-\ classic\\:\\ 0\\.04197762665138554\ \(0\)\
+\-\ vomiting\\:\\ 0\\.041827677423652315\ \(0\)\
+\-\ laboratory\\:\\ 0\\.04037297097248802\ \(0\)\
+\-\ wbc\\:\\ 0\\.03993685705866425\ \(0\)\
+\-\ inflammatory\\:\\ 0\\.03799123005374389\ \(0\)\
+\-\ underwent\\:\\ 0\\.037592256865105374\ \(0\)\
+\-\ enlarged\\:\\ 0\\.03737975731261547\ \(0\)\
+\-\ elevated\\:\\ 0\\.03717072258152645\ \(0\)\
+\-\ palpation\\:\\ 0\\.036563321542923743\ \(0\)\
+\-\ surrounding\\:\\ 0\\.03601493928672776\ \(0\)\
+\-\ right\\:\\ 0\\.03467814265809295\ \(0\)\
+\-\ bowel\\:\\ 0\\.03435837862672768\ \(0\)\
+\-\ 6\\:\\ 0\\.03271948924839582\ \(0\)\
+\-\ axial\\:\\ 0\\.03126655738548553\ \(0\)\
+\-\ ct\\:\\ 0\\.030648811625436995\ \(0\)\
+\-\ an\\:\\ 0\\.03029909908422384\ \(0\)\
+\-\ demonstrate\\:\\ 0\\.025210924888885135\ \(0\)\
+\-\ were\\:\\ 0\\.024875465854998988\ \(0\)\
+\-\ case\\:\\ 0\\.023968005549580392\ \(0\)\
+\-\ for\\:\\ 0\\.018695080734428594\ \(0\)\
+\-\ disease\\:\\ 0\\.01790689155404749\ \(0\)\
+\-\ pain\\:\\ 0\\.013379591891419676\ \(0\)\
+\-\ this\\:\\ 0\\.012322271965565807\ \(0\)\
+\-\ patient\\:\\ 0\\.010981947832261384\ \(0\)\
+\-\ in\\:\\ 0\\.01080505718308346\ \(0\)\
+\-\ \\,\\:\\ 0\\.006941283731212496\ \(0\)\
+\-\ to\\:\\ 0\\.005475232159525465\ \(0\)\
+\-\ the\\:\\ 0\\.0053172801809086845\ \(0\)\
+\-\ a\\:\\ 0\\.005084612843828221\ \(0\)\
+\-\ and\\:\\ 0\\.004615615531595345\ \(0\)\
+\-\ \\.\\:\\ 0\\.0022756112882914275\ \(0\)\
+\-\ with\\:\\ 0\\.001500053539613971\ \(0\)\
+\-\ of\\:\\ 0\\.0014936384717690824\ \(0\)\

@@ -1,85 +1,83 @@
-Texto: 
-c3 nml
-c4 5.0 mg/dl (15-41)
-wbc 9.27 k/ul
-lactate 0.9mmol/l (1-2.4)
-treatment is with high dose corticosteroids.  surgery is reserved for complications such as bowel perforation or necrosis.
-contrast enhanced ct imaages of the abdomen show thickening of the wall of the jejunum with marked mucosal enhancement.  there is increased density of the small bowel mesentary and omentum consistent with inflammation.  the distal small bowel and colon were spared.
-lupus enteritis
-inflammatory bowel disease
-lupus enteritis
-radiation enteritis
-ischemic bowel
-19 y/o woman with lupus presents to emergency room with abdominal pain.
-the patient responded well to high dose corticosteroids with resolution of pain within days.
-
-
-Keywords by value: 
-- enteritis: 0.3766119266618048
-- bowel: 0.3369299756242721
-- lupus: 0.3282665993830083
-- corticosteroids: 0.22744488673775745
-- dose: 0.19611363207923385
-- imaages: 0.1679219291325467
-- mesentary: 0.1510553929845796
-- omentum: 0.13829635093592393
-- responded: 0.13210276963651332
-- lactate: 0.12747672274805938
-- the: 0.12571087517690197
-- nml: 0.12463920849292531
-- jejunum: 0.12463920849292531
-- spared: 0.12463920849292531
-- with: 0.12336486663033905
-- reserved: 0.12218124184299174
-- high: 0.11935313379476756
-- small: 0.10832769847447839
-- c4: 0.10441660530068166
-- of: 0.10274266680634798
-- c3: 0.10145429458997621
-- perforation: 0.09912112439561399
-- mucosal: 0.09890328272074898
-- ischemic: 0.09286503910850703
-- is: 0.08626698129496861
-- room: 0.0859289469115088
-- resolution: 0.08519465099469509
-- inflammation: 0.08438982743072959
-- 19: 0.08315268864198984
-- complications: 0.08042066124683266
-- necrosis: 0.08026265678578172
-- enhanced: 0.07995065937268271
-- colon: 0.07995065937268271
-- marked: 0.0794170739925128
-- emergency: 0.07790328387284533
-- pain: 0.07514754991436812
-- wbc: 0.07421574882567912
-- thickening: 0.07143496005978235
-- inflammatory: 0.07100182462433281
-- density: 0.06962749950017767
-- radiation: 0.06958340988223655
-- such: 0.06754298888409645
-- show: 0.06665803194385714
-- days: 0.0664711531134501
-- abdomen: 0.06406905117009848
-- wall: 0.0638742619800123
-- distal: 0.0610090882054889
-- enhancement: 0.060437637228649095
-- abdominal: 0.05742867739984735
-- consistent: 0.056934790520386684
-- increased: 0.05678038356727646
-- surgery: 0.05645380953690016
-- woman: 0.054685668936797556
-- were: 0.054125778061951034
-- to: 0.05250086016099482
-- contrast: 0.051018592902699375
-- well: 0.050842750077339245
-- presents: 0.05051164432735788
-- treatment: 0.05001828396263957
-- within: 0.048360934484285384
-- disease: 0.04407633829299531
-- and: 0.043394980909536786
-- as: 0.04218324904656216
-- there: 0.04178018692176577
-- ct: 0.039975454862345335
-- or: 0.03652851581133293
-- patient: 0.034152056754732256
-- for: 0.031825465634135415
+\-\ Texto\\:\\ \ \(0\)\
+\-\ c3\\ nml\ \(0\)\
+\-\ c4\\ 5\\.0\\ mg\\/dl\\ \\(15\\-41\\)\ \(0\)\
+\-\ wbc\\ 9\\.27\\ k\\/ul\ \(0\)\
+\-\ lactate\\ 0\\.9mmol\\/l\\ \\(1\\-2\\.4\\)\ \(0\)\
+\-\ treatment\\ is\\ with\\ high\\ dose\\ corticosteroids\\.\\ \\ surgery\\ is\\ reserved\\ for\\ complications\\ such\\ as\\ bowel\\ perforation\\ or\\ necrosis\\.\ \(0\)\
+\-\ contrast\\ enhanced\\ ct\\ imaages\\ of\\ the\\ abdomen\\ show\\ thickening\\ of\\ the\\ wall\\ of\\ the\\ jejunum\\ with\\ marked\\ mucosal\\ enhancement\\.\\ \\ there\\ is\\ increased\\ density\\ of\\ the\\ small\\ bowel\\ mesentary\\ and\\ omentum\\ consistent\\ with\\ inflammation\\.\\ \\ the\\ distal\\ small\\ bowel\\ and\\ colon\\ were\\ spared\\.\ \(0\)\
+\-\ lupus\\ enteritis\ \(0\)\
+\-\ inflammatory\\ bowel\\ disease\ \(31\)\
+\-\ lupus\\ enteritis\ \(0\)\
+\-\ radiation\\ enteritis\ \(0\)\
+\-\ ischemic\\ bowel\ \(6\)\
+\-\ 19\\ y\\/o\\ woman\\ with\\ lupus\\ presents\\ to\\ emergency\\ room\\ with\\ abdominal\\ pain\\.\ \(1\)\
+\-\ the\\ patient\\ responded\\ well\\ to\\ high\\ dose\\ corticosteroids\\ with\\ resolution\\ of\\ pain\\ within\\ days\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ enteritis\\:\\ 0\\.3766119266618048\ \(0\)\
+\-\ bowel\\:\\ 0\\.3369299756242721\ \(0\)\
+\-\ lupus\\:\\ 0\\.3282665993830083\ \(0\)\
+\-\ corticosteroids\\:\\ 0\\.22744488673775745\ \(0\)\
+\-\ dose\\:\\ 0\\.19611363207923385\ \(0\)\
+\-\ imaages\\:\\ 0\\.1679219291325467\ \(0\)\
+\-\ mesentary\\:\\ 0\\.1510553929845796\ \(0\)\
+\-\ omentum\\:\\ 0\\.13829635093592393\ \(0\)\
+\-\ responded\\:\\ 0\\.13210276963651332\ \(0\)\
+\-\ lactate\\:\\ 0\\.12747672274805938\ \(0\)\
+\-\ the\\:\\ 0\\.12571087517690197\ \(0\)\
+\-\ nml\\:\\ 0\\.12463920849292531\ \(0\)\
+\-\ jejunum\\:\\ 0\\.12463920849292531\ \(0\)\
+\-\ spared\\:\\ 0\\.12463920849292531\ \(0\)\
+\-\ with\\:\\ 0\\.12336486663033905\ \(0\)\
+\-\ reserved\\:\\ 0\\.12218124184299174\ \(0\)\
+\-\ high\\:\\ 0\\.11935313379476756\ \(0\)\
+\-\ small\\:\\ 0\\.10832769847447839\ \(0\)\
+\-\ c4\\:\\ 0\\.10441660530068166\ \(0\)\
+\-\ of\\:\\ 0\\.10274266680634798\ \(0\)\
+\-\ c3\\:\\ 0\\.10145429458997621\ \(0\)\
+\-\ perforation\\:\\ 0\\.09912112439561399\ \(0\)\
+\-\ mucosal\\:\\ 0\\.09890328272074898\ \(0\)\
+\-\ ischemic\\:\\ 0\\.09286503910850703\ \(0\)\
+\-\ is\\:\\ 0\\.08626698129496861\ \(0\)\
+\-\ room\\:\\ 0\\.0859289469115088\ \(0\)\
+\-\ resolution\\:\\ 0\\.08519465099469509\ \(0\)\
+\-\ inflammation\\:\\ 0\\.08438982743072959\ \(0\)\
+\-\ 19\\:\\ 0\\.08315268864198984\ \(0\)\
+\-\ complications\\:\\ 0\\.08042066124683266\ \(0\)\
+\-\ necrosis\\:\\ 0\\.08026265678578172\ \(0\)\
+\-\ enhanced\\:\\ 0\\.07995065937268271\ \(0\)\
+\-\ colon\\:\\ 0\\.07995065937268271\ \(0\)\
+\-\ marked\\:\\ 0\\.0794170739925128\ \(0\)\
+\-\ emergency\\:\\ 0\\.07790328387284533\ \(0\)\
+\-\ pain\\:\\ 0\\.07514754991436812\ \(0\)\
+\-\ wbc\\:\\ 0\\.07421574882567912\ \(0\)\
+\-\ thickening\\:\\ 0\\.07143496005978235\ \(0\)\
+\-\ inflammatory\\:\\ 0\\.07100182462433281\ \(0\)\
+\-\ density\\:\\ 0\\.06962749950017767\ \(0\)\
+\-\ radiation\\:\\ 0\\.06958340988223655\ \(0\)\
+\-\ such\\:\\ 0\\.06754298888409645\ \(0\)\
+\-\ show\\:\\ 0\\.06665803194385714\ \(0\)\
+\-\ days\\:\\ 0\\.0664711531134501\ \(0\)\
+\-\ abdomen\\:\\ 0\\.06406905117009848\ \(0\)\
+\-\ wall\\:\\ 0\\.0638742619800123\ \(0\)\
+\-\ distal\\:\\ 0\\.0610090882054889\ \(0\)\
+\-\ enhancement\\:\\ 0\\.060437637228649095\ \(0\)\
+\-\ abdominal\\:\\ 0\\.05742867739984735\ \(0\)\
+\-\ consistent\\:\\ 0\\.056934790520386684\ \(0\)\
+\-\ increased\\:\\ 0\\.05678038356727646\ \(0\)\
+\-\ surgery\\:\\ 0\\.05645380953690016\ \(0\)\
+\-\ woman\\:\\ 0\\.054685668936797556\ \(0\)\
+\-\ were\\:\\ 0\\.054125778061951034\ \(0\)\
+\-\ to\\:\\ 0\\.05250086016099482\ \(0\)\
+\-\ contrast\\:\\ 0\\.051018592902699375\ \(0\)\
+\-\ well\\:\\ 0\\.050842750077339245\ \(0\)\
+\-\ presents\\:\\ 0\\.05051164432735788\ \(0\)\
+\-\ treatment\\:\\ 0\\.05001828396263957\ \(0\)\
+\-\ within\\:\\ 0\\.048360934484285384\ \(0\)\
+\-\ disease\\:\\ 0\\.04407633829299531\ \(0\)\
+\-\ and\\:\\ 0\\.043394980909536786\ \(0\)\
+\-\ as\\:\\ 0\\.04218324904656216\ \(0\)\
+\-\ there\\:\\ 0\\.04178018692176577\ \(0\)\
+\-\ ct\\:\\ 0\\.039975454862345335\ \(0\)\
+\-\ or\\:\\ 0\\.03652851581133293\ \(0\)\
+\-\ patient\\:\\ 0\\.034152056754732256\ \(0\)\
+\-\ for\\:\\ 0\\.031825465634135415\ \(0\)\

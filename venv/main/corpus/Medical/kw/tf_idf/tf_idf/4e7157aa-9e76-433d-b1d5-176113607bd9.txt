@@ -1,85 +1,83 @@
-Texto: 
-no physical examination results were available.
-no post-treatment images are available.
-a miliary or micronodular pattern is seen throughout the lungs without focal mass. no lymphadenopathy is apparent.
-non-small cell lung cancer
-differential diagnosis includes silicosis, sarcoidosis, fungal diseases, tuberculosis, and hematogenous spread of metastases.
-54 y/o female with report of abnormal chest radiograph at another institution. a prior routine chest radiograph from four years earlier was reportedly normal.
-the widespread disseminated pattern suggests hematogenous spread of a primary lung adenocarcinoma (not detected radiographically) or of metastases from a distant adenocarcinoma.
-
-
-Keywords by value: 
-- hematogenous: 0.1051367915802318
-- spread: 0.07873118470175769
-- adenocarcinoma: 0.07031532275358551
-- metastases: 0.0695377609531997
-- post-treatment: 0.06862933820507046
-- micronodular: 0.06862933820507046
-- pattern: 0.0622179493156434
-- miliary: 0.062027936485451934
-- silicosis: 0.0564299682482889
-- non-small: 0.0554265347658334
-- available: 0.054718458073139
-- widespread: 0.05451881876769698
-- reportedly: 0.05409546864797475
-- radiograph: 0.05184664102707358
-- disseminated: 0.04956762391735499
-- distant: 0.04749406692835623
-- lung: 0.047145888004547554
-- radiographically: 0.044963560588041886
-- institution: 0.0443489080057793
-- 54: 0.042966222197736464
-- detected: 0.042966222197736464
-- diseases: 0.04099675159475856
-- suggests: 0.04068784420663329
-- earlier: 0.04019427213173247
-- fungal: 0.0394541865667104
-- chest: 0.03894721904871464
-- tuberculosis: 0.03876748852955475
-- sarcoidosis: 0.036758965393954644
-- report: 0.03642938892559774
-- apparent: 0.03598634115764638
-- four: 0.03532926619110398
-- another: 0.034989093975846076
-- lymphadenopathy: 0.03460699879689918
-- results: 0.03285278484709188
-- includes: 0.032808384722274625
-- routine: 0.0326328256585714
-- lungs: 0.030817034266478822
-- throughout: 0.030464260250475494
-- cancer: 0.026753954898712053
-- differential: 0.025837712660504095
-- examination: 0.025299267004519673
-- no: 0.0245841185915372
-- from: 0.02412258501246119
-- primary: 0.024108421551387586
-- years: 0.023897553685890312
-- focal: 0.023242796229889544
-- abnormal: 0.023210402288713444
-- y/o: 0.02253932409352039
-- cell: 0.021983244872204634
-- prior: 0.020896312116212987
-- physical: 0.019966716853154653
-- without: 0.019162030155792004
-- or: 0.01907662378978491
-- diagnosis: 0.018687803150289714
-- were: 0.018478917492284967
-- female: 0.016731050204265085
-- seen: 0.01608216776254943
-- images: 0.015612037066184326
-- a: 0.01510856387880386
-- normal: 0.012758213853324773
-- not: 0.01176017782611367
-- mass: 0.011318676256643472
-- are: 0.011094036881234302
-- at: 0.011026315741253649
-- is: 0.010710300540661442
-- ,: 0.010312764400658567
-- was: 0.009412166878225589
-- (: 0.0068796354880367675
-- ): 0.0067955970677457634
-- of: 0.00443824003039956
-- .: 0.0027047265597978116
-- the: 0.0026333197086404916
-- and: 0.0017143714831639855
-- with: 0.0011143254865703786
+\-\ Texto\\:\\ \ \(0\)\
+\-\ no\\ physical\\ examination\\ results\\ were\\ available\\.\ \(0\)\
+\-\ no\\ post\\-treatment\\ images\\ are\\ available\\.\ \(0\)\
+\-\ a\\ miliary\\ or\\ micronodular\\ pattern\\ is\\ seen\\ throughout\\ the\\ lungs\\ without\\ focal\\ mass\\.\\ no\\ lymphadenopathy\\ is\\ apparent\\.\ \(0\)\
+\-\ non\\-small\\ cell\\ lung\\ cancer\ \(9\)\
+\-\ differential\\ diagnosis\\ includes\\ silicosis\\,\\ sarcoidosis\\,\\ fungal\\ diseases\\,\\ tuberculosis\\,\\ and\\ hematogenous\\ spread\\ of\\ metastases\\.\ \(0\)\
+\-\ 54\\ y\\/o\\ female\\ with\\ report\\ of\\ abnormal\\ chest\\ radiograph\\ at\\ another\\ institution\\.\\ a\\ prior\\ routine\\ chest\\ radiograph\\ from\\ four\\ years\\ earlier\\ was\\ reportedly\\ normal\\.\ \(0\)\
+\-\ the\\ widespread\\ disseminated\\ pattern\\ suggests\\ hematogenous\\ spread\\ of\\ a\\ primary\\ lung\\ adenocarcinoma\\ \\(not\\ detected\\ radiographically\\)\\ or\\ of\\ metastases\\ from\\ a\\ distant\\ adenocarcinoma\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ hematogenous\\:\\ 0\\.1051367915802318\ \(0\)\
+\-\ spread\\:\\ 0\\.07873118470175769\ \(0\)\
+\-\ adenocarcinoma\\:\\ 0\\.07031532275358551\ \(0\)\
+\-\ metastases\\:\\ 0\\.0695377609531997\ \(0\)\
+\-\ post\\-treatment\\:\\ 0\\.06862933820507046\ \(0\)\
+\-\ micronodular\\:\\ 0\\.06862933820507046\ \(0\)\
+\-\ pattern\\:\\ 0\\.0622179493156434\ \(0\)\
+\-\ miliary\\:\\ 0\\.062027936485451934\ \(0\)\
+\-\ silicosis\\:\\ 0\\.0564299682482889\ \(0\)\
+\-\ non\\-small\\:\\ 0\\.0554265347658334\ \(0\)\
+\-\ available\\:\\ 0\\.054718458073139\ \(0\)\
+\-\ widespread\\:\\ 0\\.05451881876769698\ \(0\)\
+\-\ reportedly\\:\\ 0\\.05409546864797475\ \(0\)\
+\-\ radiograph\\:\\ 0\\.05184664102707358\ \(0\)\
+\-\ disseminated\\:\\ 0\\.04956762391735499\ \(0\)\
+\-\ distant\\:\\ 0\\.04749406692835623\ \(0\)\
+\-\ lung\\:\\ 0\\.047145888004547554\ \(0\)\
+\-\ radiographically\\:\\ 0\\.044963560588041886\ \(0\)\
+\-\ institution\\:\\ 0\\.0443489080057793\ \(0\)\
+\-\ 54\\:\\ 0\\.042966222197736464\ \(0\)\
+\-\ detected\\:\\ 0\\.042966222197736464\ \(0\)\
+\-\ diseases\\:\\ 0\\.04099675159475856\ \(0\)\
+\-\ suggests\\:\\ 0\\.04068784420663329\ \(0\)\
+\-\ earlier\\:\\ 0\\.04019427213173247\ \(0\)\
+\-\ fungal\\:\\ 0\\.0394541865667104\ \(0\)\
+\-\ chest\\:\\ 0\\.03894721904871464\ \(0\)\
+\-\ tuberculosis\\:\\ 0\\.03876748852955475\ \(0\)\
+\-\ sarcoidosis\\:\\ 0\\.036758965393954644\ \(0\)\
+\-\ report\\:\\ 0\\.03642938892559774\ \(0\)\
+\-\ apparent\\:\\ 0\\.03598634115764638\ \(0\)\
+\-\ four\\:\\ 0\\.03532926619110398\ \(0\)\
+\-\ another\\:\\ 0\\.034989093975846076\ \(0\)\
+\-\ lymphadenopathy\\:\\ 0\\.03460699879689918\ \(0\)\
+\-\ results\\:\\ 0\\.03285278484709188\ \(0\)\
+\-\ includes\\:\\ 0\\.032808384722274625\ \(0\)\
+\-\ routine\\:\\ 0\\.0326328256585714\ \(0\)\
+\-\ lungs\\:\\ 0\\.030817034266478822\ \(0\)\
+\-\ throughout\\:\\ 0\\.030464260250475494\ \(0\)\
+\-\ cancer\\:\\ 0\\.026753954898712053\ \(0\)\
+\-\ differential\\:\\ 0\\.025837712660504095\ \(0\)\
+\-\ examination\\:\\ 0\\.025299267004519673\ \(0\)\
+\-\ no\\:\\ 0\\.0245841185915372\ \(0\)\
+\-\ from\\:\\ 0\\.02412258501246119\ \(0\)\
+\-\ primary\\:\\ 0\\.024108421551387586\ \(0\)\
+\-\ years\\:\\ 0\\.023897553685890312\ \(0\)\
+\-\ focal\\:\\ 0\\.023242796229889544\ \(0\)\
+\-\ abnormal\\:\\ 0\\.023210402288713444\ \(0\)\
+\-\ y\\/o\\:\\ 0\\.02253932409352039\ \(0\)\
+\-\ cell\\:\\ 0\\.021983244872204634\ \(0\)\
+\-\ prior\\:\\ 0\\.020896312116212987\ \(0\)\
+\-\ physical\\:\\ 0\\.019966716853154653\ \(0\)\
+\-\ without\\:\\ 0\\.019162030155792004\ \(0\)\
+\-\ or\\:\\ 0\\.01907662378978491\ \(0\)\
+\-\ diagnosis\\:\\ 0\\.018687803150289714\ \(0\)\
+\-\ were\\:\\ 0\\.018478917492284967\ \(0\)\
+\-\ female\\:\\ 0\\.016731050204265085\ \(0\)\
+\-\ seen\\:\\ 0\\.01608216776254943\ \(0\)\
+\-\ images\\:\\ 0\\.015612037066184326\ \(0\)\
+\-\ a\\:\\ 0\\.01510856387880386\ \(0\)\
+\-\ normal\\:\\ 0\\.012758213853324773\ \(0\)\
+\-\ not\\:\\ 0\\.01176017782611367\ \(0\)\
+\-\ mass\\:\\ 0\\.011318676256643472\ \(0\)\
+\-\ are\\:\\ 0\\.011094036881234302\ \(0\)\
+\-\ at\\:\\ 0\\.011026315741253649\ \(0\)\
+\-\ is\\:\\ 0\\.010710300540661442\ \(0\)\
+\-\ \\,\\:\\ 0\\.010312764400658567\ \(0\)\
+\-\ was\\:\\ 0\\.009412166878225589\ \(0\)\
+\-\ \\(\\:\\ 0\\.0068796354880367675\ \(0\)\
+\-\ \\)\\:\\ 0\\.0067955970677457634\ \(0\)\
+\-\ of\\:\\ 0\\.00443824003039956\ \(0\)\
+\-\ \\.\\:\\ 0\\.0027047265597978116\ \(0\)\
+\-\ the\\:\\ 0\\.0026333197086404916\ \(0\)\
+\-\ and\\:\\ 0\\.0017143714831639855\ \(0\)\
+\-\ with\\:\\ 0\\.0011143254865703786\ \(0\)\

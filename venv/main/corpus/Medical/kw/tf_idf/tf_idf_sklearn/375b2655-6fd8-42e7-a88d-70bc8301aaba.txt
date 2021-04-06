@@ -1,67 +1,65 @@
-Texto: 
-poorly defined left lower quadrant tenderness to palpation.  no signinficant laboratory abnormalities.
-axial ct images show an elarged right ovarian vein with a low density central filling defect consistent with thrombis.
-ovarian vein thrombosis
-ovarian vein thrombosis.
-28 year old woman with left lower quadrant pain.
-the cause of ovarian vein thrombosis in this patient is currently under investigation, to include gynecologic infection.  no other findings were present on the ct to explain this finding or the patient's symptoms.
-
-
-Keywords by value: 
-- ovarian: 0.4484449956279824
-- vein: 0.3772985409088128
-- thrombosis: 0.32187237791009365
-- signinficant: 0.21044666480217952
-- elarged: 0.21044666480217952
-- thrombis: 0.21044666480217952
-- quadrant: 0.18434760073594772
-- gynecologic: 0.17574922548773603
-- explain: 0.16107765227931475
-- investigation: 0.15410435939544576
-- lower: 0.1344888511257712
-- poorly: 0.11885632309080041
-- 28: 0.10921431620157843
-- under: 0.10892951111764564
-- filling: 0.1019070438612291
-- currently: 0.1010867292104542
-- ct: 0.1001977668216306
-- to: 0.09869435436933824
-- defect: 0.09653085355449832
-- laboratory: 0.09555938711898852
-- abnormalities: 0.09532278074960063
-- defined: 0.09387812608564987
-- this: 0.09043579724189653
-- left: 0.08977883020947561
-- cause: 0.08964761043282288
-- palpation: 0.08874519085733584
-- central: 0.08787674757712677
-- density: 0.08726004473639522
-- finding: 0.08649826593829867
-- patient: 0.08560152300888647
-- no: 0.08558542186142855
-- show: 0.08353858592101521
-- tenderness: 0.08252541668021883
-- infection: 0.07949009236820229
-- the: 0.07877301835146235
-- include: 0.07829693824551837
-- with: 0.07730296117438015
-- axial: 0.07601314158996551
-- low: 0.07550906649927402
-- symptoms: 0.07200051237999183
-- consistent: 0.07135302004998119
-- woman: 0.06853432842080558
-- other: 0.0683386206189376
-- were: 0.0678326501595249
-- present: 0.06752490219461675
-- findings: 0.06494667367685371
-- images: 0.060870757779365195
-- an: 0.05032091514198574
-- pain: 0.04708899942142488
-- or: 0.04577903768959703
-- right: 0.0436286921793898
-- year: 0.040554527832907285
-- on: 0.03974349771404385
-- old: 0.03894638501778284
-- is: 0.036037775788350795
-- in: 0.03273619365384513
-- of: 0.025752266751545762
+\-\ Texto\\:\\ \ \(0\)\
+\-\ poorly\\ defined\\ left\\ lower\\ quadrant\\ tenderness\\ to\\ palpation\\.\\ \\ no\\ signinficant\\ laboratory\\ abnormalities\\.\ \(0\)\
+\-\ axial\\ ct\\ images\\ show\\ an\\ elarged\\ right\\ ovarian\\ vein\\ with\\ a\\ low\\ density\\ central\\ filling\\ defect\\ consistent\\ with\\ thrombis\\.\ \(0\)\
+\-\ ovarian\\ vein\\ thrombosis\ \(2\)\
+\-\ ovarian\\ vein\\ thrombosis\\.\ \(0\)\
+\-\ 28\\ year\\ old\\ woman\\ with\\ left\\ lower\\ quadrant\\ pain\\.\ \(1\)\
+\-\ the\\ cause\\ of\\ ovarian\\ vein\\ thrombosis\\ in\\ this\\ patient\\ is\\ currently\\ under\\ investigation\\,\\ to\\ include\\ gynecologic\\ infection\\.\\ \\ no\\ other\\ findings\\ were\\ present\\ on\\ the\\ ct\\ to\\ explain\\ this\\ finding\\ or\\ the\\ patient\\'s\\ symptoms\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ ovarian\\:\\ 0\\.4484449956279824\ \(0\)\
+\-\ vein\\:\\ 0\\.3772985409088128\ \(0\)\
+\-\ thrombosis\\:\\ 0\\.32187237791009365\ \(0\)\
+\-\ signinficant\\:\\ 0\\.21044666480217952\ \(0\)\
+\-\ elarged\\:\\ 0\\.21044666480217952\ \(0\)\
+\-\ thrombis\\:\\ 0\\.21044666480217952\ \(0\)\
+\-\ quadrant\\:\\ 0\\.18434760073594772\ \(0\)\
+\-\ gynecologic\\:\\ 0\\.17574922548773603\ \(0\)\
+\-\ explain\\:\\ 0\\.16107765227931475\ \(0\)\
+\-\ investigation\\:\\ 0\\.15410435939544576\ \(0\)\
+\-\ lower\\:\\ 0\\.1344888511257712\ \(0\)\
+\-\ poorly\\:\\ 0\\.11885632309080041\ \(0\)\
+\-\ 28\\:\\ 0\\.10921431620157843\ \(0\)\
+\-\ under\\:\\ 0\\.10892951111764564\ \(0\)\
+\-\ filling\\:\\ 0\\.1019070438612291\ \(0\)\
+\-\ currently\\:\\ 0\\.1010867292104542\ \(0\)\
+\-\ ct\\:\\ 0\\.1001977668216306\ \(0\)\
+\-\ to\\:\\ 0\\.09869435436933824\ \(0\)\
+\-\ defect\\:\\ 0\\.09653085355449832\ \(0\)\
+\-\ laboratory\\:\\ 0\\.09555938711898852\ \(0\)\
+\-\ abnormalities\\:\\ 0\\.09532278074960063\ \(0\)\
+\-\ defined\\:\\ 0\\.09387812608564987\ \(0\)\
+\-\ this\\:\\ 0\\.09043579724189653\ \(0\)\
+\-\ left\\:\\ 0\\.08977883020947561\ \(0\)\
+\-\ cause\\:\\ 0\\.08964761043282288\ \(0\)\
+\-\ palpation\\:\\ 0\\.08874519085733584\ \(0\)\
+\-\ central\\:\\ 0\\.08787674757712677\ \(0\)\
+\-\ density\\:\\ 0\\.08726004473639522\ \(0\)\
+\-\ finding\\:\\ 0\\.08649826593829867\ \(0\)\
+\-\ patient\\:\\ 0\\.08560152300888647\ \(0\)\
+\-\ no\\:\\ 0\\.08558542186142855\ \(0\)\
+\-\ show\\:\\ 0\\.08353858592101521\ \(0\)\
+\-\ tenderness\\:\\ 0\\.08252541668021883\ \(0\)\
+\-\ infection\\:\\ 0\\.07949009236820229\ \(0\)\
+\-\ the\\:\\ 0\\.07877301835146235\ \(0\)\
+\-\ include\\:\\ 0\\.07829693824551837\ \(0\)\
+\-\ with\\:\\ 0\\.07730296117438015\ \(0\)\
+\-\ axial\\:\\ 0\\.07601314158996551\ \(0\)\
+\-\ low\\:\\ 0\\.07550906649927402\ \(0\)\
+\-\ symptoms\\:\\ 0\\.07200051237999183\ \(0\)\
+\-\ consistent\\:\\ 0\\.07135302004998119\ \(0\)\
+\-\ woman\\:\\ 0\\.06853432842080558\ \(0\)\
+\-\ other\\:\\ 0\\.0683386206189376\ \(0\)\
+\-\ were\\:\\ 0\\.0678326501595249\ \(0\)\
+\-\ present\\:\\ 0\\.06752490219461675\ \(0\)\
+\-\ findings\\:\\ 0\\.06494667367685371\ \(0\)\
+\-\ images\\:\\ 0\\.060870757779365195\ \(0\)\
+\-\ an\\:\\ 0\\.05032091514198574\ \(0\)\
+\-\ pain\\:\\ 0\\.04708899942142488\ \(0\)\
+\-\ or\\:\\ 0\\.04577903768959703\ \(0\)\
+\-\ right\\:\\ 0\\.0436286921793898\ \(0\)\
+\-\ year\\:\\ 0\\.040554527832907285\ \(0\)\
+\-\ on\\:\\ 0\\.03974349771404385\ \(0\)\
+\-\ old\\:\\ 0\\.03894638501778284\ \(0\)\
+\-\ is\\:\\ 0\\.036037775788350795\ \(0\)\
+\-\ in\\:\\ 0\\.03273619365384513\ \(0\)\
+\-\ of\\:\\ 0\\.025752266751545762\ \(0\)\

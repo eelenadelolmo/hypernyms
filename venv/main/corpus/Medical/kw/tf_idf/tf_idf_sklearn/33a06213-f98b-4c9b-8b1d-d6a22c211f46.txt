@@ -1,74 +1,72 @@
-Texto: 
-abdominal distention
-therapeutic gastrografin enema.  infant began passing normal appearing meconium while in the fluoroscopy suite.  no further treatment indicated.
-supine radiograph of the chest and abdomen demonstrates numerous dilated air-filled loops of bowel.
-enema with dilute gastrograffin demonstrates long segment filling defect within the descending and sigmoid colon and rectum and subtle transition zone between this narrower segment and the more proximal colon.
-meconium plug syndrome (small left colon syndrome)
-hirschsprung disease
-2 day old female with abdominal distention and failure to pass meconium.
-
-
-Keywords by value: 
-- meconium: 0.41339735658940663
-- colon: 0.2705111745771875
-- enema: 0.23896083460419487
-- distention: 0.22998310304641603
-- segment: 0.1955508562470097
-- narrower: 0.17036412250211297
-- dilute: 0.16657906454582538
-- gastrografin: 0.16337884364267297
-- suite: 0.15597414966076806
-- gastrograffin: 0.15399547768841726
-- hirschsprung: 0.1475565551621854
-- and: 0.14682589673055668
-- syndrome: 0.1427871390712614
-- plug: 0.13459889795998314
-- fluoroscopy: 0.1331665823208405
-- passing: 0.1311879103484897
-- abdominal: 0.12953905237505414
-- transition: 0.1238462220066194
-- pass: 0.1221505581115714
-- therapeutic: 0.11984147583671528
-- rectum: 0.11948041730209744
-- demonstrates: 0.11899040939226067
-- supine: 0.11877660947949559
-- zone: 0.1144227394360995
-- began: 0.11012961659758862
-- sigmoid: 0.10967828703001199
-- loops: 0.1075580437372929
-- descending: 0.10696201210720449
-- infant: 0.10456036436707407
-- subtle: 0.10209577318188966
-- numerous: 0.10003276659475459
-- indicated: 0.09740135777871066
-- appearing: 0.09462920033910081
-- the: 0.09451995286996855
-- filling: 0.09170889840641461
-- failure: 0.08991034208218092
-- defect: 0.08687071969008443
-- dilated: 0.08481777092130256
-- long: 0.0785276686915442
-- further: 0.07713189418784952
-- radiograph: 0.07713189418784952
-- between: 0.07694653275592808
-- while: 0.0765354234317163
-- bowel: 0.0759996429227087
-- day: 0.07543440496704687
-- proximal: 0.07398493910598157
-- abdomen: 0.07225870898400205
-- more: 0.06502774273102054
-- chest: 0.06251047700452515
-- small: 0.061087369767599015
-- female: 0.05714530606674501
-- treatment: 0.05641189558340691
-- within: 0.0545426945970643
-- disease: 0.04971041780122991
-- normal: 0.04835194850515969
-- with: 0.04637801368935217
-- of: 0.04635031938456456
-- this: 0.040692807029385304
-- left: 0.04039719585007027
-- no: 0.038510315191009316
-- old: 0.03504890272115755
-- to: 0.02960590414950327
-- in: 0.029460183950595346
+\-\ Texto\\:\\ \ \(0\)\
+\-\ abdominal\\ distention\ \(29\)\
+\-\ therapeutic\\ gastrografin\\ enema\\.\\ \\ infant\\ began\\ passing\\ normal\\ appearing\\ meconium\\ while\\ in\\ the\\ fluoroscopy\\ suite\\.\\ \\ no\\ further\\ treatment\\ indicated\\.\ \(0\)\
+\-\ supine\\ radiograph\\ of\\ the\\ chest\\ and\\ abdomen\\ demonstrates\\ numerous\\ dilated\\ air\\-filled\\ loops\\ of\\ bowel\\.\ \(0\)\
+\-\ enema\\ with\\ dilute\\ gastrograffin\\ demonstrates\\ long\\ segment\\ filling\\ defect\\ within\\ the\\ descending\\ and\\ sigmoid\\ colon\\ and\\ rectum\\ and\\ subtle\\ transition\\ zone\\ between\\ this\\ narrower\\ segment\\ and\\ the\\ more\\ proximal\\ colon\\.\ \(0\)\
+\-\ meconium\\ plug\\ syndrome\\ \\(small\\ left\\ colon\\ syndrome\\)\ \(0\)\
+\-\ hirschsprung\\ disease\ \(0\)\
+\-\ 2\\ day\\ old\\ female\\ with\\ abdominal\\ distention\\ and\\ failure\\ to\\ pass\\ meconium\\.\ \(1\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ meconium\\:\\ 0\\.41339735658940663\ \(0\)\
+\-\ colon\\:\\ 0\\.2705111745771875\ \(0\)\
+\-\ enema\\:\\ 0\\.23896083460419487\ \(0\)\
+\-\ distention\\:\\ 0\\.22998310304641603\ \(0\)\
+\-\ segment\\:\\ 0\\.1955508562470097\ \(0\)\
+\-\ narrower\\:\\ 0\\.17036412250211297\ \(0\)\
+\-\ dilute\\:\\ 0\\.16657906454582538\ \(0\)\
+\-\ gastrografin\\:\\ 0\\.16337884364267297\ \(0\)\
+\-\ suite\\:\\ 0\\.15597414966076806\ \(0\)\
+\-\ gastrograffin\\:\\ 0\\.15399547768841726\ \(0\)\
+\-\ hirschsprung\\:\\ 0\\.1475565551621854\ \(0\)\
+\-\ and\\:\\ 0\\.14682589673055668\ \(0\)\
+\-\ syndrome\\:\\ 0\\.1427871390712614\ \(0\)\
+\-\ plug\\:\\ 0\\.13459889795998314\ \(0\)\
+\-\ fluoroscopy\\:\\ 0\\.1331665823208405\ \(0\)\
+\-\ passing\\:\\ 0\\.1311879103484897\ \(0\)\
+\-\ abdominal\\:\\ 0\\.12953905237505414\ \(0\)\
+\-\ transition\\:\\ 0\\.1238462220066194\ \(0\)\
+\-\ pass\\:\\ 0\\.1221505581115714\ \(0\)\
+\-\ therapeutic\\:\\ 0\\.11984147583671528\ \(0\)\
+\-\ rectum\\:\\ 0\\.11948041730209744\ \(0\)\
+\-\ demonstrates\\:\\ 0\\.11899040939226067\ \(0\)\
+\-\ supine\\:\\ 0\\.11877660947949559\ \(0\)\
+\-\ zone\\:\\ 0\\.1144227394360995\ \(0\)\
+\-\ began\\:\\ 0\\.11012961659758862\ \(0\)\
+\-\ sigmoid\\:\\ 0\\.10967828703001199\ \(0\)\
+\-\ loops\\:\\ 0\\.1075580437372929\ \(0\)\
+\-\ descending\\:\\ 0\\.10696201210720449\ \(0\)\
+\-\ infant\\:\\ 0\\.10456036436707407\ \(0\)\
+\-\ subtle\\:\\ 0\\.10209577318188966\ \(0\)\
+\-\ numerous\\:\\ 0\\.10003276659475459\ \(0\)\
+\-\ indicated\\:\\ 0\\.09740135777871066\ \(0\)\
+\-\ appearing\\:\\ 0\\.09462920033910081\ \(0\)\
+\-\ the\\:\\ 0\\.09451995286996855\ \(0\)\
+\-\ filling\\:\\ 0\\.09170889840641461\ \(0\)\
+\-\ failure\\:\\ 0\\.08991034208218092\ \(0\)\
+\-\ defect\\:\\ 0\\.08687071969008443\ \(0\)\
+\-\ dilated\\:\\ 0\\.08481777092130256\ \(0\)\
+\-\ long\\:\\ 0\\.0785276686915442\ \(0\)\
+\-\ further\\:\\ 0\\.07713189418784952\ \(0\)\
+\-\ radiograph\\:\\ 0\\.07713189418784952\ \(0\)\
+\-\ between\\:\\ 0\\.07694653275592808\ \(0\)\
+\-\ while\\:\\ 0\\.0765354234317163\ \(0\)\
+\-\ bowel\\:\\ 0\\.0759996429227087\ \(0\)\
+\-\ day\\:\\ 0\\.07543440496704687\ \(0\)\
+\-\ proximal\\:\\ 0\\.07398493910598157\ \(0\)\
+\-\ abdomen\\:\\ 0\\.07225870898400205\ \(0\)\
+\-\ more\\:\\ 0\\.06502774273102054\ \(0\)\
+\-\ chest\\:\\ 0\\.06251047700452515\ \(0\)\
+\-\ small\\:\\ 0\\.061087369767599015\ \(0\)\
+\-\ female\\:\\ 0\\.05714530606674501\ \(0\)\
+\-\ treatment\\:\\ 0\\.05641189558340691\ \(0\)\
+\-\ within\\:\\ 0\\.0545426945970643\ \(0\)\
+\-\ disease\\:\\ 0\\.04971041780122991\ \(0\)\
+\-\ normal\\:\\ 0\\.04835194850515969\ \(0\)\
+\-\ with\\:\\ 0\\.04637801368935217\ \(0\)\
+\-\ of\\:\\ 0\\.04635031938456456\ \(0\)\
+\-\ this\\:\\ 0\\.040692807029385304\ \(0\)\
+\-\ left\\:\\ 0\\.04039719585007027\ \(0\)\
+\-\ no\\:\\ 0\\.038510315191009316\ \(0\)\
+\-\ old\\:\\ 0\\.03504890272115755\ \(0\)\
+\-\ to\\:\\ 0\\.02960590414950327\ \(0\)\
+\-\ in\\:\\ 0\\.029460183950595346\ \(0\)\

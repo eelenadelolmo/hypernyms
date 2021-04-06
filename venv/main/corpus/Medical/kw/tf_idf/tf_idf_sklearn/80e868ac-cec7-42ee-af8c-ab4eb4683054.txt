@@ -1,68 +1,66 @@
-Texto: 
-aphasia and dysarthria
-radiation therapy as these tumors are typically very sensitive to radiation therapy.
-enhancing mass involving left orbit, middle cranial fossa, maxillary sinus, infratemporal fossa and cavernous sinus.
-primary cns lymphoma
-aggressive neoplasm:
-1. lymphoma, primary cns or metastatic to brain
-2. sarcoma, primary or metastatic
-persistent headache for eight weeks and mental status changes.
-this case demonstrates cns lymphoma's ability to spread along neural routes and brain surface as well as invade the brain parenchyma.
-
-
-Keywords by value: 
-- cns: 0.3679455128977063
-- brain: 0.24562383545917052
-- primary: 0.24227269934305737
-- lymphoma: 0.23465643692662133
-- fossa: 0.20620711568341374
-- sinus: 0.18980523138545646
-- routes: 0.18893860482280742
-- infratemporal: 0.1811917340461597
-- radiation: 0.17406849397698007
-- invade: 0.16693909673688892
-- as: 0.15828718321690297
-- dysarthria: 0.15820180212397147
-- therapy: 0.15092227757077942
-- eight: 0.14693053980953977
-- aphasia: 0.1461995640070794
-- metastatic: 0.14406262144130655
-- ability: 0.14224291740017594
-- maxillary: 0.1302406792832839
-- sensitive: 0.12918596951127934
-- orbit: 0.12163630596899219
-- neural: 0.12163630596899219
-- spread: 0.11798131419754224
-- mental: 0.11446237433890502
-- cavernous: 0.11392482920984388
-- aggressive: 0.1135733139262324
-- sarcoma: 0.11017417164864994
-- surface: 0.10957997599068861
-- and: 0.10855603348365367
-- cranial: 0.10734561277692635
-- parenchyma: 0.1066896195754399
-- persistent: 0.1011926530454222
-- to: 0.09850134187358965
-- tumors: 0.09659098054025755
-- very: 0.09421528692485442
-- middle: 0.09391627228249473
-- typically: 0.09219941726407396
-- involving: 0.09199353985190546
-- status: 0.09165444971908078
-- or: 0.09137901901120016
-- headache: 0.09053752697225831
-- neoplasm: 0.0896567276148867
-- along: 0.08799019544444878
-- enhancing: 0.08227426357968895
-- changes: 0.07937409497292655
-- weeks: 0.07871233400762377
-- these: 0.07416550562865983
-- case: 0.0659818558264507
-- demonstrates: 0.0659818558264507
-- well: 0.0635936134100674
-- mass: 0.05016690494484212
-- are: 0.049836097474492545
-- this: 0.04512946783358352
-- left: 0.04480162671909584
-- for: 0.0398069804456673
-- the: 0.026206321731484097
+\-\ Texto\\:\\ \ \(0\)\
+\-\ aphasia\\ and\\ dysarthria\ \(0\)\
+\-\ radiation\\ therapy\\ as\\ these\\ tumors\\ are\\ typically\\ very\\ sensitive\\ to\\ radiation\\ therapy\\.\ \(0\)\
+\-\ enhancing\\ mass\\ involving\\ left\\ orbit\\,\\ middle\\ cranial\\ fossa\\,\\ maxillary\\ sinus\\,\\ infratemporal\\ fossa\\ and\\ cavernous\\ sinus\\.\ \(0\)\
+\-\ primary\\ cns\\ lymphoma\ \(0\)\
+\-\ aggressive\\ neoplasm\\:\ \(0\)\
+\-\ 1\\.\\ lymphoma\\,\\ primary\\ cns\\ or\\ metastatic\\ to\\ brain\ \(0\)\
+\-\ 2\\.\\ sarcoma\\,\\ primary\\ or\\ metastatic\ \(0\)\
+\-\ persistent\\ headache\\ for\\ eight\\ weeks\\ and\\ mental\\ status\\ changes\\.\ \(0\)\
+\-\ this\\ case\\ demonstrates\\ cns\\ lymphoma\\'s\\ ability\\ to\\ spread\\ along\\ neural\\ routes\\ and\\ brain\\ surface\\ as\\ well\\ as\\ invade\\ the\\ brain\\ parenchyma\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ cns\\:\\ 0\\.3679455128977063\ \(0\)\
+\-\ brain\\:\\ 0\\.24562383545917052\ \(0\)\
+\-\ primary\\:\\ 0\\.24227269934305737\ \(0\)\
+\-\ lymphoma\\:\\ 0\\.23465643692662133\ \(0\)\
+\-\ fossa\\:\\ 0\\.20620711568341374\ \(0\)\
+\-\ sinus\\:\\ 0\\.18980523138545646\ \(0\)\
+\-\ routes\\:\\ 0\\.18893860482280742\ \(0\)\
+\-\ infratemporal\\:\\ 0\\.1811917340461597\ \(0\)\
+\-\ radiation\\:\\ 0\\.17406849397698007\ \(0\)\
+\-\ invade\\:\\ 0\\.16693909673688892\ \(0\)\
+\-\ as\\:\\ 0\\.15828718321690297\ \(0\)\
+\-\ dysarthria\\:\\ 0\\.15820180212397147\ \(0\)\
+\-\ therapy\\:\\ 0\\.15092227757077942\ \(0\)\
+\-\ eight\\:\\ 0\\.14693053980953977\ \(0\)\
+\-\ aphasia\\:\\ 0\\.1461995640070794\ \(0\)\
+\-\ metastatic\\:\\ 0\\.14406262144130655\ \(0\)\
+\-\ ability\\:\\ 0\\.14224291740017594\ \(0\)\
+\-\ maxillary\\:\\ 0\\.1302406792832839\ \(0\)\
+\-\ sensitive\\:\\ 0\\.12918596951127934\ \(0\)\
+\-\ orbit\\:\\ 0\\.12163630596899219\ \(0\)\
+\-\ neural\\:\\ 0\\.12163630596899219\ \(0\)\
+\-\ spread\\:\\ 0\\.11798131419754224\ \(0\)\
+\-\ mental\\:\\ 0\\.11446237433890502\ \(0\)\
+\-\ cavernous\\:\\ 0\\.11392482920984388\ \(0\)\
+\-\ aggressive\\:\\ 0\\.1135733139262324\ \(0\)\
+\-\ sarcoma\\:\\ 0\\.11017417164864994\ \(0\)\
+\-\ surface\\:\\ 0\\.10957997599068861\ \(0\)\
+\-\ and\\:\\ 0\\.10855603348365367\ \(0\)\
+\-\ cranial\\:\\ 0\\.10734561277692635\ \(0\)\
+\-\ parenchyma\\:\\ 0\\.1066896195754399\ \(0\)\
+\-\ persistent\\:\\ 0\\.1011926530454222\ \(0\)\
+\-\ to\\:\\ 0\\.09850134187358965\ \(0\)\
+\-\ tumors\\:\\ 0\\.09659098054025755\ \(0\)\
+\-\ very\\:\\ 0\\.09421528692485442\ \(0\)\
+\-\ middle\\:\\ 0\\.09391627228249473\ \(0\)\
+\-\ typically\\:\\ 0\\.09219941726407396\ \(0\)\
+\-\ involving\\:\\ 0\\.09199353985190546\ \(0\)\
+\-\ status\\:\\ 0\\.09165444971908078\ \(0\)\
+\-\ or\\:\\ 0\\.09137901901120016\ \(0\)\
+\-\ headache\\:\\ 0\\.09053752697225831\ \(0\)\
+\-\ neoplasm\\:\\ 0\\.0896567276148867\ \(0\)\
+\-\ along\\:\\ 0\\.08799019544444878\ \(0\)\
+\-\ enhancing\\:\\ 0\\.08227426357968895\ \(0\)\
+\-\ changes\\:\\ 0\\.07937409497292655\ \(0\)\
+\-\ weeks\\:\\ 0\\.07871233400762377\ \(0\)\
+\-\ these\\:\\ 0\\.07416550562865983\ \(0\)\
+\-\ case\\:\\ 0\\.0659818558264507\ \(0\)\
+\-\ demonstrates\\:\\ 0\\.0659818558264507\ \(0\)\
+\-\ well\\:\\ 0\\.0635936134100674\ \(0\)\
+\-\ mass\\:\\ 0\\.05016690494484212\ \(0\)\
+\-\ are\\:\\ 0\\.049836097474492545\ \(0\)\
+\-\ this\\:\\ 0\\.04512946783358352\ \(0\)\
+\-\ left\\:\\ 0\\.04480162671909584\ \(0\)\
+\-\ for\\:\\ 0\\.0398069804456673\ \(0\)\
+\-\ the\\:\\ 0\\.026206321731484097\ \(0\)\

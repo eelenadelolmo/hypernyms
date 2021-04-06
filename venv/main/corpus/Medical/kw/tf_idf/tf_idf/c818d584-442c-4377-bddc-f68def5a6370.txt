@@ -1,58 +1,54 @@
-Texto: 
-non-contributory
-surgical resection.
-spiculated mass superior segment of tyhe right lower lobe.
-squamous cell carcinoma
-squamous cell ca
-large-cell ca
-bronchioalveolar ca
-infection
-history of non-productive cough times several months. 50 ppy cigarette smoking history.
-
-past medical history: atherosclerotic vascular disease, hyperlipdemia, hypertension
-
-past surgical history: s/p cabg
-
-
-Keywords by value: 
-- ca: 0.21317338484009035
-- tyhe: 0.1574199718565446
-- large-cell: 0.1574199718565446
-- ppy: 0.1574199718565446
-- hyperlipdemia: 0.1574199718565446
-- squamous: 0.14931390841917366
-- bronchioalveolar: 0.1378018952731855
-- non-productive: 0.11630238091022235
-- cigarette: 0.11630238091022235
-- cabg: 0.10222278518943181
-- past: 0.09697140971237264
-- spiculated: 0.0929392948450406
-- atherosclerotic: 0.09154712446165288
-- history: 0.08430103840764881
-- cell: 0.08243716827076736
-- smoking: 0.07706622774350416
-- times: 0.07397659981258199
-- segment: 0.06657003729882346
-- surgical: 0.06415077750898047
-- s/p: 0.06400731798414128
-- hypertension: 0.0601568045053605
-- cough: 0.05846883712157271
-- 50: 0.05805353601149651
-- non-contributory: 0.05635778943226566
-- vascular: 0.05003220121292315
-- several: 0.049055229209328345
-- superior: 0.048727566018824844
-- resection: 0.047587779562861046
-- medical: 0.046951960715464355
-- infection: 0.0443574388227287
-- carcinoma: 0.04324870839314047
-- months: 0.04167752311946549
-- lobe: 0.04105938121292025
-- :: 0.04036695771395232
-- lower: 0.034318965524354685
-- disease: 0.024941741807423288
-- mass: 0.021222517981206508
-- right: 0.016100566234114582
-- ,: 0.009668216625617405
-- of: 0.004160850028499586
-- .: 0.002535681149810448
+\-\ Texto\\:\\ \ \(0\)\
+\-\ non\\-contributory\ \(73\)\
+\-\ surgical\\ resection\\.\ \(23\)\
+\-\ spiculated\\ mass\\ superior\\ segment\\ of\\ tyhe\\ right\\ lower\\ lobe\\.\ \(0\)\
+\-\ squamous\\ cell\\ carcinoma\ \(52\)\
+\-\ squamous\\ cell\\ ca\ \(56\)\
+\-\ large\\-cell\\ ca\ \(0\)\
+\-\ bronchioalveolar\\ ca\ \(0\)\
+\-\ infection\ \(713\)\
+\-\ history\\ of\\ non\\-productive\\ cough\\ times\\ several\\ months\\.\\ 50\\ ppy\\ cigarette\\ smoking\\ history\\.\ \(0\)\
+\-\ past\\ medical\\ history\\:\\ atherosclerotic\\ vascular\\ disease\\,\\ hyperlipdemia\\,\\ hypertension\ \(0\)\
+\-\ past\\ surgical\\ history\\:\\ s\\/p\\ cabg\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ ca\\:\\ 0\\.21317338484009035\ \(0\)\
+\-\ tyhe\\:\\ 0\\.1574199718565446\ \(0\)\
+\-\ large\\-cell\\:\\ 0\\.1574199718565446\ \(0\)\
+\-\ ppy\\:\\ 0\\.1574199718565446\ \(0\)\
+\-\ hyperlipdemia\\:\\ 0\\.1574199718565446\ \(0\)\
+\-\ squamous\\:\\ 0\\.14931390841917366\ \(0\)\
+\-\ bronchioalveolar\\:\\ 0\\.1378018952731855\ \(0\)\
+\-\ non\\-productive\\:\\ 0\\.11630238091022235\ \(0\)\
+\-\ cigarette\\:\\ 0\\.11630238091022235\ \(0\)\
+\-\ cabg\\:\\ 0\\.10222278518943181\ \(0\)\
+\-\ past\\:\\ 0\\.09697140971237264\ \(0\)\
+\-\ spiculated\\:\\ 0\\.0929392948450406\ \(0\)\
+\-\ atherosclerotic\\:\\ 0\\.09154712446165288\ \(0\)\
+\-\ history\\:\\ 0\\.08430103840764881\ \(0\)\
+\-\ cell\\:\\ 0\\.08243716827076736\ \(0\)\
+\-\ smoking\\:\\ 0\\.07706622774350416\ \(0\)\
+\-\ times\\:\\ 0\\.07397659981258199\ \(0\)\
+\-\ segment\\:\\ 0\\.06657003729882346\ \(0\)\
+\-\ surgical\\:\\ 0\\.06415077750898047\ \(0\)\
+\-\ s\\/p\\:\\ 0\\.06400731798414128\ \(0\)\
+\-\ hypertension\\:\\ 0\\.0601568045053605\ \(0\)\
+\-\ cough\\:\\ 0\\.05846883712157271\ \(0\)\
+\-\ 50\\:\\ 0\\.05805353601149651\ \(0\)\
+\-\ non\\-contributory\\:\\ 0\\.05635778943226566\ \(0\)\
+\-\ vascular\\:\\ 0\\.05003220121292315\ \(0\)\
+\-\ several\\:\\ 0\\.049055229209328345\ \(0\)\
+\-\ superior\\:\\ 0\\.048727566018824844\ \(0\)\
+\-\ resection\\:\\ 0\\.047587779562861046\ \(0\)\
+\-\ medical\\:\\ 0\\.046951960715464355\ \(0\)\
+\-\ infection\\:\\ 0\\.0443574388227287\ \(0\)\
+\-\ carcinoma\\:\\ 0\\.04324870839314047\ \(0\)\
+\-\ months\\:\\ 0\\.04167752311946549\ \(0\)\
+\-\ lobe\\:\\ 0\\.04105938121292025\ \(0\)\
+\-\ \\:\\:\\ 0\\.04036695771395232\ \(0\)\
+\-\ lower\\:\\ 0\\.034318965524354685\ \(0\)\
+\-\ disease\\:\\ 0\\.024941741807423288\ \(0\)\
+\-\ mass\\:\\ 0\\.021222517981206508\ \(0\)\
+\-\ right\\:\\ 0\\.016100566234114582\ \(0\)\
+\-\ \\,\\:\\ 0\\.009668216625617405\ \(0\)\
+\-\ of\\:\\ 0\\.004160850028499586\ \(0\)\
+\-\ \\.\\:\\ 0\\.002535681149810448\ \(0\)\

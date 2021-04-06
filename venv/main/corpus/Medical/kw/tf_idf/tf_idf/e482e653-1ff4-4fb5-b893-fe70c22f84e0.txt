@@ -1,153 +1,150 @@
-Texto: 
-the patient arrived awake, confused and disoriented, able to open eyes spontaneously, able to obey commands (gcs e4v4m5), with a right hemiparesis.  there was a large stellate laceration of the left occiput with extruding brain matter. no other injuries were found.
-the neurosurgery team performed a debridement of the scalp, irrigation and drainage of the penetrating skull injury without craniotomy, and repair of the laceration via advancement flap of the left parieto-occipital scalp. patient was alert, interactive, and following simple commands well when transferred to a higher echelon of care the morning following injury.
-after immediate resuscitative efforts, an initial chest x-ray was obtained and was negative for signs of trauma or other pathology. initial head ct showed a keyhole defect high on the parietal bone on the left, impacted bone fragments in the parafalcine region with some pneumocephalus, and a 3 x 3 x 2 cm high parietal subarachnoid hemorrhage and intraparenchymal hemorrhage. no effacement of the basal cisterns, intraventricular bleeding, or midline shift was noted. 
-
-helical ct scan performed the following day after surgical debridement, irrigation, drainage, and closure of the gunshot wound showed that the bilateral high subarachnoid hemorrhage had decreased in size to 3 x 1.5 x 1 cm, intraparenchymal hemorrhage, no midline shift, cisterns present, and bony fragments stable.
-keyhole fracture of the skull
-keyhole fracture of the skull, grazing missile trauma without penetration of skull, penetrating missile trauma to skull, and blunt trauma to skull.
-a 27 year old soldier with a reported gunshot wound to the head.
-
-
-Keywords by value: 
-- keyhole: 0.08402453010420571
-- skull: 0.07529728327019315
-- missile: 0.0496971069760855
-- irrigation: 0.04737660879249093
-- commands: 0.04259628340931889
-- gunshot: 0.04212047050251233
-- hemorrhage: 0.039231125298979805
-- intraparenchymal: 0.039172580745085166
-- x: 0.03888367359099969
-- debridement: 0.03647695103000232
-- cisterns: 0.03627703698260058
-- laceration: 0.03589379662980878
-- penetrating: 0.034698819241711976
-- scalp: 0.0332864439820843
-- wound: 0.033035632642974815
-- trauma: 0.032234603886316264
-- fragments: 0.030839400014571132
-- obey: 0.030398339392987923
-- e4v4m5: 0.030398339392987923
-- echelon: 0.030398339392987923
-- grazing: 0.030398339392987923
-- subarachnoid: 0.028635029861065045
-- resuscitative: 0.028008176701401905
-- shift: 0.027954099925301668
-- able: 0.027779494352996224
-- extruding: 0.026610021156201338
-- parafalcine: 0.026610021156201338
-- advancement: 0.02561801400981589
-- parietal: 0.025177465172710235
-- following: 0.025089080243804983
-- parieto-occipital: 0.02484855348804275
-- drainage: 0.02464669937177142
-- high: 0.02419185580424292
-- occiput: 0.023688304396245464
-- interactive: 0.02322785131822987
-- midline: 0.022800897154058763
-- efforts: 0.022458390796456732
-- stellate: 0.022129735004028026
-- pneumocephalus: 0.0218296957730293
-- helical: 0.021553686436224004
-- ,: 0.021470108644474517
-- arrived: 0.021298141704659445
-- disoriented: 0.02083768862664385
-- 3: 0.020699746827998685
-- impacted: 0.020245101533793303
-- gcs: 0.019739572312442007
-- initial: 0.01952815271227109
-- awake: 0.019439533081443285
-- flap: 0.019439533081443285
-- penetration: 0.019439533081443285
-- showed: 0.01932278115809446
-- injury: 0.01878764511647448
-- soldier: 0.01855700420510811
-- hemiparesis: 0.01834141676724144
-- team: 0.017678065413284694
-- craniotomy: 0.017678065413284694
-- blunt: 0.017592918473317898
-- confused: 0.017428683821630812
-- closure: 0.017428683821630812
-- intraventricular: 0.017121968352608413
-- was: 0.01703926762437391
-- head: 0.016714491797061352
-- spontaneously: 0.01664322199104215
-- neurosurgery: 0.016579949099082853
-- performed: 0.01643157469811944
-- effacement: 0.01616684151352209
-- morning: 0.016111667922672296
-- eyes: 0.01584831282341514
-- transferred: 0.01584831282341514
-- cm: 0.015806593915979213
-- fracture: 0.015538443657053647
-- immediate: 0.015419700007285566
-- 1.5: 0.014731805661022395
-- alert: 0.014695315628848129
-- bone: 0.014644377113516344
-- simple: 0.014518442199925539
-- higher: 0.014450157278214575
-- without: 0.013875952871435587
-- injuries: 0.013748981678152404
-- 27: 0.013667200551885797
-- other: 0.013583714128982403
-- basal: 0.01343288792461508
-- x-ray: 0.013285082047264106
-- open: 0.013097374438453702
-- bleeding: 0.012791630862296267
-- via: 0.012648358438458776
-- after: 0.012193111742132431
-- stable: 0.012145564135317262
-- pathology: 0.012059994586628557
-- repair: 0.011799623715910817
-- bony: 0.01178398524982326
-- matter: 0.011601655070347577
-- defect: 0.011030163194137677
-- a: 0.010940684188099346
-- reported: 0.010741637415778662
-- care: 0.010628197058857767
-- obtained: 0.010475400347392558
-- signs: 0.010370261841331222
-- to: 0.010308540548623806
-- left: 0.009890744164892221
-- size: 0.009878882315099211
-- day: 0.009355033894320446
-- found: 0.009286295222248662
-- some: 0.008948028461609515
-- no: 0.008901146386591055
-- brain: 0.00886672939069918
-- negative: 0.008800414349568532
-- decreased: 0.008761228974912274
-- the: 0.008580990085052635
-- when: 0.00843907323315864
-- region: 0.008322762852549353
-- scan: 0.008249211932527511
-- ct: 0.008243473471669262
-- bilateral: 0.007151095618325669
-- chest: 0.007050789655370754
-- 1: 0.007011470234343817
-- noted: 0.006984210994664116
-- or: 0.006907053441129018
-- were: 0.006690642540310073
-- well: 0.006665796389547072
-- present: 0.006655202599764417
-- large: 0.006443249764934758
-- had: 0.006358102824967959
-- 2: 0.006345187919001884
-- and: 0.006207207094214429
-- surgical: 0.006193868173280874
-- patient: 0.005907530558044055
-- that: 0.005089588719168356
-- on: 0.004992351809416745
-- of: 0.004820846929571935
-- there: 0.004385226056775823
-- an: 0.0040747064285680335
-- year: 0.0032969147216307406
-- right: 0.0031090748590014367
-- old: 0.0030170158512491537
-- in: 0.0029061877940707234
-- for: 0.002514166029802466
-- (: 0.0024909025042891744
-- ): 0.002460474800390707
-- with: 0.0016138507046881342
-- .: 0.001346534127830376
+\-\ Texto\\:\\ \ \(0\)\
+\-\ the\\ patient\\ arrived\\ awake\\,\\ confused\\ and\\ disoriented\\,\\ able\\ to\\ open\\ eyes\\ spontaneously\\,\\ able\\ to\\ obey\\ commands\\ \\(gcs\\ e4v4m5\\)\\,\\ with\\ a\\ right\\ hemiparesis\\.\\ \\ there\\ was\\ a\\ large\\ stellate\\ laceration\\ of\\ the\\ left\\ occiput\\ with\\ extruding\\ brain\\ matter\\.\\ no\\ other\\ injuries\\ were\\ found\\.\ \(0\)\
+\-\ the\\ neurosurgery\\ team\\ performed\\ a\\ debridement\\ of\\ the\\ scalp\\,\\ irrigation\\ and\\ drainage\\ of\\ the\\ penetrating\\ skull\\ injury\\ without\\ craniotomy\\,\\ and\\ repair\\ of\\ the\\ laceration\\ via\\ advancement\\ flap\\ of\\ the\\ left\\ parieto\\-occipital\\ scalp\\.\\ patient\\ was\\ alert\\,\\ interactive\\,\\ and\\ following\\ simple\\ commands\\ well\\ when\\ transferred\\ to\\ a\\ higher\\ echelon\\ of\\ care\\ the\\ morning\\ following\\ injury\\.\ \(0\)\
+\-\ after\\ immediate\\ resuscitative\\ efforts\\,\\ an\\ initial\\ chest\\ x\\-ray\\ was\\ obtained\\ and\\ was\\ negative\\ for\\ signs\\ of\\ trauma\\ or\\ other\\ pathology\\.\\ initial\\ head\\ ct\\ showed\\ a\\ keyhole\\ defect\\ high\\ on\\ the\\ parietal\\ bone\\ on\\ the\\ left\\,\\ impacted\\ bone\\ fragments\\ in\\ the\\ parafalcine\\ region\\ with\\ some\\ pneumocephalus\\,\\ and\\ a\\ 3\\ x\\ 3\\ x\\ 2\\ cm\\ high\\ parietal\\ subarachnoid\\ hemorrhage\\ and\\ intraparenchymal\\ hemorrhage\\.\\ no\\ effacement\\ of\\ the\\ basal\\ cisterns\\,\\ intraventricular\\ bleeding\\,\\ or\\ midline\\ shift\\ was\\ noted\\.\\ \ \(0\)\
+\-\ helical\\ ct\\ scan\\ performed\\ the\\ following\\ day\\ after\\ surgical\\ debridement\\,\\ irrigation\\,\\ drainage\\,\\ and\\ closure\\ of\\ the\\ gunshot\\ wound\\ showed\\ that\\ the\\ bilateral\\ high\\ subarachnoid\\ hemorrhage\\ had\\ decreased\\ in\\ size\\ to\\ 3\\ x\\ 1\\.5\\ x\\ 1\\ cm\\,\\ intraparenchymal\\ hemorrhage\\,\\ no\\ midline\\ shift\\,\\ cisterns\\ present\\,\\ and\\ bony\\ fragments\\ stable\\.\ \(0\)\
+\-\ keyhole\\ fracture\\ of\\ the\\ skull\ \(0\)\
+\-\ keyhole\\ fracture\\ of\\ the\\ skull\\,\\ grazing\\ missile\\ trauma\\ without\\ penetration\\ of\\ skull\\,\\ penetrating\\ missile\\ trauma\\ to\\ skull\\,\\ and\\ blunt\\ trauma\\ to\\ skull\\.\ \(0\)\
+\-\ a\\ 27\\ year\\ old\\ soldier\\ with\\ a\\ reported\\ gunshot\\ wound\\ to\\ the\\ head\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ keyhole\\:\\ 0\\.08402453010420571\ \(0\)\
+\-\ skull\\:\\ 0\\.07529728327019315\ \(0\)\
+\-\ missile\\:\\ 0\\.0496971069760855\ \(0\)\
+\-\ irrigation\\:\\ 0\\.04737660879249093\ \(0\)\
+\-\ commands\\:\\ 0\\.04259628340931889\ \(0\)\
+\-\ gunshot\\:\\ 0\\.04212047050251233\ \(0\)\
+\-\ hemorrhage\\:\\ 0\\.039231125298979805\ \(0\)\
+\-\ intraparenchymal\\:\\ 0\\.039172580745085166\ \(0\)\
+\-\ x\\:\\ 0\\.03888367359099969\ \(0\)\
+\-\ debridement\\:\\ 0\\.03647695103000232\ \(0\)\
+\-\ cisterns\\:\\ 0\\.03627703698260058\ \(0\)\
+\-\ laceration\\:\\ 0\\.03589379662980878\ \(0\)\
+\-\ penetrating\\:\\ 0\\.034698819241711976\ \(0\)\
+\-\ scalp\\:\\ 0\\.0332864439820843\ \(0\)\
+\-\ wound\\:\\ 0\\.033035632642974815\ \(0\)\
+\-\ trauma\\:\\ 0\\.032234603886316264\ \(0\)\
+\-\ fragments\\:\\ 0\\.030839400014571132\ \(0\)\
+\-\ obey\\:\\ 0\\.030398339392987923\ \(0\)\
+\-\ e4v4m5\\:\\ 0\\.030398339392987923\ \(0\)\
+\-\ echelon\\:\\ 0\\.030398339392987923\ \(0\)\
+\-\ grazing\\:\\ 0\\.030398339392987923\ \(0\)\
+\-\ subarachnoid\\:\\ 0\\.028635029861065045\ \(0\)\
+\-\ resuscitative\\:\\ 0\\.028008176701401905\ \(0\)\
+\-\ shift\\:\\ 0\\.027954099925301668\ \(0\)\
+\-\ able\\:\\ 0\\.027779494352996224\ \(0\)\
+\-\ extruding\\:\\ 0\\.026610021156201338\ \(0\)\
+\-\ parafalcine\\:\\ 0\\.026610021156201338\ \(0\)\
+\-\ advancement\\:\\ 0\\.02561801400981589\ \(0\)\
+\-\ parietal\\:\\ 0\\.025177465172710235\ \(0\)\
+\-\ following\\:\\ 0\\.025089080243804983\ \(0\)\
+\-\ parieto\\-occipital\\:\\ 0\\.02484855348804275\ \(0\)\
+\-\ drainage\\:\\ 0\\.02464669937177142\ \(0\)\
+\-\ high\\:\\ 0\\.02419185580424292\ \(0\)\
+\-\ occiput\\:\\ 0\\.023688304396245464\ \(0\)\
+\-\ interactive\\:\\ 0\\.02322785131822987\ \(0\)\
+\-\ midline\\:\\ 0\\.022800897154058763\ \(0\)\
+\-\ efforts\\:\\ 0\\.022458390796456732\ \(0\)\
+\-\ stellate\\:\\ 0\\.022129735004028026\ \(0\)\
+\-\ pneumocephalus\\:\\ 0\\.0218296957730293\ \(0\)\
+\-\ helical\\:\\ 0\\.021553686436224004\ \(0\)\
+\-\ \\,\\:\\ 0\\.021470108644474517\ \(0\)\
+\-\ arrived\\:\\ 0\\.021298141704659445\ \(0\)\
+\-\ disoriented\\:\\ 0\\.02083768862664385\ \(0\)\
+\-\ 3\\:\\ 0\\.020699746827998685\ \(0\)\
+\-\ impacted\\:\\ 0\\.020245101533793303\ \(0\)\
+\-\ gcs\\:\\ 0\\.019739572312442007\ \(0\)\
+\-\ initial\\:\\ 0\\.01952815271227109\ \(0\)\
+\-\ awake\\:\\ 0\\.019439533081443285\ \(0\)\
+\-\ flap\\:\\ 0\\.019439533081443285\ \(0\)\
+\-\ penetration\\:\\ 0\\.019439533081443285\ \(0\)\
+\-\ showed\\:\\ 0\\.01932278115809446\ \(0\)\
+\-\ injury\\:\\ 0\\.01878764511647448\ \(0\)\
+\-\ soldier\\:\\ 0\\.01855700420510811\ \(0\)\
+\-\ hemiparesis\\:\\ 0\\.01834141676724144\ \(0\)\
+\-\ team\\:\\ 0\\.017678065413284694\ \(0\)\
+\-\ craniotomy\\:\\ 0\\.017678065413284694\ \(0\)\
+\-\ blunt\\:\\ 0\\.017592918473317898\ \(0\)\
+\-\ confused\\:\\ 0\\.017428683821630812\ \(0\)\
+\-\ closure\\:\\ 0\\.017428683821630812\ \(0\)\
+\-\ intraventricular\\:\\ 0\\.017121968352608413\ \(0\)\
+\-\ was\\:\\ 0\\.01703926762437391\ \(0\)\
+\-\ head\\:\\ 0\\.016714491797061352\ \(0\)\
+\-\ spontaneously\\:\\ 0\\.01664322199104215\ \(0\)\
+\-\ neurosurgery\\:\\ 0\\.016579949099082853\ \(0\)\
+\-\ performed\\:\\ 0\\.01643157469811944\ \(0\)\
+\-\ effacement\\:\\ 0\\.01616684151352209\ \(0\)\
+\-\ morning\\:\\ 0\\.016111667922672296\ \(0\)\
+\-\ eyes\\:\\ 0\\.01584831282341514\ \(0\)\
+\-\ transferred\\:\\ 0\\.01584831282341514\ \(0\)\
+\-\ cm\\:\\ 0\\.015806593915979213\ \(0\)\
+\-\ fracture\\:\\ 0\\.015538443657053647\ \(0\)\
+\-\ immediate\\:\\ 0\\.015419700007285566\ \(0\)\
+\-\ 1\\.5\\:\\ 0\\.014731805661022395\ \(0\)\
+\-\ alert\\:\\ 0\\.014695315628848129\ \(0\)\
+\-\ bone\\:\\ 0\\.014644377113516344\ \(0\)\
+\-\ simple\\:\\ 0\\.014518442199925539\ \(0\)\
+\-\ higher\\:\\ 0\\.014450157278214575\ \(0\)\
+\-\ without\\:\\ 0\\.013875952871435587\ \(0\)\
+\-\ injuries\\:\\ 0\\.013748981678152404\ \(0\)\
+\-\ 27\\:\\ 0\\.013667200551885797\ \(0\)\
+\-\ other\\:\\ 0\\.013583714128982403\ \(0\)\
+\-\ basal\\:\\ 0\\.01343288792461508\ \(0\)\
+\-\ x\\-ray\\:\\ 0\\.013285082047264106\ \(0\)\
+\-\ open\\:\\ 0\\.013097374438453702\ \(0\)\
+\-\ bleeding\\:\\ 0\\.012791630862296267\ \(0\)\
+\-\ via\\:\\ 0\\.012648358438458776\ \(0\)\
+\-\ after\\:\\ 0\\.012193111742132431\ \(0\)\
+\-\ stable\\:\\ 0\\.012145564135317262\ \(0\)\
+\-\ pathology\\:\\ 0\\.012059994586628557\ \(0\)\
+\-\ repair\\:\\ 0\\.011799623715910817\ \(0\)\
+\-\ bony\\:\\ 0\\.01178398524982326\ \(0\)\
+\-\ matter\\:\\ 0\\.011601655070347577\ \(0\)\
+\-\ defect\\:\\ 0\\.011030163194137677\ \(0\)\
+\-\ a\\:\\ 0\\.010940684188099346\ \(0\)\
+\-\ reported\\:\\ 0\\.010741637415778662\ \(0\)\
+\-\ care\\:\\ 0\\.010628197058857767\ \(0\)\
+\-\ obtained\\:\\ 0\\.010475400347392558\ \(0\)\
+\-\ signs\\:\\ 0\\.010370261841331222\ \(0\)\
+\-\ to\\:\\ 0\\.010308540548623806\ \(0\)\
+\-\ left\\:\\ 0\\.009890744164892221\ \(0\)\
+\-\ size\\:\\ 0\\.009878882315099211\ \(0\)\
+\-\ day\\:\\ 0\\.009355033894320446\ \(0\)\
+\-\ found\\:\\ 0\\.009286295222248662\ \(0\)\
+\-\ some\\:\\ 0\\.008948028461609515\ \(0\)\
+\-\ no\\:\\ 0\\.008901146386591055\ \(0\)\
+\-\ brain\\:\\ 0\\.00886672939069918\ \(0\)\
+\-\ negative\\:\\ 0\\.008800414349568532\ \(0\)\
+\-\ decreased\\:\\ 0\\.008761228974912274\ \(0\)\
+\-\ the\\:\\ 0\\.008580990085052635\ \(0\)\
+\-\ when\\:\\ 0\\.00843907323315864\ \(0\)\
+\-\ region\\:\\ 0\\.008322762852549353\ \(0\)\
+\-\ scan\\:\\ 0\\.008249211932527511\ \(0\)\
+\-\ ct\\:\\ 0\\.008243473471669262\ \(0\)\
+\-\ bilateral\\:\\ 0\\.007151095618325669\ \(0\)\
+\-\ chest\\:\\ 0\\.007050789655370754\ \(0\)\
+\-\ 1\\:\\ 0\\.007011470234343817\ \(0\)\
+\-\ noted\\:\\ 0\\.006984210994664116\ \(0\)\
+\-\ or\\:\\ 0\\.006907053441129018\ \(0\)\
+\-\ were\\:\\ 0\\.006690642540310073\ \(0\)\
+\-\ well\\:\\ 0\\.006665796389547072\ \(0\)\
+\-\ present\\:\\ 0\\.006655202599764417\ \(0\)\
+\-\ large\\:\\ 0\\.006443249764934758\ \(0\)\
+\-\ had\\:\\ 0\\.006358102824967959\ \(0\)\
+\-\ 2\\:\\ 0\\.006345187919001884\ \(0\)\
+\-\ and\\:\\ 0\\.006207207094214429\ \(0\)\
+\-\ surgical\\:\\ 0\\.006193868173280874\ \(0\)\
+\-\ patient\\:\\ 0\\.005907530558044055\ \(0\)\
+\-\ that\\:\\ 0\\.005089588719168356\ \(0\)\
+\-\ on\\:\\ 0\\.004992351809416745\ \(0\)\
+\-\ of\\:\\ 0\\.004820846929571935\ \(0\)\
+\-\ there\\:\\ 0\\.004385226056775823\ \(0\)\
+\-\ an\\:\\ 0\\.0040747064285680335\ \(0\)\
+\-\ year\\:\\ 0\\.0032969147216307406\ \(0\)\
+\-\ right\\:\\ 0\\.0031090748590014367\ \(0\)\
+\-\ old\\:\\ 0\\.0030170158512491537\ \(0\)\
+\-\ in\\:\\ 0\\.0029061877940707234\ \(0\)\
+\-\ for\\:\\ 0\\.002514166029802466\ \(0\)\
+\-\ \\(\\:\\ 0\\.0024909025042891744\ \(0\)\
+\-\ \\)\\:\\ 0\\.002460474800390707\ \(0\)\
+\-\ with\\:\\ 0\\.0016138507046881342\ \(0\)\
+\-\ \\.\\:\\ 0\\.001346534127830376\ \(0\)\

@@ -1,148 +1,145 @@
-Texto: 
-axial contrast enhanced ct images reveal a large, heterogeneously enhancing anterior mediastinal mass, measuring 6.9cm ap by 7.4cm transverse.  no calcification or macroscopic fat is present, though central hypodensity consistent with necrosis or cystic degeneration is seen medially.  an enlarged lymph node is contiguous with the aortic arch superiorly, with loss of the fat plane separating the mass from the anterior chest wall seen more inferiorly.
-hodgkin disease
-lymphoma, thymic carcinoma, invasive thymoma, metastatic disease
-41 yo woman presents with hemoptysis and pruritus, with a ‚Äúchest mass‚Äù seen on an outside chest radiograph.
-per the cleveland clinic online (http://www.clevelandclinicmeded.com/diseasemanagement
-/dermatology/pruritus/pruritus.htm):
-
-the strongest association of pruritus and malignancy is with hodgkin's disease. itching may precede hodgkin's disease, and the intensity correlates with the severity of the disease. itching is present more on the legs and the lower half of the body, is described as burning in quality, and is usually more intense at night. generalized pruritus has also been described in patients with leukemia, but is less intense than in hodgkin's disease. the association between solid visceral tumors and pruritus is less clear, though pruritus has been reported in patients with cancers of the lung, colon, breast, uterus and prostate. the pruritus frequently remits when the malignancy is treated and reappears with relapse of the disease.
-
-
-Keywords by value: 
-- pruritus: 0.16421374362337493
-- hodgkin: 0.08476511334661382
-- itching: 0.05596620681066488
-- disease: 0.03895283979486028
-- intense: 0.03605624687504468
-- 6.9cm: 0.03512158734648007
-- 7.4cm: 0.03512158734648007
-- //www.clevelandclinicmeded.com/diseasemanagement: 0.03512158734648007
-- /dermatology/pruritus/pruritus.htm: 0.03512158734648007
-- remits: 0.03512158734648007
-- reappears: 0.03512158734648007
-- association: 0.03308429744903929
-- strongest: 0.032360044794448414
-- though: 0.03158157896451698
-- described: 0.028998953716276248
-- cleveland: 0.028709484109690826
-- precede: 0.028709484109690826
-- online: 0.026836959690385107
-- relapse: 0.02636770456824812
-- malignancy: 0.026311471536267058
-- more: 0.02554393995193824
-- separating: 0.025221560853300788
-- chest: 0.024438992032559982
-- burning: 0.024075417138353452
-- less: 0.02305928290296958
-- quality: 0.022992015881446514
-- visceral: 0.022629578518077086
-- 's: 0.02251848547849058
-- is: 0.02240202304321616
-- macroscopic: 0.022141123051573768
-- correlates: 0.022141123051573768
-- thymic: 0.021990763179132147
-- thymoma: 0.021313874586321797
-- hypodensity: 0.020956854033773245
-- fat: 0.02070846472415644
-- cancers: 0.02052572421448945
-- seen: 0.020182800180091914
-- heterogeneously: 0.020045134621706123
-- contiguous: 0.019616327194644907
-- hemoptysis: 0.019616327194644907
-- medially: 0.019379580499542113
-- plane: 0.019013813371043617
-- superiorly: 0.018944523559442546
-- been: 0.01852426206744216
-- severity: 0.018490562366816177
-- legs: 0.0184297357846218
-- 41: 0.018138798991733797
-- prostate: 0.01808307691215316
-- half: 0.017973917652439553
-- inferiorly: 0.017867669656096284
-- generalized: 0.01781558964985185
-- patients: 0.01762210836148228
-- anterior: 0.017536197798906274
-- leukemia: 0.017468930777383204
-- degeneration: 0.017283592069674468
-- ,: 0.01725641851903027
-- invasive: 0.017106493414013775
-- night: 0.016542148724519645
-- uterus: 0.01604791506447989
-- node: 0.015578659942342903
-- present: 0.015378555808220564
-- arch: 0.015321534360121503
-- clinic: 0.015212375100407901
-- reveal: 0.015158896931753953
-- per: 0.014901771349532555
-- frequently: 0.014755102133904203
-- enhanced: 0.01456758217032657
-- mediastinal: 0.014454711625998975
-- outside: 0.014280517159808413
-- mass: 0.014204713230448978
-- aortic: 0.01378060617248799
-- lymph: 0.013743196848385047
-- transverse: 0.013651182048406364
-- measuring: 0.013614963037644404
-- solid: 0.013579070328710675
-- necrosis: 0.013438648260735875
-- colon: 0.013370250636742388
-- http: 0.012891588039762055
-- tumors: 0.012787714572392434
-- has: 0.012786453948161577
-- ‚Äú: 0.012715143098721751
-- ‚Äù: 0.012643869932384002
-- clear: 0.012587755430863129
-- breast: 0.01255999180808985
-- ap: 0.012450832548376246
-- reported: 0.012410656775202438
-- calcification: 0.012357711627319239
-- intensity: 0.012305460862068927
-- enlarged: 0.011616020200733093
-- central: 0.011201718553226929
-- body: 0.011056827540593962
-- radiograph: 0.010844416947893875
-- between: 0.010790818869419298
-- enhancing: 0.01067710570870422
-- usually: 0.010338359577158403
-- yo: 0.01024442837969228
-- treated: 0.010190640781210594
-- loss: 0.009882327380352348
-- wall: 0.00986119171409859
-- lung: 0.00986119171409859
-- cystic: 0.009819253813752026
-- when: 0.00975032365584066
-- lymphoma: 0.00972987503740831
-- axial: 0.009716300701465624
-- carcinoma: 0.009649114223170783
-- an: 0.009415656289121353
-- the: 0.009363497370365093
-- :: 0.00900617383259494
-- than: 0.008920513366208263
-- metastatic: 0.008570156986518288
-- consistent: 0.008347801867853399
-- or: 0.007980260947917988
-- woman: 0.00786415516927851
-- lower: 0.007656820993481524
-- contrast: 0.007620620266166954
-- may: 0.007467443700789338
-- large: 0.007444392158689561
-- but: 0.007260969326826843
-- presents: 0.006954758149433968
-- in: 0.006715493707414421
-- also: 0.006711631847291439
-- images: 0.0065309318404356735
-- on: 0.005768055875421738
-- and: 0.005737338828118516
-- by: 0.005668808379461652
-- as: 0.005149711178861067
-- from: 0.005045560610176145
-- ct: 0.0047621659497690955
-- with: 0.004661520959756563
-- at: 0.004612602202516466
-- no: 0.003428064345433474
-- a: 0.0031601577834151494
-- (: 0.002877935164318169
-- ): 0.002842779649853805
-- of: 0.002784951413497731
-- .: 0.0014143241473046325
+\-\ Texto\\:\\ \ \(0\)\
+\-\ axial\\ contrast\\ enhanced\\ ct\\ images\\ reveal\\ a\\ large\\,\\ heterogeneously\\ enhancing\\ anterior\\ mediastinal\\ mass\\,\\ measuring\\ 6\\.9cm\\ ap\\ by\\ 7\\.4cm\\ transverse\\.\\ \\ no\\ calcification\\ or\\ macroscopic\\ fat\\ is\\ present\\,\\ though\\ central\\ hypodensity\\ consistent\\ with\\ necrosis\\ or\\ cystic\\ degeneration\\ is\\ seen\\ medially\\.\\ \\ an\\ enlarged\\ lymph\\ node\\ is\\ contiguous\\ with\\ the\\ aortic\\ arch\\ superiorly\\,\\ with\\ loss\\ of\\ the\\ fat\\ plane\\ separating\\ the\\ mass\\ from\\ the\\ anterior\\ chest\\ wall\\ seen\\ more\\ inferiorly\\.\ \(0\)\
+\-\ hodgkin\\ disease\ \(0\)\
+\-\ lymphoma\\,\\ thymic\\ carcinoma\\,\\ invasive\\ thymoma\\,\\ metastatic\\ disease\ \(0\)\
+\-\ 41\\ yo\\ woman\\ presents\\ with\\ hemoptysis\\ and\\ pruritus\\,\\ with\\ a\\ \\‚\\Ä\\úchest\\ mass\\‚\\Ä\\ù\\ seen\\ on\\ an\\ outside\\ chest\\ radiograph\\.\ \(1\)\
+\-\ per\\ the\\ cleveland\\ clinic\\ online\\ \\(http\\:\\/\\/www\\.clevelandclinicmeded\\.com\\/diseasemanagement\ \(0\)\
+\-\ \\/dermatology\\/pruritus\\/pruritus\\.htm\\)\\:\ \(1\)\
+\-\ the\\ strongest\\ association\\ of\\ pruritus\\ and\\ malignancy\\ is\\ with\\ hodgkin\\'s\\ disease\\.\\ itching\\ may\\ precede\\ hodgkin\\'s\\ disease\\,\\ and\\ the\\ intensity\\ correlates\\ with\\ the\\ severity\\ of\\ the\\ disease\\.\\ itching\\ is\\ present\\ more\\ on\\ the\\ legs\\ and\\ the\\ lower\\ half\\ of\\ the\\ body\\,\\ is\\ described\\ as\\ burning\\ in\\ quality\\,\\ and\\ is\\ usually\\ more\\ intense\\ at\\ night\\.\\ generalized\\ pruritus\\ has\\ also\\ been\\ described\\ in\\ patients\\ with\\ leukemia\\,\\ but\\ is\\ less\\ intense\\ than\\ in\\ hodgkin\\'s\\ disease\\.\\ the\\ association\\ between\\ solid\\ visceral\\ tumors\\ and\\ pruritus\\ is\\ less\\ clear\\,\\ though\\ pruritus\\ has\\ been\\ reported\\ in\\ patients\\ with\\ cancers\\ of\\ the\\ lung\\,\\ colon\\,\\ breast\\,\\ uterus\\ and\\ prostate\\.\\ the\\ pruritus\\ frequently\\ remits\\ when\\ the\\ malignancy\\ is\\ treated\\ and\\ reappears\\ with\\ relapse\\ of\\ the\\ disease\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ pruritus\\:\\ 0\\.16421374362337493\ \(0\)\
+\-\ hodgkin\\:\\ 0\\.08476511334661382\ \(0\)\
+\-\ itching\\:\\ 0\\.05596620681066488\ \(0\)\
+\-\ disease\\:\\ 0\\.03895283979486028\ \(0\)\
+\-\ intense\\:\\ 0\\.03605624687504468\ \(0\)\
+\-\ 6\\.9cm\\:\\ 0\\.03512158734648007\ \(0\)\
+\-\ 7\\.4cm\\:\\ 0\\.03512158734648007\ \(0\)\
+\-\ \\/\\/www\\.clevelandclinicmeded\\.com\\/diseasemanagement\\:\\ 0\\.03512158734648007\ \(0\)\
+\-\ \\/dermatology\\/pruritus\\/pruritus\\.htm\\:\\ 0\\.03512158734648007\ \(0\)\
+\-\ remits\\:\\ 0\\.03512158734648007\ \(0\)\
+\-\ reappears\\:\\ 0\\.03512158734648007\ \(0\)\
+\-\ association\\:\\ 0\\.03308429744903929\ \(0\)\
+\-\ strongest\\:\\ 0\\.032360044794448414\ \(0\)\
+\-\ though\\:\\ 0\\.03158157896451698\ \(0\)\
+\-\ described\\:\\ 0\\.028998953716276248\ \(0\)\
+\-\ cleveland\\:\\ 0\\.028709484109690826\ \(0\)\
+\-\ precede\\:\\ 0\\.028709484109690826\ \(0\)\
+\-\ online\\:\\ 0\\.026836959690385107\ \(0\)\
+\-\ relapse\\:\\ 0\\.02636770456824812\ \(0\)\
+\-\ malignancy\\:\\ 0\\.026311471536267058\ \(0\)\
+\-\ more\\:\\ 0\\.02554393995193824\ \(0\)\
+\-\ separating\\:\\ 0\\.025221560853300788\ \(0\)\
+\-\ chest\\:\\ 0\\.024438992032559982\ \(0\)\
+\-\ burning\\:\\ 0\\.024075417138353452\ \(0\)\
+\-\ less\\:\\ 0\\.02305928290296958\ \(0\)\
+\-\ quality\\:\\ 0\\.022992015881446514\ \(0\)\
+\-\ visceral\\:\\ 0\\.022629578518077086\ \(0\)\
+\-\ \\'s\\:\\ 0\\.02251848547849058\ \(0\)\
+\-\ is\\:\\ 0\\.02240202304321616\ \(0\)\
+\-\ macroscopic\\:\\ 0\\.022141123051573768\ \(0\)\
+\-\ correlates\\:\\ 0\\.022141123051573768\ \(0\)\
+\-\ thymic\\:\\ 0\\.021990763179132147\ \(0\)\
+\-\ thymoma\\:\\ 0\\.021313874586321797\ \(0\)\
+\-\ hypodensity\\:\\ 0\\.020956854033773245\ \(0\)\
+\-\ fat\\:\\ 0\\.02070846472415644\ \(0\)\
+\-\ cancers\\:\\ 0\\.02052572421448945\ \(0\)\
+\-\ seen\\:\\ 0\\.020182800180091914\ \(0\)\
+\-\ heterogeneously\\:\\ 0\\.020045134621706123\ \(0\)\
+\-\ contiguous\\:\\ 0\\.019616327194644907\ \(0\)\
+\-\ hemoptysis\\:\\ 0\\.019616327194644907\ \(0\)\
+\-\ medially\\:\\ 0\\.019379580499542113\ \(0\)\
+\-\ plane\\:\\ 0\\.019013813371043617\ \(0\)\
+\-\ superiorly\\:\\ 0\\.018944523559442546\ \(0\)\
+\-\ been\\:\\ 0\\.01852426206744216\ \(0\)\
+\-\ severity\\:\\ 0\\.018490562366816177\ \(0\)\
+\-\ legs\\:\\ 0\\.0184297357846218\ \(0\)\
+\-\ 41\\:\\ 0\\.018138798991733797\ \(0\)\
+\-\ prostate\\:\\ 0\\.01808307691215316\ \(0\)\
+\-\ half\\:\\ 0\\.017973917652439553\ \(0\)\
+\-\ inferiorly\\:\\ 0\\.017867669656096284\ \(0\)\
+\-\ generalized\\:\\ 0\\.01781558964985185\ \(0\)\
+\-\ patients\\:\\ 0\\.01762210836148228\ \(0\)\
+\-\ anterior\\:\\ 0\\.017536197798906274\ \(0\)\
+\-\ leukemia\\:\\ 0\\.017468930777383204\ \(0\)\
+\-\ degeneration\\:\\ 0\\.017283592069674468\ \(0\)\
+\-\ \\,\\:\\ 0\\.01725641851903027\ \(0\)\
+\-\ invasive\\:\\ 0\\.017106493414013775\ \(0\)\
+\-\ night\\:\\ 0\\.016542148724519645\ \(0\)\
+\-\ uterus\\:\\ 0\\.01604791506447989\ \(0\)\
+\-\ node\\:\\ 0\\.015578659942342903\ \(0\)\
+\-\ present\\:\\ 0\\.015378555808220564\ \(0\)\
+\-\ arch\\:\\ 0\\.015321534360121503\ \(0\)\
+\-\ clinic\\:\\ 0\\.015212375100407901\ \(0\)\
+\-\ reveal\\:\\ 0\\.015158896931753953\ \(0\)\
+\-\ per\\:\\ 0\\.014901771349532555\ \(0\)\
+\-\ frequently\\:\\ 0\\.014755102133904203\ \(0\)\
+\-\ enhanced\\:\\ 0\\.01456758217032657\ \(0\)\
+\-\ mediastinal\\:\\ 0\\.014454711625998975\ \(0\)\
+\-\ outside\\:\\ 0\\.014280517159808413\ \(0\)\
+\-\ mass\\:\\ 0\\.014204713230448978\ \(0\)\
+\-\ aortic\\:\\ 0\\.01378060617248799\ \(0\)\
+\-\ lymph\\:\\ 0\\.013743196848385047\ \(0\)\
+\-\ transverse\\:\\ 0\\.013651182048406364\ \(0\)\
+\-\ measuring\\:\\ 0\\.013614963037644404\ \(0\)\
+\-\ solid\\:\\ 0\\.013579070328710675\ \(0\)\
+\-\ necrosis\\:\\ 0\\.013438648260735875\ \(0\)\
+\-\ colon\\:\\ 0\\.013370250636742388\ \(0\)\
+\-\ http\\:\\ 0\\.012891588039762055\ \(0\)\
+\-\ tumors\\:\\ 0\\.012787714572392434\ \(0\)\
+\-\ has\\:\\ 0\\.012786453948161577\ \(0\)\
+\-\ \\‚\\Ä\\ú\\:\\ 0\\.012715143098721751\ \(0\)\
+\-\ \\‚\\Ä\\ù\\:\\ 0\\.012643869932384002\ \(0\)\
+\-\ clear\\:\\ 0\\.012587755430863129\ \(0\)\
+\-\ breast\\:\\ 0\\.01255999180808985\ \(0\)\
+\-\ ap\\:\\ 0\\.012450832548376246\ \(0\)\
+\-\ reported\\:\\ 0\\.012410656775202438\ \(0\)\
+\-\ calcification\\:\\ 0\\.012357711627319239\ \(0\)\
+\-\ intensity\\:\\ 0\\.012305460862068927\ \(0\)\
+\-\ enlarged\\:\\ 0\\.011616020200733093\ \(0\)\
+\-\ central\\:\\ 0\\.011201718553226929\ \(0\)\
+\-\ body\\:\\ 0\\.011056827540593962\ \(0\)\
+\-\ radiograph\\:\\ 0\\.010844416947893875\ \(0\)\
+\-\ between\\:\\ 0\\.010790818869419298\ \(0\)\
+\-\ enhancing\\:\\ 0\\.01067710570870422\ \(0\)\
+\-\ usually\\:\\ 0\\.010338359577158403\ \(0\)\
+\-\ yo\\:\\ 0\\.01024442837969228\ \(0\)\
+\-\ treated\\:\\ 0\\.010190640781210594\ \(0\)\
+\-\ loss\\:\\ 0\\.009882327380352348\ \(0\)\
+\-\ wall\\:\\ 0\\.00986119171409859\ \(0\)\
+\-\ lung\\:\\ 0\\.00986119171409859\ \(0\)\
+\-\ cystic\\:\\ 0\\.009819253813752026\ \(0\)\
+\-\ when\\:\\ 0\\.00975032365584066\ \(0\)\
+\-\ lymphoma\\:\\ 0\\.00972987503740831\ \(0\)\
+\-\ axial\\:\\ 0\\.009716300701465624\ \(0\)\
+\-\ carcinoma\\:\\ 0\\.009649114223170783\ \(0\)\
+\-\ an\\:\\ 0\\.009415656289121353\ \(0\)\
+\-\ the\\:\\ 0\\.009363497370365093\ \(0\)\
+\-\ \\:\\:\\ 0\\.00900617383259494\ \(0\)\
+\-\ than\\:\\ 0\\.008920513366208263\ \(0\)\
+\-\ metastatic\\:\\ 0\\.008570156986518288\ \(0\)\
+\-\ consistent\\:\\ 0\\.008347801867853399\ \(0\)\
+\-\ or\\:\\ 0\\.007980260947917988\ \(0\)\
+\-\ woman\\:\\ 0\\.00786415516927851\ \(0\)\
+\-\ lower\\:\\ 0\\.007656820993481524\ \(0\)\
+\-\ contrast\\:\\ 0\\.007620620266166954\ \(0\)\
+\-\ may\\:\\ 0\\.007467443700789338\ \(0\)\
+\-\ large\\:\\ 0\\.007444392158689561\ \(0\)\
+\-\ but\\:\\ 0\\.007260969326826843\ \(0\)\
+\-\ presents\\:\\ 0\\.006954758149433968\ \(0\)\
+\-\ in\\:\\ 0\\.006715493707414421\ \(0\)\
+\-\ also\\:\\ 0\\.006711631847291439\ \(0\)\
+\-\ images\\:\\ 0\\.0065309318404356735\ \(0\)\
+\-\ on\\:\\ 0\\.005768055875421738\ \(0\)\
+\-\ and\\:\\ 0\\.005737338828118516\ \(0\)\
+\-\ by\\:\\ 0\\.005668808379461652\ \(0\)\
+\-\ as\\:\\ 0\\.005149711178861067\ \(0\)\
+\-\ from\\:\\ 0\\.005045560610176145\ \(0\)\
+\-\ ct\\:\\ 0\\.0047621659497690955\ \(0\)\
+\-\ with\\:\\ 0\\.004661520959756563\ \(0\)\
+\-\ at\\:\\ 0\\.004612602202516466\ \(0\)\
+\-\ no\\:\\ 0\\.003428064345433474\ \(0\)\
+\-\ a\\:\\ 0\\.0031601577834151494\ \(0\)\
+\-\ \\(\\:\\ 0\\.002877935164318169\ \(0\)\
+\-\ \\)\\:\\ 0\\.002842779649853805\ \(0\)\
+\-\ of\\:\\ 0\\.002784951413497731\ \(0\)\
+\-\ \\.\\:\\ 0\\.0014143241473046325\ \(0\)\

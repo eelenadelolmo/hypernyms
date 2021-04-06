@@ -1,51 +1,49 @@
-Texto: 
-mild truncal ataxia
-partial removal and radiation therapy
-mri:
-right cerebellar mass
-mild deformity of fourth ventricle
-no hydrocephalus
-minimal enchancement
-adult medulloblastoma
-metastatic disease
-astrocytoma
-infarct
-medulloblastoma
-lhermitte-duclos disease
-54 y.o. woman, who  presents with ischemic symptoms.
-
-
-Keywords by value: 
-- medulloblastoma: 0.40338599016402077
-- truncal: 0.27940272932379673
-- enchancement: 0.27319511055933304
-- mild: 0.22019573725538266
-- ataxia: 0.18858990304348752
-- 54: 0.1829385008060014
-- adult: 0.17915153040194814
-- fourth: 0.17416002806216982
-- ischemic: 0.17176973872311033
-- disease: 0.1630534199983054
-- infarct: 0.1616160658423341
-- cerebellar: 0.15894025245061008
-- deformity: 0.15874287427355943
-- hydrocephalus: 0.15854663372920647
-- partial: 0.1496438669848481
-- removal: 0.14845948182079055
-- minimal: 0.14816971292121528
-- astrocytoma: 0.1466186205249479
-- ventricle: 0.14296249091457808
-- radiation: 0.12870639208980805
-- therapy: 0.1115920600466643
-- who: 0.10986289433282886
-- metastatic: 0.10652002448623743
-- symptoms: 0.10626625208018196
-- woman: 0.10115047767542194
-- mri: 0.09969538052873343
-- presents: 0.09342990679675629
-- mass: 0.07418690413460888
-- right: 0.06439200844287415
-- no: 0.06315817563850172
-- and: 0.04013321161700058
-- with: 0.03803072916734769
-- of: 0.03800801938482207
+\-\ Texto\\:\\ \ \(0\)\
+\-\ mild\\ truncal\\ ataxia\ \(0\)\
+\-\ partial\\ removal\\ and\\ radiation\\ therapy\ \(0\)\
+\-\ mri\\:\ \(0\)\
+\-\ right\\ cerebellar\\ mass\ \(4\)\
+\-\ mild\\ deformity\\ of\\ fourth\\ ventricle\ \(0\)\
+\-\ no\\ hydrocephalus\ \(5\)\
+\-\ minimal\\ enchancement\ \(1\)\
+\-\ adult\\ medulloblastoma\ \(0\)\
+\-\ metastatic\\ disease\ \(243\)\
+\-\ astrocytoma\ \(206\)\
+\-\ infarct\ \(514\)\
+\-\ medulloblastoma\ \(30\)\
+\-\ lhermitte\\-duclos\\ disease\ \(0\)\
+\-\ 54\\ y\\.o\\.\\ woman\\,\\ who\\ \\ presents\\ with\\ ischemic\\ symptoms\\.\ \(1\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ medulloblastoma\\:\\ 0\\.40338599016402077\ \(0\)\
+\-\ truncal\\:\\ 0\\.27940272932379673\ \(0\)\
+\-\ enchancement\\:\\ 0\\.27319511055933304\ \(0\)\
+\-\ mild\\:\\ 0\\.22019573725538266\ \(0\)\
+\-\ ataxia\\:\\ 0\\.18858990304348752\ \(0\)\
+\-\ 54\\:\\ 0\\.1829385008060014\ \(0\)\
+\-\ adult\\:\\ 0\\.17915153040194814\ \(0\)\
+\-\ fourth\\:\\ 0\\.17416002806216982\ \(0\)\
+\-\ ischemic\\:\\ 0\\.17176973872311033\ \(0\)\
+\-\ disease\\:\\ 0\\.1630534199983054\ \(0\)\
+\-\ infarct\\:\\ 0\\.1616160658423341\ \(0\)\
+\-\ cerebellar\\:\\ 0\\.15894025245061008\ \(0\)\
+\-\ deformity\\:\\ 0\\.15874287427355943\ \(0\)\
+\-\ hydrocephalus\\:\\ 0\\.15854663372920647\ \(0\)\
+\-\ partial\\:\\ 0\\.1496438669848481\ \(0\)\
+\-\ removal\\:\\ 0\\.14845948182079055\ \(0\)\
+\-\ minimal\\:\\ 0\\.14816971292121528\ \(0\)\
+\-\ astrocytoma\\:\\ 0\\.1466186205249479\ \(0\)\
+\-\ ventricle\\:\\ 0\\.14296249091457808\ \(0\)\
+\-\ radiation\\:\\ 0\\.12870639208980805\ \(0\)\
+\-\ therapy\\:\\ 0\\.1115920600466643\ \(0\)\
+\-\ who\\:\\ 0\\.10986289433282886\ \(0\)\
+\-\ metastatic\\:\\ 0\\.10652002448623743\ \(0\)\
+\-\ symptoms\\:\\ 0\\.10626625208018196\ \(0\)\
+\-\ woman\\:\\ 0\\.10115047767542194\ \(0\)\
+\-\ mri\\:\\ 0\\.09969538052873343\ \(0\)\
+\-\ presents\\:\\ 0\\.09342990679675629\ \(0\)\
+\-\ mass\\:\\ 0\\.07418690413460888\ \(0\)\
+\-\ right\\:\\ 0\\.06439200844287415\ \(0\)\
+\-\ no\\:\\ 0\\.06315817563850172\ \(0\)\
+\-\ and\\:\\ 0\\.04013321161700058\ \(0\)\
+\-\ with\\:\\ 0\\.03803072916734769\ \(0\)\
+\-\ of\\:\\ 0\\.03800801938482207\ \(0\)\

@@ -1,77 +1,75 @@
-Texto: 
-elderly black female
-blood pressure:  164/95
-creatinine:  1.9
-palmaz stent placed across ostial stenosis of left renal artery
-left renal artery stenosis on mra
-> 75% stenosis of left renal artery
-severe stenosis at the ostium of the left renal artery causing renovascular hypetension.
-renovascular hypertension
-renal artery stenosis secondary to atherosclerosis
-renal artery stenosis secondary to fibromuscular dysplasia
-84 year old female with multiple medical problems, including hypertension which is poorly controlled on three medications.
-notice that the microwire used during stent placement has a curved tip.  this protects the tertiary branches of the renal artery from perforation.
-
-
-Keywords by value: 
-- stenosis: 0.4079932442227309
-- renal: 0.3896687320776996
-- artery: 0.3886289542361256
-- renovascular: 0.26419035952721404
-- stent: 0.18037815450803807
-- palmaz: 0.1429573645598808
-- ostial: 0.1429573645598808
-- hypetension: 0.1429573645598808
-- microwire: 0.1429573645598808
-- hypertension: 0.13679461236124765
-- protects: 0.12859833730582812
-- left: 0.12197432515340792
-- curved: 0.12123299496733322
-- ostium: 0.11138218172783068
-- tertiary: 0.11037081017105942
-- secondary: 0.10596985637094183
-- notice: 0.10401683938933577
-- fibromuscular: 0.10217108262216229
-- atherosclerosis: 0.09902640824644626
-- elderly: 0.09416602614983323
-- controlled: 0.09315465459306198
-- 84: 0.09283153345191757
-- black: 0.09160181888033252
-- creatinine: 0.09102135177411722
-- the: 0.08918477525360743
-- branches: 0.08864644057851181
-- mra: 0.08840347725990824
-- across: 0.08701985969374228
-- female: 0.08627158391198143
-- perforation: 0.08438501623349104
-- tip: 0.08401627404079931
-- poorly: 0.08073963408405872
-- 75: 0.0784086738483484
-- problems: 0.07754129246363446
-- medications: 0.07498846147059618
-- causing: 0.07342982926431488
-- of: 0.06997452185245366
-- placement: 0.06980370411574482
-- placed: 0.0696572467867466
-- dysplasia: 0.06846470766147145
-- pressure: 0.06806457987819875
-- used: 0.06692207098596423
-- including: 0.06397338941151087
-- three: 0.06000693671176142
-- medical: 0.05681223002856428
-- during: 0.05662073086176086
-- severe: 0.05658904061812232
-- on: 0.05399587298693568
-- blood: 0.05191549614620779
-- to: 0.0446956787866485
-- multiple: 0.043723602049180244
-- has: 0.040831688316637485
-- which: 0.040647459066090304
-- that: 0.0387928016746383
-- from: 0.03550273638039332
-- at: 0.033764512714928197
-- this: 0.030716721616201564
-- year: 0.02754887289571679
-- old: 0.026456454258898757
-- is: 0.024480622946176315
-- with: 0.017504082903146624
+\-\ Texto\\:\\ \ \(0\)\
+\-\ elderly\\ black\\ female\ \(0\)\
+\-\ blood\\ pressure\\:\\ \\ 164\\/95\ \(0\)\
+\-\ creatinine\\:\\ \\ 1\\.9\ \(0\)\
+\-\ palmaz\\ stent\\ placed\\ across\\ ostial\\ stenosis\\ of\\ left\\ renal\\ artery\ \(0\)\
+\-\ left\\ renal\\ artery\\ stenosis\\ on\\ mra\ \(0\)\
+\-\ \\>\\ 75\\%\\ stenosis\\ of\\ left\\ renal\\ artery\ \(1\)\
+\-\ severe\\ stenosis\\ at\\ the\\ ostium\\ of\\ the\\ left\\ renal\\ artery\\ causing\\ renovascular\\ hypetension\\.\ \(1\)\
+\-\ renovascular\\ hypertension\ \(2\)\
+\-\ renal\\ artery\\ stenosis\\ secondary\\ to\\ atherosclerosis\ \(0\)\
+\-\ renal\\ artery\\ stenosis\\ secondary\\ to\\ fibromuscular\\ dysplasia\ \(0\)\
+\-\ 84\\ year\\ old\\ female\\ with\\ multiple\\ medical\\ problems\\,\\ including\\ hypertension\\ which\\ is\\ poorly\\ controlled\\ on\\ three\\ medications\\.\ \(1\)\
+\-\ notice\\ that\\ the\\ microwire\\ used\\ during\\ stent\\ placement\\ has\\ a\\ curved\\ tip\\.\\ \\ this\\ protects\\ the\\ tertiary\\ branches\\ of\\ the\\ renal\\ artery\\ from\\ perforation\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ stenosis\\:\\ 0\\.4079932442227309\ \(0\)\
+\-\ renal\\:\\ 0\\.3896687320776996\ \(0\)\
+\-\ artery\\:\\ 0\\.3886289542361256\ \(0\)\
+\-\ renovascular\\:\\ 0\\.26419035952721404\ \(0\)\
+\-\ stent\\:\\ 0\\.18037815450803807\ \(0\)\
+\-\ palmaz\\:\\ 0\\.1429573645598808\ \(0\)\
+\-\ ostial\\:\\ 0\\.1429573645598808\ \(0\)\
+\-\ hypetension\\:\\ 0\\.1429573645598808\ \(0\)\
+\-\ microwire\\:\\ 0\\.1429573645598808\ \(0\)\
+\-\ hypertension\\:\\ 0\\.13679461236124765\ \(0\)\
+\-\ protects\\:\\ 0\\.12859833730582812\ \(0\)\
+\-\ left\\:\\ 0\\.12197432515340792\ \(0\)\
+\-\ curved\\:\\ 0\\.12123299496733322\ \(0\)\
+\-\ ostium\\:\\ 0\\.11138218172783068\ \(0\)\
+\-\ tertiary\\:\\ 0\\.11037081017105942\ \(0\)\
+\-\ secondary\\:\\ 0\\.10596985637094183\ \(0\)\
+\-\ notice\\:\\ 0\\.10401683938933577\ \(0\)\
+\-\ fibromuscular\\:\\ 0\\.10217108262216229\ \(0\)\
+\-\ atherosclerosis\\:\\ 0\\.09902640824644626\ \(0\)\
+\-\ elderly\\:\\ 0\\.09416602614983323\ \(0\)\
+\-\ controlled\\:\\ 0\\.09315465459306198\ \(0\)\
+\-\ 84\\:\\ 0\\.09283153345191757\ \(0\)\
+\-\ black\\:\\ 0\\.09160181888033252\ \(0\)\
+\-\ creatinine\\:\\ 0\\.09102135177411722\ \(0\)\
+\-\ the\\:\\ 0\\.08918477525360743\ \(0\)\
+\-\ branches\\:\\ 0\\.08864644057851181\ \(0\)\
+\-\ mra\\:\\ 0\\.08840347725990824\ \(0\)\
+\-\ across\\:\\ 0\\.08701985969374228\ \(0\)\
+\-\ female\\:\\ 0\\.08627158391198143\ \(0\)\
+\-\ perforation\\:\\ 0\\.08438501623349104\ \(0\)\
+\-\ tip\\:\\ 0\\.08401627404079931\ \(0\)\
+\-\ poorly\\:\\ 0\\.08073963408405872\ \(0\)\
+\-\ 75\\:\\ 0\\.0784086738483484\ \(0\)\
+\-\ problems\\:\\ 0\\.07754129246363446\ \(0\)\
+\-\ medications\\:\\ 0\\.07498846147059618\ \(0\)\
+\-\ causing\\:\\ 0\\.07342982926431488\ \(0\)\
+\-\ of\\:\\ 0\\.06997452185245366\ \(0\)\
+\-\ placement\\:\\ 0\\.06980370411574482\ \(0\)\
+\-\ placed\\:\\ 0\\.0696572467867466\ \(0\)\
+\-\ dysplasia\\:\\ 0\\.06846470766147145\ \(0\)\
+\-\ pressure\\:\\ 0\\.06806457987819875\ \(0\)\
+\-\ used\\:\\ 0\\.06692207098596423\ \(0\)\
+\-\ including\\:\\ 0\\.06397338941151087\ \(0\)\
+\-\ three\\:\\ 0\\.06000693671176142\ \(0\)\
+\-\ medical\\:\\ 0\\.05681223002856428\ \(0\)\
+\-\ during\\:\\ 0\\.05662073086176086\ \(0\)\
+\-\ severe\\:\\ 0\\.05658904061812232\ \(0\)\
+\-\ on\\:\\ 0\\.05399587298693568\ \(0\)\
+\-\ blood\\:\\ 0\\.05191549614620779\ \(0\)\
+\-\ to\\:\\ 0\\.0446956787866485\ \(0\)\
+\-\ multiple\\:\\ 0\\.043723602049180244\ \(0\)\
+\-\ has\\:\\ 0\\.040831688316637485\ \(0\)\
+\-\ which\\:\\ 0\\.040647459066090304\ \(0\)\
+\-\ that\\:\\ 0\\.0387928016746383\ \(0\)\
+\-\ from\\:\\ 0\\.03550273638039332\ \(0\)\
+\-\ at\\:\\ 0\\.033764512714928197\ \(0\)\
+\-\ this\\:\\ 0\\.030716721616201564\ \(0\)\
+\-\ year\\:\\ 0\\.02754887289571679\ \(0\)\
+\-\ old\\:\\ 0\\.026456454258898757\ \(0\)\
+\-\ is\\:\\ 0\\.024480622946176315\ \(0\)\
+\-\ with\\:\\ 0\\.017504082903146624\ \(0\)\

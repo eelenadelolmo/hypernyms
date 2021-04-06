@@ -1,89 +1,85 @@
-Texto: 
-alert mental status.  limited mobility.
-routine monitoring of head ct and shunt series to evaluate for hydrocephalus and intact shunt.
-vp shunt tubing seen in the right upper quadrant (other images demonstrate it is intact throughout its course).
-
-incomplete fusion of the posterior elements of l5 and s1 (partially post-surgical sequelae).
-
-bilateral right greater than left hip dysplasia.
-chiari ii malformation
-chiari ii malformation (with history of myelomeningocele
-developmental hip dysplasia
-15 yo male, history withheld, for routine follow up.
-a 15 year old male with chiari ii malformation.  early surgical correction of myelomeningocele and shunt placement for hydrocephalus has done well, but has limited mobility of the lower extremities.
-
-
-Keywords by value: 
-- shunt: 0.3839520272206936
-- chiari: 0.3175950357657842
-- myelomeningocele: 0.2573446710716972
-- ii: 0.2394424513994367
-- malformation: 0.23422612568946372
-- mobility: 0.22650051531827634
-- hydrocephalus: 0.16527387348521408
-- limited: 0.16159563243961886
-- routine: 0.15678740079165357
-- hip: 0.15552531922149782
-- dysplasia: 0.155063373815309
-- intact: 0.14653677414817576
-- tubing: 0.13728823111551894
-- 15: 0.1368108185819707
-- withheld: 0.12613284618862633
-- vp: 0.12289734009748243
-- of: 0.11886217523784863
-- sequelae: 0.10744348754411434
-- correction: 0.10407094484790694
-- monitoring: 0.10094956231516734
-- elements: 0.10038614508360648
-- incomplete: 0.09931029131946797
-- surgical: 0.09840265900986579
-- l5: 0.09337652485547433
-- alert: 0.09319069957458824
-- series: 0.09282478656620552
-- has: 0.09247829378399579
-- for: 0.09204657107939233
-- male: 0.09014343352314363
-- s1: 0.08836492247885491
-- mental: 0.08822463596037285
-- developmental: 0.08753937120234345
-- partially: 0.08687958695320336
-- fusion: 0.08503576892937788
-- and: 0.08367218127976682
-- done: 0.0805240912222347
-- placement: 0.07904801053495313
-- evaluate: 0.07871784004051062
-- history: 0.07735182947533255
-- extremities: 0.07693006481274305
-- its: 0.07490571764529544
-- course: 0.0747742640651716
-- greater: 0.07457889160923253
-- throughout: 0.07444982811546666
-- early: 0.07297012539486866
-- quadrant: 0.07090623981038459
-- status: 0.07064487791134139
-- right: 0.06712420444714848
-- yo: 0.06324307947059725
-- the: 0.06059746378600353
-- head: 0.06037609854317088
-- than: 0.05738469743117848
-- follow: 0.0545720348719791
-- bilateral: 0.05440501103035936
-- upper: 0.05409601624475918
-- demonstrate: 0.052626935804020614
-- other: 0.05257062855792714
-- posterior: 0.05234716933457582
-- it: 0.051818482661765884
-- lower: 0.05172890068369362
-- up: 0.050074918286724744
-- but: 0.05005864487689824
-- well: 0.04901631147276403
-- seen: 0.0476585039837335
-- images: 0.04682584998462484
-- with: 0.03964439845307666
-- ct: 0.03853940520167634
-- left: 0.03453193445054441
-- year: 0.03119724980891824
-- old: 0.02996015901258193
-- is: 0.02772266264470444
-- to: 0.025307428397606694
-- in: 0.02518286528744716
+\-\ Texto\\:\\ \ \(0\)\
+\-\ alert\\ mental\\ status\\.\\ \\ limited\\ mobility\\.\ \(0\)\
+\-\ routine\\ monitoring\\ of\\ head\\ ct\\ and\\ shunt\\ series\\ to\\ evaluate\\ for\\ hydrocephalus\\ and\\ intact\\ shunt\\.\ \(0\)\
+\-\ vp\\ shunt\\ tubing\\ seen\\ in\\ the\\ right\\ upper\\ quadrant\\ \\(other\\ images\\ demonstrate\\ it\\ is\\ intact\\ throughout\\ its\\ course\\)\\.\ \(0\)\
+\-\ incomplete\\ fusion\\ of\\ the\\ posterior\\ elements\\ of\\ l5\\ and\\ s1\\ \\(partially\\ post\\-surgical\\ sequelae\\)\\.\ \(0\)\
+\-\ bilateral\\ right\\ greater\\ than\\ left\\ hip\\ dysplasia\\.\ \(0\)\
+\-\ chiari\\ ii\\ malformation\ \(0\)\
+\-\ chiari\\ ii\\ malformation\\ \\(with\\ history\\ of\\ myelomeningocele\ \(0\)\
+\-\ developmental\\ hip\\ dysplasia\ \(1\)\
+\-\ 15\\ yo\\ male\\,\\ history\\ withheld\\,\\ for\\ routine\\ follow\\ up\\.\ \(1\)\
+\-\ a\\ 15\\ year\\ old\\ male\\ with\\ chiari\\ ii\\ malformation\\.\\ \\ early\\ surgical\\ correction\\ of\\ myelomeningocele\\ and\\ shunt\\ placement\\ for\\ hydrocephalus\\ has\\ done\\ well\\,\\ but\\ has\\ limited\\ mobility\\ of\\ the\\ lower\\ extremities\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ shunt\\:\\ 0\\.3839520272206936\ \(0\)\
+\-\ chiari\\:\\ 0\\.3175950357657842\ \(0\)\
+\-\ myelomeningocele\\:\\ 0\\.2573446710716972\ \(0\)\
+\-\ ii\\:\\ 0\\.2394424513994367\ \(0\)\
+\-\ malformation\\:\\ 0\\.23422612568946372\ \(0\)\
+\-\ mobility\\:\\ 0\\.22650051531827634\ \(0\)\
+\-\ hydrocephalus\\:\\ 0\\.16527387348521408\ \(0\)\
+\-\ limited\\:\\ 0\\.16159563243961886\ \(0\)\
+\-\ routine\\:\\ 0\\.15678740079165357\ \(0\)\
+\-\ hip\\:\\ 0\\.15552531922149782\ \(0\)\
+\-\ dysplasia\\:\\ 0\\.155063373815309\ \(0\)\
+\-\ intact\\:\\ 0\\.14653677414817576\ \(0\)\
+\-\ tubing\\:\\ 0\\.13728823111551894\ \(0\)\
+\-\ 15\\:\\ 0\\.1368108185819707\ \(0\)\
+\-\ withheld\\:\\ 0\\.12613284618862633\ \(0\)\
+\-\ vp\\:\\ 0\\.12289734009748243\ \(0\)\
+\-\ of\\:\\ 0\\.11886217523784863\ \(0\)\
+\-\ sequelae\\:\\ 0\\.10744348754411434\ \(0\)\
+\-\ correction\\:\\ 0\\.10407094484790694\ \(0\)\
+\-\ monitoring\\:\\ 0\\.10094956231516734\ \(0\)\
+\-\ elements\\:\\ 0\\.10038614508360648\ \(0\)\
+\-\ incomplete\\:\\ 0\\.09931029131946797\ \(0\)\
+\-\ surgical\\:\\ 0\\.09840265900986579\ \(0\)\
+\-\ l5\\:\\ 0\\.09337652485547433\ \(0\)\
+\-\ alert\\:\\ 0\\.09319069957458824\ \(0\)\
+\-\ series\\:\\ 0\\.09282478656620552\ \(0\)\
+\-\ has\\:\\ 0\\.09247829378399579\ \(0\)\
+\-\ for\\:\\ 0\\.09204657107939233\ \(0\)\
+\-\ male\\:\\ 0\\.09014343352314363\ \(0\)\
+\-\ s1\\:\\ 0\\.08836492247885491\ \(0\)\
+\-\ mental\\:\\ 0\\.08822463596037285\ \(0\)\
+\-\ developmental\\:\\ 0\\.08753937120234345\ \(0\)\
+\-\ partially\\:\\ 0\\.08687958695320336\ \(0\)\
+\-\ fusion\\:\\ 0\\.08503576892937788\ \(0\)\
+\-\ and\\:\\ 0\\.08367218127976682\ \(0\)\
+\-\ done\\:\\ 0\\.0805240912222347\ \(0\)\
+\-\ placement\\:\\ 0\\.07904801053495313\ \(0\)\
+\-\ evaluate\\:\\ 0\\.07871784004051062\ \(0\)\
+\-\ history\\:\\ 0\\.07735182947533255\ \(0\)\
+\-\ extremities\\:\\ 0\\.07693006481274305\ \(0\)\
+\-\ its\\:\\ 0\\.07490571764529544\ \(0\)\
+\-\ course\\:\\ 0\\.0747742640651716\ \(0\)\
+\-\ greater\\:\\ 0\\.07457889160923253\ \(0\)\
+\-\ throughout\\:\\ 0\\.07444982811546666\ \(0\)\
+\-\ early\\:\\ 0\\.07297012539486866\ \(0\)\
+\-\ quadrant\\:\\ 0\\.07090623981038459\ \(0\)\
+\-\ status\\:\\ 0\\.07064487791134139\ \(0\)\
+\-\ right\\:\\ 0\\.06712420444714848\ \(0\)\
+\-\ yo\\:\\ 0\\.06324307947059725\ \(0\)\
+\-\ the\\:\\ 0\\.06059746378600353\ \(0\)\
+\-\ head\\:\\ 0\\.06037609854317088\ \(0\)\
+\-\ than\\:\\ 0\\.05738469743117848\ \(0\)\
+\-\ follow\\:\\ 0\\.0545720348719791\ \(0\)\
+\-\ bilateral\\:\\ 0\\.05440501103035936\ \(0\)\
+\-\ upper\\:\\ 0\\.05409601624475918\ \(0\)\
+\-\ demonstrate\\:\\ 0\\.052626935804020614\ \(0\)\
+\-\ other\\:\\ 0\\.05257062855792714\ \(0\)\
+\-\ posterior\\:\\ 0\\.05234716933457582\ \(0\)\
+\-\ it\\:\\ 0\\.051818482661765884\ \(0\)\
+\-\ lower\\:\\ 0\\.05172890068369362\ \(0\)\
+\-\ up\\:\\ 0\\.050074918286724744\ \(0\)\
+\-\ but\\:\\ 0\\.05005864487689824\ \(0\)\
+\-\ well\\:\\ 0\\.04901631147276403\ \(0\)\
+\-\ seen\\:\\ 0\\.0476585039837335\ \(0\)\
+\-\ images\\:\\ 0\\.04682584998462484\ \(0\)\
+\-\ with\\:\\ 0\\.03964439845307666\ \(0\)\
+\-\ ct\\:\\ 0\\.03853940520167634\ \(0\)\
+\-\ left\\:\\ 0\\.03453193445054441\ \(0\)\
+\-\ year\\:\\ 0\\.03119724980891824\ \(0\)\
+\-\ old\\:\\ 0\\.02996015901258193\ \(0\)\
+\-\ is\\:\\ 0\\.02772266264470444\ \(0\)\
+\-\ to\\:\\ 0\\.025307428397606694\ \(0\)\
+\-\ in\\:\\ 0\\.02518286528744716\ \(0\)\

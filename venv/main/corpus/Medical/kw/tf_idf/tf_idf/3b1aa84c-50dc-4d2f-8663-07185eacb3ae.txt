@@ -1,192 +1,183 @@
-Texto: 
-normal physical exam.  labs unremarkable.
-spot fluoroscopic image of a hysterosalpingogram demonstrates a unicornuate uterus on the left with free spill of contrast material.
-unicornuate uterus
--unicornuate uterus
--hysterosalpingogram of the left portion of a didelphys uterus (since the physical exam was normal, including visualization of the cervix, which was not duplicated, this diagnosis was excluded clinically, but not by the single image)
-25 year old female presenting for infertility work-up.
-congential abnormalities of the vaginia and uterus occur in up to 3% of women and may not present themselves until the woman is trying to conceive.  seven classes of congenital abnormalities are recognized by the american fertility society.
-
-class i is hypoplasia or agenesis of the mullerian system.  this is represented by hypoplasia or lack of the uterus, fallopian tubes, vagina, and ervix, or a combination of the above.  renal agenesis may also occur.
-
-class ii is demonstrated by a unilateral failure of a mullerian duct.  our patient‚Äôs unicornuate uterus falls under this category.  the affected side may be completely absent or severely hypoplastic. 
-
-class iii is uterus duplication, or, uterus didelphys.  two cervices, uteruses, and fallopian tubes are completely separated.  there is one vagina, but this may be septated.  if there is unilateral vaginal atresia, there is high likelihood of unilateral renal agenesis.
-
-class iv is a bicornuate uterus.  there is one cervix, but there are two superior horns of the uterus.
-
-class v is a septate uterus.  externally, the uterus appears normal, but an internal sepatation divides the right and left halves.
-
-class vi is an arcuate uterus.  this is usually considered a normal variant.
-
-class vii  are those anomalies associated with in utero exposure to des.  multiple abnormalities have been describes, but a ‚Äút-shaped‚Äù utereus is the classic abnormal finding.
-
-
-Keywords by value: 
-- uterus: 0.16440925229324294
-- class: 0.11591886138851731
-- unicornuate: 0.061432294064767724
-- agenesis: 0.04420686567002568
-- mullerian: 0.04095486270984515
-- didelphys: 0.03927741622324584
-- unilateral: 0.03709161031017302
-- vagina: 0.036446466860087234
-- cervix: 0.03311967468243352
-- tubes: 0.030347524847360197
-- fallopian: 0.029337194111068436
-- abnormalities: 0.027452751793278864
-- hypoplasia: 0.027152392656599567
-- but: 0.026567103513608418
-- -unicornuate: 0.02570121989494606
-- -hysterosalpingogram: 0.02570121989494606
-- vaginia: 0.02570121989494606
-- ervix: 0.02570121989494606
-- sepatation: 0.02570121989494606
-- utereus: 0.02570121989494606
-- completely: 0.023941622289528654
-- cervices: 0.023680382633838346
-- uteruses: 0.023680382633838346
-- divides: 0.023680382633838346
-- halves: 0.023680382633838346
-- t-shaped: 0.023680382633838346
-- is: 0.022950644015703084
-- may: 0.021858056780153047
-- des: 0.021659545372730633
-- spill: 0.020477431354922575
-- conceive: 0.020477431354922575
-- classes: 0.020477431354922575
-- congential: 0.01963870811162292
-- represented: 0.019295317337114513
-- themselves: 0.018710271577749644
-- externally: 0.018710271577749644
-- occur: 0.018694149438959407
-- there: 0.018538127645262224
-- fertility: 0.018456594093814862
-- vi: 0.018223233430043617
-- arcuate: 0.018223233430043617
-- trying: 0.018007175202190202
-- society: 0.017806029804269062
-- septated: 0.017806029804269062
-- hysterosalpingogram: 0.017617870850515208
-- bicornuate: 0.017617870850515208
-- septate: 0.017617870850515208
-- vii: 0.017617870850515208
-- separated: 0.016825061184382144
-- utero: 0.01668943431664193
-- by: 0.016593246685071426
-- duplicated: 0.01655983734121676
-- category: 0.016316742271423608
-- horns: 0.015689595392073912
-- normal: 0.015622302677540537
-- seven: 0.015597033589407496
-- falls: 0.015597033589407496
-- image: 0.015563785226225077
-- recognized: 0.01550732029883387
-- likelihood: 0.01550732029883387
-- infertility: 0.015173762423680098
-- severely: 0.015173762423680098
-- describes: 0.015173762423680098
-- renal: 0.01497070291229195
-- or: 0.014599456981978244
-- hypoplastic: 0.01441491957159944
-- two: 0.014270152989014611
-- ,: 0.01420635912335619
-- work-up: 0.014071528797091032
-- duplication: 0.014018032765988417
-- this: 0.014010746549768702
-- atresia: 0.01371616489735623
-- v: 0.0136687581309662
-- fluoroscopic: 0.013622109905466372
-- are: 0.013584534956613431
-- one: 0.01350280689977052
-- excluded: 0.013486483037726158
-- spot: 0.01339944815973875
-- visualization: 0.013152925162572385
-- vaginal: 0.013152925162572385
-- anomalies: 0.013037064146101498
-- exposure: 0.012962304873176317
-- combination: 0.012550025998395477
-- physical: 0.012224520522339582
-- women: 0.01210518755059601
-- american: 0.011867598529455533
-- variant: 0.011867598529455533
-- our: 0.011842356364023714
-- iii: 0.011695327636248518
-- a: 0.011562676437860095
-- duct: 0.011421803568558563
-- lack: 0.011336048801193276
-- those: 0.011336048801193276
-- material: 0.011132087901464674
-- exam: 0.010945970495332583
-- until: 0.010941467612068604
-- clinically: 0.01092307353278795
-- under: 0.010886629909568615
-- not: 0.010800163309696229
-- absent: 0.01079746540994156
-- affected: 0.010779955135713537
-- ii: 0.01074524696514118
-- i: 0.010298293572094781
-- free: 0.010254230488100471
-- presenting: 0.010153934783385216
-- single: 0.010098134957698051
-- 25: 0.010070630490545402
-- considered: 0.01005697495319139
-- system: 0.009808979505541684
-- failure: 0.009759353594260544
-- classic: 0.009545932591277178
-- ‚Äú: 0.00930466739877306
-- appears: 0.009273261868213553
-- ‚Äù: 0.009252511233318906
-- since: 0.009150917264426288
-- above: 0.009131016491626287
-- congenital: 0.009111250640356961
-- iv: 0.009091617893472577
-- portion: 0.009023926085595005
-- including: 0.008995389623886076
-- labs: 0.008664647250539762
-- was: 0.008643826724901051
-- side: 0.008631039363743646
-- left: 0.00836243675748905
-- internal: 0.008352407788276301
-- unremarkable: 0.008248007051551197
-- finding: 0.008029333833931432
-- superior: 0.007955520982665281
-- be: 0.007683712672559353
-- usually: 0.007565388495238364
-- ‚Äô: 0.007446142098091708
-- demonstrated: 0.007310262339524686
-- s: 0.007145095239401128
-- abnormal: 0.007105225190422482
-- an: 0.006890174135771019
-- high: 0.006817918545413457
-- been: 0.006777827666075775
-- if: 0.006760184938135963
-- up: 0.006699262831061876
-- the: 0.006448946225242019
-- associated: 0.005878899597398548
-- 3: 0.00583374789127271
-- %: 0.005811431584099147
-- woman: 0.005754819088888939
-- diagnosis: 0.005720756066415218
-- present: 0.00562684767910111
-- contrast: 0.005576605500897683
-- demonstrates: 0.005442044319688589
-- have: 0.005394863202230588
-- multiple: 0.00524724782355472
-- female: 0.005121750062530127
-- also: 0.004911427386793444
-- of: 0.004755257175428099
-- which: 0.00465056730974504
-- to: 0.0037352895782185387
-- year: 0.0027874789191630165
-- right: 0.002628663874957483
-- and: 0.002624037984434671
-- old: 0.0025508297284613838
-- patient: 0.0024973525682693526
-- .: 0.0024839325549163575
-- in: 0.0024571267063571716
-- for: 0.0021256797336522307
-- on: 0.002110469423805913
-- (: 0.0021060108636847246
-- ): 0.002080284816656866
-- with: 0.000682240093818599
+\-\ Texto\\:\\ \ \(0\)\
+\-\ normal\\ physical\\ exam\\.\\ \\ labs\\ unremarkable\\.\ \(0\)\
+\-\ spot\\ fluoroscopic\\ image\\ of\\ a\\ hysterosalpingogram\\ demonstrates\\ a\\ unicornuate\\ uterus\\ on\\ the\\ left\\ with\\ free\\ spill\\ of\\ contrast\\ material\\.\ \(0\)\
+\-\ unicornuate\\ uterus\ \(6\)\
+\-\ unicornuate\\ uterus\ \(6\)\
+\-\ hysterosalpingogram\\ of\\ the\\ left\\ portion\\ of\\ a\\ didelphys\\ uterus\\ \\(since\\ the\\ physical\\ exam\\ was\\ normal\\,\\ including\\ visualization\\ of\\ the\\ cervix\\,\\ which\\ was\\ not\\ duplicated\\,\\ this\\ diagnosis\\ was\\ excluded\\ clinically\\,\\ but\\ not\\ by\\ the\\ single\\ image\\)\ \(0\)\
+\-\ 25\\ year\\ old\\ female\\ presenting\\ for\\ infertility\\ work\\-up\\.\ \(1\)\
+\-\ congential\\ abnormalities\\ of\\ the\\ vaginia\\ and\\ uterus\\ occur\\ in\\ up\\ to\\ 3\\%\\ of\\ women\\ and\\ may\\ not\\ present\\ themselves\\ until\\ the\\ woman\\ is\\ trying\\ to\\ conceive\\.\\ \\ seven\\ classes\\ of\\ congenital\\ abnormalities\\ are\\ recognized\\ by\\ the\\ american\\ fertility\\ society\\.\ \(0\)\
+\-\ class\\ i\\ is\\ hypoplasia\\ or\\ agenesis\\ of\\ the\\ mullerian\\ system\\.\\ \\ this\\ is\\ represented\\ by\\ hypoplasia\\ or\\ lack\\ of\\ the\\ uterus\\,\\ fallopian\\ tubes\\,\\ vagina\\,\\ and\\ ervix\\,\\ or\\ a\\ combination\\ of\\ the\\ above\\.\\ \\ renal\\ agenesis\\ may\\ also\\ occur\\.\ \(0\)\
+\-\ class\\ ii\\ is\\ demonstrated\\ by\\ a\\ unilateral\\ failure\\ of\\ a\\ mullerian\\ duct\\.\\ \\ our\\ patient\\‚\\Ä\\ôs\\ unicornuate\\ uterus\\ falls\\ under\\ this\\ category\\.\\ \\ the\\ affected\\ side\\ may\\ be\\ completely\\ absent\\ or\\ severely\\ hypoplastic\\.\\ \ \(0\)\
+\-\ class\\ iii\\ is\\ uterus\\ duplication\\,\\ or\\,\\ uterus\\ didelphys\\.\\ \\ two\\ cervices\\,\\ uteruses\\,\\ and\\ fallopian\\ tubes\\ are\\ completely\\ separated\\.\\ \\ there\\ is\\ one\\ vagina\\,\\ but\\ this\\ may\\ be\\ septated\\.\\ \\ if\\ there\\ is\\ unilateral\\ vaginal\\ atresia\\,\\ there\\ is\\ high\\ likelihood\\ of\\ unilateral\\ renal\\ agenesis\\.\ \(0\)\
+\-\ class\\ iv\\ is\\ a\\ bicornuate\\ uterus\\.\\ \\ there\\ is\\ one\\ cervix\\,\\ but\\ there\\ are\\ two\\ superior\\ horns\\ of\\ the\\ uterus\\.\ \(0\)\
+\-\ class\\ v\\ is\\ a\\ septate\\ uterus\\.\\ \\ externally\\,\\ the\\ uterus\\ appears\\ normal\\,\\ but\\ an\\ internal\\ sepatation\\ divides\\ the\\ right\\ and\\ left\\ halves\\.\ \(0\)\
+\-\ class\\ vi\\ is\\ an\\ arcuate\\ uterus\\.\\ \\ this\\ is\\ usually\\ considered\\ a\\ normal\\ variant\\.\ \(0\)\
+\-\ class\\ vii\\ \\ are\\ those\\ anomalies\\ associated\\ with\\ in\\ utero\\ exposure\\ to\\ des\\.\\ \\ multiple\\ abnormalities\\ have\\ been\\ describes\\,\\ but\\ a\\ \\‚\\Ä\\út\\-shaped\\‚\\Ä\\ù\\ utereus\\ is\\ the\\ classic\\ abnormal\\ finding\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ uterus\\:\\ 0\\.16440925229324294\ \(0\)\
+\-\ class\\:\\ 0\\.11591886138851731\ \(0\)\
+\-\ unicornuate\\:\\ 0\\.061432294064767724\ \(0\)\
+\-\ agenesis\\:\\ 0\\.04420686567002568\ \(0\)\
+\-\ mullerian\\:\\ 0\\.04095486270984515\ \(0\)\
+\-\ didelphys\\:\\ 0\\.03927741622324584\ \(0\)\
+\-\ unilateral\\:\\ 0\\.03709161031017302\ \(0\)\
+\-\ vagina\\:\\ 0\\.036446466860087234\ \(0\)\
+\-\ cervix\\:\\ 0\\.03311967468243352\ \(0\)\
+\-\ tubes\\:\\ 0\\.030347524847360197\ \(0\)\
+\-\ fallopian\\:\\ 0\\.029337194111068436\ \(0\)\
+\-\ abnormalities\\:\\ 0\\.027452751793278864\ \(0\)\
+\-\ hypoplasia\\:\\ 0\\.027152392656599567\ \(0\)\
+\-\ but\\:\\ 0\\.026567103513608418\ \(0\)\
+\-\ \\-unicornuate\\:\\ 0\\.02570121989494606\ \(0\)\
+\-\ \\-hysterosalpingogram\\:\\ 0\\.02570121989494606\ \(0\)\
+\-\ vaginia\\:\\ 0\\.02570121989494606\ \(0\)\
+\-\ ervix\\:\\ 0\\.02570121989494606\ \(0\)\
+\-\ sepatation\\:\\ 0\\.02570121989494606\ \(0\)\
+\-\ utereus\\:\\ 0\\.02570121989494606\ \(0\)\
+\-\ completely\\:\\ 0\\.023941622289528654\ \(0\)\
+\-\ cervices\\:\\ 0\\.023680382633838346\ \(0\)\
+\-\ uteruses\\:\\ 0\\.023680382633838346\ \(0\)\
+\-\ divides\\:\\ 0\\.023680382633838346\ \(0\)\
+\-\ halves\\:\\ 0\\.023680382633838346\ \(0\)\
+\-\ t\\-shaped\\:\\ 0\\.023680382633838346\ \(0\)\
+\-\ is\\:\\ 0\\.022950644015703084\ \(0\)\
+\-\ may\\:\\ 0\\.021858056780153047\ \(0\)\
+\-\ des\\:\\ 0\\.021659545372730633\ \(0\)\
+\-\ spill\\:\\ 0\\.020477431354922575\ \(0\)\
+\-\ conceive\\:\\ 0\\.020477431354922575\ \(0\)\
+\-\ classes\\:\\ 0\\.020477431354922575\ \(0\)\
+\-\ congential\\:\\ 0\\.01963870811162292\ \(0\)\
+\-\ represented\\:\\ 0\\.019295317337114513\ \(0\)\
+\-\ themselves\\:\\ 0\\.018710271577749644\ \(0\)\
+\-\ externally\\:\\ 0\\.018710271577749644\ \(0\)\
+\-\ occur\\:\\ 0\\.018694149438959407\ \(0\)\
+\-\ there\\:\\ 0\\.018538127645262224\ \(0\)\
+\-\ fertility\\:\\ 0\\.018456594093814862\ \(0\)\
+\-\ vi\\:\\ 0\\.018223233430043617\ \(0\)\
+\-\ arcuate\\:\\ 0\\.018223233430043617\ \(0\)\
+\-\ trying\\:\\ 0\\.018007175202190202\ \(0\)\
+\-\ society\\:\\ 0\\.017806029804269062\ \(0\)\
+\-\ septated\\:\\ 0\\.017806029804269062\ \(0\)\
+\-\ hysterosalpingogram\\:\\ 0\\.017617870850515208\ \(0\)\
+\-\ bicornuate\\:\\ 0\\.017617870850515208\ \(0\)\
+\-\ septate\\:\\ 0\\.017617870850515208\ \(0\)\
+\-\ vii\\:\\ 0\\.017617870850515208\ \(0\)\
+\-\ separated\\:\\ 0\\.016825061184382144\ \(0\)\
+\-\ utero\\:\\ 0\\.01668943431664193\ \(0\)\
+\-\ by\\:\\ 0\\.016593246685071426\ \(0\)\
+\-\ duplicated\\:\\ 0\\.01655983734121676\ \(0\)\
+\-\ category\\:\\ 0\\.016316742271423608\ \(0\)\
+\-\ horns\\:\\ 0\\.015689595392073912\ \(0\)\
+\-\ normal\\:\\ 0\\.015622302677540537\ \(0\)\
+\-\ seven\\:\\ 0\\.015597033589407496\ \(0\)\
+\-\ falls\\:\\ 0\\.015597033589407496\ \(0\)\
+\-\ image\\:\\ 0\\.015563785226225077\ \(0\)\
+\-\ recognized\\:\\ 0\\.01550732029883387\ \(0\)\
+\-\ likelihood\\:\\ 0\\.01550732029883387\ \(0\)\
+\-\ infertility\\:\\ 0\\.015173762423680098\ \(0\)\
+\-\ severely\\:\\ 0\\.015173762423680098\ \(0\)\
+\-\ describes\\:\\ 0\\.015173762423680098\ \(0\)\
+\-\ renal\\:\\ 0\\.01497070291229195\ \(0\)\
+\-\ or\\:\\ 0\\.014599456981978244\ \(0\)\
+\-\ hypoplastic\\:\\ 0\\.01441491957159944\ \(0\)\
+\-\ two\\:\\ 0\\.014270152989014611\ \(0\)\
+\-\ \\,\\:\\ 0\\.01420635912335619\ \(0\)\
+\-\ work\\-up\\:\\ 0\\.014071528797091032\ \(0\)\
+\-\ duplication\\:\\ 0\\.014018032765988417\ \(0\)\
+\-\ this\\:\\ 0\\.014010746549768702\ \(0\)\
+\-\ atresia\\:\\ 0\\.01371616489735623\ \(0\)\
+\-\ v\\:\\ 0\\.0136687581309662\ \(0\)\
+\-\ fluoroscopic\\:\\ 0\\.013622109905466372\ \(0\)\
+\-\ are\\:\\ 0\\.013584534956613431\ \(0\)\
+\-\ one\\:\\ 0\\.01350280689977052\ \(0\)\
+\-\ excluded\\:\\ 0\\.013486483037726158\ \(0\)\
+\-\ spot\\:\\ 0\\.01339944815973875\ \(0\)\
+\-\ visualization\\:\\ 0\\.013152925162572385\ \(0\)\
+\-\ vaginal\\:\\ 0\\.013152925162572385\ \(0\)\
+\-\ anomalies\\:\\ 0\\.013037064146101498\ \(0\)\
+\-\ exposure\\:\\ 0\\.012962304873176317\ \(0\)\
+\-\ combination\\:\\ 0\\.012550025998395477\ \(0\)\
+\-\ physical\\:\\ 0\\.012224520522339582\ \(0\)\
+\-\ women\\:\\ 0\\.01210518755059601\ \(0\)\
+\-\ american\\:\\ 0\\.011867598529455533\ \(0\)\
+\-\ variant\\:\\ 0\\.011867598529455533\ \(0\)\
+\-\ our\\:\\ 0\\.011842356364023714\ \(0\)\
+\-\ iii\\:\\ 0\\.011695327636248518\ \(0\)\
+\-\ a\\:\\ 0\\.011562676437860095\ \(0\)\
+\-\ duct\\:\\ 0\\.011421803568558563\ \(0\)\
+\-\ lack\\:\\ 0\\.011336048801193276\ \(0\)\
+\-\ those\\:\\ 0\\.011336048801193276\ \(0\)\
+\-\ material\\:\\ 0\\.011132087901464674\ \(0\)\
+\-\ exam\\:\\ 0\\.010945970495332583\ \(0\)\
+\-\ until\\:\\ 0\\.010941467612068604\ \(0\)\
+\-\ clinically\\:\\ 0\\.01092307353278795\ \(0\)\
+\-\ under\\:\\ 0\\.010886629909568615\ \(0\)\
+\-\ not\\:\\ 0\\.010800163309696229\ \(0\)\
+\-\ absent\\:\\ 0\\.01079746540994156\ \(0\)\
+\-\ affected\\:\\ 0\\.010779955135713537\ \(0\)\
+\-\ ii\\:\\ 0\\.01074524696514118\ \(0\)\
+\-\ i\\:\\ 0\\.010298293572094781\ \(0\)\
+\-\ free\\:\\ 0\\.010254230488100471\ \(0\)\
+\-\ presenting\\:\\ 0\\.010153934783385216\ \(0\)\
+\-\ single\\:\\ 0\\.010098134957698051\ \(0\)\
+\-\ 25\\:\\ 0\\.010070630490545402\ \(0\)\
+\-\ considered\\:\\ 0\\.01005697495319139\ \(0\)\
+\-\ system\\:\\ 0\\.009808979505541684\ \(0\)\
+\-\ failure\\:\\ 0\\.009759353594260544\ \(0\)\
+\-\ classic\\:\\ 0\\.009545932591277178\ \(0\)\
+\-\ \\‚\\Ä\\ú\\:\\ 0\\.00930466739877306\ \(0\)\
+\-\ appears\\:\\ 0\\.009273261868213553\ \(0\)\
+\-\ \\‚\\Ä\\ù\\:\\ 0\\.009252511233318906\ \(0\)\
+\-\ since\\:\\ 0\\.009150917264426288\ \(0\)\
+\-\ above\\:\\ 0\\.009131016491626287\ \(0\)\
+\-\ congenital\\:\\ 0\\.009111250640356961\ \(0\)\
+\-\ iv\\:\\ 0\\.009091617893472577\ \(0\)\
+\-\ portion\\:\\ 0\\.009023926085595005\ \(0\)\
+\-\ including\\:\\ 0\\.008995389623886076\ \(0\)\
+\-\ labs\\:\\ 0\\.008664647250539762\ \(0\)\
+\-\ was\\:\\ 0\\.008643826724901051\ \(0\)\
+\-\ side\\:\\ 0\\.008631039363743646\ \(0\)\
+\-\ left\\:\\ 0\\.00836243675748905\ \(0\)\
+\-\ internal\\:\\ 0\\.008352407788276301\ \(0\)\
+\-\ unremarkable\\:\\ 0\\.008248007051551197\ \(0\)\
+\-\ finding\\:\\ 0\\.008029333833931432\ \(0\)\
+\-\ superior\\:\\ 0\\.007955520982665281\ \(0\)\
+\-\ be\\:\\ 0\\.007683712672559353\ \(0\)\
+\-\ usually\\:\\ 0\\.007565388495238364\ \(0\)\
+\-\ \\‚\\Ä\\ô\\:\\ 0\\.007446142098091708\ \(0\)\
+\-\ demonstrated\\:\\ 0\\.007310262339524686\ \(0\)\
+\-\ s\\:\\ 0\\.007145095239401128\ \(0\)\
+\-\ abnormal\\:\\ 0\\.007105225190422482\ \(0\)\
+\-\ an\\:\\ 0\\.006890174135771019\ \(0\)\
+\-\ high\\:\\ 0\\.006817918545413457\ \(0\)\
+\-\ been\\:\\ 0\\.006777827666075775\ \(0\)\
+\-\ if\\:\\ 0\\.006760184938135963\ \(0\)\
+\-\ up\\:\\ 0\\.006699262831061876\ \(0\)\
+\-\ the\\:\\ 0\\.006448946225242019\ \(0\)\
+\-\ associated\\:\\ 0\\.005878899597398548\ \(0\)\
+\-\ 3\\:\\ 0\\.00583374789127271\ \(0\)\
+\-\ \\%\\:\\ 0\\.005811431584099147\ \(0\)\
+\-\ woman\\:\\ 0\\.005754819088888939\ \(0\)\
+\-\ diagnosis\\:\\ 0\\.005720756066415218\ \(0\)\
+\-\ present\\:\\ 0\\.00562684767910111\ \(0\)\
+\-\ contrast\\:\\ 0\\.005576605500897683\ \(0\)\
+\-\ demonstrates\\:\\ 0\\.005442044319688589\ \(0\)\
+\-\ have\\:\\ 0\\.005394863202230588\ \(0\)\
+\-\ multiple\\:\\ 0\\.00524724782355472\ \(0\)\
+\-\ female\\:\\ 0\\.005121750062530127\ \(0\)\
+\-\ also\\:\\ 0\\.004911427386793444\ \(0\)\
+\-\ of\\:\\ 0\\.004755257175428099\ \(0\)\
+\-\ which\\:\\ 0\\.00465056730974504\ \(0\)\
+\-\ to\\:\\ 0\\.0037352895782185387\ \(0\)\
+\-\ year\\:\\ 0\\.0027874789191630165\ \(0\)\
+\-\ right\\:\\ 0\\.002628663874957483\ \(0\)\
+\-\ and\\:\\ 0\\.002624037984434671\ \(0\)\
+\-\ old\\:\\ 0\\.0025508297284613838\ \(0\)\
+\-\ patient\\:\\ 0\\.0024973525682693526\ \(0\)\
+\-\ \\.\\:\\ 0\\.0024839325549163575\ \(0\)\
+\-\ in\\:\\ 0\\.0024571267063571716\ \(0\)\
+\-\ for\\:\\ 0\\.0021256797336522307\ \(0\)\
+\-\ on\\:\\ 0\\.002110469423805913\ \(0\)\
+\-\ \\(\\:\\ 0\\.0021060108636847246\ \(0\)\
+\-\ \\)\\:\\ 0\\.002080284816656866\ \(0\)\
+\-\ with\\:\\ 0\\.000682240093818599\ \(0\)\

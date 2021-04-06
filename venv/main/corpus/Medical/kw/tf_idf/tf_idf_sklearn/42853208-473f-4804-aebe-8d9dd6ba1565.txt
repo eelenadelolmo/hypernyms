@@ -1,53 +1,50 @@
-Texto: 
-mammogram - multiple circumscribed masses throughout breast.
-
-ultrasound - multiple simple cysts with one solid hypoechoic homogeneous mass extending into ducts with dilatation of the duct.
-papillary carcinoma
-papilloma - benign vs carcinoma
-46yo female for routine screening mammogram and called back for additional views for further evaluation of multiple densities on mammogram to include ultrasound.
-
-
-Keywords by value: 
-- mammogram: 0.48228401974542384
-- 46yo: 0.2573097729721851
-- multiple: 0.24707680692922185
-- ultrasound: 0.2077213648340547
-- carcinoma: 0.20143611022794686
-- ducts: 0.17367906040673006
-- densities: 0.16839391969853845
-- called: 0.157243136582726
-- papillary: 0.15691332340692352
-- papilloma: 0.15439963759256253
-- for: 0.15310519681248946
-- simple: 0.1523631079339347
-- homogeneous: 0.14866854576686914
-- duct: 0.14494481564076703
-- hypoechoic: 0.1438713165332191
-- dilatation: 0.13745372929802374
-- screening: 0.1367828374158539
-- views: 0.13290351382503499
-- additional: 0.1305296322414529
-- circumscribed: 0.130395763657616
-- routine: 0.130395763657616
-- solid: 0.12908944553463983
-- vs: 0.12845734488960536
-- cysts: 0.12759454524007066
-- throughout: 0.12383574371763319
-- breast: 0.12227358174575526
-- benign: 0.1156665563164373
-- masses: 0.11463073171578184
-- extending: 0.11416464878809203
-- back: 0.11229816290611372
-- further: 0.10966953501514945
-- evaluation: 0.10268833449723068
-- include: 0.10018531269026285
-- one: 0.09640617174858791
-- into: 0.08950857559585194
-- female: 0.08125172097258791
-- with: 0.06594230894745379
-- of: 0.06590293196131071
-- mass: 0.06431714378618492
-- on: 0.05085402871566486
-- to: 0.04209498257454413
-- and: 0.034793924511102955
-- the: 0.03359816127313591
+\-\ Texto\\:\\ \ \(0\)\
+\-\ mammogram\\ \\-\\ multiple\\ circumscribed\\ masses\\ throughout\\ breast\\.\ \(0\)\
+\-\ ultrasound\\ \\-\\ multiple\\ simple\\ cysts\\ with\\ one\\ solid\\ hypoechoic\\ homogeneous\\ mass\\ extending\\ into\\ ducts\\ with\\ dilatation\\ of\\ the\\ duct\\.\ \(0\)\
+\-\ papillary\\ carcinoma\ \(7\)\
+\-\ papilloma\\ \\-\\ benign\\ vs\\ carcinoma\ \(0\)\
+\-\ 46yo\\ female\\ for\\ routine\\ screening\\ mammogram\\ and\\ called\\ back\\ for\\ additional\\ views\\ for\\ further\\ evaluation\\ of\\ multiple\\ densities\\ on\\ mammogram\\ to\\ include\\ ultrasound\\.\ \(1\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ mammogram\\:\\ 0\\.48228401974542384\ \(0\)\
+\-\ 46yo\\:\\ 0\\.2573097729721851\ \(0\)\
+\-\ multiple\\:\\ 0\\.24707680692922185\ \(0\)\
+\-\ ultrasound\\:\\ 0\\.2077213648340547\ \(0\)\
+\-\ carcinoma\\:\\ 0\\.20143611022794686\ \(0\)\
+\-\ ducts\\:\\ 0\\.17367906040673006\ \(0\)\
+\-\ densities\\:\\ 0\\.16839391969853845\ \(0\)\
+\-\ called\\:\\ 0\\.157243136582726\ \(0\)\
+\-\ papillary\\:\\ 0\\.15691332340692352\ \(0\)\
+\-\ papilloma\\:\\ 0\\.15439963759256253\ \(0\)\
+\-\ for\\:\\ 0\\.15310519681248946\ \(0\)\
+\-\ simple\\:\\ 0\\.1523631079339347\ \(0\)\
+\-\ homogeneous\\:\\ 0\\.14866854576686914\ \(0\)\
+\-\ duct\\:\\ 0\\.14494481564076703\ \(0\)\
+\-\ hypoechoic\\:\\ 0\\.1438713165332191\ \(0\)\
+\-\ dilatation\\:\\ 0\\.13745372929802374\ \(0\)\
+\-\ screening\\:\\ 0\\.1367828374158539\ \(0\)\
+\-\ views\\:\\ 0\\.13290351382503499\ \(0\)\
+\-\ additional\\:\\ 0\\.1305296322414529\ \(0\)\
+\-\ circumscribed\\:\\ 0\\.130395763657616\ \(0\)\
+\-\ routine\\:\\ 0\\.130395763657616\ \(0\)\
+\-\ solid\\:\\ 0\\.12908944553463983\ \(0\)\
+\-\ vs\\:\\ 0\\.12845734488960536\ \(0\)\
+\-\ cysts\\:\\ 0\\.12759454524007066\ \(0\)\
+\-\ throughout\\:\\ 0\\.12383574371763319\ \(0\)\
+\-\ breast\\:\\ 0\\.12227358174575526\ \(0\)\
+\-\ benign\\:\\ 0\\.1156665563164373\ \(0\)\
+\-\ masses\\:\\ 0\\.11463073171578184\ \(0\)\
+\-\ extending\\:\\ 0\\.11416464878809203\ \(0\)\
+\-\ back\\:\\ 0\\.11229816290611372\ \(0\)\
+\-\ further\\:\\ 0\\.10966953501514945\ \(0\)\
+\-\ evaluation\\:\\ 0\\.10268833449723068\ \(0\)\
+\-\ include\\:\\ 0\\.10018531269026285\ \(0\)\
+\-\ one\\:\\ 0\\.09640617174858791\ \(0\)\
+\-\ into\\:\\ 0\\.08950857559585194\ \(0\)\
+\-\ female\\:\\ 0\\.08125172097258791\ \(0\)\
+\-\ with\\:\\ 0\\.06594230894745379\ \(0\)\
+\-\ of\\:\\ 0\\.06590293196131071\ \(0\)\
+\-\ mass\\:\\ 0\\.06431714378618492\ \(0\)\
+\-\ on\\:\\ 0\\.05085402871566486\ \(0\)\
+\-\ to\\:\\ 0\\.04209498257454413\ \(0\)\
+\-\ and\\:\\ 0\\.034793924511102955\ \(0\)\
+\-\ the\\:\\ 0\\.03359816127313591\ \(0\)\

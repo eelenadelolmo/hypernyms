@@ -1,82 +1,79 @@
-Texto: 
-negative b-hcg
-surgical removal
-radiograph of the abdomen demonstrates tooth-like calcifications in the right hemipelvis.  bowel gas pattern is unremarkable. normal osseous structures. no organomegaly.
-
-ultrasound demonstrates a mass in the right adenexa demonstrating a fluid-fluid level with solid components of mixed echogenicity.  no definitive calcification is demonstrated.  mixed shadowing is present.
-dermoid cyst
-teratoma
-endometrioma
-acute hemorrhage in an ovarian cyst
-fibroid
-ectopic pregnancy (however, negative bhcg)
-17 year old female with intermittent lower abdominal pain
-
-
-Keywords by value: 
-- tooth-like: 0.09336058900467302
-- mixed: 0.08627410094113865
-- adenexa: 0.08282851162680917
-- hemipelvis: 0.07276565257676434
-- b-hcg: 0.07184562145408001
-- fluid-fluid: 0.07020078417085389
-- bhcg: 0.06945896208881283
-- organomegaly: 0.06262324820666694
-- fibroid: 0.060794918383337206
-- endometrioma: 0.0604617283043343
-- negative: 0.058669428997123546
-- echogenicity: 0.05282770941138381
-- cyst: 0.052790141058071324
-- shadowing: 0.05217071614885566
-- definitive: 0.04851032843484952
-- components: 0.04816719092738191
-- 17: 0.04783400084837903
-- ectopic: 0.04709217876633797
-- gas: 0.04678834822532469
-- teratoma: 0.04592226273978691
-- ovarian: 0.04494532925894332
-- dermoid: 0.044776293082050264
-- demonstrates: 0.042910832221912325
-- demonstrating: 0.04263876954098756
-- pregnancy: 0.042228216867400435
-- intermittent: 0.042161194794862585
-- osseous: 0.04170267377156026
-- solid: 0.039176398304671026
-- removal: 0.03872162129080676
-- structures: 0.03781684465327258
-- pattern: 0.0375453142421986
-- calcifications: 0.03651912361646842
-- calcification: 0.03565270825812792
-- hemorrhage: 0.0326926044158165
-- unremarkable: 0.03251800481243748
-- radiograph: 0.031286766137027154
-- bowel: 0.03080406359637654
-- ultrasound: 0.029139340057543716
-- abdomen: 0.029096370837881566
-- demonstrated: 0.028820919338585833
-- level: 0.028309069283298068
-- however: 0.027349058110311155
-- abdominal: 0.024550795840484082
-- acute: 0.024251486541453968
-- present: 0.02218400866588139
-- lower: 0.02209036861337773
-- right: 0.020727165726676246
-- surgical: 0.02064622724426958
-- female: 0.02019264679825096
-- no: 0.019780325303535677
-- is: 0.019389337185680193
-- normal: 0.015397844305736794
-- in: 0.014530938970353619
-- mass: 0.01366047134422488
-- an: 0.013582354761893446
-- pain: 0.011995496178514193
-- year: 0.010989715738769135
-- old: 0.010056719504163847
-- a: 0.00911723682341612
-- (: 0.008303008347630581
-- ): 0.008201582667969025
-- the: 0.004767216713918131
-- ,: 0.0031116099484745675
-- .: 0.0028562845135795853
-- with: 0.002689751174480224
-- of: 0.0026782482942066307
+\-\ Texto\\:\\ \ \(0\)\
+\-\ negative\\ b\\-hcg\ \(0\)\
+\-\ surgical\\ removal\ \(46\)\
+\-\ radiograph\\ of\\ the\\ abdomen\\ demonstrates\\ tooth\\-like\\ calcifications\\ in\\ the\\ right\\ hemipelvis\\.\\ \\ bowel\\ gas\\ pattern\\ is\\ unremarkable\\.\\ normal\\ osseous\\ structures\\.\\ no\\ organomegaly\\.\ \(0\)\
+\-\ ultrasound\\ demonstrates\\ a\\ mass\\ in\\ the\\ right\\ adenexa\\ demonstrating\\ a\\ fluid\\-fluid\\ level\\ with\\ solid\\ components\\ of\\ mixed\\ echogenicity\\.\\ \\ no\\ definitive\\ calcification\\ is\\ demonstrated\\.\\ \\ mixed\\ shadowing\\ is\\ present\\.\ \(0\)\
+\-\ dermoid\\ cyst\ \(104\)\
+\-\ teratoma\ \(130\)\
+\-\ endometrioma\ \(17\)\
+\-\ acute\\ hemorrhage\\ in\\ an\\ ovarian\\ cyst\ \(0\)\
+\-\ fibroid\ \(80\)\
+\-\ ectopic\\ pregnancy\\ \\(however\\,\\ negative\\ bhcg\\)\ \(0\)\
+\-\ 17\\ year\\ old\\ female\\ with\\ intermittent\\ lower\\ abdominal\\ pain\ \(1\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ tooth\\-like\\:\\ 0\\.09336058900467302\ \(0\)\
+\-\ mixed\\:\\ 0\\.08627410094113865\ \(0\)\
+\-\ adenexa\\:\\ 0\\.08282851162680917\ \(0\)\
+\-\ hemipelvis\\:\\ 0\\.07276565257676434\ \(0\)\
+\-\ b\\-hcg\\:\\ 0\\.07184562145408001\ \(0\)\
+\-\ fluid\\-fluid\\:\\ 0\\.07020078417085389\ \(0\)\
+\-\ bhcg\\:\\ 0\\.06945896208881283\ \(0\)\
+\-\ organomegaly\\:\\ 0\\.06262324820666694\ \(0\)\
+\-\ fibroid\\:\\ 0\\.060794918383337206\ \(0\)\
+\-\ endometrioma\\:\\ 0\\.0604617283043343\ \(0\)\
+\-\ negative\\:\\ 0\\.058669428997123546\ \(0\)\
+\-\ echogenicity\\:\\ 0\\.05282770941138381\ \(0\)\
+\-\ cyst\\:\\ 0\\.052790141058071324\ \(0\)\
+\-\ shadowing\\:\\ 0\\.05217071614885566\ \(0\)\
+\-\ definitive\\:\\ 0\\.04851032843484952\ \(0\)\
+\-\ components\\:\\ 0\\.04816719092738191\ \(0\)\
+\-\ 17\\:\\ 0\\.04783400084837903\ \(0\)\
+\-\ ectopic\\:\\ 0\\.04709217876633797\ \(0\)\
+\-\ gas\\:\\ 0\\.04678834822532469\ \(0\)\
+\-\ teratoma\\:\\ 0\\.04592226273978691\ \(0\)\
+\-\ ovarian\\:\\ 0\\.04494532925894332\ \(0\)\
+\-\ dermoid\\:\\ 0\\.044776293082050264\ \(0\)\
+\-\ demonstrates\\:\\ 0\\.042910832221912325\ \(0\)\
+\-\ demonstrating\\:\\ 0\\.04263876954098756\ \(0\)\
+\-\ pregnancy\\:\\ 0\\.042228216867400435\ \(0\)\
+\-\ intermittent\\:\\ 0\\.042161194794862585\ \(0\)\
+\-\ osseous\\:\\ 0\\.04170267377156026\ \(0\)\
+\-\ solid\\:\\ 0\\.039176398304671026\ \(0\)\
+\-\ removal\\:\\ 0\\.03872162129080676\ \(0\)\
+\-\ structures\\:\\ 0\\.03781684465327258\ \(0\)\
+\-\ pattern\\:\\ 0\\.0375453142421986\ \(0\)\
+\-\ calcifications\\:\\ 0\\.03651912361646842\ \(0\)\
+\-\ calcification\\:\\ 0\\.03565270825812792\ \(0\)\
+\-\ hemorrhage\\:\\ 0\\.0326926044158165\ \(0\)\
+\-\ unremarkable\\:\\ 0\\.03251800481243748\ \(0\)\
+\-\ radiograph\\:\\ 0\\.031286766137027154\ \(0\)\
+\-\ bowel\\:\\ 0\\.03080406359637654\ \(0\)\
+\-\ ultrasound\\:\\ 0\\.029139340057543716\ \(0\)\
+\-\ abdomen\\:\\ 0\\.029096370837881566\ \(0\)\
+\-\ demonstrated\\:\\ 0\\.028820919338585833\ \(0\)\
+\-\ level\\:\\ 0\\.028309069283298068\ \(0\)\
+\-\ however\\:\\ 0\\.027349058110311155\ \(0\)\
+\-\ abdominal\\:\\ 0\\.024550795840484082\ \(0\)\
+\-\ acute\\:\\ 0\\.024251486541453968\ \(0\)\
+\-\ present\\:\\ 0\\.02218400866588139\ \(0\)\
+\-\ lower\\:\\ 0\\.02209036861337773\ \(0\)\
+\-\ right\\:\\ 0\\.020727165726676246\ \(0\)\
+\-\ surgical\\:\\ 0\\.02064622724426958\ \(0\)\
+\-\ female\\:\\ 0\\.02019264679825096\ \(0\)\
+\-\ no\\:\\ 0\\.019780325303535677\ \(0\)\
+\-\ is\\:\\ 0\\.019389337185680193\ \(0\)\
+\-\ normal\\:\\ 0\\.015397844305736794\ \(0\)\
+\-\ in\\:\\ 0\\.014530938970353619\ \(0\)\
+\-\ mass\\:\\ 0\\.01366047134422488\ \(0\)\
+\-\ an\\:\\ 0\\.013582354761893446\ \(0\)\
+\-\ pain\\:\\ 0\\.011995496178514193\ \(0\)\
+\-\ year\\:\\ 0\\.010989715738769135\ \(0\)\
+\-\ old\\:\\ 0\\.010056719504163847\ \(0\)\
+\-\ a\\:\\ 0\\.00911723682341612\ \(0\)\
+\-\ \\(\\:\\ 0\\.008303008347630581\ \(0\)\
+\-\ \\)\\:\\ 0\\.008201582667969025\ \(0\)\
+\-\ the\\:\\ 0\\.004767216713918131\ \(0\)\
+\-\ \\,\\:\\ 0\\.0031116099484745675\ \(0\)\
+\-\ \\.\\:\\ 0\\.0028562845135795853\ \(0\)\
+\-\ with\\:\\ 0\\.002689751174480224\ \(0\)\
+\-\ of\\:\\ 0\\.0026782482942066307\ \(0\)\

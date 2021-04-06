@@ -1,91 +1,88 @@
-Texto: 
-palpable mass in the 12:00 position of the left breast.
-scars from previous cosmetic breast surgery.
-no further treatment.
-routine annual screening mammograms.
-mammography - dense irregularly shaped and ill-defined density seen only on the mlo view at the 12:00 position of the left breast.  striated shape of density suggests location within chest wall musculature
-
-ultrasound - hypoechoic mass with distal acoustic shadowing in the chest wall musculature.
-silicone granulomas of the breast (confirmed by ultrasound guided biopsy)
-differential diagnosis for ill-defined irregularly-shaped breast mass:
-1.	carcinoma
-2.	silicone granuloma
-3.	scar (post-surgical or radial)
-4.	fat necrosis
-5.	extra-abdominal desmoid
-48 y.o. female s/p bilateral breast implant removal due to complication with the left breast implant (rupture).
-
-
-Keywords by value: 
-- breast: 0.4833248152911569
-- silicone: 0.21735077993442284
-- irregularly: 0.2149685611261664
-- implant: 0.21168687636789793
-- musculature: 0.20684696132856922
-- shaped: 0.15887725673360856
-- the: 0.1517797792655908
-- position: 0.1516097454606919
-- density: 0.1260994304201666
-- striated: 0.11962287980805847
-- cosmetic: 0.11847287631701359
-- ultrasound: 0.1172977244459686
-- wall: 0.11567998437409778
-- desmoid: 0.11543386051310638
-- scars: 0.11134805169842692
-- mass: 0.10895732292646898
-- granulomas: 0.10691919460653992
-- mammograms: 0.10637263943490434
-- mlo: 0.10584343818394897
-- chest: 0.1003790851925842
-- mammography: 0.09908496763805401
-- left: 0.09730449417660421
-- acoustic: 0.09536551289606625
-- guided: 0.0932792386441752
-- shadowing: 0.0916460581540785
-- shape: 0.09015871441717616
-- scar: 0.08975704584121617
-- annual: 0.08788221340101478
-- suggests: 0.08770582615389118
-- complication: 0.08635814788832803
-- granuloma: 0.08603759109922843
-- dense: 0.08381183118559259
-- 48: 0.08234991604142926
-- radial: 0.08160344327906097
-- hypoechoic: 0.08124237993464972
-- screening: 0.07723960212258427
-- rupture: 0.0768691771158614
-- of: 0.07442916581599418
-- routine: 0.07363289937292546
-- necrosis: 0.07268015782090932
-- removal: 0.07268015782090932
-- previous: 0.07184656216080752
-- confirmed: 0.07011070656996644
-- view: 0.06962927413518517
-- palpable: 0.06679917615154737
-- biopsy: 0.06664968242026885
-- location: 0.0662090812791232
-- further: 0.06192905052689856
-- differential: 0.061780224187236214
-- only: 0.059402366302131
-- fat: 0.05914739476370957
-- carcinoma: 0.0568742588656239
-- distal: 0.055245494441073704
-- due: 0.05465539956864954
-- surgery: 0.051120557816624695
-- bilateral: 0.05110102830143486
-- diagnosis: 0.049290271715916364
-- in: 0.04730705085408228
-- female: 0.04588185709744986
-- treatment: 0.045293003221140445
-- seen: 0.04476423246229651
-- within: 0.04379222531924918
-- by: 0.04037768955531499
-- from: 0.03776287401505361
-- with: 0.03723681861241687
-- at: 0.035913993393975774
-- or: 0.03307762788387495
-- no: 0.030919858514851514
-- for: 0.028818879883161837
-- on: 0.028716650557456255
-- to: 0.02377052389642892
-- and: 0.0196477053429609
+\-\ Texto\\:\\ \ \(0\)\
+\-\ palpable\\ mass\\ in\\ the\\ 12\\:00\\ position\\ of\\ the\\ left\\ breast\\.\ \(0\)\
+\-\ scars\\ from\\ previous\\ cosmetic\\ breast\\ surgery\\.\ \(0\)\
+\-\ no\\ further\\ treatment\\.\ \(2\)\
+\-\ routine\\ annual\\ screening\\ mammograms\\.\ \(0\)\
+\-\ mammography\\ \\-\\ dense\\ irregularly\\ shaped\\ and\\ ill\\-defined\\ density\\ seen\\ only\\ on\\ the\\ mlo\\ view\\ at\\ the\\ 12\\:00\\ position\\ of\\ the\\ left\\ breast\\.\\ \\ striated\\ shape\\ of\\ density\\ suggests\\ location\\ within\\ chest\\ wall\\ musculature\ \(0\)\
+\-\ ultrasound\\ \\-\\ hypoechoic\\ mass\\ with\\ distal\\ acoustic\\ shadowing\\ in\\ the\\ chest\\ wall\\ musculature\\.\ \(0\)\
+\-\ silicone\\ granulomas\\ of\\ the\\ breast\\ \\(confirmed\\ by\\ ultrasound\\ guided\\ biopsy\\)\ \(0\)\
+\-\ differential\\ diagnosis\\ for\\ ill\\-defined\\ irregularly\\-shaped\\ breast\\ mass\\:\ \(0\)\
+\-\ 1\\.\\	carcinoma\ \(0\)\
+\-\ 2\\.\\	silicone\\ granuloma\ \(0\)\
+\-\ 3\\.\\	scar\\ \\(post\\-surgical\\ or\\ radial\\)\ \(0\)\
+\-\ 4\\.\\	fat\\ necrosis\ \(0\)\
+\-\ 5\\.\\	extra\\-abdominal\\ desmoid\ \(0\)\
+\-\ 48\\ y\\.o\\.\\ female\\ s\\/p\\ bilateral\\ breast\\ implant\\ removal\\ due\\ to\\ complication\\ with\\ the\\ left\\ breast\\ implant\\ \\(rupture\\)\\.\ \(1\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ breast\\:\\ 0\\.4833248152911569\ \(0\)\
+\-\ silicone\\:\\ 0\\.21735077993442284\ \(0\)\
+\-\ irregularly\\:\\ 0\\.2149685611261664\ \(0\)\
+\-\ implant\\:\\ 0\\.21168687636789793\ \(0\)\
+\-\ musculature\\:\\ 0\\.20684696132856922\ \(0\)\
+\-\ shaped\\:\\ 0\\.15887725673360856\ \(0\)\
+\-\ the\\:\\ 0\\.1517797792655908\ \(0\)\
+\-\ position\\:\\ 0\\.1516097454606919\ \(0\)\
+\-\ density\\:\\ 0\\.1260994304201666\ \(0\)\
+\-\ striated\\:\\ 0\\.11962287980805847\ \(0\)\
+\-\ cosmetic\\:\\ 0\\.11847287631701359\ \(0\)\
+\-\ ultrasound\\:\\ 0\\.1172977244459686\ \(0\)\
+\-\ wall\\:\\ 0\\.11567998437409778\ \(0\)\
+\-\ desmoid\\:\\ 0\\.11543386051310638\ \(0\)\
+\-\ scars\\:\\ 0\\.11134805169842692\ \(0\)\
+\-\ mass\\:\\ 0\\.10895732292646898\ \(0\)\
+\-\ granulomas\\:\\ 0\\.10691919460653992\ \(0\)\
+\-\ mammograms\\:\\ 0\\.10637263943490434\ \(0\)\
+\-\ mlo\\:\\ 0\\.10584343818394897\ \(0\)\
+\-\ chest\\:\\ 0\\.1003790851925842\ \(0\)\
+\-\ mammography\\:\\ 0\\.09908496763805401\ \(0\)\
+\-\ left\\:\\ 0\\.09730449417660421\ \(0\)\
+\-\ acoustic\\:\\ 0\\.09536551289606625\ \(0\)\
+\-\ guided\\:\\ 0\\.0932792386441752\ \(0\)\
+\-\ shadowing\\:\\ 0\\.0916460581540785\ \(0\)\
+\-\ shape\\:\\ 0\\.09015871441717616\ \(0\)\
+\-\ scar\\:\\ 0\\.08975704584121617\ \(0\)\
+\-\ annual\\:\\ 0\\.08788221340101478\ \(0\)\
+\-\ suggests\\:\\ 0\\.08770582615389118\ \(0\)\
+\-\ complication\\:\\ 0\\.08635814788832803\ \(0\)\
+\-\ granuloma\\:\\ 0\\.08603759109922843\ \(0\)\
+\-\ dense\\:\\ 0\\.08381183118559259\ \(0\)\
+\-\ 48\\:\\ 0\\.08234991604142926\ \(0\)\
+\-\ radial\\:\\ 0\\.08160344327906097\ \(0\)\
+\-\ hypoechoic\\:\\ 0\\.08124237993464972\ \(0\)\
+\-\ screening\\:\\ 0\\.07723960212258427\ \(0\)\
+\-\ rupture\\:\\ 0\\.0768691771158614\ \(0\)\
+\-\ of\\:\\ 0\\.07442916581599418\ \(0\)\
+\-\ routine\\:\\ 0\\.07363289937292546\ \(0\)\
+\-\ necrosis\\:\\ 0\\.07268015782090932\ \(0\)\
+\-\ removal\\:\\ 0\\.07268015782090932\ \(0\)\
+\-\ previous\\:\\ 0\\.07184656216080752\ \(0\)\
+\-\ confirmed\\:\\ 0\\.07011070656996644\ \(0\)\
+\-\ view\\:\\ 0\\.06962927413518517\ \(0\)\
+\-\ palpable\\:\\ 0\\.06679917615154737\ \(0\)\
+\-\ biopsy\\:\\ 0\\.06664968242026885\ \(0\)\
+\-\ location\\:\\ 0\\.0662090812791232\ \(0\)\
+\-\ further\\:\\ 0\\.06192905052689856\ \(0\)\
+\-\ differential\\:\\ 0\\.061780224187236214\ \(0\)\
+\-\ only\\:\\ 0\\.059402366302131\ \(0\)\
+\-\ fat\\:\\ 0\\.05914739476370957\ \(0\)\
+\-\ carcinoma\\:\\ 0\\.0568742588656239\ \(0\)\
+\-\ distal\\:\\ 0\\.055245494441073704\ \(0\)\
+\-\ due\\:\\ 0\\.05465539956864954\ \(0\)\
+\-\ surgery\\:\\ 0\\.051120557816624695\ \(0\)\
+\-\ bilateral\\:\\ 0\\.05110102830143486\ \(0\)\
+\-\ diagnosis\\:\\ 0\\.049290271715916364\ \(0\)\
+\-\ in\\:\\ 0\\.04730705085408228\ \(0\)\
+\-\ female\\:\\ 0\\.04588185709744986\ \(0\)\
+\-\ treatment\\:\\ 0\\.045293003221140445\ \(0\)\
+\-\ seen\\:\\ 0\\.04476423246229651\ \(0\)\
+\-\ within\\:\\ 0\\.04379222531924918\ \(0\)\
+\-\ by\\:\\ 0\\.04037768955531499\ \(0\)\
+\-\ from\\:\\ 0\\.03776287401505361\ \(0\)\
+\-\ with\\:\\ 0\\.03723681861241687\ \(0\)\
+\-\ at\\:\\ 0\\.035913993393975774\ \(0\)\
+\-\ or\\:\\ 0\\.03307762788387495\ \(0\)\
+\-\ no\\:\\ 0\\.030919858514851514\ \(0\)\
+\-\ for\\:\\ 0\\.028818879883161837\ \(0\)\
+\-\ on\\:\\ 0\\.028716650557456255\ \(0\)\
+\-\ to\\:\\ 0\\.02377052389642892\ \(0\)\
+\-\ and\\:\\ 0\\.0196477053429609\ \(0\)\

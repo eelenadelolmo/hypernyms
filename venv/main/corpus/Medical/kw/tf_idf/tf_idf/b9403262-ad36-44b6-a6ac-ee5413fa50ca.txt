@@ -1,79 +1,77 @@
-Texto: 
-n/a
-the ordering physician was made aware of the findings and the patient underwent placement of a weight-bearing cast for four to six weeks.
-multiple radiographic views of the left foot demonstrate a minimally displaced transverse fracture through the base of the fifth metatarsal with intra-articular extension to the most proximal aspect of the metatarsocuboid joint.  soft tissue swelling is noted overlying the fracture site.  no other abnormalities are detected.
-avulsion fracture of the base of the fifth metatarsal
-avulsion fracture of the proximal articular margin of the fifth metatarsal bone
-inversion injury of the left foot five days ago.
-please see factoid.
-
-
-Keywords by value: 
-- metatarsal: 0.12948563008605102
-- fifth: 0.12903809281435064
-- avulsion: 0.08379859049389246
-- fracture: 0.08268162679900105
-- metatarsocuboid: 0.07451716737070233
-- foot: 0.06481311367391762
-- base: 0.06142125289598838
-- weight-bearing: 0.0573446703349079
-- aware: 0.056031818558387965
-- ordering: 0.055439722034190064
-- inversion: 0.04967267011288388
-- intra-articular: 0.04908057358868598
-- proximal: 0.047074186820312204
-- cast: 0.04555386075464624
-- articular: 0.042031302012561826
-- detected: 0.041389480098736955
-- minimally: 0.040789638270637404
-- five: 0.03909762873730237
-- six: 0.03853576061582788
-- physician: 0.03695437322187571
-- margin: 0.036878237416236304
-- displaced: 0.03601072748389674
-- overlying: 0.03547484893200303
-- please: 0.03478566883596534
-- four: 0.03403277935840292
-- site: 0.033133135200822963
-- views: 0.03231388623157804
-- placement: 0.03182028342430302
-- transverse: 0.03143529077201833
-- made: 0.031228186900105124
-- radiographic: 0.02975563662191499
-- ago: 0.029180998355938063
-- abnormalities: 0.028796005703653364
-- n/a: 0.028396391260175107
-- extension: 0.027984654322767463
-- factoid: 0.02748105957444162
-- underwent: 0.026900881059433206
-- swelling: 0.026117530862212225
-- joint: 0.02535256197286313
-- injury: 0.02499273891641101
-- aspect: 0.024626531509021627
-- days: 0.024028204552036494
-- see: 0.023396488176410903
-- through: 0.02226566071945751
-- weeks: 0.022250254650469252
-- bone: 0.019481052123485047
-- soft: 0.019091071229298626
-- tissue: 0.018581845765620126
-- noted: 0.018581845765620126
-- most: 0.01809940496998235
-- other: 0.01807007842846283
-- demonstrate: 0.01804084533333065
-- the: 0.017756788861016157
-- left: 0.01754321594996174
-- findings: 0.016686577392568437
-- multiple: 0.016511981683296047
-- of: 0.010688422091558573
-- are: 0.010686916261739466
-- was: 0.009066766258841164
-- no: 0.007893983033979835
-- patient: 0.007858641568040257
-- to: 0.007836112081522684
-- a: 0.007277060583827546
-- for: 0.0066890655838781204
-- is: 0.005158630994355281
-- .: 0.0019541029044410794
-- and: 0.0016514587681854904
-- with: 0.0010734328081641261
+\-\ Texto\\:\\ \ \(0\)\
+\-\ n\\/a\ \(127\)\
+\-\ the\\ ordering\\ physician\\ was\\ made\\ aware\\ of\\ the\\ findings\\ and\\ the\\ patient\\ underwent\\ placement\\ of\\ a\\ weight\\-bearing\\ cast\\ for\\ four\\ to\\ six\\ weeks\\.\ \(0\)\
+\-\ multiple\\ radiographic\\ views\\ of\\ the\\ left\\ foot\\ demonstrate\\ a\\ minimally\\ displaced\\ transverse\\ fracture\\ through\\ the\\ base\\ of\\ the\\ fifth\\ metatarsal\\ with\\ intra\\-articular\\ extension\\ to\\ the\\ most\\ proximal\\ aspect\\ of\\ the\\ metatarsocuboid\\ joint\\.\\ \\ soft\\ tissue\\ swelling\\ is\\ noted\\ overlying\\ the\\ fracture\\ site\\.\\ \\ no\\ other\\ abnormalities\\ are\\ detected\\.\ \(0\)\
+\-\ avulsion\\ fracture\\ of\\ the\\ base\\ of\\ the\\ fifth\\ metatarsal\ \(0\)\
+\-\ avulsion\\ fracture\\ of\\ the\\ proximal\\ articular\\ margin\\ of\\ the\\ fifth\\ metatarsal\\ bone\ \(0\)\
+\-\ inversion\\ injury\\ of\\ the\\ left\\ foot\\ five\\ days\\ ago\\.\ \(0\)\
+\-\ please\\ see\\ factoid\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ metatarsal\\:\\ 0\\.12948563008605102\ \(0\)\
+\-\ fifth\\:\\ 0\\.12903809281435064\ \(0\)\
+\-\ avulsion\\:\\ 0\\.08379859049389246\ \(0\)\
+\-\ fracture\\:\\ 0\\.08268162679900105\ \(0\)\
+\-\ metatarsocuboid\\:\\ 0\\.07451716737070233\ \(0\)\
+\-\ foot\\:\\ 0\\.06481311367391762\ \(0\)\
+\-\ base\\:\\ 0\\.06142125289598838\ \(0\)\
+\-\ weight\\-bearing\\:\\ 0\\.0573446703349079\ \(0\)\
+\-\ aware\\:\\ 0\\.056031818558387965\ \(0\)\
+\-\ ordering\\:\\ 0\\.055439722034190064\ \(0\)\
+\-\ inversion\\:\\ 0\\.04967267011288388\ \(0\)\
+\-\ intra\\-articular\\:\\ 0\\.04908057358868598\ \(0\)\
+\-\ proximal\\:\\ 0\\.047074186820312204\ \(0\)\
+\-\ cast\\:\\ 0\\.04555386075464624\ \(0\)\
+\-\ articular\\:\\ 0\\.042031302012561826\ \(0\)\
+\-\ detected\\:\\ 0\\.041389480098736955\ \(0\)\
+\-\ minimally\\:\\ 0\\.040789638270637404\ \(0\)\
+\-\ five\\:\\ 0\\.03909762873730237\ \(0\)\
+\-\ six\\:\\ 0\\.03853576061582788\ \(0\)\
+\-\ physician\\:\\ 0\\.03695437322187571\ \(0\)\
+\-\ margin\\:\\ 0\\.036878237416236304\ \(0\)\
+\-\ displaced\\:\\ 0\\.03601072748389674\ \(0\)\
+\-\ overlying\\:\\ 0\\.03547484893200303\ \(0\)\
+\-\ please\\:\\ 0\\.03478566883596534\ \(0\)\
+\-\ four\\:\\ 0\\.03403277935840292\ \(0\)\
+\-\ site\\:\\ 0\\.033133135200822963\ \(0\)\
+\-\ views\\:\\ 0\\.03231388623157804\ \(0\)\
+\-\ placement\\:\\ 0\\.03182028342430302\ \(0\)\
+\-\ transverse\\:\\ 0\\.03143529077201833\ \(0\)\
+\-\ made\\:\\ 0\\.031228186900105124\ \(0\)\
+\-\ radiographic\\:\\ 0\\.02975563662191499\ \(0\)\
+\-\ ago\\:\\ 0\\.029180998355938063\ \(0\)\
+\-\ abnormalities\\:\\ 0\\.028796005703653364\ \(0\)\
+\-\ n\\/a\\:\\ 0\\.028396391260175107\ \(0\)\
+\-\ extension\\:\\ 0\\.027984654322767463\ \(0\)\
+\-\ factoid\\:\\ 0\\.02748105957444162\ \(0\)\
+\-\ underwent\\:\\ 0\\.026900881059433206\ \(0\)\
+\-\ swelling\\:\\ 0\\.026117530862212225\ \(0\)\
+\-\ joint\\:\\ 0\\.02535256197286313\ \(0\)\
+\-\ injury\\:\\ 0\\.02499273891641101\ \(0\)\
+\-\ aspect\\:\\ 0\\.024626531509021627\ \(0\)\
+\-\ days\\:\\ 0\\.024028204552036494\ \(0\)\
+\-\ see\\:\\ 0\\.023396488176410903\ \(0\)\
+\-\ through\\:\\ 0\\.02226566071945751\ \(0\)\
+\-\ weeks\\:\\ 0\\.022250254650469252\ \(0\)\
+\-\ bone\\:\\ 0\\.019481052123485047\ \(0\)\
+\-\ soft\\:\\ 0\\.019091071229298626\ \(0\)\
+\-\ tissue\\:\\ 0\\.018581845765620126\ \(0\)\
+\-\ noted\\:\\ 0\\.018581845765620126\ \(0\)\
+\-\ most\\:\\ 0\\.01809940496998235\ \(0\)\
+\-\ other\\:\\ 0\\.01807007842846283\ \(0\)\
+\-\ demonstrate\\:\\ 0\\.01804084533333065\ \(0\)\
+\-\ the\\:\\ 0\\.017756788861016157\ \(0\)\
+\-\ left\\:\\ 0\\.01754321594996174\ \(0\)\
+\-\ findings\\:\\ 0\\.016686577392568437\ \(0\)\
+\-\ multiple\\:\\ 0\\.016511981683296047\ \(0\)\
+\-\ of\\:\\ 0\\.010688422091558573\ \(0\)\
+\-\ are\\:\\ 0\\.010686916261739466\ \(0\)\
+\-\ was\\:\\ 0\\.009066766258841164\ \(0\)\
+\-\ no\\:\\ 0\\.007893983033979835\ \(0\)\
+\-\ patient\\:\\ 0\\.007858641568040257\ \(0\)\
+\-\ to\\:\\ 0\\.007836112081522684\ \(0\)\
+\-\ a\\:\\ 0\\.007277060583827546\ \(0\)\
+\-\ for\\:\\ 0\\.0066890655838781204\ \(0\)\
+\-\ is\\:\\ 0\\.005158630994355281\ \(0\)\
+\-\ \\.\\:\\ 0\\.0019541029044410794\ \(0\)\
+\-\ and\\:\\ 0\\.0016514587681854904\ \(0\)\
+\-\ with\\:\\ 0\\.0010734328081641261\ \(0\)\

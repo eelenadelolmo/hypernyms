@@ -1,65 +1,63 @@
-Texto: 
-lungs clear to auscultation.
-systemic corticosteroids if symptomatic.
-plain radiographs and axial computed tomography images demonstrate bilateral hilar adenopathy with clear lungs.
-pulmonary sarcoidosis
-pulmonary sarcoidosis - stage i
-tuberculosis
-histoplasmosis
-coccidiomycosis
-metastasis (lung,head/neck,renal,testicular)
-lymphoma/leukemia
-reactive adenopathy - bacterial, viral, aids
-cystic fibrosis
-silicosis
-castleman's disease
-thirty three-year-old female with fatigue, malaise and fever.
-none.
-
-
-Keywords by value: 
-- sarcoidosis: 0.2616364546815964
-- adenopathy: 0.25981318670734505
-- lungs: 0.22794709581726083
-- clear: 0.22392023267568648
-- coccidiomycosis: 0.20944260528621358
-- castleman: 0.19429214310435158
-- pulmonary: 0.18826938156073758
-- silicosis: 0.1833149978577521
-- thirty: 0.1820555628082581
-- histoplasmosis: 0.17191149779448012
-- malaise: 0.17107841756165862
-- aids: 0.16798098940451736
-- corticosteroids: 0.1672590007158754
-- tomography: 0.14958378108666495
-- fatigue: 0.14958378108666495
-- computed: 0.14885203461405405
-- testicular: 0.14483386407088195
-- auscultation: 0.1445244553165246
-- bacterial: 0.1445244553165246
-- viral: 0.14245228800309537
-- hilar: 0.14161057343075606
-- systemic: 0.13704545557161465
-- tuberculosis: 0.13590296658443585
-- reactive: 0.1325407639811316
-- fibrosis: 0.12937399313466258
-- stage: 0.12298350065858417
-- symptomatic: 0.11875074797754245
-- metastasis: 0.1131887691539713
-- fever: 0.10470828579963808
-- plain: 0.10189122997480385
-- radiographs: 0.10016389436120629
-- renal: 0.09617046494045856
-- lung: 0.09394403526476242
-- cystic: 0.09301039200875123
-- if: 0.0897300376737182
-- axial: 0.08920667769211964
-- none: 0.08439724754281845
-- bilateral: 0.08299857284369659
-- demonstrate: 0.08028599722979778
-- female: 0.07452156610319798
-- images: 0.07143604324881289
-- disease: 0.06482594006697831
-- and: 0.06382382340722634
-- with: 0.06048024677388768
-- to: 0.038608216404427784
+\-\ Texto\\:\\ \ \(0\)\
+\-\ lungs\\ clear\\ to\\ auscultation\\.\ \(0\)\
+\-\ systemic\\ corticosteroids\\ if\\ symptomatic\\.\ \(0\)\
+\-\ plain\\ radiographs\\ and\\ axial\\ computed\\ tomography\\ images\\ demonstrate\\ bilateral\\ hilar\\ adenopathy\\ with\\ clear\\ lungs\\.\ \(0\)\
+\-\ pulmonary\\ sarcoidosis\ \(3\)\
+\-\ pulmonary\\ sarcoidosis\\ \\-\\ stage\\ i\ \(0\)\
+\-\ tuberculosis\ \(73\)\
+\-\ histoplasmosis\ \(20\)\
+\-\ coccidiomycosis\ \(1\)\
+\-\ metastasis\\ \\(lung\\,head\\/neck\\,renal\\,testicular\\)\ \(0\)\
+\-\ lymphoma\\/leukemia\ \(2\)\
+\-\ reactive\\ adenopathy\\ \\-\\ bacterial\\,\\ viral\\,\\ aids\ \(0\)\
+\-\ cystic\\ fibrosis\ \(30\)\
+\-\ silicosis\ \(7\)\
+\-\ castleman\\'s\\ disease\ \(0\)\
+\-\ thirty\\ three\\-year\\-old\\ female\\ with\\ fatigue\\,\\ malaise\\ and\\ fever\\.\ \(0\)\
+\-\ none\\.\ \(8\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ sarcoidosis\\:\\ 0\\.2616364546815964\ \(0\)\
+\-\ adenopathy\\:\\ 0\\.25981318670734505\ \(0\)\
+\-\ lungs\\:\\ 0\\.22794709581726083\ \(0\)\
+\-\ clear\\:\\ 0\\.22392023267568648\ \(0\)\
+\-\ coccidiomycosis\\:\\ 0\\.20944260528621358\ \(0\)\
+\-\ castleman\\:\\ 0\\.19429214310435158\ \(0\)\
+\-\ pulmonary\\:\\ 0\\.18826938156073758\ \(0\)\
+\-\ silicosis\\:\\ 0\\.1833149978577521\ \(0\)\
+\-\ thirty\\:\\ 0\\.1820555628082581\ \(0\)\
+\-\ histoplasmosis\\:\\ 0\\.17191149779448012\ \(0\)\
+\-\ malaise\\:\\ 0\\.17107841756165862\ \(0\)\
+\-\ aids\\:\\ 0\\.16798098940451736\ \(0\)\
+\-\ corticosteroids\\:\\ 0\\.1672590007158754\ \(0\)\
+\-\ tomography\\:\\ 0\\.14958378108666495\ \(0\)\
+\-\ fatigue\\:\\ 0\\.14958378108666495\ \(0\)\
+\-\ computed\\:\\ 0\\.14885203461405405\ \(0\)\
+\-\ testicular\\:\\ 0\\.14483386407088195\ \(0\)\
+\-\ auscultation\\:\\ 0\\.1445244553165246\ \(0\)\
+\-\ bacterial\\:\\ 0\\.1445244553165246\ \(0\)\
+\-\ viral\\:\\ 0\\.14245228800309537\ \(0\)\
+\-\ hilar\\:\\ 0\\.14161057343075606\ \(0\)\
+\-\ systemic\\:\\ 0\\.13704545557161465\ \(0\)\
+\-\ tuberculosis\\:\\ 0\\.13590296658443585\ \(0\)\
+\-\ reactive\\:\\ 0\\.1325407639811316\ \(0\)\
+\-\ fibrosis\\:\\ 0\\.12937399313466258\ \(0\)\
+\-\ stage\\:\\ 0\\.12298350065858417\ \(0\)\
+\-\ symptomatic\\:\\ 0\\.11875074797754245\ \(0\)\
+\-\ metastasis\\:\\ 0\\.1131887691539713\ \(0\)\
+\-\ fever\\:\\ 0\\.10470828579963808\ \(0\)\
+\-\ plain\\:\\ 0\\.10189122997480385\ \(0\)\
+\-\ radiographs\\:\\ 0\\.10016389436120629\ \(0\)\
+\-\ renal\\:\\ 0\\.09617046494045856\ \(0\)\
+\-\ lung\\:\\ 0\\.09394403526476242\ \(0\)\
+\-\ cystic\\:\\ 0\\.09301039200875123\ \(0\)\
+\-\ if\\:\\ 0\\.0897300376737182\ \(0\)\
+\-\ axial\\:\\ 0\\.08920667769211964\ \(0\)\
+\-\ none\\:\\ 0\\.08439724754281845\ \(0\)\
+\-\ bilateral\\:\\ 0\\.08299857284369659\ \(0\)\
+\-\ demonstrate\\:\\ 0\\.08028599722979778\ \(0\)\
+\-\ female\\:\\ 0\\.07452156610319798\ \(0\)\
+\-\ images\\:\\ 0\\.07143604324881289\ \(0\)\
+\-\ disease\\:\\ 0\\.06482594006697831\ \(0\)\
+\-\ and\\:\\ 0\\.06382382340722634\ \(0\)\
+\-\ with\\:\\ 0\\.06048024677388768\ \(0\)\
+\-\ to\\:\\ 0\\.038608216404427784\ \(0\)\

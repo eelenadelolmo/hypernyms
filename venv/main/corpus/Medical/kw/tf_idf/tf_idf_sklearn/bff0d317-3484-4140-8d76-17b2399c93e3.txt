@@ -1,100 +1,97 @@
-Texto: 
-assymetry of parotid region
-large, well-defined heterogeneous soft tissue mass within the left parotid gland, inferior to the mastoid process with apparent extension into the mastoid segment of the facial nerve canal.  
-
-there is partial cystic degeneration within the lesion.    there was normal signal in the labyrinthine, tympanic and intracanalicular segments of the facial nerve.
-facial nerve schwannoma
-â€¢ facial nerve schwannoma
-â€¢ perineural spread: lymphoma, adenoid cystic carcinoma
-â€¢ pleomorphic adenoma (high t2 signal)
-â€¢ benign lymphoepithelial cysts: mixed solid and cystic intraparotid lesions (high t2 signal, hiv patients)
-â€¢ other parotid masses: benign mixed tumor, warthin tumor, non hodgkin lymphona, parotid metastasis, mucoepidermoid carcinoma
-23 y.o. woman with gradually enlarging left parotid mass.  the patient complained of sharp pain in her left face along with twitching of her left eye, and difficulty hearing out of left ear.
-
-
-Keywords by value: 
-- parotid: 0.5012388236200245
-- facial: 0.2785545736032822
-- nerve: 0.24099597329198696
-- mastoid: 0.17422222708005025
-- cystic: 0.15259117918244777
-- schwannoma: 0.14474731663853932
-- left: 0.14404538009477755
-- signal: 0.14362358815900497
-- mixed: 0.13981730700539685
-- intraparotid: 0.13506021297171567
-- the: 0.13481294680181516
-- labyrinthine: 0.12905724383726308
-- lymphoepithelial: 0.12905724383726308
-- lymphona: 0.12905724383726308
-- assymetry: 0.11879510032028207
-- warthin: 0.11651287737543853
-- mucoepidermoid: 0.11651287737543853
-- benign: 0.11602829375595172
-- twitching: 0.11453592593775366
-- perineural: 0.11279213118582944
-- intracanalicular: 0.11123225362587127
-- her: 0.1055240439397137
-- adenoid: 0.10337622619145875
-- carcinoma: 0.10103304237157042
-- of: 0.09916355676829472
-- t2: 0.09717734949376795
-- high: 0.09599615578760418
-- tympanic: 0.0959885903414765
-- tumor: 0.08834860629901217
-- gradually: 0.08800866976933903
-- hodgkin: 0.08626487501741482
-- segments: 0.0857264468244955
-- pleomorphic: 0.08546440204457273
-- hiv: 0.08351995367935164
-- sharp: 0.08307127862941188
-- complained: 0.08140132514557424
-- enlarging: 0.07886745064240767
-- degeneration: 0.07853843391193788
-- within: 0.07779374790058682
-- ear: 0.07684897002304411
-- hearing: 0.07670452845237333
-- face: 0.07614045475925865
-- spread: 0.07586627759845466
-- difficulty: 0.07104080821974723
-- apparent: 0.07065372359436438
-- segment: 0.06972810073378082
-- 23: 0.06963864340082054
-- gland: 0.06860530712542667
-- eye: 0.06756169436568461
-- adenoma: 0.06733096018562534
-- there: 0.06720790992339877
-- partial: 0.0650705576479164
-- canal: 0.0650051926695067
-- solid: 0.06474658096636704
-- mass: 0.06451829025108395
-- cysts: 0.0639967932315286
-- process: 0.06334132772113224
-- metastasis: 0.06189848747865108
-- heterogeneous: 0.06112586991113027
-- extension: 0.0597833843987684
-- masses: 0.05749461485043069
-- inferior: 0.05745539590415665
-- along: 0.05658089705928954
-- out: 0.05551275535914184
-- and: 0.0523541093812649
-- region: 0.05051652118578521
-- lymphoma: 0.05029754218630377
-- with: 0.0496114034849172
-- lesions: 0.048502847587328445
-- patients: 0.04750995202578624
-- soft: 0.04496147291041811
-- into: 0.044894253073895836
-- tissue: 0.04430262589053805
-- woman: 0.04398388067156313
-- other: 0.04385827954870683
-- large: 0.042315609088701245
-- in: 0.04201879170599106
-- lesion: 0.04048909074285125
-- non: 0.04007167098692107
-- normal: 0.03448197160316871
-- pain: 0.030220722654174244
-- was: 0.029433029262238578
-- patient: 0.027468622368406595
-- is: 0.023128281351366842
-- to: 0.02111331554839756
+\-\ Texto\\:\\ \ \(0\)\
+\-\ assymetry\\ of\\ parotid\\ region\ \(0\)\
+\-\ large\\,\\ well\\-defined\\ heterogeneous\\ soft\\ tissue\\ mass\\ within\\ the\\ left\\ parotid\\ gland\\,\\ inferior\\ to\\ the\\ mastoid\\ process\\ with\\ apparent\\ extension\\ into\\ the\\ mastoid\\ segment\\ of\\ the\\ facial\\ nerve\\ canal\\.\\ \\ \ \(0\)\
+\-\ there\\ is\\ partial\\ cystic\\ degeneration\\ within\\ the\\ lesion\\.\\ \\ \\ \\ there\\ was\\ normal\\ signal\\ in\\ the\\ labyrinthine\\,\\ tympanic\\ and\\ intracanalicular\\ segments\\ of\\ the\\ facial\\ nerve\\.\ \(0\)\
+\-\ facial\\ nerve\\ schwannoma\ \(0\)\
+\-\ \\â\\€\\¢\\ facial\\ nerve\\ schwannoma\ \(0\)\
+\-\ \\â\\€\\¢\\ perineural\\ spread\\:\\ lymphoma\\,\\ adenoid\\ cystic\\ carcinoma\ \(0\)\
+\-\ \\â\\€\\¢\\ pleomorphic\\ adenoma\\ \\(high\\ t2\\ signal\\)\ \(0\)\
+\-\ \\â\\€\\¢\\ benign\\ lymphoepithelial\\ cysts\\:\\ mixed\\ solid\\ and\\ cystic\\ intraparotid\\ lesions\\ \\(high\\ t2\\ signal\\,\\ hiv\\ patients\\)\ \(0\)\
+\-\ \\â\\€\\¢\\ other\\ parotid\\ masses\\:\\ benign\\ mixed\\ tumor\\,\\ warthin\\ tumor\\,\\ non\\ hodgkin\\ lymphona\\,\\ parotid\\ metastasis\\,\\ mucoepidermoid\\ carcinoma\ \(0\)\
+\-\ 23\\ y\\.o\\.\\ woman\\ with\\ gradually\\ enlarging\\ left\\ parotid\\ mass\\.\\ \\ the\\ patient\\ complained\\ of\\ sharp\\ pain\\ in\\ her\\ left\\ face\\ along\\ with\\ twitching\\ of\\ her\\ left\\ eye\\,\\ and\\ difficulty\\ hearing\\ out\\ of\\ left\\ ear\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ parotid\\:\\ 0\\.5012388236200245\ \(0\)\
+\-\ facial\\:\\ 0\\.2785545736032822\ \(0\)\
+\-\ nerve\\:\\ 0\\.24099597329198696\ \(0\)\
+\-\ mastoid\\:\\ 0\\.17422222708005025\ \(0\)\
+\-\ cystic\\:\\ 0\\.15259117918244777\ \(0\)\
+\-\ schwannoma\\:\\ 0\\.14474731663853932\ \(0\)\
+\-\ left\\:\\ 0\\.14404538009477755\ \(0\)\
+\-\ signal\\:\\ 0\\.14362358815900497\ \(0\)\
+\-\ mixed\\:\\ 0\\.13981730700539685\ \(0\)\
+\-\ intraparotid\\:\\ 0\\.13506021297171567\ \(0\)\
+\-\ the\\:\\ 0\\.13481294680181516\ \(0\)\
+\-\ labyrinthine\\:\\ 0\\.12905724383726308\ \(0\)\
+\-\ lymphoepithelial\\:\\ 0\\.12905724383726308\ \(0\)\
+\-\ lymphona\\:\\ 0\\.12905724383726308\ \(0\)\
+\-\ assymetry\\:\\ 0\\.11879510032028207\ \(0\)\
+\-\ warthin\\:\\ 0\\.11651287737543853\ \(0\)\
+\-\ mucoepidermoid\\:\\ 0\\.11651287737543853\ \(0\)\
+\-\ benign\\:\\ 0\\.11602829375595172\ \(0\)\
+\-\ twitching\\:\\ 0\\.11453592593775366\ \(0\)\
+\-\ perineural\\:\\ 0\\.11279213118582944\ \(0\)\
+\-\ intracanalicular\\:\\ 0\\.11123225362587127\ \(0\)\
+\-\ her\\:\\ 0\\.1055240439397137\ \(0\)\
+\-\ adenoid\\:\\ 0\\.10337622619145875\ \(0\)\
+\-\ carcinoma\\:\\ 0\\.10103304237157042\ \(0\)\
+\-\ of\\:\\ 0\\.09916355676829472\ \(0\)\
+\-\ t2\\:\\ 0\\.09717734949376795\ \(0\)\
+\-\ high\\:\\ 0\\.09599615578760418\ \(0\)\
+\-\ tympanic\\:\\ 0\\.0959885903414765\ \(0\)\
+\-\ tumor\\:\\ 0\\.08834860629901217\ \(0\)\
+\-\ gradually\\:\\ 0\\.08800866976933903\ \(0\)\
+\-\ hodgkin\\:\\ 0\\.08626487501741482\ \(0\)\
+\-\ segments\\:\\ 0\\.0857264468244955\ \(0\)\
+\-\ pleomorphic\\:\\ 0\\.08546440204457273\ \(0\)\
+\-\ hiv\\:\\ 0\\.08351995367935164\ \(0\)\
+\-\ sharp\\:\\ 0\\.08307127862941188\ \(0\)\
+\-\ complained\\:\\ 0\\.08140132514557424\ \(0\)\
+\-\ enlarging\\:\\ 0\\.07886745064240767\ \(0\)\
+\-\ degeneration\\:\\ 0\\.07853843391193788\ \(0\)\
+\-\ within\\:\\ 0\\.07779374790058682\ \(0\)\
+\-\ ear\\:\\ 0\\.07684897002304411\ \(0\)\
+\-\ hearing\\:\\ 0\\.07670452845237333\ \(0\)\
+\-\ face\\:\\ 0\\.07614045475925865\ \(0\)\
+\-\ spread\\:\\ 0\\.07586627759845466\ \(0\)\
+\-\ difficulty\\:\\ 0\\.07104080821974723\ \(0\)\
+\-\ apparent\\:\\ 0\\.07065372359436438\ \(0\)\
+\-\ segment\\:\\ 0\\.06972810073378082\ \(0\)\
+\-\ 23\\:\\ 0\\.06963864340082054\ \(0\)\
+\-\ gland\\:\\ 0\\.06860530712542667\ \(0\)\
+\-\ eye\\:\\ 0\\.06756169436568461\ \(0\)\
+\-\ adenoma\\:\\ 0\\.06733096018562534\ \(0\)\
+\-\ there\\:\\ 0\\.06720790992339877\ \(0\)\
+\-\ partial\\:\\ 0\\.0650705576479164\ \(0\)\
+\-\ canal\\:\\ 0\\.0650051926695067\ \(0\)\
+\-\ solid\\:\\ 0\\.06474658096636704\ \(0\)\
+\-\ mass\\:\\ 0\\.06451829025108395\ \(0\)\
+\-\ cysts\\:\\ 0\\.0639967932315286\ \(0\)\
+\-\ process\\:\\ 0\\.06334132772113224\ \(0\)\
+\-\ metastasis\\:\\ 0\\.06189848747865108\ \(0\)\
+\-\ heterogeneous\\:\\ 0\\.06112586991113027\ \(0\)\
+\-\ extension\\:\\ 0\\.0597833843987684\ \(0\)\
+\-\ masses\\:\\ 0\\.05749461485043069\ \(0\)\
+\-\ inferior\\:\\ 0\\.05745539590415665\ \(0\)\
+\-\ along\\:\\ 0\\.05658089705928954\ \(0\)\
+\-\ out\\:\\ 0\\.05551275535914184\ \(0\)\
+\-\ and\\:\\ 0\\.0523541093812649\ \(0\)\
+\-\ region\\:\\ 0\\.05051652118578521\ \(0\)\
+\-\ lymphoma\\:\\ 0\\.05029754218630377\ \(0\)\
+\-\ with\\:\\ 0\\.0496114034849172\ \(0\)\
+\-\ lesions\\:\\ 0\\.048502847587328445\ \(0\)\
+\-\ patients\\:\\ 0\\.04750995202578624\ \(0\)\
+\-\ soft\\:\\ 0\\.04496147291041811\ \(0\)\
+\-\ into\\:\\ 0\\.044894253073895836\ \(0\)\
+\-\ tissue\\:\\ 0\\.04430262589053805\ \(0\)\
+\-\ woman\\:\\ 0\\.04398388067156313\ \(0\)\
+\-\ other\\:\\ 0\\.04385827954870683\ \(0\)\
+\-\ large\\:\\ 0\\.042315609088701245\ \(0\)\
+\-\ in\\:\\ 0\\.04201879170599106\ \(0\)\
+\-\ lesion\\:\\ 0\\.04048909074285125\ \(0\)\
+\-\ non\\:\\ 0\\.04007167098692107\ \(0\)\
+\-\ normal\\:\\ 0\\.03448197160316871\ \(0\)\
+\-\ pain\\:\\ 0\\.030220722654174244\ \(0\)\
+\-\ was\\:\\ 0\\.029433029262238578\ \(0\)\
+\-\ patient\\:\\ 0\\.027468622368406595\ \(0\)\
+\-\ is\\:\\ 0\\.023128281351366842\ \(0\)\
+\-\ to\\:\\ 0\\.02111331554839756\ \(0\)\

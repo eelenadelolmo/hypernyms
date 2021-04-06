@@ -1,100 +1,98 @@
-Texto: 
-not available
-surgery
-â€¢ severe congenital spinal stenosis
-â€¢ large intraspinal mass centered at l4-5 disk space
-Â» extradural vs. intradural
-â€¢ no enhancement of mass following contrast administration
-l4-l5 herniated disc with a sequestered fragment
-â€¢ extradural tumor
-Â» herniated disk
-â€¢ intradural tumor
-Â» meningioma
-Â» schwannoma
-50 year old man with chronic back pain that has become much worse over past week.
-due to the severe congenital spinal stenosis it was difficult to determine if the mass was intra-dural or extra-dural.  the only lumbar disk of relatively normal height was at l4-5 - making a herniation at that level somewhat unlikely.
-the patient was returned to mri for a contrast enhanced scan which failed to demonstrate enhancement, thus helping to make the pre-operative diagnosis of hnp (herniated nucleus pulposis).
-
-
-Keywords by value: 
-- herniated: 0.3068203602682438
-- disk: 0.2935601841783612
-- extradural: 0.22872338749852633
-- intradural: 0.22148107413974807
-- stenosis: 0.15134832387958325
-- pulposis: 0.14311371387056412
-- congenital: 0.14295761744853386
-- spinal: 0.14127771226494248
-- was: 0.13868195496215993
-- sequestered: 0.13724575772279246
-- hnp: 0.13491701772290451
-- helping: 0.1310254735440489
-- severe: 0.12595291567373404
-- to: 0.1243516191409024
-- intraspinal: 0.12077468314147116
-- enhancement: 0.11452030345234765
-- mass: 0.11399849311020085
-- at: 0.11272691963749663
-- nucleus: 0.11245729693170449
-- tumor: 0.10406979630404964
-- centered: 0.10366936977915736
-- failed: 0.10036905660518924
-- making: 0.09948956045255294
-- the: 0.09925139527194254
-- contrast: 0.09667262005668448
-- make: 0.0965982024884407
-- height: 0.0954273169235592
-- returned: 0.09349950594579678
-- determine: 0.09251395309612062
-- thus: 0.09140040613203801
-- somewhat: 0.09052385760796818
-- become: 0.08828081627867401
-- unlikely: 0.08813111884131457
-- disc: 0.08642833865508011
-- that: 0.08634298133884376
-- fragment: 0.08616003114182538
-- much: 0.08616003114182538
-- schwannoma: 0.08525218670200455
-- herniation: 0.0836821626329018
-- worse: 0.08333907659704397
-- difficult: 0.08256385366609391
-- relatively: 0.08101033659715602
-- lumbar: 0.08033015283532102
-- administration: 0.07922250162666036
-- vs: 0.07589445511362938
-- enhanced: 0.07574728424554232
-- meningioma: 0.0745440731025973
-- 50: 0.06947578227852534
-- available: 0.06749571764557416
-- week: 0.06691209722093927
-- back: 0.0663473769549377
-- space: 0.06621961342107593
-- past: 0.06475528705225826
-- only: 0.062150758331251554
-- level: 0.06009293087619671
-- following: 0.059679789692564635
-- chronic: 0.05904971759284201
-- scan: 0.05902161179405595
-- of: 0.05840460639941573
-- if: 0.05780155888797476
-- due: 0.05718416187011843
-- over: 0.055316408473096414
-- surgery: 0.05348577224112763
-- man: 0.05266704672574303
-- demonstrate: 0.0517179744605989
-- diagnosis: 0.05157080359251184
-- mri: 0.051065271258218095
-- it: 0.050923484750625574
-- large: 0.049845458834274436
-- has: 0.04544051409235818
-- which: 0.045235490195457424
-- normal: 0.040617864969579205
-- not: 0.03927315755476178
-- with: 0.03895966875854822
-- pain: 0.03559834820864918
-- or: 0.03460804315985692
-- patient: 0.032356525522971365
-- no: 0.03235043944914511
-- year: 0.030658417485429426
-- for: 0.030152254034558616
-- old: 0.029442693460595068
+\-\ Texto\\:\\ \ \(0\)\
+\-\ not\\ available\ \(73\)\
+\-\ surgery\ \(977\)\
+\-\ \\â\\€\\¢\\ severe\\ congenital\\ spinal\\ stenosis\ \(0\)\
+\-\ \\â\\€\\¢\\ large\\ intraspinal\\ mass\\ centered\\ at\\ l4\\-5\\ disk\\ space\ \(0\)\
+\-\ \\Â\\»\\ extradural\\ vs\\.\\ intradural\ \(0\)\
+\-\ \\â\\€\\¢\\ no\\ enhancement\\ of\\ mass\\ following\\ contrast\\ administration\ \(0\)\
+\-\ l4\\-l5\\ herniated\\ disc\\ with\\ a\\ sequestered\\ fragment\ \(0\)\
+\-\ \\â\\€\\¢\\ extradural\\ tumor\ \(0\)\
+\-\ \\Â\\»\\ herniated\\ disk\ \(0\)\
+\-\ \\â\\€\\¢\\ intradural\\ tumor\ \(0\)\
+\-\ \\Â\\»\\ meningioma\ \(0\)\
+\-\ \\Â\\»\\ schwannoma\ \(0\)\
+\-\ 50\\ year\\ old\\ man\\ with\\ chronic\\ back\\ pain\\ that\\ has\\ become\\ much\\ worse\\ over\\ past\\ week\\.\ \(1\)\
+\-\ due\\ to\\ the\\ severe\\ congenital\\ spinal\\ stenosis\\ it\\ was\\ difficult\\ to\\ determine\\ if\\ the\\ mass\\ was\\ intra\\-dural\\ or\\ extra\\-dural\\.\\ \\ the\\ only\\ lumbar\\ disk\\ of\\ relatively\\ normal\\ height\\ was\\ at\\ l4\\-5\\ \\-\\ making\\ a\\ herniation\\ at\\ that\\ level\\ somewhat\\ unlikely\\.\ \(0\)\
+\-\ the\\ patient\\ was\\ returned\\ to\\ mri\\ for\\ a\\ contrast\\ enhanced\\ scan\\ which\\ failed\\ to\\ demonstrate\\ enhancement\\,\\ thus\\ helping\\ to\\ make\\ the\\ pre\\-operative\\ diagnosis\\ of\\ hnp\\ \\(herniated\\ nucleus\\ pulposis\\)\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ herniated\\:\\ 0\\.3068203602682438\ \(0\)\
+\-\ disk\\:\\ 0\\.2935601841783612\ \(0\)\
+\-\ extradural\\:\\ 0\\.22872338749852633\ \(0\)\
+\-\ intradural\\:\\ 0\\.22148107413974807\ \(0\)\
+\-\ stenosis\\:\\ 0\\.15134832387958325\ \(0\)\
+\-\ pulposis\\:\\ 0\\.14311371387056412\ \(0\)\
+\-\ congenital\\:\\ 0\\.14295761744853386\ \(0\)\
+\-\ spinal\\:\\ 0\\.14127771226494248\ \(0\)\
+\-\ was\\:\\ 0\\.13868195496215993\ \(0\)\
+\-\ sequestered\\:\\ 0\\.13724575772279246\ \(0\)\
+\-\ hnp\\:\\ 0\\.13491701772290451\ \(0\)\
+\-\ helping\\:\\ 0\\.1310254735440489\ \(0\)\
+\-\ severe\\:\\ 0\\.12595291567373404\ \(0\)\
+\-\ to\\:\\ 0\\.1243516191409024\ \(0\)\
+\-\ intraspinal\\:\\ 0\\.12077468314147116\ \(0\)\
+\-\ enhancement\\:\\ 0\\.11452030345234765\ \(0\)\
+\-\ mass\\:\\ 0\\.11399849311020085\ \(0\)\
+\-\ at\\:\\ 0\\.11272691963749663\ \(0\)\
+\-\ nucleus\\:\\ 0\\.11245729693170449\ \(0\)\
+\-\ tumor\\:\\ 0\\.10406979630404964\ \(0\)\
+\-\ centered\\:\\ 0\\.10366936977915736\ \(0\)\
+\-\ failed\\:\\ 0\\.10036905660518924\ \(0\)\
+\-\ making\\:\\ 0\\.09948956045255294\ \(0\)\
+\-\ the\\:\\ 0\\.09925139527194254\ \(0\)\
+\-\ contrast\\:\\ 0\\.09667262005668448\ \(0\)\
+\-\ make\\:\\ 0\\.0965982024884407\ \(0\)\
+\-\ height\\:\\ 0\\.0954273169235592\ \(0\)\
+\-\ returned\\:\\ 0\\.09349950594579678\ \(0\)\
+\-\ determine\\:\\ 0\\.09251395309612062\ \(0\)\
+\-\ thus\\:\\ 0\\.09140040613203801\ \(0\)\
+\-\ somewhat\\:\\ 0\\.09052385760796818\ \(0\)\
+\-\ become\\:\\ 0\\.08828081627867401\ \(0\)\
+\-\ unlikely\\:\\ 0\\.08813111884131457\ \(0\)\
+\-\ disc\\:\\ 0\\.08642833865508011\ \(0\)\
+\-\ that\\:\\ 0\\.08634298133884376\ \(0\)\
+\-\ fragment\\:\\ 0\\.08616003114182538\ \(0\)\
+\-\ much\\:\\ 0\\.08616003114182538\ \(0\)\
+\-\ schwannoma\\:\\ 0\\.08525218670200455\ \(0\)\
+\-\ herniation\\:\\ 0\\.0836821626329018\ \(0\)\
+\-\ worse\\:\\ 0\\.08333907659704397\ \(0\)\
+\-\ difficult\\:\\ 0\\.08256385366609391\ \(0\)\
+\-\ relatively\\:\\ 0\\.08101033659715602\ \(0\)\
+\-\ lumbar\\:\\ 0\\.08033015283532102\ \(0\)\
+\-\ administration\\:\\ 0\\.07922250162666036\ \(0\)\
+\-\ vs\\:\\ 0\\.07589445511362938\ \(0\)\
+\-\ enhanced\\:\\ 0\\.07574728424554232\ \(0\)\
+\-\ meningioma\\:\\ 0\\.0745440731025973\ \(0\)\
+\-\ 50\\:\\ 0\\.06947578227852534\ \(0\)\
+\-\ available\\:\\ 0\\.06749571764557416\ \(0\)\
+\-\ week\\:\\ 0\\.06691209722093927\ \(0\)\
+\-\ back\\:\\ 0\\.0663473769549377\ \(0\)\
+\-\ space\\:\\ 0\\.06621961342107593\ \(0\)\
+\-\ past\\:\\ 0\\.06475528705225826\ \(0\)\
+\-\ only\\:\\ 0\\.062150758331251554\ \(0\)\
+\-\ level\\:\\ 0\\.06009293087619671\ \(0\)\
+\-\ following\\:\\ 0\\.059679789692564635\ \(0\)\
+\-\ chronic\\:\\ 0\\.05904971759284201\ \(0\)\
+\-\ scan\\:\\ 0\\.05902161179405595\ \(0\)\
+\-\ of\\:\\ 0\\.05840460639941573\ \(0\)\
+\-\ if\\:\\ 0\\.05780155888797476\ \(0\)\
+\-\ due\\:\\ 0\\.05718416187011843\ \(0\)\
+\-\ over\\:\\ 0\\.055316408473096414\ \(0\)\
+\-\ surgery\\:\\ 0\\.05348577224112763\ \(0\)\
+\-\ man\\:\\ 0\\.05266704672574303\ \(0\)\
+\-\ demonstrate\\:\\ 0\\.0517179744605989\ \(0\)\
+\-\ diagnosis\\:\\ 0\\.05157080359251184\ \(0\)\
+\-\ mri\\:\\ 0\\.051065271258218095\ \(0\)\
+\-\ it\\:\\ 0\\.050923484750625574\ \(0\)\
+\-\ large\\:\\ 0\\.049845458834274436\ \(0\)\
+\-\ has\\:\\ 0\\.04544051409235818\ \(0\)\
+\-\ which\\:\\ 0\\.045235490195457424\ \(0\)\
+\-\ normal\\:\\ 0\\.040617864969579205\ \(0\)\
+\-\ not\\:\\ 0\\.03927315755476178\ \(0\)\
+\-\ with\\:\\ 0\\.03895966875854822\ \(0\)\
+\-\ pain\\:\\ 0\\.03559834820864918\ \(0\)\
+\-\ or\\:\\ 0\\.03460804315985692\ \(0\)\
+\-\ patient\\:\\ 0\\.032356525522971365\ \(0\)\
+\-\ no\\:\\ 0\\.03235043944914511\ \(0\)\
+\-\ year\\:\\ 0\\.030658417485429426\ \(0\)\
+\-\ for\\:\\ 0\\.030152254034558616\ \(0\)\
+\-\ old\\:\\ 0\\.029442693460595068\ \(0\)\

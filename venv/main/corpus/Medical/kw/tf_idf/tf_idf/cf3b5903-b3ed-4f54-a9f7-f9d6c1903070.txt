@@ -1,198 +1,195 @@
-Texto: 
-abd: midepigastric tenderness.
-labs: hyperbilirubinemia. mildly elevated lfts. elevated amylase and lipase.
-therapy for underlying metastatic pancreatic carcinoma.
-ct: cavernous transformation of the thrombosed portal vein occurs when small collateral veins adjacent to the portal vein expand and replace the obliterated portal vein. in this case, pv thrombosis is secondary to a pancreatic primary neoplasm with evidence of metastatic spread. the pv thrombus may be secondary to direct tumor extension or may be the sequelae of a paraneoplastic syndrome (hypercoagulable state). peripheral hypodense liver lesions are likely metastases.
-portal vein thrombosis with cavernous transformation in metastatic pancreatic cancer
-1.  tumor: direct invasion of the pv, pv compression or paraneoplastic hypercoagulability 
-2.  cirrhosis
-3.  infection (esp. in children)
-4.  inflammation (pancreatitis)
-5.  inherited coagulation disorders
-6.  idiopathic
-51 year old asian woman with right upper quadrant abdominal pain, nausea. 20 lb weightloss.
-portal vein obstruction does not affect liver function unless the patient has an underlying liver disease such as cirrhosis. this is partially due to a rapid arterial buffer response, with compensatory increased flow of the hepatic artery maintaining the total hepatic blood flow. formation of collaterals occurs rather rapidly as well, and they have been described as early as 12 days after acute thrombosis, though the average time to formation is approximately 5 weeks. 
-
-the development of a collateral circulation, with its attendant risk of variceal hemorrhage, is responsible for most of the complications and is the most common manifestation of portal vein obstruction. other sequelae of the subsequent portal hypertension, such as ascites, are less frequent. rarely, the thrombosis extends from the portal vein to the mesenteric arcades, leading to bowel ischemia and infarction.
-
-
-Keywords by value: 
-- portal: 0.11387418507418198
-- pv: 0.10281482586590573
-- vein: 0.06849219384208488
-- thrombosis: 0.046430682875355
-- pancreatic: 0.03969103894686895
-- paraneoplastic: 0.03909152591361544
-- sequelae: 0.03213828358027297
-- cirrhosis: 0.03184385310157112
-- transformation: 0.03066599057224289
-- collateral: 0.02830198102603047
-- liver: 0.027970457381323328
-- buffer: 0.027897210202425627
-- attendant: 0.027897210202425627
-- variceal: 0.027897210202425627
-- arcades: 0.027897210202425627
-- weightloss: 0.025703706466476434
-- direct: 0.025546803359841573
-- cavernous: 0.025085368101562536
-- midepigastric: 0.024420589035754392
-- underlying: 0.02317865081942227
-- hyperbilirubinemia: 0.022804052251684803
-- hepatic: 0.022585407289911468
-- formation: 0.022324375906784575
-- occurs: 0.022197789408641096
-- replace: 0.021739266692756914
-- esp: 0.021739266692756914
-- expand: 0.02094396786908316
-- hypercoagulability: 0.02094396786908316
-- maintaining: 0.02061054851573561
-- as: 0.02045217572617291
-- metastatic: 0.020421924717874275
-- obliterated: 0.02030893402268395
-- hypercoagulable: 0.02030893402268395
-- inherited: 0.019780281856028356
-- compensatory: 0.019327431085013568
-- coagulation: 0.01912319525862885
-- obstruction: 0.01907215220626225
-- lb: 0.0189313451895895
-- collaterals: 0.0189313451895895
-- thrombosed: 0.018417044779786413
-- elevated: 0.01835010355290546
-- flow: 0.017873758714294405
-- lfts: 0.017840077827906812
-- asian: 0.017586778120079163
-- responsible: 0.017586778120079163
-- manifestation: 0.01746734670241193
-- such: 0.01690716955595476
-- amylase: 0.01664610874201609
-- lipase: 0.016556960397184774
-- circulation: 0.016470254782665422
-- average: 0.015781256416067733
-- affect: 0.0155813231830882
-- ascites: 0.015517390564994784
-- state: 0.015273842966462734
-- secondary: 0.015120442826005111
-- rapidly: 0.014993610696394868
-- pancreatitis: 0.014836658351017109
-- 51: 0.014687123905287534
-- unless: 0.014638809120063519
-- hypodense: 0.014407716920649313
-- abd: 0.014319806907652239
-- :: 0.01430727615178057
-- thrombus: 0.013657306182393143
-- rapid: 0.013657306182393143
-- response: 0.01355354092029507
-- frequent: 0.013519695068659793
-- 6.: 0.013139491550172251
-- spread: 0.013080339230513539
-- invasion: 0.013022272335993929
-- rarely: 0.012965251748960138
-- veins: 0.012937122168525815
-- disorders: 0.012937122168525815
-- leading: 0.012937122168525815
-- rather: 0.012854203268544728
-- tumor: 0.012609065200068425
-- ischemia: 0.012567504232619958
-- though: 0.012542684050781268
-- most: 0.01248629836536757
-- mesenteric: 0.012469370572042237
-- partially: 0.012374188751671103
-- idiopathic: 0.012327650310564472
-- may: 0.011862837777836227
-- arterial: 0.011836533571938833
-- development: 0.011777747541644734
-- extends: 0.011720033656993529
-- children: 0.011682134318238098
-- 5.: 0.01166335350963109
-- total: 0.011644683502899482
-- metastases: 0.011552950791275267
-- mildly: 0.011516989529723637
-- described: 0.011516989529723637
-- inflammation: 0.011499160992640547
-- function: 0.011463802446443948
-- 12: 0.011067716551019879
-- infarction: 0.011052241914012943
-- nausea: 0.010886835494564345
-- complications: 0.010715736693076131
-- hypertension: 0.010660699532595531
-- 4.: 0.010647088513926576
-- subsequent: 0.010527154106993074
-- ,: 0.010280129070276737
-- its: 0.010204213428657093
-- compression: 0.0101226181212023
-- early: 0.00988974357481784
-- risk: 0.009794957744807235
-- peripheral: 0.009784599120297839
-- they: 0.009743500400276285
-- 20: 0.009723149481509544
-- extension: 0.009652934560701435
-- quadrant: 0.009517012449322957
-- to: 0.009460369490825645
-- labs: 0.009404981034604867
-- 3.: 0.009252766494116226
-- does: 0.009226648956911412
-- neoplasm: 0.009209356252885848
-- less: 0.009158037988362918
-- hemorrhage: 0.009000811975240618
-- is: 0.00889700598710009
-- cancer: 0.008889763494825207
-- 2.: 0.008599506777848919
-- adjacent: 0.008550114696627427
-- bowel: 0.008480865610394808
-- 1.: 0.008446801159169622
-- approximately: 0.008366512109353111
-- be: 0.0083402324262274
-- days: 0.008288209798012586
-- tenderness: 0.00822440608506846
-- artery: 0.008052310101608224
-- primary: 0.0080107096927079
-- 5: 0.007911900071025834
-- infection: 0.007860811943268377
-- when: 0.007744719106379765
-- syndrome: 0.007733881571945068
-- weeks: 0.007674929610446672
-- carcinoma: 0.007664328069670464
-- time: 0.0076379785672130145
-- likely: 0.007627499892201444
-- the: 0.007437461518865945
-- blood: 0.007381047697814239
-- are: 0.007372619446389885
-- been: 0.007356945852734149
-- lesions: 0.007239115526404898
-- therapy: 0.007229875937470294
-- due: 0.007216066939724176
-- evidence: 0.007090008175211639
-- common: 0.0070767949745455605
-- (: 0.0068578644896569035
-- ): 0.00677409201373391
-- abdominal: 0.006759238095323149
-- acute: 0.006676833319957263
-- increased: 0.006615458170252075
-- upper: 0.0065255712195212605
-- or: 0.006338751575719667
-- woman: 0.006246528314838311
-- other: 0.006233033381969774
-- small: 0.006229668621459236
-- well: 0.006117344787875478
-- this: 0.006083146919709703
-- case: 0.005916153268567312
-- have: 0.005855816703686999
-- after: 0.0055949405145860834
-- has: 0.005078164463589487
-- a: 0.005020250655931662
-- for: 0.004614608535713387
-- disease: 0.004420055510176279
-- of: 0.004055512053094534
-- from: 0.004007707953019659
-- in: 0.004000606615255585
-- not: 0.003907654024499795
-- ct: 0.003782606498076085
-- an: 0.0037394457730529425
-- pain: 0.003302557492185869
-- year: 0.003025649586306692
-- right: 0.002853264902248154
-- and: 0.0028482437615857353
-- old: 0.002768780369817261
-- patient: 0.0027107339585961646
-- .: 0.0020221254738994714
-- with: 0.0018513319001564833
+\-\ Texto\\:\\ \ \(0\)\
+\-\ abd\\:\\ midepigastric\\ tenderness\\.\ \(0\)\
+\-\ labs\\:\\ hyperbilirubinemia\\.\\ mildly\\ elevated\\ lfts\\.\\ elevated\\ amylase\\ and\\ lipase\\.\ \(0\)\
+\-\ therapy\\ for\\ underlying\\ metastatic\\ pancreatic\\ carcinoma\\.\ \(0\)\
+\-\ ct\\:\\ cavernous\\ transformation\\ of\\ the\\ thrombosed\\ portal\\ vein\\ occurs\\ when\\ small\\ collateral\\ veins\\ adjacent\\ to\\ the\\ portal\\ vein\\ expand\\ and\\ replace\\ the\\ obliterated\\ portal\\ vein\\.\\ in\\ this\\ case\\,\\ pv\\ thrombosis\\ is\\ secondary\\ to\\ a\\ pancreatic\\ primary\\ neoplasm\\ with\\ evidence\\ of\\ metastatic\\ spread\\.\\ the\\ pv\\ thrombus\\ may\\ be\\ secondary\\ to\\ direct\\ tumor\\ extension\\ or\\ may\\ be\\ the\\ sequelae\\ of\\ a\\ paraneoplastic\\ syndrome\\ \\(hypercoagulable\\ state\\)\\.\\ peripheral\\ hypodense\\ liver\\ lesions\\ are\\ likely\\ metastases\\.\ \(0\)\
+\-\ portal\\ vein\\ thrombosis\\ with\\ cavernous\\ transformation\\ in\\ metastatic\\ pancreatic\\ cancer\ \(0\)\
+\-\ 1\\.\\ \\ tumor\\:\\ direct\\ invasion\\ of\\ the\\ pv\\,\\ pv\\ compression\\ or\\ paraneoplastic\\ hypercoagulability\\ \ \(0\)\
+\-\ 2\\.\\ \\ cirrhosis\ \(0\)\
+\-\ 3\\.\\ \\ infection\\ \\(esp\\.\\ in\\ children\\)\ \(0\)\
+\-\ 4\\.\\ \\ inflammation\\ \\(pancreatitis\\)\ \(0\)\
+\-\ 5\\.\\ \\ inherited\\ coagulation\\ disorders\ \(0\)\
+\-\ 6\\.\\ \\ idiopathic\ \(0\)\
+\-\ 51\\ year\\ old\\ asian\\ woman\\ with\\ right\\ upper\\ quadrant\\ abdominal\\ pain\\,\\ nausea\\.\\ 20\\ lb\\ weightloss\\.\ \(0\)\
+\-\ portal\\ vein\\ obstruction\\ does\\ not\\ affect\\ liver\\ function\\ unless\\ the\\ patient\\ has\\ an\\ underlying\\ liver\\ disease\\ such\\ as\\ cirrhosis\\.\\ this\\ is\\ partially\\ due\\ to\\ a\\ rapid\\ arterial\\ buffer\\ response\\,\\ with\\ compensatory\\ increased\\ flow\\ of\\ the\\ hepatic\\ artery\\ maintaining\\ the\\ total\\ hepatic\\ blood\\ flow\\.\\ formation\\ of\\ collaterals\\ occurs\\ rather\\ rapidly\\ as\\ well\\,\\ and\\ they\\ have\\ been\\ described\\ as\\ early\\ as\\ 12\\ days\\ after\\ acute\\ thrombosis\\,\\ though\\ the\\ average\\ time\\ to\\ formation\\ is\\ approximately\\ 5\\ weeks\\.\\ \ \(0\)\
+\-\ the\\ development\\ of\\ a\\ collateral\\ circulation\\,\\ with\\ its\\ attendant\\ risk\\ of\\ variceal\\ hemorrhage\\,\\ is\\ responsible\\ for\\ most\\ of\\ the\\ complications\\ and\\ is\\ the\\ most\\ common\\ manifestation\\ of\\ portal\\ vein\\ obstruction\\.\\ other\\ sequelae\\ of\\ the\\ subsequent\\ portal\\ hypertension\\,\\ such\\ as\\ ascites\\,\\ are\\ less\\ frequent\\.\\ rarely\\,\\ the\\ thrombosis\\ extends\\ from\\ the\\ portal\\ vein\\ to\\ the\\ mesenteric\\ arcades\\,\\ leading\\ to\\ bowel\\ ischemia\\ and\\ infarction\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ portal\\:\\ 0\\.11387418507418198\ \(0\)\
+\-\ pv\\:\\ 0\\.10281482586590573\ \(0\)\
+\-\ vein\\:\\ 0\\.06849219384208488\ \(0\)\
+\-\ thrombosis\\:\\ 0\\.046430682875355\ \(0\)\
+\-\ pancreatic\\:\\ 0\\.03969103894686895\ \(0\)\
+\-\ paraneoplastic\\:\\ 0\\.03909152591361544\ \(0\)\
+\-\ sequelae\\:\\ 0\\.03213828358027297\ \(0\)\
+\-\ cirrhosis\\:\\ 0\\.03184385310157112\ \(0\)\
+\-\ transformation\\:\\ 0\\.03066599057224289\ \(0\)\
+\-\ collateral\\:\\ 0\\.02830198102603047\ \(0\)\
+\-\ liver\\:\\ 0\\.027970457381323328\ \(0\)\
+\-\ buffer\\:\\ 0\\.027897210202425627\ \(0\)\
+\-\ attendant\\:\\ 0\\.027897210202425627\ \(0\)\
+\-\ variceal\\:\\ 0\\.027897210202425627\ \(0\)\
+\-\ arcades\\:\\ 0\\.027897210202425627\ \(0\)\
+\-\ weightloss\\:\\ 0\\.025703706466476434\ \(0\)\
+\-\ direct\\:\\ 0\\.025546803359841573\ \(0\)\
+\-\ cavernous\\:\\ 0\\.025085368101562536\ \(0\)\
+\-\ midepigastric\\:\\ 0\\.024420589035754392\ \(0\)\
+\-\ underlying\\:\\ 0\\.02317865081942227\ \(0\)\
+\-\ hyperbilirubinemia\\:\\ 0\\.022804052251684803\ \(0\)\
+\-\ hepatic\\:\\ 0\\.022585407289911468\ \(0\)\
+\-\ formation\\:\\ 0\\.022324375906784575\ \(0\)\
+\-\ occurs\\:\\ 0\\.022197789408641096\ \(0\)\
+\-\ replace\\:\\ 0\\.021739266692756914\ \(0\)\
+\-\ esp\\:\\ 0\\.021739266692756914\ \(0\)\
+\-\ expand\\:\\ 0\\.02094396786908316\ \(0\)\
+\-\ hypercoagulability\\:\\ 0\\.02094396786908316\ \(0\)\
+\-\ maintaining\\:\\ 0\\.02061054851573561\ \(0\)\
+\-\ as\\:\\ 0\\.02045217572617291\ \(0\)\
+\-\ metastatic\\:\\ 0\\.020421924717874275\ \(0\)\
+\-\ obliterated\\:\\ 0\\.02030893402268395\ \(0\)\
+\-\ hypercoagulable\\:\\ 0\\.02030893402268395\ \(0\)\
+\-\ inherited\\:\\ 0\\.019780281856028356\ \(0\)\
+\-\ compensatory\\:\\ 0\\.019327431085013568\ \(0\)\
+\-\ coagulation\\:\\ 0\\.01912319525862885\ \(0\)\
+\-\ obstruction\\:\\ 0\\.01907215220626225\ \(0\)\
+\-\ lb\\:\\ 0\\.0189313451895895\ \(0\)\
+\-\ collaterals\\:\\ 0\\.0189313451895895\ \(0\)\
+\-\ thrombosed\\:\\ 0\\.018417044779786413\ \(0\)\
+\-\ elevated\\:\\ 0\\.01835010355290546\ \(0\)\
+\-\ flow\\:\\ 0\\.017873758714294405\ \(0\)\
+\-\ lfts\\:\\ 0\\.017840077827906812\ \(0\)\
+\-\ asian\\:\\ 0\\.017586778120079163\ \(0\)\
+\-\ responsible\\:\\ 0\\.017586778120079163\ \(0\)\
+\-\ manifestation\\:\\ 0\\.01746734670241193\ \(0\)\
+\-\ such\\:\\ 0\\.01690716955595476\ \(0\)\
+\-\ amylase\\:\\ 0\\.01664610874201609\ \(0\)\
+\-\ lipase\\:\\ 0\\.016556960397184774\ \(0\)\
+\-\ circulation\\:\\ 0\\.016470254782665422\ \(0\)\
+\-\ average\\:\\ 0\\.015781256416067733\ \(0\)\
+\-\ affect\\:\\ 0\\.0155813231830882\ \(0\)\
+\-\ ascites\\:\\ 0\\.015517390564994784\ \(0\)\
+\-\ state\\:\\ 0\\.015273842966462734\ \(0\)\
+\-\ secondary\\:\\ 0\\.015120442826005111\ \(0\)\
+\-\ rapidly\\:\\ 0\\.014993610696394868\ \(0\)\
+\-\ pancreatitis\\:\\ 0\\.014836658351017109\ \(0\)\
+\-\ 51\\:\\ 0\\.014687123905287534\ \(0\)\
+\-\ unless\\:\\ 0\\.014638809120063519\ \(0\)\
+\-\ hypodense\\:\\ 0\\.014407716920649313\ \(0\)\
+\-\ abd\\:\\ 0\\.014319806907652239\ \(0\)\
+\-\ \\:\\:\\ 0\\.01430727615178057\ \(0\)\
+\-\ thrombus\\:\\ 0\\.013657306182393143\ \(0\)\
+\-\ rapid\\:\\ 0\\.013657306182393143\ \(0\)\
+\-\ response\\:\\ 0\\.01355354092029507\ \(0\)\
+\-\ frequent\\:\\ 0\\.013519695068659793\ \(0\)\
+\-\ 6\\.\\:\\ 0\\.013139491550172251\ \(0\)\
+\-\ spread\\:\\ 0\\.013080339230513539\ \(0\)\
+\-\ invasion\\:\\ 0\\.013022272335993929\ \(0\)\
+\-\ rarely\\:\\ 0\\.012965251748960138\ \(0\)\
+\-\ veins\\:\\ 0\\.012937122168525815\ \(0\)\
+\-\ disorders\\:\\ 0\\.012937122168525815\ \(0\)\
+\-\ leading\\:\\ 0\\.012937122168525815\ \(0\)\
+\-\ rather\\:\\ 0\\.012854203268544728\ \(0\)\
+\-\ tumor\\:\\ 0\\.012609065200068425\ \(0\)\
+\-\ ischemia\\:\\ 0\\.012567504232619958\ \(0\)\
+\-\ though\\:\\ 0\\.012542684050781268\ \(0\)\
+\-\ most\\:\\ 0\\.01248629836536757\ \(0\)\
+\-\ mesenteric\\:\\ 0\\.012469370572042237\ \(0\)\
+\-\ partially\\:\\ 0\\.012374188751671103\ \(0\)\
+\-\ idiopathic\\:\\ 0\\.012327650310564472\ \(0\)\
+\-\ may\\:\\ 0\\.011862837777836227\ \(0\)\
+\-\ arterial\\:\\ 0\\.011836533571938833\ \(0\)\
+\-\ development\\:\\ 0\\.011777747541644734\ \(0\)\
+\-\ extends\\:\\ 0\\.011720033656993529\ \(0\)\
+\-\ children\\:\\ 0\\.011682134318238098\ \(0\)\
+\-\ 5\\.\\:\\ 0\\.01166335350963109\ \(0\)\
+\-\ total\\:\\ 0\\.011644683502899482\ \(0\)\
+\-\ metastases\\:\\ 0\\.011552950791275267\ \(0\)\
+\-\ mildly\\:\\ 0\\.011516989529723637\ \(0\)\
+\-\ described\\:\\ 0\\.011516989529723637\ \(0\)\
+\-\ inflammation\\:\\ 0\\.011499160992640547\ \(0\)\
+\-\ function\\:\\ 0\\.011463802446443948\ \(0\)\
+\-\ 12\\:\\ 0\\.011067716551019879\ \(0\)\
+\-\ infarction\\:\\ 0\\.011052241914012943\ \(0\)\
+\-\ nausea\\:\\ 0\\.010886835494564345\ \(0\)\
+\-\ complications\\:\\ 0\\.010715736693076131\ \(0\)\
+\-\ hypertension\\:\\ 0\\.010660699532595531\ \(0\)\
+\-\ 4\\.\\:\\ 0\\.010647088513926576\ \(0\)\
+\-\ subsequent\\:\\ 0\\.010527154106993074\ \(0\)\
+\-\ \\,\\:\\ 0\\.010280129070276737\ \(0\)\
+\-\ its\\:\\ 0\\.010204213428657093\ \(0\)\
+\-\ compression\\:\\ 0\\.0101226181212023\ \(0\)\
+\-\ early\\:\\ 0\\.00988974357481784\ \(0\)\
+\-\ risk\\:\\ 0\\.009794957744807235\ \(0\)\
+\-\ peripheral\\:\\ 0\\.009784599120297839\ \(0\)\
+\-\ they\\:\\ 0\\.009743500400276285\ \(0\)\
+\-\ 20\\:\\ 0\\.009723149481509544\ \(0\)\
+\-\ extension\\:\\ 0\\.009652934560701435\ \(0\)\
+\-\ quadrant\\:\\ 0\\.009517012449322957\ \(0\)\
+\-\ to\\:\\ 0\\.009460369490825645\ \(0\)\
+\-\ labs\\:\\ 0\\.009404981034604867\ \(0\)\
+\-\ 3\\.\\:\\ 0\\.009252766494116226\ \(0\)\
+\-\ does\\:\\ 0\\.009226648956911412\ \(0\)\
+\-\ neoplasm\\:\\ 0\\.009209356252885848\ \(0\)\
+\-\ less\\:\\ 0\\.009158037988362918\ \(0\)\
+\-\ hemorrhage\\:\\ 0\\.009000811975240618\ \(0\)\
+\-\ is\\:\\ 0\\.00889700598710009\ \(0\)\
+\-\ cancer\\:\\ 0\\.008889763494825207\ \(0\)\
+\-\ 2\\.\\:\\ 0\\.008599506777848919\ \(0\)\
+\-\ adjacent\\:\\ 0\\.008550114696627427\ \(0\)\
+\-\ bowel\\:\\ 0\\.008480865610394808\ \(0\)\
+\-\ 1\\.\\:\\ 0\\.008446801159169622\ \(0\)\
+\-\ approximately\\:\\ 0\\.008366512109353111\ \(0\)\
+\-\ be\\:\\ 0\\.0083402324262274\ \(0\)\
+\-\ days\\:\\ 0\\.008288209798012586\ \(0\)\
+\-\ tenderness\\:\\ 0\\.00822440608506846\ \(0\)\
+\-\ artery\\:\\ 0\\.008052310101608224\ \(0\)\
+\-\ primary\\:\\ 0\\.0080107096927079\ \(0\)\
+\-\ 5\\:\\ 0\\.007911900071025834\ \(0\)\
+\-\ infection\\:\\ 0\\.007860811943268377\ \(0\)\
+\-\ when\\:\\ 0\\.007744719106379765\ \(0\)\
+\-\ syndrome\\:\\ 0\\.007733881571945068\ \(0\)\
+\-\ weeks\\:\\ 0\\.007674929610446672\ \(0\)\
+\-\ carcinoma\\:\\ 0\\.007664328069670464\ \(0\)\
+\-\ time\\:\\ 0\\.0076379785672130145\ \(0\)\
+\-\ likely\\:\\ 0\\.007627499892201444\ \(0\)\
+\-\ the\\:\\ 0\\.007437461518865945\ \(0\)\
+\-\ blood\\:\\ 0\\.007381047697814239\ \(0\)\
+\-\ are\\:\\ 0\\.007372619446389885\ \(0\)\
+\-\ been\\:\\ 0\\.007356945852734149\ \(0\)\
+\-\ lesions\\:\\ 0\\.007239115526404898\ \(0\)\
+\-\ therapy\\:\\ 0\\.007229875937470294\ \(0\)\
+\-\ due\\:\\ 0\\.007216066939724176\ \(0\)\
+\-\ evidence\\:\\ 0\\.007090008175211639\ \(0\)\
+\-\ common\\:\\ 0\\.0070767949745455605\ \(0\)\
+\-\ \\(\\:\\ 0\\.0068578644896569035\ \(0\)\
+\-\ \\)\\:\\ 0\\.00677409201373391\ \(0\)\
+\-\ abdominal\\:\\ 0\\.006759238095323149\ \(0\)\
+\-\ acute\\:\\ 0\\.006676833319957263\ \(0\)\
+\-\ increased\\:\\ 0\\.006615458170252075\ \(0\)\
+\-\ upper\\:\\ 0\\.0065255712195212605\ \(0\)\
+\-\ or\\:\\ 0\\.006338751575719667\ \(0\)\
+\-\ woman\\:\\ 0\\.006246528314838311\ \(0\)\
+\-\ other\\:\\ 0\\.006233033381969774\ \(0\)\
+\-\ small\\:\\ 0\\.006229668621459236\ \(0\)\
+\-\ well\\:\\ 0\\.006117344787875478\ \(0\)\
+\-\ this\\:\\ 0\\.006083146919709703\ \(0\)\
+\-\ case\\:\\ 0\\.005916153268567312\ \(0\)\
+\-\ have\\:\\ 0\\.005855816703686999\ \(0\)\
+\-\ after\\:\\ 0\\.0055949405145860834\ \(0\)\
+\-\ has\\:\\ 0\\.005078164463589487\ \(0\)\
+\-\ a\\:\\ 0\\.005020250655931662\ \(0\)\
+\-\ for\\:\\ 0\\.004614608535713387\ \(0\)\
+\-\ disease\\:\\ 0\\.004420055510176279\ \(0\)\
+\-\ of\\:\\ 0\\.004055512053094534\ \(0\)\
+\-\ from\\:\\ 0\\.004007707953019659\ \(0\)\
+\-\ in\\:\\ 0\\.004000606615255585\ \(0\)\
+\-\ not\\:\\ 0\\.003907654024499795\ \(0\)\
+\-\ ct\\:\\ 0\\.003782606498076085\ \(0\)\
+\-\ an\\:\\ 0\\.0037394457730529425\ \(0\)\
+\-\ pain\\:\\ 0\\.003302557492185869\ \(0\)\
+\-\ year\\:\\ 0\\.003025649586306692\ \(0\)\
+\-\ right\\:\\ 0\\.002853264902248154\ \(0\)\
+\-\ and\\:\\ 0\\.0028482437615857353\ \(0\)\
+\-\ old\\:\\ 0\\.002768780369817261\ \(0\)\
+\-\ patient\\:\\ 0\\.0027107339585961646\ \(0\)\
+\-\ \\.\\:\\ 0\\.0020221254738994714\ \(0\)\
+\-\ with\\:\\ 0\\.0018513319001564833\ \(0\)\

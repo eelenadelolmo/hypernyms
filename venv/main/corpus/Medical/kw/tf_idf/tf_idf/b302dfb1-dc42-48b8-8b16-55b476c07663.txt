@@ -1,99 +1,97 @@
-Texto: 
-head circumference greater than 95%.
-supportive
-â€¢ low t1 signal involving the periventricular white matter and high t1 signal involving the periventricular rim.
-â€¢ increased t2 signal int the involved white matter and the basal ganglia
-â€¢ on post-contrast imaging there is intense enhancement of the basal ganglia
-alexander  disease, rosenthal fiber encephalopathy
-â€¢ canavan disease:  diffuse involvement of the brain, with the subcortical u fibers involved early
-â€¢ megaloencephalic leukoencephalopathy with subcortical cysts:  diffuse white matter involvment (including subcortical u fibers), but spares the basal ganglia
-â€¢ mucopolysaccharidoses: prominent virchow robin spaces, and patchy, periventricular white matter signal abnormality
-â€¢ alexander's disease
-six month old baby boy with intermittent vomiting for 7 weeks now listless.  parents say his head is too big.
-
-
-Keywords by value: 
-- subcortical: 0.11232950743861023
-- alexander: 0.10689531025678572
-- periventricular: 0.10626686602566629
-- u: 0.0969219695293045
-- matter: 0.09681956749354814
-- ganglia: 0.09437842807502551
-- basal: 0.08407634888068431
-- white: 0.08155695576149692
-- â€¢: 0.07891439180698716
-- fibers: 0.06918252142063348
-- signal: 0.06483667137475622
-- megaloencephalic: 0.06342099585587409
-- canavan: 0.058434325492133475
-- mucopolysaccharidoses: 0.058434325492133475
-- spares: 0.055517310325887685
-- robin: 0.055517310325887685
-- listless: 0.055517310325887685
-- rosenthal: 0.05344765512839286
-- say: 0.05344765512839286
-- involved: 0.05157424182894837
-- fiber: 0.05053063996214707
-- virchow: 0.04942164226554809
-- involvment: 0.04761362479590128
-- big: 0.04685563547462196
-- int: 0.04616995072782826
-- involving: 0.04314255056119847
-- leukoencephalopathy: 0.04262695443216068
-- circumference: 0.03970993926591489
-- t1: 0.03897115879459344
-- post-contrast: 0.03871605193871477
-- diffuse: 0.03722312835072396
-- encephalopathy: 0.03619661000034703
-- parents: 0.03572209224644921
-- head: 0.03487196130322153
-- 95: 0.03459126071031674
-- too: 0.034461631174326254
-- patchy: 0.03295979798107366
-- intense: 0.03255438117135329
-- spaces: 0.03029027509336983
-- six: 0.030218689979318265
-- disease: 0.030145414558612322
-- baby: 0.029939266718050184
-- supportive: 0.02718392677376165
-- intermittent: 0.02638866149030968
-- rim: 0.026021736638134337
-- prominent: 0.02523201961557765
-- :: 0.02439442048900716
-- cysts: 0.024082433689434295
-- 7: 0.023555790495022103
-- vomiting: 0.02347164632406389
-- greater: 0.023091484587557564
-- abnormality: 0.02268027297719822
-- involvement: 0.022531932781495085
-- early: 0.022483158054981568
-- including: 0.022197256410021036
-- now: 0.021015220069796024
-- boy: 0.020897278992273175
-- brain: 0.01849893182232203
-- month: 0.018443270077702228
-- his: 0.01771862609817937
-- weeks: 0.017448041416555024
-- t2: 0.01739991919964282
-- low: 0.017094734193283452
-- high: 0.016824072381847594
-- enhancement: 0.016478336446928317
-- than: 0.016108265143296937
-- increased: 0.015039458861868027
-- imaging: 0.014403408809033114
-- %: 0.0143404390888202
-- 's: 0.013554292218467951
-- but: 0.013111534539809623
-- ,: 0.009737772140909618
-- there: 0.00914903278032366
-- is: 0.008090514796902527
-- the: 0.007956793364237456
-- old: 0.0062944935026061485
-- for: 0.00524538236433608
-- on: 0.0052078490098232235
-- (: 0.005196846951394681
-- ): 0.005133364691462626
-- and: 0.003885086454652197
-- with: 0.002525269987551577
-- of: 0.001676313680546596
-- .: 0.0010215693840962957
+\-\ Texto\\:\\ \ \(0\)\
+\-\ head\\ circumference\\ greater\\ than\\ 95\\%\\.\ \(0\)\
+\-\ supportive\ \(54\)\
+\-\ \\â\\€\\¢\\ low\\ t1\\ signal\\ involving\\ the\\ periventricular\\ white\\ matter\\ and\\ high\\ t1\\ signal\\ involving\\ the\\ periventricular\\ rim\\.\ \(0\)\
+\-\ \\â\\€\\¢\\ increased\\ t2\\ signal\\ int\\ the\\ involved\\ white\\ matter\\ and\\ the\\ basal\\ ganglia\ \(0\)\
+\-\ \\â\\€\\¢\\ on\\ post\\-contrast\\ imaging\\ there\\ is\\ intense\\ enhancement\\ of\\ the\\ basal\\ ganglia\ \(0\)\
+\-\ alexander\\ \\ disease\\,\\ rosenthal\\ fiber\\ encephalopathy\ \(0\)\
+\-\ \\â\\€\\¢\\ canavan\\ disease\\:\\ \\ diffuse\\ involvement\\ of\\ the\\ brain\\,\\ with\\ the\\ subcortical\\ u\\ fibers\\ involved\\ early\ \(0\)\
+\-\ \\â\\€\\¢\\ megaloencephalic\\ leukoencephalopathy\\ with\\ subcortical\\ cysts\\:\\ \\ diffuse\\ white\\ matter\\ involvment\\ \\(including\\ subcortical\\ u\\ fibers\\)\\,\\ but\\ spares\\ the\\ basal\\ ganglia\ \(0\)\
+\-\ \\â\\€\\¢\\ mucopolysaccharidoses\\:\\ prominent\\ virchow\\ robin\\ spaces\\,\\ and\\ patchy\\,\\ periventricular\\ white\\ matter\\ signal\\ abnormality\ \(0\)\
+\-\ \\â\\€\\¢\\ alexander\\'s\\ disease\ \(0\)\
+\-\ six\\ month\\ old\\ baby\\ boy\\ with\\ intermittent\\ vomiting\\ for\\ 7\\ weeks\\ now\\ listless\\.\\ \\ parents\\ say\\ his\\ head\\ is\\ too\\ big\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ subcortical\\:\\ 0\\.11232950743861023\ \(0\)\
+\-\ alexander\\:\\ 0\\.10689531025678572\ \(0\)\
+\-\ periventricular\\:\\ 0\\.10626686602566629\ \(0\)\
+\-\ u\\:\\ 0\\.0969219695293045\ \(0\)\
+\-\ matter\\:\\ 0\\.09681956749354814\ \(0\)\
+\-\ ganglia\\:\\ 0\\.09437842807502551\ \(0\)\
+\-\ basal\\:\\ 0\\.08407634888068431\ \(0\)\
+\-\ white\\:\\ 0\\.08155695576149692\ \(0\)\
+\-\ \\â\\€\\¢\\:\\ 0\\.07891439180698716\ \(0\)\
+\-\ fibers\\:\\ 0\\.06918252142063348\ \(0\)\
+\-\ signal\\:\\ 0\\.06483667137475622\ \(0\)\
+\-\ megaloencephalic\\:\\ 0\\.06342099585587409\ \(0\)\
+\-\ canavan\\:\\ 0\\.058434325492133475\ \(0\)\
+\-\ mucopolysaccharidoses\\:\\ 0\\.058434325492133475\ \(0\)\
+\-\ spares\\:\\ 0\\.055517310325887685\ \(0\)\
+\-\ robin\\:\\ 0\\.055517310325887685\ \(0\)\
+\-\ listless\\:\\ 0\\.055517310325887685\ \(0\)\
+\-\ rosenthal\\:\\ 0\\.05344765512839286\ \(0\)\
+\-\ say\\:\\ 0\\.05344765512839286\ \(0\)\
+\-\ involved\\:\\ 0\\.05157424182894837\ \(0\)\
+\-\ fiber\\:\\ 0\\.05053063996214707\ \(0\)\
+\-\ virchow\\:\\ 0\\.04942164226554809\ \(0\)\
+\-\ involvment\\:\\ 0\\.04761362479590128\ \(0\)\
+\-\ big\\:\\ 0\\.04685563547462196\ \(0\)\
+\-\ int\\:\\ 0\\.04616995072782826\ \(0\)\
+\-\ involving\\:\\ 0\\.04314255056119847\ \(0\)\
+\-\ leukoencephalopathy\\:\\ 0\\.04262695443216068\ \(0\)\
+\-\ circumference\\:\\ 0\\.03970993926591489\ \(0\)\
+\-\ t1\\:\\ 0\\.03897115879459344\ \(0\)\
+\-\ post\\-contrast\\:\\ 0\\.03871605193871477\ \(0\)\
+\-\ diffuse\\:\\ 0\\.03722312835072396\ \(0\)\
+\-\ encephalopathy\\:\\ 0\\.03619661000034703\ \(0\)\
+\-\ parents\\:\\ 0\\.03572209224644921\ \(0\)\
+\-\ head\\:\\ 0\\.03487196130322153\ \(0\)\
+\-\ 95\\:\\ 0\\.03459126071031674\ \(0\)\
+\-\ too\\:\\ 0\\.034461631174326254\ \(0\)\
+\-\ patchy\\:\\ 0\\.03295979798107366\ \(0\)\
+\-\ intense\\:\\ 0\\.03255438117135329\ \(0\)\
+\-\ spaces\\:\\ 0\\.03029027509336983\ \(0\)\
+\-\ six\\:\\ 0\\.030218689979318265\ \(0\)\
+\-\ disease\\:\\ 0\\.030145414558612322\ \(0\)\
+\-\ baby\\:\\ 0\\.029939266718050184\ \(0\)\
+\-\ supportive\\:\\ 0\\.02718392677376165\ \(0\)\
+\-\ intermittent\\:\\ 0\\.02638866149030968\ \(0\)\
+\-\ rim\\:\\ 0\\.026021736638134337\ \(0\)\
+\-\ prominent\\:\\ 0\\.02523201961557765\ \(0\)\
+\-\ \\:\\:\\ 0\\.02439442048900716\ \(0\)\
+\-\ cysts\\:\\ 0\\.024082433689434295\ \(0\)\
+\-\ 7\\:\\ 0\\.023555790495022103\ \(0\)\
+\-\ vomiting\\:\\ 0\\.02347164632406389\ \(0\)\
+\-\ greater\\:\\ 0\\.023091484587557564\ \(0\)\
+\-\ abnormality\\:\\ 0\\.02268027297719822\ \(0\)\
+\-\ involvement\\:\\ 0\\.022531932781495085\ \(0\)\
+\-\ early\\:\\ 0\\.022483158054981568\ \(0\)\
+\-\ including\\:\\ 0\\.022197256410021036\ \(0\)\
+\-\ now\\:\\ 0\\.021015220069796024\ \(0\)\
+\-\ boy\\:\\ 0\\.020897278992273175\ \(0\)\
+\-\ brain\\:\\ 0\\.01849893182232203\ \(0\)\
+\-\ month\\:\\ 0\\.018443270077702228\ \(0\)\
+\-\ his\\:\\ 0\\.01771862609817937\ \(0\)\
+\-\ weeks\\:\\ 0\\.017448041416555024\ \(0\)\
+\-\ t2\\:\\ 0\\.01739991919964282\ \(0\)\
+\-\ low\\:\\ 0\\.017094734193283452\ \(0\)\
+\-\ high\\:\\ 0\\.016824072381847594\ \(0\)\
+\-\ enhancement\\:\\ 0\\.016478336446928317\ \(0\)\
+\-\ than\\:\\ 0\\.016108265143296937\ \(0\)\
+\-\ increased\\:\\ 0\\.015039458861868027\ \(0\)\
+\-\ imaging\\:\\ 0\\.014403408809033114\ \(0\)\
+\-\ \\%\\:\\ 0\\.0143404390888202\ \(0\)\
+\-\ \\'s\\:\\ 0\\.013554292218467951\ \(0\)\
+\-\ but\\:\\ 0\\.013111534539809623\ \(0\)\
+\-\ \\,\\:\\ 0\\.009737772140909618\ \(0\)\
+\-\ there\\:\\ 0\\.00914903278032366\ \(0\)\
+\-\ is\\:\\ 0\\.008090514796902527\ \(0\)\
+\-\ the\\:\\ 0\\.007956793364237456\ \(0\)\
+\-\ old\\:\\ 0\\.0062944935026061485\ \(0\)\
+\-\ for\\:\\ 0\\.00524538236433608\ \(0\)\
+\-\ on\\:\\ 0\\.0052078490098232235\ \(0\)\
+\-\ \\(\\:\\ 0\\.005196846951394681\ \(0\)\
+\-\ \\)\\:\\ 0\\.005133364691462626\ \(0\)\
+\-\ and\\:\\ 0\\.003885086454652197\ \(0\)\
+\-\ with\\:\\ 0\\.002525269987551577\ \(0\)\
+\-\ of\\:\\ 0\\.001676313680546596\ \(0\)\
+\-\ \\.\\:\\ 0\\.0010215693840962957\ \(0\)\

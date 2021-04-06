@@ -1,92 +1,90 @@
-Texto: 
-recurrent disease - mastectomy recommended.
-1, 2) cc, mlo views left breast - upper outer left breast middle one/third demonstrates architectural distortion and pleomorphic segmental calcifications posterior to a stereotactic biopsy clip/marker. 
-3,4) magnified cc, mlo spots better demonstrate the abnormal microcalcifications.
-recurrent dcis left breast
-indeterminate cluster of calcifications:
-1. dcis
-2. atypical ductal hyperplasia
-3. degenerating fibroadenoma
-4. infarcted papilloma
-5. fat necrosis
-6. benign cluster of calcification
-55 year old postmenopausal woman g2p0 with menarche at age 11. history of left breast dcis 1996, stage 0 (tis, n0, m0). had lumpectomy and radiation. declined tamoxifen.
-her most recent mammogram 14sept2005 demonstrated  architectural distortion and calcifications in the left breast upper outer quadrant. biopsy-proven recurrent left breast dcis diagnosed.
-
-
-Keywords by value: 
-- dcis: 0.40405009884140963
-- breast: 0.35645941296124434
-- cluster: 0.21027697905388443
-- recurrent: 0.19679883472048826
-- architectural: 0.19039460782834958
-- mlo: 0.18214267819516994
-- calcifications: 0.17912612010293408
-- distortion: 0.17300808820067484
-- left: 0.1674482752435826
-- cc: 0.15848614462225916
-- outer: 0.15733092011032593
-- n0: 0.1308360815486547
-- 14sept2005: 0.1308360815486547
-- tis: 0.1250208607524771
-- m0: 0.1250208607524771
-- g2p0: 0.11769454899064741
-- menarche: 0.11769454899064741
-- biopsy: 0.11469536388063292
-- degenerating: 0.11286883080033125
-- postmenopausal: 0.11286883080033125
-- magnified: 0.10926445434353203
-- tamoxifen: 0.10775336337787997
-- infarcted: 0.10399050907452474
-- spots: 0.0993232687307646
-- indeterminate: 0.09854783128069783
-- declined: 0.09781217776511253
-- stereotactic: 0.09711242439138619
-- microcalcifications: 0.09580769812540606
-- lumpectomy: 0.09461183081987265
-- fibroadenoma: 0.0897861126295565
-- 1996: 0.08860664566793039
-- upper: 0.08743872169210747
-- mastectomy: 0.08683376205091063
-- pleomorphic: 0.08279142487175278
-- mammogram: 0.0781102126816036
-- segmental: 0.07757566264069209
-- better: 0.07723005316585133
-- papilloma: 0.07501920882647292
-- hyperplasia: 0.07458675096232707
-- ductal: 0.07199556349032243
-- 55: 0.07031948353296047
-- atypical: 0.06711913658772059
-- stage: 0.06515138449480494
-- recommended: 0.06507802321370548
-- views: 0.06457474002447142
-- necrosis: 0.0625365106438672
-- diagnosed: 0.05926280241752786
-- middle: 0.05850277829423645
-- calcification: 0.05841054582727739
-- quadrant: 0.0573050605146428
-- benign: 0.056199701487898976
-- recent: 0.05539526079400665
-- radiation: 0.05421579383238054
-- age: 0.05136273017877554
-- her: 0.05111184157962024
-- fat: 0.05089245528761926
-- and: 0.05071668682951692
-- demonstrated: 0.05027979337155536
-- abnormal: 0.04915188583939713
-- of: 0.048031063014495286
-- woman: 0.042608244661779676
-- most: 0.04257772954562099
-- demonstrate: 0.04253207826299012
-- posterior: 0.0423059763782424
-- demonstrates: 0.04110173656856925
-- had: 0.040762021510901976
-- disease: 0.034342002983520435
-- the: 0.03264913721347117
-- history: 0.031257131113255544
-- at: 0.03090163667063489
-- year: 0.02521301782426011
-- old: 0.02421322481400126
-- to: 0.02045297733560602
-- in: 0.020352307823519735
-- with: 0.016019920521067092
+\-\ Texto\\:\\ \ \(0\)\
+\-\ recurrent\\ disease\\ \\-\\ mastectomy\\ recommended\\.\ \(0\)\
+\-\ 1\\,\\ 2\\)\\ cc\\,\\ mlo\\ views\\ left\\ breast\\ \\-\\ upper\\ outer\\ left\\ breast\\ middle\\ one\\/third\\ demonstrates\\ architectural\\ distortion\\ and\\ pleomorphic\\ segmental\\ calcifications\\ posterior\\ to\\ a\\ stereotactic\\ biopsy\\ clip\\/marker\\.\\ \ \(0\)\
+\-\ 3\\,4\\)\\ magnified\\ cc\\,\\ mlo\\ spots\\ better\\ demonstrate\\ the\\ abnormal\\ microcalcifications\\.\ \(0\)\
+\-\ recurrent\\ dcis\\ left\\ breast\ \(0\)\
+\-\ indeterminate\\ cluster\\ of\\ calcifications\\:\ \(0\)\
+\-\ 1\\.\\ dcis\ \(0\)\
+\-\ 2\\.\\ atypical\\ ductal\\ hyperplasia\ \(0\)\
+\-\ 3\\.\\ degenerating\\ fibroadenoma\ \(0\)\
+\-\ 4\\.\\ infarcted\\ papilloma\ \(0\)\
+\-\ 5\\.\\ fat\\ necrosis\ \(0\)\
+\-\ 6\\.\\ benign\\ cluster\\ of\\ calcification\ \(0\)\
+\-\ 55\\ year\\ old\\ postmenopausal\\ woman\\ g2p0\\ with\\ menarche\\ at\\ age\\ 11\\.\\ history\\ of\\ left\\ breast\\ dcis\\ 1996\\,\\ stage\\ 0\\ \\(tis\\,\\ n0\\,\\ m0\\)\\.\\ had\\ lumpectomy\\ and\\ radiation\\.\\ declined\\ tamoxifen\\.\ \(0\)\
+\-\ her\\ most\\ recent\\ mammogram\\ 14sept2005\\ demonstrated\\ \\ architectural\\ distortion\\ and\\ calcifications\\ in\\ the\\ left\\ breast\\ upper\\ outer\\ quadrant\\.\\ biopsy\\-proven\\ recurrent\\ left\\ breast\\ dcis\\ diagnosed\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ dcis\\:\\ 0\\.40405009884140963\ \(0\)\
+\-\ breast\\:\\ 0\\.35645941296124434\ \(0\)\
+\-\ cluster\\:\\ 0\\.21027697905388443\ \(0\)\
+\-\ recurrent\\:\\ 0\\.19679883472048826\ \(0\)\
+\-\ architectural\\:\\ 0\\.19039460782834958\ \(0\)\
+\-\ mlo\\:\\ 0\\.18214267819516994\ \(0\)\
+\-\ calcifications\\:\\ 0\\.17912612010293408\ \(0\)\
+\-\ distortion\\:\\ 0\\.17300808820067484\ \(0\)\
+\-\ left\\:\\ 0\\.1674482752435826\ \(0\)\
+\-\ cc\\:\\ 0\\.15848614462225916\ \(0\)\
+\-\ outer\\:\\ 0\\.15733092011032593\ \(0\)\
+\-\ n0\\:\\ 0\\.1308360815486547\ \(0\)\
+\-\ 14sept2005\\:\\ 0\\.1308360815486547\ \(0\)\
+\-\ tis\\:\\ 0\\.1250208607524771\ \(0\)\
+\-\ m0\\:\\ 0\\.1250208607524771\ \(0\)\
+\-\ g2p0\\:\\ 0\\.11769454899064741\ \(0\)\
+\-\ menarche\\:\\ 0\\.11769454899064741\ \(0\)\
+\-\ biopsy\\:\\ 0\\.11469536388063292\ \(0\)\
+\-\ degenerating\\:\\ 0\\.11286883080033125\ \(0\)\
+\-\ postmenopausal\\:\\ 0\\.11286883080033125\ \(0\)\
+\-\ magnified\\:\\ 0\\.10926445434353203\ \(0\)\
+\-\ tamoxifen\\:\\ 0\\.10775336337787997\ \(0\)\
+\-\ infarcted\\:\\ 0\\.10399050907452474\ \(0\)\
+\-\ spots\\:\\ 0\\.0993232687307646\ \(0\)\
+\-\ indeterminate\\:\\ 0\\.09854783128069783\ \(0\)\
+\-\ declined\\:\\ 0\\.09781217776511253\ \(0\)\
+\-\ stereotactic\\:\\ 0\\.09711242439138619\ \(0\)\
+\-\ microcalcifications\\:\\ 0\\.09580769812540606\ \(0\)\
+\-\ lumpectomy\\:\\ 0\\.09461183081987265\ \(0\)\
+\-\ fibroadenoma\\:\\ 0\\.0897861126295565\ \(0\)\
+\-\ 1996\\:\\ 0\\.08860664566793039\ \(0\)\
+\-\ upper\\:\\ 0\\.08743872169210747\ \(0\)\
+\-\ mastectomy\\:\\ 0\\.08683376205091063\ \(0\)\
+\-\ pleomorphic\\:\\ 0\\.08279142487175278\ \(0\)\
+\-\ mammogram\\:\\ 0\\.0781102126816036\ \(0\)\
+\-\ segmental\\:\\ 0\\.07757566264069209\ \(0\)\
+\-\ better\\:\\ 0\\.07723005316585133\ \(0\)\
+\-\ papilloma\\:\\ 0\\.07501920882647292\ \(0\)\
+\-\ hyperplasia\\:\\ 0\\.07458675096232707\ \(0\)\
+\-\ ductal\\:\\ 0\\.07199556349032243\ \(0\)\
+\-\ 55\\:\\ 0\\.07031948353296047\ \(0\)\
+\-\ atypical\\:\\ 0\\.06711913658772059\ \(0\)\
+\-\ stage\\:\\ 0\\.06515138449480494\ \(0\)\
+\-\ recommended\\:\\ 0\\.06507802321370548\ \(0\)\
+\-\ views\\:\\ 0\\.06457474002447142\ \(0\)\
+\-\ necrosis\\:\\ 0\\.0625365106438672\ \(0\)\
+\-\ diagnosed\\:\\ 0\\.05926280241752786\ \(0\)\
+\-\ middle\\:\\ 0\\.05850277829423645\ \(0\)\
+\-\ calcification\\:\\ 0\\.05841054582727739\ \(0\)\
+\-\ quadrant\\:\\ 0\\.0573050605146428\ \(0\)\
+\-\ benign\\:\\ 0\\.056199701487898976\ \(0\)\
+\-\ recent\\:\\ 0\\.05539526079400665\ \(0\)\
+\-\ radiation\\:\\ 0\\.05421579383238054\ \(0\)\
+\-\ age\\:\\ 0\\.05136273017877554\ \(0\)\
+\-\ her\\:\\ 0\\.05111184157962024\ \(0\)\
+\-\ fat\\:\\ 0\\.05089245528761926\ \(0\)\
+\-\ and\\:\\ 0\\.05071668682951692\ \(0\)\
+\-\ demonstrated\\:\\ 0\\.05027979337155536\ \(0\)\
+\-\ abnormal\\:\\ 0\\.04915188583939713\ \(0\)\
+\-\ of\\:\\ 0\\.048031063014495286\ \(0\)\
+\-\ woman\\:\\ 0\\.042608244661779676\ \(0\)\
+\-\ most\\:\\ 0\\.04257772954562099\ \(0\)\
+\-\ demonstrate\\:\\ 0\\.04253207826299012\ \(0\)\
+\-\ posterior\\:\\ 0\\.0423059763782424\ \(0\)\
+\-\ demonstrates\\:\\ 0\\.04110173656856925\ \(0\)\
+\-\ had\\:\\ 0\\.040762021510901976\ \(0\)\
+\-\ disease\\:\\ 0\\.034342002983520435\ \(0\)\
+\-\ the\\:\\ 0\\.03264913721347117\ \(0\)\
+\-\ history\\:\\ 0\\.031257131113255544\ \(0\)\
+\-\ at\\:\\ 0\\.03090163667063489\ \(0\)\
+\-\ year\\:\\ 0\\.02521301782426011\ \(0\)\
+\-\ old\\:\\ 0\\.02421322481400126\ \(0\)\
+\-\ to\\:\\ 0\\.02045297733560602\ \(0\)\
+\-\ in\\:\\ 0\\.020352307823519735\ \(0\)\
+\-\ with\\:\\ 0\\.016019920521067092\ \(0\)\

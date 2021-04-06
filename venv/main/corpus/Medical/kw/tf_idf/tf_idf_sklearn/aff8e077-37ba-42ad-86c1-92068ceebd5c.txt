@@ -1,55 +1,53 @@
-Texto: 
-pa cxr demonstrates loss of the r cardiac border and shifting of the cardiac silhouette to the left.  there is mild scoliosis and the anterior ribs appear more vertically oriented.  lateral view shows a marked depression of the inferior two-thirds of the sternum.  almost the entire anterior cardiac border is in contact with the anterior chest.
-pectus excavatum
-trauma
-cardiomegaly
-16 y/o male with shortness of breath during exercise.
-
-
-Keywords by value: 
-- cardiac: 0.3393311101349959
-- border: 0.2694278992850413
-- anterior: 0.25514165259915333
-- the: 0.24314867641145146
-- shifting: 0.2006185302302829
-- excavatum: 0.19361273221020187
-- pectus: 0.1916338594942833
-- sternum: 0.18347938708495168
-- vertically: 0.17837772279330366
-- scoliosis: 0.16873774157664817
-- contact: 0.1671665494808118
-- cardiomegaly: 0.15929464650122557
-- depression: 0.15873246653828935
-- silhouette: 0.15558735773440777
-- ribs: 0.14943178546406638
-- of: 0.14904285374947662
-- exercise: 0.14347328096588752
-- entire: 0.13860482830447926
-- oriented: 0.13732694993527486
-- almost: 0.1368324439153913
-- shortness: 0.12213537698493669
-- cxr: 0.12185429479025414
-- appear: 0.11996544765403319
-- 16: 0.11869365672630726
-- pa: 0.11689280174924688
-- marked: 0.11520576321604807
-- breath: 0.11164013293493387
-- view: 0.11154493653489296
-- inferior: 0.10362657146964405
-- during: 0.09647986250552125
-- loss: 0.09279961431005693
-- shows: 0.08939932549795465
-- trauma: 0.08846229735749964
-- mild: 0.08634651738027105
-- more: 0.08364059172153758
-- is: 0.08342835212293996
-- chest: 0.08040281064469294
-- demonstrates: 0.07652447888221887
-- lateral: 0.07559363117505834
-- male: 0.0678192261861995
-- and: 0.06295059291532631
-- there: 0.0606081045252934
-- with: 0.059652762727630794
-- left: 0.05196005924374322
-- to: 0.03807998305828194
-- in: 0.03789255346053543
+\-\ Texto\\:\\ \ \(0\)\
+\-\ pa\\ cxr\\ demonstrates\\ loss\\ of\\ the\\ r\\ cardiac\\ border\\ and\\ shifting\\ of\\ the\\ cardiac\\ silhouette\\ to\\ the\\ left\\.\\ \\ there\\ is\\ mild\\ scoliosis\\ and\\ the\\ anterior\\ ribs\\ appear\\ more\\ vertically\\ oriented\\.\\ \\ lateral\\ view\\ shows\\ a\\ marked\\ depression\\ of\\ the\\ inferior\\ two\\-thirds\\ of\\ the\\ sternum\\.\\ \\ almost\\ the\\ entire\\ anterior\\ cardiac\\ border\\ is\\ in\\ contact\\ with\\ the\\ anterior\\ chest\\.\ \(0\)\
+\-\ pectus\\ excavatum\ \(16\)\
+\-\ trauma\ \(1087\)\
+\-\ cardiomegaly\ \(43\)\
+\-\ 16\\ y\\/o\\ male\\ with\\ shortness\\ of\\ breath\\ during\\ exercise\\.\ \(1\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ cardiac\\:\\ 0\\.3393311101349959\ \(0\)\
+\-\ border\\:\\ 0\\.2694278992850413\ \(0\)\
+\-\ anterior\\:\\ 0\\.25514165259915333\ \(0\)\
+\-\ the\\:\\ 0\\.24314867641145146\ \(0\)\
+\-\ shifting\\:\\ 0\\.2006185302302829\ \(0\)\
+\-\ excavatum\\:\\ 0\\.19361273221020187\ \(0\)\
+\-\ pectus\\:\\ 0\\.1916338594942833\ \(0\)\
+\-\ sternum\\:\\ 0\\.18347938708495168\ \(0\)\
+\-\ vertically\\:\\ 0\\.17837772279330366\ \(0\)\
+\-\ scoliosis\\:\\ 0\\.16873774157664817\ \(0\)\
+\-\ contact\\:\\ 0\\.1671665494808118\ \(0\)\
+\-\ cardiomegaly\\:\\ 0\\.15929464650122557\ \(0\)\
+\-\ depression\\:\\ 0\\.15873246653828935\ \(0\)\
+\-\ silhouette\\:\\ 0\\.15558735773440777\ \(0\)\
+\-\ ribs\\:\\ 0\\.14943178546406638\ \(0\)\
+\-\ of\\:\\ 0\\.14904285374947662\ \(0\)\
+\-\ exercise\\:\\ 0\\.14347328096588752\ \(0\)\
+\-\ entire\\:\\ 0\\.13860482830447926\ \(0\)\
+\-\ oriented\\:\\ 0\\.13732694993527486\ \(0\)\
+\-\ almost\\:\\ 0\\.1368324439153913\ \(0\)\
+\-\ shortness\\:\\ 0\\.12213537698493669\ \(0\)\
+\-\ cxr\\:\\ 0\\.12185429479025414\ \(0\)\
+\-\ appear\\:\\ 0\\.11996544765403319\ \(0\)\
+\-\ 16\\:\\ 0\\.11869365672630726\ \(0\)\
+\-\ pa\\:\\ 0\\.11689280174924688\ \(0\)\
+\-\ marked\\:\\ 0\\.11520576321604807\ \(0\)\
+\-\ breath\\:\\ 0\\.11164013293493387\ \(0\)\
+\-\ view\\:\\ 0\\.11154493653489296\ \(0\)\
+\-\ inferior\\:\\ 0\\.10362657146964405\ \(0\)\
+\-\ during\\:\\ 0\\.09647986250552125\ \(0\)\
+\-\ loss\\:\\ 0\\.09279961431005693\ \(0\)\
+\-\ shows\\:\\ 0\\.08939932549795465\ \(0\)\
+\-\ trauma\\:\\ 0\\.08846229735749964\ \(0\)\
+\-\ mild\\:\\ 0\\.08634651738027105\ \(0\)\
+\-\ more\\:\\ 0\\.08364059172153758\ \(0\)\
+\-\ is\\:\\ 0\\.08342835212293996\ \(0\)\
+\-\ chest\\:\\ 0\\.08040281064469294\ \(0\)\
+\-\ demonstrates\\:\\ 0\\.07652447888221887\ \(0\)\
+\-\ lateral\\:\\ 0\\.07559363117505834\ \(0\)\
+\-\ male\\:\\ 0\\.0678192261861995\ \(0\)\
+\-\ and\\:\\ 0\\.06295059291532631\ \(0\)\
+\-\ there\\:\\ 0\\.0606081045252934\ \(0\)\
+\-\ with\\:\\ 0\\.059652762727630794\ \(0\)\
+\-\ left\\:\\ 0\\.05196005924374322\ \(0\)\
+\-\ to\\:\\ 0\\.03807998305828194\ \(0\)\
+\-\ in\\:\\ 0\\.03789255346053543\ \(0\)\

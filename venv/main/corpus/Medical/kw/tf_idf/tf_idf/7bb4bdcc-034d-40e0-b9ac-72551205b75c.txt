@@ -1,103 +1,101 @@
-Texto: 
-currently hemodynamically stable with no direct chest trauma evident.
-a normal variant of a prominent azygos vein and lobe warranted no further work-up and the treatement of the patient's multiple orthopedic injuries became the next therapeutic priority.
-the mediastinum appears widened without evidence of rib
-fractures nor an apical cap.  on a subsequent non-contrast ct of the chest there is an incidental azygous fissure and associated vein which cause the
-apparent mediastinal widening on plain radiography.  no aortic transection or pseudoanyeursm is evident.
-azygos lobe
-a diffential diagnosis for mediastinal widening would include rupture of the aorta and/or brachicephalic arteries/veins, aortic anyeursm/pseudoanyeursm, prominence of the svc, rupture of the esophagus or thoracic duct, adenopathy, bronchogenic duplication cyst, tumor/inflamation, or prominence of the azygous vein.
-20yo man s/p mva
-
-
-Keywords by value: 
-- azygos: 0.09038905846715672
-- azygous: 0.080626422121242
-- prominence: 0.07118758180666107
-- vein: 0.06532253497212924
-- pseudoanyeursm: 0.06208111566173591
-- brachicephalic: 0.06208111566173591
-- arteries/veins: 0.06208111566173591
-- anyeursm/pseudoanyeursm: 0.06208111566173591
-- tumor/inflamation: 0.06208111566173591
-- widening: 0.060628998837318995
-- 20yo: 0.05719979748877854
-- evident: 0.05507385416236717
-- diffential: 0.05434440940350978
-- priority: 0.05231847931582118
-- mediastinal: 0.05110045941022173
-- rupture: 0.05110045941022173
-- treatement: 0.04946309123055242
-- aortic: 0.04871735421541529
-- transection: 0.04349620488979746
-- hemodynamically: 0.03887099688705753
-- svc: 0.0386148867168401
-- cap: 0.0383677647463382
-- warranted: 0.03812902142467847
-- widened: 0.03575949863157134
-- apical: 0.03467393046377374
-- radiography: 0.034255455671725846
-- work-up: 0.03398967871410017
-- therapeutic: 0.033860459427704416
-- duplication: 0.033860459427704416
-- became: 0.03247060425757417
-- lobe: 0.032384864055261045
-- fissure: 0.03226346422091013
-- nor: 0.032162135083923515
-- bronchogenic: 0.03177079810396006
-- next: 0.030550574714706277
-- rib: 0.030086081983778133
-- mva: 0.029937818538722974
-- non-contrast: 0.029374137498768493
-- mediastinum: 0.028979141254747057
-- chest: 0.028799000000810124
-- orthopedic: 0.028727605461774667
-- variant: 0.02866610067326231
-- direct: 0.028425316414471612
-- injuries: 0.028078906244114066
-- duct: 0.027589286084616808
-- adenopathy: 0.026794951618804526
-- apparent: 0.026609618461639926
-- esophagus: 0.026123753169478292
-- aorta: 0.02583115455741581
-- and/or: 0.02543318124570213
-- s/p: 0.02524232258529515
-- stable: 0.024804321121422578
-- prominent: 0.024698948778628826
-- currently: 0.023846287288817304
-- subsequent: 0.023426624632463464
-- thoracic: 0.023197588071156704
-- fractures: 0.022787243647748423
-- incidental: 0.022787243647748423
-- appears: 0.022399498738008793
-- would: 0.021415259707197817
-- or: 0.021158931316134666
-- cause: 0.02036100441233779
-- plain: 0.019544110652740032
-- further: 0.019136930576058156
-- no: 0.018178397550080324
-- include: 0.016881362591762584
-- an: 0.01664316710260183
-- trauma: 0.016457808322238938
-- cyst: 0.01617162771849368
-- evidence: 0.015777764671597732
-- man: 0.01423191438795774
-- associated: 0.014200440576814802
-- without: 0.014169106805339157
-- diagnosis: 0.013818445991411408
-- ,: 0.01334486238465501
-- 's: 0.01326793393216229
-- multiple: 0.012674690165346964
-- which: 0.011233412586215132
-- a: 0.011171825403340881
-- on: 0.010195648061484902
-- the: 0.009735865119973649
-- normal: 0.009433890525345783
-- there: 0.008955743355387244
-- ct: 0.008417631361915796
-- is: 0.007919588427953882
-- of: 0.006563594411154278
-- patient: 0.006032337541664704
-- for: 0.005134564427061374
-- and: 0.0038030071633567276
-- .: 0.00149998039847942
-- with: 0.0008239730710555616
+\-\ Texto\\:\\ \ \(0\)\
+\-\ currently\\ hemodynamically\\ stable\\ with\\ no\\ direct\\ chest\\ trauma\\ evident\\.\ \(0\)\
+\-\ a\\ normal\\ variant\\ of\\ a\\ prominent\\ azygos\\ vein\\ and\\ lobe\\ warranted\\ no\\ further\\ work\\-up\\ and\\ the\\ treatement\\ of\\ the\\ patient\\'s\\ multiple\\ orthopedic\\ injuries\\ became\\ the\\ next\\ therapeutic\\ priority\\.\ \(0\)\
+\-\ the\\ mediastinum\\ appears\\ widened\\ without\\ evidence\\ of\\ rib\ \(0\)\
+\-\ fractures\\ nor\\ an\\ apical\\ cap\\.\\ \\ on\\ a\\ subsequent\\ non\\-contrast\\ ct\\ of\\ the\\ chest\\ there\\ is\\ an\\ incidental\\ azygous\\ fissure\\ and\\ associated\\ vein\\ which\\ cause\\ the\ \(0\)\
+\-\ apparent\\ mediastinal\\ widening\\ on\\ plain\\ radiography\\.\\ \\ no\\ aortic\\ transection\\ or\\ pseudoanyeursm\\ is\\ evident\\.\ \(0\)\
+\-\ azygos\\ lobe\ \(1\)\
+\-\ a\\ diffential\\ diagnosis\\ for\\ mediastinal\\ widening\\ would\\ include\\ rupture\\ of\\ the\\ aorta\\ and\\/or\\ brachicephalic\\ arteries\\/veins\\,\\ aortic\\ anyeursm\\/pseudoanyeursm\\,\\ prominence\\ of\\ the\\ svc\\,\\ rupture\\ of\\ the\\ esophagus\\ or\\ thoracic\\ duct\\,\\ adenopathy\\,\\ bronchogenic\\ duplication\\ cyst\\,\\ tumor\\/inflamation\\,\\ or\\ prominence\\ of\\ the\\ azygous\\ vein\\.\ \(0\)\
+\-\ 20yo\\ man\\ s\\/p\\ mva\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ azygos\\:\\ 0\\.09038905846715672\ \(0\)\
+\-\ azygous\\:\\ 0\\.080626422121242\ \(0\)\
+\-\ prominence\\:\\ 0\\.07118758180666107\ \(0\)\
+\-\ vein\\:\\ 0\\.06532253497212924\ \(0\)\
+\-\ pseudoanyeursm\\:\\ 0\\.06208111566173591\ \(0\)\
+\-\ brachicephalic\\:\\ 0\\.06208111566173591\ \(0\)\
+\-\ arteries\\/veins\\:\\ 0\\.06208111566173591\ \(0\)\
+\-\ anyeursm\\/pseudoanyeursm\\:\\ 0\\.06208111566173591\ \(0\)\
+\-\ tumor\\/inflamation\\:\\ 0\\.06208111566173591\ \(0\)\
+\-\ widening\\:\\ 0\\.060628998837318995\ \(0\)\
+\-\ 20yo\\:\\ 0\\.05719979748877854\ \(0\)\
+\-\ evident\\:\\ 0\\.05507385416236717\ \(0\)\
+\-\ diffential\\:\\ 0\\.05434440940350978\ \(0\)\
+\-\ priority\\:\\ 0\\.05231847931582118\ \(0\)\
+\-\ mediastinal\\:\\ 0\\.05110045941022173\ \(0\)\
+\-\ rupture\\:\\ 0\\.05110045941022173\ \(0\)\
+\-\ treatement\\:\\ 0\\.04946309123055242\ \(0\)\
+\-\ aortic\\:\\ 0\\.04871735421541529\ \(0\)\
+\-\ transection\\:\\ 0\\.04349620488979746\ \(0\)\
+\-\ hemodynamically\\:\\ 0\\.03887099688705753\ \(0\)\
+\-\ svc\\:\\ 0\\.0386148867168401\ \(0\)\
+\-\ cap\\:\\ 0\\.0383677647463382\ \(0\)\
+\-\ warranted\\:\\ 0\\.03812902142467847\ \(0\)\
+\-\ widened\\:\\ 0\\.03575949863157134\ \(0\)\
+\-\ apical\\:\\ 0\\.03467393046377374\ \(0\)\
+\-\ radiography\\:\\ 0\\.034255455671725846\ \(0\)\
+\-\ work\\-up\\:\\ 0\\.03398967871410017\ \(0\)\
+\-\ therapeutic\\:\\ 0\\.033860459427704416\ \(0\)\
+\-\ duplication\\:\\ 0\\.033860459427704416\ \(0\)\
+\-\ became\\:\\ 0\\.03247060425757417\ \(0\)\
+\-\ lobe\\:\\ 0\\.032384864055261045\ \(0\)\
+\-\ fissure\\:\\ 0\\.03226346422091013\ \(0\)\
+\-\ nor\\:\\ 0\\.032162135083923515\ \(0\)\
+\-\ bronchogenic\\:\\ 0\\.03177079810396006\ \(0\)\
+\-\ next\\:\\ 0\\.030550574714706277\ \(0\)\
+\-\ rib\\:\\ 0\\.030086081983778133\ \(0\)\
+\-\ mva\\:\\ 0\\.029937818538722974\ \(0\)\
+\-\ non\\-contrast\\:\\ 0\\.029374137498768493\ \(0\)\
+\-\ mediastinum\\:\\ 0\\.028979141254747057\ \(0\)\
+\-\ chest\\:\\ 0\\.028799000000810124\ \(0\)\
+\-\ orthopedic\\:\\ 0\\.028727605461774667\ \(0\)\
+\-\ variant\\:\\ 0\\.02866610067326231\ \(0\)\
+\-\ direct\\:\\ 0\\.028425316414471612\ \(0\)\
+\-\ injuries\\:\\ 0\\.028078906244114066\ \(0\)\
+\-\ duct\\:\\ 0\\.027589286084616808\ \(0\)\
+\-\ adenopathy\\:\\ 0\\.026794951618804526\ \(0\)\
+\-\ apparent\\:\\ 0\\.026609618461639926\ \(0\)\
+\-\ esophagus\\:\\ 0\\.026123753169478292\ \(0\)\
+\-\ aorta\\:\\ 0\\.02583115455741581\ \(0\)\
+\-\ and\\/or\\:\\ 0\\.02543318124570213\ \(0\)\
+\-\ s\\/p\\:\\ 0\\.02524232258529515\ \(0\)\
+\-\ stable\\:\\ 0\\.024804321121422578\ \(0\)\
+\-\ prominent\\:\\ 0\\.024698948778628826\ \(0\)\
+\-\ currently\\:\\ 0\\.023846287288817304\ \(0\)\
+\-\ subsequent\\:\\ 0\\.023426624632463464\ \(0\)\
+\-\ thoracic\\:\\ 0\\.023197588071156704\ \(0\)\
+\-\ fractures\\:\\ 0\\.022787243647748423\ \(0\)\
+\-\ incidental\\:\\ 0\\.022787243647748423\ \(0\)\
+\-\ appears\\:\\ 0\\.022399498738008793\ \(0\)\
+\-\ would\\:\\ 0\\.021415259707197817\ \(0\)\
+\-\ or\\:\\ 0\\.021158931316134666\ \(0\)\
+\-\ cause\\:\\ 0\\.02036100441233779\ \(0\)\
+\-\ plain\\:\\ 0\\.019544110652740032\ \(0\)\
+\-\ further\\:\\ 0\\.019136930576058156\ \(0\)\
+\-\ no\\:\\ 0\\.018178397550080324\ \(0\)\
+\-\ include\\:\\ 0\\.016881362591762584\ \(0\)\
+\-\ an\\:\\ 0\\.01664316710260183\ \(0\)\
+\-\ trauma\\:\\ 0\\.016457808322238938\ \(0\)\
+\-\ cyst\\:\\ 0\\.01617162771849368\ \(0\)\
+\-\ evidence\\:\\ 0\\.015777764671597732\ \(0\)\
+\-\ man\\:\\ 0\\.01423191438795774\ \(0\)\
+\-\ associated\\:\\ 0\\.014200440576814802\ \(0\)\
+\-\ without\\:\\ 0\\.014169106805339157\ \(0\)\
+\-\ diagnosis\\:\\ 0\\.013818445991411408\ \(0\)\
+\-\ \\,\\:\\ 0\\.01334486238465501\ \(0\)\
+\-\ \\'s\\:\\ 0\\.01326793393216229\ \(0\)\
+\-\ multiple\\:\\ 0\\.012674690165346964\ \(0\)\
+\-\ which\\:\\ 0\\.011233412586215132\ \(0\)\
+\-\ a\\:\\ 0\\.011171825403340881\ \(0\)\
+\-\ on\\:\\ 0\\.010195648061484902\ \(0\)\
+\-\ the\\:\\ 0\\.009735865119973649\ \(0\)\
+\-\ normal\\:\\ 0\\.009433890525345783\ \(0\)\
+\-\ there\\:\\ 0\\.008955743355387244\ \(0\)\
+\-\ ct\\:\\ 0\\.008417631361915796\ \(0\)\
+\-\ is\\:\\ 0\\.007919588427953882\ \(0\)\
+\-\ of\\:\\ 0\\.006563594411154278\ \(0\)\
+\-\ patient\\:\\ 0\\.006032337541664704\ \(0\)\
+\-\ for\\:\\ 0\\.005134564427061374\ \(0\)\
+\-\ and\\:\\ 0\\.0038030071633567276\ \(0\)\
+\-\ \\.\\:\\ 0\\.00149998039847942\ \(0\)\
+\-\ with\\:\\ 0\\.0008239730710555616\ \(0\)\

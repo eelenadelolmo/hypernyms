@@ -1,124 +1,120 @@
-Texto: 
-mri of the brain ‚Äì sagittal t1w, axial t2, flair, coronal t2 with pre- and post-contrast t1w axial.
-
-vague low signal abnormality at the left insular region and left centrum semiovale.  there is a distinctly low signal rim surrounding a small central ‚Äúpopcorn-like‚Äù focus of higher signal on t2w images at the insular lesion.  radially arranged small enhancing medullary veins drain into an enlarged transcortical vein.   the lesion in the white matter fibers is completely high t2w signal without similar venous structures surrounding it.  no mass effect, adjacent edema or gliotic changes are present.
-venous angioma
-new patient to the neurosurgery clinic, follow-up of a known brain abnormality.  no prior imaging is available
-the findings above describe a venous angioma and the possibility of a small co-existent cavernous angioma.
-
-the low signal rim surrounding the lesion at the insula represents small hemorrhage from the venous angioma or the presence of a small cavernous angioma.  these lesions are often larger, with surrounding gliotic changes.  it does demonstrate the characteristic popcorn like central focus of increased signal and it is the most common lesions seen in association with venous angioma.
-
-
-Keywords by value: 
-- angioma: 0.14518422997670083
-- gliotic: 0.07847701684450775
-- venous: 0.07492235793374707
-- signal: 0.06530650232674722
-- insular: 0.06292689208669036
-- surrounding: 0.05428338675100996
-- small: 0.047550127642056
-- t1w: 0.047376767328872964
-- t2w: 0.04628180418581013
-- cavernous: 0.03829457159465585
-- distinctly: 0.037279739784050185
-- focus: 0.03708970706807656
-- popcorn-like: 0.03588997131809955
-- transcortical: 0.03588997131809955
-- co-existent: 0.03588997131809955
-- rim: 0.03494706659614177
-- low: 0.03443721815748405
-- semiovale: 0.033931202679895855
-- radially: 0.033931202679895855
-- centrum: 0.032541434213945224
-- insula: 0.032541434213945224
-- pre-: 0.030582665575741533
-- abnormality: 0.03045949704184108
-- arranged: 0.0291928971097909
-- popcorn: 0.02890002454062938
-- it: 0.027838382384536474
-- central: 0.02716552035613487
-- describe: 0.02666512829933415
-- post-contrast: 0.025997735359813295
-- lesion: 0.025225438057977605
-- brain: 0.024843976070558084
-- changes: 0.02366229928729527
-- axial: 0.02356320266732243
-- t2: 0.023368007427539632
-- fibers: 0.02322794801320786
-- neurosurgery: 0.02322794801320786
-- drain: 0.022727751496585444
-- vague: 0.02220295033232073
-- lesions: 0.0221020338777193
-- possibility: 0.020848834558629147
-- higher: 0.020244181694117038
-- association: 0.0200583542505045
-- larger: 0.019879410909053534
-- medullary: 0.01983569189688002
-- completely: 0.01983569189688002
-- represents: 0.01983569189688002
-- veins: 0.0197494232137882
-- like: 0.01910969091596534
-- flair: 0.018925983690896552
-- ‚Äì: 0.018578285625074867
-- clinic: 0.018445923430929385
-- characteristic: 0.017473533298070883
-- coronal: 0.017188517159124235
-- at: 0.01677917612799468
-- sagittal: 0.0164654427657313
-- matter: 0.016253526427056995
-- similar: 0.016191722796815886
-- structures: 0.015894036158621807
-- ‚Äú: 0.015417878829851012
-- ‚Äù: 0.015331455811731325
-- above: 0.015130138437815537
-- presence: 0.014984471586749416
-- vein: 0.01493687595175902
-- effect: 0.01461622344477896
-- new: 0.014385449163287722
-- enlarged: 0.014085125943884088
-- does: 0.014085125943884088
-- available: 0.01387786980115844
-- hemorrhage: 0.013740369971864905
-- white: 0.013691324699091872
-- follow-up: 0.013430130393438367
-- often: 0.013171369799611846
-- known: 0.01306304871721652
-- adjacent: 0.01305234900547955
-- enhancing: 0.012946635424564054
-- edema: 0.0116759588861415
-- region: 0.011659909310334842
-- a: 0.011495646429524674
-- high: 0.011297323966554664
-- are: 0.011254820024440596
-- is: 0.010865522287627548
-- common: 0.01080322324616617
-- these: 0.010743211072260096
-- prior: 0.010599578609673253
-- increased: 0.010098960298549061
-- the: 0.010018064108958391
-- into: 0.009822832695457522
-- without: 0.00971987036888
-- or: 0.009676548299166256
-- imaging: 0.009671854224423201
-- most: 0.009530604549410996
-- demonstrate: 0.009499768798710341
-- mri: 0.00948442441987739
-- present: 0.00932371378710957
-- left: 0.009237732070269707
-- findings: 0.008786651863719611
-- no: 0.008313470055109198
-- seen: 0.00815762132882942
-- images: 0.007919149236470309
-- ,: 0.007846668565718475
-- there: 0.006143553412874341
-- from: 0.006118046923450301
-- mass: 0.005741357521485819
-- an: 0.005708525914418984
-- patient: 0.004138125270127478
-- in: 0.004071470822611159
-- on: 0.00349705803075086
-- and: 0.003478434893376202
-- of: 0.0033769217622605344
-- to: 0.002063130958661769
-- .: 0.0018864487781198504
-- with: 0.0016957126969549237
+\-\ Texto\\:\\ \ \(0\)\
+\-\ mri\\ of\\ the\\ brain\\ \\‚\\Ä\\ì\\ sagittal\\ t1w\\,\\ axial\\ t2\\,\\ flair\\,\\ coronal\\ t2\\ with\\ pre\\-\\ and\\ post\\-contrast\\ t1w\\ axial\\.\ \(0\)\
+\-\ vague\\ low\\ signal\\ abnormality\\ at\\ the\\ left\\ insular\\ region\\ and\\ left\\ centrum\\ semiovale\\.\\ \\ there\\ is\\ a\\ distinctly\\ low\\ signal\\ rim\\ surrounding\\ a\\ small\\ central\\ \\‚\\Ä\\úpopcorn\\-like\\‚\\Ä\\ù\\ focus\\ of\\ higher\\ signal\\ on\\ t2w\\ images\\ at\\ the\\ insular\\ lesion\\.\\ \\ radially\\ arranged\\ small\\ enhancing\\ medullary\\ veins\\ drain\\ into\\ an\\ enlarged\\ transcortical\\ vein\\.\\ \\ \\ the\\ lesion\\ in\\ the\\ white\\ matter\\ fibers\\ is\\ completely\\ high\\ t2w\\ signal\\ without\\ similar\\ venous\\ structures\\ surrounding\\ it\\.\\ \\ no\\ mass\\ effect\\,\\ adjacent\\ edema\\ or\\ gliotic\\ changes\\ are\\ present\\.\ \(0\)\
+\-\ venous\\ angioma\ \(15\)\
+\-\ new\\ patient\\ to\\ the\\ neurosurgery\\ clinic\\,\\ follow\\-up\\ of\\ a\\ known\\ brain\\ abnormality\\.\\ \\ no\\ prior\\ imaging\\ is\\ available\ \(0\)\
+\-\ the\\ findings\\ above\\ describe\\ a\\ venous\\ angioma\\ and\\ the\\ possibility\\ of\\ a\\ small\\ co\\-existent\\ cavernous\\ angioma\\.\ \(0\)\
+\-\ the\\ low\\ signal\\ rim\\ surrounding\\ the\\ lesion\\ at\\ the\\ insula\\ represents\\ small\\ hemorrhage\\ from\\ the\\ venous\\ angioma\\ or\\ the\\ presence\\ of\\ a\\ small\\ cavernous\\ angioma\\.\\ \\ these\\ lesions\\ are\\ often\\ larger\\,\\ with\\ surrounding\\ gliotic\\ changes\\.\\ \\ it\\ does\\ demonstrate\\ the\\ characteristic\\ popcorn\\ like\\ central\\ focus\\ of\\ increased\\ signal\\ and\\ it\\ is\\ the\\ most\\ common\\ lesions\\ seen\\ in\\ association\\ with\\ venous\\ angioma\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ angioma\\:\\ 0\\.14518422997670083\ \(0\)\
+\-\ gliotic\\:\\ 0\\.07847701684450775\ \(0\)\
+\-\ venous\\:\\ 0\\.07492235793374707\ \(0\)\
+\-\ signal\\:\\ 0\\.06530650232674722\ \(0\)\
+\-\ insular\\:\\ 0\\.06292689208669036\ \(0\)\
+\-\ surrounding\\:\\ 0\\.05428338675100996\ \(0\)\
+\-\ small\\:\\ 0\\.047550127642056\ \(0\)\
+\-\ t1w\\:\\ 0\\.047376767328872964\ \(0\)\
+\-\ t2w\\:\\ 0\\.04628180418581013\ \(0\)\
+\-\ cavernous\\:\\ 0\\.03829457159465585\ \(0\)\
+\-\ distinctly\\:\\ 0\\.037279739784050185\ \(0\)\
+\-\ focus\\:\\ 0\\.03708970706807656\ \(0\)\
+\-\ popcorn\\-like\\:\\ 0\\.03588997131809955\ \(0\)\
+\-\ transcortical\\:\\ 0\\.03588997131809955\ \(0\)\
+\-\ co\\-existent\\:\\ 0\\.03588997131809955\ \(0\)\
+\-\ rim\\:\\ 0\\.03494706659614177\ \(0\)\
+\-\ low\\:\\ 0\\.03443721815748405\ \(0\)\
+\-\ semiovale\\:\\ 0\\.033931202679895855\ \(0\)\
+\-\ radially\\:\\ 0\\.033931202679895855\ \(0\)\
+\-\ centrum\\:\\ 0\\.032541434213945224\ \(0\)\
+\-\ insula\\:\\ 0\\.032541434213945224\ \(0\)\
+\-\ pre\\-\\:\\ 0\\.030582665575741533\ \(0\)\
+\-\ abnormality\\:\\ 0\\.03045949704184108\ \(0\)\
+\-\ arranged\\:\\ 0\\.0291928971097909\ \(0\)\
+\-\ popcorn\\:\\ 0\\.02890002454062938\ \(0\)\
+\-\ it\\:\\ 0\\.027838382384536474\ \(0\)\
+\-\ central\\:\\ 0\\.02716552035613487\ \(0\)\
+\-\ describe\\:\\ 0\\.02666512829933415\ \(0\)\
+\-\ post\\-contrast\\:\\ 0\\.025997735359813295\ \(0\)\
+\-\ lesion\\:\\ 0\\.025225438057977605\ \(0\)\
+\-\ brain\\:\\ 0\\.024843976070558084\ \(0\)\
+\-\ changes\\:\\ 0\\.02366229928729527\ \(0\)\
+\-\ axial\\:\\ 0\\.02356320266732243\ \(0\)\
+\-\ t2\\:\\ 0\\.023368007427539632\ \(0\)\
+\-\ fibers\\:\\ 0\\.02322794801320786\ \(0\)\
+\-\ neurosurgery\\:\\ 0\\.02322794801320786\ \(0\)\
+\-\ drain\\:\\ 0\\.022727751496585444\ \(0\)\
+\-\ vague\\:\\ 0\\.02220295033232073\ \(0\)\
+\-\ lesions\\:\\ 0\\.0221020338777193\ \(0\)\
+\-\ possibility\\:\\ 0\\.020848834558629147\ \(0\)\
+\-\ higher\\:\\ 0\\.020244181694117038\ \(0\)\
+\-\ association\\:\\ 0\\.0200583542505045\ \(0\)\
+\-\ larger\\:\\ 0\\.019879410909053534\ \(0\)\
+\-\ medullary\\:\\ 0\\.01983569189688002\ \(0\)\
+\-\ completely\\:\\ 0\\.01983569189688002\ \(0\)\
+\-\ represents\\:\\ 0\\.01983569189688002\ \(0\)\
+\-\ veins\\:\\ 0\\.0197494232137882\ \(0\)\
+\-\ like\\:\\ 0\\.01910969091596534\ \(0\)\
+\-\ flair\\:\\ 0\\.018925983690896552\ \(0\)\
+\-\ \\‚\\Ä\\ì\\:\\ 0\\.018578285625074867\ \(0\)\
+\-\ clinic\\:\\ 0\\.018445923430929385\ \(0\)\
+\-\ characteristic\\:\\ 0\\.017473533298070883\ \(0\)\
+\-\ coronal\\:\\ 0\\.017188517159124235\ \(0\)\
+\-\ at\\:\\ 0\\.01677917612799468\ \(0\)\
+\-\ sagittal\\:\\ 0\\.0164654427657313\ \(0\)\
+\-\ matter\\:\\ 0\\.016253526427056995\ \(0\)\
+\-\ similar\\:\\ 0\\.016191722796815886\ \(0\)\
+\-\ structures\\:\\ 0\\.015894036158621807\ \(0\)\
+\-\ \\‚\\Ä\\ú\\:\\ 0\\.015417878829851012\ \(0\)\
+\-\ \\‚\\Ä\\ù\\:\\ 0\\.015331455811731325\ \(0\)\
+\-\ above\\:\\ 0\\.015130138437815537\ \(0\)\
+\-\ presence\\:\\ 0\\.014984471586749416\ \(0\)\
+\-\ vein\\:\\ 0\\.01493687595175902\ \(0\)\
+\-\ effect\\:\\ 0\\.01461622344477896\ \(0\)\
+\-\ new\\:\\ 0\\.014385449163287722\ \(0\)\
+\-\ enlarged\\:\\ 0\\.014085125943884088\ \(0\)\
+\-\ does\\:\\ 0\\.014085125943884088\ \(0\)\
+\-\ available\\:\\ 0\\.01387786980115844\ \(0\)\
+\-\ hemorrhage\\:\\ 0\\.013740369971864905\ \(0\)\
+\-\ white\\:\\ 0\\.013691324699091872\ \(0\)\
+\-\ follow\\-up\\:\\ 0\\.013430130393438367\ \(0\)\
+\-\ often\\:\\ 0\\.013171369799611846\ \(0\)\
+\-\ known\\:\\ 0\\.01306304871721652\ \(0\)\
+\-\ adjacent\\:\\ 0\\.01305234900547955\ \(0\)\
+\-\ enhancing\\:\\ 0\\.012946635424564054\ \(0\)\
+\-\ edema\\:\\ 0\\.0116759588861415\ \(0\)\
+\-\ region\\:\\ 0\\.011659909310334842\ \(0\)\
+\-\ a\\:\\ 0\\.011495646429524674\ \(0\)\
+\-\ high\\:\\ 0\\.011297323966554664\ \(0\)\
+\-\ are\\:\\ 0\\.011254820024440596\ \(0\)\
+\-\ is\\:\\ 0\\.010865522287627548\ \(0\)\
+\-\ common\\:\\ 0\\.01080322324616617\ \(0\)\
+\-\ these\\:\\ 0\\.010743211072260096\ \(0\)\
+\-\ prior\\:\\ 0\\.010599578609673253\ \(0\)\
+\-\ increased\\:\\ 0\\.010098960298549061\ \(0\)\
+\-\ the\\:\\ 0\\.010018064108958391\ \(0\)\
+\-\ into\\:\\ 0\\.009822832695457522\ \(0\)\
+\-\ without\\:\\ 0\\.00971987036888\ \(0\)\
+\-\ or\\:\\ 0\\.009676548299166256\ \(0\)\
+\-\ imaging\\:\\ 0\\.009671854224423201\ \(0\)\
+\-\ most\\:\\ 0\\.009530604549410996\ \(0\)\
+\-\ demonstrate\\:\\ 0\\.009499768798710341\ \(0\)\
+\-\ mri\\:\\ 0\\.00948442441987739\ \(0\)\
+\-\ present\\:\\ 0\\.00932371378710957\ \(0\)\
+\-\ left\\:\\ 0\\.009237732070269707\ \(0\)\
+\-\ findings\\:\\ 0\\.008786651863719611\ \(0\)\
+\-\ no\\:\\ 0\\.008313470055109198\ \(0\)\
+\-\ seen\\:\\ 0\\.00815762132882942\ \(0\)\
+\-\ images\\:\\ 0\\.007919149236470309\ \(0\)\
+\-\ \\,\\:\\ 0\\.007846668565718475\ \(0\)\
+\-\ there\\:\\ 0\\.006143553412874341\ \(0\)\
+\-\ from\\:\\ 0\\.006118046923450301\ \(0\)\
+\-\ mass\\:\\ 0\\.005741357521485819\ \(0\)\
+\-\ an\\:\\ 0\\.005708525914418984\ \(0\)\
+\-\ patient\\:\\ 0\\.004138125270127478\ \(0\)\
+\-\ in\\:\\ 0\\.004071470822611159\ \(0\)\
+\-\ on\\:\\ 0\\.00349705803075086\ \(0\)\
+\-\ and\\:\\ 0\\.003478434893376202\ \(0\)\
+\-\ of\\:\\ 0\\.0033769217622605344\ \(0\)\
+\-\ to\\:\\ 0\\.002063130958661769\ \(0\)\
+\-\ \\.\\:\\ 0\\.0018864487781198504\ \(0\)\
+\-\ with\\:\\ 0\\.0016957126969549237\ \(0\)\

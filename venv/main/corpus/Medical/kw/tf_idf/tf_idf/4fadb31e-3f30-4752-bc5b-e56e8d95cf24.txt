@@ -1,117 +1,114 @@
-Texto: 
-nonfocal neurological exam.
-patient was discharged from the emergency department and lost to follow up.
-noncontrast axial images of the head demonstrate no acute hemorrhage, midline shift, intra-axial or extra-axial fluid collection.  
-
-punctate areas of air were demonstrated within the left temporalis muscles, medial and lateral pterygoid muscles, the right and left petrous portion of the internal carotid arteries and the cavernous sinuses.
-spontaneous pneumocephalus
-trauma
-infection
-intracranial neoplastic extension 
-idiopathic
-iatrogenic (e.g. surgery, air embolism, lumbar puncture)
-extension from pneumomediastinum
-44 year old with a 4 day history of the worst headache of his life.  he had no history of trauma, known malignancy or recent infection.  no history of chest pain.
-pneumocephalus may represent a cause for headache.  after discussion with the clinicians, patient had no history of trauma, recent surgery or other symptomatology to lead to the cause.
-
-
-Keywords by value: 
-- pneumocephalus: 0.0786411400519068
-- muscles: 0.0484827768724279
-- temporalis: 0.046144248837556565
-- trauma: 0.04354674748617259
-- nonfocal: 0.041107415196461355
-- pterygoid: 0.041107415196461355
-- intra-axial: 0.03793458523518191
-- extension: 0.03789226485939942
-- clinicians: 0.03753372485544544
-- headache: 0.036459446429388795
-- air: 0.0359163059199002
-- cause: 0.0359163059199002
-- recent: 0.03568595091726456
-- worst: 0.03476175527390247
-- symptomatology: 0.03428373638485819
-- petrous: 0.03405785039621922
-- pneumomediastinum: 0.033037334549689545
-- puncture: 0.03267186560544773
-- iatrogenic: 0.0323267112504489
-- lost: 0.030974391475014924
-- punctate: 0.030974391475014924
-- infection: 0.030857348746246047
-- history: 0.029322100315703932
-- noncontrast: 0.028366603614392166
-- extra-axial: 0.02827850029146076
-- e.g: 0.028105956415019298
-- sinuses: 0.027308557864409316
-- 44: 0.027234171584616048
-- neoplastic: 0.02716066563649802
-- embolism: 0.02596763624681281
-- surgery: 0.02577638589267422
-- lead: 0.025447326414108094
-- shift: 0.02517605272775616
-- discussion: 0.024865428997478758
-- spontaneous: 0.02476524650101986
-- cavernous: 0.024617938882278763
-- discharged: 0.02433340760258128
-- idiopathic: 0.0241958850816048
-- department: 0.023800694423963736
-- carotid: 0.023800694423963736
-- represent: 0.02331008317353746
-- life: 0.023154795582199465
-- neurological: 0.022965991376085362
-- had: 0.022904966698642337
-- lumbar: 0.022569781824064678
-- collection: 0.02246597138323399
-- intracranial: 0.022431749918569582
-- arteries: 0.021971451954881868
-- no: 0.02137749442742365
-- midline: 0.020534969486574663
-- malignancy: 0.020509873775164694
-- emergency: 0.020098065825964444
-- portion: 0.01922488600844153
-- or: 0.018661914576963496
-- areas: 0.017859299200286127
-- internal: 0.017794260070675597
-- hemorrhage: 0.017666189963826306
-- medial: 0.01697701561236057
-- follow: 0.01686459299345611
-- day: 0.016850682169893973
-- known: 0.016795348350706955
-- from: 0.015732120660300775
-- demonstrated: 0.01557403715811781
-- his: 0.015297447376689017
-- axial: 0.015147773143278705
-- ,: 0.015132860805314202
-- fluid: 0.015084714935427658
-- head: 0.015053424289278857
-- he: 0.01480861703126099
-- 4: 0.014788645373782888
-- up: 0.01427234255313182
-- acute: 0.013104840553456492
-- chest: 0.01270018012458086
-- other: 0.01223377980560527
-- demonstrate: 0.012213988455484723
-- were: 0.012051467929751062
-- left: 0.011877084090346766
-- exam: 0.011659838136332534
-- may: 0.01164179111116847
-- lateral: 0.011469987861022051
-- after: 0.010981373929249704
-- patient: 0.010640893551756372
-- images: 0.010181763304033255
-- within: 0.010125039803640257
-- to: 0.00795779084055254
-- the: 0.007728220884053616
-- pain: 0.006482038307644314
-- was: 0.006138369703190601
-- year: 0.005938542045173383
-- of: 0.005789008735303773
-- right: 0.005600196950996376
-- old: 0.005434376378026426
-- a: 0.004926705612653431
-- for: 0.0045286220412591
-- (: 0.004486718796545717
-- and: 0.004472273434340831
-- ): 0.00443191113113854
-- .: 0.002204940130269955
-- with: 0.0014534680259613631
+\-\ Texto\\:\\ \ \(0\)\
+\-\ nonfocal\\ neurological\\ exam\\.\ \(0\)\
+\-\ patient\\ was\\ discharged\\ from\\ the\\ emergency\\ department\\ and\\ lost\\ to\\ follow\\ up\\.\ \(0\)\
+\-\ noncontrast\\ axial\\ images\\ of\\ the\\ head\\ demonstrate\\ no\\ acute\\ hemorrhage\\,\\ midline\\ shift\\,\\ intra\\-axial\\ or\\ extra\\-axial\\ fluid\\ collection\\.\\ \\ \ \(0\)\
+\-\ punctate\\ areas\\ of\\ air\\ were\\ demonstrated\\ within\\ the\\ left\\ temporalis\\ muscles\\,\\ medial\\ and\\ lateral\\ pterygoid\\ muscles\\,\\ the\\ right\\ and\\ left\\ petrous\\ portion\\ of\\ the\\ internal\\ carotid\\ arteries\\ and\\ the\\ cavernous\\ sinuses\\.\ \(0\)\
+\-\ spontaneous\\ pneumocephalus\ \(0\)\
+\-\ trauma\ \(1087\)\
+\-\ infection\ \(713\)\
+\-\ intracranial\\ neoplastic\\ extension\\ \ \(0\)\
+\-\ idiopathic\ \(111\)\
+\-\ iatrogenic\\ \\(e\\.g\\.\\ surgery\\,\\ air\\ embolism\\,\\ lumbar\\ puncture\\)\ \(0\)\
+\-\ extension\\ from\\ pneumomediastinum\ \(0\)\
+\-\ 44\\ year\\ old\\ with\\ a\\ 4\\ day\\ history\\ of\\ the\\ worst\\ headache\\ of\\ his\\ life\\.\\ \\ he\\ had\\ no\\ history\\ of\\ trauma\\,\\ known\\ malignancy\\ or\\ recent\\ infection\\.\\ \\ no\\ history\\ of\\ chest\\ pain\\.\ \(0\)\
+\-\ pneumocephalus\\ may\\ represent\\ a\\ cause\\ for\\ headache\\.\\ \\ after\\ discussion\\ with\\ the\\ clinicians\\,\\ patient\\ had\\ no\\ history\\ of\\ trauma\\,\\ recent\\ surgery\\ or\\ other\\ symptomatology\\ to\\ lead\\ to\\ the\\ cause\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ pneumocephalus\\:\\ 0\\.0786411400519068\ \(0\)\
+\-\ muscles\\:\\ 0\\.0484827768724279\ \(0\)\
+\-\ temporalis\\:\\ 0\\.046144248837556565\ \(0\)\
+\-\ trauma\\:\\ 0\\.04354674748617259\ \(0\)\
+\-\ nonfocal\\:\\ 0\\.041107415196461355\ \(0\)\
+\-\ pterygoid\\:\\ 0\\.041107415196461355\ \(0\)\
+\-\ intra\\-axial\\:\\ 0\\.03793458523518191\ \(0\)\
+\-\ extension\\:\\ 0\\.03789226485939942\ \(0\)\
+\-\ clinicians\\:\\ 0\\.03753372485544544\ \(0\)\
+\-\ headache\\:\\ 0\\.036459446429388795\ \(0\)\
+\-\ air\\:\\ 0\\.0359163059199002\ \(0\)\
+\-\ cause\\:\\ 0\\.0359163059199002\ \(0\)\
+\-\ recent\\:\\ 0\\.03568595091726456\ \(0\)\
+\-\ worst\\:\\ 0\\.03476175527390247\ \(0\)\
+\-\ symptomatology\\:\\ 0\\.03428373638485819\ \(0\)\
+\-\ petrous\\:\\ 0\\.03405785039621922\ \(0\)\
+\-\ pneumomediastinum\\:\\ 0\\.033037334549689545\ \(0\)\
+\-\ puncture\\:\\ 0\\.03267186560544773\ \(0\)\
+\-\ iatrogenic\\:\\ 0\\.0323267112504489\ \(0\)\
+\-\ lost\\:\\ 0\\.030974391475014924\ \(0\)\
+\-\ punctate\\:\\ 0\\.030974391475014924\ \(0\)\
+\-\ infection\\:\\ 0\\.030857348746246047\ \(0\)\
+\-\ history\\:\\ 0\\.029322100315703932\ \(0\)\
+\-\ noncontrast\\:\\ 0\\.028366603614392166\ \(0\)\
+\-\ extra\\-axial\\:\\ 0\\.02827850029146076\ \(0\)\
+\-\ e\\.g\\:\\ 0\\.028105956415019298\ \(0\)\
+\-\ sinuses\\:\\ 0\\.027308557864409316\ \(0\)\
+\-\ 44\\:\\ 0\\.027234171584616048\ \(0\)\
+\-\ neoplastic\\:\\ 0\\.02716066563649802\ \(0\)\
+\-\ embolism\\:\\ 0\\.02596763624681281\ \(0\)\
+\-\ surgery\\:\\ 0\\.02577638589267422\ \(0\)\
+\-\ lead\\:\\ 0\\.025447326414108094\ \(0\)\
+\-\ shift\\:\\ 0\\.02517605272775616\ \(0\)\
+\-\ discussion\\:\\ 0\\.024865428997478758\ \(0\)\
+\-\ spontaneous\\:\\ 0\\.02476524650101986\ \(0\)\
+\-\ cavernous\\:\\ 0\\.024617938882278763\ \(0\)\
+\-\ discharged\\:\\ 0\\.02433340760258128\ \(0\)\
+\-\ idiopathic\\:\\ 0\\.0241958850816048\ \(0\)\
+\-\ department\\:\\ 0\\.023800694423963736\ \(0\)\
+\-\ carotid\\:\\ 0\\.023800694423963736\ \(0\)\
+\-\ represent\\:\\ 0\\.02331008317353746\ \(0\)\
+\-\ life\\:\\ 0\\.023154795582199465\ \(0\)\
+\-\ neurological\\:\\ 0\\.022965991376085362\ \(0\)\
+\-\ had\\:\\ 0\\.022904966698642337\ \(0\)\
+\-\ lumbar\\:\\ 0\\.022569781824064678\ \(0\)\
+\-\ collection\\:\\ 0\\.02246597138323399\ \(0\)\
+\-\ intracranial\\:\\ 0\\.022431749918569582\ \(0\)\
+\-\ arteries\\:\\ 0\\.021971451954881868\ \(0\)\
+\-\ no\\:\\ 0\\.02137749442742365\ \(0\)\
+\-\ midline\\:\\ 0\\.020534969486574663\ \(0\)\
+\-\ malignancy\\:\\ 0\\.020509873775164694\ \(0\)\
+\-\ emergency\\:\\ 0\\.020098065825964444\ \(0\)\
+\-\ portion\\:\\ 0\\.01922488600844153\ \(0\)\
+\-\ or\\:\\ 0\\.018661914576963496\ \(0\)\
+\-\ areas\\:\\ 0\\.017859299200286127\ \(0\)\
+\-\ internal\\:\\ 0\\.017794260070675597\ \(0\)\
+\-\ hemorrhage\\:\\ 0\\.017666189963826306\ \(0\)\
+\-\ medial\\:\\ 0\\.01697701561236057\ \(0\)\
+\-\ follow\\:\\ 0\\.01686459299345611\ \(0\)\
+\-\ day\\:\\ 0\\.016850682169893973\ \(0\)\
+\-\ known\\:\\ 0\\.016795348350706955\ \(0\)\
+\-\ from\\:\\ 0\\.015732120660300775\ \(0\)\
+\-\ demonstrated\\:\\ 0\\.01557403715811781\ \(0\)\
+\-\ his\\:\\ 0\\.015297447376689017\ \(0\)\
+\-\ axial\\:\\ 0\\.015147773143278705\ \(0\)\
+\-\ \\,\\:\\ 0\\.015132860805314202\ \(0\)\
+\-\ fluid\\:\\ 0\\.015084714935427658\ \(0\)\
+\-\ head\\:\\ 0\\.015053424289278857\ \(0\)\
+\-\ he\\:\\ 0\\.01480861703126099\ \(0\)\
+\-\ 4\\:\\ 0\\.014788645373782888\ \(0\)\
+\-\ up\\:\\ 0\\.01427234255313182\ \(0\)\
+\-\ acute\\:\\ 0\\.013104840553456492\ \(0\)\
+\-\ chest\\:\\ 0\\.01270018012458086\ \(0\)\
+\-\ other\\:\\ 0\\.01223377980560527\ \(0\)\
+\-\ demonstrate\\:\\ 0\\.012213988455484723\ \(0\)\
+\-\ were\\:\\ 0\\.012051467929751062\ \(0\)\
+\-\ left\\:\\ 0\\.011877084090346766\ \(0\)\
+\-\ exam\\:\\ 0\\.011659838136332534\ \(0\)\
+\-\ may\\:\\ 0\\.01164179111116847\ \(0\)\
+\-\ lateral\\:\\ 0\\.011469987861022051\ \(0\)\
+\-\ after\\:\\ 0\\.010981373929249704\ \(0\)\
+\-\ patient\\:\\ 0\\.010640893551756372\ \(0\)\
+\-\ images\\:\\ 0\\.010181763304033255\ \(0\)\
+\-\ within\\:\\ 0\\.010125039803640257\ \(0\)\
+\-\ to\\:\\ 0\\.00795779084055254\ \(0\)\
+\-\ the\\:\\ 0\\.007728220884053616\ \(0\)\
+\-\ pain\\:\\ 0\\.006482038307644314\ \(0\)\
+\-\ was\\:\\ 0\\.006138369703190601\ \(0\)\
+\-\ year\\:\\ 0\\.005938542045173383\ \(0\)\
+\-\ of\\:\\ 0\\.005789008735303773\ \(0\)\
+\-\ right\\:\\ 0\\.005600196950996376\ \(0\)\
+\-\ old\\:\\ 0\\.005434376378026426\ \(0\)\
+\-\ a\\:\\ 0\\.004926705612653431\ \(0\)\
+\-\ for\\:\\ 0\\.0045286220412591\ \(0\)\
+\-\ \\(\\:\\ 0\\.004486718796545717\ \(0\)\
+\-\ and\\:\\ 0\\.004472273434340831\ \(0\)\
+\-\ \\)\\:\\ 0\\.00443191113113854\ \(0\)\
+\-\ \\.\\:\\ 0\\.002204940130269955\ \(0\)\
+\-\ with\\:\\ 0\\.0014534680259613631\ \(0\)\

@@ -1,133 +1,130 @@
-Texto: 
-unknown
-patient is asymptomatic and does not require follow up.
->>triple phase hepatic ct scan demonstrated early homogeneous contrast enhancement of mass. howver centripetal filling was not completed during the delayed imaging. consequently, the patient was referred for nuclear medicine tagged-rbc for further evaluation.
-
->> nuclear medicine tagged-rbc scan demonstrated rbc localization to lesion and persistence of activity within the lesion on delayed spect imaging compatible with a hemangioma.
-liver hemangioma
-hepatoma 
-focal nodular hyperplasia
-hepatic adenoma
-hypervascular metastases 
-hepatic hemangioma
-50 yo male with incidental finding of liver mass during recent laparascopic cholecystectomy.
-pt then referred for further diagnostic imaging evaluation.
-while ct scan is a good diagnostic imaging modality for liver lesions (e.g. diagnosis of hemangioma with over 80% specificity and sensitivity), it can be equivocal, parfticularly if the lesion is large with central thrombus which will not opacify after intravenous contrast administration. 
-nuclear medicine technetium-99m tagged red blood cell scan demonstrated rbc activity within the lesion on tomographic spect images and proved the diagnosis of hemangioma thus excluding the need for further diagnostic query.
-
-
-Keywords by value: 
-- hemangioma: 0.0974057691378159
-- tagged-rbc: 0.0899542696323112
-- nuclear: 0.06748162005156497
-- medicine: 0.062040987079113395
-- spect: 0.05795943069425866
-- >: 0.057942194176909476
-- hepatic: 0.054619811507234876
-- diagnostic: 0.05182917543385802
-- rbc: 0.050241817610774196
-- scan: 0.04882186653944853
-- liver: 0.04509522720662332
-- howver: 0.0449771348161556
-- parfticularly: 0.0449771348161556
-- further: 0.04159353278265701
-- opacify: 0.04144066960921711
-- query: 0.04144066960921711
-- imaging: 0.04085864947868577
-- demonstrated: 0.0383788772825046
-- laparascopic: 0.03790420440227861
-- centripetal: 0.035835504871114504
-- lesion: 0.03552153522449907
-- delayed: 0.035489595349644694
-- hepatoma: 0.035049021810771346
-- excluding: 0.035049021810771346
-- technetium-99m: 0.03436773919534011
-- referred: 0.03290338207607797
-- activity: 0.03271476151817896
-- consequently: 0.03229903966417601
-- tagged: 0.031160552157470853
-- equivocal: 0.0299544869632656
-- tomographic: 0.0299544869632656
-- triple: 0.029443857072668746
-- persistence: 0.02897971534712933
-- proved: 0.028554298974991312
-- localization: 0.028354193295637833
-- specificity: 0.028354193295637833
-- during: 0.026683767856365385
-- hypervascular: 0.025787338307514975
-- evaluation: 0.025328967304355177
-- completed: 0.025120908805387098
-- sensitivity: 0.024625175394909302
-- compatible: 0.024087621743593864
-- modality: 0.02392032672919085
-- cholecystectomy: 0.02330113868325071
-- e.g: 0.023087035626622995
-- red: 0.022749028557535238
-- thrombus: 0.02201892221242976
-- need: 0.021743069042683454
-- thus: 0.02168964404336052
-- intravenous: 0.021636772680934262
-- hyperplasia: 0.02148136856111432
-- homogeneous: 0.02063690714031037
-- phase: 0.020508815705968145
-- 80: 0.020508815705968145
-- diagnosis: 0.020022646232453263
-- require: 0.019950222681265655
-- contrast: 0.01951811925314189
-- not: 0.0189002857919684
-- good: 0.018655424105877394
-- metastases: 0.01862618596960706
-- for: 0.01859969766945702
-- nodular: 0.018287805138326077
-- adenoma: 0.018206603835744958
-- administration: 0.018100307473995766
-- filling: 0.01755224498103231
-- unknown: 0.01701469132971687
-- within: 0.01663399396312328
-- 50: 0.016586724574713288
-- incidental: 0.016509125499899364
-- pt: 0.016210019156289553
-- early: 0.015944688620624682
-- then: 0.015515137134806579
-- does: 0.014875617706040848
-- asymptomatic: 0.014737716316306566
-- recent: 0.014656729841019372
-- central: 0.014345057943163056
-- finding: 0.014051334209380005
-- follow: 0.013853058530338948
-- while: 0.013717598162511802
-- will: 0.0136402092774446
-- yo: 0.013119140425014091
-- focal: 0.012451497980297968
-- ct: 0.012196976055020846
-- mass: 0.012127153132118004
-- blood: 0.011900056492394385
-- if: 0.011830323641737936
-- cell: 0.011776738324395337
-- up: 0.011723709954358282
-- enhancement: 0.011686167174097121
-- lesions: 0.011671227073183407
-- over: 0.01110021729663246
-- %: 0.010170005272173507
-- was: 0.010084464512384558
-- can: 0.00988888955341362
-- it: 0.00980024685986233
-- large: 0.009533379754240201
-- after: 0.009020414299026542
-- patient: 0.008740733988942734
-- is: 0.008606491505888658
-- images: 0.008363591285455888
-- which: 0.008138492792053819
-- male: 0.007883701723915679
-- on: 0.007386642983320694
-- be: 0.006723248588489434
-- the: 0.004937474453700921
-- ,: 0.004143521410978889
-- a: 0.004046936753251033
-- (: 0.0036855190114482676
-- and: 0.0036736531782085398
-- ): 0.0036404984291495157
-- of: 0.002972035734642562
-- with: 0.0023878403283650964
-- to: 0.0021789189206274807
-- .: 0.0018112008212931774
+\-\ Texto\\:\\ \ \(0\)\
+\-\ unknown\ \(157\)\
+\-\ patient\\ is\\ asymptomatic\\ and\\ does\\ not\\ require\\ follow\\ up\\.\ \(0\)\
+\-\ \\>\\>triple\\ phase\\ hepatic\\ ct\\ scan\\ demonstrated\\ early\\ homogeneous\\ contrast\\ enhancement\\ of\\ mass\\.\\ howver\\ centripetal\\ filling\\ was\\ not\\ completed\\ during\\ the\\ delayed\\ imaging\\.\\ consequently\\,\\ the\\ patient\\ was\\ referred\\ for\\ nuclear\\ medicine\\ tagged\\-rbc\\ for\\ further\\ evaluation\\.\ \(0\)\
+\-\ \\>\\>\\ nuclear\\ medicine\\ tagged\\-rbc\\ scan\\ demonstrated\\ rbc\\ localization\\ to\\ lesion\\ and\\ persistence\\ of\\ activity\\ within\\ the\\ lesion\\ on\\ delayed\\ spect\\ imaging\\ compatible\\ with\\ a\\ hemangioma\\.\ \(0\)\
+\-\ liver\\ hemangioma\ \(2\)\
+\-\ hepatoma\\ \ \(0\)\
+\-\ focal\\ nodular\\ hyperplasia\ \(9\)\
+\-\ hepatic\\ adenoma\ \(5\)\
+\-\ hypervascular\\ metastases\\ \ \(1\)\
+\-\ hepatic\\ hemangioma\ \(3\)\
+\-\ 50\\ yo\\ male\\ with\\ incidental\\ finding\\ of\\ liver\\ mass\\ during\\ recent\\ laparascopic\\ cholecystectomy\\.\ \(1\)\
+\-\ pt\\ then\\ referred\\ for\\ further\\ diagnostic\\ imaging\\ evaluation\\.\ \(0\)\
+\-\ while\\ ct\\ scan\\ is\\ a\\ good\\ diagnostic\\ imaging\\ modality\\ for\\ liver\\ lesions\\ \\(e\\.g\\.\\ diagnosis\\ of\\ hemangioma\\ with\\ over\\ 80\\%\\ specificity\\ and\\ sensitivity\\)\\,\\ it\\ can\\ be\\ equivocal\\,\\ parfticularly\\ if\\ the\\ lesion\\ is\\ large\\ with\\ central\\ thrombus\\ which\\ will\\ not\\ opacify\\ after\\ intravenous\\ contrast\\ administration\\.\\ \ \(0\)\
+\-\ nuclear\\ medicine\\ technetium\\-99m\\ tagged\\ red\\ blood\\ cell\\ scan\\ demonstrated\\ rbc\\ activity\\ within\\ the\\ lesion\\ on\\ tomographic\\ spect\\ images\\ and\\ proved\\ the\\ diagnosis\\ of\\ hemangioma\\ thus\\ excluding\\ the\\ need\\ for\\ further\\ diagnostic\\ query\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ hemangioma\\:\\ 0\\.0974057691378159\ \(0\)\
+\-\ tagged\\-rbc\\:\\ 0\\.0899542696323112\ \(0\)\
+\-\ nuclear\\:\\ 0\\.06748162005156497\ \(0\)\
+\-\ medicine\\:\\ 0\\.062040987079113395\ \(0\)\
+\-\ spect\\:\\ 0\\.05795943069425866\ \(0\)\
+\-\ \\>\\:\\ 0\\.057942194176909476\ \(0\)\
+\-\ hepatic\\:\\ 0\\.054619811507234876\ \(0\)\
+\-\ diagnostic\\:\\ 0\\.05182917543385802\ \(0\)\
+\-\ rbc\\:\\ 0\\.050241817610774196\ \(0\)\
+\-\ scan\\:\\ 0\\.04882186653944853\ \(0\)\
+\-\ liver\\:\\ 0\\.04509522720662332\ \(0\)\
+\-\ howver\\:\\ 0\\.0449771348161556\ \(0\)\
+\-\ parfticularly\\:\\ 0\\.0449771348161556\ \(0\)\
+\-\ further\\:\\ 0\\.04159353278265701\ \(0\)\
+\-\ opacify\\:\\ 0\\.04144066960921711\ \(0\)\
+\-\ query\\:\\ 0\\.04144066960921711\ \(0\)\
+\-\ imaging\\:\\ 0\\.04085864947868577\ \(0\)\
+\-\ demonstrated\\:\\ 0\\.0383788772825046\ \(0\)\
+\-\ laparascopic\\:\\ 0\\.03790420440227861\ \(0\)\
+\-\ centripetal\\:\\ 0\\.035835504871114504\ \(0\)\
+\-\ lesion\\:\\ 0\\.03552153522449907\ \(0\)\
+\-\ delayed\\:\\ 0\\.035489595349644694\ \(0\)\
+\-\ hepatoma\\:\\ 0\\.035049021810771346\ \(0\)\
+\-\ excluding\\:\\ 0\\.035049021810771346\ \(0\)\
+\-\ technetium\\-99m\\:\\ 0\\.03436773919534011\ \(0\)\
+\-\ referred\\:\\ 0\\.03290338207607797\ \(0\)\
+\-\ activity\\:\\ 0\\.03271476151817896\ \(0\)\
+\-\ consequently\\:\\ 0\\.03229903966417601\ \(0\)\
+\-\ tagged\\:\\ 0\\.031160552157470853\ \(0\)\
+\-\ equivocal\\:\\ 0\\.0299544869632656\ \(0\)\
+\-\ tomographic\\:\\ 0\\.0299544869632656\ \(0\)\
+\-\ triple\\:\\ 0\\.029443857072668746\ \(0\)\
+\-\ persistence\\:\\ 0\\.02897971534712933\ \(0\)\
+\-\ proved\\:\\ 0\\.028554298974991312\ \(0\)\
+\-\ localization\\:\\ 0\\.028354193295637833\ \(0\)\
+\-\ specificity\\:\\ 0\\.028354193295637833\ \(0\)\
+\-\ during\\:\\ 0\\.026683767856365385\ \(0\)\
+\-\ hypervascular\\:\\ 0\\.025787338307514975\ \(0\)\
+\-\ evaluation\\:\\ 0\\.025328967304355177\ \(0\)\
+\-\ completed\\:\\ 0\\.025120908805387098\ \(0\)\
+\-\ sensitivity\\:\\ 0\\.024625175394909302\ \(0\)\
+\-\ compatible\\:\\ 0\\.024087621743593864\ \(0\)\
+\-\ modality\\:\\ 0\\.02392032672919085\ \(0\)\
+\-\ cholecystectomy\\:\\ 0\\.02330113868325071\ \(0\)\
+\-\ e\\.g\\:\\ 0\\.023087035626622995\ \(0\)\
+\-\ red\\:\\ 0\\.022749028557535238\ \(0\)\
+\-\ thrombus\\:\\ 0\\.02201892221242976\ \(0\)\
+\-\ need\\:\\ 0\\.021743069042683454\ \(0\)\
+\-\ thus\\:\\ 0\\.02168964404336052\ \(0\)\
+\-\ intravenous\\:\\ 0\\.021636772680934262\ \(0\)\
+\-\ hyperplasia\\:\\ 0\\.02148136856111432\ \(0\)\
+\-\ homogeneous\\:\\ 0\\.02063690714031037\ \(0\)\
+\-\ phase\\:\\ 0\\.020508815705968145\ \(0\)\
+\-\ 80\\:\\ 0\\.020508815705968145\ \(0\)\
+\-\ diagnosis\\:\\ 0\\.020022646232453263\ \(0\)\
+\-\ require\\:\\ 0\\.019950222681265655\ \(0\)\
+\-\ contrast\\:\\ 0\\.01951811925314189\ \(0\)\
+\-\ not\\:\\ 0\\.0189002857919684\ \(0\)\
+\-\ good\\:\\ 0\\.018655424105877394\ \(0\)\
+\-\ metastases\\:\\ 0\\.01862618596960706\ \(0\)\
+\-\ for\\:\\ 0\\.01859969766945702\ \(0\)\
+\-\ nodular\\:\\ 0\\.018287805138326077\ \(0\)\
+\-\ adenoma\\:\\ 0\\.018206603835744958\ \(0\)\
+\-\ administration\\:\\ 0\\.018100307473995766\ \(0\)\
+\-\ filling\\:\\ 0\\.01755224498103231\ \(0\)\
+\-\ unknown\\:\\ 0\\.01701469132971687\ \(0\)\
+\-\ within\\:\\ 0\\.01663399396312328\ \(0\)\
+\-\ 50\\:\\ 0\\.016586724574713288\ \(0\)\
+\-\ incidental\\:\\ 0\\.016509125499899364\ \(0\)\
+\-\ pt\\:\\ 0\\.016210019156289553\ \(0\)\
+\-\ early\\:\\ 0\\.015944688620624682\ \(0\)\
+\-\ then\\:\\ 0\\.015515137134806579\ \(0\)\
+\-\ does\\:\\ 0\\.014875617706040848\ \(0\)\
+\-\ asymptomatic\\:\\ 0\\.014737716316306566\ \(0\)\
+\-\ recent\\:\\ 0\\.014656729841019372\ \(0\)\
+\-\ central\\:\\ 0\\.014345057943163056\ \(0\)\
+\-\ finding\\:\\ 0\\.014051334209380005\ \(0\)\
+\-\ follow\\:\\ 0\\.013853058530338948\ \(0\)\
+\-\ while\\:\\ 0\\.013717598162511802\ \(0\)\
+\-\ will\\:\\ 0\\.0136402092774446\ \(0\)\
+\-\ yo\\:\\ 0\\.013119140425014091\ \(0\)\
+\-\ focal\\:\\ 0\\.012451497980297968\ \(0\)\
+\-\ ct\\:\\ 0\\.012196976055020846\ \(0\)\
+\-\ mass\\:\\ 0\\.012127153132118004\ \(0\)\
+\-\ blood\\:\\ 0\\.011900056492394385\ \(0\)\
+\-\ if\\:\\ 0\\.011830323641737936\ \(0\)\
+\-\ cell\\:\\ 0\\.011776738324395337\ \(0\)\
+\-\ up\\:\\ 0\\.011723709954358282\ \(0\)\
+\-\ enhancement\\:\\ 0\\.011686167174097121\ \(0\)\
+\-\ lesions\\:\\ 0\\.011671227073183407\ \(0\)\
+\-\ over\\:\\ 0\\.01110021729663246\ \(0\)\
+\-\ \\%\\:\\ 0\\.010170005272173507\ \(0\)\
+\-\ was\\:\\ 0\\.010084464512384558\ \(0\)\
+\-\ can\\:\\ 0\\.00988888955341362\ \(0\)\
+\-\ it\\:\\ 0\\.00980024685986233\ \(0\)\
+\-\ large\\:\\ 0\\.009533379754240201\ \(0\)\
+\-\ after\\:\\ 0\\.009020414299026542\ \(0\)\
+\-\ patient\\:\\ 0\\.008740733988942734\ \(0\)\
+\-\ is\\:\\ 0\\.008606491505888658\ \(0\)\
+\-\ images\\:\\ 0\\.008363591285455888\ \(0\)\
+\-\ which\\:\\ 0\\.008138492792053819\ \(0\)\
+\-\ male\\:\\ 0\\.007883701723915679\ \(0\)\
+\-\ on\\:\\ 0\\.007386642983320694\ \(0\)\
+\-\ be\\:\\ 0\\.006723248588489434\ \(0\)\
+\-\ the\\:\\ 0\\.004937474453700921\ \(0\)\
+\-\ \\,\\:\\ 0\\.004143521410978889\ \(0\)\
+\-\ a\\:\\ 0\\.004046936753251033\ \(0\)\
+\-\ \\(\\:\\ 0\\.0036855190114482676\ \(0\)\
+\-\ and\\:\\ 0\\.0036736531782085398\ \(0\)\
+\-\ \\)\\:\\ 0\\.0036404984291495157\ \(0\)\
+\-\ of\\:\\ 0\\.002972035734642562\ \(0\)\
+\-\ with\\:\\ 0\\.0023878403283650964\ \(0\)\
+\-\ to\\:\\ 0\\.0021789189206274807\ \(0\)\
+\-\ \\.\\:\\ 0\\.0018112008212931774\ \(0\)\

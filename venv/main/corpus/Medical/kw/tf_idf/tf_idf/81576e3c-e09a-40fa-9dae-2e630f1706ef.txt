@@ -1,111 +1,109 @@
-Texto: 
-minimal fever.  remainder of examination unremarkable.
-this patient is newly diagnosed and undergoing treatment.  routine surveillance imaging will be performed to document progression or resolution.
-bilateral hilar adenopathy with right paratracheal adenopathy.  no parenchymal disease evident.
-sarcoid - confirmed via biopsy.
-sarcoidosis
-lymphoma
-tb (although this patient is ppd negative)
-metastatic disease
-pneumoconiosis (silicosis, berylliosis)
-leukemia
-26 yo african-american female presents with fever and "flu-like" symptoms.  no unusual occupational exposures.  acute onset of symptoms.  no weight loss.  non-smoker. hiv and ppd negative.
-these radiographs exhibit the classic "1-2-3 sign" of bilateral hilar adenopathy and right paratracheal adenopathy seen most frequently in sarcoidosis.  as this patient only exhibits adenopathy without evidence of lung parenchymal involvement, this would be categorized as stage 1 sarcoidosis.
-
-
-Keywords by value: 
-- adenopathy: 0.12941779353300145
-- sarcoidosis: 0.07876921155847423
-- ppd: 0.0756111821217009
-- paratracheal: 0.07278615675056832
-- hilar: 0.05841809315533956
-- parenchymal: 0.05714827084524134
-- flu-like: 0.05525422614562281
-- 1-2-3: 0.05525422614562281
-- berylliosis: 0.04902095586076461
-- exposures: 0.04778067316148601
-- non-smoker: 0.04430566891817995
-- categorized: 0.04306538621890134
-- document: 0.04154740287662781
-- pneumoconiosis: 0.04069595292455974
-- silicosis: 0.04030712017734921
-- fever: 0.03933690648370022
-- occupational: 0.038942013405497834
-- exhibits: 0.038942013405497834
-- newly: 0.03863962046283911
-- exhibit: 0.03863962046283911
-- african-american: 0.03754885413579707
-- surveillance: 0.036183747363945695
-- negative: 0.034722723284011894
-- hiv: 0.03223116312966516
-- sarcoid: 0.02982790221172234
-- leukemia: 0.02982790221172234
-- symptoms: 0.028974931658478083
-- progression: 0.028919525391147363
-- ``: 0.028573265818119958
-- undergoing: 0.028507112997838275
-- bilateral: 0.02821520720155706
-- unusual: 0.028118280250627743
-- '': 0.028023802748057727
-- tb: 0.027993456178054977
-- remainder: 0.027401542048873826
-- 26: 0.026909564759216503
-- evident: 0.026600296908354207
-- this: 0.026153393559568246
-- frequently: 0.025194085956530304
-- resolution: 0.02507224291866275
-- via: 0.02495254385818398
-- stage: 0.02479615257774385
-- routine: 0.02330916118469386
-- minimal: 0.02288761884626393
-- classic: 0.02227384271298008
-- confirmed: 0.021859861245488416
-- diagnosed: 0.02137547725710888
-- involvement: 0.021305705147128002
-- weight: 0.020836365885312007
-- would: 0.02068684951307544
-- biopsy: 0.02062376354854939
-- sign: 0.020139091848735174
-- although: 0.01963217197671159
-- unremarkable: 0.019245349786952793
-- disease: 0.019003231853274887
-- radiographs: 0.01841000572246349
-- onset: 0.018349804257994217
-- will: 0.018186945703259468
-- examination: 0.018070905003228336
-- be: 0.01792866290263849
-- as: 0.017586088515566364
-- no: 0.017560084708240855
-- yo: 0.01749218723335212
-- patient: 0.017481467977885468
-- only: 0.01747899087404718
-- loss: 0.01687390593515945
-- lung: 0.016837817144481265
-- lymphoma: 0.016613596152309427
-- performed: 0.016208015858689244
-- evidence: 0.015241106009298488
-- these: 0.015128195183386666
-- metastatic: 0.014633397303510818
-- acute: 0.014352920606166634
-- 1: 0.013832152162991202
-- without: 0.013687164396994286
-- imaging: 0.013619549826228589
-- most: 0.013420647222639973
-- -: 0.012460737814342608
-- right: 0.01226709808313492
-- female: 0.011950750145903629
-- presents: 0.01187513126195868
-- treatment: 0.011766101765992429
-- seen: 0.011487262687535306
-- (: 0.009828050697195381
-- ): 0.009707995811065375
-- is: 0.0076502146719010285
-- or: 0.00681307992492318
-- and: 0.004898204237611386
-- ,: 0.003683130143092345
-- .: 0.0036224016425863547
-- of: 0.0031701714502853995
-- to: 0.002905225227503308
-- in: 0.0028666478240833666
-- with: 0.0015918935522433978
-- the: 0.0009404713245144612
+\-\ Texto\\:\\ \ \(0\)\
+\-\ minimal\\ fever\\.\\ \\ remainder\\ of\\ examination\\ unremarkable\\.\ \(0\)\
+\-\ this\\ patient\\ is\\ newly\\ diagnosed\\ and\\ undergoing\\ treatment\\.\\ \\ routine\\ surveillance\\ imaging\\ will\\ be\\ performed\\ to\\ document\\ progression\\ or\\ resolution\\.\ \(0\)\
+\-\ bilateral\\ hilar\\ adenopathy\\ with\\ right\\ paratracheal\\ adenopathy\\.\\ \\ no\\ parenchymal\\ disease\\ evident\\.\ \(0\)\
+\-\ sarcoid\\ \\-\\ confirmed\\ via\\ biopsy\\.\ \(0\)\
+\-\ sarcoidosis\ \(108\)\
+\-\ lymphoma\ \(373\)\
+\-\ tb\\ \\(although\\ this\\ patient\\ is\\ ppd\\ negative\\)\ \(0\)\
+\-\ metastatic\\ disease\ \(243\)\
+\-\ pneumoconiosis\\ \\(silicosis\\,\\ berylliosis\\)\ \(0\)\
+\-\ leukemia\ \(70\)\
+\-\ 26\\ yo\\ african\\-american\\ female\\ presents\\ with\\ fever\\ and\\ \\"flu\\-like\\"\\ symptoms\\.\\ \\ no\\ unusual\\ occupational\\ exposures\\.\\ \\ acute\\ onset\\ of\\ symptoms\\.\\ \\ no\\ weight\\ loss\\.\\ \\ non\\-smoker\\.\\ hiv\\ and\\ ppd\\ negative\\.\ \(0\)\
+\-\ these\\ radiographs\\ exhibit\\ the\\ classic\\ \\"1\\-2\\-3\\ sign\\"\\ of\\ bilateral\\ hilar\\ adenopathy\\ and\\ right\\ paratracheal\\ adenopathy\\ seen\\ most\\ frequently\\ in\\ sarcoidosis\\.\\ \\ as\\ this\\ patient\\ only\\ exhibits\\ adenopathy\\ without\\ evidence\\ of\\ lung\\ parenchymal\\ involvement\\,\\ this\\ would\\ be\\ categorized\\ as\\ stage\\ 1\\ sarcoidosis\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ adenopathy\\:\\ 0\\.12941779353300145\ \(0\)\
+\-\ sarcoidosis\\:\\ 0\\.07876921155847423\ \(0\)\
+\-\ ppd\\:\\ 0\\.0756111821217009\ \(0\)\
+\-\ paratracheal\\:\\ 0\\.07278615675056832\ \(0\)\
+\-\ hilar\\:\\ 0\\.05841809315533956\ \(0\)\
+\-\ parenchymal\\:\\ 0\\.05714827084524134\ \(0\)\
+\-\ flu\\-like\\:\\ 0\\.05525422614562281\ \(0\)\
+\-\ 1\\-2\\-3\\:\\ 0\\.05525422614562281\ \(0\)\
+\-\ berylliosis\\:\\ 0\\.04902095586076461\ \(0\)\
+\-\ exposures\\:\\ 0\\.04778067316148601\ \(0\)\
+\-\ non\\-smoker\\:\\ 0\\.04430566891817995\ \(0\)\
+\-\ categorized\\:\\ 0\\.04306538621890134\ \(0\)\
+\-\ document\\:\\ 0\\.04154740287662781\ \(0\)\
+\-\ pneumoconiosis\\:\\ 0\\.04069595292455974\ \(0\)\
+\-\ silicosis\\:\\ 0\\.04030712017734921\ \(0\)\
+\-\ fever\\:\\ 0\\.03933690648370022\ \(0\)\
+\-\ occupational\\:\\ 0\\.038942013405497834\ \(0\)\
+\-\ exhibits\\:\\ 0\\.038942013405497834\ \(0\)\
+\-\ newly\\:\\ 0\\.03863962046283911\ \(0\)\
+\-\ exhibit\\:\\ 0\\.03863962046283911\ \(0\)\
+\-\ african\\-american\\:\\ 0\\.03754885413579707\ \(0\)\
+\-\ surveillance\\:\\ 0\\.036183747363945695\ \(0\)\
+\-\ negative\\:\\ 0\\.034722723284011894\ \(0\)\
+\-\ hiv\\:\\ 0\\.03223116312966516\ \(0\)\
+\-\ sarcoid\\:\\ 0\\.02982790221172234\ \(0\)\
+\-\ leukemia\\:\\ 0\\.02982790221172234\ \(0\)\
+\-\ symptoms\\:\\ 0\\.028974931658478083\ \(0\)\
+\-\ progression\\:\\ 0\\.028919525391147363\ \(0\)\
+\-\ \\`\\`\\:\\ 0\\.028573265818119958\ \(0\)\
+\-\ undergoing\\:\\ 0\\.028507112997838275\ \(0\)\
+\-\ bilateral\\:\\ 0\\.02821520720155706\ \(0\)\
+\-\ unusual\\:\\ 0\\.028118280250627743\ \(0\)\
+\-\ \\'\\'\\:\\ 0\\.028023802748057727\ \(0\)\
+\-\ tb\\:\\ 0\\.027993456178054977\ \(0\)\
+\-\ remainder\\:\\ 0\\.027401542048873826\ \(0\)\
+\-\ 26\\:\\ 0\\.026909564759216503\ \(0\)\
+\-\ evident\\:\\ 0\\.026600296908354207\ \(0\)\
+\-\ this\\:\\ 0\\.026153393559568246\ \(0\)\
+\-\ frequently\\:\\ 0\\.025194085956530304\ \(0\)\
+\-\ resolution\\:\\ 0\\.02507224291866275\ \(0\)\
+\-\ via\\:\\ 0\\.02495254385818398\ \(0\)\
+\-\ stage\\:\\ 0\\.02479615257774385\ \(0\)\
+\-\ routine\\:\\ 0\\.02330916118469386\ \(0\)\
+\-\ minimal\\:\\ 0\\.02288761884626393\ \(0\)\
+\-\ classic\\:\\ 0\\.02227384271298008\ \(0\)\
+\-\ confirmed\\:\\ 0\\.021859861245488416\ \(0\)\
+\-\ diagnosed\\:\\ 0\\.02137547725710888\ \(0\)\
+\-\ involvement\\:\\ 0\\.021305705147128002\ \(0\)\
+\-\ weight\\:\\ 0\\.020836365885312007\ \(0\)\
+\-\ would\\:\\ 0\\.02068684951307544\ \(0\)\
+\-\ biopsy\\:\\ 0\\.02062376354854939\ \(0\)\
+\-\ sign\\:\\ 0\\.020139091848735174\ \(0\)\
+\-\ although\\:\\ 0\\.01963217197671159\ \(0\)\
+\-\ unremarkable\\:\\ 0\\.019245349786952793\ \(0\)\
+\-\ disease\\:\\ 0\\.019003231853274887\ \(0\)\
+\-\ radiographs\\:\\ 0\\.01841000572246349\ \(0\)\
+\-\ onset\\:\\ 0\\.018349804257994217\ \(0\)\
+\-\ will\\:\\ 0\\.018186945703259468\ \(0\)\
+\-\ examination\\:\\ 0\\.018070905003228336\ \(0\)\
+\-\ be\\:\\ 0\\.01792866290263849\ \(0\)\
+\-\ as\\:\\ 0\\.017586088515566364\ \(0\)\
+\-\ no\\:\\ 0\\.017560084708240855\ \(0\)\
+\-\ yo\\:\\ 0\\.01749218723335212\ \(0\)\
+\-\ patient\\:\\ 0\\.017481467977885468\ \(0\)\
+\-\ only\\:\\ 0\\.01747899087404718\ \(0\)\
+\-\ loss\\:\\ 0\\.01687390593515945\ \(0\)\
+\-\ lung\\:\\ 0\\.016837817144481265\ \(0\)\
+\-\ lymphoma\\:\\ 0\\.016613596152309427\ \(0\)\
+\-\ performed\\:\\ 0\\.016208015858689244\ \(0\)\
+\-\ evidence\\:\\ 0\\.015241106009298488\ \(0\)\
+\-\ these\\:\\ 0\\.015128195183386666\ \(0\)\
+\-\ metastatic\\:\\ 0\\.014633397303510818\ \(0\)\
+\-\ acute\\:\\ 0\\.014352920606166634\ \(0\)\
+\-\ 1\\:\\ 0\\.013832152162991202\ \(0\)\
+\-\ without\\:\\ 0\\.013687164396994286\ \(0\)\
+\-\ imaging\\:\\ 0\\.013619549826228589\ \(0\)\
+\-\ most\\:\\ 0\\.013420647222639973\ \(0\)\
+\-\ \\-\\:\\ 0\\.012460737814342608\ \(0\)\
+\-\ right\\:\\ 0\\.01226709808313492\ \(0\)\
+\-\ female\\:\\ 0\\.011950750145903629\ \(0\)\
+\-\ presents\\:\\ 0\\.01187513126195868\ \(0\)\
+\-\ treatment\\:\\ 0\\.011766101765992429\ \(0\)\
+\-\ seen\\:\\ 0\\.011487262687535306\ \(0\)\
+\-\ \\(\\:\\ 0\\.009828050697195381\ \(0\)\
+\-\ \\)\\:\\ 0\\.009707995811065375\ \(0\)\
+\-\ is\\:\\ 0\\.0076502146719010285\ \(0\)\
+\-\ or\\:\\ 0\\.00681307992492318\ \(0\)\
+\-\ and\\:\\ 0\\.004898204237611386\ \(0\)\
+\-\ \\,\\:\\ 0\\.003683130143092345\ \(0\)\
+\-\ \\.\\:\\ 0\\.0036224016425863547\ \(0\)\
+\-\ of\\:\\ 0\\.0031701714502853995\ \(0\)\
+\-\ to\\:\\ 0\\.002905225227503308\ \(0\)\
+\-\ in\\:\\ 0\\.0028666478240833666\ \(0\)\
+\-\ with\\:\\ 0\\.0015918935522433978\ \(0\)\
+\-\ the\\:\\ 0\\.0009404713245144612\ \(0\)\

@@ -1,97 +1,94 @@
-Texto: 
-objective findings c/w constipation vs ibd.  no cv or resp findings noted.  recent labs unremarkable.
-no treatment required for asymptomatic cyst.  continue to follow, and consider resection if pt becomes symptomatic.
-chest - sharply marginated, well-circumscribed ovoid mass appx 6cm in length.  no mediastinal/tracheal shift.  heart size is normal.  pulmonary vasculature is normal.  lungs are clear.  no free air under the diaphragm.  
-
-abdomen shows no evidence of osseous abnormality or intraabdominal calcification or mass.
-bronchogenic cyst.
-posterior mediastinal mass:  neurogenic tumor, (schwannoma, neurofibroma, ganglioneuroma, ganglioneuroblastoma), bronchogenic cyst, esophageal tumor, aortic aneurysm.
-17 y.o. girl with a h/o acute intermittent severe abdominal pain.  acute abdominal series obtained in order to evaluate for constipation vs obstruction vs ibd.
-
-
-Keywords by value: 
-- ibd: 0.26650225013718243
-- vs: 0.2491474869561474
-- constipation: 0.23681927150540022
-- bronchogenic: 0.2093457721580579
-- cyst: 0.1883927071948386
-- no: 0.1770008686979398
-- mediastinal: 0.17580604253418666
-- appx: 0.17409152948912357
-- ganglioneuroblastoma: 0.15018416290900305
-- objective: 0.14763588838803549
-- intraabdominal: 0.136956342358459
-- ganglioneuroma: 0.13014966076814286
-- resp: 0.1251427769394474
-- mass: 0.12474533672088878
-- 6cm: 0.12442255142302462
-- sharply: 0.12305884919816668
-- abdominal: 0.1190773157112224
-- neurogenic: 0.11840963575270011
-- acute: 0.11777866331411911
-- marginated: 0.11467410279146895
-- tumor: 0.11388064375441555
-- or: 0.11361181747518442
-- ovoid: 0.10855830972315854
-- cv: 0.10825296383124103
-- neurofibroma: 0.10765654931955478
-- findings: 0.10745397905224832
-- consider: 0.10707821078469715
-- vasculature: 0.10707821078469715
-- continue: 0.10679548396750309
-- diaphragm: 0.10544146153545224
-- becomes: 0.10417717740056638
-- order: 0.10061642492707921
-- series: 0.09982115522779442
-- length: 0.09924572335825503
-- shift: 0.0956408002554303
-- schwannoma: 0.09328906414625235
-- esophageal: 0.09301447363747828
-- under: 0.0901116927407681
-- intermittent: 0.08897542198447964
-- normal: 0.08889396875826516
-- 17: 0.0888654291087416
-- osseous: 0.08688769081297007
-- free: 0.08473908977139244
-- evaluate: 0.084650943143038
-- aortic: 0.08413044603076475
-- symptomatic: 0.08370728654014795
-- aneurysm: 0.08288811738738255
-- lungs: 0.08033984286641498
-- abnormality: 0.07918290009751475
-- clear: 0.07892057691402926
-- pt: 0.07834321052512382
-- required: 0.07772153629947827
-- calcification: 0.07772153629947827
-- obtained: 0.07700131078305548
-- girl: 0.07636416261426049
-- obstruction: 0.07625056876035377
-- heart: 0.07569252575036917
-- labs: 0.07541950662873502
-- asymptomatic: 0.07411009664849048
-- recent: 0.07370937408035406
-- size: 0.07370937408035406
-- unremarkable: 0.07297997149661808
-- air: 0.07120452099133905
-- resection: 0.06978095294651399
-- severe: 0.06891336213325662
-- abdomen: 0.06642300483765415
-- pulmonary: 0.06635545180743396
-- for: 0.06598952284042459
-- shows: 0.06389165600392471
-- if: 0.06325061612439405
-- evidence: 0.061789344167030094
-- is: 0.05962433771309756
-- follow: 0.058685225849317194
-- noted: 0.05771764156070443
-- chest: 0.057462052323615655
-- posterior: 0.05629266825359676
-- to: 0.054429788248250136
-- in: 0.05416188494322022
-- treatment: 0.05185600000226225
-- are: 0.04130758293836626
-- pain: 0.03895426871741714
-- and: 0.02249467546531516
-- the: 0.02172160067282259
-- with: 0.02131623350986427
-- of: 0.02130350467089975
+\-\ Texto\\:\\ \ \(0\)\
+\-\ objective\\ findings\\ c\\/w\\ constipation\\ vs\\ ibd\\.\\ \\ no\\ cv\\ or\\ resp\\ findings\\ noted\\.\\ \\ recent\\ labs\\ unremarkable\\.\ \(0\)\
+\-\ no\\ treatment\\ required\\ for\\ asymptomatic\\ cyst\\.\\ \\ continue\\ to\\ follow\\,\\ and\\ consider\\ resection\\ if\\ pt\\ becomes\\ symptomatic\\.\ \(0\)\
+\-\ chest\\ \\-\\ sharply\\ marginated\\,\\ well\\-circumscribed\\ ovoid\\ mass\\ appx\\ 6cm\\ in\\ length\\.\\ \\ no\\ mediastinal\\/tracheal\\ shift\\.\\ \\ heart\\ size\\ is\\ normal\\.\\ \\ pulmonary\\ vasculature\\ is\\ normal\\.\\ \\ lungs\\ are\\ clear\\.\\ \\ no\\ free\\ air\\ under\\ the\\ diaphragm\\.\\ \\ \ \(0\)\
+\-\ abdomen\\ shows\\ no\\ evidence\\ of\\ osseous\\ abnormality\\ or\\ intraabdominal\\ calcification\\ or\\ mass\\.\ \(0\)\
+\-\ bronchogenic\\ cyst\\.\ \(0\)\
+\-\ posterior\\ mediastinal\\ mass\\:\\ \\ neurogenic\\ tumor\\,\\ \\(schwannoma\\,\\ neurofibroma\\,\\ ganglioneuroma\\,\\ ganglioneuroblastoma\\)\\,\\ bronchogenic\\ cyst\\,\\ esophageal\\ tumor\\,\\ aortic\\ aneurysm\\.\ \(0\)\
+\-\ 17\\ y\\.o\\.\\ girl\\ with\\ a\\ h\\/o\\ acute\\ intermittent\\ severe\\ abdominal\\ pain\\.\\ \\ acute\\ abdominal\\ series\\ obtained\\ in\\ order\\ to\\ evaluate\\ for\\ constipation\\ vs\\ obstruction\\ vs\\ ibd\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ ibd\\:\\ 0\\.26650225013718243\ \(0\)\
+\-\ vs\\:\\ 0\\.2491474869561474\ \(0\)\
+\-\ constipation\\:\\ 0\\.23681927150540022\ \(0\)\
+\-\ bronchogenic\\:\\ 0\\.2093457721580579\ \(0\)\
+\-\ cyst\\:\\ 0\\.1883927071948386\ \(0\)\
+\-\ no\\:\\ 0\\.1770008686979398\ \(0\)\
+\-\ mediastinal\\:\\ 0\\.17580604253418666\ \(0\)\
+\-\ appx\\:\\ 0\\.17409152948912357\ \(0\)\
+\-\ ganglioneuroblastoma\\:\\ 0\\.15018416290900305\ \(0\)\
+\-\ objective\\:\\ 0\\.14763588838803549\ \(0\)\
+\-\ intraabdominal\\:\\ 0\\.136956342358459\ \(0\)\
+\-\ ganglioneuroma\\:\\ 0\\.13014966076814286\ \(0\)\
+\-\ resp\\:\\ 0\\.1251427769394474\ \(0\)\
+\-\ mass\\:\\ 0\\.12474533672088878\ \(0\)\
+\-\ 6cm\\:\\ 0\\.12442255142302462\ \(0\)\
+\-\ sharply\\:\\ 0\\.12305884919816668\ \(0\)\
+\-\ abdominal\\:\\ 0\\.1190773157112224\ \(0\)\
+\-\ neurogenic\\:\\ 0\\.11840963575270011\ \(0\)\
+\-\ acute\\:\\ 0\\.11777866331411911\ \(0\)\
+\-\ marginated\\:\\ 0\\.11467410279146895\ \(0\)\
+\-\ tumor\\:\\ 0\\.11388064375441555\ \(0\)\
+\-\ or\\:\\ 0\\.11361181747518442\ \(0\)\
+\-\ ovoid\\:\\ 0\\.10855830972315854\ \(0\)\
+\-\ cv\\:\\ 0\\.10825296383124103\ \(0\)\
+\-\ neurofibroma\\:\\ 0\\.10765654931955478\ \(0\)\
+\-\ findings\\:\\ 0\\.10745397905224832\ \(0\)\
+\-\ consider\\:\\ 0\\.10707821078469715\ \(0\)\
+\-\ vasculature\\:\\ 0\\.10707821078469715\ \(0\)\
+\-\ continue\\:\\ 0\\.10679548396750309\ \(0\)\
+\-\ diaphragm\\:\\ 0\\.10544146153545224\ \(0\)\
+\-\ becomes\\:\\ 0\\.10417717740056638\ \(0\)\
+\-\ order\\:\\ 0\\.10061642492707921\ \(0\)\
+\-\ series\\:\\ 0\\.09982115522779442\ \(0\)\
+\-\ length\\:\\ 0\\.09924572335825503\ \(0\)\
+\-\ shift\\:\\ 0\\.0956408002554303\ \(0\)\
+\-\ schwannoma\\:\\ 0\\.09328906414625235\ \(0\)\
+\-\ esophageal\\:\\ 0\\.09301447363747828\ \(0\)\
+\-\ under\\:\\ 0\\.0901116927407681\ \(0\)\
+\-\ intermittent\\:\\ 0\\.08897542198447964\ \(0\)\
+\-\ normal\\:\\ 0\\.08889396875826516\ \(0\)\
+\-\ 17\\:\\ 0\\.0888654291087416\ \(0\)\
+\-\ osseous\\:\\ 0\\.08688769081297007\ \(0\)\
+\-\ free\\:\\ 0\\.08473908977139244\ \(0\)\
+\-\ evaluate\\:\\ 0\\.084650943143038\ \(0\)\
+\-\ aortic\\:\\ 0\\.08413044603076475\ \(0\)\
+\-\ symptomatic\\:\\ 0\\.08370728654014795\ \(0\)\
+\-\ aneurysm\\:\\ 0\\.08288811738738255\ \(0\)\
+\-\ lungs\\:\\ 0\\.08033984286641498\ \(0\)\
+\-\ abnormality\\:\\ 0\\.07918290009751475\ \(0\)\
+\-\ clear\\:\\ 0\\.07892057691402926\ \(0\)\
+\-\ pt\\:\\ 0\\.07834321052512382\ \(0\)\
+\-\ required\\:\\ 0\\.07772153629947827\ \(0\)\
+\-\ calcification\\:\\ 0\\.07772153629947827\ \(0\)\
+\-\ obtained\\:\\ 0\\.07700131078305548\ \(0\)\
+\-\ girl\\:\\ 0\\.07636416261426049\ \(0\)\
+\-\ obstruction\\:\\ 0\\.07625056876035377\ \(0\)\
+\-\ heart\\:\\ 0\\.07569252575036917\ \(0\)\
+\-\ labs\\:\\ 0\\.07541950662873502\ \(0\)\
+\-\ asymptomatic\\:\\ 0\\.07411009664849048\ \(0\)\
+\-\ recent\\:\\ 0\\.07370937408035406\ \(0\)\
+\-\ size\\:\\ 0\\.07370937408035406\ \(0\)\
+\-\ unremarkable\\:\\ 0\\.07297997149661808\ \(0\)\
+\-\ air\\:\\ 0\\.07120452099133905\ \(0\)\
+\-\ resection\\:\\ 0\\.06978095294651399\ \(0\)\
+\-\ severe\\:\\ 0\\.06891336213325662\ \(0\)\
+\-\ abdomen\\:\\ 0\\.06642300483765415\ \(0\)\
+\-\ pulmonary\\:\\ 0\\.06635545180743396\ \(0\)\
+\-\ for\\:\\ 0\\.06598952284042459\ \(0\)\
+\-\ shows\\:\\ 0\\.06389165600392471\ \(0\)\
+\-\ if\\:\\ 0\\.06325061612439405\ \(0\)\
+\-\ evidence\\:\\ 0\\.061789344167030094\ \(0\)\
+\-\ is\\:\\ 0\\.05962433771309756\ \(0\)\
+\-\ follow\\:\\ 0\\.058685225849317194\ \(0\)\
+\-\ noted\\:\\ 0\\.05771764156070443\ \(0\)\
+\-\ chest\\:\\ 0\\.057462052323615655\ \(0\)\
+\-\ posterior\\:\\ 0\\.05629266825359676\ \(0\)\
+\-\ to\\:\\ 0\\.054429788248250136\ \(0\)\
+\-\ in\\:\\ 0\\.05416188494322022\ \(0\)\
+\-\ treatment\\:\\ 0\\.05185600000226225\ \(0\)\
+\-\ are\\:\\ 0\\.04130758293836626\ \(0\)\
+\-\ pain\\:\\ 0\\.03895426871741714\ \(0\)\
+\-\ and\\:\\ 0\\.02249467546531516\ \(0\)\
+\-\ the\\:\\ 0\\.02172160067282259\ \(0\)\
+\-\ with\\:\\ 0\\.02131623350986427\ \(0\)\
+\-\ of\\:\\ 0\\.02130350467089975\ \(0\)\

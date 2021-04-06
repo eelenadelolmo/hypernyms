@@ -1,71 +1,68 @@
-Texto: 
-patient currently on steroids.
-pa and lateral radiographs demonstrate large adenopathy of the right paratracheal area, ap window, and bilateral hilar areas.
-
-ct of the chest and upper abdomen demonstrates diffuse mediastinal and hilar adenopathy and scattered low attenuation lesions within the liver and spleen.
-sarcoidosis (histology)
-ddx. includes lymphoma, metastatic neoplastic disease, and sarcoid.
-37 year old african-american female with vague constitutional symptoms including cough, dyspnea, fatigue, anorexia and mild weight loss.
-
-
-Keywords by value: 
-- hilar: 0.2919338165222229
-- adenopathy: 0.2678057624537618
-- and: 0.2631488864272229
-- anorexia: 0.19031580580494595
-- constitutional: 0.18194114371580736
-- paratracheal: 0.1763412651802396
-- histology: 0.1689548047430184
-- window: 0.1636514838461491
-- vague: 0.15575796835165726
-- spleen: 0.15496060521565103
-- fatigue: 0.15418539394520428
-- ddx: 0.15128347663564382
-- sarcoid: 0.14928935628012338
-- neoplastic: 0.14712981865794508
-- dyspnea: 0.14008371956450832
-- steroids: 0.13985404080974329
-- scattered: 0.13851430460455444
-- 37: 0.13561777087968768
-- sarcoidosis: 0.13484255960924094
-- mediastinal: 0.12853920806554311
-- includes: 0.12378374527703216
-- currently: 0.12228172475728236
-- pa: 0.12216013061643217
-- attenuation: 0.12179849517307183
-- cough: 0.11884635034439886
-- ap: 0.11428420466628139
-- including: 0.11392060589149777
-- weight: 0.11100754141746326
-- liver: 0.10981310183984323
-- areas: 0.10807550775361645
-- radiographs: 0.10324521414671739
-- area: 0.10312228085903904
-- diffuse: 0.09982863593262774
-- abdomen: 0.09712931724181822
-- loss: 0.09698127545603227
-- the: 0.09528946701104357
-- lymphoma: 0.09480446501317451
-- lesions: 0.0914216941277172
-- low: 0.09134115782023598
-- mild: 0.09023739429289454
-- metastatic: 0.0873049548502867
-- symptoms: 0.08709696026373097
-- bilateral: 0.08555183963013174
-- upper: 0.0850659455581783
-- chest: 0.08402585705280381
-- demonstrate: 0.08275581765103211
-- demonstrates: 0.07997276304198511
-- large: 0.07975953708635393
-- lateral: 0.07899997022849205
-- female: 0.07681405660135089
-- within: 0.07331565649636453
-- disease: 0.06682016616028905
-- of: 0.06230356090031581
-- ct: 0.060603186192069794
-- right: 0.052776380938128184
-- patient: 0.05177485688346072
-- year: 0.04905765226413377
-- on: 0.04807657232872254
-- old: 0.04711232790132797
-- with: 0.031170393631553814
+\-\ Texto\\:\\ \ \(0\)\
+\-\ patient\\ currently\\ on\\ steroids\\.\ \(0\)\
+\-\ pa\\ and\\ lateral\\ radiographs\\ demonstrate\\ large\\ adenopathy\\ of\\ the\\ right\\ paratracheal\\ area\\,\\ ap\\ window\\,\\ and\\ bilateral\\ hilar\\ areas\\.\ \(0\)\
+\-\ ct\\ of\\ the\\ chest\\ and\\ upper\\ abdomen\\ demonstrates\\ diffuse\\ mediastinal\\ and\\ hilar\\ adenopathy\\ and\\ scattered\\ low\\ attenuation\\ lesions\\ within\\ the\\ liver\\ and\\ spleen\\.\ \(0\)\
+\-\ sarcoidosis\\ \\(histology\\)\ \(0\)\
+\-\ ddx\\.\\ includes\\ lymphoma\\,\\ metastatic\\ neoplastic\\ disease\\,\\ and\\ sarcoid\\.\ \(0\)\
+\-\ 37\\ year\\ old\\ african\\-american\\ female\\ with\\ vague\\ constitutional\\ symptoms\\ including\\ cough\\,\\ dyspnea\\,\\ fatigue\\,\\ anorexia\\ and\\ mild\\ weight\\ loss\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ hilar\\:\\ 0\\.2919338165222229\ \(0\)\
+\-\ adenopathy\\:\\ 0\\.2678057624537618\ \(0\)\
+\-\ and\\:\\ 0\\.2631488864272229\ \(0\)\
+\-\ anorexia\\:\\ 0\\.19031580580494595\ \(0\)\
+\-\ constitutional\\:\\ 0\\.18194114371580736\ \(0\)\
+\-\ paratracheal\\:\\ 0\\.1763412651802396\ \(0\)\
+\-\ histology\\:\\ 0\\.1689548047430184\ \(0\)\
+\-\ window\\:\\ 0\\.1636514838461491\ \(0\)\
+\-\ vague\\:\\ 0\\.15575796835165726\ \(0\)\
+\-\ spleen\\:\\ 0\\.15496060521565103\ \(0\)\
+\-\ fatigue\\:\\ 0\\.15418539394520428\ \(0\)\
+\-\ ddx\\:\\ 0\\.15128347663564382\ \(0\)\
+\-\ sarcoid\\:\\ 0\\.14928935628012338\ \(0\)\
+\-\ neoplastic\\:\\ 0\\.14712981865794508\ \(0\)\
+\-\ dyspnea\\:\\ 0\\.14008371956450832\ \(0\)\
+\-\ steroids\\:\\ 0\\.13985404080974329\ \(0\)\
+\-\ scattered\\:\\ 0\\.13851430460455444\ \(0\)\
+\-\ 37\\:\\ 0\\.13561777087968768\ \(0\)\
+\-\ sarcoidosis\\:\\ 0\\.13484255960924094\ \(0\)\
+\-\ mediastinal\\:\\ 0\\.12853920806554311\ \(0\)\
+\-\ includes\\:\\ 0\\.12378374527703216\ \(0\)\
+\-\ currently\\:\\ 0\\.12228172475728236\ \(0\)\
+\-\ pa\\:\\ 0\\.12216013061643217\ \(0\)\
+\-\ attenuation\\:\\ 0\\.12179849517307183\ \(0\)\
+\-\ cough\\:\\ 0\\.11884635034439886\ \(0\)\
+\-\ ap\\:\\ 0\\.11428420466628139\ \(0\)\
+\-\ including\\:\\ 0\\.11392060589149777\ \(0\)\
+\-\ weight\\:\\ 0\\.11100754141746326\ \(0\)\
+\-\ liver\\:\\ 0\\.10981310183984323\ \(0\)\
+\-\ areas\\:\\ 0\\.10807550775361645\ \(0\)\
+\-\ radiographs\\:\\ 0\\.10324521414671739\ \(0\)\
+\-\ area\\:\\ 0\\.10312228085903904\ \(0\)\
+\-\ diffuse\\:\\ 0\\.09982863593262774\ \(0\)\
+\-\ abdomen\\:\\ 0\\.09712931724181822\ \(0\)\
+\-\ loss\\:\\ 0\\.09698127545603227\ \(0\)\
+\-\ the\\:\\ 0\\.09528946701104357\ \(0\)\
+\-\ lymphoma\\:\\ 0\\.09480446501317451\ \(0\)\
+\-\ lesions\\:\\ 0\\.0914216941277172\ \(0\)\
+\-\ low\\:\\ 0\\.09134115782023598\ \(0\)\
+\-\ mild\\:\\ 0\\.09023739429289454\ \(0\)\
+\-\ metastatic\\:\\ 0\\.0873049548502867\ \(0\)\
+\-\ symptoms\\:\\ 0\\.08709696026373097\ \(0\)\
+\-\ bilateral\\:\\ 0\\.08555183963013174\ \(0\)\
+\-\ upper\\:\\ 0\\.0850659455581783\ \(0\)\
+\-\ chest\\:\\ 0\\.08402585705280381\ \(0\)\
+\-\ demonstrate\\:\\ 0\\.08275581765103211\ \(0\)\
+\-\ demonstrates\\:\\ 0\\.07997276304198511\ \(0\)\
+\-\ large\\:\\ 0\\.07975953708635393\ \(0\)\
+\-\ lateral\\:\\ 0\\.07899997022849205\ \(0\)\
+\-\ female\\:\\ 0\\.07681405660135089\ \(0\)\
+\-\ within\\:\\ 0\\.07331565649636453\ \(0\)\
+\-\ disease\\:\\ 0\\.06682016616028905\ \(0\)\
+\-\ of\\:\\ 0\\.06230356090031581\ \(0\)\
+\-\ ct\\:\\ 0\\.060603186192069794\ \(0\)\
+\-\ right\\:\\ 0\\.052776380938128184\ \(0\)\
+\-\ patient\\:\\ 0\\.05177485688346072\ \(0\)\
+\-\ year\\:\\ 0\\.04905765226413377\ \(0\)\
+\-\ on\\:\\ 0\\.04807657232872254\ \(0\)\
+\-\ old\\:\\ 0\\.04711232790132797\ \(0\)\
+\-\ with\\:\\ 0\\.031170393631553814\ \(0\)\

@@ -1,89 +1,87 @@
-Texto: 
-tenderness to palpation over the left lower lateral chest wall.  a single cutaneous laceration was noted in the left lower lateral chest wall.
-she underwent diaphragmatic repair; the diaphragmatic tear was felt to have been caused by a puncture of the displaced rib fracture into the diaphragm; no foreign bodies were found.
-chest radiographs demonstrate left subpulmonic effusion with partial lll atelectasis.  chest ct images demonstrate a left diaphragmatic laceration with abdominal fat herniating into the left pleural space and a displaced left rib fracture.  a left pleural effusion is noted.
-diaphragm tear from displaced rib fracture
-left diaphragm injury (tear) from rib fracture or other penetrating trauma; left hemothorax
-53 y/o white female involved in high speed mvc.  she sustained trauma to the left lower lateral chest wall.  she is complaining of pain in that region as well as mild shortness of breath.
-
-
-Keywords by value: 
-- rib: 0.32149660300496136
-- left: 0.30016080651729665
-- diaphragmatic: 0.270502263150783
-- diaphragm: 0.25568609787225405
-- chest: 0.23223388156812566
-- displaced: 0.22054404233722225
-- tear: 0.21879755998388106
-- fracture: 0.20003615197383204
-- laceration: 0.18979773458929325
-- wall: 0.16058013523072975
-- she: 0.15713909662341832
-- lower: 0.13489243041140278
-- pleural: 0.13247994456123383
-- lateral: 0.1310058858553485
-- effusion: 0.1306822986437026
-- subpulmonic: 0.12658460899522261
-- the: 0.1229035164563538
-- herniating: 0.1193346009502735
-- lll: 0.10770734683724763
-- mvc: 0.10520042247965006
-- speed: 0.10304453443209663
-- trauma: 0.10220509717527844
-- hemothorax: 0.09795041443470093
-- puncture: 0.09613356047245027
-- into: 0.09355034643794702
-- noted: 0.09330673996195858
-- penetrating: 0.0926914752596131
-- demonstrate: 0.09148947921288426
-- cutaneous: 0.09137787945494186
-- sustained: 0.08987908686243178
-- 53: 0.08234603546486896
-- foreign: 0.07976915438909254
-- complaining: 0.07962154149307261
-- atelectasis: 0.0783529834719863
-- felt: 0.07730679076518855
-- bodies: 0.07705596524002259
-- as: 0.07069923133763617
-- caused: 0.07055467948587282
-- involved: 0.07055467948587282
-- shortness: 0.07055467948587282
-- from: 0.06989359422719191
-- repair: 0.06807225939064795
-- partial: 0.06779679796491078
-- single: 0.0676608902142
-- to: 0.06599368010717918
-- in: 0.06566885935036926
-- breath: 0.06449182858751853
-- was: 0.06133235092849069
-- underwent: 0.06061519548625426
-- palpation: 0.05934100054571191
-- space: 0.05857149287805462
-- white: 0.0580548033804282
-- injury: 0.05738016613286166
-- radiographs: 0.05707061534536163
-- found: 0.05693500629685587
-- tenderness: 0.0551820414035558
-- fat: 0.05473661786921044
-- region: 0.05263299569759383
-- of: 0.051659090276117474
-- been: 0.05126529012644077
-- high: 0.05000903799345801
-- mild: 0.049880313213736045
-- over: 0.048927567793537324
-- is: 0.048194559098094364
-- abdominal: 0.0481253037719386
-- other: 0.045695795842737294
-- were: 0.04535746997946443
-- have: 0.04395696280627874
-- well: 0.04260628840599435
-- female: 0.04246032625960623
-- images: 0.04070228071749785
-- that: 0.03818534309767283
-- by: 0.03736661897722226
-- with: 0.03445997104683185
-- ct: 0.033499481370206564
-- pain: 0.031486870593989136
-- or: 0.030610942117276274
-- no: 0.02861408328902252
-- and: 0.01818252424575675
+\-\ Texto\\:\\ \ \(0\)\
+\-\ tenderness\\ to\\ palpation\\ over\\ the\\ left\\ lower\\ lateral\\ chest\\ wall\\.\\ \\ a\\ single\\ cutaneous\\ laceration\\ was\\ noted\\ in\\ the\\ left\\ lower\\ lateral\\ chest\\ wall\\.\ \(0\)\
+\-\ she\\ underwent\\ diaphragmatic\\ repair\\;\\ the\\ diaphragmatic\\ tear\\ was\\ felt\\ to\\ have\\ been\\ caused\\ by\\ a\\ puncture\\ of\\ the\\ displaced\\ rib\\ fracture\\ into\\ the\\ diaphragm\\;\\ no\\ foreign\\ bodies\\ were\\ found\\.\ \(0\)\
+\-\ chest\\ radiographs\\ demonstrate\\ left\\ subpulmonic\\ effusion\\ with\\ partial\\ lll\\ atelectasis\\.\\ \\ chest\\ ct\\ images\\ demonstrate\\ a\\ left\\ diaphragmatic\\ laceration\\ with\\ abdominal\\ fat\\ herniating\\ into\\ the\\ left\\ pleural\\ space\\ and\\ a\\ displaced\\ left\\ rib\\ fracture\\.\\ \\ a\\ left\\ pleural\\ effusion\\ is\\ noted\\.\ \(0\)\
+\-\ diaphragm\\ tear\\ from\\ displaced\\ rib\\ fracture\ \(0\)\
+\-\ left\\ diaphragm\\ injury\\ \\(tear\\)\\ from\\ rib\\ fracture\\ or\\ other\\ penetrating\\ trauma\\;\\ left\\ hemothorax\ \(0\)\
+\-\ 53\\ y\\/o\\ white\\ female\\ involved\\ in\\ high\\ speed\\ mvc\\.\\ \\ she\\ sustained\\ trauma\\ to\\ the\\ left\\ lower\\ lateral\\ chest\\ wall\\.\\ \\ she\\ is\\ complaining\\ of\\ pain\\ in\\ that\\ region\\ as\\ well\\ as\\ mild\\ shortness\\ of\\ breath\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ rib\\:\\ 0\\.32149660300496136\ \(0\)\
+\-\ left\\:\\ 0\\.30016080651729665\ \(0\)\
+\-\ diaphragmatic\\:\\ 0\\.270502263150783\ \(0\)\
+\-\ diaphragm\\:\\ 0\\.25568609787225405\ \(0\)\
+\-\ chest\\:\\ 0\\.23223388156812566\ \(0\)\
+\-\ displaced\\:\\ 0\\.22054404233722225\ \(0\)\
+\-\ tear\\:\\ 0\\.21879755998388106\ \(0\)\
+\-\ fracture\\:\\ 0\\.20003615197383204\ \(0\)\
+\-\ laceration\\:\\ 0\\.18979773458929325\ \(0\)\
+\-\ wall\\:\\ 0\\.16058013523072975\ \(0\)\
+\-\ she\\:\\ 0\\.15713909662341832\ \(0\)\
+\-\ lower\\:\\ 0\\.13489243041140278\ \(0\)\
+\-\ pleural\\:\\ 0\\.13247994456123383\ \(0\)\
+\-\ lateral\\:\\ 0\\.1310058858553485\ \(0\)\
+\-\ effusion\\:\\ 0\\.1306822986437026\ \(0\)\
+\-\ subpulmonic\\:\\ 0\\.12658460899522261\ \(0\)\
+\-\ the\\:\\ 0\\.1229035164563538\ \(0\)\
+\-\ herniating\\:\\ 0\\.1193346009502735\ \(0\)\
+\-\ lll\\:\\ 0\\.10770734683724763\ \(0\)\
+\-\ mvc\\:\\ 0\\.10520042247965006\ \(0\)\
+\-\ speed\\:\\ 0\\.10304453443209663\ \(0\)\
+\-\ trauma\\:\\ 0\\.10220509717527844\ \(0\)\
+\-\ hemothorax\\:\\ 0\\.09795041443470093\ \(0\)\
+\-\ puncture\\:\\ 0\\.09613356047245027\ \(0\)\
+\-\ into\\:\\ 0\\.09355034643794702\ \(0\)\
+\-\ noted\\:\\ 0\\.09330673996195858\ \(0\)\
+\-\ penetrating\\:\\ 0\\.0926914752596131\ \(0\)\
+\-\ demonstrate\\:\\ 0\\.09148947921288426\ \(0\)\
+\-\ cutaneous\\:\\ 0\\.09137787945494186\ \(0\)\
+\-\ sustained\\:\\ 0\\.08987908686243178\ \(0\)\
+\-\ 53\\:\\ 0\\.08234603546486896\ \(0\)\
+\-\ foreign\\:\\ 0\\.07976915438909254\ \(0\)\
+\-\ complaining\\:\\ 0\\.07962154149307261\ \(0\)\
+\-\ atelectasis\\:\\ 0\\.0783529834719863\ \(0\)\
+\-\ felt\\:\\ 0\\.07730679076518855\ \(0\)\
+\-\ bodies\\:\\ 0\\.07705596524002259\ \(0\)\
+\-\ as\\:\\ 0\\.07069923133763617\ \(0\)\
+\-\ caused\\:\\ 0\\.07055467948587282\ \(0\)\
+\-\ involved\\:\\ 0\\.07055467948587282\ \(0\)\
+\-\ shortness\\:\\ 0\\.07055467948587282\ \(0\)\
+\-\ from\\:\\ 0\\.06989359422719191\ \(0\)\
+\-\ repair\\:\\ 0\\.06807225939064795\ \(0\)\
+\-\ partial\\:\\ 0\\.06779679796491078\ \(0\)\
+\-\ single\\:\\ 0\\.0676608902142\ \(0\)\
+\-\ to\\:\\ 0\\.06599368010717918\ \(0\)\
+\-\ in\\:\\ 0\\.06566885935036926\ \(0\)\
+\-\ breath\\:\\ 0\\.06449182858751853\ \(0\)\
+\-\ was\\:\\ 0\\.06133235092849069\ \(0\)\
+\-\ underwent\\:\\ 0\\.06061519548625426\ \(0\)\
+\-\ palpation\\:\\ 0\\.05934100054571191\ \(0\)\
+\-\ space\\:\\ 0\\.05857149287805462\ \(0\)\
+\-\ white\\:\\ 0\\.0580548033804282\ \(0\)\
+\-\ injury\\:\\ 0\\.05738016613286166\ \(0\)\
+\-\ radiographs\\:\\ 0\\.05707061534536163\ \(0\)\
+\-\ found\\:\\ 0\\.05693500629685587\ \(0\)\
+\-\ tenderness\\:\\ 0\\.0551820414035558\ \(0\)\
+\-\ fat\\:\\ 0\\.05473661786921044\ \(0\)\
+\-\ region\\:\\ 0\\.05263299569759383\ \(0\)\
+\-\ of\\:\\ 0\\.051659090276117474\ \(0\)\
+\-\ been\\:\\ 0\\.05126529012644077\ \(0\)\
+\-\ high\\:\\ 0\\.05000903799345801\ \(0\)\
+\-\ mild\\:\\ 0\\.049880313213736045\ \(0\)\
+\-\ over\\:\\ 0\\.048927567793537324\ \(0\)\
+\-\ is\\:\\ 0\\.048194559098094364\ \(0\)\
+\-\ abdominal\\:\\ 0\\.0481253037719386\ \(0\)\
+\-\ other\\:\\ 0\\.045695795842737294\ \(0\)\
+\-\ were\\:\\ 0\\.04535746997946443\ \(0\)\
+\-\ have\\:\\ 0\\.04395696280627874\ \(0\)\
+\-\ well\\:\\ 0\\.04260628840599435\ \(0\)\
+\-\ female\\:\\ 0\\.04246032625960623\ \(0\)\
+\-\ images\\:\\ 0\\.04070228071749785\ \(0\)\
+\-\ that\\:\\ 0\\.03818534309767283\ \(0\)\
+\-\ by\\:\\ 0\\.03736661897722226\ \(0\)\
+\-\ with\\:\\ 0\\.03445997104683185\ \(0\)\
+\-\ ct\\:\\ 0\\.033499481370206564\ \(0\)\
+\-\ pain\\:\\ 0\\.031486870593989136\ \(0\)\
+\-\ or\\:\\ 0\\.030610942117276274\ \(0\)\
+\-\ no\\:\\ 0\\.02861408328902252\ \(0\)\
+\-\ and\\:\\ 0\\.01818252424575675\ \(0\)\

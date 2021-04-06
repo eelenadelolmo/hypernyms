@@ -1,76 +1,74 @@
-Texto: 
-right ankle with mild edema.  limited eversion secondary to pain.  no tenderness of bone structures.
-no treatment or followup needed, incidental finding
-plain film of right ankle shows no fracture or dislocation.  there is mild deformity and sclerosis within the lateral distal tibia with well defined borders.  there is no periosteal reaction noted.  the location and appearance of lesion is consistent with benign nonossifying fibroma.
-nonossifying fibroma
-nonossifying fibroma
-young man presents with ankle pain after "twisting" ankle during soccer practice.
-if the presenting symptom was consistent with the location of the lesion, a bone scan may be reccommended.
-
-
-Keywords by value: 
-- ankle: 0.4086362228272638
-- nonossifying: 0.40141932364812943
-- fibroma: 0.34916916651073154
-- reccommended: 0.17681294516860463
-- location: 0.16113760871651123
-- eversion: 0.15691823093792232
-- no: 0.15050358551061932
-- soccer: 0.1383325880170121
-- practice: 0.1383325880170121
-- mild: 0.1311795647834023
-- bone: 0.12626433057195927
-- consistent: 0.12547563733366437
-- twisting: 0.12328345341469645
-- symptom: 0.1178137148374614
-- borders: 0.11638972217024385
-- the: 0.11543653741428406
-- with: 0.11328226792106444
-- lesion: 0.11094294544938016
-- followup: 0.10215905570681595
-- periosteal: 0.10182098845887969
-- dislocation: 0.10036576627767213
-- tibia: 0.09886259238304518
-- reaction: 0.09843253601903165
-- needed: 0.09552994070831991
-- young: 0.09540738102831017
-- is: 0.09505966703224794
-- deformity: 0.09456959257808176
-- limited: 0.09235059904145475
-- there: 0.09207719101119798
-- presenting: 0.09063831437384495
-- of: 0.09057169776901661
-- structures: 0.08694018316561367
-- film: 0.08646290078415515
-- incidental: 0.0857673961221586
-- pain: 0.0828068974469343
-- defined: 0.08254323148505698
-- sclerosis: 0.0824140363646447
-- or: 0.08050330492809384
-- benign: 0.07948141356461542
-- right: 0.07672188161634283
-- plain: 0.07633877325907987
-- finding: 0.07605441955548788
-- during: 0.07328718492547175
-- tenderness: 0.0725612542182747
-- appearance: 0.06975396166078826
-- edema: 0.06900890555109715
-- scan: 0.06864639514082409
-- secondary: 0.06858117461733318
-- shows: 0.06790872965439916
-- distal: 0.06722738553844664
-- if: 0.06722738553844664
-- fracture: 0.06575904817506151
-- noted: 0.061346535090507325
-- man: 0.06125557724602343
-- may: 0.058226322328998985
-- lateral: 0.0574217695096463
-- after: 0.05613031310791106
-- well: 0.05602485239201884
-- presents: 0.055659998981441375
-- treatment: 0.05511635329808691
-- within: 0.05329007994061627
-- and: 0.047817975941762944
-- be: 0.04693682669221267
-- was: 0.04032428118217351
-- to: 0.0289259819394066
+\-\ Texto\\:\\ \ \(0\)\
+\-\ right\\ ankle\\ with\\ mild\\ edema\\.\\ \\ limited\\ eversion\\ secondary\\ to\\ pain\\.\\ \\ no\\ tenderness\\ of\\ bone\\ structures\\.\ \(0\)\
+\-\ no\\ treatment\\ or\\ followup\\ needed\\,\\ incidental\\ finding\ \(1\)\
+\-\ plain\\ film\\ of\\ right\\ ankle\\ shows\\ no\\ fracture\\ or\\ dislocation\\.\\ \\ there\\ is\\ mild\\ deformity\\ and\\ sclerosis\\ within\\ the\\ lateral\\ distal\\ tibia\\ with\\ well\\ defined\\ borders\\.\\ \\ there\\ is\\ no\\ periosteal\\ reaction\\ noted\\.\\ \\ the\\ location\\ and\\ appearance\\ of\\ lesion\\ is\\ consistent\\ with\\ benign\\ nonossifying\\ fibroma\\.\ \(0\)\
+\-\ nonossifying\\ fibroma\ \(10\)\
+\-\ nonossifying\\ fibroma\ \(10\)\
+\-\ young\\ man\\ presents\\ with\\ ankle\\ pain\\ after\\ \\"twisting\\"\\ ankle\\ during\\ soccer\\ practice\\.\ \(0\)\
+\-\ if\\ the\\ presenting\\ symptom\\ was\\ consistent\\ with\\ the\\ location\\ of\\ the\\ lesion\\,\\ a\\ bone\\ scan\\ may\\ be\\ reccommended\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ ankle\\:\\ 0\\.4086362228272638\ \(0\)\
+\-\ nonossifying\\:\\ 0\\.40141932364812943\ \(0\)\
+\-\ fibroma\\:\\ 0\\.34916916651073154\ \(0\)\
+\-\ reccommended\\:\\ 0\\.17681294516860463\ \(0\)\
+\-\ location\\:\\ 0\\.16113760871651123\ \(0\)\
+\-\ eversion\\:\\ 0\\.15691823093792232\ \(0\)\
+\-\ no\\:\\ 0\\.15050358551061932\ \(0\)\
+\-\ soccer\\:\\ 0\\.1383325880170121\ \(0\)\
+\-\ practice\\:\\ 0\\.1383325880170121\ \(0\)\
+\-\ mild\\:\\ 0\\.1311795647834023\ \(0\)\
+\-\ bone\\:\\ 0\\.12626433057195927\ \(0\)\
+\-\ consistent\\:\\ 0\\.12547563733366437\ \(0\)\
+\-\ twisting\\:\\ 0\\.12328345341469645\ \(0\)\
+\-\ symptom\\:\\ 0\\.1178137148374614\ \(0\)\
+\-\ borders\\:\\ 0\\.11638972217024385\ \(0\)\
+\-\ the\\:\\ 0\\.11543653741428406\ \(0\)\
+\-\ with\\:\\ 0\\.11328226792106444\ \(0\)\
+\-\ lesion\\:\\ 0\\.11094294544938016\ \(0\)\
+\-\ followup\\:\\ 0\\.10215905570681595\ \(0\)\
+\-\ periosteal\\:\\ 0\\.10182098845887969\ \(0\)\
+\-\ dislocation\\:\\ 0\\.10036576627767213\ \(0\)\
+\-\ tibia\\:\\ 0\\.09886259238304518\ \(0\)\
+\-\ reaction\\:\\ 0\\.09843253601903165\ \(0\)\
+\-\ needed\\:\\ 0\\.09552994070831991\ \(0\)\
+\-\ young\\:\\ 0\\.09540738102831017\ \(0\)\
+\-\ is\\:\\ 0\\.09505966703224794\ \(0\)\
+\-\ deformity\\:\\ 0\\.09456959257808176\ \(0\)\
+\-\ limited\\:\\ 0\\.09235059904145475\ \(0\)\
+\-\ there\\:\\ 0\\.09207719101119798\ \(0\)\
+\-\ presenting\\:\\ 0\\.09063831437384495\ \(0\)\
+\-\ of\\:\\ 0\\.09057169776901661\ \(0\)\
+\-\ structures\\:\\ 0\\.08694018316561367\ \(0\)\
+\-\ film\\:\\ 0\\.08646290078415515\ \(0\)\
+\-\ incidental\\:\\ 0\\.0857673961221586\ \(0\)\
+\-\ pain\\:\\ 0\\.0828068974469343\ \(0\)\
+\-\ defined\\:\\ 0\\.08254323148505698\ \(0\)\
+\-\ sclerosis\\:\\ 0\\.0824140363646447\ \(0\)\
+\-\ or\\:\\ 0\\.08050330492809384\ \(0\)\
+\-\ benign\\:\\ 0\\.07948141356461542\ \(0\)\
+\-\ right\\:\\ 0\\.07672188161634283\ \(0\)\
+\-\ plain\\:\\ 0\\.07633877325907987\ \(0\)\
+\-\ finding\\:\\ 0\\.07605441955548788\ \(0\)\
+\-\ during\\:\\ 0\\.07328718492547175\ \(0\)\
+\-\ tenderness\\:\\ 0\\.0725612542182747\ \(0\)\
+\-\ appearance\\:\\ 0\\.06975396166078826\ \(0\)\
+\-\ edema\\:\\ 0\\.06900890555109715\ \(0\)\
+\-\ scan\\:\\ 0\\.06864639514082409\ \(0\)\
+\-\ secondary\\:\\ 0\\.06858117461733318\ \(0\)\
+\-\ shows\\:\\ 0\\.06790872965439916\ \(0\)\
+\-\ distal\\:\\ 0\\.06722738553844664\ \(0\)\
+\-\ if\\:\\ 0\\.06722738553844664\ \(0\)\
+\-\ fracture\\:\\ 0\\.06575904817506151\ \(0\)\
+\-\ noted\\:\\ 0\\.061346535090507325\ \(0\)\
+\-\ man\\:\\ 0\\.06125557724602343\ \(0\)\
+\-\ may\\:\\ 0\\.058226322328998985\ \(0\)\
+\-\ lateral\\:\\ 0\\.0574217695096463\ \(0\)\
+\-\ after\\:\\ 0\\.05613031310791106\ \(0\)\
+\-\ well\\:\\ 0\\.05602485239201884\ \(0\)\
+\-\ presents\\:\\ 0\\.055659998981441375\ \(0\)\
+\-\ treatment\\:\\ 0\\.05511635329808691\ \(0\)\
+\-\ within\\:\\ 0\\.05329007994061627\ \(0\)\
+\-\ and\\:\\ 0\\.047817975941762944\ \(0\)\
+\-\ be\\:\\ 0\\.04693682669221267\ \(0\)\
+\-\ was\\:\\ 0\\.04032428118217351\ \(0\)\
+\-\ to\\:\\ 0\\.0289259819394066\ \(0\)\

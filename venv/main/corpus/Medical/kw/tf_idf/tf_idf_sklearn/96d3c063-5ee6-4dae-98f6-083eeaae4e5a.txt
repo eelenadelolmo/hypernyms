@@ -1,59 +1,57 @@
-Texto: 
-right upper extremity weakness and right facial weakness reported.
-no treatment required.
-enlarged medullary white matter veins converging on dilated collector vein in the right frontal lobe.  no associated calcifications or arterial feeding vessels.
-developmental venous anomaly
-developmental venous anomaly
-cavernous hemangioma
-capillary telangectasia
-21 year old man with right upper extremity weakness.  "rule out ms."
-none
-
-
-Keywords by value: 
-- weakness: 0.3419905432677938
-- anomaly: 0.28589983396511076
-- developmental: 0.27014511379009104
-- converging: 0.2308145295373941
-- extremity: 0.22500240761439963
-- collector: 0.22470437435835566
-- telangectasia: 0.22470437435835566
-- venous: 0.2230367552042094
-- right: 0.2071442323538055
-- upper: 0.16693944979627484
-- capillary: 0.16393776209652347
-- ms: 0.1516698719309202
-- feeding: 0.1464880148825184
-- veins: 0.1386106547950085
-- medullary: 0.1381425720746794
-- cavernous: 0.13549061344815383
-- hemangioma: 0.13139025947147862
-- facial: 0.12879695002023075
-- arterial: 0.12863249203432528
-- 21: 0.12481263628711156
-- rule: 0.12397004142625667
-- vessels: 0.12120978978203956
-- matter: 0.11893162196275009
-- calcifications: 0.11399684775593127
-- reported: 0.11250120380719981
-- vein: 0.11196074865052832
-- dilated: 0.11187170085711703
-- required: 0.1115183776021047
-- enlarged: 0.10648217074999618
-- white: 0.10305493199879301
-- out: 0.10267106348301498
-- no: 0.10158754266153076
-- frontal: 0.10053313071658587
-- lobe: 0.09026586609027837
-- none: 0.08536115040088561
-- man: 0.08269309393028416
-- associated: 0.08232799289009227
-- treatment: 0.07440533556753488
-- or: 0.054338459087407684
-- year: 0.04813710953033725
-- on: 0.04717443907773114
-- old: 0.046228288223108115
-- in: 0.03885696181728929
-- and: 0.03227637836328585
-- the: 0.031167135665204574
-- with: 0.030585496514736785
+\-\ Texto\\:\\ \ \(0\)\
+\-\ right\\ upper\\ extremity\\ weakness\\ and\\ right\\ facial\\ weakness\\ reported\\.\ \(0\)\
+\-\ no\\ treatment\\ required\\.\ \(1\)\
+\-\ enlarged\\ medullary\\ white\\ matter\\ veins\\ converging\\ on\\ dilated\\ collector\\ vein\\ in\\ the\\ right\\ frontal\\ lobe\\.\\ \\ no\\ associated\\ calcifications\\ or\\ arterial\\ feeding\\ vessels\\.\ \(0\)\
+\-\ developmental\\ venous\\ anomaly\ \(10\)\
+\-\ developmental\\ venous\\ anomaly\ \(10\)\
+\-\ cavernous\\ hemangioma\ \(14\)\
+\-\ capillary\\ telangectasia\ \(0\)\
+\-\ 21\\ year\\ old\\ man\\ with\\ right\\ upper\\ extremity\\ weakness\\.\\ \\ \\"rule\\ out\\ ms\\.\\"\ \(0\)\
+\-\ none\ \(204\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ weakness\\:\\ 0\\.3419905432677938\ \(0\)\
+\-\ anomaly\\:\\ 0\\.28589983396511076\ \(0\)\
+\-\ developmental\\:\\ 0\\.27014511379009104\ \(0\)\
+\-\ converging\\:\\ 0\\.2308145295373941\ \(0\)\
+\-\ extremity\\:\\ 0\\.22500240761439963\ \(0\)\
+\-\ collector\\:\\ 0\\.22470437435835566\ \(0\)\
+\-\ telangectasia\\:\\ 0\\.22470437435835566\ \(0\)\
+\-\ venous\\:\\ 0\\.2230367552042094\ \(0\)\
+\-\ right\\:\\ 0\\.2071442323538055\ \(0\)\
+\-\ upper\\:\\ 0\\.16693944979627484\ \(0\)\
+\-\ capillary\\:\\ 0\\.16393776209652347\ \(0\)\
+\-\ ms\\:\\ 0\\.1516698719309202\ \(0\)\
+\-\ feeding\\:\\ 0\\.1464880148825184\ \(0\)\
+\-\ veins\\:\\ 0\\.1386106547950085\ \(0\)\
+\-\ medullary\\:\\ 0\\.1381425720746794\ \(0\)\
+\-\ cavernous\\:\\ 0\\.13549061344815383\ \(0\)\
+\-\ hemangioma\\:\\ 0\\.13139025947147862\ \(0\)\
+\-\ facial\\:\\ 0\\.12879695002023075\ \(0\)\
+\-\ arterial\\:\\ 0\\.12863249203432528\ \(0\)\
+\-\ 21\\:\\ 0\\.12481263628711156\ \(0\)\
+\-\ rule\\:\\ 0\\.12397004142625667\ \(0\)\
+\-\ vessels\\:\\ 0\\.12120978978203956\ \(0\)\
+\-\ matter\\:\\ 0\\.11893162196275009\ \(0\)\
+\-\ calcifications\\:\\ 0\\.11399684775593127\ \(0\)\
+\-\ reported\\:\\ 0\\.11250120380719981\ \(0\)\
+\-\ vein\\:\\ 0\\.11196074865052832\ \(0\)\
+\-\ dilated\\:\\ 0\\.11187170085711703\ \(0\)\
+\-\ required\\:\\ 0\\.1115183776021047\ \(0\)\
+\-\ enlarged\\:\\ 0\\.10648217074999618\ \(0\)\
+\-\ white\\:\\ 0\\.10305493199879301\ \(0\)\
+\-\ out\\:\\ 0\\.10267106348301498\ \(0\)\
+\-\ no\\:\\ 0\\.10158754266153076\ \(0\)\
+\-\ frontal\\:\\ 0\\.10053313071658587\ \(0\)\
+\-\ lobe\\:\\ 0\\.09026586609027837\ \(0\)\
+\-\ none\\:\\ 0\\.08536115040088561\ \(0\)\
+\-\ man\\:\\ 0\\.08269309393028416\ \(0\)\
+\-\ associated\\:\\ 0\\.08232799289009227\ \(0\)\
+\-\ treatment\\:\\ 0\\.07440533556753488\ \(0\)\
+\-\ or\\:\\ 0\\.054338459087407684\ \(0\)\
+\-\ year\\:\\ 0\\.04813710953033725\ \(0\)\
+\-\ on\\:\\ 0\\.04717443907773114\ \(0\)\
+\-\ old\\:\\ 0\\.046228288223108115\ \(0\)\
+\-\ in\\:\\ 0\\.03885696181728929\ \(0\)\
+\-\ and\\:\\ 0\\.03227637836328585\ \(0\)\
+\-\ the\\:\\ 0\\.031167135665204574\ \(0\)\
+\-\ with\\:\\ 0\\.030585496514736785\ \(0\)\

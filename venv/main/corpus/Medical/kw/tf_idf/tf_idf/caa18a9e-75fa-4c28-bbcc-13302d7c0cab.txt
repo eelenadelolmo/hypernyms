@@ -1,45 +1,42 @@
-Texto: 
-fever, pelvic pain
-narrowing of aortic caliber near the region of the ligamentum arteriosus
-
-origin of left subclavian artery from left vertebral artery
-aortic coarctation
-pseudocoarctation, post traumatic pseudoaneurysm, takayasu's arteritis
-34 y/o postpartum female with known pelvic abscesses
-
-
-Keywords by value: 
-- pseudocoarctation: 0.18889235449782682
-- pelvic: 0.16312794077047876
-- aortic: 0.16088056508346443
-- takayasu: 0.1436386301011916
-- postpartum: 0.1436386301011916
-- arteriosus: 0.14203414471777415
-- coarctation: 0.13779410851326357
-- ligamentum: 0.13420920898239708
-- arteritis: 0.1320935862334267
-- pseudoaneurysm: 0.12041702940093285
-- artery: 0.11835023219107901
-- caliber: 0.11700764628019156
-- abscesses: 0.11224498552098194
-- subclavian: 0.10142258436541837
-- 34: 0.0986234289642585
-- origin: 0.0911088052096648
-- near: 0.0859889444546452
-- traumatic: 0.08323433630550114
-- narrowing: 0.0796848068406976
-- vertebral: 0.07864642838168043
-- fever: 0.06723866573376665
-- known: 0.06288490894101906
-- post: 0.06257755890865799
-- region: 0.056130261098588666
-- y/o: 0.055037884414410244
-- left: 0.04447001252432162
-- 's: 0.043815037636442906
-- female: 0.04085489003367055
-- from: 0.029451993329167727
-- pain: 0.02426995738443569
-- ,: 0.01888674875702005
-- of: 0.008128172148696867
-- the: 0.006430199288540735
-- with: 0.0027210273509276684
+\-\ Texto\\:\\ \ \(0\)\
+\-\ fever\\,\\ pelvic\\ pain\ \(1\)\
+\-\ narrowing\\ of\\ aortic\\ caliber\\ near\\ the\\ region\\ of\\ the\\ ligamentum\\ arteriosus\ \(0\)\
+\-\ origin\\ of\\ left\\ subclavian\\ artery\\ from\\ left\\ vertebral\\ artery\ \(0\)\
+\-\ aortic\\ coarctation\ \(4\)\
+\-\ pseudocoarctation\\,\\ post\\ traumatic\\ pseudoaneurysm\\,\\ takayasu\\'s\\ arteritis\ \(0\)\
+\-\ 34\\ y\\/o\\ postpartum\\ female\\ with\\ known\\ pelvic\\ abscesses\ \(1\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ pseudocoarctation\\:\\ 0\\.18889235449782682\ \(0\)\
+\-\ pelvic\\:\\ 0\\.16312794077047876\ \(0\)\
+\-\ aortic\\:\\ 0\\.16088056508346443\ \(0\)\
+\-\ takayasu\\:\\ 0\\.1436386301011916\ \(0\)\
+\-\ postpartum\\:\\ 0\\.1436386301011916\ \(0\)\
+\-\ arteriosus\\:\\ 0\\.14203414471777415\ \(0\)\
+\-\ coarctation\\:\\ 0\\.13779410851326357\ \(0\)\
+\-\ ligamentum\\:\\ 0\\.13420920898239708\ \(0\)\
+\-\ arteritis\\:\\ 0\\.1320935862334267\ \(0\)\
+\-\ pseudoaneurysm\\:\\ 0\\.12041702940093285\ \(0\)\
+\-\ artery\\:\\ 0\\.11835023219107901\ \(0\)\
+\-\ caliber\\:\\ 0\\.11700764628019156\ \(0\)\
+\-\ abscesses\\:\\ 0\\.11224498552098194\ \(0\)\
+\-\ subclavian\\:\\ 0\\.10142258436541837\ \(0\)\
+\-\ 34\\:\\ 0\\.0986234289642585\ \(0\)\
+\-\ origin\\:\\ 0\\.0911088052096648\ \(0\)\
+\-\ near\\:\\ 0\\.0859889444546452\ \(0\)\
+\-\ traumatic\\:\\ 0\\.08323433630550114\ \(0\)\
+\-\ narrowing\\:\\ 0\\.0796848068406976\ \(0\)\
+\-\ vertebral\\:\\ 0\\.07864642838168043\ \(0\)\
+\-\ fever\\:\\ 0\\.06723866573376665\ \(0\)\
+\-\ known\\:\\ 0\\.06288490894101906\ \(0\)\
+\-\ post\\:\\ 0\\.06257755890865799\ \(0\)\
+\-\ region\\:\\ 0\\.056130261098588666\ \(0\)\
+\-\ y\\/o\\:\\ 0\\.055037884414410244\ \(0\)\
+\-\ left\\:\\ 0\\.04447001252432162\ \(0\)\
+\-\ \\'s\\:\\ 0\\.043815037636442906\ \(0\)\
+\-\ female\\:\\ 0\\.04085489003367055\ \(0\)\
+\-\ from\\:\\ 0\\.029451993329167727\ \(0\)\
+\-\ pain\\:\\ 0\\.02426995738443569\ \(0\)\
+\-\ \\,\\:\\ 0\\.01888674875702005\ \(0\)\
+\-\ of\\:\\ 0\\.008128172148696867\ \(0\)\
+\-\ the\\:\\ 0\\.006430199288540735\ \(0\)\
+\-\ with\\:\\ 0\\.0027210273509276684\ \(0\)\

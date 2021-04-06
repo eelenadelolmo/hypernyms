@@ -1,87 +1,83 @@
-Texto: 
-comatose 2 year old
-temp 102 f
-antimicrobial antibiotics.
-patient died 10 days following presentation.
-bilateral cerebral hemispheric enhancing masses with evidence of ventriculitis (ependymal enhancement) and meningitis (pia-arachnoid enhancement).  no evidence of restricted diffusion, infarcts or hemorrhage.
-amebic meningoencephalitis due to balamuthia mandrillaris
-ependymoma
-germinoma
-multifocal glioma (astrocytoma)
-multiple abscesses
-two year old boy presents with fever, obtundation, and seizures.
-naegleria fowleri http://www.merck.com/mmpe/sec14/ch186/ch186e.html
-
-acanthameba http://www.emedicine.com/med/topic10.htm
-
-amebic encephalitis http://www.emedicine.com/ped/topic81.htm
-
-
-Keywords by value: 
-- amebic: 0.1543732196609255
-- http: 0.10907152577461604
-- balamuthia: 0.09905076880861234
-- mandrillaris: 0.09905076880861234
-- naegleria: 0.09905076880861234
-- fowleri: 0.09905076880861234
-- //www.merck.com/mmpe/sec14/ch186/ch186e.html: 0.09905076880861234
-- acanthameba: 0.09905076880861234
-- //www.emedicine.com/med/topic10.htm: 0.09905076880861234
-- //www.emedicine.com/ped/topic81.htm: 0.09905076880861234
-- ventriculitis: 0.08670681050897065
-- pia-arachnoid: 0.08670681050897065
-- meningoencephalitis: 0.08096719675879098
-- antimicrobial: 0.07568625710434451
-- obtundation: 0.07568625710434451
-- ependymal: 0.0711304693727921
-- hemispheric: 0.07023111310679732
-- germinoma: 0.06789808653625524
-- 102: 0.0665746816412397
-- comatose: 0.06431995472593463
-- died: 0.05627928015950762
-- abscesses: 0.054230723341598015
-- encephalitis: 0.053623226473392675
-- temp: 0.05323574134899751
-- infarcts: 0.05164056987404934
-- multifocal: 0.05164056987404934
-- enhancement: 0.0514716576656862
-- evidence: 0.050347024345323094
-- f: 0.05009898423906636
-- meningitis: 0.04981451448643389
-- restricted: 0.044187825858203675
-- glioma: 0.04328846959220888
-- diffusion: 0.04297849255267148
-- ependymoma: 0.04297849255267148
-- seizures: 0.04127926817375099
-- :: 0.038099151100808935
-- astrocytoma: 0.03728483369295838
-- antibiotics: 0.036064228737870796
-- cerebral: 0.03326344384004574
-- presentation: 0.033071917241472834
-- boy: 0.03263732336995473
-- fever: 0.03248609692755018
-- masses: 0.032456094359506596
-- 10: 0.03236656436344843
-- hemorrhage: 0.031957939148045345
-- enhancing: 0.03011183744814336
-- days: 0.029427801080584015
-- two: 0.027498103793438266
-- following: 0.027250311875293802
-- due: 0.02562109160621168
-- (: 0.024349271671141367
-- ): 0.024051832318426013
-- bilateral: 0.023301322801285888
-- year: 0.021485511669054262
-- 2: 0.02067533142146681
-- multiple: 0.020222539364935604
-- old: 0.019661451614882124
-- presents: 0.01961398084840366
-- or: 0.011253064595097837
-- no: 0.009667911805660696
-- patient: 0.009624628437262786
-- ,: 0.009125058388223169
-- to: 0.0047985180723931035
-- and: 0.004045146196229628
-- with: 0.0026293073278626906
-- of: 0.002618062939280639
-- .: 0.0019943559605250715
+\-\ Texto\\:\\ \ \(0\)\
+\-\ comatose\\ 2\\ year\\ old\ \(0\)\
+\-\ temp\\ 102\\ f\ \(0\)\
+\-\ antimicrobial\\ antibiotics\\.\ \(0\)\
+\-\ patient\\ died\\ 10\\ days\\ following\\ presentation\\.\ \(0\)\
+\-\ bilateral\\ cerebral\\ hemispheric\\ enhancing\\ masses\\ with\\ evidence\\ of\\ ventriculitis\\ \\(ependymal\\ enhancement\\)\\ and\\ meningitis\\ \\(pia\\-arachnoid\\ enhancement\\)\\.\\ \\ no\\ evidence\\ of\\ restricted\\ diffusion\\,\\ infarcts\\ or\\ hemorrhage\\.\ \(0\)\
+\-\ amebic\\ meningoencephalitis\\ due\\ to\\ balamuthia\\ mandrillaris\ \(0\)\
+\-\ ependymoma\ \(74\)\
+\-\ germinoma\ \(8\)\
+\-\ multifocal\\ glioma\\ \\(astrocytoma\\)\ \(0\)\
+\-\ multiple\\ abscesses\ \(1\)\
+\-\ two\\ year\\ old\\ boy\\ presents\\ with\\ fever\\,\\ obtundation\\,\\ and\\ seizures\\.\ \(0\)\
+\-\ naegleria\\ fowleri\\ http\\:\\/\\/www\\.merck\\.com\\/mmpe\\/sec14\\/ch186\\/ch186e\\.html\ \(0\)\
+\-\ acanthameba\\ http\\:\\/\\/www\\.emedicine\\.com\\/med\\/topic10\\.htm\ \(0\)\
+\-\ amebic\\ encephalitis\\ http\\:\\/\\/www\\.emedicine\\.com\\/ped\\/topic81\\.htm\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ amebic\\:\\ 0\\.1543732196609255\ \(0\)\
+\-\ http\\:\\ 0\\.10907152577461604\ \(0\)\
+\-\ balamuthia\\:\\ 0\\.09905076880861234\ \(0\)\
+\-\ mandrillaris\\:\\ 0\\.09905076880861234\ \(0\)\
+\-\ naegleria\\:\\ 0\\.09905076880861234\ \(0\)\
+\-\ fowleri\\:\\ 0\\.09905076880861234\ \(0\)\
+\-\ \\/\\/www\\.merck\\.com\\/mmpe\\/sec14\\/ch186\\/ch186e\\.html\\:\\ 0\\.09905076880861234\ \(0\)\
+\-\ acanthameba\\:\\ 0\\.09905076880861234\ \(0\)\
+\-\ \\/\\/www\\.emedicine\\.com\\/med\\/topic10\\.htm\\:\\ 0\\.09905076880861234\ \(0\)\
+\-\ \\/\\/www\\.emedicine\\.com\\/ped\\/topic81\\.htm\\:\\ 0\\.09905076880861234\ \(0\)\
+\-\ ventriculitis\\:\\ 0\\.08670681050897065\ \(0\)\
+\-\ pia\\-arachnoid\\:\\ 0\\.08670681050897065\ \(0\)\
+\-\ meningoencephalitis\\:\\ 0\\.08096719675879098\ \(0\)\
+\-\ antimicrobial\\:\\ 0\\.07568625710434451\ \(0\)\
+\-\ obtundation\\:\\ 0\\.07568625710434451\ \(0\)\
+\-\ ependymal\\:\\ 0\\.0711304693727921\ \(0\)\
+\-\ hemispheric\\:\\ 0\\.07023111310679732\ \(0\)\
+\-\ germinoma\\:\\ 0\\.06789808653625524\ \(0\)\
+\-\ 102\\:\\ 0\\.0665746816412397\ \(0\)\
+\-\ comatose\\:\\ 0\\.06431995472593463\ \(0\)\
+\-\ died\\:\\ 0\\.05627928015950762\ \(0\)\
+\-\ abscesses\\:\\ 0\\.054230723341598015\ \(0\)\
+\-\ encephalitis\\:\\ 0\\.053623226473392675\ \(0\)\
+\-\ temp\\:\\ 0\\.05323574134899751\ \(0\)\
+\-\ infarcts\\:\\ 0\\.05164056987404934\ \(0\)\
+\-\ multifocal\\:\\ 0\\.05164056987404934\ \(0\)\
+\-\ enhancement\\:\\ 0\\.0514716576656862\ \(0\)\
+\-\ evidence\\:\\ 0\\.050347024345323094\ \(0\)\
+\-\ f\\:\\ 0\\.05009898423906636\ \(0\)\
+\-\ meningitis\\:\\ 0\\.04981451448643389\ \(0\)\
+\-\ restricted\\:\\ 0\\.044187825858203675\ \(0\)\
+\-\ glioma\\:\\ 0\\.04328846959220888\ \(0\)\
+\-\ diffusion\\:\\ 0\\.04297849255267148\ \(0\)\
+\-\ ependymoma\\:\\ 0\\.04297849255267148\ \(0\)\
+\-\ seizures\\:\\ 0\\.04127926817375099\ \(0\)\
+\-\ \\:\\:\\ 0\\.038099151100808935\ \(0\)\
+\-\ astrocytoma\\:\\ 0\\.03728483369295838\ \(0\)\
+\-\ antibiotics\\:\\ 0\\.036064228737870796\ \(0\)\
+\-\ cerebral\\:\\ 0\\.03326344384004574\ \(0\)\
+\-\ presentation\\:\\ 0\\.033071917241472834\ \(0\)\
+\-\ boy\\:\\ 0\\.03263732336995473\ \(0\)\
+\-\ fever\\:\\ 0\\.03248609692755018\ \(0\)\
+\-\ masses\\:\\ 0\\.032456094359506596\ \(0\)\
+\-\ 10\\:\\ 0\\.03236656436344843\ \(0\)\
+\-\ hemorrhage\\:\\ 0\\.031957939148045345\ \(0\)\
+\-\ enhancing\\:\\ 0\\.03011183744814336\ \(0\)\
+\-\ days\\:\\ 0\\.029427801080584015\ \(0\)\
+\-\ two\\:\\ 0\\.027498103793438266\ \(0\)\
+\-\ following\\:\\ 0\\.027250311875293802\ \(0\)\
+\-\ due\\:\\ 0\\.02562109160621168\ \(0\)\
+\-\ \\(\\:\\ 0\\.024349271671141367\ \(0\)\
+\-\ \\)\\:\\ 0\\.024051832318426013\ \(0\)\
+\-\ bilateral\\:\\ 0\\.023301322801285888\ \(0\)\
+\-\ year\\:\\ 0\\.021485511669054262\ \(0\)\
+\-\ 2\\:\\ 0\\.02067533142146681\ \(0\)\
+\-\ multiple\\:\\ 0\\.020222539364935604\ \(0\)\
+\-\ old\\:\\ 0\\.019661451614882124\ \(0\)\
+\-\ presents\\:\\ 0\\.01961398084840366\ \(0\)\
+\-\ or\\:\\ 0\\.011253064595097837\ \(0\)\
+\-\ no\\:\\ 0\\.009667911805660696\ \(0\)\
+\-\ patient\\:\\ 0\\.009624628437262786\ \(0\)\
+\-\ \\,\\:\\ 0\\.009125058388223169\ \(0\)\
+\-\ to\\:\\ 0\\.0047985180723931035\ \(0\)\
+\-\ and\\:\\ 0\\.004045146196229628\ \(0\)\
+\-\ with\\:\\ 0\\.0026293073278626906\ \(0\)\
+\-\ of\\:\\ 0\\.002618062939280639\ \(0\)\
+\-\ \\.\\:\\ 0\\.0019943559605250715\ \(0\)\

@@ -1,96 +1,93 @@
-Texto: 
-erythemetous, tender left breast
-whole body bone scan with tc-99m medronate-  
-abnormal diffuse soft tissue uptake is noted with the left breast.  intense, fusiform uptake is noted in the left posterior 11th rib.
-
-ct chest -  skin  and trabecular thickening are noted within the left breast.  there is asymmetric prominence of the left breast parenchyma without evidence of abscess.
-infiltrating ductal carcinoma with involvement of the epidermis --- mastectomy
-differential considerations for unilateral breast skin and trabecular thickening:
-	refractory mastitis
-	inflammatory carcinoma
-	post radiation mastitis
-	lymphatic/svc obstruction
-	metastatic disease
-36 y.o. female three months post-partum presents following treatment for bilateral mastitis with questionable abnormality on mammogram
-
-
-Keywords by value: 
-- mastitis: 0.1726511438251377
-- breast: 0.13706773668828487
-- trabecular: 0.09599446187760294
-- erythemetous: 0.07665668194753476
-- medronate-: 0.07665668194753476
-- lymphatic/svc: 0.07665668194753476
-- 11th: 0.0646019483725792
-- uptake: 0.05904318999468195
-- skin: 0.057080503221547445
-- epidermis: 0.055048798036334765
-- post-partum: 0.055048798036334765
-- noted: 0.052837074481372
-- thickening: 0.050376079472927854
-- refractory: 0.0459926773856551
-- fusiform: 0.04502549794991403
-- mastectomy: 0.04415520700594026
-- prominence: 0.04395059398498205
-- whole: 0.043750685130854235
-- considerations: 0.04281476631179019
-- tc-99m: 0.04246689383688845
-- carcinoma: 0.04212048121766725
-- questionable: 0.041969864151323685
-- left: 0.04156979431621368
-- infiltrating: 0.040357662209311834
-- intense: 0.03934833898102702
-- mammogram: 0.038772257367625275
-- 36: 0.037242773311419494
-- rib: 0.03714977079736082
-- unilateral: 0.03687658648228796
-- asymmetric: 0.0361050376509081
-- ductal: 0.035026318966821325
-- --: 0.03413190691951952
-- -: 0.03185614710797154
-- parenchyma: 0.03164668427297973
-- tender: 0.030160094723904605
-- abnormality: 0.027413547337656975
-- involvement: 0.02723424918806797
-- obstruction: 0.026203478683386395
-- inflammatory: 0.025767964732104555
-- three: 0.025048906333451394
-- radiation: 0.0243847934744551
-- body: 0.02413272793642682
-- differential: 0.023590955037851562
-- abscess: 0.023494228209863192
-- post: 0.023398565504976467
-- diffuse: 0.022495716698915782
-- y.o: 0.021446777674666958
-- abnormal: 0.02119210643752097
-- following: 0.02108937179914042
-- scan: 0.02080236052550416
-- months: 0.020295141692957108
-- evidence: 0.019482109420581546
-- metastatic: 0.018705299161879047
-- bone: 0.01846464940399887
-- soft: 0.018095015339074347
-- bilateral: 0.018033197646212556
-- chest: 0.017780252174413206
-- tissue: 0.017612358160457336
-- without: 0.017495766663984003
-- posterior: 0.01712729172784738
-- female: 0.015276176273459422
-- presents: 0.015179515613112399
-- treatment: 0.015040147474790322
-- is: 0.01466845508829719
-- within: 0.014175055725096362
-- for: 0.01268014171552548
-- disease: 0.012145543836658296
-- there: 0.011058396143173815
-- ct: 0.01039394481210472
-- are: 0.010129338021996536
-- :: 0.009828476660788392
-- on: 0.006294704455351549
-- the: 0.006010838465375035
-- ,: 0.004708001139431085
-- with: 0.004069710472691817
-- in: 0.0036643237403500427
-- and: 0.003130591404038582
-- of: 0.0030392295860344806
-- .: 0.0015434580911889684
+\-\ Texto\\:\\ \ \(0\)\
+\-\ erythemetous\\,\\ tender\\ left\\ breast\ \(0\)\
+\-\ whole\\ body\\ bone\\ scan\\ with\\ tc\\-99m\\ medronate\\-\\ \\ \ \(0\)\
+\-\ abnormal\\ diffuse\\ soft\\ tissue\\ uptake\\ is\\ noted\\ with\\ the\\ left\\ breast\\.\\ \\ intense\\,\\ fusiform\\ uptake\\ is\\ noted\\ in\\ the\\ left\\ posterior\\ 11th\\ rib\\.\ \(0\)\
+\-\ ct\\ chest\\ \\-\\ \\ skin\\ \\ and\\ trabecular\\ thickening\\ are\\ noted\\ within\\ the\\ left\\ breast\\.\\ \\ there\\ is\\ asymmetric\\ prominence\\ of\\ the\\ left\\ breast\\ parenchyma\\ without\\ evidence\\ of\\ abscess\\.\ \(0\)\
+\-\ infiltrating\\ ductal\\ carcinoma\\ with\\ involvement\\ of\\ the\\ epidermis\\ \\-\\-\\-\\ mastectomy\ \(0\)\
+\-\ differential\\ considerations\\ for\\ unilateral\\ breast\\ skin\\ and\\ trabecular\\ thickening\\:\ \(0\)\
+\-\ \\	refractory\\ mastitis\ \(0\)\
+\-\ \\	inflammatory\\ carcinoma\ \(0\)\
+\-\ \\	post\\ radiation\\ mastitis\ \(0\)\
+\-\ \\	lymphatic\\/svc\\ obstruction\ \(0\)\
+\-\ \\	metastatic\\ disease\ \(0\)\
+\-\ 36\\ y\\.o\\.\\ female\\ three\\ months\\ post\\-partum\\ presents\\ following\\ treatment\\ for\\ bilateral\\ mastitis\\ with\\ questionable\\ abnormality\\ on\\ mammogram\ \(1\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ mastitis\\:\\ 0\\.1726511438251377\ \(0\)\
+\-\ breast\\:\\ 0\\.13706773668828487\ \(0\)\
+\-\ trabecular\\:\\ 0\\.09599446187760294\ \(0\)\
+\-\ erythemetous\\:\\ 0\\.07665668194753476\ \(0\)\
+\-\ medronate\\-\\:\\ 0\\.07665668194753476\ \(0\)\
+\-\ lymphatic\\/svc\\:\\ 0\\.07665668194753476\ \(0\)\
+\-\ 11th\\:\\ 0\\.0646019483725792\ \(0\)\
+\-\ uptake\\:\\ 0\\.05904318999468195\ \(0\)\
+\-\ skin\\:\\ 0\\.057080503221547445\ \(0\)\
+\-\ epidermis\\:\\ 0\\.055048798036334765\ \(0\)\
+\-\ post\\-partum\\:\\ 0\\.055048798036334765\ \(0\)\
+\-\ noted\\:\\ 0\\.052837074481372\ \(0\)\
+\-\ thickening\\:\\ 0\\.050376079472927854\ \(0\)\
+\-\ refractory\\:\\ 0\\.0459926773856551\ \(0\)\
+\-\ fusiform\\:\\ 0\\.04502549794991403\ \(0\)\
+\-\ mastectomy\\:\\ 0\\.04415520700594026\ \(0\)\
+\-\ prominence\\:\\ 0\\.04395059398498205\ \(0\)\
+\-\ whole\\:\\ 0\\.043750685130854235\ \(0\)\
+\-\ considerations\\:\\ 0\\.04281476631179019\ \(0\)\
+\-\ tc\\-99m\\:\\ 0\\.04246689383688845\ \(0\)\
+\-\ carcinoma\\:\\ 0\\.04212048121766725\ \(0\)\
+\-\ questionable\\:\\ 0\\.041969864151323685\ \(0\)\
+\-\ left\\:\\ 0\\.04156979431621368\ \(0\)\
+\-\ infiltrating\\:\\ 0\\.040357662209311834\ \(0\)\
+\-\ intense\\:\\ 0\\.03934833898102702\ \(0\)\
+\-\ mammogram\\:\\ 0\\.038772257367625275\ \(0\)\
+\-\ 36\\:\\ 0\\.037242773311419494\ \(0\)\
+\-\ rib\\:\\ 0\\.03714977079736082\ \(0\)\
+\-\ unilateral\\:\\ 0\\.03687658648228796\ \(0\)\
+\-\ asymmetric\\:\\ 0\\.0361050376509081\ \(0\)\
+\-\ ductal\\:\\ 0\\.035026318966821325\ \(0\)\
+\-\ \\-\\-\\:\\ 0\\.03413190691951952\ \(0\)\
+\-\ \\-\\:\\ 0\\.03185614710797154\ \(0\)\
+\-\ parenchyma\\:\\ 0\\.03164668427297973\ \(0\)\
+\-\ tender\\:\\ 0\\.030160094723904605\ \(0\)\
+\-\ abnormality\\:\\ 0\\.027413547337656975\ \(0\)\
+\-\ involvement\\:\\ 0\\.02723424918806797\ \(0\)\
+\-\ obstruction\\:\\ 0\\.026203478683386395\ \(0\)\
+\-\ inflammatory\\:\\ 0\\.025767964732104555\ \(0\)\
+\-\ three\\:\\ 0\\.025048906333451394\ \(0\)\
+\-\ radiation\\:\\ 0\\.0243847934744551\ \(0\)\
+\-\ body\\:\\ 0\\.02413272793642682\ \(0\)\
+\-\ differential\\:\\ 0\\.023590955037851562\ \(0\)\
+\-\ abscess\\:\\ 0\\.023494228209863192\ \(0\)\
+\-\ post\\:\\ 0\\.023398565504976467\ \(0\)\
+\-\ diffuse\\:\\ 0\\.022495716698915782\ \(0\)\
+\-\ y\\.o\\:\\ 0\\.021446777674666958\ \(0\)\
+\-\ abnormal\\:\\ 0\\.02119210643752097\ \(0\)\
+\-\ following\\:\\ 0\\.02108937179914042\ \(0\)\
+\-\ scan\\:\\ 0\\.02080236052550416\ \(0\)\
+\-\ months\\:\\ 0\\.020295141692957108\ \(0\)\
+\-\ evidence\\:\\ 0\\.019482109420581546\ \(0\)\
+\-\ metastatic\\:\\ 0\\.018705299161879047\ \(0\)\
+\-\ bone\\:\\ 0\\.01846464940399887\ \(0\)\
+\-\ soft\\:\\ 0\\.018095015339074347\ \(0\)\
+\-\ bilateral\\:\\ 0\\.018033197646212556\ \(0\)\
+\-\ chest\\:\\ 0\\.017780252174413206\ \(0\)\
+\-\ tissue\\:\\ 0\\.017612358160457336\ \(0\)\
+\-\ without\\:\\ 0\\.017495766663984003\ \(0\)\
+\-\ posterior\\:\\ 0\\.01712729172784738\ \(0\)\
+\-\ female\\:\\ 0\\.015276176273459422\ \(0\)\
+\-\ presents\\:\\ 0\\.015179515613112399\ \(0\)\
+\-\ treatment\\:\\ 0\\.015040147474790322\ \(0\)\
+\-\ is\\:\\ 0\\.01466845508829719\ \(0\)\
+\-\ within\\:\\ 0\\.014175055725096362\ \(0\)\
+\-\ for\\:\\ 0\\.01268014171552548\ \(0\)\
+\-\ disease\\:\\ 0\\.012145543836658296\ \(0\)\
+\-\ there\\:\\ 0\\.011058396143173815\ \(0\)\
+\-\ ct\\:\\ 0\\.01039394481210472\ \(0\)\
+\-\ are\\:\\ 0\\.010129338021996536\ \(0\)\
+\-\ \\:\\:\\ 0\\.009828476660788392\ \(0\)\
+\-\ on\\:\\ 0\\.006294704455351549\ \(0\)\
+\-\ the\\:\\ 0\\.006010838465375035\ \(0\)\
+\-\ \\,\\:\\ 0\\.004708001139431085\ \(0\)\
+\-\ with\\:\\ 0\\.004069710472691817\ \(0\)\
+\-\ in\\:\\ 0\\.0036643237403500427\ \(0\)\
+\-\ and\\:\\ 0\\.003130591404038582\ \(0\)\
+\-\ of\\:\\ 0\\.0030392295860344806\ \(0\)\
+\-\ \\.\\:\\ 0\\.0015434580911889684\ \(0\)\

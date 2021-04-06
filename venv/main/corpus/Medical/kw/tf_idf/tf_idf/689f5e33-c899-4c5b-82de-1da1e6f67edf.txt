@@ -1,54 +1,52 @@
-Texto: 
-aneurysmectomy and closure of the aorta with a bovine pericardial patch.
-eccentric dilation of the aorta at the cannulation site after cardipulmonary bypass surgery.
-aortic pseudoaneursym
-ductus diverticulum
-post traumatic saccular aneurysm
-post mycotic pseudoaneurysm
-post cannulation pseudoaneurysm
-65 y/o caucasian female with history of staphylococcal endocarditis and aortic valve replacement developed mediastinitis.
-
-
-Keywords by value: 
-- cannulation: 0.275603790546371
-- pseudoaneurysm: 0.18492615229428971
-- cardipulmonary: 0.1574199718565446
-- aneurysmectomy: 0.14504234363225987
-- staphylococcal: 0.14504234363225987
-- post: 0.14415187677173
-- pseudoaneursym: 0.1378018952731855
-- bovine: 0.13266471540797511
-- aorta: 0.1310008552554659
-- aortic: 0.12353329104623162
-- ductus: 0.11161730475901716
-- mediastinitis: 0.11029394811341499
-- saccular: 0.10580619046554167
-- patch: 0.1048407043714296
-- endocarditis: 0.10392475268593762
-- mycotic: 0.09923967653473242
-- eccentric: 0.0972896891782147
-- bypass: 0.09444924820268458
-- closure: 0.09025568407630241
-- pericardial: 0.08207161997839985
-- valve: 0.0762897078874374
-- 65: 0.07448442008616296
-- replacement: 0.07448442008616296
-- caucasian: 0.07284499956378576
-- diverticulum: 0.07268904099291514
-- dilation: 0.0719290478782938
-- site: 0.06449128101588754
-- traumatic: 0.06391207966315265
-- aneurysm: 0.060311412768630404
-- developed: 0.05875116937204847
-- y/o: 0.04226123267535072
-- surgery: 0.037053554720719195
-- after: 0.0315714500465929
-- female: 0.03137071913299703
-- history: 0.021075259601912203
-- at: 0.020674342014850588
-- the: 0.007406211680551382
-- a: 0.007082139318189308
-- and: 0.006428893061864944
-- of: 0.00624127504274938
-- with: 0.004178720574638919
-- .: 0.0019017608623578361
+\-\ Texto\\:\\ \ \(0\)\
+\-\ aneurysmectomy\\ and\\ closure\\ of\\ the\\ aorta\\ with\\ a\\ bovine\\ pericardial\\ patch\\.\ \(0\)\
+\-\ eccentric\\ dilation\\ of\\ the\\ aorta\\ at\\ the\\ cannulation\\ site\\ after\\ cardipulmonary\\ bypass\\ surgery\\.\ \(0\)\
+\-\ aortic\\ pseudoaneursym\ \(0\)\
+\-\ ductus\\ diverticulum\ \(1\)\
+\-\ post\\ traumatic\\ saccular\\ aneurysm\ \(1\)\
+\-\ post\\ mycotic\\ pseudoaneurysm\ \(1\)\
+\-\ post\\ cannulation\\ pseudoaneurysm\ \(1\)\
+\-\ 65\\ y\\/o\\ caucasian\\ female\\ with\\ history\\ of\\ staphylococcal\\ endocarditis\\ and\\ aortic\\ valve\\ replacement\\ developed\\ mediastinitis\\.\ \(1\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ cannulation\\:\\ 0\\.275603790546371\ \(0\)\
+\-\ pseudoaneurysm\\:\\ 0\\.18492615229428971\ \(0\)\
+\-\ cardipulmonary\\:\\ 0\\.1574199718565446\ \(0\)\
+\-\ aneurysmectomy\\:\\ 0\\.14504234363225987\ \(0\)\
+\-\ staphylococcal\\:\\ 0\\.14504234363225987\ \(0\)\
+\-\ post\\:\\ 0\\.14415187677173\ \(0\)\
+\-\ pseudoaneursym\\:\\ 0\\.1378018952731855\ \(0\)\
+\-\ bovine\\:\\ 0\\.13266471540797511\ \(0\)\
+\-\ aorta\\:\\ 0\\.1310008552554659\ \(0\)\
+\-\ aortic\\:\\ 0\\.12353329104623162\ \(0\)\
+\-\ ductus\\:\\ 0\\.11161730475901716\ \(0\)\
+\-\ mediastinitis\\:\\ 0\\.11029394811341499\ \(0\)\
+\-\ saccular\\:\\ 0\\.10580619046554167\ \(0\)\
+\-\ patch\\:\\ 0\\.1048407043714296\ \(0\)\
+\-\ endocarditis\\:\\ 0\\.10392475268593762\ \(0\)\
+\-\ mycotic\\:\\ 0\\.09923967653473242\ \(0\)\
+\-\ eccentric\\:\\ 0\\.0972896891782147\ \(0\)\
+\-\ bypass\\:\\ 0\\.09444924820268458\ \(0\)\
+\-\ closure\\:\\ 0\\.09025568407630241\ \(0\)\
+\-\ pericardial\\:\\ 0\\.08207161997839985\ \(0\)\
+\-\ valve\\:\\ 0\\.0762897078874374\ \(0\)\
+\-\ 65\\:\\ 0\\.07448442008616296\ \(0\)\
+\-\ replacement\\:\\ 0\\.07448442008616296\ \(0\)\
+\-\ caucasian\\:\\ 0\\.07284499956378576\ \(0\)\
+\-\ diverticulum\\:\\ 0\\.07268904099291514\ \(0\)\
+\-\ dilation\\:\\ 0\\.0719290478782938\ \(0\)\
+\-\ site\\:\\ 0\\.06449128101588754\ \(0\)\
+\-\ traumatic\\:\\ 0\\.06391207966315265\ \(0\)\
+\-\ aneurysm\\:\\ 0\\.060311412768630404\ \(0\)\
+\-\ developed\\:\\ 0\\.05875116937204847\ \(0\)\
+\-\ y\\/o\\:\\ 0\\.04226123267535072\ \(0\)\
+\-\ surgery\\:\\ 0\\.037053554720719195\ \(0\)\
+\-\ after\\:\\ 0\\.0315714500465929\ \(0\)\
+\-\ female\\:\\ 0\\.03137071913299703\ \(0\)\
+\-\ history\\:\\ 0\\.021075259601912203\ \(0\)\
+\-\ at\\:\\ 0\\.020674342014850588\ \(0\)\
+\-\ the\\:\\ 0\\.007406211680551382\ \(0\)\
+\-\ a\\:\\ 0\\.007082139318189308\ \(0\)\
+\-\ and\\:\\ 0\\.006428893061864944\ \(0\)\
+\-\ of\\:\\ 0\\.00624127504274938\ \(0\)\
+\-\ with\\:\\ 0\\.004178720574638919\ \(0\)\
+\-\ \\.\\:\\ 0\\.0019017608623578361\ \(0\)\

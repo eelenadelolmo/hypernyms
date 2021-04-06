@@ -1,102 +1,100 @@
-Texto: 
-physical exam is remarkable for light bibasilar crackles.
-pulmonary function testing is siginificant for a restrictive pattern of pulmonary pathology.
-no treatment is necesary as it is a sequelae of trauma or infection.
-chest radiograph shows a diffuse linear interstitial pattern with an air-filled cystic structure with no internal vascular markings and surrounded by a well-circumscribed, thin, regular wall in the left lung.
-lung windows ct scan shows a reticular interstital pattern with minimal ground glass attenuation and the presence of a thin-walled cystic structure laterally, at the level of the left pulmonary artery.
-pneumatocele
-post-traumatic pneumatocele 
-infectious pneumatocele
-bronchogenic cyst 
-cystic adenomatoid malformation
-bullae
-pneumonia
-53 year old male with progressively increasing dyspnea along with history of inhalation injury during operation iraqi freedom.
-
-
-Keywords by value: 
-- pneumatocele: 0.42507463467792644
-- pattern: 0.22561630527166587
-- pulmonary: 0.1842014572260827
-- cystic: 0.1820014449843403
-- structure: 0.1721375925207807
-- siginificant: 0.161091578507
-- thin: 0.15682272161751354
-- necesary: 0.15393160332022696
-- freedom: 0.1488515200794152
-- interstital: 0.14491110138851285
-- iraqi: 0.14491110138851285
-- restrictive: 0.13098799179623002
-- inhalation: 0.13098799179623002
-- bullae: 0.1280380385767824
-- lung: 0.12255225677175122
-- shows: 0.11824133832704938
-- reticular: 0.1151315360915112
-- adenomatoid: 0.1151315360915112
-- operation: 0.11448933180646234
-- bibasilar: 0.11386966571412675
-- is: 0.11034400935902411
-- windows: 0.10909669754630548
-- sequelae: 0.10691383929348701
-- crackles: 0.10390081932274099
-- surrounded: 0.10355792172161278
-- laterally: 0.10193672235953241
-- glass: 0.10132774230177023
-- markings: 0.10103095091898533
-- remarkable: 0.09934789975428733
-- with: 0.09862242333112411
-- of: 0.09856353164445293
-- progressively: 0.0985629406772893
-- ground: 0.09805837287697615
-- bronchogenic: 0.09685663911872068
-- 53: 0.0942678165134756
-- interstitial: 0.09131786329402797
-- testing: 0.09048866535065161
-- dyspnea: 0.08864434665787523
-- light: 0.08724212844984752
-- regular: 0.08697456770093742
-- function: 0.08153308507880479
-- linear: 0.08114708781743617
-- infectious: 0.08105189259178171
-- the: 0.08039832725583163
-- pneumonia: 0.0795074774411739
-- increasing: 0.07933435182316338
-- pathology: 0.07907780486644317
-- malformation: 0.07769049861372508
-- attenuation: 0.07707353903861353
-- minimal: 0.0768476254466006
-- presence: 0.07237652226355107
-- left: 0.06872341497334379
-- internal: 0.06788708510592466
-- along: 0.06748624054466602
-- vascular: 0.06650138061941871
-- injury: 0.06568747289398066
-- radiograph: 0.06560810794423501
-- no: 0.06551346735670502
-- during: 0.06380309918850306
-- diffuse: 0.06317111108632156
-- artery: 0.06256096192851633
-- wall: 0.06127612838587561
-- for: 0.06106188181862037
-- infection: 0.06084764739463964
-- level: 0.06084764739463964
-- scan: 0.05976287344857353
-- trauma: 0.058501003071189106
-- cyst: 0.05810828106778479
-- physical: 0.05461892514142637
-- chest: 0.05317118380329576
-- it: 0.05156304076091825
-- exam: 0.05070828140667038
-- treatment: 0.047983752684218416
-- male: 0.04484953339354091
-- by: 0.04277643193856641
-- and: 0.0416298574588225
-- as: 0.0404674136997365
-- an: 0.03851938285531493
-- history: 0.03848525980780087
-- ct: 0.03834942320265657
-- at: 0.03804755821788486
-- or: 0.03504269098719523
-- year: 0.031043461346133158
-- old: 0.02981246885311074
-- in: 0.025058725045445016
+\-\ Texto\\:\\ \ \(0\)\
+\-\ physical\\ exam\\ is\\ remarkable\\ for\\ light\\ bibasilar\\ crackles\\.\ \(0\)\
+\-\ pulmonary\\ function\\ testing\\ is\\ siginificant\\ for\\ a\\ restrictive\\ pattern\\ of\\ pulmonary\\ pathology\\.\ \(0\)\
+\-\ no\\ treatment\\ is\\ necesary\\ as\\ it\\ is\\ a\\ sequelae\\ of\\ trauma\\ or\\ infection\\.\ \(0\)\
+\-\ chest\\ radiograph\\ shows\\ a\\ diffuse\\ linear\\ interstitial\\ pattern\\ with\\ an\\ air\\-filled\\ cystic\\ structure\\ with\\ no\\ internal\\ vascular\\ markings\\ and\\ surrounded\\ by\\ a\\ well\\-circumscribed\\,\\ thin\\,\\ regular\\ wall\\ in\\ the\\ left\\ lung\\.\ \(0\)\
+\-\ lung\\ windows\\ ct\\ scan\\ shows\\ a\\ reticular\\ interstital\\ pattern\\ with\\ minimal\\ ground\\ glass\\ attenuation\\ and\\ the\\ presence\\ of\\ a\\ thin\\-walled\\ cystic\\ structure\\ laterally\\,\\ at\\ the\\ level\\ of\\ the\\ left\\ pulmonary\\ artery\\.\ \(0\)\
+\-\ pneumatocele\ \(5\)\
+\-\ post\\-traumatic\\ pneumatocele\\ \ \(0\)\
+\-\ infectious\\ pneumatocele\ \(0\)\
+\-\ bronchogenic\\ cyst\\ \ \(2\)\
+\-\ cystic\\ adenomatoid\\ malformation\ \(12\)\
+\-\ bullae\ \(10\)\
+\-\ pneumonia\ \(272\)\
+\-\ 53\\ year\\ old\\ male\\ with\\ progressively\\ increasing\\ dyspnea\\ along\\ with\\ history\\ of\\ inhalation\\ injury\\ during\\ operation\\ iraqi\\ freedom\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ pneumatocele\\:\\ 0\\.42507463467792644\ \(0\)\
+\-\ pattern\\:\\ 0\\.22561630527166587\ \(0\)\
+\-\ pulmonary\\:\\ 0\\.1842014572260827\ \(0\)\
+\-\ cystic\\:\\ 0\\.1820014449843403\ \(0\)\
+\-\ structure\\:\\ 0\\.1721375925207807\ \(0\)\
+\-\ siginificant\\:\\ 0\\.161091578507\ \(0\)\
+\-\ thin\\:\\ 0\\.15682272161751354\ \(0\)\
+\-\ necesary\\:\\ 0\\.15393160332022696\ \(0\)\
+\-\ freedom\\:\\ 0\\.1488515200794152\ \(0\)\
+\-\ interstital\\:\\ 0\\.14491110138851285\ \(0\)\
+\-\ iraqi\\:\\ 0\\.14491110138851285\ \(0\)\
+\-\ restrictive\\:\\ 0\\.13098799179623002\ \(0\)\
+\-\ inhalation\\:\\ 0\\.13098799179623002\ \(0\)\
+\-\ bullae\\:\\ 0\\.1280380385767824\ \(0\)\
+\-\ lung\\:\\ 0\\.12255225677175122\ \(0\)\
+\-\ shows\\:\\ 0\\.11824133832704938\ \(0\)\
+\-\ reticular\\:\\ 0\\.1151315360915112\ \(0\)\
+\-\ adenomatoid\\:\\ 0\\.1151315360915112\ \(0\)\
+\-\ operation\\:\\ 0\\.11448933180646234\ \(0\)\
+\-\ bibasilar\\:\\ 0\\.11386966571412675\ \(0\)\
+\-\ is\\:\\ 0\\.11034400935902411\ \(0\)\
+\-\ windows\\:\\ 0\\.10909669754630548\ \(0\)\
+\-\ sequelae\\:\\ 0\\.10691383929348701\ \(0\)\
+\-\ crackles\\:\\ 0\\.10390081932274099\ \(0\)\
+\-\ surrounded\\:\\ 0\\.10355792172161278\ \(0\)\
+\-\ laterally\\:\\ 0\\.10193672235953241\ \(0\)\
+\-\ glass\\:\\ 0\\.10132774230177023\ \(0\)\
+\-\ markings\\:\\ 0\\.10103095091898533\ \(0\)\
+\-\ remarkable\\:\\ 0\\.09934789975428733\ \(0\)\
+\-\ with\\:\\ 0\\.09862242333112411\ \(0\)\
+\-\ of\\:\\ 0\\.09856353164445293\ \(0\)\
+\-\ progressively\\:\\ 0\\.0985629406772893\ \(0\)\
+\-\ ground\\:\\ 0\\.09805837287697615\ \(0\)\
+\-\ bronchogenic\\:\\ 0\\.09685663911872068\ \(0\)\
+\-\ 53\\:\\ 0\\.0942678165134756\ \(0\)\
+\-\ interstitial\\:\\ 0\\.09131786329402797\ \(0\)\
+\-\ testing\\:\\ 0\\.09048866535065161\ \(0\)\
+\-\ dyspnea\\:\\ 0\\.08864434665787523\ \(0\)\
+\-\ light\\:\\ 0\\.08724212844984752\ \(0\)\
+\-\ regular\\:\\ 0\\.08697456770093742\ \(0\)\
+\-\ function\\:\\ 0\\.08153308507880479\ \(0\)\
+\-\ linear\\:\\ 0\\.08114708781743617\ \(0\)\
+\-\ infectious\\:\\ 0\\.08105189259178171\ \(0\)\
+\-\ the\\:\\ 0\\.08039832725583163\ \(0\)\
+\-\ pneumonia\\:\\ 0\\.0795074774411739\ \(0\)\
+\-\ increasing\\:\\ 0\\.07933435182316338\ \(0\)\
+\-\ pathology\\:\\ 0\\.07907780486644317\ \(0\)\
+\-\ malformation\\:\\ 0\\.07769049861372508\ \(0\)\
+\-\ attenuation\\:\\ 0\\.07707353903861353\ \(0\)\
+\-\ minimal\\:\\ 0\\.0768476254466006\ \(0\)\
+\-\ presence\\:\\ 0\\.07237652226355107\ \(0\)\
+\-\ left\\:\\ 0\\.06872341497334379\ \(0\)\
+\-\ internal\\:\\ 0\\.06788708510592466\ \(0\)\
+\-\ along\\:\\ 0\\.06748624054466602\ \(0\)\
+\-\ vascular\\:\\ 0\\.06650138061941871\ \(0\)\
+\-\ injury\\:\\ 0\\.06568747289398066\ \(0\)\
+\-\ radiograph\\:\\ 0\\.06560810794423501\ \(0\)\
+\-\ no\\:\\ 0\\.06551346735670502\ \(0\)\
+\-\ during\\:\\ 0\\.06380309918850306\ \(0\)\
+\-\ diffuse\\:\\ 0\\.06317111108632156\ \(0\)\
+\-\ artery\\:\\ 0\\.06256096192851633\ \(0\)\
+\-\ wall\\:\\ 0\\.06127612838587561\ \(0\)\
+\-\ for\\:\\ 0\\.06106188181862037\ \(0\)\
+\-\ infection\\:\\ 0\\.06084764739463964\ \(0\)\
+\-\ level\\:\\ 0\\.06084764739463964\ \(0\)\
+\-\ scan\\:\\ 0\\.05976287344857353\ \(0\)\
+\-\ trauma\\:\\ 0\\.058501003071189106\ \(0\)\
+\-\ cyst\\:\\ 0\\.05810828106778479\ \(0\)\
+\-\ physical\\:\\ 0\\.05461892514142637\ \(0\)\
+\-\ chest\\:\\ 0\\.05317118380329576\ \(0\)\
+\-\ it\\:\\ 0\\.05156304076091825\ \(0\)\
+\-\ exam\\:\\ 0\\.05070828140667038\ \(0\)\
+\-\ treatment\\:\\ 0\\.047983752684218416\ \(0\)\
+\-\ male\\:\\ 0\\.04484953339354091\ \(0\)\
+\-\ by\\:\\ 0\\.04277643193856641\ \(0\)\
+\-\ and\\:\\ 0\\.0416298574588225\ \(0\)\
+\-\ as\\:\\ 0\\.0404674136997365\ \(0\)\
+\-\ an\\:\\ 0\\.03851938285531493\ \(0\)\
+\-\ history\\:\\ 0\\.03848525980780087\ \(0\)\
+\-\ ct\\:\\ 0\\.03834942320265657\ \(0\)\
+\-\ at\\:\\ 0\\.03804755821788486\ \(0\)\
+\-\ or\\:\\ 0\\.03504269098719523\ \(0\)\
+\-\ year\\:\\ 0\\.031043461346133158\ \(0\)\
+\-\ old\\:\\ 0\\.02981246885311074\ \(0\)\
+\-\ in\\:\\ 0\\.025058725045445016\ \(0\)\

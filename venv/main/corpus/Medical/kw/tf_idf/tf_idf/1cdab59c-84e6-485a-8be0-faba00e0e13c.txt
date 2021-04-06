@@ -1,115 +1,111 @@
-Texto: 
-pes planus deformity
-conservative therapy with nsaids.
-calcaneocuboid coalition
-pes planus deformity
-enlarged steida's process vs. partially fused os trigonum
-talonavicular osteoarthritis
-calcaneocuboid coalition
-congenital (can be familial, sometimes associated with other skeletal abnormalities)
-inflamatory(ankylosing spondylitis, psoriasis) 
-iatrogenic
-long history of mild foot paint.
-regarding the ancillary findings on this study:
-
-there is a groove on the posterior aspect of the talus for the tendon of flexor hallucis longus. occasionally there is a process lateral to this groove known as steida's process. an os trigonum is the accessory osicle that is present when this process is not fused to the talus.  the presence of an os trigonum or large steida's process can lead to tarsal compression syndrome.
-
-there is an association between tarsal coalitions and pes planus deformity.  the altered biomechanics related to tarsal coalitions leads to premature secondary osteoarthritis, as in this case.
-
-
-Keywords by value: 
-- steida: 0.1476794771528464
-- trigonum: 0.1476794771528464
-- planus: 0.11668405729396596
-- pes: 0.11510203225779086
-- tarsal: 0.10492719974987408
-- process: 0.09969895408590045
-- calcaneocuboid: 0.09845298476856428
-- os: 0.09276266104113073
-- coalitions: 0.09005120076177706
-- groove: 0.07486619508304533
-- coalition: 0.06995146649991606
-- deformity: 0.06690399976211338
-- talus: 0.06603906174521242
-- fused: 0.062141078422455295
-- osicle: 0.05342738438767575
-- osteoarthritis: 0.051403726611674125
-- ancillary: 0.04676912809271751
-- biomechanics: 0.04502560038088853
-- paint: 0.04367321522140847
-- inflamatory: 0.0425682360893239
-- talonavicular: 0.04082470837749492
-- psoriasis: 0.03701495892645023
-- hallucis: 0.03527143121462126
-- longus: 0.03497573324995803
-- 's: 0.034255393061219
-- flexor: 0.03261534072412941
-- familial: 0.03170908779097205
-- iatrogenic: 0.03154303340195317
-- ankylosing: 0.03138140766206129
-- accessory: 0.031223980471738497
-- spondylitis: 0.030920887013710246
-- regarding: 0.030356702631491993
-- altered: 0.029365009154026525
-- leads: 0.028924043370496654
-- premature: 0.028222032367314097
-- nsaids: 0.027944398815609287
-- occasionally: 0.02726078976018296
-- sometimes: 0.026361274577647968
-- skeletal: 0.02557817317473884
-- association: 0.02516411715063292
-- lead: 0.024830421531341837
-- tendon: 0.024164876888873924
-- partially: 0.02369844633653375
-- can: 0.023493604272352357
-- this: 0.02330029608034262
-- there: 0.023122101026636158
-- an: 0.021484815714267812
-- foot: 0.021407967849869758
-- related: 0.02137728117134523
-- conservative: 0.020683885103601325
-- is: 0.020446937395808204
-- vs: 0.020390787699398776
-- compression: 0.019386347432120768
-- abnormalities: 0.0190228158890801
-- congenital: 0.01894035739177235
-- presence: 0.018798700717921994
-- long: 0.01785588794444075
-- enlarged: 0.017670430729600037
-- study: 0.01704019004157551
-- between: 0.016415124461965115
-- known: 0.016388188390689815
-- aspect: 0.0162684359665658
-- as: 0.015667606132050035
-- when: 0.014832310531006095
-- syndrome: 0.014811555010512978
-- secondary: 0.014478969493992773
-- therapy: 0.013846307856003714
-- mild: 0.01363789972079477
-- to: 0.012941457831605645
-- associated: 0.012220985223683041
-- other: 0.011937203325469386
-- posterior: 0.011937203325469386
-- present: 0.011697022751101096
-- case: 0.011330329896165277
-- large: 0.011324499586855028
-- lateral: 0.0111919275492397
-- findings: 0.011023254156302786
-- that: 0.008945337748841353
-- on: 0.008774436513520341
-- (: 0.008755899712046794
-- ): 0.008648941722585516
-- be: 0.007986404383902601
-- not: 0.007483749525708699
-- history: 0.007152815380042929
-- :: 0.006850150399943425
-- the: 0.006702995621993978
-- or: 0.006069834842204288
-- ,: 0.0049220011912234065
-- a: 0.0048072703250739545
-- for: 0.004418837264501304
-- of: 0.0028243345647997195
-- in: 0.002553922606910636
-- .: 0.001936338332582524
-- with: 0.0014182324374532088
-- and: 0.0010909636711043543
+\-\ Texto\\:\\ \ \(0\)\
+\-\ pes\\ planus\\ deformity\ \(2\)\
+\-\ conservative\\ therapy\\ with\\ nsaids\\.\ \(0\)\
+\-\ calcaneocuboid\\ coalition\ \(0\)\
+\-\ pes\\ planus\\ deformity\ \(2\)\
+\-\ enlarged\\ steida\\'s\\ process\\ vs\\.\\ partially\\ fused\\ os\\ trigonum\ \(0\)\
+\-\ talonavicular\\ osteoarthritis\ \(0\)\
+\-\ calcaneocuboid\\ coalition\ \(0\)\
+\-\ congenital\\ \\(can\\ be\\ familial\\,\\ sometimes\\ associated\\ with\\ other\\ skeletal\\ abnormalities\\)\ \(0\)\
+\-\ inflamatory\\(ankylosing\\ spondylitis\\,\\ psoriasis\\)\\ \ \(0\)\
+\-\ iatrogenic\ \(23\)\
+\-\ long\\ history\\ of\\ mild\\ foot\\ paint\\.\ \(0\)\
+\-\ regarding\\ the\\ ancillary\\ findings\\ on\\ this\\ study\\:\ \(0\)\
+\-\ there\\ is\\ a\\ groove\\ on\\ the\\ posterior\\ aspect\\ of\\ the\\ talus\\ for\\ the\\ tendon\\ of\\ flexor\\ hallucis\\ longus\\.\\ occasionally\\ there\\ is\\ a\\ process\\ lateral\\ to\\ this\\ groove\\ known\\ as\\ steida\\'s\\ process\\.\\ an\\ os\\ trigonum\\ is\\ the\\ accessory\\ osicle\\ that\\ is\\ present\\ when\\ this\\ process\\ is\\ not\\ fused\\ to\\ the\\ talus\\.\\ \\ the\\ presence\\ of\\ an\\ os\\ trigonum\\ or\\ large\\ steida\\'s\\ process\\ can\\ lead\\ to\\ tarsal\\ compression\\ syndrome\\.\ \(0\)\
+\-\ there\\ is\\ an\\ association\\ between\\ tarsal\\ coalitions\\ and\\ pes\\ planus\\ deformity\\.\\ \\ the\\ altered\\ biomechanics\\ related\\ to\\ tarsal\\ coalitions\\ leads\\ to\\ premature\\ secondary\\ osteoarthritis\\,\\ as\\ in\\ this\\ case\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ steida\\:\\ 0\\.1476794771528464\ \(0\)\
+\-\ trigonum\\:\\ 0\\.1476794771528464\ \(0\)\
+\-\ planus\\:\\ 0\\.11668405729396596\ \(0\)\
+\-\ pes\\:\\ 0\\.11510203225779086\ \(0\)\
+\-\ tarsal\\:\\ 0\\.10492719974987408\ \(0\)\
+\-\ process\\:\\ 0\\.09969895408590045\ \(0\)\
+\-\ calcaneocuboid\\:\\ 0\\.09845298476856428\ \(0\)\
+\-\ os\\:\\ 0\\.09276266104113073\ \(0\)\
+\-\ coalitions\\:\\ 0\\.09005120076177706\ \(0\)\
+\-\ groove\\:\\ 0\\.07486619508304533\ \(0\)\
+\-\ coalition\\:\\ 0\\.06995146649991606\ \(0\)\
+\-\ deformity\\:\\ 0\\.06690399976211338\ \(0\)\
+\-\ talus\\:\\ 0\\.06603906174521242\ \(0\)\
+\-\ fused\\:\\ 0\\.062141078422455295\ \(0\)\
+\-\ osicle\\:\\ 0\\.05342738438767575\ \(0\)\
+\-\ osteoarthritis\\:\\ 0\\.051403726611674125\ \(0\)\
+\-\ ancillary\\:\\ 0\\.04676912809271751\ \(0\)\
+\-\ biomechanics\\:\\ 0\\.04502560038088853\ \(0\)\
+\-\ paint\\:\\ 0\\.04367321522140847\ \(0\)\
+\-\ inflamatory\\:\\ 0\\.0425682360893239\ \(0\)\
+\-\ talonavicular\\:\\ 0\\.04082470837749492\ \(0\)\
+\-\ psoriasis\\:\\ 0\\.03701495892645023\ \(0\)\
+\-\ hallucis\\:\\ 0\\.03527143121462126\ \(0\)\
+\-\ longus\\:\\ 0\\.03497573324995803\ \(0\)\
+\-\ \\'s\\:\\ 0\\.034255393061219\ \(0\)\
+\-\ flexor\\:\\ 0\\.03261534072412941\ \(0\)\
+\-\ familial\\:\\ 0\\.03170908779097205\ \(0\)\
+\-\ iatrogenic\\:\\ 0\\.03154303340195317\ \(0\)\
+\-\ ankylosing\\:\\ 0\\.03138140766206129\ \(0\)\
+\-\ accessory\\:\\ 0\\.031223980471738497\ \(0\)\
+\-\ spondylitis\\:\\ 0\\.030920887013710246\ \(0\)\
+\-\ regarding\\:\\ 0\\.030356702631491993\ \(0\)\
+\-\ altered\\:\\ 0\\.029365009154026525\ \(0\)\
+\-\ leads\\:\\ 0\\.028924043370496654\ \(0\)\
+\-\ premature\\:\\ 0\\.028222032367314097\ \(0\)\
+\-\ nsaids\\:\\ 0\\.027944398815609287\ \(0\)\
+\-\ occasionally\\:\\ 0\\.02726078976018296\ \(0\)\
+\-\ sometimes\\:\\ 0\\.026361274577647968\ \(0\)\
+\-\ skeletal\\:\\ 0\\.02557817317473884\ \(0\)\
+\-\ association\\:\\ 0\\.02516411715063292\ \(0\)\
+\-\ lead\\:\\ 0\\.024830421531341837\ \(0\)\
+\-\ tendon\\:\\ 0\\.024164876888873924\ \(0\)\
+\-\ partially\\:\\ 0\\.02369844633653375\ \(0\)\
+\-\ can\\:\\ 0\\.023493604272352357\ \(0\)\
+\-\ this\\:\\ 0\\.02330029608034262\ \(0\)\
+\-\ there\\:\\ 0\\.023122101026636158\ \(0\)\
+\-\ an\\:\\ 0\\.021484815714267812\ \(0\)\
+\-\ foot\\:\\ 0\\.021407967849869758\ \(0\)\
+\-\ related\\:\\ 0\\.02137728117134523\ \(0\)\
+\-\ conservative\\:\\ 0\\.020683885103601325\ \(0\)\
+\-\ is\\:\\ 0\\.020446937395808204\ \(0\)\
+\-\ vs\\:\\ 0\\.020390787699398776\ \(0\)\
+\-\ compression\\:\\ 0\\.019386347432120768\ \(0\)\
+\-\ abnormalities\\:\\ 0\\.0190228158890801\ \(0\)\
+\-\ congenital\\:\\ 0\\.01894035739177235\ \(0\)\
+\-\ presence\\:\\ 0\\.018798700717921994\ \(0\)\
+\-\ long\\:\\ 0\\.01785588794444075\ \(0\)\
+\-\ enlarged\\:\\ 0\\.017670430729600037\ \(0\)\
+\-\ study\\:\\ 0\\.01704019004157551\ \(0\)\
+\-\ between\\:\\ 0\\.016415124461965115\ \(0\)\
+\-\ known\\:\\ 0\\.016388188390689815\ \(0\)\
+\-\ aspect\\:\\ 0\\.0162684359665658\ \(0\)\
+\-\ as\\:\\ 0\\.015667606132050035\ \(0\)\
+\-\ when\\:\\ 0\\.014832310531006095\ \(0\)\
+\-\ syndrome\\:\\ 0\\.014811555010512978\ \(0\)\
+\-\ secondary\\:\\ 0\\.014478969493992773\ \(0\)\
+\-\ therapy\\:\\ 0\\.013846307856003714\ \(0\)\
+\-\ mild\\:\\ 0\\.01363789972079477\ \(0\)\
+\-\ to\\:\\ 0\\.012941457831605645\ \(0\)\
+\-\ associated\\:\\ 0\\.012220985223683041\ \(0\)\
+\-\ other\\:\\ 0\\.011937203325469386\ \(0\)\
+\-\ posterior\\:\\ 0\\.011937203325469386\ \(0\)\
+\-\ present\\:\\ 0\\.011697022751101096\ \(0\)\
+\-\ case\\:\\ 0\\.011330329896165277\ \(0\)\
+\-\ large\\:\\ 0\\.011324499586855028\ \(0\)\
+\-\ lateral\\:\\ 0\\.0111919275492397\ \(0\)\
+\-\ findings\\:\\ 0\\.011023254156302786\ \(0\)\
+\-\ that\\:\\ 0\\.008945337748841353\ \(0\)\
+\-\ on\\:\\ 0\\.008774436513520341\ \(0\)\
+\-\ \\(\\:\\ 0\\.008755899712046794\ \(0\)\
+\-\ \\)\\:\\ 0\\.008648941722585516\ \(0\)\
+\-\ be\\:\\ 0\\.007986404383902601\ \(0\)\
+\-\ not\\:\\ 0\\.007483749525708699\ \(0\)\
+\-\ history\\:\\ 0\\.007152815380042929\ \(0\)\
+\-\ \\:\\:\\ 0\\.006850150399943425\ \(0\)\
+\-\ the\\:\\ 0\\.006702995621993978\ \(0\)\
+\-\ or\\:\\ 0\\.006069834842204288\ \(0\)\
+\-\ \\,\\:\\ 0\\.0049220011912234065\ \(0\)\
+\-\ a\\:\\ 0\\.0048072703250739545\ \(0\)\
+\-\ for\\:\\ 0\\.004418837264501304\ \(0\)\
+\-\ of\\:\\ 0\\.0028243345647997195\ \(0\)\
+\-\ in\\:\\ 0\\.002553922606910636\ \(0\)\
+\-\ \\.\\:\\ 0\\.001936338332582524\ \(0\)\
+\-\ with\\:\\ 0\\.0014182324374532088\ \(0\)\
+\-\ and\\:\\ 0\\.0010909636711043543\ \(0\)\

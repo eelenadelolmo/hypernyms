@@ -1,111 +1,108 @@
-Texto: 
-left testicular lump. nontender to palpation. no scrotal skin changes. no palpable lymph nodes.
-
-afp, testosterone, bhcg, and ldh were all witnin normal limits.
-patient was treated by radical orchiectomy. subsequent imaging was negative for evidence of metastatic disease.
-testicular ultrasound demonstrate 2 well-defined hypoechoic, hypervascular lesions in the left testis as well as diffuse microlithiases. one of the lesions abuts the tunica albuginea with direct invasion not excluded.
-seminoma - dx path proven.
-seminoma
-embryonal tumor
-yolk sac tumor
-non-germ cell tumor
-metastasis
-a 47 year-old male with a history of oligospermia and testicular atrophy presents with concern of a lump in his left testicle. prior ultrasounds had been significant solely for numerous, bilateral microlithiases. his past medical history includes malignant melanoma greater than ten years ago.
-
-
-Keywords by value: 
-- microlithiases: 0.3220896666617748
-- testicular: 0.2833266573710388
-- seminoma: 0.22103366858289847
-- lump: 0.21062515324468897
-- witnin: 0.1610448333308874
-- oligospermia: 0.1610448333308874
-- tumor: 0.1580193707315594
-- albuginea: 0.1365718200585634
-- solely: 0.1326325447891072
-- testosterone: 0.13094998200824545
-- tunica: 0.12941392253658304
-- ultrasounds: 0.12547464726712682
-- bhcg: 0.12326507378502402
-- abuts: 0.12326507378502402
-- his: 0.12214698366758527
-- ten: 0.12039603815294517
-- embryonal: 0.11792874407266778
-- yolk: 0.11576437816313645
-- lesions: 0.11566889809970242
-- orchiectomy: 0.11509812749262234
-- dx: 0.11323814063096482
-- radical: 0.11155557785010307
-- path: 0.11155557785010307
-- ldh: 0.10953582928775425
-- testis: 0.10906504012269978
-- scrotal: 0.10647696873592143
-- hypervascular: 0.10647696873592143
-- afp: 0.10608024310898446
-- left: 0.10305520946115723
-- proven: 0.10160011664565993
-- testicle: 0.10129833925536093
-- excluded: 0.09905359933246224
-- well: 0.09752105939452392
-- atrophy: 0.09527312765957828
-- nontender: 0.0948527852432438
-- melanoma: 0.0940409848650129
-- 47: 0.0923403990632475
-- concern: 0.0923403990632475
-- invasion: 0.08982617483364344
-- sac: 0.08967063596455743
-- direct: 0.0887651273586408
-- hypoechoic: 0.08604382101912522
-- nodes: 0.08554650510611665
-- numerous: 0.08506281601543023
-- as: 0.08091134192124069
-- limits: 0.07957158433722497
-- of: 0.07882794456816287
-- lymph: 0.07830706680433112
-- includes: 0.07830706680433112
-- history: 0.07694818449089655
-- subsequent: 0.07623681990630334
-- skin: 0.07491305440700537
-- greater: 0.07418971664405007
-- metastasis: 0.0738073143829632
-- ago: 0.07368166582804012
-- malignant: 0.07178415812878991
-- palpable: 0.07074702097146954
-- was: 0.07019146775598528
-- palpation: 0.06791247789064236
-- past: 0.06554953230069993
-- no: 0.06549445681253058
-- medical: 0.06400031327014132
-- diffuse: 0.06315278024159132
-- treated: 0.06271014159152666
-- negative: 0.06234407942397622
-- ultrasound: 0.06211502184142106
-- years: 0.06172913658783167
-- for: 0.061044163025087944
-- changes: 0.060860245354574745
-- the: 0.06028124809346374
-- all: 0.059945654926915275
-- with: 0.059156283184694014
-- been: 0.05867027603599884
-- significant: 0.05814326533475776
-- one: 0.057656769861831624
-- cell: 0.057606331120542975
-- evidence: 0.057158752422965434
-- than: 0.057085246914512174
-- prior: 0.056343090210533936
-- metastatic: 0.055230150909636684
-- bilateral: 0.05412110940864538
-- imaging: 0.05292244452375765
-- demonstrate: 0.05235231271071288
-- were: 0.05190910414095544
-- had: 0.050173567434546526
-- in: 0.05010290712686592
-- presents: 0.04844298409380144
-- male: 0.04483651906121839
-- by: 0.0427640191739578
-- disease: 0.04227123039200155
-- and: 0.041617777404505
-- normal: 0.04111605666515302
-- not: 0.03975485596425223
-- patient: 0.03275338912782207
-- to: 0.025175366666023154
+\-\ Texto\\:\\ \ \(0\)\
+\-\ left\\ testicular\\ lump\\.\\ nontender\\ to\\ palpation\\.\\ no\\ scrotal\\ skin\\ changes\\.\\ no\\ palpable\\ lymph\\ nodes\\.\ \(0\)\
+\-\ afp\\,\\ testosterone\\,\\ bhcg\\,\\ and\\ ldh\\ were\\ all\\ witnin\\ normal\\ limits\\.\ \(0\)\
+\-\ patient\\ was\\ treated\\ by\\ radical\\ orchiectomy\\.\\ subsequent\\ imaging\\ was\\ negative\\ for\\ evidence\\ of\\ metastatic\\ disease\\.\ \(0\)\
+\-\ testicular\\ ultrasound\\ demonstrate\\ 2\\ well\\-defined\\ hypoechoic\\,\\ hypervascular\\ lesions\\ in\\ the\\ left\\ testis\\ as\\ well\\ as\\ diffuse\\ microlithiases\\.\\ one\\ of\\ the\\ lesions\\ abuts\\ the\\ tunica\\ albuginea\\ with\\ direct\\ invasion\\ not\\ excluded\\.\ \(0\)\
+\-\ seminoma\\ \\-\\ dx\\ path\\ proven\\.\ \(0\)\
+\-\ seminoma\ \(37\)\
+\-\ embryonal\\ tumor\ \(0\)\
+\-\ yolk\\ sac\\ tumor\ \(8\)\
+\-\ non\\-germ\\ cell\\ tumor\ \(0\)\
+\-\ metastasis\ \(206\)\
+\-\ a\\ 47\\ year\\-old\\ male\\ with\\ a\\ history\\ of\\ oligospermia\\ and\\ testicular\\ atrophy\\ presents\\ with\\ concern\\ of\\ a\\ lump\\ in\\ his\\ left\\ testicle\\.\\ prior\\ ultrasounds\\ had\\ been\\ significant\\ solely\\ for\\ numerous\\,\\ bilateral\\ microlithiases\\.\\ his\\ past\\ medical\\ history\\ includes\\ malignant\\ melanoma\\ greater\\ than\\ ten\\ years\\ ago\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ microlithiases\\:\\ 0\\.3220896666617748\ \(0\)\
+\-\ testicular\\:\\ 0\\.2833266573710388\ \(0\)\
+\-\ seminoma\\:\\ 0\\.22103366858289847\ \(0\)\
+\-\ lump\\:\\ 0\\.21062515324468897\ \(0\)\
+\-\ witnin\\:\\ 0\\.1610448333308874\ \(0\)\
+\-\ oligospermia\\:\\ 0\\.1610448333308874\ \(0\)\
+\-\ tumor\\:\\ 0\\.1580193707315594\ \(0\)\
+\-\ albuginea\\:\\ 0\\.1365718200585634\ \(0\)\
+\-\ solely\\:\\ 0\\.1326325447891072\ \(0\)\
+\-\ testosterone\\:\\ 0\\.13094998200824545\ \(0\)\
+\-\ tunica\\:\\ 0\\.12941392253658304\ \(0\)\
+\-\ ultrasounds\\:\\ 0\\.12547464726712682\ \(0\)\
+\-\ bhcg\\:\\ 0\\.12326507378502402\ \(0\)\
+\-\ abuts\\:\\ 0\\.12326507378502402\ \(0\)\
+\-\ his\\:\\ 0\\.12214698366758527\ \(0\)\
+\-\ ten\\:\\ 0\\.12039603815294517\ \(0\)\
+\-\ embryonal\\:\\ 0\\.11792874407266778\ \(0\)\
+\-\ yolk\\:\\ 0\\.11576437816313645\ \(0\)\
+\-\ lesions\\:\\ 0\\.11566889809970242\ \(0\)\
+\-\ orchiectomy\\:\\ 0\\.11509812749262234\ \(0\)\
+\-\ dx\\:\\ 0\\.11323814063096482\ \(0\)\
+\-\ radical\\:\\ 0\\.11155557785010307\ \(0\)\
+\-\ path\\:\\ 0\\.11155557785010307\ \(0\)\
+\-\ ldh\\:\\ 0\\.10953582928775425\ \(0\)\
+\-\ testis\\:\\ 0\\.10906504012269978\ \(0\)\
+\-\ scrotal\\:\\ 0\\.10647696873592143\ \(0\)\
+\-\ hypervascular\\:\\ 0\\.10647696873592143\ \(0\)\
+\-\ afp\\:\\ 0\\.10608024310898446\ \(0\)\
+\-\ left\\:\\ 0\\.10305520946115723\ \(0\)\
+\-\ proven\\:\\ 0\\.10160011664565993\ \(0\)\
+\-\ testicle\\:\\ 0\\.10129833925536093\ \(0\)\
+\-\ excluded\\:\\ 0\\.09905359933246224\ \(0\)\
+\-\ well\\:\\ 0\\.09752105939452392\ \(0\)\
+\-\ atrophy\\:\\ 0\\.09527312765957828\ \(0\)\
+\-\ nontender\\:\\ 0\\.0948527852432438\ \(0\)\
+\-\ melanoma\\:\\ 0\\.0940409848650129\ \(0\)\
+\-\ 47\\:\\ 0\\.0923403990632475\ \(0\)\
+\-\ concern\\:\\ 0\\.0923403990632475\ \(0\)\
+\-\ invasion\\:\\ 0\\.08982617483364344\ \(0\)\
+\-\ sac\\:\\ 0\\.08967063596455743\ \(0\)\
+\-\ direct\\:\\ 0\\.0887651273586408\ \(0\)\
+\-\ hypoechoic\\:\\ 0\\.08604382101912522\ \(0\)\
+\-\ nodes\\:\\ 0\\.08554650510611665\ \(0\)\
+\-\ numerous\\:\\ 0\\.08506281601543023\ \(0\)\
+\-\ as\\:\\ 0\\.08091134192124069\ \(0\)\
+\-\ limits\\:\\ 0\\.07957158433722497\ \(0\)\
+\-\ of\\:\\ 0\\.07882794456816287\ \(0\)\
+\-\ lymph\\:\\ 0\\.07830706680433112\ \(0\)\
+\-\ includes\\:\\ 0\\.07830706680433112\ \(0\)\
+\-\ history\\:\\ 0\\.07694818449089655\ \(0\)\
+\-\ subsequent\\:\\ 0\\.07623681990630334\ \(0\)\
+\-\ skin\\:\\ 0\\.07491305440700537\ \(0\)\
+\-\ greater\\:\\ 0\\.07418971664405007\ \(0\)\
+\-\ metastasis\\:\\ 0\\.0738073143829632\ \(0\)\
+\-\ ago\\:\\ 0\\.07368166582804012\ \(0\)\
+\-\ malignant\\:\\ 0\\.07178415812878991\ \(0\)\
+\-\ palpable\\:\\ 0\\.07074702097146954\ \(0\)\
+\-\ was\\:\\ 0\\.07019146775598528\ \(0\)\
+\-\ palpation\\:\\ 0\\.06791247789064236\ \(0\)\
+\-\ past\\:\\ 0\\.06554953230069993\ \(0\)\
+\-\ no\\:\\ 0\\.06549445681253058\ \(0\)\
+\-\ medical\\:\\ 0\\.06400031327014132\ \(0\)\
+\-\ diffuse\\:\\ 0\\.06315278024159132\ \(0\)\
+\-\ treated\\:\\ 0\\.06271014159152666\ \(0\)\
+\-\ negative\\:\\ 0\\.06234407942397622\ \(0\)\
+\-\ ultrasound\\:\\ 0\\.06211502184142106\ \(0\)\
+\-\ years\\:\\ 0\\.06172913658783167\ \(0\)\
+\-\ for\\:\\ 0\\.061044163025087944\ \(0\)\
+\-\ changes\\:\\ 0\\.060860245354574745\ \(0\)\
+\-\ the\\:\\ 0\\.06028124809346374\ \(0\)\
+\-\ all\\:\\ 0\\.059945654926915275\ \(0\)\
+\-\ with\\:\\ 0\\.059156283184694014\ \(0\)\
+\-\ been\\:\\ 0\\.05867027603599884\ \(0\)\
+\-\ significant\\:\\ 0\\.05814326533475776\ \(0\)\
+\-\ one\\:\\ 0\\.057656769861831624\ \(0\)\
+\-\ cell\\:\\ 0\\.057606331120542975\ \(0\)\
+\-\ evidence\\:\\ 0\\.057158752422965434\ \(0\)\
+\-\ than\\:\\ 0\\.057085246914512174\ \(0\)\
+\-\ prior\\:\\ 0\\.056343090210533936\ \(0\)\
+\-\ metastatic\\:\\ 0\\.055230150909636684\ \(0\)\
+\-\ bilateral\\:\\ 0\\.05412110940864538\ \(0\)\
+\-\ imaging\\:\\ 0\\.05292244452375765\ \(0\)\
+\-\ demonstrate\\:\\ 0\\.05235231271071288\ \(0\)\
+\-\ were\\:\\ 0\\.05190910414095544\ \(0\)\
+\-\ had\\:\\ 0\\.050173567434546526\ \(0\)\
+\-\ in\\:\\ 0\\.05010290712686592\ \(0\)\
+\-\ presents\\:\\ 0\\.04844298409380144\ \(0\)\
+\-\ male\\:\\ 0\\.04483651906121839\ \(0\)\
+\-\ by\\:\\ 0\\.0427640191739578\ \(0\)\
+\-\ disease\\:\\ 0\\.04227123039200155\ \(0\)\
+\-\ and\\:\\ 0\\.041617777404505\ \(0\)\
+\-\ normal\\:\\ 0\\.04111605666515302\ \(0\)\
+\-\ not\\:\\ 0\\.03975485596425223\ \(0\)\
+\-\ patient\\:\\ 0\\.03275338912782207\ \(0\)\
+\-\ to\\:\\ 0\\.025175366666023154\ \(0\)\

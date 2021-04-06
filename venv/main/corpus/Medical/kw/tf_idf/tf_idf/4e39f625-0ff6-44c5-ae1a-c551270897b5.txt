@@ -1,89 +1,87 @@
-Texto: 
-following injection of tc-99m dtpa, cortical-phase images reveal a photopenic space-occupying lesion involving approximately one-half the diameter of the upper pole of the left kidney.  additionally, two separate collections of tracer are visualized within the right kidney.  select ct images at the level of the kidneys demonstrate bilateral duplicated renal collecting systems with massive dilation of the left superior moiety ureter, indicating likely obstruction.
-bilateral duplex collecting systems with obstruction of left upper pole moiety
-â€¢ renal cyst
-â€¢ perapelvic cyst
-â€¢ renal abscess
-â€¢ perinephric abscess
-â€¢ renal neoplasm (renal cell, wilmsâ€™, nephroblastoma, oncocytoma, mets, lymphoma)
-â€¢ ureteral obstruction
-â€¢ duplicated collecting system
-32 y.o. woman with right flank pain.
-
-
-Keywords by value: 
-- moiety: 0.1081828074789163
-- collecting: 0.10301979041841709
-- renal: 0.10108171454559327
-- duplicated: 0.08944920012657241
-- â€¢: 0.0863708697730017
-- systems: 0.07147798905433768
-- obstruction: 0.07118267831313627
-- cortical-phase: 0.069413530897374
-- perapelvic: 0.069413530897374
-- pole: 0.06266514200023654
-- space-occupying: 0.06076304043542038
-- one-half: 0.05409140373945815
-- select: 0.05409140373945815
-- nephroblastoma: 0.05303997545107608
-- dtpa: 0.048633551924025506
-- photopenic: 0.04758212363564344
-- kidney: 0.047407613465354485
-- duplex: 0.044724600063286206
-- tracer: 0.04406805196140391
-- oncocytoma: 0.04375922744838595
-- perinephric: 0.0426324491520027
-- abscess: 0.042548602269830975
-- wilms: 0.041646912593309736
-- ureteral: 0.039439810505481725
-- mets: 0.03876927658154229
-- tc-99m: 0.038454273946788756
-- massive: 0.038454273946788756
-- separate: 0.037306936850872274
-- ureter: 0.03630571499665774
-- collections: 0.0361890607778771
-- cyst: 0.036163324976789014
-- indicating: 0.03471495414726177
-- 32: 0.03355623253831463
-- bilateral: 0.0326585469183377
-- upper: 0.032473708745964065
-- dilation: 0.03171674552113742
-- flank: 0.0316514006170847
-- injection: 0.03139531249341888
-- kidneys: 0.03096627166441045
-- reveal: 0.029959709684017656
-- additionally: 0.029161658548109884
-- diameter: 0.02830836692037932
-- visualized: 0.027235686214917208
-- system: 0.026491968270872423
-- images: 0.025815179400777228
-- involving: 0.023609506015773964
-- neoplasm: 0.02291461870796794
-- left: 0.022585163841092472
-- superior: 0.02148617084294639
-- approximately: 0.020817463201225062
-- â€™: 0.020110446768861857
-- y.o: 0.01942031049280866
-- level: 0.01939282698934592
-- two: 0.019270324705637838
-- lymphoma: 0.019229910507003824
-- following: 0.019096675251190146
-- likely: 0.018978661149099657
-- cell: 0.018175123713240048
-- ,: 0.01705260255227007
-- woman: 0.015542542893613434
-- demonstrate: 0.01548387512860662
-- right: 0.014198924552919948
-- lesion: 0.0137051592598461
-- within: 0.012835680380992769
-- ct: 0.009411839790488527
-- are: 0.009172235216768517
-- at: 0.009116245297886873
-- pain: 0.008217387145911297
-- the: 0.007620039314373076
-- of: 0.006421469335322197
-- (: 0.005687887608219374
-- ): 0.005618407024514213
-- a: 0.003122833085185837
-- with: 0.002763878175351726
-- .: 0.0013976195313915856
+\-\ Texto\\:\\ \ \(0\)\
+\-\ following\\ injection\\ of\\ tc\\-99m\\ dtpa\\,\\ cortical\\-phase\\ images\\ reveal\\ a\\ photopenic\\ space\\-occupying\\ lesion\\ involving\\ approximately\\ one\\-half\\ the\\ diameter\\ of\\ the\\ upper\\ pole\\ of\\ the\\ left\\ kidney\\.\\ \\ additionally\\,\\ two\\ separate\\ collections\\ of\\ tracer\\ are\\ visualized\\ within\\ the\\ right\\ kidney\\.\\ \\ select\\ ct\\ images\\ at\\ the\\ level\\ of\\ the\\ kidneys\\ demonstrate\\ bilateral\\ duplicated\\ renal\\ collecting\\ systems\\ with\\ massive\\ dilation\\ of\\ the\\ left\\ superior\\ moiety\\ ureter\\,\\ indicating\\ likely\\ obstruction\\.\ \(0\)\
+\-\ bilateral\\ duplex\\ collecting\\ systems\\ with\\ obstruction\\ of\\ left\\ upper\\ pole\\ moiety\ \(0\)\
+\-\ \\â\\€\\¢\\ renal\\ cyst\ \(1\)\
+\-\ \\â\\€\\¢\\ perapelvic\\ cyst\ \(0\)\
+\-\ \\â\\€\\¢\\ renal\\ abscess\ \(0\)\
+\-\ \\â\\€\\¢\\ perinephric\\ abscess\ \(0\)\
+\-\ \\â\\€\\¢\\ renal\\ neoplasm\\ \\(renal\\ cell\\,\\ wilms\\â\\€\\™\\,\\ nephroblastoma\\,\\ oncocytoma\\,\\ mets\\,\\ lymphoma\\)\ \(0\)\
+\-\ \\â\\€\\¢\\ ureteral\\ obstruction\ \(0\)\
+\-\ \\â\\€\\¢\\ duplicated\\ collecting\\ system\ \(0\)\
+\-\ 32\\ y\\.o\\.\\ woman\\ with\\ right\\ flank\\ pain\\.\ \(1\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ moiety\\:\\ 0\\.1081828074789163\ \(0\)\
+\-\ collecting\\:\\ 0\\.10301979041841709\ \(0\)\
+\-\ renal\\:\\ 0\\.10108171454559327\ \(0\)\
+\-\ duplicated\\:\\ 0\\.08944920012657241\ \(0\)\
+\-\ \\â\\€\\¢\\:\\ 0\\.0863708697730017\ \(0\)\
+\-\ systems\\:\\ 0\\.07147798905433768\ \(0\)\
+\-\ obstruction\\:\\ 0\\.07118267831313627\ \(0\)\
+\-\ cortical\\-phase\\:\\ 0\\.069413530897374\ \(0\)\
+\-\ perapelvic\\:\\ 0\\.069413530897374\ \(0\)\
+\-\ pole\\:\\ 0\\.06266514200023654\ \(0\)\
+\-\ space\\-occupying\\:\\ 0\\.06076304043542038\ \(0\)\
+\-\ one\\-half\\:\\ 0\\.05409140373945815\ \(0\)\
+\-\ select\\:\\ 0\\.05409140373945815\ \(0\)\
+\-\ nephroblastoma\\:\\ 0\\.05303997545107608\ \(0\)\
+\-\ dtpa\\:\\ 0\\.048633551924025506\ \(0\)\
+\-\ photopenic\\:\\ 0\\.04758212363564344\ \(0\)\
+\-\ kidney\\:\\ 0\\.047407613465354485\ \(0\)\
+\-\ duplex\\:\\ 0\\.044724600063286206\ \(0\)\
+\-\ tracer\\:\\ 0\\.04406805196140391\ \(0\)\
+\-\ oncocytoma\\:\\ 0\\.04375922744838595\ \(0\)\
+\-\ perinephric\\:\\ 0\\.0426324491520027\ \(0\)\
+\-\ abscess\\:\\ 0\\.042548602269830975\ \(0\)\
+\-\ wilms\\:\\ 0\\.041646912593309736\ \(0\)\
+\-\ ureteral\\:\\ 0\\.039439810505481725\ \(0\)\
+\-\ mets\\:\\ 0\\.03876927658154229\ \(0\)\
+\-\ tc\\-99m\\:\\ 0\\.038454273946788756\ \(0\)\
+\-\ massive\\:\\ 0\\.038454273946788756\ \(0\)\
+\-\ separate\\:\\ 0\\.037306936850872274\ \(0\)\
+\-\ ureter\\:\\ 0\\.03630571499665774\ \(0\)\
+\-\ collections\\:\\ 0\\.0361890607778771\ \(0\)\
+\-\ cyst\\:\\ 0\\.036163324976789014\ \(0\)\
+\-\ indicating\\:\\ 0\\.03471495414726177\ \(0\)\
+\-\ 32\\:\\ 0\\.03355623253831463\ \(0\)\
+\-\ bilateral\\:\\ 0\\.0326585469183377\ \(0\)\
+\-\ upper\\:\\ 0\\.032473708745964065\ \(0\)\
+\-\ dilation\\:\\ 0\\.03171674552113742\ \(0\)\
+\-\ flank\\:\\ 0\\.0316514006170847\ \(0\)\
+\-\ injection\\:\\ 0\\.03139531249341888\ \(0\)\
+\-\ kidneys\\:\\ 0\\.03096627166441045\ \(0\)\
+\-\ reveal\\:\\ 0\\.029959709684017656\ \(0\)\
+\-\ additionally\\:\\ 0\\.029161658548109884\ \(0\)\
+\-\ diameter\\:\\ 0\\.02830836692037932\ \(0\)\
+\-\ visualized\\:\\ 0\\.027235686214917208\ \(0\)\
+\-\ system\\:\\ 0\\.026491968270872423\ \(0\)\
+\-\ images\\:\\ 0\\.025815179400777228\ \(0\)\
+\-\ involving\\:\\ 0\\.023609506015773964\ \(0\)\
+\-\ neoplasm\\:\\ 0\\.02291461870796794\ \(0\)\
+\-\ left\\:\\ 0\\.022585163841092472\ \(0\)\
+\-\ superior\\:\\ 0\\.02148617084294639\ \(0\)\
+\-\ approximately\\:\\ 0\\.020817463201225062\ \(0\)\
+\-\ \\â\\€\\™\\:\\ 0\\.020110446768861857\ \(0\)\
+\-\ y\\.o\\:\\ 0\\.01942031049280866\ \(0\)\
+\-\ level\\:\\ 0\\.01939282698934592\ \(0\)\
+\-\ two\\:\\ 0\\.019270324705637838\ \(0\)\
+\-\ lymphoma\\:\\ 0\\.019229910507003824\ \(0\)\
+\-\ following\\:\\ 0\\.019096675251190146\ \(0\)\
+\-\ likely\\:\\ 0\\.018978661149099657\ \(0\)\
+\-\ cell\\:\\ 0\\.018175123713240048\ \(0\)\
+\-\ \\,\\:\\ 0\\.01705260255227007\ \(0\)\
+\-\ woman\\:\\ 0\\.015542542893613434\ \(0\)\
+\-\ demonstrate\\:\\ 0\\.01548387512860662\ \(0\)\
+\-\ right\\:\\ 0\\.014198924552919948\ \(0\)\
+\-\ lesion\\:\\ 0\\.0137051592598461\ \(0\)\
+\-\ within\\:\\ 0\\.012835680380992769\ \(0\)\
+\-\ ct\\:\\ 0\\.009411839790488527\ \(0\)\
+\-\ are\\:\\ 0\\.009172235216768517\ \(0\)\
+\-\ at\\:\\ 0\\.009116245297886873\ \(0\)\
+\-\ pain\\:\\ 0\\.008217387145911297\ \(0\)\
+\-\ the\\:\\ 0\\.007620039314373076\ \(0\)\
+\-\ of\\:\\ 0\\.006421469335322197\ \(0\)\
+\-\ \\(\\:\\ 0\\.005687887608219374\ \(0\)\
+\-\ \\)\\:\\ 0\\.005618407024514213\ \(0\)\
+\-\ a\\:\\ 0\\.003122833085185837\ \(0\)\
+\-\ with\\:\\ 0\\.002763878175351726\ \(0\)\
+\-\ \\.\\:\\ 0\\.0013976195313915856\ \(0\)\

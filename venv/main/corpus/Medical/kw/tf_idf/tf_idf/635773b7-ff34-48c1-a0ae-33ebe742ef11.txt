@@ -1,152 +1,150 @@
-Texto: 
-the patient is febrile with a tempature of 101.2 f.  his heart rate is 108.  the remaining vital signs are normal.  the patient is in obvious discomfort and refuses to swallow his secretions.  there is no respiratory distress.  the patient demonstrates significant trismus and is unable to open his mouth for examination.
-hospital admission with intravenous antibiotics and incision and drainage.
-ct of the soft tissues of the neck demonstrates a round fluid density with rim enhancement in the left pharyngeal mucosal space which produces mass effect and displaces the left pharyngeal tonsil medially.  there is also mass effect on the parapharyngeal space fat with lateral displacement.
-peritonsillar abscess.
-peritonsillar abscess.
-dental infection.
-pharyngitis.
-peritonsillar cellulitis.
-although unlikely in this case, other considerations include tumor such as lymphoma and leukemia.
-6 year old african-american boy presents to the emergency room with severe sore throat and inability to swallow his secretions.  he was seen three days earlier by his primary care provider, and was given antibiotics for presumed streptoccocal pharyngitis.  although his symptoms initially improved, symptoms had worsened over the previous 24 hours.
-this patient was admitted to the hospital and started on intravenous antibiotics.  he was taken to the operating room later in the evening and the abscess was incised and drained.  he was able to leave the hospital the following day.
-
-
-Keywords by value: 
-- peritonsillar: 0.0844623968226785
-- his: 0.06056284494213767
-- pharyngitis: 0.056308264548452336
-- secretions: 0.04903528754024822
-- pharyngeal: 0.04587411966474014
-- swallow: 0.040876041208831176
-- hospital: 0.03955446473321463
-- antibiotics: 0.039463725709063535
-- tempature: 0.036129173868715156
-- 101.2: 0.036129173868715156
-- streptoccocal: 0.036129173868715156
-- intravenous: 0.03476071676609111
-- 108.: 0.03328840673527276
-- refuses: 0.03328840673527276
-- trismus: 0.03328840673527276
-- abscess: 0.03321929808361804
-- incised: 0.03162666448892782
-- room: 0.030113564487408512
-- he: 0.029313778795487945
-- leave: 0.028154132274226168
-- tonsil: 0.025945130222043023
-- parapharyngeal: 0.025617086338135087
-- evening: 0.02531336514078377
-- effect: 0.02479965781204299
-- was: 0.024301906283943117
-- although: 0.023655158037513148
-- space: 0.023168500058005203
-- f.: 0.02277631920469269
-- sore: 0.02277631920469269
-- african-american: 0.022621645729353154
-- drained: 0.022621645729353154
-- incision: 0.02218984033731288
-- operating: 0.022055455817546525
-- dental: 0.021925338201503164
-- displaces: 0.021799224846311548
-- produces: 0.02167687663668171
-- provider: 0.021558075256053626
-- cellulitis: 0.020810855760996432
-- febrile: 0.02017909067973718
-- considerations: 0.02017909067973718
-- inability: 0.020096292698927674
-- throat: 0.020015134390336774
-- medially: 0.01993555207125029
-- presumed: 0.019857485698419577
-- mouth: 0.01970567720792634
-- worsened: 0.01928133016308683
-- remaining: 0.01822160070286671
-- mucosal: 0.018068849084845268
-- leukemia: 0.017970088627554035
-- obvious: 0.017687330957525546
-- discomfort: 0.01755294643775919
-- symptoms: 0.01745620882703393
-- earlier: 0.017296715466524216
-- vital: 0.01675463362809081
-- unlikely: 0.016682730719685443
-- improved: 0.016682730719685443
-- able: 0.016508306070428084
-- unable: 0.016180262186520147
-- started: 0.01562119720500426
-- open: 0.015566551586686777
-- admission: 0.015433042691462957
-- demonstrates: 0.015300173784042508
-- round: 0.015129321494111636
-- admitted: 0.015129321494111636
-- displacement: 0.015009126350281636
-- rim: 0.014823858166806037
-- distress: 0.014756486337530789
-- drainage: 0.014646604134864164
-- taken: 0.014603463098032248
-- respiratory: 0.014539591249603157
-- tissues: 0.014373978387562677
-- initially: 0.014254017804365492
-- patient: 0.014042490670760459
-- is: 0.013826822419296532
-- hours: 0.013771300445118019
-- rate: 0.013650497911786243
-- 24: 0.013616626969778483
-- previous: 0.013599795896202034
-- emergency: 0.013261428680247033
-- later: 0.0126451583647251
-- care: 0.012631873553560461
-- signs: 0.012325311204860879
-- to: 0.012251953930741409
-- heart: 0.01216835921683924
-- given: 0.012005796690640749
-- boy: 0.011904597458712998
-- three: 0.011805837001421765
-- density: 0.011523079331393276
-- day: 0.011118687825216925
-- such: 0.010948085204265788
-- examination: 0.010886979653584284
-- severe: 0.010775859836336084
-- days: 0.010733911049885154
-- fat: 0.010651280011809974
-- 6: 0.010459508858093748
-- there: 0.010423898003811383
-- primary: 0.010374525667605314
-- neck: 0.010283783348436404
-- infection: 0.010180395795380357
-- lymphoma: 0.01000901079667822
-- fluid: 0.00995343895329448
-- following: 0.00993966293811946
-- include: 0.009824399541107733
-- mass: 0.009741483663504628
-- the: 0.009632122294924748
-- significant: 0.009417406356779604
-- enhancement: 0.009387249041487853
-- over: 0.008916567992376896
-- soft: 0.008528388377022746
-- tumor: 0.008164886482011522
-- and: 0.008115160094485258
-- other: 0.008072289134026429
-- this: 0.007878173879624042
-- left: 0.007836928436663235
-- case: 0.007661903413390454
-- lateral: 0.0075683116623956985
-- had: 0.007556761554265198
-- presents: 0.007154279899622648
-- seen: 0.006920604979785616
-- in: 0.006908151313774672
-- also: 0.006904178662582588
-- which: 0.006537477816567823
-- for: 0.005976296300350124
-- on: 0.005933532888241214
-- by: 0.005831438128052766
-- normal: 0.005490214977865168
-- as: 0.005297448794648065
-- ct: 0.004898785464721488
-- are: 0.0047740732480721386
-- year: 0.0039184642183316175
-- old: 0.0035857975281239946
-- no: 0.0035264104537041066
-- ,: 0.003328402444884681
-- a: 0.0032508180476934533
-- .: 0.0027643081387277836
-- with: 0.0023976265592190516
-- of: 0.0014324237803031365
+\-\ Texto\\:\\ \ \(0\)\
+\-\ the\\ patient\\ is\\ febrile\\ with\\ a\\ tempature\\ of\\ 101\\.2\\ f\\.\\ \\ his\\ heart\\ rate\\ is\\ 108\\.\\ \\ the\\ remaining\\ vital\\ signs\\ are\\ normal\\.\\ \\ the\\ patient\\ is\\ in\\ obvious\\ discomfort\\ and\\ refuses\\ to\\ swallow\\ his\\ secretions\\.\\ \\ there\\ is\\ no\\ respiratory\\ distress\\.\\ \\ the\\ patient\\ demonstrates\\ significant\\ trismus\\ and\\ is\\ unable\\ to\\ open\\ his\\ mouth\\ for\\ examination\\.\ \(0\)\
+\-\ hospital\\ admission\\ with\\ intravenous\\ antibiotics\\ and\\ incision\\ and\\ drainage\\.\ \(0\)\
+\-\ ct\\ of\\ the\\ soft\\ tissues\\ of\\ the\\ neck\\ demonstrates\\ a\\ round\\ fluid\\ density\\ with\\ rim\\ enhancement\\ in\\ the\\ left\\ pharyngeal\\ mucosal\\ space\\ which\\ produces\\ mass\\ effect\\ and\\ displaces\\ the\\ left\\ pharyngeal\\ tonsil\\ medially\\.\\ \\ there\\ is\\ also\\ mass\\ effect\\ on\\ the\\ parapharyngeal\\ space\\ fat\\ with\\ lateral\\ displacement\\.\ \(0\)\
+\-\ peritonsillar\\ abscess\\.\ \(1\)\
+\-\ peritonsillar\\ abscess\\.\ \(1\)\
+\-\ dental\\ infection\\.\ \(1\)\
+\-\ pharyngitis\\.\ \(1\)\
+\-\ peritonsillar\\ cellulitis\\.\ \(0\)\
+\-\ although\\ unlikely\\ in\\ this\\ case\\,\\ other\\ considerations\\ include\\ tumor\\ such\\ as\\ lymphoma\\ and\\ leukemia\\.\ \(0\)\
+\-\ 6\\ year\\ old\\ african\\-american\\ boy\\ presents\\ to\\ the\\ emergency\\ room\\ with\\ severe\\ sore\\ throat\\ and\\ inability\\ to\\ swallow\\ his\\ secretions\\.\\ \\ he\\ was\\ seen\\ three\\ days\\ earlier\\ by\\ his\\ primary\\ care\\ provider\\,\\ and\\ was\\ given\\ antibiotics\\ for\\ presumed\\ streptoccocal\\ pharyngitis\\.\\ \\ although\\ his\\ symptoms\\ initially\\ improved\\,\\ symptoms\\ had\\ worsened\\ over\\ the\\ previous\\ 24\\ hours\\.\ \(0\)\
+\-\ this\\ patient\\ was\\ admitted\\ to\\ the\\ hospital\\ and\\ started\\ on\\ intravenous\\ antibiotics\\.\\ \\ he\\ was\\ taken\\ to\\ the\\ operating\\ room\\ later\\ in\\ the\\ evening\\ and\\ the\\ abscess\\ was\\ incised\\ and\\ drained\\.\\ \\ he\\ was\\ able\\ to\\ leave\\ the\\ hospital\\ the\\ following\\ day\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ peritonsillar\\:\\ 0\\.0844623968226785\ \(0\)\
+\-\ his\\:\\ 0\\.06056284494213767\ \(0\)\
+\-\ pharyngitis\\:\\ 0\\.056308264548452336\ \(0\)\
+\-\ secretions\\:\\ 0\\.04903528754024822\ \(0\)\
+\-\ pharyngeal\\:\\ 0\\.04587411966474014\ \(0\)\
+\-\ swallow\\:\\ 0\\.040876041208831176\ \(0\)\
+\-\ hospital\\:\\ 0\\.03955446473321463\ \(0\)\
+\-\ antibiotics\\:\\ 0\\.039463725709063535\ \(0\)\
+\-\ tempature\\:\\ 0\\.036129173868715156\ \(0\)\
+\-\ 101\\.2\\:\\ 0\\.036129173868715156\ \(0\)\
+\-\ streptoccocal\\:\\ 0\\.036129173868715156\ \(0\)\
+\-\ intravenous\\:\\ 0\\.03476071676609111\ \(0\)\
+\-\ 108\\.\\:\\ 0\\.03328840673527276\ \(0\)\
+\-\ refuses\\:\\ 0\\.03328840673527276\ \(0\)\
+\-\ trismus\\:\\ 0\\.03328840673527276\ \(0\)\
+\-\ abscess\\:\\ 0\\.03321929808361804\ \(0\)\
+\-\ incised\\:\\ 0\\.03162666448892782\ \(0\)\
+\-\ room\\:\\ 0\\.030113564487408512\ \(0\)\
+\-\ he\\:\\ 0\\.029313778795487945\ \(0\)\
+\-\ leave\\:\\ 0\\.028154132274226168\ \(0\)\
+\-\ tonsil\\:\\ 0\\.025945130222043023\ \(0\)\
+\-\ parapharyngeal\\:\\ 0\\.025617086338135087\ \(0\)\
+\-\ evening\\:\\ 0\\.02531336514078377\ \(0\)\
+\-\ effect\\:\\ 0\\.02479965781204299\ \(0\)\
+\-\ was\\:\\ 0\\.024301906283943117\ \(0\)\
+\-\ although\\:\\ 0\\.023655158037513148\ \(0\)\
+\-\ space\\:\\ 0\\.023168500058005203\ \(0\)\
+\-\ f\\.\\:\\ 0\\.02277631920469269\ \(0\)\
+\-\ sore\\:\\ 0\\.02277631920469269\ \(0\)\
+\-\ african\\-american\\:\\ 0\\.022621645729353154\ \(0\)\
+\-\ drained\\:\\ 0\\.022621645729353154\ \(0\)\
+\-\ incision\\:\\ 0\\.02218984033731288\ \(0\)\
+\-\ operating\\:\\ 0\\.022055455817546525\ \(0\)\
+\-\ dental\\:\\ 0\\.021925338201503164\ \(0\)\
+\-\ displaces\\:\\ 0\\.021799224846311548\ \(0\)\
+\-\ produces\\:\\ 0\\.02167687663668171\ \(0\)\
+\-\ provider\\:\\ 0\\.021558075256053626\ \(0\)\
+\-\ cellulitis\\:\\ 0\\.020810855760996432\ \(0\)\
+\-\ febrile\\:\\ 0\\.02017909067973718\ \(0\)\
+\-\ considerations\\:\\ 0\\.02017909067973718\ \(0\)\
+\-\ inability\\:\\ 0\\.020096292698927674\ \(0\)\
+\-\ throat\\:\\ 0\\.020015134390336774\ \(0\)\
+\-\ medially\\:\\ 0\\.01993555207125029\ \(0\)\
+\-\ presumed\\:\\ 0\\.019857485698419577\ \(0\)\
+\-\ mouth\\:\\ 0\\.01970567720792634\ \(0\)\
+\-\ worsened\\:\\ 0\\.01928133016308683\ \(0\)\
+\-\ remaining\\:\\ 0\\.01822160070286671\ \(0\)\
+\-\ mucosal\\:\\ 0\\.018068849084845268\ \(0\)\
+\-\ leukemia\\:\\ 0\\.017970088627554035\ \(0\)\
+\-\ obvious\\:\\ 0\\.017687330957525546\ \(0\)\
+\-\ discomfort\\:\\ 0\\.01755294643775919\ \(0\)\
+\-\ symptoms\\:\\ 0\\.01745620882703393\ \(0\)\
+\-\ earlier\\:\\ 0\\.017296715466524216\ \(0\)\
+\-\ vital\\:\\ 0\\.01675463362809081\ \(0\)\
+\-\ unlikely\\:\\ 0\\.016682730719685443\ \(0\)\
+\-\ improved\\:\\ 0\\.016682730719685443\ \(0\)\
+\-\ able\\:\\ 0\\.016508306070428084\ \(0\)\
+\-\ unable\\:\\ 0\\.016180262186520147\ \(0\)\
+\-\ started\\:\\ 0\\.01562119720500426\ \(0\)\
+\-\ open\\:\\ 0\\.015566551586686777\ \(0\)\
+\-\ admission\\:\\ 0\\.015433042691462957\ \(0\)\
+\-\ demonstrates\\:\\ 0\\.015300173784042508\ \(0\)\
+\-\ round\\:\\ 0\\.015129321494111636\ \(0\)\
+\-\ admitted\\:\\ 0\\.015129321494111636\ \(0\)\
+\-\ displacement\\:\\ 0\\.015009126350281636\ \(0\)\
+\-\ rim\\:\\ 0\\.014823858166806037\ \(0\)\
+\-\ distress\\:\\ 0\\.014756486337530789\ \(0\)\
+\-\ drainage\\:\\ 0\\.014646604134864164\ \(0\)\
+\-\ taken\\:\\ 0\\.014603463098032248\ \(0\)\
+\-\ respiratory\\:\\ 0\\.014539591249603157\ \(0\)\
+\-\ tissues\\:\\ 0\\.014373978387562677\ \(0\)\
+\-\ initially\\:\\ 0\\.014254017804365492\ \(0\)\
+\-\ patient\\:\\ 0\\.014042490670760459\ \(0\)\
+\-\ is\\:\\ 0\\.013826822419296532\ \(0\)\
+\-\ hours\\:\\ 0\\.013771300445118019\ \(0\)\
+\-\ rate\\:\\ 0\\.013650497911786243\ \(0\)\
+\-\ 24\\:\\ 0\\.013616626969778483\ \(0\)\
+\-\ previous\\:\\ 0\\.013599795896202034\ \(0\)\
+\-\ emergency\\:\\ 0\\.013261428680247033\ \(0\)\
+\-\ later\\:\\ 0\\.0126451583647251\ \(0\)\
+\-\ care\\:\\ 0\\.012631873553560461\ \(0\)\
+\-\ signs\\:\\ 0\\.012325311204860879\ \(0\)\
+\-\ to\\:\\ 0\\.012251953930741409\ \(0\)\
+\-\ heart\\:\\ 0\\.01216835921683924\ \(0\)\
+\-\ given\\:\\ 0\\.012005796690640749\ \(0\)\
+\-\ boy\\:\\ 0\\.011904597458712998\ \(0\)\
+\-\ three\\:\\ 0\\.011805837001421765\ \(0\)\
+\-\ density\\:\\ 0\\.011523079331393276\ \(0\)\
+\-\ day\\:\\ 0\\.011118687825216925\ \(0\)\
+\-\ such\\:\\ 0\\.010948085204265788\ \(0\)\
+\-\ examination\\:\\ 0\\.010886979653584284\ \(0\)\
+\-\ severe\\:\\ 0\\.010775859836336084\ \(0\)\
+\-\ days\\:\\ 0\\.010733911049885154\ \(0\)\
+\-\ fat\\:\\ 0\\.010651280011809974\ \(0\)\
+\-\ 6\\:\\ 0\\.010459508858093748\ \(0\)\
+\-\ there\\:\\ 0\\.010423898003811383\ \(0\)\
+\-\ primary\\:\\ 0\\.010374525667605314\ \(0\)\
+\-\ neck\\:\\ 0\\.010283783348436404\ \(0\)\
+\-\ infection\\:\\ 0\\.010180395795380357\ \(0\)\
+\-\ lymphoma\\:\\ 0\\.01000901079667822\ \(0\)\
+\-\ fluid\\:\\ 0\\.00995343895329448\ \(0\)\
+\-\ following\\:\\ 0\\.00993966293811946\ \(0\)\
+\-\ include\\:\\ 0\\.009824399541107733\ \(0\)\
+\-\ mass\\:\\ 0\\.009741483663504628\ \(0\)\
+\-\ the\\:\\ 0\\.009632122294924748\ \(0\)\
+\-\ significant\\:\\ 0\\.009417406356779604\ \(0\)\
+\-\ enhancement\\:\\ 0\\.009387249041487853\ \(0\)\
+\-\ over\\:\\ 0\\.008916567992376896\ \(0\)\
+\-\ soft\\:\\ 0\\.008528388377022746\ \(0\)\
+\-\ tumor\\:\\ 0\\.008164886482011522\ \(0\)\
+\-\ and\\:\\ 0\\.008115160094485258\ \(0\)\
+\-\ other\\:\\ 0\\.008072289134026429\ \(0\)\
+\-\ this\\:\\ 0\\.007878173879624042\ \(0\)\
+\-\ left\\:\\ 0\\.007836928436663235\ \(0\)\
+\-\ case\\:\\ 0\\.007661903413390454\ \(0\)\
+\-\ lateral\\:\\ 0\\.0075683116623956985\ \(0\)\
+\-\ had\\:\\ 0\\.007556761554265198\ \(0\)\
+\-\ presents\\:\\ 0\\.007154279899622648\ \(0\)\
+\-\ seen\\:\\ 0\\.006920604979785616\ \(0\)\
+\-\ in\\:\\ 0\\.006908151313774672\ \(0\)\
+\-\ also\\:\\ 0\\.006904178662582588\ \(0\)\
+\-\ which\\:\\ 0\\.006537477816567823\ \(0\)\
+\-\ for\\:\\ 0\\.005976296300350124\ \(0\)\
+\-\ on\\:\\ 0\\.005933532888241214\ \(0\)\
+\-\ by\\:\\ 0\\.005831438128052766\ \(0\)\
+\-\ normal\\:\\ 0\\.005490214977865168\ \(0\)\
+\-\ as\\:\\ 0\\.005297448794648065\ \(0\)\
+\-\ ct\\:\\ 0\\.004898785464721488\ \(0\)\
+\-\ are\\:\\ 0\\.0047740732480721386\ \(0\)\
+\-\ year\\:\\ 0\\.0039184642183316175\ \(0\)\
+\-\ old\\:\\ 0\\.0035857975281239946\ \(0\)\
+\-\ no\\:\\ 0\\.0035264104537041066\ \(0\)\
+\-\ \\,\\:\\ 0\\.003328402444884681\ \(0\)\
+\-\ a\\:\\ 0\\.0032508180476934533\ \(0\)\
+\-\ \\.\\:\\ 0\\.0027643081387277836\ \(0\)\
+\-\ with\\:\\ 0\\.0023976265592190516\ \(0\)\
+\-\ of\\:\\ 0\\.0014324237803031365\ \(0\)\

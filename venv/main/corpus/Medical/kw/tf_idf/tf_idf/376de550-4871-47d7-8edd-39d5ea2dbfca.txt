@@ -1,102 +1,98 @@
-Texto: 
-+ppd.
-16 month male: chest radiographs demonstrates focal air space opacity in the right lower lobe, and right hilar fullness.  contrast enhanced ct of the chest shows consolidation in the superior segment of the right lower lobe.  additionally, there is a heterogeneous mass in the right paratracheal region with foci of central hypodensity, and minimal peripheral enhancement, suggestive of necrotic lymphadenopathy.  in the subcarinal region, there is contined area of central hypodenisty that is contiguous with the consolidated lung.
-
-3 year old female: chest radiographs demonstrate unilateral right sided hilar adenopathy.  repeat chest radiographs two weeks later demonstrate new right middle lobe opacity.
-primary pulmonary tuberculosis
-differential diagnosis for tuberculous adenopathy.
-
-metastases
-histoplasmosis in endemic areas.
-16 month asymptomatic male and 3 year old asymptomatic sister with exposure to uncle from india.
-
-
-Keywords by value: 
-- contined: 0.05916455318098321
-- hypodenisty: 0.05916455318098321
-- hilar: 0.057633957676744396
-- chest: 0.05489205369281929
-- +ppd: 0.05451255868058089
-- radiographs: 0.054488674655076494
-- opacity: 0.05362734038069075
-- 16: 0.05190279910856819
-- consolidated: 0.05179131634428449
-- adenopathy: 0.051072256776781774
-- uncle: 0.04986056418017857
-- lobe: 0.046295141233359746
-- india: 0.04520856967977625
-- endemic: 0.04441807950758576
-- subcarinal: 0.04248732734347985
-- tuberculous: 0.0401496985228878
-- sister: 0.03976608500718345
-- asymptomatic: 0.03877305232209513
-- central: 0.037740018212885355
-- histoplasmosis: 0.036337725116136525
-- right: 0.0363073171453859
-- paratracheal: 0.03590458067897162
-- hypodensity: 0.03530315679514821
-- month: 0.03441093343356523
-- contiguous: 0.03304495386480451
-- fullness: 0.03277646168618908
-- region: 0.032397331909252515
-- necrotic: 0.031358279849496414
-- exposure: 0.02983939980872132
-- consolidation: 0.02874442235445129
-- unilateral: 0.028461794935994062
-- tuberculosis: 0.027319371111431196
-- repeat: 0.02697803945214602
-- 3: 0.026858731902101203
-- demonstrate: 0.026395330756148198
-- lower: 0.025796806300186076
-- segment: 0.025019611333786
-- additionally: 0.02485591030610708
-- foci: 0.024617610383577484
-- enhanced: 0.024540020971489725
-- suggestive: 0.02450156006740258
-- metastases: 0.02450156006740258
-- lymphadenopathy: 0.02438748237365378
-- minimal: 0.022580402485911394
-- sided: 0.021204876598299633
-- heterogeneous: 0.02108855809929534
-- middle: 0.02097422127276804
-- peripheral: 0.020751230349088035
-- male: 0.02074101393137548
-- later: 0.02070750765767063
-- new: 0.019985154206715157
-- air: 0.019404447158066888
-- areas: 0.019297632021785683
-- space: 0.018970181255547884
-- superior: 0.018313716087612023
-- differential: 0.018207784089616978
-- area: 0.018133129155263536
-- there: 0.017070007469328706
-- primary: 0.016989156126816753
-- pulmonary: 0.016755371209530627
-- lung: 0.01661180617609897
-- two: 0.01642504186319467
-- focal: 0.016379151705626857
-- weeks: 0.01627703192551106
-- shows: 0.01576760872301261
-- enhancement: 0.0153724078263291
-- :: 0.015171474040143155
-- in: 0.014140846649001844
-- diagnosis: 0.013169257253559864
-- contrast: 0.012837420716831579
-- year: 0.012833627775475365
-- demonstrates: 0.012527659071497893
-- female: 0.01179033739226734
-- old: 0.01174408854848664
-- is: 0.011321290839960918
-- that: 0.009905910929924988
-- ,: 0.009084230386486154
-- from: 0.008499568544659143
-- ct: 0.008022172170416396
-- mass: 0.0079762483687756
-- the: 0.0064949328384253735
-- for: 0.004893343279481309
-- of: 0.003909523516711021
-- and: 0.003624342397292989
-- to: 0.00286622891572474
-- a: 0.0026617436363664516
-- .: 0.0023825192011641795
-- with: 0.00235578878033335
+\-\ Texto\\:\\ \ \(0\)\
+\-\ \\+ppd\\.\ \(0\)\
+\-\ 16\\ month\\ male\\:\\ chest\\ radiographs\\ demonstrates\\ focal\\ air\\ space\\ opacity\\ in\\ the\\ right\\ lower\\ lobe\\,\\ and\\ right\\ hilar\\ fullness\\.\\ \\ contrast\\ enhanced\\ ct\\ of\\ the\\ chest\\ shows\\ consolidation\\ in\\ the\\ superior\\ segment\\ of\\ the\\ right\\ lower\\ lobe\\.\\ \\ additionally\\,\\ there\\ is\\ a\\ heterogeneous\\ mass\\ in\\ the\\ right\\ paratracheal\\ region\\ with\\ foci\\ of\\ central\\ hypodensity\\,\\ and\\ minimal\\ peripheral\\ enhancement\\,\\ suggestive\\ of\\ necrotic\\ lymphadenopathy\\.\\ \\ in\\ the\\ subcarinal\\ region\\,\\ there\\ is\\ contined\\ area\\ of\\ central\\ hypodenisty\\ that\\ is\\ contiguous\\ with\\ the\\ consolidated\\ lung\\.\ \(0\)\
+\-\ 3\\ year\\ old\\ female\\:\\ chest\\ radiographs\\ demonstrate\\ unilateral\\ right\\ sided\\ hilar\\ adenopathy\\.\\ \\ repeat\\ chest\\ radiographs\\ two\\ weeks\\ later\\ demonstrate\\ new\\ right\\ middle\\ lobe\\ opacity\\.\ \(0\)\
+\-\ primary\\ pulmonary\\ tuberculosis\ \(0\)\
+\-\ differential\\ diagnosis\\ for\\ tuberculous\\ adenopathy\\.\ \(0\)\
+\-\ metastases\ \(207\)\
+\-\ histoplasmosis\\ in\\ endemic\\ areas\\.\ \(0\)\
+\-\ 16\\ month\\ asymptomatic\\ male\\ and\\ 3\\ year\\ old\\ asymptomatic\\ sister\\ with\\ exposure\\ to\\ uncle\\ from\\ india\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ contined\\:\\ 0\\.05916455318098321\ \(0\)\
+\-\ hypodenisty\\:\\ 0\\.05916455318098321\ \(0\)\
+\-\ hilar\\:\\ 0\\.057633957676744396\ \(0\)\
+\-\ chest\\:\\ 0\\.05489205369281929\ \(0\)\
+\-\ \\+ppd\\:\\ 0\\.05451255868058089\ \(0\)\
+\-\ radiographs\\:\\ 0\\.054488674655076494\ \(0\)\
+\-\ opacity\\:\\ 0\\.05362734038069075\ \(0\)\
+\-\ 16\\:\\ 0\\.05190279910856819\ \(0\)\
+\-\ consolidated\\:\\ 0\\.05179131634428449\ \(0\)\
+\-\ adenopathy\\:\\ 0\\.051072256776781774\ \(0\)\
+\-\ uncle\\:\\ 0\\.04986056418017857\ \(0\)\
+\-\ lobe\\:\\ 0\\.046295141233359746\ \(0\)\
+\-\ india\\:\\ 0\\.04520856967977625\ \(0\)\
+\-\ endemic\\:\\ 0\\.04441807950758576\ \(0\)\
+\-\ subcarinal\\:\\ 0\\.04248732734347985\ \(0\)\
+\-\ tuberculous\\:\\ 0\\.0401496985228878\ \(0\)\
+\-\ sister\\:\\ 0\\.03976608500718345\ \(0\)\
+\-\ asymptomatic\\:\\ 0\\.03877305232209513\ \(0\)\
+\-\ central\\:\\ 0\\.037740018212885355\ \(0\)\
+\-\ histoplasmosis\\:\\ 0\\.036337725116136525\ \(0\)\
+\-\ right\\:\\ 0\\.0363073171453859\ \(0\)\
+\-\ paratracheal\\:\\ 0\\.03590458067897162\ \(0\)\
+\-\ hypodensity\\:\\ 0\\.03530315679514821\ \(0\)\
+\-\ month\\:\\ 0\\.03441093343356523\ \(0\)\
+\-\ contiguous\\:\\ 0\\.03304495386480451\ \(0\)\
+\-\ fullness\\:\\ 0\\.03277646168618908\ \(0\)\
+\-\ region\\:\\ 0\\.032397331909252515\ \(0\)\
+\-\ necrotic\\:\\ 0\\.031358279849496414\ \(0\)\
+\-\ exposure\\:\\ 0\\.02983939980872132\ \(0\)\
+\-\ consolidation\\:\\ 0\\.02874442235445129\ \(0\)\
+\-\ unilateral\\:\\ 0\\.028461794935994062\ \(0\)\
+\-\ tuberculosis\\:\\ 0\\.027319371111431196\ \(0\)\
+\-\ repeat\\:\\ 0\\.02697803945214602\ \(0\)\
+\-\ 3\\:\\ 0\\.026858731902101203\ \(0\)\
+\-\ demonstrate\\:\\ 0\\.026395330756148198\ \(0\)\
+\-\ lower\\:\\ 0\\.025796806300186076\ \(0\)\
+\-\ segment\\:\\ 0\\.025019611333786\ \(0\)\
+\-\ additionally\\:\\ 0\\.02485591030610708\ \(0\)\
+\-\ foci\\:\\ 0\\.024617610383577484\ \(0\)\
+\-\ enhanced\\:\\ 0\\.024540020971489725\ \(0\)\
+\-\ suggestive\\:\\ 0\\.02450156006740258\ \(0\)\
+\-\ metastases\\:\\ 0\\.02450156006740258\ \(0\)\
+\-\ lymphadenopathy\\:\\ 0\\.02438748237365378\ \(0\)\
+\-\ minimal\\:\\ 0\\.022580402485911394\ \(0\)\
+\-\ sided\\:\\ 0\\.021204876598299633\ \(0\)\
+\-\ heterogeneous\\:\\ 0\\.02108855809929534\ \(0\)\
+\-\ middle\\:\\ 0\\.02097422127276804\ \(0\)\
+\-\ peripheral\\:\\ 0\\.020751230349088035\ \(0\)\
+\-\ male\\:\\ 0\\.02074101393137548\ \(0\)\
+\-\ later\\:\\ 0\\.02070750765767063\ \(0\)\
+\-\ new\\:\\ 0\\.019985154206715157\ \(0\)\
+\-\ air\\:\\ 0\\.019404447158066888\ \(0\)\
+\-\ areas\\:\\ 0\\.019297632021785683\ \(0\)\
+\-\ space\\:\\ 0\\.018970181255547884\ \(0\)\
+\-\ superior\\:\\ 0\\.018313716087612023\ \(0\)\
+\-\ differential\\:\\ 0\\.018207784089616978\ \(0\)\
+\-\ area\\:\\ 0\\.018133129155263536\ \(0\)\
+\-\ there\\:\\ 0\\.017070007469328706\ \(0\)\
+\-\ primary\\:\\ 0\\.016989156126816753\ \(0\)\
+\-\ pulmonary\\:\\ 0\\.016755371209530627\ \(0\)\
+\-\ lung\\:\\ 0\\.01661180617609897\ \(0\)\
+\-\ two\\:\\ 0\\.01642504186319467\ \(0\)\
+\-\ focal\\:\\ 0\\.016379151705626857\ \(0\)\
+\-\ weeks\\:\\ 0\\.01627703192551106\ \(0\)\
+\-\ shows\\:\\ 0\\.01576760872301261\ \(0\)\
+\-\ enhancement\\:\\ 0\\.0153724078263291\ \(0\)\
+\-\ \\:\\:\\ 0\\.015171474040143155\ \(0\)\
+\-\ in\\:\\ 0\\.014140846649001844\ \(0\)\
+\-\ diagnosis\\:\\ 0\\.013169257253559864\ \(0\)\
+\-\ contrast\\:\\ 0\\.012837420716831579\ \(0\)\
+\-\ year\\:\\ 0\\.012833627775475365\ \(0\)\
+\-\ demonstrates\\:\\ 0\\.012527659071497893\ \(0\)\
+\-\ female\\:\\ 0\\.01179033739226734\ \(0\)\
+\-\ old\\:\\ 0\\.01174408854848664\ \(0\)\
+\-\ is\\:\\ 0\\.011321290839960918\ \(0\)\
+\-\ that\\:\\ 0\\.009905910929924988\ \(0\)\
+\-\ \\,\\:\\ 0\\.009084230386486154\ \(0\)\
+\-\ from\\:\\ 0\\.008499568544659143\ \(0\)\
+\-\ ct\\:\\ 0\\.008022172170416396\ \(0\)\
+\-\ mass\\:\\ 0\\.0079762483687756\ \(0\)\
+\-\ the\\:\\ 0\\.0064949328384253735\ \(0\)\
+\-\ for\\:\\ 0\\.004893343279481309\ \(0\)\
+\-\ of\\:\\ 0\\.003909523516711021\ \(0\)\
+\-\ and\\:\\ 0\\.003624342397292989\ \(0\)\
+\-\ to\\:\\ 0\\.00286622891572474\ \(0\)\
+\-\ a\\:\\ 0\\.0026617436363664516\ \(0\)\
+\-\ \\.\\:\\ 0\\.0023825192011641795\ \(0\)\
+\-\ with\\:\\ 0\\.00235578878033335\ \(0\)\

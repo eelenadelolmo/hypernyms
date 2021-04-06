@@ -1,66 +1,64 @@
-Texto: 
-normal lung exam
-the progression of the foreign body was followed with daily radiographs to monitor for complications, to include stomach/bowel perforation and progression through the gi tract.
-radiographs of the abdomen demonstrate a radiopaque foreign body passing though the gastrointestinal tract, without evidence of perforation or other complication.
-swallowed foreign body
-foreign body
-4 year old girl presents to the emergency after swallowing a nail.
-daily radiographs were obtained to monitor the transit of the nail through the gi tract, and the patient passed the nail after five days without complication.
-
-
-Keywords by value: 
-- nail: 0.21284118044661948
-- foreign: 0.17011508032235986
-- tract: 0.11469940916891098
-- body: 0.11213186717935696
-- monitor: 0.09826817586636506
-- daily: 0.08931453069280929
-- stomach/bowel: 0.08904564064612626
-- perforation: 0.08882177406403839
-- progression: 0.0858822269191649
-- complication: 0.08465748708448943
-- radiographs: 0.08200820730915555
-- gi: 0.07755120568779644
-- swallowed: 0.06482447627442554
-- radiopaque: 0.060427324039497805
-- transit: 0.060427324039497805
-- passing: 0.05403820728451285
-- passed: 0.0520399674528975
-- through: 0.04902943471557311
-- swallowing: 0.04856752766398008
-- gastrointestinal: 0.047036720612190164
-- five: 0.04304688416531271
-- without: 0.04064673063349819
-- though: 0.040035233939867486
-- after: 0.03571719601230712
-- complications: 0.0342037656061824
-- emergency: 0.032684733312932084
-- obtained: 0.03068551616912972
-- girl: 0.030347246777674728
-- followed: 0.02893814011493709
-- days: 0.02645529592092907
-- abdomen: 0.02556953800904744
-- lung: 0.02500160727513885
-- include: 0.024213671596265526
-- 4: 0.0240502212644348
-- evidence: 0.022630733165322
-- other: 0.01989533887578231
-- demonstrate: 0.019863152942757988
-- were: 0.01959885188575678
-- exam: 0.018961958989389276
-- presents: 0.01763277066169622
-- to: 0.01725527710880753
-- the: 0.0153610316337362
-- normal: 0.013531438935344456
-- or: 0.010116391403673814
-- was: 0.009982601234481686
-- year: 0.009657628982554695
-- old: 0.008837723200628835
-- patient: 0.008652443746630182
-- ,: 0.008203335318705679
-- a: 0.008012117208456591
-- for: 0.00736472877416884
-- of: 0.0047072242746662
-- and: 0.0036365455703478477
-- .: 0.0014343246908018698
-- with: 0.001181860364544341
+\-\ Texto\\:\\ \ \(0\)\
+\-\ normal\\ lung\\ exam\ \(1\)\
+\-\ the\\ progression\\ of\\ the\\ foreign\\ body\\ was\\ followed\\ with\\ daily\\ radiographs\\ to\\ monitor\\ for\\ complications\\,\\ to\\ include\\ stomach\\/bowel\\ perforation\\ and\\ progression\\ through\\ the\\ gi\\ tract\\.\ \(0\)\
+\-\ radiographs\\ of\\ the\\ abdomen\\ demonstrate\\ a\\ radiopaque\\ foreign\\ body\\ passing\\ though\\ the\\ gastrointestinal\\ tract\\,\\ without\\ evidence\\ of\\ perforation\\ or\\ other\\ complication\\.\ \(0\)\
+\-\ swallowed\\ foreign\\ body\ \(1\)\
+\-\ foreign\\ body\ \(86\)\
+\-\ 4\\ year\\ old\\ girl\\ presents\\ to\\ the\\ emergency\\ after\\ swallowing\\ a\\ nail\\.\ \(1\)\
+\-\ daily\\ radiographs\\ were\\ obtained\\ to\\ monitor\\ the\\ transit\\ of\\ the\\ nail\\ through\\ the\\ gi\\ tract\\,\\ and\\ the\\ patient\\ passed\\ the\\ nail\\ after\\ five\\ days\\ without\\ complication\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ nail\\:\\ 0\\.21284118044661948\ \(0\)\
+\-\ foreign\\:\\ 0\\.17011508032235986\ \(0\)\
+\-\ tract\\:\\ 0\\.11469940916891098\ \(0\)\
+\-\ body\\:\\ 0\\.11213186717935696\ \(0\)\
+\-\ monitor\\:\\ 0\\.09826817586636506\ \(0\)\
+\-\ daily\\:\\ 0\\.08931453069280929\ \(0\)\
+\-\ stomach\\/bowel\\:\\ 0\\.08904564064612626\ \(0\)\
+\-\ perforation\\:\\ 0\\.08882177406403839\ \(0\)\
+\-\ progression\\:\\ 0\\.0858822269191649\ \(0\)\
+\-\ complication\\:\\ 0\\.08465748708448943\ \(0\)\
+\-\ radiographs\\:\\ 0\\.08200820730915555\ \(0\)\
+\-\ gi\\:\\ 0\\.07755120568779644\ \(0\)\
+\-\ swallowed\\:\\ 0\\.06482447627442554\ \(0\)\
+\-\ radiopaque\\:\\ 0\\.060427324039497805\ \(0\)\
+\-\ transit\\:\\ 0\\.060427324039497805\ \(0\)\
+\-\ passing\\:\\ 0\\.05403820728451285\ \(0\)\
+\-\ passed\\:\\ 0\\.0520399674528975\ \(0\)\
+\-\ through\\:\\ 0\\.04902943471557311\ \(0\)\
+\-\ swallowing\\:\\ 0\\.04856752766398008\ \(0\)\
+\-\ gastrointestinal\\:\\ 0\\.047036720612190164\ \(0\)\
+\-\ five\\:\\ 0\\.04304688416531271\ \(0\)\
+\-\ without\\:\\ 0\\.04064673063349819\ \(0\)\
+\-\ though\\:\\ 0\\.040035233939867486\ \(0\)\
+\-\ after\\:\\ 0\\.03571719601230712\ \(0\)\
+\-\ complications\\:\\ 0\\.0342037656061824\ \(0\)\
+\-\ emergency\\:\\ 0\\.032684733312932084\ \(0\)\
+\-\ obtained\\:\\ 0\\.03068551616912972\ \(0\)\
+\-\ girl\\:\\ 0\\.030347246777674728\ \(0\)\
+\-\ followed\\:\\ 0\\.02893814011493709\ \(0\)\
+\-\ days\\:\\ 0\\.02645529592092907\ \(0\)\
+\-\ abdomen\\:\\ 0\\.02556953800904744\ \(0\)\
+\-\ lung\\:\\ 0\\.02500160727513885\ \(0\)\
+\-\ include\\:\\ 0\\.024213671596265526\ \(0\)\
+\-\ 4\\:\\ 0\\.0240502212644348\ \(0\)\
+\-\ evidence\\:\\ 0\\.022630733165322\ \(0\)\
+\-\ other\\:\\ 0\\.01989533887578231\ \(0\)\
+\-\ demonstrate\\:\\ 0\\.019863152942757988\ \(0\)\
+\-\ were\\:\\ 0\\.01959885188575678\ \(0\)\
+\-\ exam\\:\\ 0\\.018961958989389276\ \(0\)\
+\-\ presents\\:\\ 0\\.01763277066169622\ \(0\)\
+\-\ to\\:\\ 0\\.01725527710880753\ \(0\)\
+\-\ the\\:\\ 0\\.0153610316337362\ \(0\)\
+\-\ normal\\:\\ 0\\.013531438935344456\ \(0\)\
+\-\ or\\:\\ 0\\.010116391403673814\ \(0\)\
+\-\ was\\:\\ 0\\.009982601234481686\ \(0\)\
+\-\ year\\:\\ 0\\.009657628982554695\ \(0\)\
+\-\ old\\:\\ 0\\.008837723200628835\ \(0\)\
+\-\ patient\\:\\ 0\\.008652443746630182\ \(0\)\
+\-\ \\,\\:\\ 0\\.008203335318705679\ \(0\)\
+\-\ a\\:\\ 0\\.008012117208456591\ \(0\)\
+\-\ for\\:\\ 0\\.00736472877416884\ \(0\)\
+\-\ of\\:\\ 0\\.0047072242746662\ \(0\)\
+\-\ and\\:\\ 0\\.0036365455703478477\ \(0\)\
+\-\ \\.\\:\\ 0\\.0014343246908018698\ \(0\)\
+\-\ with\\:\\ 0\\.001181860364544341\ \(0\)\

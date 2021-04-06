@@ -1,77 +1,75 @@
-Texto: 
-the right mediport was removed after appropriate placement of a new left mediport.
-right mediport catheter tubing malposition, with the proximal tubing coursing cephalad in an extra-vascular location prior to heading caudad into the region of the right brachiocephalic vein.  no evidence of catheter kinking or fracture.  a new mediport has been placed on the left, with normal position of the distal catheter tip in the right atrium.  the right mediport was subsequently removed.
-right mediport catheter malposition
-54 yo african-american woman, mid-treatment for ovarian cancer, presents for right mediport evaluation following an abnormality seen on outside chest radiograph.  the catheter is functioning appropriately, per the patient.
-
-
-Keywords by value: 
-- mediport: 0.38931140274295756
-- catheter: 0.17252051355689768
-- malposition: 0.12969590143358636
-- tubing: 0.11545560125901151
-- extra-vascular: 0.074079986756021
-- mid-treatment: 0.074079986756021
-- heading: 0.06825522053282818
-- kinking: 0.06484795071679318
-- removed: 0.06475082006229564
-- caudad: 0.05902318449360036
-- brachiocephalic: 0.05319841827040754
-- right: 0.05303715935943627
-- new: 0.05004685675295056
-- cephalad: 0.049791148454372554
-- coursing: 0.049336802057143345
-- functioning: 0.04670102425163879
-- african-american: 0.04638387863833755
-- appropriately: 0.04469757027310939
-- atrium: 0.04040491797255485
-- 54: 0.03791137252741452
-- tip: 0.0368462321438923
-- appropriate: 0.03384896370743237
-- ovarian: 0.0328591902985552
-- subsequently: 0.03255357984333777
-- per: 0.031431467300274546
-- outside: 0.03012109081606648
-- position: 0.029899353377636273
-- placement: 0.029146310027302766
-- placed: 0.02906665671676038
-- abnormality: 0.02649208356160128
-- vein: 0.025982632958101826
-- location: 0.0250479637554949
-- cancer: 0.02360643079298122
-- radiograph: 0.022873518100179516
-- yo: 0.021607995994140854
-- proximal: 0.021559186400899287
-- evaluation: 0.02085914954476309
-- following: 0.02038048535211049
-- region: 0.020282363254111868
-- an: 0.019859913685457642
-- been: 0.019536091508100765
-- distal: 0.0195233494869414
-- fracture: 0.018933397733384694
-- evidence: 0.018827248599721663
-- prior: 0.018437922455482043
-- chest: 0.017182596639138813
-- into: 0.017086776201342073
-- was: 0.016609706255692216
-- woman: 0.01658741972679753
-- left: 0.01606899612223386
-- after: 0.01485715296310254
-- presents: 0.01466927979418425
-- seen: 0.014190148025778908
-- has: 0.013484873701632587
-- for: 0.012253918464583447
-- on: 0.012166235501939968
-- the: 0.011617586949884521
-- ,: 0.011374372500726362
-- normal: 0.011257247517639504
-- or: 0.008416157554316869
-- no: 0.007230623115158
-- patient: 0.007198251520305781
-- in: 0.007082306388911847
-- a: 0.0066655428877075845
-- is: 0.004725132591468282
-- of: 0.003916094144470199
-- to: 0.0035888076339746743
-- .: 0.0020882080057262513
-- with: 0.00196645674100655
+\-\ Texto\\:\\ \ \(0\)\
+\-\ the\\ right\\ mediport\\ was\\ removed\\ after\\ appropriate\\ placement\\ of\\ a\\ new\\ left\\ mediport\\.\ \(0\)\
+\-\ right\\ mediport\\ catheter\\ tubing\\ malposition\\,\\ with\\ the\\ proximal\\ tubing\\ coursing\\ cephalad\\ in\\ an\\ extra\\-vascular\\ location\\ prior\\ to\\ heading\\ caudad\\ into\\ the\\ region\\ of\\ the\\ right\\ brachiocephalic\\ vein\\.\\ \\ no\\ evidence\\ of\\ catheter\\ kinking\\ or\\ fracture\\.\\ \\ a\\ new\\ mediport\\ has\\ been\\ placed\\ on\\ the\\ left\\,\\ with\\ normal\\ position\\ of\\ the\\ distal\\ catheter\\ tip\\ in\\ the\\ right\\ atrium\\.\\ \\ the\\ right\\ mediport\\ was\\ subsequently\\ removed\\.\ \(0\)\
+\-\ right\\ mediport\\ catheter\\ malposition\ \(0\)\
+\-\ 54\\ yo\\ african\\-american\\ woman\\,\\ mid\\-treatment\\ for\\ ovarian\\ cancer\\,\\ presents\\ for\\ right\\ mediport\\ evaluation\\ following\\ an\\ abnormality\\ seen\\ on\\ outside\\ chest\\ radiograph\\.\\ \\ the\\ catheter\\ is\\ functioning\\ appropriately\\,\\ per\\ the\\ patient\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ mediport\\:\\ 0\\.38931140274295756\ \(0\)\
+\-\ catheter\\:\\ 0\\.17252051355689768\ \(0\)\
+\-\ malposition\\:\\ 0\\.12969590143358636\ \(0\)\
+\-\ tubing\\:\\ 0\\.11545560125901151\ \(0\)\
+\-\ extra\\-vascular\\:\\ 0\\.074079986756021\ \(0\)\
+\-\ mid\\-treatment\\:\\ 0\\.074079986756021\ \(0\)\
+\-\ heading\\:\\ 0\\.06825522053282818\ \(0\)\
+\-\ kinking\\:\\ 0\\.06484795071679318\ \(0\)\
+\-\ removed\\:\\ 0\\.06475082006229564\ \(0\)\
+\-\ caudad\\:\\ 0\\.05902318449360036\ \(0\)\
+\-\ brachiocephalic\\:\\ 0\\.05319841827040754\ \(0\)\
+\-\ right\\:\\ 0\\.05303715935943627\ \(0\)\
+\-\ new\\:\\ 0\\.05004685675295056\ \(0\)\
+\-\ cephalad\\:\\ 0\\.049791148454372554\ \(0\)\
+\-\ coursing\\:\\ 0\\.049336802057143345\ \(0\)\
+\-\ functioning\\:\\ 0\\.04670102425163879\ \(0\)\
+\-\ african\\-american\\:\\ 0\\.04638387863833755\ \(0\)\
+\-\ appropriately\\:\\ 0\\.04469757027310939\ \(0\)\
+\-\ atrium\\:\\ 0\\.04040491797255485\ \(0\)\
+\-\ 54\\:\\ 0\\.03791137252741452\ \(0\)\
+\-\ tip\\:\\ 0\\.0368462321438923\ \(0\)\
+\-\ appropriate\\:\\ 0\\.03384896370743237\ \(0\)\
+\-\ ovarian\\:\\ 0\\.0328591902985552\ \(0\)\
+\-\ subsequently\\:\\ 0\\.03255357984333777\ \(0\)\
+\-\ per\\:\\ 0\\.031431467300274546\ \(0\)\
+\-\ outside\\:\\ 0\\.03012109081606648\ \(0\)\
+\-\ position\\:\\ 0\\.029899353377636273\ \(0\)\
+\-\ placement\\:\\ 0\\.029146310027302766\ \(0\)\
+\-\ placed\\:\\ 0\\.02906665671676038\ \(0\)\
+\-\ abnormality\\:\\ 0\\.02649208356160128\ \(0\)\
+\-\ vein\\:\\ 0\\.025982632958101826\ \(0\)\
+\-\ location\\:\\ 0\\.0250479637554949\ \(0\)\
+\-\ cancer\\:\\ 0\\.02360643079298122\ \(0\)\
+\-\ radiograph\\:\\ 0\\.022873518100179516\ \(0\)\
+\-\ yo\\:\\ 0\\.021607995994140854\ \(0\)\
+\-\ proximal\\:\\ 0\\.021559186400899287\ \(0\)\
+\-\ evaluation\\:\\ 0\\.02085914954476309\ \(0\)\
+\-\ following\\:\\ 0\\.02038048535211049\ \(0\)\
+\-\ region\\:\\ 0\\.020282363254111868\ \(0\)\
+\-\ an\\:\\ 0\\.019859913685457642\ \(0\)\
+\-\ been\\:\\ 0\\.019536091508100765\ \(0\)\
+\-\ distal\\:\\ 0\\.0195233494869414\ \(0\)\
+\-\ fracture\\:\\ 0\\.018933397733384694\ \(0\)\
+\-\ evidence\\:\\ 0\\.018827248599721663\ \(0\)\
+\-\ prior\\:\\ 0\\.018437922455482043\ \(0\)\
+\-\ chest\\:\\ 0\\.017182596639138813\ \(0\)\
+\-\ into\\:\\ 0\\.017086776201342073\ \(0\)\
+\-\ was\\:\\ 0\\.016609706255692216\ \(0\)\
+\-\ woman\\:\\ 0\\.01658741972679753\ \(0\)\
+\-\ left\\:\\ 0\\.01606899612223386\ \(0\)\
+\-\ after\\:\\ 0\\.01485715296310254\ \(0\)\
+\-\ presents\\:\\ 0\\.01466927979418425\ \(0\)\
+\-\ seen\\:\\ 0\\.014190148025778908\ \(0\)\
+\-\ has\\:\\ 0\\.013484873701632587\ \(0\)\
+\-\ for\\:\\ 0\\.012253918464583447\ \(0\)\
+\-\ on\\:\\ 0\\.012166235501939968\ \(0\)\
+\-\ the\\:\\ 0\\.011617586949884521\ \(0\)\
+\-\ \\,\\:\\ 0\\.011374372500726362\ \(0\)\
+\-\ normal\\:\\ 0\\.011257247517639504\ \(0\)\
+\-\ or\\:\\ 0\\.008416157554316869\ \(0\)\
+\-\ no\\:\\ 0\\.007230623115158\ \(0\)\
+\-\ patient\\:\\ 0\\.007198251520305781\ \(0\)\
+\-\ in\\:\\ 0\\.007082306388911847\ \(0\)\
+\-\ a\\:\\ 0\\.0066655428877075845\ \(0\)\
+\-\ is\\:\\ 0\\.004725132591468282\ \(0\)\
+\-\ of\\:\\ 0\\.003916094144470199\ \(0\)\
+\-\ to\\:\\ 0\\.0035888076339746743\ \(0\)\
+\-\ \\.\\:\\ 0\\.0020882080057262513\ \(0\)\
+\-\ with\\:\\ 0\\.00196645674100655\ \(0\)\

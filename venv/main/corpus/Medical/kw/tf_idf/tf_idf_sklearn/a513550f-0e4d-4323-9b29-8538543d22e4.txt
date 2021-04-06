@@ -1,59 +1,56 @@
-Texto: 
-nondisplaced fractures are usually treated with casting and non-weight bearing status.
-plain radiographs of the left knee demonstrate degenerative change with no acute fracture.
-
-mri of the left knee demonstates edema involving the medial tibial plateau with transverse low t1 signal line consistent with fracture.  no extension to the weight bearing articular surface.
-tibial plateau fracture
-tibial plateau fracture
-55 year old female with left knee pain afterstarting running program.
-
-
-Keywords by value: 
-- plateau: 0.43088374605423674
-- tibial: 0.3389986069175829
-- fracture: 0.2975182592947992
-- knee: 0.28142427687143107
-- bearing: 0.25746054112728656
-- afterstarting: 0.20929421149028163
-- demonstates: 0.18827213056316996
-- weight: 0.18252831235246775
-- program: 0.16158644052660548
-- nondisplaced: 0.1504476346442931
-- casting: 0.1383776973935737
-- left: 0.13393077168655707
-- running: 0.13284481563607314
-- with: 0.1281327212611021
-- articular: 0.1195422786723821
-- 55: 0.11248778383019477
-- degenerative: 0.11117642187965858
-- surface: 0.10919343649317313
-- the: 0.10445551942627285
-- line: 0.1019804651946379
-- transverse: 0.10083569953355284
-- change: 0.09917175519413979
-- fractures: 0.0967545122715242
-- extension: 0.09264250383331595
-- involving: 0.09166903588712956
-- status: 0.09133114188277973
-- plain: 0.08634621229719679
-- medial: 0.08518831304723698
-- no: 0.08511673682445209
-- radiographs: 0.08488240733933058
-- usually: 0.0823893210808895
-- t1: 0.08154197661972275
-- treated: 0.0814982347796017
-- edema: 0.07805545405988695
-- low: 0.0750955618526349
-- signal: 0.07418810956917163
-- consistent: 0.07096227484930141
-- acute: 0.0707972195460778
-- demonstrate: 0.06803717810660002
-- mri: 0.06717851949720373
-- female: 0.06315219640647687
-- of: 0.05122248308300438
-- are: 0.049660302399692026
-- pain: 0.04683112945998743
-- year: 0.04033244210891911
-- old: 0.038733105845873014
-- to: 0.03271796062229501
-- and: 0.02704327647679754
+\-\ Texto\\:\\ \ \(0\)\
+\-\ nondisplaced\\ fractures\\ are\\ usually\\ treated\\ with\\ casting\\ and\\ non\\-weight\\ bearing\\ status\\.\ \(0\)\
+\-\ plain\\ radiographs\\ of\\ the\\ left\\ knee\\ demonstrate\\ degenerative\\ change\\ with\\ no\\ acute\\ fracture\\.\ \(0\)\
+\-\ mri\\ of\\ the\\ left\\ knee\\ demonstates\\ edema\\ involving\\ the\\ medial\\ tibial\\ plateau\\ with\\ transverse\\ low\\ t1\\ signal\\ line\\ consistent\\ with\\ fracture\\.\\ \\ no\\ extension\\ to\\ the\\ weight\\ bearing\\ articular\\ surface\\.\ \(0\)\
+\-\ tibial\\ plateau\\ fracture\ \(7\)\
+\-\ tibial\\ plateau\\ fracture\ \(7\)\
+\-\ 55\\ year\\ old\\ female\\ with\\ left\\ knee\\ pain\\ afterstarting\\ running\\ program\\.\ \(1\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ plateau\\:\\ 0\\.43088374605423674\ \(0\)\
+\-\ tibial\\:\\ 0\\.3389986069175829\ \(0\)\
+\-\ fracture\\:\\ 0\\.2975182592947992\ \(0\)\
+\-\ knee\\:\\ 0\\.28142427687143107\ \(0\)\
+\-\ bearing\\:\\ 0\\.25746054112728656\ \(0\)\
+\-\ afterstarting\\:\\ 0\\.20929421149028163\ \(0\)\
+\-\ demonstates\\:\\ 0\\.18827213056316996\ \(0\)\
+\-\ weight\\:\\ 0\\.18252831235246775\ \(0\)\
+\-\ program\\:\\ 0\\.16158644052660548\ \(0\)\
+\-\ nondisplaced\\:\\ 0\\.1504476346442931\ \(0\)\
+\-\ casting\\:\\ 0\\.1383776973935737\ \(0\)\
+\-\ left\\:\\ 0\\.13393077168655707\ \(0\)\
+\-\ running\\:\\ 0\\.13284481563607314\ \(0\)\
+\-\ with\\:\\ 0\\.1281327212611021\ \(0\)\
+\-\ articular\\:\\ 0\\.1195422786723821\ \(0\)\
+\-\ 55\\:\\ 0\\.11248778383019477\ \(0\)\
+\-\ degenerative\\:\\ 0\\.11117642187965858\ \(0\)\
+\-\ surface\\:\\ 0\\.10919343649317313\ \(0\)\
+\-\ the\\:\\ 0\\.10445551942627285\ \(0\)\
+\-\ line\\:\\ 0\\.1019804651946379\ \(0\)\
+\-\ transverse\\:\\ 0\\.10083569953355284\ \(0\)\
+\-\ change\\:\\ 0\\.09917175519413979\ \(0\)\
+\-\ fractures\\:\\ 0\\.0967545122715242\ \(0\)\
+\-\ extension\\:\\ 0\\.09264250383331595\ \(0\)\
+\-\ involving\\:\\ 0\\.09166903588712956\ \(0\)\
+\-\ status\\:\\ 0\\.09133114188277973\ \(0\)\
+\-\ plain\\:\\ 0\\.08634621229719679\ \(0\)\
+\-\ medial\\:\\ 0\\.08518831304723698\ \(0\)\
+\-\ no\\:\\ 0\\.08511673682445209\ \(0\)\
+\-\ radiographs\\:\\ 0\\.08488240733933058\ \(0\)\
+\-\ usually\\:\\ 0\\.0823893210808895\ \(0\)\
+\-\ t1\\:\\ 0\\.08154197661972275\ \(0\)\
+\-\ treated\\:\\ 0\\.0814982347796017\ \(0\)\
+\-\ edema\\:\\ 0\\.07805545405988695\ \(0\)\
+\-\ low\\:\\ 0\\.0750955618526349\ \(0\)\
+\-\ signal\\:\\ 0\\.07418810956917163\ \(0\)\
+\-\ consistent\\:\\ 0\\.07096227484930141\ \(0\)\
+\-\ acute\\:\\ 0\\.0707972195460778\ \(0\)\
+\-\ demonstrate\\:\\ 0\\.06803717810660002\ \(0\)\
+\-\ mri\\:\\ 0\\.06717851949720373\ \(0\)\
+\-\ female\\:\\ 0\\.06315219640647687\ \(0\)\
+\-\ of\\:\\ 0\\.05122248308300438\ \(0\)\
+\-\ are\\:\\ 0\\.049660302399692026\ \(0\)\
+\-\ pain\\:\\ 0\\.04683112945998743\ \(0\)\
+\-\ year\\:\\ 0\\.04033244210891911\ \(0\)\
+\-\ old\\:\\ 0\\.038733105845873014\ \(0\)\
+\-\ to\\:\\ 0\\.03271796062229501\ \(0\)\
+\-\ and\\:\\ 0\\.02704327647679754\ \(0\)\

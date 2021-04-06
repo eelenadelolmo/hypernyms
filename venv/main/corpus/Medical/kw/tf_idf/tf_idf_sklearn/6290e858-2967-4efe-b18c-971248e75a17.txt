@@ -1,102 +1,100 @@
-Texto: 
-vital signs are normal.  the patient is in no acute distress.  there is minimal soft tissue swelling of the dorsum of the right foot.  the patient is able to move all of her toes and there is no crepitus.
-treatment options include decreased activity, support with orthotics or casting in the early stages to prevent distal bone collapse.  surgical options include simple debridement with cartilage revision or tip-up osteotomy of the metatarsal to deflect the eroded cartilage away from the joint space.
-three views of the right foot demonstrate flattening/irregularity and osteosclerosis of the second metatarsal head.  there is widening of the second mtp joint.
-freiberg's infraction.
-freiberg's infraction, chronic.
-23 year old female who presents to the emergency department with right foot pain after having her foot stepped on.
-the findings in this case are consistent with a chronic condition, not an acute process that brought the patient to the emergency department.
-
-
-Keywords by value: 
-- foot: 0.2913960060477323
-- the: 0.27594201938288954
-- freiberg: 0.2428542434174728
-- infraction: 0.2428542434174728
-- metatarsal: 0.1833599766653779
-- cartilage: 0.17483982186380506
-- options: 0.16623804635134434
-- department: 0.15597176392193535
-- deflect: 0.14743900607898808
-- second: 0.138040088543813
-- emergency: 0.1368014624871929
-- orthotics: 0.1296831326776011
-- osteosclerosis: 0.12719173513546292
-- of: 0.12629432889271852
-- is: 0.12624039084977778
-- stepped: 0.12503358841982193
-- joint: 0.1215028231960182
-- mtp: 0.11848042384801802
-- revision: 0.11718676620481201
-- osteotomy: 0.11718676620481201
-- eroded: 0.11718676620481201
-- to: 0.11524216462399964
-- her: 0.11519573243354123
-- there: 0.11005166386595917
-- include: 0.10970972397969388
-- chronic: 0.10944798825858866
-- dorsum: 0.10796556744228515
-- crepitus: 0.10796556744228515
-- move: 0.10478631747629676
-- debridement: 0.10072455044663105
-- acute: 0.09974735190910247
-- stages: 0.09862261976148562
-- toes: 0.09785285082941449
-- casting: 0.09748129210995805
-- away: 0.09574175536235467
-- right: 0.09169883044953914
-- brought: 0.09092812753815414
-- patient: 0.08995868489867705
-- support: 0.08952184161704796
-- collapse: 0.08646329491912172
-- widening: 0.0850415354760361
-- prevent: 0.08453904653277158
-- simple: 0.08342397736382424
-- vital: 0.08209483761531773
-- able: 0.08086674636009862
-- having: 0.0794823751440083
-- 23: 0.07602129555249756
-- distress: 0.07426984132188673
-- condition: 0.07366958852968568
-- views: 0.07276918854740046
-- with: 0.07221130841379293
-- minimal: 0.07033476001903353
-- are: 0.06996720621422979
-- process: 0.06914680643131343
-- in: 0.06880496575703701
-- activity: 0.06768758206630676
-- early: 0.06645665510751464
-- signs: 0.06443375681688537
-- or: 0.06414561924800641
-- swelling: 0.062051378861624325
-- three: 0.061888124014212176
-- space: 0.06136865481873829
-- no: 0.05996117612964535
-- decreased: 0.05710713880542049
-- head: 0.05498679817128258
-- all: 0.05488116320390669
-- distal: 0.05356727005978137
-- who: 0.05215087588112323
-- bone: 0.050304168758709196
-- consistent: 0.049989950502624364
-- soft: 0.04908236653786157
-- tissue: 0.048363133629576706
-- demonstrate: 0.047929342359867365
-- case: 0.04631749220903321
-- findings: 0.04550166201993673
-- surgical: 0.04480951304450469
-- after: 0.044725041985635906
-- female: 0.044488077350903446
-- presents: 0.044350292266845726
-- treatment: 0.0439171114298425
-- that: 0.040008936507305345
-- and: 0.03810171123670519
-- normal: 0.03764237823229092
-- from: 0.03661572931989063
-- not: 0.03639617818809278
-- an: 0.03525485053656521
-- pain: 0.03299056926597121
-- this: 0.03167967539860965
-- year: 0.028412516213108373
-- on: 0.02784430823158606
-- old: 0.027285850801148093
+\-\ Texto\\:\\ \ \(0\)\
+\-\ vital\\ signs\\ are\\ normal\\.\\ \\ the\\ patient\\ is\\ in\\ no\\ acute\\ distress\\.\\ \\ there\\ is\\ minimal\\ soft\\ tissue\\ swelling\\ of\\ the\\ dorsum\\ of\\ the\\ right\\ foot\\.\\ \\ the\\ patient\\ is\\ able\\ to\\ move\\ all\\ of\\ her\\ toes\\ and\\ there\\ is\\ no\\ crepitus\\.\ \(0\)\
+\-\ treatment\\ options\\ include\\ decreased\\ activity\\,\\ support\\ with\\ orthotics\\ or\\ casting\\ in\\ the\\ early\\ stages\\ to\\ prevent\\ distal\\ bone\\ collapse\\.\\ \\ surgical\\ options\\ include\\ simple\\ debridement\\ with\\ cartilage\\ revision\\ or\\ tip\\-up\\ osteotomy\\ of\\ the\\ metatarsal\\ to\\ deflect\\ the\\ eroded\\ cartilage\\ away\\ from\\ the\\ joint\\ space\\.\ \(0\)\
+\-\ three\\ views\\ of\\ the\\ right\\ foot\\ demonstrate\\ flattening\\/irregularity\\ and\\ osteosclerosis\\ of\\ the\\ second\\ metatarsal\\ head\\.\\ \\ there\\ is\\ widening\\ of\\ the\\ second\\ mtp\\ joint\\.\ \(0\)\
+\-\ freiberg\\'s\\ infraction\\.\ \(0\)\
+\-\ freiberg\\'s\\ infraction\\,\\ chronic\\.\ \(0\)\
+\-\ 23\\ year\\ old\\ female\\ who\\ presents\\ to\\ the\\ emergency\\ department\\ with\\ right\\ foot\\ pain\\ after\\ having\\ her\\ foot\\ stepped\\ on\\.\ \(1\)\
+\-\ the\\ findings\\ in\\ this\\ case\\ are\\ consistent\\ with\\ a\\ chronic\\ condition\\,\\ not\\ an\\ acute\\ process\\ that\\ brought\\ the\\ patient\\ to\\ the\\ emergency\\ department\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ foot\\:\\ 0\\.2913960060477323\ \(0\)\
+\-\ the\\:\\ 0\\.27594201938288954\ \(0\)\
+\-\ freiberg\\:\\ 0\\.2428542434174728\ \(0\)\
+\-\ infraction\\:\\ 0\\.2428542434174728\ \(0\)\
+\-\ metatarsal\\:\\ 0\\.1833599766653779\ \(0\)\
+\-\ cartilage\\:\\ 0\\.17483982186380506\ \(0\)\
+\-\ options\\:\\ 0\\.16623804635134434\ \(0\)\
+\-\ department\\:\\ 0\\.15597176392193535\ \(0\)\
+\-\ deflect\\:\\ 0\\.14743900607898808\ \(0\)\
+\-\ second\\:\\ 0\\.138040088543813\ \(0\)\
+\-\ emergency\\:\\ 0\\.1368014624871929\ \(0\)\
+\-\ orthotics\\:\\ 0\\.1296831326776011\ \(0\)\
+\-\ osteosclerosis\\:\\ 0\\.12719173513546292\ \(0\)\
+\-\ of\\:\\ 0\\.12629432889271852\ \(0\)\
+\-\ is\\:\\ 0\\.12624039084977778\ \(0\)\
+\-\ stepped\\:\\ 0\\.12503358841982193\ \(0\)\
+\-\ joint\\:\\ 0\\.1215028231960182\ \(0\)\
+\-\ mtp\\:\\ 0\\.11848042384801802\ \(0\)\
+\-\ revision\\:\\ 0\\.11718676620481201\ \(0\)\
+\-\ osteotomy\\:\\ 0\\.11718676620481201\ \(0\)\
+\-\ eroded\\:\\ 0\\.11718676620481201\ \(0\)\
+\-\ to\\:\\ 0\\.11524216462399964\ \(0\)\
+\-\ her\\:\\ 0\\.11519573243354123\ \(0\)\
+\-\ there\\:\\ 0\\.11005166386595917\ \(0\)\
+\-\ include\\:\\ 0\\.10970972397969388\ \(0\)\
+\-\ chronic\\:\\ 0\\.10944798825858866\ \(0\)\
+\-\ dorsum\\:\\ 0\\.10796556744228515\ \(0\)\
+\-\ crepitus\\:\\ 0\\.10796556744228515\ \(0\)\
+\-\ move\\:\\ 0\\.10478631747629676\ \(0\)\
+\-\ debridement\\:\\ 0\\.10072455044663105\ \(0\)\
+\-\ acute\\:\\ 0\\.09974735190910247\ \(0\)\
+\-\ stages\\:\\ 0\\.09862261976148562\ \(0\)\
+\-\ toes\\:\\ 0\\.09785285082941449\ \(0\)\
+\-\ casting\\:\\ 0\\.09748129210995805\ \(0\)\
+\-\ away\\:\\ 0\\.09574175536235467\ \(0\)\
+\-\ right\\:\\ 0\\.09169883044953914\ \(0\)\
+\-\ brought\\:\\ 0\\.09092812753815414\ \(0\)\
+\-\ patient\\:\\ 0\\.08995868489867705\ \(0\)\
+\-\ support\\:\\ 0\\.08952184161704796\ \(0\)\
+\-\ collapse\\:\\ 0\\.08646329491912172\ \(0\)\
+\-\ widening\\:\\ 0\\.0850415354760361\ \(0\)\
+\-\ prevent\\:\\ 0\\.08453904653277158\ \(0\)\
+\-\ simple\\:\\ 0\\.08342397736382424\ \(0\)\
+\-\ vital\\:\\ 0\\.08209483761531773\ \(0\)\
+\-\ able\\:\\ 0\\.08086674636009862\ \(0\)\
+\-\ having\\:\\ 0\\.0794823751440083\ \(0\)\
+\-\ 23\\:\\ 0\\.07602129555249756\ \(0\)\
+\-\ distress\\:\\ 0\\.07426984132188673\ \(0\)\
+\-\ condition\\:\\ 0\\.07366958852968568\ \(0\)\
+\-\ views\\:\\ 0\\.07276918854740046\ \(0\)\
+\-\ with\\:\\ 0\\.07221130841379293\ \(0\)\
+\-\ minimal\\:\\ 0\\.07033476001903353\ \(0\)\
+\-\ are\\:\\ 0\\.06996720621422979\ \(0\)\
+\-\ process\\:\\ 0\\.06914680643131343\ \(0\)\
+\-\ in\\:\\ 0\\.06880496575703701\ \(0\)\
+\-\ activity\\:\\ 0\\.06768758206630676\ \(0\)\
+\-\ early\\:\\ 0\\.06645665510751464\ \(0\)\
+\-\ signs\\:\\ 0\\.06443375681688537\ \(0\)\
+\-\ or\\:\\ 0\\.06414561924800641\ \(0\)\
+\-\ swelling\\:\\ 0\\.062051378861624325\ \(0\)\
+\-\ three\\:\\ 0\\.061888124014212176\ \(0\)\
+\-\ space\\:\\ 0\\.06136865481873829\ \(0\)\
+\-\ no\\:\\ 0\\.05996117612964535\ \(0\)\
+\-\ decreased\\:\\ 0\\.05710713880542049\ \(0\)\
+\-\ head\\:\\ 0\\.05498679817128258\ \(0\)\
+\-\ all\\:\\ 0\\.05488116320390669\ \(0\)\
+\-\ distal\\:\\ 0\\.05356727005978137\ \(0\)\
+\-\ who\\:\\ 0\\.05215087588112323\ \(0\)\
+\-\ bone\\:\\ 0\\.050304168758709196\ \(0\)\
+\-\ consistent\\:\\ 0\\.049989950502624364\ \(0\)\
+\-\ soft\\:\\ 0\\.04908236653786157\ \(0\)\
+\-\ tissue\\:\\ 0\\.048363133629576706\ \(0\)\
+\-\ demonstrate\\:\\ 0\\.047929342359867365\ \(0\)\
+\-\ case\\:\\ 0\\.04631749220903321\ \(0\)\
+\-\ findings\\:\\ 0\\.04550166201993673\ \(0\)\
+\-\ surgical\\:\\ 0\\.04480951304450469\ \(0\)\
+\-\ after\\:\\ 0\\.044725041985635906\ \(0\)\
+\-\ female\\:\\ 0\\.044488077350903446\ \(0\)\
+\-\ presents\\:\\ 0\\.044350292266845726\ \(0\)\
+\-\ treatment\\:\\ 0\\.0439171114298425\ \(0\)\
+\-\ that\\:\\ 0\\.040008936507305345\ \(0\)\
+\-\ and\\:\\ 0\\.03810171123670519\ \(0\)\
+\-\ normal\\:\\ 0\\.03764237823229092\ \(0\)\
+\-\ from\\:\\ 0\\.03661572931989063\ \(0\)\
+\-\ not\\:\\ 0\\.03639617818809278\ \(0\)\
+\-\ an\\:\\ 0\\.03525485053656521\ \(0\)\
+\-\ pain\\:\\ 0\\.03299056926597121\ \(0\)\
+\-\ this\\:\\ 0\\.03167967539860965\ \(0\)\
+\-\ year\\:\\ 0\\.028412516213108373\ \(0\)\
+\-\ on\\:\\ 0\\.02784430823158606\ \(0\)\
+\-\ old\\:\\ 0\\.027285850801148093\ \(0\)\

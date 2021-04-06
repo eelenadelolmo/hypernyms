@@ -1,75 +1,73 @@
-Texto: 
-decreased breath sounds over the right lung.
-normal wbc count.
-complete opacification of right lung.
-multiple tiny (miliary pattern, micronodular) nodules throughout the left lung.
-hematogenous spread of malignancy
-inflammatory: granulomatous disease, tuberculosis, viral (varicella).
-malignancy: hematogenous metastatic disease, bronchoalveolar cell carcinoma, lymphangitic carcinomatosis.
-other: silicosis (typically upper lobes), sarcoidosis (rare)
-82 year old man with history of both prostate and squamous cell cancer. presents with symptoms of shortness of breath.
-
-
-Keywords by value: 
-- hematogenous: 0.11499336579087852
-- lung: 0.07734872250746082
-- micronodular: 0.0750633386617958
-- varicella: 0.06894056090239872
-- malignancy: 0.06879353495419824
-- miliary: 0.06784305553096304
-- breath: 0.06656494913019476
-- bronchoalveolar: 0.06361946065483633
-- silicosis: 0.061720277771565975
-- lymphangitic: 0.05916691883372238
-- tiny: 0.05572690126215386
-- 82: 0.05509539478489934
-- carcinomatosis: 0.05449999464073321
-- cell: 0.04808834815794763
-- prostate: 0.04727971150990044
-- opacification: 0.04713603107102195
-- viral: 0.04484019705676717
-- squamous: 0.043549889955592315
-- spread: 0.04305611663377373
-- granulomatous: 0.04296010980976411
-- tuberculosis: 0.0424019405792005
-- sarcoidosis: 0.04020511839963789
-- lobes: 0.03922565017413501
-- count: 0.038704708293148954
-- shortness: 0.03744961040508514
-- nodules: 0.03690123818127866
-- sounds: 0.035503610963608115
-- :: 0.03532108799970828
-- rare: 0.03456614790284683
-- pattern: 0.03402544103199248
-- throughout: 0.03332028464895757
-- wbc: 0.0324486963601647
-- typically: 0.03142110176568721
-- complete: 0.031326832645688064
-- inflammatory: 0.030867874418666914
-- (: 0.030098405260160853
-- ): 0.02973073717138771
-- cancer: 0.029262138170466304
-- disease: 0.02909869877532717
-- decreased: 0.026466212528380828
-- carcinoma: 0.02522841322933194
-- both: 0.02273124990298043
-- over: 0.022662943647291274
-- metastatic: 0.022407389621000938
-- symptoms: 0.02218393205102228
-- upper: 0.02148000526425748
-- man: 0.021051373365520824
-- other: 0.020517068215650504
-- right: 0.018783993939800347
-- multiple: 0.01874797920290905
-- presents: 0.018183794744874228
-- ,: 0.01691937909483046
-- normal: 0.01395429640207397
-- history: 0.012293901434448785
-- left: 0.009959429888259527
-- year: 0.009959429888259527
-- old: 0.009113902050648486
-- of: 0.0060679062915618975
-- .: 0.0029582946747788563
-- the: 0.0028801934313255374
-- with: 0.0024375870018727027
-- and: 0.0018750938097106089
+\-\ Texto\\:\\ \ \(0\)\
+\-\ decreased\\ breath\\ sounds\\ over\\ the\\ right\\ lung\\.\ \(0\)\
+\-\ normal\\ wbc\\ count\\.\ \(0\)\
+\-\ complete\\ opacification\\ of\\ right\\ lung\\.\ \(1\)\
+\-\ multiple\\ tiny\\ \\(miliary\\ pattern\\,\\ micronodular\\)\\ nodules\\ throughout\\ the\\ left\\ lung\\.\ \(0\)\
+\-\ hematogenous\\ spread\\ of\\ malignancy\ \(0\)\
+\-\ inflammatory\\:\\ granulomatous\\ disease\\,\\ tuberculosis\\,\\ viral\\ \\(varicella\\)\\.\ \(0\)\
+\-\ malignancy\\:\\ hematogenous\\ metastatic\\ disease\\,\\ bronchoalveolar\\ cell\\ carcinoma\\,\\ lymphangitic\\ carcinomatosis\\.\ \(0\)\
+\-\ other\\:\\ silicosis\\ \\(typically\\ upper\\ lobes\\)\\,\\ sarcoidosis\\ \\(rare\\)\ \(0\)\
+\-\ 82\\ year\\ old\\ man\\ with\\ history\\ of\\ both\\ prostate\\ and\\ squamous\\ cell\\ cancer\\.\\ presents\\ with\\ symptoms\\ of\\ shortness\\ of\\ breath\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ hematogenous\\:\\ 0\\.11499336579087852\ \(0\)\
+\-\ lung\\:\\ 0\\.07734872250746082\ \(0\)\
+\-\ micronodular\\:\\ 0\\.0750633386617958\ \(0\)\
+\-\ varicella\\:\\ 0\\.06894056090239872\ \(0\)\
+\-\ malignancy\\:\\ 0\\.06879353495419824\ \(0\)\
+\-\ miliary\\:\\ 0\\.06784305553096304\ \(0\)\
+\-\ breath\\:\\ 0\\.06656494913019476\ \(0\)\
+\-\ bronchoalveolar\\:\\ 0\\.06361946065483633\ \(0\)\
+\-\ silicosis\\:\\ 0\\.061720277771565975\ \(0\)\
+\-\ lymphangitic\\:\\ 0\\.05916691883372238\ \(0\)\
+\-\ tiny\\:\\ 0\\.05572690126215386\ \(0\)\
+\-\ 82\\:\\ 0\\.05509539478489934\ \(0\)\
+\-\ carcinomatosis\\:\\ 0\\.05449999464073321\ \(0\)\
+\-\ cell\\:\\ 0\\.04808834815794763\ \(0\)\
+\-\ prostate\\:\\ 0\\.04727971150990044\ \(0\)\
+\-\ opacification\\:\\ 0\\.04713603107102195\ \(0\)\
+\-\ viral\\:\\ 0\\.04484019705676717\ \(0\)\
+\-\ squamous\\:\\ 0\\.043549889955592315\ \(0\)\
+\-\ spread\\:\\ 0\\.04305611663377373\ \(0\)\
+\-\ granulomatous\\:\\ 0\\.04296010980976411\ \(0\)\
+\-\ tuberculosis\\:\\ 0\\.0424019405792005\ \(0\)\
+\-\ sarcoidosis\\:\\ 0\\.04020511839963789\ \(0\)\
+\-\ lobes\\:\\ 0\\.03922565017413501\ \(0\)\
+\-\ count\\:\\ 0\\.038704708293148954\ \(0\)\
+\-\ shortness\\:\\ 0\\.03744961040508514\ \(0\)\
+\-\ nodules\\:\\ 0\\.03690123818127866\ \(0\)\
+\-\ sounds\\:\\ 0\\.035503610963608115\ \(0\)\
+\-\ \\:\\:\\ 0\\.03532108799970828\ \(0\)\
+\-\ rare\\:\\ 0\\.03456614790284683\ \(0\)\
+\-\ pattern\\:\\ 0\\.03402544103199248\ \(0\)\
+\-\ throughout\\:\\ 0\\.03332028464895757\ \(0\)\
+\-\ wbc\\:\\ 0\\.0324486963601647\ \(0\)\
+\-\ typically\\:\\ 0\\.03142110176568721\ \(0\)\
+\-\ complete\\:\\ 0\\.031326832645688064\ \(0\)\
+\-\ inflammatory\\:\\ 0\\.030867874418666914\ \(0\)\
+\-\ \\(\\:\\ 0\\.030098405260160853\ \(0\)\
+\-\ \\)\\:\\ 0\\.02973073717138771\ \(0\)\
+\-\ cancer\\:\\ 0\\.029262138170466304\ \(0\)\
+\-\ disease\\:\\ 0\\.02909869877532717\ \(0\)\
+\-\ decreased\\:\\ 0\\.026466212528380828\ \(0\)\
+\-\ carcinoma\\:\\ 0\\.02522841322933194\ \(0\)\
+\-\ both\\:\\ 0\\.02273124990298043\ \(0\)\
+\-\ over\\:\\ 0\\.022662943647291274\ \(0\)\
+\-\ metastatic\\:\\ 0\\.022407389621000938\ \(0\)\
+\-\ symptoms\\:\\ 0\\.02218393205102228\ \(0\)\
+\-\ upper\\:\\ 0\\.02148000526425748\ \(0\)\
+\-\ man\\:\\ 0\\.021051373365520824\ \(0\)\
+\-\ other\\:\\ 0\\.020517068215650504\ \(0\)\
+\-\ right\\:\\ 0\\.018783993939800347\ \(0\)\
+\-\ multiple\\:\\ 0\\.01874797920290905\ \(0\)\
+\-\ presents\\:\\ 0\\.018183794744874228\ \(0\)\
+\-\ \\,\\:\\ 0\\.01691937909483046\ \(0\)\
+\-\ normal\\:\\ 0\\.01395429640207397\ \(0\)\
+\-\ history\\:\\ 0\\.012293901434448785\ \(0\)\
+\-\ left\\:\\ 0\\.009959429888259527\ \(0\)\
+\-\ year\\:\\ 0\\.009959429888259527\ \(0\)\
+\-\ old\\:\\ 0\\.009113902050648486\ \(0\)\
+\-\ of\\:\\ 0\\.0060679062915618975\ \(0\)\
+\-\ \\.\\:\\ 0\\.0029582946747788563\ \(0\)\
+\-\ the\\:\\ 0\\.0028801934313255374\ \(0\)\
+\-\ with\\:\\ 0\\.0024375870018727027\ \(0\)\
+\-\ and\\:\\ 0\\.0018750938097106089\ \(0\)\

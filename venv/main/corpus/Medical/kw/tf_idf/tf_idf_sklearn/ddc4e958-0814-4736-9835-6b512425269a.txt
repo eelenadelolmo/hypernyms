@@ -1,116 +1,114 @@
-Texto: 
-physical exam demonstrates an enlarged right testicle.  laboratory values were normal, including afp and b-hcg.
-the patient underwent an uneventful orchiectomy.  pathology indicated a classic seminoma.  the patient did not display abnormal lab values (afp and b-hcg) prior to surgery, and his values were normal at the one month post-op exam.  there was no indication of metastatic disease.
-transverse and longitudinal ultrasound images of the right testis demonstrate a diffuse enlargement with  heterogeneous echogenicity.  color doppler images demonstrate an increase in vascularity when compared to the contralateral testis (contralateral side not shown).
-seminoma - diagnosis confirmed by pathology following orchiectomy.
-seminoma
-mixed tumor
-embryonal carcinoma
-teratoma
-26 year-old male presents with right testicular mass.
-seminomas are among the most common testicular tumors.  this case is somewhat atypical, as most seminomas display a relatively homogeneous, hypoechoic echogenicity.  this patient displays a heterogeneous echogenicity in the diseased testis.  fortunately, seminomas are very radiosensitive and enjoy a favorable prognosis when compared to most other testicular neoplasms.
-
-
-Keywords by value: 
-- seminomas: 0.35178829446756665
-- seminoma: 0.26126581427866896
-- testis: 0.2578337200814802
-- echogenicity: 0.23233826771329869
-- testicular: 0.2232648396040938
-- values: 0.21959358356055486
-- display: 0.1883896138806584
-- orchiectomy: 0.18139743864425098
-- afp: 0.16718503428270517
-- contralateral: 0.1587211380659846
-- compared: 0.1283075390271482
-- pathology: 0.12459237271863617
-- most: 0.12389560984525447
-- enjoy: 0.12126477035144341
-- diseased: 0.11726276482252221
-- radiosensitive: 0.11726276482252221
-- heterogeneous: 0.11487018251609692
-- the: 0.11083882608767479
-- fortunately: 0.10451605264888045
-- when: 0.09586953982914834
-- displays: 0.0941948069403292
-- embryonal: 0.09292927949104356
-- an: 0.09103479757133094
-- favorable: 0.09069871932212549
-- uneventful: 0.09019280141140801
-- indication: 0.08833521825715199
-- among: 0.08390514174324072
-- demonstrate: 0.08250851373264001
-- and: 0.0819882823867801
-- were: 0.08181000628433825
-- exam: 0.07989429028299146
-- testicle: 0.07982431895348031
-- vascularity: 0.0793605690329923
-- right: 0.07892799941427951
-- patient: 0.07743020269925179
-- longitudinal: 0.07541569380746652
-- neoplasms: 0.07395000161956253
-- images: 0.07341357096842016
-- somewhat: 0.07220883093815676
-- lab: 0.07167371845360777
-- color: 0.07154309581009394
-- doppler: 0.0710325354133247
-- homogeneous: 0.0700644085634916
-- prognosis: 0.06983254970753937
-- teratoma: 0.06862211622858175
-- hypoechoic: 0.06780357371597615
-- mixed: 0.06568757057351347
-- indicated: 0.06526726037495896
-- atypical: 0.06510262875738389
-- normal: 0.0647999018636399
-- relatively: 0.06462011069966056
-- 26: 0.06446292022124389
-- increase: 0.06370255560305849
-- not: 0.06265461656662247
-- shown: 0.06151591404780886
-- transverse: 0.061141598837837714
-- enlargement: 0.06083718386104768
-- are: 0.06022292306262732
-- to: 0.05951548208860973
-- classic: 0.059353436888876725
-- confirmed: 0.05851325952070522
-- tumors: 0.05836122293280443
-- laboratory: 0.057625008328192374
-- did: 0.0569258054234978
-- very: 0.0569258054234978
-- including: 0.0567900852316217
-- side: 0.054820404699453824
-- underwent: 0.054664970575982366
-- this: 0.05453533897974801
-- enlarged: 0.05409708726514785
-- diffuse: 0.049765156169991685
-- ultrasound: 0.04894738997421014
-- month: 0.04827232015040259
-- his: 0.04812665170604399
-- abnormal: 0.04767518086805974
-- following: 0.0476052165496295
-- carcinoma: 0.0474663347705813
-- one: 0.045434233385368054
-- common: 0.045003147335166443
-- prior: 0.04439903789984746
-- metastatic: 0.043522028243186336
-- physical: 0.043027885575511474
-- surgery: 0.04266438911697888
-- tumor: 0.04150705971696274
-- other: 0.04121011761408564
-- diagnosis: 0.04113686199812136
-- demonstrates: 0.039866887942013464
-- case: 0.039866887942013464
-- in: 0.03948169800602026
-- presents: 0.03817365853959283
-- male: 0.035331720387677394
-- by: 0.033698565360182835
-- disease: 0.033310241827963716
-- as: 0.03187955899352719
-- there: 0.031574948915452844
-- with: 0.03107724537078243
-- of: 0.031058687812215505
-- mass: 0.030311338667014357
-- at: 0.029973236880582232
-- was: 0.02765586361609663
-- no: 0.025805212843169605
-- is: 0.021731796242554485
+\-\ Texto\\:\\ \ \(0\)\
+\-\ physical\\ exam\\ demonstrates\\ an\\ enlarged\\ right\\ testicle\\.\\ \\ laboratory\\ values\\ were\\ normal\\,\\ including\\ afp\\ and\\ b\\-hcg\\.\ \(0\)\
+\-\ the\\ patient\\ underwent\\ an\\ uneventful\\ orchiectomy\\.\\ \\ pathology\\ indicated\\ a\\ classic\\ seminoma\\.\\ \\ the\\ patient\\ did\\ not\\ display\\ abnormal\\ lab\\ values\\ \\(afp\\ and\\ b\\-hcg\\)\\ prior\\ to\\ surgery\\,\\ and\\ his\\ values\\ were\\ normal\\ at\\ the\\ one\\ month\\ post\\-op\\ exam\\.\\ \\ there\\ was\\ no\\ indication\\ of\\ metastatic\\ disease\\.\ \(0\)\
+\-\ transverse\\ and\\ longitudinal\\ ultrasound\\ images\\ of\\ the\\ right\\ testis\\ demonstrate\\ a\\ diffuse\\ enlargement\\ with\\ \\ heterogeneous\\ echogenicity\\.\\ \\ color\\ doppler\\ images\\ demonstrate\\ an\\ increase\\ in\\ vascularity\\ when\\ compared\\ to\\ the\\ contralateral\\ testis\\ \\(contralateral\\ side\\ not\\ shown\\)\\.\ \(0\)\
+\-\ seminoma\\ \\-\\ diagnosis\\ confirmed\\ by\\ pathology\\ following\\ orchiectomy\\.\ \(0\)\
+\-\ seminoma\ \(37\)\
+\-\ mixed\\ tumor\ \(3\)\
+\-\ embryonal\\ carcinoma\ \(7\)\
+\-\ teratoma\ \(130\)\
+\-\ 26\\ year\\-old\\ male\\ presents\\ with\\ right\\ testicular\\ mass\\.\ \(1\)\
+\-\ seminomas\\ are\\ among\\ the\\ most\\ common\\ testicular\\ tumors\\.\\ \\ this\\ case\\ is\\ somewhat\\ atypical\\,\\ as\\ most\\ seminomas\\ display\\ a\\ relatively\\ homogeneous\\,\\ hypoechoic\\ echogenicity\\.\\ \\ this\\ patient\\ displays\\ a\\ heterogeneous\\ echogenicity\\ in\\ the\\ diseased\\ testis\\.\\ \\ fortunately\\,\\ seminomas\\ are\\ very\\ radiosensitive\\ and\\ enjoy\\ a\\ favorable\\ prognosis\\ when\\ compared\\ to\\ most\\ other\\ testicular\\ neoplasms\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ seminomas\\:\\ 0\\.35178829446756665\ \(0\)\
+\-\ seminoma\\:\\ 0\\.26126581427866896\ \(0\)\
+\-\ testis\\:\\ 0\\.2578337200814802\ \(0\)\
+\-\ echogenicity\\:\\ 0\\.23233826771329869\ \(0\)\
+\-\ testicular\\:\\ 0\\.2232648396040938\ \(0\)\
+\-\ values\\:\\ 0\\.21959358356055486\ \(0\)\
+\-\ display\\:\\ 0\\.1883896138806584\ \(0\)\
+\-\ orchiectomy\\:\\ 0\\.18139743864425098\ \(0\)\
+\-\ afp\\:\\ 0\\.16718503428270517\ \(0\)\
+\-\ contralateral\\:\\ 0\\.1587211380659846\ \(0\)\
+\-\ compared\\:\\ 0\\.1283075390271482\ \(0\)\
+\-\ pathology\\:\\ 0\\.12459237271863617\ \(0\)\
+\-\ most\\:\\ 0\\.12389560984525447\ \(0\)\
+\-\ enjoy\\:\\ 0\\.12126477035144341\ \(0\)\
+\-\ diseased\\:\\ 0\\.11726276482252221\ \(0\)\
+\-\ radiosensitive\\:\\ 0\\.11726276482252221\ \(0\)\
+\-\ heterogeneous\\:\\ 0\\.11487018251609692\ \(0\)\
+\-\ the\\:\\ 0\\.11083882608767479\ \(0\)\
+\-\ fortunately\\:\\ 0\\.10451605264888045\ \(0\)\
+\-\ when\\:\\ 0\\.09586953982914834\ \(0\)\
+\-\ displays\\:\\ 0\\.0941948069403292\ \(0\)\
+\-\ embryonal\\:\\ 0\\.09292927949104356\ \(0\)\
+\-\ an\\:\\ 0\\.09103479757133094\ \(0\)\
+\-\ favorable\\:\\ 0\\.09069871932212549\ \(0\)\
+\-\ uneventful\\:\\ 0\\.09019280141140801\ \(0\)\
+\-\ indication\\:\\ 0\\.08833521825715199\ \(0\)\
+\-\ among\\:\\ 0\\.08390514174324072\ \(0\)\
+\-\ demonstrate\\:\\ 0\\.08250851373264001\ \(0\)\
+\-\ and\\:\\ 0\\.0819882823867801\ \(0\)\
+\-\ were\\:\\ 0\\.08181000628433825\ \(0\)\
+\-\ exam\\:\\ 0\\.07989429028299146\ \(0\)\
+\-\ testicle\\:\\ 0\\.07982431895348031\ \(0\)\
+\-\ vascularity\\:\\ 0\\.0793605690329923\ \(0\)\
+\-\ right\\:\\ 0\\.07892799941427951\ \(0\)\
+\-\ patient\\:\\ 0\\.07743020269925179\ \(0\)\
+\-\ longitudinal\\:\\ 0\\.07541569380746652\ \(0\)\
+\-\ neoplasms\\:\\ 0\\.07395000161956253\ \(0\)\
+\-\ images\\:\\ 0\\.07341357096842016\ \(0\)\
+\-\ somewhat\\:\\ 0\\.07220883093815676\ \(0\)\
+\-\ lab\\:\\ 0\\.07167371845360777\ \(0\)\
+\-\ color\\:\\ 0\\.07154309581009394\ \(0\)\
+\-\ doppler\\:\\ 0\\.0710325354133247\ \(0\)\
+\-\ homogeneous\\:\\ 0\\.0700644085634916\ \(0\)\
+\-\ prognosis\\:\\ 0\\.06983254970753937\ \(0\)\
+\-\ teratoma\\:\\ 0\\.06862211622858175\ \(0\)\
+\-\ hypoechoic\\:\\ 0\\.06780357371597615\ \(0\)\
+\-\ mixed\\:\\ 0\\.06568757057351347\ \(0\)\
+\-\ indicated\\:\\ 0\\.06526726037495896\ \(0\)\
+\-\ atypical\\:\\ 0\\.06510262875738389\ \(0\)\
+\-\ normal\\:\\ 0\\.0647999018636399\ \(0\)\
+\-\ relatively\\:\\ 0\\.06462011069966056\ \(0\)\
+\-\ 26\\:\\ 0\\.06446292022124389\ \(0\)\
+\-\ increase\\:\\ 0\\.06370255560305849\ \(0\)\
+\-\ not\\:\\ 0\\.06265461656662247\ \(0\)\
+\-\ shown\\:\\ 0\\.06151591404780886\ \(0\)\
+\-\ transverse\\:\\ 0\\.061141598837837714\ \(0\)\
+\-\ enlargement\\:\\ 0\\.06083718386104768\ \(0\)\
+\-\ are\\:\\ 0\\.06022292306262732\ \(0\)\
+\-\ to\\:\\ 0\\.05951548208860973\ \(0\)\
+\-\ classic\\:\\ 0\\.059353436888876725\ \(0\)\
+\-\ confirmed\\:\\ 0\\.05851325952070522\ \(0\)\
+\-\ tumors\\:\\ 0\\.05836122293280443\ \(0\)\
+\-\ laboratory\\:\\ 0\\.057625008328192374\ \(0\)\
+\-\ did\\:\\ 0\\.0569258054234978\ \(0\)\
+\-\ very\\:\\ 0\\.0569258054234978\ \(0\)\
+\-\ including\\:\\ 0\\.0567900852316217\ \(0\)\
+\-\ side\\:\\ 0\\.054820404699453824\ \(0\)\
+\-\ underwent\\:\\ 0\\.054664970575982366\ \(0\)\
+\-\ this\\:\\ 0\\.05453533897974801\ \(0\)\
+\-\ enlarged\\:\\ 0\\.05409708726514785\ \(0\)\
+\-\ diffuse\\:\\ 0\\.049765156169991685\ \(0\)\
+\-\ ultrasound\\:\\ 0\\.04894738997421014\ \(0\)\
+\-\ month\\:\\ 0\\.04827232015040259\ \(0\)\
+\-\ his\\:\\ 0\\.04812665170604399\ \(0\)\
+\-\ abnormal\\:\\ 0\\.04767518086805974\ \(0\)\
+\-\ following\\:\\ 0\\.0476052165496295\ \(0\)\
+\-\ carcinoma\\:\\ 0\\.0474663347705813\ \(0\)\
+\-\ one\\:\\ 0\\.045434233385368054\ \(0\)\
+\-\ common\\:\\ 0\\.045003147335166443\ \(0\)\
+\-\ prior\\:\\ 0\\.04439903789984746\ \(0\)\
+\-\ metastatic\\:\\ 0\\.043522028243186336\ \(0\)\
+\-\ physical\\:\\ 0\\.043027885575511474\ \(0\)\
+\-\ surgery\\:\\ 0\\.04266438911697888\ \(0\)\
+\-\ tumor\\:\\ 0\\.04150705971696274\ \(0\)\
+\-\ other\\:\\ 0\\.04121011761408564\ \(0\)\
+\-\ diagnosis\\:\\ 0\\.04113686199812136\ \(0\)\
+\-\ demonstrates\\:\\ 0\\.039866887942013464\ \(0\)\
+\-\ case\\:\\ 0\\.039866887942013464\ \(0\)\
+\-\ in\\:\\ 0\\.03948169800602026\ \(0\)\
+\-\ presents\\:\\ 0\\.03817365853959283\ \(0\)\
+\-\ male\\:\\ 0\\.035331720387677394\ \(0\)\
+\-\ by\\:\\ 0\\.033698565360182835\ \(0\)\
+\-\ disease\\:\\ 0\\.033310241827963716\ \(0\)\
+\-\ as\\:\\ 0\\.03187955899352719\ \(0\)\
+\-\ there\\:\\ 0\\.031574948915452844\ \(0\)\
+\-\ with\\:\\ 0\\.03107724537078243\ \(0\)\
+\-\ of\\:\\ 0\\.031058687812215505\ \(0\)\
+\-\ mass\\:\\ 0\\.030311338667014357\ \(0\)\
+\-\ at\\:\\ 0\\.029973236880582232\ \(0\)\
+\-\ was\\:\\ 0\\.02765586361609663\ \(0\)\
+\-\ no\\:\\ 0\\.025805212843169605\ \(0\)\
+\-\ is\\:\\ 0\\.021731796242554485\ \(0\)\

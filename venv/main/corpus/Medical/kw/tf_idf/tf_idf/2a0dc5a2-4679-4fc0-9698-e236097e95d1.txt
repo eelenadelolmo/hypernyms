@@ -1,121 +1,116 @@
-Texto: 
-slightly antalgic gait.  no evidence of leg length discrepancy.  afebrile.
-compression-side femoral neck stress fractures are often treated conservatively with a non-weight-bearing regimen.  this case was managed surgically with femoral neck screws.
-nuclear medicine skeletal scintigraphy with tc-99m mdp demonstrates focal intense activity at the inferomedial aspect of the base of the right femoral neck.
-
-preoperative plain radiographs demonstrate a 1.6 cm sclerotic line at the compressive (inferior) aspect of the right femoral neck.
-
-mri of the right hip demonstrates a hypointense fracture line through the compressive (inferior) aspect of the femoral neck without significant periosteal reaction.  extensive bone marrow edema is seen adjacent to the fracture.
-
-postoperative plain radiographs demonstrate interval placement of three right femoral neck screws.
-femoral neck stress fracture - acute
-femoral neck stress fracture - acute
-nineteen-year-old female presents with right hip pain first noticed approximately three weeks ago.  she explains that she is currently in a training environment that requires daily physical exercise.  no specific trauma.
-none.
-
-
-Keywords by value: 
-- femoral: 0.14369052007265434
-- neck: 0.11090577401186662
-- stress: 0.062098578260987844
-- screws: 0.06020135462961352
-- compressive: 0.058443733694478854
-- fracture: 0.049791697906580744
-- compression-side: 0.04870452167937292
-- nineteen-year-old: 0.04487497924534007
-- aspect: 0.04449102653839818
-- non-weight-bearing: 0.04263484052651043
-- line: 0.03880898912604887
-- explains: 0.03880529809247758
-- hip: 0.03761184941559622
-- inferomedial: 0.03721589437727438
-- environment: 0.036565159373647946
-- discrepancy: 0.034975755658444733
-- antalgic: 0.03338635194324153
-- mdp: 0.03243690300994507
-- inferior: 0.03203664487689572
-- three: 0.03183010197068409
-- plain: 0.030665897377779937
-- training: 0.03010067731480676
-- radiographs: 0.0299035452066534
-- regimen: 0.02955680950920868
-- 1.6: 0.02955680950920868
-- preoperative: 0.028906074505582253
-- scintigraphy: 0.02743298796826762
-- postoperative: 0.02743298796826762
-- tc-99m: 0.02698172812840979
-- she: 0.026505924214963228
-- conservatively: 0.026271134880773917
-- noticed: 0.025814274572237377
-- managed: 0.02539232441320658
-- requires: 0.025076532071549407
-- intense: 0.025000325871923246
-- right: 0.024906953290343002
-- daily: 0.02442579706792298
-- nuclear: 0.024358006501117375
-- exercise: 0.024224870857034165
-- surgically: 0.02390542571400198
-- length: 0.023662535529354926
-- skeletal: 0.023317119192441484
-- acute: 0.023313583747033094
-- interval: 0.023152185694376944
-- medicine: 0.02239416844844609
-- hypointense: 0.02239416844844609
-- periosteal: 0.02239416844844609
-- gait: 0.02198473213820453
-- afebrile: 0.02181206615199401
-- demonstrate: 0.021728752942906528
-- reaction: 0.02144223475599893
-- sclerotic: 0.021133070923689292
-- marrow: 0.020769461981315965
-- demonstrates: 0.02062564863705178
-- -: 0.020240093466390757
-- specific: 0.019515550802367457
-- placement: 0.019162491122922815
-- slightly: 0.019084122973795983
-- extensive: 0.018880418356070416
-- currently: 0.01870813698901689
-- leg: 0.01856462601441324
-- base: 0.01849424465652689
-- fractures: 0.01787728507171423
-- activity: 0.017712964799898003
-- ago: 0.017573087407719606
-- that: 0.01630917932109197
-- first: 0.015842449915943933
-- often: 0.015063389770826807
-- adjacent: 0.01492727206704015
-- approximately: 0.014606728323511507
-- treated: 0.014131772575048945
-- focal: 0.013483390078112717
-- through: 0.013408602311717506
-- weeks: 0.01339932462376325
-- edema: 0.013353168449896634
-- trauma: 0.01291165072794436
-- at: 0.012792963014714177
-- significant: 0.012695288127371399
-- cm: 0.012662740982414286
-- evidence: 0.012378135819706506
-- bone: 0.011731683322982706
-- none: 0.011711157496729317
-- physical: 0.011582902041885295
-- without: 0.01111609484175779
-- mri: 0.010846827927705081
-- case: 0.010328753772747352
-- female: 0.009705857853302947
-- presents: 0.00964444362159075
-- no: 0.009507670173522673
-- seen: 0.009329434337390554
-- a: 0.008764636504278481
-- (: 0.007981897527556469
-- ): 0.007884394387992322
-- the: 0.006874273825042167
-- are: 0.006435767251544761
-- is: 0.0062131577722069125
-- pain: 0.005765790980832788
-- was: 0.005460096807810424
-- this: 0.00531015034980184
-- of: 0.00450567185406585
-- .: 0.002745820471617944
-- with: 0.0025857276483953534
-- to: 0.002359492311839703
-- in: 0.0023281614924875963
+\-\ Texto\\:\\ \ \(0\)\
+\-\ slightly\\ antalgic\\ gait\\.\\ \\ no\\ evidence\\ of\\ leg\\ length\\ discrepancy\\.\\ \\ afebrile\\.\ \(0\)\
+\-\ compression\\-side\\ femoral\\ neck\\ stress\\ fractures\\ are\\ often\\ treated\\ conservatively\\ with\\ a\\ non\\-weight\\-bearing\\ regimen\\.\\ \\ this\\ case\\ was\\ managed\\ surgically\\ with\\ femoral\\ neck\\ screws\\.\ \(0\)\
+\-\ nuclear\\ medicine\\ skeletal\\ scintigraphy\\ with\\ tc\\-99m\\ mdp\\ demonstrates\\ focal\\ intense\\ activity\\ at\\ the\\ inferomedial\\ aspect\\ of\\ the\\ base\\ of\\ the\\ right\\ femoral\\ neck\\.\ \(0\)\
+\-\ preoperative\\ plain\\ radiographs\\ demonstrate\\ a\\ 1\\.6\\ cm\\ sclerotic\\ line\\ at\\ the\\ compressive\\ \\(inferior\\)\\ aspect\\ of\\ the\\ right\\ femoral\\ neck\\.\ \(0\)\
+\-\ mri\\ of\\ the\\ right\\ hip\\ demonstrates\\ a\\ hypointense\\ fracture\\ line\\ through\\ the\\ compressive\\ \\(inferior\\)\\ aspect\\ of\\ the\\ femoral\\ neck\\ without\\ significant\\ periosteal\\ reaction\\.\\ \\ extensive\\ bone\\ marrow\\ edema\\ is\\ seen\\ adjacent\\ to\\ the\\ fracture\\.\ \(0\)\
+\-\ postoperative\\ plain\\ radiographs\\ demonstrate\\ interval\\ placement\\ of\\ three\\ right\\ femoral\\ neck\\ screws\\.\ \(0\)\
+\-\ femoral\\ neck\\ stress\\ fracture\\ \\-\\ acute\ \(0\)\
+\-\ femoral\\ neck\\ stress\\ fracture\\ \\-\\ acute\ \(0\)\
+\-\ nineteen\\-year\\-old\\ female\\ presents\\ with\\ right\\ hip\\ pain\\ first\\ noticed\\ approximately\\ three\\ weeks\\ ago\\.\\ \\ she\\ explains\\ that\\ she\\ is\\ currently\\ in\\ a\\ training\\ environment\\ that\\ requires\\ daily\\ physical\\ exercise\\.\\ \\ no\\ specific\\ trauma\\.\ \(0\)\
+\-\ none\\.\ \(8\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ femoral\\:\\ 0\\.14369052007265434\ \(0\)\
+\-\ neck\\:\\ 0\\.11090577401186662\ \(0\)\
+\-\ stress\\:\\ 0\\.062098578260987844\ \(0\)\
+\-\ screws\\:\\ 0\\.06020135462961352\ \(0\)\
+\-\ compressive\\:\\ 0\\.058443733694478854\ \(0\)\
+\-\ fracture\\:\\ 0\\.049791697906580744\ \(0\)\
+\-\ compression\\-side\\:\\ 0\\.04870452167937292\ \(0\)\
+\-\ nineteen\\-year\\-old\\:\\ 0\\.04487497924534007\ \(0\)\
+\-\ aspect\\:\\ 0\\.04449102653839818\ \(0\)\
+\-\ non\\-weight\\-bearing\\:\\ 0\\.04263484052651043\ \(0\)\
+\-\ line\\:\\ 0\\.03880898912604887\ \(0\)\
+\-\ explains\\:\\ 0\\.03880529809247758\ \(0\)\
+\-\ hip\\:\\ 0\\.03761184941559622\ \(0\)\
+\-\ inferomedial\\:\\ 0\\.03721589437727438\ \(0\)\
+\-\ environment\\:\\ 0\\.036565159373647946\ \(0\)\
+\-\ discrepancy\\:\\ 0\\.034975755658444733\ \(0\)\
+\-\ antalgic\\:\\ 0\\.03338635194324153\ \(0\)\
+\-\ mdp\\:\\ 0\\.03243690300994507\ \(0\)\
+\-\ inferior\\:\\ 0\\.03203664487689572\ \(0\)\
+\-\ three\\:\\ 0\\.03183010197068409\ \(0\)\
+\-\ plain\\:\\ 0\\.030665897377779937\ \(0\)\
+\-\ training\\:\\ 0\\.03010067731480676\ \(0\)\
+\-\ radiographs\\:\\ 0\\.0299035452066534\ \(0\)\
+\-\ regimen\\:\\ 0\\.02955680950920868\ \(0\)\
+\-\ 1\\.6\\:\\ 0\\.02955680950920868\ \(0\)\
+\-\ preoperative\\:\\ 0\\.028906074505582253\ \(0\)\
+\-\ scintigraphy\\:\\ 0\\.02743298796826762\ \(0\)\
+\-\ postoperative\\:\\ 0\\.02743298796826762\ \(0\)\
+\-\ tc\\-99m\\:\\ 0\\.02698172812840979\ \(0\)\
+\-\ she\\:\\ 0\\.026505924214963228\ \(0\)\
+\-\ conservatively\\:\\ 0\\.026271134880773917\ \(0\)\
+\-\ noticed\\:\\ 0\\.025814274572237377\ \(0\)\
+\-\ managed\\:\\ 0\\.02539232441320658\ \(0\)\
+\-\ requires\\:\\ 0\\.025076532071549407\ \(0\)\
+\-\ intense\\:\\ 0\\.025000325871923246\ \(0\)\
+\-\ right\\:\\ 0\\.024906953290343002\ \(0\)\
+\-\ daily\\:\\ 0\\.02442579706792298\ \(0\)\
+\-\ nuclear\\:\\ 0\\.024358006501117375\ \(0\)\
+\-\ exercise\\:\\ 0\\.024224870857034165\ \(0\)\
+\-\ surgically\\:\\ 0\\.02390542571400198\ \(0\)\
+\-\ length\\:\\ 0\\.023662535529354926\ \(0\)\
+\-\ skeletal\\:\\ 0\\.023317119192441484\ \(0\)\
+\-\ acute\\:\\ 0\\.023313583747033094\ \(0\)\
+\-\ interval\\:\\ 0\\.023152185694376944\ \(0\)\
+\-\ medicine\\:\\ 0\\.02239416844844609\ \(0\)\
+\-\ hypointense\\:\\ 0\\.02239416844844609\ \(0\)\
+\-\ periosteal\\:\\ 0\\.02239416844844609\ \(0\)\
+\-\ gait\\:\\ 0\\.02198473213820453\ \(0\)\
+\-\ afebrile\\:\\ 0\\.02181206615199401\ \(0\)\
+\-\ demonstrate\\:\\ 0\\.021728752942906528\ \(0\)\
+\-\ reaction\\:\\ 0\\.02144223475599893\ \(0\)\
+\-\ sclerotic\\:\\ 0\\.021133070923689292\ \(0\)\
+\-\ marrow\\:\\ 0\\.020769461981315965\ \(0\)\
+\-\ demonstrates\\:\\ 0\\.02062564863705178\ \(0\)\
+\-\ \\-\\:\\ 0\\.020240093466390757\ \(0\)\
+\-\ specific\\:\\ 0\\.019515550802367457\ \(0\)\
+\-\ placement\\:\\ 0\\.019162491122922815\ \(0\)\
+\-\ slightly\\:\\ 0\\.019084122973795983\ \(0\)\
+\-\ extensive\\:\\ 0\\.018880418356070416\ \(0\)\
+\-\ currently\\:\\ 0\\.01870813698901689\ \(0\)\
+\-\ leg\\:\\ 0\\.01856462601441324\ \(0\)\
+\-\ base\\:\\ 0\\.01849424465652689\ \(0\)\
+\-\ fractures\\:\\ 0\\.01787728507171423\ \(0\)\
+\-\ activity\\:\\ 0\\.017712964799898003\ \(0\)\
+\-\ ago\\:\\ 0\\.017573087407719606\ \(0\)\
+\-\ that\\:\\ 0\\.01630917932109197\ \(0\)\
+\-\ first\\:\\ 0\\.015842449915943933\ \(0\)\
+\-\ often\\:\\ 0\\.015063389770826807\ \(0\)\
+\-\ adjacent\\:\\ 0\\.01492727206704015\ \(0\)\
+\-\ approximately\\:\\ 0\\.014606728323511507\ \(0\)\
+\-\ treated\\:\\ 0\\.014131772575048945\ \(0\)\
+\-\ focal\\:\\ 0\\.013483390078112717\ \(0\)\
+\-\ through\\:\\ 0\\.013408602311717506\ \(0\)\
+\-\ weeks\\:\\ 0\\.01339932462376325\ \(0\)\
+\-\ edema\\:\\ 0\\.013353168449896634\ \(0\)\
+\-\ trauma\\:\\ 0\\.01291165072794436\ \(0\)\
+\-\ at\\:\\ 0\\.012792963014714177\ \(0\)\
+\-\ significant\\:\\ 0\\.012695288127371399\ \(0\)\
+\-\ cm\\:\\ 0\\.012662740982414286\ \(0\)\
+\-\ evidence\\:\\ 0\\.012378135819706506\ \(0\)\
+\-\ bone\\:\\ 0\\.011731683322982706\ \(0\)\
+\-\ none\\:\\ 0\\.011711157496729317\ \(0\)\
+\-\ physical\\:\\ 0\\.011582902041885295\ \(0\)\
+\-\ without\\:\\ 0\\.01111609484175779\ \(0\)\
+\-\ mri\\:\\ 0\\.010846827927705081\ \(0\)\
+\-\ case\\:\\ 0\\.010328753772747352\ \(0\)\
+\-\ female\\:\\ 0\\.009705857853302947\ \(0\)\
+\-\ presents\\:\\ 0\\.00964444362159075\ \(0\)\
+\-\ no\\:\\ 0\\.009507670173522673\ \(0\)\
+\-\ seen\\:\\ 0\\.009329434337390554\ \(0\)\
+\-\ a\\:\\ 0\\.008764636504278481\ \(0\)\
+\-\ \\(\\:\\ 0\\.007981897527556469\ \(0\)\
+\-\ \\)\\:\\ 0\\.007884394387992322\ \(0\)\
+\-\ the\\:\\ 0\\.006874273825042167\ \(0\)\
+\-\ are\\:\\ 0\\.006435767251544761\ \(0\)\
+\-\ is\\:\\ 0\\.0062131577722069125\ \(0\)\
+\-\ pain\\:\\ 0\\.005765790980832788\ \(0\)\
+\-\ was\\:\\ 0\\.005460096807810424\ \(0\)\
+\-\ this\\:\\ 0\\.00531015034980184\ \(0\)\
+\-\ of\\:\\ 0\\.00450567185406585\ \(0\)\
+\-\ \\.\\:\\ 0\\.002745820471617944\ \(0\)\
+\-\ with\\:\\ 0\\.0025857276483953534\ \(0\)\
+\-\ to\\:\\ 0\\.002359492311839703\ \(0\)\
+\-\ in\\:\\ 0\\.0023281614924875963\ \(0\)\

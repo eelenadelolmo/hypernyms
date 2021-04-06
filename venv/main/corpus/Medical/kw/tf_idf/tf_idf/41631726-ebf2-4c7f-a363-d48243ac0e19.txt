@@ -1,97 +1,94 @@
-Texto: 
-the first series of images were obtained after pre-medication with captopril, and demonstrate the following:
-1) normal flow to the kidneys.
-2) normal cortical excretion and clearance of the right kidney.
-3) retention of the radiopharmaceutical within the upper pole of the left kidney, predominantly within the cortex, which does not clear significantly over time.
-4) clearance of radiopharmaceutical that does reach the left renal collecting system.
-5) normal split renal function; (the area of concern is too small to quantitate accurately).
-
-the second series of images were obtained without pre-medication with captopril, and demonstrate the following:
-1) normalization of the cortical retention problem noted on the first series of images (described above).
-2) normal split renal function.
-renal captopril scan: segmental renal artery stenosis (of branch/accessory artery)
-segmental renal artery stenosis (of a branch/accessory artery)
-a 6-year-old boy with hypertension.
-
-
-Keywords by value: 
-- captopril: 0.12568745078254182
-- pre-medication: 0.10250602818565696
-- branch/accessory: 0.10250602818565696
-- renal: 0.08956310056249078
-- series: 0.07414831800869759
-- split: 0.07268103565703443
-- clearance: 0.06956168697570095
-- radiopharmaceutical: 0.06956168697570095
-- retention: 0.06656367407683933
-- artery: 0.05917511609553951
-- segmental: 0.052148663763722874
-- quantitate: 0.047223088624456705
-- ): 0.04563322449561835
-- 6-year-old: 0.04319316315608493
-- function: 0.04212280898925916
-- normalization: 0.039939582993669676
-- stenosis: 0.03892393352129496
-- reach: 0.03731176250679144
-- cortical: 0.03622180058809084
-- accurately: 0.03550853617944354
-- obtained: 0.03532402442725398
-- kidney: 0.035004458779651276
-- does: 0.03390257058586054
-- first: 0.033342830637044796
-- excretion: 0.03209117184861726
-- normal: 0.03115377801393258
-- images: 0.028591812068884084
-- following: 0.02820090415001335
-- too: 0.027849806588554352
-- problem: 0.02716502149752887
-- significantly: 0.02542364632253594
-- collecting: 0.025355646091354593
-- concern: 0.0247161060028992
-- 1: 0.023643329859996592
-- predominantly: 0.023275198073221398
-- pole: 0.023135096029157094
-- demonstrate: 0.02286572257364001
-- kidneys: 0.022864630821977483
-- were: 0.022561469031278154
-- 2: 0.02139656391291333
-- cortex: 0.021258506539255633
-- described: 0.021159120298794586
-- :: 0.019714095627744156
-- hypertension: 0.01958593635058249
-- system: 0.019560930060469755
-- second: 0.01908214497231964
-- within: 0.018955016376582343
-- clear: 0.018369340774108404
-- above: 0.0182089456780687
-- boy: 0.016887917325150995
-- (: 0.01679910991264792
-- flow: 0.016418917888712303
-- area: 0.015708350256594575
-- 5: 0.01453581640955909
-- time: 0.014032565274647166
-- scan: 0.013908555002517316
-- 4: 0.013842859913831659
-- over: 0.01264908482639513
-- upper: 0.011988840147492548
-- ;: 0.011775704584026707
-- noted: 0.011775704584026707
-- without: 0.011697750967198606
-- 3: 0.011633578643642672
-- small: 0.01144520514175069
-- the: 0.011252848754946287
-- left: 0.011117503131080404
-- after: 0.010279076759355828
-- which: 0.009274096437456678
-- that: 0.008581283305574554
-- of: 0.007450824469638795
-- not: 0.0071791783240810194
-- ,: 0.006295582919006683
-- right: 0.005242044820409399
-- to: 0.004965908237709142
-- a: 0.004611625602541875
-- on: 0.0042086686765431865
-- is: 0.003269132432469335
-- and: 0.0031396919604456705
-- with: 0.002040770513195751
-- .: 0.0016511412138300592
+\-\ Texto\\:\\ \ \(0\)\
+\-\ the\\ first\\ series\\ of\\ images\\ were\\ obtained\\ after\\ pre\\-medication\\ with\\ captopril\\,\\ and\\ demonstrate\\ the\\ following\\:\ \(0\)\
+\-\ 1\\)\\ normal\\ flow\\ to\\ the\\ kidneys\\.\ \(0\)\
+\-\ 2\\)\\ normal\\ cortical\\ excretion\\ and\\ clearance\\ of\\ the\\ right\\ kidney\\.\ \(0\)\
+\-\ 3\\)\\ retention\\ of\\ the\\ radiopharmaceutical\\ within\\ the\\ upper\\ pole\\ of\\ the\\ left\\ kidney\\,\\ predominantly\\ within\\ the\\ cortex\\,\\ which\\ does\\ not\\ clear\\ significantly\\ over\\ time\\.\ \(0\)\
+\-\ 4\\)\\ clearance\\ of\\ radiopharmaceutical\\ that\\ does\\ reach\\ the\\ left\\ renal\\ collecting\\ system\\.\ \(0\)\
+\-\ 5\\)\\ normal\\ split\\ renal\\ function\\;\\ \\(the\\ area\\ of\\ concern\\ is\\ too\\ small\\ to\\ quantitate\\ accurately\\)\\.\ \(0\)\
+\-\ the\\ second\\ series\\ of\\ images\\ were\\ obtained\\ without\\ pre\\-medication\\ with\\ captopril\\,\\ and\\ demonstrate\\ the\\ following\\:\ \(0\)\
+\-\ 1\\)\\ normalization\\ of\\ the\\ cortical\\ retention\\ problem\\ noted\\ on\\ the\\ first\\ series\\ of\\ images\\ \\(described\\ above\\)\\.\ \(0\)\
+\-\ 2\\)\\ normal\\ split\\ renal\\ function\\.\ \(0\)\
+\-\ renal\\ captopril\\ scan\\:\\ segmental\\ renal\\ artery\\ stenosis\\ \\(of\\ branch\\/accessory\\ artery\\)\ \(0\)\
+\-\ segmental\\ renal\\ artery\\ stenosis\\ \\(of\\ a\\ branch\\/accessory\\ artery\\)\ \(0\)\
+\-\ a\\ 6\\-year\\-old\\ boy\\ with\\ hypertension\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ captopril\\:\\ 0\\.12568745078254182\ \(0\)\
+\-\ pre\\-medication\\:\\ 0\\.10250602818565696\ \(0\)\
+\-\ branch\\/accessory\\:\\ 0\\.10250602818565696\ \(0\)\
+\-\ renal\\:\\ 0\\.08956310056249078\ \(0\)\
+\-\ series\\:\\ 0\\.07414831800869759\ \(0\)\
+\-\ split\\:\\ 0\\.07268103565703443\ \(0\)\
+\-\ clearance\\:\\ 0\\.06956168697570095\ \(0\)\
+\-\ radiopharmaceutical\\:\\ 0\\.06956168697570095\ \(0\)\
+\-\ retention\\:\\ 0\\.06656367407683933\ \(0\)\
+\-\ artery\\:\\ 0\\.05917511609553951\ \(0\)\
+\-\ segmental\\:\\ 0\\.052148663763722874\ \(0\)\
+\-\ quantitate\\:\\ 0\\.047223088624456705\ \(0\)\
+\-\ \\)\\:\\ 0\\.04563322449561835\ \(0\)\
+\-\ 6\\-year\\-old\\:\\ 0\\.04319316315608493\ \(0\)\
+\-\ function\\:\\ 0\\.04212280898925916\ \(0\)\
+\-\ normalization\\:\\ 0\\.039939582993669676\ \(0\)\
+\-\ stenosis\\:\\ 0\\.03892393352129496\ \(0\)\
+\-\ reach\\:\\ 0\\.03731176250679144\ \(0\)\
+\-\ cortical\\:\\ 0\\.03622180058809084\ \(0\)\
+\-\ accurately\\:\\ 0\\.03550853617944354\ \(0\)\
+\-\ obtained\\:\\ 0\\.03532402442725398\ \(0\)\
+\-\ kidney\\:\\ 0\\.035004458779651276\ \(0\)\
+\-\ does\\:\\ 0\\.03390257058586054\ \(0\)\
+\-\ first\\:\\ 0\\.033342830637044796\ \(0\)\
+\-\ excretion\\:\\ 0\\.03209117184861726\ \(0\)\
+\-\ normal\\:\\ 0\\.03115377801393258\ \(0\)\
+\-\ images\\:\\ 0\\.028591812068884084\ \(0\)\
+\-\ following\\:\\ 0\\.02820090415001335\ \(0\)\
+\-\ too\\:\\ 0\\.027849806588554352\ \(0\)\
+\-\ problem\\:\\ 0\\.02716502149752887\ \(0\)\
+\-\ significantly\\:\\ 0\\.02542364632253594\ \(0\)\
+\-\ collecting\\:\\ 0\\.025355646091354593\ \(0\)\
+\-\ concern\\:\\ 0\\.0247161060028992\ \(0\)\
+\-\ 1\\:\\ 0\\.023643329859996592\ \(0\)\
+\-\ predominantly\\:\\ 0\\.023275198073221398\ \(0\)\
+\-\ pole\\:\\ 0\\.023135096029157094\ \(0\)\
+\-\ demonstrate\\:\\ 0\\.02286572257364001\ \(0\)\
+\-\ kidneys\\:\\ 0\\.022864630821977483\ \(0\)\
+\-\ were\\:\\ 0\\.022561469031278154\ \(0\)\
+\-\ 2\\:\\ 0\\.02139656391291333\ \(0\)\
+\-\ cortex\\:\\ 0\\.021258506539255633\ \(0\)\
+\-\ described\\:\\ 0\\.021159120298794586\ \(0\)\
+\-\ \\:\\:\\ 0\\.019714095627744156\ \(0\)\
+\-\ hypertension\\:\\ 0\\.01958593635058249\ \(0\)\
+\-\ system\\:\\ 0\\.019560930060469755\ \(0\)\
+\-\ second\\:\\ 0\\.01908214497231964\ \(0\)\
+\-\ within\\:\\ 0\\.018955016376582343\ \(0\)\
+\-\ clear\\:\\ 0\\.018369340774108404\ \(0\)\
+\-\ above\\:\\ 0\\.0182089456780687\ \(0\)\
+\-\ boy\\:\\ 0\\.016887917325150995\ \(0\)\
+\-\ \\(\\:\\ 0\\.01679910991264792\ \(0\)\
+\-\ flow\\:\\ 0\\.016418917888712303\ \(0\)\
+\-\ area\\:\\ 0\\.015708350256594575\ \(0\)\
+\-\ 5\\:\\ 0\\.01453581640955909\ \(0\)\
+\-\ time\\:\\ 0\\.014032565274647166\ \(0\)\
+\-\ scan\\:\\ 0\\.013908555002517316\ \(0\)\
+\-\ 4\\:\\ 0\\.013842859913831659\ \(0\)\
+\-\ over\\:\\ 0\\.01264908482639513\ \(0\)\
+\-\ upper\\:\\ 0\\.011988840147492548\ \(0\)\
+\-\ \\;\\:\\ 0\\.011775704584026707\ \(0\)\
+\-\ noted\\:\\ 0\\.011775704584026707\ \(0\)\
+\-\ without\\:\\ 0\\.011697750967198606\ \(0\)\
+\-\ 3\\:\\ 0\\.011633578643642672\ \(0\)\
+\-\ small\\:\\ 0\\.01144520514175069\ \(0\)\
+\-\ the\\:\\ 0\\.011252848754946287\ \(0\)\
+\-\ left\\:\\ 0\\.011117503131080404\ \(0\)\
+\-\ after\\:\\ 0\\.010279076759355828\ \(0\)\
+\-\ which\\:\\ 0\\.009274096437456678\ \(0\)\
+\-\ that\\:\\ 0\\.008581283305574554\ \(0\)\
+\-\ of\\:\\ 0\\.007450824469638795\ \(0\)\
+\-\ not\\:\\ 0\\.0071791783240810194\ \(0\)\
+\-\ \\,\\:\\ 0\\.006295582919006683\ \(0\)\
+\-\ right\\:\\ 0\\.005242044820409399\ \(0\)\
+\-\ to\\:\\ 0\\.004965908237709142\ \(0\)\
+\-\ a\\:\\ 0\\.004611625602541875\ \(0\)\
+\-\ on\\:\\ 0\\.0042086686765431865\ \(0\)\
+\-\ is\\:\\ 0\\.003269132432469335\ \(0\)\
+\-\ and\\:\\ 0\\.0031396919604456705\ \(0\)\
+\-\ with\\:\\ 0\\.002040770513195751\ \(0\)\
+\-\ \\.\\:\\ 0\\.0016511412138300592\ \(0\)\

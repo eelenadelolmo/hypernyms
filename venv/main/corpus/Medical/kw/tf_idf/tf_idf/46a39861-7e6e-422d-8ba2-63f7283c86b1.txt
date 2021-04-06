@@ -1,279 +1,272 @@
-Texto: 
-pmh/psh â€“ none; nkda; +tobacco, denies etoh
-
-lab data â€“ wnl
-physical exam - wnl
-typical therapy for symptomatic chronic subdural hematomas is surgical evacuation.  the patient was evaluated and treated by neurosurgery with placement of bifrontal subdural drains.
-
-the patient recovered without serious complications and was discharged 4 days later to be seen in follow-up.
-ct head (initial study ordered by ed): 
-1.	bilateral extraaxial (subdural) fluid collections, r>l, likely representing evolved subdural hemorrhages that are somewhat chronic.
-2.	r frontal lobe calcification
-bilateral subdural hematomas
-traumatic subdural hematoma
-spontaneous avm bleed
-37 yo male presents to the ed c/o ha x 2 mos duration.  the ha is located diffusely, throbbing, worse in the am.  he c/o that he also suffers from nausea and vomiting mainly in the am.  his ha has not relented since its start and has gradually worsened. non-positional ha.
-
-he reports having been told it was a migraine ha and had been taking imitrex and ibuprofen without improvement. he has recently been taking fioricet with some initial improvement; however, it is no longer effective.
-
-denies recalling trauma, vision changes, f/c, neck stiffness, photophobia, and/or recent health changes.  
-
-he has been training with the us military for the past 4 mos.
-subdural hematomas are blood clots that form between the dura and the brain. they are usually caused by the movement of the brain relative to the skull, such as in acceleration-deceleration injuries.  the slow bleeding of venous structures delays the development of clinical signs and symptoms. as a result, the hematoma compresses the underlying brain tissue for prolonged periods and can cause significant tissue ischemia and damage. 
-subdural hematomas are classified according to their time of clinical presentation. acute subdural hematomas are symptomatic within 24 hours after trauma and typically present with a decreased level of consciousness. between 50% and 70% of patients may have a lucid interval after injury, followed by declining mental status.
-a subacute subdural hematomas is symptomatic between 24 hours and 2 weeks after injury and may appear hypodense or isodense on ct scans. many patients may complain of a headache, altered mental status, muscle weakness, or frank paralysis.
-a chronic subdural hematoma becomes symptomatic 2 weeks or more after trauma and up to 45% of patients will demonstrate unilateral weakness or hemiparesis with 50% reporting an altered level of consciousness.  in fact, some patients are unable to recall their head injury. on ct scan a chronic subdural hematoma may appear isodense or hypodense to brain parenchyma. the treatment of chronic subdural hematomas is controversial. if they become symptomatic, they may require surgical evacuation.
-
-
-Keywords by value: 
-- subdural: 0.12198017822560028
-- hematomas: 0.07641119378573928
-- ha: 0.057606736389831124
-- symptomatic: 0.03443188057499201
-- mos: 0.02505663729959935
-- hematoma: 0.02467315925697436
-- chronic: 0.024411659562951316
-- he: 0.024180399006420075
-- evacuation: 0.022244681191851093
-- isodense: 0.02196479124667076
-- brain: 0.020862892683998067
-- c/o: 0.020319902369964213
-- altered: 0.01965609132013946
-- may: 0.019009415506066163
-- been: 0.01886243318023522
-- they: 0.01873598048572397
-- hypodense: 0.01846993325324618
-- taking: 0.018413193934890236
-- patients: 0.017943810136844023
-- +tobacco: 0.017881376113522307
-- relented: 0.017881376113522307
-- non-positional: 0.017881376113522307
-- fioricet: 0.017881376113522307
-- recalling: 0.017881376113522307
-- f/c: 0.017881376113522307
-- acceleration-deceleration: 0.017881376113522307
-- am: 0.017836421160932658
-- wnl: 0.017787836207396285
-- consciousness: 0.01759911403443526
-- injury: 0.016577333926301015
-- between: 0.016481717258971056
-- evolved: 0.01647539805964818
-- imitrex: 0.01647539805964818
-- lucid: 0.01647539805964818
-- improvement: 0.01617527256253224
-- mental: 0.01617527256253224
-- %: 0.016172990128568012
-- r: 0.015744602396899822
-- â€“: 0.015601237827141979
-- their: 0.01517381180013254
-- ed: 0.014651163232818266
-- denies: 0.014628934162779219
-- pmh/psh: 0.014616796169436912
-- after: 0.014344837343685213
-- delays: 0.014246975567420777
-- trauma: 0.014221148773374822
-- appear: 0.014188228925445362
-- are: 0.014176963965877505
-- throbbing: 0.013934296703673802
-- hours: 0.013631632083605665
-- 24: 0.013478527304770586
-- declining: 0.013424531129067501
-- reporting: 0.013424531129067501
-- suffers: 0.013210818115562784
-- 50: 0.013188632927561074
-- has: 0.013019878056748705
-- bifrontal: 0.013017491178840015
-- weakness: 0.012874691087336245
-- clots: 0.012840997513546648
-- recall: 0.012840997513546648
-- status: 0.012374553027106099
-- ;: 0.012325078225877853
-- nkda: 0.012257463898025794
-- hemorrhages: 0.012257463898025794
-- periods: 0.012257463898025794
-- drains: 0.012018553075193375
-- start: 0.012018553075193375
-- told: 0.011705874211446398
-- compresses: 0.011611513124965887
-- by: 0.011544591507057807
-- initial: 0.01148714865427711
-- paralysis: 0.01143501945967252
-- etoh: 0.011352216225351515
-- classified: 0.011352216225351515
-- controversial: 0.011352216225351515
-- 2: 0.011197390445297441
-- migraine: 0.0111961086368401
-- ibuprofen: 0.0111961086368401
-- serious: 0.011122340595925546
-- mainly: 0.011051161448235342
-- training: 0.011051161448235342
-- dura: 0.01098239562333538
-- complain: 0.010851485844151666
-- hemiparesis: 0.010789068686612611
-- recovered: 0.010728515008824213
-- military: 0.010728515008824213
-- extraaxial: 0.010669716759588407
-- stiffness: 0.010669716759588407
-- photophobia: 0.010669716759588407
-- clinical: 0.010666571197022329
-- some: 0.010527092307775899
-- ,: 0.010433045121355903
-- or: 0.010157431531072084
-- gradually: 0.010071746089769655
-- level: 0.009991436217634613
-- changes: 0.009935285907647305
-- bleed: 0.009906070570470937
-- effective: 0.00986668297238351
-- frank: 0.00986668297238351
-- weeks: 0.009838854997570581
-- head: 0.009832053998271384
-- longer: 0.009790130582965972
-- neurosurgery: 0.009752911234754618
-- 4: 0.00965911523399207
-- according: 0.009645183394361215
-- health: 0.009610509087344378
-- worsened: 0.009542889573617012
-- data: 0.009383090632738483
-- slow: 0.009383090632738483
-- collections: 0.009322536954950084
-- damage: 0.009263738705714277
-- prolonged: 0.009206596967445118
-- duration: 0.009178618626405897
-- fact: 0.009123793733124113
-- becomes: 0.00907041176899151
-- that: 0.00898162715147357
-- representing: 0.00894279751866581
-- subacute: 0.008893918103698143
-- diffusely: 0.008753973131107979
-- 37: 0.008709391170217967
-- movement: 0.008665768035895527
-- unilateral: 0.008602043499925183
-- somewhat: 0.008520076890720565
-- interval: 0.00850009251659681
-- lab: 0.008480303115084914
-- bilateral: 0.008413053668618433
-- 70: 0.008328576516539888
-- avm: 0.008256767333880827
-- relative: 0.008256767333880827
-- become: 0.008256767333880827
-- tissue: 0.008216718817251901
-- without: 0.008162325218491522
-- ordered: 0.008153606244157723
-- form: 0.008103928718785925
-- spontaneous: 0.00808763628126612
-- recently: 0.00808763628126612
-- injuries: 0.00808763628126612
-- scans: 0.008071473665344869
-- ischemia: 0.008055438818474456
-- vision: 0.008008081082172243
-- 45: 0.008008081082172243
-- unable: 0.008008081082172243
-- having: 0.007961803845324026
-- evaluated: 0.007946609785021473
-- discharged: 0.007946609785021473
-- require: 0.007931528692754703
-- l: 0.007901698779185342
-- it: 0.007792488375387491
-- worse: 0.0076776480782435345
-- development: 0.007549225604786483
-- bleeding: 0.007524488742527216
-- underlying: 0.007428451986751966
-- skull: 0.007382086595116976
-- parenchyma: 0.007382086595116976
-- and/or: 0.007325581616409133
-- surgical: 0.007286903733271617
-- ct: 0.007273653063237583
-- us: 0.007270608128016048
-- caused: 0.007270608128016048
-- traumatic: 0.007259789982021397
-- located: 0.007134282063729131
-- many: 0.0071241653466682
-- placement: 0.007035316213486875
-- reports: 0.006987587009815082
-- nausea: 0.006978174475217714
-- typical: 0.0069501961341784935
-- complications: 0.006868504655196871
-- structures: 0.006673560821165749
-- result: 0.006649460764600328
-- vomiting: 0.006617766407798946
-- its: 0.006540631731147346
-- a: 0.006435696581234909
-- since: 0.00636666251865764
-- calcification: 0.006291654398493163
-- venous: 0.006291654398493163
-- later: 0.006258455661243253
-- muscle: 0.0062257915485321395
-- typically: 0.006118510688653087
-- signs: 0.0061001540243124834
-- to: 0.006063847381543416
-- was: 0.006013859161543733
-- presentation: 0.005970386682537692
-- headache: 0.005953317317577683
-- cause: 0.005864630074141919
-- recent: 0.005827016326247053
-- followed: 0.005811107244176007
-- >: 0.005758960476001145
-- x: 0.0057181872927940715
-- study: 0.005703106200527301
-- is: 0.00570274623108241
-- follow-up: 0.005639020266616109
-- 2.: 0.005512057082759144
-- past: 0.005507503999891347
-- and: 0.005476947436071555
-- frontal: 0.005444811226132571
-- will: 0.005422882390221383
-- such: 0.00541852492868327
-- 1.: 0.005414176807905884
-- days: 0.005312523927326527
-- usually: 0.005263546153887949
-- as: 0.005243722133444737
-- yo: 0.005215723170999517
-- treated: 0.005188338409906408
-- decreased: 0.005153664102889573
-- neck: 0.005089742671437084
-- the: 0.0050476412265015504
-- his: 0.004995718108817306
-- fluid: 0.004926245648283678
-- time: 0.0048957428544407966
-- likely: 0.004889026300072326
-- scan: 0.004852477607369125
-- however: 0.004826304372407851
-- blood: 0.004731056942209533
-- if: 0.004703333537080396
-- lobe: 0.004663945938992969
-- significant: 0.004660947568061305
-- up: 0.004660947568061305
-- therapy: 0.004634159830102663
-- for: 0.004436763582004352
-- more: 0.00433504322375693
-- symptoms: 0.004319792042389734
-- none: 0.004299633888251535
-- acute: 0.0042796740955507
-- in: 0.00427380557951577
-- physical: 0.00425254618576316
-- demonstrate: 0.0039887467369838555
-- can: 0.0039314855019656585
-- present: 0.003914825058684951
-- exam: 0.0038077767544615376
-- have: 0.0037534240940468393
-- had: 0.0037400604852752704
-- -: 0.0037154735470757883
-- presents: 0.0035408606399755086
-- treatment: 0.0035083508308334423
-- patient: 0.003475017975320032
-- seen: 0.0034252081441535297
-- also: 0.003417078283306595
-- within: 0.003306554580904831
-- male: 0.003134291151901568
-- on: 0.0029366775349510266
-- (: 0.002930473534457852
-- ): 0.002894676235753773
-- be: 0.0026729345301093896
-- of: 0.0025994762855534943
-- from: 0.0025688351179598626
-- not: 0.002504703188117516
-- an: 0.0023968861344517848
-- :: 0.0022926466855794424
-- .: 0.0019441936605037514
-- no: 0.0017453228209002069
-- with: 0.0011866549299177458
+\-\ Texto\\:\\ \ \(0\)\
+\-\ pmh\\/psh\\ \\â\\€\\“\\ none\\;\\ nkda\\;\\ \\+tobacco\\,\\ denies\\ etoh\ \(0\)\
+\-\ lab\\ data\\ \\â\\€\\“\\ wnl\ \(0\)\
+\-\ physical\\ exam\\ \\-\\ wnl\ \(0\)\
+\-\ typical\\ therapy\\ for\\ symptomatic\\ chronic\\ subdural\\ hematomas\\ is\\ surgical\\ evacuation\\.\\ \\ the\\ patient\\ was\\ evaluated\\ and\\ treated\\ by\\ neurosurgery\\ with\\ placement\\ of\\ bifrontal\\ subdural\\ drains\\.\ \(0\)\
+\-\ the\\ patient\\ recovered\\ without\\ serious\\ complications\\ and\\ was\\ discharged\\ 4\\ days\\ later\\ to\\ be\\ seen\\ in\\ follow\\-up\\.\ \(0\)\
+\-\ ct\\ head\\ \\(initial\\ study\\ ordered\\ by\\ ed\\)\\:\\ \ \(0\)\
+\-\ 1\\.\\	bilateral\\ extraaxial\\ \\(subdural\\)\\ fluid\\ collections\\,\\ r\\>l\\,\\ likely\\ representing\\ evolved\\ subdural\\ hemorrhages\\ that\\ are\\ somewhat\\ chronic\\.\ \(0\)\
+\-\ 2\\.\\	r\\ frontal\\ lobe\\ calcification\ \(0\)\
+\-\ bilateral\\ subdural\\ hematomas\ \(6\)\
+\-\ traumatic\\ subdural\\ hematoma\ \(2\)\
+\-\ spontaneous\\ avm\\ bleed\ \(0\)\
+\-\ 37\\ yo\\ male\\ presents\\ to\\ the\\ ed\\ c\\/o\\ ha\\ x\\ 2\\ mos\\ duration\\.\\ \\ the\\ ha\\ is\\ located\\ diffusely\\,\\ throbbing\\,\\ worse\\ in\\ the\\ am\\.\\ \\ he\\ c\\/o\\ that\\ he\\ also\\ suffers\\ from\\ nausea\\ and\\ vomiting\\ mainly\\ in\\ the\\ am\\.\\ \\ his\\ ha\\ has\\ not\\ relented\\ since\\ its\\ start\\ and\\ has\\ gradually\\ worsened\\.\\ non\\-positional\\ ha\\.\ \(0\)\
+\-\ he\\ reports\\ having\\ been\\ told\\ it\\ was\\ a\\ migraine\\ ha\\ and\\ had\\ been\\ taking\\ imitrex\\ and\\ ibuprofen\\ without\\ improvement\\.\\ he\\ has\\ recently\\ been\\ taking\\ fioricet\\ with\\ some\\ initial\\ improvement\\;\\ however\\,\\ it\\ is\\ no\\ longer\\ effective\\.\ \(0\)\
+\-\ denies\\ recalling\\ trauma\\,\\ vision\\ changes\\,\\ f\\/c\\,\\ neck\\ stiffness\\,\\ photophobia\\,\\ and\\/or\\ recent\\ health\\ changes\\.\\ \\ \ \(0\)\
+\-\ he\\ has\\ been\\ training\\ with\\ the\\ us\\ military\\ for\\ the\\ past\\ 4\\ mos\\.\ \(0\)\
+\-\ subdural\\ hematomas\\ are\\ blood\\ clots\\ that\\ form\\ between\\ the\\ dura\\ and\\ the\\ brain\\.\\ they\\ are\\ usually\\ caused\\ by\\ the\\ movement\\ of\\ the\\ brain\\ relative\\ to\\ the\\ skull\\,\\ such\\ as\\ in\\ acceleration\\-deceleration\\ injuries\\.\\ \\ the\\ slow\\ bleeding\\ of\\ venous\\ structures\\ delays\\ the\\ development\\ of\\ clinical\\ signs\\ and\\ symptoms\\.\\ as\\ a\\ result\\,\\ the\\ hematoma\\ compresses\\ the\\ underlying\\ brain\\ tissue\\ for\\ prolonged\\ periods\\ and\\ can\\ cause\\ significant\\ tissue\\ ischemia\\ and\\ damage\\.\\ \ \(0\)\
+\-\ subdural\\ hematomas\\ are\\ classified\\ according\\ to\\ their\\ time\\ of\\ clinical\\ presentation\\.\\ acute\\ subdural\\ hematomas\\ are\\ symptomatic\\ within\\ 24\\ hours\\ after\\ trauma\\ and\\ typically\\ present\\ with\\ a\\ decreased\\ level\\ of\\ consciousness\\.\\ between\\ 50\\%\\ and\\ 70\\%\\ of\\ patients\\ may\\ have\\ a\\ lucid\\ interval\\ after\\ injury\\,\\ followed\\ by\\ declining\\ mental\\ status\\.\ \(0\)\
+\-\ a\\ subacute\\ subdural\\ hematomas\\ is\\ symptomatic\\ between\\ 24\\ hours\\ and\\ 2\\ weeks\\ after\\ injury\\ and\\ may\\ appear\\ hypodense\\ or\\ isodense\\ on\\ ct\\ scans\\.\\ many\\ patients\\ may\\ complain\\ of\\ a\\ headache\\,\\ altered\\ mental\\ status\\,\\ muscle\\ weakness\\,\\ or\\ frank\\ paralysis\\.\ \(0\)\
+\-\ a\\ chronic\\ subdural\\ hematoma\\ becomes\\ symptomatic\\ 2\\ weeks\\ or\\ more\\ after\\ trauma\\ and\\ up\\ to\\ 45\\%\\ of\\ patients\\ will\\ demonstrate\\ unilateral\\ weakness\\ or\\ hemiparesis\\ with\\ 50\\%\\ reporting\\ an\\ altered\\ level\\ of\\ consciousness\\.\\ \\ in\\ fact\\,\\ some\\ patients\\ are\\ unable\\ to\\ recall\\ their\\ head\\ injury\\.\\ on\\ ct\\ scan\\ a\\ chronic\\ subdural\\ hematoma\\ may\\ appear\\ isodense\\ or\\ hypodense\\ to\\ brain\\ parenchyma\\.\\ the\\ treatment\\ of\\ chronic\\ subdural\\ hematomas\\ is\\ controversial\\.\\ if\\ they\\ become\\ symptomatic\\,\\ they\\ may\\ require\\ surgical\\ evacuation\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ subdural\\:\\ 0\\.12198017822560028\ \(0\)\
+\-\ hematomas\\:\\ 0\\.07641119378573928\ \(0\)\
+\-\ ha\\:\\ 0\\.057606736389831124\ \(0\)\
+\-\ symptomatic\\:\\ 0\\.03443188057499201\ \(0\)\
+\-\ mos\\:\\ 0\\.02505663729959935\ \(0\)\
+\-\ hematoma\\:\\ 0\\.02467315925697436\ \(0\)\
+\-\ chronic\\:\\ 0\\.024411659562951316\ \(0\)\
+\-\ he\\:\\ 0\\.024180399006420075\ \(0\)\
+\-\ evacuation\\:\\ 0\\.022244681191851093\ \(0\)\
+\-\ isodense\\:\\ 0\\.02196479124667076\ \(0\)\
+\-\ brain\\:\\ 0\\.020862892683998067\ \(0\)\
+\-\ c\\/o\\:\\ 0\\.020319902369964213\ \(0\)\
+\-\ altered\\:\\ 0\\.01965609132013946\ \(0\)\
+\-\ may\\:\\ 0\\.019009415506066163\ \(0\)\
+\-\ been\\:\\ 0\\.01886243318023522\ \(0\)\
+\-\ they\\:\\ 0\\.01873598048572397\ \(0\)\
+\-\ hypodense\\:\\ 0\\.01846993325324618\ \(0\)\
+\-\ taking\\:\\ 0\\.018413193934890236\ \(0\)\
+\-\ patients\\:\\ 0\\.017943810136844023\ \(0\)\
+\-\ \\+tobacco\\:\\ 0\\.017881376113522307\ \(0\)\
+\-\ relented\\:\\ 0\\.017881376113522307\ \(0\)\
+\-\ non\\-positional\\:\\ 0\\.017881376113522307\ \(0\)\
+\-\ fioricet\\:\\ 0\\.017881376113522307\ \(0\)\
+\-\ recalling\\:\\ 0\\.017881376113522307\ \(0\)\
+\-\ f\\/c\\:\\ 0\\.017881376113522307\ \(0\)\
+\-\ acceleration\\-deceleration\\:\\ 0\\.017881376113522307\ \(0\)\
+\-\ am\\:\\ 0\\.017836421160932658\ \(0\)\
+\-\ wnl\\:\\ 0\\.017787836207396285\ \(0\)\
+\-\ consciousness\\:\\ 0\\.01759911403443526\ \(0\)\
+\-\ injury\\:\\ 0\\.016577333926301015\ \(0\)\
+\-\ between\\:\\ 0\\.016481717258971056\ \(0\)\
+\-\ evolved\\:\\ 0\\.01647539805964818\ \(0\)\
+\-\ imitrex\\:\\ 0\\.01647539805964818\ \(0\)\
+\-\ lucid\\:\\ 0\\.01647539805964818\ \(0\)\
+\-\ improvement\\:\\ 0\\.01617527256253224\ \(0\)\
+\-\ mental\\:\\ 0\\.01617527256253224\ \(0\)\
+\-\ \\%\\:\\ 0\\.016172990128568012\ \(0\)\
+\-\ r\\:\\ 0\\.015744602396899822\ \(0\)\
+\-\ \\â\\€\\“\\:\\ 0\\.015601237827141979\ \(0\)\
+\-\ their\\:\\ 0\\.01517381180013254\ \(0\)\
+\-\ ed\\:\\ 0\\.014651163232818266\ \(0\)\
+\-\ denies\\:\\ 0\\.014628934162779219\ \(0\)\
+\-\ pmh\\/psh\\:\\ 0\\.014616796169436912\ \(0\)\
+\-\ after\\:\\ 0\\.014344837343685213\ \(0\)\
+\-\ delays\\:\\ 0\\.014246975567420777\ \(0\)\
+\-\ trauma\\:\\ 0\\.014221148773374822\ \(0\)\
+\-\ appear\\:\\ 0\\.014188228925445362\ \(0\)\
+\-\ are\\:\\ 0\\.014176963965877505\ \(0\)\
+\-\ throbbing\\:\\ 0\\.013934296703673802\ \(0\)\
+\-\ hours\\:\\ 0\\.013631632083605665\ \(0\)\
+\-\ 24\\:\\ 0\\.013478527304770586\ \(0\)\
+\-\ declining\\:\\ 0\\.013424531129067501\ \(0\)\
+\-\ reporting\\:\\ 0\\.013424531129067501\ \(0\)\
+\-\ suffers\\:\\ 0\\.013210818115562784\ \(0\)\
+\-\ 50\\:\\ 0\\.013188632927561074\ \(0\)\
+\-\ has\\:\\ 0\\.013019878056748705\ \(0\)\
+\-\ bifrontal\\:\\ 0\\.013017491178840015\ \(0\)\
+\-\ weakness\\:\\ 0\\.012874691087336245\ \(0\)\
+\-\ clots\\:\\ 0\\.012840997513546648\ \(0\)\
+\-\ recall\\:\\ 0\\.012840997513546648\ \(0\)\
+\-\ status\\:\\ 0\\.012374553027106099\ \(0\)\
+\-\ \\;\\:\\ 0\\.012325078225877853\ \(0\)\
+\-\ nkda\\:\\ 0\\.012257463898025794\ \(0\)\
+\-\ hemorrhages\\:\\ 0\\.012257463898025794\ \(0\)\
+\-\ periods\\:\\ 0\\.012257463898025794\ \(0\)\
+\-\ drains\\:\\ 0\\.012018553075193375\ \(0\)\
+\-\ start\\:\\ 0\\.012018553075193375\ \(0\)\
+\-\ told\\:\\ 0\\.011705874211446398\ \(0\)\
+\-\ compresses\\:\\ 0\\.011611513124965887\ \(0\)\
+\-\ by\\:\\ 0\\.011544591507057807\ \(0\)\
+\-\ initial\\:\\ 0\\.01148714865427711\ \(0\)\
+\-\ paralysis\\:\\ 0\\.01143501945967252\ \(0\)\
+\-\ etoh\\:\\ 0\\.011352216225351515\ \(0\)\
+\-\ classified\\:\\ 0\\.011352216225351515\ \(0\)\
+\-\ controversial\\:\\ 0\\.011352216225351515\ \(0\)\
+\-\ 2\\:\\ 0\\.011197390445297441\ \(0\)\
+\-\ migraine\\:\\ 0\\.0111961086368401\ \(0\)\
+\-\ ibuprofen\\:\\ 0\\.0111961086368401\ \(0\)\
+\-\ serious\\:\\ 0\\.011122340595925546\ \(0\)\
+\-\ mainly\\:\\ 0\\.011051161448235342\ \(0\)\
+\-\ training\\:\\ 0\\.011051161448235342\ \(0\)\
+\-\ dura\\:\\ 0\\.01098239562333538\ \(0\)\
+\-\ complain\\:\\ 0\\.010851485844151666\ \(0\)\
+\-\ hemiparesis\\:\\ 0\\.010789068686612611\ \(0\)\
+\-\ recovered\\:\\ 0\\.010728515008824213\ \(0\)\
+\-\ military\\:\\ 0\\.010728515008824213\ \(0\)\
+\-\ extraaxial\\:\\ 0\\.010669716759588407\ \(0\)\
+\-\ stiffness\\:\\ 0\\.010669716759588407\ \(0\)\
+\-\ photophobia\\:\\ 0\\.010669716759588407\ \(0\)\
+\-\ clinical\\:\\ 0\\.010666571197022329\ \(0\)\
+\-\ some\\:\\ 0\\.010527092307775899\ \(0\)\
+\-\ \\,\\:\\ 0\\.010433045121355903\ \(0\)\
+\-\ or\\:\\ 0\\.010157431531072084\ \(0\)\
+\-\ gradually\\:\\ 0\\.010071746089769655\ \(0\)\
+\-\ level\\:\\ 0\\.009991436217634613\ \(0\)\
+\-\ changes\\:\\ 0\\.009935285907647305\ \(0\)\
+\-\ bleed\\:\\ 0\\.009906070570470937\ \(0\)\
+\-\ effective\\:\\ 0\\.00986668297238351\ \(0\)\
+\-\ frank\\:\\ 0\\.00986668297238351\ \(0\)\
+\-\ weeks\\:\\ 0\\.009838854997570581\ \(0\)\
+\-\ head\\:\\ 0\\.009832053998271384\ \(0\)\
+\-\ longer\\:\\ 0\\.009790130582965972\ \(0\)\
+\-\ neurosurgery\\:\\ 0\\.009752911234754618\ \(0\)\
+\-\ 4\\:\\ 0\\.00965911523399207\ \(0\)\
+\-\ according\\:\\ 0\\.009645183394361215\ \(0\)\
+\-\ health\\:\\ 0\\.009610509087344378\ \(0\)\
+\-\ worsened\\:\\ 0\\.009542889573617012\ \(0\)\
+\-\ data\\:\\ 0\\.009383090632738483\ \(0\)\
+\-\ slow\\:\\ 0\\.009383090632738483\ \(0\)\
+\-\ collections\\:\\ 0\\.009322536954950084\ \(0\)\
+\-\ damage\\:\\ 0\\.009263738705714277\ \(0\)\
+\-\ prolonged\\:\\ 0\\.009206596967445118\ \(0\)\
+\-\ duration\\:\\ 0\\.009178618626405897\ \(0\)\
+\-\ fact\\:\\ 0\\.009123793733124113\ \(0\)\
+\-\ becomes\\:\\ 0\\.00907041176899151\ \(0\)\
+\-\ that\\:\\ 0\\.00898162715147357\ \(0\)\
+\-\ representing\\:\\ 0\\.00894279751866581\ \(0\)\
+\-\ subacute\\:\\ 0\\.008893918103698143\ \(0\)\
+\-\ diffusely\\:\\ 0\\.008753973131107979\ \(0\)\
+\-\ 37\\:\\ 0\\.008709391170217967\ \(0\)\
+\-\ movement\\:\\ 0\\.008665768035895527\ \(0\)\
+\-\ unilateral\\:\\ 0\\.008602043499925183\ \(0\)\
+\-\ somewhat\\:\\ 0\\.008520076890720565\ \(0\)\
+\-\ interval\\:\\ 0\\.00850009251659681\ \(0\)\
+\-\ lab\\:\\ 0\\.008480303115084914\ \(0\)\
+\-\ bilateral\\:\\ 0\\.008413053668618433\ \(0\)\
+\-\ 70\\:\\ 0\\.008328576516539888\ \(0\)\
+\-\ avm\\:\\ 0\\.008256767333880827\ \(0\)\
+\-\ relative\\:\\ 0\\.008256767333880827\ \(0\)\
+\-\ become\\:\\ 0\\.008256767333880827\ \(0\)\
+\-\ tissue\\:\\ 0\\.008216718817251901\ \(0\)\
+\-\ without\\:\\ 0\\.008162325218491522\ \(0\)\
+\-\ ordered\\:\\ 0\\.008153606244157723\ \(0\)\
+\-\ form\\:\\ 0\\.008103928718785925\ \(0\)\
+\-\ spontaneous\\:\\ 0\\.00808763628126612\ \(0\)\
+\-\ recently\\:\\ 0\\.00808763628126612\ \(0\)\
+\-\ injuries\\:\\ 0\\.00808763628126612\ \(0\)\
+\-\ scans\\:\\ 0\\.008071473665344869\ \(0\)\
+\-\ ischemia\\:\\ 0\\.008055438818474456\ \(0\)\
+\-\ vision\\:\\ 0\\.008008081082172243\ \(0\)\
+\-\ 45\\:\\ 0\\.008008081082172243\ \(0\)\
+\-\ unable\\:\\ 0\\.008008081082172243\ \(0\)\
+\-\ having\\:\\ 0\\.007961803845324026\ \(0\)\
+\-\ evaluated\\:\\ 0\\.007946609785021473\ \(0\)\
+\-\ discharged\\:\\ 0\\.007946609785021473\ \(0\)\
+\-\ require\\:\\ 0\\.007931528692754703\ \(0\)\
+\-\ l\\:\\ 0\\.007901698779185342\ \(0\)\
+\-\ it\\:\\ 0\\.007792488375387491\ \(0\)\
+\-\ worse\\:\\ 0\\.0076776480782435345\ \(0\)\
+\-\ development\\:\\ 0\\.007549225604786483\ \(0\)\
+\-\ bleeding\\:\\ 0\\.007524488742527216\ \(0\)\
+\-\ underlying\\:\\ 0\\.007428451986751966\ \(0\)\
+\-\ skull\\:\\ 0\\.007382086595116976\ \(0\)\
+\-\ parenchyma\\:\\ 0\\.007382086595116976\ \(0\)\
+\-\ and\\/or\\:\\ 0\\.007325581616409133\ \(0\)\
+\-\ surgical\\:\\ 0\\.007286903733271617\ \(0\)\
+\-\ ct\\:\\ 0\\.007273653063237583\ \(0\)\
+\-\ us\\:\\ 0\\.007270608128016048\ \(0\)\
+\-\ caused\\:\\ 0\\.007270608128016048\ \(0\)\
+\-\ traumatic\\:\\ 0\\.007259789982021397\ \(0\)\
+\-\ located\\:\\ 0\\.007134282063729131\ \(0\)\
+\-\ many\\:\\ 0\\.0071241653466682\ \(0\)\
+\-\ placement\\:\\ 0\\.007035316213486875\ \(0\)\
+\-\ reports\\:\\ 0\\.006987587009815082\ \(0\)\
+\-\ nausea\\:\\ 0\\.006978174475217714\ \(0\)\
+\-\ typical\\:\\ 0\\.0069501961341784935\ \(0\)\
+\-\ complications\\:\\ 0\\.006868504655196871\ \(0\)\
+\-\ structures\\:\\ 0\\.006673560821165749\ \(0\)\
+\-\ result\\:\\ 0\\.006649460764600328\ \(0\)\
+\-\ vomiting\\:\\ 0\\.006617766407798946\ \(0\)\
+\-\ its\\:\\ 0\\.006540631731147346\ \(0\)\
+\-\ a\\:\\ 0\\.006435696581234909\ \(0\)\
+\-\ since\\:\\ 0\\.00636666251865764\ \(0\)\
+\-\ calcification\\:\\ 0\\.006291654398493163\ \(0\)\
+\-\ venous\\:\\ 0\\.006291654398493163\ \(0\)\
+\-\ later\\:\\ 0\\.006258455661243253\ \(0\)\
+\-\ muscle\\:\\ 0\\.0062257915485321395\ \(0\)\
+\-\ typically\\:\\ 0\\.006118510688653087\ \(0\)\
+\-\ signs\\:\\ 0\\.0061001540243124834\ \(0\)\
+\-\ to\\:\\ 0\\.006063847381543416\ \(0\)\
+\-\ was\\:\\ 0\\.006013859161543733\ \(0\)\
+\-\ presentation\\:\\ 0\\.005970386682537692\ \(0\)\
+\-\ headache\\:\\ 0\\.005953317317577683\ \(0\)\
+\-\ cause\\:\\ 0\\.005864630074141919\ \(0\)\
+\-\ recent\\:\\ 0\\.005827016326247053\ \(0\)\
+\-\ followed\\:\\ 0\\.005811107244176007\ \(0\)\
+\-\ \\>\\:\\ 0\\.005758960476001145\ \(0\)\
+\-\ x\\:\\ 0\\.0057181872927940715\ \(0\)\
+\-\ study\\:\\ 0\\.005703106200527301\ \(0\)\
+\-\ is\\:\\ 0\\.00570274623108241\ \(0\)\
+\-\ follow\\-up\\:\\ 0\\.005639020266616109\ \(0\)\
+\-\ 2\\.\\:\\ 0\\.005512057082759144\ \(0\)\
+\-\ past\\:\\ 0\\.005507503999891347\ \(0\)\
+\-\ and\\:\\ 0\\.005476947436071555\ \(0\)\
+\-\ frontal\\:\\ 0\\.005444811226132571\ \(0\)\
+\-\ will\\:\\ 0\\.005422882390221383\ \(0\)\
+\-\ such\\:\\ 0\\.00541852492868327\ \(0\)\
+\-\ 1\\.\\:\\ 0\\.005414176807905884\ \(0\)\
+\-\ days\\:\\ 0\\.005312523927326527\ \(0\)\
+\-\ usually\\:\\ 0\\.005263546153887949\ \(0\)\
+\-\ as\\:\\ 0\\.005243722133444737\ \(0\)\
+\-\ yo\\:\\ 0\\.005215723170999517\ \(0\)\
+\-\ treated\\:\\ 0\\.005188338409906408\ \(0\)\
+\-\ decreased\\:\\ 0\\.005153664102889573\ \(0\)\
+\-\ neck\\:\\ 0\\.005089742671437084\ \(0\)\
+\-\ the\\:\\ 0\\.0050476412265015504\ \(0\)\
+\-\ his\\:\\ 0\\.004995718108817306\ \(0\)\
+\-\ fluid\\:\\ 0\\.004926245648283678\ \(0\)\
+\-\ time\\:\\ 0\\.0048957428544407966\ \(0\)\
+\-\ likely\\:\\ 0\\.004889026300072326\ \(0\)\
+\-\ scan\\:\\ 0\\.004852477607369125\ \(0\)\
+\-\ however\\:\\ 0\\.004826304372407851\ \(0\)\
+\-\ blood\\:\\ 0\\.004731056942209533\ \(0\)\
+\-\ if\\:\\ 0\\.004703333537080396\ \(0\)\
+\-\ lobe\\:\\ 0\\.004663945938992969\ \(0\)\
+\-\ significant\\:\\ 0\\.004660947568061305\ \(0\)\
+\-\ up\\:\\ 0\\.004660947568061305\ \(0\)\
+\-\ therapy\\:\\ 0\\.004634159830102663\ \(0\)\
+\-\ for\\:\\ 0\\.004436763582004352\ \(0\)\
+\-\ more\\:\\ 0\\.00433504322375693\ \(0\)\
+\-\ symptoms\\:\\ 0\\.004319792042389734\ \(0\)\
+\-\ none\\:\\ 0\\.004299633888251535\ \(0\)\
+\-\ acute\\:\\ 0\\.0042796740955507\ \(0\)\
+\-\ in\\:\\ 0\\.00427380557951577\ \(0\)\
+\-\ physical\\:\\ 0\\.00425254618576316\ \(0\)\
+\-\ demonstrate\\:\\ 0\\.0039887467369838555\ \(0\)\
+\-\ can\\:\\ 0\\.0039314855019656585\ \(0\)\
+\-\ present\\:\\ 0\\.003914825058684951\ \(0\)\
+\-\ exam\\:\\ 0\\.0038077767544615376\ \(0\)\
+\-\ have\\:\\ 0\\.0037534240940468393\ \(0\)\
+\-\ had\\:\\ 0\\.0037400604852752704\ \(0\)\
+\-\ \\-\\:\\ 0\\.0037154735470757883\ \(0\)\
+\-\ presents\\:\\ 0\\.0035408606399755086\ \(0\)\
+\-\ treatment\\:\\ 0\\.0035083508308334423\ \(0\)\
+\-\ patient\\:\\ 0\\.003475017975320032\ \(0\)\
+\-\ seen\\:\\ 0\\.0034252081441535297\ \(0\)\
+\-\ also\\:\\ 0\\.003417078283306595\ \(0\)\
+\-\ within\\:\\ 0\\.003306554580904831\ \(0\)\
+\-\ male\\:\\ 0\\.003134291151901568\ \(0\)\
+\-\ on\\:\\ 0\\.0029366775349510266\ \(0\)\
+\-\ \\(\\:\\ 0\\.002930473534457852\ \(0\)\
+\-\ \\)\\:\\ 0\\.002894676235753773\ \(0\)\
+\-\ be\\:\\ 0\\.0026729345301093896\ \(0\)\
+\-\ of\\:\\ 0\\.0025994762855534943\ \(0\)\
+\-\ from\\:\\ 0\\.0025688351179598626\ \(0\)\
+\-\ not\\:\\ 0\\.002504703188117516\ \(0\)\
+\-\ an\\:\\ 0\\.0023968861344517848\ \(0\)\
+\-\ \\:\\:\\ 0\\.0022926466855794424\ \(0\)\
+\-\ \\.\\:\\ 0\\.0019441936605037514\ \(0\)\
+\-\ no\\:\\ 0\\.0017453228209002069\ \(0\)\
+\-\ with\\:\\ 0\\.0011866549299177458\ \(0\)\

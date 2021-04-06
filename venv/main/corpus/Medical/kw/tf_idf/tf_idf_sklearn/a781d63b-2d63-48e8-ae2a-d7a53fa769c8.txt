@@ -1,92 +1,90 @@
-Texto: 
-t: 103
-follow up chest radiographs in four to six weeks following appropriate treatment to document resolution.
-pa and lateral radiographs of the chest demonstrate an  airspace opacity within the right mid lung field, seen on both views. this silouettes the right heart border on the frontal radiograph.  there is no pneumothorax and no pleural effusion.  the pulmonary vasculature is within normal limits.
-right middle lobe pneumonia
-rml infection (pneumonia)
-rml aspiration
-rml collapse
-focal pulmonary edema
-contusion
-infarction
-neoplasm
-fever and cough for several days.
-notice how the right heart border is "silhouetted" by the  air-space disease in the right middle lobe (rml).  this occurs because the rml partially overlaps the heart.
-
-
-Keywords by value: 
-- rml: 0.6173475763101157
-- heart: 0.2026236707700625
-- the: 0.19382408939750595
-- border: 0.1718178951509904
-- right: 0.1610251525886338
-- silouettes: 0.15534367233473184
-- overlaps: 0.15534367233473184
-- pneumonia: 0.15334114468617124
-- silhouetted: 0.14843917211412871
-- middle: 0.13892247940231556
-- radiographs: 0.12600391361818894
-- document: 0.11890135707138368
-- pulmonary: 0.11841931188089308
-- notice: 0.11302920884934979
-- lobe: 0.11227017770617823
-- 103: 0.10709803598312403
-- airspace: 0.104330567310406
-- how: 0.1027075690688184
-- chest: 0.10254796719904336
-- vasculature: 0.09554699495799739
-- contusion: 0.09554699495799739
-- field: 0.09129572712507653
-- collapse: 0.09109886258797488
-- within: 0.08947688010895026
-- six: 0.08725994065312363
-- appropriate: 0.08534127524934697
-- aspiration: 0.08492760487957185
-- pneumothorax: 0.08465730408041633
-- opacity: 0.084523745805174
-- partially: 0.08336664165303997
-- is: 0.07980511982454738
-- resolution: 0.07881311283855805
-- four: 0.07871824578094011
-- limits: 0.07675466433027507
-- views: 0.07667057234308562
-- occurs: 0.07658689358600161
-- infarction: 0.07625623090898458
-- pa: 0.07454415525694852
-- pleural: 0.07312428379131221
-- cough: 0.0725220311004061
-- effusion: 0.07213204628196536
-- mid: 0.0699064570296976
-- because: 0.06788825204705784
-- this: 0.06675624376029514
-- neoplasm: 0.06631084578129966
-- fever: 0.06586032763177072
-- several: 0.06373159099521229
-- radiograph: 0.06326714603859997
-- no: 0.06317588232043989
-- frontal: 0.06252015817153467
-- days: 0.06149210577980561
-- and: 0.06021669471825217
-- lung: 0.05908973577723551
-- infection: 0.0586765434097566
-- on: 0.05867425736711082
-- following: 0.05827313994378673
-- weeks: 0.0582162831537367
-- focal: 0.05810313594143794
-- edema: 0.05793481240154043
-- both: 0.054168523594321095
-- follow: 0.05236543398738773
-- demonstrate: 0.05049898431071626
-- to: 0.048568263003360285
-- in: 0.048329210113446076
-- lateral: 0.048207103383817715
-- up: 0.04805015671705744
-- treatment: 0.04627164513161768
-- seen: 0.04573144926980336
-- by: 0.04125012671860352
-- disease: 0.040774783191641954
-- normal: 0.03966050386208067
-- there: 0.03865062592352436
-- an: 0.03714497333919982
-- for: 0.0294415668692504
-- of: 0.019009337553005035
+\-\ Texto\\:\\ \ \(0\)\
+\-\ t\\:\\ 103\ \(0\)\
+\-\ follow\\ up\\ chest\\ radiographs\\ in\\ four\\ to\\ six\\ weeks\\ following\\ appropriate\\ treatment\\ to\\ document\\ resolution\\.\ \(0\)\
+\-\ pa\\ and\\ lateral\\ radiographs\\ of\\ the\\ chest\\ demonstrate\\ an\\ \\ airspace\\ opacity\\ within\\ the\\ right\\ mid\\ lung\\ field\\,\\ seen\\ on\\ both\\ views\\.\\ this\\ silouettes\\ the\\ right\\ heart\\ border\\ on\\ the\\ frontal\\ radiograph\\.\\ \\ there\\ is\\ no\\ pneumothorax\\ and\\ no\\ pleural\\ effusion\\.\\ \\ the\\ pulmonary\\ vasculature\\ is\\ within\\ normal\\ limits\\.\ \(0\)\
+\-\ right\\ middle\\ lobe\\ pneumonia\ \(2\)\
+\-\ rml\\ infection\\ \\(pneumonia\\)\ \(0\)\
+\-\ rml\\ aspiration\ \(0\)\
+\-\ rml\\ collapse\ \(0\)\
+\-\ focal\\ pulmonary\\ edema\ \(0\)\
+\-\ contusion\ \(92\)\
+\-\ infarction\ \(233\)\
+\-\ neoplasm\ \(440\)\
+\-\ fever\\ and\\ cough\\ for\\ several\\ days\\.\ \(0\)\
+\-\ notice\\ how\\ the\\ right\\ heart\\ border\\ is\\ \\"silhouetted\\"\\ by\\ the\\ \\ air\\-space\\ disease\\ in\\ the\\ right\\ middle\\ lobe\\ \\(rml\\)\\.\\ \\ this\\ occurs\\ because\\ the\\ rml\\ partially\\ overlaps\\ the\\ heart\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ rml\\:\\ 0\\.6173475763101157\ \(0\)\
+\-\ heart\\:\\ 0\\.2026236707700625\ \(0\)\
+\-\ the\\:\\ 0\\.19382408939750595\ \(0\)\
+\-\ border\\:\\ 0\\.1718178951509904\ \(0\)\
+\-\ right\\:\\ 0\\.1610251525886338\ \(0\)\
+\-\ silouettes\\:\\ 0\\.15534367233473184\ \(0\)\
+\-\ overlaps\\:\\ 0\\.15534367233473184\ \(0\)\
+\-\ pneumonia\\:\\ 0\\.15334114468617124\ \(0\)\
+\-\ silhouetted\\:\\ 0\\.14843917211412871\ \(0\)\
+\-\ middle\\:\\ 0\\.13892247940231556\ \(0\)\
+\-\ radiographs\\:\\ 0\\.12600391361818894\ \(0\)\
+\-\ document\\:\\ 0\\.11890135707138368\ \(0\)\
+\-\ pulmonary\\:\\ 0\\.11841931188089308\ \(0\)\
+\-\ notice\\:\\ 0\\.11302920884934979\ \(0\)\
+\-\ lobe\\:\\ 0\\.11227017770617823\ \(0\)\
+\-\ 103\\:\\ 0\\.10709803598312403\ \(0\)\
+\-\ airspace\\:\\ 0\\.104330567310406\ \(0\)\
+\-\ how\\:\\ 0\\.1027075690688184\ \(0\)\
+\-\ chest\\:\\ 0\\.10254796719904336\ \(0\)\
+\-\ vasculature\\:\\ 0\\.09554699495799739\ \(0\)\
+\-\ contusion\\:\\ 0\\.09554699495799739\ \(0\)\
+\-\ field\\:\\ 0\\.09129572712507653\ \(0\)\
+\-\ collapse\\:\\ 0\\.09109886258797488\ \(0\)\
+\-\ within\\:\\ 0\\.08947688010895026\ \(0\)\
+\-\ six\\:\\ 0\\.08725994065312363\ \(0\)\
+\-\ appropriate\\:\\ 0\\.08534127524934697\ \(0\)\
+\-\ aspiration\\:\\ 0\\.08492760487957185\ \(0\)\
+\-\ pneumothorax\\:\\ 0\\.08465730408041633\ \(0\)\
+\-\ opacity\\:\\ 0\\.084523745805174\ \(0\)\
+\-\ partially\\:\\ 0\\.08336664165303997\ \(0\)\
+\-\ is\\:\\ 0\\.07980511982454738\ \(0\)\
+\-\ resolution\\:\\ 0\\.07881311283855805\ \(0\)\
+\-\ four\\:\\ 0\\.07871824578094011\ \(0\)\
+\-\ limits\\:\\ 0\\.07675466433027507\ \(0\)\
+\-\ views\\:\\ 0\\.07667057234308562\ \(0\)\
+\-\ occurs\\:\\ 0\\.07658689358600161\ \(0\)\
+\-\ infarction\\:\\ 0\\.07625623090898458\ \(0\)\
+\-\ pa\\:\\ 0\\.07454415525694852\ \(0\)\
+\-\ pleural\\:\\ 0\\.07312428379131221\ \(0\)\
+\-\ cough\\:\\ 0\\.0725220311004061\ \(0\)\
+\-\ effusion\\:\\ 0\\.07213204628196536\ \(0\)\
+\-\ mid\\:\\ 0\\.0699064570296976\ \(0\)\
+\-\ because\\:\\ 0\\.06788825204705784\ \(0\)\
+\-\ this\\:\\ 0\\.06675624376029514\ \(0\)\
+\-\ neoplasm\\:\\ 0\\.06631084578129966\ \(0\)\
+\-\ fever\\:\\ 0\\.06586032763177072\ \(0\)\
+\-\ several\\:\\ 0\\.06373159099521229\ \(0\)\
+\-\ radiograph\\:\\ 0\\.06326714603859997\ \(0\)\
+\-\ no\\:\\ 0\\.06317588232043989\ \(0\)\
+\-\ frontal\\:\\ 0\\.06252015817153467\ \(0\)\
+\-\ days\\:\\ 0\\.06149210577980561\ \(0\)\
+\-\ and\\:\\ 0\\.06021669471825217\ \(0\)\
+\-\ lung\\:\\ 0\\.05908973577723551\ \(0\)\
+\-\ infection\\:\\ 0\\.0586765434097566\ \(0\)\
+\-\ on\\:\\ 0\\.05867425736711082\ \(0\)\
+\-\ following\\:\\ 0\\.05827313994378673\ \(0\)\
+\-\ weeks\\:\\ 0\\.0582162831537367\ \(0\)\
+\-\ focal\\:\\ 0\\.05810313594143794\ \(0\)\
+\-\ edema\\:\\ 0\\.05793481240154043\ \(0\)\
+\-\ both\\:\\ 0\\.054168523594321095\ \(0\)\
+\-\ follow\\:\\ 0\\.05236543398738773\ \(0\)\
+\-\ demonstrate\\:\\ 0\\.05049898431071626\ \(0\)\
+\-\ to\\:\\ 0\\.048568263003360285\ \(0\)\
+\-\ in\\:\\ 0\\.048329210113446076\ \(0\)\
+\-\ lateral\\:\\ 0\\.048207103383817715\ \(0\)\
+\-\ up\\:\\ 0\\.04805015671705744\ \(0\)\
+\-\ treatment\\:\\ 0\\.04627164513161768\ \(0\)\
+\-\ seen\\:\\ 0\\.04573144926980336\ \(0\)\
+\-\ by\\:\\ 0\\.04125012671860352\ \(0\)\
+\-\ disease\\:\\ 0\\.040774783191641954\ \(0\)\
+\-\ normal\\:\\ 0\\.03966050386208067\ \(0\)\
+\-\ there\\:\\ 0\\.03865062592352436\ \(0\)\
+\-\ an\\:\\ 0\\.03714497333919982\ \(0\)\
+\-\ for\\:\\ 0\\.0294415668692504\ \(0\)\
+\-\ of\\:\\ 0\\.019009337553005035\ \(0\)\

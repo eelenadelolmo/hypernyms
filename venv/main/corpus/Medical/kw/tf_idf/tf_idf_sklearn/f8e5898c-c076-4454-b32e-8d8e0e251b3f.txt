@@ -1,60 +1,58 @@
-Texto: 
-frontal bossing. subtle ridge palpated at midline skull.
-see discussion.
-hull shaped skull with increased anterior-posterior length relative to width.  bony ridge at sagittal suture. bifrontal bossing with bitemporal narrowing.
-craniosynostosis; idiopathic scaphocephaly
-<li>idiopathic scaphocephaly
-<li>hyperthyroidism 
-<li>rickets 
-<li>hyperparathyroidism 
-<li>underlying genetic disorder (apert's syndrome, crouzon's syndrome, pfeiffer's syndrome)
-9 month old male with premature closure of anterior fontanelle.
-
-
-Keywords by value: 
-- li: 0.49752231797671853
-- bossing: 0.30192801625563503
-- scaphocephaly: 0.30192801625563503
-- ridge: 0.2491276095768596
-- syndrome: 0.18979100622874134
-- idiopathic: 0.17753263003392078
-- skull: 0.1702862205856188
-- hull: 0.16782034042963587
-- pfeiffer: 0.1603612945598992
-- crouzon: 0.15506901729261255
-- apert: 0.15096400812781752
-- bifrontal: 0.13338616097156666
-- craniosynostosis: 0.1320228506581665
-- bitemporal: 0.1284511040673007
-- fontanelle: 0.1284511040673007
-- width: 0.12135635268897584
-- hyperthyroidism: 0.1180023159840342
-- suture: 0.11739910552866753
-- anterior: 0.11718363475942578
-- rickets: 0.1156997809302774
-- palpated: 0.11271003871674759
-- closure: 0.1109566868529328
-- genetic: 0.10349764098319611
-- premature: 0.10349764098319611
-- hyperparathyroidism: 0.09995871557972427
-- length: 0.09567065743545196
-- relative: 0.09296542295804668
-- discussion: 0.09189645925462091
-- subtle: 0.09046967698410471
-- disorder: 0.08876631501696039
-- shaped: 0.08767314569076005
-- underlying: 0.08566428596048614
-- narrowing: 0.08134903141409114
-- bony: 0.08085403462755147
-- sagittal: 0.0806919518992815
-- at: 0.07927359371383115
-- midline: 0.07892393580937769
-- frontal: 0.06754156168944762
-- see: 0.06527854602930903
-- month: 0.06383561959746312
-- with: 0.06164511693591375
-- increased: 0.05674603280947385
-- male: 0.046722889129100546
-- old: 0.031057729512282084
-- to: 0.026234549205637853
-- of: 0.020536101995922172
+\-\ Texto\\:\\ \ \(0\)\
+\-\ frontal\\ bossing\\.\\ subtle\\ ridge\\ palpated\\ at\\ midline\\ skull\\.\ \(0\)\
+\-\ see\\ discussion\\.\ \(0\)\
+\-\ hull\\ shaped\\ skull\\ with\\ increased\\ anterior\\-posterior\\ length\\ relative\\ to\\ width\\.\\ \\ bony\\ ridge\\ at\\ sagittal\\ suture\\.\\ bifrontal\\ bossing\\ with\\ bitemporal\\ narrowing\\.\ \(0\)\
+\-\ craniosynostosis\\;\\ idiopathic\\ scaphocephaly\ \(0\)\
+\-\ \\<li\\>idiopathic\\ scaphocephaly\ \(0\)\
+\-\ \\<li\\>hyperthyroidism\\ \ \(0\)\
+\-\ \\<li\\>rickets\\ \ \(0\)\
+\-\ \\<li\\>hyperparathyroidism\\ \ \(0\)\
+\-\ \\<li\\>underlying\\ genetic\\ disorder\\ \\(apert\\'s\\ syndrome\\,\\ crouzon\\'s\\ syndrome\\,\\ pfeiffer\\'s\\ syndrome\\)\ \(0\)\
+\-\ 9\\ month\\ old\\ male\\ with\\ premature\\ closure\\ of\\ anterior\\ fontanelle\\.\ \(1\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ li\\:\\ 0\\.49752231797671853\ \(0\)\
+\-\ bossing\\:\\ 0\\.30192801625563503\ \(0\)\
+\-\ scaphocephaly\\:\\ 0\\.30192801625563503\ \(0\)\
+\-\ ridge\\:\\ 0\\.2491276095768596\ \(0\)\
+\-\ syndrome\\:\\ 0\\.18979100622874134\ \(0\)\
+\-\ idiopathic\\:\\ 0\\.17753263003392078\ \(0\)\
+\-\ skull\\:\\ 0\\.1702862205856188\ \(0\)\
+\-\ hull\\:\\ 0\\.16782034042963587\ \(0\)\
+\-\ pfeiffer\\:\\ 0\\.1603612945598992\ \(0\)\
+\-\ crouzon\\:\\ 0\\.15506901729261255\ \(0\)\
+\-\ apert\\:\\ 0\\.15096400812781752\ \(0\)\
+\-\ bifrontal\\:\\ 0\\.13338616097156666\ \(0\)\
+\-\ craniosynostosis\\:\\ 0\\.1320228506581665\ \(0\)\
+\-\ bitemporal\\:\\ 0\\.1284511040673007\ \(0\)\
+\-\ fontanelle\\:\\ 0\\.1284511040673007\ \(0\)\
+\-\ width\\:\\ 0\\.12135635268897584\ \(0\)\
+\-\ hyperthyroidism\\:\\ 0\\.1180023159840342\ \(0\)\
+\-\ suture\\:\\ 0\\.11739910552866753\ \(0\)\
+\-\ anterior\\:\\ 0\\.11718363475942578\ \(0\)\
+\-\ rickets\\:\\ 0\\.1156997809302774\ \(0\)\
+\-\ palpated\\:\\ 0\\.11271003871674759\ \(0\)\
+\-\ closure\\:\\ 0\\.1109566868529328\ \(0\)\
+\-\ genetic\\:\\ 0\\.10349764098319611\ \(0\)\
+\-\ premature\\:\\ 0\\.10349764098319611\ \(0\)\
+\-\ hyperparathyroidism\\:\\ 0\\.09995871557972427\ \(0\)\
+\-\ length\\:\\ 0\\.09567065743545196\ \(0\)\
+\-\ relative\\:\\ 0\\.09296542295804668\ \(0\)\
+\-\ discussion\\:\\ 0\\.09189645925462091\ \(0\)\
+\-\ subtle\\:\\ 0\\.09046967698410471\ \(0\)\
+\-\ disorder\\:\\ 0\\.08876631501696039\ \(0\)\
+\-\ shaped\\:\\ 0\\.08767314569076005\ \(0\)\
+\-\ underlying\\:\\ 0\\.08566428596048614\ \(0\)\
+\-\ narrowing\\:\\ 0\\.08134903141409114\ \(0\)\
+\-\ bony\\:\\ 0\\.08085403462755147\ \(0\)\
+\-\ sagittal\\:\\ 0\\.0806919518992815\ \(0\)\
+\-\ at\\:\\ 0\\.07927359371383115\ \(0\)\
+\-\ midline\\:\\ 0\\.07892393580937769\ \(0\)\
+\-\ frontal\\:\\ 0\\.06754156168944762\ \(0\)\
+\-\ see\\:\\ 0\\.06527854602930903\ \(0\)\
+\-\ month\\:\\ 0\\.06383561959746312\ \(0\)\
+\-\ with\\:\\ 0\\.06164511693591375\ \(0\)\
+\-\ increased\\:\\ 0\\.05674603280947385\ \(0\)\
+\-\ male\\:\\ 0\\.046722889129100546\ \(0\)\
+\-\ old\\:\\ 0\\.031057729512282084\ \(0\)\
+\-\ to\\:\\ 0\\.026234549205637853\ \(0\)\
+\-\ of\\:\\ 0\\.020536101995922172\ \(0\)\

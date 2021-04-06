@@ -1,98 +1,96 @@
-Texto: 
-patient will most likely receive treatment with a cholinesterase inhibitor (eg tacrine or cognex) which may delay cognitive decline in the early to mid stages of the disease.
-pet fluorine-18 fluorodeoxyglucose scan with high resolution axial, sagittal, and coronal images demonstrate marked decreased uptake in the posterior parietal and temporal lobes bilaterally.
-alzheimer's disease based on pet findings and patient history. cannot confirm the disease w/o brain biopsy.
-alzheimer's disease
-parkinson's disease (advanced)
-fifty seven year-old right handed female with worsening dementia versus pseudodementia over approximately two years.
-although the pet findings are not pathognomic for alzheimer's disease, the images are highly predictive of alzheimer's disease, particularly with patient's concordant history.
-
-
-Keywords by value: 
-- alzheimer: 0.2041235418874746
-- pet: 0.1019269337200038
-- 's: 0.0856384826530475
-- disease: 0.07406941506446917
-- cholinesterase: 0.06678423048459468
-- tacrine: 0.06678423048459468
-- cognex: 0.06678423048459468
-- fluorine-18: 0.06678423048459468
-- pseudodementia: 0.06678423048459468
-- pathognomic: 0.061533115480352674
-- handed: 0.05846141011589688
-- fluorodeoxyglucose: 0.05459151902676059
-- parkinson: 0.05459151902676059
-- concordant: 0.05321029511165487
-- fifty: 0.05204248693114534
-- predictive: 0.04795918010741286
-- inhibitor: 0.04626869865806279
-- decline: 0.04336724220157714
-- dementia: 0.04336724220157714
-- cognitive: 0.04303048642452537
-- seven: 0.04052865546338463
-- eg: 0.03883817401403456
-- stages: 0.03883817401403456
-- receive: 0.03811612719733513
-- w/o: 0.03656465437425927
-- particularly: 0.0333999937628958
-- advanced: 0.03312778157178926
-- confirm: 0.03295159322205996
-- delay: 0.03212732913229633
-- highly: 0.031174530743743045
-- versus: 0.03077218358227374
-- lobes: 0.0285277455811891
-- resolution: 0.027921361432147157
-- parietal: 0.027657064015477153
-- findings: 0.027558135390756966
-- mid: 0.027074025825051938
-- coronal: 0.026954720090444827
-- temporal: 0.02592341573950104
-- sagittal: 0.02582080797353318
-- uptake: 0.025719571399198577
-- worsening: 0.025488484624248468
-- marked: 0.025264238641094748
-- images: 0.024837331696202336
-- based: 0.024687048198992124
-- year-old: 0.023778519861350125
-- early: 0.023675446739715438
-- biopsy: 0.022967373042702733
-- although: 0.021863100610428815
-- bilaterally: 0.021262918473665935
-- will: 0.020253644078629864
-- approximately: 0.020028922928451386
-- brain: 0.019479935782596682
-- patient: 0.01946799842991791
-- decreased: 0.01924815456609515
-- years: 0.019009417704685474
-- not: 0.01870937381427175
-- two: 0.01854038816375762
-- axial: 0.018475693000514177
-- likely: 0.01825977246920952
-- scan: 0.018123268639643777
-- history: 0.017882038450107326
-- high: 0.017716258038460726
-- are: 0.01764960412923639
-- over: 0.016482140834393658
-- most: 0.014945720770667243
-- posterior: 0.014921504156836731
-- demonstrate: 0.01489736470706849
-- can: 0.014683502670220224
-- may: 0.014199457340137302
-- female: 0.013308789935210862
-- treatment: 0.013103158784855205
-- which: 0.01208442869123143
-- (: 0.010944874640058493
-- ): 0.010811177153231896
-- ,: 0.008203335318705679
-- or: 0.00758729355275536
-- right: 0.00683054325083649
-- in: 0.00638480651727659
-- the: 0.0062840583956193545
-- for: 0.00552354658062663
-- on: 0.005484022820950213
-- and: 0.004091113766641329
-- with: 0.0035455810936330222
-- to: 0.0032353644579014114
-- a: 0.003004543953171222
-- of: 0.0017652091029998248
-- .: 0.0016136152771521035
+\-\ Texto\\:\\ \ \(0\)\
+\-\ patient\\ will\\ most\\ likely\\ receive\\ treatment\\ with\\ a\\ cholinesterase\\ inhibitor\\ \\(eg\\ tacrine\\ or\\ cognex\\)\\ which\\ may\\ delay\\ cognitive\\ decline\\ in\\ the\\ early\\ to\\ mid\\ stages\\ of\\ the\\ disease\\.\ \(0\)\
+\-\ pet\\ fluorine\\-18\\ fluorodeoxyglucose\\ scan\\ with\\ high\\ resolution\\ axial\\,\\ sagittal\\,\\ and\\ coronal\\ images\\ demonstrate\\ marked\\ decreased\\ uptake\\ in\\ the\\ posterior\\ parietal\\ and\\ temporal\\ lobes\\ bilaterally\\.\ \(0\)\
+\-\ alzheimer\\'s\\ disease\\ based\\ on\\ pet\\ findings\\ and\\ patient\\ history\\.\\ cannot\\ confirm\\ the\\ disease\\ w\\/o\\ brain\\ biopsy\\.\ \(0\)\
+\-\ alzheimer\\'s\\ disease\ \(0\)\
+\-\ parkinson\\'s\\ disease\\ \\(advanced\\)\ \(0\)\
+\-\ fifty\\ seven\\ year\\-old\\ right\\ handed\\ female\\ with\\ worsening\\ dementia\\ versus\\ pseudodementia\\ over\\ approximately\\ two\\ years\\.\ \(0\)\
+\-\ although\\ the\\ pet\\ findings\\ are\\ not\\ pathognomic\\ for\\ alzheimer\\'s\\ disease\\,\\ the\\ images\\ are\\ highly\\ predictive\\ of\\ alzheimer\\'s\\ disease\\,\\ particularly\\ with\\ patient\\'s\\ concordant\\ history\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ alzheimer\\:\\ 0\\.2041235418874746\ \(0\)\
+\-\ pet\\:\\ 0\\.1019269337200038\ \(0\)\
+\-\ \\'s\\:\\ 0\\.0856384826530475\ \(0\)\
+\-\ disease\\:\\ 0\\.07406941506446917\ \(0\)\
+\-\ cholinesterase\\:\\ 0\\.06678423048459468\ \(0\)\
+\-\ tacrine\\:\\ 0\\.06678423048459468\ \(0\)\
+\-\ cognex\\:\\ 0\\.06678423048459468\ \(0\)\
+\-\ fluorine\\-18\\:\\ 0\\.06678423048459468\ \(0\)\
+\-\ pseudodementia\\:\\ 0\\.06678423048459468\ \(0\)\
+\-\ pathognomic\\:\\ 0\\.061533115480352674\ \(0\)\
+\-\ handed\\:\\ 0\\.05846141011589688\ \(0\)\
+\-\ fluorodeoxyglucose\\:\\ 0\\.05459151902676059\ \(0\)\
+\-\ parkinson\\:\\ 0\\.05459151902676059\ \(0\)\
+\-\ concordant\\:\\ 0\\.05321029511165487\ \(0\)\
+\-\ fifty\\:\\ 0\\.05204248693114534\ \(0\)\
+\-\ predictive\\:\\ 0\\.04795918010741286\ \(0\)\
+\-\ inhibitor\\:\\ 0\\.04626869865806279\ \(0\)\
+\-\ decline\\:\\ 0\\.04336724220157714\ \(0\)\
+\-\ dementia\\:\\ 0\\.04336724220157714\ \(0\)\
+\-\ cognitive\\:\\ 0\\.04303048642452537\ \(0\)\
+\-\ seven\\:\\ 0\\.04052865546338463\ \(0\)\
+\-\ eg\\:\\ 0\\.03883817401403456\ \(0\)\
+\-\ stages\\:\\ 0\\.03883817401403456\ \(0\)\
+\-\ receive\\:\\ 0\\.03811612719733513\ \(0\)\
+\-\ w\\/o\\:\\ 0\\.03656465437425927\ \(0\)\
+\-\ particularly\\:\\ 0\\.0333999937628958\ \(0\)\
+\-\ advanced\\:\\ 0\\.03312778157178926\ \(0\)\
+\-\ confirm\\:\\ 0\\.03295159322205996\ \(0\)\
+\-\ delay\\:\\ 0\\.03212732913229633\ \(0\)\
+\-\ highly\\:\\ 0\\.031174530743743045\ \(0\)\
+\-\ versus\\:\\ 0\\.03077218358227374\ \(0\)\
+\-\ lobes\\:\\ 0\\.0285277455811891\ \(0\)\
+\-\ resolution\\:\\ 0\\.027921361432147157\ \(0\)\
+\-\ parietal\\:\\ 0\\.027657064015477153\ \(0\)\
+\-\ findings\\:\\ 0\\.027558135390756966\ \(0\)\
+\-\ mid\\:\\ 0\\.027074025825051938\ \(0\)\
+\-\ coronal\\:\\ 0\\.026954720090444827\ \(0\)\
+\-\ temporal\\:\\ 0\\.02592341573950104\ \(0\)\
+\-\ sagittal\\:\\ 0\\.02582080797353318\ \(0\)\
+\-\ uptake\\:\\ 0\\.025719571399198577\ \(0\)\
+\-\ worsening\\:\\ 0\\.025488484624248468\ \(0\)\
+\-\ marked\\:\\ 0\\.025264238641094748\ \(0\)\
+\-\ images\\:\\ 0\\.024837331696202336\ \(0\)\
+\-\ based\\:\\ 0\\.024687048198992124\ \(0\)\
+\-\ year\\-old\\:\\ 0\\.023778519861350125\ \(0\)\
+\-\ early\\:\\ 0\\.023675446739715438\ \(0\)\
+\-\ biopsy\\:\\ 0\\.022967373042702733\ \(0\)\
+\-\ although\\:\\ 0\\.021863100610428815\ \(0\)\
+\-\ bilaterally\\:\\ 0\\.021262918473665935\ \(0\)\
+\-\ will\\:\\ 0\\.020253644078629864\ \(0\)\
+\-\ approximately\\:\\ 0\\.020028922928451386\ \(0\)\
+\-\ brain\\:\\ 0\\.019479935782596682\ \(0\)\
+\-\ patient\\:\\ 0\\.01946799842991791\ \(0\)\
+\-\ decreased\\:\\ 0\\.01924815456609515\ \(0\)\
+\-\ years\\:\\ 0\\.019009417704685474\ \(0\)\
+\-\ not\\:\\ 0\\.01870937381427175\ \(0\)\
+\-\ two\\:\\ 0\\.01854038816375762\ \(0\)\
+\-\ axial\\:\\ 0\\.018475693000514177\ \(0\)\
+\-\ likely\\:\\ 0\\.01825977246920952\ \(0\)\
+\-\ scan\\:\\ 0\\.018123268639643777\ \(0\)\
+\-\ history\\:\\ 0\\.017882038450107326\ \(0\)\
+\-\ high\\:\\ 0\\.017716258038460726\ \(0\)\
+\-\ are\\:\\ 0\\.01764960412923639\ \(0\)\
+\-\ over\\:\\ 0\\.016482140834393658\ \(0\)\
+\-\ most\\:\\ 0\\.014945720770667243\ \(0\)\
+\-\ posterior\\:\\ 0\\.014921504156836731\ \(0\)\
+\-\ demonstrate\\:\\ 0\\.01489736470706849\ \(0\)\
+\-\ can\\:\\ 0\\.014683502670220224\ \(0\)\
+\-\ may\\:\\ 0\\.014199457340137302\ \(0\)\
+\-\ female\\:\\ 0\\.013308789935210862\ \(0\)\
+\-\ treatment\\:\\ 0\\.013103158784855205\ \(0\)\
+\-\ which\\:\\ 0\\.01208442869123143\ \(0\)\
+\-\ \\(\\:\\ 0\\.010944874640058493\ \(0\)\
+\-\ \\)\\:\\ 0\\.010811177153231896\ \(0\)\
+\-\ \\,\\:\\ 0\\.008203335318705679\ \(0\)\
+\-\ or\\:\\ 0\\.00758729355275536\ \(0\)\
+\-\ right\\:\\ 0\\.00683054325083649\ \(0\)\
+\-\ in\\:\\ 0\\.00638480651727659\ \(0\)\
+\-\ the\\:\\ 0\\.0062840583956193545\ \(0\)\
+\-\ for\\:\\ 0\\.00552354658062663\ \(0\)\
+\-\ on\\:\\ 0\\.005484022820950213\ \(0\)\
+\-\ and\\:\\ 0\\.004091113766641329\ \(0\)\
+\-\ with\\:\\ 0\\.0035455810936330222\ \(0\)\
+\-\ to\\:\\ 0\\.0032353644579014114\ \(0\)\
+\-\ a\\:\\ 0\\.003004543953171222\ \(0\)\
+\-\ of\\:\\ 0\\.0017652091029998248\ \(0\)\
+\-\ \\.\\:\\ 0\\.0016136152771521035\ \(0\)\

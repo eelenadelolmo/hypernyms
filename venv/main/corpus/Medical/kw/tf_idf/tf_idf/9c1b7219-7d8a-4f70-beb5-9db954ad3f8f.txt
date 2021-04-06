@@ -1,78 +1,76 @@
-Texto: 
-tender abdomen
-microhematuria
-conservative management with hydration and pain control.
-axial ct images with and without contrast demonstrate delayed nephrogram on the left with hydronephrosis. distally at the left ureterovesical junction, there is a barely visible punctate calcification consistent with a ureterolith.
-nephrolithiasis
-renal artery stenosis
-renal vein thrombosis
-ureteral obstruction
-23 year old female with history of crohn's disease presents with non-specific abdominal pain.
-contrast administration with partially obstructive nephropathy reveals a delayed nephrogram on the affected side.
-
-
-Keywords by value: 
-- nephrogram: 0.1436386301011916
-- ureterolith: 0.08638632631216986
-- delayed: 0.08088326382012047
-- ureterovesical: 0.07987916598733935
-- barely: 0.07695690519337532
-- microhematuria: 0.07268103565703443
-- nephropathy: 0.07268103565703443
-- hydration: 0.06826836563720998
-- renal: 0.05970873370832719
-- nephrolithiasis: 0.05850382314009578
-- distally: 0.05824251086274626
-- ureteral: 0.05824251086274626
-- punctate: 0.0579869421799698
-- non-specific: 0.05749206294254195
-- crohn: 0.05310492071996673
-- obstructive: 0.05112416065313837
-- hydronephrosis: 0.05005417345871684
-- 23: 0.047231723637908535
-- visible: 0.047032951156986434
-- partially: 0.04546794936660545
-- control: 0.04529694765277178
-- contrast: 0.04448315550716059
-- affected: 0.0429944722273226
-- thrombosis: 0.04265144124596564
-- junction: 0.04161716815275057
-- administration: 0.0412518635453857
-- tender: 0.040330359223825926
-- conservative: 0.03968419816388626
-- stenosis: 0.03892393352129496
-- reveals: 0.03887497384063981
-- management: 0.03749455166808885
-- calcification: 0.03606727463322243
-- vein: 0.03595271304667578
-- obstruction: 0.03503953544871437
-- side: 0.03442379653214036
-- artery: 0.029587558047769753
-- abdomen: 0.029434700731345305
-- axial: 0.028358040419393854
-- abdominal: 0.02483627021072227
-- consistent: 0.02436393335850236
-- pain: 0.02426995738443569
-- without: 0.02339550193439721
-- demonstrate: 0.02286572257364001
-- left: 0.02223500626216081
-- 's: 0.021907518818221453
-- female: 0.020427445016835275
-- presents: 0.0202981894826503
-- images: 0.01906120804592272
-- on: 0.016834674706172746
-- disease: 0.016241134200182607
-- there: 0.014787390191453356
-- ct: 0.01389887969060515
-- a: 0.013834876807625626
-- history: 0.01372342485705911
-- at: 0.01346236224222829
-- year: 0.011117503131080404
-- old: 0.010173658103049472
-- with: 0.009523595728246839
-- is: 0.00653826486493867
-- the: 0.004822649466405551
-- and: 0.0041862559472608946
-- ,: 0.0031477914595033417
-- .: 0.002063926517287574
-- of: 0.0013546953581161445
+\-\ Texto\\:\\ \ \(0\)\
+\-\ tender\\ abdomen\ \(10\)\
+\-\ microhematuria\ \(16\)\
+\-\ conservative\\ management\\ with\\ hydration\\ and\\ pain\\ control\\.\ \(0\)\
+\-\ axial\\ ct\\ images\\ with\\ and\\ without\\ contrast\\ demonstrate\\ delayed\\ nephrogram\\ on\\ the\\ left\\ with\\ hydronephrosis\\.\\ distally\\ at\\ the\\ left\\ ureterovesical\\ junction\\,\\ there\\ is\\ a\\ barely\\ visible\\ punctate\\ calcification\\ consistent\\ with\\ a\\ ureterolith\\.\ \(0\)\
+\-\ nephrolithiasis\ \(32\)\
+\-\ renal\\ artery\\ stenosis\ \(8\)\
+\-\ renal\\ vein\\ thrombosis\ \(4\)\
+\-\ ureteral\\ obstruction\ \(6\)\
+\-\ 23\\ year\\ old\\ female\\ with\\ history\\ of\\ crohn\\'s\\ disease\\ presents\\ with\\ non\\-specific\\ abdominal\\ pain\\.\ \(0\)\
+\-\ contrast\\ administration\\ with\\ partially\\ obstructive\\ nephropathy\\ reveals\\ a\\ delayed\\ nephrogram\\ on\\ the\\ affected\\ side\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ nephrogram\\:\\ 0\\.1436386301011916\ \(0\)\
+\-\ ureterolith\\:\\ 0\\.08638632631216986\ \(0\)\
+\-\ delayed\\:\\ 0\\.08088326382012047\ \(0\)\
+\-\ ureterovesical\\:\\ 0\\.07987916598733935\ \(0\)\
+\-\ barely\\:\\ 0\\.07695690519337532\ \(0\)\
+\-\ microhematuria\\:\\ 0\\.07268103565703443\ \(0\)\
+\-\ nephropathy\\:\\ 0\\.07268103565703443\ \(0\)\
+\-\ hydration\\:\\ 0\\.06826836563720998\ \(0\)\
+\-\ renal\\:\\ 0\\.05970873370832719\ \(0\)\
+\-\ nephrolithiasis\\:\\ 0\\.05850382314009578\ \(0\)\
+\-\ distally\\:\\ 0\\.05824251086274626\ \(0\)\
+\-\ ureteral\\:\\ 0\\.05824251086274626\ \(0\)\
+\-\ punctate\\:\\ 0\\.0579869421799698\ \(0\)\
+\-\ non\\-specific\\:\\ 0\\.05749206294254195\ \(0\)\
+\-\ crohn\\:\\ 0\\.05310492071996673\ \(0\)\
+\-\ obstructive\\:\\ 0\\.05112416065313837\ \(0\)\
+\-\ hydronephrosis\\:\\ 0\\.05005417345871684\ \(0\)\
+\-\ 23\\:\\ 0\\.047231723637908535\ \(0\)\
+\-\ visible\\:\\ 0\\.047032951156986434\ \(0\)\
+\-\ partially\\:\\ 0\\.04546794936660545\ \(0\)\
+\-\ control\\:\\ 0\\.04529694765277178\ \(0\)\
+\-\ contrast\\:\\ 0\\.04448315550716059\ \(0\)\
+\-\ affected\\:\\ 0\\.0429944722273226\ \(0\)\
+\-\ thrombosis\\:\\ 0\\.04265144124596564\ \(0\)\
+\-\ junction\\:\\ 0\\.04161716815275057\ \(0\)\
+\-\ administration\\:\\ 0\\.0412518635453857\ \(0\)\
+\-\ tender\\:\\ 0\\.040330359223825926\ \(0\)\
+\-\ conservative\\:\\ 0\\.03968419816388626\ \(0\)\
+\-\ stenosis\\:\\ 0\\.03892393352129496\ \(0\)\
+\-\ reveals\\:\\ 0\\.03887497384063981\ \(0\)\
+\-\ management\\:\\ 0\\.03749455166808885\ \(0\)\
+\-\ calcification\\:\\ 0\\.03606727463322243\ \(0\)\
+\-\ vein\\:\\ 0\\.03595271304667578\ \(0\)\
+\-\ obstruction\\:\\ 0\\.03503953544871437\ \(0\)\
+\-\ side\\:\\ 0\\.03442379653214036\ \(0\)\
+\-\ artery\\:\\ 0\\.029587558047769753\ \(0\)\
+\-\ abdomen\\:\\ 0\\.029434700731345305\ \(0\)\
+\-\ axial\\:\\ 0\\.028358040419393854\ \(0\)\
+\-\ abdominal\\:\\ 0\\.02483627021072227\ \(0\)\
+\-\ consistent\\:\\ 0\\.02436393335850236\ \(0\)\
+\-\ pain\\:\\ 0\\.02426995738443569\ \(0\)\
+\-\ without\\:\\ 0\\.02339550193439721\ \(0\)\
+\-\ demonstrate\\:\\ 0\\.02286572257364001\ \(0\)\
+\-\ left\\:\\ 0\\.02223500626216081\ \(0\)\
+\-\ \\'s\\:\\ 0\\.021907518818221453\ \(0\)\
+\-\ female\\:\\ 0\\.020427445016835275\ \(0\)\
+\-\ presents\\:\\ 0\\.0202981894826503\ \(0\)\
+\-\ images\\:\\ 0\\.01906120804592272\ \(0\)\
+\-\ on\\:\\ 0\\.016834674706172746\ \(0\)\
+\-\ disease\\:\\ 0\\.016241134200182607\ \(0\)\
+\-\ there\\:\\ 0\\.014787390191453356\ \(0\)\
+\-\ ct\\:\\ 0\\.01389887969060515\ \(0\)\
+\-\ a\\:\\ 0\\.013834876807625626\ \(0\)\
+\-\ history\\:\\ 0\\.01372342485705911\ \(0\)\
+\-\ at\\:\\ 0\\.01346236224222829\ \(0\)\
+\-\ year\\:\\ 0\\.011117503131080404\ \(0\)\
+\-\ old\\:\\ 0\\.010173658103049472\ \(0\)\
+\-\ with\\:\\ 0\\.009523595728246839\ \(0\)\
+\-\ is\\:\\ 0\\.00653826486493867\ \(0\)\
+\-\ the\\:\\ 0\\.004822649466405551\ \(0\)\
+\-\ and\\:\\ 0\\.0041862559472608946\ \(0\)\
+\-\ \\,\\:\\ 0\\.0031477914595033417\ \(0\)\
+\-\ \\.\\:\\ 0\\.002063926517287574\ \(0\)\
+\-\ of\\:\\ 0\\.0013546953581161445\ \(0\)\

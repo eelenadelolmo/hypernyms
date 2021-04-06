@@ -1,66 +1,64 @@
-Texto: 
-n/a except no abnormal afp. this is the first fetal ultrasound for this patient.
-supportive care; essentially fatal diagnosis
-enlarged, persistent urinary bladder in utero, with normal amount of amniotic fluid.
-megacystis microcolon intestinal hypoperistalsis syndrome (mmihs)
-urethral atresia/stricture
-prune-belly syndrome
-posterior urethral valves
-cloacal malformation
-21 wk iup fetus with abnormal us findings.
-intra-uterine us identified the urinary megacystis. post-partum ugi confirmed expectations for this rare anomaly.
-
-
-Keywords by value: 
-- megacystis: 0.37951149384761523
-- urethral: 0.26288719185383924
-- urinary: 0.20521511611050108
-- mmihs: 0.18975574692380762
-- us: 0.18876947027260693
-- hypoperistalsis: 0.1813217465116569
-- expectations: 0.1813217465116569
-- cloacal: 0.1753377279879731
-- microcolon: 0.16690372757582234
-- wk: 0.15846972716367158
-- iup: 0.14650169011630404
-- syndrome: 0.14306543157663637
-- abnormal: 0.14257309909881546
-- amniotic: 0.1418601247482409
-- fatal: 0.13895296391979145
-- utero: 0.13413130388196853
-- valves: 0.13144359592691962
-- ugi: 0.1308226302791402
-- afp: 0.1249921239239394
-- fetus: 0.12408759861537859
-- this: 0.12231635224832774
-- essentially: 0.12007504718477477
-- intestinal: 0.12007504718477477
-- except: 0.11057410498810487
-- fetal: 0.11011692604812238
-- anomaly: 0.10859157657893433
-- supportive: 0.09913269871291534
-- amount: 0.09492225353208425
-- 21: 0.09481363289664967
-- bladder: 0.09207673881223116
-- malformation: 0.09151452068420722
-- persistent: 0.09142227749792514
-- rare: 0.08957405660568758
-- confirmed: 0.0874922401587496
-- care: 0.08478145609259403
-- identified: 0.08412314784642176
-- enlarged: 0.0808889367924603
-- first: 0.0800731144090177
-- ultrasound: 0.07318882649585048
-- for: 0.07192705602895366
-- fluid: 0.06850898916773895
-- diagnosis: 0.06151009598163633
-- posterior: 0.06135770845452144
-- findings: 0.0585611778896699
-- normal: 0.0484461865785379
-- the: 0.04735208625195798
-- with: 0.046468404558641055
-- patient: 0.03859263094436679
-- no: 0.038585371895464585
-- is: 0.032494575614297846
-- in: 0.029517601925727735
-- of: 0.023220328138790696
+\-\ Texto\\:\\ \ \(0\)\
+\-\ n\\/a\\ except\\ no\\ abnormal\\ afp\\.\\ this\\ is\\ the\\ first\\ fetal\\ ultrasound\\ for\\ this\\ patient\\.\ \(0\)\
+\-\ supportive\\ care\\;\\ essentially\\ fatal\\ diagnosis\ \(0\)\
+\-\ enlarged\\,\\ persistent\\ urinary\\ bladder\\ in\\ utero\\,\\ with\\ normal\\ amount\\ of\\ amniotic\\ fluid\\.\ \(0\)\
+\-\ megacystis\\ microcolon\\ intestinal\\ hypoperistalsis\\ syndrome\\ \\(mmihs\\)\ \(0\)\
+\-\ urethral\\ atresia\\/stricture\ \(1\)\
+\-\ prune\\-belly\\ syndrome\ \(1\)\
+\-\ posterior\\ urethral\\ valves\ \(12\)\
+\-\ cloacal\\ malformation\ \(2\)\
+\-\ 21\\ wk\\ iup\\ fetus\\ with\\ abnormal\\ us\\ findings\\.\ \(0\)\
+\-\ intra\\-uterine\\ us\\ identified\\ the\\ urinary\\ megacystis\\.\\ post\\-partum\\ ugi\\ confirmed\\ expectations\\ for\\ this\\ rare\\ anomaly\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ megacystis\\:\\ 0\\.37951149384761523\ \(0\)\
+\-\ urethral\\:\\ 0\\.26288719185383924\ \(0\)\
+\-\ urinary\\:\\ 0\\.20521511611050108\ \(0\)\
+\-\ mmihs\\:\\ 0\\.18975574692380762\ \(0\)\
+\-\ us\\:\\ 0\\.18876947027260693\ \(0\)\
+\-\ hypoperistalsis\\:\\ 0\\.1813217465116569\ \(0\)\
+\-\ expectations\\:\\ 0\\.1813217465116569\ \(0\)\
+\-\ cloacal\\:\\ 0\\.1753377279879731\ \(0\)\
+\-\ microcolon\\:\\ 0\\.16690372757582234\ \(0\)\
+\-\ wk\\:\\ 0\\.15846972716367158\ \(0\)\
+\-\ iup\\:\\ 0\\.14650169011630404\ \(0\)\
+\-\ syndrome\\:\\ 0\\.14306543157663637\ \(0\)\
+\-\ abnormal\\:\\ 0\\.14257309909881546\ \(0\)\
+\-\ amniotic\\:\\ 0\\.1418601247482409\ \(0\)\
+\-\ fatal\\:\\ 0\\.13895296391979145\ \(0\)\
+\-\ utero\\:\\ 0\\.13413130388196853\ \(0\)\
+\-\ valves\\:\\ 0\\.13144359592691962\ \(0\)\
+\-\ ugi\\:\\ 0\\.1308226302791402\ \(0\)\
+\-\ afp\\:\\ 0\\.1249921239239394\ \(0\)\
+\-\ fetus\\:\\ 0\\.12408759861537859\ \(0\)\
+\-\ this\\:\\ 0\\.12231635224832774\ \(0\)\
+\-\ essentially\\:\\ 0\\.12007504718477477\ \(0\)\
+\-\ intestinal\\:\\ 0\\.12007504718477477\ \(0\)\
+\-\ except\\:\\ 0\\.11057410498810487\ \(0\)\
+\-\ fetal\\:\\ 0\\.11011692604812238\ \(0\)\
+\-\ anomaly\\:\\ 0\\.10859157657893433\ \(0\)\
+\-\ supportive\\:\\ 0\\.09913269871291534\ \(0\)\
+\-\ amount\\:\\ 0\\.09492225353208425\ \(0\)\
+\-\ 21\\:\\ 0\\.09481363289664967\ \(0\)\
+\-\ bladder\\:\\ 0\\.09207673881223116\ \(0\)\
+\-\ malformation\\:\\ 0\\.09151452068420722\ \(0\)\
+\-\ persistent\\:\\ 0\\.09142227749792514\ \(0\)\
+\-\ rare\\:\\ 0\\.08957405660568758\ \(0\)\
+\-\ confirmed\\:\\ 0\\.0874922401587496\ \(0\)\
+\-\ care\\:\\ 0\\.08478145609259403\ \(0\)\
+\-\ identified\\:\\ 0\\.08412314784642176\ \(0\)\
+\-\ enlarged\\:\\ 0\\.0808889367924603\ \(0\)\
+\-\ first\\:\\ 0\\.0800731144090177\ \(0\)\
+\-\ ultrasound\\:\\ 0\\.07318882649585048\ \(0\)\
+\-\ for\\:\\ 0\\.07192705602895366\ \(0\)\
+\-\ fluid\\:\\ 0\\.06850898916773895\ \(0\)\
+\-\ diagnosis\\:\\ 0\\.06151009598163633\ \(0\)\
+\-\ posterior\\:\\ 0\\.06135770845452144\ \(0\)\
+\-\ findings\\:\\ 0\\.0585611778896699\ \(0\)\
+\-\ normal\\:\\ 0\\.0484461865785379\ \(0\)\
+\-\ the\\:\\ 0\\.04735208625195798\ \(0\)\
+\-\ with\\:\\ 0\\.046468404558641055\ \(0\)\
+\-\ patient\\:\\ 0\\.03859263094436679\ \(0\)\
+\-\ no\\:\\ 0\\.038585371895464585\ \(0\)\
+\-\ is\\:\\ 0\\.032494575614297846\ \(0\)\
+\-\ in\\:\\ 0\\.029517601925727735\ \(0\)\
+\-\ of\\:\\ 0\\.023220328138790696\ \(0\)\

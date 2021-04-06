@@ -1,226 +1,219 @@
-Texto: 
-the patient demonstrates multiple dysmorphic features including small palpebral fissures, low set ears, cleft lip, small mouth, protruding large tongue and micrognathia. musculoskeletal exam reveals shortened extremities, the right wrist held in flexion, the right hand malrotated with five digits with a small right thumb, bilateral simian creases, and rocker bottom feet. other significant findings include right choanal atresia/stenosis, ii/vi diastolic murmur best heard at lusb, left inguinal hernia, upper body hypotonia, and absent motor reflexes throughout.
-prenatal ultrasound (34+1): singleton gestation with findings of bilateral cleft lip, probable cleft palate, left choroid plexus cyst, rocker bottom feet, and left hydroureter. 
-
-radiography: absent right radius, left hernia, paucity of bowel gas and cardiomegaly
-
-left arm radiograph (ap view): absent right radius
-
-head ultrasound: left choroid plexus cyst 
-
-renal ultrasound: bilateral hydronephrosis and pelviectasis with increased echogenicity of bilateral kidneys
-
-echocardiogram (not shown): large vsd with bidirectional flow, decreased left ventricular function, dilated right ventricle and right atrium, dilated mpa and branch pulmonary arteries and trace aortic regurgitation
-trisomy 18
-trisomy 18 (edwardâ€™s syndrome)
-pena-shokeir i syndrome (pseudo-trisomy 18, fetal akinesia syndrome)
-arthrogryposis multiplex congenital
-trisomy 13
-trisomy 9
-the patient was born at 36+3 weeks to a 46 year-old g10p2 mother.  there was a maternal history of spontaneous abortions suspected to be due to an isolated pt 20210 mutation. prenatal quad screen was abnormal (downâ€™s 1:108, trisomy 18 >1:10), and prenatal ultrasound also had multiple abnormal findings.  due to maternal history of multiple fetal losses, the mother denied amniocentesis. upon delivery, the patient was transferred to the nicu due to respiratory distress secondary to prematurity.
-an abnormal quad screen in a mother of advanced maternal age is suspect for aneuploidy. prenatal ultrasound findings of a choroid plexus cyst in association with dysmporhic features is concerning for a trisomy 18. due to an extensive history of multiple abortions, the mother declined invasive prenatal testing by amniocentesis, eventually delivering the patient prematurely at 36 weeks. physical exam findings along with postnatal radiographic findings of radial aplasia, inguinal hernia, vsd and pelvicaliectasis further support a diagnosis of trisomy 18, which was later confirmed by cytogenetic testing. the family decided to withdraw care for the neonate after 16 days of life due to multiple complications and poor prognosis.
-
-
-Keywords by value: 
-- trisomy: 0.42307752720047176
-- prenatal: 0.2112215040543698
-- 18: 0.19474409866444914
-- mother: 0.14639126256906487
-- maternal: 0.1403868634484555
-- ultrasound: 0.13209978886586055
-- findings: 0.1268377090658792
-- rocker: 0.12323699188471694
-- due: 0.12310497543750079
-- choroid: 0.12050995237298939
-- quad: 0.12049897903440915
-- amniocentesis: 0.12049897903440915
-- abortions: 0.1181840221545285
-- cleft: 0.11606032207161225
-- plexus: 0.11584880652026168
-- right: 0.11360629784999374
-- to: 0.10708071969104853
-- hernia: 0.10636703050084301
-- and: 0.1062100492644834
-- absent: 0.10541984180967588
-- bottom: 0.10485895191734747
-- multiple: 0.10475184407110556
-- left: 0.10227799658801634
-- vsd: 0.1003194507955702
-- lip: 0.09791150604082903
-- the: 0.09401326657773293
-- of: 0.09220370514274
-- bilateral: 0.09207933171876521
-- screen: 0.08836054867434115
-- inguinal: 0.0864290379992334
-- radius: 0.08542750069561979
-- feet: 0.08051358282748883
-- fetal: 0.07950078381070516
-- syndrome: 0.0774663874670065
-- abnormal: 0.07719980162534543
-- testing: 0.07695442799499079
-- was: 0.07463796836796208
-- cyst: 0.07412568492443783
-- 36: 0.07091135366722867
-- features: 0.06892909745261347
-- simian: 0.06849869113870773
-- creases: 0.06849869113870773
-- lusb: 0.06849869113870773
-- singleton: 0.06849869113870773
-- akinesia: 0.06849869113870773
-- g10p2: 0.06849869113870773
-- 20210: 0.06849869113870773
-- dysmporhic: 0.06849869113870773
-- small: 0.0662835306672178
-- aneuploidy: 0.06545415626342083
-- delivering: 0.06545415626342083
-- palpebral: 0.06329402439249147
-- micrognathia: 0.06329402439249147
-- mpa: 0.06329402439249147
-- edward: 0.06329402439249147
-- arthrogryposis: 0.06329402439249147
-- multiplex: 0.06329402439249147
-- losses: 0.06329402439249147
-- prematurely: 0.06329402439249147
-- pelvicaliectasis: 0.06329402439249147
-- cytogenetic: 0.06329402439249147
-- withdraw: 0.06329402439249147
-- choanal: 0.06161849594235847
-- hypotonia: 0.06161849594235847
-- dilated: 0.06135497775700224
-- bidirectional: 0.05909201107726425
-- with: 0.05871014344019482
-- malrotated: 0.05808935764627522
-- pelviectasis: 0.05808935764627522
-- dysmorphic: 0.05720495464191767
-- held: 0.05641382919614222
-- patient: 0.055725209911028924
-- postnatal: 0.055044822770988315
-- aplasia: 0.055044822770988315
-- hydroureter: 0.05388734433104799
-- shortened: 0.05288469090005897
-- suspect: 0.05288469090005897
-- diastolic: 0.052429475958673734
-- palate: 0.05200028789570141
-- neonate: 0.05159431081536705
-- weeks: 0.05134086427928205
-- protruding: 0.05120916244992596
-- declined: 0.05120916244992596
-- fissures: 0.050493502432377116
-- prematurity: 0.050493502432377116
-- trace: 0.04953363399979296
-- set: 0.04923913559132093
-- an: 0.04913715540279216
-- history: 0.04909362642168639
-- decided: 0.048955753020414515
-- at: 0.048535273471834166
-- paucity: 0.04841918574583296
-- mutation: 0.04816462757463905
-- ears: 0.04791841709402615
-- nicu: 0.04744896755709021
-- digits: 0.04679562114948516
-- regurgitation: 0.04679562114948516
-- tongue: 0.046194600716034026
-- thumb: 0.04546145815996067
-- heard: 0.045288835686160864
-- echocardiogram: 0.045120092699352146
-- cardiomegaly: 0.04479357399969385
-- probable: 0.0443289672535767
-- radiography: 0.043751086274198256
-- atrium: 0.04347801083861548
-- exam: 0.043123929114634085
-- large: 0.042922542080105534
-- eventually: 0.042713750347809894
-- gestation: 0.04247535740762645
-- mouth: 0.04224430081087396
-- branch: 0.04202014246624122
-- transferred: 0.04191052377628193
-- echogenicity: 0.04180248238848248
-- support: 0.041590954403268904
-- concerning: 0.04108682237093363
-- born: 0.04089427984944839
-- isolated: 0.04070655139891135
-- musculoskeletal: 0.040614418379147754
-- murmur: 0.040614418379147754
-- delivery: 0.040256791413744414
-- advanced: 0.040256791413744414
-- hydronephrosis: 0.03975039190535258
-- 46: 0.03935301098726703
-- invasive: 0.038975607590954316
-- for: 0.038946719205996835
-- five: 0.038686774023870746
-- denied: 0.038686774023870746
-- association: 0.038546419527982
-- prognosis: 0.03769298047226276
-- gas: 0.03750908360159364
-- reflexes: 0.037448772057227436
-- spontaneous: 0.0372706906614102
-- wrist: 0.03698296400770731
-- kidneys: 0.036870891077848994
-- radial: 0.03676046633916323
-- flexion: 0.036386287657052645
-- by: 0.03637843301968127
-- poor: 0.03612999155114337
-- ventricular: 0.036029873442504606
-- life: 0.03513994726989196
-- suspected: 0.03509590757236073
-- down: 0.034794656693196015
-- function: 0.03466915939467527
-- distress: 0.03450502724430512
-- best: 0.034464548726306735
-- arm: 0.03418714922097921
-- motor: 0.03407133077717199
-- respiratory: 0.03407133077717199
-- arteries: 0.0339950991893708
-- upon: 0.033697684196319765
-- family: 0.033697684196319765
-- hand: 0.033482107277654494
-- 16: 0.03337659621739515
-- shown: 0.03320397374359534
-- aortic: 0.033102273585247054
-- extensive: 0.03300193248978172
-- complications: 0.03280518550718419
-- reveals: 0.03258197914314281
-- extremities: 0.03255062733599029
-- 13: 0.03230441685537738
-- in: 0.03196610058315029
-- radiographic: 0.03177829726149105
-- confirmed: 0.03158325390837429
-- ventricle: 0.03152844529346233
-- throughout: 0.03150119028384942
-- view: 0.03136637971652387
-- pt: 0.03082520669628835
-- congenital: 0.03077564383050203
-- ap: 0.030750984541001784
-- including: 0.030653149321032868
-- later: 0.030653149321032868
-- care: 0.03060470562458567
-- along: 0.028696218573466516
-- flow: 0.028529556436582233
-- body: 0.028189412009703412
-- radiograph: 0.027897606839030805
-- further: 0.027897606839030805
-- bowel: 0.027488086225405457
-- days: 0.027114903993021532
-- age: 0.026890745648388795
-- renal: 0.026673085570630053
-- decreased: 0.026531406897521707
-- pulmonary: 0.026108459222944507
-- head: 0.025546317794785525
-- include: 0.025485021561295326
-- secondary: 0.025387976631752535
-- significant: 0.024730613777459446
-- low: 0.024577591805352985
-- is: 0.02346001040570233
-- physical: 0.023224832224411962
-- increased: 0.0231618465605061
-- upper: 0.02288909114311777
-- other: 0.022243669535091864
-- diagnosis: 0.02220412891236522
-- demonstrates: 0.021518644743483625
-- had: 0.021340788325476603
-- after: 0.02077880825850475
-- also: 0.020147238974355247
-- which: 0.019476420488817286
-- be: 0.017375483372507612
-- there: 0.017042968327338117
-- not: 0.01690930124013387
+\-\ Texto\\:\\ \ \(0\)\
+\-\ the\\ patient\\ demonstrates\\ multiple\\ dysmorphic\\ features\\ including\\ small\\ palpebral\\ fissures\\,\\ low\\ set\\ ears\\,\\ cleft\\ lip\\,\\ small\\ mouth\\,\\ protruding\\ large\\ tongue\\ and\\ micrognathia\\.\\ musculoskeletal\\ exam\\ reveals\\ shortened\\ extremities\\,\\ the\\ right\\ wrist\\ held\\ in\\ flexion\\,\\ the\\ right\\ hand\\ malrotated\\ with\\ five\\ digits\\ with\\ a\\ small\\ right\\ thumb\\,\\ bilateral\\ simian\\ creases\\,\\ and\\ rocker\\ bottom\\ feet\\.\\ other\\ significant\\ findings\\ include\\ right\\ choanal\\ atresia\\/stenosis\\,\\ ii\\/vi\\ diastolic\\ murmur\\ best\\ heard\\ at\\ lusb\\,\\ left\\ inguinal\\ hernia\\,\\ upper\\ body\\ hypotonia\\,\\ and\\ absent\\ motor\\ reflexes\\ throughout\\.\ \(0\)\
+\-\ prenatal\\ ultrasound\\ \\(34\\+1\\)\\:\\ singleton\\ gestation\\ with\\ findings\\ of\\ bilateral\\ cleft\\ lip\\,\\ probable\\ cleft\\ palate\\,\\ left\\ choroid\\ plexus\\ cyst\\,\\ rocker\\ bottom\\ feet\\,\\ and\\ left\\ hydroureter\\.\\ \ \(0\)\
+\-\ radiography\\:\\ absent\\ right\\ radius\\,\\ left\\ hernia\\,\\ paucity\\ of\\ bowel\\ gas\\ and\\ cardiomegaly\ \(0\)\
+\-\ left\\ arm\\ radiograph\\ \\(ap\\ view\\)\\:\\ absent\\ right\\ radius\ \(0\)\
+\-\ head\\ ultrasound\\:\\ left\\ choroid\\ plexus\\ cyst\\ \ \(0\)\
+\-\ renal\\ ultrasound\\:\\ bilateral\\ hydronephrosis\\ and\\ pelviectasis\\ with\\ increased\\ echogenicity\\ of\\ bilateral\\ kidneys\ \(0\)\
+\-\ echocardiogram\\ \\(not\\ shown\\)\\:\\ large\\ vsd\\ with\\ bidirectional\\ flow\\,\\ decreased\\ left\\ ventricular\\ function\\,\\ dilated\\ right\\ ventricle\\ and\\ right\\ atrium\\,\\ dilated\\ mpa\\ and\\ branch\\ pulmonary\\ arteries\\ and\\ trace\\ aortic\\ regurgitation\ \(0\)\
+\-\ trisomy\\ 18\ \(8\)\
+\-\ trisomy\\ 18\\ \\(edward\\â\\€\\™s\\ syndrome\\)\ \(0\)\
+\-\ pena\\-shokeir\\ i\\ syndrome\\ \\(pseudo\\-trisomy\\ 18\\,\\ fetal\\ akinesia\\ syndrome\\)\ \(0\)\
+\-\ arthrogryposis\\ multiplex\\ congenital\ \(0\)\
+\-\ trisomy\\ 13\ \(1\)\
+\-\ trisomy\\ 9\ \(0\)\
+\-\ the\\ patient\\ was\\ born\\ at\\ 36\\+3\\ weeks\\ to\\ a\\ 46\\ year\\-old\\ g10p2\\ mother\\.\\ \\ there\\ was\\ a\\ maternal\\ history\\ of\\ spontaneous\\ abortions\\ suspected\\ to\\ be\\ due\\ to\\ an\\ isolated\\ pt\\ 20210\\ mutation\\.\\ prenatal\\ quad\\ screen\\ was\\ abnormal\\ \\(down\\â\\€\\™s\\ 1\\:108\\,\\ trisomy\\ 18\\ \\>1\\:10\\)\\,\\ and\\ prenatal\\ ultrasound\\ also\\ had\\ multiple\\ abnormal\\ findings\\.\\ \\ due\\ to\\ maternal\\ history\\ of\\ multiple\\ fetal\\ losses\\,\\ the\\ mother\\ denied\\ amniocentesis\\.\\ upon\\ delivery\\,\\ the\\ patient\\ was\\ transferred\\ to\\ the\\ nicu\\ due\\ to\\ respiratory\\ distress\\ secondary\\ to\\ prematurity\\.\ \(0\)\
+\-\ an\\ abnormal\\ quad\\ screen\\ in\\ a\\ mother\\ of\\ advanced\\ maternal\\ age\\ is\\ suspect\\ for\\ aneuploidy\\.\\ prenatal\\ ultrasound\\ findings\\ of\\ a\\ choroid\\ plexus\\ cyst\\ in\\ association\\ with\\ dysmporhic\\ features\\ is\\ concerning\\ for\\ a\\ trisomy\\ 18\\.\\ due\\ to\\ an\\ extensive\\ history\\ of\\ multiple\\ abortions\\,\\ the\\ mother\\ declined\\ invasive\\ prenatal\\ testing\\ by\\ amniocentesis\\,\\ eventually\\ delivering\\ the\\ patient\\ prematurely\\ at\\ 36\\ weeks\\.\\ physical\\ exam\\ findings\\ along\\ with\\ postnatal\\ radiographic\\ findings\\ of\\ radial\\ aplasia\\,\\ inguinal\\ hernia\\,\\ vsd\\ and\\ pelvicaliectasis\\ further\\ support\\ a\\ diagnosis\\ of\\ trisomy\\ 18\\,\\ which\\ was\\ later\\ confirmed\\ by\\ cytogenetic\\ testing\\.\\ the\\ family\\ decided\\ to\\ withdraw\\ care\\ for\\ the\\ neonate\\ after\\ 16\\ days\\ of\\ life\\ due\\ to\\ multiple\\ complications\\ and\\ poor\\ prognosis\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ trisomy\\:\\ 0\\.42307752720047176\ \(0\)\
+\-\ prenatal\\:\\ 0\\.2112215040543698\ \(0\)\
+\-\ 18\\:\\ 0\\.19474409866444914\ \(0\)\
+\-\ mother\\:\\ 0\\.14639126256906487\ \(0\)\
+\-\ maternal\\:\\ 0\\.1403868634484555\ \(0\)\
+\-\ ultrasound\\:\\ 0\\.13209978886586055\ \(0\)\
+\-\ findings\\:\\ 0\\.1268377090658792\ \(0\)\
+\-\ rocker\\:\\ 0\\.12323699188471694\ \(0\)\
+\-\ due\\:\\ 0\\.12310497543750079\ \(0\)\
+\-\ choroid\\:\\ 0\\.12050995237298939\ \(0\)\
+\-\ quad\\:\\ 0\\.12049897903440915\ \(0\)\
+\-\ amniocentesis\\:\\ 0\\.12049897903440915\ \(0\)\
+\-\ abortions\\:\\ 0\\.1181840221545285\ \(0\)\
+\-\ cleft\\:\\ 0\\.11606032207161225\ \(0\)\
+\-\ plexus\\:\\ 0\\.11584880652026168\ \(0\)\
+\-\ right\\:\\ 0\\.11360629784999374\ \(0\)\
+\-\ to\\:\\ 0\\.10708071969104853\ \(0\)\
+\-\ hernia\\:\\ 0\\.10636703050084301\ \(0\)\
+\-\ and\\:\\ 0\\.1062100492644834\ \(0\)\
+\-\ absent\\:\\ 0\\.10541984180967588\ \(0\)\
+\-\ bottom\\:\\ 0\\.10485895191734747\ \(0\)\
+\-\ multiple\\:\\ 0\\.10475184407110556\ \(0\)\
+\-\ left\\:\\ 0\\.10227799658801634\ \(0\)\
+\-\ vsd\\:\\ 0\\.1003194507955702\ \(0\)\
+\-\ lip\\:\\ 0\\.09791150604082903\ \(0\)\
+\-\ the\\:\\ 0\\.09401326657773293\ \(0\)\
+\-\ of\\:\\ 0\\.09220370514274\ \(0\)\
+\-\ bilateral\\:\\ 0\\.09207933171876521\ \(0\)\
+\-\ screen\\:\\ 0\\.08836054867434115\ \(0\)\
+\-\ inguinal\\:\\ 0\\.0864290379992334\ \(0\)\
+\-\ radius\\:\\ 0\\.08542750069561979\ \(0\)\
+\-\ feet\\:\\ 0\\.08051358282748883\ \(0\)\
+\-\ fetal\\:\\ 0\\.07950078381070516\ \(0\)\
+\-\ syndrome\\:\\ 0\\.0774663874670065\ \(0\)\
+\-\ abnormal\\:\\ 0\\.07719980162534543\ \(0\)\
+\-\ testing\\:\\ 0\\.07695442799499079\ \(0\)\
+\-\ was\\:\\ 0\\.07463796836796208\ \(0\)\
+\-\ cyst\\:\\ 0\\.07412568492443783\ \(0\)\
+\-\ 36\\:\\ 0\\.07091135366722867\ \(0\)\
+\-\ features\\:\\ 0\\.06892909745261347\ \(0\)\
+\-\ simian\\:\\ 0\\.06849869113870773\ \(0\)\
+\-\ creases\\:\\ 0\\.06849869113870773\ \(0\)\
+\-\ lusb\\:\\ 0\\.06849869113870773\ \(0\)\
+\-\ singleton\\:\\ 0\\.06849869113870773\ \(0\)\
+\-\ akinesia\\:\\ 0\\.06849869113870773\ \(0\)\
+\-\ g10p2\\:\\ 0\\.06849869113870773\ \(0\)\
+\-\ 20210\\:\\ 0\\.06849869113870773\ \(0\)\
+\-\ dysmporhic\\:\\ 0\\.06849869113870773\ \(0\)\
+\-\ small\\:\\ 0\\.0662835306672178\ \(0\)\
+\-\ aneuploidy\\:\\ 0\\.06545415626342083\ \(0\)\
+\-\ delivering\\:\\ 0\\.06545415626342083\ \(0\)\
+\-\ palpebral\\:\\ 0\\.06329402439249147\ \(0\)\
+\-\ micrognathia\\:\\ 0\\.06329402439249147\ \(0\)\
+\-\ mpa\\:\\ 0\\.06329402439249147\ \(0\)\
+\-\ edward\\:\\ 0\\.06329402439249147\ \(0\)\
+\-\ arthrogryposis\\:\\ 0\\.06329402439249147\ \(0\)\
+\-\ multiplex\\:\\ 0\\.06329402439249147\ \(0\)\
+\-\ losses\\:\\ 0\\.06329402439249147\ \(0\)\
+\-\ prematurely\\:\\ 0\\.06329402439249147\ \(0\)\
+\-\ pelvicaliectasis\\:\\ 0\\.06329402439249147\ \(0\)\
+\-\ cytogenetic\\:\\ 0\\.06329402439249147\ \(0\)\
+\-\ withdraw\\:\\ 0\\.06329402439249147\ \(0\)\
+\-\ choanal\\:\\ 0\\.06161849594235847\ \(0\)\
+\-\ hypotonia\\:\\ 0\\.06161849594235847\ \(0\)\
+\-\ dilated\\:\\ 0\\.06135497775700224\ \(0\)\
+\-\ bidirectional\\:\\ 0\\.05909201107726425\ \(0\)\
+\-\ with\\:\\ 0\\.05871014344019482\ \(0\)\
+\-\ malrotated\\:\\ 0\\.05808935764627522\ \(0\)\
+\-\ pelviectasis\\:\\ 0\\.05808935764627522\ \(0\)\
+\-\ dysmorphic\\:\\ 0\\.05720495464191767\ \(0\)\
+\-\ held\\:\\ 0\\.05641382919614222\ \(0\)\
+\-\ patient\\:\\ 0\\.055725209911028924\ \(0\)\
+\-\ postnatal\\:\\ 0\\.055044822770988315\ \(0\)\
+\-\ aplasia\\:\\ 0\\.055044822770988315\ \(0\)\
+\-\ hydroureter\\:\\ 0\\.05388734433104799\ \(0\)\
+\-\ shortened\\:\\ 0\\.05288469090005897\ \(0\)\
+\-\ suspect\\:\\ 0\\.05288469090005897\ \(0\)\
+\-\ diastolic\\:\\ 0\\.052429475958673734\ \(0\)\
+\-\ palate\\:\\ 0\\.05200028789570141\ \(0\)\
+\-\ neonate\\:\\ 0\\.05159431081536705\ \(0\)\
+\-\ weeks\\:\\ 0\\.05134086427928205\ \(0\)\
+\-\ protruding\\:\\ 0\\.05120916244992596\ \(0\)\
+\-\ declined\\:\\ 0\\.05120916244992596\ \(0\)\
+\-\ fissures\\:\\ 0\\.050493502432377116\ \(0\)\
+\-\ prematurity\\:\\ 0\\.050493502432377116\ \(0\)\
+\-\ trace\\:\\ 0\\.04953363399979296\ \(0\)\
+\-\ set\\:\\ 0\\.04923913559132093\ \(0\)\
+\-\ an\\:\\ 0\\.04913715540279216\ \(0\)\
+\-\ history\\:\\ 0\\.04909362642168639\ \(0\)\
+\-\ decided\\:\\ 0\\.048955753020414515\ \(0\)\
+\-\ at\\:\\ 0\\.048535273471834166\ \(0\)\
+\-\ paucity\\:\\ 0\\.04841918574583296\ \(0\)\
+\-\ mutation\\:\\ 0\\.04816462757463905\ \(0\)\
+\-\ ears\\:\\ 0\\.04791841709402615\ \(0\)\
+\-\ nicu\\:\\ 0\\.04744896755709021\ \(0\)\
+\-\ digits\\:\\ 0\\.04679562114948516\ \(0\)\
+\-\ regurgitation\\:\\ 0\\.04679562114948516\ \(0\)\
+\-\ tongue\\:\\ 0\\.046194600716034026\ \(0\)\
+\-\ thumb\\:\\ 0\\.04546145815996067\ \(0\)\
+\-\ heard\\:\\ 0\\.045288835686160864\ \(0\)\
+\-\ echocardiogram\\:\\ 0\\.045120092699352146\ \(0\)\
+\-\ cardiomegaly\\:\\ 0\\.04479357399969385\ \(0\)\
+\-\ probable\\:\\ 0\\.0443289672535767\ \(0\)\
+\-\ radiography\\:\\ 0\\.043751086274198256\ \(0\)\
+\-\ atrium\\:\\ 0\\.04347801083861548\ \(0\)\
+\-\ exam\\:\\ 0\\.043123929114634085\ \(0\)\
+\-\ large\\:\\ 0\\.042922542080105534\ \(0\)\
+\-\ eventually\\:\\ 0\\.042713750347809894\ \(0\)\
+\-\ gestation\\:\\ 0\\.04247535740762645\ \(0\)\
+\-\ mouth\\:\\ 0\\.04224430081087396\ \(0\)\
+\-\ branch\\:\\ 0\\.04202014246624122\ \(0\)\
+\-\ transferred\\:\\ 0\\.04191052377628193\ \(0\)\
+\-\ echogenicity\\:\\ 0\\.04180248238848248\ \(0\)\
+\-\ support\\:\\ 0\\.041590954403268904\ \(0\)\
+\-\ concerning\\:\\ 0\\.04108682237093363\ \(0\)\
+\-\ born\\:\\ 0\\.04089427984944839\ \(0\)\
+\-\ isolated\\:\\ 0\\.04070655139891135\ \(0\)\
+\-\ musculoskeletal\\:\\ 0\\.040614418379147754\ \(0\)\
+\-\ murmur\\:\\ 0\\.040614418379147754\ \(0\)\
+\-\ delivery\\:\\ 0\\.040256791413744414\ \(0\)\
+\-\ advanced\\:\\ 0\\.040256791413744414\ \(0\)\
+\-\ hydronephrosis\\:\\ 0\\.03975039190535258\ \(0\)\
+\-\ 46\\:\\ 0\\.03935301098726703\ \(0\)\
+\-\ invasive\\:\\ 0\\.038975607590954316\ \(0\)\
+\-\ for\\:\\ 0\\.038946719205996835\ \(0\)\
+\-\ five\\:\\ 0\\.038686774023870746\ \(0\)\
+\-\ denied\\:\\ 0\\.038686774023870746\ \(0\)\
+\-\ association\\:\\ 0\\.038546419527982\ \(0\)\
+\-\ prognosis\\:\\ 0\\.03769298047226276\ \(0\)\
+\-\ gas\\:\\ 0\\.03750908360159364\ \(0\)\
+\-\ reflexes\\:\\ 0\\.037448772057227436\ \(0\)\
+\-\ spontaneous\\:\\ 0\\.0372706906614102\ \(0\)\
+\-\ wrist\\:\\ 0\\.03698296400770731\ \(0\)\
+\-\ kidneys\\:\\ 0\\.036870891077848994\ \(0\)\
+\-\ radial\\:\\ 0\\.03676046633916323\ \(0\)\
+\-\ flexion\\:\\ 0\\.036386287657052645\ \(0\)\
+\-\ by\\:\\ 0\\.03637843301968127\ \(0\)\
+\-\ poor\\:\\ 0\\.03612999155114337\ \(0\)\
+\-\ ventricular\\:\\ 0\\.036029873442504606\ \(0\)\
+\-\ life\\:\\ 0\\.03513994726989196\ \(0\)\
+\-\ suspected\\:\\ 0\\.03509590757236073\ \(0\)\
+\-\ down\\:\\ 0\\.034794656693196015\ \(0\)\
+\-\ function\\:\\ 0\\.03466915939467527\ \(0\)\
+\-\ distress\\:\\ 0\\.03450502724430512\ \(0\)\
+\-\ best\\:\\ 0\\.034464548726306735\ \(0\)\
+\-\ arm\\:\\ 0\\.03418714922097921\ \(0\)\
+\-\ motor\\:\\ 0\\.03407133077717199\ \(0\)\
+\-\ respiratory\\:\\ 0\\.03407133077717199\ \(0\)\
+\-\ arteries\\:\\ 0\\.0339950991893708\ \(0\)\
+\-\ upon\\:\\ 0\\.033697684196319765\ \(0\)\
+\-\ family\\:\\ 0\\.033697684196319765\ \(0\)\
+\-\ hand\\:\\ 0\\.033482107277654494\ \(0\)\
+\-\ 16\\:\\ 0\\.03337659621739515\ \(0\)\
+\-\ shown\\:\\ 0\\.03320397374359534\ \(0\)\
+\-\ aortic\\:\\ 0\\.033102273585247054\ \(0\)\
+\-\ extensive\\:\\ 0\\.03300193248978172\ \(0\)\
+\-\ complications\\:\\ 0\\.03280518550718419\ \(0\)\
+\-\ reveals\\:\\ 0\\.03258197914314281\ \(0\)\
+\-\ extremities\\:\\ 0\\.03255062733599029\ \(0\)\
+\-\ 13\\:\\ 0\\.03230441685537738\ \(0\)\
+\-\ in\\:\\ 0\\.03196610058315029\ \(0\)\
+\-\ radiographic\\:\\ 0\\.03177829726149105\ \(0\)\
+\-\ confirmed\\:\\ 0\\.03158325390837429\ \(0\)\
+\-\ ventricle\\:\\ 0\\.03152844529346233\ \(0\)\
+\-\ throughout\\:\\ 0\\.03150119028384942\ \(0\)\
+\-\ view\\:\\ 0\\.03136637971652387\ \(0\)\
+\-\ pt\\:\\ 0\\.03082520669628835\ \(0\)\
+\-\ congenital\\:\\ 0\\.03077564383050203\ \(0\)\
+\-\ ap\\:\\ 0\\.030750984541001784\ \(0\)\
+\-\ including\\:\\ 0\\.030653149321032868\ \(0\)\
+\-\ later\\:\\ 0\\.030653149321032868\ \(0\)\
+\-\ care\\:\\ 0\\.03060470562458567\ \(0\)\
+\-\ along\\:\\ 0\\.028696218573466516\ \(0\)\
+\-\ flow\\:\\ 0\\.028529556436582233\ \(0\)\
+\-\ body\\:\\ 0\\.028189412009703412\ \(0\)\
+\-\ radiograph\\:\\ 0\\.027897606839030805\ \(0\)\
+\-\ further\\:\\ 0\\.027897606839030805\ \(0\)\
+\-\ bowel\\:\\ 0\\.027488086225405457\ \(0\)\
+\-\ days\\:\\ 0\\.027114903993021532\ \(0\)\
+\-\ age\\:\\ 0\\.026890745648388795\ \(0\)\
+\-\ renal\\:\\ 0\\.026673085570630053\ \(0\)\
+\-\ decreased\\:\\ 0\\.026531406897521707\ \(0\)\
+\-\ pulmonary\\:\\ 0\\.026108459222944507\ \(0\)\
+\-\ head\\:\\ 0\\.025546317794785525\ \(0\)\
+\-\ include\\:\\ 0\\.025485021561295326\ \(0\)\
+\-\ secondary\\:\\ 0\\.025387976631752535\ \(0\)\
+\-\ significant\\:\\ 0\\.024730613777459446\ \(0\)\
+\-\ low\\:\\ 0\\.024577591805352985\ \(0\)\
+\-\ is\\:\\ 0\\.02346001040570233\ \(0\)\
+\-\ physical\\:\\ 0\\.023224832224411962\ \(0\)\
+\-\ increased\\:\\ 0\\.0231618465605061\ \(0\)\
+\-\ upper\\:\\ 0\\.02288909114311777\ \(0\)\
+\-\ other\\:\\ 0\\.022243669535091864\ \(0\)\
+\-\ diagnosis\\:\\ 0\\.02220412891236522\ \(0\)\
+\-\ demonstrates\\:\\ 0\\.021518644743483625\ \(0\)\
+\-\ had\\:\\ 0\\.021340788325476603\ \(0\)\
+\-\ after\\:\\ 0\\.02077880825850475\ \(0\)\
+\-\ also\\:\\ 0\\.020147238974355247\ \(0\)\
+\-\ which\\:\\ 0\\.019476420488817286\ \(0\)\
+\-\ be\\:\\ 0\\.017375483372507612\ \(0\)\
+\-\ there\\:\\ 0\\.017042968327338117\ \(0\)\
+\-\ not\\:\\ 0\\.01690930124013387\ \(0\)\

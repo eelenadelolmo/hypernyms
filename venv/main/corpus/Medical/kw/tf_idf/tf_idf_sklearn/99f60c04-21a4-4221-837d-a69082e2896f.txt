@@ -1,51 +1,49 @@
-Texto: 
-tender abdomen.  no peritoneal signs.
-surgical.
-fecalith in region of proximal appendix.  the appendix is dilated throughout its entire length.  mild inflammatory stranding seen around appendix.
-acute appendicitis
-acute appendicitis.
-32 year-old female with abdominal pain and leukocytosis.  bhcg is negative.
-a fecalith is not always found in a case of acute appendicitis - found in 11-52% of cases.
-
-
-Keywords by value: 
-- fecalith: 0.40870181467551736
-- appendix: 0.40754123794188535
-- appendicitis: 0.3834584683436101
-- acute: 0.2445358338279807
-- found: 0.1949932392348078
-- bhcg: 0.18444016972332936
-- leukocytosis: 0.16462099132790942
-- always: 0.1422397808259369
-- peritoneal: 0.14161822724911918
-- length: 0.1373714334576063
-- entire: 0.13711118693636748
-- stranding: 0.1348776197465622
-- 32: 0.1291264956720508
-- is: 0.1237939600335536
-- around: 0.12026600474977735
-- in: 0.11245264060233036
-- its: 0.11149572866680912
-- throughout: 0.1108171458173593
-- tender: 0.11015555968692728
-- dilated: 0.10791946995419531
-- signs: 0.1053084761872163
-- inflammatory: 0.10188831123926992
-- cases: 0.10134783594945959
-- proximal: 0.09413611471019698
-- negative: 0.09328475809990494
-- abdomen: 0.09193971367584479
-- region: 0.09012977243029024
-- of: 0.08846203771667784
-- mild: 0.08541602504512497
-- abdominal: 0.08241071251244984
-- case: 0.07569983136647294
-- surgical: 0.07323523833661326
-- female: 0.07270989409537142
-- seen: 0.07093877204406075
-- not: 0.0594847523002419
-- pain: 0.053918733744201
-- no: 0.0489993165116169
-- and: 0.03113611054734643
-- the: 0.030066055447528245
-- with: 0.029504964587711402
+\-\ Texto\\:\\ \ \(0\)\
+\-\ tender\\ abdomen\\.\\ \\ no\\ peritoneal\\ signs\\.\ \(0\)\
+\-\ surgical\\.\ \(9\)\
+\-\ fecalith\\ in\\ region\\ of\\ proximal\\ appendix\\.\\ \\ the\\ appendix\\ is\\ dilated\\ throughout\\ its\\ entire\\ length\\.\\ \\ mild\\ inflammatory\\ stranding\\ seen\\ around\\ appendix\\.\ \(0\)\
+\-\ acute\\ appendicitis\ \(36\)\
+\-\ acute\\ appendicitis\\.\ \(11\)\
+\-\ 32\\ year\\-old\\ female\\ with\\ abdominal\\ pain\\ and\\ leukocytosis\\.\\ \\ bhcg\\ is\\ negative\\.\ \(0\)\
+\-\ a\\ fecalith\\ is\\ not\\ always\\ found\\ in\\ a\\ case\\ of\\ acute\\ appendicitis\\ \\-\\ found\\ in\\ 11\\-52\\%\\ of\\ cases\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ fecalith\\:\\ 0\\.40870181467551736\ \(0\)\
+\-\ appendix\\:\\ 0\\.40754123794188535\ \(0\)\
+\-\ appendicitis\\:\\ 0\\.3834584683436101\ \(0\)\
+\-\ acute\\:\\ 0\\.2445358338279807\ \(0\)\
+\-\ found\\:\\ 0\\.1949932392348078\ \(0\)\
+\-\ bhcg\\:\\ 0\\.18444016972332936\ \(0\)\
+\-\ leukocytosis\\:\\ 0\\.16462099132790942\ \(0\)\
+\-\ always\\:\\ 0\\.1422397808259369\ \(0\)\
+\-\ peritoneal\\:\\ 0\\.14161822724911918\ \(0\)\
+\-\ length\\:\\ 0\\.1373714334576063\ \(0\)\
+\-\ entire\\:\\ 0\\.13711118693636748\ \(0\)\
+\-\ stranding\\:\\ 0\\.1348776197465622\ \(0\)\
+\-\ 32\\:\\ 0\\.1291264956720508\ \(0\)\
+\-\ is\\:\\ 0\\.1237939600335536\ \(0\)\
+\-\ around\\:\\ 0\\.12026600474977735\ \(0\)\
+\-\ in\\:\\ 0\\.11245264060233036\ \(0\)\
+\-\ its\\:\\ 0\\.11149572866680912\ \(0\)\
+\-\ throughout\\:\\ 0\\.1108171458173593\ \(0\)\
+\-\ tender\\:\\ 0\\.11015555968692728\ \(0\)\
+\-\ dilated\\:\\ 0\\.10791946995419531\ \(0\)\
+\-\ signs\\:\\ 0\\.1053084761872163\ \(0\)\
+\-\ inflammatory\\:\\ 0\\.10188831123926992\ \(0\)\
+\-\ cases\\:\\ 0\\.10134783594945959\ \(0\)\
+\-\ proximal\\:\\ 0\\.09413611471019698\ \(0\)\
+\-\ negative\\:\\ 0\\.09328475809990494\ \(0\)\
+\-\ abdomen\\:\\ 0\\.09193971367584479\ \(0\)\
+\-\ region\\:\\ 0\\.09012977243029024\ \(0\)\
+\-\ of\\:\\ 0\\.08846203771667784\ \(0\)\
+\-\ mild\\:\\ 0\\.08541602504512497\ \(0\)\
+\-\ abdominal\\:\\ 0\\.08241071251244984\ \(0\)\
+\-\ case\\:\\ 0\\.07569983136647294\ \(0\)\
+\-\ surgical\\:\\ 0\\.07323523833661326\ \(0\)\
+\-\ female\\:\\ 0\\.07270989409537142\ \(0\)\
+\-\ seen\\:\\ 0\\.07093877204406075\ \(0\)\
+\-\ not\\:\\ 0\\.0594847523002419\ \(0\)\
+\-\ pain\\:\\ 0\\.053918733744201\ \(0\)\
+\-\ no\\:\\ 0\\.0489993165116169\ \(0\)\
+\-\ and\\:\\ 0\\.03113611054734643\ \(0\)\
+\-\ the\\:\\ 0\\.030066055447528245\ \(0\)\
+\-\ with\\:\\ 0\\.029504964587711402\ \(0\)\

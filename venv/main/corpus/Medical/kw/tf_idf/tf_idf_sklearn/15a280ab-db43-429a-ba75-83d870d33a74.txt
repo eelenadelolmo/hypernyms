@@ -1,105 +1,103 @@
-Texto: 
-lab results withheld (see answer discussion)
-she was treated with iv  recophin (ceftriaxone). she has improved, but continues to have mild weakness in the upper arm; and, some difficulty in recognizing persons seen.
-the second mri scan t1 images after gd injection  shows gyral enhancement over the  temporal and parietal lobes, as well as pia-arachnoid enhancement about the cerebellum.   the involvement of  different vascular territories,   makes a vascular etiology less likely, leaving an inflammatory etiology to be the most likely cause.
-acute bacterial meningitis
-â€¢ multiple embolic infarcts
-â€¢ cerebral thrombophlebitis
-â€¢ meningo-encephalitis
-a 5 y.o. old girl with upper respiratory tract infection and fever had a car accident . the next day she developed convulsions and was admitted to the  hospital.
-in blood cultures pneumococcus was isolated.
-
-
-Keywords by value: 
-- she: 0.19693832751860166
-- etiology: 0.177675757110084
-- recophin: 0.17635918272066262
-- the: 0.1760363070293052
-- convulsions: 0.16852061422476416
-- pneumococcus: 0.1629590613688924
-- ceftriaxone: 0.15512049287299398
-- persons: 0.15512049287299398
-- recognizing: 0.14955894001712225
-- vascular: 0.14560822166537735
-- territories: 0.14340250057454226
-- answer: 0.1401729627944319
-- gd: 0.1401729627944319
-- gyral: 0.1401729627944319
-- withheld: 0.13740649598318894
-- likely: 0.13179930203674034
-- leaving: 0.1291430249190179
-- thrombophlebitis: 0.1291430249190179
-- enhancement: 0.12694866432601704
-- embolic: 0.11893427294676323
-- upper: 0.11786214714803271
-- was: 0.11529935141081403
-- car: 0.11126164786135982
-- makes: 0.11060625327964854
-- infarcts: 0.10790433507134925
-- continues: 0.10528787707190694
-- isolated: 0.10480454468175823
-- meningitis: 0.10387268773725165
-- cultures: 0.10387268773725165
-- bacterial: 0.10320213651923166
-- next: 0.10298369025576792
-- cerebellum: 0.10131967107601879
-- different: 0.10092512087920494
-- lab: 0.09960435353622905
-- improved: 0.09786152650958962
-- discussion: 0.09657222960921615
-- injection: 0.09595845461004147
-- accident: 0.09422604649425594
-- difficulty: 0.09276380217224826
-- tract: 0.0923834825897108
-- lobes: 0.09201050082214424
-- and: 0.09115073185401294
-- admitted: 0.09035918020342806
-- parietal: 0.08904801419594702
-- as: 0.08860550095850422
-- arm: 0.08801945841493893
-- respiratory: 0.08772126810276992
-- results: 0.08593257963101594
-- temporal: 0.08471302201067717
-- to: 0.08270815644468073
-- second: 0.08255833325827128
-- about: 0.08255833325827128
-- in: 0.08230106706995449
-- developed: 0.0818175419139339
-- hospital: 0.08145752613519779
-- weakness: 0.08048375180952148
-- involvement: 0.07981705510026145
-- iv: 0.07879597086649122
-- girl: 0.077358854548062
-- cerebral: 0.07640189381569126
-- cause: 0.07512677534545203
-- less: 0.07502421654459543
-- fever: 0.07477017493075738
-- inflammatory: 0.07456931817725387
-- day: 0.07024545437311128
-- some: 0.06938610006935712
-- t1: 0.06871033962995883
-- treated: 0.06867348110855245
-- see: 0.0685999742191506
-- infection: 0.06661453978196259
-- scan: 0.06542695537601195
-- shows: 0.06472388558241625
-- blood: 0.0640454900597151
-- mild: 0.06251369437332771
-- over: 0.06131964341060262
-- acute: 0.05965640276975059
-- most: 0.05739222312290609
-- mri: 0.05660714986119469
-- have: 0.05509011394288363
-- had: 0.054944757704558894
-- but: 0.05453284528214855
-- multiple: 0.053939569652369825
-- after: 0.05349786370309887
-- well: 0.053397348977767004
-- seen: 0.05191818177489261
-- images: 0.051011105847875056
-- has: 0.0503719637165716
-- be: 0.04473554159957217
-- with: 0.04318778209961477
-- an: 0.04217009319933167
-- old: 0.03263797332267965
-- of: 0.02158099640959512
+\-\ Texto\\:\\ \ \(0\)\
+\-\ lab\\ results\\ withheld\\ \\(see\\ answer\\ discussion\\)\ \(0\)\
+\-\ she\\ was\\ treated\\ with\\ iv\\ \\ recophin\\ \\(ceftriaxone\\)\\.\\ she\\ has\\ improved\\,\\ but\\ continues\\ to\\ have\\ mild\\ weakness\\ in\\ the\\ upper\\ arm\\;\\ and\\,\\ some\\ difficulty\\ in\\ recognizing\\ persons\\ seen\\.\ \(0\)\
+\-\ the\\ second\\ mri\\ scan\\ t1\\ images\\ after\\ gd\\ injection\\ \\ shows\\ gyral\\ enhancement\\ over\\ the\\ \\ temporal\\ and\\ parietal\\ lobes\\,\\ as\\ well\\ as\\ pia\\-arachnoid\\ enhancement\\ about\\ the\\ cerebellum\\.\\ \\ \\ the\\ involvement\\ of\\ \\ different\\ vascular\\ territories\\,\\ \\ \\ makes\\ a\\ vascular\\ etiology\\ less\\ likely\\,\\ leaving\\ an\\ inflammatory\\ etiology\\ to\\ be\\ the\\ most\\ likely\\ cause\\.\ \(0\)\
+\-\ acute\\ bacterial\\ meningitis\ \(1\)\
+\-\ \\â\\€\\¢\\ multiple\\ embolic\\ infarcts\ \(0\)\
+\-\ \\â\\€\\¢\\ cerebral\\ thrombophlebitis\ \(0\)\
+\-\ \\â\\€\\¢\\ meningo\\-encephalitis\ \(0\)\
+\-\ a\\ 5\\ y\\.o\\.\\ old\\ girl\\ with\\ upper\\ respiratory\\ tract\\ infection\\ and\\ fever\\ had\\ a\\ car\\ accident\\ \\.\\ the\\ next\\ day\\ she\\ developed\\ convulsions\\ and\\ was\\ admitted\\ to\\ the\\ \\ hospital\\.\ \(0\)\
+\-\ in\\ blood\\ cultures\\ pneumococcus\\ was\\ isolated\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ she\\:\\ 0\\.19693832751860166\ \(0\)\
+\-\ etiology\\:\\ 0\\.177675757110084\ \(0\)\
+\-\ recophin\\:\\ 0\\.17635918272066262\ \(0\)\
+\-\ the\\:\\ 0\\.1760363070293052\ \(0\)\
+\-\ convulsions\\:\\ 0\\.16852061422476416\ \(0\)\
+\-\ pneumococcus\\:\\ 0\\.1629590613688924\ \(0\)\
+\-\ ceftriaxone\\:\\ 0\\.15512049287299398\ \(0\)\
+\-\ persons\\:\\ 0\\.15512049287299398\ \(0\)\
+\-\ recognizing\\:\\ 0\\.14955894001712225\ \(0\)\
+\-\ vascular\\:\\ 0\\.14560822166537735\ \(0\)\
+\-\ territories\\:\\ 0\\.14340250057454226\ \(0\)\
+\-\ answer\\:\\ 0\\.1401729627944319\ \(0\)\
+\-\ gd\\:\\ 0\\.1401729627944319\ \(0\)\
+\-\ gyral\\:\\ 0\\.1401729627944319\ \(0\)\
+\-\ withheld\\:\\ 0\\.13740649598318894\ \(0\)\
+\-\ likely\\:\\ 0\\.13179930203674034\ \(0\)\
+\-\ leaving\\:\\ 0\\.1291430249190179\ \(0\)\
+\-\ thrombophlebitis\\:\\ 0\\.1291430249190179\ \(0\)\
+\-\ enhancement\\:\\ 0\\.12694866432601704\ \(0\)\
+\-\ embolic\\:\\ 0\\.11893427294676323\ \(0\)\
+\-\ upper\\:\\ 0\\.11786214714803271\ \(0\)\
+\-\ was\\:\\ 0\\.11529935141081403\ \(0\)\
+\-\ car\\:\\ 0\\.11126164786135982\ \(0\)\
+\-\ makes\\:\\ 0\\.11060625327964854\ \(0\)\
+\-\ infarcts\\:\\ 0\\.10790433507134925\ \(0\)\
+\-\ continues\\:\\ 0\\.10528787707190694\ \(0\)\
+\-\ isolated\\:\\ 0\\.10480454468175823\ \(0\)\
+\-\ meningitis\\:\\ 0\\.10387268773725165\ \(0\)\
+\-\ cultures\\:\\ 0\\.10387268773725165\ \(0\)\
+\-\ bacterial\\:\\ 0\\.10320213651923166\ \(0\)\
+\-\ next\\:\\ 0\\.10298369025576792\ \(0\)\
+\-\ cerebellum\\:\\ 0\\.10131967107601879\ \(0\)\
+\-\ different\\:\\ 0\\.10092512087920494\ \(0\)\
+\-\ lab\\:\\ 0\\.09960435353622905\ \(0\)\
+\-\ improved\\:\\ 0\\.09786152650958962\ \(0\)\
+\-\ discussion\\:\\ 0\\.09657222960921615\ \(0\)\
+\-\ injection\\:\\ 0\\.09595845461004147\ \(0\)\
+\-\ accident\\:\\ 0\\.09422604649425594\ \(0\)\
+\-\ difficulty\\:\\ 0\\.09276380217224826\ \(0\)\
+\-\ tract\\:\\ 0\\.0923834825897108\ \(0\)\
+\-\ lobes\\:\\ 0\\.09201050082214424\ \(0\)\
+\-\ and\\:\\ 0\\.09115073185401294\ \(0\)\
+\-\ admitted\\:\\ 0\\.09035918020342806\ \(0\)\
+\-\ parietal\\:\\ 0\\.08904801419594702\ \(0\)\
+\-\ as\\:\\ 0\\.08860550095850422\ \(0\)\
+\-\ arm\\:\\ 0\\.08801945841493893\ \(0\)\
+\-\ respiratory\\:\\ 0\\.08772126810276992\ \(0\)\
+\-\ results\\:\\ 0\\.08593257963101594\ \(0\)\
+\-\ temporal\\:\\ 0\\.08471302201067717\ \(0\)\
+\-\ to\\:\\ 0\\.08270815644468073\ \(0\)\
+\-\ second\\:\\ 0\\.08255833325827128\ \(0\)\
+\-\ about\\:\\ 0\\.08255833325827128\ \(0\)\
+\-\ in\\:\\ 0\\.08230106706995449\ \(0\)\
+\-\ developed\\:\\ 0\\.0818175419139339\ \(0\)\
+\-\ hospital\\:\\ 0\\.08145752613519779\ \(0\)\
+\-\ weakness\\:\\ 0\\.08048375180952148\ \(0\)\
+\-\ involvement\\:\\ 0\\.07981705510026145\ \(0\)\
+\-\ iv\\:\\ 0\\.07879597086649122\ \(0\)\
+\-\ girl\\:\\ 0\\.077358854548062\ \(0\)\
+\-\ cerebral\\:\\ 0\\.07640189381569126\ \(0\)\
+\-\ cause\\:\\ 0\\.07512677534545203\ \(0\)\
+\-\ less\\:\\ 0\\.07502421654459543\ \(0\)\
+\-\ fever\\:\\ 0\\.07477017493075738\ \(0\)\
+\-\ inflammatory\\:\\ 0\\.07456931817725387\ \(0\)\
+\-\ day\\:\\ 0\\.07024545437311128\ \(0\)\
+\-\ some\\:\\ 0\\.06938610006935712\ \(0\)\
+\-\ t1\\:\\ 0\\.06871033962995883\ \(0\)\
+\-\ treated\\:\\ 0\\.06867348110855245\ \(0\)\
+\-\ see\\:\\ 0\\.0685999742191506\ \(0\)\
+\-\ infection\\:\\ 0\\.06661453978196259\ \(0\)\
+\-\ scan\\:\\ 0\\.06542695537601195\ \(0\)\
+\-\ shows\\:\\ 0\\.06472388558241625\ \(0\)\
+\-\ blood\\:\\ 0\\.0640454900597151\ \(0\)\
+\-\ mild\\:\\ 0\\.06251369437332771\ \(0\)\
+\-\ over\\:\\ 0\\.06131964341060262\ \(0\)\
+\-\ acute\\:\\ 0\\.05965640276975059\ \(0\)\
+\-\ most\\:\\ 0\\.05739222312290609\ \(0\)\
+\-\ mri\\:\\ 0\\.05660714986119469\ \(0\)\
+\-\ have\\:\\ 0\\.05509011394288363\ \(0\)\
+\-\ had\\:\\ 0\\.054944757704558894\ \(0\)\
+\-\ but\\:\\ 0\\.05453284528214855\ \(0\)\
+\-\ multiple\\:\\ 0\\.053939569652369825\ \(0\)\
+\-\ after\\:\\ 0\\.05349786370309887\ \(0\)\
+\-\ well\\:\\ 0\\.053397348977767004\ \(0\)\
+\-\ seen\\:\\ 0\\.05191818177489261\ \(0\)\
+\-\ images\\:\\ 0\\.051011105847875056\ \(0\)\
+\-\ has\\:\\ 0\\.0503719637165716\ \(0\)\
+\-\ be\\:\\ 0\\.04473554159957217\ \(0\)\
+\-\ with\\:\\ 0\\.04318778209961477\ \(0\)\
+\-\ an\\:\\ 0\\.04217009319933167\ \(0\)\
+\-\ old\\:\\ 0\\.03263797332267965\ \(0\)\
+\-\ of\\:\\ 0\\.02158099640959512\ \(0\)\

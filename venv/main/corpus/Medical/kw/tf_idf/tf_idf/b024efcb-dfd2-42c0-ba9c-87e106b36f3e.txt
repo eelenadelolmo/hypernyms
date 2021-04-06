@@ -1,62 +1,60 @@
-Texto: 
-acute abdominal series suggestive of sigmoid volvulus.
-early fluoroscopic images demonstrate infusion of contrast material into the rectum, with an abrupt end to the contrast in a beak-shaped point.  subsequent images demonstrate a small amount of contrast to pass into a bean-shaped loop of sigmoid colon, followed by unraveling of the sigmoid and free retrograde flow of contrast into the colon.
-sigmoid volvulus
-sigmoid volvulus
-81 year old male with five day history of constipation, marked abdominal discomfort and distention.
-
-
-Keywords by value: 
-- sigmoid: 0.24997760375355832
-- volvulus: 0.16337865448485445
-- beak-shaped: 0.10132779797662642
-- bean-shaped: 0.10132779797662642
-- unraveling: 0.10132779797662642
-- contrast: 0.08794370973829449
-- colon: 0.0771478829844216
-- into: 0.07011470234343817
-- infusion: 0.06432922527699192
-- 81: 0.06387841248212661
-- abrupt: 0.060794918383337206
-- constipation: 0.0604617283043343
-- retrograde: 0.058926884710948986
-- loop: 0.05732042560318854
-- pass: 0.05659423133167668
-- rectum: 0.05485594432335572
-- fluoroscopic: 0.053705559742240984
-- distention: 0.052494519332380904
-- end: 0.0498641564308999
-- discomfort: 0.04922895322773841
-- abdominal: 0.049101591680968164
-- five: 0.048984385429493765
-- series: 0.04886402566090416
-- demonstrate: 0.045205796352483694
-- material: 0.04388857643910785
-- point: 0.04292085125266707
-- suggestive: 0.04196244195451706
-- amount: 0.04101717645754037
-- free: 0.040427598361131745
-- marked: 0.038331948283040304
-- subsequent: 0.03823655974494036
-- images: 0.03768422740113458
-- early: 0.03592136746715446
-- followed: 0.03292960771699737
-- flow: 0.03246038938917835
-- day: 0.031183446314401488
-- acute: 0.024251486541453968
-- small: 0.022627302119323203
-- male: 0.017760983194108886
-- by: 0.016354837968331894
-- a: 0.013675855235124181
-- an: 0.013582354761893446
-- history: 0.01356568434146073
-- year: 0.010989715738769135
-- old: 0.010056719504163847
-- to: 0.009817657665356005
-- of: 0.009373869029723206
-- ,: 0.009334829845423703
-- the: 0.006356288951890841
-- in: 0.004843646323451206
-- and: 0.00413813806280962
-- with: 0.002689751174480224
-- .: 0.0016321625791883344
+\-\ Texto\\:\\ \ \(0\)\
+\-\ acute\\ abdominal\\ series\\ suggestive\\ of\\ sigmoid\\ volvulus\\.\ \(0\)\
+\-\ early\\ fluoroscopic\\ images\\ demonstrate\\ infusion\\ of\\ contrast\\ material\\ into\\ the\\ rectum\\,\\ with\\ an\\ abrupt\\ end\\ to\\ the\\ contrast\\ in\\ a\\ beak\\-shaped\\ point\\.\\ \\ subsequent\\ images\\ demonstrate\\ a\\ small\\ amount\\ of\\ contrast\\ to\\ pass\\ into\\ a\\ bean\\-shaped\\ loop\\ of\\ sigmoid\\ colon\\,\\ followed\\ by\\ unraveling\\ of\\ the\\ sigmoid\\ and\\ free\\ retrograde\\ flow\\ of\\ contrast\\ into\\ the\\ colon\\.\ \(0\)\
+\-\ sigmoid\\ volvulus\ \(2\)\
+\-\ sigmoid\\ volvulus\ \(2\)\
+\-\ 81\\ year\\ old\\ male\\ with\\ five\\ day\\ history\\ of\\ constipation\\,\\ marked\\ abdominal\\ discomfort\\ and\\ distention\\.\ \(1\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ sigmoid\\:\\ 0\\.24997760375355832\ \(0\)\
+\-\ volvulus\\:\\ 0\\.16337865448485445\ \(0\)\
+\-\ beak\\-shaped\\:\\ 0\\.10132779797662642\ \(0\)\
+\-\ bean\\-shaped\\:\\ 0\\.10132779797662642\ \(0\)\
+\-\ unraveling\\:\\ 0\\.10132779797662642\ \(0\)\
+\-\ contrast\\:\\ 0\\.08794370973829449\ \(0\)\
+\-\ colon\\:\\ 0\\.0771478829844216\ \(0\)\
+\-\ into\\:\\ 0\\.07011470234343817\ \(0\)\
+\-\ infusion\\:\\ 0\\.06432922527699192\ \(0\)\
+\-\ 81\\:\\ 0\\.06387841248212661\ \(0\)\
+\-\ abrupt\\:\\ 0\\.060794918383337206\ \(0\)\
+\-\ constipation\\:\\ 0\\.0604617283043343\ \(0\)\
+\-\ retrograde\\:\\ 0\\.058926884710948986\ \(0\)\
+\-\ loop\\:\\ 0\\.05732042560318854\ \(0\)\
+\-\ pass\\:\\ 0\\.05659423133167668\ \(0\)\
+\-\ rectum\\:\\ 0\\.05485594432335572\ \(0\)\
+\-\ fluoroscopic\\:\\ 0\\.053705559742240984\ \(0\)\
+\-\ distention\\:\\ 0\\.052494519332380904\ \(0\)\
+\-\ end\\:\\ 0\\.0498641564308999\ \(0\)\
+\-\ discomfort\\:\\ 0\\.04922895322773841\ \(0\)\
+\-\ abdominal\\:\\ 0\\.049101591680968164\ \(0\)\
+\-\ five\\:\\ 0\\.048984385429493765\ \(0\)\
+\-\ series\\:\\ 0\\.04886402566090416\ \(0\)\
+\-\ demonstrate\\:\\ 0\\.045205796352483694\ \(0\)\
+\-\ material\\:\\ 0\\.04388857643910785\ \(0\)\
+\-\ point\\:\\ 0\\.04292085125266707\ \(0\)\
+\-\ suggestive\\:\\ 0\\.04196244195451706\ \(0\)\
+\-\ amount\\:\\ 0\\.04101717645754037\ \(0\)\
+\-\ free\\:\\ 0\\.040427598361131745\ \(0\)\
+\-\ marked\\:\\ 0\\.038331948283040304\ \(0\)\
+\-\ subsequent\\:\\ 0\\.03823655974494036\ \(0\)\
+\-\ images\\:\\ 0\\.03768422740113458\ \(0\)\
+\-\ early\\:\\ 0\\.03592136746715446\ \(0\)\
+\-\ followed\\:\\ 0\\.03292960771699737\ \(0\)\
+\-\ flow\\:\\ 0\\.03246038938917835\ \(0\)\
+\-\ day\\:\\ 0\\.031183446314401488\ \(0\)\
+\-\ acute\\:\\ 0\\.024251486541453968\ \(0\)\
+\-\ small\\:\\ 0\\.022627302119323203\ \(0\)\
+\-\ male\\:\\ 0\\.017760983194108886\ \(0\)\
+\-\ by\\:\\ 0\\.016354837968331894\ \(0\)\
+\-\ a\\:\\ 0\\.013675855235124181\ \(0\)\
+\-\ an\\:\\ 0\\.013582354761893446\ \(0\)\
+\-\ history\\:\\ 0\\.01356568434146073\ \(0\)\
+\-\ year\\:\\ 0\\.010989715738769135\ \(0\)\
+\-\ old\\:\\ 0\\.010056719504163847\ \(0\)\
+\-\ to\\:\\ 0\\.009817657665356005\ \(0\)\
+\-\ of\\:\\ 0\\.009373869029723206\ \(0\)\
+\-\ \\,\\:\\ 0\\.009334829845423703\ \(0\)\
+\-\ the\\:\\ 0\\.006356288951890841\ \(0\)\
+\-\ in\\:\\ 0\\.004843646323451206\ \(0\)\
+\-\ and\\:\\ 0\\.00413813806280962\ \(0\)\
+\-\ with\\:\\ 0\\.002689751174480224\ \(0\)\
+\-\ \\.\\:\\ 0\\.0016321625791883344\ \(0\)\

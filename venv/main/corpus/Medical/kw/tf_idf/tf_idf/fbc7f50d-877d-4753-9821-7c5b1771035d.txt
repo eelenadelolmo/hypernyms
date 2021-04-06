@@ -1,103 +1,101 @@
-Texto: 
-phyisical exam was noncontributory.  laboratory values were unremarkable.
-surgical resection.
-a 3.7 cm well-circumscribed lesion soft tissue opacity is noted in the left lower lobe.  on ct images it has areas of lace-like calcifications, but predominately soft-tissue in attenuation.  the adjacent lung parenchyma is normal in appearance, suggestive of a non-aggressive lesion.
-bronchial carcinoid
-malignancy
--primary: carcinoma, carcinoid, lymphoma
--metastatic
-granulomatous disease
--infectious: tb, atypical mycobacterial, histoplasmosis, nocardiosis, actinomycosis
--noninfectious: sarcoid
-pneumonia
-abscess
-benign neoplasm: hamartoma, hemangioma
-congenital abnormality: complex bronchogenic cyst
-41 year old female for annual physical exam.
-
-
-Keywords by value: 
-- carcinoid: 0.0914927712735699
-- -noninfectious: 0.07941908490059908
-- nocardiosis: 0.06952167689458008
-- phyisical: 0.06491964424803962
-- lace-like: 0.06491964424803962
-- -infectious: 0.06491964424803962
-- actinomycosis: 0.06068537731789786
-- -primary: 0.05867507505380588
-- -metastatic: 0.05502223624202061
-- 3.7: 0.054440808123664114
-- mycobacterial: 0.053379699694327334
-- :: 0.0509132799995795
-- non-aggressive: 0.050787969311878844
-- predominately: 0.049399224448570214
-- histoplasmosis: 0.04877766704778687
-- soft-tissue: 0.04641402502555723
-- bronchial: 0.043650689283012405
-- hamartoma: 0.04209354682499969
-- 41: 0.04101656348581246
-- well-circumscribed: 0.04076629714250547
-- bronchogenic: 0.04064372370056151
-- sarcoid: 0.039501816442551206
-- annual: 0.03858485523255173
-- values: 0.038488501276545
-- granulomatous: 0.0371546895652014
-- tb: 0.037072414938505244
-- noncontributory: 0.03691008606010273
-- opacity: 0.03599312485010325
-- hemangioma: 0.03439915450632777
-- exam: 0.033824034954045734
-- atypical: 0.03336514086135094
-- suggestive: 0.03288948153191878
-- parenchyma: 0.03278710532786188
-- pneumonia: 0.031822654911968555
-- lesion: 0.03136135542343162
-- attenuation: 0.030951541175009357
-- complex: 0.0308278457442715
-- malignancy: 0.02974855565586951
-- calcifications: 0.028623096888583357
-- abnormality: 0.028401422917392363
-- laboratory: 0.028370195818505098
-- congenital: 0.028154585312094034
-- benign: 0.026568021324623436
-- neoplasm: 0.02621762681001737
-- areas: 0.025904028569784385
-- unremarkable: 0.02548708485299154
-- adjacent: 0.024340867064272676
-- abscess: 0.024340867064272676
-- resection: 0.024008249148830797
-- lung: 0.022298730812961676
-- appearance: 0.022017176366978752
-- lymphoma: 0.022001789499004377
-- ,: 0.02194946477167195
-- carcinoma: 0.02181916819834114
-- lobe: 0.02071464277408589
-- cyst: 0.02068802825248741
-- cm: 0.02064825331366654
-- physical: 0.018887434861092237
-- soft: 0.018747087963905857
-- tissue: 0.01824703773380715
-- noted: 0.01824703773380715
-- were: 0.017480057087296587
-- lower: 0.017314072696971734
-- it: 0.017304940401198347
-- but: 0.016418948657959797
-- surgical: 0.016182178110373455
-- female: 0.015826669112142644
-- images: 0.014768143170714901
-- has: 0.014456756490939441
-- disease: 0.01258322109203337
-- normal: 0.012068580672063973
-- in: 0.011389114328115
-- ct: 0.010768501381910297
-- is: 0.010131365376301363
-- was: 0.008903401101024205
-- left: 0.008613560984440672
-- year: 0.008613560984440672
-- old: 0.007882293665425717
-- a: 0.0071459423751099324
-- for: 0.0065685418796641
-- on: 0.006521540651940793
-- the: 0.0024909781027680324
-- .: 0.0022387094836164314
-- of: 0.0020991675819457376
+\-\ Texto\\:\\ \ \(0\)\
+\-\ phyisical\\ exam\\ was\\ noncontributory\\.\\ \\ laboratory\\ values\\ were\\ unremarkable\\.\ \(0\)\
+\-\ surgical\\ resection\\.\ \(23\)\
+\-\ a\\ 3\\.7\\ cm\\ well\\-circumscribed\\ lesion\\ soft\\ tissue\\ opacity\\ is\\ noted\\ in\\ the\\ left\\ lower\\ lobe\\.\\ \\ on\\ ct\\ images\\ it\\ has\\ areas\\ of\\ lace\\-like\\ calcifications\\,\\ but\\ predominately\\ soft\\-tissue\\ in\\ attenuation\\.\\ \\ the\\ adjacent\\ lung\\ parenchyma\\ is\\ normal\\ in\\ appearance\\,\\ suggestive\\ of\\ a\\ non\\-aggressive\\ lesion\\.\ \(0\)\
+\-\ bronchial\\ carcinoid\ \(2\)\
+\-\ malignancy\ \(256\)\
+\-\ primary\\:\\ carcinoma\\,\\ carcinoid\\,\\ lymphoma\ \(1\)\
+\-\ metastatic\ \(472\)\
+\-\ granulomatous\\ disease\ \(29\)\
+\-\ infectious\\:\\ tb\\,\\ atypical\\ mycobacterial\\,\\ histoplasmosis\\,\\ nocardiosis\\,\\ actinomycosis\ \(0\)\
+\-\ noninfectious\\:\\ sarcoid\ \(1\)\
+\-\ pneumonia\ \(272\)\
+\-\ abscess\ \(594\)\
+\-\ benign\\ neoplasm\\:\\ hamartoma\\,\\ hemangioma\ \(0\)\
+\-\ congenital\\ abnormality\\:\\ complex\\ bronchogenic\\ cyst\ \(0\)\
+\-\ 41\\ year\\ old\\ female\\ for\\ annual\\ physical\\ exam\\.\ \(1\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ carcinoid\\:\\ 0\\.0914927712735699\ \(0\)\
+\-\ \\-noninfectious\\:\\ 0\\.07941908490059908\ \(0\)\
+\-\ nocardiosis\\:\\ 0\\.06952167689458008\ \(0\)\
+\-\ phyisical\\:\\ 0\\.06491964424803962\ \(0\)\
+\-\ lace\\-like\\:\\ 0\\.06491964424803962\ \(0\)\
+\-\ \\-infectious\\:\\ 0\\.06491964424803962\ \(0\)\
+\-\ actinomycosis\\:\\ 0\\.06068537731789786\ \(0\)\
+\-\ \\-primary\\:\\ 0\\.05867507505380588\ \(0\)\
+\-\ \\-metastatic\\:\\ 0\\.05502223624202061\ \(0\)\
+\-\ 3\\.7\\:\\ 0\\.054440808123664114\ \(0\)\
+\-\ mycobacterial\\:\\ 0\\.053379699694327334\ \(0\)\
+\-\ \\:\\:\\ 0\\.0509132799995795\ \(0\)\
+\-\ non\\-aggressive\\:\\ 0\\.050787969311878844\ \(0\)\
+\-\ predominately\\:\\ 0\\.049399224448570214\ \(0\)\
+\-\ histoplasmosis\\:\\ 0\\.04877766704778687\ \(0\)\
+\-\ soft\\-tissue\\:\\ 0\\.04641402502555723\ \(0\)\
+\-\ bronchial\\:\\ 0\\.043650689283012405\ \(0\)\
+\-\ hamartoma\\:\\ 0\\.04209354682499969\ \(0\)\
+\-\ 41\\:\\ 0\\.04101656348581246\ \(0\)\
+\-\ well\\-circumscribed\\:\\ 0\\.04076629714250547\ \(0\)\
+\-\ bronchogenic\\:\\ 0\\.04064372370056151\ \(0\)\
+\-\ sarcoid\\:\\ 0\\.039501816442551206\ \(0\)\
+\-\ annual\\:\\ 0\\.03858485523255173\ \(0\)\
+\-\ values\\:\\ 0\\.038488501276545\ \(0\)\
+\-\ granulomatous\\:\\ 0\\.0371546895652014\ \(0\)\
+\-\ tb\\:\\ 0\\.037072414938505244\ \(0\)\
+\-\ noncontributory\\:\\ 0\\.03691008606010273\ \(0\)\
+\-\ opacity\\:\\ 0\\.03599312485010325\ \(0\)\
+\-\ hemangioma\\:\\ 0\\.03439915450632777\ \(0\)\
+\-\ exam\\:\\ 0\\.033824034954045734\ \(0\)\
+\-\ atypical\\:\\ 0\\.03336514086135094\ \(0\)\
+\-\ suggestive\\:\\ 0\\.03288948153191878\ \(0\)\
+\-\ parenchyma\\:\\ 0\\.03278710532786188\ \(0\)\
+\-\ pneumonia\\:\\ 0\\.031822654911968555\ \(0\)\
+\-\ lesion\\:\\ 0\\.03136135542343162\ \(0\)\
+\-\ attenuation\\:\\ 0\\.030951541175009357\ \(0\)\
+\-\ complex\\:\\ 0\\.0308278457442715\ \(0\)\
+\-\ malignancy\\:\\ 0\\.02974855565586951\ \(0\)\
+\-\ calcifications\\:\\ 0\\.028623096888583357\ \(0\)\
+\-\ abnormality\\:\\ 0\\.028401422917392363\ \(0\)\
+\-\ laboratory\\:\\ 0\\.028370195818505098\ \(0\)\
+\-\ congenital\\:\\ 0\\.028154585312094034\ \(0\)\
+\-\ benign\\:\\ 0\\.026568021324623436\ \(0\)\
+\-\ neoplasm\\:\\ 0\\.02621762681001737\ \(0\)\
+\-\ areas\\:\\ 0\\.025904028569784385\ \(0\)\
+\-\ unremarkable\\:\\ 0\\.02548708485299154\ \(0\)\
+\-\ adjacent\\:\\ 0\\.024340867064272676\ \(0\)\
+\-\ abscess\\:\\ 0\\.024340867064272676\ \(0\)\
+\-\ resection\\:\\ 0\\.024008249148830797\ \(0\)\
+\-\ lung\\:\\ 0\\.022298730812961676\ \(0\)\
+\-\ appearance\\:\\ 0\\.022017176366978752\ \(0\)\
+\-\ lymphoma\\:\\ 0\\.022001789499004377\ \(0\)\
+\-\ \\,\\:\\ 0\\.02194946477167195\ \(0\)\
+\-\ carcinoma\\:\\ 0\\.02181916819834114\ \(0\)\
+\-\ lobe\\:\\ 0\\.02071464277408589\ \(0\)\
+\-\ cyst\\:\\ 0\\.02068802825248741\ \(0\)\
+\-\ cm\\:\\ 0\\.02064825331366654\ \(0\)\
+\-\ physical\\:\\ 0\\.018887434861092237\ \(0\)\
+\-\ soft\\:\\ 0\\.018747087963905857\ \(0\)\
+\-\ tissue\\:\\ 0\\.01824703773380715\ \(0\)\
+\-\ noted\\:\\ 0\\.01824703773380715\ \(0\)\
+\-\ were\\:\\ 0\\.017480057087296587\ \(0\)\
+\-\ lower\\:\\ 0\\.017314072696971734\ \(0\)\
+\-\ it\\:\\ 0\\.017304940401198347\ \(0\)\
+\-\ but\\:\\ 0\\.016418948657959797\ \(0\)\
+\-\ surgical\\:\\ 0\\.016182178110373455\ \(0\)\
+\-\ female\\:\\ 0\\.015826669112142644\ \(0\)\
+\-\ images\\:\\ 0\\.014768143170714901\ \(0\)\
+\-\ has\\:\\ 0\\.014456756490939441\ \(0\)\
+\-\ disease\\:\\ 0\\.01258322109203337\ \(0\)\
+\-\ normal\\:\\ 0\\.012068580672063973\ \(0\)\
+\-\ in\\:\\ 0\\.011389114328115\ \(0\)\
+\-\ ct\\:\\ 0\\.010768501381910297\ \(0\)\
+\-\ is\\:\\ 0\\.010131365376301363\ \(0\)\
+\-\ was\\:\\ 0\\.008903401101024205\ \(0\)\
+\-\ left\\:\\ 0\\.008613560984440672\ \(0\)\
+\-\ year\\:\\ 0\\.008613560984440672\ \(0\)\
+\-\ old\\:\\ 0\\.007882293665425717\ \(0\)\
+\-\ a\\:\\ 0\\.0071459423751099324\ \(0\)\
+\-\ for\\:\\ 0\\.0065685418796641\ \(0\)\
+\-\ on\\:\\ 0\\.006521540651940793\ \(0\)\
+\-\ the\\:\\ 0\\.0024909781027680324\ \(0\)\
+\-\ \\.\\:\\ 0\\.0022387094836164314\ \(0\)\
+\-\ of\\:\\ 0\\.0020991675819457376\ \(0\)\

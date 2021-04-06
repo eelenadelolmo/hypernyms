@@ -1,96 +1,94 @@
-Texto: 
-patient underwent left oophorectomy and salpingectomy with right cystectomy.  right ovary and fallopian tube were not removed secondary to patient desire to remaine furtile.  all appropriate risks and alternatives were discussed with patient.  patient will be closely followed clinically and the option of removing right ovary and tube will be revisited later.
-pelvic ultrasound demonstrates two large masses of ovarian origin, one in the right adnexa and another centered more midline. both masses have large cystic components with mural papillary solid components.  flow is present most of the solid projections.  these findings were reported as highly suspicious for malignancy.
-ovarian tumor of borderline malignancy
-24 year old woman with bilateral fullness without pain.  also, complained of dyspareunia, disruption of menses.
-
-
-Keywords by value: 
-- ovary: 0.06933572638459447
-- remaine: 0.06628209341328194
-- furtile: 0.06628209341328194
-- components: 0.06301572346890566
-- ovarian: 0.058800656323730355
-- revisited: 0.058021850641341265
-- desire: 0.05585882754020005
-- alternatives: 0.05585882754020005
-- removing: 0.0541810564776872
-- dyspareunia: 0.0541810564776872
-- tube: 0.05414410024597763
-- oophorectomy: 0.0516511900369262
-- salpingectomy: 0.0516511900369262
-- cystectomy: 0.0516511900369262
-- solid: 0.051253333120396684
-- malignancy: 0.04965548387671452
-- were: 0.04376585721856965
-- masses: 0.04343747966911409
-- menses: 0.043390947264985526
-- projections: 0.04304117271133971
-- borderline: 0.042386951831718436
-- risks: 0.041501365097459914
-- adnexa: 0.04070918076920558
-- will: 0.040202722080889354
-- closely: 0.03873651712659287
-- fallopian: 0.03782953977479877
-- centered: 0.03766057093380585
-- fullness: 0.03671949467099377
-- mural: 0.03657349402545165
-- option: 0.03588321170024021
-- discussed: 0.035130704493044854
-- complained: 0.0339207017350551
-- papillary: 0.032617906838257826
-- disruption: 0.03128991032939079
-- highly: 0.030940135775744972
-- suspicious: 0.030940135775744972
-- appropriate: 0.0302859148961237
-- origin: 0.02945623025575629
-- removed: 0.02896747213313226
-- clinically: 0.028170031742453132
-- large: 0.02809838243355007
-- another: 0.027622968928299532
-- right: 0.02711674313114035
-- pelvic: 0.02637030621477664
-- patient: 0.025762163335831215
-- 24: 0.024980879553578566
-- midline: 0.024858120957432485
-- reported: 0.023421615417863247
-- later: 0.023198636398443034
-- underwent: 0.02204658673291894
-- followed: 0.021540420085554672
-- flow: 0.021233487795928693
-- be: 0.019815890576600437
-- ultrasound: 0.019061072067716563
-- cystic: 0.018531072986855326
-- two: 0.018400986748992522
-- all: 0.018172357063393162
-- secondary: 0.01796263132713389
-- one: 0.017411514160230405
-- these: 0.016720636781637894
-- both: 0.01640751872696332
-- more: 0.016068994806858392
-- bilateral: 0.015592614506123637
-- without: 0.015127918544046316
-- tumor: 0.014979190237675272
-- woman: 0.01484137554502937
-- most: 0.014833346930286284
-- present: 0.014511344014523916
-- demonstrates: 0.014034745877091623
-- have: 0.013913068258384148
-- findings: 0.013675465682631274
-- also: 0.012666312734362039
-- as: 0.009718627863865622
-- not: 0.009284350915352898
-- and: 0.008120707025513613
-- pain: 0.007846677951358906
-- left: 0.007188761423104622
-- year: 0.007188761423104622
-- old: 0.006578455615505674
-- to: 0.006422076818691522
-- ,: 0.006106242079337309
-- for: 0.005482016155208384
-- of: 0.005255810562315267
-- is: 0.00422775021341899
-- with: 0.0035189225891696157
-- in: 0.003168400226618458
-- the: 0.0031184049181268974
-- .: 0.0026691380524320506
+\-\ Texto\\:\\ \ \(0\)\
+\-\ patient\\ underwent\\ left\\ oophorectomy\\ and\\ salpingectomy\\ with\\ right\\ cystectomy\\.\\ \\ right\\ ovary\\ and\\ fallopian\\ tube\\ were\\ not\\ removed\\ secondary\\ to\\ patient\\ desire\\ to\\ remaine\\ furtile\\.\\ \\ all\\ appropriate\\ risks\\ and\\ alternatives\\ were\\ discussed\\ with\\ patient\\.\\ \\ patient\\ will\\ be\\ closely\\ followed\\ clinically\\ and\\ the\\ option\\ of\\ removing\\ right\\ ovary\\ and\\ tube\\ will\\ be\\ revisited\\ later\\.\ \(0\)\
+\-\ pelvic\\ ultrasound\\ demonstrates\\ two\\ large\\ masses\\ of\\ ovarian\\ origin\\,\\ one\\ in\\ the\\ right\\ adnexa\\ and\\ another\\ centered\\ more\\ midline\\.\\ both\\ masses\\ have\\ large\\ cystic\\ components\\ with\\ mural\\ papillary\\ solid\\ components\\.\\ \\ flow\\ is\\ present\\ most\\ of\\ the\\ solid\\ projections\\.\\ \\ these\\ findings\\ were\\ reported\\ as\\ highly\\ suspicious\\ for\\ malignancy\\.\ \(0\)\
+\-\ ovarian\\ tumor\\ of\\ borderline\\ malignancy\ \(0\)\
+\-\ 24\\ year\\ old\\ woman\\ with\\ bilateral\\ fullness\\ without\\ pain\\.\\ \\ also\\,\\ complained\\ of\\ dyspareunia\\,\\ disruption\\ of\\ menses\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ ovary\\:\\ 0\\.06933572638459447\ \(0\)\
+\-\ remaine\\:\\ 0\\.06628209341328194\ \(0\)\
+\-\ furtile\\:\\ 0\\.06628209341328194\ \(0\)\
+\-\ components\\:\\ 0\\.06301572346890566\ \(0\)\
+\-\ ovarian\\:\\ 0\\.058800656323730355\ \(0\)\
+\-\ revisited\\:\\ 0\\.058021850641341265\ \(0\)\
+\-\ desire\\:\\ 0\\.05585882754020005\ \(0\)\
+\-\ alternatives\\:\\ 0\\.05585882754020005\ \(0\)\
+\-\ removing\\:\\ 0\\.0541810564776872\ \(0\)\
+\-\ dyspareunia\\:\\ 0\\.0541810564776872\ \(0\)\
+\-\ tube\\:\\ 0\\.05414410024597763\ \(0\)\
+\-\ oophorectomy\\:\\ 0\\.0516511900369262\ \(0\)\
+\-\ salpingectomy\\:\\ 0\\.0516511900369262\ \(0\)\
+\-\ cystectomy\\:\\ 0\\.0516511900369262\ \(0\)\
+\-\ solid\\:\\ 0\\.051253333120396684\ \(0\)\
+\-\ malignancy\\:\\ 0\\.04965548387671452\ \(0\)\
+\-\ were\\:\\ 0\\.04376585721856965\ \(0\)\
+\-\ masses\\:\\ 0\\.04343747966911409\ \(0\)\
+\-\ menses\\:\\ 0\\.043390947264985526\ \(0\)\
+\-\ projections\\:\\ 0\\.04304117271133971\ \(0\)\
+\-\ borderline\\:\\ 0\\.042386951831718436\ \(0\)\
+\-\ risks\\:\\ 0\\.041501365097459914\ \(0\)\
+\-\ adnexa\\:\\ 0\\.04070918076920558\ \(0\)\
+\-\ will\\:\\ 0\\.040202722080889354\ \(0\)\
+\-\ closely\\:\\ 0\\.03873651712659287\ \(0\)\
+\-\ fallopian\\:\\ 0\\.03782953977479877\ \(0\)\
+\-\ centered\\:\\ 0\\.03766057093380585\ \(0\)\
+\-\ fullness\\:\\ 0\\.03671949467099377\ \(0\)\
+\-\ mural\\:\\ 0\\.03657349402545165\ \(0\)\
+\-\ option\\:\\ 0\\.03588321170024021\ \(0\)\
+\-\ discussed\\:\\ 0\\.035130704493044854\ \(0\)\
+\-\ complained\\:\\ 0\\.0339207017350551\ \(0\)\
+\-\ papillary\\:\\ 0\\.032617906838257826\ \(0\)\
+\-\ disruption\\:\\ 0\\.03128991032939079\ \(0\)\
+\-\ highly\\:\\ 0\\.030940135775744972\ \(0\)\
+\-\ suspicious\\:\\ 0\\.030940135775744972\ \(0\)\
+\-\ appropriate\\:\\ 0\\.0302859148961237\ \(0\)\
+\-\ origin\\:\\ 0\\.02945623025575629\ \(0\)\
+\-\ removed\\:\\ 0\\.02896747213313226\ \(0\)\
+\-\ clinically\\:\\ 0\\.028170031742453132\ \(0\)\
+\-\ large\\:\\ 0\\.02809838243355007\ \(0\)\
+\-\ another\\:\\ 0\\.027622968928299532\ \(0\)\
+\-\ right\\:\\ 0\\.02711674313114035\ \(0\)\
+\-\ pelvic\\:\\ 0\\.02637030621477664\ \(0\)\
+\-\ patient\\:\\ 0\\.025762163335831215\ \(0\)\
+\-\ 24\\:\\ 0\\.024980879553578566\ \(0\)\
+\-\ midline\\:\\ 0\\.024858120957432485\ \(0\)\
+\-\ reported\\:\\ 0\\.023421615417863247\ \(0\)\
+\-\ later\\:\\ 0\\.023198636398443034\ \(0\)\
+\-\ underwent\\:\\ 0\\.02204658673291894\ \(0\)\
+\-\ followed\\:\\ 0\\.021540420085554672\ \(0\)\
+\-\ flow\\:\\ 0\\.021233487795928693\ \(0\)\
+\-\ be\\:\\ 0\\.019815890576600437\ \(0\)\
+\-\ ultrasound\\:\\ 0\\.019061072067716563\ \(0\)\
+\-\ cystic\\:\\ 0\\.018531072986855326\ \(0\)\
+\-\ two\\:\\ 0\\.018400986748992522\ \(0\)\
+\-\ all\\:\\ 0\\.018172357063393162\ \(0\)\
+\-\ secondary\\:\\ 0\\.01796263132713389\ \(0\)\
+\-\ one\\:\\ 0\\.017411514160230405\ \(0\)\
+\-\ these\\:\\ 0\\.016720636781637894\ \(0\)\
+\-\ both\\:\\ 0\\.01640751872696332\ \(0\)\
+\-\ more\\:\\ 0\\.016068994806858392\ \(0\)\
+\-\ bilateral\\:\\ 0\\.015592614506123637\ \(0\)\
+\-\ without\\:\\ 0\\.015127918544046316\ \(0\)\
+\-\ tumor\\:\\ 0\\.014979190237675272\ \(0\)\
+\-\ woman\\:\\ 0\\.01484137554502937\ \(0\)\
+\-\ most\\:\\ 0\\.014833346930286284\ \(0\)\
+\-\ present\\:\\ 0\\.014511344014523916\ \(0\)\
+\-\ demonstrates\\:\\ 0\\.014034745877091623\ \(0\)\
+\-\ have\\:\\ 0\\.013913068258384148\ \(0\)\
+\-\ findings\\:\\ 0\\.013675465682631274\ \(0\)\
+\-\ also\\:\\ 0\\.012666312734362039\ \(0\)\
+\-\ as\\:\\ 0\\.009718627863865622\ \(0\)\
+\-\ not\\:\\ 0\\.009284350915352898\ \(0\)\
+\-\ and\\:\\ 0\\.008120707025513613\ \(0\)\
+\-\ pain\\:\\ 0\\.007846677951358906\ \(0\)\
+\-\ left\\:\\ 0\\.007188761423104622\ \(0\)\
+\-\ year\\:\\ 0\\.007188761423104622\ \(0\)\
+\-\ old\\:\\ 0\\.006578455615505674\ \(0\)\
+\-\ to\\:\\ 0\\.006422076818691522\ \(0\)\
+\-\ \\,\\:\\ 0\\.006106242079337309\ \(0\)\
+\-\ for\\:\\ 0\\.005482016155208384\ \(0\)\
+\-\ of\\:\\ 0\\.005255810562315267\ \(0\)\
+\-\ is\\:\\ 0\\.00422775021341899\ \(0\)\
+\-\ with\\:\\ 0\\.0035189225891696157\ \(0\)\
+\-\ in\\:\\ 0\\.003168400226618458\ \(0\)\
+\-\ the\\:\\ 0\\.0031184049181268974\ \(0\)\
+\-\ \\.\\:\\ 0\\.0026691380524320506\ \(0\)\

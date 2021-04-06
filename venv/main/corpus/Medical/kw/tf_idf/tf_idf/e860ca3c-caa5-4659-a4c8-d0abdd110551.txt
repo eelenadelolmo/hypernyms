@@ -1,142 +1,138 @@
-Texto: 
-patient is a healthy appearing white male.  laboratory values are unremarkable.
-patient is treated with bronchial lavage when symptomatic and followed with chest radiographs to assess for evolution.
-frontal and lateral chest radiographs demonstrate alveolar consolidation and ground glass opacities in a bilaterally symmetric pattern with a predominantly perihilar distribution.  no pleural effusions are present and the lung volumes are normal.  the chest ct demonstrates patchy areas of alveolar consolidation.
-alveolar proteinosis
-pulmonary alveolar proteinosis
-pulmonary edema
-diffuse bronchioalveolar carcinoma
-diffuse infection 
-pulmonary hemorrhage
-hypersensitivity pneumonitis
-43-year-old male with dyspnea and nonproductive cough.
-pulmonary alveolar proteinosis is a disease characterized by the accumulation of proteinaceous material within the alveolar spaces.  the cause is unknown.  it typically affects men between the ages of 30 and 50, such as this patient.  patients typically present with a nonproductive cough and dyspnea.
-
-chest radiographs demonstrate a bilaterally symmetric and predominantly hilar or perihilar distribution of alveolar consolidation and ground glass opacities.  on high resolution chest ct the finding of patchy ground glass opacities with thickened septal walls is termed the ‚Äúcrazy paving‚Äù pattern.
-
-treatment for pap is with bronchial lavage.  one-third of patients will typically improve, one-third will stay the same, and one-third with get worse.  pap may be complicated by infection with nocardia, aspergillus, mycobacterial or mucor species.
-
-
-Keywords by value: 
-- alveolar: 0.15005724580182914
-- proteinosis: 0.08490853212966382
-- one-third: 0.07698489356551623
-- nonproductive: 0.06825522053282818
-- glass: 0.06232332873603287
-- ground: 0.059302242350334294
-- opacities: 0.05620348231861647
-- consolidation: 0.05398637307747784
-- pap: 0.0539296063123372
-- lavage: 0.051903034406312935
-- perihilar: 0.048905765969853
-- chest: 0.042956491597847035
-- pulmonary: 0.04195882874319434
-- bronchial: 0.040716189163146024
-- patchy: 0.03849925982663226
-- typically: 0.03802217356520133
-- crazy: 0.03412761026641409
-- paving: 0.03412761026641409
-- mucor: 0.03412761026641409
-- radiographs: 0.03411265766221176
-- dyspnea: 0.03399019999580532
-- predominantly: 0.03364146276129479
-- symmetric: 0.03279717259017182
-- bronchioalveolar: 0.03242397535839659
-- distribution: 0.0323168497847941
-- 43-year-old: 0.030277649208119317
-- nocardia: 0.030277649208119317
-- species: 0.02780795733878268
-- cough: 0.027514746880740102
-- pattern: 0.02744909528631326
-- aspergillus: 0.02659920913520377
-- proteinaceous: 0.02566163118850541
-- mycobacterial: 0.024895574227186277
-- evolution: 0.02424788229513897
-- volumes: 0.024052420044572195
-- termed: 0.024052420044572195
-- hypersensitivity: 0.023865647932930036
-- pneumonitis: 0.023865647932930036
-- bilaterally: 0.023585758306923558
-- stay: 0.022749248076909
-- will: 0.022466227045202875
-- get: 0.021983191115589867
-- diffuse: 0.02173955815441441
-- infection: 0.02087408885775468
-- affects: 0.020438129014222983
-- ages: 0.020358094581573012
-- men: 0.02027955620757237
-- septal: 0.01956569470843204
-- accumulation: 0.019129573726576397
-- improve: 0.019129573726576397
-- complicated: 0.01862811676173368
-- patients: 0.018584660498874167
-- effusions: 0.018324248435768867
-- walls: 0.018324248435768867
-- hilar: 0.01804088170973722
-- assess: 0.01799545769249261
-- values: 0.017950519502926445
-- characterized: 0.017862059800414547
-- spaces: 0.01769053881503532
-- demonstrate: 0.016524807910361684
-- present: 0.016218560957409082
-- healthy: 0.01618770501557391
-- thickened: 0.016100469757387235
-- material: 0.016043303152110854
-- appearing: 0.01595898566030073
-- worse: 0.01590369959064732
-- resolution: 0.015485797096821113
-- same: 0.01479921680353784
-- are: 0.014683284107515989
-- symptomatic: 0.014264636238210974
-- is: 0.014175397774404849
-- unknown: 0.014012098742119776
-- pleural: 0.013942647893585278
-- 30: 0.013807098052332246
-- 50: 0.013659655532116826
-- ‚Äú: 0.013409667721761175
-- ‚Äù: 0.01333450148331254
-- laboratory: 0.013231477881739772
-- male: 0.012984920486449354
-- cause: 0.012148162296436832
-- areas: 0.012081290635487674
-- followed: 0.012037293577221728
-- by: 0.011956898346595586
-- hemorrhage: 0.011950657916706032
-- white: 0.011908000893747973
-- unremarkable: 0.01188683369194143
-- finding: 0.011571686995960005
-- between: 0.011380233345480016
-- frontal: 0.01127853753984604
-- such: 0.011224087352272488
-- patient: 0.010797377280458672
-- treated: 0.010747272420520416
-- lung: 0.010399828236297252
-- when: 0.010282904359731115
-- carcinoma: 0.010176166680738934
-- edema: 0.01015514071189618
-- ct: 0.01004456851589952
-- a: 0.009998314331561377
-- high: 0.00982582378603704
-- or: 0.008416157554316869
-- it: 0.00807079153165133
-- may: 0.007875329281084554
-- demonstrates: 0.007842946225433554
-- lateral: 0.00775910943539727
-- and: 0.007563403602194053
-- treatment: 0.007267298149583558
-- within: 0.006849291631874292
-- for: 0.006126959232291724
-- disease: 0.0058686451311584205
-- ,: 0.005687186250363181
-- normal: 0.005628623758819752
-- be: 0.005536792955226593
-- as: 0.005430997923924906
-- the: 0.005227914127448034
-- with: 0.0044245276672647375
-- this: 0.0040383916525803904
-- no: 0.003615311557579
-- on: 0.003041558875484992
-- of: 0.0029370706083526495
-- .: 0.002386523435115716
-- to: 0.0017944038169873371
-- in: 0.0017705765972279618
+\-\ Texto\\:\\ \ \(0\)\
+\-\ patient\\ is\\ a\\ healthy\\ appearing\\ white\\ male\\.\\ \\ laboratory\\ values\\ are\\ unremarkable\\.\ \(0\)\
+\-\ patient\\ is\\ treated\\ with\\ bronchial\\ lavage\\ when\\ symptomatic\\ and\\ followed\\ with\\ chest\\ radiographs\\ to\\ assess\\ for\\ evolution\\.\ \(0\)\
+\-\ frontal\\ and\\ lateral\\ chest\\ radiographs\\ demonstrate\\ alveolar\\ consolidation\\ and\\ ground\\ glass\\ opacities\\ in\\ a\\ bilaterally\\ symmetric\\ pattern\\ with\\ a\\ predominantly\\ perihilar\\ distribution\\.\\ \\ no\\ pleural\\ effusions\\ are\\ present\\ and\\ the\\ lung\\ volumes\\ are\\ normal\\.\\ \\ the\\ chest\\ ct\\ demonstrates\\ patchy\\ areas\\ of\\ alveolar\\ consolidation\\.\ \(0\)\
+\-\ alveolar\\ proteinosis\ \(5\)\
+\-\ pulmonary\\ alveolar\\ proteinosis\ \(1\)\
+\-\ pulmonary\\ edema\ \(53\)\
+\-\ diffuse\\ bronchioalveolar\\ carcinoma\ \(0\)\
+\-\ diffuse\\ infection\\ \ \(0\)\
+\-\ pulmonary\\ hemorrhage\ \(11\)\
+\-\ hypersensitivity\\ pneumonitis\ \(9\)\
+\-\ 43\\-year\\-old\\ male\\ with\\ dyspnea\\ and\\ nonproductive\\ cough\\.\ \(1\)\
+\-\ pulmonary\\ alveolar\\ proteinosis\\ is\\ a\\ disease\\ characterized\\ by\\ the\\ accumulation\\ of\\ proteinaceous\\ material\\ within\\ the\\ alveolar\\ spaces\\.\\ \\ the\\ cause\\ is\\ unknown\\.\\ \\ it\\ typically\\ affects\\ men\\ between\\ the\\ ages\\ of\\ 30\\ and\\ 50\\,\\ such\\ as\\ this\\ patient\\.\\ \\ patients\\ typically\\ present\\ with\\ a\\ nonproductive\\ cough\\ and\\ dyspnea\\.\ \(0\)\
+\-\ chest\\ radiographs\\ demonstrate\\ a\\ bilaterally\\ symmetric\\ and\\ predominantly\\ hilar\\ or\\ perihilar\\ distribution\\ of\\ alveolar\\ consolidation\\ and\\ ground\\ glass\\ opacities\\.\\ \\ on\\ high\\ resolution\\ chest\\ ct\\ the\\ finding\\ of\\ patchy\\ ground\\ glass\\ opacities\\ with\\ thickened\\ septal\\ walls\\ is\\ termed\\ the\\ \\‚\\Ä\\úcrazy\\ paving\\‚\\Ä\\ù\\ pattern\\.\ \(0\)\
+\-\ treatment\\ for\\ pap\\ is\\ with\\ bronchial\\ lavage\\.\\ \\ one\\-third\\ of\\ patients\\ will\\ typically\\ improve\\,\\ one\\-third\\ will\\ stay\\ the\\ same\\,\\ and\\ one\\-third\\ with\\ get\\ worse\\.\\ \\ pap\\ may\\ be\\ complicated\\ by\\ infection\\ with\\ nocardia\\,\\ aspergillus\\,\\ mycobacterial\\ or\\ mucor\\ species\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ alveolar\\:\\ 0\\.15005724580182914\ \(0\)\
+\-\ proteinosis\\:\\ 0\\.08490853212966382\ \(0\)\
+\-\ one\\-third\\:\\ 0\\.07698489356551623\ \(0\)\
+\-\ nonproductive\\:\\ 0\\.06825522053282818\ \(0\)\
+\-\ glass\\:\\ 0\\.06232332873603287\ \(0\)\
+\-\ ground\\:\\ 0\\.059302242350334294\ \(0\)\
+\-\ opacities\\:\\ 0\\.05620348231861647\ \(0\)\
+\-\ consolidation\\:\\ 0\\.05398637307747784\ \(0\)\
+\-\ pap\\:\\ 0\\.0539296063123372\ \(0\)\
+\-\ lavage\\:\\ 0\\.051903034406312935\ \(0\)\
+\-\ perihilar\\:\\ 0\\.048905765969853\ \(0\)\
+\-\ chest\\:\\ 0\\.042956491597847035\ \(0\)\
+\-\ pulmonary\\:\\ 0\\.04195882874319434\ \(0\)\
+\-\ bronchial\\:\\ 0\\.040716189163146024\ \(0\)\
+\-\ patchy\\:\\ 0\\.03849925982663226\ \(0\)\
+\-\ typically\\:\\ 0\\.03802217356520133\ \(0\)\
+\-\ crazy\\:\\ 0\\.03412761026641409\ \(0\)\
+\-\ paving\\:\\ 0\\.03412761026641409\ \(0\)\
+\-\ mucor\\:\\ 0\\.03412761026641409\ \(0\)\
+\-\ radiographs\\:\\ 0\\.03411265766221176\ \(0\)\
+\-\ dyspnea\\:\\ 0\\.03399019999580532\ \(0\)\
+\-\ predominantly\\:\\ 0\\.03364146276129479\ \(0\)\
+\-\ symmetric\\:\\ 0\\.03279717259017182\ \(0\)\
+\-\ bronchioalveolar\\:\\ 0\\.03242397535839659\ \(0\)\
+\-\ distribution\\:\\ 0\\.0323168497847941\ \(0\)\
+\-\ 43\\-year\\-old\\:\\ 0\\.030277649208119317\ \(0\)\
+\-\ nocardia\\:\\ 0\\.030277649208119317\ \(0\)\
+\-\ species\\:\\ 0\\.02780795733878268\ \(0\)\
+\-\ cough\\:\\ 0\\.027514746880740102\ \(0\)\
+\-\ pattern\\:\\ 0\\.02744909528631326\ \(0\)\
+\-\ aspergillus\\:\\ 0\\.02659920913520377\ \(0\)\
+\-\ proteinaceous\\:\\ 0\\.02566163118850541\ \(0\)\
+\-\ mycobacterial\\:\\ 0\\.024895574227186277\ \(0\)\
+\-\ evolution\\:\\ 0\\.02424788229513897\ \(0\)\
+\-\ volumes\\:\\ 0\\.024052420044572195\ \(0\)\
+\-\ termed\\:\\ 0\\.024052420044572195\ \(0\)\
+\-\ hypersensitivity\\:\\ 0\\.023865647932930036\ \(0\)\
+\-\ pneumonitis\\:\\ 0\\.023865647932930036\ \(0\)\
+\-\ bilaterally\\:\\ 0\\.023585758306923558\ \(0\)\
+\-\ stay\\:\\ 0\\.022749248076909\ \(0\)\
+\-\ will\\:\\ 0\\.022466227045202875\ \(0\)\
+\-\ get\\:\\ 0\\.021983191115589867\ \(0\)\
+\-\ diffuse\\:\\ 0\\.02173955815441441\ \(0\)\
+\-\ infection\\:\\ 0\\.02087408885775468\ \(0\)\
+\-\ affects\\:\\ 0\\.020438129014222983\ \(0\)\
+\-\ ages\\:\\ 0\\.020358094581573012\ \(0\)\
+\-\ men\\:\\ 0\\.02027955620757237\ \(0\)\
+\-\ septal\\:\\ 0\\.01956569470843204\ \(0\)\
+\-\ accumulation\\:\\ 0\\.019129573726576397\ \(0\)\
+\-\ improve\\:\\ 0\\.019129573726576397\ \(0\)\
+\-\ complicated\\:\\ 0\\.01862811676173368\ \(0\)\
+\-\ patients\\:\\ 0\\.018584660498874167\ \(0\)\
+\-\ effusions\\:\\ 0\\.018324248435768867\ \(0\)\
+\-\ walls\\:\\ 0\\.018324248435768867\ \(0\)\
+\-\ hilar\\:\\ 0\\.01804088170973722\ \(0\)\
+\-\ assess\\:\\ 0\\.01799545769249261\ \(0\)\
+\-\ values\\:\\ 0\\.017950519502926445\ \(0\)\
+\-\ characterized\\:\\ 0\\.017862059800414547\ \(0\)\
+\-\ spaces\\:\\ 0\\.01769053881503532\ \(0\)\
+\-\ demonstrate\\:\\ 0\\.016524807910361684\ \(0\)\
+\-\ present\\:\\ 0\\.016218560957409082\ \(0\)\
+\-\ healthy\\:\\ 0\\.01618770501557391\ \(0\)\
+\-\ thickened\\:\\ 0\\.016100469757387235\ \(0\)\
+\-\ material\\:\\ 0\\.016043303152110854\ \(0\)\
+\-\ appearing\\:\\ 0\\.01595898566030073\ \(0\)\
+\-\ worse\\:\\ 0\\.01590369959064732\ \(0\)\
+\-\ resolution\\:\\ 0\\.015485797096821113\ \(0\)\
+\-\ same\\:\\ 0\\.01479921680353784\ \(0\)\
+\-\ are\\:\\ 0\\.014683284107515989\ \(0\)\
+\-\ symptomatic\\:\\ 0\\.014264636238210974\ \(0\)\
+\-\ is\\:\\ 0\\.014175397774404849\ \(0\)\
+\-\ unknown\\:\\ 0\\.014012098742119776\ \(0\)\
+\-\ pleural\\:\\ 0\\.013942647893585278\ \(0\)\
+\-\ 30\\:\\ 0\\.013807098052332246\ \(0\)\
+\-\ 50\\:\\ 0\\.013659655532116826\ \(0\)\
+\-\ \\‚\\Ä\\ú\\:\\ 0\\.013409667721761175\ \(0\)\
+\-\ \\‚\\Ä\\ù\\:\\ 0\\.01333450148331254\ \(0\)\
+\-\ laboratory\\:\\ 0\\.013231477881739772\ \(0\)\
+\-\ male\\:\\ 0\\.012984920486449354\ \(0\)\
+\-\ cause\\:\\ 0\\.012148162296436832\ \(0\)\
+\-\ areas\\:\\ 0\\.012081290635487674\ \(0\)\
+\-\ followed\\:\\ 0\\.012037293577221728\ \(0\)\
+\-\ by\\:\\ 0\\.011956898346595586\ \(0\)\
+\-\ hemorrhage\\:\\ 0\\.011950657916706032\ \(0\)\
+\-\ white\\:\\ 0\\.011908000893747973\ \(0\)\
+\-\ unremarkable\\:\\ 0\\.01188683369194143\ \(0\)\
+\-\ finding\\:\\ 0\\.011571686995960005\ \(0\)\
+\-\ between\\:\\ 0\\.011380233345480016\ \(0\)\
+\-\ frontal\\:\\ 0\\.01127853753984604\ \(0\)\
+\-\ such\\:\\ 0\\.011224087352272488\ \(0\)\
+\-\ patient\\:\\ 0\\.010797377280458672\ \(0\)\
+\-\ treated\\:\\ 0\\.010747272420520416\ \(0\)\
+\-\ lung\\:\\ 0\\.010399828236297252\ \(0\)\
+\-\ when\\:\\ 0\\.010282904359731115\ \(0\)\
+\-\ carcinoma\\:\\ 0\\.010176166680738934\ \(0\)\
+\-\ edema\\:\\ 0\\.01015514071189618\ \(0\)\
+\-\ ct\\:\\ 0\\.01004456851589952\ \(0\)\
+\-\ a\\:\\ 0\\.009998314331561377\ \(0\)\
+\-\ high\\:\\ 0\\.00982582378603704\ \(0\)\
+\-\ or\\:\\ 0\\.008416157554316869\ \(0\)\
+\-\ it\\:\\ 0\\.00807079153165133\ \(0\)\
+\-\ may\\:\\ 0\\.007875329281084554\ \(0\)\
+\-\ demonstrates\\:\\ 0\\.007842946225433554\ \(0\)\
+\-\ lateral\\:\\ 0\\.00775910943539727\ \(0\)\
+\-\ and\\:\\ 0\\.007563403602194053\ \(0\)\
+\-\ treatment\\:\\ 0\\.007267298149583558\ \(0\)\
+\-\ within\\:\\ 0\\.006849291631874292\ \(0\)\
+\-\ for\\:\\ 0\\.006126959232291724\ \(0\)\
+\-\ disease\\:\\ 0\\.0058686451311584205\ \(0\)\
+\-\ \\,\\:\\ 0\\.005687186250363181\ \(0\)\
+\-\ normal\\:\\ 0\\.005628623758819752\ \(0\)\
+\-\ be\\:\\ 0\\.005536792955226593\ \(0\)\
+\-\ as\\:\\ 0\\.005430997923924906\ \(0\)\
+\-\ the\\:\\ 0\\.005227914127448034\ \(0\)\
+\-\ with\\:\\ 0\\.0044245276672647375\ \(0\)\
+\-\ this\\:\\ 0\\.0040383916525803904\ \(0\)\
+\-\ no\\:\\ 0\\.003615311557579\ \(0\)\
+\-\ on\\:\\ 0\\.003041558875484992\ \(0\)\
+\-\ of\\:\\ 0\\.0029370706083526495\ \(0\)\
+\-\ \\.\\:\\ 0\\.002386523435115716\ \(0\)\
+\-\ to\\:\\ 0\\.0017944038169873371\ \(0\)\
+\-\ in\\:\\ 0\\.0017705765972279618\ \(0\)\

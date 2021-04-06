@@ -1,97 +1,95 @@
-Texto: 
-none provided
-this patient was treated with both radiation and concomitant chemotherapy.
-t2 sequence reveals a nasopharyngeal mass on the right measuring approximately 2 cm. it invades the fossa of rosenmueller and there is extension of this mass into the skull base. it is heterogeneous in appearance but mildly hyperintense to surrounding muscles. note is made of inflammatory debris within the right mastoid air cells.
-on pre contrast t1 images, the mass is again visualized. it is isointense to the surrounding muscles. after administration of gd-dpta, there is  homogeneous enhancement of the mass.
-nasopharyngeal carcinoma, undifferentiated type.
-oropharyngeal cancer
-lymphoma
-rhabdomyosarcoma - in younger patients
-34 y/o male with hearing difficulty and problems swallowing
-
-
-Keywords by value: 
-- nasopharyngeal: 0.09404994708048148
-- gd-dpta: 0.06996443193624205
-- muscles: 0.06195021489254676
-- rosenmueller: 0.06124528678808244
-- invades: 0.05452070059453321
-- undifferentiated: 0.05024295058871823
-- oropharyngeal: 0.05024295058871823
-- it: 0.0457344853460242
-- pre: 0.044741782489036125
-- surrounding: 0.04458992483118675
-- concomitant: 0.04410652290432552
-- debris: 0.041306353264462484
-- younger: 0.03957838910696351
-- mastoid: 0.039076969252824376
-- sequence: 0.038454178654082356
-- rhabdomyosarcoma: 0.03816020030741291
-- swallowing: 0.03816020030741291
-- mass: 0.037728920855478236
-- 34: 0.03365720194811996
-- hearing: 0.033415462206177825
-- isointense: 0.03333649132639078
-- again: 0.03258720811630289
-- homogeneous: 0.032101855551593915
-- problems: 0.03139449221908592
-- difficulty: 0.030197485157700335
-- provided: 0.02925095007177321
-- skull: 0.02888387850311642
-- mildly: 0.02888387850311642
-- hyperintense: 0.028156033848437855
-- administration: 0.028156033848437855
-- fossa: 0.02764126691032642
-- visualized: 0.02745184245471814
-- cells: 0.027194021382142834
-- measuring: 0.02712187081308528
-- made: 0.027014860096122684
-- is: 0.0267757513516536
-- base: 0.02656712922882037
-- reveals: 0.026533712303928755
-- note: 0.026175123234141194
-- heterogeneous: 0.02493805679996036
-- chemotherapy: 0.024309093532864007
-- extension: 0.024208946993505186
-- inflammatory: 0.023518380509460503
-- air: 0.02294652878215846
-- type: 0.0228620970503723
-- cancer: 0.022294962415593374
-- radiation: 0.02225596229811378
-- t1: 0.02149599631924003
-- approximately: 0.020982681163139547
-- treated: 0.020300403460983007
-- there: 0.020185961213729977
-- appearance: 0.019396083942338424
-- lymphoma: 0.019382528844360997
-- carcinoma: 0.019221648174729097
-- t2: 0.019195148958336124
-- y/o: 0.018782770077933653
-- cm: 0.018190127919182425
-- enhancement: 0.018178482270817746
-- patients: 0.017552179360047823
-- both: 0.017319047545127947
-- none: 0.01682317068974608
-- into: 0.016137510856823068
-- this: 0.015256146243081477
-- contrast: 0.01518075941911036
-- 2: 0.01460400394055989
-- -: 0.014537527450066376
-- but: 0.014464311912964583
-- right: 0.014311614430324074
-- after: 0.01403175557626351
-- images: 0.013010030888486936
-- within: 0.012937550860206997
-- male: 0.012263536014979945
-- on: 0.011490333529609969
-- was: 0.007843472398521324
-- the: 0.0076805158168681
-- patient: 0.006798348658066571
-- to: 0.006778858864174384
-- in: 0.006688844922861189
-- ,: 0.006445477750411604
-- of: 0.004623166698332874
-- and: 0.004285928707909963
-- a: 0.0031476174747508035
-- .: 0.002535681149810448
-- with: 0.001857209144283964
+\-\ Texto\\:\\ \ \(0\)\
+\-\ none\\ provided\ \(5\)\
+\-\ this\\ patient\\ was\\ treated\\ with\\ both\\ radiation\\ and\\ concomitant\\ chemotherapy\\.\ \(0\)\
+\-\ t2\\ sequence\\ reveals\\ a\\ nasopharyngeal\\ mass\\ on\\ the\\ right\\ measuring\\ approximately\\ 2\\ cm\\.\\ it\\ invades\\ the\\ fossa\\ of\\ rosenmueller\\ and\\ there\\ is\\ extension\\ of\\ this\\ mass\\ into\\ the\\ skull\\ base\\.\\ it\\ is\\ heterogeneous\\ in\\ appearance\\ but\\ mildly\\ hyperintense\\ to\\ surrounding\\ muscles\\.\\ note\\ is\\ made\\ of\\ inflammatory\\ debris\\ within\\ the\\ right\\ mastoid\\ air\\ cells\\.\ \(0\)\
+\-\ on\\ pre\\ contrast\\ t1\\ images\\,\\ the\\ mass\\ is\\ again\\ visualized\\.\\ it\\ is\\ isointense\\ to\\ the\\ surrounding\\ muscles\\.\\ after\\ administration\\ of\\ gd\\-dpta\\,\\ there\\ is\\ \\ homogeneous\\ enhancement\\ of\\ the\\ mass\\.\ \(0\)\
+\-\ nasopharyngeal\\ carcinoma\\,\\ undifferentiated\\ type\\.\ \(0\)\
+\-\ oropharyngeal\\ cancer\ \(2\)\
+\-\ lymphoma\ \(373\)\
+\-\ rhabdomyosarcoma\\ \\-\\ in\\ younger\\ patients\ \(0\)\
+\-\ 34\\ y\\/o\\ male\\ with\\ hearing\\ difficulty\\ and\\ problems\\ swallowing\ \(1\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ nasopharyngeal\\:\\ 0\\.09404994708048148\ \(0\)\
+\-\ gd\\-dpta\\:\\ 0\\.06996443193624205\ \(0\)\
+\-\ muscles\\:\\ 0\\.06195021489254676\ \(0\)\
+\-\ rosenmueller\\:\\ 0\\.06124528678808244\ \(0\)\
+\-\ invades\\:\\ 0\\.05452070059453321\ \(0\)\
+\-\ undifferentiated\\:\\ 0\\.05024295058871823\ \(0\)\
+\-\ oropharyngeal\\:\\ 0\\.05024295058871823\ \(0\)\
+\-\ it\\:\\ 0\\.0457344853460242\ \(0\)\
+\-\ pre\\:\\ 0\\.044741782489036125\ \(0\)\
+\-\ surrounding\\:\\ 0\\.04458992483118675\ \(0\)\
+\-\ concomitant\\:\\ 0\\.04410652290432552\ \(0\)\
+\-\ debris\\:\\ 0\\.041306353264462484\ \(0\)\
+\-\ younger\\:\\ 0\\.03957838910696351\ \(0\)\
+\-\ mastoid\\:\\ 0\\.039076969252824376\ \(0\)\
+\-\ sequence\\:\\ 0\\.038454178654082356\ \(0\)\
+\-\ rhabdomyosarcoma\\:\\ 0\\.03816020030741291\ \(0\)\
+\-\ swallowing\\:\\ 0\\.03816020030741291\ \(0\)\
+\-\ mass\\:\\ 0\\.037728920855478236\ \(0\)\
+\-\ 34\\:\\ 0\\.03365720194811996\ \(0\)\
+\-\ hearing\\:\\ 0\\.033415462206177825\ \(0\)\
+\-\ isointense\\:\\ 0\\.03333649132639078\ \(0\)\
+\-\ again\\:\\ 0\\.03258720811630289\ \(0\)\
+\-\ homogeneous\\:\\ 0\\.032101855551593915\ \(0\)\
+\-\ problems\\:\\ 0\\.03139449221908592\ \(0\)\
+\-\ difficulty\\:\\ 0\\.030197485157700335\ \(0\)\
+\-\ provided\\:\\ 0\\.02925095007177321\ \(0\)\
+\-\ skull\\:\\ 0\\.02888387850311642\ \(0\)\
+\-\ mildly\\:\\ 0\\.02888387850311642\ \(0\)\
+\-\ hyperintense\\:\\ 0\\.028156033848437855\ \(0\)\
+\-\ administration\\:\\ 0\\.028156033848437855\ \(0\)\
+\-\ fossa\\:\\ 0\\.02764126691032642\ \(0\)\
+\-\ visualized\\:\\ 0\\.02745184245471814\ \(0\)\
+\-\ cells\\:\\ 0\\.027194021382142834\ \(0\)\
+\-\ measuring\\:\\ 0\\.02712187081308528\ \(0\)\
+\-\ made\\:\\ 0\\.027014860096122684\ \(0\)\
+\-\ is\\:\\ 0\\.0267757513516536\ \(0\)\
+\-\ base\\:\\ 0\\.02656712922882037\ \(0\)\
+\-\ reveals\\:\\ 0\\.026533712303928755\ \(0\)\
+\-\ note\\:\\ 0\\.026175123234141194\ \(0\)\
+\-\ heterogeneous\\:\\ 0\\.02493805679996036\ \(0\)\
+\-\ chemotherapy\\:\\ 0\\.024309093532864007\ \(0\)\
+\-\ extension\\:\\ 0\\.024208946993505186\ \(0\)\
+\-\ inflammatory\\:\\ 0\\.023518380509460503\ \(0\)\
+\-\ air\\:\\ 0\\.02294652878215846\ \(0\)\
+\-\ type\\:\\ 0\\.0228620970503723\ \(0\)\
+\-\ cancer\\:\\ 0\\.022294962415593374\ \(0\)\
+\-\ radiation\\:\\ 0\\.02225596229811378\ \(0\)\
+\-\ t1\\:\\ 0\\.02149599631924003\ \(0\)\
+\-\ approximately\\:\\ 0\\.020982681163139547\ \(0\)\
+\-\ treated\\:\\ 0\\.020300403460983007\ \(0\)\
+\-\ there\\:\\ 0\\.020185961213729977\ \(0\)\
+\-\ appearance\\:\\ 0\\.019396083942338424\ \(0\)\
+\-\ lymphoma\\:\\ 0\\.019382528844360997\ \(0\)\
+\-\ carcinoma\\:\\ 0\\.019221648174729097\ \(0\)\
+\-\ t2\\:\\ 0\\.019195148958336124\ \(0\)\
+\-\ y\\/o\\:\\ 0\\.018782770077933653\ \(0\)\
+\-\ cm\\:\\ 0\\.018190127919182425\ \(0\)\
+\-\ enhancement\\:\\ 0\\.018178482270817746\ \(0\)\
+\-\ patients\\:\\ 0\\.017552179360047823\ \(0\)\
+\-\ both\\:\\ 0\\.017319047545127947\ \(0\)\
+\-\ none\\:\\ 0\\.01682317068974608\ \(0\)\
+\-\ into\\:\\ 0\\.016137510856823068\ \(0\)\
+\-\ this\\:\\ 0\\.015256146243081477\ \(0\)\
+\-\ contrast\\:\\ 0\\.01518075941911036\ \(0\)\
+\-\ 2\\:\\ 0\\.01460400394055989\ \(0\)\
+\-\ \\-\\:\\ 0\\.014537527450066376\ \(0\)\
+\-\ but\\:\\ 0\\.014464311912964583\ \(0\)\
+\-\ right\\:\\ 0\\.014311614430324074\ \(0\)\
+\-\ after\\:\\ 0\\.01403175557626351\ \(0\)\
+\-\ images\\:\\ 0\\.013010030888486936\ \(0\)\
+\-\ within\\:\\ 0\\.012937550860206997\ \(0\)\
+\-\ male\\:\\ 0\\.012263536014979945\ \(0\)\
+\-\ on\\:\\ 0\\.011490333529609969\ \(0\)\
+\-\ was\\:\\ 0\\.007843472398521324\ \(0\)\
+\-\ the\\:\\ 0\\.0076805158168681\ \(0\)\
+\-\ patient\\:\\ 0\\.006798348658066571\ \(0\)\
+\-\ to\\:\\ 0\\.006778858864174384\ \(0\)\
+\-\ in\\:\\ 0\\.006688844922861189\ \(0\)\
+\-\ \\,\\:\\ 0\\.006445477750411604\ \(0\)\
+\-\ of\\:\\ 0\\.004623166698332874\ \(0\)\
+\-\ and\\:\\ 0\\.004285928707909963\ \(0\)\
+\-\ a\\:\\ 0\\.0031476174747508035\ \(0\)\
+\-\ \\.\\:\\ 0\\.002535681149810448\ \(0\)\
+\-\ with\\:\\ 0\\.001857209144283964\ \(0\)\

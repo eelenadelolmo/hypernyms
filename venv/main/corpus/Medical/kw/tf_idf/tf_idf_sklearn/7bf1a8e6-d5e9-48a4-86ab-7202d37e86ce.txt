@@ -1,130 +1,128 @@
-Texto: 
-exam revealed large asymptomatic abdominal mass.
-the patient is still recovering from surgery.  however the post op course thus far has been unremarkable.
--large (mean 12cm) mass arising from cortex of kidney.  look for ‚Äúclaw‚Äù sign: kidney tissue extending around part of mass showing organ of origination.
--usually exophytic growth with a pseudocapsule.
--cystic areas in tumor: hemorrhage, necrosis.
--<15% have calcifications.
--intrarenal mass effect causes distortion of the pyelocalyceal system.
--less contrast enhancement than residual renal parenchyma.
--vascular invasion in 5-10% (renal vein, ivc, right atrium).
-wilms tumor
--neuroblastoma
--mesoblastic nephroma
--multilocular cystic nephroma
--clear cell sarcoma
--rhabdoid tumor
--wilms tumor
-a  2 yo female emergent air evacuation from europe for newly discovered large abdominal mass.
-this case demonstrates many of the classic findings associated with wilms tumors, most notably the claw sign.  it also displays how large the mass can get and how there is such marked mass effect.  note how there is an absence of calcifications in the mass, making it easier to differentiate this from neuroblastoma.
-
-
-Keywords by value: 
-- wilms: 0.27334719720869094
-- how: 0.26335518165935573
-- mass: 0.2537038989550885
-- claw: 0.21339091751318587
-- nephroma: 0.21106095630553703
-- tumor: 0.17370567166363268
-- large: 0.16639676858582783
-- neuroblastoma: 0.1525588547431092
-- from: 0.13189460032669573
-- pyelocalyceal: 0.12687226297569595
-- origination: 0.12268519779242827
-- easier: 0.12268519779242827
-- calcifications: 0.12118583559432244
-- 12cm: 0.11943745772084272
-- kidney: 0.11665492723287864
-- effect: 0.11648062147020187
-- the: 0.11596420502474088
-- sign: 0.11495712973996346
-- pseudocapsule: 0.11454027669358556
-- europe: 0.1108825239398606
-- renal: 0.10340289815274613
-- recovering: 0.10250839357332527
-- notably: 0.10162603326114798
-- cystic: 0.10000517412474141
-- displays: 0.09855053765775021
-- of: 0.09748468569324788
-- newly: 0.09601291343015414
-- evacuation: 0.09385273629212516
-- mean: 0.09153763115159647
-- abdominal: 0.09081615814416363
-- get: 0.09030694168811
-- emergent: 0.08954073911693317
-- exophytic: 0.08917225139218819
-- distortion: 0.08778506055311859
-- differentiate: 0.08745797964917203
-- organ: 0.0853536739336655
-- it: 0.08499774609163871
-- far: 0.08453732048153302
-- atrium: 0.08427507036493104
-- look: 0.08351553346261079
-- making: 0.08303033894406599
-- ivc: 0.0806173176112061
-- op: 0.07803125910365816
-- thus: 0.0762794273715546
-- discovered: 0.07569128724309802
-- residual: 0.07554789211576113
-- part: 0.07418666825537953
-- invasion: 0.07405729417958311
-- still: 0.07355100008109783
-- showing: 0.07168547580573939
-- sarcoma: 0.06964655518947728
-- growth: 0.06845963865430543
-- is: 0.06821013621257714
-- cortex: 0.06760825633401557
-- parenchyma: 0.06744379709612516
-- around: 0.0662662424200768
-- absence: 0.0661910252620031
-- there: 0.06607005828049739
-- arising: 0.0659676783570167
-- many: 0.06545949000620961
-- necrosis: 0.06346259797154633
-- system: 0.06333872924350778
-- marked: 0.06279400708495124
-- causes: 0.06273472192072346
-- note: 0.062499967029914054
-- classic: 0.06209804242116645
-- in: 0.06196109996699289
-- course: 0.061326032573027205
-- tumors: 0.06105994677642043
-- vein: 0.059510666944184144
-- this: 0.05705714733516546
-- asymptomatic: 0.056521212433362396
-- areas: 0.056367601638673326
-- extending: 0.05629139995835494
-- 15: 0.05610262315245158
-- unremarkable: 0.05565930499194812
-- hemorrhage: 0.05558671388040267
-- revealed: 0.05443845296560124
-- air: 0.054305230180120956
-- such: 0.05340532846786312
-- yo: 0.051868743880274445
-- for: 0.050327931112147985
-- however: 0.049140556278363015
-- been: 0.04837077722659467
-- enhancement: 0.047787222942654584
-- cell: 0.04749360660521722
-- than: 0.04706399812628748
-- post: 0.0451760590267412
-- surgery: 0.0446372642281785
-- associated: 0.0437599232241497
-- can: 0.04356841404409044
-- tissue: 0.04355256811144852
-- most: 0.04320825234530354
-- exam: 0.04179437019368267
-- case: 0.04171040176254726
-- demonstrates: 0.04171040176254726
-- have: 0.0414750887045811
-- findings: 0.04097572025596534
-- contrast: 0.0403397118924122
-- female: 0.040062954435766386
-- also: 0.039052154168811505
-- has: 0.03792298679096528
-- with: 0.03251431092324009
-- an: 0.03174813466416264
-- right: 0.027525922186118396
-- patient: 0.027003569711275127
-- to: 0.020755860290359918
-- and: 0.01715591246122765
+\-\ Texto\\:\\ \ \(0\)\
+\-\ exam\\ revealed\\ large\\ asymptomatic\\ abdominal\\ mass\\.\ \(0\)\
+\-\ the\\ patient\\ is\\ still\\ recovering\\ from\\ surgery\\.\\ \\ however\\ the\\ post\\ op\\ course\\ thus\\ far\\ has\\ been\\ unremarkable\\.\ \(0\)\
+\-\ large\\ \\(mean\\ 12cm\\)\\ mass\\ arising\\ from\\ cortex\\ of\\ kidney\\.\\ \\ look\\ for\\ \\‚\\Ä\\úclaw\\‚\\Ä\\ù\\ sign\\:\\ kidney\\ tissue\\ extending\\ around\\ part\\ of\\ mass\\ showing\\ organ\\ of\\ origination\\.\ \(0\)\
+\-\ usually\\ exophytic\\ growth\\ with\\ a\\ pseudocapsule\\.\ \(0\)\
+\-\ cystic\\ areas\\ in\\ tumor\\:\\ hemorrhage\\,\\ necrosis\\.\ \(0\)\
+\-\ \\<15\\%\\ have\\ calcifications\\.\ \(1\)\
+\-\ intrarenal\\ mass\\ effect\\ causes\\ distortion\\ of\\ the\\ pyelocalyceal\\ system\\.\ \(0\)\
+\-\ less\\ contrast\\ enhancement\\ than\\ residual\\ renal\\ parenchyma\\.\ \(0\)\
+\-\ vascular\\ invasion\\ in\\ 5\\-10\\%\\ \\(renal\\ vein\\,\\ ivc\\,\\ right\\ atrium\\)\\.\ \(0\)\
+\-\ wilms\\ tumor\ \(0\)\
+\-\ neuroblastoma\ \(81\)\
+\-\ mesoblastic\\ nephroma\ \(7\)\
+\-\ multilocular\\ cystic\\ nephroma\ \(0\)\
+\-\ clear\\ cell\\ sarcoma\ \(2\)\
+\-\ rhabdoid\\ tumor\ \(8\)\
+\-\ wilms\\ tumor\ \(0\)\
+\-\ a\\ \\ 2\\ yo\\ female\\ emergent\\ air\\ evacuation\\ from\\ europe\\ for\\ newly\\ discovered\\ large\\ abdominal\\ mass\\.\ \(0\)\
+\-\ this\\ case\\ demonstrates\\ many\\ of\\ the\\ classic\\ findings\\ associated\\ with\\ wilms\\ tumors\\,\\ most\\ notably\\ the\\ claw\\ sign\\.\\ \\ it\\ also\\ displays\\ how\\ large\\ the\\ mass\\ can\\ get\\ and\\ how\\ there\\ is\\ such\\ marked\\ mass\\ effect\\.\\ \\ note\\ how\\ there\\ is\\ an\\ absence\\ of\\ calcifications\\ in\\ the\\ mass\\,\\ making\\ it\\ easier\\ to\\ differentiate\\ this\\ from\\ neuroblastoma\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ wilms\\:\\ 0\\.27334719720869094\ \(0\)\
+\-\ how\\:\\ 0\\.26335518165935573\ \(0\)\
+\-\ mass\\:\\ 0\\.2537038989550885\ \(0\)\
+\-\ claw\\:\\ 0\\.21339091751318587\ \(0\)\
+\-\ nephroma\\:\\ 0\\.21106095630553703\ \(0\)\
+\-\ tumor\\:\\ 0\\.17370567166363268\ \(0\)\
+\-\ large\\:\\ 0\\.16639676858582783\ \(0\)\
+\-\ neuroblastoma\\:\\ 0\\.1525588547431092\ \(0\)\
+\-\ from\\:\\ 0\\.13189460032669573\ \(0\)\
+\-\ pyelocalyceal\\:\\ 0\\.12687226297569595\ \(0\)\
+\-\ origination\\:\\ 0\\.12268519779242827\ \(0\)\
+\-\ easier\\:\\ 0\\.12268519779242827\ \(0\)\
+\-\ calcifications\\:\\ 0\\.12118583559432244\ \(0\)\
+\-\ 12cm\\:\\ 0\\.11943745772084272\ \(0\)\
+\-\ kidney\\:\\ 0\\.11665492723287864\ \(0\)\
+\-\ effect\\:\\ 0\\.11648062147020187\ \(0\)\
+\-\ the\\:\\ 0\\.11596420502474088\ \(0\)\
+\-\ sign\\:\\ 0\\.11495712973996346\ \(0\)\
+\-\ pseudocapsule\\:\\ 0\\.11454027669358556\ \(0\)\
+\-\ europe\\:\\ 0\\.1108825239398606\ \(0\)\
+\-\ renal\\:\\ 0\\.10340289815274613\ \(0\)\
+\-\ recovering\\:\\ 0\\.10250839357332527\ \(0\)\
+\-\ notably\\:\\ 0\\.10162603326114798\ \(0\)\
+\-\ cystic\\:\\ 0\\.10000517412474141\ \(0\)\
+\-\ displays\\:\\ 0\\.09855053765775021\ \(0\)\
+\-\ of\\:\\ 0\\.09748468569324788\ \(0\)\
+\-\ newly\\:\\ 0\\.09601291343015414\ \(0\)\
+\-\ evacuation\\:\\ 0\\.09385273629212516\ \(0\)\
+\-\ mean\\:\\ 0\\.09153763115159647\ \(0\)\
+\-\ abdominal\\:\\ 0\\.09081615814416363\ \(0\)\
+\-\ get\\:\\ 0\\.09030694168811\ \(0\)\
+\-\ emergent\\:\\ 0\\.08954073911693317\ \(0\)\
+\-\ exophytic\\:\\ 0\\.08917225139218819\ \(0\)\
+\-\ distortion\\:\\ 0\\.08778506055311859\ \(0\)\
+\-\ differentiate\\:\\ 0\\.08745797964917203\ \(0\)\
+\-\ organ\\:\\ 0\\.0853536739336655\ \(0\)\
+\-\ it\\:\\ 0\\.08499774609163871\ \(0\)\
+\-\ far\\:\\ 0\\.08453732048153302\ \(0\)\
+\-\ atrium\\:\\ 0\\.08427507036493104\ \(0\)\
+\-\ look\\:\\ 0\\.08351553346261079\ \(0\)\
+\-\ making\\:\\ 0\\.08303033894406599\ \(0\)\
+\-\ ivc\\:\\ 0\\.0806173176112061\ \(0\)\
+\-\ op\\:\\ 0\\.07803125910365816\ \(0\)\
+\-\ thus\\:\\ 0\\.0762794273715546\ \(0\)\
+\-\ discovered\\:\\ 0\\.07569128724309802\ \(0\)\
+\-\ residual\\:\\ 0\\.07554789211576113\ \(0\)\
+\-\ part\\:\\ 0\\.07418666825537953\ \(0\)\
+\-\ invasion\\:\\ 0\\.07405729417958311\ \(0\)\
+\-\ still\\:\\ 0\\.07355100008109783\ \(0\)\
+\-\ showing\\:\\ 0\\.07168547580573939\ \(0\)\
+\-\ sarcoma\\:\\ 0\\.06964655518947728\ \(0\)\
+\-\ growth\\:\\ 0\\.06845963865430543\ \(0\)\
+\-\ is\\:\\ 0\\.06821013621257714\ \(0\)\
+\-\ cortex\\:\\ 0\\.06760825633401557\ \(0\)\
+\-\ parenchyma\\:\\ 0\\.06744379709612516\ \(0\)\
+\-\ around\\:\\ 0\\.0662662424200768\ \(0\)\
+\-\ absence\\:\\ 0\\.0661910252620031\ \(0\)\
+\-\ there\\:\\ 0\\.06607005828049739\ \(0\)\
+\-\ arising\\:\\ 0\\.0659676783570167\ \(0\)\
+\-\ many\\:\\ 0\\.06545949000620961\ \(0\)\
+\-\ necrosis\\:\\ 0\\.06346259797154633\ \(0\)\
+\-\ system\\:\\ 0\\.06333872924350778\ \(0\)\
+\-\ marked\\:\\ 0\\.06279400708495124\ \(0\)\
+\-\ causes\\:\\ 0\\.06273472192072346\ \(0\)\
+\-\ note\\:\\ 0\\.062499967029914054\ \(0\)\
+\-\ classic\\:\\ 0\\.06209804242116645\ \(0\)\
+\-\ in\\:\\ 0\\.06196109996699289\ \(0\)\
+\-\ course\\:\\ 0\\.061326032573027205\ \(0\)\
+\-\ tumors\\:\\ 0\\.06105994677642043\ \(0\)\
+\-\ vein\\:\\ 0\\.059510666944184144\ \(0\)\
+\-\ this\\:\\ 0\\.05705714733516546\ \(0\)\
+\-\ asymptomatic\\:\\ 0\\.056521212433362396\ \(0\)\
+\-\ areas\\:\\ 0\\.056367601638673326\ \(0\)\
+\-\ extending\\:\\ 0\\.05629139995835494\ \(0\)\
+\-\ 15\\:\\ 0\\.05610262315245158\ \(0\)\
+\-\ unremarkable\\:\\ 0\\.05565930499194812\ \(0\)\
+\-\ hemorrhage\\:\\ 0\\.05558671388040267\ \(0\)\
+\-\ revealed\\:\\ 0\\.05443845296560124\ \(0\)\
+\-\ air\\:\\ 0\\.054305230180120956\ \(0\)\
+\-\ such\\:\\ 0\\.05340532846786312\ \(0\)\
+\-\ yo\\:\\ 0\\.051868743880274445\ \(0\)\
+\-\ for\\:\\ 0\\.050327931112147985\ \(0\)\
+\-\ however\\:\\ 0\\.049140556278363015\ \(0\)\
+\-\ been\\:\\ 0\\.04837077722659467\ \(0\)\
+\-\ enhancement\\:\\ 0\\.047787222942654584\ \(0\)\
+\-\ cell\\:\\ 0\\.04749360660521722\ \(0\)\
+\-\ than\\:\\ 0\\.04706399812628748\ \(0\)\
+\-\ post\\:\\ 0\\.0451760590267412\ \(0\)\
+\-\ surgery\\:\\ 0\\.0446372642281785\ \(0\)\
+\-\ associated\\:\\ 0\\.0437599232241497\ \(0\)\
+\-\ can\\:\\ 0\\.04356841404409044\ \(0\)\
+\-\ tissue\\:\\ 0\\.04355256811144852\ \(0\)\
+\-\ most\\:\\ 0\\.04320825234530354\ \(0\)\
+\-\ exam\\:\\ 0\\.04179437019368267\ \(0\)\
+\-\ case\\:\\ 0\\.04171040176254726\ \(0\)\
+\-\ demonstrates\\:\\ 0\\.04171040176254726\ \(0\)\
+\-\ have\\:\\ 0\\.0414750887045811\ \(0\)\
+\-\ findings\\:\\ 0\\.04097572025596534\ \(0\)\
+\-\ contrast\\:\\ 0\\.0403397118924122\ \(0\)\
+\-\ female\\:\\ 0\\.040062954435766386\ \(0\)\
+\-\ also\\:\\ 0\\.039052154168811505\ \(0\)\
+\-\ has\\:\\ 0\\.03792298679096528\ \(0\)\
+\-\ with\\:\\ 0\\.03251431092324009\ \(0\)\
+\-\ an\\:\\ 0\\.03174813466416264\ \(0\)\
+\-\ right\\:\\ 0\\.027525922186118396\ \(0\)\
+\-\ patient\\:\\ 0\\.027003569711275127\ \(0\)\
+\-\ to\\:\\ 0\\.020755860290359918\ \(0\)\
+\-\ and\\:\\ 0\\.01715591246122765\ \(0\)\

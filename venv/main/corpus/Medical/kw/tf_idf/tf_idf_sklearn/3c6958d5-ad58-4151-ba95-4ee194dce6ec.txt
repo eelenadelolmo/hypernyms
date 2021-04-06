@@ -1,61 +1,59 @@
-Texto: 
-decreased breath sounds in left lung.
-the patient underwent needle decompression with subsequent chest tube placement.
-â€¢ left sided pneumothorax
-â€¢ depression of left hemidiaphragm
-â€¢ mediastinal shift to right
-â€¢ splaying of left sided ribs
-tension pneumothorax
-tension pneumothorax
-nontension pneumothorax
-14 m.o. infant status post patent ductus arteriosus closure with increased work of breathi
-the patient did well following needle decompression and chest tube placement, with rapid reexpansion of the left lung.
-
-
-Keywords by value: 
-- pneumothorax: 0.4342931032924316
-- tension: 0.28165487922051824
-- decompression: 0.2407382455629163
-- needle: 0.2312284202762308
-- left: 0.21248289681175098
-- breathi: 0.19922877968984326
-- tube: 0.19909388449294252
-- placement: 0.1945602009609728
-- nontension: 0.19037373504821187
-- reexpansion: 0.18409098088955317
-- sided: 0.16027099404463713
-- ductus: 0.15673160571873118
-- splaying: 0.15381538328897298
-- arteriosus: 0.15381538328897298
-- lung: 0.15156556780410074
-- closure: 0.13172280108325987
-- chest: 0.13151811115110104
-- depression: 0.12982253984705147
-- hemidiaphragm: 0.12982253984705147
-- ribs: 0.12221579079504344
-- rapid: 0.11585289259319921
-- patent: 0.11293667016344101
-- infant: 0.10999421442451153
-- shift: 0.10945047113644812
-- work: 0.1015716438607297
-- mediastinal: 0.10059542649481672
-- of: 0.09751815613672107
-- sounds: 0.09618041051757077
-- subsequent: 0.09431267233615803
-- 14: 0.09300974761063614
-- breath: 0.09130712778900518
-- did: 0.0893679027114905
-- status: 0.08693882078927465
-- underwent: 0.08581861487627428
-- patient: 0.08103852339348581
-- decreased: 0.077166727302049
-- following: 0.07473549701258345
-- the: 0.07457401300894807
-- with: 0.0731823174088316
-- post: 0.06778735469806128
-- increased: 0.06736634450822997
-- well: 0.060321716802029704
-- right: 0.04130305942616971
-- to: 0.031144479927591562
-- in: 0.03099118686189039
-- and: 0.02574270417190967
+\-\ Texto\\:\\ \ \(0\)\
+\-\ decreased\\ breath\\ sounds\\ in\\ left\\ lung\\.\ \(0\)\
+\-\ the\\ patient\\ underwent\\ needle\\ decompression\\ with\\ subsequent\\ chest\\ tube\\ placement\\.\ \(0\)\
+\-\ \\â\\€\\¢\\ left\\ sided\\ pneumothorax\ \(1\)\
+\-\ \\â\\€\\¢\\ depression\\ of\\ left\\ hemidiaphragm\ \(1\)\
+\-\ \\â\\€\\¢\\ mediastinal\\ shift\\ to\\ right\ \(1\)\
+\-\ \\â\\€\\¢\\ splaying\\ of\\ left\\ sided\\ ribs\ \(1\)\
+\-\ tension\\ pneumothorax\ \(13\)\
+\-\ tension\\ pneumothorax\ \(13\)\
+\-\ nontension\\ pneumothorax\ \(1\)\
+\-\ 14\\ m\\.o\\.\\ infant\\ status\\ post\\ patent\\ ductus\\ arteriosus\\ closure\\ with\\ increased\\ work\\ of\\ breathi\ \(1\)\
+\-\ the\\ patient\\ did\\ well\\ following\\ needle\\ decompression\\ and\\ chest\\ tube\\ placement\\,\\ with\\ rapid\\ reexpansion\\ of\\ the\\ left\\ lung\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ pneumothorax\\:\\ 0\\.4342931032924316\ \(0\)\
+\-\ tension\\:\\ 0\\.28165487922051824\ \(0\)\
+\-\ decompression\\:\\ 0\\.2407382455629163\ \(0\)\
+\-\ needle\\:\\ 0\\.2312284202762308\ \(0\)\
+\-\ left\\:\\ 0\\.21248289681175098\ \(0\)\
+\-\ breathi\\:\\ 0\\.19922877968984326\ \(0\)\
+\-\ tube\\:\\ 0\\.19909388449294252\ \(0\)\
+\-\ placement\\:\\ 0\\.1945602009609728\ \(0\)\
+\-\ nontension\\:\\ 0\\.19037373504821187\ \(0\)\
+\-\ reexpansion\\:\\ 0\\.18409098088955317\ \(0\)\
+\-\ sided\\:\\ 0\\.16027099404463713\ \(0\)\
+\-\ ductus\\:\\ 0\\.15673160571873118\ \(0\)\
+\-\ splaying\\:\\ 0\\.15381538328897298\ \(0\)\
+\-\ arteriosus\\:\\ 0\\.15381538328897298\ \(0\)\
+\-\ lung\\:\\ 0\\.15156556780410074\ \(0\)\
+\-\ closure\\:\\ 0\\.13172280108325987\ \(0\)\
+\-\ chest\\:\\ 0\\.13151811115110104\ \(0\)\
+\-\ depression\\:\\ 0\\.12982253984705147\ \(0\)\
+\-\ hemidiaphragm\\:\\ 0\\.12982253984705147\ \(0\)\
+\-\ ribs\\:\\ 0\\.12221579079504344\ \(0\)\
+\-\ rapid\\:\\ 0\\.11585289259319921\ \(0\)\
+\-\ patent\\:\\ 0\\.11293667016344101\ \(0\)\
+\-\ infant\\:\\ 0\\.10999421442451153\ \(0\)\
+\-\ shift\\:\\ 0\\.10945047113644812\ \(0\)\
+\-\ work\\:\\ 0\\.1015716438607297\ \(0\)\
+\-\ mediastinal\\:\\ 0\\.10059542649481672\ \(0\)\
+\-\ of\\:\\ 0\\.09751815613672107\ \(0\)\
+\-\ sounds\\:\\ 0\\.09618041051757077\ \(0\)\
+\-\ subsequent\\:\\ 0\\.09431267233615803\ \(0\)\
+\-\ 14\\:\\ 0\\.09300974761063614\ \(0\)\
+\-\ breath\\:\\ 0\\.09130712778900518\ \(0\)\
+\-\ did\\:\\ 0\\.0893679027114905\ \(0\)\
+\-\ status\\:\\ 0\\.08693882078927465\ \(0\)\
+\-\ underwent\\:\\ 0\\.08581861487627428\ \(0\)\
+\-\ patient\\:\\ 0\\.08103852339348581\ \(0\)\
+\-\ decreased\\:\\ 0\\.077166727302049\ \(0\)\
+\-\ following\\:\\ 0\\.07473549701258345\ \(0\)\
+\-\ the\\:\\ 0\\.07457401300894807\ \(0\)\
+\-\ with\\:\\ 0\\.0731823174088316\ \(0\)\
+\-\ post\\:\\ 0\\.06778735469806128\ \(0\)\
+\-\ increased\\:\\ 0\\.06736634450822997\ \(0\)\
+\-\ well\\:\\ 0\\.060321716802029704\ \(0\)\
+\-\ right\\:\\ 0\\.04130305942616971\ \(0\)\
+\-\ to\\:\\ 0\\.031144479927591562\ \(0\)\
+\-\ in\\:\\ 0\\.03099118686189039\ \(0\)\
+\-\ and\\:\\ 0\\.02574270417190967\ \(0\)\

@@ -1,98 +1,96 @@
-Texto: 
-n/a
-the patient underwent surgical resection of the mass and follow-up mr examinations have demonstrated no evidence of residual disease or recurrence.
-multiple representative mr images are demonstrated. a sagital t1 pre-contrast shows a predominantly low signal intensity midline extra-axial clival mass with some mass effect on the pons. an axial diffusion weighted image demonstrates no restricted diffusion. coronal flair and axial t2 images demonstrate that the mass is predominantly high in signal intensity.  post gadolinium sagital and axial (fat sat) t1 images deomstrate enhancement within the mass.
-clival chordoma
-chordoma
-metastatic disease
-multiple myeloma
-chondrosarcoma
-cholestatoma
-20 year-old female with a history of diplopia presents to the emergency department.
-please see factoid.
-
-
-Keywords by value: 
-- clival: 0.13207107712856184
-- chordoma: 0.09100231868452517
-- sagital: 0.08750457267449353
-- cholestatoma: 0.0716708814956626
-- deomstrate: 0.06603553856428092
-- predominantly: 0.06509486290396879
-- diffusion: 0.06219651767784979
-- axial: 0.059482718928484675
-- pre-contrast: 0.05081763468703221
-- intensity: 0.05022228742080165
-- representative: 0.0496542131940186
-- mass: 0.04831142304664896
-- mr: 0.04414958490969812
-- t1: 0.04404057782478445
-- examinations: 0.04276561270306573
-- demonstrated: 0.04077105662531655
-- diplopia: 0.040543715670548
-- myeloma: 0.040368868473629596
-- images: 0.0399820461451062
-- pons: 0.03970481944099327
-- sat: 0.03954694882426887
-- extra-axial: 0.0370149475359771
-- signal: 0.036635354963785026
-- chondrosarcoma: 0.03473352554224793
-- residual: 0.03447810931270826
-- gadolinium: 0.03295402023714425
-- restricted: 0.03197330488926933
-- flair: 0.03185104572370396
-- department: 0.03115375448990376
-- please: 0.030826324415611565
-- recurrence: 0.030308309664504998
-- weighted: 0.03020855281416504
-- multiple: 0.029265138267955595
-- coronal: 0.028927016682428596
-- midline: 0.026879106401126188
-- emergency: 0.026307224373823383
-- year-old: 0.025518411558522087
-- n/a: 0.025164281685846234
-- 20: 0.02497979866794322
-- effect: 0.02459803457779874
-- factoid: 0.024353134094423877
-- underwent: 0.02383899215835951
-- disease: 0.02271117953196267
-- follow-up: 0.022601926759688962
-- post: 0.02187670758595361
-- image: 0.02170072492924879
-- resection: 0.021665980939188773
-- fat: 0.021129368478712468
-- some: 0.02109697767371349
-- see: 0.02073347326202267
-- t2: 0.019663323323173595
-- low: 0.019318439454198373
-- shows: 0.019100599184787636
-- high: 0.019012569602250534
-- enhancement: 0.018621859887179158
-- evidence: 0.018214980352576245
-- metastatic: 0.0174886943383422
-- demonstrate: 0.015987415783195454
-- demonstrates: 0.015175782127261676
-- have: 0.01504421201922839
-- surgical: 0.014603429026434583
-- female: 0.014282603832909219
-- presents: 0.014192230044779887
-- no: 0.013990961800061822
-- within: 0.013253100881187656
-- that: 0.011999843321616452
-- a: 0.009673165898014665
-- an: 0.009607031416949024
-- history: 0.00959524014396003
-- are: 0.009470519288858552
-- or: 0.008142461373688679
-- patient: 0.006964162039970635
-- the: 0.006743867546518332
-- on: 0.005885292783458765
-- (: 0.005872859562958216
-- ): 0.005801119448075652
-- is: 0.004571469742965249
-- and: 0.004390463554444352
-- to: 0.003472098442625905
-- in: 0.003425993740977683
-- of: 0.002841556117024108
-- .: 0.002308912916900571
-- with: 0.0019025069282908901
+\-\ Texto\\:\\ \ \(0\)\
+\-\ n\\/a\ \(127\)\
+\-\ the\\ patient\\ underwent\\ surgical\\ resection\\ of\\ the\\ mass\\ and\\ follow\\-up\\ mr\\ examinations\\ have\\ demonstrated\\ no\\ evidence\\ of\\ residual\\ disease\\ or\\ recurrence\\.\ \(0\)\
+\-\ multiple\\ representative\\ mr\\ images\\ are\\ demonstrated\\.\\ a\\ sagital\\ t1\\ pre\\-contrast\\ shows\\ a\\ predominantly\\ low\\ signal\\ intensity\\ midline\\ extra\\-axial\\ clival\\ mass\\ with\\ some\\ mass\\ effect\\ on\\ the\\ pons\\.\\ an\\ axial\\ diffusion\\ weighted\\ image\\ demonstrates\\ no\\ restricted\\ diffusion\\.\\ coronal\\ flair\\ and\\ axial\\ t2\\ images\\ demonstrate\\ that\\ the\\ mass\\ is\\ predominantly\\ high\\ in\\ signal\\ intensity\\.\\ \\ post\\ gadolinium\\ sagital\\ and\\ axial\\ \\(fat\\ sat\\)\\ t1\\ images\\ deomstrate\\ enhancement\\ within\\ the\\ mass\\.\ \(0\)\
+\-\ clival\\ chordoma\ \(0\)\
+\-\ chordoma\ \(7\)\
+\-\ metastatic\\ disease\ \(243\)\
+\-\ multiple\\ myeloma\ \(25\)\
+\-\ chondrosarcoma\ \(79\)\
+\-\ cholestatoma\ \(0\)\
+\-\ 20\\ year\\-old\\ female\\ with\\ a\\ history\\ of\\ diplopia\\ presents\\ to\\ the\\ emergency\\ department\\.\ \(1\)\
+\-\ please\\ see\\ factoid\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ clival\\:\\ 0\\.13207107712856184\ \(0\)\
+\-\ chordoma\\:\\ 0\\.09100231868452517\ \(0\)\
+\-\ sagital\\:\\ 0\\.08750457267449353\ \(0\)\
+\-\ cholestatoma\\:\\ 0\\.0716708814956626\ \(0\)\
+\-\ deomstrate\\:\\ 0\\.06603553856428092\ \(0\)\
+\-\ predominantly\\:\\ 0\\.06509486290396879\ \(0\)\
+\-\ diffusion\\:\\ 0\\.06219651767784979\ \(0\)\
+\-\ axial\\:\\ 0\\.059482718928484675\ \(0\)\
+\-\ pre\\-contrast\\:\\ 0\\.05081763468703221\ \(0\)\
+\-\ intensity\\:\\ 0\\.05022228742080165\ \(0\)\
+\-\ representative\\:\\ 0\\.0496542131940186\ \(0\)\
+\-\ mass\\:\\ 0\\.04831142304664896\ \(0\)\
+\-\ mr\\:\\ 0\\.04414958490969812\ \(0\)\
+\-\ t1\\:\\ 0\\.04404057782478445\ \(0\)\
+\-\ examinations\\:\\ 0\\.04276561270306573\ \(0\)\
+\-\ demonstrated\\:\\ 0\\.04077105662531655\ \(0\)\
+\-\ diplopia\\:\\ 0\\.040543715670548\ \(0\)\
+\-\ myeloma\\:\\ 0\\.040368868473629596\ \(0\)\
+\-\ images\\:\\ 0\\.0399820461451062\ \(0\)\
+\-\ pons\\:\\ 0\\.03970481944099327\ \(0\)\
+\-\ sat\\:\\ 0\\.03954694882426887\ \(0\)\
+\-\ extra\\-axial\\:\\ 0\\.0370149475359771\ \(0\)\
+\-\ signal\\:\\ 0\\.036635354963785026\ \(0\)\
+\-\ chondrosarcoma\\:\\ 0\\.03473352554224793\ \(0\)\
+\-\ residual\\:\\ 0\\.03447810931270826\ \(0\)\
+\-\ gadolinium\\:\\ 0\\.03295402023714425\ \(0\)\
+\-\ restricted\\:\\ 0\\.03197330488926933\ \(0\)\
+\-\ flair\\:\\ 0\\.03185104572370396\ \(0\)\
+\-\ department\\:\\ 0\\.03115375448990376\ \(0\)\
+\-\ please\\:\\ 0\\.030826324415611565\ \(0\)\
+\-\ recurrence\\:\\ 0\\.030308309664504998\ \(0\)\
+\-\ weighted\\:\\ 0\\.03020855281416504\ \(0\)\
+\-\ multiple\\:\\ 0\\.029265138267955595\ \(0\)\
+\-\ coronal\\:\\ 0\\.028927016682428596\ \(0\)\
+\-\ midline\\:\\ 0\\.026879106401126188\ \(0\)\
+\-\ emergency\\:\\ 0\\.026307224373823383\ \(0\)\
+\-\ year\\-old\\:\\ 0\\.025518411558522087\ \(0\)\
+\-\ n\\/a\\:\\ 0\\.025164281685846234\ \(0\)\
+\-\ 20\\:\\ 0\\.02497979866794322\ \(0\)\
+\-\ effect\\:\\ 0\\.02459803457779874\ \(0\)\
+\-\ factoid\\:\\ 0\\.024353134094423877\ \(0\)\
+\-\ underwent\\:\\ 0\\.02383899215835951\ \(0\)\
+\-\ disease\\:\\ 0\\.02271117953196267\ \(0\)\
+\-\ follow\\-up\\:\\ 0\\.022601926759688962\ \(0\)\
+\-\ post\\:\\ 0\\.02187670758595361\ \(0\)\
+\-\ image\\:\\ 0\\.02170072492924879\ \(0\)\
+\-\ resection\\:\\ 0\\.021665980939188773\ \(0\)\
+\-\ fat\\:\\ 0\\.021129368478712468\ \(0\)\
+\-\ some\\:\\ 0\\.02109697767371349\ \(0\)\
+\-\ see\\:\\ 0\\.02073347326202267\ \(0\)\
+\-\ t2\\:\\ 0\\.019663323323173595\ \(0\)\
+\-\ low\\:\\ 0\\.019318439454198373\ \(0\)\
+\-\ shows\\:\\ 0\\.019100599184787636\ \(0\)\
+\-\ high\\:\\ 0\\.019012569602250534\ \(0\)\
+\-\ enhancement\\:\\ 0\\.018621859887179158\ \(0\)\
+\-\ evidence\\:\\ 0\\.018214980352576245\ \(0\)\
+\-\ metastatic\\:\\ 0\\.0174886943383422\ \(0\)\
+\-\ demonstrate\\:\\ 0\\.015987415783195454\ \(0\)\
+\-\ demonstrates\\:\\ 0\\.015175782127261676\ \(0\)\
+\-\ have\\:\\ 0\\.01504421201922839\ \(0\)\
+\-\ surgical\\:\\ 0\\.014603429026434583\ \(0\)\
+\-\ female\\:\\ 0\\.014282603832909219\ \(0\)\
+\-\ presents\\:\\ 0\\.014192230044779887\ \(0\)\
+\-\ no\\:\\ 0\\.013990961800061822\ \(0\)\
+\-\ within\\:\\ 0\\.013253100881187656\ \(0\)\
+\-\ that\\:\\ 0\\.011999843321616452\ \(0\)\
+\-\ a\\:\\ 0\\.009673165898014665\ \(0\)\
+\-\ an\\:\\ 0\\.009607031416949024\ \(0\)\
+\-\ history\\:\\ 0\\.00959524014396003\ \(0\)\
+\-\ are\\:\\ 0\\.009470519288858552\ \(0\)\
+\-\ or\\:\\ 0\\.008142461373688679\ \(0\)\
+\-\ patient\\:\\ 0\\.006964162039970635\ \(0\)\
+\-\ the\\:\\ 0\\.006743867546518332\ \(0\)\
+\-\ on\\:\\ 0\\.005885292783458765\ \(0\)\
+\-\ \\(\\:\\ 0\\.005872859562958216\ \(0\)\
+\-\ \\)\\:\\ 0\\.005801119448075652\ \(0\)\
+\-\ is\\:\\ 0\\.004571469742965249\ \(0\)\
+\-\ and\\:\\ 0\\.004390463554444352\ \(0\)\
+\-\ to\\:\\ 0\\.003472098442625905\ \(0\)\
+\-\ in\\:\\ 0\\.003425993740977683\ \(0\)\
+\-\ of\\:\\ 0\\.002841556117024108\ \(0\)\
+\-\ \\.\\:\\ 0\\.002308912916900571\ \(0\)\
+\-\ with\\:\\ 0\\.0019025069282908901\ \(0\)\

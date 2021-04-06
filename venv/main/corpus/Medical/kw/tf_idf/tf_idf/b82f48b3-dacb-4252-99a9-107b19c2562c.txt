@@ -1,83 +1,79 @@
-Texto: 
-pain with rom.  ballotment shows no palpable effusion.
-patient is managed with the appropriate pain regimen with nsaids and corticosteroid injection on occasion.  exercise therapy is helpful as adjunct therapy.
-frontal radiograph of the bilateral knees shows a 
-thin band of calcification seen in the cartilaginous portion of the knee joints.  
-
-lateral radiograph of the right knee shows significant narrowing and degenerative change within the patellofemoral compartment of the knee joint.
-cppd arthropathy
-for chondocalcinosis:
-
-cppd (pseudogout)
-hemachromatosis
-hyperparthyroidism
-62 year-old female with bilateral knee pain for 3 years.
-
-
-Keywords by value: 
-- knee: 0.12519154434586977
-- cppd: 0.10871780241376469
-- ballotment: 0.08904564064612626
-- chondocalcinosis: 0.08904564064612626
-- hyperparthyroidism: 0.08904564064612626
-- hemachromatosis: 0.07794854682119585
-- shows: 0.07119314241602663
-- pseudogout: 0.0680411806291582
-- occasion: 0.06578720536335811
-- adjunct: 0.0631370612778279
-- patellofemoral: 0.060427324039497805
-- compartment: 0.05782298960210286
-- corticosteroid: 0.0553870092302151
-- cartilaginous: 0.0553870092302151
-- radiograph: 0.054988861695381065
-- regimen: 0.05403820728451285
-- knees: 0.050155260830873134
-- band: 0.04973432450359466
-- arthropathy: 0.04856752766398008
-- 62: 0.04719579492499966
-- nsaids: 0.04657399802601549
-- managed: 0.04642435069485244
-- therapy: 0.046154359520012386
-- rom: 0.04557023566426594
-- helpful: 0.04465726534640464
-- exercise: 0.044289915405284694
-- bilateral: 0.04189530766291806
-- appropriate: 0.04068713819378235
-- injection: 0.04027479481478988
-- joints: 0.03949741056088959
-- degenerative: 0.03913006061976964
-- thin: 0.03547690420108508
-- narrowing: 0.034610572668181794
-- change: 0.033643651418947915
-- effusion: 0.03279973656773133
-- year-old: 0.031704693148466835
-- pain: 0.03162448992517378
-- calcification: 0.03133116786320333
-- portion: 0.031264713609687744
-- palpable: 0.03059213174343223
-- joint: 0.027913426818606882
-- frontal: 0.02711405994427634
-- years: 0.025345890272913965
-- significant: 0.023210577283375996
-- 3: 0.020211874007136765
-- lateral: 0.018653212582066165
-- female: 0.017745053246947817
-- seen: 0.017056844596643337
-- within: 0.016465973822081634
-- for: 0.01472945754833768
-- as: 0.01305633844337503
-- :: 0.011416917333239041
-- is: 0.011359409664337893
-- the: 0.009775201948741218
-- right: 0.00910739100111532
-- no: 0.008691355057614163
-- patient: 0.008652443746630182
-- on: 0.007312030427933618
-- (: 0.0072965830933723295
-- ): 0.007207451435487931
-- of: 0.005884030343332749
-- with: 0.004727441458177364
-- in: 0.0042565376781843935
-- a: 0.004006058604228296
-- and: 0.0036365455703478477
-- .: 0.0025100682089032717
+\-\ Texto\\:\\ \ \(0\)\
+\-\ pain\\ with\\ rom\\.\\ \\ ballotment\\ shows\\ no\\ palpable\\ effusion\\.\ \(0\)\
+\-\ patient\\ is\\ managed\\ with\\ the\\ appropriate\\ pain\\ regimen\\ with\\ nsaids\\ and\\ corticosteroid\\ injection\\ on\\ occasion\\.\\ \\ exercise\\ therapy\\ is\\ helpful\\ as\\ adjunct\\ therapy\\.\ \(0\)\
+\-\ frontal\\ radiograph\\ of\\ the\\ bilateral\\ knees\\ shows\\ a\\ \ \(0\)\
+\-\ thin\\ band\\ of\\ calcification\\ seen\\ in\\ the\\ cartilaginous\\ portion\\ of\\ the\\ knee\\ joints\\.\\ \\ \ \(1\)\
+\-\ lateral\\ radiograph\\ of\\ the\\ right\\ knee\\ shows\\ significant\\ narrowing\\ and\\ degenerative\\ change\\ within\\ the\\ patellofemoral\\ compartment\\ of\\ the\\ knee\\ joint\\.\ \(0\)\
+\-\ cppd\\ arthropathy\ \(0\)\
+\-\ for\\ chondocalcinosis\\:\ \(0\)\
+\-\ cppd\\ \\(pseudogout\\)\ \(0\)\
+\-\ hemachromatosis\ \(0\)\
+\-\ hyperparthyroidism\ \(0\)\
+\-\ 62\\ year\\-old\\ female\\ with\\ bilateral\\ knee\\ pain\\ for\\ 3\\ years\\.\ \(1\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ knee\\:\\ 0\\.12519154434586977\ \(0\)\
+\-\ cppd\\:\\ 0\\.10871780241376469\ \(0\)\
+\-\ ballotment\\:\\ 0\\.08904564064612626\ \(0\)\
+\-\ chondocalcinosis\\:\\ 0\\.08904564064612626\ \(0\)\
+\-\ hyperparthyroidism\\:\\ 0\\.08904564064612626\ \(0\)\
+\-\ hemachromatosis\\:\\ 0\\.07794854682119585\ \(0\)\
+\-\ shows\\:\\ 0\\.07119314241602663\ \(0\)\
+\-\ pseudogout\\:\\ 0\\.0680411806291582\ \(0\)\
+\-\ occasion\\:\\ 0\\.06578720536335811\ \(0\)\
+\-\ adjunct\\:\\ 0\\.0631370612778279\ \(0\)\
+\-\ patellofemoral\\:\\ 0\\.060427324039497805\ \(0\)\
+\-\ compartment\\:\\ 0\\.05782298960210286\ \(0\)\
+\-\ corticosteroid\\:\\ 0\\.0553870092302151\ \(0\)\
+\-\ cartilaginous\\:\\ 0\\.0553870092302151\ \(0\)\
+\-\ radiograph\\:\\ 0\\.054988861695381065\ \(0\)\
+\-\ regimen\\:\\ 0\\.05403820728451285\ \(0\)\
+\-\ knees\\:\\ 0\\.050155260830873134\ \(0\)\
+\-\ band\\:\\ 0\\.04973432450359466\ \(0\)\
+\-\ arthropathy\\:\\ 0\\.04856752766398008\ \(0\)\
+\-\ 62\\:\\ 0\\.04719579492499966\ \(0\)\
+\-\ nsaids\\:\\ 0\\.04657399802601549\ \(0\)\
+\-\ managed\\:\\ 0\\.04642435069485244\ \(0\)\
+\-\ therapy\\:\\ 0\\.046154359520012386\ \(0\)\
+\-\ rom\\:\\ 0\\.04557023566426594\ \(0\)\
+\-\ helpful\\:\\ 0\\.04465726534640464\ \(0\)\
+\-\ exercise\\:\\ 0\\.044289915405284694\ \(0\)\
+\-\ bilateral\\:\\ 0\\.04189530766291806\ \(0\)\
+\-\ appropriate\\:\\ 0\\.04068713819378235\ \(0\)\
+\-\ injection\\:\\ 0\\.04027479481478988\ \(0\)\
+\-\ joints\\:\\ 0\\.03949741056088959\ \(0\)\
+\-\ degenerative\\:\\ 0\\.03913006061976964\ \(0\)\
+\-\ thin\\:\\ 0\\.03547690420108508\ \(0\)\
+\-\ narrowing\\:\\ 0\\.034610572668181794\ \(0\)\
+\-\ change\\:\\ 0\\.033643651418947915\ \(0\)\
+\-\ effusion\\:\\ 0\\.03279973656773133\ \(0\)\
+\-\ year\\-old\\:\\ 0\\.031704693148466835\ \(0\)\
+\-\ pain\\:\\ 0\\.03162448992517378\ \(0\)\
+\-\ calcification\\:\\ 0\\.03133116786320333\ \(0\)\
+\-\ portion\\:\\ 0\\.031264713609687744\ \(0\)\
+\-\ palpable\\:\\ 0\\.03059213174343223\ \(0\)\
+\-\ joint\\:\\ 0\\.027913426818606882\ \(0\)\
+\-\ frontal\\:\\ 0\\.02711405994427634\ \(0\)\
+\-\ years\\:\\ 0\\.025345890272913965\ \(0\)\
+\-\ significant\\:\\ 0\\.023210577283375996\ \(0\)\
+\-\ 3\\:\\ 0\\.020211874007136765\ \(0\)\
+\-\ lateral\\:\\ 0\\.018653212582066165\ \(0\)\
+\-\ female\\:\\ 0\\.017745053246947817\ \(0\)\
+\-\ seen\\:\\ 0\\.017056844596643337\ \(0\)\
+\-\ within\\:\\ 0\\.016465973822081634\ \(0\)\
+\-\ for\\:\\ 0\\.01472945754833768\ \(0\)\
+\-\ as\\:\\ 0\\.01305633844337503\ \(0\)\
+\-\ \\:\\:\\ 0\\.011416917333239041\ \(0\)\
+\-\ is\\:\\ 0\\.011359409664337893\ \(0\)\
+\-\ the\\:\\ 0\\.009775201948741218\ \(0\)\
+\-\ right\\:\\ 0\\.00910739100111532\ \(0\)\
+\-\ no\\:\\ 0\\.008691355057614163\ \(0\)\
+\-\ patient\\:\\ 0\\.008652443746630182\ \(0\)\
+\-\ on\\:\\ 0\\.007312030427933618\ \(0\)\
+\-\ \\(\\:\\ 0\\.0072965830933723295\ \(0\)\
+\-\ \\)\\:\\ 0\\.007207451435487931\ \(0\)\
+\-\ of\\:\\ 0\\.005884030343332749\ \(0\)\
+\-\ with\\:\\ 0\\.004727441458177364\ \(0\)\
+\-\ in\\:\\ 0\\.0042565376781843935\ \(0\)\
+\-\ a\\:\\ 0\\.004006058604228296\ \(0\)\
+\-\ and\\:\\ 0\\.0036365455703478477\ \(0\)\
+\-\ \\.\\:\\ 0\\.0025100682089032717\ \(0\)\

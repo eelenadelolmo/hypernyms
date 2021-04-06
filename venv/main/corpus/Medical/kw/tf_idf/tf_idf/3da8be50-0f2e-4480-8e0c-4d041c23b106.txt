@@ -1,59 +1,57 @@
-Texto: 
-right breast with asymmetry.
-the patient was referred to her surgeon for replacement of the implant.
-mr images of the right breast demonstrate a fine serpentine low signal intensity linear band within the silicon implant.
-intracapsular rupture of silicone breast implant
-intracapsular rupture
-extracapsular rupture
-artifact
-25 year old woman with trauma to right breast.
-this case demonstrates an intracapsular rupture of a silicon breast implant with a classic linguine sign.
-
-
-Keywords by value: 
-- implant: 0.2832384852358606
-- intracapsular: 0.25708947359101786
-- breast: 0.20740512788358895
-- silicon: 0.2030764772446944
-- rupture: 0.1909543483224075
-- linguine: 0.11599366347324339
-- extracapsular: 0.08444240988379115
-- serpentine: 0.07593415771372466
-- silicone: 0.07312397218348704
-- asymmetry: 0.07039187527851015
-- fine: 0.0647855016559983
-- band: 0.0647855016559983
-- surgeon: 0.05990577035427872
-- artifact: 0.059721740854611086
-- replacement: 0.05488325690559376
-- linear: 0.04766528385626694
-- 25: 0.04545034550338253
-- classic: 0.043082301036948316
-- referred: 0.04242804530862686
-- intensity: 0.04064040363656975
-- sign: 0.03895324344426409
-- mr: 0.03572630884140045
-- right: 0.03559072535962171
-- her: 0.03380804813795968
-- low: 0.03126536911666315
-- trauma: 0.030750115549446434
-- signal: 0.029645714872010245
-- woman: 0.025972407203801395
-- demonstrate: 0.025874370280697903
-- case: 0.024598742537727245
-- demonstrates: 0.02456080528491034
-- images: 0.02156926173617571
-- within: 0.02144909747876423
-- a: 0.015655255334944787
-- an: 0.015548221898483287
-- was: 0.013003651608074826
-- this: 0.012646542280449119
-- year: 0.012580332490433088
-- old: 0.011512297327134928
-- patient: 0.011270946459426157
-- to: 0.011238634432710164
-- for: 0.009593528271614672
-- the: 0.007276278142296094
-- of: 0.006131778989367812
-- with: 0.0046185858982851205
-- .: 0.0023354957958780444
+\-\ Texto\\:\\ \ \(0\)\
+\-\ right\\ breast\\ with\\ asymmetry\\.\ \(0\)\
+\-\ the\\ patient\\ was\\ referred\\ to\\ her\\ surgeon\\ for\\ replacement\\ of\\ the\\ implant\\.\ \(0\)\
+\-\ mr\\ images\\ of\\ the\\ right\\ breast\\ demonstrate\\ a\\ fine\\ serpentine\\ low\\ signal\\ intensity\\ linear\\ band\\ within\\ the\\ silicon\\ implant\\.\ \(0\)\
+\-\ intracapsular\\ rupture\\ of\\ silicone\\ breast\\ implant\ \(0\)\
+\-\ intracapsular\\ rupture\ \(3\)\
+\-\ extracapsular\\ rupture\ \(6\)\
+\-\ artifact\ \(93\)\
+\-\ 25\\ year\\ old\\ woman\\ with\\ trauma\\ to\\ right\\ breast\\.\ \(1\)\
+\-\ this\\ case\\ demonstrates\\ an\\ intracapsular\\ rupture\\ of\\ a\\ silicon\\ breast\\ implant\\ with\\ a\\ classic\\ linguine\\ sign\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ implant\\:\\ 0\\.2832384852358606\ \(0\)\
+\-\ intracapsular\\:\\ 0\\.25708947359101786\ \(0\)\
+\-\ breast\\:\\ 0\\.20740512788358895\ \(0\)\
+\-\ silicon\\:\\ 0\\.2030764772446944\ \(0\)\
+\-\ rupture\\:\\ 0\\.1909543483224075\ \(0\)\
+\-\ linguine\\:\\ 0\\.11599366347324339\ \(0\)\
+\-\ extracapsular\\:\\ 0\\.08444240988379115\ \(0\)\
+\-\ serpentine\\:\\ 0\\.07593415771372466\ \(0\)\
+\-\ silicone\\:\\ 0\\.07312397218348704\ \(0\)\
+\-\ asymmetry\\:\\ 0\\.07039187527851015\ \(0\)\
+\-\ fine\\:\\ 0\\.0647855016559983\ \(0\)\
+\-\ band\\:\\ 0\\.0647855016559983\ \(0\)\
+\-\ surgeon\\:\\ 0\\.05990577035427872\ \(0\)\
+\-\ artifact\\:\\ 0\\.059721740854611086\ \(0\)\
+\-\ replacement\\:\\ 0\\.05488325690559376\ \(0\)\
+\-\ linear\\:\\ 0\\.04766528385626694\ \(0\)\
+\-\ 25\\:\\ 0\\.04545034550338253\ \(0\)\
+\-\ classic\\:\\ 0\\.043082301036948316\ \(0\)\
+\-\ referred\\:\\ 0\\.04242804530862686\ \(0\)\
+\-\ intensity\\:\\ 0\\.04064040363656975\ \(0\)\
+\-\ sign\\:\\ 0\\.03895324344426409\ \(0\)\
+\-\ mr\\:\\ 0\\.03572630884140045\ \(0\)\
+\-\ right\\:\\ 0\\.03559072535962171\ \(0\)\
+\-\ her\\:\\ 0\\.03380804813795968\ \(0\)\
+\-\ low\\:\\ 0\\.03126536911666315\ \(0\)\
+\-\ trauma\\:\\ 0\\.030750115549446434\ \(0\)\
+\-\ signal\\:\\ 0\\.029645714872010245\ \(0\)\
+\-\ woman\\:\\ 0\\.025972407203801395\ \(0\)\
+\-\ demonstrate\\:\\ 0\\.025874370280697903\ \(0\)\
+\-\ case\\:\\ 0\\.024598742537727245\ \(0\)\
+\-\ demonstrates\\:\\ 0\\.02456080528491034\ \(0\)\
+\-\ images\\:\\ 0\\.02156926173617571\ \(0\)\
+\-\ within\\:\\ 0\\.02144909747876423\ \(0\)\
+\-\ a\\:\\ 0\\.015655255334944787\ \(0\)\
+\-\ an\\:\\ 0\\.015548221898483287\ \(0\)\
+\-\ was\\:\\ 0\\.013003651608074826\ \(0\)\
+\-\ this\\:\\ 0\\.012646542280449119\ \(0\)\
+\-\ year\\:\\ 0\\.012580332490433088\ \(0\)\
+\-\ old\\:\\ 0\\.011512297327134928\ \(0\)\
+\-\ patient\\:\\ 0\\.011270946459426157\ \(0\)\
+\-\ to\\:\\ 0\\.011238634432710164\ \(0\)\
+\-\ for\\:\\ 0\\.009593528271614672\ \(0\)\
+\-\ the\\:\\ 0\\.007276278142296094\ \(0\)\
+\-\ of\\:\\ 0\\.006131778989367812\ \(0\)\
+\-\ with\\:\\ 0\\.0046185858982851205\ \(0\)\
+\-\ \\.\\:\\ 0\\.0023354957958780444\ \(0\)\

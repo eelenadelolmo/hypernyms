@@ -1,102 +1,100 @@
-Texto: 
-none
-pa and lateral chest radiograph demonstrating diffuse reticulonodular opacities (greatest in lower lung fields) with overlying bilateral pleural effusions. axial ct demonstrates thickened interlobular and intralobular septa with diffuse nodular opacities, resulting in the reticulonodular appearance on conventional radiographs.
-amyloidosis
-inflammatory
-- granulomatous disease (histoplasmosis, blastomycosis, coccidioidomycosis)
-- miliary tuberculosis
-- viral pneumonia
-- allergic alveolitis
-malignancy
-- pulmonary metastases (thyroid, pancreas, renal, breast, melanoma)
-- bronchoalveolar cell carcinoma
-- lymphangitic carcinomatosis
-- lymphoma
-other causes
-- silicosis
-- sarcoidosis
-- esinophilic granuloma
-- amyloidosis
-62 year old female with history of b-cell lymphoma.
-
-
-Keywords by value: 
-- -: 0.19802469823874203
-- reticulonodular: 0.10888161624732823
-- amyloidosis: 0.09639247785886075
-- opacities: 0.08033891166264696
-- esinophilic: 0.07941908490059908
-- intralobular: 0.06491964424803962
-- alveolitis: 0.06327710770034634
-- blastomycosis: 0.0618883628370377
-- coccidioidomycosis: 0.05867507505380588
-- miliary: 0.05867507505380588
-- interlobular: 0.05564379364280396
-- bronchoalveolar: 0.05502223624202061
-- septa: 0.053379699694327334
-- silicosis: 0.053379699694327334
-- lymphangitic: 0.051171389261597734
-- allergic: 0.050420203595480155
-- histoplasmosis: 0.04877766704778687
-- b-cell: 0.047919016779279434
-- carcinomatosis: 0.04713513050009359
-- diffuse: 0.046612746313068734
-- lymphoma: 0.044003578998008754
-- conventional: 0.043650689283012405
-- greatest: 0.04253309785355314
-- 62: 0.04209354682499969
-- fields: 0.04195166973519663
-- pancreas: 0.03939519970699263
-- effusions: 0.039289829979396305
-- melanoma: 0.039289829979396305
-- viral: 0.03878071096801485
-- granuloma: 0.037841422586713865
-- granulomatous: 0.0371546895652014
-- tuberculosis: 0.036671948609038274
-- overlying: 0.03483566246475973
-- sarcoidosis: 0.03477199429157871
-- thickened: 0.03452172794827173
-- resulting: 0.03381012063909488
-- demonstrating: 0.03341957612671998
-- metastases: 0.03288948153191878
-- nodular: 0.03229198024425146
-- pa: 0.03219613881898068
-- pneumonia: 0.031822654911968555
-- thyroid: 0.031552364368691084
-- causes: 0.029969195475764068
-- pleural: 0.02989504683489456
-- malignancy: 0.02974855565586951
-- breast: 0.028401422917392363
-- inflammatory: 0.02669654003776598
-- radiograph: 0.0245220599452375
-- radiographs: 0.024380818389208404
-- renal: 0.023130410355478102
-- pulmonary: 0.02249144423621679
-- lung: 0.022298730812961676
-- appearance: 0.022017176366978752
-- axial: 0.021971094378989833
-- carcinoma: 0.02181916819834114
-- cell: 0.020794961365598975
-- (: 0.019523289898482718
-- ): 0.019284802489548787
-- none: 0.019096572134306364
-- bilateral: 0.018683042606436433
-- chest: 0.018420981982500167
-- other: 0.017744491429751787
-- lower: 0.017314072696971734
-- ,: 0.017071805933522626
-- demonstrates: 0.016816407222100774
-- lateral: 0.016636649059680632
-- female: 0.015826669112142644
-- disease: 0.01258322109203337
-- ct: 0.010768501381910297
-- history: 0.010632563402766517
-- year: 0.008613560984440672
-- old: 0.007882293665425717
-- in: 0.007592742885409998
-- on: 0.006521540651940793
-- and: 0.0032434055086886207
-- with: 0.0031622750294564793
-- the: 0.0012454890513840162
-- of: 0.0010495837909728688
-- .: 0.0009594469215498994
+\-\ Texto\\:\\ \ \(0\)\
+\-\ none\ \(204\)\
+\-\ pa\\ and\\ lateral\\ chest\\ radiograph\\ demonstrating\\ diffuse\\ reticulonodular\\ opacities\\ \\(greatest\\ in\\ lower\\ lung\\ fields\\)\\ with\\ overlying\\ bilateral\\ pleural\\ effusions\\.\\ axial\\ ct\\ demonstrates\\ thickened\\ interlobular\\ and\\ intralobular\\ septa\\ with\\ diffuse\\ nodular\\ opacities\\,\\ resulting\\ in\\ the\\ reticulonodular\\ appearance\\ on\\ conventional\\ radiographs\\.\ \(0\)\
+\-\ amyloidosis\ \(26\)\
+\-\ inflammatory\ \(375\)\
+\-\ granulomatous\\ disease\\ \\(histoplasmosis\\,\\ blastomycosis\\,\\ coccidioidomycosis\\)\ \(0\)\
+\-\ miliary\\ tuberculosis\ \(0\)\
+\-\ viral\\ pneumonia\ \(1\)\
+\-\ allergic\\ alveolitis\ \(2\)\
+\-\ malignancy\ \(256\)\
+\-\ pulmonary\\ metastases\\ \\(thyroid\\,\\ pancreas\\,\\ renal\\,\\ breast\\,\\ melanoma\\)\ \(0\)\
+\-\ bronchoalveolar\\ cell\\ carcinoma\ \(0\)\
+\-\ lymphangitic\\ carcinomatosis\ \(14\)\
+\-\ lymphoma\ \(373\)\
+\-\ other\\ causes\ \(30\)\
+\-\ silicosis\ \(7\)\
+\-\ sarcoidosis\ \(108\)\
+\-\ esinophilic\\ granuloma\ \(0\)\
+\-\ amyloidosis\ \(26\)\
+\-\ 62\\ year\\ old\\ female\\ with\\ history\\ of\\ b\\-cell\\ lymphoma\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ \\-\\:\\ 0\\.19802469823874203\ \(0\)\
+\-\ reticulonodular\\:\\ 0\\.10888161624732823\ \(0\)\
+\-\ amyloidosis\\:\\ 0\\.09639247785886075\ \(0\)\
+\-\ opacities\\:\\ 0\\.08033891166264696\ \(0\)\
+\-\ esinophilic\\:\\ 0\\.07941908490059908\ \(0\)\
+\-\ intralobular\\:\\ 0\\.06491964424803962\ \(0\)\
+\-\ alveolitis\\:\\ 0\\.06327710770034634\ \(0\)\
+\-\ blastomycosis\\:\\ 0\\.0618883628370377\ \(0\)\
+\-\ coccidioidomycosis\\:\\ 0\\.05867507505380588\ \(0\)\
+\-\ miliary\\:\\ 0\\.05867507505380588\ \(0\)\
+\-\ interlobular\\:\\ 0\\.05564379364280396\ \(0\)\
+\-\ bronchoalveolar\\:\\ 0\\.05502223624202061\ \(0\)\
+\-\ septa\\:\\ 0\\.053379699694327334\ \(0\)\
+\-\ silicosis\\:\\ 0\\.053379699694327334\ \(0\)\
+\-\ lymphangitic\\:\\ 0\\.051171389261597734\ \(0\)\
+\-\ allergic\\:\\ 0\\.050420203595480155\ \(0\)\
+\-\ histoplasmosis\\:\\ 0\\.04877766704778687\ \(0\)\
+\-\ b\\-cell\\:\\ 0\\.047919016779279434\ \(0\)\
+\-\ carcinomatosis\\:\\ 0\\.04713513050009359\ \(0\)\
+\-\ diffuse\\:\\ 0\\.046612746313068734\ \(0\)\
+\-\ lymphoma\\:\\ 0\\.044003578998008754\ \(0\)\
+\-\ conventional\\:\\ 0\\.043650689283012405\ \(0\)\
+\-\ greatest\\:\\ 0\\.04253309785355314\ \(0\)\
+\-\ 62\\:\\ 0\\.04209354682499969\ \(0\)\
+\-\ fields\\:\\ 0\\.04195166973519663\ \(0\)\
+\-\ pancreas\\:\\ 0\\.03939519970699263\ \(0\)\
+\-\ effusions\\:\\ 0\\.039289829979396305\ \(0\)\
+\-\ melanoma\\:\\ 0\\.039289829979396305\ \(0\)\
+\-\ viral\\:\\ 0\\.03878071096801485\ \(0\)\
+\-\ granuloma\\:\\ 0\\.037841422586713865\ \(0\)\
+\-\ granulomatous\\:\\ 0\\.0371546895652014\ \(0\)\
+\-\ tuberculosis\\:\\ 0\\.036671948609038274\ \(0\)\
+\-\ overlying\\:\\ 0\\.03483566246475973\ \(0\)\
+\-\ sarcoidosis\\:\\ 0\\.03477199429157871\ \(0\)\
+\-\ thickened\\:\\ 0\\.03452172794827173\ \(0\)\
+\-\ resulting\\:\\ 0\\.03381012063909488\ \(0\)\
+\-\ demonstrating\\:\\ 0\\.03341957612671998\ \(0\)\
+\-\ metastases\\:\\ 0\\.03288948153191878\ \(0\)\
+\-\ nodular\\:\\ 0\\.03229198024425146\ \(0\)\
+\-\ pa\\:\\ 0\\.03219613881898068\ \(0\)\
+\-\ pneumonia\\:\\ 0\\.031822654911968555\ \(0\)\
+\-\ thyroid\\:\\ 0\\.031552364368691084\ \(0\)\
+\-\ causes\\:\\ 0\\.029969195475764068\ \(0\)\
+\-\ pleural\\:\\ 0\\.02989504683489456\ \(0\)\
+\-\ malignancy\\:\\ 0\\.02974855565586951\ \(0\)\
+\-\ breast\\:\\ 0\\.028401422917392363\ \(0\)\
+\-\ inflammatory\\:\\ 0\\.02669654003776598\ \(0\)\
+\-\ radiograph\\:\\ 0\\.0245220599452375\ \(0\)\
+\-\ radiographs\\:\\ 0\\.024380818389208404\ \(0\)\
+\-\ renal\\:\\ 0\\.023130410355478102\ \(0\)\
+\-\ pulmonary\\:\\ 0\\.02249144423621679\ \(0\)\
+\-\ lung\\:\\ 0\\.022298730812961676\ \(0\)\
+\-\ appearance\\:\\ 0\\.022017176366978752\ \(0\)\
+\-\ axial\\:\\ 0\\.021971094378989833\ \(0\)\
+\-\ carcinoma\\:\\ 0\\.02181916819834114\ \(0\)\
+\-\ cell\\:\\ 0\\.020794961365598975\ \(0\)\
+\-\ \\(\\:\\ 0\\.019523289898482718\ \(0\)\
+\-\ \\)\\:\\ 0\\.019284802489548787\ \(0\)\
+\-\ none\\:\\ 0\\.019096572134306364\ \(0\)\
+\-\ bilateral\\:\\ 0\\.018683042606436433\ \(0\)\
+\-\ chest\\:\\ 0\\.018420981982500167\ \(0\)\
+\-\ other\\:\\ 0\\.017744491429751787\ \(0\)\
+\-\ lower\\:\\ 0\\.017314072696971734\ \(0\)\
+\-\ \\,\\:\\ 0\\.017071805933522626\ \(0\)\
+\-\ demonstrates\\:\\ 0\\.016816407222100774\ \(0\)\
+\-\ lateral\\:\\ 0\\.016636649059680632\ \(0\)\
+\-\ female\\:\\ 0\\.015826669112142644\ \(0\)\
+\-\ disease\\:\\ 0\\.01258322109203337\ \(0\)\
+\-\ ct\\:\\ 0\\.010768501381910297\ \(0\)\
+\-\ history\\:\\ 0\\.010632563402766517\ \(0\)\
+\-\ year\\:\\ 0\\.008613560984440672\ \(0\)\
+\-\ old\\:\\ 0\\.007882293665425717\ \(0\)\
+\-\ in\\:\\ 0\\.007592742885409998\ \(0\)\
+\-\ on\\:\\ 0\\.006521540651940793\ \(0\)\
+\-\ and\\:\\ 0\\.0032434055086886207\ \(0\)\
+\-\ with\\:\\ 0\\.0031622750294564793\ \(0\)\
+\-\ the\\:\\ 0\\.0012454890513840162\ \(0\)\
+\-\ of\\:\\ 0\\.0010495837909728688\ \(0\)\
+\-\ \\.\\:\\ 0\\.0009594469215498994\ \(0\)\

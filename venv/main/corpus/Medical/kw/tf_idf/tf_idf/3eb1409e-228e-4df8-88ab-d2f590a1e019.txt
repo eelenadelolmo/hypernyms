@@ -1,65 +1,63 @@
-Texto: 
-n/a
-patient was being evaluated for decompression via percutaneous nephrostomy.
-persistent contrast within the left renal parechyma and collecting system. ct scan from 2 days earler demonstrates significant retroperitoneal adenopathy with left ureteral dilation and hydronephrosis from obstruction.
-persistent nephrogram due to ureteral obstruction
-renal artey stenosis, renal vein thrombosis, ureteral obstruction
-26 year old inpatient with non hodgkins lymphoma complaining of abdominal pain
-
-
-Keywords by value: 
-- ureteral: 0.21777634496505124
-- obstruction: 0.13101739341693197
-- parechyma: 0.1277611365792246
-- earler: 0.11771552526676164
-- artey: 0.11771552526676164
-- renal: 0.11162937171556822
-- persistent: 0.09879265659438781
-- hodgkins: 0.09439033813003554
-- nephrostomy: 0.09058795748557914
-- nephrogram: 0.08951392890364115
-- inpatient: 0.07466604025850511
-- retroperitoneal: 0.06598316734674178
-- decompression: 0.06558056496837837
-- percutaneous: 0.06558056496837837
-- collecting: 0.0632053786625071
-- hydronephrosis: 0.062386361122458676
-- complaining: 0.06045112354819023
-- dilation: 0.058377198278035544
-- 26: 0.05732907274789603
-- evaluated: 0.05677795107268967
-- adenopathy: 0.055143233766235394
-- via: 0.053159767350044136
-- thrombosis: 0.053159767350044136
-- non: 0.051192966597514634
-- system: 0.04876057928117098
-- stenosis: 0.04851388815697633
-- n/a: 0.04485806735303024
-- vein: 0.04481062785527706
-- being: 0.04315634748986317
-- days: 0.037957598495246055
-- from: 0.036708281540701805
-- lymphoma: 0.035394183107093996
-- scan: 0.03467060087584027
-- significant: 0.03330213262397425
-- due: 0.03304749497033101
-- abdominal: 0.030955351277132104
-- contrast: 0.02772138676533196
-- left: 0.027713196210809123
-- demonstrates: 0.02705248118337951
-- 2: 0.026668181108848495
-- within: 0.023625092875160604
-- ct: 0.01732324135350787
-- pain: 0.015124756051170068
-- was: 0.01432286264077807
-- year: 0.013856598105404561
-- old: 0.012680211548728329
-- patient: 0.012414375810382435
-- for: 0.0105667847629379
-- ,: 0.007846668565718475
-- to: 0.006189392875985308
-- and: 0.005217652340064303
-- with: 0.0033914253939098474
-- the: 0.002003612821791678
-- of: 0.0016884608811302672
-- .: 0.0015434580911889684
+\-\ Texto\\:\\ \ \(0\)\
+\-\ n\\/a\ \(127\)\
+\-\ patient\\ was\\ being\\ evaluated\\ for\\ decompression\\ via\\ percutaneous\\ nephrostomy\\.\ \(0\)\
+\-\ persistent\\ contrast\\ within\\ the\\ left\\ renal\\ parechyma\\ and\\ collecting\\ system\\.\\ ct\\ scan\\ from\\ 2\\ days\\ earler\\ demonstrates\\ significant\\ retroperitoneal\\ adenopathy\\ with\\ left\\ ureteral\\ dilation\\ and\\ hydronephrosis\\ from\\ obstruction\\.\ \(0\)\
+\-\ persistent\\ nephrogram\\ due\\ to\\ ureteral\\ obstruction\ \(0\)\
+\-\ renal\\ artey\\ stenosis\\,\\ renal\\ vein\\ thrombosis\\,\\ ureteral\\ obstruction\ \(0\)\
+\-\ 26\\ year\\ old\\ inpatient\\ with\\ non\\ hodgkins\\ lymphoma\\ complaining\\ of\\ abdominal\\ pain\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ ureteral\\:\\ 0\\.21777634496505124\ \(0\)\
+\-\ obstruction\\:\\ 0\\.13101739341693197\ \(0\)\
+\-\ parechyma\\:\\ 0\\.1277611365792246\ \(0\)\
+\-\ earler\\:\\ 0\\.11771552526676164\ \(0\)\
+\-\ artey\\:\\ 0\\.11771552526676164\ \(0\)\
+\-\ renal\\:\\ 0\\.11162937171556822\ \(0\)\
+\-\ persistent\\:\\ 0\\.09879265659438781\ \(0\)\
+\-\ hodgkins\\:\\ 0\\.09439033813003554\ \(0\)\
+\-\ nephrostomy\\:\\ 0\\.09058795748557914\ \(0\)\
+\-\ nephrogram\\:\\ 0\\.08951392890364115\ \(0\)\
+\-\ inpatient\\:\\ 0\\.07466604025850511\ \(0\)\
+\-\ retroperitoneal\\:\\ 0\\.06598316734674178\ \(0\)\
+\-\ decompression\\:\\ 0\\.06558056496837837\ \(0\)\
+\-\ percutaneous\\:\\ 0\\.06558056496837837\ \(0\)\
+\-\ collecting\\:\\ 0\\.0632053786625071\ \(0\)\
+\-\ hydronephrosis\\:\\ 0\\.062386361122458676\ \(0\)\
+\-\ complaining\\:\\ 0\\.06045112354819023\ \(0\)\
+\-\ dilation\\:\\ 0\\.058377198278035544\ \(0\)\
+\-\ 26\\:\\ 0\\.05732907274789603\ \(0\)\
+\-\ evaluated\\:\\ 0\\.05677795107268967\ \(0\)\
+\-\ adenopathy\\:\\ 0\\.055143233766235394\ \(0\)\
+\-\ via\\:\\ 0\\.053159767350044136\ \(0\)\
+\-\ thrombosis\\:\\ 0\\.053159767350044136\ \(0\)\
+\-\ non\\:\\ 0\\.051192966597514634\ \(0\)\
+\-\ system\\:\\ 0\\.04876057928117098\ \(0\)\
+\-\ stenosis\\:\\ 0\\.04851388815697633\ \(0\)\
+\-\ n\\/a\\:\\ 0\\.04485806735303024\ \(0\)\
+\-\ vein\\:\\ 0\\.04481062785527706\ \(0\)\
+\-\ being\\:\\ 0\\.04315634748986317\ \(0\)\
+\-\ days\\:\\ 0\\.037957598495246055\ \(0\)\
+\-\ from\\:\\ 0\\.036708281540701805\ \(0\)\
+\-\ lymphoma\\:\\ 0\\.035394183107093996\ \(0\)\
+\-\ scan\\:\\ 0\\.03467060087584027\ \(0\)\
+\-\ significant\\:\\ 0\\.03330213262397425\ \(0\)\
+\-\ due\\:\\ 0\\.03304749497033101\ \(0\)\
+\-\ abdominal\\:\\ 0\\.030955351277132104\ \(0\)\
+\-\ contrast\\:\\ 0\\.02772138676533196\ \(0\)\
+\-\ left\\:\\ 0\\.027713196210809123\ \(0\)\
+\-\ demonstrates\\:\\ 0\\.02705248118337951\ \(0\)\
+\-\ 2\\:\\ 0\\.026668181108848495\ \(0\)\
+\-\ within\\:\\ 0\\.023625092875160604\ \(0\)\
+\-\ ct\\:\\ 0\\.01732324135350787\ \(0\)\
+\-\ pain\\:\\ 0\\.015124756051170068\ \(0\)\
+\-\ was\\:\\ 0\\.01432286264077807\ \(0\)\
+\-\ year\\:\\ 0\\.013856598105404561\ \(0\)\
+\-\ old\\:\\ 0\\.012680211548728329\ \(0\)\
+\-\ patient\\:\\ 0\\.012414375810382435\ \(0\)\
+\-\ for\\:\\ 0\\.0105667847629379\ \(0\)\
+\-\ \\,\\:\\ 0\\.007846668565718475\ \(0\)\
+\-\ to\\:\\ 0\\.006189392875985308\ \(0\)\
+\-\ and\\:\\ 0\\.005217652340064303\ \(0\)\
+\-\ with\\:\\ 0\\.0033914253939098474\ \(0\)\
+\-\ the\\:\\ 0\\.002003612821791678\ \(0\)\
+\-\ of\\:\\ 0\\.0016884608811302672\ \(0\)\
+\-\ \\.\\:\\ 0\\.0015434580911889684\ \(0\)\

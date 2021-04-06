@@ -1,85 +1,83 @@
-Texto: 
-increased sclerosis is noted throughout the osseous structures.   a vertical oriented lucency in the medial femoral metaphysis is seen.
-intrinsic sclerotic bone dysplasia (likely osteopetrosis) with fracture
-differential diagnosis for dysplasias with increased bone density:
-osteopetrosis
-pyknodysostosis
-osteosclerosis, stanescu type
-osteomesopyknosis
-central osteosclerosis with ectodermal dysplasia
-axial osteosclerosis with bamboo hair
-osteopoikilosis
-melorheostosis
-osteopathia striata
-renal osteodystrophy
-hyperparathyroidism
-osteomalacia
-four year-old female presenting with right hip pain and inability to bear weight.
-
-
-Keywords by value: 
-- osteosclerosis: 0.26672502359766237
-- osteopetrosis: 0.16755174295266528
-- stanescu: 0.11158884080970251
-- osteomesopyknosis: 0.11158884080970251
-- pyknodysostosis: 0.10281482586590573
-- ectodermal: 0.10281482586590573
-- bamboo: 0.09404081092210896
-- osteopathia: 0.09404081092210896
-- striata: 0.09404081092210896
-- osteopoikilosis: 0.08695706677102766
-- melorheostosis: 0.08695706677102766
-- dysplasia: 0.08539495477075201
-- osteomalacia: 0.08377587147633264
-- dysplasias: 0.0812357360907358
-- intrinsic: 0.07818305182723088
-- osteodystrophy: 0.07136031131162725
-- hair: 0.07034711248031665
-- bear: 0.06732925142405086
-- vertical: 0.06340323967336935
-- inability: 0.06206956225997914
-- hyperparathyroidism: 0.05676943143898946
-- metaphysis: 0.0538122814240337
-- bone: 0.05375784003695873
-- oriented: 0.05304488114787629
-- increased: 0.0529236653620166
-- lucency: 0.04968568728790816
-- sclerotic: 0.04841880806566787
-- four: 0.04695661962108756
-- osseous: 0.045925729343363836
-- presenting: 0.04408607127469784
-- hip: 0.04308699205204378
-- structures: 0.041646398542211575
-- femoral: 0.04115187362840259
-- throughout: 0.0404904724848092
-- year-old: 0.0397311977430154
-- sclerosis: 0.0388520915623588
-- weight: 0.038771465634694496
-- type: 0.03646359782717608
-- density: 0.03559027033999948
-- central: 0.03559027033999948
-- medial: 0.03459872802012724
-- differential: 0.03434126366269531
-- renal: 0.03249969049946923
-- axial: 0.03087077817807432
-- likely: 0.030509999568805776
-- fracture: 0.028519928231300996
-- noted: 0.025638242891804983
-- diagnosis: 0.02483821937696734
-- female: 0.022237471790478906
-- seen: 0.02137503310212266
-- :: 0.01430727615178057
-- is: 0.014235209579360142
-- pain: 0.013210229968743476
-- right: 0.011413059608992616
-- for: 0.009229217071426774
-- (: 0.009143819319542537
-- ): 0.009032122684978544
-- with: 0.007405327600625933
-- to: 0.00540592542332894
-- in: 0.0053341421536741125
-- a: 0.005020250655931662
-- the: 0.0034999818912310326
-- ,: 0.003426709690092245
-- and: 0.002278595009268588
-- .: 0.0013480836492663142
+\-\ Texto\\:\\ \ \(0\)\
+\-\ increased\\ sclerosis\\ is\\ noted\\ throughout\\ the\\ osseous\\ structures\\.\\ \\ \\ a\\ vertical\\ oriented\\ lucency\\ in\\ the\\ medial\\ femoral\\ metaphysis\\ is\\ seen\\.\ \(0\)\
+\-\ intrinsic\\ sclerotic\\ bone\\ dysplasia\\ \\(likely\\ osteopetrosis\\)\\ with\\ fracture\ \(0\)\
+\-\ differential\\ diagnosis\\ for\\ dysplasias\\ with\\ increased\\ bone\\ density\\:\ \(0\)\
+\-\ osteopetrosis\ \(4\)\
+\-\ pyknodysostosis\ \(1\)\
+\-\ osteosclerosis\\,\\ stanescu\\ type\ \(0\)\
+\-\ osteomesopyknosis\ \(0\)\
+\-\ central\\ osteosclerosis\\ with\\ ectodermal\\ dysplasia\ \(0\)\
+\-\ axial\\ osteosclerosis\\ with\\ bamboo\\ hair\ \(0\)\
+\-\ osteopoikilosis\ \(7\)\
+\-\ melorheostosis\ \(1\)\
+\-\ osteopathia\\ striata\ \(2\)\
+\-\ renal\\ osteodystrophy\ \(9\)\
+\-\ hyperparathyroidism\ \(35\)\
+\-\ osteomalacia\ \(7\)\
+\-\ four\\ year\\-old\\ female\\ presenting\\ with\\ right\\ hip\\ pain\\ and\\ inability\\ to\\ bear\\ weight\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ osteosclerosis\\:\\ 0\\.26672502359766237\ \(0\)\
+\-\ osteopetrosis\\:\\ 0\\.16755174295266528\ \(0\)\
+\-\ stanescu\\:\\ 0\\.11158884080970251\ \(0\)\
+\-\ osteomesopyknosis\\:\\ 0\\.11158884080970251\ \(0\)\
+\-\ pyknodysostosis\\:\\ 0\\.10281482586590573\ \(0\)\
+\-\ ectodermal\\:\\ 0\\.10281482586590573\ \(0\)\
+\-\ bamboo\\:\\ 0\\.09404081092210896\ \(0\)\
+\-\ osteopathia\\:\\ 0\\.09404081092210896\ \(0\)\
+\-\ striata\\:\\ 0\\.09404081092210896\ \(0\)\
+\-\ osteopoikilosis\\:\\ 0\\.08695706677102766\ \(0\)\
+\-\ melorheostosis\\:\\ 0\\.08695706677102766\ \(0\)\
+\-\ dysplasia\\:\\ 0\\.08539495477075201\ \(0\)\
+\-\ osteomalacia\\:\\ 0\\.08377587147633264\ \(0\)\
+\-\ dysplasias\\:\\ 0\\.0812357360907358\ \(0\)\
+\-\ intrinsic\\:\\ 0\\.07818305182723088\ \(0\)\
+\-\ osteodystrophy\\:\\ 0\\.07136031131162725\ \(0\)\
+\-\ hair\\:\\ 0\\.07034711248031665\ \(0\)\
+\-\ bear\\:\\ 0\\.06732925142405086\ \(0\)\
+\-\ vertical\\:\\ 0\\.06340323967336935\ \(0\)\
+\-\ inability\\:\\ 0\\.06206956225997914\ \(0\)\
+\-\ hyperparathyroidism\\:\\ 0\\.05676943143898946\ \(0\)\
+\-\ metaphysis\\:\\ 0\\.0538122814240337\ \(0\)\
+\-\ bone\\:\\ 0\\.05375784003695873\ \(0\)\
+\-\ oriented\\:\\ 0\\.05304488114787629\ \(0\)\
+\-\ increased\\:\\ 0\\.0529236653620166\ \(0\)\
+\-\ lucency\\:\\ 0\\.04968568728790816\ \(0\)\
+\-\ sclerotic\\:\\ 0\\.04841880806566787\ \(0\)\
+\-\ four\\:\\ 0\\.04695661962108756\ \(0\)\
+\-\ osseous\\:\\ 0\\.045925729343363836\ \(0\)\
+\-\ presenting\\:\\ 0\\.04408607127469784\ \(0\)\
+\-\ hip\\:\\ 0\\.04308699205204378\ \(0\)\
+\-\ structures\\:\\ 0\\.041646398542211575\ \(0\)\
+\-\ femoral\\:\\ 0\\.04115187362840259\ \(0\)\
+\-\ throughout\\:\\ 0\\.0404904724848092\ \(0\)\
+\-\ year\\-old\\:\\ 0\\.0397311977430154\ \(0\)\
+\-\ sclerosis\\:\\ 0\\.0388520915623588\ \(0\)\
+\-\ weight\\:\\ 0\\.038771465634694496\ \(0\)\
+\-\ type\\:\\ 0\\.03646359782717608\ \(0\)\
+\-\ density\\:\\ 0\\.03559027033999948\ \(0\)\
+\-\ central\\:\\ 0\\.03559027033999948\ \(0\)\
+\-\ medial\\:\\ 0\\.03459872802012724\ \(0\)\
+\-\ differential\\:\\ 0\\.03434126366269531\ \(0\)\
+\-\ renal\\:\\ 0\\.03249969049946923\ \(0\)\
+\-\ axial\\:\\ 0\\.03087077817807432\ \(0\)\
+\-\ likely\\:\\ 0\\.030509999568805776\ \(0\)\
+\-\ fracture\\:\\ 0\\.028519928231300996\ \(0\)\
+\-\ noted\\:\\ 0\\.025638242891804983\ \(0\)\
+\-\ diagnosis\\:\\ 0\\.02483821937696734\ \(0\)\
+\-\ female\\:\\ 0\\.022237471790478906\ \(0\)\
+\-\ seen\\:\\ 0\\.02137503310212266\ \(0\)\
+\-\ \\:\\:\\ 0\\.01430727615178057\ \(0\)\
+\-\ is\\:\\ 0\\.014235209579360142\ \(0\)\
+\-\ pain\\:\\ 0\\.013210229968743476\ \(0\)\
+\-\ right\\:\\ 0\\.011413059608992616\ \(0\)\
+\-\ for\\:\\ 0\\.009229217071426774\ \(0\)\
+\-\ \\(\\:\\ 0\\.009143819319542537\ \(0\)\
+\-\ \\)\\:\\ 0\\.009032122684978544\ \(0\)\
+\-\ with\\:\\ 0\\.007405327600625933\ \(0\)\
+\-\ to\\:\\ 0\\.00540592542332894\ \(0\)\
+\-\ in\\:\\ 0\\.0053341421536741125\ \(0\)\
+\-\ a\\:\\ 0\\.005020250655931662\ \(0\)\
+\-\ the\\:\\ 0\\.0034999818912310326\ \(0\)\
+\-\ \\,\\:\\ 0\\.003426709690092245\ \(0\)\
+\-\ and\\:\\ 0\\.002278595009268588\ \(0\)\
+\-\ \\.\\:\\ 0\\.0013480836492663142\ \(0\)\

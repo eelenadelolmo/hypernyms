@@ -1,58 +1,56 @@
-Texto: 
-rf negative
-hla-b27 positive
-erosion of the right second metatarsalphalageal joint and fourth digit.  "ballooning" of the right second metatarsal head and proximal phalanx.  bilateral early fusion of the epiphyses of the metatarsal heads. brachydactyly.  ankylosis of the left fifth digit.  normal mineralization
-rheumatoid arthritis - clinical
--jra (pauciarticular is the most common form, commonly seronegative)
--anklyosis spondylitis
--reiter's (reactive) and psoriatic arthritis
-15 y.o. boy with history of arthritis.
-
-
-Keywords by value: 
-- arthritis: 0.30660418955427937
-- digit: 0.275810308501975
-- metatarsal: 0.24991424354018338
-- metatarsalphalageal: 0.20095501942493588
-- pauciarticular: 0.20095501942493588
-- brachydactyly: 0.19202324927236072
-- second: 0.1881445718637077
-- ballooning: 0.18568605749735273
-- seronegative: 0.17041709556976958
-- epiphyses: 0.15514813364218644
-- the: 0.15044033553925917
-- rf: 0.15023262581793193
-- ankylosis: 0.14915785385025002
-- of: 0.14754466943415526
-- heads: 0.13552137610074785
-- mineralization: 0.13552137610074785
-- psoriatic: 0.13496366389034878
-- spondylitis: 0.13388889192266684
-- phalanx: 0.12640212859825145
-- fifth: 0.12495712177009169
-- erosion: 0.11661596221325465
-- fourth: 0.11267965806946484
-- rheumatoid: 0.11076293181019045
-- form: 0.10986368631425661
-- reactive: 0.10784439971703104
-- fusion: 0.10555565209586651
-- commonly: 0.09298112983872162
-- early: 0.0905784620583528
-- boy: 0.08595864264220675
-- 15: 0.0849122395846304
-- right: 0.08332186867998322
-- positive: 0.08280238332066477
-- joint: 0.08280238332066477
-- clinical: 0.07963633998953136
-- proximal: 0.07850419391884059
-- and: 0.07789726401431468
-- negative: 0.07779421067134618
-- head: 0.07494538513577151
-- common: 0.07126266395208311
-- bilateral: 0.0675334213930816
-- most: 0.06539639804733903
-- normal: 0.051305451996999256
-- history: 0.04800875504435054
-- left: 0.042864795661295606
-- is: 0.03441238634210237
-- with: 0.024605471223164036
+\-\ Texto\\:\\ \ \(0\)\
+\-\ rf\\ negative\ \(0\)\
+\-\ hla\\-b27\\ positive\ \(0\)\
+\-\ erosion\\ of\\ the\\ right\\ second\\ metatarsalphalageal\\ joint\\ and\\ fourth\\ digit\\.\\ \\ \\"ballooning\\"\\ of\\ the\\ right\\ second\\ metatarsal\\ head\\ and\\ proximal\\ phalanx\\.\\ \\ bilateral\\ early\\ fusion\\ of\\ the\\ epiphyses\\ of\\ the\\ metatarsal\\ heads\\.\\ brachydactyly\\.\\ \\ ankylosis\\ of\\ the\\ left\\ fifth\\ digit\\.\\ \\ normal\\ mineralization\ \(0\)\
+\-\ rheumatoid\\ arthritis\\ \\-\\ clinical\ \(0\)\
+\-\ jra\\ \\(pauciarticular\\ is\\ the\\ most\\ common\\ form\\,\\ commonly\\ seronegative\\)\ \(0\)\
+\-\ anklyosis\\ spondylitis\ \(0\)\
+\-\ reiter\\'s\\ \\(reactive\\)\\ and\\ psoriatic\\ arthritis\ \(0\)\
+\-\ 15\\ y\\.o\\.\\ boy\\ with\\ history\\ of\\ arthritis\\.\ \(1\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ arthritis\\:\\ 0\\.30660418955427937\ \(0\)\
+\-\ digit\\:\\ 0\\.275810308501975\ \(0\)\
+\-\ metatarsal\\:\\ 0\\.24991424354018338\ \(0\)\
+\-\ metatarsalphalageal\\:\\ 0\\.20095501942493588\ \(0\)\
+\-\ pauciarticular\\:\\ 0\\.20095501942493588\ \(0\)\
+\-\ brachydactyly\\:\\ 0\\.19202324927236072\ \(0\)\
+\-\ second\\:\\ 0\\.1881445718637077\ \(0\)\
+\-\ ballooning\\:\\ 0\\.18568605749735273\ \(0\)\
+\-\ seronegative\\:\\ 0\\.17041709556976958\ \(0\)\
+\-\ epiphyses\\:\\ 0\\.15514813364218644\ \(0\)\
+\-\ the\\:\\ 0\\.15044033553925917\ \(0\)\
+\-\ rf\\:\\ 0\\.15023262581793193\ \(0\)\
+\-\ ankylosis\\:\\ 0\\.14915785385025002\ \(0\)\
+\-\ of\\:\\ 0\\.14754466943415526\ \(0\)\
+\-\ heads\\:\\ 0\\.13552137610074785\ \(0\)\
+\-\ mineralization\\:\\ 0\\.13552137610074785\ \(0\)\
+\-\ psoriatic\\:\\ 0\\.13496366389034878\ \(0\)\
+\-\ spondylitis\\:\\ 0\\.13388889192266684\ \(0\)\
+\-\ phalanx\\:\\ 0\\.12640212859825145\ \(0\)\
+\-\ fifth\\:\\ 0\\.12495712177009169\ \(0\)\
+\-\ erosion\\:\\ 0\\.11661596221325465\ \(0\)\
+\-\ fourth\\:\\ 0\\.11267965806946484\ \(0\)\
+\-\ rheumatoid\\:\\ 0\\.11076293181019045\ \(0\)\
+\-\ form\\:\\ 0\\.10986368631425661\ \(0\)\
+\-\ reactive\\:\\ 0\\.10784439971703104\ \(0\)\
+\-\ fusion\\:\\ 0\\.10555565209586651\ \(0\)\
+\-\ commonly\\:\\ 0\\.09298112983872162\ \(0\)\
+\-\ early\\:\\ 0\\.0905784620583528\ \(0\)\
+\-\ boy\\:\\ 0\\.08595864264220675\ \(0\)\
+\-\ 15\\:\\ 0\\.0849122395846304\ \(0\)\
+\-\ right\\:\\ 0\\.08332186867998322\ \(0\)\
+\-\ positive\\:\\ 0\\.08280238332066477\ \(0\)\
+\-\ joint\\:\\ 0\\.08280238332066477\ \(0\)\
+\-\ clinical\\:\\ 0\\.07963633998953136\ \(0\)\
+\-\ proximal\\:\\ 0\\.07850419391884059\ \(0\)\
+\-\ and\\:\\ 0\\.07789726401431468\ \(0\)\
+\-\ negative\\:\\ 0\\.07779421067134618\ \(0\)\
+\-\ head\\:\\ 0\\.07494538513577151\ \(0\)\
+\-\ common\\:\\ 0\\.07126266395208311\ \(0\)\
+\-\ bilateral\\:\\ 0\\.0675334213930816\ \(0\)\
+\-\ most\\:\\ 0\\.06539639804733903\ \(0\)\
+\-\ normal\\:\\ 0\\.051305451996999256\ \(0\)\
+\-\ history\\:\\ 0\\.04800875504435054\ \(0\)\
+\-\ left\\:\\ 0\\.042864795661295606\ \(0\)\
+\-\ is\\:\\ 0\\.03441238634210237\ \(0\)\
+\-\ with\\:\\ 0\\.024605471223164036\ \(0\)\

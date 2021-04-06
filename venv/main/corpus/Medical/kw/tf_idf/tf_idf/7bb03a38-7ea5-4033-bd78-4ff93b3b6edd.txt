@@ -1,83 +1,79 @@
-Texto: 
-classic mri findings of a benign cord lipoma.
-spinal cord lipoma
-increasing pain and weakness in both legs.
-a spinal cord lipoma is a benign tumor of the spinal cord.  this lipoma encases nerve roots of the proximal cauda equina just distal to the conus medullaris.  there is no evidence of cord tethering.  this encasement is likely causing compression and irritation of the nerve roots, which is causing the patient clinical symptoms.
-
-cord lipomas can be found at any level, with no specific segmental preference.  there can be an association with spinal dysraphism.
-
-partial surgical resection is possible, however iatrogenic nerve damage can occur with aggressive attempts at removal.
-
-
-Keywords by value: 
-- cord: 0.1610168886052265
-- lipoma: 0.1320739457309574
-- spinal: 0.10114962678940781
-- roots: 0.08393138521790297
-- nerve: 0.07633750726828031
-- encases: 0.0637760837627966
-- causing: 0.06101742883575602
-- preference: 0.059554384392829736
-- dysraphism: 0.05469664336058081
-- tethering: 0.053825895297292994
-- encasement: 0.051657595590950095
-- lipomas: 0.04994156778286543
-- benign: 0.04874463416583804
-- attempts: 0.04809740620175626
-- can: 0.04805509964799346
-- medullaris: 0.04769418170448822
-- irritation: 0.04769418170448822
-- cauda: 0.04730971876535688
-- equina: 0.04730971876535688
-- iatrogenic: 0.04301322736629978
-- conus: 0.04257815518873431
-- legs: 0.03823027836314109
-- damage: 0.03774399323898462
-- segmental: 0.03706433953454684
-- aggressive: 0.03455197880774267
-- association: 0.034314705205408524
-- just: 0.02949168885790093
-- specific: 0.029192683431640578
-- increasing: 0.028944730949790998
-- partial: 0.028242609276435914
-- removal: 0.027841165721489158
-- classic: 0.02705995767609977
-- occur: 0.02649625313042594
-- compression: 0.026435928316528322
-- weakness: 0.026228193000234584
-- possible: 0.023784977015570846
-- is: 0.023235156131600234
-- found: 0.02225641003679432
-- any: 0.022238306058448707
-- resection: 0.02202409632661338
-- be: 0.02178110286518891
-- clinical: 0.02172983305839673
-- proximal: 0.02120283621245467
-- there: 0.021020091842396508
-- level: 0.020354454773941585
-- likely: 0.019919751784592203
-- however: 0.01966419880658736
-- distal: 0.01920064949542171
-- at: 0.01913658103853939
-- evidence: 0.018516054407990725
-- both: 0.01803471066682745
-- symptoms: 0.017600475015687102
-- tumor: 0.016464729765378605
-- mri: 0.016225420288550577
-- this: 0.015886565509324515
-- findings: 0.015031710213140162
-- surgical: 0.014844808018607054
-- no: 0.014222217367004991
-- which: 0.013183013117707015
-- a: 0.009833052937651271
-- an: 0.00976582532466719
-- pain: 0.008624860888683758
-- patient: 0.007079272156333785
-- ,: 0.006711819806213737
-- the: 0.005712780359653958
-- of: 0.004814206644544977
-- to: 0.0035294884995288123
-- in: 0.003482621736696322
-- and: 0.002975355466648239
-- with: 0.002900929985699746
-- .: 0.002640461362612533
+\-\ Texto\\:\\ \ \(0\)\
+\-\ classic\\ mri\\ findings\\ of\\ a\\ benign\\ cord\\ lipoma\\.\ \(0\)\
+\-\ spinal\\ cord\\ lipoma\ \(1\)\
+\-\ increasing\\ pain\\ and\\ weakness\\ in\\ both\\ legs\\.\ \(0\)\
+\-\ a\\ spinal\\ cord\\ lipoma\\ is\\ a\\ benign\\ tumor\\ of\\ the\\ spinal\\ cord\\.\\ \\ this\\ lipoma\\ encases\\ nerve\\ roots\\ of\\ the\\ proximal\\ cauda\\ equina\\ just\\ distal\\ to\\ the\\ conus\\ medullaris\\.\\ \\ there\\ is\\ no\\ evidence\\ of\\ cord\\ tethering\\.\\ \\ this\\ encasement\\ is\\ likely\\ causing\\ compression\\ and\\ irritation\\ of\\ the\\ nerve\\ roots\\,\\ which\\ is\\ causing\\ the\\ patient\\ clinical\\ symptoms\\.\ \(0\)\
+\-\ cord\\ lipomas\\ can\\ be\\ found\\ at\\ any\\ level\\,\\ with\\ no\\ specific\\ segmental\\ preference\\.\\ \\ there\\ can\\ be\\ an\\ association\\ with\\ spinal\\ dysraphism\\.\ \(0\)\
+\-\ partial\\ surgical\\ resection\\ is\\ possible\\,\\ however\\ iatrogenic\\ nerve\\ damage\\ can\\ occur\\ with\\ aggressive\\ attempts\\ at\\ removal\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ cord\\:\\ 0\\.1610168886052265\ \(0\)\
+\-\ lipoma\\:\\ 0\\.1320739457309574\ \(0\)\
+\-\ spinal\\:\\ 0\\.10114962678940781\ \(0\)\
+\-\ roots\\:\\ 0\\.08393138521790297\ \(0\)\
+\-\ nerve\\:\\ 0\\.07633750726828031\ \(0\)\
+\-\ encases\\:\\ 0\\.0637760837627966\ \(0\)\
+\-\ causing\\:\\ 0\\.06101742883575602\ \(0\)\
+\-\ preference\\:\\ 0\\.059554384392829736\ \(0\)\
+\-\ dysraphism\\:\\ 0\\.05469664336058081\ \(0\)\
+\-\ tethering\\:\\ 0\\.053825895297292994\ \(0\)\
+\-\ encasement\\:\\ 0\\.051657595590950095\ \(0\)\
+\-\ lipomas\\:\\ 0\\.04994156778286543\ \(0\)\
+\-\ benign\\:\\ 0\\.04874463416583804\ \(0\)\
+\-\ attempts\\:\\ 0\\.04809740620175626\ \(0\)\
+\-\ can\\:\\ 0\\.04805509964799346\ \(0\)\
+\-\ medullaris\\:\\ 0\\.04769418170448822\ \(0\)\
+\-\ irritation\\:\\ 0\\.04769418170448822\ \(0\)\
+\-\ cauda\\:\\ 0\\.04730971876535688\ \(0\)\
+\-\ equina\\:\\ 0\\.04730971876535688\ \(0\)\
+\-\ iatrogenic\\:\\ 0\\.04301322736629978\ \(0\)\
+\-\ conus\\:\\ 0\\.04257815518873431\ \(0\)\
+\-\ legs\\:\\ 0\\.03823027836314109\ \(0\)\
+\-\ damage\\:\\ 0\\.03774399323898462\ \(0\)\
+\-\ segmental\\:\\ 0\\.03706433953454684\ \(0\)\
+\-\ aggressive\\:\\ 0\\.03455197880774267\ \(0\)\
+\-\ association\\:\\ 0\\.034314705205408524\ \(0\)\
+\-\ just\\:\\ 0\\.02949168885790093\ \(0\)\
+\-\ specific\\:\\ 0\\.029192683431640578\ \(0\)\
+\-\ increasing\\:\\ 0\\.028944730949790998\ \(0\)\
+\-\ partial\\:\\ 0\\.028242609276435914\ \(0\)\
+\-\ removal\\:\\ 0\\.027841165721489158\ \(0\)\
+\-\ classic\\:\\ 0\\.02705995767609977\ \(0\)\
+\-\ occur\\:\\ 0\\.02649625313042594\ \(0\)\
+\-\ compression\\:\\ 0\\.026435928316528322\ \(0\)\
+\-\ weakness\\:\\ 0\\.026228193000234584\ \(0\)\
+\-\ possible\\:\\ 0\\.023784977015570846\ \(0\)\
+\-\ is\\:\\ 0\\.023235156131600234\ \(0\)\
+\-\ found\\:\\ 0\\.02225641003679432\ \(0\)\
+\-\ any\\:\\ 0\\.022238306058448707\ \(0\)\
+\-\ resection\\:\\ 0\\.02202409632661338\ \(0\)\
+\-\ be\\:\\ 0\\.02178110286518891\ \(0\)\
+\-\ clinical\\:\\ 0\\.02172983305839673\ \(0\)\
+\-\ proximal\\:\\ 0\\.02120283621245467\ \(0\)\
+\-\ there\\:\\ 0\\.021020091842396508\ \(0\)\
+\-\ level\\:\\ 0\\.020354454773941585\ \(0\)\
+\-\ likely\\:\\ 0\\.019919751784592203\ \(0\)\
+\-\ however\\:\\ 0\\.01966419880658736\ \(0\)\
+\-\ distal\\:\\ 0\\.01920064949542171\ \(0\)\
+\-\ at\\:\\ 0\\.01913658103853939\ \(0\)\
+\-\ evidence\\:\\ 0\\.018516054407990725\ \(0\)\
+\-\ both\\:\\ 0\\.01803471066682745\ \(0\)\
+\-\ symptoms\\:\\ 0\\.017600475015687102\ \(0\)\
+\-\ tumor\\:\\ 0\\.016464729765378605\ \(0\)\
+\-\ mri\\:\\ 0\\.016225420288550577\ \(0\)\
+\-\ this\\:\\ 0\\.015886565509324515\ \(0\)\
+\-\ findings\\:\\ 0\\.015031710213140162\ \(0\)\
+\-\ surgical\\:\\ 0\\.014844808018607054\ \(0\)\
+\-\ no\\:\\ 0\\.014222217367004991\ \(0\)\
+\-\ which\\:\\ 0\\.013183013117707015\ \(0\)\
+\-\ a\\:\\ 0\\.009833052937651271\ \(0\)\
+\-\ an\\:\\ 0\\.00976582532466719\ \(0\)\
+\-\ pain\\:\\ 0\\.008624860888683758\ \(0\)\
+\-\ patient\\:\\ 0\\.007079272156333785\ \(0\)\
+\-\ \\,\\:\\ 0\\.006711819806213737\ \(0\)\
+\-\ the\\:\\ 0\\.005712780359653958\ \(0\)\
+\-\ of\\:\\ 0\\.004814206644544977\ \(0\)\
+\-\ to\\:\\ 0\\.0035294884995288123\ \(0\)\
+\-\ in\\:\\ 0\\.003482621736696322\ \(0\)\
+\-\ and\\:\\ 0\\.002975355466648239\ \(0\)\
+\-\ with\\:\\ 0\\.002900929985699746\ \(0\)\
+\-\ \\.\\:\\ 0\\.002640461362612533\ \(0\)\

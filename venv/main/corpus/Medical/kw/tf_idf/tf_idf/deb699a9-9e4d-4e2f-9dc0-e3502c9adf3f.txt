@@ -1,292 +1,285 @@
-Texto: 
-vitals:  temp 37, hr 71, bp 110/68, rr 16
-there was no facial weakness and no focal motor or sensory deficits. she was alert but had nonfluent speech.  she had multiple paraphasic errors.  she could not read.  there was no dysarthria.  she has a right homonymous hemianopia.
-
-cbc and electrolytes were within normal limits.
-the patient was admitted to the stroke service and underwent the aforementioned imaging.  her hospital course was characterized by fluctuating neurological symptoms and seizures.  she stabilized and improved over the course of 5 days and was discharged.  approximately 6 weeks later she underwent bilateral eca-ica bypass procedures.  since revascularization, her symptoms have been improving and her visual field defect has resolved.  she is undergoing speech and occupational therapy and is regaining her level of functioning.
-mri brain:  
-‚Ä¢t1 axial (at the level of the cavernous sinuses): note no ica flow voids
-‚Ä¢t1 axial (at level of the third ventricle): numerous punctate flow voids within the basal ganglia. note right temporal-occipital encephalomalacia with occipital horn ex vacuo dilatation.
-‚Ä¢t2 axial: multiple collateral flow voids within the suprasellar cisterns.
-‚Ä¢dwi/adc: restricted diffusion and corresponding low adc in the left temporal-occipital region consistent with acute infarct.
-‚Ä¢ flair: abnormal flair signal in right temporal-occipital region consistent with old stroke.  area of acute infact on the left shows edematous hyperintense gyri. note hyperintensity of basal ganglia and  sulcal collateral vessels (‚Äúivy sign‚Äù).
-‚Ä¢right parasagittal post gad: note lenticulostriate collateral vessels within the basal ganglia (‚Äúpuff of smoke‚Äù) and leptomeningeal enhancement (‚Äúenhanced ivy sign‚Äù).
-
-mra neck:  
-‚Ä¢severe stenosis of supraclinoid portions of both icas.  bilateral stenoses of the mca and aca first order segments.  
-
-conventional angiogram:  
-‚Ä¢right ap view: there is occlusion of the ica at the supraclinoid segment. the mca is occluded. there is extensive proliferation of the lenticulostriate, anterior choroidal, and thalamostriate arteries with reconstitution of the a2 segment. 
-‚Ä¢left ap view: there is occlusion of the supraclinoid ica with extensive proliferation of the lenticulostriate, thalamostriate, and anterior choroidal arteries reconstituting the a2 
-segment. 
-‚Ä¢vertebral lateral view (late arterial phase): extensive proliferation of the medial and lateral posterior choroidal and posterior pericallosal vessels.  posterior leptomeningeal collateral circulation is present.
-moyamoya disease
-moyamoya disease
-
-‚Ä¢ ivy sign:  
-	leptomeningeal metastatic disease
-	hemorrhage
-	meningitis
-	high inspired oxygen
-
-‚Ä¢ attenuated circle of willis:
-	vasospasm associated with sah
-	basal meningitis
-	tumor encasement
-a 20 year-old woman, without significant past medical history, presented to a local emergency department with acute onset of confusion, aphasia, apraxia, and visual disturbances of two days duration.  local workup included ct and mri of the brain.  she was admitted to the outside hospital and transferred to our institution one week later.
-
-
-Keywords by value: 
-- ivy: 0.04695012279425753
-- temporal-occipital: 0.04460639384565542
-- lenticulostriate: 0.04460639384565542
-- supraclinoid: 0.04059976274415285
-- she: 0.03697550892414909
-- choroidal: 0.03457979814977041
-- collateral: 0.03446406938044558
-- ‚Ä¢t1: 0.03397116926384007
-- thalamostriate: 0.03397116926384007
-- :: 0.032666902196262
-- basal: 0.030023410390276478
-- proliferation: 0.029780096981715905
-- ‚Ä¢right: 0.029737595897103616
-- a2: 0.029737595897103616
-- leptomeningeal: 0.029351727200480515
-- ica: 0.02895292447512242
-- moyamoya: 0.028628994461836636
-- voids: 0.028229438099665733
-- note: 0.025418616782287403
-- ganglia: 0.02527668882934209
-- segment: 0.02154868259383881
-- vessels: 0.01988578044093834
-- her: 0.019802787348631487
-- extensive: 0.019753501285830897
-- mca: 0.019134376964379345
-- speech: 0.018973788538943628
-- view: 0.018532061438043576
-- ‚Äú: 0.018447982183694565
-- ‚Äù: 0.01834457429496176
-- stroke: 0.01718231058680889
-- sign: 0.017112407524647807
-- meningitis: 0.017084746779547653
-- nonfluent: 0.016985584631920035
-- paraphasic: 0.016985584631920035
-- eca-ica: 0.016985584631920035
-- ‚Ä¢t2: 0.016985584631920035
-- ‚Ä¢dwi/adc: 0.016985584631920035
-- puff: 0.016985584631920035
-- reconstituting: 0.016985584631920035
-- ‚Ä¢vertebral: 0.016985584631920035
-- occlusion: 0.01642251072202681
-- flow: 0.016324010848893157
-- 110/68: 0.01565004093141918
-- errors: 0.01565004093141918
-- infact: 0.01565004093141918
-- ‚Ä¢severe: 0.01565004093141918
-- ‚Ä¢left: 0.01565004093141918
-- inspired: 0.01565004093141918
-- local: 0.01512589323986414
-- flair: 0.0150970274528539
-- visual: 0.014928231219102866
-- hemianopia: 0.014868797948551808
-- regaining: 0.014868797948551808
-- fluctuating: 0.014314497230918318
-- vacuo: 0.014314497230918318
-- pericallosal: 0.014314497230918318
-- apraxia: 0.014314497230918318
-- level: 0.014236352760964924
-- admitted: 0.014225643331650247
-- axial: 0.014097060555305616
-- icas: 0.013884548191777259
-- arteries: 0.013631613736940197
-- was: 0.01332936927841196
-- revascularization: 0.013236239450695924
-- parasagittal: 0.012978953530417461
-- homonymous: 0.01275201126518358
-- within: 0.01256363320528772
-- reconstitution: 0.012549004491276402
-- willis: 0.012549004491276402
-- course: 0.012425940051852182
-- hospital: 0.012397288882343442
-- ex: 0.012365362526335506
-- there: 0.012251594956310102
-- smoke: 0.01219771054755009
-- circle: 0.01219771054755009
-- acute: 0.01219583427229188
-- encephalomalacia: 0.012043485677273529
-- sulcal: 0.012043485677273529
-- attenuated: 0.012043485677273529
-- vasospasm: 0.012043485677273529
-- encasement: 0.012043485677273529
-- ap: 0.012043001809797447
-- aforementioned: 0.011900695750195067
-- gad: 0.011900695750195067
-- later: 0.01188985988821936
-- gyri: 0.011767761508409032
-- aca: 0.011767761508409032
-- sah: 0.011767761508409032
-- stenoses: 0.011643409829916603
-- stabilized: 0.011526599383256805
-- dysarthria: 0.011416467564682724
-- electrolytes: 0.011416467564682724
-- posterior: 0.01138519392313554
-- underwent: 0.011299406687777338
-- improving: 0.011029818825834647
-- occupational: 0.011029818825834647
-- disturbances: 0.010783511751634485
-- functioning: 0.01070794197677267
-- read: 0.010635224581815355
-- occluded: 0.010635224581815355
-- aphasia: 0.010369038958538251
-- bypass: 0.010191055682755948
-- cisterns: 0.01013520301055315
-- days: 0.010092771854227274
-- edematous: 0.010080923864181865
-- circulation: 0.010028132006401298
-- brain: 0.009908869068604092
-- confusion: 0.009877917090274685
-- adc: 0.00983033980204661
-- punctate: 0.009608626257181894
-- 71: 0.009526623146548377
-- service: 0.009526623146548377
-- oxygen: 0.009447968051133626
-- conventional: 0.009335696551858143
-- region: 0.009300968120382707
-- segments: 0.00926432608619273
-- mra: 0.00922960834919335
-- temp: 0.009129057765049669
-- hyperintensity: 0.009064825741412692
-- ‚Ä¢: 0.009057886425409755
-- suprasellar: 0.008972322428914886
-- institution: 0.008972322428914886
-- horn: 0.008942449237130752
-- procedures: 0.00891303214246642
-- transferred: 0.00885551198225509
-- duration: 0.008718803435102326
-- portions: 0.00856660996435352
-- late: 0.00856660996435352
-- sensory: 0.008518437898447128
-- anterior: 0.008480897201397832
-- sinuses: 0.008471440878940077
-- workup: 0.008471440878940077
-- field: 0.008448365366325981
-- rr: 0.008403027221026956
-- corresponding: 0.00838075203335629
-- (: 0.008351002615535959
-- 37: 0.008273082556681036
-- order: 0.008252252275170024
-- ): 0.008248990660269422
-- alert: 0.008211255361013406
-- symptoms: 0.008206772550667202
-- characterized: 0.008191079446047519
-- consistent: 0.008074367124590379
-- undergoing: 0.00807426899938772
-- disease: 0.008073627405871121
-- hr: 0.008018416327184924
-- bilateral: 0.007991590479053734
-- resolved: 0.00798206086609748
-- angiogram: 0.007964137180813638
-- vitals: 0.007876937582377952
-- improved: 0.007843133517539977
-- our: 0.007826451315722802
-- phase: 0.007745140420750977
-- occipital: 0.007682475311491709
-- cavernous: 0.007636778728414029
-- included: 0.007592140849258857
-- is: 0.007583883330815182
-- restricted: 0.007577488441965563
-- mri: 0.007565610230884855
-- discharged: 0.00754851372642695
-- deficits: 0.007534188141672579
-- 16: 0.0074504017988214445
-- numerous: 0.007383259734601468
-- department: 0.007383259734601468
-- diffusion: 0.007370107586103587
-- cbc: 0.007357044605399582
-- infarct: 0.007305660699653606
-- arterial: 0.00720682968927297
-- facial: 0.007159252401044893
-- bp: 0.007147539402824504
-- neurological: 0.00712432487774517
-- lateral: 0.007116254511077265
-- had: 0.00710539429379849
-- seizures: 0.007078718434419726
-- dilatation: 0.007056313736933948
-- enhanced: 0.007045208332855432
-- and: 0.006936763226675084
-- multiple: 0.006935668606856528
-- outside: 0.006906377277672277
-- motor: 0.006875711660512547
-- hyperintense: 0.006835568911181446
-- limits: 0.00678653872686321
-- ,: 0.0067807916218203005
-- at: 0.006692272559720422
-- no: 0.006631554148006181
-- third: 0.006602016751734099
-- stenosis: 0.006449823280985293
-- the: 0.006393030506526048
-- emergency: 0.006234660111715367
-- has: 0.006183814915199529
-- ventricle: 0.006170308897068262
-- defect: 0.006163289646049955
-- weakness: 0.006114858098320587
-- could: 0.0060742927626792915
-- since: 0.00604771603410061
-- year-old: 0.00604771603410061
-- 20: 0.005920067892402728
-- week: 0.0055915518657576645
-- first: 0.0055250162519958615
-- hemorrhage: 0.00548026316796924
-- medial: 0.0052664730512332406
-- past: 0.00523159821184284
-- right: 0.005211743983297206
-- area: 0.0052058501813762375
-- onset: 0.0051973434025532755
-- post: 0.005184653242913861
-- approximately: 0.005094061322843127
-- medical: 0.005066107514578043
-- 6: 0.004917379887042147
-- neck: 0.004834765196567403
-- 5: 0.004817264783129409
-- two: 0.004715474446273614
-- focal: 0.0047022998152955724
-- abnormal: 0.004695746127774396
-- weeks: 0.004672982190560979
-- low: 0.004578358483364932
-- shows: 0.004526731598706896
-- high: 0.00450586909648712
-- of: 0.004489549163698976
-- presented: 0.004488165000043178
-- been: 0.0044793735827822565
-- one: 0.004461910179789295
-- significant: 0.004427451158100623
-- enhancement: 0.004413273152452863
-- therapy: 0.0044020053877468455
-- signal: 0.004341183680679728
-- both: 0.004204624259510831
-- over: 0.004191989576377577
-- metastatic: 0.0041447194674683815
-- associated: 0.003885284319668019
-- without: 0.0038767113031949138
-- imaging: 0.0038575603554057854
-- tumor: 0.0038385978836431816
-- woman: 0.0038032812090345014
-- were: 0.003738509319248403
-- present: 0.003718706654974337
-- left: 0.0036844133690671086
-- have: 0.003565391287794011
-- but: 0.0035115670540145235
-- to: 0.00329146904387658
-- by: 0.002741562433997832
-- normal: 0.0025811415310194627
-- not: 0.0023792267278264652
-- ct: 0.0023030898909287916
-- a: 0.0022924844035757297
-- history: 0.0022740164503026656
-- .: 0.0021887960599519863
-- or: 0.001929716279313502
-- old: 0.0016858084717962516
-- patient: 0.001650466148201133
-- in: 0.0016238814263593638
-- with: 0.0015780910069927323
-- on: 0.0013947803706462968
+\-\ Texto\\:\\ \ \(0\)\
+\-\ vitals\\:\\ \\ temp\\ 37\\,\\ hr\\ 71\\,\\ bp\\ 110\\/68\\,\\ rr\\ 16\ \(0\)\
+\-\ there\\ was\\ no\\ facial\\ weakness\\ and\\ no\\ focal\\ motor\\ or\\ sensory\\ deficits\\.\\ she\\ was\\ alert\\ but\\ had\\ nonfluent\\ speech\\.\\ \\ she\\ had\\ multiple\\ paraphasic\\ errors\\.\\ \\ she\\ could\\ not\\ read\\.\\ \\ there\\ was\\ no\\ dysarthria\\.\\ \\ she\\ has\\ a\\ right\\ homonymous\\ hemianopia\\.\ \(0\)\
+\-\ cbc\\ and\\ electrolytes\\ were\\ within\\ normal\\ limits\\.\ \(0\)\
+\-\ the\\ patient\\ was\\ admitted\\ to\\ the\\ stroke\\ service\\ and\\ underwent\\ the\\ aforementioned\\ imaging\\.\\ \\ her\\ hospital\\ course\\ was\\ characterized\\ by\\ fluctuating\\ neurological\\ symptoms\\ and\\ seizures\\.\\ \\ she\\ stabilized\\ and\\ improved\\ over\\ the\\ course\\ of\\ 5\\ days\\ and\\ was\\ discharged\\.\\ \\ approximately\\ 6\\ weeks\\ later\\ she\\ underwent\\ bilateral\\ eca\\-ica\\ bypass\\ procedures\\.\\ \\ since\\ revascularization\\,\\ her\\ symptoms\\ have\\ been\\ improving\\ and\\ her\\ visual\\ field\\ defect\\ has\\ resolved\\.\\ \\ she\\ is\\ undergoing\\ speech\\ and\\ occupational\\ therapy\\ and\\ is\\ regaining\\ her\\ level\\ of\\ functioning\\.\ \(0\)\
+\-\ mri\\ brain\\:\\ \\ \ \(0\)\
+\-\ \\‚\\Ä\\¢t1\\ axial\\ \\(at\\ the\\ level\\ of\\ the\\ cavernous\\ sinuses\\)\\:\\ note\\ no\\ ica\\ flow\\ voids\ \(0\)\
+\-\ \\‚\\Ä\\¢t1\\ axial\\ \\(at\\ level\\ of\\ the\\ third\\ ventricle\\)\\:\\ numerous\\ punctate\\ flow\\ voids\\ within\\ the\\ basal\\ ganglia\\.\\ note\\ right\\ temporal\\-occipital\\ encephalomalacia\\ with\\ occipital\\ horn\\ ex\\ vacuo\\ dilatation\\.\ \(0\)\
+\-\ \\‚\\Ä\\¢t2\\ axial\\:\\ multiple\\ collateral\\ flow\\ voids\\ within\\ the\\ suprasellar\\ cisterns\\.\ \(0\)\
+\-\ \\‚\\Ä\\¢dwi\\/adc\\:\\ restricted\\ diffusion\\ and\\ corresponding\\ low\\ adc\\ in\\ the\\ left\\ temporal\\-occipital\\ region\\ consistent\\ with\\ acute\\ infarct\\.\ \(0\)\
+\-\ \\‚\\Ä\\¢\\ flair\\:\\ abnormal\\ flair\\ signal\\ in\\ right\\ temporal\\-occipital\\ region\\ consistent\\ with\\ old\\ stroke\\.\\ \\ area\\ of\\ acute\\ infact\\ on\\ the\\ left\\ shows\\ edematous\\ hyperintense\\ gyri\\.\\ note\\ hyperintensity\\ of\\ basal\\ ganglia\\ and\\ \\ sulcal\\ collateral\\ vessels\\ \\(\\‚\\Ä\\úivy\\ sign\\‚\\Ä\\ù\\)\\.\ \(0\)\
+\-\ \\‚\\Ä\\¢right\\ parasagittal\\ post\\ gad\\:\\ note\\ lenticulostriate\\ collateral\\ vessels\\ within\\ the\\ basal\\ ganglia\\ \\(\\‚\\Ä\\úpuff\\ of\\ smoke\\‚\\Ä\\ù\\)\\ and\\ leptomeningeal\\ enhancement\\ \\(\\‚\\Ä\\úenhanced\\ ivy\\ sign\\‚\\Ä\\ù\\)\\.\ \(0\)\
+\-\ mra\\ neck\\:\\ \\ \ \(0\)\
+\-\ \\‚\\Ä\\¢severe\\ stenosis\\ of\\ supraclinoid\\ portions\\ of\\ both\\ icas\\.\\ \\ bilateral\\ stenoses\\ of\\ the\\ mca\\ and\\ aca\\ first\\ order\\ segments\\.\\ \\ \ \(0\)\
+\-\ conventional\\ angiogram\\:\\ \\ \ \(0\)\
+\-\ \\‚\\Ä\\¢right\\ ap\\ view\\:\\ there\\ is\\ occlusion\\ of\\ the\\ ica\\ at\\ the\\ supraclinoid\\ segment\\.\\ the\\ mca\\ is\\ occluded\\.\\ there\\ is\\ extensive\\ proliferation\\ of\\ the\\ lenticulostriate\\,\\ anterior\\ choroidal\\,\\ and\\ thalamostriate\\ arteries\\ with\\ reconstitution\\ of\\ the\\ a2\\ segment\\.\\ \ \(0\)\
+\-\ \\‚\\Ä\\¢left\\ ap\\ view\\:\\ there\\ is\\ occlusion\\ of\\ the\\ supraclinoid\\ ica\\ with\\ extensive\\ proliferation\\ of\\ the\\ lenticulostriate\\,\\ thalamostriate\\,\\ and\\ anterior\\ choroidal\\ arteries\\ reconstituting\\ the\\ a2\\ \ \(0\)\
+\-\ segment\\.\\ \ \(16\)\
+\-\ \\‚\\Ä\\¢vertebral\\ lateral\\ view\\ \\(late\\ arterial\\ phase\\)\\:\\ extensive\\ proliferation\\ of\\ the\\ medial\\ and\\ lateral\\ posterior\\ choroidal\\ and\\ posterior\\ pericallosal\\ vessels\\.\\ \\ posterior\\ leptomeningeal\\ collateral\\ circulation\\ is\\ present\\.\ \(0\)\
+\-\ moyamoya\\ disease\ \(0\)\
+\-\ moyamoya\\ disease\ \(0\)\
+\-\ \\‚\\Ä\\¢\\ ivy\\ sign\\:\\ \\ \ \(0\)\
+\-\ \\	leptomeningeal\\ metastatic\\ disease\ \(0\)\
+\-\ \\	hemorrhage\ \(0\)\
+\-\ \\	meningitis\ \(0\)\
+\-\ \\	high\\ inspired\\ oxygen\ \(0\)\
+\-\ \\‚\\Ä\\¢\\ attenuated\\ circle\\ of\\ willis\\:\ \(0\)\
+\-\ \\	vasospasm\\ associated\\ with\\ sah\ \(0\)\
+\-\ \\	basal\\ meningitis\ \(0\)\
+\-\ \\	tumor\\ encasement\ \(0\)\
+\-\ a\\ 20\\ year\\-old\\ woman\\,\\ without\\ significant\\ past\\ medical\\ history\\,\\ presented\\ to\\ a\\ local\\ emergency\\ department\\ with\\ acute\\ onset\\ of\\ confusion\\,\\ aphasia\\,\\ apraxia\\,\\ and\\ visual\\ disturbances\\ of\\ two\\ days\\ duration\\.\\ \\ local\\ workup\\ included\\ ct\\ and\\ mri\\ of\\ the\\ brain\\.\\ \\ she\\ was\\ admitted\\ to\\ the\\ outside\\ hospital\\ and\\ transferred\\ to\\ our\\ institution\\ one\\ week\\ later\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ ivy\\:\\ 0\\.04695012279425753\ \(0\)\
+\-\ temporal\\-occipital\\:\\ 0\\.04460639384565542\ \(0\)\
+\-\ lenticulostriate\\:\\ 0\\.04460639384565542\ \(0\)\
+\-\ supraclinoid\\:\\ 0\\.04059976274415285\ \(0\)\
+\-\ she\\:\\ 0\\.03697550892414909\ \(0\)\
+\-\ choroidal\\:\\ 0\\.03457979814977041\ \(0\)\
+\-\ collateral\\:\\ 0\\.03446406938044558\ \(0\)\
+\-\ \\‚\\Ä\\¢t1\\:\\ 0\\.03397116926384007\ \(0\)\
+\-\ thalamostriate\\:\\ 0\\.03397116926384007\ \(0\)\
+\-\ \\:\\:\\ 0\\.032666902196262\ \(0\)\
+\-\ basal\\:\\ 0\\.030023410390276478\ \(0\)\
+\-\ proliferation\\:\\ 0\\.029780096981715905\ \(0\)\
+\-\ \\‚\\Ä\\¢right\\:\\ 0\\.029737595897103616\ \(0\)\
+\-\ a2\\:\\ 0\\.029737595897103616\ \(0\)\
+\-\ leptomeningeal\\:\\ 0\\.029351727200480515\ \(0\)\
+\-\ ica\\:\\ 0\\.02895292447512242\ \(0\)\
+\-\ moyamoya\\:\\ 0\\.028628994461836636\ \(0\)\
+\-\ voids\\:\\ 0\\.028229438099665733\ \(0\)\
+\-\ note\\:\\ 0\\.025418616782287403\ \(0\)\
+\-\ ganglia\\:\\ 0\\.02527668882934209\ \(0\)\
+\-\ segment\\:\\ 0\\.02154868259383881\ \(0\)\
+\-\ vessels\\:\\ 0\\.01988578044093834\ \(0\)\
+\-\ her\\:\\ 0\\.019802787348631487\ \(0\)\
+\-\ extensive\\:\\ 0\\.019753501285830897\ \(0\)\
+\-\ mca\\:\\ 0\\.019134376964379345\ \(0\)\
+\-\ speech\\:\\ 0\\.018973788538943628\ \(0\)\
+\-\ view\\:\\ 0\\.018532061438043576\ \(0\)\
+\-\ \\‚\\Ä\\ú\\:\\ 0\\.018447982183694565\ \(0\)\
+\-\ \\‚\\Ä\\ù\\:\\ 0\\.01834457429496176\ \(0\)\
+\-\ stroke\\:\\ 0\\.01718231058680889\ \(0\)\
+\-\ sign\\:\\ 0\\.017112407524647807\ \(0\)\
+\-\ meningitis\\:\\ 0\\.017084746779547653\ \(0\)\
+\-\ nonfluent\\:\\ 0\\.016985584631920035\ \(0\)\
+\-\ paraphasic\\:\\ 0\\.016985584631920035\ \(0\)\
+\-\ eca\\-ica\\:\\ 0\\.016985584631920035\ \(0\)\
+\-\ \\‚\\Ä\\¢t2\\:\\ 0\\.016985584631920035\ \(0\)\
+\-\ \\‚\\Ä\\¢dwi\\/adc\\:\\ 0\\.016985584631920035\ \(0\)\
+\-\ puff\\:\\ 0\\.016985584631920035\ \(0\)\
+\-\ reconstituting\\:\\ 0\\.016985584631920035\ \(0\)\
+\-\ \\‚\\Ä\\¢vertebral\\:\\ 0\\.016985584631920035\ \(0\)\
+\-\ occlusion\\:\\ 0\\.01642251072202681\ \(0\)\
+\-\ flow\\:\\ 0\\.016324010848893157\ \(0\)\
+\-\ 110\\/68\\:\\ 0\\.01565004093141918\ \(0\)\
+\-\ errors\\:\\ 0\\.01565004093141918\ \(0\)\
+\-\ infact\\:\\ 0\\.01565004093141918\ \(0\)\
+\-\ \\‚\\Ä\\¢severe\\:\\ 0\\.01565004093141918\ \(0\)\
+\-\ \\‚\\Ä\\¢left\\:\\ 0\\.01565004093141918\ \(0\)\
+\-\ inspired\\:\\ 0\\.01565004093141918\ \(0\)\
+\-\ local\\:\\ 0\\.01512589323986414\ \(0\)\
+\-\ flair\\:\\ 0\\.0150970274528539\ \(0\)\
+\-\ visual\\:\\ 0\\.014928231219102866\ \(0\)\
+\-\ hemianopia\\:\\ 0\\.014868797948551808\ \(0\)\
+\-\ regaining\\:\\ 0\\.014868797948551808\ \(0\)\
+\-\ fluctuating\\:\\ 0\\.014314497230918318\ \(0\)\
+\-\ vacuo\\:\\ 0\\.014314497230918318\ \(0\)\
+\-\ pericallosal\\:\\ 0\\.014314497230918318\ \(0\)\
+\-\ apraxia\\:\\ 0\\.014314497230918318\ \(0\)\
+\-\ level\\:\\ 0\\.014236352760964924\ \(0\)\
+\-\ admitted\\:\\ 0\\.014225643331650247\ \(0\)\
+\-\ axial\\:\\ 0\\.014097060555305616\ \(0\)\
+\-\ icas\\:\\ 0\\.013884548191777259\ \(0\)\
+\-\ arteries\\:\\ 0\\.013631613736940197\ \(0\)\
+\-\ was\\:\\ 0\\.01332936927841196\ \(0\)\
+\-\ revascularization\\:\\ 0\\.013236239450695924\ \(0\)\
+\-\ parasagittal\\:\\ 0\\.012978953530417461\ \(0\)\
+\-\ homonymous\\:\\ 0\\.01275201126518358\ \(0\)\
+\-\ within\\:\\ 0\\.01256363320528772\ \(0\)\
+\-\ reconstitution\\:\\ 0\\.012549004491276402\ \(0\)\
+\-\ willis\\:\\ 0\\.012549004491276402\ \(0\)\
+\-\ course\\:\\ 0\\.012425940051852182\ \(0\)\
+\-\ hospital\\:\\ 0\\.012397288882343442\ \(0\)\
+\-\ ex\\:\\ 0\\.012365362526335506\ \(0\)\
+\-\ there\\:\\ 0\\.012251594956310102\ \(0\)\
+\-\ smoke\\:\\ 0\\.01219771054755009\ \(0\)\
+\-\ circle\\:\\ 0\\.01219771054755009\ \(0\)\
+\-\ acute\\:\\ 0\\.01219583427229188\ \(0\)\
+\-\ encephalomalacia\\:\\ 0\\.012043485677273529\ \(0\)\
+\-\ sulcal\\:\\ 0\\.012043485677273529\ \(0\)\
+\-\ attenuated\\:\\ 0\\.012043485677273529\ \(0\)\
+\-\ vasospasm\\:\\ 0\\.012043485677273529\ \(0\)\
+\-\ encasement\\:\\ 0\\.012043485677273529\ \(0\)\
+\-\ ap\\:\\ 0\\.012043001809797447\ \(0\)\
+\-\ aforementioned\\:\\ 0\\.011900695750195067\ \(0\)\
+\-\ gad\\:\\ 0\\.011900695750195067\ \(0\)\
+\-\ later\\:\\ 0\\.01188985988821936\ \(0\)\
+\-\ gyri\\:\\ 0\\.011767761508409032\ \(0\)\
+\-\ aca\\:\\ 0\\.011767761508409032\ \(0\)\
+\-\ sah\\:\\ 0\\.011767761508409032\ \(0\)\
+\-\ stenoses\\:\\ 0\\.011643409829916603\ \(0\)\
+\-\ stabilized\\:\\ 0\\.011526599383256805\ \(0\)\
+\-\ dysarthria\\:\\ 0\\.011416467564682724\ \(0\)\
+\-\ electrolytes\\:\\ 0\\.011416467564682724\ \(0\)\
+\-\ posterior\\:\\ 0\\.01138519392313554\ \(0\)\
+\-\ underwent\\:\\ 0\\.011299406687777338\ \(0\)\
+\-\ improving\\:\\ 0\\.011029818825834647\ \(0\)\
+\-\ occupational\\:\\ 0\\.011029818825834647\ \(0\)\
+\-\ disturbances\\:\\ 0\\.010783511751634485\ \(0\)\
+\-\ functioning\\:\\ 0\\.01070794197677267\ \(0\)\
+\-\ read\\:\\ 0\\.010635224581815355\ \(0\)\
+\-\ occluded\\:\\ 0\\.010635224581815355\ \(0\)\
+\-\ aphasia\\:\\ 0\\.010369038958538251\ \(0\)\
+\-\ bypass\\:\\ 0\\.010191055682755948\ \(0\)\
+\-\ cisterns\\:\\ 0\\.01013520301055315\ \(0\)\
+\-\ days\\:\\ 0\\.010092771854227274\ \(0\)\
+\-\ edematous\\:\\ 0\\.010080923864181865\ \(0\)\
+\-\ circulation\\:\\ 0\\.010028132006401298\ \(0\)\
+\-\ brain\\:\\ 0\\.009908869068604092\ \(0\)\
+\-\ confusion\\:\\ 0\\.009877917090274685\ \(0\)\
+\-\ adc\\:\\ 0\\.00983033980204661\ \(0\)\
+\-\ punctate\\:\\ 0\\.009608626257181894\ \(0\)\
+\-\ 71\\:\\ 0\\.009526623146548377\ \(0\)\
+\-\ service\\:\\ 0\\.009526623146548377\ \(0\)\
+\-\ oxygen\\:\\ 0\\.009447968051133626\ \(0\)\
+\-\ conventional\\:\\ 0\\.009335696551858143\ \(0\)\
+\-\ region\\:\\ 0\\.009300968120382707\ \(0\)\
+\-\ segments\\:\\ 0\\.00926432608619273\ \(0\)\
+\-\ mra\\:\\ 0\\.00922960834919335\ \(0\)\
+\-\ temp\\:\\ 0\\.009129057765049669\ \(0\)\
+\-\ hyperintensity\\:\\ 0\\.009064825741412692\ \(0\)\
+\-\ \\‚\\Ä\\¢\\:\\ 0\\.009057886425409755\ \(0\)\
+\-\ suprasellar\\:\\ 0\\.008972322428914886\ \(0\)\
+\-\ institution\\:\\ 0\\.008972322428914886\ \(0\)\
+\-\ horn\\:\\ 0\\.008942449237130752\ \(0\)\
+\-\ procedures\\:\\ 0\\.00891303214246642\ \(0\)\
+\-\ transferred\\:\\ 0\\.00885551198225509\ \(0\)\
+\-\ duration\\:\\ 0\\.008718803435102326\ \(0\)\
+\-\ portions\\:\\ 0\\.00856660996435352\ \(0\)\
+\-\ late\\:\\ 0\\.00856660996435352\ \(0\)\
+\-\ sensory\\:\\ 0\\.008518437898447128\ \(0\)\
+\-\ anterior\\:\\ 0\\.008480897201397832\ \(0\)\
+\-\ sinuses\\:\\ 0\\.008471440878940077\ \(0\)\
+\-\ workup\\:\\ 0\\.008471440878940077\ \(0\)\
+\-\ field\\:\\ 0\\.008448365366325981\ \(0\)\
+\-\ rr\\:\\ 0\\.008403027221026956\ \(0\)\
+\-\ corresponding\\:\\ 0\\.00838075203335629\ \(0\)\
+\-\ \\(\\:\\ 0\\.008351002615535959\ \(0\)\
+\-\ 37\\:\\ 0\\.008273082556681036\ \(0\)\
+\-\ order\\:\\ 0\\.008252252275170024\ \(0\)\
+\-\ \\)\\:\\ 0\\.008248990660269422\ \(0\)\
+\-\ alert\\:\\ 0\\.008211255361013406\ \(0\)\
+\-\ symptoms\\:\\ 0\\.008206772550667202\ \(0\)\
+\-\ characterized\\:\\ 0\\.008191079446047519\ \(0\)\
+\-\ consistent\\:\\ 0\\.008074367124590379\ \(0\)\
+\-\ undergoing\\:\\ 0\\.00807426899938772\ \(0\)\
+\-\ disease\\:\\ 0\\.008073627405871121\ \(0\)\
+\-\ hr\\:\\ 0\\.008018416327184924\ \(0\)\
+\-\ bilateral\\:\\ 0\\.007991590479053734\ \(0\)\
+\-\ resolved\\:\\ 0\\.00798206086609748\ \(0\)\
+\-\ angiogram\\:\\ 0\\.007964137180813638\ \(0\)\
+\-\ vitals\\:\\ 0\\.007876937582377952\ \(0\)\
+\-\ improved\\:\\ 0\\.007843133517539977\ \(0\)\
+\-\ our\\:\\ 0\\.007826451315722802\ \(0\)\
+\-\ phase\\:\\ 0\\.007745140420750977\ \(0\)\
+\-\ occipital\\:\\ 0\\.007682475311491709\ \(0\)\
+\-\ cavernous\\:\\ 0\\.007636778728414029\ \(0\)\
+\-\ included\\:\\ 0\\.007592140849258857\ \(0\)\
+\-\ is\\:\\ 0\\.007583883330815182\ \(0\)\
+\-\ restricted\\:\\ 0\\.007577488441965563\ \(0\)\
+\-\ mri\\:\\ 0\\.007565610230884855\ \(0\)\
+\-\ discharged\\:\\ 0\\.00754851372642695\ \(0\)\
+\-\ deficits\\:\\ 0\\.007534188141672579\ \(0\)\
+\-\ 16\\:\\ 0\\.0074504017988214445\ \(0\)\
+\-\ numerous\\:\\ 0\\.007383259734601468\ \(0\)\
+\-\ department\\:\\ 0\\.007383259734601468\ \(0\)\
+\-\ diffusion\\:\\ 0\\.007370107586103587\ \(0\)\
+\-\ cbc\\:\\ 0\\.007357044605399582\ \(0\)\
+\-\ infarct\\:\\ 0\\.007305660699653606\ \(0\)\
+\-\ arterial\\:\\ 0\\.00720682968927297\ \(0\)\
+\-\ facial\\:\\ 0\\.007159252401044893\ \(0\)\
+\-\ bp\\:\\ 0\\.007147539402824504\ \(0\)\
+\-\ neurological\\:\\ 0\\.00712432487774517\ \(0\)\
+\-\ lateral\\:\\ 0\\.007116254511077265\ \(0\)\
+\-\ had\\:\\ 0\\.00710539429379849\ \(0\)\
+\-\ seizures\\:\\ 0\\.007078718434419726\ \(0\)\
+\-\ dilatation\\:\\ 0\\.007056313736933948\ \(0\)\
+\-\ enhanced\\:\\ 0\\.007045208332855432\ \(0\)\
+\-\ and\\:\\ 0\\.006936763226675084\ \(0\)\
+\-\ multiple\\:\\ 0\\.006935668606856528\ \(0\)\
+\-\ outside\\:\\ 0\\.006906377277672277\ \(0\)\
+\-\ motor\\:\\ 0\\.006875711660512547\ \(0\)\
+\-\ hyperintense\\:\\ 0\\.006835568911181446\ \(0\)\
+\-\ limits\\:\\ 0\\.00678653872686321\ \(0\)\
+\-\ \\,\\:\\ 0\\.0067807916218203005\ \(0\)\
+\-\ at\\:\\ 0\\.006692272559720422\ \(0\)\
+\-\ no\\:\\ 0\\.006631554148006181\ \(0\)\
+\-\ third\\:\\ 0\\.006602016751734099\ \(0\)\
+\-\ stenosis\\:\\ 0\\.006449823280985293\ \(0\)\
+\-\ the\\:\\ 0\\.006393030506526048\ \(0\)\
+\-\ emergency\\:\\ 0\\.006234660111715367\ \(0\)\
+\-\ has\\:\\ 0\\.006183814915199529\ \(0\)\
+\-\ ventricle\\:\\ 0\\.006170308897068262\ \(0\)\
+\-\ defect\\:\\ 0\\.006163289646049955\ \(0\)\
+\-\ weakness\\:\\ 0\\.006114858098320587\ \(0\)\
+\-\ could\\:\\ 0\\.0060742927626792915\ \(0\)\
+\-\ since\\:\\ 0\\.00604771603410061\ \(0\)\
+\-\ year\\-old\\:\\ 0\\.00604771603410061\ \(0\)\
+\-\ 20\\:\\ 0\\.005920067892402728\ \(0\)\
+\-\ week\\:\\ 0\\.0055915518657576645\ \(0\)\
+\-\ first\\:\\ 0\\.0055250162519958615\ \(0\)\
+\-\ hemorrhage\\:\\ 0\\.00548026316796924\ \(0\)\
+\-\ medial\\:\\ 0\\.0052664730512332406\ \(0\)\
+\-\ past\\:\\ 0\\.00523159821184284\ \(0\)\
+\-\ right\\:\\ 0\\.005211743983297206\ \(0\)\
+\-\ area\\:\\ 0\\.0052058501813762375\ \(0\)\
+\-\ onset\\:\\ 0\\.0051973434025532755\ \(0\)\
+\-\ post\\:\\ 0\\.005184653242913861\ \(0\)\
+\-\ approximately\\:\\ 0\\.005094061322843127\ \(0\)\
+\-\ medical\\:\\ 0\\.005066107514578043\ \(0\)\
+\-\ 6\\:\\ 0\\.004917379887042147\ \(0\)\
+\-\ neck\\:\\ 0\\.004834765196567403\ \(0\)\
+\-\ 5\\:\\ 0\\.004817264783129409\ \(0\)\
+\-\ two\\:\\ 0\\.004715474446273614\ \(0\)\
+\-\ focal\\:\\ 0\\.0047022998152955724\ \(0\)\
+\-\ abnormal\\:\\ 0\\.004695746127774396\ \(0\)\
+\-\ weeks\\:\\ 0\\.004672982190560979\ \(0\)\
+\-\ low\\:\\ 0\\.004578358483364932\ \(0\)\
+\-\ shows\\:\\ 0\\.004526731598706896\ \(0\)\
+\-\ high\\:\\ 0\\.00450586909648712\ \(0\)\
+\-\ of\\:\\ 0\\.004489549163698976\ \(0\)\
+\-\ presented\\:\\ 0\\.004488165000043178\ \(0\)\
+\-\ been\\:\\ 0\\.0044793735827822565\ \(0\)\
+\-\ one\\:\\ 0\\.004461910179789295\ \(0\)\
+\-\ significant\\:\\ 0\\.004427451158100623\ \(0\)\
+\-\ enhancement\\:\\ 0\\.004413273152452863\ \(0\)\
+\-\ therapy\\:\\ 0\\.0044020053877468455\ \(0\)\
+\-\ signal\\:\\ 0\\.004341183680679728\ \(0\)\
+\-\ both\\:\\ 0\\.004204624259510831\ \(0\)\
+\-\ over\\:\\ 0\\.004191989576377577\ \(0\)\
+\-\ metastatic\\:\\ 0\\.0041447194674683815\ \(0\)\
+\-\ associated\\:\\ 0\\.003885284319668019\ \(0\)\
+\-\ without\\:\\ 0\\.0038767113031949138\ \(0\)\
+\-\ imaging\\:\\ 0\\.0038575603554057854\ \(0\)\
+\-\ tumor\\:\\ 0\\.0038385978836431816\ \(0\)\
+\-\ woman\\:\\ 0\\.0038032812090345014\ \(0\)\
+\-\ were\\:\\ 0\\.003738509319248403\ \(0\)\
+\-\ present\\:\\ 0\\.003718706654974337\ \(0\)\
+\-\ left\\:\\ 0\\.0036844133690671086\ \(0\)\
+\-\ have\\:\\ 0\\.003565391287794011\ \(0\)\
+\-\ but\\:\\ 0\\.0035115670540145235\ \(0\)\
+\-\ to\\:\\ 0\\.00329146904387658\ \(0\)\
+\-\ by\\:\\ 0\\.002741562433997832\ \(0\)\
+\-\ normal\\:\\ 0\\.0025811415310194627\ \(0\)\
+\-\ not\\:\\ 0\\.0023792267278264652\ \(0\)\
+\-\ ct\\:\\ 0\\.0023030898909287916\ \(0\)\
+\-\ a\\:\\ 0\\.0022924844035757297\ \(0\)\
+\-\ history\\:\\ 0\\.0022740164503026656\ \(0\)\
+\-\ \\.\\:\\ 0\\.0021887960599519863\ \(0\)\
+\-\ or\\:\\ 0\\.001929716279313502\ \(0\)\
+\-\ old\\:\\ 0\\.0016858084717962516\ \(0\)\
+\-\ patient\\:\\ 0\\.001650466148201133\ \(0\)\
+\-\ in\\:\\ 0\\.0016238814263593638\ \(0\)\
+\-\ with\\:\\ 0\\.0015780910069927323\ \(0\)\
+\-\ on\\:\\ 0\\.0013947803706462968\ \(0\)\

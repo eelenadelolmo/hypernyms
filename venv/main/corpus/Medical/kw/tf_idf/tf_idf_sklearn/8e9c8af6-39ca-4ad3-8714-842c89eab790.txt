@@ -1,56 +1,53 @@
-Texto: 
-marked right flank tenderness on exam.
-
-urinalysis reveals >15wbc's
-antibiotics
-ct through the kidneys reveals asymmetrically enlarged right kidney with a striated nephrogram and surrounding stranding of the perinephric fat.
-acute pyelonephritis
-infection (pyelonephritis)
-lymphoma
-renal vein thrombosis
-trauma
-35 year old female presents with acute right flank pain, dysuria, and fever
-
-
-Keywords by value: 
-- pyelonephritis: 0.357060610945132
-- flank: 0.301585549076272
-- reveals: 0.2615460351072576
-- asymmetrically: 0.23315098673967852
-- striated: 0.21628552996006964
-- nephrogram: 0.2142062528609422
-- dysuria: 0.1964917944659959
-- perinephric: 0.1923282797600716
-- urinalysis: 0.18619230315965643
-- acute: 0.18599956872540918
-- right: 0.17099143576043402
-- stranding: 0.15388652070447437
-- kidneys: 0.1479872559293642
-- thrombosis: 0.14016622059470102
-- 35: 0.13784680227059745
-- marked: 0.13002576693593426
-- antibiotics: 0.12665428075923804
-- vein: 0.12322704776298483
-- kidney: 0.1207770222386854
-- enlarged: 0.11719717578767876
-- fever: 0.11656100305209888
-- surrounding: 0.11465533900551823
-- tenderness: 0.1078123804923097
-- renal: 0.10705672212891201
-- fat: 0.10694213049170032
-- infection: 0.10384698955205256
-- lymphoma: 0.10238640405011881
-- through: 0.10233728005509005
-- trauma: 0.09984203687147908
-- exam: 0.08654241527676447
-- female: 0.08295722184415774
-- presents: 0.08270029305636513
-- and: 0.071048521309973
-- the: 0.06860679589129326
-- with: 0.06732646012649346
-- ct: 0.0654498952905179
-- pain: 0.061517739950311616
-- year: 0.052981013138651514
-- on: 0.05192147183267484
-- old: 0.05088011244593524
-- of: 0.03364312830210294
+\-\ Texto\\:\\ \ \(0\)\
+\-\ marked\\ right\\ flank\\ tenderness\\ on\\ exam\\.\ \(0\)\
+\-\ urinalysis\\ reveals\\ \\>15wbc\\'s\ \(0\)\
+\-\ antibiotics\ \(283\)\
+\-\ ct\\ through\\ the\\ kidneys\\ reveals\\ asymmetrically\\ enlarged\\ right\\ kidney\\ with\\ a\\ striated\\ nephrogram\\ and\\ surrounding\\ stranding\\ of\\ the\\ perinephric\\ fat\\.\ \(0\)\
+\-\ acute\\ pyelonephritis\ \(3\)\
+\-\ infection\\ \\(pyelonephritis\\)\ \(0\)\
+\-\ lymphoma\ \(373\)\
+\-\ renal\\ vein\\ thrombosis\ \(4\)\
+\-\ trauma\ \(1087\)\
+\-\ 35\\ year\\ old\\ female\\ presents\\ with\\ acute\\ right\\ flank\\ pain\\,\\ dysuria\\,\\ and\\ fever\ \(1\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ pyelonephritis\\:\\ 0\\.357060610945132\ \(0\)\
+\-\ flank\\:\\ 0\\.301585549076272\ \(0\)\
+\-\ reveals\\:\\ 0\\.2615460351072576\ \(0\)\
+\-\ asymmetrically\\:\\ 0\\.23315098673967852\ \(0\)\
+\-\ striated\\:\\ 0\\.21628552996006964\ \(0\)\
+\-\ nephrogram\\:\\ 0\\.2142062528609422\ \(0\)\
+\-\ dysuria\\:\\ 0\\.1964917944659959\ \(0\)\
+\-\ perinephric\\:\\ 0\\.1923282797600716\ \(0\)\
+\-\ urinalysis\\:\\ 0\\.18619230315965643\ \(0\)\
+\-\ acute\\:\\ 0\\.18599956872540918\ \(0\)\
+\-\ right\\:\\ 0\\.17099143576043402\ \(0\)\
+\-\ stranding\\:\\ 0\\.15388652070447437\ \(0\)\
+\-\ kidneys\\:\\ 0\\.1479872559293642\ \(0\)\
+\-\ thrombosis\\:\\ 0\\.14016622059470102\ \(0\)\
+\-\ 35\\:\\ 0\\.13784680227059745\ \(0\)\
+\-\ marked\\:\\ 0\\.13002576693593426\ \(0\)\
+\-\ antibiotics\\:\\ 0\\.12665428075923804\ \(0\)\
+\-\ vein\\:\\ 0\\.12322704776298483\ \(0\)\
+\-\ kidney\\:\\ 0\\.1207770222386854\ \(0\)\
+\-\ enlarged\\:\\ 0\\.11719717578767876\ \(0\)\
+\-\ fever\\:\\ 0\\.11656100305209888\ \(0\)\
+\-\ surrounding\\:\\ 0\\.11465533900551823\ \(0\)\
+\-\ tenderness\\:\\ 0\\.1078123804923097\ \(0\)\
+\-\ renal\\:\\ 0\\.10705672212891201\ \(0\)\
+\-\ fat\\:\\ 0\\.10694213049170032\ \(0\)\
+\-\ infection\\:\\ 0\\.10384698955205256\ \(0\)\
+\-\ lymphoma\\:\\ 0\\.10238640405011881\ \(0\)\
+\-\ through\\:\\ 0\\.10233728005509005\ \(0\)\
+\-\ trauma\\:\\ 0\\.09984203687147908\ \(0\)\
+\-\ exam\\:\\ 0\\.08654241527676447\ \(0\)\
+\-\ female\\:\\ 0\\.08295722184415774\ \(0\)\
+\-\ presents\\:\\ 0\\.08270029305636513\ \(0\)\
+\-\ and\\:\\ 0\\.071048521309973\ \(0\)\
+\-\ the\\:\\ 0\\.06860679589129326\ \(0\)\
+\-\ with\\:\\ 0\\.06732646012649346\ \(0\)\
+\-\ ct\\:\\ 0\\.0654498952905179\ \(0\)\
+\-\ pain\\:\\ 0\\.061517739950311616\ \(0\)\
+\-\ year\\:\\ 0\\.052981013138651514\ \(0\)\
+\-\ on\\:\\ 0\\.05192147183267484\ \(0\)\
+\-\ old\\:\\ 0\\.05088011244593524\ \(0\)\
+\-\ of\\:\\ 0\\.03364312830210294\ \(0\)\

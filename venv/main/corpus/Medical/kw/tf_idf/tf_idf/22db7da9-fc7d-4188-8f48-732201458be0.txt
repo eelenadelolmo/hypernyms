@@ -1,104 +1,101 @@
-Texto: 
-n/a
-undergoing workup by orthopedics.
-cr:  mixed lytic and sclerotic lesion in the right humeral epiphysis with extension into the metaphysic without periosteal reaction.
-
-mr:  well circumscribed 2.3x2.8x2.4 centimeter heterogeneous signal lesion on t1 and t2 weighted sequences without associated soft tissue mass or extension beyond cortical margin.   no marrow edema.  post gadolinium images demonstrate moderate enhancement.
-most likely clear cell chondrosarcoma given its enhancement characteristics.
-clear cell chondrosarcoma
-chondroblastoma
-osteosarcoma
-enchondroma
-23 year old white male with right shoulder pain.
-given the enhancement pattern, this is likely a non-aggressive malignancy such as a clear cell chondrosarcoma.  this is less likely a osteosarcoma given its chondroid matrix on plain radiographs.  also given its enhancement, less likely an enchondroma.
-
-
-Keywords by value: 
-- chondrosarcoma: 0.09709599185673852
-- given: 0.08877013310655583
-- enchondroma: 0.07693710311641105
-- its: 0.07328480553308277
-- likely: 0.07303908987683808
-- clear: 0.07180742302606012
-- enhancement: 0.06940875048857685
-- osteosarcoma: 0.06736470562877996
-- 2.3x2.8x2.4: 0.06678423048459468
-- metaphysic: 0.061533115480352674
-- cell: 0.05246001617230651
-- extension: 0.04621708062396445
-- centimeter: 0.04577977046762664
-- chondroblastoma: 0.04577977046762664
-- chondroid: 0.04408928901827657
-- less: 0.043847575823070944
-- non-aggressive: 0.04270806510317085
-- orthopedics: 0.03922675957757661
-- cr: 0.03883817401403456
-- beyond: 0.037616445623154846
-- matrix: 0.03615505421312082
-- epiphysis: 0.035518060900919746
-- humeral: 0.03428074986983415
-- workup: 0.033308165274014395
-- characteristics: 0.03220583509468684
-- undergoing: 0.031746557656683536
-- 23: 0.03077218358227374
-- periosteal: 0.030707155220975318
-- gadolinium: 0.030707155220975318
-- without: 0.03048504797512364
-- margin: 0.030452483927043614
-- reaction: 0.029401852203301566
-- lytic: 0.028977923008998197
-- sclerotic: 0.028977923008998197
-- circumscribed: 0.028774534751148287
-- marrow: 0.028479338019834776
-- mixed: 0.028431237810147968
-- weighted: 0.028148878758653784
-- sequences: 0.027034048119742516
-- lesion: 0.026372048878794768
-- shoulder: 0.026097578756354815
-- moderate: 0.025456040216733308
-- malignancy: 0.025015830892435725
-- pattern: 0.024745775295994532
-- heterogeneous: 0.023804508763598527
-- cortical: 0.023599051898301606
-- n/a: 0.023448535207265808
-- white: 0.021470486459939528
-- plain: 0.02102472509612943
-- mr: 0.02056969296929117
-- t1: 0.020518905577456392
-- radiographs: 0.020502051827288887
-- post: 0.020385113886911315
-- such: 0.020237369620006457
-- t2: 0.018322642187502666
-- edema: 0.018310026435085537
-- :: 0.017125375999858562
-- signal: 0.01706874492630893
-- soft: 0.015764596696920832
-- into: 0.015403987636058386
-- tissue: 0.01534409991251965
-- associated: 0.015276231529603803
-- most: 0.014945720770667243
-- demonstrate: 0.01489736470706849
-- well: 0.014644552674004932
-- this: 0.014562685050214137
-- right: 0.01366108650167298
-- also: 0.012762269649016299
-- images: 0.012418665848101168
-- male: 0.011706102559753585
-- on: 0.010968045641900426
-- by: 0.010779325024582384
-- as: 0.009792253832531272
-- a: 0.009013631859513666
-- mass: 0.009003492476875489
-- an: 0.00895200654761159
-- is: 0.008519557248253418
-- pain: 0.007906122481293444
-- or: 0.00758729355275536
-- year: 0.007243221736916021
-- old: 0.006628292400471626
-- no: 0.006518516293210621
-- ,: 0.0041016676593528395
-- in: 0.003192403258638295
-- the: 0.0031420291978096772
-- and: 0.0027274091777608855
-- .: 0.0026893587952535056
-- with: 0.0017727905468165111
+\-\ Texto\\:\\ \ \(0\)\
+\-\ n\\/a\ \(127\)\
+\-\ undergoing\\ workup\\ by\\ orthopedics\\.\ \(0\)\
+\-\ cr\\:\\ \\ mixed\\ lytic\\ and\\ sclerotic\\ lesion\\ in\\ the\\ right\\ humeral\\ epiphysis\\ with\\ extension\\ into\\ the\\ metaphysic\\ without\\ periosteal\\ reaction\\.\ \(0\)\
+\-\ mr\\:\\ \\ well\\ circumscribed\\ 2\\.3x2\\.8x2\\.4\\ centimeter\\ heterogeneous\\ signal\\ lesion\\ on\\ t1\\ and\\ t2\\ weighted\\ sequences\\ without\\ associated\\ soft\\ tissue\\ mass\\ or\\ extension\\ beyond\\ cortical\\ margin\\.\\ \\ \\ no\\ marrow\\ edema\\.\\ \\ post\\ gadolinium\\ images\\ demonstrate\\ moderate\\ enhancement\\.\ \(0\)\
+\-\ most\\ likely\\ clear\\ cell\\ chondrosarcoma\\ given\\ its\\ enhancement\\ characteristics\\.\ \(0\)\
+\-\ clear\\ cell\\ chondrosarcoma\ \(5\)\
+\-\ chondroblastoma\ \(12\)\
+\-\ osteosarcoma\ \(92\)\
+\-\ enchondroma\ \(73\)\
+\-\ 23\\ year\\ old\\ white\\ male\\ with\\ right\\ shoulder\\ pain\\.\ \(1\)\
+\-\ given\\ the\\ enhancement\\ pattern\\,\\ this\\ is\\ likely\\ a\\ non\\-aggressive\\ malignancy\\ such\\ as\\ a\\ clear\\ cell\\ chondrosarcoma\\.\\ \\ this\\ is\\ less\\ likely\\ a\\ osteosarcoma\\ given\\ its\\ chondroid\\ matrix\\ on\\ plain\\ radiographs\\.\\ \\ also\\ given\\ its\\ enhancement\\,\\ less\\ likely\\ an\\ enchondroma\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ chondrosarcoma\\:\\ 0\\.09709599185673852\ \(0\)\
+\-\ given\\:\\ 0\\.08877013310655583\ \(0\)\
+\-\ enchondroma\\:\\ 0\\.07693710311641105\ \(0\)\
+\-\ its\\:\\ 0\\.07328480553308277\ \(0\)\
+\-\ likely\\:\\ 0\\.07303908987683808\ \(0\)\
+\-\ clear\\:\\ 0\\.07180742302606012\ \(0\)\
+\-\ enhancement\\:\\ 0\\.06940875048857685\ \(0\)\
+\-\ osteosarcoma\\:\\ 0\\.06736470562877996\ \(0\)\
+\-\ 2\\.3x2\\.8x2\\.4\\:\\ 0\\.06678423048459468\ \(0\)\
+\-\ metaphysic\\:\\ 0\\.061533115480352674\ \(0\)\
+\-\ cell\\:\\ 0\\.05246001617230651\ \(0\)\
+\-\ extension\\:\\ 0\\.04621708062396445\ \(0\)\
+\-\ centimeter\\:\\ 0\\.04577977046762664\ \(0\)\
+\-\ chondroblastoma\\:\\ 0\\.04577977046762664\ \(0\)\
+\-\ chondroid\\:\\ 0\\.04408928901827657\ \(0\)\
+\-\ less\\:\\ 0\\.043847575823070944\ \(0\)\
+\-\ non\\-aggressive\\:\\ 0\\.04270806510317085\ \(0\)\
+\-\ orthopedics\\:\\ 0\\.03922675957757661\ \(0\)\
+\-\ cr\\:\\ 0\\.03883817401403456\ \(0\)\
+\-\ beyond\\:\\ 0\\.037616445623154846\ \(0\)\
+\-\ matrix\\:\\ 0\\.03615505421312082\ \(0\)\
+\-\ epiphysis\\:\\ 0\\.035518060900919746\ \(0\)\
+\-\ humeral\\:\\ 0\\.03428074986983415\ \(0\)\
+\-\ workup\\:\\ 0\\.033308165274014395\ \(0\)\
+\-\ characteristics\\:\\ 0\\.03220583509468684\ \(0\)\
+\-\ undergoing\\:\\ 0\\.031746557656683536\ \(0\)\
+\-\ 23\\:\\ 0\\.03077218358227374\ \(0\)\
+\-\ periosteal\\:\\ 0\\.030707155220975318\ \(0\)\
+\-\ gadolinium\\:\\ 0\\.030707155220975318\ \(0\)\
+\-\ without\\:\\ 0\\.03048504797512364\ \(0\)\
+\-\ margin\\:\\ 0\\.030452483927043614\ \(0\)\
+\-\ reaction\\:\\ 0\\.029401852203301566\ \(0\)\
+\-\ lytic\\:\\ 0\\.028977923008998197\ \(0\)\
+\-\ sclerotic\\:\\ 0\\.028977923008998197\ \(0\)\
+\-\ circumscribed\\:\\ 0\\.028774534751148287\ \(0\)\
+\-\ marrow\\:\\ 0\\.028479338019834776\ \(0\)\
+\-\ mixed\\:\\ 0\\.028431237810147968\ \(0\)\
+\-\ weighted\\:\\ 0\\.028148878758653784\ \(0\)\
+\-\ sequences\\:\\ 0\\.027034048119742516\ \(0\)\
+\-\ lesion\\:\\ 0\\.026372048878794768\ \(0\)\
+\-\ shoulder\\:\\ 0\\.026097578756354815\ \(0\)\
+\-\ moderate\\:\\ 0\\.025456040216733308\ \(0\)\
+\-\ malignancy\\:\\ 0\\.025015830892435725\ \(0\)\
+\-\ pattern\\:\\ 0\\.024745775295994532\ \(0\)\
+\-\ heterogeneous\\:\\ 0\\.023804508763598527\ \(0\)\
+\-\ cortical\\:\\ 0\\.023599051898301606\ \(0\)\
+\-\ n\\/a\\:\\ 0\\.023448535207265808\ \(0\)\
+\-\ white\\:\\ 0\\.021470486459939528\ \(0\)\
+\-\ plain\\:\\ 0\\.02102472509612943\ \(0\)\
+\-\ mr\\:\\ 0\\.02056969296929117\ \(0\)\
+\-\ t1\\:\\ 0\\.020518905577456392\ \(0\)\
+\-\ radiographs\\:\\ 0\\.020502051827288887\ \(0\)\
+\-\ post\\:\\ 0\\.020385113886911315\ \(0\)\
+\-\ such\\:\\ 0\\.020237369620006457\ \(0\)\
+\-\ t2\\:\\ 0\\.018322642187502666\ \(0\)\
+\-\ edema\\:\\ 0\\.018310026435085537\ \(0\)\
+\-\ \\:\\:\\ 0\\.017125375999858562\ \(0\)\
+\-\ signal\\:\\ 0\\.01706874492630893\ \(0\)\
+\-\ soft\\:\\ 0\\.015764596696920832\ \(0\)\
+\-\ into\\:\\ 0\\.015403987636058386\ \(0\)\
+\-\ tissue\\:\\ 0\\.01534409991251965\ \(0\)\
+\-\ associated\\:\\ 0\\.015276231529603803\ \(0\)\
+\-\ most\\:\\ 0\\.014945720770667243\ \(0\)\
+\-\ demonstrate\\:\\ 0\\.01489736470706849\ \(0\)\
+\-\ well\\:\\ 0\\.014644552674004932\ \(0\)\
+\-\ this\\:\\ 0\\.014562685050214137\ \(0\)\
+\-\ right\\:\\ 0\\.01366108650167298\ \(0\)\
+\-\ also\\:\\ 0\\.012762269649016299\ \(0\)\
+\-\ images\\:\\ 0\\.012418665848101168\ \(0\)\
+\-\ male\\:\\ 0\\.011706102559753585\ \(0\)\
+\-\ on\\:\\ 0\\.010968045641900426\ \(0\)\
+\-\ by\\:\\ 0\\.010779325024582384\ \(0\)\
+\-\ as\\:\\ 0\\.009792253832531272\ \(0\)\
+\-\ a\\:\\ 0\\.009013631859513666\ \(0\)\
+\-\ mass\\:\\ 0\\.009003492476875489\ \(0\)\
+\-\ an\\:\\ 0\\.00895200654761159\ \(0\)\
+\-\ is\\:\\ 0\\.008519557248253418\ \(0\)\
+\-\ pain\\:\\ 0\\.007906122481293444\ \(0\)\
+\-\ or\\:\\ 0\\.00758729355275536\ \(0\)\
+\-\ year\\:\\ 0\\.007243221736916021\ \(0\)\
+\-\ old\\:\\ 0\\.006628292400471626\ \(0\)\
+\-\ no\\:\\ 0\\.006518516293210621\ \(0\)\
+\-\ \\,\\:\\ 0\\.0041016676593528395\ \(0\)\
+\-\ in\\:\\ 0\\.003192403258638295\ \(0\)\
+\-\ the\\:\\ 0\\.0031420291978096772\ \(0\)\
+\-\ and\\:\\ 0\\.0027274091777608855\ \(0\)\
+\-\ \\.\\:\\ 0\\.0026893587952535056\ \(0\)\
+\-\ with\\:\\ 0\\.0017727905468165111\ \(0\)\

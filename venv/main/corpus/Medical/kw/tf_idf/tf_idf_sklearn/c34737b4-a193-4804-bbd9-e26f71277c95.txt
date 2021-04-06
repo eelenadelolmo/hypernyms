@@ -1,77 +1,75 @@
-Texto: 
-observation; excision if pain or impingement of nerves or other structures occurs.
-large bony exostosis arising along medial distal 4th metatarsal shaft with direct continuity of the medullary cavity. mass effect with medial bowing of the 3rd mt in the aspect which is subjacent to the mass, but without evidence of invasion of surrounding tissues.
-osteochondroma
-chondrosarcoma
-osteosarcoma
-right foot with slowly enlarging mass without significant pain associated.
-more common in tibia, femur or humerus, but can occur in any bone undergoing enchondral ossification with maturity.
-
-
-Keywords by value: 
-- enchondral: 0.21007248503803044
-- mt: 0.18986289927775632
-- medial: 0.18507234708360945
-- subjacent: 0.18069865144050706
-- maturity: 0.17552396998730624
-- exostosis: 0.1664798259278951
-- mass: 0.16290537533154048
-- bowing: 0.1607029853256061
-- continuity: 0.15396694874709693
-- osteochondroma: 0.15031337236630948
-- without: 0.14996939949370283
-- shaft: 0.14920556840253296
-- or: 0.14836607326896736
-- impingement: 0.14386215586695988
-- metatarsal: 0.14136792738904036
-- but: 0.14059789284969718
-- slowly: 0.1402085794861724
-- of: 0.13910160954774262
-- osteosarcoma: 0.13449692721732986
-- humerus: 0.13419846274381533
-- observation: 0.1333239349201069
-- nerves: 0.13275751313664436
-- enlarging: 0.13275751313664436
-- ossification: 0.13220367955179113
-- 4th: 0.13087066205644496
-- chondrosarcoma: 0.1303567987859607
-- 3rd: 0.12985331730511498
-- undergoing: 0.12911666803872224
-- invasion: 0.12680747232293776
-- medullary: 0.12572845159893467
-- direct: 0.12530959324071142
-- tibia: 0.12146792928285678
-- cavity: 0.11737325314507681
-- femur: 0.11662927295182816
-- the: 0.1134652598140919
-- arising: 0.1129557140878104
-- foot: 0.11233108275201495
-- excision: 0.11208554888742459
-- occurs: 0.11208554888742459
-- tissues: 0.11208554888742459
-- with: 0.11134777818104104
-- bony: 0.10953321479757565
-- structures: 0.10681941233831616
-- in: 0.10609529494974941
-- occur: 0.10455226047167165
-- pain: 0.10174103390133224
-- effect: 0.099724229374514
-- along: 0.09524257629030976
-- surrounding: 0.09481129136206248
-- any: 0.09187596312715045
-- aspect: 0.09171360759745648
-- if: 0.08259920274815533
-- distal: 0.08259920274815533
-- significant: 0.08208075790110392
-- evidence: 0.08069092254359383
-- common: 0.08062169615000629
-- more: 0.07806171607226307
-- bone: 0.07756759360223033
-- associated: 0.07492962461799035
-- can: 0.07460170560178833
-- other: 0.07382660496708451
-- large: 0.07122982908309797
-- which: 0.06464212208027692
-- right: 0.04713232713195512
-- is: 0.038931816488576625
-- to: 0.03554002625219049
+\-\ Texto\\:\\ \ \(0\)\
+\-\ observation\\;\\ excision\\ if\\ pain\\ or\\ impingement\\ of\\ nerves\\ or\\ other\\ structures\\ occurs\\.\ \(1\)\
+\-\ large\\ bony\\ exostosis\\ arising\\ along\\ medial\\ distal\\ 4th\\ metatarsal\\ shaft\\ with\\ direct\\ continuity\\ of\\ the\\ medullary\\ cavity\\.\\ mass\\ effect\\ with\\ medial\\ bowing\\ of\\ the\\ 3rd\\ mt\\ in\\ the\\ aspect\\ which\\ is\\ subjacent\\ to\\ the\\ mass\\,\\ but\\ without\\ evidence\\ of\\ invasion\\ of\\ surrounding\\ tissues\\.\ \(0\)\
+\-\ osteochondroma\ \(97\)\
+\-\ chondrosarcoma\ \(79\)\
+\-\ osteosarcoma\ \(92\)\
+\-\ right\\ foot\\ with\\ slowly\\ enlarging\\ mass\\ without\\ significant\\ pain\\ associated\\.\ \(0\)\
+\-\ more\\ common\\ in\\ tibia\\,\\ femur\\ or\\ humerus\\,\\ but\\ can\\ occur\\ in\\ any\\ bone\\ undergoing\\ enchondral\\ ossification\\ with\\ maturity\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ enchondral\\:\\ 0\\.21007248503803044\ \(0\)\
+\-\ mt\\:\\ 0\\.18986289927775632\ \(0\)\
+\-\ medial\\:\\ 0\\.18507234708360945\ \(0\)\
+\-\ subjacent\\:\\ 0\\.18069865144050706\ \(0\)\
+\-\ maturity\\:\\ 0\\.17552396998730624\ \(0\)\
+\-\ exostosis\\:\\ 0\\.1664798259278951\ \(0\)\
+\-\ mass\\:\\ 0\\.16290537533154048\ \(0\)\
+\-\ bowing\\:\\ 0\\.1607029853256061\ \(0\)\
+\-\ continuity\\:\\ 0\\.15396694874709693\ \(0\)\
+\-\ osteochondroma\\:\\ 0\\.15031337236630948\ \(0\)\
+\-\ without\\:\\ 0\\.14996939949370283\ \(0\)\
+\-\ shaft\\:\\ 0\\.14920556840253296\ \(0\)\
+\-\ or\\:\\ 0\\.14836607326896736\ \(0\)\
+\-\ impingement\\:\\ 0\\.14386215586695988\ \(0\)\
+\-\ metatarsal\\:\\ 0\\.14136792738904036\ \(0\)\
+\-\ but\\:\\ 0\\.14059789284969718\ \(0\)\
+\-\ slowly\\:\\ 0\\.1402085794861724\ \(0\)\
+\-\ of\\:\\ 0\\.13910160954774262\ \(0\)\
+\-\ osteosarcoma\\:\\ 0\\.13449692721732986\ \(0\)\
+\-\ humerus\\:\\ 0\\.13419846274381533\ \(0\)\
+\-\ observation\\:\\ 0\\.1333239349201069\ \(0\)\
+\-\ nerves\\:\\ 0\\.13275751313664436\ \(0\)\
+\-\ enlarging\\:\\ 0\\.13275751313664436\ \(0\)\
+\-\ ossification\\:\\ 0\\.13220367955179113\ \(0\)\
+\-\ 4th\\:\\ 0\\.13087066205644496\ \(0\)\
+\-\ chondrosarcoma\\:\\ 0\\.1303567987859607\ \(0\)\
+\-\ 3rd\\:\\ 0\\.12985331730511498\ \(0\)\
+\-\ undergoing\\:\\ 0\\.12911666803872224\ \(0\)\
+\-\ invasion\\:\\ 0\\.12680747232293776\ \(0\)\
+\-\ medullary\\:\\ 0\\.12572845159893467\ \(0\)\
+\-\ direct\\:\\ 0\\.12530959324071142\ \(0\)\
+\-\ tibia\\:\\ 0\\.12146792928285678\ \(0\)\
+\-\ cavity\\:\\ 0\\.11737325314507681\ \(0\)\
+\-\ femur\\:\\ 0\\.11662927295182816\ \(0\)\
+\-\ the\\:\\ 0\\.1134652598140919\ \(0\)\
+\-\ arising\\:\\ 0\\.1129557140878104\ \(0\)\
+\-\ foot\\:\\ 0\\.11233108275201495\ \(0\)\
+\-\ excision\\:\\ 0\\.11208554888742459\ \(0\)\
+\-\ occurs\\:\\ 0\\.11208554888742459\ \(0\)\
+\-\ tissues\\:\\ 0\\.11208554888742459\ \(0\)\
+\-\ with\\:\\ 0\\.11134777818104104\ \(0\)\
+\-\ bony\\:\\ 0\\.10953321479757565\ \(0\)\
+\-\ structures\\:\\ 0\\.10681941233831616\ \(0\)\
+\-\ in\\:\\ 0\\.10609529494974941\ \(0\)\
+\-\ occur\\:\\ 0\\.10455226047167165\ \(0\)\
+\-\ pain\\:\\ 0\\.10174103390133224\ \(0\)\
+\-\ effect\\:\\ 0\\.099724229374514\ \(0\)\
+\-\ along\\:\\ 0\\.09524257629030976\ \(0\)\
+\-\ surrounding\\:\\ 0\\.09481129136206248\ \(0\)\
+\-\ any\\:\\ 0\\.09187596312715045\ \(0\)\
+\-\ aspect\\:\\ 0\\.09171360759745648\ \(0\)\
+\-\ if\\:\\ 0\\.08259920274815533\ \(0\)\
+\-\ distal\\:\\ 0\\.08259920274815533\ \(0\)\
+\-\ significant\\:\\ 0\\.08208075790110392\ \(0\)\
+\-\ evidence\\:\\ 0\\.08069092254359383\ \(0\)\
+\-\ common\\:\\ 0\\.08062169615000629\ \(0\)\
+\-\ more\\:\\ 0\\.07806171607226307\ \(0\)\
+\-\ bone\\:\\ 0\\.07756759360223033\ \(0\)\
+\-\ associated\\:\\ 0\\.07492962461799035\ \(0\)\
+\-\ can\\:\\ 0\\.07460170560178833\ \(0\)\
+\-\ other\\:\\ 0\\.07382660496708451\ \(0\)\
+\-\ large\\:\\ 0\\.07122982908309797\ \(0\)\
+\-\ which\\:\\ 0\\.06464212208027692\ \(0\)\
+\-\ right\\:\\ 0\\.04713232713195512\ \(0\)\
+\-\ is\\:\\ 0\\.038931816488576625\ \(0\)\
+\-\ to\\:\\ 0\\.03554002625219049\ \(0\)\

@@ -1,59 +1,56 @@
-Texto: 
-non-contributory
-patient will undergo serial ct exams to evaluate the total volume of remaining non-diseased liver, then surgical resection of the diseased portions.
-ct images demonstrating patients hcc in the right lobe of the liver.
-
-intraoperative venograms demonstrating embolization with no distal flow.
-portal vein embolization
-hcc
-hemangiomas
-patient with known hcc, is candidate for surgical resection but will need to increase the size of predicted remaining liver segments.
-
-
-Keywords by value: 
-- hcc: 0.4318504272601728
-- diseased: 0.3678786751513459
-- liver: 0.2576084689482731
-- remaining: 0.23659535544382537
-- embolization: 0.21696767909890152
-- demonstrating: 0.20528019372064849
-- venograms: 0.19906466674837003
-- predicted: 0.1688140084029759
-- will: 0.16023252527022108
-- resection: 0.15958182669133636
-- intraoperative: 0.1439501424200576
-- hemangiomas: 0.13599317847609577
-- candidate: 0.13599317847609577
-- exams: 0.1263518411022633
-- segments: 0.1263518411022633
-- the: 0.1241876388778221
-- surgical: 0.12099906284748452
-- portal: 0.11912121837797505
-- portions: 0.11829767772191269
-- undergo: 0.11624239614306135
-- serial: 0.11459027050779316
-- need: 0.11459027050779316
-- volume: 0.10936031228092635
-- total: 0.1019925348788991
-- increase: 0.09992435277505528
-- of: 0.09743782641992234
-- evaluate: 0.09679397863959172
-- ct: 0.09477857527477532
-- vein: 0.08922309172879943
-- then: 0.08811447302339731
-- size: 0.0842828598875244
-- flow: 0.08291000236817371
-- patient: 0.08097176862809771
-- known: 0.0805896269105965
-- distal: 0.07232381068384033
-- lobe: 0.07193413537534815
-- patients: 0.07002471386021572
-- to: 0.06223764987657934
-- but: 0.061553713877919115
-- images: 0.05757856568295014
-- with: 0.04874802274899504
-- right: 0.04126903639704296
-- no: 0.04047826915522467
-- for: 0.037727804482106525
-- is: 0.03408867436508897
-- in: 0.03096565814639271
+\-\ Texto\\:\\ \ \(0\)\
+\-\ non\\-contributory\ \(73\)\
+\-\ patient\\ will\\ undergo\\ serial\\ ct\\ exams\\ to\\ evaluate\\ the\\ total\\ volume\\ of\\ remaining\\ non\\-diseased\\ liver\\,\\ then\\ surgical\\ resection\\ of\\ the\\ diseased\\ portions\\.\ \(0\)\
+\-\ ct\\ images\\ demonstrating\\ patients\\ hcc\\ in\\ the\\ right\\ lobe\\ of\\ the\\ liver\\.\ \(0\)\
+\-\ intraoperative\\ venograms\\ demonstrating\\ embolization\\ with\\ no\\ distal\\ flow\\.\ \(0\)\
+\-\ portal\\ vein\\ embolization\ \(1\)\
+\-\ hcc\ \(0\)\
+\-\ hemangiomas\ \(39\)\
+\-\ patient\\ with\\ known\\ hcc\\,\\ is\\ candidate\\ for\\ surgical\\ resection\\ but\\ will\\ need\\ to\\ increase\\ the\\ size\\ of\\ predicted\\ remaining\\ liver\\ segments\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ hcc\\:\\ 0\\.4318504272601728\ \(0\)\
+\-\ diseased\\:\\ 0\\.3678786751513459\ \(0\)\
+\-\ liver\\:\\ 0\\.2576084689482731\ \(0\)\
+\-\ remaining\\:\\ 0\\.23659535544382537\ \(0\)\
+\-\ embolization\\:\\ 0\\.21696767909890152\ \(0\)\
+\-\ demonstrating\\:\\ 0\\.20528019372064849\ \(0\)\
+\-\ venograms\\:\\ 0\\.19906466674837003\ \(0\)\
+\-\ predicted\\:\\ 0\\.1688140084029759\ \(0\)\
+\-\ will\\:\\ 0\\.16023252527022108\ \(0\)\
+\-\ resection\\:\\ 0\\.15958182669133636\ \(0\)\
+\-\ intraoperative\\:\\ 0\\.1439501424200576\ \(0\)\
+\-\ hemangiomas\\:\\ 0\\.13599317847609577\ \(0\)\
+\-\ candidate\\:\\ 0\\.13599317847609577\ \(0\)\
+\-\ exams\\:\\ 0\\.1263518411022633\ \(0\)\
+\-\ segments\\:\\ 0\\.1263518411022633\ \(0\)\
+\-\ the\\:\\ 0\\.1241876388778221\ \(0\)\
+\-\ surgical\\:\\ 0\\.12099906284748452\ \(0\)\
+\-\ portal\\:\\ 0\\.11912121837797505\ \(0\)\
+\-\ portions\\:\\ 0\\.11829767772191269\ \(0\)\
+\-\ undergo\\:\\ 0\\.11624239614306135\ \(0\)\
+\-\ serial\\:\\ 0\\.11459027050779316\ \(0\)\
+\-\ need\\:\\ 0\\.11459027050779316\ \(0\)\
+\-\ volume\\:\\ 0\\.10936031228092635\ \(0\)\
+\-\ total\\:\\ 0\\.1019925348788991\ \(0\)\
+\-\ increase\\:\\ 0\\.09992435277505528\ \(0\)\
+\-\ of\\:\\ 0\\.09743782641992234\ \(0\)\
+\-\ evaluate\\:\\ 0\\.09679397863959172\ \(0\)\
+\-\ ct\\:\\ 0\\.09477857527477532\ \(0\)\
+\-\ vein\\:\\ 0\\.08922309172879943\ \(0\)\
+\-\ then\\:\\ 0\\.08811447302339731\ \(0\)\
+\-\ size\\:\\ 0\\.0842828598875244\ \(0\)\
+\-\ flow\\:\\ 0\\.08291000236817371\ \(0\)\
+\-\ patient\\:\\ 0\\.08097176862809771\ \(0\)\
+\-\ known\\:\\ 0\\.0805896269105965\ \(0\)\
+\-\ distal\\:\\ 0\\.07232381068384033\ \(0\)\
+\-\ lobe\\:\\ 0\\.07193413537534815\ \(0\)\
+\-\ patients\\:\\ 0\\.07002471386021572\ \(0\)\
+\-\ to\\:\\ 0\\.06223764987657934\ \(0\)\
+\-\ but\\:\\ 0\\.061553713877919115\ \(0\)\
+\-\ images\\:\\ 0\\.05757856568295014\ \(0\)\
+\-\ with\\:\\ 0\\.04874802274899504\ \(0\)\
+\-\ right\\:\\ 0\\.04126903639704296\ \(0\)\
+\-\ no\\:\\ 0\\.04047826915522467\ \(0\)\
+\-\ for\\:\\ 0\\.037727804482106525\ \(0\)\
+\-\ is\\:\\ 0\\.03408867436508897\ \(0\)\
+\-\ in\\:\\ 0\\.03096565814639271\ \(0\)\

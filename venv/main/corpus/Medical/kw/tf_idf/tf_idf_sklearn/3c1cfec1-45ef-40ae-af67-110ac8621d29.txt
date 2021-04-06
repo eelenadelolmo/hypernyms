@@ -1,35 +1,33 @@
-Texto: 
-mesenteric carcinoid tumor with areas of calcification.
-mesenteric carcinoid tumor
-desmoid tumor
-primary mesenteric tumors
-sclerosing mesenteritis
-lipomas 
-schwannomas 
-smooth muscle tumors
-right upper quadrant pain, hx of urolithiasis.
-
-
-Keywords by value: 
-- mesenteric: 0.47215683368267575
-- carcinoid: 0.38402835244096334
-- tumor: 0.2860283725662904
-- mesenteritis: 0.27854831724022344
-- tumors: 0.26811448028806184
-- urolithiasis: 0.24720649910780498
-- lipomas: 0.22312016739320295
-- schwannomas: 0.22312016739320295
-- desmoid: 0.22129370411653335
-- sclerosing: 0.19201417622048167
-- hx: 0.16586555426951285
-- smooth: 0.15049635763369276
-- calcification: 0.13013955552172682
-- muscle: 0.1294305538338591
-- quadrant: 0.1276765179797137
-- areas: 0.1237551866346663
-- primary: 0.1120822712242039
-- upper: 0.0974073792260712
-- of: 0.07134261006481252
-- pain: 0.06522633825745162
-- right: 0.0604332194098042
-- with: 0.03569261862866312
+\-\ Texto\\:\\ \ \(0\)\
+\-\ mesenteric\\ carcinoid\\ tumor\\ with\\ areas\\ of\\ calcification\\.\ \(0\)\
+\-\ mesenteric\\ carcinoid\\ tumor\ \(0\)\
+\-\ desmoid\\ tumor\ \(1\)\
+\-\ primary\\ mesenteric\\ tumors\ \(0\)\
+\-\ sclerosing\\ mesenteritis\ \(0\)\
+\-\ lipomas\\ \ \(31\)\
+\-\ schwannomas\\ \ \(11\)\
+\-\ smooth\\ muscle\\ tumors\ \(0\)\
+\-\ right\\ upper\\ quadrant\\ pain\\,\\ hx\\ of\\ urolithiasis\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ mesenteric\\:\\ 0\\.47215683368267575\ \(0\)\
+\-\ carcinoid\\:\\ 0\\.38402835244096334\ \(0\)\
+\-\ tumor\\:\\ 0\\.2860283725662904\ \(0\)\
+\-\ mesenteritis\\:\\ 0\\.27854831724022344\ \(0\)\
+\-\ tumors\\:\\ 0\\.26811448028806184\ \(0\)\
+\-\ urolithiasis\\:\\ 0\\.24720649910780498\ \(0\)\
+\-\ lipomas\\:\\ 0\\.22312016739320295\ \(0\)\
+\-\ schwannomas\\:\\ 0\\.22312016739320295\ \(0\)\
+\-\ desmoid\\:\\ 0\\.22129370411653335\ \(0\)\
+\-\ sclerosing\\:\\ 0\\.19201417622048167\ \(0\)\
+\-\ hx\\:\\ 0\\.16586555426951285\ \(0\)\
+\-\ smooth\\:\\ 0\\.15049635763369276\ \(0\)\
+\-\ calcification\\:\\ 0\\.13013955552172682\ \(0\)\
+\-\ muscle\\:\\ 0\\.1294305538338591\ \(0\)\
+\-\ quadrant\\:\\ 0\\.1276765179797137\ \(0\)\
+\-\ areas\\:\\ 0\\.1237551866346663\ \(0\)\
+\-\ primary\\:\\ 0\\.1120822712242039\ \(0\)\
+\-\ upper\\:\\ 0\\.0974073792260712\ \(0\)\
+\-\ of\\:\\ 0\\.07134261006481252\ \(0\)\
+\-\ pain\\:\\ 0\\.06522633825745162\ \(0\)\
+\-\ right\\:\\ 0\\.0604332194098042\ \(0\)\
+\-\ with\\:\\ 0\\.03569261862866312\ \(0\)\

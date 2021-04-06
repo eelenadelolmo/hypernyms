@@ -1,76 +1,74 @@
-Texto: 
-surgical resection
-broad-based or sessile lesion in the proximal sigmoid colon that has an irregular surface.  the overall appearance is that of a mucosal or potentially submucosal lesion.
-tubulovillous adenoma
-given the frond-ish appearance of the surface, the diagnosis of exclusion is adenocarcinoma of the colon.  in the differential would remain an adenoma or hyperplastic polyp.  potentially any of the submucosal lesions that arise from the wall could undergo ulceration or develop an irregular surface appearance -lipoma or leiomyoma.
-26 y/o male with strong family history of colon cancer diagnosed in family members in their mid 30s presents for screening barium enema.
-
-
-Keywords by value: 
-- surface: 0.10381908184533721
-- submucosal: 0.09934534022576776
-- colon: 0.09236512595841302
-- potentially: 0.09190561347148953
-- frond-ish: 0.08087631581620641
-- -lipoma: 0.07451716737070233
-- 30s: 0.0707973039935632
-- tubulovillous: 0.06815801892519824
-- appearance: 0.06726348376333877
-- adenoma: 0.06547696058359656
-- family: 0.06426261366834332
-- irregular: 0.06253847068819045
-- sessile: 0.055439722034190064
-- members: 0.055439722034190064
-- hyperplastic: 0.05435914372541591
-- broad-based: 0.053392533490023
-- exclusion: 0.05251812817071727
-- ulceration: 0.04825844369245032
-- leiomyoma: 0.046158979725213184
-- or: 0.045941410502922365
-- strong: 0.04555386075464624
-- polyp: 0.04462637344389973
-- remain: 0.043946483791113294
-- enema: 0.04378410234983439
-- that: 0.04062332280437129
-- mucosal: 0.04044769886882794
-- sigmoid: 0.03990468170010931
-- undergo: 0.0397998312797091
-- develop: 0.03909762873730237
-- overall: 0.039001561766042775
-- arise: 0.038812393993540605
-- barium: 0.03800632650921644
-- 26: 0.036290880913805744
-- their: 0.034315088153510746
-- adenocarcinoma: 0.033867471968470085
-- screening: 0.03344068283420502
-- mid: 0.03278689365969593
-- an: 0.03252288617297422
-- lesion: 0.03193679313762302
-- could: 0.028922549943399562
-- diagnosed: 0.028827478502706474
-- would: 0.02789877870112009
-- given: 0.0268753613992325
-- cancer: 0.025772158388667574
-- differential: 0.024889539718834217
-- any: 0.024686559936443062
-- resection: 0.02444876748183687
-- proximal: 0.023537093410156102
-- wall: 0.022707881837052718
-- y/o: 0.021712192934125144
-- lesions: 0.02098679363618301
-- diagnosis: 0.01800201220899468
-- surgical: 0.016479098809646365
-- presents: 0.016015085279889228
-- in: 0.015464118537257062
-- has: 0.014722018077929156
-- male: 0.01417619759529792
-- from: 0.01161867626746984
-- the: 0.011415078553510387
-- history: 0.010827656309239297
-- is: 0.010317261988710563
-- for: 0.0066890655838781204
-- of: 0.0064130532549351435
-- a: 0.003638530291913773
-- ,: 0.0024835785827274073
-- .: 0.0019541029044410794
-- with: 0.0010734328081641261
+\-\ Texto\\:\\ \ \(0\)\
+\-\ surgical\\ resection\ \(126\)\
+\-\ broad\\-based\\ or\\ sessile\\ lesion\\ in\\ the\\ proximal\\ sigmoid\\ colon\\ that\\ has\\ an\\ irregular\\ surface\\.\\ \\ the\\ overall\\ appearance\\ is\\ that\\ of\\ a\\ mucosal\\ or\\ potentially\\ submucosal\\ lesion\\.\ \(0\)\
+\-\ tubulovillous\\ adenoma\ \(1\)\
+\-\ given\\ the\\ frond\\-ish\\ appearance\\ of\\ the\\ surface\\,\\ the\\ diagnosis\\ of\\ exclusion\\ is\\ adenocarcinoma\\ of\\ the\\ colon\\.\\ \\ in\\ the\\ differential\\ would\\ remain\\ an\\ adenoma\\ or\\ hyperplastic\\ polyp\\.\\ \\ potentially\\ any\\ of\\ the\\ submucosal\\ lesions\\ that\\ arise\\ from\\ the\\ wall\\ could\\ undergo\\ ulceration\\ or\\ develop\\ an\\ irregular\\ surface\\ appearance\\ \\-lipoma\\ or\\ leiomyoma\\.\ \(0\)\
+\-\ 26\\ y\\/o\\ male\\ with\\ strong\\ family\\ history\\ of\\ colon\\ cancer\\ diagnosed\\ in\\ family\\ members\\ in\\ their\\ mid\\ 30s\\ presents\\ for\\ screening\\ barium\\ enema\\.\ \(1\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ surface\\:\\ 0\\.10381908184533721\ \(0\)\
+\-\ submucosal\\:\\ 0\\.09934534022576776\ \(0\)\
+\-\ colon\\:\\ 0\\.09236512595841302\ \(0\)\
+\-\ potentially\\:\\ 0\\.09190561347148953\ \(0\)\
+\-\ frond\\-ish\\:\\ 0\\.08087631581620641\ \(0\)\
+\-\ \\-lipoma\\:\\ 0\\.07451716737070233\ \(0\)\
+\-\ 30s\\:\\ 0\\.0707973039935632\ \(0\)\
+\-\ tubulovillous\\:\\ 0\\.06815801892519824\ \(0\)\
+\-\ appearance\\:\\ 0\\.06726348376333877\ \(0\)\
+\-\ adenoma\\:\\ 0\\.06547696058359656\ \(0\)\
+\-\ family\\:\\ 0\\.06426261366834332\ \(0\)\
+\-\ irregular\\:\\ 0\\.06253847068819045\ \(0\)\
+\-\ sessile\\:\\ 0\\.055439722034190064\ \(0\)\
+\-\ members\\:\\ 0\\.055439722034190064\ \(0\)\
+\-\ hyperplastic\\:\\ 0\\.05435914372541591\ \(0\)\
+\-\ broad\\-based\\:\\ 0\\.053392533490023\ \(0\)\
+\-\ exclusion\\:\\ 0\\.05251812817071727\ \(0\)\
+\-\ ulceration\\:\\ 0\\.04825844369245032\ \(0\)\
+\-\ leiomyoma\\:\\ 0\\.046158979725213184\ \(0\)\
+\-\ or\\:\\ 0\\.045941410502922365\ \(0\)\
+\-\ strong\\:\\ 0\\.04555386075464624\ \(0\)\
+\-\ polyp\\:\\ 0\\.04462637344389973\ \(0\)\
+\-\ remain\\:\\ 0\\.043946483791113294\ \(0\)\
+\-\ enema\\:\\ 0\\.04378410234983439\ \(0\)\
+\-\ that\\:\\ 0\\.04062332280437129\ \(0\)\
+\-\ mucosal\\:\\ 0\\.04044769886882794\ \(0\)\
+\-\ sigmoid\\:\\ 0\\.03990468170010931\ \(0\)\
+\-\ undergo\\:\\ 0\\.0397998312797091\ \(0\)\
+\-\ develop\\:\\ 0\\.03909762873730237\ \(0\)\
+\-\ overall\\:\\ 0\\.039001561766042775\ \(0\)\
+\-\ arise\\:\\ 0\\.038812393993540605\ \(0\)\
+\-\ barium\\:\\ 0\\.03800632650921644\ \(0\)\
+\-\ 26\\:\\ 0\\.036290880913805744\ \(0\)\
+\-\ their\\:\\ 0\\.034315088153510746\ \(0\)\
+\-\ adenocarcinoma\\:\\ 0\\.033867471968470085\ \(0\)\
+\-\ screening\\:\\ 0\\.03344068283420502\ \(0\)\
+\-\ mid\\:\\ 0\\.03278689365969593\ \(0\)\
+\-\ an\\:\\ 0\\.03252288617297422\ \(0\)\
+\-\ lesion\\:\\ 0\\.03193679313762302\ \(0\)\
+\-\ could\\:\\ 0\\.028922549943399562\ \(0\)\
+\-\ diagnosed\\:\\ 0\\.028827478502706474\ \(0\)\
+\-\ would\\:\\ 0\\.02789877870112009\ \(0\)\
+\-\ given\\:\\ 0\\.0268753613992325\ \(0\)\
+\-\ cancer\\:\\ 0\\.025772158388667574\ \(0\)\
+\-\ differential\\:\\ 0\\.024889539718834217\ \(0\)\
+\-\ any\\:\\ 0\\.024686559936443062\ \(0\)\
+\-\ resection\\:\\ 0\\.02444876748183687\ \(0\)\
+\-\ proximal\\:\\ 0\\.023537093410156102\ \(0\)\
+\-\ wall\\:\\ 0\\.022707881837052718\ \(0\)\
+\-\ y\\/o\\:\\ 0\\.021712192934125144\ \(0\)\
+\-\ lesions\\:\\ 0\\.02098679363618301\ \(0\)\
+\-\ diagnosis\\:\\ 0\\.01800201220899468\ \(0\)\
+\-\ surgical\\:\\ 0\\.016479098809646365\ \(0\)\
+\-\ presents\\:\\ 0\\.016015085279889228\ \(0\)\
+\-\ in\\:\\ 0\\.015464118537257062\ \(0\)\
+\-\ has\\:\\ 0\\.014722018077929156\ \(0\)\
+\-\ male\\:\\ 0\\.01417619759529792\ \(0\)\
+\-\ from\\:\\ 0\\.01161867626746984\ \(0\)\
+\-\ the\\:\\ 0\\.011415078553510387\ \(0\)\
+\-\ history\\:\\ 0\\.010827656309239297\ \(0\)\
+\-\ is\\:\\ 0\\.010317261988710563\ \(0\)\
+\-\ for\\:\\ 0\\.0066890655838781204\ \(0\)\
+\-\ of\\:\\ 0\\.0064130532549351435\ \(0\)\
+\-\ a\\:\\ 0\\.003638530291913773\ \(0\)\
+\-\ \\,\\:\\ 0\\.0024835785827274073\ \(0\)\
+\-\ \\.\\:\\ 0\\.0019541029044410794\ \(0\)\
+\-\ with\\:\\ 0\\.0010734328081641261\ \(0\)\

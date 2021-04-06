@@ -1,72 +1,70 @@
-Texto: 
-unremarkable testicular exam
-no treatment required. follow up is controversial. no conclusive evidence for association with increased carcinogenesis.
-small nonshadowing hyperechoic foci ranging in diameter from 1 to 3 mm. 
-these occur within the testicular parenchyma but may be distributed peripherally or segmentally. 
-testicular microlithiasis usually occurs bilaterally. more than five foci in one imaging plane are required for diagnosis.
-testicular microlithiasis
-left testicular pain without history of trauma. the pain is not relieved by nsaids.
-
-
-Keywords by value: 
-- testicular: 0.5823994403553115
-- microlithiasis: 0.30669680414340317
-- foci: 0.2030270802117641
-- carcinogenesis: 0.18979576321842226
-- segmentally: 0.18979576321842226
-- required: 0.17734758917140295
-- conclusive: 0.17134761156166006
-- nonshadowing: 0.17134761156166006
-- distributed: 0.15202842680716788
-- ranging: 0.14848991455706084
-- controversial: 0.14195576016667374
-- peripherally: 0.13182344164314128
-- relieved: 0.13035504778283613
-- plane: 0.12530804892878783
-- nsaids: 0.12152688692511059
-- hyperechoic: 0.11433655987767859
-- five: 0.1121790612160499
-- association: 0.11177207883037626
-- parenchyma: 0.10089318692659875
-- diameter: 0.09981923601633791
-- occurs: 0.09792474394499613
-- occur: 0.09134320558881312
-- pain: 0.08888714729401591
-- mm: 0.0888841626346806
-- unremarkable: 0.08326406436982517
-- bilaterally: 0.0828329032768474
-- no: 0.08077729504437081
-- usually: 0.07818892906082989
-- for: 0.07528854512876564
-- trauma: 0.0721310133036249
-- one: 0.07111071893863698
-- evidence: 0.07049649136039039
-- than: 0.07040583367067611
-- these: 0.07013610370601263
-- more: 0.06819945688057372
-- is: 0.06802639945648113
-- increased: 0.06716182128767226
-- follow: 0.0669549510978051
-- without: 0.06551118851082034
-- imaging: 0.06527165998187233
-- diagnosis: 0.06438475162008518
-- small: 0.06406689307432538
-- exam: 0.06252268386402815
-- may: 0.06250169791185904
-- in: 0.06179419615849445
-- up: 0.06143739578301437
-- but: 0.06141742978098266
-- treatment: 0.059163373643549635
-- within: 0.05720300278158541
-- by: 0.05274281156320731
-- be: 0.05038325014384252
-- the: 0.04956507160930722
-- from: 0.049327244084448524
-- not: 0.0490314735926854
-- history: 0.04745184939499055
-- are: 0.04712850901704455
-- or: 0.04320720461350574
-- left: 0.042367560379097925
-- to: 0.03104992574947956
-- with: 0.024320045660333134
-- of: 0.024305523116062974
+\-\ Texto\\:\\ \ \(0\)\
+\-\ unremarkable\\ testicular\\ exam\ \(0\)\
+\-\ no\\ treatment\\ required\\.\\ follow\\ up\\ is\\ controversial\\.\\ no\\ conclusive\\ evidence\\ for\\ association\\ with\\ increased\\ carcinogenesis\\.\ \(0\)\
+\-\ small\\ nonshadowing\\ hyperechoic\\ foci\\ ranging\\ in\\ diameter\\ from\\ 1\\ to\\ 3\\ mm\\.\\ \ \(0\)\
+\-\ these\\ occur\\ within\\ the\\ testicular\\ parenchyma\\ but\\ may\\ be\\ distributed\\ peripherally\\ or\\ segmentally\\.\\ \ \(0\)\
+\-\ testicular\\ microlithiasis\\ usually\\ occurs\\ bilaterally\\.\\ more\\ than\\ five\\ foci\\ in\\ one\\ imaging\\ plane\\ are\\ required\\ for\\ diagnosis\\.\ \(0\)\
+\-\ testicular\\ microlithiasis\ \(11\)\
+\-\ left\\ testicular\\ pain\\ without\\ history\\ of\\ trauma\\.\\ the\\ pain\\ is\\ not\\ relieved\\ by\\ nsaids\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ testicular\\:\\ 0\\.5823994403553115\ \(0\)\
+\-\ microlithiasis\\:\\ 0\\.30669680414340317\ \(0\)\
+\-\ foci\\:\\ 0\\.2030270802117641\ \(0\)\
+\-\ carcinogenesis\\:\\ 0\\.18979576321842226\ \(0\)\
+\-\ segmentally\\:\\ 0\\.18979576321842226\ \(0\)\
+\-\ required\\:\\ 0\\.17734758917140295\ \(0\)\
+\-\ conclusive\\:\\ 0\\.17134761156166006\ \(0\)\
+\-\ nonshadowing\\:\\ 0\\.17134761156166006\ \(0\)\
+\-\ distributed\\:\\ 0\\.15202842680716788\ \(0\)\
+\-\ ranging\\:\\ 0\\.14848991455706084\ \(0\)\
+\-\ controversial\\:\\ 0\\.14195576016667374\ \(0\)\
+\-\ peripherally\\:\\ 0\\.13182344164314128\ \(0\)\
+\-\ relieved\\:\\ 0\\.13035504778283613\ \(0\)\
+\-\ plane\\:\\ 0\\.12530804892878783\ \(0\)\
+\-\ nsaids\\:\\ 0\\.12152688692511059\ \(0\)\
+\-\ hyperechoic\\:\\ 0\\.11433655987767859\ \(0\)\
+\-\ five\\:\\ 0\\.1121790612160499\ \(0\)\
+\-\ association\\:\\ 0\\.11177207883037626\ \(0\)\
+\-\ parenchyma\\:\\ 0\\.10089318692659875\ \(0\)\
+\-\ diameter\\:\\ 0\\.09981923601633791\ \(0\)\
+\-\ occurs\\:\\ 0\\.09792474394499613\ \(0\)\
+\-\ occur\\:\\ 0\\.09134320558881312\ \(0\)\
+\-\ pain\\:\\ 0\\.08888714729401591\ \(0\)\
+\-\ mm\\:\\ 0\\.0888841626346806\ \(0\)\
+\-\ unremarkable\\:\\ 0\\.08326406436982517\ \(0\)\
+\-\ bilaterally\\:\\ 0\\.0828329032768474\ \(0\)\
+\-\ no\\:\\ 0\\.08077729504437081\ \(0\)\
+\-\ usually\\:\\ 0\\.07818892906082989\ \(0\)\
+\-\ for\\:\\ 0\\.07528854512876564\ \(0\)\
+\-\ trauma\\:\\ 0\\.0721310133036249\ \(0\)\
+\-\ one\\:\\ 0\\.07111071893863698\ \(0\)\
+\-\ evidence\\:\\ 0\\.07049649136039039\ \(0\)\
+\-\ than\\:\\ 0\\.07040583367067611\ \(0\)\
+\-\ these\\:\\ 0\\.07013610370601263\ \(0\)\
+\-\ more\\:\\ 0\\.06819945688057372\ \(0\)\
+\-\ is\\:\\ 0\\.06802639945648113\ \(0\)\
+\-\ increased\\:\\ 0\\.06716182128767226\ \(0\)\
+\-\ follow\\:\\ 0\\.0669549510978051\ \(0\)\
+\-\ without\\:\\ 0\\.06551118851082034\ \(0\)\
+\-\ imaging\\:\\ 0\\.06527165998187233\ \(0\)\
+\-\ diagnosis\\:\\ 0\\.06438475162008518\ \(0\)\
+\-\ small\\:\\ 0\\.06406689307432538\ \(0\)\
+\-\ exam\\:\\ 0\\.06252268386402815\ \(0\)\
+\-\ may\\:\\ 0\\.06250169791185904\ \(0\)\
+\-\ in\\:\\ 0\\.06179419615849445\ \(0\)\
+\-\ up\\:\\ 0\\.06143739578301437\ \(0\)\
+\-\ but\\:\\ 0\\.06141742978098266\ \(0\)\
+\-\ treatment\\:\\ 0\\.059163373643549635\ \(0\)\
+\-\ within\\:\\ 0\\.05720300278158541\ \(0\)\
+\-\ by\\:\\ 0\\.05274281156320731\ \(0\)\
+\-\ be\\:\\ 0\\.05038325014384252\ \(0\)\
+\-\ the\\:\\ 0\\.04956507160930722\ \(0\)\
+\-\ from\\:\\ 0\\.049327244084448524\ \(0\)\
+\-\ not\\:\\ 0\\.0490314735926854\ \(0\)\
+\-\ history\\:\\ 0\\.04745184939499055\ \(0\)\
+\-\ are\\:\\ 0\\.04712850901704455\ \(0\)\
+\-\ or\\:\\ 0\\.04320720461350574\ \(0\)\
+\-\ left\\:\\ 0\\.042367560379097925\ \(0\)\
+\-\ to\\:\\ 0\\.03104992574947956\ \(0\)\
+\-\ with\\:\\ 0\\.024320045660333134\ \(0\)\
+\-\ of\\:\\ 0\\.024305523116062974\ \(0\)\

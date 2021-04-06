@@ -1,101 +1,99 @@
-Texto: 
-not provided
-patient was escorted from the radiology department to physical therapy for crutch fitting and training.  she will treat the hip conservatively for several weeks and have a consultation with orthopedics.
-grade 3 stress fracture, right femoral neck
-osteoid osteoma
-stress fracture
-progressive right hip pain, worsened with running or load-bearing activities.  no prior medical or trauma history.  pain worsening over past two weeks.
-stress fractures and osteoid osteoma can have very similar radiographic and scintigraphic appearances; in equiviocal cases the two can usually be differentiated with t1-weighted mri and characteristic features of patient history (e.g. night pain, relieved with asprin).  in this case, the patient's occupation as a military recruit, and the worsening of the pain with running, along with the characteristic location of the periosteal reaction on the plain films, clarifies the diagnosis.  treatment for this patient is initially conservative.
-
-
-Keywords by value: 
-- stress: 0.24614689063202932
-- osteoid: 0.21913443488045178
-- osteoma: 0.2101510536513199
-- running: 0.20174839229065397
-- the: 0.19829276936055762
-- characteristic: 0.16068124049224447
-- crutch: 0.1589251732622322
-- equiviocal: 0.1589251732622322
-- asprin: 0.1589251732622322
-- clarifies: 0.1589251732622322
-- hip: 0.15267741087163478
-- worsening: 0.15177626446430378
-- escorted: 0.1468497226125309
-- pain: 0.14224273687263672
-- fitting: 0.13477427196282962
-- occupation: 0.13272235099376253
-- patient: 0.1292891658652444
-- recruit: 0.12922642812506255
-- appearances: 0.1250250974447296
-- and: 0.1232100219796016
-- weeks: 0.11911695851961908
-- two: 0.11803072563640915
-- with: 0.1167553452070174
-- fracture: 0.11295854904544084
-- scintigraphic: 0.11294964679502828
-- training: 0.11174770868117943
-- activities: 0.10906221997246358
-- military: 0.10906221997246358
-- orthopedics: 0.10717701025424069
-- relieved: 0.10430112410099948
-- can: 0.1042996161259389
-- treat: 0.10056584840075167
-- consultation: 0.10026286349838241
-- conservatively: 0.09996505807955625
-- have: 0.09928834743214214
-- worsened: 0.09910102020722325
-- differentiated: 0.09487963058078379
-- for: 0.09036105646565971
-- night: 0.08927174811000782
-- periosteal: 0.08745223233819158
-- reaction: 0.0845419509264552
-- department: 0.08406133581784275
-- provided: 0.0815288893182586
-- features: 0.07996188374813776
-- radiology: 0.07959120608816855
-- films: 0.07869761571889501
-- initially: 0.07793078907296618
-- conservative: 0.07672329484592438
-- progressive: 0.07611196219897982
-- history: 0.07593539823350853
-- similar: 0.0757404941216983
-- femoral: 0.07386093971687316
-- radiographic: 0.0737294583926332
-- fractures: 0.07346943576300848
-- grade: 0.07146058327760423
-- very: 0.07128894452205492
-- location: 0.069199110169648
-- or: 0.06914285387640998
-- this: 0.06829533154771886
-- cases: 0.06684130245881648
-- along: 0.06657866643793348
-- right: 0.06589505678630558
-- plain: 0.06556601184599259
-- several: 0.06520094438972061
-- past: 0.06468677425213006
-- will: 0.06396158157239473
-- medical: 0.06315794592674812
-- usually: 0.0625613916147224
-- neck: 0.06079155445570746
-- she: 0.059156654693813135
-- of: 0.058342812786770934
-- trauma: 0.057714264986850984
-- therapy: 0.057098429692555394
-- prior: 0.05560150666517098
-- over: 0.055257882255237645
-- physical: 0.053884394342320535
-- diagnosis: 0.05151624032332065
-- mri: 0.051011242855558345
-- case: 0.04992583489371291
-- in: 0.04944345640520165
-- treatment: 0.04733845356652298
-- be: 0.04031320393989798
-- as: 0.03992319644087161
-- from: 0.03946826067973554
-- not: 0.03923160551914527
-- was: 0.03463380644981813
-- no: 0.032316211831711336
-- on: 0.03001350611181619
-- is: 0.027215017954942716
-- to: 0.02484401037018918
+\-\ Texto\\:\\ \ \(0\)\
+\-\ not\\ provided\ \(12\)\
+\-\ patient\\ was\\ escorted\\ from\\ the\\ radiology\\ department\\ to\\ physical\\ therapy\\ for\\ crutch\\ fitting\\ and\\ training\\.\\ \\ she\\ will\\ treat\\ the\\ hip\\ conservatively\\ for\\ several\\ weeks\\ and\\ have\\ a\\ consultation\\ with\\ orthopedics\\.\ \(0\)\
+\-\ grade\\ 3\\ stress\\ fracture\\,\\ right\\ femoral\\ neck\ \(0\)\
+\-\ osteoid\\ osteoma\ \(14\)\
+\-\ stress\\ fracture\ \(98\)\
+\-\ progressive\\ right\\ hip\\ pain\\,\\ worsened\\ with\\ running\\ or\\ load\\-bearing\\ activities\\.\\ \\ no\\ prior\\ medical\\ or\\ trauma\\ history\\.\\ \\ pain\\ worsening\\ over\\ past\\ two\\ weeks\\.\ \(0\)\
+\-\ stress\\ fractures\\ and\\ osteoid\\ osteoma\\ can\\ have\\ very\\ similar\\ radiographic\\ and\\ scintigraphic\\ appearances\\;\\ in\\ equiviocal\\ cases\\ the\\ two\\ can\\ usually\\ be\\ differentiated\\ with\\ t1\\-weighted\\ mri\\ and\\ characteristic\\ features\\ of\\ patient\\ history\\ \\(e\\.g\\.\\ night\\ pain\\,\\ relieved\\ with\\ asprin\\)\\.\\ \\ in\\ this\\ case\\,\\ the\\ patient\\'s\\ occupation\\ as\\ a\\ military\\ recruit\\,\\ and\\ the\\ worsening\\ of\\ the\\ pain\\ with\\ running\\,\\ along\\ with\\ the\\ characteristic\\ location\\ of\\ the\\ periosteal\\ reaction\\ on\\ the\\ plain\\ films\\,\\ clarifies\\ the\\ diagnosis\\.\\ \\ treatment\\ for\\ this\\ patient\\ is\\ initially\\ conservative\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ stress\\:\\ 0\\.24614689063202932\ \(0\)\
+\-\ osteoid\\:\\ 0\\.21913443488045178\ \(0\)\
+\-\ osteoma\\:\\ 0\\.2101510536513199\ \(0\)\
+\-\ running\\:\\ 0\\.20174839229065397\ \(0\)\
+\-\ the\\:\\ 0\\.19829276936055762\ \(0\)\
+\-\ characteristic\\:\\ 0\\.16068124049224447\ \(0\)\
+\-\ crutch\\:\\ 0\\.1589251732622322\ \(0\)\
+\-\ equiviocal\\:\\ 0\\.1589251732622322\ \(0\)\
+\-\ asprin\\:\\ 0\\.1589251732622322\ \(0\)\
+\-\ clarifies\\:\\ 0\\.1589251732622322\ \(0\)\
+\-\ hip\\:\\ 0\\.15267741087163478\ \(0\)\
+\-\ worsening\\:\\ 0\\.15177626446430378\ \(0\)\
+\-\ escorted\\:\\ 0\\.1468497226125309\ \(0\)\
+\-\ pain\\:\\ 0\\.14224273687263672\ \(0\)\
+\-\ fitting\\:\\ 0\\.13477427196282962\ \(0\)\
+\-\ occupation\\:\\ 0\\.13272235099376253\ \(0\)\
+\-\ patient\\:\\ 0\\.1292891658652444\ \(0\)\
+\-\ recruit\\:\\ 0\\.12922642812506255\ \(0\)\
+\-\ appearances\\:\\ 0\\.1250250974447296\ \(0\)\
+\-\ and\\:\\ 0\\.1232100219796016\ \(0\)\
+\-\ weeks\\:\\ 0\\.11911695851961908\ \(0\)\
+\-\ two\\:\\ 0\\.11803072563640915\ \(0\)\
+\-\ with\\:\\ 0\\.1167553452070174\ \(0\)\
+\-\ fracture\\:\\ 0\\.11295854904544084\ \(0\)\
+\-\ scintigraphic\\:\\ 0\\.11294964679502828\ \(0\)\
+\-\ training\\:\\ 0\\.11174770868117943\ \(0\)\
+\-\ activities\\:\\ 0\\.10906221997246358\ \(0\)\
+\-\ military\\:\\ 0\\.10906221997246358\ \(0\)\
+\-\ orthopedics\\:\\ 0\\.10717701025424069\ \(0\)\
+\-\ relieved\\:\\ 0\\.10430112410099948\ \(0\)\
+\-\ can\\:\\ 0\\.1042996161259389\ \(0\)\
+\-\ treat\\:\\ 0\\.10056584840075167\ \(0\)\
+\-\ consultation\\:\\ 0\\.10026286349838241\ \(0\)\
+\-\ conservatively\\:\\ 0\\.09996505807955625\ \(0\)\
+\-\ have\\:\\ 0\\.09928834743214214\ \(0\)\
+\-\ worsened\\:\\ 0\\.09910102020722325\ \(0\)\
+\-\ differentiated\\:\\ 0\\.09487963058078379\ \(0\)\
+\-\ for\\:\\ 0\\.09036105646565971\ \(0\)\
+\-\ night\\:\\ 0\\.08927174811000782\ \(0\)\
+\-\ periosteal\\:\\ 0\\.08745223233819158\ \(0\)\
+\-\ reaction\\:\\ 0\\.0845419509264552\ \(0\)\
+\-\ department\\:\\ 0\\.08406133581784275\ \(0\)\
+\-\ provided\\:\\ 0\\.0815288893182586\ \(0\)\
+\-\ features\\:\\ 0\\.07996188374813776\ \(0\)\
+\-\ radiology\\:\\ 0\\.07959120608816855\ \(0\)\
+\-\ films\\:\\ 0\\.07869761571889501\ \(0\)\
+\-\ initially\\:\\ 0\\.07793078907296618\ \(0\)\
+\-\ conservative\\:\\ 0\\.07672329484592438\ \(0\)\
+\-\ progressive\\:\\ 0\\.07611196219897982\ \(0\)\
+\-\ history\\:\\ 0\\.07593539823350853\ \(0\)\
+\-\ similar\\:\\ 0\\.0757404941216983\ \(0\)\
+\-\ femoral\\:\\ 0\\.07386093971687316\ \(0\)\
+\-\ radiographic\\:\\ 0\\.0737294583926332\ \(0\)\
+\-\ fractures\\:\\ 0\\.07346943576300848\ \(0\)\
+\-\ grade\\:\\ 0\\.07146058327760423\ \(0\)\
+\-\ very\\:\\ 0\\.07128894452205492\ \(0\)\
+\-\ location\\:\\ 0\\.069199110169648\ \(0\)\
+\-\ or\\:\\ 0\\.06914285387640998\ \(0\)\
+\-\ this\\:\\ 0\\.06829533154771886\ \(0\)\
+\-\ cases\\:\\ 0\\.06684130245881648\ \(0\)\
+\-\ along\\:\\ 0\\.06657866643793348\ \(0\)\
+\-\ right\\:\\ 0\\.06589505678630558\ \(0\)\
+\-\ plain\\:\\ 0\\.06556601184599259\ \(0\)\
+\-\ several\\:\\ 0\\.06520094438972061\ \(0\)\
+\-\ past\\:\\ 0\\.06468677425213006\ \(0\)\
+\-\ will\\:\\ 0\\.06396158157239473\ \(0\)\
+\-\ medical\\:\\ 0\\.06315794592674812\ \(0\)\
+\-\ usually\\:\\ 0\\.0625613916147224\ \(0\)\
+\-\ neck\\:\\ 0\\.06079155445570746\ \(0\)\
+\-\ she\\:\\ 0\\.059156654693813135\ \(0\)\
+\-\ of\\:\\ 0\\.058342812786770934\ \(0\)\
+\-\ trauma\\:\\ 0\\.057714264986850984\ \(0\)\
+\-\ therapy\\:\\ 0\\.057098429692555394\ \(0\)\
+\-\ prior\\:\\ 0\\.05560150666517098\ \(0\)\
+\-\ over\\:\\ 0\\.055257882255237645\ \(0\)\
+\-\ physical\\:\\ 0\\.053884394342320535\ \(0\)\
+\-\ diagnosis\\:\\ 0\\.05151624032332065\ \(0\)\
+\-\ mri\\:\\ 0\\.051011242855558345\ \(0\)\
+\-\ case\\:\\ 0\\.04992583489371291\ \(0\)\
+\-\ in\\:\\ 0\\.04944345640520165\ \(0\)\
+\-\ treatment\\:\\ 0\\.04733845356652298\ \(0\)\
+\-\ be\\:\\ 0\\.04031320393989798\ \(0\)\
+\-\ as\\:\\ 0\\.03992319644087161\ \(0\)\
+\-\ from\\:\\ 0\\.03946826067973554\ \(0\)\
+\-\ not\\:\\ 0\\.03923160551914527\ \(0\)\
+\-\ was\\:\\ 0\\.03463380644981813\ \(0\)\
+\-\ no\\:\\ 0\\.032316211831711336\ \(0\)\
+\-\ on\\:\\ 0\\.03001350611181619\ \(0\)\
+\-\ is\\:\\ 0\\.027215017954942716\ \(0\)\
+\-\ to\\:\\ 0\\.02484401037018918\ \(0\)\

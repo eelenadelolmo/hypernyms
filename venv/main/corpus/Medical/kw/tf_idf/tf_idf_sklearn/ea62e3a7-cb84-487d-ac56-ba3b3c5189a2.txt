@@ -1,123 +1,120 @@
-Texto: 
-generalized abdominal tenderness to palpation and peritoneal signs.
-elevated leukocyte count with left shift.
-treatment for uncomplicated cases usually consists of antibiotics (i.e. fluoroquinolones) and bowel rest. this usually involves 2â€“3 days of bowel rest, taking in only clear fluids (no food at all), so the colon may heal without having to work. this is usually done in the out patient setting.
-
-complicated cases typically involve severe pain, fever, or bleeding, and usually mean generalized peritonitis. treatment consists of hospitalization and iv antibiotics, bowel rest, and possibly surgery.
-the change seen on ct is replacement of the normal pericolic fat by hazy soft-tissue densities. these ill-defined pericolic soft-tissue changes can be compared with the lower density of normal intra-abdominal fat elsewhere (i.e. subcutaneous fat).
-diverticulitis
-diverticulitis
-inflammatory bowel disease
-epiploic appendagitis
-colorectal cancer
-ischemic colitis 
-infectious colitis 
-appendicitis
-59 yo male with 12 hours of progressive nausea and vomiting. increased generalized abdominal pain.
-
-
-Keywords by value: 
-- generalized: 0.2606167960143079
-- pericolic: 0.23664073066172653
-- rest: 0.23605136931158635
-- bowel: 0.23357323606150038
-- usually: 0.22912609499033396
-- consists: 0.18096434098397027
-- colitis: 0.1799673266275889
-- diverticulitis: 0.17103608026503145
-- fat: 0.16980402668247424
-- abdominal: 0.14929439713134246
-- fluoroquinolones: 0.13904513910823216
-- antibiotics: 0.13406881379433108
-- cases: 0.12240046313845397
-- colorectal: 0.1133731053393565
-- and: 0.11281171370721191
-- hazy: 0.11046490669022097
-- appendagitis: 0.11046490669022097
-- peritonitis: 0.10878430833039786
-- elsewhere: 0.10878430833039786
-- leukocyte: 0.10800605976767305
-- heal: 0.10800605976767305
-- of: 0.10683794365468625
-- epiploic: 0.10655497517219463
-- fluids: 0.10459935394034683
-- mean: 0.10032029348723737
-- hospitalization: 0.10032029348723737
-- food: 0.09449086970280188
-- uncomplicated: 0.09236091961639113
-- densities: 0.09099676129283603
-- the: 0.09077892677844387
-- taking: 0.08813220407016276
-- treatment: 0.08668665073321502
-- subcutaneous: 0.0866716220457513
-- complicated: 0.08627775187569729
-- 59: 0.08627775187569729
-- peritoneal: 0.08551804013251572
-- possibly: 0.08551804013251572
-- setting: 0.084616617742111
-- replacement: 0.08173766003869277
-- ischemic: 0.08047216510404928
-- involve: 0.08007170227780645
-- shift: 0.07994041815051274
-- involves: 0.07917462638765711
-- having: 0.07844392161995763
-- appendicitis: 0.07718548975402885
-- so: 0.0765387417829229
-- count: 0.0751244422862997
-- bleeding: 0.07436922756356568
-- normal: 0.07430114568903198
-- work: 0.07418588150560967
-- compared: 0.07356027459978773
-- infectious: 0.07321350156383964
-- done: 0.0723781834181553
-- nausea: 0.06989610134011974
-- progressive: 0.06968849409593467
-- hours: 0.06934837606241472
-- colon: 0.06928121414667826
-- change: 0.06894958200548051
-- vomiting: 0.06732817084314667
-- clear: 0.06596498463352195
-- pain: 0.06511908143179627
-- iv: 0.06501398526643551
-- typically: 0.06387591692255833
-- signs: 0.06359191657603844
-- this: 0.06253154789125775
-- 12: 0.06220009500577789
-- elevated: 0.06202903780160521
-- fever: 0.06169233017705352
-- inflammatory: 0.06152660472346318
-- palpation: 0.061362583417835195
-- cancer: 0.06060571810682164
-- density: 0.06033568379822206
-- out: 0.059808954241470265
-- days: 0.05760055301061178
-- severe: 0.05760055301061178
-- tenderness: 0.057061940103010536
-- only: 0.056845338287877765
-- yo: 0.056845338287877765
-- changes: 0.05499051129328018
-- all: 0.054164129556763675
-- with: 0.05345088965028092
-- these: 0.05138199152047958
-- is: 0.049836413706312324
-- increased: 0.04920302026425944
-- surgery: 0.04892002765968594
-- without: 0.04799376005643355
-- can: 0.04774862566017362
-- lower: 0.04649594680144732
-- may: 0.045788995145554484
-- to: 0.04549460084805105
-- in: 0.0452706765168995
-- seen: 0.04283731601825361
-- male: 0.040512211106325566
-- by: 0.03863959577604316
-- disease: 0.03819433455631773
-- be: 0.036910971594836195
-- ct: 0.03464071554455883
-- at: 0.03436804341035017
-- or: 0.031653771791780555
-- left: 0.031038645050303706
-- patient: 0.029594452080060712
-- no: 0.029588885536147375
-- for: 0.027578345409739687
-- on: 0.027480516636839994
+\-\ Texto\\:\\ \ \(0\)\
+\-\ generalized\\ abdominal\\ tenderness\\ to\\ palpation\\ and\\ peritoneal\\ signs\\.\ \(0\)\
+\-\ elevated\\ leukocyte\\ count\\ with\\ left\\ shift\\.\ \(0\)\
+\-\ treatment\\ for\\ uncomplicated\\ cases\\ usually\\ consists\\ of\\ antibiotics\\ \\(i\\.e\\.\\ fluoroquinolones\\)\\ and\\ bowel\\ rest\\.\\ this\\ usually\\ involves\\ 2\\â\\€\\“3\\ days\\ of\\ bowel\\ rest\\,\\ taking\\ in\\ only\\ clear\\ fluids\\ \\(no\\ food\\ at\\ all\\)\\,\\ so\\ the\\ colon\\ may\\ heal\\ without\\ having\\ to\\ work\\.\\ this\\ is\\ usually\\ done\\ in\\ the\\ out\\ patient\\ setting\\.\ \(0\)\
+\-\ complicated\\ cases\\ typically\\ involve\\ severe\\ pain\\,\\ fever\\,\\ or\\ bleeding\\,\\ and\\ usually\\ mean\\ generalized\\ peritonitis\\.\\ treatment\\ consists\\ of\\ hospitalization\\ and\\ iv\\ antibiotics\\,\\ bowel\\ rest\\,\\ and\\ possibly\\ surgery\\.\ \(0\)\
+\-\ the\\ change\\ seen\\ on\\ ct\\ is\\ replacement\\ of\\ the\\ normal\\ pericolic\\ fat\\ by\\ hazy\\ soft\\-tissue\\ densities\\.\\ these\\ ill\\-defined\\ pericolic\\ soft\\-tissue\\ changes\\ can\\ be\\ compared\\ with\\ the\\ lower\\ density\\ of\\ normal\\ intra\\-abdominal\\ fat\\ elsewhere\\ \\(i\\.e\\.\\ subcutaneous\\ fat\\)\\.\ \(0\)\
+\-\ diverticulitis\ \(62\)\
+\-\ diverticulitis\ \(62\)\
+\-\ inflammatory\\ bowel\\ disease\ \(31\)\
+\-\ epiploic\\ appendagitis\ \(11\)\
+\-\ colorectal\\ cancer\ \(7\)\
+\-\ ischemic\\ colitis\\ \ \(2\)\
+\-\ infectious\\ colitis\\ \ \(0\)\
+\-\ appendicitis\ \(180\)\
+\-\ 59\\ yo\\ male\\ with\\ 12\\ hours\\ of\\ progressive\\ nausea\\ and\\ vomiting\\.\\ increased\\ generalized\\ abdominal\\ pain\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ generalized\\:\\ 0\\.2606167960143079\ \(0\)\
+\-\ pericolic\\:\\ 0\\.23664073066172653\ \(0\)\
+\-\ rest\\:\\ 0\\.23605136931158635\ \(0\)\
+\-\ bowel\\:\\ 0\\.23357323606150038\ \(0\)\
+\-\ usually\\:\\ 0\\.22912609499033396\ \(0\)\
+\-\ consists\\:\\ 0\\.18096434098397027\ \(0\)\
+\-\ colitis\\:\\ 0\\.1799673266275889\ \(0\)\
+\-\ diverticulitis\\:\\ 0\\.17103608026503145\ \(0\)\
+\-\ fat\\:\\ 0\\.16980402668247424\ \(0\)\
+\-\ abdominal\\:\\ 0\\.14929439713134246\ \(0\)\
+\-\ fluoroquinolones\\:\\ 0\\.13904513910823216\ \(0\)\
+\-\ antibiotics\\:\\ 0\\.13406881379433108\ \(0\)\
+\-\ cases\\:\\ 0\\.12240046313845397\ \(0\)\
+\-\ colorectal\\:\\ 0\\.1133731053393565\ \(0\)\
+\-\ and\\:\\ 0\\.11281171370721191\ \(0\)\
+\-\ hazy\\:\\ 0\\.11046490669022097\ \(0\)\
+\-\ appendagitis\\:\\ 0\\.11046490669022097\ \(0\)\
+\-\ peritonitis\\:\\ 0\\.10878430833039786\ \(0\)\
+\-\ elsewhere\\:\\ 0\\.10878430833039786\ \(0\)\
+\-\ leukocyte\\:\\ 0\\.10800605976767305\ \(0\)\
+\-\ heal\\:\\ 0\\.10800605976767305\ \(0\)\
+\-\ of\\:\\ 0\\.10683794365468625\ \(0\)\
+\-\ epiploic\\:\\ 0\\.10655497517219463\ \(0\)\
+\-\ fluids\\:\\ 0\\.10459935394034683\ \(0\)\
+\-\ mean\\:\\ 0\\.10032029348723737\ \(0\)\
+\-\ hospitalization\\:\\ 0\\.10032029348723737\ \(0\)\
+\-\ food\\:\\ 0\\.09449086970280188\ \(0\)\
+\-\ uncomplicated\\:\\ 0\\.09236091961639113\ \(0\)\
+\-\ densities\\:\\ 0\\.09099676129283603\ \(0\)\
+\-\ the\\:\\ 0\\.09077892677844387\ \(0\)\
+\-\ taking\\:\\ 0\\.08813220407016276\ \(0\)\
+\-\ treatment\\:\\ 0\\.08668665073321502\ \(0\)\
+\-\ subcutaneous\\:\\ 0\\.0866716220457513\ \(0\)\
+\-\ complicated\\:\\ 0\\.08627775187569729\ \(0\)\
+\-\ 59\\:\\ 0\\.08627775187569729\ \(0\)\
+\-\ peritoneal\\:\\ 0\\.08551804013251572\ \(0\)\
+\-\ possibly\\:\\ 0\\.08551804013251572\ \(0\)\
+\-\ setting\\:\\ 0\\.084616617742111\ \(0\)\
+\-\ replacement\\:\\ 0\\.08173766003869277\ \(0\)\
+\-\ ischemic\\:\\ 0\\.08047216510404928\ \(0\)\
+\-\ involve\\:\\ 0\\.08007170227780645\ \(0\)\
+\-\ shift\\:\\ 0\\.07994041815051274\ \(0\)\
+\-\ involves\\:\\ 0\\.07917462638765711\ \(0\)\
+\-\ having\\:\\ 0\\.07844392161995763\ \(0\)\
+\-\ appendicitis\\:\\ 0\\.07718548975402885\ \(0\)\
+\-\ so\\:\\ 0\\.0765387417829229\ \(0\)\
+\-\ count\\:\\ 0\\.0751244422862997\ \(0\)\
+\-\ bleeding\\:\\ 0\\.07436922756356568\ \(0\)\
+\-\ normal\\:\\ 0\\.07430114568903198\ \(0\)\
+\-\ work\\:\\ 0\\.07418588150560967\ \(0\)\
+\-\ compared\\:\\ 0\\.07356027459978773\ \(0\)\
+\-\ infectious\\:\\ 0\\.07321350156383964\ \(0\)\
+\-\ done\\:\\ 0\\.0723781834181553\ \(0\)\
+\-\ nausea\\:\\ 0\\.06989610134011974\ \(0\)\
+\-\ progressive\\:\\ 0\\.06968849409593467\ \(0\)\
+\-\ hours\\:\\ 0\\.06934837606241472\ \(0\)\
+\-\ colon\\:\\ 0\\.06928121414667826\ \(0\)\
+\-\ change\\:\\ 0\\.06894958200548051\ \(0\)\
+\-\ vomiting\\:\\ 0\\.06732817084314667\ \(0\)\
+\-\ clear\\:\\ 0\\.06596498463352195\ \(0\)\
+\-\ pain\\:\\ 0\\.06511908143179627\ \(0\)\
+\-\ iv\\:\\ 0\\.06501398526643551\ \(0\)\
+\-\ typically\\:\\ 0\\.06387591692255833\ \(0\)\
+\-\ signs\\:\\ 0\\.06359191657603844\ \(0\)\
+\-\ this\\:\\ 0\\.06253154789125775\ \(0\)\
+\-\ 12\\:\\ 0\\.06220009500577789\ \(0\)\
+\-\ elevated\\:\\ 0\\.06202903780160521\ \(0\)\
+\-\ fever\\:\\ 0\\.06169233017705352\ \(0\)\
+\-\ inflammatory\\:\\ 0\\.06152660472346318\ \(0\)\
+\-\ palpation\\:\\ 0\\.061362583417835195\ \(0\)\
+\-\ cancer\\:\\ 0\\.06060571810682164\ \(0\)\
+\-\ density\\:\\ 0\\.06033568379822206\ \(0\)\
+\-\ out\\:\\ 0\\.059808954241470265\ \(0\)\
+\-\ days\\:\\ 0\\.05760055301061178\ \(0\)\
+\-\ severe\\:\\ 0\\.05760055301061178\ \(0\)\
+\-\ tenderness\\:\\ 0\\.057061940103010536\ \(0\)\
+\-\ only\\:\\ 0\\.056845338287877765\ \(0\)\
+\-\ yo\\:\\ 0\\.056845338287877765\ \(0\)\
+\-\ changes\\:\\ 0\\.05499051129328018\ \(0\)\
+\-\ all\\:\\ 0\\.054164129556763675\ \(0\)\
+\-\ with\\:\\ 0\\.05345088965028092\ \(0\)\
+\-\ these\\:\\ 0\\.05138199152047958\ \(0\)\
+\-\ is\\:\\ 0\\.049836413706312324\ \(0\)\
+\-\ increased\\:\\ 0\\.04920302026425944\ \(0\)\
+\-\ surgery\\:\\ 0\\.04892002765968594\ \(0\)\
+\-\ without\\:\\ 0\\.04799376005643355\ \(0\)\
+\-\ can\\:\\ 0\\.04774862566017362\ \(0\)\
+\-\ lower\\:\\ 0\\.04649594680144732\ \(0\)\
+\-\ may\\:\\ 0\\.045788995145554484\ \(0\)\
+\-\ to\\:\\ 0\\.04549460084805105\ \(0\)\
+\-\ in\\:\\ 0\\.0452706765168995\ \(0\)\
+\-\ seen\\:\\ 0\\.04283731601825361\ \(0\)\
+\-\ male\\:\\ 0\\.040512211106325566\ \(0\)\
+\-\ by\\:\\ 0\\.03863959577604316\ \(0\)\
+\-\ disease\\:\\ 0\\.03819433455631773\ \(0\)\
+\-\ be\\:\\ 0\\.036910971594836195\ \(0\)\
+\-\ ct\\:\\ 0\\.03464071554455883\ \(0\)\
+\-\ at\\:\\ 0\\.03436804341035017\ \(0\)\
+\-\ or\\:\\ 0\\.031653771791780555\ \(0\)\
+\-\ left\\:\\ 0\\.031038645050303706\ \(0\)\
+\-\ patient\\:\\ 0\\.029594452080060712\ \(0\)\
+\-\ no\\:\\ 0\\.029588885536147375\ \(0\)\
+\-\ for\\:\\ 0\\.027578345409739687\ \(0\)\
+\-\ on\\:\\ 0\\.027480516636839994\ \(0\)\

@@ -1,56 +1,54 @@
-Texto: 
-currently asymptomatic
-surgical excision of affected segment or lobe.
-axial and coronal-reconstructed ct images of the chest demonstrate an accessory bronchus arising from the right lateral wall of the lower trachea, supplying the apical segment of the right upper lobe.  the orifice of this accessory bronchus is stenotic.
-tracheal bronchus
-tracheal bronchus
-tracheal diverticulum
-3 month old boy with recurrent pneumonia.
-
-
-Keywords by value: 
-- bronchus: 0.30632232171351126
-- tracheal: 0.23909865283986748
-- accessory: 0.1561199023586925
-- coronal-reconstructed: 0.13356846096918937
-- segment: 0.11296733602224589
-- supplying: 0.09470559191674184
-- orifice: 0.09253739731612558
-- stenotic: 0.08895574916363724
-- apical: 0.074601486755392
-- lobe: 0.06967652569465255
-- trachea: 0.06877048946894611
-- diverticulum: 0.06167554993338255
-- affected: 0.056023100174996114
-- recurrent: 0.0546368525928042
-- arising: 0.05359702673842396
-- pneumonia: 0.053519919624674395
-- excision: 0.05314016252371657
-- currently: 0.051305648409273596
-- boy: 0.04401093605948441
-- asymptomatic: 0.0437665514847892
-- month: 0.038842644557584995
-- wall: 0.03750241091270828
-- axial: 0.036951386001028354
-- upper: 0.03124364402073816
-- chest: 0.030980742425113922
-- 3: 0.03031781101070515
-- demonstrate: 0.02979472941413698
-- lower: 0.02911912226308883
-- lateral: 0.02797981887309925
-- right: 0.02732217300334596
-- surgical: 0.027215481367446268
-- images: 0.024837331696202336
-- from: 0.019188419896275944
-- ct: 0.018110661415030954
-- an: 0.01790401309522318
-- or: 0.01517458710551072
-- this: 0.014562685050214137
-- old: 0.013256584800943253
-- the: 0.012568116791238709
-- of: 0.008826045514999124
-- is: 0.008519557248253418
-- ,: 0.0041016676593528395
-- and: 0.0027274091777608855
-- .: 0.0021514870362028047
-- with: 0.0017727905468165111
+\-\ Texto\\:\\ \ \(0\)\
+\-\ currently\\ asymptomatic\ \(10\)\
+\-\ surgical\\ excision\\ of\\ affected\\ segment\\ or\\ lobe\\.\ \(0\)\
+\-\ axial\\ and\\ coronal\\-reconstructed\\ ct\\ images\\ of\\ the\\ chest\\ demonstrate\\ an\\ accessory\\ bronchus\\ arising\\ from\\ the\\ right\\ lateral\\ wall\\ of\\ the\\ lower\\ trachea\\,\\ supplying\\ the\\ apical\\ segment\\ of\\ the\\ right\\ upper\\ lobe\\.\\ \\ the\\ orifice\\ of\\ this\\ accessory\\ bronchus\\ is\\ stenotic\\.\ \(0\)\
+\-\ tracheal\\ bronchus\ \(0\)\
+\-\ tracheal\\ bronchus\ \(0\)\
+\-\ tracheal\\ diverticulum\ \(1\)\
+\-\ 3\\ month\\ old\\ boy\\ with\\ recurrent\\ pneumonia\\.\ \(1\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ bronchus\\:\\ 0\\.30632232171351126\ \(0\)\
+\-\ tracheal\\:\\ 0\\.23909865283986748\ \(0\)\
+\-\ accessory\\:\\ 0\\.1561199023586925\ \(0\)\
+\-\ coronal\\-reconstructed\\:\\ 0\\.13356846096918937\ \(0\)\
+\-\ segment\\:\\ 0\\.11296733602224589\ \(0\)\
+\-\ supplying\\:\\ 0\\.09470559191674184\ \(0\)\
+\-\ orifice\\:\\ 0\\.09253739731612558\ \(0\)\
+\-\ stenotic\\:\\ 0\\.08895574916363724\ \(0\)\
+\-\ apical\\:\\ 0\\.074601486755392\ \(0\)\
+\-\ lobe\\:\\ 0\\.06967652569465255\ \(0\)\
+\-\ trachea\\:\\ 0\\.06877048946894611\ \(0\)\
+\-\ diverticulum\\:\\ 0\\.06167554993338255\ \(0\)\
+\-\ affected\\:\\ 0\\.056023100174996114\ \(0\)\
+\-\ recurrent\\:\\ 0\\.0546368525928042\ \(0\)\
+\-\ arising\\:\\ 0\\.05359702673842396\ \(0\)\
+\-\ pneumonia\\:\\ 0\\.053519919624674395\ \(0\)\
+\-\ excision\\:\\ 0\\.05314016252371657\ \(0\)\
+\-\ currently\\:\\ 0\\.051305648409273596\ \(0\)\
+\-\ boy\\:\\ 0\\.04401093605948441\ \(0\)\
+\-\ asymptomatic\\:\\ 0\\.0437665514847892\ \(0\)\
+\-\ month\\:\\ 0\\.038842644557584995\ \(0\)\
+\-\ wall\\:\\ 0\\.03750241091270828\ \(0\)\
+\-\ axial\\:\\ 0\\.036951386001028354\ \(0\)\
+\-\ upper\\:\\ 0\\.03124364402073816\ \(0\)\
+\-\ chest\\:\\ 0\\.030980742425113922\ \(0\)\
+\-\ 3\\:\\ 0\\.03031781101070515\ \(0\)\
+\-\ demonstrate\\:\\ 0\\.02979472941413698\ \(0\)\
+\-\ lower\\:\\ 0\\.02911912226308883\ \(0\)\
+\-\ lateral\\:\\ 0\\.02797981887309925\ \(0\)\
+\-\ right\\:\\ 0\\.02732217300334596\ \(0\)\
+\-\ surgical\\:\\ 0\\.027215481367446268\ \(0\)\
+\-\ images\\:\\ 0\\.024837331696202336\ \(0\)\
+\-\ from\\:\\ 0\\.019188419896275944\ \(0\)\
+\-\ ct\\:\\ 0\\.018110661415030954\ \(0\)\
+\-\ an\\:\\ 0\\.01790401309522318\ \(0\)\
+\-\ or\\:\\ 0\\.01517458710551072\ \(0\)\
+\-\ this\\:\\ 0\\.014562685050214137\ \(0\)\
+\-\ old\\:\\ 0\\.013256584800943253\ \(0\)\
+\-\ the\\:\\ 0\\.012568116791238709\ \(0\)\
+\-\ of\\:\\ 0\\.008826045514999124\ \(0\)\
+\-\ is\\:\\ 0\\.008519557248253418\ \(0\)\
+\-\ \\,\\:\\ 0\\.0041016676593528395\ \(0\)\
+\-\ and\\:\\ 0\\.0027274091777608855\ \(0\)\
+\-\ \\.\\:\\ 0\\.0021514870362028047\ \(0\)\
+\-\ with\\:\\ 0\\.0017727905468165111\ \(0\)\

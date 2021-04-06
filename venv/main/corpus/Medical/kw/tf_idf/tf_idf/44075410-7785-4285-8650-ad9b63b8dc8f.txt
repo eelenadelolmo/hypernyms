@@ -1,57 +1,55 @@
-Texto: 
-elevated lfts
-large heterogenous liver lesion in the right lobe with a hypodense area that likely represents necrosis and an area of calcification centrally.
-hepatocellular carcinoma
-hepatocellular carcinoma
-hepatoblastoma
-cholangiocarcinoma
-biliary cystadenocarcinoma
-angiosarcoma
-hemangioendothelioma
-fibrosarcoma
-teratoma
-lymphoma
-metastatic disease
-known malignancy
-
-
-Keywords by value: 
-- hepatocellular: 0.23446181551694625
-- hemangioendothelioma: 0.1603827829115872
-- hepatoblastoma: 0.15506984121362982
-- fibrosarcoma: 0.1470585974845533
-- angiosarcoma: 0.1385663369145835
-- cystadenocarcinoma: 0.13740466633912082
-- lfts: 0.13422534746710837
-- area: 0.12865886876829843
-- cholangiocarcinoma: 0.12813169570193694
-- carcinoma: 0.11532988904837459
-- centrally: 0.11087227001444823
-- hypodense: 0.10840091778393292
-- heterogenous: 0.10439765774102819
-- biliary: 0.10275497032467222
-- represents: 0.09776162434890867
-- teratoma: 0.09512468710384431
-- necrosis: 0.08031192174868344
-- malignancy: 0.07862118280479799
-- calcification: 0.07385203853469355
-- liver: 0.07014813121030294
-- elevated: 0.06903134193712054
-- known: 0.06438216867770999
-- lymphoma: 0.05814758653308299
-- likely: 0.057387856331801344
-- lobe: 0.054745841617226995
-- metastatic: 0.05121689056228786
-- large: 0.04448910551978761
-- lesion: 0.04144179109524892
-- that: 0.0351423982990196
-- disease: 0.03325565574323105
-- an: 0.028134877721064995
-- right: 0.02146742164548611
-- in: 0.010033267384291783
-- a: 0.00944285242425241
-- and: 0.004285928707909963
-- the: 0.003291649635800614
-- with: 0.0027858137164259457
-- of: 0.0027739000189997243
-- .: 0.000845227049936816
+\-\ Texto\\:\\ \ \(0\)\
+\-\ elevated\\ lfts\ \(0\)\
+\-\ large\\ heterogenous\\ liver\\ lesion\\ in\\ the\\ right\\ lobe\\ with\\ a\\ hypodense\\ area\\ that\\ likely\\ represents\\ necrosis\\ and\\ an\\ area\\ of\\ calcification\\ centrally\\.\ \(0\)\
+\-\ hepatocellular\\ carcinoma\ \(28\)\
+\-\ hepatocellular\\ carcinoma\ \(28\)\
+\-\ hepatoblastoma\ \(1\)\
+\-\ cholangiocarcinoma\ \(16\)\
+\-\ biliary\\ cystadenocarcinoma\ \(0\)\
+\-\ angiosarcoma\ \(17\)\
+\-\ hemangioendothelioma\ \(5\)\
+\-\ fibrosarcoma\ \(14\)\
+\-\ teratoma\ \(130\)\
+\-\ lymphoma\ \(373\)\
+\-\ metastatic\\ disease\ \(243\)\
+\-\ known\\ malignancy\ \(4\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ hepatocellular\\:\\ 0\\.23446181551694625\ \(0\)\
+\-\ hemangioendothelioma\\:\\ 0\\.1603827829115872\ \(0\)\
+\-\ hepatoblastoma\\:\\ 0\\.15506984121362982\ \(0\)\
+\-\ fibrosarcoma\\:\\ 0\\.1470585974845533\ \(0\)\
+\-\ angiosarcoma\\:\\ 0\\.1385663369145835\ \(0\)\
+\-\ cystadenocarcinoma\\:\\ 0\\.13740466633912082\ \(0\)\
+\-\ lfts\\:\\ 0\\.13422534746710837\ \(0\)\
+\-\ area\\:\\ 0\\.12865886876829843\ \(0\)\
+\-\ cholangiocarcinoma\\:\\ 0\\.12813169570193694\ \(0\)\
+\-\ carcinoma\\:\\ 0\\.11532988904837459\ \(0\)\
+\-\ centrally\\:\\ 0\\.11087227001444823\ \(0\)\
+\-\ hypodense\\:\\ 0\\.10840091778393292\ \(0\)\
+\-\ heterogenous\\:\\ 0\\.10439765774102819\ \(0\)\
+\-\ biliary\\:\\ 0\\.10275497032467222\ \(0\)\
+\-\ represents\\:\\ 0\\.09776162434890867\ \(0\)\
+\-\ teratoma\\:\\ 0\\.09512468710384431\ \(0\)\
+\-\ necrosis\\:\\ 0\\.08031192174868344\ \(0\)\
+\-\ malignancy\\:\\ 0\\.07862118280479799\ \(0\)\
+\-\ calcification\\:\\ 0\\.07385203853469355\ \(0\)\
+\-\ liver\\:\\ 0\\.07014813121030294\ \(0\)\
+\-\ elevated\\:\\ 0\\.06903134193712054\ \(0\)\
+\-\ known\\:\\ 0\\.06438216867770999\ \(0\)\
+\-\ lymphoma\\:\\ 0\\.05814758653308299\ \(0\)\
+\-\ likely\\:\\ 0\\.057387856331801344\ \(0\)\
+\-\ lobe\\:\\ 0\\.054745841617226995\ \(0\)\
+\-\ metastatic\\:\\ 0\\.05121689056228786\ \(0\)\
+\-\ large\\:\\ 0\\.04448910551978761\ \(0\)\
+\-\ lesion\\:\\ 0\\.04144179109524892\ \(0\)\
+\-\ that\\:\\ 0\\.0351423982990196\ \(0\)\
+\-\ disease\\:\\ 0\\.03325565574323105\ \(0\)\
+\-\ an\\:\\ 0\\.028134877721064995\ \(0\)\
+\-\ right\\:\\ 0\\.02146742164548611\ \(0\)\
+\-\ in\\:\\ 0\\.010033267384291783\ \(0\)\
+\-\ a\\:\\ 0\\.00944285242425241\ \(0\)\
+\-\ and\\:\\ 0\\.004285928707909963\ \(0\)\
+\-\ the\\:\\ 0\\.003291649635800614\ \(0\)\
+\-\ with\\:\\ 0\\.0027858137164259457\ \(0\)\
+\-\ of\\:\\ 0\\.0027739000189997243\ \(0\)\
+\-\ \\.\\:\\ 0\\.000845227049936816\ \(0\)\

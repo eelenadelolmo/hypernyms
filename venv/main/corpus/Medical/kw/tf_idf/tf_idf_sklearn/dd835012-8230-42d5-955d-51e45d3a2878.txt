@@ -1,49 +1,47 @@
-Texto: 
-chest radiograph demonstrates large anterior mediastinal mass. 
-chest ct demonstrates large well-defined lobulated homogeneous mass in the anterior mediastinum which dsplaces adjacent mediastinal structures.  also large left pleural effusion.
-thymoma
-thymoma
-lymphoma
-teratoma (germ cell tumor)
-substernal goiter
-43 year old african-american female presented with difficulty breathing
-
-
-Keywords by value: 
-- thymoma: 0.3814298173675196
-- mediastinal: 0.28191478837197836
-- dsplaces: 0.27916547113980206
-- large: 0.2623953425193147
-- substernal: 0.21027190224319747
-- goiter: 0.19629427549089487
-- anterior: 0.19493241715360382
-- chest: 0.1842872075012049
-- demonstrates: 0.17539787982050958
-- breathing: 0.1708057617046951
-- 43: 0.16336247775461019
-- germ: 0.16301669108720895
-- lobulated: 0.16102021404635036
-- mediastinum: 0.1562569434551051
-- homogeneous: 0.15412726384348077
-- teratoma: 0.15095451785447214
-- difficulty: 0.1468392523634722
-- mass: 0.13335740036816227
-- pleural: 0.13141040654926078
-- structures: 0.13116656625941245
-- effusion: 0.12962727339928268
-- radiograph: 0.11369631196485844
-- adjacent: 0.11315226573420711
-- lymphoma: 0.1039635341353571
-- presented: 0.10179570315671835
-- cell: 0.09985851911721934
-- tumor: 0.0913069798993051
-- female: 0.08423507051529736
-- also: 0.08210979460983862
-- which: 0.07937588312260628
-- ct: 0.06645806624735552
-- left: 0.059547509240329345
-- year: 0.05379711709837716
-- old: 0.051663854748668234
-- in: 0.04342580070484836
-- the: 0.034831797408718876
-- with: 0.034181768568349966
+\-\ Texto\\:\\ \ \(0\)\
+\-\ chest\\ radiograph\\ demonstrates\\ large\\ anterior\\ mediastinal\\ mass\\.\\ \ \(0\)\
+\-\ chest\\ ct\\ demonstrates\\ large\\ well\\-defined\\ lobulated\\ homogeneous\\ mass\\ in\\ the\\ anterior\\ mediastinum\\ which\\ dsplaces\\ adjacent\\ mediastinal\\ structures\\.\\ \\ also\\ large\\ left\\ pleural\\ effusion\\.\ \(0\)\
+\-\ thymoma\ \(20\)\
+\-\ thymoma\ \(20\)\
+\-\ lymphoma\ \(373\)\
+\-\ teratoma\\ \\(germ\\ cell\\ tumor\\)\ \(0\)\
+\-\ substernal\\ goiter\ \(3\)\
+\-\ 43\\ year\\ old\\ african\\-american\\ female\\ presented\\ with\\ difficulty\\ breathing\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ thymoma\\:\\ 0\\.3814298173675196\ \(0\)\
+\-\ mediastinal\\:\\ 0\\.28191478837197836\ \(0\)\
+\-\ dsplaces\\:\\ 0\\.27916547113980206\ \(0\)\
+\-\ large\\:\\ 0\\.2623953425193147\ \(0\)\
+\-\ substernal\\:\\ 0\\.21027190224319747\ \(0\)\
+\-\ goiter\\:\\ 0\\.19629427549089487\ \(0\)\
+\-\ anterior\\:\\ 0\\.19493241715360382\ \(0\)\
+\-\ chest\\:\\ 0\\.1842872075012049\ \(0\)\
+\-\ demonstrates\\:\\ 0\\.17539787982050958\ \(0\)\
+\-\ breathing\\:\\ 0\\.1708057617046951\ \(0\)\
+\-\ 43\\:\\ 0\\.16336247775461019\ \(0\)\
+\-\ germ\\:\\ 0\\.16301669108720895\ \(0\)\
+\-\ lobulated\\:\\ 0\\.16102021404635036\ \(0\)\
+\-\ mediastinum\\:\\ 0\\.1562569434551051\ \(0\)\
+\-\ homogeneous\\:\\ 0\\.15412726384348077\ \(0\)\
+\-\ teratoma\\:\\ 0\\.15095451785447214\ \(0\)\
+\-\ difficulty\\:\\ 0\\.1468392523634722\ \(0\)\
+\-\ mass\\:\\ 0\\.13335740036816227\ \(0\)\
+\-\ pleural\\:\\ 0\\.13141040654926078\ \(0\)\
+\-\ structures\\:\\ 0\\.13116656625941245\ \(0\)\
+\-\ effusion\\:\\ 0\\.12962727339928268\ \(0\)\
+\-\ radiograph\\:\\ 0\\.11369631196485844\ \(0\)\
+\-\ adjacent\\:\\ 0\\.11315226573420711\ \(0\)\
+\-\ lymphoma\\:\\ 0\\.1039635341353571\ \(0\)\
+\-\ presented\\:\\ 0\\.10179570315671835\ \(0\)\
+\-\ cell\\:\\ 0\\.09985851911721934\ \(0\)\
+\-\ tumor\\:\\ 0\\.0913069798993051\ \(0\)\
+\-\ female\\:\\ 0\\.08423507051529736\ \(0\)\
+\-\ also\\:\\ 0\\.08210979460983862\ \(0\)\
+\-\ which\\:\\ 0\\.07937588312260628\ \(0\)\
+\-\ ct\\:\\ 0\\.06645806624735552\ \(0\)\
+\-\ left\\:\\ 0\\.059547509240329345\ \(0\)\
+\-\ year\\:\\ 0\\.05379711709837716\ \(0\)\
+\-\ old\\:\\ 0\\.051663854748668234\ \(0\)\
+\-\ in\\:\\ 0\\.04342580070484836\ \(0\)\
+\-\ the\\:\\ 0\\.034831797408718876\ \(0\)\
+\-\ with\\:\\ 0\\.034181768568349966\ \(0\)\

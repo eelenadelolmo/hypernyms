@@ -1,100 +1,95 @@
-Texto: 
-n/a
-surgical resection of affected small bowel.
-portable radiograph of the chest demonstrates an enteric tube with the tip in the left upper quadrant.  the patient is intubated.  
-
-bubbly lucencies are demonstrated in the right side of the abdomen.  curvilinear lucency is demonstrated around a loop of bowel in the left upper quadrant.  these findings are consistent with pneumatosis intestinalis associated with necrotizing enterocolitis.  
-
-linear lucencies in the porta hepatis represent the presence of portal venous gas.
-
-lateral decubitus radiograph demonstrates lucency superior to the right lobe of the liver consistent with pneumoperitoneum.  again demonstrated are bubbly lucencies in the right and left side of the abdomen consistent with pneumatosis intestinalis and branching tubular lucencies over the liver consistent with portal venous gas.
-necrotizing enterocolitis
-necrotizing enterocolitis
-4 day old premature infant.
-the findings of pneumatosis intestinalis and portal venous gas in this neonate is nearly pathognomonic for necrotizing enterocolitis.  the lateral decubitus film taken four hours later demonstrating pneumoperitoneum prompted surgical intervention.
-
-
-Keywords by value: 
-- enterocolitis: 0.12982912475513939
-- lucencies: 0.1171803193109157
-- necrotizing: 0.11398576062805493
-- intestinalis: 0.10064707619657243
-- pneumatosis: 0.0906712782745772
-- bubbly: 0.07850980885612782
-- portal: 0.07710909103594608
-- gas: 0.06978147935319855
-- decubitus: 0.06651184171900008
-- pneumoperitoneum: 0.06396162970398055
-- venous: 0.05317346774497936
-- consistent: 0.04789253185899893
-- lucency: 0.04485907766565422
-- demonstrated: 0.04298434255640516
-- hepatis: 0.037818821980744446
-- porta: 0.0366721322923893
-- quadrant: 0.03437001067412634
-- neonate: 0.03385798094897333
-- side: 0.0338336743058751
-- liver: 0.03367110298094542
-- radiograph: 0.031107984616244144
-- branching: 0.030938977384596243
-- bowel: 0.03062804037582582
-- prompted: 0.030394347785714388
-- enteric: 0.029295079827728925
-- portable: 0.029016278889617882
-- intubated: 0.029016278889617882
-- abdomen: 0.0289301058616651
-- loop: 0.028496440157013733
-- curvilinear: 0.02813541786203355
-- nearly: 0.02688368319881821
-- premature: 0.026609344803467577
-- pathognomonic: 0.02643350675394327
-- tip: 0.025055437857846766
-- upper: 0.023566634347071066
-- again: 0.02346278984373808
-- infant: 0.023113335997147617
-- tubular: 0.022738494382942974
-- intervention: 0.02174218931354424
-- represent: 0.021445276519654465
-- demonstrates: 0.02133281373317927
-- four: 0.021197559714662386
-- demonstrating: 0.021197559714662386
-- affected: 0.021128712065998534
-- lateral: 0.021104777664280577
-- findings: 0.02078670783759954
-- linear: 0.020700351846150218
-- tube: 0.0205747580934715
-- surgical: 0.020528248802873756
-- taken: 0.02036139997668496
-- around: 0.02033156029679267
-- are: 0.019969266386221745
-- hours: 0.019201127477764552
-- film: 0.018755022487079873
-- presence: 0.017724489248326453
-- n/a: 0.01768689512776621
-- later: 0.017630963662816707
-- left: 0.01639037604467854
-- superior: 0.015592821126023951
-- day: 0.015502627596302455
-- right: 0.015456543584750002
-- resection: 0.015228089460115536
-- in: 0.014447905033380169
-- 4: 0.013605553743880259
-- lobe: 0.01313900198813448
-- these: 0.0127076839540448
-- the: 0.012639934601474358
-- over: 0.012432243372228357
-- chest: 0.011684165714614392
-- associated: 0.011522643210901153
-- small: 0.011249001625034963
-- is: 0.009639270486595297
-- an: 0.006752370653055599
-- this: 0.0054922126475093315
-- of: 0.005325888036479471
-- old: 0.004999626267784312
-- patient: 0.004894811033807931
-- for: 0.0041663322779583725
-- with: 0.004011571751653362
-- and: 0.0030858686696951737
-- to: 0.002440389191102779
-- .: 0.0024342539038180303
-- a: 0.0022662845818205786
+\-\ Texto\\:\\ \ \(0\)\
+\-\ n\\/a\ \(127\)\
+\-\ surgical\\ resection\\ of\\ affected\\ small\\ bowel\\.\ \(0\)\
+\-\ portable\\ radiograph\\ of\\ the\\ chest\\ demonstrates\\ an\\ enteric\\ tube\\ with\\ the\\ tip\\ in\\ the\\ left\\ upper\\ quadrant\\.\\ \\ the\\ patient\\ is\\ intubated\\.\\ \\ \ \(0\)\
+\-\ bubbly\\ lucencies\\ are\\ demonstrated\\ in\\ the\\ right\\ side\\ of\\ the\\ abdomen\\.\\ \\ curvilinear\\ lucency\\ is\\ demonstrated\\ around\\ a\\ loop\\ of\\ bowel\\ in\\ the\\ left\\ upper\\ quadrant\\.\\ \\ these\\ findings\\ are\\ consistent\\ with\\ pneumatosis\\ intestinalis\\ associated\\ with\\ necrotizing\\ enterocolitis\\.\\ \\ \ \(0\)\
+\-\ linear\\ lucencies\\ in\\ the\\ porta\\ hepatis\\ represent\\ the\\ presence\\ of\\ portal\\ venous\\ gas\\.\ \(0\)\
+\-\ lateral\\ decubitus\\ radiograph\\ demonstrates\\ lucency\\ superior\\ to\\ the\\ right\\ lobe\\ of\\ the\\ liver\\ consistent\\ with\\ pneumoperitoneum\\.\\ \\ again\\ demonstrated\\ are\\ bubbly\\ lucencies\\ in\\ the\\ right\\ and\\ left\\ side\\ of\\ the\\ abdomen\\ consistent\\ with\\ pneumatosis\\ intestinalis\\ and\\ branching\\ tubular\\ lucencies\\ over\\ the\\ liver\\ consistent\\ with\\ portal\\ venous\\ gas\\.\ \(0\)\
+\-\ necrotizing\\ enterocolitis\ \(12\)\
+\-\ necrotizing\\ enterocolitis\ \(12\)\
+\-\ 4\\ day\\ old\\ premature\\ infant\\.\ \(1\)\
+\-\ the\\ findings\\ of\\ pneumatosis\\ intestinalis\\ and\\ portal\\ venous\\ gas\\ in\\ this\\ neonate\\ is\\ nearly\\ pathognomonic\\ for\\ necrotizing\\ enterocolitis\\.\\ \\ the\\ lateral\\ decubitus\\ film\\ taken\\ four\\ hours\\ later\\ demonstrating\\ pneumoperitoneum\\ prompted\\ surgical\\ intervention\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ enterocolitis\\:\\ 0\\.12982912475513939\ \(0\)\
+\-\ lucencies\\:\\ 0\\.1171803193109157\ \(0\)\
+\-\ necrotizing\\:\\ 0\\.11398576062805493\ \(0\)\
+\-\ intestinalis\\:\\ 0\\.10064707619657243\ \(0\)\
+\-\ pneumatosis\\:\\ 0\\.0906712782745772\ \(0\)\
+\-\ bubbly\\:\\ 0\\.07850980885612782\ \(0\)\
+\-\ portal\\:\\ 0\\.07710909103594608\ \(0\)\
+\-\ gas\\:\\ 0\\.06978147935319855\ \(0\)\
+\-\ decubitus\\:\\ 0\\.06651184171900008\ \(0\)\
+\-\ pneumoperitoneum\\:\\ 0\\.06396162970398055\ \(0\)\
+\-\ venous\\:\\ 0\\.05317346774497936\ \(0\)\
+\-\ consistent\\:\\ 0\\.04789253185899893\ \(0\)\
+\-\ lucency\\:\\ 0\\.04485907766565422\ \(0\)\
+\-\ demonstrated\\:\\ 0\\.04298434255640516\ \(0\)\
+\-\ hepatis\\:\\ 0\\.037818821980744446\ \(0\)\
+\-\ porta\\:\\ 0\\.0366721322923893\ \(0\)\
+\-\ quadrant\\:\\ 0\\.03437001067412634\ \(0\)\
+\-\ neonate\\:\\ 0\\.03385798094897333\ \(0\)\
+\-\ side\\:\\ 0\\.0338336743058751\ \(0\)\
+\-\ liver\\:\\ 0\\.03367110298094542\ \(0\)\
+\-\ radiograph\\:\\ 0\\.031107984616244144\ \(0\)\
+\-\ branching\\:\\ 0\\.030938977384596243\ \(0\)\
+\-\ bowel\\:\\ 0\\.03062804037582582\ \(0\)\
+\-\ prompted\\:\\ 0\\.030394347785714388\ \(0\)\
+\-\ enteric\\:\\ 0\\.029295079827728925\ \(0\)\
+\-\ portable\\:\\ 0\\.029016278889617882\ \(0\)\
+\-\ intubated\\:\\ 0\\.029016278889617882\ \(0\)\
+\-\ abdomen\\:\\ 0\\.0289301058616651\ \(0\)\
+\-\ loop\\:\\ 0\\.028496440157013733\ \(0\)\
+\-\ curvilinear\\:\\ 0\\.02813541786203355\ \(0\)\
+\-\ nearly\\:\\ 0\\.02688368319881821\ \(0\)\
+\-\ premature\\:\\ 0\\.026609344803467577\ \(0\)\
+\-\ pathognomonic\\:\\ 0\\.02643350675394327\ \(0\)\
+\-\ tip\\:\\ 0\\.025055437857846766\ \(0\)\
+\-\ upper\\:\\ 0\\.023566634347071066\ \(0\)\
+\-\ again\\:\\ 0\\.02346278984373808\ \(0\)\
+\-\ infant\\:\\ 0\\.023113335997147617\ \(0\)\
+\-\ tubular\\:\\ 0\\.022738494382942974\ \(0\)\
+\-\ intervention\\:\\ 0\\.02174218931354424\ \(0\)\
+\-\ represent\\:\\ 0\\.021445276519654465\ \(0\)\
+\-\ demonstrates\\:\\ 0\\.02133281373317927\ \(0\)\
+\-\ four\\:\\ 0\\.021197559714662386\ \(0\)\
+\-\ demonstrating\\:\\ 0\\.021197559714662386\ \(0\)\
+\-\ affected\\:\\ 0\\.021128712065998534\ \(0\)\
+\-\ lateral\\:\\ 0\\.021104777664280577\ \(0\)\
+\-\ findings\\:\\ 0\\.02078670783759954\ \(0\)\
+\-\ linear\\:\\ 0\\.020700351846150218\ \(0\)\
+\-\ tube\\:\\ 0\\.0205747580934715\ \(0\)\
+\-\ surgical\\:\\ 0\\.020528248802873756\ \(0\)\
+\-\ taken\\:\\ 0\\.02036139997668496\ \(0\)\
+\-\ around\\:\\ 0\\.02033156029679267\ \(0\)\
+\-\ are\\:\\ 0\\.019969266386221745\ \(0\)\
+\-\ hours\\:\\ 0\\.019201127477764552\ \(0\)\
+\-\ film\\:\\ 0\\.018755022487079873\ \(0\)\
+\-\ presence\\:\\ 0\\.017724489248326453\ \(0\)\
+\-\ n\\/a\\:\\ 0\\.01768689512776621\ \(0\)\
+\-\ later\\:\\ 0\\.017630963662816707\ \(0\)\
+\-\ left\\:\\ 0\\.01639037604467854\ \(0\)\
+\-\ superior\\:\\ 0\\.015592821126023951\ \(0\)\
+\-\ day\\:\\ 0\\.015502627596302455\ \(0\)\
+\-\ right\\:\\ 0\\.015456543584750002\ \(0\)\
+\-\ resection\\:\\ 0\\.015228089460115536\ \(0\)\
+\-\ in\\:\\ 0\\.014447905033380169\ \(0\)\
+\-\ 4\\:\\ 0\\.013605553743880259\ \(0\)\
+\-\ lobe\\:\\ 0\\.01313900198813448\ \(0\)\
+\-\ these\\:\\ 0\\.0127076839540448\ \(0\)\
+\-\ the\\:\\ 0\\.012639934601474358\ \(0\)\
+\-\ over\\:\\ 0\\.012432243372228357\ \(0\)\
+\-\ chest\\:\\ 0\\.011684165714614392\ \(0\)\
+\-\ associated\\:\\ 0\\.011522643210901153\ \(0\)\
+\-\ small\\:\\ 0\\.011249001625034963\ \(0\)\
+\-\ is\\:\\ 0\\.009639270486595297\ \(0\)\
+\-\ an\\:\\ 0\\.006752370653055599\ \(0\)\
+\-\ this\\:\\ 0\\.0054922126475093315\ \(0\)\
+\-\ of\\:\\ 0\\.005325888036479471\ \(0\)\
+\-\ old\\:\\ 0\\.004999626267784312\ \(0\)\
+\-\ patient\\:\\ 0\\.004894811033807931\ \(0\)\
+\-\ for\\:\\ 0\\.0041663322779583725\ \(0\)\
+\-\ with\\:\\ 0\\.004011571751653362\ \(0\)\
+\-\ and\\:\\ 0\\.0030858686696951737\ \(0\)\
+\-\ to\\:\\ 0\\.002440389191102779\ \(0\)\
+\-\ \\.\\:\\ 0\\.0024342539038180303\ \(0\)\
+\-\ a\\:\\ 0\\.0022662845818205786\ \(0\)\

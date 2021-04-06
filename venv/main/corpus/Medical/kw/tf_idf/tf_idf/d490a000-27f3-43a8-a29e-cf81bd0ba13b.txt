@@ -1,96 +1,90 @@
-Texto: 
-chest radiography: : 
-
-lateral chest radiograph demonstrates soft tissue density superior to the aortic arch causing anterior displacement of the trachea.
-
-contrast enhanced ct: 
-
-the origin of the anomalous artery is evident arising from the posterior superior aortic arch as the last branching vessel of a left-sided aortic arch passing posteriorly to the esophagus in the retrotracheal space.  at a level 1 cm superior to the aortic arch, the aberrant right subclavian artery is located ascending posteriorly in the right superior mediastinum.  
-
-maximal intensity projection demonstrates the aberrant right subclavian artery arising from the medial wall of the aorta as the last branching vessel, passing posterior to the esophagus, and ascending anterolaterally to the spine into the thoracic inlet.
-left-sided aortic arch with an aberrant right subclavian artery
-60 year old male with complaint of tachypnea and tachycardia with high clinical concern for pulmonary embolus.
-
-
-Keywords by value: 
-- arch: 0.1240550040125967
-- aortic: 0.11157845642885438
-- aberrant: 0.09306164978194892
-- subclavian: 0.08440976376218691
-- superior: 0.07041919218204365
-- branching: 0.06986220699747539
-- passing: 0.06902945188602286
-- artery: 0.06566529011892126
-- ascending: 0.059114992507990176
-- retrotracheal: 0.05687431241268709
-- left-sided: 0.05432707403843105
-- vessel: 0.0525236941368161
-- posteriorly: 0.05208251523683831
-- anterolaterally: 0.04978649119547347
-- esophagus: 0.04786545742020539
-- last: 0.047106225161844956
-- arising: 0.0456439195449804
-- inlet: 0.03822675268432473
-- maximal: 0.03585433474803236
-- embolus: 0.03323843082475388
-- tachypnea: 0.03276031487537503
-- anomalous: 0.03217340017727357
-- projection: 0.03203465046617058
-- radiography: 0.03138241745409723
-- tachycardia: 0.03138241745409723
-- trachea: 0.02928291809645447
-- concern: 0.02742690472579782
-- mediastinum: 0.026548632633381173
-- chest: 0.026383600000742177
-- complaint: 0.025470864345231714
-- posterior: 0.025414690950999335
-- origin: 0.02527534596139088
-- evident: 0.025227378358245605
-- demonstrates: 0.02408543486004111
-- 60: 0.02405111024989751
-- causing: 0.023816480287504768
-- aorta: 0.02366467062679384
-- displacement: 0.023627269867540122
-- enhanced: 0.023590084675819155
-- right: 0.023267915073817206
-- located: 0.022691619725280398
-- :: 0.021876286761109646
-- thoracic: 0.021251983910350013
-- intensity: 0.019926907589543876
-- space: 0.018235851658558934
-- spine: 0.018155506748421597
-- density: 0.018139557141031996
-- medial: 0.0176341904102584
-- radiograph: 0.01756095905755718
-- clinical: 0.016963289032683897
-- as: 0.01667841943089197
-- from: 0.016341105976183386
-- pulmonary: 0.016106776194968152
-- the: 0.016054755643001708
-- wall: 0.01596876851766933
-- level: 0.015889606629980207
-- high: 0.015087393942431068
-- cm: 0.014786813663335393
-- anterior: 0.014198663379114435
-- to: 0.01377639059493504
-- soft: 0.01342533396124871
-- 1: 0.01311823463199811
-- into: 0.01311823463199811
-- tissue: 0.013067233473887701
-- contrast: 0.012340488301986486
-- lateral: 0.01191398739112613
-- male: 0.009969067986370794
-- ct: 0.0077116364734970515
-- an: 0.0076236442857079345
-- at: 0.007469439695687955
-- is: 0.007255364882383556
-- year: 0.0061684210920833205
-- old: 0.005644739334595191
-- in: 0.005437383614712967
-- ,: 0.005239549655173304
-- a: 0.005117416797659371
-- for: 0.00470392353963042
-- of: 0.003758187122515756
-- and: 0.0023226968481576574
-- with: 0.002264596956578511
-- .: 0.0011451463257208475
+\-\ Texto\\:\\ \ \(0\)\
+\-\ chest\\ radiography\\:\\ \\:\\ \ \(0\)\
+\-\ lateral\\ chest\\ radiograph\\ demonstrates\\ soft\\ tissue\\ density\\ superior\\ to\\ the\\ aortic\\ arch\\ causing\\ anterior\\ displacement\\ of\\ the\\ trachea\\.\ \(0\)\
+\-\ contrast\\ enhanced\\ ct\\:\\ \ \(0\)\
+\-\ the\\ origin\\ of\\ the\\ anomalous\\ artery\\ is\\ evident\\ arising\\ from\\ the\\ posterior\\ superior\\ aortic\\ arch\\ as\\ the\\ last\\ branching\\ vessel\\ of\\ a\\ left\\-sided\\ aortic\\ arch\\ passing\\ posteriorly\\ to\\ the\\ esophagus\\ in\\ the\\ retrotracheal\\ space\\.\\ \\ at\\ a\\ level\\ 1\\ cm\\ superior\\ to\\ the\\ aortic\\ arch\\,\\ the\\ aberrant\\ right\\ subclavian\\ artery\\ is\\ located\\ ascending\\ posteriorly\\ in\\ the\\ right\\ superior\\ mediastinum\\.\\ \\ \ \(0\)\
+\-\ maximal\\ intensity\\ projection\\ demonstrates\\ the\\ aberrant\\ right\\ subclavian\\ artery\\ arising\\ from\\ the\\ medial\\ wall\\ of\\ the\\ aorta\\ as\\ the\\ last\\ branching\\ vessel\\,\\ passing\\ posterior\\ to\\ the\\ esophagus\\,\\ and\\ ascending\\ anterolaterally\\ to\\ the\\ spine\\ into\\ the\\ thoracic\\ inlet\\.\ \(0\)\
+\-\ left\\-sided\\ aortic\\ arch\\ with\\ an\\ aberrant\\ right\\ subclavian\\ artery\ \(0\)\
+\-\ 60\\ year\\ old\\ male\\ with\\ complaint\\ of\\ tachypnea\\ and\\ tachycardia\\ with\\ high\\ clinical\\ concern\\ for\\ pulmonary\\ embolus\\.\ \(1\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ arch\\:\\ 0\\.1240550040125967\ \(0\)\
+\-\ aortic\\:\\ 0\\.11157845642885438\ \(0\)\
+\-\ aberrant\\:\\ 0\\.09306164978194892\ \(0\)\
+\-\ subclavian\\:\\ 0\\.08440976376218691\ \(0\)\
+\-\ superior\\:\\ 0\\.07041919218204365\ \(0\)\
+\-\ branching\\:\\ 0\\.06986220699747539\ \(0\)\
+\-\ passing\\:\\ 0\\.06902945188602286\ \(0\)\
+\-\ artery\\:\\ 0\\.06566529011892126\ \(0\)\
+\-\ ascending\\:\\ 0\\.059114992507990176\ \(0\)\
+\-\ retrotracheal\\:\\ 0\\.05687431241268709\ \(0\)\
+\-\ left\\-sided\\:\\ 0\\.05432707403843105\ \(0\)\
+\-\ vessel\\:\\ 0\\.0525236941368161\ \(0\)\
+\-\ posteriorly\\:\\ 0\\.05208251523683831\ \(0\)\
+\-\ anterolaterally\\:\\ 0\\.04978649119547347\ \(0\)\
+\-\ esophagus\\:\\ 0\\.04786545742020539\ \(0\)\
+\-\ last\\:\\ 0\\.047106225161844956\ \(0\)\
+\-\ arising\\:\\ 0\\.0456439195449804\ \(0\)\
+\-\ inlet\\:\\ 0\\.03822675268432473\ \(0\)\
+\-\ maximal\\:\\ 0\\.03585433474803236\ \(0\)\
+\-\ embolus\\:\\ 0\\.03323843082475388\ \(0\)\
+\-\ tachypnea\\:\\ 0\\.03276031487537503\ \(0\)\
+\-\ anomalous\\:\\ 0\\.03217340017727357\ \(0\)\
+\-\ projection\\:\\ 0\\.03203465046617058\ \(0\)\
+\-\ radiography\\:\\ 0\\.03138241745409723\ \(0\)\
+\-\ tachycardia\\:\\ 0\\.03138241745409723\ \(0\)\
+\-\ trachea\\:\\ 0\\.02928291809645447\ \(0\)\
+\-\ concern\\:\\ 0\\.02742690472579782\ \(0\)\
+\-\ mediastinum\\:\\ 0\\.026548632633381173\ \(0\)\
+\-\ chest\\:\\ 0\\.026383600000742177\ \(0\)\
+\-\ complaint\\:\\ 0\\.025470864345231714\ \(0\)\
+\-\ posterior\\:\\ 0\\.025414690950999335\ \(0\)\
+\-\ origin\\:\\ 0\\.02527534596139088\ \(0\)\
+\-\ evident\\:\\ 0\\.025227378358245605\ \(0\)\
+\-\ demonstrates\\:\\ 0\\.02408543486004111\ \(0\)\
+\-\ 60\\:\\ 0\\.02405111024989751\ \(0\)\
+\-\ causing\\:\\ 0\\.023816480287504768\ \(0\)\
+\-\ aorta\\:\\ 0\\.02366467062679384\ \(0\)\
+\-\ displacement\\:\\ 0\\.023627269867540122\ \(0\)\
+\-\ enhanced\\:\\ 0\\.023590084675819155\ \(0\)\
+\-\ right\\:\\ 0\\.023267915073817206\ \(0\)\
+\-\ located\\:\\ 0\\.022691619725280398\ \(0\)\
+\-\ \\:\\:\\ 0\\.021876286761109646\ \(0\)\
+\-\ thoracic\\:\\ 0\\.021251983910350013\ \(0\)\
+\-\ intensity\\:\\ 0\\.019926907589543876\ \(0\)\
+\-\ space\\:\\ 0\\.018235851658558934\ \(0\)\
+\-\ spine\\:\\ 0\\.018155506748421597\ \(0\)\
+\-\ density\\:\\ 0\\.018139557141031996\ \(0\)\
+\-\ medial\\:\\ 0\\.0176341904102584\ \(0\)\
+\-\ radiograph\\:\\ 0\\.01756095905755718\ \(0\)\
+\-\ clinical\\:\\ 0\\.016963289032683897\ \(0\)\
+\-\ as\\:\\ 0\\.01667841943089197\ \(0\)\
+\-\ from\\:\\ 0\\.016341105976183386\ \(0\)\
+\-\ pulmonary\\:\\ 0\\.016106776194968152\ \(0\)\
+\-\ the\\:\\ 0\\.016054755643001708\ \(0\)\
+\-\ wall\\:\\ 0\\.01596876851766933\ \(0\)\
+\-\ level\\:\\ 0\\.015889606629980207\ \(0\)\
+\-\ high\\:\\ 0\\.015087393942431068\ \(0\)\
+\-\ cm\\:\\ 0\\.014786813663335393\ \(0\)\
+\-\ anterior\\:\\ 0\\.014198663379114435\ \(0\)\
+\-\ to\\:\\ 0\\.01377639059493504\ \(0\)\
+\-\ soft\\:\\ 0\\.01342533396124871\ \(0\)\
+\-\ 1\\:\\ 0\\.01311823463199811\ \(0\)\
+\-\ into\\:\\ 0\\.01311823463199811\ \(0\)\
+\-\ tissue\\:\\ 0\\.013067233473887701\ \(0\)\
+\-\ contrast\\:\\ 0\\.012340488301986486\ \(0\)\
+\-\ lateral\\:\\ 0\\.01191398739112613\ \(0\)\
+\-\ male\\:\\ 0\\.009969067986370794\ \(0\)\
+\-\ ct\\:\\ 0\\.0077116364734970515\ \(0\)\
+\-\ an\\:\\ 0\\.0076236442857079345\ \(0\)\
+\-\ at\\:\\ 0\\.007469439695687955\ \(0\)\
+\-\ is\\:\\ 0\\.007255364882383556\ \(0\)\
+\-\ year\\:\\ 0\\.0061684210920833205\ \(0\)\
+\-\ old\\:\\ 0\\.005644739334595191\ \(0\)\
+\-\ in\\:\\ 0\\.005437383614712967\ \(0\)\
+\-\ \\,\\:\\ 0\\.005239549655173304\ \(0\)\
+\-\ a\\:\\ 0\\.005117416797659371\ \(0\)\
+\-\ for\\:\\ 0\\.00470392353963042\ \(0\)\
+\-\ of\\:\\ 0\\.003758187122515756\ \(0\)\
+\-\ and\\:\\ 0\\.0023226968481576574\ \(0\)\
+\-\ with\\:\\ 0\\.002264596956578511\ \(0\)\
+\-\ \\.\\:\\ 0\\.0011451463257208475\ \(0\)\

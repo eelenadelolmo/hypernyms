@@ -1,103 +1,101 @@
-Texto: 
-neurologic exam shows spasticity, very brisk reflexes, and up-going toes.  an mri examination of the brain was ordered, to include a t2* image sequence.
-â€¢ abnormal t2 hypointensity in the globus pallidus
-â€¢ abnormal t2 hyperintensity in the center creating an "eye of the tiger" sign appearance
-pank 2 (hallervorden-spatz) pkan (pantothenate kinase associated neurodegeneration)
-â€¢ nbia 1 - pkan ("hallervorden-spatz" w/pank2)
-â€¢ nbia 1 - pkan ("hallervorden-spatz" w/o pank2)
-â€¢ nbia 2 - ferritin light-chain disease
-â€¢ inad- infantile neuroaxonal dystrophy
-â€¢ aceruloplasminemia
-5 y.o. girl with a history of gait problems presents with progressive dystonia and dysarthria, mild rigidity, and choreoathetosis.  no hx of seizures, infection, etc.
-we made up this history, based on the typical and common features of the pank2 mutation positive or pkan neurodegeneration with brain iron accumulation - nbia type 1 disease - formerly known as hallervorden-spatz disease.  the specific mutation (pank2) is strongly linked to the specific mr appearance of the "eye of the tiger".
-
-
-Keywords by value: 
-- pank2: 0.3672127668037713
-- pkan: 0.3508914027514162
-- nbia: 0.3508914027514162
-- tiger: 0.18360638340188565
-- neurodegeneration: 0.1754457013757081
-- mutation: 0.12910221976315922
-- the: 0.11454389977905523
-- t2: 0.09908015078912444
-- eye: 0.09184613355810949
-- pank: 0.09180319170094282
-- pantothenate: 0.09180319170094282
-- neuroaxonal: 0.09180319170094282
-- aceruloplasminemia: 0.09180319170094282
-- dystonia: 0.09180319170094282
-- choreoathetosis: 0.09180319170094282
-- specific: 0.08699986099548039
-- formerly: 0.07919618799628161
-- of: 0.07863741620632426
-- ferritin: 0.07785241363206345
-- spasticity: 0.07666712064032559
-- kinase: 0.07560683992910808
-- pallidus: 0.07464769935734597
-- disease: 0.07228981744117881
-- brain: 0.0715723284390614
-- globus: 0.0702669372538452
-- dystrophy: 0.06969173160588589
-- rigidity: 0.06969173160588589
-- appearance: 0.06921457428154569
-- dysarthria: 0.06914763373901346
-- abnormal: 0.06897638548581905
-- brisk: 0.06863145089466838
-- creating: 0.06814045794875315
-- infantile: 0.06561139059279712
-- hypointensity: 0.06422113411744833
-- iron: 0.0632915482194055
-- linked: 0.0632915482194055
-- toes: 0.06092827306746692
-- sequence: 0.057916884338013536
-- strongly: 0.05774485691534106
-- hyperintensity: 0.057245745083008635
-- up: 0.056792242413984964
-- etc: 0.05646524871433022
-- accumulation: 0.0554652278189097
-- we: 0.05519685567013408
-- hx: 0.05223581817187703
-- center: 0.051944106176918386
-- ordered: 0.050433991510364616
-- reflexes: 0.050189525419878256
-- problems: 0.049794833296581596
-- gait: 0.04971771905588228
-- and: 0.047448213248579445
-- seizures: 0.04686115429048506
-- features: 0.04619001503548017
-- neurologic: 0.045870516481215894
-- typical: 0.04436426911471672
-- made: 0.04427441709665608
-- progressive: 0.04396610626913415
-- an: 0.04390300624330683
-- history: 0.0438641140218588
-- based: 0.04158267617521254
-- very: 0.04118008812434856
-- girl: 0.04026889694249546
-- sign: 0.039742205629353655
-- type: 0.038509510952384085
-- positive: 0.03782698780570339
-- known: 0.03716573658816592
-- mr: 0.037143691980953505
-- examination: 0.036733766445864895
-- image: 0.03671264711142262
-- infection: 0.034675979278946265
-- include: 0.03415548941156592
-- with: 0.033721886590186836
-- shows: 0.03369180546251357
-- common: 0.03255524554019256
-- mild: 0.032541297708204714
-- associated: 0.0302567726078899
-- mri: 0.029466665416466555
-- exam: 0.028897737063266975
-- to: 0.028702305617390827
-- in: 0.028561032928586548
-- presents: 0.027614798086639573
-- as: 0.02306165084450295
-- was: 0.020006232540641787
-- or: 0.019970198990101728
-- this: 0.019725413179224306
-- no: 0.01866747305626441
-- on: 0.017337314150062802
-- is: 0.015720766315225065
+\-\ Texto\\:\\ \ \(0\)\
+\-\ neurologic\\ exam\\ shows\\ spasticity\\,\\ very\\ brisk\\ reflexes\\,\\ and\\ up\\-going\\ toes\\.\\ \\ an\\ mri\\ examination\\ of\\ the\\ brain\\ was\\ ordered\\,\\ to\\ include\\ a\\ t2\\*\\ image\\ sequence\\.\ \(0\)\
+\-\ \\â\\€\\¢\\ abnormal\\ t2\\ hypointensity\\ in\\ the\\ globus\\ pallidus\ \(0\)\
+\-\ \\â\\€\\¢\\ abnormal\\ t2\\ hyperintensity\\ in\\ the\\ center\\ creating\\ an\\ \\"eye\\ of\\ the\\ tiger\\"\\ sign\\ appearance\ \(0\)\
+\-\ pank\\ 2\\ \\(hallervorden\\-spatz\\)\\ pkan\\ \\(pantothenate\\ kinase\\ associated\\ neurodegeneration\\)\ \(0\)\
+\-\ \\â\\€\\¢\\ nbia\\ 1\\ \\-\\ pkan\\ \\(\\"hallervorden\\-spatz\\"\\ w\\/pank2\\)\ \(0\)\
+\-\ \\â\\€\\¢\\ nbia\\ 1\\ \\-\\ pkan\\ \\(\\"hallervorden\\-spatz\\"\\ w\\/o\\ pank2\\)\ \(0\)\
+\-\ \\â\\€\\¢\\ nbia\\ 2\\ \\-\\ ferritin\\ light\\-chain\\ disease\ \(0\)\
+\-\ \\â\\€\\¢\\ inad\\-\\ infantile\\ neuroaxonal\\ dystrophy\ \(0\)\
+\-\ \\â\\€\\¢\\ aceruloplasminemia\ \(0\)\
+\-\ 5\\ y\\.o\\.\\ girl\\ with\\ a\\ history\\ of\\ gait\\ problems\\ presents\\ with\\ progressive\\ dystonia\\ and\\ dysarthria\\,\\ mild\\ rigidity\\,\\ and\\ choreoathetosis\\.\\ \\ no\\ hx\\ of\\ seizures\\,\\ infection\\,\\ etc\\.\ \(0\)\
+\-\ we\\ made\\ up\\ this\\ history\\,\\ based\\ on\\ the\\ typical\\ and\\ common\\ features\\ of\\ the\\ pank2\\ mutation\\ positive\\ or\\ pkan\\ neurodegeneration\\ with\\ brain\\ iron\\ accumulation\\ \\-\\ nbia\\ type\\ 1\\ disease\\ \\-\\ formerly\\ known\\ as\\ hallervorden\\-spatz\\ disease\\.\\ \\ the\\ specific\\ mutation\\ \\(pank2\\)\\ is\\ strongly\\ linked\\ to\\ the\\ specific\\ mr\\ appearance\\ of\\ the\\ \\"eye\\ of\\ the\\ tiger\\"\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ pank2\\:\\ 0\\.3672127668037713\ \(0\)\
+\-\ pkan\\:\\ 0\\.3508914027514162\ \(0\)\
+\-\ nbia\\:\\ 0\\.3508914027514162\ \(0\)\
+\-\ tiger\\:\\ 0\\.18360638340188565\ \(0\)\
+\-\ neurodegeneration\\:\\ 0\\.1754457013757081\ \(0\)\
+\-\ mutation\\:\\ 0\\.12910221976315922\ \(0\)\
+\-\ the\\:\\ 0\\.11454389977905523\ \(0\)\
+\-\ t2\\:\\ 0\\.09908015078912444\ \(0\)\
+\-\ eye\\:\\ 0\\.09184613355810949\ \(0\)\
+\-\ pank\\:\\ 0\\.09180319170094282\ \(0\)\
+\-\ pantothenate\\:\\ 0\\.09180319170094282\ \(0\)\
+\-\ neuroaxonal\\:\\ 0\\.09180319170094282\ \(0\)\
+\-\ aceruloplasminemia\\:\\ 0\\.09180319170094282\ \(0\)\
+\-\ dystonia\\:\\ 0\\.09180319170094282\ \(0\)\
+\-\ choreoathetosis\\:\\ 0\\.09180319170094282\ \(0\)\
+\-\ specific\\:\\ 0\\.08699986099548039\ \(0\)\
+\-\ formerly\\:\\ 0\\.07919618799628161\ \(0\)\
+\-\ of\\:\\ 0\\.07863741620632426\ \(0\)\
+\-\ ferritin\\:\\ 0\\.07785241363206345\ \(0\)\
+\-\ spasticity\\:\\ 0\\.07666712064032559\ \(0\)\
+\-\ kinase\\:\\ 0\\.07560683992910808\ \(0\)\
+\-\ pallidus\\:\\ 0\\.07464769935734597\ \(0\)\
+\-\ disease\\:\\ 0\\.07228981744117881\ \(0\)\
+\-\ brain\\:\\ 0\\.0715723284390614\ \(0\)\
+\-\ globus\\:\\ 0\\.0702669372538452\ \(0\)\
+\-\ dystrophy\\:\\ 0\\.06969173160588589\ \(0\)\
+\-\ rigidity\\:\\ 0\\.06969173160588589\ \(0\)\
+\-\ appearance\\:\\ 0\\.06921457428154569\ \(0\)\
+\-\ dysarthria\\:\\ 0\\.06914763373901346\ \(0\)\
+\-\ abnormal\\:\\ 0\\.06897638548581905\ \(0\)\
+\-\ brisk\\:\\ 0\\.06863145089466838\ \(0\)\
+\-\ creating\\:\\ 0\\.06814045794875315\ \(0\)\
+\-\ infantile\\:\\ 0\\.06561139059279712\ \(0\)\
+\-\ hypointensity\\:\\ 0\\.06422113411744833\ \(0\)\
+\-\ iron\\:\\ 0\\.0632915482194055\ \(0\)\
+\-\ linked\\:\\ 0\\.0632915482194055\ \(0\)\
+\-\ toes\\:\\ 0\\.06092827306746692\ \(0\)\
+\-\ sequence\\:\\ 0\\.057916884338013536\ \(0\)\
+\-\ strongly\\:\\ 0\\.05774485691534106\ \(0\)\
+\-\ hyperintensity\\:\\ 0\\.057245745083008635\ \(0\)\
+\-\ up\\:\\ 0\\.056792242413984964\ \(0\)\
+\-\ etc\\:\\ 0\\.05646524871433022\ \(0\)\
+\-\ accumulation\\:\\ 0\\.0554652278189097\ \(0\)\
+\-\ we\\:\\ 0\\.05519685567013408\ \(0\)\
+\-\ hx\\:\\ 0\\.05223581817187703\ \(0\)\
+\-\ center\\:\\ 0\\.051944106176918386\ \(0\)\
+\-\ ordered\\:\\ 0\\.050433991510364616\ \(0\)\
+\-\ reflexes\\:\\ 0\\.050189525419878256\ \(0\)\
+\-\ problems\\:\\ 0\\.049794833296581596\ \(0\)\
+\-\ gait\\:\\ 0\\.04971771905588228\ \(0\)\
+\-\ and\\:\\ 0\\.047448213248579445\ \(0\)\
+\-\ seizures\\:\\ 0\\.04686115429048506\ \(0\)\
+\-\ features\\:\\ 0\\.04619001503548017\ \(0\)\
+\-\ neurologic\\:\\ 0\\.045870516481215894\ \(0\)\
+\-\ typical\\:\\ 0\\.04436426911471672\ \(0\)\
+\-\ made\\:\\ 0\\.04427441709665608\ \(0\)\
+\-\ progressive\\:\\ 0\\.04396610626913415\ \(0\)\
+\-\ an\\:\\ 0\\.04390300624330683\ \(0\)\
+\-\ history\\:\\ 0\\.0438641140218588\ \(0\)\
+\-\ based\\:\\ 0\\.04158267617521254\ \(0\)\
+\-\ very\\:\\ 0\\.04118008812434856\ \(0\)\
+\-\ girl\\:\\ 0\\.04026889694249546\ \(0\)\
+\-\ sign\\:\\ 0\\.039742205629353655\ \(0\)\
+\-\ type\\:\\ 0\\.038509510952384085\ \(0\)\
+\-\ positive\\:\\ 0\\.03782698780570339\ \(0\)\
+\-\ known\\:\\ 0\\.03716573658816592\ \(0\)\
+\-\ mr\\:\\ 0\\.037143691980953505\ \(0\)\
+\-\ examination\\:\\ 0\\.036733766445864895\ \(0\)\
+\-\ image\\:\\ 0\\.03671264711142262\ \(0\)\
+\-\ infection\\:\\ 0\\.034675979278946265\ \(0\)\
+\-\ include\\:\\ 0\\.03415548941156592\ \(0\)\
+\-\ with\\:\\ 0\\.033721886590186836\ \(0\)\
+\-\ shows\\:\\ 0\\.03369180546251357\ \(0\)\
+\-\ common\\:\\ 0\\.03255524554019256\ \(0\)\
+\-\ mild\\:\\ 0\\.032541297708204714\ \(0\)\
+\-\ associated\\:\\ 0\\.0302567726078899\ \(0\)\
+\-\ mri\\:\\ 0\\.029466665416466555\ \(0\)\
+\-\ exam\\:\\ 0\\.028897737063266975\ \(0\)\
+\-\ to\\:\\ 0\\.028702305617390827\ \(0\)\
+\-\ in\\:\\ 0\\.028561032928586548\ \(0\)\
+\-\ presents\\:\\ 0\\.027614798086639573\ \(0\)\
+\-\ as\\:\\ 0\\.02306165084450295\ \(0\)\
+\-\ was\\:\\ 0\\.020006232540641787\ \(0\)\
+\-\ or\\:\\ 0\\.019970198990101728\ \(0\)\
+\-\ this\\:\\ 0\\.019725413179224306\ \(0\)\
+\-\ no\\:\\ 0\\.01866747305626441\ \(0\)\
+\-\ on\\:\\ 0\\.017337314150062802\ \(0\)\
+\-\ is\\:\\ 0\\.015720766315225065\ \(0\)\

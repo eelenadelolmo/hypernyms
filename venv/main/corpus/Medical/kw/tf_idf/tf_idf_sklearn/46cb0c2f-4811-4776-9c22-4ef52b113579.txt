@@ -1,104 +1,101 @@
-Texto: 
-noncontributory
-chest radiograph-pa image from a two view study (lateral not shown) shows an irregular apical pleural thickening and a heterogeneous and predominantly lucent process at the right apex with 2nd and 3rd rib posterior rib destruction.
-
-contrast-enhanced ct chest showed a lobular hypodense and minimally enhancing lesion arising from the region of the posterior right lung apex with extension into the adjacent posterior chest wall with extension to involve several levels of c-spine neuroforamina and likely involves the brachial plexus and intercostals nerves at that level.
-pancoast tumor (poorly differentiated adenocarcinoma)
-mesothelioma
-lymphoma
-plasmacytoma
-metastatic malignancies (thyroid, larynx)
-lymphomatoid granulomatosis
-cervical rib syndrome
-tuberculosis
-fungal infections
-38-year-old longstanding female smoker presented with right upper extremity radicular symptoms.
-
-
-Keywords by value: 
-- rib: 0.30695271288900455
-- apex: 0.2105585050111576
-- chest: 0.17738245270598993
-- posterior: 0.17377262315574923
-- neuroforamina: 0.16552604770772456
-- intercostals: 0.16552604770772456
-- pancoast: 0.1611442185408425
-- lymphomatoid: 0.1611442185408425
-- extension: 0.1585875067035237
-- larynx: 0.15191484310498485
-- and: 0.13887985359071447
-- plasmacytoma: 0.1329637257915839
-- longstanding: 0.1303415942199992
-- radicular: 0.12662548363230153
-- malignancies: 0.12595976505311712
-- brachial: 0.12531587729039007
-- mesothelioma: 0.12408817645775908
-- granulomatosis: 0.12350195927211012
-- apical: 0.11515860558400168
-- smoker: 0.11478455965792643
-- lobular: 0.11370336086835041
-- the: 0.11175580660739934
-- right: 0.11141336993287412
-- hypodense: 0.10876834533501357
-- lucent: 0.10823031668245763
-- differentiated: 0.10694640737895382
-- minimally: 0.10621451580578925
-- nerves: 0.10460592423151872
-- 2nd: 0.10251492757277342
-- 3rd: 0.10231757096300152
-- destruction: 0.10212217813315835
-- poorly: 0.10117335505518671
-- plexus: 0.10098897043868288
-- fungal: 0.10026827240021169
-- noncontributory: 0.09974459290239064
-- infections: 0.09890168163821539
-- involve: 0.09857439377228544
-- tuberculosis: 0.09857439377228544
-- predominantly: 0.09809346808491064
-- involves: 0.09747002469402602
-- adenocarcinoma: 0.09155421096153642
-- arising: 0.08900315010589877
-- from: 0.08897565598339566
-- levels: 0.08880479672866486
-- thyroid: 0.08803083182617125
-- with: 0.08773618134715493
-- shown: 0.08683477776490377
-- irregular: 0.08648095166287098
-- at: 0.08461938357600922
-- pleural: 0.08432453719337972
-- process: 0.08401283513477442
-- view: 0.08202911594276585
-- heterogeneous: 0.08107436039109381
-- extremity: 0.08067897487168407
-- cervical: 0.08022753390063084
-- thickening: 0.07620602341887289
-- study: 0.07470630118164505
-- showed: 0.07461027743342773
-- several: 0.07349319045101589
-- adjacent: 0.07260849951668465
-- image: 0.07163806188795514
-- enhancing: 0.07017105859867052
-- lung: 0.06814035453002912
-- wall: 0.06814035453002912
-- level: 0.06766387457900586
-- syndrome: 0.06752983434947003
-- region: 0.06700263980333011
-- likely: 0.066937724645433
-- lymphoma: 0.06671219678226799
-- two: 0.0665209275683115
-- shows: 0.06574343815402865
-- presented: 0.06532112472954849
-- metastatic: 0.06143492637430076
-- symptoms: 0.06128856432493922
-- upper: 0.05985937580849454
-- into: 0.05954553871370334
-- tumor: 0.05859063239141497
-- lateral: 0.0555908580776664
-- female: 0.05405266997626615
-- lesion: 0.0537027471276265
-- that: 0.04861054848635407
-- not: 0.04422107506424761
-- of: 0.043841895151671285
-- an: 0.042834370792983946
-- ct: 0.0426453720541111
-- to: 0.028003667781094102
+\-\ Texto\\:\\ \ \(0\)\
+\-\ noncontributory\ \(52\)\
+\-\ chest\\ radiograph\\-pa\\ image\\ from\\ a\\ two\\ view\\ study\\ \\(lateral\\ not\\ shown\\)\\ shows\\ an\\ irregular\\ apical\\ pleural\\ thickening\\ and\\ a\\ heterogeneous\\ and\\ predominantly\\ lucent\\ process\\ at\\ the\\ right\\ apex\\ with\\ 2nd\\ and\\ 3rd\\ rib\\ posterior\\ rib\\ destruction\\.\ \(0\)\
+\-\ contrast\\-enhanced\\ ct\\ chest\\ showed\\ a\\ lobular\\ hypodense\\ and\\ minimally\\ enhancing\\ lesion\\ arising\\ from\\ the\\ region\\ of\\ the\\ posterior\\ right\\ lung\\ apex\\ with\\ extension\\ into\\ the\\ adjacent\\ posterior\\ chest\\ wall\\ with\\ extension\\ to\\ involve\\ several\\ levels\\ of\\ c\\-spine\\ neuroforamina\\ and\\ likely\\ involves\\ the\\ brachial\\ plexus\\ and\\ intercostals\\ nerves\\ at\\ that\\ level\\.\ \(0\)\
+\-\ pancoast\\ tumor\\ \\(poorly\\ differentiated\\ adenocarcinoma\\)\ \(0\)\
+\-\ mesothelioma\ \(67\)\
+\-\ lymphoma\ \(373\)\
+\-\ plasmacytoma\ \(10\)\
+\-\ metastatic\\ malignancies\\ \\(thyroid\\,\\ larynx\\)\ \(0\)\
+\-\ lymphomatoid\\ granulomatosis\ \(0\)\
+\-\ cervical\\ rib\\ syndrome\ \(0\)\
+\-\ tuberculosis\ \(73\)\
+\-\ fungal\\ infections\ \(5\)\
+\-\ 38\\-year\\-old\\ longstanding\\ female\\ smoker\\ presented\\ with\\ right\\ upper\\ extremity\\ radicular\\ symptoms\\.\ \(1\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ rib\\:\\ 0\\.30695271288900455\ \(0\)\
+\-\ apex\\:\\ 0\\.2105585050111576\ \(0\)\
+\-\ chest\\:\\ 0\\.17738245270598993\ \(0\)\
+\-\ posterior\\:\\ 0\\.17377262315574923\ \(0\)\
+\-\ neuroforamina\\:\\ 0\\.16552604770772456\ \(0\)\
+\-\ intercostals\\:\\ 0\\.16552604770772456\ \(0\)\
+\-\ pancoast\\:\\ 0\\.1611442185408425\ \(0\)\
+\-\ lymphomatoid\\:\\ 0\\.1611442185408425\ \(0\)\
+\-\ extension\\:\\ 0\\.1585875067035237\ \(0\)\
+\-\ larynx\\:\\ 0\\.15191484310498485\ \(0\)\
+\-\ and\\:\\ 0\\.13887985359071447\ \(0\)\
+\-\ plasmacytoma\\:\\ 0\\.1329637257915839\ \(0\)\
+\-\ longstanding\\:\\ 0\\.1303415942199992\ \(0\)\
+\-\ radicular\\:\\ 0\\.12662548363230153\ \(0\)\
+\-\ malignancies\\:\\ 0\\.12595976505311712\ \(0\)\
+\-\ brachial\\:\\ 0\\.12531587729039007\ \(0\)\
+\-\ mesothelioma\\:\\ 0\\.12408817645775908\ \(0\)\
+\-\ granulomatosis\\:\\ 0\\.12350195927211012\ \(0\)\
+\-\ apical\\:\\ 0\\.11515860558400168\ \(0\)\
+\-\ smoker\\:\\ 0\\.11478455965792643\ \(0\)\
+\-\ lobular\\:\\ 0\\.11370336086835041\ \(0\)\
+\-\ the\\:\\ 0\\.11175580660739934\ \(0\)\
+\-\ right\\:\\ 0\\.11141336993287412\ \(0\)\
+\-\ hypodense\\:\\ 0\\.10876834533501357\ \(0\)\
+\-\ lucent\\:\\ 0\\.10823031668245763\ \(0\)\
+\-\ differentiated\\:\\ 0\\.10694640737895382\ \(0\)\
+\-\ minimally\\:\\ 0\\.10621451580578925\ \(0\)\
+\-\ nerves\\:\\ 0\\.10460592423151872\ \(0\)\
+\-\ 2nd\\:\\ 0\\.10251492757277342\ \(0\)\
+\-\ 3rd\\:\\ 0\\.10231757096300152\ \(0\)\
+\-\ destruction\\:\\ 0\\.10212217813315835\ \(0\)\
+\-\ poorly\\:\\ 0\\.10117335505518671\ \(0\)\
+\-\ plexus\\:\\ 0\\.10098897043868288\ \(0\)\
+\-\ fungal\\:\\ 0\\.10026827240021169\ \(0\)\
+\-\ noncontributory\\:\\ 0\\.09974459290239064\ \(0\)\
+\-\ infections\\:\\ 0\\.09890168163821539\ \(0\)\
+\-\ involve\\:\\ 0\\.09857439377228544\ \(0\)\
+\-\ tuberculosis\\:\\ 0\\.09857439377228544\ \(0\)\
+\-\ predominantly\\:\\ 0\\.09809346808491064\ \(0\)\
+\-\ involves\\:\\ 0\\.09747002469402602\ \(0\)\
+\-\ adenocarcinoma\\:\\ 0\\.09155421096153642\ \(0\)\
+\-\ arising\\:\\ 0\\.08900315010589877\ \(0\)\
+\-\ from\\:\\ 0\\.08897565598339566\ \(0\)\
+\-\ levels\\:\\ 0\\.08880479672866486\ \(0\)\
+\-\ thyroid\\:\\ 0\\.08803083182617125\ \(0\)\
+\-\ with\\:\\ 0\\.08773618134715493\ \(0\)\
+\-\ shown\\:\\ 0\\.08683477776490377\ \(0\)\
+\-\ irregular\\:\\ 0\\.08648095166287098\ \(0\)\
+\-\ at\\:\\ 0\\.08461938357600922\ \(0\)\
+\-\ pleural\\:\\ 0\\.08432453719337972\ \(0\)\
+\-\ process\\:\\ 0\\.08401283513477442\ \(0\)\
+\-\ view\\:\\ 0\\.08202911594276585\ \(0\)\
+\-\ heterogeneous\\:\\ 0\\.08107436039109381\ \(0\)\
+\-\ extremity\\:\\ 0\\.08067897487168407\ \(0\)\
+\-\ cervical\\:\\ 0\\.08022753390063084\ \(0\)\
+\-\ thickening\\:\\ 0\\.07620602341887289\ \(0\)\
+\-\ study\\:\\ 0\\.07470630118164505\ \(0\)\
+\-\ showed\\:\\ 0\\.07461027743342773\ \(0\)\
+\-\ several\\:\\ 0\\.07349319045101589\ \(0\)\
+\-\ adjacent\\:\\ 0\\.07260849951668465\ \(0\)\
+\-\ image\\:\\ 0\\.07163806188795514\ \(0\)\
+\-\ enhancing\\:\\ 0\\.07017105859867052\ \(0\)\
+\-\ lung\\:\\ 0\\.06814035453002912\ \(0\)\
+\-\ wall\\:\\ 0\\.06814035453002912\ \(0\)\
+\-\ level\\:\\ 0\\.06766387457900586\ \(0\)\
+\-\ syndrome\\:\\ 0\\.06752983434947003\ \(0\)\
+\-\ region\\:\\ 0\\.06700263980333011\ \(0\)\
+\-\ likely\\:\\ 0\\.066937724645433\ \(0\)\
+\-\ lymphoma\\:\\ 0\\.06671219678226799\ \(0\)\
+\-\ two\\:\\ 0\\.0665209275683115\ \(0\)\
+\-\ shows\\:\\ 0\\.06574343815402865\ \(0\)\
+\-\ presented\\:\\ 0\\.06532112472954849\ \(0\)\
+\-\ metastatic\\:\\ 0\\.06143492637430076\ \(0\)\
+\-\ symptoms\\:\\ 0\\.06128856432493922\ \(0\)\
+\-\ upper\\:\\ 0\\.05985937580849454\ \(0\)\
+\-\ into\\:\\ 0\\.05954553871370334\ \(0\)\
+\-\ tumor\\:\\ 0\\.05859063239141497\ \(0\)\
+\-\ lateral\\:\\ 0\\.0555908580776664\ \(0\)\
+\-\ female\\:\\ 0\\.05405266997626615\ \(0\)\
+\-\ lesion\\:\\ 0\\.0537027471276265\ \(0\)\
+\-\ that\\:\\ 0\\.04861054848635407\ \(0\)\
+\-\ not\\:\\ 0\\.04422107506424761\ \(0\)\
+\-\ of\\:\\ 0\\.043841895151671285\ \(0\)\
+\-\ an\\:\\ 0\\.042834370792983946\ \(0\)\
+\-\ ct\\:\\ 0\\.0426453720541111\ \(0\)\
+\-\ to\\:\\ 0\\.028003667781094102\ \(0\)\

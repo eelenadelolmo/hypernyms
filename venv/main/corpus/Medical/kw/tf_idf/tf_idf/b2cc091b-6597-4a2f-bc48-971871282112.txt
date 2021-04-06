@@ -1,103 +1,101 @@
-Texto: 
-physical exam unremarkable.  abi exam suggestive of bilateral popliteal artery entrapment syndrome.
-the patient is scheduled for surgical intervention.
-the four images provided demonstrate bilateral normal-appearing popliteal arteries in the neutral position.  with active plantarflexion, both popliteal arteries demonstrate significant tapering of the vessel lumens.  the smooth character of the tapering suggests external compression. both lower legs demonstrated slower than normal pulsatile flow in the runoff phase distal to the popliteal fossa while in active plantarflexion (not shown).
-bilateral popliteal artery entrapment syndrome
-popliteal artery entrapment syndrome
-peripheral vascular disease
-44 year old female complains of months of bilateral lower leg pain, especially apparent after exercise.  patient is a smoker, but otherwise has no risk factors for vascular disease.  the patient is not an athlete.
-this patient was a middle-aged non-athlete. this is not the prototypical patient for this condition.
-
-
-Keywords by value: 
-- popliteal: 0.19788276169070493
-- entrapment: 0.09945096518450204
-- plantarflexion: 0.08947463636609482
-- tapering: 0.07479082095286699
-- abi: 0.05614979887876751
-- non-athlete: 0.05614979887876751
-- bilateral: 0.052836120492087746
-- prototypical: 0.04915226837769674
-- artery: 0.04862159220588915
-- runoff: 0.04731989848946884
-- syndrome: 0.04669885178473837
-- arteries: 0.04506246834058575
-- normal-appearing: 0.04473731818304741
-- slower: 0.04375546671917952
-- lumens: 0.04290494829481951
-- active: 0.04156125909611313
-- character: 0.04148365178963346
-- middle-aged: 0.04148365178963346
-- athlete: 0.039812541824872365
-- neutral: 0.03706870159498412
-- vascular: 0.03569176137482416
-- pulsatile: 0.03564740508979807
-- smoker: 0.032342986023459426
-- legs: 0.029464099884968613
-- 44: 0.02792803582881009
-- exercise: 0.02792803582881009
-- both: 0.02779872599600155
-- scheduled: 0.027418209665284386
-- patient: 0.027279997799884968
-- suggests: 0.027211615552206973
-- vessel: 0.025927301245880562
-- phase: 0.02560336228260992
-- complains: 0.02529510406055992
-- demonstrate: 0.025050345749465488
-- lower: 0.024482319354953666
-- factors: 0.024450857844241555
-- intervention: 0.024234924394077977
-- apparent: 0.024067298226451397
-- exam: 0.023913808152223416
-- smooth: 0.023823851011036123
-- four: 0.023627853185133236
-- not: 0.02359526124347647
-- provided: 0.02347528477097723
-- suggestive: 0.023253072930210093
-- external: 0.023144808112575882
-- condition: 0.022762875215967236
-- position: 0.022662567209800744
-- especially: 0.022402554505850075
-- fossa: 0.022183437138223752
-- shown: 0.02182450123662419
-- leg: 0.02140253062808151
-- compression: 0.02037418679171928
-- risk: 0.019714692021395457
-- peripheral: 0.019693842815376544
-- otherwise: 0.0195497785568557
-- this: 0.018365679235301906
-- unremarkable: 0.0180195313291851
-- flow: 0.01798760431120074
-- disease: 0.017792834919945277
-- while: 0.017125154393963782
-- demonstrated: 0.015970827913738647
-- months: 0.014865868119045016
-- distal: 0.014797952795834566
-- significant: 0.014635969114995054
-- is: 0.014325879704069443
-- than: 0.014261457674638689
-- for: 0.013932002840306658
-- physical: 0.013353536748925086
-- but: 0.011608301280468393
-- surgical: 0.01144090299523219
-- after: 0.011261154156746512
-- female: 0.011189555869094482
-- images: 0.010441171286301619
-- has: 0.01022101892034572
-- the: 0.008805686923797821
-- normal: 0.008532563405089816
-- in: 0.008052176372106782
-- an: 0.00752652779799191
-- pain: 0.00664718578045054
-- was: 0.006294761287985267
-- year: 0.006089842479445317
-- old: 0.0055728318271481185
-- no: 0.005480535991743962
-- ,: 0.005172803799693389
-- a: 0.005052226774759252
-- (: 0.00460103010346408
-- ): 0.004544826064415956
-- of: 0.0037103121273244725
-- to: 0.0027201790346687025
-- .: 0.0027133403386506707
-- with: 0.0007452495292349665
+\-\ Texto\\:\\ \ \(0\)\
+\-\ physical\\ exam\\ unremarkable\\.\\ \\ abi\\ exam\\ suggestive\\ of\\ bilateral\\ popliteal\\ artery\\ entrapment\\ syndrome\\.\ \(0\)\
+\-\ the\\ patient\\ is\\ scheduled\\ for\\ surgical\\ intervention\\.\ \(0\)\
+\-\ the\\ four\\ images\\ provided\\ demonstrate\\ bilateral\\ normal\\-appearing\\ popliteal\\ arteries\\ in\\ the\\ neutral\\ position\\.\\ \\ with\\ active\\ plantarflexion\\,\\ both\\ popliteal\\ arteries\\ demonstrate\\ significant\\ tapering\\ of\\ the\\ vessel\\ lumens\\.\\ \\ the\\ smooth\\ character\\ of\\ the\\ tapering\\ suggests\\ external\\ compression\\.\\ both\\ lower\\ legs\\ demonstrated\\ slower\\ than\\ normal\\ pulsatile\\ flow\\ in\\ the\\ runoff\\ phase\\ distal\\ to\\ the\\ popliteal\\ fossa\\ while\\ in\\ active\\ plantarflexion\\ \\(not\\ shown\\)\\.\ \(0\)\
+\-\ bilateral\\ popliteal\\ artery\\ entrapment\\ syndrome\ \(1\)\
+\-\ popliteal\\ artery\\ entrapment\\ syndrome\ \(4\)\
+\-\ peripheral\\ vascular\\ disease\ \(9\)\
+\-\ 44\\ year\\ old\\ female\\ complains\\ of\\ months\\ of\\ bilateral\\ lower\\ leg\\ pain\\,\\ especially\\ apparent\\ after\\ exercise\\.\\ \\ patient\\ is\\ a\\ smoker\\,\\ but\\ otherwise\\ has\\ no\\ risk\\ factors\\ for\\ vascular\\ disease\\.\\ \\ the\\ patient\\ is\\ not\\ an\\ athlete\\.\ \(0\)\
+\-\ this\\ patient\\ was\\ a\\ middle\\-aged\\ non\\-athlete\\.\\ this\\ is\\ not\\ the\\ prototypical\\ patient\\ for\\ this\\ condition\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ popliteal\\:\\ 0\\.19788276169070493\ \(0\)\
+\-\ entrapment\\:\\ 0\\.09945096518450204\ \(0\)\
+\-\ plantarflexion\\:\\ 0\\.08947463636609482\ \(0\)\
+\-\ tapering\\:\\ 0\\.07479082095286699\ \(0\)\
+\-\ abi\\:\\ 0\\.05614979887876751\ \(0\)\
+\-\ non\\-athlete\\:\\ 0\\.05614979887876751\ \(0\)\
+\-\ bilateral\\:\\ 0\\.052836120492087746\ \(0\)\
+\-\ prototypical\\:\\ 0\\.04915226837769674\ \(0\)\
+\-\ artery\\:\\ 0\\.04862159220588915\ \(0\)\
+\-\ runoff\\:\\ 0\\.04731989848946884\ \(0\)\
+\-\ syndrome\\:\\ 0\\.04669885178473837\ \(0\)\
+\-\ arteries\\:\\ 0\\.04506246834058575\ \(0\)\
+\-\ normal\\-appearing\\:\\ 0\\.04473731818304741\ \(0\)\
+\-\ slower\\:\\ 0\\.04375546671917952\ \(0\)\
+\-\ lumens\\:\\ 0\\.04290494829481951\ \(0\)\
+\-\ active\\:\\ 0\\.04156125909611313\ \(0\)\
+\-\ character\\:\\ 0\\.04148365178963346\ \(0\)\
+\-\ middle\\-aged\\:\\ 0\\.04148365178963346\ \(0\)\
+\-\ athlete\\:\\ 0\\.039812541824872365\ \(0\)\
+\-\ neutral\\:\\ 0\\.03706870159498412\ \(0\)\
+\-\ vascular\\:\\ 0\\.03569176137482416\ \(0\)\
+\-\ pulsatile\\:\\ 0\\.03564740508979807\ \(0\)\
+\-\ smoker\\:\\ 0\\.032342986023459426\ \(0\)\
+\-\ legs\\:\\ 0\\.029464099884968613\ \(0\)\
+\-\ 44\\:\\ 0\\.02792803582881009\ \(0\)\
+\-\ exercise\\:\\ 0\\.02792803582881009\ \(0\)\
+\-\ both\\:\\ 0\\.02779872599600155\ \(0\)\
+\-\ scheduled\\:\\ 0\\.027418209665284386\ \(0\)\
+\-\ patient\\:\\ 0\\.027279997799884968\ \(0\)\
+\-\ suggests\\:\\ 0\\.027211615552206973\ \(0\)\
+\-\ vessel\\:\\ 0\\.025927301245880562\ \(0\)\
+\-\ phase\\:\\ 0\\.02560336228260992\ \(0\)\
+\-\ complains\\:\\ 0\\.02529510406055992\ \(0\)\
+\-\ demonstrate\\:\\ 0\\.025050345749465488\ \(0\)\
+\-\ lower\\:\\ 0\\.024482319354953666\ \(0\)\
+\-\ factors\\:\\ 0\\.024450857844241555\ \(0\)\
+\-\ intervention\\:\\ 0\\.024234924394077977\ \(0\)\
+\-\ apparent\\:\\ 0\\.024067298226451397\ \(0\)\
+\-\ exam\\:\\ 0\\.023913808152223416\ \(0\)\
+\-\ smooth\\:\\ 0\\.023823851011036123\ \(0\)\
+\-\ four\\:\\ 0\\.023627853185133236\ \(0\)\
+\-\ not\\:\\ 0\\.02359526124347647\ \(0\)\
+\-\ provided\\:\\ 0\\.02347528477097723\ \(0\)\
+\-\ suggestive\\:\\ 0\\.023253072930210093\ \(0\)\
+\-\ external\\:\\ 0\\.023144808112575882\ \(0\)\
+\-\ condition\\:\\ 0\\.022762875215967236\ \(0\)\
+\-\ position\\:\\ 0\\.022662567209800744\ \(0\)\
+\-\ especially\\:\\ 0\\.022402554505850075\ \(0\)\
+\-\ fossa\\:\\ 0\\.022183437138223752\ \(0\)\
+\-\ shown\\:\\ 0\\.02182450123662419\ \(0\)\
+\-\ leg\\:\\ 0\\.02140253062808151\ \(0\)\
+\-\ compression\\:\\ 0\\.02037418679171928\ \(0\)\
+\-\ risk\\:\\ 0\\.019714692021395457\ \(0\)\
+\-\ peripheral\\:\\ 0\\.019693842815376544\ \(0\)\
+\-\ otherwise\\:\\ 0\\.0195497785568557\ \(0\)\
+\-\ this\\:\\ 0\\.018365679235301906\ \(0\)\
+\-\ unremarkable\\:\\ 0\\.0180195313291851\ \(0\)\
+\-\ flow\\:\\ 0\\.01798760431120074\ \(0\)\
+\-\ disease\\:\\ 0\\.017792834919945277\ \(0\)\
+\-\ while\\:\\ 0\\.017125154393963782\ \(0\)\
+\-\ demonstrated\\:\\ 0\\.015970827913738647\ \(0\)\
+\-\ months\\:\\ 0\\.014865868119045016\ \(0\)\
+\-\ distal\\:\\ 0\\.014797952795834566\ \(0\)\
+\-\ significant\\:\\ 0\\.014635969114995054\ \(0\)\
+\-\ is\\:\\ 0\\.014325879704069443\ \(0\)\
+\-\ than\\:\\ 0\\.014261457674638689\ \(0\)\
+\-\ for\\:\\ 0\\.013932002840306658\ \(0\)\
+\-\ physical\\:\\ 0\\.013353536748925086\ \(0\)\
+\-\ but\\:\\ 0\\.011608301280468393\ \(0\)\
+\-\ surgical\\:\\ 0\\.01144090299523219\ \(0\)\
+\-\ after\\:\\ 0\\.011261154156746512\ \(0\)\
+\-\ female\\:\\ 0\\.011189555869094482\ \(0\)\
+\-\ images\\:\\ 0\\.010441171286301619\ \(0\)\
+\-\ has\\:\\ 0\\.01022101892034572\ \(0\)\
+\-\ the\\:\\ 0\\.008805686923797821\ \(0\)\
+\-\ normal\\:\\ 0\\.008532563405089816\ \(0\)\
+\-\ in\\:\\ 0\\.008052176372106782\ \(0\)\
+\-\ an\\:\\ 0\\.00752652779799191\ \(0\)\
+\-\ pain\\:\\ 0\\.00664718578045054\ \(0\)\
+\-\ was\\:\\ 0\\.006294761287985267\ \(0\)\
+\-\ year\\:\\ 0\\.006089842479445317\ \(0\)\
+\-\ old\\:\\ 0\\.0055728318271481185\ \(0\)\
+\-\ no\\:\\ 0\\.005480535991743962\ \(0\)\
+\-\ \\,\\:\\ 0\\.005172803799693389\ \(0\)\
+\-\ a\\:\\ 0\\.005052226774759252\ \(0\)\
+\-\ \\(\\:\\ 0\\.00460103010346408\ \(0\)\
+\-\ \\)\\:\\ 0\\.004544826064415956\ \(0\)\
+\-\ of\\:\\ 0\\.0037103121273244725\ \(0\)\
+\-\ to\\:\\ 0\\.0027201790346687025\ \(0\)\
+\-\ \\.\\:\\ 0\\.0027133403386506707\ \(0\)\
+\-\ with\\:\\ 0\\.0007452495292349665\ \(0\)\

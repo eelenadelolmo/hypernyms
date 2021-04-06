@@ -1,83 +1,81 @@
-Texto: 
-hiv (+)
-hbv dna (+)
-alpha-feto n/a
-chemotherapy
-surgery
-1.heterogeneously enhancing tumor involving the entire right lobe of the liver and shrunken nodular appeareance of the liver
-2.marked ascites
-3.non-enhancement of the portal vein
-4.enlarged collateral esophageal varices
-5.superficial soft tissue swelling
-hepatocellular carcinoma, with portal hypertension, portal vein thrombosis, esophageal varices, "caput medusa", ascites
-metastasis
-hepatic adenoma
-focal nodular hyperplasia
-cavernous hemangioma
-44 year-old male with known history of hepatocellular carcinoma with new onset of ascites.
-multiple findings on ct images secondary to hcc.
-development of hcc withcorrelation to history of hiv and hvb as risk factors.
-
-
-Keywords by value: 
-- ascites: 0.3200193873814916
-- portal: 0.2969101879657763
-- varices: 0.2658110921819837
-- hcc: 0.23919759734728638
-- hepatocellular: 0.21264216447872575
-- hiv: 0.20455104845924468
-- esophageal: 0.17673061439073107
-- appeareance: 0.1653898676390393
-- withcorrelation: 0.1653898676390393
-- hvb: 0.1653898676390393
-- nodular: 0.16471570732709306
-- hbv: 0.15803884805493518
-- medusa: 0.1487776586473271
-- vein: 0.1482593126385934
-- shrunken: 0.1454721970729635
-- liver: 0.14268673350557265
-- of: 0.14167080269069166
-- caput: 0.1362110076653554
-- dna: 0.13145438420330624
-- carcinoma: 0.12372142126343941
-- collateral: 0.09897006265525876
-- hyperplasia: 0.09428509875311306
-- entire: 0.0941064781451922
-- 44: 0.09146474558618747
-- cavernous: 0.08970887324765067
-- factors: 0.08748074907889876
-- hemangioma: 0.08699401259566306
-- development: 0.08549673049726947
-- thrombosis: 0.08431974918562499
-- the: 0.08254353720088696
-- adenoma: 0.08245106643984097
-- hepatic: 0.08235785366354653
-- hypertension: 0.07913003608388322
-- history: 0.07902426786872213
-- metastasis: 0.07579865621339385
-- risk: 0.0738949624910669
-- chemotherapy: 0.0734344972307791
-- involving: 0.07243931690234393
-- new: 0.07154707502011166
-- swelling: 0.06960620265742884
-- known: 0.06695667265085983
-- onset: 0.06640842821797172
-- enhancing: 0.06478597803661551
-- focal: 0.061860710631719704
-- secondary: 0.06129918725375209
-- with: 0.06075233612637474
-- lobe: 0.05976538841770613
-- surgery: 0.05560255372993908
-- soft: 0.05505819878329073
-- tissue: 0.05425139847537799
-- tumor: 0.054094259072978275
-- to: 0.05170921009434545
-- findings: 0.051041539542134216
-- multiple: 0.05058459756780771
-- images: 0.04783828045780921
-- male: 0.04604622079178447
-- and: 0.04274063659167348
-- as: 0.041547176193340446
-- ct: 0.039372672900124715
-- right: 0.03428775472206455
-- on: 0.03123438346061209
+\-\ Texto\\:\\ \ \(0\)\
+\-\ hiv\\ \\(\\+\\)\ \(0\)\
+\-\ hbv\\ dna\\ \\(\\+\\)\ \(0\)\
+\-\ alpha\\-feto\\ n\\/a\ \(0\)\
+\-\ chemotherapy\ \(327\)\
+\-\ surgery\ \(977\)\
+\-\ 1\\.heterogeneously\\ enhancing\\ tumor\\ involving\\ the\\ entire\\ right\\ lobe\\ of\\ the\\ liver\\ and\\ shrunken\\ nodular\\ appeareance\\ of\\ the\\ liver\ \(0\)\
+\-\ 2\\.marked\\ ascites\ \(0\)\
+\-\ 3\\.non\\-enhancement\\ of\\ the\\ portal\\ vein\ \(0\)\
+\-\ 4\\.enlarged\\ collateral\\ esophageal\\ varices\ \(0\)\
+\-\ 5\\.superficial\\ soft\\ tissue\\ swelling\ \(0\)\
+\-\ hepatocellular\\ carcinoma\\,\\ with\\ portal\\ hypertension\\,\\ portal\\ vein\\ thrombosis\\,\\ esophageal\\ varices\\,\\ \\"caput\\ medusa\\"\\,\\ ascites\ \(0\)\
+\-\ metastasis\ \(206\)\
+\-\ hepatic\\ adenoma\ \(5\)\
+\-\ focal\\ nodular\\ hyperplasia\ \(9\)\
+\-\ cavernous\\ hemangioma\ \(14\)\
+\-\ 44\\ year\\-old\\ male\\ with\\ known\\ history\\ of\\ hepatocellular\\ carcinoma\\ with\\ new\\ onset\\ of\\ ascites\\.\ \(1\)\
+\-\ multiple\\ findings\\ on\\ ct\\ images\\ secondary\\ to\\ hcc\\.\ \(0\)\
+\-\ development\\ of\\ hcc\\ withcorrelation\\ to\\ history\\ of\\ hiv\\ and\\ hvb\\ as\\ risk\\ factors\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ ascites\\:\\ 0\\.3200193873814916\ \(0\)\
+\-\ portal\\:\\ 0\\.2969101879657763\ \(0\)\
+\-\ varices\\:\\ 0\\.2658110921819837\ \(0\)\
+\-\ hcc\\:\\ 0\\.23919759734728638\ \(0\)\
+\-\ hepatocellular\\:\\ 0\\.21264216447872575\ \(0\)\
+\-\ hiv\\:\\ 0\\.20455104845924468\ \(0\)\
+\-\ esophageal\\:\\ 0\\.17673061439073107\ \(0\)\
+\-\ appeareance\\:\\ 0\\.1653898676390393\ \(0\)\
+\-\ withcorrelation\\:\\ 0\\.1653898676390393\ \(0\)\
+\-\ hvb\\:\\ 0\\.1653898676390393\ \(0\)\
+\-\ nodular\\:\\ 0\\.16471570732709306\ \(0\)\
+\-\ hbv\\:\\ 0\\.15803884805493518\ \(0\)\
+\-\ medusa\\:\\ 0\\.1487776586473271\ \(0\)\
+\-\ vein\\:\\ 0\\.1482593126385934\ \(0\)\
+\-\ shrunken\\:\\ 0\\.1454721970729635\ \(0\)\
+\-\ liver\\:\\ 0\\.14268673350557265\ \(0\)\
+\-\ of\\:\\ 0\\.14167080269069166\ \(0\)\
+\-\ caput\\:\\ 0\\.1362110076653554\ \(0\)\
+\-\ dna\\:\\ 0\\.13145438420330624\ \(0\)\
+\-\ carcinoma\\:\\ 0\\.12372142126343941\ \(0\)\
+\-\ collateral\\:\\ 0\\.09897006265525876\ \(0\)\
+\-\ hyperplasia\\:\\ 0\\.09428509875311306\ \(0\)\
+\-\ entire\\:\\ 0\\.0941064781451922\ \(0\)\
+\-\ 44\\:\\ 0\\.09146474558618747\ \(0\)\
+\-\ cavernous\\:\\ 0\\.08970887324765067\ \(0\)\
+\-\ factors\\:\\ 0\\.08748074907889876\ \(0\)\
+\-\ hemangioma\\:\\ 0\\.08699401259566306\ \(0\)\
+\-\ development\\:\\ 0\\.08549673049726947\ \(0\)\
+\-\ thrombosis\\:\\ 0\\.08431974918562499\ \(0\)\
+\-\ the\\:\\ 0\\.08254353720088696\ \(0\)\
+\-\ adenoma\\:\\ 0\\.08245106643984097\ \(0\)\
+\-\ hepatic\\:\\ 0\\.08235785366354653\ \(0\)\
+\-\ hypertension\\:\\ 0\\.07913003608388322\ \(0\)\
+\-\ history\\:\\ 0\\.07902426786872213\ \(0\)\
+\-\ metastasis\\:\\ 0\\.07579865621339385\ \(0\)\
+\-\ risk\\:\\ 0\\.0738949624910669\ \(0\)\
+\-\ chemotherapy\\:\\ 0\\.0734344972307791\ \(0\)\
+\-\ involving\\:\\ 0\\.07243931690234393\ \(0\)\
+\-\ new\\:\\ 0\\.07154707502011166\ \(0\)\
+\-\ swelling\\:\\ 0\\.06960620265742884\ \(0\)\
+\-\ known\\:\\ 0\\.06695667265085983\ \(0\)\
+\-\ onset\\:\\ 0\\.06640842821797172\ \(0\)\
+\-\ enhancing\\:\\ 0\\.06478597803661551\ \(0\)\
+\-\ focal\\:\\ 0\\.061860710631719704\ \(0\)\
+\-\ secondary\\:\\ 0\\.06129918725375209\ \(0\)\
+\-\ with\\:\\ 0\\.06075233612637474\ \(0\)\
+\-\ lobe\\:\\ 0\\.05976538841770613\ \(0\)\
+\-\ surgery\\:\\ 0\\.05560255372993908\ \(0\)\
+\-\ soft\\:\\ 0\\.05505819878329073\ \(0\)\
+\-\ tissue\\:\\ 0\\.05425139847537799\ \(0\)\
+\-\ tumor\\:\\ 0\\.054094259072978275\ \(0\)\
+\-\ to\\:\\ 0\\.05170921009434545\ \(0\)\
+\-\ findings\\:\\ 0\\.051041539542134216\ \(0\)\
+\-\ multiple\\:\\ 0\\.05058459756780771\ \(0\)\
+\-\ images\\:\\ 0\\.04783828045780921\ \(0\)\
+\-\ male\\:\\ 0\\.04604622079178447\ \(0\)\
+\-\ and\\:\\ 0\\.04274063659167348\ \(0\)\
+\-\ as\\:\\ 0\\.041547176193340446\ \(0\)\
+\-\ ct\\:\\ 0\\.039372672900124715\ \(0\)\
+\-\ right\\:\\ 0\\.03428775472206455\ \(0\)\
+\-\ on\\:\\ 0\\.03123438346061209\ \(0\)\

@@ -1,105 +1,103 @@
-Texto: 
-obtunded 
-no focal signs or symptoms
-patient's mental status improved on antifungal medications.
-â€¢ high signal t1 lesions in the perivascular spaces bilateral basal ganglia
-â€¢ lesions enhance following contrast administration
-â€¢ minimal mass effect
-cryptococcus, cryptococcoma (presumed)
-â€¢ cryptococcus meningitis
-â€¢ toxoplasmosis
-â€¢ hemorrhage
-â€¢ metastatic disease
-39 year old woman s/p bone marrow transplant therapy for leukemia.  decrease in mental status prompted mri.
-in spite of brain biopsy and multiple csf and blood samples cryptococcus could not be confirmed.  the cause of the high signal intensity lesions in the vr spaces is likely to be due to proteinaceous fluid in the pseuocapsule of the offending organism - since neither calcium nor blood was demonstrated in these regions on a contemporary ct scan.
-
-
-Keywords by value: 
-- cryptococcus: 0.4250054690477862
-- spaces: 0.19304675605234947
-- mental: 0.18489397258609258
-- lesions: 0.18276075886041626
-- pseuocapsule: 0.16963751093938453
-- cryptococcoma: 0.16209769799367454
-- in: 0.1583285650344158
-- vr: 0.1567481155740154
-- spite: 0.1492083026283054
-- status: 0.14805175422604497
-- antifungal: 0.14634179878343817
-- contemporary: 0.14634179878343817
-- samples: 0.1438587202086463
-- offending: 0.13793692443267866
-- obtunded: 0.129841981702623
-- proteinaceous: 0.129841981702623
-- the: 0.1269952058863528
-- perivascular: 0.12591259047235903
-- organism: 0.12591259047235903
-- neither: 0.12342951189756714
-- blood: 0.12320898013948728
-- high: 0.12057251035853822
-- signal: 0.12026215306195401
-- toxoplasmosis: 0.11928005340334386
-- prompted: 0.11695258633725387
-- presumed: 0.10834988600614713
-- transplant: 0.10608328795274895
-- nor: 0.10326038428441786
-- meningitis: 0.09991373247766147
-- ganglia: 0.09969623915886146
-- leukemia: 0.09689161712409232
-- calcium: 0.09580807957913459
-- enhance: 0.09495099392663012
-- improved: 0.09413167785036676
-- decrease: 0.09117379560651562
-- regions: 0.09103756447140086
-- basal: 0.09076806023565534
-- medications: 0.08898356508046472
-- 39: 0.08815168025294647
-- marrow: 0.08815168025294647
-- be: 0.08606102398985084
-- administration: 0.08447301821587733
-- csf: 0.08381719071195602
-- minimal: 0.08092440351744995
-- confirmed: 0.07821615991952338
-- could: 0.07715705710049232
-- since: 0.0768380875856744
-- intensity: 0.07532048670903002
-- effect: 0.07441043518238992
-- biopsy: 0.0743550090108825
-- signs: 0.0741349417469232
-- cause: 0.07226342840730149
-- hemorrhage: 0.07102008073090321
-- brain: 0.06612706717262101
-- t1: 0.06609154573531795
-- demonstrated: 0.06519103061738643
-- on: 0.06407312783572033
-- following: 0.0636351018751875
-- focal: 0.06344945507429278
-- likely: 0.06338798240087688
-- scan: 0.06293330286015486
-- of: 0.062275405080224146
-- fluid: 0.061245546381554064
-- due: 0.06097407489198248
-- therapy: 0.06094714445023911
-- these: 0.059900709922099914
-- metastatic: 0.05817700037521425
-- symptoms: 0.05803839998121776
-- bone: 0.057877994467288425
-- bilateral: 0.057008785066064306
-- woman: 0.0552443674891985
-- mri: 0.054449651306422854
-- to: 0.053037237518025096
-- multiple: 0.05188374200771076
-- contrast: 0.05153982661080697
-- disease: 0.04452664615021273
-- and: 0.04383832764894753
-- not: 0.04187600852536046
-- mass: 0.040517936139159966
-- ct: 0.04038386586283934
-- was: 0.03696829520399057
-- or: 0.036901711006745705
-- patient: 0.034500972751214554
-- no: 0.03449448331936587
-- year: 0.032690321632624586
-- for: 0.0321506119096583
-- old: 0.03139402480297799
-- is: 0.02904944390672107
+\-\ Texto\\:\\ \ \(0\)\
+\-\ obtunded\\ \ \(4\)\
+\-\ no\\ focal\\ signs\\ or\\ symptoms\ \(0\)\
+\-\ patient\\'s\\ mental\\ status\\ improved\\ on\\ antifungal\\ medications\\.\ \(0\)\
+\-\ \\â\\€\\¢\\ high\\ signal\\ t1\\ lesions\\ in\\ the\\ perivascular\\ spaces\\ bilateral\\ basal\\ ganglia\ \(0\)\
+\-\ \\â\\€\\¢\\ lesions\\ enhance\\ following\\ contrast\\ administration\ \(0\)\
+\-\ \\â\\€\\¢\\ minimal\\ mass\\ effect\ \(0\)\
+\-\ cryptococcus\\,\\ cryptococcoma\\ \\(presumed\\)\ \(0\)\
+\-\ \\â\\€\\¢\\ cryptococcus\\ meningitis\ \(0\)\
+\-\ \\â\\€\\¢\\ toxoplasmosis\ \(0\)\
+\-\ \\â\\€\\¢\\ hemorrhage\ \(2\)\
+\-\ \\â\\€\\¢\\ metastatic\\ disease\ \(13\)\
+\-\ 39\\ year\\ old\\ woman\\ s\\/p\\ bone\\ marrow\\ transplant\\ therapy\\ for\\ leukemia\\.\\ \\ decrease\\ in\\ mental\\ status\\ prompted\\ mri\\.\ \(0\)\
+\-\ in\\ spite\\ of\\ brain\\ biopsy\\ and\\ multiple\\ csf\\ and\\ blood\\ samples\\ cryptococcus\\ could\\ not\\ be\\ confirmed\\.\\ \\ the\\ cause\\ of\\ the\\ high\\ signal\\ intensity\\ lesions\\ in\\ the\\ vr\\ spaces\\ is\\ likely\\ to\\ be\\ due\\ to\\ proteinaceous\\ fluid\\ in\\ the\\ pseuocapsule\\ of\\ the\\ offending\\ organism\\ \\-\\ since\\ neither\\ calcium\\ nor\\ blood\\ was\\ demonstrated\\ in\\ these\\ regions\\ on\\ a\\ contemporary\\ ct\\ scan\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ cryptococcus\\:\\ 0\\.4250054690477862\ \(0\)\
+\-\ spaces\\:\\ 0\\.19304675605234947\ \(0\)\
+\-\ mental\\:\\ 0\\.18489397258609258\ \(0\)\
+\-\ lesions\\:\\ 0\\.18276075886041626\ \(0\)\
+\-\ pseuocapsule\\:\\ 0\\.16963751093938453\ \(0\)\
+\-\ cryptococcoma\\:\\ 0\\.16209769799367454\ \(0\)\
+\-\ in\\:\\ 0\\.1583285650344158\ \(0\)\
+\-\ vr\\:\\ 0\\.1567481155740154\ \(0\)\
+\-\ spite\\:\\ 0\\.1492083026283054\ \(0\)\
+\-\ status\\:\\ 0\\.14805175422604497\ \(0\)\
+\-\ antifungal\\:\\ 0\\.14634179878343817\ \(0\)\
+\-\ contemporary\\:\\ 0\\.14634179878343817\ \(0\)\
+\-\ samples\\:\\ 0\\.1438587202086463\ \(0\)\
+\-\ offending\\:\\ 0\\.13793692443267866\ \(0\)\
+\-\ obtunded\\:\\ 0\\.129841981702623\ \(0\)\
+\-\ proteinaceous\\:\\ 0\\.129841981702623\ \(0\)\
+\-\ the\\:\\ 0\\.1269952058863528\ \(0\)\
+\-\ perivascular\\:\\ 0\\.12591259047235903\ \(0\)\
+\-\ organism\\:\\ 0\\.12591259047235903\ \(0\)\
+\-\ neither\\:\\ 0\\.12342951189756714\ \(0\)\
+\-\ blood\\:\\ 0\\.12320898013948728\ \(0\)\
+\-\ high\\:\\ 0\\.12057251035853822\ \(0\)\
+\-\ signal\\:\\ 0\\.12026215306195401\ \(0\)\
+\-\ toxoplasmosis\\:\\ 0\\.11928005340334386\ \(0\)\
+\-\ prompted\\:\\ 0\\.11695258633725387\ \(0\)\
+\-\ presumed\\:\\ 0\\.10834988600614713\ \(0\)\
+\-\ transplant\\:\\ 0\\.10608328795274895\ \(0\)\
+\-\ nor\\:\\ 0\\.10326038428441786\ \(0\)\
+\-\ meningitis\\:\\ 0\\.09991373247766147\ \(0\)\
+\-\ ganglia\\:\\ 0\\.09969623915886146\ \(0\)\
+\-\ leukemia\\:\\ 0\\.09689161712409232\ \(0\)\
+\-\ calcium\\:\\ 0\\.09580807957913459\ \(0\)\
+\-\ enhance\\:\\ 0\\.09495099392663012\ \(0\)\
+\-\ improved\\:\\ 0\\.09413167785036676\ \(0\)\
+\-\ decrease\\:\\ 0\\.09117379560651562\ \(0\)\
+\-\ regions\\:\\ 0\\.09103756447140086\ \(0\)\
+\-\ basal\\:\\ 0\\.09076806023565534\ \(0\)\
+\-\ medications\\:\\ 0\\.08898356508046472\ \(0\)\
+\-\ 39\\:\\ 0\\.08815168025294647\ \(0\)\
+\-\ marrow\\:\\ 0\\.08815168025294647\ \(0\)\
+\-\ be\\:\\ 0\\.08606102398985084\ \(0\)\
+\-\ administration\\:\\ 0\\.08447301821587733\ \(0\)\
+\-\ csf\\:\\ 0\\.08381719071195602\ \(0\)\
+\-\ minimal\\:\\ 0\\.08092440351744995\ \(0\)\
+\-\ confirmed\\:\\ 0\\.07821615991952338\ \(0\)\
+\-\ could\\:\\ 0\\.07715705710049232\ \(0\)\
+\-\ since\\:\\ 0\\.0768380875856744\ \(0\)\
+\-\ intensity\\:\\ 0\\.07532048670903002\ \(0\)\
+\-\ effect\\:\\ 0\\.07441043518238992\ \(0\)\
+\-\ biopsy\\:\\ 0\\.0743550090108825\ \(0\)\
+\-\ signs\\:\\ 0\\.0741349417469232\ \(0\)\
+\-\ cause\\:\\ 0\\.07226342840730149\ \(0\)\
+\-\ hemorrhage\\:\\ 0\\.07102008073090321\ \(0\)\
+\-\ brain\\:\\ 0\\.06612706717262101\ \(0\)\
+\-\ t1\\:\\ 0\\.06609154573531795\ \(0\)\
+\-\ demonstrated\\:\\ 0\\.06519103061738643\ \(0\)\
+\-\ on\\:\\ 0\\.06407312783572033\ \(0\)\
+\-\ following\\:\\ 0\\.0636351018751875\ \(0\)\
+\-\ focal\\:\\ 0\\.06344945507429278\ \(0\)\
+\-\ likely\\:\\ 0\\.06338798240087688\ \(0\)\
+\-\ scan\\:\\ 0\\.06293330286015486\ \(0\)\
+\-\ of\\:\\ 0\\.062275405080224146\ \(0\)\
+\-\ fluid\\:\\ 0\\.061245546381554064\ \(0\)\
+\-\ due\\:\\ 0\\.06097407489198248\ \(0\)\
+\-\ therapy\\:\\ 0\\.06094714445023911\ \(0\)\
+\-\ these\\:\\ 0\\.059900709922099914\ \(0\)\
+\-\ metastatic\\:\\ 0\\.05817700037521425\ \(0\)\
+\-\ symptoms\\:\\ 0\\.05803839998121776\ \(0\)\
+\-\ bone\\:\\ 0\\.057877994467288425\ \(0\)\
+\-\ bilateral\\:\\ 0\\.057008785066064306\ \(0\)\
+\-\ woman\\:\\ 0\\.0552443674891985\ \(0\)\
+\-\ mri\\:\\ 0\\.054449651306422854\ \(0\)\
+\-\ to\\:\\ 0\\.053037237518025096\ \(0\)\
+\-\ multiple\\:\\ 0\\.05188374200771076\ \(0\)\
+\-\ contrast\\:\\ 0\\.05153982661080697\ \(0\)\
+\-\ disease\\:\\ 0\\.04452664615021273\ \(0\)\
+\-\ and\\:\\ 0\\.04383832764894753\ \(0\)\
+\-\ not\\:\\ 0\\.04187600852536046\ \(0\)\
+\-\ mass\\:\\ 0\\.040517936139159966\ \(0\)\
+\-\ ct\\:\\ 0\\.04038386586283934\ \(0\)\
+\-\ was\\:\\ 0\\.03696829520399057\ \(0\)\
+\-\ or\\:\\ 0\\.036901711006745705\ \(0\)\
+\-\ patient\\:\\ 0\\.034500972751214554\ \(0\)\
+\-\ no\\:\\ 0\\.03449448331936587\ \(0\)\
+\-\ year\\:\\ 0\\.032690321632624586\ \(0\)\
+\-\ for\\:\\ 0\\.0321506119096583\ \(0\)\
+\-\ old\\:\\ 0\\.03139402480297799\ \(0\)\
+\-\ is\\:\\ 0\\.02904944390672107\ \(0\)\

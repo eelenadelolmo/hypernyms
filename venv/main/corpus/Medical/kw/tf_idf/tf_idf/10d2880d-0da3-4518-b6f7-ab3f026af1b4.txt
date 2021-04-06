@@ -1,83 +1,80 @@
-Texto: 
-unknown
-patient is to be closely followed by both cardiothoracic surgery and pulmonology.
-pulmonary perfusion scan showing complete lack of perfusion to the left lung.
-ct pulmonary angiogram showed near complete occlusion of the left main pulmonary artery.
-
-ct pulmonary angiogram showing calcified mediastinal adenopathy and near complete opacificaton of the left main pulmonary artery.
-mediastinal fibrosis
-bronchogenic carcinoma, hyperlucent lung / swyer-james syndrome, fibrosing mediastinitis, and post surgical change.
-thirty-eight year old male presents to primary care complaining of chronic cough and shortness of breath that has significantly progressed over several days.
-see factoid
-
-
-Keywords by value: 
-- pulmonary: 0.12002645722211844
-- perfusion: 0.09354374433432829
-- complete: 0.08675122886498235
-- opacificaton: 0.0847646002304471
-- angiogram: 0.07948821532388997
-- main: 0.07652377917336578
-- showing: 0.07562916348807938
-- thirty-eight: 0.07420102053171528
-- swyer-james: 0.07143484675814046
-- near: 0.07110624252980276
-- mediastinal: 0.06977178111780276
-- pulmonology: 0.06605392572029986
-- hyperlucent: 0.06363744083298345
-- cardiothoracic: 0.0626243589516582
-- fibrosing: 0.0626243589516582
-- mediastinitis: 0.059389048984146535
-- closely: 0.04953804594073896
-- artery: 0.048933269079003826
-- lung: 0.04759921385074512
-- progressed: 0.047541513587102
-- bronchogenic: 0.04337935894963777
-- significantly: 0.04204679968727098
-- occlusion: 0.04097732242659575
-- /: 0.04058075551761451
-- complaining: 0.04010699543101083
-- lack: 0.037387160950089364
-- adenopathy: 0.036585414710290795
-- fibrosis: 0.036585414710290795
-- calcified: 0.03526946103031774
-- shortness: 0.034568871143155516
-- unknown: 0.03206614904446641
-- change: 0.03202616817765234
-- cough: 0.03148321998853915
-- breath: 0.03072228421393604
-- care: 0.02963631872181493
-- factoid: 0.028802264361674393
-- left: 0.02757995969056485
-- followed: 0.027546883378642036
-- showed: 0.026940416037727854
-- several: 0.026414354189638344
-- post: 0.025873413779541287
-- days: 0.025183406693961324
-- see: 0.02452131933873835
-- primary: 0.024340233297074004
-- syndrome: 0.023499101699371555
-- carcinoma: 0.023287766057844873
-- chronic: 0.023144131085644233
-- scan: 0.023002610196470947
-- ct: 0.02298660871907775
-- both: 0.020982692218135784
-- over: 0.020919640289807334
-- surgery: 0.01995191408038726
-- surgical: 0.01727136317549475
-- presents: 0.016785041302960827
-- has: 0.015429807408598827
-- male: 0.014857745556610319
-- that: 0.014192122389988687
-- by: 0.01368145099273918
-- be: 0.012670737724460857
-- to: 0.012319272358932296
-- year: 0.00919331989685495
-- old: 0.008412832662137064
-- patient: 0.008236460874196038
-- ,: 0.00780894419761406
-- and: 0.006923423297393018
-- of: 0.005601144269134059
-- is: 0.0054066420998531315
-- the: 0.003987960135681513
-- .: 0.002048050159462285
+\-\ Texto\\:\\ \ \(0\)\
+\-\ unknown\ \(157\)\
+\-\ patient\\ is\\ to\\ be\\ closely\\ followed\\ by\\ both\\ cardiothoracic\\ surgery\\ and\\ pulmonology\\.\ \(0\)\
+\-\ pulmonary\\ perfusion\\ scan\\ showing\\ complete\\ lack\\ of\\ perfusion\\ to\\ the\\ left\\ lung\\.\ \(0\)\
+\-\ ct\\ pulmonary\\ angiogram\\ showed\\ near\\ complete\\ occlusion\\ of\\ the\\ left\\ main\\ pulmonary\\ artery\\.\ \(0\)\
+\-\ ct\\ pulmonary\\ angiogram\\ showing\\ calcified\\ mediastinal\\ adenopathy\\ and\\ near\\ complete\\ opacificaton\\ of\\ the\\ left\\ main\\ pulmonary\\ artery\\.\ \(0\)\
+\-\ mediastinal\\ fibrosis\ \(0\)\
+\-\ bronchogenic\\ carcinoma\\,\\ hyperlucent\\ lung\\ \\/\\ swyer\\-james\\ syndrome\\,\\ fibrosing\\ mediastinitis\\,\\ and\\ post\\ surgical\\ change\\.\ \(0\)\
+\-\ thirty\\-eight\\ year\\ old\\ male\\ presents\\ to\\ primary\\ care\\ complaining\\ of\\ chronic\\ cough\\ and\\ shortness\\ of\\ breath\\ that\\ has\\ significantly\\ progressed\\ over\\ several\\ days\\.\ \(0\)\
+\-\ see\\ factoid\ \(116\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ pulmonary\\:\\ 0\\.12002645722211844\ \(0\)\
+\-\ perfusion\\:\\ 0\\.09354374433432829\ \(0\)\
+\-\ complete\\:\\ 0\\.08675122886498235\ \(0\)\
+\-\ opacificaton\\:\\ 0\\.0847646002304471\ \(0\)\
+\-\ angiogram\\:\\ 0\\.07948821532388997\ \(0\)\
+\-\ main\\:\\ 0\\.07652377917336578\ \(0\)\
+\-\ showing\\:\\ 0\\.07562916348807938\ \(0\)\
+\-\ thirty\\-eight\\:\\ 0\\.07420102053171528\ \(0\)\
+\-\ swyer\\-james\\:\\ 0\\.07143484675814046\ \(0\)\
+\-\ near\\:\\ 0\\.07110624252980276\ \(0\)\
+\-\ mediastinal\\:\\ 0\\.06977178111780276\ \(0\)\
+\-\ pulmonology\\:\\ 0\\.06605392572029986\ \(0\)\
+\-\ hyperlucent\\:\\ 0\\.06363744083298345\ \(0\)\
+\-\ cardiothoracic\\:\\ 0\\.0626243589516582\ \(0\)\
+\-\ fibrosing\\:\\ 0\\.0626243589516582\ \(0\)\
+\-\ mediastinitis\\:\\ 0\\.059389048984146535\ \(0\)\
+\-\ closely\\:\\ 0\\.04953804594073896\ \(0\)\
+\-\ artery\\:\\ 0\\.048933269079003826\ \(0\)\
+\-\ lung\\:\\ 0\\.04759921385074512\ \(0\)\
+\-\ progressed\\:\\ 0\\.047541513587102\ \(0\)\
+\-\ bronchogenic\\:\\ 0\\.04337935894963777\ \(0\)\
+\-\ significantly\\:\\ 0\\.04204679968727098\ \(0\)\
+\-\ occlusion\\:\\ 0\\.04097732242659575\ \(0\)\
+\-\ \\/\\:\\ 0\\.04058075551761451\ \(0\)\
+\-\ complaining\\:\\ 0\\.04010699543101083\ \(0\)\
+\-\ lack\\:\\ 0\\.037387160950089364\ \(0\)\
+\-\ adenopathy\\:\\ 0\\.036585414710290795\ \(0\)\
+\-\ fibrosis\\:\\ 0\\.036585414710290795\ \(0\)\
+\-\ calcified\\:\\ 0\\.03526946103031774\ \(0\)\
+\-\ shortness\\:\\ 0\\.034568871143155516\ \(0\)\
+\-\ unknown\\:\\ 0\\.03206614904446641\ \(0\)\
+\-\ change\\:\\ 0\\.03202616817765234\ \(0\)\
+\-\ cough\\:\\ 0\\.03148321998853915\ \(0\)\
+\-\ breath\\:\\ 0\\.03072228421393604\ \(0\)\
+\-\ care\\:\\ 0\\.02963631872181493\ \(0\)\
+\-\ factoid\\:\\ 0\\.028802264361674393\ \(0\)\
+\-\ left\\:\\ 0\\.02757995969056485\ \(0\)\
+\-\ followed\\:\\ 0\\.027546883378642036\ \(0\)\
+\-\ showed\\:\\ 0\\.026940416037727854\ \(0\)\
+\-\ several\\:\\ 0\\.026414354189638344\ \(0\)\
+\-\ post\\:\\ 0\\.025873413779541287\ \(0\)\
+\-\ days\\:\\ 0\\.025183406693961324\ \(0\)\
+\-\ see\\:\\ 0\\.02452131933873835\ \(0\)\
+\-\ primary\\:\\ 0\\.024340233297074004\ \(0\)\
+\-\ syndrome\\:\\ 0\\.023499101699371555\ \(0\)\
+\-\ carcinoma\\:\\ 0\\.023287766057844873\ \(0\)\
+\-\ chronic\\:\\ 0\\.023144131085644233\ \(0\)\
+\-\ scan\\:\\ 0\\.023002610196470947\ \(0\)\
+\-\ ct\\:\\ 0\\.02298660871907775\ \(0\)\
+\-\ both\\:\\ 0\\.020982692218135784\ \(0\)\
+\-\ over\\:\\ 0\\.020919640289807334\ \(0\)\
+\-\ surgery\\:\\ 0\\.01995191408038726\ \(0\)\
+\-\ surgical\\:\\ 0\\.01727136317549475\ \(0\)\
+\-\ presents\\:\\ 0\\.016785041302960827\ \(0\)\
+\-\ has\\:\\ 0\\.015429807408598827\ \(0\)\
+\-\ male\\:\\ 0\\.014857745556610319\ \(0\)\
+\-\ that\\:\\ 0\\.014192122389988687\ \(0\)\
+\-\ by\\:\\ 0\\.01368145099273918\ \(0\)\
+\-\ be\\:\\ 0\\.012670737724460857\ \(0\)\
+\-\ to\\:\\ 0\\.012319272358932296\ \(0\)\
+\-\ year\\:\\ 0\\.00919331989685495\ \(0\)\
+\-\ old\\:\\ 0\\.008412832662137064\ \(0\)\
+\-\ patient\\:\\ 0\\.008236460874196038\ \(0\)\
+\-\ \\,\\:\\ 0\\.00780894419761406\ \(0\)\
+\-\ and\\:\\ 0\\.006923423297393018\ \(0\)\
+\-\ of\\:\\ 0\\.005601144269134059\ \(0\)\
+\-\ is\\:\\ 0\\.0054066420998531315\ \(0\)\
+\-\ the\\:\\ 0\\.003987960135681513\ \(0\)\
+\-\ \\.\\:\\ 0\\.002048050159462285\ \(0\)\

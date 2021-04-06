@@ -1,113 +1,111 @@
-Texto: 
-patient was given thiamine, but expired
-â€¢ t2 hyperintensity within the both thalami
-â€¢ t2 hyperintensity of the periaqueductal grey matter
-â€¢ enhancement of both mamillary bodies
-â€¢ enhancement of the periaqueductal grey matter
-wernicke encephalopathy
-â€¢ bilateral thalamic glioma
-â€¢ metabolic/toxic processes (wernicke encephalopathy, leigh disease, wilson disease)
-â€¢ infectious agents (japanese and west nile encephalitis, creutzfeldt-jakob disease)
-â€¢ vascular lesions(deep venous thrombosis, top of the basilar syndrome, infarction of the artery of percheron)
-52 year old woman with a history of breast cancer, on chemotherapy.  poor oral intake and now stuporous.
-limited differential diagnosis - mr imaging is the modality of choice differential diagnosis can be narrowed by the imaging appearance in combination with the presence or absence of other regions of involvement, & the patientâ€™s history. the differential includes primary neoplastic processes (bilateral thalamic glioma), metabolic/toxic processes (wernicke encephalopathy, leigh disease, wilson disease), infectious agents (japanese and west nile encephalitis, creutzfeldt-jakob disease), & vascular lesions(deep venous thrombosis, top of the basilar syndrome, infarction of the artery of percheron)
-
-
-Keywords by value: 
-- wernicke: 0.10393385353171729
-- metabolic/toxic: 0.0847646002304471
-- periaqueductal: 0.07809972349429378
-- percheron: 0.07420102053171528
-- encephalopathy: 0.07256724216415726
-- japanese: 0.06928923568781152
-- processes: 0.06671918772028951
-- nile: 0.06605392572029986
-- creutzfeldt-jakob: 0.06476997002198714
-- leigh: 0.06363744083298345
-- â€¢: 0.060269782753687995
-- west: 0.06010162563947078
-- thalamic: 0.05697256409683014
-- grey: 0.05645268696923133
-- wilson: 0.055043038178924836
-- agents: 0.048162076290347876
-- encephalitis: 0.0458891072704995
-- hyperintensity: 0.04523696692108834
-- top: 0.04405203768624268
-- basilar: 0.043122933496924684
-- stuporous: 0.04238230011522355
-- disease: 0.04029050599660685
-- differential: 0.039129228307974946
-- mamillary: 0.03710051026585764
-- glioma: 0.03704494032410184
-- thiamine: 0.03571742337907023
-- infectious: 0.03532552757176768
-- thrombosis: 0.03526946103031774
-- infarction: 0.033581811969500865
-- deep: 0.03325896297398544
-- matter: 0.03235076894616152
-- venous: 0.029824861715933935
-- &: 0.028859498962898383
-- expired: 0.027521519089462418
-- vascular: 0.026940416037727854
-- thalami: 0.0258727462475065
-- intake: 0.025289280588832137
-- narrowed: 0.02476902297036948
-- artery: 0.024466634539501913
-- (: 0.024310250402437613
-- ): 0.024013287715351612
-- syndrome: 0.023499101699371555
-- t2: 0.023255661237984154
-- modality: 0.02254030787942984
-- enhancement: 0.02202393044349073
-- lesions: 0.021995774099461036
-- 52: 0.021888646860217225
-- choice: 0.021255140717759902
-- neoplastic: 0.02102339984363549
-- both: 0.020982692218135784
-- ,: 0.020823851193637492
-- combination: 0.020695475564661774
-- bilateral: 0.01994055508956196
-- imaging: 0.01925070985053464
-- bodies: 0.01924679840670231
-- diagnosis: 0.018867493565196347
-- regions: 0.018799248295808025
-- poor: 0.018488966944185087
-- limited: 0.017336693611178258
-- oral: 0.017310493588257272
-- absence: 0.017080904976257756
-- includes: 0.0165619249799944
-- breast: 0.015156528576108426
-- involvement: 0.015057397387633734
-- presence: 0.014912430857966967
-- chemotherapy: 0.014725700890100314
-- given: 0.014083723040943956
-- now: 0.014043824950488691
-- cancer: 0.013505602232522911
-- mr: 0.013053843615127087
-- â€™: 0.012278974709833924
-- primary: 0.012170116648537002
-- s: 0.011782536861127823
-- appearance: 0.011749550849685778
-- history: 0.011348216708721956
-- woman: 0.009489918016773588
-- other: 0.009469416099531003
-- can: 0.009318376694562836
-- -: 0.008806386820713287
-- but: 0.008762035101122778
-- patient: 0.008236460874196038
-- the: 0.007975920271363027
-- within: 0.007837170232625392
-- of: 0.007281487549874277
-- by: 0.00684072549636959
-- be: 0.006335368862230429
-- or: 0.004815013216171671
-- was: 0.004751334241411956
-- year: 0.004596659948427475
-- old: 0.004206416331068532
-- on: 0.003480245251756866
-- is: 0.0027033210499265658
-- and: 0.0025962837365223817
-- in: 0.002025948221828149
-- a: 0.0019067298164355832
-- with: 0.0011250401547104783
-- .: 0.0005120125398655713
+\-\ Texto\\:\\ \ \(0\)\
+\-\ patient\\ was\\ given\\ thiamine\\,\\ but\\ expired\ \(0\)\
+\-\ \\â\\€\\¢\\ t2\\ hyperintensity\\ within\\ the\\ both\\ thalami\ \(0\)\
+\-\ \\â\\€\\¢\\ t2\\ hyperintensity\\ of\\ the\\ periaqueductal\\ grey\\ matter\ \(0\)\
+\-\ \\â\\€\\¢\\ enhancement\\ of\\ both\\ mamillary\\ bodies\ \(0\)\
+\-\ \\â\\€\\¢\\ enhancement\\ of\\ the\\ periaqueductal\\ grey\\ matter\ \(0\)\
+\-\ wernicke\\ encephalopathy\ \(0\)\
+\-\ \\â\\€\\¢\\ bilateral\\ thalamic\\ glioma\ \(1\)\
+\-\ \\â\\€\\¢\\ metabolic\\/toxic\\ processes\\ \\(wernicke\\ encephalopathy\\,\\ leigh\\ disease\\,\\ wilson\\ disease\\)\ \(0\)\
+\-\ \\â\\€\\¢\\ infectious\\ agents\\ \\(japanese\\ and\\ west\\ nile\\ encephalitis\\,\\ creutzfeldt\\-jakob\\ disease\\)\ \(0\)\
+\-\ \\â\\€\\¢\\ vascular\\ lesions\\(deep\\ venous\\ thrombosis\\,\\ top\\ of\\ the\\ basilar\\ syndrome\\,\\ infarction\\ of\\ the\\ artery\\ of\\ percheron\\)\ \(0\)\
+\-\ 52\\ year\\ old\\ woman\\ with\\ a\\ history\\ of\\ breast\\ cancer\\,\\ on\\ chemotherapy\\.\\ \\ poor\\ oral\\ intake\\ and\\ now\\ stuporous\\.\ \(0\)\
+\-\ limited\\ differential\\ diagnosis\\ \\-\\ mr\\ imaging\\ is\\ the\\ modality\\ of\\ choice\\ differential\\ diagnosis\\ can\\ be\\ narrowed\\ by\\ the\\ imaging\\ appearance\\ in\\ combination\\ with\\ the\\ presence\\ or\\ absence\\ of\\ other\\ regions\\ of\\ involvement\\,\\ \\&\\ the\\ patient\\â\\€\\™s\\ history\\.\\ the\\ differential\\ includes\\ primary\\ neoplastic\\ processes\\ \\(bilateral\\ thalamic\\ glioma\\)\\,\\ metabolic\\/toxic\\ processes\\ \\(wernicke\\ encephalopathy\\,\\ leigh\\ disease\\,\\ wilson\\ disease\\)\\,\\ infectious\\ agents\\ \\(japanese\\ and\\ west\\ nile\\ encephalitis\\,\\ creutzfeldt\\-jakob\\ disease\\)\\,\\ \\&\\ vascular\\ lesions\\(deep\\ venous\\ thrombosis\\,\\ top\\ of\\ the\\ basilar\\ syndrome\\,\\ infarction\\ of\\ the\\ artery\\ of\\ percheron\\)\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ wernicke\\:\\ 0\\.10393385353171729\ \(0\)\
+\-\ metabolic\\/toxic\\:\\ 0\\.0847646002304471\ \(0\)\
+\-\ periaqueductal\\:\\ 0\\.07809972349429378\ \(0\)\
+\-\ percheron\\:\\ 0\\.07420102053171528\ \(0\)\
+\-\ encephalopathy\\:\\ 0\\.07256724216415726\ \(0\)\
+\-\ japanese\\:\\ 0\\.06928923568781152\ \(0\)\
+\-\ processes\\:\\ 0\\.06671918772028951\ \(0\)\
+\-\ nile\\:\\ 0\\.06605392572029986\ \(0\)\
+\-\ creutzfeldt\\-jakob\\:\\ 0\\.06476997002198714\ \(0\)\
+\-\ leigh\\:\\ 0\\.06363744083298345\ \(0\)\
+\-\ \\â\\€\\¢\\:\\ 0\\.060269782753687995\ \(0\)\
+\-\ west\\:\\ 0\\.06010162563947078\ \(0\)\
+\-\ thalamic\\:\\ 0\\.05697256409683014\ \(0\)\
+\-\ grey\\:\\ 0\\.05645268696923133\ \(0\)\
+\-\ wilson\\:\\ 0\\.055043038178924836\ \(0\)\
+\-\ agents\\:\\ 0\\.048162076290347876\ \(0\)\
+\-\ encephalitis\\:\\ 0\\.0458891072704995\ \(0\)\
+\-\ hyperintensity\\:\\ 0\\.04523696692108834\ \(0\)\
+\-\ top\\:\\ 0\\.04405203768624268\ \(0\)\
+\-\ basilar\\:\\ 0\\.043122933496924684\ \(0\)\
+\-\ stuporous\\:\\ 0\\.04238230011522355\ \(0\)\
+\-\ disease\\:\\ 0\\.04029050599660685\ \(0\)\
+\-\ differential\\:\\ 0\\.039129228307974946\ \(0\)\
+\-\ mamillary\\:\\ 0\\.03710051026585764\ \(0\)\
+\-\ glioma\\:\\ 0\\.03704494032410184\ \(0\)\
+\-\ thiamine\\:\\ 0\\.03571742337907023\ \(0\)\
+\-\ infectious\\:\\ 0\\.03532552757176768\ \(0\)\
+\-\ thrombosis\\:\\ 0\\.03526946103031774\ \(0\)\
+\-\ infarction\\:\\ 0\\.033581811969500865\ \(0\)\
+\-\ deep\\:\\ 0\\.03325896297398544\ \(0\)\
+\-\ matter\\:\\ 0\\.03235076894616152\ \(0\)\
+\-\ venous\\:\\ 0\\.029824861715933935\ \(0\)\
+\-\ \\&\\:\\ 0\\.028859498962898383\ \(0\)\
+\-\ expired\\:\\ 0\\.027521519089462418\ \(0\)\
+\-\ vascular\\:\\ 0\\.026940416037727854\ \(0\)\
+\-\ thalami\\:\\ 0\\.0258727462475065\ \(0\)\
+\-\ intake\\:\\ 0\\.025289280588832137\ \(0\)\
+\-\ narrowed\\:\\ 0\\.02476902297036948\ \(0\)\
+\-\ artery\\:\\ 0\\.024466634539501913\ \(0\)\
+\-\ \\(\\:\\ 0\\.024310250402437613\ \(0\)\
+\-\ \\)\\:\\ 0\\.024013287715351612\ \(0\)\
+\-\ syndrome\\:\\ 0\\.023499101699371555\ \(0\)\
+\-\ t2\\:\\ 0\\.023255661237984154\ \(0\)\
+\-\ modality\\:\\ 0\\.02254030787942984\ \(0\)\
+\-\ enhancement\\:\\ 0\\.02202393044349073\ \(0\)\
+\-\ lesions\\:\\ 0\\.021995774099461036\ \(0\)\
+\-\ 52\\:\\ 0\\.021888646860217225\ \(0\)\
+\-\ choice\\:\\ 0\\.021255140717759902\ \(0\)\
+\-\ neoplastic\\:\\ 0\\.02102339984363549\ \(0\)\
+\-\ both\\:\\ 0\\.020982692218135784\ \(0\)\
+\-\ \\,\\:\\ 0\\.020823851193637492\ \(0\)\
+\-\ combination\\:\\ 0\\.020695475564661774\ \(0\)\
+\-\ bilateral\\:\\ 0\\.01994055508956196\ \(0\)\
+\-\ imaging\\:\\ 0\\.01925070985053464\ \(0\)\
+\-\ bodies\\:\\ 0\\.01924679840670231\ \(0\)\
+\-\ diagnosis\\:\\ 0\\.018867493565196347\ \(0\)\
+\-\ regions\\:\\ 0\\.018799248295808025\ \(0\)\
+\-\ poor\\:\\ 0\\.018488966944185087\ \(0\)\
+\-\ limited\\:\\ 0\\.017336693611178258\ \(0\)\
+\-\ oral\\:\\ 0\\.017310493588257272\ \(0\)\
+\-\ absence\\:\\ 0\\.017080904976257756\ \(0\)\
+\-\ includes\\:\\ 0\\.0165619249799944\ \(0\)\
+\-\ breast\\:\\ 0\\.015156528576108426\ \(0\)\
+\-\ involvement\\:\\ 0\\.015057397387633734\ \(0\)\
+\-\ presence\\:\\ 0\\.014912430857966967\ \(0\)\
+\-\ chemotherapy\\:\\ 0\\.014725700890100314\ \(0\)\
+\-\ given\\:\\ 0\\.014083723040943956\ \(0\)\
+\-\ now\\:\\ 0\\.014043824950488691\ \(0\)\
+\-\ cancer\\:\\ 0\\.013505602232522911\ \(0\)\
+\-\ mr\\:\\ 0\\.013053843615127087\ \(0\)\
+\-\ \\â\\€\\™\\:\\ 0\\.012278974709833924\ \(0\)\
+\-\ primary\\:\\ 0\\.012170116648537002\ \(0\)\
+\-\ s\\:\\ 0\\.011782536861127823\ \(0\)\
+\-\ appearance\\:\\ 0\\.011749550849685778\ \(0\)\
+\-\ history\\:\\ 0\\.011348216708721956\ \(0\)\
+\-\ woman\\:\\ 0\\.009489918016773588\ \(0\)\
+\-\ other\\:\\ 0\\.009469416099531003\ \(0\)\
+\-\ can\\:\\ 0\\.009318376694562836\ \(0\)\
+\-\ \\-\\:\\ 0\\.008806386820713287\ \(0\)\
+\-\ but\\:\\ 0\\.008762035101122778\ \(0\)\
+\-\ patient\\:\\ 0\\.008236460874196038\ \(0\)\
+\-\ the\\:\\ 0\\.007975920271363027\ \(0\)\
+\-\ within\\:\\ 0\\.007837170232625392\ \(0\)\
+\-\ of\\:\\ 0\\.007281487549874277\ \(0\)\
+\-\ by\\:\\ 0\\.00684072549636959\ \(0\)\
+\-\ be\\:\\ 0\\.006335368862230429\ \(0\)\
+\-\ or\\:\\ 0\\.004815013216171671\ \(0\)\
+\-\ was\\:\\ 0\\.004751334241411956\ \(0\)\
+\-\ year\\:\\ 0\\.004596659948427475\ \(0\)\
+\-\ old\\:\\ 0\\.004206416331068532\ \(0\)\
+\-\ on\\:\\ 0\\.003480245251756866\ \(0\)\
+\-\ is\\:\\ 0\\.0027033210499265658\ \(0\)\
+\-\ and\\:\\ 0\\.0025962837365223817\ \(0\)\
+\-\ in\\:\\ 0\\.002025948221828149\ \(0\)\
+\-\ a\\:\\ 0\\.0019067298164355832\ \(0\)\
+\-\ with\\:\\ 0\\.0011250401547104783\ \(0\)\
+\-\ \\.\\:\\ 0\\.0005120125398655713\ \(0\)\

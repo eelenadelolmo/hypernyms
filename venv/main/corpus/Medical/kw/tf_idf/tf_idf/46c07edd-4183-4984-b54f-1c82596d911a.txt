@@ -1,112 +1,109 @@
-Texto: 
-exam findings suggestive of an arthritis.
-the bones are diffusely osteopenic.  findings typical of osteoarthritis include distal greater than proximal joint space narrowing, osteophytosis, and sclerosis, with typical degenerative findings at the thumb carpal-metacarpal joint also appreciated.  a small subchondral cyst is present at the distal head of the middle finger proximal phalanx.
-
-additionally, central erosions are present at the dip‚Äôs (distal interphalangeal joint) of the ring and index fingers, as well as the pip‚Äôs (proximal interphalangeal joint) of the small and middle fingers.  there are subluxations present at the small finger pip as well as the thumb and index finger mcp‚Äôs (metacarpal-phalangeal joint).  the characteristic ‚Äúgull-wing‚Äù appearance of the articular surface is best appreciated at the ring finger dip.
-erosive osteoarthritis
-‚Ä¢ erosive osteoarthritis
-‚Ä¢ psoriatic osteoarthritis
-‚Ä¢ rheumatoid arthritis (well, not really ...)
-‚Ä¢ reiter's syndrome (only in men)
-‚Ä¢ gout (doesn't look like this)
-73 yo woman with ulnar deviation of the right fifth digit
-
-
-Keywords by value: 
-- finger: 0.09378360586151518
-- osteoarthritis: 0.087892382289391
-- joint: 0.07159143147777412
-- interphalangeal: 0.06084020150051874
-- pip: 0.059803067214954146
-- dip: 0.058860354487433666
-- fingers: 0.053125792433705306
-- thumb: 0.05286991043795016
-- erosive: 0.052620194877545386
-- index: 0.051454619919755855
-- carpal-metacarpal: 0.045676261264075126
-- metacarpal-phalangeal: 0.045676261264075126
-- appreciated: 0.043124954132735496
-- ring: 0.041153692616662255
-- ‚Ä¢: 0.04059622672528207
-- proximal: 0.03987890956021267
-- ‚Äô: 0.03969989750744232
-- osteophytosis: 0.038493388926666365
-- gull-wing: 0.038493388926666365
-- s: 0.038094834203853685
-- arthritis: 0.03783142435277704
-- distal: 0.03611313868828021
-- subluxations: 0.03559382525860718
-- typical: 0.035507219628497386
-- osteopenic: 0.03429167796181491
-- really: 0.032801097275536255
-- middle: 0.03238506704292682
-- small: 0.030599615819395624
-- reiter: 0.03042010075025937
-- well: 0.030047890460652607
-- present: 0.030000136071476904
-- at: 0.029993864062995673
-- mcp: 0.02879493205152858
-- findings: 0.028272076722123726
-- ...: 0.02805347690313131
-- n't: 0.027883581448089906
-- digit: 0.027404963209069103
-- 73: 0.027254768717497848
-- as: 0.026789171106614048
-- psoriatic: 0.026694076569102863
-- men: 0.025007950141980435
-- gout: 0.024819516752494036
-- deviation: 0.024727809099129264
-- phalanx: 0.024637696442591086
-- look: 0.024637696442591086
-- erosions: 0.024549124249019578
-- fifth: 0.024292145279385526
-- articular: 0.02373788559258673
-- ulnar: 0.023305856530726365
-- subchondral: 0.02323722841285061
-- (: 0.022456841230379082
-- diffusely: 0.02236118525200121
-- ): 0.022182518925802232
-- rheumatoid: 0.020913963372305538
-- like: 0.020495886111942103
-- degenerative: 0.020071896380089087
-- surface: 0.019544524906980578
-- additionally: 0.019189277904714794
-- suggestive: 0.01891571217638852
-- characteristic: 0.018741043485495715
-- bones: 0.01868410503173615
-- best: 0.01862778548646722
-- are: 0.01810684775952749
-- narrowing: 0.017753609814248693
-- greater: 0.016630654702955966
-- ‚Äú: 0.01653627418538425
-- ‚Äù: 0.016443582140043444
-- sclerosis: 0.015903187737960338
-- does: 0.015106844924269464
-- space: 0.01464537309366132
-- central: 0.014568038118445384
-- yo: 0.013323064887579079
-- only: 0.013313013774533346
-- appearance: 0.012662728376863427
-- syndrome: 0.012662728376863427
-- head: 0.012557519743906198
-- include: 0.01242048439393931
-- cyst: 0.011898296041586024
-- than: 0.011601289403721626
-- woman: 0.010227476411859619
-- the: 0.010028445522542803
-- 's: 0.009761899577031321
-- exam: 0.00972660072512714
-- also: 0.008728598930933426
-- ,: 0.008415856959086655
-- there: 0.006589199774429994
-- not: 0.006398024205916764
-- an: 0.006122615877122953
-- is: 0.005826847444401302
-- this: 0.004979985561213125
-- right: 0.00467166688658247
-- of: 0.004225526453813052
-- and: 0.003730756595486393
-- in: 0.002183405337514274
-- a: 0.0020549212529461206
-- .: 0.001287547941354528
-- with: 0.0012124785087035206
+\-\ Texto\\:\\ \ \(0\)\
+\-\ exam\\ findings\\ suggestive\\ of\\ an\\ arthritis\\.\ \(0\)\
+\-\ the\\ bones\\ are\\ diffusely\\ osteopenic\\.\\ \\ findings\\ typical\\ of\\ osteoarthritis\\ include\\ distal\\ greater\\ than\\ proximal\\ joint\\ space\\ narrowing\\,\\ osteophytosis\\,\\ and\\ sclerosis\\,\\ with\\ typical\\ degenerative\\ findings\\ at\\ the\\ thumb\\ carpal\\-metacarpal\\ joint\\ also\\ appreciated\\.\\ \\ a\\ small\\ subchondral\\ cyst\\ is\\ present\\ at\\ the\\ distal\\ head\\ of\\ the\\ middle\\ finger\\ proximal\\ phalanx\\.\ \(0\)\
+\-\ additionally\\,\\ central\\ erosions\\ are\\ present\\ at\\ the\\ dip\\‚\\Ä\\ôs\\ \\(distal\\ interphalangeal\\ joint\\)\\ of\\ the\\ ring\\ and\\ index\\ fingers\\,\\ as\\ well\\ as\\ the\\ pip\\‚\\Ä\\ôs\\ \\(proximal\\ interphalangeal\\ joint\\)\\ of\\ the\\ small\\ and\\ middle\\ fingers\\.\\ \\ there\\ are\\ subluxations\\ present\\ at\\ the\\ small\\ finger\\ pip\\ as\\ well\\ as\\ the\\ thumb\\ and\\ index\\ finger\\ mcp\\‚\\Ä\\ôs\\ \\(metacarpal\\-phalangeal\\ joint\\)\\.\\ \\ the\\ characteristic\\ \\‚\\Ä\\úgull\\-wing\\‚\\Ä\\ù\\ appearance\\ of\\ the\\ articular\\ surface\\ is\\ best\\ appreciated\\ at\\ the\\ ring\\ finger\\ dip\\.\ \(0\)\
+\-\ erosive\\ osteoarthritis\ \(8\)\
+\-\ \\‚\\Ä\\¢\\ erosive\\ osteoarthritis\ \(0\)\
+\-\ \\‚\\Ä\\¢\\ psoriatic\\ osteoarthritis\ \(0\)\
+\-\ \\‚\\Ä\\¢\\ rheumatoid\\ arthritis\\ \\(well\\,\\ not\\ really\\ \\.\\.\\.\\)\ \(0\)\
+\-\ \\‚\\Ä\\¢\\ reiter\\'s\\ syndrome\\ \\(only\\ in\\ men\\)\ \(0\)\
+\-\ \\‚\\Ä\\¢\\ gout\\ \\(doesn\\'t\\ look\\ like\\ this\\)\ \(0\)\
+\-\ 73\\ yo\\ woman\\ with\\ ulnar\\ deviation\\ of\\ the\\ right\\ fifth\\ digit\ \(1\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ finger\\:\\ 0\\.09378360586151518\ \(0\)\
+\-\ osteoarthritis\\:\\ 0\\.087892382289391\ \(0\)\
+\-\ joint\\:\\ 0\\.07159143147777412\ \(0\)\
+\-\ interphalangeal\\:\\ 0\\.06084020150051874\ \(0\)\
+\-\ pip\\:\\ 0\\.059803067214954146\ \(0\)\
+\-\ dip\\:\\ 0\\.058860354487433666\ \(0\)\
+\-\ fingers\\:\\ 0\\.053125792433705306\ \(0\)\
+\-\ thumb\\:\\ 0\\.05286991043795016\ \(0\)\
+\-\ erosive\\:\\ 0\\.052620194877545386\ \(0\)\
+\-\ index\\:\\ 0\\.051454619919755855\ \(0\)\
+\-\ carpal\\-metacarpal\\:\\ 0\\.045676261264075126\ \(0\)\
+\-\ metacarpal\\-phalangeal\\:\\ 0\\.045676261264075126\ \(0\)\
+\-\ appreciated\\:\\ 0\\.043124954132735496\ \(0\)\
+\-\ ring\\:\\ 0\\.041153692616662255\ \(0\)\
+\-\ \\‚\\Ä\\¢\\:\\ 0\\.04059622672528207\ \(0\)\
+\-\ proximal\\:\\ 0\\.03987890956021267\ \(0\)\
+\-\ \\‚\\Ä\\ô\\:\\ 0\\.03969989750744232\ \(0\)\
+\-\ osteophytosis\\:\\ 0\\.038493388926666365\ \(0\)\
+\-\ gull\\-wing\\:\\ 0\\.038493388926666365\ \(0\)\
+\-\ s\\:\\ 0\\.038094834203853685\ \(0\)\
+\-\ arthritis\\:\\ 0\\.03783142435277704\ \(0\)\
+\-\ distal\\:\\ 0\\.03611313868828021\ \(0\)\
+\-\ subluxations\\:\\ 0\\.03559382525860718\ \(0\)\
+\-\ typical\\:\\ 0\\.035507219628497386\ \(0\)\
+\-\ osteopenic\\:\\ 0\\.03429167796181491\ \(0\)\
+\-\ really\\:\\ 0\\.032801097275536255\ \(0\)\
+\-\ middle\\:\\ 0\\.03238506704292682\ \(0\)\
+\-\ small\\:\\ 0\\.030599615819395624\ \(0\)\
+\-\ reiter\\:\\ 0\\.03042010075025937\ \(0\)\
+\-\ well\\:\\ 0\\.030047890460652607\ \(0\)\
+\-\ present\\:\\ 0\\.030000136071476904\ \(0\)\
+\-\ at\\:\\ 0\\.029993864062995673\ \(0\)\
+\-\ mcp\\:\\ 0\\.02879493205152858\ \(0\)\
+\-\ findings\\:\\ 0\\.028272076722123726\ \(0\)\
+\-\ \\.\\.\\.\\:\\ 0\\.02805347690313131\ \(0\)\
+\-\ n\\'t\\:\\ 0\\.027883581448089906\ \(0\)\
+\-\ digit\\:\\ 0\\.027404963209069103\ \(0\)\
+\-\ 73\\:\\ 0\\.027254768717497848\ \(0\)\
+\-\ as\\:\\ 0\\.026789171106614048\ \(0\)\
+\-\ psoriatic\\:\\ 0\\.026694076569102863\ \(0\)\
+\-\ men\\:\\ 0\\.025007950141980435\ \(0\)\
+\-\ gout\\:\\ 0\\.024819516752494036\ \(0\)\
+\-\ deviation\\:\\ 0\\.024727809099129264\ \(0\)\
+\-\ phalanx\\:\\ 0\\.024637696442591086\ \(0\)\
+\-\ look\\:\\ 0\\.024637696442591086\ \(0\)\
+\-\ erosions\\:\\ 0\\.024549124249019578\ \(0\)\
+\-\ fifth\\:\\ 0\\.024292145279385526\ \(0\)\
+\-\ articular\\:\\ 0\\.02373788559258673\ \(0\)\
+\-\ ulnar\\:\\ 0\\.023305856530726365\ \(0\)\
+\-\ subchondral\\:\\ 0\\.02323722841285061\ \(0\)\
+\-\ \\(\\:\\ 0\\.022456841230379082\ \(0\)\
+\-\ diffusely\\:\\ 0\\.02236118525200121\ \(0\)\
+\-\ \\)\\:\\ 0\\.022182518925802232\ \(0\)\
+\-\ rheumatoid\\:\\ 0\\.020913963372305538\ \(0\)\
+\-\ like\\:\\ 0\\.020495886111942103\ \(0\)\
+\-\ degenerative\\:\\ 0\\.020071896380089087\ \(0\)\
+\-\ surface\\:\\ 0\\.019544524906980578\ \(0\)\
+\-\ additionally\\:\\ 0\\.019189277904714794\ \(0\)\
+\-\ suggestive\\:\\ 0\\.01891571217638852\ \(0\)\
+\-\ characteristic\\:\\ 0\\.018741043485495715\ \(0\)\
+\-\ bones\\:\\ 0\\.01868410503173615\ \(0\)\
+\-\ best\\:\\ 0\\.01862778548646722\ \(0\)\
+\-\ are\\:\\ 0\\.01810684775952749\ \(0\)\
+\-\ narrowing\\:\\ 0\\.017753609814248693\ \(0\)\
+\-\ greater\\:\\ 0\\.016630654702955966\ \(0\)\
+\-\ \\‚\\Ä\\ú\\:\\ 0\\.01653627418538425\ \(0\)\
+\-\ \\‚\\Ä\\ù\\:\\ 0\\.016443582140043444\ \(0\)\
+\-\ sclerosis\\:\\ 0\\.015903187737960338\ \(0\)\
+\-\ does\\:\\ 0\\.015106844924269464\ \(0\)\
+\-\ space\\:\\ 0\\.01464537309366132\ \(0\)\
+\-\ central\\:\\ 0\\.014568038118445384\ \(0\)\
+\-\ yo\\:\\ 0\\.013323064887579079\ \(0\)\
+\-\ only\\:\\ 0\\.013313013774533346\ \(0\)\
+\-\ appearance\\:\\ 0\\.012662728376863427\ \(0\)\
+\-\ syndrome\\:\\ 0\\.012662728376863427\ \(0\)\
+\-\ head\\:\\ 0\\.012557519743906198\ \(0\)\
+\-\ include\\:\\ 0\\.01242048439393931\ \(0\)\
+\-\ cyst\\:\\ 0\\.011898296041586024\ \(0\)\
+\-\ than\\:\\ 0\\.011601289403721626\ \(0\)\
+\-\ woman\\:\\ 0\\.010227476411859619\ \(0\)\
+\-\ the\\:\\ 0\\.010028445522542803\ \(0\)\
+\-\ \\'s\\:\\ 0\\.009761899577031321\ \(0\)\
+\-\ exam\\:\\ 0\\.00972660072512714\ \(0\)\
+\-\ also\\:\\ 0\\.008728598930933426\ \(0\)\
+\-\ \\,\\:\\ 0\\.008415856959086655\ \(0\)\
+\-\ there\\:\\ 0\\.006589199774429994\ \(0\)\
+\-\ not\\:\\ 0\\.006398024205916764\ \(0\)\
+\-\ an\\:\\ 0\\.006122615877122953\ \(0\)\
+\-\ is\\:\\ 0\\.005826847444401302\ \(0\)\
+\-\ this\\:\\ 0\\.004979985561213125\ \(0\)\
+\-\ right\\:\\ 0\\.00467166688658247\ \(0\)\
+\-\ of\\:\\ 0\\.004225526453813052\ \(0\)\
+\-\ and\\:\\ 0\\.003730756595486393\ \(0\)\
+\-\ in\\:\\ 0\\.002183405337514274\ \(0\)\
+\-\ a\\:\\ 0\\.0020549212529461206\ \(0\)\
+\-\ \\.\\:\\ 0\\.001287547941354528\ \(0\)\
+\-\ with\\:\\ 0\\.0012124785087035206\ \(0\)\

@@ -1,61 +1,59 @@
-Texto: 
-focal region of small bowel thickening, with no adjacent inflammatory changes to suggest an external cause.
-small bowel lymphoma
-ischemic bowel disease, lymphoma, inflammatory bowel disease
-78 yo caucasian woman with left lower quadrant pain and a prior history of diverticulitis
-given the history of diverticulitis, it was somewhat surprising to find a different source for this patient's pain, even though her symptoms were purportedly similar during her prior episode of diverticulitis.
-
-
-Keywords by value: 
-- diverticulitis: 0.4154713030313033
-- bowel: 0.378255381707904
-- purportedly: 0.2356475306310774
-- surprising: 0.2032868987552496
-- inflammatory: 0.1992759936651057
-- her: 0.18411403202663676
-- lymphoma: 0.17551418515084197
-- find: 0.16841639041080264
-- prior: 0.1648871286538801
-- small: 0.15201799298237742
-- 78: 0.15003743840905093
-- source: 0.14035857888926426
-- different: 0.13485408101203
-- episode: 0.13485408101203
-- somewhat: 0.13408293692876438
-- caucasian: 0.13098421886878717
-- ischemic: 0.13031899562447713
-- though: 0.1280166995416127
-- even: 0.12394909398317917
-- disease: 0.12370606187838548
-- suggest: 0.11969973137595363
-- external: 0.11912567645359277
-- of: 0.1153443429262027
-- history: 0.11259379942086356
-- similar: 0.11230480384064707
-- pain: 0.10545575948164976
-- quadrant: 0.10321155940395774
-- given: 0.10136303071612077
-- cause: 0.10038285969192863
-- thickening: 0.10024582272116526
-- adjacent: 0.09551343114429937
-- during: 0.09333227043726011
-- yo: 0.09205701601331838
-- changes: 0.08905325451789216
-- focal: 0.0881391581693696
-- region: 0.0881391581693696
-- symptoms: 0.08062253190121202
-- woman: 0.076741274426958
-- were: 0.07595557060160286
-- it: 0.07542730253035533
-- lower: 0.07529690645130706
-- to: 0.07367529730545509
-- with: 0.05770663057180803
-- an: 0.05634681549100094
-- was: 0.051353544556391774
-- this: 0.05063271570670434
-- left: 0.050264896480294786
-- patient: 0.04792612782498832
-- no: 0.047917113199733144
-- for: 0.04466118526990322
-- and: 0.03044843560915564
-- the: 0.029402013842521738
+\-\ Texto\\:\\ \ \(0\)\
+\-\ focal\\ region\\ of\\ small\\ bowel\\ thickening\\,\\ with\\ no\\ adjacent\\ inflammatory\\ changes\\ to\\ suggest\\ an\\ external\\ cause\\.\ \(0\)\
+\-\ small\\ bowel\\ lymphoma\ \(5\)\
+\-\ ischemic\\ bowel\\ disease\\,\\ lymphoma\\,\\ inflammatory\\ bowel\\ disease\ \(1\)\
+\-\ 78\\ yo\\ caucasian\\ woman\\ with\\ left\\ lower\\ quadrant\\ pain\\ and\\ a\\ prior\\ history\\ of\\ diverticulitis\ \(0\)\
+\-\ given\\ the\\ history\\ of\\ diverticulitis\\,\\ it\\ was\\ somewhat\\ surprising\\ to\\ find\\ a\\ different\\ source\\ for\\ this\\ patient\\'s\\ pain\\,\\ even\\ though\\ her\\ symptoms\\ were\\ purportedly\\ similar\\ during\\ her\\ prior\\ episode\\ of\\ diverticulitis\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ diverticulitis\\:\\ 0\\.4154713030313033\ \(0\)\
+\-\ bowel\\:\\ 0\\.378255381707904\ \(0\)\
+\-\ purportedly\\:\\ 0\\.2356475306310774\ \(0\)\
+\-\ surprising\\:\\ 0\\.2032868987552496\ \(0\)\
+\-\ inflammatory\\:\\ 0\\.1992759936651057\ \(0\)\
+\-\ her\\:\\ 0\\.18411403202663676\ \(0\)\
+\-\ lymphoma\\:\\ 0\\.17551418515084197\ \(0\)\
+\-\ find\\:\\ 0\\.16841639041080264\ \(0\)\
+\-\ prior\\:\\ 0\\.1648871286538801\ \(0\)\
+\-\ small\\:\\ 0\\.15201799298237742\ \(0\)\
+\-\ 78\\:\\ 0\\.15003743840905093\ \(0\)\
+\-\ source\\:\\ 0\\.14035857888926426\ \(0\)\
+\-\ different\\:\\ 0\\.13485408101203\ \(0\)\
+\-\ episode\\:\\ 0\\.13485408101203\ \(0\)\
+\-\ somewhat\\:\\ 0\\.13408293692876438\ \(0\)\
+\-\ caucasian\\:\\ 0\\.13098421886878717\ \(0\)\
+\-\ ischemic\\:\\ 0\\.13031899562447713\ \(0\)\
+\-\ though\\:\\ 0\\.1280166995416127\ \(0\)\
+\-\ even\\:\\ 0\\.12394909398317917\ \(0\)\
+\-\ disease\\:\\ 0\\.12370606187838548\ \(0\)\
+\-\ suggest\\:\\ 0\\.11969973137595363\ \(0\)\
+\-\ external\\:\\ 0\\.11912567645359277\ \(0\)\
+\-\ of\\:\\ 0\\.1153443429262027\ \(0\)\
+\-\ history\\:\\ 0\\.11259379942086356\ \(0\)\
+\-\ similar\\:\\ 0\\.11230480384064707\ \(0\)\
+\-\ pain\\:\\ 0\\.10545575948164976\ \(0\)\
+\-\ quadrant\\:\\ 0\\.10321155940395774\ \(0\)\
+\-\ given\\:\\ 0\\.10136303071612077\ \(0\)\
+\-\ cause\\:\\ 0\\.10038285969192863\ \(0\)\
+\-\ thickening\\:\\ 0\\.10024582272116526\ \(0\)\
+\-\ adjacent\\:\\ 0\\.09551343114429937\ \(0\)\
+\-\ during\\:\\ 0\\.09333227043726011\ \(0\)\
+\-\ yo\\:\\ 0\\.09205701601331838\ \(0\)\
+\-\ changes\\:\\ 0\\.08905325451789216\ \(0\)\
+\-\ focal\\:\\ 0\\.0881391581693696\ \(0\)\
+\-\ region\\:\\ 0\\.0881391581693696\ \(0\)\
+\-\ symptoms\\:\\ 0\\.08062253190121202\ \(0\)\
+\-\ woman\\:\\ 0\\.076741274426958\ \(0\)\
+\-\ were\\:\\ 0\\.07595557060160286\ \(0\)\
+\-\ it\\:\\ 0\\.07542730253035533\ \(0\)\
+\-\ lower\\:\\ 0\\.07529690645130706\ \(0\)\
+\-\ to\\:\\ 0\\.07367529730545509\ \(0\)\
+\-\ with\\:\\ 0\\.05770663057180803\ \(0\)\
+\-\ an\\:\\ 0\\.05634681549100094\ \(0\)\
+\-\ was\\:\\ 0\\.051353544556391774\ \(0\)\
+\-\ this\\:\\ 0\\.05063271570670434\ \(0\)\
+\-\ left\\:\\ 0\\.050264896480294786\ \(0\)\
+\-\ patient\\:\\ 0\\.04792612782498832\ \(0\)\
+\-\ no\\:\\ 0\\.047917113199733144\ \(0\)\
+\-\ for\\:\\ 0\\.04466118526990322\ \(0\)\
+\-\ and\\:\\ 0\\.03044843560915564\ \(0\)\
+\-\ the\\:\\ 0\\.029402013842521738\ \(0\)\

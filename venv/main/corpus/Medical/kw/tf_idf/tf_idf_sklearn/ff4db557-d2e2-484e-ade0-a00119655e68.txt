@@ -1,133 +1,130 @@
-Texto: 
-wbc 10.6 - normal
-esr 12 - normal
-c-reactive protein 0.9 - normal
-patient went to surgery and debridement, tissue examination demonstrated chronic inflammation and regenerating bone consistent with chronic osteomyelitis. no organisms cultured.
-skin biopsy - inflammation and fibrosis.
-frontal and lateral radiographs demonstrate a large lucent lesion located centrally within the distal metaphysis of the distal femur, extending to the epiphysis.  there is a sclerotic rim and no evidence of a periosteal reaction, cortical break or matrix.
-
-there is a large, 12 x 2 x 2-cm abnormal signal within the marrow space of the distal femur, which demonstrates low signal on t1 and high signal on t2 images.  this lesion enhances intensely after gadolinium administration. the bony sequestrum is noted on the ct reformatted images.  there is a sinus tract extending posteriorly from the medullary cavity to the posterior cortex in the distal metaphysis.
-osteomyelitis, chronic, no organisms cultured
-chronic osteomyelitis (brodie&#39;s abscess)
-langerhans cell histiocytosis (eosinophilic granuloma)
-fibrosarcoma
-malignant fibrous histiocytoma
-primary lymphoma
-21 y.o. man with orsening pain in his knee
-patient had a prior history of osteomyelitis in the distal femur that was debrided.
-
-
-Keywords by value: 
-- osteomyelitis: 0.29848208603715487
-- distal: 0.25145308129302424
-- cultured: 0.23119647385548225
-- femur: 0.21302958680208792
-- chronic: 0.20550633891352857
-- the: 0.18997948573217047
-- organisms: 0.18669761847661837
-- metaphysis: 0.15904701669294408
-- signal: 0.14719673613634876
-- inflammation: 0.13912735142522187
-- orsening: 0.13842031651031572
-- debrided: 0.13842031651031572
-- sequestrum: 0.12790286564569822
-- regenerating: 0.12175055128671967
-- 12: 0.11833685597068849
-- extending: 0.11737082379022068
-- brodie: 0.11399955186116295
-- break: 0.10889409905803277
-- fibrosarcoma: 0.1078472375021844
-- and: 0.10731320840857873
-- normal: 0.10601950015160781
-- reformatted: 0.10426039847583349
-- intensely: 0.10348210099654545
-- there: 0.10331991885954454
-- histiocytoma: 0.1000962380766277
-- is: 0.09481471869635726
-- debridement: 0.09456333519850613
-- langerhans: 0.09084397590443304
-- matrix: 0.08706735814918637
-- histiocytosis: 0.08681233577294939
-- large: 0.08673672097068978
-- epiphysis: 0.08559780981275246
-- centrally: 0.08536614921819768
-- no: 0.08444012068709064
-- eosinophilic: 0.08425810421571969
-- went: 0.08404588433388861
-- lucent: 0.08363014670579694
-- lesion: 0.08299280198845921
-- protein: 0.08032652503981552
-- images: 0.08007491652065593
-- within: 0.07972914428306153
-- esr: 0.07921383485921914
-- on: 0.0784233031867177
-- granuloma: 0.07832102004990145
-- medullary: 0.07654990728456885
-- enhances: 0.07629488490833189
-- posteriorly: 0.07629488490833189
-- periosteal: 0.07616896323788926
-- reaction: 0.07363417239338325
-- sclerotic: 0.07260854733394081
-- fibrosis: 0.07250969698951078
-- tract: 0.07250969698951078
-- gadolinium: 0.07212061223004126
-- marrow: 0.07192974840269292
-- 39: 0.07192974840269292
-- cavity: 0.07146283543366244
-- cortex: 0.07048356184794122
-- 21: 0.06916329696363213
-- rim: 0.06892804458915641
-- administration: 0.06892804458915641
-- located: 0.06846820715031016
-- of: 0.06775373547416992
-- fibrous: 0.06723627043179997
-- bony: 0.06668941938521597
-- to: 0.06491575327376523
-- in: 0.0645962380705969
-- skin: 0.06438883190041081
-- sinus: 0.06254406963562308
-- cortical: 0.06214076418701035
-- knee: 0.062041590799942786
-- malignant: 0.06169950120782867
-- wbc: 0.06117704516359969
-- biopsy: 0.060671981240584184
-- space: 0.057614798483321183
-- patient: 0.05630400424636439
-- radiographs: 0.056138435967271166
-- frontal: 0.055709125143708536
-- abscess: 0.055579436540491224
-- examination: 0.055386958599614934
-- t1: 0.0539291848169575
-- primary: 0.053221998388971015
-- demonstrated: 0.0531943851434882
-- his: 0.052493531740036084
-- abnormal: 0.05200109567969718
-- lymphoma: 0.051548872580092484
-- t2: 0.049797490980478115
-- low: 0.04966573784408932
-- cell: 0.049513457971794905
-- high: 0.04919220092847212
-- evidence: 0.04912875773832225
-- prior: 0.04842768450750151
-- bone: 0.047227115446223794
-- consistent: 0.04693211759173962
-- surgery: 0.04653563846412611
-- noted: 0.04589134368861291
-- man: 0.045823301089365415
-- tissue: 0.04540481140282689
-- demonstrate: 0.044997554690716327
-- posterior: 0.04475834625463427
-- demonstrates: 0.043484299725296015
-- had: 0.04312489224955213
-- lateral: 0.04295535446113978
-- after: 0.04198925801407147
-- which: 0.03935742776589566
-- that: 0.03756163176802352
-- from: 0.03437598351008969
-- with: 0.03389710915748546
-- history: 0.03306902752427896
-- ct: 0.0329523079163887
-- pain: 0.03097257069953907
-- was: 0.030165280630718782
-- or: 0.030110949453574162
-- this: 0.029741862836964304
+\-\ Texto\\:\\ \ \(0\)\
+\-\ wbc\\ 10\\.6\\ \\-\\ normal\ \(0\)\
+\-\ esr\\ 12\\ \\-\\ normal\ \(0\)\
+\-\ c\\-reactive\\ protein\\ 0\\.9\\ \\-\\ normal\ \(0\)\
+\-\ patient\\ went\\ to\\ surgery\\ and\\ debridement\\,\\ tissue\\ examination\\ demonstrated\\ chronic\\ inflammation\\ and\\ regenerating\\ bone\\ consistent\\ with\\ chronic\\ osteomyelitis\\.\\ no\\ organisms\\ cultured\\.\ \(0\)\
+\-\ skin\\ biopsy\\ \\-\\ inflammation\\ and\\ fibrosis\\.\ \(0\)\
+\-\ frontal\\ and\\ lateral\\ radiographs\\ demonstrate\\ a\\ large\\ lucent\\ lesion\\ located\\ centrally\\ within\\ the\\ distal\\ metaphysis\\ of\\ the\\ distal\\ femur\\,\\ extending\\ to\\ the\\ epiphysis\\.\\ \\ there\\ is\\ a\\ sclerotic\\ rim\\ and\\ no\\ evidence\\ of\\ a\\ periosteal\\ reaction\\,\\ cortical\\ break\\ or\\ matrix\\.\ \(0\)\
+\-\ there\\ is\\ a\\ large\\,\\ 12\\ x\\ 2\\ x\\ 2\\-cm\\ abnormal\\ signal\\ within\\ the\\ marrow\\ space\\ of\\ the\\ distal\\ femur\\,\\ which\\ demonstrates\\ low\\ signal\\ on\\ t1\\ and\\ high\\ signal\\ on\\ t2\\ images\\.\\ \\ this\\ lesion\\ enhances\\ intensely\\ after\\ gadolinium\\ administration\\.\\ the\\ bony\\ sequestrum\\ is\\ noted\\ on\\ the\\ ct\\ reformatted\\ images\\.\\ \\ there\\ is\\ a\\ sinus\\ tract\\ extending\\ posteriorly\\ from\\ the\\ medullary\\ cavity\\ to\\ the\\ posterior\\ cortex\\ in\\ the\\ distal\\ metaphysis\\.\ \(0\)\
+\-\ osteomyelitis\\,\\ chronic\\,\\ no\\ organisms\\ cultured\ \(0\)\
+\-\ chronic\\ osteomyelitis\\ \\(brodie\\&\\#39\\;s\\ abscess\\)\ \(0\)\
+\-\ langerhans\\ cell\\ histiocytosis\\ \\(eosinophilic\\ granuloma\\)\ \(0\)\
+\-\ fibrosarcoma\ \(14\)\
+\-\ malignant\\ fibrous\\ histiocytoma\ \(11\)\
+\-\ primary\\ lymphoma\ \(2\)\
+\-\ 21\\ y\\.o\\.\\ man\\ with\\ orsening\\ pain\\ in\\ his\\ knee\ \(1\)\
+\-\ patient\\ had\\ a\\ prior\\ history\\ of\\ osteomyelitis\\ in\\ the\\ distal\\ femur\\ that\\ was\\ debrided\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ osteomyelitis\\:\\ 0\\.29848208603715487\ \(0\)\
+\-\ distal\\:\\ 0\\.25145308129302424\ \(0\)\
+\-\ cultured\\:\\ 0\\.23119647385548225\ \(0\)\
+\-\ femur\\:\\ 0\\.21302958680208792\ \(0\)\
+\-\ chronic\\:\\ 0\\.20550633891352857\ \(0\)\
+\-\ the\\:\\ 0\\.18997948573217047\ \(0\)\
+\-\ organisms\\:\\ 0\\.18669761847661837\ \(0\)\
+\-\ metaphysis\\:\\ 0\\.15904701669294408\ \(0\)\
+\-\ signal\\:\\ 0\\.14719673613634876\ \(0\)\
+\-\ inflammation\\:\\ 0\\.13912735142522187\ \(0\)\
+\-\ orsening\\:\\ 0\\.13842031651031572\ \(0\)\
+\-\ debrided\\:\\ 0\\.13842031651031572\ \(0\)\
+\-\ sequestrum\\:\\ 0\\.12790286564569822\ \(0\)\
+\-\ regenerating\\:\\ 0\\.12175055128671967\ \(0\)\
+\-\ 12\\:\\ 0\\.11833685597068849\ \(0\)\
+\-\ extending\\:\\ 0\\.11737082379022068\ \(0\)\
+\-\ brodie\\:\\ 0\\.11399955186116295\ \(0\)\
+\-\ break\\:\\ 0\\.10889409905803277\ \(0\)\
+\-\ fibrosarcoma\\:\\ 0\\.1078472375021844\ \(0\)\
+\-\ and\\:\\ 0\\.10731320840857873\ \(0\)\
+\-\ normal\\:\\ 0\\.10601950015160781\ \(0\)\
+\-\ reformatted\\:\\ 0\\.10426039847583349\ \(0\)\
+\-\ intensely\\:\\ 0\\.10348210099654545\ \(0\)\
+\-\ there\\:\\ 0\\.10331991885954454\ \(0\)\
+\-\ histiocytoma\\:\\ 0\\.1000962380766277\ \(0\)\
+\-\ is\\:\\ 0\\.09481471869635726\ \(0\)\
+\-\ debridement\\:\\ 0\\.09456333519850613\ \(0\)\
+\-\ langerhans\\:\\ 0\\.09084397590443304\ \(0\)\
+\-\ matrix\\:\\ 0\\.08706735814918637\ \(0\)\
+\-\ histiocytosis\\:\\ 0\\.08681233577294939\ \(0\)\
+\-\ large\\:\\ 0\\.08673672097068978\ \(0\)\
+\-\ epiphysis\\:\\ 0\\.08559780981275246\ \(0\)\
+\-\ centrally\\:\\ 0\\.08536614921819768\ \(0\)\
+\-\ no\\:\\ 0\\.08444012068709064\ \(0\)\
+\-\ eosinophilic\\:\\ 0\\.08425810421571969\ \(0\)\
+\-\ went\\:\\ 0\\.08404588433388861\ \(0\)\
+\-\ lucent\\:\\ 0\\.08363014670579694\ \(0\)\
+\-\ lesion\\:\\ 0\\.08299280198845921\ \(0\)\
+\-\ protein\\:\\ 0\\.08032652503981552\ \(0\)\
+\-\ images\\:\\ 0\\.08007491652065593\ \(0\)\
+\-\ within\\:\\ 0\\.07972914428306153\ \(0\)\
+\-\ esr\\:\\ 0\\.07921383485921914\ \(0\)\
+\-\ on\\:\\ 0\\.0784233031867177\ \(0\)\
+\-\ granuloma\\:\\ 0\\.07832102004990145\ \(0\)\
+\-\ medullary\\:\\ 0\\.07654990728456885\ \(0\)\
+\-\ enhances\\:\\ 0\\.07629488490833189\ \(0\)\
+\-\ posteriorly\\:\\ 0\\.07629488490833189\ \(0\)\
+\-\ periosteal\\:\\ 0\\.07616896323788926\ \(0\)\
+\-\ reaction\\:\\ 0\\.07363417239338325\ \(0\)\
+\-\ sclerotic\\:\\ 0\\.07260854733394081\ \(0\)\
+\-\ fibrosis\\:\\ 0\\.07250969698951078\ \(0\)\
+\-\ tract\\:\\ 0\\.07250969698951078\ \(0\)\
+\-\ gadolinium\\:\\ 0\\.07212061223004126\ \(0\)\
+\-\ marrow\\:\\ 0\\.07192974840269292\ \(0\)\
+\-\ 39\\:\\ 0\\.07192974840269292\ \(0\)\
+\-\ cavity\\:\\ 0\\.07146283543366244\ \(0\)\
+\-\ cortex\\:\\ 0\\.07048356184794122\ \(0\)\
+\-\ 21\\:\\ 0\\.06916329696363213\ \(0\)\
+\-\ rim\\:\\ 0\\.06892804458915641\ \(0\)\
+\-\ administration\\:\\ 0\\.06892804458915641\ \(0\)\
+\-\ located\\:\\ 0\\.06846820715031016\ \(0\)\
+\-\ of\\:\\ 0\\.06775373547416992\ \(0\)\
+\-\ fibrous\\:\\ 0\\.06723627043179997\ \(0\)\
+\-\ bony\\:\\ 0\\.06668941938521597\ \(0\)\
+\-\ to\\:\\ 0\\.06491575327376523\ \(0\)\
+\-\ in\\:\\ 0\\.0645962380705969\ \(0\)\
+\-\ skin\\:\\ 0\\.06438883190041081\ \(0\)\
+\-\ sinus\\:\\ 0\\.06254406963562308\ \(0\)\
+\-\ cortical\\:\\ 0\\.06214076418701035\ \(0\)\
+\-\ knee\\:\\ 0\\.062041590799942786\ \(0\)\
+\-\ malignant\\:\\ 0\\.06169950120782867\ \(0\)\
+\-\ wbc\\:\\ 0\\.06117704516359969\ \(0\)\
+\-\ biopsy\\:\\ 0\\.060671981240584184\ \(0\)\
+\-\ space\\:\\ 0\\.057614798483321183\ \(0\)\
+\-\ patient\\:\\ 0\\.05630400424636439\ \(0\)\
+\-\ radiographs\\:\\ 0\\.056138435967271166\ \(0\)\
+\-\ frontal\\:\\ 0\\.055709125143708536\ \(0\)\
+\-\ abscess\\:\\ 0\\.055579436540491224\ \(0\)\
+\-\ examination\\:\\ 0\\.055386958599614934\ \(0\)\
+\-\ t1\\:\\ 0\\.0539291848169575\ \(0\)\
+\-\ primary\\:\\ 0\\.053221998388971015\ \(0\)\
+\-\ demonstrated\\:\\ 0\\.0531943851434882\ \(0\)\
+\-\ his\\:\\ 0\\.052493531740036084\ \(0\)\
+\-\ abnormal\\:\\ 0\\.05200109567969718\ \(0\)\
+\-\ lymphoma\\:\\ 0\\.051548872580092484\ \(0\)\
+\-\ t2\\:\\ 0\\.049797490980478115\ \(0\)\
+\-\ low\\:\\ 0\\.04966573784408932\ \(0\)\
+\-\ cell\\:\\ 0\\.049513457971794905\ \(0\)\
+\-\ high\\:\\ 0\\.04919220092847212\ \(0\)\
+\-\ evidence\\:\\ 0\\.04912875773832225\ \(0\)\
+\-\ prior\\:\\ 0\\.04842768450750151\ \(0\)\
+\-\ bone\\:\\ 0\\.047227115446223794\ \(0\)\
+\-\ consistent\\:\\ 0\\.04693211759173962\ \(0\)\
+\-\ surgery\\:\\ 0\\.04653563846412611\ \(0\)\
+\-\ noted\\:\\ 0\\.04589134368861291\ \(0\)\
+\-\ man\\:\\ 0\\.045823301089365415\ \(0\)\
+\-\ tissue\\:\\ 0\\.04540481140282689\ \(0\)\
+\-\ demonstrate\\:\\ 0\\.044997554690716327\ \(0\)\
+\-\ posterior\\:\\ 0\\.04475834625463427\ \(0\)\
+\-\ demonstrates\\:\\ 0\\.043484299725296015\ \(0\)\
+\-\ had\\:\\ 0\\.04312489224955213\ \(0\)\
+\-\ lateral\\:\\ 0\\.04295535446113978\ \(0\)\
+\-\ after\\:\\ 0\\.04198925801407147\ \(0\)\
+\-\ which\\:\\ 0\\.03935742776589566\ \(0\)\
+\-\ that\\:\\ 0\\.03756163176802352\ \(0\)\
+\-\ from\\:\\ 0\\.03437598351008969\ \(0\)\
+\-\ with\\:\\ 0\\.03389710915748546\ \(0\)\
+\-\ history\\:\\ 0\\.03306902752427896\ \(0\)\
+\-\ ct\\:\\ 0\\.0329523079163887\ \(0\)\
+\-\ pain\\:\\ 0\\.03097257069953907\ \(0\)\
+\-\ was\\:\\ 0\\.030165280630718782\ \(0\)\
+\-\ or\\:\\ 0\\.030110949453574162\ \(0\)\
+\-\ this\\:\\ 0\\.029741862836964304\ \(0\)\

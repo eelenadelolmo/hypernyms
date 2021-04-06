@@ -1,78 +1,76 @@
-Texto: 
-arterial or venous thrombolysis, thrombectomy, or surgical decompression and shunt placement.
-near occlusive thrombosis is seen in the main portal vein with complete occlusion of the right portal vein, but trace contrast to the left portal vein.  there is no evidence of enhancement within the thrombus.  these findings suggest a bland thrombus.
-portal vein thrombosis
-idiopathic, portal vein invasion or compression by tumor, post operative (splenectomy, transplant), blood dyscrasias, coagulopathies, sepsis, pylephlebitis, pancreatitis, cholangitis, suppurative lymphadenitis, cirrhosis, and portal hypertention.
-71 year-old male three months post radio frequency ablation of liver malignancy.
-
-
-Keywords by value: 
-- portal: 0.5626670702722448
-- vein: 0.35120314350980486
-- thrombus: 0.1822594710793192
-- thrombosis: 0.15979224749887933
-- pylephlebitis: 0.15671310054187024
-- hypertention: 0.15671310054187024
-- coagulopathies: 0.14974773387452886
-- dyscrasias: 0.14480572757564708
-- suppurative: 0.1351922514025912
-- bland: 0.12906503671529448
-- lymphadenitis: 0.12906503671529448
-- thrombectomy: 0.12455795764516177
-- occlusive: 0.12328487843636807
-- splenectomy: 0.1220996700479531
-- thrombolysis: 0.11896762127474121
-- radio: 0.11715766374907134
-- trace: 0.11332434585494185
-- cholangitis: 0.11332434585494185
-- sepsis: 0.10706024830851808
-- ablation: 0.10706024830851808
-- post: 0.10664289114055411
-- cirrhosis: 0.10322693041438857
-- or: 0.1022706861556152
-- transplant: 0.09800097206502689
-- pancreatitis: 0.09717623571075455
-- 71: 0.09515287534229494
-- decompression: 0.09468219636717995
-- frequency: 0.09312951497383533
-- shunt: 0.0929187306369463
-- occlusion: 0.09003284975160547
-- invasion: 0.08741005890622701
-- main: 0.08540359839936487
-- idiopathic: 0.0828912896635245
-- operative: 0.08220404970461843
-- arterial: 0.08069995262530212
-- near: 0.07979823910894153
-- suggest: 0.07960412734951355
-- the: 0.07821309629847494
-- placement: 0.07652040127463021
-- malignancy: 0.0733614897783083
-- compression: 0.07176082544696077
-- venous: 0.06996309911292785
-- complete: 0.06869001990413413
-- liver: 0.06760051487147964
-- three: 0.06578096298201477
-- of: 0.057530741659550265
-- months: 0.057040203605349525
-- blood: 0.05691094258969683
-- enhancement: 0.05640341061142931
-- evidence: 0.055621314450390716
-- these: 0.05533697072403829
-- is: 0.053672426557426774
-- tumor: 0.05125633862494614
-- but: 0.048457988598596125
-- findings: 0.04836377241401357
-- surgical: 0.04762808641841805
-- contrast: 0.04761308972787299
-- seen: 0.046134593702030005
-- within: 0.04513283063912639
-- male: 0.0436305206088258
-- by: 0.04161376616543447
-- and: 0.04049835564312065
-- there: 0.03899134953696629
-- left: 0.03342775438701877
-- right: 0.03248893314819694
-- no: 0.031866403855095746
-- to: 0.024498207647585854
-- in: 0.02437762752028197
-- with: 0.019188372087994343
+\-\ Texto\\:\\ \ \(0\)\
+\-\ arterial\\ or\\ venous\\ thrombolysis\\,\\ thrombectomy\\,\\ or\\ surgical\\ decompression\\ and\\ shunt\\ placement\\.\ \(0\)\
+\-\ near\\ occlusive\\ thrombosis\\ is\\ seen\\ in\\ the\\ main\\ portal\\ vein\\ with\\ complete\\ occlusion\\ of\\ the\\ right\\ portal\\ vein\\,\\ but\\ trace\\ contrast\\ to\\ the\\ left\\ portal\\ vein\\.\\ \\ there\\ is\\ no\\ evidence\\ of\\ enhancement\\ within\\ the\\ thrombus\\.\\ \\ these\\ findings\\ suggest\\ a\\ bland\\ thrombus\\.\ \(0\)\
+\-\ portal\\ vein\\ thrombosis\ \(7\)\
+\-\ idiopathic\\,\\ portal\\ vein\\ invasion\\ or\\ compression\\ by\\ tumor\\,\\ post\\ operative\\ \\(splenectomy\\,\\ transplant\\)\\,\\ blood\\ dyscrasias\\,\\ coagulopathies\\,\\ sepsis\\,\\ pylephlebitis\\,\\ pancreatitis\\,\\ cholangitis\\,\\ suppurative\\ lymphadenitis\\,\\ cirrhosis\\,\\ and\\ portal\\ hypertention\\.\ \(0\)\
+\-\ 71\\ year\\-old\\ male\\ three\\ months\\ post\\ radio\\ frequency\\ ablation\\ of\\ liver\\ malignancy\\.\ \(1\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ portal\\:\\ 0\\.5626670702722448\ \(0\)\
+\-\ vein\\:\\ 0\\.35120314350980486\ \(0\)\
+\-\ thrombus\\:\\ 0\\.1822594710793192\ \(0\)\
+\-\ thrombosis\\:\\ 0\\.15979224749887933\ \(0\)\
+\-\ pylephlebitis\\:\\ 0\\.15671310054187024\ \(0\)\
+\-\ hypertention\\:\\ 0\\.15671310054187024\ \(0\)\
+\-\ coagulopathies\\:\\ 0\\.14974773387452886\ \(0\)\
+\-\ dyscrasias\\:\\ 0\\.14480572757564708\ \(0\)\
+\-\ suppurative\\:\\ 0\\.1351922514025912\ \(0\)\
+\-\ bland\\:\\ 0\\.12906503671529448\ \(0\)\
+\-\ lymphadenitis\\:\\ 0\\.12906503671529448\ \(0\)\
+\-\ thrombectomy\\:\\ 0\\.12455795764516177\ \(0\)\
+\-\ occlusive\\:\\ 0\\.12328487843636807\ \(0\)\
+\-\ splenectomy\\:\\ 0\\.1220996700479531\ \(0\)\
+\-\ thrombolysis\\:\\ 0\\.11896762127474121\ \(0\)\
+\-\ radio\\:\\ 0\\.11715766374907134\ \(0\)\
+\-\ trace\\:\\ 0\\.11332434585494185\ \(0\)\
+\-\ cholangitis\\:\\ 0\\.11332434585494185\ \(0\)\
+\-\ sepsis\\:\\ 0\\.10706024830851808\ \(0\)\
+\-\ ablation\\:\\ 0\\.10706024830851808\ \(0\)\
+\-\ post\\:\\ 0\\.10664289114055411\ \(0\)\
+\-\ cirrhosis\\:\\ 0\\.10322693041438857\ \(0\)\
+\-\ or\\:\\ 0\\.1022706861556152\ \(0\)\
+\-\ transplant\\:\\ 0\\.09800097206502689\ \(0\)\
+\-\ pancreatitis\\:\\ 0\\.09717623571075455\ \(0\)\
+\-\ 71\\:\\ 0\\.09515287534229494\ \(0\)\
+\-\ decompression\\:\\ 0\\.09468219636717995\ \(0\)\
+\-\ frequency\\:\\ 0\\.09312951497383533\ \(0\)\
+\-\ shunt\\:\\ 0\\.0929187306369463\ \(0\)\
+\-\ occlusion\\:\\ 0\\.09003284975160547\ \(0\)\
+\-\ invasion\\:\\ 0\\.08741005890622701\ \(0\)\
+\-\ main\\:\\ 0\\.08540359839936487\ \(0\)\
+\-\ idiopathic\\:\\ 0\\.0828912896635245\ \(0\)\
+\-\ operative\\:\\ 0\\.08220404970461843\ \(0\)\
+\-\ arterial\\:\\ 0\\.08069995262530212\ \(0\)\
+\-\ near\\:\\ 0\\.07979823910894153\ \(0\)\
+\-\ suggest\\:\\ 0\\.07960412734951355\ \(0\)\
+\-\ the\\:\\ 0\\.07821309629847494\ \(0\)\
+\-\ placement\\:\\ 0\\.07652040127463021\ \(0\)\
+\-\ malignancy\\:\\ 0\\.0733614897783083\ \(0\)\
+\-\ compression\\:\\ 0\\.07176082544696077\ \(0\)\
+\-\ venous\\:\\ 0\\.06996309911292785\ \(0\)\
+\-\ complete\\:\\ 0\\.06869001990413413\ \(0\)\
+\-\ liver\\:\\ 0\\.06760051487147964\ \(0\)\
+\-\ three\\:\\ 0\\.06578096298201477\ \(0\)\
+\-\ of\\:\\ 0\\.057530741659550265\ \(0\)\
+\-\ months\\:\\ 0\\.057040203605349525\ \(0\)\
+\-\ blood\\:\\ 0\\.05691094258969683\ \(0\)\
+\-\ enhancement\\:\\ 0\\.05640341061142931\ \(0\)\
+\-\ evidence\\:\\ 0\\.055621314450390716\ \(0\)\
+\-\ these\\:\\ 0\\.05533697072403829\ \(0\)\
+\-\ is\\:\\ 0\\.053672426557426774\ \(0\)\
+\-\ tumor\\:\\ 0\\.05125633862494614\ \(0\)\
+\-\ but\\:\\ 0\\.048457988598596125\ \(0\)\
+\-\ findings\\:\\ 0\\.04836377241401357\ \(0\)\
+\-\ surgical\\:\\ 0\\.04762808641841805\ \(0\)\
+\-\ contrast\\:\\ 0\\.04761308972787299\ \(0\)\
+\-\ seen\\:\\ 0\\.046134593702030005\ \(0\)\
+\-\ within\\:\\ 0\\.04513283063912639\ \(0\)\
+\-\ male\\:\\ 0\\.0436305206088258\ \(0\)\
+\-\ by\\:\\ 0\\.04161376616543447\ \(0\)\
+\-\ and\\:\\ 0\\.04049835564312065\ \(0\)\
+\-\ there\\:\\ 0\\.03899134953696629\ \(0\)\
+\-\ left\\:\\ 0\\.03342775438701877\ \(0\)\
+\-\ right\\:\\ 0\\.03248893314819694\ \(0\)\
+\-\ no\\:\\ 0\\.031866403855095746\ \(0\)\
+\-\ to\\:\\ 0\\.024498207647585854\ \(0\)\
+\-\ in\\:\\ 0\\.02437762752028197\ \(0\)\
+\-\ with\\:\\ 0\\.019188372087994343\ \(0\)\

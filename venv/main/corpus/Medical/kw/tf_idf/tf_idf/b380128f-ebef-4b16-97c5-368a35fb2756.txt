@@ -1,72 +1,70 @@
-Texto: 
-unknown
-this patient underwent an emergent surgical intervention for decompression of hemorrhage.
-there is hyperdense fluid throughout the subarachnoid spaces/suprasellar cistern consistent with an acute hemorrhage.
-the patient was also found to have an intraparenchymal hemorrhage within the resection cavity of the left temporal lobe.
-subarachnoid hemorrhage
-this is pathognomonic for sah.
-53 year old female status post removal of left meningioma with acute change in mental status and possible seizure.
-this subarachnoid hemorrhage was secondary to previous surgical intervention. the most common etiology of sah is aneurysmal rupture.
-
-
-Keywords by value: 
-- hemorrhage: 0.14813836375916853
-- subarachnoid: 0.12975247905795098
-- sah: 0.12723892130967265
-- spaces/suprasellar: 0.09182831691631768
-- intervention: 0.07926839853896338
-- status: 0.06354848585795111
-- intraparenchymal: 0.05916691883372238
-- emergent: 0.05479344127580296
-- aneurysmal: 0.04834511618823813
-- pathognomonic: 0.048186080020209084
-- 53: 0.04802943546432846
-- cistern: 0.04757315814497019
-- decompression: 0.04713603107102195
-- hyperdense: 0.04450232960100515
-- acute: 0.04395581935638532
-- mental: 0.041533382152752055
-- seizure: 0.03936006064117572
-- cavity: 0.03896192300763199
-- rupture: 0.037793048105476484
-- etiology: 0.037677306173965336
-- surgical: 0.037421286880238616
-- an: 0.03692702700889781
-- temporal: 0.035644696641813925
-- removal: 0.03509146929479362
-- unknown: 0.03473832813150528
-- change: 0.03469501552579003
-- previous: 0.03456614790284683
-- meningioma: 0.03423009725474036
-- throughout: 0.03332028464895757
-- underwent: 0.030543708702898117
-- this: 0.030035537916066658
-- possible: 0.02997898144670908
-- found: 0.028052350150542835
-- post: 0.028029531594503058
-- resection: 0.02775953807833561
-- fluid: 0.025298324006290136
-- secondary: 0.024885728817800077
-- lobe: 0.023951305707536813
-- common: 0.023294450124545802
-- consistent: 0.021826023633658365
-- was: 0.020589115046118475
-- most: 0.02055036605966746
-- left: 0.019918859776519054
-- have: 0.019275396649636373
-- female: 0.018299586160914934
-- patient: 0.01784566522742475
-- is: 0.017571586824522676
-- also: 0.01754812076739741
-- within: 0.016980535504021683
-- for: 0.01518975309672323
-- there: 0.013247037046510299
-- year: 0.009959429888259527
-- old: 0.009113902050648486
-- to: 0.00889725225922888
-- the: 0.007200483578313844
-- of: 0.004854325033249517
-- in: 0.004389554480627655
-- .: 0.0025885078404314994
-- with: 0.0024375870018727027
-- and: 0.0018750938097106089
+\-\ Texto\\:\\ \ \(0\)\
+\-\ unknown\ \(157\)\
+\-\ this\\ patient\\ underwent\\ an\\ emergent\\ surgical\\ intervention\\ for\\ decompression\\ of\\ hemorrhage\\.\ \(0\)\
+\-\ there\\ is\\ hyperdense\\ fluid\\ throughout\\ the\\ subarachnoid\\ spaces\\/suprasellar\\ cistern\\ consistent\\ with\\ an\\ acute\\ hemorrhage\\.\ \(0\)\
+\-\ the\\ patient\\ was\\ also\\ found\\ to\\ have\\ an\\ intraparenchymal\\ hemorrhage\\ within\\ the\\ resection\\ cavity\\ of\\ the\\ left\\ temporal\\ lobe\\.\ \(0\)\
+\-\ subarachnoid\\ hemorrhage\ \(52\)\
+\-\ this\\ is\\ pathognomonic\\ for\\ sah\\.\ \(0\)\
+\-\ 53\\ year\\ old\\ female\\ status\\ post\\ removal\\ of\\ left\\ meningioma\\ with\\ acute\\ change\\ in\\ mental\\ status\\ and\\ possible\\ seizure\\.\ \(1\)\
+\-\ this\\ subarachnoid\\ hemorrhage\\ was\\ secondary\\ to\\ previous\\ surgical\\ intervention\\.\\ the\\ most\\ common\\ etiology\\ of\\ sah\\ is\\ aneurysmal\\ rupture\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ hemorrhage\\:\\ 0\\.14813836375916853\ \(0\)\
+\-\ subarachnoid\\:\\ 0\\.12975247905795098\ \(0\)\
+\-\ sah\\:\\ 0\\.12723892130967265\ \(0\)\
+\-\ spaces\\/suprasellar\\:\\ 0\\.09182831691631768\ \(0\)\
+\-\ intervention\\:\\ 0\\.07926839853896338\ \(0\)\
+\-\ status\\:\\ 0\\.06354848585795111\ \(0\)\
+\-\ intraparenchymal\\:\\ 0\\.05916691883372238\ \(0\)\
+\-\ emergent\\:\\ 0\\.05479344127580296\ \(0\)\
+\-\ aneurysmal\\:\\ 0\\.04834511618823813\ \(0\)\
+\-\ pathognomonic\\:\\ 0\\.048186080020209084\ \(0\)\
+\-\ 53\\:\\ 0\\.04802943546432846\ \(0\)\
+\-\ cistern\\:\\ 0\\.04757315814497019\ \(0\)\
+\-\ decompression\\:\\ 0\\.04713603107102195\ \(0\)\
+\-\ hyperdense\\:\\ 0\\.04450232960100515\ \(0\)\
+\-\ acute\\:\\ 0\\.04395581935638532\ \(0\)\
+\-\ mental\\:\\ 0\\.041533382152752055\ \(0\)\
+\-\ seizure\\:\\ 0\\.03936006064117572\ \(0\)\
+\-\ cavity\\:\\ 0\\.03896192300763199\ \(0\)\
+\-\ rupture\\:\\ 0\\.037793048105476484\ \(0\)\
+\-\ etiology\\:\\ 0\\.037677306173965336\ \(0\)\
+\-\ surgical\\:\\ 0\\.037421286880238616\ \(0\)\
+\-\ an\\:\\ 0\\.03692702700889781\ \(0\)\
+\-\ temporal\\:\\ 0\\.035644696641813925\ \(0\)\
+\-\ removal\\:\\ 0\\.03509146929479362\ \(0\)\
+\-\ unknown\\:\\ 0\\.03473832813150528\ \(0\)\
+\-\ change\\:\\ 0\\.03469501552579003\ \(0\)\
+\-\ previous\\:\\ 0\\.03456614790284683\ \(0\)\
+\-\ meningioma\\:\\ 0\\.03423009725474036\ \(0\)\
+\-\ throughout\\:\\ 0\\.03332028464895757\ \(0\)\
+\-\ underwent\\:\\ 0\\.030543708702898117\ \(0\)\
+\-\ this\\:\\ 0\\.030035537916066658\ \(0\)\
+\-\ possible\\:\\ 0\\.02997898144670908\ \(0\)\
+\-\ found\\:\\ 0\\.028052350150542835\ \(0\)\
+\-\ post\\:\\ 0\\.028029531594503058\ \(0\)\
+\-\ resection\\:\\ 0\\.02775953807833561\ \(0\)\
+\-\ fluid\\:\\ 0\\.025298324006290136\ \(0\)\
+\-\ secondary\\:\\ 0\\.024885728817800077\ \(0\)\
+\-\ lobe\\:\\ 0\\.023951305707536813\ \(0\)\
+\-\ common\\:\\ 0\\.023294450124545802\ \(0\)\
+\-\ consistent\\:\\ 0\\.021826023633658365\ \(0\)\
+\-\ was\\:\\ 0\\.020589115046118475\ \(0\)\
+\-\ most\\:\\ 0\\.02055036605966746\ \(0\)\
+\-\ left\\:\\ 0\\.019918859776519054\ \(0\)\
+\-\ have\\:\\ 0\\.019275396649636373\ \(0\)\
+\-\ female\\:\\ 0\\.018299586160914934\ \(0\)\
+\-\ patient\\:\\ 0\\.01784566522742475\ \(0\)\
+\-\ is\\:\\ 0\\.017571586824522676\ \(0\)\
+\-\ also\\:\\ 0\\.01754812076739741\ \(0\)\
+\-\ within\\:\\ 0\\.016980535504021683\ \(0\)\
+\-\ for\\:\\ 0\\.01518975309672323\ \(0\)\
+\-\ there\\:\\ 0\\.013247037046510299\ \(0\)\
+\-\ year\\:\\ 0\\.009959429888259527\ \(0\)\
+\-\ old\\:\\ 0\\.009113902050648486\ \(0\)\
+\-\ to\\:\\ 0\\.00889725225922888\ \(0\)\
+\-\ the\\:\\ 0\\.007200483578313844\ \(0\)\
+\-\ of\\:\\ 0\\.004854325033249517\ \(0\)\
+\-\ in\\:\\ 0\\.004389554480627655\ \(0\)\
+\-\ \\.\\:\\ 0\\.0025885078404314994\ \(0\)\
+\-\ with\\:\\ 0\\.0024375870018727027\ \(0\)\
+\-\ and\\:\\ 0\\.0018750938097106089\ \(0\)\

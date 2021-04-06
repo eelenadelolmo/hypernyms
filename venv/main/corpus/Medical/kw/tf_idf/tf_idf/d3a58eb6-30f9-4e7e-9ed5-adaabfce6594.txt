@@ -1,65 +1,63 @@
-Texto: 
-diffuse lower abdominal pain without rebound or guarding.
-pending
-midgut malrotation with duodenum failing to cross midline and small bowel in right abdomen. cecum in lower mid-right abdomen. abnormal position of smv/sma. inflammatory changes surrounding cecum and area of appendix with fluid collection.
-midgut malrotation with appendicitis
-malrotation
-appendicitis with rupture
-abscess
-perforated diverticula
-several week history of poorly localized abdominal pain.
-incidental malrotaion. see factoid.
-
-
-Keywords by value: 
-- malrotation: 0.19419594864451414
-- midgut: 0.15471556677319412
-- cecum: 0.1309520678490372
-- mid-right: 0.11912862735089863
-- malrotaion: 0.11912862735089863
-- appendicitis: 0.10508823618403497
-- smv/sma: 0.10428251534187012
-- failing: 0.09102806597684679
-- perforated: 0.07187852516891916
-- cross: 0.07147510674797752
-- diverticula: 0.0703324393421929
-- abdomen: 0.06841579088907287
-- guarding: 0.06251167137756855
-- duodenum: 0.06251167137756855
-- rebound: 0.0604285540826056
-- abdominal: 0.057727546976273386
-- poorly: 0.05636658817331251
-- appendix: 0.056237271267688856
-- localized: 0.056237271267688856
-- lower: 0.05194221809091521
-- pending: 0.049966548804726264
-- rupture: 0.04902881916386139
-- collection: 0.048878667468928015
-- position: 0.048081392593766446
-- midline: 0.04467743361268272
-- incidental: 0.0437268729456794
-- factoid: 0.04047885802181266
-- inflammatory: 0.04004481005664897
-- week: 0.039216424572003084
-- surrounding: 0.03796169276168602
-- several: 0.037122876158410645
-- area: 0.036511300596409016
-- abscess: 0.036511300596409016
-- bowel: 0.03621558828222648
-- diffuse: 0.034959559734801554
-- see: 0.03446239474633498
-- changes: 0.03309524292209542
-- abnormal: 0.03293367892317448
-- fluid: 0.03281944735951153
-- pain: 0.02820562614947932
-- without: 0.02718936711294811
-- small: 0.026602368707852955
-- history: 0.015948845104149775
-- or: 0.013534091202212264
-- right: 0.012184212285275902
-- in: 0.011389114328115
-- with: 0.006324550058912959
-- to: 0.005771190654634949
-- and: 0.004865108263032931
-- of: 0.004723127059377909
-- .: 0.0038377876861995976
+\-\ Texto\\:\\ \ \(0\)\
+\-\ diffuse\\ lower\\ abdominal\\ pain\\ without\\ rebound\\ or\\ guarding\\.\ \(0\)\
+\-\ pending\ \(213\)\
+\-\ midgut\\ malrotation\\ with\\ duodenum\\ failing\\ to\\ cross\\ midline\\ and\\ small\\ bowel\\ in\\ right\\ abdomen\\.\\ cecum\\ in\\ lower\\ mid\\-right\\ abdomen\\.\\ abnormal\\ position\\ of\\ smv\\/sma\\.\\ inflammatory\\ changes\\ surrounding\\ cecum\\ and\\ area\\ of\\ appendix\\ with\\ fluid\\ collection\\.\ \(0\)\
+\-\ midgut\\ malrotation\\ with\\ appendicitis\ \(0\)\
+\-\ malrotation\ \(81\)\
+\-\ appendicitis\\ with\\ rupture\ \(0\)\
+\-\ abscess\ \(594\)\
+\-\ perforated\\ diverticula\ \(0\)\
+\-\ several\\ week\\ history\\ of\\ poorly\\ localized\\ abdominal\\ pain\\.\ \(0\)\
+\-\ incidental\\ malrotaion\\.\\ see\\ factoid\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ malrotation\\:\\ 0\\.19419594864451414\ \(0\)\
+\-\ midgut\\:\\ 0\\.15471556677319412\ \(0\)\
+\-\ cecum\\:\\ 0\\.1309520678490372\ \(0\)\
+\-\ mid\\-right\\:\\ 0\\.11912862735089863\ \(0\)\
+\-\ malrotaion\\:\\ 0\\.11912862735089863\ \(0\)\
+\-\ appendicitis\\:\\ 0\\.10508823618403497\ \(0\)\
+\-\ smv\\/sma\\:\\ 0\\.10428251534187012\ \(0\)\
+\-\ failing\\:\\ 0\\.09102806597684679\ \(0\)\
+\-\ perforated\\:\\ 0\\.07187852516891916\ \(0\)\
+\-\ cross\\:\\ 0\\.07147510674797752\ \(0\)\
+\-\ diverticula\\:\\ 0\\.0703324393421929\ \(0\)\
+\-\ abdomen\\:\\ 0\\.06841579088907287\ \(0\)\
+\-\ guarding\\:\\ 0\\.06251167137756855\ \(0\)\
+\-\ duodenum\\:\\ 0\\.06251167137756855\ \(0\)\
+\-\ rebound\\:\\ 0\\.0604285540826056\ \(0\)\
+\-\ abdominal\\:\\ 0\\.057727546976273386\ \(0\)\
+\-\ poorly\\:\\ 0\\.05636658817331251\ \(0\)\
+\-\ appendix\\:\\ 0\\.056237271267688856\ \(0\)\
+\-\ localized\\:\\ 0\\.056237271267688856\ \(0\)\
+\-\ lower\\:\\ 0\\.05194221809091521\ \(0\)\
+\-\ pending\\:\\ 0\\.049966548804726264\ \(0\)\
+\-\ rupture\\:\\ 0\\.04902881916386139\ \(0\)\
+\-\ collection\\:\\ 0\\.048878667468928015\ \(0\)\
+\-\ position\\:\\ 0\\.048081392593766446\ \(0\)\
+\-\ midline\\:\\ 0\\.04467743361268272\ \(0\)\
+\-\ incidental\\:\\ 0\\.0437268729456794\ \(0\)\
+\-\ factoid\\:\\ 0\\.04047885802181266\ \(0\)\
+\-\ inflammatory\\:\\ 0\\.04004481005664897\ \(0\)\
+\-\ week\\:\\ 0\\.039216424572003084\ \(0\)\
+\-\ surrounding\\:\\ 0\\.03796169276168602\ \(0\)\
+\-\ several\\:\\ 0\\.037122876158410645\ \(0\)\
+\-\ area\\:\\ 0\\.036511300596409016\ \(0\)\
+\-\ abscess\\:\\ 0\\.036511300596409016\ \(0\)\
+\-\ bowel\\:\\ 0\\.03621558828222648\ \(0\)\
+\-\ diffuse\\:\\ 0\\.034959559734801554\ \(0\)\
+\-\ see\\:\\ 0\\.03446239474633498\ \(0\)\
+\-\ changes\\:\\ 0\\.03309524292209542\ \(0\)\
+\-\ abnormal\\:\\ 0\\.03293367892317448\ \(0\)\
+\-\ fluid\\:\\ 0\\.03281944735951153\ \(0\)\
+\-\ pain\\:\\ 0\\.02820562614947932\ \(0\)\
+\-\ without\\:\\ 0\\.02718936711294811\ \(0\)\
+\-\ small\\:\\ 0\\.026602368707852955\ \(0\)\
+\-\ history\\:\\ 0\\.015948845104149775\ \(0\)\
+\-\ or\\:\\ 0\\.013534091202212264\ \(0\)\
+\-\ right\\:\\ 0\\.012184212285275902\ \(0\)\
+\-\ in\\:\\ 0\\.011389114328115\ \(0\)\
+\-\ with\\:\\ 0\\.006324550058912959\ \(0\)\
+\-\ to\\:\\ 0\\.005771190654634949\ \(0\)\
+\-\ and\\:\\ 0\\.004865108263032931\ \(0\)\
+\-\ of\\:\\ 0\\.004723127059377909\ \(0\)\
+\-\ \\.\\:\\ 0\\.0038377876861995976\ \(0\)\

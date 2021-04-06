@@ -1,63 +1,61 @@
-Texto: 
-pain and abnormal contour of the humerus.
-open reduction and internal fixation.
-radiograph of the left humerus demonstrates a complete fracture of the distal diaphysis. there is posteromedial displacement/angulation of the distal fragment.
-angulated complete distal diaphyseal fracture of humerus
-fracture
-hematoma
-man fell off a combine while harvesting corn and reached out with his left arm to break the fall. immediately he had severe pain, swelling, and abnormal contour of the arm.
-see factoid.
-
-
-Keywords by value: 
-- humerus: 0.15702420772035355
-- displacement/angulation: 0.10494664790436307
-- corn: 0.10494664790436307
-- contour: 0.09863546641677598
-- harvesting: 0.09186793018212366
-- combine: 0.08844314360531676
-- angulated: 0.08578667275633807
-- arm: 0.08521610621753688
-- distal: 0.08297423531950095
-- fracture: 0.08046694036688495
-- reached: 0.0801913914557936
-- break: 0.07536442588307735
-- diaphyseal: 0.07352929874227665
-- complete: 0.07160418890442986
-- posteromedial: 0.06928316845729175
-- abnormal: 0.0580260057217836
-- diaphysis: 0.05471441331893323
-- fixation: 0.051645019160574894
-- immediately: 0.05048580292217995
-- fell: 0.04866822149112092
-- reduction: 0.047952698585529197
-- fragment: 0.04699980920846328
-- off: 0.04646266116941007
-- open: 0.04521712603751873
-- fall: 0.044753245459740354
-- hematoma: 0.03620198664788202
-- factoid: 0.035659946352549245
-- internal: 0.034105665135461566
-- swelling: 0.03389060552358491
-- out: 0.03361968901022043
-- radiograph: 0.03240415064192098
-- while: 0.03200772904586087
-- severe: 0.031301307143642904
-- see: 0.03035972870510462
-- his: 0.029320107471987284
-- he: 0.02838318264325023
-- pain: 0.02484781351263654
-- man: 0.024058712417738083
-- left: 0.022764411173164634
-- demonstrates: 0.022221680972061737
-- had: 0.021950593086198907
-- there: 0.015139470910297484
-- the: 0.009874948907401843
-- a: 0.00944285242425241
-- and: 0.008571857415819926
-- of: 0.008321700056999172
-- is: 0.0066939378379134
-- ,: 0.006445477750411604
-- to: 0.0050841441481307885
-- .: 0.0029582946747788563
-- with: 0.0013929068582129729
+\-\ Texto\\:\\ \ \(0\)\
+\-\ pain\\ and\\ abnormal\\ contour\\ of\\ the\\ humerus\\.\ \(0\)\
+\-\ open\\ reduction\\ and\\ internal\\ fixation\\.\ \(1\)\
+\-\ radiograph\\ of\\ the\\ left\\ humerus\\ demonstrates\\ a\\ complete\\ fracture\\ of\\ the\\ distal\\ diaphysis\\.\\ there\\ is\\ posteromedial\\ displacement\\/angulation\\ of\\ the\\ distal\\ fragment\\.\ \(0\)\
+\-\ angulated\\ complete\\ distal\\ diaphyseal\\ fracture\\ of\\ humerus\ \(0\)\
+\-\ fracture\ \(2355\)\
+\-\ hematoma\ \(500\)\
+\-\ man\\ fell\\ off\\ a\\ combine\\ while\\ harvesting\\ corn\\ and\\ reached\\ out\\ with\\ his\\ left\\ arm\\ to\\ break\\ the\\ fall\\.\\ immediately\\ he\\ had\\ severe\\ pain\\,\\ swelling\\,\\ and\\ abnormal\\ contour\\ of\\ the\\ arm\\.\ \(0\)\
+\-\ see\\ factoid\\.\ \(59\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ humerus\\:\\ 0\\.15702420772035355\ \(0\)\
+\-\ displacement\\/angulation\\:\\ 0\\.10494664790436307\ \(0\)\
+\-\ corn\\:\\ 0\\.10494664790436307\ \(0\)\
+\-\ contour\\:\\ 0\\.09863546641677598\ \(0\)\
+\-\ harvesting\\:\\ 0\\.09186793018212366\ \(0\)\
+\-\ combine\\:\\ 0\\.08844314360531676\ \(0\)\
+\-\ angulated\\:\\ 0\\.08578667275633807\ \(0\)\
+\-\ arm\\:\\ 0\\.08521610621753688\ \(0\)\
+\-\ distal\\:\\ 0\\.08297423531950095\ \(0\)\
+\-\ fracture\\:\\ 0\\.08046694036688495\ \(0\)\
+\-\ reached\\:\\ 0\\.0801913914557936\ \(0\)\
+\-\ break\\:\\ 0\\.07536442588307735\ \(0\)\
+\-\ diaphyseal\\:\\ 0\\.07352929874227665\ \(0\)\
+\-\ complete\\:\\ 0\\.07160418890442986\ \(0\)\
+\-\ posteromedial\\:\\ 0\\.06928316845729175\ \(0\)\
+\-\ abnormal\\:\\ 0\\.0580260057217836\ \(0\)\
+\-\ diaphysis\\:\\ 0\\.05471441331893323\ \(0\)\
+\-\ fixation\\:\\ 0\\.051645019160574894\ \(0\)\
+\-\ immediately\\:\\ 0\\.05048580292217995\ \(0\)\
+\-\ fell\\:\\ 0\\.04866822149112092\ \(0\)\
+\-\ reduction\\:\\ 0\\.047952698585529197\ \(0\)\
+\-\ fragment\\:\\ 0\\.04699980920846328\ \(0\)\
+\-\ off\\:\\ 0\\.04646266116941007\ \(0\)\
+\-\ open\\:\\ 0\\.04521712603751873\ \(0\)\
+\-\ fall\\:\\ 0\\.044753245459740354\ \(0\)\
+\-\ hematoma\\:\\ 0\\.03620198664788202\ \(0\)\
+\-\ factoid\\:\\ 0\\.035659946352549245\ \(0\)\
+\-\ internal\\:\\ 0\\.034105665135461566\ \(0\)\
+\-\ swelling\\:\\ 0\\.03389060552358491\ \(0\)\
+\-\ out\\:\\ 0\\.03361968901022043\ \(0\)\
+\-\ radiograph\\:\\ 0\\.03240415064192098\ \(0\)\
+\-\ while\\:\\ 0\\.03200772904586087\ \(0\)\
+\-\ severe\\:\\ 0\\.031301307143642904\ \(0\)\
+\-\ see\\:\\ 0\\.03035972870510462\ \(0\)\
+\-\ his\\:\\ 0\\.029320107471987284\ \(0\)\
+\-\ he\\:\\ 0\\.02838318264325023\ \(0\)\
+\-\ pain\\:\\ 0\\.02484781351263654\ \(0\)\
+\-\ man\\:\\ 0\\.024058712417738083\ \(0\)\
+\-\ left\\:\\ 0\\.022764411173164634\ \(0\)\
+\-\ demonstrates\\:\\ 0\\.022221680972061737\ \(0\)\
+\-\ had\\:\\ 0\\.021950593086198907\ \(0\)\
+\-\ there\\:\\ 0\\.015139470910297484\ \(0\)\
+\-\ the\\:\\ 0\\.009874948907401843\ \(0\)\
+\-\ a\\:\\ 0\\.00944285242425241\ \(0\)\
+\-\ and\\:\\ 0\\.008571857415819926\ \(0\)\
+\-\ of\\:\\ 0\\.008321700056999172\ \(0\)\
+\-\ is\\:\\ 0\\.0066939378379134\ \(0\)\
+\-\ \\,\\:\\ 0\\.006445477750411604\ \(0\)\
+\-\ to\\:\\ 0\\.0050841441481307885\ \(0\)\
+\-\ \\.\\:\\ 0\\.0029582946747788563\ \(0\)\
+\-\ with\\:\\ 0\\.0013929068582129729\ \(0\)\

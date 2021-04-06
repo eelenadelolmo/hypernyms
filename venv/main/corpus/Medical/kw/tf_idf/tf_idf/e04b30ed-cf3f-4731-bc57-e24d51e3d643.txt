@@ -1,111 +1,106 @@
-Texto: 
-noncontributory
-nonsurgical candidate because of stage iv disease
-
-treatment is radiation and chemotherapy
-â€¢ multiple spiculated pulmonary nodules
-â€¢ mediastinal invasion and lymphadenopathy
-â€¢ cortical erosion and destruction of the left scapula
-squamous cell lung carcinoma
-â€¢ nsclc - non small cell lung cancer
-Â» squamous cell carcinoma - scc
-Â» adenocarcinoma
-Â» bronchoalveolar carcinoma - bac
-Â» large cell carcinoma
-â€¢ sclc - small cell lung cancer
-â€¢ metastasis
-â€¢ infection
-59 y.o. woman with left shoulder pain and new onset of cough
-she originally came to medical attention with a complaint of left shoulder pain.  a plain radiograph demonstrated cortical destruction of left glenoid.
-
-mri was scheduled, but patient presented with cough prior to study.
-
-cxr demonstrated pulmonary nodules.  led to follow-up ct which demonstrated spiculated pulmonary nodules, mediastinal invasion with necrotic lympadenopathy, and left scapular osseous metastasis.
-
-
-Keywords by value: 
-- Â»: 0.11302948289874916
-- cell: 0.07745774199937873
-- â€¢: 0.07361812390047795
-- nodules: 0.07132588319602855
-- spiculated: 0.06986040954794998
-- carcinoma: 0.06501819248364742
-- lympadenopathy: 0.05916455318098321
-- destruction: 0.056649645286334344
-- squamous: 0.05611797900317936
-- invasion: 0.05523541017683331
-- demonstrated: 0.0504849660897376
-- pulmonary: 0.05026611362859188
-- bac: 0.04986056418017857
-- sclc: 0.04986056418017857
-- lung: 0.0498354185282969
-- -: 0.04917391835458694
-- mediastinal: 0.04869976668625158
-- nsclc: 0.04713932184388216
-- shoulder: 0.04624000531327296
-- cough: 0.04394972991688687
-- metastasis: 0.04293620572214667
-- nonsurgical: 0.04248732734347985
-- cortical: 0.04181308524262835
-- scc: 0.04098971961653884
-- bronchoalveolar: 0.04098971961653884
-- scapular: 0.04098971961653884
-- came: 0.03905896745243293
-- scapula: 0.03783533284307753
-- cancer: 0.03770691630019819
-- glenoid: 0.036565252308590764
-- candidate: 0.03530315679514821
-- attention: 0.03530315679514821
-- led: 0.03475122324993364
-- originally: 0.032392848170484725
-- left: 0.03208406943868841
-- necrotic: 0.031358279849496414
-- 59: 0.030845709522083164
-- erosion: 0.028964488279437806
-- scheduled: 0.028890328305031198
-- noncontributory: 0.027496775521284586
-- complaint: 0.026496536734972587
-- small: 0.026423829320551928
-- adenocarcinoma: 0.02477553318498818
-- stage: 0.024463318314955344
-- lymphadenopathy: 0.02438748237365378
-- osseous: 0.02434988334312579
-- cxr: 0.024201558866611256
-- non: 0.023706810035090668
-- iv: 0.02092902642591338
-- chemotherapy: 0.020556683121750772
-- because: 0.02006388131936945
-- new: 0.019985154206715157
-- study: 0.018870009106442678
-- radiation: 0.01882047818498212
-- follow-up: 0.018657966385515045
-- plain: 0.01862593095764486
-- radiograph: 0.018268111771284314
-- onset: 0.018103498160571475
-- medical: 0.017646374497087277
-- infection: 0.01667125217498528
-- y.o: 0.016552882097897317
-- she: 0.01609923584868572
-- presented: 0.015633272718271203
-- prior: 0.014725589075183647
-- pain: 0.014008163322560198
-- woman: 0.01324767078851615
-- mri: 0.013176348019561206
-- large: 0.012540553233765635
-- but: 0.012231565778748574
-- multiple: 0.012079234922679656
-- treatment: 0.011608167514099913
-- which: 0.01070566837075536
-- disease: 0.009374077457823518
-- to: 0.00859868674717422
-- ct: 0.008022172170416396
-- was: 0.006632735048414005
-- and: 0.006040570662154981
-- patient: 0.005748939133667033
-- ,: 0.005450538231891692
-- a: 0.005323487272732903
-- of: 0.003909523516711021
-- is: 0.0037737636133203063
-- with: 0.0031410517071111337
-- .: 0.0014295115206985076
-- the: 0.0009278475483464818
+\-\ Texto\\:\\ \ \(0\)\
+\-\ noncontributory\ \(52\)\
+\-\ nonsurgical\\ candidate\\ because\\ of\\ stage\\ iv\\ disease\ \(0\)\
+\-\ treatment\\ is\\ radiation\\ and\\ chemotherapy\ \(0\)\
+\-\ \\â\\€\\¢\\ multiple\\ spiculated\\ pulmonary\\ nodules\ \(0\)\
+\-\ \\â\\€\\¢\\ mediastinal\\ invasion\\ and\\ lymphadenopathy\ \(0\)\
+\-\ \\â\\€\\¢\\ cortical\\ erosion\\ and\\ destruction\\ of\\ the\\ left\\ scapula\ \(0\)\
+\-\ squamous\\ cell\\ lung\\ carcinoma\ \(0\)\
+\-\ \\â\\€\\¢\\ nsclc\\ \\-\\ non\\ small\\ cell\\ lung\\ cancer\ \(0\)\
+\-\ \\Â\\»\\ squamous\\ cell\\ carcinoma\\ \\-\\ scc\ \(0\)\
+\-\ \\Â\\»\\ adenocarcinoma\ \(2\)\
+\-\ \\Â\\»\\ bronchoalveolar\\ carcinoma\\ \\-\\ bac\ \(0\)\
+\-\ \\Â\\»\\ large\\ cell\\ carcinoma\ \(1\)\
+\-\ \\â\\€\\¢\\ sclc\\ \\-\\ small\\ cell\\ lung\\ cancer\ \(0\)\
+\-\ \\â\\€\\¢\\ metastasis\ \(6\)\
+\-\ \\â\\€\\¢\\ infection\ \(8\)\
+\-\ 59\\ y\\.o\\.\\ woman\\ with\\ left\\ shoulder\\ pain\\ and\\ new\\ onset\\ of\\ cough\ \(1\)\
+\-\ she\\ originally\\ came\\ to\\ medical\\ attention\\ with\\ a\\ complaint\\ of\\ left\\ shoulder\\ pain\\.\\ \\ a\\ plain\\ radiograph\\ demonstrated\\ cortical\\ destruction\\ of\\ left\\ glenoid\\.\ \(0\)\
+\-\ mri\\ was\\ scheduled\\,\\ but\\ patient\\ presented\\ with\\ cough\\ prior\\ to\\ study\\.\ \(0\)\
+\-\ cxr\\ demonstrated\\ pulmonary\\ nodules\\.\\ \\ led\\ to\\ follow\\-up\\ ct\\ which\\ demonstrated\\ spiculated\\ pulmonary\\ nodules\\,\\ mediastinal\\ invasion\\ with\\ necrotic\\ lympadenopathy\\,\\ and\\ left\\ scapular\\ osseous\\ metastasis\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ \\Â\\»\\:\\ 0\\.11302948289874916\ \(0\)\
+\-\ cell\\:\\ 0\\.07745774199937873\ \(0\)\
+\-\ \\â\\€\\¢\\:\\ 0\\.07361812390047795\ \(0\)\
+\-\ nodules\\:\\ 0\\.07132588319602855\ \(0\)\
+\-\ spiculated\\:\\ 0\\.06986040954794998\ \(0\)\
+\-\ carcinoma\\:\\ 0\\.06501819248364742\ \(0\)\
+\-\ lympadenopathy\\:\\ 0\\.05916455318098321\ \(0\)\
+\-\ destruction\\:\\ 0\\.056649645286334344\ \(0\)\
+\-\ squamous\\:\\ 0\\.05611797900317936\ \(0\)\
+\-\ invasion\\:\\ 0\\.05523541017683331\ \(0\)\
+\-\ demonstrated\\:\\ 0\\.0504849660897376\ \(0\)\
+\-\ pulmonary\\:\\ 0\\.05026611362859188\ \(0\)\
+\-\ bac\\:\\ 0\\.04986056418017857\ \(0\)\
+\-\ sclc\\:\\ 0\\.04986056418017857\ \(0\)\
+\-\ lung\\:\\ 0\\.0498354185282969\ \(0\)\
+\-\ \\-\\:\\ 0\\.04917391835458694\ \(0\)\
+\-\ mediastinal\\:\\ 0\\.04869976668625158\ \(0\)\
+\-\ nsclc\\:\\ 0\\.04713932184388216\ \(0\)\
+\-\ shoulder\\:\\ 0\\.04624000531327296\ \(0\)\
+\-\ cough\\:\\ 0\\.04394972991688687\ \(0\)\
+\-\ metastasis\\:\\ 0\\.04293620572214667\ \(0\)\
+\-\ nonsurgical\\:\\ 0\\.04248732734347985\ \(0\)\
+\-\ cortical\\:\\ 0\\.04181308524262835\ \(0\)\
+\-\ scc\\:\\ 0\\.04098971961653884\ \(0\)\
+\-\ bronchoalveolar\\:\\ 0\\.04098971961653884\ \(0\)\
+\-\ scapular\\:\\ 0\\.04098971961653884\ \(0\)\
+\-\ came\\:\\ 0\\.03905896745243293\ \(0\)\
+\-\ scapula\\:\\ 0\\.03783533284307753\ \(0\)\
+\-\ cancer\\:\\ 0\\.03770691630019819\ \(0\)\
+\-\ glenoid\\:\\ 0\\.036565252308590764\ \(0\)\
+\-\ candidate\\:\\ 0\\.03530315679514821\ \(0\)\
+\-\ attention\\:\\ 0\\.03530315679514821\ \(0\)\
+\-\ led\\:\\ 0\\.03475122324993364\ \(0\)\
+\-\ originally\\:\\ 0\\.032392848170484725\ \(0\)\
+\-\ left\\:\\ 0\\.03208406943868841\ \(0\)\
+\-\ necrotic\\:\\ 0\\.031358279849496414\ \(0\)\
+\-\ 59\\:\\ 0\\.030845709522083164\ \(0\)\
+\-\ erosion\\:\\ 0\\.028964488279437806\ \(0\)\
+\-\ scheduled\\:\\ 0\\.028890328305031198\ \(0\)\
+\-\ noncontributory\\:\\ 0\\.027496775521284586\ \(0\)\
+\-\ complaint\\:\\ 0\\.026496536734972587\ \(0\)\
+\-\ small\\:\\ 0\\.026423829320551928\ \(0\)\
+\-\ adenocarcinoma\\:\\ 0\\.02477553318498818\ \(0\)\
+\-\ stage\\:\\ 0\\.024463318314955344\ \(0\)\
+\-\ lymphadenopathy\\:\\ 0\\.02438748237365378\ \(0\)\
+\-\ osseous\\:\\ 0\\.02434988334312579\ \(0\)\
+\-\ cxr\\:\\ 0\\.024201558866611256\ \(0\)\
+\-\ non\\:\\ 0\\.023706810035090668\ \(0\)\
+\-\ iv\\:\\ 0\\.02092902642591338\ \(0\)\
+\-\ chemotherapy\\:\\ 0\\.020556683121750772\ \(0\)\
+\-\ because\\:\\ 0\\.02006388131936945\ \(0\)\
+\-\ new\\:\\ 0\\.019985154206715157\ \(0\)\
+\-\ study\\:\\ 0\\.018870009106442678\ \(0\)\
+\-\ radiation\\:\\ 0\\.01882047818498212\ \(0\)\
+\-\ follow\\-up\\:\\ 0\\.018657966385515045\ \(0\)\
+\-\ plain\\:\\ 0\\.01862593095764486\ \(0\)\
+\-\ radiograph\\:\\ 0\\.018268111771284314\ \(0\)\
+\-\ onset\\:\\ 0\\.018103498160571475\ \(0\)\
+\-\ medical\\:\\ 0\\.017646374497087277\ \(0\)\
+\-\ infection\\:\\ 0\\.01667125217498528\ \(0\)\
+\-\ y\\.o\\:\\ 0\\.016552882097897317\ \(0\)\
+\-\ she\\:\\ 0\\.01609923584868572\ \(0\)\
+\-\ presented\\:\\ 0\\.015633272718271203\ \(0\)\
+\-\ prior\\:\\ 0\\.014725589075183647\ \(0\)\
+\-\ pain\\:\\ 0\\.014008163322560198\ \(0\)\
+\-\ woman\\:\\ 0\\.01324767078851615\ \(0\)\
+\-\ mri\\:\\ 0\\.013176348019561206\ \(0\)\
+\-\ large\\:\\ 0\\.012540553233765635\ \(0\)\
+\-\ but\\:\\ 0\\.012231565778748574\ \(0\)\
+\-\ multiple\\:\\ 0\\.012079234922679656\ \(0\)\
+\-\ treatment\\:\\ 0\\.011608167514099913\ \(0\)\
+\-\ which\\:\\ 0\\.01070566837075536\ \(0\)\
+\-\ disease\\:\\ 0\\.009374077457823518\ \(0\)\
+\-\ to\\:\\ 0\\.00859868674717422\ \(0\)\
+\-\ ct\\:\\ 0\\.008022172170416396\ \(0\)\
+\-\ was\\:\\ 0\\.006632735048414005\ \(0\)\
+\-\ and\\:\\ 0\\.006040570662154981\ \(0\)\
+\-\ patient\\:\\ 0\\.005748939133667033\ \(0\)\
+\-\ \\,\\:\\ 0\\.005450538231891692\ \(0\)\
+\-\ a\\:\\ 0\\.005323487272732903\ \(0\)\
+\-\ of\\:\\ 0\\.003909523516711021\ \(0\)\
+\-\ is\\:\\ 0\\.0037737636133203063\ \(0\)\
+\-\ with\\:\\ 0\\.0031410517071111337\ \(0\)\
+\-\ \\.\\:\\ 0\\.0014295115206985076\ \(0\)\
+\-\ the\\:\\ 0\\.0009278475483464818\ \(0\)\

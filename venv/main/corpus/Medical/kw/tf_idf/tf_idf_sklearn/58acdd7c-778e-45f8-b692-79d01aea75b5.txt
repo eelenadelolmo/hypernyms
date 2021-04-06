@@ -1,144 +1,136 @@
-Texto: 
-laboratory:
-
-alkaline phosphatase:  689 
-ggt: 369 
-ast: 60
-alt: 62
-
-bnp: 218 h
-sonographic evaluation of the gallbladder demonstrates diffuse gallbladder wall thickening.  there is no evidence of cholelithiasis, or biliary sludge.  the common bile duct measured 6 mm, which is acceptable for this patient's age.
-
-duplex doppler sonogram of portal vein shows highly pulsatile blood flow.  color doppler shows both blue and red, indicating flow reversal.
-
-duplex doppler waveforms of the inferior vena cava (ivc), and hepatic vein demonstrate normal triphasic flow with abnormally high amplitude retrograde flow in the ivc and hepatic vein, caused by high right heart pressures during the cardiac cycle.
-
-pa chest radiograph demonstrates cardiomegaly, a small right-sided pleural effusion and increased interstitial markings.
-
-unenhanced axial ct image through the level of the heart demonstrates small bilateral pleural effusions.
-hepatic congestion secondary to congestive heart failure
-cholecystitis
-hepatic congestion secondary to tricupsid regurgitation
-hepatitis
-acute pancreatitis
-budd-chiari syndrome
-71 yo female with elevated liver-associated enzymes, and concern for cholelithiasis.
-
-
-Keywords by value: 
-- hepatic: 0.26139639156609445
-- doppler: 0.22036486660692844
-- flow: 0.21863325178275786
-- duplex: 0.19097239393255222
-- vein: 0.17646062707990126
-- heart: 0.17117490190493687
-- cholelithiasis: 0.16460956820790956
-- congestion: 0.16230663980372292
-- ivc: 0.15936394991187655
-- gallbladder: 0.14665187126414525
-- 689: 0.13123312677335608
-- tricupsid: 0.1254002586613893
-- demonstrates: 0.12367940116814653
-- pleural: 0.12354965298255781
-- 369: 0.12126177287498502
-- triphasic: 0.12126177287498502
-- waveforms: 0.11542890476301824
-- amplitude: 0.11542890476301824
-- the: 0.11461875877748462
-- ggt: 0.11321135122555688
-- bnp: 0.11129041897661397
-- 218: 0.10808036001266369
-- acceptable: 0.1013190650782429
-- sonogram: 0.09740712921521902
-- secondary: 0.09727904286775653
-- shows: 0.09632521256752524
-- phosphatase: 0.09433473276418279
-- cycle: 0.09433473276418279
-- pulsatile: 0.09379181464071361
-- pressures: 0.09379181464071361
-- enzymes: 0.09379181464071361
-- high: 0.09327599449934044
-- sludge: 0.09326864342881475
-- blue: 0.09326864342881475
-- reversal: 0.09326864342881475
-- alkaline: 0.09227613800232584
-- unenhanced: 0.08965332885430934
-- congestive: 0.08965332885430934
-- regurgitation: 0.08965332885430934
-- retrograde: 0.08778243360475292
-- cardiomegaly: 0.08581770947170289
-- and: 0.08478432597289683
-- small: 0.08465947634359167
-- hepatitis: 0.08436337886581173
-- markings: 0.08230478410395478
-- abnormally: 0.08160290720488117
-- pancreatitis: 0.08137635728150078
-- measured: 0.08093368780637111
-- of: 0.08029470294726873
-- bile: 0.07968197495593828
-- 71: 0.07968197495593828
-- vena: 0.07928782364760961
-- cholecystitis: 0.07909472514000451
-- alt: 0.07890418430381164
-- cava: 0.07890418430381164
-- ast: 0.07871613426890975
-- portal: 0.07853051075384496
-- 62: 0.07816629831755051
-- indicating: 0.07763670638569675
-- red: 0.07729417537448632
-- effusions: 0.07679520201996684
-- biliary: 0.07631295721638358
-- concern: 0.07524686788101553
-- interstitial: 0.07439202496744067
-- color: 0.07398292755613625
-- sonographic: 0.07384910684397149
-- highly: 0.07345495553564282
-- duct: 0.07063904788002122
-- caused: 0.06579868519454334
-- pa: 0.06297432286761158
-- failure: 0.06230226074153171
-- 60: 0.0613775651142277
-- cardiac: 0.06093659195686665
-- effusion: 0.06093659195686665
-- laboratory: 0.05959019201353745
-- mm: 0.058726795563200755
-- elevated: 0.05594195837931212
-- thickening: 0.05582733129617227
-- inferior: 0.05582733129617227
-- right: 0.05441311885000035
-- radiograph: 0.053447593145483335
-- image: 0.05248091469688335
-- during: 0.0519771441930094
-- age: 0.051518599465777415
-- diffuse: 0.05146229558638759
-- yo: 0.05126694950080431
-- evaluation: 0.05004529582656777
-- wall: 0.04991854943115246
-- for: 0.049744013634918136
-- level: 0.04956948773119277
-- syndrome: 0.04947129197230662
-- through: 0.048848855128262696
-- blood: 0.04765779579269718
-- axial: 0.047401284577705025
-- evidence: 0.046577848216452084
-- common: 0.046537888127368324
-- both: 0.045761147635684556
-- is: 0.04494582989098948
-- acute: 0.04439176994784191
-- increased: 0.04437459308273233
-- bilateral: 0.044102516456063307
-- chest: 0.043315862749734736
-- demonstrate: 0.04266114937526327
-- to: 0.041030091023904744
-- female: 0.03959813383282171
-- which: 0.03731387442023419
-- by: 0.03484778638047668
-- normal: 0.03350488534874121
-- there: 0.032651748316866465
-- with: 0.032137071605258624
-- ct: 0.031241327221960418
-- or: 0.028547500443061962
-- this: 0.028197577888562524
-- patient: 0.026690267416633377
-- no: 0.02668524713292508
-- in: 0.02041407050043066
+\-\ Texto\\:\\ \ \(0\)\
+\-\ laboratory\\:\ \(3\)\
+\-\ alkaline\\ phosphatase\\:\\ \\ 689\\ \ \(0\)\
+\-\ ggt\\:\\ 369\\ \ \(0\)\
+\-\ ast\\:\\ 60\ \(0\)\
+\-\ alt\\:\\ 62\ \(0\)\
+\-\ bnp\\:\\ 218\\ h\ \(0\)\
+\-\ sonographic\\ evaluation\\ of\\ the\\ gallbladder\\ demonstrates\\ diffuse\\ gallbladder\\ wall\\ thickening\\.\\ \\ there\\ is\\ no\\ evidence\\ of\\ cholelithiasis\\,\\ or\\ biliary\\ sludge\\.\\ \\ the\\ common\\ bile\\ duct\\ measured\\ 6\\ mm\\,\\ which\\ is\\ acceptable\\ for\\ this\\ patient\\'s\\ age\\.\ \(0\)\
+\-\ duplex\\ doppler\\ sonogram\\ of\\ portal\\ vein\\ shows\\ highly\\ pulsatile\\ blood\\ flow\\.\\ \\ color\\ doppler\\ shows\\ both\\ blue\\ and\\ red\\,\\ indicating\\ flow\\ reversal\\.\ \(0\)\
+\-\ duplex\\ doppler\\ waveforms\\ of\\ the\\ inferior\\ vena\\ cava\\ \\(ivc\\)\\,\\ and\\ hepatic\\ vein\\ demonstrate\\ normal\\ triphasic\\ flow\\ with\\ abnormally\\ high\\ amplitude\\ retrograde\\ flow\\ in\\ the\\ ivc\\ and\\ hepatic\\ vein\\,\\ caused\\ by\\ high\\ right\\ heart\\ pressures\\ during\\ the\\ cardiac\\ cycle\\.\ \(0\)\
+\-\ pa\\ chest\\ radiograph\\ demonstrates\\ cardiomegaly\\,\\ a\\ small\\ right\\-sided\\ pleural\\ effusion\\ and\\ increased\\ interstitial\\ markings\\.\ \(0\)\
+\-\ unenhanced\\ axial\\ ct\\ image\\ through\\ the\\ level\\ of\\ the\\ heart\\ demonstrates\\ small\\ bilateral\\ pleural\\ effusions\\.\ \(0\)\
+\-\ hepatic\\ congestion\\ secondary\\ to\\ congestive\\ heart\\ failure\ \(0\)\
+\-\ cholecystitis\ \(124\)\
+\-\ hepatic\\ congestion\\ secondary\\ to\\ tricupsid\\ regurgitation\ \(0\)\
+\-\ hepatitis\ \(60\)\
+\-\ acute\\ pancreatitis\ \(15\)\
+\-\ budd\\-chiari\\ syndrome\ \(0\)\
+\-\ 71\\ yo\\ female\\ with\\ elevated\\ liver\\-associated\\ enzymes\\,\\ and\\ concern\\ for\\ cholelithiasis\\.\ \(1\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ hepatic\\:\\ 0\\.26139639156609445\ \(0\)\
+\-\ doppler\\:\\ 0\\.22036486660692844\ \(0\)\
+\-\ flow\\:\\ 0\\.21863325178275786\ \(0\)\
+\-\ duplex\\:\\ 0\\.19097239393255222\ \(0\)\
+\-\ vein\\:\\ 0\\.17646062707990126\ \(0\)\
+\-\ heart\\:\\ 0\\.17117490190493687\ \(0\)\
+\-\ cholelithiasis\\:\\ 0\\.16460956820790956\ \(0\)\
+\-\ congestion\\:\\ 0\\.16230663980372292\ \(0\)\
+\-\ ivc\\:\\ 0\\.15936394991187655\ \(0\)\
+\-\ gallbladder\\:\\ 0\\.14665187126414525\ \(0\)\
+\-\ 689\\:\\ 0\\.13123312677335608\ \(0\)\
+\-\ tricupsid\\:\\ 0\\.1254002586613893\ \(0\)\
+\-\ demonstrates\\:\\ 0\\.12367940116814653\ \(0\)\
+\-\ pleural\\:\\ 0\\.12354965298255781\ \(0\)\
+\-\ 369\\:\\ 0\\.12126177287498502\ \(0\)\
+\-\ triphasic\\:\\ 0\\.12126177287498502\ \(0\)\
+\-\ waveforms\\:\\ 0\\.11542890476301824\ \(0\)\
+\-\ amplitude\\:\\ 0\\.11542890476301824\ \(0\)\
+\-\ the\\:\\ 0\\.11461875877748462\ \(0\)\
+\-\ ggt\\:\\ 0\\.11321135122555688\ \(0\)\
+\-\ bnp\\:\\ 0\\.11129041897661397\ \(0\)\
+\-\ 218\\:\\ 0\\.10808036001266369\ \(0\)\
+\-\ acceptable\\:\\ 0\\.1013190650782429\ \(0\)\
+\-\ sonogram\\:\\ 0\\.09740712921521902\ \(0\)\
+\-\ secondary\\:\\ 0\\.09727904286775653\ \(0\)\
+\-\ shows\\:\\ 0\\.09632521256752524\ \(0\)\
+\-\ phosphatase\\:\\ 0\\.09433473276418279\ \(0\)\
+\-\ cycle\\:\\ 0\\.09433473276418279\ \(0\)\
+\-\ pulsatile\\:\\ 0\\.09379181464071361\ \(0\)\
+\-\ pressures\\:\\ 0\\.09379181464071361\ \(0\)\
+\-\ enzymes\\:\\ 0\\.09379181464071361\ \(0\)\
+\-\ high\\:\\ 0\\.09327599449934044\ \(0\)\
+\-\ sludge\\:\\ 0\\.09326864342881475\ \(0\)\
+\-\ blue\\:\\ 0\\.09326864342881475\ \(0\)\
+\-\ reversal\\:\\ 0\\.09326864342881475\ \(0\)\
+\-\ alkaline\\:\\ 0\\.09227613800232584\ \(0\)\
+\-\ unenhanced\\:\\ 0\\.08965332885430934\ \(0\)\
+\-\ congestive\\:\\ 0\\.08965332885430934\ \(0\)\
+\-\ regurgitation\\:\\ 0\\.08965332885430934\ \(0\)\
+\-\ retrograde\\:\\ 0\\.08778243360475292\ \(0\)\
+\-\ cardiomegaly\\:\\ 0\\.08581770947170289\ \(0\)\
+\-\ and\\:\\ 0\\.08478432597289683\ \(0\)\
+\-\ small\\:\\ 0\\.08465947634359167\ \(0\)\
+\-\ hepatitis\\:\\ 0\\.08436337886581173\ \(0\)\
+\-\ markings\\:\\ 0\\.08230478410395478\ \(0\)\
+\-\ abnormally\\:\\ 0\\.08160290720488117\ \(0\)\
+\-\ pancreatitis\\:\\ 0\\.08137635728150078\ \(0\)\
+\-\ measured\\:\\ 0\\.08093368780637111\ \(0\)\
+\-\ of\\:\\ 0\\.08029470294726873\ \(0\)\
+\-\ bile\\:\\ 0\\.07968197495593828\ \(0\)\
+\-\ 71\\:\\ 0\\.07968197495593828\ \(0\)\
+\-\ vena\\:\\ 0\\.07928782364760961\ \(0\)\
+\-\ cholecystitis\\:\\ 0\\.07909472514000451\ \(0\)\
+\-\ alt\\:\\ 0\\.07890418430381164\ \(0\)\
+\-\ cava\\:\\ 0\\.07890418430381164\ \(0\)\
+\-\ ast\\:\\ 0\\.07871613426890975\ \(0\)\
+\-\ portal\\:\\ 0\\.07853051075384496\ \(0\)\
+\-\ 62\\:\\ 0\\.07816629831755051\ \(0\)\
+\-\ indicating\\:\\ 0\\.07763670638569675\ \(0\)\
+\-\ red\\:\\ 0\\.07729417537448632\ \(0\)\
+\-\ effusions\\:\\ 0\\.07679520201996684\ \(0\)\
+\-\ biliary\\:\\ 0\\.07631295721638358\ \(0\)\
+\-\ concern\\:\\ 0\\.07524686788101553\ \(0\)\
+\-\ interstitial\\:\\ 0\\.07439202496744067\ \(0\)\
+\-\ color\\:\\ 0\\.07398292755613625\ \(0\)\
+\-\ sonographic\\:\\ 0\\.07384910684397149\ \(0\)\
+\-\ highly\\:\\ 0\\.07345495553564282\ \(0\)\
+\-\ duct\\:\\ 0\\.07063904788002122\ \(0\)\
+\-\ caused\\:\\ 0\\.06579868519454334\ \(0\)\
+\-\ pa\\:\\ 0\\.06297432286761158\ \(0\)\
+\-\ failure\\:\\ 0\\.06230226074153171\ \(0\)\
+\-\ 60\\:\\ 0\\.0613775651142277\ \(0\)\
+\-\ cardiac\\:\\ 0\\.06093659195686665\ \(0\)\
+\-\ effusion\\:\\ 0\\.06093659195686665\ \(0\)\
+\-\ laboratory\\:\\ 0\\.05959019201353745\ \(0\)\
+\-\ mm\\:\\ 0\\.058726795563200755\ \(0\)\
+\-\ elevated\\:\\ 0\\.05594195837931212\ \(0\)\
+\-\ thickening\\:\\ 0\\.05582733129617227\ \(0\)\
+\-\ inferior\\:\\ 0\\.05582733129617227\ \(0\)\
+\-\ right\\:\\ 0\\.05441311885000035\ \(0\)\
+\-\ radiograph\\:\\ 0\\.053447593145483335\ \(0\)\
+\-\ image\\:\\ 0\\.05248091469688335\ \(0\)\
+\-\ during\\:\\ 0\\.0519771441930094\ \(0\)\
+\-\ age\\:\\ 0\\.051518599465777415\ \(0\)\
+\-\ diffuse\\:\\ 0\\.05146229558638759\ \(0\)\
+\-\ yo\\:\\ 0\\.05126694950080431\ \(0\)\
+\-\ evaluation\\:\\ 0\\.05004529582656777\ \(0\)\
+\-\ wall\\:\\ 0\\.04991854943115246\ \(0\)\
+\-\ for\\:\\ 0\\.049744013634918136\ \(0\)\
+\-\ level\\:\\ 0\\.04956948773119277\ \(0\)\
+\-\ syndrome\\:\\ 0\\.04947129197230662\ \(0\)\
+\-\ through\\:\\ 0\\.048848855128262696\ \(0\)\
+\-\ blood\\:\\ 0\\.04765779579269718\ \(0\)\
+\-\ axial\\:\\ 0\\.047401284577705025\ \(0\)\
+\-\ evidence\\:\\ 0\\.046577848216452084\ \(0\)\
+\-\ common\\:\\ 0\\.046537888127368324\ \(0\)\
+\-\ both\\:\\ 0\\.045761147635684556\ \(0\)\
+\-\ is\\:\\ 0\\.04494582989098948\ \(0\)\
+\-\ acute\\:\\ 0\\.04439176994784191\ \(0\)\
+\-\ increased\\:\\ 0\\.04437459308273233\ \(0\)\
+\-\ bilateral\\:\\ 0\\.044102516456063307\ \(0\)\
+\-\ chest\\:\\ 0\\.043315862749734736\ \(0\)\
+\-\ demonstrate\\:\\ 0\\.04266114937526327\ \(0\)\
+\-\ to\\:\\ 0\\.041030091023904744\ \(0\)\
+\-\ female\\:\\ 0\\.03959813383282171\ \(0\)\
+\-\ which\\:\\ 0\\.03731387442023419\ \(0\)\
+\-\ by\\:\\ 0\\.03484778638047668\ \(0\)\
+\-\ normal\\:\\ 0\\.03350488534874121\ \(0\)\
+\-\ there\\:\\ 0\\.032651748316866465\ \(0\)\
+\-\ with\\:\\ 0\\.032137071605258624\ \(0\)\
+\-\ ct\\:\\ 0\\.031241327221960418\ \(0\)\
+\-\ or\\:\\ 0\\.028547500443061962\ \(0\)\
+\-\ this\\:\\ 0\\.028197577888562524\ \(0\)\
+\-\ patient\\:\\ 0\\.026690267416633377\ \(0\)\
+\-\ no\\:\\ 0\\.02668524713292508\ \(0\)\
+\-\ in\\:\\ 0\\.02041407050043066\ \(0\)\

@@ -1,104 +1,102 @@
-Texto: 
-due to rupture of the syndesmosis and deltoid ligament, the mortice is unstable.  plate and screw fixation of the fibula and syndesmotic screws are frequently needed.
-- widening of medial clear space (>4mm) indicating deltoid ligament rupture
-- widening of syndesmosis(>5mm) indicating rupture
-- comminuted oblique fracture of fibula above the syndesmosis.
-- fracture through the posterior malleolus
-pronation-external rotation injury of ankle
-24 y/o african-american male had someone fall on the lateral aspect of his lower leg while playing football.
-pronation-external rotation (per) has 4 stages of severity.  
- 
-stage i:  a short, transverse fracture of the medial malleolus or a tear of the deltoid ligament.
-stage ii:  a tear of the anteroinferior tibiofibular ligament or a small avulsion fracture of the anterior tibia. 
-stage iii:  a tear in the interosseous membrane and a spiral fracture of the fibula above the syndesmosis.  
-stage iv:  a fracture of the posterior tibia (malleolus).
-
-
-Keywords by value: 
-- syndesmosis: 0.1495659626357125
-- malleolus: 0.10139500135441157
-- pronation-external: 0.09961037767193784
-- deltoid: 0.09485834913725928
-- ligament: 0.08870439086428801
-- fibula: 0.08415882749587186
-- stage: 0.0823736594108101
-- fracture: 0.07637540102619589
-- tear: 0.06360887103287341
-- rupture: 0.06149377318857192
-- indicating: 0.04981693984974288
-- mortice: 0.04980518883596892
-- widening: 0.0486402137564932
-- rotation: 0.04639534714863463
-- tibia: 0.044352195432144005
-- syndesmotic: 0.041973017304218124
-- -: 0.04139499341713816
-- tibiofibular: 0.04071231927419434
-- anteroinferior: 0.03968225398157312
-- someone: 0.036257757916204114
-- interosseous: 0.035766168215697725
-- above: 0.03538913736302617
-- screw: 0.033475404893052736
-- spiral: 0.033169940366102026
-- 4mm: 0.03234167215032872
-- >: 0.032080988866311465
-- african-american: 0.031184641570407734
-- medial: 0.03088474026655426
-- screws: 0.03078091861005663
-- 5mm: 0.030404131183510465
-- comminuted: 0.030224760006591928
-- stages: 0.028964061976568145
-- unstable: 0.028555470668208675
-- football: 0.028298621097153552
-- membrane: 0.028298621097153552
-- severity: 0.026221079966502036
-- avulsion: 0.02580239085828892
-- playing: 0.025722251677543405
-- :: 0.025542933694704294
-- fixation: 0.024509500618577918
-- plate: 0.02419728209499007
-- ankle: 0.022997662687024002
-- short: 0.022757212888047756
-- iii: 0.02266382700131775
-- oblique: 0.02243690021190908
-- posterior: 0.022255802810197158
-- fall: 0.021238828353775087
-- per: 0.02113189044481735
-- needed: 0.021026939113896814
-- frequently: 0.02092390189610144
-- ii: 0.02082271022058432
-- i: 0.01995658019903113
-- transverse: 0.019358455899152527
-- leg: 0.018984165585360434
-- 24: 0.01877094339336695
-- clear: 0.017850432842636415
-- iv: 0.017618219985655898
-- (: 0.01632455878517199
-- ): 0.01612514558448147
-- space: 0.015969248627551606
-- a: 0.01568473792502943
-- injury: 0.015391008711236158
-- while: 0.015190108699730585
-- aspect: 0.015165491155273205
-- his: 0.013914627274841423
-- through: 0.013711621572999258
-- 4: 0.01345181867332794
-- y/o: 0.013370785479207009
-- due: 0.01288292176809514
-- anterior: 0.012433857761371398
-- or: 0.011316641231228334
-- small: 0.011121894262040218
-- the: 0.010934971671473228
-- lower: 0.010857977793016173
-- lateral: 0.010433152800138703
-- had: 0.010417230617179142
-- of: 0.009214989893626204
-- has: 0.009066101528216259
-- male: 0.008729974790324706
-- are: 0.006581208319376281
-- on: 0.0040897797308781245
-- and: 0.00406800012954166
-- is: 0.0031767840586707664
-- ,: 0.003058870796805507
-- to: 0.0024128141719942727
-- in: 0.002380775311526864
-- .: 0.0018050611574921835
+\-\ Texto\\:\\ \ \(0\)\
+\-\ due\\ to\\ rupture\\ of\\ the\\ syndesmosis\\ and\\ deltoid\\ ligament\\,\\ the\\ mortice\\ is\\ unstable\\.\\ \\ plate\\ and\\ screw\\ fixation\\ of\\ the\\ fibula\\ and\\ syndesmotic\\ screws\\ are\\ frequently\\ needed\\.\ \(0\)\
+\-\ widening\\ of\\ medial\\ clear\\ space\\ \\(\\>4mm\\)\\ indicating\\ deltoid\\ ligament\\ rupture\ \(1\)\
+\-\ widening\\ of\\ syndesmosis\\(\\>5mm\\)\\ indicating\\ rupture\ \(1\)\
+\-\ comminuted\\ oblique\\ fracture\\ of\\ fibula\\ above\\ the\\ syndesmosis\\.\ \(1\)\
+\-\ fracture\\ through\\ the\\ posterior\\ malleolus\ \(1\)\
+\-\ pronation\\-external\\ rotation\\ injury\\ of\\ ankle\ \(0\)\
+\-\ 24\\ y\\/o\\ african\\-american\\ male\\ had\\ someone\\ fall\\ on\\ the\\ lateral\\ aspect\\ of\\ his\\ lower\\ leg\\ while\\ playing\\ football\\.\ \(0\)\
+\-\ pronation\\-external\\ rotation\\ \\(per\\)\\ has\\ 4\\ stages\\ of\\ severity\\.\\ \\ \ \(0\)\
+\-\ \\ \ \(1082074\)\
+\-\ stage\\ i\\:\\ \\ a\\ short\\,\\ transverse\\ fracture\\ of\\ the\\ medial\\ malleolus\\ or\\ a\\ tear\\ of\\ the\\ deltoid\\ ligament\\.\ \(0\)\
+\-\ stage\\ ii\\:\\ \\ a\\ tear\\ of\\ the\\ anteroinferior\\ tibiofibular\\ ligament\\ or\\ a\\ small\\ avulsion\\ fracture\\ of\\ the\\ anterior\\ tibia\\.\\ \ \(0\)\
+\-\ stage\\ iii\\:\\ \\ a\\ tear\\ in\\ the\\ interosseous\\ membrane\\ and\\ a\\ spiral\\ fracture\\ of\\ the\\ fibula\\ above\\ the\\ syndesmosis\\.\\ \\ \ \(0\)\
+\-\ stage\\ iv\\:\\ \\ a\\ fracture\\ of\\ the\\ posterior\\ tibia\\ \\(malleolus\\)\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ syndesmosis\\:\\ 0\\.1495659626357125\ \(0\)\
+\-\ malleolus\\:\\ 0\\.10139500135441157\ \(0\)\
+\-\ pronation\\-external\\:\\ 0\\.09961037767193784\ \(0\)\
+\-\ deltoid\\:\\ 0\\.09485834913725928\ \(0\)\
+\-\ ligament\\:\\ 0\\.08870439086428801\ \(0\)\
+\-\ fibula\\:\\ 0\\.08415882749587186\ \(0\)\
+\-\ stage\\:\\ 0\\.0823736594108101\ \(0\)\
+\-\ fracture\\:\\ 0\\.07637540102619589\ \(0\)\
+\-\ tear\\:\\ 0\\.06360887103287341\ \(0\)\
+\-\ rupture\\:\\ 0\\.06149377318857192\ \(0\)\
+\-\ indicating\\:\\ 0\\.04981693984974288\ \(0\)\
+\-\ mortice\\:\\ 0\\.04980518883596892\ \(0\)\
+\-\ widening\\:\\ 0\\.0486402137564932\ \(0\)\
+\-\ rotation\\:\\ 0\\.04639534714863463\ \(0\)\
+\-\ tibia\\:\\ 0\\.044352195432144005\ \(0\)\
+\-\ syndesmotic\\:\\ 0\\.041973017304218124\ \(0\)\
+\-\ \\-\\:\\ 0\\.04139499341713816\ \(0\)\
+\-\ tibiofibular\\:\\ 0\\.04071231927419434\ \(0\)\
+\-\ anteroinferior\\:\\ 0\\.03968225398157312\ \(0\)\
+\-\ someone\\:\\ 0\\.036257757916204114\ \(0\)\
+\-\ interosseous\\:\\ 0\\.035766168215697725\ \(0\)\
+\-\ above\\:\\ 0\\.03538913736302617\ \(0\)\
+\-\ screw\\:\\ 0\\.033475404893052736\ \(0\)\
+\-\ spiral\\:\\ 0\\.033169940366102026\ \(0\)\
+\-\ 4mm\\:\\ 0\\.03234167215032872\ \(0\)\
+\-\ \\>\\:\\ 0\\.032080988866311465\ \(0\)\
+\-\ african\\-american\\:\\ 0\\.031184641570407734\ \(0\)\
+\-\ medial\\:\\ 0\\.03088474026655426\ \(0\)\
+\-\ screws\\:\\ 0\\.03078091861005663\ \(0\)\
+\-\ 5mm\\:\\ 0\\.030404131183510465\ \(0\)\
+\-\ comminuted\\:\\ 0\\.030224760006591928\ \(0\)\
+\-\ stages\\:\\ 0\\.028964061976568145\ \(0\)\
+\-\ unstable\\:\\ 0\\.028555470668208675\ \(0\)\
+\-\ football\\:\\ 0\\.028298621097153552\ \(0\)\
+\-\ membrane\\:\\ 0\\.028298621097153552\ \(0\)\
+\-\ severity\\:\\ 0\\.026221079966502036\ \(0\)\
+\-\ avulsion\\:\\ 0\\.02580239085828892\ \(0\)\
+\-\ playing\\:\\ 0\\.025722251677543405\ \(0\)\
+\-\ \\:\\:\\ 0\\.025542933694704294\ \(0\)\
+\-\ fixation\\:\\ 0\\.024509500618577918\ \(0\)\
+\-\ plate\\:\\ 0\\.02419728209499007\ \(0\)\
+\-\ ankle\\:\\ 0\\.022997662687024002\ \(0\)\
+\-\ short\\:\\ 0\\.022757212888047756\ \(0\)\
+\-\ iii\\:\\ 0\\.02266382700131775\ \(0\)\
+\-\ oblique\\:\\ 0\\.02243690021190908\ \(0\)\
+\-\ posterior\\:\\ 0\\.022255802810197158\ \(0\)\
+\-\ fall\\:\\ 0\\.021238828353775087\ \(0\)\
+\-\ per\\:\\ 0\\.02113189044481735\ \(0\)\
+\-\ needed\\:\\ 0\\.021026939113896814\ \(0\)\
+\-\ frequently\\:\\ 0\\.02092390189610144\ \(0\)\
+\-\ ii\\:\\ 0\\.02082271022058432\ \(0\)\
+\-\ i\\:\\ 0\\.01995658019903113\ \(0\)\
+\-\ transverse\\:\\ 0\\.019358455899152527\ \(0\)\
+\-\ leg\\:\\ 0\\.018984165585360434\ \(0\)\
+\-\ 24\\:\\ 0\\.01877094339336695\ \(0\)\
+\-\ clear\\:\\ 0\\.017850432842636415\ \(0\)\
+\-\ iv\\:\\ 0\\.017618219985655898\ \(0\)\
+\-\ \\(\\:\\ 0\\.01632455878517199\ \(0\)\
+\-\ \\)\\:\\ 0\\.01612514558448147\ \(0\)\
+\-\ space\\:\\ 0\\.015969248627551606\ \(0\)\
+\-\ a\\:\\ 0\\.01568473792502943\ \(0\)\
+\-\ injury\\:\\ 0\\.015391008711236158\ \(0\)\
+\-\ while\\:\\ 0\\.015190108699730585\ \(0\)\
+\-\ aspect\\:\\ 0\\.015165491155273205\ \(0\)\
+\-\ his\\:\\ 0\\.013914627274841423\ \(0\)\
+\-\ through\\:\\ 0\\.013711621572999258\ \(0\)\
+\-\ 4\\:\\ 0\\.01345181867332794\ \(0\)\
+\-\ y\\/o\\:\\ 0\\.013370785479207009\ \(0\)\
+\-\ due\\:\\ 0\\.01288292176809514\ \(0\)\
+\-\ anterior\\:\\ 0\\.012433857761371398\ \(0\)\
+\-\ or\\:\\ 0\\.011316641231228334\ \(0\)\
+\-\ small\\:\\ 0\\.011121894262040218\ \(0\)\
+\-\ the\\:\\ 0\\.010934971671473228\ \(0\)\
+\-\ lower\\:\\ 0\\.010857977793016173\ \(0\)\
+\-\ lateral\\:\\ 0\\.010433152800138703\ \(0\)\
+\-\ had\\:\\ 0\\.010417230617179142\ \(0\)\
+\-\ of\\:\\ 0\\.009214989893626204\ \(0\)\
+\-\ has\\:\\ 0\\.009066101528216259\ \(0\)\
+\-\ male\\:\\ 0\\.008729974790324706\ \(0\)\
+\-\ are\\:\\ 0\\.006581208319376281\ \(0\)\
+\-\ on\\:\\ 0\\.0040897797308781245\ \(0\)\
+\-\ and\\:\\ 0\\.00406800012954166\ \(0\)\
+\-\ is\\:\\ 0\\.0031767840586707664\ \(0\)\
+\-\ \\,\\:\\ 0\\.003058870796805507\ \(0\)\
+\-\ to\\:\\ 0\\.0024128141719942727\ \(0\)\
+\-\ in\\:\\ 0\\.002380775311526864\ \(0\)\
+\-\ \\.\\:\\ 0\\.0018050611574921835\ \(0\)\

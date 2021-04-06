@@ -1,126 +1,123 @@
-Texto: 
-normal breast exam with no palpable abnormalities or skin changes.
-this is a benign condition requiring no further treatment.  the patient should continue routine screening mammography.
-mammography:  standard cc and mlo views of the breasts demonstrate a partially circumscribed and partially obscured 3 cm hyperdense mass in the upper outer quadrant of the right breast.  there are no suspicious clusters of calcifications.
-
-right breast ultrasound:  there is a 3.6 x 1.0 x 2.2 cm solid and cystic mass with partially ill defined margins within the upper outer quadrant of the right breast along the 09:30 radial and approximately 7 cm from the nipple.  the lesion has internal vascularity.  the cystic portions of the lesion have increased through transmission.
-sclerosing adenosis
-infiltrating ductal carcinoma
-infiltrating lobular carcinoma
-tubular carcinoma
-ductal carcinoma in situ
-postoperative scar
-radial scar
-fat necrosis
-metastatic disease
-infection such as tuberculosis.
-the patient has no family history of breast cancer and presented for annual routine screening mammography.
-mammography can not readily distinguish sclerosing adenosis from a malignant process.  biopsy is typically required to confirm this diagnosis.
-
-
-Keywords by value: 
-- mammography: 0.34394629192523096
-- breast: 0.29959456222549474
-- adenosis: 0.22040121377465516
-- partially: 0.2124479807069993
-- the: 0.19757320476575302
-- carcinoma: 0.19742339235840134
-- sclerosing: 0.17384024266449102
-- infiltrating: 0.16189664794799377
-- outer: 0.1586788950026537
-- scar: 0.15578348475633405
-- ductal: 0.14522480961436862
-- cm: 0.14216532262559112
-- radial: 0.14163198713799954
-- screening: 0.13405804822426046
-- routine: 0.12779820848069243
-- quadrant: 0.11559207400741468
-- no: 0.1073298093196493
-- clusters: 0.10729790949779645
-- cystic: 0.09939015174651539
-- obscured: 0.09865020985504638
-- readily: 0.09727155010865637
-- of: 0.09688516408088718
-- transmission: 0.09542244307824449
-- mlo: 0.09185161724270817
-- situ: 0.09185161724270817
-- breasts: 0.0901478881090474
-- distinguish: 0.08936580689046693
-- upper: 0.08818787641246088
-- nipple: 0.08724519071951628
-- postoperative: 0.08568831542556682
-- and: 0.08525202609739266
-- lobular: 0.08375678663956745
-- vascularity: 0.08251971019941129
-- requiring: 0.08228450210697791
-- right: 0.08206992109114003
-- continue: 0.08094832397399689
-- cc: 0.07992200860535205
-- lesion: 0.07911761796267673
-- portions: 0.07841779958624655
-- ill: 0.07789174237816703
-- confirm: 0.0772188313303762
-- standard: 0.07657583751965931
-- annual: 0.07626475071343758
-- hyperdense: 0.07596021359216767
-- has: 0.07537952800589424
-- suspicious: 0.07373042725042736
-- tuberculosis: 0.07261240480718431
-- tubular: 0.07168632996660079
-- margins: 0.07039970645203716
-- is: 0.06779065031537494
-- condition: 0.06593385420302757
-- there: 0.06566373366050805
-- from: 0.06554173049418799
-- views: 0.06512800144422629
-- family: 0.06491579745805491
-- circumscribed: 0.06389910424034621
-- solid: 0.06325895646583504
-- necrosis: 0.06307230898625665
-- mass: 0.06303591098290601
-- process: 0.061885990472310866
-- skin: 0.0613823233015812
-- calcifications: 0.06022027707398444
-- abnormalities: 0.059770552385886216
-- required: 0.058910993858517
-- defined: 0.058864705886317474
-- malignant: 0.05881856556340287
-- palpable: 0.05796875522256634
-- typically: 0.05792538193978735
-- biopsy: 0.05783902359988685
-- this: 0.05670625126647711
-- benign: 0.05668120751677671
-- internal: 0.05560923725814656
-- along: 0.05528088820212376
-- cancer: 0.05495982739987765
-- should: 0.053840055619285114
-- further: 0.05374242884396062
-- patient: 0.05367500061453809
-- such: 0.05307689074039837
-- approximately: 0.05264962401171653
-- fat: 0.05132849005998643
-- ultrasound: 0.05089586031080774
-- changes: 0.04986772046793918
-- infection: 0.0498429304379318
-- through: 0.049118322572425314
-- presented: 0.048117201332016704
-- metastatic: 0.045254528812983676
-- increased: 0.04461937892576516
-- can: 0.043300472411515425
-- demonstrate: 0.042896483260919493
-- diagnosis: 0.042774415203435896
-- exam: 0.04153733876327973
-- have: 0.041220020825189094
-- in: 0.041053363368438324
-- treatment: 0.03930555986296216
-- within: 0.03800317513533021
-- disease: 0.03463623731292987
-- normal: 0.033689710065680445
-- as: 0.03314860265602747
-- not: 0.03257436825826887
-- with: 0.032314350981113016
-- history: 0.03152493497480621
-- are: 0.031310121758473426
-- or: 0.028704978483466894
-- for: 0.025009209543924164
-- to: 0.020628213709374205
+\-\ Texto\\:\\ \ \(0\)\
+\-\ normal\\ breast\\ exam\\ with\\ no\\ palpable\\ abnormalities\\ or\\ skin\\ changes\\.\ \(0\)\
+\-\ this\\ is\\ a\\ benign\\ condition\\ requiring\\ no\\ further\\ treatment\\.\\ \\ the\\ patient\\ should\\ continue\\ routine\\ screening\\ mammography\\.\ \(0\)\
+\-\ mammography\\:\\ \\ standard\\ cc\\ and\\ mlo\\ views\\ of\\ the\\ breasts\\ demonstrate\\ a\\ partially\\ circumscribed\\ and\\ partially\\ obscured\\ 3\\ cm\\ hyperdense\\ mass\\ in\\ the\\ upper\\ outer\\ quadrant\\ of\\ the\\ right\\ breast\\.\\ \\ there\\ are\\ no\\ suspicious\\ clusters\\ of\\ calcifications\\.\ \(0\)\
+\-\ right\\ breast\\ ultrasound\\:\\ \\ there\\ is\\ a\\ 3\\.6\\ x\\ 1\\.0\\ x\\ 2\\.2\\ cm\\ solid\\ and\\ cystic\\ mass\\ with\\ partially\\ ill\\ defined\\ margins\\ within\\ the\\ upper\\ outer\\ quadrant\\ of\\ the\\ right\\ breast\\ along\\ the\\ 09\\:30\\ radial\\ and\\ approximately\\ 7\\ cm\\ from\\ the\\ nipple\\.\\ \\ the\\ lesion\\ has\\ internal\\ vascularity\\.\\ \\ the\\ cystic\\ portions\\ of\\ the\\ lesion\\ have\\ increased\\ through\\ transmission\\.\ \(0\)\
+\-\ sclerosing\\ adenosis\ \(5\)\
+\-\ infiltrating\\ ductal\\ carcinoma\ \(11\)\
+\-\ infiltrating\\ lobular\\ carcinoma\ \(2\)\
+\-\ tubular\\ carcinoma\ \(2\)\
+\-\ ductal\\ carcinoma\\ in\\ situ\ \(4\)\
+\-\ postoperative\\ scar\ \(0\)\
+\-\ radial\\ scar\ \(3\)\
+\-\ fat\\ necrosis\ \(11\)\
+\-\ metastatic\\ disease\ \(243\)\
+\-\ infection\\ such\\ as\\ tuberculosis\\.\ \(0\)\
+\-\ the\\ patient\\ has\\ no\\ family\\ history\\ of\\ breast\\ cancer\\ and\\ presented\\ for\\ annual\\ routine\\ screening\\ mammography\\.\ \(0\)\
+\-\ mammography\\ can\\ not\\ readily\\ distinguish\\ sclerosing\\ adenosis\\ from\\ a\\ malignant\\ process\\.\\ \\ biopsy\\ is\\ typically\\ required\\ to\\ confirm\\ this\\ diagnosis\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ mammography\\:\\ 0\\.34394629192523096\ \(0\)\
+\-\ breast\\:\\ 0\\.29959456222549474\ \(0\)\
+\-\ adenosis\\:\\ 0\\.22040121377465516\ \(0\)\
+\-\ partially\\:\\ 0\\.2124479807069993\ \(0\)\
+\-\ the\\:\\ 0\\.19757320476575302\ \(0\)\
+\-\ carcinoma\\:\\ 0\\.19742339235840134\ \(0\)\
+\-\ sclerosing\\:\\ 0\\.17384024266449102\ \(0\)\
+\-\ infiltrating\\:\\ 0\\.16189664794799377\ \(0\)\
+\-\ outer\\:\\ 0\\.1586788950026537\ \(0\)\
+\-\ scar\\:\\ 0\\.15578348475633405\ \(0\)\
+\-\ ductal\\:\\ 0\\.14522480961436862\ \(0\)\
+\-\ cm\\:\\ 0\\.14216532262559112\ \(0\)\
+\-\ radial\\:\\ 0\\.14163198713799954\ \(0\)\
+\-\ screening\\:\\ 0\\.13405804822426046\ \(0\)\
+\-\ routine\\:\\ 0\\.12779820848069243\ \(0\)\
+\-\ quadrant\\:\\ 0\\.11559207400741468\ \(0\)\
+\-\ no\\:\\ 0\\.1073298093196493\ \(0\)\
+\-\ clusters\\:\\ 0\\.10729790949779645\ \(0\)\
+\-\ cystic\\:\\ 0\\.09939015174651539\ \(0\)\
+\-\ obscured\\:\\ 0\\.09865020985504638\ \(0\)\
+\-\ readily\\:\\ 0\\.09727155010865637\ \(0\)\
+\-\ of\\:\\ 0\\.09688516408088718\ \(0\)\
+\-\ transmission\\:\\ 0\\.09542244307824449\ \(0\)\
+\-\ mlo\\:\\ 0\\.09185161724270817\ \(0\)\
+\-\ situ\\:\\ 0\\.09185161724270817\ \(0\)\
+\-\ breasts\\:\\ 0\\.0901478881090474\ \(0\)\
+\-\ distinguish\\:\\ 0\\.08936580689046693\ \(0\)\
+\-\ upper\\:\\ 0\\.08818787641246088\ \(0\)\
+\-\ nipple\\:\\ 0\\.08724519071951628\ \(0\)\
+\-\ postoperative\\:\\ 0\\.08568831542556682\ \(0\)\
+\-\ and\\:\\ 0\\.08525202609739266\ \(0\)\
+\-\ lobular\\:\\ 0\\.08375678663956745\ \(0\)\
+\-\ vascularity\\:\\ 0\\.08251971019941129\ \(0\)\
+\-\ requiring\\:\\ 0\\.08228450210697791\ \(0\)\
+\-\ right\\:\\ 0\\.08206992109114003\ \(0\)\
+\-\ continue\\:\\ 0\\.08094832397399689\ \(0\)\
+\-\ cc\\:\\ 0\\.07992200860535205\ \(0\)\
+\-\ lesion\\:\\ 0\\.07911761796267673\ \(0\)\
+\-\ portions\\:\\ 0\\.07841779958624655\ \(0\)\
+\-\ ill\\:\\ 0\\.07789174237816703\ \(0\)\
+\-\ confirm\\:\\ 0\\.0772188313303762\ \(0\)\
+\-\ standard\\:\\ 0\\.07657583751965931\ \(0\)\
+\-\ annual\\:\\ 0\\.07626475071343758\ \(0\)\
+\-\ hyperdense\\:\\ 0\\.07596021359216767\ \(0\)\
+\-\ has\\:\\ 0\\.07537952800589424\ \(0\)\
+\-\ suspicious\\:\\ 0\\.07373042725042736\ \(0\)\
+\-\ tuberculosis\\:\\ 0\\.07261240480718431\ \(0\)\
+\-\ tubular\\:\\ 0\\.07168632996660079\ \(0\)\
+\-\ margins\\:\\ 0\\.07039970645203716\ \(0\)\
+\-\ is\\:\\ 0\\.06779065031537494\ \(0\)\
+\-\ condition\\:\\ 0\\.06593385420302757\ \(0\)\
+\-\ there\\:\\ 0\\.06566373366050805\ \(0\)\
+\-\ from\\:\\ 0\\.06554173049418799\ \(0\)\
+\-\ views\\:\\ 0\\.06512800144422629\ \(0\)\
+\-\ family\\:\\ 0\\.06491579745805491\ \(0\)\
+\-\ circumscribed\\:\\ 0\\.06389910424034621\ \(0\)\
+\-\ solid\\:\\ 0\\.06325895646583504\ \(0\)\
+\-\ necrosis\\:\\ 0\\.06307230898625665\ \(0\)\
+\-\ mass\\:\\ 0\\.06303591098290601\ \(0\)\
+\-\ process\\:\\ 0\\.061885990472310866\ \(0\)\
+\-\ skin\\:\\ 0\\.0613823233015812\ \(0\)\
+\-\ calcifications\\:\\ 0\\.06022027707398444\ \(0\)\
+\-\ abnormalities\\:\\ 0\\.059770552385886216\ \(0\)\
+\-\ required\\:\\ 0\\.058910993858517\ \(0\)\
+\-\ defined\\:\\ 0\\.058864705886317474\ \(0\)\
+\-\ malignant\\:\\ 0\\.05881856556340287\ \(0\)\
+\-\ palpable\\:\\ 0\\.05796875522256634\ \(0\)\
+\-\ typically\\:\\ 0\\.05792538193978735\ \(0\)\
+\-\ biopsy\\:\\ 0\\.05783902359988685\ \(0\)\
+\-\ this\\:\\ 0\\.05670625126647711\ \(0\)\
+\-\ benign\\:\\ 0\\.05668120751677671\ \(0\)\
+\-\ internal\\:\\ 0\\.05560923725814656\ \(0\)\
+\-\ along\\:\\ 0\\.05528088820212376\ \(0\)\
+\-\ cancer\\:\\ 0\\.05495982739987765\ \(0\)\
+\-\ should\\:\\ 0\\.053840055619285114\ \(0\)\
+\-\ further\\:\\ 0\\.05374242884396062\ \(0\)\
+\-\ patient\\:\\ 0\\.05367500061453809\ \(0\)\
+\-\ such\\:\\ 0\\.05307689074039837\ \(0\)\
+\-\ approximately\\:\\ 0\\.05264962401171653\ \(0\)\
+\-\ fat\\:\\ 0\\.05132849005998643\ \(0\)\
+\-\ ultrasound\\:\\ 0\\.05089586031080774\ \(0\)\
+\-\ changes\\:\\ 0\\.04986772046793918\ \(0\)\
+\-\ infection\\:\\ 0\\.0498429304379318\ \(0\)\
+\-\ through\\:\\ 0\\.049118322572425314\ \(0\)\
+\-\ presented\\:\\ 0\\.048117201332016704\ \(0\)\
+\-\ metastatic\\:\\ 0\\.045254528812983676\ \(0\)\
+\-\ increased\\:\\ 0\\.04461937892576516\ \(0\)\
+\-\ can\\:\\ 0\\.043300472411515425\ \(0\)\
+\-\ demonstrate\\:\\ 0\\.042896483260919493\ \(0\)\
+\-\ diagnosis\\:\\ 0\\.042774415203435896\ \(0\)\
+\-\ exam\\:\\ 0\\.04153733876327973\ \(0\)\
+\-\ have\\:\\ 0\\.041220020825189094\ \(0\)\
+\-\ in\\:\\ 0\\.041053363368438324\ \(0\)\
+\-\ treatment\\:\\ 0\\.03930555986296216\ \(0\)\
+\-\ within\\:\\ 0\\.03800317513533021\ \(0\)\
+\-\ disease\\:\\ 0\\.03463623731292987\ \(0\)\
+\-\ normal\\:\\ 0\\.033689710065680445\ \(0\)\
+\-\ as\\:\\ 0\\.03314860265602747\ \(0\)\
+\-\ not\\:\\ 0\\.03257436825826887\ \(0\)\
+\-\ with\\:\\ 0\\.032314350981113016\ \(0\)\
+\-\ history\\:\\ 0\\.03152493497480621\ \(0\)\
+\-\ are\\:\\ 0\\.031310121758473426\ \(0\)\
+\-\ or\\:\\ 0\\.028704978483466894\ \(0\)\
+\-\ for\\:\\ 0\\.025009209543924164\ \(0\)\
+\-\ to\\:\\ 0\\.020628213709374205\ \(0\)\

@@ -1,69 +1,66 @@
-Texto: 
-normal breast examination.
-the patient was referred for surgical excision.
-clustered heterogenous punctuate microcalcifications.  
-
-specimen radiographs demonstrating calcifications within the specimen.
-ductal carcinoma in situ
-ductal carcinoma in situ/invasive ductal carcinoma; adenosis; secretory calcifications.
-clinically asymptomatic with reference to the breasts presents for routine screening mammography
-this case represents a case of a new birads 4 abnormality that progressed to stereotactic biopsy which revealed ductal carcinoma in situ (dcis).
-
-
-Keywords by value: 
-- ductal: 0.2039507180346558
-- situ: 0.1406942249606333
-- specimen: 0.12978832835069776
-- carcinoma: 0.12262924911472742
-- situ/invasive: 0.11158884080970251
-- secretory: 0.09121620900673921
-- punctuate: 0.0889083411992208
-- birads: 0.08695706677102766
-- clustered: 0.08526679597831217
-- adenosis: 0.08526679597831217
-- calcifications: 0.08043452543374056
-- dcis: 0.07730972434005427
-- stereotactic: 0.07366817911914565
-- microcalcifications: 0.07246172114693901
-- breasts: 0.06695136581456122
-- mammography: 0.06285279521843595
-- progressed: 0.06258629636783047
-- reference: 0.05817735087076445
-- heterogenous: 0.055502552216749164
-- represents: 0.05197453446397676
-- ;: 0.051276485783609965
-- clinically: 0.047425496477800845
-- case: 0.047329226148538496
-- demonstrating: 0.04695661962108756
-- screening: 0.04613967631554869
-- excision: 0.04439557881728219
-- routine: 0.043372742963924016
-- referred: 0.04081685371462837
-- breast: 0.03990579675734876
-- abnormality: 0.03990579675734876
-- biopsy: 0.03837586381818684
-- new: 0.03769351869367795
-- asymptomatic: 0.03656446073412769
-- revealed: 0.034714859365393584
-- radiographs: 0.03425659292660928
-- examination: 0.03362560804398184
-- 4: 0.030138884875684117
-- surgical: 0.022736984433562705
-- presents: 0.022096763234277544
-- within: 0.020634574789697234
-- which: 0.02019170363598163
-- that: 0.018683300361504094
-- for: 0.018458434142853548
-- normal: 0.016957119678469634
-- in: 0.01600242646102234
-- was: 0.012509842053337808
-- this: 0.012166293839419405
-- patient: 0.010842935834384658
-- to: 0.01081185084665788
-- a: 0.010040501311863324
-- (: 0.009143819319542537
-- ): 0.009032122684978544
-- the: 0.005249972836846549
-- .: 0.0026961672985326285
-- with: 0.0014810655201251866
-- of: 0.0014747316556707397
+\-\ Texto\\:\\ \ \(0\)\
+\-\ normal\\ breast\\ examination\\.\ \(0\)\
+\-\ the\\ patient\\ was\\ referred\\ for\\ surgical\\ excision\\.\ \(0\)\
+\-\ clustered\\ heterogenous\\ punctuate\\ microcalcifications\\.\\ \\ \ \(0\)\
+\-\ specimen\\ radiographs\\ demonstrating\\ calcifications\\ within\\ the\\ specimen\\.\ \(0\)\
+\-\ ductal\\ carcinoma\\ in\\ situ\ \(4\)\
+\-\ ductal\\ carcinoma\\ in\\ situ\\/invasive\\ ductal\\ carcinoma\\;\\ adenosis\\;\\ secretory\\ calcifications\\.\ \(0\)\
+\-\ clinically\\ asymptomatic\\ with\\ reference\\ to\\ the\\ breasts\\ presents\\ for\\ routine\\ screening\\ mammography\ \(1\)\
+\-\ this\\ case\\ represents\\ a\\ case\\ of\\ a\\ new\\ birads\\ 4\\ abnormality\\ that\\ progressed\\ to\\ stereotactic\\ biopsy\\ which\\ revealed\\ ductal\\ carcinoma\\ in\\ situ\\ \\(dcis\\)\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ ductal\\:\\ 0\\.2039507180346558\ \(0\)\
+\-\ situ\\:\\ 0\\.1406942249606333\ \(0\)\
+\-\ specimen\\:\\ 0\\.12978832835069776\ \(0\)\
+\-\ carcinoma\\:\\ 0\\.12262924911472742\ \(0\)\
+\-\ situ\\/invasive\\:\\ 0\\.11158884080970251\ \(0\)\
+\-\ secretory\\:\\ 0\\.09121620900673921\ \(0\)\
+\-\ punctuate\\:\\ 0\\.0889083411992208\ \(0\)\
+\-\ birads\\:\\ 0\\.08695706677102766\ \(0\)\
+\-\ clustered\\:\\ 0\\.08526679597831217\ \(0\)\
+\-\ adenosis\\:\\ 0\\.08526679597831217\ \(0\)\
+\-\ calcifications\\:\\ 0\\.08043452543374056\ \(0\)\
+\-\ dcis\\:\\ 0\\.07730972434005427\ \(0\)\
+\-\ stereotactic\\:\\ 0\\.07366817911914565\ \(0\)\
+\-\ microcalcifications\\:\\ 0\\.07246172114693901\ \(0\)\
+\-\ breasts\\:\\ 0\\.06695136581456122\ \(0\)\
+\-\ mammography\\:\\ 0\\.06285279521843595\ \(0\)\
+\-\ progressed\\:\\ 0\\.06258629636783047\ \(0\)\
+\-\ reference\\:\\ 0\\.05817735087076445\ \(0\)\
+\-\ heterogenous\\:\\ 0\\.055502552216749164\ \(0\)\
+\-\ represents\\:\\ 0\\.05197453446397676\ \(0\)\
+\-\ \\;\\:\\ 0\\.051276485783609965\ \(0\)\
+\-\ clinically\\:\\ 0\\.047425496477800845\ \(0\)\
+\-\ case\\:\\ 0\\.047329226148538496\ \(0\)\
+\-\ demonstrating\\:\\ 0\\.04695661962108756\ \(0\)\
+\-\ screening\\:\\ 0\\.04613967631554869\ \(0\)\
+\-\ excision\\:\\ 0\\.04439557881728219\ \(0\)\
+\-\ routine\\:\\ 0\\.043372742963924016\ \(0\)\
+\-\ referred\\:\\ 0\\.04081685371462837\ \(0\)\
+\-\ breast\\:\\ 0\\.03990579675734876\ \(0\)\
+\-\ abnormality\\:\\ 0\\.03990579675734876\ \(0\)\
+\-\ biopsy\\:\\ 0\\.03837586381818684\ \(0\)\
+\-\ new\\:\\ 0\\.03769351869367795\ \(0\)\
+\-\ asymptomatic\\:\\ 0\\.03656446073412769\ \(0\)\
+\-\ revealed\\:\\ 0\\.034714859365393584\ \(0\)\
+\-\ radiographs\\:\\ 0\\.03425659292660928\ \(0\)\
+\-\ examination\\:\\ 0\\.03362560804398184\ \(0\)\
+\-\ 4\\:\\ 0\\.030138884875684117\ \(0\)\
+\-\ surgical\\:\\ 0\\.022736984433562705\ \(0\)\
+\-\ presents\\:\\ 0\\.022096763234277544\ \(0\)\
+\-\ within\\:\\ 0\\.020634574789697234\ \(0\)\
+\-\ which\\:\\ 0\\.02019170363598163\ \(0\)\
+\-\ that\\:\\ 0\\.018683300361504094\ \(0\)\
+\-\ for\\:\\ 0\\.018458434142853548\ \(0\)\
+\-\ normal\\:\\ 0\\.016957119678469634\ \(0\)\
+\-\ in\\:\\ 0\\.01600242646102234\ \(0\)\
+\-\ was\\:\\ 0\\.012509842053337808\ \(0\)\
+\-\ this\\:\\ 0\\.012166293839419405\ \(0\)\
+\-\ patient\\:\\ 0\\.010842935834384658\ \(0\)\
+\-\ to\\:\\ 0\\.01081185084665788\ \(0\)\
+\-\ a\\:\\ 0\\.010040501311863324\ \(0\)\
+\-\ \\(\\:\\ 0\\.009143819319542537\ \(0\)\
+\-\ \\)\\:\\ 0\\.009032122684978544\ \(0\)\
+\-\ the\\:\\ 0\\.005249972836846549\ \(0\)\
+\-\ \\.\\:\\ 0\\.0026961672985326285\ \(0\)\
+\-\ with\\:\\ 0\\.0014810655201251866\ \(0\)\
+\-\ of\\:\\ 0\\.0014747316556707397\ \(0\)\

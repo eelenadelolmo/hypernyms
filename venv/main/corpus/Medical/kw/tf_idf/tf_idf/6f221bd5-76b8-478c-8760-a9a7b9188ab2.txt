@@ -1,105 +1,102 @@
-Texto: 
-na
-radiation and intrathecal chemotherapy.
--  diffuse enhancement throughout leptomeninges of the posterior fossa.
-
--  enhancement and thickening of the nerve roots of the cauda equina.
-lymphomatous meningitis
-guillain-barre? syndrome
-chronic inflammatory demyelinating polyneuropathy, sarcoidosis
-lymphoma
-meningeal carcinomatosis
-aids-related cytomegalovirus
-polyradiculopathy 
-neuroborreliosis 
-arachnoiditis
-transverse myelitis
-spinal cord infarcts
-lumbosacral compression from disk herniation or stenosis
-the patient presents with a history of intracranial lymphoma, initially diagnosed as follicular lymphoma, now diagnosed by the nih as diffuse large b-cell lymphoma and history of stage i grade iii follicular lymphoma of the axilla. presents this admission with new onset of lower extremity weakness and instability for the last 7-10 days.
-
-
-Keywords by value: 
-- lymphoma: 0.10436746300809768
-- follicular: 0.09636691613023167
-- lymphomatous: 0.07534631131595299
-- aids-related: 0.07534631131595299
-- neuroborreliosis: 0.07534631131595299
-- polyradiculopathy: 0.06942197643937226
-- guillain-barre: 0.06595646269485803
-- arachnoiditis: 0.06159043172249913
-- leptomeninges: 0.057573306686210794
-- 7-10: 0.056566614073763066
-- intrathecal: 0.0556660968459184
-- cytomegalovirus: 0.0556660968459184
-- nih: 0.0556660968459184
-- diagnosed: 0.05371273772299155
-- myelitis: 0.05113081264880583
-- axilla: 0.05113081264880583
-- polyneuropathy: 0.050642279197182345
-- cauda: 0.048927145047933183
-- equina: 0.048927145047933183
-- meningeal: 0.04656600507675234
-- b-cell: 0.04546163130341896
-- demyelinating: 0.045206477772225105
-- carcinomatosis: 0.04471794432060162
-- diffuse: 0.044222349066244705
-- roots: 0.04340041714259085
-- lumbosacral: 0.04340041714259085
-- disk: 0.03953729642683823
-- na: 0.03940876756047464
-- infarcts: 0.03928214289564438
-- enhancement: 0.039153654121761305
-- meningitis: 0.03789309221617621
-- instability: 0.03757844287324701
-- iii: 0.0342863023866089
-- sarcoidosis: 0.03298881509713879
-- herniation: 0.032520368631369596
-- admission: 0.03218514886082873
-- -: 0.031311597584758356
-- last: 0.031202841453358842
-- stage: 0.031154140418191
-- intracranial: 0.030867621682817974
-- i: 0.03019072389084197
-- presents: 0.029840073427485916
-- fossa: 0.029767518211120763
-- initially: 0.029726327728762224
-- transverse: 0.02928586918076921
-- stenosis: 0.02861075455411425
-- ?: 0.028503243595081256
-- grade: 0.027819117888469833
-- cord: 0.027753623249618817
-- throughout: 0.027339720737606214
-- compression: 0.027339720737606214
-- weakness: 0.027124883359216964
-- extremity: 0.026710760424294343
-- nerve: 0.02631577885886587
-- chemotherapy: 0.02617902380462278
-- spinal: 0.026151933422047746
-- new: 0.025451179288893663
-- inflammatory: 0.025327486702495933
-- now: 0.024966799911979896
-- thickening: 0.024757474954644035
-- radiation: 0.02396795939796869
-- onset: 0.023054882272864532
-- days: 0.022385250394632288
-- as: 0.022095341981096205
-- syndrome: 0.020888090399441384
-- chronic: 0.020572560965017094
-- history: 0.02017460748217237
-- posterior: 0.01683451751027734
-- lower: 0.016426171533024468
-- large: 0.015970448135308374
-- by: 0.012161289771323717
-- from: 0.010824236864565918
-- or: 0.008560023495416305
-- the: 0.008271324725857954
-- this: 0.008214847977043874
-- patient: 0.007321298554840924
-- of: 0.006970312868255718
-- ,: 0.006941283731212496
-- for: 0.006231693578142865
-- and: 0.0061541540421271275
-- a: 0.003389741895885481
-- with: 0.0020000713861519615
-- .: 0.0015170741921942852
+\-\ Texto\\:\\ \ \(0\)\
+\-\ na\ \(21935\)\
+\-\ radiation\\ and\\ intrathecal\\ chemotherapy\\.\ \(0\)\
+\-\ \\ diffuse\\ enhancement\\ throughout\\ leptomeninges\\ of\\ the\\ posterior\\ fossa\\.\ \(0\)\
+\-\ \\ enhancement\\ and\\ thickening\\ of\\ the\\ nerve\\ roots\\ of\\ the\\ cauda\\ equina\\.\ \(1\)\
+\-\ lymphomatous\\ meningitis\ \(0\)\
+\-\ guillain\\-barre\\?\\ syndrome\ \(0\)\
+\-\ chronic\\ inflammatory\\ demyelinating\\ polyneuropathy\\,\\ sarcoidosis\ \(1\)\
+\-\ lymphoma\ \(373\)\
+\-\ meningeal\\ carcinomatosis\ \(5\)\
+\-\ aids\\-related\\ cytomegalovirus\ \(0\)\
+\-\ polyradiculopathy\\ \ \(1\)\
+\-\ neuroborreliosis\\ \ \(1\)\
+\-\ arachnoiditis\ \(3\)\
+\-\ transverse\\ myelitis\ \(14\)\
+\-\ spinal\\ cord\\ infarcts\ \(1\)\
+\-\ lumbosacral\\ compression\\ from\\ disk\\ herniation\\ or\\ stenosis\ \(1\)\
+\-\ the\\ patient\\ presents\\ with\\ a\\ history\\ of\\ intracranial\\ lymphoma\\,\\ initially\\ diagnosed\\ as\\ follicular\\ lymphoma\\,\\ now\\ diagnosed\\ by\\ the\\ nih\\ as\\ diffuse\\ large\\ b\\-cell\\ lymphoma\\ and\\ history\\ of\\ stage\\ i\\ grade\\ iii\\ follicular\\ lymphoma\\ of\\ the\\ axilla\\.\\ presents\\ this\\ admission\\ with\\ new\\ onset\\ of\\ lower\\ extremity\\ weakness\\ and\\ instability\\ for\\ the\\ last\\ 7\\-10\\ days\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ lymphoma\\:\\ 0\\.10436746300809768\ \(0\)\
+\-\ follicular\\:\\ 0\\.09636691613023167\ \(0\)\
+\-\ lymphomatous\\:\\ 0\\.07534631131595299\ \(0\)\
+\-\ aids\\-related\\:\\ 0\\.07534631131595299\ \(0\)\
+\-\ neuroborreliosis\\:\\ 0\\.07534631131595299\ \(0\)\
+\-\ polyradiculopathy\\:\\ 0\\.06942197643937226\ \(0\)\
+\-\ guillain\\-barre\\:\\ 0\\.06595646269485803\ \(0\)\
+\-\ arachnoiditis\\:\\ 0\\.06159043172249913\ \(0\)\
+\-\ leptomeninges\\:\\ 0\\.057573306686210794\ \(0\)\
+\-\ 7\\-10\\:\\ 0\\.056566614073763066\ \(0\)\
+\-\ intrathecal\\:\\ 0\\.0556660968459184\ \(0\)\
+\-\ cytomegalovirus\\:\\ 0\\.0556660968459184\ \(0\)\
+\-\ nih\\:\\ 0\\.0556660968459184\ \(0\)\
+\-\ diagnosed\\:\\ 0\\.05371273772299155\ \(0\)\
+\-\ myelitis\\:\\ 0\\.05113081264880583\ \(0\)\
+\-\ axilla\\:\\ 0\\.05113081264880583\ \(0\)\
+\-\ polyneuropathy\\:\\ 0\\.050642279197182345\ \(0\)\
+\-\ cauda\\:\\ 0\\.048927145047933183\ \(0\)\
+\-\ equina\\:\\ 0\\.048927145047933183\ \(0\)\
+\-\ meningeal\\:\\ 0\\.04656600507675234\ \(0\)\
+\-\ b\\-cell\\:\\ 0\\.04546163130341896\ \(0\)\
+\-\ demyelinating\\:\\ 0\\.045206477772225105\ \(0\)\
+\-\ carcinomatosis\\:\\ 0\\.04471794432060162\ \(0\)\
+\-\ diffuse\\:\\ 0\\.044222349066244705\ \(0\)\
+\-\ roots\\:\\ 0\\.04340041714259085\ \(0\)\
+\-\ lumbosacral\\:\\ 0\\.04340041714259085\ \(0\)\
+\-\ disk\\:\\ 0\\.03953729642683823\ \(0\)\
+\-\ na\\:\\ 0\\.03940876756047464\ \(0\)\
+\-\ infarcts\\:\\ 0\\.03928214289564438\ \(0\)\
+\-\ enhancement\\:\\ 0\\.039153654121761305\ \(0\)\
+\-\ meningitis\\:\\ 0\\.03789309221617621\ \(0\)\
+\-\ instability\\:\\ 0\\.03757844287324701\ \(0\)\
+\-\ iii\\:\\ 0\\.0342863023866089\ \(0\)\
+\-\ sarcoidosis\\:\\ 0\\.03298881509713879\ \(0\)\
+\-\ herniation\\:\\ 0\\.032520368631369596\ \(0\)\
+\-\ admission\\:\\ 0\\.03218514886082873\ \(0\)\
+\-\ \\-\\:\\ 0\\.031311597584758356\ \(0\)\
+\-\ last\\:\\ 0\\.031202841453358842\ \(0\)\
+\-\ stage\\:\\ 0\\.031154140418191\ \(0\)\
+\-\ intracranial\\:\\ 0\\.030867621682817974\ \(0\)\
+\-\ i\\:\\ 0\\.03019072389084197\ \(0\)\
+\-\ presents\\:\\ 0\\.029840073427485916\ \(0\)\
+\-\ fossa\\:\\ 0\\.029767518211120763\ \(0\)\
+\-\ initially\\:\\ 0\\.029726327728762224\ \(0\)\
+\-\ transverse\\:\\ 0\\.02928586918076921\ \(0\)\
+\-\ stenosis\\:\\ 0\\.02861075455411425\ \(0\)\
+\-\ \\?\\:\\ 0\\.028503243595081256\ \(0\)\
+\-\ grade\\:\\ 0\\.027819117888469833\ \(0\)\
+\-\ cord\\:\\ 0\\.027753623249618817\ \(0\)\
+\-\ throughout\\:\\ 0\\.027339720737606214\ \(0\)\
+\-\ compression\\:\\ 0\\.027339720737606214\ \(0\)\
+\-\ weakness\\:\\ 0\\.027124883359216964\ \(0\)\
+\-\ extremity\\:\\ 0\\.026710760424294343\ \(0\)\
+\-\ nerve\\:\\ 0\\.02631577885886587\ \(0\)\
+\-\ chemotherapy\\:\\ 0\\.02617902380462278\ \(0\)\
+\-\ spinal\\:\\ 0\\.026151933422047746\ \(0\)\
+\-\ new\\:\\ 0\\.025451179288893663\ \(0\)\
+\-\ inflammatory\\:\\ 0\\.025327486702495933\ \(0\)\
+\-\ now\\:\\ 0\\.024966799911979896\ \(0\)\
+\-\ thickening\\:\\ 0\\.024757474954644035\ \(0\)\
+\-\ radiation\\:\\ 0\\.02396795939796869\ \(0\)\
+\-\ onset\\:\\ 0\\.023054882272864532\ \(0\)\
+\-\ days\\:\\ 0\\.022385250394632288\ \(0\)\
+\-\ as\\:\\ 0\\.022095341981096205\ \(0\)\
+\-\ syndrome\\:\\ 0\\.020888090399441384\ \(0\)\
+\-\ chronic\\:\\ 0\\.020572560965017094\ \(0\)\
+\-\ history\\:\\ 0\\.02017460748217237\ \(0\)\
+\-\ posterior\\:\\ 0\\.01683451751027734\ \(0\)\
+\-\ lower\\:\\ 0\\.016426171533024468\ \(0\)\
+\-\ large\\:\\ 0\\.015970448135308374\ \(0\)\
+\-\ by\\:\\ 0\\.012161289771323717\ \(0\)\
+\-\ from\\:\\ 0\\.010824236864565918\ \(0\)\
+\-\ or\\:\\ 0\\.008560023495416305\ \(0\)\
+\-\ the\\:\\ 0\\.008271324725857954\ \(0\)\
+\-\ this\\:\\ 0\\.008214847977043874\ \(0\)\
+\-\ patient\\:\\ 0\\.007321298554840924\ \(0\)\
+\-\ of\\:\\ 0\\.006970312868255718\ \(0\)\
+\-\ \\,\\:\\ 0\\.006941283731212496\ \(0\)\
+\-\ for\\:\\ 0\\.006231693578142865\ \(0\)\
+\-\ and\\:\\ 0\\.0061541540421271275\ \(0\)\
+\-\ a\\:\\ 0\\.003389741895885481\ \(0\)\
+\-\ with\\:\\ 0\\.0020000713861519615\ \(0\)\
+\-\ \\.\\:\\ 0\\.0015170741921942852\ \(0\)\

@@ -1,130 +1,126 @@
-Texto: 
-unremarkable physical exam and laboratory findings.
-the diaphragmatic defect was repaired surgically and the right kidney returned to a more anatomic location.
-
-retrospective review of the prenatal anatomic screen of the fetus fails to demonstrate a diaphragmatic abnormality and the kidney was intra abdominal.
-initial chest xrays failed to demonstrate any significant abnormality other than asymmetric thoracic expansion.  later frontal radiograph of the chest shows a soft tissue density mass in the right hemithorax.  contrast enhanced ct of the chest and upper abdomen reveals the right kidney in a suprahepatic location, within the right hemithorax.  diaphragmatic covering of the right kidney could not be definitively identified at imaging but was thought to be present.
-congenital diaphragmatic hernia
-initial ddx based on plain film findings:
-ccam
-sequestration
-congenital diaphragmatic hernia
-
-ddx after ct:
-intrathoracic ectopic kidney
-congenital diaphragmatic hernia
-newborn infant male born at 36 wga with respiratory distress shortly after delivery.
-an interesting coincidental finding in this patient was right-sided scimitar syndrome, which has an association with cdh.
-
-
-Keywords by value: 
-- diaphragmatic: 0.16189036877045873
-- kidney: 0.08315976395165772
-- hernia: 0.061994662023193446
-- hemithorax: 0.05333187157350523
-- congenital: 0.05179821496644924
-- ddx: 0.04985031304709755
-- wga: 0.04870452167937292
-- anatomic: 0.0476873895429418
-- suprahepatic: 0.04487497924534007
-- xrays: 0.04104543681130722
-- cdh: 0.04104543681130722
-- coincidental: 0.039812599511228716
-- scimitar: 0.03721589437727438
-- abnormality: 0.03483489440696742
-- chest: 0.03389053591255556
-- covering: 0.03338635194324153
-- ccam: 0.03338635194324153
-- retrospective: 0.03305140928127227
-- location: 0.03293599654037451
-- intrathoracic: 0.03243690300994507
-- fails: 0.03138134921567596
-- initial: 0.0312882004782244
-- definitively: 0.031146213224411887
-- intra: 0.030495478220785462
-- repaired: 0.029386800345303964
-- sequestration: 0.027924410542944395
-- interesting: 0.027924410542944395
-- fetus: 0.02755180678164311
-- screen: 0.02743298796826762
-- shortly: 0.02687444588610536
-- failed: 0.026367221857082585
-- newborn: 0.025727267075175832
-- prenatal: 0.025641608586026852
-- right: 0.024906953290343002
-- born: 0.024634307167275726
-- delivery: 0.024224870857034165
-- returned: 0.024159487113128073
-- surgically: 0.02390542571400198
-- 36: 0.023662535529354926
-- expansion: 0.02326159247501882
-- right-sided: 0.023044903452072517
-- asymmetric: 0.022939664805825585
-- association: 0.022939664805825585
-- ectopic: 0.022635467141830956
-- infant: 0.022347148063540514
-- was: 0.021840387231241695
-- demonstrate: 0.021728752942906528
-- thought: 0.02172771547723827
-- review: 0.02046149522436439
-- enhanced: 0.02020145372791143
-- findings: 0.02009764569933657
-- distress: 0.019892721913577417
-- respiratory: 0.01960033295526613
-- after: 0.01953592489070942
-- reveals: 0.01847098204582886
-- thoracic: 0.018199212740907467
-- film: 0.01813330903446949
-- based: 0.01800381415617105
-- defect: 0.017672637161878047
-- could: 0.01741744720348371
-- laboratory: 0.017398296883171634
-- later: 0.017046511828690186
-- identified: 0.016869983652963102
-- unremarkable: 0.01563020120818818
-- density: 0.015533874899778779
-- plain: 0.015332948688889968
-- finding: 0.015215809420102106
-- radiograph: 0.015038390353156699
-- any: 0.014866491895427035
-- frontal: 0.014830342179466062
-- be: 0.014560847771756123
-- abdomen: 0.013985548413788377
-- syndrome: 0.013502246280301887
-- ct: 0.013207775175602683
-- an: 0.013057070323588174
-- shows: 0.012979965191872257
-- at: 0.012792963014714177
-- significant: 0.012695288127371399
-- :: 0.012489224486084695
-- than: 0.0123704356625319
-- more: 0.011807603918851746
-- abdominal: 0.011800658774155332
-- physical: 0.011582902041885295
-- soft: 0.011496832950240607
-- upper: 0.011392709974412808
-- tissue: 0.011190172311892782
-- imaging: 0.01106118135058344
-- other: 0.010881980932057727
-- present: 0.010663031789677794
-- contrast: 0.010567821474076824
-- exam: 0.010371458231765404
-- but: 0.010069079011235015
-- to: 0.009437969247358811
-- within: 0.009006250875061224
-- has: 0.008865745693338551
-- which: 0.008812953520677064
-- a: 0.008764636504278481
-- male: 0.008537047170649023
-- the: 0.008401890230607093
-- in: 0.006984484477462789
-- not: 0.006822202606309035
-- mass: 0.006566082911312511
-- this: 0.00531015034980184
-- patient: 0.004732552104510431
-- on: 0.003999397858372531
-- and: 0.003978099574192673
-- of: 0.0032183370386184647
-- ,: 0.002991271442179971
-- .: 0.001765170303182964
-- with: 0.0012928638241976767
+\-\ Texto\\:\\ \ \(0\)\
+\-\ unremarkable\\ physical\\ exam\\ and\\ laboratory\\ findings\\.\ \(0\)\
+\-\ the\\ diaphragmatic\\ defect\\ was\\ repaired\\ surgically\\ and\\ the\\ right\\ kidney\\ returned\\ to\\ a\\ more\\ anatomic\\ location\\.\ \(0\)\
+\-\ retrospective\\ review\\ of\\ the\\ prenatal\\ anatomic\\ screen\\ of\\ the\\ fetus\\ fails\\ to\\ demonstrate\\ a\\ diaphragmatic\\ abnormality\\ and\\ the\\ kidney\\ was\\ intra\\ abdominal\\.\ \(0\)\
+\-\ initial\\ chest\\ xrays\\ failed\\ to\\ demonstrate\\ any\\ significant\\ abnormality\\ other\\ than\\ asymmetric\\ thoracic\\ expansion\\.\\ \\ later\\ frontal\\ radiograph\\ of\\ the\\ chest\\ shows\\ a\\ soft\\ tissue\\ density\\ mass\\ in\\ the\\ right\\ hemithorax\\.\\ \\ contrast\\ enhanced\\ ct\\ of\\ the\\ chest\\ and\\ upper\\ abdomen\\ reveals\\ the\\ right\\ kidney\\ in\\ a\\ suprahepatic\\ location\\,\\ within\\ the\\ right\\ hemithorax\\.\\ \\ diaphragmatic\\ covering\\ of\\ the\\ right\\ kidney\\ could\\ not\\ be\\ definitively\\ identified\\ at\\ imaging\\ but\\ was\\ thought\\ to\\ be\\ present\\.\ \(0\)\
+\-\ congenital\\ diaphragmatic\\ hernia\ \(9\)\
+\-\ initial\\ ddx\\ based\\ on\\ plain\\ film\\ findings\\:\ \(0\)\
+\-\ ccam\ \(0\)\
+\-\ sequestration\ \(66\)\
+\-\ congenital\\ diaphragmatic\\ hernia\ \(9\)\
+\-\ ddx\\ after\\ ct\\:\ \(0\)\
+\-\ intrathoracic\\ ectopic\\ kidney\ \(0\)\
+\-\ congenital\\ diaphragmatic\\ hernia\ \(9\)\
+\-\ newborn\\ infant\\ male\\ born\\ at\\ 36\\ wga\\ with\\ respiratory\\ distress\\ shortly\\ after\\ delivery\\.\ \(0\)\
+\-\ an\\ interesting\\ coincidental\\ finding\\ in\\ this\\ patient\\ was\\ right\\-sided\\ scimitar\\ syndrome\\,\\ which\\ has\\ an\\ association\\ with\\ cdh\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ diaphragmatic\\:\\ 0\\.16189036877045873\ \(0\)\
+\-\ kidney\\:\\ 0\\.08315976395165772\ \(0\)\
+\-\ hernia\\:\\ 0\\.061994662023193446\ \(0\)\
+\-\ hemithorax\\:\\ 0\\.05333187157350523\ \(0\)\
+\-\ congenital\\:\\ 0\\.05179821496644924\ \(0\)\
+\-\ ddx\\:\\ 0\\.04985031304709755\ \(0\)\
+\-\ wga\\:\\ 0\\.04870452167937292\ \(0\)\
+\-\ anatomic\\:\\ 0\\.0476873895429418\ \(0\)\
+\-\ suprahepatic\\:\\ 0\\.04487497924534007\ \(0\)\
+\-\ xrays\\:\\ 0\\.04104543681130722\ \(0\)\
+\-\ cdh\\:\\ 0\\.04104543681130722\ \(0\)\
+\-\ coincidental\\:\\ 0\\.039812599511228716\ \(0\)\
+\-\ scimitar\\:\\ 0\\.03721589437727438\ \(0\)\
+\-\ abnormality\\:\\ 0\\.03483489440696742\ \(0\)\
+\-\ chest\\:\\ 0\\.03389053591255556\ \(0\)\
+\-\ covering\\:\\ 0\\.03338635194324153\ \(0\)\
+\-\ ccam\\:\\ 0\\.03338635194324153\ \(0\)\
+\-\ retrospective\\:\\ 0\\.03305140928127227\ \(0\)\
+\-\ location\\:\\ 0\\.03293599654037451\ \(0\)\
+\-\ intrathoracic\\:\\ 0\\.03243690300994507\ \(0\)\
+\-\ fails\\:\\ 0\\.03138134921567596\ \(0\)\
+\-\ initial\\:\\ 0\\.0312882004782244\ \(0\)\
+\-\ definitively\\:\\ 0\\.031146213224411887\ \(0\)\
+\-\ intra\\:\\ 0\\.030495478220785462\ \(0\)\
+\-\ repaired\\:\\ 0\\.029386800345303964\ \(0\)\
+\-\ sequestration\\:\\ 0\\.027924410542944395\ \(0\)\
+\-\ interesting\\:\\ 0\\.027924410542944395\ \(0\)\
+\-\ fetus\\:\\ 0\\.02755180678164311\ \(0\)\
+\-\ screen\\:\\ 0\\.02743298796826762\ \(0\)\
+\-\ shortly\\:\\ 0\\.02687444588610536\ \(0\)\
+\-\ failed\\:\\ 0\\.026367221857082585\ \(0\)\
+\-\ newborn\\:\\ 0\\.025727267075175832\ \(0\)\
+\-\ prenatal\\:\\ 0\\.025641608586026852\ \(0\)\
+\-\ right\\:\\ 0\\.024906953290343002\ \(0\)\
+\-\ born\\:\\ 0\\.024634307167275726\ \(0\)\
+\-\ delivery\\:\\ 0\\.024224870857034165\ \(0\)\
+\-\ returned\\:\\ 0\\.024159487113128073\ \(0\)\
+\-\ surgically\\:\\ 0\\.02390542571400198\ \(0\)\
+\-\ 36\\:\\ 0\\.023662535529354926\ \(0\)\
+\-\ expansion\\:\\ 0\\.02326159247501882\ \(0\)\
+\-\ right\\-sided\\:\\ 0\\.023044903452072517\ \(0\)\
+\-\ asymmetric\\:\\ 0\\.022939664805825585\ \(0\)\
+\-\ association\\:\\ 0\\.022939664805825585\ \(0\)\
+\-\ ectopic\\:\\ 0\\.022635467141830956\ \(0\)\
+\-\ infant\\:\\ 0\\.022347148063540514\ \(0\)\
+\-\ was\\:\\ 0\\.021840387231241695\ \(0\)\
+\-\ demonstrate\\:\\ 0\\.021728752942906528\ \(0\)\
+\-\ thought\\:\\ 0\\.02172771547723827\ \(0\)\
+\-\ review\\:\\ 0\\.02046149522436439\ \(0\)\
+\-\ enhanced\\:\\ 0\\.02020145372791143\ \(0\)\
+\-\ findings\\:\\ 0\\.02009764569933657\ \(0\)\
+\-\ distress\\:\\ 0\\.019892721913577417\ \(0\)\
+\-\ respiratory\\:\\ 0\\.01960033295526613\ \(0\)\
+\-\ after\\:\\ 0\\.01953592489070942\ \(0\)\
+\-\ reveals\\:\\ 0\\.01847098204582886\ \(0\)\
+\-\ thoracic\\:\\ 0\\.018199212740907467\ \(0\)\
+\-\ film\\:\\ 0\\.01813330903446949\ \(0\)\
+\-\ based\\:\\ 0\\.01800381415617105\ \(0\)\
+\-\ defect\\:\\ 0\\.017672637161878047\ \(0\)\
+\-\ could\\:\\ 0\\.01741744720348371\ \(0\)\
+\-\ laboratory\\:\\ 0\\.017398296883171634\ \(0\)\
+\-\ later\\:\\ 0\\.017046511828690186\ \(0\)\
+\-\ identified\\:\\ 0\\.016869983652963102\ \(0\)\
+\-\ unremarkable\\:\\ 0\\.01563020120818818\ \(0\)\
+\-\ density\\:\\ 0\\.015533874899778779\ \(0\)\
+\-\ plain\\:\\ 0\\.015332948688889968\ \(0\)\
+\-\ finding\\:\\ 0\\.015215809420102106\ \(0\)\
+\-\ radiograph\\:\\ 0\\.015038390353156699\ \(0\)\
+\-\ any\\:\\ 0\\.014866491895427035\ \(0\)\
+\-\ frontal\\:\\ 0\\.014830342179466062\ \(0\)\
+\-\ be\\:\\ 0\\.014560847771756123\ \(0\)\
+\-\ abdomen\\:\\ 0\\.013985548413788377\ \(0\)\
+\-\ syndrome\\:\\ 0\\.013502246280301887\ \(0\)\
+\-\ ct\\:\\ 0\\.013207775175602683\ \(0\)\
+\-\ an\\:\\ 0\\.013057070323588174\ \(0\)\
+\-\ shows\\:\\ 0\\.012979965191872257\ \(0\)\
+\-\ at\\:\\ 0\\.012792963014714177\ \(0\)\
+\-\ significant\\:\\ 0\\.012695288127371399\ \(0\)\
+\-\ \\:\\:\\ 0\\.012489224486084695\ \(0\)\
+\-\ than\\:\\ 0\\.0123704356625319\ \(0\)\
+\-\ more\\:\\ 0\\.011807603918851746\ \(0\)\
+\-\ abdominal\\:\\ 0\\.011800658774155332\ \(0\)\
+\-\ physical\\:\\ 0\\.011582902041885295\ \(0\)\
+\-\ soft\\:\\ 0\\.011496832950240607\ \(0\)\
+\-\ upper\\:\\ 0\\.011392709974412808\ \(0\)\
+\-\ tissue\\:\\ 0\\.011190172311892782\ \(0\)\
+\-\ imaging\\:\\ 0\\.01106118135058344\ \(0\)\
+\-\ other\\:\\ 0\\.010881980932057727\ \(0\)\
+\-\ present\\:\\ 0\\.010663031789677794\ \(0\)\
+\-\ contrast\\:\\ 0\\.010567821474076824\ \(0\)\
+\-\ exam\\:\\ 0\\.010371458231765404\ \(0\)\
+\-\ but\\:\\ 0\\.010069079011235015\ \(0\)\
+\-\ to\\:\\ 0\\.009437969247358811\ \(0\)\
+\-\ within\\:\\ 0\\.009006250875061224\ \(0\)\
+\-\ has\\:\\ 0\\.008865745693338551\ \(0\)\
+\-\ which\\:\\ 0\\.008812953520677064\ \(0\)\
+\-\ a\\:\\ 0\\.008764636504278481\ \(0\)\
+\-\ male\\:\\ 0\\.008537047170649023\ \(0\)\
+\-\ the\\:\\ 0\\.008401890230607093\ \(0\)\
+\-\ in\\:\\ 0\\.006984484477462789\ \(0\)\
+\-\ not\\:\\ 0\\.006822202606309035\ \(0\)\
+\-\ mass\\:\\ 0\\.006566082911312511\ \(0\)\
+\-\ this\\:\\ 0\\.00531015034980184\ \(0\)\
+\-\ patient\\:\\ 0\\.004732552104510431\ \(0\)\
+\-\ on\\:\\ 0\\.003999397858372531\ \(0\)\
+\-\ and\\:\\ 0\\.003978099574192673\ \(0\)\
+\-\ of\\:\\ 0\\.0032183370386184647\ \(0\)\
+\-\ \\,\\:\\ 0\\.002991271442179971\ \(0\)\
+\-\ \\.\\:\\ 0\\.001765170303182964\ \(0\)\
+\-\ with\\:\\ 0\\.0012928638241976767\ \(0\)\

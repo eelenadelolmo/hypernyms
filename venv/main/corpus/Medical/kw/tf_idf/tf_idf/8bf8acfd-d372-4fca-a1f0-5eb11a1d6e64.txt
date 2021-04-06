@@ -1,58 +1,56 @@
-Texto: 
-decreased range of motion with shoulder abduction.
-patient was referred to orthopedic surgery for possible surgical intervention as previous physical therapy failed.
-curvilinear calcific density projecting over greater tuberosity of right humerus.
-calcific tendinitis
-calcific tendinitis
-43 year old man with newly progressive right shoulder pain and stiffness.
-past history of previous right acromioclavicular joint separation.
-
-
-Keywords by value: 
-- calcific: 0.247442399510569
-- tendinitis: 0.21353879773680173
-- shoulder: 0.11294689822422412
-- previous: 0.10879836716961627
-- tuberosity: 0.0962472040131157
-- newly: 0.09311515095143195
-- acromioclavicular: 0.09110527681877076
-- abduction: 0.08989039202936548
-- stiffness: 0.0862323010242145
-- projecting: 0.08404326180086168
-- separation: 0.08139952167633509
-- curvilinear: 0.08071636271894872
-- failed: 0.07823716649396636
-- 43: 0.07558730827173005
-- humerus: 0.07207668551098197
-- orthopedic: 0.06687409796019676
-- intervention: 0.062375133276561356
-- range: 0.05639737731610382
-- motion: 0.05632165689223014
-- progressive: 0.05536785434497218
-- referred: 0.05286117120419084
-- greater: 0.05261830094541805
-- possible: 0.047180036375148726
-- density: 0.046092317325573104
-- joint: 0.045302118935116084
-- past: 0.044511466753220236
-- right: 0.0443425430710041
-- decreased: 0.04165174430696
-- therapy: 0.037453127807223166
-- over: 0.035666271969507585
-- physical: 0.03436893884559407
-- surgery: 0.0340163781042668
-- man: 0.03313003021459015
-- surgical: 0.029446258528712355
-- as: 0.02118979517859226
-- history: 0.019347779306673498
-- pain: 0.017108330615257947
-- was: 0.01620127085596208
-- year: 0.01567385687332647
-- old: 0.014343190112495978
-- patient: 0.014042490670760459
-- for: 0.011952592600700248
-- to: 0.007001116531852234
-- of: 0.005729695121212546
-- with: 0.003836202494750483
-- and: 0.0029509673070855485
-- .: 0.002909798040766088
+\-\ Texto\\:\\ \ \(0\)\
+\-\ decreased\\ range\\ of\\ motion\\ with\\ shoulder\\ abduction\\.\ \(0\)\
+\-\ patient\\ was\\ referred\\ to\\ orthopedic\\ surgery\\ for\\ possible\\ surgical\\ intervention\\ as\\ previous\\ physical\\ therapy\\ failed\\.\ \(0\)\
+\-\ curvilinear\\ calcific\\ density\\ projecting\\ over\\ greater\\ tuberosity\\ of\\ right\\ humerus\\.\ \(0\)\
+\-\ calcific\\ tendinitis\ \(3\)\
+\-\ calcific\\ tendinitis\ \(3\)\
+\-\ 43\\ year\\ old\\ man\\ with\\ newly\\ progressive\\ right\\ shoulder\\ pain\\ and\\ stiffness\\.\ \(1\)\
+\-\ past\\ history\\ of\\ previous\\ right\\ acromioclavicular\\ joint\\ separation\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ calcific\\:\\ 0\\.247442399510569\ \(0\)\
+\-\ tendinitis\\:\\ 0\\.21353879773680173\ \(0\)\
+\-\ shoulder\\:\\ 0\\.11294689822422412\ \(0\)\
+\-\ previous\\:\\ 0\\.10879836716961627\ \(0\)\
+\-\ tuberosity\\:\\ 0\\.0962472040131157\ \(0\)\
+\-\ newly\\:\\ 0\\.09311515095143195\ \(0\)\
+\-\ acromioclavicular\\:\\ 0\\.09110527681877076\ \(0\)\
+\-\ abduction\\:\\ 0\\.08989039202936548\ \(0\)\
+\-\ stiffness\\:\\ 0\\.0862323010242145\ \(0\)\
+\-\ projecting\\:\\ 0\\.08404326180086168\ \(0\)\
+\-\ separation\\:\\ 0\\.08139952167633509\ \(0\)\
+\-\ curvilinear\\:\\ 0\\.08071636271894872\ \(0\)\
+\-\ failed\\:\\ 0\\.07823716649396636\ \(0\)\
+\-\ 43\\:\\ 0\\.07558730827173005\ \(0\)\
+\-\ humerus\\:\\ 0\\.07207668551098197\ \(0\)\
+\-\ orthopedic\\:\\ 0\\.06687409796019676\ \(0\)\
+\-\ intervention\\:\\ 0\\.062375133276561356\ \(0\)\
+\-\ range\\:\\ 0\\.05639737731610382\ \(0\)\
+\-\ motion\\:\\ 0\\.05632165689223014\ \(0\)\
+\-\ progressive\\:\\ 0\\.05536785434497218\ \(0\)\
+\-\ referred\\:\\ 0\\.05286117120419084\ \(0\)\
+\-\ greater\\:\\ 0\\.05261830094541805\ \(0\)\
+\-\ possible\\:\\ 0\\.047180036375148726\ \(0\)\
+\-\ density\\:\\ 0\\.046092317325573104\ \(0\)\
+\-\ joint\\:\\ 0\\.045302118935116084\ \(0\)\
+\-\ past\\:\\ 0\\.044511466753220236\ \(0\)\
+\-\ right\\:\\ 0\\.0443425430710041\ \(0\)\
+\-\ decreased\\:\\ 0\\.04165174430696\ \(0\)\
+\-\ therapy\\:\\ 0\\.037453127807223166\ \(0\)\
+\-\ over\\:\\ 0\\.035666271969507585\ \(0\)\
+\-\ physical\\:\\ 0\\.03436893884559407\ \(0\)\
+\-\ surgery\\:\\ 0\\.0340163781042668\ \(0\)\
+\-\ man\\:\\ 0\\.03313003021459015\ \(0\)\
+\-\ surgical\\:\\ 0\\.029446258528712355\ \(0\)\
+\-\ as\\:\\ 0\\.02118979517859226\ \(0\)\
+\-\ history\\:\\ 0\\.019347779306673498\ \(0\)\
+\-\ pain\\:\\ 0\\.017108330615257947\ \(0\)\
+\-\ was\\:\\ 0\\.01620127085596208\ \(0\)\
+\-\ year\\:\\ 0\\.01567385687332647\ \(0\)\
+\-\ old\\:\\ 0\\.014343190112495978\ \(0\)\
+\-\ patient\\:\\ 0\\.014042490670760459\ \(0\)\
+\-\ for\\:\\ 0\\.011952592600700248\ \(0\)\
+\-\ to\\:\\ 0\\.007001116531852234\ \(0\)\
+\-\ of\\:\\ 0\\.005729695121212546\ \(0\)\
+\-\ with\\:\\ 0\\.003836202494750483\ \(0\)\
+\-\ and\\:\\ 0\\.0029509673070855485\ \(0\)\
+\-\ \\.\\:\\ 0\\.002909798040766088\ \(0\)\

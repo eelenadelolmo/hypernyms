@@ -1,63 +1,61 @@
-Texto: 
-patient had subsequent resection of the hypothalamic mass.  although the path report cannot be found in chcs, subsequent imaging history states that patient is status post resection of hypothalamic hamartoma.
-multi-sequence, multi-planar mri demonstrates a suprasellar mass that is well-defined, rounded in shape, and iso-intense to gray-matter on all pulse sequences.  the mass does not enhance after administration of gadolinium dtpa.
-hypothalamic hamartoma
-hypothalamic hamartoma
-optic glioma (low grade)
-8 year old boy presents with developmental delay.
-
-
-Keywords by value: 
-- hypothalamic: 0.5426077654298104
-- hamartoma: 0.35022671542818257
-- chcs: 0.18136751697690304
-- subsequent: 0.17970183961283687
-- resection: 0.1521576535556558
-- dtpa: 0.13991290519079458
-- mass: 0.13600385868912704
-- path: 0.13147677581104794
-- suprasellar: 0.11643399498492882
-- shape: 0.11253886132520052
-- pulse: 0.11203748633931186
-- delay: 0.10883021880138173
-- rounded: 0.1079978656051822
-- enhance: 0.1062385599308999
-- states: 0.10427257823639703
-- that: 0.10300994611792152
-- developmental: 0.10263345895109074
-- optic: 0.10216588747401611
-- glioma: 0.10082309544726342
-- report: 0.09997375078005147
-- gadolinium: 0.09889267358896454
-- sequences: 0.09494621445122363
-- administration: 0.09451498543770943
-- grade: 0.0853450652180953
-- status: 0.0828259111030075
-- does: 0.08204969851495048
-- boy: 0.08118863542721005
-- although: 0.08079868455981377
-- patient: 0.07720474551612388
-- found: 0.07679480469588965
-- the: 0.07104605878017214
-- all: 0.07065053658063408
-- of: 0.06967856871460207
-- low: 0.06810227269707966
-- is: 0.06500555623100114
-- post: 0.0645804643214382
-- imaging: 0.06237314626591105
-- mri: 0.060922506487966654
-- demonstrates: 0.05962620845843504
-- had: 0.05913338449195505
-- in: 0.05905010591807553
-- after: 0.057576188812478245
-- presents: 0.05709375973899819
-- be: 0.04814588492841527
-- not: 0.04685413661731719
-- history: 0.04534465867305537
-- year: 0.03657647540384456
-- on: 0.03584500040513147
-- old: 0.03512607764886096
-- to: 0.029671094022364897
-- and: 0.024524865968237844
-- with: 0.023240067214268523
-- can: 0.0
+\-\ Texto\\:\\ \ \(0\)\
+\-\ patient\\ had\\ subsequent\\ resection\\ of\\ the\\ hypothalamic\\ mass\\.\\ \\ although\\ the\\ path\\ report\\ cannot\\ be\\ found\\ in\\ chcs\\,\\ subsequent\\ imaging\\ history\\ states\\ that\\ patient\\ is\\ status\\ post\\ resection\\ of\\ hypothalamic\\ hamartoma\\.\ \(0\)\
+\-\ multi\\-sequence\\,\\ multi\\-planar\\ mri\\ demonstrates\\ a\\ suprasellar\\ mass\\ that\\ is\\ well\\-defined\\,\\ rounded\\ in\\ shape\\,\\ and\\ iso\\-intense\\ to\\ gray\\-matter\\ on\\ all\\ pulse\\ sequences\\.\\ \\ the\\ mass\\ does\\ not\\ enhance\\ after\\ administration\\ of\\ gadolinium\\ dtpa\\.\ \(0\)\
+\-\ hypothalamic\\ hamartoma\ \(0\)\
+\-\ hypothalamic\\ hamartoma\ \(0\)\
+\-\ optic\\ glioma\\ \\(low\\ grade\\)\ \(0\)\
+\-\ 8\\ year\\ old\\ boy\\ presents\\ with\\ developmental\\ delay\\.\ \(1\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ hypothalamic\\:\\ 0\\.5426077654298104\ \(0\)\
+\-\ hamartoma\\:\\ 0\\.35022671542818257\ \(0\)\
+\-\ chcs\\:\\ 0\\.18136751697690304\ \(0\)\
+\-\ subsequent\\:\\ 0\\.17970183961283687\ \(0\)\
+\-\ resection\\:\\ 0\\.1521576535556558\ \(0\)\
+\-\ dtpa\\:\\ 0\\.13991290519079458\ \(0\)\
+\-\ mass\\:\\ 0\\.13600385868912704\ \(0\)\
+\-\ path\\:\\ 0\\.13147677581104794\ \(0\)\
+\-\ suprasellar\\:\\ 0\\.11643399498492882\ \(0\)\
+\-\ shape\\:\\ 0\\.11253886132520052\ \(0\)\
+\-\ pulse\\:\\ 0\\.11203748633931186\ \(0\)\
+\-\ delay\\:\\ 0\\.10883021880138173\ \(0\)\
+\-\ rounded\\:\\ 0\\.1079978656051822\ \(0\)\
+\-\ enhance\\:\\ 0\\.1062385599308999\ \(0\)\
+\-\ states\\:\\ 0\\.10427257823639703\ \(0\)\
+\-\ that\\:\\ 0\\.10300994611792152\ \(0\)\
+\-\ developmental\\:\\ 0\\.10263345895109074\ \(0\)\
+\-\ optic\\:\\ 0\\.10216588747401611\ \(0\)\
+\-\ glioma\\:\\ 0\\.10082309544726342\ \(0\)\
+\-\ report\\:\\ 0\\.09997375078005147\ \(0\)\
+\-\ gadolinium\\:\\ 0\\.09889267358896454\ \(0\)\
+\-\ sequences\\:\\ 0\\.09494621445122363\ \(0\)\
+\-\ administration\\:\\ 0\\.09451498543770943\ \(0\)\
+\-\ grade\\:\\ 0\\.0853450652180953\ \(0\)\
+\-\ status\\:\\ 0\\.0828259111030075\ \(0\)\
+\-\ does\\:\\ 0\\.08204969851495048\ \(0\)\
+\-\ boy\\:\\ 0\\.08118863542721005\ \(0\)\
+\-\ although\\:\\ 0\\.08079868455981377\ \(0\)\
+\-\ patient\\:\\ 0\\.07720474551612388\ \(0\)\
+\-\ found\\:\\ 0\\.07679480469588965\ \(0\)\
+\-\ the\\:\\ 0\\.07104605878017214\ \(0\)\
+\-\ all\\:\\ 0\\.07065053658063408\ \(0\)\
+\-\ of\\:\\ 0\\.06967856871460207\ \(0\)\
+\-\ low\\:\\ 0\\.06810227269707966\ \(0\)\
+\-\ is\\:\\ 0\\.06500555623100114\ \(0\)\
+\-\ post\\:\\ 0\\.0645804643214382\ \(0\)\
+\-\ imaging\\:\\ 0\\.06237314626591105\ \(0\)\
+\-\ mri\\:\\ 0\\.060922506487966654\ \(0\)\
+\-\ demonstrates\\:\\ 0\\.05962620845843504\ \(0\)\
+\-\ had\\:\\ 0\\.05913338449195505\ \(0\)\
+\-\ in\\:\\ 0\\.05905010591807553\ \(0\)\
+\-\ after\\:\\ 0\\.057576188812478245\ \(0\)\
+\-\ presents\\:\\ 0\\.05709375973899819\ \(0\)\
+\-\ be\\:\\ 0\\.04814588492841527\ \(0\)\
+\-\ not\\:\\ 0\\.04685413661731719\ \(0\)\
+\-\ history\\:\\ 0\\.04534465867305537\ \(0\)\
+\-\ year\\:\\ 0\\.03657647540384456\ \(0\)\
+\-\ on\\:\\ 0\\.03584500040513147\ \(0\)\
+\-\ old\\:\\ 0\\.03512607764886096\ \(0\)\
+\-\ to\\:\\ 0\\.029671094022364897\ \(0\)\
+\-\ and\\:\\ 0\\.024524865968237844\ \(0\)\
+\-\ with\\:\\ 0\\.023240067214268523\ \(0\)\
+\-\ can\\:\\ 0\\.0\ \(0\)\

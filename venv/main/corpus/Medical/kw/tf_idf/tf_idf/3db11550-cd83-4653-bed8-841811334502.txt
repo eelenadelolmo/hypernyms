@@ -1,157 +1,153 @@
-Texto: 
-the patient at the time of physical examination had a regular rate and rythym and a normal auscultation examination. 
-
-tests:
-prior stress test: negative 
-initial ecg: 
-sinus rhythm 
-incomplete right bundle branch block
-borderline low voltage
-t-wave inversion in the inferior and anterolateral leads
-cxr: mild enlargement cardiac silhouette
-troponin: negative
-echo: 
-mild left ventricular hypertrophy 
-mild apical hypokinesis ef 40%
-cardiac spect: 
-apical-lateral scar with associated hypokinesis
-no reversible perfusion defect
-pci
-normal coronary arteries.
-apical aneurysm.
-ejection fraction of 40%
-medical management
-abnormally thin myocardium of  the inferior and lateral walls of the left ventricle associated with and enlarged network of trabeculae carne and deep endothelial recesses
-isolated left ventricular noncompaction
-â€¢ idiopathic cardiomyopathy
-â€¢ ventricular aneurysm
-â€¢ noncompaction
-67-year-old woman presents with hypertension and recurrent idiopathic ventricular tachycardia.
-
-her past medical history is significant for cardiac arrest and subsequent implanted pacer-cardioverter-defibrillator
-in this case the diagnosis of isolated left ventricular non-compaction was made by ct despite being missed by invasive angiography, echocardiography, and spect imaging.
-
-
-Keywords by value: 
-- ventricular: 0.1037583192989778
-- noncompaction: 0.08387941451411292
-- hypokinesis: 0.080752435465724
-- spect: 0.06173939356562335
-- apical: 0.05351845788973773
-- cardiac: 0.05306799118941799
-- isolated: 0.04832685403803779
-- apical-lateral: 0.04791042621720923
-- carne: 0.04791042621720923
-- pacer-cardioverter-defibrillator: 0.04791042621720923
-- rythym: 0.044143321975035614
-- voltage: 0.044143321975035614
-- non-compaction: 0.044143321975035614
-- :: 0.04299958539094922
-- idiopathic: 0.042342798892808405
-- t-wave: 0.04193970725705646
-- pci: 0.04193970725705646
-- troponin: 0.03916348104093694
-- network: 0.03916348104093694
-- 67-year-old: 0.03916348104093694
-- 40: 0.039077854335741014
-- bundle: 0.03817260301488284
-- ef: 0.03817260301488284
-- recesses: 0.03817260301488284
-- aneurysm: 0.03671129472873155
-- mild: 0.036688915009746796
-- implanted: 0.03660911349068838
-- myocardium: 0.03596898829690368
-- endothelial: 0.03440549877270922
-- trabeculae: 0.032201884054730075
-- cardiomyopathy: 0.032201884054730075
-- ecg: 0.03190804046086988
-- fraction: 0.03162927255658971
-- inferior: 0.031514308275641986
-- reversible: 0.03111128244895751
-- borderline: 0.030638394530535608
-- ejection: 0.030203379814918562
-- block: 0.02999826933675092
-- anterolateral: 0.029609905402065345
-- arrest: 0.029609905402065345
-- echocardiography: 0.029609905402065345
-- inversion: 0.029425657838610557
-- missed: 0.029425657838610557
-- examination: 0.02887416342907136
-- medical: 0.028579454348543525
-- negative: 0.027740436536683417
-- perfusion: 0.026436275572744947
-- tachycardia: 0.026436275572744947
-- silhouette: 0.026332752773991178
-- coronary: 0.02613144151485884
-- leads: 0.02593732150071711
-- abnormally: 0.025568720433658623
-- â€¢: 0.025549147036889475
-- branch: 0.02514056348880474
-- incomplete: 0.02505883589443224
-- tests: 0.024302788054960948
-- scar: 0.024232660854765796
-- echo: 0.024163427019018895
-- rhythm: 0.02409506407224248
-- hypertrophy: 0.023894988131358152
-- walls: 0.023702016998440163
-- auscultation: 0.02363918644191258
-- invasive: 0.023335488298464446
-- angiography: 0.023335488298464446
-- associated: 0.021918071325083714
-- %: 0.021666532971152255
-- despite: 0.021583322486456016
-- regular: 0.021414788591116014
-- left: 0.02078489715810684
-- stress: 0.020362033813838405
-- test: 0.01984093722849448
-- cxr: 0.019598001473505856
-- recurrent: 0.019598001473505856
-- arteries: 0.019225020460521637
-- thin: 0.01908811693427947
-- deep: 0.01879854428964394
-- made: 0.01849930637017097
-- enlargement: 0.018427002209158126
-- hypertension: 0.0183085926755445
-- rate: 0.01810174723084697
-- subsequent: 0.01807924292287941
-- management: 0.01752462741008501
-- ventricle: 0.017404295204230584
-- defect: 0.017384496338586557
-- sinus: 0.016984559617621943
-- being: 0.016183630308698686
-- enlarged: 0.0158457666868696
-- by: 0.015465988078748638
-- initial: 0.015389033387387544
-- past: 0.014756518869274099
-- normal: 0.014561004941294576
-- her: 0.01396419379611378
-- time: 0.013117397974126699
-- low: 0.012913956809056519
-- significant: 0.012488299733990344
-- prior: 0.01192452593588241
-- physical: 0.011394050378158903
-- imaging: 0.0108808360024761
-- woman: 0.010727733410265795
-- diagnosis: 0.010664235493371846
-- case: 0.010160350178626472
-- lateral: 0.010036239378394296
-- had: 0.010020922930656023
-- presents: 0.00948719725819525
-- and: 0.008804788323858512
-- ct: 0.00649621550756545
-- history: 0.006414209444060235
-- at: 0.006292191047998006
-- was: 0.005371073490291776
-- this: 0.005223571811489853
-- right: 0.0049001723321218296
-- no: 0.004676326905998924
-- patient: 0.004655390928893412
-- in: 0.004580404675437554
-- the: 0.004508128849031276
-- a: 0.0043108674110717525
-- for: 0.003962544286101713
-- of: 0.0037990369825431007
-- is: 0.003055928143395248
-- ,: 0.002942500712144428
-- with: 0.001907676784074289
-- .: 0.0009646613069931053
+\-\ Texto\\:\\ \ \(0\)\
+\-\ the\\ patient\\ at\\ the\\ time\\ of\\ physical\\ examination\\ had\\ a\\ regular\\ rate\\ and\\ rythym\\ and\\ a\\ normal\\ auscultation\\ examination\\.\\ \ \(0\)\
+\-\ tests\\:\ \(2\)\
+\-\ prior\\ stress\\ test\\:\\ negative\\ \ \(0\)\
+\-\ initial\\ ecg\\:\\ \ \(0\)\
+\-\ sinus\\ rhythm\\ \ \(5\)\
+\-\ incomplete\\ right\\ bundle\\ branch\\ block\ \(1\)\
+\-\ borderline\\ low\\ voltage\ \(1\)\
+\-\ t\\-wave\\ inversion\\ in\\ the\\ inferior\\ and\\ anterolateral\\ leads\ \(0\)\
+\-\ cxr\\:\\ mild\\ enlargement\\ cardiac\\ silhouette\ \(0\)\
+\-\ troponin\\:\\ negative\ \(0\)\
+\-\ echo\\:\\ \ \(0\)\
+\-\ mild\\ left\\ ventricular\\ hypertrophy\\ \ \(0\)\
+\-\ mild\\ apical\\ hypokinesis\\ ef\\ 40\\%\ \(0\)\
+\-\ cardiac\\ spect\\:\\ \ \(0\)\
+\-\ apical\\-lateral\\ scar\\ with\\ associated\\ hypokinesis\ \(0\)\
+\-\ no\\ reversible\\ perfusion\\ defect\ \(0\)\
+\-\ pci\ \(4\)\
+\-\ normal\\ coronary\\ arteries\\.\ \(0\)\
+\-\ apical\\ aneurysm\\.\ \(1\)\
+\-\ ejection\\ fraction\\ of\\ 40\\%\ \(0\)\
+\-\ medical\\ management\ \(20\)\
+\-\ abnormally\\ thin\\ myocardium\\ of\\ \\ the\\ inferior\\ and\\ lateral\\ walls\\ of\\ the\\ left\\ ventricle\\ associated\\ with\\ and\\ enlarged\\ network\\ of\\ trabeculae\\ carne\\ and\\ deep\\ endothelial\\ recesses\ \(0\)\
+\-\ isolated\\ left\\ ventricular\\ noncompaction\ \(0\)\
+\-\ \\â\\€\\¢\\ idiopathic\\ cardiomyopathy\ \(0\)\
+\-\ \\â\\€\\¢\\ ventricular\\ aneurysm\ \(0\)\
+\-\ \\â\\€\\¢\\ noncompaction\ \(0\)\
+\-\ 67\\-year\\-old\\ woman\\ presents\\ with\\ hypertension\\ and\\ recurrent\\ idiopathic\\ ventricular\\ tachycardia\\.\ \(1\)\
+\-\ her\\ past\\ medical\\ history\\ is\\ significant\\ for\\ cardiac\\ arrest\\ and\\ subsequent\\ implanted\\ pacer\\-cardioverter\\-defibrillator\ \(0\)\
+\-\ in\\ this\\ case\\ the\\ diagnosis\\ of\\ isolated\\ left\\ ventricular\\ non\\-compaction\\ was\\ made\\ by\\ ct\\ despite\\ being\\ missed\\ by\\ invasive\\ angiography\\,\\ echocardiography\\,\\ and\\ spect\\ imaging\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ ventricular\\:\\ 0\\.1037583192989778\ \(0\)\
+\-\ noncompaction\\:\\ 0\\.08387941451411292\ \(0\)\
+\-\ hypokinesis\\:\\ 0\\.080752435465724\ \(0\)\
+\-\ spect\\:\\ 0\\.06173939356562335\ \(0\)\
+\-\ apical\\:\\ 0\\.05351845788973773\ \(0\)\
+\-\ cardiac\\:\\ 0\\.05306799118941799\ \(0\)\
+\-\ isolated\\:\\ 0\\.04832685403803779\ \(0\)\
+\-\ apical\\-lateral\\:\\ 0\\.04791042621720923\ \(0\)\
+\-\ carne\\:\\ 0\\.04791042621720923\ \(0\)\
+\-\ pacer\\-cardioverter\\-defibrillator\\:\\ 0\\.04791042621720923\ \(0\)\
+\-\ rythym\\:\\ 0\\.044143321975035614\ \(0\)\
+\-\ voltage\\:\\ 0\\.044143321975035614\ \(0\)\
+\-\ non\\-compaction\\:\\ 0\\.044143321975035614\ \(0\)\
+\-\ \\:\\:\\ 0\\.04299958539094922\ \(0\)\
+\-\ idiopathic\\:\\ 0\\.042342798892808405\ \(0\)\
+\-\ t\\-wave\\:\\ 0\\.04193970725705646\ \(0\)\
+\-\ pci\\:\\ 0\\.04193970725705646\ \(0\)\
+\-\ troponin\\:\\ 0\\.03916348104093694\ \(0\)\
+\-\ network\\:\\ 0\\.03916348104093694\ \(0\)\
+\-\ 67\\-year\\-old\\:\\ 0\\.03916348104093694\ \(0\)\
+\-\ 40\\:\\ 0\\.039077854335741014\ \(0\)\
+\-\ bundle\\:\\ 0\\.03817260301488284\ \(0\)\
+\-\ ef\\:\\ 0\\.03817260301488284\ \(0\)\
+\-\ recesses\\:\\ 0\\.03817260301488284\ \(0\)\
+\-\ aneurysm\\:\\ 0\\.03671129472873155\ \(0\)\
+\-\ mild\\:\\ 0\\.036688915009746796\ \(0\)\
+\-\ implanted\\:\\ 0\\.03660911349068838\ \(0\)\
+\-\ myocardium\\:\\ 0\\.03596898829690368\ \(0\)\
+\-\ endothelial\\:\\ 0\\.03440549877270922\ \(0\)\
+\-\ trabeculae\\:\\ 0\\.032201884054730075\ \(0\)\
+\-\ cardiomyopathy\\:\\ 0\\.032201884054730075\ \(0\)\
+\-\ ecg\\:\\ 0\\.03190804046086988\ \(0\)\
+\-\ fraction\\:\\ 0\\.03162927255658971\ \(0\)\
+\-\ inferior\\:\\ 0\\.031514308275641986\ \(0\)\
+\-\ reversible\\:\\ 0\\.03111128244895751\ \(0\)\
+\-\ borderline\\:\\ 0\\.030638394530535608\ \(0\)\
+\-\ ejection\\:\\ 0\\.030203379814918562\ \(0\)\
+\-\ block\\:\\ 0\\.02999826933675092\ \(0\)\
+\-\ anterolateral\\:\\ 0\\.029609905402065345\ \(0\)\
+\-\ arrest\\:\\ 0\\.029609905402065345\ \(0\)\
+\-\ echocardiography\\:\\ 0\\.029609905402065345\ \(0\)\
+\-\ inversion\\:\\ 0\\.029425657838610557\ \(0\)\
+\-\ missed\\:\\ 0\\.029425657838610557\ \(0\)\
+\-\ examination\\:\\ 0\\.02887416342907136\ \(0\)\
+\-\ medical\\:\\ 0\\.028579454348543525\ \(0\)\
+\-\ negative\\:\\ 0\\.027740436536683417\ \(0\)\
+\-\ perfusion\\:\\ 0\\.026436275572744947\ \(0\)\
+\-\ tachycardia\\:\\ 0\\.026436275572744947\ \(0\)\
+\-\ silhouette\\:\\ 0\\.026332752773991178\ \(0\)\
+\-\ coronary\\:\\ 0\\.02613144151485884\ \(0\)\
+\-\ leads\\:\\ 0\\.02593732150071711\ \(0\)\
+\-\ abnormally\\:\\ 0\\.025568720433658623\ \(0\)\
+\-\ \\â\\€\\¢\\:\\ 0\\.025549147036889475\ \(0\)\
+\-\ branch\\:\\ 0\\.02514056348880474\ \(0\)\
+\-\ incomplete\\:\\ 0\\.02505883589443224\ \(0\)\
+\-\ tests\\:\\ 0\\.024302788054960948\ \(0\)\
+\-\ scar\\:\\ 0\\.024232660854765796\ \(0\)\
+\-\ echo\\:\\ 0\\.024163427019018895\ \(0\)\
+\-\ rhythm\\:\\ 0\\.02409506407224248\ \(0\)\
+\-\ hypertrophy\\:\\ 0\\.023894988131358152\ \(0\)\
+\-\ walls\\:\\ 0\\.023702016998440163\ \(0\)\
+\-\ auscultation\\:\\ 0\\.02363918644191258\ \(0\)\
+\-\ invasive\\:\\ 0\\.023335488298464446\ \(0\)\
+\-\ angiography\\:\\ 0\\.023335488298464446\ \(0\)\
+\-\ associated\\:\\ 0\\.021918071325083714\ \(0\)\
+\-\ \\%\\:\\ 0\\.021666532971152255\ \(0\)\
+\-\ despite\\:\\ 0\\.021583322486456016\ \(0\)\
+\-\ regular\\:\\ 0\\.021414788591116014\ \(0\)\
+\-\ left\\:\\ 0\\.02078489715810684\ \(0\)\
+\-\ stress\\:\\ 0\\.020362033813838405\ \(0\)\
+\-\ test\\:\\ 0\\.01984093722849448\ \(0\)\
+\-\ cxr\\:\\ 0\\.019598001473505856\ \(0\)\
+\-\ recurrent\\:\\ 0\\.019598001473505856\ \(0\)\
+\-\ arteries\\:\\ 0\\.019225020460521637\ \(0\)\
+\-\ thin\\:\\ 0\\.01908811693427947\ \(0\)\
+\-\ deep\\:\\ 0\\.01879854428964394\ \(0\)\
+\-\ made\\:\\ 0\\.01849930637017097\ \(0\)\
+\-\ enlargement\\:\\ 0\\.018427002209158126\ \(0\)\
+\-\ hypertension\\:\\ 0\\.0183085926755445\ \(0\)\
+\-\ rate\\:\\ 0\\.01810174723084697\ \(0\)\
+\-\ subsequent\\:\\ 0\\.01807924292287941\ \(0\)\
+\-\ management\\:\\ 0\\.01752462741008501\ \(0\)\
+\-\ ventricle\\:\\ 0\\.017404295204230584\ \(0\)\
+\-\ defect\\:\\ 0\\.017384496338586557\ \(0\)\
+\-\ sinus\\:\\ 0\\.016984559617621943\ \(0\)\
+\-\ being\\:\\ 0\\.016183630308698686\ \(0\)\
+\-\ enlarged\\:\\ 0\\.0158457666868696\ \(0\)\
+\-\ by\\:\\ 0\\.015465988078748638\ \(0\)\
+\-\ initial\\:\\ 0\\.015389033387387544\ \(0\)\
+\-\ past\\:\\ 0\\.014756518869274099\ \(0\)\
+\-\ normal\\:\\ 0\\.014561004941294576\ \(0\)\
+\-\ her\\:\\ 0\\.01396419379611378\ \(0\)\
+\-\ time\\:\\ 0\\.013117397974126699\ \(0\)\
+\-\ low\\:\\ 0\\.012913956809056519\ \(0\)\
+\-\ significant\\:\\ 0\\.012488299733990344\ \(0\)\
+\-\ prior\\:\\ 0\\.01192452593588241\ \(0\)\
+\-\ physical\\:\\ 0\\.011394050378158903\ \(0\)\
+\-\ imaging\\:\\ 0\\.0108808360024761\ \(0\)\
+\-\ woman\\:\\ 0\\.010727733410265795\ \(0\)\
+\-\ diagnosis\\:\\ 0\\.010664235493371846\ \(0\)\
+\-\ case\\:\\ 0\\.010160350178626472\ \(0\)\
+\-\ lateral\\:\\ 0\\.010036239378394296\ \(0\)\
+\-\ had\\:\\ 0\\.010020922930656023\ \(0\)\
+\-\ presents\\:\\ 0\\.00948719725819525\ \(0\)\
+\-\ and\\:\\ 0\\.008804788323858512\ \(0\)\
+\-\ ct\\:\\ 0\\.00649621550756545\ \(0\)\
+\-\ history\\:\\ 0\\.006414209444060235\ \(0\)\
+\-\ at\\:\\ 0\\.006292191047998006\ \(0\)\
+\-\ was\\:\\ 0\\.005371073490291776\ \(0\)\
+\-\ this\\:\\ 0\\.005223571811489853\ \(0\)\
+\-\ right\\:\\ 0\\.0049001723321218296\ \(0\)\
+\-\ no\\:\\ 0\\.004676326905998924\ \(0\)\
+\-\ patient\\:\\ 0\\.004655390928893412\ \(0\)\
+\-\ in\\:\\ 0\\.004580404675437554\ \(0\)\
+\-\ the\\:\\ 0\\.004508128849031276\ \(0\)\
+\-\ a\\:\\ 0\\.0043108674110717525\ \(0\)\
+\-\ for\\:\\ 0\\.003962544286101713\ \(0\)\
+\-\ of\\:\\ 0\\.0037990369825431007\ \(0\)\
+\-\ is\\:\\ 0\\.003055928143395248\ \(0\)\
+\-\ \\,\\:\\ 0\\.002942500712144428\ \(0\)\
+\-\ with\\:\\ 0\\.001907676784074289\ \(0\)\
+\-\ \\.\\:\\ 0\\.0009646613069931053\ \(0\)\

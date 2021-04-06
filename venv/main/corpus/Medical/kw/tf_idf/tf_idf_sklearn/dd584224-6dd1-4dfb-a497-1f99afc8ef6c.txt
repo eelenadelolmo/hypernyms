@@ -1,64 +1,62 @@
-Texto: 
-unremarkable.  thin elderly woman in nad.
-underwent chemo and xrt with marked reduction in tumor burden.  evidence of metastatic disease on 6 month follow-up ct.
-squamous cell carcinoma of the proximal esophagus
-progressive solid dysphagia and voice hoarseness.
-although the entire ct chest examination was not provided patient did not have evidence of metastatic disease at the time of diagnosis (no parenchymal lesions, hilar or mediastinal lymphadenopathy.  no invasion of the aorta).
-
-
-Keywords by value: 
-- chemo: 0.214202953934134
-- burden: 0.21021739240097265
-- voice: 0.2084079065870004
-- hoarseness: 0.19938561608685637
-- xrt: 0.19572625861889778
-- evidence: 0.19327998710113362
-- metastatic: 0.18675849984296108
-- elderly: 0.17935300501373255
-- nad: 0.16931019203248018
-- of: 0.1665959221411151
-- hilar: 0.15612264424343136
-- entire: 0.15492859002424153
-- dysphagia: 0.15378047252035135
-- squamous: 0.15322256141913598
-- parenchymal: 0.15294746845913149
-- invasion: 0.1518717709644689
-- reduction: 0.14862156829119225
-- disease: 0.14293843932171732
-- esophagus: 0.14021320744219593
-- provided: 0.13968178613626214
-- aorta: 0.1383092512226929
-- lymphadenopathy: 0.13764594892819518
-- mediastinal: 0.1374824012594071
-- the: 0.13589238579746263
-- not: 0.13442942195657276
-- thin: 0.132533937677848
-- solid: 0.13053000573724918
-- progressive: 0.13040107519173855
-- ct: 0.12963937909759354
-- marked: 0.1287737712752691
-- did: 0.12213789720277063
-- underwent: 0.11728713378986863
-- although: 0.1159099414096637
-- unremarkable: 0.11414239898207215
-- no: 0.11073341554281003
-- examination: 0.10895034941372181
-- proximal: 0.10636896848671878
-- month: 0.10357130008801609
-- carcinoma: 0.10184200774449637
-- time: 0.10091756527327828
-- lesions: 0.09778241382561369
-- cell: 0.09739672809451191
-- chest: 0.08987200691020801
-- tumor: 0.08905600817036549
-- woman: 0.08867211381227874
-- diagnosis: 0.08826172567243383
-- have: 0.08505435206961312
-- in: 0.08471046718751611
-- and: 0.07036440736492246
-- at: 0.06430946558805675
-- was: 0.059337395444252365
-- or: 0.059230521897055896
-- patient: 0.05537712388558309
-- on: 0.05142152894472489
-- with: 0.03333909263297936
+\-\ Texto\\:\\ \ \(0\)\
+\-\ unremarkable\\.\\ \\ thin\\ elderly\\ woman\\ in\\ nad\\.\ \(0\)\
+\-\ underwent\\ chemo\\ and\\ xrt\\ with\\ marked\\ reduction\\ in\\ tumor\\ burden\\.\\ \\ evidence\\ of\\ metastatic\\ disease\\ on\\ 6\\ month\\ follow\\-up\\ ct\\.\ \(0\)\
+\-\ squamous\\ cell\\ carcinoma\\ of\\ the\\ proximal\\ esophagus\ \(0\)\
+\-\ progressive\\ solid\\ dysphagia\\ and\\ voice\\ hoarseness\\.\ \(1\)\
+\-\ although\\ the\\ entire\\ ct\\ chest\\ examination\\ was\\ not\\ provided\\ patient\\ did\\ not\\ have\\ evidence\\ of\\ metastatic\\ disease\\ at\\ the\\ time\\ of\\ diagnosis\\ \\(no\\ parenchymal\\ lesions\\,\\ hilar\\ or\\ mediastinal\\ lymphadenopathy\\.\\ \\ no\\ invasion\\ of\\ the\\ aorta\\)\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ chemo\\:\\ 0\\.214202953934134\ \(0\)\
+\-\ burden\\:\\ 0\\.21021739240097265\ \(0\)\
+\-\ voice\\:\\ 0\\.2084079065870004\ \(0\)\
+\-\ hoarseness\\:\\ 0\\.19938561608685637\ \(0\)\
+\-\ xrt\\:\\ 0\\.19572625861889778\ \(0\)\
+\-\ evidence\\:\\ 0\\.19327998710113362\ \(0\)\
+\-\ metastatic\\:\\ 0\\.18675849984296108\ \(0\)\
+\-\ elderly\\:\\ 0\\.17935300501373255\ \(0\)\
+\-\ nad\\:\\ 0\\.16931019203248018\ \(0\)\
+\-\ of\\:\\ 0\\.1665959221411151\ \(0\)\
+\-\ hilar\\:\\ 0\\.15612264424343136\ \(0\)\
+\-\ entire\\:\\ 0\\.15492859002424153\ \(0\)\
+\-\ dysphagia\\:\\ 0\\.15378047252035135\ \(0\)\
+\-\ squamous\\:\\ 0\\.15322256141913598\ \(0\)\
+\-\ parenchymal\\:\\ 0\\.15294746845913149\ \(0\)\
+\-\ invasion\\:\\ 0\\.1518717709644689\ \(0\)\
+\-\ reduction\\:\\ 0\\.14862156829119225\ \(0\)\
+\-\ disease\\:\\ 0\\.14293843932171732\ \(0\)\
+\-\ esophagus\\:\\ 0\\.14021320744219593\ \(0\)\
+\-\ provided\\:\\ 0\\.13968178613626214\ \(0\)\
+\-\ aorta\\:\\ 0\\.1383092512226929\ \(0\)\
+\-\ lymphadenopathy\\:\\ 0\\.13764594892819518\ \(0\)\
+\-\ mediastinal\\:\\ 0\\.1374824012594071\ \(0\)\
+\-\ the\\:\\ 0\\.13589238579746263\ \(0\)\
+\-\ not\\:\\ 0\\.13442942195657276\ \(0\)\
+\-\ thin\\:\\ 0\\.132533937677848\ \(0\)\
+\-\ solid\\:\\ 0\\.13053000573724918\ \(0\)\
+\-\ progressive\\:\\ 0\\.13040107519173855\ \(0\)\
+\-\ ct\\:\\ 0\\.12963937909759354\ \(0\)\
+\-\ marked\\:\\ 0\\.1287737712752691\ \(0\)\
+\-\ did\\:\\ 0\\.12213789720277063\ \(0\)\
+\-\ underwent\\:\\ 0\\.11728713378986863\ \(0\)\
+\-\ although\\:\\ 0\\.1159099414096637\ \(0\)\
+\-\ unremarkable\\:\\ 0\\.11414239898207215\ \(0\)\
+\-\ no\\:\\ 0\\.11073341554281003\ \(0\)\
+\-\ examination\\:\\ 0\\.10895034941372181\ \(0\)\
+\-\ proximal\\:\\ 0\\.10636896848671878\ \(0\)\
+\-\ month\\:\\ 0\\.10357130008801609\ \(0\)\
+\-\ carcinoma\\:\\ 0\\.10184200774449637\ \(0\)\
+\-\ time\\:\\ 0\\.10091756527327828\ \(0\)\
+\-\ lesions\\:\\ 0\\.09778241382561369\ \(0\)\
+\-\ cell\\:\\ 0\\.09739672809451191\ \(0\)\
+\-\ chest\\:\\ 0\\.08987200691020801\ \(0\)\
+\-\ tumor\\:\\ 0\\.08905600817036549\ \(0\)\
+\-\ woman\\:\\ 0\\.08867211381227874\ \(0\)\
+\-\ diagnosis\\:\\ 0\\.08826172567243383\ \(0\)\
+\-\ have\\:\\ 0\\.08505435206961312\ \(0\)\
+\-\ in\\:\\ 0\\.08471046718751611\ \(0\)\
+\-\ and\\:\\ 0\\.07036440736492246\ \(0\)\
+\-\ at\\:\\ 0\\.06430946558805675\ \(0\)\
+\-\ was\\:\\ 0\\.059337395444252365\ \(0\)\
+\-\ or\\:\\ 0\\.059230521897055896\ \(0\)\
+\-\ patient\\:\\ 0\\.05537712388558309\ \(0\)\
+\-\ on\\:\\ 0\\.05142152894472489\ \(0\)\
+\-\ with\\:\\ 0\\.03333909263297936\ \(0\)\

@@ -1,101 +1,99 @@
-Texto: 
-the patient exibited increased breath sounds bilaterally.
-he had a d-dimer of .4 ug/feu/ml.
-medical treatment included smoking cessation and inhalers.
-perfusion and ventilation images demonstrate matched segmental defects throughout both lungs.  "pooling" of the radiotracer is present in the bases bilaterally suggestive of emphasematous changes.
-severe emphysema with low probability for pulmonary embolism
-low probability for pulmonary embolism
-severe emphysema
-65 year old white male with a 45 pack-year history of smoking presents with mild shortness of breath.
-this patient demonstrates the grossly abnormal findings when performing a v/q scan on a patient with severe emphasema disease.  it is unlikely this patient has an embolism, however there is a small possibility an embolism is disguised behind the diffuse abnormalities demonstrated.
-
-
-Keywords by value: 
-- embolism: 0.1266905889617231
-- probability: 0.0906409860592467
-- emphysema: 0.07079369238749948
-- exibited: 0.06678423048459468
-- ug/feu/ml: 0.06678423048459468
-- emphasema: 0.06678423048459468
-- disguised: 0.06678423048459468
-- smoking: 0.06538952657024596
-- emphasematous: 0.061533115480352674
-- severe: 0.05975704091059101
-- inhalers: 0.05846141011589688
-- matched: 0.05321029511165487
-- pack-year: 0.05204248693114534
-- .4: 0.05103088547186865
-- v/q: 0.04861835720581915
-- breath: 0.0484108720946871
-- d-dimer: 0.04795918010741286
-- pooling: 0.04735279595837092
-- bilaterally: 0.04252583694733187
-- performing: 0.04127441359075776
-- cessation: 0.040769175905161756
-- ventilation: 0.03942879175244147
-- pulmonary: 0.037826519851819146
-- bases: 0.036997672660925546
-- perfusion: 0.0368505659498869
-- low: 0.03600254625555151
-- behind: 0.03417767674819946
-- segmental: 0.0339756445733346
-- grossly: 0.0339756445733346
-- possibility: 0.03269476328512298
-- 65: 0.0315994509456449
-- unlikely: 0.030837774966691274
-- radiotracer: 0.030206096111092404
-- 45: 0.02990896949629482
-- included: 0.029850917430040508
-- defects: 0.029736131028369278
-- suggestive: 0.027657064015477153
-- shortness: 0.027236080294607376
-- patient: 0.025957331239890545
-- sounds: 0.02582080797353318
-- lungs: 0.02451354998469906
-- throughout: 0.02423293429015096
-- abnormalities: 0.023778519861350125
-- white: 0.021470486459939528
-- medical: 0.01991901363686367
-- diffuse: 0.019598541063449354
-- demonstrated: 0.018995605927704298
-- changes: 0.01855339375935652
-- when: 0.01854038816375762
-- abnormal: 0.018462820002385694
-- scan: 0.018123268639643777
-- he: 0.018062025318431967
-- however: 0.01802551557270508
-- an: 0.01790401309522318
-- mild: 0.01704737465099346
-- is: 0.017039114496506837
-- both: 0.016531818111258496
-- ``: 0.01591011392145316
-- increased: 0.015837005922724665
-- '': 0.015604162893804872
-- a: 0.01502271976585611
-- small: 0.014913449124099384
-- demonstrate: 0.01489736470706849
-- present: 0.01462127843887637
-- this: 0.014562685050214137
-- it: 0.014551881701007702
-- demonstrates: 0.014141069709493834
-- had: 0.013968559236672033
-- findings: 0.013779067695378483
-- presents: 0.013224577996272167
-- treatment: 0.013103158784855205
-- images: 0.012418665848101168
-- has: 0.012156817958289984
-- male: 0.011706102559753585
-- for: 0.01104709316125326
-- disease: 0.01058134500920988
-- there: 0.0096342087610984
-- history: 0.008941019225053663
-- year: 0.007243221736916021
-- old: 0.006628292400471626
-- on: 0.005484022820950213
-- the: 0.005236715329682795
-- of: 0.004413022757499562
-- with: 0.0035455810936330222
-- in: 0.003192403258638295
-- and: 0.0027274091777608855
-- .: 0.0021514870362028047
-- ,: 0.0020508338296764198
+\-\ Texto\\:\\ \ \(0\)\
+\-\ the\\ patient\\ exibited\\ increased\\ breath\\ sounds\\ bilaterally\\.\ \(0\)\
+\-\ he\\ had\\ a\\ d\\-dimer\\ of\\ \\.4\\ ug\\/feu\\/ml\\.\ \(0\)\
+\-\ medical\\ treatment\\ included\\ smoking\\ cessation\\ and\\ inhalers\\.\ \(0\)\
+\-\ perfusion\\ and\\ ventilation\\ images\\ demonstrate\\ matched\\ segmental\\ defects\\ throughout\\ both\\ lungs\\.\\ \\ \\"pooling\\"\\ of\\ the\\ radiotracer\\ is\\ present\\ in\\ the\\ bases\\ bilaterally\\ suggestive\\ of\\ emphasematous\\ changes\\.\ \(0\)\
+\-\ severe\\ emphysema\\ with\\ low\\ probability\\ for\\ pulmonary\\ embolism\ \(0\)\
+\-\ low\\ probability\\ for\\ pulmonary\\ embolism\ \(1\)\
+\-\ severe\\ emphysema\ \(0\)\
+\-\ 65\\ year\\ old\\ white\\ male\\ with\\ a\\ 45\\ pack\\-year\\ history\\ of\\ smoking\\ presents\\ with\\ mild\\ shortness\\ of\\ breath\\.\ \(1\)\
+\-\ this\\ patient\\ demonstrates\\ the\\ grossly\\ abnormal\\ findings\\ when\\ performing\\ a\\ v\\/q\\ scan\\ on\\ a\\ patient\\ with\\ severe\\ emphasema\\ disease\\.\\ \\ it\\ is\\ unlikely\\ this\\ patient\\ has\\ an\\ embolism\\,\\ however\\ there\\ is\\ a\\ small\\ possibility\\ an\\ embolism\\ is\\ disguised\\ behind\\ the\\ diffuse\\ abnormalities\\ demonstrated\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ embolism\\:\\ 0\\.1266905889617231\ \(0\)\
+\-\ probability\\:\\ 0\\.0906409860592467\ \(0\)\
+\-\ emphysema\\:\\ 0\\.07079369238749948\ \(0\)\
+\-\ exibited\\:\\ 0\\.06678423048459468\ \(0\)\
+\-\ ug\\/feu\\/ml\\:\\ 0\\.06678423048459468\ \(0\)\
+\-\ emphasema\\:\\ 0\\.06678423048459468\ \(0\)\
+\-\ disguised\\:\\ 0\\.06678423048459468\ \(0\)\
+\-\ smoking\\:\\ 0\\.06538952657024596\ \(0\)\
+\-\ emphasematous\\:\\ 0\\.061533115480352674\ \(0\)\
+\-\ severe\\:\\ 0\\.05975704091059101\ \(0\)\
+\-\ inhalers\\:\\ 0\\.05846141011589688\ \(0\)\
+\-\ matched\\:\\ 0\\.05321029511165487\ \(0\)\
+\-\ pack\\-year\\:\\ 0\\.05204248693114534\ \(0\)\
+\-\ \\.4\\:\\ 0\\.05103088547186865\ \(0\)\
+\-\ v\\/q\\:\\ 0\\.04861835720581915\ \(0\)\
+\-\ breath\\:\\ 0\\.0484108720946871\ \(0\)\
+\-\ d\\-dimer\\:\\ 0\\.04795918010741286\ \(0\)\
+\-\ pooling\\:\\ 0\\.04735279595837092\ \(0\)\
+\-\ bilaterally\\:\\ 0\\.04252583694733187\ \(0\)\
+\-\ performing\\:\\ 0\\.04127441359075776\ \(0\)\
+\-\ cessation\\:\\ 0\\.040769175905161756\ \(0\)\
+\-\ ventilation\\:\\ 0\\.03942879175244147\ \(0\)\
+\-\ pulmonary\\:\\ 0\\.037826519851819146\ \(0\)\
+\-\ bases\\:\\ 0\\.036997672660925546\ \(0\)\
+\-\ perfusion\\:\\ 0\\.0368505659498869\ \(0\)\
+\-\ low\\:\\ 0\\.03600254625555151\ \(0\)\
+\-\ behind\\:\\ 0\\.03417767674819946\ \(0\)\
+\-\ segmental\\:\\ 0\\.0339756445733346\ \(0\)\
+\-\ grossly\\:\\ 0\\.0339756445733346\ \(0\)\
+\-\ possibility\\:\\ 0\\.03269476328512298\ \(0\)\
+\-\ 65\\:\\ 0\\.0315994509456449\ \(0\)\
+\-\ unlikely\\:\\ 0\\.030837774966691274\ \(0\)\
+\-\ radiotracer\\:\\ 0\\.030206096111092404\ \(0\)\
+\-\ 45\\:\\ 0\\.02990896949629482\ \(0\)\
+\-\ included\\:\\ 0\\.029850917430040508\ \(0\)\
+\-\ defects\\:\\ 0\\.029736131028369278\ \(0\)\
+\-\ suggestive\\:\\ 0\\.027657064015477153\ \(0\)\
+\-\ shortness\\:\\ 0\\.027236080294607376\ \(0\)\
+\-\ patient\\:\\ 0\\.025957331239890545\ \(0\)\
+\-\ sounds\\:\\ 0\\.02582080797353318\ \(0\)\
+\-\ lungs\\:\\ 0\\.02451354998469906\ \(0\)\
+\-\ throughout\\:\\ 0\\.02423293429015096\ \(0\)\
+\-\ abnormalities\\:\\ 0\\.023778519861350125\ \(0\)\
+\-\ white\\:\\ 0\\.021470486459939528\ \(0\)\
+\-\ medical\\:\\ 0\\.01991901363686367\ \(0\)\
+\-\ diffuse\\:\\ 0\\.019598541063449354\ \(0\)\
+\-\ demonstrated\\:\\ 0\\.018995605927704298\ \(0\)\
+\-\ changes\\:\\ 0\\.01855339375935652\ \(0\)\
+\-\ when\\:\\ 0\\.01854038816375762\ \(0\)\
+\-\ abnormal\\:\\ 0\\.018462820002385694\ \(0\)\
+\-\ scan\\:\\ 0\\.018123268639643777\ \(0\)\
+\-\ he\\:\\ 0\\.018062025318431967\ \(0\)\
+\-\ however\\:\\ 0\\.01802551557270508\ \(0\)\
+\-\ an\\:\\ 0\\.01790401309522318\ \(0\)\
+\-\ mild\\:\\ 0\\.01704737465099346\ \(0\)\
+\-\ is\\:\\ 0\\.017039114496506837\ \(0\)\
+\-\ both\\:\\ 0\\.016531818111258496\ \(0\)\
+\-\ \\`\\`\\:\\ 0\\.01591011392145316\ \(0\)\
+\-\ increased\\:\\ 0\\.015837005922724665\ \(0\)\
+\-\ \\'\\'\\:\\ 0\\.015604162893804872\ \(0\)\
+\-\ a\\:\\ 0\\.01502271976585611\ \(0\)\
+\-\ small\\:\\ 0\\.014913449124099384\ \(0\)\
+\-\ demonstrate\\:\\ 0\\.01489736470706849\ \(0\)\
+\-\ present\\:\\ 0\\.01462127843887637\ \(0\)\
+\-\ this\\:\\ 0\\.014562685050214137\ \(0\)\
+\-\ it\\:\\ 0\\.014551881701007702\ \(0\)\
+\-\ demonstrates\\:\\ 0\\.014141069709493834\ \(0\)\
+\-\ had\\:\\ 0\\.013968559236672033\ \(0\)\
+\-\ findings\\:\\ 0\\.013779067695378483\ \(0\)\
+\-\ presents\\:\\ 0\\.013224577996272167\ \(0\)\
+\-\ treatment\\:\\ 0\\.013103158784855205\ \(0\)\
+\-\ images\\:\\ 0\\.012418665848101168\ \(0\)\
+\-\ has\\:\\ 0\\.012156817958289984\ \(0\)\
+\-\ male\\:\\ 0\\.011706102559753585\ \(0\)\
+\-\ for\\:\\ 0\\.01104709316125326\ \(0\)\
+\-\ disease\\:\\ 0\\.01058134500920988\ \(0\)\
+\-\ there\\:\\ 0\\.0096342087610984\ \(0\)\
+\-\ history\\:\\ 0\\.008941019225053663\ \(0\)\
+\-\ year\\:\\ 0\\.007243221736916021\ \(0\)\
+\-\ old\\:\\ 0\\.006628292400471626\ \(0\)\
+\-\ on\\:\\ 0\\.005484022820950213\ \(0\)\
+\-\ the\\:\\ 0\\.005236715329682795\ \(0\)\
+\-\ of\\:\\ 0\\.004413022757499562\ \(0\)\
+\-\ with\\:\\ 0\\.0035455810936330222\ \(0\)\
+\-\ in\\:\\ 0\\.003192403258638295\ \(0\)\
+\-\ and\\:\\ 0\\.0027274091777608855\ \(0\)\
+\-\ \\.\\:\\ 0\\.0021514870362028047\ \(0\)\
+\-\ \\,\\:\\ 0\\.0020508338296764198\ \(0\)\

@@ -1,59 +1,57 @@
-Texto: 
-tenderness to palpation in the right lower quadrant
-fever-   102
-if the appendix is intact, surgical intervention. if there is an abscess, radiological intervention by percutaneous drainage and then surgery.
-dilated tubular structure in rlq coming off the cecum with central calcification (likely appendicolith) and periappendiceal stranding
-acute appendicitis
-appendicitis
-meckels diverticulitis
-36 hours of right lower quadrant pain
-
-
-Keywords by value: 
-- appendicitis: 0.28090185362145315
-- intervention: 0.27816496571120597
-- meckels: 0.26478281824768796
-- quadrant: 0.23194512161049116
-- coming: 0.20629988578250363
-- periappendiceal: 0.20266700243185018
-- if: 0.19240081860922506
-- appendicolith: 0.18923926922828596
-- 102: 0.17711442784297093
-- radiological: 0.17194073999144902
-- rlq: 0.17194073999144902
-- lower: 0.16921312132672311
-- cecum: 0.16806496664790602
-- percutaneous: 0.15958565299800995
-- diverticulitis: 0.15561328993215076
-- appendix: 0.14927182291678415
-- stranding: 0.14820655896263318
-- tubular: 0.1438445902514601
-- structure: 0.14146945885207735
-- off: 0.1383285395632537
-- 36: 0.13705450248491824
-- drainage: 0.1326057000484393
-- hours: 0.12619008730558132
-- intact: 0.1198360327352668
-- dilated: 0.11858433828411503
-- calcification: 0.11820981457458869
-- then: 0.11720411701709517
-- palpation: 0.11165870346875165
-- central: 0.1105660329841033
-- right: 0.10978675364210431
-- abscess: 0.10631733993118746
-- tenderness: 0.10383301833836804
-- the: 0.09911177171937308
-- likely: 0.09894066784047759
-- is: 0.09068505643068756
-- acute: 0.0895671561197536
-- surgery: 0.08901755040105361
-- in: 0.08237699202802876
-- surgical: 0.08047252530903605
-- by: 0.07031071585645832
-- and: 0.06842611565022048
-- there: 0.06587987463702955
-- an: 0.06331349437456016
-- pain: 0.059247116066148735
-- to: 0.041392228476851194
-- with: 0.032420717996623084
-- of: 0.032401358192823686
+\-\ Texto\\:\\ \ \(0\)\
+\-\ tenderness\\ to\\ palpation\\ in\\ the\\ right\\ lower\\ quadrant\ \(1\)\
+\-\ fever\\-\\ \\ \\ 102\ \(0\)\
+\-\ if\\ the\\ appendix\\ is\\ intact\\,\\ surgical\\ intervention\\.\\ if\\ there\\ is\\ an\\ abscess\\,\\ radiological\\ intervention\\ by\\ percutaneous\\ drainage\\ and\\ then\\ surgery\\.\ \(0\)\
+\-\ dilated\\ tubular\\ structure\\ in\\ rlq\\ coming\\ off\\ the\\ cecum\\ with\\ central\\ calcification\\ \\(likely\\ appendicolith\\)\\ and\\ periappendiceal\\ stranding\ \(0\)\
+\-\ acute\\ appendicitis\ \(36\)\
+\-\ appendicitis\ \(180\)\
+\-\ meckels\\ diverticulitis\ \(1\)\
+\-\ 36\\ hours\\ of\\ right\\ lower\\ quadrant\\ pain\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ appendicitis\\:\\ 0\\.28090185362145315\ \(0\)\
+\-\ intervention\\:\\ 0\\.27816496571120597\ \(0\)\
+\-\ meckels\\:\\ 0\\.26478281824768796\ \(0\)\
+\-\ quadrant\\:\\ 0\\.23194512161049116\ \(0\)\
+\-\ coming\\:\\ 0\\.20629988578250363\ \(0\)\
+\-\ periappendiceal\\:\\ 0\\.20266700243185018\ \(0\)\
+\-\ if\\:\\ 0\\.19240081860922506\ \(0\)\
+\-\ appendicolith\\:\\ 0\\.18923926922828596\ \(0\)\
+\-\ 102\\:\\ 0\\.17711442784297093\ \(0\)\
+\-\ radiological\\:\\ 0\\.17194073999144902\ \(0\)\
+\-\ rlq\\:\\ 0\\.17194073999144902\ \(0\)\
+\-\ lower\\:\\ 0\\.16921312132672311\ \(0\)\
+\-\ cecum\\:\\ 0\\.16806496664790602\ \(0\)\
+\-\ percutaneous\\:\\ 0\\.15958565299800995\ \(0\)\
+\-\ diverticulitis\\:\\ 0\\.15561328993215076\ \(0\)\
+\-\ appendix\\:\\ 0\\.14927182291678415\ \(0\)\
+\-\ stranding\\:\\ 0\\.14820655896263318\ \(0\)\
+\-\ tubular\\:\\ 0\\.1438445902514601\ \(0\)\
+\-\ structure\\:\\ 0\\.14146945885207735\ \(0\)\
+\-\ off\\:\\ 0\\.1383285395632537\ \(0\)\
+\-\ 36\\:\\ 0\\.13705450248491824\ \(0\)\
+\-\ drainage\\:\\ 0\\.1326057000484393\ \(0\)\
+\-\ hours\\:\\ 0\\.12619008730558132\ \(0\)\
+\-\ intact\\:\\ 0\\.1198360327352668\ \(0\)\
+\-\ dilated\\:\\ 0\\.11858433828411503\ \(0\)\
+\-\ calcification\\:\\ 0\\.11820981457458869\ \(0\)\
+\-\ then\\:\\ 0\\.11720411701709517\ \(0\)\
+\-\ palpation\\:\\ 0\\.11165870346875165\ \(0\)\
+\-\ central\\:\\ 0\\.1105660329841033\ \(0\)\
+\-\ right\\:\\ 0\\.10978675364210431\ \(0\)\
+\-\ abscess\\:\\ 0\\.10631733993118746\ \(0\)\
+\-\ tenderness\\:\\ 0\\.10383301833836804\ \(0\)\
+\-\ the\\:\\ 0\\.09911177171937308\ \(0\)\
+\-\ likely\\:\\ 0\\.09894066784047759\ \(0\)\
+\-\ is\\:\\ 0\\.09068505643068756\ \(0\)\
+\-\ acute\\:\\ 0\\.0895671561197536\ \(0\)\
+\-\ surgery\\:\\ 0\\.08901755040105361\ \(0\)\
+\-\ in\\:\\ 0\\.08237699202802876\ \(0\)\
+\-\ surgical\\:\\ 0\\.08047252530903605\ \(0\)\
+\-\ by\\:\\ 0\\.07031071585645832\ \(0\)\
+\-\ and\\:\\ 0\\.06842611565022048\ \(0\)\
+\-\ there\\:\\ 0\\.06587987463702955\ \(0\)\
+\-\ an\\:\\ 0\\.06331349437456016\ \(0\)\
+\-\ pain\\:\\ 0\\.059247116066148735\ \(0\)\
+\-\ to\\:\\ 0\\.041392228476851194\ \(0\)\
+\-\ with\\:\\ 0\\.032420717996623084\ \(0\)\
+\-\ of\\:\\ 0\\.032401358192823686\ \(0\)\

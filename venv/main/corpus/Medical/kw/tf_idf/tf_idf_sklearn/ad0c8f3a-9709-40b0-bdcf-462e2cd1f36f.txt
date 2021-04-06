@@ -1,61 +1,58 @@
-Texto: 
-biapical ronchi, wheezing. elevated temperature.
-
-bronchial lavage cytology positive for pneumocystis-like organisms.
-positive fluorescence-labelled antibody test for pneumocystis sp.
-hiv positive.
-cxr:
-bilateral ground glass opacities.
-cystic vs. cavitary leisions, predominantly in superior lobes.
-pneumocystis pneumonia in a patient with aids.
-tb
-fungal pneumonia.
-46 y.o. man with several weeks of fever, shortness of breath, chest pain.
-
-
-Keywords by value: 
-- pneumocystis: 0.48829318337776445
-- positive: 0.2557526440963055
-- leisions: 0.20689733596724194
-- pneumonia: 0.20423023257345085
-- biapical: 0.1784848654126178
-- sp: 0.175456394060516
-- ronchi: 0.1627643944592548
-- lavage: 0.16119964679437424
-- cytology: 0.15251344169130887
-- antibody: 0.1478687360563355
-- cavitary: 0.14198306224114357
-- aids: 0.14072274660333603
-- organisms: 0.13952879486214073
-- wheezing: 0.13389372962429352
-- temperature: 0.13173210947319763
-- bronchial: 0.13173210947319763
-- glass: 0.1301398877341095
-- hiv: 0.127943348645423
-- ground: 0.12594088595790395
-- opacities: 0.12351940477251806
-- 46: 0.11886406879027492
-- fungal: 0.11580638964857955
-- tb: 0.11520155792540418
-- predominantly: 0.11329456581918408
-- lobes: 0.10794293332185523
-- test: 0.10522353077935302
-- shortness: 0.10373579454834835
-- cxr: 0.10349705712829367
-- vs: 0.09869894582738355
-- breath: 0.09482164938105464
-- elevated: 0.08819604045142582
-- fever: 0.08771729242747218
-- several: 0.0848820952645599
-- superior: 0.08411147145413299
-- for: 0.07842458801699649
-- cystic: 0.07791761360927231
-- weeks: 0.0775364307628111
-- bilateral: 0.06953041041207218
-- man: 0.06849224997912769
-- chest: 0.06829020102157869
-- in: 0.06436815012540073
-- with: 0.050666128777070704
-- of: 0.0506358738545085
-- pain: 0.04629481081495811
-- patient: 0.04207889700206299
+\-\ Texto\\:\\ \ \(0\)\
+\-\ biapical\\ ronchi\\,\\ wheezing\\.\\ elevated\\ temperature\\.\ \(0\)\
+\-\ bronchial\\ lavage\\ cytology\\ positive\\ for\\ pneumocystis\\-like\\ organisms\\.\ \(0\)\
+\-\ positive\\ fluorescence\\-labelled\\ antibody\\ test\\ for\\ pneumocystis\\ sp\\.\ \(0\)\
+\-\ hiv\\ positive\\.\ \(0\)\
+\-\ cxr\\:\ \(0\)\
+\-\ bilateral\\ ground\\ glass\\ opacities\\.\ \(0\)\
+\-\ cystic\\ vs\\.\\ cavitary\\ leisions\\,\\ predominantly\\ in\\ superior\\ lobes\\.\ \(0\)\
+\-\ pneumocystis\\ pneumonia\\ in\\ a\\ patient\\ with\\ aids\\.\ \(0\)\
+\-\ tb\ \(176\)\
+\-\ fungal\\ pneumonia\\.\ \(0\)\
+\-\ 46\\ y\\.o\\.\\ man\\ with\\ several\\ weeks\\ of\\ fever\\,\\ shortness\\ of\\ breath\\,\\ chest\\ pain\\.\ \(1\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ pneumocystis\\:\\ 0\\.48829318337776445\ \(0\)\
+\-\ positive\\:\\ 0\\.2557526440963055\ \(0\)\
+\-\ leisions\\:\\ 0\\.20689733596724194\ \(0\)\
+\-\ pneumonia\\:\\ 0\\.20423023257345085\ \(0\)\
+\-\ biapical\\:\\ 0\\.1784848654126178\ \(0\)\
+\-\ sp\\:\\ 0\\.175456394060516\ \(0\)\
+\-\ ronchi\\:\\ 0\\.1627643944592548\ \(0\)\
+\-\ lavage\\:\\ 0\\.16119964679437424\ \(0\)\
+\-\ cytology\\:\\ 0\\.15251344169130887\ \(0\)\
+\-\ antibody\\:\\ 0\\.1478687360563355\ \(0\)\
+\-\ cavitary\\:\\ 0\\.14198306224114357\ \(0\)\
+\-\ aids\\:\\ 0\\.14072274660333603\ \(0\)\
+\-\ organisms\\:\\ 0\\.13952879486214073\ \(0\)\
+\-\ wheezing\\:\\ 0\\.13389372962429352\ \(0\)\
+\-\ temperature\\:\\ 0\\.13173210947319763\ \(0\)\
+\-\ bronchial\\:\\ 0\\.13173210947319763\ \(0\)\
+\-\ glass\\:\\ 0\\.1301398877341095\ \(0\)\
+\-\ hiv\\:\\ 0\\.127943348645423\ \(0\)\
+\-\ ground\\:\\ 0\\.12594088595790395\ \(0\)\
+\-\ opacities\\:\\ 0\\.12351940477251806\ \(0\)\
+\-\ 46\\:\\ 0\\.11886406879027492\ \(0\)\
+\-\ fungal\\:\\ 0\\.11580638964857955\ \(0\)\
+\-\ tb\\:\\ 0\\.11520155792540418\ \(0\)\
+\-\ predominantly\\:\\ 0\\.11329456581918408\ \(0\)\
+\-\ lobes\\:\\ 0\\.10794293332185523\ \(0\)\
+\-\ test\\:\\ 0\\.10522353077935302\ \(0\)\
+\-\ shortness\\:\\ 0\\.10373579454834835\ \(0\)\
+\-\ cxr\\:\\ 0\\.10349705712829367\ \(0\)\
+\-\ vs\\:\\ 0\\.09869894582738355\ \(0\)\
+\-\ breath\\:\\ 0\\.09482164938105464\ \(0\)\
+\-\ elevated\\:\\ 0\\.08819604045142582\ \(0\)\
+\-\ fever\\:\\ 0\\.08771729242747218\ \(0\)\
+\-\ several\\:\\ 0\\.0848820952645599\ \(0\)\
+\-\ superior\\:\\ 0\\.08411147145413299\ \(0\)\
+\-\ for\\:\\ 0\\.07842458801699649\ \(0\)\
+\-\ cystic\\:\\ 0\\.07791761360927231\ \(0\)\
+\-\ weeks\\:\\ 0\\.0775364307628111\ \(0\)\
+\-\ bilateral\\:\\ 0\\.06953041041207218\ \(0\)\
+\-\ man\\:\\ 0\\.06849224997912769\ \(0\)\
+\-\ chest\\:\\ 0\\.06829020102157869\ \(0\)\
+\-\ in\\:\\ 0\\.06436815012540073\ \(0\)\
+\-\ with\\:\\ 0\\.050666128777070704\ \(0\)\
+\-\ of\\:\\ 0\\.0506358738545085\ \(0\)\
+\-\ pain\\:\\ 0\\.04629481081495811\ \(0\)\
+\-\ patient\\:\\ 0\\.04207889700206299\ \(0\)\

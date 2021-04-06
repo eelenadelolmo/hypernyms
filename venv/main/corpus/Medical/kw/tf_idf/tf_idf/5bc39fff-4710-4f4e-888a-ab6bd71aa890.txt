@@ -1,85 +1,83 @@
-Texto: 
-normal
-none needed.
-multiple axial ct images through the liver demonstrate multiple, well-defined hypodense lesions.  on early arterial phase images, the masses demonstrate peripheral nodular enhancement with progressive filling-in from the periphery on portal-venous phase images.  delayed images show prolonged enhancement.
-cavernous hemangiomas
-these findings are classic for hemangioma.  however, the differential for a solid liver mass includes:
--metastases
--hepatocellular carcinoma
--fibrolamellar carcinoma
--lymphoma
--hepatic adenoma
--focal nodular hyperplasia
-53 year old male with incidental finding of a liver "mass" on ultrasound.  patient asymptomatic
-
-
-Keywords by value: 
-- liver: 0.09206942221352261
-- filling-in: 0.09182831691631768
-- portal-venous: 0.09182831691631768
-- -fibrolamellar: 0.09182831691631768
-- -hepatocellular: 0.08460803378548493
-- phase: 0.08374433079936994
-- -hepatic: 0.0803844389093582
-- -focal: 0.07738775065465216
-- -metastases: 0.0750633386617958
-- nodular: 0.07467520431483149
-- images: 0.06830266216455641
-- -lymphoma: 0.06511009444276
-- hemangiomas: 0.055406363151041846
-- carcinoma: 0.05045682645866388
-- periphery: 0.049713199543041126
-- 53: 0.04802943546432846
-- enhancement: 0.04771851596089658
-- hypodense: 0.04742540153047065
-- prolonged: 0.04727971150990044
-- well-defined: 0.04579872725176979
-- hyperplasia: 0.0438577941456084
-- cavernous: 0.04128633500048834
-- demonstrate: 0.04096775294443834
-- hemangioma: 0.03977402239794149
-- arterial: 0.03896192300763199
-- needed: 0.03876841899124725
-- multiple: 0.0374959584058181
-- adenoma: 0.03717181616464596
-- delayed: 0.036228961919428954
-- includes: 0.03588417078998787
-- solid: 0.035503610963608115
-- progressive: 0.03518165744836774
-- classic: 0.034106821654250746
-- incidental: 0.033706131228961204
-- early: 0.03255373926710872
-- peripheral: 0.03220763877098039
-- masses: 0.030089504145792575
-- asymptomatic: 0.030089504145792575
-- finding: 0.02868814067748418
-- differential: 0.02825999822242635
-- show: 0.02732454098428777
-- ultrasound: 0.02640752692714899
-- axial: 0.025404077875706994
-- through: 0.02528080227521738
-- however: 0.02478508391246948
-- mass: 0.02475960431140759
-- lesions: 0.023828755274416122
-- these: 0.023165048874560834
-- on: 0.022621594136419627
-- none: 0.022080411530291735
-- ``: 0.021876406641998095
-- '': 0.021455723978981697
-- findings: 0.01894621808114541
-- male: 0.016095891019661177
-- for: 0.01518975309672323
-- normal: 0.01395429640207397
-- from: 0.013192038678689712
-- ct: 0.01245107972283378
-- are: 0.012134102838850018
-- :: 0.01177369599990276
-- year: 0.009959429888259527
-- old: 0.009113902050648486
-- patient: 0.008922832613712375
-- ,: 0.00845968954741523
-- a: 0.00826249587122086
-- the: 0.005760386862651075
-- with: 0.0024375870018727027
-- .: 0.002218721006084142
-- of: 0.0012135812583123793
+\-\ Texto\\:\\ \ \(0\)\
+\-\ normal\ \(4026\)\
+\-\ none\\ needed\\.\ \(2\)\
+\-\ multiple\\ axial\\ ct\\ images\\ through\\ the\\ liver\\ demonstrate\\ multiple\\,\\ well\\-defined\\ hypodense\\ lesions\\.\\ \\ on\\ early\\ arterial\\ phase\\ images\\,\\ the\\ masses\\ demonstrate\\ peripheral\\ nodular\\ enhancement\\ with\\ progressive\\ filling\\-in\\ from\\ the\\ periphery\\ on\\ portal\\-venous\\ phase\\ images\\.\\ \\ delayed\\ images\\ show\\ prolonged\\ enhancement\\.\ \(0\)\
+\-\ cavernous\\ hemangiomas\ \(3\)\
+\-\ these\\ findings\\ are\\ classic\\ for\\ hemangioma\\.\\ \\ however\\,\\ the\\ differential\\ for\\ a\\ solid\\ liver\\ mass\\ includes\\:\ \(0\)\
+\-\ metastases\ \(207\)\
+\-\ hepatocellular\\ carcinoma\ \(28\)\
+\-\ fibrolamellar\\ carcinoma\ \(1\)\
+\-\ lymphoma\ \(373\)\
+\-\ hepatic\\ adenoma\ \(5\)\
+\-\ focal\\ nodular\\ hyperplasia\ \(9\)\
+\-\ 53\\ year\\ old\\ male\\ with\\ incidental\\ finding\\ of\\ a\\ liver\\ \\"mass\\"\\ on\\ ultrasound\\.\\ \\ patient\\ asymptomatic\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ liver\\:\\ 0\\.09206942221352261\ \(0\)\
+\-\ filling\\-in\\:\\ 0\\.09182831691631768\ \(0\)\
+\-\ portal\\-venous\\:\\ 0\\.09182831691631768\ \(0\)\
+\-\ \\-fibrolamellar\\:\\ 0\\.09182831691631768\ \(0\)\
+\-\ \\-hepatocellular\\:\\ 0\\.08460803378548493\ \(0\)\
+\-\ phase\\:\\ 0\\.08374433079936994\ \(0\)\
+\-\ \\-hepatic\\:\\ 0\\.0803844389093582\ \(0\)\
+\-\ \\-focal\\:\\ 0\\.07738775065465216\ \(0\)\
+\-\ \\-metastases\\:\\ 0\\.0750633386617958\ \(0\)\
+\-\ nodular\\:\\ 0\\.07467520431483149\ \(0\)\
+\-\ images\\:\\ 0\\.06830266216455641\ \(0\)\
+\-\ \\-lymphoma\\:\\ 0\\.06511009444276\ \(0\)\
+\-\ hemangiomas\\:\\ 0\\.055406363151041846\ \(0\)\
+\-\ carcinoma\\:\\ 0\\.05045682645866388\ \(0\)\
+\-\ periphery\\:\\ 0\\.049713199543041126\ \(0\)\
+\-\ 53\\:\\ 0\\.04802943546432846\ \(0\)\
+\-\ enhancement\\:\\ 0\\.04771851596089658\ \(0\)\
+\-\ hypodense\\:\\ 0\\.04742540153047065\ \(0\)\
+\-\ prolonged\\:\\ 0\\.04727971150990044\ \(0\)\
+\-\ well\\-defined\\:\\ 0\\.04579872725176979\ \(0\)\
+\-\ hyperplasia\\:\\ 0\\.0438577941456084\ \(0\)\
+\-\ cavernous\\:\\ 0\\.04128633500048834\ \(0\)\
+\-\ demonstrate\\:\\ 0\\.04096775294443834\ \(0\)\
+\-\ hemangioma\\:\\ 0\\.03977402239794149\ \(0\)\
+\-\ arterial\\:\\ 0\\.03896192300763199\ \(0\)\
+\-\ needed\\:\\ 0\\.03876841899124725\ \(0\)\
+\-\ multiple\\:\\ 0\\.0374959584058181\ \(0\)\
+\-\ adenoma\\:\\ 0\\.03717181616464596\ \(0\)\
+\-\ delayed\\:\\ 0\\.036228961919428954\ \(0\)\
+\-\ includes\\:\\ 0\\.03588417078998787\ \(0\)\
+\-\ solid\\:\\ 0\\.035503610963608115\ \(0\)\
+\-\ progressive\\:\\ 0\\.03518165744836774\ \(0\)\
+\-\ classic\\:\\ 0\\.034106821654250746\ \(0\)\
+\-\ incidental\\:\\ 0\\.033706131228961204\ \(0\)\
+\-\ early\\:\\ 0\\.03255373926710872\ \(0\)\
+\-\ peripheral\\:\\ 0\\.03220763877098039\ \(0\)\
+\-\ masses\\:\\ 0\\.030089504145792575\ \(0\)\
+\-\ asymptomatic\\:\\ 0\\.030089504145792575\ \(0\)\
+\-\ finding\\:\\ 0\\.02868814067748418\ \(0\)\
+\-\ differential\\:\\ 0\\.02825999822242635\ \(0\)\
+\-\ show\\:\\ 0\\.02732454098428777\ \(0\)\
+\-\ ultrasound\\:\\ 0\\.02640752692714899\ \(0\)\
+\-\ axial\\:\\ 0\\.025404077875706994\ \(0\)\
+\-\ through\\:\\ 0\\.02528080227521738\ \(0\)\
+\-\ however\\:\\ 0\\.02478508391246948\ \(0\)\
+\-\ mass\\:\\ 0\\.02475960431140759\ \(0\)\
+\-\ lesions\\:\\ 0\\.023828755274416122\ \(0\)\
+\-\ these\\:\\ 0\\.023165048874560834\ \(0\)\
+\-\ on\\:\\ 0\\.022621594136419627\ \(0\)\
+\-\ none\\:\\ 0\\.022080411530291735\ \(0\)\
+\-\ \\`\\`\\:\\ 0\\.021876406641998095\ \(0\)\
+\-\ \\'\\'\\:\\ 0\\.021455723978981697\ \(0\)\
+\-\ findings\\:\\ 0\\.01894621808114541\ \(0\)\
+\-\ male\\:\\ 0\\.016095891019661177\ \(0\)\
+\-\ for\\:\\ 0\\.01518975309672323\ \(0\)\
+\-\ normal\\:\\ 0\\.01395429640207397\ \(0\)\
+\-\ from\\:\\ 0\\.013192038678689712\ \(0\)\
+\-\ ct\\:\\ 0\\.01245107972283378\ \(0\)\
+\-\ are\\:\\ 0\\.012134102838850018\ \(0\)\
+\-\ \\:\\:\\ 0\\.01177369599990276\ \(0\)\
+\-\ year\\:\\ 0\\.009959429888259527\ \(0\)\
+\-\ old\\:\\ 0\\.009113902050648486\ \(0\)\
+\-\ patient\\:\\ 0\\.008922832613712375\ \(0\)\
+\-\ \\,\\:\\ 0\\.00845968954741523\ \(0\)\
+\-\ a\\:\\ 0\\.00826249587122086\ \(0\)\
+\-\ the\\:\\ 0\\.005760386862651075\ \(0\)\
+\-\ with\\:\\ 0\\.0024375870018727027\ \(0\)\
+\-\ \\.\\:\\ 0\\.002218721006084142\ \(0\)\
+\-\ of\\:\\ 0\\.0012135812583123793\ \(0\)\

@@ -1,75 +1,73 @@
-Texto: 
-palpable contour abnormality at the left posterior parietal area.
-in this case of a simple dsf, a conservative (watch and wait) approach was employed.
-depressed skull fracture (‚Äúping-pong‚Äù fracture).  multiple contiguous axial 5.0mm noncontrast ct images of the head (brain and bone windows), show a smooth concave indentation at the left posterior parietal convexity, with preservation of bone continuity and no evidence of underlying intracranial pathology.
-pediatric depressed skull fracture.
-not applicable.
-2 year-old male presents to the emergency room after falling down a flight of stairs.
-please see factoid.
-
-
-Keywords by value: 
-- depressed: 0.28091779927036664
-- fracture: 0.21513582629273853
-- skull: 0.2047528601858264
-- parietal: 0.2037751517794427
-- dsf: 0.2017878756258507
-- wait: 0.1740770689704794
-- concave: 0.15874482497281253
-- flight: 0.15579114363285018
-- indentation: 0.1544501420100708
-- employed: 0.15085526353233308
-- applicable: 0.145919383431816
-- watch: 0.14188647574179095
-- stairs: 0.13977823816511797
-- convexity: 0.1384767008746286
-- preservation: 0.1378535680517659
-- bone: 0.13769451678894393
-- windows: 0.13665761450533143
-- continuity: 0.13665761450533143
-- posterior: 0.13049661834252224
-- contiguous: 0.1301491102218618
-- falling: 0.12847890185747618
-- of: 0.12346347244869306
-- noncontrast: 0.12191526552956089
-- approach: 0.12103621930028878
-- simple: 0.11417566908641961
-- contour: 0.11355253626355692
-- pediatric: 0.11294647773901875
-- please: 0.10584807843365279
-- smooth: 0.10417787006926721
-- room: 0.10325881641315145
-- underlying: 0.10300309388431737
-- down: 0.1025003505984256
-- intracranial: 0.10152789719444932
-- the: 0.10070922273644013
-- pathology: 0.0990550989756534
-- conservative: 0.09741584898214514
-- at: 0.0953188989355424
-- emergency: 0.09361456385229325
-- abnormality: 0.09178016439662395
-- palpable: 0.08864544595080978
-- factoid: 0.08812032331013453
-- left: 0.08608489681303996
-- area: 0.08174065621743183
-- show: 0.08010140622392356
-- brain: 0.07865972762886814
-- see: 0.07849119536687835
-- and: 0.07822010849739493
-- head: 0.0752559955844127
-- axial: 0.07288559491073145
-- evidence: 0.07161945519330115
-- case: 0.06339101575447795
-- multiple: 0.06171695175954725
-- after: 0.061211557576042436
-- presents: 0.060698667862139025
-- images: 0.05836624168684197
-- male: 0.05617979630077318
-- not: 0.04981251347788231
-- ct: 0.0480375741007747
-- was: 0.04397467112912384
-- this: 0.04335741652909168
-- no: 0.041032012738699976
-- to: 0.03154453112569579
-- in: 0.03138926900882608
-- with: 0.024707448368812286
+\-\ Texto\\:\\ \ \(0\)\
+\-\ palpable\\ contour\\ abnormality\\ at\\ the\\ left\\ posterior\\ parietal\\ area\\.\ \(0\)\
+\-\ in\\ this\\ case\\ of\\ a\\ simple\\ dsf\\,\\ a\\ conservative\\ \\(watch\\ and\\ wait\\)\\ approach\\ was\\ employed\\.\ \(0\)\
+\-\ depressed\\ skull\\ fracture\\ \\(\\‚\\Ä\\úping\\-pong\\‚\\Ä\\ù\\ fracture\\)\\.\\ \\ multiple\\ contiguous\\ axial\\ 5\\.0mm\\ noncontrast\\ ct\\ images\\ of\\ the\\ head\\ \\(brain\\ and\\ bone\\ windows\\)\\,\\ show\\ a\\ smooth\\ concave\\ indentation\\ at\\ the\\ left\\ posterior\\ parietal\\ convexity\\,\\ with\\ preservation\\ of\\ bone\\ continuity\\ and\\ no\\ evidence\\ of\\ underlying\\ intracranial\\ pathology\\.\ \(0\)\
+\-\ pediatric\\ depressed\\ skull\\ fracture\\.\ \(0\)\
+\-\ not\\ applicable\\.\ \(0\)\
+\-\ 2\\ year\\-old\\ male\\ presents\\ to\\ the\\ emergency\\ room\\ after\\ falling\\ down\\ a\\ flight\\ of\\ stairs\\.\ \(1\)\
+\-\ please\\ see\\ factoid\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ depressed\\:\\ 0\\.28091779927036664\ \(0\)\
+\-\ fracture\\:\\ 0\\.21513582629273853\ \(0\)\
+\-\ skull\\:\\ 0\\.2047528601858264\ \(0\)\
+\-\ parietal\\:\\ 0\\.2037751517794427\ \(0\)\
+\-\ dsf\\:\\ 0\\.2017878756258507\ \(0\)\
+\-\ wait\\:\\ 0\\.1740770689704794\ \(0\)\
+\-\ concave\\:\\ 0\\.15874482497281253\ \(0\)\
+\-\ flight\\:\\ 0\\.15579114363285018\ \(0\)\
+\-\ indentation\\:\\ 0\\.1544501420100708\ \(0\)\
+\-\ employed\\:\\ 0\\.15085526353233308\ \(0\)\
+\-\ applicable\\:\\ 0\\.145919383431816\ \(0\)\
+\-\ watch\\:\\ 0\\.14188647574179095\ \(0\)\
+\-\ stairs\\:\\ 0\\.13977823816511797\ \(0\)\
+\-\ convexity\\:\\ 0\\.1384767008746286\ \(0\)\
+\-\ preservation\\:\\ 0\\.1378535680517659\ \(0\)\
+\-\ bone\\:\\ 0\\.13769451678894393\ \(0\)\
+\-\ windows\\:\\ 0\\.13665761450533143\ \(0\)\
+\-\ continuity\\:\\ 0\\.13665761450533143\ \(0\)\
+\-\ posterior\\:\\ 0\\.13049661834252224\ \(0\)\
+\-\ contiguous\\:\\ 0\\.1301491102218618\ \(0\)\
+\-\ falling\\:\\ 0\\.12847890185747618\ \(0\)\
+\-\ of\\:\\ 0\\.12346347244869306\ \(0\)\
+\-\ noncontrast\\:\\ 0\\.12191526552956089\ \(0\)\
+\-\ approach\\:\\ 0\\.12103621930028878\ \(0\)\
+\-\ simple\\:\\ 0\\.11417566908641961\ \(0\)\
+\-\ contour\\:\\ 0\\.11355253626355692\ \(0\)\
+\-\ pediatric\\:\\ 0\\.11294647773901875\ \(0\)\
+\-\ please\\:\\ 0\\.10584807843365279\ \(0\)\
+\-\ smooth\\:\\ 0\\.10417787006926721\ \(0\)\
+\-\ room\\:\\ 0\\.10325881641315145\ \(0\)\
+\-\ underlying\\:\\ 0\\.10300309388431737\ \(0\)\
+\-\ down\\:\\ 0\\.1025003505984256\ \(0\)\
+\-\ intracranial\\:\\ 0\\.10152789719444932\ \(0\)\
+\-\ the\\:\\ 0\\.10070922273644013\ \(0\)\
+\-\ pathology\\:\\ 0\\.0990550989756534\ \(0\)\
+\-\ conservative\\:\\ 0\\.09741584898214514\ \(0\)\
+\-\ at\\:\\ 0\\.0953188989355424\ \(0\)\
+\-\ emergency\\:\\ 0\\.09361456385229325\ \(0\)\
+\-\ abnormality\\:\\ 0\\.09178016439662395\ \(0\)\
+\-\ palpable\\:\\ 0\\.08864544595080978\ \(0\)\
+\-\ factoid\\:\\ 0\\.08812032331013453\ \(0\)\
+\-\ left\\:\\ 0\\.08608489681303996\ \(0\)\
+\-\ area\\:\\ 0\\.08174065621743183\ \(0\)\
+\-\ show\\:\\ 0\\.08010140622392356\ \(0\)\
+\-\ brain\\:\\ 0\\.07865972762886814\ \(0\)\
+\-\ see\\:\\ 0\\.07849119536687835\ \(0\)\
+\-\ and\\:\\ 0\\.07822010849739493\ \(0\)\
+\-\ head\\:\\ 0\\.0752559955844127\ \(0\)\
+\-\ axial\\:\\ 0\\.07288559491073145\ \(0\)\
+\-\ evidence\\:\\ 0\\.07161945519330115\ \(0\)\
+\-\ case\\:\\ 0\\.06339101575447795\ \(0\)\
+\-\ multiple\\:\\ 0\\.06171695175954725\ \(0\)\
+\-\ after\\:\\ 0\\.061211557576042436\ \(0\)\
+\-\ presents\\:\\ 0\\.060698667862139025\ \(0\)\
+\-\ images\\:\\ 0\\.05836624168684197\ \(0\)\
+\-\ male\\:\\ 0\\.05617979630077318\ \(0\)\
+\-\ not\\:\\ 0\\.04981251347788231\ \(0\)\
+\-\ ct\\:\\ 0\\.0480375741007747\ \(0\)\
+\-\ was\\:\\ 0\\.04397467112912384\ \(0\)\
+\-\ this\\:\\ 0\\.04335741652909168\ \(0\)\
+\-\ no\\:\\ 0\\.041032012738699976\ \(0\)\
+\-\ to\\:\\ 0\\.03154453112569579\ \(0\)\
+\-\ in\\:\\ 0\\.03138926900882608\ \(0\)\
+\-\ with\\:\\ 0\\.024707448368812286\ \(0\)\

@@ -1,104 +1,101 @@
-Texto: 
-mri pelvis with and without gadolinium.  sequences include axial and coronal t1 pre without fat saturation, axial t2 fat saturation, coronal stir, and axial and coronal t1 post gadolinium
-apart from a minimally elevated erythrocyte sedimentation rate, the patients laboratory profile is normal; there is hla-b27 abnormality.  no clinical or laboratory finding of infection is present. 
-
-currently, the patient is managed with nsaids.
-1)  sclerosis and irregularity of the sacroiliac joints with only trace marrow edema and no significant enhancement to indicate an acute erosive process.
-sacroiliitis without identified etiology.
-sacroiliitis etiologies:
-idiopathic
-infection
-ankylosing spondylitis
-ibd
-psoriasis
-rheumatoid arthritis
-hyperparathyroidism
-21 yo enlisted sailor with 2 year history of bilateral hip and lower back pain with 2-3 hours morning stiffness.
-
-
-Keywords by value: 
-- sacroiliitis: 0.2834021169138855
-- coronal: 0.2534773142367942
-- saturation: 0.2203640313090048
-- axial: 0.18386099722562688
-- gadolinium: 0.17681181584019637
-- without: 0.16789079956048675
-- enlisted: 0.1621349633260008
-- laboratory: 0.15409304095285825
-- and: 0.15346942040283856
-- sailor: 0.1492426047624634
-- erythrocyte: 0.13486147250602862
-- apart: 0.13348308336124323
-- t1: 0.13221347960626356
-- fat: 0.13200111280572502
-- psoriasis: 0.13099943394090924
-- ibd: 0.12987183163052413
-- infection: 0.12818070969195153
-- sedimentation: 0.12424948547319524
-- sacroiliac: 0.12345788763538859
-- trace: 0.12269860907898052
-- profile: 0.1212671535878847
-- stir: 0.11993803531102395
-- is: 0.11622448882995813
-- ankylosing: 0.11442756763697057
-- stiffness: 0.11442756763697057
-- spondylitis: 0.11304917849218518
-- erosive: 0.11261151731675409
-- indicate: 0.10803350578350908
-- etiologies: 0.10641511664088683
-- morning: 0.10521471681383444
-- with: 0.10387823322185843
-- managed: 0.10381558060413718
-- nsaids: 0.10381558060413718
-- irregularity: 0.10276743053658795
-- hyperparathyroidism: 0.10106430438287009
-- minimally: 0.10060502816518654
-- rheumatoid: 0.09352275807734943
-- joints: 0.09119475593991193
-- idiopathic: 0.08974811078544435
-- marrow: 0.08817194581933269
-- pre: 0.08671897529776965
-- arthritis: 0.0862938198323269
-- etiology: 0.08547159792730456
-- sequences: 0.084877938754337
-- 21: 0.0847808119447764
-- currently: 0.08150304210627239
-- hip: 0.08150304210627239
-- hours: 0.08086436161457754
-- rate: 0.08039934384976861
-- process: 0.07957588076215162
-- abnormality: 0.07717479506598938
-- sclerosis: 0.07557250262862536
-- identified: 0.0752215536930673
-- pelvis: 0.07420677067504974
-- elevated: 0.0723295746518833
-- back: 0.07076085107085388
-- finding: 0.06974082420068665
-- no: 0.0690048268070158
-- clinical: 0.06724099874648924
-- only: 0.0662850704287116
-- yo: 0.0662850704287116
-- the: 0.06351220067839958
-- edema: 0.06328018777146241
-- include: 0.06312835230162672
-- of: 0.062289721839158985
-- significant: 0.06125962638187276
-- enhancement: 0.06106913723721435
-- t2: 0.061042083062604495
-- patients: 0.05968688080022977
-- post: 0.05773223005344406
-- acute: 0.057395878360223085
-- bilateral: 0.05702189105922336
-- mri: 0.05446216896938844
-- present: 0.054443199317805356
-- lower: 0.054217059854155106
-- normal: 0.04331979387641107
-- there: 0.042216739202907
-- from: 0.0421383005341421
-- an: 0.04057216706561789
-- history: 0.040536225524453316
-- pain: 0.037966375334950696
-- or: 0.03691019449874525
-- patient: 0.03450890432723979
-- year: 0.03269783695032848
-- to: 0.026524715237575287
+\-\ Texto\\:\\ \ \(0\)\
+\-\ mri\\ pelvis\\ with\\ and\\ without\\ gadolinium\\.\\ \\ sequences\\ include\\ axial\\ and\\ coronal\\ t1\\ pre\\ without\\ fat\\ saturation\\,\\ axial\\ t2\\ fat\\ saturation\\,\\ coronal\\ stir\\,\\ and\\ axial\\ and\\ coronal\\ t1\\ post\\ gadolinium\ \(0\)\
+\-\ apart\\ from\\ a\\ minimally\\ elevated\\ erythrocyte\\ sedimentation\\ rate\\,\\ the\\ patients\\ laboratory\\ profile\\ is\\ normal\\;\\ there\\ is\\ hla\\-b27\\ abnormality\\.\\ \\ no\\ clinical\\ or\\ laboratory\\ finding\\ of\\ infection\\ is\\ present\\.\\ \ \(0\)\
+\-\ currently\\,\\ the\\ patient\\ is\\ managed\\ with\\ nsaids\\.\ \(0\)\
+\-\ 1\\)\\ \\ sclerosis\\ and\\ irregularity\\ of\\ the\\ sacroiliac\\ joints\\ with\\ only\\ trace\\ marrow\\ edema\\ and\\ no\\ significant\\ enhancement\\ to\\ indicate\\ an\\ acute\\ erosive\\ process\\.\ \(0\)\
+\-\ sacroiliitis\\ without\\ identified\\ etiology\\.\ \(0\)\
+\-\ sacroiliitis\\ etiologies\\:\ \(0\)\
+\-\ idiopathic\ \(111\)\
+\-\ infection\ \(713\)\
+\-\ ankylosing\\ spondylitis\ \(23\)\
+\-\ ibd\ \(0\)\
+\-\ psoriasis\ \(16\)\
+\-\ rheumatoid\\ arthritis\ \(67\)\
+\-\ hyperparathyroidism\ \(35\)\
+\-\ 21\\ yo\\ enlisted\\ sailor\\ with\\ 2\\ year\\ history\\ of\\ bilateral\\ hip\\ and\\ lower\\ back\\ pain\\ with\\ 2\\-3\\ hours\\ morning\\ stiffness\\.\ \(1\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ sacroiliitis\\:\\ 0\\.2834021169138855\ \(0\)\
+\-\ coronal\\:\\ 0\\.2534773142367942\ \(0\)\
+\-\ saturation\\:\\ 0\\.2203640313090048\ \(0\)\
+\-\ axial\\:\\ 0\\.18386099722562688\ \(0\)\
+\-\ gadolinium\\:\\ 0\\.17681181584019637\ \(0\)\
+\-\ without\\:\\ 0\\.16789079956048675\ \(0\)\
+\-\ enlisted\\:\\ 0\\.1621349633260008\ \(0\)\
+\-\ laboratory\\:\\ 0\\.15409304095285825\ \(0\)\
+\-\ and\\:\\ 0\\.15346942040283856\ \(0\)\
+\-\ sailor\\:\\ 0\\.1492426047624634\ \(0\)\
+\-\ erythrocyte\\:\\ 0\\.13486147250602862\ \(0\)\
+\-\ apart\\:\\ 0\\.13348308336124323\ \(0\)\
+\-\ t1\\:\\ 0\\.13221347960626356\ \(0\)\
+\-\ fat\\:\\ 0\\.13200111280572502\ \(0\)\
+\-\ psoriasis\\:\\ 0\\.13099943394090924\ \(0\)\
+\-\ ibd\\:\\ 0\\.12987183163052413\ \(0\)\
+\-\ infection\\:\\ 0\\.12818070969195153\ \(0\)\
+\-\ sedimentation\\:\\ 0\\.12424948547319524\ \(0\)\
+\-\ sacroiliac\\:\\ 0\\.12345788763538859\ \(0\)\
+\-\ trace\\:\\ 0\\.12269860907898052\ \(0\)\
+\-\ profile\\:\\ 0\\.1212671535878847\ \(0\)\
+\-\ stir\\:\\ 0\\.11993803531102395\ \(0\)\
+\-\ is\\:\\ 0\\.11622448882995813\ \(0\)\
+\-\ ankylosing\\:\\ 0\\.11442756763697057\ \(0\)\
+\-\ stiffness\\:\\ 0\\.11442756763697057\ \(0\)\
+\-\ spondylitis\\:\\ 0\\.11304917849218518\ \(0\)\
+\-\ erosive\\:\\ 0\\.11261151731675409\ \(0\)\
+\-\ indicate\\:\\ 0\\.10803350578350908\ \(0\)\
+\-\ etiologies\\:\\ 0\\.10641511664088683\ \(0\)\
+\-\ morning\\:\\ 0\\.10521471681383444\ \(0\)\
+\-\ with\\:\\ 0\\.10387823322185843\ \(0\)\
+\-\ managed\\:\\ 0\\.10381558060413718\ \(0\)\
+\-\ nsaids\\:\\ 0\\.10381558060413718\ \(0\)\
+\-\ irregularity\\:\\ 0\\.10276743053658795\ \(0\)\
+\-\ hyperparathyroidism\\:\\ 0\\.10106430438287009\ \(0\)\
+\-\ minimally\\:\\ 0\\.10060502816518654\ \(0\)\
+\-\ rheumatoid\\:\\ 0\\.09352275807734943\ \(0\)\
+\-\ joints\\:\\ 0\\.09119475593991193\ \(0\)\
+\-\ idiopathic\\:\\ 0\\.08974811078544435\ \(0\)\
+\-\ marrow\\:\\ 0\\.08817194581933269\ \(0\)\
+\-\ pre\\:\\ 0\\.08671897529776965\ \(0\)\
+\-\ arthritis\\:\\ 0\\.0862938198323269\ \(0\)\
+\-\ etiology\\:\\ 0\\.08547159792730456\ \(0\)\
+\-\ sequences\\:\\ 0\\.084877938754337\ \(0\)\
+\-\ 21\\:\\ 0\\.0847808119447764\ \(0\)\
+\-\ currently\\:\\ 0\\.08150304210627239\ \(0\)\
+\-\ hip\\:\\ 0\\.08150304210627239\ \(0\)\
+\-\ hours\\:\\ 0\\.08086436161457754\ \(0\)\
+\-\ rate\\:\\ 0\\.08039934384976861\ \(0\)\
+\-\ process\\:\\ 0\\.07957588076215162\ \(0\)\
+\-\ abnormality\\:\\ 0\\.07717479506598938\ \(0\)\
+\-\ sclerosis\\:\\ 0\\.07557250262862536\ \(0\)\
+\-\ identified\\:\\ 0\\.0752215536930673\ \(0\)\
+\-\ pelvis\\:\\ 0\\.07420677067504974\ \(0\)\
+\-\ elevated\\:\\ 0\\.0723295746518833\ \(0\)\
+\-\ back\\:\\ 0\\.07076085107085388\ \(0\)\
+\-\ finding\\:\\ 0\\.06974082420068665\ \(0\)\
+\-\ no\\:\\ 0\\.0690048268070158\ \(0\)\
+\-\ clinical\\:\\ 0\\.06724099874648924\ \(0\)\
+\-\ only\\:\\ 0\\.0662850704287116\ \(0\)\
+\-\ yo\\:\\ 0\\.0662850704287116\ \(0\)\
+\-\ the\\:\\ 0\\.06351220067839958\ \(0\)\
+\-\ edema\\:\\ 0\\.06328018777146241\ \(0\)\
+\-\ include\\:\\ 0\\.06312835230162672\ \(0\)\
+\-\ of\\:\\ 0\\.062289721839158985\ \(0\)\
+\-\ significant\\:\\ 0\\.06125962638187276\ \(0\)\
+\-\ enhancement\\:\\ 0\\.06106913723721435\ \(0\)\
+\-\ t2\\:\\ 0\\.061042083062604495\ \(0\)\
+\-\ patients\\:\\ 0\\.05968688080022977\ \(0\)\
+\-\ post\\:\\ 0\\.05773223005344406\ \(0\)\
+\-\ acute\\:\\ 0\\.057395878360223085\ \(0\)\
+\-\ bilateral\\:\\ 0\\.05702189105922336\ \(0\)\
+\-\ mri\\:\\ 0\\.05446216896938844\ \(0\)\
+\-\ present\\:\\ 0\\.054443199317805356\ \(0\)\
+\-\ lower\\:\\ 0\\.054217059854155106\ \(0\)\
+\-\ normal\\:\\ 0\\.04331979387641107\ \(0\)\
+\-\ there\\:\\ 0\\.042216739202907\ \(0\)\
+\-\ from\\:\\ 0\\.0421383005341421\ \(0\)\
+\-\ an\\:\\ 0\\.04057216706561789\ \(0\)\
+\-\ history\\:\\ 0\\.040536225524453316\ \(0\)\
+\-\ pain\\:\\ 0\\.037966375334950696\ \(0\)\
+\-\ or\\:\\ 0\\.03691019449874525\ \(0\)\
+\-\ patient\\:\\ 0\\.03450890432723979\ \(0\)\
+\-\ year\\:\\ 0\\.03269783695032848\ \(0\)\
+\-\ to\\:\\ 0\\.026524715237575287\ \(0\)\

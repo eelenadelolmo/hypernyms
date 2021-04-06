@@ -1,214 +1,210 @@
-Texto: 
-afebrile, vss.
-
-(+) left cheek/neck swelling.
-
-exam otherwise benign.
-observation and routine follow-up in pediatric and ent clinics. hemangioma is a clinical diagnosis given the appropriate age group and presentation.  imaging is used primarily to rule out other rare causes (e.g. other types of tumors, vascular malformations).
-multiplanar, bilateral gray scale and limited doppler ultrasound of the neck reveals a 3.1 x 2.3 cm heterogeneous, hypervascular, predominantly isoechoic mass in the left parotid gland.  subsequent magnetic resonance imaging with and without contrast demonstrates a lobular mass centered in left parotid gland, with extension into the left infratemporal fossa and parapharyngeal space along the lateral border of the left internal jugular vein. there is additional insinuation of the mass between the left sternocleidomastoid muscle and levator scapularis muscle.  contrast enhancement is intense and homogeneous, and there are numerous prominent flow voids within this mass.
-infantile hemangioma, parotid
-(1) infantile hemangioma is the most common infant tumor and most common pediatric tumor of the parotid gland. 
-(2) malignant tumors (rhabdomyosarcoma, metastatic tumors, teratoma, primary parotid cancer, and lymphoproliferative disease), which account for 20% of parotid neoplasms, should be ruled out if necessary, especially in older children. (3) benign tumors (warthin tumor, adenomas, cystic hygroma/lymphangioma, lipoblastoma, etc.) account for 80% of parotid neoplasms. 
-(4) inflammatory or infectious causes (cervical adenitis, abscess, tuberculosis, and sarcoidosis) are unlikely in a healthy two month old infant. 
-(5) miscellaneous rare causes (developmental cysts or fistulas, congenital fibromatosis of sternocleidomastoid, fibrodysplasia ossificans progressiva) are at the bottom of the differential.
-the patient is a healthy 2 month old baby girl with a rapidly enlarging neck mass.  the mass was not noted on initial newborn exam at birth.  she was an appropriate for gestational age baby delivered via cesarean section at 37 weeks after failure to progress with induction, in a mother with preeclampsia.
-
-
-Keywords by value: 
-- parotid: 0.10892647875103621
-- tumors: 0.03432851719433691
-- sternocleidomastoid: 0.03266025787627961
-- hemangioma: 0.03062812419948436
-- infantile: 0.029718833614679228
-- gland: 0.02919279698978077
-- causes: 0.02668380238884876
-- account: 0.025810344264183015
-- cheek/neck: 0.02357090487691577
-- insinuation: 0.02357090487691577
-- scapularis: 0.02357090487691577
-- hygroma/lymphangioma: 0.02357090487691577
-- lipoblastoma: 0.02357090487691577
-- neoplasms: 0.023259948156748204
-- baby: 0.022254321250315373
-- pediatric: 0.02200555111323038
-- fibrodysplasia: 0.021717570169536238
-- infant: 0.02163012727005793
-- appropriate: 0.02154024963200242
-- (: 0.021245933124819427
-- ): 0.020986402709214855
-- progressiva: 0.02063343886443419
-- preeclampsia: 0.02063343886443419
-- healthy: 0.020602533656184977
-- lymphoproliferative: 0.019267594950621383
-- miscellaneous: 0.019267594950621383
-- mass: 0.019066219362795154
-- infratemporal: 0.01878010415705466
-- warthin: 0.01878010415705466
-- levator: 0.018367936563933648
-- ,: 0.018095592614791937
-- induction: 0.01801090075477717
-- rare: 0.017745188228199444
-- clinics: 0.016712751514719147
-- parapharyngeal: 0.016712751514719147
-- cesarean: 0.016712751514719147
-- 2.3: 0.016514601856554116
-- isoechoic: 0.016514601856554116
-- fibromatosis: 0.016514601856554116
-- bottom: 0.016514601856554116
-- muscle: 0.016413450446130184
-- tumor: 0.015980473007573354
-- adenitis: 0.015842638144573085
-- benign: 0.015770322818359366
-- fistulas: 0.015698073381818337
-- 3.1: 0.015430470551452071
-- left: 0.015338587207586869
-- ossificans: 0.015306085482909577
-- adenomas: 0.015187230502773659
-- out: 0.015101892389617733
-- vss: 0.014964285024326998
-- multiplanar: 0.014758506839471039
-- delivered: 0.014567440090855678
-- age: 0.013908611366547093
-- month: 0.013709168667382938
-- ent: 0.013707590828482785
-- hypervascular: 0.013514220075596084
-- neck: 0.01341841249742504
-- resonance: 0.01339266292565823
-- centered: 0.01339266292565823
-- magnetic: 0.013110950316947464
-- jugular: 0.013110950316947464
-- scale: 0.013058002115620781
-- voids: 0.013058002115620781
-- lobular: 0.012905172132091507
-- progress: 0.012905172132091507
-- rhabdomyosarcoma: 0.012856110263994724
-- malformations: 0.01276060736933676
-- ruled: 0.012714105383476147
-- rapidly: 0.012668398342408498
-- newborn: 0.012450896632638571
-- etc: 0.012368619470428
-- section: 0.012249764490292081
-- gestational: 0.012173365098730436
-- e.g: 0.012099088189353227
-- intense: 0.012099088189353227
-- primarily: 0.01199140396705927
-- common: 0.011958648192280198
-- group: 0.011887889228608227
-- +: 0.011788233092786751
-- observation: 0.011723801136693005
-- types: 0.01166088536821655
-- enlarging: 0.011629974078374102
-- older: 0.011509783201737027
-- 37: 0.011480561088014592
-- gray: 0.011178581378975568
-- doppler: 0.011051837424711974
-- birth: 0.010978578135438942
-- border: 0.010883920576479272
-- tuberculosis: 0.010883920576479272
-- unlikely: 0.010883920576479272
-- homogeneous: 0.010815063635028965
-- 80: 0.01074793550366245
-- imaging: 0.010706277136126216
-- predominantly: 0.010704101787684706
-- teratoma: 0.010682451492945083
-- %: 0.010659470766556189
-- developmental: 0.010618532987989055
-- afebrile: 0.010556106881045229
-- most: 0.010549920544000406
-- other: 0.010532826463649458
-- mother: 0.01043546400596376
-- sarcoidosis: 0.010320030391350902
-- numerous: 0.010245753481973695
-- contrast: 0.010228746988277568
-- necessary: 0.010120536103139205
-- exam: 0.010038684170853145
-- children: 0.009870466429313473
-- 2: 0.0098401309973826
-- infectious: 0.009823141356855181
-- via: 0.009807550660837019
-- limited: 0.009641797516377212
-- rule: 0.009541428748144417
-- especially: 0.0094042809021884
-- prominent: 0.009377675739479393
-- are: 0.009343908068419267
-- fossa: 0.009312298477810505
-- at: 0.00928687020987941
-- routine: 0.00916162217687165
-- additional: 0.00916162217687165
-- is: 0.009020707674621268
-- cysts: 0.008950423216126649
-- failure: 0.008950423216126649
-- reveals: 0.008939165107740704
-- subsequent: 0.008894600796282919
-- used: 0.008765198280609524
-- heterogeneous: 0.008401591328328892
-- congenital: 0.008356040025781919
-- cervical: 0.008302383440084568
-- vein: 0.008267201395759672
-- malignant: 0.008258477744329681
-- 20: 0.008215281380098973
-- otherwise: 0.008206725223065092
-- extension: 0.00815595540422902
-- girl: 0.00803309473526684
-- inflammatory: 0.007923304663615037
-- presentation: 0.007870055172436049
-- given: 0.007832658803519632
-- internal: 0.0076600959127774634
-- swelling: 0.007611793753960247
-- initial: 0.007571075249409914
-- space: 0.007557639056354638
-- along: 0.007550946194808866
-- flow: 0.007550946194808866
-- x: 0.007537610522319457
-- cancer: 0.007511137070494025
-- vascular: 0.007491452588031274
-- follow-up: 0.007433253987812144
-- a: 0.0074229909431289005
-- should: 0.007283980058526203
-- differential: 0.007253903287039918
-- between: 0.007241966674396374
-- abscess: 0.007224161080572907
-- clinical: 0.007030240107128353
-- there: 0.006800617949010634
-- ultrasound: 0.006778402633706693
-- primary: 0.006768407120041968
-- in: 0.0067603833712340375
-- 5: 0.006684920915626105
-- cystic: 0.006589927024737321
-- two: 0.006543666410737983
-- weeks: 0.006484699884762428
-- she: 0.006413866688380139
-- 4: 0.006366235040585682
-- if: 0.006199848753424158
-- cm: 0.006128224913949159
-- enhancement: 0.006124301513697957
-- for: 0.005848461085369373
-- and: 0.005775690023493641
-- metastatic: 0.005751629421433396
-- bilateral: 0.005544967190680331
-- into: 0.005436701518608842
-- 1: 0.005436701518608842
-- noted: 0.005415564675006934
-- without: 0.00537971434855123
-- or: 0.005355736625474372
-- 3: 0.005350201943065614
-- was: 0.005284906535902068
-- diagnosis: 0.005246575750749785
-- the: 0.005175106914039468
-- demonstrates: 0.0049909657798213524
-- lateral: 0.0049376150952528085
-- after: 0.004727275942805354
-- old: 0.004678794635627029
-- within: 0.00435864012937455
-- which: 0.004265092479258151
-- disease: 0.003734592356191722
-- be: 0.003523413698780559
-- not: 0.003301654202518544
-- an: 0.0031595317226864434
-- of: 0.0028035673988820744
-- this: 0.0025698855970966122
-- patient: 0.00229035275646093
-- to: 0.002283786676165702
-- on: 0.001935537466217722
-- .: 0.0018983709142965921
-- with: 0.001564226953073392
+\-\ Texto\\:\\ \ \(0\)\
+\-\ afebrile\\,\\ vss\\.\ \(0\)\
+\-\ \\(\\+\\)\\ left\\ cheek\\/neck\\ swelling\\.\ \(1\)\
+\-\ exam\\ otherwise\\ benign\\.\ \(0\)\
+\-\ observation\\ and\\ routine\\ follow\\-up\\ in\\ pediatric\\ and\\ ent\\ clinics\\.\\ hemangioma\\ is\\ a\\ clinical\\ diagnosis\\ given\\ the\\ appropriate\\ age\\ group\\ and\\ presentation\\.\\ \\ imaging\\ is\\ used\\ primarily\\ to\\ rule\\ out\\ other\\ rare\\ causes\\ \\(e\\.g\\.\\ other\\ types\\ of\\ tumors\\,\\ vascular\\ malformations\\)\\.\ \(0\)\
+\-\ multiplanar\\,\\ bilateral\\ gray\\ scale\\ and\\ limited\\ doppler\\ ultrasound\\ of\\ the\\ neck\\ reveals\\ a\\ 3\\.1\\ x\\ 2\\.3\\ cm\\ heterogeneous\\,\\ hypervascular\\,\\ predominantly\\ isoechoic\\ mass\\ in\\ the\\ left\\ parotid\\ gland\\.\\ \\ subsequent\\ magnetic\\ resonance\\ imaging\\ with\\ and\\ without\\ contrast\\ demonstrates\\ a\\ lobular\\ mass\\ centered\\ in\\ left\\ parotid\\ gland\\,\\ with\\ extension\\ into\\ the\\ left\\ infratemporal\\ fossa\\ and\\ parapharyngeal\\ space\\ along\\ the\\ lateral\\ border\\ of\\ the\\ left\\ internal\\ jugular\\ vein\\.\\ there\\ is\\ additional\\ insinuation\\ of\\ the\\ mass\\ between\\ the\\ left\\ sternocleidomastoid\\ muscle\\ and\\ levator\\ scapularis\\ muscle\\.\\ \\ contrast\\ enhancement\\ is\\ intense\\ and\\ homogeneous\\,\\ and\\ there\\ are\\ numerous\\ prominent\\ flow\\ voids\\ within\\ this\\ mass\\.\ \(0\)\
+\-\ infantile\\ hemangioma\\,\\ parotid\ \(0\)\
+\-\ \\(1\\)\\ infantile\\ hemangioma\\ is\\ the\\ most\\ common\\ infant\\ tumor\\ and\\ most\\ common\\ pediatric\\ tumor\\ of\\ the\\ parotid\\ gland\\.\\ \ \(0\)\
+\-\ \\(2\\)\\ malignant\\ tumors\\ \\(rhabdomyosarcoma\\,\\ metastatic\\ tumors\\,\\ teratoma\\,\\ primary\\ parotid\\ cancer\\,\\ and\\ lymphoproliferative\\ disease\\)\\,\\ which\\ account\\ for\\ 20\\%\\ of\\ parotid\\ neoplasms\\,\\ should\\ be\\ ruled\\ out\\ if\\ necessary\\,\\ especially\\ in\\ older\\ children\\.\\ \\(3\\)\\ benign\\ tumors\\ \\(warthin\\ tumor\\,\\ adenomas\\,\\ cystic\\ hygroma\\/lymphangioma\\,\\ lipoblastoma\\,\\ etc\\.\\)\\ account\\ for\\ 80\\%\\ of\\ parotid\\ neoplasms\\.\\ \ \(0\)\
+\-\ \\(4\\)\\ inflammatory\\ or\\ infectious\\ causes\\ \\(cervical\\ adenitis\\,\\ abscess\\,\\ tuberculosis\\,\\ and\\ sarcoidosis\\)\\ are\\ unlikely\\ in\\ a\\ healthy\\ two\\ month\\ old\\ infant\\.\\ \ \(0\)\
+\-\ \\(5\\)\\ miscellaneous\\ rare\\ causes\\ \\(developmental\\ cysts\\ or\\ fistulas\\,\\ congenital\\ fibromatosis\\ of\\ sternocleidomastoid\\,\\ fibrodysplasia\\ ossificans\\ progressiva\\)\\ are\\ at\\ the\\ bottom\\ of\\ the\\ differential\\.\ \(0\)\
+\-\ the\\ patient\\ is\\ a\\ healthy\\ 2\\ month\\ old\\ baby\\ girl\\ with\\ a\\ rapidly\\ enlarging\\ neck\\ mass\\.\\ \\ the\\ mass\\ was\\ not\\ noted\\ on\\ initial\\ newborn\\ exam\\ at\\ birth\\.\\ \\ she\\ was\\ an\\ appropriate\\ for\\ gestational\\ age\\ baby\\ delivered\\ via\\ cesarean\\ section\\ at\\ 37\\ weeks\\ after\\ failure\\ to\\ progress\\ with\\ induction\\,\\ in\\ a\\ mother\\ with\\ preeclampsia\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ parotid\\:\\ 0\\.10892647875103621\ \(0\)\
+\-\ tumors\\:\\ 0\\.03432851719433691\ \(0\)\
+\-\ sternocleidomastoid\\:\\ 0\\.03266025787627961\ \(0\)\
+\-\ hemangioma\\:\\ 0\\.03062812419948436\ \(0\)\
+\-\ infantile\\:\\ 0\\.029718833614679228\ \(0\)\
+\-\ gland\\:\\ 0\\.02919279698978077\ \(0\)\
+\-\ causes\\:\\ 0\\.02668380238884876\ \(0\)\
+\-\ account\\:\\ 0\\.025810344264183015\ \(0\)\
+\-\ cheek\\/neck\\:\\ 0\\.02357090487691577\ \(0\)\
+\-\ insinuation\\:\\ 0\\.02357090487691577\ \(0\)\
+\-\ scapularis\\:\\ 0\\.02357090487691577\ \(0\)\
+\-\ hygroma\\/lymphangioma\\:\\ 0\\.02357090487691577\ \(0\)\
+\-\ lipoblastoma\\:\\ 0\\.02357090487691577\ \(0\)\
+\-\ neoplasms\\:\\ 0\\.023259948156748204\ \(0\)\
+\-\ baby\\:\\ 0\\.022254321250315373\ \(0\)\
+\-\ pediatric\\:\\ 0\\.02200555111323038\ \(0\)\
+\-\ fibrodysplasia\\:\\ 0\\.021717570169536238\ \(0\)\
+\-\ infant\\:\\ 0\\.02163012727005793\ \(0\)\
+\-\ appropriate\\:\\ 0\\.02154024963200242\ \(0\)\
+\-\ \\(\\:\\ 0\\.021245933124819427\ \(0\)\
+\-\ \\)\\:\\ 0\\.020986402709214855\ \(0\)\
+\-\ progressiva\\:\\ 0\\.02063343886443419\ \(0\)\
+\-\ preeclampsia\\:\\ 0\\.02063343886443419\ \(0\)\
+\-\ healthy\\:\\ 0\\.020602533656184977\ \(0\)\
+\-\ lymphoproliferative\\:\\ 0\\.019267594950621383\ \(0\)\
+\-\ miscellaneous\\:\\ 0\\.019267594950621383\ \(0\)\
+\-\ mass\\:\\ 0\\.019066219362795154\ \(0\)\
+\-\ infratemporal\\:\\ 0\\.01878010415705466\ \(0\)\
+\-\ warthin\\:\\ 0\\.01878010415705466\ \(0\)\
+\-\ levator\\:\\ 0\\.018367936563933648\ \(0\)\
+\-\ \\,\\:\\ 0\\.018095592614791937\ \(0\)\
+\-\ induction\\:\\ 0\\.01801090075477717\ \(0\)\
+\-\ rare\\:\\ 0\\.017745188228199444\ \(0\)\
+\-\ clinics\\:\\ 0\\.016712751514719147\ \(0\)\
+\-\ parapharyngeal\\:\\ 0\\.016712751514719147\ \(0\)\
+\-\ cesarean\\:\\ 0\\.016712751514719147\ \(0\)\
+\-\ 2\\.3\\:\\ 0\\.016514601856554116\ \(0\)\
+\-\ isoechoic\\:\\ 0\\.016514601856554116\ \(0\)\
+\-\ fibromatosis\\:\\ 0\\.016514601856554116\ \(0\)\
+\-\ bottom\\:\\ 0\\.016514601856554116\ \(0\)\
+\-\ muscle\\:\\ 0\\.016413450446130184\ \(0\)\
+\-\ tumor\\:\\ 0\\.015980473007573354\ \(0\)\
+\-\ adenitis\\:\\ 0\\.015842638144573085\ \(0\)\
+\-\ benign\\:\\ 0\\.015770322818359366\ \(0\)\
+\-\ fistulas\\:\\ 0\\.015698073381818337\ \(0\)\
+\-\ 3\\.1\\:\\ 0\\.015430470551452071\ \(0\)\
+\-\ left\\:\\ 0\\.015338587207586869\ \(0\)\
+\-\ ossificans\\:\\ 0\\.015306085482909577\ \(0\)\
+\-\ adenomas\\:\\ 0\\.015187230502773659\ \(0\)\
+\-\ out\\:\\ 0\\.015101892389617733\ \(0\)\
+\-\ vss\\:\\ 0\\.014964285024326998\ \(0\)\
+\-\ multiplanar\\:\\ 0\\.014758506839471039\ \(0\)\
+\-\ delivered\\:\\ 0\\.014567440090855678\ \(0\)\
+\-\ age\\:\\ 0\\.013908611366547093\ \(0\)\
+\-\ month\\:\\ 0\\.013709168667382938\ \(0\)\
+\-\ ent\\:\\ 0\\.013707590828482785\ \(0\)\
+\-\ hypervascular\\:\\ 0\\.013514220075596084\ \(0\)\
+\-\ neck\\:\\ 0\\.01341841249742504\ \(0\)\
+\-\ resonance\\:\\ 0\\.01339266292565823\ \(0\)\
+\-\ centered\\:\\ 0\\.01339266292565823\ \(0\)\
+\-\ magnetic\\:\\ 0\\.013110950316947464\ \(0\)\
+\-\ jugular\\:\\ 0\\.013110950316947464\ \(0\)\
+\-\ scale\\:\\ 0\\.013058002115620781\ \(0\)\
+\-\ voids\\:\\ 0\\.013058002115620781\ \(0\)\
+\-\ lobular\\:\\ 0\\.012905172132091507\ \(0\)\
+\-\ progress\\:\\ 0\\.012905172132091507\ \(0\)\
+\-\ rhabdomyosarcoma\\:\\ 0\\.012856110263994724\ \(0\)\
+\-\ malformations\\:\\ 0\\.01276060736933676\ \(0\)\
+\-\ ruled\\:\\ 0\\.012714105383476147\ \(0\)\
+\-\ rapidly\\:\\ 0\\.012668398342408498\ \(0\)\
+\-\ newborn\\:\\ 0\\.012450896632638571\ \(0\)\
+\-\ etc\\:\\ 0\\.012368619470428\ \(0\)\
+\-\ section\\:\\ 0\\.012249764490292081\ \(0\)\
+\-\ gestational\\:\\ 0\\.012173365098730436\ \(0\)\
+\-\ e\\.g\\:\\ 0\\.012099088189353227\ \(0\)\
+\-\ intense\\:\\ 0\\.012099088189353227\ \(0\)\
+\-\ primarily\\:\\ 0\\.01199140396705927\ \(0\)\
+\-\ common\\:\\ 0\\.011958648192280198\ \(0\)\
+\-\ group\\:\\ 0\\.011887889228608227\ \(0\)\
+\-\ \\+\\:\\ 0\\.011788233092786751\ \(0\)\
+\-\ observation\\:\\ 0\\.011723801136693005\ \(0\)\
+\-\ types\\:\\ 0\\.01166088536821655\ \(0\)\
+\-\ enlarging\\:\\ 0\\.011629974078374102\ \(0\)\
+\-\ older\\:\\ 0\\.011509783201737027\ \(0\)\
+\-\ 37\\:\\ 0\\.011480561088014592\ \(0\)\
+\-\ gray\\:\\ 0\\.011178581378975568\ \(0\)\
+\-\ doppler\\:\\ 0\\.011051837424711974\ \(0\)\
+\-\ birth\\:\\ 0\\.010978578135438942\ \(0\)\
+\-\ border\\:\\ 0\\.010883920576479272\ \(0\)\
+\-\ tuberculosis\\:\\ 0\\.010883920576479272\ \(0\)\
+\-\ unlikely\\:\\ 0\\.010883920576479272\ \(0\)\
+\-\ homogeneous\\:\\ 0\\.010815063635028965\ \(0\)\
+\-\ 80\\:\\ 0\\.01074793550366245\ \(0\)\
+\-\ imaging\\:\\ 0\\.010706277136126216\ \(0\)\
+\-\ predominantly\\:\\ 0\\.010704101787684706\ \(0\)\
+\-\ teratoma\\:\\ 0\\.010682451492945083\ \(0\)\
+\-\ \\%\\:\\ 0\\.010659470766556189\ \(0\)\
+\-\ developmental\\:\\ 0\\.010618532987989055\ \(0\)\
+\-\ afebrile\\:\\ 0\\.010556106881045229\ \(0\)\
+\-\ most\\:\\ 0\\.010549920544000406\ \(0\)\
+\-\ other\\:\\ 0\\.010532826463649458\ \(0\)\
+\-\ mother\\:\\ 0\\.01043546400596376\ \(0\)\
+\-\ sarcoidosis\\:\\ 0\\.010320030391350902\ \(0\)\
+\-\ numerous\\:\\ 0\\.010245753481973695\ \(0\)\
+\-\ contrast\\:\\ 0\\.010228746988277568\ \(0\)\
+\-\ necessary\\:\\ 0\\.010120536103139205\ \(0\)\
+\-\ exam\\:\\ 0\\.010038684170853145\ \(0\)\
+\-\ children\\:\\ 0\\.009870466429313473\ \(0\)\
+\-\ 2\\:\\ 0\\.0098401309973826\ \(0\)\
+\-\ infectious\\:\\ 0\\.009823141356855181\ \(0\)\
+\-\ via\\:\\ 0\\.009807550660837019\ \(0\)\
+\-\ limited\\:\\ 0\\.009641797516377212\ \(0\)\
+\-\ rule\\:\\ 0\\.009541428748144417\ \(0\)\
+\-\ especially\\:\\ 0\\.0094042809021884\ \(0\)\
+\-\ prominent\\:\\ 0\\.009377675739479393\ \(0\)\
+\-\ are\\:\\ 0\\.009343908068419267\ \(0\)\
+\-\ fossa\\:\\ 0\\.009312298477810505\ \(0\)\
+\-\ at\\:\\ 0\\.00928687020987941\ \(0\)\
+\-\ routine\\:\\ 0\\.00916162217687165\ \(0\)\
+\-\ additional\\:\\ 0\\.00916162217687165\ \(0\)\
+\-\ is\\:\\ 0\\.009020707674621268\ \(0\)\
+\-\ cysts\\:\\ 0\\.008950423216126649\ \(0\)\
+\-\ failure\\:\\ 0\\.008950423216126649\ \(0\)\
+\-\ reveals\\:\\ 0\\.008939165107740704\ \(0\)\
+\-\ subsequent\\:\\ 0\\.008894600796282919\ \(0\)\
+\-\ used\\:\\ 0\\.008765198280609524\ \(0\)\
+\-\ heterogeneous\\:\\ 0\\.008401591328328892\ \(0\)\
+\-\ congenital\\:\\ 0\\.008356040025781919\ \(0\)\
+\-\ cervical\\:\\ 0\\.008302383440084568\ \(0\)\
+\-\ vein\\:\\ 0\\.008267201395759672\ \(0\)\
+\-\ malignant\\:\\ 0\\.008258477744329681\ \(0\)\
+\-\ 20\\:\\ 0\\.008215281380098973\ \(0\)\
+\-\ otherwise\\:\\ 0\\.008206725223065092\ \(0\)\
+\-\ extension\\:\\ 0\\.00815595540422902\ \(0\)\
+\-\ girl\\:\\ 0\\.00803309473526684\ \(0\)\
+\-\ inflammatory\\:\\ 0\\.007923304663615037\ \(0\)\
+\-\ presentation\\:\\ 0\\.007870055172436049\ \(0\)\
+\-\ given\\:\\ 0\\.007832658803519632\ \(0\)\
+\-\ internal\\:\\ 0\\.0076600959127774634\ \(0\)\
+\-\ swelling\\:\\ 0\\.007611793753960247\ \(0\)\
+\-\ initial\\:\\ 0\\.007571075249409914\ \(0\)\
+\-\ space\\:\\ 0\\.007557639056354638\ \(0\)\
+\-\ along\\:\\ 0\\.007550946194808866\ \(0\)\
+\-\ flow\\:\\ 0\\.007550946194808866\ \(0\)\
+\-\ x\\:\\ 0\\.007537610522319457\ \(0\)\
+\-\ cancer\\:\\ 0\\.007511137070494025\ \(0\)\
+\-\ vascular\\:\\ 0\\.007491452588031274\ \(0\)\
+\-\ follow\\-up\\:\\ 0\\.007433253987812144\ \(0\)\
+\-\ a\\:\\ 0\\.0074229909431289005\ \(0\)\
+\-\ should\\:\\ 0\\.007283980058526203\ \(0\)\
+\-\ differential\\:\\ 0\\.007253903287039918\ \(0\)\
+\-\ between\\:\\ 0\\.007241966674396374\ \(0\)\
+\-\ abscess\\:\\ 0\\.007224161080572907\ \(0\)\
+\-\ clinical\\:\\ 0\\.007030240107128353\ \(0\)\
+\-\ there\\:\\ 0\\.006800617949010634\ \(0\)\
+\-\ ultrasound\\:\\ 0\\.006778402633706693\ \(0\)\
+\-\ primary\\:\\ 0\\.006768407120041968\ \(0\)\
+\-\ in\\:\\ 0\\.0067603833712340375\ \(0\)\
+\-\ 5\\:\\ 0\\.006684920915626105\ \(0\)\
+\-\ cystic\\:\\ 0\\.006589927024737321\ \(0\)\
+\-\ two\\:\\ 0\\.006543666410737983\ \(0\)\
+\-\ weeks\\:\\ 0\\.006484699884762428\ \(0\)\
+\-\ she\\:\\ 0\\.006413866688380139\ \(0\)\
+\-\ 4\\:\\ 0\\.006366235040585682\ \(0\)\
+\-\ if\\:\\ 0\\.006199848753424158\ \(0\)\
+\-\ cm\\:\\ 0\\.006128224913949159\ \(0\)\
+\-\ enhancement\\:\\ 0\\.006124301513697957\ \(0\)\
+\-\ for\\:\\ 0\\.005848461085369373\ \(0\)\
+\-\ and\\:\\ 0\\.005775690023493641\ \(0\)\
+\-\ metastatic\\:\\ 0\\.005751629421433396\ \(0\)\
+\-\ bilateral\\:\\ 0\\.005544967190680331\ \(0\)\
+\-\ into\\:\\ 0\\.005436701518608842\ \(0\)\
+\-\ 1\\:\\ 0\\.005436701518608842\ \(0\)\
+\-\ noted\\:\\ 0\\.005415564675006934\ \(0\)\
+\-\ without\\:\\ 0\\.00537971434855123\ \(0\)\
+\-\ or\\:\\ 0\\.005355736625474372\ \(0\)\
+\-\ 3\\:\\ 0\\.005350201943065614\ \(0\)\
+\-\ was\\:\\ 0\\.005284906535902068\ \(0\)\
+\-\ diagnosis\\:\\ 0\\.005246575750749785\ \(0\)\
+\-\ the\\:\\ 0\\.005175106914039468\ \(0\)\
+\-\ demonstrates\\:\\ 0\\.0049909657798213524\ \(0\)\
+\-\ lateral\\:\\ 0\\.0049376150952528085\ \(0\)\
+\-\ after\\:\\ 0\\.004727275942805354\ \(0\)\
+\-\ old\\:\\ 0\\.004678794635627029\ \(0\)\
+\-\ within\\:\\ 0\\.00435864012937455\ \(0\)\
+\-\ which\\:\\ 0\\.004265092479258151\ \(0\)\
+\-\ disease\\:\\ 0\\.003734592356191722\ \(0\)\
+\-\ be\\:\\ 0\\.003523413698780559\ \(0\)\
+\-\ not\\:\\ 0\\.003301654202518544\ \(0\)\
+\-\ an\\:\\ 0\\.0031595317226864434\ \(0\)\
+\-\ of\\:\\ 0\\.0028035673988820744\ \(0\)\
+\-\ this\\:\\ 0\\.0025698855970966122\ \(0\)\
+\-\ patient\\:\\ 0\\.00229035275646093\ \(0\)\
+\-\ to\\:\\ 0\\.002283786676165702\ \(0\)\
+\-\ on\\:\\ 0\\.001935537466217722\ \(0\)\
+\-\ \\.\\:\\ 0\\.0018983709142965921\ \(0\)\
+\-\ with\\:\\ 0\\.001564226953073392\ \(0\)\

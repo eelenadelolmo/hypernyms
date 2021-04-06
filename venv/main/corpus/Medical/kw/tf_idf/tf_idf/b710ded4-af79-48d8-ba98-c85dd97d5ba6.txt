@@ -1,121 +1,118 @@
-Texto: 
-vitals stable-
-head circumference has crossed two standard deviations since birth at last check up at 4 months of age.
-at time of imaging- the sedation unit was notified as well as the on-call pediatrician to initiate work up for non-accidental trauma
-ct-head: demonstrates bilateral extra axial subdural fluid collections with hu measurements greater than 20.  there is mass effect with displacement of the bilateral cerebral hemispheres caudally
-
-mri-brain:  extra-axial fluid collections that demonstrate varying signal intensity on flair and t1 weighted imaging suggestive of hemorrhagic collections of different ages. there is magnetic susceptibility artifact at the junction of the extra axial collection with the cortex on gre imaging consistent with hemosiderin
-child abuse, subdural hematoma, retinal hemorrhage
-non-accidental trauma
-accidental trauma 
-bleeding diathesis
-birth injury
-4 month old infant presents with increasing head circumference- rule out hydrocephalus
-
-
-Keywords by value: 
-- collections: 0.09575022330813315
-- non-accidental: 0.08482594753978177
-- extra: 0.07430253501620515
-- subdural: 0.06424810669361211
-- stable-: 0.06121887794421179
-- ct-head: 0.06121887794421179
-- mri-brain: 0.06121887794421179
-- circumference-: 0.06121887794421179
-- birth: 0.05702761420353006
-- imaging-: 0.05640535585698995
-- on-call: 0.05640535585698995
-- caudally: 0.05640535585698995
-- diathesis: 0.05640535585698995
-- notified: 0.05004222577453054
-- initiate: 0.05004222577453054
-- trauma: 0.048687682953290186
-- deviations: 0.046778311682546266
-- susceptibility: 0.045960373934932484
-- sedation: 0.043962581765128454
-- accidental: 0.043406729628506675
-- 20.: 0.04196478959532442
-- crossed: 0.041543785277154736
-- pediatrician: 0.041543785277154736
-- gre: 0.04114685184771065
-- check: 0.03975330535144571
-- retinal: 0.03975330535144571
-- measurements: 0.03944461255581492
-- circumference: 0.03833112193029284
-- hu: 0.03833112193029284
-- hemosiderin: 0.037834879124861276
-- unit: 0.03595786294611189
-- varying: 0.03478372176525124
-- abuse: 0.03448174182122528
-- magnetic: 0.03405205151762744
-- axial: 0.03387210383427599
-- fluid: 0.033731098675053514
-- head: 0.033661129313526335
-- ages: 0.03364740632232206
-- 4: 0.03306905423859785
-- at: 0.032160087578656474
-- up: 0.03191454376464199
-- hemispheres: 0.031616934353647104
-- extra-axial: 0.031616934353647104
-- artifact: 0.03151980767326697
-- standard: 0.030367133107473483
-- different: 0.029378826008999485
-- bilateral: 0.028803024018256164
-- vitals: 0.028389795869820537
-- infant: 0.028089123607644675
-- imaging: 0.027806580895216704
-- work: 0.027800931031903335
-- hemorrhagic: 0.027688921435168035
-- flair: 0.027206101555663796
-- child: 0.025974615338421325
-- weighted: 0.0258031388620993
-- bleeding: 0.025760923264346647
-- hydrocephalus: 0.02551288102405443
-- displacement: 0.025432130760199435
-- cortex: 0.025392105032999785
-- last: 0.025352308680854058
-- suggestive: 0.025352308680854058
-- collection: 0.025118204115976893
-- junction: 0.02485469764678159
-- rule: 0.02478121077643064
-- increasing: 0.024321614200866044
-- greater: 0.022289696928267367
-- since: 0.021796976539570946
-- intensity: 0.0214491019193007
-- hematoma: 0.021117825544597846
-- effect: 0.021010821201869756
-- cerebral: 0.02055865626225049
-- hemorrhage: 0.019751781834555802
-- out: 0.019611485255961916
-- injury: 0.018918114874227777
-- t1: 0.018808996779335025
-- age: 0.01806187726072435
-- as: 0.017952465359640662
-- month: 0.017802878755559786
-- there: 0.01766271606201373
-- two: 0.016995355816777816
-- time: 0.016761119633606335
-- months: 0.01620792565756991
-- :: 0.01569826133320368
-- signal: 0.015646349515783184
-- than: 0.015548950381376901
-- consistent: 0.01455068242243891
-- demonstrate: 0.013655917648146115
-- well: 0.01342417328450452
-- demonstrates: 0.01296264723370268
-- presents: 0.012122529829916151
-- has: 0.011143749795099151
-- that: 0.010249866170547383
-- on: 0.010054041838408722
-- mass: 0.008253201437135864
-- is: 0.0078095941442323
-- was: 0.006863038348706158
-- old: 0.006075934700432323
-- the: 0.005760386862651075
-- for: 0.0050632510322410765
-- of: 0.004854325033249517
-- with: 0.004062645003121172
-- ,: 0.0037598620210734356
-- to: 0.0029657507530762932
-- and: 0.0012500625398070724
-- .: 0.0004930491124631427
+\-\ Texto\\:\\ \ \(0\)\
+\-\ vitals\\ stable\\-\ \(0\)\
+\-\ head\\ circumference\\ has\\ crossed\\ two\\ standard\\ deviations\\ since\\ birth\\ at\\ last\\ check\\ up\\ at\\ 4\\ months\\ of\\ age\\.\ \(1\)\
+\-\ at\\ time\\ of\\ imaging\\-\\ the\\ sedation\\ unit\\ was\\ notified\\ as\\ well\\ as\\ the\\ on\\-call\\ pediatrician\\ to\\ initiate\\ work\\ up\\ for\\ non\\-accidental\\ trauma\ \(0\)\
+\-\ ct\\-head\\:\\ demonstrates\\ bilateral\\ extra\\ axial\\ subdural\\ fluid\\ collections\\ with\\ hu\\ measurements\\ greater\\ than\\ 20\\.\\ \\ there\\ is\\ mass\\ effect\\ with\\ displacement\\ of\\ the\\ bilateral\\ cerebral\\ hemispheres\\ caudally\ \(0\)\
+\-\ mri\\-brain\\:\\ \\ extra\\-axial\\ fluid\\ collections\\ that\\ demonstrate\\ varying\\ signal\\ intensity\\ on\\ flair\\ and\\ t1\\ weighted\\ imaging\\ suggestive\\ of\\ hemorrhagic\\ collections\\ of\\ different\\ ages\\.\\ there\\ is\\ magnetic\\ susceptibility\\ artifact\\ at\\ the\\ junction\\ of\\ the\\ extra\\ axial\\ collection\\ with\\ the\\ cortex\\ on\\ gre\\ imaging\\ consistent\\ with\\ hemosiderin\ \(0\)\
+\-\ child\\ abuse\\,\\ subdural\\ hematoma\\,\\ retinal\\ hemorrhage\ \(0\)\
+\-\ non\\-accidental\\ trauma\ \(8\)\
+\-\ accidental\\ trauma\\ \ \(4\)\
+\-\ bleeding\\ diathesis\ \(1\)\
+\-\ birth\\ injury\ \(1\)\
+\-\ 4\\ month\\ old\\ infant\\ presents\\ with\\ increasing\\ head\\ circumference\\-\\ rule\\ out\\ hydrocephalus\ \(1\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ collections\\:\\ 0\\.09575022330813315\ \(0\)\
+\-\ non\\-accidental\\:\\ 0\\.08482594753978177\ \(0\)\
+\-\ extra\\:\\ 0\\.07430253501620515\ \(0\)\
+\-\ subdural\\:\\ 0\\.06424810669361211\ \(0\)\
+\-\ stable\\-\\:\\ 0\\.06121887794421179\ \(0\)\
+\-\ ct\\-head\\:\\ 0\\.06121887794421179\ \(0\)\
+\-\ mri\\-brain\\:\\ 0\\.06121887794421179\ \(0\)\
+\-\ circumference\\-\\:\\ 0\\.06121887794421179\ \(0\)\
+\-\ birth\\:\\ 0\\.05702761420353006\ \(0\)\
+\-\ imaging\\-\\:\\ 0\\.05640535585698995\ \(0\)\
+\-\ on\\-call\\:\\ 0\\.05640535585698995\ \(0\)\
+\-\ caudally\\:\\ 0\\.05640535585698995\ \(0\)\
+\-\ diathesis\\:\\ 0\\.05640535585698995\ \(0\)\
+\-\ notified\\:\\ 0\\.05004222577453054\ \(0\)\
+\-\ initiate\\:\\ 0\\.05004222577453054\ \(0\)\
+\-\ trauma\\:\\ 0\\.048687682953290186\ \(0\)\
+\-\ deviations\\:\\ 0\\.046778311682546266\ \(0\)\
+\-\ susceptibility\\:\\ 0\\.045960373934932484\ \(0\)\
+\-\ sedation\\:\\ 0\\.043962581765128454\ \(0\)\
+\-\ accidental\\:\\ 0\\.043406729628506675\ \(0\)\
+\-\ 20\\.\\:\\ 0\\.04196478959532442\ \(0\)\
+\-\ crossed\\:\\ 0\\.041543785277154736\ \(0\)\
+\-\ pediatrician\\:\\ 0\\.041543785277154736\ \(0\)\
+\-\ gre\\:\\ 0\\.04114685184771065\ \(0\)\
+\-\ check\\:\\ 0\\.03975330535144571\ \(0\)\
+\-\ retinal\\:\\ 0\\.03975330535144571\ \(0\)\
+\-\ measurements\\:\\ 0\\.03944461255581492\ \(0\)\
+\-\ circumference\\:\\ 0\\.03833112193029284\ \(0\)\
+\-\ hu\\:\\ 0\\.03833112193029284\ \(0\)\
+\-\ hemosiderin\\:\\ 0\\.037834879124861276\ \(0\)\
+\-\ unit\\:\\ 0\\.03595786294611189\ \(0\)\
+\-\ varying\\:\\ 0\\.03478372176525124\ \(0\)\
+\-\ abuse\\:\\ 0\\.03448174182122528\ \(0\)\
+\-\ magnetic\\:\\ 0\\.03405205151762744\ \(0\)\
+\-\ axial\\:\\ 0\\.03387210383427599\ \(0\)\
+\-\ fluid\\:\\ 0\\.033731098675053514\ \(0\)\
+\-\ head\\:\\ 0\\.033661129313526335\ \(0\)\
+\-\ ages\\:\\ 0\\.03364740632232206\ \(0\)\
+\-\ 4\\:\\ 0\\.03306905423859785\ \(0\)\
+\-\ at\\:\\ 0\\.032160087578656474\ \(0\)\
+\-\ up\\:\\ 0\\.03191454376464199\ \(0\)\
+\-\ hemispheres\\:\\ 0\\.031616934353647104\ \(0\)\
+\-\ extra\\-axial\\:\\ 0\\.031616934353647104\ \(0\)\
+\-\ artifact\\:\\ 0\\.03151980767326697\ \(0\)\
+\-\ standard\\:\\ 0\\.030367133107473483\ \(0\)\
+\-\ different\\:\\ 0\\.029378826008999485\ \(0\)\
+\-\ bilateral\\:\\ 0\\.028803024018256164\ \(0\)\
+\-\ vitals\\:\\ 0\\.028389795869820537\ \(0\)\
+\-\ infant\\:\\ 0\\.028089123607644675\ \(0\)\
+\-\ imaging\\:\\ 0\\.027806580895216704\ \(0\)\
+\-\ work\\:\\ 0\\.027800931031903335\ \(0\)\
+\-\ hemorrhagic\\:\\ 0\\.027688921435168035\ \(0\)\
+\-\ flair\\:\\ 0\\.027206101555663796\ \(0\)\
+\-\ child\\:\\ 0\\.025974615338421325\ \(0\)\
+\-\ weighted\\:\\ 0\\.0258031388620993\ \(0\)\
+\-\ bleeding\\:\\ 0\\.025760923264346647\ \(0\)\
+\-\ hydrocephalus\\:\\ 0\\.02551288102405443\ \(0\)\
+\-\ displacement\\:\\ 0\\.025432130760199435\ \(0\)\
+\-\ cortex\\:\\ 0\\.025392105032999785\ \(0\)\
+\-\ last\\:\\ 0\\.025352308680854058\ \(0\)\
+\-\ suggestive\\:\\ 0\\.025352308680854058\ \(0\)\
+\-\ collection\\:\\ 0\\.025118204115976893\ \(0\)\
+\-\ junction\\:\\ 0\\.02485469764678159\ \(0\)\
+\-\ rule\\:\\ 0\\.02478121077643064\ \(0\)\
+\-\ increasing\\:\\ 0\\.024321614200866044\ \(0\)\
+\-\ greater\\:\\ 0\\.022289696928267367\ \(0\)\
+\-\ since\\:\\ 0\\.021796976539570946\ \(0\)\
+\-\ intensity\\:\\ 0\\.0214491019193007\ \(0\)\
+\-\ hematoma\\:\\ 0\\.021117825544597846\ \(0\)\
+\-\ effect\\:\\ 0\\.021010821201869756\ \(0\)\
+\-\ cerebral\\:\\ 0\\.02055865626225049\ \(0\)\
+\-\ hemorrhage\\:\\ 0\\.019751781834555802\ \(0\)\
+\-\ out\\:\\ 0\\.019611485255961916\ \(0\)\
+\-\ injury\\:\\ 0\\.018918114874227777\ \(0\)\
+\-\ t1\\:\\ 0\\.018808996779335025\ \(0\)\
+\-\ age\\:\\ 0\\.01806187726072435\ \(0\)\
+\-\ as\\:\\ 0\\.017952465359640662\ \(0\)\
+\-\ month\\:\\ 0\\.017802878755559786\ \(0\)\
+\-\ there\\:\\ 0\\.01766271606201373\ \(0\)\
+\-\ two\\:\\ 0\\.016995355816777816\ \(0\)\
+\-\ time\\:\\ 0\\.016761119633606335\ \(0\)\
+\-\ months\\:\\ 0\\.01620792565756991\ \(0\)\
+\-\ \\:\\:\\ 0\\.01569826133320368\ \(0\)\
+\-\ signal\\:\\ 0\\.015646349515783184\ \(0\)\
+\-\ than\\:\\ 0\\.015548950381376901\ \(0\)\
+\-\ consistent\\:\\ 0\\.01455068242243891\ \(0\)\
+\-\ demonstrate\\:\\ 0\\.013655917648146115\ \(0\)\
+\-\ well\\:\\ 0\\.01342417328450452\ \(0\)\
+\-\ demonstrates\\:\\ 0\\.01296264723370268\ \(0\)\
+\-\ presents\\:\\ 0\\.012122529829916151\ \(0\)\
+\-\ has\\:\\ 0\\.011143749795099151\ \(0\)\
+\-\ that\\:\\ 0\\.010249866170547383\ \(0\)\
+\-\ on\\:\\ 0\\.010054041838408722\ \(0\)\
+\-\ mass\\:\\ 0\\.008253201437135864\ \(0\)\
+\-\ is\\:\\ 0\\.0078095941442323\ \(0\)\
+\-\ was\\:\\ 0\\.006863038348706158\ \(0\)\
+\-\ old\\:\\ 0\\.006075934700432323\ \(0\)\
+\-\ the\\:\\ 0\\.005760386862651075\ \(0\)\
+\-\ for\\:\\ 0\\.0050632510322410765\ \(0\)\
+\-\ of\\:\\ 0\\.004854325033249517\ \(0\)\
+\-\ with\\:\\ 0\\.004062645003121172\ \(0\)\
+\-\ \\,\\:\\ 0\\.0037598620210734356\ \(0\)\
+\-\ to\\:\\ 0\\.0029657507530762932\ \(0\)\
+\-\ and\\:\\ 0\\.0012500625398070724\ \(0\)\
+\-\ \\.\\:\\ 0\\.0004930491124631427\ \(0\)\

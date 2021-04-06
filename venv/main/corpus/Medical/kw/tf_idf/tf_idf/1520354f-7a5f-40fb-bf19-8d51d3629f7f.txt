@@ -1,108 +1,104 @@
-Texto: 
-unremarkable
-routine annual mammogram
-architectural distortion in the right upper outer breast with associated calcifications
-fibrocystic change with adenosis
--infiltrating carcinoma
--complex sclerosing lesion (radial scar)
--fibrocystic change with sclerosing adenosis
-
--post-surgical or traumatic scar  (patient had no prior history of surgery or trauma to right breast)
-38 y/o woman for screening mammogram.
-a free-hand (anteroposterior) needle/wire location was used in this case.  this is a more difficult technique that requires extrapolation of the lesion from a compressed mammogram to the breast in a natural, uncompressed state.   
-
-some suggest increase risk of complications such as chest wall penetration (pneumothorax) with this technique (versus parallel to chest wall approach).  this approach may also need several adjustments to get the needle/wire within 1 cm of the lesion
-
-
-Keywords by value: 
-- needle/wire: 0.1259359774852357
-- adenosis: 0.09622966974695231
-- mammogram: 0.095545919941648
-- sclerosing: 0.07220454726104193
-- technique: 0.07033854465508388
-- breast: 0.06755481308208326
-- approach: 0.0640683583382881
-- scar: 0.06369727996109867
-- -fibrocystic: 0.06296798874261784
-- -post-surgical: 0.06296798874261784
-- free-hand: 0.06296798874261784
-- extrapolation: 0.06296798874261784
-- uncompressed: 0.06296798874261784
-- -infiltrating: 0.05801693745290395
-- -complex: 0.0551207581092742
-- adjustments: 0.0501697068195603
-- change: 0.04758173557822633
-- fibrocystic: 0.045218655529846406
-- architectural: 0.04057160148598106
-- anteroposterior: 0.04057160148598106
-- natural: 0.04057160148598106
-- penetration: 0.04026760424013252
-- parallel: 0.0386737217307453
-- get: 0.037371424896502775
-- lesion: 0.03729761198572403
-- compressed: 0.03717571793801624
-- distortion: 0.03627034861202235
-- wall: 0.03535941600341066
-- state: 0.03447524555287303
-- 38: 0.03252027533517988
-- outer: 0.03242037360678888
-- requires: 0.03242037360678888
-- annual: 0.030592278077237443
-- need: 0.030440296659756838
-- chest: 0.02921041428653598
-- versus: 0.029013773091858097
-- pneumothorax: 0.028653552708808868
-- radial: 0.027983418742968474
-- this: 0.027461063237546657
-- difficult: 0.026716747205233364
-- screening: 0.026035960206631046
-- suggest: 0.02599549065280478
-- (: 0.025798633080137873
-- increase: 0.02560292719365651
-- traumatic: 0.025564831865261064
-- ): 0.02548348900404661
-- routine: 0.02447461924392855
-- complications: 0.024186948535800407
-- used: 0.023415601121056867
-- calcifications: 0.022694026818805373
-- risk: 0.02210861890970776
-- location: 0.021290769192170666
-- unremarkable: 0.02020761727630043
-- several: 0.01962209168373134
-- such: 0.01908094849886323
-- some: 0.01853520181333399
-- carcinoma: 0.017299483357256187
-- y/o: 0.01690449307014029
-- trauma: 0.016692919869699493
-- cm: 0.016371115127264184
-- prior: 0.015672234087159738
-- more: 0.015265545066515474
-- surgery: 0.014821421888287677
-- upper: 0.014729146466919417
-- 1: 0.014523759771140763
-- associated: 0.014403304013626442
-- or: 0.014307467842338679
-- woman: 0.014099306767777901
-- may: 0.013388059777843742
-- case: 0.013353603091909076
-- had: 0.013170355851719344
-- right: 0.012880452987291666
-- to: 0.012201945955513892
-- also: 0.012032997097643938
-- within: 0.011643795774186297
-- a: 0.011331422909102893
-- that: 0.01054271948970588
-- as: 0.009232696470672342
-- from: 0.009045969379672945
-- in: 0.009029940645862605
-- history: 0.008430103840764881
-- was: 0.007059125158669191
-- no: 0.0061460296478843
-- patient: 0.006118513792259914
-- for: 0.005207915347447965
-- the: 0.004937474453700921
-- is: 0.00401636270274804
-- with: 0.003342976459711135
-- of: 0.0033286800227996694
-- ,: 0.0019336433251234812
-- .: 0.0010142724599241793
+\-\ Texto\\:\\ \ \(0\)\
+\-\ unremarkable\ \(371\)\
+\-\ routine\\ annual\\ mammogram\ \(0\)\
+\-\ architectural\\ distortion\\ in\\ the\\ right\\ upper\\ outer\\ breast\\ with\\ associated\\ calcifications\ \(0\)\
+\-\ fibrocystic\\ change\\ with\\ adenosis\ \(0\)\
+\-\ infiltrating\\ carcinoma\ \(0\)\
+\-\ complex\\ sclerosing\\ lesion\\ \\(radial\\ scar\\)\ \(0\)\
+\-\ fibrocystic\\ change\\ with\\ sclerosing\\ adenosis\ \(0\)\
+\-\ post\\-surgical\\ or\\ traumatic\\ scar\\ \\ \\(patient\\ had\\ no\\ prior\\ history\\ of\\ surgery\\ or\\ trauma\\ to\\ right\\ breast\\)\ \(0\)\
+\-\ 38\\ y\\/o\\ woman\\ for\\ screening\\ mammogram\\.\ \(1\)\
+\-\ a\\ free\\-hand\\ \\(anteroposterior\\)\\ needle\\/wire\\ location\\ was\\ used\\ in\\ this\\ case\\.\\ \\ this\\ is\\ a\\ more\\ difficult\\ technique\\ that\\ requires\\ extrapolation\\ of\\ the\\ lesion\\ from\\ a\\ compressed\\ mammogram\\ to\\ the\\ breast\\ in\\ a\\ natural\\,\\ uncompressed\\ state\\.\\ \\ \\ \ \(0\)\
+\-\ some\\ suggest\\ increase\\ risk\\ of\\ complications\\ such\\ as\\ chest\\ wall\\ penetration\\ \\(pneumothorax\\)\\ with\\ this\\ technique\\ \\(versus\\ parallel\\ to\\ chest\\ wall\\ approach\\)\\.\\ \\ this\\ approach\\ may\\ also\\ need\\ several\\ adjustments\\ to\\ get\\ the\\ needle\\/wire\\ within\\ 1\\ cm\\ of\\ the\\ lesion\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ needle\\/wire\\:\\ 0\\.1259359774852357\ \(0\)\
+\-\ adenosis\\:\\ 0\\.09622966974695231\ \(0\)\
+\-\ mammogram\\:\\ 0\\.095545919941648\ \(0\)\
+\-\ sclerosing\\:\\ 0\\.07220454726104193\ \(0\)\
+\-\ technique\\:\\ 0\\.07033854465508388\ \(0\)\
+\-\ breast\\:\\ 0\\.06755481308208326\ \(0\)\
+\-\ approach\\:\\ 0\\.0640683583382881\ \(0\)\
+\-\ scar\\:\\ 0\\.06369727996109867\ \(0\)\
+\-\ \\-fibrocystic\\:\\ 0\\.06296798874261784\ \(0\)\
+\-\ \\-post\\-surgical\\:\\ 0\\.06296798874261784\ \(0\)\
+\-\ free\\-hand\\:\\ 0\\.06296798874261784\ \(0\)\
+\-\ extrapolation\\:\\ 0\\.06296798874261784\ \(0\)\
+\-\ uncompressed\\:\\ 0\\.06296798874261784\ \(0\)\
+\-\ \\-infiltrating\\:\\ 0\\.05801693745290395\ \(0\)\
+\-\ \\-complex\\:\\ 0\\.0551207581092742\ \(0\)\
+\-\ adjustments\\:\\ 0\\.0501697068195603\ \(0\)\
+\-\ change\\:\\ 0\\.04758173557822633\ \(0\)\
+\-\ fibrocystic\\:\\ 0\\.045218655529846406\ \(0\)\
+\-\ architectural\\:\\ 0\\.04057160148598106\ \(0\)\
+\-\ anteroposterior\\:\\ 0\\.04057160148598106\ \(0\)\
+\-\ natural\\:\\ 0\\.04057160148598106\ \(0\)\
+\-\ penetration\\:\\ 0\\.04026760424013252\ \(0\)\
+\-\ parallel\\:\\ 0\\.0386737217307453\ \(0\)\
+\-\ get\\:\\ 0\\.037371424896502775\ \(0\)\
+\-\ lesion\\:\\ 0\\.03729761198572403\ \(0\)\
+\-\ compressed\\:\\ 0\\.03717571793801624\ \(0\)\
+\-\ distortion\\:\\ 0\\.03627034861202235\ \(0\)\
+\-\ wall\\:\\ 0\\.03535941600341066\ \(0\)\
+\-\ state\\:\\ 0\\.03447524555287303\ \(0\)\
+\-\ 38\\:\\ 0\\.03252027533517988\ \(0\)\
+\-\ outer\\:\\ 0\\.03242037360678888\ \(0\)\
+\-\ requires\\:\\ 0\\.03242037360678888\ \(0\)\
+\-\ annual\\:\\ 0\\.030592278077237443\ \(0\)\
+\-\ need\\:\\ 0\\.030440296659756838\ \(0\)\
+\-\ chest\\:\\ 0\\.02921041428653598\ \(0\)\
+\-\ versus\\:\\ 0\\.029013773091858097\ \(0\)\
+\-\ pneumothorax\\:\\ 0\\.028653552708808868\ \(0\)\
+\-\ radial\\:\\ 0\\.027983418742968474\ \(0\)\
+\-\ this\\:\\ 0\\.027461063237546657\ \(0\)\
+\-\ difficult\\:\\ 0\\.026716747205233364\ \(0\)\
+\-\ screening\\:\\ 0\\.026035960206631046\ \(0\)\
+\-\ suggest\\:\\ 0\\.02599549065280478\ \(0\)\
+\-\ \\(\\:\\ 0\\.025798633080137873\ \(0\)\
+\-\ increase\\:\\ 0\\.02560292719365651\ \(0\)\
+\-\ traumatic\\:\\ 0\\.025564831865261064\ \(0\)\
+\-\ \\)\\:\\ 0\\.02548348900404661\ \(0\)\
+\-\ routine\\:\\ 0\\.02447461924392855\ \(0\)\
+\-\ complications\\:\\ 0\\.024186948535800407\ \(0\)\
+\-\ used\\:\\ 0\\.023415601121056867\ \(0\)\
+\-\ calcifications\\:\\ 0\\.022694026818805373\ \(0\)\
+\-\ risk\\:\\ 0\\.02210861890970776\ \(0\)\
+\-\ location\\:\\ 0\\.021290769192170666\ \(0\)\
+\-\ unremarkable\\:\\ 0\\.02020761727630043\ \(0\)\
+\-\ several\\:\\ 0\\.01962209168373134\ \(0\)\
+\-\ such\\:\\ 0\\.01908094849886323\ \(0\)\
+\-\ some\\:\\ 0\\.01853520181333399\ \(0\)\
+\-\ carcinoma\\:\\ 0\\.017299483357256187\ \(0\)\
+\-\ y\\/o\\:\\ 0\\.01690449307014029\ \(0\)\
+\-\ trauma\\:\\ 0\\.016692919869699493\ \(0\)\
+\-\ cm\\:\\ 0\\.016371115127264184\ \(0\)\
+\-\ prior\\:\\ 0\\.015672234087159738\ \(0\)\
+\-\ more\\:\\ 0\\.015265545066515474\ \(0\)\
+\-\ surgery\\:\\ 0\\.014821421888287677\ \(0\)\
+\-\ upper\\:\\ 0\\.014729146466919417\ \(0\)\
+\-\ 1\\:\\ 0\\.014523759771140763\ \(0\)\
+\-\ associated\\:\\ 0\\.014403304013626442\ \(0\)\
+\-\ or\\:\\ 0\\.014307467842338679\ \(0\)\
+\-\ woman\\:\\ 0\\.014099306767777901\ \(0\)\
+\-\ may\\:\\ 0\\.013388059777843742\ \(0\)\
+\-\ case\\:\\ 0\\.013353603091909076\ \(0\)\
+\-\ had\\:\\ 0\\.013170355851719344\ \(0\)\
+\-\ right\\:\\ 0\\.012880452987291666\ \(0\)\
+\-\ to\\:\\ 0\\.012201945955513892\ \(0\)\
+\-\ also\\:\\ 0\\.012032997097643938\ \(0\)\
+\-\ within\\:\\ 0\\.011643795774186297\ \(0\)\
+\-\ a\\:\\ 0\\.011331422909102893\ \(0\)\
+\-\ that\\:\\ 0\\.01054271948970588\ \(0\)\
+\-\ as\\:\\ 0\\.009232696470672342\ \(0\)\
+\-\ from\\:\\ 0\\.009045969379672945\ \(0\)\
+\-\ in\\:\\ 0\\.009029940645862605\ \(0\)\
+\-\ history\\:\\ 0\\.008430103840764881\ \(0\)\
+\-\ was\\:\\ 0\\.007059125158669191\ \(0\)\
+\-\ no\\:\\ 0\\.0061460296478843\ \(0\)\
+\-\ patient\\:\\ 0\\.006118513792259914\ \(0\)\
+\-\ for\\:\\ 0\\.005207915347447965\ \(0\)\
+\-\ the\\:\\ 0\\.004937474453700921\ \(0\)\
+\-\ is\\:\\ 0\\.00401636270274804\ \(0\)\
+\-\ with\\:\\ 0\\.003342976459711135\ \(0\)\
+\-\ of\\:\\ 0\\.0033286800227996694\ \(0\)\
+\-\ \\,\\:\\ 0\\.0019336433251234812\ \(0\)\
+\-\ \\.\\:\\ 0\\.0010142724599241793\ \(0\)\

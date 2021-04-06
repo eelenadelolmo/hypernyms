@@ -1,53 +1,50 @@
-Texto: 
-in the region of the right common femoral artery, color doppler images reveal a cystic structure adjacent to the common femoral artery with a swirling pattern of blood flow in the lumen appearing as a characteristic ‚Äúyin-yang‚Äù sign.  
-
-spectral doppler flow demonstrates a narrow neck in relation to the large lumen, with to-and-fro (bidirectional) flow.
-common femoral artery pseudoaneurysm
-72 yo female status-post catheterization with right hip pain, and pulsatile inguinal mass.
-
-
-Keywords by value: 
-- femoral: 0.3050808851582098
-- flow: 0.27340446885904723
-- artery: 0.254931465877905
-- doppler: 0.24495100587587335
-- lumen: 0.24367167975727985
-- common: 0.23278557093278027
-- spectral: 0.19683414044030936
-- bidirectional: 0.18876353649013383
-- swirling: 0.17583519704784845
-- pulsatile: 0.15638427095649327
-- catheterization: 0.154670260306518
-- relation: 0.15230908231311174
-- pseudoaneurysm: 0.14695677376968785
-- inguinal: 0.13804447141631085
-- the: 0.1365072748620243
-- narrow: 0.13422915468853874
-- 72: 0.1318790021805864
-- color: 0.123355819837941
-- structure: 0.11690807238588133
-- reveal: 0.11509383766625379
-- characteristic: 0.11061501804517518
-- appearing: 0.1093320414870198
-- hip: 0.10510507951593548
-- to: 0.10261760415817693
-- pattern: 0.10215226459980774
-- in: 0.10211252052303875
-- sign: 0.09472525726701803
-- right: 0.09072599729968914
-- adjacent: 0.08868969498527142
-- yo: 0.08548021543839958
-- neck: 0.08369936493534723
-- cystic: 0.08240477009496772
-- region: 0.08184225988583947
-- with: 0.08037587074496257
-- blood: 0.07946247419334157
-- demonstrates: 0.06873916470610077
-- large: 0.06855589013203042
-- female: 0.06602415481996007
-- images: 0.063290462423368
-- and: 0.05654623511273294
-- as: 0.05496727659307854
-- of: 0.05355191657258365
-- mass: 0.052263324494374125
-- pain: 0.04896085833592146
+\-\ Texto\\:\\ \ \(0\)\
+\-\ in\\ the\\ region\\ of\\ the\\ right\\ common\\ femoral\\ artery\\,\\ color\\ doppler\\ images\\ reveal\\ a\\ cystic\\ structure\\ adjacent\\ to\\ the\\ common\\ femoral\\ artery\\ with\\ a\\ swirling\\ pattern\\ of\\ blood\\ flow\\ in\\ the\\ lumen\\ appearing\\ as\\ a\\ characteristic\\ \\‚\\Ä\\úyin\\-yang\\‚\\Ä\\ù\\ sign\\.\\ \\ \ \(0\)\
+\-\ spectral\\ doppler\\ flow\\ demonstrates\\ a\\ narrow\\ neck\\ in\\ relation\\ to\\ the\\ large\\ lumen\\,\\ with\\ to\\-and\\-fro\\ \\(bidirectional\\)\\ flow\\.\ \(0\)\
+\-\ common\\ femoral\\ artery\\ pseudoaneurysm\ \(0\)\
+\-\ 72\\ yo\\ female\\ status\\-post\\ catheterization\\ with\\ right\\ hip\\ pain\\,\\ and\\ pulsatile\\ inguinal\\ mass\\.\ \(1\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ femoral\\:\\ 0\\.3050808851582098\ \(0\)\
+\-\ flow\\:\\ 0\\.27340446885904723\ \(0\)\
+\-\ artery\\:\\ 0\\.254931465877905\ \(0\)\
+\-\ doppler\\:\\ 0\\.24495100587587335\ \(0\)\
+\-\ lumen\\:\\ 0\\.24367167975727985\ \(0\)\
+\-\ common\\:\\ 0\\.23278557093278027\ \(0\)\
+\-\ spectral\\:\\ 0\\.19683414044030936\ \(0\)\
+\-\ bidirectional\\:\\ 0\\.18876353649013383\ \(0\)\
+\-\ swirling\\:\\ 0\\.17583519704784845\ \(0\)\
+\-\ pulsatile\\:\\ 0\\.15638427095649327\ \(0\)\
+\-\ catheterization\\:\\ 0\\.154670260306518\ \(0\)\
+\-\ relation\\:\\ 0\\.15230908231311174\ \(0\)\
+\-\ pseudoaneurysm\\:\\ 0\\.14695677376968785\ \(0\)\
+\-\ inguinal\\:\\ 0\\.13804447141631085\ \(0\)\
+\-\ the\\:\\ 0\\.1365072748620243\ \(0\)\
+\-\ narrow\\:\\ 0\\.13422915468853874\ \(0\)\
+\-\ 72\\:\\ 0\\.1318790021805864\ \(0\)\
+\-\ color\\:\\ 0\\.123355819837941\ \(0\)\
+\-\ structure\\:\\ 0\\.11690807238588133\ \(0\)\
+\-\ reveal\\:\\ 0\\.11509383766625379\ \(0\)\
+\-\ characteristic\\:\\ 0\\.11061501804517518\ \(0\)\
+\-\ appearing\\:\\ 0\\.1093320414870198\ \(0\)\
+\-\ hip\\:\\ 0\\.10510507951593548\ \(0\)\
+\-\ to\\:\\ 0\\.10261760415817693\ \(0\)\
+\-\ pattern\\:\\ 0\\.10215226459980774\ \(0\)\
+\-\ in\\:\\ 0\\.10211252052303875\ \(0\)\
+\-\ sign\\:\\ 0\\.09472525726701803\ \(0\)\
+\-\ right\\:\\ 0\\.09072599729968914\ \(0\)\
+\-\ adjacent\\:\\ 0\\.08868969498527142\ \(0\)\
+\-\ yo\\:\\ 0\\.08548021543839958\ \(0\)\
+\-\ neck\\:\\ 0\\.08369936493534723\ \(0\)\
+\-\ cystic\\:\\ 0\\.08240477009496772\ \(0\)\
+\-\ region\\:\\ 0\\.08184225988583947\ \(0\)\
+\-\ with\\:\\ 0\\.08037587074496257\ \(0\)\
+\-\ blood\\:\\ 0\\.07946247419334157\ \(0\)\
+\-\ demonstrates\\:\\ 0\\.06873916470610077\ \(0\)\
+\-\ large\\:\\ 0\\.06855589013203042\ \(0\)\
+\-\ female\\:\\ 0\\.06602415481996007\ \(0\)\
+\-\ images\\:\\ 0\\.063290462423368\ \(0\)\
+\-\ and\\:\\ 0\\.05654623511273294\ \(0\)\
+\-\ as\\:\\ 0\\.05496727659307854\ \(0\)\
+\-\ of\\:\\ 0\\.05355191657258365\ \(0\)\
+\-\ mass\\:\\ 0\\.052263324494374125\ \(0\)\
+\-\ pain\\:\\ 0\\.04896085833592146\ \(0\)\

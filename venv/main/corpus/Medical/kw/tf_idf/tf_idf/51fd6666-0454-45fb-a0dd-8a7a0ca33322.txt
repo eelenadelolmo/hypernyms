@@ -1,79 +1,76 @@
-Texto: 
-elevated serum calcium levels.
-1.  early ("thyroid phase") images demonstrate radiotracer within the thyroid gland with more intense uptake in the vicinity of the inferior aspect of left thyroid lobe.
- 
-2.  delayed ("parathyroid phase") images demonstrate persistent increased radiotracer uptake in the vicinity of the inferior aspect of the left thryoid lobe at a level just superior to the left clavicular head.
- 
-3.  tomographic (spect/ct) images of the neck were obtained, demonstrating a focus of abnormal delayed wash-out in the lower left neck at a level just superior to the head of the left clavicle.
-
-findings and patients history consistent with parathyroid adenoma
-parathyroid adenoma
-parathyroid adenoma
-thyroid adenoma
-elevated serum calcium levels.
-
-
-Keywords by value: 
-- parathyroid: 0.1678859237923827
-- vicinity: 0.11518176841622647
-- adenoma: 0.1106509876528996
-- thyroid: 0.10859883550154141
-- calcium: 0.0648184408641374
-- serum: 0.06394062855406751
-- phase: 0.062321362455345065
-- radiotracer: 0.06181712692502631
-- thryoid: 0.05982097779301076
-- spect/ct: 0.05759088420811324
-- wash-out: 0.05586108923668525
-- just: 0.0553254938264498
-- levels: 0.05468606811274361
-- delayed: 0.05392217588008031
-- uptake: 0.0526354019332436
-- clavicular: 0.04907450987735269
-- tomographic: 0.04551224375813998
-- elevated: 0.04495064126138082
-- inferior: 0.04495064126138082
-- superior: 0.042306103830297544
-- aspect: 0.04161692921679624
-- clavicle: 0.04013900980031095
-- neck: 0.038902994372379575
-- level: 0.038184326010029954
-- images: 0.03812241609184544
-- head: 0.037575214117424746
-- left: 0.03705834377026801
-- lobe: 0.03564845500656642
-- intense: 0.03507797661099308
-- ``: 0.03256023314157856
-- '': 0.03193410080592625
-- demonstrate: 0.030487630098186676
-- focus: 0.0297580207871777
-- demonstrating: 0.02875637945787533
-- gland: 0.028212160398392784
-- persistent: 0.026421291879894414
-- early: 0.02422603852435998
-- obtained: 0.023549349618169315
-- 3.: 0.022665691566982383
-- 2.: 0.02106545846356789
-- 1.: 0.020691388886027912
-- abnormal: 0.018892187909417917
-- at: 0.017949816322971053
-- patients: 0.017143989142372293
-- (: 0.01679910991264792
-- ): 0.01659389981658849
-- more: 0.016567258211722218
-- consistent: 0.016242622239001574
-- increased: 0.01620530838604384
-- were: 0.015040979354185436
-- lower: 0.014898155576464052
-- findings: 0.014099511130154726
-- within: 0.01263667758438823
-- the: 0.011788698695658014
-- in: 0.009799935584657091
-- a: 0.00922325120508375
-- history: 0.009148949904706072
-- to: 0.00662121098361219
-- of: 0.006321911671208674
-- ,: 0.0020985276396688944
-- with: 0.0018140182339517789
-- and: 0.0013954186490869648
-- .: 0.0013759510115250494
+\-\ Texto\\:\\ \ \(0\)\
+\-\ elevated\\ serum\\ calcium\\ levels\\.\ \(0\)\
+\-\ 1\\.\\ \\ early\\ \\(\\"thyroid\\ phase\\"\\)\\ images\\ demonstrate\\ radiotracer\\ within\\ the\\ thyroid\\ gland\\ with\\ more\\ intense\\ uptake\\ in\\ the\\ vicinity\\ of\\ the\\ inferior\\ aspect\\ of\\ left\\ thyroid\\ lobe\\.\ \(0\)\
+\-\ \\ \ \(1082074\)\
+\-\ 2\\.\\ \\ delayed\\ \\(\\"parathyroid\\ phase\\"\\)\\ images\\ demonstrate\\ persistent\\ increased\\ radiotracer\\ uptake\\ in\\ the\\ vicinity\\ of\\ the\\ inferior\\ aspect\\ of\\ the\\ left\\ thryoid\\ lobe\\ at\\ a\\ level\\ just\\ superior\\ to\\ the\\ left\\ clavicular\\ head\\.\ \(0\)\
+\-\ \\ \ \(1082074\)\
+\-\ 3\\.\\ \\ tomographic\\ \\(spect\\/ct\\)\\ images\\ of\\ the\\ neck\\ were\\ obtained\\,\\ demonstrating\\ a\\ focus\\ of\\ abnormal\\ delayed\\ wash\\-out\\ in\\ the\\ lower\\ left\\ neck\\ at\\ a\\ level\\ just\\ superior\\ to\\ the\\ head\\ of\\ the\\ left\\ clavicle\\.\ \(0\)\
+\-\ findings\\ and\\ patients\\ history\\ consistent\\ with\\ parathyroid\\ adenoma\ \(0\)\
+\-\ parathyroid\\ adenoma\ \(27\)\
+\-\ parathyroid\\ adenoma\ \(27\)\
+\-\ thyroid\\ adenoma\ \(56\)\
+\-\ elevated\\ serum\\ calcium\\ levels\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ parathyroid\\:\\ 0\\.1678859237923827\ \(0\)\
+\-\ vicinity\\:\\ 0\\.11518176841622647\ \(0\)\
+\-\ adenoma\\:\\ 0\\.1106509876528996\ \(0\)\
+\-\ thyroid\\:\\ 0\\.10859883550154141\ \(0\)\
+\-\ calcium\\:\\ 0\\.0648184408641374\ \(0\)\
+\-\ serum\\:\\ 0\\.06394062855406751\ \(0\)\
+\-\ phase\\:\\ 0\\.062321362455345065\ \(0\)\
+\-\ radiotracer\\:\\ 0\\.06181712692502631\ \(0\)\
+\-\ thryoid\\:\\ 0\\.05982097779301076\ \(0\)\
+\-\ spect\\/ct\\:\\ 0\\.05759088420811324\ \(0\)\
+\-\ wash\\-out\\:\\ 0\\.05586108923668525\ \(0\)\
+\-\ just\\:\\ 0\\.0553254938264498\ \(0\)\
+\-\ levels\\:\\ 0\\.05468606811274361\ \(0\)\
+\-\ delayed\\:\\ 0\\.05392217588008031\ \(0\)\
+\-\ uptake\\:\\ 0\\.0526354019332436\ \(0\)\
+\-\ clavicular\\:\\ 0\\.04907450987735269\ \(0\)\
+\-\ tomographic\\:\\ 0\\.04551224375813998\ \(0\)\
+\-\ elevated\\:\\ 0\\.04495064126138082\ \(0\)\
+\-\ inferior\\:\\ 0\\.04495064126138082\ \(0\)\
+\-\ superior\\:\\ 0\\.042306103830297544\ \(0\)\
+\-\ aspect\\:\\ 0\\.04161692921679624\ \(0\)\
+\-\ clavicle\\:\\ 0\\.04013900980031095\ \(0\)\
+\-\ neck\\:\\ 0\\.038902994372379575\ \(0\)\
+\-\ level\\:\\ 0\\.038184326010029954\ \(0\)\
+\-\ images\\:\\ 0\\.03812241609184544\ \(0\)\
+\-\ head\\:\\ 0\\.037575214117424746\ \(0\)\
+\-\ left\\:\\ 0\\.03705834377026801\ \(0\)\
+\-\ lobe\\:\\ 0\\.03564845500656642\ \(0\)\
+\-\ intense\\:\\ 0\\.03507797661099308\ \(0\)\
+\-\ \\`\\`\\:\\ 0\\.03256023314157856\ \(0\)\
+\-\ \\'\\'\\:\\ 0\\.03193410080592625\ \(0\)\
+\-\ demonstrate\\:\\ 0\\.030487630098186676\ \(0\)\
+\-\ focus\\:\\ 0\\.0297580207871777\ \(0\)\
+\-\ demonstrating\\:\\ 0\\.02875637945787533\ \(0\)\
+\-\ gland\\:\\ 0\\.028212160398392784\ \(0\)\
+\-\ persistent\\:\\ 0\\.026421291879894414\ \(0\)\
+\-\ early\\:\\ 0\\.02422603852435998\ \(0\)\
+\-\ obtained\\:\\ 0\\.023549349618169315\ \(0\)\
+\-\ 3\\.\\:\\ 0\\.022665691566982383\ \(0\)\
+\-\ 2\\.\\:\\ 0\\.02106545846356789\ \(0\)\
+\-\ 1\\.\\:\\ 0\\.020691388886027912\ \(0\)\
+\-\ abnormal\\:\\ 0\\.018892187909417917\ \(0\)\
+\-\ at\\:\\ 0\\.017949816322971053\ \(0\)\
+\-\ patients\\:\\ 0\\.017143989142372293\ \(0\)\
+\-\ \\(\\:\\ 0\\.01679910991264792\ \(0\)\
+\-\ \\)\\:\\ 0\\.01659389981658849\ \(0\)\
+\-\ more\\:\\ 0\\.016567258211722218\ \(0\)\
+\-\ consistent\\:\\ 0\\.016242622239001574\ \(0\)\
+\-\ increased\\:\\ 0\\.01620530838604384\ \(0\)\
+\-\ were\\:\\ 0\\.015040979354185436\ \(0\)\
+\-\ lower\\:\\ 0\\.014898155576464052\ \(0\)\
+\-\ findings\\:\\ 0\\.014099511130154726\ \(0\)\
+\-\ within\\:\\ 0\\.01263667758438823\ \(0\)\
+\-\ the\\:\\ 0\\.011788698695658014\ \(0\)\
+\-\ in\\:\\ 0\\.009799935584657091\ \(0\)\
+\-\ a\\:\\ 0\\.00922325120508375\ \(0\)\
+\-\ history\\:\\ 0\\.009148949904706072\ \(0\)\
+\-\ to\\:\\ 0\\.00662121098361219\ \(0\)\
+\-\ of\\:\\ 0\\.006321911671208674\ \(0\)\
+\-\ \\,\\:\\ 0\\.0020985276396688944\ \(0\)\
+\-\ with\\:\\ 0\\.0018140182339517789\ \(0\)\
+\-\ and\\:\\ 0\\.0013954186490869648\ \(0\)\
+\-\ \\.\\:\\ 0\\.0013759510115250494\ \(0\)\

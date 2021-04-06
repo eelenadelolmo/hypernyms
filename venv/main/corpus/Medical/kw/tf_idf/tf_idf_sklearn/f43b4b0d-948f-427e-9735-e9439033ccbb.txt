@@ -1,76 +1,73 @@
-Texto: 
-thin elderly male in no acute distress.
-pulsatile abdominal mass.
-yearly ct scans of aorta.
-partially calcified mural thrombus with increase in diameter of abdominal aorta.  crescent of calcification within mural thrombus.
-abdominal aortic aneurysm
-abdominal aortic aneurysm
-presents for evaluation of pulsatile mass.
-this case demonstrates a common finding--thrombus calcification--that although it may crescentic in shape, should not be confused with the high density crescent sign of impending rupture.  
-
-     since the patients aneurysm was less than 5 cm, the patient was treated medically and followed with yearly ct scans.
-
-
-Keywords by value: 
-- thrombus: 0.32347491257781014
-- crescent: 0.2863137699820288
-- yearly: 0.27336805406183273
-- pulsatile: 0.2650427935009136
-- aneurysm: 0.2648502774913938
-- abdominal: 0.25365646370158157
-- mural: 0.23686511613818903
-- scans: 0.20178073789385523
-- aorta: 0.18837567476542205
-- aortic: 0.17921323891406246
-- calcification: 0.16556108888942456
-- impending: 0.1630931200464323
-- crescentic: 0.1444686883692037
-- medically: 0.13491544268370775
-- confused: 0.1225951883495541
-- elderly: 0.1221384073805348
-- of: 0.11345090429262338
-- shape: 0.109941715115028
-- partially: 0.09950921074449882
-- rupture: 0.09373613217790777
-- distress: 0.09340382127144661
-- calcified: 0.09340382127144661
-- diameter: 0.09318526112583994
-- increase: 0.09307685608115943
-- thin: 0.09025488070636999
-- mass: 0.08857679507606828
-- ct: 0.08828370227512558
-- in: 0.08653104153414164
-- since: 0.08398837881003646
-- was: 0.08081687816844858
-- sign: 0.08027101014566813
-- although: 0.07893403091999188
-- less: 0.0788801874508966
-- followed: 0.07829713606723455
-- density: 0.07688434637206903
-- finding: 0.07621314725512285
-- should: 0.07565496395803309
-- treated: 0.07220304739241493
-- evaluation: 0.07071056817838434
-- the: 0.06940647401686602
-- with: 0.06811121470854262
-- cm: 0.06658928459866285
-- high: 0.06589628914682906
-- common: 0.06575484182793744
-- than: 0.06572667010104717
-- patients: 0.06522614390872208
-- acute: 0.06272252413761596
-- it: 0.05935129864771642
-- may: 0.058347842291356235
-- case: 0.05825016839990545
-- demonstrates: 0.05825016839990545
-- presents: 0.05577616295523336
-- within: 0.05340129782712141
-- male: 0.05162376018499522
-- that: 0.05031635302131369
-- be: 0.04703478516158978
-- not: 0.045772847523810764
-- this: 0.039841242235119534
-- patient: 0.037711515991504116
-- no: 0.037704422675188025
-- for: 0.03514243855994
-- and: 0.023958886697127736
+\-\ Texto\\:\\ \ \(0\)\
+\-\ thin\\ elderly\\ male\\ in\\ no\\ acute\\ distress\\.\ \(1\)\
+\-\ pulsatile\\ abdominal\\ mass\\.\ \(1\)\
+\-\ yearly\\ ct\\ scans\\ of\\ aorta\\.\ \(0\)\
+\-\ partially\\ calcified\\ mural\\ thrombus\\ with\\ increase\\ in\\ diameter\\ of\\ abdominal\\ aorta\\.\\ \\ crescent\\ of\\ calcification\\ within\\ mural\\ thrombus\\.\ \(0\)\
+\-\ abdominal\\ aortic\\ aneurysm\ \(19\)\
+\-\ abdominal\\ aortic\\ aneurysm\ \(19\)\
+\-\ presents\\ for\\ evaluation\\ of\\ pulsatile\\ mass\\.\ \(1\)\
+\-\ this\\ case\\ demonstrates\\ a\\ common\\ finding\\-\\-thrombus\\ calcification\\-\\-that\\ although\\ it\\ may\\ crescentic\\ in\\ shape\\,\\ should\\ not\\ be\\ confused\\ with\\ the\\ high\\ density\\ crescent\\ sign\\ of\\ impending\\ rupture\\.\\ \\ \ \(0\)\
+\-\ \\ \\ \\ \\ \\ since\\ the\\ patients\\ aneurysm\\ was\\ less\\ than\\ 5\\ cm\\,\\ the\\ patient\\ was\\ treated\\ medically\\ and\\ followed\\ with\\ yearly\\ ct\\ scans\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ thrombus\\:\\ 0\\.32347491257781014\ \(0\)\
+\-\ crescent\\:\\ 0\\.2863137699820288\ \(0\)\
+\-\ yearly\\:\\ 0\\.27336805406183273\ \(0\)\
+\-\ pulsatile\\:\\ 0\\.2650427935009136\ \(0\)\
+\-\ aneurysm\\:\\ 0\\.2648502774913938\ \(0\)\
+\-\ abdominal\\:\\ 0\\.25365646370158157\ \(0\)\
+\-\ mural\\:\\ 0\\.23686511613818903\ \(0\)\
+\-\ scans\\:\\ 0\\.20178073789385523\ \(0\)\
+\-\ aorta\\:\\ 0\\.18837567476542205\ \(0\)\
+\-\ aortic\\:\\ 0\\.17921323891406246\ \(0\)\
+\-\ calcification\\:\\ 0\\.16556108888942456\ \(0\)\
+\-\ impending\\:\\ 0\\.1630931200464323\ \(0\)\
+\-\ crescentic\\:\\ 0\\.1444686883692037\ \(0\)\
+\-\ medically\\:\\ 0\\.13491544268370775\ \(0\)\
+\-\ confused\\:\\ 0\\.1225951883495541\ \(0\)\
+\-\ elderly\\:\\ 0\\.1221384073805348\ \(0\)\
+\-\ of\\:\\ 0\\.11345090429262338\ \(0\)\
+\-\ shape\\:\\ 0\\.109941715115028\ \(0\)\
+\-\ partially\\:\\ 0\\.09950921074449882\ \(0\)\
+\-\ rupture\\:\\ 0\\.09373613217790777\ \(0\)\
+\-\ distress\\:\\ 0\\.09340382127144661\ \(0\)\
+\-\ calcified\\:\\ 0\\.09340382127144661\ \(0\)\
+\-\ diameter\\:\\ 0\\.09318526112583994\ \(0\)\
+\-\ increase\\:\\ 0\\.09307685608115943\ \(0\)\
+\-\ thin\\:\\ 0\\.09025488070636999\ \(0\)\
+\-\ mass\\:\\ 0\\.08857679507606828\ \(0\)\
+\-\ ct\\:\\ 0\\.08828370227512558\ \(0\)\
+\-\ in\\:\\ 0\\.08653104153414164\ \(0\)\
+\-\ since\\:\\ 0\\.08398837881003646\ \(0\)\
+\-\ was\\:\\ 0\\.08081687816844858\ \(0\)\
+\-\ sign\\:\\ 0\\.08027101014566813\ \(0\)\
+\-\ although\\:\\ 0\\.07893403091999188\ \(0\)\
+\-\ less\\:\\ 0\\.0788801874508966\ \(0\)\
+\-\ followed\\:\\ 0\\.07829713606723455\ \(0\)\
+\-\ density\\:\\ 0\\.07688434637206903\ \(0\)\
+\-\ finding\\:\\ 0\\.07621314725512285\ \(0\)\
+\-\ should\\:\\ 0\\.07565496395803309\ \(0\)\
+\-\ treated\\:\\ 0\\.07220304739241493\ \(0\)\
+\-\ evaluation\\:\\ 0\\.07071056817838434\ \(0\)\
+\-\ the\\:\\ 0\\.06940647401686602\ \(0\)\
+\-\ with\\:\\ 0\\.06811121470854262\ \(0\)\
+\-\ cm\\:\\ 0\\.06658928459866285\ \(0\)\
+\-\ high\\:\\ 0\\.06589628914682906\ \(0\)\
+\-\ common\\:\\ 0\\.06575484182793744\ \(0\)\
+\-\ than\\:\\ 0\\.06572667010104717\ \(0\)\
+\-\ patients\\:\\ 0\\.06522614390872208\ \(0\)\
+\-\ acute\\:\\ 0\\.06272252413761596\ \(0\)\
+\-\ it\\:\\ 0\\.05935129864771642\ \(0\)\
+\-\ may\\:\\ 0\\.058347842291356235\ \(0\)\
+\-\ case\\:\\ 0\\.05825016839990545\ \(0\)\
+\-\ demonstrates\\:\\ 0\\.05825016839990545\ \(0\)\
+\-\ presents\\:\\ 0\\.05577616295523336\ \(0\)\
+\-\ within\\:\\ 0\\.05340129782712141\ \(0\)\
+\-\ male\\:\\ 0\\.05162376018499522\ \(0\)\
+\-\ that\\:\\ 0\\.05031635302131369\ \(0\)\
+\-\ be\\:\\ 0\\.04703478516158978\ \(0\)\
+\-\ not\\:\\ 0\\.045772847523810764\ \(0\)\
+\-\ this\\:\\ 0\\.039841242235119534\ \(0\)\
+\-\ patient\\:\\ 0\\.037711515991504116\ \(0\)\
+\-\ no\\:\\ 0\\.037704422675188025\ \(0\)\
+\-\ for\\:\\ 0\\.03514243855994\ \(0\)\
+\-\ and\\:\\ 0\\.023958886697127736\ \(0\)\

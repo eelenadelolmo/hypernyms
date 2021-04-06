@@ -1,105 +1,103 @@
-Texto: 
-elevated wbc, pmn's.
-negative blood culture.
-failed oral antibiotics. admitted and treated with iv antibiotics.
-enlargement and enhancement of left parotid, submandibular and sublingual glands with inflammatory stranding.  no stones or masses. reactive cervical adenotpathy seen.
-sialadenitits
-bacterial or viral infection.
-inflammatory disease by stones or radiation
-autoimmune diseases including  sj?gren disease, lupus
-granulomatous diseases: tuberculosis, tularemia, sarcoidosis, catscratch disease, actinomycosis
-drug-related 
-benign neoplasms
-malignant neoplasms.
-endocrine causes including hypothyroidism and diabetes mellitus
-metabolic causes icluding vitamin deficiency,  bulimia, malabsorption
-30 year old male complains of neck soreness and dysphagia with fever.
-unilateral envolvement of all 3 sets of glands.
-
-
-Keywords by value: 
-- glands: 0.08190078718843757
-- adenotpathy: 0.07109289051585886
-- sialadenitits: 0.07109289051585886
-- tularemia: 0.07109289051585886
-- drug-related: 0.07109289051585886
-- icluding: 0.07109289051585886
-- bulimia: 0.07109289051585886
-- envolvement: 0.07109289051585886
-- stones: 0.07091415832532097
-- neoplasms: 0.07015500492438571
-- diseases: 0.06942998253951047
-- gren: 0.06550299389843994
-- catscratch: 0.06550299389843994
-- sets: 0.06223311399434184
-- pmn: 0.059913097281021024
-- sublingual: 0.058113552512358044
-- soreness: 0.058113552512358044
-- sj: 0.05432320066360211
-- actinomycosis: 0.05432320066360211
-- causes: 0.05365452738402922
-- malabsorption: 0.05252365589493913
-- antibiotics: 0.051769618672104854
-- including: 0.04976481679020845
-- inflammatory: 0.04779541845471006
-- parotid: 0.046933759277520214
-- submandibular: 0.045463424142085096
-- autoimmune: 0.04393727898370987
-- mellitus: 0.043399445318398
-- endocrine: 0.042654499188309165
-- lupus: 0.04057523217780836
-- vitamin: 0.04057523217780836
-- hypothyroidism: 0.040393999469324024
-- failed: 0.038487638355902805
-- deficiency: 0.03718407906915752
-- culture: 0.036716439894557924
-- bacterial: 0.03526505780222727
-- viral: 0.03471499126975523
-- unilateral: 0.03420006004405738
-- diabetes: 0.03411734633303166
-- metabolic: 0.034035472369612164
-- disease: 0.03379203728747671
-- dysphagia: 0.033560952208136895
-- stranding: 0.03333376771646999
-- granulomatous: 0.033259439852720604
-- tuberculosis: 0.03282730883551006
-- reactive: 0.0326196274153293
-- complains: 0.032026865625063766
-- sarcoidosis: 0.03112654327713901
-- admitted: 0.02977060035938096
-- oral: 0.029036956986754132
-- enlargement: 0.027343293600686252
-- ?: 0.026894189521165377
-- 30: 0.026500720455282862
-- iv: 0.0251485882053314
-- wbc: 0.025121571375611385
-- cervical: 0.025041059730577648
-- malignant: 0.024908634486929846
-- or: 0.024230389087831632
-- benign: 0.023782664250267753
-- elevated: 0.02338158355934728
-- fever: 0.0233166340850965
-- masses: 0.023295099983839412
-- radiation: 0.022614929431954325
-- treated: 0.02062782932325693
-- negative: 0.020581614204636084
-- neck: 0.02023583175014905
-- infection: 0.020032391726393605
-- ,: 0.01964831120689989
-- all: 0.01949131846315557
-- blood: 0.018809766713784672
-- enhancement: 0.01847168359776642
-- 3: 0.016136899408923707
-- 's: 0.015193924341669718
-- seen: 0.013617964637642662
-- male: 0.012461334982963493
-- by: 0.01147476534874899
-- :: 0.009115119483795685
-- left: 0.007710526365104151
-- year: 0.007710526365104151
-- and: 0.007258427650492679
-- old: 0.007055924168243989
-- no: 0.0069390657314822735
-- of: 0.003758187122515756
-- .: 0.003149152395732331
-- with: 0.0028307461957231385
+\-\ Texto\\:\\ \ \(0\)\
+\-\ elevated\\ wbc\\,\\ pmn\\'s\\.\ \(0\)\
+\-\ negative\\ blood\\ culture\\.\ \(0\)\
+\-\ failed\\ oral\\ antibiotics\\.\\ admitted\\ and\\ treated\\ with\\ iv\\ antibiotics\\.\ \(0\)\
+\-\ enlargement\\ and\\ enhancement\\ of\\ left\\ parotid\\,\\ submandibular\\ and\\ sublingual\\ glands\\ with\\ inflammatory\\ stranding\\.\\ \\ no\\ stones\\ or\\ masses\\.\\ reactive\\ cervical\\ adenotpathy\\ seen\\.\ \(0\)\
+\-\ sialadenitits\ \(0\)\
+\-\ bacterial\\ or\\ viral\\ infection\\.\ \(0\)\
+\-\ inflammatory\\ disease\\ by\\ stones\\ or\\ radiation\ \(0\)\
+\-\ autoimmune\\ diseases\\ including\\ \\ sj\\?gren\\ disease\\,\\ lupus\ \(0\)\
+\-\ granulomatous\\ diseases\\:\\ tuberculosis\\,\\ tularemia\\,\\ sarcoidosis\\,\\ catscratch\\ disease\\,\\ actinomycosis\ \(0\)\
+\-\ drug\\-related\\ \ \(0\)\
+\-\ benign\\ neoplasms\ \(3\)\
+\-\ malignant\\ neoplasms\\.\ \(1\)\
+\-\ endocrine\\ causes\\ including\\ hypothyroidism\\ and\\ diabetes\\ mellitus\ \(0\)\
+\-\ metabolic\\ causes\\ icluding\\ vitamin\\ deficiency\\,\\ \\ bulimia\\,\\ malabsorption\ \(0\)\
+\-\ 30\\ year\\ old\\ male\\ complains\\ of\\ neck\\ soreness\\ and\\ dysphagia\\ with\\ fever\\.\ \(1\)\
+\-\ unilateral\\ envolvement\\ of\\ all\\ 3\\ sets\\ of\\ glands\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ glands\\:\\ 0\\.08190078718843757\ \(0\)\
+\-\ adenotpathy\\:\\ 0\\.07109289051585886\ \(0\)\
+\-\ sialadenitits\\:\\ 0\\.07109289051585886\ \(0\)\
+\-\ tularemia\\:\\ 0\\.07109289051585886\ \(0\)\
+\-\ drug\\-related\\:\\ 0\\.07109289051585886\ \(0\)\
+\-\ icluding\\:\\ 0\\.07109289051585886\ \(0\)\
+\-\ bulimia\\:\\ 0\\.07109289051585886\ \(0\)\
+\-\ envolvement\\:\\ 0\\.07109289051585886\ \(0\)\
+\-\ stones\\:\\ 0\\.07091415832532097\ \(0\)\
+\-\ neoplasms\\:\\ 0\\.07015500492438571\ \(0\)\
+\-\ diseases\\:\\ 0\\.06942998253951047\ \(0\)\
+\-\ gren\\:\\ 0\\.06550299389843994\ \(0\)\
+\-\ catscratch\\:\\ 0\\.06550299389843994\ \(0\)\
+\-\ sets\\:\\ 0\\.06223311399434184\ \(0\)\
+\-\ pmn\\:\\ 0\\.059913097281021024\ \(0\)\
+\-\ sublingual\\:\\ 0\\.058113552512358044\ \(0\)\
+\-\ soreness\\:\\ 0\\.058113552512358044\ \(0\)\
+\-\ sj\\:\\ 0\\.05432320066360211\ \(0\)\
+\-\ actinomycosis\\:\\ 0\\.05432320066360211\ \(0\)\
+\-\ causes\\:\\ 0\\.05365452738402922\ \(0\)\
+\-\ malabsorption\\:\\ 0\\.05252365589493913\ \(0\)\
+\-\ antibiotics\\:\\ 0\\.051769618672104854\ \(0\)\
+\-\ including\\:\\ 0\\.04976481679020845\ \(0\)\
+\-\ inflammatory\\:\\ 0\\.04779541845471006\ \(0\)\
+\-\ parotid\\:\\ 0\\.046933759277520214\ \(0\)\
+\-\ submandibular\\:\\ 0\\.045463424142085096\ \(0\)\
+\-\ autoimmune\\:\\ 0\\.04393727898370987\ \(0\)\
+\-\ mellitus\\:\\ 0\\.043399445318398\ \(0\)\
+\-\ endocrine\\:\\ 0\\.042654499188309165\ \(0\)\
+\-\ lupus\\:\\ 0\\.04057523217780836\ \(0\)\
+\-\ vitamin\\:\\ 0\\.04057523217780836\ \(0\)\
+\-\ hypothyroidism\\:\\ 0\\.040393999469324024\ \(0\)\
+\-\ failed\\:\\ 0\\.038487638355902805\ \(0\)\
+\-\ deficiency\\:\\ 0\\.03718407906915752\ \(0\)\
+\-\ culture\\:\\ 0\\.036716439894557924\ \(0\)\
+\-\ bacterial\\:\\ 0\\.03526505780222727\ \(0\)\
+\-\ viral\\:\\ 0\\.03471499126975523\ \(0\)\
+\-\ unilateral\\:\\ 0\\.03420006004405738\ \(0\)\
+\-\ diabetes\\:\\ 0\\.03411734633303166\ \(0\)\
+\-\ metabolic\\:\\ 0\\.034035472369612164\ \(0\)\
+\-\ disease\\:\\ 0\\.03379203728747671\ \(0\)\
+\-\ dysphagia\\:\\ 0\\.033560952208136895\ \(0\)\
+\-\ stranding\\:\\ 0\\.03333376771646999\ \(0\)\
+\-\ granulomatous\\:\\ 0\\.033259439852720604\ \(0\)\
+\-\ tuberculosis\\:\\ 0\\.03282730883551006\ \(0\)\
+\-\ reactive\\:\\ 0\\.0326196274153293\ \(0\)\
+\-\ complains\\:\\ 0\\.032026865625063766\ \(0\)\
+\-\ sarcoidosis\\:\\ 0\\.03112654327713901\ \(0\)\
+\-\ admitted\\:\\ 0\\.02977060035938096\ \(0\)\
+\-\ oral\\:\\ 0\\.029036956986754132\ \(0\)\
+\-\ enlargement\\:\\ 0\\.027343293600686252\ \(0\)\
+\-\ \\?\\:\\ 0\\.026894189521165377\ \(0\)\
+\-\ 30\\:\\ 0\\.026500720455282862\ \(0\)\
+\-\ iv\\:\\ 0\\.0251485882053314\ \(0\)\
+\-\ wbc\\:\\ 0\\.025121571375611385\ \(0\)\
+\-\ cervical\\:\\ 0\\.025041059730577648\ \(0\)\
+\-\ malignant\\:\\ 0\\.024908634486929846\ \(0\)\
+\-\ or\\:\\ 0\\.024230389087831632\ \(0\)\
+\-\ benign\\:\\ 0\\.023782664250267753\ \(0\)\
+\-\ elevated\\:\\ 0\\.02338158355934728\ \(0\)\
+\-\ fever\\:\\ 0\\.0233166340850965\ \(0\)\
+\-\ masses\\:\\ 0\\.023295099983839412\ \(0\)\
+\-\ radiation\\:\\ 0\\.022614929431954325\ \(0\)\
+\-\ treated\\:\\ 0\\.02062782932325693\ \(0\)\
+\-\ negative\\:\\ 0\\.020581614204636084\ \(0\)\
+\-\ neck\\:\\ 0\\.02023583175014905\ \(0\)\
+\-\ infection\\:\\ 0\\.020032391726393605\ \(0\)\
+\-\ \\,\\:\\ 0\\.01964831120689989\ \(0\)\
+\-\ all\\:\\ 0\\.01949131846315557\ \(0\)\
+\-\ blood\\:\\ 0\\.018809766713784672\ \(0\)\
+\-\ enhancement\\:\\ 0\\.01847168359776642\ \(0\)\
+\-\ 3\\:\\ 0\\.016136899408923707\ \(0\)\
+\-\ \\'s\\:\\ 0\\.015193924341669718\ \(0\)\
+\-\ seen\\:\\ 0\\.013617964637642662\ \(0\)\
+\-\ male\\:\\ 0\\.012461334982963493\ \(0\)\
+\-\ by\\:\\ 0\\.01147476534874899\ \(0\)\
+\-\ \\:\\:\\ 0\\.009115119483795685\ \(0\)\
+\-\ left\\:\\ 0\\.007710526365104151\ \(0\)\
+\-\ year\\:\\ 0\\.007710526365104151\ \(0\)\
+\-\ and\\:\\ 0\\.007258427650492679\ \(0\)\
+\-\ old\\:\\ 0\\.007055924168243989\ \(0\)\
+\-\ no\\:\\ 0\\.0069390657314822735\ \(0\)\
+\-\ of\\:\\ 0\\.003758187122515756\ \(0\)\
+\-\ \\.\\:\\ 0\\.003149152395732331\ \(0\)\
+\-\ with\\:\\ 0\\.0028307461957231385\ \(0\)\

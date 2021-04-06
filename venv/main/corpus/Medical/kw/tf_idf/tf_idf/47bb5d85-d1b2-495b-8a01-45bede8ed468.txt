@@ -1,109 +1,107 @@
-Texto: 
-plain films read as normal (unavailable).
-questionable soft tissue mass, poorly appreciated, just superior to calcaneal insertion of gastrocnemius on involved side.
-surgical repair, progressive pt and re-mobilization
-t1 mri sagittal image suggests incomplete (partial) rupture of achilles tendon, with little or no soft tissue deformity. t2 mri sag image confirms complete tear of tendon (confirmed in other t2 sag cuts)with abnormal hyperintense signal intervening between the proximal and distal tendon fragments.
-achilles tendon rupture
-achilles tendinosis
-partial avulsion
-sudden acceleration in preparation for marathon resulted in significant left posterior supra-calcaneal pain and antalgic gait.
-this represents a complete tear in the typical to slightly older age male group, post trauma. t2 image most helpful in positively identifying complete vs. partial tear of the gastrocnemius tendon.
-
-
-Keywords by value: 
-- tendon: 0.13654810570767797
-- achilles: 0.09443857641350119
-- sag: 0.08672070923532188
-- gastrocnemius: 0.07841747904942716
-- tear: 0.07711486419738763
-- partial: 0.07021963813250846
-- complete: 0.06179539590382303
-- re-mobilization: 0.06038026317785272
-- supra-calcaneal: 0.06038026317785272
-- positively: 0.06038026317785272
-- image: 0.05484635273214248
-- acceleration: 0.05285552147464649
-- rupture: 0.04970044682364031
-- t2: 0.049697029494870246
-- marathon: 0.047052111471994416
-- intervening: 0.04533077977144026
-- cuts: 0.044609132403920906
-- preparation: 0.04395632295320635
-- tendinosis: 0.04336035461766094
-- antalgic: 0.04138992946388162
-- calcaneal: 0.040974692328152616
-- read: 0.03780603806823404
-- unavailable: 0.036642346035388844
-- identifying: 0.036642346035388844
-- questionable: 0.033058454639741254
-- resulted: 0.033058454639741254
-- little: 0.031788569548430554
-- insertion: 0.03168399782150734
-- incomplete: 0.03158099866147625
-- avulsion: 0.031280980698062594
-- confirms: 0.031088029485961937
-- fragments: 0.03062817124734804
-- group: 0.03045253816095532
-- helpful: 0.030281296365027802
-- older: 0.02948396518801129
-- suggests: 0.02926180576504448
-- poorly: 0.02856936660839127
-- soft: 0.028505846082103423
-- appreciated: 0.028503822423349146
-- represents: 0.028123207004480576
-- tissue: 0.02774549573222731
-- gait: 0.02725504463708918
-- sudden: 0.027040986119937778
-- mri: 0.026894189793350957
-- deformity: 0.025203561554220794
-- involved: 0.02455075210350624
-- just: 0.024441742135657616
-- hyperintense: 0.024299042910295686
-- films: 0.024159256118301116
-- slightly: 0.023659083960664882
-- typical: 0.023468812973630116
-- repair: 0.02343760875078176
-- sagittal: 0.02334484008566013
-- progressive: 0.023133144623584265
-- vs: 0.023044383358909574
-- confirmed: 0.02200958632251231
-- pt: 0.021761395579676386
-- side: 0.020277030834000485
-- plain: 0.01900865556636359
-- superior: 0.018690025322288983
-- t1: 0.018551339289207148
-- between: 0.018551339289207148
-- post: 0.018430376938851325
-- age: 0.017814454284550044
-- proximal: 0.01757221357333572
-- abnormal: 0.016692412604896654
-- trauma: 0.016006909464095404
-- distal: 0.015912867047575524
-- significant: 0.015738679116809748
-- signal: 0.015432015960772457
-- (: 0.014843049169394393
-- ): 0.01466173339958846
-- in: 0.01443141199110462
-- most: 0.013512569463890931
-- other: 0.01349067499111266
-- posterior: 0.01349067499111266
-- surgical: 0.012302888837338722
-- male: 0.010583599574571733
-- ,: 0.009270892654701622
-- normal: 0.00917542777122672
-- as: 0.008853270588315943
-- mass: 0.008140143883202496
-- pain: 0.007148001147470785
-- or: 0.0068597448559158045
-- this: 0.006583131598042006
-- left: 0.006548666227896676
-- no: 0.005893453087012342
-- to: 0.005850248060862825
-- for: 0.004993891429059693
-- on: 0.004958157618941288
-- and: 0.0036988151862784612
-- of: 0.003191884953369546
-- the: 0.0028407387267868314
-- a: 0.002716436998757543
-- .: 0.0019451800601285628
-- with: 0.0016027969327382155
+\-\ Texto\\:\\ \ \(0\)\
+\-\ plain\\ films\\ read\\ as\\ normal\\ \\(unavailable\\)\\.\ \(0\)\
+\-\ questionable\\ soft\\ tissue\\ mass\\,\\ poorly\\ appreciated\\,\\ just\\ superior\\ to\\ calcaneal\\ insertion\\ of\\ gastrocnemius\\ on\\ involved\\ side\\.\ \(0\)\
+\-\ surgical\\ repair\\,\\ progressive\\ pt\\ and\\ re\\-mobilization\ \(0\)\
+\-\ t1\\ mri\\ sagittal\\ image\\ suggests\\ incomplete\\ \\(partial\\)\\ rupture\\ of\\ achilles\\ tendon\\,\\ with\\ little\\ or\\ no\\ soft\\ tissue\\ deformity\\.\\ t2\\ mri\\ sag\\ image\\ confirms\\ complete\\ tear\\ of\\ tendon\\ \\(confirmed\\ in\\ other\\ t2\\ sag\\ cuts\\)with\\ abnormal\\ hyperintense\\ signal\\ intervening\\ between\\ the\\ proximal\\ and\\ distal\\ tendon\\ fragments\\.\ \(0\)\
+\-\ achilles\\ tendon\\ rupture\ \(0\)\
+\-\ achilles\\ tendinosis\ \(1\)\
+\-\ partial\\ avulsion\ \(2\)\
+\-\ sudden\\ acceleration\\ in\\ preparation\\ for\\ marathon\\ resulted\\ in\\ significant\\ left\\ posterior\\ supra\\-calcaneal\\ pain\\ and\\ antalgic\\ gait\\.\ \(0\)\
+\-\ this\\ represents\\ a\\ complete\\ tear\\ in\\ the\\ typical\\ to\\ slightly\\ older\\ age\\ male\\ group\\,\\ post\\ trauma\\.\\ t2\\ image\\ most\\ helpful\\ in\\ positively\\ identifying\\ complete\\ vs\\.\\ partial\\ tear\\ of\\ the\\ gastrocnemius\\ tendon\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ tendon\\:\\ 0\\.13654810570767797\ \(0\)\
+\-\ achilles\\:\\ 0\\.09443857641350119\ \(0\)\
+\-\ sag\\:\\ 0\\.08672070923532188\ \(0\)\
+\-\ gastrocnemius\\:\\ 0\\.07841747904942716\ \(0\)\
+\-\ tear\\:\\ 0\\.07711486419738763\ \(0\)\
+\-\ partial\\:\\ 0\\.07021963813250846\ \(0\)\
+\-\ complete\\:\\ 0\\.06179539590382303\ \(0\)\
+\-\ re\\-mobilization\\:\\ 0\\.06038026317785272\ \(0\)\
+\-\ supra\\-calcaneal\\:\\ 0\\.06038026317785272\ \(0\)\
+\-\ positively\\:\\ 0\\.06038026317785272\ \(0\)\
+\-\ image\\:\\ 0\\.05484635273214248\ \(0\)\
+\-\ acceleration\\:\\ 0\\.05285552147464649\ \(0\)\
+\-\ rupture\\:\\ 0\\.04970044682364031\ \(0\)\
+\-\ t2\\:\\ 0\\.049697029494870246\ \(0\)\
+\-\ marathon\\:\\ 0\\.047052111471994416\ \(0\)\
+\-\ intervening\\:\\ 0\\.04533077977144026\ \(0\)\
+\-\ cuts\\:\\ 0\\.044609132403920906\ \(0\)\
+\-\ preparation\\:\\ 0\\.04395632295320635\ \(0\)\
+\-\ tendinosis\\:\\ 0\\.04336035461766094\ \(0\)\
+\-\ antalgic\\:\\ 0\\.04138992946388162\ \(0\)\
+\-\ calcaneal\\:\\ 0\\.040974692328152616\ \(0\)\
+\-\ read\\:\\ 0\\.03780603806823404\ \(0\)\
+\-\ unavailable\\:\\ 0\\.036642346035388844\ \(0\)\
+\-\ identifying\\:\\ 0\\.036642346035388844\ \(0\)\
+\-\ questionable\\:\\ 0\\.033058454639741254\ \(0\)\
+\-\ resulted\\:\\ 0\\.033058454639741254\ \(0\)\
+\-\ little\\:\\ 0\\.031788569548430554\ \(0\)\
+\-\ insertion\\:\\ 0\\.03168399782150734\ \(0\)\
+\-\ incomplete\\:\\ 0\\.03158099866147625\ \(0\)\
+\-\ avulsion\\:\\ 0\\.031280980698062594\ \(0\)\
+\-\ confirms\\:\\ 0\\.031088029485961937\ \(0\)\
+\-\ fragments\\:\\ 0\\.03062817124734804\ \(0\)\
+\-\ group\\:\\ 0\\.03045253816095532\ \(0\)\
+\-\ helpful\\:\\ 0\\.030281296365027802\ \(0\)\
+\-\ older\\:\\ 0\\.02948396518801129\ \(0\)\
+\-\ suggests\\:\\ 0\\.02926180576504448\ \(0\)\
+\-\ poorly\\:\\ 0\\.02856936660839127\ \(0\)\
+\-\ soft\\:\\ 0\\.028505846082103423\ \(0\)\
+\-\ appreciated\\:\\ 0\\.028503822423349146\ \(0\)\
+\-\ represents\\:\\ 0\\.028123207004480576\ \(0\)\
+\-\ tissue\\:\\ 0\\.02774549573222731\ \(0\)\
+\-\ gait\\:\\ 0\\.02725504463708918\ \(0\)\
+\-\ sudden\\:\\ 0\\.027040986119937778\ \(0\)\
+\-\ mri\\:\\ 0\\.026894189793350957\ \(0\)\
+\-\ deformity\\:\\ 0\\.025203561554220794\ \(0\)\
+\-\ involved\\:\\ 0\\.02455075210350624\ \(0\)\
+\-\ just\\:\\ 0\\.024441742135657616\ \(0\)\
+\-\ hyperintense\\:\\ 0\\.024299042910295686\ \(0\)\
+\-\ films\\:\\ 0\\.024159256118301116\ \(0\)\
+\-\ slightly\\:\\ 0\\.023659083960664882\ \(0\)\
+\-\ typical\\:\\ 0\\.023468812973630116\ \(0\)\
+\-\ repair\\:\\ 0\\.02343760875078176\ \(0\)\
+\-\ sagittal\\:\\ 0\\.02334484008566013\ \(0\)\
+\-\ progressive\\:\\ 0\\.023133144623584265\ \(0\)\
+\-\ vs\\:\\ 0\\.023044383358909574\ \(0\)\
+\-\ confirmed\\:\\ 0\\.02200958632251231\ \(0\)\
+\-\ pt\\:\\ 0\\.021761395579676386\ \(0\)\
+\-\ side\\:\\ 0\\.020277030834000485\ \(0\)\
+\-\ plain\\:\\ 0\\.01900865556636359\ \(0\)\
+\-\ superior\\:\\ 0\\.018690025322288983\ \(0\)\
+\-\ t1\\:\\ 0\\.018551339289207148\ \(0\)\
+\-\ between\\:\\ 0\\.018551339289207148\ \(0\)\
+\-\ post\\:\\ 0\\.018430376938851325\ \(0\)\
+\-\ age\\:\\ 0\\.017814454284550044\ \(0\)\
+\-\ proximal\\:\\ 0\\.01757221357333572\ \(0\)\
+\-\ abnormal\\:\\ 0\\.016692412604896654\ \(0\)\
+\-\ trauma\\:\\ 0\\.016006909464095404\ \(0\)\
+\-\ distal\\:\\ 0\\.015912867047575524\ \(0\)\
+\-\ significant\\:\\ 0\\.015738679116809748\ \(0\)\
+\-\ signal\\:\\ 0\\.015432015960772457\ \(0\)\
+\-\ \\(\\:\\ 0\\.014843049169394393\ \(0\)\
+\-\ \\)\\:\\ 0\\.01466173339958846\ \(0\)\
+\-\ in\\:\\ 0\\.01443141199110462\ \(0\)\
+\-\ most\\:\\ 0\\.013512569463890931\ \(0\)\
+\-\ other\\:\\ 0\\.01349067499111266\ \(0\)\
+\-\ posterior\\:\\ 0\\.01349067499111266\ \(0\)\
+\-\ surgical\\:\\ 0\\.012302888837338722\ \(0\)\
+\-\ male\\:\\ 0\\.010583599574571733\ \(0\)\
+\-\ \\,\\:\\ 0\\.009270892654701622\ \(0\)\
+\-\ normal\\:\\ 0\\.00917542777122672\ \(0\)\
+\-\ as\\:\\ 0\\.008853270588315943\ \(0\)\
+\-\ mass\\:\\ 0\\.008140143883202496\ \(0\)\
+\-\ pain\\:\\ 0\\.007148001147470785\ \(0\)\
+\-\ or\\:\\ 0\\.0068597448559158045\ \(0\)\
+\-\ this\\:\\ 0\\.006583131598042006\ \(0\)\
+\-\ left\\:\\ 0\\.006548666227896676\ \(0\)\
+\-\ no\\:\\ 0\\.005893453087012342\ \(0\)\
+\-\ to\\:\\ 0\\.005850248060862825\ \(0\)\
+\-\ for\\:\\ 0\\.004993891429059693\ \(0\)\
+\-\ on\\:\\ 0\\.004958157618941288\ \(0\)\
+\-\ and\\:\\ 0\\.0036988151862784612\ \(0\)\
+\-\ of\\:\\ 0\\.003191884953369546\ \(0\)\
+\-\ the\\:\\ 0\\.0028407387267868314\ \(0\)\
+\-\ a\\:\\ 0\\.002716436998757543\ \(0\)\
+\-\ \\.\\:\\ 0\\.0019451800601285628\ \(0\)\
+\-\ with\\:\\ 0\\.0016027969327382155\ \(0\)\

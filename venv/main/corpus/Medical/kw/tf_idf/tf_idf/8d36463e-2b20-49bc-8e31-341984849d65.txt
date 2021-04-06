@@ -1,53 +1,51 @@
-Texto: 
-n/a
-patient is currently undergoing evaluation by gynecology for further treatment.
-grey scale sonographic images demonstrate a lobulated appearance of the uterus with an indistinct endometrial stripe.  sonohysterogram demonstrates complete occlusion of the superior aspect of the endometrial canal.
-uterine leiomyoma
-n/a
-37 year old female with history of fibroids.
-
-
-Keywords by value: 
-- endometrial: 0.179452833719051
-- sonohysterogram: 0.15041428228530654
-- gynecology: 0.12060987649948986
-- n/a: 0.11463728323552172
-- grey: 0.1087236934222233
-- indistinct: 0.10364152961293142
-- stripe: 0.10364152961293142
-- fibroids: 0.10154285025539433
-- leiomyoma: 0.09317275537126364
-- scale: 0.09043875539337355
-- uterine: 0.08119817824302192
-- lobulated: 0.07951351568365662
-- 37: 0.07951351568365662
-- occlusion: 0.07891928763640661
-- undergoing: 0.0776026964941153
-- sonographic: 0.07671647387971466
-- uterus: 0.07459308668860097
-- canal: 0.06287006342026319
-- currently: 0.0627069036113344
-- complete: 0.05569214692566767
-- superior: 0.050532290686188724
-- further: 0.05032303966296774
-- aspect: 0.04970910989783995
-- evaluation: 0.045967385107903845
-- appearance: 0.045257529198789656
-- demonstrate: 0.03641578039505631
-- demonstrates: 0.03456705928987382
-- female: 0.03253259761940432
-- treatment: 0.03202994369631272
-- images: 0.030356738739802852
-- by: 0.026349461171201384
-- an: 0.02188268267193944
-- history: 0.021855824772353396
-- year: 0.017705653134683606
-- old: 0.016202492534486197
-- patient: 0.015862813535488664
-- for: 0.013502002752642872
-- is: 0.010412792192309733
-- of: 0.008629911170221365
-- the: 0.0076805158168681
-- a: 0.007344440774418541
-- with: 0.004333488003329249
-- .: 0.0026295952664700945
+\-\ Texto\\:\\ \ \(0\)\
+\-\ n\\/a\ \(127\)\
+\-\ patient\\ is\\ currently\\ undergoing\\ evaluation\\ by\\ gynecology\\ for\\ further\\ treatment\\.\ \(0\)\
+\-\ grey\\ scale\\ sonographic\\ images\\ demonstrate\\ a\\ lobulated\\ appearance\\ of\\ the\\ uterus\\ with\\ an\\ indistinct\\ endometrial\\ stripe\\.\\ \\ sonohysterogram\\ demonstrates\\ complete\\ occlusion\\ of\\ the\\ superior\\ aspect\\ of\\ the\\ endometrial\\ canal\\.\ \(0\)\
+\-\ uterine\\ leiomyoma\ \(5\)\
+\-\ n\\/a\ \(127\)\
+\-\ 37\\ year\\ old\\ female\\ with\\ history\\ of\\ fibroids\\.\ \(1\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ endometrial\\:\\ 0\\.179452833719051\ \(0\)\
+\-\ sonohysterogram\\:\\ 0\\.15041428228530654\ \(0\)\
+\-\ gynecology\\:\\ 0\\.12060987649948986\ \(0\)\
+\-\ n\\/a\\:\\ 0\\.11463728323552172\ \(0\)\
+\-\ grey\\:\\ 0\\.1087236934222233\ \(0\)\
+\-\ indistinct\\:\\ 0\\.10364152961293142\ \(0\)\
+\-\ stripe\\:\\ 0\\.10364152961293142\ \(0\)\
+\-\ fibroids\\:\\ 0\\.10154285025539433\ \(0\)\
+\-\ leiomyoma\\:\\ 0\\.09317275537126364\ \(0\)\
+\-\ scale\\:\\ 0\\.09043875539337355\ \(0\)\
+\-\ uterine\\:\\ 0\\.08119817824302192\ \(0\)\
+\-\ lobulated\\:\\ 0\\.07951351568365662\ \(0\)\
+\-\ 37\\:\\ 0\\.07951351568365662\ \(0\)\
+\-\ occlusion\\:\\ 0\\.07891928763640661\ \(0\)\
+\-\ undergoing\\:\\ 0\\.0776026964941153\ \(0\)\
+\-\ sonographic\\:\\ 0\\.07671647387971466\ \(0\)\
+\-\ uterus\\:\\ 0\\.07459308668860097\ \(0\)\
+\-\ canal\\:\\ 0\\.06287006342026319\ \(0\)\
+\-\ currently\\:\\ 0\\.0627069036113344\ \(0\)\
+\-\ complete\\:\\ 0\\.05569214692566767\ \(0\)\
+\-\ superior\\:\\ 0\\.050532290686188724\ \(0\)\
+\-\ further\\:\\ 0\\.05032303966296774\ \(0\)\
+\-\ aspect\\:\\ 0\\.04970910989783995\ \(0\)\
+\-\ evaluation\\:\\ 0\\.045967385107903845\ \(0\)\
+\-\ appearance\\:\\ 0\\.045257529198789656\ \(0\)\
+\-\ demonstrate\\:\\ 0\\.03641578039505631\ \(0\)\
+\-\ demonstrates\\:\\ 0\\.03456705928987382\ \(0\)\
+\-\ female\\:\\ 0\\.03253259761940432\ \(0\)\
+\-\ treatment\\:\\ 0\\.03202994369631272\ \(0\)\
+\-\ images\\:\\ 0\\.030356738739802852\ \(0\)\
+\-\ by\\:\\ 0\\.026349461171201384\ \(0\)\
+\-\ an\\:\\ 0\\.02188268267193944\ \(0\)\
+\-\ history\\:\\ 0\\.021855824772353396\ \(0\)\
+\-\ year\\:\\ 0\\.017705653134683606\ \(0\)\
+\-\ old\\:\\ 0\\.016202492534486197\ \(0\)\
+\-\ patient\\:\\ 0\\.015862813535488664\ \(0\)\
+\-\ for\\:\\ 0\\.013502002752642872\ \(0\)\
+\-\ is\\:\\ 0\\.010412792192309733\ \(0\)\
+\-\ of\\:\\ 0\\.008629911170221365\ \(0\)\
+\-\ the\\:\\ 0\\.0076805158168681\ \(0\)\
+\-\ a\\:\\ 0\\.007344440774418541\ \(0\)\
+\-\ with\\:\\ 0\\.004333488003329249\ \(0\)\
+\-\ \\.\\:\\ 0\\.0026295952664700945\ \(0\)\

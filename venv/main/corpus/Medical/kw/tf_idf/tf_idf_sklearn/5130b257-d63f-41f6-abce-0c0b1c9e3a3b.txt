@@ -1,75 +1,73 @@
-Texto: 
-decreased breath sounds in the left chest on ausculation by neonatologist.
-the lesion was surgically resected.
-frontal and lateral chest radiographs (fig. 1) demonstrates  a well-demarcated left posterior lung mass with preservation of the ribs and left paravertebral stripe.
-sagittal ct image reconstruction (fig. 2) demonstrates a mixed fluid and solid components in the mass with scattered, air-filled cysts.
-congenital cystic adenomatoid malformation
-congenital cystic adenomatoid malformation
-   (ccam)
-intrapulmonary bronchogenic cyst
-lung abscess (including parasitic)
-congenital diaphragmatic hernia
-hemothorax
-2-day-old newborn with rapid breathing and intermittent desaturations.
-
-
-Keywords by value: 
-- adenomatoid: 0.28262981748620414
-- fig: 0.27138019866524343
-- congenital: 0.2665094721924134
-- ausculation: 0.1977272473625707
-- neonatologist: 0.1977272473625707
-- malformation: 0.1907179578161494
-- intrapulmonary: 0.17786698383232968
-- desaturations: 0.17786698383232968
-- lung: 0.1504232599502175
-- paravertebral: 0.15010321535717766
-- ccam: 0.15010321535717766
-- cystic: 0.14892830966621137
-- stripe: 0.14213291642710862
-- hemothorax: 0.13763240980808703
-- preservation: 0.13507950596855675
-- parasitic: 0.13448564331240914
-- chest: 0.13052689544510396
-- reconstruction: 0.1283971877517757
-- diaphragmatic: 0.1266963444406967
-- left: 0.12652888311704455
-- demonstrates: 0.12423076474515943
-- newborn: 0.12194173607166096
-- ribs: 0.12129468411021793
-- breathing: 0.12097826051927296
-- bronchogenic: 0.1188839095080463
-- rapid: 0.11497974131602158
-- surgically: 0.11474285774472764
-- resected: 0.11315342945758536
-- components: 0.1122949160039304
-- scattered: 0.10758499103084522
-- mixed: 0.10234580058604734
-- hernia: 0.10234580058604734
-- and: 0.10219475406123073
-- intermittent: 0.10105526284673967
-- the: 0.09868262567282465
-- sounds: 0.09545552530837907
-- sagittal: 0.09507189350534977
-- solid: 0.0947885609605739
-- mass: 0.09445434488214367
-- cysts: 0.09369087673770904
-- breath: 0.09061897116675896
-- including: 0.08848290000123388
-- radiographs: 0.08019125150765878
-- frontal: 0.07957800014726567
-- abscess: 0.07939274576283037
-- image: 0.07907231243530366
-- decreased: 0.07658514297565681
-- with: 0.07263076248014533
-- fluid: 0.07138700180273508
-- cyst: 0.0713233464529271
-- posterior: 0.06393530100597711
-- in: 0.061515229679570724
-- lateral: 0.06135980765837737
-- lesion: 0.05927575771314603
-- by: 0.05250470705914373
-- ct: 0.04707090189369575
-- was: 0.04308975774222415
-- on: 0.03734139674271105
-- of: 0.024195797177000728
+\-\ Texto\\:\\ \ \(0\)\
+\-\ decreased\\ breath\\ sounds\\ in\\ the\\ left\\ chest\\ on\\ ausculation\\ by\\ neonatologist\\.\ \(0\)\
+\-\ the\\ lesion\\ was\\ surgically\\ resected\\.\ \(1\)\
+\-\ frontal\\ and\\ lateral\\ chest\\ radiographs\\ \\(fig\\.\\ 1\\)\\ demonstrates\\ \\ a\\ well\\-demarcated\\ left\\ posterior\\ lung\\ mass\\ with\\ preservation\\ of\\ the\\ ribs\\ and\\ left\\ paravertebral\\ stripe\\.\ \(0\)\
+\-\ sagittal\\ ct\\ image\\ reconstruction\\ \\(fig\\.\\ 2\\)\\ demonstrates\\ a\\ mixed\\ fluid\\ and\\ solid\\ components\\ in\\ the\\ mass\\ with\\ scattered\\,\\ air\\-filled\\ cysts\\.\ \(0\)\
+\-\ congenital\\ cystic\\ adenomatoid\\ malformation\ \(2\)\
+\-\ congenital\\ cystic\\ adenomatoid\\ malformation\ \(2\)\
+\-\ \\ \\ \\ \\(ccam\\)\ \(0\)\
+\-\ intrapulmonary\\ bronchogenic\\ cyst\ \(0\)\
+\-\ lung\\ abscess\\ \\(including\\ parasitic\\)\ \(0\)\
+\-\ congenital\\ diaphragmatic\\ hernia\ \(9\)\
+\-\ hemothorax\ \(29\)\
+\-\ 2\\-day\\-old\\ newborn\\ with\\ rapid\\ breathing\\ and\\ intermittent\\ desaturations\\.\ \(1\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ adenomatoid\\:\\ 0\\.28262981748620414\ \(0\)\
+\-\ fig\\:\\ 0\\.27138019866524343\ \(0\)\
+\-\ congenital\\:\\ 0\\.2665094721924134\ \(0\)\
+\-\ ausculation\\:\\ 0\\.1977272473625707\ \(0\)\
+\-\ neonatologist\\:\\ 0\\.1977272473625707\ \(0\)\
+\-\ malformation\\:\\ 0\\.1907179578161494\ \(0\)\
+\-\ intrapulmonary\\:\\ 0\\.17786698383232968\ \(0\)\
+\-\ desaturations\\:\\ 0\\.17786698383232968\ \(0\)\
+\-\ lung\\:\\ 0\\.1504232599502175\ \(0\)\
+\-\ paravertebral\\:\\ 0\\.15010321535717766\ \(0\)\
+\-\ ccam\\:\\ 0\\.15010321535717766\ \(0\)\
+\-\ cystic\\:\\ 0\\.14892830966621137\ \(0\)\
+\-\ stripe\\:\\ 0\\.14213291642710862\ \(0\)\
+\-\ hemothorax\\:\\ 0\\.13763240980808703\ \(0\)\
+\-\ preservation\\:\\ 0\\.13507950596855675\ \(0\)\
+\-\ parasitic\\:\\ 0\\.13448564331240914\ \(0\)\
+\-\ chest\\:\\ 0\\.13052689544510396\ \(0\)\
+\-\ reconstruction\\:\\ 0\\.1283971877517757\ \(0\)\
+\-\ diaphragmatic\\:\\ 0\\.1266963444406967\ \(0\)\
+\-\ left\\:\\ 0\\.12652888311704455\ \(0\)\
+\-\ demonstrates\\:\\ 0\\.12423076474515943\ \(0\)\
+\-\ newborn\\:\\ 0\\.12194173607166096\ \(0\)\
+\-\ ribs\\:\\ 0\\.12129468411021793\ \(0\)\
+\-\ breathing\\:\\ 0\\.12097826051927296\ \(0\)\
+\-\ bronchogenic\\:\\ 0\\.1188839095080463\ \(0\)\
+\-\ rapid\\:\\ 0\\.11497974131602158\ \(0\)\
+\-\ surgically\\:\\ 0\\.11474285774472764\ \(0\)\
+\-\ resected\\:\\ 0\\.11315342945758536\ \(0\)\
+\-\ components\\:\\ 0\\.1122949160039304\ \(0\)\
+\-\ scattered\\:\\ 0\\.10758499103084522\ \(0\)\
+\-\ mixed\\:\\ 0\\.10234580058604734\ \(0\)\
+\-\ hernia\\:\\ 0\\.10234580058604734\ \(0\)\
+\-\ and\\:\\ 0\\.10219475406123073\ \(0\)\
+\-\ intermittent\\:\\ 0\\.10105526284673967\ \(0\)\
+\-\ the\\:\\ 0\\.09868262567282465\ \(0\)\
+\-\ sounds\\:\\ 0\\.09545552530837907\ \(0\)\
+\-\ sagittal\\:\\ 0\\.09507189350534977\ \(0\)\
+\-\ solid\\:\\ 0\\.0947885609605739\ \(0\)\
+\-\ mass\\:\\ 0\\.09445434488214367\ \(0\)\
+\-\ cysts\\:\\ 0\\.09369087673770904\ \(0\)\
+\-\ breath\\:\\ 0\\.09061897116675896\ \(0\)\
+\-\ including\\:\\ 0\\.08848290000123388\ \(0\)\
+\-\ radiographs\\:\\ 0\\.08019125150765878\ \(0\)\
+\-\ frontal\\:\\ 0\\.07957800014726567\ \(0\)\
+\-\ abscess\\:\\ 0\\.07939274576283037\ \(0\)\
+\-\ image\\:\\ 0\\.07907231243530366\ \(0\)\
+\-\ decreased\\:\\ 0\\.07658514297565681\ \(0\)\
+\-\ with\\:\\ 0\\.07263076248014533\ \(0\)\
+\-\ fluid\\:\\ 0\\.07138700180273508\ \(0\)\
+\-\ cyst\\:\\ 0\\.0713233464529271\ \(0\)\
+\-\ posterior\\:\\ 0\\.06393530100597711\ \(0\)\
+\-\ in\\:\\ 0\\.061515229679570724\ \(0\)\
+\-\ lateral\\:\\ 0\\.06135980765837737\ \(0\)\
+\-\ lesion\\:\\ 0\\.05927575771314603\ \(0\)\
+\-\ by\\:\\ 0\\.05250470705914373\ \(0\)\
+\-\ ct\\:\\ 0\\.04707090189369575\ \(0\)\
+\-\ was\\:\\ 0\\.04308975774222415\ \(0\)\
+\-\ on\\:\\ 0\\.03734139674271105\ \(0\)\
+\-\ of\\:\\ 0\\.024195797177000728\ \(0\)\

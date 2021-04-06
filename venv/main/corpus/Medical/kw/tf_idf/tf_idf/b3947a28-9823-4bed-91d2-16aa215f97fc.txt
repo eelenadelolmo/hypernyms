@@ -1,62 +1,60 @@
-Texto: 
-mri is recommended for further characterization and to guide surgical planning.
-hsg demonstrates a large, wedge-shaped division between the uterine cornua.  normal contrast spillage from the bilateral fallopian tubes.
-septate vs bicornuate uterus
-septate uterus vs bicornuate uterus
-43 yo caucasian woman being followed in the infertility clinic, presents for hysterosalpingogram for evalution.
-evaluation of the fundal contour is required for further characterization and to assist in surgical planning.
-
-
-Keywords by value: 
-- characterization: 0.1644886596448674
-- septate: 0.1590244658349136
-- bicornuate: 0.1590244658349136
-- uterus: 0.15900105320464944
-- planning: 0.1452547778411097
-- cornua: 0.11599366347324339
-- evalution: 0.1015382386223472
-- hsg: 0.09241788098340056
-- vs: 0.08853894658949467
-- spillage: 0.0822443298224337
-- guide: 0.0812692249256742
-- division: 0.08036142398505641
-- fundal: 0.08036142398505641
-- hysterosalpingogram: 0.0795122329174568
-- wedge-shaped: 0.07725104532631655
-- assist: 0.07725104532631655
-- further: 0.07151168794211206
-- tubes: 0.06848158567529307
-- infertility: 0.06848158567529307
-- fallopian: 0.06620169460589785
-- 43: 0.06066876058652016
-- uterine: 0.05769344243583137
-- contour: 0.05450907354611304
-- caucasian: 0.05367526283647372
-- clinic: 0.05024087039739977
-- surgical: 0.047268993953985615
-- recommended: 0.04661209033424673
-- required: 0.04047007252351663
-- being: 0.03918142074737577
-- for: 0.03837411308645869
-- followed: 0.037695735149720674
-- between: 0.03563809916084531
-- yo: 0.03383357267503634
-- evaluation: 0.032661036787194835
-- bilateral: 0.027287075385716366
-- woman: 0.025972407203801395
-- mri: 0.02583257703835026
-- contrast: 0.02516810114220928
-- large: 0.02458608462935631
-- demonstrates: 0.02456080528491034
-- presents: 0.02296900388826218
-- normal: 0.017626479665777645
-- from: 0.01666362780466069
-- is: 0.014797125746966464
-- to: 0.011238634432710164
-- in: 0.011089400793164603
-- the: 0.007276278142296094
-- ,: 0.007123949092560194
-- a: 0.005218418444981596
-- and: 0.0047370790982162745
-- .: 0.0023354957958780444
-- of: 0.001532944747341953
+\-\ Texto\\:\\ \ \(0\)\
+\-\ mri\\ is\\ recommended\\ for\\ further\\ characterization\\ and\\ to\\ guide\\ surgical\\ planning\\.\ \(0\)\
+\-\ hsg\\ demonstrates\\ a\\ large\\,\\ wedge\\-shaped\\ division\\ between\\ the\\ uterine\\ cornua\\.\\ \\ normal\\ contrast\\ spillage\\ from\\ the\\ bilateral\\ fallopian\\ tubes\\.\ \(0\)\
+\-\ septate\\ vs\\ bicornuate\\ uterus\ \(0\)\
+\-\ septate\\ uterus\\ vs\\ bicornuate\\ uterus\ \(0\)\
+\-\ 43\\ yo\\ caucasian\\ woman\\ being\\ followed\\ in\\ the\\ infertility\\ clinic\\,\\ presents\\ for\\ hysterosalpingogram\\ for\\ evalution\\.\ \(0\)\
+\-\ evaluation\\ of\\ the\\ fundal\\ contour\\ is\\ required\\ for\\ further\\ characterization\\ and\\ to\\ assist\\ in\\ surgical\\ planning\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ characterization\\:\\ 0\\.1644886596448674\ \(0\)\
+\-\ septate\\:\\ 0\\.1590244658349136\ \(0\)\
+\-\ bicornuate\\:\\ 0\\.1590244658349136\ \(0\)\
+\-\ uterus\\:\\ 0\\.15900105320464944\ \(0\)\
+\-\ planning\\:\\ 0\\.1452547778411097\ \(0\)\
+\-\ cornua\\:\\ 0\\.11599366347324339\ \(0\)\
+\-\ evalution\\:\\ 0\\.1015382386223472\ \(0\)\
+\-\ hsg\\:\\ 0\\.09241788098340056\ \(0\)\
+\-\ vs\\:\\ 0\\.08853894658949467\ \(0\)\
+\-\ spillage\\:\\ 0\\.0822443298224337\ \(0\)\
+\-\ guide\\:\\ 0\\.0812692249256742\ \(0\)\
+\-\ division\\:\\ 0\\.08036142398505641\ \(0\)\
+\-\ fundal\\:\\ 0\\.08036142398505641\ \(0\)\
+\-\ hysterosalpingogram\\:\\ 0\\.0795122329174568\ \(0\)\
+\-\ wedge\\-shaped\\:\\ 0\\.07725104532631655\ \(0\)\
+\-\ assist\\:\\ 0\\.07725104532631655\ \(0\)\
+\-\ further\\:\\ 0\\.07151168794211206\ \(0\)\
+\-\ tubes\\:\\ 0\\.06848158567529307\ \(0\)\
+\-\ infertility\\:\\ 0\\.06848158567529307\ \(0\)\
+\-\ fallopian\\:\\ 0\\.06620169460589785\ \(0\)\
+\-\ 43\\:\\ 0\\.06066876058652016\ \(0\)\
+\-\ uterine\\:\\ 0\\.05769344243583137\ \(0\)\
+\-\ contour\\:\\ 0\\.05450907354611304\ \(0\)\
+\-\ caucasian\\:\\ 0\\.05367526283647372\ \(0\)\
+\-\ clinic\\:\\ 0\\.05024087039739977\ \(0\)\
+\-\ surgical\\:\\ 0\\.047268993953985615\ \(0\)\
+\-\ recommended\\:\\ 0\\.04661209033424673\ \(0\)\
+\-\ required\\:\\ 0\\.04047007252351663\ \(0\)\
+\-\ being\\:\\ 0\\.03918142074737577\ \(0\)\
+\-\ for\\:\\ 0\\.03837411308645869\ \(0\)\
+\-\ followed\\:\\ 0\\.037695735149720674\ \(0\)\
+\-\ between\\:\\ 0\\.03563809916084531\ \(0\)\
+\-\ yo\\:\\ 0\\.03383357267503634\ \(0\)\
+\-\ evaluation\\:\\ 0\\.032661036787194835\ \(0\)\
+\-\ bilateral\\:\\ 0\\.027287075385716366\ \(0\)\
+\-\ woman\\:\\ 0\\.025972407203801395\ \(0\)\
+\-\ mri\\:\\ 0\\.02583257703835026\ \(0\)\
+\-\ contrast\\:\\ 0\\.02516810114220928\ \(0\)\
+\-\ large\\:\\ 0\\.02458608462935631\ \(0\)\
+\-\ demonstrates\\:\\ 0\\.02456080528491034\ \(0\)\
+\-\ presents\\:\\ 0\\.02296900388826218\ \(0\)\
+\-\ normal\\:\\ 0\\.017626479665777645\ \(0\)\
+\-\ from\\:\\ 0\\.01666362780466069\ \(0\)\
+\-\ is\\:\\ 0\\.014797125746966464\ \(0\)\
+\-\ to\\:\\ 0\\.011238634432710164\ \(0\)\
+\-\ in\\:\\ 0\\.011089400793164603\ \(0\)\
+\-\ the\\:\\ 0\\.007276278142296094\ \(0\)\
+\-\ \\,\\:\\ 0\\.007123949092560194\ \(0\)\
+\-\ a\\:\\ 0\\.005218418444981596\ \(0\)\
+\-\ and\\:\\ 0\\.0047370790982162745\ \(0\)\
+\-\ \\.\\:\\ 0\\.0023354957958780444\ \(0\)\
+\-\ of\\:\\ 0\\.001532944747341953\ \(0\)\

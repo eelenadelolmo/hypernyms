@@ -1,82 +1,80 @@
-Texto: 
-fever
-csf abnormal with increased wbc and postive gram stain
-strep pneumonia cultured from csf
-negative blood cultures
-tympanic membrane  tube (myringotomy) placemed on right.
-antibiotics
-â€¢ bilateral mastoiditis and otitis, worse on right.
-â€¢ increased csf signal on flair scans.
-â€¢ abnormal increase in leptomeningeal and vascular enhancement on contrast mri sequences.
-acute bacterial meningitis secondary to masoitidits and otitis
-â€¢ viral or bacterial meningitis
-â€¢ chemical meningitis
-â€¢ leptomeningeal tumor spread
-33 year old woman with headache, fever, photophobia, and stiff neck.  currently being treated for otitis media
-
-
-Keywords by value: 
-- otitis: 0.38100870885290267
-- meningitis: 0.313990661915386
-- csf: 0.2634053852148833
-- leptomeningeal: 0.23498008910263526
-- bacterial: 0.20797579461711518
-- placemed: 0.17770194688517812
-- masoitidits: 0.17770194688517812
-- myringotomy: 0.16980369706894796
-- postive: 0.15630154982618794
-- fever: 0.15067892070225858
-- cultured: 0.14840330000995774
-- stiff: 0.14279940258342788
-- strep: 0.13719550515689802
-- mastoiditis: 0.13601456899606582
-- on: 0.1342382294621012
-- abnormal: 0.13351646890297286
-- tympanic: 0.1262944801221092
-- media: 0.12369335791413799
-- photophobia: 0.12139900552443769
-- stain: 0.12086528773092425
-- chemical: 0.12086528773092425
-- increased: 0.12017471162837608
-- gram: 0.11839623030587902
-- membrane: 0.11662414729274875
-- and: 0.11480591952023977
-- cultures: 0.10466355397179533
-- viral: 0.1024969363405809
-- spread: 0.09981907280865969
-- 33: 0.09778458394573722
-- scans: 0.09668906342861792
-- flair: 0.09453045709953922
-- worse: 0.09308687227376876
-- increase: 0.08920092309407325
-- sequences: 0.08889253437026486
-- tube: 0.08879081361238773
-- pneumonia: 0.08770559990888688
-- currently: 0.08535801031505098
-- antibiotics: 0.08186327256721038
-- wbc: 0.07853818214209876
-- being: 0.07743142670347115
-- headache: 0.076600028218266
-- right: 0.07368046005974449
-- vascular: 0.07335842702732874
-- treated: 0.06919634750009813
-- negative: 0.06879242296238218
-- neck: 0.06797398649445278
-- secondary: 0.06586246831785733
-- blood: 0.06453311983676636
-- enhancement: 0.06395761325606077
-- signal: 0.06298966135900452
-- acute: 0.060110614898585435
-- bilateral: 0.0597189385749605
-- tumor: 0.05812118535313732
-- woman: 0.057870641952407965
-- mri: 0.05703814557752983
-- contrast: 0.05398999006851461
-- from: 0.04413137716948127
-- with: 0.04351660538657749
-- or: 0.03865598978068046
-- year: 0.03424439421594546
-- for: 0.033679027110563683
-- old: 0.032886472438540953
-- to: 0.02777929336552333
-- in: 0.027642563741111115
+\-\ Texto\\:\\ \ \(0\)\
+\-\ fever\ \(530\)\
+\-\ csf\\ abnormal\\ with\\ increased\\ wbc\\ and\\ postive\\ gram\\ stain\ \(0\)\
+\-\ strep\\ pneumonia\\ cultured\\ from\\ csf\ \(0\)\
+\-\ negative\\ blood\\ cultures\ \(1\)\
+\-\ tympanic\\ membrane\\ \\ tube\\ \\(myringotomy\\)\\ placemed\\ on\\ right\\.\ \(0\)\
+\-\ antibiotics\ \(283\)\
+\-\ \\â\\€\\¢\\ bilateral\\ mastoiditis\\ and\\ otitis\\,\\ worse\\ on\\ right\\.\ \(0\)\
+\-\ \\â\\€\\¢\\ increased\\ csf\\ signal\\ on\\ flair\\ scans\\.\ \(0\)\
+\-\ \\â\\€\\¢\\ abnormal\\ increase\\ in\\ leptomeningeal\\ and\\ vascular\\ enhancement\\ on\\ contrast\\ mri\\ sequences\\.\ \(0\)\
+\-\ acute\\ bacterial\\ meningitis\\ secondary\\ to\\ masoitidits\\ and\\ otitis\ \(0\)\
+\-\ \\â\\€\\¢\\ viral\\ or\\ bacterial\\ meningitis\ \(0\)\
+\-\ \\â\\€\\¢\\ chemical\\ meningitis\ \(0\)\
+\-\ \\â\\€\\¢\\ leptomeningeal\\ tumor\\ spread\ \(0\)\
+\-\ 33\\ year\\ old\\ woman\\ with\\ headache\\,\\ fever\\,\\ photophobia\\,\\ and\\ stiff\\ neck\\.\\ \\ currently\\ being\\ treated\\ for\\ otitis\\ media\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ otitis\\:\\ 0\\.38100870885290267\ \(0\)\
+\-\ meningitis\\:\\ 0\\.313990661915386\ \(0\)\
+\-\ csf\\:\\ 0\\.2634053852148833\ \(0\)\
+\-\ leptomeningeal\\:\\ 0\\.23498008910263526\ \(0\)\
+\-\ bacterial\\:\\ 0\\.20797579461711518\ \(0\)\
+\-\ placemed\\:\\ 0\\.17770194688517812\ \(0\)\
+\-\ masoitidits\\:\\ 0\\.17770194688517812\ \(0\)\
+\-\ myringotomy\\:\\ 0\\.16980369706894796\ \(0\)\
+\-\ postive\\:\\ 0\\.15630154982618794\ \(0\)\
+\-\ fever\\:\\ 0\\.15067892070225858\ \(0\)\
+\-\ cultured\\:\\ 0\\.14840330000995774\ \(0\)\
+\-\ stiff\\:\\ 0\\.14279940258342788\ \(0\)\
+\-\ strep\\:\\ 0\\.13719550515689802\ \(0\)\
+\-\ mastoiditis\\:\\ 0\\.13601456899606582\ \(0\)\
+\-\ on\\:\\ 0\\.1342382294621012\ \(0\)\
+\-\ abnormal\\:\\ 0\\.13351646890297286\ \(0\)\
+\-\ tympanic\\:\\ 0\\.1262944801221092\ \(0\)\
+\-\ media\\:\\ 0\\.12369335791413799\ \(0\)\
+\-\ photophobia\\:\\ 0\\.12139900552443769\ \(0\)\
+\-\ stain\\:\\ 0\\.12086528773092425\ \(0\)\
+\-\ chemical\\:\\ 0\\.12086528773092425\ \(0\)\
+\-\ increased\\:\\ 0\\.12017471162837608\ \(0\)\
+\-\ gram\\:\\ 0\\.11839623030587902\ \(0\)\
+\-\ membrane\\:\\ 0\\.11662414729274875\ \(0\)\
+\-\ and\\:\\ 0\\.11480591952023977\ \(0\)\
+\-\ cultures\\:\\ 0\\.10466355397179533\ \(0\)\
+\-\ viral\\:\\ 0\\.1024969363405809\ \(0\)\
+\-\ spread\\:\\ 0\\.09981907280865969\ \(0\)\
+\-\ 33\\:\\ 0\\.09778458394573722\ \(0\)\
+\-\ scans\\:\\ 0\\.09668906342861792\ \(0\)\
+\-\ flair\\:\\ 0\\.09453045709953922\ \(0\)\
+\-\ worse\\:\\ 0\\.09308687227376876\ \(0\)\
+\-\ increase\\:\\ 0\\.08920092309407325\ \(0\)\
+\-\ sequences\\:\\ 0\\.08889253437026486\ \(0\)\
+\-\ tube\\:\\ 0\\.08879081361238773\ \(0\)\
+\-\ pneumonia\\:\\ 0\\.08770559990888688\ \(0\)\
+\-\ currently\\:\\ 0\\.08535801031505098\ \(0\)\
+\-\ antibiotics\\:\\ 0\\.08186327256721038\ \(0\)\
+\-\ wbc\\:\\ 0\\.07853818214209876\ \(0\)\
+\-\ being\\:\\ 0\\.07743142670347115\ \(0\)\
+\-\ headache\\:\\ 0\\.076600028218266\ \(0\)\
+\-\ right\\:\\ 0\\.07368046005974449\ \(0\)\
+\-\ vascular\\:\\ 0\\.07335842702732874\ \(0\)\
+\-\ treated\\:\\ 0\\.06919634750009813\ \(0\)\
+\-\ negative\\:\\ 0\\.06879242296238218\ \(0\)\
+\-\ neck\\:\\ 0\\.06797398649445278\ \(0\)\
+\-\ secondary\\:\\ 0\\.06586246831785733\ \(0\)\
+\-\ blood\\:\\ 0\\.06453311983676636\ \(0\)\
+\-\ enhancement\\:\\ 0\\.06395761325606077\ \(0\)\
+\-\ signal\\:\\ 0\\.06298966135900452\ \(0\)\
+\-\ acute\\:\\ 0\\.060110614898585435\ \(0\)\
+\-\ bilateral\\:\\ 0\\.0597189385749605\ \(0\)\
+\-\ tumor\\:\\ 0\\.05812118535313732\ \(0\)\
+\-\ woman\\:\\ 0\\.057870641952407965\ \(0\)\
+\-\ mri\\:\\ 0\\.05703814557752983\ \(0\)\
+\-\ contrast\\:\\ 0\\.05398999006851461\ \(0\)\
+\-\ from\\:\\ 0\\.04413137716948127\ \(0\)\
+\-\ with\\:\\ 0\\.04351660538657749\ \(0\)\
+\-\ or\\:\\ 0\\.03865598978068046\ \(0\)\
+\-\ year\\:\\ 0\\.03424439421594546\ \(0\)\
+\-\ for\\:\\ 0\\.033679027110563683\ \(0\)\
+\-\ old\\:\\ 0\\.032886472438540953\ \(0\)\
+\-\ to\\:\\ 0\\.02777929336552333\ \(0\)\
+\-\ in\\:\\ 0\\.027642563741111115\ \(0\)\

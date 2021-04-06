@@ -1,233 +1,223 @@
-Texto: 
-bp: 139/92, hr: 72, rr: 16, t: 98.3 Â°f, ht: 60 in, wt: 100 lbs, bmi: 19.53, bsa: 1.39 square meters, 
-
-physical findings 
-general: well appearing, no acute distress.
-
-head: atnc
-
-neck: no swelling, soft, supple.
-
-eyes: extraocular movements with normal gaze, smooth pursuit, and saccades.  no nystagmus following dix-hallpike maneuvers. perrla
-
-ears: general/bilateral: external auditory canal: Â° external auditory meatus without discharge or deformity. tm intact.  no effusions.  no retractions of the pars flaccida or pars tensa. positve lr, ls, mobility and negative erythema, bulging.  hearing: weber's test abnormal lateralized to right.  rinne's test ac>bc bilaterally. reception threshold normal grossly normal to speech and whispered voice.
-
-nose: general/bilateral: nasal discharge: Â° no nasal discharge. no external nose deformities. no sinus tenderness.
-nasal/oral mucosa patent and moist mucous membranes without ulceration, deformities or lesions.
-
-lymph nodes: Â° cervical lymph nodes were not enlarged.  Â° preauricular lymph nodes were not enlarged.  Â° postauricular lymph nodes were not enlarged.  Â° suboccipital lymph nodes were not enlarged.
-
-neurological: cnii-xii grossly intact. sensation positional/vibratory/light touch intact b/l in u/l extremities.  motor 5+ b/l in u/l extremities.  no dysdiadochokinesia, dysmetria.  gait and stance normal.  reflexes 2+ patellar and brachioradialis.
-there is an ill-defined mass lesion, 1cm long, within the left porus acusticus	 (internal auditory canal) with minimal extension into the left superior pontine cistern measuring .
-vestibular schwannoma
-â€¢ vestibular schwanomma
-â€¢ glomus tumor
-â€¢ meningionma
-54 yo woman presents for evaluation of ringing in left ear over a month. pt reports high-pitched, non-pulsatile tinnitus that initially was constant for two weeks. she then had a period of 2-3 weeks where she was asymptomatic. tinnitus has now returned, worse in the morning and lasts for 2-3 hours, then is intermittent throughout the day. pt denies ear fullness, hearing loss, vertigo, or nausea/vomiting. no history of trauma, stroke, or noise exposure. reports vague history of light headedness and balance problem (not vertigo), which she was referred to be seen by outside neurologist but has not followed-up on. had audiogram done which is essentially normal.
-
-
-Keywords by value: 
-- nodes: 0.21947270695561794
-- lymph: 0.2008996615815241
-- no: 0.16802843914433774
-- auditory: 0.15884511344689548
-- nasal: 0.14132222155443386
-- enlarged: 0.14089942509927905
-- discharge: 0.13900261073459977
-- external: 0.1253195370497949
-- general: 0.12443812479911992
-- not: 0.12239105514291236
-- tinnitus: 0.12182551588612975
-- pars: 0.1210202130754449
-- vertigo: 0.1156126155190865
-- intact: 0.11219510718459665
-- vestibular: 0.10659361014468567
-- were: 0.10653977354024702
-- normal: 0.105484756442686
-- deformities: 0.10489926119129213
-- nose: 0.10457860980737078
-- grossly: 0.09913004823074466
-- ear: 0.09403632691359391
-- hearing: 0.09385958082636024
-- she: 0.09227567022674389
-- or: 0.089877225364002
-- light: 0.08950317705666298
-- and: 0.08541755157022753
-- test: 0.0840510238205793
-- meters: 0.08263328926997623
-- pursuit: 0.08263328926997623
-- flaccida: 0.08263328926997623
-- tensa: 0.08263328926997623
-- rinne: 0.08263328926997623
-- whispered: 0.08263328926997623
-- postauricular: 0.08263328926997623
-- dysdiadochokinesia: 0.08263328926997623
-- meningionma: 0.08263328926997623
-- audiogram: 0.08263328926997623
-- reports: 0.08035986463260965
-- canal: 0.0795436756942595
-- bsa: 0.0789605193694146
-- square: 0.0789605193694146
-- atnc: 0.0789605193694146
-- positve: 0.0789605193694146
-- lateralized: 0.0789605193694146
-- reception: 0.0789605193694146
-- preauricular: 0.0789605193694146
-- acusticus: 0.0789605193694146
-- schwanomma: 0.0789605193694146
-- extremities: 0.07853479708473231
-- ls: 0.07635464765443035
-- porus: 0.07635464765443035
-- ringing: 0.07635464765443035
-- headedness: 0.07635464765443035
-- pt: 0.0743718800869706
-- saccades: 0.07433337652065716
-- bc: 0.07433337652065716
-- noise: 0.07433337652065716
-- then: 0.07315400424544229
-- stance: 0.07268187775386872
-- lasts: 0.0712855554422837
-- meatus: 0.07007600603888449
-- lr: 0.07007600603888449
-- dysmetria: 0.06900910785330709
-- maneuvers: 0.0680547349051113
-- threshold: 0.0680547349051113
-- brachioradialis: 0.06640323613832284
-- suboccipital: 0.06500691382673782
-- in: 0.06427042600886419
-- voice: 0.06324821658845035
-- ac: 0.06273046623776121
-- neurologist: 0.06273046623776121
-- weeks: 0.06193497158609416
-- gaze: 0.060912757943064874
-- ht: 0.06051010653772245
-- tm: 0.06051010653772245
-- retractions: 0.06051010653772245
-- bmi: 0.06012459452277697
-- weber: 0.05905769633719958
-- pontine: 0.05905769633719958
-- perrla: 0.05872827221119194
-- glomus: 0.05841040924198317
-- ears: 0.05780630775954325
-- mobility: 0.05780630775954325
-- wt: 0.05751872280779273
-- nystagmus: 0.05751872280779273
-- moist: 0.057239988042503236
-- supple: 0.05645182462221534
-- ulceration: 0.05645182462221534
-- extraocular: 0.056203640189838665
-- balance: 0.056203640189838665
-- constant: 0.055726784559275086
-- bulging: 0.05484235917967969
-- 1cm: 0.05484235917967969
-- without: 0.05450909315998799
-- membranes: 0.05423146492217657
-- was: 0.054023638070841255
-- lbs: 0.053296805072342836
-- speech: 0.053296805072342836
-- mucous: 0.053296805072342836
-- left: 0.05287838645953333
-- fullness: 0.0526128451937458
-- essentially: 0.05228930490368539
-- the: 0.0515512534432756
-- had: 0.0514888534549511
-- morning: 0.05124008119224686
-- movements: 0.05096134642695736
-- problem: 0.05096134642695736
-- touch: 0.050690933357358595
-- of: 0.05055899816322566
-- vague: 0.05055869502161494
-- eyes: 0.05017318300666947
-- cistern: 0.05017318300666947
-- 72: 0.04980341063968471
-- mucosa: 0.04980341063968471
-- patellar: 0.04980341063968471
-- exposure: 0.04910628482109207
-- 54: 0.0486696622235854
-- returned: 0.04856371756413381
-- effusions: 0.04835547471197312
-- stroke: 0.04805182063214418
-- rr: 0.047473443455590354
-- has: 0.04720367813771381
-- which: 0.046990698988310424
-- for: 0.0469833139986387
-- patent: 0.04684227122874497
-- erythema: 0.046755589561311234
-- reflexes: 0.045176267790927274
-- period: 0.045176267790927274
-- gait: 0.04475158852833149
-- hr: 0.04441229174181272
-- sensation: 0.04428005340606906
-- schwannoma: 0.04428005340606906
-- worse: 0.04328638249982645
-- smooth: 0.0426614336776383
-- is: 0.04245142047033044
-- neurological: 0.042444461265243094
-- 100: 0.04239102060803952
-- deformity: 0.0422325646993701
-- intermittent: 0.0422325646993701
-- bp: 0.04192373370331194
-- denies: 0.04167418169108482
-- distress: 0.041625085824973714
-- outside: 0.04147937493303997
-- appearing: 0.04128866967613934
-- motor: 0.04110189676795352
-- done: 0.04110189676795352
-- where: 0.04060728350550743
-- initially: 0.040520185092881536
-- 16: 0.04026380481481474
-- measuring: 0.03997358705818528
-- history: 0.03948267979992523
-- minimal: 0.03941964019530541
-- hours: 0.039381339228632926
-- to: 0.03875299778013211
-- 60: 0.03864748343251774
-- referred: 0.03823411139766186
-- throughout: 0.03800141179052318
-- sinus: 0.037337165010288206
-- cervical: 0.03700774088428058
-- extension: 0.03657700212272114
-- now: 0.035469686452345196
-- asymptomatic: 0.03517667443184366
-- internal: 0.03482325515240764
-- swelling: 0.03477715752049027
-- bilaterally: 0.03446088022570521
-- long: 0.034263239691593984
-- superior: 0.033593509162888294
-- day: 0.032913585000607634
-- tenderness: 0.03240415634560923
-- yo: 0.032281153183262586
-- negative: 0.031989206004063325
-- neck: 0.03160862436954017
-- evaluation: 0.031511917061766676
-- loss: 0.031479909377853645
-- month: 0.03143210892327457
-- abnormal: 0.031043286780346978
-- following: 0.03099773011203706
-- head: 0.030817760646617204
-- two: 0.030685091902229227
-- trauma: 0.03000858489418351
-- lesions: 0.029675281468278344
-- over: 0.028731386445047597
-- physical: 0.028017240147848833
-- acute: 0.02795207321122071
-- soft: 0.02750857795395926
-- into: 0.027467451140415815
-- tumor: 0.0270269673809651
-- woman: 0.026910462043403832
-- but: 0.02555142470835844
-- findings: 0.025501745433252506
-- well: 0.0250193866645353
-- presents: 0.024856451678268162
-- lesion: 0.024772260268336843
-- seen: 0.02432632124277396
-- within: 0.023798101351324777
-- that: 0.022423306502901284
-- by: 0.02194253298078776
-- be: 0.020960887279125477
-- there: 0.02055975827275555
-- with: 0.020235682861032257
-- an: 0.019758843606128607
-- mass: 0.019736969253256697
-- right: 0.01713109753827246
-- on: 0.015605549968170424
+\-\ Texto\\:\\ \ \(0\)\
+\-\ bp\\:\\ 139\\/92\\,\\ hr\\:\\ 72\\,\\ rr\\:\\ 16\\,\\ t\\:\\ 98\\.3\\ \\Â\\°f\\,\\ ht\\:\\ 60\\ in\\,\\ wt\\:\\ 100\\ lbs\\,\\ bmi\\:\\ 19\\.53\\,\\ bsa\\:\\ 1\\.39\\ square\\ meters\\,\\ \ \(0\)\
+\-\ physical\\ findings\\ \ \(10\)\
+\-\ general\\:\\ well\\ appearing\\,\\ no\\ acute\\ distress\\.\ \(0\)\
+\-\ head\\:\\ atnc\ \(0\)\
+\-\ neck\\:\\ no\\ swelling\\,\\ soft\\,\\ supple\\.\ \(0\)\
+\-\ eyes\\:\\ extraocular\\ movements\\ with\\ normal\\ gaze\\,\\ smooth\\ pursuit\\,\\ and\\ saccades\\.\\ \\ no\\ nystagmus\\ following\\ dix\\-hallpike\\ maneuvers\\.\\ perrla\ \(0\)\
+\-\ ears\\:\\ general\\/bilateral\\:\\ external\\ auditory\\ canal\\:\\ \\Â\\°\\ external\\ auditory\\ meatus\\ without\\ discharge\\ or\\ deformity\\.\\ tm\\ intact\\.\\ \\ no\\ effusions\\.\\ \\ no\\ retractions\\ of\\ the\\ pars\\ flaccida\\ or\\ pars\\ tensa\\.\\ positve\\ lr\\,\\ ls\\,\\ mobility\\ and\\ negative\\ erythema\\,\\ bulging\\.\\ \\ hearing\\:\\ weber\\'s\\ test\\ abnormal\\ lateralized\\ to\\ right\\.\\ \\ rinne\\'s\\ test\\ ac\\>bc\\ bilaterally\\.\\ reception\\ threshold\\ normal\\ grossly\\ normal\\ to\\ speech\\ and\\ whispered\\ voice\\.\ \(0\)\
+\-\ nose\\:\\ general\\/bilateral\\:\\ nasal\\ discharge\\:\\ \\Â\\°\\ no\\ nasal\\ discharge\\.\\ no\\ external\\ nose\\ deformities\\.\\ no\\ sinus\\ tenderness\\.\ \(0\)\
+\-\ nasal\\/oral\\ mucosa\\ patent\\ and\\ moist\\ mucous\\ membranes\\ without\\ ulceration\\,\\ deformities\\ or\\ lesions\\.\ \(0\)\
+\-\ lymph\\ nodes\\:\\ \\Â\\°\\ cervical\\ lymph\\ nodes\\ were\\ not\\ enlarged\\.\\ \\ \\Â\\°\\ preauricular\\ lymph\\ nodes\\ were\\ not\\ enlarged\\.\\ \\ \\Â\\°\\ postauricular\\ lymph\\ nodes\\ were\\ not\\ enlarged\\.\\ \\ \\Â\\°\\ suboccipital\\ lymph\\ nodes\\ were\\ not\\ enlarged\\.\ \(0\)\
+\-\ neurological\\:\\ cnii\\-xii\\ grossly\\ intact\\.\\ sensation\\ positional\\/vibratory\\/light\\ touch\\ intact\\ b\\/l\\ in\\ u\\/l\\ extremities\\.\\ \\ motor\\ 5\\+\\ b\\/l\\ in\\ u\\/l\\ extremities\\.\\ \\ no\\ dysdiadochokinesia\\,\\ dysmetria\\.\\ \\ gait\\ and\\ stance\\ normal\\.\\ \\ reflexes\\ 2\\+\\ patellar\\ and\\ brachioradialis\\.\ \(0\)\
+\-\ there\\ is\\ an\\ ill\\-defined\\ mass\\ lesion\\,\\ 1cm\\ long\\,\\ within\\ the\\ left\\ porus\\ acusticus\\	\\ \\(internal\\ auditory\\ canal\\)\\ with\\ minimal\\ extension\\ into\\ the\\ left\\ superior\\ pontine\\ cistern\\ measuring\\ \\.\ \(0\)\
+\-\ vestibular\\ schwannoma\ \(8\)\
+\-\ \\â\\€\\¢\\ vestibular\\ schwanomma\ \(0\)\
+\-\ \\â\\€\\¢\\ glomus\\ tumor\ \(2\)\
+\-\ \\â\\€\\¢\\ meningionma\ \(1\)\
+\-\ 54\\ yo\\ woman\\ presents\\ for\\ evaluation\\ of\\ ringing\\ in\\ left\\ ear\\ over\\ a\\ month\\.\\ pt\\ reports\\ high\\-pitched\\,\\ non\\-pulsatile\\ tinnitus\\ that\\ initially\\ was\\ constant\\ for\\ two\\ weeks\\.\\ she\\ then\\ had\\ a\\ period\\ of\\ 2\\-3\\ weeks\\ where\\ she\\ was\\ asymptomatic\\.\\ tinnitus\\ has\\ now\\ returned\\,\\ worse\\ in\\ the\\ morning\\ and\\ lasts\\ for\\ 2\\-3\\ hours\\,\\ then\\ is\\ intermittent\\ throughout\\ the\\ day\\.\\ pt\\ denies\\ ear\\ fullness\\,\\ hearing\\ loss\\,\\ vertigo\\,\\ or\\ nausea\\/vomiting\\.\\ no\\ history\\ of\\ trauma\\,\\ stroke\\,\\ or\\ noise\\ exposure\\.\\ reports\\ vague\\ history\\ of\\ light\\ headedness\\ and\\ balance\\ problem\\ \\(not\\ vertigo\\)\\,\\ which\\ she\\ was\\ referred\\ to\\ be\\ seen\\ by\\ outside\\ neurologist\\ but\\ has\\ not\\ followed\\-up\\ on\\.\\ had\\ audiogram\\ done\\ which\\ is\\ essentially\\ normal\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ nodes\\:\\ 0\\.21947270695561794\ \(0\)\
+\-\ lymph\\:\\ 0\\.2008996615815241\ \(0\)\
+\-\ no\\:\\ 0\\.16802843914433774\ \(0\)\
+\-\ auditory\\:\\ 0\\.15884511344689548\ \(0\)\
+\-\ nasal\\:\\ 0\\.14132222155443386\ \(0\)\
+\-\ enlarged\\:\\ 0\\.14089942509927905\ \(0\)\
+\-\ discharge\\:\\ 0\\.13900261073459977\ \(0\)\
+\-\ external\\:\\ 0\\.1253195370497949\ \(0\)\
+\-\ general\\:\\ 0\\.12443812479911992\ \(0\)\
+\-\ not\\:\\ 0\\.12239105514291236\ \(0\)\
+\-\ tinnitus\\:\\ 0\\.12182551588612975\ \(0\)\
+\-\ pars\\:\\ 0\\.1210202130754449\ \(0\)\
+\-\ vertigo\\:\\ 0\\.1156126155190865\ \(0\)\
+\-\ intact\\:\\ 0\\.11219510718459665\ \(0\)\
+\-\ vestibular\\:\\ 0\\.10659361014468567\ \(0\)\
+\-\ were\\:\\ 0\\.10653977354024702\ \(0\)\
+\-\ normal\\:\\ 0\\.105484756442686\ \(0\)\
+\-\ deformities\\:\\ 0\\.10489926119129213\ \(0\)\
+\-\ nose\\:\\ 0\\.10457860980737078\ \(0\)\
+\-\ grossly\\:\\ 0\\.09913004823074466\ \(0\)\
+\-\ ear\\:\\ 0\\.09403632691359391\ \(0\)\
+\-\ hearing\\:\\ 0\\.09385958082636024\ \(0\)\
+\-\ she\\:\\ 0\\.09227567022674389\ \(0\)\
+\-\ or\\:\\ 0\\.089877225364002\ \(0\)\
+\-\ light\\:\\ 0\\.08950317705666298\ \(0\)\
+\-\ and\\:\\ 0\\.08541755157022753\ \(0\)\
+\-\ test\\:\\ 0\\.0840510238205793\ \(0\)\
+\-\ meters\\:\\ 0\\.08263328926997623\ \(0\)\
+\-\ pursuit\\:\\ 0\\.08263328926997623\ \(0\)\
+\-\ flaccida\\:\\ 0\\.08263328926997623\ \(0\)\
+\-\ tensa\\:\\ 0\\.08263328926997623\ \(0\)\
+\-\ rinne\\:\\ 0\\.08263328926997623\ \(0\)\
+\-\ whispered\\:\\ 0\\.08263328926997623\ \(0\)\
+\-\ postauricular\\:\\ 0\\.08263328926997623\ \(0\)\
+\-\ dysdiadochokinesia\\:\\ 0\\.08263328926997623\ \(0\)\
+\-\ meningionma\\:\\ 0\\.08263328926997623\ \(0\)\
+\-\ audiogram\\:\\ 0\\.08263328926997623\ \(0\)\
+\-\ reports\\:\\ 0\\.08035986463260965\ \(0\)\
+\-\ canal\\:\\ 0\\.0795436756942595\ \(0\)\
+\-\ bsa\\:\\ 0\\.0789605193694146\ \(0\)\
+\-\ square\\:\\ 0\\.0789605193694146\ \(0\)\
+\-\ atnc\\:\\ 0\\.0789605193694146\ \(0\)\
+\-\ positve\\:\\ 0\\.0789605193694146\ \(0\)\
+\-\ lateralized\\:\\ 0\\.0789605193694146\ \(0\)\
+\-\ reception\\:\\ 0\\.0789605193694146\ \(0\)\
+\-\ preauricular\\:\\ 0\\.0789605193694146\ \(0\)\
+\-\ acusticus\\:\\ 0\\.0789605193694146\ \(0\)\
+\-\ schwanomma\\:\\ 0\\.0789605193694146\ \(0\)\
+\-\ extremities\\:\\ 0\\.07853479708473231\ \(0\)\
+\-\ ls\\:\\ 0\\.07635464765443035\ \(0\)\
+\-\ porus\\:\\ 0\\.07635464765443035\ \(0\)\
+\-\ ringing\\:\\ 0\\.07635464765443035\ \(0\)\
+\-\ headedness\\:\\ 0\\.07635464765443035\ \(0\)\
+\-\ pt\\:\\ 0\\.0743718800869706\ \(0\)\
+\-\ saccades\\:\\ 0\\.07433337652065716\ \(0\)\
+\-\ bc\\:\\ 0\\.07433337652065716\ \(0\)\
+\-\ noise\\:\\ 0\\.07433337652065716\ \(0\)\
+\-\ then\\:\\ 0\\.07315400424544229\ \(0\)\
+\-\ stance\\:\\ 0\\.07268187775386872\ \(0\)\
+\-\ lasts\\:\\ 0\\.0712855554422837\ \(0\)\
+\-\ meatus\\:\\ 0\\.07007600603888449\ \(0\)\
+\-\ lr\\:\\ 0\\.07007600603888449\ \(0\)\
+\-\ dysmetria\\:\\ 0\\.06900910785330709\ \(0\)\
+\-\ maneuvers\\:\\ 0\\.0680547349051113\ \(0\)\
+\-\ threshold\\:\\ 0\\.0680547349051113\ \(0\)\
+\-\ brachioradialis\\:\\ 0\\.06640323613832284\ \(0\)\
+\-\ suboccipital\\:\\ 0\\.06500691382673782\ \(0\)\
+\-\ in\\:\\ 0\\.06427042600886419\ \(0\)\
+\-\ voice\\:\\ 0\\.06324821658845035\ \(0\)\
+\-\ ac\\:\\ 0\\.06273046623776121\ \(0\)\
+\-\ neurologist\\:\\ 0\\.06273046623776121\ \(0\)\
+\-\ weeks\\:\\ 0\\.06193497158609416\ \(0\)\
+\-\ gaze\\:\\ 0\\.060912757943064874\ \(0\)\
+\-\ ht\\:\\ 0\\.06051010653772245\ \(0\)\
+\-\ tm\\:\\ 0\\.06051010653772245\ \(0\)\
+\-\ retractions\\:\\ 0\\.06051010653772245\ \(0\)\
+\-\ bmi\\:\\ 0\\.06012459452277697\ \(0\)\
+\-\ weber\\:\\ 0\\.05905769633719958\ \(0\)\
+\-\ pontine\\:\\ 0\\.05905769633719958\ \(0\)\
+\-\ perrla\\:\\ 0\\.05872827221119194\ \(0\)\
+\-\ glomus\\:\\ 0\\.05841040924198317\ \(0\)\
+\-\ ears\\:\\ 0\\.05780630775954325\ \(0\)\
+\-\ mobility\\:\\ 0\\.05780630775954325\ \(0\)\
+\-\ wt\\:\\ 0\\.05751872280779273\ \(0\)\
+\-\ nystagmus\\:\\ 0\\.05751872280779273\ \(0\)\
+\-\ moist\\:\\ 0\\.057239988042503236\ \(0\)\
+\-\ supple\\:\\ 0\\.05645182462221534\ \(0\)\
+\-\ ulceration\\:\\ 0\\.05645182462221534\ \(0\)\
+\-\ extraocular\\:\\ 0\\.056203640189838665\ \(0\)\
+\-\ balance\\:\\ 0\\.056203640189838665\ \(0\)\
+\-\ constant\\:\\ 0\\.055726784559275086\ \(0\)\
+\-\ bulging\\:\\ 0\\.05484235917967969\ \(0\)\
+\-\ 1cm\\:\\ 0\\.05484235917967969\ \(0\)\
+\-\ without\\:\\ 0\\.05450909315998799\ \(0\)\
+\-\ membranes\\:\\ 0\\.05423146492217657\ \(0\)\
+\-\ was\\:\\ 0\\.054023638070841255\ \(0\)\
+\-\ lbs\\:\\ 0\\.053296805072342836\ \(0\)\
+\-\ speech\\:\\ 0\\.053296805072342836\ \(0\)\
+\-\ mucous\\:\\ 0\\.053296805072342836\ \(0\)\
+\-\ left\\:\\ 0\\.05287838645953333\ \(0\)\
+\-\ fullness\\:\\ 0\\.0526128451937458\ \(0\)\
+\-\ essentially\\:\\ 0\\.05228930490368539\ \(0\)\
+\-\ the\\:\\ 0\\.0515512534432756\ \(0\)\
+\-\ had\\:\\ 0\\.0514888534549511\ \(0\)\
+\-\ morning\\:\\ 0\\.05124008119224686\ \(0\)\
+\-\ movements\\:\\ 0\\.05096134642695736\ \(0\)\
+\-\ problem\\:\\ 0\\.05096134642695736\ \(0\)\
+\-\ touch\\:\\ 0\\.050690933357358595\ \(0\)\
+\-\ of\\:\\ 0\\.05055899816322566\ \(0\)\
+\-\ vague\\:\\ 0\\.05055869502161494\ \(0\)\
+\-\ eyes\\:\\ 0\\.05017318300666947\ \(0\)\
+\-\ cistern\\:\\ 0\\.05017318300666947\ \(0\)\
+\-\ 72\\:\\ 0\\.04980341063968471\ \(0\)\
+\-\ mucosa\\:\\ 0\\.04980341063968471\ \(0\)\
+\-\ patellar\\:\\ 0\\.04980341063968471\ \(0\)\
+\-\ exposure\\:\\ 0\\.04910628482109207\ \(0\)\
+\-\ 54\\:\\ 0\\.0486696622235854\ \(0\)\
+\-\ returned\\:\\ 0\\.04856371756413381\ \(0\)\
+\-\ effusions\\:\\ 0\\.04835547471197312\ \(0\)\
+\-\ stroke\\:\\ 0\\.04805182063214418\ \(0\)\
+\-\ rr\\:\\ 0\\.047473443455590354\ \(0\)\
+\-\ has\\:\\ 0\\.04720367813771381\ \(0\)\
+\-\ which\\:\\ 0\\.046990698988310424\ \(0\)\
+\-\ for\\:\\ 0\\.0469833139986387\ \(0\)\
+\-\ patent\\:\\ 0\\.04684227122874497\ \(0\)\
+\-\ erythema\\:\\ 0\\.046755589561311234\ \(0\)\
+\-\ reflexes\\:\\ 0\\.045176267790927274\ \(0\)\
+\-\ period\\:\\ 0\\.045176267790927274\ \(0\)\
+\-\ gait\\:\\ 0\\.04475158852833149\ \(0\)\
+\-\ hr\\:\\ 0\\.04441229174181272\ \(0\)\
+\-\ sensation\\:\\ 0\\.04428005340606906\ \(0\)\
+\-\ schwannoma\\:\\ 0\\.04428005340606906\ \(0\)\
+\-\ worse\\:\\ 0\\.04328638249982645\ \(0\)\
+\-\ smooth\\:\\ 0\\.0426614336776383\ \(0\)\
+\-\ is\\:\\ 0\\.04245142047033044\ \(0\)\
+\-\ neurological\\:\\ 0\\.042444461265243094\ \(0\)\
+\-\ 100\\:\\ 0\\.04239102060803952\ \(0\)\
+\-\ deformity\\:\\ 0\\.0422325646993701\ \(0\)\
+\-\ intermittent\\:\\ 0\\.0422325646993701\ \(0\)\
+\-\ bp\\:\\ 0\\.04192373370331194\ \(0\)\
+\-\ denies\\:\\ 0\\.04167418169108482\ \(0\)\
+\-\ distress\\:\\ 0\\.041625085824973714\ \(0\)\
+\-\ outside\\:\\ 0\\.04147937493303997\ \(0\)\
+\-\ appearing\\:\\ 0\\.04128866967613934\ \(0\)\
+\-\ motor\\:\\ 0\\.04110189676795352\ \(0\)\
+\-\ done\\:\\ 0\\.04110189676795352\ \(0\)\
+\-\ where\\:\\ 0\\.04060728350550743\ \(0\)\
+\-\ initially\\:\\ 0\\.040520185092881536\ \(0\)\
+\-\ 16\\:\\ 0\\.04026380481481474\ \(0\)\
+\-\ measuring\\:\\ 0\\.03997358705818528\ \(0\)\
+\-\ history\\:\\ 0\\.03948267979992523\ \(0\)\
+\-\ minimal\\:\\ 0\\.03941964019530541\ \(0\)\
+\-\ hours\\:\\ 0\\.039381339228632926\ \(0\)\
+\-\ to\\:\\ 0\\.03875299778013211\ \(0\)\
+\-\ 60\\:\\ 0\\.03864748343251774\ \(0\)\
+\-\ referred\\:\\ 0\\.03823411139766186\ \(0\)\
+\-\ throughout\\:\\ 0\\.03800141179052318\ \(0\)\
+\-\ sinus\\:\\ 0\\.037337165010288206\ \(0\)\
+\-\ cervical\\:\\ 0\\.03700774088428058\ \(0\)\
+\-\ extension\\:\\ 0\\.03657700212272114\ \(0\)\
+\-\ now\\:\\ 0\\.035469686452345196\ \(0\)\
+\-\ asymptomatic\\:\\ 0\\.03517667443184366\ \(0\)\
+\-\ internal\\:\\ 0\\.03482325515240764\ \(0\)\
+\-\ swelling\\:\\ 0\\.03477715752049027\ \(0\)\
+\-\ bilaterally\\:\\ 0\\.03446088022570521\ \(0\)\
+\-\ long\\:\\ 0\\.034263239691593984\ \(0\)\
+\-\ superior\\:\\ 0\\.033593509162888294\ \(0\)\
+\-\ day\\:\\ 0\\.032913585000607634\ \(0\)\
+\-\ tenderness\\:\\ 0\\.03240415634560923\ \(0\)\
+\-\ yo\\:\\ 0\\.032281153183262586\ \(0\)\
+\-\ negative\\:\\ 0\\.031989206004063325\ \(0\)\
+\-\ neck\\:\\ 0\\.03160862436954017\ \(0\)\
+\-\ evaluation\\:\\ 0\\.031511917061766676\ \(0\)\
+\-\ loss\\:\\ 0\\.031479909377853645\ \(0\)\
+\-\ month\\:\\ 0\\.03143210892327457\ \(0\)\
+\-\ abnormal\\:\\ 0\\.031043286780346978\ \(0\)\
+\-\ following\\:\\ 0\\.03099773011203706\ \(0\)\
+\-\ head\\:\\ 0\\.030817760646617204\ \(0\)\
+\-\ two\\:\\ 0\\.030685091902229227\ \(0\)\
+\-\ trauma\\:\\ 0\\.03000858489418351\ \(0\)\
+\-\ lesions\\:\\ 0\\.029675281468278344\ \(0\)\
+\-\ over\\:\\ 0\\.028731386445047597\ \(0\)\
+\-\ physical\\:\\ 0\\.028017240147848833\ \(0\)\
+\-\ acute\\:\\ 0\\.02795207321122071\ \(0\)\
+\-\ soft\\:\\ 0\\.02750857795395926\ \(0\)\
+\-\ into\\:\\ 0\\.027467451140415815\ \(0\)\
+\-\ tumor\\:\\ 0\\.0270269673809651\ \(0\)\
+\-\ woman\\:\\ 0\\.026910462043403832\ \(0\)\
+\-\ but\\:\\ 0\\.02555142470835844\ \(0\)\
+\-\ findings\\:\\ 0\\.025501745433252506\ \(0\)\
+\-\ well\\:\\ 0\\.0250193866645353\ \(0\)\
+\-\ presents\\:\\ 0\\.024856451678268162\ \(0\)\
+\-\ lesion\\:\\ 0\\.024772260268336843\ \(0\)\
+\-\ seen\\:\\ 0\\.02432632124277396\ \(0\)\
+\-\ within\\:\\ 0\\.023798101351324777\ \(0\)\
+\-\ that\\:\\ 0\\.022423306502901284\ \(0\)\
+\-\ by\\:\\ 0\\.02194253298078776\ \(0\)\
+\-\ be\\:\\ 0\\.020960887279125477\ \(0\)\
+\-\ there\\:\\ 0\\.02055975827275555\ \(0\)\
+\-\ with\\:\\ 0\\.020235682861032257\ \(0\)\
+\-\ an\\:\\ 0\\.019758843606128607\ \(0\)\
+\-\ mass\\:\\ 0\\.019736969253256697\ \(0\)\
+\-\ right\\:\\ 0\\.01713109753827246\ \(0\)\
+\-\ on\\:\\ 0\\.015605549968170424\ \(0\)\

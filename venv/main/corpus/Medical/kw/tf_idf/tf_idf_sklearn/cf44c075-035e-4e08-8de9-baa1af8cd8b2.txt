@@ -1,79 +1,76 @@
-Texto: 
-non-contributory
-cxr: dextrocardia is present with the stomach bubble on the normal, left, side of the patient.  no evidence of pneumonia.
-
-ct: dextrocardia without evidence of situs inversus. a persistent left sided svc is seen with complete agensis of the left brachiocephalic vein.  the left svc can be followed to the point where it drains into the coronary sinus.
-persistent left superior vena cava (plsvc)
-the differential diagnosis of a abnormal vessel seen on chest ct to the left of the arch of the aorta would include:
-persistent left superior vena cava
-partial anomalous pulmonary venous return 
-extralobar sequestration
-cough 2 weeks for chest x-ray to rule out pneumonia.
-
-
-Keywords by value: 
-- dextrocardia: 0.2893245095465971
-- left: 0.26564186612088275
-- persistent: 0.2571431360987817
-- svc: 0.2489125356979735
-- the: 0.24417626866925857
-- vena: 0.21497581270087887
-- cava: 0.21393563810756996
-- plsvc: 0.17790845292188967
-- pneumonia: 0.17561504379531095
-- agensis: 0.1643906149398717
-- extralobar: 0.15347692190951231
-- of: 0.15239405950739077
-- superior: 0.1446528220330276
-- inversus: 0.13995908392749437
-- brachiocephalic: 0.13995908392749437
-- situs: 0.13400349501782086
-- drains: 0.13400349501782086
-- evidence: 0.1262881274014115
-- bubble: 0.12323698848097595
-- chest: 0.11744379362523574
-- sequestration: 0.11718831052667947
-- anomalous: 0.11634025875020619
-- coronary: 0.11257822872549829
-- seen: 0.10474853937964414
-- return: 0.10367047254466154
-- vessel: 0.09757850463292231
-- arch: 0.09436944309946782
-- stomach: 0.09281878948012419
-- point: 0.091968094961209
-- aorta: 0.0903705375873487
-- cxr: 0.08899583568624823
-- rule: 0.08829388420663542
-- where: 0.08742698069566357
-- partial: 0.0857143786995939
-- ct: 0.08470568872270352
-- to: 0.08343472639245104
-- cough: 0.08305637533806207
-- sinus: 0.08038645589633076
-- vein: 0.07974063139212792
-- venous: 0.07942556609347576
-- would: 0.07874983457228005
-- complete: 0.07798030368911793
-- side: 0.07685269960533077
-- followed: 0.07512386391456304
-- out: 0.0731243362206495
-- differential: 0.07228302475207857
-- sided: 0.07155985355912013
-- pulmonary: 0.0678102823763813
-- on: 0.06719711332709104
-- abnormal: 0.06683581367138852
-- weeks: 0.06667261508036527
-- include: 0.06619105684033935
-- is: 0.060931589895028095
-- into: 0.059137083629012564
-- without: 0.058678702735558
-- can: 0.05837899359938107
-- diagnosis: 0.05766974751791764
-- present: 0.057084539184494416
-- it: 0.05694587448172954
-- normal: 0.04542147599679109
-- be: 0.04512853186220991
-- with: 0.043567175691895124
-- patient: 0.03618312160134269
-- no: 0.03617631576710151
-- for: 0.03371816524343623
+\-\ Texto\\:\\ \ \(0\)\
+\-\ non\\-contributory\ \(73\)\
+\-\ cxr\\:\\ dextrocardia\\ is\\ present\\ with\\ the\\ stomach\\ bubble\\ on\\ the\\ normal\\,\\ left\\,\\ side\\ of\\ the\\ patient\\.\\ \\ no\\ evidence\\ of\\ pneumonia\\.\ \(0\)\
+\-\ ct\\:\\ dextrocardia\\ without\\ evidence\\ of\\ situs\\ inversus\\.\\ a\\ persistent\\ left\\ sided\\ svc\\ is\\ seen\\ with\\ complete\\ agensis\\ of\\ the\\ left\\ brachiocephalic\\ vein\\.\\ \\ the\\ left\\ svc\\ can\\ be\\ followed\\ to\\ the\\ point\\ where\\ it\\ drains\\ into\\ the\\ coronary\\ sinus\\.\ \(0\)\
+\-\ persistent\\ left\\ superior\\ vena\\ cava\\ \\(plsvc\\)\ \(0\)\
+\-\ the\\ differential\\ diagnosis\\ of\\ a\\ abnormal\\ vessel\\ seen\\ on\\ chest\\ ct\\ to\\ the\\ left\\ of\\ the\\ arch\\ of\\ the\\ aorta\\ would\\ include\\:\ \(0\)\
+\-\ persistent\\ left\\ superior\\ vena\\ cava\ \(1\)\
+\-\ partial\\ anomalous\\ pulmonary\\ venous\\ return\\ \ \(3\)\
+\-\ extralobar\\ sequestration\ \(0\)\
+\-\ cough\\ 2\\ weeks\\ for\\ chest\\ x\\-ray\\ to\\ rule\\ out\\ pneumonia\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ dextrocardia\\:\\ 0\\.2893245095465971\ \(0\)\
+\-\ left\\:\\ 0\\.26564186612088275\ \(0\)\
+\-\ persistent\\:\\ 0\\.2571431360987817\ \(0\)\
+\-\ svc\\:\\ 0\\.2489125356979735\ \(0\)\
+\-\ the\\:\\ 0\\.24417626866925857\ \(0\)\
+\-\ vena\\:\\ 0\\.21497581270087887\ \(0\)\
+\-\ cava\\:\\ 0\\.21393563810756996\ \(0\)\
+\-\ plsvc\\:\\ 0\\.17790845292188967\ \(0\)\
+\-\ pneumonia\\:\\ 0\\.17561504379531095\ \(0\)\
+\-\ agensis\\:\\ 0\\.1643906149398717\ \(0\)\
+\-\ extralobar\\:\\ 0\\.15347692190951231\ \(0\)\
+\-\ of\\:\\ 0\\.15239405950739077\ \(0\)\
+\-\ superior\\:\\ 0\\.1446528220330276\ \(0\)\
+\-\ inversus\\:\\ 0\\.13995908392749437\ \(0\)\
+\-\ brachiocephalic\\:\\ 0\\.13995908392749437\ \(0\)\
+\-\ situs\\:\\ 0\\.13400349501782086\ \(0\)\
+\-\ drains\\:\\ 0\\.13400349501782086\ \(0\)\
+\-\ evidence\\:\\ 0\\.1262881274014115\ \(0\)\
+\-\ bubble\\:\\ 0\\.12323698848097595\ \(0\)\
+\-\ chest\\:\\ 0\\.11744379362523574\ \(0\)\
+\-\ sequestration\\:\\ 0\\.11718831052667947\ \(0\)\
+\-\ anomalous\\:\\ 0\\.11634025875020619\ \(0\)\
+\-\ coronary\\:\\ 0\\.11257822872549829\ \(0\)\
+\-\ seen\\:\\ 0\\.10474853937964414\ \(0\)\
+\-\ return\\:\\ 0\\.10367047254466154\ \(0\)\
+\-\ vessel\\:\\ 0\\.09757850463292231\ \(0\)\
+\-\ arch\\:\\ 0\\.09436944309946782\ \(0\)\
+\-\ stomach\\:\\ 0\\.09281878948012419\ \(0\)\
+\-\ point\\:\\ 0\\.091968094961209\ \(0\)\
+\-\ aorta\\:\\ 0\\.0903705375873487\ \(0\)\
+\-\ cxr\\:\\ 0\\.08899583568624823\ \(0\)\
+\-\ rule\\:\\ 0\\.08829388420663542\ \(0\)\
+\-\ where\\:\\ 0\\.08742698069566357\ \(0\)\
+\-\ partial\\:\\ 0\\.0857143786995939\ \(0\)\
+\-\ ct\\:\\ 0\\.08470568872270352\ \(0\)\
+\-\ to\\:\\ 0\\.08343472639245104\ \(0\)\
+\-\ cough\\:\\ 0\\.08305637533806207\ \(0\)\
+\-\ sinus\\:\\ 0\\.08038645589633076\ \(0\)\
+\-\ vein\\:\\ 0\\.07974063139212792\ \(0\)\
+\-\ venous\\:\\ 0\\.07942556609347576\ \(0\)\
+\-\ would\\:\\ 0\\.07874983457228005\ \(0\)\
+\-\ complete\\:\\ 0\\.07798030368911793\ \(0\)\
+\-\ side\\:\\ 0\\.07685269960533077\ \(0\)\
+\-\ followed\\:\\ 0\\.07512386391456304\ \(0\)\
+\-\ out\\:\\ 0\\.0731243362206495\ \(0\)\
+\-\ differential\\:\\ 0\\.07228302475207857\ \(0\)\
+\-\ sided\\:\\ 0\\.07155985355912013\ \(0\)\
+\-\ pulmonary\\:\\ 0\\.0678102823763813\ \(0\)\
+\-\ on\\:\\ 0\\.06719711332709104\ \(0\)\
+\-\ abnormal\\:\\ 0\\.06683581367138852\ \(0\)\
+\-\ weeks\\:\\ 0\\.06667261508036527\ \(0\)\
+\-\ include\\:\\ 0\\.06619105684033935\ \(0\)\
+\-\ is\\:\\ 0\\.060931589895028095\ \(0\)\
+\-\ into\\:\\ 0\\.059137083629012564\ \(0\)\
+\-\ without\\:\\ 0\\.058678702735558\ \(0\)\
+\-\ can\\:\\ 0\\.05837899359938107\ \(0\)\
+\-\ diagnosis\\:\\ 0\\.05766974751791764\ \(0\)\
+\-\ present\\:\\ 0\\.057084539184494416\ \(0\)\
+\-\ it\\:\\ 0\\.05694587448172954\ \(0\)\
+\-\ normal\\:\\ 0\\.04542147599679109\ \(0\)\
+\-\ be\\:\\ 0\\.04512853186220991\ \(0\)\
+\-\ with\\:\\ 0\\.043567175691895124\ \(0\)\
+\-\ patient\\:\\ 0\\.03618312160134269\ \(0\)\
+\-\ no\\:\\ 0\\.03617631576710151\ \(0\)\
+\-\ for\\:\\ 0\\.03371816524343623\ \(0\)\

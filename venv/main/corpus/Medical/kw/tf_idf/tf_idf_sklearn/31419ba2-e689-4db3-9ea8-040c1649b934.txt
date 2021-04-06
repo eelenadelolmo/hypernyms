@@ -1,278 +1,268 @@
-Texto: 
-vitals: t 98.9 f, p 112, bp 112/68, rr 20, pox >95% on room air.
-
-physical exam significant for decreased breath sounds on left side.
-
-labs significant for wbc 19.3 with 78% segs. chem 7, total protein, and albumin all wnl.
-patient was initially treated with placement of a left-sided chest tube placed at the bedside, which immediately returned 400 cc of creamy, purulent material. a ct of the chest with iv contrast was obtained to confirm the diagnosis of empyema and further characterize the lesion. the patient was then taken to the or where a left video assisted thoracoscopy (vats) was performed followed by a thoracotomy and decortication. operative findings significant for an organized inflammatory rind with entrapment of the entire lung, including the lingula. two intra-operative chest tubes were placed for persistent air leaks secondary to small parenchymal injuries. there were no significant complications and the patient tolerated the procedure well.
-
-cultures of the fluid obtained during the initial chest tube placement were significant for growth of pan-sensitive enterococcus faecalis, streptococcus group g, and bacillus. previously obtained sputum cultures were significant for acinetobacter baumannii sensitive only to imipenem/cilastatin.
-pa and lateral chest radiographs significant for an air-fluid level in the left mid-posterior chest (heart and mediastinal outlines preserved on pa, clearly posterior on lateral), silhouetting of the left hemidiaphram, and lll/lingula air space disease. axial ct of the chest with iv contrast significant for a loculated, rim-enhancing fluid collection with multiple pockets of air, consistent with a bronchopleural fistula vs. infection with a gas-forming organism, in the left posterior-lateral chest. the split-pleura sign is also present. ct findings also significant for air space consolidation with air bronchograms in the lll and lingula.
-empyema
-the air fluid level on the pa and lateral chest radiographs could represent:
-<li> an empyema with a bronchopleural fistula vs. infection with gas-producing organism
-<li> an abscess in the lung parenchyma with a bronchopleural fistula vs. infection with gas-producing organism
-<li> loculated pleural effusion and pneumothorax
-<li> a pneumatocele with bronchopleural fistula
-<li> post-traumatic hemothorax with bronchopleural fistula
-
-the axial ct of the chest findings are classic and pathognomonic for a thoracic empyema.
-19 y/o male s/p facial and upper body burns without inhalation injury, history of intubation, mechanical ventilation, and multi-organism pneumonia with recurrent left-sided effusions requiring drainage with chest tubes. extubated, chest tubes removed, and transferred to ward after initial clinical improvement. patient complained of being short of breath with exertion after a few days on the ward. pa and lateral chest radiographs were obtained.
-the main differential in this clinical scenario is between a primary lung abscess and an empyema. features suggestive of an empyema included:
-
-<li> a lenticular, non-spherical shape with unequal air-fluid level lengths on orthogonal projections as opposed to a usually spherical shape with abscesses;
-
-<li> split-pleura sign on axial ct demonstrating filling of the pleural space instead of a rim-enhance cavity within the lung parenchyma;
-
-<li> extension into the costophrenic angle and silhouetting of the posterior aspect of the left hemidiaphram.
-
-the diagnosis of empyema was likely in this patient with a history of persistent pneumonia, recurrent effusions, and instrumentation to the affected area (left-sided chest tubes). the gas within the empyema was likely due to a bronchopleural fistula, secondary to either trauma from chest tube insertion or via necrosis of lung tissue. alternatively, the gas may have come from one of the anaerobic microorganisms cultured from the purulent pleural fluid.
-
-
-Keywords by value: 
-- empyema: 0.27664463666575606
-- bronchopleural: 0.2654123157402532
-- chest: 0.2538739118524623
-- li: 0.24322671571421184
-- the: 0.23672233288575265
-- air: 0.1887538250514881
-- fistula: 0.17376200428802158
-- significant: 0.16661667167929808
-- organism: 0.15224063343915029
-- of: 0.14431935339368662
-- gas: 0.1403936640292604
-- tubes: 0.13890634435237698
-- with: 0.131848576853563
-- and: 0.12588645837350154
-- lingula: 0.11774373873521383
-- fluid: 0.11107778111953207
-- left: 0.09843912217388749
-- pa: 0.09842452889237627
-- lung: 0.09752406788638332
-- for: 0.097183083602294
-- hemidiaphram: 0.09476189917091676
-- obtained: 0.09072015679109287
-- silhouetting: 0.08696962951897035
-- 112: 0.08446107899507062
-- were: 0.08263995372296924
-- lateral: 0.07956293527412502
-- lll: 0.07849582582347589
-- ward: 0.07785325843517803
-- spherical: 0.07785325843517803
-- on: 0.0774706765347591
-- tube: 0.07686354805393271
-- purulent: 0.07371934470833517
-- an: 0.0735666630541735
-- vs: 0.07338413739621134
-- loculated: 0.07288623260952487
-- pleural: 0.07241234900922819
-- to: 0.0721431068249824
-- was: 0.06704742541521132
-- posterior: 0.06632198384964465
-- space: 0.06402930493855746
-- sensitive: 0.06307783577000525
-- radiographs: 0.062388572553328546
-- ct: 0.061035053133050195
-- shape: 0.06080667892855296
-- cultures: 0.060402735995683306
-- effusions: 0.060012805504079024
-- level: 0.05810527118690535
-- infection: 0.05810527118690535
-- axial: 0.05556370705162721
-- operative: 0.053794915435790715
-- patient: 0.05214381189171876
-- parenchyma: 0.05209350773464881
-- recurrent: 0.051419406331889975
-- creamy: 0.0512770844114316
-- thoracoscopy: 0.0512770844114316
-- bacillus: 0.0512770844114316
-- acinetobacter: 0.0512770844114316
-- baumannii: 0.0512770844114316
-- lengths: 0.0512770844114316
-- 19: 0.05078344986338518
-- pneumonia: 0.05061607403535265
-- placement: 0.05007549543450574
-- placed: 0.04997043047552536
-- persistent: 0.049409495273191856
-- faecalis: 0.048997991640483525
-- in: 0.04785867906840223
-- findings: 0.04747439554102983
-- decortication: 0.04738094958545838
-- outlines: 0.04738094958545838
-- unequal: 0.04738094958545838
-- microorganisms: 0.04738094958545838
-- breath: 0.04700087312978586
-- pox: 0.046126674323508525
-- enterococcus: 0.046126674323508525
-- iv: 0.04582043970799589
-- bedside: 0.04510185681451031
-- pockets: 0.04510185681451031
-- pneumatocele: 0.04510185681451031
-- sign: 0.044396374352459696
-- segs: 0.04423538595670887
-- rind: 0.04348481475948517
-- burns: 0.04348481475948517
-- initial: 0.04301932007290044
-- anaerobic: 0.04282276404356223
-- cultured: 0.04282276404356223
-- organized: 0.04223053949753531
-- leaks: 0.04223053949753531
-- extubated: 0.04223053949753531
-- lenticular: 0.04223053949753531
-- orthogonal: 0.04223053949753531
-- vats: 0.041694807229959156
-- inhalation: 0.041694807229959156
-- come: 0.04120572198853709
-- abscess: 0.041178224857103006
-- clinical: 0.0406411279454108
-- characterize: 0.04033925113073565
-- thoracotomy: 0.04033925113073565
-- scenario: 0.04033925113073565
-- alternatively: 0.03995144672658723
-- bronchograms: 0.03862272091406746
-- instrumentation: 0.0383344046715621
-- likely: 0.038321134355732575
-- from: 0.03820321147816806
-- 400: 0.03806015835978757
-- secondary: 0.03801011082520334
-- streptococcus: 0.03754881196296358
-- projections: 0.03754881196296358
-- costophrenic: 0.03685967235416759
-- chem: 0.03664753644664094
-- opposed: 0.036443116304762435
-- albumin: 0.03624587029837227
-- sputum: 0.035871002457798506
-- intubation: 0.035871002457798506
-- tolerated: 0.03569254510753874
-- hemothorax: 0.03569254510753874
-- instead: 0.03569254510753874
-- assisted: 0.03535177808576473
-- entrapment: 0.034726586088094244
-- ventilation: 0.034299474290249696
-- preserved: 0.03365267713699036
-- exertion: 0.03365267713699036
-- video: 0.033531792168421004
-- diagnosis: 0.0332433503062447
-- 78: 0.03264826231606287
-- abscesses: 0.03254698147878922
-- requiring: 0.0319748676318253
-- mechanical: 0.03179641028156553
-- pathognomonic: 0.031538917885002626
-- insertion: 0.03145564325979151
-- transferred: 0.03137358436604228
-- contrast: 0.031158344932533655
-- after: 0.031109403328094042
-- cc: 0.031056828206888088
-- complained: 0.03090490181269094
-- group: 0.030472308849719645
-- 95: 0.03040333946427648
-- clearly: 0.030201367997841653
-- also: 0.030163836895899805
-- returned: 0.030135625325685755
-- wnl: 0.03007064270145098
-- confirm: 0.030006402752039512
-- protein: 0.029756542311017146
-- consolidation: 0.02963565734244779
-- within: 0.02953524572492274
-- rr: 0.02945906896457169
-- immediately: 0.02934435203611657
-- entire: 0.029176550488843437
-- parenchymal: 0.028803460581035428
-- vitals: 0.028310079631041995
-- angle: 0.0281242466933284
-- improvement: 0.027988795936893067
-- injuries: 0.027944361441526074
-- pneumothorax: 0.027944361441526074
-- main: 0.027944361441526074
-- included: 0.027727309981091432
-- short: 0.0275595084338183
-- removed: 0.027238224739669376
-- few: 0.02719932538447598
-- material: 0.027008766986717725
-- represent: 0.026681241277055515
-- either: 0.026507204638303264
-- cavity: 0.026473034719141576
-- growth: 0.02643907126600837
-- facial: 0.02643907126600837
-- demonstrating: 0.02643907126600837
-- affected: 0.026371753881867927
-- total: 0.026272265720224876
-- room: 0.02623949049971254
-- via: 0.02620690528154586
-- suggestive: 0.026110267926066296
-- bp: 0.026015263956437742
-- mediastinal: 0.0258910393559051
-- collection: 0.0258910393559051
-- features: 0.025799640034904
-- previously: 0.02573952251647458
-- drainage: 0.02568004117419796
-- taken: 0.025621182684644233
-- procedure: 0.025562934138598475
-- where: 0.02519835676912099
-- initially: 0.0251443089066218
-- filling: 0.024830500854473928
-- sounds: 0.02475471182684279
-- complications: 0.02455746582045263
-- necrosis: 0.024509217160325003
-- history: 0.024500497593357796
-- classic: 0.023982226627624434
-- thoracic: 0.023960397728764467
-- effusion: 0.02380992396008052
-- could: 0.02332260658607107
-- including: 0.02294648407263673
-- then: 0.022697414588400595
-- extension: 0.022697414588400595
-- wbc: 0.02266271735234822
-- being: 0.022343355673739327
-- or: 0.022308888402580794
-- heart: 0.022294548411435636
-- labs: 0.02221413310009308
-- side: 0.022150619041351193
-- this: 0.022035435977789914
-- inflammatory: 0.021681304957816384
-- followed: 0.021652331005043476
-- body: 0.021102167575773847
-- injury: 0.02090898930642677
-- further: 0.02088372663742114
-- differential: 0.020833539389796433
-- between: 0.020833539389796433
-- area: 0.02077142898554856
-- 20: 0.020685611526368698
-- aspect: 0.020685611526368698
-- during: 0.020309174030830233
-- days: 0.020297807122220277
-- usually: 0.020185384686864503
-- only: 0.020031677684624567
-- treated: 0.01996706853199499
-- decreased: 0.019861010019642324
-- primary: 0.01971581175898381
-- all: 0.019086848948891066
-- two: 0.019041261234348985
-- performed: 0.018969081309700507
-- trauma: 0.01862146302393103
-- due: 0.018430904626172775
-- one: 0.018358062124359954
-- is: 0.01756180904873501
-- physical: 0.017385758218371936
-- consistent: 0.017385758218371936
-- upper: 0.017134427521686858
-- into: 0.017044593324759705
-- without: 0.016912477984649496
-- tissue: 0.016819975605346753
-- small: 0.016539616259373113
-- present: 0.016453005387192843
-- exam: 0.016140960627159525
-- may: 0.01613554285865135
-- have: 0.01601765430813409
-- multiple: 0.01568312930187336
-- well: 0.01552547663603361
-- lesion: 0.015372125351217146
-- which: 0.014579753873184165
-- male: 0.014276061672174782
-- by: 0.013616172438451929
-- disease: 0.013459267237293075
-- as: 0.012881188498029049
-- there: 0.012758108381554674
-- are: 0.012166774703964845
-- at: 0.012110923938227866
-- no: 0.010426800788935582
+\-\ Texto\\:\\ \ \(0\)\
+\-\ vitals\\:\\ t\\ 98\\.9\\ f\\,\\ p\\ 112\\,\\ bp\\ 112\\/68\\,\\ rr\\ 20\\,\\ pox\\ \\>95\\%\\ on\\ room\\ air\\.\ \(0\)\
+\-\ physical\\ exam\\ significant\\ for\\ decreased\\ breath\\ sounds\\ on\\ left\\ side\\.\ \(0\)\
+\-\ labs\\ significant\\ for\\ wbc\\ 19\\.3\\ with\\ 78\\%\\ segs\\.\\ chem\\ 7\\,\\ total\\ protein\\,\\ and\\ albumin\\ all\\ wnl\\.\ \(0\)\
+\-\ patient\\ was\\ initially\\ treated\\ with\\ placement\\ of\\ a\\ left\\-sided\\ chest\\ tube\\ placed\\ at\\ the\\ bedside\\,\\ which\\ immediately\\ returned\\ 400\\ cc\\ of\\ creamy\\,\\ purulent\\ material\\.\\ a\\ ct\\ of\\ the\\ chest\\ with\\ iv\\ contrast\\ was\\ obtained\\ to\\ confirm\\ the\\ diagnosis\\ of\\ empyema\\ and\\ further\\ characterize\\ the\\ lesion\\.\\ the\\ patient\\ was\\ then\\ taken\\ to\\ the\\ or\\ where\\ a\\ left\\ video\\ assisted\\ thoracoscopy\\ \\(vats\\)\\ was\\ performed\\ followed\\ by\\ a\\ thoracotomy\\ and\\ decortication\\.\\ operative\\ findings\\ significant\\ for\\ an\\ organized\\ inflammatory\\ rind\\ with\\ entrapment\\ of\\ the\\ entire\\ lung\\,\\ including\\ the\\ lingula\\.\\ two\\ intra\\-operative\\ chest\\ tubes\\ were\\ placed\\ for\\ persistent\\ air\\ leaks\\ secondary\\ to\\ small\\ parenchymal\\ injuries\\.\\ there\\ were\\ no\\ significant\\ complications\\ and\\ the\\ patient\\ tolerated\\ the\\ procedure\\ well\\.\ \(0\)\
+\-\ cultures\\ of\\ the\\ fluid\\ obtained\\ during\\ the\\ initial\\ chest\\ tube\\ placement\\ were\\ significant\\ for\\ growth\\ of\\ pan\\-sensitive\\ enterococcus\\ faecalis\\,\\ streptococcus\\ group\\ g\\,\\ and\\ bacillus\\.\\ previously\\ obtained\\ sputum\\ cultures\\ were\\ significant\\ for\\ acinetobacter\\ baumannii\\ sensitive\\ only\\ to\\ imipenem\\/cilastatin\\.\ \(0\)\
+\-\ pa\\ and\\ lateral\\ chest\\ radiographs\\ significant\\ for\\ an\\ air\\-fluid\\ level\\ in\\ the\\ left\\ mid\\-posterior\\ chest\\ \\(heart\\ and\\ mediastinal\\ outlines\\ preserved\\ on\\ pa\\,\\ clearly\\ posterior\\ on\\ lateral\\)\\,\\ silhouetting\\ of\\ the\\ left\\ hemidiaphram\\,\\ and\\ lll\\/lingula\\ air\\ space\\ disease\\.\\ axial\\ ct\\ of\\ the\\ chest\\ with\\ iv\\ contrast\\ significant\\ for\\ a\\ loculated\\,\\ rim\\-enhancing\\ fluid\\ collection\\ with\\ multiple\\ pockets\\ of\\ air\\,\\ consistent\\ with\\ a\\ bronchopleural\\ fistula\\ vs\\.\\ infection\\ with\\ a\\ gas\\-forming\\ organism\\,\\ in\\ the\\ left\\ posterior\\-lateral\\ chest\\.\\ the\\ split\\-pleura\\ sign\\ is\\ also\\ present\\.\\ ct\\ findings\\ also\\ significant\\ for\\ air\\ space\\ consolidation\\ with\\ air\\ bronchograms\\ in\\ the\\ lll\\ and\\ lingula\\.\ \(0\)\
+\-\ empyema\ \(49\)\
+\-\ the\\ air\\ fluid\\ level\\ on\\ the\\ pa\\ and\\ lateral\\ chest\\ radiographs\\ could\\ represent\\:\ \(0\)\
+\-\ \\<li\\>\\ an\\ empyema\\ with\\ a\\ bronchopleural\\ fistula\\ vs\\.\\ infection\\ with\\ gas\\-producing\\ organism\ \(1\)\
+\-\ \\<li\\>\\ an\\ abscess\\ in\\ the\\ lung\\ parenchyma\\ with\\ a\\ bronchopleural\\ fistula\\ vs\\.\\ infection\\ with\\ gas\\-producing\\ organism\ \(1\)\
+\-\ \\<li\\>\\ loculated\\ pleural\\ effusion\\ and\\ pneumothorax\ \(1\)\
+\-\ \\<li\\>\\ a\\ pneumatocele\\ with\\ bronchopleural\\ fistula\ \(1\)\
+\-\ \\<li\\>\\ post\\-traumatic\\ hemothorax\\ with\\ bronchopleural\\ fistula\ \(1\)\
+\-\ the\\ axial\\ ct\\ of\\ the\\ chest\\ findings\\ are\\ classic\\ and\\ pathognomonic\\ for\\ a\\ thoracic\\ empyema\\.\ \(0\)\
+\-\ 19\\ y\\/o\\ male\\ s\\/p\\ facial\\ and\\ upper\\ body\\ burns\\ without\\ inhalation\\ injury\\,\\ history\\ of\\ intubation\\,\\ mechanical\\ ventilation\\,\\ and\\ multi\\-organism\\ pneumonia\\ with\\ recurrent\\ left\\-sided\\ effusions\\ requiring\\ drainage\\ with\\ chest\\ tubes\\.\\ extubated\\,\\ chest\\ tubes\\ removed\\,\\ and\\ transferred\\ to\\ ward\\ after\\ initial\\ clinical\\ improvement\\.\\ patient\\ complained\\ of\\ being\\ short\\ of\\ breath\\ with\\ exertion\\ after\\ a\\ few\\ days\\ on\\ the\\ ward\\.\\ pa\\ and\\ lateral\\ chest\\ radiographs\\ were\\ obtained\\.\ \(0\)\
+\-\ the\\ main\\ differential\\ in\\ this\\ clinical\\ scenario\\ is\\ between\\ a\\ primary\\ lung\\ abscess\\ and\\ an\\ empyema\\.\\ features\\ suggestive\\ of\\ an\\ empyema\\ included\\:\ \(0\)\
+\-\ \\<li\\>\\ a\\ lenticular\\,\\ non\\-spherical\\ shape\\ with\\ unequal\\ air\\-fluid\\ level\\ lengths\\ on\\ orthogonal\\ projections\\ as\\ opposed\\ to\\ a\\ usually\\ spherical\\ shape\\ with\\ abscesses\\;\ \(1\)\
+\-\ \\<li\\>\\ split\\-pleura\\ sign\\ on\\ axial\\ ct\\ demonstrating\\ filling\\ of\\ the\\ pleural\\ space\\ instead\\ of\\ a\\ rim\\-enhance\\ cavity\\ within\\ the\\ lung\\ parenchyma\\;\ \(0\)\
+\-\ \\<li\\>\\ extension\\ into\\ the\\ costophrenic\\ angle\\ and\\ silhouetting\\ of\\ the\\ posterior\\ aspect\\ of\\ the\\ left\\ hemidiaphram\\.\ \(1\)\
+\-\ the\\ diagnosis\\ of\\ empyema\\ was\\ likely\\ in\\ this\\ patient\\ with\\ a\\ history\\ of\\ persistent\\ pneumonia\\,\\ recurrent\\ effusions\\,\\ and\\ instrumentation\\ to\\ the\\ affected\\ area\\ \\(left\\-sided\\ chest\\ tubes\\)\\.\\ the\\ gas\\ within\\ the\\ empyema\\ was\\ likely\\ due\\ to\\ a\\ bronchopleural\\ fistula\\,\\ secondary\\ to\\ either\\ trauma\\ from\\ chest\\ tube\\ insertion\\ or\\ via\\ necrosis\\ of\\ lung\\ tissue\\.\\ alternatively\\,\\ the\\ gas\\ may\\ have\\ come\\ from\\ one\\ of\\ the\\ anaerobic\\ microorganisms\\ cultured\\ from\\ the\\ purulent\\ pleural\\ fluid\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ empyema\\:\\ 0\\.27664463666575606\ \(0\)\
+\-\ bronchopleural\\:\\ 0\\.2654123157402532\ \(0\)\
+\-\ chest\\:\\ 0\\.2538739118524623\ \(0\)\
+\-\ li\\:\\ 0\\.24322671571421184\ \(0\)\
+\-\ the\\:\\ 0\\.23672233288575265\ \(0\)\
+\-\ air\\:\\ 0\\.1887538250514881\ \(0\)\
+\-\ fistula\\:\\ 0\\.17376200428802158\ \(0\)\
+\-\ significant\\:\\ 0\\.16661667167929808\ \(0\)\
+\-\ organism\\:\\ 0\\.15224063343915029\ \(0\)\
+\-\ of\\:\\ 0\\.14431935339368662\ \(0\)\
+\-\ gas\\:\\ 0\\.1403936640292604\ \(0\)\
+\-\ tubes\\:\\ 0\\.13890634435237698\ \(0\)\
+\-\ with\\:\\ 0\\.131848576853563\ \(0\)\
+\-\ and\\:\\ 0\\.12588645837350154\ \(0\)\
+\-\ lingula\\:\\ 0\\.11774373873521383\ \(0\)\
+\-\ fluid\\:\\ 0\\.11107778111953207\ \(0\)\
+\-\ left\\:\\ 0\\.09843912217388749\ \(0\)\
+\-\ pa\\:\\ 0\\.09842452889237627\ \(0\)\
+\-\ lung\\:\\ 0\\.09752406788638332\ \(0\)\
+\-\ for\\:\\ 0\\.097183083602294\ \(0\)\
+\-\ hemidiaphram\\:\\ 0\\.09476189917091676\ \(0\)\
+\-\ obtained\\:\\ 0\\.09072015679109287\ \(0\)\
+\-\ silhouetting\\:\\ 0\\.08696962951897035\ \(0\)\
+\-\ 112\\:\\ 0\\.08446107899507062\ \(0\)\
+\-\ were\\:\\ 0\\.08263995372296924\ \(0\)\
+\-\ lateral\\:\\ 0\\.07956293527412502\ \(0\)\
+\-\ lll\\:\\ 0\\.07849582582347589\ \(0\)\
+\-\ ward\\:\\ 0\\.07785325843517803\ \(0\)\
+\-\ spherical\\:\\ 0\\.07785325843517803\ \(0\)\
+\-\ on\\:\\ 0\\.0774706765347591\ \(0\)\
+\-\ tube\\:\\ 0\\.07686354805393271\ \(0\)\
+\-\ purulent\\:\\ 0\\.07371934470833517\ \(0\)\
+\-\ an\\:\\ 0\\.0735666630541735\ \(0\)\
+\-\ vs\\:\\ 0\\.07338413739621134\ \(0\)\
+\-\ loculated\\:\\ 0\\.07288623260952487\ \(0\)\
+\-\ pleural\\:\\ 0\\.07241234900922819\ \(0\)\
+\-\ to\\:\\ 0\\.0721431068249824\ \(0\)\
+\-\ was\\:\\ 0\\.06704742541521132\ \(0\)\
+\-\ posterior\\:\\ 0\\.06632198384964465\ \(0\)\
+\-\ space\\:\\ 0\\.06402930493855746\ \(0\)\
+\-\ sensitive\\:\\ 0\\.06307783577000525\ \(0\)\
+\-\ radiographs\\:\\ 0\\.062388572553328546\ \(0\)\
+\-\ ct\\:\\ 0\\.061035053133050195\ \(0\)\
+\-\ shape\\:\\ 0\\.06080667892855296\ \(0\)\
+\-\ cultures\\:\\ 0\\.060402735995683306\ \(0\)\
+\-\ effusions\\:\\ 0\\.060012805504079024\ \(0\)\
+\-\ level\\:\\ 0\\.05810527118690535\ \(0\)\
+\-\ infection\\:\\ 0\\.05810527118690535\ \(0\)\
+\-\ axial\\:\\ 0\\.05556370705162721\ \(0\)\
+\-\ operative\\:\\ 0\\.053794915435790715\ \(0\)\
+\-\ patient\\:\\ 0\\.05214381189171876\ \(0\)\
+\-\ parenchyma\\:\\ 0\\.05209350773464881\ \(0\)\
+\-\ recurrent\\:\\ 0\\.051419406331889975\ \(0\)\
+\-\ creamy\\:\\ 0\\.0512770844114316\ \(0\)\
+\-\ thoracoscopy\\:\\ 0\\.0512770844114316\ \(0\)\
+\-\ bacillus\\:\\ 0\\.0512770844114316\ \(0\)\
+\-\ acinetobacter\\:\\ 0\\.0512770844114316\ \(0\)\
+\-\ baumannii\\:\\ 0\\.0512770844114316\ \(0\)\
+\-\ lengths\\:\\ 0\\.0512770844114316\ \(0\)\
+\-\ 19\\:\\ 0\\.05078344986338518\ \(0\)\
+\-\ pneumonia\\:\\ 0\\.05061607403535265\ \(0\)\
+\-\ placement\\:\\ 0\\.05007549543450574\ \(0\)\
+\-\ placed\\:\\ 0\\.04997043047552536\ \(0\)\
+\-\ persistent\\:\\ 0\\.049409495273191856\ \(0\)\
+\-\ faecalis\\:\\ 0\\.048997991640483525\ \(0\)\
+\-\ in\\:\\ 0\\.04785867906840223\ \(0\)\
+\-\ findings\\:\\ 0\\.04747439554102983\ \(0\)\
+\-\ decortication\\:\\ 0\\.04738094958545838\ \(0\)\
+\-\ outlines\\:\\ 0\\.04738094958545838\ \(0\)\
+\-\ unequal\\:\\ 0\\.04738094958545838\ \(0\)\
+\-\ microorganisms\\:\\ 0\\.04738094958545838\ \(0\)\
+\-\ breath\\:\\ 0\\.04700087312978586\ \(0\)\
+\-\ pox\\:\\ 0\\.046126674323508525\ \(0\)\
+\-\ enterococcus\\:\\ 0\\.046126674323508525\ \(0\)\
+\-\ iv\\:\\ 0\\.04582043970799589\ \(0\)\
+\-\ bedside\\:\\ 0\\.04510185681451031\ \(0\)\
+\-\ pockets\\:\\ 0\\.04510185681451031\ \(0\)\
+\-\ pneumatocele\\:\\ 0\\.04510185681451031\ \(0\)\
+\-\ sign\\:\\ 0\\.044396374352459696\ \(0\)\
+\-\ segs\\:\\ 0\\.04423538595670887\ \(0\)\
+\-\ rind\\:\\ 0\\.04348481475948517\ \(0\)\
+\-\ burns\\:\\ 0\\.04348481475948517\ \(0\)\
+\-\ initial\\:\\ 0\\.04301932007290044\ \(0\)\
+\-\ anaerobic\\:\\ 0\\.04282276404356223\ \(0\)\
+\-\ cultured\\:\\ 0\\.04282276404356223\ \(0\)\
+\-\ organized\\:\\ 0\\.04223053949753531\ \(0\)\
+\-\ leaks\\:\\ 0\\.04223053949753531\ \(0\)\
+\-\ extubated\\:\\ 0\\.04223053949753531\ \(0\)\
+\-\ lenticular\\:\\ 0\\.04223053949753531\ \(0\)\
+\-\ orthogonal\\:\\ 0\\.04223053949753531\ \(0\)\
+\-\ vats\\:\\ 0\\.041694807229959156\ \(0\)\
+\-\ inhalation\\:\\ 0\\.041694807229959156\ \(0\)\
+\-\ come\\:\\ 0\\.04120572198853709\ \(0\)\
+\-\ abscess\\:\\ 0\\.041178224857103006\ \(0\)\
+\-\ clinical\\:\\ 0\\.0406411279454108\ \(0\)\
+\-\ characterize\\:\\ 0\\.04033925113073565\ \(0\)\
+\-\ thoracotomy\\:\\ 0\\.04033925113073565\ \(0\)\
+\-\ scenario\\:\\ 0\\.04033925113073565\ \(0\)\
+\-\ alternatively\\:\\ 0\\.03995144672658723\ \(0\)\
+\-\ bronchograms\\:\\ 0\\.03862272091406746\ \(0\)\
+\-\ instrumentation\\:\\ 0\\.0383344046715621\ \(0\)\
+\-\ likely\\:\\ 0\\.038321134355732575\ \(0\)\
+\-\ from\\:\\ 0\\.03820321147816806\ \(0\)\
+\-\ 400\\:\\ 0\\.03806015835978757\ \(0\)\
+\-\ secondary\\:\\ 0\\.03801011082520334\ \(0\)\
+\-\ streptococcus\\:\\ 0\\.03754881196296358\ \(0\)\
+\-\ projections\\:\\ 0\\.03754881196296358\ \(0\)\
+\-\ costophrenic\\:\\ 0\\.03685967235416759\ \(0\)\
+\-\ chem\\:\\ 0\\.03664753644664094\ \(0\)\
+\-\ opposed\\:\\ 0\\.036443116304762435\ \(0\)\
+\-\ albumin\\:\\ 0\\.03624587029837227\ \(0\)\
+\-\ sputum\\:\\ 0\\.035871002457798506\ \(0\)\
+\-\ intubation\\:\\ 0\\.035871002457798506\ \(0\)\
+\-\ tolerated\\:\\ 0\\.03569254510753874\ \(0\)\
+\-\ hemothorax\\:\\ 0\\.03569254510753874\ \(0\)\
+\-\ instead\\:\\ 0\\.03569254510753874\ \(0\)\
+\-\ assisted\\:\\ 0\\.03535177808576473\ \(0\)\
+\-\ entrapment\\:\\ 0\\.034726586088094244\ \(0\)\
+\-\ ventilation\\:\\ 0\\.034299474290249696\ \(0\)\
+\-\ preserved\\:\\ 0\\.03365267713699036\ \(0\)\
+\-\ exertion\\:\\ 0\\.03365267713699036\ \(0\)\
+\-\ video\\:\\ 0\\.033531792168421004\ \(0\)\
+\-\ diagnosis\\:\\ 0\\.0332433503062447\ \(0\)\
+\-\ 78\\:\\ 0\\.03264826231606287\ \(0\)\
+\-\ abscesses\\:\\ 0\\.03254698147878922\ \(0\)\
+\-\ requiring\\:\\ 0\\.0319748676318253\ \(0\)\
+\-\ mechanical\\:\\ 0\\.03179641028156553\ \(0\)\
+\-\ pathognomonic\\:\\ 0\\.031538917885002626\ \(0\)\
+\-\ insertion\\:\\ 0\\.03145564325979151\ \(0\)\
+\-\ transferred\\:\\ 0\\.03137358436604228\ \(0\)\
+\-\ contrast\\:\\ 0\\.031158344932533655\ \(0\)\
+\-\ after\\:\\ 0\\.031109403328094042\ \(0\)\
+\-\ cc\\:\\ 0\\.031056828206888088\ \(0\)\
+\-\ complained\\:\\ 0\\.03090490181269094\ \(0\)\
+\-\ group\\:\\ 0\\.030472308849719645\ \(0\)\
+\-\ 95\\:\\ 0\\.03040333946427648\ \(0\)\
+\-\ clearly\\:\\ 0\\.030201367997841653\ \(0\)\
+\-\ also\\:\\ 0\\.030163836895899805\ \(0\)\
+\-\ returned\\:\\ 0\\.030135625325685755\ \(0\)\
+\-\ wnl\\:\\ 0\\.03007064270145098\ \(0\)\
+\-\ confirm\\:\\ 0\\.030006402752039512\ \(0\)\
+\-\ protein\\:\\ 0\\.029756542311017146\ \(0\)\
+\-\ consolidation\\:\\ 0\\.02963565734244779\ \(0\)\
+\-\ within\\:\\ 0\\.02953524572492274\ \(0\)\
+\-\ rr\\:\\ 0\\.02945906896457169\ \(0\)\
+\-\ immediately\\:\\ 0\\.02934435203611657\ \(0\)\
+\-\ entire\\:\\ 0\\.029176550488843437\ \(0\)\
+\-\ parenchymal\\:\\ 0\\.028803460581035428\ \(0\)\
+\-\ vitals\\:\\ 0\\.028310079631041995\ \(0\)\
+\-\ angle\\:\\ 0\\.0281242466933284\ \(0\)\
+\-\ improvement\\:\\ 0\\.027988795936893067\ \(0\)\
+\-\ injuries\\:\\ 0\\.027944361441526074\ \(0\)\
+\-\ pneumothorax\\:\\ 0\\.027944361441526074\ \(0\)\
+\-\ main\\:\\ 0\\.027944361441526074\ \(0\)\
+\-\ included\\:\\ 0\\.027727309981091432\ \(0\)\
+\-\ short\\:\\ 0\\.0275595084338183\ \(0\)\
+\-\ removed\\:\\ 0\\.027238224739669376\ \(0\)\
+\-\ few\\:\\ 0\\.02719932538447598\ \(0\)\
+\-\ material\\:\\ 0\\.027008766986717725\ \(0\)\
+\-\ represent\\:\\ 0\\.026681241277055515\ \(0\)\
+\-\ either\\:\\ 0\\.026507204638303264\ \(0\)\
+\-\ cavity\\:\\ 0\\.026473034719141576\ \(0\)\
+\-\ growth\\:\\ 0\\.02643907126600837\ \(0\)\
+\-\ facial\\:\\ 0\\.02643907126600837\ \(0\)\
+\-\ demonstrating\\:\\ 0\\.02643907126600837\ \(0\)\
+\-\ affected\\:\\ 0\\.026371753881867927\ \(0\)\
+\-\ total\\:\\ 0\\.026272265720224876\ \(0\)\
+\-\ room\\:\\ 0\\.02623949049971254\ \(0\)\
+\-\ via\\:\\ 0\\.02620690528154586\ \(0\)\
+\-\ suggestive\\:\\ 0\\.026110267926066296\ \(0\)\
+\-\ bp\\:\\ 0\\.026015263956437742\ \(0\)\
+\-\ mediastinal\\:\\ 0\\.0258910393559051\ \(0\)\
+\-\ collection\\:\\ 0\\.0258910393559051\ \(0\)\
+\-\ features\\:\\ 0\\.025799640034904\ \(0\)\
+\-\ previously\\:\\ 0\\.02573952251647458\ \(0\)\
+\-\ drainage\\:\\ 0\\.02568004117419796\ \(0\)\
+\-\ taken\\:\\ 0\\.025621182684644233\ \(0\)\
+\-\ procedure\\:\\ 0\\.025562934138598475\ \(0\)\
+\-\ where\\:\\ 0\\.02519835676912099\ \(0\)\
+\-\ initially\\:\\ 0\\.0251443089066218\ \(0\)\
+\-\ filling\\:\\ 0\\.024830500854473928\ \(0\)\
+\-\ sounds\\:\\ 0\\.02475471182684279\ \(0\)\
+\-\ complications\\:\\ 0\\.02455746582045263\ \(0\)\
+\-\ necrosis\\:\\ 0\\.024509217160325003\ \(0\)\
+\-\ history\\:\\ 0\\.024500497593357796\ \(0\)\
+\-\ classic\\:\\ 0\\.023982226627624434\ \(0\)\
+\-\ thoracic\\:\\ 0\\.023960397728764467\ \(0\)\
+\-\ effusion\\:\\ 0\\.02380992396008052\ \(0\)\
+\-\ could\\:\\ 0\\.02332260658607107\ \(0\)\
+\-\ including\\:\\ 0\\.02294648407263673\ \(0\)\
+\-\ then\\:\\ 0\\.022697414588400595\ \(0\)\
+\-\ extension\\:\\ 0\\.022697414588400595\ \(0\)\
+\-\ wbc\\:\\ 0\\.02266271735234822\ \(0\)\
+\-\ being\\:\\ 0\\.022343355673739327\ \(0\)\
+\-\ or\\:\\ 0\\.022308888402580794\ \(0\)\
+\-\ heart\\:\\ 0\\.022294548411435636\ \(0\)\
+\-\ labs\\:\\ 0\\.02221413310009308\ \(0\)\
+\-\ side\\:\\ 0\\.022150619041351193\ \(0\)\
+\-\ this\\:\\ 0\\.022035435977789914\ \(0\)\
+\-\ inflammatory\\:\\ 0\\.021681304957816384\ \(0\)\
+\-\ followed\\:\\ 0\\.021652331005043476\ \(0\)\
+\-\ body\\:\\ 0\\.021102167575773847\ \(0\)\
+\-\ injury\\:\\ 0\\.02090898930642677\ \(0\)\
+\-\ further\\:\\ 0\\.02088372663742114\ \(0\)\
+\-\ differential\\:\\ 0\\.020833539389796433\ \(0\)\
+\-\ between\\:\\ 0\\.020833539389796433\ \(0\)\
+\-\ area\\:\\ 0\\.02077142898554856\ \(0\)\
+\-\ 20\\:\\ 0\\.020685611526368698\ \(0\)\
+\-\ aspect\\:\\ 0\\.020685611526368698\ \(0\)\
+\-\ during\\:\\ 0\\.020309174030830233\ \(0\)\
+\-\ days\\:\\ 0\\.020297807122220277\ \(0\)\
+\-\ usually\\:\\ 0\\.020185384686864503\ \(0\)\
+\-\ only\\:\\ 0\\.020031677684624567\ \(0\)\
+\-\ treated\\:\\ 0\\.01996706853199499\ \(0\)\
+\-\ decreased\\:\\ 0\\.019861010019642324\ \(0\)\
+\-\ primary\\:\\ 0\\.01971581175898381\ \(0\)\
+\-\ all\\:\\ 0\\.019086848948891066\ \(0\)\
+\-\ two\\:\\ 0\\.019041261234348985\ \(0\)\
+\-\ performed\\:\\ 0\\.018969081309700507\ \(0\)\
+\-\ trauma\\:\\ 0\\.01862146302393103\ \(0\)\
+\-\ due\\:\\ 0\\.018430904626172775\ \(0\)\
+\-\ one\\:\\ 0\\.018358062124359954\ \(0\)\
+\-\ is\\:\\ 0\\.01756180904873501\ \(0\)\
+\-\ physical\\:\\ 0\\.017385758218371936\ \(0\)\
+\-\ consistent\\:\\ 0\\.017385758218371936\ \(0\)\
+\-\ upper\\:\\ 0\\.017134427521686858\ \(0\)\
+\-\ into\\:\\ 0\\.017044593324759705\ \(0\)\
+\-\ without\\:\\ 0\\.016912477984649496\ \(0\)\
+\-\ tissue\\:\\ 0\\.016819975605346753\ \(0\)\
+\-\ small\\:\\ 0\\.016539616259373113\ \(0\)\
+\-\ present\\:\\ 0\\.016453005387192843\ \(0\)\
+\-\ exam\\:\\ 0\\.016140960627159525\ \(0\)\
+\-\ may\\:\\ 0\\.01613554285865135\ \(0\)\
+\-\ have\\:\\ 0\\.01601765430813409\ \(0\)\
+\-\ multiple\\:\\ 0\\.01568312930187336\ \(0\)\
+\-\ well\\:\\ 0\\.01552547663603361\ \(0\)\
+\-\ lesion\\:\\ 0\\.015372125351217146\ \(0\)\
+\-\ which\\:\\ 0\\.014579753873184165\ \(0\)\
+\-\ male\\:\\ 0\\.014276061672174782\ \(0\)\
+\-\ by\\:\\ 0\\.013616172438451929\ \(0\)\
+\-\ disease\\:\\ 0\\.013459267237293075\ \(0\)\
+\-\ as\\:\\ 0\\.012881188498029049\ \(0\)\
+\-\ there\\:\\ 0\\.012758108381554674\ \(0\)\
+\-\ are\\:\\ 0\\.012166774703964845\ \(0\)\
+\-\ at\\:\\ 0\\.012110923938227866\ \(0\)\
+\-\ no\\:\\ 0\\.010426800788935582\ \(0\)\

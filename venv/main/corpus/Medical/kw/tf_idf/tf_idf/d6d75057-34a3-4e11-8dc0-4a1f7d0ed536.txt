@@ -1,80 +1,78 @@
-Texto: 
-multi-sequence, multi-planar mri of the brain demonstrates cortical hyperintensity involving the parietal lobes posteriorly and symmetrically on t2 weighted images with corresponding restricted diffusion.  following gadolinium dtpa, no enhancement of the cortex is seen.
-creutzfeldt-jakob disease
-cerebral infarction
-hypoxic-ischemic encephalopathy
-creutzfeldt-jakob disease
-encephalitis
-35 year old active duty male presents with progressive cognitive decline.
-the cortical changes in hypoxic ischemic encephalopathy usually occurs at water-shed zones.  hence this case would be an unusual distribution for hypoxic ischemic encephalopathy.
-
-
-Keywords by value: 
-- encephalopathy: 0.1775763102369966
-- creutzfeldt-jakob: 0.1584959266420391
-- hypoxic: 0.1421865812170992
-- water-shed: 0.10371198145842939
-- ischemic: 0.09791901350138765
-- multi-planar: 0.09078713100351045
-- multi-sequence: 0.0874026360334895
-- hypoxic-ischemic: 0.07786228054859151
-- cortical: 0.07329587883707793
-- dtpa: 0.07266424816883811
-- symmetrically: 0.0710932906085496
-- zones: 0.0684680723577942
-- decline: 0.06734677612480214
-- cognitive: 0.0668238142122041
-- hence: 0.06584285410703879
-- encephalitis: 0.05614667242508174
-- hyperintensity: 0.055348759526978666
-- duty: 0.05245658349737537
-- corresponding: 0.051171885944846056
-- unusual: 0.04862808466873269
-- gadolinium: 0.04768640575492637
-- posteriorly: 0.047486999186529044
-- restricted: 0.04626725295741326
-- 35: 0.04626725295741326
-- distribution: 0.045243589698711735
-- diffusion: 0.04500100984926778
-- lobes: 0.044301910784905425
-- weighted: 0.043713552895791756
-- cortex: 0.04301721323237611
-- parietal: 0.042949793529917464
-- occurs: 0.04126177325370933
-- infarction: 0.04108833464503635
-- progressive: 0.03973457782403886
-- active: 0.03838304516523389
-- would: 0.03577608092261282
-- involving: 0.035275379576509336
-- cerebral: 0.03482878237369495
-- disease: 0.032864412734487154
-- usually: 0.030528567692550107
-- brain: 0.030251194391797197
-- changes: 0.028812329132177183
-- following: 0.028532679492954686
-- t2: 0.028453985514710022
-- enhancement: 0.02694692666027101
-- mri: 0.02309736299899553
-- case: 0.02199416979843848
-- demonstrates: 0.02196024943121395
-- presents: 0.020536991711857952
-- seen: 0.019866207236090474
-- images: 0.019285457552345342
-- male: 0.018178888681029095
-- be: 0.01550302027463446
-- an: 0.01390193957982035
-- at: 0.0136207429744898
-- this: 0.011307496627225095
-- year: 0.011248297285563702
-- old: 0.010293348198379466
-- no: 0.0101228723612212
-- for: 0.008577742925208413
-- on: 0.008516364851357977
-- is: 0.006615185628055595
-- the: 0.006505848691935332
-- ,: 0.006369648600406762
-- in: 0.0049576144722382936
-- with: 0.00275303943740917
-- of: 0.0027412659011291393
-- and: 0.0021177530086143345
-- .: 0.0020882080057262513
+\-\ Texto\\:\\ \ \(0\)\
+\-\ multi\\-sequence\\,\\ multi\\-planar\\ mri\\ of\\ the\\ brain\\ demonstrates\\ cortical\\ hyperintensity\\ involving\\ the\\ parietal\\ lobes\\ posteriorly\\ and\\ symmetrically\\ on\\ t2\\ weighted\\ images\\ with\\ corresponding\\ restricted\\ diffusion\\.\\ \\ following\\ gadolinium\\ dtpa\\,\\ no\\ enhancement\\ of\\ the\\ cortex\\ is\\ seen\\.\ \(0\)\
+\-\ creutzfeldt\\-jakob\\ disease\ \(0\)\
+\-\ cerebral\\ infarction\ \(29\)\
+\-\ hypoxic\\-ischemic\\ encephalopathy\ \(1\)\
+\-\ creutzfeldt\\-jakob\\ disease\ \(0\)\
+\-\ encephalitis\ \(55\)\
+\-\ 35\\ year\\ old\\ active\\ duty\\ male\\ presents\\ with\\ progressive\\ cognitive\\ decline\\.\ \(1\)\
+\-\ the\\ cortical\\ changes\\ in\\ hypoxic\\ ischemic\\ encephalopathy\\ usually\\ occurs\\ at\\ water\\-shed\\ zones\\.\\ \\ hence\\ this\\ case\\ would\\ be\\ an\\ unusual\\ distribution\\ for\\ hypoxic\\ ischemic\\ encephalopathy\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ encephalopathy\\:\\ 0\\.1775763102369966\ \(0\)\
+\-\ creutzfeldt\\-jakob\\:\\ 0\\.1584959266420391\ \(0\)\
+\-\ hypoxic\\:\\ 0\\.1421865812170992\ \(0\)\
+\-\ water\\-shed\\:\\ 0\\.10371198145842939\ \(0\)\
+\-\ ischemic\\:\\ 0\\.09791901350138765\ \(0\)\
+\-\ multi\\-planar\\:\\ 0\\.09078713100351045\ \(0\)\
+\-\ multi\\-sequence\\:\\ 0\\.0874026360334895\ \(0\)\
+\-\ hypoxic\\-ischemic\\:\\ 0\\.07786228054859151\ \(0\)\
+\-\ cortical\\:\\ 0\\.07329587883707793\ \(0\)\
+\-\ dtpa\\:\\ 0\\.07266424816883811\ \(0\)\
+\-\ symmetrically\\:\\ 0\\.0710932906085496\ \(0\)\
+\-\ zones\\:\\ 0\\.0684680723577942\ \(0\)\
+\-\ decline\\:\\ 0\\.06734677612480214\ \(0\)\
+\-\ cognitive\\:\\ 0\\.0668238142122041\ \(0\)\
+\-\ hence\\:\\ 0\\.06584285410703879\ \(0\)\
+\-\ encephalitis\\:\\ 0\\.05614667242508174\ \(0\)\
+\-\ hyperintensity\\:\\ 0\\.055348759526978666\ \(0\)\
+\-\ duty\\:\\ 0\\.05245658349737537\ \(0\)\
+\-\ corresponding\\:\\ 0\\.051171885944846056\ \(0\)\
+\-\ unusual\\:\\ 0\\.04862808466873269\ \(0\)\
+\-\ gadolinium\\:\\ 0\\.04768640575492637\ \(0\)\
+\-\ posteriorly\\:\\ 0\\.047486999186529044\ \(0\)\
+\-\ restricted\\:\\ 0\\.04626725295741326\ \(0\)\
+\-\ 35\\:\\ 0\\.04626725295741326\ \(0\)\
+\-\ distribution\\:\\ 0\\.045243589698711735\ \(0\)\
+\-\ diffusion\\:\\ 0\\.04500100984926778\ \(0\)\
+\-\ lobes\\:\\ 0\\.044301910784905425\ \(0\)\
+\-\ weighted\\:\\ 0\\.043713552895791756\ \(0\)\
+\-\ cortex\\:\\ 0\\.04301721323237611\ \(0\)\
+\-\ parietal\\:\\ 0\\.042949793529917464\ \(0\)\
+\-\ occurs\\:\\ 0\\.04126177325370933\ \(0\)\
+\-\ infarction\\:\\ 0\\.04108833464503635\ \(0\)\
+\-\ progressive\\:\\ 0\\.03973457782403886\ \(0\)\
+\-\ active\\:\\ 0\\.03838304516523389\ \(0\)\
+\-\ would\\:\\ 0\\.03577608092261282\ \(0\)\
+\-\ involving\\:\\ 0\\.035275379576509336\ \(0\)\
+\-\ cerebral\\:\\ 0\\.03482878237369495\ \(0\)\
+\-\ disease\\:\\ 0\\.032864412734487154\ \(0\)\
+\-\ usually\\:\\ 0\\.030528567692550107\ \(0\)\
+\-\ brain\\:\\ 0\\.030251194391797197\ \(0\)\
+\-\ changes\\:\\ 0\\.028812329132177183\ \(0\)\
+\-\ following\\:\\ 0\\.028532679492954686\ \(0\)\
+\-\ t2\\:\\ 0\\.028453985514710022\ \(0\)\
+\-\ enhancement\\:\\ 0\\.02694692666027101\ \(0\)\
+\-\ mri\\:\\ 0\\.02309736299899553\ \(0\)\
+\-\ case\\:\\ 0\\.02199416979843848\ \(0\)\
+\-\ demonstrates\\:\\ 0\\.02196024943121395\ \(0\)\
+\-\ presents\\:\\ 0\\.020536991711857952\ \(0\)\
+\-\ seen\\:\\ 0\\.019866207236090474\ \(0\)\
+\-\ images\\:\\ 0\\.019285457552345342\ \(0\)\
+\-\ male\\:\\ 0\\.018178888681029095\ \(0\)\
+\-\ be\\:\\ 0\\.01550302027463446\ \(0\)\
+\-\ an\\:\\ 0\\.01390193957982035\ \(0\)\
+\-\ at\\:\\ 0\\.0136207429744898\ \(0\)\
+\-\ this\\:\\ 0\\.011307496627225095\ \(0\)\
+\-\ year\\:\\ 0\\.011248297285563702\ \(0\)\
+\-\ old\\:\\ 0\\.010293348198379466\ \(0\)\
+\-\ no\\:\\ 0\\.0101228723612212\ \(0\)\
+\-\ for\\:\\ 0\\.008577742925208413\ \(0\)\
+\-\ on\\:\\ 0\\.008516364851357977\ \(0\)\
+\-\ is\\:\\ 0\\.006615185628055595\ \(0\)\
+\-\ the\\:\\ 0\\.006505848691935332\ \(0\)\
+\-\ \\,\\:\\ 0\\.006369648600406762\ \(0\)\
+\-\ in\\:\\ 0\\.0049576144722382936\ \(0\)\
+\-\ with\\:\\ 0\\.00275303943740917\ \(0\)\
+\-\ of\\:\\ 0\\.0027412659011291393\ \(0\)\
+\-\ and\\:\\ 0\\.0021177530086143345\ \(0\)\
+\-\ \\.\\:\\ 0\\.0020882080057262513\ \(0\)\

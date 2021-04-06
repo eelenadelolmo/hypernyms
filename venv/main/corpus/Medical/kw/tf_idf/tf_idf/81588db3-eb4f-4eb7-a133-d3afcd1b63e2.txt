@@ -1,87 +1,83 @@
-Texto: 
-left neck mass. euthyroid.
-total thyroidectomy
-radioiodine ablation
-synthroid replacement with tsh suppression
-
-followed semi-annually to annually with ultrasound, thyroglobulin, scintigraphy
-thyroid us
-cystic and solid mass with internal flow in the solid components and calcifications.  adjacent separate solid vascular mass lateral to the internal jugular vein.
-
-mr neck
-axial t2, t1 post contrast, and coronal t1 post contrast images demonstrate a partially solid, partially cystic left neck mass arising from the thyroid gland with avidly enhancing frond like solid components.  there is a separate round t2 bright, avidly enhancing mass lateral to the internal jugular vein.
-papillary thyroid cancer
-thyroid carcinoma (papillary, follicular, anaplastic)
-thyroid lymphoma
-
-
-Keywords by value: 
-- thyroid: 0.1423704245904354
-- solid: 0.13855067693115364
-- avidly: 0.0946306691123985
-- jugular: 0.07973163282176182
-- separate: 0.07704034113919966
-- semi-annually: 0.0716708814956626
-- frond: 0.0716708814956626
-- papillary: 0.07053953836566328
-- internal: 0.06987502125314077
-- components: 0.06813895301922321
-- partially: 0.06358119748826128
-- euthyroid: 0.0627390742707186
-- neck: 0.06120105212240201
-- radioiodine: 0.055850473779765736
-- thyroglobulin: 0.05476485270151758
-- annually: 0.053807267045774626
-- synthroid: 0.05146838840795527
-- vein: 0.05027533856933524
-- mass: 0.04831142304664896
-- thyroidectomy: 0.04731533455619925
-- suppression: 0.04731533455619925
-- follicular: 0.045833045476573596
-- t1: 0.04404057782478445
-- post: 0.04375341517190722
-- anaplastic: 0.04375228633724677
-- enhancing: 0.043576480209508286
-- ablation: 0.04349416683875424
-- scintigraphy: 0.040368868473629596
-- cystic: 0.04007532857319933
-- t2: 0.03932664664634719
-- tsh: 0.037732773610332206
-- bright: 0.03473352554224793
-- replacement: 0.033911605892887206
-- like: 0.032160211541502656
-- contrast: 0.031102043687933425
-- lateral: 0.030027122693082123
-- round: 0.030012637760676746
-- total: 0.029916422657855584
-- gland: 0.02958836334465585
-- us: 0.029141543147251314
-- coronal: 0.028927016682428596
-- arising: 0.02875938020110554
-- calcifications: 0.025830599631160592
-- followed: 0.023291673751046925
-- flow: 0.022959787616735908
-- cancer: 0.02283874198670541
-- vascular: 0.022778888357103226
-- mr: 0.02207479245484906
-- adjacent: 0.021966148326294857
-- ultrasound: 0.020610752723628483
-- lymphoma: 0.019855273450321023
-- axial: 0.01982757297616156
-- carcinoma: 0.019690468861917616
-- ,: 0.017607158732831703
-- demonstrate: 0.015987415783195454
-- left: 0.015546427142649021
-- images: 0.0133273487150354
-- to: 0.010416295327877714
-- there: 0.010339150865569014
-- from: 0.01029622531019685
-- a: 0.0064487772653431105
-- (: 0.005872859562958216
-- ): 0.005801119448075652
-- is: 0.004571469742965249
-- the: 0.004495911697678888
-- and: 0.004390463554444352
-- with: 0.0038050138565817802
-- in: 0.003425993740977683
-- .: 0.0017316846876754281
+\-\ Texto\\:\\ \ \(0\)\
+\-\ left\\ neck\\ mass\\.\\ euthyroid\\.\ \(0\)\
+\-\ total\\ thyroidectomy\ \(7\)\
+\-\ radioiodine\\ ablation\ \(4\)\
+\-\ synthroid\\ replacement\\ with\\ tsh\\ suppression\ \(0\)\
+\-\ followed\\ semi\\-annually\\ to\\ annually\\ with\\ ultrasound\\,\\ thyroglobulin\\,\\ scintigraphy\ \(0\)\
+\-\ thyroid\\ us\ \(0\)\
+\-\ cystic\\ and\\ solid\\ mass\\ with\\ internal\\ flow\\ in\\ the\\ solid\\ components\\ and\\ calcifications\\.\\ \\ adjacent\\ separate\\ solid\\ vascular\\ mass\\ lateral\\ to\\ the\\ internal\\ jugular\\ vein\\.\ \(0\)\
+\-\ mr\\ neck\ \(0\)\
+\-\ axial\\ t2\\,\\ t1\\ post\\ contrast\\,\\ and\\ coronal\\ t1\\ post\\ contrast\\ images\\ demonstrate\\ a\\ partially\\ solid\\,\\ partially\\ cystic\\ left\\ neck\\ mass\\ arising\\ from\\ the\\ thyroid\\ gland\\ with\\ avidly\\ enhancing\\ frond\\ like\\ solid\\ components\\.\\ \\ there\\ is\\ a\\ separate\\ round\\ t2\\ bright\\,\\ avidly\\ enhancing\\ mass\\ lateral\\ to\\ the\\ internal\\ jugular\\ vein\\.\ \(0\)\
+\-\ papillary\\ thyroid\\ cancer\ \(3\)\
+\-\ thyroid\\ carcinoma\\ \\(papillary\\,\\ follicular\\,\\ anaplastic\\)\ \(0\)\
+\-\ thyroid\\ lymphoma\ \(2\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ thyroid\\:\\ 0\\.1423704245904354\ \(0\)\
+\-\ solid\\:\\ 0\\.13855067693115364\ \(0\)\
+\-\ avidly\\:\\ 0\\.0946306691123985\ \(0\)\
+\-\ jugular\\:\\ 0\\.07973163282176182\ \(0\)\
+\-\ separate\\:\\ 0\\.07704034113919966\ \(0\)\
+\-\ semi\\-annually\\:\\ 0\\.0716708814956626\ \(0\)\
+\-\ frond\\:\\ 0\\.0716708814956626\ \(0\)\
+\-\ papillary\\:\\ 0\\.07053953836566328\ \(0\)\
+\-\ internal\\:\\ 0\\.06987502125314077\ \(0\)\
+\-\ components\\:\\ 0\\.06813895301922321\ \(0\)\
+\-\ partially\\:\\ 0\\.06358119748826128\ \(0\)\
+\-\ euthyroid\\:\\ 0\\.0627390742707186\ \(0\)\
+\-\ neck\\:\\ 0\\.06120105212240201\ \(0\)\
+\-\ radioiodine\\:\\ 0\\.055850473779765736\ \(0\)\
+\-\ thyroglobulin\\:\\ 0\\.05476485270151758\ \(0\)\
+\-\ annually\\:\\ 0\\.053807267045774626\ \(0\)\
+\-\ synthroid\\:\\ 0\\.05146838840795527\ \(0\)\
+\-\ vein\\:\\ 0\\.05027533856933524\ \(0\)\
+\-\ mass\\:\\ 0\\.04831142304664896\ \(0\)\
+\-\ thyroidectomy\\:\\ 0\\.04731533455619925\ \(0\)\
+\-\ suppression\\:\\ 0\\.04731533455619925\ \(0\)\
+\-\ follicular\\:\\ 0\\.045833045476573596\ \(0\)\
+\-\ t1\\:\\ 0\\.04404057782478445\ \(0\)\
+\-\ post\\:\\ 0\\.04375341517190722\ \(0\)\
+\-\ anaplastic\\:\\ 0\\.04375228633724677\ \(0\)\
+\-\ enhancing\\:\\ 0\\.043576480209508286\ \(0\)\
+\-\ ablation\\:\\ 0\\.04349416683875424\ \(0\)\
+\-\ scintigraphy\\:\\ 0\\.040368868473629596\ \(0\)\
+\-\ cystic\\:\\ 0\\.04007532857319933\ \(0\)\
+\-\ t2\\:\\ 0\\.03932664664634719\ \(0\)\
+\-\ tsh\\:\\ 0\\.037732773610332206\ \(0\)\
+\-\ bright\\:\\ 0\\.03473352554224793\ \(0\)\
+\-\ replacement\\:\\ 0\\.033911605892887206\ \(0\)\
+\-\ like\\:\\ 0\\.032160211541502656\ \(0\)\
+\-\ contrast\\:\\ 0\\.031102043687933425\ \(0\)\
+\-\ lateral\\:\\ 0\\.030027122693082123\ \(0\)\
+\-\ round\\:\\ 0\\.030012637760676746\ \(0\)\
+\-\ total\\:\\ 0\\.029916422657855584\ \(0\)\
+\-\ gland\\:\\ 0\\.02958836334465585\ \(0\)\
+\-\ us\\:\\ 0\\.029141543147251314\ \(0\)\
+\-\ coronal\\:\\ 0\\.028927016682428596\ \(0\)\
+\-\ arising\\:\\ 0\\.02875938020110554\ \(0\)\
+\-\ calcifications\\:\\ 0\\.025830599631160592\ \(0\)\
+\-\ followed\\:\\ 0\\.023291673751046925\ \(0\)\
+\-\ flow\\:\\ 0\\.022959787616735908\ \(0\)\
+\-\ cancer\\:\\ 0\\.02283874198670541\ \(0\)\
+\-\ vascular\\:\\ 0\\.022778888357103226\ \(0\)\
+\-\ mr\\:\\ 0\\.02207479245484906\ \(0\)\
+\-\ adjacent\\:\\ 0\\.021966148326294857\ \(0\)\
+\-\ ultrasound\\:\\ 0\\.020610752723628483\ \(0\)\
+\-\ lymphoma\\:\\ 0\\.019855273450321023\ \(0\)\
+\-\ axial\\:\\ 0\\.01982757297616156\ \(0\)\
+\-\ carcinoma\\:\\ 0\\.019690468861917616\ \(0\)\
+\-\ \\,\\:\\ 0\\.017607158732831703\ \(0\)\
+\-\ demonstrate\\:\\ 0\\.015987415783195454\ \(0\)\
+\-\ left\\:\\ 0\\.015546427142649021\ \(0\)\
+\-\ images\\:\\ 0\\.0133273487150354\ \(0\)\
+\-\ to\\:\\ 0\\.010416295327877714\ \(0\)\
+\-\ there\\:\\ 0\\.010339150865569014\ \(0\)\
+\-\ from\\:\\ 0\\.01029622531019685\ \(0\)\
+\-\ a\\:\\ 0\\.0064487772653431105\ \(0\)\
+\-\ \\(\\:\\ 0\\.005872859562958216\ \(0\)\
+\-\ \\)\\:\\ 0\\.005801119448075652\ \(0\)\
+\-\ is\\:\\ 0\\.004571469742965249\ \(0\)\
+\-\ the\\:\\ 0\\.004495911697678888\ \(0\)\
+\-\ and\\:\\ 0\\.004390463554444352\ \(0\)\
+\-\ with\\:\\ 0\\.0038050138565817802\ \(0\)\
+\-\ in\\:\\ 0\\.003425993740977683\ \(0\)\
+\-\ \\.\\:\\ 0\\.0017316846876754281\ \(0\)\

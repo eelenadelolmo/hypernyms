@@ -1,66 +1,64 @@
-Texto: 
-not available
-chemotherapy
-3 cm suprasellar mass with homogeneous enhancement.
-abnormal appearance of white matter in pons, midbrain, basal ganglia and internal capsules.
-suprasellar large cell lymphoma, of the b-cell phenotype (cd20 positive).
-â€¢ metastatic disease
-â€¢ meningioma
-â€¢ macroadenoma of pituitary gland
-â€¢ sarcoid
-â€¢ lymphoma, germinoma, syphilis
-60 year oldwoman with 5 year history of stage iv follicular type b cell lymphoma presents now with visual symptoms and headache.
-
-
-Keywords by value: 
-- suprasellar: 0.3004628184004239
-- lymphoma: 0.2736062928204309
-- cell: 0.26280290920687893
-- oldwoman: 0.24489814394145845
-- capsules: 0.21126715845249847
-- phenotype: 0.21126715845249847
-- cd20: 0.20452050956261894
-- germinoma: 0.18446120278467673
-- syphilis: 0.17933223900083048
-- macroadenoma: 0.17709382219669764
-- follicular: 0.17502776842375364
-- midbrain: 0.1704667523458942
-- pons: 0.1574330766083826
-- ganglia: 0.14392703472684837
-- sarcoid: 0.1436166792484469
-- pituitary: 0.14125511796285078
-- homogeneous: 0.135208271610143
-- basal: 0.13103781915794208
-- visual: 0.13065430620859075
-- gland: 0.12439868122427172
-- stage: 0.1219499464454735
-- of: 0.11987231701993831
-- matter: 0.11660042371125193
-- meningioma: 0.11474827903730284
-- 60: 0.11453854789332148
-- iv: 0.10941866886417624
-- chemotherapy: 0.10873684301109485
-- headache: 0.10556555550085177
-- now: 0.10512059310606373
-- available: 0.10389850084469684
-- internal: 0.10320478136797415
-- type: 0.10272962825796036
-- white: 0.10103493535434219
-- positive: 0.10090890014685408
-- year: 0.09438713228396435
-- appearance: 0.09231988812799992
-- abnormal: 0.09200218678831705
-- with: 0.08995795552559528
-- enhancement: 0.08814253896416561
-- cm: 0.08794786479790113
-- metastatic: 0.08398755283000141
-- symptoms: 0.08378746159398096
-- large: 0.07672884484304397
-- presents: 0.07366642348085937
-- disease: 0.06428114240618406
-- and: 0.06328744754195886
-- not: 0.060454534535123824
-- history: 0.05850689889183558
-- mass: 0.0584939457191426
-- in: 0.038095320128123
-- the: 0.030556223521168675
+\-\ Texto\\:\\ \ \(0\)\
+\-\ not\\ available\ \(73\)\
+\-\ chemotherapy\ \(327\)\
+\-\ 3\\ cm\\ suprasellar\\ mass\\ with\\ homogeneous\\ enhancement\\.\ \(1\)\
+\-\ abnormal\\ appearance\\ of\\ white\\ matter\\ in\\ pons\\,\\ midbrain\\,\\ basal\\ ganglia\\ and\\ internal\\ capsules\\.\ \(0\)\
+\-\ suprasellar\\ large\\ cell\\ lymphoma\\,\\ of\\ the\\ b\\-cell\\ phenotype\\ \\(cd20\\ positive\\)\\.\ \(0\)\
+\-\ \\â\\€\\¢\\ metastatic\\ disease\ \(13\)\
+\-\ \\â\\€\\¢\\ meningioma\ \(7\)\
+\-\ \\â\\€\\¢\\ macroadenoma\\ of\\ pituitary\\ gland\ \(0\)\
+\-\ \\â\\€\\¢\\ sarcoid\ \(3\)\
+\-\ \\â\\€\\¢\\ lymphoma\\,\\ germinoma\\,\\ syphilis\ \(0\)\
+\-\ 60\\ year\\ oldwoman\\ with\\ 5\\ year\\ history\\ of\\ stage\\ iv\\ follicular\\ type\\ b\\ cell\\ lymphoma\\ presents\\ now\\ with\\ visual\\ symptoms\\ and\\ headache\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ suprasellar\\:\\ 0\\.3004628184004239\ \(0\)\
+\-\ lymphoma\\:\\ 0\\.2736062928204309\ \(0\)\
+\-\ cell\\:\\ 0\\.26280290920687893\ \(0\)\
+\-\ oldwoman\\:\\ 0\\.24489814394145845\ \(0\)\
+\-\ capsules\\:\\ 0\\.21126715845249847\ \(0\)\
+\-\ phenotype\\:\\ 0\\.21126715845249847\ \(0\)\
+\-\ cd20\\:\\ 0\\.20452050956261894\ \(0\)\
+\-\ germinoma\\:\\ 0\\.18446120278467673\ \(0\)\
+\-\ syphilis\\:\\ 0\\.17933223900083048\ \(0\)\
+\-\ macroadenoma\\:\\ 0\\.17709382219669764\ \(0\)\
+\-\ follicular\\:\\ 0\\.17502776842375364\ \(0\)\
+\-\ midbrain\\:\\ 0\\.1704667523458942\ \(0\)\
+\-\ pons\\:\\ 0\\.1574330766083826\ \(0\)\
+\-\ ganglia\\:\\ 0\\.14392703472684837\ \(0\)\
+\-\ sarcoid\\:\\ 0\\.1436166792484469\ \(0\)\
+\-\ pituitary\\:\\ 0\\.14125511796285078\ \(0\)\
+\-\ homogeneous\\:\\ 0\\.135208271610143\ \(0\)\
+\-\ basal\\:\\ 0\\.13103781915794208\ \(0\)\
+\-\ visual\\:\\ 0\\.13065430620859075\ \(0\)\
+\-\ gland\\:\\ 0\\.12439868122427172\ \(0\)\
+\-\ stage\\:\\ 0\\.1219499464454735\ \(0\)\
+\-\ of\\:\\ 0\\.11987231701993831\ \(0\)\
+\-\ matter\\:\\ 0\\.11660042371125193\ \(0\)\
+\-\ meningioma\\:\\ 0\\.11474827903730284\ \(0\)\
+\-\ 60\\:\\ 0\\.11453854789332148\ \(0\)\
+\-\ iv\\:\\ 0\\.10941866886417624\ \(0\)\
+\-\ chemotherapy\\:\\ 0\\.10873684301109485\ \(0\)\
+\-\ headache\\:\\ 0\\.10556555550085177\ \(0\)\
+\-\ now\\:\\ 0\\.10512059310606373\ \(0\)\
+\-\ available\\:\\ 0\\.10389850084469684\ \(0\)\
+\-\ internal\\:\\ 0\\.10320478136797415\ \(0\)\
+\-\ type\\:\\ 0\\.10272962825796036\ \(0\)\
+\-\ white\\:\\ 0\\.10103493535434219\ \(0\)\
+\-\ positive\\:\\ 0\\.10090890014685408\ \(0\)\
+\-\ year\\:\\ 0\\.09438713228396435\ \(0\)\
+\-\ appearance\\:\\ 0\\.09231988812799992\ \(0\)\
+\-\ abnormal\\:\\ 0\\.09200218678831705\ \(0\)\
+\-\ with\\:\\ 0\\.08995795552559528\ \(0\)\
+\-\ enhancement\\:\\ 0\\.08814253896416561\ \(0\)\
+\-\ cm\\:\\ 0\\.08794786479790113\ \(0\)\
+\-\ metastatic\\:\\ 0\\.08398755283000141\ \(0\)\
+\-\ symptoms\\:\\ 0\\.08378746159398096\ \(0\)\
+\-\ large\\:\\ 0\\.07672884484304397\ \(0\)\
+\-\ presents\\:\\ 0\\.07366642348085937\ \(0\)\
+\-\ disease\\:\\ 0\\.06428114240618406\ \(0\)\
+\-\ and\\:\\ 0\\.06328744754195886\ \(0\)\
+\-\ not\\:\\ 0\\.060454534535123824\ \(0\)\
+\-\ history\\:\\ 0\\.05850689889183558\ \(0\)\
+\-\ mass\\:\\ 0\\.0584939457191426\ \(0\)\
+\-\ in\\:\\ 0\\.038095320128123\ \(0\)\
+\-\ the\\:\\ 0\\.030556223521168675\ \(0\)\

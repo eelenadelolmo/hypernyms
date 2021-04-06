@@ -1,106 +1,104 @@
-Texto: 
-at the time of initial presentation in january, the patient was disoriented, ubtunded and unable to follow commands.  during follow-up examination the patient was alert and oriented and admitted to no cognitive deficits.
-no follow-up needed.
-persistent left trigeminal artery with a posterior course subserving the left posterior cerebral artery.
-persistent trigeminal artery
-otic artery
-hypoglossal artery
-aberent posterior communicating artery
-persistent trigeminal artery
-64 year old male with a history of subdural hematoma drained via crainiotomy in january 2007.  follow-up examination including ct and mra preformed in june of 2007 showed no residual parenchymal injury, hematoma, or secondary hydrocephalus.  however, an incidental finding was made.
-the patient did not have any symptoms due to this anatomic variation.  however, these patients are prone to develop aneurysms of the trigeminal artery and may experience pulsitile tinnitus or trigeminal neuralgia.
-
-
-Keywords by value: 
-- trigeminal: 0.17597968819627535
-- artery: 0.1339226311635894
-- january: 0.0765761335580593
-- persistent: 0.06726999972052064
-- ubtunded: 0.05799683173662169
-- aberent: 0.05799683173662169
-- crainiotomy: 0.05799683173662169
-- pulsitile: 0.05799683173662169
-- follow-up: 0.05486915114687648
-- subserving: 0.048876474097675045
-- hypoglossal: 0.048876474097675045
-- otic: 0.04620894049170028
-- 2007.: 0.04354140688572551
-- preformed: 0.041648761672226954
-- neuralgia: 0.041648761672226954
-- commands: 0.0406346124628371
-- hematoma: 0.04001272208450118
-- disoriented: 0.0397561164587284
-- variation: 0.0397561164587284
-- posterior: 0.0388744450401799
-- tinnitus: 0.03796707885686233
-- cognitive: 0.03736858031603519
-- june: 0.0368200170993309
-- drained: 0.03631369446027743
-- examination: 0.03495293467729691
-- communicating: 0.034240792837646535
-- prone: 0.03372788795955632
-- aneurysms: 0.03372788795955632
-- 2007: 0.0317535156408041
-- mra: 0.03151425482389045
-- however: 0.03130747441575092
-- experience: 0.030844631835009254
-- 64: 0.03063575881978175
-- subdural: 0.03043331369697416
-- anatomic: 0.028392820747606795
-- alert: 0.028037115344512878
-- develop: 0.028037115344512878
-- residual: 0.02790004898330997
-- parenchymal: 0.027634196757402883
-- oriented: 0.027569379017646226
-- unable: 0.025973578773098128
-- deficits: 0.02572528714163203
-- needed: 0.02448531725762984
-- admitted: 0.02428654239844236
-- hydrocephalus: 0.024170097812262092
-- via: 0.024131736494427927
-- made: 0.022393897184943803
-- incidental: 0.02128808288144918
-- course: 0.02121402265431343
-- including: 0.020298806848637656
-- did: 0.020298806848637656
-- was: 0.019505477412112237
-- cerebral: 0.019476621722132045
-- presentation: 0.01936447785849396
-- initial: 0.018628829889995445
-- showed: 0.018432916236340108
-- finding: 0.018118825691042638
-- injury: 0.017922424617689472
-- follow: 0.017863154420700224
-- any: 0.01770286205968614
-- during: 0.017204008223182948
-- no: 0.016982450342838195
-- patient: 0.016906419689139234
-- time: 0.0158789554423639
-- secondary: 0.015717302411242154
-- due: 0.015001823374689733
-- these: 0.014630557183933158
-- patients: 0.014549832890565958
-- symptoms: 0.01401090445327723
-- or: 0.013177930907417203
-- left: 0.012580332490433088
-- may: 0.012331107690119235
-- have: 0.01217393472608613
-- to: 0.011238634432710164
-- ,: 0.010685923638840291
-- male: 0.010165825907154428
-- in: 0.008317050594873452
-- not: 0.008123807050933785
-- ct: 0.007863839824947651
-- an: 0.0077741109492416435
-- history: 0.007764569327020285
-- are: 0.007663643898221064
-- at: 0.007616862847576533
-- this: 0.0063232711402245595
-- year: 0.006290166245216544
-- and: 0.005921348872770344
-- old: 0.005756148663567464
-- the: 0.005457208606722071
-- a: 0.005218418444981596
-- of: 0.003065889494683906
-- .: 0.0018683966367024354
-- with: 0.001539528632761707
+\-\ Texto\\:\\ \ \(0\)\
+\-\ at\\ the\\ time\\ of\\ initial\\ presentation\\ in\\ january\\,\\ the\\ patient\\ was\\ disoriented\\,\\ ubtunded\\ and\\ unable\\ to\\ follow\\ commands\\.\\ \\ during\\ follow\\-up\\ examination\\ the\\ patient\\ was\\ alert\\ and\\ oriented\\ and\\ admitted\\ to\\ no\\ cognitive\\ deficits\\.\ \(0\)\
+\-\ no\\ follow\\-up\\ needed\\.\ \(0\)\
+\-\ persistent\\ left\\ trigeminal\\ artery\\ with\\ a\\ posterior\\ course\\ subserving\\ the\\ left\\ posterior\\ cerebral\\ artery\\.\ \(0\)\
+\-\ persistent\\ trigeminal\\ artery\ \(1\)\
+\-\ otic\\ artery\ \(2\)\
+\-\ hypoglossal\\ artery\ \(1\)\
+\-\ aberent\\ posterior\\ communicating\\ artery\ \(0\)\
+\-\ persistent\\ trigeminal\\ artery\ \(1\)\
+\-\ 64\\ year\\ old\\ male\\ with\\ a\\ history\\ of\\ subdural\\ hematoma\\ drained\\ via\\ crainiotomy\\ in\\ january\\ 2007\\.\\ \\ follow\\-up\\ examination\\ including\\ ct\\ and\\ mra\\ preformed\\ in\\ june\\ of\\ 2007\\ showed\\ no\\ residual\\ parenchymal\\ injury\\,\\ hematoma\\,\\ or\\ secondary\\ hydrocephalus\\.\\ \\ however\\,\\ an\\ incidental\\ finding\\ was\\ made\\.\ \(0\)\
+\-\ the\\ patient\\ did\\ not\\ have\\ any\\ symptoms\\ due\\ to\\ this\\ anatomic\\ variation\\.\\ \\ however\\,\\ these\\ patients\\ are\\ prone\\ to\\ develop\\ aneurysms\\ of\\ the\\ trigeminal\\ artery\\ and\\ may\\ experience\\ pulsitile\\ tinnitus\\ or\\ trigeminal\\ neuralgia\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ trigeminal\\:\\ 0\\.17597968819627535\ \(0\)\
+\-\ artery\\:\\ 0\\.1339226311635894\ \(0\)\
+\-\ january\\:\\ 0\\.0765761335580593\ \(0\)\
+\-\ persistent\\:\\ 0\\.06726999972052064\ \(0\)\
+\-\ ubtunded\\:\\ 0\\.05799683173662169\ \(0\)\
+\-\ aberent\\:\\ 0\\.05799683173662169\ \(0\)\
+\-\ crainiotomy\\:\\ 0\\.05799683173662169\ \(0\)\
+\-\ pulsitile\\:\\ 0\\.05799683173662169\ \(0\)\
+\-\ follow\\-up\\:\\ 0\\.05486915114687648\ \(0\)\
+\-\ subserving\\:\\ 0\\.048876474097675045\ \(0\)\
+\-\ hypoglossal\\:\\ 0\\.048876474097675045\ \(0\)\
+\-\ otic\\:\\ 0\\.04620894049170028\ \(0\)\
+\-\ 2007\\.\\:\\ 0\\.04354140688572551\ \(0\)\
+\-\ preformed\\:\\ 0\\.041648761672226954\ \(0\)\
+\-\ neuralgia\\:\\ 0\\.041648761672226954\ \(0\)\
+\-\ commands\\:\\ 0\\.0406346124628371\ \(0\)\
+\-\ hematoma\\:\\ 0\\.04001272208450118\ \(0\)\
+\-\ disoriented\\:\\ 0\\.0397561164587284\ \(0\)\
+\-\ variation\\:\\ 0\\.0397561164587284\ \(0\)\
+\-\ posterior\\:\\ 0\\.0388744450401799\ \(0\)\
+\-\ tinnitus\\:\\ 0\\.03796707885686233\ \(0\)\
+\-\ cognitive\\:\\ 0\\.03736858031603519\ \(0\)\
+\-\ june\\:\\ 0\\.0368200170993309\ \(0\)\
+\-\ drained\\:\\ 0\\.03631369446027743\ \(0\)\
+\-\ examination\\:\\ 0\\.03495293467729691\ \(0\)\
+\-\ communicating\\:\\ 0\\.034240792837646535\ \(0\)\
+\-\ prone\\:\\ 0\\.03372788795955632\ \(0\)\
+\-\ aneurysms\\:\\ 0\\.03372788795955632\ \(0\)\
+\-\ 2007\\:\\ 0\\.0317535156408041\ \(0\)\
+\-\ mra\\:\\ 0\\.03151425482389045\ \(0\)\
+\-\ however\\:\\ 0\\.03130747441575092\ \(0\)\
+\-\ experience\\:\\ 0\\.030844631835009254\ \(0\)\
+\-\ 64\\:\\ 0\\.03063575881978175\ \(0\)\
+\-\ subdural\\:\\ 0\\.03043331369697416\ \(0\)\
+\-\ anatomic\\:\\ 0\\.028392820747606795\ \(0\)\
+\-\ alert\\:\\ 0\\.028037115344512878\ \(0\)\
+\-\ develop\\:\\ 0\\.028037115344512878\ \(0\)\
+\-\ residual\\:\\ 0\\.02790004898330997\ \(0\)\
+\-\ parenchymal\\:\\ 0\\.027634196757402883\ \(0\)\
+\-\ oriented\\:\\ 0\\.027569379017646226\ \(0\)\
+\-\ unable\\:\\ 0\\.025973578773098128\ \(0\)\
+\-\ deficits\\:\\ 0\\.02572528714163203\ \(0\)\
+\-\ needed\\:\\ 0\\.02448531725762984\ \(0\)\
+\-\ admitted\\:\\ 0\\.02428654239844236\ \(0\)\
+\-\ hydrocephalus\\:\\ 0\\.024170097812262092\ \(0\)\
+\-\ via\\:\\ 0\\.024131736494427927\ \(0\)\
+\-\ made\\:\\ 0\\.022393897184943803\ \(0\)\
+\-\ incidental\\:\\ 0\\.02128808288144918\ \(0\)\
+\-\ course\\:\\ 0\\.02121402265431343\ \(0\)\
+\-\ including\\:\\ 0\\.020298806848637656\ \(0\)\
+\-\ did\\:\\ 0\\.020298806848637656\ \(0\)\
+\-\ was\\:\\ 0\\.019505477412112237\ \(0\)\
+\-\ cerebral\\:\\ 0\\.019476621722132045\ \(0\)\
+\-\ presentation\\:\\ 0\\.01936447785849396\ \(0\)\
+\-\ initial\\:\\ 0\\.018628829889995445\ \(0\)\
+\-\ showed\\:\\ 0\\.018432916236340108\ \(0\)\
+\-\ finding\\:\\ 0\\.018118825691042638\ \(0\)\
+\-\ injury\\:\\ 0\\.017922424617689472\ \(0\)\
+\-\ follow\\:\\ 0\\.017863154420700224\ \(0\)\
+\-\ any\\:\\ 0\\.01770286205968614\ \(0\)\
+\-\ during\\:\\ 0\\.017204008223182948\ \(0\)\
+\-\ no\\:\\ 0\\.016982450342838195\ \(0\)\
+\-\ patient\\:\\ 0\\.016906419689139234\ \(0\)\
+\-\ time\\:\\ 0\\.0158789554423639\ \(0\)\
+\-\ secondary\\:\\ 0\\.015717302411242154\ \(0\)\
+\-\ due\\:\\ 0\\.015001823374689733\ \(0\)\
+\-\ these\\:\\ 0\\.014630557183933158\ \(0\)\
+\-\ patients\\:\\ 0\\.014549832890565958\ \(0\)\
+\-\ symptoms\\:\\ 0\\.01401090445327723\ \(0\)\
+\-\ or\\:\\ 0\\.013177930907417203\ \(0\)\
+\-\ left\\:\\ 0\\.012580332490433088\ \(0\)\
+\-\ may\\:\\ 0\\.012331107690119235\ \(0\)\
+\-\ have\\:\\ 0\\.01217393472608613\ \(0\)\
+\-\ to\\:\\ 0\\.011238634432710164\ \(0\)\
+\-\ \\,\\:\\ 0\\.010685923638840291\ \(0\)\
+\-\ male\\:\\ 0\\.010165825907154428\ \(0\)\
+\-\ in\\:\\ 0\\.008317050594873452\ \(0\)\
+\-\ not\\:\\ 0\\.008123807050933785\ \(0\)\
+\-\ ct\\:\\ 0\\.007863839824947651\ \(0\)\
+\-\ an\\:\\ 0\\.0077741109492416435\ \(0\)\
+\-\ history\\:\\ 0\\.007764569327020285\ \(0\)\
+\-\ are\\:\\ 0\\.007663643898221064\ \(0\)\
+\-\ at\\:\\ 0\\.007616862847576533\ \(0\)\
+\-\ this\\:\\ 0\\.0063232711402245595\ \(0\)\
+\-\ year\\:\\ 0\\.006290166245216544\ \(0\)\
+\-\ and\\:\\ 0\\.005921348872770344\ \(0\)\
+\-\ old\\:\\ 0\\.005756148663567464\ \(0\)\
+\-\ the\\:\\ 0\\.005457208606722071\ \(0\)\
+\-\ a\\:\\ 0\\.005218418444981596\ \(0\)\
+\-\ of\\:\\ 0\\.003065889494683906\ \(0\)\
+\-\ \\.\\:\\ 0\\.0018683966367024354\ \(0\)\
+\-\ with\\:\\ 0\\.001539528632761707\ \(0\)\

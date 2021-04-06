@@ -1,70 +1,67 @@
-Texto: 
-treatment options include balloon dilation or surgery (such as myotomy).
-scintigraphic images reveal persistent esophageal activity without significant transit into the stomach.
-
-fluoroscopic images confirm these findings, revealing a dilated distal esophagus and delayed transit into the stomach.
-achalasia.
-primary or secondary achalasia.
-39 yo man with known achalasia, please evaluate to obtain baseline.
-esophageal transit studies provide a quantifiable method to establish a baseline and evaluate the effects of intervention.
-
-
-Keywords by value: 
-- transit: 0.2188648199967176
-- achalasia: 0.19932521685292767
-- baseline: 0.1232760562993399
-- quantifiable: 0.10750632224349388
-- esophageal: 0.09555313717111187
-- stomach: 0.09216014198909438
-- evaluate: 0.08424942093309934
-- myotomy: 0.0753226962725761
-- establish: 0.0753226962725761
-- scintigraphic: 0.06731318973124596
-- revealing: 0.06731318973124596
-- obtain: 0.06602830539395539
-- method: 0.064865986128049
-- balloon: 0.06135766817131996
-- effects: 0.06081557350582199
-- provide: 0.058416667478431085
-- fluoroscopic: 0.05698028899481666
-- confirm: 0.05304402811355994
-- options: 0.05063511377871258
-- into: 0.04959332604779773
-- dilation: 0.049122276599810395
-- 39: 0.048430869969608624
-- reveal: 0.046401013778905396
-- intervention: 0.046401013778905396
-- please: 0.04623948662341734
-- esophagus: 0.04523869451299899
-- delayed: 0.042414394442258294
-- persistent: 0.041565203079346094
-- images: 0.0399820461451062
-- activity: 0.039098129619287054
-- studies: 0.038920742899745855
-- dilated: 0.037866968373068646
-- known: 0.03297623273736366
-- such: 0.032577229144400636
-- yo: 0.031357945406131245
-- primary: 0.030870539791410932
-- include: 0.02923357912232057
-- secondary: 0.029134511786692775
-- distal: 0.028332665718853987
-- significant: 0.028022526232368578
-- these: 0.027120057218998052
-- surgery: 0.02530486663853994
-- man: 0.024645510281585358
-- without: 0.024536745931197076
-- or: 0.02442738412106604
-- findings: 0.022180938241340972
-- treatment: 0.02109288975123033
-- as: 0.015763140315782048
-- a: 0.014509748847021997
-- to: 0.010416295327877714
-- (: 0.008809289344437324
-- ): 0.008701679172113477
-- ,: 0.006602684524811888
-- the: 0.005057900659888748
-- and: 0.004390463554444352
-- .: 0.0030304482034319994
-- with: 0.0014268801962181675
-- of: 0.001420778058512054
+\-\ Texto\\:\\ \ \(0\)\
+\-\ treatment\\ options\\ include\\ balloon\\ dilation\\ or\\ surgery\\ \\(such\\ as\\ myotomy\\)\\.\ \(0\)\
+\-\ scintigraphic\\ images\\ reveal\\ persistent\\ esophageal\\ activity\\ without\\ significant\\ transit\\ into\\ the\\ stomach\\.\ \(0\)\
+\-\ fluoroscopic\\ images\\ confirm\\ these\\ findings\\,\\ revealing\\ a\\ dilated\\ distal\\ esophagus\\ and\\ delayed\\ transit\\ into\\ the\\ stomach\\.\ \(0\)\
+\-\ achalasia\\.\ \(13\)\
+\-\ primary\\ or\\ secondary\\ achalasia\\.\ \(0\)\
+\-\ 39\\ yo\\ man\\ with\\ known\\ achalasia\\,\\ please\\ evaluate\\ to\\ obtain\\ baseline\\.\ \(1\)\
+\-\ esophageal\\ transit\\ studies\\ provide\\ a\\ quantifiable\\ method\\ to\\ establish\\ a\\ baseline\\ and\\ evaluate\\ the\\ effects\\ of\\ intervention\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ transit\\:\\ 0\\.2188648199967176\ \(0\)\
+\-\ achalasia\\:\\ 0\\.19932521685292767\ \(0\)\
+\-\ baseline\\:\\ 0\\.1232760562993399\ \(0\)\
+\-\ quantifiable\\:\\ 0\\.10750632224349388\ \(0\)\
+\-\ esophageal\\:\\ 0\\.09555313717111187\ \(0\)\
+\-\ stomach\\:\\ 0\\.09216014198909438\ \(0\)\
+\-\ evaluate\\:\\ 0\\.08424942093309934\ \(0\)\
+\-\ myotomy\\:\\ 0\\.0753226962725761\ \(0\)\
+\-\ establish\\:\\ 0\\.0753226962725761\ \(0\)\
+\-\ scintigraphic\\:\\ 0\\.06731318973124596\ \(0\)\
+\-\ revealing\\:\\ 0\\.06731318973124596\ \(0\)\
+\-\ obtain\\:\\ 0\\.06602830539395539\ \(0\)\
+\-\ method\\:\\ 0\\.064865986128049\ \(0\)\
+\-\ balloon\\:\\ 0\\.06135766817131996\ \(0\)\
+\-\ effects\\:\\ 0\\.06081557350582199\ \(0\)\
+\-\ provide\\:\\ 0\\.058416667478431085\ \(0\)\
+\-\ fluoroscopic\\:\\ 0\\.05698028899481666\ \(0\)\
+\-\ confirm\\:\\ 0\\.05304402811355994\ \(0\)\
+\-\ options\\:\\ 0\\.05063511377871258\ \(0\)\
+\-\ into\\:\\ 0\\.04959332604779773\ \(0\)\
+\-\ dilation\\:\\ 0\\.049122276599810395\ \(0\)\
+\-\ 39\\:\\ 0\\.048430869969608624\ \(0\)\
+\-\ reveal\\:\\ 0\\.046401013778905396\ \(0\)\
+\-\ intervention\\:\\ 0\\.046401013778905396\ \(0\)\
+\-\ please\\:\\ 0\\.04623948662341734\ \(0\)\
+\-\ esophagus\\:\\ 0\\.04523869451299899\ \(0\)\
+\-\ delayed\\:\\ 0\\.042414394442258294\ \(0\)\
+\-\ persistent\\:\\ 0\\.041565203079346094\ \(0\)\
+\-\ images\\:\\ 0\\.0399820461451062\ \(0\)\
+\-\ activity\\:\\ 0\\.039098129619287054\ \(0\)\
+\-\ studies\\:\\ 0\\.038920742899745855\ \(0\)\
+\-\ dilated\\:\\ 0\\.037866968373068646\ \(0\)\
+\-\ known\\:\\ 0\\.03297623273736366\ \(0\)\
+\-\ such\\:\\ 0\\.032577229144400636\ \(0\)\
+\-\ yo\\:\\ 0\\.031357945406131245\ \(0\)\
+\-\ primary\\:\\ 0\\.030870539791410932\ \(0\)\
+\-\ include\\:\\ 0\\.02923357912232057\ \(0\)\
+\-\ secondary\\:\\ 0\\.029134511786692775\ \(0\)\
+\-\ distal\\:\\ 0\\.028332665718853987\ \(0\)\
+\-\ significant\\:\\ 0\\.028022526232368578\ \(0\)\
+\-\ these\\:\\ 0\\.027120057218998052\ \(0\)\
+\-\ surgery\\:\\ 0\\.02530486663853994\ \(0\)\
+\-\ man\\:\\ 0\\.024645510281585358\ \(0\)\
+\-\ without\\:\\ 0\\.024536745931197076\ \(0\)\
+\-\ or\\:\\ 0\\.02442738412106604\ \(0\)\
+\-\ findings\\:\\ 0\\.022180938241340972\ \(0\)\
+\-\ treatment\\:\\ 0\\.02109288975123033\ \(0\)\
+\-\ as\\:\\ 0\\.015763140315782048\ \(0\)\
+\-\ a\\:\\ 0\\.014509748847021997\ \(0\)\
+\-\ to\\:\\ 0\\.010416295327877714\ \(0\)\
+\-\ \\(\\:\\ 0\\.008809289344437324\ \(0\)\
+\-\ \\)\\:\\ 0\\.008701679172113477\ \(0\)\
+\-\ \\,\\:\\ 0\\.006602684524811888\ \(0\)\
+\-\ the\\:\\ 0\\.005057900659888748\ \(0\)\
+\-\ and\\:\\ 0\\.004390463554444352\ \(0\)\
+\-\ \\.\\:\\ 0\\.0030304482034319994\ \(0\)\
+\-\ with\\:\\ 0\\.0014268801962181675\ \(0\)\
+\-\ of\\:\\ 0\\.001420778058512054\ \(0\)\

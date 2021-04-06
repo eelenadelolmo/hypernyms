@@ -1,97 +1,95 @@
-Texto: 
-no palpable abnormality in either breast.
-pending
-segmental distribution of well-defined heterogeneous and small linear calcifications measuring a total length of approximately 4cm.  this cluster of calcifications is located on the outer aspect of the left breast in the posterior third at approximately the 3:00 radian. there is increased tissue density associated with the calcifications.
-infiltrating ductal carcinoma
-ductal carcinoma in situ (dcis)
-benign ductal calcifications
-infiltrating ductal carcinoma
-77 year-old woman who has not had an annual mammogram for more than one year.  no personal or family history of breast cancer, and no current hormone usage.
-the presence of new, ductal-type microcalcifications in a segmental distribution is suspicious.  the pleomorphic character and branching pattern of these calcifications suggests at least dcis.  the final diagnosis of invasive ductal carcinoma was not unsuspected given the increased tissue density associated with the calcifications.
-
-
-Keywords by value: 
-- ductal: 0.451008306238677
-- calcifications: 0.3740386403188556
-- dcis: 0.21092729176584302
-- carcinoma: 0.2043718517882561
-- breast: 0.18608340603294482
-- the: 0.17043911412658452
-- infiltrating: 0.16759471785074326
-- segmental: 0.16198807499031753
-- distribution: 0.1449171846810938
-- radian: 0.13660137901436104
-- of: 0.13372681023245747
-- usage: 0.12622213463721454
-- unsuspected: 0.1228807642685094
-- density: 0.11328136233521316
-- character: 0.11107433721564354
-- cluster: 0.1097714215136164
-- approximately: 0.10900533140162147
-- personal: 0.10857285525402201
-- microcalcifications: 0.10002946839442893
-- situ: 0.09508440150577499
-- branching: 0.09508440150577499
-- increased: 0.09237958063395073
-- associated: 0.0900429884012248
-- 4cm: 0.08997933802131311
-- tissue: 0.08961632234168328
-- hormone: 0.08697447809264536
-- pleomorphic: 0.08643963250947412
-- 77: 0.0854240512282751
-- in: 0.0849965325133555
-- final: 0.08379735892537163
-- no: 0.08333051983114086
-- outer: 0.08213185687877923
-- mammogram: 0.08155214250622593
-- annual: 0.07894894390822521
-- least: 0.07894894390822521
-- suggests: 0.07879048651007407
-- length: 0.07787341929730364
-- invasive: 0.07772589017892001
-- suspicious: 0.07632542309350052
-- current: 0.07480132043935155
-- either: 0.07061479311801225
-- pending: 0.0702539543470489
-- is: 0.07017659140276507
-- total: 0.06998891938587597
-- linear: 0.06881057471529813
-- located: 0.06756848814658133
-- not: 0.06744169353233889
-- family: 0.06720055601480741
-- measuring: 0.06608047633755165
-- third: 0.06503838051309717
-- at: 0.06452663719433867
-- pattern: 0.06377221104887532
-- abnormality: 0.06213107196782174
-- heterogeneous: 0.06182337447566047
-- presence: 0.0613733681244862
-- palpable: 0.060009007591100026
-- new: 0.05909327609791398
-- given: 0.05875864576138727
-- benign: 0.058676143710307986
-- cancer: 0.056894178372160584
-- aspect: 0.05510615692547789
-- and: 0.05295151977916087
-- year: 0.05264806104158367
-- one: 0.048905600445172955
-- than: 0.048420823497490426
-- who: 0.048317482270273236
-- these: 0.04823531973551459
-- more: 0.04690341257352882
-- woman: 0.04448577876444541
-- diagnosis: 0.04427989175880413
-- posterior: 0.044170191016212966
-- small: 0.04406128810426328
-- had: 0.0425582017123587
-- has: 0.0390162825728431
-- there: 0.03398740818708709
-- with: 0.03345167799242651
-- an: 0.032663413355214665
-- history: 0.03263447791743577
-- was: 0.02976888824123078
-- or: 0.02971527101286044
-- this: 0.029351034446468152
-- left: 0.02913781509542729
-- for: 0.025889426805986108
-- on: 0.02579758914067746
+\-\ Texto\\:\\ \ \(0\)\
+\-\ no\\ palpable\\ abnormality\\ in\\ either\\ breast\\.\ \(0\)\
+\-\ pending\ \(213\)\
+\-\ segmental\\ distribution\\ of\\ well\\-defined\\ heterogeneous\\ and\\ small\\ linear\\ calcifications\\ measuring\\ a\\ total\\ length\\ of\\ approximately\\ 4cm\\.\\ \\ this\\ cluster\\ of\\ calcifications\\ is\\ located\\ on\\ the\\ outer\\ aspect\\ of\\ the\\ left\\ breast\\ in\\ the\\ posterior\\ third\\ at\\ approximately\\ the\\ 3\\:00\\ radian\\.\\ there\\ is\\ increased\\ tissue\\ density\\ associated\\ with\\ the\\ calcifications\\.\ \(0\)\
+\-\ infiltrating\\ ductal\\ carcinoma\ \(11\)\
+\-\ ductal\\ carcinoma\\ in\\ situ\\ \\(dcis\\)\ \(0\)\
+\-\ benign\\ ductal\\ calcifications\ \(0\)\
+\-\ infiltrating\\ ductal\\ carcinoma\ \(11\)\
+\-\ 77\\ year\\-old\\ woman\\ who\\ has\\ not\\ had\\ an\\ annual\\ mammogram\\ for\\ more\\ than\\ one\\ year\\.\\ \\ no\\ personal\\ or\\ family\\ history\\ of\\ breast\\ cancer\\,\\ and\\ no\\ current\\ hormone\\ usage\\.\ \(0\)\
+\-\ the\\ presence\\ of\\ new\\,\\ ductal\\-type\\ microcalcifications\\ in\\ a\\ segmental\\ distribution\\ is\\ suspicious\\.\\ \\ the\\ pleomorphic\\ character\\ and\\ branching\\ pattern\\ of\\ these\\ calcifications\\ suggests\\ at\\ least\\ dcis\\.\\ \\ the\\ final\\ diagnosis\\ of\\ invasive\\ ductal\\ carcinoma\\ was\\ not\\ unsuspected\\ given\\ the\\ increased\\ tissue\\ density\\ associated\\ with\\ the\\ calcifications\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ ductal\\:\\ 0\\.451008306238677\ \(0\)\
+\-\ calcifications\\:\\ 0\\.3740386403188556\ \(0\)\
+\-\ dcis\\:\\ 0\\.21092729176584302\ \(0\)\
+\-\ carcinoma\\:\\ 0\\.2043718517882561\ \(0\)\
+\-\ breast\\:\\ 0\\.18608340603294482\ \(0\)\
+\-\ the\\:\\ 0\\.17043911412658452\ \(0\)\
+\-\ infiltrating\\:\\ 0\\.16759471785074326\ \(0\)\
+\-\ segmental\\:\\ 0\\.16198807499031753\ \(0\)\
+\-\ distribution\\:\\ 0\\.1449171846810938\ \(0\)\
+\-\ radian\\:\\ 0\\.13660137901436104\ \(0\)\
+\-\ of\\:\\ 0\\.13372681023245747\ \(0\)\
+\-\ usage\\:\\ 0\\.12622213463721454\ \(0\)\
+\-\ unsuspected\\:\\ 0\\.1228807642685094\ \(0\)\
+\-\ density\\:\\ 0\\.11328136233521316\ \(0\)\
+\-\ character\\:\\ 0\\.11107433721564354\ \(0\)\
+\-\ cluster\\:\\ 0\\.1097714215136164\ \(0\)\
+\-\ approximately\\:\\ 0\\.10900533140162147\ \(0\)\
+\-\ personal\\:\\ 0\\.10857285525402201\ \(0\)\
+\-\ microcalcifications\\:\\ 0\\.10002946839442893\ \(0\)\
+\-\ situ\\:\\ 0\\.09508440150577499\ \(0\)\
+\-\ branching\\:\\ 0\\.09508440150577499\ \(0\)\
+\-\ increased\\:\\ 0\\.09237958063395073\ \(0\)\
+\-\ associated\\:\\ 0\\.0900429884012248\ \(0\)\
+\-\ 4cm\\:\\ 0\\.08997933802131311\ \(0\)\
+\-\ tissue\\:\\ 0\\.08961632234168328\ \(0\)\
+\-\ hormone\\:\\ 0\\.08697447809264536\ \(0\)\
+\-\ pleomorphic\\:\\ 0\\.08643963250947412\ \(0\)\
+\-\ 77\\:\\ 0\\.0854240512282751\ \(0\)\
+\-\ in\\:\\ 0\\.0849965325133555\ \(0\)\
+\-\ final\\:\\ 0\\.08379735892537163\ \(0\)\
+\-\ no\\:\\ 0\\.08333051983114086\ \(0\)\
+\-\ outer\\:\\ 0\\.08213185687877923\ \(0\)\
+\-\ mammogram\\:\\ 0\\.08155214250622593\ \(0\)\
+\-\ annual\\:\\ 0\\.07894894390822521\ \(0\)\
+\-\ least\\:\\ 0\\.07894894390822521\ \(0\)\
+\-\ suggests\\:\\ 0\\.07879048651007407\ \(0\)\
+\-\ length\\:\\ 0\\.07787341929730364\ \(0\)\
+\-\ invasive\\:\\ 0\\.07772589017892001\ \(0\)\
+\-\ suspicious\\:\\ 0\\.07632542309350052\ \(0\)\
+\-\ current\\:\\ 0\\.07480132043935155\ \(0\)\
+\-\ either\\:\\ 0\\.07061479311801225\ \(0\)\
+\-\ pending\\:\\ 0\\.0702539543470489\ \(0\)\
+\-\ is\\:\\ 0\\.07017659140276507\ \(0\)\
+\-\ total\\:\\ 0\\.06998891938587597\ \(0\)\
+\-\ linear\\:\\ 0\\.06881057471529813\ \(0\)\
+\-\ located\\:\\ 0\\.06756848814658133\ \(0\)\
+\-\ not\\:\\ 0\\.06744169353233889\ \(0\)\
+\-\ family\\:\\ 0\\.06720055601480741\ \(0\)\
+\-\ measuring\\:\\ 0\\.06608047633755165\ \(0\)\
+\-\ third\\:\\ 0\\.06503838051309717\ \(0\)\
+\-\ at\\:\\ 0\\.06452663719433867\ \(0\)\
+\-\ pattern\\:\\ 0\\.06377221104887532\ \(0\)\
+\-\ abnormality\\:\\ 0\\.06213107196782174\ \(0\)\
+\-\ heterogeneous\\:\\ 0\\.06182337447566047\ \(0\)\
+\-\ presence\\:\\ 0\\.0613733681244862\ \(0\)\
+\-\ palpable\\:\\ 0\\.060009007591100026\ \(0\)\
+\-\ new\\:\\ 0\\.05909327609791398\ \(0\)\
+\-\ given\\:\\ 0\\.05875864576138727\ \(0\)\
+\-\ benign\\:\\ 0\\.058676143710307986\ \(0\)\
+\-\ cancer\\:\\ 0\\.056894178372160584\ \(0\)\
+\-\ aspect\\:\\ 0\\.05510615692547789\ \(0\)\
+\-\ and\\:\\ 0\\.05295151977916087\ \(0\)\
+\-\ year\\:\\ 0\\.05264806104158367\ \(0\)\
+\-\ one\\:\\ 0\\.048905600445172955\ \(0\)\
+\-\ than\\:\\ 0\\.048420823497490426\ \(0\)\
+\-\ who\\:\\ 0\\.048317482270273236\ \(0\)\
+\-\ these\\:\\ 0\\.04823531973551459\ \(0\)\
+\-\ more\\:\\ 0\\.04690341257352882\ \(0\)\
+\-\ woman\\:\\ 0\\.04448577876444541\ \(0\)\
+\-\ diagnosis\\:\\ 0\\.04427989175880413\ \(0\)\
+\-\ posterior\\:\\ 0\\.044170191016212966\ \(0\)\
+\-\ small\\:\\ 0\\.04406128810426328\ \(0\)\
+\-\ had\\:\\ 0\\.0425582017123587\ \(0\)\
+\-\ has\\:\\ 0\\.0390162825728431\ \(0\)\
+\-\ there\\:\\ 0\\.03398740818708709\ \(0\)\
+\-\ with\\:\\ 0\\.03345167799242651\ \(0\)\
+\-\ an\\:\\ 0\\.032663413355214665\ \(0\)\
+\-\ history\\:\\ 0\\.03263447791743577\ \(0\)\
+\-\ was\\:\\ 0\\.02976888824123078\ \(0\)\
+\-\ or\\:\\ 0\\.02971527101286044\ \(0\)\
+\-\ this\\:\\ 0\\.029351034446468152\ \(0\)\
+\-\ left\\:\\ 0\\.02913781509542729\ \(0\)\
+\-\ for\\:\\ 0\\.025889426805986108\ \(0\)\
+\-\ on\\:\\ 0\\.02579758914067746\ \(0\)\

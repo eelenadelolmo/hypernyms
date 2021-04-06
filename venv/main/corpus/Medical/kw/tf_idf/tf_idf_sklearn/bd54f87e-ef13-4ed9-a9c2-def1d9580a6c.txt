@@ -1,69 +1,66 @@
-Texto: 
-normal tsh/t4
-pa and lateral cxr demonstrate abnormal contour to superior mediastinum
-ct neck demonstrates large substernal goiter, predominantly orignating from left thyroid lobe.  this displaces the normal vasculature laterally, producing the abnormal contour on chest radiograph.
-thyroid goiter
-substernal goiter (thyroid)
-thymoma
-teratoma
-lymphoma
-
-considering there is continuity between the left lobe of the thyroid and the substernal portion of the thyroid and that they are of similar high density, substernal thyroid is the most likely diagnosis.
-67 y/o wm with abnormal cxr
-
-
-Keywords by value: 
-- substernal: 0.49070601101069217
-- thyroid: 0.4802219331612121
-- goiter: 0.3435650931584003
-- abnormal: 0.18355903057778106
-- contour: 0.18330470420478015
-- cxr: 0.1629464646439042
-- orignating: 0.1628702804482339
-- the: 0.1422505875285409
-- lobe: 0.11770981755585824
-- wm: 0.11393627967190852
-- displaces: 0.11228707866800264
-- thymoma: 0.11126659230513497
-- considering: 0.11030129501506385
-- continuity: 0.11030129501506385
-- producing: 0.10470136247812867
-- laterally: 0.10306226254992817
-- vasculature: 0.10017637429906256
-- 67: 0.10017637429906256
-- mediastinum: 0.09116318038405256
-- predominantly: 0.08918586419669011
-- teratoma: 0.08806964757318964
-- normal: 0.08316421634241385
-- pa: 0.07815591900206029
-- similar: 0.07762065169206504
-- portion: 0.07282672940827703
-- they: 0.0727692296779548
-- left: 0.06948222851750431
-- density: 0.06753287333634635
-- radiograph: 0.06633252364642532
-- superior: 0.06621283391883434
-- between: 0.0661731149906996
-- and: 0.06313427389108174
-- neck: 0.06230062437464157
-- likely: 0.0608592899855006
-- lymphoma: 0.06065424170074229
-- of: 0.0597910959331851
-- high: 0.05788129779698227
-- is: 0.055781189546497204
-- chest: 0.05375827649135032
-- most: 0.0530025560981473
-- demonstrate: 0.05294572745335067
-- diagnosis: 0.052795062839121686
-- demonstrates: 0.051165177698652475
-- large: 0.051028759454554706
-- lateral: 0.050542801838758596
-- that: 0.0441963553789112
-- there: 0.040523300299607656
-- from: 0.04044800803901444
-- ct: 0.038772860567464575
-- are: 0.038645060087376136
-- this: 0.03499533640315206
-- on: 0.03075855169652955
-- to: 0.025460730061781466
-- with: 0.019942273699585917
+\-\ Texto\\:\\ \ \(0\)\
+\-\ normal\\ tsh\\/t4\ \(0\)\
+\-\ pa\\ and\\ lateral\\ cxr\\ demonstrate\\ abnormal\\ contour\\ to\\ superior\\ mediastinum\ \(0\)\
+\-\ ct\\ neck\\ demonstrates\\ large\\ substernal\\ goiter\\,\\ predominantly\\ orignating\\ from\\ left\\ thyroid\\ lobe\\.\\ \\ this\\ displaces\\ the\\ normal\\ vasculature\\ laterally\\,\\ producing\\ the\\ abnormal\\ contour\\ on\\ chest\\ radiograph\\.\ \(0\)\
+\-\ thyroid\\ goiter\ \(4\)\
+\-\ substernal\\ goiter\\ \\(thyroid\\)\ \(1\)\
+\-\ thymoma\ \(20\)\
+\-\ teratoma\ \(130\)\
+\-\ lymphoma\ \(373\)\
+\-\ considering\\ there\\ is\\ continuity\\ between\\ the\\ left\\ lobe\\ of\\ the\\ thyroid\\ and\\ the\\ substernal\\ portion\\ of\\ the\\ thyroid\\ and\\ that\\ they\\ are\\ of\\ similar\\ high\\ density\\,\\ substernal\\ thyroid\\ is\\ the\\ most\\ likely\\ diagnosis\\.\ \(0\)\
+\-\ 67\\ y\\/o\\ wm\\ with\\ abnormal\\ cxr\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ substernal\\:\\ 0\\.49070601101069217\ \(0\)\
+\-\ thyroid\\:\\ 0\\.4802219331612121\ \(0\)\
+\-\ goiter\\:\\ 0\\.3435650931584003\ \(0\)\
+\-\ abnormal\\:\\ 0\\.18355903057778106\ \(0\)\
+\-\ contour\\:\\ 0\\.18330470420478015\ \(0\)\
+\-\ cxr\\:\\ 0\\.1629464646439042\ \(0\)\
+\-\ orignating\\:\\ 0\\.1628702804482339\ \(0\)\
+\-\ the\\:\\ 0\\.1422505875285409\ \(0\)\
+\-\ lobe\\:\\ 0\\.11770981755585824\ \(0\)\
+\-\ wm\\:\\ 0\\.11393627967190852\ \(0\)\
+\-\ displaces\\:\\ 0\\.11228707866800264\ \(0\)\
+\-\ thymoma\\:\\ 0\\.11126659230513497\ \(0\)\
+\-\ considering\\:\\ 0\\.11030129501506385\ \(0\)\
+\-\ continuity\\:\\ 0\\.11030129501506385\ \(0\)\
+\-\ producing\\:\\ 0\\.10470136247812867\ \(0\)\
+\-\ laterally\\:\\ 0\\.10306226254992817\ \(0\)\
+\-\ vasculature\\:\\ 0\\.10017637429906256\ \(0\)\
+\-\ 67\\:\\ 0\\.10017637429906256\ \(0\)\
+\-\ mediastinum\\:\\ 0\\.09116318038405256\ \(0\)\
+\-\ predominantly\\:\\ 0\\.08918586419669011\ \(0\)\
+\-\ teratoma\\:\\ 0\\.08806964757318964\ \(0\)\
+\-\ normal\\:\\ 0\\.08316421634241385\ \(0\)\
+\-\ pa\\:\\ 0\\.07815591900206029\ \(0\)\
+\-\ similar\\:\\ 0\\.07762065169206504\ \(0\)\
+\-\ portion\\:\\ 0\\.07282672940827703\ \(0\)\
+\-\ they\\:\\ 0\\.0727692296779548\ \(0\)\
+\-\ left\\:\\ 0\\.06948222851750431\ \(0\)\
+\-\ density\\:\\ 0\\.06753287333634635\ \(0\)\
+\-\ radiograph\\:\\ 0\\.06633252364642532\ \(0\)\
+\-\ superior\\:\\ 0\\.06621283391883434\ \(0\)\
+\-\ between\\:\\ 0\\.0661731149906996\ \(0\)\
+\-\ and\\:\\ 0\\.06313427389108174\ \(0\)\
+\-\ neck\\:\\ 0\\.06230062437464157\ \(0\)\
+\-\ likely\\:\\ 0\\.0608592899855006\ \(0\)\
+\-\ lymphoma\\:\\ 0\\.06065424170074229\ \(0\)\
+\-\ of\\:\\ 0\\.0597910959331851\ \(0\)\
+\-\ high\\:\\ 0\\.05788129779698227\ \(0\)\
+\-\ is\\:\\ 0\\.055781189546497204\ \(0\)\
+\-\ chest\\:\\ 0\\.05375827649135032\ \(0\)\
+\-\ most\\:\\ 0\\.0530025560981473\ \(0\)\
+\-\ demonstrate\\:\\ 0\\.05294572745335067\ \(0\)\
+\-\ diagnosis\\:\\ 0\\.052795062839121686\ \(0\)\
+\-\ demonstrates\\:\\ 0\\.051165177698652475\ \(0\)\
+\-\ large\\:\\ 0\\.051028759454554706\ \(0\)\
+\-\ lateral\\:\\ 0\\.050542801838758596\ \(0\)\
+\-\ that\\:\\ 0\\.0441963553789112\ \(0\)\
+\-\ there\\:\\ 0\\.040523300299607656\ \(0\)\
+\-\ from\\:\\ 0\\.04044800803901444\ \(0\)\
+\-\ ct\\:\\ 0\\.038772860567464575\ \(0\)\
+\-\ are\\:\\ 0\\.038645060087376136\ \(0\)\
+\-\ this\\:\\ 0\\.03499533640315206\ \(0\)\
+\-\ on\\:\\ 0\\.03075855169652955\ \(0\)\
+\-\ to\\:\\ 0\\.025460730061781466\ \(0\)\
+\-\ with\\:\\ 0\\.019942273699585917\ \(0\)\

@@ -1,47 +1,45 @@
-Texto: 
-â€¢ aymmetrically enlarged right facial nerve
-â€¢ right 7th increased t2 signal
-â€¢ right 7th abnormal enhancement involving distal intracanalicular segment, geniculate ganglion, tympanic segment, and mastoid segment.
-facial neuritis from herpes zoster
-â€¢ lyme disease
-â€¢ herpes
-â€¢ sarcoid
-â€¢ schwannoma
-41 y.o. man presents with right facial nerve paralysis and herpes zoster otiticus.
-
-
-Keywords by value: 
-- herpes: 0.4236755101029548
-- zoster: 0.3371889113222583
-- segment: 0.31267530094261803
-- facial: 0.3122741556624437
-- 7th: 0.29968787976961153
-- aymmetrically: 0.20187935849822228
-- otiticus: 0.20187935849822228
-- nerve: 0.18011267500011188
-- geniculate: 0.17756730955557484
-- right: 0.16741025375851717
-- intracanalicular: 0.1662628505628455
-- paralysis: 0.1459855376756705
-- tympanic: 0.14347759873104968
-- ganglion: 0.14195080162019807
-- neuritis: 0.14052257830541523
-- lyme: 0.13853948089207643
-- mastoid: 0.13020811482956068
-- sarcoid: 0.11838898657905748
-- 41: 0.11575422906028059
-- schwannoma: 0.10817951039899124
-- involving: 0.08842139506521204
-- enlarged: 0.08605698079764626
-- abnormal: 0.0758410911178605
-- distal: 0.07334643934303381
-- enhancement: 0.07265942867555547
-- t2: 0.07262723989805882
-- signal: 0.07155978113955454
-- increased: 0.06826259958457713
-- man: 0.06683107553436761
-- presents: 0.06072618630678261
-- disease: 0.052989522842587976
-- and: 0.05217038032682961
-- from: 0.05013571471096289
-- with: 0.024718649776918403
+\-\ Texto\\:\\ \ \(0\)\
+\-\ \\â\\€\\¢\\ aymmetrically\\ enlarged\\ right\\ facial\\ nerve\ \(0\)\
+\-\ \\â\\€\\¢\\ right\\ 7th\\ increased\\ t2\\ signal\ \(0\)\
+\-\ \\â\\€\\¢\\ right\\ 7th\\ abnormal\\ enhancement\\ involving\\ distal\\ intracanalicular\\ segment\\,\\ geniculate\\ ganglion\\,\\ tympanic\\ segment\\,\\ and\\ mastoid\\ segment\\.\ \(0\)\
+\-\ facial\\ neuritis\\ from\\ herpes\\ zoster\ \(0\)\
+\-\ \\â\\€\\¢\\ lyme\\ disease\ \(0\)\
+\-\ \\â\\€\\¢\\ herpes\ \(0\)\
+\-\ \\â\\€\\¢\\ sarcoid\ \(3\)\
+\-\ \\â\\€\\¢\\ schwannoma\ \(0\)\
+\-\ 41\\ y\\.o\\.\\ man\\ presents\\ with\\ right\\ facial\\ nerve\\ paralysis\\ and\\ herpes\\ zoster\\ otiticus\\.\ \(1\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ herpes\\:\\ 0\\.4236755101029548\ \(0\)\
+\-\ zoster\\:\\ 0\\.3371889113222583\ \(0\)\
+\-\ segment\\:\\ 0\\.31267530094261803\ \(0\)\
+\-\ facial\\:\\ 0\\.3122741556624437\ \(0\)\
+\-\ 7th\\:\\ 0\\.29968787976961153\ \(0\)\
+\-\ aymmetrically\\:\\ 0\\.20187935849822228\ \(0\)\
+\-\ otiticus\\:\\ 0\\.20187935849822228\ \(0\)\
+\-\ nerve\\:\\ 0\\.18011267500011188\ \(0\)\
+\-\ geniculate\\:\\ 0\\.17756730955557484\ \(0\)\
+\-\ right\\:\\ 0\\.16741025375851717\ \(0\)\
+\-\ intracanalicular\\:\\ 0\\.1662628505628455\ \(0\)\
+\-\ paralysis\\:\\ 0\\.1459855376756705\ \(0\)\
+\-\ tympanic\\:\\ 0\\.14347759873104968\ \(0\)\
+\-\ ganglion\\:\\ 0\\.14195080162019807\ \(0\)\
+\-\ neuritis\\:\\ 0\\.14052257830541523\ \(0\)\
+\-\ lyme\\:\\ 0\\.13853948089207643\ \(0\)\
+\-\ mastoid\\:\\ 0\\.13020811482956068\ \(0\)\
+\-\ sarcoid\\:\\ 0\\.11838898657905748\ \(0\)\
+\-\ 41\\:\\ 0\\.11575422906028059\ \(0\)\
+\-\ schwannoma\\:\\ 0\\.10817951039899124\ \(0\)\
+\-\ involving\\:\\ 0\\.08842139506521204\ \(0\)\
+\-\ enlarged\\:\\ 0\\.08605698079764626\ \(0\)\
+\-\ abnormal\\:\\ 0\\.0758410911178605\ \(0\)\
+\-\ distal\\:\\ 0\\.07334643934303381\ \(0\)\
+\-\ enhancement\\:\\ 0\\.07265942867555547\ \(0\)\
+\-\ t2\\:\\ 0\\.07262723989805882\ \(0\)\
+\-\ signal\\:\\ 0\\.07155978113955454\ \(0\)\
+\-\ increased\\:\\ 0\\.06826259958457713\ \(0\)\
+\-\ man\\:\\ 0\\.06683107553436761\ \(0\)\
+\-\ presents\\:\\ 0\\.06072618630678261\ \(0\)\
+\-\ disease\\:\\ 0\\.052989522842587976\ \(0\)\
+\-\ and\\:\\ 0\\.05217038032682961\ \(0\)\
+\-\ from\\:\\ 0\\.05013571471096289\ \(0\)\
+\-\ with\\:\\ 0\\.024718649776918403\ \(0\)\

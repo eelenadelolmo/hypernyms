@@ -1,65 +1,63 @@
-Texto: 
-negative
-referral to podiatry
-lateral view of the ankle demonstrates enthesophytes at the insertion of the achilles tendon and plantar fascia. the remaining osseous and soft tissues are normal.
-enthesophyte secondary to degenerative change
-degenerative change
-post-traumatic change
-dish
-cppd
-spondyloarthropathies (ankylosing spondylitis, psoriatic arthritis, reiters)
-rheumatoid arthritis
-woman with continued heel pain despite having shoes professionally fitted.
-see factoid
-
-
-Keywords by value: 
-- change: 0.31111159091986224
-- degenerative: 0.23251427731647953
-- arthritis: 0.22261381987355977
-- podiatry: 0.21885887092076428
-- enthesophytes: 0.21885887092076428
-- professionally: 0.21885887092076428
-- fitted: 0.1968760895368356
-- spondyloarthropathies: 0.19250200303223752
-- reiters: 0.19250200303223752
-- shoes: 0.1827744673055344
-- enthesophyte: 0.18024675737501195
-- dish: 0.18024675737501195
-- fascia: 0.1592433387085902
-- cppd: 0.15160329771662628
-- ankylosing: 0.14759549397628782
-- psoriatic: 0.14698809305136462
-- heel: 0.14698809305136462
-- spondylitis: 0.14581756553721104
-- referral: 0.13978826725518395
-- plantar: 0.13978826725518395
-- insertion: 0.13425776147267723
-- achilles: 0.13356231987998546
-- remaining: 0.13006073152848083
-- ankle: 0.1208319883012981
-- rheumatoid: 0.12063122516283782
-- tendon: 0.11946069764868426
-- despite: 0.11908287794982235
-- having: 0.11798385884939402
-- continued: 0.11213426968513136
-- osseous: 0.10923071308548146
-- the: 0.10922909372549734
-- tissues: 0.10790089358415046
-- view: 0.1002181258577532
-- factoid: 0.09557518956484848
-- see: 0.08513144975601998
-- negative: 0.08472519452574669
-- secondary: 0.08111664337259528
-- soft: 0.07285800147649239
-- woman: 0.07127385816064029
-- demonstrates: 0.06875381432861513
-- to: 0.06842631594670746
-- lateral: 0.06791748938578428
-- and: 0.05655828619020169
-- normal: 0.055876451000205274
-- of: 0.053563329503858906
-- are: 0.05192975780548517
-- at: 0.051691377724605796
-- pain: 0.048971292825424895
-- with: 0.026797666790237012
+\-\ Texto\\:\\ \ \(0\)\
+\-\ negative\ \(599\)\
+\-\ referral\\ to\\ podiatry\ \(0\)\
+\-\ lateral\\ view\\ of\\ the\\ ankle\\ demonstrates\\ enthesophytes\\ at\\ the\\ insertion\\ of\\ the\\ achilles\\ tendon\\ and\\ plantar\\ fascia\\.\\ the\\ remaining\\ osseous\\ and\\ soft\\ tissues\\ are\\ normal\\.\ \(0\)\
+\-\ enthesophyte\\ secondary\\ to\\ degenerative\\ change\ \(0\)\
+\-\ degenerative\\ change\ \(113\)\
+\-\ post\\-traumatic\\ change\ \(5\)\
+\-\ dish\ \(8\)\
+\-\ cppd\ \(0\)\
+\-\ spondyloarthropathies\\ \\(ankylosing\\ spondylitis\\,\\ psoriatic\\ arthritis\\,\\ reiters\\)\ \(0\)\
+\-\ rheumatoid\\ arthritis\ \(67\)\
+\-\ woman\\ with\\ continued\\ heel\\ pain\\ despite\\ having\\ shoes\\ professionally\\ fitted\\.\ \(0\)\
+\-\ see\\ factoid\ \(116\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ change\\:\\ 0\\.31111159091986224\ \(0\)\
+\-\ degenerative\\:\\ 0\\.23251427731647953\ \(0\)\
+\-\ arthritis\\:\\ 0\\.22261381987355977\ \(0\)\
+\-\ podiatry\\:\\ 0\\.21885887092076428\ \(0\)\
+\-\ enthesophytes\\:\\ 0\\.21885887092076428\ \(0\)\
+\-\ professionally\\:\\ 0\\.21885887092076428\ \(0\)\
+\-\ fitted\\:\\ 0\\.1968760895368356\ \(0\)\
+\-\ spondyloarthropathies\\:\\ 0\\.19250200303223752\ \(0\)\
+\-\ reiters\\:\\ 0\\.19250200303223752\ \(0\)\
+\-\ shoes\\:\\ 0\\.1827744673055344\ \(0\)\
+\-\ enthesophyte\\:\\ 0\\.18024675737501195\ \(0\)\
+\-\ dish\\:\\ 0\\.18024675737501195\ \(0\)\
+\-\ fascia\\:\\ 0\\.1592433387085902\ \(0\)\
+\-\ cppd\\:\\ 0\\.15160329771662628\ \(0\)\
+\-\ ankylosing\\:\\ 0\\.14759549397628782\ \(0\)\
+\-\ psoriatic\\:\\ 0\\.14698809305136462\ \(0\)\
+\-\ heel\\:\\ 0\\.14698809305136462\ \(0\)\
+\-\ spondylitis\\:\\ 0\\.14581756553721104\ \(0\)\
+\-\ referral\\:\\ 0\\.13978826725518395\ \(0\)\
+\-\ plantar\\:\\ 0\\.13978826725518395\ \(0\)\
+\-\ insertion\\:\\ 0\\.13425776147267723\ \(0\)\
+\-\ achilles\\:\\ 0\\.13356231987998546\ \(0\)\
+\-\ remaining\\:\\ 0\\.13006073152848083\ \(0\)\
+\-\ ankle\\:\\ 0\\.1208319883012981\ \(0\)\
+\-\ rheumatoid\\:\\ 0\\.12063122516283782\ \(0\)\
+\-\ tendon\\:\\ 0\\.11946069764868426\ \(0\)\
+\-\ despite\\:\\ 0\\.11908287794982235\ \(0\)\
+\-\ having\\:\\ 0\\.11798385884939402\ \(0\)\
+\-\ continued\\:\\ 0\\.11213426968513136\ \(0\)\
+\-\ osseous\\:\\ 0\\.10923071308548146\ \(0\)\
+\-\ the\\:\\ 0\\.10922909372549734\ \(0\)\
+\-\ tissues\\:\\ 0\\.10790089358415046\ \(0\)\
+\-\ view\\:\\ 0\\.1002181258577532\ \(0\)\
+\-\ factoid\\:\\ 0\\.09557518956484848\ \(0\)\
+\-\ see\\:\\ 0\\.08513144975601998\ \(0\)\
+\-\ negative\\:\\ 0\\.08472519452574669\ \(0\)\
+\-\ secondary\\:\\ 0\\.08111664337259528\ \(0\)\
+\-\ soft\\:\\ 0\\.07285800147649239\ \(0\)\
+\-\ woman\\:\\ 0\\.07127385816064029\ \(0\)\
+\-\ demonstrates\\:\\ 0\\.06875381432861513\ \(0\)\
+\-\ to\\:\\ 0\\.06842631594670746\ \(0\)\
+\-\ lateral\\:\\ 0\\.06791748938578428\ \(0\)\
+\-\ and\\:\\ 0\\.05655828619020169\ \(0\)\
+\-\ normal\\:\\ 0\\.055876451000205274\ \(0\)\
+\-\ of\\:\\ 0\\.053563329503858906\ \(0\)\
+\-\ are\\:\\ 0\\.05192975780548517\ \(0\)\
+\-\ at\\:\\ 0\\.051691377724605796\ \(0\)\
+\-\ pain\\:\\ 0\\.048971292825424895\ \(0\)\
+\-\ with\\:\\ 0\\.026797666790237012\ \(0\)\

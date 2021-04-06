@@ -1,55 +1,53 @@
-Texto: 
-mildly elevated wbc count with left shift. tender rlq abdomen with equivocal rebound tenderness.
-abscess drainage via ct-guided needle aspiration
-large pelvic abscess surrounding enlarged appendix, containing appendicolith.
-appendicitis with pelvic abscess
-diverticulitis with abscess
-abscess secondary to inflammatory bowel disease with perforation
-34 hours of worsening mid to right lower quadrant pain and fever.
-
-
-Keywords by value: 
-- abscess: 0.5218371878438108
-- pelvic: 0.25410383828773014
-- equivocal: 0.19431938118647654
-- appendicolith: 0.1857685456532727
-- rlq: 0.16878727833295118
-- with: 0.15913054557408224
-- rebound: 0.1548199020690227
-- perforation: 0.15342973117545378
-- diverticulitis: 0.1527592802112542
-- needle: 0.15083768582470164
-- appendix: 0.1465341182268685
-- containing: 0.14600645775224447
-- shift: 0.14279607808523537
-- aspiration: 0.14210391000769768
-- 34: 0.14165163303023348
-- appendicitis: 0.13787500086891583
-- count: 0.13419339021502735
-- via: 0.13284436424026197
-- mildly: 0.13124322104437092
-- drainage: 0.13017365869034225
-- worsening: 0.12411717712748904
-- hours: 0.12387571084064093
-- tender: 0.11882145636127868
-- mid: 0.11696998747099496
-- wbc: 0.11487866446975863
-- quadrant: 0.11384557784614387
-- elevated: 0.11080131340810633
-- enlarged: 0.11080131340810633
-- fever: 0.11019985885783302
-- inflammatory: 0.10990382657079843
-- surrounding: 0.10839819360560653
-- bowel: 0.1043068788821603
-- tenderness: 0.10192867942350453
-- abdomen: 0.09917257655856024
-- secondary: 0.09633775817917155
-- lower: 0.0830548426404977
-- large: 0.0814373973028011
-- to: 0.08126615703864998
-- disease: 0.06822582750879154
-- pain: 0.05816050035831555
-- left: 0.055443752794963885
-- right: 0.05388661042514581
-- and: 0.03358557671692832
-- of: 0.031807104377530086
+\-\ Texto\\:\\ \ \(0\)\
+\-\ mildly\\ elevated\\ wbc\\ count\\ with\\ left\\ shift\\.\\ tender\\ rlq\\ abdomen\\ with\\ equivocal\\ rebound\\ tenderness\\.\ \(0\)\
+\-\ abscess\\ drainage\\ via\\ ct\\-guided\\ needle\\ aspiration\ \(0\)\
+\-\ large\\ pelvic\\ abscess\\ surrounding\\ enlarged\\ appendix\\,\\ containing\\ appendicolith\\.\ \(0\)\
+\-\ appendicitis\\ with\\ pelvic\\ abscess\ \(0\)\
+\-\ diverticulitis\\ with\\ abscess\ \(1\)\
+\-\ abscess\\ secondary\\ to\\ inflammatory\\ bowel\\ disease\\ with\\ perforation\ \(0\)\
+\-\ 34\\ hours\\ of\\ worsening\\ mid\\ to\\ right\\ lower\\ quadrant\\ pain\\ and\\ fever\\.\ \(1\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ abscess\\:\\ 0\\.5218371878438108\ \(0\)\
+\-\ pelvic\\:\\ 0\\.25410383828773014\ \(0\)\
+\-\ equivocal\\:\\ 0\\.19431938118647654\ \(0\)\
+\-\ appendicolith\\:\\ 0\\.1857685456532727\ \(0\)\
+\-\ rlq\\:\\ 0\\.16878727833295118\ \(0\)\
+\-\ with\\:\\ 0\\.15913054557408224\ \(0\)\
+\-\ rebound\\:\\ 0\\.1548199020690227\ \(0\)\
+\-\ perforation\\:\\ 0\\.15342973117545378\ \(0\)\
+\-\ diverticulitis\\:\\ 0\\.1527592802112542\ \(0\)\
+\-\ needle\\:\\ 0\\.15083768582470164\ \(0\)\
+\-\ appendix\\:\\ 0\\.1465341182268685\ \(0\)\
+\-\ containing\\:\\ 0\\.14600645775224447\ \(0\)\
+\-\ shift\\:\\ 0\\.14279607808523537\ \(0\)\
+\-\ aspiration\\:\\ 0\\.14210391000769768\ \(0\)\
+\-\ 34\\:\\ 0\\.14165163303023348\ \(0\)\
+\-\ appendicitis\\:\\ 0\\.13787500086891583\ \(0\)\
+\-\ count\\:\\ 0\\.13419339021502735\ \(0\)\
+\-\ via\\:\\ 0\\.13284436424026197\ \(0\)\
+\-\ mildly\\:\\ 0\\.13124322104437092\ \(0\)\
+\-\ drainage\\:\\ 0\\.13017365869034225\ \(0\)\
+\-\ worsening\\:\\ 0\\.12411717712748904\ \(0\)\
+\-\ hours\\:\\ 0\\.12387571084064093\ \(0\)\
+\-\ tender\\:\\ 0\\.11882145636127868\ \(0\)\
+\-\ mid\\:\\ 0\\.11696998747099496\ \(0\)\
+\-\ wbc\\:\\ 0\\.11487866446975863\ \(0\)\
+\-\ quadrant\\:\\ 0\\.11384557784614387\ \(0\)\
+\-\ elevated\\:\\ 0\\.11080131340810633\ \(0\)\
+\-\ enlarged\\:\\ 0\\.11080131340810633\ \(0\)\
+\-\ fever\\:\\ 0\\.11019985885783302\ \(0\)\
+\-\ inflammatory\\:\\ 0\\.10990382657079843\ \(0\)\
+\-\ surrounding\\:\\ 0\\.10839819360560653\ \(0\)\
+\-\ bowel\\:\\ 0\\.1043068788821603\ \(0\)\
+\-\ tenderness\\:\\ 0\\.10192867942350453\ \(0\)\
+\-\ abdomen\\:\\ 0\\.09917257655856024\ \(0\)\
+\-\ secondary\\:\\ 0\\.09633775817917155\ \(0\)\
+\-\ lower\\:\\ 0\\.0830548426404977\ \(0\)\
+\-\ large\\:\\ 0\\.0814373973028011\ \(0\)\
+\-\ to\\:\\ 0\\.08126615703864998\ \(0\)\
+\-\ disease\\:\\ 0\\.06822582750879154\ \(0\)\
+\-\ pain\\:\\ 0\\.05816050035831555\ \(0\)\
+\-\ left\\:\\ 0\\.055443752794963885\ \(0\)\
+\-\ right\\:\\ 0\\.05388661042514581\ \(0\)\
+\-\ and\\:\\ 0\\.03358557671692832\ \(0\)\
+\-\ of\\:\\ 0\\.031807104377530086\ \(0\)\

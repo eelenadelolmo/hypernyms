@@ -1,63 +1,61 @@
-Texto: 
-normal findings
-a cyst is seen in endometrium  and thickening of the junctional zone.
-endometrial polyp
-endometrial cancer, therapy with tamoxifen
-43 y.o. woman with abnormal menses
-polyps of endometrium are seen in about 10% of all uterus. large polyps result in distension of the endometrial cavity. cystic areas or contrast enhancement of  the stalk favor the diagnosis of polyp.  polyps show pronounced early enhancement, and this helps distinguish them from endometrial cancer which typically shows mild enhancement.
-
-
-Keywords by value: 
-- endometrial: 0.4831122348634268
-- polyps: 0.38257067465730865
-- endometrium: 0.2975198739920279
-- polyp: 0.24079541930149245
-- enhancement: 0.2041751084642683
-- cancer: 0.15751583495959817
-- junctional: 0.15573448239286797
-- tamoxifen: 0.15573448239286797
-- favor: 0.14136662094295263
-- of: 0.1388372947786276
-- menses: 0.1384695735620556
-- stalk: 0.1367412026787758
-- helps: 0.13592821838286046
-- pronounced: 0.1322822788234704
-- them: 0.12861478081963887
-- distinguish: 0.12806198959443463
-- distension: 0.12279211188506772
-- zone: 0.11424691936972352
-- seen: 0.11133529658291264
-- 43: 0.1106552664650077
-- uterus: 0.10371439848004903
-- cavity: 0.0976251880370733
-- the: 0.09437471509232616
-- about: 0.08852059340746804
-- result: 0.08852059340746804
-- in: 0.08824474777499583
-- early: 0.08523295816527214
-- typically: 0.08300758329546305
-- thickening: 0.08044237215499513
-- areas: 0.08027851009643036
-- show: 0.07506310927114483
-- cystic: 0.07121348210032948
-- abnormal: 0.07103855749715952
-- all: 0.07038698953253696
-- shows: 0.06939816410136333
-- 10: 0.06914225415387584
-- cyst: 0.06820978318151795
-- therapy: 0.0679380298614911
-- mild: 0.06702835563199376
-- woman: 0.06158112118320303
-- diagnosis: 0.06129611431142099
-- large: 0.05924540107524239
-- findings: 0.05835745493241179
-- contrast: 0.057451654395390454
-- which: 0.05376607663248689
-- and: 0.04886676217166633
-- normal: 0.04827765171033131
-- from: 0.04696093897991372
-- with: 0.04630675000972491
-- are: 0.044867680675099816
-- or: 0.041134487381329125
-- this: 0.040630279143161016
-- is: 0.03238153330064316
+\-\ Texto\\:\\ \ \(0\)\
+\-\ normal\\ findings\ \(26\)\
+\-\ a\\ cyst\\ is\\ seen\\ in\\ endometrium\\ \\ and\\ thickening\\ of\\ the\\ junctional\\ zone\\.\ \(0\)\
+\-\ endometrial\\ polyp\ \(4\)\
+\-\ endometrial\\ cancer\\,\\ therapy\\ with\\ tamoxifen\ \(0\)\
+\-\ 43\\ y\\.o\\.\\ woman\\ with\\ abnormal\\ menses\ \(1\)\
+\-\ polyps\\ of\\ endometrium\\ are\\ seen\\ in\\ about\\ 10\\%\\ of\\ all\\ uterus\\.\\ large\\ polyps\\ result\\ in\\ distension\\ of\\ the\\ endometrial\\ cavity\\.\\ cystic\\ areas\\ or\\ contrast\\ enhancement\\ of\\ \\ the\\ stalk\\ favor\\ the\\ diagnosis\\ of\\ polyp\\.\\ \\ polyps\\ show\\ pronounced\\ early\\ enhancement\\,\\ and\\ this\\ helps\\ distinguish\\ them\\ from\\ endometrial\\ cancer\\ which\\ typically\\ shows\\ mild\\ enhancement\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ endometrial\\:\\ 0\\.4831122348634268\ \(0\)\
+\-\ polyps\\:\\ 0\\.38257067465730865\ \(0\)\
+\-\ endometrium\\:\\ 0\\.2975198739920279\ \(0\)\
+\-\ polyp\\:\\ 0\\.24079541930149245\ \(0\)\
+\-\ enhancement\\:\\ 0\\.2041751084642683\ \(0\)\
+\-\ cancer\\:\\ 0\\.15751583495959817\ \(0\)\
+\-\ junctional\\:\\ 0\\.15573448239286797\ \(0\)\
+\-\ tamoxifen\\:\\ 0\\.15573448239286797\ \(0\)\
+\-\ favor\\:\\ 0\\.14136662094295263\ \(0\)\
+\-\ of\\:\\ 0\\.1388372947786276\ \(0\)\
+\-\ menses\\:\\ 0\\.1384695735620556\ \(0\)\
+\-\ stalk\\:\\ 0\\.1367412026787758\ \(0\)\
+\-\ helps\\:\\ 0\\.13592821838286046\ \(0\)\
+\-\ pronounced\\:\\ 0\\.1322822788234704\ \(0\)\
+\-\ them\\:\\ 0\\.12861478081963887\ \(0\)\
+\-\ distinguish\\:\\ 0\\.12806198959443463\ \(0\)\
+\-\ distension\\:\\ 0\\.12279211188506772\ \(0\)\
+\-\ zone\\:\\ 0\\.11424691936972352\ \(0\)\
+\-\ seen\\:\\ 0\\.11133529658291264\ \(0\)\
+\-\ 43\\:\\ 0\\.1106552664650077\ \(0\)\
+\-\ uterus\\:\\ 0\\.10371439848004903\ \(0\)\
+\-\ cavity\\:\\ 0\\.0976251880370733\ \(0\)\
+\-\ the\\:\\ 0\\.09437471509232616\ \(0\)\
+\-\ about\\:\\ 0\\.08852059340746804\ \(0\)\
+\-\ result\\:\\ 0\\.08852059340746804\ \(0\)\
+\-\ in\\:\\ 0\\.08824474777499583\ \(0\)\
+\-\ early\\:\\ 0\\.08523295816527214\ \(0\)\
+\-\ typically\\:\\ 0\\.08300758329546305\ \(0\)\
+\-\ thickening\\:\\ 0\\.08044237215499513\ \(0\)\
+\-\ areas\\:\\ 0\\.08027851009643036\ \(0\)\
+\-\ show\\:\\ 0\\.07506310927114483\ \(0\)\
+\-\ cystic\\:\\ 0\\.07121348210032948\ \(0\)\
+\-\ abnormal\\:\\ 0\\.07103855749715952\ \(0\)\
+\-\ all\\:\\ 0\\.07038698953253696\ \(0\)\
+\-\ shows\\:\\ 0\\.06939816410136333\ \(0\)\
+\-\ 10\\:\\ 0\\.06914225415387584\ \(0\)\
+\-\ cyst\\:\\ 0\\.06820978318151795\ \(0\)\
+\-\ therapy\\:\\ 0\\.0679380298614911\ \(0\)\
+\-\ mild\\:\\ 0\\.06702835563199376\ \(0\)\
+\-\ woman\\:\\ 0\\.06158112118320303\ \(0\)\
+\-\ diagnosis\\:\\ 0\\.06129611431142099\ \(0\)\
+\-\ large\\:\\ 0\\.05924540107524239\ \(0\)\
+\-\ findings\\:\\ 0\\.05835745493241179\ \(0\)\
+\-\ contrast\\:\\ 0\\.057451654395390454\ \(0\)\
+\-\ which\\:\\ 0\\.05376607663248689\ \(0\)\
+\-\ and\\:\\ 0\\.04886676217166633\ \(0\)\
+\-\ normal\\:\\ 0\\.04827765171033131\ \(0\)\
+\-\ from\\:\\ 0\\.04696093897991372\ \(0\)\
+\-\ with\\:\\ 0\\.04630675000972491\ \(0\)\
+\-\ are\\:\\ 0\\.044867680675099816\ \(0\)\
+\-\ or\\:\\ 0\\.041134487381329125\ \(0\)\
+\-\ this\\:\\ 0\\.040630279143161016\ \(0\)\
+\-\ is\\:\\ 0\\.03238153330064316\ \(0\)\

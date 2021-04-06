@@ -1,79 +1,77 @@
-Texto: 
-conservative measures.
-moderately severe circumferential wall thickening of the colon from the splenic flexure through the descending colon to its junction with the sigmoid.
-ischemic colitis
-inflammatory bowel disease
-infectious colitides
-diverticulitis
-vasculitis
-radiation colitis
-adenocarcinoma
-lymphoma
-51 year old female with hypertension and hyperlipidemia presents with abdominal pain and hematochezia.
-although relatively young, this patient had rather extensive atherosclerosis of the abdominal aorta and peripheral thrombus within the inferior mesenteric artery near its origin.
-
-
-Keywords by value: 
-- colitis: 0.11720960097303518
-- colitides: 0.11019398029958123
-- colon: 0.08389832274555849
-- its: 0.08061328608639104
-- hematochezia: 0.0763433527858036
-- atherosclerosis: 0.0672691402435169
-- hyperlipidemia: 0.06611447374187922
-- flexure: 0.06575212953096356
-- circumferential: 0.06472415330300141
-- moderately: 0.061046159890527155
-- 51: 0.05801413942588576
-- splenic: 0.0578232960242509
-- diverticulitis: 0.0548087703140398
-- vasculitis: 0.054660839593452276
-- sigmoid: 0.05437012881639894
-- thrombus: 0.05394635942045292
-- abdominal: 0.053397980953052884
-- descending: 0.05213909406031408
-- ischemic: 0.05201947592261219
-- rather: 0.05077410291075168
-- mesenteric: 0.04925401375956684
-- origin: 0.04897098280019484
-- young: 0.0465221027894967
-- near: 0.04621905764437179
-- adenocarcinoma: 0.04614443055704049
-- infectious: 0.04592318584329798
-- aorta: 0.045850299339413064
-- measures: 0.04570578905939962
-- relatively: 0.04570578905939962
-- junction: 0.04473845576420687
-- extensive: 0.04271694653060932
-- conservative: 0.04266051302617774
-- hypertension: 0.04210976315375235
-- peripheral: 0.03864916652517647
-- inflammatory: 0.037041449302400296
-- inferior: 0.036241454516988285
-- thickening: 0.0362078071211669
-- although: 0.03607411600720755
-- radiation: 0.03505314061952921
-- bowel: 0.033499419161059495
-- severe: 0.03286637250082505
-- artery: 0.03180662490135249
-- wall: 0.03093948900298433
-- lymphoma: 0.030527482929868573
-- through: 0.03033696273026086
-- had: 0.023048122740508853
-- female: 0.02195950339309792
-- presents: 0.021820553693849075
-- within: 0.020376642604826023
-- disease: 0.017459219265196304
-- from: 0.015830446414427653
-- pain: 0.013045102094134184
-- this: 0.012014215166426664
-- year: 0.011951315865911435
-- old: 0.010936682460778183
-- patient: 0.01070739913645485
-- the: 0.010368696352771935
-- and: 0.006750337714958192
-- to: 0.005338351355537329
-- with: 0.004387656603370865
-- ,: 0.0033838758189660926
-- of: 0.0029125950199497107
-- .: 0.0017749768048673138
+\-\ Texto\\:\\ \ \(0\)\
+\-\ conservative\\ measures\\.\ \(8\)\
+\-\ moderately\\ severe\\ circumferential\\ wall\\ thickening\\ of\\ the\\ colon\\ from\\ the\\ splenic\\ flexure\\ through\\ the\\ descending\\ colon\\ to\\ its\\ junction\\ with\\ the\\ sigmoid\\.\ \(0\)\
+\-\ ischemic\\ colitis\ \(5\)\
+\-\ inflammatory\\ bowel\\ disease\ \(31\)\
+\-\ infectious\\ colitides\ \(0\)\
+\-\ diverticulitis\ \(62\)\
+\-\ vasculitis\ \(67\)\
+\-\ radiation\\ colitis\ \(0\)\
+\-\ adenocarcinoma\ \(192\)\
+\-\ lymphoma\ \(373\)\
+\-\ 51\\ year\\ old\\ female\\ with\\ hypertension\\ and\\ hyperlipidemia\\ presents\\ with\\ abdominal\\ pain\\ and\\ hematochezia\\.\ \(1\)\
+\-\ although\\ relatively\\ young\\,\\ this\\ patient\\ had\\ rather\\ extensive\\ atherosclerosis\\ of\\ the\\ abdominal\\ aorta\\ and\\ peripheral\\ thrombus\\ within\\ the\\ inferior\\ mesenteric\\ artery\\ near\\ its\\ origin\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ colitis\\:\\ 0\\.11720960097303518\ \(0\)\
+\-\ colitides\\:\\ 0\\.11019398029958123\ \(0\)\
+\-\ colon\\:\\ 0\\.08389832274555849\ \(0\)\
+\-\ its\\:\\ 0\\.08061328608639104\ \(0\)\
+\-\ hematochezia\\:\\ 0\\.0763433527858036\ \(0\)\
+\-\ atherosclerosis\\:\\ 0\\.0672691402435169\ \(0\)\
+\-\ hyperlipidemia\\:\\ 0\\.06611447374187922\ \(0\)\
+\-\ flexure\\:\\ 0\\.06575212953096356\ \(0\)\
+\-\ circumferential\\:\\ 0\\.06472415330300141\ \(0\)\
+\-\ moderately\\:\\ 0\\.061046159890527155\ \(0\)\
+\-\ 51\\:\\ 0\\.05801413942588576\ \(0\)\
+\-\ splenic\\:\\ 0\\.0578232960242509\ \(0\)\
+\-\ diverticulitis\\:\\ 0\\.0548087703140398\ \(0\)\
+\-\ vasculitis\\:\\ 0\\.054660839593452276\ \(0\)\
+\-\ sigmoid\\:\\ 0\\.05437012881639894\ \(0\)\
+\-\ thrombus\\:\\ 0\\.05394635942045292\ \(0\)\
+\-\ abdominal\\:\\ 0\\.053397980953052884\ \(0\)\
+\-\ descending\\:\\ 0\\.05213909406031408\ \(0\)\
+\-\ ischemic\\:\\ 0\\.05201947592261219\ \(0\)\
+\-\ rather\\:\\ 0\\.05077410291075168\ \(0\)\
+\-\ mesenteric\\:\\ 0\\.04925401375956684\ \(0\)\
+\-\ origin\\:\\ 0\\.04897098280019484\ \(0\)\
+\-\ young\\:\\ 0\\.0465221027894967\ \(0\)\
+\-\ near\\:\\ 0\\.04621905764437179\ \(0\)\
+\-\ adenocarcinoma\\:\\ 0\\.04614443055704049\ \(0\)\
+\-\ infectious\\:\\ 0\\.04592318584329798\ \(0\)\
+\-\ aorta\\:\\ 0\\.045850299339413064\ \(0\)\
+\-\ measures\\:\\ 0\\.04570578905939962\ \(0\)\
+\-\ relatively\\:\\ 0\\.04570578905939962\ \(0\)\
+\-\ junction\\:\\ 0\\.04473845576420687\ \(0\)\
+\-\ extensive\\:\\ 0\\.04271694653060932\ \(0\)\
+\-\ conservative\\:\\ 0\\.04266051302617774\ \(0\)\
+\-\ hypertension\\:\\ 0\\.04210976315375235\ \(0\)\
+\-\ peripheral\\:\\ 0\\.03864916652517647\ \(0\)\
+\-\ inflammatory\\:\\ 0\\.037041449302400296\ \(0\)\
+\-\ inferior\\:\\ 0\\.036241454516988285\ \(0\)\
+\-\ thickening\\:\\ 0\\.0362078071211669\ \(0\)\
+\-\ although\\:\\ 0\\.03607411600720755\ \(0\)\
+\-\ radiation\\:\\ 0\\.03505314061952921\ \(0\)\
+\-\ bowel\\:\\ 0\\.033499419161059495\ \(0\)\
+\-\ severe\\:\\ 0\\.03286637250082505\ \(0\)\
+\-\ artery\\:\\ 0\\.03180662490135249\ \(0\)\
+\-\ wall\\:\\ 0\\.03093948900298433\ \(0\)\
+\-\ lymphoma\\:\\ 0\\.030527482929868573\ \(0\)\
+\-\ through\\:\\ 0\\.03033696273026086\ \(0\)\
+\-\ had\\:\\ 0\\.023048122740508853\ \(0\)\
+\-\ female\\:\\ 0\\.02195950339309792\ \(0\)\
+\-\ presents\\:\\ 0\\.021820553693849075\ \(0\)\
+\-\ within\\:\\ 0\\.020376642604826023\ \(0\)\
+\-\ disease\\:\\ 0\\.017459219265196304\ \(0\)\
+\-\ from\\:\\ 0\\.015830446414427653\ \(0\)\
+\-\ pain\\:\\ 0\\.013045102094134184\ \(0\)\
+\-\ this\\:\\ 0\\.012014215166426664\ \(0\)\
+\-\ year\\:\\ 0\\.011951315865911435\ \(0\)\
+\-\ old\\:\\ 0\\.010936682460778183\ \(0\)\
+\-\ patient\\:\\ 0\\.01070739913645485\ \(0\)\
+\-\ the\\:\\ 0\\.010368696352771935\ \(0\)\
+\-\ and\\:\\ 0\\.006750337714958192\ \(0\)\
+\-\ to\\:\\ 0\\.005338351355537329\ \(0\)\
+\-\ with\\:\\ 0\\.004387656603370865\ \(0\)\
+\-\ \\,\\:\\ 0\\.0033838758189660926\ \(0\)\
+\-\ of\\:\\ 0\\.0029125950199497107\ \(0\)\
+\-\ \\.\\:\\ 0\\.0017749768048673138\ \(0\)\

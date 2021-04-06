@@ -1,62 +1,60 @@
-Texto: 
-unremarkable
-ent consult, antibiotic therapy and possible surgery.
-opacified atelectatic left maxillary sinus with infundibular occlusion.  associated nasal septal deviation, enlargement of left middle meatus, retraction of left anterior maxillary sinus wall, and mild retraction of inferior orbital wall.
-silent sinus syndrome
-chronic sinusitis
-congenital opacification
-silent sinus
-post traumatic deformity
-13 year old with chronic sinusitis, worse for last 3 weeks.
-
-
-Keywords by value: 
-- silent: 0.18077811693431345
-- sinus: 0.1760652940643627
-- retraction: 0.1525160856987139
-- sinusitis: 0.13927654684672133
-- maxillary: 0.13161644218521032
-- infundibular: 0.10463695863164237
-- atelectatic: 0.09892618246110484
-- meatus: 0.09675504612550964
-- opacified: 0.08269125978591631
-- ent: 0.07220618267397974
-- consult: 0.07151899726314268
-- wall: 0.0697227921194013
-- chronic: 0.06780252487061972
-- deviation: 0.06721784726946406
-- septal: 0.06558641324798346
-- opacification: 0.06373322511011419
-- antibiotic: 0.06158967841515749
-- occlusion: 0.060023120174168415
-- nasal: 0.05958522458163276
-- orbital: 0.05708935900237665
-- 13: 0.054361850230496306
-- worse: 0.05331099299400088
-- deformity: 0.05182704206924277
-- last: 0.051418766902013864
-- traumatic: 0.05040952762164154
-- enlargement: 0.04775448459838163
-- middle: 0.04401632351609067
-- congenital: 0.04401632351609067
-- inferior: 0.04083544170928258
-- possible: 0.04053496082935313
-- left: 0.0403988141946302
-- unremarkable: 0.03984600589693043
-- post: 0.03789908497284921
-- syndrome: 0.034421219390628754
-- weeks: 0.03415884164649505
-- therapy: 0.03217803938367061
-- mild: 0.03169371061874841
-- anterior: 0.030997082024827288
-- surgery: 0.02922533893465176
-- associated: 0.028400881153629605
-- 3: 0.028182753897275207
-- ,: 0.019064089120935733
-- year: 0.013466271398210067
-- old: 0.01232302249101767
-- for: 0.010269128854122749
-- and: 0.00507067621780897
-- of: 0.004922695808365708
-- with: 0.0032958922842222464
-- .: 0.001999973864639227
+\-\ Texto\\:\\ \ \(0\)\
+\-\ unremarkable\ \(371\)\
+\-\ ent\\ consult\\,\\ antibiotic\\ therapy\\ and\\ possible\\ surgery\\.\ \(0\)\
+\-\ opacified\\ atelectatic\\ left\\ maxillary\\ sinus\\ with\\ infundibular\\ occlusion\\.\\ \\ associated\\ nasal\\ septal\\ deviation\\,\\ enlargement\\ of\\ left\\ middle\\ meatus\\,\\ retraction\\ of\\ left\\ anterior\\ maxillary\\ sinus\\ wall\\,\\ and\\ mild\\ retraction\\ of\\ inferior\\ orbital\\ wall\\.\ \(0\)\
+\-\ silent\\ sinus\\ syndrome\ \(2\)\
+\-\ chronic\\ sinusitis\ \(12\)\
+\-\ congenital\\ opacification\ \(0\)\
+\-\ silent\\ sinus\ \(2\)\
+\-\ post\\ traumatic\\ deformity\ \(0\)\
+\-\ 13\\ year\\ old\\ with\\ chronic\\ sinusitis\\,\\ worse\\ for\\ last\\ 3\\ weeks\\.\ \(1\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ silent\\:\\ 0\\.18077811693431345\ \(0\)\
+\-\ sinus\\:\\ 0\\.1760652940643627\ \(0\)\
+\-\ retraction\\:\\ 0\\.1525160856987139\ \(0\)\
+\-\ sinusitis\\:\\ 0\\.13927654684672133\ \(0\)\
+\-\ maxillary\\:\\ 0\\.13161644218521032\ \(0\)\
+\-\ infundibular\\:\\ 0\\.10463695863164237\ \(0\)\
+\-\ atelectatic\\:\\ 0\\.09892618246110484\ \(0\)\
+\-\ meatus\\:\\ 0\\.09675504612550964\ \(0\)\
+\-\ opacified\\:\\ 0\\.08269125978591631\ \(0\)\
+\-\ ent\\:\\ 0\\.07220618267397974\ \(0\)\
+\-\ consult\\:\\ 0\\.07151899726314268\ \(0\)\
+\-\ wall\\:\\ 0\\.0697227921194013\ \(0\)\
+\-\ chronic\\:\\ 0\\.06780252487061972\ \(0\)\
+\-\ deviation\\:\\ 0\\.06721784726946406\ \(0\)\
+\-\ septal\\:\\ 0\\.06558641324798346\ \(0\)\
+\-\ opacification\\:\\ 0\\.06373322511011419\ \(0\)\
+\-\ antibiotic\\:\\ 0\\.06158967841515749\ \(0\)\
+\-\ occlusion\\:\\ 0\\.060023120174168415\ \(0\)\
+\-\ nasal\\:\\ 0\\.05958522458163276\ \(0\)\
+\-\ orbital\\:\\ 0\\.05708935900237665\ \(0\)\
+\-\ 13\\:\\ 0\\.054361850230496306\ \(0\)\
+\-\ worse\\:\\ 0\\.05331099299400088\ \(0\)\
+\-\ deformity\\:\\ 0\\.05182704206924277\ \(0\)\
+\-\ last\\:\\ 0\\.051418766902013864\ \(0\)\
+\-\ traumatic\\:\\ 0\\.05040952762164154\ \(0\)\
+\-\ enlargement\\:\\ 0\\.04775448459838163\ \(0\)\
+\-\ middle\\:\\ 0\\.04401632351609067\ \(0\)\
+\-\ congenital\\:\\ 0\\.04401632351609067\ \(0\)\
+\-\ inferior\\:\\ 0\\.04083544170928258\ \(0\)\
+\-\ possible\\:\\ 0\\.04053496082935313\ \(0\)\
+\-\ left\\:\\ 0\\.0403988141946302\ \(0\)\
+\-\ unremarkable\\:\\ 0\\.03984600589693043\ \(0\)\
+\-\ post\\:\\ 0\\.03789908497284921\ \(0\)\
+\-\ syndrome\\:\\ 0\\.034421219390628754\ \(0\)\
+\-\ weeks\\:\\ 0\\.03415884164649505\ \(0\)\
+\-\ therapy\\:\\ 0\\.03217803938367061\ \(0\)\
+\-\ mild\\:\\ 0\\.03169371061874841\ \(0\)\
+\-\ anterior\\:\\ 0\\.030997082024827288\ \(0\)\
+\-\ surgery\\:\\ 0\\.02922533893465176\ \(0\)\
+\-\ associated\\:\\ 0\\.028400881153629605\ \(0\)\
+\-\ 3\\:\\ 0\\.028182753897275207\ \(0\)\
+\-\ \\,\\:\\ 0\\.019064089120935733\ \(0\)\
+\-\ year\\:\\ 0\\.013466271398210067\ \(0\)\
+\-\ old\\:\\ 0\\.01232302249101767\ \(0\)\
+\-\ for\\:\\ 0\\.010269128854122749\ \(0\)\
+\-\ and\\:\\ 0\\.00507067621780897\ \(0\)\
+\-\ of\\:\\ 0\\.004922695808365708\ \(0\)\
+\-\ with\\:\\ 0\\.0032958922842222464\ \(0\)\
+\-\ \\.\\:\\ 0\\.001999973864639227\ \(0\)\

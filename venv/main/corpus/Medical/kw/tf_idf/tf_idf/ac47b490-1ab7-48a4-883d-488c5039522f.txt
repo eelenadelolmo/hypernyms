@@ -1,169 +1,165 @@
-Texto: 
-general: alert, active, and without distress
-skin, heent, neck, gu, extremities, musculoskeletal, and neurological: are negative
-respiratory:  positive for cough and sputum production. negative for shortness of breath and wheezing.
-cardiovascular: precordium is shifted to the right, no gallop or murmur, s2 is normally split
-abdomen: abdomen is soft, non-distended and non-tender, without organomegaly or focal mass.
-tx: dornase alpha, budesonide, budesonide-formoterol, ocean nasal, influenza vaccine, chest physical therapy, ciprofloxacin, amoxicillin-clavulanate.  
-
-follow up: spirometry
-chest, upright pa and lateral view x-ray:
-situs inversus is present.  heart size is normal.  bronchiectasis is seen in the anteroinferior left lung equivalent of the right middle lobe.  no pleural effusion is demonstrated.  the skeletal structures have a normal appearance.
-
-paranasal sinus ct:
-postsurgical changes are consistent with prior resection of the infundibula of both maxillary sinuses.  there is minimal residual mucoperiosteal thickening.
-primary ciliary dyskinesia, situs inversus
-primary ciliary dyskinesia (immotile cilia syndrome), kartagenerâ€™s syndrome, 
-situs inversus totalis, 
-heterotaxy syndrome, 
-cystic fibrosis, 
-immunodeficiency (immunoglobulin deficiency), 
-allergies
-patient is an 18 year-old girl with a history of otitis media and a history of recurrent respiratory infections responsive to antimicrobial agents.
-
-
-Keywords by value: 
-- inversus: 0.07845902593939282
-- situs: 0.07437422593393725
-- dyskinesia: 0.064576620379066
-- ciliary: 0.057486261714737946
-- :: 0.04256264997454387
-- precordium: 0.036885014326219656
-- dornase: 0.036885014326219656
-- budesonide-formoterol: 0.036885014326219656
-- amoxicillin-clavulanate: 0.036885014326219656
-- ocean: 0.033984816918019044
-- infundibula: 0.033984816918019044
-- budesonide: 0.032288310189533
-- immotile: 0.032288310189533
-- cilia: 0.032288310189533
-- heterotaxy: 0.03108461950981844
-- immunodeficiency: 0.03108461950981844
-- syndrome: 0.0306766515908114
-- ,: 0.030582308656764683
-- mucoperiosteal: 0.030150964483399153
-- respiratory: 0.029687533597516066
-- anteroinferior: 0.029388112781332396
-- ciprofloxacin: 0.028743130857368973
-- spirometry: 0.028743130857368973
-- gallop: 0.02818442210161783
-- vaccine: 0.02818442210161783
-- antimicrobial: 0.02818442210161783
-- influenza: 0.027250767075198544
-- kartagener: 0.027250767075198544
-- totalis: 0.027250767075198544
-- immunoglobulin: 0.027250767075198544
-- postsurgical: 0.026851979712000533
-- shifted: 0.026487915373131787
-- split: 0.02615300864646427
-- equivalent: 0.025842933449168364
-- paranasal: 0.024350569666997935
-- alpha: 0.023951782303799924
-- responsive: 0.023765791665428235
-- gu: 0.023416914640578646
-- otitis: 0.023416914640578646
-- sputum: 0.02279591043506286
-- organomegaly: 0.02279591043506286
-- media: 0.02279591043506286
-- upright: 0.022516867027118626
-- non-distended: 0.022384027285216615
-- tx: 0.02213036777970852
-- production: 0.021664988553305908
-- negative: 0.02135665407008263
-- abdomen: 0.021183131907076956
-- primary: 0.021183131907076956
-- is: 0.02117412972996875
-- allergies: 0.02095755621002585
-- agents: 0.02095755621002585
-- bronchiectasis: 0.020865594257227626
-- wheezing: 0.020687520556730576
-- cardiovascular: 0.020042538632767146
-- s2: 0.019684705271101197
-- maxillary: 0.01954972258399567
-- deficiency: 0.0192921581781403
-- non-tender: 0.01893330118333936
-- musculoskeletal: 0.01871009624314985
-- murmur: 0.01849819777947305
-- sinuses: 0.018396141490250626
-- alert: 0.017831136118686013
-- residual: 0.017743964206958642
-- nasal: 0.01770104998031768
-- skeletal: 0.01765857143862723
-- normally: 0.017616519824177432
-- heent: 0.017294507099758487
-- chest: 0.01711070292935162
-- infections: 0.016995515618661645
-- without: 0.01683693026241138
-- x-ray: 0.01611997403224515
-- fibrosis: 0.01592001309569139
-- 18: 0.015521225732493378
-- neurological: 0.015470814274266708
-- recurrent: 0.015088001134414549
-- general: 0.015065199440826411
-- distress: 0.015065199440826411
-- shortness: 0.015042521334260138
-- pa: 0.014953018447309018
-- minimal: 0.014077322051886181
-- extremities: 0.014023793384689908
-- pleural: 0.013884310454699983
-- structures: 0.013765964371693364
-- skin: 0.013732757051209112
-- cough: 0.013699811208401974
-- active: 0.013650873803535064
-- effusion: 0.013586501758181595
-- view: 0.013414421040926938
-- breath: 0.013368692712340369
-- year-old: 0.013132906366938143
-- middle: 0.013075978952478818
-- sinus: 0.013075978952478818
-- girl: 0.012570616866066099
-- heart: 0.012422927401291941
-- thickening: 0.012119768074030758
-- size: 0.011986928332128749
-- positive: 0.011602031758510947
-- follow: 0.011360667246637798
-- normal: 0.011210146063590803
-- resection: 0.011150274709289617
-- â€™: 0.010686304349980986
-- neck: 0.010498925259491558
-- demonstrated: 0.010491296997727896
-- lung: 0.010356314310622368
-- cystic: 0.010312270741639156
-- s: 0.010254258021399945
-- changes: 0.010247062662071382
-- appearance: 0.010225550530270466
-- focal: 0.010211270310202518
-- history: 0.009876272282067642
-- are: 0.009747898514892064
-- lobe: 0.009620608150307674
-- up: 0.009614423226168298
-- therapy: 0.009559166511467
-- prior: 0.009180388168210724
-- both: 0.009130543894084188
-- physical: 0.008771988575653715
-- consistent: 0.008766938363310472
-- soft: 0.008706806543906067
-- or: 0.008380943505972446
-- present: 0.008075350434860589
-- have: 0.007742418737929253
-- lateral: 0.007726644542362135
-- right: 0.00754503522268131
-- no: 0.0072003694619565016
-- seen: 0.007065387510743473
-- for: 0.00610132341960431
-- (: 0.006044868002040673
-- ): 0.005971026712245231
-- there: 0.005320985591903718
-- and: 0.005272230293412256
-- ct: 0.005001270516284698
-- a: 0.004978240190191647
-- mass: 0.004972640196433324
-- an: 0.004944204453074183
-- left: 0.004000440457208848
-- patient: 0.0035840666565539244
-- to: 0.0035737917024517675
-- of: 0.0029247816099913413
-- the: 0.0028922444498666483
-- .: 0.0017824034860592273
-- in: 0.0017631683269466731
-- with: 0.0009791144442668595
+\-\ Texto\\:\\ \ \(0\)\
+\-\ general\\:\\ alert\\,\\ active\\,\\ and\\ without\\ distress\ \(0\)\
+\-\ skin\\,\\ heent\\,\\ neck\\,\\ gu\\,\\ extremities\\,\\ musculoskeletal\\,\\ and\\ neurological\\:\\ are\\ negative\ \(0\)\
+\-\ respiratory\\:\\ \\ positive\\ for\\ cough\\ and\\ sputum\\ production\\.\\ negative\\ for\\ shortness\\ of\\ breath\\ and\\ wheezing\\.\ \(0\)\
+\-\ cardiovascular\\:\\ precordium\\ is\\ shifted\\ to\\ the\\ right\\,\\ no\\ gallop\\ or\\ murmur\\,\\ s2\\ is\\ normally\\ split\ \(0\)\
+\-\ abdomen\\:\\ abdomen\\ is\\ soft\\,\\ non\\-distended\\ and\\ non\\-tender\\,\\ without\\ organomegaly\\ or\\ focal\\ mass\\.\ \(0\)\
+\-\ tx\\:\\ dornase\\ alpha\\,\\ budesonide\\,\\ budesonide\\-formoterol\\,\\ ocean\\ nasal\\,\\ influenza\\ vaccine\\,\\ chest\\ physical\\ therapy\\,\\ ciprofloxacin\\,\\ amoxicillin\\-clavulanate\\.\\ \\ \ \(0\)\
+\-\ follow\\ up\\:\\ spirometry\ \(0\)\
+\-\ chest\\,\\ upright\\ pa\\ and\\ lateral\\ view\\ x\\-ray\\:\ \(0\)\
+\-\ situs\\ inversus\\ is\\ present\\.\\ \\ heart\\ size\\ is\\ normal\\.\\ \\ bronchiectasis\\ is\\ seen\\ in\\ the\\ anteroinferior\\ left\\ lung\\ equivalent\\ of\\ the\\ right\\ middle\\ lobe\\.\\ \\ no\\ pleural\\ effusion\\ is\\ demonstrated\\.\\ \\ the\\ skeletal\\ structures\\ have\\ a\\ normal\\ appearance\\.\ \(0\)\
+\-\ paranasal\\ sinus\\ ct\\:\ \(0\)\
+\-\ postsurgical\\ changes\\ are\\ consistent\\ with\\ prior\\ resection\\ of\\ the\\ infundibula\\ of\\ both\\ maxillary\\ sinuses\\.\\ \\ there\\ is\\ minimal\\ residual\\ mucoperiosteal\\ thickening\\.\ \(0\)\
+\-\ primary\\ ciliary\\ dyskinesia\\,\\ situs\\ inversus\ \(0\)\
+\-\ primary\\ ciliary\\ dyskinesia\\ \\(immotile\\ cilia\\ syndrome\\)\\,\\ kartagener\\â\\€\\™s\\ syndrome\\,\\ \ \(0\)\
+\-\ situs\\ inversus\\ totalis\\,\\ \ \(1\)\
+\-\ heterotaxy\\ syndrome\\,\\ \ \(1\)\
+\-\ cystic\\ fibrosis\\,\\ \ \(3\)\
+\-\ immunodeficiency\\ \\(immunoglobulin\\ deficiency\\)\\,\\ \ \(1\)\
+\-\ allergies\ \(23\)\
+\-\ patient\\ is\\ an\\ 18\\ year\\-old\\ girl\\ with\\ a\\ history\\ of\\ otitis\\ media\\ and\\ a\\ history\\ of\\ recurrent\\ respiratory\\ infections\\ responsive\\ to\\ antimicrobial\\ agents\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ inversus\\:\\ 0\\.07845902593939282\ \(0\)\
+\-\ situs\\:\\ 0\\.07437422593393725\ \(0\)\
+\-\ dyskinesia\\:\\ 0\\.064576620379066\ \(0\)\
+\-\ ciliary\\:\\ 0\\.057486261714737946\ \(0\)\
+\-\ \\:\\:\\ 0\\.04256264997454387\ \(0\)\
+\-\ precordium\\:\\ 0\\.036885014326219656\ \(0\)\
+\-\ dornase\\:\\ 0\\.036885014326219656\ \(0\)\
+\-\ budesonide\\-formoterol\\:\\ 0\\.036885014326219656\ \(0\)\
+\-\ amoxicillin\\-clavulanate\\:\\ 0\\.036885014326219656\ \(0\)\
+\-\ ocean\\:\\ 0\\.033984816918019044\ \(0\)\
+\-\ infundibula\\:\\ 0\\.033984816918019044\ \(0\)\
+\-\ budesonide\\:\\ 0\\.032288310189533\ \(0\)\
+\-\ immotile\\:\\ 0\\.032288310189533\ \(0\)\
+\-\ cilia\\:\\ 0\\.032288310189533\ \(0\)\
+\-\ heterotaxy\\:\\ 0\\.03108461950981844\ \(0\)\
+\-\ immunodeficiency\\:\\ 0\\.03108461950981844\ \(0\)\
+\-\ syndrome\\:\\ 0\\.0306766515908114\ \(0\)\
+\-\ \\,\\:\\ 0\\.030582308656764683\ \(0\)\
+\-\ mucoperiosteal\\:\\ 0\\.030150964483399153\ \(0\)\
+\-\ respiratory\\:\\ 0\\.029687533597516066\ \(0\)\
+\-\ anteroinferior\\:\\ 0\\.029388112781332396\ \(0\)\
+\-\ ciprofloxacin\\:\\ 0\\.028743130857368973\ \(0\)\
+\-\ spirometry\\:\\ 0\\.028743130857368973\ \(0\)\
+\-\ gallop\\:\\ 0\\.02818442210161783\ \(0\)\
+\-\ vaccine\\:\\ 0\\.02818442210161783\ \(0\)\
+\-\ antimicrobial\\:\\ 0\\.02818442210161783\ \(0\)\
+\-\ influenza\\:\\ 0\\.027250767075198544\ \(0\)\
+\-\ kartagener\\:\\ 0\\.027250767075198544\ \(0\)\
+\-\ totalis\\:\\ 0\\.027250767075198544\ \(0\)\
+\-\ immunoglobulin\\:\\ 0\\.027250767075198544\ \(0\)\
+\-\ postsurgical\\:\\ 0\\.026851979712000533\ \(0\)\
+\-\ shifted\\:\\ 0\\.026487915373131787\ \(0\)\
+\-\ split\\:\\ 0\\.02615300864646427\ \(0\)\
+\-\ equivalent\\:\\ 0\\.025842933449168364\ \(0\)\
+\-\ paranasal\\:\\ 0\\.024350569666997935\ \(0\)\
+\-\ alpha\\:\\ 0\\.023951782303799924\ \(0\)\
+\-\ responsive\\:\\ 0\\.023765791665428235\ \(0\)\
+\-\ gu\\:\\ 0\\.023416914640578646\ \(0\)\
+\-\ otitis\\:\\ 0\\.023416914640578646\ \(0\)\
+\-\ sputum\\:\\ 0\\.02279591043506286\ \(0\)\
+\-\ organomegaly\\:\\ 0\\.02279591043506286\ \(0\)\
+\-\ media\\:\\ 0\\.02279591043506286\ \(0\)\
+\-\ upright\\:\\ 0\\.022516867027118626\ \(0\)\
+\-\ non\\-distended\\:\\ 0\\.022384027285216615\ \(0\)\
+\-\ tx\\:\\ 0\\.02213036777970852\ \(0\)\
+\-\ production\\:\\ 0\\.021664988553305908\ \(0\)\
+\-\ negative\\:\\ 0\\.02135665407008263\ \(0\)\
+\-\ abdomen\\:\\ 0\\.021183131907076956\ \(0\)\
+\-\ primary\\:\\ 0\\.021183131907076956\ \(0\)\
+\-\ is\\:\\ 0\\.02117412972996875\ \(0\)\
+\-\ allergies\\:\\ 0\\.02095755621002585\ \(0\)\
+\-\ agents\\:\\ 0\\.02095755621002585\ \(0\)\
+\-\ bronchiectasis\\:\\ 0\\.020865594257227626\ \(0\)\
+\-\ wheezing\\:\\ 0\\.020687520556730576\ \(0\)\
+\-\ cardiovascular\\:\\ 0\\.020042538632767146\ \(0\)\
+\-\ s2\\:\\ 0\\.019684705271101197\ \(0\)\
+\-\ maxillary\\:\\ 0\\.01954972258399567\ \(0\)\
+\-\ deficiency\\:\\ 0\\.0192921581781403\ \(0\)\
+\-\ non\\-tender\\:\\ 0\\.01893330118333936\ \(0\)\
+\-\ musculoskeletal\\:\\ 0\\.01871009624314985\ \(0\)\
+\-\ murmur\\:\\ 0\\.01849819777947305\ \(0\)\
+\-\ sinuses\\:\\ 0\\.018396141490250626\ \(0\)\
+\-\ alert\\:\\ 0\\.017831136118686013\ \(0\)\
+\-\ residual\\:\\ 0\\.017743964206958642\ \(0\)\
+\-\ nasal\\:\\ 0\\.01770104998031768\ \(0\)\
+\-\ skeletal\\:\\ 0\\.01765857143862723\ \(0\)\
+\-\ normally\\:\\ 0\\.017616519824177432\ \(0\)\
+\-\ heent\\:\\ 0\\.017294507099758487\ \(0\)\
+\-\ chest\\:\\ 0\\.01711070292935162\ \(0\)\
+\-\ infections\\:\\ 0\\.016995515618661645\ \(0\)\
+\-\ without\\:\\ 0\\.01683693026241138\ \(0\)\
+\-\ x\\-ray\\:\\ 0\\.01611997403224515\ \(0\)\
+\-\ fibrosis\\:\\ 0\\.01592001309569139\ \(0\)\
+\-\ 18\\:\\ 0\\.015521225732493378\ \(0\)\
+\-\ neurological\\:\\ 0\\.015470814274266708\ \(0\)\
+\-\ recurrent\\:\\ 0\\.015088001134414549\ \(0\)\
+\-\ general\\:\\ 0\\.015065199440826411\ \(0\)\
+\-\ distress\\:\\ 0\\.015065199440826411\ \(0\)\
+\-\ shortness\\:\\ 0\\.015042521334260138\ \(0\)\
+\-\ pa\\:\\ 0\\.014953018447309018\ \(0\)\
+\-\ minimal\\:\\ 0\\.014077322051886181\ \(0\)\
+\-\ extremities\\:\\ 0\\.014023793384689908\ \(0\)\
+\-\ pleural\\:\\ 0\\.013884310454699983\ \(0\)\
+\-\ structures\\:\\ 0\\.013765964371693364\ \(0\)\
+\-\ skin\\:\\ 0\\.013732757051209112\ \(0\)\
+\-\ cough\\:\\ 0\\.013699811208401974\ \(0\)\
+\-\ active\\:\\ 0\\.013650873803535064\ \(0\)\
+\-\ effusion\\:\\ 0\\.013586501758181595\ \(0\)\
+\-\ view\\:\\ 0\\.013414421040926938\ \(0\)\
+\-\ breath\\:\\ 0\\.013368692712340369\ \(0\)\
+\-\ year\\-old\\:\\ 0\\.013132906366938143\ \(0\)\
+\-\ middle\\:\\ 0\\.013075978952478818\ \(0\)\
+\-\ sinus\\:\\ 0\\.013075978952478818\ \(0\)\
+\-\ girl\\:\\ 0\\.012570616866066099\ \(0\)\
+\-\ heart\\:\\ 0\\.012422927401291941\ \(0\)\
+\-\ thickening\\:\\ 0\\.012119768074030758\ \(0\)\
+\-\ size\\:\\ 0\\.011986928332128749\ \(0\)\
+\-\ positive\\:\\ 0\\.011602031758510947\ \(0\)\
+\-\ follow\\:\\ 0\\.011360667246637798\ \(0\)\
+\-\ normal\\:\\ 0\\.011210146063590803\ \(0\)\
+\-\ resection\\:\\ 0\\.011150274709289617\ \(0\)\
+\-\ \\â\\€\\™\\:\\ 0\\.010686304349980986\ \(0\)\
+\-\ neck\\:\\ 0\\.010498925259491558\ \(0\)\
+\-\ demonstrated\\:\\ 0\\.010491296997727896\ \(0\)\
+\-\ lung\\:\\ 0\\.010356314310622368\ \(0\)\
+\-\ cystic\\:\\ 0\\.010312270741639156\ \(0\)\
+\-\ s\\:\\ 0\\.010254258021399945\ \(0\)\
+\-\ changes\\:\\ 0\\.010247062662071382\ \(0\)\
+\-\ appearance\\:\\ 0\\.010225550530270466\ \(0\)\
+\-\ focal\\:\\ 0\\.010211270310202518\ \(0\)\
+\-\ history\\:\\ 0\\.009876272282067642\ \(0\)\
+\-\ are\\:\\ 0\\.009747898514892064\ \(0\)\
+\-\ lobe\\:\\ 0\\.009620608150307674\ \(0\)\
+\-\ up\\:\\ 0\\.009614423226168298\ \(0\)\
+\-\ therapy\\:\\ 0\\.009559166511467\ \(0\)\
+\-\ prior\\:\\ 0\\.009180388168210724\ \(0\)\
+\-\ both\\:\\ 0\\.009130543894084188\ \(0\)\
+\-\ physical\\:\\ 0\\.008771988575653715\ \(0\)\
+\-\ consistent\\:\\ 0\\.008766938363310472\ \(0\)\
+\-\ soft\\:\\ 0\\.008706806543906067\ \(0\)\
+\-\ or\\:\\ 0\\.008380943505972446\ \(0\)\
+\-\ present\\:\\ 0\\.008075350434860589\ \(0\)\
+\-\ have\\:\\ 0\\.007742418737929253\ \(0\)\
+\-\ lateral\\:\\ 0\\.007726644542362135\ \(0\)\
+\-\ right\\:\\ 0\\.00754503522268131\ \(0\)\
+\-\ no\\:\\ 0\\.0072003694619565016\ \(0\)\
+\-\ seen\\:\\ 0\\.007065387510743473\ \(0\)\
+\-\ for\\:\\ 0\\.00610132341960431\ \(0\)\
+\-\ \\(\\:\\ 0\\.006044868002040673\ \(0\)\
+\-\ \\)\\:\\ 0\\.005971026712245231\ \(0\)\
+\-\ there\\:\\ 0\\.005320985591903718\ \(0\)\
+\-\ and\\:\\ 0\\.005272230293412256\ \(0\)\
+\-\ ct\\:\\ 0\\.005001270516284698\ \(0\)\
+\-\ a\\:\\ 0\\.004978240190191647\ \(0\)\
+\-\ mass\\:\\ 0\\.004972640196433324\ \(0\)\
+\-\ an\\:\\ 0\\.004944204453074183\ \(0\)\
+\-\ left\\:\\ 0\\.004000440457208848\ \(0\)\
+\-\ patient\\:\\ 0\\.0035840666565539244\ \(0\)\
+\-\ to\\:\\ 0\\.0035737917024517675\ \(0\)\
+\-\ of\\:\\ 0\\.0029247816099913413\ \(0\)\
+\-\ the\\:\\ 0\\.0028922444498666483\ \(0\)\
+\-\ \\.\\:\\ 0\\.0017824034860592273\ \(0\)\
+\-\ in\\:\\ 0\\.0017631683269466731\ \(0\)\
+\-\ with\\:\\ 0\\.0009791144442668595\ \(0\)\

@@ -1,72 +1,70 @@
-Texto: 
-ttp left wrist with decreased rom.
-surgical repair (k-wire fixation).
-frontal radiograph of the wrist shows a "pie shaped" lunate.  lateral radiograph shows the lunate to be tilted and dislocated volarly, with the capitate remaining nearly collinear with the radius.  there is an associated ulnar styloid fracture visible on both images.
-lunate dislocation
-lunate dislocation (stage iv injury)
-midcarpal dislocation (stage iii injury)
-(there is often overlap of radiographic appearance of these two entities.)
-23-year-old male with left wrist pain following fall on outstretched hand (foosh).
-
-
-Keywords by value: 
-- lunate: 0.4724275013948772
-- dislocation: 0.28615737001668146
-- wrist: 0.2848379655033739
-- collinear: 0.17585599520477743
-- stage: 0.1751391729817643
-- volarly: 0.16803979169009914
-- tilted: 0.15467790352625563
-- pie: 0.15170632086387165
-- midcarpal: 0.15170632086387165
-- overlap: 0.14483065167640632
-- injury: 0.14341576419223995
-- radiograph: 0.14324248632940875
-- foosh: 0.1397730216977751
-- dislocated: 0.13460166200996793
-- capitate: 0.13349981184773382
-- styloid: 0.13245755100587395
-- entities: 0.13146876351256281
-- shows: 0.1290784311542674
-- outstretched: 0.11960975010232879
-- ttp: 0.11196800144155415
-- nearly: 0.10965857816366192
-- radius: 0.10965857816366192
-- remaining: 0.1045055166545337
-- ulnar: 0.1045055166545337
-- rom: 0.10403531944687087
-- fixation: 0.10268985748518536
-- visible: 0.09692878367019749
-- iii: 0.09494598850112464
-- shaped: 0.0918711536915663
-- fall: 0.09162558183824529
-- the: 0.08776702037070971
-- there: 0.0875084795526529
-- with: 0.08612911768642485
-- hand: 0.08595827451566886
-- repair: 0.08506977025996348
-- radiographic: 0.08158410033728114
-- iv: 0.07857115042771162
-- left: 0.07502207530658171
-- often: 0.0717513480216174
-- frontal: 0.07077561944025935
-- decreased: 0.06811381190771461
-- on: 0.06642188746485275
-- appearance: 0.06629289035291354
-- following: 0.06596780457488065
-- two: 0.0653024637175759
-- of: 0.0645582647170336
-- fracture: 0.06249619758632142
-- these: 0.062096519210232785
-- both: 0.06132119501415318
-- is: 0.060228646837281
-- associated: 0.05795914891475916
-- lateral: 0.05457260031315386
-- surgical: 0.053445975530120114
-- images: 0.05086556110652295
-- male: 0.04896009712294373
-- be: 0.044607902280189966
-- an: 0.04204977360998979
-- pain: 0.03934908098560704
-- to: 0.027490724589731775
-- and: 0.022722665211627247
+\-\ Texto\\:\\ \ \(0\)\
+\-\ ttp\\ left\\ wrist\\ with\\ decreased\\ rom\\.\ \(0\)\
+\-\ surgical\\ repair\\ \\(k\\-wire\\ fixation\\)\\.\ \(0\)\
+\-\ frontal\\ radiograph\\ of\\ the\\ wrist\\ shows\\ a\\ \\"pie\\ shaped\\"\\ lunate\\.\\ \\ lateral\\ radiograph\\ shows\\ the\\ lunate\\ to\\ be\\ tilted\\ and\\ dislocated\\ volarly\\,\\ with\\ the\\ capitate\\ remaining\\ nearly\\ collinear\\ with\\ the\\ radius\\.\\ \\ there\\ is\\ an\\ associated\\ ulnar\\ styloid\\ fracture\\ visible\\ on\\ both\\ images\\.\ \(0\)\
+\-\ lunate\\ dislocation\ \(20\)\
+\-\ lunate\\ dislocation\\ \\(stage\\ iv\\ injury\\)\ \(0\)\
+\-\ midcarpal\\ dislocation\\ \\(stage\\ iii\\ injury\\)\ \(0\)\
+\-\ \\(there\\ is\\ often\\ overlap\\ of\\ radiographic\\ appearance\\ of\\ these\\ two\\ entities\\.\\)\ \(0\)\
+\-\ 23\\-year\\-old\\ male\\ with\\ left\\ wrist\\ pain\\ following\\ fall\\ on\\ outstretched\\ hand\\ \\(foosh\\)\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ lunate\\:\\ 0\\.4724275013948772\ \(0\)\
+\-\ dislocation\\:\\ 0\\.28615737001668146\ \(0\)\
+\-\ wrist\\:\\ 0\\.2848379655033739\ \(0\)\
+\-\ collinear\\:\\ 0\\.17585599520477743\ \(0\)\
+\-\ stage\\:\\ 0\\.1751391729817643\ \(0\)\
+\-\ volarly\\:\\ 0\\.16803979169009914\ \(0\)\
+\-\ tilted\\:\\ 0\\.15467790352625563\ \(0\)\
+\-\ pie\\:\\ 0\\.15170632086387165\ \(0\)\
+\-\ midcarpal\\:\\ 0\\.15170632086387165\ \(0\)\
+\-\ overlap\\:\\ 0\\.14483065167640632\ \(0\)\
+\-\ injury\\:\\ 0\\.14341576419223995\ \(0\)\
+\-\ radiograph\\:\\ 0\\.14324248632940875\ \(0\)\
+\-\ foosh\\:\\ 0\\.1397730216977751\ \(0\)\
+\-\ dislocated\\:\\ 0\\.13460166200996793\ \(0\)\
+\-\ capitate\\:\\ 0\\.13349981184773382\ \(0\)\
+\-\ styloid\\:\\ 0\\.13245755100587395\ \(0\)\
+\-\ entities\\:\\ 0\\.13146876351256281\ \(0\)\
+\-\ shows\\:\\ 0\\.1290784311542674\ \(0\)\
+\-\ outstretched\\:\\ 0\\.11960975010232879\ \(0\)\
+\-\ ttp\\:\\ 0\\.11196800144155415\ \(0\)\
+\-\ nearly\\:\\ 0\\.10965857816366192\ \(0\)\
+\-\ radius\\:\\ 0\\.10965857816366192\ \(0\)\
+\-\ remaining\\:\\ 0\\.1045055166545337\ \(0\)\
+\-\ ulnar\\:\\ 0\\.1045055166545337\ \(0\)\
+\-\ rom\\:\\ 0\\.10403531944687087\ \(0\)\
+\-\ fixation\\:\\ 0\\.10268985748518536\ \(0\)\
+\-\ visible\\:\\ 0\\.09692878367019749\ \(0\)\
+\-\ iii\\:\\ 0\\.09494598850112464\ \(0\)\
+\-\ shaped\\:\\ 0\\.0918711536915663\ \(0\)\
+\-\ fall\\:\\ 0\\.09162558183824529\ \(0\)\
+\-\ the\\:\\ 0\\.08776702037070971\ \(0\)\
+\-\ there\\:\\ 0\\.0875084795526529\ \(0\)\
+\-\ with\\:\\ 0\\.08612911768642485\ \(0\)\
+\-\ hand\\:\\ 0\\.08595827451566886\ \(0\)\
+\-\ repair\\:\\ 0\\.08506977025996348\ \(0\)\
+\-\ radiographic\\:\\ 0\\.08158410033728114\ \(0\)\
+\-\ iv\\:\\ 0\\.07857115042771162\ \(0\)\
+\-\ left\\:\\ 0\\.07502207530658171\ \(0\)\
+\-\ often\\:\\ 0\\.0717513480216174\ \(0\)\
+\-\ frontal\\:\\ 0\\.07077561944025935\ \(0\)\
+\-\ decreased\\:\\ 0\\.06811381190771461\ \(0\)\
+\-\ on\\:\\ 0\\.06642188746485275\ \(0\)\
+\-\ appearance\\:\\ 0\\.06629289035291354\ \(0\)\
+\-\ following\\:\\ 0\\.06596780457488065\ \(0\)\
+\-\ two\\:\\ 0\\.0653024637175759\ \(0\)\
+\-\ of\\:\\ 0\\.0645582647170336\ \(0\)\
+\-\ fracture\\:\\ 0\\.06249619758632142\ \(0\)\
+\-\ these\\:\\ 0\\.062096519210232785\ \(0\)\
+\-\ both\\:\\ 0\\.06132119501415318\ \(0\)\
+\-\ is\\:\\ 0\\.060228646837281\ \(0\)\
+\-\ associated\\:\\ 0\\.05795914891475916\ \(0\)\
+\-\ lateral\\:\\ 0\\.05457260031315386\ \(0\)\
+\-\ surgical\\:\\ 0\\.053445975530120114\ \(0\)\
+\-\ images\\:\\ 0\\.05086556110652295\ \(0\)\
+\-\ male\\:\\ 0\\.04896009712294373\ \(0\)\
+\-\ be\\:\\ 0\\.044607902280189966\ \(0\)\
+\-\ an\\:\\ 0\\.04204977360998979\ \(0\)\
+\-\ pain\\:\\ 0\\.03934908098560704\ \(0\)\
+\-\ to\\:\\ 0\\.027490724589731775\ \(0\)\
+\-\ and\\:\\ 0\\.022722665211627247\ \(0\)\

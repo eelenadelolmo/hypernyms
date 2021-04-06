@@ -1,70 +1,68 @@
-Texto: 
-tender to palpation in the right adnexa.
-appendectomy
-endovaginal pelvic sonogram demonstrates a normal uterus and ovaries with an abnormal blind-ending, fluid-filled tubular structure in the right adnexa with peripheral hyperemia.  the patient was tender in this region on sonography.
-followup ct with enteric and intravenous contrast confirms an enlarged, thick-walled appendix with peripheral enhancement and surrounding inflammatory change.  the appendix was low in the pelvis extending into the right adnexal region.
-acute appendicitis
-acute appendicitis
-pelvic inflammatory disease with fallopian tube involvement
-right adnexal pain.  history of pelvic inflammatory disease six months prior.
-
-
-Keywords by value: 
-- pelvic: 0.28549134559591594
-- adnexa: 0.2723901308750641
-- inflammatory: 0.24695881451667545
-- adnexal: 0.24280443205322882
-- appendix: 0.2195124789414079
-- appendicitis: 0.2065408629130785
-- tender: 0.17799808503921555
-- peripheral: 0.1741085667519336
-- right: 0.161447498771037
-- endovaginal: 0.15830689442734025
-- the: 0.14574934691139377
-- region: 0.14563883060653038
-- sonogram: 0.1445068552090928
-- hyperemia: 0.14256537459230142
-- ovaries: 0.1342236737149534
-- acute: 0.13171346130434713
-- sonography: 0.12921182802913078
-- appendectomy: 0.128721195605505
-- fallopian: 0.1282415895683222
-- enteric: 0.1277725251813838
-- in: 0.12113992697664015
-- with: 0.11919115137467182
-- confirms: 0.1176262368473441
-- intravenous: 0.11098782559881894
-- six: 0.10936101390745052
-- followup: 0.10748774452087449
-- uterus: 0.10678217379861414
-- tubular: 0.10576571643401131
-- structure: 0.1040193353317294
-- disease: 0.10220432419088085
-- tube: 0.09727853734858354
-- an: 0.09310599836615166
-- change: 0.09225118743361138
-- involvement: 0.0881127599911702
-- pelvis: 0.085145753467573
-- was: 0.08485524858680125
-- enlarged: 0.08299183586214649
-- extending: 0.0825413374359142
-- palpation: 0.08210015230896364
-- surrounding: 0.08119186329799866
-- and: 0.07546829323115914
-- abnormal: 0.07313981187022689
-- months: 0.07086257772352741
-- enhancement: 0.0700714726752762
-- low: 0.06985511891302237
-- prior: 0.06811379044792443
-- into: 0.06471493251276812
-- demonstrates: 0.061160894008978506
-- contrast: 0.059151020828092815
-- normal: 0.04970565968729246
-- history: 0.046511759420512326
-- ct: 0.046347592684195006
-- pain: 0.04356308197917535
-- this: 0.04183208496152844
-- patient: 0.03959593758836283
-- on: 0.036767594774339565
-- to: 0.030434781676539367
-- of: 0.023823995443333912
+\-\ Texto\\:\\ \ \(0\)\
+\-\ tender\\ to\\ palpation\\ in\\ the\\ right\\ adnexa\\.\ \(0\)\
+\-\ appendectomy\ \(38\)\
+\-\ endovaginal\\ pelvic\\ sonogram\\ demonstrates\\ a\\ normal\\ uterus\\ and\\ ovaries\\ with\\ an\\ abnormal\\ blind\\-ending\\,\\ fluid\\-filled\\ tubular\\ structure\\ in\\ the\\ right\\ adnexa\\ with\\ peripheral\\ hyperemia\\.\\ \\ the\\ patient\\ was\\ tender\\ in\\ this\\ region\\ on\\ sonography\\.\ \(0\)\
+\-\ followup\\ ct\\ with\\ enteric\\ and\\ intravenous\\ contrast\\ confirms\\ an\\ enlarged\\,\\ thick\\-walled\\ appendix\\ with\\ peripheral\\ enhancement\\ and\\ surrounding\\ inflammatory\\ change\\.\\ \\ the\\ appendix\\ was\\ low\\ in\\ the\\ pelvis\\ extending\\ into\\ the\\ right\\ adnexal\\ region\\.\ \(0\)\
+\-\ acute\\ appendicitis\ \(36\)\
+\-\ acute\\ appendicitis\ \(36\)\
+\-\ pelvic\\ inflammatory\\ disease\\ with\\ fallopian\\ tube\\ involvement\ \(0\)\
+\-\ right\\ adnexal\\ pain\\.\\ \\ history\\ of\\ pelvic\\ inflammatory\\ disease\\ six\\ months\\ prior\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ pelvic\\:\\ 0\\.28549134559591594\ \(0\)\
+\-\ adnexa\\:\\ 0\\.2723901308750641\ \(0\)\
+\-\ inflammatory\\:\\ 0\\.24695881451667545\ \(0\)\
+\-\ adnexal\\:\\ 0\\.24280443205322882\ \(0\)\
+\-\ appendix\\:\\ 0\\.2195124789414079\ \(0\)\
+\-\ appendicitis\\:\\ 0\\.2065408629130785\ \(0\)\
+\-\ tender\\:\\ 0\\.17799808503921555\ \(0\)\
+\-\ peripheral\\:\\ 0\\.1741085667519336\ \(0\)\
+\-\ right\\:\\ 0\\.161447498771037\ \(0\)\
+\-\ endovaginal\\:\\ 0\\.15830689442734025\ \(0\)\
+\-\ the\\:\\ 0\\.14574934691139377\ \(0\)\
+\-\ region\\:\\ 0\\.14563883060653038\ \(0\)\
+\-\ sonogram\\:\\ 0\\.1445068552090928\ \(0\)\
+\-\ hyperemia\\:\\ 0\\.14256537459230142\ \(0\)\
+\-\ ovaries\\:\\ 0\\.1342236737149534\ \(0\)\
+\-\ acute\\:\\ 0\\.13171346130434713\ \(0\)\
+\-\ sonography\\:\\ 0\\.12921182802913078\ \(0\)\
+\-\ appendectomy\\:\\ 0\\.128721195605505\ \(0\)\
+\-\ fallopian\\:\\ 0\\.1282415895683222\ \(0\)\
+\-\ enteric\\:\\ 0\\.1277725251813838\ \(0\)\
+\-\ in\\:\\ 0\\.12113992697664015\ \(0\)\
+\-\ with\\:\\ 0\\.11919115137467182\ \(0\)\
+\-\ confirms\\:\\ 0\\.1176262368473441\ \(0\)\
+\-\ intravenous\\:\\ 0\\.11098782559881894\ \(0\)\
+\-\ six\\:\\ 0\\.10936101390745052\ \(0\)\
+\-\ followup\\:\\ 0\\.10748774452087449\ \(0\)\
+\-\ uterus\\:\\ 0\\.10678217379861414\ \(0\)\
+\-\ tubular\\:\\ 0\\.10576571643401131\ \(0\)\
+\-\ structure\\:\\ 0\\.1040193353317294\ \(0\)\
+\-\ disease\\:\\ 0\\.10220432419088085\ \(0\)\
+\-\ tube\\:\\ 0\\.09727853734858354\ \(0\)\
+\-\ an\\:\\ 0\\.09310599836615166\ \(0\)\
+\-\ change\\:\\ 0\\.09225118743361138\ \(0\)\
+\-\ involvement\\:\\ 0\\.0881127599911702\ \(0\)\
+\-\ pelvis\\:\\ 0\\.085145753467573\ \(0\)\
+\-\ was\\:\\ 0\\.08485524858680125\ \(0\)\
+\-\ enlarged\\:\\ 0\\.08299183586214649\ \(0\)\
+\-\ extending\\:\\ 0\\.0825413374359142\ \(0\)\
+\-\ palpation\\:\\ 0\\.08210015230896364\ \(0\)\
+\-\ surrounding\\:\\ 0\\.08119186329799866\ \(0\)\
+\-\ and\\:\\ 0\\.07546829323115914\ \(0\)\
+\-\ abnormal\\:\\ 0\\.07313981187022689\ \(0\)\
+\-\ months\\:\\ 0\\.07086257772352741\ \(0\)\
+\-\ enhancement\\:\\ 0\\.0700714726752762\ \(0\)\
+\-\ low\\:\\ 0\\.06985511891302237\ \(0\)\
+\-\ prior\\:\\ 0\\.06811379044792443\ \(0\)\
+\-\ into\\:\\ 0\\.06471493251276812\ \(0\)\
+\-\ demonstrates\\:\\ 0\\.061160894008978506\ \(0\)\
+\-\ contrast\\:\\ 0\\.059151020828092815\ \(0\)\
+\-\ normal\\:\\ 0\\.04970565968729246\ \(0\)\
+\-\ history\\:\\ 0\\.046511759420512326\ \(0\)\
+\-\ ct\\:\\ 0\\.046347592684195006\ \(0\)\
+\-\ pain\\:\\ 0\\.04356308197917535\ \(0\)\
+\-\ this\\:\\ 0\\.04183208496152844\ \(0\)\
+\-\ patient\\:\\ 0\\.03959593758836283\ \(0\)\
+\-\ on\\:\\ 0\\.036767594774339565\ \(0\)\
+\-\ to\\:\\ 0\\.030434781676539367\ \(0\)\
+\-\ of\\:\\ 0\\.023823995443333912\ \(0\)\

@@ -1,67 +1,64 @@
-Texto: 
-wbc 12,500
-febrile
-cough (productive)
-antibiotics
-pa and lateral chest radiographs demonstrate peripheral opacities and subtle air bronchograms within the right lower lung consistent with pneumonia.
-
-pa and lateral chest radiographs 7 days later demonstrate decreased peripheral opacities within the right lower lung consistent with partially resolved pneumonia.
-pneumonia
-infection
-foreign body 
-mucous plugging
-14 year old presents 2 weeks following viral illness with continued fevers above 103 degrees, productive cough, and malaise.
-see factoid
-
-
-Keywords by value: 
-- pneumonia: 0.31989116127051664
-- productive: 0.29139680680771807
-- opacities: 0.2579622375801659
-- pa: 0.20734610131223705
-- cough: 0.20172152137323127
-- peripheral: 0.19320786713197524
-- radiographs: 0.17524123889230092
-- plugging: 0.16536328532066594
-- lung: 0.1643593156129828
-- bronchograms: 0.16272916301909351
-- malaise: 0.14965469360210276
-- 103: 0.14894769511274672
-- consistent: 0.14650287791078592
-- chest: 0.1426196401510286
-- demonstrate: 0.14046396368652697
-- mucous: 0.13934519041390855
-- febrile: 0.13888531789477795
-- lower: 0.13806706235446803
-- illness: 0.13589434267494038
-- lateral: 0.13408904974154676
-- degrees: 0.12615841401426153
-- viral: 0.12461334292116799
-- within: 0.12444089133630588
-- foreign: 0.12246972768685874
-- resolved: 0.1213576599855282
-- fevers: 0.1192788973519833
-- subtle: 0.11646737578956623
-- partially: 0.1159430143561854
-- and: 0.11166265006023554
-- continued: 0.11069297320557876
-- 14: 0.10086076068661563
-- antibiotics: 0.09952742414826617
-- above: 0.09745955895985099
-- later: 0.09668045282669575
-- wbc: 0.09548485811476537
-- factoid: 0.09434673206796379
-- right: 0.08957895488217796
-- body: 0.08890979159999048
-- air: 0.0883640833407684
-- days: 0.08552077859741986
-- see: 0.08403722887976961
-- decreased: 0.0836804207658258
-- infection: 0.0816050062714823
-- following: 0.08104396875193177
-- weeks: 0.0809648945863626
-- with: 0.07935968425120238
-- presents: 0.06498751637027797
-- the: 0.053912569185927205
-- year: 0.041633521858445516
-- old: 0.039982592785350546
+\-\ Texto\\:\\ \ \(0\)\
+\-\ wbc\\ 12\\,500\ \(0\)\
+\-\ febrile\ \(177\)\
+\-\ cough\\ \\(productive\\)\ \(0\)\
+\-\ antibiotics\ \(283\)\
+\-\ pa\\ and\\ lateral\\ chest\\ radiographs\\ demonstrate\\ peripheral\\ opacities\\ and\\ subtle\\ air\\ bronchograms\\ within\\ the\\ right\\ lower\\ lung\\ consistent\\ with\\ pneumonia\\.\ \(0\)\
+\-\ pa\\ and\\ lateral\\ chest\\ radiographs\\ 7\\ days\\ later\\ demonstrate\\ decreased\\ peripheral\\ opacities\\ within\\ the\\ right\\ lower\\ lung\\ consistent\\ with\\ partially\\ resolved\\ pneumonia\\.\ \(0\)\
+\-\ pneumonia\ \(272\)\
+\-\ infection\ \(713\)\
+\-\ foreign\\ body\\ \ \(48\)\
+\-\ mucous\\ plugging\ \(9\)\
+\-\ 14\\ year\\ old\\ presents\\ 2\\ weeks\\ following\\ viral\\ illness\\ with\\ continued\\ fevers\\ above\\ 103\\ degrees\\,\\ productive\\ cough\\,\\ and\\ malaise\\.\ \(1\)\
+\-\ see\\ factoid\ \(116\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ pneumonia\\:\\ 0\\.31989116127051664\ \(0\)\
+\-\ productive\\:\\ 0\\.29139680680771807\ \(0\)\
+\-\ opacities\\:\\ 0\\.2579622375801659\ \(0\)\
+\-\ pa\\:\\ 0\\.20734610131223705\ \(0\)\
+\-\ cough\\:\\ 0\\.20172152137323127\ \(0\)\
+\-\ peripheral\\:\\ 0\\.19320786713197524\ \(0\)\
+\-\ radiographs\\:\\ 0\\.17524123889230092\ \(0\)\
+\-\ plugging\\:\\ 0\\.16536328532066594\ \(0\)\
+\-\ lung\\:\\ 0\\.1643593156129828\ \(0\)\
+\-\ bronchograms\\:\\ 0\\.16272916301909351\ \(0\)\
+\-\ malaise\\:\\ 0\\.14965469360210276\ \(0\)\
+\-\ 103\\:\\ 0\\.14894769511274672\ \(0\)\
+\-\ consistent\\:\\ 0\\.14650287791078592\ \(0\)\
+\-\ chest\\:\\ 0\\.1426196401510286\ \(0\)\
+\-\ demonstrate\\:\\ 0\\.14046396368652697\ \(0\)\
+\-\ mucous\\:\\ 0\\.13934519041390855\ \(0\)\
+\-\ febrile\\:\\ 0\\.13888531789477795\ \(0\)\
+\-\ lower\\:\\ 0\\.13806706235446803\ \(0\)\
+\-\ illness\\:\\ 0\\.13589434267494038\ \(0\)\
+\-\ lateral\\:\\ 0\\.13408904974154676\ \(0\)\
+\-\ degrees\\:\\ 0\\.12615841401426153\ \(0\)\
+\-\ viral\\:\\ 0\\.12461334292116799\ \(0\)\
+\-\ within\\:\\ 0\\.12444089133630588\ \(0\)\
+\-\ foreign\\:\\ 0\\.12246972768685874\ \(0\)\
+\-\ resolved\\:\\ 0\\.1213576599855282\ \(0\)\
+\-\ fevers\\:\\ 0\\.1192788973519833\ \(0\)\
+\-\ subtle\\:\\ 0\\.11646737578956623\ \(0\)\
+\-\ partially\\:\\ 0\\.1159430143561854\ \(0\)\
+\-\ and\\:\\ 0\\.11166265006023554\ \(0\)\
+\-\ continued\\:\\ 0\\.11069297320557876\ \(0\)\
+\-\ 14\\:\\ 0\\.10086076068661563\ \(0\)\
+\-\ antibiotics\\:\\ 0\\.09952742414826617\ \(0\)\
+\-\ above\\:\\ 0\\.09745955895985099\ \(0\)\
+\-\ later\\:\\ 0\\.09668045282669575\ \(0\)\
+\-\ wbc\\:\\ 0\\.09548485811476537\ \(0\)\
+\-\ factoid\\:\\ 0\\.09434673206796379\ \(0\)\
+\-\ right\\:\\ 0\\.08957895488217796\ \(0\)\
+\-\ body\\:\\ 0\\.08890979159999048\ \(0\)\
+\-\ air\\:\\ 0\\.0883640833407684\ \(0\)\
+\-\ days\\:\\ 0\\.08552077859741986\ \(0\)\
+\-\ see\\:\\ 0\\.08403722887976961\ \(0\)\
+\-\ decreased\\:\\ 0\\.0836804207658258\ \(0\)\
+\-\ infection\\:\\ 0\\.0816050062714823\ \(0\)\
+\-\ following\\:\\ 0\\.08104396875193177\ \(0\)\
+\-\ weeks\\:\\ 0\\.0809648945863626\ \(0\)\
+\-\ with\\:\\ 0\\.07935968425120238\ \(0\)\
+\-\ presents\\:\\ 0\\.06498751637027797\ \(0\)\
+\-\ the\\:\\ 0\\.053912569185927205\ \(0\)\
+\-\ year\\:\\ 0\\.041633521858445516\ \(0\)\
+\-\ old\\:\\ 0\\.039982592785350546\ \(0\)\

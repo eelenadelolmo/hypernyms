@@ -1,35 +1,33 @@
-Texto: 
-normal examination
-none required
-expansile lesion of the occipital bone and mastoid portion of the left temporal bone
-fibrous dysplasia
-blastic metastatic disease 
-pagets disease
-lymphomai
-headache
-
-
-Keywords by value: 
-- lymphomai: 0.32650068236912955
-- pagets: 0.24512199431963994
-- blastic: 0.24121975299897971
-- mastoid: 0.18235918984651375
-- bone: 0.15729145788591628
-- expansile: 0.1552053929882306
-- occipital: 0.1476742476542295
-- fibrous: 0.12793430586137305
-- temporal: 0.12673669917089395
-- dysplasia: 0.12492965605350757
-- portion: 0.11463728323552172
-- required: 0.11391575969582458
-- headache: 0.10870316435428881
-- disease: 0.10346204009005215
-- examination: 0.09838603835090982
-- metastatic: 0.07967071865244778
-- none: 0.07850812988548173
-- lesion: 0.06446500837038721
-- normal: 0.049615276096263
-- left: 0.03541130626936721
-- the: 0.010240687755824133
-- of: 0.008629911170221365
-- and: 0.006667000212304387
+\-\ Texto\\:\\ \ \(0\)\
+\-\ normal\\ examination\ \(1\)\
+\-\ none\\ required\ \(5\)\
+\-\ expansile\\ lesion\\ of\\ the\\ occipital\\ bone\\ and\\ mastoid\\ portion\\ of\\ the\\ left\\ temporal\\ bone\ \(0\)\
+\-\ fibrous\\ dysplasia\ \(50\)\
+\-\ blastic\\ metastatic\\ disease\\ \ \(1\)\
+\-\ pagets\\ disease\ \(0\)\
+\-\ lymphomai\ \(0\)\
+\-\ headache\ \(722\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ lymphomai\\:\\ 0\\.32650068236912955\ \(0\)\
+\-\ pagets\\:\\ 0\\.24512199431963994\ \(0\)\
+\-\ blastic\\:\\ 0\\.24121975299897971\ \(0\)\
+\-\ mastoid\\:\\ 0\\.18235918984651375\ \(0\)\
+\-\ bone\\:\\ 0\\.15729145788591628\ \(0\)\
+\-\ expansile\\:\\ 0\\.1552053929882306\ \(0\)\
+\-\ occipital\\:\\ 0\\.1476742476542295\ \(0\)\
+\-\ fibrous\\:\\ 0\\.12793430586137305\ \(0\)\
+\-\ temporal\\:\\ 0\\.12673669917089395\ \(0\)\
+\-\ dysplasia\\:\\ 0\\.12492965605350757\ \(0\)\
+\-\ portion\\:\\ 0\\.11463728323552172\ \(0\)\
+\-\ required\\:\\ 0\\.11391575969582458\ \(0\)\
+\-\ headache\\:\\ 0\\.10870316435428881\ \(0\)\
+\-\ disease\\:\\ 0\\.10346204009005215\ \(0\)\
+\-\ examination\\:\\ 0\\.09838603835090982\ \(0\)\
+\-\ metastatic\\:\\ 0\\.07967071865244778\ \(0\)\
+\-\ none\\:\\ 0\\.07850812988548173\ \(0\)\
+\-\ lesion\\:\\ 0\\.06446500837038721\ \(0\)\
+\-\ normal\\:\\ 0\\.049615276096263\ \(0\)\
+\-\ left\\:\\ 0\\.03541130626936721\ \(0\)\
+\-\ the\\:\\ 0\\.010240687755824133\ \(0\)\
+\-\ of\\:\\ 0\\.008629911170221365\ \(0\)\
+\-\ and\\:\\ 0\\.006667000212304387\ \(0\)\

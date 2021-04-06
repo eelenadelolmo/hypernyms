@@ -1,56 +1,54 @@
-Texto: 
-non-contributory
-surgery  with radiation therapy and/or chemotherapy pending.
-â€¢ left parieto-occipital mass with both fluid "cystic" and solid components.  
-â€¢ there is enhancement of both the cyst walls and solid portions of the mass.
-oligodendroglioma, malignant
-â€¢ pleomorphic xanthoastrocytoma
-â€¢ juvenile pilocytic astrocyoma
-â€¢ ependymoma (extraventricular)
-â€¢ ganglioglioma
-11 year old boy, with a psychiatric history, presents with first time seizure.
-
-
-Keywords by value: 
-- astrocyoma: 0.28201421348179034
-- solid: 0.2703898610124205
-- extraventricular: 0.2391582121635527
-- psychiatric: 0.21972535988310468
-- xanthoastrocytoma: 0.20932363351054678
-- both: 0.19667738437398563
-- oligodendroglioma: 0.18508332490583584
-- ganglioglioma: 0.18508332490583584
-- pleomorphic: 0.17845504307281948
-- juvenile: 0.17345805096950642
-- pilocytic: 0.16915750801634183
-- portions: 0.16759190410038294
-- walls: 0.16538281666519727
-- components: 0.1601638764372288
-- ependymoma: 0.14895804267032559
-- seizure: 0.14674175335501716
-- pending: 0.1450396315331903
-- with: 0.1381223048661681
-- mass: 0.13471824514418407
-- 11: 0.13201820886795856
-- malignant: 0.12570507526651867
-- chemotherapy: 0.12521669117099232
-- boy: 0.1206317665817715
-- first: 0.11900433450462905
-- radiation: 0.11686091691949567
-- and: 0.10931867094559555
-- cystic: 0.10620665759503109
-- time: 0.10452419079365254
-- fluid: 0.10181777895944377
-- cyst: 0.1017269886730798
-- enhancement: 0.10150117269246949
-- therapy: 0.1013217000822236
-- surgery: 0.09481058713917502
-- presents: 0.08483109811945816
-- the: 0.0703744765444697
-- there: 0.07016717003390027
-- of: 0.06901991305148232
-- history: 0.06737403889097593
-- left: 0.06015516143399162
-- year: 0.05434608945061445
-- old: 0.052191058238311695
-- is: 0.04829330511908213
+\-\ Texto\\:\\ \ \(0\)\
+\-\ non\\-contributory\ \(73\)\
+\-\ surgery\\ \\ with\\ radiation\\ therapy\\ and\\/or\\ chemotherapy\\ pending\\.\ \(0\)\
+\-\ \\â\\€\\¢\\ left\\ parieto\\-occipital\\ mass\\ with\\ both\\ fluid\\ \\"cystic\\"\\ and\\ solid\\ components\\.\\ \\ \ \(0\)\
+\-\ \\â\\€\\¢\\ there\\ is\\ enhancement\\ of\\ both\\ the\\ cyst\\ walls\\ and\\ solid\\ portions\\ of\\ the\\ mass\\.\ \(0\)\
+\-\ oligodendroglioma\\,\\ malignant\ \(0\)\
+\-\ \\â\\€\\¢\\ pleomorphic\\ xanthoastrocytoma\ \(0\)\
+\-\ \\â\\€\\¢\\ juvenile\\ pilocytic\\ astrocyoma\ \(0\)\
+\-\ \\â\\€\\¢\\ ependymoma\\ \\(extraventricular\\)\ \(0\)\
+\-\ \\â\\€\\¢\\ ganglioglioma\ \(1\)\
+\-\ 11\\ year\\ old\\ boy\\,\\ with\\ a\\ psychiatric\\ history\\,\\ presents\\ with\\ first\\ time\\ seizure\\.\ \(1\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ astrocyoma\\:\\ 0\\.28201421348179034\ \(0\)\
+\-\ solid\\:\\ 0\\.2703898610124205\ \(0\)\
+\-\ extraventricular\\:\\ 0\\.2391582121635527\ \(0\)\
+\-\ psychiatric\\:\\ 0\\.21972535988310468\ \(0\)\
+\-\ xanthoastrocytoma\\:\\ 0\\.20932363351054678\ \(0\)\
+\-\ both\\:\\ 0\\.19667738437398563\ \(0\)\
+\-\ oligodendroglioma\\:\\ 0\\.18508332490583584\ \(0\)\
+\-\ ganglioglioma\\:\\ 0\\.18508332490583584\ \(0\)\
+\-\ pleomorphic\\:\\ 0\\.17845504307281948\ \(0\)\
+\-\ juvenile\\:\\ 0\\.17345805096950642\ \(0\)\
+\-\ pilocytic\\:\\ 0\\.16915750801634183\ \(0\)\
+\-\ portions\\:\\ 0\\.16759190410038294\ \(0\)\
+\-\ walls\\:\\ 0\\.16538281666519727\ \(0\)\
+\-\ components\\:\\ 0\\.1601638764372288\ \(0\)\
+\-\ ependymoma\\:\\ 0\\.14895804267032559\ \(0\)\
+\-\ seizure\\:\\ 0\\.14674175335501716\ \(0\)\
+\-\ pending\\:\\ 0\\.1450396315331903\ \(0\)\
+\-\ with\\:\\ 0\\.1381223048661681\ \(0\)\
+\-\ mass\\:\\ 0\\.13471824514418407\ \(0\)\
+\-\ 11\\:\\ 0\\.13201820886795856\ \(0\)\
+\-\ malignant\\:\\ 0\\.12570507526651867\ \(0\)\
+\-\ chemotherapy\\:\\ 0\\.12521669117099232\ \(0\)\
+\-\ boy\\:\\ 0\\.1206317665817715\ \(0\)\
+\-\ first\\:\\ 0\\.11900433450462905\ \(0\)\
+\-\ radiation\\:\\ 0\\.11686091691949567\ \(0\)\
+\-\ and\\:\\ 0\\.10931867094559555\ \(0\)\
+\-\ cystic\\:\\ 0\\.10620665759503109\ \(0\)\
+\-\ time\\:\\ 0\\.10452419079365254\ \(0\)\
+\-\ fluid\\:\\ 0\\.10181777895944377\ \(0\)\
+\-\ cyst\\:\\ 0\\.1017269886730798\ \(0\)\
+\-\ enhancement\\:\\ 0\\.10150117269246949\ \(0\)\
+\-\ therapy\\:\\ 0\\.1013217000822236\ \(0\)\
+\-\ surgery\\:\\ 0\\.09481058713917502\ \(0\)\
+\-\ presents\\:\\ 0\\.08483109811945816\ \(0\)\
+\-\ the\\:\\ 0\\.0703744765444697\ \(0\)\
+\-\ there\\:\\ 0\\.07016717003390027\ \(0\)\
+\-\ of\\:\\ 0\\.06901991305148232\ \(0\)\
+\-\ history\\:\\ 0\\.06737403889097593\ \(0\)\
+\-\ left\\:\\ 0\\.06015516143399162\ \(0\)\
+\-\ year\\:\\ 0\\.05434608945061445\ \(0\)\
+\-\ old\\:\\ 0\\.052191058238311695\ \(0\)\
+\-\ is\\:\\ 0\\.04829330511908213\ \(0\)\

@@ -1,98 +1,94 @@
-Texto: 
-mild mid to right upper abdominal tenderness.  no guarding.  laboratory values include mildly elevated amylase and lipase.
-transferred to larger institution for surgical management and follow up.
-ultrasound shows normal kidneys with incidental note of a cystic lesion near the head of the pancreas consistent with a choledochal cyst.
-  
-mri abdomen w/o contrast:  fusiform dilatation of the common bile duct with mild intrahepatic ductal dilatation
-
-ct abdomen/pelvis with contrast:  dilatation of the common bile duct  with mildly dilated intrahepatic ducts 
-
-choliangiogram:  cystic dilatation of the common bile duct. normal gallbladder.  mild intrahepatic ductal dilatation.  normal contrast seen in the duodenum.
-choledochal cyst, type iv
-differential diagnosis: hepatic cyst, biliary duct tumors,choledochal cyst, pancreatic pseudocyst, biliary obstruction, cholangiocarcinoma, gallbladder duplication
-cyclical vomiting and complaints of abdominal pain.
-
-
-Keywords by value: 
-- choledochal: 0.1365420989652702
-- dilatation: 0.12372387937394322
-- duct: 0.10588320605447532
-- intrahepatic: 0.10198639439286968
-- bile: 0.09257479422805012
-- cyst: 0.06206408475746224
-- choliangiogram: 0.059564313675449315
-- biliary: 0.05832038856265181
-- gallbladder: 0.05548632733316439
-- ductal: 0.054432792988979094
-- cyclical: 0.050197459884098704
-- mildly: 0.04918065799179283
-- mild: 0.04561324568779332
-- common: 0.04532974078289995
-- contrast: 0.03877248013799808
-- abdomen/pelvis: 0.03809097698390914
-- pseudocyst: 0.03729514566190655
-- cholangiocarcinoma: 0.03636169742892806
-- amylase: 0.03554169163835868
-- lipase: 0.035351347875070195
-- fusiform: 0.03498602881243319
-- cystic: 0.03330584739529403
-- ducts: 0.03313172580093481
-- w/o: 0.03261171876623124
-- duplication: 0.03248773809955424
-- institution: 0.031463752301397474
-- guarding: 0.031255835688784275
-- duodenum: 0.031255835688784275
-- transferred: 0.031054126478313456
-- :: 0.030547967999747707
-- pancreas: 0.02954639978024447
-- values: 0.02886637595740875
-- abdominal: 0.028863773488136693
-- pancreatic: 0.028248577268492316
-- larger: 0.027804311203878933
-- normal: 0.02715430651214394
-- kidneys: 0.02657240879310897
-- complaints: 0.025064682095039984
-- near: 0.024983274402363132
-- mid: 0.024147104114235513
-- hepatic: 0.024111448323013596
-- note: 0.02228422653717426
-- vomiting: 0.022044316480032976
-- incidental: 0.0218634364728397
-- management: 0.021787374617943524
-- tumors: 0.021687272686962845
-- laboratory: 0.021277646863878827
-- iv: 0.021070438766629014
-- dilated: 0.02098034734183533
-- obstruction: 0.020360811139117807
-- elevated: 0.019589975414588266
-- type: 0.019463677218560207
-- follow: 0.01834594237801645
-- differential: 0.018330809657790065
-- tenderness: 0.017560218397848874
-- ultrasound: 0.017129206655447995
-- abdomen: 0.01710394772226822
-- head: 0.016375684530904704
-- include: 0.016196983027231666
-- shows: 0.01587414661978972
-- up: 0.015525994263879888
-- consistent: 0.014157420735345969
-- upper: 0.013932976387626476
-- mri: 0.013265377398071756
-- diagnosis: 0.013258238721489323
-- ,: 0.01280385445014197
-- surgical: 0.012136633582780092
-- lesion: 0.011760508283786856
-- seen: 0.011409646047754664
-- ct: 0.008076376036432723
-- pain: 0.00705140653736983
-- right: 0.006092106142637951
-- no: 0.0058138118290797436
-- to: 0.005771190654634949
-- the: 0.0056047007312280735
-- a: 0.0053594567813324496
-- for: 0.004926406409748075
-- of: 0.004723127059377909
-- with: 0.003952843786820599
-- and: 0.0036488311972746987
-- in: 0.00284727858202875
-- .: 0.0023986173038747483
+\-\ Texto\\:\\ \ \(0\)\
+\-\ mild\\ mid\\ to\\ right\\ upper\\ abdominal\\ tenderness\\.\\ \\ no\\ guarding\\.\\ \\ laboratory\\ values\\ include\\ mildly\\ elevated\\ amylase\\ and\\ lipase\\.\ \(0\)\
+\-\ transferred\\ to\\ larger\\ institution\\ for\\ surgical\\ management\\ and\\ follow\\ up\\.\ \(0\)\
+\-\ ultrasound\\ shows\\ normal\\ kidneys\\ with\\ incidental\\ note\\ of\\ a\\ cystic\\ lesion\\ near\\ the\\ head\\ of\\ the\\ pancreas\\ consistent\\ with\\ a\\ choledochal\\ cyst\\.\ \(0\)\
+\-\ \\ \\ \ \(31891\)\
+\-\ mri\\ abdomen\\ w\\/o\\ contrast\\:\\ \\ fusiform\\ dilatation\\ of\\ the\\ common\\ bile\\ duct\\ with\\ mild\\ intrahepatic\\ ductal\\ dilatation\ \(0\)\
+\-\ ct\\ abdomen\\/pelvis\\ with\\ contrast\\:\\ \\ dilatation\\ of\\ the\\ common\\ bile\\ duct\\ \\ with\\ mildly\\ dilated\\ intrahepatic\\ ducts\\ \ \(0\)\
+\-\ choliangiogram\\:\\ \\ cystic\\ dilatation\\ of\\ the\\ common\\ bile\\ duct\\.\\ normal\\ gallbladder\\.\\ \\ mild\\ intrahepatic\\ ductal\\ dilatation\\.\\ \\ normal\\ contrast\\ seen\\ in\\ the\\ duodenum\\.\ \(0\)\
+\-\ choledochal\\ cyst\\,\\ type\\ iv\ \(0\)\
+\-\ differential\\ diagnosis\\:\\ hepatic\\ cyst\\,\\ biliary\\ duct\\ tumors\\,choledochal\\ cyst\\,\\ pancreatic\\ pseudocyst\\,\\ biliary\\ obstruction\\,\\ cholangiocarcinoma\\,\\ gallbladder\\ duplication\ \(0\)\
+\-\ cyclical\\ vomiting\\ and\\ complaints\\ of\\ abdominal\\ pain\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ choledochal\\:\\ 0\\.1365420989652702\ \(0\)\
+\-\ dilatation\\:\\ 0\\.12372387937394322\ \(0\)\
+\-\ duct\\:\\ 0\\.10588320605447532\ \(0\)\
+\-\ intrahepatic\\:\\ 0\\.10198639439286968\ \(0\)\
+\-\ bile\\:\\ 0\\.09257479422805012\ \(0\)\
+\-\ cyst\\:\\ 0\\.06206408475746224\ \(0\)\
+\-\ choliangiogram\\:\\ 0\\.059564313675449315\ \(0\)\
+\-\ biliary\\:\\ 0\\.05832038856265181\ \(0\)\
+\-\ gallbladder\\:\\ 0\\.05548632733316439\ \(0\)\
+\-\ ductal\\:\\ 0\\.054432792988979094\ \(0\)\
+\-\ cyclical\\:\\ 0\\.050197459884098704\ \(0\)\
+\-\ mildly\\:\\ 0\\.04918065799179283\ \(0\)\
+\-\ mild\\:\\ 0\\.04561324568779332\ \(0\)\
+\-\ common\\:\\ 0\\.04532974078289995\ \(0\)\
+\-\ contrast\\:\\ 0\\.03877248013799808\ \(0\)\
+\-\ abdomen\\/pelvis\\:\\ 0\\.03809097698390914\ \(0\)\
+\-\ pseudocyst\\:\\ 0\\.03729514566190655\ \(0\)\
+\-\ cholangiocarcinoma\\:\\ 0\\.03636169742892806\ \(0\)\
+\-\ amylase\\:\\ 0\\.03554169163835868\ \(0\)\
+\-\ lipase\\:\\ 0\\.035351347875070195\ \(0\)\
+\-\ fusiform\\:\\ 0\\.03498602881243319\ \(0\)\
+\-\ cystic\\:\\ 0\\.03330584739529403\ \(0\)\
+\-\ ducts\\:\\ 0\\.03313172580093481\ \(0\)\
+\-\ w\\/o\\:\\ 0\\.03261171876623124\ \(0\)\
+\-\ duplication\\:\\ 0\\.03248773809955424\ \(0\)\
+\-\ institution\\:\\ 0\\.031463752301397474\ \(0\)\
+\-\ guarding\\:\\ 0\\.031255835688784275\ \(0\)\
+\-\ duodenum\\:\\ 0\\.031255835688784275\ \(0\)\
+\-\ transferred\\:\\ 0\\.031054126478313456\ \(0\)\
+\-\ \\:\\:\\ 0\\.030547967999747707\ \(0\)\
+\-\ pancreas\\:\\ 0\\.02954639978024447\ \(0\)\
+\-\ values\\:\\ 0\\.02886637595740875\ \(0\)\
+\-\ abdominal\\:\\ 0\\.028863773488136693\ \(0\)\
+\-\ pancreatic\\:\\ 0\\.028248577268492316\ \(0\)\
+\-\ larger\\:\\ 0\\.027804311203878933\ \(0\)\
+\-\ normal\\:\\ 0\\.02715430651214394\ \(0\)\
+\-\ kidneys\\:\\ 0\\.02657240879310897\ \(0\)\
+\-\ complaints\\:\\ 0\\.025064682095039984\ \(0\)\
+\-\ near\\:\\ 0\\.024983274402363132\ \(0\)\
+\-\ mid\\:\\ 0\\.024147104114235513\ \(0\)\
+\-\ hepatic\\:\\ 0\\.024111448323013596\ \(0\)\
+\-\ note\\:\\ 0\\.02228422653717426\ \(0\)\
+\-\ vomiting\\:\\ 0\\.022044316480032976\ \(0\)\
+\-\ incidental\\:\\ 0\\.0218634364728397\ \(0\)\
+\-\ management\\:\\ 0\\.021787374617943524\ \(0\)\
+\-\ tumors\\:\\ 0\\.021687272686962845\ \(0\)\
+\-\ laboratory\\:\\ 0\\.021277646863878827\ \(0\)\
+\-\ iv\\:\\ 0\\.021070438766629014\ \(0\)\
+\-\ dilated\\:\\ 0\\.02098034734183533\ \(0\)\
+\-\ obstruction\\:\\ 0\\.020360811139117807\ \(0\)\
+\-\ elevated\\:\\ 0\\.019589975414588266\ \(0\)\
+\-\ type\\:\\ 0\\.019463677218560207\ \(0\)\
+\-\ follow\\:\\ 0\\.01834594237801645\ \(0\)\
+\-\ differential\\:\\ 0\\.018330809657790065\ \(0\)\
+\-\ tenderness\\:\\ 0\\.017560218397848874\ \(0\)\
+\-\ ultrasound\\:\\ 0\\.017129206655447995\ \(0\)\
+\-\ abdomen\\:\\ 0\\.01710394772226822\ \(0\)\
+\-\ head\\:\\ 0\\.016375684530904704\ \(0\)\
+\-\ include\\:\\ 0\\.016196983027231666\ \(0\)\
+\-\ shows\\:\\ 0\\.01587414661978972\ \(0\)\
+\-\ up\\:\\ 0\\.015525994263879888\ \(0\)\
+\-\ consistent\\:\\ 0\\.014157420735345969\ \(0\)\
+\-\ upper\\:\\ 0\\.013932976387626476\ \(0\)\
+\-\ mri\\:\\ 0\\.013265377398071756\ \(0\)\
+\-\ diagnosis\\:\\ 0\\.013258238721489323\ \(0\)\
+\-\ \\,\\:\\ 0\\.01280385445014197\ \(0\)\
+\-\ surgical\\:\\ 0\\.012136633582780092\ \(0\)\
+\-\ lesion\\:\\ 0\\.011760508283786856\ \(0\)\
+\-\ seen\\:\\ 0\\.011409646047754664\ \(0\)\
+\-\ ct\\:\\ 0\\.008076376036432723\ \(0\)\
+\-\ pain\\:\\ 0\\.00705140653736983\ \(0\)\
+\-\ right\\:\\ 0\\.006092106142637951\ \(0\)\
+\-\ no\\:\\ 0\\.0058138118290797436\ \(0\)\
+\-\ to\\:\\ 0\\.005771190654634949\ \(0\)\
+\-\ the\\:\\ 0\\.0056047007312280735\ \(0\)\
+\-\ a\\:\\ 0\\.0053594567813324496\ \(0\)\
+\-\ for\\:\\ 0\\.004926406409748075\ \(0\)\
+\-\ of\\:\\ 0\\.004723127059377909\ \(0\)\
+\-\ with\\:\\ 0\\.003952843786820599\ \(0\)\
+\-\ and\\:\\ 0\\.0036488311972746987\ \(0\)\
+\-\ in\\:\\ 0\\.00284727858202875\ \(0\)\
+\-\ \\.\\:\\ 0\\.0023986173038747483\ \(0\)\

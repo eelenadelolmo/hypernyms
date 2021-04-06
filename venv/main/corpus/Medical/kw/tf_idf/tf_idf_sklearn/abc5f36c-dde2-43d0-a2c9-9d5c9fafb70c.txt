@@ -1,60 +1,58 @@
-Texto: 
-well developed well nourished child.
-no laboratory results available.
-surgery.
-cardiomegaly with an enhancing heterogeneous mass in the anterior mediastinum containing internal calcifications that surrounds adjacent vascular structures. there is hepatomegaly without passive hepatic congestion.
-kaposiform hemangioendothelioma
-kaposiform hemangioendothelioma
-hemangioma
-lymphangioma
-teratoma
-venous malformation
-2 week old boy with anterior mediastinal mass
-
-
-Keywords by value: 
-- kaposiform: 0.48949008123658994
-- hemangioendothelioma: 0.4087852983658628
-- hepatomegaly: 0.19068787869066856
-- surrounds: 0.17807830789064508
-- lymphangioma: 0.17300119732320218
-- anterior: 0.17089771940380596
-- passive: 0.1637110675208719
-- cardiomegaly: 0.16004692798865203
-- nourished: 0.1568236162690727
-- congestion: 0.15134800994258618
-- well: 0.14820590731782401
-- containing: 0.13747864588575112
-- mediastinum: 0.13699083850401655
-- teratoma: 0.13234218921474786
-- hemangioma: 0.12873432605159377
-- child: 0.1266827281300924
-- mediastinal: 0.12357768682725996
-- hepatic: 0.12187370682291077
-- results: 0.11925419684859857
-- malformation: 0.11803450195905488
-- mass: 0.11691475395075336
-- structures: 0.11499404441334284
-- developed: 0.11354349294491654
-- calcifications: 0.11169250617890421
-- laboratory: 0.11113355540170101
-- heterogeneous: 0.11076728804922861
-- venous: 0.10926413602288731
-- boy: 0.10468985320776646
-- available: 0.10383354647021685
-- internal: 0.10314026068709232
-- week: 0.10293572094000313
-- vascular: 0.10103497185711097
-- adjacent: 0.09920086377481167
-- enhancing: 0.09587072686141206
-- surgery: 0.08228103368953103
-- without: 0.08072309802361279
-- that: 0.06641382800240346
-- there: 0.06089433106224129
-- with: 0.05993447758785676
-- an: 0.05852216490079307
-- no: 0.04976702189483286
-- old: 0.045293825835030756
-- is: 0.04191117453633115
-- in: 0.038071504022313775
-- the: 0.030537120643175708
+\-\ Texto\\:\\ \ \(0\)\
+\-\ well\\ developed\\ well\\ nourished\\ child\\.\ \(0\)\
+\-\ no\\ laboratory\\ results\\ available\\.\ \(0\)\
+\-\ surgery\\.\ \(205\)\
+\-\ cardiomegaly\\ with\\ an\\ enhancing\\ heterogeneous\\ mass\\ in\\ the\\ anterior\\ mediastinum\\ containing\\ internal\\ calcifications\\ that\\ surrounds\\ adjacent\\ vascular\\ structures\\.\\ there\\ is\\ hepatomegaly\\ without\\ passive\\ hepatic\\ congestion\\.\ \(0\)\
+\-\ kaposiform\\ hemangioendothelioma\ \(0\)\
+\-\ kaposiform\\ hemangioendothelioma\ \(0\)\
+\-\ hemangioma\ \(165\)\
+\-\ lymphangioma\ \(16\)\
+\-\ teratoma\ \(130\)\
+\-\ venous\\ malformation\ \(47\)\
+\-\ 2\\ week\\ old\\ boy\\ with\\ anterior\\ mediastinal\\ mass\ \(1\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ kaposiform\\:\\ 0\\.48949008123658994\ \(0\)\
+\-\ hemangioendothelioma\\:\\ 0\\.4087852983658628\ \(0\)\
+\-\ hepatomegaly\\:\\ 0\\.19068787869066856\ \(0\)\
+\-\ surrounds\\:\\ 0\\.17807830789064508\ \(0\)\
+\-\ lymphangioma\\:\\ 0\\.17300119732320218\ \(0\)\
+\-\ anterior\\:\\ 0\\.17089771940380596\ \(0\)\
+\-\ passive\\:\\ 0\\.1637110675208719\ \(0\)\
+\-\ cardiomegaly\\:\\ 0\\.16004692798865203\ \(0\)\
+\-\ nourished\\:\\ 0\\.1568236162690727\ \(0\)\
+\-\ congestion\\:\\ 0\\.15134800994258618\ \(0\)\
+\-\ well\\:\\ 0\\.14820590731782401\ \(0\)\
+\-\ containing\\:\\ 0\\.13747864588575112\ \(0\)\
+\-\ mediastinum\\:\\ 0\\.13699083850401655\ \(0\)\
+\-\ teratoma\\:\\ 0\\.13234218921474786\ \(0\)\
+\-\ hemangioma\\:\\ 0\\.12873432605159377\ \(0\)\
+\-\ child\\:\\ 0\\.1266827281300924\ \(0\)\
+\-\ mediastinal\\:\\ 0\\.12357768682725996\ \(0\)\
+\-\ hepatic\\:\\ 0\\.12187370682291077\ \(0\)\
+\-\ results\\:\\ 0\\.11925419684859857\ \(0\)\
+\-\ malformation\\:\\ 0\\.11803450195905488\ \(0\)\
+\-\ mass\\:\\ 0\\.11691475395075336\ \(0\)\
+\-\ structures\\:\\ 0\\.11499404441334284\ \(0\)\
+\-\ developed\\:\\ 0\\.11354349294491654\ \(0\)\
+\-\ calcifications\\:\\ 0\\.11169250617890421\ \(0\)\
+\-\ laboratory\\:\\ 0\\.11113355540170101\ \(0\)\
+\-\ heterogeneous\\:\\ 0\\.11076728804922861\ \(0\)\
+\-\ venous\\:\\ 0\\.10926413602288731\ \(0\)\
+\-\ boy\\:\\ 0\\.10468985320776646\ \(0\)\
+\-\ available\\:\\ 0\\.10383354647021685\ \(0\)\
+\-\ internal\\:\\ 0\\.10314026068709232\ \(0\)\
+\-\ week\\:\\ 0\\.10293572094000313\ \(0\)\
+\-\ vascular\\:\\ 0\\.10103497185711097\ \(0\)\
+\-\ adjacent\\:\\ 0\\.09920086377481167\ \(0\)\
+\-\ enhancing\\:\\ 0\\.09587072686141206\ \(0\)\
+\-\ surgery\\:\\ 0\\.08228103368953103\ \(0\)\
+\-\ without\\:\\ 0\\.08072309802361279\ \(0\)\
+\-\ that\\:\\ 0\\.06641382800240346\ \(0\)\
+\-\ there\\:\\ 0\\.06089433106224129\ \(0\)\
+\-\ with\\:\\ 0\\.05993447758785676\ \(0\)\
+\-\ an\\:\\ 0\\.05852216490079307\ \(0\)\
+\-\ no\\:\\ 0\\.04976702189483286\ \(0\)\
+\-\ old\\:\\ 0\\.045293825835030756\ \(0\)\
+\-\ is\\:\\ 0\\.04191117453633115\ \(0\)\
+\-\ in\\:\\ 0\\.038071504022313775\ \(0\)\
+\-\ the\\:\\ 0\\.030537120643175708\ \(0\)\

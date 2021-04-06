@@ -1,75 +1,72 @@
-Texto: 
-obese adolescent (400 lbs) male without neurologic findings
-the p2 segment of the right posterior communicating artery was occluded with coils.
-two fusiform aneurysm arising from the p2 segment of the right posterior communicating artery.
-aneurysm, cerebral
-none
-15 year old boy with a two week history of severe headache.
-
-family history of "heart aneurysms."
-these aneurysms are unusual in location and shape.  the presence of two aneurysms arising from the same parent artery in such a young person, and with a family history of aneurysms brings up the question of a possible inherited disorder of blood vessels or collagen vasculopathy.
-
-
-Keywords by value: 
-- aneurysms: 0.4513213497827144
-- p2: 0.3373585663974475
-- communicating: 0.22476952685646057
-- artery: 0.19652308914210984
-- two: 0.1879123783894538
-- segment: 0.1741695173107077
-- arising: 0.16761435568155622
-- family: 0.16596233070153268
-- of: 0.16512968358900132
-- aneurysm: 0.1606224986089155
-- vasculopathy: 0.14836547291497368
-- the: 0.1473241592810911
-- brings: 0.14086824994764735
-- adolescent: 0.1340688617584296
-- inherited: 0.13269857371198038
-- 400: 0.12520135074465408
-- parent: 0.12273229828212609
-- history: 0.12089395544313482
-- occluded: 0.1198819863955566
-- person: 0.1192331329095677
-- coils: 0.11860627874439225
-- fusiform: 0.11375505147467951
-- obese: 0.10916089485756093
-- posterior: 0.10908522612472633
-- lbs: 0.10879473582387482
-- question: 0.10879473582387482
-- collagen: 0.1070653990791328
-- shape: 0.1000137501292548
-- unusual: 0.09458198162268015
-- disorder: 0.0892206412579107
-- young: 0.08697303368122125
-- neurologic: 0.08428253633285472
-- from: 0.08378128881537336
-- same: 0.08343549845268092
-- vessels: 0.08184963329916736
-- presence: 0.07578558735956371
-- location: 0.07344623926975855
-- heart: 0.07333935789145263
-- cerebral: 0.07307482652756642
-- headache: 0.07271072759381698
-- boy: 0.07215267509672114
-- possible: 0.07146594901643094
-- 15: 0.07127433665962198
-- week: 0.07094371996196303
-- right: 0.06993939800029578
-- such: 0.0678476182885904
-- severe: 0.06677094837160374
-- with: 0.06196063070084906
-- blood: 0.06125650611851022
-- these: 0.05956235007695257
-- none: 0.05764203428511215
-- without: 0.05563468938044534
-- in: 0.05247807263066701
-- up: 0.0521750636559881
-- findings: 0.052056697464181644
-- male: 0.04696202752952086
-- and: 0.04359069903529493
-- are: 0.04002339172481544
-- was: 0.036759473194087004
-- or: 0.036693265109557636
-- year: 0.03250566451954836
-- old: 0.031216690053778823
+\-\ Texto\\:\\ \ \(0\)\
+\-\ obese\\ adolescent\\ \\(400\\ lbs\\)\\ male\\ without\\ neurologic\\ findings\ \(0\)\
+\-\ the\\ p2\\ segment\\ of\\ the\\ right\\ posterior\\ communicating\\ artery\\ was\\ occluded\\ with\\ coils\\.\ \(0\)\
+\-\ two\\ fusiform\\ aneurysm\\ arising\\ from\\ the\\ p2\\ segment\\ of\\ the\\ right\\ posterior\\ communicating\\ artery\\.\ \(0\)\
+\-\ aneurysm\\,\\ cerebral\ \(0\)\
+\-\ none\ \(204\)\
+\-\ 15\\ year\\ old\\ boy\\ with\\ a\\ two\\ week\\ history\\ of\\ severe\\ headache\\.\ \(1\)\
+\-\ family\\ history\\ of\\ \\"heart\\ aneurysms\\.\\"\ \(0\)\
+\-\ these\\ aneurysms\\ are\\ unusual\\ in\\ location\\ and\\ shape\\.\\ \\ the\\ presence\\ of\\ two\\ aneurysms\\ arising\\ from\\ the\\ same\\ parent\\ artery\\ in\\ such\\ a\\ young\\ person\\,\\ and\\ with\\ a\\ family\\ history\\ of\\ aneurysms\\ brings\\ up\\ the\\ question\\ of\\ a\\ possible\\ inherited\\ disorder\\ of\\ blood\\ vessels\\ or\\ collagen\\ vasculopathy\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ aneurysms\\:\\ 0\\.4513213497827144\ \(0\)\
+\-\ p2\\:\\ 0\\.3373585663974475\ \(0\)\
+\-\ communicating\\:\\ 0\\.22476952685646057\ \(0\)\
+\-\ artery\\:\\ 0\\.19652308914210984\ \(0\)\
+\-\ two\\:\\ 0\\.1879123783894538\ \(0\)\
+\-\ segment\\:\\ 0\\.1741695173107077\ \(0\)\
+\-\ arising\\:\\ 0\\.16761435568155622\ \(0\)\
+\-\ family\\:\\ 0\\.16596233070153268\ \(0\)\
+\-\ of\\:\\ 0\\.16512968358900132\ \(0\)\
+\-\ aneurysm\\:\\ 0\\.1606224986089155\ \(0\)\
+\-\ vasculopathy\\:\\ 0\\.14836547291497368\ \(0\)\
+\-\ the\\:\\ 0\\.1473241592810911\ \(0\)\
+\-\ brings\\:\\ 0\\.14086824994764735\ \(0\)\
+\-\ adolescent\\:\\ 0\\.1340688617584296\ \(0\)\
+\-\ inherited\\:\\ 0\\.13269857371198038\ \(0\)\
+\-\ 400\\:\\ 0\\.12520135074465408\ \(0\)\
+\-\ parent\\:\\ 0\\.12273229828212609\ \(0\)\
+\-\ history\\:\\ 0\\.12089395544313482\ \(0\)\
+\-\ occluded\\:\\ 0\\.1198819863955566\ \(0\)\
+\-\ person\\:\\ 0\\.1192331329095677\ \(0\)\
+\-\ coils\\:\\ 0\\.11860627874439225\ \(0\)\
+\-\ fusiform\\:\\ 0\\.11375505147467951\ \(0\)\
+\-\ obese\\:\\ 0\\.10916089485756093\ \(0\)\
+\-\ posterior\\:\\ 0\\.10908522612472633\ \(0\)\
+\-\ lbs\\:\\ 0\\.10879473582387482\ \(0\)\
+\-\ question\\:\\ 0\\.10879473582387482\ \(0\)\
+\-\ collagen\\:\\ 0\\.1070653990791328\ \(0\)\
+\-\ shape\\:\\ 0\\.1000137501292548\ \(0\)\
+\-\ unusual\\:\\ 0\\.09458198162268015\ \(0\)\
+\-\ disorder\\:\\ 0\\.0892206412579107\ \(0\)\
+\-\ young\\:\\ 0\\.08697303368122125\ \(0\)\
+\-\ neurologic\\:\\ 0\\.08428253633285472\ \(0\)\
+\-\ from\\:\\ 0\\.08378128881537336\ \(0\)\
+\-\ same\\:\\ 0\\.08343549845268092\ \(0\)\
+\-\ vessels\\:\\ 0\\.08184963329916736\ \(0\)\
+\-\ presence\\:\\ 0\\.07578558735956371\ \(0\)\
+\-\ location\\:\\ 0\\.07344623926975855\ \(0\)\
+\-\ heart\\:\\ 0\\.07333935789145263\ \(0\)\
+\-\ cerebral\\:\\ 0\\.07307482652756642\ \(0\)\
+\-\ headache\\:\\ 0\\.07271072759381698\ \(0\)\
+\-\ boy\\:\\ 0\\.07215267509672114\ \(0\)\
+\-\ possible\\:\\ 0\\.07146594901643094\ \(0\)\
+\-\ 15\\:\\ 0\\.07127433665962198\ \(0\)\
+\-\ week\\:\\ 0\\.07094371996196303\ \(0\)\
+\-\ right\\:\\ 0\\.06993939800029578\ \(0\)\
+\-\ such\\:\\ 0\\.0678476182885904\ \(0\)\
+\-\ severe\\:\\ 0\\.06677094837160374\ \(0\)\
+\-\ with\\:\\ 0\\.06196063070084906\ \(0\)\
+\-\ blood\\:\\ 0\\.06125650611851022\ \(0\)\
+\-\ these\\:\\ 0\\.05956235007695257\ \(0\)\
+\-\ none\\:\\ 0\\.05764203428511215\ \(0\)\
+\-\ without\\:\\ 0\\.05563468938044534\ \(0\)\
+\-\ in\\:\\ 0\\.05247807263066701\ \(0\)\
+\-\ up\\:\\ 0\\.0521750636559881\ \(0\)\
+\-\ findings\\:\\ 0\\.052056697464181644\ \(0\)\
+\-\ male\\:\\ 0\\.04696202752952086\ \(0\)\
+\-\ and\\:\\ 0\\.04359069903529493\ \(0\)\
+\-\ are\\:\\ 0\\.04002339172481544\ \(0\)\
+\-\ was\\:\\ 0\\.036759473194087004\ \(0\)\
+\-\ or\\:\\ 0\\.036693265109557636\ \(0\)\
+\-\ year\\:\\ 0\\.03250566451954836\ \(0\)\
+\-\ old\\:\\ 0\\.031216690053778823\ \(0\)\

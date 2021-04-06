@@ -1,69 +1,67 @@
-Texto: 
-treatment:
-        treatment options:
-          - limb lengthening or contralateral epiphysiodesis (or both)for mild cases;
-          - iliofemoral fusion
-                - main disadvantage: inability for prosthesis to allow
-                    ischial containment
-severe hypoplasia of the right femur.
-proximal focal femoral deficiency
-developmental dysplasia of the hip (not as severe as this case)
-proximal focal femoral deficiency (pffd)
-postsurgical state
-common history may include limb length discrepancies, malrotation, proximal joint instability, and inadequacy of the proximal musculature.
-
-
-Keywords by value: 
-- proximal: 0.31174731062296
-- limb: 0.24951910273432706
-- deficiency: 0.2441290915494164
-- epiphysiodesis: 0.1995026753815042
-- iliofemoral: 0.1995026753815042
-- disadvantage: 0.1995026753815042
-- containment: 0.1995026753815042
-- pffd: 0.1995026753815042
-- inadequacy: 0.1995026753815042
-- femoral: 0.18543890533180885
-- discrepancies: 0.1843440654419847
-- ischial: 0.17547684706430683
-- lengthening: 0.1666096286866289
-- postsurgical: 0.16031823712478732
-- severe: 0.15794450373851276
-- prosthesis: 0.15270103046822972
-- focal: 0.149239822828373
-- allow: 0.13690848479775317
-- musculature: 0.1356932137533374
-- inability: 0.1286752021510323
-- state: 0.12586243638276656
-- malrotation: 0.12586243638276656
-- contralateral: 0.12475955136716353
-- hypoplasia: 0.12303667254494344
-- treatment: 0.11885024808953662
-- instability: 0.11750382817022055
-- length: 0.11373205455915948
-- options: 0.11247001685402071
-- main: 0.10872254016395141
-- developmental: 0.10787806260542393
-- fusion: 0.1047927792748209
-- femur: 0.10234521823070104
-- as: 0.10023313910871821
-- hip: 0.09582985286085845
-- dysplasia: 0.09554521650372756
-- or: 0.08679672356937
-- cases: 0.08390752951714546
-- joint: 0.08220395314190213
-- for: 0.07562163646012471
-- the: 0.0746765358518065
-- include: 0.07422521363712084
-- of: 0.07323916659217584
-- common: 0.0707476337438004
-- mild: 0.07071732292621562
-- both: 0.0695668205605888
-- may: 0.0627782177162205
-- case: 0.0626731274064183
-- not: 0.049248398475342556
-- history: 0.04766178570951749
-- this: 0.04286640398168658
-- right: 0.04135984203582507
-- to: 0.031187296727877484
-- and: 0.025778094720280066
+\-\ Texto\\:\\ \ \(0\)\
+\-\ treatment\\:\ \(3\)\
+\-\ \\ \\ \\ \\ \\ \\ \\ \\ treatment\\ options\\:\ \(0\)\
+\-\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\-\\ limb\\ lengthening\\ or\\ contralateral\\ epiphysiodesis\\ \\(or\\ both\\)for\\ mild\\ cases\\;\ \(0\)\
+\-\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\-\\ iliofemoral\\ fusion\ \(0\)\
+\-\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\-\\ main\\ disadvantage\\:\\ inability\\ for\\ prosthesis\\ to\\ allow\ \(1\)\
+\-\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ ischial\\ containment\ \(1\)\
+\-\ severe\\ hypoplasia\\ of\\ the\\ right\\ femur\\.\ \(0\)\
+\-\ proximal\\ focal\\ femoral\\ deficiency\ \(0\)\
+\-\ developmental\\ dysplasia\\ of\\ the\\ hip\\ \\(not\\ as\\ severe\\ as\\ this\\ case\\)\ \(0\)\
+\-\ proximal\\ focal\\ femoral\\ deficiency\\ \\(pffd\\)\ \(0\)\
+\-\ postsurgical\\ state\ \(0\)\
+\-\ common\\ history\\ may\\ include\\ limb\\ length\\ discrepancies\\,\\ malrotation\\,\\ proximal\\ joint\\ instability\\,\\ and\\ inadequacy\\ of\\ the\\ proximal\\ musculature\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ proximal\\:\\ 0\\.31174731062296\ \(0\)\
+\-\ limb\\:\\ 0\\.24951910273432706\ \(0\)\
+\-\ deficiency\\:\\ 0\\.2441290915494164\ \(0\)\
+\-\ epiphysiodesis\\:\\ 0\\.1995026753815042\ \(0\)\
+\-\ iliofemoral\\:\\ 0\\.1995026753815042\ \(0\)\
+\-\ disadvantage\\:\\ 0\\.1995026753815042\ \(0\)\
+\-\ containment\\:\\ 0\\.1995026753815042\ \(0\)\
+\-\ pffd\\:\\ 0\\.1995026753815042\ \(0\)\
+\-\ inadequacy\\:\\ 0\\.1995026753815042\ \(0\)\
+\-\ femoral\\:\\ 0\\.18543890533180885\ \(0\)\
+\-\ discrepancies\\:\\ 0\\.1843440654419847\ \(0\)\
+\-\ ischial\\:\\ 0\\.17547684706430683\ \(0\)\
+\-\ lengthening\\:\\ 0\\.1666096286866289\ \(0\)\
+\-\ postsurgical\\:\\ 0\\.16031823712478732\ \(0\)\
+\-\ severe\\:\\ 0\\.15794450373851276\ \(0\)\
+\-\ prosthesis\\:\\ 0\\.15270103046822972\ \(0\)\
+\-\ focal\\:\\ 0\\.149239822828373\ \(0\)\
+\-\ allow\\:\\ 0\\.13690848479775317\ \(0\)\
+\-\ musculature\\:\\ 0\\.1356932137533374\ \(0\)\
+\-\ inability\\:\\ 0\\.1286752021510323\ \(0\)\
+\-\ state\\:\\ 0\\.12586243638276656\ \(0\)\
+\-\ malrotation\\:\\ 0\\.12586243638276656\ \(0\)\
+\-\ contralateral\\:\\ 0\\.12475955136716353\ \(0\)\
+\-\ hypoplasia\\:\\ 0\\.12303667254494344\ \(0\)\
+\-\ treatment\\:\\ 0\\.11885024808953662\ \(0\)\
+\-\ instability\\:\\ 0\\.11750382817022055\ \(0\)\
+\-\ length\\:\\ 0\\.11373205455915948\ \(0\)\
+\-\ options\\:\\ 0\\.11247001685402071\ \(0\)\
+\-\ main\\:\\ 0\\.10872254016395141\ \(0\)\
+\-\ developmental\\:\\ 0\\.10787806260542393\ \(0\)\
+\-\ fusion\\:\\ 0\\.1047927792748209\ \(0\)\
+\-\ femur\\:\\ 0\\.10234521823070104\ \(0\)\
+\-\ as\\:\\ 0\\.10023313910871821\ \(0\)\
+\-\ hip\\:\\ 0\\.09582985286085845\ \(0\)\
+\-\ dysplasia\\:\\ 0\\.09554521650372756\ \(0\)\
+\-\ or\\:\\ 0\\.08679672356937\ \(0\)\
+\-\ cases\\:\\ 0\\.08390752951714546\ \(0\)\
+\-\ joint\\:\\ 0\\.08220395314190213\ \(0\)\
+\-\ for\\:\\ 0\\.07562163646012471\ \(0\)\
+\-\ the\\:\\ 0\\.0746765358518065\ \(0\)\
+\-\ include\\:\\ 0\\.07422521363712084\ \(0\)\
+\-\ of\\:\\ 0\\.07323916659217584\ \(0\)\
+\-\ common\\:\\ 0\\.0707476337438004\ \(0\)\
+\-\ mild\\:\\ 0\\.07071732292621562\ \(0\)\
+\-\ both\\:\\ 0\\.0695668205605888\ \(0\)\
+\-\ may\\:\\ 0\\.0627782177162205\ \(0\)\
+\-\ case\\:\\ 0\\.0626731274064183\ \(0\)\
+\-\ not\\:\\ 0\\.049248398475342556\ \(0\)\
+\-\ history\\:\\ 0\\.04766178570951749\ \(0\)\
+\-\ this\\:\\ 0\\.04286640398168658\ \(0\)\
+\-\ right\\:\\ 0\\.04135984203582507\ \(0\)\
+\-\ to\\:\\ 0\\.031187296727877484\ \(0\)\
+\-\ and\\:\\ 0\\.025778094720280066\ \(0\)\

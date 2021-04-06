@@ -1,192 +1,189 @@
-Texto: 
-not entered
-she was referred to radiology for followup evaluation and subsequent ct-guided biopsy of the liver lesion.
-suspicious metastases in the liver, lungs, and bone. biopsy from liver.
-
-(#56) 3.3 x 3.2 cm heterogeneous mass seen in posterior right lobe of liver. 
-(#59) additional 3.3 x 2.7 cm heterogeneous mass seen in posterior right lobe of liver.
-(#66) additional 1.6 cm diameter heterogeneous mass seen in posterior right lobe of liver close to parenchymal edge.
-(#23, #28, #35) numerous lung nodules on bilateral lung fields.
-(#98) well defined lucencies noted within right iliac in proximity to sacroiliac joint.
-liver metastases from breast cancer
-metastatic disease
-primary neoplasm
-cystic mass
-46 yo woman with a 15 year history of breast cancer referred to radiology for followup evaluation.
-liver metastases from breast cancer is usually a late finding and as this case indicates, possible other metastases have already occurred to other organ systems1,2.  it is therefore essential to have diligent follow up of treated primary breast cancer patients.   thorough history and physical (review of system for systemic recurrence, and complete physical looking for locoregional recurrence) is recommended every 3-6 months for the first 3 years post primary therapy and then every 6-12 months for 2 years and then annually3.  mammography should be taken every 6 months after radiation treatment if the patient had breast conserving surgical treatment.  yearly mammography should be taken for those that did not have breast conserving surgery3.  patients should also conduct monthly breast examinations3.  pelvic examination should be conducted regularly, but could be extended if patient has had total hysterectomy and oophorectomy3.  if the patient had isolated and single liver metastases then the patient may be a good candidate for surgical resection.  however, due to possibility of extrahepatic lesions and numerous liver metastases, the patient in the case is not a good surgical candidate1,2.
-
-
-Keywords by value: 
-- liver: 0.0834623657459695
-- #: 0.06646404060222724
-- breast: 0.06251531333375032
-- metastases: 0.06205210963245866
-- conserving: 0.04372184779205886
-- every: 0.0385738156228083
-- 3.3: 0.03389407977286279
-- cancer: 0.031831901012631905
-- should: 0.03086921860497224
-- mammography: 0.028132412590688046
-- heterogeneous: 0.026704208131402316
-- then: 0.02584391114806309
-- systems1,2: 0.02497314001123654
-- annually3: 0.02497314001123654
-- surgery3: 0.02497314001123654
-- examinations3: 0.02497314001123654
-- oophorectomy3: 0.02497314001123654
-- candidate1,2: 0.02497314001123654
-- followup: 0.02311229447916149
-- locoregional: 0.0230095502646078
-- conduct: 0.0230095502646078
-- diligent: 0.02186092389602943
-- numerous: 0.021710548454720466
-- primary: 0.021513180704496006
-- recurrence: 0.021121371607558722
-- good: 0.02071650495610181
-- radiology: 0.020461822871896334
-- taken: 0.020188356917393024
-- months: 0.01983519513900907
-- if: 0.01970603484799407
-- lobe: 0.01954100862257961
-- cm: 0.019478380604676937
-- 6-12: 0.019460646671136502
-- additional: 0.019413295717563724
-- entered: 0.019082370771350318
-- be: 0.018665109395806363
-- ct-guided: 0.01845023606507777
-- referred: 0.01826929996292148
-- monthly: 0.018180235555717076
-- regularly: 0.01793374440277195
-- thorough: 0.017497056924507762
-- biopsy: 0.017176732247233772
-- 3.2: 0.01678511803419358
-- 3-6: 0.01678511803419358
-- posterior: 0.016739137807669537
-- for: 0.01652369741966493
-- proximity: 0.016486646318449028
-- yearly: 0.01634843055592939
-- sacroiliac: 0.016216645809088336
-- 2.7: 0.01609072013608314
-- hysterectomy: 0.01609072013608314
-- x: 0.015972047225764743
-- conducted: 0.01597015465614321
-- extrahepatic: 0.01597015465614321
-- have: 0.015726102648995117
-- had: 0.015670111778249646
-- essential: 0.01533801994987066
-- looking: 0.01533801994987066
-- surgical: 0.015265340823666746
-- 1.6: 0.015155191278092837
-- 98: 0.014983450139802654
-- candidate: 0.014901332471606472
-- lucencies: 0.014523056571820289
-- already: 0.01438484080930065
-- seen: 0.014350942904257992
-- indicates: 0.014253056062459595
-- years: 0.014216674997271856
-- organ: 0.014189393581292292
-- evaluation: 0.014063675897035739
-- lung: 0.014023564420616126
-- extended: 0.01400656490951447
-- edge: 0.01356987743125028
-- mass: 0.013466980248697616
-- fields: 0.013191601531464097
-- 59: 0.013019860393173913
-- 66: 0.013019860393173913
-- 46: 0.012818863973988973
-- occurred: 0.012818863973988973
-- 56: 0.012742295496969373
-- late: 0.012595100769120331
-- isolated: 0.012595100769120331
-- patients: 0.012530167701790515
-- (: 0.012278102995646356
-- possibility: 0.01222580383466355
-- patient: 0.01213303018295167
-- ): 0.012128119412690739
-- iliac: 0.012072638901886566
-- parenchymal: 0.011899144212819374
-- physical: 0.01187821682482288
-- close: 0.011816225282790725
-- suspicious: 0.011657331609558307
-- systemic: 0.011581106530465035
-- 23: 0.011506878846629275
-- therefore: 0.011434546546331357
-- 28: 0.01141084045661318
-- other: 0.011159425205113024
-- 35: 0.011140839947252486
-- those: 0.011014914274247292
-- from: 0.010762909743520219
-- case: 0.010592093104063857
-- not: 0.010494209674860642
-- review: 0.010491588202861063
-- total: 0.010424135940272625
-- right: 0.0102167899049339
-- defined: 0.01019995089619692
-- diameter: 0.010184596597416922
-- nodules: 0.010035464207939807
-- recommended: 0.010035464207939807
-- pelvic: 0.009935554466190632
-- single: 0.009812068811587625
-- treatment: 0.009799529516152336
-- 15: 0.009655372953275863
-- system: 0.009531104732013592
-- subsequent: 0.009423741353568871
-- lungs: 0.009166539937621178
-- could: 0.008930759047678618
-- did: 0.008740562722359558
-- complete: 0.008519478566532733
-- to: 0.008468772688671116
-- neoplasm: 0.008244069620147105
-- possible: 0.008152924132816068
-- first: 0.008123182534804114
-- radiation: 0.007944054531338065
-- joint: 0.007828411487371335
-- finding: 0.007801873951950373
-- follow: 0.007691783206647123
-- post: 0.007622762133349274
-- resection: 0.007549336134618184
-- examination: 0.00752527772089112
-- usually: 0.007351071540699035
-- yo: 0.0072842819357018754
-- treated: 0.007246036362843794
-- 6: 0.007229802156869332
-- in: 0.0071625591525255805
-- cystic: 0.006981962343489401
-- ,: 0.006901956344633389
-- she: 0.006795428162759695
-- however: 0.006740419420954874
-- history: 0.006686767919020303
-- up: 0.006509482014317914
-- lesions: 0.006480341377744895
-- therapy: 0.006472070244307686
-- due: 0.006459708648591614
-- is: 0.006371566893877911
-- metastatic: 0.006093794344521502
-- bone: 0.0060153956981866
-- bilateral: 0.005874837760097575
-- noted: 0.005737737077769388
-- 3: 0.005668485911349971
-- woman: 0.005591793052376505
-- well: 0.005476150008409776
-- it: 0.005441496840036875
-- may: 0.0053097120931958185
-- 2: 0.0052127606133443236
-- but: 0.005162898869783393
-- and: 0.005099405261535934
-- after: 0.0050085019903943415
-- lesion: 0.004930751348443215
-- also: 0.004772293466487681
-- within: 0.004617936001093716
-- has: 0.004545892267689173
-- a: 0.004494048745819845
-- that: 0.004181248522829528
-- disease: 0.00395676357284902
-- as: 0.0036616926512581527
-- the: 0.0031331282652379785
-- was: 0.0027996530374325406
-- this: 0.002722768309671765
-- year: 0.0027085135106881437
-- of: 0.002640312765960078
-- on: 0.0020506827545762837
-- .: 0.0018101746451904615
-- with: 0.00033145658948977263
+\-\ Texto\\:\\ \ \(0\)\
+\-\ not\\ entered\ \(0\)\
+\-\ she\\ was\\ referred\\ to\\ radiology\\ for\\ followup\\ evaluation\\ and\\ subsequent\\ ct\\-guided\\ biopsy\\ of\\ the\\ liver\\ lesion\\.\ \(0\)\
+\-\ suspicious\\ metastases\\ in\\ the\\ liver\\,\\ lungs\\,\\ and\\ bone\\.\\ biopsy\\ from\\ liver\\.\ \(0\)\
+\-\ \\(\\#56\\)\\ 3\\.3\\ x\\ 3\\.2\\ cm\\ heterogeneous\\ mass\\ seen\\ in\\ posterior\\ right\\ lobe\\ of\\ liver\\.\\ \ \(1\)\
+\-\ \\(\\#59\\)\\ additional\\ 3\\.3\\ x\\ 2\\.7\\ cm\\ heterogeneous\\ mass\\ seen\\ in\\ posterior\\ right\\ lobe\\ of\\ liver\\.\ \(0\)\
+\-\ \\(\\#66\\)\\ additional\\ 1\\.6\\ cm\\ diameter\\ heterogeneous\\ mass\\ seen\\ in\\ posterior\\ right\\ lobe\\ of\\ liver\\ close\\ to\\ parenchymal\\ edge\\.\ \(0\)\
+\-\ \\(\\#23\\,\\ \\#28\\,\\ \\#35\\)\\ numerous\\ lung\\ nodules\\ on\\ bilateral\\ lung\\ fields\\.\ \(0\)\
+\-\ \\(\\#98\\)\\ well\\ defined\\ lucencies\\ noted\\ within\\ right\\ iliac\\ in\\ proximity\\ to\\ sacroiliac\\ joint\\.\ \(1\)\
+\-\ liver\\ metastases\\ from\\ breast\\ cancer\ \(0\)\
+\-\ metastatic\\ disease\ \(243\)\
+\-\ primary\\ neoplasm\ \(4\)\
+\-\ cystic\\ mass\ \(109\)\
+\-\ 46\\ yo\\ woman\\ with\\ a\\ 15\\ year\\ history\\ of\\ breast\\ cancer\\ referred\\ to\\ radiology\\ for\\ followup\\ evaluation\\.\ \(1\)\
+\-\ liver\\ metastases\\ from\\ breast\\ cancer\\ is\\ usually\\ a\\ late\\ finding\\ and\\ as\\ this\\ case\\ indicates\\,\\ possible\\ other\\ metastases\\ have\\ already\\ occurred\\ to\\ other\\ organ\\ systems1\\,2\\.\\ \\ it\\ is\\ therefore\\ essential\\ to\\ have\\ diligent\\ follow\\ up\\ of\\ treated\\ primary\\ breast\\ cancer\\ patients\\.\\ \\ \\ thorough\\ history\\ and\\ physical\\ \\(review\\ of\\ system\\ for\\ systemic\\ recurrence\\,\\ and\\ complete\\ physical\\ looking\\ for\\ locoregional\\ recurrence\\)\\ is\\ recommended\\ every\\ 3\\-6\\ months\\ for\\ the\\ first\\ 3\\ years\\ post\\ primary\\ therapy\\ and\\ then\\ every\\ 6\\-12\\ months\\ for\\ 2\\ years\\ and\\ then\\ annually3\\.\\ \\ mammography\\ should\\ be\\ taken\\ every\\ 6\\ months\\ after\\ radiation\\ treatment\\ if\\ the\\ patient\\ had\\ breast\\ conserving\\ surgical\\ treatment\\.\\ \\ yearly\\ mammography\\ should\\ be\\ taken\\ for\\ those\\ that\\ did\\ not\\ have\\ breast\\ conserving\\ surgery3\\.\\ \\ patients\\ should\\ also\\ conduct\\ monthly\\ breast\\ examinations3\\.\\ \\ pelvic\\ examination\\ should\\ be\\ conducted\\ regularly\\,\\ but\\ could\\ be\\ extended\\ if\\ patient\\ has\\ had\\ total\\ hysterectomy\\ and\\ oophorectomy3\\.\\ \\ if\\ the\\ patient\\ had\\ isolated\\ and\\ single\\ liver\\ metastases\\ then\\ the\\ patient\\ may\\ be\\ a\\ good\\ candidate\\ for\\ surgical\\ resection\\.\\ \\ however\\,\\ due\\ to\\ possibility\\ of\\ extrahepatic\\ lesions\\ and\\ numerous\\ liver\\ metastases\\,\\ the\\ patient\\ in\\ the\\ case\\ is\\ not\\ a\\ good\\ surgical\\ candidate1\\,2\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ liver\\:\\ 0\\.0834623657459695\ \(0\)\
+\-\ \\#\\:\\ 0\\.06646404060222724\ \(0\)\
+\-\ breast\\:\\ 0\\.06251531333375032\ \(0\)\
+\-\ metastases\\:\\ 0\\.06205210963245866\ \(0\)\
+\-\ conserving\\:\\ 0\\.04372184779205886\ \(0\)\
+\-\ every\\:\\ 0\\.0385738156228083\ \(0\)\
+\-\ 3\\.3\\:\\ 0\\.03389407977286279\ \(0\)\
+\-\ cancer\\:\\ 0\\.031831901012631905\ \(0\)\
+\-\ should\\:\\ 0\\.03086921860497224\ \(0\)\
+\-\ mammography\\:\\ 0\\.028132412590688046\ \(0\)\
+\-\ heterogeneous\\:\\ 0\\.026704208131402316\ \(0\)\
+\-\ then\\:\\ 0\\.02584391114806309\ \(0\)\
+\-\ systems1\\,2\\:\\ 0\\.02497314001123654\ \(0\)\
+\-\ annually3\\:\\ 0\\.02497314001123654\ \(0\)\
+\-\ surgery3\\:\\ 0\\.02497314001123654\ \(0\)\
+\-\ examinations3\\:\\ 0\\.02497314001123654\ \(0\)\
+\-\ oophorectomy3\\:\\ 0\\.02497314001123654\ \(0\)\
+\-\ candidate1\\,2\\:\\ 0\\.02497314001123654\ \(0\)\
+\-\ followup\\:\\ 0\\.02311229447916149\ \(0\)\
+\-\ locoregional\\:\\ 0\\.0230095502646078\ \(0\)\
+\-\ conduct\\:\\ 0\\.0230095502646078\ \(0\)\
+\-\ diligent\\:\\ 0\\.02186092389602943\ \(0\)\
+\-\ numerous\\:\\ 0\\.021710548454720466\ \(0\)\
+\-\ primary\\:\\ 0\\.021513180704496006\ \(0\)\
+\-\ recurrence\\:\\ 0\\.021121371607558722\ \(0\)\
+\-\ good\\:\\ 0\\.02071650495610181\ \(0\)\
+\-\ radiology\\:\\ 0\\.020461822871896334\ \(0\)\
+\-\ taken\\:\\ 0\\.020188356917393024\ \(0\)\
+\-\ months\\:\\ 0\\.01983519513900907\ \(0\)\
+\-\ if\\:\\ 0\\.01970603484799407\ \(0\)\
+\-\ lobe\\:\\ 0\\.01954100862257961\ \(0\)\
+\-\ cm\\:\\ 0\\.019478380604676937\ \(0\)\
+\-\ 6\\-12\\:\\ 0\\.019460646671136502\ \(0\)\
+\-\ additional\\:\\ 0\\.019413295717563724\ \(0\)\
+\-\ entered\\:\\ 0\\.019082370771350318\ \(0\)\
+\-\ be\\:\\ 0\\.018665109395806363\ \(0\)\
+\-\ ct\\-guided\\:\\ 0\\.01845023606507777\ \(0\)\
+\-\ referred\\:\\ 0\\.01826929996292148\ \(0\)\
+\-\ monthly\\:\\ 0\\.018180235555717076\ \(0\)\
+\-\ regularly\\:\\ 0\\.01793374440277195\ \(0\)\
+\-\ thorough\\:\\ 0\\.017497056924507762\ \(0\)\
+\-\ biopsy\\:\\ 0\\.017176732247233772\ \(0\)\
+\-\ 3\\.2\\:\\ 0\\.01678511803419358\ \(0\)\
+\-\ 3\\-6\\:\\ 0\\.01678511803419358\ \(0\)\
+\-\ posterior\\:\\ 0\\.016739137807669537\ \(0\)\
+\-\ for\\:\\ 0\\.01652369741966493\ \(0\)\
+\-\ proximity\\:\\ 0\\.016486646318449028\ \(0\)\
+\-\ yearly\\:\\ 0\\.01634843055592939\ \(0\)\
+\-\ sacroiliac\\:\\ 0\\.016216645809088336\ \(0\)\
+\-\ 2\\.7\\:\\ 0\\.01609072013608314\ \(0\)\
+\-\ hysterectomy\\:\\ 0\\.01609072013608314\ \(0\)\
+\-\ x\\:\\ 0\\.015972047225764743\ \(0\)\
+\-\ conducted\\:\\ 0\\.01597015465614321\ \(0\)\
+\-\ extrahepatic\\:\\ 0\\.01597015465614321\ \(0\)\
+\-\ have\\:\\ 0\\.015726102648995117\ \(0\)\
+\-\ had\\:\\ 0\\.015670111778249646\ \(0\)\
+\-\ essential\\:\\ 0\\.01533801994987066\ \(0\)\
+\-\ looking\\:\\ 0\\.01533801994987066\ \(0\)\
+\-\ surgical\\:\\ 0\\.015265340823666746\ \(0\)\
+\-\ 1\\.6\\:\\ 0\\.015155191278092837\ \(0\)\
+\-\ 98\\:\\ 0\\.014983450139802654\ \(0\)\
+\-\ candidate\\:\\ 0\\.014901332471606472\ \(0\)\
+\-\ lucencies\\:\\ 0\\.014523056571820289\ \(0\)\
+\-\ already\\:\\ 0\\.01438484080930065\ \(0\)\
+\-\ seen\\:\\ 0\\.014350942904257992\ \(0\)\
+\-\ indicates\\:\\ 0\\.014253056062459595\ \(0\)\
+\-\ years\\:\\ 0\\.014216674997271856\ \(0\)\
+\-\ organ\\:\\ 0\\.014189393581292292\ \(0\)\
+\-\ evaluation\\:\\ 0\\.014063675897035739\ \(0\)\
+\-\ lung\\:\\ 0\\.014023564420616126\ \(0\)\
+\-\ extended\\:\\ 0\\.01400656490951447\ \(0\)\
+\-\ edge\\:\\ 0\\.01356987743125028\ \(0\)\
+\-\ mass\\:\\ 0\\.013466980248697616\ \(0\)\
+\-\ fields\\:\\ 0\\.013191601531464097\ \(0\)\
+\-\ 59\\:\\ 0\\.013019860393173913\ \(0\)\
+\-\ 66\\:\\ 0\\.013019860393173913\ \(0\)\
+\-\ 46\\:\\ 0\\.012818863973988973\ \(0\)\
+\-\ occurred\\:\\ 0\\.012818863973988973\ \(0\)\
+\-\ 56\\:\\ 0\\.012742295496969373\ \(0\)\
+\-\ late\\:\\ 0\\.012595100769120331\ \(0\)\
+\-\ isolated\\:\\ 0\\.012595100769120331\ \(0\)\
+\-\ patients\\:\\ 0\\.012530167701790515\ \(0\)\
+\-\ \\(\\:\\ 0\\.012278102995646356\ \(0\)\
+\-\ possibility\\:\\ 0\\.01222580383466355\ \(0\)\
+\-\ patient\\:\\ 0\\.01213303018295167\ \(0\)\
+\-\ \\)\\:\\ 0\\.012128119412690739\ \(0\)\
+\-\ iliac\\:\\ 0\\.012072638901886566\ \(0\)\
+\-\ parenchymal\\:\\ 0\\.011899144212819374\ \(0\)\
+\-\ physical\\:\\ 0\\.01187821682482288\ \(0\)\
+\-\ close\\:\\ 0\\.011816225282790725\ \(0\)\
+\-\ suspicious\\:\\ 0\\.011657331609558307\ \(0\)\
+\-\ systemic\\:\\ 0\\.011581106530465035\ \(0\)\
+\-\ 23\\:\\ 0\\.011506878846629275\ \(0\)\
+\-\ therefore\\:\\ 0\\.011434546546331357\ \(0\)\
+\-\ 28\\:\\ 0\\.01141084045661318\ \(0\)\
+\-\ other\\:\\ 0\\.011159425205113024\ \(0\)\
+\-\ 35\\:\\ 0\\.011140839947252486\ \(0\)\
+\-\ those\\:\\ 0\\.011014914274247292\ \(0\)\
+\-\ from\\:\\ 0\\.010762909743520219\ \(0\)\
+\-\ case\\:\\ 0\\.010592093104063857\ \(0\)\
+\-\ not\\:\\ 0\\.010494209674860642\ \(0\)\
+\-\ review\\:\\ 0\\.010491588202861063\ \(0\)\
+\-\ total\\:\\ 0\\.010424135940272625\ \(0\)\
+\-\ right\\:\\ 0\\.0102167899049339\ \(0\)\
+\-\ defined\\:\\ 0\\.01019995089619692\ \(0\)\
+\-\ diameter\\:\\ 0\\.010184596597416922\ \(0\)\
+\-\ nodules\\:\\ 0\\.010035464207939807\ \(0\)\
+\-\ recommended\\:\\ 0\\.010035464207939807\ \(0\)\
+\-\ pelvic\\:\\ 0\\.009935554466190632\ \(0\)\
+\-\ single\\:\\ 0\\.009812068811587625\ \(0\)\
+\-\ treatment\\:\\ 0\\.009799529516152336\ \(0\)\
+\-\ 15\\:\\ 0\\.009655372953275863\ \(0\)\
+\-\ system\\:\\ 0\\.009531104732013592\ \(0\)\
+\-\ subsequent\\:\\ 0\\.009423741353568871\ \(0\)\
+\-\ lungs\\:\\ 0\\.009166539937621178\ \(0\)\
+\-\ could\\:\\ 0\\.008930759047678618\ \(0\)\
+\-\ did\\:\\ 0\\.008740562722359558\ \(0\)\
+\-\ complete\\:\\ 0\\.008519478566532733\ \(0\)\
+\-\ to\\:\\ 0\\.008468772688671116\ \(0\)\
+\-\ neoplasm\\:\\ 0\\.008244069620147105\ \(0\)\
+\-\ possible\\:\\ 0\\.008152924132816068\ \(0\)\
+\-\ first\\:\\ 0\\.008123182534804114\ \(0\)\
+\-\ radiation\\:\\ 0\\.007944054531338065\ \(0\)\
+\-\ joint\\:\\ 0\\.007828411487371335\ \(0\)\
+\-\ finding\\:\\ 0\\.007801873951950373\ \(0\)\
+\-\ follow\\:\\ 0\\.007691783206647123\ \(0\)\
+\-\ post\\:\\ 0\\.007622762133349274\ \(0\)\
+\-\ resection\\:\\ 0\\.007549336134618184\ \(0\)\
+\-\ examination\\:\\ 0\\.00752527772089112\ \(0\)\
+\-\ usually\\:\\ 0\\.007351071540699035\ \(0\)\
+\-\ yo\\:\\ 0\\.0072842819357018754\ \(0\)\
+\-\ treated\\:\\ 0\\.007246036362843794\ \(0\)\
+\-\ 6\\:\\ 0\\.007229802156869332\ \(0\)\
+\-\ in\\:\\ 0\\.0071625591525255805\ \(0\)\
+\-\ cystic\\:\\ 0\\.006981962343489401\ \(0\)\
+\-\ \\,\\:\\ 0\\.006901956344633389\ \(0\)\
+\-\ she\\:\\ 0\\.006795428162759695\ \(0\)\
+\-\ however\\:\\ 0\\.006740419420954874\ \(0\)\
+\-\ history\\:\\ 0\\.006686767919020303\ \(0\)\
+\-\ up\\:\\ 0\\.006509482014317914\ \(0\)\
+\-\ lesions\\:\\ 0\\.006480341377744895\ \(0\)\
+\-\ therapy\\:\\ 0\\.006472070244307686\ \(0\)\
+\-\ due\\:\\ 0\\.006459708648591614\ \(0\)\
+\-\ is\\:\\ 0\\.006371566893877911\ \(0\)\
+\-\ metastatic\\:\\ 0\\.006093794344521502\ \(0\)\
+\-\ bone\\:\\ 0\\.0060153956981866\ \(0\)\
+\-\ bilateral\\:\\ 0\\.005874837760097575\ \(0\)\
+\-\ noted\\:\\ 0\\.005737737077769388\ \(0\)\
+\-\ 3\\:\\ 0\\.005668485911349971\ \(0\)\
+\-\ woman\\:\\ 0\\.005591793052376505\ \(0\)\
+\-\ well\\:\\ 0\\.005476150008409776\ \(0\)\
+\-\ it\\:\\ 0\\.005441496840036875\ \(0\)\
+\-\ may\\:\\ 0\\.0053097120931958185\ \(0\)\
+\-\ 2\\:\\ 0\\.0052127606133443236\ \(0\)\
+\-\ but\\:\\ 0\\.005162898869783393\ \(0\)\
+\-\ and\\:\\ 0\\.005099405261535934\ \(0\)\
+\-\ after\\:\\ 0\\.0050085019903943415\ \(0\)\
+\-\ lesion\\:\\ 0\\.004930751348443215\ \(0\)\
+\-\ also\\:\\ 0\\.004772293466487681\ \(0\)\
+\-\ within\\:\\ 0\\.004617936001093716\ \(0\)\
+\-\ has\\:\\ 0\\.004545892267689173\ \(0\)\
+\-\ a\\:\\ 0\\.004494048745819845\ \(0\)\
+\-\ that\\:\\ 0\\.004181248522829528\ \(0\)\
+\-\ disease\\:\\ 0\\.00395676357284902\ \(0\)\
+\-\ as\\:\\ 0\\.0036616926512581527\ \(0\)\
+\-\ the\\:\\ 0\\.0031331282652379785\ \(0\)\
+\-\ was\\:\\ 0\\.0027996530374325406\ \(0\)\
+\-\ this\\:\\ 0\\.002722768309671765\ \(0\)\
+\-\ year\\:\\ 0\\.0027085135106881437\ \(0\)\
+\-\ of\\:\\ 0\\.002640312765960078\ \(0\)\
+\-\ on\\:\\ 0\\.0020506827545762837\ \(0\)\
+\-\ \\.\\:\\ 0\\.0018101746451904615\ \(0\)\
+\-\ with\\:\\ 0\\.00033145658948977263\ \(0\)\

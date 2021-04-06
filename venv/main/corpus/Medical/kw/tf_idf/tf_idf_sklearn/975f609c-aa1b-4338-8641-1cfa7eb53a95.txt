@@ -1,57 +1,54 @@
-Texto: 
-plan = wada test -> right anterior temporal lobectomy
-dysplasia of anterior temporal lobe, amygdala, and hippocampus - seen on multiple sequences (see captions).  the right hippocampus is enlarged and without normal architecture.
-
-small encephalocele.
-cortical dysplasia
-hamartoma
-cortical dysplasia
-ganglioglioma
-mesial temporal sclerosis (of opposite side)
-28 y.o. man with medically refractory right temporal lobe epilepsy for several months.
-
-
-Keywords by value: 
-- temporal: 0.40797071703873145
-- hippocampus: 0.38201086847073035
-- dysplasia: 0.30506921373898727
-- amygdala: 0.21233271025865696
-- wada: 0.20289524027492223
-- cortical: 0.19064422347840362
-- captions: 0.17487197273638022
-- mesial: 0.17487197273638022
-- epilepsy: 0.16543450275264548
-- encephalocele: 0.15993239676902093
-- architecture: 0.15873851123739527
-- lobectomy: 0.15652010343100092
-- opposite: 0.15652010343100092
-- medically: 0.15449485577796737
-- lobe: 0.15345736813924937
-- anterior: 0.1482652144711981
-- refractory: 0.1457130816863629
-- plan: 0.14441965645250968
-- ganglioglioma: 0.13935199760233807
-- right: 0.13205909151658693
-- hamartoma: 0.13059915535398262
-- 28: 0.11019310655232074
-- test: 0.1079878451257715
-- sequences: 0.10621601549922846
-- sclerosis: 0.09457121872092351
-- side: 0.09172325277348588
-- enlarged: 0.09051302770809198
-- several: 0.08711202227761472
-- see: 0.08259291194775793
-- months: 0.0772845472608945
-- man: 0.0702916013963768
-- without: 0.07003269255437446
-- small: 0.0684887135706161
-- multiple: 0.06494209622537231
-- seen: 0.06250838815365507
-- and: 0.054871772589460625
-- normal: 0.054210269067887215
-- of: 0.05196612262588807
-- for: 0.04024243532841811
-- on: 0.04009968317965127
-- is: 0.03636075017880295
-- the: 0.026492996847987577
-- with: 0.025998586185887095
+\-\ Texto\\:\\ \ \(0\)\
+\-\ plan\\ \\=\\ wada\\ test\\ \\-\\>\\ right\\ anterior\\ temporal\\ lobectomy\ \(0\)\
+\-\ dysplasia\\ of\\ anterior\\ temporal\\ lobe\\,\\ amygdala\\,\\ and\\ hippocampus\\ \\-\\ seen\\ on\\ multiple\\ sequences\\ \\(see\\ captions\\)\\.\\ \\ the\\ right\\ hippocampus\\ is\\ enlarged\\ and\\ without\\ normal\\ architecture\\.\ \(0\)\
+\-\ small\\ encephalocele\\.\ \(0\)\
+\-\ cortical\\ dysplasia\ \(3\)\
+\-\ hamartoma\ \(55\)\
+\-\ cortical\\ dysplasia\ \(3\)\
+\-\ ganglioglioma\ \(14\)\
+\-\ mesial\\ temporal\\ sclerosis\\ \\(of\\ opposite\\ side\\)\ \(0\)\
+\-\ 28\\ y\\.o\\.\\ man\\ with\\ medically\\ refractory\\ right\\ temporal\\ lobe\\ epilepsy\\ for\\ several\\ months\\.\ \(1\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ temporal\\:\\ 0\\.40797071703873145\ \(0\)\
+\-\ hippocampus\\:\\ 0\\.38201086847073035\ \(0\)\
+\-\ dysplasia\\:\\ 0\\.30506921373898727\ \(0\)\
+\-\ amygdala\\:\\ 0\\.21233271025865696\ \(0\)\
+\-\ wada\\:\\ 0\\.20289524027492223\ \(0\)\
+\-\ cortical\\:\\ 0\\.19064422347840362\ \(0\)\
+\-\ captions\\:\\ 0\\.17487197273638022\ \(0\)\
+\-\ mesial\\:\\ 0\\.17487197273638022\ \(0\)\
+\-\ epilepsy\\:\\ 0\\.16543450275264548\ \(0\)\
+\-\ encephalocele\\:\\ 0\\.15993239676902093\ \(0\)\
+\-\ architecture\\:\\ 0\\.15873851123739527\ \(0\)\
+\-\ lobectomy\\:\\ 0\\.15652010343100092\ \(0\)\
+\-\ opposite\\:\\ 0\\.15652010343100092\ \(0\)\
+\-\ medically\\:\\ 0\\.15449485577796737\ \(0\)\
+\-\ lobe\\:\\ 0\\.15345736813924937\ \(0\)\
+\-\ anterior\\:\\ 0\\.1482652144711981\ \(0\)\
+\-\ refractory\\:\\ 0\\.1457130816863629\ \(0\)\
+\-\ plan\\:\\ 0\\.14441965645250968\ \(0\)\
+\-\ ganglioglioma\\:\\ 0\\.13935199760233807\ \(0\)\
+\-\ right\\:\\ 0\\.13205909151658693\ \(0\)\
+\-\ hamartoma\\:\\ 0\\.13059915535398262\ \(0\)\
+\-\ 28\\:\\ 0\\.11019310655232074\ \(0\)\
+\-\ test\\:\\ 0\\.1079878451257715\ \(0\)\
+\-\ sequences\\:\\ 0\\.10621601549922846\ \(0\)\
+\-\ sclerosis\\:\\ 0\\.09457121872092351\ \(0\)\
+\-\ side\\:\\ 0\\.09172325277348588\ \(0\)\
+\-\ enlarged\\:\\ 0\\.09051302770809198\ \(0\)\
+\-\ several\\:\\ 0\\.08711202227761472\ \(0\)\
+\-\ see\\:\\ 0\\.08259291194775793\ \(0\)\
+\-\ months\\:\\ 0\\.0772845472608945\ \(0\)\
+\-\ man\\:\\ 0\\.0702916013963768\ \(0\)\
+\-\ without\\:\\ 0\\.07003269255437446\ \(0\)\
+\-\ small\\:\\ 0\\.0684887135706161\ \(0\)\
+\-\ multiple\\:\\ 0\\.06494209622537231\ \(0\)\
+\-\ seen\\:\\ 0\\.06250838815365507\ \(0\)\
+\-\ and\\:\\ 0\\.054871772589460625\ \(0\)\
+\-\ normal\\:\\ 0\\.054210269067887215\ \(0\)\
+\-\ of\\:\\ 0\\.05196612262588807\ \(0\)\
+\-\ for\\:\\ 0\\.04024243532841811\ \(0\)\
+\-\ on\\:\\ 0\\.04009968317965127\ \(0\)\
+\-\ is\\:\\ 0\\.03636075017880295\ \(0\)\
+\-\ the\\:\\ 0\\.026492996847987577\ \(0\)\
+\-\ with\\:\\ 0\\.025998586185887095\ \(0\)\

@@ -1,83 +1,80 @@
-Texto: 
-treatment is usually conservative and includes rest, nsaids and modification of footwear.  steroid injections are sometimes used.  surgery rarely performed and consists of fascial release or excision of damaged fascia.
-plain radiographs demonstrate mild degenerative changes of the ankle and a small plantar calcaneal enthesophyte.
-
-mri shows marked thickening of the plantar fascia at its origin from the medial calcaneal tuberosity.  there is diffuse intermediate t1 signal and increased t2 signal within the fascia.
-plantar fasciitis
-ddx for heel pain:
-1.  plantar fasciitis
-2.  calcaneal stress fracture
-3.  reactive arthritis
-30 y/o male with left ankle and heel pain.
-
-
-Keywords by value: 
-- plantar: 0.4160062198029176
-- calcaneal: 0.37083267591195207
-- fascia: 0.35542800192964435
-- fasciitis: 0.24722178394130137
-- heel: 0.21871635634023517
-- ankle: 0.17979641521963735
-- footwear: 0.1464745206911534
-- fascial: 0.1359830061443293
-- enthesophyte: 0.13410240651747482
-- damaged: 0.12686518367123212
-- and: 0.12623698307365358
-- modification: 0.1257132234894575
-- release: 0.12361089197065069
-- tuberosity: 0.12085942754251532
-- signal: 0.11543575522964777
-- injections: 0.11225900905787535
-- intermediate: 0.1040015549507294
-- consists: 0.10125009052259401
-- of: 0.09962691551520433
-- nsaids: 0.09962631817220431
-- steroid: 0.0981380241782136
-- ddx: 0.09676433210448668
-- sometimes: 0.09528485470132166
-- rarely: 0.09082164737625031
-- rest: 0.08804763185507895
-- origin: 0.0876465096313895
-- reactive: 0.08738401684535049
-- degenerative: 0.08649454944961488
-- stress: 0.08406470070941768
-- arthritis: 0.08281161171454901
-- the: 0.08126573006712338
-- excision: 0.08027755786427543
-- includes: 0.0791748821715129
-- conservative: 0.07860819369404358
-- marked: 0.07700868944768283
-- used: 0.07622476679474306
-- its: 0.07534062628607169
-- pain: 0.0728686420083344
-- 30: 0.06945852609606092
-- thickening: 0.06926863932899409
-- plain: 0.06717680424551695
-- medial: 0.06627596599006627
-- radiographs: 0.06603797329402439
-- usually: 0.06409836803405027
-- diffuse: 0.06385265262106443
-- t1: 0.06343913943001607
-- changes: 0.061534711380752505
-- performed: 0.06023601600460146
-- shows: 0.059758511223033106
-- t2: 0.058578856407674976
-- fracture: 0.05786682858572399
-- mild: 0.05771787761482389
-- is: 0.055767245321911615
-- increased: 0.05505847426795075
-- surgery: 0.05474180384907712
-- demonstrate: 0.052932492039755884
-- small: 0.052521288376790404
-- mri: 0.05226446110032561
-- treatment: 0.048501440593845924
-- within: 0.046894351527622086
-- male: 0.045333406785917484
-- there: 0.04051317025388936
-- from: 0.04043789681491324
-- are: 0.03863539956558801
-- at: 0.03845804634727049
-- or: 0.035420760154987734
-- left: 0.03473242964833929
-- for: 0.030860333632766353
-- with: 0.019937288514696977
+\-\ Texto\\:\\ \ \(0\)\
+\-\ treatment\\ is\\ usually\\ conservative\\ and\\ includes\\ rest\\,\\ nsaids\\ and\\ modification\\ of\\ footwear\\.\\ \\ steroid\\ injections\\ are\\ sometimes\\ used\\.\\ \\ surgery\\ rarely\\ performed\\ and\\ consists\\ of\\ fascial\\ release\\ or\\ excision\\ of\\ damaged\\ fascia\\.\ \(0\)\
+\-\ plain\\ radiographs\\ demonstrate\\ mild\\ degenerative\\ changes\\ of\\ the\\ ankle\\ and\\ a\\ small\\ plantar\\ calcaneal\\ enthesophyte\\.\ \(0\)\
+\-\ mri\\ shows\\ marked\\ thickening\\ of\\ the\\ plantar\\ fascia\\ at\\ its\\ origin\\ from\\ the\\ medial\\ calcaneal\\ tuberosity\\.\\ \\ there\\ is\\ diffuse\\ intermediate\\ t1\\ signal\\ and\\ increased\\ t2\\ signal\\ within\\ the\\ fascia\\.\ \(0\)\
+\-\ plantar\\ fasciitis\ \(8\)\
+\-\ ddx\\ for\\ heel\\ pain\\:\ \(0\)\
+\-\ 1\\.\\ \\ plantar\\ fasciitis\ \(0\)\
+\-\ 2\\.\\ \\ calcaneal\\ stress\\ fracture\ \(0\)\
+\-\ 3\\.\\ \\ reactive\\ arthritis\ \(0\)\
+\-\ 30\\ y\\/o\\ male\\ with\\ left\\ ankle\\ and\\ heel\\ pain\\.\ \(1\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ plantar\\:\\ 0\\.4160062198029176\ \(0\)\
+\-\ calcaneal\\:\\ 0\\.37083267591195207\ \(0\)\
+\-\ fascia\\:\\ 0\\.35542800192964435\ \(0\)\
+\-\ fasciitis\\:\\ 0\\.24722178394130137\ \(0\)\
+\-\ heel\\:\\ 0\\.21871635634023517\ \(0\)\
+\-\ ankle\\:\\ 0\\.17979641521963735\ \(0\)\
+\-\ footwear\\:\\ 0\\.1464745206911534\ \(0\)\
+\-\ fascial\\:\\ 0\\.1359830061443293\ \(0\)\
+\-\ enthesophyte\\:\\ 0\\.13410240651747482\ \(0\)\
+\-\ damaged\\:\\ 0\\.12686518367123212\ \(0\)\
+\-\ and\\:\\ 0\\.12623698307365358\ \(0\)\
+\-\ modification\\:\\ 0\\.1257132234894575\ \(0\)\
+\-\ release\\:\\ 0\\.12361089197065069\ \(0\)\
+\-\ tuberosity\\:\\ 0\\.12085942754251532\ \(0\)\
+\-\ signal\\:\\ 0\\.11543575522964777\ \(0\)\
+\-\ injections\\:\\ 0\\.11225900905787535\ \(0\)\
+\-\ intermediate\\:\\ 0\\.1040015549507294\ \(0\)\
+\-\ consists\\:\\ 0\\.10125009052259401\ \(0\)\
+\-\ of\\:\\ 0\\.09962691551520433\ \(0\)\
+\-\ nsaids\\:\\ 0\\.09962631817220431\ \(0\)\
+\-\ steroid\\:\\ 0\\.0981380241782136\ \(0\)\
+\-\ ddx\\:\\ 0\\.09676433210448668\ \(0\)\
+\-\ sometimes\\:\\ 0\\.09528485470132166\ \(0\)\
+\-\ rarely\\:\\ 0\\.09082164737625031\ \(0\)\
+\-\ rest\\:\\ 0\\.08804763185507895\ \(0\)\
+\-\ origin\\:\\ 0\\.0876465096313895\ \(0\)\
+\-\ reactive\\:\\ 0\\.08738401684535049\ \(0\)\
+\-\ degenerative\\:\\ 0\\.08649454944961488\ \(0\)\
+\-\ stress\\:\\ 0\\.08406470070941768\ \(0\)\
+\-\ arthritis\\:\\ 0\\.08281161171454901\ \(0\)\
+\-\ the\\:\\ 0\\.08126573006712338\ \(0\)\
+\-\ excision\\:\\ 0\\.08027755786427543\ \(0\)\
+\-\ includes\\:\\ 0\\.0791748821715129\ \(0\)\
+\-\ conservative\\:\\ 0\\.07860819369404358\ \(0\)\
+\-\ marked\\:\\ 0\\.07700868944768283\ \(0\)\
+\-\ used\\:\\ 0\\.07622476679474306\ \(0\)\
+\-\ its\\:\\ 0\\.07534062628607169\ \(0\)\
+\-\ pain\\:\\ 0\\.0728686420083344\ \(0\)\
+\-\ 30\\:\\ 0\\.06945852609606092\ \(0\)\
+\-\ thickening\\:\\ 0\\.06926863932899409\ \(0\)\
+\-\ plain\\:\\ 0\\.06717680424551695\ \(0\)\
+\-\ medial\\:\\ 0\\.06627596599006627\ \(0\)\
+\-\ radiographs\\:\\ 0\\.06603797329402439\ \(0\)\
+\-\ usually\\:\\ 0\\.06409836803405027\ \(0\)\
+\-\ diffuse\\:\\ 0\\.06385265262106443\ \(0\)\
+\-\ t1\\:\\ 0\\.06343913943001607\ \(0\)\
+\-\ changes\\:\\ 0\\.061534711380752505\ \(0\)\
+\-\ performed\\:\\ 0\\.06023601600460146\ \(0\)\
+\-\ shows\\:\\ 0\\.059758511223033106\ \(0\)\
+\-\ t2\\:\\ 0\\.058578856407674976\ \(0\)\
+\-\ fracture\\:\\ 0\\.05786682858572399\ \(0\)\
+\-\ mild\\:\\ 0\\.05771787761482389\ \(0\)\
+\-\ is\\:\\ 0\\.055767245321911615\ \(0\)\
+\-\ increased\\:\\ 0\\.05505847426795075\ \(0\)\
+\-\ surgery\\:\\ 0\\.05474180384907712\ \(0\)\
+\-\ demonstrate\\:\\ 0\\.052932492039755884\ \(0\)\
+\-\ small\\:\\ 0\\.052521288376790404\ \(0\)\
+\-\ mri\\:\\ 0\\.05226446110032561\ \(0\)\
+\-\ treatment\\:\\ 0\\.048501440593845924\ \(0\)\
+\-\ within\\:\\ 0\\.046894351527622086\ \(0\)\
+\-\ male\\:\\ 0\\.045333406785917484\ \(0\)\
+\-\ there\\:\\ 0\\.04051317025388936\ \(0\)\
+\-\ from\\:\\ 0\\.04043789681491324\ \(0\)\
+\-\ are\\:\\ 0\\.03863539956558801\ \(0\)\
+\-\ at\\:\\ 0\\.03845804634727049\ \(0\)\
+\-\ or\\:\\ 0\\.035420760154987734\ \(0\)\
+\-\ left\\:\\ 0\\.03473242964833929\ \(0\)\
+\-\ for\\:\\ 0\\.030860333632766353\ \(0\)\
+\-\ with\\:\\ 0\\.019937288514696977\ \(0\)\

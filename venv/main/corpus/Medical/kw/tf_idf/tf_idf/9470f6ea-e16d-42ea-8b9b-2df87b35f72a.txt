@@ -1,55 +1,53 @@
-Texto: 
-swollen right testicle.
-patient underwent orchiectomy.  ischemic infarction and hemorrhage was confirmed pathologically.
-heterogeneous echotexture to right testicle.  asymmetric absence of blood flow on color doppler with blood flow only noted around testicle.
-testicular torsion
-testicular torsion subacute/chronic
-8 day history of right lower abdominal pain.  negative evaluation 6 days ago for appendicitis
-
-
-Keywords by value: 
-- testicle: 0.24178349559763115
-- torsion: 0.16177854766548977
-- subacute/chronic: 0.14941556650790674
-- testicular: 0.14863395339400623
-- pathologically: 0.09627159674639574
-- flow: 0.09573063989350902
-- orchiectomy: 0.09419359128720366
-- echotexture: 0.09176815325939564
-- blood: 0.0790647821189593
-- swollen: 0.07716675503263022
-- color: 0.07069707669195129
-- ischemic: 0.07053488260693179
-- asymmetric: 0.07037422592973612
-- doppler: 0.07005741011597082
-- appendicitis: 0.06590279218320837
-- around: 0.06030547545658842
-- absence: 0.06021742771290869
-- infarction: 0.05919505838691678
-- confirmed: 0.0544644000523186
-- 8: 0.054154534885582174
-- ago: 0.05391065797961438
-- heterogeneous: 0.05325754503042382
-- underwent: 0.049698237889461344
-- hemorrhage: 0.04820773871484806
-- day: 0.045982369989032705
-- right: 0.04584568012425848
-- days: 0.04439108976562674
-- only: 0.04354935014381247
-- negative: 0.04325627392160804
-- 6: 0.04325627392160804
-- evaluation: 0.04207184399706454
-- abdominal: 0.0362020209851206
-- noted: 0.034329172685637184
-- lower: 0.03257393337904852
-- history: 0.020003636232323447
-- pain: 0.017688274025944657
-- was: 0.01675046647819808
-- patient: 0.014518507303667593
-- for: 0.01235776523123246
-- on: 0.012269339192634374
-- to: 0.0072384425159828176
-- of: 0.003949281382982658
-- .: 0.003610122314984367
-- and: 0.0030510000971562447
-- with: 0.001983121628642199
+\-\ Texto\\:\\ \ \(0\)\
+\-\ swollen\\ right\\ testicle\\.\ \(0\)\
+\-\ patient\\ underwent\\ orchiectomy\\.\\ \\ ischemic\\ infarction\\ and\\ hemorrhage\\ was\\ confirmed\\ pathologically\\.\ \(0\)\
+\-\ heterogeneous\\ echotexture\\ to\\ right\\ testicle\\.\\ \\ asymmetric\\ absence\\ of\\ blood\\ flow\\ on\\ color\\ doppler\\ with\\ blood\\ flow\\ only\\ noted\\ around\\ testicle\\.\ \(0\)\
+\-\ testicular\\ torsion\ \(9\)\
+\-\ testicular\\ torsion\\ subacute\\/chronic\ \(0\)\
+\-\ 8\\ day\\ history\\ of\\ right\\ lower\\ abdominal\\ pain\\.\\ \\ negative\\ evaluation\\ 6\\ days\\ ago\\ for\\ appendicitis\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ testicle\\:\\ 0\\.24178349559763115\ \(0\)\
+\-\ torsion\\:\\ 0\\.16177854766548977\ \(0\)\
+\-\ subacute\\/chronic\\:\\ 0\\.14941556650790674\ \(0\)\
+\-\ testicular\\:\\ 0\\.14863395339400623\ \(0\)\
+\-\ pathologically\\:\\ 0\\.09627159674639574\ \(0\)\
+\-\ flow\\:\\ 0\\.09573063989350902\ \(0\)\
+\-\ orchiectomy\\:\\ 0\\.09419359128720366\ \(0\)\
+\-\ echotexture\\:\\ 0\\.09176815325939564\ \(0\)\
+\-\ blood\\:\\ 0\\.0790647821189593\ \(0\)\
+\-\ swollen\\:\\ 0\\.07716675503263022\ \(0\)\
+\-\ color\\:\\ 0\\.07069707669195129\ \(0\)\
+\-\ ischemic\\:\\ 0\\.07053488260693179\ \(0\)\
+\-\ asymmetric\\:\\ 0\\.07037422592973612\ \(0\)\
+\-\ doppler\\:\\ 0\\.07005741011597082\ \(0\)\
+\-\ appendicitis\\:\\ 0\\.06590279218320837\ \(0\)\
+\-\ around\\:\\ 0\\.06030547545658842\ \(0\)\
+\-\ absence\\:\\ 0\\.06021742771290869\ \(0\)\
+\-\ infarction\\:\\ 0\\.05919505838691678\ \(0\)\
+\-\ confirmed\\:\\ 0\\.0544644000523186\ \(0\)\
+\-\ 8\\:\\ 0\\.054154534885582174\ \(0\)\
+\-\ ago\\:\\ 0\\.05391065797961438\ \(0\)\
+\-\ heterogeneous\\:\\ 0\\.05325754503042382\ \(0\)\
+\-\ underwent\\:\\ 0\\.049698237889461344\ \(0\)\
+\-\ hemorrhage\\:\\ 0\\.04820773871484806\ \(0\)\
+\-\ day\\:\\ 0\\.045982369989032705\ \(0\)\
+\-\ right\\:\\ 0\\.04584568012425848\ \(0\)\
+\-\ days\\:\\ 0\\.04439108976562674\ \(0\)\
+\-\ only\\:\\ 0\\.04354935014381247\ \(0\)\
+\-\ negative\\:\\ 0\\.04325627392160804\ \(0\)\
+\-\ 6\\:\\ 0\\.04325627392160804\ \(0\)\
+\-\ evaluation\\:\\ 0\\.04207184399706454\ \(0\)\
+\-\ abdominal\\:\\ 0\\.0362020209851206\ \(0\)\
+\-\ noted\\:\\ 0\\.034329172685637184\ \(0\)\
+\-\ lower\\:\\ 0\\.03257393337904852\ \(0\)\
+\-\ history\\:\\ 0\\.020003636232323447\ \(0\)\
+\-\ pain\\:\\ 0\\.017688274025944657\ \(0\)\
+\-\ was\\:\\ 0\\.01675046647819808\ \(0\)\
+\-\ patient\\:\\ 0\\.014518507303667593\ \(0\)\
+\-\ for\\:\\ 0\\.01235776523123246\ \(0\)\
+\-\ on\\:\\ 0\\.012269339192634374\ \(0\)\
+\-\ to\\:\\ 0\\.0072384425159828176\ \(0\)\
+\-\ of\\:\\ 0\\.003949281382982658\ \(0\)\
+\-\ \\.\\:\\ 0\\.003610122314984367\ \(0\)\
+\-\ and\\:\\ 0\\.0030510000971562447\ \(0\)\
+\-\ with\\:\\ 0\\.001983121628642199\ \(0\)\

@@ -1,101 +1,99 @@
-Texto: 
-physical exam is unknown.  final pathology showed a 5 cm lesion, yellow-orange and pink/tan mass with cystic areas.  additonal areas of hemorrhage and necrosis.  the lesion extends to but not through the renal capsule.
-surgical removal of the right kidney.  obstruction of the left ureter was releved with stenting.
-within the right kidney, upper pole, there is a large heterogenious mass with areas of increased density and areas of necrosis.  the left kidney is enlarged moderately and the renal pelvis is somewhat dilated.  the left ureter demonstrates an obstructing stone.
-renal cell carcinoma, clear cell type.
-renal cell carcinoma
-complicated hemorrhagic cyst
-metastatic disease
-35 year old male presented initially with painless, gross hematuria.  acute presentation at the time of ct was with left flank pain.
-this lesion was confined to the right kidney and did not extend to through the cpasule.  this represents stage 1, tnm staging pt1bnxmx.
-
-
-Keywords by value: 
-- kidney: 0.2750333430092577
-- areas: 0.2657919435353091
-- renal: 0.24378948605421696
-- the: 0.214818097071795
-- ureter: 0.19203006919922588
-- cell: 0.16796108453425745
-- additonal: 0.15651789388851017
-- releved: 0.15651789388851017
-- heterogenious: 0.15651789388851017
-- cpasule: 0.15651789388851017
-- pt1bnxmx: 0.15651789388851017
-- necrosis: 0.14962360262179739
-- tnm: 0.14462535311193173
-- lesion: 0.1407653757333924
-- left: 0.1335444629960773
-- carcinoma: 0.11708465918425932
-- through: 0.11652118807997366
-- of: 0.11491815919998283
-- stenting: 0.11186274115756639
-- is: 0.10721114106742724
-- confined: 0.10469552898752853
-- obstructing: 0.10348392152350296
-- was: 0.10232759854708422
-- and: 0.10111977411734542
-- staging: 0.09997020038098796
-- moderately: 0.09874415681211245
-- right: 0.09734539180433925
-- final: 0.09601503459961294
-- with: 0.09582235231060111
-- capsule: 0.0957645584781276
-- complicated: 0.0928029882109501
-- painless: 0.0906432218594642
-- extend: 0.09027815894678029
-- stone: 0.08939810401446967
-- somewhat: 0.0890583442070173
-- represents: 0.08745368867387665
-- gross: 0.08685161603553401
-- hematuria: 0.08655832154991878
-- flank: 0.08584629781835444
-- pole: 0.08529721705300135
-- hemorrhagic: 0.08489663910051581
-- extends: 0.08059943028464374
-- 35: 0.07847615827266817
-- stage: 0.07793994870792015
-- not: 0.0772747091436485
-- pathology: 0.07683264131951152
-- initially: 0.07675035190708254
-- removal: 0.07481180131089869
-- mass: 0.07476862863752508
-- unknown: 0.07416427881921825
-- to: 0.07340307578215
-- clear: 0.07095395461972641
-- did: 0.07020911303784322
-- dilated: 0.07009733863860472
-- obstruction: 0.06855346992006993
-- pelvis: 0.06845194708182953
-- presentation: 0.06737313232593407
-- this: 0.06726084506844313
-- enlarged: 0.06672032984972144
-- type: 0.06565596944143903
-- hemorrhage: 0.06552744966745538
-- showed: 0.06518936366221906
-- density: 0.06489890650249121
-- cystic: 0.05894469700118775
-- time: 0.05801092789417034
-- presented: 0.05707313658790768
-- cyst: 0.05645848066363105
-- cm: 0.05620873375606095
-- metastatic: 0.05367764193812826
-- physical: 0.05306819393553074
-- acute: 0.05294475952111605
-- increased: 0.05292427317885888
-- upper: 0.052301033482353515
-- exam: 0.04926858053062697
-- demonstrates: 0.049169595777602736
-- large: 0.04903849821827276
-- but: 0.04839762783902858
-- surgical: 0.04756875941050655
-- within: 0.04507661179848533
-- male: 0.043576173091719975
-- disease: 0.0410829941960213
-- there: 0.03894278071389543
-- an: 0.03742574710779868
-- ct: 0.03726061292060743
-- at: 0.0369673184349922
-- pain: 0.035022037634508354
-- year: 0.030162080686887065
-- old: 0.028966038322747818
+\-\ Texto\\:\\ \ \(0\)\
+\-\ physical\\ exam\\ is\\ unknown\\.\\ \\ final\\ pathology\\ showed\\ a\\ 5\\ cm\\ lesion\\,\\ yellow\\-orange\\ and\\ pink\\/tan\\ mass\\ with\\ cystic\\ areas\\.\\ \\ additonal\\ areas\\ of\\ hemorrhage\\ and\\ necrosis\\.\\ \\ the\\ lesion\\ extends\\ to\\ but\\ not\\ through\\ the\\ renal\\ capsule\\.\ \(0\)\
+\-\ surgical\\ removal\\ of\\ the\\ right\\ kidney\\.\\ \\ obstruction\\ of\\ the\\ left\\ ureter\\ was\\ releved\\ with\\ stenting\\.\ \(0\)\
+\-\ within\\ the\\ right\\ kidney\\,\\ upper\\ pole\\,\\ there\\ is\\ a\\ large\\ heterogenious\\ mass\\ with\\ areas\\ of\\ increased\\ density\\ and\\ areas\\ of\\ necrosis\\.\\ \\ the\\ left\\ kidney\\ is\\ enlarged\\ moderately\\ and\\ the\\ renal\\ pelvis\\ is\\ somewhat\\ dilated\\.\\ \\ the\\ left\\ ureter\\ demonstrates\\ an\\ obstructing\\ stone\\.\ \(0\)\
+\-\ renal\\ cell\\ carcinoma\\,\\ clear\\ cell\\ type\\.\ \(0\)\
+\-\ renal\\ cell\\ carcinoma\ \(60\)\
+\-\ complicated\\ hemorrhagic\\ cyst\ \(0\)\
+\-\ metastatic\\ disease\ \(243\)\
+\-\ 35\\ year\\ old\\ male\\ presented\\ initially\\ with\\ painless\\,\\ gross\\ hematuria\\.\\ \\ acute\\ presentation\\ at\\ the\\ time\\ of\\ ct\\ was\\ with\\ left\\ flank\\ pain\\.\ \(0\)\
+\-\ this\\ lesion\\ was\\ confined\\ to\\ the\\ right\\ kidney\\ and\\ did\\ not\\ extend\\ to\\ through\\ the\\ cpasule\\.\\ \\ this\\ represents\\ stage\\ 1\\,\\ tnm\\ staging\\ pt1bnxmx\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ kidney\\:\\ 0\\.2750333430092577\ \(0\)\
+\-\ areas\\:\\ 0\\.2657919435353091\ \(0\)\
+\-\ renal\\:\\ 0\\.24378948605421696\ \(0\)\
+\-\ the\\:\\ 0\\.214818097071795\ \(0\)\
+\-\ ureter\\:\\ 0\\.19203006919922588\ \(0\)\
+\-\ cell\\:\\ 0\\.16796108453425745\ \(0\)\
+\-\ additonal\\:\\ 0\\.15651789388851017\ \(0\)\
+\-\ releved\\:\\ 0\\.15651789388851017\ \(0\)\
+\-\ heterogenious\\:\\ 0\\.15651789388851017\ \(0\)\
+\-\ cpasule\\:\\ 0\\.15651789388851017\ \(0\)\
+\-\ pt1bnxmx\\:\\ 0\\.15651789388851017\ \(0\)\
+\-\ necrosis\\:\\ 0\\.14962360262179739\ \(0\)\
+\-\ tnm\\:\\ 0\\.14462535311193173\ \(0\)\
+\-\ lesion\\:\\ 0\\.1407653757333924\ \(0\)\
+\-\ left\\:\\ 0\\.1335444629960773\ \(0\)\
+\-\ carcinoma\\:\\ 0\\.11708465918425932\ \(0\)\
+\-\ through\\:\\ 0\\.11652118807997366\ \(0\)\
+\-\ of\\:\\ 0\\.11491815919998283\ \(0\)\
+\-\ stenting\\:\\ 0\\.11186274115756639\ \(0\)\
+\-\ is\\:\\ 0\\.10721114106742724\ \(0\)\
+\-\ confined\\:\\ 0\\.10469552898752853\ \(0\)\
+\-\ obstructing\\:\\ 0\\.10348392152350296\ \(0\)\
+\-\ was\\:\\ 0\\.10232759854708422\ \(0\)\
+\-\ and\\:\\ 0\\.10111977411734542\ \(0\)\
+\-\ staging\\:\\ 0\\.09997020038098796\ \(0\)\
+\-\ moderately\\:\\ 0\\.09874415681211245\ \(0\)\
+\-\ right\\:\\ 0\\.09734539180433925\ \(0\)\
+\-\ final\\:\\ 0\\.09601503459961294\ \(0\)\
+\-\ with\\:\\ 0\\.09582235231060111\ \(0\)\
+\-\ capsule\\:\\ 0\\.0957645584781276\ \(0\)\
+\-\ complicated\\:\\ 0\\.0928029882109501\ \(0\)\
+\-\ painless\\:\\ 0\\.0906432218594642\ \(0\)\
+\-\ extend\\:\\ 0\\.09027815894678029\ \(0\)\
+\-\ stone\\:\\ 0\\.08939810401446967\ \(0\)\
+\-\ somewhat\\:\\ 0\\.0890583442070173\ \(0\)\
+\-\ represents\\:\\ 0\\.08745368867387665\ \(0\)\
+\-\ gross\\:\\ 0\\.08685161603553401\ \(0\)\
+\-\ hematuria\\:\\ 0\\.08655832154991878\ \(0\)\
+\-\ flank\\:\\ 0\\.08584629781835444\ \(0\)\
+\-\ pole\\:\\ 0\\.08529721705300135\ \(0\)\
+\-\ hemorrhagic\\:\\ 0\\.08489663910051581\ \(0\)\
+\-\ extends\\:\\ 0\\.08059943028464374\ \(0\)\
+\-\ 35\\:\\ 0\\.07847615827266817\ \(0\)\
+\-\ stage\\:\\ 0\\.07793994870792015\ \(0\)\
+\-\ not\\:\\ 0\\.0772747091436485\ \(0\)\
+\-\ pathology\\:\\ 0\\.07683264131951152\ \(0\)\
+\-\ initially\\:\\ 0\\.07675035190708254\ \(0\)\
+\-\ removal\\:\\ 0\\.07481180131089869\ \(0\)\
+\-\ mass\\:\\ 0\\.07476862863752508\ \(0\)\
+\-\ unknown\\:\\ 0\\.07416427881921825\ \(0\)\
+\-\ to\\:\\ 0\\.07340307578215\ \(0\)\
+\-\ clear\\:\\ 0\\.07095395461972641\ \(0\)\
+\-\ did\\:\\ 0\\.07020911303784322\ \(0\)\
+\-\ dilated\\:\\ 0\\.07009733863860472\ \(0\)\
+\-\ obstruction\\:\\ 0\\.06855346992006993\ \(0\)\
+\-\ pelvis\\:\\ 0\\.06845194708182953\ \(0\)\
+\-\ presentation\\:\\ 0\\.06737313232593407\ \(0\)\
+\-\ this\\:\\ 0\\.06726084506844313\ \(0\)\
+\-\ enlarged\\:\\ 0\\.06672032984972144\ \(0\)\
+\-\ type\\:\\ 0\\.06565596944143903\ \(0\)\
+\-\ hemorrhage\\:\\ 0\\.06552744966745538\ \(0\)\
+\-\ showed\\:\\ 0\\.06518936366221906\ \(0\)\
+\-\ density\\:\\ 0\\.06489890650249121\ \(0\)\
+\-\ cystic\\:\\ 0\\.05894469700118775\ \(0\)\
+\-\ time\\:\\ 0\\.05801092789417034\ \(0\)\
+\-\ presented\\:\\ 0\\.05707313658790768\ \(0\)\
+\-\ cyst\\:\\ 0\\.05645848066363105\ \(0\)\
+\-\ cm\\:\\ 0\\.05620873375606095\ \(0\)\
+\-\ metastatic\\:\\ 0\\.05367764193812826\ \(0\)\
+\-\ physical\\:\\ 0\\.05306819393553074\ \(0\)\
+\-\ acute\\:\\ 0\\.05294475952111605\ \(0\)\
+\-\ increased\\:\\ 0\\.05292427317885888\ \(0\)\
+\-\ upper\\:\\ 0\\.052301033482353515\ \(0\)\
+\-\ exam\\:\\ 0\\.04926858053062697\ \(0\)\
+\-\ demonstrates\\:\\ 0\\.049169595777602736\ \(0\)\
+\-\ large\\:\\ 0\\.04903849821827276\ \(0\)\
+\-\ but\\:\\ 0\\.04839762783902858\ \(0\)\
+\-\ surgical\\:\\ 0\\.04756875941050655\ \(0\)\
+\-\ within\\:\\ 0\\.04507661179848533\ \(0\)\
+\-\ male\\:\\ 0\\.043576173091719975\ \(0\)\
+\-\ disease\\:\\ 0\\.0410829941960213\ \(0\)\
+\-\ there\\:\\ 0\\.03894278071389543\ \(0\)\
+\-\ an\\:\\ 0\\.03742574710779868\ \(0\)\
+\-\ ct\\:\\ 0\\.03726061292060743\ \(0\)\
+\-\ at\\:\\ 0\\.0369673184349922\ \(0\)\
+\-\ pain\\:\\ 0\\.035022037634508354\ \(0\)\
+\-\ year\\:\\ 0\\.030162080686887065\ \(0\)\
+\-\ old\\:\\ 0\\.028966038322747818\ \(0\)\

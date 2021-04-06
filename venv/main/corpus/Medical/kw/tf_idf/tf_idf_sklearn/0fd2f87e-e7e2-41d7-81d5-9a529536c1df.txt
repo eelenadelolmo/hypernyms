@@ -1,60 +1,58 @@
-Texto: 
-status post left mastectomy.
-unremarkable blood chemistry and cbc.
-bone scan demonstrates no osteoblastic metastatic disease.  the right kidney is not visualized.  a ct scan demonstrates absence of the right kidney, but the right adrenal gland is intact and normal in appearance.  the patient reports no history of right nephrectomy.
-single kidney - renal agenesis
-renal agenesis
-51 year old female with a history of left breast carcinoma presents for bone scan to evaluate for metastatic disease.
-
-
-Keywords by value: 
-- kidney: 0.337384820684853
-- agenesis: 0.3360231623950804
-- scan: 0.2849199187217021
-- right: 0.2122917232042145
-- chemistry: 0.2108367095706379
-- renal: 0.19937188012021234
-- osteoblastic: 0.17908660929240308
-- metastatic: 0.17559104072673892
-- bone: 0.17468857483441858
-- mastectomy: 0.16990415980102958
-- nephrectomy: 0.16351194736527216
-- demonstrates: 0.16084425811130162
-- 51: 0.15283513859236744
-- adrenal: 0.14825667714198218
-- disease: 0.13439125577395847
-- cbc: 0.13356179302106674
-- gland: 0.13003887579280085
-- the: 0.127766529871895
-- absence: 0.1276233973062926
-- visualized: 0.1250013948809116
-- reports: 0.12447928468389932
-- evaluate: 0.12447928468389932
-- single: 0.12309163683789119
-- history: 0.12231916420883918
-- breast: 0.11624498665016152
-- intact: 0.11586187334703135
-- status: 0.1117132261817601
-- left: 0.10921312111569428
-- unremarkable: 0.10731711084187161
-- no: 0.10411197184994576
-- for: 0.09703765008179314
-- appearance: 0.0965056409548166
-- carcinoma: 0.09575223695089408
-- of: 0.09398046581286576
-- blood: 0.09296798094625468
-- is: 0.08767763987858222
-- post: 0.08710428803724864
-- but: 0.07915949298551427
-- female: 0.07724567388072787
-- presents: 0.07700643446418035
-- and: 0.06615687923021524
-- normal: 0.06535932874985224
-- not: 0.06319552289587048
-- ct: 0.0609437147815381
-- patient: 0.05206577919451828
-- year: 0.0493333066344368
-- old: 0.04737705151694716
-- to: 0.040019525211843536
-- in: 0.03982254919163413
-- with: 0.03134553970626488
+\-\ Texto\\:\\ \ \(0\)\
+\-\ status\\ post\\ left\\ mastectomy\\.\ \(1\)\
+\-\ unremarkable\\ blood\\ chemistry\\ and\\ cbc\\.\ \(0\)\
+\-\ bone\\ scan\\ demonstrates\\ no\\ osteoblastic\\ metastatic\\ disease\\.\\ \\ the\\ right\\ kidney\\ is\\ not\\ visualized\\.\\ \\ a\\ ct\\ scan\\ demonstrates\\ absence\\ of\\ the\\ right\\ kidney\\,\\ but\\ the\\ right\\ adrenal\\ gland\\ is\\ intact\\ and\\ normal\\ in\\ appearance\\.\\ \\ the\\ patient\\ reports\\ no\\ history\\ of\\ right\\ nephrectomy\\.\ \(0\)\
+\-\ single\\ kidney\\ \\-\\ renal\\ agenesis\ \(0\)\
+\-\ renal\\ agenesis\ \(13\)\
+\-\ 51\\ year\\ old\\ female\\ with\\ a\\ history\\ of\\ left\\ breast\\ carcinoma\\ presents\\ for\\ bone\\ scan\\ to\\ evaluate\\ for\\ metastatic\\ disease\\.\ \(1\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ kidney\\:\\ 0\\.337384820684853\ \(0\)\
+\-\ agenesis\\:\\ 0\\.3360231623950804\ \(0\)\
+\-\ scan\\:\\ 0\\.2849199187217021\ \(0\)\
+\-\ right\\:\\ 0\\.2122917232042145\ \(0\)\
+\-\ chemistry\\:\\ 0\\.2108367095706379\ \(0\)\
+\-\ renal\\:\\ 0\\.19937188012021234\ \(0\)\
+\-\ osteoblastic\\:\\ 0\\.17908660929240308\ \(0\)\
+\-\ metastatic\\:\\ 0\\.17559104072673892\ \(0\)\
+\-\ bone\\:\\ 0\\.17468857483441858\ \(0\)\
+\-\ mastectomy\\:\\ 0\\.16990415980102958\ \(0\)\
+\-\ nephrectomy\\:\\ 0\\.16351194736527216\ \(0\)\
+\-\ demonstrates\\:\\ 0\\.16084425811130162\ \(0\)\
+\-\ 51\\:\\ 0\\.15283513859236744\ \(0\)\
+\-\ adrenal\\:\\ 0\\.14825667714198218\ \(0\)\
+\-\ disease\\:\\ 0\\.13439125577395847\ \(0\)\
+\-\ cbc\\:\\ 0\\.13356179302106674\ \(0\)\
+\-\ gland\\:\\ 0\\.13003887579280085\ \(0\)\
+\-\ the\\:\\ 0\\.127766529871895\ \(0\)\
+\-\ absence\\:\\ 0\\.1276233973062926\ \(0\)\
+\-\ visualized\\:\\ 0\\.1250013948809116\ \(0\)\
+\-\ reports\\:\\ 0\\.12447928468389932\ \(0\)\
+\-\ evaluate\\:\\ 0\\.12447928468389932\ \(0\)\
+\-\ single\\:\\ 0\\.12309163683789119\ \(0\)\
+\-\ history\\:\\ 0\\.12231916420883918\ \(0\)\
+\-\ breast\\:\\ 0\\.11624498665016152\ \(0\)\
+\-\ intact\\:\\ 0\\.11586187334703135\ \(0\)\
+\-\ status\\:\\ 0\\.1117132261817601\ \(0\)\
+\-\ left\\:\\ 0\\.10921312111569428\ \(0\)\
+\-\ unremarkable\\:\\ 0\\.10731711084187161\ \(0\)\
+\-\ no\\:\\ 0\\.10411197184994576\ \(0\)\
+\-\ for\\:\\ 0\\.09703765008179314\ \(0\)\
+\-\ appearance\\:\\ 0\\.0965056409548166\ \(0\)\
+\-\ carcinoma\\:\\ 0\\.09575223695089408\ \(0\)\
+\-\ of\\:\\ 0\\.09398046581286576\ \(0\)\
+\-\ blood\\:\\ 0\\.09296798094625468\ \(0\)\
+\-\ is\\:\\ 0\\.08767763987858222\ \(0\)\
+\-\ post\\:\\ 0\\.08710428803724864\ \(0\)\
+\-\ but\\:\\ 0\\.07915949298551427\ \(0\)\
+\-\ female\\:\\ 0\\.07724567388072787\ \(0\)\
+\-\ presents\\:\\ 0\\.07700643446418035\ \(0\)\
+\-\ and\\:\\ 0\\.06615687923021524\ \(0\)\
+\-\ normal\\:\\ 0\\.06535932874985224\ \(0\)\
+\-\ not\\:\\ 0\\.06319552289587048\ \(0\)\
+\-\ ct\\:\\ 0\\.0609437147815381\ \(0\)\
+\-\ patient\\:\\ 0\\.05206577919451828\ \(0\)\
+\-\ year\\:\\ 0\\.0493333066344368\ \(0\)\
+\-\ old\\:\\ 0\\.04737705151694716\ \(0\)\
+\-\ to\\:\\ 0\\.040019525211843536\ \(0\)\
+\-\ in\\:\\ 0\\.03982254919163413\ \(0\)\
+\-\ with\\:\\ 0\\.03134553970626488\ \(0\)\

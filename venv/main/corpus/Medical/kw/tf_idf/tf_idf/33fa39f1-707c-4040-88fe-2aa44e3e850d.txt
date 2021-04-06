@@ -1,119 +1,116 @@
-Texto: 
-goal of treatment is to induce and maintain remission.  in the process, amelioration of symptoms and improvement in the patient's quality of life are essential.  aminosalicylates, antibiotics, glucocorticoids, immune modulators (methotrexate, cyclosporine) and biologic response modifiers are potential treatments.  surgery is often required with 3/4th patients having had surgery by 20 years post diagnosis.  since recurrence is common, surgery attempts to preserve intestinal length.
-
-feldman: sleisenger & fordtran's gastrointestinal and liver disease, 8th ed.  saunders, 2006.
-ct images of the abdomen and pelvis demonstrates diffuse bowel wall thickening and enhancement of the sigmoid colon sparing the rectum and descending colon.  there is prominence of the mesenteric vessels and mesenteric inflammatory change.
-crohn disease
-crohn's disease
-inflammatory bowel disease
-radiation enteritis
-infectious enteritis
-diverticulitis
-31 year old male with known history presents with abdominal pain.
-
-
-Keywords by value: 
-- enteritis: 0.07780214296642406
-- crohn: 0.058178639260090946
-- aminosalicylates: 0.05614979887876751
-- modulators: 0.05614979887876751
-- 3/4th: 0.05614979887876751
-- modifiers: 0.05173484868411817
-- feldman: 0.05173484868411817
-- sleisenger: 0.05173484868411817
-- fordtran: 0.05173484868411817
-- mesenteric: 0.05019517325815728
-- amelioration: 0.04915226837769674
-- biologic: 0.04731989848946884
-- induce: 0.04473731818304741
-- cyclosporine: 0.04375546671917952
-- colon: 0.04275073770474318
-- preserve: 0.04215473787662598
-- 8th: 0.04215473787662598
-- 2006.: 0.04215473787662598
-- surgery: 0.039649663650196336
-- glucocorticoids: 0.03934051652453019
-- remission: 0.038489998100170175
-- inflammatory: 0.03774924769671368
-- attempts: 0.03706870159498412
-- quality: 0.03675793621810876
-- immune: 0.03617849814036528
-- 's: 0.03600089079682251
-- disease: 0.03558566983989055
-- goal: 0.03539759163022303
-- methotrexate: 0.03470205473872627
-- essential: 0.03448612128856269
-- bowel: 0.03413953545076127
-- saunders: 0.034075047905520836
-- maintain: 0.03332483748732731
-- sparing: 0.032342986023459426
-- prominence: 0.03219311024377666
-- treatments: 0.03149246759909941
-- intestinal: 0.030861315352957816
-- rectum: 0.030397879975362727
-- gastrointestinal: 0.029660097710871504
-- 31: 0.028565510087134826
-- diverticulitis: 0.02792803582881009
-- sigmoid: 0.027704524237655508
-- response: 0.0272797384128232
-- length: 0.0272797384128232
-- descending: 0.026567691240924368
-- potential: 0.026210433491554663
-- improvement: 0.02539620819531336
-- having: 0.025001078316845508
-- life: 0.023744726679835123
-- recurrence: 0.023744726679835123
-- infectious: 0.023400349474291964
-- ed: 0.02300325947063505
-- vessels: 0.021912356791607218
-- change: 0.0212147865635404
-- process: 0.020955831113596907
-- antibiotics: 0.02044405323357007
-- since: 0.019992131348396284
-- pelvis: 0.01977765227128426
-- required: 0.019590608355332894
-- 20: 0.019570160739853605
-- &: 0.01911712033211103
-- liver: 0.0187657421072148
-- thickening: 0.018449838023524533
-- radiation: 0.01786147292714864
-- often: 0.017366073557450016
-- known: 0.01722325531505618
-- post: 0.017139076643772573
-- diffuse: 0.016477754269906466
-- abdomen: 0.016123466642647747
-- years: 0.01598244036317505
-- wall: 0.015765344714896472
-- are: 0.014839157611842062
-- enhancement: 0.014589100421165836
-- is: 0.014325879704069443
-- common: 0.014243740203543931
-- patients: 0.014086462416344115
-- ,: 0.01379414346584904
-- abdominal: 0.013604581134535767
-- symptoms: 0.01356469730508369
-- diagnosis: 0.012498212297964459
-- demonstrates: 0.011889307016899275
-- had: 0.011744266364590498
-- presents: 0.011118753474572777
-- treatment: 0.011016668532489726
-- images: 0.010441171286301619
-- male: 0.009842073489729129
-- and: 0.009172433413106673
-- by: 0.009062871995190286
-- there: 0.00810009908576426
-- ct: 0.007613399066191357
-- history: 0.007517290049089704
-- :: 0.007199202649622071
-- pain: 0.00664718578045054
-- year: 0.006089842479445317
-- old: 0.0055728318271481185
-- patient: 0.005455999559976994
-- to: 0.005440358069337405
-- in: 0.005368117581404521
-- the: 0.005283412154278693
-- (: 0.00460103010346408
-- ): 0.004544826064415956
-- of: 0.004452374552789367
-- with: 0.002235748587704899
-- .: 0.0020350052539880033
+\-\ Texto\\:\\ \ \(0\)\
+\-\ goal\\ of\\ treatment\\ is\\ to\\ induce\\ and\\ maintain\\ remission\\.\\ \\ in\\ the\\ process\\,\\ amelioration\\ of\\ symptoms\\ and\\ improvement\\ in\\ the\\ patient\\'s\\ quality\\ of\\ life\\ are\\ essential\\.\\ \\ aminosalicylates\\,\\ antibiotics\\,\\ glucocorticoids\\,\\ immune\\ modulators\\ \\(methotrexate\\,\\ cyclosporine\\)\\ and\\ biologic\\ response\\ modifiers\\ are\\ potential\\ treatments\\.\\ \\ surgery\\ is\\ often\\ required\\ with\\ 3\\/4th\\ patients\\ having\\ had\\ surgery\\ by\\ 20\\ years\\ post\\ diagnosis\\.\\ \\ since\\ recurrence\\ is\\ common\\,\\ surgery\\ attempts\\ to\\ preserve\\ intestinal\\ length\\.\ \(0\)\
+\-\ feldman\\:\\ sleisenger\\ \\&\\ fordtran\\'s\\ gastrointestinal\\ and\\ liver\\ disease\\,\\ 8th\\ ed\\.\\ \\ saunders\\,\\ 2006\\.\ \(0\)\
+\-\ ct\\ images\\ of\\ the\\ abdomen\\ and\\ pelvis\\ demonstrates\\ diffuse\\ bowel\\ wall\\ thickening\\ and\\ enhancement\\ of\\ the\\ sigmoid\\ colon\\ sparing\\ the\\ rectum\\ and\\ descending\\ colon\\.\\ \\ there\\ is\\ prominence\\ of\\ the\\ mesenteric\\ vessels\\ and\\ mesenteric\\ inflammatory\\ change\\.\ \(0\)\
+\-\ crohn\\ disease\ \(0\)\
+\-\ crohn\\'s\\ disease\ \(1\)\
+\-\ inflammatory\\ bowel\\ disease\ \(31\)\
+\-\ radiation\\ enteritis\ \(0\)\
+\-\ infectious\\ enteritis\ \(2\)\
+\-\ diverticulitis\ \(62\)\
+\-\ 31\\ year\\ old\\ male\\ with\\ known\\ history\\ presents\\ with\\ abdominal\\ pain\\.\ \(1\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ enteritis\\:\\ 0\\.07780214296642406\ \(0\)\
+\-\ crohn\\:\\ 0\\.058178639260090946\ \(0\)\
+\-\ aminosalicylates\\:\\ 0\\.05614979887876751\ \(0\)\
+\-\ modulators\\:\\ 0\\.05614979887876751\ \(0\)\
+\-\ 3\\/4th\\:\\ 0\\.05614979887876751\ \(0\)\
+\-\ modifiers\\:\\ 0\\.05173484868411817\ \(0\)\
+\-\ feldman\\:\\ 0\\.05173484868411817\ \(0\)\
+\-\ sleisenger\\:\\ 0\\.05173484868411817\ \(0\)\
+\-\ fordtran\\:\\ 0\\.05173484868411817\ \(0\)\
+\-\ mesenteric\\:\\ 0\\.05019517325815728\ \(0\)\
+\-\ amelioration\\:\\ 0\\.04915226837769674\ \(0\)\
+\-\ biologic\\:\\ 0\\.04731989848946884\ \(0\)\
+\-\ induce\\:\\ 0\\.04473731818304741\ \(0\)\
+\-\ cyclosporine\\:\\ 0\\.04375546671917952\ \(0\)\
+\-\ colon\\:\\ 0\\.04275073770474318\ \(0\)\
+\-\ preserve\\:\\ 0\\.04215473787662598\ \(0\)\
+\-\ 8th\\:\\ 0\\.04215473787662598\ \(0\)\
+\-\ 2006\\.\\:\\ 0\\.04215473787662598\ \(0\)\
+\-\ surgery\\:\\ 0\\.039649663650196336\ \(0\)\
+\-\ glucocorticoids\\:\\ 0\\.03934051652453019\ \(0\)\
+\-\ remission\\:\\ 0\\.038489998100170175\ \(0\)\
+\-\ inflammatory\\:\\ 0\\.03774924769671368\ \(0\)\
+\-\ attempts\\:\\ 0\\.03706870159498412\ \(0\)\
+\-\ quality\\:\\ 0\\.03675793621810876\ \(0\)\
+\-\ immune\\:\\ 0\\.03617849814036528\ \(0\)\
+\-\ \\'s\\:\\ 0\\.03600089079682251\ \(0\)\
+\-\ disease\\:\\ 0\\.03558566983989055\ \(0\)\
+\-\ goal\\:\\ 0\\.03539759163022303\ \(0\)\
+\-\ methotrexate\\:\\ 0\\.03470205473872627\ \(0\)\
+\-\ essential\\:\\ 0\\.03448612128856269\ \(0\)\
+\-\ bowel\\:\\ 0\\.03413953545076127\ \(0\)\
+\-\ saunders\\:\\ 0\\.034075047905520836\ \(0\)\
+\-\ maintain\\:\\ 0\\.03332483748732731\ \(0\)\
+\-\ sparing\\:\\ 0\\.032342986023459426\ \(0\)\
+\-\ prominence\\:\\ 0\\.03219311024377666\ \(0\)\
+\-\ treatments\\:\\ 0\\.03149246759909941\ \(0\)\
+\-\ intestinal\\:\\ 0\\.030861315352957816\ \(0\)\
+\-\ rectum\\:\\ 0\\.030397879975362727\ \(0\)\
+\-\ gastrointestinal\\:\\ 0\\.029660097710871504\ \(0\)\
+\-\ 31\\:\\ 0\\.028565510087134826\ \(0\)\
+\-\ diverticulitis\\:\\ 0\\.02792803582881009\ \(0\)\
+\-\ sigmoid\\:\\ 0\\.027704524237655508\ \(0\)\
+\-\ response\\:\\ 0\\.0272797384128232\ \(0\)\
+\-\ length\\:\\ 0\\.0272797384128232\ \(0\)\
+\-\ descending\\:\\ 0\\.026567691240924368\ \(0\)\
+\-\ potential\\:\\ 0\\.026210433491554663\ \(0\)\
+\-\ improvement\\:\\ 0\\.02539620819531336\ \(0\)\
+\-\ having\\:\\ 0\\.025001078316845508\ \(0\)\
+\-\ life\\:\\ 0\\.023744726679835123\ \(0\)\
+\-\ recurrence\\:\\ 0\\.023744726679835123\ \(0\)\
+\-\ infectious\\:\\ 0\\.023400349474291964\ \(0\)\
+\-\ ed\\:\\ 0\\.02300325947063505\ \(0\)\
+\-\ vessels\\:\\ 0\\.021912356791607218\ \(0\)\
+\-\ change\\:\\ 0\\.0212147865635404\ \(0\)\
+\-\ process\\:\\ 0\\.020955831113596907\ \(0\)\
+\-\ antibiotics\\:\\ 0\\.02044405323357007\ \(0\)\
+\-\ since\\:\\ 0\\.019992131348396284\ \(0\)\
+\-\ pelvis\\:\\ 0\\.01977765227128426\ \(0\)\
+\-\ required\\:\\ 0\\.019590608355332894\ \(0\)\
+\-\ 20\\:\\ 0\\.019570160739853605\ \(0\)\
+\-\ \\&\\:\\ 0\\.01911712033211103\ \(0\)\
+\-\ liver\\:\\ 0\\.0187657421072148\ \(0\)\
+\-\ thickening\\:\\ 0\\.018449838023524533\ \(0\)\
+\-\ radiation\\:\\ 0\\.01786147292714864\ \(0\)\
+\-\ often\\:\\ 0\\.017366073557450016\ \(0\)\
+\-\ known\\:\\ 0\\.01722325531505618\ \(0\)\
+\-\ post\\:\\ 0\\.017139076643772573\ \(0\)\
+\-\ diffuse\\:\\ 0\\.016477754269906466\ \(0\)\
+\-\ abdomen\\:\\ 0\\.016123466642647747\ \(0\)\
+\-\ years\\:\\ 0\\.01598244036317505\ \(0\)\
+\-\ wall\\:\\ 0\\.015765344714896472\ \(0\)\
+\-\ are\\:\\ 0\\.014839157611842062\ \(0\)\
+\-\ enhancement\\:\\ 0\\.014589100421165836\ \(0\)\
+\-\ is\\:\\ 0\\.014325879704069443\ \(0\)\
+\-\ common\\:\\ 0\\.014243740203543931\ \(0\)\
+\-\ patients\\:\\ 0\\.014086462416344115\ \(0\)\
+\-\ \\,\\:\\ 0\\.01379414346584904\ \(0\)\
+\-\ abdominal\\:\\ 0\\.013604581134535767\ \(0\)\
+\-\ symptoms\\:\\ 0\\.01356469730508369\ \(0\)\
+\-\ diagnosis\\:\\ 0\\.012498212297964459\ \(0\)\
+\-\ demonstrates\\:\\ 0\\.011889307016899275\ \(0\)\
+\-\ had\\:\\ 0\\.011744266364590498\ \(0\)\
+\-\ presents\\:\\ 0\\.011118753474572777\ \(0\)\
+\-\ treatment\\:\\ 0\\.011016668532489726\ \(0\)\
+\-\ images\\:\\ 0\\.010441171286301619\ \(0\)\
+\-\ male\\:\\ 0\\.009842073489729129\ \(0\)\
+\-\ and\\:\\ 0\\.009172433413106673\ \(0\)\
+\-\ by\\:\\ 0\\.009062871995190286\ \(0\)\
+\-\ there\\:\\ 0\\.00810009908576426\ \(0\)\
+\-\ ct\\:\\ 0\\.007613399066191357\ \(0\)\
+\-\ history\\:\\ 0\\.007517290049089704\ \(0\)\
+\-\ \\:\\:\\ 0\\.007199202649622071\ \(0\)\
+\-\ pain\\:\\ 0\\.00664718578045054\ \(0\)\
+\-\ year\\:\\ 0\\.006089842479445317\ \(0\)\
+\-\ old\\:\\ 0\\.0055728318271481185\ \(0\)\
+\-\ patient\\:\\ 0\\.005455999559976994\ \(0\)\
+\-\ to\\:\\ 0\\.005440358069337405\ \(0\)\
+\-\ in\\:\\ 0\\.005368117581404521\ \(0\)\
+\-\ the\\:\\ 0\\.005283412154278693\ \(0\)\
+\-\ \\(\\:\\ 0\\.00460103010346408\ \(0\)\
+\-\ \\)\\:\\ 0\\.004544826064415956\ \(0\)\
+\-\ of\\:\\ 0\\.004452374552789367\ \(0\)\
+\-\ with\\:\\ 0\\.002235748587704899\ \(0\)\
+\-\ \\.\\:\\ 0\\.0020350052539880033\ \(0\)\

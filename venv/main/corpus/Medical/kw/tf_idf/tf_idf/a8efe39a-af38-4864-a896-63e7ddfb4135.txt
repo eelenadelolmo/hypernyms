@@ -1,92 +1,90 @@
-Texto: 
-<li>pain in the right lower quadrant.
-<li>afebrile
-<li>wbc 9.8
-<li>hemoglobin 12.8 (low)
-<li>hematocrit 37.8 (low)
-<li>essentially normal metabolic panel
-patient initially underwent colonoscopy which was positive for adenocarcinoma of the ascending colon. the patient subsequently underwent a right hemicolectomy which was positive for moderately differentiated adenocarcinoma of the ascending colon and cecum.
-<li>soft tissue mass in the region of the cecum and ascending colon. 
-<li>the appendix is not visualized
-<li>multiple dilated loops of small bowel with wall enhancement
-<li> fluid within the perirectal and right pericolic gutter
-colon adenocarcinoma
-<li>adenocarcinoma
-<li>colitis
-<li>ruptured appendix
-patient presented to the emergency department with right lower quadrant pain for three days.
-
-
-Keywords by value: 
-- li: 0.38433052668848944
-- <: 0.27840812894495637
-- >: 0.23966998500448922
-- adenocarcinoma: 0.09588453102761661
-- ascending: 0.0892482841435566
-- colon: 0.08716708856681402
-- cecum: 0.06292501961577113
-- 37.8: 0.05724362612965259
-- appendix: 0.05404620875076591
-- perirectal: 0.05274267041173087
-- 12.8: 0.04679273059436622
-- 9.8: 0.042975934069027784
-- pericolic: 0.0422917748764445
-- gutter: 0.0422917748764445
-- hemicolectomy: 0.04110786866349674
-- quadrant: 0.0390568303115072
-- underwent: 0.03808046799322363
-- positive: 0.036011501172521
-- hemoglobin: 0.0337961072163784
-- hematocrit: 0.032670966169144396
-- panel: 0.032670966169144396
-- colonoscopy: 0.03238231836024288
-- moderately: 0.0317122908522219
-- essentially: 0.03110497878721655
-- low: 0.030859325361901294
-- colitis: 0.030444052200788357
-- differentiated: 0.02965599468777363
-- ruptured: 0.02887058812661998
-- metabolic: 0.027405185544363043
-- loops: 0.027211335134300175
-- afebrile: 0.0256362595682527
-- subsequently: 0.02515503896985191
-- lower: 0.02495924765407614
-- department: 0.02488254417050755
-- right: 0.023419005431439394
-- initially: 0.022584287949773896
-- visualized: 0.022460598372042114
-- emergency: 0.021011614272599195
-- which: 0.02071616347068245
-- wbc: 0.020227758769972806
-- dilated: 0.020162931211633952
-- three: 0.018705352132122797
-- bowel: 0.017402295668082855
-- days: 0.017006975949168685
-- patient: 0.016686855797072492
-- wall: 0.01607246181973212
-- fluid: 0.01577038379612892
-- region: 0.01567273524181372
-- presented: 0.015125698928716944
-- enhancement: 0.014873303676123611
-- for: 0.014203405493039905
-- pain: 0.013553352825074477
-- soft: 0.013512511454503573
-- tissue: 0.013152085639302558
-- was: 0.012834773015762167
-- small: 0.012782956392085187
-- multiple: 0.011687051970644603
-- within: 0.010585268885623908
-- (: 0.009381321120050138
-- ): 0.009266723274198767
-- normal: 0.008698782172721437
-- the: 0.008079503651510599
-- not: 0.00801830306325932
-- mass: 0.007717279265893277
-- in: 0.0054726913005227916
-- is: 0.0036512388206800367
-- and: 0.0035066689428354244
-- of: 0.0030260727479997
-- to: 0.0027731695353440666
-- a: 0.002575323388432476
-- with: 0.0015195347544141526
-- .: 0.001152582340822931
+\-\ Texto\\:\\ \ \(0\)\
+\-\ \\<li\\>pain\\ in\\ the\\ right\\ lower\\ quadrant\\.\ \(0\)\
+\-\ \\<li\\>afebrile\ \(0\)\
+\-\ \\<li\\>wbc\\ 9\\.8\ \(0\)\
+\-\ \\<li\\>hemoglobin\\ 12\\.8\\ \\(low\\)\ \(1\)\
+\-\ \\<li\\>hematocrit\\ 37\\.8\\ \\(low\\)\ \(1\)\
+\-\ \\<li\\>essentially\\ normal\\ metabolic\\ panel\ \(0\)\
+\-\ patient\\ initially\\ underwent\\ colonoscopy\\ which\\ was\\ positive\\ for\\ adenocarcinoma\\ of\\ the\\ ascending\\ colon\\.\\ the\\ patient\\ subsequently\\ underwent\\ a\\ right\\ hemicolectomy\\ which\\ was\\ positive\\ for\\ moderately\\ differentiated\\ adenocarcinoma\\ of\\ the\\ ascending\\ colon\\ and\\ cecum\\.\ \(0\)\
+\-\ \\<li\\>soft\\ tissue\\ mass\\ in\\ the\\ region\\ of\\ the\\ cecum\\ and\\ ascending\\ colon\\.\\ \ \(0\)\
+\-\ \\<li\\>the\\ appendix\\ is\\ not\\ visualized\ \(0\)\
+\-\ \\<li\\>multiple\\ dilated\\ loops\\ of\\ small\\ bowel\\ with\\ wall\\ enhancement\ \(0\)\
+\-\ \\<li\\>\\ fluid\\ within\\ the\\ perirectal\\ and\\ right\\ pericolic\\ gutter\ \(0\)\
+\-\ colon\\ adenocarcinoma\ \(0\)\
+\-\ \\<li\\>adenocarcinoma\ \(0\)\
+\-\ \\<li\\>colitis\ \(0\)\
+\-\ \\<li\\>ruptured\\ appendix\ \(0\)\
+\-\ patient\\ presented\\ to\\ the\\ emergency\\ department\\ with\\ right\\ lower\\ quadrant\\ pain\\ for\\ three\\ days\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ li\\:\\ 0\\.38433052668848944\ \(0\)\
+\-\ \\<\\:\\ 0\\.27840812894495637\ \(0\)\
+\-\ \\>\\:\\ 0\\.23966998500448922\ \(0\)\
+\-\ adenocarcinoma\\:\\ 0\\.09588453102761661\ \(0\)\
+\-\ ascending\\:\\ 0\\.0892482841435566\ \(0\)\
+\-\ colon\\:\\ 0\\.08716708856681402\ \(0\)\
+\-\ cecum\\:\\ 0\\.06292501961577113\ \(0\)\
+\-\ 37\\.8\\:\\ 0\\.05724362612965259\ \(0\)\
+\-\ appendix\\:\\ 0\\.05404620875076591\ \(0\)\
+\-\ perirectal\\:\\ 0\\.05274267041173087\ \(0\)\
+\-\ 12\\.8\\:\\ 0\\.04679273059436622\ \(0\)\
+\-\ 9\\.8\\:\\ 0\\.042975934069027784\ \(0\)\
+\-\ pericolic\\:\\ 0\\.0422917748764445\ \(0\)\
+\-\ gutter\\:\\ 0\\.0422917748764445\ \(0\)\
+\-\ hemicolectomy\\:\\ 0\\.04110786866349674\ \(0\)\
+\-\ quadrant\\:\\ 0\\.0390568303115072\ \(0\)\
+\-\ underwent\\:\\ 0\\.03808046799322363\ \(0\)\
+\-\ positive\\:\\ 0\\.036011501172521\ \(0\)\
+\-\ hemoglobin\\:\\ 0\\.0337961072163784\ \(0\)\
+\-\ hematocrit\\:\\ 0\\.032670966169144396\ \(0\)\
+\-\ panel\\:\\ 0\\.032670966169144396\ \(0\)\
+\-\ colonoscopy\\:\\ 0\\.03238231836024288\ \(0\)\
+\-\ moderately\\:\\ 0\\.0317122908522219\ \(0\)\
+\-\ essentially\\:\\ 0\\.03110497878721655\ \(0\)\
+\-\ low\\:\\ 0\\.030859325361901294\ \(0\)\
+\-\ colitis\\:\\ 0\\.030444052200788357\ \(0\)\
+\-\ differentiated\\:\\ 0\\.02965599468777363\ \(0\)\
+\-\ ruptured\\:\\ 0\\.02887058812661998\ \(0\)\
+\-\ metabolic\\:\\ 0\\.027405185544363043\ \(0\)\
+\-\ loops\\:\\ 0\\.027211335134300175\ \(0\)\
+\-\ afebrile\\:\\ 0\\.0256362595682527\ \(0\)\
+\-\ subsequently\\:\\ 0\\.02515503896985191\ \(0\)\
+\-\ lower\\:\\ 0\\.02495924765407614\ \(0\)\
+\-\ department\\:\\ 0\\.02488254417050755\ \(0\)\
+\-\ right\\:\\ 0\\.023419005431439394\ \(0\)\
+\-\ initially\\:\\ 0\\.022584287949773896\ \(0\)\
+\-\ visualized\\:\\ 0\\.022460598372042114\ \(0\)\
+\-\ emergency\\:\\ 0\\.021011614272599195\ \(0\)\
+\-\ which\\:\\ 0\\.02071616347068245\ \(0\)\
+\-\ wbc\\:\\ 0\\.020227758769972806\ \(0\)\
+\-\ dilated\\:\\ 0\\.020162931211633952\ \(0\)\
+\-\ three\\:\\ 0\\.018705352132122797\ \(0\)\
+\-\ bowel\\:\\ 0\\.017402295668082855\ \(0\)\
+\-\ days\\:\\ 0\\.017006975949168685\ \(0\)\
+\-\ patient\\:\\ 0\\.016686855797072492\ \(0\)\
+\-\ wall\\:\\ 0\\.01607246181973212\ \(0\)\
+\-\ fluid\\:\\ 0\\.01577038379612892\ \(0\)\
+\-\ region\\:\\ 0\\.01567273524181372\ \(0\)\
+\-\ presented\\:\\ 0\\.015125698928716944\ \(0\)\
+\-\ enhancement\\:\\ 0\\.014873303676123611\ \(0\)\
+\-\ for\\:\\ 0\\.014203405493039905\ \(0\)\
+\-\ pain\\:\\ 0\\.013553352825074477\ \(0\)\
+\-\ soft\\:\\ 0\\.013512511454503573\ \(0\)\
+\-\ tissue\\:\\ 0\\.013152085639302558\ \(0\)\
+\-\ was\\:\\ 0\\.012834773015762167\ \(0\)\
+\-\ small\\:\\ 0\\.012782956392085187\ \(0\)\
+\-\ multiple\\:\\ 0\\.011687051970644603\ \(0\)\
+\-\ within\\:\\ 0\\.010585268885623908\ \(0\)\
+\-\ \\(\\:\\ 0\\.009381321120050138\ \(0\)\
+\-\ \\)\\:\\ 0\\.009266723274198767\ \(0\)\
+\-\ normal\\:\\ 0\\.008698782172721437\ \(0\)\
+\-\ the\\:\\ 0\\.008079503651510599\ \(0\)\
+\-\ not\\:\\ 0\\.00801830306325932\ \(0\)\
+\-\ mass\\:\\ 0\\.007717279265893277\ \(0\)\
+\-\ in\\:\\ 0\\.0054726913005227916\ \(0\)\
+\-\ is\\:\\ 0\\.0036512388206800367\ \(0\)\
+\-\ and\\:\\ 0\\.0035066689428354244\ \(0\)\
+\-\ of\\:\\ 0\\.0030260727479997\ \(0\)\
+\-\ to\\:\\ 0\\.0027731695353440666\ \(0\)\
+\-\ a\\:\\ 0\\.002575323388432476\ \(0\)\
+\-\ with\\:\\ 0\\.0015195347544141526\ \(0\)\
+\-\ \\.\\:\\ 0\\.001152582340822931\ \(0\)\

@@ -1,101 +1,99 @@
-Texto: 
-na
-there was no evidence of shunt failure.  the patient was treated for a viral illness and discharged to home.
-the plain film demonstrates open spinal processes including l5 and the entire sacrum.
-the ct demonstrates a small posterior fossa with herniation of the cerebellar tonsils into the foramen magnum as well as a compressed fourth ventricle and a beaked tectum.  this constellation is seen in chiari two malformations.  there was no evidence of shunt failure.
-chiari two malformation
-without the additional findings of a neural tube defect these findings could be seen in a chiari one malformation.
-history of nausea and vomiting in a patient with a vp shunt and known history of neural tube defect.
-the combination of a small posterior fossa and herniation of the cerebellar tonsils causes an obstructing hydrocephalus in patients with a chiari malformation.  this is relieved with ventriculoperitoneal shunting.  nausea and vomitting can be signs of raised intracranial pressure as a result of shunt failure.  no evidence of shunt failure is seen in this case.
-
-
-Keywords by value: 
-- shunt: 0.12013775188299074
-- chiari: 0.11563067092391342
-- failure: 0.07277083223546449
-- tonsils: 0.05849490455957991
-- malformation: 0.055570869334343145
-- neural: 0.04703132667646042
-- tectum: 0.04193970725705646
-- herniation: 0.041357425324676546
-- cerebellar: 0.04006108379395027
-- tube: 0.039136768112581655
-- fossa: 0.03785651772501227
-- nausea: 0.03739391322046014
-- beaked: 0.037334827581039044
-- ventriculoperitoneal: 0.037334827581039044
-- evidence: 0.0365289551635904
-- vomitting: 0.03539637679876333
-- defect: 0.034768992677173115
-- vp: 0.03251252760820805
-- constellation: 0.02999826933675092
-- magnum: 0.029800619096691815
-- shunting: 0.029609905402065345
-- raised: 0.029609905402065345
-- sacrum: 0.029247452279789955
-- compressed: 0.02828587234414279
-- obstructing: 0.027862168314416094
-- seen: 0.027531971984799296
-- relieved: 0.027344178206783896
-- two: 0.02660142649582615
-- l5: 0.0260335148545182
-- malformations: 0.02593732150071711
-- illness: 0.025842801159891734
-- processes: 0.02514056348880474
-- na: 0.02505883589443224
-- a: 0.02370977076089464
-- viral: 0.023394885420922003
-- combination: 0.023394885420922003
-- entire: 0.02282824949524586
-- fourth: 0.022464060852403687
-- foramen: 0.02217021725854349
-- home: 0.02207569691771812
-- posterior: 0.021409114659809225
-- small: 0.021397557438925203
-- discharged: 0.021291731652258623
-- as: 0.02107463324827382
-- open: 0.02064260101712812
-- demonstrates: 0.02028936088753463
-- hydrocephalus: 0.019966602540564336
-- findings: 0.019769966693369126
-- intracranial: 0.019627781178748385
-- additional: 0.018621992902989114
-- pressure: 0.018238765814251844
-- causes: 0.01807924292287941
-- film: 0.017837657256733575
-- result: 0.0178162182442824
-- vomiting: 0.017731298038287394
-- ventricle: 0.017404295204230584
-- could: 0.01713346708603561
-- including: 0.016768579570613715
-- spinal: 0.016629218534671662
-- signs: 0.01634443442383725
-- was: 0.01611322047087533
-- this: 0.01567071543446956
-- plain: 0.015082954960266763
-- known: 0.014695929806868586
-- be: 0.014323442645042707
-- no: 0.014028980717996771
-- treated: 0.013901363239586191
-- there: 0.013822995178967267
-- history: 0.01282841888812047
-- one: 0.012585496648427414
-- these: 0.01208611245629261
-- patients: 0.012019427170467532
-- in: 0.011451011688593884
-- into: 0.01105068678238971
-- without: 0.01093485416499
-- can: 0.010533817132984074
-- well: 0.010505874744394843
-- case: 0.010160350178626472
-- patient: 0.009310781857786825
-- is: 0.009167784430185743
-- of: 0.006964901134662352
-- and: 0.006848168696334398
-- the: 0.006762193273546914
-- ct: 0.00649621550756545
-- an: 0.006422091653721358
-- for: 0.003962544286101713
-- with: 0.0025435690454323856
-- to: 0.0023210223284944906
-- .: 0.002315187136783453
+\-\ Texto\\:\\ \ \(0\)\
+\-\ na\ \(21935\)\
+\-\ there\\ was\\ no\\ evidence\\ of\\ shunt\\ failure\\.\\ \\ the\\ patient\\ was\\ treated\\ for\\ a\\ viral\\ illness\\ and\\ discharged\\ to\\ home\\.\ \(0\)\
+\-\ the\\ plain\\ film\\ demonstrates\\ open\\ spinal\\ processes\\ including\\ l5\\ and\\ the\\ entire\\ sacrum\\.\ \(0\)\
+\-\ the\\ ct\\ demonstrates\\ a\\ small\\ posterior\\ fossa\\ with\\ herniation\\ of\\ the\\ cerebellar\\ tonsils\\ into\\ the\\ foramen\\ magnum\\ as\\ well\\ as\\ a\\ compressed\\ fourth\\ ventricle\\ and\\ a\\ beaked\\ tectum\\.\\ \\ this\\ constellation\\ is\\ seen\\ in\\ chiari\\ two\\ malformations\\.\\ \\ there\\ was\\ no\\ evidence\\ of\\ shunt\\ failure\\.\ \(0\)\
+\-\ chiari\\ two\\ malformation\ \(0\)\
+\-\ without\\ the\\ additional\\ findings\\ of\\ a\\ neural\\ tube\\ defect\\ these\\ findings\\ could\\ be\\ seen\\ in\\ a\\ chiari\\ one\\ malformation\\.\ \(0\)\
+\-\ history\\ of\\ nausea\\ and\\ vomiting\\ in\\ a\\ patient\\ with\\ a\\ vp\\ shunt\\ and\\ known\\ history\\ of\\ neural\\ tube\\ defect\\.\ \(0\)\
+\-\ the\\ combination\\ of\\ a\\ small\\ posterior\\ fossa\\ and\\ herniation\\ of\\ the\\ cerebellar\\ tonsils\\ causes\\ an\\ obstructing\\ hydrocephalus\\ in\\ patients\\ with\\ a\\ chiari\\ malformation\\.\\ \\ this\\ is\\ relieved\\ with\\ ventriculoperitoneal\\ shunting\\.\\ \\ nausea\\ and\\ vomitting\\ can\\ be\\ signs\\ of\\ raised\\ intracranial\\ pressure\\ as\\ a\\ result\\ of\\ shunt\\ failure\\.\\ \\ no\\ evidence\\ of\\ shunt\\ failure\\ is\\ seen\\ in\\ this\\ case\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ shunt\\:\\ 0\\.12013775188299074\ \(0\)\
+\-\ chiari\\:\\ 0\\.11563067092391342\ \(0\)\
+\-\ failure\\:\\ 0\\.07277083223546449\ \(0\)\
+\-\ tonsils\\:\\ 0\\.05849490455957991\ \(0\)\
+\-\ malformation\\:\\ 0\\.055570869334343145\ \(0\)\
+\-\ neural\\:\\ 0\\.04703132667646042\ \(0\)\
+\-\ tectum\\:\\ 0\\.04193970725705646\ \(0\)\
+\-\ herniation\\:\\ 0\\.041357425324676546\ \(0\)\
+\-\ cerebellar\\:\\ 0\\.04006108379395027\ \(0\)\
+\-\ tube\\:\\ 0\\.039136768112581655\ \(0\)\
+\-\ fossa\\:\\ 0\\.03785651772501227\ \(0\)\
+\-\ nausea\\:\\ 0\\.03739391322046014\ \(0\)\
+\-\ beaked\\:\\ 0\\.037334827581039044\ \(0\)\
+\-\ ventriculoperitoneal\\:\\ 0\\.037334827581039044\ \(0\)\
+\-\ evidence\\:\\ 0\\.0365289551635904\ \(0\)\
+\-\ vomitting\\:\\ 0\\.03539637679876333\ \(0\)\
+\-\ defect\\:\\ 0\\.034768992677173115\ \(0\)\
+\-\ vp\\:\\ 0\\.03251252760820805\ \(0\)\
+\-\ constellation\\:\\ 0\\.02999826933675092\ \(0\)\
+\-\ magnum\\:\\ 0\\.029800619096691815\ \(0\)\
+\-\ shunting\\:\\ 0\\.029609905402065345\ \(0\)\
+\-\ raised\\:\\ 0\\.029609905402065345\ \(0\)\
+\-\ sacrum\\:\\ 0\\.029247452279789955\ \(0\)\
+\-\ compressed\\:\\ 0\\.02828587234414279\ \(0\)\
+\-\ obstructing\\:\\ 0\\.027862168314416094\ \(0\)\
+\-\ seen\\:\\ 0\\.027531971984799296\ \(0\)\
+\-\ relieved\\:\\ 0\\.027344178206783896\ \(0\)\
+\-\ two\\:\\ 0\\.02660142649582615\ \(0\)\
+\-\ l5\\:\\ 0\\.0260335148545182\ \(0\)\
+\-\ malformations\\:\\ 0\\.02593732150071711\ \(0\)\
+\-\ illness\\:\\ 0\\.025842801159891734\ \(0\)\
+\-\ processes\\:\\ 0\\.02514056348880474\ \(0\)\
+\-\ na\\:\\ 0\\.02505883589443224\ \(0\)\
+\-\ a\\:\\ 0\\.02370977076089464\ \(0\)\
+\-\ viral\\:\\ 0\\.023394885420922003\ \(0\)\
+\-\ combination\\:\\ 0\\.023394885420922003\ \(0\)\
+\-\ entire\\:\\ 0\\.02282824949524586\ \(0\)\
+\-\ fourth\\:\\ 0\\.022464060852403687\ \(0\)\
+\-\ foramen\\:\\ 0\\.02217021725854349\ \(0\)\
+\-\ home\\:\\ 0\\.02207569691771812\ \(0\)\
+\-\ posterior\\:\\ 0\\.021409114659809225\ \(0\)\
+\-\ small\\:\\ 0\\.021397557438925203\ \(0\)\
+\-\ discharged\\:\\ 0\\.021291731652258623\ \(0\)\
+\-\ as\\:\\ 0\\.02107463324827382\ \(0\)\
+\-\ open\\:\\ 0\\.02064260101712812\ \(0\)\
+\-\ demonstrates\\:\\ 0\\.02028936088753463\ \(0\)\
+\-\ hydrocephalus\\:\\ 0\\.019966602540564336\ \(0\)\
+\-\ findings\\:\\ 0\\.019769966693369126\ \(0\)\
+\-\ intracranial\\:\\ 0\\.019627781178748385\ \(0\)\
+\-\ additional\\:\\ 0\\.018621992902989114\ \(0\)\
+\-\ pressure\\:\\ 0\\.018238765814251844\ \(0\)\
+\-\ causes\\:\\ 0\\.01807924292287941\ \(0\)\
+\-\ film\\:\\ 0\\.017837657256733575\ \(0\)\
+\-\ result\\:\\ 0\\.0178162182442824\ \(0\)\
+\-\ vomiting\\:\\ 0\\.017731298038287394\ \(0\)\
+\-\ ventricle\\:\\ 0\\.017404295204230584\ \(0\)\
+\-\ could\\:\\ 0\\.01713346708603561\ \(0\)\
+\-\ including\\:\\ 0\\.016768579570613715\ \(0\)\
+\-\ spinal\\:\\ 0\\.016629218534671662\ \(0\)\
+\-\ signs\\:\\ 0\\.01634443442383725\ \(0\)\
+\-\ was\\:\\ 0\\.01611322047087533\ \(0\)\
+\-\ this\\:\\ 0\\.01567071543446956\ \(0\)\
+\-\ plain\\:\\ 0\\.015082954960266763\ \(0\)\
+\-\ known\\:\\ 0\\.014695929806868586\ \(0\)\
+\-\ be\\:\\ 0\\.014323442645042707\ \(0\)\
+\-\ no\\:\\ 0\\.014028980717996771\ \(0\)\
+\-\ treated\\:\\ 0\\.013901363239586191\ \(0\)\
+\-\ there\\:\\ 0\\.013822995178967267\ \(0\)\
+\-\ history\\:\\ 0\\.01282841888812047\ \(0\)\
+\-\ one\\:\\ 0\\.012585496648427414\ \(0\)\
+\-\ these\\:\\ 0\\.01208611245629261\ \(0\)\
+\-\ patients\\:\\ 0\\.012019427170467532\ \(0\)\
+\-\ in\\:\\ 0\\.011451011688593884\ \(0\)\
+\-\ into\\:\\ 0\\.01105068678238971\ \(0\)\
+\-\ without\\:\\ 0\\.01093485416499\ \(0\)\
+\-\ can\\:\\ 0\\.010533817132984074\ \(0\)\
+\-\ well\\:\\ 0\\.010505874744394843\ \(0\)\
+\-\ case\\:\\ 0\\.010160350178626472\ \(0\)\
+\-\ patient\\:\\ 0\\.009310781857786825\ \(0\)\
+\-\ is\\:\\ 0\\.009167784430185743\ \(0\)\
+\-\ of\\:\\ 0\\.006964901134662352\ \(0\)\
+\-\ and\\:\\ 0\\.006848168696334398\ \(0\)\
+\-\ the\\:\\ 0\\.006762193273546914\ \(0\)\
+\-\ ct\\:\\ 0\\.00649621550756545\ \(0\)\
+\-\ an\\:\\ 0\\.006422091653721358\ \(0\)\
+\-\ for\\:\\ 0\\.003962544286101713\ \(0\)\
+\-\ with\\:\\ 0\\.0025435690454323856\ \(0\)\
+\-\ to\\:\\ 0\\.0023210223284944906\ \(0\)\
+\-\ \\.\\:\\ 0\\.002315187136783453\ \(0\)\

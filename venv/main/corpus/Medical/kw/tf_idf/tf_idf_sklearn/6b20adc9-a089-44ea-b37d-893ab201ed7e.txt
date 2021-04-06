@@ -1,53 +1,51 @@
-Texto: 
-patient was subsequently admitted to the hospital and treated with intravenous antibiotics.
-lateral radiograph of the neck demonstrates a swollen epiglottis and aryepiglottic folds. no prevertebral swelling is noted. pa radiograph demonstrates diffuse soft tissue density in the supraglottic region.
-epiglotitis
-epiglotitis
-paravertebral abscess
-54 year old female with a sore throat.
-
-
-Keywords by value: 
-- epiglotitis: 0.5290777391667234
-- supraglottic: 0.25278101259475716
-- aryepiglottic: 0.2326808233106421
-- radiograph: 0.21547861001705843
-- epiglottis: 0.21510382851741452
-- paravertebral: 0.20082277703792245
-- prevertebral: 0.19248044474241194
-- sore: 0.18906492004931794
-- folds: 0.17840147382566376
-- demonstrates: 0.16620807962242473
-- throat: 0.1659094398151863
-- swollen: 0.15982787086744946
-- 54: 0.15580908785521744
-- intravenous: 0.1508077477704972
-- subsequently: 0.14113272528060125
-- admitted: 0.13553881923662117
-- pa: 0.1269432238168532
-- hospital: 0.12218633331383473
-- antibiotics: 0.1218670811711335
-- swelling: 0.1113341852789548
-- density: 0.10968894953055341
-- abscess: 0.10621938805786509
-- diffuse: 0.10373735531044108
-- treated: 0.10301025885102578
-- neck: 0.10119057142314894
-- the: 0.09902045845180549
-- region: 0.09894537492377689
-- soft: 0.0880648486835705
-- noted: 0.08770420765612444
-- tissue: 0.0867743824386821
-- lateral: 0.08209315798563198
-- female: 0.079821656462064
-- and: 0.06836307357057055
-- with: 0.06478169653655395
-- was: 0.057649696517783386
-- patient: 0.053802064652987626
-- no: 0.053791944798269285
-- year: 0.05097846981556518
-- old: 0.048956977658198286
-- is: 0.045300753415647516
-- to: 0.041354093151767635
-- in: 0.0411505483909219
-- of: 0.03237150630097585
+\-\ Texto\\:\\ \ \(0\)\
+\-\ patient\\ was\\ subsequently\\ admitted\\ to\\ the\\ hospital\\ and\\ treated\\ with\\ intravenous\\ antibiotics\\.\ \(0\)\
+\-\ lateral\\ radiograph\\ of\\ the\\ neck\\ demonstrates\\ a\\ swollen\\ epiglottis\\ and\\ aryepiglottic\\ folds\\.\\ no\\ prevertebral\\ swelling\\ is\\ noted\\.\\ pa\\ radiograph\\ demonstrates\\ diffuse\\ soft\\ tissue\\ density\\ in\\ the\\ supraglottic\\ region\\.\ \(0\)\
+\-\ epiglotitis\ \(1\)\
+\-\ epiglotitis\ \(1\)\
+\-\ paravertebral\\ abscess\ \(1\)\
+\-\ 54\\ year\\ old\\ female\\ with\\ a\\ sore\\ throat\\.\ \(1\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ epiglotitis\\:\\ 0\\.5290777391667234\ \(0\)\
+\-\ supraglottic\\:\\ 0\\.25278101259475716\ \(0\)\
+\-\ aryepiglottic\\:\\ 0\\.2326808233106421\ \(0\)\
+\-\ radiograph\\:\\ 0\\.21547861001705843\ \(0\)\
+\-\ epiglottis\\:\\ 0\\.21510382851741452\ \(0\)\
+\-\ paravertebral\\:\\ 0\\.20082277703792245\ \(0\)\
+\-\ prevertebral\\:\\ 0\\.19248044474241194\ \(0\)\
+\-\ sore\\:\\ 0\\.18906492004931794\ \(0\)\
+\-\ folds\\:\\ 0\\.17840147382566376\ \(0\)\
+\-\ demonstrates\\:\\ 0\\.16620807962242473\ \(0\)\
+\-\ throat\\:\\ 0\\.1659094398151863\ \(0\)\
+\-\ swollen\\:\\ 0\\.15982787086744946\ \(0\)\
+\-\ 54\\:\\ 0\\.15580908785521744\ \(0\)\
+\-\ intravenous\\:\\ 0\\.1508077477704972\ \(0\)\
+\-\ subsequently\\:\\ 0\\.14113272528060125\ \(0\)\
+\-\ admitted\\:\\ 0\\.13553881923662117\ \(0\)\
+\-\ pa\\:\\ 0\\.1269432238168532\ \(0\)\
+\-\ hospital\\:\\ 0\\.12218633331383473\ \(0\)\
+\-\ antibiotics\\:\\ 0\\.1218670811711335\ \(0\)\
+\-\ swelling\\:\\ 0\\.1113341852789548\ \(0\)\
+\-\ density\\:\\ 0\\.10968894953055341\ \(0\)\
+\-\ abscess\\:\\ 0\\.10621938805786509\ \(0\)\
+\-\ diffuse\\:\\ 0\\.10373735531044108\ \(0\)\
+\-\ treated\\:\\ 0\\.10301025885102578\ \(0\)\
+\-\ neck\\:\\ 0\\.10119057142314894\ \(0\)\
+\-\ the\\:\\ 0\\.09902045845180549\ \(0\)\
+\-\ region\\:\\ 0\\.09894537492377689\ \(0\)\
+\-\ soft\\:\\ 0\\.0880648486835705\ \(0\)\
+\-\ noted\\:\\ 0\\.08770420765612444\ \(0\)\
+\-\ tissue\\:\\ 0\\.0867743824386821\ \(0\)\
+\-\ lateral\\:\\ 0\\.08209315798563198\ \(0\)\
+\-\ female\\:\\ 0\\.079821656462064\ \(0\)\
+\-\ and\\:\\ 0\\.06836307357057055\ \(0\)\
+\-\ with\\:\\ 0\\.06478169653655395\ \(0\)\
+\-\ was\\:\\ 0\\.057649696517783386\ \(0\)\
+\-\ patient\\:\\ 0\\.053802064652987626\ \(0\)\
+\-\ no\\:\\ 0\\.053791944798269285\ \(0\)\
+\-\ year\\:\\ 0\\.05097846981556518\ \(0\)\
+\-\ old\\:\\ 0\\.048956977658198286\ \(0\)\
+\-\ is\\:\\ 0\\.045300753415647516\ \(0\)\
+\-\ to\\:\\ 0\\.041354093151767635\ \(0\)\
+\-\ in\\:\\ 0\\.0411505483909219\ \(0\)\
+\-\ of\\:\\ 0\\.03237150630097585\ \(0\)\

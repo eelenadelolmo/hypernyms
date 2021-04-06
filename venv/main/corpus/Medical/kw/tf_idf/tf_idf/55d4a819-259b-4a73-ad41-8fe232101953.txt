@@ -1,102 +1,100 @@
-Texto: 
-enlarged prostate.
-subsequent urinalyses with microhematuria.
-cystoscopic surgery with removal of lesions.
-unenhanced axial ct image of the bladder as part of a hematuria protocol shows a barely perceptible density extending intraluminally from the bladder base near the right ureteral orifice.
-delayed enhanced image of the bladder shows a 1.7cm x 1.8cm filling defect at the same location.  the prostate is symmetrically enlarged and indenting the bladder base.
-there was no evidence of hydronephrosis (not shown).
-transitional cell carcinoma, confirmed by cytology.
-malignant bladder tumor (transitional cell carcinoma, squamous cell carcinoma, adenocarcinoma)
-benign bladder tumor (leiomyoma, rhabdomyoma, hemangioma)
-infection, including tb
-ureterocele
-single episode of painless gross hematuria. 
-occasional irritative voiding symptoms.
-
-
-Keywords by value: 
-- bladder: 0.15530198029473266
-- transitional: 0.07808954455985655
-- prostate: 0.06774406425299169
-- urinalyses: 0.06578745092512311
-- irritative: 0.06578745092512311
-- cystoscopic: 0.06061471077169069
-- rhabdomyoma: 0.06061471077169069
-- hematuria: 0.060497678942817046
-- perceptible: 0.05758885175595812
-- intraluminally: 0.055441970618258264
-- carcinoma: 0.05422226126901193
-- 1.8cm: 0.0537767202353164
-- cell: 0.05167703085630193
-- 1.7cm: 0.050269230464825836
-- base: 0.04996206392285622
-- barely: 0.049390252586793124
-- indenting: 0.04860398008188397
-- microhematuria: 0.046646037809738514
-- orifice: 0.0455781210661514
-- symmetrically: 0.04509649031139341
-- voiding: 0.04464406776052449
-- enlarged: 0.04351673239379114
-- cytology: 0.04306713422569459
-- ureterocele: 0.04306713422569459
-- image: 0.03983864427309852
-- unenhanced: 0.03925500270505287
-- leiomyoma: 0.03754722977647938
-- ureteral: 0.03737952189698641
-- shows: 0.03506527910043102
-- protocol: 0.034298587453659636
-- occasional: 0.03366756216986812
-- hydronephrosis: 0.03212432027947499
-- painless: 0.03204276005162282
-- episode: 0.031571275711163624
-- squamous: 0.031199921162215392
-- part: 0.030915593951526803
-- tb: 0.030709239240105088
-- gross: 0.030377509668680955
-- tumor: 0.029734810471803153
-- hemangioma: 0.028494822016435696
-- near: 0.027593467250371217
-- adenocarcinoma: 0.027548913765397306
-- enhanced: 0.02728703824441768
-- same: 0.026285176113746315
-- delayed: 0.025955077196008806
-- single: 0.025848211123062924
-- filling: 0.025673432957330843
-- shown: 0.025570497717537295
-- removal: 0.025140157106717822
-- subsequent: 0.024825229088132922
-- confirmed: 0.023980594052886547
-- defect: 0.023871248703730797
-- malignant: 0.02304978116700971
-- including: 0.023025512246215848
-- location: 0.022244087215700693
-- benign: 0.022007838559949262
-- extending: 0.021438201857013412
-- x: 0.021037808472742368
-- density: 0.02098232355865641
-- infection: 0.01853743711994632
-- axial: 0.018199936388566203
-- lesions: 0.017071347062268268
-- evidence: 0.01671972077139461
-- (: 0.01617227745322076
-- ): 0.015974724450297875
-- symptoms: 0.0158929662455085
-- surgery: 0.015485067644479664
-- ,: 0.01212134621719197
-- by: 0.01061843957645429
-- as: 0.009646100790254684
-- there: 0.00949041460048499
-- from: 0.009451012784732928
-- not: 0.009215064714492054
-- ct: 0.008920176517851066
-- a: 0.008879100040714953
-- at: 0.008640023528594276
-- was: 0.007375205389654379
-- the: 0.007221977559144631
-- right: 0.006728594844107587
-- no: 0.0064212250052522535
-- of: 0.005216588095432318
-- is: 0.0041961998386919825
-- .: 0.002649219111742259
-- with: 0.0017463309864162648
-- and: 0.0013433507890464064
+\-\ Texto\\:\\ \ \(0\)\
+\-\ enlarged\\ prostate\\.\ \(0\)\
+\-\ subsequent\\ urinalyses\\ with\\ microhematuria\\.\ \(0\)\
+\-\ cystoscopic\\ surgery\\ with\\ removal\\ of\\ lesions\\.\ \(0\)\
+\-\ unenhanced\\ axial\\ ct\\ image\\ of\\ the\\ bladder\\ as\\ part\\ of\\ a\\ hematuria\\ protocol\\ shows\\ a\\ barely\\ perceptible\\ density\\ extending\\ intraluminally\\ from\\ the\\ bladder\\ base\\ near\\ the\\ right\\ ureteral\\ orifice\\.\ \(0\)\
+\-\ delayed\\ enhanced\\ image\\ of\\ the\\ bladder\\ shows\\ a\\ 1\\.7cm\\ x\\ 1\\.8cm\\ filling\\ defect\\ at\\ the\\ same\\ location\\.\\ \\ the\\ prostate\\ is\\ symmetrically\\ enlarged\\ and\\ indenting\\ the\\ bladder\\ base\\.\ \(0\)\
+\-\ there\\ was\\ no\\ evidence\\ of\\ hydronephrosis\\ \\(not\\ shown\\)\\.\ \(0\)\
+\-\ transitional\\ cell\\ carcinoma\\,\\ confirmed\\ by\\ cytology\\.\ \(0\)\
+\-\ malignant\\ bladder\\ tumor\\ \\(transitional\\ cell\\ carcinoma\\,\\ squamous\\ cell\\ carcinoma\\,\\ adenocarcinoma\\)\ \(0\)\
+\-\ benign\\ bladder\\ tumor\\ \\(leiomyoma\\,\\ rhabdomyoma\\,\\ hemangioma\\)\ \(0\)\
+\-\ infection\\,\\ including\\ tb\ \(0\)\
+\-\ ureterocele\ \(36\)\
+\-\ single\\ episode\\ of\\ painless\\ gross\\ hematuria\\.\\ \ \(0\)\
+\-\ occasional\\ irritative\\ voiding\\ symptoms\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ bladder\\:\\ 0\\.15530198029473266\ \(0\)\
+\-\ transitional\\:\\ 0\\.07808954455985655\ \(0\)\
+\-\ prostate\\:\\ 0\\.06774406425299169\ \(0\)\
+\-\ urinalyses\\:\\ 0\\.06578745092512311\ \(0\)\
+\-\ irritative\\:\\ 0\\.06578745092512311\ \(0\)\
+\-\ cystoscopic\\:\\ 0\\.06061471077169069\ \(0\)\
+\-\ rhabdomyoma\\:\\ 0\\.06061471077169069\ \(0\)\
+\-\ hematuria\\:\\ 0\\.060497678942817046\ \(0\)\
+\-\ perceptible\\:\\ 0\\.05758885175595812\ \(0\)\
+\-\ intraluminally\\:\\ 0\\.055441970618258264\ \(0\)\
+\-\ carcinoma\\:\\ 0\\.05422226126901193\ \(0\)\
+\-\ 1\\.8cm\\:\\ 0\\.0537767202353164\ \(0\)\
+\-\ cell\\:\\ 0\\.05167703085630193\ \(0\)\
+\-\ 1\\.7cm\\:\\ 0\\.050269230464825836\ \(0\)\
+\-\ base\\:\\ 0\\.04996206392285622\ \(0\)\
+\-\ barely\\:\\ 0\\.049390252586793124\ \(0\)\
+\-\ indenting\\:\\ 0\\.04860398008188397\ \(0\)\
+\-\ microhematuria\\:\\ 0\\.046646037809738514\ \(0\)\
+\-\ orifice\\:\\ 0\\.0455781210661514\ \(0\)\
+\-\ symmetrically\\:\\ 0\\.04509649031139341\ \(0\)\
+\-\ voiding\\:\\ 0\\.04464406776052449\ \(0\)\
+\-\ enlarged\\:\\ 0\\.04351673239379114\ \(0\)\
+\-\ cytology\\:\\ 0\\.04306713422569459\ \(0\)\
+\-\ ureterocele\\:\\ 0\\.04306713422569459\ \(0\)\
+\-\ image\\:\\ 0\\.03983864427309852\ \(0\)\
+\-\ unenhanced\\:\\ 0\\.03925500270505287\ \(0\)\
+\-\ leiomyoma\\:\\ 0\\.03754722977647938\ \(0\)\
+\-\ ureteral\\:\\ 0\\.03737952189698641\ \(0\)\
+\-\ shows\\:\\ 0\\.03506527910043102\ \(0\)\
+\-\ protocol\\:\\ 0\\.034298587453659636\ \(0\)\
+\-\ occasional\\:\\ 0\\.03366756216986812\ \(0\)\
+\-\ hydronephrosis\\:\\ 0\\.03212432027947499\ \(0\)\
+\-\ painless\\:\\ 0\\.03204276005162282\ \(0\)\
+\-\ episode\\:\\ 0\\.031571275711163624\ \(0\)\
+\-\ squamous\\:\\ 0\\.031199921162215392\ \(0\)\
+\-\ part\\:\\ 0\\.030915593951526803\ \(0\)\
+\-\ tb\\:\\ 0\\.030709239240105088\ \(0\)\
+\-\ gross\\:\\ 0\\.030377509668680955\ \(0\)\
+\-\ tumor\\:\\ 0\\.029734810471803153\ \(0\)\
+\-\ hemangioma\\:\\ 0\\.028494822016435696\ \(0\)\
+\-\ near\\:\\ 0\\.027593467250371217\ \(0\)\
+\-\ adenocarcinoma\\:\\ 0\\.027548913765397306\ \(0\)\
+\-\ enhanced\\:\\ 0\\.02728703824441768\ \(0\)\
+\-\ same\\:\\ 0\\.026285176113746315\ \(0\)\
+\-\ delayed\\:\\ 0\\.025955077196008806\ \(0\)\
+\-\ single\\:\\ 0\\.025848211123062924\ \(0\)\
+\-\ filling\\:\\ 0\\.025673432957330843\ \(0\)\
+\-\ shown\\:\\ 0\\.025570497717537295\ \(0\)\
+\-\ removal\\:\\ 0\\.025140157106717822\ \(0\)\
+\-\ subsequent\\:\\ 0\\.024825229088132922\ \(0\)\
+\-\ confirmed\\:\\ 0\\.023980594052886547\ \(0\)\
+\-\ defect\\:\\ 0\\.023871248703730797\ \(0\)\
+\-\ malignant\\:\\ 0\\.02304978116700971\ \(0\)\
+\-\ including\\:\\ 0\\.023025512246215848\ \(0\)\
+\-\ location\\:\\ 0\\.022244087215700693\ \(0\)\
+\-\ benign\\:\\ 0\\.022007838559949262\ \(0\)\
+\-\ extending\\:\\ 0\\.021438201857013412\ \(0\)\
+\-\ x\\:\\ 0\\.021037808472742368\ \(0\)\
+\-\ density\\:\\ 0\\.02098232355865641\ \(0\)\
+\-\ infection\\:\\ 0\\.01853743711994632\ \(0\)\
+\-\ axial\\:\\ 0\\.018199936388566203\ \(0\)\
+\-\ lesions\\:\\ 0\\.017071347062268268\ \(0\)\
+\-\ evidence\\:\\ 0\\.01671972077139461\ \(0\)\
+\-\ \\(\\:\\ 0\\.01617227745322076\ \(0\)\
+\-\ \\)\\:\\ 0\\.015974724450297875\ \(0\)\
+\-\ symptoms\\:\\ 0\\.0158929662455085\ \(0\)\
+\-\ surgery\\:\\ 0\\.015485067644479664\ \(0\)\
+\-\ \\,\\:\\ 0\\.01212134621719197\ \(0\)\
+\-\ by\\:\\ 0\\.01061843957645429\ \(0\)\
+\-\ as\\:\\ 0\\.009646100790254684\ \(0\)\
+\-\ there\\:\\ 0\\.00949041460048499\ \(0\)\
+\-\ from\\:\\ 0\\.009451012784732928\ \(0\)\
+\-\ not\\:\\ 0\\.009215064714492054\ \(0\)\
+\-\ ct\\:\\ 0\\.008920176517851066\ \(0\)\
+\-\ a\\:\\ 0\\.008879100040714953\ \(0\)\
+\-\ at\\:\\ 0\\.008640023528594276\ \(0\)\
+\-\ was\\:\\ 0\\.007375205389654379\ \(0\)\
+\-\ the\\:\\ 0\\.007221977559144631\ \(0\)\
+\-\ right\\:\\ 0\\.006728594844107587\ \(0\)\
+\-\ no\\:\\ 0\\.0064212250052522535\ \(0\)\
+\-\ of\\:\\ 0\\.005216588095432318\ \(0\)\
+\-\ is\\:\\ 0\\.0041961998386919825\ \(0\)\
+\-\ \\.\\:\\ 0\\.002649219111742259\ \(0\)\
+\-\ with\\:\\ 0\\.0017463309864162648\ \(0\)\
+\-\ and\\:\\ 0\\.0013433507890464064\ \(0\)\

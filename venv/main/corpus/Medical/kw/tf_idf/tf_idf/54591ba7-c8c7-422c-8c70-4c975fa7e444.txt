@@ -1,135 +1,132 @@
-Texto: 
-physical exam unremarkable.  no labs were drawn at the time of exam.
-patient recovered well on a broad spectrum antibiotics.
-noncontrast images of the head demonstrate air in the subarachnoid space ventral to the brainstem and midbrain.  acute inflammatory changes of the paranasal sinuses are seen.  decreased volume of the csf containing spaces - relative to the patient's age - was suggested due to subtle sulcal effacement that is best appreciated on the superior-most images.  subsequent fine-cut images revealed dehiscence of the dorsal aspect of the sphenoid sinus.
-pneumocephalus and meningitis secondary to sinusitis
-pneumocephalus and meningitis secondary to sinusitis.
-45 year old woman presents to the er with a headache.  no history of trauma or recent procedure/intervention.
-the inital head ct findings were discussed with the er physician and a lumbar puncture was recommended.  the csf analysis revealed:
-turbid csf
-wbc - 3300
-glucose- 25
-protein- 333
-gram stain- many gram positive cocci in pairs
-
-subsequently,a ct of the paranasal sinuses was performed, revealing dehiscence of the dorsal aspect of the sphenoid sinus and suggesting acute paranasal sinus disease as the etiology for the patient's pneumocephalus and meningitis.
-
-
-Keywords by value: 
-- pneumocephalus: 0.0917479967272246
-- paranasal: 0.08434472681757256
-- meningitis: 0.06425350419264661
-- dehiscence: 0.05780004908125876
-- csf: 0.051717309446463945
-- gram: 0.05110297487295011
-- sinusitis: 0.047771182734865775
-- sphenoid: 0.0459427576175853
-- sinus: 0.04529215898032519
-- superior-most: 0.042587045526408206
-- fine-cut: 0.042587045526408206
-- procedure/intervention: 0.042587045526408206
-- turbid: 0.042587045526408206
-- 3300: 0.042587045526408206
-- glucose-: 0.042587045526408206
-- protein-: 0.042587045526408206
-- stain-: 0.042587045526408206
-- sinuses: 0.04247997890019227
-- dorsal: 0.042025220341177914
-- pairs: 0.039238508422253876
-- 333: 0.037279739784050185
-- inital: 0.031972434041692165
-- er: 0.03167327687872427
-- cocci: 0.030582665575741533
-- sulcal: 0.03019598582852638
-- revealing: 0.02666512829933415
-- -: 0.02654678925664295
-- revealed: 0.026497332269237613
-- midbrain: 0.025997735359813295
-- aspect: 0.02593518777278606
-- recovered: 0.025551487436475055
-- drawn: 0.025411451026459343
-- puncture: 0.025411451026459343
-- ventral: 0.024888680086168367
-- spectrum: 0.023885591367432887
-- images: 0.02375744770941093
-- head: 0.023416437783322665
-- brainstem: 0.023140902092905064
-- secondary: 0.023082415135350795
-- effacement: 0.02264919825565897
-- discussed: 0.022571901920652008
-- noncontrast: 0.022062913922305017
-- broad: 0.021417834730882202
-- suggested: 0.021012610170588957
-- analysis: 0.021012610170588957
-- containing: 0.02095739907965358
-- acute: 0.020385307527598987
-- spaces: 0.020339846560282156
-- appreciated: 0.02010414528410133
-- subarachnoid: 0.0200583542505045
-- suggesting: 0.0200583542505045
-- relative: 0.01966466809470168
-- volume: 0.01949949241958922
-- physician: 0.019459066092678515
-- 45: 0.01907238634546336
-- subtle: 0.018962170510844176
-- were: 0.018746727890723874
-- subsequently: 0.018714376818150694
-- 's: 0.0182033489697299
-- exam: 0.01813752598985061
-- lumbar: 0.017554274752050306
-- etiology: 0.017473533298070883
-- best: 0.01736793526032934
-- recommended: 0.01711361770725967
-- many: 0.01696721505269286
-- 25: 0.016687083373222573
-- subsequent: 0.016070438153670586
-- antibiotics: 0.015505876124012082
-- wbc: 0.01504867077572856
-- labs: 0.014357362352343661
-- was: 0.01432286264077807
-- inflammatory: 0.014315535962280308
-- headache: 0.014178673611428974
-- air: 0.01396745230218341
-- recent: 0.01387786980115844
-- unremarkable: 0.013666987529865027
-- space: 0.013654864768486158
-- positive: 0.013395582561759017
-- the: 0.012689547871347295
-- age: 0.01256478418137346
-- patient: 0.012414375810382435
-- to: 0.012378785751970616
-- decreased: 0.0122741855204085
-- changes: 0.011831149643647634
-- time: 0.011659909310334842
-- ct: 0.011548827569005245
-- performed: 0.01151004024747497
-- trauma: 0.011289897496415116
-- due: 0.011015831656777003
-- physical: 0.010128044780585693
-- woman: 0.009535763031347374
-- demonstrate: 0.009499768798710341
-- well: 0.00933855532835097
-- findings: 0.008786651863719611
-- presents: 0.008433064229506888
-- no: 0.008313470055109198
-- seen: 0.00815762132882942
-- a: 0.007663764286349782
-- that: 0.007130341683859049
-- on: 0.00699411606150172
-- disease: 0.006747524353699054
-- as: 0.0062443357772663174
-- history: 0.005701519505831321
-- of: 0.0056282029371008905
-- are: 0.005627410012220298
-- at: 0.00559305870933156
-- :: 0.005460264811549106
-- and: 0.005217652340064303
-- or: 0.004838274149583128
-- year: 0.0046188660351348535
-- old: 0.004226737182909442
-- in: 0.004071470822611159
-- for: 0.0035222615876459667
-- is: 0.002716380571906887
-- ,: 0.0026155561885728247
-- .: 0.0020579441215852912
-- with: 0.0011304751313032824
+\-\ Texto\\:\\ \ \(0\)\
+\-\ physical\\ exam\\ unremarkable\\.\\ \\ no\\ labs\\ were\\ drawn\\ at\\ the\\ time\\ of\\ exam\\.\ \(0\)\
+\-\ patient\\ recovered\\ well\\ on\\ a\\ broad\\ spectrum\\ antibiotics\\.\ \(0\)\
+\-\ noncontrast\\ images\\ of\\ the\\ head\\ demonstrate\\ air\\ in\\ the\\ subarachnoid\\ space\\ ventral\\ to\\ the\\ brainstem\\ and\\ midbrain\\.\\ \\ acute\\ inflammatory\\ changes\\ of\\ the\\ paranasal\\ sinuses\\ are\\ seen\\.\\ \\ decreased\\ volume\\ of\\ the\\ csf\\ containing\\ spaces\\ \\-\\ relative\\ to\\ the\\ patient\\'s\\ age\\ \\-\\ was\\ suggested\\ due\\ to\\ subtle\\ sulcal\\ effacement\\ that\\ is\\ best\\ appreciated\\ on\\ the\\ superior\\-most\\ images\\.\\ \\ subsequent\\ fine\\-cut\\ images\\ revealed\\ dehiscence\\ of\\ the\\ dorsal\\ aspect\\ of\\ the\\ sphenoid\\ sinus\\.\ \(0\)\
+\-\ pneumocephalus\\ and\\ meningitis\\ secondary\\ to\\ sinusitis\ \(0\)\
+\-\ pneumocephalus\\ and\\ meningitis\\ secondary\\ to\\ sinusitis\\.\ \(0\)\
+\-\ 45\\ year\\ old\\ woman\\ presents\\ to\\ the\\ er\\ with\\ a\\ headache\\.\\ \\ no\\ history\\ of\\ trauma\\ or\\ recent\\ procedure\\/intervention\\.\ \(0\)\
+\-\ the\\ inital\\ head\\ ct\\ findings\\ were\\ discussed\\ with\\ the\\ er\\ physician\\ and\\ a\\ lumbar\\ puncture\\ was\\ recommended\\.\\ \\ the\\ csf\\ analysis\\ revealed\\:\ \(0\)\
+\-\ turbid\\ csf\ \(0\)\
+\-\ wbc\\ \\-\\ 3300\ \(0\)\
+\-\ glucose\\-\\ 25\ \(1\)\
+\-\ protein\\-\\ 333\ \(1\)\
+\-\ gram\\ stain\\-\\ many\\ gram\\ positive\\ cocci\\ in\\ pairs\ \(1\)\
+\-\ subsequently\\,a\\ ct\\ of\\ the\\ paranasal\\ sinuses\\ was\\ performed\\,\\ revealing\\ dehiscence\\ of\\ the\\ dorsal\\ aspect\\ of\\ the\\ sphenoid\\ sinus\\ and\\ suggesting\\ acute\\ paranasal\\ sinus\\ disease\\ as\\ the\\ etiology\\ for\\ the\\ patient\\'s\\ pneumocephalus\\ and\\ meningitis\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ pneumocephalus\\:\\ 0\\.0917479967272246\ \(0\)\
+\-\ paranasal\\:\\ 0\\.08434472681757256\ \(0\)\
+\-\ meningitis\\:\\ 0\\.06425350419264661\ \(0\)\
+\-\ dehiscence\\:\\ 0\\.05780004908125876\ \(0\)\
+\-\ csf\\:\\ 0\\.051717309446463945\ \(0\)\
+\-\ gram\\:\\ 0\\.05110297487295011\ \(0\)\
+\-\ sinusitis\\:\\ 0\\.047771182734865775\ \(0\)\
+\-\ sphenoid\\:\\ 0\\.0459427576175853\ \(0\)\
+\-\ sinus\\:\\ 0\\.04529215898032519\ \(0\)\
+\-\ superior\\-most\\:\\ 0\\.042587045526408206\ \(0\)\
+\-\ fine\\-cut\\:\\ 0\\.042587045526408206\ \(0\)\
+\-\ procedure\\/intervention\\:\\ 0\\.042587045526408206\ \(0\)\
+\-\ turbid\\:\\ 0\\.042587045526408206\ \(0\)\
+\-\ 3300\\:\\ 0\\.042587045526408206\ \(0\)\
+\-\ glucose\\-\\:\\ 0\\.042587045526408206\ \(0\)\
+\-\ protein\\-\\:\\ 0\\.042587045526408206\ \(0\)\
+\-\ stain\\-\\:\\ 0\\.042587045526408206\ \(0\)\
+\-\ sinuses\\:\\ 0\\.04247997890019227\ \(0\)\
+\-\ dorsal\\:\\ 0\\.042025220341177914\ \(0\)\
+\-\ pairs\\:\\ 0\\.039238508422253876\ \(0\)\
+\-\ 333\\:\\ 0\\.037279739784050185\ \(0\)\
+\-\ inital\\:\\ 0\\.031972434041692165\ \(0\)\
+\-\ er\\:\\ 0\\.03167327687872427\ \(0\)\
+\-\ cocci\\:\\ 0\\.030582665575741533\ \(0\)\
+\-\ sulcal\\:\\ 0\\.03019598582852638\ \(0\)\
+\-\ revealing\\:\\ 0\\.02666512829933415\ \(0\)\
+\-\ \\-\\:\\ 0\\.02654678925664295\ \(0\)\
+\-\ revealed\\:\\ 0\\.026497332269237613\ \(0\)\
+\-\ midbrain\\:\\ 0\\.025997735359813295\ \(0\)\
+\-\ aspect\\:\\ 0\\.02593518777278606\ \(0\)\
+\-\ recovered\\:\\ 0\\.025551487436475055\ \(0\)\
+\-\ drawn\\:\\ 0\\.025411451026459343\ \(0\)\
+\-\ puncture\\:\\ 0\\.025411451026459343\ \(0\)\
+\-\ ventral\\:\\ 0\\.024888680086168367\ \(0\)\
+\-\ spectrum\\:\\ 0\\.023885591367432887\ \(0\)\
+\-\ images\\:\\ 0\\.02375744770941093\ \(0\)\
+\-\ head\\:\\ 0\\.023416437783322665\ \(0\)\
+\-\ brainstem\\:\\ 0\\.023140902092905064\ \(0\)\
+\-\ secondary\\:\\ 0\\.023082415135350795\ \(0\)\
+\-\ effacement\\:\\ 0\\.02264919825565897\ \(0\)\
+\-\ discussed\\:\\ 0\\.022571901920652008\ \(0\)\
+\-\ noncontrast\\:\\ 0\\.022062913922305017\ \(0\)\
+\-\ broad\\:\\ 0\\.021417834730882202\ \(0\)\
+\-\ suggested\\:\\ 0\\.021012610170588957\ \(0\)\
+\-\ analysis\\:\\ 0\\.021012610170588957\ \(0\)\
+\-\ containing\\:\\ 0\\.02095739907965358\ \(0\)\
+\-\ acute\\:\\ 0\\.020385307527598987\ \(0\)\
+\-\ spaces\\:\\ 0\\.020339846560282156\ \(0\)\
+\-\ appreciated\\:\\ 0\\.02010414528410133\ \(0\)\
+\-\ subarachnoid\\:\\ 0\\.0200583542505045\ \(0\)\
+\-\ suggesting\\:\\ 0\\.0200583542505045\ \(0\)\
+\-\ relative\\:\\ 0\\.01966466809470168\ \(0\)\
+\-\ volume\\:\\ 0\\.01949949241958922\ \(0\)\
+\-\ physician\\:\\ 0\\.019459066092678515\ \(0\)\
+\-\ 45\\:\\ 0\\.01907238634546336\ \(0\)\
+\-\ subtle\\:\\ 0\\.018962170510844176\ \(0\)\
+\-\ were\\:\\ 0\\.018746727890723874\ \(0\)\
+\-\ subsequently\\:\\ 0\\.018714376818150694\ \(0\)\
+\-\ \\'s\\:\\ 0\\.0182033489697299\ \(0\)\
+\-\ exam\\:\\ 0\\.01813752598985061\ \(0\)\
+\-\ lumbar\\:\\ 0\\.017554274752050306\ \(0\)\
+\-\ etiology\\:\\ 0\\.017473533298070883\ \(0\)\
+\-\ best\\:\\ 0\\.01736793526032934\ \(0\)\
+\-\ recommended\\:\\ 0\\.01711361770725967\ \(0\)\
+\-\ many\\:\\ 0\\.01696721505269286\ \(0\)\
+\-\ 25\\:\\ 0\\.016687083373222573\ \(0\)\
+\-\ subsequent\\:\\ 0\\.016070438153670586\ \(0\)\
+\-\ antibiotics\\:\\ 0\\.015505876124012082\ \(0\)\
+\-\ wbc\\:\\ 0\\.01504867077572856\ \(0\)\
+\-\ labs\\:\\ 0\\.014357362352343661\ \(0\)\
+\-\ was\\:\\ 0\\.01432286264077807\ \(0\)\
+\-\ inflammatory\\:\\ 0\\.014315535962280308\ \(0\)\
+\-\ headache\\:\\ 0\\.014178673611428974\ \(0\)\
+\-\ air\\:\\ 0\\.01396745230218341\ \(0\)\
+\-\ recent\\:\\ 0\\.01387786980115844\ \(0\)\
+\-\ unremarkable\\:\\ 0\\.013666987529865027\ \(0\)\
+\-\ space\\:\\ 0\\.013654864768486158\ \(0\)\
+\-\ positive\\:\\ 0\\.013395582561759017\ \(0\)\
+\-\ the\\:\\ 0\\.012689547871347295\ \(0\)\
+\-\ age\\:\\ 0\\.01256478418137346\ \(0\)\
+\-\ patient\\:\\ 0\\.012414375810382435\ \(0\)\
+\-\ to\\:\\ 0\\.012378785751970616\ \(0\)\
+\-\ decreased\\:\\ 0\\.0122741855204085\ \(0\)\
+\-\ changes\\:\\ 0\\.011831149643647634\ \(0\)\
+\-\ time\\:\\ 0\\.011659909310334842\ \(0\)\
+\-\ ct\\:\\ 0\\.011548827569005245\ \(0\)\
+\-\ performed\\:\\ 0\\.01151004024747497\ \(0\)\
+\-\ trauma\\:\\ 0\\.011289897496415116\ \(0\)\
+\-\ due\\:\\ 0\\.011015831656777003\ \(0\)\
+\-\ physical\\:\\ 0\\.010128044780585693\ \(0\)\
+\-\ woman\\:\\ 0\\.009535763031347374\ \(0\)\
+\-\ demonstrate\\:\\ 0\\.009499768798710341\ \(0\)\
+\-\ well\\:\\ 0\\.00933855532835097\ \(0\)\
+\-\ findings\\:\\ 0\\.008786651863719611\ \(0\)\
+\-\ presents\\:\\ 0\\.008433064229506888\ \(0\)\
+\-\ no\\:\\ 0\\.008313470055109198\ \(0\)\
+\-\ seen\\:\\ 0\\.00815762132882942\ \(0\)\
+\-\ a\\:\\ 0\\.007663764286349782\ \(0\)\
+\-\ that\\:\\ 0\\.007130341683859049\ \(0\)\
+\-\ on\\:\\ 0\\.00699411606150172\ \(0\)\
+\-\ disease\\:\\ 0\\.006747524353699054\ \(0\)\
+\-\ as\\:\\ 0\\.0062443357772663174\ \(0\)\
+\-\ history\\:\\ 0\\.005701519505831321\ \(0\)\
+\-\ of\\:\\ 0\\.0056282029371008905\ \(0\)\
+\-\ are\\:\\ 0\\.005627410012220298\ \(0\)\
+\-\ at\\:\\ 0\\.00559305870933156\ \(0\)\
+\-\ \\:\\:\\ 0\\.005460264811549106\ \(0\)\
+\-\ and\\:\\ 0\\.005217652340064303\ \(0\)\
+\-\ or\\:\\ 0\\.004838274149583128\ \(0\)\
+\-\ year\\:\\ 0\\.0046188660351348535\ \(0\)\
+\-\ old\\:\\ 0\\.004226737182909442\ \(0\)\
+\-\ in\\:\\ 0\\.004071470822611159\ \(0\)\
+\-\ for\\:\\ 0\\.0035222615876459667\ \(0\)\
+\-\ is\\:\\ 0\\.002716380571906887\ \(0\)\
+\-\ \\,\\:\\ 0\\.0026155561885728247\ \(0\)\
+\-\ \\.\\:\\ 0\\.0020579441215852912\ \(0\)\
+\-\ with\\:\\ 0\\.0011304751313032824\ \(0\)\

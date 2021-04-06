@@ -1,78 +1,75 @@
-Texto: 
-(+) murphys sign (sonographic)
-supportive for renal disease.
-cholecystectomy as indicated surgically.
-increased renal parenchymal echogenicity.  some foci demonstrate distal acoustic shadowing consistent with calcification.  
-
-increased echogenicity of the common bile duct, without ductal dilatation.  variably increased gb wall thickness, with internal echogenicity (non-mobile, non-shadowing) consistent with sloughed gb mucosa or polyps.  gb not distended and no pericholecystic fluid.
-aids nephropathy
-aids cholangiopathy
-aids nephropathy
-aids choloangitis
-sclerosing cholangiopathy
-cholangiocarcinoma
-37 y/o aam with right upper quadrant pain.  (patient has hiv => aids)
-
-
-Keywords by value: 
-- aids: 0.5080216061299783
-- gb: 0.3561969567654577
-- cholangiopathy: 0.27606618080873196
-- echogenicity: 0.27349149715344173
-- nephropathy: 0.23277801335955964
-- shadowing: 0.18006811358455607
-- increased: 0.15153569191901448
-- choloangitis: 0.149383549510112
-- murphys: 0.14274395656728162
-- variably: 0.13437905872835626
-- sloughed: 0.13437905872835626
-- aam: 0.12475390451870516
-- renal: 0.11633857910829679
-- pericholecystic: 0.10450160599297398
-- cholangiocarcinoma: 0.10398171308712792
-- consistent: 0.10129851583394624
-- polyps: 0.10074226687324278
-- sclerosing: 0.09839895463120338
-- acoustic: 0.09368808846828777
-- hiv: 0.09237736903431744
-- cholecystectomy: 0.0907025272014671
-- bile: 0.0907025272014671
-- mucosa: 0.09003405679227804
-- surgically: 0.08668858540983237
-- thickness: 0.08668858540983237
-- sonographic: 0.08406293425863669
-- parenchymal: 0.08391200921732626
-- ductal: 0.0822017343829232
-- duct: 0.08040890258262695
-- distended: 0.07981337327873456
-- 37: 0.07958109631949471
-- supportive: 0.07804134866175075
-- indicated: 0.07682781201191387
-- foci: 0.07634756495164235
-- dilatation: 0.07625318283984868
-- with: 0.07316368885342828
-- calcification: 0.06669088955600472
-- quadrant: 0.06542868941994182
-- sign: 0.06466912132655876
-- internal: 0.06295309682236065
-- some: 0.05877290739911098
-- wall: 0.056822620048518985
-- distal: 0.05427375802309676
-- fluid: 0.053933101585249756
-- common: 0.05297439058338604
-- upper: 0.049917065905617335
-- without: 0.049270468891857024
-- demonstrate: 0.04856147282739127
-- has: 0.04266714451548899
-- disease: 0.03921036339702187
-- as: 0.03752626893340726
-- not: 0.03687620007033306
-- pain: 0.033425675256314194
-- or: 0.03249581146680342
-- right: 0.03096940930077317
-- patient: 0.03038171064045903
-- no: 0.030375996017799858
-- for: 0.028311972389779883
-- and: 0.019302113525843583
-- the: 0.01863875754937404
-- of: 0.01827999991776209
+\-\ Texto\\:\\ \ \(0\)\
+\-\ \\(\\+\\)\\ murphys\\ sign\\ \\(sonographic\\)\ \(0\)\
+\-\ supportive\\ for\\ renal\\ disease\\.\ \(0\)\
+\-\ cholecystectomy\\ as\\ indicated\\ surgically\\.\ \(0\)\
+\-\ increased\\ renal\\ parenchymal\\ echogenicity\\.\\ \\ some\\ foci\\ demonstrate\\ distal\\ acoustic\\ shadowing\\ consistent\\ with\\ calcification\\.\\ \\ \ \(0\)\
+\-\ increased\\ echogenicity\\ of\\ the\\ common\\ bile\\ duct\\,\\ without\\ ductal\\ dilatation\\.\\ \\ variably\\ increased\\ gb\\ wall\\ thickness\\,\\ with\\ internal\\ echogenicity\\ \\(non\\-mobile\\,\\ non\\-shadowing\\)\\ consistent\\ with\\ sloughed\\ gb\\ mucosa\\ or\\ polyps\\.\\ \\ gb\\ not\\ distended\\ and\\ no\\ pericholecystic\\ fluid\\.\ \(0\)\
+\-\ aids\\ nephropathy\ \(0\)\
+\-\ aids\\ cholangiopathy\ \(0\)\
+\-\ aids\\ nephropathy\ \(0\)\
+\-\ aids\\ choloangitis\ \(0\)\
+\-\ sclerosing\\ cholangiopathy\ \(0\)\
+\-\ cholangiocarcinoma\ \(16\)\
+\-\ 37\\ y\\/o\\ aam\\ with\\ right\\ upper\\ quadrant\\ pain\\.\\ \\ \\(patient\\ has\\ hiv\\ \\=\\>\\ aids\\)\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ aids\\:\\ 0\\.5080216061299783\ \(0\)\
+\-\ gb\\:\\ 0\\.3561969567654577\ \(0\)\
+\-\ cholangiopathy\\:\\ 0\\.27606618080873196\ \(0\)\
+\-\ echogenicity\\:\\ 0\\.27349149715344173\ \(0\)\
+\-\ nephropathy\\:\\ 0\\.23277801335955964\ \(0\)\
+\-\ shadowing\\:\\ 0\\.18006811358455607\ \(0\)\
+\-\ increased\\:\\ 0\\.15153569191901448\ \(0\)\
+\-\ choloangitis\\:\\ 0\\.149383549510112\ \(0\)\
+\-\ murphys\\:\\ 0\\.14274395656728162\ \(0\)\
+\-\ variably\\:\\ 0\\.13437905872835626\ \(0\)\
+\-\ sloughed\\:\\ 0\\.13437905872835626\ \(0\)\
+\-\ aam\\:\\ 0\\.12475390451870516\ \(0\)\
+\-\ renal\\:\\ 0\\.11633857910829679\ \(0\)\
+\-\ pericholecystic\\:\\ 0\\.10450160599297398\ \(0\)\
+\-\ cholangiocarcinoma\\:\\ 0\\.10398171308712792\ \(0\)\
+\-\ consistent\\:\\ 0\\.10129851583394624\ \(0\)\
+\-\ polyps\\:\\ 0\\.10074226687324278\ \(0\)\
+\-\ sclerosing\\:\\ 0\\.09839895463120338\ \(0\)\
+\-\ acoustic\\:\\ 0\\.09368808846828777\ \(0\)\
+\-\ hiv\\:\\ 0\\.09237736903431744\ \(0\)\
+\-\ cholecystectomy\\:\\ 0\\.0907025272014671\ \(0\)\
+\-\ bile\\:\\ 0\\.0907025272014671\ \(0\)\
+\-\ mucosa\\:\\ 0\\.09003405679227804\ \(0\)\
+\-\ surgically\\:\\ 0\\.08668858540983237\ \(0\)\
+\-\ thickness\\:\\ 0\\.08668858540983237\ \(0\)\
+\-\ sonographic\\:\\ 0\\.08406293425863669\ \(0\)\
+\-\ parenchymal\\:\\ 0\\.08391200921732626\ \(0\)\
+\-\ ductal\\:\\ 0\\.0822017343829232\ \(0\)\
+\-\ duct\\:\\ 0\\.08040890258262695\ \(0\)\
+\-\ distended\\:\\ 0\\.07981337327873456\ \(0\)\
+\-\ 37\\:\\ 0\\.07958109631949471\ \(0\)\
+\-\ supportive\\:\\ 0\\.07804134866175075\ \(0\)\
+\-\ indicated\\:\\ 0\\.07682781201191387\ \(0\)\
+\-\ foci\\:\\ 0\\.07634756495164235\ \(0\)\
+\-\ dilatation\\:\\ 0\\.07625318283984868\ \(0\)\
+\-\ with\\:\\ 0\\.07316368885342828\ \(0\)\
+\-\ calcification\\:\\ 0\\.06669088955600472\ \(0\)\
+\-\ quadrant\\:\\ 0\\.06542868941994182\ \(0\)\
+\-\ sign\\:\\ 0\\.06466912132655876\ \(0\)\
+\-\ internal\\:\\ 0\\.06295309682236065\ \(0\)\
+\-\ some\\:\\ 0\\.05877290739911098\ \(0\)\
+\-\ wall\\:\\ 0\\.056822620048518985\ \(0\)\
+\-\ distal\\:\\ 0\\.05427375802309676\ \(0\)\
+\-\ fluid\\:\\ 0\\.053933101585249756\ \(0\)\
+\-\ common\\:\\ 0\\.05297439058338604\ \(0\)\
+\-\ upper\\:\\ 0\\.049917065905617335\ \(0\)\
+\-\ without\\:\\ 0\\.049270468891857024\ \(0\)\
+\-\ demonstrate\\:\\ 0\\.04856147282739127\ \(0\)\
+\-\ has\\:\\ 0\\.04266714451548899\ \(0\)\
+\-\ disease\\:\\ 0\\.03921036339702187\ \(0\)\
+\-\ as\\:\\ 0\\.03752626893340726\ \(0\)\
+\-\ not\\:\\ 0\\.03687620007033306\ \(0\)\
+\-\ pain\\:\\ 0\\.033425675256314194\ \(0\)\
+\-\ or\\:\\ 0\\.03249581146680342\ \(0\)\
+\-\ right\\:\\ 0\\.03096940930077317\ \(0\)\
+\-\ patient\\:\\ 0\\.03038171064045903\ \(0\)\
+\-\ no\\:\\ 0\\.030375996017799858\ \(0\)\
+\-\ for\\:\\ 0\\.028311972389779883\ \(0\)\
+\-\ and\\:\\ 0\\.019302113525843583\ \(0\)\
+\-\ the\\:\\ 0\\.01863875754937404\ \(0\)\
+\-\ of\\:\\ 0\\.01827999991776209\ \(0\)\

@@ -1,76 +1,74 @@
-Texto: 
-diffuse expiratory wheezing
-â€¢ bronchodilators
-â€¢ steroids
-hyperinflated lungs with flattening of hemidiaphragms and increased ap diameter
-asthma with air trapping
-â€¢ reactive airway disease (asthma)
-â€¢ viral illness with diffuse air trapping
-wheezing, no fever
-â€¢ reactive airway disease and viral illness can have similar features to include bronchial wall thickening (cuffing and tram-tracks), hyperinflation from air trapping (partial bronchial obstruction), and atelectasis (areas of complete bronchial obstruction; ie: mucous plugging)
-â€¢ airblock phenomena are more likely in asthmatic patients, to include pneumomediastinum and pneumothorax
-
-
-Keywords by value: 
-- trapping: 0.16672265657835048
-- bronchial: 0.1453567953124313
-- wheezing: 0.09888634826117215
-- airway: 0.09510150826840158
-- illness: 0.09510150826840158
-- asthma: 0.09442347723488796
-- â€¢: 0.09402086109575326
-- tram-tracks: 0.08815518423966498
-- airblock: 0.08815518423966498
-- air: 0.08673787879655898
-- viral: 0.08609317834899298
-- reactive: 0.08089667599001667
-- bronchodilators: 0.07716906135298389
-- asthmatic: 0.07429224062846608
-- hyperinflated: 0.06736076882286662
-- cuffing: 0.06736076882286662
-- hemidiaphragms: 0.06618293846630278
-- phenomena: 0.06330611774178498
-- expiratory: 0.06107468222864288
-- plugging: 0.06042929701726717
-- obstruction: 0.06026800097178871
-- hyperinflation: 0.05819786150412507
-- ie: 0.05557421885945016
-- pneumomediastinum: 0.053190108625000176
-- diffuse: 0.0517401484075063
-- mucous: 0.049236981258558715
-- include: 0.047943069760605736
-- flattening: 0.04656635340606826
-- atelectasis: 0.041059882226541645
-- steroids: 0.04019727878369757
-- pneumothorax: 0.04011497379233241
-- features: 0.03606032271125077
-- diameter: 0.035951625988881734
-- partial: 0.03417355722448746
-- similar: 0.033516866189408884
-- lungs: 0.032357885979802756
-- ap: 0.03125158969642438
-- complete: 0.030073759339860544
-- thickening: 0.028966245696933516
-- fever: 0.028912626265519662
-- (: 0.028894469049754422
-- areas: 0.02875347171246067
-- ): 0.028541507684532202
-- disease: 0.027934750824314084
-- wall: 0.02475159120238746
-- likely: 0.024102899659356566
-- patients: 0.022115745993660257
-- more: 0.02137176309312166
-- increased: 0.020904847817996557
-- ;: 0.020254211884525936
-- can: 0.019382223524690698
-- have: 0.01850438078365092
-- from: 0.012664357131542124
-- are: 0.011648738725296018
-- :: 0.01130274815990665
-- ,: 0.010828402620691496
-- and: 0.009000450286610923
-- no: 0.00860444150703802
-- to: 0.008541362168859725
-- in: 0.0042139723014025495
-- with: 0.003510125282696692
-- of: 0.0023300760159597686
+\-\ Texto\\:\\ \ \(0\)\
+\-\ diffuse\\ expiratory\\ wheezing\ \(0\)\
+\-\ \\â\\€\\¢\\ bronchodilators\ \(1\)\
+\-\ \\â\\€\\¢\\ steroids\ \(1\)\
+\-\ hyperinflated\\ lungs\\ with\\ flattening\\ of\\ hemidiaphragms\\ and\\ increased\\ ap\\ diameter\ \(0\)\
+\-\ asthma\\ with\\ air\\ trapping\ \(0\)\
+\-\ \\â\\€\\¢\\ reactive\\ airway\\ disease\\ \\(asthma\\)\ \(0\)\
+\-\ \\â\\€\\¢\\ viral\\ illness\\ with\\ diffuse\\ air\\ trapping\ \(0\)\
+\-\ wheezing\\,\\ no\\ fever\ \(0\)\
+\-\ \\â\\€\\¢\\ reactive\\ airway\\ disease\\ and\\ viral\\ illness\\ can\\ have\\ similar\\ features\\ to\\ include\\ bronchial\\ wall\\ thickening\\ \\(cuffing\\ and\\ tram\\-tracks\\)\\,\\ hyperinflation\\ from\\ air\\ trapping\\ \\(partial\\ bronchial\\ obstruction\\)\\,\\ and\\ atelectasis\\ \\(areas\\ of\\ complete\\ bronchial\\ obstruction\\;\\ ie\\:\\ mucous\\ plugging\\)\ \(0\)\
+\-\ \\â\\€\\¢\\ airblock\\ phenomena\\ are\\ more\\ likely\\ in\\ asthmatic\\ patients\\,\\ to\\ include\\ pneumomediastinum\\ and\\ pneumothorax\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ trapping\\:\\ 0\\.16672265657835048\ \(0\)\
+\-\ bronchial\\:\\ 0\\.1453567953124313\ \(0\)\
+\-\ wheezing\\:\\ 0\\.09888634826117215\ \(0\)\
+\-\ airway\\:\\ 0\\.09510150826840158\ \(0\)\
+\-\ illness\\:\\ 0\\.09510150826840158\ \(0\)\
+\-\ asthma\\:\\ 0\\.09442347723488796\ \(0\)\
+\-\ \\â\\€\\¢\\:\\ 0\\.09402086109575326\ \(0\)\
+\-\ tram\\-tracks\\:\\ 0\\.08815518423966498\ \(0\)\
+\-\ airblock\\:\\ 0\\.08815518423966498\ \(0\)\
+\-\ air\\:\\ 0\\.08673787879655898\ \(0\)\
+\-\ viral\\:\\ 0\\.08609317834899298\ \(0\)\
+\-\ reactive\\:\\ 0\\.08089667599001667\ \(0\)\
+\-\ bronchodilators\\:\\ 0\\.07716906135298389\ \(0\)\
+\-\ asthmatic\\:\\ 0\\.07429224062846608\ \(0\)\
+\-\ hyperinflated\\:\\ 0\\.06736076882286662\ \(0\)\
+\-\ cuffing\\:\\ 0\\.06736076882286662\ \(0\)\
+\-\ hemidiaphragms\\:\\ 0\\.06618293846630278\ \(0\)\
+\-\ phenomena\\:\\ 0\\.06330611774178498\ \(0\)\
+\-\ expiratory\\:\\ 0\\.06107468222864288\ \(0\)\
+\-\ plugging\\:\\ 0\\.06042929701726717\ \(0\)\
+\-\ obstruction\\:\\ 0\\.06026800097178871\ \(0\)\
+\-\ hyperinflation\\:\\ 0\\.05819786150412507\ \(0\)\
+\-\ ie\\:\\ 0\\.05557421885945016\ \(0\)\
+\-\ pneumomediastinum\\:\\ 0\\.053190108625000176\ \(0\)\
+\-\ diffuse\\:\\ 0\\.0517401484075063\ \(0\)\
+\-\ mucous\\:\\ 0\\.049236981258558715\ \(0\)\
+\-\ include\\:\\ 0\\.047943069760605736\ \(0\)\
+\-\ flattening\\:\\ 0\\.04656635340606826\ \(0\)\
+\-\ atelectasis\\:\\ 0\\.041059882226541645\ \(0\)\
+\-\ steroids\\:\\ 0\\.04019727878369757\ \(0\)\
+\-\ pneumothorax\\:\\ 0\\.04011497379233241\ \(0\)\
+\-\ features\\:\\ 0\\.03606032271125077\ \(0\)\
+\-\ diameter\\:\\ 0\\.035951625988881734\ \(0\)\
+\-\ partial\\:\\ 0\\.03417355722448746\ \(0\)\
+\-\ similar\\:\\ 0\\.033516866189408884\ \(0\)\
+\-\ lungs\\:\\ 0\\.032357885979802756\ \(0\)\
+\-\ ap\\:\\ 0\\.03125158969642438\ \(0\)\
+\-\ complete\\:\\ 0\\.030073759339860544\ \(0\)\
+\-\ thickening\\:\\ 0\\.028966245696933516\ \(0\)\
+\-\ fever\\:\\ 0\\.028912626265519662\ \(0\)\
+\-\ \\(\\:\\ 0\\.028894469049754422\ \(0\)\
+\-\ areas\\:\\ 0\\.02875347171246067\ \(0\)\
+\-\ \\)\\:\\ 0\\.028541507684532202\ \(0\)\
+\-\ disease\\:\\ 0\\.027934750824314084\ \(0\)\
+\-\ wall\\:\\ 0\\.02475159120238746\ \(0\)\
+\-\ likely\\:\\ 0\\.024102899659356566\ \(0\)\
+\-\ patients\\:\\ 0\\.022115745993660257\ \(0\)\
+\-\ more\\:\\ 0\\.02137176309312166\ \(0\)\
+\-\ increased\\:\\ 0\\.020904847817996557\ \(0\)\
+\-\ \\;\\:\\ 0\\.020254211884525936\ \(0\)\
+\-\ can\\:\\ 0\\.019382223524690698\ \(0\)\
+\-\ have\\:\\ 0\\.01850438078365092\ \(0\)\
+\-\ from\\:\\ 0\\.012664357131542124\ \(0\)\
+\-\ are\\:\\ 0\\.011648738725296018\ \(0\)\
+\-\ \\:\\:\\ 0\\.01130274815990665\ \(0\)\
+\-\ \\,\\:\\ 0\\.010828402620691496\ \(0\)\
+\-\ and\\:\\ 0\\.009000450286610923\ \(0\)\
+\-\ no\\:\\ 0\\.00860444150703802\ \(0\)\
+\-\ to\\:\\ 0\\.008541362168859725\ \(0\)\
+\-\ in\\:\\ 0\\.0042139723014025495\ \(0\)\
+\-\ with\\:\\ 0\\.003510125282696692\ \(0\)\
+\-\ of\\:\\ 0\\.0023300760159597686\ \(0\)\

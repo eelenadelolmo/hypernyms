@@ -1,103 +1,101 @@
-Texto: 
-unremarkable
-mr study vs. sulfur colloid study
-unenhanced liver ct demonstrates a round lesion in left lobe of liver that is isodense to liver with a central area f decreased attenuation. late arterial phase image demonstrates enhancement of the 4 cm round lesion with a persistent central 1 cm area that did not enhance. portal venous phase image demonstrates isoattenuation to liver and persistent hypoattenuation of the central area.
-this is a differential case. final diagnosis is pending
-focal nodular hyperplasia (most likely based on age, gender and appearance)
-hepatic adenoma
-fibrolamellar hepatocellular carcinoma
-hemangioma (less likely)
-31 y.o. female, asymptomatic had incidental finding of a "hepatic" lesion in a ct study performed in korea. patient does not have previous study and a repeat ct was requested at a dod medical facility. patient is otherwise in good health.
-this patient was lost to follow-up and will remain a differential case.
-
-
-Keywords by value: 
-- liver: 0.27680208579668736
-- study: 0.26760608448922746
-- central: 0.2009638066867331
-- area: 0.19495257366141372
-- phase: 0.17167451337943526
-- round: 0.16438752871032064
-- korea: 0.16042227335148915
-- hepatic: 0.15976836189131555
-- persistent: 0.15457945099366852
-- isoattenuation: 0.15329204651252082
-- dod: 0.15329204651252082
-- demonstrates: 0.15118843229583967
-- lesion: 0.14427680454487044
-- hypoattenuation: 0.1304437613713266
-- differential: 0.1303570118789299
-- image: 0.12830765905288047
-- sulfur: 0.12385466347814837
-- fibrolamellar: 0.12385466347814837
-- likely: 0.11988909980583742
-- gender: 0.11747286036027638
-- cm: 0.11522175039971994
-- ct: 0.11457026572536531
-- isodense: 0.11222377067121224
-- is: 0.1098855507913683
-- unenhanced: 0.10959420980021167
-- colloid: 0.1049054639309508
-- requested: 0.1049054639309508
-- lost: 0.1049054639309508
-- hepatocellular: 0.1031276580694427
-- remain: 0.10151319448524226
-- case: 0.10079228819722645
-- in: 0.09981844305797787
-- facility: 0.09947625689592118
-- health: 0.09920361107573973
-- final: 0.09841015454350241
-- patient: 0.09788031758315482
-- portal: 0.09599743123047436
-- late: 0.09469422007502512
-- hyperplasia: 0.09145318332411426
-- enhance: 0.08979296040329361
-- 31: 0.08901815212639927
-- repeat: 0.08798775598551782
-- that: 0.08706413207151976
-- hemangioma: 0.08438108977160927
-- and: 0.08291378649011816
-- arterial: 0.08261000398016846
-- pending: 0.08250501678391152
-- good: 0.08158731449479294
-- adenoma: 0.07997459401443895
-- nodular: 0.07988418094565777
-- not: 0.07920234680789569
-- of: 0.07852321499360068
-- attenuation: 0.07675331300625288
-- vs: 0.07652833804264769
-- previous: 0.07579855269440423
-- to: 0.07523413454791297
-- incidental: 0.07435801526341086
-- based: 0.07266400351087021
-- did: 0.0719604975744521
-- venous: 0.07161902464824717
-- otherwise: 0.07150665811167382
-- was: 0.06992012469072646
-- does: 0.06934850523808979
-- this: 0.06893868429578989
-- asymptomatic: 0.0682911467176936
-- less: 0.06824456310597482
-- unremarkable: 0.06724975632628807
-- finding: 0.06593712699522829
-- mr: 0.06490706257428348
-- will: 0.06456410971513928
-- medical: 0.06375290369551016
-- age: 0.0629774741286039
-- decreased: 0.0621359114890981
-- appearance: 0.060474800219756625
-- focal: 0.06000268318938208
-- carcinoma: 0.06000268318938208
-- performed: 0.059345479213966094
-- lobe: 0.05797029536675231
-- enhancement: 0.057738397898939385
-- most: 0.052205905947384425
-- diagnosis: 0.05200153139712031
-- have: 0.050111829628446784
-- had: 0.049979608681183674
-- female: 0.04840563359363232
-- the: 0.04003214367744572
-- with: 0.03928506629792416
-- at: 0.037889477782483805
-- left: 0.03421894106656393
-- on: 0.03029623805261938
+\-\ Texto\\:\\ \ \(0\)\
+\-\ unremarkable\ \(371\)\
+\-\ mr\\ study\\ vs\\.\\ sulfur\\ colloid\\ study\ \(0\)\
+\-\ unenhanced\\ liver\\ ct\\ demonstrates\\ a\\ round\\ lesion\\ in\\ left\\ lobe\\ of\\ liver\\ that\\ is\\ isodense\\ to\\ liver\\ with\\ a\\ central\\ area\\ f\\ decreased\\ attenuation\\.\\ late\\ arterial\\ phase\\ image\\ demonstrates\\ enhancement\\ of\\ the\\ 4\\ cm\\ round\\ lesion\\ with\\ a\\ persistent\\ central\\ 1\\ cm\\ area\\ that\\ did\\ not\\ enhance\\.\\ portal\\ venous\\ phase\\ image\\ demonstrates\\ isoattenuation\\ to\\ liver\\ and\\ persistent\\ hypoattenuation\\ of\\ the\\ central\\ area\\.\ \(0\)\
+\-\ this\\ is\\ a\\ differential\\ case\\.\\ final\\ diagnosis\\ is\\ pending\ \(0\)\
+\-\ focal\\ nodular\\ hyperplasia\\ \\(most\\ likely\\ based\\ on\\ age\\,\\ gender\\ and\\ appearance\\)\ \(0\)\
+\-\ hepatic\\ adenoma\ \(5\)\
+\-\ fibrolamellar\\ hepatocellular\\ carcinoma\ \(0\)\
+\-\ hemangioma\\ \\(less\\ likely\\)\ \(0\)\
+\-\ 31\\ y\\.o\\.\\ female\\,\\ asymptomatic\\ had\\ incidental\\ finding\\ of\\ a\\ \\"hepatic\\"\\ lesion\\ in\\ a\\ ct\\ study\\ performed\\ in\\ korea\\.\\ patient\\ does\\ not\\ have\\ previous\\ study\\ and\\ a\\ repeat\\ ct\\ was\\ requested\\ at\\ a\\ dod\\ medical\\ facility\\.\\ patient\\ is\\ otherwise\\ in\\ good\\ health\\.\ \(0\)\
+\-\ this\\ patient\\ was\\ lost\\ to\\ follow\\-up\\ and\\ will\\ remain\\ a\\ differential\\ case\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ liver\\:\\ 0\\.27680208579668736\ \(0\)\
+\-\ study\\:\\ 0\\.26760608448922746\ \(0\)\
+\-\ central\\:\\ 0\\.2009638066867331\ \(0\)\
+\-\ area\\:\\ 0\\.19495257366141372\ \(0\)\
+\-\ phase\\:\\ 0\\.17167451337943526\ \(0\)\
+\-\ round\\:\\ 0\\.16438752871032064\ \(0\)\
+\-\ korea\\:\\ 0\\.16042227335148915\ \(0\)\
+\-\ hepatic\\:\\ 0\\.15976836189131555\ \(0\)\
+\-\ persistent\\:\\ 0\\.15457945099366852\ \(0\)\
+\-\ isoattenuation\\:\\ 0\\.15329204651252082\ \(0\)\
+\-\ dod\\:\\ 0\\.15329204651252082\ \(0\)\
+\-\ demonstrates\\:\\ 0\\.15118843229583967\ \(0\)\
+\-\ lesion\\:\\ 0\\.14427680454487044\ \(0\)\
+\-\ hypoattenuation\\:\\ 0\\.1304437613713266\ \(0\)\
+\-\ differential\\:\\ 0\\.1303570118789299\ \(0\)\
+\-\ image\\:\\ 0\\.12830765905288047\ \(0\)\
+\-\ sulfur\\:\\ 0\\.12385466347814837\ \(0\)\
+\-\ fibrolamellar\\:\\ 0\\.12385466347814837\ \(0\)\
+\-\ likely\\:\\ 0\\.11988909980583742\ \(0\)\
+\-\ gender\\:\\ 0\\.11747286036027638\ \(0\)\
+\-\ cm\\:\\ 0\\.11522175039971994\ \(0\)\
+\-\ ct\\:\\ 0\\.11457026572536531\ \(0\)\
+\-\ isodense\\:\\ 0\\.11222377067121224\ \(0\)\
+\-\ is\\:\\ 0\\.1098855507913683\ \(0\)\
+\-\ unenhanced\\:\\ 0\\.10959420980021167\ \(0\)\
+\-\ colloid\\:\\ 0\\.1049054639309508\ \(0\)\
+\-\ requested\\:\\ 0\\.1049054639309508\ \(0\)\
+\-\ lost\\:\\ 0\\.1049054639309508\ \(0\)\
+\-\ hepatocellular\\:\\ 0\\.1031276580694427\ \(0\)\
+\-\ remain\\:\\ 0\\.10151319448524226\ \(0\)\
+\-\ case\\:\\ 0\\.10079228819722645\ \(0\)\
+\-\ in\\:\\ 0\\.09981844305797787\ \(0\)\
+\-\ facility\\:\\ 0\\.09947625689592118\ \(0\)\
+\-\ health\\:\\ 0\\.09920361107573973\ \(0\)\
+\-\ final\\:\\ 0\\.09841015454350241\ \(0\)\
+\-\ patient\\:\\ 0\\.09788031758315482\ \(0\)\
+\-\ portal\\:\\ 0\\.09599743123047436\ \(0\)\
+\-\ late\\:\\ 0\\.09469422007502512\ \(0\)\
+\-\ hyperplasia\\:\\ 0\\.09145318332411426\ \(0\)\
+\-\ enhance\\:\\ 0\\.08979296040329361\ \(0\)\
+\-\ 31\\:\\ 0\\.08901815212639927\ \(0\)\
+\-\ repeat\\:\\ 0\\.08798775598551782\ \(0\)\
+\-\ that\\:\\ 0\\.08706413207151976\ \(0\)\
+\-\ hemangioma\\:\\ 0\\.08438108977160927\ \(0\)\
+\-\ and\\:\\ 0\\.08291378649011816\ \(0\)\
+\-\ arterial\\:\\ 0\\.08261000398016846\ \(0\)\
+\-\ pending\\:\\ 0\\.08250501678391152\ \(0\)\
+\-\ good\\:\\ 0\\.08158731449479294\ \(0\)\
+\-\ adenoma\\:\\ 0\\.07997459401443895\ \(0\)\
+\-\ nodular\\:\\ 0\\.07988418094565777\ \(0\)\
+\-\ not\\:\\ 0\\.07920234680789569\ \(0\)\
+\-\ of\\:\\ 0\\.07852321499360068\ \(0\)\
+\-\ attenuation\\:\\ 0\\.07675331300625288\ \(0\)\
+\-\ vs\\:\\ 0\\.07652833804264769\ \(0\)\
+\-\ previous\\:\\ 0\\.07579855269440423\ \(0\)\
+\-\ to\\:\\ 0\\.07523413454791297\ \(0\)\
+\-\ incidental\\:\\ 0\\.07435801526341086\ \(0\)\
+\-\ based\\:\\ 0\\.07266400351087021\ \(0\)\
+\-\ did\\:\\ 0\\.0719604975744521\ \(0\)\
+\-\ venous\\:\\ 0\\.07161902464824717\ \(0\)\
+\-\ otherwise\\:\\ 0\\.07150665811167382\ \(0\)\
+\-\ was\\:\\ 0\\.06992012469072646\ \(0\)\
+\-\ does\\:\\ 0\\.06934850523808979\ \(0\)\
+\-\ this\\:\\ 0\\.06893868429578989\ \(0\)\
+\-\ asymptomatic\\:\\ 0\\.0682911467176936\ \(0\)\
+\-\ less\\:\\ 0\\.06824456310597482\ \(0\)\
+\-\ unremarkable\\:\\ 0\\.06724975632628807\ \(0\)\
+\-\ finding\\:\\ 0\\.06593712699522829\ \(0\)\
+\-\ mr\\:\\ 0\\.06490706257428348\ \(0\)\
+\-\ will\\:\\ 0\\.06456410971513928\ \(0\)\
+\-\ medical\\:\\ 0\\.06375290369551016\ \(0\)\
+\-\ age\\:\\ 0\\.0629774741286039\ \(0\)\
+\-\ decreased\\:\\ 0\\.0621359114890981\ \(0\)\
+\-\ appearance\\:\\ 0\\.060474800219756625\ \(0\)\
+\-\ focal\\:\\ 0\\.06000268318938208\ \(0\)\
+\-\ carcinoma\\:\\ 0\\.06000268318938208\ \(0\)\
+\-\ performed\\:\\ 0\\.059345479213966094\ \(0\)\
+\-\ lobe\\:\\ 0\\.05797029536675231\ \(0\)\
+\-\ enhancement\\:\\ 0\\.057738397898939385\ \(0\)\
+\-\ most\\:\\ 0\\.052205905947384425\ \(0\)\
+\-\ diagnosis\\:\\ 0\\.05200153139712031\ \(0\)\
+\-\ have\\:\\ 0\\.050111829628446784\ \(0\)\
+\-\ had\\:\\ 0\\.049979608681183674\ \(0\)\
+\-\ female\\:\\ 0\\.04840563359363232\ \(0\)\
+\-\ the\\:\\ 0\\.04003214367744572\ \(0\)\
+\-\ with\\:\\ 0\\.03928506629792416\ \(0\)\
+\-\ at\\:\\ 0\\.037889477782483805\ \(0\)\
+\-\ left\\:\\ 0\\.03421894106656393\ \(0\)\
+\-\ on\\:\\ 0\\.03029623805261938\ \(0\)\

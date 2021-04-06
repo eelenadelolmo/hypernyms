@@ -1,104 +1,102 @@
-Texto: 
-occipital mass
-surgical resection of mass
-midline occipitals mass which communicates with intracranial space
-mass with minor soft tissue contents but contains mostly csf.
-superior sagittal sinus is not drawn into the sac, and there is a persistant falcine sinus
-occipital cephalocele
-cephalocele
- -meningoencephalocele
- -menigocele
- -atretic encephalocele
- -gliocele
- 
-dermoid
-sinus pericranii
-hemangioma
-cephalohematoma
-new born male with occipital mass noted in multiple prenatal ultrsound studies
-close attention should be paid to the dural venous sinsuses.  there location in relation to the cephalocele is important for the surgeon to be aware of.  anomalies of the dural venous sinuses may be seen.  in this case there is a persistent falcine sinus, and a question of a fenestration within the sagittal sinus at the level of the cephalocele.
-
-
-Keywords by value: 
-- cephalocele: 0.22512800190444265
-- sinus: 0.1183772336985772
-- falcine: 0.11256400095222133
-- occipital: 0.09061828833327722
-- occipitals: 0.06678423048459468
-- -meningoencephalocele: 0.06678423048459468
-- -menigocele: 0.06678423048459468
-- -atretic: 0.06678423048459468
-- -gliocele: 0.06678423048459468
-- ultrsound: 0.06678423048459468
-- paid: 0.06678423048459468
-- sinsuses: 0.06678423048459468
-- dural: 0.0627680240834029
-- pericranii: 0.05846141011589688
-- fenestration: 0.05321029511165487
-- sagittal: 0.05164161594706636
-- communicates: 0.05013858974719908
-- persistant: 0.05013858974719908
-- venous: 0.04699675179480499
-- cephalohematoma: 0.04679137192690333
-- aware: 0.04626869865806279
-- mass: 0.04501746238437745
-- encephalocele: 0.044887474742957074
-- relation: 0.040769175905161756
-- drawn: 0.03984977547331125
-- attention: 0.03984977547331125
-- mostly: 0.037779371420283356
-- question: 0.03714769256468448
-- contents: 0.03656465437425927
-- prenatal: 0.03516008450053682
-- contains: 0.03459866046906924
-- surgeon: 0.03449120111306957
-- anomalies: 0.033876613652369804
-- born: 0.033778860585431114
-- sinuses: 0.033308165274014395
-- minor: 0.03321743655396352
-- close: 0.0315994509456449
-- sac: 0.03138401204170145
-- be: 0.029949016439634754
-- dermoid: 0.029511647713169494
-- important: 0.029081702132923666
-- hemangioma: 0.028926561743957448
-- there: 0.028902626283295197
-- intracranial: 0.027359937400679567
-- csf: 0.027034048119742516
-- persistent: 0.02582080797353318
-- midline: 0.025046440055594855
-- studies: 0.024178037255902726
-- location: 0.02258111884018101
-- new: 0.022558999824246657
-- space: 0.021413310659671475
-- superior: 0.020672300735259025
-- should: 0.020637943499157575
-- resection: 0.020188754966062265
-- level: 0.018658250209446454
-- is: 0.017039114496506837
-- soft: 0.015764596696920832
-- into: 0.015403987636058386
-- tissue: 0.01534409991251965
-- noted: 0.01534409991251965
-- may: 0.014199457340137302
-- case: 0.014162912370206598
-- but: 0.013806843189648014
-- multiple: 0.013634893965752038
-- surgical: 0.013607740683723134
-- seen: 0.012792633447482502
-- within: 0.012349480366561225
-- which: 0.01208442869123143
-- a: 0.012018175812684887
-- male: 0.011706102559753585
-- to: 0.009706093373704233
-- in: 0.009577209775914886
-- not: 0.009354686907135874
-- at: 0.00877093297599722
-- the: 0.008378744527492472
-- this: 0.007281342525107069
-- for: 0.00552354658062663
-- of: 0.004413022757499562
-- ,: 0.0041016676593528395
-- and: 0.0027274091777608855
-- with: 0.0026591858202247667
-- .: 0.0013446793976267528
+\-\ Texto\\:\\ \ \(0\)\
+\-\ occipital\\ mass\ \(3\)\
+\-\ surgical\\ resection\\ of\\ mass\ \(4\)\
+\-\ midline\\ occipitals\\ mass\\ which\\ communicates\\ with\\ intracranial\\ space\ \(0\)\
+\-\ mass\\ with\\ minor\\ soft\\ tissue\\ contents\\ but\\ contains\\ mostly\\ csf\\.\ \(0\)\
+\-\ superior\\ sagittal\\ sinus\\ is\\ not\\ drawn\\ into\\ the\\ sac\\,\\ and\\ there\\ is\\ a\\ persistant\\ falcine\\ sinus\ \(0\)\
+\-\ occipital\\ cephalocele\ \(0\)\
+\-\ cephalocele\ \(57\)\
+\-\ \\ \\-meningoencephalocele\ \(0\)\
+\-\ \\ \\-menigocele\ \(0\)\
+\-\ \\ \\-atretic\\ encephalocele\ \(0\)\
+\-\ \\ \\-gliocele\ \(0\)\
+\-\ \\ \ \(1082074\)\
+\-\ dermoid\ \(313\)\
+\-\ sinus\\ pericranii\ \(0\)\
+\-\ hemangioma\ \(165\)\
+\-\ cephalohematoma\ \(21\)\
+\-\ new\\ born\\ male\\ with\\ occipital\\ mass\\ noted\\ in\\ multiple\\ prenatal\\ ultrsound\\ studies\ \(0\)\
+\-\ close\\ attention\\ should\\ be\\ paid\\ to\\ the\\ dural\\ venous\\ sinsuses\\.\\ \\ there\\ location\\ in\\ relation\\ to\\ the\\ cephalocele\\ is\\ important\\ for\\ the\\ surgeon\\ to\\ be\\ aware\\ of\\.\\ \\ anomalies\\ of\\ the\\ dural\\ venous\\ sinuses\\ may\\ be\\ seen\\.\\ \\ in\\ this\\ case\\ there\\ is\\ a\\ persistent\\ falcine\\ sinus\\,\\ and\\ a\\ question\\ of\\ a\\ fenestration\\ within\\ the\\ sagittal\\ sinus\\ at\\ the\\ level\\ of\\ the\\ cephalocele\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ cephalocele\\:\\ 0\\.22512800190444265\ \(0\)\
+\-\ sinus\\:\\ 0\\.1183772336985772\ \(0\)\
+\-\ falcine\\:\\ 0\\.11256400095222133\ \(0\)\
+\-\ occipital\\:\\ 0\\.09061828833327722\ \(0\)\
+\-\ occipitals\\:\\ 0\\.06678423048459468\ \(0\)\
+\-\ \\-meningoencephalocele\\:\\ 0\\.06678423048459468\ \(0\)\
+\-\ \\-menigocele\\:\\ 0\\.06678423048459468\ \(0\)\
+\-\ \\-atretic\\:\\ 0\\.06678423048459468\ \(0\)\
+\-\ \\-gliocele\\:\\ 0\\.06678423048459468\ \(0\)\
+\-\ ultrsound\\:\\ 0\\.06678423048459468\ \(0\)\
+\-\ paid\\:\\ 0\\.06678423048459468\ \(0\)\
+\-\ sinsuses\\:\\ 0\\.06678423048459468\ \(0\)\
+\-\ dural\\:\\ 0\\.0627680240834029\ \(0\)\
+\-\ pericranii\\:\\ 0\\.05846141011589688\ \(0\)\
+\-\ fenestration\\:\\ 0\\.05321029511165487\ \(0\)\
+\-\ sagittal\\:\\ 0\\.05164161594706636\ \(0\)\
+\-\ communicates\\:\\ 0\\.05013858974719908\ \(0\)\
+\-\ persistant\\:\\ 0\\.05013858974719908\ \(0\)\
+\-\ venous\\:\\ 0\\.04699675179480499\ \(0\)\
+\-\ cephalohematoma\\:\\ 0\\.04679137192690333\ \(0\)\
+\-\ aware\\:\\ 0\\.04626869865806279\ \(0\)\
+\-\ mass\\:\\ 0\\.04501746238437745\ \(0\)\
+\-\ encephalocele\\:\\ 0\\.044887474742957074\ \(0\)\
+\-\ relation\\:\\ 0\\.040769175905161756\ \(0\)\
+\-\ drawn\\:\\ 0\\.03984977547331125\ \(0\)\
+\-\ attention\\:\\ 0\\.03984977547331125\ \(0\)\
+\-\ mostly\\:\\ 0\\.037779371420283356\ \(0\)\
+\-\ question\\:\\ 0\\.03714769256468448\ \(0\)\
+\-\ contents\\:\\ 0\\.03656465437425927\ \(0\)\
+\-\ prenatal\\:\\ 0\\.03516008450053682\ \(0\)\
+\-\ contains\\:\\ 0\\.03459866046906924\ \(0\)\
+\-\ surgeon\\:\\ 0\\.03449120111306957\ \(0\)\
+\-\ anomalies\\:\\ 0\\.033876613652369804\ \(0\)\
+\-\ born\\:\\ 0\\.033778860585431114\ \(0\)\
+\-\ sinuses\\:\\ 0\\.033308165274014395\ \(0\)\
+\-\ minor\\:\\ 0\\.03321743655396352\ \(0\)\
+\-\ close\\:\\ 0\\.0315994509456449\ \(0\)\
+\-\ sac\\:\\ 0\\.03138401204170145\ \(0\)\
+\-\ be\\:\\ 0\\.029949016439634754\ \(0\)\
+\-\ dermoid\\:\\ 0\\.029511647713169494\ \(0\)\
+\-\ important\\:\\ 0\\.029081702132923666\ \(0\)\
+\-\ hemangioma\\:\\ 0\\.028926561743957448\ \(0\)\
+\-\ there\\:\\ 0\\.028902626283295197\ \(0\)\
+\-\ intracranial\\:\\ 0\\.027359937400679567\ \(0\)\
+\-\ csf\\:\\ 0\\.027034048119742516\ \(0\)\
+\-\ persistent\\:\\ 0\\.02582080797353318\ \(0\)\
+\-\ midline\\:\\ 0\\.025046440055594855\ \(0\)\
+\-\ studies\\:\\ 0\\.024178037255902726\ \(0\)\
+\-\ location\\:\\ 0\\.02258111884018101\ \(0\)\
+\-\ new\\:\\ 0\\.022558999824246657\ \(0\)\
+\-\ space\\:\\ 0\\.021413310659671475\ \(0\)\
+\-\ superior\\:\\ 0\\.020672300735259025\ \(0\)\
+\-\ should\\:\\ 0\\.020637943499157575\ \(0\)\
+\-\ resection\\:\\ 0\\.020188754966062265\ \(0\)\
+\-\ level\\:\\ 0\\.018658250209446454\ \(0\)\
+\-\ is\\:\\ 0\\.017039114496506837\ \(0\)\
+\-\ soft\\:\\ 0\\.015764596696920832\ \(0\)\
+\-\ into\\:\\ 0\\.015403987636058386\ \(0\)\
+\-\ tissue\\:\\ 0\\.01534409991251965\ \(0\)\
+\-\ noted\\:\\ 0\\.01534409991251965\ \(0\)\
+\-\ may\\:\\ 0\\.014199457340137302\ \(0\)\
+\-\ case\\:\\ 0\\.014162912370206598\ \(0\)\
+\-\ but\\:\\ 0\\.013806843189648014\ \(0\)\
+\-\ multiple\\:\\ 0\\.013634893965752038\ \(0\)\
+\-\ surgical\\:\\ 0\\.013607740683723134\ \(0\)\
+\-\ seen\\:\\ 0\\.012792633447482502\ \(0\)\
+\-\ within\\:\\ 0\\.012349480366561225\ \(0\)\
+\-\ which\\:\\ 0\\.01208442869123143\ \(0\)\
+\-\ a\\:\\ 0\\.012018175812684887\ \(0\)\
+\-\ male\\:\\ 0\\.011706102559753585\ \(0\)\
+\-\ to\\:\\ 0\\.009706093373704233\ \(0\)\
+\-\ in\\:\\ 0\\.009577209775914886\ \(0\)\
+\-\ not\\:\\ 0\\.009354686907135874\ \(0\)\
+\-\ at\\:\\ 0\\.00877093297599722\ \(0\)\
+\-\ the\\:\\ 0\\.008378744527492472\ \(0\)\
+\-\ this\\:\\ 0\\.007281342525107069\ \(0\)\
+\-\ for\\:\\ 0\\.00552354658062663\ \(0\)\
+\-\ of\\:\\ 0\\.004413022757499562\ \(0\)\
+\-\ \\,\\:\\ 0\\.0041016676593528395\ \(0\)\
+\-\ and\\:\\ 0\\.0027274091777608855\ \(0\)\
+\-\ with\\:\\ 0\\.0026591858202247667\ \(0\)\
+\-\ \\.\\:\\ 0\\.0013446793976267528\ \(0\)\

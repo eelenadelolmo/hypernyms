@@ -1,97 +1,94 @@
-Texto: 
-obtunded with no focal neurological signs.
-endovascular coil placement into aneurysm.
-ct  diffuse subarachnoid hemorrhage with left frontal lobe intracerebral hematoma. 
-
-cta and dsa   6mm anterior communicating artery aneurysm.  markedly stenotic right m1 and m2 segments of the middle cerebral artery.  small collateral vessels reconstitute distal vascular territory.
-moya moya disease 
-ruptured anterior communicating artery aneurysm
-ruptured aneurysm
-bleeding vascular malformation or neoplasm
-mvc with traumatic subarachnoid hemorrhage (sah)
-55 y.o. man presents with a first time seizure and sudden loss of consciousness.
-aneursym formation is likely due to turbulent collateral flow through the anterior communicating artery from the compromised status of the middle cerebral artery on the right.
-
-
-Keywords by value: 
-- moya: 0.13537285405677588
-- communicating: 0.13011501278305684
-- aneurysm: 0.11258130383477676
-- artery: 0.10602208300450829
-- collateral: 0.07452855003521357
-- ruptured: 0.07410117619165794
-- subarachnoid: 0.06920132216424052
-- m2: 0.06768642702838794
-- dsa: 0.06191020052372173
-- reconstitute: 0.06191020052372173
-- aneursym: 0.06191020052372173
-- turbulent: 0.058531324622820353
-- m1: 0.05724673562425987
-- anterior: 0.05501982059406844
-- middle: 0.052085982827373964
-- intracerebral: 0.05089556852386906
-- sah: 0.05089556852386906
-- obtunded: 0.0503577475143893
-- compromised: 0.04937622221725278
-- cerebral: 0.04934077502940118
-- stenotic: 0.048925662040000484
-- mvc: 0.048925662040000484
-- territory: 0.04809163321869229
-- hemorrhage: 0.047404276402933924
-- vascular: 0.04669672113206161
-- 6mm: 0.04663868832581915
-- endovascular: 0.044581521009723096
-- coil: 0.044581521009723096
-- segments: 0.04006821032278356
-- cta: 0.03715674664397422
-- consciousness: 0.03615151341240243
-- 55: 0.034522413245871596
-- markedly: 0.03370694832917361
-- sudden: 0.0328998664459243
-- seizure: 0.03148804851294058
-- bleeding: 0.03091310791721598
-- neurological: 0.03081270509624786
-- traumatic: 0.02982563717613791
-- formation: 0.029393761610599693
-- placement: 0.02890342411040858
-- vessels: 0.028668666802352773
-- malformation: 0.028402888770886495
-- status: 0.025419394343180444
-- hematoma: 0.025341390653517416
-- signs: 0.025061466116550454
-- neoplasm: 0.024251304799266068
-- first: 0.023895695289882102
-- flow: 0.0235337823071543
-- frontal: 0.02236909945402798
-- diffuse: 0.02155839516979429
-- loss: 0.02067053477057033
-- y.o: 0.0205531619382225
-- focal: 0.02033744670115335
-- through: 0.020224641820173906
-- time: 0.020113343560327606
-- likely: 0.02008574971613047
-- distal: 0.019360654907883558
-- lobe: 0.01916104456602945
-- due: 0.01900230960794033
-- into: 0.016944386399664224
-- man: 0.01684109869241666
-- small: 0.01640479403650932
-- right: 0.015027195151840278
-- presents: 0.014547035795899383
-- disease: 0.011639479510130868
-- from: 0.01055363094295177
-- ct: 0.009960863778267024
-- or: 0.008346022908030895
-- left: 0.007967543910607623
-- no: 0.007170367922531683
-- on: 0.006032425103045234
-- (: 0.006019681052032171
-- ): 0.0059461474342775425
-- the: 0.005760386862651075
-- is: 0.00468575648653938
-- and: 0.004500225143305461
-- with: 0.0039001392029963246
-- to: 0.003558900903691552
-- a: 0.003304998348488344
-- of: 0.0029125950199497107
-- .: 0.0026624652073009704
+\-\ Texto\\:\\ \ \(0\)\
+\-\ obtunded\\ with\\ no\\ focal\\ neurological\\ signs\\.\ \(0\)\
+\-\ endovascular\\ coil\\ placement\\ into\\ aneurysm\\.\ \(0\)\
+\-\ ct\\ \\ diffuse\\ subarachnoid\\ hemorrhage\\ with\\ left\\ frontal\\ lobe\\ intracerebral\\ hematoma\\.\\ \ \(0\)\
+\-\ cta\\ and\\ dsa\\ \\ \\ 6mm\\ anterior\\ communicating\\ artery\\ aneurysm\\.\\ \\ markedly\\ stenotic\\ right\\ m1\\ and\\ m2\\ segments\\ of\\ the\\ middle\\ cerebral\\ artery\\.\\ \\ small\\ collateral\\ vessels\\ reconstitute\\ distal\\ vascular\\ territory\\.\ \(0\)\
+\-\ moya\\ moya\\ disease\\ \ \(0\)\
+\-\ ruptured\\ anterior\\ communicating\\ artery\\ aneurysm\ \(0\)\
+\-\ ruptured\\ aneurysm\ \(8\)\
+\-\ bleeding\\ vascular\\ malformation\\ or\\ neoplasm\ \(0\)\
+\-\ mvc\\ with\\ traumatic\\ subarachnoid\\ hemorrhage\\ \\(sah\\)\ \(0\)\
+\-\ 55\\ y\\.o\\.\\ man\\ presents\\ with\\ a\\ first\\ time\\ seizure\\ and\\ sudden\\ loss\\ of\\ consciousness\\.\ \(1\)\
+\-\ aneursym\\ formation\\ is\\ likely\\ due\\ to\\ turbulent\\ collateral\\ flow\\ through\\ the\\ anterior\\ communicating\\ artery\\ from\\ the\\ compromised\\ status\\ of\\ the\\ middle\\ cerebral\\ artery\\ on\\ the\\ right\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ moya\\:\\ 0\\.13537285405677588\ \(0\)\
+\-\ communicating\\:\\ 0\\.13011501278305684\ \(0\)\
+\-\ aneurysm\\:\\ 0\\.11258130383477676\ \(0\)\
+\-\ artery\\:\\ 0\\.10602208300450829\ \(0\)\
+\-\ collateral\\:\\ 0\\.07452855003521357\ \(0\)\
+\-\ ruptured\\:\\ 0\\.07410117619165794\ \(0\)\
+\-\ subarachnoid\\:\\ 0\\.06920132216424052\ \(0\)\
+\-\ m2\\:\\ 0\\.06768642702838794\ \(0\)\
+\-\ dsa\\:\\ 0\\.06191020052372173\ \(0\)\
+\-\ reconstitute\\:\\ 0\\.06191020052372173\ \(0\)\
+\-\ aneursym\\:\\ 0\\.06191020052372173\ \(0\)\
+\-\ turbulent\\:\\ 0\\.058531324622820353\ \(0\)\
+\-\ m1\\:\\ 0\\.05724673562425987\ \(0\)\
+\-\ anterior\\:\\ 0\\.05501982059406844\ \(0\)\
+\-\ middle\\:\\ 0\\.052085982827373964\ \(0\)\
+\-\ intracerebral\\:\\ 0\\.05089556852386906\ \(0\)\
+\-\ sah\\:\\ 0\\.05089556852386906\ \(0\)\
+\-\ obtunded\\:\\ 0\\.0503577475143893\ \(0\)\
+\-\ compromised\\:\\ 0\\.04937622221725278\ \(0\)\
+\-\ cerebral\\:\\ 0\\.04934077502940118\ \(0\)\
+\-\ stenotic\\:\\ 0\\.048925662040000484\ \(0\)\
+\-\ mvc\\:\\ 0\\.048925662040000484\ \(0\)\
+\-\ territory\\:\\ 0\\.04809163321869229\ \(0\)\
+\-\ hemorrhage\\:\\ 0\\.047404276402933924\ \(0\)\
+\-\ vascular\\:\\ 0\\.04669672113206161\ \(0\)\
+\-\ 6mm\\:\\ 0\\.04663868832581915\ \(0\)\
+\-\ endovascular\\:\\ 0\\.044581521009723096\ \(0\)\
+\-\ coil\\:\\ 0\\.044581521009723096\ \(0\)\
+\-\ segments\\:\\ 0\\.04006821032278356\ \(0\)\
+\-\ cta\\:\\ 0\\.03715674664397422\ \(0\)\
+\-\ consciousness\\:\\ 0\\.03615151341240243\ \(0\)\
+\-\ 55\\:\\ 0\\.034522413245871596\ \(0\)\
+\-\ markedly\\:\\ 0\\.03370694832917361\ \(0\)\
+\-\ sudden\\:\\ 0\\.0328998664459243\ \(0\)\
+\-\ seizure\\:\\ 0\\.03148804851294058\ \(0\)\
+\-\ bleeding\\:\\ 0\\.03091310791721598\ \(0\)\
+\-\ neurological\\:\\ 0\\.03081270509624786\ \(0\)\
+\-\ traumatic\\:\\ 0\\.02982563717613791\ \(0\)\
+\-\ formation\\:\\ 0\\.029393761610599693\ \(0\)\
+\-\ placement\\:\\ 0\\.02890342411040858\ \(0\)\
+\-\ vessels\\:\\ 0\\.028668666802352773\ \(0\)\
+\-\ malformation\\:\\ 0\\.028402888770886495\ \(0\)\
+\-\ status\\:\\ 0\\.025419394343180444\ \(0\)\
+\-\ hematoma\\:\\ 0\\.025341390653517416\ \(0\)\
+\-\ signs\\:\\ 0\\.025061466116550454\ \(0\)\
+\-\ neoplasm\\:\\ 0\\.024251304799266068\ \(0\)\
+\-\ first\\:\\ 0\\.023895695289882102\ \(0\)\
+\-\ flow\\:\\ 0\\.0235337823071543\ \(0\)\
+\-\ frontal\\:\\ 0\\.02236909945402798\ \(0\)\
+\-\ diffuse\\:\\ 0\\.02155839516979429\ \(0\)\
+\-\ loss\\:\\ 0\\.02067053477057033\ \(0\)\
+\-\ y\\.o\\:\\ 0\\.0205531619382225\ \(0\)\
+\-\ focal\\:\\ 0\\.02033744670115335\ \(0\)\
+\-\ through\\:\\ 0\\.020224641820173906\ \(0\)\
+\-\ time\\:\\ 0\\.020113343560327606\ \(0\)\
+\-\ likely\\:\\ 0\\.02008574971613047\ \(0\)\
+\-\ distal\\:\\ 0\\.019360654907883558\ \(0\)\
+\-\ lobe\\:\\ 0\\.01916104456602945\ \(0\)\
+\-\ due\\:\\ 0\\.01900230960794033\ \(0\)\
+\-\ into\\:\\ 0\\.016944386399664224\ \(0\)\
+\-\ man\\:\\ 0\\.01684109869241666\ \(0\)\
+\-\ small\\:\\ 0\\.01640479403650932\ \(0\)\
+\-\ right\\:\\ 0\\.015027195151840278\ \(0\)\
+\-\ presents\\:\\ 0\\.014547035795899383\ \(0\)\
+\-\ disease\\:\\ 0\\.011639479510130868\ \(0\)\
+\-\ from\\:\\ 0\\.01055363094295177\ \(0\)\
+\-\ ct\\:\\ 0\\.009960863778267024\ \(0\)\
+\-\ or\\:\\ 0\\.008346022908030895\ \(0\)\
+\-\ left\\:\\ 0\\.007967543910607623\ \(0\)\
+\-\ no\\:\\ 0\\.007170367922531683\ \(0\)\
+\-\ on\\:\\ 0\\.006032425103045234\ \(0\)\
+\-\ \\(\\:\\ 0\\.006019681052032171\ \(0\)\
+\-\ \\)\\:\\ 0\\.0059461474342775425\ \(0\)\
+\-\ the\\:\\ 0\\.005760386862651075\ \(0\)\
+\-\ is\\:\\ 0\\.00468575648653938\ \(0\)\
+\-\ and\\:\\ 0\\.004500225143305461\ \(0\)\
+\-\ with\\:\\ 0\\.0039001392029963246\ \(0\)\
+\-\ to\\:\\ 0\\.003558900903691552\ \(0\)\
+\-\ a\\:\\ 0\\.003304998348488344\ \(0\)\
+\-\ of\\:\\ 0\\.0029125950199497107\ \(0\)\
+\-\ \\.\\:\\ 0\\.0026624652073009704\ \(0\)\

@@ -1,124 +1,118 @@
-Texto: 
-radiographs demonstrate no abnormalities.  no stress fracture is appreciated.
-
-mr images obtained six to seven weeks later demonstrate an irregular linear band of low signal on t1 and t2 weighted images within the proximal medial tibial metaphysis, with adjacent low t1 signal and adjacent increased t2 signal, consistent with a stress fracture.
-occult stress fracture
-stress fracture proximal left tibia
-48 year-old female with medial joint line tenderness following a treadmill workout.  concern for meniscal injury.
-stress fractures of the tibial diaphysis are common (especially among athletes), but stress fractures of the proximal tibial metaphysis are unusual.  sudden changes in level, type, or conditions of activity followed by pain, especially if increased with stress and persistent, should raise suspicion for stress-related injury even in less common locations.
-
-the mri for this patient was ordered with suspicion of meniscal injury.  stress related injury was not suspected, given the proximity of the patientâ€™s symptoms to the joint (medial joint line tenderness), with normal radiographic findings, and consequently, mri was not obtained for 6-7 weeks following onset of symptoms.
-
-reference:
-
-vossinakis ic, tasker tp.  stress fracture of the medial tibial condyle.  knee. 2000 jul 1;7(3):187-190 [abstract].
-
-
-Keywords by value: 
-- stress: 0.5556754299740231
-- tibial: 0.23244500681794247
-- fracture: 0.19125253872463358
-- injury: 0.17555390602453297
-- medial: 0.17523610070664541
-- meniscal: 0.13930802157099423
-- joint: 0.13304728668243235
-- suspicion: 0.12792423310747852
-- proximal: 0.12614093429707565
-- metaphysis: 0.12367060283939811
-- signal: 0.1144561493355044
-- vossinakis: 0.10763184587800242
-- ic: 0.10763184587800242
-- tasker: 0.10763184587800242
-- the: 0.1074347951426008
-- especially: 0.10647800417355827
-- of: 0.10536689697095636
-- line: 0.1048891475233746
-- tp: 0.10284797478470631
-- related: 0.10229346127403084
-- fractures: 0.09951414020156545
-- workout: 0.09945376422764286
-- obtained: 0.09521190650604028
-- treadmill: 0.09466989313434675
-- jul: 0.09285114975423611
-- adjacent: 0.0872513866168785
-- athletes: 0.08649181148398719
-- consequently: 0.08554742937117063
-- tenderness: 0.08441438535025196
-- t1: 0.08386771327910524
-- abstract: 0.08385905723845365
-- for: 0.08159586135828895
-- following: 0.08075057738743327
-- weeks: 0.08067178948224463
-- proximity: 0.07988919701058042
-- with: 0.07907239025009172
-- t2: 0.07744232941300347
-- low: 0.07723743415445686
-- common: 0.07633680497551906
-- symptoms: 0.07364857085195514
-- increased: 0.07278831924546358
-- seven: 0.07258547662751494
-- occult: 0.07228676503103065
-- among: 0.07116224998659153
-- locations: 0.07038404636516533
-- was: 0.07036708738063577
-- demonstrate: 0.06997773149864499
-- mri: 0.06909458226627692
-- raise: 0.06896652636417952
-- band: 0.06810807673495582
-- 2000: 0.06730787333493665
-- reference: 0.06585391575761186
-- diaphysis: 0.06551679345598921
-- condyle: 0.06535177708997196
-- images: 0.062264061309257664
-- concern: 0.061714290329750676
-- conditions: 0.06147592913513755
-- appreciated: 0.060677660070370024
-- six: 0.06045916349565262
-- unusual: 0.06035141409069843
-- ordered: 0.0591297916845771
-- 48: 0.05829001994027173
-- sudden: 0.05820029724293585
-- tibia: 0.057506068907264334
-- even: 0.05661366255181192
-- and: 0.05562920723055042
-- suspected: 0.05514612399130014
-- linear: 0.054217675004255374
-- not: 0.053139097250702275
-- irregular: 0.051960741502438325
-- persistent: 0.051855865453306504
-- are: 0.05107671135364235
-- weighted: 0.050202348524198866
-- radiographic: 0.049933170054126064
-- activity: 0.049412564521171334
-- abnormalities: 0.04875233758609499
-- knee: 0.04824184127990984
-- later: 0.04816522751822972
-- given: 0.04629749384832268
-- less: 0.045787209872909504
-- followed: 0.04544876878988035
-- type: 0.04514929896082995
-- should: 0.04391507962414828
-- patient: 0.04378045116597793
-- no: 0.0437722163183348
-- radiographs: 0.043651709808156226
-- mr: 0.04354798625800854
-- onset: 0.043217047168553124
-- changes: 0.04067501212312818
-- level: 0.04065479193336172
-- if: 0.03910460541283712
-- consistent: 0.036493128860790834
-- to: 0.03365114085159422
-- in: 0.03348551000601658
-- but: 0.03328134496967979
-- findings: 0.03321663651950467
-- female: 0.032476710283002155
-- within: 0.03099759914513695
-- by: 0.028580676732412647
-- normal: 0.027479286249453373
-- an: 0.02573636882339489
-- pain: 0.024083422434089615
-- or: 0.02341344935868492
-- this: 0.0231264577173125
-- left: 0.022958456541226094
-- on: 0.02032660400977002
-- is: 0.018431331915304407
+\-\ Texto\\:\\ \ \(0\)\
+\-\ radiographs\\ demonstrate\\ no\\ abnormalities\\.\\ \\ no\\ stress\\ fracture\\ is\\ appreciated\\.\ \(0\)\
+\-\ mr\\ images\\ obtained\\ six\\ to\\ seven\\ weeks\\ later\\ demonstrate\\ an\\ irregular\\ linear\\ band\\ of\\ low\\ signal\\ on\\ t1\\ and\\ t2\\ weighted\\ images\\ within\\ the\\ proximal\\ medial\\ tibial\\ metaphysis\\,\\ with\\ adjacent\\ low\\ t1\\ signal\\ and\\ adjacent\\ increased\\ t2\\ signal\\,\\ consistent\\ with\\ a\\ stress\\ fracture\\.\ \(0\)\
+\-\ occult\\ stress\\ fracture\ \(2\)\
+\-\ stress\\ fracture\\ proximal\\ left\\ tibia\ \(0\)\
+\-\ 48\\ year\\-old\\ female\\ with\\ medial\\ joint\\ line\\ tenderness\\ following\\ a\\ treadmill\\ workout\\.\\ \\ concern\\ for\\ meniscal\\ injury\\.\ \(0\)\
+\-\ stress\\ fractures\\ of\\ the\\ tibial\\ diaphysis\\ are\\ common\\ \\(especially\\ among\\ athletes\\)\\,\\ but\\ stress\\ fractures\\ of\\ the\\ proximal\\ tibial\\ metaphysis\\ are\\ unusual\\.\\ \\ sudden\\ changes\\ in\\ level\\,\\ type\\,\\ or\\ conditions\\ of\\ activity\\ followed\\ by\\ pain\\,\\ especially\\ if\\ increased\\ with\\ stress\\ and\\ persistent\\,\\ should\\ raise\\ suspicion\\ for\\ stress\\-related\\ injury\\ even\\ in\\ less\\ common\\ locations\\.\ \(0\)\
+\-\ the\\ mri\\ for\\ this\\ patient\\ was\\ ordered\\ with\\ suspicion\\ of\\ meniscal\\ injury\\.\\ \\ stress\\ related\\ injury\\ was\\ not\\ suspected\\,\\ given\\ the\\ proximity\\ of\\ the\\ patient\\â\\€\\™s\\ symptoms\\ to\\ the\\ joint\\ \\(medial\\ joint\\ line\\ tenderness\\)\\,\\ with\\ normal\\ radiographic\\ findings\\,\\ and\\ consequently\\,\\ mri\\ was\\ not\\ obtained\\ for\\ 6\\-7\\ weeks\\ following\\ onset\\ of\\ symptoms\\.\ \(0\)\
+\-\ reference\\:\ \(0\)\
+\-\ vossinakis\\ ic\\,\\ tasker\\ tp\\.\\ \\ stress\\ fracture\\ of\\ the\\ medial\\ tibial\\ condyle\\.\\ \\ knee\\.\\ 2000\\ jul\\ 1\\;7\\(3\\)\\:187\\-190\\ \\[abstract\\]\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ stress\\:\\ 0\\.5556754299740231\ \(0\)\
+\-\ tibial\\:\\ 0\\.23244500681794247\ \(0\)\
+\-\ fracture\\:\\ 0\\.19125253872463358\ \(0\)\
+\-\ injury\\:\\ 0\\.17555390602453297\ \(0\)\
+\-\ medial\\:\\ 0\\.17523610070664541\ \(0\)\
+\-\ meniscal\\:\\ 0\\.13930802157099423\ \(0\)\
+\-\ joint\\:\\ 0\\.13304728668243235\ \(0\)\
+\-\ suspicion\\:\\ 0\\.12792423310747852\ \(0\)\
+\-\ proximal\\:\\ 0\\.12614093429707565\ \(0\)\
+\-\ metaphysis\\:\\ 0\\.12367060283939811\ \(0\)\
+\-\ signal\\:\\ 0\\.1144561493355044\ \(0\)\
+\-\ vossinakis\\:\\ 0\\.10763184587800242\ \(0\)\
+\-\ ic\\:\\ 0\\.10763184587800242\ \(0\)\
+\-\ tasker\\:\\ 0\\.10763184587800242\ \(0\)\
+\-\ the\\:\\ 0\\.1074347951426008\ \(0\)\
+\-\ especially\\:\\ 0\\.10647800417355827\ \(0\)\
+\-\ of\\:\\ 0\\.10536689697095636\ \(0\)\
+\-\ line\\:\\ 0\\.1048891475233746\ \(0\)\
+\-\ tp\\:\\ 0\\.10284797478470631\ \(0\)\
+\-\ related\\:\\ 0\\.10229346127403084\ \(0\)\
+\-\ fractures\\:\\ 0\\.09951414020156545\ \(0\)\
+\-\ workout\\:\\ 0\\.09945376422764286\ \(0\)\
+\-\ obtained\\:\\ 0\\.09521190650604028\ \(0\)\
+\-\ treadmill\\:\\ 0\\.09466989313434675\ \(0\)\
+\-\ jul\\:\\ 0\\.09285114975423611\ \(0\)\
+\-\ adjacent\\:\\ 0\\.0872513866168785\ \(0\)\
+\-\ athletes\\:\\ 0\\.08649181148398719\ \(0\)\
+\-\ consequently\\:\\ 0\\.08554742937117063\ \(0\)\
+\-\ tenderness\\:\\ 0\\.08441438535025196\ \(0\)\
+\-\ t1\\:\\ 0\\.08386771327910524\ \(0\)\
+\-\ abstract\\:\\ 0\\.08385905723845365\ \(0\)\
+\-\ for\\:\\ 0\\.08159586135828895\ \(0\)\
+\-\ following\\:\\ 0\\.08075057738743327\ \(0\)\
+\-\ weeks\\:\\ 0\\.08067178948224463\ \(0\)\
+\-\ proximity\\:\\ 0\\.07988919701058042\ \(0\)\
+\-\ with\\:\\ 0\\.07907239025009172\ \(0\)\
+\-\ t2\\:\\ 0\\.07744232941300347\ \(0\)\
+\-\ low\\:\\ 0\\.07723743415445686\ \(0\)\
+\-\ common\\:\\ 0\\.07633680497551906\ \(0\)\
+\-\ symptoms\\:\\ 0\\.07364857085195514\ \(0\)\
+\-\ increased\\:\\ 0\\.07278831924546358\ \(0\)\
+\-\ seven\\:\\ 0\\.07258547662751494\ \(0\)\
+\-\ occult\\:\\ 0\\.07228676503103065\ \(0\)\
+\-\ among\\:\\ 0\\.07116224998659153\ \(0\)\
+\-\ locations\\:\\ 0\\.07038404636516533\ \(0\)\
+\-\ was\\:\\ 0\\.07036708738063577\ \(0\)\
+\-\ demonstrate\\:\\ 0\\.06997773149864499\ \(0\)\
+\-\ mri\\:\\ 0\\.06909458226627692\ \(0\)\
+\-\ raise\\:\\ 0\\.06896652636417952\ \(0\)\
+\-\ band\\:\\ 0\\.06810807673495582\ \(0\)\
+\-\ 2000\\:\\ 0\\.06730787333493665\ \(0\)\
+\-\ reference\\:\\ 0\\.06585391575761186\ \(0\)\
+\-\ diaphysis\\:\\ 0\\.06551679345598921\ \(0\)\
+\-\ condyle\\:\\ 0\\.06535177708997196\ \(0\)\
+\-\ images\\:\\ 0\\.062264061309257664\ \(0\)\
+\-\ concern\\:\\ 0\\.061714290329750676\ \(0\)\
+\-\ conditions\\:\\ 0\\.06147592913513755\ \(0\)\
+\-\ appreciated\\:\\ 0\\.060677660070370024\ \(0\)\
+\-\ six\\:\\ 0\\.06045916349565262\ \(0\)\
+\-\ unusual\\:\\ 0\\.06035141409069843\ \(0\)\
+\-\ ordered\\:\\ 0\\.0591297916845771\ \(0\)\
+\-\ 48\\:\\ 0\\.05829001994027173\ \(0\)\
+\-\ sudden\\:\\ 0\\.05820029724293585\ \(0\)\
+\-\ tibia\\:\\ 0\\.057506068907264334\ \(0\)\
+\-\ even\\:\\ 0\\.05661366255181192\ \(0\)\
+\-\ and\\:\\ 0\\.05562920723055042\ \(0\)\
+\-\ suspected\\:\\ 0\\.05514612399130014\ \(0\)\
+\-\ linear\\:\\ 0\\.054217675004255374\ \(0\)\
+\-\ not\\:\\ 0\\.053139097250702275\ \(0\)\
+\-\ irregular\\:\\ 0\\.051960741502438325\ \(0\)\
+\-\ persistent\\:\\ 0\\.051855865453306504\ \(0\)\
+\-\ are\\:\\ 0\\.05107671135364235\ \(0\)\
+\-\ weighted\\:\\ 0\\.050202348524198866\ \(0\)\
+\-\ radiographic\\:\\ 0\\.049933170054126064\ \(0\)\
+\-\ activity\\:\\ 0\\.049412564521171334\ \(0\)\
+\-\ abnormalities\\:\\ 0\\.04875233758609499\ \(0\)\
+\-\ knee\\:\\ 0\\.04824184127990984\ \(0\)\
+\-\ later\\:\\ 0\\.04816522751822972\ \(0\)\
+\-\ given\\:\\ 0\\.04629749384832268\ \(0\)\
+\-\ less\\:\\ 0\\.045787209872909504\ \(0\)\
+\-\ followed\\:\\ 0\\.04544876878988035\ \(0\)\
+\-\ type\\:\\ 0\\.04514929896082995\ \(0\)\
+\-\ should\\:\\ 0\\.04391507962414828\ \(0\)\
+\-\ patient\\:\\ 0\\.04378045116597793\ \(0\)\
+\-\ no\\:\\ 0\\.0437722163183348\ \(0\)\
+\-\ radiographs\\:\\ 0\\.043651709808156226\ \(0\)\
+\-\ mr\\:\\ 0\\.04354798625800854\ \(0\)\
+\-\ onset\\:\\ 0\\.043217047168553124\ \(0\)\
+\-\ changes\\:\\ 0\\.04067501212312818\ \(0\)\
+\-\ level\\:\\ 0\\.04065479193336172\ \(0\)\
+\-\ if\\:\\ 0\\.03910460541283712\ \(0\)\
+\-\ consistent\\:\\ 0\\.036493128860790834\ \(0\)\
+\-\ to\\:\\ 0\\.03365114085159422\ \(0\)\
+\-\ in\\:\\ 0\\.03348551000601658\ \(0\)\
+\-\ but\\:\\ 0\\.03328134496967979\ \(0\)\
+\-\ findings\\:\\ 0\\.03321663651950467\ \(0\)\
+\-\ female\\:\\ 0\\.032476710283002155\ \(0\)\
+\-\ within\\:\\ 0\\.03099759914513695\ \(0\)\
+\-\ by\\:\\ 0\\.028580676732412647\ \(0\)\
+\-\ normal\\:\\ 0\\.027479286249453373\ \(0\)\
+\-\ an\\:\\ 0\\.02573636882339489\ \(0\)\
+\-\ pain\\:\\ 0\\.024083422434089615\ \(0\)\
+\-\ or\\:\\ 0\\.02341344935868492\ \(0\)\
+\-\ this\\:\\ 0\\.0231264577173125\ \(0\)\
+\-\ left\\:\\ 0\\.022958456541226094\ \(0\)\
+\-\ on\\:\\ 0\\.02032660400977002\ \(0\)\
+\-\ is\\:\\ 0\\.018431331915304407\ \(0\)\

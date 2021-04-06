@@ -1,85 +1,83 @@
-Texto: 
-once significant pulmonary hemorrhage is suspected (frank hemoptysis or significant hemorrhage seen on ct), remove biopsy needle.  this will prevent further injury. next, lay patient in a position so the blood collection will be dependent, to prevent aspiration into other lung regions. administer o2 and consider admitting patient to hospital, with periodic re-scan.
-first image demonstrates solitary pulmonary nodule in left lower lobe (patient prone on table). second image shows biopsy needle in place with developing hemorrhage.  last image shows blood-filled airspaces.
-pulmonary hemorrhage
-the appearance of pulmonary hemorrhage on ct is non-specific, and resembles other airspace filling processes such as pneumonia, pulmonary edema, alveolar proteinosis.
-solitary pulmonary nodule on recent ct. patient presents for biopsy.
-
-
-Keywords by value: 
-- pulmonary: 0.36097330893582197
-- hemorrhage: 0.33041073179535974
-- biopsy: 0.20755560416516985
-- image: 0.18936688897488824
-- needle: 0.18319516515118422
-- prevent: 0.18100885319336305
-- solitary: 0.18065752940389626
-- nodule: 0.15580808995368178
-- administer: 0.15082725467285477
-- airspaces: 0.15082725467285477
-- lay: 0.14584962180088862
-- admitting: 0.14198866978979297
-- resembles: 0.1338564094270306
-- proteinosis: 0.13181846279710477
-- patient: 0.1284086589264635
-- will: 0.12705195918871173
-- on: 0.11923641223013152
-- shows: 0.11585675757311904
-- blood: 0.11464241908115388
-- significant: 0.1139744454857004
-- ct: 0.11272808367839797
-- periodic: 0.11098666554018492
-- remove: 0.10644709525652919
-- airspace: 0.10600903266821879
-- prone: 0.10558178755323111
-- alveolar: 0.10359079494945017
-- other: 0.10251301984020966
-- hemoptysis: 0.10214808065712312
-- o2: 0.10180544474748618
-- table: 0.10146946238456306
-- frank: 0.10113988007646271
-- consider: 0.09708415060867998
-- processes: 0.09708415060867998
-- dependent: 0.0951325011552312
-- developing: 0.09445388288267115
-- once: 0.09276448857482363
-- next: 0.09217120023453225
-- place: 0.08898420126934292
-- aspiration: 0.0862939162721694
-- regions: 0.08470784034120107
-- so: 0.0830243212619384
-- suspected: 0.08087216597962107
-- last: 0.08027546726225823
-- collection: 0.07969866224989357
-- position: 0.07868867780944333
-- pneumonia: 0.07790404497684089
-- filling: 0.07643407720691059
-- second: 0.0738903475577403
-- in: 0.0736600923270525
-- hospital: 0.07290511665847443
-- recent: 0.06682976790560374
-- first: 0.06660650612385936
-- injury: 0.06436274935944102
-- further: 0.0642849849677944
-- such: 0.06348888944507035
-- lung: 0.06004036872270122
-- appearance: 0.05950242234707348
-- edema: 0.0588668649929737
-- lobe: 0.05703818757503247
-- is: 0.054059347275799106
-- into: 0.05246723655637987
-- lower: 0.05043582288783662
-- demonstrates: 0.0495858215309988
-- to: 0.049349626979823105
-- presents: 0.047479808865009174
-- seen: 0.04646717471768254
-- and: 0.04079030541814282
-- be: 0.0400386561418979
-- as: 0.039651304737887465
-- the: 0.03938846448269736
-- with: 0.03865339940433908
-- or: 0.03433598276081449
-- this: 0.033915107566403806
-- left: 0.03366873269879978
-- for: 0.029915221439945298
-- of: 0.019315158899329738
+\-\ Texto\\:\\ \ \(0\)\
+\-\ once\\ significant\\ pulmonary\\ hemorrhage\\ is\\ suspected\\ \\(frank\\ hemoptysis\\ or\\ significant\\ hemorrhage\\ seen\\ on\\ ct\\)\\,\\ remove\\ biopsy\\ needle\\.\\ \\ this\\ will\\ prevent\\ further\\ injury\\.\\ next\\,\\ lay\\ patient\\ in\\ a\\ position\\ so\\ the\\ blood\\ collection\\ will\\ be\\ dependent\\,\\ to\\ prevent\\ aspiration\\ into\\ other\\ lung\\ regions\\.\\ administer\\ o2\\ and\\ consider\\ admitting\\ patient\\ to\\ hospital\\,\\ with\\ periodic\\ re\\-scan\\.\ \(0\)\
+\-\ first\\ image\\ demonstrates\\ solitary\\ pulmonary\\ nodule\\ in\\ left\\ lower\\ lobe\\ \\(patient\\ prone\\ on\\ table\\)\\.\\ second\\ image\\ shows\\ biopsy\\ needle\\ in\\ place\\ with\\ developing\\ hemorrhage\\.\\ \\ last\\ image\\ shows\\ blood\\-filled\\ airspaces\\.\ \(0\)\
+\-\ pulmonary\\ hemorrhage\ \(11\)\
+\-\ the\\ appearance\\ of\\ pulmonary\\ hemorrhage\\ on\\ ct\\ is\\ non\\-specific\\,\\ and\\ resembles\\ other\\ airspace\\ filling\\ processes\\ such\\ as\\ pneumonia\\,\\ pulmonary\\ edema\\,\\ alveolar\\ proteinosis\\.\ \(0\)\
+\-\ solitary\\ pulmonary\\ nodule\\ on\\ recent\\ ct\\.\\ patient\\ presents\\ for\\ biopsy\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ pulmonary\\:\\ 0\\.36097330893582197\ \(0\)\
+\-\ hemorrhage\\:\\ 0\\.33041073179535974\ \(0\)\
+\-\ biopsy\\:\\ 0\\.20755560416516985\ \(0\)\
+\-\ image\\:\\ 0\\.18936688897488824\ \(0\)\
+\-\ needle\\:\\ 0\\.18319516515118422\ \(0\)\
+\-\ prevent\\:\\ 0\\.18100885319336305\ \(0\)\
+\-\ solitary\\:\\ 0\\.18065752940389626\ \(0\)\
+\-\ nodule\\:\\ 0\\.15580808995368178\ \(0\)\
+\-\ administer\\:\\ 0\\.15082725467285477\ \(0\)\
+\-\ airspaces\\:\\ 0\\.15082725467285477\ \(0\)\
+\-\ lay\\:\\ 0\\.14584962180088862\ \(0\)\
+\-\ admitting\\:\\ 0\\.14198866978979297\ \(0\)\
+\-\ resembles\\:\\ 0\\.1338564094270306\ \(0\)\
+\-\ proteinosis\\:\\ 0\\.13181846279710477\ \(0\)\
+\-\ patient\\:\\ 0\\.1284086589264635\ \(0\)\
+\-\ will\\:\\ 0\\.12705195918871173\ \(0\)\
+\-\ on\\:\\ 0\\.11923641223013152\ \(0\)\
+\-\ shows\\:\\ 0\\.11585675757311904\ \(0\)\
+\-\ blood\\:\\ 0\\.11464241908115388\ \(0\)\
+\-\ significant\\:\\ 0\\.1139744454857004\ \(0\)\
+\-\ ct\\:\\ 0\\.11272808367839797\ \(0\)\
+\-\ periodic\\:\\ 0\\.11098666554018492\ \(0\)\
+\-\ remove\\:\\ 0\\.10644709525652919\ \(0\)\
+\-\ airspace\\:\\ 0\\.10600903266821879\ \(0\)\
+\-\ prone\\:\\ 0\\.10558178755323111\ \(0\)\
+\-\ alveolar\\:\\ 0\\.10359079494945017\ \(0\)\
+\-\ other\\:\\ 0\\.10251301984020966\ \(0\)\
+\-\ hemoptysis\\:\\ 0\\.10214808065712312\ \(0\)\
+\-\ o2\\:\\ 0\\.10180544474748618\ \(0\)\
+\-\ table\\:\\ 0\\.10146946238456306\ \(0\)\
+\-\ frank\\:\\ 0\\.10113988007646271\ \(0\)\
+\-\ consider\\:\\ 0\\.09708415060867998\ \(0\)\
+\-\ processes\\:\\ 0\\.09708415060867998\ \(0\)\
+\-\ dependent\\:\\ 0\\.0951325011552312\ \(0\)\
+\-\ developing\\:\\ 0\\.09445388288267115\ \(0\)\
+\-\ once\\:\\ 0\\.09276448857482363\ \(0\)\
+\-\ next\\:\\ 0\\.09217120023453225\ \(0\)\
+\-\ place\\:\\ 0\\.08898420126934292\ \(0\)\
+\-\ aspiration\\:\\ 0\\.0862939162721694\ \(0\)\
+\-\ regions\\:\\ 0\\.08470784034120107\ \(0\)\
+\-\ so\\:\\ 0\\.0830243212619384\ \(0\)\
+\-\ suspected\\:\\ 0\\.08087216597962107\ \(0\)\
+\-\ last\\:\\ 0\\.08027546726225823\ \(0\)\
+\-\ collection\\:\\ 0\\.07969866224989357\ \(0\)\
+\-\ position\\:\\ 0\\.07868867780944333\ \(0\)\
+\-\ pneumonia\\:\\ 0\\.07790404497684089\ \(0\)\
+\-\ filling\\:\\ 0\\.07643407720691059\ \(0\)\
+\-\ second\\:\\ 0\\.0738903475577403\ \(0\)\
+\-\ in\\:\\ 0\\.0736600923270525\ \(0\)\
+\-\ hospital\\:\\ 0\\.07290511665847443\ \(0\)\
+\-\ recent\\:\\ 0\\.06682976790560374\ \(0\)\
+\-\ first\\:\\ 0\\.06660650612385936\ \(0\)\
+\-\ injury\\:\\ 0\\.06436274935944102\ \(0\)\
+\-\ further\\:\\ 0\\.0642849849677944\ \(0\)\
+\-\ such\\:\\ 0\\.06348888944507035\ \(0\)\
+\-\ lung\\:\\ 0\\.06004036872270122\ \(0\)\
+\-\ appearance\\:\\ 0\\.05950242234707348\ \(0\)\
+\-\ edema\\:\\ 0\\.0588668649929737\ \(0\)\
+\-\ lobe\\:\\ 0\\.05703818757503247\ \(0\)\
+\-\ is\\:\\ 0\\.054059347275799106\ \(0\)\
+\-\ into\\:\\ 0\\.05246723655637987\ \(0\)\
+\-\ lower\\:\\ 0\\.05043582288783662\ \(0\)\
+\-\ demonstrates\\:\\ 0\\.0495858215309988\ \(0\)\
+\-\ to\\:\\ 0\\.049349626979823105\ \(0\)\
+\-\ presents\\:\\ 0\\.047479808865009174\ \(0\)\
+\-\ seen\\:\\ 0\\.04646717471768254\ \(0\)\
+\-\ and\\:\\ 0\\.04079030541814282\ \(0\)\
+\-\ be\\:\\ 0\\.0400386561418979\ \(0\)\
+\-\ as\\:\\ 0\\.039651304737887465\ \(0\)\
+\-\ the\\:\\ 0\\.03938846448269736\ \(0\)\
+\-\ with\\:\\ 0\\.03865339940433908\ \(0\)\
+\-\ or\\:\\ 0\\.03433598276081449\ \(0\)\
+\-\ this\\:\\ 0\\.033915107566403806\ \(0\)\
+\-\ left\\:\\ 0\\.03366873269879978\ \(0\)\
+\-\ for\\:\\ 0\\.029915221439945298\ \(0\)\
+\-\ of\\:\\ 0\\.019315158899329738\ \(0\)\

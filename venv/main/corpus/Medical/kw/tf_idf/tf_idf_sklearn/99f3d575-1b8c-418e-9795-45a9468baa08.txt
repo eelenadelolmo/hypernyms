@@ -1,109 +1,106 @@
-Texto: 
-physical exam:
-afebrile. bp 130/80. hr 84. rr 20. 
-abd: mildly tender left upper quadrant to palpation.
-
-labs: 
-ua: gross blood. no leukocytes, nitrites. 
-h/h: 13/39.
-if symptomatic, angiographic embolization with ethanol. nephrectomy is reserved for cases refractory to embolization.
-1) axial ct image, left kidney upper pole: mass of enhancing, dilated, corkscrew, varicose-like vascular structures in the corticomedullary parenchyma of the left kidney approximating the renal sinus fat and central kidney collecting system.
-2) axial ct image, left kidney upper pole: feeding artery is consistent with renal avm, congenital type.
-3) axial ct image, left kidney upper pole: varicose draining vein is consistent with renal avm, congenital type.
-renal arteriovenous malformation, congenital - cirsoid type
-1) congenital renal avm, cirsoid type
-2) congenital renal avm, cavernous type
-3) acquired renal av fistula, posttraumatic v iatrogenic
-44 year old female with no pmhx presents with left flank pain and gross hematuria.
-very classic masslike, varicose appearance of cirsoid type congenital renal avm.
-
-
-Keywords by value: 
-- renal: 0.3347053036495493
-- cirsoid: 0.30800504673421014
-- varicose: 0.29784019921589483
-- avm: 0.297095762482122
-- congenital: 0.2896394715758201
-- type: 0.2704226692952856
-- kidney: 0.23600053491742837
-- pole: 0.17566034981408396
-- upper: 0.1436110603145806
-- left: 0.1375101550561051
-- image: 0.12890233845143304
-- gross: 0.11924097707463312
-- embolization: 0.11710689987605598
-- axial: 0.11642587525310194
-- masslike: 0.10266834891140338
-- approximating: 0.09665191031331649
-- nitrites: 0.0911162679244563
-- ethanol: 0.0911162679244563
-- leukocytes: 0.08972903445582447
-- corkscrew: 0.08972903445582447
-- posttraumatic: 0.08539801921757466
-- corticomedullary: 0.08371259585773759
-- angiographic: 0.07867821514212942
-- reserved: 0.0781769534688774
-- ct: 0.07673418343595036
-- av: 0.07478867096277232
-- refractory: 0.07373323046543834
-- consistent: 0.07285878588453484
-- iatrogenic: 0.07216051487079052
-- pmhx: 0.07103796381249038
-- nephrectomy: 0.0686259215194036
-- with: 0.06577857405918074
-- draining: 0.06507518303651914
-- acquired: 0.0647568428040718
-- arteriovenous: 0.06444688092629622
-- ua: 0.06414486767145307
-- collecting: 0.06300877104342165
-- feeding: 0.06300877104342165
-- abd: 0.06247933936969651
-- rr: 0.061727304932245465
-- fistula: 0.060682276580793476
-- 44: 0.0594191524964244
-- hematuria: 0.0594191524964244
-- flank: 0.05893037399507031
-- cavernous: 0.0582784676830669
-- afebrile: 0.058009759338126486
-- hr: 0.0577470449905587
-- is: 0.05519742376872982
-- parenchyma: 0.05457728214007912
-- bp: 0.05451129949365102
-- mildly: 0.05425100444473462
-- malformation: 0.051817528348492924
-- symptomatic: 0.05166152776874177
-- system: 0.051255354015582406
-- structures: 0.05048275764626236
-- classic: 0.05025135783408196
-- tender: 0.04911631477717416
-- sinus: 0.04854761740743767
-- very: 0.04819601304108489
-- vein: 0.04815758601977677
-- dilated: 0.048119283964612236
-- quadrant: 0.047059474010139234
-- labs: 0.04654656836996442
-- palpation: 0.04530899220823181
-- cases: 0.04518911461778728
-- central: 0.0448656071702804
-- vascular: 0.0443546796191095
-- no: 0.04369576734013134
-- enhancing: 0.04208755935323997
-- fat: 0.04179338012055531
-- artery: 0.0417265235271277
-- appearance: 0.0405033922539631
-- the: 0.04021768436379759
-- of: 0.03944357690770497
-- if: 0.03903630850264369
-- blood: 0.03901863727414769
-- physical: 0.03642939294226742
-- exam: 0.03382109596641592
-- to: 0.03359236851722633
-- female: 0.0324199891131512
-- presents: 0.032319580392633294
-- and: 0.02776602490018211
-- mass: 0.0256629776745353
-- pain: 0.024041360295327018
-- year: 0.02070517588433161
-- for: 0.020363338172666258
-- old: 0.019884136123457914
-- in: 0.016713513474478362
+\-\ Texto\\:\\ \ \(0\)\
+\-\ physical\\ exam\\:\ \(1\)\
+\-\ afebrile\\.\\ bp\\ 130\\/80\\.\\ hr\\ 84\\.\\ rr\\ 20\\.\\ \ \(0\)\
+\-\ abd\\:\\ mildly\\ tender\\ left\\ upper\\ quadrant\\ to\\ palpation\\.\ \(0\)\
+\-\ labs\\:\\ \ \(3\)\
+\-\ ua\\:\\ gross\\ blood\\.\\ no\\ leukocytes\\,\\ nitrites\\.\\ \ \(0\)\
+\-\ h\\/h\\:\\ 13\\/39\\.\ \(0\)\
+\-\ if\\ symptomatic\\,\\ angiographic\\ embolization\\ with\\ ethanol\\.\\ nephrectomy\\ is\\ reserved\\ for\\ cases\\ refractory\\ to\\ embolization\\.\ \(0\)\
+\-\ 1\\)\\ axial\\ ct\\ image\\,\\ left\\ kidney\\ upper\\ pole\\:\\ mass\\ of\\ enhancing\\,\\ dilated\\,\\ corkscrew\\,\\ varicose\\-like\\ vascular\\ structures\\ in\\ the\\ corticomedullary\\ parenchyma\\ of\\ the\\ left\\ kidney\\ approximating\\ the\\ renal\\ sinus\\ fat\\ and\\ central\\ kidney\\ collecting\\ system\\.\ \(0\)\
+\-\ 2\\)\\ axial\\ ct\\ image\\,\\ left\\ kidney\\ upper\\ pole\\:\\ feeding\\ artery\\ is\\ consistent\\ with\\ renal\\ avm\\,\\ congenital\\ type\\.\ \(0\)\
+\-\ 3\\)\\ axial\\ ct\\ image\\,\\ left\\ kidney\\ upper\\ pole\\:\\ varicose\\ draining\\ vein\\ is\\ consistent\\ with\\ renal\\ avm\\,\\ congenital\\ type\\.\ \(0\)\
+\-\ renal\\ arteriovenous\\ malformation\\,\\ congenital\\ \\-\\ cirsoid\\ type\ \(0\)\
+\-\ 1\\)\\ congenital\\ renal\\ avm\\,\\ cirsoid\\ type\ \(0\)\
+\-\ 2\\)\\ congenital\\ renal\\ avm\\,\\ cavernous\\ type\ \(0\)\
+\-\ 3\\)\\ acquired\\ renal\\ av\\ fistula\\,\\ posttraumatic\\ v\\ iatrogenic\ \(0\)\
+\-\ 44\\ year\\ old\\ female\\ with\\ no\\ pmhx\\ presents\\ with\\ left\\ flank\\ pain\\ and\\ gross\\ hematuria\\.\ \(0\)\
+\-\ very\\ classic\\ masslike\\,\\ varicose\\ appearance\\ of\\ cirsoid\\ type\\ congenital\\ renal\\ avm\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ renal\\:\\ 0\\.3347053036495493\ \(0\)\
+\-\ cirsoid\\:\\ 0\\.30800504673421014\ \(0\)\
+\-\ varicose\\:\\ 0\\.29784019921589483\ \(0\)\
+\-\ avm\\:\\ 0\\.297095762482122\ \(0\)\
+\-\ congenital\\:\\ 0\\.2896394715758201\ \(0\)\
+\-\ type\\:\\ 0\\.2704226692952856\ \(0\)\
+\-\ kidney\\:\\ 0\\.23600053491742837\ \(0\)\
+\-\ pole\\:\\ 0\\.17566034981408396\ \(0\)\
+\-\ upper\\:\\ 0\\.1436110603145806\ \(0\)\
+\-\ left\\:\\ 0\\.1375101550561051\ \(0\)\
+\-\ image\\:\\ 0\\.12890233845143304\ \(0\)\
+\-\ gross\\:\\ 0\\.11924097707463312\ \(0\)\
+\-\ embolization\\:\\ 0\\.11710689987605598\ \(0\)\
+\-\ axial\\:\\ 0\\.11642587525310194\ \(0\)\
+\-\ masslike\\:\\ 0\\.10266834891140338\ \(0\)\
+\-\ approximating\\:\\ 0\\.09665191031331649\ \(0\)\
+\-\ nitrites\\:\\ 0\\.0911162679244563\ \(0\)\
+\-\ ethanol\\:\\ 0\\.0911162679244563\ \(0\)\
+\-\ leukocytes\\:\\ 0\\.08972903445582447\ \(0\)\
+\-\ corkscrew\\:\\ 0\\.08972903445582447\ \(0\)\
+\-\ posttraumatic\\:\\ 0\\.08539801921757466\ \(0\)\
+\-\ corticomedullary\\:\\ 0\\.08371259585773759\ \(0\)\
+\-\ angiographic\\:\\ 0\\.07867821514212942\ \(0\)\
+\-\ reserved\\:\\ 0\\.0781769534688774\ \(0\)\
+\-\ ct\\:\\ 0\\.07673418343595036\ \(0\)\
+\-\ av\\:\\ 0\\.07478867096277232\ \(0\)\
+\-\ refractory\\:\\ 0\\.07373323046543834\ \(0\)\
+\-\ consistent\\:\\ 0\\.07285878588453484\ \(0\)\
+\-\ iatrogenic\\:\\ 0\\.07216051487079052\ \(0\)\
+\-\ pmhx\\:\\ 0\\.07103796381249038\ \(0\)\
+\-\ nephrectomy\\:\\ 0\\.0686259215194036\ \(0\)\
+\-\ with\\:\\ 0\\.06577857405918074\ \(0\)\
+\-\ draining\\:\\ 0\\.06507518303651914\ \(0\)\
+\-\ acquired\\:\\ 0\\.0647568428040718\ \(0\)\
+\-\ arteriovenous\\:\\ 0\\.06444688092629622\ \(0\)\
+\-\ ua\\:\\ 0\\.06414486767145307\ \(0\)\
+\-\ collecting\\:\\ 0\\.06300877104342165\ \(0\)\
+\-\ feeding\\:\\ 0\\.06300877104342165\ \(0\)\
+\-\ abd\\:\\ 0\\.06247933936969651\ \(0\)\
+\-\ rr\\:\\ 0\\.061727304932245465\ \(0\)\
+\-\ fistula\\:\\ 0\\.060682276580793476\ \(0\)\
+\-\ 44\\:\\ 0\\.0594191524964244\ \(0\)\
+\-\ hematuria\\:\\ 0\\.0594191524964244\ \(0\)\
+\-\ flank\\:\\ 0\\.05893037399507031\ \(0\)\
+\-\ cavernous\\:\\ 0\\.0582784676830669\ \(0\)\
+\-\ afebrile\\:\\ 0\\.058009759338126486\ \(0\)\
+\-\ hr\\:\\ 0\\.0577470449905587\ \(0\)\
+\-\ is\\:\\ 0\\.05519742376872982\ \(0\)\
+\-\ parenchyma\\:\\ 0\\.05457728214007912\ \(0\)\
+\-\ bp\\:\\ 0\\.05451129949365102\ \(0\)\
+\-\ mildly\\:\\ 0\\.05425100444473462\ \(0\)\
+\-\ malformation\\:\\ 0\\.051817528348492924\ \(0\)\
+\-\ symptomatic\\:\\ 0\\.05166152776874177\ \(0\)\
+\-\ system\\:\\ 0\\.051255354015582406\ \(0\)\
+\-\ structures\\:\\ 0\\.05048275764626236\ \(0\)\
+\-\ classic\\:\\ 0\\.05025135783408196\ \(0\)\
+\-\ tender\\:\\ 0\\.04911631477717416\ \(0\)\
+\-\ sinus\\:\\ 0\\.04854761740743767\ \(0\)\
+\-\ very\\:\\ 0\\.04819601304108489\ \(0\)\
+\-\ vein\\:\\ 0\\.04815758601977677\ \(0\)\
+\-\ dilated\\:\\ 0\\.048119283964612236\ \(0\)\
+\-\ quadrant\\:\\ 0\\.047059474010139234\ \(0\)\
+\-\ labs\\:\\ 0\\.04654656836996442\ \(0\)\
+\-\ palpation\\:\\ 0\\.04530899220823181\ \(0\)\
+\-\ cases\\:\\ 0\\.04518911461778728\ \(0\)\
+\-\ central\\:\\ 0\\.0448656071702804\ \(0\)\
+\-\ vascular\\:\\ 0\\.0443546796191095\ \(0\)\
+\-\ no\\:\\ 0\\.04369576734013134\ \(0\)\
+\-\ enhancing\\:\\ 0\\.04208755935323997\ \(0\)\
+\-\ fat\\:\\ 0\\.04179338012055531\ \(0\)\
+\-\ artery\\:\\ 0\\.0417265235271277\ \(0\)\
+\-\ appearance\\:\\ 0\\.0405033922539631\ \(0\)\
+\-\ the\\:\\ 0\\.04021768436379759\ \(0\)\
+\-\ of\\:\\ 0\\.03944357690770497\ \(0\)\
+\-\ if\\:\\ 0\\.03903630850264369\ \(0\)\
+\-\ blood\\:\\ 0\\.03901863727414769\ \(0\)\
+\-\ physical\\:\\ 0\\.03642939294226742\ \(0\)\
+\-\ exam\\:\\ 0\\.03382109596641592\ \(0\)\
+\-\ to\\:\\ 0\\.03359236851722633\ \(0\)\
+\-\ female\\:\\ 0\\.0324199891131512\ \(0\)\
+\-\ presents\\:\\ 0\\.032319580392633294\ \(0\)\
+\-\ and\\:\\ 0\\.02776602490018211\ \(0\)\
+\-\ mass\\:\\ 0\\.0256629776745353\ \(0\)\
+\-\ pain\\:\\ 0\\.024041360295327018\ \(0\)\
+\-\ year\\:\\ 0\\.02070517588433161\ \(0\)\
+\-\ for\\:\\ 0\\.020363338172666258\ \(0\)\
+\-\ old\\:\\ 0\\.019884136123457914\ \(0\)\
+\-\ in\\:\\ 0\\.016713513474478362\ \(0\)\

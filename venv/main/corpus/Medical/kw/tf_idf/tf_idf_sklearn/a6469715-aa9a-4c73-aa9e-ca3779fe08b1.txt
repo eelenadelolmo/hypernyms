@@ -1,63 +1,61 @@
-Texto: 
-urinalysis demonstrated 4+ blood.
-large heterogeneous enhancing mass arising from the right kidney.
-renal cell carcinoma
-this large enhancing heterogeneous mass is virtually pathognomonic for renal cell carcinoma.  renal lymphoma is frequently infiltrative and if solid, usually hypoenhancing when compared to the normal renal parenchyma.  renal metastases are usually small and multifocal.  oncocytomas are relatively uncommon, large, homogeneous masses frequently with a central fibrous scar in asymptomatic patients.
-66 yo female with painless hematuria.
-
-
-Keywords by value: 
-- renal: 0.44390503296128353
-- frequently: 0.23481565730334134
-- large: 0.21430065606468107
-- heterogeneous: 0.20637481544963718
-- hypoenhancing: 0.2050963350294628
-- oncocytomas: 0.2050963350294628
-- usually: 0.17950344268916085
-- enhancing: 0.17862045655801603
-- carcinoma: 0.17055524530008828
-- cell: 0.16311071648607775
-- virtually: 0.1594958068368223
-- urinalysis: 0.15440730638417977
-- infiltrative: 0.14609207030188723
-- pathognomonic: 0.1402337489939639
-- multifocal: 0.13843493236945528
-- scar: 0.1345822809491828
-- 66: 0.13370525190680932
-- painless: 0.1320384501841691
-- uncommon: 0.12900530703730184
-- hematuria: 0.12608804490328163
-- homogeneous: 0.1258771342585124
-- relatively: 0.11609595395313997
-- parenchyma: 0.11581354684571561
-- compared: 0.11525812925305584
-- metastases: 0.11525812925305584
-- arising: 0.1132787763538063
-- fibrous: 0.11074722603933106
-- solid: 0.1092995790273074
-- mass: 0.1089141983832044
-- are: 0.10819600318077138
-- kidney: 0.10015910626008287
-- masses: 0.09705743694410025
-- asymptomatic: 0.09705743694410025
-- central: 0.09520527395337264
-- yo: 0.08906828289405008
-- demonstrated: 0.08761834286279598
-- when: 0.0861192093375042
-- lymphoma: 0.08490796123932695
-- if: 0.08283544299350076
-- blood: 0.08279794446720937
-- patients: 0.08020219258717991
-- is: 0.07808632911883509
-- small: 0.07354128012351177
-- female: 0.06879554607092209
-- and: 0.058919786757484834
-- normal: 0.05820948263222833
-- the: 0.056894889710560004
-- from: 0.05662189160206075
-- with: 0.055833120811656874
-- this: 0.048988868437863584
-- right: 0.047267129311091206
-- for: 0.04321121035932578
-- to: 0.035641673534997816
-- in: 0.035466245291675
+\-\ Texto\\:\\ \ \(0\)\
+\-\ urinalysis\\ demonstrated\\ 4\\+\\ blood\\.\ \(0\)\
+\-\ large\\ heterogeneous\\ enhancing\\ mass\\ arising\\ from\\ the\\ right\\ kidney\\.\ \(0\)\
+\-\ renal\\ cell\\ carcinoma\ \(60\)\
+\-\ this\\ large\\ enhancing\\ heterogeneous\\ mass\\ is\\ virtually\\ pathognomonic\\ for\\ renal\\ cell\\ carcinoma\\.\\ \\ renal\\ lymphoma\\ is\\ frequently\\ infiltrative\\ and\\ if\\ solid\\,\\ usually\\ hypoenhancing\\ when\\ compared\\ to\\ the\\ normal\\ renal\\ parenchyma\\.\\ \\ renal\\ metastases\\ are\\ usually\\ small\\ and\\ multifocal\\.\\ \\ oncocytomas\\ are\\ relatively\\ uncommon\\,\\ large\\,\\ homogeneous\\ masses\\ frequently\\ with\\ a\\ central\\ fibrous\\ scar\\ in\\ asymptomatic\\ patients\\.\ \(0\)\
+\-\ 66\\ yo\\ female\\ with\\ painless\\ hematuria\\.\ \(1\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ renal\\:\\ 0\\.44390503296128353\ \(0\)\
+\-\ frequently\\:\\ 0\\.23481565730334134\ \(0\)\
+\-\ large\\:\\ 0\\.21430065606468107\ \(0\)\
+\-\ heterogeneous\\:\\ 0\\.20637481544963718\ \(0\)\
+\-\ hypoenhancing\\:\\ 0\\.2050963350294628\ \(0\)\
+\-\ oncocytomas\\:\\ 0\\.2050963350294628\ \(0\)\
+\-\ usually\\:\\ 0\\.17950344268916085\ \(0\)\
+\-\ enhancing\\:\\ 0\\.17862045655801603\ \(0\)\
+\-\ carcinoma\\:\\ 0\\.17055524530008828\ \(0\)\
+\-\ cell\\:\\ 0\\.16311071648607775\ \(0\)\
+\-\ virtually\\:\\ 0\\.1594958068368223\ \(0\)\
+\-\ urinalysis\\:\\ 0\\.15440730638417977\ \(0\)\
+\-\ infiltrative\\:\\ 0\\.14609207030188723\ \(0\)\
+\-\ pathognomonic\\:\\ 0\\.1402337489939639\ \(0\)\
+\-\ multifocal\\:\\ 0\\.13843493236945528\ \(0\)\
+\-\ scar\\:\\ 0\\.1345822809491828\ \(0\)\
+\-\ 66\\:\\ 0\\.13370525190680932\ \(0\)\
+\-\ painless\\:\\ 0\\.1320384501841691\ \(0\)\
+\-\ uncommon\\:\\ 0\\.12900530703730184\ \(0\)\
+\-\ hematuria\\:\\ 0\\.12608804490328163\ \(0\)\
+\-\ homogeneous\\:\\ 0\\.1258771342585124\ \(0\)\
+\-\ relatively\\:\\ 0\\.11609595395313997\ \(0\)\
+\-\ parenchyma\\:\\ 0\\.11581354684571561\ \(0\)\
+\-\ compared\\:\\ 0\\.11525812925305584\ \(0\)\
+\-\ metastases\\:\\ 0\\.11525812925305584\ \(0\)\
+\-\ arising\\:\\ 0\\.1132787763538063\ \(0\)\
+\-\ fibrous\\:\\ 0\\.11074722603933106\ \(0\)\
+\-\ solid\\:\\ 0\\.1092995790273074\ \(0\)\
+\-\ mass\\:\\ 0\\.1089141983832044\ \(0\)\
+\-\ are\\:\\ 0\\.10819600318077138\ \(0\)\
+\-\ kidney\\:\\ 0\\.10015910626008287\ \(0\)\
+\-\ masses\\:\\ 0\\.09705743694410025\ \(0\)\
+\-\ asymptomatic\\:\\ 0\\.09705743694410025\ \(0\)\
+\-\ central\\:\\ 0\\.09520527395337264\ \(0\)\
+\-\ yo\\:\\ 0\\.08906828289405008\ \(0\)\
+\-\ demonstrated\\:\\ 0\\.08761834286279598\ \(0\)\
+\-\ when\\:\\ 0\\.0861192093375042\ \(0\)\
+\-\ lymphoma\\:\\ 0\\.08490796123932695\ \(0\)\
+\-\ if\\:\\ 0\\.08283544299350076\ \(0\)\
+\-\ blood\\:\\ 0\\.08279794446720937\ \(0\)\
+\-\ patients\\:\\ 0\\.08020219258717991\ \(0\)\
+\-\ is\\:\\ 0\\.07808632911883509\ \(0\)\
+\-\ small\\:\\ 0\\.07354128012351177\ \(0\)\
+\-\ female\\:\\ 0\\.06879554607092209\ \(0\)\
+\-\ and\\:\\ 0\\.058919786757484834\ \(0\)\
+\-\ normal\\:\\ 0\\.05820948263222833\ \(0\)\
+\-\ the\\:\\ 0\\.056894889710560004\ \(0\)\
+\-\ from\\:\\ 0\\.05662189160206075\ \(0\)\
+\-\ with\\:\\ 0\\.055833120811656874\ \(0\)\
+\-\ this\\:\\ 0\\.048988868437863584\ \(0\)\
+\-\ right\\:\\ 0\\.047267129311091206\ \(0\)\
+\-\ for\\:\\ 0\\.04321121035932578\ \(0\)\
+\-\ to\\:\\ 0\\.035641673534997816\ \(0\)\
+\-\ in\\:\\ 0\\.035466245291675\ \(0\)\

@@ -1,57 +1,55 @@
-Texto: 
-left cnn iii (oculomotor) palsy
-surgical drainage of cyst which was located centrally within the cn iii.
-cystic lesion in the cisternal course of the cn iii (oculomotor nerve).
-questionable peripheral enhancement.
-arachnoid cyst oculomotor iii
-arachnoid cyst
-epidermoid cyst
-schwannoma with cyst
-3 year old girl presents with complaints of "seeing double"
-final pathological report amended to arachnoid cyst and not cystic schwannoma
-
-
-Keywords by value: 
-- oculomotor: 0.49160485096255885
-- cyst: 0.38382292419691966
-- iii: 0.3829957026468664
-- arachnoid: 0.3038785431096237
-- cn: 0.21645332579919174
-- schwannoma: 0.1900629909159752
-- amended: 0.1694608669280963
-- cnn: 0.15598598024044158
-- cisternal: 0.1460554523663518
-- seeing: 0.14251109355278685
-- cystic: 0.1335750077045628
-- pathological: 0.11556132017747743
-- questionable: 0.11291488998917901
-- palsy: 0.11090204343159282
-- centrally: 0.10937053117561406
-- final: 0.10879018502833877
-- double: 0.09774848888964294
-- epidermoid: 0.09634256422127102
-- report: 0.09341054428946319
-- complaints: 0.09132347835325814
-- drainage: 0.08881511046532865
-- located: 0.08772100244947068
-- course: 0.0819120145045151
-- peripheral: 0.0792982184554916
-- nerve: 0.07911099242855668
-- girl: 0.07779047457538092
-- the: 0.06638193494287999
-- of: 0.06510421963922629
-- enhancement: 0.06382848416205636
-- surgical: 0.0538979562879666
-- presents: 0.05334559452995762
-- lesion: 0.05316490740392554
-- within: 0.05107421934968075
-- which: 0.050424469416552535
-- not: 0.04377819547118339
-- with: 0.04342874626329816
-- was: 0.038647552874973526
-- left: 0.03782826017674517
-- year: 0.03417525549461558
-- old: 0.03282007533310195
-- to: 0.02772320754865566
-- in: 0.02758675397851791
-- and: 0.022914825750204287
+\-\ Texto\\:\\ \ \(0\)\
+\-\ left\\ cnn\\ iii\\ \\(oculomotor\\)\\ palsy\ \(0\)\
+\-\ surgical\\ drainage\\ of\\ cyst\\ which\\ was\\ located\\ centrally\\ within\\ the\\ cn\\ iii\\.\ \(0\)\
+\-\ cystic\\ lesion\\ in\\ the\\ cisternal\\ course\\ of\\ the\\ cn\\ iii\\ \\(oculomotor\\ nerve\\)\\.\ \(0\)\
+\-\ questionable\\ peripheral\\ enhancement\\.\ \(0\)\
+\-\ arachnoid\\ cyst\\ oculomotor\\ iii\ \(0\)\
+\-\ arachnoid\\ cyst\ \(53\)\
+\-\ epidermoid\\ cyst\ \(38\)\
+\-\ schwannoma\\ with\\ cyst\ \(0\)\
+\-\ 3\\ year\\ old\\ girl\\ presents\\ with\\ complaints\\ of\\ \\"seeing\\ double\\"\ \(1\)\
+\-\ final\\ pathological\\ report\\ amended\\ to\\ arachnoid\\ cyst\\ and\\ not\\ cystic\\ schwannoma\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ oculomotor\\:\\ 0\\.49160485096255885\ \(0\)\
+\-\ cyst\\:\\ 0\\.38382292419691966\ \(0\)\
+\-\ iii\\:\\ 0\\.3829957026468664\ \(0\)\
+\-\ arachnoid\\:\\ 0\\.3038785431096237\ \(0\)\
+\-\ cn\\:\\ 0\\.21645332579919174\ \(0\)\
+\-\ schwannoma\\:\\ 0\\.1900629909159752\ \(0\)\
+\-\ amended\\:\\ 0\\.1694608669280963\ \(0\)\
+\-\ cnn\\:\\ 0\\.15598598024044158\ \(0\)\
+\-\ cisternal\\:\\ 0\\.1460554523663518\ \(0\)\
+\-\ seeing\\:\\ 0\\.14251109355278685\ \(0\)\
+\-\ cystic\\:\\ 0\\.1335750077045628\ \(0\)\
+\-\ pathological\\:\\ 0\\.11556132017747743\ \(0\)\
+\-\ questionable\\:\\ 0\\.11291488998917901\ \(0\)\
+\-\ palsy\\:\\ 0\\.11090204343159282\ \(0\)\
+\-\ centrally\\:\\ 0\\.10937053117561406\ \(0\)\
+\-\ final\\:\\ 0\\.10879018502833877\ \(0\)\
+\-\ double\\:\\ 0\\.09774848888964294\ \(0\)\
+\-\ epidermoid\\:\\ 0\\.09634256422127102\ \(0\)\
+\-\ report\\:\\ 0\\.09341054428946319\ \(0\)\
+\-\ complaints\\:\\ 0\\.09132347835325814\ \(0\)\
+\-\ drainage\\:\\ 0\\.08881511046532865\ \(0\)\
+\-\ located\\:\\ 0\\.08772100244947068\ \(0\)\
+\-\ course\\:\\ 0\\.0819120145045151\ \(0\)\
+\-\ peripheral\\:\\ 0\\.0792982184554916\ \(0\)\
+\-\ nerve\\:\\ 0\\.07911099242855668\ \(0\)\
+\-\ girl\\:\\ 0\\.07779047457538092\ \(0\)\
+\-\ the\\:\\ 0\\.06638193494287999\ \(0\)\
+\-\ of\\:\\ 0\\.06510421963922629\ \(0\)\
+\-\ enhancement\\:\\ 0\\.06382848416205636\ \(0\)\
+\-\ surgical\\:\\ 0\\.0538979562879666\ \(0\)\
+\-\ presents\\:\\ 0\\.05334559452995762\ \(0\)\
+\-\ lesion\\:\\ 0\\.05316490740392554\ \(0\)\
+\-\ within\\:\\ 0\\.05107421934968075\ \(0\)\
+\-\ which\\:\\ 0\\.050424469416552535\ \(0\)\
+\-\ not\\:\\ 0\\.04377819547118339\ \(0\)\
+\-\ with\\:\\ 0\\.04342874626329816\ \(0\)\
+\-\ was\\:\\ 0\\.038647552874973526\ \(0\)\
+\-\ left\\:\\ 0\\.03782826017674517\ \(0\)\
+\-\ year\\:\\ 0\\.03417525549461558\ \(0\)\
+\-\ old\\:\\ 0\\.03282007533310195\ \(0\)\
+\-\ to\\:\\ 0\\.02772320754865566\ \(0\)\
+\-\ in\\:\\ 0\\.02758675397851791\ \(0\)\
+\-\ and\\:\\ 0\\.022914825750204287\ \(0\)\

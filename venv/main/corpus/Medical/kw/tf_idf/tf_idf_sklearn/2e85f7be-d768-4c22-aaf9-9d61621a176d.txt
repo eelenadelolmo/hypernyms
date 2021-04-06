@@ -1,109 +1,106 @@
-Texto: 
-nystagmus
-ataxia
-visual field defects consistent with cortical lesion blindness.
-anticoagulant therapy
-physical therapy.
-ct - initial ct shows right occipital lobe low-attenuation
-mr - bilateral occipital lobe lesions (much more prominent on right) and right lateral cerebellar lesion
-cta - defect in v3 portion of right vertebral artery  consistent with dissection.
-
-follow up cta 3 months later reveals smaller v3 segment vertebral artery lesion, but complete occlusion of the intradural right vertebral artery.
-vertebral artery dissection with cerebellar infarction
-vertebral artery dissection
-cerebellar ischemic infarction
-bilateral occipital lobe ischemia
-13 y.o. boy sudden onset of nausea, headache, and gait problems.  he plays football but there is no definite history of head or neck injury reported.
-vertebral artery dissection does not require major trauma, and may occur in the setting of seemingly mild neck motions - especially combinations of rotation and extention.
-
-
-Keywords by value: 
-- vertebral: 0.3901693439402971
-- artery: 0.317323732166285
-- dissection: 0.30936721524373556
-- v3: 0.23496177566657717
-- occipital: 0.21860150125331834
-- cerebellar: 0.20906149501325977
-- cta: 0.1604183370136593
-- lobe: 0.14763278888418102
-- right: 0.14116299830085455
-- infarction: 0.1337003321677882
-- extention: 0.12583491481529005
-- seemingly: 0.12250379498499382
-- combinations: 0.12250379498499382
-- lesion: 0.12247644471190836
-- plays: 0.11215639168842308
-- motions: 0.10943466861038695
-- anticoagulant: 0.10823977927017708
-- blindness: 0.10514010822214856
-- neck: 0.10418405891861392
-- of: 0.09998742587316632
-- therapy: 0.0978548125066248
-- nystagmus: 0.09479270492557781
-- intradural: 0.09479270492557781
-- consistent: 0.09234662553405203
-- bilateral: 0.09153150691784885
-- football: 0.08937519821551446
-- but: 0.08421913924971197
-- definite: 0.08376145012179663
-- ataxia: 0.08268701910891312
-- field: 0.08003456830099066
-- setting: 0.07919094569503413
-- occlusion: 0.07823776150810487
-- smaller: 0.07663417620058074
-- rotation: 0.07582705275075798
-- ischemic: 0.0753122380303451
-- major: 0.07445194213811837
-- problems: 0.07386644955016863
-- much: 0.07375205705614643
-- ischemia: 0.07375205705614643
-- gait: 0.07375205705614643
-- sudden: 0.0736385344754383
-- defects: 0.0734140468252259
-- require: 0.07319288504055513
-- visual: 0.07265390420858416
-- and: 0.07038543596073132
-- segment: 0.07030741464514209
-- especially: 0.06736120391689351
-- prominent: 0.06706704371085946
-- nausea: 0.06541431828898736
-- ct: 0.06483906109050407
-- reveals: 0.06477626615376517
-- 13: 0.06422444428476354
-- occur: 0.06262754871404061
-- defect: 0.06246616176466956
-- reported: 0.06133313802241845
-- cortical: 0.06113606390720041
-- later: 0.06094155760603078
-- portion: 0.0608933244544673
-- complete: 0.0596910284421025
-- does: 0.05886988136755463
-- headache: 0.058702617461685765
-- boy: 0.05825207675958252
-- initial: 0.05712562247218576
-- injury: 0.05553035368154639
-- mr: 0.05509954483583857
-- onset: 0.054680820693478786
-- head: 0.050788660610629664
-- he: 0.05042601571468066
-- with: 0.05002358416814993
-- shows: 0.049978961343800754
-- months: 0.04956743964410057
-- trauma: 0.04945511294842414
-- lesions: 0.04890581818386389
-- mild: 0.04827227979946135
-- more: 0.046759523935323066
-- physical: 0.04617331276702601
-- follow: 0.045906254707110294
-- may: 0.04285297527553154
-- in: 0.04236789157129227
-- lateral: 0.042260846480572274
-- up: 0.04212325889442787
-- the: 0.03398324940226277
-- there: 0.033883142812525774
-- not: 0.033617399139352896
-- history: 0.03253436301473579
-- or: 0.029624111550353258
-- no: 0.027691627131812255
-- on: 0.02571844820472478
-- is: 0.023320435375235635
+\-\ Texto\\:\\ \ \(0\)\
+\-\ nystagmus\ \(32\)\
+\-\ ataxia\ \(76\)\
+\-\ visual\\ field\\ defects\\ consistent\\ with\\ cortical\\ lesion\\ blindness\\.\ \(0\)\
+\-\ anticoagulant\\ therapy\ \(9\)\
+\-\ physical\\ therapy\\.\ \(22\)\
+\-\ ct\\ \\-\\ initial\\ ct\\ shows\\ right\\ occipital\\ lobe\\ low\\-attenuation\ \(0\)\
+\-\ mr\\ \\-\\ bilateral\\ occipital\\ lobe\\ lesions\\ \\(much\\ more\\ prominent\\ on\\ right\\)\\ and\\ right\\ lateral\\ cerebellar\\ lesion\ \(0\)\
+\-\ cta\\ \\-\\ defect\\ in\\ v3\\ portion\\ of\\ right\\ vertebral\\ artery\\ \\ consistent\\ with\\ dissection\\.\ \(0\)\
+\-\ follow\\ up\\ cta\\ 3\\ months\\ later\\ reveals\\ smaller\\ v3\\ segment\\ vertebral\\ artery\\ lesion\\,\\ but\\ complete\\ occlusion\\ of\\ the\\ intradural\\ right\\ vertebral\\ artery\\.\ \(0\)\
+\-\ vertebral\\ artery\\ dissection\\ with\\ cerebellar\\ infarction\ \(0\)\
+\-\ vertebral\\ artery\\ dissection\ \(5\)\
+\-\ cerebellar\\ ischemic\\ infarction\ \(0\)\
+\-\ bilateral\\ occipital\\ lobe\\ ischemia\ \(0\)\
+\-\ 13\\ y\\.o\\.\\ boy\\ sudden\\ onset\\ of\\ nausea\\,\\ headache\\,\\ and\\ gait\\ problems\\.\\ \\ he\\ plays\\ football\\ but\\ there\\ is\\ no\\ definite\\ history\\ of\\ head\\ or\\ neck\\ injury\\ reported\\.\ \(0\)\
+\-\ vertebral\\ artery\\ dissection\\ does\\ not\\ require\\ major\\ trauma\\,\\ and\\ may\\ occur\\ in\\ the\\ setting\\ of\\ seemingly\\ mild\\ neck\\ motions\\ \\-\\ especially\\ combinations\\ of\\ rotation\\ and\\ extention\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ vertebral\\:\\ 0\\.3901693439402971\ \(0\)\
+\-\ artery\\:\\ 0\\.317323732166285\ \(0\)\
+\-\ dissection\\:\\ 0\\.30936721524373556\ \(0\)\
+\-\ v3\\:\\ 0\\.23496177566657717\ \(0\)\
+\-\ occipital\\:\\ 0\\.21860150125331834\ \(0\)\
+\-\ cerebellar\\:\\ 0\\.20906149501325977\ \(0\)\
+\-\ cta\\:\\ 0\\.1604183370136593\ \(0\)\
+\-\ lobe\\:\\ 0\\.14763278888418102\ \(0\)\
+\-\ right\\:\\ 0\\.14116299830085455\ \(0\)\
+\-\ infarction\\:\\ 0\\.1337003321677882\ \(0\)\
+\-\ extention\\:\\ 0\\.12583491481529005\ \(0\)\
+\-\ seemingly\\:\\ 0\\.12250379498499382\ \(0\)\
+\-\ combinations\\:\\ 0\\.12250379498499382\ \(0\)\
+\-\ lesion\\:\\ 0\\.12247644471190836\ \(0\)\
+\-\ plays\\:\\ 0\\.11215639168842308\ \(0\)\
+\-\ motions\\:\\ 0\\.10943466861038695\ \(0\)\
+\-\ anticoagulant\\:\\ 0\\.10823977927017708\ \(0\)\
+\-\ blindness\\:\\ 0\\.10514010822214856\ \(0\)\
+\-\ neck\\:\\ 0\\.10418405891861392\ \(0\)\
+\-\ of\\:\\ 0\\.09998742587316632\ \(0\)\
+\-\ therapy\\:\\ 0\\.0978548125066248\ \(0\)\
+\-\ nystagmus\\:\\ 0\\.09479270492557781\ \(0\)\
+\-\ intradural\\:\\ 0\\.09479270492557781\ \(0\)\
+\-\ consistent\\:\\ 0\\.09234662553405203\ \(0\)\
+\-\ bilateral\\:\\ 0\\.09153150691784885\ \(0\)\
+\-\ football\\:\\ 0\\.08937519821551446\ \(0\)\
+\-\ but\\:\\ 0\\.08421913924971197\ \(0\)\
+\-\ definite\\:\\ 0\\.08376145012179663\ \(0\)\
+\-\ ataxia\\:\\ 0\\.08268701910891312\ \(0\)\
+\-\ field\\:\\ 0\\.08003456830099066\ \(0\)\
+\-\ setting\\:\\ 0\\.07919094569503413\ \(0\)\
+\-\ occlusion\\:\\ 0\\.07823776150810487\ \(0\)\
+\-\ smaller\\:\\ 0\\.07663417620058074\ \(0\)\
+\-\ rotation\\:\\ 0\\.07582705275075798\ \(0\)\
+\-\ ischemic\\:\\ 0\\.0753122380303451\ \(0\)\
+\-\ major\\:\\ 0\\.07445194213811837\ \(0\)\
+\-\ problems\\:\\ 0\\.07386644955016863\ \(0\)\
+\-\ much\\:\\ 0\\.07375205705614643\ \(0\)\
+\-\ ischemia\\:\\ 0\\.07375205705614643\ \(0\)\
+\-\ gait\\:\\ 0\\.07375205705614643\ \(0\)\
+\-\ sudden\\:\\ 0\\.0736385344754383\ \(0\)\
+\-\ defects\\:\\ 0\\.0734140468252259\ \(0\)\
+\-\ require\\:\\ 0\\.07319288504055513\ \(0\)\
+\-\ visual\\:\\ 0\\.07265390420858416\ \(0\)\
+\-\ and\\:\\ 0\\.07038543596073132\ \(0\)\
+\-\ segment\\:\\ 0\\.07030741464514209\ \(0\)\
+\-\ especially\\:\\ 0\\.06736120391689351\ \(0\)\
+\-\ prominent\\:\\ 0\\.06706704371085946\ \(0\)\
+\-\ nausea\\:\\ 0\\.06541431828898736\ \(0\)\
+\-\ ct\\:\\ 0\\.06483906109050407\ \(0\)\
+\-\ reveals\\:\\ 0\\.06477626615376517\ \(0\)\
+\-\ 13\\:\\ 0\\.06422444428476354\ \(0\)\
+\-\ occur\\:\\ 0\\.06262754871404061\ \(0\)\
+\-\ defect\\:\\ 0\\.06246616176466956\ \(0\)\
+\-\ reported\\:\\ 0\\.06133313802241845\ \(0\)\
+\-\ cortical\\:\\ 0\\.06113606390720041\ \(0\)\
+\-\ later\\:\\ 0\\.06094155760603078\ \(0\)\
+\-\ portion\\:\\ 0\\.0608933244544673\ \(0\)\
+\-\ complete\\:\\ 0\\.0596910284421025\ \(0\)\
+\-\ does\\:\\ 0\\.05886988136755463\ \(0\)\
+\-\ headache\\:\\ 0\\.058702617461685765\ \(0\)\
+\-\ boy\\:\\ 0\\.05825207675958252\ \(0\)\
+\-\ initial\\:\\ 0\\.05712562247218576\ \(0\)\
+\-\ injury\\:\\ 0\\.05553035368154639\ \(0\)\
+\-\ mr\\:\\ 0\\.05509954483583857\ \(0\)\
+\-\ onset\\:\\ 0\\.054680820693478786\ \(0\)\
+\-\ head\\:\\ 0\\.050788660610629664\ \(0\)\
+\-\ he\\:\\ 0\\.05042601571468066\ \(0\)\
+\-\ with\\:\\ 0\\.05002358416814993\ \(0\)\
+\-\ shows\\:\\ 0\\.049978961343800754\ \(0\)\
+\-\ months\\:\\ 0\\.04956743964410057\ \(0\)\
+\-\ trauma\\:\\ 0\\.04945511294842414\ \(0\)\
+\-\ lesions\\:\\ 0\\.04890581818386389\ \(0\)\
+\-\ mild\\:\\ 0\\.04827227979946135\ \(0\)\
+\-\ more\\:\\ 0\\.046759523935323066\ \(0\)\
+\-\ physical\\:\\ 0\\.04617331276702601\ \(0\)\
+\-\ follow\\:\\ 0\\.045906254707110294\ \(0\)\
+\-\ may\\:\\ 0\\.04285297527553154\ \(0\)\
+\-\ in\\:\\ 0\\.04236789157129227\ \(0\)\
+\-\ lateral\\:\\ 0\\.042260846480572274\ \(0\)\
+\-\ up\\:\\ 0\\.04212325889442787\ \(0\)\
+\-\ the\\:\\ 0\\.03398324940226277\ \(0\)\
+\-\ there\\:\\ 0\\.033883142812525774\ \(0\)\
+\-\ not\\:\\ 0\\.033617399139352896\ \(0\)\
+\-\ history\\:\\ 0\\.03253436301473579\ \(0\)\
+\-\ or\\:\\ 0\\.029624111550353258\ \(0\)\
+\-\ no\\:\\ 0\\.027691627131812255\ \(0\)\
+\-\ on\\:\\ 0\\.02571844820472478\ \(0\)\
+\-\ is\\:\\ 0\\.023320435375235635\ \(0\)\

@@ -1,68 +1,66 @@
-Texto: 
-pain in the right shoulder
-curettage and packing
-lytic expansile lesion through the metadiaphyseal region of proximal humerus. there is a narrow zone of transition. there are also lace-like areas of increased density.
-pathologic fracture of simple bone cyst with focal reactive changes and reactive bone formation.
-fibrous dysplasia
-chondromyxoid fibroma
-simple bone cyst
-aneurysmal bone cyst
-male patient fell while skateboarding. he presents to the emergency department with right shoulder pain.
-
-
-Keywords by value: 
-- bone: 0.10889408622871127
-- simple: 0.10795764712765145
-- reactive: 0.10371368716668802
-- skateboarding: 0.09524646234418727
-- metadiaphyseal: 0.09238564758374869
-- lace-like: 0.09238564758374869
-- shoulder: 0.08833026655997013
-- cyst: 0.08832196677023472
-- chondromyxoid: 0.0834991452688776
-- packing: 0.07747345771444508
-- curettage: 0.06819244695512842
-- transition: 0.06393432086509492
-- fibroma: 0.06096250530025742
-- aneurysmal: 0.05950168146244693
-- narrow: 0.059113151340711954
-- zone: 0.058190414166031317
-- humerus: 0.05636766430987051
-- expansile: 0.053724943726695215
-- fell: 0.052411930836591764
-- department: 0.04912707438792515
-- lytic: 0.04903956201522772
-- pathologic: 0.04795313600939322
-- formation: 0.04522117170861491
-- fibrous: 0.04428495202893683
-- dysplasia: 0.04324488094159878
-- emergency: 0.04148446920487533
-- areas: 0.03686342527238547
-- density: 0.03604655585717896
-- while: 0.03446986204938863
-- proximal: 0.03289157925265404
-- there: 0.03260809119140996
-- changes: 0.03139805097737257
-- focal: 0.031288379540235924
-- through: 0.031114833569498315
-- region: 0.030943605477427083
-- he: 0.03056650438503871
-- fracture: 0.028885568336830494
-- increased: 0.02680108694614943
-- pain: 0.02675918378283935
-- right: 0.023118761772061965
-- presents: 0.022380055070614434
-- lesion: 0.022314810589749417
-- also: 0.02159768709833527
-- male: 0.019810327408813756
-- are: 0.014934280417046175
-- patient: 0.010981947832261384
-- is: 0.0072088561331375076
-- of: 0.0059745538870763296
-- to: 0.005475232159525465
-- in: 0.00540252859154173
-- the: 0.0053172801809086845
-- a: 0.005084612843828221
-- and: 0.004615615531595345
-- with: 0.003000107079227942
-- .: 0.0027307335459497138
+\-\ Texto\\:\\ \ \(0\)\
+\-\ pain\\ in\\ the\\ right\\ shoulder\ \(3\)\
+\-\ curettage\\ and\\ packing\ \(5\)\
+\-\ lytic\\ expansile\\ lesion\\ through\\ the\\ metadiaphyseal\\ region\\ of\\ proximal\\ humerus\\.\\ there\\ is\\ a\\ narrow\\ zone\\ of\\ transition\\.\\ there\\ are\\ also\\ lace\\-like\\ areas\\ of\\ increased\\ density\\.\ \(0\)\
+\-\ pathologic\\ fracture\\ of\\ simple\\ bone\\ cyst\\ with\\ focal\\ reactive\\ changes\\ and\\ reactive\\ bone\\ formation\\.\ \(0\)\
+\-\ fibrous\\ dysplasia\ \(50\)\
+\-\ chondromyxoid\\ fibroma\ \(4\)\
+\-\ simple\\ bone\\ cyst\ \(7\)\
+\-\ aneurysmal\\ bone\\ cyst\ \(11\)\
+\-\ male\\ patient\\ fell\\ while\\ skateboarding\\.\\ he\\ presents\\ to\\ the\\ emergency\\ department\\ with\\ right\\ shoulder\\ pain\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ bone\\:\\ 0\\.10889408622871127\ \(0\)\
+\-\ simple\\:\\ 0\\.10795764712765145\ \(0\)\
+\-\ reactive\\:\\ 0\\.10371368716668802\ \(0\)\
+\-\ skateboarding\\:\\ 0\\.09524646234418727\ \(0\)\
+\-\ metadiaphyseal\\:\\ 0\\.09238564758374869\ \(0\)\
+\-\ lace\\-like\\:\\ 0\\.09238564758374869\ \(0\)\
+\-\ shoulder\\:\\ 0\\.08833026655997013\ \(0\)\
+\-\ cyst\\:\\ 0\\.08832196677023472\ \(0\)\
+\-\ chondromyxoid\\:\\ 0\\.0834991452688776\ \(0\)\
+\-\ packing\\:\\ 0\\.07747345771444508\ \(0\)\
+\-\ curettage\\:\\ 0\\.06819244695512842\ \(0\)\
+\-\ transition\\:\\ 0\\.06393432086509492\ \(0\)\
+\-\ fibroma\\:\\ 0\\.06096250530025742\ \(0\)\
+\-\ aneurysmal\\:\\ 0\\.05950168146244693\ \(0\)\
+\-\ narrow\\:\\ 0\\.059113151340711954\ \(0\)\
+\-\ zone\\:\\ 0\\.058190414166031317\ \(0\)\
+\-\ humerus\\:\\ 0\\.05636766430987051\ \(0\)\
+\-\ expansile\\:\\ 0\\.053724943726695215\ \(0\)\
+\-\ fell\\:\\ 0\\.052411930836591764\ \(0\)\
+\-\ department\\:\\ 0\\.04912707438792515\ \(0\)\
+\-\ lytic\\:\\ 0\\.04903956201522772\ \(0\)\
+\-\ pathologic\\:\\ 0\\.04795313600939322\ \(0\)\
+\-\ formation\\:\\ 0\\.04522117170861491\ \(0\)\
+\-\ fibrous\\:\\ 0\\.04428495202893683\ \(0\)\
+\-\ dysplasia\\:\\ 0\\.04324488094159878\ \(0\)\
+\-\ emergency\\:\\ 0\\.04148446920487533\ \(0\)\
+\-\ areas\\:\\ 0\\.03686342527238547\ \(0\)\
+\-\ density\\:\\ 0\\.03604655585717896\ \(0\)\
+\-\ while\\:\\ 0\\.03446986204938863\ \(0\)\
+\-\ proximal\\:\\ 0\\.03289157925265404\ \(0\)\
+\-\ there\\:\\ 0\\.03260809119140996\ \(0\)\
+\-\ changes\\:\\ 0\\.03139805097737257\ \(0\)\
+\-\ focal\\:\\ 0\\.031288379540235924\ \(0\)\
+\-\ through\\:\\ 0\\.031114833569498315\ \(0\)\
+\-\ region\\:\\ 0\\.030943605477427083\ \(0\)\
+\-\ he\\:\\ 0\\.03056650438503871\ \(0\)\
+\-\ fracture\\:\\ 0\\.028885568336830494\ \(0\)\
+\-\ increased\\:\\ 0\\.02680108694614943\ \(0\)\
+\-\ pain\\:\\ 0\\.02675918378283935\ \(0\)\
+\-\ right\\:\\ 0\\.023118761772061965\ \(0\)\
+\-\ presents\\:\\ 0\\.022380055070614434\ \(0\)\
+\-\ lesion\\:\\ 0\\.022314810589749417\ \(0\)\
+\-\ also\\:\\ 0\\.02159768709833527\ \(0\)\
+\-\ male\\:\\ 0\\.019810327408813756\ \(0\)\
+\-\ are\\:\\ 0\\.014934280417046175\ \(0\)\
+\-\ patient\\:\\ 0\\.010981947832261384\ \(0\)\
+\-\ is\\:\\ 0\\.0072088561331375076\ \(0\)\
+\-\ of\\:\\ 0\\.0059745538870763296\ \(0\)\
+\-\ to\\:\\ 0\\.005475232159525465\ \(0\)\
+\-\ in\\:\\ 0\\.00540252859154173\ \(0\)\
+\-\ the\\:\\ 0\\.0053172801809086845\ \(0\)\
+\-\ a\\:\\ 0\\.005084612843828221\ \(0\)\
+\-\ and\\:\\ 0\\.004615615531595345\ \(0\)\
+\-\ with\\:\\ 0\\.003000107079227942\ \(0\)\
+\-\ \\.\\:\\ 0\\.0027307335459497138\ \(0\)\

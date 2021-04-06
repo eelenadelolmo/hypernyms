@@ -1,148 +1,143 @@
-Texto: 
-physical exam:
-â€¢ heart:  sinus tachycardia
-â€¢ lungs:  clear to auscultation bilaterally.
-â€¢ abdomen: nondistended, nontender 
-
-lab results to note:
-â€¢ hemoglobin: 8.3 (below normal)
-â€¢ normal cardiac enzyme evaluation
-â€¢ guaiac positive stool
-
-â€¢ ecg: sinus tachycardia
-â€¢ echocardiogram: flattened septum consistent with right ventricular pressure overload, mild-to-moderate right ventricular hypertrophy
-follow up with primary care physician and cardiologist.
-â€¢ no acute or chronic pulmonary embolism
-â€¢ partial anomalous pulmonary venous return from the left upper lobe to the left brachiocephalic vein
-â€¢ enlargement of the pulmonary artery
-partial anomalous pulmonary venous return
-this imaging findings using this modality are pathomnemonic
-a 76 year old man complains of shortness of breath with minimal physical activity.  
-
-pmh includes episodic atrial fibrillation, type ii diabetes, hypertension, hyperlipidemia, iron-deficiency anemia, and colon cancer status post right hemicolectomy.
-partial anomalous pulmonary venous return is a rare congenital condition in which pulmonary venous return feeds into systemic venous return. papvr is mostly reported originating from the right upper lobe; however, this patient has papvr from the left upper lobe.
-
-
-Keywords by value: 
-- return: 0.10817205135585897
-- â€¢: 0.08618578933777384
-- venous: 0.07754464046142823
-- pulmonary: 0.0748965093066019
-- anomalous: 0.07480315541216105
-- papvr: 0.06736076882286662
-- partial: 0.05126033583673118
-- tachycardia: 0.0486427470538507
-- :: 0.0452109926396266
-- iron-deficiency: 0.04407759211983249
-- pathomnemonic: 0.04061185621703277
-- mild-to-moderate: 0.038584530676491945
-- ventricular: 0.03818306150202383
-- lobe: 0.03448988021885301
-- 8.3: 0.034348041374555924
-- enzyme: 0.03368038441143331
-- feeds: 0.03208811575584064
-- brachiocephalic: 0.03165305887089249
-- episodic: 0.03165305887089249
-- hemicolectomy: 0.03165305887089249
-- overload: 0.03125284533252481
-- cardiologist: 0.03125284533252481
-- sinus: 0.03125158969642438
-- upper: 0.030931207580530775
-- flattened: 0.03053734111432144
-- guaiac: 0.030214648508633583
-- ecg: 0.029355397224000292
-- nondistended: 0.02778710942972508
-- fibrillation: 0.027071605211521712
-- hyperlipidemia: 0.026445789496751686
-- hemoglobin: 0.026023002556611368
-- originating: 0.02550973178631095
-- echocardiogram: 0.02527159154136468
-- mostly: 0.02493438513738702
-- 76: 0.02413267188701112
-- stool: 0.023523222798965935
-- modality: 0.023441920194607033
-- hypertrophy: 0.0219833890808495
-- nontender: 0.02192350812561592
-- septum: 0.02186433583738091
-- atrial: 0.02186433583738091
-- auscultation: 0.021748051526559575
-- pmh: 0.021255851162493313
-- anemia: 0.021255851162493313
-- diabetes: 0.02115275472647963
-- physical: 0.020965052695812385
-- lab: 0.020903947178684313
-- embolism: 0.020903947178684313
-- systemic: 0.020440653026270787
-- physician: 0.020140133405922262
-- complains: 0.019856656687539536
-- from: 0.018996535697313185
-- below: 0.018547864750329587
-- using: 0.018547864750329587
-- ii: 0.018428098545217125
-- right: 0.018032634182208334
-- shortness: 0.017975812994440867
-- condition: 0.017868857044534277
-- results: 0.017247712044723234
-- includes: 0.017224401979194177
-- enlargement: 0.016952842032425478
-- hypertension: 0.01684390526150094
-- minimal: 0.01682239985200399
-- pressure: 0.016779664549111697
-- colon: 0.016779664549111697
-- rare: 0.01659175099336648
-- note: 0.016490327637508954
-- cardiac: 0.01627418396475485
-- lungs: 0.016178942989901378
-- activity: 0.016030233143907693
-- breath: 0.01597558779124674
-- clear: 0.015797633065733226
-- congenital: 0.01562579484821219
-- reported: 0.01557537425287906
-- vein: 0.015459666610070586
-- care: 0.015410885735343762
-- status: 0.015251636605908269
-- heart: 0.01484539824454387
-- this: 0.014417058199711995
-- type: 0.014403121141734553
-- left: 0.01434157903909372
-- cancer: 0.014045826321823827
-- bilaterally: 0.014033526192619517
-- positive: 0.013864427951420583
-- follow: 0.01357599735973217
-- post: 0.013454175165361468
-- normal: 0.013396124545991012
-- artery: 0.012722649960540995
-- abdomen: 0.012656921314478483
-- primary: 0.012656921314478483
-- evaluation: 0.012411193979134039
-- chronic: 0.012034948164535
-- however: 0.011896840277985352
-- up: 0.011489235755271117
-- ,: 0.010828402620691496
-- acute: 0.010549396645532476
-- consistent: 0.010476491344156015
-- into: 0.010166631839798535
-- ;: 0.010127105942262968
-- man: 0.010104659215449997
-- imaging: 0.010010369122278014
-- exam: 0.00938616969974769
-- findings: 0.009094184678949799
-- has: 0.00802349985247139
-- which: 0.007975722936212744
-- to: 0.006406021626644794
-- are: 0.005824369362648009
-- is: 0.005622907783847256
-- or: 0.005007613744818538
-- year: 0.0047805263463645735
-- old: 0.004374672984311274
-- no: 0.00430222075351901
-- patient: 0.00428295965458194
-- a: 0.003965998018186013
-- (: 0.0036118086312193027
-- ): 0.0035676884605665253
-- the: 0.003456232117590645
-- in: 0.0021069861507012747
-- and: 0.0018000900573221846
-- with: 0.001755062641348346
-- of: 0.0017475570119698264
-- .: 0.0010649860829203882
+\-\ Texto\\:\\ \ \(0\)\
+\-\ physical\\ exam\\:\ \(1\)\
+\-\ \\â\\€\\¢\\ heart\\:\\ \\ sinus\\ tachycardia\ \(0\)\
+\-\ \\â\\€\\¢\\ lungs\\:\\ \\ clear\\ to\\ auscultation\\ bilaterally\\.\ \(0\)\
+\-\ \\â\\€\\¢\\ abdomen\\:\\ nondistended\\,\\ nontender\\ \ \(0\)\
+\-\ lab\\ results\\ to\\ note\\:\ \(0\)\
+\-\ \\â\\€\\¢\\ hemoglobin\\:\\ 8\\.3\\ \\(below\\ normal\\)\ \(1\)\
+\-\ \\â\\€\\¢\\ normal\\ cardiac\\ enzyme\\ evaluation\ \(1\)\
+\-\ \\â\\€\\¢\\ guaiac\\ positive\\ stool\ \(1\)\
+\-\ \\â\\€\\¢\\ ecg\\:\\ sinus\\ tachycardia\ \(0\)\
+\-\ \\â\\€\\¢\\ echocardiogram\\:\\ flattened\\ septum\\ consistent\\ with\\ right\\ ventricular\\ pressure\\ overload\\,\\ mild\\-to\\-moderate\\ right\\ ventricular\\ hypertrophy\ \(0\)\
+\-\ follow\\ up\\ with\\ primary\\ care\\ physician\\ and\\ cardiologist\\.\ \(0\)\
+\-\ \\â\\€\\¢\\ no\\ acute\\ or\\ chronic\\ pulmonary\\ embolism\ \(0\)\
+\-\ \\â\\€\\¢\\ partial\\ anomalous\\ pulmonary\\ venous\\ return\\ from\\ the\\ left\\ upper\\ lobe\\ to\\ the\\ left\\ brachiocephalic\\ vein\ \(0\)\
+\-\ \\â\\€\\¢\\ enlargement\\ of\\ the\\ pulmonary\\ artery\ \(0\)\
+\-\ partial\\ anomalous\\ pulmonary\\ venous\\ return\ \(6\)\
+\-\ this\\ imaging\\ findings\\ using\\ this\\ modality\\ are\\ pathomnemonic\ \(0\)\
+\-\ a\\ 76\\ year\\ old\\ man\\ complains\\ of\\ shortness\\ of\\ breath\\ with\\ minimal\\ physical\\ activity\\.\\ \\ \ \(0\)\
+\-\ pmh\\ includes\\ episodic\\ atrial\\ fibrillation\\,\\ type\\ ii\\ diabetes\\,\\ hypertension\\,\\ hyperlipidemia\\,\\ iron\\-deficiency\\ anemia\\,\\ and\\ colon\\ cancer\\ status\\ post\\ right\\ hemicolectomy\\.\ \(0\)\
+\-\ partial\\ anomalous\\ pulmonary\\ venous\\ return\\ is\\ a\\ rare\\ congenital\\ condition\\ in\\ which\\ pulmonary\\ venous\\ return\\ feeds\\ into\\ systemic\\ venous\\ return\\.\\ papvr\\ is\\ mostly\\ reported\\ originating\\ from\\ the\\ right\\ upper\\ lobe\\;\\ however\\,\\ this\\ patient\\ has\\ papvr\\ from\\ the\\ left\\ upper\\ lobe\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ return\\:\\ 0\\.10817205135585897\ \(0\)\
+\-\ \\â\\€\\¢\\:\\ 0\\.08618578933777384\ \(0\)\
+\-\ venous\\:\\ 0\\.07754464046142823\ \(0\)\
+\-\ pulmonary\\:\\ 0\\.0748965093066019\ \(0\)\
+\-\ anomalous\\:\\ 0\\.07480315541216105\ \(0\)\
+\-\ papvr\\:\\ 0\\.06736076882286662\ \(0\)\
+\-\ partial\\:\\ 0\\.05126033583673118\ \(0\)\
+\-\ tachycardia\\:\\ 0\\.0486427470538507\ \(0\)\
+\-\ \\:\\:\\ 0\\.0452109926396266\ \(0\)\
+\-\ iron\\-deficiency\\:\\ 0\\.04407759211983249\ \(0\)\
+\-\ pathomnemonic\\:\\ 0\\.04061185621703277\ \(0\)\
+\-\ mild\\-to\\-moderate\\:\\ 0\\.038584530676491945\ \(0\)\
+\-\ ventricular\\:\\ 0\\.03818306150202383\ \(0\)\
+\-\ lobe\\:\\ 0\\.03448988021885301\ \(0\)\
+\-\ 8\\.3\\:\\ 0\\.034348041374555924\ \(0\)\
+\-\ enzyme\\:\\ 0\\.03368038441143331\ \(0\)\
+\-\ feeds\\:\\ 0\\.03208811575584064\ \(0\)\
+\-\ brachiocephalic\\:\\ 0\\.03165305887089249\ \(0\)\
+\-\ episodic\\:\\ 0\\.03165305887089249\ \(0\)\
+\-\ hemicolectomy\\:\\ 0\\.03165305887089249\ \(0\)\
+\-\ overload\\:\\ 0\\.03125284533252481\ \(0\)\
+\-\ cardiologist\\:\\ 0\\.03125284533252481\ \(0\)\
+\-\ sinus\\:\\ 0\\.03125158969642438\ \(0\)\
+\-\ upper\\:\\ 0\\.030931207580530775\ \(0\)\
+\-\ flattened\\:\\ 0\\.03053734111432144\ \(0\)\
+\-\ guaiac\\:\\ 0\\.030214648508633583\ \(0\)\
+\-\ ecg\\:\\ 0\\.029355397224000292\ \(0\)\
+\-\ nondistended\\:\\ 0\\.02778710942972508\ \(0\)\
+\-\ fibrillation\\:\\ 0\\.027071605211521712\ \(0\)\
+\-\ hyperlipidemia\\:\\ 0\\.026445789496751686\ \(0\)\
+\-\ hemoglobin\\:\\ 0\\.026023002556611368\ \(0\)\
+\-\ originating\\:\\ 0\\.02550973178631095\ \(0\)\
+\-\ echocardiogram\\:\\ 0\\.02527159154136468\ \(0\)\
+\-\ mostly\\:\\ 0\\.02493438513738702\ \(0\)\
+\-\ 76\\:\\ 0\\.02413267188701112\ \(0\)\
+\-\ stool\\:\\ 0\\.023523222798965935\ \(0\)\
+\-\ modality\\:\\ 0\\.023441920194607033\ \(0\)\
+\-\ hypertrophy\\:\\ 0\\.0219833890808495\ \(0\)\
+\-\ nontender\\:\\ 0\\.02192350812561592\ \(0\)\
+\-\ septum\\:\\ 0\\.02186433583738091\ \(0\)\
+\-\ atrial\\:\\ 0\\.02186433583738091\ \(0\)\
+\-\ auscultation\\:\\ 0\\.021748051526559575\ \(0\)\
+\-\ pmh\\:\\ 0\\.021255851162493313\ \(0\)\
+\-\ anemia\\:\\ 0\\.021255851162493313\ \(0\)\
+\-\ diabetes\\:\\ 0\\.02115275472647963\ \(0\)\
+\-\ physical\\:\\ 0\\.020965052695812385\ \(0\)\
+\-\ lab\\:\\ 0\\.020903947178684313\ \(0\)\
+\-\ embolism\\:\\ 0\\.020903947178684313\ \(0\)\
+\-\ systemic\\:\\ 0\\.020440653026270787\ \(0\)\
+\-\ physician\\:\\ 0\\.020140133405922262\ \(0\)\
+\-\ complains\\:\\ 0\\.019856656687539536\ \(0\)\
+\-\ from\\:\\ 0\\.018996535697313185\ \(0\)\
+\-\ below\\:\\ 0\\.018547864750329587\ \(0\)\
+\-\ using\\:\\ 0\\.018547864750329587\ \(0\)\
+\-\ ii\\:\\ 0\\.018428098545217125\ \(0\)\
+\-\ right\\:\\ 0\\.018032634182208334\ \(0\)\
+\-\ shortness\\:\\ 0\\.017975812994440867\ \(0\)\
+\-\ condition\\:\\ 0\\.017868857044534277\ \(0\)\
+\-\ results\\:\\ 0\\.017247712044723234\ \(0\)\
+\-\ includes\\:\\ 0\\.017224401979194177\ \(0\)\
+\-\ enlargement\\:\\ 0\\.016952842032425478\ \(0\)\
+\-\ hypertension\\:\\ 0\\.01684390526150094\ \(0\)\
+\-\ minimal\\:\\ 0\\.01682239985200399\ \(0\)\
+\-\ pressure\\:\\ 0\\.016779664549111697\ \(0\)\
+\-\ colon\\:\\ 0\\.016779664549111697\ \(0\)\
+\-\ rare\\:\\ 0\\.01659175099336648\ \(0\)\
+\-\ note\\:\\ 0\\.016490327637508954\ \(0\)\
+\-\ cardiac\\:\\ 0\\.01627418396475485\ \(0\)\
+\-\ lungs\\:\\ 0\\.016178942989901378\ \(0\)\
+\-\ activity\\:\\ 0\\.016030233143907693\ \(0\)\
+\-\ breath\\:\\ 0\\.01597558779124674\ \(0\)\
+\-\ clear\\:\\ 0\\.015797633065733226\ \(0\)\
+\-\ congenital\\:\\ 0\\.01562579484821219\ \(0\)\
+\-\ reported\\:\\ 0\\.01557537425287906\ \(0\)\
+\-\ vein\\:\\ 0\\.015459666610070586\ \(0\)\
+\-\ care\\:\\ 0\\.015410885735343762\ \(0\)\
+\-\ status\\:\\ 0\\.015251636605908269\ \(0\)\
+\-\ heart\\:\\ 0\\.01484539824454387\ \(0\)\
+\-\ this\\:\\ 0\\.014417058199711995\ \(0\)\
+\-\ type\\:\\ 0\\.014403121141734553\ \(0\)\
+\-\ left\\:\\ 0\\.01434157903909372\ \(0\)\
+\-\ cancer\\:\\ 0\\.014045826321823827\ \(0\)\
+\-\ bilaterally\\:\\ 0\\.014033526192619517\ \(0\)\
+\-\ positive\\:\\ 0\\.013864427951420583\ \(0\)\
+\-\ follow\\:\\ 0\\.01357599735973217\ \(0\)\
+\-\ post\\:\\ 0\\.013454175165361468\ \(0\)\
+\-\ normal\\:\\ 0\\.013396124545991012\ \(0\)\
+\-\ artery\\:\\ 0\\.012722649960540995\ \(0\)\
+\-\ abdomen\\:\\ 0\\.012656921314478483\ \(0\)\
+\-\ primary\\:\\ 0\\.012656921314478483\ \(0\)\
+\-\ evaluation\\:\\ 0\\.012411193979134039\ \(0\)\
+\-\ chronic\\:\\ 0\\.012034948164535\ \(0\)\
+\-\ however\\:\\ 0\\.011896840277985352\ \(0\)\
+\-\ up\\:\\ 0\\.011489235755271117\ \(0\)\
+\-\ \\,\\:\\ 0\\.010828402620691496\ \(0\)\
+\-\ acute\\:\\ 0\\.010549396645532476\ \(0\)\
+\-\ consistent\\:\\ 0\\.010476491344156015\ \(0\)\
+\-\ into\\:\\ 0\\.010166631839798535\ \(0\)\
+\-\ \\;\\:\\ 0\\.010127105942262968\ \(0\)\
+\-\ man\\:\\ 0\\.010104659215449997\ \(0\)\
+\-\ imaging\\:\\ 0\\.010010369122278014\ \(0\)\
+\-\ exam\\:\\ 0\\.00938616969974769\ \(0\)\
+\-\ findings\\:\\ 0\\.009094184678949799\ \(0\)\
+\-\ has\\:\\ 0\\.00802349985247139\ \(0\)\
+\-\ which\\:\\ 0\\.007975722936212744\ \(0\)\
+\-\ to\\:\\ 0\\.006406021626644794\ \(0\)\
+\-\ are\\:\\ 0\\.005824369362648009\ \(0\)\
+\-\ is\\:\\ 0\\.005622907783847256\ \(0\)\
+\-\ or\\:\\ 0\\.005007613744818538\ \(0\)\
+\-\ year\\:\\ 0\\.0047805263463645735\ \(0\)\
+\-\ old\\:\\ 0\\.004374672984311274\ \(0\)\
+\-\ no\\:\\ 0\\.00430222075351901\ \(0\)\
+\-\ patient\\:\\ 0\\.00428295965458194\ \(0\)\
+\-\ a\\:\\ 0\\.003965998018186013\ \(0\)\
+\-\ \\(\\:\\ 0\\.0036118086312193027\ \(0\)\
+\-\ \\)\\:\\ 0\\.0035676884605665253\ \(0\)\
+\-\ the\\:\\ 0\\.003456232117590645\ \(0\)\
+\-\ in\\:\\ 0\\.0021069861507012747\ \(0\)\
+\-\ and\\:\\ 0\\.0018000900573221846\ \(0\)\
+\-\ with\\:\\ 0\\.001755062641348346\ \(0\)\
+\-\ of\\:\\ 0\\.0017475570119698264\ \(0\)\
+\-\ \\.\\:\\ 0\\.0010649860829203882\ \(0\)\

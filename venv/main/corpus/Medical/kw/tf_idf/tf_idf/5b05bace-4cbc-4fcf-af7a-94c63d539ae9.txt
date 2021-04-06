@@ -1,100 +1,98 @@
-Texto: 
-tenderness on palpation over medial aspect of left knee and mildly reduced range of motion that was  limited by pain.  valgus testing was non-specific.
-treatment:  when symptomatic, the patients undergo rehabilitative therapy including rest, non-weight bearing and physical therapy.  surgery with excision of the ossified mass and ligament repair is  reserved for  refractory cases.
-anteroposterior radiograph of the left knee shows ossification  medial to the medial condyle in the region of the medial collateral ligament. the femur and tibia were intact.
-pellegrini-stieda
-avulsion fracture caused by tear of medial collateral ligament from the medial femoral condyle
-25 year old  male soccer player presents with pain over medial portion of left knee.  the patient states that he received repeated kicks to lateral aspect of left knee during the soccer season several months ago.
-
-
-Keywords by value: 
-- medial: 0.13379787828762493
-- knee: 0.08667106916252522
-- ligament: 0.082346209001638
-- soccer: 0.08211299922797284
-- condyle: 0.0636760635933592
-- collateral: 0.0625414405889904
-- kicks: 0.06164698198577971
-- rehabilitative: 0.056799798904940926
-- pellegrini-stieda: 0.0539643785685202
-- season: 0.0539643785685202
-- non-weight: 0.04319203562483384
-- player: 0.04183430125811386
-- ossified: 0.040031300493763515
-- reserved: 0.03972044900725419
-- anteroposterior: 0.03972044900725419
-- valgus: 0.03834485254399506
-- aspect: 0.03754254453822877
-- refractory: 0.03698711817727508
-- non-specific: 0.03457564624516509
-- bearing: 0.03457564624516509
-- repeated: 0.03457564624516509
-- therapy: 0.03195301812923934
-- avulsion: 0.0319372250483716
-- reduced: 0.031454757415595724
-- over: 0.03042856769426521
-- undergo: 0.030336934332085955
-- ossification: 0.030336934332085955
-- testing: 0.028904805572323625
-- states: 0.028109985163424875
-- received: 0.02777154781474061
-- rest: 0.02755469301234508
-- tibia: 0.027448736333879332
-- left: 0.026744203336305308
-- tear: 0.02624421951705966
-- femur: 0.025815066045896777
-- mildly: 0.025450130709039644
-- limited: 0.025217008888986554
-- caused: 0.025065802846936443
-- excision: 0.024526228857099954
-- 25: 0.02415542837942009
-- range: 0.024057622491484847
-- motion: 0.024025322170811457
-- repair: 0.023929306836462494
-- symptomatic: 0.023741142830029455
-- femoral: 0.02273425186464199
-- ago: 0.022242858886694045
-- intact: 0.021949402948938577
-- portion: 0.021644801729783822
-- including: 0.021576354132817648
-- that: 0.020643087112710817
-- palpation: 0.01994362993250386
-- cases: 0.019907768279588338
-- by: 0.01990029235307517
-- several: 0.01921043941064607
-- radiograph: 0.01903460597147806
-- during: 0.01828677797149516
-- tenderness: 0.01817421204812331
-- when: 0.017114204458853186
-- region: 0.016878330260414773
-- he: 0.01667263875547566
-- shows: 0.01642918671139076
-- months: 0.016321267795035437
-- fracture: 0.015755764547362088
-- patients: 0.015465556638923258
-- physical: 0.014660876011057611
-- pain: 0.014595918427003283
-- surgery: 0.01451048296755437
-- was: 0.013822063247743871
-- were: 0.01356843592090854
-- lateral: 0.012913762556815037
-- presents: 0.012207302765789692
-- treatment: 0.012095223493712497
-- male: 0.010805633132080232
-- the: 0.0096677821471067
-- from: 0.008856193798281205
-- mass: 0.008310916132500451
-- :: 0.007904019692242413
-- year: 0.006686050834076327
-- of: 0.006517695149537814
-- old: 0.0061184237542815005
-- patient: 0.005990153363051664
-- to: 0.005972980537664143
-- for: 0.005098658382116889
-- on: 0.0050621749116463504
-- and: 0.005035216943558558
-- is: 0.0039321033453477315
-- ,: 0.003786154762479544
-- in: 0.00294683377720458
-- .: 0.0019859880334179734
-- with: 0.001636422043215241
+\-\ Texto\\:\\ \ \(0\)\
+\-\ tenderness\\ on\\ palpation\\ over\\ medial\\ aspect\\ of\\ left\\ knee\\ and\\ mildly\\ reduced\\ range\\ of\\ motion\\ that\\ was\\ \\ limited\\ by\\ pain\\.\\ \\ valgus\\ testing\\ was\\ non\\-specific\\.\ \(0\)\
+\-\ treatment\\:\\ \\ when\\ symptomatic\\,\\ the\\ patients\\ undergo\\ rehabilitative\\ therapy\\ including\\ rest\\,\\ non\\-weight\\ bearing\\ and\\ physical\\ therapy\\.\\ \\ surgery\\ with\\ excision\\ of\\ the\\ ossified\\ mass\\ and\\ ligament\\ repair\\ is\\ \\ reserved\\ for\\ \\ refractory\\ cases\\.\ \(0\)\
+\-\ anteroposterior\\ radiograph\\ of\\ the\\ left\\ knee\\ shows\\ ossification\\ \\ medial\\ to\\ the\\ medial\\ condyle\\ in\\ the\\ region\\ of\\ the\\ medial\\ collateral\\ ligament\\.\\ the\\ femur\\ and\\ tibia\\ were\\ intact\\.\ \(0\)\
+\-\ pellegrini\\-stieda\ \(0\)\
+\-\ avulsion\\ fracture\\ caused\\ by\\ tear\\ of\\ medial\\ collateral\\ ligament\\ from\\ the\\ medial\\ femoral\\ condyle\ \(0\)\
+\-\ 25\\ year\\ old\\ \\ male\\ soccer\\ player\\ presents\\ with\\ pain\\ over\\ medial\\ portion\\ of\\ left\\ knee\\.\\ \\ the\\ patient\\ states\\ that\\ he\\ received\\ repeated\\ kicks\\ to\\ lateral\\ aspect\\ of\\ left\\ knee\\ during\\ the\\ soccer\\ season\\ several\\ months\\ ago\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ medial\\:\\ 0\\.13379787828762493\ \(0\)\
+\-\ knee\\:\\ 0\\.08667106916252522\ \(0\)\
+\-\ ligament\\:\\ 0\\.082346209001638\ \(0\)\
+\-\ soccer\\:\\ 0\\.08211299922797284\ \(0\)\
+\-\ condyle\\:\\ 0\\.0636760635933592\ \(0\)\
+\-\ collateral\\:\\ 0\\.0625414405889904\ \(0\)\
+\-\ kicks\\:\\ 0\\.06164698198577971\ \(0\)\
+\-\ rehabilitative\\:\\ 0\\.056799798904940926\ \(0\)\
+\-\ pellegrini\\-stieda\\:\\ 0\\.0539643785685202\ \(0\)\
+\-\ season\\:\\ 0\\.0539643785685202\ \(0\)\
+\-\ non\\-weight\\:\\ 0\\.04319203562483384\ \(0\)\
+\-\ player\\:\\ 0\\.04183430125811386\ \(0\)\
+\-\ ossified\\:\\ 0\\.040031300493763515\ \(0\)\
+\-\ reserved\\:\\ 0\\.03972044900725419\ \(0\)\
+\-\ anteroposterior\\:\\ 0\\.03972044900725419\ \(0\)\
+\-\ valgus\\:\\ 0\\.03834485254399506\ \(0\)\
+\-\ aspect\\:\\ 0\\.03754254453822877\ \(0\)\
+\-\ refractory\\:\\ 0\\.03698711817727508\ \(0\)\
+\-\ non\\-specific\\:\\ 0\\.03457564624516509\ \(0\)\
+\-\ bearing\\:\\ 0\\.03457564624516509\ \(0\)\
+\-\ repeated\\:\\ 0\\.03457564624516509\ \(0\)\
+\-\ therapy\\:\\ 0\\.03195301812923934\ \(0\)\
+\-\ avulsion\\:\\ 0\\.0319372250483716\ \(0\)\
+\-\ reduced\\:\\ 0\\.031454757415595724\ \(0\)\
+\-\ over\\:\\ 0\\.03042856769426521\ \(0\)\
+\-\ undergo\\:\\ 0\\.030336934332085955\ \(0\)\
+\-\ ossification\\:\\ 0\\.030336934332085955\ \(0\)\
+\-\ testing\\:\\ 0\\.028904805572323625\ \(0\)\
+\-\ states\\:\\ 0\\.028109985163424875\ \(0\)\
+\-\ received\\:\\ 0\\.02777154781474061\ \(0\)\
+\-\ rest\\:\\ 0\\.02755469301234508\ \(0\)\
+\-\ tibia\\:\\ 0\\.027448736333879332\ \(0\)\
+\-\ left\\:\\ 0\\.026744203336305308\ \(0\)\
+\-\ tear\\:\\ 0\\.02624421951705966\ \(0\)\
+\-\ femur\\:\\ 0\\.025815066045896777\ \(0\)\
+\-\ mildly\\:\\ 0\\.025450130709039644\ \(0\)\
+\-\ limited\\:\\ 0\\.025217008888986554\ \(0\)\
+\-\ caused\\:\\ 0\\.025065802846936443\ \(0\)\
+\-\ excision\\:\\ 0\\.024526228857099954\ \(0\)\
+\-\ 25\\:\\ 0\\.02415542837942009\ \(0\)\
+\-\ range\\:\\ 0\\.024057622491484847\ \(0\)\
+\-\ motion\\:\\ 0\\.024025322170811457\ \(0\)\
+\-\ repair\\:\\ 0\\.023929306836462494\ \(0\)\
+\-\ symptomatic\\:\\ 0\\.023741142830029455\ \(0\)\
+\-\ femoral\\:\\ 0\\.02273425186464199\ \(0\)\
+\-\ ago\\:\\ 0\\.022242858886694045\ \(0\)\
+\-\ intact\\:\\ 0\\.021949402948938577\ \(0\)\
+\-\ portion\\:\\ 0\\.021644801729783822\ \(0\)\
+\-\ including\\:\\ 0\\.021576354132817648\ \(0\)\
+\-\ that\\:\\ 0\\.020643087112710817\ \(0\)\
+\-\ palpation\\:\\ 0\\.01994362993250386\ \(0\)\
+\-\ cases\\:\\ 0\\.019907768279588338\ \(0\)\
+\-\ by\\:\\ 0\\.01990029235307517\ \(0\)\
+\-\ several\\:\\ 0\\.01921043941064607\ \(0\)\
+\-\ radiograph\\:\\ 0\\.01903460597147806\ \(0\)\
+\-\ during\\:\\ 0\\.01828677797149516\ \(0\)\
+\-\ tenderness\\:\\ 0\\.01817421204812331\ \(0\)\
+\-\ when\\:\\ 0\\.017114204458853186\ \(0\)\
+\-\ region\\:\\ 0\\.016878330260414773\ \(0\)\
+\-\ he\\:\\ 0\\.01667263875547566\ \(0\)\
+\-\ shows\\:\\ 0\\.01642918671139076\ \(0\)\
+\-\ months\\:\\ 0\\.016321267795035437\ \(0\)\
+\-\ fracture\\:\\ 0\\.015755764547362088\ \(0\)\
+\-\ patients\\:\\ 0\\.015465556638923258\ \(0\)\
+\-\ physical\\:\\ 0\\.014660876011057611\ \(0\)\
+\-\ pain\\:\\ 0\\.014595918427003283\ \(0\)\
+\-\ surgery\\:\\ 0\\.01451048296755437\ \(0\)\
+\-\ was\\:\\ 0\\.013822063247743871\ \(0\)\
+\-\ were\\:\\ 0\\.01356843592090854\ \(0\)\
+\-\ lateral\\:\\ 0\\.012913762556815037\ \(0\)\
+\-\ presents\\:\\ 0\\.012207302765789692\ \(0\)\
+\-\ treatment\\:\\ 0\\.012095223493712497\ \(0\)\
+\-\ male\\:\\ 0\\.010805633132080232\ \(0\)\
+\-\ the\\:\\ 0\\.0096677821471067\ \(0\)\
+\-\ from\\:\\ 0\\.008856193798281205\ \(0\)\
+\-\ mass\\:\\ 0\\.008310916132500451\ \(0\)\
+\-\ \\:\\:\\ 0\\.007904019692242413\ \(0\)\
+\-\ year\\:\\ 0\\.006686050834076327\ \(0\)\
+\-\ of\\:\\ 0\\.006517695149537814\ \(0\)\
+\-\ old\\:\\ 0\\.0061184237542815005\ \(0\)\
+\-\ patient\\:\\ 0\\.005990153363051664\ \(0\)\
+\-\ to\\:\\ 0\\.005972980537664143\ \(0\)\
+\-\ for\\:\\ 0\\.005098658382116889\ \(0\)\
+\-\ on\\:\\ 0\\.0050621749116463504\ \(0\)\
+\-\ and\\:\\ 0\\.005035216943558558\ \(0\)\
+\-\ is\\:\\ 0\\.0039321033453477315\ \(0\)\
+\-\ \\,\\:\\ 0\\.003786154762479544\ \(0\)\
+\-\ in\\:\\ 0\\.00294683377720458\ \(0\)\
+\-\ \\.\\:\\ 0\\.0019859880334179734\ \(0\)\
+\-\ with\\:\\ 0\\.001636422043215241\ \(0\)\

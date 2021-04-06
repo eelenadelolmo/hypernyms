@@ -1,120 +1,118 @@
-Texto: 
-the left hip is tender upon palpitation.  there is no tenderness with flexion or extension of the hip.  left hip is tender with internal and external rotation (worse with internal rotation).  her crp is mildly elevated and sedimentation rate is 23.  she is obese.
-discharged in good condition.
-there is a previous slipped capital femoral epiphysis on the left with sclerosis.  the alpha angle on the left is 75 degrees.  there is mild joint space narrowing on left anterior with sclerosis and cystic change (anterior acetabulum).  a small osteophyte is present extending from the anterolateral aspect of acetabulum.
-femoroacetabular impingement (fai)
-hip dysplasia, lumbar spine pain, lumbar radiculopathy, sacroiliitis, trochanteric burisits, piriformis syndrome, psychosomatic pain disorder, iliopsoas tendinitis, groin pull, quadriceps hernia/strain, endometriosis
-a 15 year old girl presents with pain in the left hip for the last 4 ‚Äì 5 days.  she has a history of scfe on the right hip which had been repaired 3 years ago.  she says the pain is not the same as the scfe, and that her left hip is ‚Äújust hanging there.‚Äù  it does not hurt when there is no weight bearing on it.
-
-
-Keywords by value: 
-- hip: 0.4143928101928125
-- is: 0.2743603563886913
-- the: 0.18452597344304783
-- scfe: 0.18427120241781642
-- left: 0.18401872351054577
-- acetabulum: 0.16915066521063707
-- there: 0.15331866975554767
-- she: 0.13762402088854733
-- rotation: 0.13724468150495434
-- lumbar: 0.12445668570663698
-- burisits: 0.12324294692887083
-- psychosomatic: 0.12324294692887083
-- piriformis: 0.11776521525516226
-- on: 0.11637404147373491
-- palpitation: 0.11387870278167252
-- fai: 0.11387870278167252
-- tender: 0.11267724558940037
-- femoroacetabular: 0.11086408950330484
-- hanging: 0.11086408950330484
-- pain: 0.11030608752262235
-- sclerosis: 0.1097827619270095
-- hurt: 0.10631843417808286
-- internal: 0.10387388967700321
-- sacroiliitis: 0.10292323943425537
-- iliopsoas: 0.10292323943425537
-- trochanteric: 0.10021222878861205
-- tendinitis: 0.10021222878861205
-- her: 0.09629108277583938
-- says: 0.09602211368239795
-- pull: 0.09355899528705705
-- endometriosis: 0.09147645835717597
-- with: 0.09054118059237617
-- sedimentation: 0.09024745250457332
-- capital: 0.08859112595620794
-- quadriceps: 0.08758994588368622
-- anterolateral: 0.08665786953519963
-- slipped: 0.08621488727245738
-- anterior: 0.08605665107468541
-- osteophyte: 0.08578597034007758
-- repaired: 0.08496694694080176
-- crp: 0.08243776607351366
-- alpha: 0.08118013786149104
-- obese: 0.0797567437833422
-- groin: 0.0797567437833422
-- it: 0.07889650290704567
-- impingement: 0.07798658489967548
-- epiphysis: 0.07621226853064193
-- radiculopathy: 0.07580285087794199
-- bearing: 0.07580285087794199
-- degrees: 0.0719668421963256
-- angle: 0.06759579025260677
-- 75: 0.06759579025260677
-- discharged: 0.06613948568658018
-- flexion: 0.06546626284546211
-- disorder: 0.06518770145918966
-- worse: 0.06455922774342744
-- and: 0.06369775951051565
-- good: 0.0626787095101188
-- last: 0.0626787095101188
-- external: 0.06230236905822163
-- mildly: 0.06222834285331849
-- just: 0.0616502975223236
-- condition: 0.06157975037197237
-- same: 0.0609608750570351
-- not: 0.060846479858196696
-- upon: 0.060628923501956936
-- narrowing: 0.05974063892145111
-- dysplasia: 0.0590231385336502
-- rate: 0.05839731197153471
-- change: 0.05839731197153471
-- previous: 0.058231546105408455
-- femoral: 0.05727752052611021
-- ago: 0.05638644496354863
-- extension: 0.05455256073251329
-- girl: 0.05405974930517768
-- weight: 0.05374092038211025
-- does: 0.05327635603273343
-- elevated: 0.05253591053686932
-- extending: 0.05225073375084361
-- 15: 0.05207550757720272
-- space: 0.051297509865673295
-- spine: 0.05090871328984005
-- joint: 0.05078156177623908
-- no: 0.0501210110137313
-- aspect: 0.04971725192252055
-- days: 0.04878517557403395
-- tenderness: 0.04832899375128432
-- years: 0.04723952049320449
-- when: 0.04655143023679762
-- syndrome: 0.04645921316479303
-- cystic: 0.04641333961106305
-- of: 0.04524355728149334
-- been: 0.04489866310054422
-- mild: 0.04368568621789727
-- small: 0.039752475638481805
-- present: 0.039544308983803664
-- had: 0.03839637808102209
-- in: 0.03834230379394722
-- presents: 0.037072012769772275
-- has: 0.03520082796514967
-- which: 0.03504200469768224
-- that: 0.03344311230644615
-- as: 0.030959553349516458
-- from: 0.030606760757160907
-- history: 0.02944310854729446
-- or: 0.02680937480162599
-- right: 0.025550077497758908
-- year: 0.02374976826615237
-- for: 0.02335766503157769
-- old: 0.02280799872181329
+\-\ Texto\\:\\ \ \(0\)\
+\-\ the\\ left\\ hip\\ is\\ tender\\ upon\\ palpitation\\.\\ \\ there\\ is\\ no\\ tenderness\\ with\\ flexion\\ or\\ extension\\ of\\ the\\ hip\\.\\ \\ left\\ hip\\ is\\ tender\\ with\\ internal\\ and\\ external\\ rotation\\ \\(worse\\ with\\ internal\\ rotation\\)\\.\\ \\ her\\ crp\\ is\\ mildly\\ elevated\\ and\\ sedimentation\\ rate\\ is\\ 23\\.\\ \\ she\\ is\\ obese\\.\ \(0\)\
+\-\ discharged\\ in\\ good\\ condition\\.\ \(0\)\
+\-\ there\\ is\\ a\\ previous\\ slipped\\ capital\\ femoral\\ epiphysis\\ on\\ the\\ left\\ with\\ sclerosis\\.\\ \\ the\\ alpha\\ angle\\ on\\ the\\ left\\ is\\ 75\\ degrees\\.\\ \\ there\\ is\\ mild\\ joint\\ space\\ narrowing\\ on\\ left\\ anterior\\ with\\ sclerosis\\ and\\ cystic\\ change\\ \\(anterior\\ acetabulum\\)\\.\\ \\ a\\ small\\ osteophyte\\ is\\ present\\ extending\\ from\\ the\\ anterolateral\\ aspect\\ of\\ acetabulum\\.\ \(0\)\
+\-\ femoroacetabular\\ impingement\\ \\(fai\\)\ \(0\)\
+\-\ hip\\ dysplasia\\,\\ lumbar\\ spine\\ pain\\,\\ lumbar\\ radiculopathy\\,\\ sacroiliitis\\,\\ trochanteric\\ burisits\\,\\ piriformis\\ syndrome\\,\\ psychosomatic\\ pain\\ disorder\\,\\ iliopsoas\\ tendinitis\\,\\ groin\\ pull\\,\\ quadriceps\\ hernia\\/strain\\,\\ endometriosis\ \(0\)\
+\-\ a\\ 15\\ year\\ old\\ girl\\ presents\\ with\\ pain\\ in\\ the\\ left\\ hip\\ for\\ the\\ last\\ 4\\ \\‚\\Ä\\ì\\ 5\\ days\\.\\ \\ she\\ has\\ a\\ history\\ of\\ scfe\\ on\\ the\\ right\\ hip\\ which\\ had\\ been\\ repaired\\ 3\\ years\\ ago\\.\\ \\ she\\ says\\ the\\ pain\\ is\\ not\\ the\\ same\\ as\\ the\\ scfe\\,\\ and\\ that\\ her\\ left\\ hip\\ is\\ \\‚\\Ä\\újust\\ hanging\\ there\\.\\‚\\Ä\\ù\\ \\ it\\ does\\ not\\ hurt\\ when\\ there\\ is\\ no\\ weight\\ bearing\\ on\\ it\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ hip\\:\\ 0\\.4143928101928125\ \(0\)\
+\-\ is\\:\\ 0\\.2743603563886913\ \(0\)\
+\-\ the\\:\\ 0\\.18452597344304783\ \(0\)\
+\-\ scfe\\:\\ 0\\.18427120241781642\ \(0\)\
+\-\ left\\:\\ 0\\.18401872351054577\ \(0\)\
+\-\ acetabulum\\:\\ 0\\.16915066521063707\ \(0\)\
+\-\ there\\:\\ 0\\.15331866975554767\ \(0\)\
+\-\ she\\:\\ 0\\.13762402088854733\ \(0\)\
+\-\ rotation\\:\\ 0\\.13724468150495434\ \(0\)\
+\-\ lumbar\\:\\ 0\\.12445668570663698\ \(0\)\
+\-\ burisits\\:\\ 0\\.12324294692887083\ \(0\)\
+\-\ psychosomatic\\:\\ 0\\.12324294692887083\ \(0\)\
+\-\ piriformis\\:\\ 0\\.11776521525516226\ \(0\)\
+\-\ on\\:\\ 0\\.11637404147373491\ \(0\)\
+\-\ palpitation\\:\\ 0\\.11387870278167252\ \(0\)\
+\-\ fai\\:\\ 0\\.11387870278167252\ \(0\)\
+\-\ tender\\:\\ 0\\.11267724558940037\ \(0\)\
+\-\ femoroacetabular\\:\\ 0\\.11086408950330484\ \(0\)\
+\-\ hanging\\:\\ 0\\.11086408950330484\ \(0\)\
+\-\ pain\\:\\ 0\\.11030608752262235\ \(0\)\
+\-\ sclerosis\\:\\ 0\\.1097827619270095\ \(0\)\
+\-\ hurt\\:\\ 0\\.10631843417808286\ \(0\)\
+\-\ internal\\:\\ 0\\.10387388967700321\ \(0\)\
+\-\ sacroiliitis\\:\\ 0\\.10292323943425537\ \(0\)\
+\-\ iliopsoas\\:\\ 0\\.10292323943425537\ \(0\)\
+\-\ trochanteric\\:\\ 0\\.10021222878861205\ \(0\)\
+\-\ tendinitis\\:\\ 0\\.10021222878861205\ \(0\)\
+\-\ her\\:\\ 0\\.09629108277583938\ \(0\)\
+\-\ says\\:\\ 0\\.09602211368239795\ \(0\)\
+\-\ pull\\:\\ 0\\.09355899528705705\ \(0\)\
+\-\ endometriosis\\:\\ 0\\.09147645835717597\ \(0\)\
+\-\ with\\:\\ 0\\.09054118059237617\ \(0\)\
+\-\ sedimentation\\:\\ 0\\.09024745250457332\ \(0\)\
+\-\ capital\\:\\ 0\\.08859112595620794\ \(0\)\
+\-\ quadriceps\\:\\ 0\\.08758994588368622\ \(0\)\
+\-\ anterolateral\\:\\ 0\\.08665786953519963\ \(0\)\
+\-\ slipped\\:\\ 0\\.08621488727245738\ \(0\)\
+\-\ anterior\\:\\ 0\\.08605665107468541\ \(0\)\
+\-\ osteophyte\\:\\ 0\\.08578597034007758\ \(0\)\
+\-\ repaired\\:\\ 0\\.08496694694080176\ \(0\)\
+\-\ crp\\:\\ 0\\.08243776607351366\ \(0\)\
+\-\ alpha\\:\\ 0\\.08118013786149104\ \(0\)\
+\-\ obese\\:\\ 0\\.0797567437833422\ \(0\)\
+\-\ groin\\:\\ 0\\.0797567437833422\ \(0\)\
+\-\ it\\:\\ 0\\.07889650290704567\ \(0\)\
+\-\ impingement\\:\\ 0\\.07798658489967548\ \(0\)\
+\-\ epiphysis\\:\\ 0\\.07621226853064193\ \(0\)\
+\-\ radiculopathy\\:\\ 0\\.07580285087794199\ \(0\)\
+\-\ bearing\\:\\ 0\\.07580285087794199\ \(0\)\
+\-\ degrees\\:\\ 0\\.0719668421963256\ \(0\)\
+\-\ angle\\:\\ 0\\.06759579025260677\ \(0\)\
+\-\ 75\\:\\ 0\\.06759579025260677\ \(0\)\
+\-\ discharged\\:\\ 0\\.06613948568658018\ \(0\)\
+\-\ flexion\\:\\ 0\\.06546626284546211\ \(0\)\
+\-\ disorder\\:\\ 0\\.06518770145918966\ \(0\)\
+\-\ worse\\:\\ 0\\.06455922774342744\ \(0\)\
+\-\ and\\:\\ 0\\.06369775951051565\ \(0\)\
+\-\ good\\:\\ 0\\.0626787095101188\ \(0\)\
+\-\ last\\:\\ 0\\.0626787095101188\ \(0\)\
+\-\ external\\:\\ 0\\.06230236905822163\ \(0\)\
+\-\ mildly\\:\\ 0\\.06222834285331849\ \(0\)\
+\-\ just\\:\\ 0\\.0616502975223236\ \(0\)\
+\-\ condition\\:\\ 0\\.06157975037197237\ \(0\)\
+\-\ same\\:\\ 0\\.0609608750570351\ \(0\)\
+\-\ not\\:\\ 0\\.060846479858196696\ \(0\)\
+\-\ upon\\:\\ 0\\.060628923501956936\ \(0\)\
+\-\ narrowing\\:\\ 0\\.05974063892145111\ \(0\)\
+\-\ dysplasia\\:\\ 0\\.0590231385336502\ \(0\)\
+\-\ rate\\:\\ 0\\.05839731197153471\ \(0\)\
+\-\ change\\:\\ 0\\.05839731197153471\ \(0\)\
+\-\ previous\\:\\ 0\\.058231546105408455\ \(0\)\
+\-\ femoral\\:\\ 0\\.05727752052611021\ \(0\)\
+\-\ ago\\:\\ 0\\.05638644496354863\ \(0\)\
+\-\ extension\\:\\ 0\\.05455256073251329\ \(0\)\
+\-\ girl\\:\\ 0\\.05405974930517768\ \(0\)\
+\-\ weight\\:\\ 0\\.05374092038211025\ \(0\)\
+\-\ does\\:\\ 0\\.05327635603273343\ \(0\)\
+\-\ elevated\\:\\ 0\\.05253591053686932\ \(0\)\
+\-\ extending\\:\\ 0\\.05225073375084361\ \(0\)\
+\-\ 15\\:\\ 0\\.05207550757720272\ \(0\)\
+\-\ space\\:\\ 0\\.051297509865673295\ \(0\)\
+\-\ spine\\:\\ 0\\.05090871328984005\ \(0\)\
+\-\ joint\\:\\ 0\\.05078156177623908\ \(0\)\
+\-\ no\\:\\ 0\\.0501210110137313\ \(0\)\
+\-\ aspect\\:\\ 0\\.04971725192252055\ \(0\)\
+\-\ days\\:\\ 0\\.04878517557403395\ \(0\)\
+\-\ tenderness\\:\\ 0\\.04832899375128432\ \(0\)\
+\-\ years\\:\\ 0\\.04723952049320449\ \(0\)\
+\-\ when\\:\\ 0\\.04655143023679762\ \(0\)\
+\-\ syndrome\\:\\ 0\\.04645921316479303\ \(0\)\
+\-\ cystic\\:\\ 0\\.04641333961106305\ \(0\)\
+\-\ of\\:\\ 0\\.04524355728149334\ \(0\)\
+\-\ been\\:\\ 0\\.04489866310054422\ \(0\)\
+\-\ mild\\:\\ 0\\.04368568621789727\ \(0\)\
+\-\ small\\:\\ 0\\.039752475638481805\ \(0\)\
+\-\ present\\:\\ 0\\.039544308983803664\ \(0\)\
+\-\ had\\:\\ 0\\.03839637808102209\ \(0\)\
+\-\ in\\:\\ 0\\.03834230379394722\ \(0\)\
+\-\ presents\\:\\ 0\\.037072012769772275\ \(0\)\
+\-\ has\\:\\ 0\\.03520082796514967\ \(0\)\
+\-\ which\\:\\ 0\\.03504200469768224\ \(0\)\
+\-\ that\\:\\ 0\\.03344311230644615\ \(0\)\
+\-\ as\\:\\ 0\\.030959553349516458\ \(0\)\
+\-\ from\\:\\ 0\\.030606760757160907\ \(0\)\
+\-\ history\\:\\ 0\\.02944310854729446\ \(0\)\
+\-\ or\\:\\ 0\\.02680937480162599\ \(0\)\
+\-\ right\\:\\ 0\\.025550077497758908\ \(0\)\
+\-\ year\\:\\ 0\\.02374976826615237\ \(0\)\
+\-\ for\\:\\ 0\\.02335766503157769\ \(0\)\
+\-\ old\\:\\ 0\\.02280799872181329\ \(0\)\

@@ -1,81 +1,79 @@
-Texto: 
-laboratory examination was remarkable for elevated alkaline phosphatase.
-the medical management and possibility of malignant degeneration requires periodic clinical followup often with radiographs.
-radiograph over the pelvis demonstrates cortical thickening and osseous expansion of the left proximal femur.  delayed scintigraphic images after injection with tc99m mdp demonstrates intensely increased radiotracer uptake in the left femur.
-paget's disease
-paget's disease
-fibrous dysplasia
-malignancy
-67 year old male patient with chronic left hip and knee pain.
-this case demonstrates the characteristic radiographic and scintigraphic imaging features of paget's disease.
-
-
-Keywords by value: 
-- paget: 0.14806190562689933
-- scintigraphic: 0.11499336579087852
-- femur: 0.07690738426173414
-- tc99m: 0.06361946065483633
-- intensely: 0.061720277771565975
-- mdp: 0.061157077550000605
-- 's: 0.05887645682397016
-- demonstrates: 0.05833191255166206
-- phosphatase: 0.05829836040727393
-- alkaline: 0.056752318687291914
-- periodic: 0.056752318687291914
-- 67: 0.05340248926929751
-- remarkable: 0.04834511618823813
-- requires: 0.04727971150990044
-- degeneration: 0.04518939176550303
-- possibility: 0.04495529951704409
-- expansion: 0.0438577941456084
-- disease: 0.043648048162990755
-- followup: 0.042492916412208356
-- injection: 0.041533382152752055
-- radiotracer: 0.041533382152752055
-- osseous: 0.037793048105476484
-- characteristic: 0.037677306173965336
-- features: 0.03756283615755289
-- delayed: 0.036228961919428954
-- fibrous: 0.03598152352351117
-- hip: 0.03545700387616102
-- uptake: 0.03536441067389804
-- dysplasia: 0.035136465765049
-- malignancy: 0.03439676747709912
-- radiographic: 0.03378504574779931
-- management: 0.03358886920266293
-- laboratory: 0.03280303891514652
-- cortical: 0.0324486963601647
-- pelvis: 0.03234470215199613
-- knee: 0.03227594502666954
-- malignant: 0.03217365287895105
-- elevated: 0.030201212097490236
-- thickening: 0.030173172600972412
-- left: 0.029878289664778585
-- often: 0.028400766130413042
-- radiograph: 0.02835363181168086
-- radiographs: 0.028190321262522217
-- examination: 0.027671073286193386
-- medical: 0.027388643750687544
-- clinical: 0.027388643750687544
-- proximal: 0.026724408142781406
-- chronic: 0.025072808676114583
-- over: 0.022662943647291274
-- increased: 0.021775883143746413
-- imaging: 0.020854935671412528
-- case: 0.019474004509034068
-- after: 0.018416679193845858
-- images: 0.017075665541139103
-- male: 0.016095891019661177
-- pain: 0.010870918411778487
-- was: 0.010294557523059238
-- this: 0.010011845972022218
-- year: 0.009959429888259527
-- old: 0.009113902050648486
-- patient: 0.008922832613712375
-- for: 0.007594876548361615
-- and: 0.0075003752388424355
-- the: 0.007200483578313844
-- in: 0.004389554480627655
-- with: 0.0036563805028090542
-- of: 0.0036407437749371384
-- .: 0.002218721006084142
+\-\ Texto\\:\\ \ \(0\)\
+\-\ laboratory\\ examination\\ was\\ remarkable\\ for\\ elevated\\ alkaline\\ phosphatase\\.\ \(0\)\
+\-\ the\\ medical\\ management\\ and\\ possibility\\ of\\ malignant\\ degeneration\\ requires\\ periodic\\ clinical\\ followup\\ often\\ with\\ radiographs\\.\ \(0\)\
+\-\ radiograph\\ over\\ the\\ pelvis\\ demonstrates\\ cortical\\ thickening\\ and\\ osseous\\ expansion\\ of\\ the\\ left\\ proximal\\ femur\\.\\ \\ delayed\\ scintigraphic\\ images\\ after\\ injection\\ with\\ tc99m\\ mdp\\ demonstrates\\ intensely\\ increased\\ radiotracer\\ uptake\\ in\\ the\\ left\\ femur\\.\ \(0\)\
+\-\ paget\\'s\\ disease\ \(1\)\
+\-\ paget\\'s\\ disease\ \(1\)\
+\-\ fibrous\\ dysplasia\ \(50\)\
+\-\ malignancy\ \(256\)\
+\-\ 67\\ year\\ old\\ male\\ patient\\ with\\ chronic\\ left\\ hip\\ and\\ knee\\ pain\\.\ \(1\)\
+\-\ this\\ case\\ demonstrates\\ the\\ characteristic\\ radiographic\\ and\\ scintigraphic\\ imaging\\ features\\ of\\ paget\\'s\\ disease\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ paget\\:\\ 0\\.14806190562689933\ \(0\)\
+\-\ scintigraphic\\:\\ 0\\.11499336579087852\ \(0\)\
+\-\ femur\\:\\ 0\\.07690738426173414\ \(0\)\
+\-\ tc99m\\:\\ 0\\.06361946065483633\ \(0\)\
+\-\ intensely\\:\\ 0\\.061720277771565975\ \(0\)\
+\-\ mdp\\:\\ 0\\.061157077550000605\ \(0\)\
+\-\ \\'s\\:\\ 0\\.05887645682397016\ \(0\)\
+\-\ demonstrates\\:\\ 0\\.05833191255166206\ \(0\)\
+\-\ phosphatase\\:\\ 0\\.05829836040727393\ \(0\)\
+\-\ alkaline\\:\\ 0\\.056752318687291914\ \(0\)\
+\-\ periodic\\:\\ 0\\.056752318687291914\ \(0\)\
+\-\ 67\\:\\ 0\\.05340248926929751\ \(0\)\
+\-\ remarkable\\:\\ 0\\.04834511618823813\ \(0\)\
+\-\ requires\\:\\ 0\\.04727971150990044\ \(0\)\
+\-\ degeneration\\:\\ 0\\.04518939176550303\ \(0\)\
+\-\ possibility\\:\\ 0\\.04495529951704409\ \(0\)\
+\-\ expansion\\:\\ 0\\.0438577941456084\ \(0\)\
+\-\ disease\\:\\ 0\\.043648048162990755\ \(0\)\
+\-\ followup\\:\\ 0\\.042492916412208356\ \(0\)\
+\-\ injection\\:\\ 0\\.041533382152752055\ \(0\)\
+\-\ radiotracer\\:\\ 0\\.041533382152752055\ \(0\)\
+\-\ osseous\\:\\ 0\\.037793048105476484\ \(0\)\
+\-\ characteristic\\:\\ 0\\.037677306173965336\ \(0\)\
+\-\ features\\:\\ 0\\.03756283615755289\ \(0\)\
+\-\ delayed\\:\\ 0\\.036228961919428954\ \(0\)\
+\-\ fibrous\\:\\ 0\\.03598152352351117\ \(0\)\
+\-\ hip\\:\\ 0\\.03545700387616102\ \(0\)\
+\-\ uptake\\:\\ 0\\.03536441067389804\ \(0\)\
+\-\ dysplasia\\:\\ 0\\.035136465765049\ \(0\)\
+\-\ malignancy\\:\\ 0\\.03439676747709912\ \(0\)\
+\-\ radiographic\\:\\ 0\\.03378504574779931\ \(0\)\
+\-\ management\\:\\ 0\\.03358886920266293\ \(0\)\
+\-\ laboratory\\:\\ 0\\.03280303891514652\ \(0\)\
+\-\ cortical\\:\\ 0\\.0324486963601647\ \(0\)\
+\-\ pelvis\\:\\ 0\\.03234470215199613\ \(0\)\
+\-\ knee\\:\\ 0\\.03227594502666954\ \(0\)\
+\-\ malignant\\:\\ 0\\.03217365287895105\ \(0\)\
+\-\ elevated\\:\\ 0\\.030201212097490236\ \(0\)\
+\-\ thickening\\:\\ 0\\.030173172600972412\ \(0\)\
+\-\ left\\:\\ 0\\.029878289664778585\ \(0\)\
+\-\ often\\:\\ 0\\.028400766130413042\ \(0\)\
+\-\ radiograph\\:\\ 0\\.02835363181168086\ \(0\)\
+\-\ radiographs\\:\\ 0\\.028190321262522217\ \(0\)\
+\-\ examination\\:\\ 0\\.027671073286193386\ \(0\)\
+\-\ medical\\:\\ 0\\.027388643750687544\ \(0\)\
+\-\ clinical\\:\\ 0\\.027388643750687544\ \(0\)\
+\-\ proximal\\:\\ 0\\.026724408142781406\ \(0\)\
+\-\ chronic\\:\\ 0\\.025072808676114583\ \(0\)\
+\-\ over\\:\\ 0\\.022662943647291274\ \(0\)\
+\-\ increased\\:\\ 0\\.021775883143746413\ \(0\)\
+\-\ imaging\\:\\ 0\\.020854935671412528\ \(0\)\
+\-\ case\\:\\ 0\\.019474004509034068\ \(0\)\
+\-\ after\\:\\ 0\\.018416679193845858\ \(0\)\
+\-\ images\\:\\ 0\\.017075665541139103\ \(0\)\
+\-\ male\\:\\ 0\\.016095891019661177\ \(0\)\
+\-\ pain\\:\\ 0\\.010870918411778487\ \(0\)\
+\-\ was\\:\\ 0\\.010294557523059238\ \(0\)\
+\-\ this\\:\\ 0\\.010011845972022218\ \(0\)\
+\-\ year\\:\\ 0\\.009959429888259527\ \(0\)\
+\-\ old\\:\\ 0\\.009113902050648486\ \(0\)\
+\-\ patient\\:\\ 0\\.008922832613712375\ \(0\)\
+\-\ for\\:\\ 0\\.007594876548361615\ \(0\)\
+\-\ and\\:\\ 0\\.0075003752388424355\ \(0\)\
+\-\ the\\:\\ 0\\.007200483578313844\ \(0\)\
+\-\ in\\:\\ 0\\.004389554480627655\ \(0\)\
+\-\ with\\:\\ 0\\.0036563805028090542\ \(0\)\
+\-\ of\\:\\ 0\\.0036407437749371384\ \(0\)\
+\-\ \\.\\:\\ 0\\.002218721006084142\ \(0\)\

@@ -1,126 +1,123 @@
-Texto: 
-physical examination is normal. abnormal ekg with a rbbb and suggestion of rv hypertrophy.  echocardiogram showed normal ef and no asd.  referred for coronary cta to rule out left to right shunt (e.g., anomalous pulmonary venous return) and evaluate coronary artery anatomy.
-surgical reimplantation or bypass grafting is curative.
-an ectopic right coronary artery originates anterior to the left main coronary artery from the left coronary (anterior) sinus of valsalva. it courses between the infundibulum and the aorta.
-
-there is a reduction in the caliber of the origin of the right coronary artery  due to fibroplasia of the vessel wall from vascular entrapment syndrome.
-anomalous origin of the right coronary artery
-no radiographic differential diagnosis.
-28-year-old male with continuing atypical chest pain syndrome.  specifically notes chest pain while lifting weights. patient reports a family history of sudden death but otherwise no specific cardiac risk factors.
-this anatomic varient is a common sudden cardiac death amoung athletes.  sudden surges in cardiac output increase the pressure within and the distention of the aorta and the infundibulum.  when this occurs, the lumen of the proximal right coronary artery can be suddenly completely obliterated.
-
-
-Keywords by value: 
-- coronary: 0.5549274597142217
-- artery: 0.2554290167224258
-- the: 0.20516054505114031
-- sudden: 0.17782551269205188
-- infundibulum: 0.17081562069524933
-- cardiac: 0.15270186463264782
-- anomalous: 0.14336787179376861
-- death: 0.1344911303102793
-- of: 0.12072697667947786
-- origin: 0.11801025711873739
-- right: 0.11362883452625588
-- aorta: 0.11136498909268579
-- rbbb: 0.10961964733247591
-- amoung: 0.10961964733247591
-- surges: 0.10474742519549289
-- fibroplasia: 0.10129052857533093
-- varient: 0.09860915124175267
-- ef: 0.09456597355034763
-- rv: 0.0915460843013649
-- weights: 0.09028003248460768
-- reimplantation: 0.08913474930576858
-- athletes: 0.08808918768120294
-- obliterated: 0.08808918768120294
-- suddenly: 0.08540781034762467
-- and: 0.0849848949665435
-- syndrome: 0.08264720520531285
-- originates: 0.08136463265621964
-- valsalva: 0.0808056305486236
-- output: 0.0808056305486236
-- curative: 0.08027148135231901
-- continuing: 0.08027148135231901
-- courses: 0.07976006892405797
-- grafting: 0.07926953639388443
-- notes: 0.07926953639388443
-- lifting: 0.07668467667419913
-- anterior: 0.07654393193685521
-- asd: 0.07593340841164058
-- bypass: 0.0752263587024794
-- is: 0.07508692573064603
-- entrapment: 0.07423815460126072
-- suggestion: 0.07392602332943965
-- ekg: 0.07332507919557674
-- chest: 0.0723638873091589
-- echocardiogram: 0.07220646945349668
-- caliber: 0.07194236259517403
-- left: 0.07014739612102674
-- specifically: 0.06895153352559266
-- to: 0.06854525558668591
-- no: 0.06687093689560202
-- distention: 0.06655872802992999
-- shunt: 0.06499596043843177
-- anatomy: 0.06499596043843177
-- hypertrophy: 0.06456418782156136
-- cta: 0.06456418782156136
-- return: 0.06387735069635171
-- anatomic: 0.06361324383802906
-- completely: 0.06124949852176772
-- lumen: 0.061036813707132744
-- ectopic: 0.06062241476844768
-- vessel: 0.06012373830144875
-- reduction: 0.05983417300494668
-- main: 0.05973918137725497
-- factors: 0.05798184011694637
-- atypical: 0.05623506906441639
-- normal: 0.05597357627829878
-- increase: 0.05502569838259436
-- from: 0.05444696680493733
-- rule: 0.05440294876036762
-- occurs: 0.054044224261011645
-- family: 0.05392699037185439
-- evaluate: 0.05330188413492588
-- reports: 0.05330188413492588
-- pressure: 0.052191891373011355
-- specific: 0.05194206161898095
-- radiographic: 0.05085536206198746
-- referred: 0.050720597528060817
-- sinus: 0.0495307266233846
-- pain: 0.04905641545488914
-- risk: 0.04897724294450825
-- venous: 0.04893866705800474
-- otherwise: 0.04886188482662373
-- this: 0.04710713856742159
-- showed: 0.045656345590563537
-- vascular: 0.04525288012064924
-- out: 0.0450561163130812
-- between: 0.04453773584848347
-- differential: 0.04453773584848347
-- while: 0.04429977998704562
-- examination: 0.04386277261586637
-- proximal: 0.04282352377228435
-- pulmonary: 0.041781821591569436
-- wall: 0.04169719885926451
-- when: 0.04140562598138179
-- abnormal: 0.0411813952822881
-- due: 0.03940140685317781
-- common: 0.03887331658972611
-- physical: 0.0371671031296145
-- can: 0.03597066122990065
-- diagnosis: 0.0355336538587214
-- it: 0.03508763397806251
-- in: 0.03410393799032517
-- but: 0.03389600232687638
-- surgical: 0.03331549192923246
-- within: 0.03157007908509571
-- male: 0.030519224401370063
-- be: 0.027806288381023756
-- there: 0.02727415876835113
-- with: 0.02684424689317249
-- an: 0.026211681598742043
-- history: 0.026188461536780592
-- or: 0.0238458612374349
-- patient: 0.022294505765101044
-- for: 0.020775704144346773
+\-\ Texto\\:\\ \ \(0\)\
+\-\ physical\\ examination\\ is\\ normal\\.\\ abnormal\\ ekg\\ with\\ a\\ rbbb\\ and\\ suggestion\\ of\\ rv\\ hypertrophy\\.\\ \\ echocardiogram\\ showed\\ normal\\ ef\\ and\\ no\\ asd\\.\\ \\ referred\\ for\\ coronary\\ cta\\ to\\ rule\\ out\\ left\\ to\\ right\\ shunt\\ \\(e\\.g\\.\\,\\ anomalous\\ pulmonary\\ venous\\ return\\)\\ and\\ evaluate\\ coronary\\ artery\\ anatomy\\.\ \(0\)\
+\-\ surgical\\ reimplantation\\ or\\ bypass\\ grafting\\ is\\ curative\\.\ \(0\)\
+\-\ an\\ ectopic\\ right\\ coronary\\ artery\\ originates\\ anterior\\ to\\ the\\ left\\ main\\ coronary\\ artery\\ from\\ the\\ left\\ coronary\\ \\(anterior\\)\\ sinus\\ of\\ valsalva\\.\\ it\\ courses\\ between\\ the\\ infundibulum\\ and\\ the\\ aorta\\.\ \(0\)\
+\-\ there\\ is\\ a\\ reduction\\ in\\ the\\ caliber\\ of\\ the\\ origin\\ of\\ the\\ right\\ coronary\\ artery\\ \\ due\\ to\\ fibroplasia\\ of\\ the\\ vessel\\ wall\\ from\\ vascular\\ entrapment\\ syndrome\\.\ \(0\)\
+\-\ anomalous\\ origin\\ of\\ the\\ right\\ coronary\\ artery\ \(1\)\
+\-\ no\\ radiographic\\ differential\\ diagnosis\\.\ \(0\)\
+\-\ 28\\-year\\-old\\ male\\ with\\ continuing\\ atypical\\ chest\\ pain\\ syndrome\\.\\ \\ specifically\\ notes\\ chest\\ pain\\ while\\ lifting\\ weights\\.\\ patient\\ reports\\ a\\ family\\ history\\ of\\ sudden\\ death\\ but\\ otherwise\\ no\\ specific\\ cardiac\\ risk\\ factors\\.\ \(0\)\
+\-\ this\\ anatomic\\ varient\\ is\\ a\\ common\\ sudden\\ cardiac\\ death\\ amoung\\ athletes\\.\\ \\ sudden\\ surges\\ in\\ cardiac\\ output\\ increase\\ the\\ pressure\\ within\\ and\\ the\\ distention\\ of\\ the\\ aorta\\ and\\ the\\ infundibulum\\.\\ \\ when\\ this\\ occurs\\,\\ the\\ lumen\\ of\\ the\\ proximal\\ right\\ coronary\\ artery\\ can\\ be\\ suddenly\\ completely\\ obliterated\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ coronary\\:\\ 0\\.5549274597142217\ \(0\)\
+\-\ artery\\:\\ 0\\.2554290167224258\ \(0\)\
+\-\ the\\:\\ 0\\.20516054505114031\ \(0\)\
+\-\ sudden\\:\\ 0\\.17782551269205188\ \(0\)\
+\-\ infundibulum\\:\\ 0\\.17081562069524933\ \(0\)\
+\-\ cardiac\\:\\ 0\\.15270186463264782\ \(0\)\
+\-\ anomalous\\:\\ 0\\.14336787179376861\ \(0\)\
+\-\ death\\:\\ 0\\.1344911303102793\ \(0\)\
+\-\ of\\:\\ 0\\.12072697667947786\ \(0\)\
+\-\ origin\\:\\ 0\\.11801025711873739\ \(0\)\
+\-\ right\\:\\ 0\\.11362883452625588\ \(0\)\
+\-\ aorta\\:\\ 0\\.11136498909268579\ \(0\)\
+\-\ rbbb\\:\\ 0\\.10961964733247591\ \(0\)\
+\-\ amoung\\:\\ 0\\.10961964733247591\ \(0\)\
+\-\ surges\\:\\ 0\\.10474742519549289\ \(0\)\
+\-\ fibroplasia\\:\\ 0\\.10129052857533093\ \(0\)\
+\-\ varient\\:\\ 0\\.09860915124175267\ \(0\)\
+\-\ ef\\:\\ 0\\.09456597355034763\ \(0\)\
+\-\ rv\\:\\ 0\\.0915460843013649\ \(0\)\
+\-\ weights\\:\\ 0\\.09028003248460768\ \(0\)\
+\-\ reimplantation\\:\\ 0\\.08913474930576858\ \(0\)\
+\-\ athletes\\:\\ 0\\.08808918768120294\ \(0\)\
+\-\ obliterated\\:\\ 0\\.08808918768120294\ \(0\)\
+\-\ suddenly\\:\\ 0\\.08540781034762467\ \(0\)\
+\-\ and\\:\\ 0\\.0849848949665435\ \(0\)\
+\-\ syndrome\\:\\ 0\\.08264720520531285\ \(0\)\
+\-\ originates\\:\\ 0\\.08136463265621964\ \(0\)\
+\-\ valsalva\\:\\ 0\\.0808056305486236\ \(0\)\
+\-\ output\\:\\ 0\\.0808056305486236\ \(0\)\
+\-\ curative\\:\\ 0\\.08027148135231901\ \(0\)\
+\-\ continuing\\:\\ 0\\.08027148135231901\ \(0\)\
+\-\ courses\\:\\ 0\\.07976006892405797\ \(0\)\
+\-\ grafting\\:\\ 0\\.07926953639388443\ \(0\)\
+\-\ notes\\:\\ 0\\.07926953639388443\ \(0\)\
+\-\ lifting\\:\\ 0\\.07668467667419913\ \(0\)\
+\-\ anterior\\:\\ 0\\.07654393193685521\ \(0\)\
+\-\ asd\\:\\ 0\\.07593340841164058\ \(0\)\
+\-\ bypass\\:\\ 0\\.0752263587024794\ \(0\)\
+\-\ is\\:\\ 0\\.07508692573064603\ \(0\)\
+\-\ entrapment\\:\\ 0\\.07423815460126072\ \(0\)\
+\-\ suggestion\\:\\ 0\\.07392602332943965\ \(0\)\
+\-\ ekg\\:\\ 0\\.07332507919557674\ \(0\)\
+\-\ chest\\:\\ 0\\.0723638873091589\ \(0\)\
+\-\ echocardiogram\\:\\ 0\\.07220646945349668\ \(0\)\
+\-\ caliber\\:\\ 0\\.07194236259517403\ \(0\)\
+\-\ left\\:\\ 0\\.07014739612102674\ \(0\)\
+\-\ specifically\\:\\ 0\\.06895153352559266\ \(0\)\
+\-\ to\\:\\ 0\\.06854525558668591\ \(0\)\
+\-\ no\\:\\ 0\\.06687093689560202\ \(0\)\
+\-\ distention\\:\\ 0\\.06655872802992999\ \(0\)\
+\-\ shunt\\:\\ 0\\.06499596043843177\ \(0\)\
+\-\ anatomy\\:\\ 0\\.06499596043843177\ \(0\)\
+\-\ hypertrophy\\:\\ 0\\.06456418782156136\ \(0\)\
+\-\ cta\\:\\ 0\\.06456418782156136\ \(0\)\
+\-\ return\\:\\ 0\\.06387735069635171\ \(0\)\
+\-\ anatomic\\:\\ 0\\.06361324383802906\ \(0\)\
+\-\ completely\\:\\ 0\\.06124949852176772\ \(0\)\
+\-\ lumen\\:\\ 0\\.061036813707132744\ \(0\)\
+\-\ ectopic\\:\\ 0\\.06062241476844768\ \(0\)\
+\-\ vessel\\:\\ 0\\.06012373830144875\ \(0\)\
+\-\ reduction\\:\\ 0\\.05983417300494668\ \(0\)\
+\-\ main\\:\\ 0\\.05973918137725497\ \(0\)\
+\-\ factors\\:\\ 0\\.05798184011694637\ \(0\)\
+\-\ atypical\\:\\ 0\\.05623506906441639\ \(0\)\
+\-\ normal\\:\\ 0\\.05597357627829878\ \(0\)\
+\-\ increase\\:\\ 0\\.05502569838259436\ \(0\)\
+\-\ from\\:\\ 0\\.05444696680493733\ \(0\)\
+\-\ rule\\:\\ 0\\.05440294876036762\ \(0\)\
+\-\ occurs\\:\\ 0\\.054044224261011645\ \(0\)\
+\-\ family\\:\\ 0\\.05392699037185439\ \(0\)\
+\-\ evaluate\\:\\ 0\\.05330188413492588\ \(0\)\
+\-\ reports\\:\\ 0\\.05330188413492588\ \(0\)\
+\-\ pressure\\:\\ 0\\.052191891373011355\ \(0\)\
+\-\ specific\\:\\ 0\\.05194206161898095\ \(0\)\
+\-\ radiographic\\:\\ 0\\.05085536206198746\ \(0\)\
+\-\ referred\\:\\ 0\\.050720597528060817\ \(0\)\
+\-\ sinus\\:\\ 0\\.0495307266233846\ \(0\)\
+\-\ pain\\:\\ 0\\.04905641545488914\ \(0\)\
+\-\ risk\\:\\ 0\\.04897724294450825\ \(0\)\
+\-\ venous\\:\\ 0\\.04893866705800474\ \(0\)\
+\-\ otherwise\\:\\ 0\\.04886188482662373\ \(0\)\
+\-\ this\\:\\ 0\\.04710713856742159\ \(0\)\
+\-\ showed\\:\\ 0\\.045656345590563537\ \(0\)\
+\-\ vascular\\:\\ 0\\.04525288012064924\ \(0\)\
+\-\ out\\:\\ 0\\.0450561163130812\ \(0\)\
+\-\ between\\:\\ 0\\.04453773584848347\ \(0\)\
+\-\ differential\\:\\ 0\\.04453773584848347\ \(0\)\
+\-\ while\\:\\ 0\\.04429977998704562\ \(0\)\
+\-\ examination\\:\\ 0\\.04386277261586637\ \(0\)\
+\-\ proximal\\:\\ 0\\.04282352377228435\ \(0\)\
+\-\ pulmonary\\:\\ 0\\.041781821591569436\ \(0\)\
+\-\ wall\\:\\ 0\\.04169719885926451\ \(0\)\
+\-\ when\\:\\ 0\\.04140562598138179\ \(0\)\
+\-\ abnormal\\:\\ 0\\.0411813952822881\ \(0\)\
+\-\ due\\:\\ 0\\.03940140685317781\ \(0\)\
+\-\ common\\:\\ 0\\.03887331658972611\ \(0\)\
+\-\ physical\\:\\ 0\\.0371671031296145\ \(0\)\
+\-\ can\\:\\ 0\\.03597066122990065\ \(0\)\
+\-\ diagnosis\\:\\ 0\\.0355336538587214\ \(0\)\
+\-\ it\\:\\ 0\\.03508763397806251\ \(0\)\
+\-\ in\\:\\ 0\\.03410393799032517\ \(0\)\
+\-\ but\\:\\ 0\\.03389600232687638\ \(0\)\
+\-\ surgical\\:\\ 0\\.03331549192923246\ \(0\)\
+\-\ within\\:\\ 0\\.03157007908509571\ \(0\)\
+\-\ male\\:\\ 0\\.030519224401370063\ \(0\)\
+\-\ be\\:\\ 0\\.027806288381023756\ \(0\)\
+\-\ there\\:\\ 0\\.02727415876835113\ \(0\)\
+\-\ with\\:\\ 0\\.02684424689317249\ \(0\)\
+\-\ an\\:\\ 0\\.026211681598742043\ \(0\)\
+\-\ history\\:\\ 0\\.026188461536780592\ \(0\)\
+\-\ or\\:\\ 0\\.0238458612374349\ \(0\)\
+\-\ patient\\:\\ 0\\.022294505765101044\ \(0\)\
+\-\ for\\:\\ 0\\.020775704144346773\ \(0\)\

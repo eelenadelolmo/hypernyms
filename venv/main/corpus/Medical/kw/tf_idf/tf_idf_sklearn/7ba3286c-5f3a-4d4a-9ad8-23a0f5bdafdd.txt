@@ -1,75 +1,73 @@
-Texto: 
-the patient was admitted to the hospital and continued to deteriorate clinically.  a bedside echocardiogram demonstrated right-sided heart failure.  interventional radiology was consulted, and catheter directed thrombolysis was attempted.  shortly thereafter in the medical intensive care unit, the patient went into pulseless electrical activity (pea) and shortly expired after unsuccessful cardiopulmonary resuscitation.
-contrast enhanced ct images from a pe/dvt ct protocol reveal large intraluminal filling defects in the right and left main pulmonary arteries.  notice the enlarged main pulmonary artery.
-pulmonary embolus
-76 yo female presents with respiratory distress.
-
-
-Keywords by value: 
-- shortly: 0.2536858753849114
-- pulmonary: 0.2263544058949382
-- main: 0.21575933255507723
-- pea: 0.17807278376803937
-- bedside: 0.17411645894389022
-- pulseless: 0.17411645894389022
-- deteriorate: 0.17077143396722616
-- electrical: 0.15423321621385822
-- thereafter: 0.1515172123674393
-- resuscitation: 0.1515172123674393
-- thrombolysis: 0.15027689138970904
-- intensive: 0.15027689138970904
-- the: 0.1481952087268588
-- unsuccessful: 0.14592239558626763
-- expired: 0.1449578052502224
-- cardiopulmonary: 0.1449578052502224
-- notice: 0.14403427397947094
-- consulted: 0.13406255591064362
-- unit: 0.1324136838005728
-- embolus: 0.1324136838005728
-- interventional: 0.13189077393083537
-- echocardiogram: 0.13039364865967704
-- directed: 0.13039364865967704
-- was: 0.12941884347037977
-- intraluminal: 0.12643732383552791
-- attempted: 0.12488668507354078
-- 76: 0.1217565104612735
-- protocol: 0.12080600627277491
-- went: 0.12019470642528982
-- catheter: 0.11003347003798075
-- defects: 0.10671541797906389
-- reveal: 0.10412360387242801
-- clinically: 0.10286732135699123
-- and: 0.10231299789357398
-- admitted: 0.10142451328449094
-- continued: 0.10142451328449094
-- distress: 0.09971691391385612
-- radiology: 0.09913822069840199
-- respiratory: 0.09846356398975209
-- arteries: 0.09824326047790534
-- filling: 0.09585855634203741
-- ct: 0.09425073000151847
-- enhanced: 0.09425043487217485
-- failure: 0.09397861867255577
-- hospital: 0.09143276779427552
-- activity: 0.09087937544783647
-- care: 0.08844528000276837
-- heart: 0.08606847028753427
-- enlarged: 0.08438454578937496
-- right: 0.08207839789960918
-- patient: 0.08052081686802241
-- medical: 0.07866907275167503
-- yo: 0.07733262068336962
-- artery: 0.07687750999800445
-- demonstrated: 0.07607372516178437
-- into: 0.06580093245498125
-- large: 0.06202144695121433
-- to: 0.06189103304666049
-- in: 0.061586405510185564
-- contrast: 0.06014365116404321
-- after: 0.06004918123018766
-- female: 0.05973102541267574
-- presents: 0.05954603103109291
-- images: 0.05725789644258075
-- from: 0.04916137510864198
-- left: 0.04222509420289169
-- with: 0.024238266490624365
+\-\ Texto\\:\\ \ \(0\)\
+\-\ the\\ patient\\ was\\ admitted\\ to\\ the\\ hospital\\ and\\ continued\\ to\\ deteriorate\\ clinically\\.\\ \\ a\\ bedside\\ echocardiogram\\ demonstrated\\ right\\-sided\\ heart\\ failure\\.\\ \\ interventional\\ radiology\\ was\\ consulted\\,\\ and\\ catheter\\ directed\\ thrombolysis\\ was\\ attempted\\.\\ \\ shortly\\ thereafter\\ in\\ the\\ medical\\ intensive\\ care\\ unit\\,\\ the\\ patient\\ went\\ into\\ pulseless\\ electrical\\ activity\\ \\(pea\\)\\ and\\ shortly\\ expired\\ after\\ unsuccessful\\ cardiopulmonary\\ resuscitation\\.\ \(0\)\
+\-\ contrast\\ enhanced\\ ct\\ images\\ from\\ a\\ pe\\/dvt\\ ct\\ protocol\\ reveal\\ large\\ intraluminal\\ filling\\ defects\\ in\\ the\\ right\\ and\\ left\\ main\\ pulmonary\\ arteries\\.\\ \\ notice\\ the\\ enlarged\\ main\\ pulmonary\\ artery\\.\ \(0\)\
+\-\ pulmonary\\ embolus\ \(16\)\
+\-\ 76\\ yo\\ female\\ presents\\ with\\ respiratory\\ distress\\.\ \(1\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ shortly\\:\\ 0\\.2536858753849114\ \(0\)\
+\-\ pulmonary\\:\\ 0\\.2263544058949382\ \(0\)\
+\-\ main\\:\\ 0\\.21575933255507723\ \(0\)\
+\-\ pea\\:\\ 0\\.17807278376803937\ \(0\)\
+\-\ bedside\\:\\ 0\\.17411645894389022\ \(0\)\
+\-\ pulseless\\:\\ 0\\.17411645894389022\ \(0\)\
+\-\ deteriorate\\:\\ 0\\.17077143396722616\ \(0\)\
+\-\ electrical\\:\\ 0\\.15423321621385822\ \(0\)\
+\-\ thereafter\\:\\ 0\\.1515172123674393\ \(0\)\
+\-\ resuscitation\\:\\ 0\\.1515172123674393\ \(0\)\
+\-\ thrombolysis\\:\\ 0\\.15027689138970904\ \(0\)\
+\-\ intensive\\:\\ 0\\.15027689138970904\ \(0\)\
+\-\ the\\:\\ 0\\.1481952087268588\ \(0\)\
+\-\ unsuccessful\\:\\ 0\\.14592239558626763\ \(0\)\
+\-\ expired\\:\\ 0\\.1449578052502224\ \(0\)\
+\-\ cardiopulmonary\\:\\ 0\\.1449578052502224\ \(0\)\
+\-\ notice\\:\\ 0\\.14403427397947094\ \(0\)\
+\-\ consulted\\:\\ 0\\.13406255591064362\ \(0\)\
+\-\ unit\\:\\ 0\\.1324136838005728\ \(0\)\
+\-\ embolus\\:\\ 0\\.1324136838005728\ \(0\)\
+\-\ interventional\\:\\ 0\\.13189077393083537\ \(0\)\
+\-\ echocardiogram\\:\\ 0\\.13039364865967704\ \(0\)\
+\-\ directed\\:\\ 0\\.13039364865967704\ \(0\)\
+\-\ was\\:\\ 0\\.12941884347037977\ \(0\)\
+\-\ intraluminal\\:\\ 0\\.12643732383552791\ \(0\)\
+\-\ attempted\\:\\ 0\\.12488668507354078\ \(0\)\
+\-\ 76\\:\\ 0\\.1217565104612735\ \(0\)\
+\-\ protocol\\:\\ 0\\.12080600627277491\ \(0\)\
+\-\ went\\:\\ 0\\.12019470642528982\ \(0\)\
+\-\ catheter\\:\\ 0\\.11003347003798075\ \(0\)\
+\-\ defects\\:\\ 0\\.10671541797906389\ \(0\)\
+\-\ reveal\\:\\ 0\\.10412360387242801\ \(0\)\
+\-\ clinically\\:\\ 0\\.10286732135699123\ \(0\)\
+\-\ and\\:\\ 0\\.10231299789357398\ \(0\)\
+\-\ admitted\\:\\ 0\\.10142451328449094\ \(0\)\
+\-\ continued\\:\\ 0\\.10142451328449094\ \(0\)\
+\-\ distress\\:\\ 0\\.09971691391385612\ \(0\)\
+\-\ radiology\\:\\ 0\\.09913822069840199\ \(0\)\
+\-\ respiratory\\:\\ 0\\.09846356398975209\ \(0\)\
+\-\ arteries\\:\\ 0\\.09824326047790534\ \(0\)\
+\-\ filling\\:\\ 0\\.09585855634203741\ \(0\)\
+\-\ ct\\:\\ 0\\.09425073000151847\ \(0\)\
+\-\ enhanced\\:\\ 0\\.09425043487217485\ \(0\)\
+\-\ failure\\:\\ 0\\.09397861867255577\ \(0\)\
+\-\ hospital\\:\\ 0\\.09143276779427552\ \(0\)\
+\-\ activity\\:\\ 0\\.09087937544783647\ \(0\)\
+\-\ care\\:\\ 0\\.08844528000276837\ \(0\)\
+\-\ heart\\:\\ 0\\.08606847028753427\ \(0\)\
+\-\ enlarged\\:\\ 0\\.08438454578937496\ \(0\)\
+\-\ right\\:\\ 0\\.08207839789960918\ \(0\)\
+\-\ patient\\:\\ 0\\.08052081686802241\ \(0\)\
+\-\ medical\\:\\ 0\\.07866907275167503\ \(0\)\
+\-\ yo\\:\\ 0\\.07733262068336962\ \(0\)\
+\-\ artery\\:\\ 0\\.07687750999800445\ \(0\)\
+\-\ demonstrated\\:\\ 0\\.07607372516178437\ \(0\)\
+\-\ into\\:\\ 0\\.06580093245498125\ \(0\)\
+\-\ large\\:\\ 0\\.06202144695121433\ \(0\)\
+\-\ to\\:\\ 0\\.06189103304666049\ \(0\)\
+\-\ in\\:\\ 0\\.061586405510185564\ \(0\)\
+\-\ contrast\\:\\ 0\\.06014365116404321\ \(0\)\
+\-\ after\\:\\ 0\\.06004918123018766\ \(0\)\
+\-\ female\\:\\ 0\\.05973102541267574\ \(0\)\
+\-\ presents\\:\\ 0\\.05954603103109291\ \(0\)\
+\-\ images\\:\\ 0\\.05725789644258075\ \(0\)\
+\-\ from\\:\\ 0\\.04916137510864198\ \(0\)\
+\-\ left\\:\\ 0\\.04222509420289169\ \(0\)\
+\-\ with\\:\\ 0\\.024238266490624365\ \(0\)\

@@ -1,218 +1,216 @@
-Texto: 
-alb 2.6 alk phos 202 ast 572 alt 757 tbili 0.9  amylase 505 lipase 2585  normal hepatitis panel and cbc
-patient received laparoscopic cholecystectomy.   symptoms improved and patient was discharged.
-us:  contracted gallbladder with gallstones suggestive of cholecystitis
-                             mrcp: multiple gallstones within gallbladder, small amt. of fluid around gallbladder, and thickening of gallbladder wall.  no evidence of intrahepatic or extrahepatic ductal dilatations or of luminal stone within the common bile duct
-cholecystitis
-cholecystitis, choledocholithiasis, cholangitis, acute pancreatitis
-24 y/o female patient with history of abdominal pain and recurrent pancreatitis presents with hepatic panel lab values suggestive of obstructive pattern.
-acute cholecystitis typically presents with right upper quadrant or periumbilical abdominal pain that may radiate to the back or shoulder, fever, and leukocytosis.  the gallbladder becomes inflamed due to blockage of the cystic duct--not all gallstones produce enough irritation to produce inflammation.  many people with gallstones are asymptomatic, some have episodes of biliary colic, and others develop cholecystitis.
-        the diagnosis is most commonly made via ultrasound, which may show presence of gallstones, gallbladder wall thickening, and/or pericholic fluid.  studies have shown that us is fairly sensitive in >80% of cases.  one study reported by m.t. keogan suggested that mrcp with half-fourier rare sequence has a sensitivity of 91% and specificity of 79% for acute cholecystitis though other studies suggest lower sensitivity (70%).  for detection of stones in the cystic duct, however, mrcp is indisputably more reliable than ultrasound; with reported sensitivity and specificity of 95 and 97 percent.  ercp has, in the past, been commonly used for visualization of the ductal system and is useful for concurrent stone extraction, stent insertion, or biopsy.  but mrcp has become useful because it is less invasive and does not require addition of contrast--hence decreasing procedure morbidity.
-       left untreated, cholecystitis may resolve.  but due to the various complications which can occur such as gallbladder gangrene, perforated gallbladder, or cholecystoenteric fistula leading to gallstone ileus, removal of the gallbladder is the preferred method of treatment and is commonly performed via laparoscopic method converted to open cholecystectomy as needed.
-
-
-Keywords by value: 
-- gallbladder: 0.38045168509758454
-- cholecystitis: 0.3191868204115285
-- gallstones: 0.25618378470430225
-- mrcp: 0.2357827585093575
-- of: 0.17590163721897664
-- sensitivity: 0.14406268801865918
-- and: 0.1270832489385635
-- duct: 0.12217025516725019
-- or: 0.1152034586502279
-- specificity: 0.10814198162955169
-- commonly: 0.10501711450393435
-- method: 0.10431837190172627
-- laparoscopic: 0.10383756646664986
-- the: 0.10383642697665993
-- panel: 0.09930455210904676
-- produce: 0.09489743305094855
-- pancreatitis: 0.093826956733129
-- cholecystectomy: 0.09187333356221236
-- is: 0.09068946448874121
-- useful: 0.0903343976424724
-- stone: 0.08642455943781964
-- ductal: 0.0832628108098903
-- via: 0.07733307458881318
-- suggestive: 0.07704791066964455
-- acute: 0.07677557986151165
-- 572: 0.07565591112122726
-- 757: 0.07565591112122726
-- 2585: 0.07565591112122726
-- keogan: 0.07565591112122726
-- indisputably: 0.07565591112122726
-- cholecystoenteric: 0.07565591112122726
-- us: 0.07526268108801966
-- pericholic: 0.07229326205303183
-- may: 0.07142074537303814
-- to: 0.07096155512231458
-- 505: 0.06990742457029471
-- amt: 0.06990742457029471
-- dilatations: 0.06990742457029471
-- studies: 0.06940599114593042
-- reported: 0.06814709138962609
-- with: 0.06484458783353154
-- has: 0.06482685082486711
-- thickening: 0.0643689245014017
-- converted: 0.06415893801936216
-- 202: 0.06318212643390383
-- contracted: 0.06318212643390383
-- gangrene: 0.06318212643390383
-- reliable: 0.06230833869553482
-- that: 0.06158979143205628
-- alb: 0.06013246971988911
-- radiate: 0.05951786910808483
-- blockage: 0.05894568962733938
-- extraction: 0.05841045146842961
-- ultrasound: 0.05836099767413441
-- wall: 0.05755609779208004
-- colic: 0.05743363988297128
-- for: 0.057354857983015956
-- choledocholithiasis: 0.05698524349179301
-- concurrent: 0.05698524349179301
-- cystic: 0.05698408848468284
-- inflamed: 0.05655985214460227
-- periumbilical: 0.05615522003988938
-- irritation: 0.055769414987619934
-- ercp: 0.055400762605455935
-- people: 0.055047802400234165
-- gallstone: 0.055047802400234165
-- tbili: 0.05470925282077493
-- luminal: 0.05470925282077493
-- cholangitis: 0.05470925282077493
-- untreated: 0.05470925282077493
-- fluid: 0.054629280846611165
-- due: 0.05438713601940589
-- extrahepatic: 0.054383983168956554
-- hence: 0.054383983168956554
-- decreasing: 0.053197203076406824
-- 91: 0.052159185950863135
-- abdominal: 0.05174808240492479
-- leukocytosis: 0.051685153332038734
-- perforated: 0.051685153332038734
-- ileus: 0.05145792506213148
-- morbidity: 0.050811365593669715
-- enough: 0.05040673348895683
-- amylase: 0.05021158770795548
-- preferred: 0.05021158770795548
-- 79: 0.05002092843668738
-- resolve: 0.05002092843668738
-- lipase: 0.049834554008211386
-- others: 0.049834554008211386
-- intrahepatic: 0.04965227605452338
-- fairly: 0.04965227605452338
-- alk: 0.049473918362331025
-- detection: 0.04929931584930161
-- phos: 0.04896076626984237
-- hepatitis: 0.048635496618024
-- 97: 0.048635496618024
-- sequence: 0.04772987270605048
-- stent: 0.04772987270605048
-- various: 0.04731163385006604
-- have: 0.04726595689346849
-- but: 0.04678783414854744
-- percent: 0.04678489729419666
-- sensitive: 0.04653356554405598
-- insertion: 0.04641069939993058
-- patient: 0.04616082575618181
-- bile: 0.04593666678110618
-- presents: 0.045515252159843665
-- alt: 0.04548827038992791
-- ast: 0.04537985952541004
-- becomes: 0.04527284754982856
-- visualization: 0.04527284754982856
-- 95: 0.04485809547675848
-- stones: 0.04465824693802428
-- suggested: 0.044272441885754826
-- obstructive: 0.043994427706746664
-- biliary: 0.043994427706746664
-- values: 0.04363767106610056
-- within: 0.04357728118040589
-- develop: 0.04355082929836907
-- episodes: 0.04321227971890982
-- invasive: 0.04304805033173514
-- which: 0.04302290490420629
-- lab: 0.04272903742335924
-- fistula: 0.04272903742335924
-- leading: 0.042053190179763486
-- improved: 0.04198138615511793
-- become: 0.04198138615511793
-- received: 0.041164991815631956
-- though: 0.0411004520888275
-- require: 0.04066221284899803
-- discharged: 0.04060145570517346
-- cbc: 0.039471368403002756
-- open: 0.03910960892582593
-- 70: 0.039059193493732054
-- needed: 0.039059193493732054
-- suggest: 0.038430244585892614
-- addition: 0.0382916344561952
-- inflammation: 0.03802117636818835
-- as: 0.03801066551769075
-- recurrent: 0.03793294880163341
-- around: 0.03775926050489104
-- procedure: 0.037716400910587526
-- hepatic: 0.03767376167506867
-- not: 0.03735220543572449
-- many: 0.03729956378080259
-- 80: 0.03690267881634448
-- shoulder: 0.036749094556014585
-- shown: 0.03667335601099494
-- made: 0.036486981582518944
-- complications: 0.03623289960418538
-- removal: 0.03616171193070057
-- system: 0.036091130117101314
-- rare: 0.0357133155395223
-- used: 0.0354165052646994
-- pattern: 0.03531988304898904
-- in: 0.03530614124748449
-- occur: 0.034792653884462836
-- presence: 0.0339912972880628
-- pain: 0.03385714055733466
-- 24: 0.03354002974814903
-- typically: 0.03321078629987722
-- biopsy: 0.033161273836159175
-- quadrant: 0.03313662801403994
-- because: 0.03306312697423813
-- does: 0.032705086638358506
-- asymptomatic: 0.032206431304712325
-- less: 0.03218446225070085
-- fever: 0.03207548153610962
-- cases: 0.031819626395543754
-- back: 0.031551077229870036
-- study: 0.031551077229870036
-- past: 0.030793968904239438
-- such: 0.030430965093568678
-- show: 0.030032254669249938
-- some: 0.029765779920916047
-- all: 0.028161370020087628
-- however: 0.028000849272657728
-- performed: 0.027987611739057686
-- been: 0.027562220391866944
-- one: 0.027086093766456577
-- evidence: 0.026852134301179807
-- common: 0.026829097305701228
-- than: 0.02681760276049365
-- more: 0.025977193191966896
-- symptoms: 0.025884298857498784
-- upper: 0.025280702687628866
-- can: 0.024825779093479158
-- most: 0.0246205548509128
-- other: 0.02456784293803674
-- diagnosis: 0.024524170835855588
-- small: 0.024403098422252946
-- it: 0.024216342437657194
-- lower: 0.024174478072940056
-- multiple: 0.023139409156826503
-- contrast: 0.022986027793487164
-- female: 0.022828328239075817
-- treatment: 0.022535346428320155
-- by: 0.02008975244281177
-- normal: 0.0193155698594992
-- history: 0.018074423396191384
-- are: 0.01795126295109612
-- was: 0.016487332552620335
-- left: 0.016137816214100188
-- right: 0.01568458431480503
-- no: 0.015384047724651607
+\-\ Texto\\:\\ \ \(0\)\
+\-\ alb\\ 2\\.6\\ alk\\ phos\\ 202\\ ast\\ 572\\ alt\\ 757\\ tbili\\ 0\\.9\\ \\ amylase\\ 505\\ lipase\\ 2585\\ \\ normal\\ hepatitis\\ panel\\ and\\ cbc\ \(0\)\
+\-\ patient\\ received\\ laparoscopic\\ cholecystectomy\\.\\ \\ \\ symptoms\\ improved\\ and\\ patient\\ was\\ discharged\\.\ \(0\)\
+\-\ us\\:\\ \\ contracted\\ gallbladder\\ with\\ gallstones\\ suggestive\\ of\\ cholecystitis\ \(0\)\
+\-\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ mrcp\\:\\ multiple\\ gallstones\\ within\\ gallbladder\\,\\ small\\ amt\\.\\ of\\ fluid\\ around\\ gallbladder\\,\\ and\\ thickening\\ of\\ gallbladder\\ wall\\.\\ \\ no\\ evidence\\ of\\ intrahepatic\\ or\\ extrahepatic\\ ductal\\ dilatations\\ or\\ of\\ luminal\\ stone\\ within\\ the\\ common\\ bile\\ duct\ \(0\)\
+\-\ cholecystitis\ \(124\)\
+\-\ cholecystitis\\,\\ choledocholithiasis\\,\\ cholangitis\\,\\ acute\\ pancreatitis\ \(1\)\
+\-\ 24\\ y\\/o\\ female\\ patient\\ with\\ history\\ of\\ abdominal\\ pain\\ and\\ recurrent\\ pancreatitis\\ presents\\ with\\ hepatic\\ panel\\ lab\\ values\\ suggestive\\ of\\ obstructive\\ pattern\\.\ \(1\)\
+\-\ acute\\ cholecystitis\\ typically\\ presents\\ with\\ right\\ upper\\ quadrant\\ or\\ periumbilical\\ abdominal\\ pain\\ that\\ may\\ radiate\\ to\\ the\\ back\\ or\\ shoulder\\,\\ fever\\,\\ and\\ leukocytosis\\.\\ \\ the\\ gallbladder\\ becomes\\ inflamed\\ due\\ to\\ blockage\\ of\\ the\\ cystic\\ duct\\-\\-not\\ all\\ gallstones\\ produce\\ enough\\ irritation\\ to\\ produce\\ inflammation\\.\\ \\ many\\ people\\ with\\ gallstones\\ are\\ asymptomatic\\,\\ some\\ have\\ episodes\\ of\\ biliary\\ colic\\,\\ and\\ others\\ develop\\ cholecystitis\\.\ \(0\)\
+\-\ \\ \\ \\ \\ \\ \\ \\ \\ the\\ diagnosis\\ is\\ most\\ commonly\\ made\\ via\\ ultrasound\\,\\ which\\ may\\ show\\ presence\\ of\\ gallstones\\,\\ gallbladder\\ wall\\ thickening\\,\\ and\\/or\\ pericholic\\ fluid\\.\\ \\ studies\\ have\\ shown\\ that\\ us\\ is\\ fairly\\ sensitive\\ in\\ \\>80\\%\\ of\\ cases\\.\\ \\ one\\ study\\ reported\\ by\\ m\\.t\\.\\ keogan\\ suggested\\ that\\ mrcp\\ with\\ half\\-fourier\\ rare\\ sequence\\ has\\ a\\ sensitivity\\ of\\ 91\\%\\ and\\ specificity\\ of\\ 79\\%\\ for\\ acute\\ cholecystitis\\ though\\ other\\ studies\\ suggest\\ lower\\ sensitivity\\ \\(70\\%\\)\\.\\ \\ for\\ detection\\ of\\ stones\\ in\\ the\\ cystic\\ duct\\,\\ however\\,\\ mrcp\\ is\\ indisputably\\ more\\ reliable\\ than\\ ultrasound\\;\\ with\\ reported\\ sensitivity\\ and\\ specificity\\ of\\ 95\\ and\\ 97\\ percent\\.\\ \\ ercp\\ has\\,\\ in\\ the\\ past\\,\\ been\\ commonly\\ used\\ for\\ visualization\\ of\\ the\\ ductal\\ system\\ and\\ is\\ useful\\ for\\ concurrent\\ stone\\ extraction\\,\\ stent\\ insertion\\,\\ or\\ biopsy\\.\\ \\ but\\ mrcp\\ has\\ become\\ useful\\ because\\ it\\ is\\ less\\ invasive\\ and\\ does\\ not\\ require\\ addition\\ of\\ contrast\\-\\-hence\\ decreasing\\ procedure\\ morbidity\\.\ \(0\)\
+\-\ \\ \\ \\ \\ \\ \\ \\ left\\ untreated\\,\\ cholecystitis\\ may\\ resolve\\.\\ \\ but\\ due\\ to\\ the\\ various\\ complications\\ which\\ can\\ occur\\ such\\ as\\ gallbladder\\ gangrene\\,\\ perforated\\ gallbladder\\,\\ or\\ cholecystoenteric\\ fistula\\ leading\\ to\\ gallstone\\ ileus\\,\\ removal\\ of\\ the\\ gallbladder\\ is\\ the\\ preferred\\ method\\ of\\ treatment\\ and\\ is\\ commonly\\ performed\\ via\\ laparoscopic\\ method\\ converted\\ to\\ open\\ cholecystectomy\\ as\\ needed\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ gallbladder\\:\\ 0\\.38045168509758454\ \(0\)\
+\-\ cholecystitis\\:\\ 0\\.3191868204115285\ \(0\)\
+\-\ gallstones\\:\\ 0\\.25618378470430225\ \(0\)\
+\-\ mrcp\\:\\ 0\\.2357827585093575\ \(0\)\
+\-\ of\\:\\ 0\\.17590163721897664\ \(0\)\
+\-\ sensitivity\\:\\ 0\\.14406268801865918\ \(0\)\
+\-\ and\\:\\ 0\\.1270832489385635\ \(0\)\
+\-\ duct\\:\\ 0\\.12217025516725019\ \(0\)\
+\-\ or\\:\\ 0\\.1152034586502279\ \(0\)\
+\-\ specificity\\:\\ 0\\.10814198162955169\ \(0\)\
+\-\ commonly\\:\\ 0\\.10501711450393435\ \(0\)\
+\-\ method\\:\\ 0\\.10431837190172627\ \(0\)\
+\-\ laparoscopic\\:\\ 0\\.10383756646664986\ \(0\)\
+\-\ the\\:\\ 0\\.10383642697665993\ \(0\)\
+\-\ panel\\:\\ 0\\.09930455210904676\ \(0\)\
+\-\ produce\\:\\ 0\\.09489743305094855\ \(0\)\
+\-\ pancreatitis\\:\\ 0\\.093826956733129\ \(0\)\
+\-\ cholecystectomy\\:\\ 0\\.09187333356221236\ \(0\)\
+\-\ is\\:\\ 0\\.09068946448874121\ \(0\)\
+\-\ useful\\:\\ 0\\.0903343976424724\ \(0\)\
+\-\ stone\\:\\ 0\\.08642455943781964\ \(0\)\
+\-\ ductal\\:\\ 0\\.0832628108098903\ \(0\)\
+\-\ via\\:\\ 0\\.07733307458881318\ \(0\)\
+\-\ suggestive\\:\\ 0\\.07704791066964455\ \(0\)\
+\-\ acute\\:\\ 0\\.07677557986151165\ \(0\)\
+\-\ 572\\:\\ 0\\.07565591112122726\ \(0\)\
+\-\ 757\\:\\ 0\\.07565591112122726\ \(0\)\
+\-\ 2585\\:\\ 0\\.07565591112122726\ \(0\)\
+\-\ keogan\\:\\ 0\\.07565591112122726\ \(0\)\
+\-\ indisputably\\:\\ 0\\.07565591112122726\ \(0\)\
+\-\ cholecystoenteric\\:\\ 0\\.07565591112122726\ \(0\)\
+\-\ us\\:\\ 0\\.07526268108801966\ \(0\)\
+\-\ pericholic\\:\\ 0\\.07229326205303183\ \(0\)\
+\-\ may\\:\\ 0\\.07142074537303814\ \(0\)\
+\-\ to\\:\\ 0\\.07096155512231458\ \(0\)\
+\-\ 505\\:\\ 0\\.06990742457029471\ \(0\)\
+\-\ amt\\:\\ 0\\.06990742457029471\ \(0\)\
+\-\ dilatations\\:\\ 0\\.06990742457029471\ \(0\)\
+\-\ studies\\:\\ 0\\.06940599114593042\ \(0\)\
+\-\ reported\\:\\ 0\\.06814709138962609\ \(0\)\
+\-\ with\\:\\ 0\\.06484458783353154\ \(0\)\
+\-\ has\\:\\ 0\\.06482685082486711\ \(0\)\
+\-\ thickening\\:\\ 0\\.0643689245014017\ \(0\)\
+\-\ converted\\:\\ 0\\.06415893801936216\ \(0\)\
+\-\ 202\\:\\ 0\\.06318212643390383\ \(0\)\
+\-\ contracted\\:\\ 0\\.06318212643390383\ \(0\)\
+\-\ gangrene\\:\\ 0\\.06318212643390383\ \(0\)\
+\-\ reliable\\:\\ 0\\.06230833869553482\ \(0\)\
+\-\ that\\:\\ 0\\.06158979143205628\ \(0\)\
+\-\ alb\\:\\ 0\\.06013246971988911\ \(0\)\
+\-\ radiate\\:\\ 0\\.05951786910808483\ \(0\)\
+\-\ blockage\\:\\ 0\\.05894568962733938\ \(0\)\
+\-\ extraction\\:\\ 0\\.05841045146842961\ \(0\)\
+\-\ ultrasound\\:\\ 0\\.05836099767413441\ \(0\)\
+\-\ wall\\:\\ 0\\.05755609779208004\ \(0\)\
+\-\ colic\\:\\ 0\\.05743363988297128\ \(0\)\
+\-\ for\\:\\ 0\\.057354857983015956\ \(0\)\
+\-\ choledocholithiasis\\:\\ 0\\.05698524349179301\ \(0\)\
+\-\ concurrent\\:\\ 0\\.05698524349179301\ \(0\)\
+\-\ cystic\\:\\ 0\\.05698408848468284\ \(0\)\
+\-\ inflamed\\:\\ 0\\.05655985214460227\ \(0\)\
+\-\ periumbilical\\:\\ 0\\.05615522003988938\ \(0\)\
+\-\ irritation\\:\\ 0\\.055769414987619934\ \(0\)\
+\-\ ercp\\:\\ 0\\.055400762605455935\ \(0\)\
+\-\ people\\:\\ 0\\.055047802400234165\ \(0\)\
+\-\ gallstone\\:\\ 0\\.055047802400234165\ \(0\)\
+\-\ tbili\\:\\ 0\\.05470925282077493\ \(0\)\
+\-\ luminal\\:\\ 0\\.05470925282077493\ \(0\)\
+\-\ cholangitis\\:\\ 0\\.05470925282077493\ \(0\)\
+\-\ untreated\\:\\ 0\\.05470925282077493\ \(0\)\
+\-\ fluid\\:\\ 0\\.054629280846611165\ \(0\)\
+\-\ due\\:\\ 0\\.05438713601940589\ \(0\)\
+\-\ extrahepatic\\:\\ 0\\.054383983168956554\ \(0\)\
+\-\ hence\\:\\ 0\\.054383983168956554\ \(0\)\
+\-\ decreasing\\:\\ 0\\.053197203076406824\ \(0\)\
+\-\ 91\\:\\ 0\\.052159185950863135\ \(0\)\
+\-\ abdominal\\:\\ 0\\.05174808240492479\ \(0\)\
+\-\ leukocytosis\\:\\ 0\\.051685153332038734\ \(0\)\
+\-\ perforated\\:\\ 0\\.051685153332038734\ \(0\)\
+\-\ ileus\\:\\ 0\\.05145792506213148\ \(0\)\
+\-\ morbidity\\:\\ 0\\.050811365593669715\ \(0\)\
+\-\ enough\\:\\ 0\\.05040673348895683\ \(0\)\
+\-\ amylase\\:\\ 0\\.05021158770795548\ \(0\)\
+\-\ preferred\\:\\ 0\\.05021158770795548\ \(0\)\
+\-\ 79\\:\\ 0\\.05002092843668738\ \(0\)\
+\-\ resolve\\:\\ 0\\.05002092843668738\ \(0\)\
+\-\ lipase\\:\\ 0\\.049834554008211386\ \(0\)\
+\-\ others\\:\\ 0\\.049834554008211386\ \(0\)\
+\-\ intrahepatic\\:\\ 0\\.04965227605452338\ \(0\)\
+\-\ fairly\\:\\ 0\\.04965227605452338\ \(0\)\
+\-\ alk\\:\\ 0\\.049473918362331025\ \(0\)\
+\-\ detection\\:\\ 0\\.04929931584930161\ \(0\)\
+\-\ phos\\:\\ 0\\.04896076626984237\ \(0\)\
+\-\ hepatitis\\:\\ 0\\.048635496618024\ \(0\)\
+\-\ 97\\:\\ 0\\.048635496618024\ \(0\)\
+\-\ sequence\\:\\ 0\\.04772987270605048\ \(0\)\
+\-\ stent\\:\\ 0\\.04772987270605048\ \(0\)\
+\-\ various\\:\\ 0\\.04731163385006604\ \(0\)\
+\-\ have\\:\\ 0\\.04726595689346849\ \(0\)\
+\-\ but\\:\\ 0\\.04678783414854744\ \(0\)\
+\-\ percent\\:\\ 0\\.04678489729419666\ \(0\)\
+\-\ sensitive\\:\\ 0\\.04653356554405598\ \(0\)\
+\-\ insertion\\:\\ 0\\.04641069939993058\ \(0\)\
+\-\ patient\\:\\ 0\\.04616082575618181\ \(0\)\
+\-\ bile\\:\\ 0\\.04593666678110618\ \(0\)\
+\-\ presents\\:\\ 0\\.045515252159843665\ \(0\)\
+\-\ alt\\:\\ 0\\.04548827038992791\ \(0\)\
+\-\ ast\\:\\ 0\\.04537985952541004\ \(0\)\
+\-\ becomes\\:\\ 0\\.04527284754982856\ \(0\)\
+\-\ visualization\\:\\ 0\\.04527284754982856\ \(0\)\
+\-\ 95\\:\\ 0\\.04485809547675848\ \(0\)\
+\-\ stones\\:\\ 0\\.04465824693802428\ \(0\)\
+\-\ suggested\\:\\ 0\\.044272441885754826\ \(0\)\
+\-\ obstructive\\:\\ 0\\.043994427706746664\ \(0\)\
+\-\ biliary\\:\\ 0\\.043994427706746664\ \(0\)\
+\-\ values\\:\\ 0\\.04363767106610056\ \(0\)\
+\-\ within\\:\\ 0\\.04357728118040589\ \(0\)\
+\-\ develop\\:\\ 0\\.04355082929836907\ \(0\)\
+\-\ episodes\\:\\ 0\\.04321227971890982\ \(0\)\
+\-\ invasive\\:\\ 0\\.04304805033173514\ \(0\)\
+\-\ which\\:\\ 0\\.04302290490420629\ \(0\)\
+\-\ lab\\:\\ 0\\.04272903742335924\ \(0\)\
+\-\ fistula\\:\\ 0\\.04272903742335924\ \(0\)\
+\-\ leading\\:\\ 0\\.042053190179763486\ \(0\)\
+\-\ improved\\:\\ 0\\.04198138615511793\ \(0\)\
+\-\ become\\:\\ 0\\.04198138615511793\ \(0\)\
+\-\ received\\:\\ 0\\.041164991815631956\ \(0\)\
+\-\ though\\:\\ 0\\.0411004520888275\ \(0\)\
+\-\ require\\:\\ 0\\.04066221284899803\ \(0\)\
+\-\ discharged\\:\\ 0\\.04060145570517346\ \(0\)\
+\-\ cbc\\:\\ 0\\.039471368403002756\ \(0\)\
+\-\ open\\:\\ 0\\.03910960892582593\ \(0\)\
+\-\ 70\\:\\ 0\\.039059193493732054\ \(0\)\
+\-\ needed\\:\\ 0\\.039059193493732054\ \(0\)\
+\-\ suggest\\:\\ 0\\.038430244585892614\ \(0\)\
+\-\ addition\\:\\ 0\\.0382916344561952\ \(0\)\
+\-\ inflammation\\:\\ 0\\.03802117636818835\ \(0\)\
+\-\ as\\:\\ 0\\.03801066551769075\ \(0\)\
+\-\ recurrent\\:\\ 0\\.03793294880163341\ \(0\)\
+\-\ around\\:\\ 0\\.03775926050489104\ \(0\)\
+\-\ procedure\\:\\ 0\\.037716400910587526\ \(0\)\
+\-\ hepatic\\:\\ 0\\.03767376167506867\ \(0\)\
+\-\ not\\:\\ 0\\.03735220543572449\ \(0\)\
+\-\ many\\:\\ 0\\.03729956378080259\ \(0\)\
+\-\ 80\\:\\ 0\\.03690267881634448\ \(0\)\
+\-\ shoulder\\:\\ 0\\.036749094556014585\ \(0\)\
+\-\ shown\\:\\ 0\\.03667335601099494\ \(0\)\
+\-\ made\\:\\ 0\\.036486981582518944\ \(0\)\
+\-\ complications\\:\\ 0\\.03623289960418538\ \(0\)\
+\-\ removal\\:\\ 0\\.03616171193070057\ \(0\)\
+\-\ system\\:\\ 0\\.036091130117101314\ \(0\)\
+\-\ rare\\:\\ 0\\.0357133155395223\ \(0\)\
+\-\ used\\:\\ 0\\.0354165052646994\ \(0\)\
+\-\ pattern\\:\\ 0\\.03531988304898904\ \(0\)\
+\-\ in\\:\\ 0\\.03530614124748449\ \(0\)\
+\-\ occur\\:\\ 0\\.034792653884462836\ \(0\)\
+\-\ presence\\:\\ 0\\.0339912972880628\ \(0\)\
+\-\ pain\\:\\ 0\\.03385714055733466\ \(0\)\
+\-\ 24\\:\\ 0\\.03354002974814903\ \(0\)\
+\-\ typically\\:\\ 0\\.03321078629987722\ \(0\)\
+\-\ biopsy\\:\\ 0\\.033161273836159175\ \(0\)\
+\-\ quadrant\\:\\ 0\\.03313662801403994\ \(0\)\
+\-\ because\\:\\ 0\\.03306312697423813\ \(0\)\
+\-\ does\\:\\ 0\\.032705086638358506\ \(0\)\
+\-\ asymptomatic\\:\\ 0\\.032206431304712325\ \(0\)\
+\-\ less\\:\\ 0\\.03218446225070085\ \(0\)\
+\-\ fever\\:\\ 0\\.03207548153610962\ \(0\)\
+\-\ cases\\:\\ 0\\.031819626395543754\ \(0\)\
+\-\ back\\:\\ 0\\.031551077229870036\ \(0\)\
+\-\ study\\:\\ 0\\.031551077229870036\ \(0\)\
+\-\ past\\:\\ 0\\.030793968904239438\ \(0\)\
+\-\ such\\:\\ 0\\.030430965093568678\ \(0\)\
+\-\ show\\:\\ 0\\.030032254669249938\ \(0\)\
+\-\ some\\:\\ 0\\.029765779920916047\ \(0\)\
+\-\ all\\:\\ 0\\.028161370020087628\ \(0\)\
+\-\ however\\:\\ 0\\.028000849272657728\ \(0\)\
+\-\ performed\\:\\ 0\\.027987611739057686\ \(0\)\
+\-\ been\\:\\ 0\\.027562220391866944\ \(0\)\
+\-\ one\\:\\ 0\\.027086093766456577\ \(0\)\
+\-\ evidence\\:\\ 0\\.026852134301179807\ \(0\)\
+\-\ common\\:\\ 0\\.026829097305701228\ \(0\)\
+\-\ than\\:\\ 0\\.02681760276049365\ \(0\)\
+\-\ more\\:\\ 0\\.025977193191966896\ \(0\)\
+\-\ symptoms\\:\\ 0\\.025884298857498784\ \(0\)\
+\-\ upper\\:\\ 0\\.025280702687628866\ \(0\)\
+\-\ can\\:\\ 0\\.024825779093479158\ \(0\)\
+\-\ most\\:\\ 0\\.0246205548509128\ \(0\)\
+\-\ other\\:\\ 0\\.02456784293803674\ \(0\)\
+\-\ diagnosis\\:\\ 0\\.024524170835855588\ \(0\)\
+\-\ small\\:\\ 0\\.024403098422252946\ \(0\)\
+\-\ it\\:\\ 0\\.024216342437657194\ \(0\)\
+\-\ lower\\:\\ 0\\.024174478072940056\ \(0\)\
+\-\ multiple\\:\\ 0\\.023139409156826503\ \(0\)\
+\-\ contrast\\:\\ 0\\.022986027793487164\ \(0\)\
+\-\ female\\:\\ 0\\.022828328239075817\ \(0\)\
+\-\ treatment\\:\\ 0\\.022535346428320155\ \(0\)\
+\-\ by\\:\\ 0\\.02008975244281177\ \(0\)\
+\-\ normal\\:\\ 0\\.0193155698594992\ \(0\)\
+\-\ history\\:\\ 0\\.018074423396191384\ \(0\)\
+\-\ are\\:\\ 0\\.01795126295109612\ \(0\)\
+\-\ was\\:\\ 0\\.016487332552620335\ \(0\)\
+\-\ left\\:\\ 0\\.016137816214100188\ \(0\)\
+\-\ right\\:\\ 0\\.01568458431480503\ \(0\)\
+\-\ no\\:\\ 0\\.015384047724651607\ \(0\)\

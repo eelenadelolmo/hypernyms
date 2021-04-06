@@ -1,74 +1,72 @@
-Texto: 
-rheumatologic serology panel negative.
-proliferate and erosive findings at the dip and pip joints consisting of central erosions and marginal osteophytes, giving a "gull-wing" appearance at those locations.  also note relatively unaffected proximal structures, with the exception of typical degenerative changes (although relatively mild) at the stt joint and 1st mcp.
-erosive (inflammatory) osteoarthritis (typical radiologic appearance, absence of skin or other bony involvement, negative laboratory evaluation).
-erosive osteoarthritis
-psoriatic arthritis
-52 year old female with waxing and waning hand pain, episodic swelling and redness of the pip and dip joints.
-
-
-Keywords by value: 
-- erosive: 0.3430690082303838
-- pip: 0.25234924911233003
-- dip: 0.25074152317923115
-- osteoarthritis: 0.1968309789732924
-- joints: 0.1852154807464666
-- relatively: 0.17547576503255496
-- typical: 0.1665346812986514
-- stt: 0.1646471053556118
-- proliferate: 0.15921338685646003
-- and: 0.15584729728605481
-- rheumatologic: 0.14864340370315887
-- waning: 0.14389659467743274
-- serology: 0.14190655276021855
-- waxing: 0.14190655276021855
-- episodic: 0.13695103521543897
-- unaffected: 0.1342481566707049
-- negative: 0.1334066749625138
-- appearance: 0.12990890303403396
-- exception: 0.12978326226344292
-- redness: 0.12459971866397704
-- marginal: 0.12385892062677355
-- giving: 0.12385892062677355
-- mcp: 0.1231460839992537
-- at: 0.1220883858409218
-- consisting: 0.11993704309046382
-- psoriatic: 0.11572232358288773
-- osteophytes: 0.1148007784363144
-- panel: 0.1130825099674996
-- locations: 0.11267630229470382
-- 1st: 0.11227864700095017
-- erosions: 0.10806392749337407
-- radiologic: 0.10040553140386042
-- 52: 0.09978619956528345
-- those: 0.09219562375973805
-- degenerative: 0.09152813632277111
-- arthritis: 0.08763086846915047
-- the: 0.08599502358568917
-- absence: 0.08589868624000718
-- of: 0.08433979678689152
-- hand: 0.08422279591055819
-- bony: 0.08301493695398066
-- note: 0.0811086553904047
-- structures: 0.08095815316946993
-- skin: 0.08015116745697773
-- laboratory: 0.07824029015049352
-- involvement: 0.07798243046242262
-- although: 0.07334979135766997
-- inflammatory: 0.07285531472043648
-- swelling: 0.07251672562405691
-- central: 0.07195004525672447
-- joint: 0.07099751088450915
-- proximal: 0.06731210067526538
-- evaluation: 0.06570810285773915
-- changes: 0.06511574992503726
-- mild: 0.06107679390442958
-- other: 0.055952990772663844
-- findings: 0.053175797229205166
-- female: 0.05199126527053673
-- also: 0.05067951017022232
-- with: 0.042195094897687316
-- pain: 0.038554631718610184
-- or: 0.03748208626730215
-- year: 0.0332044618558717
-- old: 0.031887777391350194
+\-\ Texto\\:\\ \ \(0\)\
+\-\ rheumatologic\\ serology\\ panel\\ negative\\.\ \(0\)\
+\-\ proliferate\\ and\\ erosive\\ findings\\ at\\ the\\ dip\\ and\\ pip\\ joints\\ consisting\\ of\\ central\\ erosions\\ and\\ marginal\\ osteophytes\\,\\ giving\\ a\\ \\"gull\\-wing\\"\\ appearance\\ at\\ those\\ locations\\.\\ \\ also\\ note\\ relatively\\ unaffected\\ proximal\\ structures\\,\\ with\\ the\\ exception\\ of\\ typical\\ degenerative\\ changes\\ \\(although\\ relatively\\ mild\\)\\ at\\ the\\ stt\\ joint\\ and\\ 1st\\ mcp\\.\ \(0\)\
+\-\ erosive\\ \\(inflammatory\\)\\ osteoarthritis\\ \\(typical\\ radiologic\\ appearance\\,\\ absence\\ of\\ skin\\ or\\ other\\ bony\\ involvement\\,\\ negative\\ laboratory\\ evaluation\\)\\.\ \(0\)\
+\-\ erosive\\ osteoarthritis\ \(8\)\
+\-\ psoriatic\\ arthritis\ \(11\)\
+\-\ 52\\ year\\ old\\ female\\ with\\ waxing\\ and\\ waning\\ hand\\ pain\\,\\ episodic\\ swelling\\ and\\ redness\\ of\\ the\\ pip\\ and\\ dip\\ joints\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ erosive\\:\\ 0\\.3430690082303838\ \(0\)\
+\-\ pip\\:\\ 0\\.25234924911233003\ \(0\)\
+\-\ dip\\:\\ 0\\.25074152317923115\ \(0\)\
+\-\ osteoarthritis\\:\\ 0\\.1968309789732924\ \(0\)\
+\-\ joints\\:\\ 0\\.1852154807464666\ \(0\)\
+\-\ relatively\\:\\ 0\\.17547576503255496\ \(0\)\
+\-\ typical\\:\\ 0\\.1665346812986514\ \(0\)\
+\-\ stt\\:\\ 0\\.1646471053556118\ \(0\)\
+\-\ proliferate\\:\\ 0\\.15921338685646003\ \(0\)\
+\-\ and\\:\\ 0\\.15584729728605481\ \(0\)\
+\-\ rheumatologic\\:\\ 0\\.14864340370315887\ \(0\)\
+\-\ waning\\:\\ 0\\.14389659467743274\ \(0\)\
+\-\ serology\\:\\ 0\\.14190655276021855\ \(0\)\
+\-\ waxing\\:\\ 0\\.14190655276021855\ \(0\)\
+\-\ episodic\\:\\ 0\\.13695103521543897\ \(0\)\
+\-\ unaffected\\:\\ 0\\.1342481566707049\ \(0\)\
+\-\ negative\\:\\ 0\\.1334066749625138\ \(0\)\
+\-\ appearance\\:\\ 0\\.12990890303403396\ \(0\)\
+\-\ exception\\:\\ 0\\.12978326226344292\ \(0\)\
+\-\ redness\\:\\ 0\\.12459971866397704\ \(0\)\
+\-\ marginal\\:\\ 0\\.12385892062677355\ \(0\)\
+\-\ giving\\:\\ 0\\.12385892062677355\ \(0\)\
+\-\ mcp\\:\\ 0\\.1231460839992537\ \(0\)\
+\-\ at\\:\\ 0\\.1220883858409218\ \(0\)\
+\-\ consisting\\:\\ 0\\.11993704309046382\ \(0\)\
+\-\ psoriatic\\:\\ 0\\.11572232358288773\ \(0\)\
+\-\ osteophytes\\:\\ 0\\.1148007784363144\ \(0\)\
+\-\ panel\\:\\ 0\\.1130825099674996\ \(0\)\
+\-\ locations\\:\\ 0\\.11267630229470382\ \(0\)\
+\-\ 1st\\:\\ 0\\.11227864700095017\ \(0\)\
+\-\ erosions\\:\\ 0\\.10806392749337407\ \(0\)\
+\-\ radiologic\\:\\ 0\\.10040553140386042\ \(0\)\
+\-\ 52\\:\\ 0\\.09978619956528345\ \(0\)\
+\-\ those\\:\\ 0\\.09219562375973805\ \(0\)\
+\-\ degenerative\\:\\ 0\\.09152813632277111\ \(0\)\
+\-\ arthritis\\:\\ 0\\.08763086846915047\ \(0\)\
+\-\ the\\:\\ 0\\.08599502358568917\ \(0\)\
+\-\ absence\\:\\ 0\\.08589868624000718\ \(0\)\
+\-\ of\\:\\ 0\\.08433979678689152\ \(0\)\
+\-\ hand\\:\\ 0\\.08422279591055819\ \(0\)\
+\-\ bony\\:\\ 0\\.08301493695398066\ \(0\)\
+\-\ note\\:\\ 0\\.0811086553904047\ \(0\)\
+\-\ structures\\:\\ 0\\.08095815316946993\ \(0\)\
+\-\ skin\\:\\ 0\\.08015116745697773\ \(0\)\
+\-\ laboratory\\:\\ 0\\.07824029015049352\ \(0\)\
+\-\ involvement\\:\\ 0\\.07798243046242262\ \(0\)\
+\-\ although\\:\\ 0\\.07334979135766997\ \(0\)\
+\-\ inflammatory\\:\\ 0\\.07285531472043648\ \(0\)\
+\-\ swelling\\:\\ 0\\.07251672562405691\ \(0\)\
+\-\ central\\:\\ 0\\.07195004525672447\ \(0\)\
+\-\ joint\\:\\ 0\\.07099751088450915\ \(0\)\
+\-\ proximal\\:\\ 0\\.06731210067526538\ \(0\)\
+\-\ evaluation\\:\\ 0\\.06570810285773915\ \(0\)\
+\-\ changes\\:\\ 0\\.06511574992503726\ \(0\)\
+\-\ mild\\:\\ 0\\.06107679390442958\ \(0\)\
+\-\ other\\:\\ 0\\.055952990772663844\ \(0\)\
+\-\ findings\\:\\ 0\\.053175797229205166\ \(0\)\
+\-\ female\\:\\ 0\\.05199126527053673\ \(0\)\
+\-\ also\\:\\ 0\\.05067951017022232\ \(0\)\
+\-\ with\\:\\ 0\\.042195094897687316\ \(0\)\
+\-\ pain\\:\\ 0\\.038554631718610184\ \(0\)\
+\-\ or\\:\\ 0\\.03748208626730215\ \(0\)\
+\-\ year\\:\\ 0\\.0332044618558717\ \(0\)\
+\-\ old\\:\\ 0\\.031887777391350194\ \(0\)\

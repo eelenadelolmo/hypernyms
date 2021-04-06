@@ -1,80 +1,75 @@
-Texto: 
-noncontributory
-information not available
-initial retrograge urethrogram showed irregularity at the proximal bulbar urethra
-
-follow-up study one year later shows a high grade stricture in the same location
-urethral stricture (confirmed by urethroscopy)
-iatrogenic (from instrumentation)
-posttraumatic
-post-infections (bacterial)
-neoplasm
-history of gonococcal infection. rule out stricture.
-normal urethrogram for comparison:
-http://rad.usuhs.mil/rad/radbrowser2/pelvis/urethragram/p026.html
-
-initial retrograge urethrogram showed irregularity at the proximal bulbar urethra that was likely caused by known previous gonococcal infection.
-
-follow-up study one year later showed a high grade stricture in the same location.
-
-
-Keywords by value: 
-- urethrogram: 0.22059430137344074
-- stricture: 0.1869964048722138
-- retrograge: 0.1799085392646224
-- gonococcal: 0.16576267843686843
-- bulbar: 0.14019608724308538
-- urethra: 0.11341677318255133
-- irregularity: 0.09320455473300283
-- urethroscopy: 0.0899542696323112
-- post-infections: 0.0899542696323112
-- //rad.usuhs.mil/rad/radbrowser2/pelvis/urethragram/p026.html: 0.0899542696323112
-- showed: 0.08576948779358255
-- same: 0.07188191018861237
-- grade: 0.06642524067246877
-- posttraumatic: 0.06459807932835201
-- later: 0.06296772736720252
-- location: 0.06083076912048761
-- instrumentation: 0.06046068026602381
-- initial: 0.05778739067916955
-- study: 0.057380231772652224
-- follow-up: 0.0567354488049335
-- urethral: 0.05458961756292623
-- iatrogenic: 0.05310816848288034
-- proximal: 0.05235802411646969
-- infection: 0.05069421579740422
-- high: 0.04772542981789419
-- information: 0.04751668714904924
-- one: 0.047259824149196814
-- comparison: 0.04536806705611711
-- bacterial: 0.04462109354567532
-- noncontributory: 0.041806321966034725
-- caused: 0.036575610276652154
-- rule: 0.036413207671489915
-- previous: 0.03386071631299282
-- http: 0.03301825099979873
-- confirmed: 0.03278979186823262
-- neoplasm: 0.02969547526440743
-- available: 0.029313459682038745
-- by: 0.029038181698874992
-- out: 0.02881687629447465
-- known: 0.02759235800473285
-- likely: 0.024594795570772002
-- shows: 0.023973201017641617
-- at: 0.02362781944554353
-- :: 0.023066832979401326
-- (: 0.022113114068689606
-- ): 0.021842990574897095
-- year: 0.019512352434141116
-- that: 0.015061027842436972
-- normal: 0.01366951484284797
-- from: 0.012922813399532778
-- not: 0.012600190527978932
-- history: 0.012043005486806972
-- was: 0.010084464512384558
-- in: 0.0085999434722501
-- a: 0.008093873506502066
-- for: 0.007439879067782807
-- the: 0.005642827947086767
-- .: 0.0014489606570345418
-- of: 0.0011888142938570247
+\-\ Texto\\:\\ \ \(0\)\
+\-\ noncontributory\ \(52\)\
+\-\ information\\ not\\ available\ \(1\)\
+\-\ initial\\ retrograge\\ urethrogram\\ showed\\ irregularity\\ at\\ the\\ proximal\\ bulbar\\ urethra\ \(0\)\
+\-\ follow\\-up\\ study\\ one\\ year\\ later\\ shows\\ a\\ high\\ grade\\ stricture\\ in\\ the\\ same\\ location\ \(0\)\
+\-\ urethral\\ stricture\\ \\(confirmed\\ by\\ urethroscopy\\)\ \(0\)\
+\-\ iatrogenic\\ \\(from\\ instrumentation\\)\ \(1\)\
+\-\ posttraumatic\ \(8\)\
+\-\ post\\-infections\\ \\(bacterial\\)\ \(1\)\
+\-\ neoplasm\ \(440\)\
+\-\ history\\ of\\ gonococcal\\ infection\\.\\ rule\\ out\\ stricture\\.\ \(0\)\
+\-\ normal\\ urethrogram\\ for\\ comparison\\:\ \(0\)\
+\-\ http\\:\\/\\/rad\\.usuhs\\.mil\\/rad\\/radbrowser2\\/pelvis\\/urethragram\\/p026\\.html\ \(0\)\
+\-\ initial\\ retrograge\\ urethrogram\\ showed\\ irregularity\\ at\\ the\\ proximal\\ bulbar\\ urethra\\ that\\ was\\ likely\\ caused\\ by\\ known\\ previous\\ gonococcal\\ infection\\.\ \(0\)\
+\-\ follow\\-up\\ study\\ one\\ year\\ later\\ showed\\ a\\ high\\ grade\\ stricture\\ in\\ the\\ same\\ location\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ urethrogram\\:\\ 0\\.22059430137344074\ \(0\)\
+\-\ stricture\\:\\ 0\\.1869964048722138\ \(0\)\
+\-\ retrograge\\:\\ 0\\.1799085392646224\ \(0\)\
+\-\ gonococcal\\:\\ 0\\.16576267843686843\ \(0\)\
+\-\ bulbar\\:\\ 0\\.14019608724308538\ \(0\)\
+\-\ urethra\\:\\ 0\\.11341677318255133\ \(0\)\
+\-\ irregularity\\:\\ 0\\.09320455473300283\ \(0\)\
+\-\ urethroscopy\\:\\ 0\\.0899542696323112\ \(0\)\
+\-\ post\\-infections\\:\\ 0\\.0899542696323112\ \(0\)\
+\-\ \\/\\/rad\\.usuhs\\.mil\\/rad\\/radbrowser2\\/pelvis\\/urethragram\\/p026\\.html\\:\\ 0\\.0899542696323112\ \(0\)\
+\-\ showed\\:\\ 0\\.08576948779358255\ \(0\)\
+\-\ same\\:\\ 0\\.07188191018861237\ \(0\)\
+\-\ grade\\:\\ 0\\.06642524067246877\ \(0\)\
+\-\ posttraumatic\\:\\ 0\\.06459807932835201\ \(0\)\
+\-\ later\\:\\ 0\\.06296772736720252\ \(0\)\
+\-\ location\\:\\ 0\\.06083076912048761\ \(0\)\
+\-\ instrumentation\\:\\ 0\\.06046068026602381\ \(0\)\
+\-\ initial\\:\\ 0\\.05778739067916955\ \(0\)\
+\-\ study\\:\\ 0\\.057380231772652224\ \(0\)\
+\-\ follow\\-up\\:\\ 0\\.0567354488049335\ \(0\)\
+\-\ urethral\\:\\ 0\\.05458961756292623\ \(0\)\
+\-\ iatrogenic\\:\\ 0\\.05310816848288034\ \(0\)\
+\-\ proximal\\:\\ 0\\.05235802411646969\ \(0\)\
+\-\ infection\\:\\ 0\\.05069421579740422\ \(0\)\
+\-\ high\\:\\ 0\\.04772542981789419\ \(0\)\
+\-\ information\\:\\ 0\\.04751668714904924\ \(0\)\
+\-\ one\\:\\ 0\\.047259824149196814\ \(0\)\
+\-\ comparison\\:\\ 0\\.04536806705611711\ \(0\)\
+\-\ bacterial\\:\\ 0\\.04462109354567532\ \(0\)\
+\-\ noncontributory\\:\\ 0\\.041806321966034725\ \(0\)\
+\-\ caused\\:\\ 0\\.036575610276652154\ \(0\)\
+\-\ rule\\:\\ 0\\.036413207671489915\ \(0\)\
+\-\ previous\\:\\ 0\\.03386071631299282\ \(0\)\
+\-\ http\\:\\ 0\\.03301825099979873\ \(0\)\
+\-\ confirmed\\:\\ 0\\.03278979186823262\ \(0\)\
+\-\ neoplasm\\:\\ 0\\.02969547526440743\ \(0\)\
+\-\ available\\:\\ 0\\.029313459682038745\ \(0\)\
+\-\ by\\:\\ 0\\.029038181698874992\ \(0\)\
+\-\ out\\:\\ 0\\.02881687629447465\ \(0\)\
+\-\ known\\:\\ 0\\.02759235800473285\ \(0\)\
+\-\ likely\\:\\ 0\\.024594795570772002\ \(0\)\
+\-\ shows\\:\\ 0\\.023973201017641617\ \(0\)\
+\-\ at\\:\\ 0\\.02362781944554353\ \(0\)\
+\-\ \\:\\:\\ 0\\.023066832979401326\ \(0\)\
+\-\ \\(\\:\\ 0\\.022113114068689606\ \(0\)\
+\-\ \\)\\:\\ 0\\.021842990574897095\ \(0\)\
+\-\ year\\:\\ 0\\.019512352434141116\ \(0\)\
+\-\ that\\:\\ 0\\.015061027842436972\ \(0\)\
+\-\ normal\\:\\ 0\\.01366951484284797\ \(0\)\
+\-\ from\\:\\ 0\\.012922813399532778\ \(0\)\
+\-\ not\\:\\ 0\\.012600190527978932\ \(0\)\
+\-\ history\\:\\ 0\\.012043005486806972\ \(0\)\
+\-\ was\\:\\ 0\\.010084464512384558\ \(0\)\
+\-\ in\\:\\ 0\\.0085999434722501\ \(0\)\
+\-\ a\\:\\ 0\\.008093873506502066\ \(0\)\
+\-\ for\\:\\ 0\\.007439879067782807\ \(0\)\
+\-\ the\\:\\ 0\\.005642827947086767\ \(0\)\
+\-\ \\.\\:\\ 0\\.0014489606570345418\ \(0\)\
+\-\ of\\:\\ 0\\.0011888142938570247\ \(0\)\

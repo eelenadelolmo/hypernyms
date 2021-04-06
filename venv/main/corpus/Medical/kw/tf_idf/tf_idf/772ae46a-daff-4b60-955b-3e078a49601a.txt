@@ -1,61 +1,59 @@
-Texto: 
-mass in nose and throat.
-radiation therapy and chemotherapy
-infiltrative and destructive central skull base mass with both intra and extracranial extension.  mass is lobulated, destroys bone, and enhances following contrast administration.
-plasmacytoma
-â€¢ lymphoma
-â€¢ nasopharyngeal carcinoma
-â€¢ chordoma
-â€¢ metastatic disease
-â€¢ chloroma, plasmacytoma
-64 year old man presents with nasal congestion, bilateral hearing loss and mass in throat.
-
-
-Keywords by value: 
-- plasmacytoma: 0.16868945363514512
-- throat: 0.14155631278962819
-- destroys: 0.11771552526676164
-- â€¢: 0.11355176460839768
-- extracranial: 0.10443594944249852
-- chloroma: 0.10443594944249852
-- nasopharyngeal: 0.08587169081261353
-- chordoma: 0.08111076230577242
-- intra: 0.07999538489800245
-- destructive: 0.07429911550510959
-- nose: 0.07135794385298365
-- infiltrative: 0.07106515099330944
-- mass: 0.06889629025782983
-- 64: 0.06748746870444676
-- congestion: 0.06748746870444676
-- lobulated: 0.062227968795905184
-- nasal: 0.06131233254052067
-- hearing: 0.061019539680846474
-- enhances: 0.05849847725876766
-- skull: 0.05274447378829955
-- administration: 0.05141536615801696
-- base: 0.04851388815697633
-- chemotherapy: 0.044390518625229934
-- extension: 0.044207642335965996
-- central: 0.040748280534202305
-- radiation: 0.04064132245742517
-- loss: 0.03594875612273101
-- lymphoma: 0.035394183107093996
-- following: 0.035148952998567365
-- carcinoma: 0.035100401014722706
-- therapy: 0.03311073617740019
-- both: 0.03162608682153799
-- metastatic: 0.031175498603131742
-- bone: 0.03077441567333145
-- bilateral: 0.03005532941035426
-- man: 0.02928886729115941
-- contrast: 0.02772138676533196
-- presents: 0.025299192688520666
-- disease: 0.020242573061097162
-- ,: 0.01569333713143695
-- and: 0.01565295702019291
-- year: 0.013856598105404561
-- old: 0.012680211548728329
-- in: 0.012214412467833476
-- is: 0.008149141715720662
-- with: 0.0033914253939098474
-- .: 0.0020579441215852912
+\-\ Texto\\:\\ \ \(0\)\
+\-\ mass\\ in\\ nose\\ and\\ throat\\.\ \(0\)\
+\-\ radiation\\ therapy\\ and\\ chemotherapy\ \(5\)\
+\-\ infiltrative\\ and\\ destructive\\ central\\ skull\\ base\\ mass\\ with\\ both\\ intra\\ and\\ extracranial\\ extension\\.\\ \\ mass\\ is\\ lobulated\\,\\ destroys\\ bone\\,\\ and\\ enhances\\ following\\ contrast\\ administration\\.\ \(0\)\
+\-\ plasmacytoma\ \(10\)\
+\-\ \\â\\€\\¢\\ lymphoma\ \(6\)\
+\-\ \\â\\€\\¢\\ nasopharyngeal\\ carcinoma\ \(0\)\
+\-\ \\â\\€\\¢\\ chordoma\ \(1\)\
+\-\ \\â\\€\\¢\\ metastatic\\ disease\ \(13\)\
+\-\ \\â\\€\\¢\\ chloroma\\,\\ plasmacytoma\ \(0\)\
+\-\ 64\\ year\\ old\\ man\\ presents\\ with\\ nasal\\ congestion\\,\\ bilateral\\ hearing\\ loss\\ and\\ mass\\ in\\ throat\\.\ \(1\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ plasmacytoma\\:\\ 0\\.16868945363514512\ \(0\)\
+\-\ throat\\:\\ 0\\.14155631278962819\ \(0\)\
+\-\ destroys\\:\\ 0\\.11771552526676164\ \(0\)\
+\-\ \\â\\€\\¢\\:\\ 0\\.11355176460839768\ \(0\)\
+\-\ extracranial\\:\\ 0\\.10443594944249852\ \(0\)\
+\-\ chloroma\\:\\ 0\\.10443594944249852\ \(0\)\
+\-\ nasopharyngeal\\:\\ 0\\.08587169081261353\ \(0\)\
+\-\ chordoma\\:\\ 0\\.08111076230577242\ \(0\)\
+\-\ intra\\:\\ 0\\.07999538489800245\ \(0\)\
+\-\ destructive\\:\\ 0\\.07429911550510959\ \(0\)\
+\-\ nose\\:\\ 0\\.07135794385298365\ \(0\)\
+\-\ infiltrative\\:\\ 0\\.07106515099330944\ \(0\)\
+\-\ mass\\:\\ 0\\.06889629025782983\ \(0\)\
+\-\ 64\\:\\ 0\\.06748746870444676\ \(0\)\
+\-\ congestion\\:\\ 0\\.06748746870444676\ \(0\)\
+\-\ lobulated\\:\\ 0\\.062227968795905184\ \(0\)\
+\-\ nasal\\:\\ 0\\.06131233254052067\ \(0\)\
+\-\ hearing\\:\\ 0\\.061019539680846474\ \(0\)\
+\-\ enhances\\:\\ 0\\.05849847725876766\ \(0\)\
+\-\ skull\\:\\ 0\\.05274447378829955\ \(0\)\
+\-\ administration\\:\\ 0\\.05141536615801696\ \(0\)\
+\-\ base\\:\\ 0\\.04851388815697633\ \(0\)\
+\-\ chemotherapy\\:\\ 0\\.044390518625229934\ \(0\)\
+\-\ extension\\:\\ 0\\.044207642335965996\ \(0\)\
+\-\ central\\:\\ 0\\.040748280534202305\ \(0\)\
+\-\ radiation\\:\\ 0\\.04064132245742517\ \(0\)\
+\-\ loss\\:\\ 0\\.03594875612273101\ \(0\)\
+\-\ lymphoma\\:\\ 0\\.035394183107093996\ \(0\)\
+\-\ following\\:\\ 0\\.035148952998567365\ \(0\)\
+\-\ carcinoma\\:\\ 0\\.035100401014722706\ \(0\)\
+\-\ therapy\\:\\ 0\\.03311073617740019\ \(0\)\
+\-\ both\\:\\ 0\\.03162608682153799\ \(0\)\
+\-\ metastatic\\:\\ 0\\.031175498603131742\ \(0\)\
+\-\ bone\\:\\ 0\\.03077441567333145\ \(0\)\
+\-\ bilateral\\:\\ 0\\.03005532941035426\ \(0\)\
+\-\ man\\:\\ 0\\.02928886729115941\ \(0\)\
+\-\ contrast\\:\\ 0\\.02772138676533196\ \(0\)\
+\-\ presents\\:\\ 0\\.025299192688520666\ \(0\)\
+\-\ disease\\:\\ 0\\.020242573061097162\ \(0\)\
+\-\ \\,\\:\\ 0\\.01569333713143695\ \(0\)\
+\-\ and\\:\\ 0\\.01565295702019291\ \(0\)\
+\-\ year\\:\\ 0\\.013856598105404561\ \(0\)\
+\-\ old\\:\\ 0\\.012680211548728329\ \(0\)\
+\-\ in\\:\\ 0\\.012214412467833476\ \(0\)\
+\-\ is\\:\\ 0\\.008149141715720662\ \(0\)\
+\-\ with\\:\\ 0\\.0033914253939098474\ \(0\)\
+\-\ \\.\\:\\ 0\\.0020579441215852912\ \(0\)\

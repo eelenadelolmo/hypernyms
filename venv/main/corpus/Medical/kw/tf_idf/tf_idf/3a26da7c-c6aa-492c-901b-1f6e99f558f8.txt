@@ -1,55 +1,53 @@
-Texto: 
-well developed child mildly malnourished presenting a hypermobile stomach
-sonographic images of the distal stomach revealed increased thickness and length of the pyloric muscle with no passage of gastric contents on real time examination
-hypertrophic pyloric stenosis
-pyloric stenosis
-gastroenteritis
-gastro-esophageal reflux
-intestinal malrotation
-3 week old male with projectile vomiting
-
-
-Keywords by value: 
-- pyloric: 0.3128829919117657
-- hypermobile: 0.15926218124326574
-- malnourished: 0.15131188500585074
-- stomach: 0.1481790518256027
-- gastro-esophageal: 0.13469820146884676
-- stenosis: 0.1312728738365242
-- gastroenteritis: 0.11511920480000114
-- projectile: 0.11053852144350101
-- real: 0.10973809017839799
-- passage: 0.10429433063725525
-- hypertrophic: 0.09736021220110666
-- intestinal: 0.09500444138067406
-- contents: 0.09463792896867106
-- malrotation: 0.09392483790649703
-- thickness: 0.08644704268043618
-- length: 0.08397880256496552
-- sonographic: 0.08122920763734494
-- reflux: 0.07741145046099834
-- gastric: 0.07486874804318398
-- child: 0.07334009036730728
-- mildly: 0.0713601704194641
-- presenting: 0.06829018883727704
-- developed: 0.06451108793793557
-- vomiting: 0.06397174194205649
-- muscle: 0.060182651635810686
-- week: 0.05690226310447506
-- revealed: 0.05377399784051163
-- examination: 0.05208672618577579
-- time: 0.047325514259594366
-- distal: 0.0455544821361966
-- increased: 0.04098989768234619
-- 3: 0.039234814249147834
-- well: 0.03790354809742453
-- images: 0.0321424292539089
-- male: 0.03029814780171516
-- old: 0.01715558033063244
-- no: 0.016871453935368666
-- on: 0.014193941418929962
-- a: 0.007776466702325515
-- of: 0.0068531647528228485
-- the: 0.0054215405766127765
-- with: 0.004588399062348617
-- and: 0.003529588347690558
+\-\ Texto\\:\\ \ \(0\)\
+\-\ well\\ developed\\ child\\ mildly\\ malnourished\\ presenting\\ a\\ hypermobile\\ stomach\ \(0\)\
+\-\ sonographic\\ images\\ of\\ the\\ distal\\ stomach\\ revealed\\ increased\\ thickness\\ and\\ length\\ of\\ the\\ pyloric\\ muscle\\ with\\ no\\ passage\\ of\\ gastric\\ contents\\ on\\ real\\ time\\ examination\ \(0\)\
+\-\ hypertrophic\\ pyloric\\ stenosis\ \(7\)\
+\-\ pyloric\\ stenosis\ \(30\)\
+\-\ gastroenteritis\ \(17\)\
+\-\ gastro\\-esophageal\\ reflux\ \(2\)\
+\-\ intestinal\\ malrotation\ \(3\)\
+\-\ 3\\ week\\ old\\ male\\ with\\ projectile\\ vomiting\ \(1\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ pyloric\\:\\ 0\\.3128829919117657\ \(0\)\
+\-\ hypermobile\\:\\ 0\\.15926218124326574\ \(0\)\
+\-\ malnourished\\:\\ 0\\.15131188500585074\ \(0\)\
+\-\ stomach\\:\\ 0\\.1481790518256027\ \(0\)\
+\-\ gastro\\-esophageal\\:\\ 0\\.13469820146884676\ \(0\)\
+\-\ stenosis\\:\\ 0\\.1312728738365242\ \(0\)\
+\-\ gastroenteritis\\:\\ 0\\.11511920480000114\ \(0\)\
+\-\ projectile\\:\\ 0\\.11053852144350101\ \(0\)\
+\-\ real\\:\\ 0\\.10973809017839799\ \(0\)\
+\-\ passage\\:\\ 0\\.10429433063725525\ \(0\)\
+\-\ hypertrophic\\:\\ 0\\.09736021220110666\ \(0\)\
+\-\ intestinal\\:\\ 0\\.09500444138067406\ \(0\)\
+\-\ contents\\:\\ 0\\.09463792896867106\ \(0\)\
+\-\ malrotation\\:\\ 0\\.09392483790649703\ \(0\)\
+\-\ thickness\\:\\ 0\\.08644704268043618\ \(0\)\
+\-\ length\\:\\ 0\\.08397880256496552\ \(0\)\
+\-\ sonographic\\:\\ 0\\.08122920763734494\ \(0\)\
+\-\ reflux\\:\\ 0\\.07741145046099834\ \(0\)\
+\-\ gastric\\:\\ 0\\.07486874804318398\ \(0\)\
+\-\ child\\:\\ 0\\.07334009036730728\ \(0\)\
+\-\ mildly\\:\\ 0\\.0713601704194641\ \(0\)\
+\-\ presenting\\:\\ 0\\.06829018883727704\ \(0\)\
+\-\ developed\\:\\ 0\\.06451108793793557\ \(0\)\
+\-\ vomiting\\:\\ 0\\.06397174194205649\ \(0\)\
+\-\ muscle\\:\\ 0\\.060182651635810686\ \(0\)\
+\-\ week\\:\\ 0\\.05690226310447506\ \(0\)\
+\-\ revealed\\:\\ 0\\.05377399784051163\ \(0\)\
+\-\ examination\\:\\ 0\\.05208672618577579\ \(0\)\
+\-\ time\\:\\ 0\\.047325514259594366\ \(0\)\
+\-\ distal\\:\\ 0\\.0455544821361966\ \(0\)\
+\-\ increased\\:\\ 0\\.04098989768234619\ \(0\)\
+\-\ 3\\:\\ 0\\.039234814249147834\ \(0\)\
+\-\ well\\:\\ 0\\.03790354809742453\ \(0\)\
+\-\ images\\:\\ 0\\.0321424292539089\ \(0\)\
+\-\ male\\:\\ 0\\.03029814780171516\ \(0\)\
+\-\ old\\:\\ 0\\.01715558033063244\ \(0\)\
+\-\ no\\:\\ 0\\.016871453935368666\ \(0\)\
+\-\ on\\:\\ 0\\.014193941418929962\ \(0\)\
+\-\ a\\:\\ 0\\.007776466702325515\ \(0\)\
+\-\ of\\:\\ 0\\.0068531647528228485\ \(0\)\
+\-\ the\\:\\ 0\\.0054215405766127765\ \(0\)\
+\-\ with\\:\\ 0\\.004588399062348617\ \(0\)\
+\-\ and\\:\\ 0\\.003529588347690558\ \(0\)\

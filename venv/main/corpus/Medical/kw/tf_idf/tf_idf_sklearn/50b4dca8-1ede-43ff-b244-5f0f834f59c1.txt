@@ -1,41 +1,39 @@
-Texto: 
-large compound paraesophageal hernia
-compound paraesophageal hernia
-sliding hiatus hernia
-paraesophageal hernia
-compound paraesophageal hernia
-50 yo aaf with anemia of unknown etiology.  the patient had an upper endoscopy, which showed a large hiatus hernia.  however, due to the patient's anatomy, the endoscope was unable to fully evaluate the hiatus hernia.
-
-
-Keywords by value: 
-- hernia: 0.5815033313695294
-- paraesophageal: 0.45880919524507274
-- compound: 0.3826820485145672
-- hiatus: 0.3655067398103856
-- endoscope: 0.1443708389274302
-- aaf: 0.13049963794243954
-- sliding: 0.11406248881391871
-- fully: 0.10823297708418937
-- endoscopy: 0.10386183715312046
-- large: 0.10056661257684013
-- anatomy: 0.09515872733135673
-- anemia: 0.09220327636472753
-- unable: 0.08691686940085283
-- etiology: 0.08084455250472469
-- the: 0.08009858349752763
-- evaluate: 0.07803776456919392
-- unknown: 0.07604688730326879
-- 50: 0.07008606444076941
-- showed: 0.06684415018551965
-- patient: 0.06528149690466514
-- yo: 0.0626966967566362
-- however: 0.05939898144725689
-- due: 0.0576864732195942
-- upper: 0.05362865873437681
-- to: 0.05017757443872447
-- had: 0.050001017824321786
-- which: 0.04563284322785627
-- an: 0.03837577359155671
-- was: 0.034975037752306565
-- with: 0.019650947176500063
-- of: 0.01963921275156077
+\-\ Texto\\:\\ \ \(0\)\
+\-\ large\\ compound\\ paraesophageal\\ hernia\ \(0\)\
+\-\ compound\\ paraesophageal\\ hernia\ \(1\)\
+\-\ sliding\\ hiatus\\ hernia\ \(0\)\
+\-\ paraesophageal\\ hernia\ \(16\)\
+\-\ compound\\ paraesophageal\\ hernia\ \(1\)\
+\-\ 50\\ yo\\ aaf\\ with\\ anemia\\ of\\ unknown\\ etiology\\.\\ \\ the\\ patient\\ had\\ an\\ upper\\ endoscopy\\,\\ which\\ showed\\ a\\ large\\ hiatus\\ hernia\\.\\ \\ however\\,\\ due\\ to\\ the\\ patient\\'s\\ anatomy\\,\\ the\\ endoscope\\ was\\ unable\\ to\\ fully\\ evaluate\\ the\\ hiatus\\ hernia\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ hernia\\:\\ 0\\.5815033313695294\ \(0\)\
+\-\ paraesophageal\\:\\ 0\\.45880919524507274\ \(0\)\
+\-\ compound\\:\\ 0\\.3826820485145672\ \(0\)\
+\-\ hiatus\\:\\ 0\\.3655067398103856\ \(0\)\
+\-\ endoscope\\:\\ 0\\.1443708389274302\ \(0\)\
+\-\ aaf\\:\\ 0\\.13049963794243954\ \(0\)\
+\-\ sliding\\:\\ 0\\.11406248881391871\ \(0\)\
+\-\ fully\\:\\ 0\\.10823297708418937\ \(0\)\
+\-\ endoscopy\\:\\ 0\\.10386183715312046\ \(0\)\
+\-\ large\\:\\ 0\\.10056661257684013\ \(0\)\
+\-\ anatomy\\:\\ 0\\.09515872733135673\ \(0\)\
+\-\ anemia\\:\\ 0\\.09220327636472753\ \(0\)\
+\-\ unable\\:\\ 0\\.08691686940085283\ \(0\)\
+\-\ etiology\\:\\ 0\\.08084455250472469\ \(0\)\
+\-\ the\\:\\ 0\\.08009858349752763\ \(0\)\
+\-\ evaluate\\:\\ 0\\.07803776456919392\ \(0\)\
+\-\ unknown\\:\\ 0\\.07604688730326879\ \(0\)\
+\-\ 50\\:\\ 0\\.07008606444076941\ \(0\)\
+\-\ showed\\:\\ 0\\.06684415018551965\ \(0\)\
+\-\ patient\\:\\ 0\\.06528149690466514\ \(0\)\
+\-\ yo\\:\\ 0\\.0626966967566362\ \(0\)\
+\-\ however\\:\\ 0\\.05939898144725689\ \(0\)\
+\-\ due\\:\\ 0\\.0576864732195942\ \(0\)\
+\-\ upper\\:\\ 0\\.05362865873437681\ \(0\)\
+\-\ to\\:\\ 0\\.05017757443872447\ \(0\)\
+\-\ had\\:\\ 0\\.050001017824321786\ \(0\)\
+\-\ which\\:\\ 0\\.04563284322785627\ \(0\)\
+\-\ an\\:\\ 0\\.03837577359155671\ \(0\)\
+\-\ was\\:\\ 0\\.034975037752306565\ \(0\)\
+\-\ with\\:\\ 0\\.019650947176500063\ \(0\)\
+\-\ of\\:\\ 0\\.01963921275156077\ \(0\)\

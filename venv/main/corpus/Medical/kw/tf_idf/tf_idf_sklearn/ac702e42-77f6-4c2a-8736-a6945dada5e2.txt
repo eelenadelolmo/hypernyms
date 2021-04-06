@@ -1,74 +1,72 @@
-Texto: 
-subsequent to the successful contrast enema reduction, the patient was admitted to the pediatric service for observation. after an uneventful two day stay the patient was discharged home.
-scout: soft tissue mass left mid-abdomen
-flouroscopy: initial identification of a soft tissue meniscus preventing the free flow of contrast at the level of the sigmoid colon, consistent with the suspected diagnosis of an intussusception.  subsequent images demonstrate reduction of the intussusception with reflux of contrast into the terminal ileum seen on real-time imaging.
-intussusception
-intussusception
-7 month old male who presented with vomiting, lethargy, and "current jelly" stools.
-
-
-Keywords by value: 
-- intussusception: 0.5055815437804526
-- the: 0.23576604855102956
-- reduction: 0.2062804015388809
-- subsequent: 0.17890194067187395
-- contrast: 0.17223023594321168
-- jelly: 0.16997924674145082
-- flouroscopy: 0.1602438538202117
-- preventing: 0.1402537066401916
-- of: 0.13873682309694463
-- stools: 0.13664224786544274
-- uneventful: 0.13429482071369558
-- stay: 0.13218655077697225
-- scout: 0.13218655077697225
-- lethargy: 0.13152892595538024
-- identification: 0.13089153898787986
-- soft: 0.12580855541367883
-- tissue: 0.12396500834005723
-- meniscus: 0.12270325153959523
-- service: 0.122284783933027
-- terminal: 0.12147238796533805
-- ileum: 0.11957073761734073
-- enema: 0.11921049476313794
-- successful: 0.11473176994354081
-- observation: 0.11081191675721824
-- sigmoid: 0.10943050883863678
-- pediatric: 0.10576566487450405
-- home: 0.10449894627655441
-- current: 0.10347162291214076
-- reflux: 0.10233412855146173
-- discharged: 0.10140650599522341
-- admitted: 0.09681469567900527
-- suspected: 0.09681469567900527
-- free: 0.09197572800520536
-- an: 0.0903656879280473
-- colon: 0.08996668432777004
-- vomiting: 0.08743051586520109
-- was: 0.08235777551835408
-- initial: 0.07926424057840889
-- flow: 0.07870092313668933
-- patient: 0.07686108740828976
-- day: 0.07526398837014027
-- month: 0.07187627480891691
-- level: 0.07137367096811073
-- two: 0.07016805978514433
-- with: 0.06940985915784295
-- presented: 0.06890247554875113
-- who: 0.06683689908371757
-- consistent: 0.06406744317315152
-- into: 0.0628102324056005
-- imaging: 0.062095507407287684
-- demonstrate: 0.06142655447930721
-- diagnosis: 0.061251756462938574
-- to: 0.059078040757903634
-- after: 0.0573199024408139
-- seen: 0.05562736356646152
-- images: 0.054655483568942204
-- male: 0.05260804610476824
-- mass: 0.04513282355329886
-- at: 0.044629398467467794
-- left: 0.04030593308151863
-- for: 0.035812482883272566
-- on: 0.03568544512219918
-- old: 0.03496972247535778
-- and: 0.024415699504736325
+\-\ Texto\\:\\ \ \(0\)\
+\-\ subsequent\\ to\\ the\\ successful\\ contrast\\ enema\\ reduction\\,\\ the\\ patient\\ was\\ admitted\\ to\\ the\\ pediatric\\ service\\ for\\ observation\\.\\ after\\ an\\ uneventful\\ two\\ day\\ stay\\ the\\ patient\\ was\\ discharged\\ home\\.\ \(0\)\
+\-\ scout\\:\\ soft\\ tissue\\ mass\\ left\\ mid\\-abdomen\ \(0\)\
+\-\ flouroscopy\\:\\ initial\\ identification\\ of\\ a\\ soft\\ tissue\\ meniscus\\ preventing\\ the\\ free\\ flow\\ of\\ contrast\\ at\\ the\\ level\\ of\\ the\\ sigmoid\\ colon\\,\\ consistent\\ with\\ the\\ suspected\\ diagnosis\\ of\\ an\\ intussusception\\.\\ \\ subsequent\\ images\\ demonstrate\\ reduction\\ of\\ the\\ intussusception\\ with\\ reflux\\ of\\ contrast\\ into\\ the\\ terminal\\ ileum\\ seen\\ on\\ real\\-time\\ imaging\\.\ \(0\)\
+\-\ intussusception\ \(91\)\
+\-\ intussusception\ \(91\)\
+\-\ 7\\ month\\ old\\ male\\ who\\ presented\\ with\\ vomiting\\,\\ lethargy\\,\\ and\\ \\"current\\ jelly\\"\\ stools\\.\ \(1\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ intussusception\\:\\ 0\\.5055815437804526\ \(0\)\
+\-\ the\\:\\ 0\\.23576604855102956\ \(0\)\
+\-\ reduction\\:\\ 0\\.2062804015388809\ \(0\)\
+\-\ subsequent\\:\\ 0\\.17890194067187395\ \(0\)\
+\-\ contrast\\:\\ 0\\.17223023594321168\ \(0\)\
+\-\ jelly\\:\\ 0\\.16997924674145082\ \(0\)\
+\-\ flouroscopy\\:\\ 0\\.1602438538202117\ \(0\)\
+\-\ preventing\\:\\ 0\\.1402537066401916\ \(0\)\
+\-\ of\\:\\ 0\\.13873682309694463\ \(0\)\
+\-\ stools\\:\\ 0\\.13664224786544274\ \(0\)\
+\-\ uneventful\\:\\ 0\\.13429482071369558\ \(0\)\
+\-\ stay\\:\\ 0\\.13218655077697225\ \(0\)\
+\-\ scout\\:\\ 0\\.13218655077697225\ \(0\)\
+\-\ lethargy\\:\\ 0\\.13152892595538024\ \(0\)\
+\-\ identification\\:\\ 0\\.13089153898787986\ \(0\)\
+\-\ soft\\:\\ 0\\.12580855541367883\ \(0\)\
+\-\ tissue\\:\\ 0\\.12396500834005723\ \(0\)\
+\-\ meniscus\\:\\ 0\\.12270325153959523\ \(0\)\
+\-\ service\\:\\ 0\\.122284783933027\ \(0\)\
+\-\ terminal\\:\\ 0\\.12147238796533805\ \(0\)\
+\-\ ileum\\:\\ 0\\.11957073761734073\ \(0\)\
+\-\ enema\\:\\ 0\\.11921049476313794\ \(0\)\
+\-\ successful\\:\\ 0\\.11473176994354081\ \(0\)\
+\-\ observation\\:\\ 0\\.11081191675721824\ \(0\)\
+\-\ sigmoid\\:\\ 0\\.10943050883863678\ \(0\)\
+\-\ pediatric\\:\\ 0\\.10576566487450405\ \(0\)\
+\-\ home\\:\\ 0\\.10449894627655441\ \(0\)\
+\-\ current\\:\\ 0\\.10347162291214076\ \(0\)\
+\-\ reflux\\:\\ 0\\.10233412855146173\ \(0\)\
+\-\ discharged\\:\\ 0\\.10140650599522341\ \(0\)\
+\-\ admitted\\:\\ 0\\.09681469567900527\ \(0\)\
+\-\ suspected\\:\\ 0\\.09681469567900527\ \(0\)\
+\-\ free\\:\\ 0\\.09197572800520536\ \(0\)\
+\-\ an\\:\\ 0\\.0903656879280473\ \(0\)\
+\-\ colon\\:\\ 0\\.08996668432777004\ \(0\)\
+\-\ vomiting\\:\\ 0\\.08743051586520109\ \(0\)\
+\-\ was\\:\\ 0\\.08235777551835408\ \(0\)\
+\-\ initial\\:\\ 0\\.07926424057840889\ \(0\)\
+\-\ flow\\:\\ 0\\.07870092313668933\ \(0\)\
+\-\ patient\\:\\ 0\\.07686108740828976\ \(0\)\
+\-\ day\\:\\ 0\\.07526398837014027\ \(0\)\
+\-\ month\\:\\ 0\\.07187627480891691\ \(0\)\
+\-\ level\\:\\ 0\\.07137367096811073\ \(0\)\
+\-\ two\\:\\ 0\\.07016805978514433\ \(0\)\
+\-\ with\\:\\ 0\\.06940985915784295\ \(0\)\
+\-\ presented\\:\\ 0\\.06890247554875113\ \(0\)\
+\-\ who\\:\\ 0\\.06683689908371757\ \(0\)\
+\-\ consistent\\:\\ 0\\.06406744317315152\ \(0\)\
+\-\ into\\:\\ 0\\.0628102324056005\ \(0\)\
+\-\ imaging\\:\\ 0\\.062095507407287684\ \(0\)\
+\-\ demonstrate\\:\\ 0\\.06142655447930721\ \(0\)\
+\-\ diagnosis\\:\\ 0\\.061251756462938574\ \(0\)\
+\-\ to\\:\\ 0\\.059078040757903634\ \(0\)\
+\-\ after\\:\\ 0\\.0573199024408139\ \(0\)\
+\-\ seen\\:\\ 0\\.05562736356646152\ \(0\)\
+\-\ images\\:\\ 0\\.054655483568942204\ \(0\)\
+\-\ male\\:\\ 0\\.05260804610476824\ \(0\)\
+\-\ mass\\:\\ 0\\.04513282355329886\ \(0\)\
+\-\ at\\:\\ 0\\.044629398467467794\ \(0\)\
+\-\ left\\:\\ 0\\.04030593308151863\ \(0\)\
+\-\ for\\:\\ 0\\.035812482883272566\ \(0\)\
+\-\ on\\:\\ 0\\.03568544512219918\ \(0\)\
+\-\ old\\:\\ 0\\.03496972247535778\ \(0\)\
+\-\ and\\:\\ 0\\.024415699504736325\ \(0\)\

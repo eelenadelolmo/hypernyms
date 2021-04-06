@@ -1,125 +1,120 @@
-Texto: 
-bhcg 17,000 (obtained after the ultrasound)
-sagittal ultrasound through the uterus demonstrates a mass either on the wall or in the wall of the uterus and vascular flow within it.
-
-images through the right adenexae demonstrate a cystic mass with a thick cortex adjacent to the right ovary.  there is increased flow in the periphery of this lesion.  no yolk sac or embryo was found.  although not shown, the left ovary was normal in appearance.
-ectopic (tubal)pregnancy
-heterotopic pregnancy â€“ simultaneous right ovarian and intrauterine pregnancies
-
-right adenexal ectopic pregnancy and molar / partial molar intrauterine pregnancy
-
-right adenexal ectopic pregnancy with an unrelated uterine mass such as a leiomyoma.
-32 year old female presents for ultrasound follow-up of a large cyst on her left ovary seen 3 months ago on ct.  she recently found out she is 7 weeks pregnant based on date of last menstrual period. the patient is asymptomatic and has not been taking any medications.  no significant past medical history.
-most patients are symptomatic with a 7-week old ectopic pregnancy (e.g. pain), but this patient had no symptoms.
-
-
-Keywords by value: 
-- pregnancy: 0.4098740657117435
-- ectopic: 0.2953057730443408
-- ovary: 0.24503559968515812
-- adenexal: 0.240173966575876
-- molar: 0.20435739324550653
-- intrauterine: 0.18584518093681446
-- the: 0.1665640604660148
-- ultrasound: 0.15446789047932305
-- uterus: 0.1464383024434215
-- right: 0.1383780691847666
-- adenexae: 0.13349565016508216
-- embryo: 0.11516317037865156
-- simultaneous: 0.11516317037865156
-- flow: 0.11120129807183352
-- found: 0.10802503090920339
-- bhcg: 0.10217869662275327
-- wall: 0.10155833935311592
-- pregnancies: 0.10134226108570683
-- on: 0.10084425091094705
-- through: 0.09938206663976706
-- she: 0.09938206663976706
-- tubal: 0.09908647583896389
-- menstrual: 0.09653505148662507
-- yolk: 0.0959611097680608
-- mass: 0.09565634743680936
-- unrelated: 0.09540883147018792
-- heterotopic: 0.08826245384602947
-- pregnant: 0.08761196284390496
-- leiomyoma: 0.08668742566805221
-- periphery: 0.08421986193492634
-- no: 0.08143594159677492
-- taking: 0.08085388475440501
-- thick: 0.07933213693050024
-- uterine: 0.07795383532066258
-- date: 0.0771539838976817
-- sac: 0.07433110147787088
-- period: 0.07298311968531215
-- recently: 0.07286651637510749
-- 32: 0.0715352683042173
-- ovarian: 0.07111713591530262
-- medications: 0.07002530754337792
-- either: 0.06900931591306093
-- and: 0.06899683942824753
-- is: 0.06858107702336257
-- cortex: 0.067975923997692
-- last: 0.06789301364556627
-- not: 0.0659083589879959
-- of: 0.06534321836753815
-- shown: 0.06471052204471656
-- partial: 0.06431676811906269
-- sagittal: 0.06418783655370214
-- symptomatic: 0.06418783655370214
-- in: 0.06229805722782116
-- ago: 0.06107728935799404
-- based: 0.06046746620419581
-- obtained: 0.05904560708216277
-- was: 0.05818414307570027
-- or: 0.05807934667008572
-- this: 0.05736743588858001
-- left: 0.056950692571633196
-- although: 0.056828586462073706
-- asymptomatic: 0.056828586462073706
-- vascular: 0.05510930568154517
-- out: 0.05486968520237519
-- past: 0.054336281714296296
-- patient: 0.054300841402900625
-- adjacent: 0.05410889541663837
-- any: 0.05394861300369027
-- such: 0.053695757675926756
-- medical: 0.05305208030618521
-- her: 0.05215081682394089
-- appearance: 0.05032420128002708
-- cystic: 0.050274511459772284
-- weeks: 0.050028562174431204
-- old: 0.04941083760501287
-- with: 0.049036695693706736
-- been: 0.04863382750502889
-- months: 0.048589550200433575
-- significant: 0.04819697004893414
-- cyst: 0.048153993107604855
-- patients: 0.04695958784192364
-- symptoms: 0.04567311732605092
-- increased: 0.045139632804916195
-- most: 0.04344322774701859
-- demonstrate: 0.043396648488579
-- it: 0.04272999069636843
-- demonstrates: 0.04193723154338462
-- large: 0.04182541714642962
-- had: 0.04159061093263745
-- but: 0.0412788125006395
-- after: 0.04049537986802767
-- female: 0.040280825057730084
-- presents: 0.04015607035496519
-- lesion: 0.04002005753124258
-- seen: 0.039299634555497266
-- images: 0.03861302051726995
-- within: 0.03844628527626485
-- has: 0.03812921982682677
-- normal: 0.03408252598493169
-- as: 0.033535109360859176
-- there: 0.033214680452707805
-- an: 0.031920787578629005
-- history: 0.03189251000846847
-- ct: 0.03177994300721354
-- are: 0.031675192108928954
-- pain: 0.02987064014198237
-- year: 0.025725535091187673
-- for: 0.025300812398849033
-- to: 0.020868734946124578
+\-\ Texto\\:\\ \ \(0\)\
+\-\ bhcg\\ 17\\,000\\ \\(obtained\\ after\\ the\\ ultrasound\\)\ \(0\)\
+\-\ sagittal\\ ultrasound\\ through\\ the\\ uterus\\ demonstrates\\ a\\ mass\\ either\\ on\\ the\\ wall\\ or\\ in\\ the\\ wall\\ of\\ the\\ uterus\\ and\\ vascular\\ flow\\ within\\ it\\.\ \(0\)\
+\-\ images\\ through\\ the\\ right\\ adenexae\\ demonstrate\\ a\\ cystic\\ mass\\ with\\ a\\ thick\\ cortex\\ adjacent\\ to\\ the\\ right\\ ovary\\.\\ \\ there\\ is\\ increased\\ flow\\ in\\ the\\ periphery\\ of\\ this\\ lesion\\.\\ \\ no\\ yolk\\ sac\\ or\\ embryo\\ was\\ found\\.\\ \\ although\\ not\\ shown\\,\\ the\\ left\\ ovary\\ was\\ normal\\ in\\ appearance\\.\ \(0\)\
+\-\ ectopic\\ \\(tubal\\)pregnancy\ \(0\)\
+\-\ heterotopic\\ pregnancy\\ \\â\\€\\“\\ simultaneous\\ right\\ ovarian\\ and\\ intrauterine\\ pregnancies\ \(0\)\
+\-\ right\\ adenexal\\ ectopic\\ pregnancy\\ and\\ molar\\ \\/\\ partial\\ molar\\ intrauterine\\ pregnancy\ \(0\)\
+\-\ right\\ adenexal\\ ectopic\\ pregnancy\\ with\\ an\\ unrelated\\ uterine\\ mass\\ such\\ as\\ a\\ leiomyoma\\.\ \(0\)\
+\-\ 32\\ year\\ old\\ female\\ presents\\ for\\ ultrasound\\ follow\\-up\\ of\\ a\\ large\\ cyst\\ on\\ her\\ left\\ ovary\\ seen\\ 3\\ months\\ ago\\ on\\ ct\\.\\ \\ she\\ recently\\ found\\ out\\ she\\ is\\ 7\\ weeks\\ pregnant\\ based\\ on\\ date\\ of\\ last\\ menstrual\\ period\\.\\ the\\ patient\\ is\\ asymptomatic\\ and\\ has\\ not\\ been\\ taking\\ any\\ medications\\.\\ \\ no\\ significant\\ past\\ medical\\ history\\.\ \(0\)\
+\-\ most\\ patients\\ are\\ symptomatic\\ with\\ a\\ 7\\-week\\ old\\ ectopic\\ pregnancy\\ \\(e\\.g\\.\\ pain\\)\\,\\ but\\ this\\ patient\\ had\\ no\\ symptoms\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ pregnancy\\:\\ 0\\.4098740657117435\ \(0\)\
+\-\ ectopic\\:\\ 0\\.2953057730443408\ \(0\)\
+\-\ ovary\\:\\ 0\\.24503559968515812\ \(0\)\
+\-\ adenexal\\:\\ 0\\.240173966575876\ \(0\)\
+\-\ molar\\:\\ 0\\.20435739324550653\ \(0\)\
+\-\ intrauterine\\:\\ 0\\.18584518093681446\ \(0\)\
+\-\ the\\:\\ 0\\.1665640604660148\ \(0\)\
+\-\ ultrasound\\:\\ 0\\.15446789047932305\ \(0\)\
+\-\ uterus\\:\\ 0\\.1464383024434215\ \(0\)\
+\-\ right\\:\\ 0\\.1383780691847666\ \(0\)\
+\-\ adenexae\\:\\ 0\\.13349565016508216\ \(0\)\
+\-\ embryo\\:\\ 0\\.11516317037865156\ \(0\)\
+\-\ simultaneous\\:\\ 0\\.11516317037865156\ \(0\)\
+\-\ flow\\:\\ 0\\.11120129807183352\ \(0\)\
+\-\ found\\:\\ 0\\.10802503090920339\ \(0\)\
+\-\ bhcg\\:\\ 0\\.10217869662275327\ \(0\)\
+\-\ wall\\:\\ 0\\.10155833935311592\ \(0\)\
+\-\ pregnancies\\:\\ 0\\.10134226108570683\ \(0\)\
+\-\ on\\:\\ 0\\.10084425091094705\ \(0\)\
+\-\ through\\:\\ 0\\.09938206663976706\ \(0\)\
+\-\ she\\:\\ 0\\.09938206663976706\ \(0\)\
+\-\ tubal\\:\\ 0\\.09908647583896389\ \(0\)\
+\-\ menstrual\\:\\ 0\\.09653505148662507\ \(0\)\
+\-\ yolk\\:\\ 0\\.0959611097680608\ \(0\)\
+\-\ mass\\:\\ 0\\.09565634743680936\ \(0\)\
+\-\ unrelated\\:\\ 0\\.09540883147018792\ \(0\)\
+\-\ heterotopic\\:\\ 0\\.08826245384602947\ \(0\)\
+\-\ pregnant\\:\\ 0\\.08761196284390496\ \(0\)\
+\-\ leiomyoma\\:\\ 0\\.08668742566805221\ \(0\)\
+\-\ periphery\\:\\ 0\\.08421986193492634\ \(0\)\
+\-\ no\\:\\ 0\\.08143594159677492\ \(0\)\
+\-\ taking\\:\\ 0\\.08085388475440501\ \(0\)\
+\-\ thick\\:\\ 0\\.07933213693050024\ \(0\)\
+\-\ uterine\\:\\ 0\\.07795383532066258\ \(0\)\
+\-\ date\\:\\ 0\\.0771539838976817\ \(0\)\
+\-\ sac\\:\\ 0\\.07433110147787088\ \(0\)\
+\-\ period\\:\\ 0\\.07298311968531215\ \(0\)\
+\-\ recently\\:\\ 0\\.07286651637510749\ \(0\)\
+\-\ 32\\:\\ 0\\.0715352683042173\ \(0\)\
+\-\ ovarian\\:\\ 0\\.07111713591530262\ \(0\)\
+\-\ medications\\:\\ 0\\.07002530754337792\ \(0\)\
+\-\ either\\:\\ 0\\.06900931591306093\ \(0\)\
+\-\ and\\:\\ 0\\.06899683942824753\ \(0\)\
+\-\ is\\:\\ 0\\.06858107702336257\ \(0\)\
+\-\ cortex\\:\\ 0\\.067975923997692\ \(0\)\
+\-\ last\\:\\ 0\\.06789301364556627\ \(0\)\
+\-\ not\\:\\ 0\\.0659083589879959\ \(0\)\
+\-\ of\\:\\ 0\\.06534321836753815\ \(0\)\
+\-\ shown\\:\\ 0\\.06471052204471656\ \(0\)\
+\-\ partial\\:\\ 0\\.06431676811906269\ \(0\)\
+\-\ sagittal\\:\\ 0\\.06418783655370214\ \(0\)\
+\-\ symptomatic\\:\\ 0\\.06418783655370214\ \(0\)\
+\-\ in\\:\\ 0\\.06229805722782116\ \(0\)\
+\-\ ago\\:\\ 0\\.06107728935799404\ \(0\)\
+\-\ based\\:\\ 0\\.06046746620419581\ \(0\)\
+\-\ obtained\\:\\ 0\\.05904560708216277\ \(0\)\
+\-\ was\\:\\ 0\\.05818414307570027\ \(0\)\
+\-\ or\\:\\ 0\\.05807934667008572\ \(0\)\
+\-\ this\\:\\ 0\\.05736743588858001\ \(0\)\
+\-\ left\\:\\ 0\\.056950692571633196\ \(0\)\
+\-\ although\\:\\ 0\\.056828586462073706\ \(0\)\
+\-\ asymptomatic\\:\\ 0\\.056828586462073706\ \(0\)\
+\-\ vascular\\:\\ 0\\.05510930568154517\ \(0\)\
+\-\ out\\:\\ 0\\.05486968520237519\ \(0\)\
+\-\ past\\:\\ 0\\.054336281714296296\ \(0\)\
+\-\ patient\\:\\ 0\\.054300841402900625\ \(0\)\
+\-\ adjacent\\:\\ 0\\.05410889541663837\ \(0\)\
+\-\ any\\:\\ 0\\.05394861300369027\ \(0\)\
+\-\ such\\:\\ 0\\.053695757675926756\ \(0\)\
+\-\ medical\\:\\ 0\\.05305208030618521\ \(0\)\
+\-\ her\\:\\ 0\\.05215081682394089\ \(0\)\
+\-\ appearance\\:\\ 0\\.05032420128002708\ \(0\)\
+\-\ cystic\\:\\ 0\\.050274511459772284\ \(0\)\
+\-\ weeks\\:\\ 0\\.050028562174431204\ \(0\)\
+\-\ old\\:\\ 0\\.04941083760501287\ \(0\)\
+\-\ with\\:\\ 0\\.049036695693706736\ \(0\)\
+\-\ been\\:\\ 0\\.04863382750502889\ \(0\)\
+\-\ months\\:\\ 0\\.048589550200433575\ \(0\)\
+\-\ significant\\:\\ 0\\.04819697004893414\ \(0\)\
+\-\ cyst\\:\\ 0\\.048153993107604855\ \(0\)\
+\-\ patients\\:\\ 0\\.04695958784192364\ \(0\)\
+\-\ symptoms\\:\\ 0\\.04567311732605092\ \(0\)\
+\-\ increased\\:\\ 0\\.045139632804916195\ \(0\)\
+\-\ most\\:\\ 0\\.04344322774701859\ \(0\)\
+\-\ demonstrate\\:\\ 0\\.043396648488579\ \(0\)\
+\-\ it\\:\\ 0\\.04272999069636843\ \(0\)\
+\-\ demonstrates\\:\\ 0\\.04193723154338462\ \(0\)\
+\-\ large\\:\\ 0\\.04182541714642962\ \(0\)\
+\-\ had\\:\\ 0\\.04159061093263745\ \(0\)\
+\-\ but\\:\\ 0\\.0412788125006395\ \(0\)\
+\-\ after\\:\\ 0\\.04049537986802767\ \(0\)\
+\-\ female\\:\\ 0\\.040280825057730084\ \(0\)\
+\-\ presents\\:\\ 0\\.04015607035496519\ \(0\)\
+\-\ lesion\\:\\ 0\\.04002005753124258\ \(0\)\
+\-\ seen\\:\\ 0\\.039299634555497266\ \(0\)\
+\-\ images\\:\\ 0\\.03861302051726995\ \(0\)\
+\-\ within\\:\\ 0\\.03844628527626485\ \(0\)\
+\-\ has\\:\\ 0\\.03812921982682677\ \(0\)\
+\-\ normal\\:\\ 0\\.03408252598493169\ \(0\)\
+\-\ as\\:\\ 0\\.033535109360859176\ \(0\)\
+\-\ there\\:\\ 0\\.033214680452707805\ \(0\)\
+\-\ an\\:\\ 0\\.031920787578629005\ \(0\)\
+\-\ history\\:\\ 0\\.03189251000846847\ \(0\)\
+\-\ ct\\:\\ 0\\.03177994300721354\ \(0\)\
+\-\ are\\:\\ 0\\.031675192108928954\ \(0\)\
+\-\ pain\\:\\ 0\\.02987064014198237\ \(0\)\
+\-\ year\\:\\ 0\\.025725535091187673\ \(0\)\
+\-\ for\\:\\ 0\\.025300812398849033\ \(0\)\
+\-\ to\\:\\ 0\\.020868734946124578\ \(0\)\

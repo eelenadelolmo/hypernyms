@@ -1,78 +1,76 @@
-Texto: 
-n/a
-patient is undergoing workup for infertility.
-images from a hysterosalpingogram demonstrate a normal uterus with opacification of the fallopian tubes with patency.  incidentally, there are diverticulae that extend from the lateral aspect of the lower uterine segment.
-uterine cervical diverticulum
-uterine cervical diverticulum
-degenerated leiomyoma
-36 year old g0p0 female presenting for infertility work up.
-patient is undergoing workup for infertility.  incidentally diverticulae were demonstrated on the hysterosalpingogram.  since this patient had no previous pregnancies or surgery, the congenital anomaly of a uterine cervical diverticulum rather than a pregnancy associated sacculation is the likely diagnosis.
-
-
-Keywords by value: 
-- uterine: 0.16703625238564512
-- infertility: 0.14870287175206495
-- diverticulae: 0.14698868829139788
-- diverticulum: 0.11630246558866422
-- hysterosalpingogram: 0.11510342289003271
-- cervical: 0.08871689733118938
-- workup: 0.08374624411752192
-- undergoing: 0.07981991639394719
-- sacculation: 0.07735591660387194
-- incidentally: 0.07378811431156561
-- g0p0: 0.06862933820507046
-- degenerated: 0.06415311316463489
-- pregnancies: 0.05697433409438364
-- patency: 0.0564299682482889
-- tubes: 0.04956762391735499
-- fallopian: 0.04791741704807845
-- leiomyoma: 0.04791741704807845
-- opacification: 0.043095799836362934
-- extend: 0.040789704102983264
-- 36: 0.040789704102983264
-- anomaly: 0.04029096138377073
-- rather: 0.038685030789144134
-- uterus: 0.03836215886842336
-- work: 0.038126991129467436
-- segment: 0.03550401989270585
-- pregnancy: 0.034989093975846076
-- presenting: 0.03316952029239171
-- previous: 0.031603335225459966
-- since: 0.029892996397125875
-- congenital: 0.02976341875849941
-- n/a: 0.029478158546277018
-- aspect: 0.02556468509031769
-- patient: 0.024474055169039655
-- from: 0.02412258501246119
-- demonstrated: 0.023880190309113977
-- likely: 0.02295514253272054
-- up: 0.021884258581468797
-- than: 0.021324274808745467
-- for: 0.02083166138979186
-- surgery: 0.01976189585105024
-- associated: 0.019204405351501926
-- demonstrate: 0.018728115631743248
-- diagnosis: 0.018687803150289714
-- were: 0.018478917492284967
-- lower: 0.018303448279655837
-- lateral: 0.017587314720233813
-- had: 0.017560474468959128
-- female: 0.016731050204265085
-- is: 0.01606545081099216
-- images: 0.015612037066184326
-- a: 0.01510856387880386
-- that: 0.014056959319607843
-- normal: 0.012758213853324773
-- there: 0.012111576728237988
-- are: 0.011094036881234302
-- or: 0.009538311894892454
-- this: 0.009153687745848887
-- year: 0.009105764469265856
-- old: 0.008332710446307188
-- no: 0.008194706197179068
-- the: 0.007899959125921474
-- on: 0.006894200117765982
-- ,: 0.005156382200329284
-- of: 0.0033286800227996694
-- .: 0.002366635739823085
-- with: 0.002228650973140757
+\-\ Texto\\:\\ \ \(0\)\
+\-\ n\\/a\ \(127\)\
+\-\ patient\\ is\\ undergoing\\ workup\\ for\\ infertility\\.\ \(0\)\
+\-\ images\\ from\\ a\\ hysterosalpingogram\\ demonstrate\\ a\\ normal\\ uterus\\ with\\ opacification\\ of\\ the\\ fallopian\\ tubes\\ with\\ patency\\.\\ \\ incidentally\\,\\ there\\ are\\ diverticulae\\ that\\ extend\\ from\\ the\\ lateral\\ aspect\\ of\\ the\\ lower\\ uterine\\ segment\\.\ \(0\)\
+\-\ uterine\\ cervical\\ diverticulum\ \(1\)\
+\-\ uterine\\ cervical\\ diverticulum\ \(1\)\
+\-\ degenerated\\ leiomyoma\ \(0\)\
+\-\ 36\\ year\\ old\\ g0p0\\ female\\ presenting\\ for\\ infertility\\ work\\ up\\.\ \(0\)\
+\-\ patient\\ is\\ undergoing\\ workup\\ for\\ infertility\\.\\ \\ incidentally\\ diverticulae\\ were\\ demonstrated\\ on\\ the\\ hysterosalpingogram\\.\\ \\ since\\ this\\ patient\\ had\\ no\\ previous\\ pregnancies\\ or\\ surgery\\,\\ the\\ congenital\\ anomaly\\ of\\ a\\ uterine\\ cervical\\ diverticulum\\ rather\\ than\\ a\\ pregnancy\\ associated\\ sacculation\\ is\\ the\\ likely\\ diagnosis\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ uterine\\:\\ 0\\.16703625238564512\ \(0\)\
+\-\ infertility\\:\\ 0\\.14870287175206495\ \(0\)\
+\-\ diverticulae\\:\\ 0\\.14698868829139788\ \(0\)\
+\-\ diverticulum\\:\\ 0\\.11630246558866422\ \(0\)\
+\-\ hysterosalpingogram\\:\\ 0\\.11510342289003271\ \(0\)\
+\-\ cervical\\:\\ 0\\.08871689733118938\ \(0\)\
+\-\ workup\\:\\ 0\\.08374624411752192\ \(0\)\
+\-\ undergoing\\:\\ 0\\.07981991639394719\ \(0\)\
+\-\ sacculation\\:\\ 0\\.07735591660387194\ \(0\)\
+\-\ incidentally\\:\\ 0\\.07378811431156561\ \(0\)\
+\-\ g0p0\\:\\ 0\\.06862933820507046\ \(0\)\
+\-\ degenerated\\:\\ 0\\.06415311316463489\ \(0\)\
+\-\ pregnancies\\:\\ 0\\.05697433409438364\ \(0\)\
+\-\ patency\\:\\ 0\\.0564299682482889\ \(0\)\
+\-\ tubes\\:\\ 0\\.04956762391735499\ \(0\)\
+\-\ fallopian\\:\\ 0\\.04791741704807845\ \(0\)\
+\-\ leiomyoma\\:\\ 0\\.04791741704807845\ \(0\)\
+\-\ opacification\\:\\ 0\\.043095799836362934\ \(0\)\
+\-\ extend\\:\\ 0\\.040789704102983264\ \(0\)\
+\-\ 36\\:\\ 0\\.040789704102983264\ \(0\)\
+\-\ anomaly\\:\\ 0\\.04029096138377073\ \(0\)\
+\-\ rather\\:\\ 0\\.038685030789144134\ \(0\)\
+\-\ uterus\\:\\ 0\\.03836215886842336\ \(0\)\
+\-\ work\\:\\ 0\\.038126991129467436\ \(0\)\
+\-\ segment\\:\\ 0\\.03550401989270585\ \(0\)\
+\-\ pregnancy\\:\\ 0\\.034989093975846076\ \(0\)\
+\-\ presenting\\:\\ 0\\.03316952029239171\ \(0\)\
+\-\ previous\\:\\ 0\\.031603335225459966\ \(0\)\
+\-\ since\\:\\ 0\\.029892996397125875\ \(0\)\
+\-\ congenital\\:\\ 0\\.02976341875849941\ \(0\)\
+\-\ n\\/a\\:\\ 0\\.029478158546277018\ \(0\)\
+\-\ aspect\\:\\ 0\\.02556468509031769\ \(0\)\
+\-\ patient\\:\\ 0\\.024474055169039655\ \(0\)\
+\-\ from\\:\\ 0\\.02412258501246119\ \(0\)\
+\-\ demonstrated\\:\\ 0\\.023880190309113977\ \(0\)\
+\-\ likely\\:\\ 0\\.02295514253272054\ \(0\)\
+\-\ up\\:\\ 0\\.021884258581468797\ \(0\)\
+\-\ than\\:\\ 0\\.021324274808745467\ \(0\)\
+\-\ for\\:\\ 0\\.02083166138979186\ \(0\)\
+\-\ surgery\\:\\ 0\\.01976189585105024\ \(0\)\
+\-\ associated\\:\\ 0\\.019204405351501926\ \(0\)\
+\-\ demonstrate\\:\\ 0\\.018728115631743248\ \(0\)\
+\-\ diagnosis\\:\\ 0\\.018687803150289714\ \(0\)\
+\-\ were\\:\\ 0\\.018478917492284967\ \(0\)\
+\-\ lower\\:\\ 0\\.018303448279655837\ \(0\)\
+\-\ lateral\\:\\ 0\\.017587314720233813\ \(0\)\
+\-\ had\\:\\ 0\\.017560474468959128\ \(0\)\
+\-\ female\\:\\ 0\\.016731050204265085\ \(0\)\
+\-\ is\\:\\ 0\\.01606545081099216\ \(0\)\
+\-\ images\\:\\ 0\\.015612037066184326\ \(0\)\
+\-\ a\\:\\ 0\\.01510856387880386\ \(0\)\
+\-\ that\\:\\ 0\\.014056959319607843\ \(0\)\
+\-\ normal\\:\\ 0\\.012758213853324773\ \(0\)\
+\-\ there\\:\\ 0\\.012111576728237988\ \(0\)\
+\-\ are\\:\\ 0\\.011094036881234302\ \(0\)\
+\-\ or\\:\\ 0\\.009538311894892454\ \(0\)\
+\-\ this\\:\\ 0\\.009153687745848887\ \(0\)\
+\-\ year\\:\\ 0\\.009105764469265856\ \(0\)\
+\-\ old\\:\\ 0\\.008332710446307188\ \(0\)\
+\-\ no\\:\\ 0\\.008194706197179068\ \(0\)\
+\-\ the\\:\\ 0\\.007899959125921474\ \(0\)\
+\-\ on\\:\\ 0\\.006894200117765982\ \(0\)\
+\-\ \\,\\:\\ 0\\.005156382200329284\ \(0\)\
+\-\ of\\:\\ 0\\.0033286800227996694\ \(0\)\
+\-\ \\.\\:\\ 0\\.002366635739823085\ \(0\)\
+\-\ with\\:\\ 0\\.002228650973140757\ \(0\)\

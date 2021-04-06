@@ -1,92 +1,90 @@
-Texto: 
-surgical excision with chemotherapy and continuation of regular screening exams.
-there is a mass in the central portion of the left kidney that is hypoenhancing relative to the normal renal parenchyma.  the kidney itself is markedly enlarged with severe calyceal dilation.  the right kidney has post-surgical changes in the inferior pole consistent with prior wilmâ€™s tumor extraction.  there is no evidence of  vascular invasion or para-aortic lymphadenopathy and the remainder of the abdomen appears grossly normal.
-wilms tumor in the setting of known nephroblastomatosis
-wilms tumor
-neuroblastoma
-lymphoma
-rhabdomyosarcoma
-the patient is an asymptomatic 5-year-old male who presents with a known history of nephroblastomatosis and prior right-sided wilm's tumor for a routine, screening abdominal mri.
-
-
-Keywords by value: 
-- wilm: 0.10991373239857896
-- nephroblastomatosis: 0.1077772301165866
-- wilms: 0.08462652638960538
-- kidney: 0.07224920292120024
-- 5-year-old: 0.06497896994725243
-- tumor: 0.06375143365154597
-- hypoenhancing: 0.059433792502772864
-- screening: 0.058320550862853544
-- para-aortic: 0.0538886150582933
-- continuation: 0.05134098520934502
-- calyceal: 0.048859745782914306
-- extraction: 0.048859745782914306
-- post-surgical: 0.04445937508756013
-- known: 0.04326481735142112
-- exams: 0.03861227501921779
-- itself: 0.038465481909872215
-- rhabdomyosarcoma: 0.038465481909872215
-- grossly: 0.03587828066944134
-- prior: 0.035105804355237816
-- setting: 0.034525670029089864
-- neuroblastoma: 0.03417778913357196
-- right-sided: 0.03336902019860101
-- invasion: 0.03292030446539265
-- relative: 0.03256469036482599
-- markedly: 0.032358670396006664
-- dilation: 0.03222421344947562
-- remainder: 0.03222421344947562
-- pole: 0.031833892136120166
-- regular: 0.031522568806122774
-- parenchyma: 0.029114949531141354
-- lymphadenopathy: 0.029069878989395306
-- excision: 0.028058005812522345
-- routine: 0.02741157355319998
-- appears: 0.02544583056637799
-- portion: 0.024761653178872692
-- chemotherapy: 0.02450356628112692
-- enlarged: 0.023324968563072052
-- inferior: 0.023194530890872502
-- asymptomatic: 0.023108739183968698
-- central: 0.022493050854879675
-- is: 0.022491631135389024
-- vascular: 0.022414426143389572
-- normal: 0.021433799273585616
-- severe: 0.021034478400528033
-- renal: 0.020539804395664555
-- â€™: 0.020432213917163648
-- there: 0.02034744890343982
-- abdomen: 0.02025107410316557
-- s: 0.019606141336916696
-- changes: 0.019592383809880484
-- lymphoma: 0.019537589075115887
-- evidence: 0.017923540666935023
-- who: 0.017823747273133617
-- abdominal: 0.017087353904976923
-- consistent: 0.016762386150649625
-- mri: 0.01570620683931696
-- 's: 0.01507237294693636
-- surgical: 0.014369774162011628
-- presents: 0.013965154364063407
-- has: 0.012837599763954224
-- male: 0.012361644303099786
-- that: 0.011807845828470586
-- the: 0.011059942776290063
-- in: 0.010113533523366119
-- a: 0.00951839524364643
-- mass: 0.009507688055580516
-- an: 0.00945331891427784
-- history: 0.009441716301656668
-- or: 0.00801218199170966
-- left: 0.007648842154183318
-- right: 0.007213053672883334
-- no: 0.006883553205630416
-- patient: 0.006852735447331104
-- for: 0.005832865189141721
-- of: 0.005592182438303445
-- and: 0.004320216137573243
-- with: 0.0037441336348764715
-- to: 0.00341654486754389
-- ,: 0.0021656805241382993
-- .: 0.0017039777326726213
+\-\ Texto\\:\\ \ \(0\)\
+\-\ surgical\\ excision\\ with\\ chemotherapy\\ and\\ continuation\\ of\\ regular\\ screening\\ exams\\.\ \(0\)\
+\-\ there\\ is\\ a\\ mass\\ in\\ the\\ central\\ portion\\ of\\ the\\ left\\ kidney\\ that\\ is\\ hypoenhancing\\ relative\\ to\\ the\\ normal\\ renal\\ parenchyma\\.\\ \\ the\\ kidney\\ itself\\ is\\ markedly\\ enlarged\\ with\\ severe\\ calyceal\\ dilation\\.\\ \\ the\\ right\\ kidney\\ has\\ post\\-surgical\\ changes\\ in\\ the\\ inferior\\ pole\\ consistent\\ with\\ prior\\ wilm\\â\\€\\™s\\ tumor\\ extraction\\.\\ \\ there\\ is\\ no\\ evidence\\ of\\ \\ vascular\\ invasion\\ or\\ para\\-aortic\\ lymphadenopathy\\ and\\ the\\ remainder\\ of\\ the\\ abdomen\\ appears\\ grossly\\ normal\\.\ \(0\)\
+\-\ wilms\\ tumor\\ in\\ the\\ setting\\ of\\ known\\ nephroblastomatosis\ \(0\)\
+\-\ wilms\\ tumor\ \(0\)\
+\-\ neuroblastoma\ \(81\)\
+\-\ lymphoma\ \(373\)\
+\-\ rhabdomyosarcoma\ \(41\)\
+\-\ the\\ patient\\ is\\ an\\ asymptomatic\\ 5\\-year\\-old\\ male\\ who\\ presents\\ with\\ a\\ known\\ history\\ of\\ nephroblastomatosis\\ and\\ prior\\ right\\-sided\\ wilm\\'s\\ tumor\\ for\\ a\\ routine\\,\\ screening\\ abdominal\\ mri\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ wilm\\:\\ 0\\.10991373239857896\ \(0\)\
+\-\ nephroblastomatosis\\:\\ 0\\.1077772301165866\ \(0\)\
+\-\ wilms\\:\\ 0\\.08462652638960538\ \(0\)\
+\-\ kidney\\:\\ 0\\.07224920292120024\ \(0\)\
+\-\ 5\\-year\\-old\\:\\ 0\\.06497896994725243\ \(0\)\
+\-\ tumor\\:\\ 0\\.06375143365154597\ \(0\)\
+\-\ hypoenhancing\\:\\ 0\\.059433792502772864\ \(0\)\
+\-\ screening\\:\\ 0\\.058320550862853544\ \(0\)\
+\-\ para\\-aortic\\:\\ 0\\.0538886150582933\ \(0\)\
+\-\ continuation\\:\\ 0\\.05134098520934502\ \(0\)\
+\-\ calyceal\\:\\ 0\\.048859745782914306\ \(0\)\
+\-\ extraction\\:\\ 0\\.048859745782914306\ \(0\)\
+\-\ post\\-surgical\\:\\ 0\\.04445937508756013\ \(0\)\
+\-\ known\\:\\ 0\\.04326481735142112\ \(0\)\
+\-\ exams\\:\\ 0\\.03861227501921779\ \(0\)\
+\-\ itself\\:\\ 0\\.038465481909872215\ \(0\)\
+\-\ rhabdomyosarcoma\\:\\ 0\\.038465481909872215\ \(0\)\
+\-\ grossly\\:\\ 0\\.03587828066944134\ \(0\)\
+\-\ prior\\:\\ 0\\.035105804355237816\ \(0\)\
+\-\ setting\\:\\ 0\\.034525670029089864\ \(0\)\
+\-\ neuroblastoma\\:\\ 0\\.03417778913357196\ \(0\)\
+\-\ right\\-sided\\:\\ 0\\.03336902019860101\ \(0\)\
+\-\ invasion\\:\\ 0\\.03292030446539265\ \(0\)\
+\-\ relative\\:\\ 0\\.03256469036482599\ \(0\)\
+\-\ markedly\\:\\ 0\\.032358670396006664\ \(0\)\
+\-\ dilation\\:\\ 0\\.03222421344947562\ \(0\)\
+\-\ remainder\\:\\ 0\\.03222421344947562\ \(0\)\
+\-\ pole\\:\\ 0\\.031833892136120166\ \(0\)\
+\-\ regular\\:\\ 0\\.031522568806122774\ \(0\)\
+\-\ parenchyma\\:\\ 0\\.029114949531141354\ \(0\)\
+\-\ lymphadenopathy\\:\\ 0\\.029069878989395306\ \(0\)\
+\-\ excision\\:\\ 0\\.028058005812522345\ \(0\)\
+\-\ routine\\:\\ 0\\.02741157355319998\ \(0\)\
+\-\ appears\\:\\ 0\\.02544583056637799\ \(0\)\
+\-\ portion\\:\\ 0\\.024761653178872692\ \(0\)\
+\-\ chemotherapy\\:\\ 0\\.02450356628112692\ \(0\)\
+\-\ enlarged\\:\\ 0\\.023324968563072052\ \(0\)\
+\-\ inferior\\:\\ 0\\.023194530890872502\ \(0\)\
+\-\ asymptomatic\\:\\ 0\\.023108739183968698\ \(0\)\
+\-\ central\\:\\ 0\\.022493050854879675\ \(0\)\
+\-\ is\\:\\ 0\\.022491631135389024\ \(0\)\
+\-\ vascular\\:\\ 0\\.022414426143389572\ \(0\)\
+\-\ normal\\:\\ 0\\.021433799273585616\ \(0\)\
+\-\ severe\\:\\ 0\\.021034478400528033\ \(0\)\
+\-\ renal\\:\\ 0\\.020539804395664555\ \(0\)\
+\-\ \\â\\€\\™\\:\\ 0\\.020432213917163648\ \(0\)\
+\-\ there\\:\\ 0\\.02034744890343982\ \(0\)\
+\-\ abdomen\\:\\ 0\\.02025107410316557\ \(0\)\
+\-\ s\\:\\ 0\\.019606141336916696\ \(0\)\
+\-\ changes\\:\\ 0\\.019592383809880484\ \(0\)\
+\-\ lymphoma\\:\\ 0\\.019537589075115887\ \(0\)\
+\-\ evidence\\:\\ 0\\.017923540666935023\ \(0\)\
+\-\ who\\:\\ 0\\.017823747273133617\ \(0\)\
+\-\ abdominal\\:\\ 0\\.017087353904976923\ \(0\)\
+\-\ consistent\\:\\ 0\\.016762386150649625\ \(0\)\
+\-\ mri\\:\\ 0\\.01570620683931696\ \(0\)\
+\-\ \\'s\\:\\ 0\\.01507237294693636\ \(0\)\
+\-\ surgical\\:\\ 0\\.014369774162011628\ \(0\)\
+\-\ presents\\:\\ 0\\.013965154364063407\ \(0\)\
+\-\ has\\:\\ 0\\.012837599763954224\ \(0\)\
+\-\ male\\:\\ 0\\.012361644303099786\ \(0\)\
+\-\ that\\:\\ 0\\.011807845828470586\ \(0\)\
+\-\ the\\:\\ 0\\.011059942776290063\ \(0\)\
+\-\ in\\:\\ 0\\.010113533523366119\ \(0\)\
+\-\ a\\:\\ 0\\.00951839524364643\ \(0\)\
+\-\ mass\\:\\ 0\\.009507688055580516\ \(0\)\
+\-\ an\\:\\ 0\\.00945331891427784\ \(0\)\
+\-\ history\\:\\ 0\\.009441716301656668\ \(0\)\
+\-\ or\\:\\ 0\\.00801218199170966\ \(0\)\
+\-\ left\\:\\ 0\\.007648842154183318\ \(0\)\
+\-\ right\\:\\ 0\\.007213053672883334\ \(0\)\
+\-\ no\\:\\ 0\\.006883553205630416\ \(0\)\
+\-\ patient\\:\\ 0\\.006852735447331104\ \(0\)\
+\-\ for\\:\\ 0\\.005832865189141721\ \(0\)\
+\-\ of\\:\\ 0\\.005592182438303445\ \(0\)\
+\-\ and\\:\\ 0\\.004320216137573243\ \(0\)\
+\-\ with\\:\\ 0\\.0037441336348764715\ \(0\)\
+\-\ to\\:\\ 0\\.00341654486754389\ \(0\)\
+\-\ \\,\\:\\ 0\\.0021656805241382993\ \(0\)\
+\-\ \\.\\:\\ 0\\.0017039777326726213\ \(0\)\

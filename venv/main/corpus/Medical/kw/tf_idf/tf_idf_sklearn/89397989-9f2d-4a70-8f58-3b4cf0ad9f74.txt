@@ -1,89 +1,84 @@
-Texto: 
-patient received surgery to fix the hernia.  subsequent radiographs demonstrated eventration of the right hemidiaphragm.
-large right hemithorax mass seen on the pa view.
-
-silhouette sign of the right heart border.
-
-gas pockets within the superior portion of the mass.  
-
-lateral image demonstrates the mass to be anterior in the chest.
-morgagni hernia
-morgagni hernia
-pericardial cyst
-pericardial fat pad
-27 year old woman complaining of cough receives pa and lateral chest radiographs.
-this is a rather large example in an asymptomatic adult.  this case may have required a ct if there weren't scattered gas bubbles in the mass to clue the interpreter that this is a hernia, not a pericardial cyst.
-
-
-Keywords by value: 
-- hernia: 0.3637811497883174
-- pericardial: 0.3225067159015279
-- morgagni: 0.2646831112409586
-- the: 0.21922540315423264
-- gas: 0.1924247226209682
-- pa: 0.16862684653692514
-- mass: 0.16786575505284018
-- interpreter: 0.16235180812005373
-- pockets: 0.15454244939098502
-- fix: 0.1515734689953162
-- eventration: 0.144703820951162
-- clue: 0.144703820951162
-- radiographs: 0.14251716000742898
-- receives: 0.13565143426893972
-- bubbles: 0.131353634025605
-- cyst: 0.12675697894210192
-- pad: 0.11849107437260296
-- chest: 0.11598723111115301
-- hemidiaphragm: 0.114491888614314
-- this: 0.11325731876443353
-- silhouette: 0.11222335808173359
-- hemithorax: 0.11186994911172883
-- large: 0.11009810772343462
-- example: 0.10956254823604111
-- right: 0.10927683170016526
-- lateral: 0.10904962027234164
-- adult: 0.10134338152603053
-- complaining: 0.09941574924624173
-- rather: 0.09733152871797725
-- border: 0.09716761072030149
-- received: 0.09560087349226871
-- scattered: 0.09560087349226871
-- 27: 0.08903454271635353
-- of: 0.08600230655965195
-- subsequent: 0.08317535605720891
-- to: 0.08239995144960655
-- cough: 0.08202629278419765
-- in: 0.08199437905922775
-- view: 0.08045607006404754
-- portion: 0.07856437414159236
-- required: 0.07844051359593195
-- heart: 0.07639273331338046
-- sign: 0.07606254953898978
-- asymptomatic: 0.07479566566147215
-- superior: 0.07142940372636306
-- image: 0.07026428189877613
-- fat: 0.06834434217963774
-- demonstrated: 0.06752158809172307
-- if: 0.06383572752524075
-- anterior: 0.06134357242160422
-- is: 0.060175903561804175
-- surgery: 0.05906939620571432
-- woman: 0.05721933509360102
-- may: 0.055288772830012156
-- demonstrates: 0.05519621980004954
-- case: 0.05519621980004954
-- have: 0.054884825262464805
-- seen: 0.05172471303316224
-- within: 0.05060156654377133
-- that: 0.047678359688756285
-- be: 0.04456883836290217
-- there: 0.04371592342616775
-- not: 0.043373061781612175
-- an: 0.04201294989055207
-- ct: 0.041827575519488756
-- patient: 0.03573437095271166
-- year: 0.033858989664067904
-- on: 0.03318186033032277
-- old: 0.03251635065764206
-- and: 0.022702766577775115
-- were: 0.0
+\-\ Texto\\:\\ \ \(0\)\
+\-\ patient\\ received\\ surgery\\ to\\ fix\\ the\\ hernia\\.\\ \\ subsequent\\ radiographs\\ demonstrated\\ eventration\\ of\\ the\\ right\\ hemidiaphragm\\.\ \(0\)\
+\-\ large\\ right\\ hemithorax\\ mass\\ seen\\ on\\ the\\ pa\\ view\\.\ \(0\)\
+\-\ silhouette\\ sign\\ of\\ the\\ right\\ heart\\ border\\.\ \(0\)\
+\-\ gas\\ pockets\\ within\\ the\\ superior\\ portion\\ of\\ the\\ mass\\.\\ \\ \ \(0\)\
+\-\ lateral\\ image\\ demonstrates\\ the\\ mass\\ to\\ be\\ anterior\\ in\\ the\\ chest\\.\ \(0\)\
+\-\ morgagni\\ hernia\ \(1\)\
+\-\ morgagni\\ hernia\ \(1\)\
+\-\ pericardial\\ cyst\ \(13\)\
+\-\ pericardial\\ fat\\ pad\ \(0\)\
+\-\ 27\\ year\\ old\\ woman\\ complaining\\ of\\ cough\\ receives\\ pa\\ and\\ lateral\\ chest\\ radiographs\\.\ \(0\)\
+\-\ this\\ is\\ a\\ rather\\ large\\ example\\ in\\ an\\ asymptomatic\\ adult\\.\\ \\ this\\ case\\ may\\ have\\ required\\ a\\ ct\\ if\\ there\\ weren\\'t\\ scattered\\ gas\\ bubbles\\ in\\ the\\ mass\\ to\\ clue\\ the\\ interpreter\\ that\\ this\\ is\\ a\\ hernia\\,\\ not\\ a\\ pericardial\\ cyst\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ hernia\\:\\ 0\\.3637811497883174\ \(0\)\
+\-\ pericardial\\:\\ 0\\.3225067159015279\ \(0\)\
+\-\ morgagni\\:\\ 0\\.2646831112409586\ \(0\)\
+\-\ the\\:\\ 0\\.21922540315423264\ \(0\)\
+\-\ gas\\:\\ 0\\.1924247226209682\ \(0\)\
+\-\ pa\\:\\ 0\\.16862684653692514\ \(0\)\
+\-\ mass\\:\\ 0\\.16786575505284018\ \(0\)\
+\-\ interpreter\\:\\ 0\\.16235180812005373\ \(0\)\
+\-\ pockets\\:\\ 0\\.15454244939098502\ \(0\)\
+\-\ fix\\:\\ 0\\.1515734689953162\ \(0\)\
+\-\ eventration\\:\\ 0\\.144703820951162\ \(0\)\
+\-\ clue\\:\\ 0\\.144703820951162\ \(0\)\
+\-\ radiographs\\:\\ 0\\.14251716000742898\ \(0\)\
+\-\ receives\\:\\ 0\\.13565143426893972\ \(0\)\
+\-\ bubbles\\:\\ 0\\.131353634025605\ \(0\)\
+\-\ cyst\\:\\ 0\\.12675697894210192\ \(0\)\
+\-\ pad\\:\\ 0\\.11849107437260296\ \(0\)\
+\-\ chest\\:\\ 0\\.11598723111115301\ \(0\)\
+\-\ hemidiaphragm\\:\\ 0\\.114491888614314\ \(0\)\
+\-\ this\\:\\ 0\\.11325731876443353\ \(0\)\
+\-\ silhouette\\:\\ 0\\.11222335808173359\ \(0\)\
+\-\ hemithorax\\:\\ 0\\.11186994911172883\ \(0\)\
+\-\ large\\:\\ 0\\.11009810772343462\ \(0\)\
+\-\ example\\:\\ 0\\.10956254823604111\ \(0\)\
+\-\ right\\:\\ 0\\.10927683170016526\ \(0\)\
+\-\ lateral\\:\\ 0\\.10904962027234164\ \(0\)\
+\-\ adult\\:\\ 0\\.10134338152603053\ \(0\)\
+\-\ complaining\\:\\ 0\\.09941574924624173\ \(0\)\
+\-\ rather\\:\\ 0\\.09733152871797725\ \(0\)\
+\-\ border\\:\\ 0\\.09716761072030149\ \(0\)\
+\-\ received\\:\\ 0\\.09560087349226871\ \(0\)\
+\-\ scattered\\:\\ 0\\.09560087349226871\ \(0\)\
+\-\ 27\\:\\ 0\\.08903454271635353\ \(0\)\
+\-\ of\\:\\ 0\\.08600230655965195\ \(0\)\
+\-\ subsequent\\:\\ 0\\.08317535605720891\ \(0\)\
+\-\ to\\:\\ 0\\.08239995144960655\ \(0\)\
+\-\ cough\\:\\ 0\\.08202629278419765\ \(0\)\
+\-\ in\\:\\ 0\\.08199437905922775\ \(0\)\
+\-\ view\\:\\ 0\\.08045607006404754\ \(0\)\
+\-\ portion\\:\\ 0\\.07856437414159236\ \(0\)\
+\-\ required\\:\\ 0\\.07844051359593195\ \(0\)\
+\-\ heart\\:\\ 0\\.07639273331338046\ \(0\)\
+\-\ sign\\:\\ 0\\.07606254953898978\ \(0\)\
+\-\ asymptomatic\\:\\ 0\\.07479566566147215\ \(0\)\
+\-\ superior\\:\\ 0\\.07142940372636306\ \(0\)\
+\-\ image\\:\\ 0\\.07026428189877613\ \(0\)\
+\-\ fat\\:\\ 0\\.06834434217963774\ \(0\)\
+\-\ demonstrated\\:\\ 0\\.06752158809172307\ \(0\)\
+\-\ if\\:\\ 0\\.06383572752524075\ \(0\)\
+\-\ anterior\\:\\ 0\\.06134357242160422\ \(0\)\
+\-\ is\\:\\ 0\\.060175903561804175\ \(0\)\
+\-\ surgery\\:\\ 0\\.05906939620571432\ \(0\)\
+\-\ woman\\:\\ 0\\.05721933509360102\ \(0\)\
+\-\ may\\:\\ 0\\.055288772830012156\ \(0\)\
+\-\ demonstrates\\:\\ 0\\.05519621980004954\ \(0\)\
+\-\ case\\:\\ 0\\.05519621980004954\ \(0\)\
+\-\ have\\:\\ 0\\.054884825262464805\ \(0\)\
+\-\ seen\\:\\ 0\\.05172471303316224\ \(0\)\
+\-\ within\\:\\ 0\\.05060156654377133\ \(0\)\
+\-\ that\\:\\ 0\\.047678359688756285\ \(0\)\
+\-\ be\\:\\ 0\\.04456883836290217\ \(0\)\
+\-\ there\\:\\ 0\\.04371592342616775\ \(0\)\
+\-\ not\\:\\ 0\\.043373061781612175\ \(0\)\
+\-\ an\\:\\ 0\\.04201294989055207\ \(0\)\
+\-\ ct\\:\\ 0\\.041827575519488756\ \(0\)\
+\-\ patient\\:\\ 0\\.03573437095271166\ \(0\)\
+\-\ year\\:\\ 0\\.033858989664067904\ \(0\)\
+\-\ on\\:\\ 0\\.03318186033032277\ \(0\)\
+\-\ old\\:\\ 0\\.03251635065764206\ \(0\)\
+\-\ and\\:\\ 0\\.022702766577775115\ \(0\)\
+\-\ were\\:\\ 0\\.0\ \(0\)\

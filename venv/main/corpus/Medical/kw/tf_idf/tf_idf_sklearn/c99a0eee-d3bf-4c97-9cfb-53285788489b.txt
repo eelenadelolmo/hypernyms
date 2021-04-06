@@ -1,128 +1,125 @@
-Texto: 
-afebrile. bp = 176/100. hr = 92. 
-exam: 
-skin: pink, dry.
-heent: perrla. otherwise normal.
-neck: non-palpable thyroid.
-remainder of exam noncontributory.
-
-labs:
-urine normetanephrine 24 hr - 406 ug/24 hrs (52-310)
-urine metanephrine 24 hr - 594 ug/24 hrs (95-475)
-surgery is the treatment for pheochromocytoma.
-1) noncontrast images - bilateral adrenal enlargement/thickening with distal nodular thickening of the medial branch of the right adrenal. hu > 10 bilaterally. homogeneous attenuation with no calcifications bilaterally.
-2) 50 sec post contrast images - dense homogeneous enhancement of the bilateral adrenals. hu 115 left and right. 
-3) 15 min post contrast images - hu @ 74 bilaterally. delayed washout of contrast is demonstrated. this is consistent with a non-adenomatous process. 
-4) i-123 mibg 24 hr spect image, coronal plane - bilateral adrenal uptake of mibg. (confirmed in axial and sagittal planes as right adrenal versus gallbladder).
-bilateral pheochromocytomas
-1) pheochromocytoma
-2) adrenal hyperplasia
-3) adrenal metastases
-4) adrenal carcinoma
-5) bilateral adrenal adenomas
-80 year old female with severe hypertension non-responsive to multiple medication regimens.
-see factoid with comments tailored to this case.
-
-
-Keywords by value: 
-- adrenal: 0.49428399237816856
-- 24: 0.23648619973362325
-- hr: 0.22936299726925388
-- hu: 0.22278742232537627
-- mibg: 0.18407368790262763
-- bilateral: 0.17926896821679472
-- hrs: 0.16071808851049724
-- pheochromocytoma: 0.1508274625113747
-- bilaterally: 0.13347741920841538
-- urine: 0.11943258704889463
-- homogeneous: 0.11780479925286201
-- pheochromocytomas: 0.10668791317593378
-- 406: 0.10194599669496088
-- 594: 0.09858155340906502
-- contrast: 0.09724281822057496
-- normetanephrine: 0.0959718884528454
-- metanephrine: 0.09383963692809211
-- adrenals: 0.09383963692809211
-- tailored: 0.09383963692809211
-- images: 0.09257700701062788
-- comments: 0.09203684395131381
-- thickening: 0.09077131088184007
-- regimens: 0.0867508756532475
-- sec: 0.07975916891910789
-- washout: 0.07975916891910789
-- 115: 0.07918856770347213
-- of: 0.07833212092541406
-- adenomas: 0.0776269173943546
-- min: 0.07714950396288828
-- pink: 0.07624944419927752
-- spect: 0.07624944419927752
-- perrla: 0.0758241244175763
-- post: 0.07260087045367454
-- dry: 0.07027533595716207
-- planes: 0.06881155237007806
-- plane: 0.06730737148881859
-- exam: 0.06716627615366727
-- right: 0.06635392574536168
-- 74: 0.06634029145563046
-- branch: 0.06544710908418222
-- with: 0.06531577029083456
-- noncontrast: 0.06445821000542024
-- medication: 0.06166041758719646
-- hyperplasia: 0.06082041525971983
-- heent: 0.05961140488383878
-- gallbladder: 0.05961140488383878
-- noncontributory: 0.0594044082405382
-- versus: 0.05900109223773682
-- dense: 0.058804532904397466
-- remainder: 0.05870747836369245
-- afebrile: 0.057601615263759884
-- is: 0.054809066676948154
-- bp: 0.05412776982332994
-- metastases: 0.05393338853358294
-- the: 0.05324629528903493
-- nodular: 0.05312651655414162
-- coronal: 0.05312651655414162
-- thyroid: 0.052428099803600504
-- delayed: 0.05220426512346363
-- 80: 0.052039156427697575
-- uptake: 0.05129804847366944
-- sagittal: 0.05129804847366944
-- attenuation: 0.05104435078061037
-- hypertension: 0.05104435078061037
-- process: 0.05003512080775212
-- skin: 0.04962790347888618
-- confirmed: 0.04919147205261003
-- calcifications: 0.04868838351744982
-- otherwise: 0.04755509302255266
-- 50: 0.046590378005557695
-- factoid: 0.046590378005557695
-- labs: 0.046219076818903713
-- this: 0.04584727675874236
-- 15: 0.04508028548031888
-- medial: 0.04342481945044096
-- image: 0.04266513652642349
-- severe: 0.04223193866760702
-- see: 0.04149933097022993
-- demonstrated: 0.040999746906464477
-- neck: 0.040809923000045385
-- carcinoma: 0.039904440453888086
-- 10: 0.03901011916195053
-- distal: 0.038761657509736896
-- axial: 0.03853557602256766
-- enhancement: 0.03839859050284666
-- consistent: 0.036173083641353174
-- surgery: 0.035867496052700704
-- case: 0.0335156667067939
-- to: 0.03335601990432605
-- multiple: 0.0326305669772478
-- female: 0.0321918891072464
-- treatment: 0.03177873410686656
-- and: 0.027570669176231077
-- normal: 0.02723829254811181
-- as: 0.026800804606086064
-- left: 0.022757110575805702
-- no: 0.021694166703142705
-- year: 0.020559498761338377
-- for: 0.020220066145608655
-- old: 0.01974423565799685
-- in: 0.016595920821719824
+\-\ Texto\\:\\ \ \(0\)\
+\-\ afebrile\\.\\ bp\\ \\=\\ 176\\/100\\.\\ hr\\ \\=\\ 92\\.\\ \ \(0\)\
+\-\ exam\\:\\ \ \(30\)\
+\-\ skin\\:\\ pink\\,\\ dry\\.\ \(0\)\
+\-\ heent\\:\\ perrla\\.\\ otherwise\\ normal\\.\ \(0\)\
+\-\ neck\\:\\ non\\-palpable\\ thyroid\\.\ \(0\)\
+\-\ remainder\\ of\\ exam\\ noncontributory\\.\ \(0\)\
+\-\ labs\\:\ \(4\)\
+\-\ urine\\ normetanephrine\\ 24\\ hr\\ \\-\\ 406\\ ug\\/24\\ hrs\\ \\(52\\-310\\)\ \(0\)\
+\-\ urine\\ metanephrine\\ 24\\ hr\\ \\-\\ 594\\ ug\\/24\\ hrs\\ \\(95\\-475\\)\ \(0\)\
+\-\ surgery\\ is\\ the\\ treatment\\ for\\ pheochromocytoma\\.\ \(0\)\
+\-\ 1\\)\\ noncontrast\\ images\\ \\-\\ bilateral\\ adrenal\\ enlargement\\/thickening\\ with\\ distal\\ nodular\\ thickening\\ of\\ the\\ medial\\ branch\\ of\\ the\\ right\\ adrenal\\.\\ hu\\ \\>\\ 10\\ bilaterally\\.\\ homogeneous\\ attenuation\\ with\\ no\\ calcifications\\ bilaterally\\.\ \(0\)\
+\-\ 2\\)\\ 50\\ sec\\ post\\ contrast\\ images\\ \\-\\ dense\\ homogeneous\\ enhancement\\ of\\ the\\ bilateral\\ adrenals\\.\\ hu\\ 115\\ left\\ and\\ right\\.\\ \ \(0\)\
+\-\ 3\\)\\ 15\\ min\\ post\\ contrast\\ images\\ \\-\\ hu\\ \\@\\ 74\\ bilaterally\\.\\ delayed\\ washout\\ of\\ contrast\\ is\\ demonstrated\\.\\ this\\ is\\ consistent\\ with\\ a\\ non\\-adenomatous\\ process\\.\\ \ \(0\)\
+\-\ 4\\)\\ i\\-123\\ mibg\\ 24\\ hr\\ spect\\ image\\,\\ coronal\\ plane\\ \\-\\ bilateral\\ adrenal\\ uptake\\ of\\ mibg\\.\\ \\(confirmed\\ in\\ axial\\ and\\ sagittal\\ planes\\ as\\ right\\ adrenal\\ versus\\ gallbladder\\)\\.\ \(0\)\
+\-\ bilateral\\ pheochromocytomas\ \(0\)\
+\-\ 1\\)\\ pheochromocytoma\ \(0\)\
+\-\ 2\\)\\ adrenal\\ hyperplasia\ \(0\)\
+\-\ 3\\)\\ adrenal\\ metastases\ \(0\)\
+\-\ 4\\)\\ adrenal\\ carcinoma\ \(0\)\
+\-\ 5\\)\\ bilateral\\ adrenal\\ adenomas\ \(0\)\
+\-\ 80\\ year\\ old\\ female\\ with\\ severe\\ hypertension\\ non\\-responsive\\ to\\ multiple\\ medication\\ regimens\\.\ \(1\)\
+\-\ see\\ factoid\\ with\\ comments\\ tailored\\ to\\ this\\ case\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ adrenal\\:\\ 0\\.49428399237816856\ \(0\)\
+\-\ 24\\:\\ 0\\.23648619973362325\ \(0\)\
+\-\ hr\\:\\ 0\\.22936299726925388\ \(0\)\
+\-\ hu\\:\\ 0\\.22278742232537627\ \(0\)\
+\-\ mibg\\:\\ 0\\.18407368790262763\ \(0\)\
+\-\ bilateral\\:\\ 0\\.17926896821679472\ \(0\)\
+\-\ hrs\\:\\ 0\\.16071808851049724\ \(0\)\
+\-\ pheochromocytoma\\:\\ 0\\.1508274625113747\ \(0\)\
+\-\ bilaterally\\:\\ 0\\.13347741920841538\ \(0\)\
+\-\ urine\\:\\ 0\\.11943258704889463\ \(0\)\
+\-\ homogeneous\\:\\ 0\\.11780479925286201\ \(0\)\
+\-\ pheochromocytomas\\:\\ 0\\.10668791317593378\ \(0\)\
+\-\ 406\\:\\ 0\\.10194599669496088\ \(0\)\
+\-\ 594\\:\\ 0\\.09858155340906502\ \(0\)\
+\-\ contrast\\:\\ 0\\.09724281822057496\ \(0\)\
+\-\ normetanephrine\\:\\ 0\\.0959718884528454\ \(0\)\
+\-\ metanephrine\\:\\ 0\\.09383963692809211\ \(0\)\
+\-\ adrenals\\:\\ 0\\.09383963692809211\ \(0\)\
+\-\ tailored\\:\\ 0\\.09383963692809211\ \(0\)\
+\-\ images\\:\\ 0\\.09257700701062788\ \(0\)\
+\-\ comments\\:\\ 0\\.09203684395131381\ \(0\)\
+\-\ thickening\\:\\ 0\\.09077131088184007\ \(0\)\
+\-\ regimens\\:\\ 0\\.0867508756532475\ \(0\)\
+\-\ sec\\:\\ 0\\.07975916891910789\ \(0\)\
+\-\ washout\\:\\ 0\\.07975916891910789\ \(0\)\
+\-\ 115\\:\\ 0\\.07918856770347213\ \(0\)\
+\-\ of\\:\\ 0\\.07833212092541406\ \(0\)\
+\-\ adenomas\\:\\ 0\\.0776269173943546\ \(0\)\
+\-\ min\\:\\ 0\\.07714950396288828\ \(0\)\
+\-\ pink\\:\\ 0\\.07624944419927752\ \(0\)\
+\-\ spect\\:\\ 0\\.07624944419927752\ \(0\)\
+\-\ perrla\\:\\ 0\\.0758241244175763\ \(0\)\
+\-\ post\\:\\ 0\\.07260087045367454\ \(0\)\
+\-\ dry\\:\\ 0\\.07027533595716207\ \(0\)\
+\-\ planes\\:\\ 0\\.06881155237007806\ \(0\)\
+\-\ plane\\:\\ 0\\.06730737148881859\ \(0\)\
+\-\ exam\\:\\ 0\\.06716627615366727\ \(0\)\
+\-\ right\\:\\ 0\\.06635392574536168\ \(0\)\
+\-\ 74\\:\\ 0\\.06634029145563046\ \(0\)\
+\-\ branch\\:\\ 0\\.06544710908418222\ \(0\)\
+\-\ with\\:\\ 0\\.06531577029083456\ \(0\)\
+\-\ noncontrast\\:\\ 0\\.06445821000542024\ \(0\)\
+\-\ medication\\:\\ 0\\.06166041758719646\ \(0\)\
+\-\ hyperplasia\\:\\ 0\\.06082041525971983\ \(0\)\
+\-\ heent\\:\\ 0\\.05961140488383878\ \(0\)\
+\-\ gallbladder\\:\\ 0\\.05961140488383878\ \(0\)\
+\-\ noncontributory\\:\\ 0\\.0594044082405382\ \(0\)\
+\-\ versus\\:\\ 0\\.05900109223773682\ \(0\)\
+\-\ dense\\:\\ 0\\.058804532904397466\ \(0\)\
+\-\ remainder\\:\\ 0\\.05870747836369245\ \(0\)\
+\-\ afebrile\\:\\ 0\\.057601615263759884\ \(0\)\
+\-\ is\\:\\ 0\\.054809066676948154\ \(0\)\
+\-\ bp\\:\\ 0\\.05412776982332994\ \(0\)\
+\-\ metastases\\:\\ 0\\.05393338853358294\ \(0\)\
+\-\ the\\:\\ 0\\.05324629528903493\ \(0\)\
+\-\ nodular\\:\\ 0\\.05312651655414162\ \(0\)\
+\-\ coronal\\:\\ 0\\.05312651655414162\ \(0\)\
+\-\ thyroid\\:\\ 0\\.052428099803600504\ \(0\)\
+\-\ delayed\\:\\ 0\\.05220426512346363\ \(0\)\
+\-\ 80\\:\\ 0\\.052039156427697575\ \(0\)\
+\-\ uptake\\:\\ 0\\.05129804847366944\ \(0\)\
+\-\ sagittal\\:\\ 0\\.05129804847366944\ \(0\)\
+\-\ attenuation\\:\\ 0\\.05104435078061037\ \(0\)\
+\-\ hypertension\\:\\ 0\\.05104435078061037\ \(0\)\
+\-\ process\\:\\ 0\\.05003512080775212\ \(0\)\
+\-\ skin\\:\\ 0\\.04962790347888618\ \(0\)\
+\-\ confirmed\\:\\ 0\\.04919147205261003\ \(0\)\
+\-\ calcifications\\:\\ 0\\.04868838351744982\ \(0\)\
+\-\ otherwise\\:\\ 0\\.04755509302255266\ \(0\)\
+\-\ 50\\:\\ 0\\.046590378005557695\ \(0\)\
+\-\ factoid\\:\\ 0\\.046590378005557695\ \(0\)\
+\-\ labs\\:\\ 0\\.046219076818903713\ \(0\)\
+\-\ this\\:\\ 0\\.04584727675874236\ \(0\)\
+\-\ 15\\:\\ 0\\.04508028548031888\ \(0\)\
+\-\ medial\\:\\ 0\\.04342481945044096\ \(0\)\
+\-\ image\\:\\ 0\\.04266513652642349\ \(0\)\
+\-\ severe\\:\\ 0\\.04223193866760702\ \(0\)\
+\-\ see\\:\\ 0\\.04149933097022993\ \(0\)\
+\-\ demonstrated\\:\\ 0\\.040999746906464477\ \(0\)\
+\-\ neck\\:\\ 0\\.040809923000045385\ \(0\)\
+\-\ carcinoma\\:\\ 0\\.039904440453888086\ \(0\)\
+\-\ 10\\:\\ 0\\.03901011916195053\ \(0\)\
+\-\ distal\\:\\ 0\\.038761657509736896\ \(0\)\
+\-\ axial\\:\\ 0\\.03853557602256766\ \(0\)\
+\-\ enhancement\\:\\ 0\\.03839859050284666\ \(0\)\
+\-\ consistent\\:\\ 0\\.036173083641353174\ \(0\)\
+\-\ surgery\\:\\ 0\\.035867496052700704\ \(0\)\
+\-\ case\\:\\ 0\\.0335156667067939\ \(0\)\
+\-\ to\\:\\ 0\\.03335601990432605\ \(0\)\
+\-\ multiple\\:\\ 0\\.0326305669772478\ \(0\)\
+\-\ female\\:\\ 0\\.0321918891072464\ \(0\)\
+\-\ treatment\\:\\ 0\\.03177873410686656\ \(0\)\
+\-\ and\\:\\ 0\\.027570669176231077\ \(0\)\
+\-\ normal\\:\\ 0\\.02723829254811181\ \(0\)\
+\-\ as\\:\\ 0\\.026800804606086064\ \(0\)\
+\-\ left\\:\\ 0\\.022757110575805702\ \(0\)\
+\-\ no\\:\\ 0\\.021694166703142705\ \(0\)\
+\-\ year\\:\\ 0\\.020559498761338377\ \(0\)\
+\-\ for\\:\\ 0\\.020220066145608655\ \(0\)\
+\-\ old\\:\\ 0\\.01974423565799685\ \(0\)\
+\-\ in\\:\\ 0\\.016595920821719824\ \(0\)\

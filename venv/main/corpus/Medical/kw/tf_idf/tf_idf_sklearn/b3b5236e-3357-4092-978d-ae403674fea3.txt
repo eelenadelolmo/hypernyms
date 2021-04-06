@@ -1,103 +1,101 @@
-Texto: 
-swollen right scrotum without evidence of focal mass
-antibiotics against the offending organism
-submitted images reveal an enlarged, hypervascular, slightly hypoechoic right epididymis when compared to the left side.  this area corresponded to the area of maximal pain during physical exam and during ultrasound examination.  both testicles demonstrate homogeneous echotexture without mass lesion and normal, symmetric blood flow.  free fluid is seen surrounding the right epididymis and testicle.
-epididymitis
-testicular torsion
-torsion of a testicular appendage
-orchitis
-epididymitis
-incarcerated hernia
-infarcted germ-cell tumor
-scrotal cellulitis/fascitis
-post-traumatic causes
-37 y/o wm complains of 10 day history of pain and swelling involving primarily right scrotum/testicle.
-hyperemia generally precedes grey-scale changes so color doppler is more sensitive to epididymitis than grey-scale sonography.
-
-
-Keywords by value: 
-- epididymitis: 0.36434808531265017
-- epididymis: 0.2313578670115672
-- scrotum: 0.20839100390845774
-- testicle: 0.19012820892645882
-- torsion: 0.1884848549759158
-- testicular: 0.1772598652753834
-- precedes: 0.14441622487399283
-- corresponded: 0.12816673860814107
-- right: 0.12532888355766153
-- appendage: 0.12446989936597963
-- incarcerated: 0.12446989936597963
-- offending: 0.12289088706289968
-- area: 0.12244303323047595
-- infarcted: 0.12012328704887756
-- during: 0.11971814132145482
-- orchitis: 0.11383624842620978
-- testicles: 0.11298646781442492
-- organism: 0.11217815678562411
-- hyperemia: 0.11067101917120756
-- maximal: 0.10801460809636805
-- wm: 0.10572585903951262
-- echotexture: 0.10519987550503164
-- sonography: 0.10030489337156984
-- submitted: 0.09992402395979025
-- hypervascular: 0.09992402395979025
-- scrotal: 0.09992402395979025
-- without: 0.0996953606477856
-- against: 0.09563544003739739
-- sensitive: 0.09295751325855743
-- of: 0.09247076521855355
-- swollen: 0.09131120056603412
-- primarily: 0.09065281897453097
-- color: 0.0852018585674018
-- doppler: 0.08459382372877644
-- homogeneous: 0.08344086541741487
-- complains: 0.08223301240192223
-- symmetric: 0.08098677923084045
-- hypoechoic: 0.0807483997260562
-- 37: 0.08051340160504772
-- generally: 0.08005317507321946
-- reveal: 0.07949530789631643
-- so: 0.07949530789631643
-- hernia: 0.07822841651270962
-- and: 0.07811296350546859
-- compared: 0.07640178740895412
-- the: 0.07542845431367867
-- slightly: 0.0737184270158471
-- free: 0.0735643134417039
-- mass: 0.07219655120742485
-- causes: 0.0714097115935116
-- to: 0.07087797403881736
-- antibiotics: 0.06962383613583395
-- pain: 0.06763452478782384
-- involving: 0.06619519699264628
-- side: 0.06528652855907859
-- enlarged: 0.06442511783818022
-- swelling: 0.06360629136012012
-- surrounding: 0.06302783046230706
-- flow: 0.06294681763705312
-- examination: 0.060474002314305435
-- day: 0.06019787775988471
-- ultrasound: 0.05829225798246369
-- changes: 0.05711470459017301
-- when: 0.05708631197011004
-- focal: 0.056528444793207
-- 10: 0.05526155340960019
-- blood: 0.05488472693490642
-- fluid: 0.05456493650584857
-- evidence: 0.053641013774439424
-- than: 0.05357203203805963
-- both: 0.052700466952719356
-- more: 0.051893192630514534
-- is: 0.05176151266332207
-- physical: 0.05124262208320368
-- tumor: 0.04943144536183744
-- demonstrate: 0.04913037825701054
-- exam: 0.04757371723963034
-- lesion: 0.04530765929757757
-- seen: 0.04449205130626635
-- images: 0.04371471921750933
-- normal: 0.038585638566876225
-- an: 0.036138283084521196
-- history: 0.03610626937455597
-- this: 0.03247351953437715
-- left: 0.03223761702219275
+\-\ Texto\\:\\ \ \(0\)\
+\-\ swollen\\ right\\ scrotum\\ without\\ evidence\\ of\\ focal\\ mass\ \(1\)\
+\-\ antibiotics\\ against\\ the\\ offending\\ organism\ \(0\)\
+\-\ submitted\\ images\\ reveal\\ an\\ enlarged\\,\\ hypervascular\\,\\ slightly\\ hypoechoic\\ right\\ epididymis\\ when\\ compared\\ to\\ the\\ left\\ side\\.\\ \\ this\\ area\\ corresponded\\ to\\ the\\ area\\ of\\ maximal\\ pain\\ during\\ physical\\ exam\\ and\\ during\\ ultrasound\\ examination\\.\\ \\ both\\ testicles\\ demonstrate\\ homogeneous\\ echotexture\\ without\\ mass\\ lesion\\ and\\ normal\\,\\ symmetric\\ blood\\ flow\\.\\ \\ free\\ fluid\\ is\\ seen\\ surrounding\\ the\\ right\\ epididymis\\ and\\ testicle\\.\ \(0\)\
+\-\ epididymitis\ \(9\)\
+\-\ testicular\\ torsion\ \(9\)\
+\-\ torsion\\ of\\ a\\ testicular\\ appendage\ \(1\)\
+\-\ orchitis\ \(17\)\
+\-\ epididymitis\ \(9\)\
+\-\ incarcerated\\ hernia\ \(5\)\
+\-\ infarcted\\ germ\\-cell\\ tumor\ \(1\)\
+\-\ scrotal\\ cellulitis\\/fascitis\ \(1\)\
+\-\ post\\-traumatic\\ causes\ \(1\)\
+\-\ 37\\ y\\/o\\ wm\\ complains\\ of\\ 10\\ day\\ history\\ of\\ pain\\ and\\ swelling\\ involving\\ primarily\\ right\\ scrotum\\/testicle\\.\ \(0\)\
+\-\ hyperemia\\ generally\\ precedes\\ grey\\-scale\\ changes\\ so\\ color\\ doppler\\ is\\ more\\ sensitive\\ to\\ epididymitis\\ than\\ grey\\-scale\\ sonography\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ epididymitis\\:\\ 0\\.36434808531265017\ \(0\)\
+\-\ epididymis\\:\\ 0\\.2313578670115672\ \(0\)\
+\-\ scrotum\\:\\ 0\\.20839100390845774\ \(0\)\
+\-\ testicle\\:\\ 0\\.19012820892645882\ \(0\)\
+\-\ torsion\\:\\ 0\\.1884848549759158\ \(0\)\
+\-\ testicular\\:\\ 0\\.1772598652753834\ \(0\)\
+\-\ precedes\\:\\ 0\\.14441622487399283\ \(0\)\
+\-\ corresponded\\:\\ 0\\.12816673860814107\ \(0\)\
+\-\ right\\:\\ 0\\.12532888355766153\ \(0\)\
+\-\ appendage\\:\\ 0\\.12446989936597963\ \(0\)\
+\-\ incarcerated\\:\\ 0\\.12446989936597963\ \(0\)\
+\-\ offending\\:\\ 0\\.12289088706289968\ \(0\)\
+\-\ area\\:\\ 0\\.12244303323047595\ \(0\)\
+\-\ infarcted\\:\\ 0\\.12012328704887756\ \(0\)\
+\-\ during\\:\\ 0\\.11971814132145482\ \(0\)\
+\-\ orchitis\\:\\ 0\\.11383624842620978\ \(0\)\
+\-\ testicles\\:\\ 0\\.11298646781442492\ \(0\)\
+\-\ organism\\:\\ 0\\.11217815678562411\ \(0\)\
+\-\ hyperemia\\:\\ 0\\.11067101917120756\ \(0\)\
+\-\ maximal\\:\\ 0\\.10801460809636805\ \(0\)\
+\-\ wm\\:\\ 0\\.10572585903951262\ \(0\)\
+\-\ echotexture\\:\\ 0\\.10519987550503164\ \(0\)\
+\-\ sonography\\:\\ 0\\.10030489337156984\ \(0\)\
+\-\ submitted\\:\\ 0\\.09992402395979025\ \(0\)\
+\-\ hypervascular\\:\\ 0\\.09992402395979025\ \(0\)\
+\-\ scrotal\\:\\ 0\\.09992402395979025\ \(0\)\
+\-\ without\\:\\ 0\\.0996953606477856\ \(0\)\
+\-\ against\\:\\ 0\\.09563544003739739\ \(0\)\
+\-\ sensitive\\:\\ 0\\.09295751325855743\ \(0\)\
+\-\ of\\:\\ 0\\.09247076521855355\ \(0\)\
+\-\ swollen\\:\\ 0\\.09131120056603412\ \(0\)\
+\-\ primarily\\:\\ 0\\.09065281897453097\ \(0\)\
+\-\ color\\:\\ 0\\.0852018585674018\ \(0\)\
+\-\ doppler\\:\\ 0\\.08459382372877644\ \(0\)\
+\-\ homogeneous\\:\\ 0\\.08344086541741487\ \(0\)\
+\-\ complains\\:\\ 0\\.08223301240192223\ \(0\)\
+\-\ symmetric\\:\\ 0\\.08098677923084045\ \(0\)\
+\-\ hypoechoic\\:\\ 0\\.0807483997260562\ \(0\)\
+\-\ 37\\:\\ 0\\.08051340160504772\ \(0\)\
+\-\ generally\\:\\ 0\\.08005317507321946\ \(0\)\
+\-\ reveal\\:\\ 0\\.07949530789631643\ \(0\)\
+\-\ so\\:\\ 0\\.07949530789631643\ \(0\)\
+\-\ hernia\\:\\ 0\\.07822841651270962\ \(0\)\
+\-\ and\\:\\ 0\\.07811296350546859\ \(0\)\
+\-\ compared\\:\\ 0\\.07640178740895412\ \(0\)\
+\-\ the\\:\\ 0\\.07542845431367867\ \(0\)\
+\-\ slightly\\:\\ 0\\.0737184270158471\ \(0\)\
+\-\ free\\:\\ 0\\.0735643134417039\ \(0\)\
+\-\ mass\\:\\ 0\\.07219655120742485\ \(0\)\
+\-\ causes\\:\\ 0\\.0714097115935116\ \(0\)\
+\-\ to\\:\\ 0\\.07087797403881736\ \(0\)\
+\-\ antibiotics\\:\\ 0\\.06962383613583395\ \(0\)\
+\-\ pain\\:\\ 0\\.06763452478782384\ \(0\)\
+\-\ involving\\:\\ 0\\.06619519699264628\ \(0\)\
+\-\ side\\:\\ 0\\.06528652855907859\ \(0\)\
+\-\ enlarged\\:\\ 0\\.06442511783818022\ \(0\)\
+\-\ swelling\\:\\ 0\\.06360629136012012\ \(0\)\
+\-\ surrounding\\:\\ 0\\.06302783046230706\ \(0\)\
+\-\ flow\\:\\ 0\\.06294681763705312\ \(0\)\
+\-\ examination\\:\\ 0\\.060474002314305435\ \(0\)\
+\-\ day\\:\\ 0\\.06019787775988471\ \(0\)\
+\-\ ultrasound\\:\\ 0\\.05829225798246369\ \(0\)\
+\-\ changes\\:\\ 0\\.05711470459017301\ \(0\)\
+\-\ when\\:\\ 0\\.05708631197011004\ \(0\)\
+\-\ focal\\:\\ 0\\.056528444793207\ \(0\)\
+\-\ 10\\:\\ 0\\.05526155340960019\ \(0\)\
+\-\ blood\\:\\ 0\\.05488472693490642\ \(0\)\
+\-\ fluid\\:\\ 0\\.05456493650584857\ \(0\)\
+\-\ evidence\\:\\ 0\\.053641013774439424\ \(0\)\
+\-\ than\\:\\ 0\\.05357203203805963\ \(0\)\
+\-\ both\\:\\ 0\\.052700466952719356\ \(0\)\
+\-\ more\\:\\ 0\\.051893192630514534\ \(0\)\
+\-\ is\\:\\ 0\\.05176151266332207\ \(0\)\
+\-\ physical\\:\\ 0\\.05124262208320368\ \(0\)\
+\-\ tumor\\:\\ 0\\.04943144536183744\ \(0\)\
+\-\ demonstrate\\:\\ 0\\.04913037825701054\ \(0\)\
+\-\ exam\\:\\ 0\\.04757371723963034\ \(0\)\
+\-\ lesion\\:\\ 0\\.04530765929757757\ \(0\)\
+\-\ seen\\:\\ 0\\.04449205130626635\ \(0\)\
+\-\ images\\:\\ 0\\.04371471921750933\ \(0\)\
+\-\ normal\\:\\ 0\\.038585638566876225\ \(0\)\
+\-\ an\\:\\ 0\\.036138283084521196\ \(0\)\
+\-\ history\\:\\ 0\\.03610626937455597\ \(0\)\
+\-\ this\\:\\ 0\\.03247351953437715\ \(0\)\
+\-\ left\\:\\ 0\\.03223761702219275\ \(0\)\

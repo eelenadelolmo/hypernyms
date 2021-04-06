@@ -1,79 +1,77 @@
-Texto: 
-non-contributory.
-multiple, well defined, geographic margined, lesions thoughout the diaphysis and metaphysis of the femur and tibia primarily eccentrically located with a ground glass matrix without aggressive features such as periosteal reaction or a soft tissue mass.
-fibrous dysplasia
-encondromatosis
-polyostotic fd
-metastatic disease
-infection
-previous "tumor" of the thigh.
-patients usually present with pain.  the condition can be complicated by pathologiv fractures and or bony deformity, as well as scoliosis.  mccune albright syndrome and many other endocrinopathies are associated conditions.
-
-
-Keywords by value: 
-- thoughout: 0.21680887270258198
-- encondromatosis: 0.21680887270258198
-- pathologiv: 0.21680887270258198
-- margined: 0.20717245245510596
-- endocrinopathies: 0.20717245245510596
-- fd: 0.20033530348131393
-- mccune: 0.20033530348131393
-- albright: 0.1906988832338379
-- eccentrically: 0.1838617342600459
-- polyostotic: 0.16738816503877785
-- as: 0.16339204867337576
-- geographic: 0.16208486028337993
-- scoliosis: 0.15018326621924108
-- glass: 0.1363743144461764
-- matrix: 0.1363743144461764
-- thigh: 0.13335230174245807
-- diaphysis: 0.1319741570573959
-- ground: 0.1319741570573959
-- well: 0.13128909828883714
-- primarily: 0.13004610005080167
-- complicated: 0.1285508688979626
-- metaphysis: 0.12455832086374446
-- conditions: 0.12383441708544593
-- periosteal: 0.11930406945212028
-- aggressive: 0.11723612777670499
-- tibia: 0.11583770464619644
-- reaction: 0.11533380584205825
-- and: 0.11205703674974268
-- femur: 0.11122332744994956
-- deformity: 0.11080757918148308
-- features: 0.10908558737892898
-- condition: 0.10833103712749768
-- the: 0.10820597116908058
-- located: 0.107242312273714
-- many: 0.10689021195787145
-- fibrous: 0.10531271972606795
-- bony: 0.10445618246379931
-- dysplasia: 0.10383344806120723
-- previous: 0.10244087942921853
-- fractures: 0.10022846109841578
-- defined: 0.09671624260328883
-- or: 0.09432605229662686
-- such: 0.08720671180096445
-- usually: 0.0853474909749626
-- infection: 0.081893230921831
-- syndrome: 0.08173100273820287
-- lesions: 0.07786044073894699
-- patients: 0.07626656965972366
-- metastatic: 0.07435436772633922
-- soft: 0.07217555816232028
-- without: 0.07150904402126322
-- associated: 0.07145652170901155
-- can: 0.07114380224165136
-- tissue: 0.07111792707674242
-- tumor: 0.07091193370376388
-- other: 0.07040462870898316
-- present: 0.06956631000984788
-- multiple: 0.0663111333925599
-- by: 0.057571662484121135
-- disease: 0.05690823865308836
-- be: 0.05499607218811601
-- with: 0.05309331902707429
-- of: 0.05306161472492003
-- mass: 0.051784820526548744
-- are: 0.051443344298351505
-- pain: 0.048512590545677914
+\-\ Texto\\:\\ \ \(0\)\
+\-\ non\\-contributory\\.\ \(21\)\
+\-\ multiple\\,\\ well\\ defined\\,\\ geographic\\ margined\\,\\ lesions\\ thoughout\\ the\\ diaphysis\\ and\\ metaphysis\\ of\\ the\\ femur\\ and\\ tibia\\ primarily\\ eccentrically\\ located\\ with\\ a\\ ground\\ glass\\ matrix\\ without\\ aggressive\\ features\\ such\\ as\\ periosteal\\ reaction\\ or\\ a\\ soft\\ tissue\\ mass\\.\ \(0\)\
+\-\ fibrous\\ dysplasia\ \(50\)\
+\-\ encondromatosis\ \(0\)\
+\-\ polyostotic\\ fd\ \(0\)\
+\-\ metastatic\\ disease\ \(243\)\
+\-\ infection\ \(713\)\
+\-\ previous\\ \\"tumor\\"\\ of\\ the\\ thigh\\.\ \(0\)\
+\-\ patients\\ usually\\ present\\ with\\ pain\\.\\ \\ the\\ condition\\ can\\ be\\ complicated\\ by\\ pathologiv\\ fractures\\ and\\ or\\ bony\\ deformity\\,\\ as\\ well\\ as\\ scoliosis\\.\\ \\ mccune\\ albright\\ syndrome\\ and\\ many\\ other\\ endocrinopathies\\ are\\ associated\\ conditions\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ thoughout\\:\\ 0\\.21680887270258198\ \(0\)\
+\-\ encondromatosis\\:\\ 0\\.21680887270258198\ \(0\)\
+\-\ pathologiv\\:\\ 0\\.21680887270258198\ \(0\)\
+\-\ margined\\:\\ 0\\.20717245245510596\ \(0\)\
+\-\ endocrinopathies\\:\\ 0\\.20717245245510596\ \(0\)\
+\-\ fd\\:\\ 0\\.20033530348131393\ \(0\)\
+\-\ mccune\\:\\ 0\\.20033530348131393\ \(0\)\
+\-\ albright\\:\\ 0\\.1906988832338379\ \(0\)\
+\-\ eccentrically\\:\\ 0\\.1838617342600459\ \(0\)\
+\-\ polyostotic\\:\\ 0\\.16738816503877785\ \(0\)\
+\-\ as\\:\\ 0\\.16339204867337576\ \(0\)\
+\-\ geographic\\:\\ 0\\.16208486028337993\ \(0\)\
+\-\ scoliosis\\:\\ 0\\.15018326621924108\ \(0\)\
+\-\ glass\\:\\ 0\\.1363743144461764\ \(0\)\
+\-\ matrix\\:\\ 0\\.1363743144461764\ \(0\)\
+\-\ thigh\\:\\ 0\\.13335230174245807\ \(0\)\
+\-\ diaphysis\\:\\ 0\\.1319741570573959\ \(0\)\
+\-\ ground\\:\\ 0\\.1319741570573959\ \(0\)\
+\-\ well\\:\\ 0\\.13128909828883714\ \(0\)\
+\-\ primarily\\:\\ 0\\.13004610005080167\ \(0\)\
+\-\ complicated\\:\\ 0\\.1285508688979626\ \(0\)\
+\-\ metaphysis\\:\\ 0\\.12455832086374446\ \(0\)\
+\-\ conditions\\:\\ 0\\.12383441708544593\ \(0\)\
+\-\ periosteal\\:\\ 0\\.11930406945212028\ \(0\)\
+\-\ aggressive\\:\\ 0\\.11723612777670499\ \(0\)\
+\-\ tibia\\:\\ 0\\.11583770464619644\ \(0\)\
+\-\ reaction\\:\\ 0\\.11533380584205825\ \(0\)\
+\-\ and\\:\\ 0\\.11205703674974268\ \(0\)\
+\-\ femur\\:\\ 0\\.11122332744994956\ \(0\)\
+\-\ deformity\\:\\ 0\\.11080757918148308\ \(0\)\
+\-\ features\\:\\ 0\\.10908558737892898\ \(0\)\
+\-\ condition\\:\\ 0\\.10833103712749768\ \(0\)\
+\-\ the\\:\\ 0\\.10820597116908058\ \(0\)\
+\-\ located\\:\\ 0\\.107242312273714\ \(0\)\
+\-\ many\\:\\ 0\\.10689021195787145\ \(0\)\
+\-\ fibrous\\:\\ 0\\.10531271972606795\ \(0\)\
+\-\ bony\\:\\ 0\\.10445618246379931\ \(0\)\
+\-\ dysplasia\\:\\ 0\\.10383344806120723\ \(0\)\
+\-\ previous\\:\\ 0\\.10244087942921853\ \(0\)\
+\-\ fractures\\:\\ 0\\.10022846109841578\ \(0\)\
+\-\ defined\\:\\ 0\\.09671624260328883\ \(0\)\
+\-\ or\\:\\ 0\\.09432605229662686\ \(0\)\
+\-\ such\\:\\ 0\\.08720671180096445\ \(0\)\
+\-\ usually\\:\\ 0\\.0853474909749626\ \(0\)\
+\-\ infection\\:\\ 0\\.081893230921831\ \(0\)\
+\-\ syndrome\\:\\ 0\\.08173100273820287\ \(0\)\
+\-\ lesions\\:\\ 0\\.07786044073894699\ \(0\)\
+\-\ patients\\:\\ 0\\.07626656965972366\ \(0\)\
+\-\ metastatic\\:\\ 0\\.07435436772633922\ \(0\)\
+\-\ soft\\:\\ 0\\.07217555816232028\ \(0\)\
+\-\ without\\:\\ 0\\.07150904402126322\ \(0\)\
+\-\ associated\\:\\ 0\\.07145652170901155\ \(0\)\
+\-\ can\\:\\ 0\\.07114380224165136\ \(0\)\
+\-\ tissue\\:\\ 0\\.07111792707674242\ \(0\)\
+\-\ tumor\\:\\ 0\\.07091193370376388\ \(0\)\
+\-\ other\\:\\ 0\\.07040462870898316\ \(0\)\
+\-\ present\\:\\ 0\\.06956631000984788\ \(0\)\
+\-\ multiple\\:\\ 0\\.0663111333925599\ \(0\)\
+\-\ by\\:\\ 0\\.057571662484121135\ \(0\)\
+\-\ disease\\:\\ 0\\.05690823865308836\ \(0\)\
+\-\ be\\:\\ 0\\.05499607218811601\ \(0\)\
+\-\ with\\:\\ 0\\.05309331902707429\ \(0\)\
+\-\ of\\:\\ 0\\.05306161472492003\ \(0\)\
+\-\ mass\\:\\ 0\\.051784820526548744\ \(0\)\
+\-\ are\\:\\ 0\\.051443344298351505\ \(0\)\
+\-\ pain\\:\\ 0\\.048512590545677914\ \(0\)\

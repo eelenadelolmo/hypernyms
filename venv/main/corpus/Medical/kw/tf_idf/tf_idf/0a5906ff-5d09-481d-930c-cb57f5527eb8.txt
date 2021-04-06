@@ -1,56 +1,54 @@
-Texto: 
-non contributory
-patient was treated with endovascular coil placement.
-she had a good recovery with no permanent neurological deficits.
-â€¢ extensive subarachnoid hemorrage
-â€¢ left cerebellopontine angle hematoma
-â€¢ left pica aneurysm
-ruptured left pica aneurysm
-ruptured aneurysm with subarachnoid hemorrhage
-37 year old woman presents with severe headache and decreased level of consciousness
-
-
-Keywords by value: 
-- pica: 0.22609327764923204
-- aneurysm: 0.1809342383058912
-- ruptured: 0.15878823469640987
-- subarachnoid: 0.1482885474948011
-- hemorrage: 0.12868000913450708
-- permanent: 0.09791631988913024
-- cerebellopontine: 0.09668430432686326
-- endovascular: 0.0955318307351209
-- coil: 0.0955318307351209
-- â€¢: 0.08394719740692257
-- recovery: 0.08315420251083618
-- contributory: 0.07851210386017678
-- consciousness: 0.07746752874086234
-- 37: 0.07667374726638317
-- angle: 0.07163388177202216
-- deficits: 0.0698257793844298
-- neurological: 0.06602722520624542
-- good: 0.06529398437057088
-- non: 0.06307704812908053
-- placement: 0.06193590880801838
-- extensive: 0.06102420932944188
-- hematoma: 0.054302979971823026
-- headache: 0.05241045424224639
-- left: 0.051219925139620426
-- hemorrhage: 0.050790296146000634
-- severe: 0.046951960715464355
-- treated: 0.04567590778721177
-- decreased: 0.045370650048652844
-- level: 0.04398016120798093
-- she: 0.04283546681168165
-- woman: 0.03524826691944475
-- had: 0.032925889629298356
-- presents: 0.03117221956264153
-- was: 0.017647812896672978
-- year: 0.017073308379873475
-- old: 0.015623832086825974
-- no: 0.01536507411971075
-- patient: 0.015296284480649784
-- with: 0.008357441149277839
-- a: 0.007082139318189308
-- and: 0.003214446530932472
-- of: 0.002080425014249793
-- .: 0.001267840574905224
+\-\ Texto\\:\\ \ \(0\)\
+\-\ non\\ contributory\ \(16\)\
+\-\ patient\\ was\\ treated\\ with\\ endovascular\\ coil\\ placement\\.\ \(0\)\
+\-\ she\\ had\\ a\\ good\\ recovery\\ with\\ no\\ permanent\\ neurological\\ deficits\\.\ \(0\)\
+\-\ \\â\\€\\¢\\ extensive\\ subarachnoid\\ hemorrage\ \(0\)\
+\-\ \\â\\€\\¢\\ left\\ cerebellopontine\\ angle\\ hematoma\ \(0\)\
+\-\ \\â\\€\\¢\\ left\\ pica\\ aneurysm\ \(0\)\
+\-\ ruptured\\ left\\ pica\\ aneurysm\ \(0\)\
+\-\ ruptured\\ aneurysm\\ with\\ subarachnoid\\ hemorrhage\ \(0\)\
+\-\ 37\\ year\\ old\\ woman\\ presents\\ with\\ severe\\ headache\\ and\\ decreased\\ level\\ of\\ consciousness\ \(1\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ pica\\:\\ 0\\.22609327764923204\ \(0\)\
+\-\ aneurysm\\:\\ 0\\.1809342383058912\ \(0\)\
+\-\ ruptured\\:\\ 0\\.15878823469640987\ \(0\)\
+\-\ subarachnoid\\:\\ 0\\.1482885474948011\ \(0\)\
+\-\ hemorrage\\:\\ 0\\.12868000913450708\ \(0\)\
+\-\ permanent\\:\\ 0\\.09791631988913024\ \(0\)\
+\-\ cerebellopontine\\:\\ 0\\.09668430432686326\ \(0\)\
+\-\ endovascular\\:\\ 0\\.0955318307351209\ \(0\)\
+\-\ coil\\:\\ 0\\.0955318307351209\ \(0\)\
+\-\ \\â\\€\\¢\\:\\ 0\\.08394719740692257\ \(0\)\
+\-\ recovery\\:\\ 0\\.08315420251083618\ \(0\)\
+\-\ contributory\\:\\ 0\\.07851210386017678\ \(0\)\
+\-\ consciousness\\:\\ 0\\.07746752874086234\ \(0\)\
+\-\ 37\\:\\ 0\\.07667374726638317\ \(0\)\
+\-\ angle\\:\\ 0\\.07163388177202216\ \(0\)\
+\-\ deficits\\:\\ 0\\.0698257793844298\ \(0\)\
+\-\ neurological\\:\\ 0\\.06602722520624542\ \(0\)\
+\-\ good\\:\\ 0\\.06529398437057088\ \(0\)\
+\-\ non\\:\\ 0\\.06307704812908053\ \(0\)\
+\-\ placement\\:\\ 0\\.06193590880801838\ \(0\)\
+\-\ extensive\\:\\ 0\\.06102420932944188\ \(0\)\
+\-\ hematoma\\:\\ 0\\.054302979971823026\ \(0\)\
+\-\ headache\\:\\ 0\\.05241045424224639\ \(0\)\
+\-\ left\\:\\ 0\\.051219925139620426\ \(0\)\
+\-\ hemorrhage\\:\\ 0\\.050790296146000634\ \(0\)\
+\-\ severe\\:\\ 0\\.046951960715464355\ \(0\)\
+\-\ treated\\:\\ 0\\.04567590778721177\ \(0\)\
+\-\ decreased\\:\\ 0\\.045370650048652844\ \(0\)\
+\-\ level\\:\\ 0\\.04398016120798093\ \(0\)\
+\-\ she\\:\\ 0\\.04283546681168165\ \(0\)\
+\-\ woman\\:\\ 0\\.03524826691944475\ \(0\)\
+\-\ had\\:\\ 0\\.032925889629298356\ \(0\)\
+\-\ presents\\:\\ 0\\.03117221956264153\ \(0\)\
+\-\ was\\:\\ 0\\.017647812896672978\ \(0\)\
+\-\ year\\:\\ 0\\.017073308379873475\ \(0\)\
+\-\ old\\:\\ 0\\.015623832086825974\ \(0\)\
+\-\ no\\:\\ 0\\.01536507411971075\ \(0\)\
+\-\ patient\\:\\ 0\\.015296284480649784\ \(0\)\
+\-\ with\\:\\ 0\\.008357441149277839\ \(0\)\
+\-\ a\\:\\ 0\\.007082139318189308\ \(0\)\
+\-\ and\\:\\ 0\\.003214446530932472\ \(0\)\
+\-\ of\\:\\ 0\\.002080425014249793\ \(0\)\
+\-\ \\.\\:\\ 0\\.001267840574905224\ \(0\)\

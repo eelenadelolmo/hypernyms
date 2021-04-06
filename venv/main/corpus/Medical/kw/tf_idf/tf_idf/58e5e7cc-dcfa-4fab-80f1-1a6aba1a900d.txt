@@ -1,52 +1,50 @@
-Texto: 
-multiplanar grayscale sonographic images of the ovaries demonstrate bilaterally enlarged ovaries with numerous hypoechoic cystic lesions in a predominantly peripheral distribution.
-polycystic ovarian syndrome
-polycystic ovarian syndrome
-ovarian tortion
-treatment with fertility drugs
-normal varient with numerous follicles.
-25 year old female with hirsutism, presents for infertility workup.
-
-
-Keywords by value: 
-- ovarian: 0.22559097954969629
-- ovaries: 0.20457734086538532
-- polycystic: 0.19439685801049753
-- tortion: 0.1695292004608942
-- numerous: 0.14738122316377547
-- varient: 0.14286969351628093
-- hirsutism: 0.13857847137562304
-- follicles: 0.1272748816659669
-- fertility: 0.12174253411881726
-- grayscale: 0.11877809796829307
-- multiplanar: 0.10614772226850326
-- infertility: 0.1000884713715822
-- syndrome: 0.09399640679748622
-- drugs: 0.09079180503354611
-- workup: 0.08455149646480578
-- sonographic: 0.07966710749047293
-- predominantly: 0.07698719362680924
-- hypoechoic: 0.07491418265650718
-- distribution: 0.07395586777674035
-- 25: 0.06642742804340525
-- peripheral: 0.05946025619257918
-- enlarged: 0.056069635968923205
-- bilaterally: 0.0539751007408443
-- cystic: 0.047396782831764586
-- lesions: 0.04399154819892207
-- demonstrate: 0.037816387333327706
-- female: 0.0337838513739968
-- presents: 0.033570082605921654
-- treatment: 0.033261864607709364
-- images: 0.03152430561441066
-- normal: 0.025761777973059636
-- year: 0.0183866397937099
-- old: 0.01682566532427413
-- for: 0.014021310550821446
-- with: 0.009000321237683826
-- in: 0.008103792887312595
-- a: 0.007626919265742333
-- ,: 0.005205962798409373
-- the: 0.0026586400904543422
-- of: 0.0022404577076536236
-- .: 0.002048050159462285
+\-\ Texto\\:\\ \ \(0\)\
+\-\ multiplanar\\ grayscale\\ sonographic\\ images\\ of\\ the\\ ovaries\\ demonstrate\\ bilaterally\\ enlarged\\ ovaries\\ with\\ numerous\\ hypoechoic\\ cystic\\ lesions\\ in\\ a\\ predominantly\\ peripheral\\ distribution\\.\ \(0\)\
+\-\ polycystic\\ ovarian\\ syndrome\ \(1\)\
+\-\ polycystic\\ ovarian\\ syndrome\ \(1\)\
+\-\ ovarian\\ tortion\ \(0\)\
+\-\ treatment\\ with\\ fertility\\ drugs\ \(0\)\
+\-\ normal\\ varient\\ with\\ numerous\\ follicles\\.\ \(0\)\
+\-\ 25\\ year\\ old\\ female\\ with\\ hirsutism\\,\\ presents\\ for\\ infertility\\ workup\\.\ \(1\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ ovarian\\:\\ 0\\.22559097954969629\ \(0\)\
+\-\ ovaries\\:\\ 0\\.20457734086538532\ \(0\)\
+\-\ polycystic\\:\\ 0\\.19439685801049753\ \(0\)\
+\-\ tortion\\:\\ 0\\.1695292004608942\ \(0\)\
+\-\ numerous\\:\\ 0\\.14738122316377547\ \(0\)\
+\-\ varient\\:\\ 0\\.14286969351628093\ \(0\)\
+\-\ hirsutism\\:\\ 0\\.13857847137562304\ \(0\)\
+\-\ follicles\\:\\ 0\\.1272748816659669\ \(0\)\
+\-\ fertility\\:\\ 0\\.12174253411881726\ \(0\)\
+\-\ grayscale\\:\\ 0\\.11877809796829307\ \(0\)\
+\-\ multiplanar\\:\\ 0\\.10614772226850326\ \(0\)\
+\-\ infertility\\:\\ 0\\.1000884713715822\ \(0\)\
+\-\ syndrome\\:\\ 0\\.09399640679748622\ \(0\)\
+\-\ drugs\\:\\ 0\\.09079180503354611\ \(0\)\
+\-\ workup\\:\\ 0\\.08455149646480578\ \(0\)\
+\-\ sonographic\\:\\ 0\\.07966710749047293\ \(0\)\
+\-\ predominantly\\:\\ 0\\.07698719362680924\ \(0\)\
+\-\ hypoechoic\\:\\ 0\\.07491418265650718\ \(0\)\
+\-\ distribution\\:\\ 0\\.07395586777674035\ \(0\)\
+\-\ 25\\:\\ 0\\.06642742804340525\ \(0\)\
+\-\ peripheral\\:\\ 0\\.05946025619257918\ \(0\)\
+\-\ enlarged\\:\\ 0\\.056069635968923205\ \(0\)\
+\-\ bilaterally\\:\\ 0\\.0539751007408443\ \(0\)\
+\-\ cystic\\:\\ 0\\.047396782831764586\ \(0\)\
+\-\ lesions\\:\\ 0\\.04399154819892207\ \(0\)\
+\-\ demonstrate\\:\\ 0\\.037816387333327706\ \(0\)\
+\-\ female\\:\\ 0\\.0337838513739968\ \(0\)\
+\-\ presents\\:\\ 0\\.033570082605921654\ \(0\)\
+\-\ treatment\\:\\ 0\\.033261864607709364\ \(0\)\
+\-\ images\\:\\ 0\\.03152430561441066\ \(0\)\
+\-\ normal\\:\\ 0\\.025761777973059636\ \(0\)\
+\-\ year\\:\\ 0\\.0183866397937099\ \(0\)\
+\-\ old\\:\\ 0\\.01682566532427413\ \(0\)\
+\-\ for\\:\\ 0\\.014021310550821446\ \(0\)\
+\-\ with\\:\\ 0\\.009000321237683826\ \(0\)\
+\-\ in\\:\\ 0\\.008103792887312595\ \(0\)\
+\-\ a\\:\\ 0\\.007626919265742333\ \(0\)\
+\-\ \\,\\:\\ 0\\.005205962798409373\ \(0\)\
+\-\ the\\:\\ 0\\.0026586400904543422\ \(0\)\
+\-\ of\\:\\ 0\\.0022404577076536236\ \(0\)\
+\-\ \\.\\:\\ 0\\.002048050159462285\ \(0\)\

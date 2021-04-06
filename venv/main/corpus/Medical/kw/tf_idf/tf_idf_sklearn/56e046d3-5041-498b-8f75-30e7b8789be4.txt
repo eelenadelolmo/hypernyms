@@ -1,66 +1,64 @@
-Texto: 
-as above.
-cyclophosphamide + prednisone
-ct chest, lung windows: bilateral, perihilar, focal, rounded, nonconsolidative noncavitated opacities. 
-cxr, pa & lateral: bilateral, perihilar, focal, ill-defined, strandy and subtle rounded opacities.
-wegeners
-1) wegeners
-2) goodpastures
-3) other autoimmune vasculitides - collagen vascular disease category
-4) other granulomatous, infectious - tb, histoplasmosis
-5) other granulomatous, noninfectious - sarcoid, eg
-high serologic titers of antineutrophil cytoplasmic antibody. bronchoscopic biopsy-proven wegeners granulomatosis. patient presents with mild hemoptysis.
-
-
-Keywords by value: 
-- wegeners: 0.4635731934816682
-- perihilar: 0.25325116876755227
-- opacities: 0.20510607640359335
-- rounded: 0.19548293741464623
-- granulomatous: 0.19096523723251208
-- nonconsolidative: 0.17177827595894732
-- noncavitated: 0.17177827595894732
-- bronchoscopic: 0.17177827595894732
-- other: 0.16734535245357937
-- strandy: 0.16414331325703754
-- goodpastures: 0.1587262210109853
-- antineutrophil: 0.15452439782722274
-- serologic: 0.15109125830907552
-- vasculitides: 0.14818858020578188
-- titers: 0.1434562956071657
-- cytoplasmic: 0.14147234287926072
-- noninfectious: 0.13803920336111347
-- cyclophosphamide: 0.1338373801773509
-- focal: 0.12850032923545135
-- category: 0.1234799334261487
-- antibody: 0.12276927795729388
-- autoimmune: 0.12016788844074916
-- histoplasmosis: 0.11957005616709925
-- granulomatosis: 0.11842848635719494
-- windows: 0.11633409263852197
-- bilateral: 0.11545643129203814
-- eg: 0.11444950760794802
-- prednisone: 0.11315036252747906
-- hemoptysis: 0.11116640979957408
-- collagen: 0.1090324153618958
-- sarcoid: 0.10073667837247724
-- tb: 0.09564707498865016
-- subtle: 0.09260334652585404
-- infectious: 0.0864288158429153
-- cxr: 0.08592931347911528
-- pa: 0.08243056366829402
-- above: 0.07749020916314403
-- vascular: 0.07091303355250882
-- lung: 0.06534114190896352
-- high: 0.06104704626570713
-- mild: 0.060889909318096624
-- chest: 0.056698521232936824
-- lateral: 0.05330718003372118
-- presents: 0.05167165017236177
-- disease: 0.04508855657903814
-- as: 0.043151992315701077
-- ct: 0.04089349587871934
-- patient: 0.03493636274955684
-- and: 0.02219577587161861
-- with: 0.02103299254712785
-- of: 0.021020432843512744
+\-\ Texto\\:\\ \ \(0\)\
+\-\ as\\ above\\.\ \(7\)\
+\-\ cyclophosphamide\\ \\+\\ prednisone\ \(0\)\
+\-\ ct\\ chest\\,\\ lung\\ windows\\:\\ bilateral\\,\\ perihilar\\,\\ focal\\,\\ rounded\\,\\ nonconsolidative\\ noncavitated\\ opacities\\.\\ \ \(0\)\
+\-\ cxr\\,\\ pa\\ \\&\\ lateral\\:\\ bilateral\\,\\ perihilar\\,\\ focal\\,\\ ill\\-defined\\,\\ strandy\\ and\\ subtle\\ rounded\\ opacities\\.\ \(0\)\
+\-\ wegeners\ \(2\)\
+\-\ 1\\)\\ wegeners\ \(0\)\
+\-\ 2\\)\\ goodpastures\ \(0\)\
+\-\ 3\\)\\ other\\ autoimmune\\ vasculitides\\ \\-\\ collagen\\ vascular\\ disease\\ category\ \(0\)\
+\-\ 4\\)\\ other\\ granulomatous\\,\\ infectious\\ \\-\\ tb\\,\\ histoplasmosis\ \(0\)\
+\-\ 5\\)\\ other\\ granulomatous\\,\\ noninfectious\\ \\-\\ sarcoid\\,\\ eg\ \(0\)\
+\-\ high\\ serologic\\ titers\\ of\\ antineutrophil\\ cytoplasmic\\ antibody\\.\\ bronchoscopic\\ biopsy\\-proven\\ wegeners\\ granulomatosis\\.\\ patient\\ presents\\ with\\ mild\\ hemoptysis\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ wegeners\\:\\ 0\\.4635731934816682\ \(0\)\
+\-\ perihilar\\:\\ 0\\.25325116876755227\ \(0\)\
+\-\ opacities\\:\\ 0\\.20510607640359335\ \(0\)\
+\-\ rounded\\:\\ 0\\.19548293741464623\ \(0\)\
+\-\ granulomatous\\:\\ 0\\.19096523723251208\ \(0\)\
+\-\ nonconsolidative\\:\\ 0\\.17177827595894732\ \(0\)\
+\-\ noncavitated\\:\\ 0\\.17177827595894732\ \(0\)\
+\-\ bronchoscopic\\:\\ 0\\.17177827595894732\ \(0\)\
+\-\ other\\:\\ 0\\.16734535245357937\ \(0\)\
+\-\ strandy\\:\\ 0\\.16414331325703754\ \(0\)\
+\-\ goodpastures\\:\\ 0\\.1587262210109853\ \(0\)\
+\-\ antineutrophil\\:\\ 0\\.15452439782722274\ \(0\)\
+\-\ serologic\\:\\ 0\\.15109125830907552\ \(0\)\
+\-\ vasculitides\\:\\ 0\\.14818858020578188\ \(0\)\
+\-\ titers\\:\\ 0\\.1434562956071657\ \(0\)\
+\-\ cytoplasmic\\:\\ 0\\.14147234287926072\ \(0\)\
+\-\ noninfectious\\:\\ 0\\.13803920336111347\ \(0\)\
+\-\ cyclophosphamide\\:\\ 0\\.1338373801773509\ \(0\)\
+\-\ focal\\:\\ 0\\.12850032923545135\ \(0\)\
+\-\ category\\:\\ 0\\.1234799334261487\ \(0\)\
+\-\ antibody\\:\\ 0\\.12276927795729388\ \(0\)\
+\-\ autoimmune\\:\\ 0\\.12016788844074916\ \(0\)\
+\-\ histoplasmosis\\:\\ 0\\.11957005616709925\ \(0\)\
+\-\ granulomatosis\\:\\ 0\\.11842848635719494\ \(0\)\
+\-\ windows\\:\\ 0\\.11633409263852197\ \(0\)\
+\-\ bilateral\\:\\ 0\\.11545643129203814\ \(0\)\
+\-\ eg\\:\\ 0\\.11444950760794802\ \(0\)\
+\-\ prednisone\\:\\ 0\\.11315036252747906\ \(0\)\
+\-\ hemoptysis\\:\\ 0\\.11116640979957408\ \(0\)\
+\-\ collagen\\:\\ 0\\.1090324153618958\ \(0\)\
+\-\ sarcoid\\:\\ 0\\.10073667837247724\ \(0\)\
+\-\ tb\\:\\ 0\\.09564707498865016\ \(0\)\
+\-\ subtle\\:\\ 0\\.09260334652585404\ \(0\)\
+\-\ infectious\\:\\ 0\\.0864288158429153\ \(0\)\
+\-\ cxr\\:\\ 0\\.08592931347911528\ \(0\)\
+\-\ pa\\:\\ 0\\.08243056366829402\ \(0\)\
+\-\ above\\:\\ 0\\.07749020916314403\ \(0\)\
+\-\ vascular\\:\\ 0\\.07091303355250882\ \(0\)\
+\-\ lung\\:\\ 0\\.06534114190896352\ \(0\)\
+\-\ high\\:\\ 0\\.06104704626570713\ \(0\)\
+\-\ mild\\:\\ 0\\.060889909318096624\ \(0\)\
+\-\ chest\\:\\ 0\\.056698521232936824\ \(0\)\
+\-\ lateral\\:\\ 0\\.05330718003372118\ \(0\)\
+\-\ presents\\:\\ 0\\.05167165017236177\ \(0\)\
+\-\ disease\\:\\ 0\\.04508855657903814\ \(0\)\
+\-\ as\\:\\ 0\\.043151992315701077\ \(0\)\
+\-\ ct\\:\\ 0\\.04089349587871934\ \(0\)\
+\-\ patient\\:\\ 0\\.03493636274955684\ \(0\)\
+\-\ and\\:\\ 0\\.02219577587161861\ \(0\)\
+\-\ with\\:\\ 0\\.02103299254712785\ \(0\)\
+\-\ of\\:\\ 0\\.021020432843512744\ \(0\)\

@@ -1,90 +1,88 @@
-Texto: 
-physical exam was signficant to decreased sensation to pain and
-temperature on right upper and lower extremity and right trunk.
-axial flair images demonstrate multiple punctate foci of signal abnormality in the deep white matter.  axial and coronal diffusion images demonstrate a single focus of high signal within the left medulla consistent with recent infarct.
-left pica infarct confirmed with mri.  mr angiogram images and ct angiogram images demonstrated a patent vertebral system and patent left pica.  a focal stenosis was detected at the origin of the left posterior inferior cerebellar artery.
-left pica infarct
-left vertebral dissection
-58 y/o female with past medical history of diabetes and hypertension presents with 4 day history of right sided numbness and tingling.
-
-
-Keywords by value: 
-- pica: 0.1495420104136653
-- infarct: 0.08956624968000523
-- patent: 0.06630469666107727
-- angiogram: 0.06509271176129572
-- signficant: 0.06395567908194136
-- vertebral: 0.05325663654192533
-- images: 0.051630358801554456
-- left: 0.045170327682184944
-- medulla: 0.04438948498912246
-- trunk: 0.04237426157071931
-- tingling: 0.040367235983091034
-- punctate: 0.03926674824785357
-- axial: 0.0384061649774468
-- temperature: 0.038004207696080504
-- 58: 0.03717459733657006
-- detected: 0.03552325457293172
-- signal: 0.03548148551610675
-- diabetes: 0.033311424766109654
-- dissection: 0.033073999268702664
-- numbness: 0.03233061592641074
-- demonstrate: 0.03096775025721324
-- sensation: 0.030906844848383814
-- flair: 0.030847863181225094
-- origin: 0.030847863181225094
-- focus: 0.030226651035794673
-- diffusion: 0.030118786119588674
-- cerebellar: 0.029020627630263186
-- foci: 0.028882078324039724
-- coronal: 0.02801592954282454
-- single: 0.027272915673153004
-- deep: 0.027235686214917208
-- hypertension: 0.026525835057481795
-- matter: 0.026491968270872423
-- system: 0.026491968270872423
-- stenosis: 0.02635793923489265
-- confirmed: 0.0253023590794236
-- sided: 0.024878162308241303
-- abnormality: 0.02482329089630356
-- extremity: 0.024607550942066438
-- inferior: 0.022829262687866638
-- recent: 0.02261983503023462
-- white: 0.022315781202456832
-- mr: 0.021379523401153025
-- past: 0.021379523401153025
-- day: 0.021361888420101807
-- right: 0.02129838682937992
-- medical: 0.02070322677217326
-- artery: 0.020035669229198416
-- decreased: 0.020005955926965035
-- demonstrated: 0.01974346442879502
-- focal: 0.019216485071955922
-- 4: 0.018747810277000357
-- y/o: 0.018634874250548352
-- history: 0.018586055711922574
-- high: 0.01841374851241587
-- physical: 0.016507915508513687
-- consistent: 0.016498411565600026
-- upper: 0.016236854372982033
-- was: 0.015563425546672232
-- posterior: 0.015508964950412981
-- mri: 0.015458864999327715
-- lower: 0.015132772199715453
-- exam: 0.014781369605901875
-- multiple: 0.014171700814797393
-- female: 0.013832758042896328
-- presents: 0.013745230673290755
-- within: 0.012835680380992769
-- and: 0.01133914996738384
-- ct: 0.009411839790488527
-- a: 0.00936849925555751
-- at: 0.009116245297886873
-- pain: 0.008217387145911297
-- to: 0.006725482022724193
-- on: 0.005699929231223843
-- of: 0.004586763810944426
-- the: 0.0043543081796417575
-- with: 0.003685170900468968
-- in: 0.00331808842630122
-- .: 0.0019566673439482198
+\-\ Texto\\:\\ \ \(0\)\
+\-\ physical\\ exam\\ was\\ signficant\\ to\\ decreased\\ sensation\\ to\\ pain\\ and\ \(0\)\
+\-\ temperature\\ on\\ right\\ upper\\ and\\ lower\\ extremity\\ and\\ right\\ trunk\\.\ \(1\)\
+\-\ axial\\ flair\\ images\\ demonstrate\\ multiple\\ punctate\\ foci\\ of\\ signal\\ abnormality\\ in\\ the\\ deep\\ white\\ matter\\.\\ \\ axial\\ and\\ coronal\\ diffusion\\ images\\ demonstrate\\ a\\ single\\ focus\\ of\\ high\\ signal\\ within\\ the\\ left\\ medulla\\ consistent\\ with\\ recent\\ infarct\\.\ \(0\)\
+\-\ left\\ pica\\ infarct\\ confirmed\\ with\\ mri\\.\\ \\ mr\\ angiogram\\ images\\ and\\ ct\\ angiogram\\ images\\ demonstrated\\ a\\ patent\\ vertebral\\ system\\ and\\ patent\\ left\\ pica\\.\\ \\ a\\ focal\\ stenosis\\ was\\ detected\\ at\\ the\\ origin\\ of\\ the\\ left\\ posterior\\ inferior\\ cerebellar\\ artery\\.\ \(0\)\
+\-\ left\\ pica\\ infarct\ \(0\)\
+\-\ left\\ vertebral\\ dissection\ \(0\)\
+\-\ 58\\ y\\/o\\ female\\ with\\ past\\ medical\\ history\\ of\\ diabetes\\ and\\ hypertension\\ presents\\ with\\ 4\\ day\\ history\\ of\\ right\\ sided\\ numbness\\ and\\ tingling\\.\ \(1\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ pica\\:\\ 0\\.1495420104136653\ \(0\)\
+\-\ infarct\\:\\ 0\\.08956624968000523\ \(0\)\
+\-\ patent\\:\\ 0\\.06630469666107727\ \(0\)\
+\-\ angiogram\\:\\ 0\\.06509271176129572\ \(0\)\
+\-\ signficant\\:\\ 0\\.06395567908194136\ \(0\)\
+\-\ vertebral\\:\\ 0\\.05325663654192533\ \(0\)\
+\-\ images\\:\\ 0\\.051630358801554456\ \(0\)\
+\-\ left\\:\\ 0\\.045170327682184944\ \(0\)\
+\-\ medulla\\:\\ 0\\.04438948498912246\ \(0\)\
+\-\ trunk\\:\\ 0\\.04237426157071931\ \(0\)\
+\-\ tingling\\:\\ 0\\.040367235983091034\ \(0\)\
+\-\ punctate\\:\\ 0\\.03926674824785357\ \(0\)\
+\-\ axial\\:\\ 0\\.0384061649774468\ \(0\)\
+\-\ temperature\\:\\ 0\\.038004207696080504\ \(0\)\
+\-\ 58\\:\\ 0\\.03717459733657006\ \(0\)\
+\-\ detected\\:\\ 0\\.03552325457293172\ \(0\)\
+\-\ signal\\:\\ 0\\.03548148551610675\ \(0\)\
+\-\ diabetes\\:\\ 0\\.033311424766109654\ \(0\)\
+\-\ dissection\\:\\ 0\\.033073999268702664\ \(0\)\
+\-\ numbness\\:\\ 0\\.03233061592641074\ \(0\)\
+\-\ demonstrate\\:\\ 0\\.03096775025721324\ \(0\)\
+\-\ sensation\\:\\ 0\\.030906844848383814\ \(0\)\
+\-\ flair\\:\\ 0\\.030847863181225094\ \(0\)\
+\-\ origin\\:\\ 0\\.030847863181225094\ \(0\)\
+\-\ focus\\:\\ 0\\.030226651035794673\ \(0\)\
+\-\ diffusion\\:\\ 0\\.030118786119588674\ \(0\)\
+\-\ cerebellar\\:\\ 0\\.029020627630263186\ \(0\)\
+\-\ foci\\:\\ 0\\.028882078324039724\ \(0\)\
+\-\ coronal\\:\\ 0\\.02801592954282454\ \(0\)\
+\-\ single\\:\\ 0\\.027272915673153004\ \(0\)\
+\-\ deep\\:\\ 0\\.027235686214917208\ \(0\)\
+\-\ hypertension\\:\\ 0\\.026525835057481795\ \(0\)\
+\-\ matter\\:\\ 0\\.026491968270872423\ \(0\)\
+\-\ system\\:\\ 0\\.026491968270872423\ \(0\)\
+\-\ stenosis\\:\\ 0\\.02635793923489265\ \(0\)\
+\-\ confirmed\\:\\ 0\\.0253023590794236\ \(0\)\
+\-\ sided\\:\\ 0\\.024878162308241303\ \(0\)\
+\-\ abnormality\\:\\ 0\\.02482329089630356\ \(0\)\
+\-\ extremity\\:\\ 0\\.024607550942066438\ \(0\)\
+\-\ inferior\\:\\ 0\\.022829262687866638\ \(0\)\
+\-\ recent\\:\\ 0\\.02261983503023462\ \(0\)\
+\-\ white\\:\\ 0\\.022315781202456832\ \(0\)\
+\-\ mr\\:\\ 0\\.021379523401153025\ \(0\)\
+\-\ past\\:\\ 0\\.021379523401153025\ \(0\)\
+\-\ day\\:\\ 0\\.021361888420101807\ \(0\)\
+\-\ right\\:\\ 0\\.02129838682937992\ \(0\)\
+\-\ medical\\:\\ 0\\.02070322677217326\ \(0\)\
+\-\ artery\\:\\ 0\\.020035669229198416\ \(0\)\
+\-\ decreased\\:\\ 0\\.020005955926965035\ \(0\)\
+\-\ demonstrated\\:\\ 0\\.01974346442879502\ \(0\)\
+\-\ focal\\:\\ 0\\.019216485071955922\ \(0\)\
+\-\ 4\\:\\ 0\\.018747810277000357\ \(0\)\
+\-\ y\\/o\\:\\ 0\\.018634874250548352\ \(0\)\
+\-\ history\\:\\ 0\\.018586055711922574\ \(0\)\
+\-\ high\\:\\ 0\\.01841374851241587\ \(0\)\
+\-\ physical\\:\\ 0\\.016507915508513687\ \(0\)\
+\-\ consistent\\:\\ 0\\.016498411565600026\ \(0\)\
+\-\ upper\\:\\ 0\\.016236854372982033\ \(0\)\
+\-\ was\\:\\ 0\\.015563425546672232\ \(0\)\
+\-\ posterior\\:\\ 0\\.015508964950412981\ \(0\)\
+\-\ mri\\:\\ 0\\.015458864999327715\ \(0\)\
+\-\ lower\\:\\ 0\\.015132772199715453\ \(0\)\
+\-\ exam\\:\\ 0\\.014781369605901875\ \(0\)\
+\-\ multiple\\:\\ 0\\.014171700814797393\ \(0\)\
+\-\ female\\:\\ 0\\.013832758042896328\ \(0\)\
+\-\ presents\\:\\ 0\\.013745230673290755\ \(0\)\
+\-\ within\\:\\ 0\\.012835680380992769\ \(0\)\
+\-\ and\\:\\ 0\\.01133914996738384\ \(0\)\
+\-\ ct\\:\\ 0\\.009411839790488527\ \(0\)\
+\-\ a\\:\\ 0\\.00936849925555751\ \(0\)\
+\-\ at\\:\\ 0\\.009116245297886873\ \(0\)\
+\-\ pain\\:\\ 0\\.008217387145911297\ \(0\)\
+\-\ to\\:\\ 0\\.006725482022724193\ \(0\)\
+\-\ on\\:\\ 0\\.005699929231223843\ \(0\)\
+\-\ of\\:\\ 0\\.004586763810944426\ \(0\)\
+\-\ the\\:\\ 0\\.0043543081796417575\ \(0\)\
+\-\ with\\:\\ 0\\.003685170900468968\ \(0\)\
+\-\ in\\:\\ 0\\.00331808842630122\ \(0\)\
+\-\ \\.\\:\\ 0\\.0019566673439482198\ \(0\)\

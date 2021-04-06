@@ -1,67 +1,65 @@
-Texto: 
-â€¢ pelvic mass
-â€¢ no laboratory abnormality
-surgery
-2.7 by 3.0 cm mass in left hemipelvis.  mass is isointense with muscle on t1 and mixed intensity on t2 weighted sequences.  mass extends from and enlarges neural foramen at s1/s2 on left.
-ganglioglioma
-â€¢ schwannoma
-â€¢ neurofibroma
-â€¢ ganglioneuroma
-â€¢ ganglioglioma
-â€¢ neuroblastoma
-â€¢ ovarian mass
-â€¢ teratoma
-â€¢ rhabdomyosarcoma
-4 year old girl with normal growth and development.
-pediatrician noted pelvic mass on routine physical examination.
-
-
-Keywords by value: 
-- mass: 0.358141501196342
-- ganglioglioma: 0.3280229774234506
-- pelvic: 0.24430844601387994
-- enlarges: 0.23091833218654934
-- hemipelvis: 0.19862968351827
-- pediatrician: 0.18971490388467474
-- on: 0.1887826180699914
-- ganglioneuroma: 0.18682860663557013
-- rhabdomyosarcoma: 0.1581378403342338
-- neurofibroma: 0.1545399579672908
-- neural: 0.1447269179671652
-- neuroblastoma: 0.14357329544014075
-- isointense: 0.14140229957921052
-- foramen: 0.13891017440744236
-- teratoma: 0.13513330215775482
-- schwannoma: 0.1339155689374399
-- ovarian: 0.13313281606490499
-- mixed: 0.12935448234722705
-- development: 0.12918693144729926
-- growth: 0.12885487299692555
-- extends: 0.12869034105044813
-- sequences: 0.1250118199006274
-- routine: 0.12101525813301904
-- weighted: 0.11656313547389832
-- abnormality: 0.11366630390943988
-- laboratory: 0.11347737566585532
-- muscle: 0.11096070346131572
-- intensity: 0.11096070346131572
-- girl: 0.10962003292141169
-- left: 0.10661292783131802
-- examination: 0.09999669702583167
-- t1: 0.09736480376138348
-- and: 0.0968726813984798
-- t2: 0.08990536299742001
-- cm: 0.0897465539338867
-- physical: 0.08473216190705438
-- surgery: 0.08401635074494249
-- noted: 0.08285312837109711
-- by: 0.0663605068653324
-- normal: 0.06380322554585467
-- from: 0.06206307215517197
-- with: 0.06119850304429214
-- at: 0.05902444719917655
-- no: 0.05081661446821988
-- year: 0.0481587579053418
-- old: 0.04624907815688346
-- is: 0.04279508632892784
-- in: 0.03887443669455478
+\-\ Texto\\:\\ \ \(0\)\
+\-\ \\â\\€\\¢\\ pelvic\\ mass\ \(0\)\
+\-\ \\â\\€\\¢\\ no\\ laboratory\\ abnormality\ \(0\)\
+\-\ surgery\ \(977\)\
+\-\ 2\\.7\\ by\\ 3\\.0\\ cm\\ mass\\ in\\ left\\ hemipelvis\\.\\ \\ mass\\ is\\ isointense\\ with\\ muscle\\ on\\ t1\\ and\\ mixed\\ intensity\\ on\\ t2\\ weighted\\ sequences\\.\\ \\ mass\\ extends\\ from\\ and\\ enlarges\\ neural\\ foramen\\ at\\ s1\\/s2\\ on\\ left\\.\ \(0\)\
+\-\ ganglioglioma\ \(14\)\
+\-\ \\â\\€\\¢\\ schwannoma\ \(0\)\
+\-\ \\â\\€\\¢\\ neurofibroma\ \(0\)\
+\-\ \\â\\€\\¢\\ ganglioneuroma\ \(0\)\
+\-\ \\â\\€\\¢\\ ganglioglioma\ \(1\)\
+\-\ \\â\\€\\¢\\ neuroblastoma\ \(1\)\
+\-\ \\â\\€\\¢\\ ovarian\\ mass\ \(0\)\
+\-\ \\â\\€\\¢\\ teratoma\ \(2\)\
+\-\ \\â\\€\\¢\\ rhabdomyosarcoma\ \(2\)\
+\-\ 4\\ year\\ old\\ girl\\ with\\ normal\\ growth\\ and\\ development\\.\ \(1\)\
+\-\ pediatrician\\ noted\\ pelvic\\ mass\\ on\\ routine\\ physical\\ examination\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ mass\\:\\ 0\\.358141501196342\ \(0\)\
+\-\ ganglioglioma\\:\\ 0\\.3280229774234506\ \(0\)\
+\-\ pelvic\\:\\ 0\\.24430844601387994\ \(0\)\
+\-\ enlarges\\:\\ 0\\.23091833218654934\ \(0\)\
+\-\ hemipelvis\\:\\ 0\\.19862968351827\ \(0\)\
+\-\ pediatrician\\:\\ 0\\.18971490388467474\ \(0\)\
+\-\ on\\:\\ 0\\.1887826180699914\ \(0\)\
+\-\ ganglioneuroma\\:\\ 0\\.18682860663557013\ \(0\)\
+\-\ rhabdomyosarcoma\\:\\ 0\\.1581378403342338\ \(0\)\
+\-\ neurofibroma\\:\\ 0\\.1545399579672908\ \(0\)\
+\-\ neural\\:\\ 0\\.1447269179671652\ \(0\)\
+\-\ neuroblastoma\\:\\ 0\\.14357329544014075\ \(0\)\
+\-\ isointense\\:\\ 0\\.14140229957921052\ \(0\)\
+\-\ foramen\\:\\ 0\\.13891017440744236\ \(0\)\
+\-\ teratoma\\:\\ 0\\.13513330215775482\ \(0\)\
+\-\ schwannoma\\:\\ 0\\.1339155689374399\ \(0\)\
+\-\ ovarian\\:\\ 0\\.13313281606490499\ \(0\)\
+\-\ mixed\\:\\ 0\\.12935448234722705\ \(0\)\
+\-\ development\\:\\ 0\\.12918693144729926\ \(0\)\
+\-\ growth\\:\\ 0\\.12885487299692555\ \(0\)\
+\-\ extends\\:\\ 0\\.12869034105044813\ \(0\)\
+\-\ sequences\\:\\ 0\\.1250118199006274\ \(0\)\
+\-\ routine\\:\\ 0\\.12101525813301904\ \(0\)\
+\-\ weighted\\:\\ 0\\.11656313547389832\ \(0\)\
+\-\ abnormality\\:\\ 0\\.11366630390943988\ \(0\)\
+\-\ laboratory\\:\\ 0\\.11347737566585532\ \(0\)\
+\-\ muscle\\:\\ 0\\.11096070346131572\ \(0\)\
+\-\ intensity\\:\\ 0\\.11096070346131572\ \(0\)\
+\-\ girl\\:\\ 0\\.10962003292141169\ \(0\)\
+\-\ left\\:\\ 0\\.10661292783131802\ \(0\)\
+\-\ examination\\:\\ 0\\.09999669702583167\ \(0\)\
+\-\ t1\\:\\ 0\\.09736480376138348\ \(0\)\
+\-\ and\\:\\ 0\\.0968726813984798\ \(0\)\
+\-\ t2\\:\\ 0\\.08990536299742001\ \(0\)\
+\-\ cm\\:\\ 0\\.0897465539338867\ \(0\)\
+\-\ physical\\:\\ 0\\.08473216190705438\ \(0\)\
+\-\ surgery\\:\\ 0\\.08401635074494249\ \(0\)\
+\-\ noted\\:\\ 0\\.08285312837109711\ \(0\)\
+\-\ by\\:\\ 0\\.0663605068653324\ \(0\)\
+\-\ normal\\:\\ 0\\.06380322554585467\ \(0\)\
+\-\ from\\:\\ 0\\.06206307215517197\ \(0\)\
+\-\ with\\:\\ 0\\.06119850304429214\ \(0\)\
+\-\ at\\:\\ 0\\.05902444719917655\ \(0\)\
+\-\ no\\:\\ 0\\.05081661446821988\ \(0\)\
+\-\ year\\:\\ 0\\.0481587579053418\ \(0\)\
+\-\ old\\:\\ 0\\.04624907815688346\ \(0\)\
+\-\ is\\:\\ 0\\.04279508632892784\ \(0\)\
+\-\ in\\:\\ 0\\.03887443669455478\ \(0\)\

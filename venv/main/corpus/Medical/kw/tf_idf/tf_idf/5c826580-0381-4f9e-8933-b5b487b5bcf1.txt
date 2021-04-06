@@ -1,174 +1,172 @@
-Texto: 
-he has an decreased level of consciousness and complains of a severe headache. he has no focal neurological deficits. his toxicology screen, cbc and electrolytes are normal.
-the patient was initially admitted to the icu and was administered pain control and calcium channel blockers to reduce risk of arterial spasm. he was subsequently transferred to an outside institution where he underwent neurosurgical evaluation, and an angiogram. angiogram revealed a small right middle cerebral aneurysm. it was decided to have the aneurysm repaired via neurosurgical approach, and the patient is currently awaiting surgery and is in stable condition.
-non contrast head ct revealed a large amount of acute hyperdense material consistant with blood product in the subarachnoid spaces with a relatively large amount within the right sylvian fissure. this was concerning for atraumatic subarachnoid hemorrhage from a ruptured aneurysm in the distribution of the right middle cerebral artery.
-subarachnoid hemorrhage
-subarachnoid hemorrhage from ruptured aneurysm or acute trauma, hyperdense csf from bacterial meningitis (much less likely), subarachnoid blood and intraparenchymal from acute infection such as herpes encephalitis (much less likely), contrast in the csf from myelogram (excluded from the differential diagnosis by history).
-77 y.o. male with acute loss of consciousness and a fall. he presents to the emergency department with an altered sensorium and severe headache.
-this patient did report a severe headache approximately 10 days prior to his presentation to the ed. this was likely a "sentinal bleed" caused by a small prior rupture from his mca aneurysm. he has had longstanding hypertension, but reported no history of polycystic kidney disease or a family history or aneurysm. he ws on a 325 mg aspirin per day but was on no other anticoagulants.
-
-
-Keywords by value: 
-- subarachnoid: 0.06590602110880049
-- aneurysm: 0.06433217361987244
-- he: 0.0529819409340671
-- neurosurgical: 0.036063645765316496
-- ruptured: 0.02822901950158398
-- from: 0.028143015847871385
-- headache: 0.027952242262531412
-- consciousness: 0.027544010218973278
-- hyperdense: 0.027125229471088853
-- hemorrhage: 0.027088157944533675
-- acute: 0.026792118464844385
-- angiogram: 0.02624372823391923
-- 325: 0.02578530553462398
-- much: 0.025115593775268737
-- severe: 0.025041045714914327
-- toxicology: 0.02449811471523298
-- sentinal: 0.02449811471523298
-- his: 0.02345608597758983
-- likely: 0.02295514253272054
-- sensorium: 0.02287644606835682
-- ws: 0.02287644606835682
-- amount: 0.02265710699559373
-- csf: 0.02265710699559373
-- was: 0.021961722715859708
-- anticoagulants: 0.021808280237813286
-- blockers: 0.021010456655969137
-- consistant: 0.020675978828483977
-- myelogram: 0.01984307640160305
-- middle: 0.019842279172332937
-- electrolytes: 0.0188099894160963
-- product: 0.0188099894160963
-- cerebral: 0.018796485725486166
-- less: 0.018374222249667824
-- awaiting: 0.018320622178549444
-- sylvian: 0.018031822882658248
-- intraparenchymal: 0.018031822882658248
-- longstanding: 0.018031822882658248
-- channel: 0.01789671299561445
-- aspirin: 0.017767119362216817
-- decided: 0.01764260916173021
-- herpes: 0.0175227985967053
-- revealed: 0.017412532634070433
-- atraumatic: 0.0174073457580676
-- repaired: 0.016885748769841325
-- 77: 0.016522541305784996
-- icu: 0.016196655102419653
-- polycystic: 0.016045454946898206
-- screen: 0.01576308197541727
-- mca: 0.01576308197541727
-- administered: 0.01563078770112975
-- bleed: 0.015503786638864038
-- altered: 0.015381671461632941
-- reduce: 0.015322331356832456
-- has: 0.015282856861850267
-- spasm: 0.015206878518194758
-- encephalitis: 0.015150689384545868
-- an: 0.015005268117901331
-- mg: 0.01488375885371875
-- blood: 0.014808959190535235
-- institution: 0.014782969335259764
-- excluded: 0.014685281529968484
-- transferred: 0.014590510218382195
-- fissure: 0.014544164823394408
-- approach: 0.014237412964064023
-- concerning: 0.014237412964064023
-- meningitis: 0.014074577108865447
-- prior: 0.01393087474414199
-- bacterial: 0.013882117991987878
-- a: 0.013849516888903537
-- spaces: 0.013366184882471132
-- calcium: 0.013272347415037659
-- complains: 0.012607401071453674
-- small: 0.012498890694483292
-- deficits: 0.012413471890565297
-- control: 0.012366785708375789
-- subsequently: 0.0122980190519276
-- distribution: 0.01220858769647777
-- department: 0.012164799372248134
-- contrast: 0.012144607535288288
-- report: 0.01214312964186591
-- cbc: 0.012121606826039312
-- material: 0.012121606826039312
-- fall: 0.011934198789264095
-- arterial: 0.011874109868992608
-- per: 0.011874109868992608
-- large: 0.011863761471943363
-- neurological: 0.011738173369999185
-- admitted: 0.011719220458930918
-- via: 0.011644520467152523
-- relatively: 0.011607819443657045
-- but: 0.011571449530371668
-- rupture: 0.01151788132738331
-- ed: 0.011465116625046675
-- outside: 0.011379078752736227
-- caused: 0.011379078752736227
-- condition: 0.011345306060021765
-- history: 0.011240138454353177
-- non: 0.011213697445169873
-- stable: 0.011181630473784147
-- family: 0.011118452206110192
-- where: 0.011071880175164816
-- initially: 0.011041207442111683
-- currently: 0.010749754904800181
-- hypertension: 0.0106945430231752
-- emergency: 0.01027234475549294
-- reported: 0.009889126509764482
-- risk: 0.009826052848759004
-- did: 0.009794979812675948
-- kidney: 0.009556772873174633
-- or: 0.009538311894892454
-- to: 0.00949040240984414
-- presentation: 0.00934412899838439
-- underwent: 0.009308558842787997
-- this: 0.009153687745848887
-- 10: 0.009144838820148922
-- by: 0.009034100972983333
-- differential: 0.008612570886834698
-- day: 0.008612570886834698
-- right: 0.008586968658194446
-- such: 0.008480421555050325
-- approximately: 0.00839307246525582
-- days: 0.008314521575149135
-- no: 0.008194706197179068
-- patient: 0.008158018389679887
-- artery: 0.00807787299081968
-- decreased: 0.008065893341982728
-- infection: 0.007885766901818435
-- evaluation: 0.007880123161354944
-- loss: 0.007874489436407745
-- y.o: 0.007829775976465714
-- level: 0.007818695325863276
-- focal: 0.007747598743296514
-- head: 0.007693972414520305
-- trauma: 0.007419075497644219
-- (: 0.0068796354880367675
-- ): 0.0067955970677457634
-- ``: 0.006667095357561324
-- surgery: 0.006587298617016746
-- '': 0.0065388873078801365
-- other: 0.0062528207895315826
-- diagnosis: 0.0062292677167632374
-- it: 0.006097931379469894
-- ,: 0.006015779233717497
-- have: 0.0058744065979844185
-- had: 0.005853491489653042
-- and: 0.0057145716105466175
-- presents: 0.005541727922247384
-- in: 0.005351075938288951
-- the: 0.005266639417280983
-- within: 0.0051750203440827985
-- male: 0.004905414405991978
-- on: 0.004596133411843987
-- disease: 0.004434087432430807
-- normal: 0.004252737951108258
-- as: 0.004103420653632152
-- ct: 0.003794614772673152
-- are: 0.0036980122937447673
-- is: 0.00357010018022048
-- pain: 0.003313041801684872
-- of: 0.0025889733510664095
-- for: 0.002314629043310207
-- .: 0.0019158479798567832
-- with: 0.0014857673154271712
+\-\ Texto\\:\\ \ \(0\)\
+\-\ he\\ has\\ an\\ decreased\\ level\\ of\\ consciousness\\ and\\ complains\\ of\\ a\\ severe\\ headache\\.\\ he\\ has\\ no\\ focal\\ neurological\\ deficits\\.\\ his\\ toxicology\\ screen\\,\\ cbc\\ and\\ electrolytes\\ are\\ normal\\.\ \(0\)\
+\-\ the\\ patient\\ was\\ initially\\ admitted\\ to\\ the\\ icu\\ and\\ was\\ administered\\ pain\\ control\\ and\\ calcium\\ channel\\ blockers\\ to\\ reduce\\ risk\\ of\\ arterial\\ spasm\\.\\ he\\ was\\ subsequently\\ transferred\\ to\\ an\\ outside\\ institution\\ where\\ he\\ underwent\\ neurosurgical\\ evaluation\\,\\ and\\ an\\ angiogram\\.\\ angiogram\\ revealed\\ a\\ small\\ right\\ middle\\ cerebral\\ aneurysm\\.\\ it\\ was\\ decided\\ to\\ have\\ the\\ aneurysm\\ repaired\\ via\\ neurosurgical\\ approach\\,\\ and\\ the\\ patient\\ is\\ currently\\ awaiting\\ surgery\\ and\\ is\\ in\\ stable\\ condition\\.\ \(0\)\
+\-\ non\\ contrast\\ head\\ ct\\ revealed\\ a\\ large\\ amount\\ of\\ acute\\ hyperdense\\ material\\ consistant\\ with\\ blood\\ product\\ in\\ the\\ subarachnoid\\ spaces\\ with\\ a\\ relatively\\ large\\ amount\\ within\\ the\\ right\\ sylvian\\ fissure\\.\\ this\\ was\\ concerning\\ for\\ atraumatic\\ subarachnoid\\ hemorrhage\\ from\\ a\\ ruptured\\ aneurysm\\ in\\ the\\ distribution\\ of\\ the\\ right\\ middle\\ cerebral\\ artery\\.\ \(0\)\
+\-\ subarachnoid\\ hemorrhage\ \(52\)\
+\-\ subarachnoid\\ hemorrhage\\ from\\ ruptured\\ aneurysm\\ or\\ acute\\ trauma\\,\\ hyperdense\\ csf\\ from\\ bacterial\\ meningitis\\ \\(much\\ less\\ likely\\)\\,\\ subarachnoid\\ blood\\ and\\ intraparenchymal\\ from\\ acute\\ infection\\ such\\ as\\ herpes\\ encephalitis\\ \\(much\\ less\\ likely\\)\\,\\ contrast\\ in\\ the\\ csf\\ from\\ myelogram\\ \\(excluded\\ from\\ the\\ differential\\ diagnosis\\ by\\ history\\)\\.\ \(0\)\
+\-\ 77\\ y\\.o\\.\\ male\\ with\\ acute\\ loss\\ of\\ consciousness\\ and\\ a\\ fall\\.\\ he\\ presents\\ to\\ the\\ emergency\\ department\\ with\\ an\\ altered\\ sensorium\\ and\\ severe\\ headache\\.\ \(0\)\
+\-\ this\\ patient\\ did\\ report\\ a\\ severe\\ headache\\ approximately\\ 10\\ days\\ prior\\ to\\ his\\ presentation\\ to\\ the\\ ed\\.\\ this\\ was\\ likely\\ a\\ \\"sentinal\\ bleed\\"\\ caused\\ by\\ a\\ small\\ prior\\ rupture\\ from\\ his\\ mca\\ aneurysm\\.\\ he\\ has\\ had\\ longstanding\\ hypertension\\,\\ but\\ reported\\ no\\ history\\ of\\ polycystic\\ kidney\\ disease\\ or\\ a\\ family\\ history\\ or\\ aneurysm\\.\\ he\\ ws\\ on\\ a\\ 325\\ mg\\ aspirin\\ per\\ day\\ but\\ was\\ on\\ no\\ other\\ anticoagulants\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ subarachnoid\\:\\ 0\\.06590602110880049\ \(0\)\
+\-\ aneurysm\\:\\ 0\\.06433217361987244\ \(0\)\
+\-\ he\\:\\ 0\\.0529819409340671\ \(0\)\
+\-\ neurosurgical\\:\\ 0\\.036063645765316496\ \(0\)\
+\-\ ruptured\\:\\ 0\\.02822901950158398\ \(0\)\
+\-\ from\\:\\ 0\\.028143015847871385\ \(0\)\
+\-\ headache\\:\\ 0\\.027952242262531412\ \(0\)\
+\-\ consciousness\\:\\ 0\\.027544010218973278\ \(0\)\
+\-\ hyperdense\\:\\ 0\\.027125229471088853\ \(0\)\
+\-\ hemorrhage\\:\\ 0\\.027088157944533675\ \(0\)\
+\-\ acute\\:\\ 0\\.026792118464844385\ \(0\)\
+\-\ angiogram\\:\\ 0\\.02624372823391923\ \(0\)\
+\-\ 325\\:\\ 0\\.02578530553462398\ \(0\)\
+\-\ much\\:\\ 0\\.025115593775268737\ \(0\)\
+\-\ severe\\:\\ 0\\.025041045714914327\ \(0\)\
+\-\ toxicology\\:\\ 0\\.02449811471523298\ \(0\)\
+\-\ sentinal\\:\\ 0\\.02449811471523298\ \(0\)\
+\-\ his\\:\\ 0\\.02345608597758983\ \(0\)\
+\-\ likely\\:\\ 0\\.02295514253272054\ \(0\)\
+\-\ sensorium\\:\\ 0\\.02287644606835682\ \(0\)\
+\-\ ws\\:\\ 0\\.02287644606835682\ \(0\)\
+\-\ amount\\:\\ 0\\.02265710699559373\ \(0\)\
+\-\ csf\\:\\ 0\\.02265710699559373\ \(0\)\
+\-\ was\\:\\ 0\\.021961722715859708\ \(0\)\
+\-\ anticoagulants\\:\\ 0\\.021808280237813286\ \(0\)\
+\-\ blockers\\:\\ 0\\.021010456655969137\ \(0\)\
+\-\ consistant\\:\\ 0\\.020675978828483977\ \(0\)\
+\-\ myelogram\\:\\ 0\\.01984307640160305\ \(0\)\
+\-\ middle\\:\\ 0\\.019842279172332937\ \(0\)\
+\-\ electrolytes\\:\\ 0\\.0188099894160963\ \(0\)\
+\-\ product\\:\\ 0\\.0188099894160963\ \(0\)\
+\-\ cerebral\\:\\ 0\\.018796485725486166\ \(0\)\
+\-\ less\\:\\ 0\\.018374222249667824\ \(0\)\
+\-\ awaiting\\:\\ 0\\.018320622178549444\ \(0\)\
+\-\ sylvian\\:\\ 0\\.018031822882658248\ \(0\)\
+\-\ intraparenchymal\\:\\ 0\\.018031822882658248\ \(0\)\
+\-\ longstanding\\:\\ 0\\.018031822882658248\ \(0\)\
+\-\ channel\\:\\ 0\\.01789671299561445\ \(0\)\
+\-\ aspirin\\:\\ 0\\.017767119362216817\ \(0\)\
+\-\ decided\\:\\ 0\\.01764260916173021\ \(0\)\
+\-\ herpes\\:\\ 0\\.0175227985967053\ \(0\)\
+\-\ revealed\\:\\ 0\\.017412532634070433\ \(0\)\
+\-\ atraumatic\\:\\ 0\\.0174073457580676\ \(0\)\
+\-\ repaired\\:\\ 0\\.016885748769841325\ \(0\)\
+\-\ 77\\:\\ 0\\.016522541305784996\ \(0\)\
+\-\ icu\\:\\ 0\\.016196655102419653\ \(0\)\
+\-\ polycystic\\:\\ 0\\.016045454946898206\ \(0\)\
+\-\ screen\\:\\ 0\\.01576308197541727\ \(0\)\
+\-\ mca\\:\\ 0\\.01576308197541727\ \(0\)\
+\-\ administered\\:\\ 0\\.01563078770112975\ \(0\)\
+\-\ bleed\\:\\ 0\\.015503786638864038\ \(0\)\
+\-\ altered\\:\\ 0\\.015381671461632941\ \(0\)\
+\-\ reduce\\:\\ 0\\.015322331356832456\ \(0\)\
+\-\ has\\:\\ 0\\.015282856861850267\ \(0\)\
+\-\ spasm\\:\\ 0\\.015206878518194758\ \(0\)\
+\-\ encephalitis\\:\\ 0\\.015150689384545868\ \(0\)\
+\-\ an\\:\\ 0\\.015005268117901331\ \(0\)\
+\-\ mg\\:\\ 0\\.01488375885371875\ \(0\)\
+\-\ blood\\:\\ 0\\.014808959190535235\ \(0\)\
+\-\ institution\\:\\ 0\\.014782969335259764\ \(0\)\
+\-\ excluded\\:\\ 0\\.014685281529968484\ \(0\)\
+\-\ transferred\\:\\ 0\\.014590510218382195\ \(0\)\
+\-\ fissure\\:\\ 0\\.014544164823394408\ \(0\)\
+\-\ approach\\:\\ 0\\.014237412964064023\ \(0\)\
+\-\ concerning\\:\\ 0\\.014237412964064023\ \(0\)\
+\-\ meningitis\\:\\ 0\\.014074577108865447\ \(0\)\
+\-\ prior\\:\\ 0\\.01393087474414199\ \(0\)\
+\-\ bacterial\\:\\ 0\\.013882117991987878\ \(0\)\
+\-\ a\\:\\ 0\\.013849516888903537\ \(0\)\
+\-\ spaces\\:\\ 0\\.013366184882471132\ \(0\)\
+\-\ calcium\\:\\ 0\\.013272347415037659\ \(0\)\
+\-\ complains\\:\\ 0\\.012607401071453674\ \(0\)\
+\-\ small\\:\\ 0\\.012498890694483292\ \(0\)\
+\-\ deficits\\:\\ 0\\.012413471890565297\ \(0\)\
+\-\ control\\:\\ 0\\.012366785708375789\ \(0\)\
+\-\ subsequently\\:\\ 0\\.0122980190519276\ \(0\)\
+\-\ distribution\\:\\ 0\\.01220858769647777\ \(0\)\
+\-\ department\\:\\ 0\\.012164799372248134\ \(0\)\
+\-\ contrast\\:\\ 0\\.012144607535288288\ \(0\)\
+\-\ report\\:\\ 0\\.01214312964186591\ \(0\)\
+\-\ cbc\\:\\ 0\\.012121606826039312\ \(0\)\
+\-\ material\\:\\ 0\\.012121606826039312\ \(0\)\
+\-\ fall\\:\\ 0\\.011934198789264095\ \(0\)\
+\-\ arterial\\:\\ 0\\.011874109868992608\ \(0\)\
+\-\ per\\:\\ 0\\.011874109868992608\ \(0\)\
+\-\ large\\:\\ 0\\.011863761471943363\ \(0\)\
+\-\ neurological\\:\\ 0\\.011738173369999185\ \(0\)\
+\-\ admitted\\:\\ 0\\.011719220458930918\ \(0\)\
+\-\ via\\:\\ 0\\.011644520467152523\ \(0\)\
+\-\ relatively\\:\\ 0\\.011607819443657045\ \(0\)\
+\-\ but\\:\\ 0\\.011571449530371668\ \(0\)\
+\-\ rupture\\:\\ 0\\.01151788132738331\ \(0\)\
+\-\ ed\\:\\ 0\\.011465116625046675\ \(0\)\
+\-\ outside\\:\\ 0\\.011379078752736227\ \(0\)\
+\-\ caused\\:\\ 0\\.011379078752736227\ \(0\)\
+\-\ condition\\:\\ 0\\.011345306060021765\ \(0\)\
+\-\ history\\:\\ 0\\.011240138454353177\ \(0\)\
+\-\ non\\:\\ 0\\.011213697445169873\ \(0\)\
+\-\ stable\\:\\ 0\\.011181630473784147\ \(0\)\
+\-\ family\\:\\ 0\\.011118452206110192\ \(0\)\
+\-\ where\\:\\ 0\\.011071880175164816\ \(0\)\
+\-\ initially\\:\\ 0\\.011041207442111683\ \(0\)\
+\-\ currently\\:\\ 0\\.010749754904800181\ \(0\)\
+\-\ hypertension\\:\\ 0\\.0106945430231752\ \(0\)\
+\-\ emergency\\:\\ 0\\.01027234475549294\ \(0\)\
+\-\ reported\\:\\ 0\\.009889126509764482\ \(0\)\
+\-\ risk\\:\\ 0\\.009826052848759004\ \(0\)\
+\-\ did\\:\\ 0\\.009794979812675948\ \(0\)\
+\-\ kidney\\:\\ 0\\.009556772873174633\ \(0\)\
+\-\ or\\:\\ 0\\.009538311894892454\ \(0\)\
+\-\ to\\:\\ 0\\.00949040240984414\ \(0\)\
+\-\ presentation\\:\\ 0\\.00934412899838439\ \(0\)\
+\-\ underwent\\:\\ 0\\.009308558842787997\ \(0\)\
+\-\ this\\:\\ 0\\.009153687745848887\ \(0\)\
+\-\ 10\\:\\ 0\\.009144838820148922\ \(0\)\
+\-\ by\\:\\ 0\\.009034100972983333\ \(0\)\
+\-\ differential\\:\\ 0\\.008612570886834698\ \(0\)\
+\-\ day\\:\\ 0\\.008612570886834698\ \(0\)\
+\-\ right\\:\\ 0\\.008586968658194446\ \(0\)\
+\-\ such\\:\\ 0\\.008480421555050325\ \(0\)\
+\-\ approximately\\:\\ 0\\.00839307246525582\ \(0\)\
+\-\ days\\:\\ 0\\.008314521575149135\ \(0\)\
+\-\ no\\:\\ 0\\.008194706197179068\ \(0\)\
+\-\ patient\\:\\ 0\\.008158018389679887\ \(0\)\
+\-\ artery\\:\\ 0\\.00807787299081968\ \(0\)\
+\-\ decreased\\:\\ 0\\.008065893341982728\ \(0\)\
+\-\ infection\\:\\ 0\\.007885766901818435\ \(0\)\
+\-\ evaluation\\:\\ 0\\.007880123161354944\ \(0\)\
+\-\ loss\\:\\ 0\\.007874489436407745\ \(0\)\
+\-\ y\\.o\\:\\ 0\\.007829775976465714\ \(0\)\
+\-\ level\\:\\ 0\\.007818695325863276\ \(0\)\
+\-\ focal\\:\\ 0\\.007747598743296514\ \(0\)\
+\-\ head\\:\\ 0\\.007693972414520305\ \(0\)\
+\-\ trauma\\:\\ 0\\.007419075497644219\ \(0\)\
+\-\ \\(\\:\\ 0\\.0068796354880367675\ \(0\)\
+\-\ \\)\\:\\ 0\\.0067955970677457634\ \(0\)\
+\-\ \\`\\`\\:\\ 0\\.006667095357561324\ \(0\)\
+\-\ surgery\\:\\ 0\\.006587298617016746\ \(0\)\
+\-\ \\'\\'\\:\\ 0\\.0065388873078801365\ \(0\)\
+\-\ other\\:\\ 0\\.0062528207895315826\ \(0\)\
+\-\ diagnosis\\:\\ 0\\.0062292677167632374\ \(0\)\
+\-\ it\\:\\ 0\\.006097931379469894\ \(0\)\
+\-\ \\,\\:\\ 0\\.006015779233717497\ \(0\)\
+\-\ have\\:\\ 0\\.0058744065979844185\ \(0\)\
+\-\ had\\:\\ 0\\.005853491489653042\ \(0\)\
+\-\ and\\:\\ 0\\.0057145716105466175\ \(0\)\
+\-\ presents\\:\\ 0\\.005541727922247384\ \(0\)\
+\-\ in\\:\\ 0\\.005351075938288951\ \(0\)\
+\-\ the\\:\\ 0\\.005266639417280983\ \(0\)\
+\-\ within\\:\\ 0\\.0051750203440827985\ \(0\)\
+\-\ male\\:\\ 0\\.004905414405991978\ \(0\)\
+\-\ on\\:\\ 0\\.004596133411843987\ \(0\)\
+\-\ disease\\:\\ 0\\.004434087432430807\ \(0\)\
+\-\ normal\\:\\ 0\\.004252737951108258\ \(0\)\
+\-\ as\\:\\ 0\\.004103420653632152\ \(0\)\
+\-\ ct\\:\\ 0\\.003794614772673152\ \(0\)\
+\-\ are\\:\\ 0\\.0036980122937447673\ \(0\)\
+\-\ is\\:\\ 0\\.00357010018022048\ \(0\)\
+\-\ pain\\:\\ 0\\.003313041801684872\ \(0\)\
+\-\ of\\:\\ 0\\.0025889733510664095\ \(0\)\
+\-\ for\\:\\ 0\\.002314629043310207\ \(0\)\
+\-\ \\.\\:\\ 0\\.0019158479798567832\ \(0\)\
+\-\ with\\:\\ 0\\.0014857673154271712\ \(0\)\

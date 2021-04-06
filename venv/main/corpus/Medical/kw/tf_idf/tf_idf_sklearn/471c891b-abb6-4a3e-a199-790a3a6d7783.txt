@@ -1,56 +1,54 @@
-Texto: 
-tubular subareolar mass mammography, corresponding to tubular, anechoic, subareolar structure on ultrasound.
-left breast mammogram normal (i.e. without similar findings)
-duct ectasia
-fibroadenoma
-cyst
-carcinoma
-66 year old asymptomatic female presents for screening mammogram.
-need to exclude underlying cause for asymmetric ductal dilatation (e.g. solitary or multiple papillomas, ductal malignancy, ductal hyperplasia, ductal adenoma).
-
-
-Keywords by value: 
-- ductal: 0.5014427526589549
-- subareolar: 0.3805086459331914
-- mammogram: 0.2720153726076789
-- tubular: 0.24752375797168097
-- papillomas: 0.19653036403251317
-- ectasia: 0.15936881794456528
-- fibroadenoma: 0.1563380897545293
-- anechoic: 0.155634582272228
-- mammography: 0.1484503369704918
-- exclude: 0.13764048106593715
-- 66: 0.13359879718448572
-- corresponding: 0.13331338991674715
-- need: 0.13114046662330794
-- solitary: 0.13037201017303568
-- hyperplasia: 0.12987253624129438
-- asymmetric: 0.12819908687959647
-- duct: 0.12262655329598032
-- structure: 0.12171834906016157
-- underlying: 0.11628892683730185
-- dilatation: 0.11628892683730185
-- screening: 0.11572133731172242
-- adenoma: 0.11357180780370198
-- similar: 0.1085721909112079
-- malignancy: 0.10664635097438788
-- breast: 0.1034461827582543
-- cause: 0.09704648985585437
-- asymptomatic: 0.09698016082852536
-- ultrasound: 0.08786845842995682
-- for: 0.08635361209169838
-- carcinoma: 0.08520972549933273
-- cyst: 0.08217663480382141
-- without: 0.07513928912630931
-- to: 0.07122659201504894
-- findings: 0.07030691256266428
-- multiple: 0.06967750013264411
-- female: 0.06874077177709567
-- presents: 0.06852787309543783
-- normal: 0.05816313685132713
-- mass: 0.0544137410191272
-- or: 0.04955731553027139
-- left: 0.04859426979218366
-- year: 0.04390161159838594
-- on: 0.04302364479232085
-- old: 0.04216074405444079
+\-\ Texto\\:\\ \ \(0\)\
+\-\ tubular\\ subareolar\\ mass\\ mammography\\,\\ corresponding\\ to\\ tubular\\,\\ anechoic\\,\\ subareolar\\ structure\\ on\\ ultrasound\\.\ \(0\)\
+\-\ left\\ breast\\ mammogram\\ normal\\ \\(i\\.e\\.\\ without\\ similar\\ findings\\)\ \(0\)\
+\-\ duct\\ ectasia\ \(2\)\
+\-\ fibroadenoma\ \(22\)\
+\-\ cyst\ \(3194\)\
+\-\ carcinoma\ \(1182\)\
+\-\ 66\\ year\\ old\\ asymptomatic\\ female\\ presents\\ for\\ screening\\ mammogram\\.\ \(1\)\
+\-\ need\\ to\\ exclude\\ underlying\\ cause\\ for\\ asymmetric\\ ductal\\ dilatation\\ \\(e\\.g\\.\\ solitary\\ or\\ multiple\\ papillomas\\,\\ ductal\\ malignancy\\,\\ ductal\\ hyperplasia\\,\\ ductal\\ adenoma\\)\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ ductal\\:\\ 0\\.5014427526589549\ \(0\)\
+\-\ subareolar\\:\\ 0\\.3805086459331914\ \(0\)\
+\-\ mammogram\\:\\ 0\\.2720153726076789\ \(0\)\
+\-\ tubular\\:\\ 0\\.24752375797168097\ \(0\)\
+\-\ papillomas\\:\\ 0\\.19653036403251317\ \(0\)\
+\-\ ectasia\\:\\ 0\\.15936881794456528\ \(0\)\
+\-\ fibroadenoma\\:\\ 0\\.1563380897545293\ \(0\)\
+\-\ anechoic\\:\\ 0\\.155634582272228\ \(0\)\
+\-\ mammography\\:\\ 0\\.1484503369704918\ \(0\)\
+\-\ exclude\\:\\ 0\\.13764048106593715\ \(0\)\
+\-\ 66\\:\\ 0\\.13359879718448572\ \(0\)\
+\-\ corresponding\\:\\ 0\\.13331338991674715\ \(0\)\
+\-\ need\\:\\ 0\\.13114046662330794\ \(0\)\
+\-\ solitary\\:\\ 0\\.13037201017303568\ \(0\)\
+\-\ hyperplasia\\:\\ 0\\.12987253624129438\ \(0\)\
+\-\ asymmetric\\:\\ 0\\.12819908687959647\ \(0\)\
+\-\ duct\\:\\ 0\\.12262655329598032\ \(0\)\
+\-\ structure\\:\\ 0\\.12171834906016157\ \(0\)\
+\-\ underlying\\:\\ 0\\.11628892683730185\ \(0\)\
+\-\ dilatation\\:\\ 0\\.11628892683730185\ \(0\)\
+\-\ screening\\:\\ 0\\.11572133731172242\ \(0\)\
+\-\ adenoma\\:\\ 0\\.11357180780370198\ \(0\)\
+\-\ similar\\:\\ 0\\.1085721909112079\ \(0\)\
+\-\ malignancy\\:\\ 0\\.10664635097438788\ \(0\)\
+\-\ breast\\:\\ 0\\.1034461827582543\ \(0\)\
+\-\ cause\\:\\ 0\\.09704648985585437\ \(0\)\
+\-\ asymptomatic\\:\\ 0\\.09698016082852536\ \(0\)\
+\-\ ultrasound\\:\\ 0\\.08786845842995682\ \(0\)\
+\-\ for\\:\\ 0\\.08635361209169838\ \(0\)\
+\-\ carcinoma\\:\\ 0\\.08520972549933273\ \(0\)\
+\-\ cyst\\:\\ 0\\.08217663480382141\ \(0\)\
+\-\ without\\:\\ 0\\.07513928912630931\ \(0\)\
+\-\ to\\:\\ 0\\.07122659201504894\ \(0\)\
+\-\ findings\\:\\ 0\\.07030691256266428\ \(0\)\
+\-\ multiple\\:\\ 0\\.06967750013264411\ \(0\)\
+\-\ female\\:\\ 0\\.06874077177709567\ \(0\)\
+\-\ presents\\:\\ 0\\.06852787309543783\ \(0\)\
+\-\ normal\\:\\ 0\\.05816313685132713\ \(0\)\
+\-\ mass\\:\\ 0\\.0544137410191272\ \(0\)\
+\-\ or\\:\\ 0\\.04955731553027139\ \(0\)\
+\-\ left\\:\\ 0\\.04859426979218366\ \(0\)\
+\-\ year\\:\\ 0\\.04390161159838594\ \(0\)\
+\-\ on\\:\\ 0\\.04302364479232085\ \(0\)\
+\-\ old\\:\\ 0\\.04216074405444079\ \(0\)\

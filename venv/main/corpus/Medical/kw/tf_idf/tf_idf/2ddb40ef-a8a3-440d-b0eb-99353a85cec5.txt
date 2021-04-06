@@ -1,136 +1,134 @@
-Texto: 
-- physical exam demonstrated increasing erythema around site of puncture wound. 
-- complete blood cell count demonstrated increased white blood cells with left shift.
-the patient was taken to the operating room for removal of the foreign body and surgical debridement/washout of the soft tissues of the left foot. the patient was then placed on iv antibiotics.
-- radiographs of the left foot demonstrate an ill defined opacity between the third and fourth metatarsals suggestive of foreign body as no osseous defect/fracture is noted.
-- radiographs of the left foot also demonstrate periosteal reaction at the proximal metadiaphysis of the fourth metatarsal.
-- mri of the left foot demonstrates the presence of a signal void between the third and fourth metatarsals consistent with an acellular foreign body.
-- t2 weighted imaging demonstrates increased signal within soft tissues of the thrid and fourth metatarsals consistent with inflammation.
-- additionally, mri post contrast imaging demonstrates post contrast enhancement of the soft tissues as well.
-- mri also shows decreased signal within the bone marrow of the third metatarsal with additional finding of post-contrast enhancement.
-osteomyelitis
-- foreign body within left foot and cellulitis.
-- cellulitis and concomitant osteomyelitis.
-28 year old male status post puncture injury to plantar aspect of left foot. reportedly had piece of metal removed shortly after injury but now demonstrates increased pain and erythema in same region.
-
-
-Keywords by value: 
-- foot: 0.08686019742365188
-- -: 0.07507083847165424
-- metatarsals: 0.07355293131037233
-- foreign: 0.0690221022619411
-- fourth: 0.06776044584987342
-- body: 0.04549612643752598
-- tissues: 0.04312193516268803
-- puncture: 0.04311615051210725
-- third: 0.04212844296086062
-- cellulitis: 0.041621711521992864
-- metatarsal: 0.03856266032617366
-- debridement/washout: 0.036129173868715156
-- defect/fracture: 0.036129173868715156
-- thrid: 0.036129173868715156
-- erythema: 0.03442949104201015
-- acellular: 0.03328840673527276
-- post: 0.03308403729187246
-- osteomyelitis: 0.03255189620908121
-- demonstrates: 0.030600347568085016
-- signal: 0.027701733568927606
-- left: 0.027429249528321323
-- increased: 0.02570268174343839
-- soft: 0.025585165131068236
-- piece: 0.02531336514078377
-- metadiaphysis: 0.02451764377012411
-- mri: 0.024138637560425655
-- reportedly: 0.02327878773785799
-- metal: 0.02293705983237007
-- ill: 0.02277631920469269
-- concomitant: 0.02277631920469269
-- injury: 0.02232957821220328
-- void: 0.02232878112286895
-- between: 0.022200783083805277
-- radiographs: 0.022182547878706008
-- operating: 0.022055455817546525
-- post-contrast: 0.022055455817546525
-- demonstrated: 0.020552622807024325
-- within: 0.02004259928343543
-- plantar: 0.020015134390336774
-- shortly: 0.01993555207125029
-- wound: 0.01963183087389897
-- blood: 0.019118123545158194
-- enhancement: 0.018774498082975707
-- consistent: 0.017174575974026256
-- shift: 0.01661206757856042
-- periosteal: 0.01661206757856042
-- 28: 0.016508306070428084
-- imaging: 0.01641044118406232
-- opacity: 0.016373921550661728
-- demonstrate: 0.01611846017486099
-- reaction: 0.015905920044409043
-- removed: 0.015789646695518817
-- contrast: 0.015678489236130373
-- marrow: 0.015406854994336847
-- count: 0.015228081951402867
-- weighted: 0.015228081951402867
-- additionally: 0.015178404244303095
-- room: 0.015056782243704256
-- suggestive: 0.014962018237881083
-- inflammation: 0.014892356039649236
-- osseous: 0.014869395975925176
-- site: 0.0148012776102037
-- defined: 0.014756486337530789
-- taken: 0.014603463098032248
-- around: 0.01458206168827343
-- same: 0.01443530163623773
-- increasing: 0.014353739528379962
-- placed: 0.014175951431534778
-- cells: 0.014042814320286876
-- additional: 0.014042814320286876
-- also: 0.013808357325165176
-- removal: 0.013806479722541756
-- antibiotics: 0.013154575236354512
-- iv: 0.01278043007156186
-- presence: 0.012712236141217742
-- status: 0.012501341480252679
-- then: 0.012462979009926599
-- complete: 0.012325311204860879
-- now: 0.011971785203695276
-- white: 0.011615181199639418
-- finding: 0.011287137315731482
-- aspect: 0.011001196452800645
-- as: 0.01059489758929613
-- proximal: 0.01051452123650416
-- decreased: 0.01041293607674
-- the: 0.010198717724037968
-- t2: 0.009912249052255542
-- region: 0.00989180830835784
-- an: 0.009685777576104343
-- shows: 0.009628580736593766
-- cell: 0.009460002916317567
-- bone: 0.008702601153524057
-- physical: 0.008592234711398517
-- noted: 0.008300906510051614
-- was: 0.00810063542798104
-- well: 0.007922462922002669
-- exam: 0.007693581721104665
-- of: 0.007639593494950061
-- had: 0.007556761554265198
-- but: 0.007469275823907942
-- surgical: 0.007361564632178089
-- after: 0.007245906568070502
-- patient: 0.007021245335380229
-- male: 0.006332809581506038
-- and: 0.005164192787399709
-- at: 0.004744930954228004
-- pain: 0.004277082653814487
-- year: 0.0039184642183316175
-- old: 0.0035857975281239946
-- no: 0.0035264104537041066
-- to: 0.003500558265926117
-- for: 0.002988148150175062
-- on: 0.002966766444120607
-- is: 0.002304470403216089
-- .: 0.0020368586285362616
-- with: 0.0019181012473752416
-- in: 0.001727037828443668
-- a: 0.0016254090238467266
-- ,: 0.001109467481628227
+\-\ Texto\\:\\ \ \(0\)\
+\-\ physical\\ exam\\ demonstrated\\ increasing\\ erythema\\ around\\ site\\ of\\ puncture\\ wound\\.\\ \ \(0\)\
+\-\ complete\\ blood\\ cell\\ count\\ demonstrated\\ increased\\ white\\ blood\\ cells\\ with\\ left\\ shift\\.\ \(0\)\
+\-\ the\\ patient\\ was\\ taken\\ to\\ the\\ operating\\ room\\ for\\ removal\\ of\\ the\\ foreign\\ body\\ and\\ surgical\\ debridement\\/washout\\ of\\ the\\ soft\\ tissues\\ of\\ the\\ left\\ foot\\.\\ the\\ patient\\ was\\ then\\ placed\\ on\\ iv\\ antibiotics\\.\ \(0\)\
+\-\ radiographs\\ of\\ the\\ left\\ foot\\ demonstrate\\ an\\ ill\\ defined\\ opacity\\ between\\ the\\ third\\ and\\ fourth\\ metatarsals\\ suggestive\\ of\\ foreign\\ body\\ as\\ no\\ osseous\\ defect\\/fracture\\ is\\ noted\\.\ \(0\)\
+\-\ radiographs\\ of\\ the\\ left\\ foot\\ also\\ demonstrate\\ periosteal\\ reaction\\ at\\ the\\ proximal\\ metadiaphysis\\ of\\ the\\ fourth\\ metatarsal\\.\ \(0\)\
+\-\ mri\\ of\\ the\\ left\\ foot\\ demonstrates\\ the\\ presence\\ of\\ a\\ signal\\ void\\ between\\ the\\ third\\ and\\ fourth\\ metatarsals\\ consistent\\ with\\ an\\ acellular\\ foreign\\ body\\.\ \(0\)\
+\-\ t2\\ weighted\\ imaging\\ demonstrates\\ increased\\ signal\\ within\\ soft\\ tissues\\ of\\ the\\ thrid\\ and\\ fourth\\ metatarsals\\ consistent\\ with\\ inflammation\\.\ \(0\)\
+\-\ additionally\\,\\ mri\\ post\\ contrast\\ imaging\\ demonstrates\\ post\\ contrast\\ enhancement\\ of\\ the\\ soft\\ tissues\\ as\\ well\\.\ \(0\)\
+\-\ mri\\ also\\ shows\\ decreased\\ signal\\ within\\ the\\ bone\\ marrow\\ of\\ the\\ third\\ metatarsal\\ with\\ additional\\ finding\\ of\\ post\\-contrast\\ enhancement\\.\ \(0\)\
+\-\ osteomyelitis\ \(170\)\
+\-\ foreign\\ body\\ within\\ left\\ foot\\ and\\ cellulitis\\.\ \(0\)\
+\-\ cellulitis\\ and\\ concomitant\\ osteomyelitis\\.\ \(0\)\
+\-\ 28\\ year\\ old\\ male\\ status\\ post\\ puncture\\ injury\\ to\\ plantar\\ aspect\\ of\\ left\\ foot\\.\\ reportedly\\ had\\ piece\\ of\\ metal\\ removed\\ shortly\\ after\\ injury\\ but\\ now\\ demonstrates\\ increased\\ pain\\ and\\ erythema\\ in\\ same\\ region\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ foot\\:\\ 0\\.08686019742365188\ \(0\)\
+\-\ \\-\\:\\ 0\\.07507083847165424\ \(0\)\
+\-\ metatarsals\\:\\ 0\\.07355293131037233\ \(0\)\
+\-\ foreign\\:\\ 0\\.0690221022619411\ \(0\)\
+\-\ fourth\\:\\ 0\\.06776044584987342\ \(0\)\
+\-\ body\\:\\ 0\\.04549612643752598\ \(0\)\
+\-\ tissues\\:\\ 0\\.04312193516268803\ \(0\)\
+\-\ puncture\\:\\ 0\\.04311615051210725\ \(0\)\
+\-\ third\\:\\ 0\\.04212844296086062\ \(0\)\
+\-\ cellulitis\\:\\ 0\\.041621711521992864\ \(0\)\
+\-\ metatarsal\\:\\ 0\\.03856266032617366\ \(0\)\
+\-\ debridement\\/washout\\:\\ 0\\.036129173868715156\ \(0\)\
+\-\ defect\\/fracture\\:\\ 0\\.036129173868715156\ \(0\)\
+\-\ thrid\\:\\ 0\\.036129173868715156\ \(0\)\
+\-\ erythema\\:\\ 0\\.03442949104201015\ \(0\)\
+\-\ acellular\\:\\ 0\\.03328840673527276\ \(0\)\
+\-\ post\\:\\ 0\\.03308403729187246\ \(0\)\
+\-\ osteomyelitis\\:\\ 0\\.03255189620908121\ \(0\)\
+\-\ demonstrates\\:\\ 0\\.030600347568085016\ \(0\)\
+\-\ signal\\:\\ 0\\.027701733568927606\ \(0\)\
+\-\ left\\:\\ 0\\.027429249528321323\ \(0\)\
+\-\ increased\\:\\ 0\\.02570268174343839\ \(0\)\
+\-\ soft\\:\\ 0\\.025585165131068236\ \(0\)\
+\-\ piece\\:\\ 0\\.02531336514078377\ \(0\)\
+\-\ metadiaphysis\\:\\ 0\\.02451764377012411\ \(0\)\
+\-\ mri\\:\\ 0\\.024138637560425655\ \(0\)\
+\-\ reportedly\\:\\ 0\\.02327878773785799\ \(0\)\
+\-\ metal\\:\\ 0\\.02293705983237007\ \(0\)\
+\-\ ill\\:\\ 0\\.02277631920469269\ \(0\)\
+\-\ concomitant\\:\\ 0\\.02277631920469269\ \(0\)\
+\-\ injury\\:\\ 0\\.02232957821220328\ \(0\)\
+\-\ void\\:\\ 0\\.02232878112286895\ \(0\)\
+\-\ between\\:\\ 0\\.022200783083805277\ \(0\)\
+\-\ radiographs\\:\\ 0\\.022182547878706008\ \(0\)\
+\-\ operating\\:\\ 0\\.022055455817546525\ \(0\)\
+\-\ post\\-contrast\\:\\ 0\\.022055455817546525\ \(0\)\
+\-\ demonstrated\\:\\ 0\\.020552622807024325\ \(0\)\
+\-\ within\\:\\ 0\\.02004259928343543\ \(0\)\
+\-\ plantar\\:\\ 0\\.020015134390336774\ \(0\)\
+\-\ shortly\\:\\ 0\\.01993555207125029\ \(0\)\
+\-\ wound\\:\\ 0\\.01963183087389897\ \(0\)\
+\-\ blood\\:\\ 0\\.019118123545158194\ \(0\)\
+\-\ enhancement\\:\\ 0\\.018774498082975707\ \(0\)\
+\-\ consistent\\:\\ 0\\.017174575974026256\ \(0\)\
+\-\ shift\\:\\ 0\\.01661206757856042\ \(0\)\
+\-\ periosteal\\:\\ 0\\.01661206757856042\ \(0\)\
+\-\ 28\\:\\ 0\\.016508306070428084\ \(0\)\
+\-\ imaging\\:\\ 0\\.01641044118406232\ \(0\)\
+\-\ opacity\\:\\ 0\\.016373921550661728\ \(0\)\
+\-\ demonstrate\\:\\ 0\\.01611846017486099\ \(0\)\
+\-\ reaction\\:\\ 0\\.015905920044409043\ \(0\)\
+\-\ removed\\:\\ 0\\.015789646695518817\ \(0\)\
+\-\ contrast\\:\\ 0\\.015678489236130373\ \(0\)\
+\-\ marrow\\:\\ 0\\.015406854994336847\ \(0\)\
+\-\ count\\:\\ 0\\.015228081951402867\ \(0\)\
+\-\ weighted\\:\\ 0\\.015228081951402867\ \(0\)\
+\-\ additionally\\:\\ 0\\.015178404244303095\ \(0\)\
+\-\ room\\:\\ 0\\.015056782243704256\ \(0\)\
+\-\ suggestive\\:\\ 0\\.014962018237881083\ \(0\)\
+\-\ inflammation\\:\\ 0\\.014892356039649236\ \(0\)\
+\-\ osseous\\:\\ 0\\.014869395975925176\ \(0\)\
+\-\ site\\:\\ 0\\.0148012776102037\ \(0\)\
+\-\ defined\\:\\ 0\\.014756486337530789\ \(0\)\
+\-\ taken\\:\\ 0\\.014603463098032248\ \(0\)\
+\-\ around\\:\\ 0\\.01458206168827343\ \(0\)\
+\-\ same\\:\\ 0\\.01443530163623773\ \(0\)\
+\-\ increasing\\:\\ 0\\.014353739528379962\ \(0\)\
+\-\ placed\\:\\ 0\\.014175951431534778\ \(0\)\
+\-\ cells\\:\\ 0\\.014042814320286876\ \(0\)\
+\-\ additional\\:\\ 0\\.014042814320286876\ \(0\)\
+\-\ also\\:\\ 0\\.013808357325165176\ \(0\)\
+\-\ removal\\:\\ 0\\.013806479722541756\ \(0\)\
+\-\ antibiotics\\:\\ 0\\.013154575236354512\ \(0\)\
+\-\ iv\\:\\ 0\\.01278043007156186\ \(0\)\
+\-\ presence\\:\\ 0\\.012712236141217742\ \(0\)\
+\-\ status\\:\\ 0\\.012501341480252679\ \(0\)\
+\-\ then\\:\\ 0\\.012462979009926599\ \(0\)\
+\-\ complete\\:\\ 0\\.012325311204860879\ \(0\)\
+\-\ now\\:\\ 0\\.011971785203695276\ \(0\)\
+\-\ white\\:\\ 0\\.011615181199639418\ \(0\)\
+\-\ finding\\:\\ 0\\.011287137315731482\ \(0\)\
+\-\ aspect\\:\\ 0\\.011001196452800645\ \(0\)\
+\-\ as\\:\\ 0\\.01059489758929613\ \(0\)\
+\-\ proximal\\:\\ 0\\.01051452123650416\ \(0\)\
+\-\ decreased\\:\\ 0\\.01041293607674\ \(0\)\
+\-\ the\\:\\ 0\\.010198717724037968\ \(0\)\
+\-\ t2\\:\\ 0\\.009912249052255542\ \(0\)\
+\-\ region\\:\\ 0\\.00989180830835784\ \(0\)\
+\-\ an\\:\\ 0\\.009685777576104343\ \(0\)\
+\-\ shows\\:\\ 0\\.009628580736593766\ \(0\)\
+\-\ cell\\:\\ 0\\.009460002916317567\ \(0\)\
+\-\ bone\\:\\ 0\\.008702601153524057\ \(0\)\
+\-\ physical\\:\\ 0\\.008592234711398517\ \(0\)\
+\-\ noted\\:\\ 0\\.008300906510051614\ \(0\)\
+\-\ was\\:\\ 0\\.00810063542798104\ \(0\)\
+\-\ well\\:\\ 0\\.007922462922002669\ \(0\)\
+\-\ exam\\:\\ 0\\.007693581721104665\ \(0\)\
+\-\ of\\:\\ 0\\.007639593494950061\ \(0\)\
+\-\ had\\:\\ 0\\.007556761554265198\ \(0\)\
+\-\ but\\:\\ 0\\.007469275823907942\ \(0\)\
+\-\ surgical\\:\\ 0\\.007361564632178089\ \(0\)\
+\-\ after\\:\\ 0\\.007245906568070502\ \(0\)\
+\-\ patient\\:\\ 0\\.007021245335380229\ \(0\)\
+\-\ male\\:\\ 0\\.006332809581506038\ \(0\)\
+\-\ and\\:\\ 0\\.005164192787399709\ \(0\)\
+\-\ at\\:\\ 0\\.004744930954228004\ \(0\)\
+\-\ pain\\:\\ 0\\.004277082653814487\ \(0\)\
+\-\ year\\:\\ 0\\.0039184642183316175\ \(0\)\
+\-\ old\\:\\ 0\\.0035857975281239946\ \(0\)\
+\-\ no\\:\\ 0\\.0035264104537041066\ \(0\)\
+\-\ to\\:\\ 0\\.003500558265926117\ \(0\)\
+\-\ for\\:\\ 0\\.002988148150175062\ \(0\)\
+\-\ on\\:\\ 0\\.002966766444120607\ \(0\)\
+\-\ is\\:\\ 0\\.002304470403216089\ \(0\)\
+\-\ \\.\\:\\ 0\\.0020368586285362616\ \(0\)\
+\-\ with\\:\\ 0\\.0019181012473752416\ \(0\)\
+\-\ in\\:\\ 0\\.001727037828443668\ \(0\)\
+\-\ a\\:\\ 0\\.0016254090238467266\ \(0\)\
+\-\ \\,\\:\\ 0\\.001109467481628227\ \(0\)\

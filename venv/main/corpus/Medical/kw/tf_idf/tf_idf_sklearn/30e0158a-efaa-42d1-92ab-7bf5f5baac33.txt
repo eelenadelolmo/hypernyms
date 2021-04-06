@@ -1,113 +1,110 @@
-Texto: 
-exam c/w hip flexor strain, negative heel tap, + hop test, cannot r/o fem neck stress fx.
-compressive aspect fracture usually managed conservatively. in this case, management was surgical.
-xr: an extremely subtle, sclerotic area is noted at the medial
-intertrochanteric line.
-
-mr: there is a large amount of marrow edema within the right femoral neck in the basicervical region along the posterior medial femoral neck. there is linear t1 and t2 signal hypointensity present at the posteromedial cortex in the basicervical region, consistent with an incomplete stress
-fracture.  this extends approximately one-quarter to one-third through the width of the femoral neck at this location.  the marrow signal is, otherwise, normal.  no evidence of avascular necrosis of the femoral head.  the
-acetabular labrum is intact.  no evidence of joint effusion.
-femoral neck stress fracture
-femoral neck stress fracture, acute.
-persistent pain in right hip after recent increase in running.
-surgical management d/t patient's inability to remain non-weightbearing for significant interval.
-
-
-Keywords by value: 
-- femoral: 0.37421945046671673
-- neck: 0.30800287931125997
-- stress: 0.27713627046086053
-- basicervical: 0.24800669432721886
-- fracture: 0.19076969194334922
-- the: 0.18418736753301707
-- marrow: 0.13947349056710057
-- fem: 0.13420014067763522
-- hip: 0.12892438370013526
-- hop: 0.12400334716360943
-- management: 0.12396985853478805
-- is: 0.1149049946943057
-- medial: 0.10924605619645127
-- intertrochanteric: 0.10784181181628183
-- xr: 0.10666431447467649
-- in: 0.10437803321154908
-- tap: 0.10360976013555784
-- region: 0.10038965733153171
-- fx: 0.09960938038352805
-- posteromedial: 0.09960938038352805
-- width: 0.09704449151569755
-- acetabular: 0.09591232814967825
-- labrum: 0.09591232814967825
-- evidence: 0.09526182811912526
-- signal: 0.09513932248673727
-- at: 0.09508853993367737
-- hypointensity: 0.0938800173866976
-- flexor: 0.09296028895319687
-- compressive: 0.09127721390139588
-- heel: 0.09013033231160189
-- strain: 0.08872823727247287
-- inability: 0.08655638425585051
-- this: 0.08650526766650081
-- extremely: 0.08599051205171529
-- running: 0.08518053518877824
-- remain: 0.08492015912720013
-- conservatively: 0.08441283770059925
-- avascular: 0.08344784503620045
-- incomplete: 0.0823243325751265
-- of: 0.08211006394598935
-- managed: 0.08210957163051742
-- surgical: 0.08157194102417177
-- interval: 0.0759331590455463
-- subtle: 0.0723454817648734
-- sclerotic: 0.0703948489085229
-- extends: 0.06910682615267716
-- cortex: 0.06833465024442126
-- test: 0.06825130235327165
-- linear: 0.06760099256341413
-- increase: 0.06736435158774289
-- amount: 0.06713145706495398
-- there: 0.06677992554519943
-- line: 0.06539021159754614
-- persistent: 0.06465618406918483
-- an: 0.06417848339321262
-- necrosis: 0.06414445026599548
-- effusion: 0.062314290713733546
-- intact: 0.06073661636261751
-- otherwise: 0.05981839913805906
-- location: 0.05843335029253568
-- recent: 0.05681958450173734
-- along: 0.05622058619597775
-- right: 0.05564333018590767
-- joint: 0.05529641171380377
-- no: 0.054577133187427525
-- area: 0.05436207467588936
-- mr: 0.05429755324159954
-- aspect: 0.054137476978365684
-- approximately: 0.05354459418441133
-- usually: 0.05282830519134368
-- t1: 0.05228498512013248
-- negative: 0.051951894736821796
-- edema: 0.05004941532260161
-- head: 0.05004941532260161
-- through: 0.04995326554609859
-- significant: 0.048451317723118954
-- t2: 0.04827925887942468
-- consistent: 0.04550124535108542
-- acute: 0.045395411344714795
-- noted: 0.04449220269221528
-- posterior: 0.04339374822497671
-- present: 0.04306008547238938
-- exam: 0.042243415586126216
-- case: 0.042158544984747845
-- large: 0.04204614051477006
-- to: 0.041957729140551986
-- after: 0.040709084291235306
-- within: 0.038649176105940146
-- normal: 0.03426238814651175
-- pain: 0.030028275110296997
-- was: 0.029245597801541772
-- patient: 0.027293700379644646
-- for: 0.02543433122341622
-- and: 0.017340238326366383
-- with: 0.01643182493792627
-- can: 0.0
-- not: 0.0
+\-\ Texto\\:\\ \ \(0\)\
+\-\ exam\\ c\\/w\\ hip\\ flexor\\ strain\\,\\ negative\\ heel\\ tap\\,\\ \\+\\ hop\\ test\\,\\ cannot\\ r\\/o\\ fem\\ neck\\ stress\\ fx\\.\ \(0\)\
+\-\ compressive\\ aspect\\ fracture\\ usually\\ managed\\ conservatively\\.\\ in\\ this\\ case\\,\\ management\\ was\\ surgical\\.\ \(0\)\
+\-\ xr\\:\\ an\\ extremely\\ subtle\\,\\ sclerotic\\ area\\ is\\ noted\\ at\\ the\\ medial\ \(0\)\
+\-\ intertrochanteric\\ line\\.\ \(1\)\
+\-\ mr\\:\\ there\\ is\\ a\\ large\\ amount\\ of\\ marrow\\ edema\\ within\\ the\\ right\\ femoral\\ neck\\ in\\ the\\ basicervical\\ region\\ along\\ the\\ posterior\\ medial\\ femoral\\ neck\\.\\ there\\ is\\ linear\\ t1\\ and\\ t2\\ signal\\ hypointensity\\ present\\ at\\ the\\ posteromedial\\ cortex\\ in\\ the\\ basicervical\\ region\\,\\ consistent\\ with\\ an\\ incomplete\\ stress\ \(0\)\
+\-\ fracture\\.\\ \\ this\\ extends\\ approximately\\ one\\-quarter\\ to\\ one\\-third\\ through\\ the\\ width\\ of\\ the\\ femoral\\ neck\\ at\\ this\\ location\\.\\ \\ the\\ marrow\\ signal\\ is\\,\\ otherwise\\,\\ normal\\.\\ \\ no\\ evidence\\ of\\ avascular\\ necrosis\\ of\\ the\\ femoral\\ head\\.\\ \\ the\ \(0\)\
+\-\ acetabular\\ labrum\\ is\\ intact\\.\\ \\ no\\ evidence\\ of\\ joint\\ effusion\\.\ \(0\)\
+\-\ femoral\\ neck\\ stress\\ fracture\ \(6\)\
+\-\ femoral\\ neck\\ stress\\ fracture\\,\\ acute\\.\ \(0\)\
+\-\ persistent\\ pain\\ in\\ right\\ hip\\ after\\ recent\\ increase\\ in\\ running\\.\ \(0\)\
+\-\ surgical\\ management\\ d\\/t\\ patient\\'s\\ inability\\ to\\ remain\\ non\\-weightbearing\\ for\\ significant\\ interval\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ femoral\\:\\ 0\\.37421945046671673\ \(0\)\
+\-\ neck\\:\\ 0\\.30800287931125997\ \(0\)\
+\-\ stress\\:\\ 0\\.27713627046086053\ \(0\)\
+\-\ basicervical\\:\\ 0\\.24800669432721886\ \(0\)\
+\-\ fracture\\:\\ 0\\.19076969194334922\ \(0\)\
+\-\ the\\:\\ 0\\.18418736753301707\ \(0\)\
+\-\ marrow\\:\\ 0\\.13947349056710057\ \(0\)\
+\-\ fem\\:\\ 0\\.13420014067763522\ \(0\)\
+\-\ hip\\:\\ 0\\.12892438370013526\ \(0\)\
+\-\ hop\\:\\ 0\\.12400334716360943\ \(0\)\
+\-\ management\\:\\ 0\\.12396985853478805\ \(0\)\
+\-\ is\\:\\ 0\\.1149049946943057\ \(0\)\
+\-\ medial\\:\\ 0\\.10924605619645127\ \(0\)\
+\-\ intertrochanteric\\:\\ 0\\.10784181181628183\ \(0\)\
+\-\ xr\\:\\ 0\\.10666431447467649\ \(0\)\
+\-\ in\\:\\ 0\\.10437803321154908\ \(0\)\
+\-\ tap\\:\\ 0\\.10360976013555784\ \(0\)\
+\-\ region\\:\\ 0\\.10038965733153171\ \(0\)\
+\-\ fx\\:\\ 0\\.09960938038352805\ \(0\)\
+\-\ posteromedial\\:\\ 0\\.09960938038352805\ \(0\)\
+\-\ width\\:\\ 0\\.09704449151569755\ \(0\)\
+\-\ acetabular\\:\\ 0\\.09591232814967825\ \(0\)\
+\-\ labrum\\:\\ 0\\.09591232814967825\ \(0\)\
+\-\ evidence\\:\\ 0\\.09526182811912526\ \(0\)\
+\-\ signal\\:\\ 0\\.09513932248673727\ \(0\)\
+\-\ at\\:\\ 0\\.09508853993367737\ \(0\)\
+\-\ hypointensity\\:\\ 0\\.0938800173866976\ \(0\)\
+\-\ flexor\\:\\ 0\\.09296028895319687\ \(0\)\
+\-\ compressive\\:\\ 0\\.09127721390139588\ \(0\)\
+\-\ heel\\:\\ 0\\.09013033231160189\ \(0\)\
+\-\ strain\\:\\ 0\\.08872823727247287\ \(0\)\
+\-\ inability\\:\\ 0\\.08655638425585051\ \(0\)\
+\-\ this\\:\\ 0\\.08650526766650081\ \(0\)\
+\-\ extremely\\:\\ 0\\.08599051205171529\ \(0\)\
+\-\ running\\:\\ 0\\.08518053518877824\ \(0\)\
+\-\ remain\\:\\ 0\\.08492015912720013\ \(0\)\
+\-\ conservatively\\:\\ 0\\.08441283770059925\ \(0\)\
+\-\ avascular\\:\\ 0\\.08344784503620045\ \(0\)\
+\-\ incomplete\\:\\ 0\\.0823243325751265\ \(0\)\
+\-\ of\\:\\ 0\\.08211006394598935\ \(0\)\
+\-\ managed\\:\\ 0\\.08210957163051742\ \(0\)\
+\-\ surgical\\:\\ 0\\.08157194102417177\ \(0\)\
+\-\ interval\\:\\ 0\\.0759331590455463\ \(0\)\
+\-\ subtle\\:\\ 0\\.0723454817648734\ \(0\)\
+\-\ sclerotic\\:\\ 0\\.0703948489085229\ \(0\)\
+\-\ extends\\:\\ 0\\.06910682615267716\ \(0\)\
+\-\ cortex\\:\\ 0\\.06833465024442126\ \(0\)\
+\-\ test\\:\\ 0\\.06825130235327165\ \(0\)\
+\-\ linear\\:\\ 0\\.06760099256341413\ \(0\)\
+\-\ increase\\:\\ 0\\.06736435158774289\ \(0\)\
+\-\ amount\\:\\ 0\\.06713145706495398\ \(0\)\
+\-\ there\\:\\ 0\\.06677992554519943\ \(0\)\
+\-\ line\\:\\ 0\\.06539021159754614\ \(0\)\
+\-\ persistent\\:\\ 0\\.06465618406918483\ \(0\)\
+\-\ an\\:\\ 0\\.06417848339321262\ \(0\)\
+\-\ necrosis\\:\\ 0\\.06414445026599548\ \(0\)\
+\-\ effusion\\:\\ 0\\.062314290713733546\ \(0\)\
+\-\ intact\\:\\ 0\\.06073661636261751\ \(0\)\
+\-\ otherwise\\:\\ 0\\.05981839913805906\ \(0\)\
+\-\ location\\:\\ 0\\.05843335029253568\ \(0\)\
+\-\ recent\\:\\ 0\\.05681958450173734\ \(0\)\
+\-\ along\\:\\ 0\\.05622058619597775\ \(0\)\
+\-\ right\\:\\ 0\\.05564333018590767\ \(0\)\
+\-\ joint\\:\\ 0\\.05529641171380377\ \(0\)\
+\-\ no\\:\\ 0\\.054577133187427525\ \(0\)\
+\-\ area\\:\\ 0\\.05436207467588936\ \(0\)\
+\-\ mr\\:\\ 0\\.05429755324159954\ \(0\)\
+\-\ aspect\\:\\ 0\\.054137476978365684\ \(0\)\
+\-\ approximately\\:\\ 0\\.05354459418441133\ \(0\)\
+\-\ usually\\:\\ 0\\.05282830519134368\ \(0\)\
+\-\ t1\\:\\ 0\\.05228498512013248\ \(0\)\
+\-\ negative\\:\\ 0\\.051951894736821796\ \(0\)\
+\-\ edema\\:\\ 0\\.05004941532260161\ \(0\)\
+\-\ head\\:\\ 0\\.05004941532260161\ \(0\)\
+\-\ through\\:\\ 0\\.04995326554609859\ \(0\)\
+\-\ significant\\:\\ 0\\.048451317723118954\ \(0\)\
+\-\ t2\\:\\ 0\\.04827925887942468\ \(0\)\
+\-\ consistent\\:\\ 0\\.04550124535108542\ \(0\)\
+\-\ acute\\:\\ 0\\.045395411344714795\ \(0\)\
+\-\ noted\\:\\ 0\\.04449220269221528\ \(0\)\
+\-\ posterior\\:\\ 0\\.04339374822497671\ \(0\)\
+\-\ present\\:\\ 0\\.04306008547238938\ \(0\)\
+\-\ exam\\:\\ 0\\.042243415586126216\ \(0\)\
+\-\ case\\:\\ 0\\.042158544984747845\ \(0\)\
+\-\ large\\:\\ 0\\.04204614051477006\ \(0\)\
+\-\ to\\:\\ 0\\.041957729140551986\ \(0\)\
+\-\ after\\:\\ 0\\.040709084291235306\ \(0\)\
+\-\ within\\:\\ 0\\.038649176105940146\ \(0\)\
+\-\ normal\\:\\ 0\\.03426238814651175\ \(0\)\
+\-\ pain\\:\\ 0\\.030028275110296997\ \(0\)\
+\-\ was\\:\\ 0\\.029245597801541772\ \(0\)\
+\-\ patient\\:\\ 0\\.027293700379644646\ \(0\)\
+\-\ for\\:\\ 0\\.02543433122341622\ \(0\)\
+\-\ and\\:\\ 0\\.017340238326366383\ \(0\)\
+\-\ with\\:\\ 0\\.01643182493792627\ \(0\)\
+\-\ can\\:\\ 0\\.0\ \(0\)\
+\-\ not\\:\\ 0\\.0\ \(0\)\

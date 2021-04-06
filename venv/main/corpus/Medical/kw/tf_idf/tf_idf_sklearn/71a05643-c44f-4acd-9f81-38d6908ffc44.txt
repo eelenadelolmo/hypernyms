@@ -1,111 +1,107 @@
-Texto: 
-pe: not available
-lab: fibrin d-dimer 3.73 (0-0.48)ug/ml
-medical mangement
-thoracentesis
-thoracic aortic anyeurysm, descending aorta above diapharagm
-
-recent accumulation of left sided pleural effusion
-aortic dissection
-thoracic aortic dissection
-pulmonary embolism
-acute cardiac sydrome
-thoracic aortic aneurysm
-presented to er with chest pain of unknown duration.  also has history of poorly controlled type ii diabetes.
-the patient presented with acute chest pain and an elevated d-dimer prompting ct pe/dvt protocol.  a thoracic aortic aneurysm was demonstrated.  a review of the patients er portable chest radiograph reveals an enlarged thoracic aorta.
-
-a notable finding on follow-up ct aorta protocol was accumulation of a pleural effusion not seen on the original chest radiograph or pe/dvt protocol.  effusions are almost invariably seen after thoracic aortic dissection are are usually inflammatory in nature.  however, thoracentesis is indicated to rule out hemothorax from aortic leakage or rupture.  in this case thoracentesis was performed and analysis revealed inflammatory pleural fluid.
-
-
-Keywords by value: 
-- aortic: 0.3944750315326507
-- thoracic: 0.32693986480750115
-- thoracentesis: 0.2881180652835514
-- protocol: 0.2134946434489314
-- dissection: 0.19868302237692628
-- pe: 0.1808455351821599
-- aorta: 0.17770410751225074
-- pleural: 0.16467787014966384
-- chest: 0.15396053541493435
-- accumulation: 0.14090906893855676
-- mangement: 0.11661272095016502
-- anyeurysm: 0.11661272095016502
-- diapharagm: 0.11661272095016502
-- aneurysm: 0.11104283972165617
-- er: 0.10907924011636318
-- effusion: 0.1082955495801365
-- fibrin: 0.10775225455546991
-- sydrome: 0.1025692139756733
-- invariably: 0.10059871339998683
-- inflammatory: 0.09861387377624045
-- radiograph: 0.09498621907708144
-- prompting: 0.09268556557667594
-- leakage: 0.08783456836489248
-- presented: 0.08504399829730781
-- are: 0.08300788079327741
-- hemothorax: 0.08117085537138459
-- acute: 0.07889235300095906
-- portable: 0.0773939508371037
-- original: 0.0773939508371037
-- was: 0.07623856543438713
-- controlled: 0.07598781479158796
-- notable: 0.07292408846962063
-- of: 0.071349239470131
-- duration: 0.07028294865907257
-- seen: 0.06865897596208534
-- effusions: 0.06823961055909332
-- analysis: 0.06781109163180263
-- diabetes: 0.06660552284417409
-- embolism: 0.0661041663925906
-- lab: 0.06586067425102106
-- descending: 0.06586067425102106
-- poorly: 0.06586067425102106
-- almost: 0.06550391758207195
-- nature: 0.0643818862555232
-- review: 0.06005012359302776
-- indicated: 0.05997380724140976
-- rupture: 0.058950625237107514
-- rule: 0.05787352939950009
-- not: 0.05757305998694475
-- ii: 0.057491920436514556
-- an: 0.055767658194301246
-- ct: 0.05552159371679195
-- reveals: 0.05546782250378469
-- unknown: 0.055255652472401495
-- cardiac: 0.05414777479006825
-- above: 0.052604696880711496
-- pain: 0.05218591945388941
-- or: 0.05073416727684607
-- elevated: 0.04970958280342467
-- enlarged: 0.04970958280342467
-- available: 0.04947316746116032
-- recent: 0.049373169942657426
-- type: 0.048916587445527446
-- finding: 0.04793042530760754
-- out: 0.04793042530760754
-- revealed: 0.04781233716132512
-- sided: 0.046904962059268265
-- medical: 0.046342689285535296
-- usually: 0.04590496239751684
-- demonstrated: 0.044813811637187714
-- pulmonary: 0.0444472502932766
-- on: 0.04404533959108216
-- the: 0.04364971056232282
-- however: 0.04315928754552945
-- performed: 0.04313888378871927
-- fluid: 0.04210159516066326
-- patients: 0.041020702218935355
-- case: 0.03663351332679102
-- to: 0.036459015134141314
-- in: 0.03627956393716028
-- after: 0.03537400976347636
-- also: 0.03429882115083434
-- has: 0.033307093273936966
-- and: 0.030135473226056107
-- from: 0.028960177765168012
-- with: 0.028556748249485123
-- history: 0.02785912773501484
-- this: 0.025056145217573822
-- left: 0.02487412590807996
-- patient: 0.023716761025715783
-- is: 0.019969254897063315
+\-\ Texto\\:\\ \ \(0\)\
+\-\ pe\\:\\ not\\ available\ \(0\)\
+\-\ lab\\:\\ fibrin\\ d\\-dimer\\ 3\\.73\\ \\(0\\-0\\.48\\)ug\\/ml\ \(0\)\
+\-\ medical\\ mangement\ \(0\)\
+\-\ thoracentesis\ \(9\)\
+\-\ thoracic\\ aortic\\ anyeurysm\\,\\ descending\\ aorta\\ above\\ diapharagm\ \(0\)\
+\-\ recent\\ accumulation\\ of\\ left\\ sided\\ pleural\\ effusion\ \(0\)\
+\-\ aortic\\ dissection\ \(35\)\
+\-\ thoracic\\ aortic\\ dissection\ \(11\)\
+\-\ pulmonary\\ embolism\ \(77\)\
+\-\ acute\\ cardiac\\ sydrome\ \(0\)\
+\-\ thoracic\\ aortic\\ aneurysm\ \(16\)\
+\-\ presented\\ to\\ er\\ with\\ chest\\ pain\\ of\\ unknown\\ duration\\.\\ \\ also\\ has\\ history\\ of\\ poorly\\ controlled\\ type\\ ii\\ diabetes\\.\ \(0\)\
+\-\ the\\ patient\\ presented\\ with\\ acute\\ chest\\ pain\\ and\\ an\\ elevated\\ d\\-dimer\\ prompting\\ ct\\ pe\\/dvt\\ protocol\\.\\ \\ a\\ thoracic\\ aortic\\ aneurysm\\ was\\ demonstrated\\.\\ \\ a\\ review\\ of\\ the\\ patients\\ er\\ portable\\ chest\\ radiograph\\ reveals\\ an\\ enlarged\\ thoracic\\ aorta\\.\ \(0\)\
+\-\ a\\ notable\\ finding\\ on\\ follow\\-up\\ ct\\ aorta\\ protocol\\ was\\ accumulation\\ of\\ a\\ pleural\\ effusion\\ not\\ seen\\ on\\ the\\ original\\ chest\\ radiograph\\ or\\ pe\\/dvt\\ protocol\\.\\ \\ effusions\\ are\\ almost\\ invariably\\ seen\\ after\\ thoracic\\ aortic\\ dissection\\ are\\ are\\ usually\\ inflammatory\\ in\\ nature\\.\\ \\ however\\,\\ thoracentesis\\ is\\ indicated\\ to\\ rule\\ out\\ hemothorax\\ from\\ aortic\\ leakage\\ or\\ rupture\\.\\ \\ in\\ this\\ case\\ thoracentesis\\ was\\ performed\\ and\\ analysis\\ revealed\\ inflammatory\\ pleural\\ fluid\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ aortic\\:\\ 0\\.3944750315326507\ \(0\)\
+\-\ thoracic\\:\\ 0\\.32693986480750115\ \(0\)\
+\-\ thoracentesis\\:\\ 0\\.2881180652835514\ \(0\)\
+\-\ protocol\\:\\ 0\\.2134946434489314\ \(0\)\
+\-\ dissection\\:\\ 0\\.19868302237692628\ \(0\)\
+\-\ pe\\:\\ 0\\.1808455351821599\ \(0\)\
+\-\ aorta\\:\\ 0\\.17770410751225074\ \(0\)\
+\-\ pleural\\:\\ 0\\.16467787014966384\ \(0\)\
+\-\ chest\\:\\ 0\\.15396053541493435\ \(0\)\
+\-\ accumulation\\:\\ 0\\.14090906893855676\ \(0\)\
+\-\ mangement\\:\\ 0\\.11661272095016502\ \(0\)\
+\-\ anyeurysm\\:\\ 0\\.11661272095016502\ \(0\)\
+\-\ diapharagm\\:\\ 0\\.11661272095016502\ \(0\)\
+\-\ aneurysm\\:\\ 0\\.11104283972165617\ \(0\)\
+\-\ er\\:\\ 0\\.10907924011636318\ \(0\)\
+\-\ effusion\\:\\ 0\\.1082955495801365\ \(0\)\
+\-\ fibrin\\:\\ 0\\.10775225455546991\ \(0\)\
+\-\ sydrome\\:\\ 0\\.1025692139756733\ \(0\)\
+\-\ invariably\\:\\ 0\\.10059871339998683\ \(0\)\
+\-\ inflammatory\\:\\ 0\\.09861387377624045\ \(0\)\
+\-\ radiograph\\:\\ 0\\.09498621907708144\ \(0\)\
+\-\ prompting\\:\\ 0\\.09268556557667594\ \(0\)\
+\-\ leakage\\:\\ 0\\.08783456836489248\ \(0\)\
+\-\ presented\\:\\ 0\\.08504399829730781\ \(0\)\
+\-\ are\\:\\ 0\\.08300788079327741\ \(0\)\
+\-\ hemothorax\\:\\ 0\\.08117085537138459\ \(0\)\
+\-\ acute\\:\\ 0\\.07889235300095906\ \(0\)\
+\-\ portable\\:\\ 0\\.0773939508371037\ \(0\)\
+\-\ original\\:\\ 0\\.0773939508371037\ \(0\)\
+\-\ was\\:\\ 0\\.07623856543438713\ \(0\)\
+\-\ controlled\\:\\ 0\\.07598781479158796\ \(0\)\
+\-\ notable\\:\\ 0\\.07292408846962063\ \(0\)\
+\-\ of\\:\\ 0\\.071349239470131\ \(0\)\
+\-\ duration\\:\\ 0\\.07028294865907257\ \(0\)\
+\-\ seen\\:\\ 0\\.06865897596208534\ \(0\)\
+\-\ effusions\\:\\ 0\\.06823961055909332\ \(0\)\
+\-\ analysis\\:\\ 0\\.06781109163180263\ \(0\)\
+\-\ diabetes\\:\\ 0\\.06660552284417409\ \(0\)\
+\-\ embolism\\:\\ 0\\.0661041663925906\ \(0\)\
+\-\ lab\\:\\ 0\\.06586067425102106\ \(0\)\
+\-\ descending\\:\\ 0\\.06586067425102106\ \(0\)\
+\-\ poorly\\:\\ 0\\.06586067425102106\ \(0\)\
+\-\ almost\\:\\ 0\\.06550391758207195\ \(0\)\
+\-\ nature\\:\\ 0\\.0643818862555232\ \(0\)\
+\-\ review\\:\\ 0\\.06005012359302776\ \(0\)\
+\-\ indicated\\:\\ 0\\.05997380724140976\ \(0\)\
+\-\ rupture\\:\\ 0\\.058950625237107514\ \(0\)\
+\-\ rule\\:\\ 0\\.05787352939950009\ \(0\)\
+\-\ not\\:\\ 0\\.05757305998694475\ \(0\)\
+\-\ ii\\:\\ 0\\.057491920436514556\ \(0\)\
+\-\ an\\:\\ 0\\.055767658194301246\ \(0\)\
+\-\ ct\\:\\ 0\\.05552159371679195\ \(0\)\
+\-\ reveals\\:\\ 0\\.05546782250378469\ \(0\)\
+\-\ unknown\\:\\ 0\\.055255652472401495\ \(0\)\
+\-\ cardiac\\:\\ 0\\.05414777479006825\ \(0\)\
+\-\ above\\:\\ 0\\.052604696880711496\ \(0\)\
+\-\ pain\\:\\ 0\\.05218591945388941\ \(0\)\
+\-\ or\\:\\ 0\\.05073416727684607\ \(0\)\
+\-\ elevated\\:\\ 0\\.04970958280342467\ \(0\)\
+\-\ enlarged\\:\\ 0\\.04970958280342467\ \(0\)\
+\-\ available\\:\\ 0\\.04947316746116032\ \(0\)\
+\-\ recent\\:\\ 0\\.049373169942657426\ \(0\)\
+\-\ type\\:\\ 0\\.048916587445527446\ \(0\)\
+\-\ finding\\:\\ 0\\.04793042530760754\ \(0\)\
+\-\ out\\:\\ 0\\.04793042530760754\ \(0\)\
+\-\ revealed\\:\\ 0\\.04781233716132512\ \(0\)\
+\-\ sided\\:\\ 0\\.046904962059268265\ \(0\)\
+\-\ medical\\:\\ 0\\.046342689285535296\ \(0\)\
+\-\ usually\\:\\ 0\\.04590496239751684\ \(0\)\
+\-\ demonstrated\\:\\ 0\\.044813811637187714\ \(0\)\
+\-\ pulmonary\\:\\ 0\\.0444472502932766\ \(0\)\
+\-\ on\\:\\ 0\\.04404533959108216\ \(0\)\
+\-\ the\\:\\ 0\\.04364971056232282\ \(0\)\
+\-\ however\\:\\ 0\\.04315928754552945\ \(0\)\
+\-\ performed\\:\\ 0\\.04313888378871927\ \(0\)\
+\-\ fluid\\:\\ 0\\.04210159516066326\ \(0\)\
+\-\ patients\\:\\ 0\\.041020702218935355\ \(0\)\
+\-\ case\\:\\ 0\\.03663351332679102\ \(0\)\
+\-\ to\\:\\ 0\\.036459015134141314\ \(0\)\
+\-\ in\\:\\ 0\\.03627956393716028\ \(0\)\
+\-\ after\\:\\ 0\\.03537400976347636\ \(0\)\
+\-\ also\\:\\ 0\\.03429882115083434\ \(0\)\
+\-\ has\\:\\ 0\\.033307093273936966\ \(0\)\
+\-\ and\\:\\ 0\\.030135473226056107\ \(0\)\
+\-\ from\\:\\ 0\\.028960177765168012\ \(0\)\
+\-\ with\\:\\ 0\\.028556748249485123\ \(0\)\
+\-\ history\\:\\ 0\\.02785912773501484\ \(0\)\
+\-\ this\\:\\ 0\\.025056145217573822\ \(0\)\
+\-\ left\\:\\ 0\\.02487412590807996\ \(0\)\
+\-\ patient\\:\\ 0\\.023716761025715783\ \(0\)\
+\-\ is\\:\\ 0\\.019969254897063315\ \(0\)\

@@ -1,148 +1,141 @@
-Texto: 
-pe:  pelvic mass  (especially on bimanual under anesthesia)	                 
-                                    
-lab: ua - gross hematuria, malignant cytology
-superficial (carcinoma in situ):
-endoscopic resection with f/u q3-6 mos
-recurrence: laser therapy or intravesical thiotepa, doxorubicin, mitomycin, or bcg.
-
-invasive (extension into muscle or perivesical fat): 
-cystectomy
-radiation treatment
-
-metastatic (grim prognosis):
-chemotherapy: cisplatin, methotrexate, doxorubicin, cyclophosphomide, vinblastine
-kub:  punctate, coarse linear calcifications encrusted on surface or within tumor located in the bladder region suggests malignancy.
-carcinoma of the bladder
-73yo african american male with gross hematuria, otherwise asymptomatic
-demographics: men 3x's > women
-60-70 years old
-
-associated with the following:
-1.) exposure to aromatic amines
-(2-naphthylamine)
-dye, chemical, rubber industries
-2.)  smokers
-3.)  recurrent nephrolithiasis
-4.)  recurrent uti's
-5.)  travel/residence in middle east
-chronic schistosomial infections
-
-present with the following symptoms:
-
-1.) gross hematuria (75% of patients) dysuria
-2.) frequency
-3.) urgency (25% of patients)
-4.) pelvic and/or flank pain
-5.) visceral or osseous pain from metastasis
-
-
-Keywords by value: 
-- gross: 0.21820943992869027
-- hematuria: 0.21747255524695805
-- doxorubicin: 0.2042572847605394
-- or: 0.17108590593683956
-- recurrent: 0.1314444054207585
-- thiotepa: 0.1310805851912474
-- cyclophosphomide: 0.1310805851912474
-- 73yo: 0.1310805851912474
-- aromatic: 0.1310805851912474
-- amines: 0.1310805851912474
-- industries: 0.1310805851912474
-- schistosomial: 0.1310805851912474
-- pelvic: 0.1281441774268002
-- bladder: 0.12721061682369117
-- intravesical: 0.12525449703607894
-- encrusted: 0.12525449703607894
-- rubber: 0.12525449703607894
-- perivesical: 0.12112082170557793
-- dye: 0.12112082170557793
-- mitomycin: 0.11791449402110765
-- bcg: 0.11791449402110765
-- grim: 0.11791449402110765
-- east: 0.11791449402110765
-- vinblastine: 0.11529473355040946
-- 3x: 0.11307975763289309
-- cystectomy: 0.11116105821990846
-- cisplatin: 0.11116105821990846
-- smokers: 0.10658522796044269
-- mos: 0.1021286423802697
-- demographics: 0.1021286423802697
-- urgency: 0.1021286423802697
-- bimanual: 0.10120129473423899
-- laser: 0.10033018552160096
-- following: 0.09834294722096902
-- carcinoma: 0.09805604497670231
-- cytology: 0.09662546447477321
-- visceral: 0.09537520657907052
-- anesthesia: 0.09422508080558473
-- dysuria: 0.09368279375440304
-- kub: 0.09265600694756904
-- patients: 0.09222008727695909
-- methotrexate: 0.09216887889460022
-- situ: 0.09124153124856951
-- chemical: 0.08915542526562772
-- coarse: 0.08634279073943174
-- nephrolithiasis: 0.0860269779961472
-- endoscopic: 0.08571795745407121
-- punctate: 0.08541544309340104
-- men: 0.08345937330463345
-- superficial: 0.07919566177995825
-- ua: 0.07825618335955638
-- exposure: 0.0778969421135651
-- frequency: 0.0778969421135651
-- suggests: 0.0756061406829415
-- invasive: 0.07458457039509353
-- lab: 0.07403185219906956
-- african: 0.07403185219906956
-- women: 0.0737632667830641
-- infections: 0.07236959447757715
-- prognosis: 0.0721301072439685
-- 75: 0.07189454620790846
-- flank: 0.07189454620790846
-- american: 0.06993210581323328
-- surface: 0.06838765130029914
-- under: 0.06784875434029497
-- pe: 0.06776087087740745
-- recurrence: 0.06767352166379552
-- linear: 0.06602957060981848
-- osseous: 0.06542127231062002
-- the: 0.06542030243147616
-- especially: 0.06483768341614331
-- located: 0.06483768341614331
-- with: 0.06419943280975887
-- malignancy: 0.0613622407915611
-- in: 0.06117102533005662
-- metastasis: 0.06007461252007543
-- calcifications: 0.059820289042103555
-- pain: 0.05866050294532164
-- middle: 0.058612107022408544
-- malignant: 0.05842788781462967
-- otherwise: 0.05842788781462967
-- muscle: 0.05820088623109485
-- chemotherapy: 0.05820088623109485
-- 25: 0.0580663869521234
-- extension: 0.05802183218343481
-- asymptomatic: 0.05580050256190635
-- radiation: 0.05431711113660707
-- resection: 0.052540914392985506
-- fat: 0.05098756200857132
-- years: 0.05024371896898054
-- on: 0.049509940609426255
-- region: 0.049028022488351156
-- chronic: 0.04865234353673907
-- of: 0.04812082242738535
-- therapy: 0.04709446228038256
-- metastatic: 0.04495394451159689
-- symptoms: 0.04484684661413193
-- into: 0.0435714177785475
-- associated: 0.04320193433318267
-- tumor: 0.042872681597691885
-- present: 0.04205913029304725
-- treatment: 0.039044489102489775
-- within: 0.03775075492130612
-- male: 0.03649416771047578
-- from: 0.03255319846556931
-- mass: 0.031308610639544605
-- old: 0.024258473965426956
-- to: 0.020491199417781124
+\-\ Texto\\:\\ \ \(0\)\
+\-\ pe\\:\\ \\ pelvic\\ mass\\ \\ \\(especially\\ on\\ bimanual\\ under\\ anesthesia\\)\\	\\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \ \(0\)\
+\-\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \ \(34\)\
+\-\ lab\\:\\ ua\\ \\-\\ gross\\ hematuria\\,\\ malignant\\ cytology\ \(0\)\
+\-\ superficial\\ \\(carcinoma\\ in\\ situ\\)\\:\ \(0\)\
+\-\ endoscopic\\ resection\\ with\\ f\\/u\\ q3\\-6\\ mos\ \(0\)\
+\-\ recurrence\\:\\ laser\\ therapy\\ or\\ intravesical\\ thiotepa\\,\\ doxorubicin\\,\\ mitomycin\\,\\ or\\ bcg\\.\ \(0\)\
+\-\ invasive\\ \\(extension\\ into\\ muscle\\ or\\ perivesical\\ fat\\)\\:\\ \ \(0\)\
+\-\ cystectomy\ \(93\)\
+\-\ radiation\\ treatment\ \(15\)\
+\-\ metastatic\\ \\(grim\\ prognosis\\)\\:\ \(0\)\
+\-\ chemotherapy\\:\\ cisplatin\\,\\ methotrexate\\,\\ doxorubicin\\,\\ cyclophosphomide\\,\\ vinblastine\ \(0\)\
+\-\ kub\\:\\ \\ punctate\\,\\ coarse\\ linear\\ calcifications\\ encrusted\\ on\\ surface\\ or\\ within\\ tumor\\ located\\ in\\ the\\ bladder\\ region\\ suggests\\ malignancy\\.\ \(0\)\
+\-\ carcinoma\\ of\\ the\\ bladder\ \(2\)\
+\-\ 73yo\\ african\\ american\\ male\\ with\\ gross\\ hematuria\\,\\ otherwise\\ asymptomatic\ \(0\)\
+\-\ demographics\\:\\ men\\ 3x\\'s\\ \\>\\ women\ \(0\)\
+\-\ 60\\-70\\ years\\ old\ \(1\)\
+\-\ associated\\ with\\ the\\ following\\:\ \(0\)\
+\-\ 1\\.\\)\\ exposure\\ to\\ aromatic\\ amines\ \(0\)\
+\-\ \\(2\\-naphthylamine\\)\ \(1\)\
+\-\ dye\\,\\ chemical\\,\\ rubber\\ industries\ \(1\)\
+\-\ 2\\.\\)\\ \\ smokers\ \(0\)\
+\-\ 3\\.\\)\\ \\ recurrent\\ nephrolithiasis\ \(0\)\
+\-\ 4\\.\\)\\ \\ recurrent\\ uti\\'s\ \(0\)\
+\-\ 5\\.\\)\\ \\ travel\\/residence\\ in\\ middle\\ east\ \(0\)\
+\-\ chronic\\ schistosomial\\ infections\ \(1\)\
+\-\ present\\ with\\ the\\ following\\ symptoms\\:\ \(0\)\
+\-\ 1\\.\\)\\ gross\\ hematuria\\ \\(75\\%\\ of\\ patients\\)\\ dysuria\ \(0\)\
+\-\ 2\\.\\)\\ frequency\ \(0\)\
+\-\ 3\\.\\)\\ urgency\\ \\(25\\%\\ of\\ patients\\)\ \(0\)\
+\-\ 4\\.\\)\\ pelvic\\ and\\/or\\ flank\\ pain\ \(0\)\
+\-\ 5\\.\\)\\ visceral\\ or\\ osseous\\ pain\\ from\\ metastasis\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ gross\\:\\ 0\\.21820943992869027\ \(0\)\
+\-\ hematuria\\:\\ 0\\.21747255524695805\ \(0\)\
+\-\ doxorubicin\\:\\ 0\\.2042572847605394\ \(0\)\
+\-\ or\\:\\ 0\\.17108590593683956\ \(0\)\
+\-\ recurrent\\:\\ 0\\.1314444054207585\ \(0\)\
+\-\ thiotepa\\:\\ 0\\.1310805851912474\ \(0\)\
+\-\ cyclophosphomide\\:\\ 0\\.1310805851912474\ \(0\)\
+\-\ 73yo\\:\\ 0\\.1310805851912474\ \(0\)\
+\-\ aromatic\\:\\ 0\\.1310805851912474\ \(0\)\
+\-\ amines\\:\\ 0\\.1310805851912474\ \(0\)\
+\-\ industries\\:\\ 0\\.1310805851912474\ \(0\)\
+\-\ schistosomial\\:\\ 0\\.1310805851912474\ \(0\)\
+\-\ pelvic\\:\\ 0\\.1281441774268002\ \(0\)\
+\-\ bladder\\:\\ 0\\.12721061682369117\ \(0\)\
+\-\ intravesical\\:\\ 0\\.12525449703607894\ \(0\)\
+\-\ encrusted\\:\\ 0\\.12525449703607894\ \(0\)\
+\-\ rubber\\:\\ 0\\.12525449703607894\ \(0\)\
+\-\ perivesical\\:\\ 0\\.12112082170557793\ \(0\)\
+\-\ dye\\:\\ 0\\.12112082170557793\ \(0\)\
+\-\ mitomycin\\:\\ 0\\.11791449402110765\ \(0\)\
+\-\ bcg\\:\\ 0\\.11791449402110765\ \(0\)\
+\-\ grim\\:\\ 0\\.11791449402110765\ \(0\)\
+\-\ east\\:\\ 0\\.11791449402110765\ \(0\)\
+\-\ vinblastine\\:\\ 0\\.11529473355040946\ \(0\)\
+\-\ 3x\\:\\ 0\\.11307975763289309\ \(0\)\
+\-\ cystectomy\\:\\ 0\\.11116105821990846\ \(0\)\
+\-\ cisplatin\\:\\ 0\\.11116105821990846\ \(0\)\
+\-\ smokers\\:\\ 0\\.10658522796044269\ \(0\)\
+\-\ mos\\:\\ 0\\.1021286423802697\ \(0\)\
+\-\ demographics\\:\\ 0\\.1021286423802697\ \(0\)\
+\-\ urgency\\:\\ 0\\.1021286423802697\ \(0\)\
+\-\ bimanual\\:\\ 0\\.10120129473423899\ \(0\)\
+\-\ laser\\:\\ 0\\.10033018552160096\ \(0\)\
+\-\ following\\:\\ 0\\.09834294722096902\ \(0\)\
+\-\ carcinoma\\:\\ 0\\.09805604497670231\ \(0\)\
+\-\ cytology\\:\\ 0\\.09662546447477321\ \(0\)\
+\-\ visceral\\:\\ 0\\.09537520657907052\ \(0\)\
+\-\ anesthesia\\:\\ 0\\.09422508080558473\ \(0\)\
+\-\ dysuria\\:\\ 0\\.09368279375440304\ \(0\)\
+\-\ kub\\:\\ 0\\.09265600694756904\ \(0\)\
+\-\ patients\\:\\ 0\\.09222008727695909\ \(0\)\
+\-\ methotrexate\\:\\ 0\\.09216887889460022\ \(0\)\
+\-\ situ\\:\\ 0\\.09124153124856951\ \(0\)\
+\-\ chemical\\:\\ 0\\.08915542526562772\ \(0\)\
+\-\ coarse\\:\\ 0\\.08634279073943174\ \(0\)\
+\-\ nephrolithiasis\\:\\ 0\\.0860269779961472\ \(0\)\
+\-\ endoscopic\\:\\ 0\\.08571795745407121\ \(0\)\
+\-\ punctate\\:\\ 0\\.08541544309340104\ \(0\)\
+\-\ men\\:\\ 0\\.08345937330463345\ \(0\)\
+\-\ superficial\\:\\ 0\\.07919566177995825\ \(0\)\
+\-\ ua\\:\\ 0\\.07825618335955638\ \(0\)\
+\-\ exposure\\:\\ 0\\.0778969421135651\ \(0\)\
+\-\ frequency\\:\\ 0\\.0778969421135651\ \(0\)\
+\-\ suggests\\:\\ 0\\.0756061406829415\ \(0\)\
+\-\ invasive\\:\\ 0\\.07458457039509353\ \(0\)\
+\-\ lab\\:\\ 0\\.07403185219906956\ \(0\)\
+\-\ african\\:\\ 0\\.07403185219906956\ \(0\)\
+\-\ women\\:\\ 0\\.0737632667830641\ \(0\)\
+\-\ infections\\:\\ 0\\.07236959447757715\ \(0\)\
+\-\ prognosis\\:\\ 0\\.0721301072439685\ \(0\)\
+\-\ 75\\:\\ 0\\.07189454620790846\ \(0\)\
+\-\ flank\\:\\ 0\\.07189454620790846\ \(0\)\
+\-\ american\\:\\ 0\\.06993210581323328\ \(0\)\
+\-\ surface\\:\\ 0\\.06838765130029914\ \(0\)\
+\-\ under\\:\\ 0\\.06784875434029497\ \(0\)\
+\-\ pe\\:\\ 0\\.06776087087740745\ \(0\)\
+\-\ recurrence\\:\\ 0\\.06767352166379552\ \(0\)\
+\-\ linear\\:\\ 0\\.06602957060981848\ \(0\)\
+\-\ osseous\\:\\ 0\\.06542127231062002\ \(0\)\
+\-\ the\\:\\ 0\\.06542030243147616\ \(0\)\
+\-\ especially\\:\\ 0\\.06483768341614331\ \(0\)\
+\-\ located\\:\\ 0\\.06483768341614331\ \(0\)\
+\-\ with\\:\\ 0\\.06419943280975887\ \(0\)\
+\-\ malignancy\\:\\ 0\\.0613622407915611\ \(0\)\
+\-\ in\\:\\ 0\\.06117102533005662\ \(0\)\
+\-\ metastasis\\:\\ 0\\.06007461252007543\ \(0\)\
+\-\ calcifications\\:\\ 0\\.059820289042103555\ \(0\)\
+\-\ pain\\:\\ 0\\.05866050294532164\ \(0\)\
+\-\ middle\\:\\ 0\\.058612107022408544\ \(0\)\
+\-\ malignant\\:\\ 0\\.05842788781462967\ \(0\)\
+\-\ otherwise\\:\\ 0\\.05842788781462967\ \(0\)\
+\-\ muscle\\:\\ 0\\.05820088623109485\ \(0\)\
+\-\ chemotherapy\\:\\ 0\\.05820088623109485\ \(0\)\
+\-\ 25\\:\\ 0\\.0580663869521234\ \(0\)\
+\-\ extension\\:\\ 0\\.05802183218343481\ \(0\)\
+\-\ asymptomatic\\:\\ 0\\.05580050256190635\ \(0\)\
+\-\ radiation\\:\\ 0\\.05431711113660707\ \(0\)\
+\-\ resection\\:\\ 0\\.052540914392985506\ \(0\)\
+\-\ fat\\:\\ 0\\.05098756200857132\ \(0\)\
+\-\ years\\:\\ 0\\.05024371896898054\ \(0\)\
+\-\ on\\:\\ 0\\.049509940609426255\ \(0\)\
+\-\ region\\:\\ 0\\.049028022488351156\ \(0\)\
+\-\ chronic\\:\\ 0\\.04865234353673907\ \(0\)\
+\-\ of\\:\\ 0\\.04812082242738535\ \(0\)\
+\-\ therapy\\:\\ 0\\.04709446228038256\ \(0\)\
+\-\ metastatic\\:\\ 0\\.04495394451159689\ \(0\)\
+\-\ symptoms\\:\\ 0\\.04484684661413193\ \(0\)\
+\-\ into\\:\\ 0\\.0435714177785475\ \(0\)\
+\-\ associated\\:\\ 0\\.04320193433318267\ \(0\)\
+\-\ tumor\\:\\ 0\\.042872681597691885\ \(0\)\
+\-\ present\\:\\ 0\\.04205913029304725\ \(0\)\
+\-\ treatment\\:\\ 0\\.039044489102489775\ \(0\)\
+\-\ within\\:\\ 0\\.03775075492130612\ \(0\)\
+\-\ male\\:\\ 0\\.03649416771047578\ \(0\)\
+\-\ from\\:\\ 0\\.03255319846556931\ \(0\)\
+\-\ mass\\:\\ 0\\.031308610639544605\ \(0\)\
+\-\ old\\:\\ 0\\.024258473965426956\ \(0\)\
+\-\ to\\:\\ 0\\.020491199417781124\ \(0\)\

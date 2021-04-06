@@ -1,82 +1,80 @@
-Texto: 
-cv: systolic ejection click
-surgical replacement of aortic valve.
-chest radiography reveals mild prominence of the ascending aorta in the posteroanterior projection along the superior right heart border. left ventricular enlargement implies progressive aortic valve insufficiency.
-ct with contrast confirms dilation of the ascending aorta with mild left ventricular hypertrophy.
-bicuspid aortic valve with aortic dilatation
--atheroscloerosis 
--aortic valvular disease (stenosis and/or insufficiency) 
--collagen vascular disease (e.g. marfan syndrome) 
--mycotic aneurysm 
--aortic dissection
-47 year old male presenting with left arm numbness and visual changes.
-
-
-Keywords by value: 
-- -aortic: 0.18365663383263536
-- aortic: 0.14412217288727022
-- valve: 0.13350698880301545
-- ascending: 0.0954460816535258
-- insufficiency: 0.09455942301980089
-- -atheroscloerosis: 0.09182831691631768
-- -collagen: 0.09182831691631768
-- -mycotic: 0.09182831691631768
-- posteroanterior: 0.0803844389093582
-- ventricular: 0.07954804479588298
-- aorta: 0.07641716556568844
-- bicuspid: 0.07155841953032484
-- implies: 0.06894056090239872
-- valvular: 0.0623156779157321
-- marfan: 0.06011454152336536
-- click: 0.05962995802716856
-- ejection: 0.05788981131192725
-- prominence: 0.05264914904450974
-- projection: 0.05172261273183791
-- radiography: 0.05066952818109448
-- systolic: 0.04953203555645916
-- cv: 0.04935396854229977
-- confirms: 0.04727971150990044
-- e.g: 0.04713603107102195
-- mild: 0.046880280290232015
-- 47: 0.04671651128833507
-- hypertrophy: 0.04579872725176979
-- dissection: 0.0437541448658879
-- replacement: 0.04344924505026172
-- numbness: 0.042770710652647544
-- border: 0.0424019405792005
-- dilation: 0.04195861126233805
-- visual: 0.04035287501413744
-- dilatation: 0.038148196140299157
-- and/or: 0.0376199139259344
-- arm: 0.037282046470172386
-- presenting: 0.03627916281980342
-- enlargement: 0.03531842090088641
-- progressive: 0.03518165744836774
-- aneurysm: 0.03518165744836774
-- stenosis: 0.03486935711282674
-- reveals: 0.03482549739890649
-- heart: 0.030927913009466394
-- left: 0.029878289664778585
-- along: 0.029417227883942874
-- vascular: 0.029185450707538505
-- disease: 0.02909869877532717
-- superior: 0.02842441351098116
-- changes: 0.025510916419115213
-- syndrome: 0.025457360174319182
-- chest: 0.02129926041726582
-- contrast: 0.019924746737582346
-- surgical: 0.018710643440119308
-- male: 0.016095891019661177
-- (: 0.015049202630080426
-- ): 0.014865368585693855
-- ct: 0.01245107972283378
-- :: 0.01177369599990276
-- year: 0.009959429888259527
-- right: 0.009391996969900174
-- old: 0.009113902050648486
-- the: 0.005760386862651075
-- with: 0.004875174003745405
-- in: 0.004389554480627655
-- of: 0.0036407437749371384
-- .: 0.002218721006084142
-- and: 0.0018750938097106089
+\-\ Texto\\:\\ \ \(0\)\
+\-\ cv\\:\\ systolic\\ ejection\\ click\ \(0\)\
+\-\ surgical\\ replacement\\ of\\ aortic\\ valve\\.\ \(0\)\
+\-\ chest\\ radiography\\ reveals\\ mild\\ prominence\\ of\\ the\\ ascending\\ aorta\\ in\\ the\\ posteroanterior\\ projection\\ along\\ the\\ superior\\ right\\ heart\\ border\\.\\ left\\ ventricular\\ enlargement\\ implies\\ progressive\\ aortic\\ valve\\ insufficiency\\.\ \(0\)\
+\-\ ct\\ with\\ contrast\\ confirms\\ dilation\\ of\\ the\\ ascending\\ aorta\\ with\\ mild\\ left\\ ventricular\\ hypertrophy\\.\ \(0\)\
+\-\ bicuspid\\ aortic\\ valve\\ with\\ aortic\\ dilatation\ \(0\)\
+\-\ atheroscloerosis\\ \ \(0\)\
+\-\ aortic\\ valvular\\ disease\\ \\(stenosis\\ and\\/or\\ insufficiency\\)\\ \ \(0\)\
+\-\ collagen\\ vascular\\ disease\\ \\(e\\.g\\.\\ marfan\\ syndrome\\)\\ \ \(0\)\
+\-\ mycotic\\ aneurysm\\ \ \(0\)\
+\-\ aortic\\ dissection\ \(35\)\
+\-\ 47\\ year\\ old\\ male\\ presenting\\ with\\ left\\ arm\\ numbness\\ and\\ visual\\ changes\\.\ \(1\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ \\-aortic\\:\\ 0\\.18365663383263536\ \(0\)\
+\-\ aortic\\:\\ 0\\.14412217288727022\ \(0\)\
+\-\ valve\\:\\ 0\\.13350698880301545\ \(0\)\
+\-\ ascending\\:\\ 0\\.0954460816535258\ \(0\)\
+\-\ insufficiency\\:\\ 0\\.09455942301980089\ \(0\)\
+\-\ \\-atheroscloerosis\\:\\ 0\\.09182831691631768\ \(0\)\
+\-\ \\-collagen\\:\\ 0\\.09182831691631768\ \(0\)\
+\-\ \\-mycotic\\:\\ 0\\.09182831691631768\ \(0\)\
+\-\ posteroanterior\\:\\ 0\\.0803844389093582\ \(0\)\
+\-\ ventricular\\:\\ 0\\.07954804479588298\ \(0\)\
+\-\ aorta\\:\\ 0\\.07641716556568844\ \(0\)\
+\-\ bicuspid\\:\\ 0\\.07155841953032484\ \(0\)\
+\-\ implies\\:\\ 0\\.06894056090239872\ \(0\)\
+\-\ valvular\\:\\ 0\\.0623156779157321\ \(0\)\
+\-\ marfan\\:\\ 0\\.06011454152336536\ \(0\)\
+\-\ click\\:\\ 0\\.05962995802716856\ \(0\)\
+\-\ ejection\\:\\ 0\\.05788981131192725\ \(0\)\
+\-\ prominence\\:\\ 0\\.05264914904450974\ \(0\)\
+\-\ projection\\:\\ 0\\.05172261273183791\ \(0\)\
+\-\ radiography\\:\\ 0\\.05066952818109448\ \(0\)\
+\-\ systolic\\:\\ 0\\.04953203555645916\ \(0\)\
+\-\ cv\\:\\ 0\\.04935396854229977\ \(0\)\
+\-\ confirms\\:\\ 0\\.04727971150990044\ \(0\)\
+\-\ e\\.g\\:\\ 0\\.04713603107102195\ \(0\)\
+\-\ mild\\:\\ 0\\.046880280290232015\ \(0\)\
+\-\ 47\\:\\ 0\\.04671651128833507\ \(0\)\
+\-\ hypertrophy\\:\\ 0\\.04579872725176979\ \(0\)\
+\-\ dissection\\:\\ 0\\.0437541448658879\ \(0\)\
+\-\ replacement\\:\\ 0\\.04344924505026172\ \(0\)\
+\-\ numbness\\:\\ 0\\.042770710652647544\ \(0\)\
+\-\ border\\:\\ 0\\.0424019405792005\ \(0\)\
+\-\ dilation\\:\\ 0\\.04195861126233805\ \(0\)\
+\-\ visual\\:\\ 0\\.04035287501413744\ \(0\)\
+\-\ dilatation\\:\\ 0\\.038148196140299157\ \(0\)\
+\-\ and\\/or\\:\\ 0\\.0376199139259344\ \(0\)\
+\-\ arm\\:\\ 0\\.037282046470172386\ \(0\)\
+\-\ presenting\\:\\ 0\\.03627916281980342\ \(0\)\
+\-\ enlargement\\:\\ 0\\.03531842090088641\ \(0\)\
+\-\ progressive\\:\\ 0\\.03518165744836774\ \(0\)\
+\-\ aneurysm\\:\\ 0\\.03518165744836774\ \(0\)\
+\-\ stenosis\\:\\ 0\\.03486935711282674\ \(0\)\
+\-\ reveals\\:\\ 0\\.03482549739890649\ \(0\)\
+\-\ heart\\:\\ 0\\.030927913009466394\ \(0\)\
+\-\ left\\:\\ 0\\.029878289664778585\ \(0\)\
+\-\ along\\:\\ 0\\.029417227883942874\ \(0\)\
+\-\ vascular\\:\\ 0\\.029185450707538505\ \(0\)\
+\-\ disease\\:\\ 0\\.02909869877532717\ \(0\)\
+\-\ superior\\:\\ 0\\.02842441351098116\ \(0\)\
+\-\ changes\\:\\ 0\\.025510916419115213\ \(0\)\
+\-\ syndrome\\:\\ 0\\.025457360174319182\ \(0\)\
+\-\ chest\\:\\ 0\\.02129926041726582\ \(0\)\
+\-\ contrast\\:\\ 0\\.019924746737582346\ \(0\)\
+\-\ surgical\\:\\ 0\\.018710643440119308\ \(0\)\
+\-\ male\\:\\ 0\\.016095891019661177\ \(0\)\
+\-\ \\(\\:\\ 0\\.015049202630080426\ \(0\)\
+\-\ \\)\\:\\ 0\\.014865368585693855\ \(0\)\
+\-\ ct\\:\\ 0\\.01245107972283378\ \(0\)\
+\-\ \\:\\:\\ 0\\.01177369599990276\ \(0\)\
+\-\ year\\:\\ 0\\.009959429888259527\ \(0\)\
+\-\ right\\:\\ 0\\.009391996969900174\ \(0\)\
+\-\ old\\:\\ 0\\.009113902050648486\ \(0\)\
+\-\ the\\:\\ 0\\.005760386862651075\ \(0\)\
+\-\ with\\:\\ 0\\.004875174003745405\ \(0\)\
+\-\ in\\:\\ 0\\.004389554480627655\ \(0\)\
+\-\ of\\:\\ 0\\.0036407437749371384\ \(0\)\
+\-\ \\.\\:\\ 0\\.002218721006084142\ \(0\)\
+\-\ and\\:\\ 0\\.0018750938097106089\ \(0\)\

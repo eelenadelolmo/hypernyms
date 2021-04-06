@@ -1,119 +1,117 @@
-Texto: 
-drop in the patient's hemoglobin and hematocrit from 9.1/26.7 to 5.9/17.4 within a 24 hour period and the development of a palpable left sided tender adbominal mass.  just prior to her ct scan, while receiving heparin, the patient's pt was 18.3 (nml 11-13.8), ptt was 133.7 (23.8-35.5), pt ratio 1.5, inr 2.0.
-temporary withdrawal of anticoagulation.
-non contrast ct of the abdomen and the pelvis demonstrates a large hyperdense heterogeneous mass at the left lateral abdominal wall, not present on a prior ct of the abdomen from less than a week prior.
-abdominal wall hematoma following the initiation of therapeutic anticoagultion.
-acute hemorrhage/hematoma
-abscess
-soft tissue neoplasm
-56 year old female patient in the intensive care unit found to have a sudden drop in her hemoglobin and hematocrit following the recent initiation of anticoagulation therapy for a pulmonary embolus.
-this patient was being started on anticoagulation therapy for a recent pulmonary embolism with intravenous heparin.  her ptt was elevated at 133.7, which falls beyond the goal of 70-90 (by this institution's laboratory) for a patient starting anticoagulation.  unfortunately patients starting herparin therapy often overshoot their goal ptt values during their initial titration.
-
-
-Keywords by value: 
-- anticoagulation: 0.2869028178833624
-- ptt: 0.2650076418102098
-- initiation: 0.20100382565197938
-- goal: 0.17568628523779006
-- starting: 0.1738167438244289
-- the: 0.16963776837593464
-- heparin: 0.16887626673413647
-- drop: 0.16813382022010812
-- hemoglobin: 0.16343857197627398
-- hematocrit: 0.15997459407686868
-- her: 0.14485414790251566
-- therapy: 0.1332196862527649
-- prior: 0.12972712757599467
-- their: 0.12828716271496957
-- patient: 0.12568838148724681
-- adbominal: 0.12359920598902986
-- anticoagultion: 0.12359920598902986
-- herparin: 0.12359920598902986
-- overshoot: 0.11810563980643857
-- titration: 0.11810563980643857
-- pt: 0.11124215685797245
-- hematoma: 0.10819045525443394
-- was: 0.10774154628132916
-- of: 0.10587346718611666
-- recent: 0.10466241679896685
-- withdrawal: 0.1017932515137321
-- abdomen: 0.09431625629841404
-- pulmonary: 0.09422033548110752
-- wall: 0.0940295065051706
-- temporary: 0.09382944678599457
-- intensive: 0.09382944678599457
-- following: 0.092730057417721
-- nml: 0.09174088985523007
-- ct: 0.08827199351913351
-- falls: 0.08561703322447203
-- abdominal: 0.08454094071321042
-- inr: 0.08267606937439068
-- unit: 0.08267606937439068
-- embolus: 0.08267606937439068
-- beyond: 0.0805403861307332
-- receiving: 0.08026101950553922
-- unfortunately: 0.07971899517604146
-- therapeutic: 0.0782120211468094
-- ratio: 0.0775170584932881
-- institution: 0.076432575751752
-- hour: 0.07328475595546434
-- 56: 0.07217487714033155
-- values: 0.07129094627302929
-- hyperdense: 0.07114907271180686
-- intravenous: 0.07046116856393982
-- for: 0.07027555548457336
-- embolism: 0.07006458997027072
-- period: 0.06757265598206291
-- sudden: 0.06683440638661935
-- started: 0.06510241743691669
-- development: 0.06389344253653799
-- and: 0.0638818909720146
-- just: 0.06182851037426477
-- from: 0.06139047177546984
-- mass: 0.059043364965474646
-- at: 0.05838477751768519
-- to: 0.05796501382959342
-- in: 0.057679710151573825
-- tender: 0.0565014811594801
-- laboratory: 0.056123789767862295
-- heterogeneous: 0.05593882032443281
-- care: 0.05522320575537567
-- 24: 0.05479441043380053
-- palpable: 0.05429715090701877
-- pelvis: 0.054055201597229666
-- being: 0.05385682614569631
-- this: 0.053114610975614485
-- neoplasm: 0.05276023003607846
-- left: 0.05272876212576684
-- elevated: 0.052687776380545275
-- less: 0.05257981723326843
-- week: 0.05198378420233328
-- initial: 0.05184727119560092
-- often: 0.050429953404702195
-- found: 0.05000840113819049
-- while: 0.04994923597300616
-- sided: 0.0497151255903606
-- abscess: 0.04962836669435325
-- during: 0.04895359814849426
-- on: 0.04668417782054361
-- scan: 0.04585369250414035
-- than: 0.04381196866977156
-- patients: 0.04347832879690361
-- acute: 0.04180947031367163
-- soft: 0.041146109794664286
-- tissue: 0.04054317154413399
-- present: 0.03965861993387644
-- demonstrates: 0.03882829525704079
-- large: 0.03872477000610797
-- have: 0.038609241867323715
-- lateral: 0.03835598587132648
-- contrast: 0.03755231735382079
-- female: 0.03729468329164111
-- non: 0.03667124912408002
-- within: 0.03559614360091715
-- which: 0.0351433008121519
-- by: 0.032820666801156466
-- not: 0.03051118455501182
-- year: 0.023818421851061998
-- old: 0.022873929928354717
-- with: 0.015133818079647445
+\-\ Texto\\:\\ \ \(0\)\
+\-\ drop\\ in\\ the\\ patient\\'s\\ hemoglobin\\ and\\ hematocrit\\ from\\ 9\\.1\\/26\\.7\\ to\\ 5\\.9\\/17\\.4\\ within\\ a\\ 24\\ hour\\ period\\ and\\ the\\ development\\ of\\ a\\ palpable\\ left\\ sided\\ tender\\ adbominal\\ mass\\.\\ \\ just\\ prior\\ to\\ her\\ ct\\ scan\\,\\ while\\ receiving\\ heparin\\,\\ the\\ patient\\'s\\ pt\\ was\\ 18\\.3\\ \\(nml\\ 11\\-13\\.8\\)\\,\\ ptt\\ was\\ 133\\.7\\ \\(23\\.8\\-35\\.5\\)\\,\\ pt\\ ratio\\ 1\\.5\\,\\ inr\\ 2\\.0\\.\ \(0\)\
+\-\ temporary\\ withdrawal\\ of\\ anticoagulation\\.\ \(0\)\
+\-\ non\\ contrast\\ ct\\ of\\ the\\ abdomen\\ and\\ the\\ pelvis\\ demonstrates\\ a\\ large\\ hyperdense\\ heterogeneous\\ mass\\ at\\ the\\ left\\ lateral\\ abdominal\\ wall\\,\\ not\\ present\\ on\\ a\\ prior\\ ct\\ of\\ the\\ abdomen\\ from\\ less\\ than\\ a\\ week\\ prior\\.\ \(0\)\
+\-\ abdominal\\ wall\\ hematoma\\ following\\ the\\ initiation\\ of\\ therapeutic\\ anticoagultion\\.\ \(0\)\
+\-\ acute\\ hemorrhage\\/hematoma\ \(0\)\
+\-\ abscess\ \(594\)\
+\-\ soft\\ tissue\\ neoplasm\ \(2\)\
+\-\ 56\\ year\\ old\\ female\\ patient\\ in\\ the\\ intensive\\ care\\ unit\\ found\\ to\\ have\\ a\\ sudden\\ drop\\ in\\ her\\ hemoglobin\\ and\\ hematocrit\\ following\\ the\\ recent\\ initiation\\ of\\ anticoagulation\\ therapy\\ for\\ a\\ pulmonary\\ embolus\\.\ \(1\)\
+\-\ this\\ patient\\ was\\ being\\ started\\ on\\ anticoagulation\\ therapy\\ for\\ a\\ recent\\ pulmonary\\ embolism\\ with\\ intravenous\\ heparin\\.\\ \\ her\\ ptt\\ was\\ elevated\\ at\\ 133\\.7\\,\\ which\\ falls\\ beyond\\ the\\ goal\\ of\\ 70\\-90\\ \\(by\\ this\\ institution\\'s\\ laboratory\\)\\ for\\ a\\ patient\\ starting\\ anticoagulation\\.\\ \\ unfortunately\\ patients\\ starting\\ herparin\\ therapy\\ often\\ overshoot\\ their\\ goal\\ ptt\\ values\\ during\\ their\\ initial\\ titration\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ anticoagulation\\:\\ 0\\.2869028178833624\ \(0\)\
+\-\ ptt\\:\\ 0\\.2650076418102098\ \(0\)\
+\-\ initiation\\:\\ 0\\.20100382565197938\ \(0\)\
+\-\ goal\\:\\ 0\\.17568628523779006\ \(0\)\
+\-\ starting\\:\\ 0\\.1738167438244289\ \(0\)\
+\-\ the\\:\\ 0\\.16963776837593464\ \(0\)\
+\-\ heparin\\:\\ 0\\.16887626673413647\ \(0\)\
+\-\ drop\\:\\ 0\\.16813382022010812\ \(0\)\
+\-\ hemoglobin\\:\\ 0\\.16343857197627398\ \(0\)\
+\-\ hematocrit\\:\\ 0\\.15997459407686868\ \(0\)\
+\-\ her\\:\\ 0\\.14485414790251566\ \(0\)\
+\-\ therapy\\:\\ 0\\.1332196862527649\ \(0\)\
+\-\ prior\\:\\ 0\\.12972712757599467\ \(0\)\
+\-\ their\\:\\ 0\\.12828716271496957\ \(0\)\
+\-\ patient\\:\\ 0\\.12568838148724681\ \(0\)\
+\-\ adbominal\\:\\ 0\\.12359920598902986\ \(0\)\
+\-\ anticoagultion\\:\\ 0\\.12359920598902986\ \(0\)\
+\-\ herparin\\:\\ 0\\.12359920598902986\ \(0\)\
+\-\ overshoot\\:\\ 0\\.11810563980643857\ \(0\)\
+\-\ titration\\:\\ 0\\.11810563980643857\ \(0\)\
+\-\ pt\\:\\ 0\\.11124215685797245\ \(0\)\
+\-\ hematoma\\:\\ 0\\.10819045525443394\ \(0\)\
+\-\ was\\:\\ 0\\.10774154628132916\ \(0\)\
+\-\ of\\:\\ 0\\.10587346718611666\ \(0\)\
+\-\ recent\\:\\ 0\\.10466241679896685\ \(0\)\
+\-\ withdrawal\\:\\ 0\\.1017932515137321\ \(0\)\
+\-\ abdomen\\:\\ 0\\.09431625629841404\ \(0\)\
+\-\ pulmonary\\:\\ 0\\.09422033548110752\ \(0\)\
+\-\ wall\\:\\ 0\\.0940295065051706\ \(0\)\
+\-\ temporary\\:\\ 0\\.09382944678599457\ \(0\)\
+\-\ intensive\\:\\ 0\\.09382944678599457\ \(0\)\
+\-\ following\\:\\ 0\\.092730057417721\ \(0\)\
+\-\ nml\\:\\ 0\\.09174088985523007\ \(0\)\
+\-\ ct\\:\\ 0\\.08827199351913351\ \(0\)\
+\-\ falls\\:\\ 0\\.08561703322447203\ \(0\)\
+\-\ abdominal\\:\\ 0\\.08454094071321042\ \(0\)\
+\-\ inr\\:\\ 0\\.08267606937439068\ \(0\)\
+\-\ unit\\:\\ 0\\.08267606937439068\ \(0\)\
+\-\ embolus\\:\\ 0\\.08267606937439068\ \(0\)\
+\-\ beyond\\:\\ 0\\.0805403861307332\ \(0\)\
+\-\ receiving\\:\\ 0\\.08026101950553922\ \(0\)\
+\-\ unfortunately\\:\\ 0\\.07971899517604146\ \(0\)\
+\-\ therapeutic\\:\\ 0\\.0782120211468094\ \(0\)\
+\-\ ratio\\:\\ 0\\.0775170584932881\ \(0\)\
+\-\ institution\\:\\ 0\\.076432575751752\ \(0\)\
+\-\ hour\\:\\ 0\\.07328475595546434\ \(0\)\
+\-\ 56\\:\\ 0\\.07217487714033155\ \(0\)\
+\-\ values\\:\\ 0\\.07129094627302929\ \(0\)\
+\-\ hyperdense\\:\\ 0\\.07114907271180686\ \(0\)\
+\-\ intravenous\\:\\ 0\\.07046116856393982\ \(0\)\
+\-\ for\\:\\ 0\\.07027555548457336\ \(0\)\
+\-\ embolism\\:\\ 0\\.07006458997027072\ \(0\)\
+\-\ period\\:\\ 0\\.06757265598206291\ \(0\)\
+\-\ sudden\\:\\ 0\\.06683440638661935\ \(0\)\
+\-\ started\\:\\ 0\\.06510241743691669\ \(0\)\
+\-\ development\\:\\ 0\\.06389344253653799\ \(0\)\
+\-\ and\\:\\ 0\\.0638818909720146\ \(0\)\
+\-\ just\\:\\ 0\\.06182851037426477\ \(0\)\
+\-\ from\\:\\ 0\\.06139047177546984\ \(0\)\
+\-\ mass\\:\\ 0\\.059043364965474646\ \(0\)\
+\-\ at\\:\\ 0\\.05838477751768519\ \(0\)\
+\-\ to\\:\\ 0\\.05796501382959342\ \(0\)\
+\-\ in\\:\\ 0\\.057679710151573825\ \(0\)\
+\-\ tender\\:\\ 0\\.0565014811594801\ \(0\)\
+\-\ laboratory\\:\\ 0\\.056123789767862295\ \(0\)\
+\-\ heterogeneous\\:\\ 0\\.05593882032443281\ \(0\)\
+\-\ care\\:\\ 0\\.05522320575537567\ \(0\)\
+\-\ 24\\:\\ 0\\.05479441043380053\ \(0\)\
+\-\ palpable\\:\\ 0\\.05429715090701877\ \(0\)\
+\-\ pelvis\\:\\ 0\\.054055201597229666\ \(0\)\
+\-\ being\\:\\ 0\\.05385682614569631\ \(0\)\
+\-\ this\\:\\ 0\\.053114610975614485\ \(0\)\
+\-\ neoplasm\\:\\ 0\\.05276023003607846\ \(0\)\
+\-\ left\\:\\ 0\\.05272876212576684\ \(0\)\
+\-\ elevated\\:\\ 0\\.052687776380545275\ \(0\)\
+\-\ less\\:\\ 0\\.05257981723326843\ \(0\)\
+\-\ week\\:\\ 0\\.05198378420233328\ \(0\)\
+\-\ initial\\:\\ 0\\.05184727119560092\ \(0\)\
+\-\ often\\:\\ 0\\.050429953404702195\ \(0\)\
+\-\ found\\:\\ 0\\.05000840113819049\ \(0\)\
+\-\ while\\:\\ 0\\.04994923597300616\ \(0\)\
+\-\ sided\\:\\ 0\\.0497151255903606\ \(0\)\
+\-\ abscess\\:\\ 0\\.04962836669435325\ \(0\)\
+\-\ during\\:\\ 0\\.04895359814849426\ \(0\)\
+\-\ on\\:\\ 0\\.04668417782054361\ \(0\)\
+\-\ scan\\:\\ 0\\.04585369250414035\ \(0\)\
+\-\ than\\:\\ 0\\.04381196866977156\ \(0\)\
+\-\ patients\\:\\ 0\\.04347832879690361\ \(0\)\
+\-\ acute\\:\\ 0\\.04180947031367163\ \(0\)\
+\-\ soft\\:\\ 0\\.041146109794664286\ \(0\)\
+\-\ tissue\\:\\ 0\\.04054317154413399\ \(0\)\
+\-\ present\\:\\ 0\\.03965861993387644\ \(0\)\
+\-\ demonstrates\\:\\ 0\\.03882829525704079\ \(0\)\
+\-\ large\\:\\ 0\\.03872477000610797\ \(0\)\
+\-\ have\\:\\ 0\\.038609241867323715\ \(0\)\
+\-\ lateral\\:\\ 0\\.03835598587132648\ \(0\)\
+\-\ contrast\\:\\ 0\\.03755231735382079\ \(0\)\
+\-\ female\\:\\ 0\\.03729468329164111\ \(0\)\
+\-\ non\\:\\ 0\\.03667124912408002\ \(0\)\
+\-\ within\\:\\ 0\\.03559614360091715\ \(0\)\
+\-\ which\\:\\ 0\\.0351433008121519\ \(0\)\
+\-\ by\\:\\ 0\\.032820666801156466\ \(0\)\
+\-\ not\\:\\ 0\\.03051118455501182\ \(0\)\
+\-\ year\\:\\ 0\\.023818421851061998\ \(0\)\
+\-\ old\\:\\ 0\\.022873929928354717\ \(0\)\
+\-\ with\\:\\ 0\\.015133818079647445\ \(0\)\

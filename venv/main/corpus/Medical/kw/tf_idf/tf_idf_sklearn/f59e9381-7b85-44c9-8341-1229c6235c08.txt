@@ -1,56 +1,54 @@
-Texto: 
-no treatment necessary.
-axial t1 pre- and post-contrast images reveal a collection of radially arranged thin vessels in the left cerebellar hemisphere with a central, larger draining vein.  the structure demonstrates uniform flow-related enhancement.  no evidence of gliosis or prior hemorrhage.
-developmental venous anomaly
-40 yo woman with complaints of occasional hand paresthesias, being evaluated for multiple sclerosis.
-
-
-Keywords by value: 
-- radially: 0.25367720511679137
-- arranged: 0.22507548286931836
-- gliosis: 0.22323301336625895
-- paresthesias: 0.21137961073690548
-- uniform: 0.1922951758161855
-- draining: 0.17810196992574992
-- occasional: 0.17723071578769126
-- hemisphere: 0.1720780823116506
-- anomaly: 0.16828141202996105
-- larger: 0.16459345834619418
-- developmental: 0.15900814131685956
-- structure: 0.1571114507064345
-- evaluated: 0.1571114507064345
-- reveal: 0.1546733209613658
-- necessary: 0.15383054247951275
-- complaints: 0.15142686228429608
-- cerebellar: 0.1504759248663491
-- collection: 0.14847765785976463
-- hand: 0.14373596770146005
-- thin: 0.1431334372477904
-- vessels: 0.1426888172230664
-- 40: 0.13523205190309975
-- vein: 0.13180079619872515
-- venous: 0.13128003461843696
-- sclerosis: 0.13097156871685245
-- being: 0.1281327131584566
-- hemorrhage: 0.12311025104758619
-- central: 0.1227910955618452
-- no: 0.11958940225073719
-- yo: 0.11487590531727399
-- t1: 0.11456684790922146
-- of: 0.10795173244826324
-- axial: 0.10621395523016583
-- enhancement: 0.10583638791807204
-- evidence: 0.10436884842371134
-- prior: 0.10287949251222703
-- woman: 0.09576373161740055
-- demonstrates: 0.09237779450915218
-- multiple: 0.08993823209043586
-- treatment: 0.08759036168867333
-- images: 0.08505534446240082
-- the: 0.07338023986834535
-- with: 0.07201082238845173
-- or: 0.06396752663995686
-- left: 0.06272444772723824
-- for: 0.055731700989312724
-- in: 0.04574262468865711
-- and: 0.03799592641141478
+\-\ Texto\\:\\ \ \(0\)\
+\-\ no\\ treatment\\ necessary\\.\ \(1\)\
+\-\ axial\\ t1\\ pre\\-\\ and\\ post\\-contrast\\ images\\ reveal\\ a\\ collection\\ of\\ radially\\ arranged\\ thin\\ vessels\\ in\\ the\\ left\\ cerebellar\\ hemisphere\\ with\\ a\\ central\\,\\ larger\\ draining\\ vein\\.\\ \\ the\\ structure\\ demonstrates\\ uniform\\ flow\\-related\\ enhancement\\.\\ \\ no\\ evidence\\ of\\ gliosis\\ or\\ prior\\ hemorrhage\\.\ \(0\)\
+\-\ developmental\\ venous\\ anomaly\ \(10\)\
+\-\ 40\\ yo\\ woman\\ with\\ complaints\\ of\\ occasional\\ hand\\ paresthesias\\,\\ being\\ evaluated\\ for\\ multiple\\ sclerosis\\.\ \(1\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ radially\\:\\ 0\\.25367720511679137\ \(0\)\
+\-\ arranged\\:\\ 0\\.22507548286931836\ \(0\)\
+\-\ gliosis\\:\\ 0\\.22323301336625895\ \(0\)\
+\-\ paresthesias\\:\\ 0\\.21137961073690548\ \(0\)\
+\-\ uniform\\:\\ 0\\.1922951758161855\ \(0\)\
+\-\ draining\\:\\ 0\\.17810196992574992\ \(0\)\
+\-\ occasional\\:\\ 0\\.17723071578769126\ \(0\)\
+\-\ hemisphere\\:\\ 0\\.1720780823116506\ \(0\)\
+\-\ anomaly\\:\\ 0\\.16828141202996105\ \(0\)\
+\-\ larger\\:\\ 0\\.16459345834619418\ \(0\)\
+\-\ developmental\\:\\ 0\\.15900814131685956\ \(0\)\
+\-\ structure\\:\\ 0\\.1571114507064345\ \(0\)\
+\-\ evaluated\\:\\ 0\\.1571114507064345\ \(0\)\
+\-\ reveal\\:\\ 0\\.1546733209613658\ \(0\)\
+\-\ necessary\\:\\ 0\\.15383054247951275\ \(0\)\
+\-\ complaints\\:\\ 0\\.15142686228429608\ \(0\)\
+\-\ cerebellar\\:\\ 0\\.1504759248663491\ \(0\)\
+\-\ collection\\:\\ 0\\.14847765785976463\ \(0\)\
+\-\ hand\\:\\ 0\\.14373596770146005\ \(0\)\
+\-\ thin\\:\\ 0\\.1431334372477904\ \(0\)\
+\-\ vessels\\:\\ 0\\.1426888172230664\ \(0\)\
+\-\ 40\\:\\ 0\\.13523205190309975\ \(0\)\
+\-\ vein\\:\\ 0\\.13180079619872515\ \(0\)\
+\-\ venous\\:\\ 0\\.13128003461843696\ \(0\)\
+\-\ sclerosis\\:\\ 0\\.13097156871685245\ \(0\)\
+\-\ being\\:\\ 0\\.1281327131584566\ \(0\)\
+\-\ hemorrhage\\:\\ 0\\.12311025104758619\ \(0\)\
+\-\ central\\:\\ 0\\.1227910955618452\ \(0\)\
+\-\ no\\:\\ 0\\.11958940225073719\ \(0\)\
+\-\ yo\\:\\ 0\\.11487590531727399\ \(0\)\
+\-\ t1\\:\\ 0\\.11456684790922146\ \(0\)\
+\-\ of\\:\\ 0\\.10795173244826324\ \(0\)\
+\-\ axial\\:\\ 0\\.10621395523016583\ \(0\)\
+\-\ enhancement\\:\\ 0\\.10583638791807204\ \(0\)\
+\-\ evidence\\:\\ 0\\.10436884842371134\ \(0\)\
+\-\ prior\\:\\ 0\\.10287949251222703\ \(0\)\
+\-\ woman\\:\\ 0\\.09576373161740055\ \(0\)\
+\-\ demonstrates\\:\\ 0\\.09237779450915218\ \(0\)\
+\-\ multiple\\:\\ 0\\.08993823209043586\ \(0\)\
+\-\ treatment\\:\\ 0\\.08759036168867333\ \(0\)\
+\-\ images\\:\\ 0\\.08505534446240082\ \(0\)\
+\-\ the\\:\\ 0\\.07338023986834535\ \(0\)\
+\-\ with\\:\\ 0\\.07201082238845173\ \(0\)\
+\-\ or\\:\\ 0\\.06396752663995686\ \(0\)\
+\-\ left\\:\\ 0\\.06272444772723824\ \(0\)\
+\-\ for\\:\\ 0\\.055731700989312724\ \(0\)\
+\-\ in\\:\\ 0\\.04574262468865711\ \(0\)\
+\-\ and\\:\\ 0\\.03799592641141478\ \(0\)\

@@ -1,65 +1,63 @@
-Texto: 
-patient awaiting consideration for surgical resection
-on ct, large pancreatic body mass; there are multiloculated cysts with thin septa. the septa  enhance after contrast administration. periperal calcifications are seen in the capsule/septae.
-pancreatic mucinous cystic neoplasm
-chronic pancreatitis
-pancreatic pseudocyst
-intraductal papillary mucinous neoplasm
-mucinous cystic neoplasm
-serous cystadenoma
-48 year old male with incidental finding on ct of the abdomen and pelvis
-
-
-Keywords by value: 
-- mucinous: 0.22617524866996597
-- pancreatic: 0.18444659275309688
-- septa: 0.17426901959030394
-- capsule/septae: 0.12963997682303674
-- neoplasm: 0.12838926070199683
-- periperal: 0.11348391375438806
-- awaiting: 0.0848675880329864
-- multiloculated: 0.0848675880329864
-- intraductal: 0.08352976776525513
-- serous: 0.08352976776525513
-- pseudocyst: 0.08117178761709072
-- cystadenoma: 0.07302015915083
-- cystic: 0.07248919727211055
-- consideration: 0.07018334053135218
-- pancreatitis: 0.06894682410178539
-- papillary: 0.06379678837482781
-- 48: 0.06148219758436562
-- enhance: 0.060785105835915856
-- administration: 0.05217147448387015
-- thin: 0.05165019876334445
-- cysts: 0.04922732768869657
-- incidental: 0.04758512644088641
-- calcifications: 0.046722996391658125
-- pelvis: 0.04566310892046513
-- body: 0.04081270165719242
-- finding: 0.040500904485860016
-- resection: 0.039189936110591454
-- abdomen: 0.03722623916023083
-- chronic: 0.03539690636627941
-- ct: 0.03515598980564832
-- are: 0.03426099625087064
-- ;: 0.029785605712538143
-- contrast: 0.028129054217763315
-- large: 0.027478565173986468
-- surgical: 0.02641502603310961
-- after: 0.026000017685429446
-- seen: 0.02483275904511309
-- male: 0.02272361085128637
-- on: 0.021290912128394943
-- there: 0.018701699359779247
-- mass: 0.01747736774922889
-- year: 0.014060371606954628
-- old: 0.012866685247974333
-- patient: 0.012596940160535117
-- for: 0.010722178656510517
-- in: 0.006197018090297867
-- the: 0.006099233148689374
-- ,: 0.003981030375254226
-- with: 0.0034412992967614627
-- and: 0.0026471912607679182
-- of: 0.0017132911882057121
-- .: 0.0015661560042946887
+\-\ Texto\\:\\ \ \(0\)\
+\-\ patient\\ awaiting\\ consideration\\ for\\ surgical\\ resection\ \(1\)\
+\-\ on\\ ct\\,\\ large\\ pancreatic\\ body\\ mass\\;\\ there\\ are\\ multiloculated\\ cysts\\ with\\ thin\\ septa\\.\\ the\\ septa\\ \\ enhance\\ after\\ contrast\\ administration\\.\\ periperal\\ calcifications\\ are\\ seen\\ in\\ the\\ capsule\\/septae\\.\ \(0\)\
+\-\ pancreatic\\ mucinous\\ cystic\\ neoplasm\ \(0\)\
+\-\ chronic\\ pancreatitis\ \(9\)\
+\-\ pancreatic\\ pseudocyst\ \(8\)\
+\-\ intraductal\\ papillary\\ mucinous\\ neoplasm\ \(1\)\
+\-\ mucinous\\ cystic\\ neoplasm\ \(3\)\
+\-\ serous\\ cystadenoma\ \(11\)\
+\-\ 48\\ year\\ old\\ male\\ with\\ incidental\\ finding\\ on\\ ct\\ of\\ the\\ abdomen\\ and\\ pelvis\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ mucinous\\:\\ 0\\.22617524866996597\ \(0\)\
+\-\ pancreatic\\:\\ 0\\.18444659275309688\ \(0\)\
+\-\ septa\\:\\ 0\\.17426901959030394\ \(0\)\
+\-\ capsule\\/septae\\:\\ 0\\.12963997682303674\ \(0\)\
+\-\ neoplasm\\:\\ 0\\.12838926070199683\ \(0\)\
+\-\ periperal\\:\\ 0\\.11348391375438806\ \(0\)\
+\-\ awaiting\\:\\ 0\\.0848675880329864\ \(0\)\
+\-\ multiloculated\\:\\ 0\\.0848675880329864\ \(0\)\
+\-\ intraductal\\:\\ 0\\.08352976776525513\ \(0\)\
+\-\ serous\\:\\ 0\\.08352976776525513\ \(0\)\
+\-\ pseudocyst\\:\\ 0\\.08117178761709072\ \(0\)\
+\-\ cystadenoma\\:\\ 0\\.07302015915083\ \(0\)\
+\-\ cystic\\:\\ 0\\.07248919727211055\ \(0\)\
+\-\ consideration\\:\\ 0\\.07018334053135218\ \(0\)\
+\-\ pancreatitis\\:\\ 0\\.06894682410178539\ \(0\)\
+\-\ papillary\\:\\ 0\\.06379678837482781\ \(0\)\
+\-\ 48\\:\\ 0\\.06148219758436562\ \(0\)\
+\-\ enhance\\:\\ 0\\.060785105835915856\ \(0\)\
+\-\ administration\\:\\ 0\\.05217147448387015\ \(0\)\
+\-\ thin\\:\\ 0\\.05165019876334445\ \(0\)\
+\-\ cysts\\:\\ 0\\.04922732768869657\ \(0\)\
+\-\ incidental\\:\\ 0\\.04758512644088641\ \(0\)\
+\-\ calcifications\\:\\ 0\\.046722996391658125\ \(0\)\
+\-\ pelvis\\:\\ 0\\.04566310892046513\ \(0\)\
+\-\ body\\:\\ 0\\.04081270165719242\ \(0\)\
+\-\ finding\\:\\ 0\\.040500904485860016\ \(0\)\
+\-\ resection\\:\\ 0\\.039189936110591454\ \(0\)\
+\-\ abdomen\\:\\ 0\\.03722623916023083\ \(0\)\
+\-\ chronic\\:\\ 0\\.03539690636627941\ \(0\)\
+\-\ ct\\:\\ 0\\.03515598980564832\ \(0\)\
+\-\ are\\:\\ 0\\.03426099625087064\ \(0\)\
+\-\ \\;\\:\\ 0\\.029785605712538143\ \(0\)\
+\-\ contrast\\:\\ 0\\.028129054217763315\ \(0\)\
+\-\ large\\:\\ 0\\.027478565173986468\ \(0\)\
+\-\ surgical\\:\\ 0\\.02641502603310961\ \(0\)\
+\-\ after\\:\\ 0\\.026000017685429446\ \(0\)\
+\-\ seen\\:\\ 0\\.02483275904511309\ \(0\)\
+\-\ male\\:\\ 0\\.02272361085128637\ \(0\)\
+\-\ on\\:\\ 0\\.021290912128394943\ \(0\)\
+\-\ there\\:\\ 0\\.018701699359779247\ \(0\)\
+\-\ mass\\:\\ 0\\.01747736774922889\ \(0\)\
+\-\ year\\:\\ 0\\.014060371606954628\ \(0\)\
+\-\ old\\:\\ 0\\.012866685247974333\ \(0\)\
+\-\ patient\\:\\ 0\\.012596940160535117\ \(0\)\
+\-\ for\\:\\ 0\\.010722178656510517\ \(0\)\
+\-\ in\\:\\ 0\\.006197018090297867\ \(0\)\
+\-\ the\\:\\ 0\\.006099233148689374\ \(0\)\
+\-\ \\,\\:\\ 0\\.003981030375254226\ \(0\)\
+\-\ with\\:\\ 0\\.0034412992967614627\ \(0\)\
+\-\ and\\:\\ 0\\.0026471912607679182\ \(0\)\
+\-\ of\\:\\ 0\\.0017132911882057121\ \(0\)\
+\-\ \\.\\:\\ 0\\.0015661560042946887\ \(0\)\

@@ -1,101 +1,99 @@
-Texto: 
-the vital signs are normal and the patient is in no acute distress.  the left knee is mildly swollen, with some tenderness over the lateral knee.  the physical exam is somewhat limited secondary to the patients discomfort.
-orthopedic follow-up with possible repair of the anterior cruciate ligament and menisci if damaged.
-the plain film radiographs of the left knee demonstrates an avulsion fracture along the lateral proximal tibia.  there is no significant joint effusion noted on this image.  coronal t1 and t2 mri images demonstrate an avulsion fracture of the lateral proximal tibia and a joint effusion.  there is marrow edema present and the anterior cruciate ligament is torn.
-segond fracture with asssociated anterior cruciate ligament tear
-segond fracture.  when this fracture is identified or suspected, mri is indicated to evaluate for acl and menisci injury, which are present in this case.
-28 year old male with left knee injury while wakeboarding.
-
-
-Keywords by value: 
-- cruciate: 0.09909603458658965
-- segond: 0.07846907627677654
-- knee: 0.07466242704964522
-- menisci: 0.07138730922976307
-- ligament: 0.07093679450141105
-- fracture: 0.06786368464677044
-- avulsion: 0.05502437568574867
-- asssociated: 0.05310553267449698
-- wakeboarding: 0.05310553267449698
-- tibia: 0.04729119633427403
-- anterior: 0.039773364284868745
-- effusion: 0.03912257735187231
-- damaged: 0.03720759695392313
-- torn: 0.03569365461488153
-- lateral: 0.03337351889682922
-- joint: 0.03329432837400098
-- injury: 0.03282178966131084
-- proximal: 0.03091015881574717
-- acl: 0.030883367288268446
-- swollen: 0.027426738234489056
-- is: 0.027098350765528946
-- discomfort: 0.025800716450682184
-- somewhat: 0.02530360185015204
-- vital: 0.02462729280273589
-- orthopedic: 0.02457421672031327
-- 28: 0.024265220970990677
-- mri: 0.023653925962826748
-- present: 0.023253117517249167
-- marrow: 0.022646220594085484
-- tear: 0.02260797223457549
-- indicated: 0.02227424464789002
-- suspected: 0.022166987872989378
-- mildly: 0.021923907779473912
-- limited: 0.021723085970632997
-- distress: 0.021690257026250076
-- coronal: 0.02143387380685974
-- evaluate: 0.020808591917211284
-- repair: 0.02061380046755504
-- film: 0.019771861055656495
-- identified: 0.01839437976618266
-- signs: 0.018116722493891894
-- this: 0.017369949638207222
-- possible: 0.01733724228243417
-- left: 0.017279010890474362
-- along: 0.017012372752159735
-- follow-up: 0.016747210791817724
-- plain: 0.016718456100536655
-- t1: 0.016316238170025567
-- radiographs: 0.016302836392783935
-- while: 0.016196682167785022
-- image: 0.01607945280902169
-- tenderness: 0.01565609833061225
-- some: 0.015632097914859994
-- there: 0.015321874174276972
-- when: 0.014742959262747024
-- t2: 0.01456981185994188
-- edema: 0.014559780056815005
-- secondary: 0.014391746786197637
-- an: 0.014236926075719638
-- are: 0.014034624970236166
-- if: 0.013968333938437563
-- significant: 0.013842452717194116
-- patients: 0.013322738550397747
-- over: 0.013106280663493751
-- acute: 0.012710116440400574
-- physical: 0.012629549816754447
-- noted: 0.012201332460557794
-- demonstrate: 0.011846097236946029
-- exam: 0.011308638192467097
-- case: 0.011262074896790788
-- demonstrates: 0.011244706034055339
-- no: 0.01036679699643135
-- the: 0.009993924195442828
-- images: 0.009875083686441893
-- which: 0.009609304742424992
-- male: 0.00930846709570767
-- normal: 0.008069954545777717
-- and: 0.00650634960477898
-- or: 0.006033269572070527
-- year: 0.0057596702968247876
-- old: 0.005270690342543702
-- patient: 0.0051601923549180004
-- to: 0.005145398896903449
-- in: 0.005077075061930783
-- ,: 0.004892350581637723
-- for: 0.004392217762907923
-- on: 0.004360789231117036
-- with: 0.002819377737105777
-- a: 0.0023891554326421764
-- .: 0.002352378898016922
-- of: 0.0021054903758672607
+\-\ Texto\\:\\ \ \(0\)\
+\-\ the\\ vital\\ signs\\ are\\ normal\\ and\\ the\\ patient\\ is\\ in\\ no\\ acute\\ distress\\.\\ \\ the\\ left\\ knee\\ is\\ mildly\\ swollen\\,\\ with\\ some\\ tenderness\\ over\\ the\\ lateral\\ knee\\.\\ \\ the\\ physical\\ exam\\ is\\ somewhat\\ limited\\ secondary\\ to\\ the\\ patients\\ discomfort\\.\ \(0\)\
+\-\ orthopedic\\ follow\\-up\\ with\\ possible\\ repair\\ of\\ the\\ anterior\\ cruciate\\ ligament\\ and\\ menisci\\ if\\ damaged\\.\ \(0\)\
+\-\ the\\ plain\\ film\\ radiographs\\ of\\ the\\ left\\ knee\\ demonstrates\\ an\\ avulsion\\ fracture\\ along\\ the\\ lateral\\ proximal\\ tibia\\.\\ \\ there\\ is\\ no\\ significant\\ joint\\ effusion\\ noted\\ on\\ this\\ image\\.\\ \\ coronal\\ t1\\ and\\ t2\\ mri\\ images\\ demonstrate\\ an\\ avulsion\\ fracture\\ of\\ the\\ lateral\\ proximal\\ tibia\\ and\\ a\\ joint\\ effusion\\.\\ \\ there\\ is\\ marrow\\ edema\\ present\\ and\\ the\\ anterior\\ cruciate\\ ligament\\ is\\ torn\\.\ \(0\)\
+\-\ segond\\ fracture\\ with\\ asssociated\\ anterior\\ cruciate\\ ligament\\ tear\ \(0\)\
+\-\ segond\\ fracture\\.\\ \\ when\\ this\\ fracture\\ is\\ identified\\ or\\ suspected\\,\\ mri\\ is\\ indicated\\ to\\ evaluate\\ for\\ acl\\ and\\ menisci\\ injury\\,\\ which\\ are\\ present\\ in\\ this\\ case\\.\ \(0\)\
+\-\ 28\\ year\\ old\\ male\\ with\\ left\\ knee\\ injury\\ while\\ wakeboarding\\.\ \(1\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ cruciate\\:\\ 0\\.09909603458658965\ \(0\)\
+\-\ segond\\:\\ 0\\.07846907627677654\ \(0\)\
+\-\ knee\\:\\ 0\\.07466242704964522\ \(0\)\
+\-\ menisci\\:\\ 0\\.07138730922976307\ \(0\)\
+\-\ ligament\\:\\ 0\\.07093679450141105\ \(0\)\
+\-\ fracture\\:\\ 0\\.06786368464677044\ \(0\)\
+\-\ avulsion\\:\\ 0\\.05502437568574867\ \(0\)\
+\-\ asssociated\\:\\ 0\\.05310553267449698\ \(0\)\
+\-\ wakeboarding\\:\\ 0\\.05310553267449698\ \(0\)\
+\-\ tibia\\:\\ 0\\.04729119633427403\ \(0\)\
+\-\ anterior\\:\\ 0\\.039773364284868745\ \(0\)\
+\-\ effusion\\:\\ 0\\.03912257735187231\ \(0\)\
+\-\ damaged\\:\\ 0\\.03720759695392313\ \(0\)\
+\-\ torn\\:\\ 0\\.03569365461488153\ \(0\)\
+\-\ lateral\\:\\ 0\\.03337351889682922\ \(0\)\
+\-\ joint\\:\\ 0\\.03329432837400098\ \(0\)\
+\-\ injury\\:\\ 0\\.03282178966131084\ \(0\)\
+\-\ proximal\\:\\ 0\\.03091015881574717\ \(0\)\
+\-\ acl\\:\\ 0\\.030883367288268446\ \(0\)\
+\-\ swollen\\:\\ 0\\.027426738234489056\ \(0\)\
+\-\ is\\:\\ 0\\.027098350765528946\ \(0\)\
+\-\ discomfort\\:\\ 0\\.025800716450682184\ \(0\)\
+\-\ somewhat\\:\\ 0\\.02530360185015204\ \(0\)\
+\-\ vital\\:\\ 0\\.02462729280273589\ \(0\)\
+\-\ orthopedic\\:\\ 0\\.02457421672031327\ \(0\)\
+\-\ 28\\:\\ 0\\.024265220970990677\ \(0\)\
+\-\ mri\\:\\ 0\\.023653925962826748\ \(0\)\
+\-\ present\\:\\ 0\\.023253117517249167\ \(0\)\
+\-\ marrow\\:\\ 0\\.022646220594085484\ \(0\)\
+\-\ tear\\:\\ 0\\.02260797223457549\ \(0\)\
+\-\ indicated\\:\\ 0\\.02227424464789002\ \(0\)\
+\-\ suspected\\:\\ 0\\.022166987872989378\ \(0\)\
+\-\ mildly\\:\\ 0\\.021923907779473912\ \(0\)\
+\-\ limited\\:\\ 0\\.021723085970632997\ \(0\)\
+\-\ distress\\:\\ 0\\.021690257026250076\ \(0\)\
+\-\ coronal\\:\\ 0\\.02143387380685974\ \(0\)\
+\-\ evaluate\\:\\ 0\\.020808591917211284\ \(0\)\
+\-\ repair\\:\\ 0\\.02061380046755504\ \(0\)\
+\-\ film\\:\\ 0\\.019771861055656495\ \(0\)\
+\-\ identified\\:\\ 0\\.01839437976618266\ \(0\)\
+\-\ signs\\:\\ 0\\.018116722493891894\ \(0\)\
+\-\ this\\:\\ 0\\.017369949638207222\ \(0\)\
+\-\ possible\\:\\ 0\\.01733724228243417\ \(0\)\
+\-\ left\\:\\ 0\\.017279010890474362\ \(0\)\
+\-\ along\\:\\ 0\\.017012372752159735\ \(0\)\
+\-\ follow\\-up\\:\\ 0\\.016747210791817724\ \(0\)\
+\-\ plain\\:\\ 0\\.016718456100536655\ \(0\)\
+\-\ t1\\:\\ 0\\.016316238170025567\ \(0\)\
+\-\ radiographs\\:\\ 0\\.016302836392783935\ \(0\)\
+\-\ while\\:\\ 0\\.016196682167785022\ \(0\)\
+\-\ image\\:\\ 0\\.01607945280902169\ \(0\)\
+\-\ tenderness\\:\\ 0\\.01565609833061225\ \(0\)\
+\-\ some\\:\\ 0\\.015632097914859994\ \(0\)\
+\-\ there\\:\\ 0\\.015321874174276972\ \(0\)\
+\-\ when\\:\\ 0\\.014742959262747024\ \(0\)\
+\-\ t2\\:\\ 0\\.01456981185994188\ \(0\)\
+\-\ edema\\:\\ 0\\.014559780056815005\ \(0\)\
+\-\ secondary\\:\\ 0\\.014391746786197637\ \(0\)\
+\-\ an\\:\\ 0\\.014236926075719638\ \(0\)\
+\-\ are\\:\\ 0\\.014034624970236166\ \(0\)\
+\-\ if\\:\\ 0\\.013968333938437563\ \(0\)\
+\-\ significant\\:\\ 0\\.013842452717194116\ \(0\)\
+\-\ patients\\:\\ 0\\.013322738550397747\ \(0\)\
+\-\ over\\:\\ 0\\.013106280663493751\ \(0\)\
+\-\ acute\\:\\ 0\\.012710116440400574\ \(0\)\
+\-\ physical\\:\\ 0\\.012629549816754447\ \(0\)\
+\-\ noted\\:\\ 0\\.012201332460557794\ \(0\)\
+\-\ demonstrate\\:\\ 0\\.011846097236946029\ \(0\)\
+\-\ exam\\:\\ 0\\.011308638192467097\ \(0\)\
+\-\ case\\:\\ 0\\.011262074896790788\ \(0\)\
+\-\ demonstrates\\:\\ 0\\.011244706034055339\ \(0\)\
+\-\ no\\:\\ 0\\.01036679699643135\ \(0\)\
+\-\ the\\:\\ 0\\.009993924195442828\ \(0\)\
+\-\ images\\:\\ 0\\.009875083686441893\ \(0\)\
+\-\ which\\:\\ 0\\.009609304742424992\ \(0\)\
+\-\ male\\:\\ 0\\.00930846709570767\ \(0\)\
+\-\ normal\\:\\ 0\\.008069954545777717\ \(0\)\
+\-\ and\\:\\ 0\\.00650634960477898\ \(0\)\
+\-\ or\\:\\ 0\\.006033269572070527\ \(0\)\
+\-\ year\\:\\ 0\\.0057596702968247876\ \(0\)\
+\-\ old\\:\\ 0\\.005270690342543702\ \(0\)\
+\-\ patient\\:\\ 0\\.0051601923549180004\ \(0\)\
+\-\ to\\:\\ 0\\.005145398896903449\ \(0\)\
+\-\ in\\:\\ 0\\.005077075061930783\ \(0\)\
+\-\ \\,\\:\\ 0\\.004892350581637723\ \(0\)\
+\-\ for\\:\\ 0\\.004392217762907923\ \(0\)\
+\-\ on\\:\\ 0\\.004360789231117036\ \(0\)\
+\-\ with\\:\\ 0\\.002819377737105777\ \(0\)\
+\-\ a\\:\\ 0\\.0023891554326421764\ \(0\)\
+\-\ \\.\\:\\ 0\\.002352378898016922\ \(0\)\
+\-\ of\\:\\ 0\\.0021054903758672607\ \(0\)\

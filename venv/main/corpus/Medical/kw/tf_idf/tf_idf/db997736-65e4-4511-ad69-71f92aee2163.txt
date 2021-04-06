@@ -1,81 +1,78 @@
-Texto: 
-soft abdomen without mass clearly appreciated.
-air contrast enema for reduction.
-ultrasound:  transverse images show pattern of alternating hyperechogenicity and hypoechogenicity representing the layers of mucosa, muscularis, serosa and fat (target or doughnut sign).  longitudinal images show layers as above in  sandwich like appearance (pseudokidney sign).
-
-diagnostic/therapeutic enema demonstrates the meniscus sign (convex intracolic mass) where the rounded apex of the intussusceptum is protruding into the contrast column.
-intussusception
-intussusception
-3 month-old female with one day of blood/mucous in stools.  now with emesis.
-
-
-Keywords by value: 
-- layers: 0.10745476489899027
-- intussusception: 0.10356846403742549
-- enema: 0.09641347790165553
-- sign: 0.0897105000534567
-- diagnostic/therapeutic: 0.08904564064612626
-- intracolic: 0.08904564064612626
-- blood/mucous: 0.08904564064612626
-- sandwich: 0.08204415397380357
-- hyperechogenicity: 0.07794854682119585
-- pseudokidney: 0.07794854682119585
-- hypoechogenicity: 0.07504266730148089
-- serosa: 0.07504266730148089
-- doughnut: 0.07504266730148089
-- muscularis: 0.0727886920356808
-- intussusceptum: 0.06685145299626544
-- month-old: 0.062388495902537776
-- alternating: 0.060427324039497805
-- protruding: 0.060427324039497805
-- convex: 0.05829288874993006
-- stools: 0.05737398189936716
-- show: 0.052993049181649016
-- target: 0.0520399674528975
-- column: 0.0520399674528975
-- meniscus: 0.04994260013190513
-- emesis: 0.04875287249901237
-- mucosa: 0.04557023566426594
-- longitudinal: 0.045168818203159745
-- representing: 0.0445333250171944
-- clearly: 0.044410887032019196
-- apex: 0.044410887032019196
-- rounded: 0.042528770080589966
-- appreciated: 0.042035940139484605
-- reduction: 0.04068713819378235
-- like: 0.03995662646065481
-- contrast: 0.038641933066826374
-- where: 0.03522870964825169
-- transverse: 0.034610572668181794
-- images: 0.03311644226160312
-- pattern: 0.032994367061326045
-- above: 0.03163574400634158
-- now: 0.02950621807779442
-- air: 0.02920467299547441
-- day: 0.027403634639928585
-- fat: 0.026251639625067005
-- ultrasound: 0.02560729883844751
-- abdomen: 0.02556953800904744
-- appearance: 0.024685925017521634
-- mass: 0.024009313271667974
-- one: 0.023391226094046914
-- (: 0.021889749280116985
-- ): 0.02162235430646379
-- soft: 0.021019462262561114
-- into: 0.020538650181411183
-- without: 0.020323365316749095
-- 3: 0.020211874007136765
-- demonstrates: 0.018854759612658447
-- female: 0.017745053246947817
-- as: 0.01305633844337503
-- :: 0.011416917333239041
-- or: 0.010116391403673814
-- in: 0.008513075356368787
-- for: 0.00736472877416884
-- the: 0.006982287106243727
-- is: 0.005679704832168946
-- ,: 0.005468890212470452
-- of: 0.0047072242746662
-- and: 0.0036365455703478477
-- .: 0.0025100682089032717
-- with: 0.002363720729088682
+\-\ Texto\\:\\ \ \(0\)\
+\-\ soft\\ abdomen\\ without\\ mass\\ clearly\\ appreciated\\.\ \(0\)\
+\-\ air\\ contrast\\ enema\\ for\\ reduction\\.\ \(0\)\
+\-\ ultrasound\\:\\ \\ transverse\\ images\\ show\\ pattern\\ of\\ alternating\\ hyperechogenicity\\ and\\ hypoechogenicity\\ representing\\ the\\ layers\\ of\\ mucosa\\,\\ muscularis\\,\\ serosa\\ and\\ fat\\ \\(target\\ or\\ doughnut\\ sign\\)\\.\\ \\ longitudinal\\ images\\ show\\ layers\\ as\\ above\\ in\\ \\ sandwich\\ like\\ appearance\\ \\(pseudokidney\\ sign\\)\\.\ \(0\)\
+\-\ diagnostic\\/therapeutic\\ enema\\ demonstrates\\ the\\ meniscus\\ sign\\ \\(convex\\ intracolic\\ mass\\)\\ where\\ the\\ rounded\\ apex\\ of\\ the\\ intussusceptum\\ is\\ protruding\\ into\\ the\\ contrast\\ column\\.\ \(0\)\
+\-\ intussusception\ \(91\)\
+\-\ intussusception\ \(91\)\
+\-\ 3\\ month\\-old\\ female\\ with\\ one\\ day\\ of\\ blood\\/mucous\\ in\\ stools\\.\\ \\ now\\ with\\ emesis\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ layers\\:\\ 0\\.10745476489899027\ \(0\)\
+\-\ intussusception\\:\\ 0\\.10356846403742549\ \(0\)\
+\-\ enema\\:\\ 0\\.09641347790165553\ \(0\)\
+\-\ sign\\:\\ 0\\.0897105000534567\ \(0\)\
+\-\ diagnostic\\/therapeutic\\:\\ 0\\.08904564064612626\ \(0\)\
+\-\ intracolic\\:\\ 0\\.08904564064612626\ \(0\)\
+\-\ blood\\/mucous\\:\\ 0\\.08904564064612626\ \(0\)\
+\-\ sandwich\\:\\ 0\\.08204415397380357\ \(0\)\
+\-\ hyperechogenicity\\:\\ 0\\.07794854682119585\ \(0\)\
+\-\ pseudokidney\\:\\ 0\\.07794854682119585\ \(0\)\
+\-\ hypoechogenicity\\:\\ 0\\.07504266730148089\ \(0\)\
+\-\ serosa\\:\\ 0\\.07504266730148089\ \(0\)\
+\-\ doughnut\\:\\ 0\\.07504266730148089\ \(0\)\
+\-\ muscularis\\:\\ 0\\.0727886920356808\ \(0\)\
+\-\ intussusceptum\\:\\ 0\\.06685145299626544\ \(0\)\
+\-\ month\\-old\\:\\ 0\\.062388495902537776\ \(0\)\
+\-\ alternating\\:\\ 0\\.060427324039497805\ \(0\)\
+\-\ protruding\\:\\ 0\\.060427324039497805\ \(0\)\
+\-\ convex\\:\\ 0\\.05829288874993006\ \(0\)\
+\-\ stools\\:\\ 0\\.05737398189936716\ \(0\)\
+\-\ show\\:\\ 0\\.052993049181649016\ \(0\)\
+\-\ target\\:\\ 0\\.0520399674528975\ \(0\)\
+\-\ column\\:\\ 0\\.0520399674528975\ \(0\)\
+\-\ meniscus\\:\\ 0\\.04994260013190513\ \(0\)\
+\-\ emesis\\:\\ 0\\.04875287249901237\ \(0\)\
+\-\ mucosa\\:\\ 0\\.04557023566426594\ \(0\)\
+\-\ longitudinal\\:\\ 0\\.045168818203159745\ \(0\)\
+\-\ representing\\:\\ 0\\.0445333250171944\ \(0\)\
+\-\ clearly\\:\\ 0\\.044410887032019196\ \(0\)\
+\-\ apex\\:\\ 0\\.044410887032019196\ \(0\)\
+\-\ rounded\\:\\ 0\\.042528770080589966\ \(0\)\
+\-\ appreciated\\:\\ 0\\.042035940139484605\ \(0\)\
+\-\ reduction\\:\\ 0\\.04068713819378235\ \(0\)\
+\-\ like\\:\\ 0\\.03995662646065481\ \(0\)\
+\-\ contrast\\:\\ 0\\.038641933066826374\ \(0\)\
+\-\ where\\:\\ 0\\.03522870964825169\ \(0\)\
+\-\ transverse\\:\\ 0\\.034610572668181794\ \(0\)\
+\-\ images\\:\\ 0\\.03311644226160312\ \(0\)\
+\-\ pattern\\:\\ 0\\.032994367061326045\ \(0\)\
+\-\ above\\:\\ 0\\.03163574400634158\ \(0\)\
+\-\ now\\:\\ 0\\.02950621807779442\ \(0\)\
+\-\ air\\:\\ 0\\.02920467299547441\ \(0\)\
+\-\ day\\:\\ 0\\.027403634639928585\ \(0\)\
+\-\ fat\\:\\ 0\\.026251639625067005\ \(0\)\
+\-\ ultrasound\\:\\ 0\\.02560729883844751\ \(0\)\
+\-\ abdomen\\:\\ 0\\.02556953800904744\ \(0\)\
+\-\ appearance\\:\\ 0\\.024685925017521634\ \(0\)\
+\-\ mass\\:\\ 0\\.024009313271667974\ \(0\)\
+\-\ one\\:\\ 0\\.023391226094046914\ \(0\)\
+\-\ \\(\\:\\ 0\\.021889749280116985\ \(0\)\
+\-\ \\)\\:\\ 0\\.02162235430646379\ \(0\)\
+\-\ soft\\:\\ 0\\.021019462262561114\ \(0\)\
+\-\ into\\:\\ 0\\.020538650181411183\ \(0\)\
+\-\ without\\:\\ 0\\.020323365316749095\ \(0\)\
+\-\ 3\\:\\ 0\\.020211874007136765\ \(0\)\
+\-\ demonstrates\\:\\ 0\\.018854759612658447\ \(0\)\
+\-\ female\\:\\ 0\\.017745053246947817\ \(0\)\
+\-\ as\\:\\ 0\\.01305633844337503\ \(0\)\
+\-\ \\:\\:\\ 0\\.011416917333239041\ \(0\)\
+\-\ or\\:\\ 0\\.010116391403673814\ \(0\)\
+\-\ in\\:\\ 0\\.008513075356368787\ \(0\)\
+\-\ for\\:\\ 0\\.00736472877416884\ \(0\)\
+\-\ the\\:\\ 0\\.006982287106243727\ \(0\)\
+\-\ is\\:\\ 0\\.005679704832168946\ \(0\)\
+\-\ \\,\\:\\ 0\\.005468890212470452\ \(0\)\
+\-\ of\\:\\ 0\\.0047072242746662\ \(0\)\
+\-\ and\\:\\ 0\\.0036365455703478477\ \(0\)\
+\-\ \\.\\:\\ 0\\.0025100682089032717\ \(0\)\
+\-\ with\\:\\ 0\\.002363720729088682\ \(0\)\

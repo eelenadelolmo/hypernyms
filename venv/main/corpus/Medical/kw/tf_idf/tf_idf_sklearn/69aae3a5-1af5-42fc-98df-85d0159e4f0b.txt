@@ -1,39 +1,37 @@
-Texto: 
-right upper quadrant abdominal pain.
-benign condition.  no treatment needed.
-comet-tail artifact arising from the gallbladder wall.
-adenomyomatosis
-adenomyomatosis.  the comet tail artifact is characteristic.
-60 year old female with right upper quadrant pain, nausea and vomitting.
-
-
-Keywords by value: 
-- comet: 0.4501261612547005
-- adenomyomatosis: 0.435491934504506
-- tail: 0.3413983841715881
-- artifact: 0.3344557206207635
-- quadrant: 0.24246053249292507
-- vomitting: 0.22506308062735025
-- upper: 0.18497876829352478
-- gallbladder: 0.15465349856879274
-- needed: 0.14289795644297165
-- characteristic: 0.1399226749083032
-- condition: 0.13829977130050888
-- arising: 0.13751975240691133
-- nausea: 0.1329528678132424
-- 60: 0.1294529022606471
-- pain: 0.12386625948694933
-- benign: 0.11889185201381645
-- right: 0.1147640207472688
-- wall: 0.10528441603178397
-- abdominal: 0.09466011153933451
-- female: 0.08351737869080164
-- treatment: 0.08244550550840571
-- the: 0.06907005352686119
-- from: 0.06873863546694929
-- no: 0.05628249805072494
-- year: 0.05333875989766784
-- old: 0.05122367317170476
-- is: 0.047398166684142366
-- and: 0.035764133174647716
-- with: 0.03389053623841615
+\-\ Texto\\:\\ \ \(0\)\
+\-\ right\\ upper\\ quadrant\\ abdominal\\ pain\\.\ \(1\)\
+\-\ benign\\ condition\\.\\ \\ no\\ treatment\\ needed\\.\ \(0\)\
+\-\ comet\\-tail\\ artifact\\ arising\\ from\\ the\\ gallbladder\\ wall\\.\ \(1\)\
+\-\ adenomyomatosis\ \(9\)\
+\-\ adenomyomatosis\\.\\ \\ the\\ comet\\ tail\\ artifact\\ is\\ characteristic\\.\ \(0\)\
+\-\ 60\\ year\\ old\\ female\\ with\\ right\\ upper\\ quadrant\\ pain\\,\\ nausea\\ and\\ vomitting\\.\ \(1\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ comet\\:\\ 0\\.4501261612547005\ \(0\)\
+\-\ adenomyomatosis\\:\\ 0\\.435491934504506\ \(0\)\
+\-\ tail\\:\\ 0\\.3413983841715881\ \(0\)\
+\-\ artifact\\:\\ 0\\.3344557206207635\ \(0\)\
+\-\ quadrant\\:\\ 0\\.24246053249292507\ \(0\)\
+\-\ vomitting\\:\\ 0\\.22506308062735025\ \(0\)\
+\-\ upper\\:\\ 0\\.18497876829352478\ \(0\)\
+\-\ gallbladder\\:\\ 0\\.15465349856879274\ \(0\)\
+\-\ needed\\:\\ 0\\.14289795644297165\ \(0\)\
+\-\ characteristic\\:\\ 0\\.1399226749083032\ \(0\)\
+\-\ condition\\:\\ 0\\.13829977130050888\ \(0\)\
+\-\ arising\\:\\ 0\\.13751975240691133\ \(0\)\
+\-\ nausea\\:\\ 0\\.1329528678132424\ \(0\)\
+\-\ 60\\:\\ 0\\.1294529022606471\ \(0\)\
+\-\ pain\\:\\ 0\\.12386625948694933\ \(0\)\
+\-\ benign\\:\\ 0\\.11889185201381645\ \(0\)\
+\-\ right\\:\\ 0\\.1147640207472688\ \(0\)\
+\-\ wall\\:\\ 0\\.10528441603178397\ \(0\)\
+\-\ abdominal\\:\\ 0\\.09466011153933451\ \(0\)\
+\-\ female\\:\\ 0\\.08351737869080164\ \(0\)\
+\-\ treatment\\:\\ 0\\.08244550550840571\ \(0\)\
+\-\ the\\:\\ 0\\.06907005352686119\ \(0\)\
+\-\ from\\:\\ 0\\.06873863546694929\ \(0\)\
+\-\ no\\:\\ 0\\.05628249805072494\ \(0\)\
+\-\ year\\:\\ 0\\.05333875989766784\ \(0\)\
+\-\ old\\:\\ 0\\.05122367317170476\ \(0\)\
+\-\ is\\:\\ 0\\.047398166684142366\ \(0\)\
+\-\ and\\:\\ 0\\.035764133174647716\ \(0\)\
+\-\ with\\:\\ 0\\.03389053623841615\ \(0\)\

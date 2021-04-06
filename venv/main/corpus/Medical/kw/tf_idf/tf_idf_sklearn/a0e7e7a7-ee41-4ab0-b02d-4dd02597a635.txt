@@ -1,94 +1,92 @@
-Texto: 
-lungs clear to auscultation.
-normal s1 and s2 and lack of an s3 heart sound(s).
-bilateral pretibial and pedal edema (pitting).
-systemic corticosteroids if symptomatic.
-plain radiographs of the chest demonstrate bilateral hilar adenopathy and pulmonary parenchymal opacities (bilateral symmetric reticulonodular opacities).
-pulmonary sarcoidosis
-pulmonary sarcoidosis - stage ii
-tuberculosis
-histoplasmosis
-coccidiomycosis
-metastasis (lung,head/neck,renal,testicular)
-lymphoma/leukemia
-reactive adenopathy - bacterial, viral, aids
-cystic fibrosis
-silicosis
-castleman's disease
-fifty three-year-old female presented to the emergency room with bilateral pedal edema.  past medical history significant for "congestive heart failure".
-this patient reported a known diagnosis of pulmonary sarcoidosis.
-
-
-Keywords by value: 
-- pedal: 0.2971881130001798
-- sarcoidosis: 0.28274103951251295
-- pulmonary: 0.271274534815326
-- bilateral: 0.23918280340498219
-- opacities: 0.2124517699040943
-- adenopathy: 0.18718046657040904
-- heart: 0.15472319268895451
-- pretibial: 0.1534958237041369
-- coccidiomycosis: 0.15089135803316475
-- fifty: 0.15089135803316475
-- pitting: 0.14653905025239547
-- castleman: 0.13997632090245662
-- s3: 0.1373718552314845
-- reticulonodular: 0.13618940110415764
-- edema: 0.13271686040236877
-- silicosis: 0.1320679187350791
-- sound: 0.12946345306410695
-- histoplasmosis: 0.12385235242980426
-- congestive: 0.12155505089672941
-- aids: 0.12102064706636231
-- corticosteroids: 0.12050049571719008
-- s2: 0.10698099291550985
-- testicular: 0.10434447379501109
-- auscultation: 0.10412156257277658
-- bacterial: 0.10412156257277658
-- viral: 0.10262868513474055
-- hilar: 0.10202227816838802
-- parenchymal: 0.0999473794970955
-- systemic: 0.09873337316070839
-- tuberculosis: 0.09791027551742915
-- s1: 0.09712051096434104
-- reactive: 0.09548800180620437
-- symmetric: 0.09534615012898048
-- lack: 0.09520532266052345
-- fibrosis: 0.09320652544206846
-- and: 0.09196279215133682
-- room: 0.0910504592809912
-- stage: 0.08860254294816054
-- ii: 0.08772249053173932
-- symptomatic: 0.08555308794645204
-- failure: 0.08447153688765877
-- emergency: 0.08254645298312147
-- lungs: 0.08211138989743663
-- metastasis: 0.08154600191496636
-- clear: 0.0806608281857555
-- reported: 0.08013542215028309
-- plain: 0.07340677433589808
-- past: 0.07242239243095765
-- radiographs: 0.0721623283161467
-- known: 0.07203358514477179
-- medical: 0.07071073798195367
-- renal: 0.06928529196681954
-- lung: 0.0676812773640025
-- cystic: 0.06700864106526322
-- of: 0.06531978340271441
-- presented: 0.06488104136001896
-- if: 0.06464533432656647
-- significant: 0.06423957931498711
-- chest: 0.058729128839555264
-- demonstrate: 0.057841446044352256
-- diagnosis: 0.05767684996504827
-- to: 0.05563000132223705
-- female: 0.05368850476579692
-- disease: 0.04670336352584885
-- normal: 0.04542706998056503
-- the: 0.04440115286280115
-- an: 0.042545785832019144
-- history: 0.042508095927252965
-- this: 0.03823124092780363
-- patient: 0.03618757781485594
-- for: 0.03372231787971939
-- with: 0.02178627065257756
+\-\ Texto\\:\\ \ \(0\)\
+\-\ lungs\\ clear\\ to\\ auscultation\\.\ \(0\)\
+\-\ normal\\ s1\\ and\\ s2\\ and\\ lack\\ of\\ an\\ s3\\ heart\\ sound\\(s\\)\\.\ \(0\)\
+\-\ bilateral\\ pretibial\\ and\\ pedal\\ edema\\ \\(pitting\\)\\.\ \(0\)\
+\-\ systemic\\ corticosteroids\\ if\\ symptomatic\\.\ \(0\)\
+\-\ plain\\ radiographs\\ of\\ the\\ chest\\ demonstrate\\ bilateral\\ hilar\\ adenopathy\\ and\\ pulmonary\\ parenchymal\\ opacities\\ \\(bilateral\\ symmetric\\ reticulonodular\\ opacities\\)\\.\ \(0\)\
+\-\ pulmonary\\ sarcoidosis\ \(3\)\
+\-\ pulmonary\\ sarcoidosis\\ \\-\\ stage\\ ii\ \(0\)\
+\-\ tuberculosis\ \(73\)\
+\-\ histoplasmosis\ \(20\)\
+\-\ coccidiomycosis\ \(1\)\
+\-\ metastasis\\ \\(lung\\,head\\/neck\\,renal\\,testicular\\)\ \(0\)\
+\-\ lymphoma\\/leukemia\ \(2\)\
+\-\ reactive\\ adenopathy\\ \\-\\ bacterial\\,\\ viral\\,\\ aids\ \(0\)\
+\-\ cystic\\ fibrosis\ \(30\)\
+\-\ silicosis\ \(7\)\
+\-\ castleman\\'s\\ disease\ \(0\)\
+\-\ fifty\\ three\\-year\\-old\\ female\\ presented\\ to\\ the\\ emergency\\ room\\ with\\ bilateral\\ pedal\\ edema\\.\\ \\ past\\ medical\\ history\\ significant\\ for\\ \\"congestive\\ heart\\ failure\\"\\.\ \(0\)\
+\-\ this\\ patient\\ reported\\ a\\ known\\ diagnosis\\ of\\ pulmonary\\ sarcoidosis\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ pedal\\:\\ 0\\.2971881130001798\ \(0\)\
+\-\ sarcoidosis\\:\\ 0\\.28274103951251295\ \(0\)\
+\-\ pulmonary\\:\\ 0\\.271274534815326\ \(0\)\
+\-\ bilateral\\:\\ 0\\.23918280340498219\ \(0\)\
+\-\ opacities\\:\\ 0\\.2124517699040943\ \(0\)\
+\-\ adenopathy\\:\\ 0\\.18718046657040904\ \(0\)\
+\-\ heart\\:\\ 0\\.15472319268895451\ \(0\)\
+\-\ pretibial\\:\\ 0\\.1534958237041369\ \(0\)\
+\-\ coccidiomycosis\\:\\ 0\\.15089135803316475\ \(0\)\
+\-\ fifty\\:\\ 0\\.15089135803316475\ \(0\)\
+\-\ pitting\\:\\ 0\\.14653905025239547\ \(0\)\
+\-\ castleman\\:\\ 0\\.13997632090245662\ \(0\)\
+\-\ s3\\:\\ 0\\.1373718552314845\ \(0\)\
+\-\ reticulonodular\\:\\ 0\\.13618940110415764\ \(0\)\
+\-\ edema\\:\\ 0\\.13271686040236877\ \(0\)\
+\-\ silicosis\\:\\ 0\\.1320679187350791\ \(0\)\
+\-\ sound\\:\\ 0\\.12946345306410695\ \(0\)\
+\-\ histoplasmosis\\:\\ 0\\.12385235242980426\ \(0\)\
+\-\ congestive\\:\\ 0\\.12155505089672941\ \(0\)\
+\-\ aids\\:\\ 0\\.12102064706636231\ \(0\)\
+\-\ corticosteroids\\:\\ 0\\.12050049571719008\ \(0\)\
+\-\ s2\\:\\ 0\\.10698099291550985\ \(0\)\
+\-\ testicular\\:\\ 0\\.10434447379501109\ \(0\)\
+\-\ auscultation\\:\\ 0\\.10412156257277658\ \(0\)\
+\-\ bacterial\\:\\ 0\\.10412156257277658\ \(0\)\
+\-\ viral\\:\\ 0\\.10262868513474055\ \(0\)\
+\-\ hilar\\:\\ 0\\.10202227816838802\ \(0\)\
+\-\ parenchymal\\:\\ 0\\.0999473794970955\ \(0\)\
+\-\ systemic\\:\\ 0\\.09873337316070839\ \(0\)\
+\-\ tuberculosis\\:\\ 0\\.09791027551742915\ \(0\)\
+\-\ s1\\:\\ 0\\.09712051096434104\ \(0\)\
+\-\ reactive\\:\\ 0\\.09548800180620437\ \(0\)\
+\-\ symmetric\\:\\ 0\\.09534615012898048\ \(0\)\
+\-\ lack\\:\\ 0\\.09520532266052345\ \(0\)\
+\-\ fibrosis\\:\\ 0\\.09320652544206846\ \(0\)\
+\-\ and\\:\\ 0\\.09196279215133682\ \(0\)\
+\-\ room\\:\\ 0\\.0910504592809912\ \(0\)\
+\-\ stage\\:\\ 0\\.08860254294816054\ \(0\)\
+\-\ ii\\:\\ 0\\.08772249053173932\ \(0\)\
+\-\ symptomatic\\:\\ 0\\.08555308794645204\ \(0\)\
+\-\ failure\\:\\ 0\\.08447153688765877\ \(0\)\
+\-\ emergency\\:\\ 0\\.08254645298312147\ \(0\)\
+\-\ lungs\\:\\ 0\\.08211138989743663\ \(0\)\
+\-\ metastasis\\:\\ 0\\.08154600191496636\ \(0\)\
+\-\ clear\\:\\ 0\\.0806608281857555\ \(0\)\
+\-\ reported\\:\\ 0\\.08013542215028309\ \(0\)\
+\-\ plain\\:\\ 0\\.07340677433589808\ \(0\)\
+\-\ past\\:\\ 0\\.07242239243095765\ \(0\)\
+\-\ radiographs\\:\\ 0\\.0721623283161467\ \(0\)\
+\-\ known\\:\\ 0\\.07203358514477179\ \(0\)\
+\-\ medical\\:\\ 0\\.07071073798195367\ \(0\)\
+\-\ renal\\:\\ 0\\.06928529196681954\ \(0\)\
+\-\ lung\\:\\ 0\\.0676812773640025\ \(0\)\
+\-\ cystic\\:\\ 0\\.06700864106526322\ \(0\)\
+\-\ of\\:\\ 0\\.06531978340271441\ \(0\)\
+\-\ presented\\:\\ 0\\.06488104136001896\ \(0\)\
+\-\ if\\:\\ 0\\.06464533432656647\ \(0\)\
+\-\ significant\\:\\ 0\\.06423957931498711\ \(0\)\
+\-\ chest\\:\\ 0\\.058729128839555264\ \(0\)\
+\-\ demonstrate\\:\\ 0\\.057841446044352256\ \(0\)\
+\-\ diagnosis\\:\\ 0\\.05767684996504827\ \(0\)\
+\-\ to\\:\\ 0\\.05563000132223705\ \(0\)\
+\-\ female\\:\\ 0\\.05368850476579692\ \(0\)\
+\-\ disease\\:\\ 0\\.04670336352584885\ \(0\)\
+\-\ normal\\:\\ 0\\.04542706998056503\ \(0\)\
+\-\ the\\:\\ 0\\.04440115286280115\ \(0\)\
+\-\ an\\:\\ 0\\.042545785832019144\ \(0\)\
+\-\ history\\:\\ 0\\.042508095927252965\ \(0\)\
+\-\ this\\:\\ 0\\.03823124092780363\ \(0\)\
+\-\ patient\\:\\ 0\\.03618757781485594\ \(0\)\
+\-\ for\\:\\ 0\\.03372231787971939\ \(0\)\
+\-\ with\\:\\ 0\\.02178627065257756\ \(0\)\

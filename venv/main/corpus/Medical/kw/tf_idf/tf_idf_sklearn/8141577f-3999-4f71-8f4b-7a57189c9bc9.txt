@@ -1,112 +1,109 @@
-Texto: 
-surgery
-thicken gall bladder wall with no stones.  no intrahepatic or extrahepatic duct dilation or pericholecystic fluid.  sonographic murphyâ€™s positive.  hida showed no uptake in gallbladder
-acalculous acute cholecystitis
-wall thickening differential includes acute cholecystitis, ascities, heart failure, and hypoalbuminemia.  hida false positive can be seen in patients with hyperalimentation, severe illness, and hepatocellular dysfunction.
-57 y/o male with right upper quadrant pain and history of spine surgery and opioid use.
-acute cholecystitis is associated with cholelithiasis in about 90-95% of the cases.  acalculous cholecystitis is typically seen in the setting of icu patients with chronic severe disease.   however, a small group of patients present with acalculous cholecystitis from the outpatient setting.  this group  includes children and patients who have a history of prolong fasting, diabetes or opioid use.  cholecystitis is rare in children but up to 50% of the cases are of acalculous.  biliary stasis, ischemia, inflammation and trauma are thought to contribute to these cases.
-
-treatment is surgery, which occurred in this case.  pathology confirmed diagnosis
-
-
-Keywords by value: 
-- cholecystitis: 0.43275227591350446
-- acalculous: 0.40593673821060927
-- opioid: 0.2064717118846292
-- hida: 0.19461338562512637
-- patients: 0.1683841537053753
-- cases: 0.15099324913454576
-- group: 0.14223160117640024
-- setting: 0.1391774477106342
-- children: 0.12262761047572591
-- acute: 0.12144071202442894
-- surgery: 0.1206955224627286
-- includes: 0.11637728509351182
-- use: 0.11451082018074445
-- in: 0.11169184106882905
-- ascities: 0.11057692342961477
-- thicken: 0.107649715325646
-- hypoalbuminemia: 0.107649715325646
-- hyperalimentation: 0.107649715325646
-- prolong: 0.107649715325646
-- of: 0.1025074713385585
-- fasting: 0.10148418455265232
-- positive: 0.09861841996800748
-- severe: 0.0947414133139994
-- and: 0.09277637658293394
-- wall: 0.09104006130368342
-- contribute: 0.08882420579347972
-- stasis: 0.08821395393560072
-- with: 0.08791604530993466
-- extrahepatic: 0.08602253021957973
-- gall: 0.08552745073703502
-- pericholecystic: 0.083715187787981
-- is: 0.08197095378871351
-- murphy: 0.081753623131945
-- false: 0.08070361894770729
-- icu: 0.07973146691651725
-- intrahepatic: 0.0785380946463893
-- or: 0.07809620531906014
-- hepatocellular: 0.07692979134261727
-- outpatient: 0.07667991618218442
-- illness: 0.0752730640293143
-- cholelithiasis: 0.07505258742288619
-- no: 0.07300171667356141
-- dysfunction: 0.07266088425498254
-- occurred: 0.07230146316119997
-- stones: 0.0706387280395548
-- 57: 0.0706387280395548
-- seen: 0.07045883502889423
-- biliary: 0.0695887238553171
-- diabetes: 0.0683515517138274
-- sonographic: 0.06734197298311011
-- gallbladder: 0.06686490043446477
-- dilation: 0.06585098444158667
-- ischemia: 0.06480932241933815
-- thought: 0.06461056029430766
-- duct: 0.06441476487914133
-- inflammation: 0.0601404605277868
-- the: 0.0597252864605891
-- pathology: 0.05874431358869236
-- bladder: 0.05806829262659948
-- uptake: 0.05753997763277294
-- history: 0.05717888033209995
-- failure: 0.056812564686899866
-- are: 0.05678925925277776
-- rare: 0.05648997344853524
-- to: 0.05612215365848863
-- about: 0.05602049016784005
-- confirmed: 0.05517707370648222
-- typically: 0.05253156723040385
-- quadrant: 0.05241426645519857
-- 50: 0.05225947941700448
-- heart: 0.052030670431007314
-- this: 0.05142595786223057
-- thickening: 0.05090816661884748
-- showed: 0.04984215505094455
-- spine: 0.049432674888678405
-- differential: 0.048620990293120066
-- chronic: 0.04441702417616239
-- however: 0.04429068564632154
-- trauma: 0.04345848086541052
-- fluid: 0.04320526640998225
-- who: 0.0423285389101361
-- these: 0.0422565604069924
-- upper: 0.039988060531765755
-- associated: 0.03944108797729191
-- can: 0.03926847957529618
-- diagnosis: 0.038791407026650855
-- small: 0.038599899256329326
-- present: 0.03839776814952286
-- case: 0.03759384167696478
-- have: 0.03738175257036582
-- up: 0.037015643712336496
-- but: 0.037003614321960386
-- treatment: 0.03564555970673052
-- which: 0.03402600289278516
-- male: 0.033317250756093236
-- disease: 0.031411028604070995
-- be: 0.03035559064027922
-- from: 0.029719353645621265
-- pain: 0.02677697298939643
-- right: 0.02480928298337713
+\-\ Texto\\:\\ \ \(0\)\
+\-\ surgery\ \(977\)\
+\-\ thicken\\ gall\\ bladder\\ wall\\ with\\ no\\ stones\\.\\ \\ no\\ intrahepatic\\ or\\ extrahepatic\\ duct\\ dilation\\ or\\ pericholecystic\\ fluid\\.\\ \\ sonographic\\ murphy\\â\\€\\™s\\ positive\\.\\ \\ hida\\ showed\\ no\\ uptake\\ in\\ gallbladder\ \(0\)\
+\-\ acalculous\\ acute\\ cholecystitis\ \(1\)\
+\-\ wall\\ thickening\\ differential\\ includes\\ acute\\ cholecystitis\\,\\ ascities\\,\\ heart\\ failure\\,\\ and\\ hypoalbuminemia\\.\\ \\ hida\\ false\\ positive\\ can\\ be\\ seen\\ in\\ patients\\ with\\ hyperalimentation\\,\\ severe\\ illness\\,\\ and\\ hepatocellular\\ dysfunction\\.\ \(0\)\
+\-\ 57\\ y\\/o\\ male\\ with\\ right\\ upper\\ quadrant\\ pain\\ and\\ history\\ of\\ spine\\ surgery\\ and\\ opioid\\ use\\.\ \(1\)\
+\-\ acute\\ cholecystitis\\ is\\ associated\\ with\\ cholelithiasis\\ in\\ about\\ 90\\-95\\%\\ of\\ the\\ cases\\.\\ \\ acalculous\\ cholecystitis\\ is\\ typically\\ seen\\ in\\ the\\ setting\\ of\\ icu\\ patients\\ with\\ chronic\\ severe\\ disease\\.\\ \\ \\ however\\,\\ a\\ small\\ group\\ of\\ patients\\ present\\ with\\ acalculous\\ cholecystitis\\ from\\ the\\ outpatient\\ setting\\.\\ \\ this\\ group\\ \\ includes\\ children\\ and\\ patients\\ who\\ have\\ a\\ history\\ of\\ prolong\\ fasting\\,\\ diabetes\\ or\\ opioid\\ use\\.\\ \\ cholecystitis\\ is\\ rare\\ in\\ children\\ but\\ up\\ to\\ 50\\%\\ of\\ the\\ cases\\ are\\ of\\ acalculous\\.\\ \\ biliary\\ stasis\\,\\ ischemia\\,\\ inflammation\\ and\\ trauma\\ are\\ thought\\ to\\ contribute\\ to\\ these\\ cases\\.\ \(0\)\
+\-\ treatment\\ is\\ surgery\\,\\ which\\ occurred\\ in\\ this\\ case\\.\\ \\ pathology\\ confirmed\\ diagnosis\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ cholecystitis\\:\\ 0\\.43275227591350446\ \(0\)\
+\-\ acalculous\\:\\ 0\\.40593673821060927\ \(0\)\
+\-\ opioid\\:\\ 0\\.2064717118846292\ \(0\)\
+\-\ hida\\:\\ 0\\.19461338562512637\ \(0\)\
+\-\ patients\\:\\ 0\\.1683841537053753\ \(0\)\
+\-\ cases\\:\\ 0\\.15099324913454576\ \(0\)\
+\-\ group\\:\\ 0\\.14223160117640024\ \(0\)\
+\-\ setting\\:\\ 0\\.1391774477106342\ \(0\)\
+\-\ children\\:\\ 0\\.12262761047572591\ \(0\)\
+\-\ acute\\:\\ 0\\.12144071202442894\ \(0\)\
+\-\ surgery\\:\\ 0\\.1206955224627286\ \(0\)\
+\-\ includes\\:\\ 0\\.11637728509351182\ \(0\)\
+\-\ use\\:\\ 0\\.11451082018074445\ \(0\)\
+\-\ in\\:\\ 0\\.11169184106882905\ \(0\)\
+\-\ ascities\\:\\ 0\\.11057692342961477\ \(0\)\
+\-\ thicken\\:\\ 0\\.107649715325646\ \(0\)\
+\-\ hypoalbuminemia\\:\\ 0\\.107649715325646\ \(0\)\
+\-\ hyperalimentation\\:\\ 0\\.107649715325646\ \(0\)\
+\-\ prolong\\:\\ 0\\.107649715325646\ \(0\)\
+\-\ of\\:\\ 0\\.1025074713385585\ \(0\)\
+\-\ fasting\\:\\ 0\\.10148418455265232\ \(0\)\
+\-\ positive\\:\\ 0\\.09861841996800748\ \(0\)\
+\-\ severe\\:\\ 0\\.0947414133139994\ \(0\)\
+\-\ and\\:\\ 0\\.09277637658293394\ \(0\)\
+\-\ wall\\:\\ 0\\.09104006130368342\ \(0\)\
+\-\ contribute\\:\\ 0\\.08882420579347972\ \(0\)\
+\-\ stasis\\:\\ 0\\.08821395393560072\ \(0\)\
+\-\ with\\:\\ 0\\.08791604530993466\ \(0\)\
+\-\ extrahepatic\\:\\ 0\\.08602253021957973\ \(0\)\
+\-\ gall\\:\\ 0\\.08552745073703502\ \(0\)\
+\-\ pericholecystic\\:\\ 0\\.083715187787981\ \(0\)\
+\-\ is\\:\\ 0\\.08197095378871351\ \(0\)\
+\-\ murphy\\:\\ 0\\.081753623131945\ \(0\)\
+\-\ false\\:\\ 0\\.08070361894770729\ \(0\)\
+\-\ icu\\:\\ 0\\.07973146691651725\ \(0\)\
+\-\ intrahepatic\\:\\ 0\\.0785380946463893\ \(0\)\
+\-\ or\\:\\ 0\\.07809620531906014\ \(0\)\
+\-\ hepatocellular\\:\\ 0\\.07692979134261727\ \(0\)\
+\-\ outpatient\\:\\ 0\\.07667991618218442\ \(0\)\
+\-\ illness\\:\\ 0\\.0752730640293143\ \(0\)\
+\-\ cholelithiasis\\:\\ 0\\.07505258742288619\ \(0\)\
+\-\ no\\:\\ 0\\.07300171667356141\ \(0\)\
+\-\ dysfunction\\:\\ 0\\.07266088425498254\ \(0\)\
+\-\ occurred\\:\\ 0\\.07230146316119997\ \(0\)\
+\-\ stones\\:\\ 0\\.0706387280395548\ \(0\)\
+\-\ 57\\:\\ 0\\.0706387280395548\ \(0\)\
+\-\ seen\\:\\ 0\\.07045883502889423\ \(0\)\
+\-\ biliary\\:\\ 0\\.0695887238553171\ \(0\)\
+\-\ diabetes\\:\\ 0\\.0683515517138274\ \(0\)\
+\-\ sonographic\\:\\ 0\\.06734197298311011\ \(0\)\
+\-\ gallbladder\\:\\ 0\\.06686490043446477\ \(0\)\
+\-\ dilation\\:\\ 0\\.06585098444158667\ \(0\)\
+\-\ ischemia\\:\\ 0\\.06480932241933815\ \(0\)\
+\-\ thought\\:\\ 0\\.06461056029430766\ \(0\)\
+\-\ duct\\:\\ 0\\.06441476487914133\ \(0\)\
+\-\ inflammation\\:\\ 0\\.0601404605277868\ \(0\)\
+\-\ the\\:\\ 0\\.0597252864605891\ \(0\)\
+\-\ pathology\\:\\ 0\\.05874431358869236\ \(0\)\
+\-\ bladder\\:\\ 0\\.05806829262659948\ \(0\)\
+\-\ uptake\\:\\ 0\\.05753997763277294\ \(0\)\
+\-\ history\\:\\ 0\\.05717888033209995\ \(0\)\
+\-\ failure\\:\\ 0\\.056812564686899866\ \(0\)\
+\-\ are\\:\\ 0\\.05678925925277776\ \(0\)\
+\-\ rare\\:\\ 0\\.05648997344853524\ \(0\)\
+\-\ to\\:\\ 0\\.05612215365848863\ \(0\)\
+\-\ about\\:\\ 0\\.05602049016784005\ \(0\)\
+\-\ confirmed\\:\\ 0\\.05517707370648222\ \(0\)\
+\-\ typically\\:\\ 0\\.05253156723040385\ \(0\)\
+\-\ quadrant\\:\\ 0\\.05241426645519857\ \(0\)\
+\-\ 50\\:\\ 0\\.05225947941700448\ \(0\)\
+\-\ heart\\:\\ 0\\.052030670431007314\ \(0\)\
+\-\ this\\:\\ 0\\.05142595786223057\ \(0\)\
+\-\ thickening\\:\\ 0\\.05090816661884748\ \(0\)\
+\-\ showed\\:\\ 0\\.04984215505094455\ \(0\)\
+\-\ spine\\:\\ 0\\.049432674888678405\ \(0\)\
+\-\ differential\\:\\ 0\\.048620990293120066\ \(0\)\
+\-\ chronic\\:\\ 0\\.04441702417616239\ \(0\)\
+\-\ however\\:\\ 0\\.04429068564632154\ \(0\)\
+\-\ trauma\\:\\ 0\\.04345848086541052\ \(0\)\
+\-\ fluid\\:\\ 0\\.04320526640998225\ \(0\)\
+\-\ who\\:\\ 0\\.0423285389101361\ \(0\)\
+\-\ these\\:\\ 0\\.0422565604069924\ \(0\)\
+\-\ upper\\:\\ 0\\.039988060531765755\ \(0\)\
+\-\ associated\\:\\ 0\\.03944108797729191\ \(0\)\
+\-\ can\\:\\ 0\\.03926847957529618\ \(0\)\
+\-\ diagnosis\\:\\ 0\\.038791407026650855\ \(0\)\
+\-\ small\\:\\ 0\\.038599899256329326\ \(0\)\
+\-\ present\\:\\ 0\\.03839776814952286\ \(0\)\
+\-\ case\\:\\ 0\\.03759384167696478\ \(0\)\
+\-\ have\\:\\ 0\\.03738175257036582\ \(0\)\
+\-\ up\\:\\ 0\\.037015643712336496\ \(0\)\
+\-\ but\\:\\ 0\\.037003614321960386\ \(0\)\
+\-\ treatment\\:\\ 0\\.03564555970673052\ \(0\)\
+\-\ which\\:\\ 0\\.03402600289278516\ \(0\)\
+\-\ male\\:\\ 0\\.033317250756093236\ \(0\)\
+\-\ disease\\:\\ 0\\.031411028604070995\ \(0\)\
+\-\ be\\:\\ 0\\.03035559064027922\ \(0\)\
+\-\ from\\:\\ 0\\.029719353645621265\ \(0\)\
+\-\ pain\\:\\ 0\\.02677697298939643\ \(0\)\
+\-\ right\\:\\ 0\\.02480928298337713\ \(0\)\

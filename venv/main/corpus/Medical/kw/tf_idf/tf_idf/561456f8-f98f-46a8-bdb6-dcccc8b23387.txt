@@ -1,86 +1,84 @@
-Texto: 
-physical exam normal when not seizing.
-surgical excision.
-large homogeneously enhancing lesion based in the dura of the falx, and pressing on the anterior cerebral hemisphere.  there is rightward mass effect on the falx as well as inferior displacement of the body of the corpus callosum with partial effacement of the third ventricle.  the mass looks extraaxial, but has intraaxial vasogengenic edema in frontal lobes surrounding the mass.
-meningioma
-meningioma, lymphoma, hemangioparacytoma, metastatic carcinoma, inflammatory lesions such as sarcoidosis and wegener's granulomatosis, and infections such as tuberculosis
-21 y.o. man with a new onset seizure and severe headaches.
-
-
-Keywords by value: 
-- falx: 0.09642871847752255
-- seizing: 0.0780134373802345
-- vasogengenic: 0.0780134373802345
-- hemangioparacytoma: 0.0780134373802345
-- pressing: 0.06574534568890802
-- looks: 0.0596112998432448
-- meningioma: 0.058160873211594244
-- rightward: 0.05465894773762159
-- intraaxial: 0.05026570095608273
-- wegener: 0.04821435923876127
-- dura: 0.047914345507118074
-- granulomatosis: 0.04734320815191833
-- such: 0.04728022636886464
-- extraaxial: 0.04655018019891225
-- as: 0.045754955960854084
-- homogeneously: 0.0441316551104195
-- effacement: 0.04149012423824253
-- callosum: 0.038802669248877736
-- hemisphere: 0.03849212659568066
-- corpus: 0.03725971892016289
-- tuberculosis: 0.03602288757171016
-- infections: 0.03594626754743481
-- 21: 0.03421910206715336
-- sarcoidosis: 0.03415656076429414
-- seizure: 0.03343863558896344
-- lobes: 0.033324446165636824
-- displacement: 0.03240908698644884
-- mass: 0.03155206213135127
-- excision: 0.03103761704925038
-- third: 0.03032253711637166
-- partial: 0.03024208603936943
-- headaches: 0.028906569372312195
-- based: 0.028837967807672216
-- ventricle: 0.0283397373237029
-- effect: 0.026774851797072962
-- new: 0.026352105989385474
-- inflammatory: 0.026224034904354192
-- cerebral: 0.026198641608531602
-- inferior: 0.02565766691468197
-- surrounding: 0.024859869596148366
-- body: 0.02455985586450517
-- onset: 0.023870984300222567
-- frontal: 0.02375479588038369
-- enhancing: 0.023716402945882824
-- severe: 0.02326822831916818
-- y.o: 0.021826366660059292
-- when: 0.0216577985629735
-- lymphoma: 0.021612377295482176
-- carcinoma: 0.021432988230228905
-- edema: 0.021388703446294607
-- lesions: 0.020243898286229627
-- anterior: 0.01947604268816582
-- metastatic: 0.019036366403682215
-- physical: 0.01855314397859503
-- man: 0.017884352593716808
-- well: 0.01710691108821815
-- ,: 0.01676965007629214
-- 's: 0.01667297892360217
-- exam: 0.01661268973406671
-- large: 0.016535773733018403
-- but: 0.01612834779675697
-- surgical: 0.015895767878331447
-- lesion: 0.015403143592924377
-- has: 0.014200884694639627
-- on: 0.012812230307352708
-- normal: 0.011854977474328328
-- there: 0.011254119968716714
-- the: 0.011011004976394975
-- not: 0.01092759886497288
-- in: 0.0074583580555797335
-- and: 0.006372000202910387
-- is: 0.004976024587475448
-- of: 0.004124028346831449
-- a: 0.0035097327594566484
-- .: 0.002199086306915256
-- with: 0.0020708703732723846
+\-\ Texto\\:\\ \ \(0\)\
+\-\ physical\\ exam\\ normal\\ when\\ not\\ seizing\\.\ \(0\)\
+\-\ surgical\\ excision\\.\ \(18\)\
+\-\ large\\ homogeneously\\ enhancing\\ lesion\\ based\\ in\\ the\\ dura\\ of\\ the\\ falx\\,\\ and\\ pressing\\ on\\ the\\ anterior\\ cerebral\\ hemisphere\\.\\ \\ there\\ is\\ rightward\\ mass\\ effect\\ on\\ the\\ falx\\ as\\ well\\ as\\ inferior\\ displacement\\ of\\ the\\ body\\ of\\ the\\ corpus\\ callosum\\ with\\ partial\\ effacement\\ of\\ the\\ third\\ ventricle\\.\\ \\ the\\ mass\\ looks\\ extraaxial\\,\\ but\\ has\\ intraaxial\\ vasogengenic\\ edema\\ in\\ frontal\\ lobes\\ surrounding\\ the\\ mass\\.\ \(0\)\
+\-\ meningioma\ \(167\)\
+\-\ meningioma\\,\\ lymphoma\\,\\ hemangioparacytoma\\,\\ metastatic\\ carcinoma\\,\\ inflammatory\\ lesions\\ such\\ as\\ sarcoidosis\\ and\\ wegener\\'s\\ granulomatosis\\,\\ and\\ infections\\ such\\ as\\ tuberculosis\ \(0\)\
+\-\ 21\\ y\\.o\\.\\ man\\ with\\ a\\ new\\ onset\\ seizure\\ and\\ severe\\ headaches\\.\ \(1\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ falx\\:\\ 0\\.09642871847752255\ \(0\)\
+\-\ seizing\\:\\ 0\\.0780134373802345\ \(0\)\
+\-\ vasogengenic\\:\\ 0\\.0780134373802345\ \(0\)\
+\-\ hemangioparacytoma\\:\\ 0\\.0780134373802345\ \(0\)\
+\-\ pressing\\:\\ 0\\.06574534568890802\ \(0\)\
+\-\ looks\\:\\ 0\\.0596112998432448\ \(0\)\
+\-\ meningioma\\:\\ 0\\.058160873211594244\ \(0\)\
+\-\ rightward\\:\\ 0\\.05465894773762159\ \(0\)\
+\-\ intraaxial\\:\\ 0\\.05026570095608273\ \(0\)\
+\-\ wegener\\:\\ 0\\.04821435923876127\ \(0\)\
+\-\ dura\\:\\ 0\\.047914345507118074\ \(0\)\
+\-\ granulomatosis\\:\\ 0\\.04734320815191833\ \(0\)\
+\-\ such\\:\\ 0\\.04728022636886464\ \(0\)\
+\-\ extraaxial\\:\\ 0\\.04655018019891225\ \(0\)\
+\-\ as\\:\\ 0\\.045754955960854084\ \(0\)\
+\-\ homogeneously\\:\\ 0\\.0441316551104195\ \(0\)\
+\-\ effacement\\:\\ 0\\.04149012423824253\ \(0\)\
+\-\ callosum\\:\\ 0\\.038802669248877736\ \(0\)\
+\-\ hemisphere\\:\\ 0\\.03849212659568066\ \(0\)\
+\-\ corpus\\:\\ 0\\.03725971892016289\ \(0\)\
+\-\ tuberculosis\\:\\ 0\\.03602288757171016\ \(0\)\
+\-\ infections\\:\\ 0\\.03594626754743481\ \(0\)\
+\-\ 21\\:\\ 0\\.03421910206715336\ \(0\)\
+\-\ sarcoidosis\\:\\ 0\\.03415656076429414\ \(0\)\
+\-\ seizure\\:\\ 0\\.03343863558896344\ \(0\)\
+\-\ lobes\\:\\ 0\\.033324446165636824\ \(0\)\
+\-\ displacement\\:\\ 0\\.03240908698644884\ \(0\)\
+\-\ mass\\:\\ 0\\.03155206213135127\ \(0\)\
+\-\ excision\\:\\ 0\\.03103761704925038\ \(0\)\
+\-\ third\\:\\ 0\\.03032253711637166\ \(0\)\
+\-\ partial\\:\\ 0\\.03024208603936943\ \(0\)\
+\-\ headaches\\:\\ 0\\.028906569372312195\ \(0\)\
+\-\ based\\:\\ 0\\.028837967807672216\ \(0\)\
+\-\ ventricle\\:\\ 0\\.0283397373237029\ \(0\)\
+\-\ effect\\:\\ 0\\.026774851797072962\ \(0\)\
+\-\ new\\:\\ 0\\.026352105989385474\ \(0\)\
+\-\ inflammatory\\:\\ 0\\.026224034904354192\ \(0\)\
+\-\ cerebral\\:\\ 0\\.026198641608531602\ \(0\)\
+\-\ inferior\\:\\ 0\\.02565766691468197\ \(0\)\
+\-\ surrounding\\:\\ 0\\.024859869596148366\ \(0\)\
+\-\ body\\:\\ 0\\.02455985586450517\ \(0\)\
+\-\ onset\\:\\ 0\\.023870984300222567\ \(0\)\
+\-\ frontal\\:\\ 0\\.02375479588038369\ \(0\)\
+\-\ enhancing\\:\\ 0\\.023716402945882824\ \(0\)\
+\-\ severe\\:\\ 0\\.02326822831916818\ \(0\)\
+\-\ y\\.o\\:\\ 0\\.021826366660059292\ \(0\)\
+\-\ when\\:\\ 0\\.0216577985629735\ \(0\)\
+\-\ lymphoma\\:\\ 0\\.021612377295482176\ \(0\)\
+\-\ carcinoma\\:\\ 0\\.021432988230228905\ \(0\)\
+\-\ edema\\:\\ 0\\.021388703446294607\ \(0\)\
+\-\ lesions\\:\\ 0\\.020243898286229627\ \(0\)\
+\-\ anterior\\:\\ 0\\.01947604268816582\ \(0\)\
+\-\ metastatic\\:\\ 0\\.019036366403682215\ \(0\)\
+\-\ physical\\:\\ 0\\.01855314397859503\ \(0\)\
+\-\ man\\:\\ 0\\.017884352593716808\ \(0\)\
+\-\ well\\:\\ 0\\.01710691108821815\ \(0\)\
+\-\ \\,\\:\\ 0\\.01676965007629214\ \(0\)\
+\-\ \\'s\\:\\ 0\\.01667297892360217\ \(0\)\
+\-\ exam\\:\\ 0\\.01661268973406671\ \(0\)\
+\-\ large\\:\\ 0\\.016535773733018403\ \(0\)\
+\-\ but\\:\\ 0\\.01612834779675697\ \(0\)\
+\-\ surgical\\:\\ 0\\.015895767878331447\ \(0\)\
+\-\ lesion\\:\\ 0\\.015403143592924377\ \(0\)\
+\-\ has\\:\\ 0\\.014200884694639627\ \(0\)\
+\-\ on\\:\\ 0\\.012812230307352708\ \(0\)\
+\-\ normal\\:\\ 0\\.011854977474328328\ \(0\)\
+\-\ there\\:\\ 0\\.011254119968716714\ \(0\)\
+\-\ the\\:\\ 0\\.011011004976394975\ \(0\)\
+\-\ not\\:\\ 0\\.01092759886497288\ \(0\)\
+\-\ in\\:\\ 0\\.0074583580555797335\ \(0\)\
+\-\ and\\:\\ 0\\.006372000202910387\ \(0\)\
+\-\ is\\:\\ 0\\.004976024587475448\ \(0\)\
+\-\ of\\:\\ 0\\.004124028346831449\ \(0\)\
+\-\ a\\:\\ 0\\.0035097327594566484\ \(0\)\
+\-\ \\.\\:\\ 0\\.002199086306915256\ \(0\)\
+\-\ with\\:\\ 0\\.0020708703732723846\ \(0\)\

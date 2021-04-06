@@ -1,137 +1,134 @@
-Texto: 
-wbc: 14.3
-exam: not available.
-after surgical debridement and antibiotics the patient was discharged with no permanent neurologic deficits.
-plain radiograph: usually normal early in the disease course, followed by disk space narrowing and end plate erosions developing late in the disease course.
-
-ct:  normal early with disk space narrowing, cortical bone loss, and paraspinous soft tissue mass seen only after moderately severe changes have occurred.
-mr: hyperintense disk on t2 imaging; disk and adjacent bone enhancement; soft tissue mass, epidural abscess, and meningitis.
-discitis/osteomyelitis cervical spine, epidural abscess
-pyogenic spondydiskitis
-granulomatous spondylitis
-intervertebral osteochondrosis
-cppd disease
-axial neuroarthropathy
-occasionally severe degenerative disk disease
-46 y.o. woman with a history of diskitis 2 years ago - ‚Äúsuccessfully‚Äù treated.  now she has increasing neck pain over the past 2 weeks and decreasing range of neck motion.
-this case demonstrates how extensive a diskitis/osteomyelitis can evolve with the complication of the epidural abscess tracking superiorly.  given the minor compression of the cord, the patient was fortunate she not develop cord compressive symptoms, which are a known complication with this disease process.
-
-
-Keywords by value: 
-- disk: 0.4063740003557326
-- diskitis: 0.227986398443373
-- epidural: 0.2251372068917804
-- disease: 0.17342054312131264
-- abscess: 0.15917248673917928
-- complication: 0.15009147126118694
-- the: 0.14838470544794674
-- spondydiskitis: 0.13213943480769047
-- narrowing: 0.12810622366384844
-- neuroarthropathy: 0.12626628437247905
-- cord: 0.12249703117971086
-- osteochondrosis: 0.12209921782289083
-- course: 0.12206624342761378
-- early: 0.11912105322267337
-- fortunate: 0.11886698989671857
-- paraspinous: 0.1139931992216865
-- evolve: 0.110352916952468
-- space: 0.11000100418897213
-- severe: 0.10461362192300275
-- and: 0.10244382518409217
-- neck: 0.10109111705800626
-- she: 0.09837241962235861
-- tracking: 0.09555432800094701
-- pyogenic: 0.09391276525208724
-- permanent: 0.09340446849337644
-- decreasing: 0.09291340549190787
-- cppd: 0.09153284027728398
-- debridement: 0.09027248298286875
-- intervertebral: 0.09027248298286875
-- bone: 0.09016832933186489
-- compressive: 0.08987560962938072
-- successfully: 0.08911306666317169
-- spondylitis: 0.08803961481687582
-- soft: 0.08797829483281118
-- how: 0.08736577372769577
-- tissue: 0.08668909691262258
-- moderately: 0.0833642515085768
-- superiorly: 0.08311663913277385
-- erosions: 0.08287318850710824
-- with: 0.08089753293821776
-- after: 0.08016795455832086
-- occurred: 0.07983539264458109
-- occasionally: 0.07925975512649143
-- developing: 0.07907284967837207
-- late: 0.07799939783207618
-- meningitis: 0.07782797605325954
-- minor: 0.07765855925351085
-- develop: 0.0760651994484809
-- 46: 0.07591509477616569
-- plate: 0.07576652966608326
-- granulomatous: 0.0734494463137215
-- end: 0.07271276360209995
-- deficits: 0.07101998699463219
-- discharged: 0.07091386951449712
-- degenerative: 0.07019204901326948
-- normal: 0.06747254633237922
-- neurologic: 0.06602498246368126
-- hyperintense: 0.06572631268128364
-- not: 0.06523877965316761
-- increasing: 0.06507600526300476
-- of: 0.06467938043617584
-- range: 0.06411910270348202
-- motion: 0.06405311183192422
-- extensive: 0.06366335814987638
-- mass: 0.06312303394873331
-- process: 0.061971524114151466
-- antibiotics: 0.06087365252969748
-- compression: 0.060508246490606786
-- ago: 0.060456790055486924
-- cortical: 0.05932110014773432
-- cervical: 0.05917932115689216
-- wbc: 0.05840111029163965
-- was: 0.05759303596248453
-- given: 0.05683935474881801
-- this: 0.05678462590585725
-- now: 0.05671980822772152
-- available: 0.05606040518733557
-- followed: 0.05579737643269016
-- spine: 0.0545836396202755
-- plain: 0.05451531415748799
-- radiograph: 0.05381670713578888
-- past: 0.053784265977204024
-- patient: 0.05374918571270521
-- adjacent: 0.05355918975323436
-- known: 0.0534955194474062
-- mr: 0.05346378893909125
-- usually: 0.052017101879206044
-- only: 0.051621003765690024
-- treated: 0.051454508010132356
-- years: 0.05064958031359811
-- loss: 0.05033972954164229
-- changes: 0.049936643461808365
-- weeks: 0.04952030962653706
-- axial: 0.04772864220536209
-- enhancement: 0.0475589773519225
-- t2: 0.04753790829911196
-- over: 0.045944548494082
-- symptoms: 0.04520911282057869
-- imaging: 0.04342357195429162
-- can: 0.0433603187041983
-- woman: 0.04303269634119712
-- exam: 0.04159474820004684
-- case: 0.041511180826411476
-- demonstrates: 0.041511180826411476
-- have: 0.041276991691632625
-- in: 0.0411101038948791
-- surgical: 0.040159682876162
-- seen: 0.0389003798392714
-- has: 0.03774185564357017
-- which: 0.03757156746627131
-- by: 0.0350884483958681
-- history: 0.03156850610417821
-- ct: 0.03145708269895543
-- are: 0.03135339599097801
-- pain: 0.029567176914187452
-- no: 0.026869537902103637
-- on: 0.024954937300389578
+\-\ Texto\\:\\ \ \(0\)\
+\-\ wbc\\:\\ 14\\.3\ \(0\)\
+\-\ exam\\:\\ not\\ available\\.\ \(0\)\
+\-\ after\\ surgical\\ debridement\\ and\\ antibiotics\\ the\\ patient\\ was\\ discharged\\ with\\ no\\ permanent\\ neurologic\\ deficits\\.\ \(0\)\
+\-\ plain\\ radiograph\\:\\ usually\\ normal\\ early\\ in\\ the\\ disease\\ course\\,\\ followed\\ by\\ disk\\ space\\ narrowing\\ and\\ end\\ plate\\ erosions\\ developing\\ late\\ in\\ the\\ disease\\ course\\.\ \(0\)\
+\-\ ct\\:\\ \\ normal\\ early\\ with\\ disk\\ space\\ narrowing\\,\\ cortical\\ bone\\ loss\\,\\ and\\ paraspinous\\ soft\\ tissue\\ mass\\ seen\\ only\\ after\\ moderately\\ severe\\ changes\\ have\\ occurred\\.\ \(0\)\
+\-\ mr\\:\\ hyperintense\\ disk\\ on\\ t2\\ imaging\\;\\ disk\\ and\\ adjacent\\ bone\\ enhancement\\;\\ soft\\ tissue\\ mass\\,\\ epidural\\ abscess\\,\\ and\\ meningitis\\.\ \(0\)\
+\-\ discitis\\/osteomyelitis\\ cervical\\ spine\\,\\ epidural\\ abscess\ \(0\)\
+\-\ pyogenic\\ spondydiskitis\ \(0\)\
+\-\ granulomatous\\ spondylitis\ \(0\)\
+\-\ intervertebral\\ osteochondrosis\ \(0\)\
+\-\ cppd\\ disease\ \(0\)\
+\-\ axial\\ neuroarthropathy\ \(0\)\
+\-\ occasionally\\ severe\\ degenerative\\ disk\\ disease\ \(0\)\
+\-\ 46\\ y\\.o\\.\\ woman\\ with\\ a\\ history\\ of\\ diskitis\\ 2\\ years\\ ago\\ \\-\\ \\‚\\Ä\\úsuccessfully\\‚\\Ä\\ù\\ treated\\.\\ \\ now\\ she\\ has\\ increasing\\ neck\\ pain\\ over\\ the\\ past\\ 2\\ weeks\\ and\\ decreasing\\ range\\ of\\ neck\\ motion\\.\ \(0\)\
+\-\ this\\ case\\ demonstrates\\ how\\ extensive\\ a\\ diskitis\\/osteomyelitis\\ can\\ evolve\\ with\\ the\\ complication\\ of\\ the\\ epidural\\ abscess\\ tracking\\ superiorly\\.\\ \\ given\\ the\\ minor\\ compression\\ of\\ the\\ cord\\,\\ the\\ patient\\ was\\ fortunate\\ she\\ not\\ develop\\ cord\\ compressive\\ symptoms\\,\\ which\\ are\\ a\\ known\\ complication\\ with\\ this\\ disease\\ process\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ disk\\:\\ 0\\.4063740003557326\ \(0\)\
+\-\ diskitis\\:\\ 0\\.227986398443373\ \(0\)\
+\-\ epidural\\:\\ 0\\.2251372068917804\ \(0\)\
+\-\ disease\\:\\ 0\\.17342054312131264\ \(0\)\
+\-\ abscess\\:\\ 0\\.15917248673917928\ \(0\)\
+\-\ complication\\:\\ 0\\.15009147126118694\ \(0\)\
+\-\ the\\:\\ 0\\.14838470544794674\ \(0\)\
+\-\ spondydiskitis\\:\\ 0\\.13213943480769047\ \(0\)\
+\-\ narrowing\\:\\ 0\\.12810622366384844\ \(0\)\
+\-\ neuroarthropathy\\:\\ 0\\.12626628437247905\ \(0\)\
+\-\ cord\\:\\ 0\\.12249703117971086\ \(0\)\
+\-\ osteochondrosis\\:\\ 0\\.12209921782289083\ \(0\)\
+\-\ course\\:\\ 0\\.12206624342761378\ \(0\)\
+\-\ early\\:\\ 0\\.11912105322267337\ \(0\)\
+\-\ fortunate\\:\\ 0\\.11886698989671857\ \(0\)\
+\-\ paraspinous\\:\\ 0\\.1139931992216865\ \(0\)\
+\-\ evolve\\:\\ 0\\.110352916952468\ \(0\)\
+\-\ space\\:\\ 0\\.11000100418897213\ \(0\)\
+\-\ severe\\:\\ 0\\.10461362192300275\ \(0\)\
+\-\ and\\:\\ 0\\.10244382518409217\ \(0\)\
+\-\ neck\\:\\ 0\\.10109111705800626\ \(0\)\
+\-\ she\\:\\ 0\\.09837241962235861\ \(0\)\
+\-\ tracking\\:\\ 0\\.09555432800094701\ \(0\)\
+\-\ pyogenic\\:\\ 0\\.09391276525208724\ \(0\)\
+\-\ permanent\\:\\ 0\\.09340446849337644\ \(0\)\
+\-\ decreasing\\:\\ 0\\.09291340549190787\ \(0\)\
+\-\ cppd\\:\\ 0\\.09153284027728398\ \(0\)\
+\-\ debridement\\:\\ 0\\.09027248298286875\ \(0\)\
+\-\ intervertebral\\:\\ 0\\.09027248298286875\ \(0\)\
+\-\ bone\\:\\ 0\\.09016832933186489\ \(0\)\
+\-\ compressive\\:\\ 0\\.08987560962938072\ \(0\)\
+\-\ successfully\\:\\ 0\\.08911306666317169\ \(0\)\
+\-\ spondylitis\\:\\ 0\\.08803961481687582\ \(0\)\
+\-\ soft\\:\\ 0\\.08797829483281118\ \(0\)\
+\-\ how\\:\\ 0\\.08736577372769577\ \(0\)\
+\-\ tissue\\:\\ 0\\.08668909691262258\ \(0\)\
+\-\ moderately\\:\\ 0\\.0833642515085768\ \(0\)\
+\-\ superiorly\\:\\ 0\\.08311663913277385\ \(0\)\
+\-\ erosions\\:\\ 0\\.08287318850710824\ \(0\)\
+\-\ with\\:\\ 0\\.08089753293821776\ \(0\)\
+\-\ after\\:\\ 0\\.08016795455832086\ \(0\)\
+\-\ occurred\\:\\ 0\\.07983539264458109\ \(0\)\
+\-\ occasionally\\:\\ 0\\.07925975512649143\ \(0\)\
+\-\ developing\\:\\ 0\\.07907284967837207\ \(0\)\
+\-\ late\\:\\ 0\\.07799939783207618\ \(0\)\
+\-\ meningitis\\:\\ 0\\.07782797605325954\ \(0\)\
+\-\ minor\\:\\ 0\\.07765855925351085\ \(0\)\
+\-\ develop\\:\\ 0\\.0760651994484809\ \(0\)\
+\-\ 46\\:\\ 0\\.07591509477616569\ \(0\)\
+\-\ plate\\:\\ 0\\.07576652966608326\ \(0\)\
+\-\ granulomatous\\:\\ 0\\.0734494463137215\ \(0\)\
+\-\ end\\:\\ 0\\.07271276360209995\ \(0\)\
+\-\ deficits\\:\\ 0\\.07101998699463219\ \(0\)\
+\-\ discharged\\:\\ 0\\.07091386951449712\ \(0\)\
+\-\ degenerative\\:\\ 0\\.07019204901326948\ \(0\)\
+\-\ normal\\:\\ 0\\.06747254633237922\ \(0\)\
+\-\ neurologic\\:\\ 0\\.06602498246368126\ \(0\)\
+\-\ hyperintense\\:\\ 0\\.06572631268128364\ \(0\)\
+\-\ not\\:\\ 0\\.06523877965316761\ \(0\)\
+\-\ increasing\\:\\ 0\\.06507600526300476\ \(0\)\
+\-\ of\\:\\ 0\\.06467938043617584\ \(0\)\
+\-\ range\\:\\ 0\\.06411910270348202\ \(0\)\
+\-\ motion\\:\\ 0\\.06405311183192422\ \(0\)\
+\-\ extensive\\:\\ 0\\.06366335814987638\ \(0\)\
+\-\ mass\\:\\ 0\\.06312303394873331\ \(0\)\
+\-\ process\\:\\ 0\\.061971524114151466\ \(0\)\
+\-\ antibiotics\\:\\ 0\\.06087365252969748\ \(0\)\
+\-\ compression\\:\\ 0\\.060508246490606786\ \(0\)\
+\-\ ago\\:\\ 0\\.060456790055486924\ \(0\)\
+\-\ cortical\\:\\ 0\\.05932110014773432\ \(0\)\
+\-\ cervical\\:\\ 0\\.05917932115689216\ \(0\)\
+\-\ wbc\\:\\ 0\\.05840111029163965\ \(0\)\
+\-\ was\\:\\ 0\\.05759303596248453\ \(0\)\
+\-\ given\\:\\ 0\\.05683935474881801\ \(0\)\
+\-\ this\\:\\ 0\\.05678462590585725\ \(0\)\
+\-\ now\\:\\ 0\\.05671980822772152\ \(0\)\
+\-\ available\\:\\ 0\\.05606040518733557\ \(0\)\
+\-\ followed\\:\\ 0\\.05579737643269016\ \(0\)\
+\-\ spine\\:\\ 0\\.0545836396202755\ \(0\)\
+\-\ plain\\:\\ 0\\.05451531415748799\ \(0\)\
+\-\ radiograph\\:\\ 0\\.05381670713578888\ \(0\)\
+\-\ past\\:\\ 0\\.053784265977204024\ \(0\)\
+\-\ patient\\:\\ 0\\.05374918571270521\ \(0\)\
+\-\ adjacent\\:\\ 0\\.05355918975323436\ \(0\)\
+\-\ known\\:\\ 0\\.0534955194474062\ \(0\)\
+\-\ mr\\:\\ 0\\.05346378893909125\ \(0\)\
+\-\ usually\\:\\ 0\\.052017101879206044\ \(0\)\
+\-\ only\\:\\ 0\\.051621003765690024\ \(0\)\
+\-\ treated\\:\\ 0\\.051454508010132356\ \(0\)\
+\-\ years\\:\\ 0\\.05064958031359811\ \(0\)\
+\-\ loss\\:\\ 0\\.05033972954164229\ \(0\)\
+\-\ changes\\:\\ 0\\.049936643461808365\ \(0\)\
+\-\ weeks\\:\\ 0\\.04952030962653706\ \(0\)\
+\-\ axial\\:\\ 0\\.04772864220536209\ \(0\)\
+\-\ enhancement\\:\\ 0\\.0475589773519225\ \(0\)\
+\-\ t2\\:\\ 0\\.04753790829911196\ \(0\)\
+\-\ over\\:\\ 0\\.045944548494082\ \(0\)\
+\-\ symptoms\\:\\ 0\\.04520911282057869\ \(0\)\
+\-\ imaging\\:\\ 0\\.04342357195429162\ \(0\)\
+\-\ can\\:\\ 0\\.0433603187041983\ \(0\)\
+\-\ woman\\:\\ 0\\.04303269634119712\ \(0\)\
+\-\ exam\\:\\ 0\\.04159474820004684\ \(0\)\
+\-\ case\\:\\ 0\\.041511180826411476\ \(0\)\
+\-\ demonstrates\\:\\ 0\\.041511180826411476\ \(0\)\
+\-\ have\\:\\ 0\\.041276991691632625\ \(0\)\
+\-\ in\\:\\ 0\\.0411101038948791\ \(0\)\
+\-\ surgical\\:\\ 0\\.040159682876162\ \(0\)\
+\-\ seen\\:\\ 0\\.0389003798392714\ \(0\)\
+\-\ has\\:\\ 0\\.03774185564357017\ \(0\)\
+\-\ which\\:\\ 0\\.03757156746627131\ \(0\)\
+\-\ by\\:\\ 0\\.0350884483958681\ \(0\)\
+\-\ history\\:\\ 0\\.03156850610417821\ \(0\)\
+\-\ ct\\:\\ 0\\.03145708269895543\ \(0\)\
+\-\ are\\:\\ 0\\.03135339599097801\ \(0\)\
+\-\ pain\\:\\ 0\\.029567176914187452\ \(0\)\
+\-\ no\\:\\ 0\\.026869537902103637\ \(0\)\
+\-\ on\\:\\ 0\\.024954937300389578\ \(0\)\

@@ -1,63 +1,61 @@
-Texto: 
-proteinuria
-ct:  enlargement of the left internal pelvic musculature w/ mild sclerosis of the adjacent acetabulum
-probable metastatic rhabdomyosarcoma
-<li> metastatic rhabdomyosarcoma
-<li> other sarcoma, ie ewings
-<li> hematoma
-remote hx of bladder rhabdomyosarcoma.  now with 2months of pelvic pain , possible tumor recurrence  s/p chemo & xrt 5 yrs ago
-metastatic/recurrent rhabdomyosarcoma is by far the most likely diagnosis in this patient with a history of bladder rhabdomyosarcoma.  less likely considerations would include primary ewings sarcoma.
-
-
-Keywords by value: 
-- rhabdomyosarcoma: 0.5683691092142477
-- li: 0.31953751495468147
-- ewings: 0.27499568095603927
-- sarcoma: 0.18846058687892084
-- metastatic: 0.1848218537376028
-- pelvic: 0.17561561931153566
-- bladder: 0.1743362180404674
-- 2months: 0.1716554470928736
-- proteinuria: 0.14278047056438453
-- chemo: 0.1413211431000155
-- likely: 0.13425104235301755
-- xrt: 0.12913107916904473
-- ie: 0.12838790005431439
-- yrs: 0.12504226363545418
-- acetabulum: 0.123277629136402
-- musculature: 0.12218335266891343
-- probable: 0.11625401849890679
-- remote: 0.11625401849890679
-- considerations: 0.11625401849890679
-- far: 0.11437717908500553
-- of: 0.10991223846531568
-- hx: 0.10221467556340022
-- recurrence: 0.09274340556572594
-- enlargement: 0.08611762480788132
-- ago: 0.08218929842079466
-- sclerosis: 0.08001008209784277
-- would: 0.07951621522799557
-- hematoma: 0.07862232912127606
-- now: 0.07710897718055999
-- less: 0.07641982254217668
-- possible: 0.07610970732549498
-- internal: 0.07570367419253798
-- adjacent: 0.07281220563917504
-- primary: 0.06907071839024265
-- the: 0.06724160526303122
-- include: 0.06683521750200071
-- mild: 0.06367657871676524
-- tumor: 0.058755010812924315
-- most: 0.05845983748122782
-- other: 0.058334676619552724
-- diagnosis: 0.05823098017520232
-- by: 0.04770175448752462
-- with: 0.043991164400643226
-- history: 0.042916492366096126
-- ct: 0.042765015393956
-- pain: 0.04019574186175357
-- this: 0.03859854749157422
-- left: 0.038318149972288024
-- patient: 0.03653524988972937
-- is: 0.030762283137433226
-- in: 0.027944012525516464
+\-\ Texto\\:\\ \ \(0\)\
+\-\ proteinuria\ \(17\)\
+\-\ ct\\:\\ \\ enlargement\\ of\\ the\\ left\\ internal\\ pelvic\\ musculature\\ w\\/\\ mild\\ sclerosis\\ of\\ the\\ adjacent\\ acetabulum\ \(0\)\
+\-\ probable\\ metastatic\\ rhabdomyosarcoma\ \(0\)\
+\-\ \\<li\\>\\ metastatic\\ rhabdomyosarcoma\ \(0\)\
+\-\ \\<li\\>\\ other\\ sarcoma\\,\\ ie\\ ewings\ \(0\)\
+\-\ \\<li\\>\\ hematoma\ \(1\)\
+\-\ remote\\ hx\\ of\\ bladder\\ rhabdomyosarcoma\\.\\ \\ now\\ with\\ 2months\\ of\\ pelvic\\ pain\\ \\,\\ possible\\ tumor\\ recurrence\\ \\ s\\/p\\ chemo\\ \\&\\ xrt\\ 5\\ yrs\\ ago\ \(0\)\
+\-\ metastatic\\/recurrent\\ rhabdomyosarcoma\\ is\\ by\\ far\\ the\\ most\\ likely\\ diagnosis\\ in\\ this\\ patient\\ with\\ a\\ history\\ of\\ bladder\\ rhabdomyosarcoma\\.\\ \\ less\\ likely\\ considerations\\ would\\ include\\ primary\\ ewings\\ sarcoma\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ rhabdomyosarcoma\\:\\ 0\\.5683691092142477\ \(0\)\
+\-\ li\\:\\ 0\\.31953751495468147\ \(0\)\
+\-\ ewings\\:\\ 0\\.27499568095603927\ \(0\)\
+\-\ sarcoma\\:\\ 0\\.18846058687892084\ \(0\)\
+\-\ metastatic\\:\\ 0\\.1848218537376028\ \(0\)\
+\-\ pelvic\\:\\ 0\\.17561561931153566\ \(0\)\
+\-\ bladder\\:\\ 0\\.1743362180404674\ \(0\)\
+\-\ 2months\\:\\ 0\\.1716554470928736\ \(0\)\
+\-\ proteinuria\\:\\ 0\\.14278047056438453\ \(0\)\
+\-\ chemo\\:\\ 0\\.1413211431000155\ \(0\)\
+\-\ likely\\:\\ 0\\.13425104235301755\ \(0\)\
+\-\ xrt\\:\\ 0\\.12913107916904473\ \(0\)\
+\-\ ie\\:\\ 0\\.12838790005431439\ \(0\)\
+\-\ yrs\\:\\ 0\\.12504226363545418\ \(0\)\
+\-\ acetabulum\\:\\ 0\\.123277629136402\ \(0\)\
+\-\ musculature\\:\\ 0\\.12218335266891343\ \(0\)\
+\-\ probable\\:\\ 0\\.11625401849890679\ \(0\)\
+\-\ remote\\:\\ 0\\.11625401849890679\ \(0\)\
+\-\ considerations\\:\\ 0\\.11625401849890679\ \(0\)\
+\-\ far\\:\\ 0\\.11437717908500553\ \(0\)\
+\-\ of\\:\\ 0\\.10991223846531568\ \(0\)\
+\-\ hx\\:\\ 0\\.10221467556340022\ \(0\)\
+\-\ recurrence\\:\\ 0\\.09274340556572594\ \(0\)\
+\-\ enlargement\\:\\ 0\\.08611762480788132\ \(0\)\
+\-\ ago\\:\\ 0\\.08218929842079466\ \(0\)\
+\-\ sclerosis\\:\\ 0\\.08001008209784277\ \(0\)\
+\-\ would\\:\\ 0\\.07951621522799557\ \(0\)\
+\-\ hematoma\\:\\ 0\\.07862232912127606\ \(0\)\
+\-\ now\\:\\ 0\\.07710897718055999\ \(0\)\
+\-\ less\\:\\ 0\\.07641982254217668\ \(0\)\
+\-\ possible\\:\\ 0\\.07610970732549498\ \(0\)\
+\-\ internal\\:\\ 0\\.07570367419253798\ \(0\)\
+\-\ adjacent\\:\\ 0\\.07281220563917504\ \(0\)\
+\-\ primary\\:\\ 0\\.06907071839024265\ \(0\)\
+\-\ the\\:\\ 0\\.06724160526303122\ \(0\)\
+\-\ include\\:\\ 0\\.06683521750200071\ \(0\)\
+\-\ mild\\:\\ 0\\.06367657871676524\ \(0\)\
+\-\ tumor\\:\\ 0\\.058755010812924315\ \(0\)\
+\-\ most\\:\\ 0\\.05845983748122782\ \(0\)\
+\-\ other\\:\\ 0\\.058334676619552724\ \(0\)\
+\-\ diagnosis\\:\\ 0\\.05823098017520232\ \(0\)\
+\-\ by\\:\\ 0\\.04770175448752462\ \(0\)\
+\-\ with\\:\\ 0\\.043991164400643226\ \(0\)\
+\-\ history\\:\\ 0\\.042916492366096126\ \(0\)\
+\-\ ct\\:\\ 0\\.042765015393956\ \(0\)\
+\-\ pain\\:\\ 0\\.04019574186175357\ \(0\)\
+\-\ this\\:\\ 0\\.03859854749157422\ \(0\)\
+\-\ left\\:\\ 0\\.038318149972288024\ \(0\)\
+\-\ patient\\:\\ 0\\.03653524988972937\ \(0\)\
+\-\ is\\:\\ 0\\.030762283137433226\ \(0\)\
+\-\ in\\:\\ 0\\.027944012525516464\ \(0\)\

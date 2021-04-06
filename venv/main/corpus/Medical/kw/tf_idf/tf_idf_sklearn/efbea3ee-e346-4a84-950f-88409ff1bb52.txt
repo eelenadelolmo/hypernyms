@@ -1,103 +1,99 @@
-Texto: 
-this resulted in fetal demise
-a thin soft tissue web is seen in the amnionitic cavity along the posterior aspect of the skull and cervical spine.  closer inspection demonstrates that this is a markedly dilated cystic structure arising from the back of the neck.  evaluation of the rest of the fetus demonstrates pleural effusions, ascites and marked skin thickening over the extremities.
-cystic hygroma (turner's syndrome)
-hydrops - immune vs non-immune with asymmetrical thickening of the neck soft tissues
-
-massive cystic hygroma and hydrops - more often associated with turner's syndrome
-
-nuchal fold thickening and hydrops - down syndrome with the fetus developing failure / hydrops
-pt with an uncomplicated pregnancy presenting for second trimester anatomic screening obstetrical ultrasound
-hydrops in general, irrespective of karyotype being normal or abnormal or the perceived severity of the anomalies identified, is a poor prognostic indicator for a fetus.
-
-
-Keywords by value: 
-- hydrops: 0.5379027513054656
-- fetus: 0.25271852949868095
-- hygroma: 0.19719941773721128
-- turner: 0.19719941773721128
-- the: 0.19287583513291467
-- immune: 0.17933562807771003
-- thickening: 0.16440197667657913
-- syndrome: 0.14568452405227242
-- cystic: 0.14554067601037743
-- amnionitic: 0.12881973128018212
-- irrespective: 0.11903175196985034
-- perceived: 0.11588072643767833
-- obstetrical: 0.11330615111547174
-- karyotype: 0.111129378696656
-- of: 0.1103453010355684
-- demise: 0.10758055026109312
-- nuchal: 0.10609274712734655
-- asymmetrical: 0.10474686548178447
-- indicator: 0.10474686548178447
-- closer: 0.09859970886860564
-- neck: 0.09855143207762453
-- prognostic: 0.09433117975562393
-- fold: 0.09315374228484274
-- inspection: 0.09259990387988716
-- trimester: 0.09206697009638273
-- web: 0.08687430302550854
-- soft: 0.08576803976303807
-- ascites: 0.08308612870389524
-- massive: 0.08281192456955538
-- resulted: 0.08201988132894888
-- uncomplicated: 0.08176544076566067
-- demonstrates: 0.08093661316114778
-- severity: 0.0794453060067423
-- developing: 0.07708632371517678
-- anomalies: 0.07690643505048865
-- effusions: 0.07538292755078914
-- fetal: 0.07475522113496036
-- anatomic: 0.07475522113496036
-- markedly: 0.07112137697474773
-- rest: 0.06965732669641052
-- structure: 0.06882643592315686
-- poor: 0.0679466384744318
-- and: 0.06658010432053428
-- cavity: 0.0665063011642385
-- is: 0.06617890472183986
-- pregnancy: 0.06591958481844368
-- down: 0.0654353864386592
-- screening: 0.0654353864386592
-- skull: 0.06535627660031683
-- general: 0.0646635512122301
-- arising: 0.06400322507939822
-- tissues: 0.06351017008323169
-- presenting: 0.06310083506877825
-- with: 0.0630921327580819
-- thin: 0.06270303216538739
-- vs: 0.06145256351262961
-- extremities: 0.061215229031640825
-- failure: 0.061156513482550086
-- marked: 0.0609240626499625
-- pleural: 0.06063877882167538
-- second: 0.06030387610785969
-- in: 0.06011595869559238
-- skin: 0.059922937845887606
-- pt: 0.057970375451860776
-- cervical: 0.057692574967263
-- dilated: 0.057692574967263
-- identified: 0.05710879104162436
-- being: 0.0561316055081119
-- or: 0.0560450158616925
-- this: 0.0553580410017954
-- along: 0.05396656642541896
-- back: 0.053722190772899914
-- spine: 0.05321234950347286
-- often: 0.052559990123580834
-- aspect: 0.05196697411288439
-- ultrasound: 0.04968579405235622
-- evaluation: 0.04912495586079841
-- for: 0.04882921429064717
-- abnormal: 0.048394392821912144
-- over: 0.044790295943149296
-- more: 0.044231508110985376
-- associated: 0.04245679528715038
-- tissue: 0.042255615007957395
-- posterior: 0.041653987524567185
-- seen: 0.03792309604536245
-- that: 0.03495642426479599
-- normal: 0.032888725837129394
-- from: 0.031991726864254846
-- an: 0.03080270610350065
+\-\ Texto\\:\\ \ \(0\)\
+\-\ this\\ resulted\\ in\\ fetal\\ demise\ \(0\)\
+\-\ a\\ thin\\ soft\\ tissue\\ web\\ is\\ seen\\ in\\ the\\ amnionitic\\ cavity\\ along\\ the\\ posterior\\ aspect\\ of\\ the\\ skull\\ and\\ cervical\\ spine\\.\\ \\ closer\\ inspection\\ demonstrates\\ that\\ this\\ is\\ a\\ markedly\\ dilated\\ cystic\\ structure\\ arising\\ from\\ the\\ back\\ of\\ the\\ neck\\.\\ \\ evaluation\\ of\\ the\\ rest\\ of\\ the\\ fetus\\ demonstrates\\ pleural\\ effusions\\,\\ ascites\\ and\\ marked\\ skin\\ thickening\\ over\\ the\\ extremities\\.\ \(0\)\
+\-\ cystic\\ hygroma\\ \\(turner\\'s\\ syndrome\\)\ \(0\)\
+\-\ hydrops\\ \\-\\ immune\\ vs\\ non\\-immune\\ with\\ asymmetrical\\ thickening\\ of\\ the\\ neck\\ soft\\ tissues\ \(0\)\
+\-\ massive\\ cystic\\ hygroma\\ and\\ hydrops\\ \\-\\ more\\ often\\ associated\\ with\\ turner\\'s\\ syndrome\ \(0\)\
+\-\ nuchal\\ fold\\ thickening\\ and\\ hydrops\\ \\-\\ down\\ syndrome\\ with\\ the\\ fetus\\ developing\\ failure\\ \\/\\ hydrops\ \(0\)\
+\-\ pt\\ with\\ an\\ uncomplicated\\ pregnancy\\ presenting\\ for\\ second\\ trimester\\ anatomic\\ screening\\ obstetrical\\ ultrasound\ \(0\)\
+\-\ hydrops\\ in\\ general\\,\\ irrespective\\ of\\ karyotype\\ being\\ normal\\ or\\ abnormal\\ or\\ the\\ perceived\\ severity\\ of\\ the\\ anomalies\\ identified\\,\\ is\\ a\\ poor\\ prognostic\\ indicator\\ for\\ a\\ fetus\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ hydrops\\:\\ 0\\.5379027513054656\ \(0\)\
+\-\ fetus\\:\\ 0\\.25271852949868095\ \(0\)\
+\-\ hygroma\\:\\ 0\\.19719941773721128\ \(0\)\
+\-\ turner\\:\\ 0\\.19719941773721128\ \(0\)\
+\-\ the\\:\\ 0\\.19287583513291467\ \(0\)\
+\-\ immune\\:\\ 0\\.17933562807771003\ \(0\)\
+\-\ thickening\\:\\ 0\\.16440197667657913\ \(0\)\
+\-\ syndrome\\:\\ 0\\.14568452405227242\ \(0\)\
+\-\ cystic\\:\\ 0\\.14554067601037743\ \(0\)\
+\-\ amnionitic\\:\\ 0\\.12881973128018212\ \(0\)\
+\-\ irrespective\\:\\ 0\\.11903175196985034\ \(0\)\
+\-\ perceived\\:\\ 0\\.11588072643767833\ \(0\)\
+\-\ obstetrical\\:\\ 0\\.11330615111547174\ \(0\)\
+\-\ karyotype\\:\\ 0\\.111129378696656\ \(0\)\
+\-\ of\\:\\ 0\\.1103453010355684\ \(0\)\
+\-\ demise\\:\\ 0\\.10758055026109312\ \(0\)\
+\-\ nuchal\\:\\ 0\\.10609274712734655\ \(0\)\
+\-\ asymmetrical\\:\\ 0\\.10474686548178447\ \(0\)\
+\-\ indicator\\:\\ 0\\.10474686548178447\ \(0\)\
+\-\ closer\\:\\ 0\\.09859970886860564\ \(0\)\
+\-\ neck\\:\\ 0\\.09855143207762453\ \(0\)\
+\-\ prognostic\\:\\ 0\\.09433117975562393\ \(0\)\
+\-\ fold\\:\\ 0\\.09315374228484274\ \(0\)\
+\-\ inspection\\:\\ 0\\.09259990387988716\ \(0\)\
+\-\ trimester\\:\\ 0\\.09206697009638273\ \(0\)\
+\-\ web\\:\\ 0\\.08687430302550854\ \(0\)\
+\-\ soft\\:\\ 0\\.08576803976303807\ \(0\)\
+\-\ ascites\\:\\ 0\\.08308612870389524\ \(0\)\
+\-\ massive\\:\\ 0\\.08281192456955538\ \(0\)\
+\-\ resulted\\:\\ 0\\.08201988132894888\ \(0\)\
+\-\ uncomplicated\\:\\ 0\\.08176544076566067\ \(0\)\
+\-\ demonstrates\\:\\ 0\\.08093661316114778\ \(0\)\
+\-\ severity\\:\\ 0\\.0794453060067423\ \(0\)\
+\-\ developing\\:\\ 0\\.07708632371517678\ \(0\)\
+\-\ anomalies\\:\\ 0\\.07690643505048865\ \(0\)\
+\-\ effusions\\:\\ 0\\.07538292755078914\ \(0\)\
+\-\ fetal\\:\\ 0\\.07475522113496036\ \(0\)\
+\-\ anatomic\\:\\ 0\\.07475522113496036\ \(0\)\
+\-\ markedly\\:\\ 0\\.07112137697474773\ \(0\)\
+\-\ rest\\:\\ 0\\.06965732669641052\ \(0\)\
+\-\ structure\\:\\ 0\\.06882643592315686\ \(0\)\
+\-\ poor\\:\\ 0\\.0679466384744318\ \(0\)\
+\-\ and\\:\\ 0\\.06658010432053428\ \(0\)\
+\-\ cavity\\:\\ 0\\.0665063011642385\ \(0\)\
+\-\ is\\:\\ 0\\.06617890472183986\ \(0\)\
+\-\ pregnancy\\:\\ 0\\.06591958481844368\ \(0\)\
+\-\ down\\:\\ 0\\.0654353864386592\ \(0\)\
+\-\ screening\\:\\ 0\\.0654353864386592\ \(0\)\
+\-\ skull\\:\\ 0\\.06535627660031683\ \(0\)\
+\-\ general\\:\\ 0\\.0646635512122301\ \(0\)\
+\-\ arising\\:\\ 0\\.06400322507939822\ \(0\)\
+\-\ tissues\\:\\ 0\\.06351017008323169\ \(0\)\
+\-\ presenting\\:\\ 0\\.06310083506877825\ \(0\)\
+\-\ with\\:\\ 0\\.0630921327580819\ \(0\)\
+\-\ thin\\:\\ 0\\.06270303216538739\ \(0\)\
+\-\ vs\\:\\ 0\\.06145256351262961\ \(0\)\
+\-\ extremities\\:\\ 0\\.061215229031640825\ \(0\)\
+\-\ failure\\:\\ 0\\.061156513482550086\ \(0\)\
+\-\ marked\\:\\ 0\\.0609240626499625\ \(0\)\
+\-\ pleural\\:\\ 0\\.06063877882167538\ \(0\)\
+\-\ second\\:\\ 0\\.06030387610785969\ \(0\)\
+\-\ in\\:\\ 0\\.06011595869559238\ \(0\)\
+\-\ skin\\:\\ 0\\.059922937845887606\ \(0\)\
+\-\ pt\\:\\ 0\\.057970375451860776\ \(0\)\
+\-\ cervical\\:\\ 0\\.057692574967263\ \(0\)\
+\-\ dilated\\:\\ 0\\.057692574967263\ \(0\)\
+\-\ identified\\:\\ 0\\.05710879104162436\ \(0\)\
+\-\ being\\:\\ 0\\.0561316055081119\ \(0\)\
+\-\ or\\:\\ 0\\.0560450158616925\ \(0\)\
+\-\ this\\:\\ 0\\.0553580410017954\ \(0\)\
+\-\ along\\:\\ 0\\.05396656642541896\ \(0\)\
+\-\ back\\:\\ 0\\.053722190772899914\ \(0\)\
+\-\ spine\\:\\ 0\\.05321234950347286\ \(0\)\
+\-\ often\\:\\ 0\\.052559990123580834\ \(0\)\
+\-\ aspect\\:\\ 0\\.05196697411288439\ \(0\)\
+\-\ ultrasound\\:\\ 0\\.04968579405235622\ \(0\)\
+\-\ evaluation\\:\\ 0\\.04912495586079841\ \(0\)\
+\-\ for\\:\\ 0\\.04882921429064717\ \(0\)\
+\-\ abnormal\\:\\ 0\\.048394392821912144\ \(0\)\
+\-\ over\\:\\ 0\\.044790295943149296\ \(0\)\
+\-\ more\\:\\ 0\\.044231508110985376\ \(0\)\
+\-\ associated\\:\\ 0\\.04245679528715038\ \(0\)\
+\-\ tissue\\:\\ 0\\.042255615007957395\ \(0\)\
+\-\ posterior\\:\\ 0\\.041653987524567185\ \(0\)\
+\-\ seen\\:\\ 0\\.03792309604536245\ \(0\)\
+\-\ that\\:\\ 0\\.03495642426479599\ \(0\)\
+\-\ normal\\:\\ 0\\.032888725837129394\ \(0\)\
+\-\ from\\:\\ 0\\.031991726864254846\ \(0\)\
+\-\ an\\:\\ 0\\.03080270610350065\ \(0\)\

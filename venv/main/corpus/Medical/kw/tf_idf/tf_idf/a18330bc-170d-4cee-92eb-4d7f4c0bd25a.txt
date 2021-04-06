@@ -1,58 +1,56 @@
-Texto: 
-unknown
-unknown
-sonographic evaluation of the kidneys demonstrate increased echogenicity of the medullary pyramids.
-medullary nephrocalcinosis
--hyperparathyroidism 
--medullary sponge kidney 
--renal tubular acidosis 
--milk-alkali syndrome 
--hyperthyroidism 
--hypothyroidism 
--sarcoidosis 
--furosemide therapy 
--vitamin d therapy 
--rickets
-27 y/o female with history of "severe nephrolithiasis."
-
-
-Keywords by value: 
-- -milk-alkali: 0.19164170486883692
-- -furosemide: 0.19164170486883692
-- -vitamin: 0.19164170486883692
-- -rickets: 0.19164170486883692
-- medullary: 0.1785212270719202
-- -hyperthyroidism: 0.17657328790014246
-- -sarcoidosis: 0.17657328790014246
-- -hyperparathyroidism: 0.16775882902822584
-- -hypothyroidism: 0.16775882902822584
-- -medullary: 0.15665392416374777
-- unknown: 0.14499476089671767
-- -renal: 0.14387595318761473
-- pyramids: 0.13427089335546172
-- nephrocalcinosis: 0.1300501104328322
-- sponge: 0.1300501104328322
-- acidosis: 0.11999307734700368
-- nephrolithiasis: 0.10937671282713558
-- echogenicity: 0.09991327649544329
-- therapy: 0.09933220853220057
-- d: 0.09264438113839038
-- sonographic: 0.09005846933705634
-- tubular: 0.08650514167423957
-- 27: 0.08616278608797567
-- kidneys: 0.0854938369865245
-- kidney: 0.06544311858804369
-- severe: 0.05715890869708705
-- evaluation: 0.05396171295275669
-- syndrome: 0.05312840384205742
-- y/o: 0.05144845716999218
-- ``: 0.04565510951373515
-- increased: 0.045445321343470776
-- '': 0.044777163086570496
-- demonstrate: 0.042748959594196535
-- female: 0.038190440683648554
-- history: 0.02565683777624094
-- of: 0.007598073965086201
-- the: 0.006010838465375035
-- with: 0.0025435690454323856
-- .: 0.0015434580911889684
+\-\ Texto\\:\\ \ \(0\)\
+\-\ unknown\ \(157\)\
+\-\ unknown\ \(157\)\
+\-\ sonographic\\ evaluation\\ of\\ the\\ kidneys\\ demonstrate\\ increased\\ echogenicity\\ of\\ the\\ medullary\\ pyramids\\.\ \(0\)\
+\-\ medullary\\ nephrocalcinosis\ \(9\)\
+\-\ hyperparathyroidism\\ \ \(11\)\
+\-\ medullary\\ sponge\\ kidney\\ \ \(1\)\
+\-\ renal\\ tubular\\ acidosis\\ \ \(2\)\
+\-\ milk\\-alkali\\ syndrome\\ \ \(0\)\
+\-\ hyperthyroidism\\ \ \(14\)\
+\-\ hypothyroidism\\ \ \(13\)\
+\-\ sarcoidosis\\ \ \(52\)\
+\-\ furosemide\\ therapy\\ \ \(0\)\
+\-\ vitamin\\ d\\ therapy\\ \ \(0\)\
+\-\ rickets\ \(46\)\
+\-\ 27\\ y\\/o\\ female\\ with\\ history\\ of\\ \\"severe\\ nephrolithiasis\\.\\"\ \(1\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ \\-milk\\-alkali\\:\\ 0\\.19164170486883692\ \(0\)\
+\-\ \\-furosemide\\:\\ 0\\.19164170486883692\ \(0\)\
+\-\ \\-vitamin\\:\\ 0\\.19164170486883692\ \(0\)\
+\-\ \\-rickets\\:\\ 0\\.19164170486883692\ \(0\)\
+\-\ medullary\\:\\ 0\\.1785212270719202\ \(0\)\
+\-\ \\-hyperthyroidism\\:\\ 0\\.17657328790014246\ \(0\)\
+\-\ \\-sarcoidosis\\:\\ 0\\.17657328790014246\ \(0\)\
+\-\ \\-hyperparathyroidism\\:\\ 0\\.16775882902822584\ \(0\)\
+\-\ \\-hypothyroidism\\:\\ 0\\.16775882902822584\ \(0\)\
+\-\ \\-medullary\\:\\ 0\\.15665392416374777\ \(0\)\
+\-\ unknown\\:\\ 0\\.14499476089671767\ \(0\)\
+\-\ \\-renal\\:\\ 0\\.14387595318761473\ \(0\)\
+\-\ pyramids\\:\\ 0\\.13427089335546172\ \(0\)\
+\-\ nephrocalcinosis\\:\\ 0\\.1300501104328322\ \(0\)\
+\-\ sponge\\:\\ 0\\.1300501104328322\ \(0\)\
+\-\ acidosis\\:\\ 0\\.11999307734700368\ \(0\)\
+\-\ nephrolithiasis\\:\\ 0\\.10937671282713558\ \(0\)\
+\-\ echogenicity\\:\\ 0\\.09991327649544329\ \(0\)\
+\-\ therapy\\:\\ 0\\.09933220853220057\ \(0\)\
+\-\ d\\:\\ 0\\.09264438113839038\ \(0\)\
+\-\ sonographic\\:\\ 0\\.09005846933705634\ \(0\)\
+\-\ tubular\\:\\ 0\\.08650514167423957\ \(0\)\
+\-\ 27\\:\\ 0\\.08616278608797567\ \(0\)\
+\-\ kidneys\\:\\ 0\\.0854938369865245\ \(0\)\
+\-\ kidney\\:\\ 0\\.06544311858804369\ \(0\)\
+\-\ severe\\:\\ 0\\.05715890869708705\ \(0\)\
+\-\ evaluation\\:\\ 0\\.05396171295275669\ \(0\)\
+\-\ syndrome\\:\\ 0\\.05312840384205742\ \(0\)\
+\-\ y\\/o\\:\\ 0\\.05144845716999218\ \(0\)\
+\-\ \\`\\`\\:\\ 0\\.04565510951373515\ \(0\)\
+\-\ increased\\:\\ 0\\.045445321343470776\ \(0\)\
+\-\ \\'\\'\\:\\ 0\\.044777163086570496\ \(0\)\
+\-\ demonstrate\\:\\ 0\\.042748959594196535\ \(0\)\
+\-\ female\\:\\ 0\\.038190440683648554\ \(0\)\
+\-\ history\\:\\ 0\\.02565683777624094\ \(0\)\
+\-\ of\\:\\ 0\\.007598073965086201\ \(0\)\
+\-\ the\\:\\ 0\\.006010838465375035\ \(0\)\
+\-\ with\\:\\ 0\\.0025435690454323856\ \(0\)\
+\-\ \\.\\:\\ 0\\.0015434580911889684\ \(0\)\

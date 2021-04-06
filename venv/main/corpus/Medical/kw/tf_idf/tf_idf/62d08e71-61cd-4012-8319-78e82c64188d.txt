@@ -1,92 +1,90 @@
-Texto: 
-varus deformity of the right lower extremity.
-the patient was referred to orthopedic surgery for further care. after worsening despite conservative management with bracing, the patient underwent corrective tibial osteotomy.
-standing plain frontal radiograph of the bilateral knees demonstrates varus angulation of the right knee.  there is depression and irregularity of the medial right tibia.  the medial tibial physis is poorly defined.  additionally, beaking of the metaphysis is noted and the metaphyseal-diaphyseal angle is abnormally widened at 22 degrees.
-blount's disease
-physiological bowing of the legs
-osteogenesis imperfecta
-trauma
-infection
-rickets
-7 yo female with chronic history of right knee pain. denies any history of trauma.
-
-
-Keywords by value: 
-- varus: 0.09627159674639574
-- metaphyseal-diaphyseal: 0.07470778325395337
-- tibial: 0.06691498260187993
-- blount: 0.06295952595632719
-- bracing: 0.05821701927890834
-- corrective: 0.05519435026247841
-- physiological: 0.05519435026247841
-- osteotomy: 0.05364925232354659
-- beaking: 0.05364925232354659
-- knee: 0.05251679190780129
-- osteogenesis: 0.04851250822549307
-- imperfecta: 0.04851250822549307
-- bowing: 0.04646876198128215
-- medial: 0.04632711039983139
-- rickets: 0.045606196775265694
-- physis: 0.04366065065963434
-- widened: 0.04303261699731466
-- depression: 0.042261669724384776
-- knees: 0.04207941374793593
-- angulation: 0.04207941374793593
-- abnormally: 0.03986986915078972
-- trauma: 0.03961031833488015
-- legs: 0.03920223459271248
-- irregularity: 0.03870358628743338
-- standing: 0.03858337751631511
-- degrees: 0.03676425092786688
-- metaphysis: 0.03602686637710731
-- poorly: 0.03534853834597564
-- orthopedic: 0.03457050826755934
-- angle: 0.03399574050197662
-- despite: 0.03365535031786362
-- tibia: 0.033264146574108006
-- 22: 0.03230145862729694
-- additionally: 0.031385852844152164
-- deformity: 0.031184067685730815
-- right: 0.03056378674950565
-- denies: 0.03055959551800913
-- defined: 0.03051341242675858
-- conservative: 0.02892238171266287
-- worsening: 0.028512542122040657
-- 7: 0.027747922701763322
-- referred: 0.027326537656403742
-- management: 0.027326537656403742
-- extremity: 0.02648439804781727
-- care: 0.02612014531414197
-- underwent: 0.024849118944730672
-- plain: 0.0235191840058397
-- radiograph: 0.023067361473909854
-- further: 0.02302918764237507
-- any: 0.022803686720951642
-- frontal: 0.022748236732909807
-- yo: 0.021791114604260694
-- infection: 0.021050987915871247
-- chronic: 0.020398217228025425
-- history: 0.020003636232323447
-- is: 0.019060704352024598
-- surgery: 0.017584737833561653
-- bilateral: 0.01757472651961393
-- noted: 0.017164586342818592
-- lower: 0.01628696668952426
-- 's: 0.015966496765822416
-- demonstrates: 0.01581882374282361
-- after: 0.014983061039061038
-- female: 0.014887798910574861
-- patient: 0.014518507303667593
-- disease: 0.0118367588238619
-- the: 0.011716041076578457
-- there: 0.010777250478516853
-- at: 0.009811552142640957
-- pain: 0.008844137012972328
-- was: 0.00837523323909904
-- of: 0.007898562765965317
-- for: 0.00617888261561623
-- ,: 0.0045883061952082605
-- to: 0.0036192212579914088
-- and: 0.0030510000971562447
-- .: 0.0027075917362382753
-- with: 0.001983121628642199
+\-\ Texto\\:\\ \ \(0\)\
+\-\ varus\\ deformity\\ of\\ the\\ right\\ lower\\ extremity\\.\ \(0\)\
+\-\ the\\ patient\\ was\\ referred\\ to\\ orthopedic\\ surgery\\ for\\ further\\ care\\.\\ after\\ worsening\\ despite\\ conservative\\ management\\ with\\ bracing\\,\\ the\\ patient\\ underwent\\ corrective\\ tibial\\ osteotomy\\.\ \(0\)\
+\-\ standing\\ plain\\ frontal\\ radiograph\\ of\\ the\\ bilateral\\ knees\\ demonstrates\\ varus\\ angulation\\ of\\ the\\ right\\ knee\\.\\ \\ there\\ is\\ depression\\ and\\ irregularity\\ of\\ the\\ medial\\ right\\ tibia\\.\\ \\ the\\ medial\\ tibial\\ physis\\ is\\ poorly\\ defined\\.\\ \\ additionally\\,\\ beaking\\ of\\ the\\ metaphysis\\ is\\ noted\\ and\\ the\\ metaphyseal\\-diaphyseal\\ angle\\ is\\ abnormally\\ widened\\ at\\ 22\\ degrees\\.\ \(0\)\
+\-\ blount\\'s\\ disease\ \(0\)\
+\-\ physiological\\ bowing\\ of\\ the\\ legs\ \(1\)\
+\-\ osteogenesis\\ imperfecta\ \(7\)\
+\-\ trauma\ \(1087\)\
+\-\ infection\ \(713\)\
+\-\ rickets\ \(46\)\
+\-\ 7\\ yo\\ female\\ with\\ chronic\\ history\\ of\\ right\\ knee\\ pain\\.\\ denies\\ any\\ history\\ of\\ trauma\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ varus\\:\\ 0\\.09627159674639574\ \(0\)\
+\-\ metaphyseal\\-diaphyseal\\:\\ 0\\.07470778325395337\ \(0\)\
+\-\ tibial\\:\\ 0\\.06691498260187993\ \(0\)\
+\-\ blount\\:\\ 0\\.06295952595632719\ \(0\)\
+\-\ bracing\\:\\ 0\\.05821701927890834\ \(0\)\
+\-\ corrective\\:\\ 0\\.05519435026247841\ \(0\)\
+\-\ physiological\\:\\ 0\\.05519435026247841\ \(0\)\
+\-\ osteotomy\\:\\ 0\\.05364925232354659\ \(0\)\
+\-\ beaking\\:\\ 0\\.05364925232354659\ \(0\)\
+\-\ knee\\:\\ 0\\.05251679190780129\ \(0\)\
+\-\ osteogenesis\\:\\ 0\\.04851250822549307\ \(0\)\
+\-\ imperfecta\\:\\ 0\\.04851250822549307\ \(0\)\
+\-\ bowing\\:\\ 0\\.04646876198128215\ \(0\)\
+\-\ medial\\:\\ 0\\.04632711039983139\ \(0\)\
+\-\ rickets\\:\\ 0\\.045606196775265694\ \(0\)\
+\-\ physis\\:\\ 0\\.04366065065963434\ \(0\)\
+\-\ widened\\:\\ 0\\.04303261699731466\ \(0\)\
+\-\ depression\\:\\ 0\\.042261669724384776\ \(0\)\
+\-\ knees\\:\\ 0\\.04207941374793593\ \(0\)\
+\-\ angulation\\:\\ 0\\.04207941374793593\ \(0\)\
+\-\ abnormally\\:\\ 0\\.03986986915078972\ \(0\)\
+\-\ trauma\\:\\ 0\\.03961031833488015\ \(0\)\
+\-\ legs\\:\\ 0\\.03920223459271248\ \(0\)\
+\-\ irregularity\\:\\ 0\\.03870358628743338\ \(0\)\
+\-\ standing\\:\\ 0\\.03858337751631511\ \(0\)\
+\-\ degrees\\:\\ 0\\.03676425092786688\ \(0\)\
+\-\ metaphysis\\:\\ 0\\.03602686637710731\ \(0\)\
+\-\ poorly\\:\\ 0\\.03534853834597564\ \(0\)\
+\-\ orthopedic\\:\\ 0\\.03457050826755934\ \(0\)\
+\-\ angle\\:\\ 0\\.03399574050197662\ \(0\)\
+\-\ despite\\:\\ 0\\.03365535031786362\ \(0\)\
+\-\ tibia\\:\\ 0\\.033264146574108006\ \(0\)\
+\-\ 22\\:\\ 0\\.03230145862729694\ \(0\)\
+\-\ additionally\\:\\ 0\\.031385852844152164\ \(0\)\
+\-\ deformity\\:\\ 0\\.031184067685730815\ \(0\)\
+\-\ right\\:\\ 0\\.03056378674950565\ \(0\)\
+\-\ denies\\:\\ 0\\.03055959551800913\ \(0\)\
+\-\ defined\\:\\ 0\\.03051341242675858\ \(0\)\
+\-\ conservative\\:\\ 0\\.02892238171266287\ \(0\)\
+\-\ worsening\\:\\ 0\\.028512542122040657\ \(0\)\
+\-\ 7\\:\\ 0\\.027747922701763322\ \(0\)\
+\-\ referred\\:\\ 0\\.027326537656403742\ \(0\)\
+\-\ management\\:\\ 0\\.027326537656403742\ \(0\)\
+\-\ extremity\\:\\ 0\\.02648439804781727\ \(0\)\
+\-\ care\\:\\ 0\\.02612014531414197\ \(0\)\
+\-\ underwent\\:\\ 0\\.024849118944730672\ \(0\)\
+\-\ plain\\:\\ 0\\.0235191840058397\ \(0\)\
+\-\ radiograph\\:\\ 0\\.023067361473909854\ \(0\)\
+\-\ further\\:\\ 0\\.02302918764237507\ \(0\)\
+\-\ any\\:\\ 0\\.022803686720951642\ \(0\)\
+\-\ frontal\\:\\ 0\\.022748236732909807\ \(0\)\
+\-\ yo\\:\\ 0\\.021791114604260694\ \(0\)\
+\-\ infection\\:\\ 0\\.021050987915871247\ \(0\)\
+\-\ chronic\\:\\ 0\\.020398217228025425\ \(0\)\
+\-\ history\\:\\ 0\\.020003636232323447\ \(0\)\
+\-\ is\\:\\ 0\\.019060704352024598\ \(0\)\
+\-\ surgery\\:\\ 0\\.017584737833561653\ \(0\)\
+\-\ bilateral\\:\\ 0\\.01757472651961393\ \(0\)\
+\-\ noted\\:\\ 0\\.017164586342818592\ \(0\)\
+\-\ lower\\:\\ 0\\.01628696668952426\ \(0\)\
+\-\ \\'s\\:\\ 0\\.015966496765822416\ \(0\)\
+\-\ demonstrates\\:\\ 0\\.01581882374282361\ \(0\)\
+\-\ after\\:\\ 0\\.014983061039061038\ \(0\)\
+\-\ female\\:\\ 0\\.014887798910574861\ \(0\)\
+\-\ patient\\:\\ 0\\.014518507303667593\ \(0\)\
+\-\ disease\\:\\ 0\\.0118367588238619\ \(0\)\
+\-\ the\\:\\ 0\\.011716041076578457\ \(0\)\
+\-\ there\\:\\ 0\\.010777250478516853\ \(0\)\
+\-\ at\\:\\ 0\\.009811552142640957\ \(0\)\
+\-\ pain\\:\\ 0\\.008844137012972328\ \(0\)\
+\-\ was\\:\\ 0\\.00837523323909904\ \(0\)\
+\-\ of\\:\\ 0\\.007898562765965317\ \(0\)\
+\-\ for\\:\\ 0\\.00617888261561623\ \(0\)\
+\-\ \\,\\:\\ 0\\.0045883061952082605\ \(0\)\
+\-\ to\\:\\ 0\\.0036192212579914088\ \(0\)\
+\-\ and\\:\\ 0\\.0030510000971562447\ \(0\)\
+\-\ \\.\\:\\ 0\\.0027075917362382753\ \(0\)\
+\-\ with\\:\\ 0\\.001983121628642199\ \(0\)\

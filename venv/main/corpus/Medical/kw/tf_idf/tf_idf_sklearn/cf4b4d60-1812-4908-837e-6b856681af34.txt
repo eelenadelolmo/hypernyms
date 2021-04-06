@@ -1,66 +1,63 @@
-Texto: 
-decreased mental status.  no focal neurologic signs
-interventional radiology performed endovascular coil occlusion
-â€¢ ct:  diffuse abnormal hyperattenuation in basal cisterns from subarachnoid hemorrhage
-
-â€¢ multiple intracranial aneurysms most of which are in the left internal carotid territory.
-multiple aneurysm, cerebral
-â€¢ multiple sporadic aneurysms
-â€¢ multiple mycotic aneurysms
-â€¢ aneuryms associated with syndromes (e.g. apdkd)
-34 year old woman presents with sudden loss of consciousness.
-
-
-Keywords by value: 
-- aneurysms: 0.4682832011594662
-- multiple: 0.28549110039923853
-- aneuryms: 0.23335826307533522
-- apdkd: 0.23335826307533522
-- hyperattenuation: 0.20131200811845182
-- territory: 0.17201899522940334
-- sporadic: 0.1658499585057504
-- mycotic: 0.16495230634829866
-- endovascular: 0.1616470106183316
-- coil: 0.1616470106183316
-- cisterns: 0.15942121943413962
-- interventional: 0.15547797389467863
-- syndromes: 0.1500146498322194
-- consciousness: 0.13626789777790616
-- occlusion: 0.1340660695571134
-- subarachnoid: 0.13131821001671712
-- mental: 0.12717274633676534
-- 34: 0.12717274633676534
-- sudden: 0.12618496100563018
-- basal: 0.12486316712627651
-- carotid: 0.12291492435989185
-- intracranial: 0.11741227598291194
-- radiology: 0.11686799030987689
-- neurologic: 0.11660012962615922
-- aneurysm: 0.1111060782788546
-- signs: 0.10198216858672757
-- status: 0.1018321361240424
-- cerebral: 0.10109489600400051
-- internal: 0.09834165393616555
-- hemorrhage: 0.09769727574437014
-- diffuse: 0.09151006462452958
-- decreased: 0.09038600486560242
-- loss: 0.08889997044876193
-- abnormal: 0.08766693843619484
-- focal: 0.08728290427760504
-- performed: 0.0863269025018837
-- associated: 0.07691091966653327
-- woman: 0.07599574864418635
-- most: 0.07594132210970102
-- in: 0.07260045007546248
-- presents: 0.07019517728388652
-- which: 0.06635139417469776
-- from: 0.05795334099545327
-- with: 0.057146022460339806
-- of: 0.057111898114825206
-- ct: 0.05555321309440161
-- are: 0.055370102351474444
-- left: 0.04977658329323565
-- no: 0.047451608246979325
-- year: 0.04496975128507511
-- old: 0.043186527899390766
-- the: 0.02911637929255251
+\-\ Texto\\:\\ \ \(0\)\
+\-\ decreased\\ mental\\ status\\.\\ \\ no\\ focal\\ neurologic\\ signs\ \(0\)\
+\-\ interventional\\ radiology\\ performed\\ endovascular\\ coil\\ occlusion\ \(0\)\
+\-\ \\â\\€\\¢\\ ct\\:\\ \\ diffuse\\ abnormal\\ hyperattenuation\\ in\\ basal\\ cisterns\\ from\\ subarachnoid\\ hemorrhage\ \(0\)\
+\-\ \\â\\€\\¢\\ multiple\\ intracranial\\ aneurysms\\ most\\ of\\ which\\ are\\ in\\ the\\ left\\ internal\\ carotid\\ territory\\.\ \(0\)\
+\-\ multiple\\ aneurysm\\,\\ cerebral\ \(0\)\
+\-\ \\â\\€\\¢\\ multiple\\ sporadic\\ aneurysms\ \(0\)\
+\-\ \\â\\€\\¢\\ multiple\\ mycotic\\ aneurysms\ \(0\)\
+\-\ \\â\\€\\¢\\ aneuryms\\ associated\\ with\\ syndromes\\ \\(e\\.g\\.\\ apdkd\\)\ \(0\)\
+\-\ 34\\ year\\ old\\ woman\\ presents\\ with\\ sudden\\ loss\\ of\\ consciousness\\.\ \(1\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ aneurysms\\:\\ 0\\.4682832011594662\ \(0\)\
+\-\ multiple\\:\\ 0\\.28549110039923853\ \(0\)\
+\-\ aneuryms\\:\\ 0\\.23335826307533522\ \(0\)\
+\-\ apdkd\\:\\ 0\\.23335826307533522\ \(0\)\
+\-\ hyperattenuation\\:\\ 0\\.20131200811845182\ \(0\)\
+\-\ territory\\:\\ 0\\.17201899522940334\ \(0\)\
+\-\ sporadic\\:\\ 0\\.1658499585057504\ \(0\)\
+\-\ mycotic\\:\\ 0\\.16495230634829866\ \(0\)\
+\-\ endovascular\\:\\ 0\\.1616470106183316\ \(0\)\
+\-\ coil\\:\\ 0\\.1616470106183316\ \(0\)\
+\-\ cisterns\\:\\ 0\\.15942121943413962\ \(0\)\
+\-\ interventional\\:\\ 0\\.15547797389467863\ \(0\)\
+\-\ syndromes\\:\\ 0\\.1500146498322194\ \(0\)\
+\-\ consciousness\\:\\ 0\\.13626789777790616\ \(0\)\
+\-\ occlusion\\:\\ 0\\.1340660695571134\ \(0\)\
+\-\ subarachnoid\\:\\ 0\\.13131821001671712\ \(0\)\
+\-\ mental\\:\\ 0\\.12717274633676534\ \(0\)\
+\-\ 34\\:\\ 0\\.12717274633676534\ \(0\)\
+\-\ sudden\\:\\ 0\\.12618496100563018\ \(0\)\
+\-\ basal\\:\\ 0\\.12486316712627651\ \(0\)\
+\-\ carotid\\:\\ 0\\.12291492435989185\ \(0\)\
+\-\ intracranial\\:\\ 0\\.11741227598291194\ \(0\)\
+\-\ radiology\\:\\ 0\\.11686799030987689\ \(0\)\
+\-\ neurologic\\:\\ 0\\.11660012962615922\ \(0\)\
+\-\ aneurysm\\:\\ 0\\.1111060782788546\ \(0\)\
+\-\ signs\\:\\ 0\\.10198216858672757\ \(0\)\
+\-\ status\\:\\ 0\\.1018321361240424\ \(0\)\
+\-\ cerebral\\:\\ 0\\.10109489600400051\ \(0\)\
+\-\ internal\\:\\ 0\\.09834165393616555\ \(0\)\
+\-\ hemorrhage\\:\\ 0\\.09769727574437014\ \(0\)\
+\-\ diffuse\\:\\ 0\\.09151006462452958\ \(0\)\
+\-\ decreased\\:\\ 0\\.09038600486560242\ \(0\)\
+\-\ loss\\:\\ 0\\.08889997044876193\ \(0\)\
+\-\ abnormal\\:\\ 0\\.08766693843619484\ \(0\)\
+\-\ focal\\:\\ 0\\.08728290427760504\ \(0\)\
+\-\ performed\\:\\ 0\\.0863269025018837\ \(0\)\
+\-\ associated\\:\\ 0\\.07691091966653327\ \(0\)\
+\-\ woman\\:\\ 0\\.07599574864418635\ \(0\)\
+\-\ most\\:\\ 0\\.07594132210970102\ \(0\)\
+\-\ in\\:\\ 0\\.07260045007546248\ \(0\)\
+\-\ presents\\:\\ 0\\.07019517728388652\ \(0\)\
+\-\ which\\:\\ 0\\.06635139417469776\ \(0\)\
+\-\ from\\:\\ 0\\.05795334099545327\ \(0\)\
+\-\ with\\:\\ 0\\.057146022460339806\ \(0\)\
+\-\ of\\:\\ 0\\.057111898114825206\ \(0\)\
+\-\ ct\\:\\ 0\\.05555321309440161\ \(0\)\
+\-\ are\\:\\ 0\\.055370102351474444\ \(0\)\
+\-\ left\\:\\ 0\\.04977658329323565\ \(0\)\
+\-\ no\\:\\ 0\\.047451608246979325\ \(0\)\
+\-\ year\\:\\ 0\\.04496975128507511\ \(0\)\
+\-\ old\\:\\ 0\\.043186527899390766\ \(0\)\
+\-\ the\\:\\ 0\\.02911637929255251\ \(0\)\

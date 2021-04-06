@@ -1,95 +1,93 @@
-Texto: 
-n/a
-n/a
-surgical clips are seen in the right upper quadrant in the expected region of the gallbladder fossa.
-numerous embolization coils are seen in vertical orientation in the paraspinal regions overlying the paths the gonadal veins bilaterally.  
-a stent is seen in the left hemipelvis, projecting over the expected region of the left common iliac artery.
-status post cholecystectomy, stenting of the left common iliac artery stent, and bilateral gonadal vein embolization for pelvic congestion syndrome!
-- cholecystectomy
- - left common iliac artery stent
- - bilateral gonadal vein embolization for pelvic congestion syndrome
-41 yo female with right lower quadrant pain, history of surgery.  remote history of chronic pelvic pain, post-prandial epigastric pain and left lower extremity pain with activity.
-typically the aorta bifurcates at approximately the l4-l5 interspace.  the superior aspect of the stent seen in this case projects above this level.
-
-
-Keywords by value: 
-- gonadal: 0.12262974174206613
-- stent: 0.12250153474481598
-- iliac: 0.08143264074584632
-- embolization: 0.07603636656716599
-- pelvic: 0.06701752980698013
-- congestion: 0.05932019542174301
-- cholecystectomy: 0.058178639260090946
-- paths: 0.05614979887876751
-- expected: 0.0530134786472481
-- bifurcates: 0.04915226837769674
-- artery: 0.04862159220588915
-- interspace: 0.04589860198428279
-- seen: 0.04302235961955899
-- post-prandial: 0.04290494829481951
-- common: 0.04273122061063179
-- hemipelvis: 0.040322367988398077
-- n/a: 0.039429384042790915
-- vein: 0.03938768563075309
-- quadrant: 0.03831052145205165
-- projects: 0.03706870159498412
-- !: 0.036461630386039376
-- l4-l5: 0.03564740508979807
-- stenting: 0.03539759163022303
-- -: 0.03500118073965026
-- clips: 0.03470205473872627
-- coils: 0.03470205473872627
-- orientation: 0.03470205473872627
-- projecting: 0.03265375140033479
-- vertical: 0.031903540982141265
-- epigastric: 0.031903540982141265
-- remote: 0.03149246759909941
-- syndrome: 0.03113256785649225
-- region: 0.030746512448908442
-- left: 0.030449212397226585
-- paraspinal: 0.029089319630045473
-- 41: 0.028998971636466135
-- pain: 0.02658874312180216
-- bilateral: 0.026418060246043873
-- gallbladder: 0.02615279122709659
-- veins: 0.026039048441109283
-- regions: 0.024906010481070502
-- overlying: 0.024629035245785542
-- lower: 0.024482319354953666
-- numerous: 0.02440708154304562
-- aorta: 0.023363209854477995
-- fossa: 0.022183437138223752
-- activity: 0.020420679164213622
-- above: 0.019948653863871443
-- extremity: 0.01990547114421935
-- status: 0.019428836440647475
-- typically: 0.0192129029904839
-- bilaterally: 0.017877103430088557
-- superior: 0.017380533102255995
-- post: 0.017139076643772573
-- aspect: 0.017097400856581894
-- approximately: 0.01683960399079989
-- yo: 0.01637803518027237
-- in: 0.016104352744213565
-- level: 0.015687191258897656
-- chronic: 0.015331144158643313
-- history: 0.015034580098179408
-- are: 0.014839157611842062
-- over: 0.013857596115541163
-- surgery: 0.013216554550065446
-- upper: 0.013134270734832601
-- the: 0.012327961693316949
-- this: 0.012243786156867938
-- case: 0.011907671546925291
-- right: 0.011485754256183653
-- surgical: 0.01144090299523219
-- female: 0.011189555869094482
-- for: 0.009288001893537772
-- ,: 0.008621339666155648
-- at: 0.007374287597653714
-- of: 0.004452374552789367
-- is: 0.0035814699260173608
-- a: 0.002526113387379626
-- and: 0.002293108353276668
-- .: 0.001582781864212891
-- with: 0.001490499058469933
+\-\ Texto\\:\\ \ \(0\)\
+\-\ n\\/a\ \(127\)\
+\-\ n\\/a\ \(127\)\
+\-\ surgical\\ clips\\ are\\ seen\\ in\\ the\\ right\\ upper\\ quadrant\\ in\\ the\\ expected\\ region\\ of\\ the\\ gallbladder\\ fossa\\.\ \(0\)\
+\-\ numerous\\ embolization\\ coils\\ are\\ seen\\ in\\ vertical\\ orientation\\ in\\ the\\ paraspinal\\ regions\\ overlying\\ the\\ paths\\ the\\ gonadal\\ veins\\ bilaterally\\.\\ \\ \ \(0\)\
+\-\ a\\ stent\\ is\\ seen\\ in\\ the\\ left\\ hemipelvis\\,\\ projecting\\ over\\ the\\ expected\\ region\\ of\\ the\\ left\\ common\\ iliac\\ artery\\.\ \(0\)\
+\-\ status\\ post\\ cholecystectomy\\,\\ stenting\\ of\\ the\\ left\\ common\\ iliac\\ artery\\ stent\\,\\ and\\ bilateral\\ gonadal\\ vein\\ embolization\\ for\\ pelvic\\ congestion\\ syndrome\\!\ \(0\)\
+\-\ cholecystectomy\ \(63\)\
+\-\ \\ \\-\\ left\\ common\\ iliac\\ artery\\ stent\ \(0\)\
+\-\ \\ \\-\\ bilateral\\ gonadal\\ vein\\ embolization\\ for\\ pelvic\\ congestion\\ syndrome\ \(0\)\
+\-\ 41\\ yo\\ female\\ with\\ right\\ lower\\ quadrant\\ pain\\,\\ history\\ of\\ surgery\\.\\ \\ remote\\ history\\ of\\ chronic\\ pelvic\\ pain\\,\\ post\\-prandial\\ epigastric\\ pain\\ and\\ left\\ lower\\ extremity\\ pain\\ with\\ activity\\.\ \(0\)\
+\-\ typically\\ the\\ aorta\\ bifurcates\\ at\\ approximately\\ the\\ l4\\-l5\\ interspace\\.\\ \\ the\\ superior\\ aspect\\ of\\ the\\ stent\\ seen\\ in\\ this\\ case\\ projects\\ above\\ this\\ level\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ gonadal\\:\\ 0\\.12262974174206613\ \(0\)\
+\-\ stent\\:\\ 0\\.12250153474481598\ \(0\)\
+\-\ iliac\\:\\ 0\\.08143264074584632\ \(0\)\
+\-\ embolization\\:\\ 0\\.07603636656716599\ \(0\)\
+\-\ pelvic\\:\\ 0\\.06701752980698013\ \(0\)\
+\-\ congestion\\:\\ 0\\.05932019542174301\ \(0\)\
+\-\ cholecystectomy\\:\\ 0\\.058178639260090946\ \(0\)\
+\-\ paths\\:\\ 0\\.05614979887876751\ \(0\)\
+\-\ expected\\:\\ 0\\.0530134786472481\ \(0\)\
+\-\ bifurcates\\:\\ 0\\.04915226837769674\ \(0\)\
+\-\ artery\\:\\ 0\\.04862159220588915\ \(0\)\
+\-\ interspace\\:\\ 0\\.04589860198428279\ \(0\)\
+\-\ seen\\:\\ 0\\.04302235961955899\ \(0\)\
+\-\ post\\-prandial\\:\\ 0\\.04290494829481951\ \(0\)\
+\-\ common\\:\\ 0\\.04273122061063179\ \(0\)\
+\-\ hemipelvis\\:\\ 0\\.040322367988398077\ \(0\)\
+\-\ n\\/a\\:\\ 0\\.039429384042790915\ \(0\)\
+\-\ vein\\:\\ 0\\.03938768563075309\ \(0\)\
+\-\ quadrant\\:\\ 0\\.03831052145205165\ \(0\)\
+\-\ projects\\:\\ 0\\.03706870159498412\ \(0\)\
+\-\ \\!\\:\\ 0\\.036461630386039376\ \(0\)\
+\-\ l4\\-l5\\:\\ 0\\.03564740508979807\ \(0\)\
+\-\ stenting\\:\\ 0\\.03539759163022303\ \(0\)\
+\-\ \\-\\:\\ 0\\.03500118073965026\ \(0\)\
+\-\ clips\\:\\ 0\\.03470205473872627\ \(0\)\
+\-\ coils\\:\\ 0\\.03470205473872627\ \(0\)\
+\-\ orientation\\:\\ 0\\.03470205473872627\ \(0\)\
+\-\ projecting\\:\\ 0\\.03265375140033479\ \(0\)\
+\-\ vertical\\:\\ 0\\.031903540982141265\ \(0\)\
+\-\ epigastric\\:\\ 0\\.031903540982141265\ \(0\)\
+\-\ remote\\:\\ 0\\.03149246759909941\ \(0\)\
+\-\ syndrome\\:\\ 0\\.03113256785649225\ \(0\)\
+\-\ region\\:\\ 0\\.030746512448908442\ \(0\)\
+\-\ left\\:\\ 0\\.030449212397226585\ \(0\)\
+\-\ paraspinal\\:\\ 0\\.029089319630045473\ \(0\)\
+\-\ 41\\:\\ 0\\.028998971636466135\ \(0\)\
+\-\ pain\\:\\ 0\\.02658874312180216\ \(0\)\
+\-\ bilateral\\:\\ 0\\.026418060246043873\ \(0\)\
+\-\ gallbladder\\:\\ 0\\.02615279122709659\ \(0\)\
+\-\ veins\\:\\ 0\\.026039048441109283\ \(0\)\
+\-\ regions\\:\\ 0\\.024906010481070502\ \(0\)\
+\-\ overlying\\:\\ 0\\.024629035245785542\ \(0\)\
+\-\ lower\\:\\ 0\\.024482319354953666\ \(0\)\
+\-\ numerous\\:\\ 0\\.02440708154304562\ \(0\)\
+\-\ aorta\\:\\ 0\\.023363209854477995\ \(0\)\
+\-\ fossa\\:\\ 0\\.022183437138223752\ \(0\)\
+\-\ activity\\:\\ 0\\.020420679164213622\ \(0\)\
+\-\ above\\:\\ 0\\.019948653863871443\ \(0\)\
+\-\ extremity\\:\\ 0\\.01990547114421935\ \(0\)\
+\-\ status\\:\\ 0\\.019428836440647475\ \(0\)\
+\-\ typically\\:\\ 0\\.0192129029904839\ \(0\)\
+\-\ bilaterally\\:\\ 0\\.017877103430088557\ \(0\)\
+\-\ superior\\:\\ 0\\.017380533102255995\ \(0\)\
+\-\ post\\:\\ 0\\.017139076643772573\ \(0\)\
+\-\ aspect\\:\\ 0\\.017097400856581894\ \(0\)\
+\-\ approximately\\:\\ 0\\.01683960399079989\ \(0\)\
+\-\ yo\\:\\ 0\\.01637803518027237\ \(0\)\
+\-\ in\\:\\ 0\\.016104352744213565\ \(0\)\
+\-\ level\\:\\ 0\\.015687191258897656\ \(0\)\
+\-\ chronic\\:\\ 0\\.015331144158643313\ \(0\)\
+\-\ history\\:\\ 0\\.015034580098179408\ \(0\)\
+\-\ are\\:\\ 0\\.014839157611842062\ \(0\)\
+\-\ over\\:\\ 0\\.013857596115541163\ \(0\)\
+\-\ surgery\\:\\ 0\\.013216554550065446\ \(0\)\
+\-\ upper\\:\\ 0\\.013134270734832601\ \(0\)\
+\-\ the\\:\\ 0\\.012327961693316949\ \(0\)\
+\-\ this\\:\\ 0\\.012243786156867938\ \(0\)\
+\-\ case\\:\\ 0\\.011907671546925291\ \(0\)\
+\-\ right\\:\\ 0\\.011485754256183653\ \(0\)\
+\-\ surgical\\:\\ 0\\.01144090299523219\ \(0\)\
+\-\ female\\:\\ 0\\.011189555869094482\ \(0\)\
+\-\ for\\:\\ 0\\.009288001893537772\ \(0\)\
+\-\ \\,\\:\\ 0\\.008621339666155648\ \(0\)\
+\-\ at\\:\\ 0\\.007374287597653714\ \(0\)\
+\-\ of\\:\\ 0\\.004452374552789367\ \(0\)\
+\-\ is\\:\\ 0\\.0035814699260173608\ \(0\)\
+\-\ a\\:\\ 0\\.002526113387379626\ \(0\)\
+\-\ and\\:\\ 0\\.002293108353276668\ \(0\)\
+\-\ \\.\\:\\ 0\\.001582781864212891\ \(0\)\
+\-\ with\\:\\ 0\\.001490499058469933\ \(0\)\

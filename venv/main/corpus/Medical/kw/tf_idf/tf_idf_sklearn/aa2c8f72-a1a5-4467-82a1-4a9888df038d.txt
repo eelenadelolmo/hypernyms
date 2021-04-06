@@ -1,82 +1,80 @@
-Texto: 
-failed cn viii hearing tests, head circumference 98th%, weight 70th%, height 50th%.
-patient given hearing aids and a consult for cochlear implant. at follow-up, the patient was negative for torch infections with a normal karyotype and no genetic syndrome identified.
-impression:Â  Â thereÂ  isÂ  aÂ  saccularÂ  enlargementÂ  ofÂ  theÂ  vestibuleÂ  bilaterallyÂ  withÂ  enlargedÂ  vestibularÂ  aqueductÂ  andÂ  hypoplasticÂ  cochleaÂ  bilaterally.Â  Â  (ipÂ  typeÂ  1)Â 
-cochlear dysplasia, incomplete partition type 1
-cochlear dysplasia, incomplete partition type 1
-6 mo. baby girl with a history of hydrocephalus (in-utero ventriculomegaly) presents for followup head ct to assess ventriculomegaly postpartum. she  also has delayed growth and development as well as hearing impairment.
-
-
-Keywords by value: 
-- cochlear: 0.3879681215673906
-- partition: 0.2959432006458867
-- hearing: 0.2638385453534057
-- ventriculomegaly: 0.24364523303082683
-- type: 0.19487444554969865
-- incomplete: 0.18998908798103648
-- 98th: 0.1548543519074593
-- 70th: 0.1548543519074593
-- dysplasia: 0.1483247535527968
-- 50th: 0.13930035882502187
-- karyotype: 0.1335887580647106
-- vestibule: 0.1293227071891302
-- bilaterally: 0.12915901861481582
-- cochlea: 0.1259163313517558
-- ip: 0.1259163313517558
-- viii: 0.12443931722434899
-- postpartum: 0.12065146569120871
-- torch: 0.1185268270891126
-- aqueduct: 0.11755656563983301
-- saccular: 0.11663877704242528
-- head: 0.1155046445405158
-- circumference: 0.11005647496611623
-- implant: 0.10778978571027062
-- mo: 0.10778978571027062
-- aids: 0.1053253277623037
-- impairment: 0.10317372338160026
-- consult: 0.10200257255739556
-- hypoplastic: 0.10055702267266467
-- vestibular: 0.09987793395529944
-- failed: 0.09769465987499275
-- genetic: 0.09550129666864549
-- cn: 0.09450248188367878
-- impression: 0.09426169835628183
-- height: 0.0928845959597099
-- tests: 0.09266556125535674
-- assess: 0.08949827323047217
-- for: 0.08804648470368157
-- baby: 0.08729943864484674
-- infections: 0.08549509169706668
-- followup: 0.08549509169706668
-- development: 0.08005049511410493
-- and: 0.08003602244801075
-- growth: 0.07984473557588043
-- hydrocephalus: 0.0790457667411796
-- as: 0.07780115112065193
-- delayed: 0.07577294748626417
-- enlargement: 0.07423570282589674
-- identified: 0.06865054551103358
-- girl: 0.0679258947594342
-- weight: 0.06752528728061875
-- given: 0.06661010360212408
-- enlarged: 0.06601119642773945
-- patient: 0.06298873104163015
-- negative: 0.059947604743277295
-- syndrome: 0.058375846440257166
-- she: 0.05764137446311522
-- with: 0.05688234576888458
-- well: 0.046886199754200567
-- presents: 0.04658086044211032
-- also: 0.04554667515881159
-- has: 0.04422972297388544
-- normal: 0.03953557637450448
-- the: 0.038642711732769536
-- there: 0.03852887947252958
-- of: 0.037898919250701574
-- history: 0.03699516772236625
-- ct: 0.03686459050877209
-- at: 0.036574413287755236
-- was: 0.03374667173101335
-- no: 0.03148844161425921
-- is: 0.02651791331137121
-- to: 0.02420763838532881
+\-\ Texto\\:\\ \ \(0\)\
+\-\ failed\\ cn\\ viii\\ hearing\\ tests\\,\\ head\\ circumference\\ 98th\\%\\,\\ weight\\ 70th\\%\\,\\ height\\ 50th\\%\\.\ \(0\)\
+\-\ patient\\ given\\ hearing\\ aids\\ and\\ a\\ consult\\ for\\ cochlear\\ implant\\.\\ at\\ follow\\-up\\,\\ the\\ patient\\ was\\ negative\\ for\\ torch\\ infections\\ with\\ a\\ normal\\ karyotype\\ and\\ no\\ genetic\\ syndrome\\ identified\\.\ \(0\)\
+\-\ impression\\:\\Â\\ \\ \\Â\\ there\\Â\\ \\ is\\Â\\ \\ a\\Â\\ \\ saccular\\Â\\ \\ enlargement\\Â\\ \\ of\\Â\\ \\ the\\Â\\ \\ vestibule\\Â\\ \\ \\bilaterally\\Â\\ \\ with\\Â\\ \\ enlarged\\Â\\ \\ vestibular\\Â\\ \\ aqueduct\\Â\\ \\ and\\Â\\ \\ hypoplastic\\Â\\ \\ cochlea\\Â\\ \\ \\bilaterally\\.\\Â\\ \\ \\Â\\ \\ \\(ip\\Â\\ \\ type\\Â\\ \\ 1\\)\\Â\\ \ \(0\)\
+\-\ cochlear\\ dysplasia\\,\\ incomplete\\ partition\\ type\\ 1\ \(0\)\
+\-\ cochlear\\ dysplasia\\,\\ incomplete\\ partition\\ type\\ 1\ \(0\)\
+\-\ 6\\ mo\\.\\ baby\\ girl\\ with\\ a\\ history\\ of\\ hydrocephalus\\ \\(in\\-utero\\ ventriculomegaly\\)\\ presents\\ for\\ followup\\ head\\ ct\\ to\\ assess\\ ventriculomegaly\\ postpartum\\.\\ she\\ \\ also\\ has\\ delayed\\ growth\\ and\\ development\\ as\\ well\\ as\\ hearing\\ impairment\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ cochlear\\:\\ 0\\.3879681215673906\ \(0\)\
+\-\ partition\\:\\ 0\\.2959432006458867\ \(0\)\
+\-\ hearing\\:\\ 0\\.2638385453534057\ \(0\)\
+\-\ ventriculomegaly\\:\\ 0\\.24364523303082683\ \(0\)\
+\-\ type\\:\\ 0\\.19487444554969865\ \(0\)\
+\-\ incomplete\\:\\ 0\\.18998908798103648\ \(0\)\
+\-\ 98th\\:\\ 0\\.1548543519074593\ \(0\)\
+\-\ 70th\\:\\ 0\\.1548543519074593\ \(0\)\
+\-\ dysplasia\\:\\ 0\\.1483247535527968\ \(0\)\
+\-\ 50th\\:\\ 0\\.13930035882502187\ \(0\)\
+\-\ karyotype\\:\\ 0\\.1335887580647106\ \(0\)\
+\-\ vestibule\\:\\ 0\\.1293227071891302\ \(0\)\
+\-\ bilaterally\\:\\ 0\\.12915901861481582\ \(0\)\
+\-\ cochlea\\:\\ 0\\.1259163313517558\ \(0\)\
+\-\ ip\\:\\ 0\\.1259163313517558\ \(0\)\
+\-\ viii\\:\\ 0\\.12443931722434899\ \(0\)\
+\-\ postpartum\\:\\ 0\\.12065146569120871\ \(0\)\
+\-\ torch\\:\\ 0\\.1185268270891126\ \(0\)\
+\-\ aqueduct\\:\\ 0\\.11755656563983301\ \(0\)\
+\-\ saccular\\:\\ 0\\.11663877704242528\ \(0\)\
+\-\ head\\:\\ 0\\.1155046445405158\ \(0\)\
+\-\ circumference\\:\\ 0\\.11005647496611623\ \(0\)\
+\-\ implant\\:\\ 0\\.10778978571027062\ \(0\)\
+\-\ mo\\:\\ 0\\.10778978571027062\ \(0\)\
+\-\ aids\\:\\ 0\\.1053253277623037\ \(0\)\
+\-\ impairment\\:\\ 0\\.10317372338160026\ \(0\)\
+\-\ consult\\:\\ 0\\.10200257255739556\ \(0\)\
+\-\ hypoplastic\\:\\ 0\\.10055702267266467\ \(0\)\
+\-\ vestibular\\:\\ 0\\.09987793395529944\ \(0\)\
+\-\ failed\\:\\ 0\\.09769465987499275\ \(0\)\
+\-\ genetic\\:\\ 0\\.09550129666864549\ \(0\)\
+\-\ cn\\:\\ 0\\.09450248188367878\ \(0\)\
+\-\ impression\\:\\ 0\\.09426169835628183\ \(0\)\
+\-\ height\\:\\ 0\\.0928845959597099\ \(0\)\
+\-\ tests\\:\\ 0\\.09266556125535674\ \(0\)\
+\-\ assess\\:\\ 0\\.08949827323047217\ \(0\)\
+\-\ for\\:\\ 0\\.08804648470368157\ \(0\)\
+\-\ baby\\:\\ 0\\.08729943864484674\ \(0\)\
+\-\ infections\\:\\ 0\\.08549509169706668\ \(0\)\
+\-\ followup\\:\\ 0\\.08549509169706668\ \(0\)\
+\-\ development\\:\\ 0\\.08005049511410493\ \(0\)\
+\-\ and\\:\\ 0\\.08003602244801075\ \(0\)\
+\-\ growth\\:\\ 0\\.07984473557588043\ \(0\)\
+\-\ hydrocephalus\\:\\ 0\\.0790457667411796\ \(0\)\
+\-\ as\\:\\ 0\\.07780115112065193\ \(0\)\
+\-\ delayed\\:\\ 0\\.07577294748626417\ \(0\)\
+\-\ enlargement\\:\\ 0\\.07423570282589674\ \(0\)\
+\-\ identified\\:\\ 0\\.06865054551103358\ \(0\)\
+\-\ girl\\:\\ 0\\.0679258947594342\ \(0\)\
+\-\ weight\\:\\ 0\\.06752528728061875\ \(0\)\
+\-\ given\\:\\ 0\\.06661010360212408\ \(0\)\
+\-\ enlarged\\:\\ 0\\.06601119642773945\ \(0\)\
+\-\ patient\\:\\ 0\\.06298873104163015\ \(0\)\
+\-\ negative\\:\\ 0\\.059947604743277295\ \(0\)\
+\-\ syndrome\\:\\ 0\\.058375846440257166\ \(0\)\
+\-\ she\\:\\ 0\\.05764137446311522\ \(0\)\
+\-\ with\\:\\ 0\\.05688234576888458\ \(0\)\
+\-\ well\\:\\ 0\\.046886199754200567\ \(0\)\
+\-\ presents\\:\\ 0\\.04658086044211032\ \(0\)\
+\-\ also\\:\\ 0\\.04554667515881159\ \(0\)\
+\-\ has\\:\\ 0\\.04422972297388544\ \(0\)\
+\-\ normal\\:\\ 0\\.03953557637450448\ \(0\)\
+\-\ the\\:\\ 0\\.038642711732769536\ \(0\)\
+\-\ there\\:\\ 0\\.03852887947252958\ \(0\)\
+\-\ of\\:\\ 0\\.037898919250701574\ \(0\)\
+\-\ history\\:\\ 0\\.03699516772236625\ \(0\)\
+\-\ ct\\:\\ 0\\.03686459050877209\ \(0\)\
+\-\ at\\:\\ 0\\.036574413287755236\ \(0\)\
+\-\ was\\:\\ 0\\.03374667173101335\ \(0\)\
+\-\ no\\:\\ 0\\.03148844161425921\ \(0\)\
+\-\ is\\:\\ 0\\.02651791331137121\ \(0\)\
+\-\ to\\:\\ 0\\.02420763838532881\ \(0\)\

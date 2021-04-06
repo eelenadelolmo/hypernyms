@@ -1,99 +1,97 @@
-Texto: 
-patient was treated initially with ultrasound-guided compression of the pseudoaneurysm neck, which was not successful.  ultrasound guided percutaneous injection of thrombin was then performed with successful thrombosis.
-gray scale sonography:  1.6x1.6 cm anechoic mass with no visible wall located anterior to the superficial femoral artery.  there are internal echoes present.
-color doppler:  internal bidirectional flow which gives the classic ‚Äúyin-yang‚Äù appearance.  there is a small lobulation projecting laterally which demonstrated flow.  there is also a visible neck which connects the mass to the superior femoral artery which demonstrates normal flow pattern.
-post-catheterization pseudoaneurysm
-pseudoaneurysm
-arteriovenous fistula
-hematoma
-76 y/o male with right groin swelling, ecchymosis, and audible bruit following routine cardiac catheterization.
-
-
-Keywords by value: 
-- pseudoaneurysm: 0.12231336057260109
-- successful: 0.07169824483346744
-- 1.6x1.6: 0.069413530897374
-- post-catheterization: 0.069413530897374
-- flow: 0.06670993409902007
-- visible: 0.06369817007087926
-- which: 0.06280096800167514
-- lobulation: 0.06076304043542038
-- yin-yang: 0.05674079142938896
-- bidirectional: 0.05530518861998774
-- thrombin: 0.05211254997346676
-- connects: 0.051282939613956316
-- femoral: 0.05119681915974495
-- ultrasound-guided: 0.050532465757229354
-- audible: 0.04665469815803412
-- bruit: 0.04582508779852368
-- internal: 0.0451161554547838
-- echoes: 0.044724600063286206
-- gives: 0.044724600063286206
-- catheterization: 0.04317570010859287
-- ecchymosis: 0.0426324491520027
-- anechoic: 0.0414186642714731
-- guided: 0.04098110638836436
-- projecting: 0.040367235983091034
-- artery: 0.04007133845839683
-- sonography: 0.03998306146207189
-- neck: 0.039515639953046966
-- groin: 0.03909740804926331
-- scale: 0.038454273946788756
-- 76: 0.038004207696080504
-- laterally: 0.037717848293160224
-- superficial: 0.035960812456040464
-- percutaneous: 0.03563038569148116
-- arteriovenous: 0.03531326837543439
-- fistula: 0.03299642213135612
-- gray: 0.03291960185619577
-- color: 0.032843523817520676
-- doppler: 0.03254635588064786
-- injection: 0.03139531249341888
-- there: 0.030040524955865875
-- thrombosis: 0.028882078324039724
-- located: 0.027694496515105995
-- initially: 0.02738567200208803
-- routine: 0.02697989522952754
-- classic: 0.025781534478803717
-- pattern: 0.02572001841788408
-- cardiac: 0.025628636164968268
-- compression: 0.025186986821259263
-- ‚Äú: 0.025129928486450077
-- ‚Äù: 0.024989065771877043
-- then: 0.023944621089937716
-- hematoma: 0.023944621089937716
-- was: 0.02334513832000835
-- swelling: 0.022415833574654587
-- superior: 0.02148617084294639
-- treated: 0.020140557764439838
-- ultrasound: 0.019961595157529946
-- demonstrated: 0.01974346442879502
-- wall: 0.019489441891643672
-- appearance: 0.01924335887192631
-- following: 0.019096675251190146
-- performed: 0.01876045930100251
-- mass: 0.018715921369252986
-- y/o: 0.018634874250548352
-- cm: 0.01804689856548808
-- :: 0.017799603401427794
-- anterior: 0.0173290773524625
-- small: 0.015500592790402508
-- present: 0.0151969193222967
-- demonstrates: 0.014697804737426661
-- also: 0.013264721210001192
-- male: 0.012166972739271443
-- normal: 0.010548129563772449
-- not: 0.009722981667259333
-- are: 0.009172235216768517
-- is: 0.008854972887948434
-- right: 0.007099462276459974
-- no: 0.006775150792943323
-- patient: 0.006744818353672346
-- to: 0.006725482022724193
-- ,: 0.006394725957101276
-- a: 0.006245666170371674
-- the: 0.005442885224552197
-- with: 0.003685170900468968
-- .: 0.002236191250226537
-- of: 0.0018347055243777704
-- and: 0.00141739374592298
+\-\ Texto\\:\\ \ \(0\)\
+\-\ patient\\ was\\ treated\\ initially\\ with\\ ultrasound\\-guided\\ compression\\ of\\ the\\ pseudoaneurysm\\ neck\\,\\ which\\ was\\ not\\ successful\\.\\ \\ ultrasound\\ guided\\ percutaneous\\ injection\\ of\\ thrombin\\ was\\ then\\ performed\\ with\\ successful\\ thrombosis\\.\ \(0\)\
+\-\ gray\\ scale\\ sonography\\:\\ \\ 1\\.6x1\\.6\\ cm\\ anechoic\\ mass\\ with\\ no\\ visible\\ wall\\ located\\ anterior\\ to\\ the\\ superficial\\ femoral\\ artery\\.\\ \\ there\\ are\\ internal\\ echoes\\ present\\.\ \(0\)\
+\-\ color\\ doppler\\:\\ \\ internal\\ bidirectional\\ flow\\ which\\ gives\\ the\\ classic\\ \\‚\\Ä\\úyin\\-yang\\‚\\Ä\\ù\\ appearance\\.\\ \\ there\\ is\\ a\\ small\\ lobulation\\ projecting\\ laterally\\ which\\ demonstrated\\ flow\\.\\ \\ there\\ is\\ also\\ a\\ visible\\ neck\\ which\\ connects\\ the\\ mass\\ to\\ the\\ superior\\ femoral\\ artery\\ which\\ demonstrates\\ normal\\ flow\\ pattern\\.\ \(0\)\
+\-\ post\\-catheterization\\ pseudoaneurysm\ \(0\)\
+\-\ pseudoaneurysm\ \(57\)\
+\-\ arteriovenous\\ fistula\ \(12\)\
+\-\ hematoma\ \(500\)\
+\-\ 76\\ y\\/o\\ male\\ with\\ right\\ groin\\ swelling\\,\\ ecchymosis\\,\\ and\\ audible\\ bruit\\ following\\ routine\\ cardiac\\ catheterization\\.\ \(1\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ pseudoaneurysm\\:\\ 0\\.12231336057260109\ \(0\)\
+\-\ successful\\:\\ 0\\.07169824483346744\ \(0\)\
+\-\ 1\\.6x1\\.6\\:\\ 0\\.069413530897374\ \(0\)\
+\-\ post\\-catheterization\\:\\ 0\\.069413530897374\ \(0\)\
+\-\ flow\\:\\ 0\\.06670993409902007\ \(0\)\
+\-\ visible\\:\\ 0\\.06369817007087926\ \(0\)\
+\-\ which\\:\\ 0\\.06280096800167514\ \(0\)\
+\-\ lobulation\\:\\ 0\\.06076304043542038\ \(0\)\
+\-\ yin\\-yang\\:\\ 0\\.05674079142938896\ \(0\)\
+\-\ bidirectional\\:\\ 0\\.05530518861998774\ \(0\)\
+\-\ thrombin\\:\\ 0\\.05211254997346676\ \(0\)\
+\-\ connects\\:\\ 0\\.051282939613956316\ \(0\)\
+\-\ femoral\\:\\ 0\\.05119681915974495\ \(0\)\
+\-\ ultrasound\\-guided\\:\\ 0\\.050532465757229354\ \(0\)\
+\-\ audible\\:\\ 0\\.04665469815803412\ \(0\)\
+\-\ bruit\\:\\ 0\\.04582508779852368\ \(0\)\
+\-\ internal\\:\\ 0\\.0451161554547838\ \(0\)\
+\-\ echoes\\:\\ 0\\.044724600063286206\ \(0\)\
+\-\ gives\\:\\ 0\\.044724600063286206\ \(0\)\
+\-\ catheterization\\:\\ 0\\.04317570010859287\ \(0\)\
+\-\ ecchymosis\\:\\ 0\\.0426324491520027\ \(0\)\
+\-\ anechoic\\:\\ 0\\.0414186642714731\ \(0\)\
+\-\ guided\\:\\ 0\\.04098110638836436\ \(0\)\
+\-\ projecting\\:\\ 0\\.040367235983091034\ \(0\)\
+\-\ artery\\:\\ 0\\.04007133845839683\ \(0\)\
+\-\ sonography\\:\\ 0\\.03998306146207189\ \(0\)\
+\-\ neck\\:\\ 0\\.039515639953046966\ \(0\)\
+\-\ groin\\:\\ 0\\.03909740804926331\ \(0\)\
+\-\ scale\\:\\ 0\\.038454273946788756\ \(0\)\
+\-\ 76\\:\\ 0\\.038004207696080504\ \(0\)\
+\-\ laterally\\:\\ 0\\.037717848293160224\ \(0\)\
+\-\ superficial\\:\\ 0\\.035960812456040464\ \(0\)\
+\-\ percutaneous\\:\\ 0\\.03563038569148116\ \(0\)\
+\-\ arteriovenous\\:\\ 0\\.03531326837543439\ \(0\)\
+\-\ fistula\\:\\ 0\\.03299642213135612\ \(0\)\
+\-\ gray\\:\\ 0\\.03291960185619577\ \(0\)\
+\-\ color\\:\\ 0\\.032843523817520676\ \(0\)\
+\-\ doppler\\:\\ 0\\.03254635588064786\ \(0\)\
+\-\ injection\\:\\ 0\\.03139531249341888\ \(0\)\
+\-\ there\\:\\ 0\\.030040524955865875\ \(0\)\
+\-\ thrombosis\\:\\ 0\\.028882078324039724\ \(0\)\
+\-\ located\\:\\ 0\\.027694496515105995\ \(0\)\
+\-\ initially\\:\\ 0\\.02738567200208803\ \(0\)\
+\-\ routine\\:\\ 0\\.02697989522952754\ \(0\)\
+\-\ classic\\:\\ 0\\.025781534478803717\ \(0\)\
+\-\ pattern\\:\\ 0\\.02572001841788408\ \(0\)\
+\-\ cardiac\\:\\ 0\\.025628636164968268\ \(0\)\
+\-\ compression\\:\\ 0\\.025186986821259263\ \(0\)\
+\-\ \\‚\\Ä\\ú\\:\\ 0\\.025129928486450077\ \(0\)\
+\-\ \\‚\\Ä\\ù\\:\\ 0\\.024989065771877043\ \(0\)\
+\-\ then\\:\\ 0\\.023944621089937716\ \(0\)\
+\-\ hematoma\\:\\ 0\\.023944621089937716\ \(0\)\
+\-\ was\\:\\ 0\\.02334513832000835\ \(0\)\
+\-\ swelling\\:\\ 0\\.022415833574654587\ \(0\)\
+\-\ superior\\:\\ 0\\.02148617084294639\ \(0\)\
+\-\ treated\\:\\ 0\\.020140557764439838\ \(0\)\
+\-\ ultrasound\\:\\ 0\\.019961595157529946\ \(0\)\
+\-\ demonstrated\\:\\ 0\\.01974346442879502\ \(0\)\
+\-\ wall\\:\\ 0\\.019489441891643672\ \(0\)\
+\-\ appearance\\:\\ 0\\.01924335887192631\ \(0\)\
+\-\ following\\:\\ 0\\.019096675251190146\ \(0\)\
+\-\ performed\\:\\ 0\\.01876045930100251\ \(0\)\
+\-\ mass\\:\\ 0\\.018715921369252986\ \(0\)\
+\-\ y\\/o\\:\\ 0\\.018634874250548352\ \(0\)\
+\-\ cm\\:\\ 0\\.01804689856548808\ \(0\)\
+\-\ \\:\\:\\ 0\\.017799603401427794\ \(0\)\
+\-\ anterior\\:\\ 0\\.0173290773524625\ \(0\)\
+\-\ small\\:\\ 0\\.015500592790402508\ \(0\)\
+\-\ present\\:\\ 0\\.0151969193222967\ \(0\)\
+\-\ demonstrates\\:\\ 0\\.014697804737426661\ \(0\)\
+\-\ also\\:\\ 0\\.013264721210001192\ \(0\)\
+\-\ male\\:\\ 0\\.012166972739271443\ \(0\)\
+\-\ normal\\:\\ 0\\.010548129563772449\ \(0\)\
+\-\ not\\:\\ 0\\.009722981667259333\ \(0\)\
+\-\ are\\:\\ 0\\.009172235216768517\ \(0\)\
+\-\ is\\:\\ 0\\.008854972887948434\ \(0\)\
+\-\ right\\:\\ 0\\.007099462276459974\ \(0\)\
+\-\ no\\:\\ 0\\.006775150792943323\ \(0\)\
+\-\ patient\\:\\ 0\\.006744818353672346\ \(0\)\
+\-\ to\\:\\ 0\\.006725482022724193\ \(0\)\
+\-\ \\,\\:\\ 0\\.006394725957101276\ \(0\)\
+\-\ a\\:\\ 0\\.006245666170371674\ \(0\)\
+\-\ the\\:\\ 0\\.005442885224552197\ \(0\)\
+\-\ with\\:\\ 0\\.003685170900468968\ \(0\)\
+\-\ \\.\\:\\ 0\\.002236191250226537\ \(0\)\
+\-\ of\\:\\ 0\\.0018347055243777704\ \(0\)\
+\-\ and\\:\\ 0\\.00141739374592298\ \(0\)\

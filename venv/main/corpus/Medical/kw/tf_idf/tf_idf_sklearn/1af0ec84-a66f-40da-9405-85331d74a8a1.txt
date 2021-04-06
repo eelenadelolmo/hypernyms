@@ -1,74 +1,70 @@
-Texto: 
-left hemiplegia and mild aphasia.
-anti-coagulation
-â€¢ ct scan hemorrhagic infarct right parietal lobe
-
-â€¢ mri scan infarct with hemorrhage and leptomeningeal and vascular enhancement.  no restricted diffusion
-
-â€¢ mrv scan shows occlusion of multiple posterior convexity veins and the left transverse sinus
-venous infarction, thrombosis of transverse sinus and multiple cerebral veins
-â€¢ venous infarct
-â€¢ arterial infact
-â€¢ avm
-37 y.o. previously healthy man presents to er with a first time seizure.
-the etiology of this patient's venous thrombosis has not been determined to date.
-
-
-Keywords by value: 
-- infarct: 0.33416583325771926
-- venous: 0.2867101530138541
-- scan: 0.23825277636029346
-- veins: 0.23757568274186322
-- thrombosis: 0.2182772552565298
-- transverse: 0.20627432568773918
-- infact: 0.20455638394626544
-- sinus: 0.1934525132890145
-- mrv: 0.15575973587856956
-- hemiplegia: 0.1548017976725178
-- aphasia: 0.1490089229495008
-- convexity: 0.14690606365650297
-- leptomeningeal: 0.14153601528089543
-- and: 0.13830254675285744
-- multiple: 0.1309475801576456
-- determined: 0.12750703627716134
-- date: 0.1237226812544084
-- occlusion: 0.12298546164977002
-- avm: 0.11838669951056627
-- hemorrhagic: 0.11611399947090571
-- restricted: 0.11505519307653903
-- 37: 0.1140421050744965
-- healthy: 0.11355150405449081
-- diffusion: 0.1127559625338907
-- seizure: 0.11138861108590642
-- arterial: 0.11023666313039668
-- parietal: 0.10808968306526551
-- etiology: 0.10783461286486597
-- previously: 0.10745713189850979
-- infarction: 0.10508478743144788
-- er: 0.10012078849928721
-- cerebral: 0.09273936721319956
-- left: 0.09132506227549057
-- first: 0.09033371368817723
-- hemorrhage: 0.0896225614656928
-- vascular: 0.08837224880093904
-- time: 0.07934213794771433
-- of: 0.078587369405435
-- shows: 0.0785641807122331
-- been: 0.0779882934699289
-- lobe: 0.07735687706114111
-- enhancement: 0.07704742782002715
-- mild: 0.07588137111270257
-- man: 0.07086709271223987
-- posterior: 0.06922010850959465
-- mri: 0.06871179490045282
-- to: 0.0669294237701622
-- presents: 0.06439352113749035
-- has: 0.06114330165205515
-- the: 0.053419800560929875
-- not: 0.052844704052397995
-- with: 0.05242288355995227
-- ct: 0.050961720449576045
-- this: 0.04599667202045002
-- right: 0.04438009518484964
-- patient: 0.04353790532480284
-- no: 0.0435297160986185
+\-\ Texto\\:\\ \ \(0\)\
+\-\ left\\ hemiplegia\\ and\\ mild\\ aphasia\\.\ \(0\)\
+\-\ anti\\-coagulation\ \(8\)\
+\-\ \\â\\€\\¢\\ ct\\ scan\\ hemorrhagic\\ infarct\\ right\\ parietal\\ lobe\ \(0\)\
+\-\ \\â\\€\\¢\\ mri\\ scan\\ infarct\\ with\\ hemorrhage\\ and\\ leptomeningeal\\ and\\ vascular\\ enhancement\\.\\ \\ no\\ restricted\\ diffusion\ \(0\)\
+\-\ \\â\\€\\¢\\ mrv\\ scan\\ shows\\ occlusion\\ of\\ multiple\\ posterior\\ convexity\\ veins\\ and\\ the\\ left\\ transverse\\ sinus\ \(0\)\
+\-\ venous\\ infarction\\,\\ thrombosis\\ of\\ transverse\\ sinus\\ and\\ multiple\\ cerebral\\ veins\ \(0\)\
+\-\ \\â\\€\\¢\\ venous\\ infarct\ \(0\)\
+\-\ \\â\\€\\¢\\ arterial\\ infact\ \(0\)\
+\-\ \\â\\€\\¢\\ avm\ \(0\)\
+\-\ 37\\ y\\.o\\.\\ previously\\ healthy\\ man\\ presents\\ to\\ er\\ with\\ a\\ first\\ time\\ seizure\\.\ \(0\)\
+\-\ the\\ etiology\\ of\\ this\\ patient\\'s\\ venous\\ thrombosis\\ has\\ not\\ been\\ determined\\ to\\ date\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ infarct\\:\\ 0\\.33416583325771926\ \(0\)\
+\-\ venous\\:\\ 0\\.2867101530138541\ \(0\)\
+\-\ scan\\:\\ 0\\.23825277636029346\ \(0\)\
+\-\ veins\\:\\ 0\\.23757568274186322\ \(0\)\
+\-\ thrombosis\\:\\ 0\\.2182772552565298\ \(0\)\
+\-\ transverse\\:\\ 0\\.20627432568773918\ \(0\)\
+\-\ infact\\:\\ 0\\.20455638394626544\ \(0\)\
+\-\ sinus\\:\\ 0\\.1934525132890145\ \(0\)\
+\-\ mrv\\:\\ 0\\.15575973587856956\ \(0\)\
+\-\ hemiplegia\\:\\ 0\\.1548017976725178\ \(0\)\
+\-\ aphasia\\:\\ 0\\.1490089229495008\ \(0\)\
+\-\ convexity\\:\\ 0\\.14690606365650297\ \(0\)\
+\-\ leptomeningeal\\:\\ 0\\.14153601528089543\ \(0\)\
+\-\ and\\:\\ 0\\.13830254675285744\ \(0\)\
+\-\ multiple\\:\\ 0\\.1309475801576456\ \(0\)\
+\-\ determined\\:\\ 0\\.12750703627716134\ \(0\)\
+\-\ date\\:\\ 0\\.1237226812544084\ \(0\)\
+\-\ occlusion\\:\\ 0\\.12298546164977002\ \(0\)\
+\-\ avm\\:\\ 0\\.11838669951056627\ \(0\)\
+\-\ hemorrhagic\\:\\ 0\\.11611399947090571\ \(0\)\
+\-\ restricted\\:\\ 0\\.11505519307653903\ \(0\)\
+\-\ 37\\:\\ 0\\.1140421050744965\ \(0\)\
+\-\ healthy\\:\\ 0\\.11355150405449081\ \(0\)\
+\-\ diffusion\\:\\ 0\\.1127559625338907\ \(0\)\
+\-\ seizure\\:\\ 0\\.11138861108590642\ \(0\)\
+\-\ arterial\\:\\ 0\\.11023666313039668\ \(0\)\
+\-\ parietal\\:\\ 0\\.10808968306526551\ \(0\)\
+\-\ etiology\\:\\ 0\\.10783461286486597\ \(0\)\
+\-\ previously\\:\\ 0\\.10745713189850979\ \(0\)\
+\-\ infarction\\:\\ 0\\.10508478743144788\ \(0\)\
+\-\ er\\:\\ 0\\.10012078849928721\ \(0\)\
+\-\ cerebral\\:\\ 0\\.09273936721319956\ \(0\)\
+\-\ left\\:\\ 0\\.09132506227549057\ \(0\)\
+\-\ first\\:\\ 0\\.09033371368817723\ \(0\)\
+\-\ hemorrhage\\:\\ 0\\.0896225614656928\ \(0\)\
+\-\ vascular\\:\\ 0\\.08837224880093904\ \(0\)\
+\-\ time\\:\\ 0\\.07934213794771433\ \(0\)\
+\-\ of\\:\\ 0\\.078587369405435\ \(0\)\
+\-\ shows\\:\\ 0\\.0785641807122331\ \(0\)\
+\-\ been\\:\\ 0\\.0779882934699289\ \(0\)\
+\-\ lobe\\:\\ 0\\.07735687706114111\ \(0\)\
+\-\ enhancement\\:\\ 0\\.07704742782002715\ \(0\)\
+\-\ mild\\:\\ 0\\.07588137111270257\ \(0\)\
+\-\ man\\:\\ 0\\.07086709271223987\ \(0\)\
+\-\ posterior\\:\\ 0\\.06922010850959465\ \(0\)\
+\-\ mri\\:\\ 0\\.06871179490045282\ \(0\)\
+\-\ to\\:\\ 0\\.0669294237701622\ \(0\)\
+\-\ presents\\:\\ 0\\.06439352113749035\ \(0\)\
+\-\ has\\:\\ 0\\.06114330165205515\ \(0\)\
+\-\ the\\:\\ 0\\.053419800560929875\ \(0\)\
+\-\ not\\:\\ 0\\.052844704052397995\ \(0\)\
+\-\ with\\:\\ 0\\.05242288355995227\ \(0\)\
+\-\ ct\\:\\ 0\\.050961720449576045\ \(0\)\
+\-\ this\\:\\ 0\\.04599667202045002\ \(0\)\
+\-\ right\\:\\ 0\\.04438009518484964\ \(0\)\
+\-\ patient\\:\\ 0\\.04353790532480284\ \(0\)\
+\-\ no\\:\\ 0\\.0435297160986185\ \(0\)\

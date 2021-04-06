@@ -1,107 +1,105 @@
-Texto: 
-no respiratory stridor was present.
-this child had a high degree of suspicion for foreign body aspiration which was reinforced by plain film evaluation.  he was then evaluated by the ent department with brocoscopy. a leggo piece was removed from the right main bronchus.
-the frontal and lateral views of the thorax show hyperaeration and increased lucency of the right hemithorax.  the decubitis films demonstrate no movement of the diaphram on the right.
-foreign body aspiration
-mucus plugging
-foreign body aspiration
-19 month old male with suspected foreign body ingestion.
-the plain films demonstrate the persistent hyperinflation of the right hemithorax due to the ball-valve mechansism caused by the foreign body.  there is also increased lucency of the right thorax caused by both the increased air volume as well as the physiologic shunting of blood away from the involved lung.  these findings were more obvious on the upright views but the airtrapping persisted on the decubitus exams.
-
-
-Keywords by value: 
-- foreign: 0.1260583304783954
-- body: 0.08309172792482289
-- aspiration: 0.07235976073984046
-- thorax: 0.05802666479538176
-- hemithorax: 0.057802806914996695
-- brocoscopy: 0.05278753547285329
-- leggo: 0.05278753547285329
-- mechansism: 0.05278753547285329
-- airtrapping: 0.05278753547285329
-- decubitis: 0.048636953553332654
-- ball-valve: 0.048636953553332654
-- lucency: 0.04700801551790114
-- reinforced: 0.04620901877424185
-- hyperaeration: 0.04448637163381202
-- diaphram: 0.04448637163381202
-- caused: 0.04292706355822649
-- films: 0.042242531655951654
-- views: 0.042182198793317444
-- increased: 0.03755361883472435
-- piece: 0.036984796972163114
-- plugging: 0.03618520779477076
-- hyperinflation: 0.034849018864745555
-- decubitus: 0.034849018864745555
-- physiologic: 0.03455686219307231
-- stridor: 0.0342782992251987
-- mucus: 0.0342782992251987
-- persisted: 0.0342782992251987
-- by: 0.03408074019748203
-- plain: 0.03323669116992916
-- shunting: 0.03262408738910194
-- upright: 0.032224737841205706
-- ingestion: 0.031165272522887866
-- ent: 0.03069843694522492
-- bronchus: 0.030265379091454707
-- away: 0.029732759414709223
-- exams: 0.028901403457498347
-- right: 0.026994961350611277
-- suspicion: 0.02654785502570429
-- obvious: 0.025842567387043314
-- movement: 0.025582177495188593
-- volume: 0.02417002952607766
-- degree: 0.02397206029098252
-- main: 0.023827763574940243
-- was: 0.023671317897333816
-- 19: 0.02359473713033142
-- demonstrate: 0.02355032504590468
-- evaluated: 0.023459153437219084
-- removed: 0.023069902956326892
-- department: 0.022945579654240492
-- child: 0.02239727310618366
-- suspected: 0.022034251418660097
-- involved: 0.021463531779113244
-- respiratory: 0.021243474640138746
-- persistent: 0.02040926139225377
-- film: 0.019653466678077713
-- then: 0.018209382505521496
-- air: 0.017312949859592613
-- the: 0.01655680056330848
-- frontal: 0.016073604398103937
-- show: 0.01570752056581812
-- as: 0.015479970130468597
-- month: 0.015350985274255147
-- from: 0.015166894768313921
-- evaluation: 0.014863705364232382
-- lung: 0.014821312097238002
-- he: 0.014276570910377363
-- high: 0.01400326982680728
-- blood: 0.01396653336831916
-- due: 0.013654354209298442
-- these: 0.013316435281184672
-- both: 0.013067065812491745
-- on: 0.013004030162253198
-- more: 0.012797462930012972
-- were: 0.011618481058023482
-- well: 0.011575335047716474
-- present: 0.01155693864629749
-- lateral: 0.011057892488769764
-- had: 0.011041016881680889
-- but: 0.010913193419362501
-- findings: 0.010891239136466824
-- no: 0.010304720367710204
-- also: 0.010087542477066775
-- which: 0.009551763995464363
-- male: 0.009252727771781277
-- there: 0.007615063212365202
-- this: 0.005755312654575647
-- old: 0.005239129322528471
-- of: 0.004883392847819874
-- a: 0.004749698225372471
-- for: 0.004365917057740809
-- is: 0.0033670106490103335
-- to: 0.002557294062532852
-- and: 0.0021557964758349515
-- .: 0.0021257207243919924
-- with: 0.001401247617842991
+\-\ Texto\\:\\ \ \(0\)\
+\-\ no\\ respiratory\\ stridor\\ was\\ present\\.\ \(0\)\
+\-\ this\\ child\\ had\\ a\\ high\\ degree\\ of\\ suspicion\\ for\\ foreign\\ body\\ aspiration\\ which\\ was\\ reinforced\\ by\\ plain\\ film\\ evaluation\\.\\ \\ he\\ was\\ then\\ evaluated\\ by\\ the\\ ent\\ department\\ with\\ brocoscopy\\.\\ a\\ leggo\\ piece\\ was\\ removed\\ from\\ the\\ right\\ main\\ bronchus\\.\ \(0\)\
+\-\ the\\ frontal\\ and\\ lateral\\ views\\ of\\ the\\ thorax\\ show\\ hyperaeration\\ and\\ increased\\ lucency\\ of\\ the\\ right\\ hemithorax\\.\\ \\ the\\ decubitis\\ films\\ demonstrate\\ no\\ movement\\ of\\ the\\ diaphram\\ on\\ the\\ right\\.\ \(0\)\
+\-\ foreign\\ body\\ aspiration\ \(2\)\
+\-\ mucus\\ plugging\ \(3\)\
+\-\ foreign\\ body\\ aspiration\ \(2\)\
+\-\ 19\\ month\\ old\\ male\\ with\\ suspected\\ foreign\\ body\\ ingestion\\.\ \(1\)\
+\-\ the\\ plain\\ films\\ demonstrate\\ the\\ persistent\\ hyperinflation\\ of\\ the\\ right\\ hemithorax\\ due\\ to\\ the\\ ball\\-valve\\ mechansism\\ caused\\ by\\ the\\ foreign\\ body\\.\\ \\ there\\ is\\ also\\ increased\\ lucency\\ of\\ the\\ right\\ thorax\\ caused\\ by\\ both\\ the\\ increased\\ air\\ volume\\ as\\ well\\ as\\ the\\ physiologic\\ shunting\\ of\\ blood\\ away\\ from\\ the\\ involved\\ lung\\.\\ \\ these\\ findings\\ were\\ more\\ obvious\\ on\\ the\\ upright\\ views\\ but\\ the\\ airtrapping\\ persisted\\ on\\ the\\ decubitus\\ exams\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ foreign\\:\\ 0\\.1260583304783954\ \(0\)\
+\-\ body\\:\\ 0\\.08309172792482289\ \(0\)\
+\-\ aspiration\\:\\ 0\\.07235976073984046\ \(0\)\
+\-\ thorax\\:\\ 0\\.05802666479538176\ \(0\)\
+\-\ hemithorax\\:\\ 0\\.057802806914996695\ \(0\)\
+\-\ brocoscopy\\:\\ 0\\.05278753547285329\ \(0\)\
+\-\ leggo\\:\\ 0\\.05278753547285329\ \(0\)\
+\-\ mechansism\\:\\ 0\\.05278753547285329\ \(0\)\
+\-\ airtrapping\\:\\ 0\\.05278753547285329\ \(0\)\
+\-\ decubitis\\:\\ 0\\.048636953553332654\ \(0\)\
+\-\ ball\\-valve\\:\\ 0\\.048636953553332654\ \(0\)\
+\-\ lucency\\:\\ 0\\.04700801551790114\ \(0\)\
+\-\ reinforced\\:\\ 0\\.04620901877424185\ \(0\)\
+\-\ hyperaeration\\:\\ 0\\.04448637163381202\ \(0\)\
+\-\ diaphram\\:\\ 0\\.04448637163381202\ \(0\)\
+\-\ caused\\:\\ 0\\.04292706355822649\ \(0\)\
+\-\ films\\:\\ 0\\.042242531655951654\ \(0\)\
+\-\ views\\:\\ 0\\.042182198793317444\ \(0\)\
+\-\ increased\\:\\ 0\\.03755361883472435\ \(0\)\
+\-\ piece\\:\\ 0\\.036984796972163114\ \(0\)\
+\-\ plugging\\:\\ 0\\.03618520779477076\ \(0\)\
+\-\ hyperinflation\\:\\ 0\\.034849018864745555\ \(0\)\
+\-\ decubitus\\:\\ 0\\.034849018864745555\ \(0\)\
+\-\ physiologic\\:\\ 0\\.03455686219307231\ \(0\)\
+\-\ stridor\\:\\ 0\\.0342782992251987\ \(0\)\
+\-\ mucus\\:\\ 0\\.0342782992251987\ \(0\)\
+\-\ persisted\\:\\ 0\\.0342782992251987\ \(0\)\
+\-\ by\\:\\ 0\\.03408074019748203\ \(0\)\
+\-\ plain\\:\\ 0\\.03323669116992916\ \(0\)\
+\-\ shunting\\:\\ 0\\.03262408738910194\ \(0\)\
+\-\ upright\\:\\ 0\\.032224737841205706\ \(0\)\
+\-\ ingestion\\:\\ 0\\.031165272522887866\ \(0\)\
+\-\ ent\\:\\ 0\\.03069843694522492\ \(0\)\
+\-\ bronchus\\:\\ 0\\.030265379091454707\ \(0\)\
+\-\ away\\:\\ 0\\.029732759414709223\ \(0\)\
+\-\ exams\\:\\ 0\\.028901403457498347\ \(0\)\
+\-\ right\\:\\ 0\\.026994961350611277\ \(0\)\
+\-\ suspicion\\:\\ 0\\.02654785502570429\ \(0\)\
+\-\ obvious\\:\\ 0\\.025842567387043314\ \(0\)\
+\-\ movement\\:\\ 0\\.025582177495188593\ \(0\)\
+\-\ volume\\:\\ 0\\.02417002952607766\ \(0\)\
+\-\ degree\\:\\ 0\\.02397206029098252\ \(0\)\
+\-\ main\\:\\ 0\\.023827763574940243\ \(0\)\
+\-\ was\\:\\ 0\\.023671317897333816\ \(0\)\
+\-\ 19\\:\\ 0\\.02359473713033142\ \(0\)\
+\-\ demonstrate\\:\\ 0\\.02355032504590468\ \(0\)\
+\-\ evaluated\\:\\ 0\\.023459153437219084\ \(0\)\
+\-\ removed\\:\\ 0\\.023069902956326892\ \(0\)\
+\-\ department\\:\\ 0\\.022945579654240492\ \(0\)\
+\-\ child\\:\\ 0\\.02239727310618366\ \(0\)\
+\-\ suspected\\:\\ 0\\.022034251418660097\ \(0\)\
+\-\ involved\\:\\ 0\\.021463531779113244\ \(0\)\
+\-\ respiratory\\:\\ 0\\.021243474640138746\ \(0\)\
+\-\ persistent\\:\\ 0\\.02040926139225377\ \(0\)\
+\-\ film\\:\\ 0\\.019653466678077713\ \(0\)\
+\-\ then\\:\\ 0\\.018209382505521496\ \(0\)\
+\-\ air\\:\\ 0\\.017312949859592613\ \(0\)\
+\-\ the\\:\\ 0\\.01655680056330848\ \(0\)\
+\-\ frontal\\:\\ 0\\.016073604398103937\ \(0\)\
+\-\ show\\:\\ 0\\.01570752056581812\ \(0\)\
+\-\ as\\:\\ 0\\.015479970130468597\ \(0\)\
+\-\ month\\:\\ 0\\.015350985274255147\ \(0\)\
+\-\ from\\:\\ 0\\.015166894768313921\ \(0\)\
+\-\ evaluation\\:\\ 0\\.014863705364232382\ \(0\)\
+\-\ lung\\:\\ 0\\.014821312097238002\ \(0\)\
+\-\ he\\:\\ 0\\.014276570910377363\ \(0\)\
+\-\ high\\:\\ 0\\.01400326982680728\ \(0\)\
+\-\ blood\\:\\ 0\\.01396653336831916\ \(0\)\
+\-\ due\\:\\ 0\\.013654354209298442\ \(0\)\
+\-\ these\\:\\ 0\\.013316435281184672\ \(0\)\
+\-\ both\\:\\ 0\\.013067065812491745\ \(0\)\
+\-\ on\\:\\ 0\\.013004030162253198\ \(0\)\
+\-\ more\\:\\ 0\\.012797462930012972\ \(0\)\
+\-\ were\\:\\ 0\\.011618481058023482\ \(0\)\
+\-\ well\\:\\ 0\\.011575335047716474\ \(0\)\
+\-\ present\\:\\ 0\\.01155693864629749\ \(0\)\
+\-\ lateral\\:\\ 0\\.011057892488769764\ \(0\)\
+\-\ had\\:\\ 0\\.011041016881680889\ \(0\)\
+\-\ but\\:\\ 0\\.010913193419362501\ \(0\)\
+\-\ findings\\:\\ 0\\.010891239136466824\ \(0\)\
+\-\ no\\:\\ 0\\.010304720367710204\ \(0\)\
+\-\ also\\:\\ 0\\.010087542477066775\ \(0\)\
+\-\ which\\:\\ 0\\.009551763995464363\ \(0\)\
+\-\ male\\:\\ 0\\.009252727771781277\ \(0\)\
+\-\ there\\:\\ 0\\.007615063212365202\ \(0\)\
+\-\ this\\:\\ 0\\.005755312654575647\ \(0\)\
+\-\ old\\:\\ 0\\.005239129322528471\ \(0\)\
+\-\ of\\:\\ 0\\.004883392847819874\ \(0\)\
+\-\ a\\:\\ 0\\.004749698225372471\ \(0\)\
+\-\ for\\:\\ 0\\.004365917057740809\ \(0\)\
+\-\ is\\:\\ 0\\.0033670106490103335\ \(0\)\
+\-\ to\\:\\ 0\\.002557294062532852\ \(0\)\
+\-\ and\\:\\ 0\\.0021557964758349515\ \(0\)\
+\-\ \\.\\:\\ 0\\.0021257207243919924\ \(0\)\
+\-\ with\\:\\ 0\\.001401247617842991\ \(0\)\

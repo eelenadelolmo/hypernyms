@@ -1,132 +1,130 @@
-Texto: 
-afebrile. vss.
-abdomen: soft, nontender to palpation.
-1) cystectomy and close interval follow up for recurrence surveillance.
-1) not pictured: noncontrast-enhanced ct abdomen/pelvis. no nephroureterolithiasis. no hydronephrosis. soft tissue filling defects in the bladder - 1) left lateral wall, broad-based mass, 2) trigone filling defect. 
-2) status post iv contrast:
-a) (2) enhancing bladder masses.
-b) symmetric enhancement of normal-sized kidneys. no hydronephrosis. no concomitant upper tract filling defects.
-transitional cell cancer of bladder
-1)  urothelial cell tumor: transitional cell carcinoma
-2)  urothelial cell tumor: squamous cell carcinoma
-3)  urothelial cell tumor: primary adenocarcinoma
-4)  metastatic disease
-5)  benign bladder tumor types ie leiomyoma
-6)  fungus ball
-7)  hematoma
-8)  foreign body
-9)  enlarged prostate
-10)  ureterocoele
-11) urethral diverticulum ("female prostate")
-12) cystitis glandularis
-13) schistosomiasis
-60 year old male presents with right flank pain and frank hematuria.
-the patient has a typical profile in terms of age and gender. also, his presentation is consistent though nonspecific.
-
-
-Keywords by value: 
-- urothelial: 0.3392642535700378
-- cell: 0.2984921208662534
-- bladder: 0.2699436922528079
-- filling: 0.20204197831403514
-- transitional: 0.1875845826654155
-- tumor: 0.18195352331794704
-- prostate: 0.16846976621894483
-- hydronephrosis: 0.16141628157344634
-- defects: 0.14995005827938426
-- nephroureterolithiasis: 0.139077924597384
-- ureterocoele: 0.13289638178568516
-- glandularis: 0.13289638178568516
-- pictured: 0.1199788510450447
-- cystectomy: 0.11794309012824084
-- no: 0.11312170577250968
-- trigone: 0.11054125137897819
-- schistosomiasis: 0.11054125137897819
-- abdomen: 0.106127778708729
-- fungus: 0.10558000450484314
-- carcinoma: 0.1040385287393278
-- cystitis: 0.10252066728877435
-- gender: 0.10184297525586636
-- vss: 0.0999738341444066
-- ie: 0.09939846169314431
-- profile: 0.09939846169314431
-- concomitant: 0.09884401657590151
-- terms: 0.09884401657590151
-- urethral: 0.0963391244770755
-- surveillance: 0.09501258727027156
-- soft: 0.09259793393827966
-- ball: 0.09230373814376827
-- leiomyoma: 0.09031236025813379
-- frank: 0.0891160165021493
-- nontender: 0.08191463359030711
-- nonspecific: 0.08173632090919668
-- types: 0.08087476059206727
-- foreign: 0.07883899967526341
-- close: 0.07869310803142555
-- interval: 0.07869310803142555
-- squamous: 0.07826362722400113
-- diverticulum: 0.07704333128643732
-- hematuria: 0.07691358105272492
-- flank: 0.07628089439697046
-- though: 0.07555477809749785
-- afebrile: 0.0750892286282701
-- kidneys: 0.0748616787257956
-- symmetric: 0.07452659797502433
-- tract: 0.07285417650186343
-- recurrence: 0.07180234150972681
-- adenocarcinoma: 0.07108052336659483
-- typical: 0.06720997778436996
-- 13: 0.06559003065440758
-- 11: 0.06510600395538288
-- 60: 0.06504656699729479
-- defect: 0.06379436226558148
-- iv: 0.06213898208014081
-- hematoma: 0.060869743691429175
-- status: 0.060690382088068554
-- presentation: 0.05986609699840643
-- benign: 0.059739926122924086
-- 12: 0.0594495257152384
-- enlarged: 0.05928603288363909
-- masses: 0.05920493928584583
-- palpation: 0.058649049981566545
-- cancer: 0.0579256542413206
-- body: 0.057235034024098075
-- age: 0.054598256309465076
-- enhancing: 0.054479149762723195
-- and: 0.053911516328021825
-- primary: 0.05347484578473546
-- wall: 0.05290255916699029
-- his: 0.05274291833198519
-- of: 0.05105671525158009
-- 10: 0.050853430813609456
-- enhancement: 0.05005624457003062
-- metastatic: 0.04769662338642296
-- post: 0.04732109798609442
-- consistent: 0.04715508298330674
-- follow: 0.04688234654266565
-- upper: 0.04647340320209861
-- tissue: 0.045620520858801764
-- in: 0.04326874818258161
-- lateral: 0.04315942702208083
-- up: 0.04301891394963034
-- contrast: 0.04225511255998899
-- female: 0.041965214171186045
-- presents: 0.04183524270677617
-- also: 0.040906419324813356
-- has: 0.039723637088360776
-- male: 0.0387207083160073
-- disease: 0.03650533128882368
-- the: 0.034705825715639356
-- not: 0.0343321964810634
-- mass: 0.03321877594170361
-- ct: 0.0331088579425676
-- pain: 0.03111971537802847
-- left: 0.02966607570153679
-- right: 0.02883290151883086
-- patient: 0.028285746827211886
-- year: 0.026801277983328615
-- for: 0.0263587950222222
-- old: 0.02573850435660499
-- is: 0.023816291260595805
-- to: 0.02174138514394133
-- with: 0.017029073875592257
+\-\ Texto\\:\\ \ \(0\)\
+\-\ afebrile\\.\\ vss\\.\ \(0\)\
+\-\ abdomen\\:\\ soft\\,\\ nontender\\ to\\ palpation\\.\ \(0\)\
+\-\ 1\\)\\ cystectomy\\ and\\ close\\ interval\\ follow\\ up\\ for\\ recurrence\\ surveillance\\.\ \(0\)\
+\-\ 1\\)\\ not\\ pictured\\:\\ noncontrast\\-enhanced\\ ct\\ abdomen\\/pelvis\\.\\ no\\ nephroureterolithiasis\\.\\ no\\ hydronephrosis\\.\\ soft\\ tissue\\ filling\\ defects\\ in\\ the\\ bladder\\ \\-\\ 1\\)\\ left\\ lateral\\ wall\\,\\ broad\\-based\\ mass\\,\\ 2\\)\\ trigone\\ filling\\ defect\\.\\ \ \(0\)\
+\-\ 2\\)\\ status\\ post\\ iv\\ contrast\\:\ \(0\)\
+\-\ a\\)\\ \\(2\\)\\ enhancing\\ bladder\\ masses\\.\ \(1\)\
+\-\ b\\)\\ symmetric\\ enhancement\\ of\\ normal\\-sized\\ kidneys\\.\\ no\\ hydronephrosis\\.\\ no\\ concomitant\\ upper\\ tract\\ filling\\ defects\\.\ \(0\)\
+\-\ transitional\\ cell\\ cancer\\ of\\ bladder\ \(0\)\
+\-\ 1\\)\\ \\ urothelial\\ cell\\ tumor\\:\\ transitional\\ cell\\ carcinoma\ \(0\)\
+\-\ 2\\)\\ \\ urothelial\\ cell\\ tumor\\:\\ squamous\\ cell\\ carcinoma\ \(0\)\
+\-\ 3\\)\\ \\ urothelial\\ cell\\ tumor\\:\\ primary\\ adenocarcinoma\ \(0\)\
+\-\ 4\\)\\ \\ metastatic\\ disease\ \(0\)\
+\-\ 5\\)\\ \\ benign\\ bladder\\ tumor\\ types\\ ie\\ leiomyoma\ \(0\)\
+\-\ 6\\)\\ \\ fungus\\ ball\ \(0\)\
+\-\ 7\\)\\ \\ hematoma\ \(0\)\
+\-\ 8\\)\\ \\ foreign\\ body\ \(0\)\
+\-\ 9\\)\\ \\ enlarged\\ prostate\ \(0\)\
+\-\ 10\\)\\ \\ ureterocoele\ \(0\)\
+\-\ 11\\)\\ urethral\\ diverticulum\\ \\(\\"female\\ prostate\\"\\)\ \(0\)\
+\-\ 12\\)\\ cystitis\\ glandularis\ \(0\)\
+\-\ 13\\)\\ schistosomiasis\ \(0\)\
+\-\ 60\\ year\\ old\\ male\\ presents\\ with\\ right\\ flank\\ pain\\ and\\ frank\\ hematuria\\.\ \(1\)\
+\-\ the\\ patient\\ has\\ a\\ typical\\ profile\\ in\\ terms\\ of\\ age\\ and\\ gender\\.\\ also\\,\\ his\\ presentation\\ is\\ consistent\\ though\\ nonspecific\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ urothelial\\:\\ 0\\.3392642535700378\ \(0\)\
+\-\ cell\\:\\ 0\\.2984921208662534\ \(0\)\
+\-\ bladder\\:\\ 0\\.2699436922528079\ \(0\)\
+\-\ filling\\:\\ 0\\.20204197831403514\ \(0\)\
+\-\ transitional\\:\\ 0\\.1875845826654155\ \(0\)\
+\-\ tumor\\:\\ 0\\.18195352331794704\ \(0\)\
+\-\ prostate\\:\\ 0\\.16846976621894483\ \(0\)\
+\-\ hydronephrosis\\:\\ 0\\.16141628157344634\ \(0\)\
+\-\ defects\\:\\ 0\\.14995005827938426\ \(0\)\
+\-\ nephroureterolithiasis\\:\\ 0\\.139077924597384\ \(0\)\
+\-\ ureterocoele\\:\\ 0\\.13289638178568516\ \(0\)\
+\-\ glandularis\\:\\ 0\\.13289638178568516\ \(0\)\
+\-\ pictured\\:\\ 0\\.1199788510450447\ \(0\)\
+\-\ cystectomy\\:\\ 0\\.11794309012824084\ \(0\)\
+\-\ no\\:\\ 0\\.11312170577250968\ \(0\)\
+\-\ trigone\\:\\ 0\\.11054125137897819\ \(0\)\
+\-\ schistosomiasis\\:\\ 0\\.11054125137897819\ \(0\)\
+\-\ abdomen\\:\\ 0\\.106127778708729\ \(0\)\
+\-\ fungus\\:\\ 0\\.10558000450484314\ \(0\)\
+\-\ carcinoma\\:\\ 0\\.1040385287393278\ \(0\)\
+\-\ cystitis\\:\\ 0\\.10252066728877435\ \(0\)\
+\-\ gender\\:\\ 0\\.10184297525586636\ \(0\)\
+\-\ vss\\:\\ 0\\.0999738341444066\ \(0\)\
+\-\ ie\\:\\ 0\\.09939846169314431\ \(0\)\
+\-\ profile\\:\\ 0\\.09939846169314431\ \(0\)\
+\-\ concomitant\\:\\ 0\\.09884401657590151\ \(0\)\
+\-\ terms\\:\\ 0\\.09884401657590151\ \(0\)\
+\-\ urethral\\:\\ 0\\.0963391244770755\ \(0\)\
+\-\ surveillance\\:\\ 0\\.09501258727027156\ \(0\)\
+\-\ soft\\:\\ 0\\.09259793393827966\ \(0\)\
+\-\ ball\\:\\ 0\\.09230373814376827\ \(0\)\
+\-\ leiomyoma\\:\\ 0\\.09031236025813379\ \(0\)\
+\-\ frank\\:\\ 0\\.0891160165021493\ \(0\)\
+\-\ nontender\\:\\ 0\\.08191463359030711\ \(0\)\
+\-\ nonspecific\\:\\ 0\\.08173632090919668\ \(0\)\
+\-\ types\\:\\ 0\\.08087476059206727\ \(0\)\
+\-\ foreign\\:\\ 0\\.07883899967526341\ \(0\)\
+\-\ close\\:\\ 0\\.07869310803142555\ \(0\)\
+\-\ interval\\:\\ 0\\.07869310803142555\ \(0\)\
+\-\ squamous\\:\\ 0\\.07826362722400113\ \(0\)\
+\-\ diverticulum\\:\\ 0\\.07704333128643732\ \(0\)\
+\-\ hematuria\\:\\ 0\\.07691358105272492\ \(0\)\
+\-\ flank\\:\\ 0\\.07628089439697046\ \(0\)\
+\-\ though\\:\\ 0\\.07555477809749785\ \(0\)\
+\-\ afebrile\\:\\ 0\\.0750892286282701\ \(0\)\
+\-\ kidneys\\:\\ 0\\.0748616787257956\ \(0\)\
+\-\ symmetric\\:\\ 0\\.07452659797502433\ \(0\)\
+\-\ tract\\:\\ 0\\.07285417650186343\ \(0\)\
+\-\ recurrence\\:\\ 0\\.07180234150972681\ \(0\)\
+\-\ adenocarcinoma\\:\\ 0\\.07108052336659483\ \(0\)\
+\-\ typical\\:\\ 0\\.06720997778436996\ \(0\)\
+\-\ 13\\:\\ 0\\.06559003065440758\ \(0\)\
+\-\ 11\\:\\ 0\\.06510600395538288\ \(0\)\
+\-\ 60\\:\\ 0\\.06504656699729479\ \(0\)\
+\-\ defect\\:\\ 0\\.06379436226558148\ \(0\)\
+\-\ iv\\:\\ 0\\.06213898208014081\ \(0\)\
+\-\ hematoma\\:\\ 0\\.060869743691429175\ \(0\)\
+\-\ status\\:\\ 0\\.060690382088068554\ \(0\)\
+\-\ presentation\\:\\ 0\\.05986609699840643\ \(0\)\
+\-\ benign\\:\\ 0\\.059739926122924086\ \(0\)\
+\-\ 12\\:\\ 0\\.0594495257152384\ \(0\)\
+\-\ enlarged\\:\\ 0\\.05928603288363909\ \(0\)\
+\-\ masses\\:\\ 0\\.05920493928584583\ \(0\)\
+\-\ palpation\\:\\ 0\\.058649049981566545\ \(0\)\
+\-\ cancer\\:\\ 0\\.0579256542413206\ \(0\)\
+\-\ body\\:\\ 0\\.057235034024098075\ \(0\)\
+\-\ age\\:\\ 0\\.054598256309465076\ \(0\)\
+\-\ enhancing\\:\\ 0\\.054479149762723195\ \(0\)\
+\-\ and\\:\\ 0\\.053911516328021825\ \(0\)\
+\-\ primary\\:\\ 0\\.05347484578473546\ \(0\)\
+\-\ wall\\:\\ 0\\.05290255916699029\ \(0\)\
+\-\ his\\:\\ 0\\.05274291833198519\ \(0\)\
+\-\ of\\:\\ 0\\.05105671525158009\ \(0\)\
+\-\ 10\\:\\ 0\\.050853430813609456\ \(0\)\
+\-\ enhancement\\:\\ 0\\.05005624457003062\ \(0\)\
+\-\ metastatic\\:\\ 0\\.04769662338642296\ \(0\)\
+\-\ post\\:\\ 0\\.04732109798609442\ \(0\)\
+\-\ consistent\\:\\ 0\\.04715508298330674\ \(0\)\
+\-\ follow\\:\\ 0\\.04688234654266565\ \(0\)\
+\-\ upper\\:\\ 0\\.04647340320209861\ \(0\)\
+\-\ tissue\\:\\ 0\\.045620520858801764\ \(0\)\
+\-\ in\\:\\ 0\\.04326874818258161\ \(0\)\
+\-\ lateral\\:\\ 0\\.04315942702208083\ \(0\)\
+\-\ up\\:\\ 0\\.04301891394963034\ \(0\)\
+\-\ contrast\\:\\ 0\\.04225511255998899\ \(0\)\
+\-\ female\\:\\ 0\\.041965214171186045\ \(0\)\
+\-\ presents\\:\\ 0\\.04183524270677617\ \(0\)\
+\-\ also\\:\\ 0\\.040906419324813356\ \(0\)\
+\-\ has\\:\\ 0\\.039723637088360776\ \(0\)\
+\-\ male\\:\\ 0\\.0387207083160073\ \(0\)\
+\-\ disease\\:\\ 0\\.03650533128882368\ \(0\)\
+\-\ the\\:\\ 0\\.034705825715639356\ \(0\)\
+\-\ not\\:\\ 0\\.0343321964810634\ \(0\)\
+\-\ mass\\:\\ 0\\.03321877594170361\ \(0\)\
+\-\ ct\\:\\ 0\\.0331088579425676\ \(0\)\
+\-\ pain\\:\\ 0\\.03111971537802847\ \(0\)\
+\-\ left\\:\\ 0\\.02966607570153679\ \(0\)\
+\-\ right\\:\\ 0\\.02883290151883086\ \(0\)\
+\-\ patient\\:\\ 0\\.028285746827211886\ \(0\)\
+\-\ year\\:\\ 0\\.026801277983328615\ \(0\)\
+\-\ for\\:\\ 0\\.0263587950222222\ \(0\)\
+\-\ old\\:\\ 0\\.02573850435660499\ \(0\)\
+\-\ is\\:\\ 0\\.023816291260595805\ \(0\)\
+\-\ to\\:\\ 0\\.02174138514394133\ \(0\)\
+\-\ with\\:\\ 0\\.017029073875592257\ \(0\)\

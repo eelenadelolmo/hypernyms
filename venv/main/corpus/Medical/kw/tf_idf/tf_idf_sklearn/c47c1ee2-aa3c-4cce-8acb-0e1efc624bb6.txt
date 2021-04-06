@@ -1,59 +1,57 @@
-Texto: 
-diffuse tenderness to palpation with rebound tenderness. a tender palpable mass in the left lower quadrant.
-follow up imaging to assess for resolution.
-large hyperdense mass in the left rectus muscle.
-rectus hematoma
-at presentation:
-- intussusception
-- volvulus
-- diverticulitis with abscess
-acute onset of severe abdominal pain.
-this patient presented with an acute abdomen but was diagnosed with a rectus hematoma.
-
-
-Keywords by value: 
-- rectus: 0.5529799354063252
-- hematoma: 0.24931938434103487
-- tenderness: 0.22338728635023677
-- acute: 0.19269558250245342
-- intussusception: 0.19052278380458154
-- volvulus: 0.17811801995490195
-- rebound: 0.16965194679169568
-- diverticulitis: 0.16739391339224233
-- assess: 0.16461674861200143
-- hyperdense: 0.16395940809405388
-- resolution: 0.14450660288401257
-- with: 0.13950044659571906
-- mass: 0.13606242221641704
-- tender: 0.1302047806704357
-- diagnosed: 0.12901417633263507
-- muscle: 0.1264660646701259
-- palpable: 0.1251250140668521
-- quadrant: 0.12475220341253743
-- presentation: 0.1226042491833673
-- left: 0.12151074213843178
-- palpation: 0.12011176774225242
-- abscess: 0.11436603904650064
-- onset: 0.11436603904650064
-- severe: 0.11274792975917991
-- diffuse: 0.11169364317511839
-- abdomen: 0.10867350034885881
-- presented: 0.10386052745846082
-- abdominal: 0.0974101423303038
-- follow: 0.09601385735854741
-- imaging: 0.09360000639684643
-- lower: 0.09101165648688048
-- large: 0.08923925677145471
-- to: 0.08905161136027619
-- in: 0.08861329951359313
-- up: 0.08810164533723837
-- but: 0.08807301395390284
-- the: 0.07107665135190006
-- an: 0.0681066096508616
-- at: 0.06727237052180259
-- pain: 0.06373238828021195
-- was: 0.06207122412887532
-- this: 0.06119995556359887
-- patient: 0.05792849252279533
-- for: 0.05398214407002108
-- of: 0.0348542862212179
+\-\ Texto\\:\\ \ \(0\)\
+\-\ diffuse\\ tenderness\\ to\\ palpation\\ with\\ rebound\\ tenderness\\.\\ a\\ tender\\ palpable\\ mass\\ in\\ the\\ left\\ lower\\ quadrant\\.\ \(0\)\
+\-\ follow\\ up\\ imaging\\ to\\ assess\\ for\\ resolution\\.\ \(0\)\
+\-\ large\\ hyperdense\\ mass\\ in\\ the\\ left\\ rectus\\ muscle\\.\ \(0\)\
+\-\ rectus\\ hematoma\ \(1\)\
+\-\ at\\ presentation\\:\ \(0\)\
+\-\ intussusception\ \(91\)\
+\-\ volvulus\ \(94\)\
+\-\ diverticulitis\\ with\\ abscess\ \(1\)\
+\-\ acute\\ onset\\ of\\ severe\\ abdominal\\ pain\\.\ \(0\)\
+\-\ this\\ patient\\ presented\\ with\\ an\\ acute\\ abdomen\\ but\\ was\\ diagnosed\\ with\\ a\\ rectus\\ hematoma\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ rectus\\:\\ 0\\.5529799354063252\ \(0\)\
+\-\ hematoma\\:\\ 0\\.24931938434103487\ \(0\)\
+\-\ tenderness\\:\\ 0\\.22338728635023677\ \(0\)\
+\-\ acute\\:\\ 0\\.19269558250245342\ \(0\)\
+\-\ intussusception\\:\\ 0\\.19052278380458154\ \(0\)\
+\-\ volvulus\\:\\ 0\\.17811801995490195\ \(0\)\
+\-\ rebound\\:\\ 0\\.16965194679169568\ \(0\)\
+\-\ diverticulitis\\:\\ 0\\.16739391339224233\ \(0\)\
+\-\ assess\\:\\ 0\\.16461674861200143\ \(0\)\
+\-\ hyperdense\\:\\ 0\\.16395940809405388\ \(0\)\
+\-\ resolution\\:\\ 0\\.14450660288401257\ \(0\)\
+\-\ with\\:\\ 0\\.13950044659571906\ \(0\)\
+\-\ mass\\:\\ 0\\.13606242221641704\ \(0\)\
+\-\ tender\\:\\ 0\\.1302047806704357\ \(0\)\
+\-\ diagnosed\\:\\ 0\\.12901417633263507\ \(0\)\
+\-\ muscle\\:\\ 0\\.1264660646701259\ \(0\)\
+\-\ palpable\\:\\ 0\\.1251250140668521\ \(0\)\
+\-\ quadrant\\:\\ 0\\.12475220341253743\ \(0\)\
+\-\ presentation\\:\\ 0\\.1226042491833673\ \(0\)\
+\-\ left\\:\\ 0\\.12151074213843178\ \(0\)\
+\-\ palpation\\:\\ 0\\.12011176774225242\ \(0\)\
+\-\ abscess\\:\\ 0\\.11436603904650064\ \(0\)\
+\-\ onset\\:\\ 0\\.11436603904650064\ \(0\)\
+\-\ severe\\:\\ 0\\.11274792975917991\ \(0\)\
+\-\ diffuse\\:\\ 0\\.11169364317511839\ \(0\)\
+\-\ abdomen\\:\\ 0\\.10867350034885881\ \(0\)\
+\-\ presented\\:\\ 0\\.10386052745846082\ \(0\)\
+\-\ abdominal\\:\\ 0\\.0974101423303038\ \(0\)\
+\-\ follow\\:\\ 0\\.09601385735854741\ \(0\)\
+\-\ imaging\\:\\ 0\\.09360000639684643\ \(0\)\
+\-\ lower\\:\\ 0\\.09101165648688048\ \(0\)\
+\-\ large\\:\\ 0\\.08923925677145471\ \(0\)\
+\-\ to\\:\\ 0\\.08905161136027619\ \(0\)\
+\-\ in\\:\\ 0\\.08861329951359313\ \(0\)\
+\-\ up\\:\\ 0\\.08810164533723837\ \(0\)\
+\-\ but\\:\\ 0\\.08807301395390284\ \(0\)\
+\-\ the\\:\\ 0\\.07107665135190006\ \(0\)\
+\-\ an\\:\\ 0\\.0681066096508616\ \(0\)\
+\-\ at\\:\\ 0\\.06727237052180259\ \(0\)\
+\-\ pain\\:\\ 0\\.06373238828021195\ \(0\)\
+\-\ was\\:\\ 0\\.06207122412887532\ \(0\)\
+\-\ this\\:\\ 0\\.06119995556359887\ \(0\)\
+\-\ patient\\:\\ 0\\.05792849252279533\ \(0\)\
+\-\ for\\:\\ 0\\.05398214407002108\ \(0\)\
+\-\ of\\:\\ 0\\.0348542862212179\ \(0\)\

@@ -1,255 +1,250 @@
-Texto: 
-patient is a well-developed, well-nourished afebrile boy. his tympanic membranes are clear and non-bulging. pupils are equal and reactive to light. his extraocular muscles are intact and he has some mild tenderness on the left side of his mandible. his oral cavity and pharynx appear moist without gross lesions or exudate. pulmonary, cardiac, and abdominal exams are unremarkable. he does not have any rashes. his neurological exam is significant for decreased sensation on the left side of his face near the angle of the mandible, and facial asymetry with smiling. otherwise, his neurological exam is unremarkable.
-
-initial cbc and cmp were unremarkable.
-surgical resection of the tumor was not possible due to it's anatomical relationship with vital structures. patient had a port placed and underwent radiation and chemotherapy with vincristine and cyclophosphamide. the tumor responded well to this regimen, and is now quiescent. however, he did have recurrent sinusitis after treatment and eventually received a bilateral endoscopic sinus procedure with maxillary antrostomy.
-head ct without contrast:
-â€¢extensive bony destruction at the skull base involving the left sphenoid bone, clivus, dorsum sellae, tip of the left petrous apex, left optic apex
-â€¢soft tissue density extending from the sphenoid sinus into the medial aspect of the left middle fossa
-
-brain mri, w/wo contrast
-â€¢infiltrative enhancing nasopharyngeal midline mass that extends into the medial aspect of the left middle cranial fossa, sphenoid sinus and anteriorly into the ethmoid air cells
-â€¢there is a large central non-enhancing portion of the mass suggesting central necrosis
-nasopharyngeal embryonal rhabdomyosarcoma
-1. rhabdomyosarcoma 
-2. chondrosarcoma 
-3. nasopharyngeal sarcoma 
-4. nasopharyngeal carcinoma 
-5. craniopharyngioma
-previously healthy 6 year-old male presents with a 3 week history of headaches. approximately 1 week prior, he was admitted for observation. the ct scan of his head from the outside institution was interpreted as sinusitis and he was discharged on augmentin.   headaches have persisted since time of discharge and they are now accompanied with emesis, drooling, left-sided facial droop, decreased oral intake, and blurred vision.
-this patient was found to have nasopharyngeal embryonal rhabdomyosarcoma. the primary site, histological subtype, and age of diagnosis is consistent with what has been described in the literature. he did not have nodal involvement, meningeal invasion, or distant metastases at diagnosis. the anatomical location of his tumor made him a poor surgical candidate.
-
-this patient would be considered in clinical group iii with a tnm staging of 2 in an unfavorable location. based on these parameters, his prognosis for event-free three year survival is roughly 70%.
-
-
-Keywords by value: 
-- his: 0.30206431232936326
-- nasopharyngeal: 0.29997358269541335
-- the: 0.2087021593735518
-- he: 0.17696144093453237
-- and: 0.1749622986121883
-- rhabdomyosarcoma: 0.1512072260494415
-- sphenoid: 0.15030389913130818
-- of: 0.13645671556805467
-- left: 0.1359206208483346
-- have: 0.12440535093004122
-- embryonal: 0.11665311385541505
-- anatomical: 0.11088623875306852
-- sinus: 0.1079694817162895
-- mandible: 0.10532521188623158
-- sinusitis: 0.10274710500398802
-- unremarkable: 0.10017071335566326
-- is: 0.09547890614641012
-- are: 0.09449647542741961
-- apex: 0.09362252354851582
-- was: 0.08679026203709252
-- facial: 0.08213841741963022
-- neurological: 0.08182564625662149
-- oral: 0.07978033419167134
-- antrostomy: 0.07965140910344201
-- sellae: 0.07965140910344201
-- into: 0.07942880673669306
-- fossa: 0.07819972520966417
-- tumor: 0.07815504095401428
-- with: 0.07802185624176614
-- asymetry: 0.07611117367923347
-- headaches: 0.07430306091353184
-- smiling: 0.07359933667171507
-- quiescent: 0.07359933667171507
-- tnm: 0.07359933667171507
-- well: 0.07234963367692682
-- did: 0.07145834442866314
-- middle: 0.07123155436093247
-- location: 0.06936354412050393
-- side: 0.06881545779790167
-- unfavorable: 0.0687131662053112
-- now: 0.06837947590724956
-- augmentin: 0.06754726423998814
-- week: 0.06700013368391047
-- central: 0.06652048183823857
-- medial: 0.06484048579310692
-- patient: 0.0647981942167411
-- aspect: 0.06426411037809895
-- exudate: 0.06400702881577958
-- drooling: 0.06330815233173985
-- parameters: 0.06330815233173985
-- responded: 0.06266109377358427
-- enhancing: 0.062401578941018686
-- cyclophosphamide: 0.0620586966677134
-- decreased: 0.06170231605170646
-- on: 0.06016965103436001
-- roughly: 0.059994716539082664
-- pharynx: 0.059546859660195024
-- rashes: 0.059546859660195024
-- droop: 0.059546859660195024
-- head: 0.05941136030288798
-- not: 0.058987244062981295
-- vincristine: 0.05871467837484273
-- clivus: 0.05871467837484273
-- subtype: 0.05871467837484273
-- dorsum: 0.058326556927707524
-- persisted: 0.058326556927707524
-- blurred: 0.058326556927707524
-- nodal: 0.05759852751212884
-- tympanic: 0.05660902134185732
-- port: 0.05660902134185732
-- petrous: 0.05630262868070397
-- meningeal: 0.05600662423598646
-- cmp: 0.05544311937653426
-- moist: 0.05517444295063417
-- regimen: 0.05517444295063417
-- interpreted: 0.05517444295063417
-- histological: 0.05491378792620257
-- accompanied: 0.054414720959844086
-- intake: 0.054414720959844086
-- candidate: 0.054414720959844086
-- extraocular: 0.05417549243667887
-- relationship: 0.052863334205984845
-- without: 0.05254209432422228
-- membranes: 0.052274484495980586
-- endoscopic: 0.052086707476352925
-- ethmoid: 0.052086707476352925
-- distant: 0.052086707476352925
-- diagnosis: 0.05163865546578188
-- this: 0.051343213425226235
-- staging: 0.050874485535635526
-- exams: 0.050556948910130385
-- emesis: 0.050556948910130385
-- exam: 0.050145216834903084
-- to: 0.049806091587539854
-- eventually: 0.0496682541919863
-- him: 0.0495285504934402
-- pupils: 0.049391046944807324
-- maxillary: 0.049391046944807324
-- institution: 0.04925567532021979
-- literature: 0.048608616762064204
-- survival: 0.048608616762064204
-- surgical: 0.04841515078203599
-- contrast: 0.04839990626795679
-- craniopharyngioma: 0.048123420004951935
-- what: 0.04789057167562879
-- equal: 0.047663772044077415
-- group: 0.047334250111426966
-- tip: 0.04681126177425791
-- observation: 0.04671032082476848
-- chondrosarcoma: 0.04567077844372651
-- has: 0.04550030032388333
-- destruction: 0.045407503375799074
-- for: 0.045287888179234785
-- anteriorly: 0.04515193503655903
-- face: 0.04490363503737329
-- suggesting: 0.04490363503737329
-- discharge: 0.04466220136332267
-- invasion: 0.04442726445729196
-- vital: 0.04435033625142023
-- gross: 0.0441984838172501
-- prognosis: 0.04383002007797038
-- angle: 0.04368688089054096
-- received: 0.043338974513080386
-- light: 0.04313669608689001
-- vision: 0.04313669608689001
-- afebrile: 0.043004401209224906
-- iii: 0.043004401209224906
-- optic: 0.04287408095584241
-- reactive: 0.04274567724637021
-- discharged: 0.04274567724637021
-- muscles: 0.04268217664004508
-- sensation: 0.04268217664004508
-- healthy: 0.042250151669183916
-- poor: 0.042012550752488956
-- sarcoma: 0.041781244646058514
-- cbc: 0.04155590840089862
-- cavity: 0.041121965939114116
-- 70: 0.041121965939114116
-- extends: 0.04101676834266288
-- admitted: 0.04081010082721167
-- cranial: 0.040708572998549825
-- near: 0.04055846107966191
-- skull: 0.040410886385464834
-- described: 0.040410886385464834
-- metastases: 0.04026576457015515
-- site: 0.040170339632526704
-- previously: 0.03998256261289906
-- outside: 0.03998256261289906
-- recurrent: 0.039936242637504706
-- procedure: 0.03970825853944072
-- from: 0.0395620468862499
-- appear: 0.0392267117349564
-- placed: 0.03881085719446479
-- considered: 0.03881085719446479
-- made: 0.03841391180025785
-- bony: 0.03837519202556502
-- cells: 0.03837519202556502
-- necrosis: 0.03807146418814191
-- mass: 0.03804949376556889
-- ct: 0.03792359134730432
-- base: 0.03788686333984225
-- at: 0.03762507827022238
-- midline: 0.0374591225539929
-- structures: 0.03742440562998633
-- in: 0.03717070958092346
-- cardiac: 0.036985215049462124
-- clear: 0.036108219491814704
-- since: 0.036078470587791005
-- based: 0.036078470587791005
-- intact: 0.036048822698916
-- involvement: 0.036048822698916
-- portion: 0.035615777180466233
-- they: 0.03558765704381129
-- otherwise: 0.03550383596917168
-- chemotherapy: 0.035365897952104694
-- would: 0.035257095361843224
-- involving: 0.03488662121887162
-- or: 0.034653577074301244
-- does: 0.03443228951960246
-- underwent: 0.034310171516597085
-- boy: 0.03407094299343188
-- extending: 0.03376943406218176
-- possible: 0.03374666665714488
-- three: 0.033434003766002605
-- initial: 0.033412093353289415
-- density: 0.03302682666991492
-- radiation: 0.03300591337875644
-- air: 0.032577922935935276
-- found: 0.03222706477597098
-- any: 0.03218893679012302
-- resection: 0.03192660347738556
-- approximately: 0.03178016323324976
-- clinical: 0.03156500750346453
-- some: 0.03133775376738129
-- age: 0.03126900305874701
-- tenderness: 0.031234829649626504
-- brain: 0.031049229919786377
-- year: 0.03069875486458524
-- primary: 0.03062561388281999
-- pulmonary: 0.030359347486161606
-- carcinoma: 0.02979198689916415
-- scan: 0.029549633359901024
-- time: 0.02952155843254696
-- however: 0.02947961458142437
-- been: 0.029017821075660234
-- significant: 0.028757166051228633
-- due: 0.02862969962852503
-- lesions: 0.028604428135095943
-- mild: 0.028233879111269438
-- these: 0.028125713028745402
-- prior: 0.027866814698057404
-- abdominal: 0.027240486703998017
-- bone: 0.0271759694531714
-- consistent: 0.027006218397946744
-- bilateral: 0.026767841833106293
-- tissue: 0.026127358320566122
-- were: 0.02567380278278956
-- mri: 0.025566229000479508
-- it: 0.02549524247219968
-- large: 0.024955520332929745
-- had: 0.02481542104301534
-- after: 0.024161941341750506
-- presents: 0.0239594891959
-- treatment: 0.02372547063472338
-- male: 0.02217576216917001
-- that: 0.021614145769741248
-- be: 0.02020449896876333
-- as: 0.02000903184281531
-- an: 0.019045831884299765
-- history: 0.019028959811640298
+\-\ Texto\\:\\ \ \(0\)\
+\-\ patient\\ is\\ a\\ well\\-developed\\,\\ well\\-nourished\\ afebrile\\ boy\\.\\ his\\ tympanic\\ membranes\\ are\\ clear\\ and\\ non\\-bulging\\.\\ pupils\\ are\\ equal\\ and\\ reactive\\ to\\ light\\.\\ his\\ extraocular\\ muscles\\ are\\ intact\\ and\\ he\\ has\\ some\\ mild\\ tenderness\\ on\\ the\\ left\\ side\\ of\\ his\\ mandible\\.\\ his\\ oral\\ cavity\\ and\\ pharynx\\ appear\\ moist\\ without\\ gross\\ lesions\\ or\\ exudate\\.\\ pulmonary\\,\\ cardiac\\,\\ and\\ abdominal\\ exams\\ are\\ unremarkable\\.\\ he\\ does\\ not\\ have\\ any\\ rashes\\.\\ his\\ neurological\\ exam\\ is\\ significant\\ for\\ decreased\\ sensation\\ on\\ the\\ left\\ side\\ of\\ his\\ face\\ near\\ the\\ angle\\ of\\ the\\ mandible\\,\\ and\\ facial\\ asymetry\\ with\\ smiling\\.\\ otherwise\\,\\ his\\ neurological\\ exam\\ is\\ unremarkable\\.\ \(0\)\
+\-\ initial\\ cbc\\ and\\ cmp\\ were\\ unremarkable\\.\ \(0\)\
+\-\ surgical\\ resection\\ of\\ the\\ tumor\\ was\\ not\\ possible\\ due\\ to\\ it\\'s\\ anatomical\\ relationship\\ with\\ vital\\ structures\\.\\ patient\\ had\\ a\\ port\\ placed\\ and\\ underwent\\ radiation\\ and\\ chemotherapy\\ with\\ vincristine\\ and\\ cyclophosphamide\\.\\ the\\ tumor\\ responded\\ well\\ to\\ this\\ regimen\\,\\ and\\ is\\ now\\ quiescent\\.\\ however\\,\\ he\\ did\\ have\\ recurrent\\ sinusitis\\ after\\ treatment\\ and\\ eventually\\ received\\ a\\ bilateral\\ endoscopic\\ sinus\\ procedure\\ with\\ maxillary\\ antrostomy\\.\ \(0\)\
+\-\ head\\ ct\\ without\\ contrast\\:\ \(0\)\
+\-\ \\â\\€\\¢extensive\\ bony\\ destruction\\ at\\ the\\ skull\\ base\\ involving\\ the\\ left\\ sphenoid\\ bone\\,\\ clivus\\,\\ dorsum\\ sellae\\,\\ tip\\ of\\ the\\ left\\ petrous\\ apex\\,\\ left\\ optic\\ apex\ \(0\)\
+\-\ \\â\\€\\¢soft\\ tissue\\ density\\ extending\\ from\\ the\\ sphenoid\\ sinus\\ into\\ the\\ medial\\ aspect\\ of\\ the\\ left\\ middle\\ fossa\ \(0\)\
+\-\ brain\\ mri\\,\\ w\\/wo\\ contrast\ \(0\)\
+\-\ \\â\\€\\¢infiltrative\\ enhancing\\ nasopharyngeal\\ midline\\ mass\\ that\\ extends\\ into\\ the\\ medial\\ aspect\\ of\\ the\\ left\\ middle\\ cranial\\ fossa\\,\\ sphenoid\\ sinus\\ and\\ anteriorly\\ into\\ the\\ ethmoid\\ air\\ cells\ \(0\)\
+\-\ \\â\\€\\¢there\\ is\\ a\\ large\\ central\\ non\\-enhancing\\ portion\\ of\\ the\\ mass\\ suggesting\\ central\\ necrosis\ \(0\)\
+\-\ nasopharyngeal\\ embryonal\\ rhabdomyosarcoma\ \(1\)\
+\-\ 1\\.\\ rhabdomyosarcoma\\ \ \(0\)\
+\-\ 2\\.\\ chondrosarcoma\\ \ \(0\)\
+\-\ 3\\.\\ nasopharyngeal\\ sarcoma\\ \ \(0\)\
+\-\ 4\\.\\ nasopharyngeal\\ carcinoma\\ \ \(0\)\
+\-\ 5\\.\\ craniopharyngioma\ \(0\)\
+\-\ previously\\ healthy\\ 6\\ year\\-old\\ male\\ presents\\ with\\ a\\ 3\\ week\\ history\\ of\\ headaches\\.\\ approximately\\ 1\\ week\\ prior\\,\\ he\\ was\\ admitted\\ for\\ observation\\.\\ the\\ ct\\ scan\\ of\\ his\\ head\\ from\\ the\\ outside\\ institution\\ was\\ interpreted\\ as\\ sinusitis\\ and\\ he\\ was\\ discharged\\ on\\ augmentin\\.\\ \\ \\ headaches\\ have\\ persisted\\ since\\ time\\ of\\ discharge\\ and\\ they\\ are\\ now\\ accompanied\\ with\\ emesis\\,\\ drooling\\,\\ left\\-sided\\ facial\\ droop\\,\\ decreased\\ oral\\ intake\\,\\ and\\ blurred\\ vision\\.\ \(0\)\
+\-\ this\\ patient\\ was\\ found\\ to\\ have\\ nasopharyngeal\\ embryonal\\ rhabdomyosarcoma\\.\\ the\\ primary\\ site\\,\\ histological\\ subtype\\,\\ and\\ age\\ of\\ diagnosis\\ is\\ consistent\\ with\\ what\\ has\\ been\\ described\\ in\\ the\\ literature\\.\\ he\\ did\\ not\\ have\\ nodal\\ involvement\\,\\ meningeal\\ invasion\\,\\ or\\ distant\\ metastases\\ at\\ diagnosis\\.\\ the\\ anatomical\\ location\\ of\\ his\\ tumor\\ made\\ him\\ a\\ poor\\ surgical\\ candidate\\.\ \(0\)\
+\-\ this\\ patient\\ would\\ be\\ considered\\ in\\ clinical\\ group\\ iii\\ with\\ a\\ tnm\\ staging\\ of\\ 2\\ in\\ an\\ unfavorable\\ location\\.\\ based\\ on\\ these\\ parameters\\,\\ his\\ prognosis\\ for\\ event\\-free\\ three\\ year\\ survival\\ is\\ roughly\\ 70\\%\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ his\\:\\ 0\\.30206431232936326\ \(0\)\
+\-\ nasopharyngeal\\:\\ 0\\.29997358269541335\ \(0\)\
+\-\ the\\:\\ 0\\.2087021593735518\ \(0\)\
+\-\ he\\:\\ 0\\.17696144093453237\ \(0\)\
+\-\ and\\:\\ 0\\.1749622986121883\ \(0\)\
+\-\ rhabdomyosarcoma\\:\\ 0\\.1512072260494415\ \(0\)\
+\-\ sphenoid\\:\\ 0\\.15030389913130818\ \(0\)\
+\-\ of\\:\\ 0\\.13645671556805467\ \(0\)\
+\-\ left\\:\\ 0\\.1359206208483346\ \(0\)\
+\-\ have\\:\\ 0\\.12440535093004122\ \(0\)\
+\-\ embryonal\\:\\ 0\\.11665311385541505\ \(0\)\
+\-\ anatomical\\:\\ 0\\.11088623875306852\ \(0\)\
+\-\ sinus\\:\\ 0\\.1079694817162895\ \(0\)\
+\-\ mandible\\:\\ 0\\.10532521188623158\ \(0\)\
+\-\ sinusitis\\:\\ 0\\.10274710500398802\ \(0\)\
+\-\ unremarkable\\:\\ 0\\.10017071335566326\ \(0\)\
+\-\ is\\:\\ 0\\.09547890614641012\ \(0\)\
+\-\ are\\:\\ 0\\.09449647542741961\ \(0\)\
+\-\ apex\\:\\ 0\\.09362252354851582\ \(0\)\
+\-\ was\\:\\ 0\\.08679026203709252\ \(0\)\
+\-\ facial\\:\\ 0\\.08213841741963022\ \(0\)\
+\-\ neurological\\:\\ 0\\.08182564625662149\ \(0\)\
+\-\ oral\\:\\ 0\\.07978033419167134\ \(0\)\
+\-\ antrostomy\\:\\ 0\\.07965140910344201\ \(0\)\
+\-\ sellae\\:\\ 0\\.07965140910344201\ \(0\)\
+\-\ into\\:\\ 0\\.07942880673669306\ \(0\)\
+\-\ fossa\\:\\ 0\\.07819972520966417\ \(0\)\
+\-\ tumor\\:\\ 0\\.07815504095401428\ \(0\)\
+\-\ with\\:\\ 0\\.07802185624176614\ \(0\)\
+\-\ asymetry\\:\\ 0\\.07611117367923347\ \(0\)\
+\-\ headaches\\:\\ 0\\.07430306091353184\ \(0\)\
+\-\ smiling\\:\\ 0\\.07359933667171507\ \(0\)\
+\-\ quiescent\\:\\ 0\\.07359933667171507\ \(0\)\
+\-\ tnm\\:\\ 0\\.07359933667171507\ \(0\)\
+\-\ well\\:\\ 0\\.07234963367692682\ \(0\)\
+\-\ did\\:\\ 0\\.07145834442866314\ \(0\)\
+\-\ middle\\:\\ 0\\.07123155436093247\ \(0\)\
+\-\ location\\:\\ 0\\.06936354412050393\ \(0\)\
+\-\ side\\:\\ 0\\.06881545779790167\ \(0\)\
+\-\ unfavorable\\:\\ 0\\.0687131662053112\ \(0\)\
+\-\ now\\:\\ 0\\.06837947590724956\ \(0\)\
+\-\ augmentin\\:\\ 0\\.06754726423998814\ \(0\)\
+\-\ week\\:\\ 0\\.06700013368391047\ \(0\)\
+\-\ central\\:\\ 0\\.06652048183823857\ \(0\)\
+\-\ medial\\:\\ 0\\.06484048579310692\ \(0\)\
+\-\ patient\\:\\ 0\\.0647981942167411\ \(0\)\
+\-\ aspect\\:\\ 0\\.06426411037809895\ \(0\)\
+\-\ exudate\\:\\ 0\\.06400702881577958\ \(0\)\
+\-\ drooling\\:\\ 0\\.06330815233173985\ \(0\)\
+\-\ parameters\\:\\ 0\\.06330815233173985\ \(0\)\
+\-\ responded\\:\\ 0\\.06266109377358427\ \(0\)\
+\-\ enhancing\\:\\ 0\\.062401578941018686\ \(0\)\
+\-\ cyclophosphamide\\:\\ 0\\.0620586966677134\ \(0\)\
+\-\ decreased\\:\\ 0\\.06170231605170646\ \(0\)\
+\-\ on\\:\\ 0\\.06016965103436001\ \(0\)\
+\-\ roughly\\:\\ 0\\.059994716539082664\ \(0\)\
+\-\ pharynx\\:\\ 0\\.059546859660195024\ \(0\)\
+\-\ rashes\\:\\ 0\\.059546859660195024\ \(0\)\
+\-\ droop\\:\\ 0\\.059546859660195024\ \(0\)\
+\-\ head\\:\\ 0\\.05941136030288798\ \(0\)\
+\-\ not\\:\\ 0\\.058987244062981295\ \(0\)\
+\-\ vincristine\\:\\ 0\\.05871467837484273\ \(0\)\
+\-\ clivus\\:\\ 0\\.05871467837484273\ \(0\)\
+\-\ subtype\\:\\ 0\\.05871467837484273\ \(0\)\
+\-\ dorsum\\:\\ 0\\.058326556927707524\ \(0\)\
+\-\ persisted\\:\\ 0\\.058326556927707524\ \(0\)\
+\-\ blurred\\:\\ 0\\.058326556927707524\ \(0\)\
+\-\ nodal\\:\\ 0\\.05759852751212884\ \(0\)\
+\-\ tympanic\\:\\ 0\\.05660902134185732\ \(0\)\
+\-\ port\\:\\ 0\\.05660902134185732\ \(0\)\
+\-\ petrous\\:\\ 0\\.05630262868070397\ \(0\)\
+\-\ meningeal\\:\\ 0\\.05600662423598646\ \(0\)\
+\-\ cmp\\:\\ 0\\.05544311937653426\ \(0\)\
+\-\ moist\\:\\ 0\\.05517444295063417\ \(0\)\
+\-\ regimen\\:\\ 0\\.05517444295063417\ \(0\)\
+\-\ interpreted\\:\\ 0\\.05517444295063417\ \(0\)\
+\-\ histological\\:\\ 0\\.05491378792620257\ \(0\)\
+\-\ accompanied\\:\\ 0\\.054414720959844086\ \(0\)\
+\-\ intake\\:\\ 0\\.054414720959844086\ \(0\)\
+\-\ candidate\\:\\ 0\\.054414720959844086\ \(0\)\
+\-\ extraocular\\:\\ 0\\.05417549243667887\ \(0\)\
+\-\ relationship\\:\\ 0\\.052863334205984845\ \(0\)\
+\-\ without\\:\\ 0\\.05254209432422228\ \(0\)\
+\-\ membranes\\:\\ 0\\.052274484495980586\ \(0\)\
+\-\ endoscopic\\:\\ 0\\.052086707476352925\ \(0\)\
+\-\ ethmoid\\:\\ 0\\.052086707476352925\ \(0\)\
+\-\ distant\\:\\ 0\\.052086707476352925\ \(0\)\
+\-\ diagnosis\\:\\ 0\\.05163865546578188\ \(0\)\
+\-\ this\\:\\ 0\\.051343213425226235\ \(0\)\
+\-\ staging\\:\\ 0\\.050874485535635526\ \(0\)\
+\-\ exams\\:\\ 0\\.050556948910130385\ \(0\)\
+\-\ emesis\\:\\ 0\\.050556948910130385\ \(0\)\
+\-\ exam\\:\\ 0\\.050145216834903084\ \(0\)\
+\-\ to\\:\\ 0\\.049806091587539854\ \(0\)\
+\-\ eventually\\:\\ 0\\.0496682541919863\ \(0\)\
+\-\ him\\:\\ 0\\.0495285504934402\ \(0\)\
+\-\ pupils\\:\\ 0\\.049391046944807324\ \(0\)\
+\-\ maxillary\\:\\ 0\\.049391046944807324\ \(0\)\
+\-\ institution\\:\\ 0\\.04925567532021979\ \(0\)\
+\-\ literature\\:\\ 0\\.048608616762064204\ \(0\)\
+\-\ survival\\:\\ 0\\.048608616762064204\ \(0\)\
+\-\ surgical\\:\\ 0\\.04841515078203599\ \(0\)\
+\-\ contrast\\:\\ 0\\.04839990626795679\ \(0\)\
+\-\ craniopharyngioma\\:\\ 0\\.048123420004951935\ \(0\)\
+\-\ what\\:\\ 0\\.04789057167562879\ \(0\)\
+\-\ equal\\:\\ 0\\.047663772044077415\ \(0\)\
+\-\ group\\:\\ 0\\.047334250111426966\ \(0\)\
+\-\ tip\\:\\ 0\\.04681126177425791\ \(0\)\
+\-\ observation\\:\\ 0\\.04671032082476848\ \(0\)\
+\-\ chondrosarcoma\\:\\ 0\\.04567077844372651\ \(0\)\
+\-\ has\\:\\ 0\\.04550030032388333\ \(0\)\
+\-\ destruction\\:\\ 0\\.045407503375799074\ \(0\)\
+\-\ for\\:\\ 0\\.045287888179234785\ \(0\)\
+\-\ anteriorly\\:\\ 0\\.04515193503655903\ \(0\)\
+\-\ face\\:\\ 0\\.04490363503737329\ \(0\)\
+\-\ suggesting\\:\\ 0\\.04490363503737329\ \(0\)\
+\-\ discharge\\:\\ 0\\.04466220136332267\ \(0\)\
+\-\ invasion\\:\\ 0\\.04442726445729196\ \(0\)\
+\-\ vital\\:\\ 0\\.04435033625142023\ \(0\)\
+\-\ gross\\:\\ 0\\.0441984838172501\ \(0\)\
+\-\ prognosis\\:\\ 0\\.04383002007797038\ \(0\)\
+\-\ angle\\:\\ 0\\.04368688089054096\ \(0\)\
+\-\ received\\:\\ 0\\.043338974513080386\ \(0\)\
+\-\ light\\:\\ 0\\.04313669608689001\ \(0\)\
+\-\ vision\\:\\ 0\\.04313669608689001\ \(0\)\
+\-\ afebrile\\:\\ 0\\.043004401209224906\ \(0\)\
+\-\ iii\\:\\ 0\\.043004401209224906\ \(0\)\
+\-\ optic\\:\\ 0\\.04287408095584241\ \(0\)\
+\-\ reactive\\:\\ 0\\.04274567724637021\ \(0\)\
+\-\ discharged\\:\\ 0\\.04274567724637021\ \(0\)\
+\-\ muscles\\:\\ 0\\.04268217664004508\ \(0\)\
+\-\ sensation\\:\\ 0\\.04268217664004508\ \(0\)\
+\-\ healthy\\:\\ 0\\.042250151669183916\ \(0\)\
+\-\ poor\\:\\ 0\\.042012550752488956\ \(0\)\
+\-\ sarcoma\\:\\ 0\\.041781244646058514\ \(0\)\
+\-\ cbc\\:\\ 0\\.04155590840089862\ \(0\)\
+\-\ cavity\\:\\ 0\\.041121965939114116\ \(0\)\
+\-\ 70\\:\\ 0\\.041121965939114116\ \(0\)\
+\-\ extends\\:\\ 0\\.04101676834266288\ \(0\)\
+\-\ admitted\\:\\ 0\\.04081010082721167\ \(0\)\
+\-\ cranial\\:\\ 0\\.040708572998549825\ \(0\)\
+\-\ near\\:\\ 0\\.04055846107966191\ \(0\)\
+\-\ skull\\:\\ 0\\.040410886385464834\ \(0\)\
+\-\ described\\:\\ 0\\.040410886385464834\ \(0\)\
+\-\ metastases\\:\\ 0\\.04026576457015515\ \(0\)\
+\-\ site\\:\\ 0\\.040170339632526704\ \(0\)\
+\-\ previously\\:\\ 0\\.03998256261289906\ \(0\)\
+\-\ outside\\:\\ 0\\.03998256261289906\ \(0\)\
+\-\ recurrent\\:\\ 0\\.039936242637504706\ \(0\)\
+\-\ procedure\\:\\ 0\\.03970825853944072\ \(0\)\
+\-\ from\\:\\ 0\\.0395620468862499\ \(0\)\
+\-\ appear\\:\\ 0\\.0392267117349564\ \(0\)\
+\-\ placed\\:\\ 0\\.03881085719446479\ \(0\)\
+\-\ considered\\:\\ 0\\.03881085719446479\ \(0\)\
+\-\ made\\:\\ 0\\.03841391180025785\ \(0\)\
+\-\ bony\\:\\ 0\\.03837519202556502\ \(0\)\
+\-\ cells\\:\\ 0\\.03837519202556502\ \(0\)\
+\-\ necrosis\\:\\ 0\\.03807146418814191\ \(0\)\
+\-\ mass\\:\\ 0\\.03804949376556889\ \(0\)\
+\-\ ct\\:\\ 0\\.03792359134730432\ \(0\)\
+\-\ base\\:\\ 0\\.03788686333984225\ \(0\)\
+\-\ at\\:\\ 0\\.03762507827022238\ \(0\)\
+\-\ midline\\:\\ 0\\.0374591225539929\ \(0\)\
+\-\ structures\\:\\ 0\\.03742440562998633\ \(0\)\
+\-\ in\\:\\ 0\\.03717070958092346\ \(0\)\
+\-\ cardiac\\:\\ 0\\.036985215049462124\ \(0\)\
+\-\ clear\\:\\ 0\\.036108219491814704\ \(0\)\
+\-\ since\\:\\ 0\\.036078470587791005\ \(0\)\
+\-\ based\\:\\ 0\\.036078470587791005\ \(0\)\
+\-\ intact\\:\\ 0\\.036048822698916\ \(0\)\
+\-\ involvement\\:\\ 0\\.036048822698916\ \(0\)\
+\-\ portion\\:\\ 0\\.035615777180466233\ \(0\)\
+\-\ they\\:\\ 0\\.03558765704381129\ \(0\)\
+\-\ otherwise\\:\\ 0\\.03550383596917168\ \(0\)\
+\-\ chemotherapy\\:\\ 0\\.035365897952104694\ \(0\)\
+\-\ would\\:\\ 0\\.035257095361843224\ \(0\)\
+\-\ involving\\:\\ 0\\.03488662121887162\ \(0\)\
+\-\ or\\:\\ 0\\.034653577074301244\ \(0\)\
+\-\ does\\:\\ 0\\.03443228951960246\ \(0\)\
+\-\ underwent\\:\\ 0\\.034310171516597085\ \(0\)\
+\-\ boy\\:\\ 0\\.03407094299343188\ \(0\)\
+\-\ extending\\:\\ 0\\.03376943406218176\ \(0\)\
+\-\ possible\\:\\ 0\\.03374666665714488\ \(0\)\
+\-\ three\\:\\ 0\\.033434003766002605\ \(0\)\
+\-\ initial\\:\\ 0\\.033412093353289415\ \(0\)\
+\-\ density\\:\\ 0\\.03302682666991492\ \(0\)\
+\-\ radiation\\:\\ 0\\.03300591337875644\ \(0\)\
+\-\ air\\:\\ 0\\.032577922935935276\ \(0\)\
+\-\ found\\:\\ 0\\.03222706477597098\ \(0\)\
+\-\ any\\:\\ 0\\.03218893679012302\ \(0\)\
+\-\ resection\\:\\ 0\\.03192660347738556\ \(0\)\
+\-\ approximately\\:\\ 0\\.03178016323324976\ \(0\)\
+\-\ clinical\\:\\ 0\\.03156500750346453\ \(0\)\
+\-\ some\\:\\ 0\\.03133775376738129\ \(0\)\
+\-\ age\\:\\ 0\\.03126900305874701\ \(0\)\
+\-\ tenderness\\:\\ 0\\.031234829649626504\ \(0\)\
+\-\ brain\\:\\ 0\\.031049229919786377\ \(0\)\
+\-\ year\\:\\ 0\\.03069875486458524\ \(0\)\
+\-\ primary\\:\\ 0\\.03062561388281999\ \(0\)\
+\-\ pulmonary\\:\\ 0\\.030359347486161606\ \(0\)\
+\-\ carcinoma\\:\\ 0\\.02979198689916415\ \(0\)\
+\-\ scan\\:\\ 0\\.029549633359901024\ \(0\)\
+\-\ time\\:\\ 0\\.02952155843254696\ \(0\)\
+\-\ however\\:\\ 0\\.02947961458142437\ \(0\)\
+\-\ been\\:\\ 0\\.029017821075660234\ \(0\)\
+\-\ significant\\:\\ 0\\.028757166051228633\ \(0\)\
+\-\ due\\:\\ 0\\.02862969962852503\ \(0\)\
+\-\ lesions\\:\\ 0\\.028604428135095943\ \(0\)\
+\-\ mild\\:\\ 0\\.028233879111269438\ \(0\)\
+\-\ these\\:\\ 0\\.028125713028745402\ \(0\)\
+\-\ prior\\:\\ 0\\.027866814698057404\ \(0\)\
+\-\ abdominal\\:\\ 0\\.027240486703998017\ \(0\)\
+\-\ bone\\:\\ 0\\.0271759694531714\ \(0\)\
+\-\ consistent\\:\\ 0\\.027006218397946744\ \(0\)\
+\-\ bilateral\\:\\ 0\\.026767841833106293\ \(0\)\
+\-\ tissue\\:\\ 0\\.026127358320566122\ \(0\)\
+\-\ were\\:\\ 0\\.02567380278278956\ \(0\)\
+\-\ mri\\:\\ 0\\.025566229000479508\ \(0\)\
+\-\ it\\:\\ 0\\.02549524247219968\ \(0\)\
+\-\ large\\:\\ 0\\.024955520332929745\ \(0\)\
+\-\ had\\:\\ 0\\.02481542104301534\ \(0\)\
+\-\ after\\:\\ 0\\.024161941341750506\ \(0\)\
+\-\ presents\\:\\ 0\\.0239594891959\ \(0\)\
+\-\ treatment\\:\\ 0\\.02372547063472338\ \(0\)\
+\-\ male\\:\\ 0\\.02217576216917001\ \(0\)\
+\-\ that\\:\\ 0\\.021614145769741248\ \(0\)\
+\-\ be\\:\\ 0\\.02020449896876333\ \(0\)\
+\-\ as\\:\\ 0\\.02000903184281531\ \(0\)\
+\-\ an\\:\\ 0\\.019045831884299765\ \(0\)\
+\-\ history\\:\\ 0\\.019028959811640298\ \(0\)\

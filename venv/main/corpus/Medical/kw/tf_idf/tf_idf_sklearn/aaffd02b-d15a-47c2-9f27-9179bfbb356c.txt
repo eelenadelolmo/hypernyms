@@ -1,43 +1,40 @@
-Texto: 
-antibiotics, follow-up after resolution to exclude underlying malignancy.
-dense consolidation of the superior segment of the left lower lobe.
-left lower lobe pneumonia
-lobar pneumonia
-
-underlying mass must be excluded following resolution of symptoms
-75 year old female with fever, shortness of breath
-
-
-Keywords by value: 
-- underlying: 0.3359862958674875
-- resolution: 0.33394217818045346
-- pneumonia: 0.32486393454651025
-- lobe: 0.23785221987555802
-- lobar: 0.21226700968324266
-- lower: 0.2103200144524506
-- excluded: 0.20242298816587526
-- exclude: 0.1988380005409476
-- consolidation: 0.19020748706064058
-- dense: 0.18139777298301543
-- 75: 0.18050695576606646
-- must: 0.1763556842171401
-- segment: 0.1699091520262904
-- shortness: 0.16500993974124153
-- of: 0.1610904419223073
-- malignancy: 0.15406330338657365
-- antibiotics: 0.15161189735128103
-- breath: 0.15083043146925101
-- left: 0.14040037303555147
-- fever: 0.1395297081469407
-- superior: 0.13379401870513385
-- following: 0.12345572063689703
-- symptoms: 0.11259780032013339
-- after: 0.09983313956254489
-- female: 0.09930419822676635
-- be: 0.08348164316806958
-- the: 0.08212597658695686
-- mass: 0.07860710295696414
-- year: 0.06342108515710962
-- old: 0.06090619550426934
-- to: 0.05144763020275094
-- with: 0.04029667335574253
+\-\ Texto\\:\\ \ \(0\)\
+\-\ antibiotics\\,\\ follow\\-up\\ after\\ resolution\\ to\\ exclude\\ underlying\\ malignancy\\.\ \(0\)\
+\-\ dense\\ consolidation\\ of\\ the\\ superior\\ segment\\ of\\ the\\ left\\ lower\\ lobe\\.\ \(0\)\
+\-\ left\\ lower\\ lobe\\ pneumonia\ \(2\)\
+\-\ lobar\\ pneumonia\ \(4\)\
+\-\ underlying\\ mass\\ must\\ be\\ excluded\\ following\\ resolution\\ of\\ symptoms\ \(0\)\
+\-\ 75\\ year\\ old\\ female\\ with\\ fever\\,\\ shortness\\ of\\ breath\ \(1\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ underlying\\:\\ 0\\.3359862958674875\ \(0\)\
+\-\ resolution\\:\\ 0\\.33394217818045346\ \(0\)\
+\-\ pneumonia\\:\\ 0\\.32486393454651025\ \(0\)\
+\-\ lobe\\:\\ 0\\.23785221987555802\ \(0\)\
+\-\ lobar\\:\\ 0\\.21226700968324266\ \(0\)\
+\-\ lower\\:\\ 0\\.2103200144524506\ \(0\)\
+\-\ excluded\\:\\ 0\\.20242298816587526\ \(0\)\
+\-\ exclude\\:\\ 0\\.1988380005409476\ \(0\)\
+\-\ consolidation\\:\\ 0\\.19020748706064058\ \(0\)\
+\-\ dense\\:\\ 0\\.18139777298301543\ \(0\)\
+\-\ 75\\:\\ 0\\.18050695576606646\ \(0\)\
+\-\ must\\:\\ 0\\.1763556842171401\ \(0\)\
+\-\ segment\\:\\ 0\\.1699091520262904\ \(0\)\
+\-\ shortness\\:\\ 0\\.16500993974124153\ \(0\)\
+\-\ of\\:\\ 0\\.1610904419223073\ \(0\)\
+\-\ malignancy\\:\\ 0\\.15406330338657365\ \(0\)\
+\-\ antibiotics\\:\\ 0\\.15161189735128103\ \(0\)\
+\-\ breath\\:\\ 0\\.15083043146925101\ \(0\)\
+\-\ left\\:\\ 0\\.14040037303555147\ \(0\)\
+\-\ fever\\:\\ 0\\.1395297081469407\ \(0\)\
+\-\ superior\\:\\ 0\\.13379401870513385\ \(0\)\
+\-\ following\\:\\ 0\\.12345572063689703\ \(0\)\
+\-\ symptoms\\:\\ 0\\.11259780032013339\ \(0\)\
+\-\ after\\:\\ 0\\.09983313956254489\ \(0\)\
+\-\ female\\:\\ 0\\.09930419822676635\ \(0\)\
+\-\ be\\:\\ 0\\.08348164316806958\ \(0\)\
+\-\ the\\:\\ 0\\.08212597658695686\ \(0\)\
+\-\ mass\\:\\ 0\\.07860710295696414\ \(0\)\
+\-\ year\\:\\ 0\\.06342108515710962\ \(0\)\
+\-\ old\\:\\ 0\\.06090619550426934\ \(0\)\
+\-\ to\\:\\ 0\\.05144763020275094\ \(0\)\
+\-\ with\\:\\ 0\\.04029667335574253\ \(0\)\

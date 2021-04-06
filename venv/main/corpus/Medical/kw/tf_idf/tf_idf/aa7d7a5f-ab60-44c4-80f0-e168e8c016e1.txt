@@ -1,79 +1,77 @@
-Texto: 
-high fever
-obtundation
-surgical drainage and antibiotics
-â€¢ extensive chronic sinusitis
-â€¢ subdural collections in inter-hemispheric fissure and overlying right frontal lobe.
-â€¢ fluid has restricted diffusion noted on dwi and adc maps
-subdural empyema, streptococcus mitis
-â€¢ subdural hematoma
-â€¢ subdural effusion
-â€¢ metastatic disease
-â€¢ sarcoid
-14 year old boy with a history of chronic sinusitis. presents with high fever, seizures, and obtundation
-interhispheric and convexity subdural empyema secondary to chronic frontal sinusitis.  the culture of pus grew out streptococcus mitis. 
-http://en.wikipedia.org/wiki/streptococcus_mitis
-
-
-Keywords by value: 
-- subdural: 0.24870234849140174
-- mitis: 0.18958104137562362
-- sinusitis: 0.15949411009866477
-- obtundation: 0.14486186843627233
-- streptococcus: 0.12310701012060608
-- â€¢: 0.11794731678678726
-- empyema: 0.11192689271660804
-- interhispheric: 0.09479052068781181
-- //en.wikipedia.org/wiki/streptococcus_mitis: 0.09479052068781181
-- inter-hemispheric: 0.08733732519791994
-- chronic: 0.07764482686796774
-- maps: 0.07243093421813616
-- pus: 0.0625783457033603
-- fever: 0.062177690893590674
-- grew: 0.05935141460174376
-- frontal: 0.057726708268459305
-- convexity: 0.05687266558441223
-- adc: 0.054859638250131085
-- high: 0.0502913131414369
-- collections: 0.04941947009452034
-- fissure: 0.04926249375665848
-- culture: 0.04895525319274391
-- dwi: 0.048804863494090786
-- sarcoid: 0.04714732930239983
-- restricted: 0.042287274208388466
-- overlying: 0.04157804874826161
-- diffusion: 0.04112995523857809
-- 14: 0.04049099372813937
-- seizures: 0.03950381577918106
-- drainage: 0.03842764955813824
-- extensive: 0.036745760456438126
-- effusion: 0.03491584860435916
-- http: 0.03479342578473415
-- antibiotics: 0.03451307911473657
-- hematoma: 0.03269856858518377
-- boy: 0.031233567526085713
-- out: 0.030366170718908778
-- fluid: 0.02611439897423498
-- secondary: 0.025688494263535568
-- lobe: 0.024723928472296066
-- metastatic: 0.02313020864103323
-- noted: 0.021778722456479504
-- surgical: 0.019314212583348964
-- presents: 0.01877036876890243
-- has: 0.01725483839241159
-- disease: 0.01501868323887854
-- history: 0.012690478900076166
-- :: 0.012153492645060915
-- year: 0.010280701820138868
-- right: 0.009694964614090503
-- and: 0.009677903533990239
-- old: 0.009407898890991986
-- ,: 0.008732582758622173
-- on: 0.00778377432650998
-- to: 0.00459213019831168
-- in: 0.004531153012260806
-- a: 0.0042645139980494766
-- with: 0.0025162188406427904
-- of: 0.0025054580816771706
-- .: 0.0015268617676277968
-- the: 0.001486551448426084
+\-\ Texto\\:\\ \ \(0\)\
+\-\ high\\ fever\ \(9\)\
+\-\ obtundation\ \(6\)\
+\-\ surgical\\ drainage\\ and\\ antibiotics\ \(0\)\
+\-\ \\â\\€\\¢\\ extensive\\ chronic\\ sinusitis\ \(0\)\
+\-\ \\â\\€\\¢\\ subdural\\ collections\\ in\\ inter\\-hemispheric\\ fissure\\ and\\ overlying\\ right\\ frontal\\ lobe\\.\ \(0\)\
+\-\ \\â\\€\\¢\\ fluid\\ has\\ restricted\\ diffusion\\ noted\\ on\\ dwi\\ and\\ adc\\ maps\ \(0\)\
+\-\ subdural\\ empyema\\,\\ streptococcus\\ mitis\ \(0\)\
+\-\ \\â\\€\\¢\\ subdural\\ hematoma\ \(3\)\
+\-\ \\â\\€\\¢\\ subdural\\ effusion\ \(1\)\
+\-\ \\â\\€\\¢\\ metastatic\\ disease\ \(13\)\
+\-\ \\â\\€\\¢\\ sarcoid\ \(3\)\
+\-\ 14\\ year\\ old\\ boy\\ with\\ a\\ history\\ of\\ chronic\\ sinusitis\\.\\ presents\\ with\\ high\\ fever\\,\\ seizures\\,\\ and\\ obtundation\ \(0\)\
+\-\ interhispheric\\ and\\ convexity\\ subdural\\ empyema\\ secondary\\ to\\ chronic\\ frontal\\ sinusitis\\.\\ \\ the\\ culture\\ of\\ pus\\ grew\\ out\\ streptococcus\\ mitis\\.\\ \ \(0\)\
+\-\ http\\:\\/\\/en\\.wikipedia\\.org\\/wiki\\/streptococcus\\_mitis\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ subdural\\:\\ 0\\.24870234849140174\ \(0\)\
+\-\ mitis\\:\\ 0\\.18958104137562362\ \(0\)\
+\-\ sinusitis\\:\\ 0\\.15949411009866477\ \(0\)\
+\-\ obtundation\\:\\ 0\\.14486186843627233\ \(0\)\
+\-\ streptococcus\\:\\ 0\\.12310701012060608\ \(0\)\
+\-\ \\â\\€\\¢\\:\\ 0\\.11794731678678726\ \(0\)\
+\-\ empyema\\:\\ 0\\.11192689271660804\ \(0\)\
+\-\ interhispheric\\:\\ 0\\.09479052068781181\ \(0\)\
+\-\ \\/\\/en\\.wikipedia\\.org\\/wiki\\/streptococcus\\_mitis\\:\\ 0\\.09479052068781181\ \(0\)\
+\-\ inter\\-hemispheric\\:\\ 0\\.08733732519791994\ \(0\)\
+\-\ chronic\\:\\ 0\\.07764482686796774\ \(0\)\
+\-\ maps\\:\\ 0\\.07243093421813616\ \(0\)\
+\-\ pus\\:\\ 0\\.0625783457033603\ \(0\)\
+\-\ fever\\:\\ 0\\.062177690893590674\ \(0\)\
+\-\ grew\\:\\ 0\\.05935141460174376\ \(0\)\
+\-\ frontal\\:\\ 0\\.057726708268459305\ \(0\)\
+\-\ convexity\\:\\ 0\\.05687266558441223\ \(0\)\
+\-\ adc\\:\\ 0\\.054859638250131085\ \(0\)\
+\-\ high\\:\\ 0\\.0502913131414369\ \(0\)\
+\-\ collections\\:\\ 0\\.04941947009452034\ \(0\)\
+\-\ fissure\\:\\ 0\\.04926249375665848\ \(0\)\
+\-\ culture\\:\\ 0\\.04895525319274391\ \(0\)\
+\-\ dwi\\:\\ 0\\.048804863494090786\ \(0\)\
+\-\ sarcoid\\:\\ 0\\.04714732930239983\ \(0\)\
+\-\ restricted\\:\\ 0\\.042287274208388466\ \(0\)\
+\-\ overlying\\:\\ 0\\.04157804874826161\ \(0\)\
+\-\ diffusion\\:\\ 0\\.04112995523857809\ \(0\)\
+\-\ 14\\:\\ 0\\.04049099372813937\ \(0\)\
+\-\ seizures\\:\\ 0\\.03950381577918106\ \(0\)\
+\-\ drainage\\:\\ 0\\.03842764955813824\ \(0\)\
+\-\ extensive\\:\\ 0\\.036745760456438126\ \(0\)\
+\-\ effusion\\:\\ 0\\.03491584860435916\ \(0\)\
+\-\ http\\:\\ 0\\.03479342578473415\ \(0\)\
+\-\ antibiotics\\:\\ 0\\.03451307911473657\ \(0\)\
+\-\ hematoma\\:\\ 0\\.03269856858518377\ \(0\)\
+\-\ boy\\:\\ 0\\.031233567526085713\ \(0\)\
+\-\ out\\:\\ 0\\.030366170718908778\ \(0\)\
+\-\ fluid\\:\\ 0\\.02611439897423498\ \(0\)\
+\-\ secondary\\:\\ 0\\.025688494263535568\ \(0\)\
+\-\ lobe\\:\\ 0\\.024723928472296066\ \(0\)\
+\-\ metastatic\\:\\ 0\\.02313020864103323\ \(0\)\
+\-\ noted\\:\\ 0\\.021778722456479504\ \(0\)\
+\-\ surgical\\:\\ 0\\.019314212583348964\ \(0\)\
+\-\ presents\\:\\ 0\\.01877036876890243\ \(0\)\
+\-\ has\\:\\ 0\\.01725483839241159\ \(0\)\
+\-\ disease\\:\\ 0\\.01501868323887854\ \(0\)\
+\-\ history\\:\\ 0\\.012690478900076166\ \(0\)\
+\-\ \\:\\:\\ 0\\.012153492645060915\ \(0\)\
+\-\ year\\:\\ 0\\.010280701820138868\ \(0\)\
+\-\ right\\:\\ 0\\.009694964614090503\ \(0\)\
+\-\ and\\:\\ 0\\.009677903533990239\ \(0\)\
+\-\ old\\:\\ 0\\.009407898890991986\ \(0\)\
+\-\ \\,\\:\\ 0\\.008732582758622173\ \(0\)\
+\-\ on\\:\\ 0\\.00778377432650998\ \(0\)\
+\-\ to\\:\\ 0\\.00459213019831168\ \(0\)\
+\-\ in\\:\\ 0\\.004531153012260806\ \(0\)\
+\-\ a\\:\\ 0\\.0042645139980494766\ \(0\)\
+\-\ with\\:\\ 0\\.0025162188406427904\ \(0\)\
+\-\ of\\:\\ 0\\.0025054580816771706\ \(0\)\
+\-\ \\.\\:\\ 0\\.0015268617676277968\ \(0\)\
+\-\ the\\:\\ 0\\.001486551448426084\ \(0\)\

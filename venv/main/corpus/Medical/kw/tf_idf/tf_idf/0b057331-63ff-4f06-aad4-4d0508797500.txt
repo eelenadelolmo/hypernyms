@@ -1,74 +1,72 @@
-Texto: 
-decreased spinal mobility
-pending
-lumbar spine: appears to be completely fused through the anterior spinal ligament. sacroiliac articulations appear to be fused. diffuse sclerosis and fusion is seen throughout the facet joints. findings consistent with ankylosing spondylosis.
-sacroiliac joints: bilateral fusion consistent with ankylosing spondylosis.
-thoracic spine: fusion of the dorsal spine consistent with ankylosing spondylosis. squaring of the vertebral bodies.
-cervical spine: generalized demineralization with complete fusion of the cervical spine as described. diffuse facet joint degenerative joint disease and sclerosis is present.
-ankylosing spondylitis
-osteoarthritis
-psoriatic arthritis
-osteomyelitis
-low back pain
-
-
-Keywords by value: 
-- ankylosing: 0.1953936703486835
-- spondylosis: 0.15230748734381186
-- fusion: 0.14383291011400148
-- spine: 0.13274073330213906
-- sacroiliac: 0.10800898057751288
-- fused: 0.09672903716702946
-- facet: 0.08563872273491402
-- joints: 0.07377818199109563
-- articulations: 0.06626187693149474
-- squaring: 0.06626187693149474
-- demineralization: 0.06054361463366158
-- consistent: 0.05930089440088311
-- cervical: 0.058586630313049594
-- sclerosis: 0.05791160817785556
-- spinal: 0.05773162661093558
-- joint: 0.05214017462343549
-- mobility: 0.051078500399097566
-- diffuse: 0.04881146076179839
-- psoriatic: 0.04860336582864955
-- spondylitis: 0.04813156940813387
-- :: 0.04265187984870434
-- generalized: 0.04218597171804542
-- dorsal: 0.04103405948407467
-- osteoarthritis: 0.04000761741002939
-- completely: 0.03873573794956759
-- bodies: 0.037767302533906415
-- osteomyelitis: 0.03746538997648969
-- ligament: 0.03702989901645985
-- degenerative: 0.03654600001280372
-- pending: 0.03488230765612965
-- arthritis: 0.03444087217021683
-- described: 0.03433366689993084
-- lumbar: 0.03428051767617371
-- appear: 0.03299432481247436
-- vertebral: 0.03190373981520998
-- thoracic: 0.031076014208530678
-- throughout: 0.03017686156886723
-- appears: 0.030006875667898572
-- complete: 0.028371471075340136
-- back: 0.02659496542780639
-- be: 0.024863334402715643
-- decreased: 0.02396940002570339
-- through: 0.02289582092849876
-- low: 0.022416679744022637
-- anterior: 0.020762196450591863
-- bilateral: 0.01956431820107966
-- present: 0.01820762975407246
-- findings: 0.01715883901688641
-- seen: 0.015930449198751796
-- disease: 0.013176769256751925
-- as: 0.012194127414095545
-- is: 0.010609259969523124
-- pain: 0.009845360071044666
-- to: 0.00805788883854691
-- the: 0.006521192674699331
-- with: 0.0044152519279203675
-- and: 0.003396396334570159
-- of: 0.0032972773810751445
-- .: 0.003014111555435061
+\-\ Texto\\:\\ \ \(0\)\
+\-\ decreased\\ spinal\\ mobility\ \(0\)\
+\-\ pending\ \(213\)\
+\-\ lumbar\\ spine\\:\\ appears\\ to\\ be\\ completely\\ fused\\ through\\ the\\ anterior\\ spinal\\ ligament\\.\\ sacroiliac\\ articulations\\ appear\\ to\\ be\\ fused\\.\\ diffuse\\ sclerosis\\ and\\ fusion\\ is\\ seen\\ throughout\\ the\\ facet\\ joints\\.\\ findings\\ consistent\\ with\\ ankylosing\\ spondylosis\\.\ \(0\)\
+\-\ sacroiliac\\ joints\\:\\ bilateral\\ fusion\\ consistent\\ with\\ ankylosing\\ spondylosis\\.\ \(0\)\
+\-\ thoracic\\ spine\\:\\ fusion\\ of\\ the\\ dorsal\\ spine\\ consistent\\ with\\ ankylosing\\ spondylosis\\.\\ squaring\\ of\\ the\\ vertebral\\ bodies\\.\ \(0\)\
+\-\ cervical\\ spine\\:\\ generalized\\ demineralization\\ with\\ complete\\ fusion\\ of\\ the\\ cervical\\ spine\\ as\\ described\\.\\ diffuse\\ facet\\ joint\\ degenerative\\ joint\\ disease\\ and\\ sclerosis\\ is\\ present\\.\ \(0\)\
+\-\ ankylosing\\ spondylitis\ \(23\)\
+\-\ osteoarthritis\ \(102\)\
+\-\ psoriatic\\ arthritis\ \(11\)\
+\-\ osteomyelitis\ \(170\)\
+\-\ low\\ back\\ pain\ \(93\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ ankylosing\\:\\ 0\\.1953936703486835\ \(0\)\
+\-\ spondylosis\\:\\ 0\\.15230748734381186\ \(0\)\
+\-\ fusion\\:\\ 0\\.14383291011400148\ \(0\)\
+\-\ spine\\:\\ 0\\.13274073330213906\ \(0\)\
+\-\ sacroiliac\\:\\ 0\\.10800898057751288\ \(0\)\
+\-\ fused\\:\\ 0\\.09672903716702946\ \(0\)\
+\-\ facet\\:\\ 0\\.08563872273491402\ \(0\)\
+\-\ joints\\:\\ 0\\.07377818199109563\ \(0\)\
+\-\ articulations\\:\\ 0\\.06626187693149474\ \(0\)\
+\-\ squaring\\:\\ 0\\.06626187693149474\ \(0\)\
+\-\ demineralization\\:\\ 0\\.06054361463366158\ \(0\)\
+\-\ consistent\\:\\ 0\\.05930089440088311\ \(0\)\
+\-\ cervical\\:\\ 0\\.058586630313049594\ \(0\)\
+\-\ sclerosis\\:\\ 0\\.05791160817785556\ \(0\)\
+\-\ spinal\\:\\ 0\\.05773162661093558\ \(0\)\
+\-\ joint\\:\\ 0\\.05214017462343549\ \(0\)\
+\-\ mobility\\:\\ 0\\.051078500399097566\ \(0\)\
+\-\ diffuse\\:\\ 0\\.04881146076179839\ \(0\)\
+\-\ psoriatic\\:\\ 0\\.04860336582864955\ \(0\)\
+\-\ spondylitis\\:\\ 0\\.04813156940813387\ \(0\)\
+\-\ \\:\\:\\ 0\\.04265187984870434\ \(0\)\
+\-\ generalized\\:\\ 0\\.04218597171804542\ \(0\)\
+\-\ dorsal\\:\\ 0\\.04103405948407467\ \(0\)\
+\-\ osteoarthritis\\:\\ 0\\.04000761741002939\ \(0\)\
+\-\ completely\\:\\ 0\\.03873573794956759\ \(0\)\
+\-\ bodies\\:\\ 0\\.037767302533906415\ \(0\)\
+\-\ osteomyelitis\\:\\ 0\\.03746538997648969\ \(0\)\
+\-\ ligament\\:\\ 0\\.03702989901645985\ \(0\)\
+\-\ degenerative\\:\\ 0\\.03654600001280372\ \(0\)\
+\-\ pending\\:\\ 0\\.03488230765612965\ \(0\)\
+\-\ arthritis\\:\\ 0\\.03444087217021683\ \(0\)\
+\-\ described\\:\\ 0\\.03433366689993084\ \(0\)\
+\-\ lumbar\\:\\ 0\\.03428051767617371\ \(0\)\
+\-\ appear\\:\\ 0\\.03299432481247436\ \(0\)\
+\-\ vertebral\\:\\ 0\\.03190373981520998\ \(0\)\
+\-\ thoracic\\:\\ 0\\.031076014208530678\ \(0\)\
+\-\ throughout\\:\\ 0\\.03017686156886723\ \(0\)\
+\-\ appears\\:\\ 0\\.030006875667898572\ \(0\)\
+\-\ complete\\:\\ 0\\.028371471075340136\ \(0\)\
+\-\ back\\:\\ 0\\.02659496542780639\ \(0\)\
+\-\ be\\:\\ 0\\.024863334402715643\ \(0\)\
+\-\ decreased\\:\\ 0\\.02396940002570339\ \(0\)\
+\-\ through\\:\\ 0\\.02289582092849876\ \(0\)\
+\-\ low\\:\\ 0\\.022416679744022637\ \(0\)\
+\-\ anterior\\:\\ 0\\.020762196450591863\ \(0\)\
+\-\ bilateral\\:\\ 0\\.01956431820107966\ \(0\)\
+\-\ present\\:\\ 0\\.01820762975407246\ \(0\)\
+\-\ findings\\:\\ 0\\.01715883901688641\ \(0\)\
+\-\ seen\\:\\ 0\\.015930449198751796\ \(0\)\
+\-\ disease\\:\\ 0\\.013176769256751925\ \(0\)\
+\-\ as\\:\\ 0\\.012194127414095545\ \(0\)\
+\-\ is\\:\\ 0\\.010609259969523124\ \(0\)\
+\-\ pain\\:\\ 0\\.009845360071044666\ \(0\)\
+\-\ to\\:\\ 0\\.00805788883854691\ \(0\)\
+\-\ the\\:\\ 0\\.006521192674699331\ \(0\)\
+\-\ with\\:\\ 0\\.0044152519279203675\ \(0\)\
+\-\ and\\:\\ 0\\.003396396334570159\ \(0\)\
+\-\ of\\:\\ 0\\.0032972773810751445\ \(0\)\
+\-\ \\.\\:\\ 0\\.003014111555435061\ \(0\)\

@@ -1,137 +1,133 @@
-Texto: 
-pain, swelling, and tenderness over the 5th digit of the hand.
-it is recommended to elevate and apply ice immediately.  
-   
-if the break is severe, it is advised to have the fracture set and then held in place with surgical hardware.
-a comminuted fracture occurring at the neck of the fifth metacarpal bone with volar angulation.
-fifth metacarpal fracture.
-fracture.
-31 year old african american male with no past medical history smelling of alcohol, complains of soreness in his hand after an altercation. proud of his injury, the patient repeats over and over again "the best shot is a cheap shot!"
-this patient has a fracture of the neck of the fifth metacarpal. other names for this fracture include boxer's fracture, brawler's fracture or street-fighter's fracture.
-
-a boxer's fracture may involve any of the metacarpals, however it is most common in the fifth metacarpal.  the colloquialism is derived from punching a hard object with a closed fist. some clinicians prefer to use the term brawler's fracture because the trained pugilist knows not to strike with the knuckle of their fifth digit.  
-
-if enough force is used the bone can become displaced or comminuted.  complications from this type of fracture may result in malalignment and could have a significant effect on grip strength.
-
-
-Keywords by value: 
-- fracture: 0.42385769047777466
-- fifth: 0.30901144474331727
-- metacarpal: 0.2781138306697446
-- the: 0.21081694295349496
-- brawler: 0.1899447773489311
-- boxer: 0.1788138776893555
-- shot: 0.1486064982738511
-- comminuted: 0.13769459561584646
-- digit: 0.1364124600470666
-- of: 0.12162303041814596
-- is: 0.11913966565494967
-- over: 0.10367288953037042
-- proud: 0.0993899347252471
-- cheap: 0.0993899347252471
-- colloquialism: 0.0993899347252471
-- punching: 0.0993899347252471
-- pugilist: 0.0993899347252471
-- knows: 0.0993899347252471
-- hand: 0.09716344652633262
-- it: 0.09543976109043267
-- knuckle: 0.09497238867446554
-- repeats: 0.091838089871371
-- names: 0.091838089871371
-- elevate: 0.08940693884467775
-- trained: 0.08940693884467775
-- strike: 0.08940693884467775
-- soreness: 0.08742054382058946
-- prefer: 0.08742054382058946
-- apply: 0.08574107075797877
-- fist: 0.08428624501749492
-- malalignment: 0.08300299776980789
-- held: 0.08185509399080165
-- smelling: 0.08185509399080165
-- altercation: 0.08081668871258088
-- break: 0.07818922590410267
-- metacarpals: 0.07818922590410267
-- object: 0.0774375479400201
-- derived: 0.07607389435601707
-- neck: 0.07603664674606886
-- clinicians: 0.07545115291593181
-- his: 0.0753838572931027
-- hardware: 0.07430324913692556
-- if: 0.07222033865039867
-- set: 0.0714447880827246
-- volar: 0.069885703086144
-- advised: 0.06918255530974272
-- ice: 0.06852204950214097
-- bone: 0.06782096790122685
-- force: 0.06702724203194303
-- enough: 0.06621983499944502
-- angulation: 0.06454036193683432
-- and: 0.06421174920813623
-- this: 0.06406664600610497
-- grip: 0.06348176201127416
-- occurring: 0.06270321594696508
-- may: 0.06255076979845824
-- to: 0.06214860788434374
-- have: 0.062093765057441706
-- in: 0.06184271256505119
-- hard: 0.06146179220215524
-- with: 0.060847850074919815
-- closed: 0.06034746320817963
-- 5th: 0.05779592411545625
-- alcohol: 0.057442541490307815
-- immediately: 0.05687790690326558
-- african: 0.05613356811704239
-- place: 0.05603126681029412
-- again: 0.05543684617929407
-- 31: 0.055151371093088986
-- become: 0.055151371093088986
-- involve: 0.05469159784603857
-- complains: 0.05407886560199055
-- american: 0.05302499543952627
-- strength: 0.05206413503756035
-- displaced: 0.05192355232419086
-- their: 0.051579832678939924
-- best: 0.0500072219089024
-- recommended: 0.049436672229082136
-- from: 0.049365972327181644
-- term: 0.048736999180543264
-- complications: 0.0475995262392129
-- use: 0.047552665912692096
-- used: 0.046527020748114455
-- result: 0.046527020748114455
-- could: 0.04520600913291093
-- then: 0.04399420482397946
-- effect: 0.04359677440856582
-- because: 0.043435363913819434
-- or: 0.04324112783664845
-- swelling: 0.041829381916508555
-- type: 0.041691990321283505
-- injury: 0.040527715375980884
-- past: 0.04045434803394909
-- patient: 0.040427962078811955
-- any: 0.04016572164204413
-- medical: 0.039498236775129834
-- severe: 0.039343066168820134
-- some: 0.03910360577966596
-- tenderness: 0.03897517589423836
-- include: 0.03697814640457148
-- however: 0.03678499855750319
-- significant: 0.03588351905994334
-- common: 0.03524565616133039
-- can: 0.03261387678816804
-- most: 0.03234427162750815
-- other: 0.03227502345506066
-- surgical: 0.030206488059051868
-- after: 0.030149545373053
-- has: 0.028387896272474608
-- male: 0.02767116839846549
-- not: 0.024534984808735297
-- an: 0.023765605769889415
-- history: 0.023744552605618002
-- at: 0.02347450042254253
-- pain: 0.02223923378957796
-- no: 0.020210178907411277
-- year: 0.019153127838422875
-- for: 0.018836914084524023
-- on: 0.018770093825268907
-- old: 0.018393632744621614
+\-\ Texto\\:\\ \ \(0\)\
+\-\ pain\\,\\ swelling\\,\\ and\\ tenderness\\ over\\ the\\ 5th\\ digit\\ of\\ the\\ hand\\.\ \(0\)\
+\-\ it\\ is\\ recommended\\ to\\ elevate\\ and\\ apply\\ ice\\ immediately\\.\\ \\ \ \(0\)\
+\-\ \\ \\ \\ \ \(4545\)\
+\-\ if\\ the\\ break\\ is\\ severe\\,\\ it\\ is\\ advised\\ to\\ have\\ the\\ fracture\\ set\\ and\\ then\\ held\\ in\\ place\\ with\\ surgical\\ hardware\\.\ \(0\)\
+\-\ a\\ comminuted\\ fracture\\ occurring\\ at\\ the\\ neck\\ of\\ the\\ fifth\\ metacarpal\\ bone\\ with\\ volar\\ angulation\\.\ \(0\)\
+\-\ fifth\\ metacarpal\\ fracture\\.\ \(0\)\
+\-\ fracture\\.\ \(289\)\
+\-\ 31\\ year\\ old\\ african\\ american\\ male\\ with\\ no\\ past\\ medical\\ history\\ smelling\\ of\\ alcohol\\,\\ complains\\ of\\ soreness\\ in\\ his\\ hand\\ after\\ an\\ altercation\\.\\ proud\\ of\\ his\\ injury\\,\\ the\\ patient\\ repeats\\ over\\ and\\ over\\ again\\ \\"the\\ best\\ shot\\ is\\ a\\ cheap\\ shot\\!\\"\ \(0\)\
+\-\ this\\ patient\\ has\\ a\\ fracture\\ of\\ the\\ neck\\ of\\ the\\ fifth\\ metacarpal\\.\\ other\\ names\\ for\\ this\\ fracture\\ include\\ boxer\\'s\\ fracture\\,\\ brawler\\'s\\ fracture\\ or\\ street\\-fighter\\'s\\ fracture\\.\ \(0\)\
+\-\ a\\ boxer\\'s\\ fracture\\ may\\ involve\\ any\\ of\\ the\\ metacarpals\\,\\ however\\ it\\ is\\ most\\ common\\ in\\ the\\ fifth\\ metacarpal\\.\\ \\ the\\ colloquialism\\ is\\ derived\\ from\\ punching\\ a\\ hard\\ object\\ with\\ a\\ closed\\ fist\\.\\ some\\ clinicians\\ prefer\\ to\\ use\\ the\\ term\\ brawler\\'s\\ fracture\\ because\\ the\\ trained\\ pugilist\\ knows\\ not\\ to\\ strike\\ with\\ the\\ knuckle\\ of\\ their\\ fifth\\ digit\\.\\ \\ \ \(0\)\
+\-\ if\\ enough\\ force\\ is\\ used\\ the\\ bone\\ can\\ become\\ displaced\\ or\\ comminuted\\.\\ \\ complications\\ from\\ this\\ type\\ of\\ fracture\\ may\\ result\\ in\\ malalignment\\ and\\ could\\ have\\ a\\ significant\\ effect\\ on\\ grip\\ strength\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ fracture\\:\\ 0\\.42385769047777466\ \(0\)\
+\-\ fifth\\:\\ 0\\.30901144474331727\ \(0\)\
+\-\ metacarpal\\:\\ 0\\.2781138306697446\ \(0\)\
+\-\ the\\:\\ 0\\.21081694295349496\ \(0\)\
+\-\ brawler\\:\\ 0\\.1899447773489311\ \(0\)\
+\-\ boxer\\:\\ 0\\.1788138776893555\ \(0\)\
+\-\ shot\\:\\ 0\\.1486064982738511\ \(0\)\
+\-\ comminuted\\:\\ 0\\.13769459561584646\ \(0\)\
+\-\ digit\\:\\ 0\\.1364124600470666\ \(0\)\
+\-\ of\\:\\ 0\\.12162303041814596\ \(0\)\
+\-\ is\\:\\ 0\\.11913966565494967\ \(0\)\
+\-\ over\\:\\ 0\\.10367288953037042\ \(0\)\
+\-\ proud\\:\\ 0\\.0993899347252471\ \(0\)\
+\-\ cheap\\:\\ 0\\.0993899347252471\ \(0\)\
+\-\ colloquialism\\:\\ 0\\.0993899347252471\ \(0\)\
+\-\ punching\\:\\ 0\\.0993899347252471\ \(0\)\
+\-\ pugilist\\:\\ 0\\.0993899347252471\ \(0\)\
+\-\ knows\\:\\ 0\\.0993899347252471\ \(0\)\
+\-\ hand\\:\\ 0\\.09716344652633262\ \(0\)\
+\-\ it\\:\\ 0\\.09543976109043267\ \(0\)\
+\-\ knuckle\\:\\ 0\\.09497238867446554\ \(0\)\
+\-\ repeats\\:\\ 0\\.091838089871371\ \(0\)\
+\-\ names\\:\\ 0\\.091838089871371\ \(0\)\
+\-\ elevate\\:\\ 0\\.08940693884467775\ \(0\)\
+\-\ trained\\:\\ 0\\.08940693884467775\ \(0\)\
+\-\ strike\\:\\ 0\\.08940693884467775\ \(0\)\
+\-\ soreness\\:\\ 0\\.08742054382058946\ \(0\)\
+\-\ prefer\\:\\ 0\\.08742054382058946\ \(0\)\
+\-\ apply\\:\\ 0\\.08574107075797877\ \(0\)\
+\-\ fist\\:\\ 0\\.08428624501749492\ \(0\)\
+\-\ malalignment\\:\\ 0\\.08300299776980789\ \(0\)\
+\-\ held\\:\\ 0\\.08185509399080165\ \(0\)\
+\-\ smelling\\:\\ 0\\.08185509399080165\ \(0\)\
+\-\ altercation\\:\\ 0\\.08081668871258088\ \(0\)\
+\-\ break\\:\\ 0\\.07818922590410267\ \(0\)\
+\-\ metacarpals\\:\\ 0\\.07818922590410267\ \(0\)\
+\-\ object\\:\\ 0\\.0774375479400201\ \(0\)\
+\-\ derived\\:\\ 0\\.07607389435601707\ \(0\)\
+\-\ neck\\:\\ 0\\.07603664674606886\ \(0\)\
+\-\ clinicians\\:\\ 0\\.07545115291593181\ \(0\)\
+\-\ his\\:\\ 0\\.0753838572931027\ \(0\)\
+\-\ hardware\\:\\ 0\\.07430324913692556\ \(0\)\
+\-\ if\\:\\ 0\\.07222033865039867\ \(0\)\
+\-\ set\\:\\ 0\\.0714447880827246\ \(0\)\
+\-\ volar\\:\\ 0\\.069885703086144\ \(0\)\
+\-\ advised\\:\\ 0\\.06918255530974272\ \(0\)\
+\-\ ice\\:\\ 0\\.06852204950214097\ \(0\)\
+\-\ bone\\:\\ 0\\.06782096790122685\ \(0\)\
+\-\ force\\:\\ 0\\.06702724203194303\ \(0\)\
+\-\ enough\\:\\ 0\\.06621983499944502\ \(0\)\
+\-\ angulation\\:\\ 0\\.06454036193683432\ \(0\)\
+\-\ and\\:\\ 0\\.06421174920813623\ \(0\)\
+\-\ this\\:\\ 0\\.06406664600610497\ \(0\)\
+\-\ grip\\:\\ 0\\.06348176201127416\ \(0\)\
+\-\ occurring\\:\\ 0\\.06270321594696508\ \(0\)\
+\-\ may\\:\\ 0\\.06255076979845824\ \(0\)\
+\-\ to\\:\\ 0\\.06214860788434374\ \(0\)\
+\-\ have\\:\\ 0\\.062093765057441706\ \(0\)\
+\-\ in\\:\\ 0\\.06184271256505119\ \(0\)\
+\-\ hard\\:\\ 0\\.06146179220215524\ \(0\)\
+\-\ with\\:\\ 0\\.060847850074919815\ \(0\)\
+\-\ closed\\:\\ 0\\.06034746320817963\ \(0\)\
+\-\ 5th\\:\\ 0\\.05779592411545625\ \(0\)\
+\-\ alcohol\\:\\ 0\\.057442541490307815\ \(0\)\
+\-\ immediately\\:\\ 0\\.05687790690326558\ \(0\)\
+\-\ african\\:\\ 0\\.05613356811704239\ \(0\)\
+\-\ place\\:\\ 0\\.05603126681029412\ \(0\)\
+\-\ again\\:\\ 0\\.05543684617929407\ \(0\)\
+\-\ 31\\:\\ 0\\.055151371093088986\ \(0\)\
+\-\ become\\:\\ 0\\.055151371093088986\ \(0\)\
+\-\ involve\\:\\ 0\\.05469159784603857\ \(0\)\
+\-\ complains\\:\\ 0\\.05407886560199055\ \(0\)\
+\-\ american\\:\\ 0\\.05302499543952627\ \(0\)\
+\-\ strength\\:\\ 0\\.05206413503756035\ \(0\)\
+\-\ displaced\\:\\ 0\\.05192355232419086\ \(0\)\
+\-\ their\\:\\ 0\\.051579832678939924\ \(0\)\
+\-\ best\\:\\ 0\\.0500072219089024\ \(0\)\
+\-\ recommended\\:\\ 0\\.049436672229082136\ \(0\)\
+\-\ from\\:\\ 0\\.049365972327181644\ \(0\)\
+\-\ term\\:\\ 0\\.048736999180543264\ \(0\)\
+\-\ complications\\:\\ 0\\.0475995262392129\ \(0\)\
+\-\ use\\:\\ 0\\.047552665912692096\ \(0\)\
+\-\ used\\:\\ 0\\.046527020748114455\ \(0\)\
+\-\ result\\:\\ 0\\.046527020748114455\ \(0\)\
+\-\ could\\:\\ 0\\.04520600913291093\ \(0\)\
+\-\ then\\:\\ 0\\.04399420482397946\ \(0\)\
+\-\ effect\\:\\ 0\\.04359677440856582\ \(0\)\
+\-\ because\\:\\ 0\\.043435363913819434\ \(0\)\
+\-\ or\\:\\ 0\\.04324112783664845\ \(0\)\
+\-\ swelling\\:\\ 0\\.041829381916508555\ \(0\)\
+\-\ type\\:\\ 0\\.041691990321283505\ \(0\)\
+\-\ injury\\:\\ 0\\.040527715375980884\ \(0\)\
+\-\ past\\:\\ 0\\.04045434803394909\ \(0\)\
+\-\ patient\\:\\ 0\\.040427962078811955\ \(0\)\
+\-\ any\\:\\ 0\\.04016572164204413\ \(0\)\
+\-\ medical\\:\\ 0\\.039498236775129834\ \(0\)\
+\-\ severe\\:\\ 0\\.039343066168820134\ \(0\)\
+\-\ some\\:\\ 0\\.03910360577966596\ \(0\)\
+\-\ tenderness\\:\\ 0\\.03897517589423836\ \(0\)\
+\-\ include\\:\\ 0\\.03697814640457148\ \(0\)\
+\-\ however\\:\\ 0\\.03678499855750319\ \(0\)\
+\-\ significant\\:\\ 0\\.03588351905994334\ \(0\)\
+\-\ common\\:\\ 0\\.03524565616133039\ \(0\)\
+\-\ can\\:\\ 0\\.03261387678816804\ \(0\)\
+\-\ most\\:\\ 0\\.03234427162750815\ \(0\)\
+\-\ other\\:\\ 0\\.03227502345506066\ \(0\)\
+\-\ surgical\\:\\ 0\\.030206488059051868\ \(0\)\
+\-\ after\\:\\ 0\\.030149545373053\ \(0\)\
+\-\ has\\:\\ 0\\.028387896272474608\ \(0\)\
+\-\ male\\:\\ 0\\.02767116839846549\ \(0\)\
+\-\ not\\:\\ 0\\.024534984808735297\ \(0\)\
+\-\ an\\:\\ 0\\.023765605769889415\ \(0\)\
+\-\ history\\:\\ 0\\.023744552605618002\ \(0\)\
+\-\ at\\:\\ 0\\.02347450042254253\ \(0\)\
+\-\ pain\\:\\ 0\\.02223923378957796\ \(0\)\
+\-\ no\\:\\ 0\\.020210178907411277\ \(0\)\
+\-\ year\\:\\ 0\\.019153127838422875\ \(0\)\
+\-\ for\\:\\ 0\\.018836914084524023\ \(0\)\
+\-\ on\\:\\ 0\\.018770093825268907\ \(0\)\
+\-\ old\\:\\ 0\\.018393632744621614\ \(0\)\

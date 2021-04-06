@@ -1,85 +1,82 @@
-Texto: 
-this patient received lovenox with significant improvement.
-mri w/ contrast of liver shows peripheral lack of enhancement with increased central enhancement, enlargement of the caudate lobe, and decreased signal in the hepatic vein consistent with thrombosis.
-
-doppler ultrasound of the right upper quadrant: intrahepatic portion of the inferior vena cava, as well as the hepatic veins, are diminutive. there is also pulsatile hepatopetal flow in the portal vein, and ascites surrounding the liver.
-budd-chiari syndrome
-1. primary sclerosing cholangitis.
-2. hepatic cirrhosis.
-ascites of uncertain etiology.
-this case highlights budd-chiari syndrome as a cause of postpartum ascites.
-
-
-Keywords by value: 
-- ascites: 0.13252690320373925
-- budd-chiari: 0.11735015010761175
-- hepatic: 0.09644579329205438
-- hepatopetal: 0.06952167689458008
-- diminutive: 0.06491964424803962
-- highlights: 0.05867507505380588
-- lovenox: 0.05631143303157623
-- vein: 0.05571051030656067
-- postpartum: 0.05564379364280396
-- liver: 0.053085072267256284
-- caudate: 0.051571855591064704
-- cholangitis: 0.050787969311878844
-- pulsatile: 0.050420203595480155
-- uncertain: 0.04848226323857074
-- sclerosing: 0.04553439917363005
-- intrahepatic: 0.045327286396830965
-- cirrhosis: 0.045327286396830965
-- syndrome: 0.044034352733957505
-- enhancement: 0.04127006785807272
-- vena: 0.04076629714250547
-- cava: 0.040522795589461154
-- portal: 0.040522795589461154
-- w/: 0.039941367471104654
-- doppler: 0.03723772249407458
-- veins: 0.03683000545274016
-- improvement: 0.035920762942920695
-- received: 0.03577775979736853
-- lack: 0.03502941206134499
-- as: 0.03493452718632778
-- thrombosis: 0.03304526078516257
-- etiology: 0.03258577831261867
-- enlargement: 0.030545661319685544
-- portion: 0.027884744570802582
-- peripheral: 0.027855255153280335
-- quadrant: 0.027093476882757248
-- inferior: 0.026119967219451017
-- cause: 0.02604741105001771
-- flow: 0.02544192681854519
-- central: 0.025330012223963597
-- surrounding: 0.025307795174457345
-- 2.: 0.02448147875495728
-- 1.: 0.024046749245924332
-- decreased: 0.02288969732184288
-- ultrasound: 0.02283894220726399
-- primary: 0.02280526362969096
-- shows: 0.021165528826386296
-- lobe: 0.02071464277408589
-- significant: 0.02070132568517318
-- signal: 0.020297966939394403
-- consistent: 0.01887656098046129
-- increased: 0.01883319623242933
-- upper: 0.018577301850168634
-- mri: 0.017687169864095673
-- well: 0.017415143720438297
-- this: 0.017317787627281676
-- contrast: 0.017232213394665814
-- case: 0.01684238227808352
-- also: 0.015176753096127489
-- ,: 0.012194147095373305
-- there: 0.011456896905089988
-- are: 0.010494359211978393
-- :: 0.0101826559999159
-- the: 0.008718423359688112
-- right: 0.008122808190183933
-- patient: 0.007717044422670162
-- in: 0.007592742885409998
-- of: 0.007347086536810081
-- is: 0.005065682688150682
-- a: 0.0035729711875549662
-- and: 0.0032434055086886207
-- with: 0.0031622750294564793
-- .: 0.002558525124133065
+\-\ Texto\\:\\ \ \(0\)\
+\-\ this\\ patient\\ received\\ lovenox\\ with\\ significant\\ improvement\\.\ \(0\)\
+\-\ mri\\ w\\/\\ contrast\\ of\\ liver\\ shows\\ peripheral\\ lack\\ of\\ enhancement\\ with\\ increased\\ central\\ enhancement\\,\\ enlargement\\ of\\ the\\ caudate\\ lobe\\,\\ and\\ decreased\\ signal\\ in\\ the\\ hepatic\\ vein\\ consistent\\ with\\ thrombosis\\.\ \(0\)\
+\-\ doppler\\ ultrasound\\ of\\ the\\ right\\ upper\\ quadrant\\:\\ intrahepatic\\ portion\\ of\\ the\\ inferior\\ vena\\ cava\\,\\ as\\ well\\ as\\ the\\ hepatic\\ veins\\,\\ are\\ diminutive\\.\\ there\\ is\\ also\\ pulsatile\\ hepatopetal\\ flow\\ in\\ the\\ portal\\ vein\\,\\ and\\ ascites\\ surrounding\\ the\\ liver\\.\ \(0\)\
+\-\ budd\\-chiari\\ syndrome\ \(0\)\
+\-\ 1\\.\\ primary\\ sclerosing\\ cholangitis\\.\ \(0\)\
+\-\ 2\\.\\ hepatic\\ cirrhosis\\.\ \(0\)\
+\-\ ascites\\ of\\ uncertain\\ etiology\\.\ \(0\)\
+\-\ this\\ case\\ highlights\\ budd\\-chiari\\ syndrome\\ as\\ a\\ cause\\ of\\ postpartum\\ ascites\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ ascites\\:\\ 0\\.13252690320373925\ \(0\)\
+\-\ budd\\-chiari\\:\\ 0\\.11735015010761175\ \(0\)\
+\-\ hepatic\\:\\ 0\\.09644579329205438\ \(0\)\
+\-\ hepatopetal\\:\\ 0\\.06952167689458008\ \(0\)\
+\-\ diminutive\\:\\ 0\\.06491964424803962\ \(0\)\
+\-\ highlights\\:\\ 0\\.05867507505380588\ \(0\)\
+\-\ lovenox\\:\\ 0\\.05631143303157623\ \(0\)\
+\-\ vein\\:\\ 0\\.05571051030656067\ \(0\)\
+\-\ postpartum\\:\\ 0\\.05564379364280396\ \(0\)\
+\-\ liver\\:\\ 0\\.053085072267256284\ \(0\)\
+\-\ caudate\\:\\ 0\\.051571855591064704\ \(0\)\
+\-\ cholangitis\\:\\ 0\\.050787969311878844\ \(0\)\
+\-\ pulsatile\\:\\ 0\\.050420203595480155\ \(0\)\
+\-\ uncertain\\:\\ 0\\.04848226323857074\ \(0\)\
+\-\ sclerosing\\:\\ 0\\.04553439917363005\ \(0\)\
+\-\ intrahepatic\\:\\ 0\\.045327286396830965\ \(0\)\
+\-\ cirrhosis\\:\\ 0\\.045327286396830965\ \(0\)\
+\-\ syndrome\\:\\ 0\\.044034352733957505\ \(0\)\
+\-\ enhancement\\:\\ 0\\.04127006785807272\ \(0\)\
+\-\ vena\\:\\ 0\\.04076629714250547\ \(0\)\
+\-\ cava\\:\\ 0\\.040522795589461154\ \(0\)\
+\-\ portal\\:\\ 0\\.040522795589461154\ \(0\)\
+\-\ w\\/\\:\\ 0\\.039941367471104654\ \(0\)\
+\-\ doppler\\:\\ 0\\.03723772249407458\ \(0\)\
+\-\ veins\\:\\ 0\\.03683000545274016\ \(0\)\
+\-\ improvement\\:\\ 0\\.035920762942920695\ \(0\)\
+\-\ received\\:\\ 0\\.03577775979736853\ \(0\)\
+\-\ lack\\:\\ 0\\.03502941206134499\ \(0\)\
+\-\ as\\:\\ 0\\.03493452718632778\ \(0\)\
+\-\ thrombosis\\:\\ 0\\.03304526078516257\ \(0\)\
+\-\ etiology\\:\\ 0\\.03258577831261867\ \(0\)\
+\-\ enlargement\\:\\ 0\\.030545661319685544\ \(0\)\
+\-\ portion\\:\\ 0\\.027884744570802582\ \(0\)\
+\-\ peripheral\\:\\ 0\\.027855255153280335\ \(0\)\
+\-\ quadrant\\:\\ 0\\.027093476882757248\ \(0\)\
+\-\ inferior\\:\\ 0\\.026119967219451017\ \(0\)\
+\-\ cause\\:\\ 0\\.02604741105001771\ \(0\)\
+\-\ flow\\:\\ 0\\.02544192681854519\ \(0\)\
+\-\ central\\:\\ 0\\.025330012223963597\ \(0\)\
+\-\ surrounding\\:\\ 0\\.025307795174457345\ \(0\)\
+\-\ 2\\.\\:\\ 0\\.02448147875495728\ \(0\)\
+\-\ 1\\.\\:\\ 0\\.024046749245924332\ \(0\)\
+\-\ decreased\\:\\ 0\\.02288969732184288\ \(0\)\
+\-\ ultrasound\\:\\ 0\\.02283894220726399\ \(0\)\
+\-\ primary\\:\\ 0\\.02280526362969096\ \(0\)\
+\-\ shows\\:\\ 0\\.021165528826386296\ \(0\)\
+\-\ lobe\\:\\ 0\\.02071464277408589\ \(0\)\
+\-\ significant\\:\\ 0\\.02070132568517318\ \(0\)\
+\-\ signal\\:\\ 0\\.020297966939394403\ \(0\)\
+\-\ consistent\\:\\ 0\\.01887656098046129\ \(0\)\
+\-\ increased\\:\\ 0\\.01883319623242933\ \(0\)\
+\-\ upper\\:\\ 0\\.018577301850168634\ \(0\)\
+\-\ mri\\:\\ 0\\.017687169864095673\ \(0\)\
+\-\ well\\:\\ 0\\.017415143720438297\ \(0\)\
+\-\ this\\:\\ 0\\.017317787627281676\ \(0\)\
+\-\ contrast\\:\\ 0\\.017232213394665814\ \(0\)\
+\-\ case\\:\\ 0\\.01684238227808352\ \(0\)\
+\-\ also\\:\\ 0\\.015176753096127489\ \(0\)\
+\-\ \\,\\:\\ 0\\.012194147095373305\ \(0\)\
+\-\ there\\:\\ 0\\.011456896905089988\ \(0\)\
+\-\ are\\:\\ 0\\.010494359211978393\ \(0\)\
+\-\ \\:\\:\\ 0\\.0101826559999159\ \(0\)\
+\-\ the\\:\\ 0\\.008718423359688112\ \(0\)\
+\-\ right\\:\\ 0\\.008122808190183933\ \(0\)\
+\-\ patient\\:\\ 0\\.007717044422670162\ \(0\)\
+\-\ in\\:\\ 0\\.007592742885409998\ \(0\)\
+\-\ of\\:\\ 0\\.007347086536810081\ \(0\)\
+\-\ is\\:\\ 0\\.005065682688150682\ \(0\)\
+\-\ a\\:\\ 0\\.0035729711875549662\ \(0\)\
+\-\ and\\:\\ 0\\.0032434055086886207\ \(0\)\
+\-\ with\\:\\ 0\\.0031622750294564793\ \(0\)\
+\-\ \\.\\:\\ 0\\.002558525124133065\ \(0\)\

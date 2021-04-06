@@ -1,113 +1,111 @@
-Texto: 
-elevated creatinine
-a biopsy is being planned and the patient will then likely be further evaluated by surgery.
-large retroperitoneal mass which predominately involves the inferior vena cava at the level of the renal vein drainage.  there are multiple punctate calcifications centrally.  it appears to be extending into the right psoas muscle and demonstrates mass effect on the right kidney and proximal ureter.
-angiosarcoma
-leiomyosarcoma
-angiosarcoma
-malignant fibrous histiocytoma
-paragangliomas
-teratomas
-metastatic disease
-66 yo female status post placement of a right ureteral stent to treat right hydronephrosis and hydroureter secondary to extrinsic compression by a retroperitoneal mass
-this is an interesting case of a large mass predominately involving the ivc.  statistically this is likely an mfh, with a liposarcoma an leiomyosarcoma less likely, given the absence of fat.  angiosarcoma, while extremely rare, is an interesting possibility.  the patient was just diagnosed with the mass and is awaiting biopsy.
-
-
-Keywords by value: 
-- angiosarcoma: 0.3449540037292967
-- predominately: 0.2190069373837483
-- leiomyosarcoma: 0.2190069373837483
-- interesting: 0.20484791407619873
-- the: 0.19328887233322647
-- retroperitoneal: 0.18673542228193785
-- mass: 0.1850069724509858
-- likely: 0.17365966529220758
-- an: 0.14816961156684955
-- statistically: 0.13625855097359635
-- mfh: 0.13625855097359635
-- biopsy: 0.13580351236472765
-- paragangliomas: 0.13364083028793958
-- is: 0.1326412493002815
-- right: 0.12846440401868128
-- hydroureter: 0.12187010235608915
-- teratomas: 0.11668424224865445
-- awaiting: 0.1141946849699498
-- histiocytoma: 0.11202387351914295
-- psoas: 0.11071695414909875
-- extrinsic: 0.1044724097549947
-- liposarcoma: 0.10362315425652147
-- punctate: 0.10094636717804506
-- ureteral: 0.10094636717804506
-- and: 0.10008402510669283
-- planned: 0.09926364799767634
-- extremely: 0.09926364799767634
-- creatinine: 0.0986346290195613
-- treat: 0.09802807987048044
-- stent: 0.09773274076002371
-- large: 0.09707241397071596
-- centrally: 0.09553852259177577
-- ureter: 0.09503157238401386
-- ivc: 0.09406093273172147
-- vena: 0.09359565511128946
-- cava: 0.0931427863849536
-- 66: 0.09084730631370012
-- possibility: 0.09008396113748748
-- hydronephrosis: 0.08989836835230369
-- involves: 0.08429034576066781
-- evaluated: 0.08276859054199978
-- by: 0.08227244097290383
-- be: 0.07859180901865187
-- drainage: 0.0775827304345651
-- just: 0.07749358812585173
-- absence: 0.07722893491246
-- of: 0.07582738411604843
-- placement: 0.0756422787120763
-- fibrous: 0.07524825707220635
-- rare: 0.07312737309820236
-- to: 0.072651223201546
-- appears: 0.07093732218661704
-- compression: 0.07093732218661704
-- calcifications: 0.0706972959882415
-- diagnosed: 0.0701693289822339
-- vein: 0.06943457071162457
-- malignant: 0.06905171715053599
-- muscle: 0.06878344031005357
-- then: 0.06857182921274836
-- kidney: 0.06805405828679185
-- effect: 0.0679523719301646
-- involving: 0.06785129085305464
-- status: 0.06760118956045598
-- being: 0.06750217137428201
-- given: 0.06663606788410652
-- this: 0.06657190609143895
-- elevated: 0.06603692725872999
-- inferior: 0.06590161522156708
-- less: 0.06590161522156708
-- extending: 0.06567846390514555
-- further: 0.06309244300620921
-- patient: 0.06301328373087757
-- while: 0.06260454111319265
-- will: 0.062347517837617085
-- proximal: 0.06051829276347953
-- yo: 0.06051829276347953
-- renal: 0.06032310014528769
-- fat: 0.06025853135717357
-- level: 0.058514516659606726
-- secondary: 0.057416733912845776
-- metastatic: 0.05312783291198207
-- post: 0.05270954647352239
-- surgery: 0.05208090311493013
-- into: 0.0514939240288395
-- it: 0.049585917234501495
-- demonstrates: 0.048665961739400264
-- case: 0.048665961739400264
-- multiple: 0.04738076488055597
-- female: 0.046743788727756294
-- which: 0.04404732480265897
-- disease: 0.040662189551582566
-- there: 0.038543897835165195
-- with: 0.03793634547999455
-- are: 0.03675740220635651
-- at: 0.03658866980934269
-- was: 0.03375982601322295
-- on: 0.029256118464767798
+\-\ Texto\\:\\ \ \(0\)\
+\-\ elevated\\ creatinine\ \(1\)\
+\-\ a\\ biopsy\\ is\\ being\\ planned\\ and\\ the\\ patient\\ will\\ then\\ likely\\ be\\ further\\ evaluated\\ by\\ surgery\\.\ \(0\)\
+\-\ large\\ retroperitoneal\\ mass\\ which\\ predominately\\ involves\\ the\\ inferior\\ vena\\ cava\\ at\\ the\\ level\\ of\\ the\\ renal\\ vein\\ drainage\\.\\ \\ there\\ are\\ multiple\\ punctate\\ calcifications\\ centrally\\.\\ \\ it\\ appears\\ to\\ be\\ extending\\ into\\ the\\ right\\ psoas\\ muscle\\ and\\ demonstrates\\ mass\\ effect\\ on\\ the\\ right\\ kidney\\ and\\ proximal\\ ureter\\.\ \(0\)\
+\-\ angiosarcoma\ \(17\)\
+\-\ leiomyosarcoma\ \(24\)\
+\-\ angiosarcoma\ \(17\)\
+\-\ malignant\\ fibrous\\ histiocytoma\ \(11\)\
+\-\ paragangliomas\ \(10\)\
+\-\ teratomas\ \(30\)\
+\-\ metastatic\\ disease\ \(243\)\
+\-\ 66\\ yo\\ female\\ status\\ post\\ placement\\ of\\ a\\ right\\ ureteral\\ stent\\ to\\ treat\\ right\\ hydronephrosis\\ and\\ hydroureter\\ secondary\\ to\\ extrinsic\\ compression\\ by\\ a\\ retroperitoneal\\ mass\ \(1\)\
+\-\ this\\ is\\ an\\ interesting\\ case\\ of\\ a\\ large\\ mass\\ predominately\\ involving\\ the\\ ivc\\.\\ \\ statistically\\ this\\ is\\ likely\\ an\\ mfh\\,\\ with\\ a\\ liposarcoma\\ an\\ leiomyosarcoma\\ less\\ likely\\,\\ given\\ the\\ absence\\ of\\ fat\\.\\ \\ angiosarcoma\\,\\ while\\ extremely\\ rare\\,\\ is\\ an\\ interesting\\ possibility\\.\\ \\ the\\ patient\\ was\\ just\\ diagnosed\\ with\\ the\\ mass\\ and\\ is\\ awaiting\\ biopsy\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ angiosarcoma\\:\\ 0\\.3449540037292967\ \(0\)\
+\-\ predominately\\:\\ 0\\.2190069373837483\ \(0\)\
+\-\ leiomyosarcoma\\:\\ 0\\.2190069373837483\ \(0\)\
+\-\ interesting\\:\\ 0\\.20484791407619873\ \(0\)\
+\-\ the\\:\\ 0\\.19328887233322647\ \(0\)\
+\-\ retroperitoneal\\:\\ 0\\.18673542228193785\ \(0\)\
+\-\ mass\\:\\ 0\\.1850069724509858\ \(0\)\
+\-\ likely\\:\\ 0\\.17365966529220758\ \(0\)\
+\-\ an\\:\\ 0\\.14816961156684955\ \(0\)\
+\-\ statistically\\:\\ 0\\.13625855097359635\ \(0\)\
+\-\ mfh\\:\\ 0\\.13625855097359635\ \(0\)\
+\-\ biopsy\\:\\ 0\\.13580351236472765\ \(0\)\
+\-\ paragangliomas\\:\\ 0\\.13364083028793958\ \(0\)\
+\-\ is\\:\\ 0\\.1326412493002815\ \(0\)\
+\-\ right\\:\\ 0\\.12846440401868128\ \(0\)\
+\-\ hydroureter\\:\\ 0\\.12187010235608915\ \(0\)\
+\-\ teratomas\\:\\ 0\\.11668424224865445\ \(0\)\
+\-\ awaiting\\:\\ 0\\.1141946849699498\ \(0\)\
+\-\ histiocytoma\\:\\ 0\\.11202387351914295\ \(0\)\
+\-\ psoas\\:\\ 0\\.11071695414909875\ \(0\)\
+\-\ extrinsic\\:\\ 0\\.1044724097549947\ \(0\)\
+\-\ liposarcoma\\:\\ 0\\.10362315425652147\ \(0\)\
+\-\ punctate\\:\\ 0\\.10094636717804506\ \(0\)\
+\-\ ureteral\\:\\ 0\\.10094636717804506\ \(0\)\
+\-\ and\\:\\ 0\\.10008402510669283\ \(0\)\
+\-\ planned\\:\\ 0\\.09926364799767634\ \(0\)\
+\-\ extremely\\:\\ 0\\.09926364799767634\ \(0\)\
+\-\ creatinine\\:\\ 0\\.0986346290195613\ \(0\)\
+\-\ treat\\:\\ 0\\.09802807987048044\ \(0\)\
+\-\ stent\\:\\ 0\\.09773274076002371\ \(0\)\
+\-\ large\\:\\ 0\\.09707241397071596\ \(0\)\
+\-\ centrally\\:\\ 0\\.09553852259177577\ \(0\)\
+\-\ ureter\\:\\ 0\\.09503157238401386\ \(0\)\
+\-\ ivc\\:\\ 0\\.09406093273172147\ \(0\)\
+\-\ vena\\:\\ 0\\.09359565511128946\ \(0\)\
+\-\ cava\\:\\ 0\\.0931427863849536\ \(0\)\
+\-\ 66\\:\\ 0\\.09084730631370012\ \(0\)\
+\-\ possibility\\:\\ 0\\.09008396113748748\ \(0\)\
+\-\ hydronephrosis\\:\\ 0\\.08989836835230369\ \(0\)\
+\-\ involves\\:\\ 0\\.08429034576066781\ \(0\)\
+\-\ evaluated\\:\\ 0\\.08276859054199978\ \(0\)\
+\-\ by\\:\\ 0\\.08227244097290383\ \(0\)\
+\-\ be\\:\\ 0\\.07859180901865187\ \(0\)\
+\-\ drainage\\:\\ 0\\.0775827304345651\ \(0\)\
+\-\ just\\:\\ 0\\.07749358812585173\ \(0\)\
+\-\ absence\\:\\ 0\\.07722893491246\ \(0\)\
+\-\ of\\:\\ 0\\.07582738411604843\ \(0\)\
+\-\ placement\\:\\ 0\\.0756422787120763\ \(0\)\
+\-\ fibrous\\:\\ 0\\.07524825707220635\ \(0\)\
+\-\ rare\\:\\ 0\\.07312737309820236\ \(0\)\
+\-\ to\\:\\ 0\\.072651223201546\ \(0\)\
+\-\ appears\\:\\ 0\\.07093732218661704\ \(0\)\
+\-\ compression\\:\\ 0\\.07093732218661704\ \(0\)\
+\-\ calcifications\\:\\ 0\\.0706972959882415\ \(0\)\
+\-\ diagnosed\\:\\ 0\\.0701693289822339\ \(0\)\
+\-\ vein\\:\\ 0\\.06943457071162457\ \(0\)\
+\-\ malignant\\:\\ 0\\.06905171715053599\ \(0\)\
+\-\ muscle\\:\\ 0\\.06878344031005357\ \(0\)\
+\-\ then\\:\\ 0\\.06857182921274836\ \(0\)\
+\-\ kidney\\:\\ 0\\.06805405828679185\ \(0\)\
+\-\ effect\\:\\ 0\\.0679523719301646\ \(0\)\
+\-\ involving\\:\\ 0\\.06785129085305464\ \(0\)\
+\-\ status\\:\\ 0\\.06760118956045598\ \(0\)\
+\-\ being\\:\\ 0\\.06750217137428201\ \(0\)\
+\-\ given\\:\\ 0\\.06663606788410652\ \(0\)\
+\-\ this\\:\\ 0\\.06657190609143895\ \(0\)\
+\-\ elevated\\:\\ 0\\.06603692725872999\ \(0\)\
+\-\ inferior\\:\\ 0\\.06590161522156708\ \(0\)\
+\-\ less\\:\\ 0\\.06590161522156708\ \(0\)\
+\-\ extending\\:\\ 0\\.06567846390514555\ \(0\)\
+\-\ further\\:\\ 0\\.06309244300620921\ \(0\)\
+\-\ patient\\:\\ 0\\.06301328373087757\ \(0\)\
+\-\ while\\:\\ 0\\.06260454111319265\ \(0\)\
+\-\ will\\:\\ 0\\.062347517837617085\ \(0\)\
+\-\ proximal\\:\\ 0\\.06051829276347953\ \(0\)\
+\-\ yo\\:\\ 0\\.06051829276347953\ \(0\)\
+\-\ renal\\:\\ 0\\.06032310014528769\ \(0\)\
+\-\ fat\\:\\ 0\\.06025853135717357\ \(0\)\
+\-\ level\\:\\ 0\\.058514516659606726\ \(0\)\
+\-\ secondary\\:\\ 0\\.057416733912845776\ \(0\)\
+\-\ metastatic\\:\\ 0\\.05312783291198207\ \(0\)\
+\-\ post\\:\\ 0\\.05270954647352239\ \(0\)\
+\-\ surgery\\:\\ 0\\.05208090311493013\ \(0\)\
+\-\ into\\:\\ 0\\.0514939240288395\ \(0\)\
+\-\ it\\:\\ 0\\.049585917234501495\ \(0\)\
+\-\ demonstrates\\:\\ 0\\.048665961739400264\ \(0\)\
+\-\ case\\:\\ 0\\.048665961739400264\ \(0\)\
+\-\ multiple\\:\\ 0\\.04738076488055597\ \(0\)\
+\-\ female\\:\\ 0\\.046743788727756294\ \(0\)\
+\-\ which\\:\\ 0\\.04404732480265897\ \(0\)\
+\-\ disease\\:\\ 0\\.040662189551582566\ \(0\)\
+\-\ there\\:\\ 0\\.038543897835165195\ \(0\)\
+\-\ with\\:\\ 0\\.03793634547999455\ \(0\)\
+\-\ are\\:\\ 0\\.03675740220635651\ \(0\)\
+\-\ at\\:\\ 0\\.03658866980934269\ \(0\)\
+\-\ was\\:\\ 0\\.03375982601322295\ \(0\)\
+\-\ on\\:\\ 0\\.029256118464767798\ \(0\)\

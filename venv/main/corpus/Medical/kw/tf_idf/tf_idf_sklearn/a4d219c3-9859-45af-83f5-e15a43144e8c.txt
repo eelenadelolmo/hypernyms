@@ -1,116 +1,113 @@
-Texto: 
-esr 6
-vasculitis workup negative
-since the episode was determined to be secondary to fmd and not vasculitis, she was spared steroid and warfarin/lovenox therapy.  she was sent home on clopidogrel (pavix) only. 
-
-carotid dopplers performed as well as cta of the circle of willis to screen for involvement of these vessels.
-â€¢ splenic artery dissection and aneurysm of false lumen
-â€¢ r renal artery bead-on-a-string appearance
-â€¢ acute r renal infarct
-â€¢ bilateral external iliac webbing
-â€¢ left external iliac artery dissection
-â€¢ remote infarcts of bilateral kidneys with atrophy
-â€¢ dissected small intrarenal artery in r kidney
-â€¢ sma saccular aneurysm
-â€¢ jejunal branch of sma complete occlusion (remote)
-â€¢ left sided intrarenal arterial dissection with aneurysm of false lumen
-fibromuscular dysplasia
-â€¢ large vessel vasculitis
-â€¢ takayasu arteritis
-â€¢ fibromuscular dysplasia
-55 yo woman with acute onset of right flank pain, nausea, and vomiting.  she had a similar episode 10 years prior.
-
-
-Keywords by value: 
-- vasculitis: 0.23556737583123827
-- dissection: 0.23054174527434326
-- intrarenal: 0.21746979642585224
-- artery: 0.21019642224768662
-- fibromuscular: 0.19341324228652232
-- aneurysm: 0.19327275498972976
-- sma: 0.19129338486673378
-- false: 0.18250454644000075
-- remote: 0.17513384545738828
-- iliac: 0.15578237002756412
-- episode: 0.15486951703741697
-- she: 0.15110085280683963
-- lumen: 0.1506843666150102
-- external: 0.13680665680023227
-- pavix: 0.13531151221385462
-- dopplers: 0.13531151221385462
-- of: 0.1324640867218966
-- dysplasia: 0.1296059584684457
-- webbing: 0.12929737367902217
-- clopidogrel: 0.1250302744808066
-- dissected: 0.1250302744808066
-- fmd: 0.11300199741114166
-- willis: 0.10873489821292612
-- circle: 0.10754764948788088
-- renal: 0.10537940167828985
-- takayasu: 0.10446779901471058
-- saccular: 0.10191879730843362
-- spared: 0.10043429032430544
-- jejunal: 0.09974427332142148
-- arteritis: 0.09784816046174216
-- acute: 0.09154270219996866
-- bilateral: 0.09094621671877923
-- was: 0.08846338112932293
-- screen: 0.0872731964831275
-- splenic: 0.08300609728491196
-- branch: 0.08300609728491196
-- infarcts: 0.08278955780862829
-- steroid: 0.08155278419386165
-- determined: 0.08059550427213033
-- atrophy: 0.08004945399566966
-- workup: 0.07969627800842775
-- cta: 0.07969627800842775
-- sent: 0.07918179785532543
-- occlusion: 0.07773747699898016
-- esr: 0.07743475851870849
-- home: 0.07483066052470301
-- vessel: 0.07421510785237566
-- flank: 0.07421510785237566
-- kidneys: 0.07283432640068091
-- 55: 0.07272485955186395
-- carotid: 0.07127154646081363
-- infarct: 0.07040726176966942
-- and: 0.06993536245913332
-- arterial: 0.06967913076544979
-- as: 0.06798253507531511
-- vessels: 0.0656583158633176
-- nausea: 0.06499603216366738
-- similar: 0.06448670519000205
-- to: 0.0634577998622048
-- vomiting: 0.06260812654410858
-- since: 0.06128996923654069
-- involvement: 0.06123960351517078
-- kidney: 0.059442368899883295
-- complete: 0.05930933939211335
-- left: 0.05772535902079655
-- sided: 0.05442614917874519
-- onset: 0.05433116897783839
-- only: 0.052860193413859544
-- yo: 0.052860193413859544
-- negative: 0.05238213167078943
-- years: 0.05186545042518354
-- on: 0.05110798768334249
-- appearance: 0.05100873150349267
-- secondary: 0.05015111169257369
-- performed: 0.050056182148119945
-- with: 0.049703712743305685
-- 10: 0.04947625329161374
-- therapy: 0.04861454424207441
-- these: 0.047779854805456226
-- prior: 0.047340039301507764
-- woman: 0.04406571910225929
-- small: 0.04364523672086354
-- large: 0.04239434345658549
-- had: 0.042156343313313874
-- well: 0.04096909458826864
-- be: 0.03432332635115292
-- the: 0.03376594649228736
-- not: 0.03340243562682016
-- pain: 0.03027695272025208
-- right: 0.02805206877597837
-- for: 0.0256449643242591
-- in: 0.021048486900902885
+\-\ Texto\\:\\ \ \(0\)\
+\-\ esr\\ 6\ \(0\)\
+\-\ vasculitis\\ workup\\ negative\ \(1\)\
+\-\ since\\ the\\ episode\\ was\\ determined\\ to\\ be\\ secondary\\ to\\ fmd\\ and\\ not\\ vasculitis\\,\\ she\\ was\\ spared\\ steroid\\ and\\ warfarin\\/lovenox\\ therapy\\.\\ \\ she\\ was\\ sent\\ home\\ on\\ clopidogrel\\ \\(pavix\\)\\ only\\.\\ \ \(0\)\
+\-\ carotid\\ dopplers\\ performed\\ as\\ well\\ as\\ cta\\ of\\ the\\ circle\\ of\\ willis\\ to\\ screen\\ for\\ involvement\\ of\\ these\\ vessels\\.\ \(0\)\
+\-\ \\â\\€\\¢\\ splenic\\ artery\\ dissection\\ and\\ aneurysm\\ of\\ false\\ lumen\ \(1\)\
+\-\ \\â\\€\\¢\\ r\\ renal\\ artery\\ bead\\-on\\-a\\-string\\ appearance\ \(0\)\
+\-\ \\â\\€\\¢\\ acute\\ r\\ renal\\ infarct\ \(0\)\
+\-\ \\â\\€\\¢\\ bilateral\\ external\\ iliac\\ webbing\ \(0\)\
+\-\ \\â\\€\\¢\\ left\\ external\\ iliac\\ artery\\ dissection\ \(0\)\
+\-\ \\â\\€\\¢\\ remote\\ infarcts\\ of\\ bilateral\\ kidneys\\ with\\ atrophy\ \(1\)\
+\-\ \\â\\€\\¢\\ dissected\\ small\\ intrarenal\\ artery\\ in\\ r\\ kidney\ \(0\)\
+\-\ \\â\\€\\¢\\ sma\\ saccular\\ aneurysm\ \(0\)\
+\-\ \\â\\€\\¢\\ jejunal\\ branch\\ of\\ sma\\ complete\\ occlusion\\ \\(remote\\)\ \(0\)\
+\-\ \\â\\€\\¢\\ left\\ sided\\ intrarenal\\ arterial\\ dissection\\ with\\ aneurysm\\ of\\ false\\ lumen\ \(0\)\
+\-\ fibromuscular\\ dysplasia\ \(11\)\
+\-\ \\â\\€\\¢\\ large\\ vessel\\ vasculitis\ \(0\)\
+\-\ \\â\\€\\¢\\ takayasu\\ arteritis\ \(0\)\
+\-\ \\â\\€\\¢\\ fibromuscular\\ dysplasia\ \(0\)\
+\-\ 55\\ yo\\ woman\\ with\\ acute\\ onset\\ of\\ right\\ flank\\ pain\\,\\ nausea\\,\\ and\\ vomiting\\.\\ \\ she\\ had\\ a\\ similar\\ episode\\ 10\\ years\\ prior\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ vasculitis\\:\\ 0\\.23556737583123827\ \(0\)\
+\-\ dissection\\:\\ 0\\.23054174527434326\ \(0\)\
+\-\ intrarenal\\:\\ 0\\.21746979642585224\ \(0\)\
+\-\ artery\\:\\ 0\\.21019642224768662\ \(0\)\
+\-\ fibromuscular\\:\\ 0\\.19341324228652232\ \(0\)\
+\-\ aneurysm\\:\\ 0\\.19327275498972976\ \(0\)\
+\-\ sma\\:\\ 0\\.19129338486673378\ \(0\)\
+\-\ false\\:\\ 0\\.18250454644000075\ \(0\)\
+\-\ remote\\:\\ 0\\.17513384545738828\ \(0\)\
+\-\ iliac\\:\\ 0\\.15578237002756412\ \(0\)\
+\-\ episode\\:\\ 0\\.15486951703741697\ \(0\)\
+\-\ she\\:\\ 0\\.15110085280683963\ \(0\)\
+\-\ lumen\\:\\ 0\\.1506843666150102\ \(0\)\
+\-\ external\\:\\ 0\\.13680665680023227\ \(0\)\
+\-\ pavix\\:\\ 0\\.13531151221385462\ \(0\)\
+\-\ dopplers\\:\\ 0\\.13531151221385462\ \(0\)\
+\-\ of\\:\\ 0\\.1324640867218966\ \(0\)\
+\-\ dysplasia\\:\\ 0\\.1296059584684457\ \(0\)\
+\-\ webbing\\:\\ 0\\.12929737367902217\ \(0\)\
+\-\ clopidogrel\\:\\ 0\\.1250302744808066\ \(0\)\
+\-\ dissected\\:\\ 0\\.1250302744808066\ \(0\)\
+\-\ fmd\\:\\ 0\\.11300199741114166\ \(0\)\
+\-\ willis\\:\\ 0\\.10873489821292612\ \(0\)\
+\-\ circle\\:\\ 0\\.10754764948788088\ \(0\)\
+\-\ renal\\:\\ 0\\.10537940167828985\ \(0\)\
+\-\ takayasu\\:\\ 0\\.10446779901471058\ \(0\)\
+\-\ saccular\\:\\ 0\\.10191879730843362\ \(0\)\
+\-\ spared\\:\\ 0\\.10043429032430544\ \(0\)\
+\-\ jejunal\\:\\ 0\\.09974427332142148\ \(0\)\
+\-\ arteritis\\:\\ 0\\.09784816046174216\ \(0\)\
+\-\ acute\\:\\ 0\\.09154270219996866\ \(0\)\
+\-\ bilateral\\:\\ 0\\.09094621671877923\ \(0\)\
+\-\ was\\:\\ 0\\.08846338112932293\ \(0\)\
+\-\ screen\\:\\ 0\\.0872731964831275\ \(0\)\
+\-\ splenic\\:\\ 0\\.08300609728491196\ \(0\)\
+\-\ branch\\:\\ 0\\.08300609728491196\ \(0\)\
+\-\ infarcts\\:\\ 0\\.08278955780862829\ \(0\)\
+\-\ steroid\\:\\ 0\\.08155278419386165\ \(0\)\
+\-\ determined\\:\\ 0\\.08059550427213033\ \(0\)\
+\-\ atrophy\\:\\ 0\\.08004945399566966\ \(0\)\
+\-\ workup\\:\\ 0\\.07969627800842775\ \(0\)\
+\-\ cta\\:\\ 0\\.07969627800842775\ \(0\)\
+\-\ sent\\:\\ 0\\.07918179785532543\ \(0\)\
+\-\ occlusion\\:\\ 0\\.07773747699898016\ \(0\)\
+\-\ esr\\:\\ 0\\.07743475851870849\ \(0\)\
+\-\ home\\:\\ 0\\.07483066052470301\ \(0\)\
+\-\ vessel\\:\\ 0\\.07421510785237566\ \(0\)\
+\-\ flank\\:\\ 0\\.07421510785237566\ \(0\)\
+\-\ kidneys\\:\\ 0\\.07283432640068091\ \(0\)\
+\-\ 55\\:\\ 0\\.07272485955186395\ \(0\)\
+\-\ carotid\\:\\ 0\\.07127154646081363\ \(0\)\
+\-\ infarct\\:\\ 0\\.07040726176966942\ \(0\)\
+\-\ and\\:\\ 0\\.06993536245913332\ \(0\)\
+\-\ arterial\\:\\ 0\\.06967913076544979\ \(0\)\
+\-\ as\\:\\ 0\\.06798253507531511\ \(0\)\
+\-\ vessels\\:\\ 0\\.0656583158633176\ \(0\)\
+\-\ nausea\\:\\ 0\\.06499603216366738\ \(0\)\
+\-\ similar\\:\\ 0\\.06448670519000205\ \(0\)\
+\-\ to\\:\\ 0\\.0634577998622048\ \(0\)\
+\-\ vomiting\\:\\ 0\\.06260812654410858\ \(0\)\
+\-\ since\\:\\ 0\\.06128996923654069\ \(0\)\
+\-\ involvement\\:\\ 0\\.06123960351517078\ \(0\)\
+\-\ kidney\\:\\ 0\\.059442368899883295\ \(0\)\
+\-\ complete\\:\\ 0\\.05930933939211335\ \(0\)\
+\-\ left\\:\\ 0\\.05772535902079655\ \(0\)\
+\-\ sided\\:\\ 0\\.05442614917874519\ \(0\)\
+\-\ onset\\:\\ 0\\.05433116897783839\ \(0\)\
+\-\ only\\:\\ 0\\.052860193413859544\ \(0\)\
+\-\ yo\\:\\ 0\\.052860193413859544\ \(0\)\
+\-\ negative\\:\\ 0\\.05238213167078943\ \(0\)\
+\-\ years\\:\\ 0\\.05186545042518354\ \(0\)\
+\-\ on\\:\\ 0\\.05110798768334249\ \(0\)\
+\-\ appearance\\:\\ 0\\.05100873150349267\ \(0\)\
+\-\ secondary\\:\\ 0\\.05015111169257369\ \(0\)\
+\-\ performed\\:\\ 0\\.050056182148119945\ \(0\)\
+\-\ with\\:\\ 0\\.049703712743305685\ \(0\)\
+\-\ 10\\:\\ 0\\.04947625329161374\ \(0\)\
+\-\ therapy\\:\\ 0\\.04861454424207441\ \(0\)\
+\-\ these\\:\\ 0\\.047779854805456226\ \(0\)\
+\-\ prior\\:\\ 0\\.047340039301507764\ \(0\)\
+\-\ woman\\:\\ 0\\.04406571910225929\ \(0\)\
+\-\ small\\:\\ 0\\.04364523672086354\ \(0\)\
+\-\ large\\:\\ 0\\.04239434345658549\ \(0\)\
+\-\ had\\:\\ 0\\.042156343313313874\ \(0\)\
+\-\ well\\:\\ 0\\.04096909458826864\ \(0\)\
+\-\ be\\:\\ 0\\.03432332635115292\ \(0\)\
+\-\ the\\:\\ 0\\.03376594649228736\ \(0\)\
+\-\ not\\:\\ 0\\.03340243562682016\ \(0\)\
+\-\ pain\\:\\ 0\\.03027695272025208\ \(0\)\
+\-\ right\\:\\ 0\\.02805206877597837\ \(0\)\
+\-\ for\\:\\ 0\\.0256449643242591\ \(0\)\
+\-\ in\\:\\ 0\\.021048486900902885\ \(0\)\

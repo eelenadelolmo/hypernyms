@@ -1,79 +1,77 @@
-Texto: 
-inability to move the arm and tenderness to palpation
-stabilisation of the fracture, with subsequent curettage of the cyst.
-expansile lytic lesion in the proximal humeral metaphysis with well defined thin sclerotic borders and narrow zone of transition. a small bone fragment rests in the dependent portion. a pathologic non-displaced fracture is noted throught the lytic lesion with some comminution of the bony fragments.
-simple bone cyst with pathologic fracture
-unicameral bony cyst
-aneurysmal bone cyst
-osteomyelitis
-eosinophilic granuloma
-11 year-old boy presents to the emergency department with right shoulder pain after lacrosse practice
-
-
-Keywords by value: 
-- cyst: 0.09278267216267082
-- stabilisation: 0.08904564064612626
-- lacrosse: 0.07794854682119585
-- lytic: 0.07727446135732853
-- pathologic: 0.07556251734813478
-- comminution: 0.07504266730148089
-- throught: 0.06938998257486045
-- bony: 0.06903748934239891
-- fracture: 0.06827497970523572
-- bone: 0.06434650549878394
-- rests: 0.06394557347655049
-- practice: 0.05930383277575817
-- non-displaced: 0.05878571869103543
-- unicameral: 0.05878571869103543
-- move: 0.05575435917133505
-- curettage: 0.05372738244949513
-- transition: 0.050372495227044484
-- inability: 0.04953025675291265
-- borders: 0.04803106478202101
-- aneurysmal: 0.046880112667382436
-- narrow: 0.04657399802601549
-- dependent: 0.04657399802601549
-- eosinophilic: 0.04627688807443676
-- zone: 0.04584699297929741
-- humeral: 0.0457076664931122
-- fragments: 0.045168818203159745
-- metaphysis: 0.04294111345958245
-- simple: 0.042528770080589966
-- granuloma: 0.042428261688133725
-- expansile: 0.042328743542244716
-- osteomyelitis: 0.04011445795462533
-- fragment: 0.03987862599505976
-- 11: 0.03949741056088959
-- department: 0.03870617982078952
-- sclerotic: 0.038637230678664265
-- defined: 0.03636952188239912
-- arm: 0.03615228748622777
-- thin: 0.03547690420108508
-- lesion: 0.035162731838393024
-- shoulder: 0.034796771675139754
-- subsequent: 0.03360182523040214
-- emergency: 0.032684733312932084
-- year-old: 0.031704693148466835
-- portion: 0.031264713609687744
-- boy: 0.029340624039656277
-- palpation: 0.028807465458061135
-- tenderness: 0.026251639625067005
-- some: 0.02621139650370464
-- proximal: 0.025914577593000154
-- noted: 0.020458799883359535
-- small: 0.019884598832132512
-- well: 0.019526070232006577
-- after: 0.01785859800615356
-- presents: 0.01763277066169622
-- to: 0.012941457831605645
-- the: 0.011171659369989964
-- pain: 0.010541496641724594
-- right: 0.00910739100111532
-- in: 0.008513075356368787
-- a: 0.008012117208456591
-- with: 0.005909301822721704
-- is: 0.005679704832168946
-- of: 0.0047072242746662
-- and: 0.0036365455703478477
-- ,: 0.002734445106235226
-- .: 0.0014343246908018698
+\-\ Texto\\:\\ \ \(0\)\
+\-\ inability\\ to\\ move\\ the\\ arm\\ and\\ tenderness\\ to\\ palpation\ \(0\)\
+\-\ stabilisation\\ of\\ the\\ fracture\\,\\ with\\ subsequent\\ curettage\\ of\\ the\\ cyst\\.\ \(0\)\
+\-\ expansile\\ lytic\\ lesion\\ in\\ the\\ proximal\\ humeral\\ metaphysis\\ with\\ well\\ defined\\ thin\\ sclerotic\\ borders\\ and\\ narrow\\ zone\\ of\\ transition\\.\\ a\\ small\\ bone\\ fragment\\ rests\\ in\\ the\\ dependent\\ portion\\.\\ a\\ pathologic\\ non\\-displaced\\ fracture\\ is\\ noted\\ throught\\ the\\ lytic\\ lesion\\ with\\ some\\ comminution\\ of\\ the\\ bony\\ fragments\\.\ \(0\)\
+\-\ simple\\ bone\\ cyst\\ with\\ pathologic\\ fracture\ \(0\)\
+\-\ unicameral\\ bony\\ cyst\ \(0\)\
+\-\ aneurysmal\\ bone\\ cyst\ \(11\)\
+\-\ osteomyelitis\ \(170\)\
+\-\ eosinophilic\\ granuloma\ \(17\)\
+\-\ 11\\ year\\-old\\ boy\\ presents\\ to\\ the\\ emergency\\ department\\ with\\ right\\ shoulder\\ pain\\ after\\ lacrosse\\ practice\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ cyst\\:\\ 0\\.09278267216267082\ \(0\)\
+\-\ stabilisation\\:\\ 0\\.08904564064612626\ \(0\)\
+\-\ lacrosse\\:\\ 0\\.07794854682119585\ \(0\)\
+\-\ lytic\\:\\ 0\\.07727446135732853\ \(0\)\
+\-\ pathologic\\:\\ 0\\.07556251734813478\ \(0\)\
+\-\ comminution\\:\\ 0\\.07504266730148089\ \(0\)\
+\-\ throught\\:\\ 0\\.06938998257486045\ \(0\)\
+\-\ bony\\:\\ 0\\.06903748934239891\ \(0\)\
+\-\ fracture\\:\\ 0\\.06827497970523572\ \(0\)\
+\-\ bone\\:\\ 0\\.06434650549878394\ \(0\)\
+\-\ rests\\:\\ 0\\.06394557347655049\ \(0\)\
+\-\ practice\\:\\ 0\\.05930383277575817\ \(0\)\
+\-\ non\\-displaced\\:\\ 0\\.05878571869103543\ \(0\)\
+\-\ unicameral\\:\\ 0\\.05878571869103543\ \(0\)\
+\-\ move\\:\\ 0\\.05575435917133505\ \(0\)\
+\-\ curettage\\:\\ 0\\.05372738244949513\ \(0\)\
+\-\ transition\\:\\ 0\\.050372495227044484\ \(0\)\
+\-\ inability\\:\\ 0\\.04953025675291265\ \(0\)\
+\-\ borders\\:\\ 0\\.04803106478202101\ \(0\)\
+\-\ aneurysmal\\:\\ 0\\.046880112667382436\ \(0\)\
+\-\ narrow\\:\\ 0\\.04657399802601549\ \(0\)\
+\-\ dependent\\:\\ 0\\.04657399802601549\ \(0\)\
+\-\ eosinophilic\\:\\ 0\\.04627688807443676\ \(0\)\
+\-\ zone\\:\\ 0\\.04584699297929741\ \(0\)\
+\-\ humeral\\:\\ 0\\.0457076664931122\ \(0\)\
+\-\ fragments\\:\\ 0\\.045168818203159745\ \(0\)\
+\-\ metaphysis\\:\\ 0\\.04294111345958245\ \(0\)\
+\-\ simple\\:\\ 0\\.042528770080589966\ \(0\)\
+\-\ granuloma\\:\\ 0\\.042428261688133725\ \(0\)\
+\-\ expansile\\:\\ 0\\.042328743542244716\ \(0\)\
+\-\ osteomyelitis\\:\\ 0\\.04011445795462533\ \(0\)\
+\-\ fragment\\:\\ 0\\.03987862599505976\ \(0\)\
+\-\ 11\\:\\ 0\\.03949741056088959\ \(0\)\
+\-\ department\\:\\ 0\\.03870617982078952\ \(0\)\
+\-\ sclerotic\\:\\ 0\\.038637230678664265\ \(0\)\
+\-\ defined\\:\\ 0\\.03636952188239912\ \(0\)\
+\-\ arm\\:\\ 0\\.03615228748622777\ \(0\)\
+\-\ thin\\:\\ 0\\.03547690420108508\ \(0\)\
+\-\ lesion\\:\\ 0\\.035162731838393024\ \(0\)\
+\-\ shoulder\\:\\ 0\\.034796771675139754\ \(0\)\
+\-\ subsequent\\:\\ 0\\.03360182523040214\ \(0\)\
+\-\ emergency\\:\\ 0\\.032684733312932084\ \(0\)\
+\-\ year\\-old\\:\\ 0\\.031704693148466835\ \(0\)\
+\-\ portion\\:\\ 0\\.031264713609687744\ \(0\)\
+\-\ boy\\:\\ 0\\.029340624039656277\ \(0\)\
+\-\ palpation\\:\\ 0\\.028807465458061135\ \(0\)\
+\-\ tenderness\\:\\ 0\\.026251639625067005\ \(0\)\
+\-\ some\\:\\ 0\\.02621139650370464\ \(0\)\
+\-\ proximal\\:\\ 0\\.025914577593000154\ \(0\)\
+\-\ noted\\:\\ 0\\.020458799883359535\ \(0\)\
+\-\ small\\:\\ 0\\.019884598832132512\ \(0\)\
+\-\ well\\:\\ 0\\.019526070232006577\ \(0\)\
+\-\ after\\:\\ 0\\.01785859800615356\ \(0\)\
+\-\ presents\\:\\ 0\\.01763277066169622\ \(0\)\
+\-\ to\\:\\ 0\\.012941457831605645\ \(0\)\
+\-\ the\\:\\ 0\\.011171659369989964\ \(0\)\
+\-\ pain\\:\\ 0\\.010541496641724594\ \(0\)\
+\-\ right\\:\\ 0\\.00910739100111532\ \(0\)\
+\-\ in\\:\\ 0\\.008513075356368787\ \(0\)\
+\-\ a\\:\\ 0\\.008012117208456591\ \(0\)\
+\-\ with\\:\\ 0\\.005909301822721704\ \(0\)\
+\-\ is\\:\\ 0\\.005679704832168946\ \(0\)\
+\-\ of\\:\\ 0\\.0047072242746662\ \(0\)\
+\-\ and\\:\\ 0\\.0036365455703478477\ \(0\)\
+\-\ \\,\\:\\ 0\\.002734445106235226\ \(0\)\
+\-\ \\.\\:\\ 0\\.0014343246908018698\ \(0\)\

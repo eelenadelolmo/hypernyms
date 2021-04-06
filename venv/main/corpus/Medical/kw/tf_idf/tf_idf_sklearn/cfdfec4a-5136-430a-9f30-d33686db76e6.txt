@@ -1,167 +1,165 @@
-Texto: 
-abdomen/pelvis:
->> mild distension
->> tenderness to palpation in rlq without rebound or guarding
->> anteverted uterus, equivocal cervical motion tenderness, right adnexal tenderness
-labs:
->> hct 34
->> bhcg pending
-patient had drop of hct from 34 on presentation to 22 during evaluation in the emergency department. she was admitted, transfused two units packed red blood cells, and underwent laproscopic ovarian cystectomy with ablation. hemodynamic status stabilized and patient was discharged with follow up on post operative day two.
-1. collapsed ovarian cyst [arrowhead]: small (1.6cm) right adnexal hypodensity with hyperdense rim. 
-2. clot [measurement]: large (9x5x12cm)heterogeneous mass (density 50-70 hounsfield units)in the rectouterine fossa (pouch of douglas) resulting in displacement of the uterus anteriorly and rectum posterolaterally.
-3. intra-uterine device [arrow]
-4. b: bladder
-5. u: uterus
-6. not depicted on images presented for review: perisplenic and perihepatic fluid.
-ruptured ovarian cyst
-hemoperitoneum in female
->> ruptured ectopic pregnancy
->> ruptured hemorrhagic ovarian cyst
->> endometrioma
->> peptic ulcer disease
->> trauma
-39 year old female presents with chief complaint of severe, acute onset right lower quadrant (rlq) pain following exercise.
-patient denies systemic symptoms (fever, chills, sweats), gastrointestinal complaints, and history of sexually transmitted disease. she is uncertain of her last menstrual period.
-
-
-Keywords by value: 
-- ovarian: 0.2617196243077563
-- ruptured: 0.21846827195467328
-- uterus: 0.20209147032475852
-- units: 0.16240822949179656
-- rlq: 0.15951008280950282
-- adnexal: 0.1531738333264816
-- hct: 0.14564551463644887
-- tenderness: 0.14448943299596181
-- 34: 0.13386591654249574
-- cyst: 0.13290937011352014
-- anteverted: 0.12282001713881976
-- 9x5x12cm: 0.12282001713881976
-- rectouterine: 0.11736108326218152
-- packed: 0.1134879080379657
-- douglas: 0.1134879080379657
-- hemoperitoneum: 0.1134879080379657
-- perisplenic: 0.11048363993384674
-- posterolaterally: 0.10802897416132745
-- perihepatic: 0.10802897416132745
-- transfused: 0.10415579893711165
-- laproscopic: 0.10415579893711165
-- cystectomy: 0.10415579893711165
-- sexually: 0.10415579893711165
-- arrowhead: 0.1025700402846892
-- depicted: 0.10115153083299268
-- arrow: 0.09662147472135856
-- transmitted: 0.09662147472135856
-- in: 0.09552681363243302
-- hemodynamic: 0.09482368983625758
-- bhcg: 0.09400747705943874
-- stabilized: 0.09323793118383514
-- equivocal: 0.09181942173213863
-- she: 0.09143449328044258
-- two: 0.09121610785757209
-- hounsfield: 0.09116254084472031
-- peptic: 0.09053622384675235
-- of: 0.09017659215729852
-- collapsed: 0.08993775254127698
-- menstrual: 0.08881515362801966
-- measurement: 0.08828710996799344
-- uncertain: 0.08549158073540353
-- pouch: 0.08467536795858467
-- ablation: 0.08390582208298109
-- drop: 0.08353693907581308
-- hypodensity: 0.08353693907581308
-- endometrioma: 0.08353693907581308
-- device: 0.08248731263128456
-- chief: 0.08120411474589828
-- clot: 0.08003264685876527
-- distension: 0.07975504140475141
-- and: 0.07934896184466007
-- sweats: 0.07844688820634282
-- rectum: 0.07748480848241368
-- right: 0.07638719377549552
-- ulcer: 0.07615947163454946
-- gastrointestinal: 0.07574518086926003
-- guarding: 0.07514670956378466
-- patient: 0.07493761328750427
-- female: 0.0741191434752868
-- rebound: 0.0731552035304305
-- red: 0.07233899075361165
-- exercise: 0.07233899075361165
-- hyperdense: 0.07070053775791121
-- chills: 0.06988432498109236
-- anteriorly: 0.06962289176628532
-- on: 0.06958481012256397
-- systemic: 0.06815269938155961
-- ectopic: 0.06792255040079424
-- period: 0.06714666732219257
-- hemorrhagic: 0.06661862366216637
-- complaint: 0.0665154554368699
-- discharged: 0.06591251644012379
-- department: 0.06496399842725908
-- disease: 0.06447587462253448
-- operative: 0.06442539110445411
-- resulting: 0.06390750465918414
-- 39: 0.06382309442957643
-- review: 0.06324659221386153
-- complaints: 0.06324659221386153
-- pending: 0.06316621354215811
-- admitted: 0.06292791727671396
-- pregnancy: 0.06284941333696663
-- displacement: 0.06261661121055845
-- last: 0.06246361652415599
-- denies: 0.0619414252387148
-- rim: 0.0611596897855281
-- 22: 0.0604863801132514
-- fossa: 0.06029078266543125
-- with: 0.06015364843308307
-- bladder: 0.059596965163567335
-- motion: 0.0595356284400712
-- cells: 0.05917336297421159
-- emergency: 0.0569793517133833
-- heterogeneous: 0.055586173195821216
-- cervical: 0.05500557232843707
-- quadrant: 0.05379409434493188
-- status: 0.05359580817585989
-- was: 0.05353116330702917
-- labs: 0.0532077874433361
-- underwent: 0.05290522667629993
-- presentation: 0.05286788022372334
-- fever: 0.05207142619283777
-- palpation: 0.051793103361041884
-- density: 0.0509263484889747
-- onset: 0.049315501658749296
-- day: 0.048920321453830864
-- during: 0.0486449869600182
-- severe: 0.048617760686794693
-- her: 0.04798032151758634
-- evaluation: 0.04683698576923856
-- following: 0.0460727362695966
-- the: 0.04597318504951174
-- presented: 0.044785445547115166
-- blood: 0.04460254388487089
-- trauma: 0.04460254388487089
-- fluid: 0.044342663451049466
-- mild: 0.04353577112286928
-- symptoms: 0.04202064296351261
-- post: 0.041789364361777416
-- acute: 0.04154589683161791
-- follow: 0.04140190200959175
-- without: 0.04050914477250346
-- small: 0.03961605804546939
-- lower: 0.039244915132711396
-- large: 0.038480642960353424
-- to: 0.038399728838789164
-- had: 0.03826461417464697
-- up: 0.037990096299484126
-- presents: 0.03694479365526555
-- images: 0.035525141349910104
-- from: 0.03050172828898534
-- not: 0.030318837244835105
-- history: 0.02934206935578969
-- mass: 0.02933557314938098
-- pain: 0.027481888208709594
-- or: 0.026717373729444587
-- year: 0.023668266770473574
-- for: 0.023277509106925956
-- old: 0.022729729073518782
-- is: 0.021032218515464676
+\-\ Texto\\:\\ \ \(0\)\
+\-\ abdomen\\/pelvis\\:\ \(2\)\
+\-\ \\>\\>\\ mild\\ distension\ \(1\)\
+\-\ \\>\\>\\ tenderness\\ to\\ palpation\\ in\\ rlq\\ without\\ rebound\\ or\\ guarding\ \(0\)\
+\-\ \\>\\>\\ anteverted\\ uterus\\,\\ equivocal\\ cervical\\ motion\\ tenderness\\,\\ right\\ adnexal\\ tenderness\ \(1\)\
+\-\ labs\\:\ \(4\)\
+\-\ \\>\\>\\ hct\\ 34\ \(0\)\
+\-\ \\>\\>\\ bhcg\\ pending\ \(0\)\
+\-\ patient\\ had\\ drop\\ of\\ hct\\ from\\ 34\\ on\\ presentation\\ to\\ 22\\ during\\ evaluation\\ in\\ the\\ emergency\\ department\\.\\ she\\ was\\ admitted\\,\\ transfused\\ two\\ units\\ packed\\ red\\ blood\\ cells\\,\\ and\\ underwent\\ laproscopic\\ ovarian\\ cystectomy\\ with\\ ablation\\.\\ hemodynamic\\ status\\ stabilized\\ and\\ patient\\ was\\ discharged\\ with\\ follow\\ up\\ on\\ post\\ operative\\ day\\ two\\.\ \(0\)\
+\-\ 1\\.\\ collapsed\\ ovarian\\ cyst\\ \\[arrowhead\\]\\:\\ small\\ \\(1\\.6cm\\)\\ right\\ adnexal\\ hypodensity\\ with\\ hyperdense\\ rim\\.\\ \ \(0\)\
+\-\ 2\\.\\ clot\\ \\[measurement\\]\\:\\ large\\ \\(9x5x12cm\\)heterogeneous\\ mass\\ \\(density\\ 50\\-70\\ hounsfield\\ units\\)in\\ the\\ rectouterine\\ fossa\\ \\(pouch\\ of\\ douglas\\)\\ resulting\\ in\\ displacement\\ of\\ the\\ uterus\\ anteriorly\\ and\\ rectum\\ posterolaterally\\.\ \(0\)\
+\-\ 3\\.\\ intra\\-uterine\\ device\\ \\[arrow\\]\ \(0\)\
+\-\ 4\\.\\ b\\:\\ bladder\ \(0\)\
+\-\ 5\\.\\ u\\:\\ uterus\ \(0\)\
+\-\ 6\\.\\ not\\ depicted\\ on\\ images\\ presented\\ for\\ review\\:\\ perisplenic\\ and\\ perihepatic\\ fluid\\.\ \(0\)\
+\-\ ruptured\\ ovarian\\ cyst\ \(0\)\
+\-\ hemoperitoneum\\ in\\ female\ \(0\)\
+\-\ \\>\\>\\ ruptured\\ ectopic\\ pregnancy\ \(0\)\
+\-\ \\>\\>\\ ruptured\\ hemorrhagic\\ ovarian\\ cyst\ \(0\)\
+\-\ \\>\\>\\ endometrioma\ \(0\)\
+\-\ \\>\\>\\ peptic\\ ulcer\\ disease\ \(0\)\
+\-\ \\>\\>\\ trauma\ \(0\)\
+\-\ 39\\ year\\ old\\ female\\ presents\\ with\\ chief\\ complaint\\ of\\ severe\\,\\ acute\\ onset\\ right\\ lower\\ quadrant\\ \\(rlq\\)\\ pain\\ following\\ exercise\\.\ \(0\)\
+\-\ patient\\ denies\\ systemic\\ symptoms\\ \\(fever\\,\\ chills\\,\\ sweats\\)\\,\\ gastrointestinal\\ complaints\\,\\ and\\ history\\ of\\ sexually\\ transmitted\\ disease\\.\\ she\\ is\\ uncertain\\ of\\ her\\ last\\ menstrual\\ period\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ ovarian\\:\\ 0\\.2617196243077563\ \(0\)\
+\-\ ruptured\\:\\ 0\\.21846827195467328\ \(0\)\
+\-\ uterus\\:\\ 0\\.20209147032475852\ \(0\)\
+\-\ units\\:\\ 0\\.16240822949179656\ \(0\)\
+\-\ rlq\\:\\ 0\\.15951008280950282\ \(0\)\
+\-\ adnexal\\:\\ 0\\.1531738333264816\ \(0\)\
+\-\ hct\\:\\ 0\\.14564551463644887\ \(0\)\
+\-\ tenderness\\:\\ 0\\.14448943299596181\ \(0\)\
+\-\ 34\\:\\ 0\\.13386591654249574\ \(0\)\
+\-\ cyst\\:\\ 0\\.13290937011352014\ \(0\)\
+\-\ anteverted\\:\\ 0\\.12282001713881976\ \(0\)\
+\-\ 9x5x12cm\\:\\ 0\\.12282001713881976\ \(0\)\
+\-\ rectouterine\\:\\ 0\\.11736108326218152\ \(0\)\
+\-\ packed\\:\\ 0\\.1134879080379657\ \(0\)\
+\-\ douglas\\:\\ 0\\.1134879080379657\ \(0\)\
+\-\ hemoperitoneum\\:\\ 0\\.1134879080379657\ \(0\)\
+\-\ perisplenic\\:\\ 0\\.11048363993384674\ \(0\)\
+\-\ posterolaterally\\:\\ 0\\.10802897416132745\ \(0\)\
+\-\ perihepatic\\:\\ 0\\.10802897416132745\ \(0\)\
+\-\ transfused\\:\\ 0\\.10415579893711165\ \(0\)\
+\-\ laproscopic\\:\\ 0\\.10415579893711165\ \(0\)\
+\-\ cystectomy\\:\\ 0\\.10415579893711165\ \(0\)\
+\-\ sexually\\:\\ 0\\.10415579893711165\ \(0\)\
+\-\ arrowhead\\:\\ 0\\.1025700402846892\ \(0\)\
+\-\ depicted\\:\\ 0\\.10115153083299268\ \(0\)\
+\-\ arrow\\:\\ 0\\.09662147472135856\ \(0\)\
+\-\ transmitted\\:\\ 0\\.09662147472135856\ \(0\)\
+\-\ in\\:\\ 0\\.09552681363243302\ \(0\)\
+\-\ hemodynamic\\:\\ 0\\.09482368983625758\ \(0\)\
+\-\ bhcg\\:\\ 0\\.09400747705943874\ \(0\)\
+\-\ stabilized\\:\\ 0\\.09323793118383514\ \(0\)\
+\-\ equivocal\\:\\ 0\\.09181942173213863\ \(0\)\
+\-\ she\\:\\ 0\\.09143449328044258\ \(0\)\
+\-\ two\\:\\ 0\\.09121610785757209\ \(0\)\
+\-\ hounsfield\\:\\ 0\\.09116254084472031\ \(0\)\
+\-\ peptic\\:\\ 0\\.09053622384675235\ \(0\)\
+\-\ of\\:\\ 0\\.09017659215729852\ \(0\)\
+\-\ collapsed\\:\\ 0\\.08993775254127698\ \(0\)\
+\-\ menstrual\\:\\ 0\\.08881515362801966\ \(0\)\
+\-\ measurement\\:\\ 0\\.08828710996799344\ \(0\)\
+\-\ uncertain\\:\\ 0\\.08549158073540353\ \(0\)\
+\-\ pouch\\:\\ 0\\.08467536795858467\ \(0\)\
+\-\ ablation\\:\\ 0\\.08390582208298109\ \(0\)\
+\-\ drop\\:\\ 0\\.08353693907581308\ \(0\)\
+\-\ hypodensity\\:\\ 0\\.08353693907581308\ \(0\)\
+\-\ endometrioma\\:\\ 0\\.08353693907581308\ \(0\)\
+\-\ device\\:\\ 0\\.08248731263128456\ \(0\)\
+\-\ chief\\:\\ 0\\.08120411474589828\ \(0\)\
+\-\ clot\\:\\ 0\\.08003264685876527\ \(0\)\
+\-\ distension\\:\\ 0\\.07975504140475141\ \(0\)\
+\-\ and\\:\\ 0\\.07934896184466007\ \(0\)\
+\-\ sweats\\:\\ 0\\.07844688820634282\ \(0\)\
+\-\ rectum\\:\\ 0\\.07748480848241368\ \(0\)\
+\-\ right\\:\\ 0\\.07638719377549552\ \(0\)\
+\-\ ulcer\\:\\ 0\\.07615947163454946\ \(0\)\
+\-\ gastrointestinal\\:\\ 0\\.07574518086926003\ \(0\)\
+\-\ guarding\\:\\ 0\\.07514670956378466\ \(0\)\
+\-\ patient\\:\\ 0\\.07493761328750427\ \(0\)\
+\-\ female\\:\\ 0\\.0741191434752868\ \(0\)\
+\-\ rebound\\:\\ 0\\.0731552035304305\ \(0\)\
+\-\ red\\:\\ 0\\.07233899075361165\ \(0\)\
+\-\ exercise\\:\\ 0\\.07233899075361165\ \(0\)\
+\-\ hyperdense\\:\\ 0\\.07070053775791121\ \(0\)\
+\-\ chills\\:\\ 0\\.06988432498109236\ \(0\)\
+\-\ anteriorly\\:\\ 0\\.06962289176628532\ \(0\)\
+\-\ on\\:\\ 0\\.06958481012256397\ \(0\)\
+\-\ systemic\\:\\ 0\\.06815269938155961\ \(0\)\
+\-\ ectopic\\:\\ 0\\.06792255040079424\ \(0\)\
+\-\ period\\:\\ 0\\.06714666732219257\ \(0\)\
+\-\ hemorrhagic\\:\\ 0\\.06661862366216637\ \(0\)\
+\-\ complaint\\:\\ 0\\.0665154554368699\ \(0\)\
+\-\ discharged\\:\\ 0\\.06591251644012379\ \(0\)\
+\-\ department\\:\\ 0\\.06496399842725908\ \(0\)\
+\-\ disease\\:\\ 0\\.06447587462253448\ \(0\)\
+\-\ operative\\:\\ 0\\.06442539110445411\ \(0\)\
+\-\ resulting\\:\\ 0\\.06390750465918414\ \(0\)\
+\-\ 39\\:\\ 0\\.06382309442957643\ \(0\)\
+\-\ review\\:\\ 0\\.06324659221386153\ \(0\)\
+\-\ complaints\\:\\ 0\\.06324659221386153\ \(0\)\
+\-\ pending\\:\\ 0\\.06316621354215811\ \(0\)\
+\-\ admitted\\:\\ 0\\.06292791727671396\ \(0\)\
+\-\ pregnancy\\:\\ 0\\.06284941333696663\ \(0\)\
+\-\ displacement\\:\\ 0\\.06261661121055845\ \(0\)\
+\-\ last\\:\\ 0\\.06246361652415599\ \(0\)\
+\-\ denies\\:\\ 0\\.0619414252387148\ \(0\)\
+\-\ rim\\:\\ 0\\.0611596897855281\ \(0\)\
+\-\ 22\\:\\ 0\\.0604863801132514\ \(0\)\
+\-\ fossa\\:\\ 0\\.06029078266543125\ \(0\)\
+\-\ with\\:\\ 0\\.06015364843308307\ \(0\)\
+\-\ bladder\\:\\ 0\\.059596965163567335\ \(0\)\
+\-\ motion\\:\\ 0\\.0595356284400712\ \(0\)\
+\-\ cells\\:\\ 0\\.05917336297421159\ \(0\)\
+\-\ emergency\\:\\ 0\\.0569793517133833\ \(0\)\
+\-\ heterogeneous\\:\\ 0\\.055586173195821216\ \(0\)\
+\-\ cervical\\:\\ 0\\.05500557232843707\ \(0\)\
+\-\ quadrant\\:\\ 0\\.05379409434493188\ \(0\)\
+\-\ status\\:\\ 0\\.05359580817585989\ \(0\)\
+\-\ was\\:\\ 0\\.05353116330702917\ \(0\)\
+\-\ labs\\:\\ 0\\.0532077874433361\ \(0\)\
+\-\ underwent\\:\\ 0\\.05290522667629993\ \(0\)\
+\-\ presentation\\:\\ 0\\.05286788022372334\ \(0\)\
+\-\ fever\\:\\ 0\\.05207142619283777\ \(0\)\
+\-\ palpation\\:\\ 0\\.051793103361041884\ \(0\)\
+\-\ density\\:\\ 0\\.0509263484889747\ \(0\)\
+\-\ onset\\:\\ 0\\.049315501658749296\ \(0\)\
+\-\ day\\:\\ 0\\.048920321453830864\ \(0\)\
+\-\ during\\:\\ 0\\.0486449869600182\ \(0\)\
+\-\ severe\\:\\ 0\\.048617760686794693\ \(0\)\
+\-\ her\\:\\ 0\\.04798032151758634\ \(0\)\
+\-\ evaluation\\:\\ 0\\.04683698576923856\ \(0\)\
+\-\ following\\:\\ 0\\.0460727362695966\ \(0\)\
+\-\ the\\:\\ 0\\.04597318504951174\ \(0\)\
+\-\ presented\\:\\ 0\\.044785445547115166\ \(0\)\
+\-\ blood\\:\\ 0\\.04460254388487089\ \(0\)\
+\-\ trauma\\:\\ 0\\.04460254388487089\ \(0\)\
+\-\ fluid\\:\\ 0\\.044342663451049466\ \(0\)\
+\-\ mild\\:\\ 0\\.04353577112286928\ \(0\)\
+\-\ symptoms\\:\\ 0\\.04202064296351261\ \(0\)\
+\-\ post\\:\\ 0\\.041789364361777416\ \(0\)\
+\-\ acute\\:\\ 0\\.04154589683161791\ \(0\)\
+\-\ follow\\:\\ 0\\.04140190200959175\ \(0\)\
+\-\ without\\:\\ 0\\.04050914477250346\ \(0\)\
+\-\ small\\:\\ 0\\.03961605804546939\ \(0\)\
+\-\ lower\\:\\ 0\\.039244915132711396\ \(0\)\
+\-\ large\\:\\ 0\\.038480642960353424\ \(0\)\
+\-\ to\\:\\ 0\\.038399728838789164\ \(0\)\
+\-\ had\\:\\ 0\\.03826461417464697\ \(0\)\
+\-\ up\\:\\ 0\\.037990096299484126\ \(0\)\
+\-\ presents\\:\\ 0\\.03694479365526555\ \(0\)\
+\-\ images\\:\\ 0\\.035525141349910104\ \(0\)\
+\-\ from\\:\\ 0\\.03050172828898534\ \(0\)\
+\-\ not\\:\\ 0\\.030318837244835105\ \(0\)\
+\-\ history\\:\\ 0\\.02934206935578969\ \(0\)\
+\-\ mass\\:\\ 0\\.02933557314938098\ \(0\)\
+\-\ pain\\:\\ 0\\.027481888208709594\ \(0\)\
+\-\ or\\:\\ 0\\.026717373729444587\ \(0\)\
+\-\ year\\:\\ 0\\.023668266770473574\ \(0\)\
+\-\ for\\:\\ 0\\.023277509106925956\ \(0\)\
+\-\ old\\:\\ 0\\.022729729073518782\ \(0\)\
+\-\ is\\:\\ 0\\.021032218515464676\ \(0\)\

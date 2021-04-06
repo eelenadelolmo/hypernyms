@@ -1,97 +1,92 @@
-Texto: 
-one lab test was positive (results withheld for answer)
-positive rbc evaluation for sickle cell anemia. supportive therapy for scd.
-â€¢ negative plain film lumbar spine examination.
-â€¢ mr irregular signal marrow throughout the lumbar spine secondary to bone infarcts and red marrow reconversion. 
-â€¢ no compression fractures or paraspinal masses.
-sickle cell anemia with bone infarcts.
-â€¢ lymphoma
-â€¢ neuroblastoma metastasis
-â€¢ leukemia
-â€¢ anemia with marrow replacement/hypertrophy
-8 year old boy, who recently moved from nigeria, presents with abdominal and back pain.  no family history of anemia
-http://www.nhlbi.nih.gov/health/dci/diseases/sca/sca_whatis.html
-
-http://www.nlm.nih.gov/medlineplus/ency/article/000527.htm
-
-http://radiographics.rsna.org/content/21/4/971.full.pdf+html
-
-http://en.wikipedia.org/wiki/sickle-cell_disease
-
-
-Keywords by value: 
-- anemia: 0.15182750830352365
-- http: 0.11556387849929556
-- marrow: 0.1006948022844158
-- â€¢: 0.09793839697474299
-- sickle: 0.08430667610257853
-- infarcts: 0.08207161997839985
-- reconversion: 0.0787099859282723
-- replacement/hypertrophy: 0.0787099859282723
-- nigeria: 0.0787099859282723
-- //www.nhlbi.nih.gov/health/dci/diseases/sca/sca_whatis.html: 0.0787099859282723
-- //www.nlm.nih.gov/medlineplus/ency/article/000527.htm: 0.0787099859282723
-- //radiographics.rsna.org/content/21/4/971.full.pdf+html: 0.0787099859282723
-- //en.wikipedia.org/wiki/sickle-cell_disease: 0.0787099859282723
-- scd: 0.06890094763659275
-- lumbar: 0.06488812274418594
-- answer: 0.05730020670685828
-- withheld: 0.055146974056707494
-- moved: 0.055146974056707494
-- spine: 0.05025184903580978
-- positive: 0.049515814112216366
-- rbc: 0.043961590409427424
-- cell: 0.04121858413538368
-- paraspinal: 0.04077699269568874
-- :: 0.04036695771395232
-- red: 0.039810799975686664
-- leukemia: 0.03914912165288557
-- neuroblastoma: 0.0381448539437187
-- bone: 0.03791847645464053
-- lab: 0.037328477104793416
-- recently: 0.03560004184521604
-- supportive: 0.03373719483529347
-- test: 0.03259582544681236
-- family: 0.03127064682968492
-- results: 0.03079948579414863
-- irregular: 0.03043166654023553
-- film: 0.029304722636062302
-- fractures: 0.02889096962482389
-- throughout: 0.028560243984820773
-- compression: 0.028560243984820773
-- metastasis: 0.028560243984820773
-- 8: 0.028527835341512035
-- boy: 0.02593501589219617
-- masses: 0.02579100355353649
-- back: 0.025170235137031045
-- plain: 0.024779140291866824
-- mr: 0.02424285242809316
-- examination: 0.02371806281673719
-- negative: 0.022786787155132805
-- evaluation: 0.022162846391310782
-- lymphoma: 0.02180534494990612
-- secondary: 0.021330624700971496
-- one: 0.02067617306527361
-- therapy: 0.020398578537862616
-- signal: 0.02011673509172124
-- who: 0.01989257508162234
-- for: 0.019529682552929868
-- abdominal: 0.01907070748323317
-- presents: 0.015586109781320766
-- no: 0.01536507411971075
-- from: 0.01130746172459118
-- history: 0.010537629800956102
-- pain: 0.009317930067238703
-- or: 0.008942167401461674
-- was: 0.008823906448336489
-- year: 0.008536654189936738
-- old: 0.007811916043412987
-- (: 0.006449658270034468
-- ): 0.006370872251011652
-- ,: 0.004834108312808703
-- to: 0.0038131081110980916
-- and: 0.003214446530932472
-- with: 0.0031340404309791892
-- .: 0.002218721006084142
-- the: 0.0012343686134252303
-- of: 0.0010402125071248965
+\-\ Texto\\:\\ \ \(0\)\
+\-\ one\\ lab\\ test\\ was\\ positive\\ \\(results\\ withheld\\ for\\ answer\\)\ \(0\)\
+\-\ positive\\ rbc\\ evaluation\\ for\\ sickle\\ cell\\ anemia\\.\\ supportive\\ therapy\\ for\\ scd\\.\ \(0\)\
+\-\ \\â\\€\\¢\\ negative\\ plain\\ film\\ lumbar\\ spine\\ examination\\.\ \(0\)\
+\-\ \\â\\€\\¢\\ mr\\ irregular\\ signal\\ marrow\\ throughout\\ the\\ lumbar\\ spine\\ secondary\\ to\\ bone\\ infarcts\\ and\\ red\\ marrow\\ reconversion\\.\\ \ \(0\)\
+\-\ \\â\\€\\¢\\ no\\ compression\\ fractures\\ or\\ paraspinal\\ masses\\.\ \(0\)\
+\-\ sickle\\ cell\\ anemia\\ with\\ bone\\ infarcts\\.\ \(0\)\
+\-\ \\â\\€\\¢\\ lymphoma\ \(6\)\
+\-\ \\â\\€\\¢\\ neuroblastoma\\ metastasis\ \(0\)\
+\-\ \\â\\€\\¢\\ leukemia\ \(2\)\
+\-\ \\â\\€\\¢\\ anemia\\ with\\ marrow\\ replacement\\/hypertrophy\ \(0\)\
+\-\ 8\\ year\\ old\\ boy\\,\\ who\\ recently\\ moved\\ from\\ nigeria\\,\\ presents\\ with\\ abdominal\\ and\\ back\\ pain\\.\\ \\ no\\ family\\ history\\ of\\ anemia\ \(0\)\
+\-\ http\\:\\/\\/www\\.nhlbi\\.nih\\.gov\\/health\\/dci\\/diseases\\/sca\\/sca\\_whatis\\.html\ \(0\)\
+\-\ http\\:\\/\\/www\\.nlm\\.nih\\.gov\\/medlineplus\\/ency\\/article\\/000527\\.htm\ \(1\)\
+\-\ http\\:\\/\\/radiographics\\.rsna\\.org\\/content\\/21\\/4\\/971\\.full\\.pdf\\+html\ \(1\)\
+\-\ http\\:\\/\\/en\\.wikipedia\\.org\\/wiki\\/sickle\\-cell\\_disease\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ anemia\\:\\ 0\\.15182750830352365\ \(0\)\
+\-\ http\\:\\ 0\\.11556387849929556\ \(0\)\
+\-\ marrow\\:\\ 0\\.1006948022844158\ \(0\)\
+\-\ \\â\\€\\¢\\:\\ 0\\.09793839697474299\ \(0\)\
+\-\ sickle\\:\\ 0\\.08430667610257853\ \(0\)\
+\-\ infarcts\\:\\ 0\\.08207161997839985\ \(0\)\
+\-\ reconversion\\:\\ 0\\.0787099859282723\ \(0\)\
+\-\ replacement\\/hypertrophy\\:\\ 0\\.0787099859282723\ \(0\)\
+\-\ nigeria\\:\\ 0\\.0787099859282723\ \(0\)\
+\-\ \\/\\/www\\.nhlbi\\.nih\\.gov\\/health\\/dci\\/diseases\\/sca\\/sca\\_whatis\\.html\\:\\ 0\\.0787099859282723\ \(0\)\
+\-\ \\/\\/www\\.nlm\\.nih\\.gov\\/medlineplus\\/ency\\/article\\/000527\\.htm\\:\\ 0\\.0787099859282723\ \(0\)\
+\-\ \\/\\/radiographics\\.rsna\\.org\\/content\\/21\\/4\\/971\\.full\\.pdf\\+html\\:\\ 0\\.0787099859282723\ \(0\)\
+\-\ \\/\\/en\\.wikipedia\\.org\\/wiki\\/sickle\\-cell\\_disease\\:\\ 0\\.0787099859282723\ \(0\)\
+\-\ scd\\:\\ 0\\.06890094763659275\ \(0\)\
+\-\ lumbar\\:\\ 0\\.06488812274418594\ \(0\)\
+\-\ answer\\:\\ 0\\.05730020670685828\ \(0\)\
+\-\ withheld\\:\\ 0\\.055146974056707494\ \(0\)\
+\-\ moved\\:\\ 0\\.055146974056707494\ \(0\)\
+\-\ spine\\:\\ 0\\.05025184903580978\ \(0\)\
+\-\ positive\\:\\ 0\\.049515814112216366\ \(0\)\
+\-\ rbc\\:\\ 0\\.043961590409427424\ \(0\)\
+\-\ cell\\:\\ 0\\.04121858413538368\ \(0\)\
+\-\ paraspinal\\:\\ 0\\.04077699269568874\ \(0\)\
+\-\ \\:\\:\\ 0\\.04036695771395232\ \(0\)\
+\-\ red\\:\\ 0\\.039810799975686664\ \(0\)\
+\-\ leukemia\\:\\ 0\\.03914912165288557\ \(0\)\
+\-\ neuroblastoma\\:\\ 0\\.0381448539437187\ \(0\)\
+\-\ bone\\:\\ 0\\.03791847645464053\ \(0\)\
+\-\ lab\\:\\ 0\\.037328477104793416\ \(0\)\
+\-\ recently\\:\\ 0\\.03560004184521604\ \(0\)\
+\-\ supportive\\:\\ 0\\.03373719483529347\ \(0\)\
+\-\ test\\:\\ 0\\.03259582544681236\ \(0\)\
+\-\ family\\:\\ 0\\.03127064682968492\ \(0\)\
+\-\ results\\:\\ 0\\.03079948579414863\ \(0\)\
+\-\ irregular\\:\\ 0\\.03043166654023553\ \(0\)\
+\-\ film\\:\\ 0\\.029304722636062302\ \(0\)\
+\-\ fractures\\:\\ 0\\.02889096962482389\ \(0\)\
+\-\ throughout\\:\\ 0\\.028560243984820773\ \(0\)\
+\-\ compression\\:\\ 0\\.028560243984820773\ \(0\)\
+\-\ metastasis\\:\\ 0\\.028560243984820773\ \(0\)\
+\-\ 8\\:\\ 0\\.028527835341512035\ \(0\)\
+\-\ boy\\:\\ 0\\.02593501589219617\ \(0\)\
+\-\ masses\\:\\ 0\\.02579100355353649\ \(0\)\
+\-\ back\\:\\ 0\\.025170235137031045\ \(0\)\
+\-\ plain\\:\\ 0\\.024779140291866824\ \(0\)\
+\-\ mr\\:\\ 0\\.02424285242809316\ \(0\)\
+\-\ examination\\:\\ 0\\.02371806281673719\ \(0\)\
+\-\ negative\\:\\ 0\\.022786787155132805\ \(0\)\
+\-\ evaluation\\:\\ 0\\.022162846391310782\ \(0\)\
+\-\ lymphoma\\:\\ 0\\.02180534494990612\ \(0\)\
+\-\ secondary\\:\\ 0\\.021330624700971496\ \(0\)\
+\-\ one\\:\\ 0\\.02067617306527361\ \(0\)\
+\-\ therapy\\:\\ 0\\.020398578537862616\ \(0\)\
+\-\ signal\\:\\ 0\\.02011673509172124\ \(0\)\
+\-\ who\\:\\ 0\\.01989257508162234\ \(0\)\
+\-\ for\\:\\ 0\\.019529682552929868\ \(0\)\
+\-\ abdominal\\:\\ 0\\.01907070748323317\ \(0\)\
+\-\ presents\\:\\ 0\\.015586109781320766\ \(0\)\
+\-\ no\\:\\ 0\\.01536507411971075\ \(0\)\
+\-\ from\\:\\ 0\\.01130746172459118\ \(0\)\
+\-\ history\\:\\ 0\\.010537629800956102\ \(0\)\
+\-\ pain\\:\\ 0\\.009317930067238703\ \(0\)\
+\-\ or\\:\\ 0\\.008942167401461674\ \(0\)\
+\-\ was\\:\\ 0\\.008823906448336489\ \(0\)\
+\-\ year\\:\\ 0\\.008536654189936738\ \(0\)\
+\-\ old\\:\\ 0\\.007811916043412987\ \(0\)\
+\-\ \\(\\:\\ 0\\.006449658270034468\ \(0\)\
+\-\ \\)\\:\\ 0\\.006370872251011652\ \(0\)\
+\-\ \\,\\:\\ 0\\.004834108312808703\ \(0\)\
+\-\ to\\:\\ 0\\.0038131081110980916\ \(0\)\
+\-\ and\\:\\ 0\\.003214446530932472\ \(0\)\
+\-\ with\\:\\ 0\\.0031340404309791892\ \(0\)\
+\-\ \\.\\:\\ 0\\.002218721006084142\ \(0\)\
+\-\ the\\:\\ 0\\.0012343686134252303\ \(0\)\
+\-\ of\\:\\ 0\\.0010402125071248965\ \(0\)\

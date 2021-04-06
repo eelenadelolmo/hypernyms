@@ -1,58 +1,56 @@
-Texto: 
-n/a
-surgery is the definitive treatment in symptomatic patients.
-barium swallow shows opacification of the esophagus with a distal round posterior luminal cavity not completely coated. a ct of the abdomen shows the gastric fundus protuding above the gastroesophageal junction.
-sliding hiatal hernia
-paraesophageal hernia
-bochdalek hernia
-morgagni hernia
-mediastinal abscess
-complaints of difficulty swallowing
-
-
-Keywords by value: 
-- hernia: 0.2579548006022532
-- protuding: 0.15199169696493964
-- coated: 0.12809007004907944
-- bochdalek: 0.11410851459707376
-- morgagni: 0.1031431910329359
-- luminal: 0.0979314518627129
-- paraesophageal: 0.09719766540721642
-- sliding: 0.09516692341314084
-- gastroesophageal: 0.08973449157452196
-- swallow: 0.08598063840478282
-- fundus: 0.08524685194928634
-- hiatal: 0.08321610995521075
-- swallowing: 0.08289974549541426
-- shows: 0.08101288619754754
-- opacification: 0.07801825832445013
-- definitive: 0.07276549265227428
-- barium: 0.07142568257766538
-- completely: 0.07079290039058904
-- gastric: 0.06583286465866178
-- difficulty: 0.06560143327362487
-- cavity: 0.0644887001505633
-- esophagus: 0.06395815431148133
-- complaints: 0.06395815431148133
-- round: 0.06364749042350412
-- mediastinal: 0.0625540106573404
-- junction: 0.06170821484718188
-- symptomatic: 0.058534196977486415
-- above: 0.05399894235565201
-- n/a: 0.05336563185101873
-- abscess: 0.04658338351955633
-- abdomen: 0.04364455625682235
-- distal: 0.04005652739562115
-- patients: 0.03813059654079355
-- surgery: 0.03577584593724612
-- posterior: 0.03395928532245601
-- treatment: 0.029820982062084257
-- not: 0.021289977098998887
-- ct: 0.020608683679173154
-- a: 0.013675855235124181
-- the: 0.011918041784795328
-- is: 0.009694668592840096
-- in: 0.007265469485176809
-- of: 0.006026058661964919
-- with: 0.002017313380860168
-- .: 0.0018361829015868763
+\-\ Texto\\:\\ \ \(0\)\
+\-\ n\\/a\ \(127\)\
+\-\ surgery\\ is\\ the\\ definitive\\ treatment\\ in\\ symptomatic\\ patients\\.\ \(0\)\
+\-\ barium\\ swallow\\ shows\\ opacification\\ of\\ the\\ esophagus\\ with\\ a\\ distal\\ round\\ posterior\\ luminal\\ cavity\\ not\\ completely\\ coated\\.\\ a\\ ct\\ of\\ the\\ abdomen\\ shows\\ the\\ gastric\\ fundus\\ protuding\\ above\\ the\\ gastroesophageal\\ junction\\.\ \(0\)\
+\-\ sliding\\ hiatal\\ hernia\ \(14\)\
+\-\ paraesophageal\\ hernia\ \(16\)\
+\-\ bochdalek\\ hernia\ \(1\)\
+\-\ morgagni\\ hernia\ \(1\)\
+\-\ mediastinal\\ abscess\ \(0\)\
+\-\ complaints\\ of\\ difficulty\\ swallowing\ \(1\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ hernia\\:\\ 0\\.2579548006022532\ \(0\)\
+\-\ protuding\\:\\ 0\\.15199169696493964\ \(0\)\
+\-\ coated\\:\\ 0\\.12809007004907944\ \(0\)\
+\-\ bochdalek\\:\\ 0\\.11410851459707376\ \(0\)\
+\-\ morgagni\\:\\ 0\\.1031431910329359\ \(0\)\
+\-\ luminal\\:\\ 0\\.0979314518627129\ \(0\)\
+\-\ paraesophageal\\:\\ 0\\.09719766540721642\ \(0\)\
+\-\ sliding\\:\\ 0\\.09516692341314084\ \(0\)\
+\-\ gastroesophageal\\:\\ 0\\.08973449157452196\ \(0\)\
+\-\ swallow\\:\\ 0\\.08598063840478282\ \(0\)\
+\-\ fundus\\:\\ 0\\.08524685194928634\ \(0\)\
+\-\ hiatal\\:\\ 0\\.08321610995521075\ \(0\)\
+\-\ swallowing\\:\\ 0\\.08289974549541426\ \(0\)\
+\-\ shows\\:\\ 0\\.08101288619754754\ \(0\)\
+\-\ opacification\\:\\ 0\\.07801825832445013\ \(0\)\
+\-\ definitive\\:\\ 0\\.07276549265227428\ \(0\)\
+\-\ barium\\:\\ 0\\.07142568257766538\ \(0\)\
+\-\ completely\\:\\ 0\\.07079290039058904\ \(0\)\
+\-\ gastric\\:\\ 0\\.06583286465866178\ \(0\)\
+\-\ difficulty\\:\\ 0\\.06560143327362487\ \(0\)\
+\-\ cavity\\:\\ 0\\.0644887001505633\ \(0\)\
+\-\ esophagus\\:\\ 0\\.06395815431148133\ \(0\)\
+\-\ complaints\\:\\ 0\\.06395815431148133\ \(0\)\
+\-\ round\\:\\ 0\\.06364749042350412\ \(0\)\
+\-\ mediastinal\\:\\ 0\\.0625540106573404\ \(0\)\
+\-\ junction\\:\\ 0\\.06170821484718188\ \(0\)\
+\-\ symptomatic\\:\\ 0\\.058534196977486415\ \(0\)\
+\-\ above\\:\\ 0\\.05399894235565201\ \(0\)\
+\-\ n\\/a\\:\\ 0\\.05336563185101873\ \(0\)\
+\-\ abscess\\:\\ 0\\.04658338351955633\ \(0\)\
+\-\ abdomen\\:\\ 0\\.04364455625682235\ \(0\)\
+\-\ distal\\:\\ 0\\.04005652739562115\ \(0\)\
+\-\ patients\\:\\ 0\\.03813059654079355\ \(0\)\
+\-\ surgery\\:\\ 0\\.03577584593724612\ \(0\)\
+\-\ posterior\\:\\ 0\\.03395928532245601\ \(0\)\
+\-\ treatment\\:\\ 0\\.029820982062084257\ \(0\)\
+\-\ not\\:\\ 0\\.021289977098998887\ \(0\)\
+\-\ ct\\:\\ 0\\.020608683679173154\ \(0\)\
+\-\ a\\:\\ 0\\.013675855235124181\ \(0\)\
+\-\ the\\:\\ 0\\.011918041784795328\ \(0\)\
+\-\ is\\:\\ 0\\.009694668592840096\ \(0\)\
+\-\ in\\:\\ 0\\.007265469485176809\ \(0\)\
+\-\ of\\:\\ 0\\.006026058661964919\ \(0\)\
+\-\ with\\:\\ 0\\.002017313380860168\ \(0\)\
+\-\ \\.\\:\\ 0\\.0018361829015868763\ \(0\)\

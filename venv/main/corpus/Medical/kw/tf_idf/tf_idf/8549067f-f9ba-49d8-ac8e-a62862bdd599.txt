@@ -1,76 +1,74 @@
-Texto: 
-unremarkable clinical exam per report.
-initial mammographic images were unremarkable. initial ultrasound showed a small circumscribed hypoechoic lesion with hyperechoic center, thought to be a intramammary lymph node. follow up imaging six months later demonstrated a circumscribed high denisty mass in the inferior right breast. ultrasound at followup diagnostic mammogram showed a spiculated heterogenous predominantly hypoechoic mass with internal vascularity.
-poorly differentiated invasive ductal cell carcinoma
-carcinoma.
-atypical fibroadenoma or any benign etiology very unlikely.
-palpable breast mass in the inferior right breast.
-
-
-Keywords by value: 
-- breast: 0.10280080251621365
-- hypoechoic: 0.08468559778561681
-- denisty: 0.08387941451411292
-- circumscribed: 0.08257040406851247
-- intramammary: 0.080752435465724
-- mammographic: 0.06713544667773086
-- inferior: 0.06302861655128397
-- initial: 0.061556133549550175
-- unremarkable: 0.061501443884392624
-- showed: 0.0609087666939934
-- fibroadenoma: 0.058851315677221114
-- spiculated: 0.05657174468828558
-- ultrasound: 0.05511136054361529
-- carcinoma: 0.052650601522084055
-- vascularity: 0.05131710719287389
-- differentiated: 0.04964155632518629
-- mammogram: 0.04846532170953159
-- heterogenous: 0.04765980027307808
-- invasive: 0.04667097659692889
-- hyperechoic: 0.046437213496701026
-- six: 0.04565649899049172
-- center: 0.04554940881176333
-- poorly: 0.04533834266114267
-- followup: 0.04434043451708698
-- unlikely: 0.04424550321307878
-- ductal: 0.043782898708526655
-- predominantly: 0.04351450074558783
-- thought: 0.04274691849326225
-- node: 0.042502648320957265
-- report: 0.041577019969432194
-- per: 0.04065591966013773
-- atypical: 0.040255767778369075
-- etiology: 0.03931544992065948
-- mass: 0.03875416327002928
-- lymph: 0.03749502618418094
-- diagnostic: 0.03680622603273975
-- very: 0.03371506107018619
-- later: 0.03353715914122743
-- palpable: 0.032919793941302074
-- benign: 0.03205489529383915
-- internal: 0.031139955123682297
-- follow: 0.029513037738548197
-- any: 0.02924820688122058
-- clinical: 0.028579454348543525
-- demonstrated: 0.027254565026706166
-- high: 0.025418978924747995
-- months: 0.025368927116196382
-- cell: 0.025089572951972675
-- up: 0.024976599467980688
-- imaging: 0.0217616720049522
-- small: 0.021397557438925203
-- were: 0.021090068877064362
-- exam: 0.020404716738581935
-- right: 0.019600689328487318
-- lesion: 0.018919078543483202
-- images: 0.017818085782058197
-- a: 0.01724346964428701
-- be: 0.014323442645042707
-- at: 0.012584382095996011
-- or: 0.010886116836562038
-- in: 0.009160809350875107
-- to: 0.004642044656988981
-- .: 0.003086916182377937
-- the: 0.0030054192326875173
-- ,: 0.002942500712144428
-- with: 0.0025435690454323856
+\-\ Texto\\:\\ \ \(0\)\
+\-\ unremarkable\\ clinical\\ exam\\ per\\ report\\.\ \(0\)\
+\-\ initial\\ mammographic\\ images\\ were\\ unremarkable\\.\\ initial\\ ultrasound\\ showed\\ a\\ small\\ circumscribed\\ hypoechoic\\ lesion\\ with\\ hyperechoic\\ center\\,\\ thought\\ to\\ be\\ a\\ intramammary\\ lymph\\ node\\.\\ follow\\ up\\ imaging\\ six\\ months\\ later\\ demonstrated\\ a\\ circumscribed\\ high\\ denisty\\ mass\\ in\\ the\\ inferior\\ right\\ breast\\.\\ ultrasound\\ at\\ followup\\ diagnostic\\ mammogram\\ showed\\ a\\ spiculated\\ heterogenous\\ predominantly\\ hypoechoic\\ mass\\ with\\ internal\\ vascularity\\.\ \(0\)\
+\-\ poorly\\ differentiated\\ invasive\\ ductal\\ cell\\ carcinoma\ \(0\)\
+\-\ carcinoma\\.\ \(121\)\
+\-\ atypical\\ fibroadenoma\\ or\\ any\\ benign\\ etiology\\ very\\ unlikely\\.\ \(0\)\
+\-\ palpable\\ breast\\ mass\\ in\\ the\\ inferior\\ right\\ breast\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ breast\\:\\ 0\\.10280080251621365\ \(0\)\
+\-\ hypoechoic\\:\\ 0\\.08468559778561681\ \(0\)\
+\-\ denisty\\:\\ 0\\.08387941451411292\ \(0\)\
+\-\ circumscribed\\:\\ 0\\.08257040406851247\ \(0\)\
+\-\ intramammary\\:\\ 0\\.080752435465724\ \(0\)\
+\-\ mammographic\\:\\ 0\\.06713544667773086\ \(0\)\
+\-\ inferior\\:\\ 0\\.06302861655128397\ \(0\)\
+\-\ initial\\:\\ 0\\.061556133549550175\ \(0\)\
+\-\ unremarkable\\:\\ 0\\.061501443884392624\ \(0\)\
+\-\ showed\\:\\ 0\\.0609087666939934\ \(0\)\
+\-\ fibroadenoma\\:\\ 0\\.058851315677221114\ \(0\)\
+\-\ spiculated\\:\\ 0\\.05657174468828558\ \(0\)\
+\-\ ultrasound\\:\\ 0\\.05511136054361529\ \(0\)\
+\-\ carcinoma\\:\\ 0\\.052650601522084055\ \(0\)\
+\-\ vascularity\\:\\ 0\\.05131710719287389\ \(0\)\
+\-\ differentiated\\:\\ 0\\.04964155632518629\ \(0\)\
+\-\ mammogram\\:\\ 0\\.04846532170953159\ \(0\)\
+\-\ heterogenous\\:\\ 0\\.04765980027307808\ \(0\)\
+\-\ invasive\\:\\ 0\\.04667097659692889\ \(0\)\
+\-\ hyperechoic\\:\\ 0\\.046437213496701026\ \(0\)\
+\-\ six\\:\\ 0\\.04565649899049172\ \(0\)\
+\-\ center\\:\\ 0\\.04554940881176333\ \(0\)\
+\-\ poorly\\:\\ 0\\.04533834266114267\ \(0\)\
+\-\ followup\\:\\ 0\\.04434043451708698\ \(0\)\
+\-\ unlikely\\:\\ 0\\.04424550321307878\ \(0\)\
+\-\ ductal\\:\\ 0\\.043782898708526655\ \(0\)\
+\-\ predominantly\\:\\ 0\\.04351450074558783\ \(0\)\
+\-\ thought\\:\\ 0\\.04274691849326225\ \(0\)\
+\-\ node\\:\\ 0\\.042502648320957265\ \(0\)\
+\-\ report\\:\\ 0\\.041577019969432194\ \(0\)\
+\-\ per\\:\\ 0\\.04065591966013773\ \(0\)\
+\-\ atypical\\:\\ 0\\.040255767778369075\ \(0\)\
+\-\ etiology\\:\\ 0\\.03931544992065948\ \(0\)\
+\-\ mass\\:\\ 0\\.03875416327002928\ \(0\)\
+\-\ lymph\\:\\ 0\\.03749502618418094\ \(0\)\
+\-\ diagnostic\\:\\ 0\\.03680622603273975\ \(0\)\
+\-\ very\\:\\ 0\\.03371506107018619\ \(0\)\
+\-\ later\\:\\ 0\\.03353715914122743\ \(0\)\
+\-\ palpable\\:\\ 0\\.032919793941302074\ \(0\)\
+\-\ benign\\:\\ 0\\.03205489529383915\ \(0\)\
+\-\ internal\\:\\ 0\\.031139955123682297\ \(0\)\
+\-\ follow\\:\\ 0\\.029513037738548197\ \(0\)\
+\-\ any\\:\\ 0\\.02924820688122058\ \(0\)\
+\-\ clinical\\:\\ 0\\.028579454348543525\ \(0\)\
+\-\ demonstrated\\:\\ 0\\.027254565026706166\ \(0\)\
+\-\ high\\:\\ 0\\.025418978924747995\ \(0\)\
+\-\ months\\:\\ 0\\.025368927116196382\ \(0\)\
+\-\ cell\\:\\ 0\\.025089572951972675\ \(0\)\
+\-\ up\\:\\ 0\\.024976599467980688\ \(0\)\
+\-\ imaging\\:\\ 0\\.0217616720049522\ \(0\)\
+\-\ small\\:\\ 0\\.021397557438925203\ \(0\)\
+\-\ were\\:\\ 0\\.021090068877064362\ \(0\)\
+\-\ exam\\:\\ 0\\.020404716738581935\ \(0\)\
+\-\ right\\:\\ 0\\.019600689328487318\ \(0\)\
+\-\ lesion\\:\\ 0\\.018919078543483202\ \(0\)\
+\-\ images\\:\\ 0\\.017818085782058197\ \(0\)\
+\-\ a\\:\\ 0\\.01724346964428701\ \(0\)\
+\-\ be\\:\\ 0\\.014323442645042707\ \(0\)\
+\-\ at\\:\\ 0\\.012584382095996011\ \(0\)\
+\-\ or\\:\\ 0\\.010886116836562038\ \(0\)\
+\-\ in\\:\\ 0\\.009160809350875107\ \(0\)\
+\-\ to\\:\\ 0\\.004642044656988981\ \(0\)\
+\-\ \\.\\:\\ 0\\.003086916182377937\ \(0\)\
+\-\ the\\:\\ 0\\.0030054192326875173\ \(0\)\
+\-\ \\,\\:\\ 0\\.002942500712144428\ \(0\)\
+\-\ with\\:\\ 0\\.0025435690454323856\ \(0\)\

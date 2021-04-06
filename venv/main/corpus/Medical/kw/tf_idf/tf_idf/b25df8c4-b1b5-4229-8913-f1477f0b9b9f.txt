@@ -1,106 +1,103 @@
-Texto: 
-asymptomatic
-neurosurgical consult to evaluate for excision
-mr
-
-- 3.5 cm extra-axial, middle cranial fossa mass with layering material and signal characteristics consistent with lipid.  dependent, non-enhancing debris is seen more inferiorly with signal characteristics consistent with blood or proteinaceous material.  there is no restricted diffusion.  mass effect is noted at the right anterior temporal tip without significant midline shift suggestive of a chronic evolution.
-intracranial dermoid inclusion cyst
-â€¢ dermoid inclusion cyst
-â€¢ epidermoid inclusion cyst
-â€¢ teratoid tumor
-23 y.o. man presents for follow up evaluation of an asymptomatic mass originally diagnosed as intracranial lipoma as a child.
-the patient was asymptomatic but consulted to neurosurgery for evaluation for excision due to the potential risk of rupture possibly causing chemical meningitis.
-
-
-Keywords by value: 
-- inclusion: 0.11954932641993374
-- asymptomatic: 0.06564982722718381
-- characteristics: 0.06441167018937367
-- dermoid: 0.05902329542633899
-- material: 0.057853123487914895
-- intracranial: 0.054719874801359134
-- teratoid: 0.05321029511165487
-- excision: 0.05314016252371657
-- cyst: 0.05219025309150233
-- proteinaceous: 0.04626869865806279
-- lipid: 0.04408928901827657
-- evolution: 0.04371966656244754
-- neurosurgical: 0.04303048642452537
-- layering: 0.04101758365382078
-- chemical: 0.03984977547331125
-- non-enhancing: 0.03942879175244147
-- debris: 0.03942879175244147
-- consulted: 0.03942879175244147
-- consult: 0.03846855155820553
-- 3.5: 0.037779371420283356
-- evaluation: 0.037609678724648606
-- originally: 0.03656465437425927
-- neurosurgery: 0.036425645747985055
-- â€¢: 0.03561396253627018
-- dependent: 0.03493049851951161
-- extra-axial: 0.03449120111306957
-- signal: 0.03413748985261786
-- inferiorly: 0.0339756445733346
-- meningitis: 0.03358705900979255
-- tip: 0.03321743655396352
-- possibly: 0.03312778157178926
-- consistent: 0.031746943467139445
-- potential: 0.031174530743743045
-- epidermoid: 0.030837774966691274
-- 23: 0.03077218358227374
-- shift: 0.030707155220975318
-- lipoma: 0.03026694589667774
-- restricted: 0.029793306828637327
-- diffusion: 0.028977923008998197
-- child: 0.02833594400555054
-- cranial: 0.028148878758653784
-- causing: 0.02796632154972151
-- suggestive: 0.027657064015477153
-- rupture: 0.027485853167619267
-- mass: 0.027010477430626467
-- fossa: 0.026384845687129767
-- evaluate: 0.026168380744371764
-- temporal: 0.02592341573950104
-- midline: 0.025046440055594855
-- diagnosed: 0.023804508763598527
-- middle: 0.023675446739715438
-- risk: 0.023448535207265808
-- effect: 0.02292089585658519
-- for: 0.02209418632250652
-- mr: 0.02056969296929117
-- follow: 0.02056969296929117
-- as: 0.019584507665062544
-- y.o: 0.018684692671111364
-- chronic: 0.01823476994626515
-- blood: 0.017669780852343178
-- significant: 0.017407932962531996
-- up: 0.017407932962531996
-- cm: 0.017363303922855955
-- due: 0.017274826916309393
-- anterior: 0.016672672907293466
-- more: 0.01619072961600126
-- noted: 0.01534409991251965
-- man: 0.015310089720378782
-- without: 0.01524252398756182
-- tumor: 0.015092668951597055
-- -: 0.013876730747790634
-- but: 0.013806843189648014
-- presents: 0.013224577996272167
-- seen: 0.012792633447482502
-- is: 0.012779335872380128
-- to: 0.009706093373704233
-- there: 0.0096342087610984
-- an: 0.00895200654761159
-- at: 0.00877093297599722
-- or: 0.00758729355275536
-- was: 0.0074869509258612636
-- right: 0.00683054325083649
-- no: 0.006518516293210621
-- patient: 0.006489332809972636
-- a: 0.006009087906342444
-- ,: 0.0041016676593528395
-- with: 0.0035455810936330222
-- the: 0.0031420291978096772
-- of: 0.002647813654499737
-- .: 0.001882551156677454
-- and: 0.0013637045888804428
+\-\ Texto\\:\\ \ \(0\)\
+\-\ asymptomatic\ \(399\)\
+\-\ neurosurgical\\ consult\\ to\\ evaluate\\ for\\ excision\ \(0\)\
+\-\ mr\ \(14\)\
+\-\ 3\\.5\\ cm\\ extra\\-axial\\,\\ middle\\ cranial\\ fossa\\ mass\\ with\\ layering\\ material\\ and\\ signal\\ characteristics\\ consistent\\ with\\ lipid\\.\\ \\ dependent\\,\\ non\\-enhancing\\ debris\\ is\\ seen\\ more\\ inferiorly\\ with\\ signal\\ characteristics\\ consistent\\ with\\ blood\\ or\\ proteinaceous\\ material\\.\\ \\ there\\ is\\ no\\ restricted\\ diffusion\\.\\ \\ mass\\ effect\\ is\\ noted\\ at\\ the\\ right\\ anterior\\ temporal\\ tip\\ without\\ significant\\ midline\\ shift\\ suggestive\\ of\\ a\\ chronic\\ evolution\\.\ \(0\)\
+\-\ intracranial\\ dermoid\\ inclusion\\ cyst\ \(0\)\
+\-\ \\â\\€\\¢\\ dermoid\\ inclusion\\ cyst\ \(0\)\
+\-\ \\â\\€\\¢\\ epidermoid\\ inclusion\\ cyst\ \(0\)\
+\-\ \\â\\€\\¢\\ teratoid\\ tumor\ \(0\)\
+\-\ 23\\ y\\.o\\.\\ man\\ presents\\ for\\ follow\\ up\\ evaluation\\ of\\ an\\ asymptomatic\\ mass\\ originally\\ diagnosed\\ as\\ intracranial\\ lipoma\\ as\\ a\\ child\\.\ \(1\)\
+\-\ the\\ patient\\ was\\ asymptomatic\\ but\\ consulted\\ to\\ neurosurgery\\ for\\ evaluation\\ for\\ excision\\ due\\ to\\ the\\ potential\\ risk\\ of\\ rupture\\ possibly\\ causing\\ chemical\\ meningitis\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ inclusion\\:\\ 0\\.11954932641993374\ \(0\)\
+\-\ asymptomatic\\:\\ 0\\.06564982722718381\ \(0\)\
+\-\ characteristics\\:\\ 0\\.06441167018937367\ \(0\)\
+\-\ dermoid\\:\\ 0\\.05902329542633899\ \(0\)\
+\-\ material\\:\\ 0\\.057853123487914895\ \(0\)\
+\-\ intracranial\\:\\ 0\\.054719874801359134\ \(0\)\
+\-\ teratoid\\:\\ 0\\.05321029511165487\ \(0\)\
+\-\ excision\\:\\ 0\\.05314016252371657\ \(0\)\
+\-\ cyst\\:\\ 0\\.05219025309150233\ \(0\)\
+\-\ proteinaceous\\:\\ 0\\.04626869865806279\ \(0\)\
+\-\ lipid\\:\\ 0\\.04408928901827657\ \(0\)\
+\-\ evolution\\:\\ 0\\.04371966656244754\ \(0\)\
+\-\ neurosurgical\\:\\ 0\\.04303048642452537\ \(0\)\
+\-\ layering\\:\\ 0\\.04101758365382078\ \(0\)\
+\-\ chemical\\:\\ 0\\.03984977547331125\ \(0\)\
+\-\ non\\-enhancing\\:\\ 0\\.03942879175244147\ \(0\)\
+\-\ debris\\:\\ 0\\.03942879175244147\ \(0\)\
+\-\ consulted\\:\\ 0\\.03942879175244147\ \(0\)\
+\-\ consult\\:\\ 0\\.03846855155820553\ \(0\)\
+\-\ 3\\.5\\:\\ 0\\.037779371420283356\ \(0\)\
+\-\ evaluation\\:\\ 0\\.037609678724648606\ \(0\)\
+\-\ originally\\:\\ 0\\.03656465437425927\ \(0\)\
+\-\ neurosurgery\\:\\ 0\\.036425645747985055\ \(0\)\
+\-\ \\â\\€\\¢\\:\\ 0\\.03561396253627018\ \(0\)\
+\-\ dependent\\:\\ 0\\.03493049851951161\ \(0\)\
+\-\ extra\\-axial\\:\\ 0\\.03449120111306957\ \(0\)\
+\-\ signal\\:\\ 0\\.03413748985261786\ \(0\)\
+\-\ inferiorly\\:\\ 0\\.0339756445733346\ \(0\)\
+\-\ meningitis\\:\\ 0\\.03358705900979255\ \(0\)\
+\-\ tip\\:\\ 0\\.03321743655396352\ \(0\)\
+\-\ possibly\\:\\ 0\\.03312778157178926\ \(0\)\
+\-\ consistent\\:\\ 0\\.031746943467139445\ \(0\)\
+\-\ potential\\:\\ 0\\.031174530743743045\ \(0\)\
+\-\ epidermoid\\:\\ 0\\.030837774966691274\ \(0\)\
+\-\ 23\\:\\ 0\\.03077218358227374\ \(0\)\
+\-\ shift\\:\\ 0\\.030707155220975318\ \(0\)\
+\-\ lipoma\\:\\ 0\\.03026694589667774\ \(0\)\
+\-\ restricted\\:\\ 0\\.029793306828637327\ \(0\)\
+\-\ diffusion\\:\\ 0\\.028977923008998197\ \(0\)\
+\-\ child\\:\\ 0\\.02833594400555054\ \(0\)\
+\-\ cranial\\:\\ 0\\.028148878758653784\ \(0\)\
+\-\ causing\\:\\ 0\\.02796632154972151\ \(0\)\
+\-\ suggestive\\:\\ 0\\.027657064015477153\ \(0\)\
+\-\ rupture\\:\\ 0\\.027485853167619267\ \(0\)\
+\-\ mass\\:\\ 0\\.027010477430626467\ \(0\)\
+\-\ fossa\\:\\ 0\\.026384845687129767\ \(0\)\
+\-\ evaluate\\:\\ 0\\.026168380744371764\ \(0\)\
+\-\ temporal\\:\\ 0\\.02592341573950104\ \(0\)\
+\-\ midline\\:\\ 0\\.025046440055594855\ \(0\)\
+\-\ diagnosed\\:\\ 0\\.023804508763598527\ \(0\)\
+\-\ middle\\:\\ 0\\.023675446739715438\ \(0\)\
+\-\ risk\\:\\ 0\\.023448535207265808\ \(0\)\
+\-\ effect\\:\\ 0\\.02292089585658519\ \(0\)\
+\-\ for\\:\\ 0\\.02209418632250652\ \(0\)\
+\-\ mr\\:\\ 0\\.02056969296929117\ \(0\)\
+\-\ follow\\:\\ 0\\.02056969296929117\ \(0\)\
+\-\ as\\:\\ 0\\.019584507665062544\ \(0\)\
+\-\ y\\.o\\:\\ 0\\.018684692671111364\ \(0\)\
+\-\ chronic\\:\\ 0\\.01823476994626515\ \(0\)\
+\-\ blood\\:\\ 0\\.017669780852343178\ \(0\)\
+\-\ significant\\:\\ 0\\.017407932962531996\ \(0\)\
+\-\ up\\:\\ 0\\.017407932962531996\ \(0\)\
+\-\ cm\\:\\ 0\\.017363303922855955\ \(0\)\
+\-\ due\\:\\ 0\\.017274826916309393\ \(0\)\
+\-\ anterior\\:\\ 0\\.016672672907293466\ \(0\)\
+\-\ more\\:\\ 0\\.01619072961600126\ \(0\)\
+\-\ noted\\:\\ 0\\.01534409991251965\ \(0\)\
+\-\ man\\:\\ 0\\.015310089720378782\ \(0\)\
+\-\ without\\:\\ 0\\.01524252398756182\ \(0\)\
+\-\ tumor\\:\\ 0\\.015092668951597055\ \(0\)\
+\-\ \\-\\:\\ 0\\.013876730747790634\ \(0\)\
+\-\ but\\:\\ 0\\.013806843189648014\ \(0\)\
+\-\ presents\\:\\ 0\\.013224577996272167\ \(0\)\
+\-\ seen\\:\\ 0\\.012792633447482502\ \(0\)\
+\-\ is\\:\\ 0\\.012779335872380128\ \(0\)\
+\-\ to\\:\\ 0\\.009706093373704233\ \(0\)\
+\-\ there\\:\\ 0\\.0096342087610984\ \(0\)\
+\-\ an\\:\\ 0\\.00895200654761159\ \(0\)\
+\-\ at\\:\\ 0\\.00877093297599722\ \(0\)\
+\-\ or\\:\\ 0\\.00758729355275536\ \(0\)\
+\-\ was\\:\\ 0\\.0074869509258612636\ \(0\)\
+\-\ right\\:\\ 0\\.00683054325083649\ \(0\)\
+\-\ no\\:\\ 0\\.006518516293210621\ \(0\)\
+\-\ patient\\:\\ 0\\.006489332809972636\ \(0\)\
+\-\ a\\:\\ 0\\.006009087906342444\ \(0\)\
+\-\ \\,\\:\\ 0\\.0041016676593528395\ \(0\)\
+\-\ with\\:\\ 0\\.0035455810936330222\ \(0\)\
+\-\ the\\:\\ 0\\.0031420291978096772\ \(0\)\
+\-\ of\\:\\ 0\\.002647813654499737\ \(0\)\
+\-\ \\.\\:\\ 0\\.001882551156677454\ \(0\)\
+\-\ and\\:\\ 0\\.0013637045888804428\ \(0\)\

@@ -1,58 +1,56 @@
-Texto: 
-large head
-ventricular shunt placement
-massive enlargement of the lateral and third ventricles with thinning of cerebral cortex.
-normal formation of midline structures.
-normal posterior fossa development.
-cerebral aqueduct poorly defined on all scans.
-marked hydrocephalus due to aqueductal stenosis
-holoprosencephaly
-hydranencephaly
-anencephaly
-new born girl with large head and hydrocephalus
-
-
-Keywords by value: 
-- hydrocephalus: 0.13359472245323048
-- aqueductal: 0.13101964566422541
-- hydranencephaly: 0.12033261539327778
-- anencephaly: 0.11841696965404458
-- aqueduct: 0.10876918327109604
-- cerebral: 0.10765260006414802
-- holoprosencephaly: 0.10492719974987408
-- thinning: 0.09232452373969326
-- massive: 0.08879441438622131
-- head: 0.08813095674814167
-- born: 0.08106926540503466
-- shunt: 0.08038307762352835
-- poorly: 0.07583868226954774
-- ventricles: 0.07308596142490467
-- scans: 0.07234975485481855
-- ventricular: 0.06942374818549787
-- large: 0.06794699752113016
-- development: 0.06766851314835884
-- cortex: 0.06648114772276308
-- defined: 0.06546513938831841
-- formation: 0.0641318435140357
-- fossa: 0.06332362964911144
-- placement: 0.06306201624089144
-- third: 0.06229903080272722
-- enlargement: 0.061646698299729005
-- stenosis: 0.060862877869661214
-- marked: 0.06063417273862739
-- midline: 0.06011145613342765
-- structures: 0.05981937245154026
-- girl: 0.0546250441998145
-- new: 0.054141599578191965
-- normal: 0.048713180167240036
-- all: 0.04394406344420528
-- due: 0.041459584599142535
-- posterior: 0.03581160997640816
-- lateral: 0.03357578264771909
-- on: 0.01316165477028051
-- to: 0.007764874698963386
-- and: 0.006545782026626125
-- of: 0.006354752770799369
-- with: 0.004254697312359627
-- .: 0.0025817844434433655
-- the: 0.002513623358247742
+\-\ Texto\\:\\ \ \(0\)\
+\-\ large\\ head\ \(6\)\
+\-\ ventricular\\ shunt\\ placement\ \(1\)\
+\-\ massive\\ enlargement\\ of\\ the\\ lateral\\ and\\ third\\ ventricles\\ with\\ thinning\\ of\\ cerebral\\ cortex\\.\ \(0\)\
+\-\ normal\\ formation\\ of\\ midline\\ structures\\.\ \(0\)\
+\-\ normal\\ posterior\\ fossa\\ development\\.\ \(0\)\
+\-\ cerebral\\ aqueduct\\ poorly\\ defined\\ on\\ all\\ scans\\.\ \(0\)\
+\-\ marked\\ hydrocephalus\\ due\\ to\\ aqueductal\\ stenosis\ \(0\)\
+\-\ holoprosencephaly\ \(18\)\
+\-\ hydranencephaly\ \(1\)\
+\-\ anencephaly\ \(24\)\
+\-\ new\\ born\\ girl\\ with\\ large\\ head\\ and\\ hydrocephalus\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ hydrocephalus\\:\\ 0\\.13359472245323048\ \(0\)\
+\-\ aqueductal\\:\\ 0\\.13101964566422541\ \(0\)\
+\-\ hydranencephaly\\:\\ 0\\.12033261539327778\ \(0\)\
+\-\ anencephaly\\:\\ 0\\.11841696965404458\ \(0\)\
+\-\ aqueduct\\:\\ 0\\.10876918327109604\ \(0\)\
+\-\ cerebral\\:\\ 0\\.10765260006414802\ \(0\)\
+\-\ holoprosencephaly\\:\\ 0\\.10492719974987408\ \(0\)\
+\-\ thinning\\:\\ 0\\.09232452373969326\ \(0\)\
+\-\ massive\\:\\ 0\\.08879441438622131\ \(0\)\
+\-\ head\\:\\ 0\\.08813095674814167\ \(0\)\
+\-\ born\\:\\ 0\\.08106926540503466\ \(0\)\
+\-\ shunt\\:\\ 0\\.08038307762352835\ \(0\)\
+\-\ poorly\\:\\ 0\\.07583868226954774\ \(0\)\
+\-\ ventricles\\:\\ 0\\.07308596142490467\ \(0\)\
+\-\ scans\\:\\ 0\\.07234975485481855\ \(0\)\
+\-\ ventricular\\:\\ 0\\.06942374818549787\ \(0\)\
+\-\ large\\:\\ 0\\.06794699752113016\ \(0\)\
+\-\ development\\:\\ 0\\.06766851314835884\ \(0\)\
+\-\ cortex\\:\\ 0\\.06648114772276308\ \(0\)\
+\-\ defined\\:\\ 0\\.06546513938831841\ \(0\)\
+\-\ formation\\:\\ 0\\.0641318435140357\ \(0\)\
+\-\ fossa\\:\\ 0\\.06332362964911144\ \(0\)\
+\-\ placement\\:\\ 0\\.06306201624089144\ \(0\)\
+\-\ third\\:\\ 0\\.06229903080272722\ \(0\)\
+\-\ enlargement\\:\\ 0\\.061646698299729005\ \(0\)\
+\-\ stenosis\\:\\ 0\\.060862877869661214\ \(0\)\
+\-\ marked\\:\\ 0\\.06063417273862739\ \(0\)\
+\-\ midline\\:\\ 0\\.06011145613342765\ \(0\)\
+\-\ structures\\:\\ 0\\.05981937245154026\ \(0\)\
+\-\ girl\\:\\ 0\\.0546250441998145\ \(0\)\
+\-\ new\\:\\ 0\\.054141599578191965\ \(0\)\
+\-\ normal\\:\\ 0\\.048713180167240036\ \(0\)\
+\-\ all\\:\\ 0\\.04394406344420528\ \(0\)\
+\-\ due\\:\\ 0\\.041459584599142535\ \(0\)\
+\-\ posterior\\:\\ 0\\.03581160997640816\ \(0\)\
+\-\ lateral\\:\\ 0\\.03357578264771909\ \(0\)\
+\-\ on\\:\\ 0\\.01316165477028051\ \(0\)\
+\-\ to\\:\\ 0\\.007764874698963386\ \(0\)\
+\-\ and\\:\\ 0\\.006545782026626125\ \(0\)\
+\-\ of\\:\\ 0\\.006354752770799369\ \(0\)\
+\-\ with\\:\\ 0\\.004254697312359627\ \(0\)\
+\-\ \\.\\:\\ 0\\.0025817844434433655\ \(0\)\
+\-\ the\\:\\ 0\\.002513623358247742\ \(0\)\

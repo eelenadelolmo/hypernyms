@@ -1,138 +1,135 @@
-Texto: 
-patients vitals are stable.  the abdomen is soft and diffusely tender to palpation.  bedside fast exam is positive for free intraperitoneal fluid.  pelvis is unstable on exam.  no evidence of blood at the urethral meatus.  no evidence of perineal, scrotal, or pelvic hematoma.  no evidence of high-ridding, boggy, or absent prostate on rectal exam.
-exploratory laparotomy to rule out other abdominal injuries.
-primary surgical repair of the bladder perforation.
-primary surgical repair of the pelvic fracture.
-intense outpatient rehabilitation with physical therapy.
-ap view of pelvis:
-  >fractures of the superior and inferior pubic rami bilaterally
-  >femoral heads appear seated within the acetabula
-  >no gross diastasis of the si joints or the pubic symphysis
-
-retrograde cystourethrogram
-  >free spillage of contrast material into the peritoneal cavity compatible with intraperitoneal bladder perforation.  note there is contrast surrounding loops of bowel, it is not confined to the retroperitoneum.
-traumatic intraperitoneal bladder perforation
-intraperitoneal bladder perforation
-extraperitoneal bladder perforation
-radiographic artifact secondary to contrast spilling
-unrestrained driver of head-on car versus tree motor vehicle collision.  patient admits to being ejected from the vehicle at the time of impact.
-
-
-Keywords by value: 
-- perforation: 0.3468744672575658
-- intraperitoneal: 0.312007191155975
-- bladder: 0.28514681150726845
-- the: 0.17597012996515096
-- of: 0.17258306798457032
-- pubic: 0.16615320706895068
-- vehicle: 0.12769598808607308
-- evidence: 0.12514131770613243
-- pelvic: 0.11489576740946586
-- free: 0.11441413292389482
-- repair: 0.11370815191949653
-- exam: 0.11098667315611348
-- contrast: 0.10712376806414163
-- extraperitoneal: 0.10572369772316023
-- spilling: 0.10572369772316023
-- bedside: 0.10337478577293299
-- pelvis: 0.10280052447012535
-- boggy: 0.10138880901654151
-- rami: 0.10138880901654151
-- is: 0.10063046049658791
-- meatus: 0.09966847769981908
-- diastasis: 0.09966847769981908
-- ejected: 0.09966847769981908
-- acetabula: 0.09815103793651132
-- cystourethrogram: 0.09815103793651132
-- unrestrained: 0.09679364181362467
-- no: 0.09559413948620309
-- perineal: 0.09444472986339743
-- admits: 0.0934135118555598
-- spillage: 0.09245875310700595
-- to: 0.09186340454646248
-- retroperitoneum: 0.09156989397720301
-- primary: 0.09037844385460932
-- symphysis: 0.08922098202697576
-- exploratory: 0.0878635859040891
-- si: 0.08663567174924404
-- rehabilitation: 0.08498875001789469
-- seated: 0.0839972341905541
-- laparotomy: 0.08352869719747039
-- urethral: 0.08141192391282237
-- collision: 0.08141192391282237
-- fast: 0.08102731781837559
-- driver: 0.0795943593241846
-- heads: 0.07925970810960258
-- retrograde: 0.07861540648894196
-- confined: 0.07861540648894196
-- scrotal: 0.07770561583970848
-- impact: 0.07770561583970848
-- unstable: 0.07741609023124578
-- tree: 0.07741609023124578
-- or: 0.0766989450877921
-- outpatient: 0.07530799552380404
-- rectal: 0.07437061148776296
-- car: 0.07414654762493977
-- compatible: 0.07349682941921912
-- surgical: 0.07143833921842309
-- prostate: 0.07118316604741091
-- artifact: 0.07100787970570548
-- intense: 0.06937489345151317
-- peritoneal: 0.06907174187945819
-- diffusely: 0.06834367544367553
-- loops: 0.06674782188154062
-- on: 0.06658690314626124
-- gross: 0.06521649171540421
-- versus: 0.06499625819224819
-- vitals: 0.06488753731602691
-- injuries: 0.0640493004414353
-- joints: 0.06316720599930446
-- material: 0.0619048903624019
-- cavity: 0.06067697620755684
-- absent: 0.060292370113110054
-- motor: 0.05845886078558613
-- rule: 0.058328064257329594
-- stable: 0.05813432605945131
-- appear: 0.05788045878367641
-- traumatic: 0.05568962669863966
-- at: 0.05551718958159637
-- note: 0.055323746403093586
-- femoral: 0.05462175618421568
-- radiographic: 0.054524522912300345
-- fractures: 0.054332230575752996
-- view: 0.053817763596855264
-- tender: 0.05372639195587738
-- ap: 0.052761881713953566
-- hematoma: 0.05143832237315827
-- being: 0.05121163006038707
-- inferior: 0.04999734186913428
-- palpation: 0.04956171255007397
-- bilaterally: 0.049013402253347244
-- surrounding: 0.049013402253347244
-- positive: 0.048426993007334856
-- out: 0.04830686768599632
-- superior: 0.04777974813521919
-- bowel: 0.04716347055600814
-- abdomen: 0.04484194086343318
-- secondary: 0.043560147422763026
-- time: 0.043560147422763026
-- blood: 0.04268094235663817
-- fluid: 0.042432258294038926
-- therapy: 0.042225518888921794
-- fracture: 0.04176764030172049
-- patients: 0.041342876090904375
-- abdominal: 0.040194342023142184
-- physical: 0.03984867050409312
-- soft: 0.03912520480742809
-- into: 0.0390667105077352
-- other: 0.03816521254238048
-- it: 0.037619169841783075
-- within: 0.03384782706532094
-- and: 0.0303721552321573
-- there: 0.029241960618942082
-- from: 0.029187629078744223
-- not: 0.029012617488977713
-- with: 0.028781031054427805
-- are: 0.027886606392782985
-- patient: 0.023903030892317233
-- for: 0.022274649333080355
+\-\ Texto\\:\\ \ \(0\)\
+\-\ patients\\ vitals\\ are\\ stable\\.\\ \\ the\\ abdomen\\ is\\ soft\\ and\\ diffusely\\ tender\\ to\\ palpation\\.\\ \\ bedside\\ fast\\ exam\\ is\\ positive\\ for\\ free\\ intraperitoneal\\ fluid\\.\\ \\ pelvis\\ is\\ unstable\\ on\\ exam\\.\\ \\ no\\ evidence\\ of\\ blood\\ at\\ the\\ urethral\\ meatus\\.\\ \\ no\\ evidence\\ of\\ perineal\\,\\ scrotal\\,\\ or\\ pelvic\\ hematoma\\.\\ \\ no\\ evidence\\ of\\ high\\-ridding\\,\\ boggy\\,\\ or\\ absent\\ prostate\\ on\\ rectal\\ exam\\.\ \(0\)\
+\-\ exploratory\\ laparotomy\\ to\\ rule\\ out\\ other\\ abdominal\\ injuries\\.\ \(0\)\
+\-\ primary\\ surgical\\ repair\\ of\\ the\\ bladder\\ perforation\\.\ \(0\)\
+\-\ primary\\ surgical\\ repair\\ of\\ the\\ pelvic\\ fracture\\.\ \(0\)\
+\-\ intense\\ outpatient\\ rehabilitation\\ with\\ physical\\ therapy\\.\ \(0\)\
+\-\ ap\\ view\\ of\\ pelvis\\:\ \(0\)\
+\-\ \\ \\ \\>fractures\\ of\\ the\\ superior\\ and\\ inferior\\ pubic\\ rami\\ bilaterally\ \(0\)\
+\-\ \\ \\ \\>femoral\\ heads\\ appear\\ seated\\ within\\ the\\ acetabula\ \(0\)\
+\-\ \\ \\ \\>no\\ gross\\ diastasis\\ of\\ the\\ si\\ joints\\ or\\ the\\ pubic\\ symphysis\ \(0\)\
+\-\ retrograde\\ cystourethrogram\ \(0\)\
+\-\ \\ \\ \\>free\\ spillage\\ of\\ contrast\\ material\\ into\\ the\\ peritoneal\\ cavity\\ compatible\\ with\\ intraperitoneal\\ bladder\\ perforation\\.\\ \\ note\\ there\\ is\\ contrast\\ surrounding\\ loops\\ of\\ bowel\\,\\ it\\ is\\ not\\ confined\\ to\\ the\\ retroperitoneum\\.\ \(0\)\
+\-\ traumatic\\ intraperitoneal\\ bladder\\ perforation\ \(0\)\
+\-\ intraperitoneal\\ bladder\\ perforation\ \(1\)\
+\-\ extraperitoneal\\ bladder\\ perforation\ \(0\)\
+\-\ radiographic\\ artifact\\ secondary\\ to\\ contrast\\ spilling\ \(0\)\
+\-\ unrestrained\\ driver\\ of\\ head\\-on\\ car\\ versus\\ tree\\ motor\\ vehicle\\ collision\\.\\ \\ patient\\ admits\\ to\\ being\\ ejected\\ from\\ the\\ vehicle\\ at\\ the\\ time\\ of\\ impact\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ perforation\\:\\ 0\\.3468744672575658\ \(0\)\
+\-\ intraperitoneal\\:\\ 0\\.312007191155975\ \(0\)\
+\-\ bladder\\:\\ 0\\.28514681150726845\ \(0\)\
+\-\ the\\:\\ 0\\.17597012996515096\ \(0\)\
+\-\ of\\:\\ 0\\.17258306798457032\ \(0\)\
+\-\ pubic\\:\\ 0\\.16615320706895068\ \(0\)\
+\-\ vehicle\\:\\ 0\\.12769598808607308\ \(0\)\
+\-\ evidence\\:\\ 0\\.12514131770613243\ \(0\)\
+\-\ pelvic\\:\\ 0\\.11489576740946586\ \(0\)\
+\-\ free\\:\\ 0\\.11441413292389482\ \(0\)\
+\-\ repair\\:\\ 0\\.11370815191949653\ \(0\)\
+\-\ exam\\:\\ 0\\.11098667315611348\ \(0\)\
+\-\ contrast\\:\\ 0\\.10712376806414163\ \(0\)\
+\-\ extraperitoneal\\:\\ 0\\.10572369772316023\ \(0\)\
+\-\ spilling\\:\\ 0\\.10572369772316023\ \(0\)\
+\-\ bedside\\:\\ 0\\.10337478577293299\ \(0\)\
+\-\ pelvis\\:\\ 0\\.10280052447012535\ \(0\)\
+\-\ boggy\\:\\ 0\\.10138880901654151\ \(0\)\
+\-\ rami\\:\\ 0\\.10138880901654151\ \(0\)\
+\-\ is\\:\\ 0\\.10063046049658791\ \(0\)\
+\-\ meatus\\:\\ 0\\.09966847769981908\ \(0\)\
+\-\ diastasis\\:\\ 0\\.09966847769981908\ \(0\)\
+\-\ ejected\\:\\ 0\\.09966847769981908\ \(0\)\
+\-\ acetabula\\:\\ 0\\.09815103793651132\ \(0\)\
+\-\ cystourethrogram\\:\\ 0\\.09815103793651132\ \(0\)\
+\-\ unrestrained\\:\\ 0\\.09679364181362467\ \(0\)\
+\-\ no\\:\\ 0\\.09559413948620309\ \(0\)\
+\-\ perineal\\:\\ 0\\.09444472986339743\ \(0\)\
+\-\ admits\\:\\ 0\\.0934135118555598\ \(0\)\
+\-\ spillage\\:\\ 0\\.09245875310700595\ \(0\)\
+\-\ to\\:\\ 0\\.09186340454646248\ \(0\)\
+\-\ retroperitoneum\\:\\ 0\\.09156989397720301\ \(0\)\
+\-\ primary\\:\\ 0\\.09037844385460932\ \(0\)\
+\-\ symphysis\\:\\ 0\\.08922098202697576\ \(0\)\
+\-\ exploratory\\:\\ 0\\.0878635859040891\ \(0\)\
+\-\ si\\:\\ 0\\.08663567174924404\ \(0\)\
+\-\ rehabilitation\\:\\ 0\\.08498875001789469\ \(0\)\
+\-\ seated\\:\\ 0\\.0839972341905541\ \(0\)\
+\-\ laparotomy\\:\\ 0\\.08352869719747039\ \(0\)\
+\-\ urethral\\:\\ 0\\.08141192391282237\ \(0\)\
+\-\ collision\\:\\ 0\\.08141192391282237\ \(0\)\
+\-\ fast\\:\\ 0\\.08102731781837559\ \(0\)\
+\-\ driver\\:\\ 0\\.0795943593241846\ \(0\)\
+\-\ heads\\:\\ 0\\.07925970810960258\ \(0\)\
+\-\ retrograde\\:\\ 0\\.07861540648894196\ \(0\)\
+\-\ confined\\:\\ 0\\.07861540648894196\ \(0\)\
+\-\ scrotal\\:\\ 0\\.07770561583970848\ \(0\)\
+\-\ impact\\:\\ 0\\.07770561583970848\ \(0\)\
+\-\ unstable\\:\\ 0\\.07741609023124578\ \(0\)\
+\-\ tree\\:\\ 0\\.07741609023124578\ \(0\)\
+\-\ or\\:\\ 0\\.0766989450877921\ \(0\)\
+\-\ outpatient\\:\\ 0\\.07530799552380404\ \(0\)\
+\-\ rectal\\:\\ 0\\.07437061148776296\ \(0\)\
+\-\ car\\:\\ 0\\.07414654762493977\ \(0\)\
+\-\ compatible\\:\\ 0\\.07349682941921912\ \(0\)\
+\-\ surgical\\:\\ 0\\.07143833921842309\ \(0\)\
+\-\ prostate\\:\\ 0\\.07118316604741091\ \(0\)\
+\-\ artifact\\:\\ 0\\.07100787970570548\ \(0\)\
+\-\ intense\\:\\ 0\\.06937489345151317\ \(0\)\
+\-\ peritoneal\\:\\ 0\\.06907174187945819\ \(0\)\
+\-\ diffusely\\:\\ 0\\.06834367544367553\ \(0\)\
+\-\ loops\\:\\ 0\\.06674782188154062\ \(0\)\
+\-\ on\\:\\ 0\\.06658690314626124\ \(0\)\
+\-\ gross\\:\\ 0\\.06521649171540421\ \(0\)\
+\-\ versus\\:\\ 0\\.06499625819224819\ \(0\)\
+\-\ vitals\\:\\ 0\\.06488753731602691\ \(0\)\
+\-\ injuries\\:\\ 0\\.0640493004414353\ \(0\)\
+\-\ joints\\:\\ 0\\.06316720599930446\ \(0\)\
+\-\ material\\:\\ 0\\.0619048903624019\ \(0\)\
+\-\ cavity\\:\\ 0\\.06067697620755684\ \(0\)\
+\-\ absent\\:\\ 0\\.060292370113110054\ \(0\)\
+\-\ motor\\:\\ 0\\.05845886078558613\ \(0\)\
+\-\ rule\\:\\ 0\\.058328064257329594\ \(0\)\
+\-\ stable\\:\\ 0\\.05813432605945131\ \(0\)\
+\-\ appear\\:\\ 0\\.05788045878367641\ \(0\)\
+\-\ traumatic\\:\\ 0\\.05568962669863966\ \(0\)\
+\-\ at\\:\\ 0\\.05551718958159637\ \(0\)\
+\-\ note\\:\\ 0\\.055323746403093586\ \(0\)\
+\-\ femoral\\:\\ 0\\.05462175618421568\ \(0\)\
+\-\ radiographic\\:\\ 0\\.054524522912300345\ \(0\)\
+\-\ fractures\\:\\ 0\\.054332230575752996\ \(0\)\
+\-\ view\\:\\ 0\\.053817763596855264\ \(0\)\
+\-\ tender\\:\\ 0\\.05372639195587738\ \(0\)\
+\-\ ap\\:\\ 0\\.052761881713953566\ \(0\)\
+\-\ hematoma\\:\\ 0\\.05143832237315827\ \(0\)\
+\-\ being\\:\\ 0\\.05121163006038707\ \(0\)\
+\-\ inferior\\:\\ 0\\.04999734186913428\ \(0\)\
+\-\ palpation\\:\\ 0\\.04956171255007397\ \(0\)\
+\-\ bilaterally\\:\\ 0\\.049013402253347244\ \(0\)\
+\-\ surrounding\\:\\ 0\\.049013402253347244\ \(0\)\
+\-\ positive\\:\\ 0\\.048426993007334856\ \(0\)\
+\-\ out\\:\\ 0\\.04830686768599632\ \(0\)\
+\-\ superior\\:\\ 0\\.04777974813521919\ \(0\)\
+\-\ bowel\\:\\ 0\\.04716347055600814\ \(0\)\
+\-\ abdomen\\:\\ 0\\.04484194086343318\ \(0\)\
+\-\ secondary\\:\\ 0\\.043560147422763026\ \(0\)\
+\-\ time\\:\\ 0\\.043560147422763026\ \(0\)\
+\-\ blood\\:\\ 0\\.04268094235663817\ \(0\)\
+\-\ fluid\\:\\ 0\\.042432258294038926\ \(0\)\
+\-\ therapy\\:\\ 0\\.042225518888921794\ \(0\)\
+\-\ fracture\\:\\ 0\\.04176764030172049\ \(0\)\
+\-\ patients\\:\\ 0\\.041342876090904375\ \(0\)\
+\-\ abdominal\\:\\ 0\\.040194342023142184\ \(0\)\
+\-\ physical\\:\\ 0\\.03984867050409312\ \(0\)\
+\-\ soft\\:\\ 0\\.03912520480742809\ \(0\)\
+\-\ into\\:\\ 0\\.0390667105077352\ \(0\)\
+\-\ other\\:\\ 0\\.03816521254238048\ \(0\)\
+\-\ it\\:\\ 0\\.037619169841783075\ \(0\)\
+\-\ within\\:\\ 0\\.03384782706532094\ \(0\)\
+\-\ and\\:\\ 0\\.0303721552321573\ \(0\)\
+\-\ there\\:\\ 0\\.029241960618942082\ \(0\)\
+\-\ from\\:\\ 0\\.029187629078744223\ \(0\)\
+\-\ not\\:\\ 0\\.029012617488977713\ \(0\)\
+\-\ with\\:\\ 0\\.028781031054427805\ \(0\)\
+\-\ are\\:\\ 0\\.027886606392782985\ \(0\)\
+\-\ patient\\:\\ 0\\.023903030892317233\ \(0\)\
+\-\ for\\:\\ 0\\.022274649333080355\ \(0\)\

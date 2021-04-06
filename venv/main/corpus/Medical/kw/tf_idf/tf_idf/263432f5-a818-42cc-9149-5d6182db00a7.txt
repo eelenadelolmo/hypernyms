@@ -1,111 +1,109 @@
-Texto: 
-1-day-old male in respiratory distress and labored breathing.  crackles heard bilaterally
-reposition endotracheal tube.  placement of pleural chest tube.  clinical evaluation of pneumothorax and atelectasis.  monitor o2 sats.
-1.	right main stem intubation and collapse of left lung.  lucencies in lateral right lung field consistent with hyperinflation or pulmonary interstitial emphysema.
-2.	correct placement of  et tube.  right-sided tension pneumothorax.  left lung field has opacities consistent with atelectasis.
-3.      right pleural drainage tube placed with reexpansion of right lung (note linear lucencies in right base); umbilical venous and arterial lines placed.
-right main stem intubation, with consequent pulmonary interstitial emphysema complicated by tension pneumothorax
-neonatal rds, infection (pneumonia),  tracheal esophageal fistula,  congenital malformation (diaphragmatic hernia)  or hypoplastic lungs.
-premature infant delivered at 27 weeks gestation.  pregnancy complicated by pprom and placenta previa.  child delivered due to increased maternal bleeding
-
-
-Keywords by value: 
-- tube: 0.08781908942335397
-- pneumothorax: 0.07338104962012026
-- tension: 0.06731318973124596
-- intubation: 0.0664417389509759
-- delivered: 0.0664417389509759
-- lucencies: 0.06251998743722637
-- stem: 0.06192498543516012
-- lung: 0.06036973463996942
-- emphysema: 0.05698028899481666
-- complicated: 0.05406697304015386
-- 1-day-old: 0.05375316112174694
-- field: 0.05347197103808761
-- interstitial: 0.050985237021181254
-- atelectasis: 0.05007302710553859
-- reposition: 0.04952665392321069
-- pprom: 0.04952665392321069
-- main: 0.048527274597744155
-- reexpansion: 0.04705430570303896
-- consequent: 0.04705430570303896
-- rds: 0.04705430570303896
-- labored: 0.04530014672467444
-- previa: 0.04530014672467444
-- sats: 0.042827798504502704
-- placement: 0.042297693820110116
-- placed: 0.04218209938164007
-- pleural: 0.04046768534967435
-- placenta: 0.03766134813628805
-- endotracheal: 0.03548650091714944
-- hyperinflation: 0.03548650091714944
-- umbilical: 0.0338867188167379
-- right: 0.032986525943064025
-- maternal: 0.03281421475293508
-- tracheal: 0.032074209527299294
-- neonatal: 0.03125999371861318
-- heard: 0.030819014074834974
-- correct: 0.03054180447680597
-- pulmonary: 0.03044573549048858
-- crackles: 0.030276651355222197
-- hypoplastic: 0.03014827690889395
-- o2: 0.029899362308160683
-- diaphragmatic: 0.029778614580744954
-- monitor: 0.02966021161820165
-- lines: 0.02868685707190968
-- gestation: 0.02849014449740833
-- premature: 0.028394117930529428
-- breathing: 0.028024455602380437
-- opacities: 0.027187863398029918
-- collapse: 0.026663824191927938
-- consistent: 0.025552417912575648
-- fistula: 0.0255521073822087
-- right-sided: 0.0254337044196654
-- infant: 0.02466362072866362
-- 27: 0.024167610731993177
-- esophageal: 0.023888284292777968
-- arterial: 0.022806979321540678
-- hernia: 0.022806979321540678
-- child: 0.022806979321540678
-- bleeding: 0.022619347256499497
-- pregnancy: 0.022401554069901453
-- linear: 0.022088790079733463
-- distress: 0.02195477235583849
-- drainage: 0.02179128907870034
-- respiratory: 0.02163207478599494
-- pneumonia: 0.02153850423919823
-- et: 0.021325600183672452
-- malformation: 0.020782601539673047
-- base: 0.020411330992874187
-- note: 0.020110155655498722
-- lungs: 0.019730418280367538
-- congenital: 0.019055847375868525
-- venous: 0.01891332694181176
-- 3.: 0.01782850129354102
-- by: 0.017352084185913108
-- bilaterally: 0.017114056332462827
-- 2.: 0.0165697813524406
-- 1.: 0.01627554369693659
-- clinical: 0.016032376829670757
-- infection: 0.01514644252483419
-- evaluation: 0.015135602413578097
-- weeks: 0.014788279005494807
-- due: 0.013904128981419754
-- (: 0.013213934016655984
-- ): 0.013052518758170215
-- increased: 0.012746858425607657
-- chest: 0.012467859756448285
-- ;: 0.012350129197881669
-- or: 0.01221369206053302
-- left: 0.011659820356986766
-- lateral: 0.011260171009905794
-- has: 0.009784755917648037
-- male: 0.009421984987118739
-- in: 0.007708485917199785
-- at: 0.00705953141970508
-- ,: 0.006602684524811888
-- and: 0.00548807944305544
-- of: 0.003551945146280135
-- .: 0.0030304482034319994
-- with: 0.002853760392436335
-- to: 0.0026040738319694284
+\-\ Texto\\:\\ \ \(0\)\
+\-\ 1\\-day\\-old\\ male\\ in\\ respiratory\\ distress\\ and\\ labored\\ breathing\\.\\ \\ crackles\\ heard\\ bilaterally\ \(0\)\
+\-\ reposition\\ endotracheal\\ tube\\.\\ \\ placement\\ of\\ pleural\\ chest\\ tube\\.\\ \\ clinical\\ evaluation\\ of\\ pneumothorax\\ and\\ atelectasis\\.\\ \\ monitor\\ o2\\ sats\\.\ \(0\)\
+\-\ 1\\.\\	right\\ main\\ stem\\ intubation\\ and\\ collapse\\ of\\ left\\ lung\\.\\ \\ lucencies\\ in\\ lateral\\ right\\ lung\\ field\\ consistent\\ with\\ hyperinflation\\ or\\ pulmonary\\ interstitial\\ emphysema\\.\ \(0\)\
+\-\ 2\\.\\	correct\\ placement\\ of\\ \\ et\\ tube\\.\\ \\ right\\-sided\\ tension\\ pneumothorax\\.\\ \\ left\\ lung\\ field\\ has\\ opacities\\ consistent\\ with\\ atelectasis\\.\ \(0\)\
+\-\ 3\\.\\ \\ \\ \\ \\ \\ right\\ pleural\\ drainage\\ tube\\ placed\\ with\\ reexpansion\\ of\\ right\\ lung\\ \\(note\\ linear\\ lucencies\\ in\\ right\\ base\\)\\;\\ umbilical\\ venous\\ and\\ arterial\\ lines\\ placed\\.\ \(0\)\
+\-\ right\\ main\\ stem\\ intubation\\,\\ with\\ consequent\\ pulmonary\\ interstitial\\ emphysema\\ complicated\\ by\\ tension\\ pneumothorax\ \(0\)\
+\-\ neonatal\\ rds\\,\\ infection\\ \\(pneumonia\\)\\,\\ \\ tracheal\\ esophageal\\ fistula\\,\\ \\ congenital\\ malformation\\ \\(diaphragmatic\\ hernia\\)\\ \\ or\\ hypoplastic\\ lungs\\.\ \(0\)\
+\-\ premature\\ infant\\ delivered\\ at\\ 27\\ weeks\\ gestation\\.\\ \\ pregnancy\\ complicated\\ by\\ pprom\\ and\\ placenta\\ previa\\.\\ \\ child\\ delivered\\ due\\ to\\ increased\\ maternal\\ bleeding\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ tube\\:\\ 0\\.08781908942335397\ \(0\)\
+\-\ pneumothorax\\:\\ 0\\.07338104962012026\ \(0\)\
+\-\ tension\\:\\ 0\\.06731318973124596\ \(0\)\
+\-\ intubation\\:\\ 0\\.0664417389509759\ \(0\)\
+\-\ delivered\\:\\ 0\\.0664417389509759\ \(0\)\
+\-\ lucencies\\:\\ 0\\.06251998743722637\ \(0\)\
+\-\ stem\\:\\ 0\\.06192498543516012\ \(0\)\
+\-\ lung\\:\\ 0\\.06036973463996942\ \(0\)\
+\-\ emphysema\\:\\ 0\\.05698028899481666\ \(0\)\
+\-\ complicated\\:\\ 0\\.05406697304015386\ \(0\)\
+\-\ 1\\-day\\-old\\:\\ 0\\.05375316112174694\ \(0\)\
+\-\ field\\:\\ 0\\.05347197103808761\ \(0\)\
+\-\ interstitial\\:\\ 0\\.050985237021181254\ \(0\)\
+\-\ atelectasis\\:\\ 0\\.05007302710553859\ \(0\)\
+\-\ reposition\\:\\ 0\\.04952665392321069\ \(0\)\
+\-\ pprom\\:\\ 0\\.04952665392321069\ \(0\)\
+\-\ main\\:\\ 0\\.048527274597744155\ \(0\)\
+\-\ reexpansion\\:\\ 0\\.04705430570303896\ \(0\)\
+\-\ consequent\\:\\ 0\\.04705430570303896\ \(0\)\
+\-\ rds\\:\\ 0\\.04705430570303896\ \(0\)\
+\-\ labored\\:\\ 0\\.04530014672467444\ \(0\)\
+\-\ previa\\:\\ 0\\.04530014672467444\ \(0\)\
+\-\ sats\\:\\ 0\\.042827798504502704\ \(0\)\
+\-\ placement\\:\\ 0\\.042297693820110116\ \(0\)\
+\-\ placed\\:\\ 0\\.04218209938164007\ \(0\)\
+\-\ pleural\\:\\ 0\\.04046768534967435\ \(0\)\
+\-\ placenta\\:\\ 0\\.03766134813628805\ \(0\)\
+\-\ endotracheal\\:\\ 0\\.03548650091714944\ \(0\)\
+\-\ hyperinflation\\:\\ 0\\.03548650091714944\ \(0\)\
+\-\ umbilical\\:\\ 0\\.0338867188167379\ \(0\)\
+\-\ right\\:\\ 0\\.032986525943064025\ \(0\)\
+\-\ maternal\\:\\ 0\\.03281421475293508\ \(0\)\
+\-\ tracheal\\:\\ 0\\.032074209527299294\ \(0\)\
+\-\ neonatal\\:\\ 0\\.03125999371861318\ \(0\)\
+\-\ heard\\:\\ 0\\.030819014074834974\ \(0\)\
+\-\ correct\\:\\ 0\\.03054180447680597\ \(0\)\
+\-\ pulmonary\\:\\ 0\\.03044573549048858\ \(0\)\
+\-\ crackles\\:\\ 0\\.030276651355222197\ \(0\)\
+\-\ hypoplastic\\:\\ 0\\.03014827690889395\ \(0\)\
+\-\ o2\\:\\ 0\\.029899362308160683\ \(0\)\
+\-\ diaphragmatic\\:\\ 0\\.029778614580744954\ \(0\)\
+\-\ monitor\\:\\ 0\\.02966021161820165\ \(0\)\
+\-\ lines\\:\\ 0\\.02868685707190968\ \(0\)\
+\-\ gestation\\:\\ 0\\.02849014449740833\ \(0\)\
+\-\ premature\\:\\ 0\\.028394117930529428\ \(0\)\
+\-\ breathing\\:\\ 0\\.028024455602380437\ \(0\)\
+\-\ opacities\\:\\ 0\\.027187863398029918\ \(0\)\
+\-\ collapse\\:\\ 0\\.026663824191927938\ \(0\)\
+\-\ consistent\\:\\ 0\\.025552417912575648\ \(0\)\
+\-\ fistula\\:\\ 0\\.0255521073822087\ \(0\)\
+\-\ right\\-sided\\:\\ 0\\.0254337044196654\ \(0\)\
+\-\ infant\\:\\ 0\\.02466362072866362\ \(0\)\
+\-\ 27\\:\\ 0\\.024167610731993177\ \(0\)\
+\-\ esophageal\\:\\ 0\\.023888284292777968\ \(0\)\
+\-\ arterial\\:\\ 0\\.022806979321540678\ \(0\)\
+\-\ hernia\\:\\ 0\\.022806979321540678\ \(0\)\
+\-\ child\\:\\ 0\\.022806979321540678\ \(0\)\
+\-\ bleeding\\:\\ 0\\.022619347256499497\ \(0\)\
+\-\ pregnancy\\:\\ 0\\.022401554069901453\ \(0\)\
+\-\ linear\\:\\ 0\\.022088790079733463\ \(0\)\
+\-\ distress\\:\\ 0\\.02195477235583849\ \(0\)\
+\-\ drainage\\:\\ 0\\.02179128907870034\ \(0\)\
+\-\ respiratory\\:\\ 0\\.02163207478599494\ \(0\)\
+\-\ pneumonia\\:\\ 0\\.02153850423919823\ \(0\)\
+\-\ et\\:\\ 0\\.021325600183672452\ \(0\)\
+\-\ malformation\\:\\ 0\\.020782601539673047\ \(0\)\
+\-\ base\\:\\ 0\\.020411330992874187\ \(0\)\
+\-\ note\\:\\ 0\\.020110155655498722\ \(0\)\
+\-\ lungs\\:\\ 0\\.019730418280367538\ \(0\)\
+\-\ congenital\\:\\ 0\\.019055847375868525\ \(0\)\
+\-\ venous\\:\\ 0\\.01891332694181176\ \(0\)\
+\-\ 3\\.\\:\\ 0\\.01782850129354102\ \(0\)\
+\-\ by\\:\\ 0\\.017352084185913108\ \(0\)\
+\-\ bilaterally\\:\\ 0\\.017114056332462827\ \(0\)\
+\-\ 2\\.\\:\\ 0\\.0165697813524406\ \(0\)\
+\-\ 1\\.\\:\\ 0\\.01627554369693659\ \(0\)\
+\-\ clinical\\:\\ 0\\.016032376829670757\ \(0\)\
+\-\ infection\\:\\ 0\\.01514644252483419\ \(0\)\
+\-\ evaluation\\:\\ 0\\.015135602413578097\ \(0\)\
+\-\ weeks\\:\\ 0\\.014788279005494807\ \(0\)\
+\-\ due\\:\\ 0\\.013904128981419754\ \(0\)\
+\-\ \\(\\:\\ 0\\.013213934016655984\ \(0\)\
+\-\ \\)\\:\\ 0\\.013052518758170215\ \(0\)\
+\-\ increased\\:\\ 0\\.012746858425607657\ \(0\)\
+\-\ chest\\:\\ 0\\.012467859756448285\ \(0\)\
+\-\ \\;\\:\\ 0\\.012350129197881669\ \(0\)\
+\-\ or\\:\\ 0\\.01221369206053302\ \(0\)\
+\-\ left\\:\\ 0\\.011659820356986766\ \(0\)\
+\-\ lateral\\:\\ 0\\.011260171009905794\ \(0\)\
+\-\ has\\:\\ 0\\.009784755917648037\ \(0\)\
+\-\ male\\:\\ 0\\.009421984987118739\ \(0\)\
+\-\ in\\:\\ 0\\.007708485917199785\ \(0\)\
+\-\ at\\:\\ 0\\.00705953141970508\ \(0\)\
+\-\ \\,\\:\\ 0\\.006602684524811888\ \(0\)\
+\-\ and\\:\\ 0\\.00548807944305544\ \(0\)\
+\-\ of\\:\\ 0\\.003551945146280135\ \(0\)\
+\-\ \\.\\:\\ 0\\.0030304482034319994\ \(0\)\
+\-\ with\\:\\ 0\\.002853760392436335\ \(0\)\
+\-\ to\\:\\ 0\\.0026040738319694284\ \(0\)\

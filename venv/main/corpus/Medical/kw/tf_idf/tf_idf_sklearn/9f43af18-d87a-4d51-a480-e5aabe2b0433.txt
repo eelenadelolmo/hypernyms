@@ -1,65 +1,60 @@
-Texto: 
-rf â€“ 88.9
-
-uric acid â€“ 5.5
-hands / wrist â€“ marginal erosions and subchondral cyst formation at all metacarpophalangeal and proximal interphalangeal joints; ulnar styloid process marginal erosion ; periarticular osteopenia
-
-elbow â€“ periarticular osteopenia, joint space narrowing, bony erosion proximal ulna, lack of osteophytes, joint effusion
-
-feet: marginal erosions and subchondral cyst formation at metatarsophalangeal joints â€“ most notably the 4th / 5th rays
-rheumatoid arthritis
-44 year old female with hand, elbow, and foot swelling
-
-
-Keywords by value: 
-- marginal: 0.39072626915248554
-- periarticular: 0.267120013175349
-- osteopenia: 0.23531098167843356
-- erosions: 0.22726617781900096
-- subchondral: 0.21684436956493663
-- elbow: 0.21390060328086888
-- erosion: 0.21028696164824928
-- joints: 0.19476070951029967
-- formation: 0.17964027882165165
-- joint: 0.14931284941845788
-- metacarpophalangeal: 0.1492198210881365
-- metatarsophalangeal: 0.1492198210881365
-- uric: 0.14400891696110432
-- proximal: 0.14156216784156156
-- notably: 0.13868083648597726
-- styloid: 0.13647174706519047
-- rf: 0.13545299384452736
-- interphalangeal: 0.13545299384452736
-- cyst: 0.1307128837033052
-- ulna: 0.12168616660091823
-- osteophytes: 0.12071712888404358
-- rays: 0.11848316615581914
-- acid: 0.11765549083921678
-- ulnar: 0.10767261154603491
-- hands: 0.10742891114630432
-- feet: 0.1064829545864644
-- 5th: 0.1053605467376415
-- 4th: 0.10429819013306987
-- 44: 0.10020007344615077
-- rheumatoid: 0.09986626166589134
-- wrist: 0.09782337684172762
-- lack: 0.0969469993805244
-- and: 0.09364515034014723
-- arthritis: 0.09214699575473302
-- foot: 0.0895229568080747
-- hand: 0.08856328543581748
-- narrowing: 0.08782759638966856
-- bony: 0.08729317849646599
-- at: 0.08558687266497574
-- process: 0.08497338929968425
-- effusion: 0.08413135696863894
-- swelling: 0.07625393340224065
-- space: 0.07541494489540286
-- all: 0.06744257163600849
-- most: 0.0589628108670331
-- female: 0.05467067694135555
-- year: 0.03491568050302202
-- old: 0.03353113964564939
-- the: 0.02260671157238471
-- with: 0.022184826524779523
-- of: 0.022171579011603285
+\-\ Texto\\:\\ \ \(0\)\
+\-\ rf\\ \\â\\€\\“\\ 88\\.9\ \(0\)\
+\-\ uric\\ acid\\ \\â\\€\\“\\ 5\\.5\ \(0\)\
+\-\ hands\\ \\/\\ wrist\\ \\â\\€\\“\\ marginal\\ erosions\\ and\\ subchondral\\ cyst\\ formation\\ at\\ all\\ metacarpophalangeal\\ and\\ proximal\\ interphalangeal\\ joints\\;\\ ulnar\\ styloid\\ process\\ marginal\\ erosion\\ \\;\\ periarticular\\ osteopenia\ \(0\)\
+\-\ elbow\\ \\â\\€\\“\\ periarticular\\ osteopenia\\,\\ joint\\ space\\ narrowing\\,\\ bony\\ erosion\\ proximal\\ ulna\\,\\ lack\\ of\\ osteophytes\\,\\ joint\\ effusion\ \(0\)\
+\-\ feet\\:\\ marginal\\ erosions\\ and\\ subchondral\\ cyst\\ formation\\ at\\ metatarsophalangeal\\ joints\\ \\â\\€\\“\\ most\\ notably\\ the\\ 4th\\ \\/\\ 5th\\ rays\ \(0\)\
+\-\ rheumatoid\\ arthritis\ \(67\)\
+\-\ 44\\ year\\ old\\ female\\ with\\ hand\\,\\ elbow\\,\\ and\\ foot\\ swelling\ \(1\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ marginal\\:\\ 0\\.39072626915248554\ \(0\)\
+\-\ periarticular\\:\\ 0\\.267120013175349\ \(0\)\
+\-\ osteopenia\\:\\ 0\\.23531098167843356\ \(0\)\
+\-\ erosions\\:\\ 0\\.22726617781900096\ \(0\)\
+\-\ subchondral\\:\\ 0\\.21684436956493663\ \(0\)\
+\-\ elbow\\:\\ 0\\.21390060328086888\ \(0\)\
+\-\ erosion\\:\\ 0\\.21028696164824928\ \(0\)\
+\-\ joints\\:\\ 0\\.19476070951029967\ \(0\)\
+\-\ formation\\:\\ 0\\.17964027882165165\ \(0\)\
+\-\ joint\\:\\ 0\\.14931284941845788\ \(0\)\
+\-\ metacarpophalangeal\\:\\ 0\\.1492198210881365\ \(0\)\
+\-\ metatarsophalangeal\\:\\ 0\\.1492198210881365\ \(0\)\
+\-\ uric\\:\\ 0\\.14400891696110432\ \(0\)\
+\-\ proximal\\:\\ 0\\.14156216784156156\ \(0\)\
+\-\ notably\\:\\ 0\\.13868083648597726\ \(0\)\
+\-\ styloid\\:\\ 0\\.13647174706519047\ \(0\)\
+\-\ rf\\:\\ 0\\.13545299384452736\ \(0\)\
+\-\ interphalangeal\\:\\ 0\\.13545299384452736\ \(0\)\
+\-\ cyst\\:\\ 0\\.1307128837033052\ \(0\)\
+\-\ ulna\\:\\ 0\\.12168616660091823\ \(0\)\
+\-\ osteophytes\\:\\ 0\\.12071712888404358\ \(0\)\
+\-\ rays\\:\\ 0\\.11848316615581914\ \(0\)\
+\-\ acid\\:\\ 0\\.11765549083921678\ \(0\)\
+\-\ ulnar\\:\\ 0\\.10767261154603491\ \(0\)\
+\-\ hands\\:\\ 0\\.10742891114630432\ \(0\)\
+\-\ feet\\:\\ 0\\.1064829545864644\ \(0\)\
+\-\ 5th\\:\\ 0\\.1053605467376415\ \(0\)\
+\-\ 4th\\:\\ 0\\.10429819013306987\ \(0\)\
+\-\ 44\\:\\ 0\\.10020007344615077\ \(0\)\
+\-\ rheumatoid\\:\\ 0\\.09986626166589134\ \(0\)\
+\-\ wrist\\:\\ 0\\.09782337684172762\ \(0\)\
+\-\ lack\\:\\ 0\\.0969469993805244\ \(0\)\
+\-\ and\\:\\ 0\\.09364515034014723\ \(0\)\
+\-\ arthritis\\:\\ 0\\.09214699575473302\ \(0\)\
+\-\ foot\\:\\ 0\\.0895229568080747\ \(0\)\
+\-\ hand\\:\\ 0\\.08856328543581748\ \(0\)\
+\-\ narrowing\\:\\ 0\\.08782759638966856\ \(0\)\
+\-\ bony\\:\\ 0\\.08729317849646599\ \(0\)\
+\-\ at\\:\\ 0\\.08558687266497574\ \(0\)\
+\-\ process\\:\\ 0\\.08497338929968425\ \(0\)\
+\-\ effusion\\:\\ 0\\.08413135696863894\ \(0\)\
+\-\ swelling\\:\\ 0\\.07625393340224065\ \(0\)\
+\-\ space\\:\\ 0\\.07541494489540286\ \(0\)\
+\-\ all\\:\\ 0\\.06744257163600849\ \(0\)\
+\-\ most\\:\\ 0\\.0589628108670331\ \(0\)\
+\-\ female\\:\\ 0\\.05467067694135555\ \(0\)\
+\-\ year\\:\\ 0\\.03491568050302202\ \(0\)\
+\-\ old\\:\\ 0\\.03353113964564939\ \(0\)\
+\-\ the\\:\\ 0\\.02260671157238471\ \(0\)\
+\-\ with\\:\\ 0\\.022184826524779523\ \(0\)\
+\-\ of\\:\\ 0\\.022171579011603285\ \(0\)\

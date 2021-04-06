@@ -1,129 +1,127 @@
-Texto: 
-physical examination reveals tenderness and swelling at the proximal carpal row and crepitus with movement of the wrist.
-dorsal capsulodesis is the preferred method with high non-union rates with scapho-lunate fusion (90%).
-there is an abnormal separation between the scaphoid and the lunate in the right wrist which measures greater than 4 mm.  note the left wrist comparison view which demonstrates a normal scapho-lunate separation (averages about 2 mm in most patients).
-scapholunate dissociation (rotary scaphoid subluxation)
-differential diagnosis:
-scapho-lunate dissociation
-anatomic variant
-sequelae of old trauma
-32 y/o female complaining of right wrist pain after falling on her outstretched hand.
-a scapho-lunate dislocation is the most common and significant ligamentous injury to the wrist.  risk factors include negative ulnar variance and luno-triquetral coalition.  the injury mechanism is axial compression, usually with the wrist deviated in an ulnar direction.  three ligaments bind the scaphoid to the lunate, and two out of three must be injured for dissociation to occur.  normal separation averages 2 mm, and there may be up to 8 mm separation with dissociation.
-
-
-Keywords by value: 
-- scapho-lunate: 0.16576267843686843
-- dissociation: 0.12332509595360645
-- wrist: 0.12085665225033415
-- separation: 0.10133409841339673
-- averages: 0.0899542696323112
-- scaphoid: 0.0850625798869135
-- mm: 0.06412643177132664
-- lunate: 0.05310816848288034
-- ulnar: 0.045898268473777426
-- capsulodesis: 0.0449771348161556
-- luno-triquetral: 0.0449771348161556
-- bind: 0.03790420440227861
-- rotary: 0.03676571689557345
-- variance: 0.03436773919534011
-- row: 0.0337668053399504
-- non-union: 0.033229251688634956
-- deviated: 0.031160552157470853
-- coalition: 0.029443857072668746
-- three: 0.029394124779050103
-- crepitus: 0.029206510054123377
-- scapholunate: 0.028354193295637833
-- injury: 0.02779804634580408
-- method: 0.02713781052295927
-- direction: 0.02713781052295927
-- outstretched: 0.02669387492607341
-- preferred: 0.02590739186573025
-- sequelae: 0.02590739186573025
-- carpal: 0.025787338307514975
-- injured: 0.025787338307514975
-- rates: 0.025333524603349183
-- ligamentous: 0.024817728088699337
-- falling: 0.024625175394909302
-- ligaments: 0.024349322225163
-- subluxation: 0.024260588843979993
-- comparison: 0.022684033528058554
-- mechanism: 0.02243202967433622
-- dorsal: 0.02219188931281589
-- anatomic: 0.02201892221242976
-- movement: 0.021797059396410686
-- 32: 0.021743069042683454
-- complaining: 0.021281262881760844
-- variant: 0.02076829742654718
-- 90: 0.020551156536655367
-- dislocation: 0.020508815705968145
-- most: 0.020130970833959958
-- must: 0.019875191317032515
-- factors: 0.019585636130336342
-- fusion: 0.019446796520515505
-- 2: 0.01877657649500557
-- measures: 0.018655424105877394
-- hand: 0.01791945671381338
-- reveals: 0.017057386481097055
-- note: 0.016826864936233622
-- about: 0.01680641584747067
-- greater: 0.01637610386566582
-- view: 0.01635738075908948
-- occur: 0.01635738075908948
-- compression: 0.016320139419897583
-- 8: 0.016301620195149736
-- which: 0.016276985584107638
-- risk: 0.015791870649791255
-- swelling: 0.014524545224393531
-- out: 0.014408438147237326
-- differential: 0.013841631782412905
-- between: 0.013818854776654304
-- normal: 0.01366951484284797
-- examination: 0.013553178752421251
-- be: 0.013446497176978867
-- tenderness: 0.013259756749396088
-- usually: 0.013239429866667138
-- her: 0.013109243155535385
-- proximal: 0.013089506029117423
-- negative: 0.01302102123150446
-- there: 0.012976689351683557
-- two: 0.012486383865387782
-- axial: 0.012442813653407507
-- abnormal: 0.012434144083239342
-- include: 0.012230374938930033
-- 4: 0.01214781584275023
-- y/o: 0.012074637907243063
-- an: 0.012057804737599284
-- high: 0.011931357454473547
-- trauma: 0.011923514192642494
-- significant: 0.011723709954358282
-- up: 0.011723709954358282
-- is: 0.011475322007851542
-- than: 0.011423718647542212
-- common: 0.01140952659161427
-- patients: 0.011283543874316458
-- (: 0.011056557034344803
-- ): 0.010921495287448547
-- physical: 0.010696455457047133
-- %: 0.010170005272173507
-- diagnosis: 0.010011323116226632
-- may: 0.009562899841316957
-- demonstrates: 0.00952357755945503
-- right: 0.00920032356235119
-- the: 0.009169595414015998
-- after: 0.009020414299026542
-- female: 0.008963062609427723
-- to: 0.008715675682509923
-- in: 0.006449957604187575
-- and: 0.006428893061864944
-- at: 0.005906954861385883
-- :: 0.005766708244850332
-- pain: 0.005324531466993544
-- left: 0.004878088108535279
-- old: 0.004463952024807421
-- ,: 0.004143521410978889
-- a: 0.004046936753251033
-- for: 0.0037199395338914035
-- on: 0.003693321491660347
-- with: 0.002984800410456371
-- of: 0.0023776285877140494
-- .: 0.0018112008212931774
+\-\ Texto\\:\\ \ \(0\)\
+\-\ physical\\ examination\\ reveals\\ tenderness\\ and\\ swelling\\ at\\ the\\ proximal\\ carpal\\ row\\ and\\ crepitus\\ with\\ movement\\ of\\ the\\ wrist\\.\ \(0\)\
+\-\ dorsal\\ capsulodesis\\ is\\ the\\ preferred\\ method\\ with\\ high\\ non\\-union\\ rates\\ with\\ scapho\\-lunate\\ fusion\\ \\(90\\%\\)\\.\ \(0\)\
+\-\ there\\ is\\ an\\ abnormal\\ separation\\ between\\ the\\ scaphoid\\ and\\ the\\ lunate\\ in\\ the\\ right\\ wrist\\ which\\ measures\\ greater\\ than\\ 4\\ mm\\.\\ \\ note\\ the\\ left\\ wrist\\ comparison\\ view\\ which\\ demonstrates\\ a\\ normal\\ scapho\\-lunate\\ separation\\ \\(averages\\ about\\ 2\\ mm\\ in\\ most\\ patients\\)\\.\ \(0\)\
+\-\ scapholunate\\ dissociation\\ \\(rotary\\ scaphoid\\ subluxation\\)\ \(0\)\
+\-\ differential\\ diagnosis\\:\ \(3\)\
+\-\ scapho\\-lunate\\ dissociation\ \(0\)\
+\-\ anatomic\\ variant\ \(8\)\
+\-\ sequelae\\ of\\ old\\ trauma\ \(1\)\
+\-\ 32\\ y\\/o\\ female\\ complaining\\ of\\ right\\ wrist\\ pain\\ after\\ falling\\ on\\ her\\ outstretched\\ hand\\.\ \(1\)\
+\-\ a\\ scapho\\-lunate\\ dislocation\\ is\\ the\\ most\\ common\\ and\\ significant\\ ligamentous\\ injury\\ to\\ the\\ wrist\\.\\ \\ risk\\ factors\\ include\\ negative\\ ulnar\\ variance\\ and\\ luno\\-triquetral\\ coalition\\.\\ \\ the\\ injury\\ mechanism\\ is\\ axial\\ compression\\,\\ usually\\ with\\ the\\ wrist\\ deviated\\ in\\ an\\ ulnar\\ direction\\.\\ \\ three\\ ligaments\\ bind\\ the\\ scaphoid\\ to\\ the\\ lunate\\,\\ and\\ two\\ out\\ of\\ three\\ must\\ be\\ injured\\ for\\ dissociation\\ to\\ occur\\.\\ \\ normal\\ separation\\ averages\\ 2\\ mm\\,\\ and\\ there\\ may\\ be\\ up\\ to\\ 8\\ mm\\ separation\\ with\\ dissociation\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ scapho\\-lunate\\:\\ 0\\.16576267843686843\ \(0\)\
+\-\ dissociation\\:\\ 0\\.12332509595360645\ \(0\)\
+\-\ wrist\\:\\ 0\\.12085665225033415\ \(0\)\
+\-\ separation\\:\\ 0\\.10133409841339673\ \(0\)\
+\-\ averages\\:\\ 0\\.0899542696323112\ \(0\)\
+\-\ scaphoid\\:\\ 0\\.0850625798869135\ \(0\)\
+\-\ mm\\:\\ 0\\.06412643177132664\ \(0\)\
+\-\ lunate\\:\\ 0\\.05310816848288034\ \(0\)\
+\-\ ulnar\\:\\ 0\\.045898268473777426\ \(0\)\
+\-\ capsulodesis\\:\\ 0\\.0449771348161556\ \(0\)\
+\-\ luno\\-triquetral\\:\\ 0\\.0449771348161556\ \(0\)\
+\-\ bind\\:\\ 0\\.03790420440227861\ \(0\)\
+\-\ rotary\\:\\ 0\\.03676571689557345\ \(0\)\
+\-\ variance\\:\\ 0\\.03436773919534011\ \(0\)\
+\-\ row\\:\\ 0\\.0337668053399504\ \(0\)\
+\-\ non\\-union\\:\\ 0\\.033229251688634956\ \(0\)\
+\-\ deviated\\:\\ 0\\.031160552157470853\ \(0\)\
+\-\ coalition\\:\\ 0\\.029443857072668746\ \(0\)\
+\-\ three\\:\\ 0\\.029394124779050103\ \(0\)\
+\-\ crepitus\\:\\ 0\\.029206510054123377\ \(0\)\
+\-\ scapholunate\\:\\ 0\\.028354193295637833\ \(0\)\
+\-\ injury\\:\\ 0\\.02779804634580408\ \(0\)\
+\-\ method\\:\\ 0\\.02713781052295927\ \(0\)\
+\-\ direction\\:\\ 0\\.02713781052295927\ \(0\)\
+\-\ outstretched\\:\\ 0\\.02669387492607341\ \(0\)\
+\-\ preferred\\:\\ 0\\.02590739186573025\ \(0\)\
+\-\ sequelae\\:\\ 0\\.02590739186573025\ \(0\)\
+\-\ carpal\\:\\ 0\\.025787338307514975\ \(0\)\
+\-\ injured\\:\\ 0\\.025787338307514975\ \(0\)\
+\-\ rates\\:\\ 0\\.025333524603349183\ \(0\)\
+\-\ ligamentous\\:\\ 0\\.024817728088699337\ \(0\)\
+\-\ falling\\:\\ 0\\.024625175394909302\ \(0\)\
+\-\ ligaments\\:\\ 0\\.024349322225163\ \(0\)\
+\-\ subluxation\\:\\ 0\\.024260588843979993\ \(0\)\
+\-\ comparison\\:\\ 0\\.022684033528058554\ \(0\)\
+\-\ mechanism\\:\\ 0\\.02243202967433622\ \(0\)\
+\-\ dorsal\\:\\ 0\\.02219188931281589\ \(0\)\
+\-\ anatomic\\:\\ 0\\.02201892221242976\ \(0\)\
+\-\ movement\\:\\ 0\\.021797059396410686\ \(0\)\
+\-\ 32\\:\\ 0\\.021743069042683454\ \(0\)\
+\-\ complaining\\:\\ 0\\.021281262881760844\ \(0\)\
+\-\ variant\\:\\ 0\\.02076829742654718\ \(0\)\
+\-\ 90\\:\\ 0\\.020551156536655367\ \(0\)\
+\-\ dislocation\\:\\ 0\\.020508815705968145\ \(0\)\
+\-\ most\\:\\ 0\\.020130970833959958\ \(0\)\
+\-\ must\\:\\ 0\\.019875191317032515\ \(0\)\
+\-\ factors\\:\\ 0\\.019585636130336342\ \(0\)\
+\-\ fusion\\:\\ 0\\.019446796520515505\ \(0\)\
+\-\ 2\\:\\ 0\\.01877657649500557\ \(0\)\
+\-\ measures\\:\\ 0\\.018655424105877394\ \(0\)\
+\-\ hand\\:\\ 0\\.01791945671381338\ \(0\)\
+\-\ reveals\\:\\ 0\\.017057386481097055\ \(0\)\
+\-\ note\\:\\ 0\\.016826864936233622\ \(0\)\
+\-\ about\\:\\ 0\\.01680641584747067\ \(0\)\
+\-\ greater\\:\\ 0\\.01637610386566582\ \(0\)\
+\-\ view\\:\\ 0\\.01635738075908948\ \(0\)\
+\-\ occur\\:\\ 0\\.01635738075908948\ \(0\)\
+\-\ compression\\:\\ 0\\.016320139419897583\ \(0\)\
+\-\ 8\\:\\ 0\\.016301620195149736\ \(0\)\
+\-\ which\\:\\ 0\\.016276985584107638\ \(0\)\
+\-\ risk\\:\\ 0\\.015791870649791255\ \(0\)\
+\-\ swelling\\:\\ 0\\.014524545224393531\ \(0\)\
+\-\ out\\:\\ 0\\.014408438147237326\ \(0\)\
+\-\ differential\\:\\ 0\\.013841631782412905\ \(0\)\
+\-\ between\\:\\ 0\\.013818854776654304\ \(0\)\
+\-\ normal\\:\\ 0\\.01366951484284797\ \(0\)\
+\-\ examination\\:\\ 0\\.013553178752421251\ \(0\)\
+\-\ be\\:\\ 0\\.013446497176978867\ \(0\)\
+\-\ tenderness\\:\\ 0\\.013259756749396088\ \(0\)\
+\-\ usually\\:\\ 0\\.013239429866667138\ \(0\)\
+\-\ her\\:\\ 0\\.013109243155535385\ \(0\)\
+\-\ proximal\\:\\ 0\\.013089506029117423\ \(0\)\
+\-\ negative\\:\\ 0\\.01302102123150446\ \(0\)\
+\-\ there\\:\\ 0\\.012976689351683557\ \(0\)\
+\-\ two\\:\\ 0\\.012486383865387782\ \(0\)\
+\-\ axial\\:\\ 0\\.012442813653407507\ \(0\)\
+\-\ abnormal\\:\\ 0\\.012434144083239342\ \(0\)\
+\-\ include\\:\\ 0\\.012230374938930033\ \(0\)\
+\-\ 4\\:\\ 0\\.01214781584275023\ \(0\)\
+\-\ y\\/o\\:\\ 0\\.012074637907243063\ \(0\)\
+\-\ an\\:\\ 0\\.012057804737599284\ \(0\)\
+\-\ high\\:\\ 0\\.011931357454473547\ \(0\)\
+\-\ trauma\\:\\ 0\\.011923514192642494\ \(0\)\
+\-\ significant\\:\\ 0\\.011723709954358282\ \(0\)\
+\-\ up\\:\\ 0\\.011723709954358282\ \(0\)\
+\-\ is\\:\\ 0\\.011475322007851542\ \(0\)\
+\-\ than\\:\\ 0\\.011423718647542212\ \(0\)\
+\-\ common\\:\\ 0\\.01140952659161427\ \(0\)\
+\-\ patients\\:\\ 0\\.011283543874316458\ \(0\)\
+\-\ \\(\\:\\ 0\\.011056557034344803\ \(0\)\
+\-\ \\)\\:\\ 0\\.010921495287448547\ \(0\)\
+\-\ physical\\:\\ 0\\.010696455457047133\ \(0\)\
+\-\ \\%\\:\\ 0\\.010170005272173507\ \(0\)\
+\-\ diagnosis\\:\\ 0\\.010011323116226632\ \(0\)\
+\-\ may\\:\\ 0\\.009562899841316957\ \(0\)\
+\-\ demonstrates\\:\\ 0\\.00952357755945503\ \(0\)\
+\-\ right\\:\\ 0\\.00920032356235119\ \(0\)\
+\-\ the\\:\\ 0\\.009169595414015998\ \(0\)\
+\-\ after\\:\\ 0\\.009020414299026542\ \(0\)\
+\-\ female\\:\\ 0\\.008963062609427723\ \(0\)\
+\-\ to\\:\\ 0\\.008715675682509923\ \(0\)\
+\-\ in\\:\\ 0\\.006449957604187575\ \(0\)\
+\-\ and\\:\\ 0\\.006428893061864944\ \(0\)\
+\-\ at\\:\\ 0\\.005906954861385883\ \(0\)\
+\-\ \\:\\:\\ 0\\.005766708244850332\ \(0\)\
+\-\ pain\\:\\ 0\\.005324531466993544\ \(0\)\
+\-\ left\\:\\ 0\\.004878088108535279\ \(0\)\
+\-\ old\\:\\ 0\\.004463952024807421\ \(0\)\
+\-\ \\,\\:\\ 0\\.004143521410978889\ \(0\)\
+\-\ a\\:\\ 0\\.004046936753251033\ \(0\)\
+\-\ for\\:\\ 0\\.0037199395338914035\ \(0\)\
+\-\ on\\:\\ 0\\.003693321491660347\ \(0\)\
+\-\ with\\:\\ 0\\.002984800410456371\ \(0\)\
+\-\ of\\:\\ 0\\.0023776285877140494\ \(0\)\
+\-\ \\.\\:\\ 0\\.0018112008212931774\ \(0\)\

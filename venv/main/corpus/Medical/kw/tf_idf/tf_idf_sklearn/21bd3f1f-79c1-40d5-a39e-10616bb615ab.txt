@@ -1,107 +1,105 @@
-Texto: 
-general: obese
-vss
-heent: unremarkable
-chest: ctab
-heart:  rrr.  nml s1+s2.
-abdomen:  soft, non-tender.  (-)murphy's
-rectal: guiaic (-)
-elective cholecystectomy
-gray scale sonography in long axis of the gallbladder demonstrates a wall-echo-shadow complex consistent with a gallbladder filled with stones.
-cholelithiasis
-porcelain gallbladder
-emphysematous cholecystitis
-46 y/o caucasian female with 1 month history of vague post-prandial abdominal pain.
-a stone filled gallbladder will frequently produce a wall-echo-shadow (wes) complex that consists of three, arc-shaped lines followed by a shadow.  the first line is echogenic and represents the interface between the gallbladder wall and the liver.  the second is hypoechoic and represents the gallbladder wall itself.  the third is echogenic and arises from the stones.  although a wes complex is a very reliable sign of a gallbladder filled with stones, it is not possible to demonstrate it in every case.  therefore it is a useful finding when seen but not useful when absent.
-
-
-Keywords by value: 
-- gallbladder: 0.4877511725909921
-- shadow: 0.238953814295683
-- stones: 0.22083413531992882
-- wes: 0.20540899001469612
-- wall: 0.18974249938564766
-- filled: 0.18823384920129807
-- complex: 0.18024552803418314
-- useful: 0.14890059478231554
-- echogenic: 0.1430082498929284
-- the: 0.14003701324654796
-- represents: 0.1393574778831406
-- is: 0.12813073793701396
-- guiaic: 0.12470565431049259
-- it: 0.11974932760466112
-- reliable: 0.10270449500734806
-- porcelain: 0.09911795219422916
-- when: 0.09420785061427588
-- nml: 0.09256214556458167
-- elective: 0.09192621281634653
-- vss: 0.08964256863192646
-- emphysematous: 0.08768636738114864
-- ctab: 0.08557911388763656
-- interface: 0.08519401549579106
-- arises: 0.08341617767405524
-- sonography: 0.08276509801138855
-- obese: 0.08070333570420353
-- itself: 0.079154122503873
-- rectal: 0.07891216771185915
-- cholelithiasis: 0.07821098381884593
-- produce: 0.07821098381884593
-- scale: 0.07776274402663212
-- lines: 0.07776274402663212
-- consists: 0.07754401793838225
-- vague: 0.07630042564511541
-- cholecystectomy: 0.07571863193348836
-- every: 0.07553007599404603
-- axis: 0.07534408552122958
-- cholecystitis: 0.0751605916403068
-- rrr: 0.07266823975494922
-- 46: 0.0716443322153049
-- stone: 0.07122795214190084
-- heent: 0.0696787389415703
-- caucasian: 0.0693173939681703
-- therefore: 0.06873560025654324
-- gray: 0.06672634065130943
-- hypoechoic: 0.06662834676303117
-- and: 0.06445375557642091
-- frequently: 0.06421760759098279
-- absent: 0.06397421678984151
-- general: 0.0625984108476538
-- not: 0.061568635547038265
-- with: 0.061077178311514504
-- of: 0.061040706503923604
-- line: 0.060763938708244015
-- third: 0.059374611410971855
-- second: 0.058377969374373714
-- very: 0.0559391208405872
-- heart: 0.05422024826718131
-- sign: 0.05398589814715331
-- liver: 0.053793629311301265
-- although: 0.05308671892701846
-- possible: 0.052835225310476984
-- followed: 0.05265837822731868
-- first: 0.05262328170258251
-- three: 0.052345706909517224
-- unremarkable: 0.05227718501729544
-- long: 0.05170821302511001
-- finding: 0.05125680115053462
-- between: 0.05066708045180468
-- will: 0.05018947418454679
-- abdomen: 0.04758028322145437
-- month: 0.047435624846411915
-- abdominal: 0.0426488715817527
-- consistent: 0.0422820910976511
-- soft: 0.041514445851135943
-- chest: 0.04116135261760647
-- demonstrate: 0.040539204370767086
-- demonstrates: 0.039175882458500844
-- case: 0.039175882458500844
-- in: 0.038797368949279466
-- but: 0.03856081689318481
-- female: 0.03762854174483524
-- seen: 0.036711957545778016
-- that: 0.033840031468589174
-- by: 0.03311447428479556
-- from: 0.030970016716245267
-- history: 0.029792553714609985
-- pain: 0.027903813487351495
-- to: 0.01949463703776483
+\-\ Texto\\:\\ \ \(0\)\
+\-\ general\\:\\ obese\ \(0\)\
+\-\ vss\ \(0\)\
+\-\ heent\\:\\ unremarkable\ \(0\)\
+\-\ chest\\:\\ ctab\ \(0\)\
+\-\ heart\\:\\ \\ rrr\\.\\ \\ nml\\ s1\\+s2\\.\ \(0\)\
+\-\ abdomen\\:\\ \\ soft\\,\\ non\\-tender\\.\\ \\ \\(\\-\\)murphy\\'s\ \(0\)\
+\-\ rectal\\:\\ guiaic\\ \\(\\-\\)\ \(0\)\
+\-\ elective\\ cholecystectomy\ \(3\)\
+\-\ gray\\ scale\\ sonography\\ in\\ long\\ axis\\ of\\ the\\ gallbladder\\ demonstrates\\ a\\ wall\\-echo\\-shadow\\ complex\\ consistent\\ with\\ a\\ gallbladder\\ filled\\ with\\ stones\\.\ \(0\)\
+\-\ cholelithiasis\ \(35\)\
+\-\ porcelain\\ gallbladder\ \(4\)\
+\-\ emphysematous\\ cholecystitis\ \(4\)\
+\-\ 46\\ y\\/o\\ caucasian\\ female\\ with\\ 1\\ month\\ history\\ of\\ vague\\ post\\-prandial\\ abdominal\\ pain\\.\ \(0\)\
+\-\ a\\ stone\\ filled\\ gallbladder\\ will\\ frequently\\ produce\\ a\\ wall\\-echo\\-shadow\\ \\(wes\\)\\ complex\\ that\\ consists\\ of\\ three\\,\\ arc\\-shaped\\ lines\\ followed\\ by\\ a\\ shadow\\.\\ \\ the\\ first\\ line\\ is\\ echogenic\\ and\\ represents\\ the\\ interface\\ between\\ the\\ gallbladder\\ wall\\ and\\ the\\ liver\\.\\ \\ the\\ second\\ is\\ hypoechoic\\ and\\ represents\\ the\\ gallbladder\\ wall\\ itself\\.\\ \\ the\\ third\\ is\\ echogenic\\ and\\ arises\\ from\\ the\\ stones\\.\\ \\ although\\ a\\ wes\\ complex\\ is\\ a\\ very\\ reliable\\ sign\\ of\\ a\\ gallbladder\\ filled\\ with\\ stones\\,\\ it\\ is\\ not\\ possible\\ to\\ demonstrate\\ it\\ in\\ every\\ case\\.\\ \\ therefore\\ it\\ is\\ a\\ useful\\ finding\\ when\\ seen\\ but\\ not\\ useful\\ when\\ absent\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ gallbladder\\:\\ 0\\.4877511725909921\ \(0\)\
+\-\ shadow\\:\\ 0\\.238953814295683\ \(0\)\
+\-\ stones\\:\\ 0\\.22083413531992882\ \(0\)\
+\-\ wes\\:\\ 0\\.20540899001469612\ \(0\)\
+\-\ wall\\:\\ 0\\.18974249938564766\ \(0\)\
+\-\ filled\\:\\ 0\\.18823384920129807\ \(0\)\
+\-\ complex\\:\\ 0\\.18024552803418314\ \(0\)\
+\-\ useful\\:\\ 0\\.14890059478231554\ \(0\)\
+\-\ echogenic\\:\\ 0\\.1430082498929284\ \(0\)\
+\-\ the\\:\\ 0\\.14003701324654796\ \(0\)\
+\-\ represents\\:\\ 0\\.1393574778831406\ \(0\)\
+\-\ is\\:\\ 0\\.12813073793701396\ \(0\)\
+\-\ guiaic\\:\\ 0\\.12470565431049259\ \(0\)\
+\-\ it\\:\\ 0\\.11974932760466112\ \(0\)\
+\-\ reliable\\:\\ 0\\.10270449500734806\ \(0\)\
+\-\ porcelain\\:\\ 0\\.09911795219422916\ \(0\)\
+\-\ when\\:\\ 0\\.09420785061427588\ \(0\)\
+\-\ nml\\:\\ 0\\.09256214556458167\ \(0\)\
+\-\ elective\\:\\ 0\\.09192621281634653\ \(0\)\
+\-\ vss\\:\\ 0\\.08964256863192646\ \(0\)\
+\-\ emphysematous\\:\\ 0\\.08768636738114864\ \(0\)\
+\-\ ctab\\:\\ 0\\.08557911388763656\ \(0\)\
+\-\ interface\\:\\ 0\\.08519401549579106\ \(0\)\
+\-\ arises\\:\\ 0\\.08341617767405524\ \(0\)\
+\-\ sonography\\:\\ 0\\.08276509801138855\ \(0\)\
+\-\ obese\\:\\ 0\\.08070333570420353\ \(0\)\
+\-\ itself\\:\\ 0\\.079154122503873\ \(0\)\
+\-\ rectal\\:\\ 0\\.07891216771185915\ \(0\)\
+\-\ cholelithiasis\\:\\ 0\\.07821098381884593\ \(0\)\
+\-\ produce\\:\\ 0\\.07821098381884593\ \(0\)\
+\-\ scale\\:\\ 0\\.07776274402663212\ \(0\)\
+\-\ lines\\:\\ 0\\.07776274402663212\ \(0\)\
+\-\ consists\\:\\ 0\\.07754401793838225\ \(0\)\
+\-\ vague\\:\\ 0\\.07630042564511541\ \(0\)\
+\-\ cholecystectomy\\:\\ 0\\.07571863193348836\ \(0\)\
+\-\ every\\:\\ 0\\.07553007599404603\ \(0\)\
+\-\ axis\\:\\ 0\\.07534408552122958\ \(0\)\
+\-\ cholecystitis\\:\\ 0\\.0751605916403068\ \(0\)\
+\-\ rrr\\:\\ 0\\.07266823975494922\ \(0\)\
+\-\ 46\\:\\ 0\\.0716443322153049\ \(0\)\
+\-\ stone\\:\\ 0\\.07122795214190084\ \(0\)\
+\-\ heent\\:\\ 0\\.0696787389415703\ \(0\)\
+\-\ caucasian\\:\\ 0\\.0693173939681703\ \(0\)\
+\-\ therefore\\:\\ 0\\.06873560025654324\ \(0\)\
+\-\ gray\\:\\ 0\\.06672634065130943\ \(0\)\
+\-\ hypoechoic\\:\\ 0\\.06662834676303117\ \(0\)\
+\-\ and\\:\\ 0\\.06445375557642091\ \(0\)\
+\-\ frequently\\:\\ 0\\.06421760759098279\ \(0\)\
+\-\ absent\\:\\ 0\\.06397421678984151\ \(0\)\
+\-\ general\\:\\ 0\\.0625984108476538\ \(0\)\
+\-\ not\\:\\ 0\\.061568635547038265\ \(0\)\
+\-\ with\\:\\ 0\\.061077178311514504\ \(0\)\
+\-\ of\\:\\ 0\\.061040706503923604\ \(0\)\
+\-\ line\\:\\ 0\\.060763938708244015\ \(0\)\
+\-\ third\\:\\ 0\\.059374611410971855\ \(0\)\
+\-\ second\\:\\ 0\\.058377969374373714\ \(0\)\
+\-\ very\\:\\ 0\\.0559391208405872\ \(0\)\
+\-\ heart\\:\\ 0\\.05422024826718131\ \(0\)\
+\-\ sign\\:\\ 0\\.05398589814715331\ \(0\)\
+\-\ liver\\:\\ 0\\.053793629311301265\ \(0\)\
+\-\ although\\:\\ 0\\.05308671892701846\ \(0\)\
+\-\ possible\\:\\ 0\\.052835225310476984\ \(0\)\
+\-\ followed\\:\\ 0\\.05265837822731868\ \(0\)\
+\-\ first\\:\\ 0\\.05262328170258251\ \(0\)\
+\-\ three\\:\\ 0\\.052345706909517224\ \(0\)\
+\-\ unremarkable\\:\\ 0\\.05227718501729544\ \(0\)\
+\-\ long\\:\\ 0\\.05170821302511001\ \(0\)\
+\-\ finding\\:\\ 0\\.05125680115053462\ \(0\)\
+\-\ between\\:\\ 0\\.05066708045180468\ \(0\)\
+\-\ will\\:\\ 0\\.05018947418454679\ \(0\)\
+\-\ abdomen\\:\\ 0\\.04758028322145437\ \(0\)\
+\-\ month\\:\\ 0\\.047435624846411915\ \(0\)\
+\-\ abdominal\\:\\ 0\\.0426488715817527\ \(0\)\
+\-\ consistent\\:\\ 0\\.0422820910976511\ \(0\)\
+\-\ soft\\:\\ 0\\.041514445851135943\ \(0\)\
+\-\ chest\\:\\ 0\\.04116135261760647\ \(0\)\
+\-\ demonstrate\\:\\ 0\\.040539204370767086\ \(0\)\
+\-\ demonstrates\\:\\ 0\\.039175882458500844\ \(0\)\
+\-\ case\\:\\ 0\\.039175882458500844\ \(0\)\
+\-\ in\\:\\ 0\\.038797368949279466\ \(0\)\
+\-\ but\\:\\ 0\\.03856081689318481\ \(0\)\
+\-\ female\\:\\ 0\\.03762854174483524\ \(0\)\
+\-\ seen\\:\\ 0\\.036711957545778016\ \(0\)\
+\-\ that\\:\\ 0\\.033840031468589174\ \(0\)\
+\-\ by\\:\\ 0\\.03311447428479556\ \(0\)\
+\-\ from\\:\\ 0\\.030970016716245267\ \(0\)\
+\-\ history\\:\\ 0\\.029792553714609985\ \(0\)\
+\-\ pain\\:\\ 0\\.027903813487351495\ \(0\)\
+\-\ to\\:\\ 0\\.01949463703776483\ \(0\)\

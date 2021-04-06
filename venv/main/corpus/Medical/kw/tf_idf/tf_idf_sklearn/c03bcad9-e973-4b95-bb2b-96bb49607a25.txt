@@ -1,59 +1,57 @@
-Texto: 
-swelling of the digits of bilateral hand and left great toe.
-anti-inflammatory medications
-soft tissue swelling with subtle soft tissue calcification primarily of the 2nd and 3rd digits.  erosions with overhanging edges at the distal aspects of the proximal phalanges of the 2nd and 3rd digits.
-gouty arthritis
-gout
-less likely:
-ra
-infection
-55 yo male with swelling and pain of his fingers.  patient also with similar complaints regarding his great toe of the left foot.
-
-
-Keywords by value: 
-- digits: 0.4156605040852266
-- toe: 0.2625003568224091
-- swelling: 0.25606773425583274
-- great: 0.2508345593682213
-- 2nd: 0.23212705332349626
-- 3rd: 0.231680173933685
-- of: 0.17372647872466
-- overhanging: 0.16297791843373993
-- gouty: 0.1595508308844122
-- his: 0.1538262711685881
-- the: 0.15183084079818934
-- edges: 0.14666026985556657
-- phalanges: 0.14666026985556657
-- fingers: 0.13566215208537194
-- soft: 0.13503229766300914
-- regarding: 0.13310392355302395
-- tissue: 0.13305358964603453
-- aspects: 0.13125017841120454
-- gout: 0.12795049558021093
-- erosions: 0.12719679416429233
-- ra: 0.12541727968411065
-- primarily: 0.1216507647400561
-- subtle: 0.10933343781548938
-- 55: 0.10900406790227606
-- medications: 0.10638550809136665
-- and: 0.10482301437556055
-- complaints: 0.10443896004930812
-- arthritis: 0.10314603399725729
-- foot: 0.10020877914499322
-- with: 0.09933158871674357
-- hand: 0.09913455751488703
-- similar: 0.09665626354784591
-- calcification: 0.09054371254847439
-- left: 0.08652198152268413
-- less: 0.08627757966841894
-- proximal: 0.07922980047974683
-- yo: 0.07922980047974683
-- infection: 0.07660648158447668
-- likely: 0.07578436207299548
-- distal: 0.07368544006662253
-- bilateral: 0.06815762618007587
-- also: 0.05965238699902131
-- male: 0.05646504180681498
-- at: 0.04790143403653548
-- pain: 0.04538078217722418
-- patient: 0.04124810589984048
+\-\ Texto\\:\\ \ \(0\)\
+\-\ swelling\\ of\\ the\\ digits\\ of\\ bilateral\\ hand\\ and\\ left\\ great\\ toe\\.\ \(0\)\
+\-\ anti\\-inflammatory\\ medications\ \(9\)\
+\-\ soft\\ tissue\\ swelling\\ with\\ subtle\\ soft\\ tissue\\ calcification\\ primarily\\ of\\ the\\ 2nd\\ and\\ 3rd\\ digits\\.\\ \\ erosions\\ with\\ overhanging\\ edges\\ at\\ the\\ distal\\ aspects\\ of\\ the\\ proximal\\ phalanges\\ of\\ the\\ 2nd\\ and\\ 3rd\\ digits\\.\ \(0\)\
+\-\ gouty\\ arthritis\ \(6\)\
+\-\ gout\ \(75\)\
+\-\ less\\ likely\\:\ \(2\)\
+\-\ ra\ \(59633\)\
+\-\ infection\ \(713\)\
+\-\ 55\\ yo\\ male\\ with\\ swelling\\ and\\ pain\\ of\\ his\\ fingers\\.\\ \\ patient\\ also\\ with\\ similar\\ complaints\\ regarding\\ his\\ great\\ toe\\ of\\ the\\ left\\ foot\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ digits\\:\\ 0\\.4156605040852266\ \(0\)\
+\-\ toe\\:\\ 0\\.2625003568224091\ \(0\)\
+\-\ swelling\\:\\ 0\\.25606773425583274\ \(0\)\
+\-\ great\\:\\ 0\\.2508345593682213\ \(0\)\
+\-\ 2nd\\:\\ 0\\.23212705332349626\ \(0\)\
+\-\ 3rd\\:\\ 0\\.231680173933685\ \(0\)\
+\-\ of\\:\\ 0\\.17372647872466\ \(0\)\
+\-\ overhanging\\:\\ 0\\.16297791843373993\ \(0\)\
+\-\ gouty\\:\\ 0\\.1595508308844122\ \(0\)\
+\-\ his\\:\\ 0\\.1538262711685881\ \(0\)\
+\-\ the\\:\\ 0\\.15183084079818934\ \(0\)\
+\-\ edges\\:\\ 0\\.14666026985556657\ \(0\)\
+\-\ phalanges\\:\\ 0\\.14666026985556657\ \(0\)\
+\-\ fingers\\:\\ 0\\.13566215208537194\ \(0\)\
+\-\ soft\\:\\ 0\\.13503229766300914\ \(0\)\
+\-\ regarding\\:\\ 0\\.13310392355302395\ \(0\)\
+\-\ tissue\\:\\ 0\\.13305358964603453\ \(0\)\
+\-\ aspects\\:\\ 0\\.13125017841120454\ \(0\)\
+\-\ gout\\:\\ 0\\.12795049558021093\ \(0\)\
+\-\ erosions\\:\\ 0\\.12719679416429233\ \(0\)\
+\-\ ra\\:\\ 0\\.12541727968411065\ \(0\)\
+\-\ primarily\\:\\ 0\\.1216507647400561\ \(0\)\
+\-\ subtle\\:\\ 0\\.10933343781548938\ \(0\)\
+\-\ 55\\:\\ 0\\.10900406790227606\ \(0\)\
+\-\ medications\\:\\ 0\\.10638550809136665\ \(0\)\
+\-\ and\\:\\ 0\\.10482301437556055\ \(0\)\
+\-\ complaints\\:\\ 0\\.10443896004930812\ \(0\)\
+\-\ arthritis\\:\\ 0\\.10314603399725729\ \(0\)\
+\-\ foot\\:\\ 0\\.10020877914499322\ \(0\)\
+\-\ with\\:\\ 0\\.09933158871674357\ \(0\)\
+\-\ hand\\:\\ 0\\.09913455751488703\ \(0\)\
+\-\ similar\\:\\ 0\\.09665626354784591\ \(0\)\
+\-\ calcification\\:\\ 0\\.09054371254847439\ \(0\)\
+\-\ left\\:\\ 0\\.08652198152268413\ \(0\)\
+\-\ less\\:\\ 0\\.08627757966841894\ \(0\)\
+\-\ proximal\\:\\ 0\\.07922980047974683\ \(0\)\
+\-\ yo\\:\\ 0\\.07922980047974683\ \(0\)\
+\-\ infection\\:\\ 0\\.07660648158447668\ \(0\)\
+\-\ likely\\:\\ 0\\.07578436207299548\ \(0\)\
+\-\ distal\\:\\ 0\\.07368544006662253\ \(0\)\
+\-\ bilateral\\:\\ 0\\.06815762618007587\ \(0\)\
+\-\ also\\:\\ 0\\.05965238699902131\ \(0\)\
+\-\ male\\:\\ 0\\.05646504180681498\ \(0\)\
+\-\ at\\:\\ 0\\.04790143403653548\ \(0\)\
+\-\ pain\\:\\ 0\\.04538078217722418\ \(0\)\
+\-\ patient\\:\\ 0\\.04124810589984048\ \(0\)\

@@ -1,92 +1,90 @@
-Texto: 
-multiple thin walled cystic structures are seen throughout the lungs on high resolution ct scanning.  these are slightly more prominent in the upper lobes.  no fibrosis, nodularity, or interstitial thickening is noted.  increased volumes are seen on cxr.
-lymphangioleiomyomatosis (lam)
-the differential is extremely limited.  lam (lymphangiomamyomatosis) is essentially the only diagnosis.  langerhans histiocytosis can have cystic structures but these are typically more irregular and often times there are assoicated small nodules.  centrilobular emphysema will have cysts with inperceptible walls (lam has perceptible, thin walls) more concenetrated towards the apices.
-dyspnea
-no angiomyolipomas were visible in the kidneys.  the patient has a prior history of pneumothorax.
-
-
-Keywords by value: 
-- lam: 0.15193468258028395
-- lymphangiomamyomatosis: 0.07052414739173199
-- assoicated: 0.07052414739173199
-- inperceptible: 0.07052414739173199
-- concenetrated: 0.07052414739173199
-- walls: 0.06977873804340784
-- perceptible: 0.06173524908238711
-- thin: 0.056195416254518765
-- structures: 0.05264104775735543
-- centrilobular: 0.05134098520934502
-- more: 0.05129223142349199
-- apices: 0.05064489419342798
-- lymphangioleiomyomatosis: 0.04941168875480992
-- angiomyolipomas: 0.048859745782914306
-- are: 0.04659495490118407
-- walled: 0.04579580776486546
-- volumes: 0.04579580776486546
-- nodularity: 0.04305224975585082
-- towards: 0.04231326319480269
-- scanning: 0.041855995884083105
-- langerhans: 0.04043454646618348
-- cystic: 0.039434123316028136
-- extremely: 0.038914197643080566
-- essentially: 0.03832133386585079
-- histiocytosis: 0.038040603307360636
-- emphysema: 0.03737906958059973
-- these: 0.03558151507132544
-- interstitial: 0.0334463154858949
-- times: 0.03314151671603673
-- dyspnea: 0.032358670396006664
-- visible: 0.032358670396006664
-- pneumothorax: 0.03209197903386593
-- kidneys: 0.03146173201104102
-- fibrosis: 0.03043906503896194
-- lobes: 0.03012529933373569
-- have: 0.02960700925384147
-- resolution: 0.0294849576723474
-- cxr: 0.02884825816900062
-- limited: 0.02884825816900062
-- nodules: 0.028340150923222014
-- prominent: 0.028058005812522345
-- slightly: 0.027633810066056582
-- irregular: 0.027266773220051038
-- seen: 0.027018041841083043
-- cysts: 0.026779666262650936
-- lungs: 0.025886308783842207
-- has: 0.02567519952790845
-- throughout: 0.025589978610399414
-- typically: 0.024131406156047776
-- thickening: 0.023172996557546816
-- often: 0.02181178838815722
-- differential: 0.021703678634823437
-- will: 0.021387848147033137
-- only: 0.020555293267879485
-- high: 0.018708368488614527
-- prior: 0.017552902177618908
-- (: 0.017336681429852653
-- ): 0.017124904610719322
-- increased: 0.016723878254397247
-- upper: 0.016496644042949746
-- noted: 0.01620336950762075
-- small: 0.01574860227504895
-- diagnosis: 0.01569775464624336
-- were: 0.01552229069351937
-- can: 0.015505778819752557
-- but: 0.014580026408268302
-- multiple: 0.014398448027834151
-- no: 0.013767106411260832
-- is: 0.013494978681233415
-- on: 0.011582256197846849
-- there: 0.01017372445171991
-- ct: 0.009562429227136343
-- history: 0.009441716301656668
-- or: 0.00801218199170966
-- the: 0.007741959943403045
-- patient: 0.006852735447331104
-- in: 0.006742355682244079
-- ,: 0.006497041572414897
-- a: 0.0031727984145488103
-- .: 0.002839962887787702
-- and: 0.0014400720458577476
-- with: 0.0009360334087191179
-- of: 0.0009320304063839075
+\-\ Texto\\:\\ \ \(0\)\
+\-\ multiple\\ thin\\ walled\\ cystic\\ structures\\ are\\ seen\\ throughout\\ the\\ lungs\\ on\\ high\\ resolution\\ ct\\ scanning\\.\\ \\ these\\ are\\ slightly\\ more\\ prominent\\ in\\ the\\ upper\\ lobes\\.\\ \\ no\\ fibrosis\\,\\ nodularity\\,\\ or\\ interstitial\\ thickening\\ is\\ noted\\.\\ \\ increased\\ volumes\\ are\\ seen\\ on\\ cxr\\.\ \(0\)\
+\-\ lymphangioleiomyomatosis\\ \\(lam\\)\ \(0\)\
+\-\ the\\ differential\\ is\\ extremely\\ limited\\.\\ \\ lam\\ \\(lymphangiomamyomatosis\\)\\ is\\ essentially\\ the\\ only\\ diagnosis\\.\\ \\ langerhans\\ histiocytosis\\ can\\ have\\ cystic\\ structures\\ but\\ these\\ are\\ typically\\ more\\ irregular\\ and\\ often\\ times\\ there\\ are\\ assoicated\\ small\\ nodules\\.\\ \\ centrilobular\\ emphysema\\ will\\ have\\ cysts\\ with\\ inperceptible\\ walls\\ \\(lam\\ has\\ perceptible\\,\\ thin\\ walls\\)\\ more\\ concenetrated\\ towards\\ the\\ apices\\.\ \(0\)\
+\-\ dyspnea\ \(130\)\
+\-\ no\\ angiomyolipomas\\ were\\ visible\\ in\\ the\\ kidneys\\.\\ \\ the\\ patient\\ has\\ a\\ prior\\ history\\ of\\ pneumothorax\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ lam\\:\\ 0\\.15193468258028395\ \(0\)\
+\-\ lymphangiomamyomatosis\\:\\ 0\\.07052414739173199\ \(0\)\
+\-\ assoicated\\:\\ 0\\.07052414739173199\ \(0\)\
+\-\ inperceptible\\:\\ 0\\.07052414739173199\ \(0\)\
+\-\ concenetrated\\:\\ 0\\.07052414739173199\ \(0\)\
+\-\ walls\\:\\ 0\\.06977873804340784\ \(0\)\
+\-\ perceptible\\:\\ 0\\.06173524908238711\ \(0\)\
+\-\ thin\\:\\ 0\\.056195416254518765\ \(0\)\
+\-\ structures\\:\\ 0\\.05264104775735543\ \(0\)\
+\-\ centrilobular\\:\\ 0\\.05134098520934502\ \(0\)\
+\-\ more\\:\\ 0\\.05129223142349199\ \(0\)\
+\-\ apices\\:\\ 0\\.05064489419342798\ \(0\)\
+\-\ lymphangioleiomyomatosis\\:\\ 0\\.04941168875480992\ \(0\)\
+\-\ angiomyolipomas\\:\\ 0\\.048859745782914306\ \(0\)\
+\-\ are\\:\\ 0\\.04659495490118407\ \(0\)\
+\-\ walled\\:\\ 0\\.04579580776486546\ \(0\)\
+\-\ volumes\\:\\ 0\\.04579580776486546\ \(0\)\
+\-\ nodularity\\:\\ 0\\.04305224975585082\ \(0\)\
+\-\ towards\\:\\ 0\\.04231326319480269\ \(0\)\
+\-\ scanning\\:\\ 0\\.041855995884083105\ \(0\)\
+\-\ langerhans\\:\\ 0\\.04043454646618348\ \(0\)\
+\-\ cystic\\:\\ 0\\.039434123316028136\ \(0\)\
+\-\ extremely\\:\\ 0\\.038914197643080566\ \(0\)\
+\-\ essentially\\:\\ 0\\.03832133386585079\ \(0\)\
+\-\ histiocytosis\\:\\ 0\\.038040603307360636\ \(0\)\
+\-\ emphysema\\:\\ 0\\.03737906958059973\ \(0\)\
+\-\ these\\:\\ 0\\.03558151507132544\ \(0\)\
+\-\ interstitial\\:\\ 0\\.0334463154858949\ \(0\)\
+\-\ times\\:\\ 0\\.03314151671603673\ \(0\)\
+\-\ dyspnea\\:\\ 0\\.032358670396006664\ \(0\)\
+\-\ visible\\:\\ 0\\.032358670396006664\ \(0\)\
+\-\ pneumothorax\\:\\ 0\\.03209197903386593\ \(0\)\
+\-\ kidneys\\:\\ 0\\.03146173201104102\ \(0\)\
+\-\ fibrosis\\:\\ 0\\.03043906503896194\ \(0\)\
+\-\ lobes\\:\\ 0\\.03012529933373569\ \(0\)\
+\-\ have\\:\\ 0\\.02960700925384147\ \(0\)\
+\-\ resolution\\:\\ 0\\.0294849576723474\ \(0\)\
+\-\ cxr\\:\\ 0\\.02884825816900062\ \(0\)\
+\-\ limited\\:\\ 0\\.02884825816900062\ \(0\)\
+\-\ nodules\\:\\ 0\\.028340150923222014\ \(0\)\
+\-\ prominent\\:\\ 0\\.028058005812522345\ \(0\)\
+\-\ slightly\\:\\ 0\\.027633810066056582\ \(0\)\
+\-\ irregular\\:\\ 0\\.027266773220051038\ \(0\)\
+\-\ seen\\:\\ 0\\.027018041841083043\ \(0\)\
+\-\ cysts\\:\\ 0\\.026779666262650936\ \(0\)\
+\-\ lungs\\:\\ 0\\.025886308783842207\ \(0\)\
+\-\ has\\:\\ 0\\.02567519952790845\ \(0\)\
+\-\ throughout\\:\\ 0\\.025589978610399414\ \(0\)\
+\-\ typically\\:\\ 0\\.024131406156047776\ \(0\)\
+\-\ thickening\\:\\ 0\\.023172996557546816\ \(0\)\
+\-\ often\\:\\ 0\\.02181178838815722\ \(0\)\
+\-\ differential\\:\\ 0\\.021703678634823437\ \(0\)\
+\-\ will\\:\\ 0\\.021387848147033137\ \(0\)\
+\-\ only\\:\\ 0\\.020555293267879485\ \(0\)\
+\-\ high\\:\\ 0\\.018708368488614527\ \(0\)\
+\-\ prior\\:\\ 0\\.017552902177618908\ \(0\)\
+\-\ \\(\\:\\ 0\\.017336681429852653\ \(0\)\
+\-\ \\)\\:\\ 0\\.017124904610719322\ \(0\)\
+\-\ increased\\:\\ 0\\.016723878254397247\ \(0\)\
+\-\ upper\\:\\ 0\\.016496644042949746\ \(0\)\
+\-\ noted\\:\\ 0\\.01620336950762075\ \(0\)\
+\-\ small\\:\\ 0\\.01574860227504895\ \(0\)\
+\-\ diagnosis\\:\\ 0\\.01569775464624336\ \(0\)\
+\-\ were\\:\\ 0\\.01552229069351937\ \(0\)\
+\-\ can\\:\\ 0\\.015505778819752557\ \(0\)\
+\-\ but\\:\\ 0\\.014580026408268302\ \(0\)\
+\-\ multiple\\:\\ 0\\.014398448027834151\ \(0\)\
+\-\ no\\:\\ 0\\.013767106411260832\ \(0\)\
+\-\ is\\:\\ 0\\.013494978681233415\ \(0\)\
+\-\ on\\:\\ 0\\.011582256197846849\ \(0\)\
+\-\ there\\:\\ 0\\.01017372445171991\ \(0\)\
+\-\ ct\\:\\ 0\\.009562429227136343\ \(0\)\
+\-\ history\\:\\ 0\\.009441716301656668\ \(0\)\
+\-\ or\\:\\ 0\\.00801218199170966\ \(0\)\
+\-\ the\\:\\ 0\\.007741959943403045\ \(0\)\
+\-\ patient\\:\\ 0\\.006852735447331104\ \(0\)\
+\-\ in\\:\\ 0\\.006742355682244079\ \(0\)\
+\-\ \\,\\:\\ 0\\.006497041572414897\ \(0\)\
+\-\ a\\:\\ 0\\.0031727984145488103\ \(0\)\
+\-\ \\.\\:\\ 0\\.002839962887787702\ \(0\)\
+\-\ and\\:\\ 0\\.0014400720458577476\ \(0\)\
+\-\ with\\:\\ 0\\.0009360334087191179\ \(0\)\
+\-\ of\\:\\ 0\\.0009320304063839075\ \(0\)\

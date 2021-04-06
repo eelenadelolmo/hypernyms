@@ -1,61 +1,59 @@
-Texto: 
-no focal deficits.  mild mental retardation
-resumption of proper diet and tetrahydrobiopterin therapy
-abnormal periventricular and deep white matter lesions.
-phenylketonuria
-â€¢ multiple sclerosis
-â€¢ lyme disease
-â€¢ adem
-â€¢ leukoencephalopathy nos
-19 year old woman diagnosed with pku (phenylketonuria) by newborn testing.  she has recently (about a year) not followed appropriate diet restrictions.  she now presents with seizures.
-
-
-Keywords by value: 
-- phenylketonuria: 0.4537757211675866
-- diet: 0.3086388982539764
-- resumption: 0.2268878605837933
-- tetrahydrobiopterin: 0.2268878605837933
-- pku: 0.2268878605837933
-- nos: 0.2040986255991783
-- restrictions: 0.18947967556365913
-- leukoencephalopathy: 0.17089556901882053
-- she: 0.16890875809368244
-- retardation: 0.16614379915564503
-- lyme: 0.15570153709533074
-- proper: 0.15500089404331208
-- adem: 0.15238045331865768
-- periventricular: 0.14585514353811904
-- newborn: 0.13992557921185145
-- testing: 0.1274478770322561
-- appropriate: 0.12464556212559548
-- recently: 0.12384319629963807
-- mental: 0.12364658512906046
-- deficits: 0.12194370992544246
-- seizures: 0.11581544001313852
-- 19: 0.11235182757386915
-- deep: 0.11043771539298469
-- matter: 0.10802540294194196
-- about: 0.10621212526257856
-- diagnosed: 0.10276989568594433
-- sclerosis: 0.10105396131502303
-- now: 0.0973898212917269
-- followed: 0.09580597482822625
-- white: 0.09360463071638599
-- year: 0.08744571994660509
-- abnormal: 0.08523616795732697
-- focal: 0.08486278204210267
-- therapy: 0.08151597566146376
-- lesions: 0.08148000865077384
-- mild: 0.0804244959335007
-- woman: 0.07388858914233834
-- multiple: 0.06939379832929354
-- presents: 0.06824885216127768
-- has: 0.06480403744646278
-- by: 0.06024804782410051
-- disease: 0.05955378281636802
-- and: 0.058633166195153234
-- not: 0.05600859109223024
-- with: 0.055561515611359164
-- no: 0.046135901658394506
-- old: 0.041989080617950154
-- of: 0.02776416872148433
+\-\ Texto\\:\\ \ \(0\)\
+\-\ no\\ focal\\ deficits\\.\\ \\ mild\\ mental\\ retardation\ \(0\)\
+\-\ resumption\\ of\\ proper\\ diet\\ and\\ tetrahydrobiopterin\\ therapy\ \(0\)\
+\-\ abnormal\\ periventricular\\ and\\ deep\\ white\\ matter\\ lesions\\.\ \(0\)\
+\-\ phenylketonuria\ \(1\)\
+\-\ \\â\\€\\¢\\ multiple\\ sclerosis\ \(0\)\
+\-\ \\â\\€\\¢\\ lyme\\ disease\ \(0\)\
+\-\ \\â\\€\\¢\\ adem\ \(0\)\
+\-\ \\â\\€\\¢\\ leukoencephalopathy\\ nos\ \(0\)\
+\-\ 19\\ year\\ old\\ woman\\ diagnosed\\ with\\ pku\\ \\(phenylketonuria\\)\\ by\\ newborn\\ testing\\.\\ \\ she\\ has\\ recently\\ \\(about\\ a\\ year\\)\\ not\\ followed\\ appropriate\\ diet\\ restrictions\\.\\ \\ she\\ now\\ presents\\ with\\ seizures\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ phenylketonuria\\:\\ 0\\.4537757211675866\ \(0\)\
+\-\ diet\\:\\ 0\\.3086388982539764\ \(0\)\
+\-\ resumption\\:\\ 0\\.2268878605837933\ \(0\)\
+\-\ tetrahydrobiopterin\\:\\ 0\\.2268878605837933\ \(0\)\
+\-\ pku\\:\\ 0\\.2268878605837933\ \(0\)\
+\-\ nos\\:\\ 0\\.2040986255991783\ \(0\)\
+\-\ restrictions\\:\\ 0\\.18947967556365913\ \(0\)\
+\-\ leukoencephalopathy\\:\\ 0\\.17089556901882053\ \(0\)\
+\-\ she\\:\\ 0\\.16890875809368244\ \(0\)\
+\-\ retardation\\:\\ 0\\.16614379915564503\ \(0\)\
+\-\ lyme\\:\\ 0\\.15570153709533074\ \(0\)\
+\-\ proper\\:\\ 0\\.15500089404331208\ \(0\)\
+\-\ adem\\:\\ 0\\.15238045331865768\ \(0\)\
+\-\ periventricular\\:\\ 0\\.14585514353811904\ \(0\)\
+\-\ newborn\\:\\ 0\\.13992557921185145\ \(0\)\
+\-\ testing\\:\\ 0\\.1274478770322561\ \(0\)\
+\-\ appropriate\\:\\ 0\\.12464556212559548\ \(0\)\
+\-\ recently\\:\\ 0\\.12384319629963807\ \(0\)\
+\-\ mental\\:\\ 0\\.12364658512906046\ \(0\)\
+\-\ deficits\\:\\ 0\\.12194370992544246\ \(0\)\
+\-\ seizures\\:\\ 0\\.11581544001313852\ \(0\)\
+\-\ 19\\:\\ 0\\.11235182757386915\ \(0\)\
+\-\ deep\\:\\ 0\\.11043771539298469\ \(0\)\
+\-\ matter\\:\\ 0\\.10802540294194196\ \(0\)\
+\-\ about\\:\\ 0\\.10621212526257856\ \(0\)\
+\-\ diagnosed\\:\\ 0\\.10276989568594433\ \(0\)\
+\-\ sclerosis\\:\\ 0\\.10105396131502303\ \(0\)\
+\-\ now\\:\\ 0\\.0973898212917269\ \(0\)\
+\-\ followed\\:\\ 0\\.09580597482822625\ \(0\)\
+\-\ white\\:\\ 0\\.09360463071638599\ \(0\)\
+\-\ year\\:\\ 0\\.08744571994660509\ \(0\)\
+\-\ abnormal\\:\\ 0\\.08523616795732697\ \(0\)\
+\-\ focal\\:\\ 0\\.08486278204210267\ \(0\)\
+\-\ therapy\\:\\ 0\\.08151597566146376\ \(0\)\
+\-\ lesions\\:\\ 0\\.08148000865077384\ \(0\)\
+\-\ mild\\:\\ 0\\.0804244959335007\ \(0\)\
+\-\ woman\\:\\ 0\\.07388858914233834\ \(0\)\
+\-\ multiple\\:\\ 0\\.06939379832929354\ \(0\)\
+\-\ presents\\:\\ 0\\.06824885216127768\ \(0\)\
+\-\ has\\:\\ 0\\.06480403744646278\ \(0\)\
+\-\ by\\:\\ 0\\.06024804782410051\ \(0\)\
+\-\ disease\\:\\ 0\\.05955378281636802\ \(0\)\
+\-\ and\\:\\ 0\\.058633166195153234\ \(0\)\
+\-\ not\\:\\ 0\\.05600859109223024\ \(0\)\
+\-\ with\\:\\ 0\\.055561515611359164\ \(0\)\
+\-\ no\\:\\ 0\\.046135901658394506\ \(0\)\
+\-\ old\\:\\ 0\\.041989080617950154\ \(0\)\
+\-\ of\\:\\ 0\\.02776416872148433\ \(0\)\

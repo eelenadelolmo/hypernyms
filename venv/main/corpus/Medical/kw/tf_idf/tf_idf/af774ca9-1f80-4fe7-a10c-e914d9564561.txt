@@ -1,74 +1,72 @@
-Texto: 
-indurated, right testicular mass.
-with concern for malignancy, subsequent ct of the abdomen and pelvis was perform and showed no metastatic disease.  patient went to surgery with complete orchiectomy, from which the diagnosis of abscess was made.
-ill-defined hypoechoic solid extratesticular mass inferior to the testicle, which demonstrates internal vascularity.
-acute epididymitis and orchitis with testicular abscess formation
-primary neoplasm
-metastatic disease
-lymphoma
-abscess
-tuberculosis
-sarcoidosis
-67 year old male with painless, enlarging scrotal mass
-
-
-Keywords by value: 
-- testicular: 0.10439765774102819
-- abscess: 0.09649415157622382
-- extratesticular: 0.0836161780326005
-- epididymitis: 0.07753492060681491
-- indurated: 0.07536442588307735
-- orchitis: 0.07270795503409866
-- orchiectomy: 0.06615978435648828
-- 67: 0.061031416307768586
-- scrotal: 0.06017045605086828
-- perform: 0.0583749454587899
-- ill-defined: 0.05745874258812171
-- testicle: 0.05660804063595332
-- vascularity: 0.056204450735052355
-- went: 0.05420045889196646
-- enlarging: 0.05178107506323708
-- metastatic: 0.05121689056228786
-- painless: 0.05111583151092212
-- concern: 0.050609169434507884
-- tuberculosis: 0.04845936066194343
-- hypoechoic: 0.046375446406409206
-- sarcoidosis: 0.0459487067424433
-- mass: 0.042445035962413016
-- formation: 0.04199108801514242
-- solid: 0.040575555386980704
-- made: 0.04052229014418403
-- subsequent: 0.039602151164402515
-- malignancy: 0.039310591402398995
-- which: 0.03797963302958449
-- pelvis: 0.036965373887995576
-- complete: 0.03580209445221493
-- neoplasm: 0.034644721141808665
-- inferior: 0.03451567096856027
-- internal: 0.034105665135461566
-- showed: 0.033354800808615435
-- disease: 0.03325565574323105
-- abdomen: 0.030135526939234478
-- primary: 0.030135526939234478
-- lymphoma: 0.029073793266541494
-- acute: 0.02511761106079161
-- surgery: 0.024702369813812797
-- was: 0.02353041719556397
-- diagnosis: 0.02335975393786214
-- demonstrates: 0.022221680972061737
-- male: 0.018395304022469916
-- ,: 0.01611369437602901
-- from: 0.015076615632788242
-- ct: 0.014229805397524319
-- year: 0.011382205586582317
-- right: 0.010733710822743055
-- old: 0.010415888057883982
-- no: 0.010243382746473833
-- patient: 0.010197522987099856
-- to: 0.010168288296261577
-- for: 0.008679858912413276
-- and: 0.006428893061864944
-- with: 0.0055716274328518915
-- the: 0.004937474453700921
-- of: 0.0027739000189997243
-- .: 0.001690454099873632
+\-\ Texto\\:\\ \ \(0\)\
+\-\ indurated\\,\\ right\\ testicular\\ mass\\.\ \(0\)\
+\-\ with\\ concern\\ for\\ malignancy\\,\\ subsequent\\ ct\\ of\\ the\\ abdomen\\ and\\ pelvis\\ was\\ perform\\ and\\ showed\\ no\\ metastatic\\ disease\\.\\ \\ patient\\ went\\ to\\ surgery\\ with\\ complete\\ orchiectomy\\,\\ from\\ which\\ the\\ diagnosis\\ of\\ abscess\\ was\\ made\\.\ \(0\)\
+\-\ ill\\-defined\\ hypoechoic\\ solid\\ extratesticular\\ mass\\ inferior\\ to\\ the\\ testicle\\,\\ which\\ demonstrates\\ internal\\ vascularity\\.\ \(0\)\
+\-\ acute\\ epididymitis\\ and\\ orchitis\\ with\\ testicular\\ abscess\\ formation\ \(0\)\
+\-\ primary\\ neoplasm\ \(4\)\
+\-\ metastatic\\ disease\ \(243\)\
+\-\ lymphoma\ \(373\)\
+\-\ abscess\ \(594\)\
+\-\ tuberculosis\ \(73\)\
+\-\ sarcoidosis\ \(108\)\
+\-\ 67\\ year\\ old\\ male\\ with\\ painless\\,\\ enlarging\\ scrotal\\ mass\ \(1\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ testicular\\:\\ 0\\.10439765774102819\ \(0\)\
+\-\ abscess\\:\\ 0\\.09649415157622382\ \(0\)\
+\-\ extratesticular\\:\\ 0\\.0836161780326005\ \(0\)\
+\-\ epididymitis\\:\\ 0\\.07753492060681491\ \(0\)\
+\-\ indurated\\:\\ 0\\.07536442588307735\ \(0\)\
+\-\ orchitis\\:\\ 0\\.07270795503409866\ \(0\)\
+\-\ orchiectomy\\:\\ 0\\.06615978435648828\ \(0\)\
+\-\ 67\\:\\ 0\\.061031416307768586\ \(0\)\
+\-\ scrotal\\:\\ 0\\.06017045605086828\ \(0\)\
+\-\ perform\\:\\ 0\\.0583749454587899\ \(0\)\
+\-\ ill\\-defined\\:\\ 0\\.05745874258812171\ \(0\)\
+\-\ testicle\\:\\ 0\\.05660804063595332\ \(0\)\
+\-\ vascularity\\:\\ 0\\.056204450735052355\ \(0\)\
+\-\ went\\:\\ 0\\.05420045889196646\ \(0\)\
+\-\ enlarging\\:\\ 0\\.05178107506323708\ \(0\)\
+\-\ metastatic\\:\\ 0\\.05121689056228786\ \(0\)\
+\-\ painless\\:\\ 0\\.05111583151092212\ \(0\)\
+\-\ concern\\:\\ 0\\.050609169434507884\ \(0\)\
+\-\ tuberculosis\\:\\ 0\\.04845936066194343\ \(0\)\
+\-\ hypoechoic\\:\\ 0\\.046375446406409206\ \(0\)\
+\-\ sarcoidosis\\:\\ 0\\.0459487067424433\ \(0\)\
+\-\ mass\\:\\ 0\\.042445035962413016\ \(0\)\
+\-\ formation\\:\\ 0\\.04199108801514242\ \(0\)\
+\-\ solid\\:\\ 0\\.040575555386980704\ \(0\)\
+\-\ made\\:\\ 0\\.04052229014418403\ \(0\)\
+\-\ subsequent\\:\\ 0\\.039602151164402515\ \(0\)\
+\-\ malignancy\\:\\ 0\\.039310591402398995\ \(0\)\
+\-\ which\\:\\ 0\\.03797963302958449\ \(0\)\
+\-\ pelvis\\:\\ 0\\.036965373887995576\ \(0\)\
+\-\ complete\\:\\ 0\\.03580209445221493\ \(0\)\
+\-\ neoplasm\\:\\ 0\\.034644721141808665\ \(0\)\
+\-\ inferior\\:\\ 0\\.03451567096856027\ \(0\)\
+\-\ internal\\:\\ 0\\.034105665135461566\ \(0\)\
+\-\ showed\\:\\ 0\\.033354800808615435\ \(0\)\
+\-\ disease\\:\\ 0\\.03325565574323105\ \(0\)\
+\-\ abdomen\\:\\ 0\\.030135526939234478\ \(0\)\
+\-\ primary\\:\\ 0\\.030135526939234478\ \(0\)\
+\-\ lymphoma\\:\\ 0\\.029073793266541494\ \(0\)\
+\-\ acute\\:\\ 0\\.02511761106079161\ \(0\)\
+\-\ surgery\\:\\ 0\\.024702369813812797\ \(0\)\
+\-\ was\\:\\ 0\\.02353041719556397\ \(0\)\
+\-\ diagnosis\\:\\ 0\\.02335975393786214\ \(0\)\
+\-\ demonstrates\\:\\ 0\\.022221680972061737\ \(0\)\
+\-\ male\\:\\ 0\\.018395304022469916\ \(0\)\
+\-\ \\,\\:\\ 0\\.01611369437602901\ \(0\)\
+\-\ from\\:\\ 0\\.015076615632788242\ \(0\)\
+\-\ ct\\:\\ 0\\.014229805397524319\ \(0\)\
+\-\ year\\:\\ 0\\.011382205586582317\ \(0\)\
+\-\ right\\:\\ 0\\.010733710822743055\ \(0\)\
+\-\ old\\:\\ 0\\.010415888057883982\ \(0\)\
+\-\ no\\:\\ 0\\.010243382746473833\ \(0\)\
+\-\ patient\\:\\ 0\\.010197522987099856\ \(0\)\
+\-\ to\\:\\ 0\\.010168288296261577\ \(0\)\
+\-\ for\\:\\ 0\\.008679858912413276\ \(0\)\
+\-\ and\\:\\ 0\\.006428893061864944\ \(0\)\
+\-\ with\\:\\ 0\\.0055716274328518915\ \(0\)\
+\-\ the\\:\\ 0\\.004937474453700921\ \(0\)\
+\-\ of\\:\\ 0\\.0027739000189997243\ \(0\)\
+\-\ \\.\\:\\ 0\\.001690454099873632\ \(0\)\

@@ -1,129 +1,125 @@
-Texto: 
-physical exam of right breast demonstrates a firm mobile nontender lump in the upper outer quadrant of the right breast
-no treatment is indicated. the patient was otherwise asymptomatic and had no anxiety concerning the cyst.
-mammographic images demonstrate a well defined, spherical, lucent mass with a thin calcified rim within the breast parenchyma.
-
-ultrasound images demonstrate a well defined hypoechoic ovoid mass with a thin capsule, edge shadows, and no posterior acoustic enhancement.
-
-mri demonstrates a well defined, nonenhancing mass with a thin capsule with fat signal content characteristics.
-liponecrosis macrocystica calcificans (oil cyst)
-oil cyst (fat necrosis)
-lipoma
-harmartoma (fibroadenolipoma)
-31 year old female presents for diagnostic mammogram for palpable right breast lump. patient states mass enlarging over past 11-12 months during pregnancy however stable to slightly decreased in size since cessation of lactation 2 months prior.
-although, the mri examination confirmed the lipid content and benign nature of the mass, stopping the evaluation with only the mammogram and ultrasound findings could also be justified.
-
-
-Keywords by value: 
-- breast: 0.06707570093256494
-- oil: 0.06570703291863021
-- content: 0.06139357432173484
-- defined: 0.05745610637804541
-- thin: 0.05604596036022482
-- lump: 0.0530518832710362
-- capsule: 0.04921131576531992
-- mammogram: 0.04743414465188198
-- liponecrosis: 0.04689105544663031
-- macrocystica: 0.04689105544663031
-- calcificans: 0.04689105544663031
-- 11-12: 0.04689105544663031
-- harmartoma: 0.04104737306009781
-- lactation: 0.04104737306009781
-- justified: 0.04104737306009781
-- fibroadenolipoma: 0.039517149270460676
-- cyst: 0.036644220255735674
-- stopping: 0.03520369067356531
-- shadows: 0.034136293357277275
-- mammographic: 0.032853516459315106
-- spherical: 0.03182077170165044
-- mass: 0.03160800550392459
-- lipid: 0.030956309310704824
-- well: 0.0308470364835423
-- nonenhancing: 0.03044934026919246
-- anxiety: 0.029769375527118603
-- cessation: 0.02862516606107102
-- fat: 0.027648003434910993
-- ultrasound: 0.026969389202194716
-- mobile: 0.02587380162438867
-- edge: 0.025479610283145472
-- acoustic: 0.025479610283145472
-- ovoid: 0.02502470510528291
-- months: 0.0248291627094688
-- lucent: 0.02429267649955925
-- outer: 0.024142831409310866
-- concerning: 0.0238552398068094
-- 31: 0.0238552398068094
-- nontender: 0.023322880984697786
-- enlarging: 0.023136225028254864
-- characteristics: 0.022612607619673736
-- firm: 0.02229013622703312
-- nature: 0.021515073401600176
-- states: 0.021381531267924237
-- lipoma: 0.02125125988490139
-- demonstrate: 0.02091970363120256
-- mri: 0.02088591335015553
-- hypoechoic: 0.0207209441390339
-- demonstrates: 0.019857672358012616
-- indicated: 0.019667684103987997
-- pregnancy: 0.01954178120991403
-- calcified: 0.019510765676345986
-- parenchyma: 0.019358344103152493
-- rim: 0.019239475493088683
-- stable: 0.018735178719372372
-- slightly: 0.018373543926899324
-- diagnostic: 0.0180115574202769
-- necrosis: 0.017942025071514385
-- images: 0.017438977573929298
-- confirmed: 0.01709255108024892
-- could: 0.016768925233141236
-- since: 0.01669555649839477
-- otherwise: 0.01632614485865077
-- palpable: 0.016109686396807398
-- quadrant: 0.015996680499925822
-- benign: 0.015686438122517028
-- asymptomatic: 0.015364853180830251
-- although: 0.01535068766264151
-- size: 0.015238701443504104
-- a: 0.01476701389750111
-- past: 0.014442550382693799
-- right: 0.014387740038996009
-- examination: 0.014129909763162581
-- during: 0.013909623669807488
-- no: 0.013730491766550031
-- only: 0.013667083289813487
-- decreased: 0.013514661716619997
-- evaluation: 0.013203397850142594
-- however: 0.012656213061686544
-- enhancement: 0.01218345088363317
-- signal: 0.011984437926982864
-- prior: 0.011670812618097678
-- over: 0.011572566968829587
-- (: 0.011527048823040327
-- ): 0.011386239767765505
-- physical: 0.011151623774368288
-- upper: 0.010968513326429353
-- posterior: 0.010476800790970471
-- ,: 0.010079630099047934
-- exam: 0.009985286914625203
-- had: 0.009807711804471852
-- 2: 0.009787789875056097
-- findings: 0.009674664552074254
-- female: 0.009344469528977838
-- presents: 0.009285341997382584
-- treatment: 0.009200090210643016
-- patient: 0.009112680116131786
-- also: 0.00896074251952208
-- within: 0.008670911746734476
-- for: 0.0077564696664118625
-- the: 0.0073536853565758405
-- be: 0.0070093442731060055
-- was: 0.005256795330923866
-- year: 0.005085666325919759
-- old: 0.0046539074301183755
-- in: 0.004482949256811222
-- and: 0.0038299788453663498
-- with: 0.0031118131938800463
-- is: 0.0029909083956634343
-- of: 0.002478804272297626
-- to: 0.0022716388746967355
-- .: 0.001510618557333884
+\-\ Texto\\:\\ \ \(0\)\
+\-\ physical\\ exam\\ of\\ right\\ breast\\ demonstrates\\ a\\ firm\\ mobile\\ nontender\\ lump\\ in\\ the\\ upper\\ outer\\ quadrant\\ of\\ the\\ right\\ breast\ \(0\)\
+\-\ no\\ treatment\\ is\\ indicated\\.\\ the\\ patient\\ was\\ otherwise\\ asymptomatic\\ and\\ had\\ no\\ anxiety\\ concerning\\ the\\ cyst\\.\ \(0\)\
+\-\ mammographic\\ images\\ demonstrate\\ a\\ well\\ defined\\,\\ spherical\\,\\ lucent\\ mass\\ with\\ a\\ thin\\ calcified\\ rim\\ within\\ the\\ breast\\ parenchyma\\.\ \(0\)\
+\-\ ultrasound\\ images\\ demonstrate\\ a\\ well\\ defined\\ hypoechoic\\ ovoid\\ mass\\ with\\ a\\ thin\\ capsule\\,\\ edge\\ shadows\\,\\ and\\ no\\ posterior\\ acoustic\\ enhancement\\.\ \(0\)\
+\-\ mri\\ demonstrates\\ a\\ well\\ defined\\,\\ nonenhancing\\ mass\\ with\\ a\\ thin\\ capsule\\ with\\ fat\\ signal\\ content\\ characteristics\\.\ \(0\)\
+\-\ liponecrosis\\ macrocystica\\ calcificans\\ \\(oil\\ cyst\\)\ \(0\)\
+\-\ oil\\ cyst\\ \\(fat\\ necrosis\\)\ \(0\)\
+\-\ lipoma\ \(291\)\
+\-\ harmartoma\\ \\(fibroadenolipoma\\)\ \(0\)\
+\-\ 31\\ year\\ old\\ female\\ presents\\ for\\ diagnostic\\ mammogram\\ for\\ palpable\\ right\\ breast\\ lump\\.\\ patient\\ states\\ mass\\ enlarging\\ over\\ past\\ 11\\-12\\ months\\ during\\ pregnancy\\ however\\ stable\\ to\\ slightly\\ decreased\\ in\\ size\\ since\\ cessation\\ of\\ lactation\\ 2\\ months\\ prior\\.\ \(0\)\
+\-\ although\\,\\ the\\ mri\\ examination\\ confirmed\\ the\\ lipid\\ content\\ and\\ benign\\ nature\\ of\\ the\\ mass\\,\\ stopping\\ the\\ evaluation\\ with\\ only\\ the\\ mammogram\\ and\\ ultrasound\\ findings\\ could\\ also\\ be\\ justified\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ breast\\:\\ 0\\.06707570093256494\ \(0\)\
+\-\ oil\\:\\ 0\\.06570703291863021\ \(0\)\
+\-\ content\\:\\ 0\\.06139357432173484\ \(0\)\
+\-\ defined\\:\\ 0\\.05745610637804541\ \(0\)\
+\-\ thin\\:\\ 0\\.05604596036022482\ \(0\)\
+\-\ lump\\:\\ 0\\.0530518832710362\ \(0\)\
+\-\ capsule\\:\\ 0\\.04921131576531992\ \(0\)\
+\-\ mammogram\\:\\ 0\\.04743414465188198\ \(0\)\
+\-\ liponecrosis\\:\\ 0\\.04689105544663031\ \(0\)\
+\-\ macrocystica\\:\\ 0\\.04689105544663031\ \(0\)\
+\-\ calcificans\\:\\ 0\\.04689105544663031\ \(0\)\
+\-\ 11\\-12\\:\\ 0\\.04689105544663031\ \(0\)\
+\-\ harmartoma\\:\\ 0\\.04104737306009781\ \(0\)\
+\-\ lactation\\:\\ 0\\.04104737306009781\ \(0\)\
+\-\ justified\\:\\ 0\\.04104737306009781\ \(0\)\
+\-\ fibroadenolipoma\\:\\ 0\\.039517149270460676\ \(0\)\
+\-\ cyst\\:\\ 0\\.036644220255735674\ \(0\)\
+\-\ stopping\\:\\ 0\\.03520369067356531\ \(0\)\
+\-\ shadows\\:\\ 0\\.034136293357277275\ \(0\)\
+\-\ mammographic\\:\\ 0\\.032853516459315106\ \(0\)\
+\-\ spherical\\:\\ 0\\.03182077170165044\ \(0\)\
+\-\ mass\\:\\ 0\\.03160800550392459\ \(0\)\
+\-\ lipid\\:\\ 0\\.030956309310704824\ \(0\)\
+\-\ well\\:\\ 0\\.0308470364835423\ \(0\)\
+\-\ nonenhancing\\:\\ 0\\.03044934026919246\ \(0\)\
+\-\ anxiety\\:\\ 0\\.029769375527118603\ \(0\)\
+\-\ cessation\\:\\ 0\\.02862516606107102\ \(0\)\
+\-\ fat\\:\\ 0\\.027648003434910993\ \(0\)\
+\-\ ultrasound\\:\\ 0\\.026969389202194716\ \(0\)\
+\-\ mobile\\:\\ 0\\.02587380162438867\ \(0\)\
+\-\ edge\\:\\ 0\\.025479610283145472\ \(0\)\
+\-\ acoustic\\:\\ 0\\.025479610283145472\ \(0\)\
+\-\ ovoid\\:\\ 0\\.02502470510528291\ \(0\)\
+\-\ months\\:\\ 0\\.0248291627094688\ \(0\)\
+\-\ lucent\\:\\ 0\\.02429267649955925\ \(0\)\
+\-\ outer\\:\\ 0\\.024142831409310866\ \(0\)\
+\-\ concerning\\:\\ 0\\.0238552398068094\ \(0\)\
+\-\ 31\\:\\ 0\\.0238552398068094\ \(0\)\
+\-\ nontender\\:\\ 0\\.023322880984697786\ \(0\)\
+\-\ enlarging\\:\\ 0\\.023136225028254864\ \(0\)\
+\-\ characteristics\\:\\ 0\\.022612607619673736\ \(0\)\
+\-\ firm\\:\\ 0\\.02229013622703312\ \(0\)\
+\-\ nature\\:\\ 0\\.021515073401600176\ \(0\)\
+\-\ states\\:\\ 0\\.021381531267924237\ \(0\)\
+\-\ lipoma\\:\\ 0\\.02125125988490139\ \(0\)\
+\-\ demonstrate\\:\\ 0\\.02091970363120256\ \(0\)\
+\-\ mri\\:\\ 0\\.02088591335015553\ \(0\)\
+\-\ hypoechoic\\:\\ 0\\.0207209441390339\ \(0\)\
+\-\ demonstrates\\:\\ 0\\.019857672358012616\ \(0\)\
+\-\ indicated\\:\\ 0\\.019667684103987997\ \(0\)\
+\-\ pregnancy\\:\\ 0\\.01954178120991403\ \(0\)\
+\-\ calcified\\:\\ 0\\.019510765676345986\ \(0\)\
+\-\ parenchyma\\:\\ 0\\.019358344103152493\ \(0\)\
+\-\ rim\\:\\ 0\\.019239475493088683\ \(0\)\
+\-\ stable\\:\\ 0\\.018735178719372372\ \(0\)\
+\-\ slightly\\:\\ 0\\.018373543926899324\ \(0\)\
+\-\ diagnostic\\:\\ 0\\.0180115574202769\ \(0\)\
+\-\ necrosis\\:\\ 0\\.017942025071514385\ \(0\)\
+\-\ images\\:\\ 0\\.017438977573929298\ \(0\)\
+\-\ confirmed\\:\\ 0\\.01709255108024892\ \(0\)\
+\-\ could\\:\\ 0\\.016768925233141236\ \(0\)\
+\-\ since\\:\\ 0\\.01669555649839477\ \(0\)\
+\-\ otherwise\\:\\ 0\\.01632614485865077\ \(0\)\
+\-\ palpable\\:\\ 0\\.016109686396807398\ \(0\)\
+\-\ quadrant\\:\\ 0\\.015996680499925822\ \(0\)\
+\-\ benign\\:\\ 0\\.015686438122517028\ \(0\)\
+\-\ asymptomatic\\:\\ 0\\.015364853180830251\ \(0\)\
+\-\ although\\:\\ 0\\.01535068766264151\ \(0\)\
+\-\ size\\:\\ 0\\.015238701443504104\ \(0\)\
+\-\ a\\:\\ 0\\.01476701389750111\ \(0\)\
+\-\ past\\:\\ 0\\.014442550382693799\ \(0\)\
+\-\ right\\:\\ 0\\.014387740038996009\ \(0\)\
+\-\ examination\\:\\ 0\\.014129909763162581\ \(0\)\
+\-\ during\\:\\ 0\\.013909623669807488\ \(0\)\
+\-\ no\\:\\ 0\\.013730491766550031\ \(0\)\
+\-\ only\\:\\ 0\\.013667083289813487\ \(0\)\
+\-\ decreased\\:\\ 0\\.013514661716619997\ \(0\)\
+\-\ evaluation\\:\\ 0\\.013203397850142594\ \(0\)\
+\-\ however\\:\\ 0\\.012656213061686544\ \(0\)\
+\-\ enhancement\\:\\ 0\\.01218345088363317\ \(0\)\
+\-\ signal\\:\\ 0\\.011984437926982864\ \(0\)\
+\-\ prior\\:\\ 0\\.011670812618097678\ \(0\)\
+\-\ over\\:\\ 0\\.011572566968829587\ \(0\)\
+\-\ \\(\\:\\ 0\\.011527048823040327\ \(0\)\
+\-\ \\)\\:\\ 0\\.011386239767765505\ \(0\)\
+\-\ physical\\:\\ 0\\.011151623774368288\ \(0\)\
+\-\ upper\\:\\ 0\\.010968513326429353\ \(0\)\
+\-\ posterior\\:\\ 0\\.010476800790970471\ \(0\)\
+\-\ \\,\\:\\ 0\\.010079630099047934\ \(0\)\
+\-\ exam\\:\\ 0\\.009985286914625203\ \(0\)\
+\-\ had\\:\\ 0\\.009807711804471852\ \(0\)\
+\-\ 2\\:\\ 0\\.009787789875056097\ \(0\)\
+\-\ findings\\:\\ 0\\.009674664552074254\ \(0\)\
+\-\ female\\:\\ 0\\.009344469528977838\ \(0\)\
+\-\ presents\\:\\ 0\\.009285341997382584\ \(0\)\
+\-\ treatment\\:\\ 0\\.009200090210643016\ \(0\)\
+\-\ patient\\:\\ 0\\.009112680116131786\ \(0\)\
+\-\ also\\:\\ 0\\.00896074251952208\ \(0\)\
+\-\ within\\:\\ 0\\.008670911746734476\ \(0\)\
+\-\ for\\:\\ 0\\.0077564696664118625\ \(0\)\
+\-\ the\\:\\ 0\\.0073536853565758405\ \(0\)\
+\-\ be\\:\\ 0\\.0070093442731060055\ \(0\)\
+\-\ was\\:\\ 0\\.005256795330923866\ \(0\)\
+\-\ year\\:\\ 0\\.005085666325919759\ \(0\)\
+\-\ old\\:\\ 0\\.0046539074301183755\ \(0\)\
+\-\ in\\:\\ 0\\.004482949256811222\ \(0\)\
+\-\ and\\:\\ 0\\.0038299788453663498\ \(0\)\
+\-\ with\\:\\ 0\\.0031118131938800463\ \(0\)\
+\-\ is\\:\\ 0\\.0029909083956634343\ \(0\)\
+\-\ of\\:\\ 0\\.002478804272297626\ \(0\)\
+\-\ to\\:\\ 0\\.0022716388746967355\ \(0\)\
+\-\ \\.\\:\\ 0\\.001510618557333884\ \(0\)\

@@ -1,74 +1,71 @@
-Texto: 
-loud systolic ejection murmur at left sternal border.
-echocardiogram revealed normal segmental anatomy, significant dilated ra, normal la,
-normal rv size with rvh, rvot patent,normal lv, thickened doming pv with critical pulm stenosis,large pda (cont l to r),5mm pfo, and mod-severe tr.
-
-underwent balloon septoplasty
-massive cadiomegaly with decreased to normal pulmonary arterial flow.
-critical pulmonary stenosis with intact ventricular septum diagnosed by echocardiogram and cardiac catheterization.
-ebstein's anomaly
-pulmonary atresia with intact ventricular septum
-term newborn with cyanosis at birth.
-
-
-Keywords by value: 
-- critical: 0.23226090021676066
-- echocardiogram: 0.22190949043476044
-- normal: 0.21502692009003516
-- septum: 0.19799081816360567
-- pulmonary: 0.19260980648262918
-- ventricular: 0.1772020042008891
-- rvot: 0.168445017913903
-- doming: 0.168445017913903
-- cont: 0.168445017913903
-- septoplasty: 0.168445017913903
-- cadiomegaly: 0.168445017913903
-- rvh: 0.16095820724523308
-- pv: 0.16095820724523308
-- stenosis: 0.160244581880361
-- loud: 0.1556462305396012
-- intact: 0.15247048743125416
-- pfo: 0.14815941987093123
-- ebstein: 0.1453130665565899
-- rv: 0.1406726092022613
-- la: 0.13872715392902196
-- tr: 0.13696727556532928
-- lv: 0.12892923748268215
-- pda: 0.12502746851361812
-- with: 0.12374915698527483
-- ejection: 0.12038701115928951
-- pulm: 0.12038701115928951
-- catheterization: 0.11906753946316787
-- sternal: 0.11844155588605018
-- balloon: 0.11015180362391544
-- cyanosis: 0.10938232782497496
-- massive: 0.108285089395692
-- systolic: 0.10595310770050814
-- atresia: 0.10445108104239391
-- ra: 0.10416480015941458
-- newborn: 0.10388289014805568
-- murmur: 0.09987484896003168
-- segmental: 0.09987484896003168
-- anatomy: 0.09987484896003168
-- anomaly: 0.09639607947938572
-- patent: 0.09548630202139016
-- birth: 0.0941179170593826
-- border: 0.09315432032620631
-- thickened: 0.08884720237555657
-- arterial: 0.08674134401410978
-- term: 0.08259895453931818
-- at: 0.07956867373192189
-- cardiac: 0.07821550530845515
-- diagnosed: 0.07629794240770137
-- dilated: 0.07543896208511071
-- underwent: 0.07255838309447477
-- size: 0.0713186728488333
-- flow: 0.07015698497515062
-- revealed: 0.06906407743531504
-- decreased: 0.06524333875350023
-- significant: 0.060815011374895624
-- large: 0.052775376064872
-- to: 0.052664404083480935
-- by: 0.04472907218965247
-- and: 0.04353015936894475
-- left: 0.035930235998607646
+\-\ Texto\\:\\ \ \(0\)\
+\-\ loud\\ systolic\\ ejection\\ murmur\\ at\\ left\\ sternal\\ border\\.\ \(0\)\
+\-\ echocardiogram\\ revealed\\ normal\\ segmental\\ anatomy\\,\\ significant\\ dilated\\ ra\\,\\ normal\\ la\\,\ \(0\)\
+\-\ normal\\ rv\\ size\\ with\\ rvh\\,\\ rvot\\ patent\\,normal\\ lv\\,\\ thickened\\ doming\\ pv\\ with\\ critical\\ pulm\\ stenosis\\,large\\ pda\\ \\(cont\\ l\\ to\\ r\\)\\,5mm\\ pfo\\,\\ and\\ mod\\-severe\\ tr\\.\ \(0\)\
+\-\ underwent\\ balloon\\ septoplasty\ \(0\)\
+\-\ massive\\ cadiomegaly\\ with\\ decreased\\ to\\ normal\\ pulmonary\\ arterial\\ flow\\.\ \(0\)\
+\-\ critical\\ pulmonary\\ stenosis\\ with\\ intact\\ ventricular\\ septum\\ diagnosed\\ by\\ echocardiogram\\ and\\ cardiac\\ catheterization\\.\ \(0\)\
+\-\ ebstein\\'s\\ anomaly\ \(0\)\
+\-\ pulmonary\\ atresia\\ with\\ intact\\ ventricular\\ septum\ \(0\)\
+\-\ term\\ newborn\\ with\\ cyanosis\\ at\\ birth\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ critical\\:\\ 0\\.23226090021676066\ \(0\)\
+\-\ echocardiogram\\:\\ 0\\.22190949043476044\ \(0\)\
+\-\ normal\\:\\ 0\\.21502692009003516\ \(0\)\
+\-\ septum\\:\\ 0\\.19799081816360567\ \(0\)\
+\-\ pulmonary\\:\\ 0\\.19260980648262918\ \(0\)\
+\-\ ventricular\\:\\ 0\\.1772020042008891\ \(0\)\
+\-\ rvot\\:\\ 0\\.168445017913903\ \(0\)\
+\-\ doming\\:\\ 0\\.168445017913903\ \(0\)\
+\-\ cont\\:\\ 0\\.168445017913903\ \(0\)\
+\-\ septoplasty\\:\\ 0\\.168445017913903\ \(0\)\
+\-\ cadiomegaly\\:\\ 0\\.168445017913903\ \(0\)\
+\-\ rvh\\:\\ 0\\.16095820724523308\ \(0\)\
+\-\ pv\\:\\ 0\\.16095820724523308\ \(0\)\
+\-\ stenosis\\:\\ 0\\.160244581880361\ \(0\)\
+\-\ loud\\:\\ 0\\.1556462305396012\ \(0\)\
+\-\ intact\\:\\ 0\\.15247048743125416\ \(0\)\
+\-\ pfo\\:\\ 0\\.14815941987093123\ \(0\)\
+\-\ ebstein\\:\\ 0\\.1453130665565899\ \(0\)\
+\-\ rv\\:\\ 0\\.1406726092022613\ \(0\)\
+\-\ la\\:\\ 0\\.13872715392902196\ \(0\)\
+\-\ tr\\:\\ 0\\.13696727556532928\ \(0\)\
+\-\ lv\\:\\ 0\\.12892923748268215\ \(0\)\
+\-\ pda\\:\\ 0\\.12502746851361812\ \(0\)\
+\-\ with\\:\\ 0\\.12374915698527483\ \(0\)\
+\-\ ejection\\:\\ 0\\.12038701115928951\ \(0\)\
+\-\ pulm\\:\\ 0\\.12038701115928951\ \(0\)\
+\-\ catheterization\\:\\ 0\\.11906753946316787\ \(0\)\
+\-\ sternal\\:\\ 0\\.11844155588605018\ \(0\)\
+\-\ balloon\\:\\ 0\\.11015180362391544\ \(0\)\
+\-\ cyanosis\\:\\ 0\\.10938232782497496\ \(0\)\
+\-\ massive\\:\\ 0\\.108285089395692\ \(0\)\
+\-\ systolic\\:\\ 0\\.10595310770050814\ \(0\)\
+\-\ atresia\\:\\ 0\\.10445108104239391\ \(0\)\
+\-\ ra\\:\\ 0\\.10416480015941458\ \(0\)\
+\-\ newborn\\:\\ 0\\.10388289014805568\ \(0\)\
+\-\ murmur\\:\\ 0\\.09987484896003168\ \(0\)\
+\-\ segmental\\:\\ 0\\.09987484896003168\ \(0\)\
+\-\ anatomy\\:\\ 0\\.09987484896003168\ \(0\)\
+\-\ anomaly\\:\\ 0\\.09639607947938572\ \(0\)\
+\-\ patent\\:\\ 0\\.09548630202139016\ \(0\)\
+\-\ birth\\:\\ 0\\.0941179170593826\ \(0\)\
+\-\ border\\:\\ 0\\.09315432032620631\ \(0\)\
+\-\ thickened\\:\\ 0\\.08884720237555657\ \(0\)\
+\-\ arterial\\:\\ 0\\.08674134401410978\ \(0\)\
+\-\ term\\:\\ 0\\.08259895453931818\ \(0\)\
+\-\ at\\:\\ 0\\.07956867373192189\ \(0\)\
+\-\ cardiac\\:\\ 0\\.07821550530845515\ \(0\)\
+\-\ diagnosed\\:\\ 0\\.07629794240770137\ \(0\)\
+\-\ dilated\\:\\ 0\\.07543896208511071\ \(0\)\
+\-\ underwent\\:\\ 0\\.07255838309447477\ \(0\)\
+\-\ size\\:\\ 0\\.0713186728488333\ \(0\)\
+\-\ flow\\:\\ 0\\.07015698497515062\ \(0\)\
+\-\ revealed\\:\\ 0\\.06906407743531504\ \(0\)\
+\-\ decreased\\:\\ 0\\.06524333875350023\ \(0\)\
+\-\ significant\\:\\ 0\\.060815011374895624\ \(0\)\
+\-\ large\\:\\ 0\\.052775376064872\ \(0\)\
+\-\ to\\:\\ 0\\.052664404083480935\ \(0\)\
+\-\ by\\:\\ 0\\.04472907218965247\ \(0\)\
+\-\ and\\:\\ 0\\.04353015936894475\ \(0\)\
+\-\ left\\:\\ 0\\.035930235998607646\ \(0\)\

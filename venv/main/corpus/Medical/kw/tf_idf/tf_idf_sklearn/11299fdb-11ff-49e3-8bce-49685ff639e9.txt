@@ -1,54 +1,51 @@
-Texto: 
-non-contributory
-surgical excision only
-ct: non-calcified nodule with surrounding edema right parietal lobe.
-
-mri: enhancing nodule peripheral cortex right parietal lobe.  
-tumor cyst present with some associated brain edema
-gliofibroma
-â€¢ astrocytoma
-â€¢ papillary glioneuronal tumor
-â€¢ dnet
-â€¢ ganglioglioma
-â€¢ gliofibroma
-13 year old previously healthy boy presents with first time seizure
-
-
-Keywords by value: 
-- gliofibroma: 0.50697375535014
-- parietal: 0.2678901116701351
-- nodule: 0.2618578871871718
-- glioneuronal: 0.2249649332678632
-- edema: 0.19786845339000098
-- lobe: 0.19172174297013334
-- dnet: 0.1837574773181239
-- ganglioglioma: 0.17409921850377943
-- tumor: 0.1735292936049389
-- papillary: 0.15458203532882991
-- healthy: 0.14071336060399903
-- seizure: 0.13803309722245705
-- cortex: 0.13507921590748603
-- previously: 0.1331611965531556
-- excision: 0.13078604690022083
-- astrocytoma: 0.12522407469865177
-- 13: 0.12510658193847668
-- peripheral: 0.11861769720561638
-- boy: 0.1134726550827948
-- first: 0.11194180592097737
-- surrounding: 0.11062972989678976
-- right: 0.10999189115784454
-- some: 0.10436981814683335
-- enhancing: 0.1039136610507235
-- only: 0.10363215431616715
-- brain: 0.10340889472749594
-- time: 0.09832101266374571
-- with: 0.09744388918089299
-- cyst: 0.09568981558839279
-- associated: 0.08743098014666464
-- mri: 0.08514786003130052
-- present: 0.08511820228412657
-- surgical: 0.08062288893105417
-- presents: 0.07979664237677318
-- ct: 0.06315191512725526
-- year: 0.05112082196979235
-- old: 0.049093685002677426
+\-\ Texto\\:\\ \ \(0\)\
+\-\ non\\-contributory\ \(73\)\
+\-\ surgical\\ excision\\ only\ \(0\)\
+\-\ ct\\:\\ non\\-calcified\\ nodule\\ with\\ surrounding\\ edema\\ right\\ parietal\\ lobe\\.\ \(0\)\
+\-\ mri\\:\\ enhancing\\ nodule\\ peripheral\\ cortex\\ right\\ parietal\\ lobe\\.\\ \\ \ \(0\)\
+\-\ tumor\\ cyst\\ present\\ with\\ some\\ associated\\ brain\\ edema\ \(0\)\
+\-\ gliofibroma\ \(0\)\
+\-\ \\â\\€\\¢\\ astrocytoma\ \(1\)\
+\-\ \\â\\€\\¢\\ papillary\\ glioneuronal\\ tumor\ \(0\)\
+\-\ \\â\\€\\¢\\ dnet\ \(0\)\
+\-\ \\â\\€\\¢\\ ganglioglioma\ \(1\)\
+\-\ \\â\\€\\¢\\ gliofibroma\ \(0\)\
+\-\ 13\\ year\\ old\\ previously\\ healthy\\ boy\\ presents\\ with\\ first\\ time\\ seizure\ \(1\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ gliofibroma\\:\\ 0\\.50697375535014\ \(0\)\
+\-\ parietal\\:\\ 0\\.2678901116701351\ \(0\)\
+\-\ nodule\\:\\ 0\\.2618578871871718\ \(0\)\
+\-\ glioneuronal\\:\\ 0\\.2249649332678632\ \(0\)\
+\-\ edema\\:\\ 0\\.19786845339000098\ \(0\)\
+\-\ lobe\\:\\ 0\\.19172174297013334\ \(0\)\
+\-\ dnet\\:\\ 0\\.1837574773181239\ \(0\)\
+\-\ ganglioglioma\\:\\ 0\\.17409921850377943\ \(0\)\
+\-\ tumor\\:\\ 0\\.1735292936049389\ \(0\)\
+\-\ papillary\\:\\ 0\\.15458203532882991\ \(0\)\
+\-\ healthy\\:\\ 0\\.14071336060399903\ \(0\)\
+\-\ seizure\\:\\ 0\\.13803309722245705\ \(0\)\
+\-\ cortex\\:\\ 0\\.13507921590748603\ \(0\)\
+\-\ previously\\:\\ 0\\.1331611965531556\ \(0\)\
+\-\ excision\\:\\ 0\\.13078604690022083\ \(0\)\
+\-\ astrocytoma\\:\\ 0\\.12522407469865177\ \(0\)\
+\-\ 13\\:\\ 0\\.12510658193847668\ \(0\)\
+\-\ peripheral\\:\\ 0\\.11861769720561638\ \(0\)\
+\-\ boy\\:\\ 0\\.1134726550827948\ \(0\)\
+\-\ first\\:\\ 0\\.11194180592097737\ \(0\)\
+\-\ surrounding\\:\\ 0\\.11062972989678976\ \(0\)\
+\-\ right\\:\\ 0\\.10999189115784454\ \(0\)\
+\-\ some\\:\\ 0\\.10436981814683335\ \(0\)\
+\-\ enhancing\\:\\ 0\\.1039136610507235\ \(0\)\
+\-\ only\\:\\ 0\\.10363215431616715\ \(0\)\
+\-\ brain\\:\\ 0\\.10340889472749594\ \(0\)\
+\-\ time\\:\\ 0\\.09832101266374571\ \(0\)\
+\-\ with\\:\\ 0\\.09744388918089299\ \(0\)\
+\-\ cyst\\:\\ 0\\.09568981558839279\ \(0\)\
+\-\ associated\\:\\ 0\\.08743098014666464\ \(0\)\
+\-\ mri\\:\\ 0\\.08514786003130052\ \(0\)\
+\-\ present\\:\\ 0\\.08511820228412657\ \(0\)\
+\-\ surgical\\:\\ 0\\.08062288893105417\ \(0\)\
+\-\ presents\\:\\ 0\\.07979664237677318\ \(0\)\
+\-\ ct\\:\\ 0\\.06315191512725526\ \(0\)\
+\-\ year\\:\\ 0\\.05112082196979235\ \(0\)\
+\-\ old\\:\\ 0\\.049093685002677426\ \(0\)\

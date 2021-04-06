@@ -1,63 +1,60 @@
-Texto: 
-plain film:
-1) obliteration of soft tissue planes above the patella
-2) joint effusion
-3) avulsed patellar fragments
-4) soft tissue swelling
-5) avulsed tendon retraction ('balling up'/thickening)
-
-mri t2wi fatsat:
-1) disruption of normal laminar tendon - 3 of 4 tendons avulsed and retracted. only vastus intermedius remains intact.
-2) normal patellar position (negative patella baja).
-3) high signal intensity at site of tear and in surrounding soft tissue.
-quadriceps tendon rupture
-trauma
-
-
-Keywords by value: 
-- avulsed: 0.4619005186489357
-- tendon: 0.3137437893505797
-- patella: 0.25148916660692944
-- patellar: 0.23095482030460884
-- soft: 0.19134950588493085
-- tissue: 0.18854554855108208
-- baja: 0.1770408261397168
-- fatsat: 0.17235417611423137
-- vastus: 0.16000898230594363
-- retracted: 0.15396683954964524
-- laminar: 0.1522857147501664
-- intermedius: 0.15072923629700305
-- obliteration: 0.138551396742376
-- quadriceps: 0.1361711716238181
-- retraction: 0.13336663212016192
-- tendons: 0.1292117281600948
-- t2wi: 0.12816136691290492
-- planes: 0.12357742050385237
-- fragments: 0.11465366348690986
-- remains: 0.1141219174214915
-- disruption: 0.10821145439251169
-- tear: 0.09930294445261552
-- normal: 0.09783351242889982
-- rupture: 0.09685799556108267
-- site: 0.09662845395709477
-- position: 0.09551693281895757
-- of: 0.09378349141626381
-- film: 0.08952899099005292
-- effusion: 0.08896673969384127
-- intact: 0.08671427815235966
-- above: 0.08643140724072929
-- intensity: 0.08507152474133338
-- swelling: 0.08063656748288871
-- surrounding: 0.07990322648429746
-- plain: 0.07904584835021317
-- joint: 0.07894724325027469
-- only: 0.07484917033699322
-- negative: 0.07417224271853935
-- trauma: 0.069579846468479
-- high: 0.06809095205210174
-- signal: 0.06791568387747474
-- mri: 0.06149873773606394
-- and: 0.049513665380484184
-- at: 0.04525295499770197
-- in: 0.02980431359845491
-- the: 0.02390601431216446
+\-\ Texto\\:\\ \ \(0\)\
+\-\ plain\\ film\\:\ \(7\)\
+\-\ 1\\)\\ obliteration\\ of\\ soft\\ tissue\\ planes\\ above\\ the\\ patella\ \(0\)\
+\-\ 2\\)\\ joint\\ effusion\ \(0\)\
+\-\ 3\\)\\ avulsed\\ patellar\\ fragments\ \(0\)\
+\-\ 4\\)\\ soft\\ tissue\\ swelling\ \(0\)\
+\-\ 5\\)\\ avulsed\\ tendon\\ retraction\\ \\(\\'balling\\ up\\'\\/thickening\\)\ \(0\)\
+\-\ mri\\ t2wi\\ fatsat\\:\ \(0\)\
+\-\ 1\\)\\ disruption\\ of\\ normal\\ laminar\\ tendon\\ \\-\\ 3\\ of\\ 4\\ tendons\\ avulsed\\ and\\ retracted\\.\\ only\\ vastus\\ intermedius\\ remains\\ intact\\.\ \(0\)\
+\-\ 2\\)\\ normal\\ patellar\\ position\\ \\(negative\\ patella\\ baja\\)\\.\ \(0\)\
+\-\ 3\\)\\ high\\ signal\\ intensity\\ at\\ site\\ of\\ tear\\ and\\ in\\ surrounding\\ soft\\ tissue\\.\ \(0\)\
+\-\ quadriceps\\ tendon\\ rupture\ \(1\)\
+\-\ trauma\ \(1087\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ avulsed\\:\\ 0\\.4619005186489357\ \(0\)\
+\-\ tendon\\:\\ 0\\.3137437893505797\ \(0\)\
+\-\ patella\\:\\ 0\\.25148916660692944\ \(0\)\
+\-\ patellar\\:\\ 0\\.23095482030460884\ \(0\)\
+\-\ soft\\:\\ 0\\.19134950588493085\ \(0\)\
+\-\ tissue\\:\\ 0\\.18854554855108208\ \(0\)\
+\-\ baja\\:\\ 0\\.1770408261397168\ \(0\)\
+\-\ fatsat\\:\\ 0\\.17235417611423137\ \(0\)\
+\-\ vastus\\:\\ 0\\.16000898230594363\ \(0\)\
+\-\ retracted\\:\\ 0\\.15396683954964524\ \(0\)\
+\-\ laminar\\:\\ 0\\.1522857147501664\ \(0\)\
+\-\ intermedius\\:\\ 0\\.15072923629700305\ \(0\)\
+\-\ obliteration\\:\\ 0\\.138551396742376\ \(0\)\
+\-\ quadriceps\\:\\ 0\\.1361711716238181\ \(0\)\
+\-\ retraction\\:\\ 0\\.13336663212016192\ \(0\)\
+\-\ tendons\\:\\ 0\\.1292117281600948\ \(0\)\
+\-\ t2wi\\:\\ 0\\.12816136691290492\ \(0\)\
+\-\ planes\\:\\ 0\\.12357742050385237\ \(0\)\
+\-\ fragments\\:\\ 0\\.11465366348690986\ \(0\)\
+\-\ remains\\:\\ 0\\.1141219174214915\ \(0\)\
+\-\ disruption\\:\\ 0\\.10821145439251169\ \(0\)\
+\-\ tear\\:\\ 0\\.09930294445261552\ \(0\)\
+\-\ normal\\:\\ 0\\.09783351242889982\ \(0\)\
+\-\ rupture\\:\\ 0\\.09685799556108267\ \(0\)\
+\-\ site\\:\\ 0\\.09662845395709477\ \(0\)\
+\-\ position\\:\\ 0\\.09551693281895757\ \(0\)\
+\-\ of\\:\\ 0\\.09378349141626381\ \(0\)\
+\-\ film\\:\\ 0\\.08952899099005292\ \(0\)\
+\-\ effusion\\:\\ 0\\.08896673969384127\ \(0\)\
+\-\ intact\\:\\ 0\\.08671427815235966\ \(0\)\
+\-\ above\\:\\ 0\\.08643140724072929\ \(0\)\
+\-\ intensity\\:\\ 0\\.08507152474133338\ \(0\)\
+\-\ swelling\\:\\ 0\\.08063656748288871\ \(0\)\
+\-\ surrounding\\:\\ 0\\.07990322648429746\ \(0\)\
+\-\ plain\\:\\ 0\\.07904584835021317\ \(0\)\
+\-\ joint\\:\\ 0\\.07894724325027469\ \(0\)\
+\-\ only\\:\\ 0\\.07484917033699322\ \(0\)\
+\-\ negative\\:\\ 0\\.07417224271853935\ \(0\)\
+\-\ trauma\\:\\ 0\\.069579846468479\ \(0\)\
+\-\ high\\:\\ 0\\.06809095205210174\ \(0\)\
+\-\ signal\\:\\ 0\\.06791568387747474\ \(0\)\
+\-\ mri\\:\\ 0\\.06149873773606394\ \(0\)\
+\-\ and\\:\\ 0\\.049513665380484184\ \(0\)\
+\-\ at\\:\\ 0\\.04525295499770197\ \(0\)\
+\-\ in\\:\\ 0\\.02980431359845491\ \(0\)\
+\-\ the\\:\\ 0\\.02390601431216446\ \(0\)\

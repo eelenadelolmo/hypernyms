@@ -1,80 +1,78 @@
-Texto: 
-normal scrotal examination
-no treatment necessary.
-some institutions might follow-up initially after a few months and then discontinue if no change is demonstrated.
-multiple simple-appearing cystic lesions within the testicles near the region of the medistinum testis.
-intratesticular cysts (based on imaging characteristics)
-intratesticular cysts
-ectasia of the rete testis
-cystic malignancy
-   teratoma
-   mixed germ cell tumor
-testicular cysts noted on previous ultrasound.
-some believe that intratesticular cysts may belong to the same pathophysiologic continuum as ectasia of the rete testis.
-
-
-Keywords by value: 
-- intratesticular: 0.2082091439612825
-- testis: 0.17742956288598657
-- rete: 0.15309265641560596
-- cysts: 0.15215719467415303
-- ectasia: 0.12544730813550384
-- medistinum: 0.10017634572689203
-- simple-appearing: 0.09229967322052901
-- belong: 0.09229967322052901
-- continuum: 0.09229967322052901
-- pathophysiologic: 0.08769211517384533
-- discontinue: 0.084423000714166
-- institutions: 0.07806373039671802
-- believe: 0.070187057890355
-- testicles: 0.06671681187272793
-- some: 0.058975642133335435
-- scrotal: 0.05743543532128336
-- cystic: 0.05601437971026724
-- might: 0.055059392163799736
-- germ: 0.05023942351470522
-- testicular: 0.049826154830945275
-- characteristics: 0.04830875264203025
-- teratoma: 0.0454004188450166
-- few: 0.04370119459534656
-- necessary: 0.04301227843834162
-- mixed: 0.04264685671522195
-- near: 0.042017325131247084
-- same: 0.04002515453684098
-- initially: 0.039522503912104316
-- change: 0.0378491078463164
-- previous: 0.03770852498492382
-- malignancy: 0.03752374633865359
-- based: 0.03703057229848819
-- then: 0.03455644180025102
-- follow-up: 0.031591329448201616
-- examination: 0.03018662540312006
-- ultrasound: 0.028808211193253448
-- demonstrated: 0.028493408891556448
-- region: 0.027427286673174008
-- months: 0.026522060166932582
-- if: 0.026349357202052677
-- cell: 0.026230008086153254
-- lesions: 0.025995005753908496
-- noted: 0.023016149868779475
-- imaging: 0.022750838914268212
-- tumor: 0.022639003427395582
-- may: 0.021299186010205952
-- multiple: 0.020452340948628057
-- after: 0.020090922756922754
-- treatment: 0.019654738177282808
-- no: 0.019555548879631863
-- within: 0.018524220549841836
-- that: 0.016772508279077537
-- on: 0.01645206846285064
-- normal: 0.015222868802262512
-- as: 0.014688380748796907
-- the: 0.009426087593429031
-- (: 0.00820865598004387
-- ): 0.008108382864923921
-- is: 0.006389667936190064
-- to: 0.004853046686852117
-- a: 0.004506815929756833
-- of: 0.003971720481749605
-- and: 0.0020455568833206645
-- .: 0.002017019096440129
+\-\ Texto\\:\\ \ \(0\)\
+\-\ normal\\ scrotal\\ examination\ \(0\)\
+\-\ no\\ treatment\\ necessary\\.\ \(1\)\
+\-\ some\\ institutions\\ might\\ follow\\-up\\ initially\\ after\\ a\\ few\\ months\\ and\\ then\\ discontinue\\ if\\ no\\ change\\ is\\ demonstrated\\.\ \(0\)\
+\-\ multiple\\ simple\\-appearing\\ cystic\\ lesions\\ within\\ the\\ testicles\\ near\\ the\\ region\\ of\\ the\\ medistinum\\ testis\\.\ \(0\)\
+\-\ intratesticular\\ cysts\\ \\(based\\ on\\ imaging\\ characteristics\\)\ \(0\)\
+\-\ intratesticular\\ cysts\ \(2\)\
+\-\ ectasia\\ of\\ the\\ rete\\ testis\ \(4\)\
+\-\ cystic\\ malignancy\ \(0\)\
+\-\ \\ \\ \\ teratoma\ \(0\)\
+\-\ \\ \\ \\ mixed\\ germ\\ cell\\ tumor\ \(0\)\
+\-\ testicular\\ cysts\\ noted\\ on\\ previous\\ ultrasound\\.\ \(0\)\
+\-\ some\\ believe\\ that\\ intratesticular\\ cysts\\ may\\ belong\\ to\\ the\\ same\\ pathophysiologic\\ continuum\\ as\\ ectasia\\ of\\ the\\ rete\\ testis\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ intratesticular\\:\\ 0\\.2082091439612825\ \(0\)\
+\-\ testis\\:\\ 0\\.17742956288598657\ \(0\)\
+\-\ rete\\:\\ 0\\.15309265641560596\ \(0\)\
+\-\ cysts\\:\\ 0\\.15215719467415303\ \(0\)\
+\-\ ectasia\\:\\ 0\\.12544730813550384\ \(0\)\
+\-\ medistinum\\:\\ 0\\.10017634572689203\ \(0\)\
+\-\ simple\\-appearing\\:\\ 0\\.09229967322052901\ \(0\)\
+\-\ belong\\:\\ 0\\.09229967322052901\ \(0\)\
+\-\ continuum\\:\\ 0\\.09229967322052901\ \(0\)\
+\-\ pathophysiologic\\:\\ 0\\.08769211517384533\ \(0\)\
+\-\ discontinue\\:\\ 0\\.084423000714166\ \(0\)\
+\-\ institutions\\:\\ 0\\.07806373039671802\ \(0\)\
+\-\ believe\\:\\ 0\\.070187057890355\ \(0\)\
+\-\ testicles\\:\\ 0\\.06671681187272793\ \(0\)\
+\-\ some\\:\\ 0\\.058975642133335435\ \(0\)\
+\-\ scrotal\\:\\ 0\\.05743543532128336\ \(0\)\
+\-\ cystic\\:\\ 0\\.05601437971026724\ \(0\)\
+\-\ might\\:\\ 0\\.055059392163799736\ \(0\)\
+\-\ germ\\:\\ 0\\.05023942351470522\ \(0\)\
+\-\ testicular\\:\\ 0\\.049826154830945275\ \(0\)\
+\-\ characteristics\\:\\ 0\\.04830875264203025\ \(0\)\
+\-\ teratoma\\:\\ 0\\.0454004188450166\ \(0\)\
+\-\ few\\:\\ 0\\.04370119459534656\ \(0\)\
+\-\ necessary\\:\\ 0\\.04301227843834162\ \(0\)\
+\-\ mixed\\:\\ 0\\.04264685671522195\ \(0\)\
+\-\ near\\:\\ 0\\.042017325131247084\ \(0\)\
+\-\ same\\:\\ 0\\.04002515453684098\ \(0\)\
+\-\ initially\\:\\ 0\\.039522503912104316\ \(0\)\
+\-\ change\\:\\ 0\\.0378491078463164\ \(0\)\
+\-\ previous\\:\\ 0\\.03770852498492382\ \(0\)\
+\-\ malignancy\\:\\ 0\\.03752374633865359\ \(0\)\
+\-\ based\\:\\ 0\\.03703057229848819\ \(0\)\
+\-\ then\\:\\ 0\\.03455644180025102\ \(0\)\
+\-\ follow\\-up\\:\\ 0\\.031591329448201616\ \(0\)\
+\-\ examination\\:\\ 0\\.03018662540312006\ \(0\)\
+\-\ ultrasound\\:\\ 0\\.028808211193253448\ \(0\)\
+\-\ demonstrated\\:\\ 0\\.028493408891556448\ \(0\)\
+\-\ region\\:\\ 0\\.027427286673174008\ \(0\)\
+\-\ months\\:\\ 0\\.026522060166932582\ \(0\)\
+\-\ if\\:\\ 0\\.026349357202052677\ \(0\)\
+\-\ cell\\:\\ 0\\.026230008086153254\ \(0\)\
+\-\ lesions\\:\\ 0\\.025995005753908496\ \(0\)\
+\-\ noted\\:\\ 0\\.023016149868779475\ \(0\)\
+\-\ imaging\\:\\ 0\\.022750838914268212\ \(0\)\
+\-\ tumor\\:\\ 0\\.022639003427395582\ \(0\)\
+\-\ may\\:\\ 0\\.021299186010205952\ \(0\)\
+\-\ multiple\\:\\ 0\\.020452340948628057\ \(0\)\
+\-\ after\\:\\ 0\\.020090922756922754\ \(0\)\
+\-\ treatment\\:\\ 0\\.019654738177282808\ \(0\)\
+\-\ no\\:\\ 0\\.019555548879631863\ \(0\)\
+\-\ within\\:\\ 0\\.018524220549841836\ \(0\)\
+\-\ that\\:\\ 0\\.016772508279077537\ \(0\)\
+\-\ on\\:\\ 0\\.01645206846285064\ \(0\)\
+\-\ normal\\:\\ 0\\.015222868802262512\ \(0\)\
+\-\ as\\:\\ 0\\.014688380748796907\ \(0\)\
+\-\ the\\:\\ 0\\.009426087593429031\ \(0\)\
+\-\ \\(\\:\\ 0\\.00820865598004387\ \(0\)\
+\-\ \\)\\:\\ 0\\.008108382864923921\ \(0\)\
+\-\ is\\:\\ 0\\.006389667936190064\ \(0\)\
+\-\ to\\:\\ 0\\.004853046686852117\ \(0\)\
+\-\ a\\:\\ 0\\.004506815929756833\ \(0\)\
+\-\ of\\:\\ 0\\.003971720481749605\ \(0\)\
+\-\ and\\:\\ 0\\.0020455568833206645\ \(0\)\
+\-\ \\.\\:\\ 0\\.002017019096440129\ \(0\)\

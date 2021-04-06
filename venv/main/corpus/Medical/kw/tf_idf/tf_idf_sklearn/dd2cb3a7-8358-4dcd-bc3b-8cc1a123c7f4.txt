@@ -1,77 +1,75 @@
-Texto: 
-pending surgical planning
-erythematous patch, sharply demarcated and infiltrated nipple.
-paget disease of the breast
-amyloidosis, nodular localized cutaneous 
-bowen disease 
-contact dermatitis, irritant 
-drug eruptions 
-malignant melanoma 
-nipple duct adenoma
-erosive adenomatosis of the nipple  
-benign toker cell (clear cell of the nipple epidermis) hyperplasia
-43 y.o. female with history of nipple "eczema" for "years."  the patient reports worsening over the past few months.  punch biopsy of the skin revealed paget disease of breast.
-the patient has the classic presentation of paget disease of the breast with chronic eczematous disease of the nipple.
-
-
-Keywords by value: 
-- nipple: 0.5869998079551497
-- paget: 0.27526680983677826
-- breast: 0.20157208556761536
-- disease: 0.19419852337326585
-- the: 0.18462563873486923
-- of: 0.16296477845988042
-- bowen: 0.14797141478838877
-- adenomatosis: 0.14797141478838877
-- toker: 0.14797141478838877
-- eczematous: 0.14797141478838877
-- eruptions: 0.14139458645225988
-- irritant: 0.13672825248649623
-- eczema: 0.1276510300625708
-- infiltrated: 0.12031962592964338
-- punch: 0.12031962592964338
-- epidermis: 0.11760993275085153
-- dermatitis: 0.11145443860996028
-- patch: 0.11062243806235349
-- cell: 0.10585984213677056
-- planning: 0.10516470545878571
-- sharply: 0.10459550830255258
-- demarcated: 0.1035137438971645
-- amyloidosis: 0.1020154066612564
-- contact: 0.10154521563842804
-- erosive: 0.09820620176012652
-- cutaneous: 0.09608748303486027
-- erythematous: 0.09392154315689318
-- 43: 0.08659013902396574
-- melanoma: 0.08640685510213467
-- hyperplasia: 0.0843552247493783
-- drug: 0.08419541602323495
-- localized: 0.08311878223768936
-- duct: 0.07964879075207427
-- few: 0.07848969387840983
-- pending: 0.07610155251887174
-- adenoma: 0.07376752352533401
-- nodular: 0.07368412768868733
-- reports: 0.07195019686945396
-- worsening: 0.07065761868644396
-- classic: 0.06920604095567924
-- skin: 0.06883170616190203
-- clear: 0.0670795957514656
-- malignant: 0.0659568097778473
-- biopsy: 0.0648583902169792
-- presentation: 0.06369430012963925
-- benign: 0.06356006111935593
-- revealed: 0.060669703240388395
-- past: 0.060228303091990364
-- patient: 0.060189019766943644
-- years: 0.0567180423342105
-- chronic: 0.05492160486923665
-- months: 0.053858417695247233
-- over: 0.05144928803711957
-- surgical: 0.044971322158953796
-- female: 0.044648725746982726
-- has: 0.04226380856287108
-- with: 0.036236033305817296
-- history: 0.03535081346298655
-- for: 0.02804433703512946
-- and: 0.01911964909249818
+\-\ Texto\\:\\ \ \(0\)\
+\-\ pending\\ surgical\\ planning\ \(0\)\
+\-\ erythematous\\ patch\\,\\ sharply\\ demarcated\\ and\\ infiltrated\\ nipple\\.\ \(0\)\
+\-\ paget\\ disease\\ of\\ the\\ breast\ \(0\)\
+\-\ amyloidosis\\,\\ nodular\\ localized\\ cutaneous\\ \ \(0\)\
+\-\ bowen\\ disease\\ \ \(0\)\
+\-\ contact\\ dermatitis\\,\\ irritant\\ \ \(0\)\
+\-\ drug\\ eruptions\\ \ \(0\)\
+\-\ malignant\\ melanoma\\ \ \(3\)\
+\-\ nipple\\ duct\\ adenoma\ \(0\)\
+\-\ erosive\\ adenomatosis\\ of\\ the\\ nipple\\ \\ \ \(0\)\
+\-\ benign\\ toker\\ cell\\ \\(clear\\ cell\\ of\\ the\\ nipple\\ epidermis\\)\\ hyperplasia\ \(0\)\
+\-\ 43\\ y\\.o\\.\\ female\\ with\\ history\\ of\\ nipple\\ \\"eczema\\"\\ for\\ \\"years\\.\\"\\ \\ the\\ patient\\ reports\\ worsening\\ over\\ the\\ past\\ few\\ months\\.\\ \\ punch\\ biopsy\\ of\\ the\\ skin\\ revealed\\ paget\\ disease\\ of\\ breast\\.\ \(0\)\
+\-\ the\\ patient\\ has\\ the\\ classic\\ presentation\\ of\\ paget\\ disease\\ of\\ the\\ breast\\ with\\ chronic\\ eczematous\\ disease\\ of\\ the\\ nipple\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ nipple\\:\\ 0\\.5869998079551497\ \(0\)\
+\-\ paget\\:\\ 0\\.27526680983677826\ \(0\)\
+\-\ breast\\:\\ 0\\.20157208556761536\ \(0\)\
+\-\ disease\\:\\ 0\\.19419852337326585\ \(0\)\
+\-\ the\\:\\ 0\\.18462563873486923\ \(0\)\
+\-\ of\\:\\ 0\\.16296477845988042\ \(0\)\
+\-\ bowen\\:\\ 0\\.14797141478838877\ \(0\)\
+\-\ adenomatosis\\:\\ 0\\.14797141478838877\ \(0\)\
+\-\ toker\\:\\ 0\\.14797141478838877\ \(0\)\
+\-\ eczematous\\:\\ 0\\.14797141478838877\ \(0\)\
+\-\ eruptions\\:\\ 0\\.14139458645225988\ \(0\)\
+\-\ irritant\\:\\ 0\\.13672825248649623\ \(0\)\
+\-\ eczema\\:\\ 0\\.1276510300625708\ \(0\)\
+\-\ infiltrated\\:\\ 0\\.12031962592964338\ \(0\)\
+\-\ punch\\:\\ 0\\.12031962592964338\ \(0\)\
+\-\ epidermis\\:\\ 0\\.11760993275085153\ \(0\)\
+\-\ dermatitis\\:\\ 0\\.11145443860996028\ \(0\)\
+\-\ patch\\:\\ 0\\.11062243806235349\ \(0\)\
+\-\ cell\\:\\ 0\\.10585984213677056\ \(0\)\
+\-\ planning\\:\\ 0\\.10516470545878571\ \(0\)\
+\-\ sharply\\:\\ 0\\.10459550830255258\ \(0\)\
+\-\ demarcated\\:\\ 0\\.1035137438971645\ \(0\)\
+\-\ amyloidosis\\:\\ 0\\.1020154066612564\ \(0\)\
+\-\ contact\\:\\ 0\\.10154521563842804\ \(0\)\
+\-\ erosive\\:\\ 0\\.09820620176012652\ \(0\)\
+\-\ cutaneous\\:\\ 0\\.09608748303486027\ \(0\)\
+\-\ erythematous\\:\\ 0\\.09392154315689318\ \(0\)\
+\-\ 43\\:\\ 0\\.08659013902396574\ \(0\)\
+\-\ melanoma\\:\\ 0\\.08640685510213467\ \(0\)\
+\-\ hyperplasia\\:\\ 0\\.0843552247493783\ \(0\)\
+\-\ drug\\:\\ 0\\.08419541602323495\ \(0\)\
+\-\ localized\\:\\ 0\\.08311878223768936\ \(0\)\
+\-\ duct\\:\\ 0\\.07964879075207427\ \(0\)\
+\-\ few\\:\\ 0\\.07848969387840983\ \(0\)\
+\-\ pending\\:\\ 0\\.07610155251887174\ \(0\)\
+\-\ adenoma\\:\\ 0\\.07376752352533401\ \(0\)\
+\-\ nodular\\:\\ 0\\.07368412768868733\ \(0\)\
+\-\ reports\\:\\ 0\\.07195019686945396\ \(0\)\
+\-\ worsening\\:\\ 0\\.07065761868644396\ \(0\)\
+\-\ classic\\:\\ 0\\.06920604095567924\ \(0\)\
+\-\ skin\\:\\ 0\\.06883170616190203\ \(0\)\
+\-\ clear\\:\\ 0\\.0670795957514656\ \(0\)\
+\-\ malignant\\:\\ 0\\.0659568097778473\ \(0\)\
+\-\ biopsy\\:\\ 0\\.0648583902169792\ \(0\)\
+\-\ presentation\\:\\ 0\\.06369430012963925\ \(0\)\
+\-\ benign\\:\\ 0\\.06356006111935593\ \(0\)\
+\-\ revealed\\:\\ 0\\.060669703240388395\ \(0\)\
+\-\ past\\:\\ 0\\.060228303091990364\ \(0\)\
+\-\ patient\\:\\ 0\\.060189019766943644\ \(0\)\
+\-\ years\\:\\ 0\\.0567180423342105\ \(0\)\
+\-\ chronic\\:\\ 0\\.05492160486923665\ \(0\)\
+\-\ months\\:\\ 0\\.053858417695247233\ \(0\)\
+\-\ over\\:\\ 0\\.05144928803711957\ \(0\)\
+\-\ surgical\\:\\ 0\\.044971322158953796\ \(0\)\
+\-\ female\\:\\ 0\\.044648725746982726\ \(0\)\
+\-\ has\\:\\ 0\\.04226380856287108\ \(0\)\
+\-\ with\\:\\ 0\\.036236033305817296\ \(0\)\
+\-\ history\\:\\ 0\\.03535081346298655\ \(0\)\
+\-\ for\\:\\ 0\\.02804433703512946\ \(0\)\
+\-\ and\\:\\ 0\\.01911964909249818\ \(0\)\

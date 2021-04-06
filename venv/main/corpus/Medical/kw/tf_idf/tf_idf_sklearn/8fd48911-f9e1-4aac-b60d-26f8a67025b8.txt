@@ -1,63 +1,61 @@
-Texto: 
-partial removal with re-insertion was performed with subsequent imaging revealing an adequately placed picc line.
-right-sided picc with tip not visualized passing into the region of the jugular vein.
-inappropriate positioning of picc line
-74 year-old man w/ a pmh significant for dm2 presented with purulent left foot ulcer and left knee pain, subsequently underwent arthrocentesis that revealed a septic joint, s/p joint washout with orthopedics now w/ bacteremia.  above ap cxr s/p picc placement for treatment of bacteremia.
-
-
-Keywords by value: 
-- picc: 0.5616745208351476
-- bacteremia: 0.3240677587674119
-- line: 0.18304130345663097
-- arthrocentesis: 0.1735560548229206
-- dm2: 0.16203387938370595
-- inappropriate: 0.15685945615354382
-- joint: 0.154786580885586
-- adequately: 0.14147473039310984
-- washout: 0.1404186302087869
-- positioning: 0.1366647315357689
-- purulent: 0.1350166970443784
-- revealing: 0.13349085543124264
-- passing: 0.13010794768812725
-- orthopedics: 0.12666839770969
-- jugular: 0.1211449925731578
-- 74: 0.11679425676186585
-- ulcer: 0.11647000691799402
-- with: 0.11499055368258157
-- septic: 0.11161983353170374
-- tip: 0.11038656436621758
-- pmh: 0.10627664345865216
-- subsequently: 0.10020688614470366
-- cxr: 0.09395771250702875
-- foot: 0.09280482188277693
-- visualized: 0.09171307779765671
-- placement: 0.09171307779765671
-- placed: 0.09152065172831549
-- partial: 0.09049330105700076
-- removal: 0.08977707442253831
-- subsequent: 0.08891546588200767
-- above: 0.08473014038951651
-- ap: 0.08432106522033724
-- vein: 0.0841864932409216
-- knee: 0.0841864932409216
-- underwent: 0.08090749561071514
-- now: 0.08062349883842122
-- left: 0.08012927762087008
-- revealed: 0.07701110889806123
-- for: 0.07119617792850969
-- region: 0.07025307489683082
-- performed: 0.06948359930585317
-- of: 0.06895313272917387
-- presented: 0.06848998608771409
-- significant: 0.06781284334124915
-- into: 0.062434214581766775
-- man: 0.062179305490021944
-- imaging: 0.06172376833435509
-- treatment: 0.05594750263234526
-- that: 0.050968745613782916
-- the: 0.046870923741456245
-- not: 0.046366329858432836
-- an: 0.04491235372682376
-- pain: 0.04202780876877704
-- was: 0.040932367484214346
-- and: 0.024269533221894637
+\-\ Texto\\:\\ \ \(0\)\
+\-\ partial\\ removal\\ with\\ re\\-insertion\\ was\\ performed\\ with\\ subsequent\\ imaging\\ revealing\\ an\\ adequately\\ placed\\ picc\\ line\\.\ \(0\)\
+\-\ right\\-sided\\ picc\\ with\\ tip\\ not\\ visualized\\ passing\\ into\\ the\\ region\\ of\\ the\\ jugular\\ vein\\.\ \(0\)\
+\-\ inappropriate\\ positioning\\ of\\ picc\\ line\ \(0\)\
+\-\ 74\\ year\\-old\\ man\\ w\\/\\ a\\ pmh\\ significant\\ for\\ dm2\\ presented\\ with\\ purulent\\ left\\ foot\\ ulcer\\ and\\ left\\ knee\\ pain\\,\\ subsequently\\ underwent\\ arthrocentesis\\ that\\ revealed\\ a\\ septic\\ joint\\,\\ s\\/p\\ joint\\ washout\\ with\\ orthopedics\\ now\\ w\\/\\ bacteremia\\.\\ \\ above\\ ap\\ cxr\\ s\\/p\\ picc\\ placement\\ for\\ treatment\\ of\\ bacteremia\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ picc\\:\\ 0\\.5616745208351476\ \(0\)\
+\-\ bacteremia\\:\\ 0\\.3240677587674119\ \(0\)\
+\-\ line\\:\\ 0\\.18304130345663097\ \(0\)\
+\-\ arthrocentesis\\:\\ 0\\.1735560548229206\ \(0\)\
+\-\ dm2\\:\\ 0\\.16203387938370595\ \(0\)\
+\-\ inappropriate\\:\\ 0\\.15685945615354382\ \(0\)\
+\-\ joint\\:\\ 0\\.154786580885586\ \(0\)\
+\-\ adequately\\:\\ 0\\.14147473039310984\ \(0\)\
+\-\ washout\\:\\ 0\\.1404186302087869\ \(0\)\
+\-\ positioning\\:\\ 0\\.1366647315357689\ \(0\)\
+\-\ purulent\\:\\ 0\\.1350166970443784\ \(0\)\
+\-\ revealing\\:\\ 0\\.13349085543124264\ \(0\)\
+\-\ passing\\:\\ 0\\.13010794768812725\ \(0\)\
+\-\ orthopedics\\:\\ 0\\.12666839770969\ \(0\)\
+\-\ jugular\\:\\ 0\\.1211449925731578\ \(0\)\
+\-\ 74\\:\\ 0\\.11679425676186585\ \(0\)\
+\-\ ulcer\\:\\ 0\\.11647000691799402\ \(0\)\
+\-\ with\\:\\ 0\\.11499055368258157\ \(0\)\
+\-\ septic\\:\\ 0\\.11161983353170374\ \(0\)\
+\-\ tip\\:\\ 0\\.11038656436621758\ \(0\)\
+\-\ pmh\\:\\ 0\\.10627664345865216\ \(0\)\
+\-\ subsequently\\:\\ 0\\.10020688614470366\ \(0\)\
+\-\ cxr\\:\\ 0\\.09395771250702875\ \(0\)\
+\-\ foot\\:\\ 0\\.09280482188277693\ \(0\)\
+\-\ visualized\\:\\ 0\\.09171307779765671\ \(0\)\
+\-\ placement\\:\\ 0\\.09171307779765671\ \(0\)\
+\-\ placed\\:\\ 0\\.09152065172831549\ \(0\)\
+\-\ partial\\:\\ 0\\.09049330105700076\ \(0\)\
+\-\ removal\\:\\ 0\\.08977707442253831\ \(0\)\
+\-\ subsequent\\:\\ 0\\.08891546588200767\ \(0\)\
+\-\ above\\:\\ 0\\.08473014038951651\ \(0\)\
+\-\ ap\\:\\ 0\\.08432106522033724\ \(0\)\
+\-\ vein\\:\\ 0\\.0841864932409216\ \(0\)\
+\-\ knee\\:\\ 0\\.0841864932409216\ \(0\)\
+\-\ underwent\\:\\ 0\\.08090749561071514\ \(0\)\
+\-\ now\\:\\ 0\\.08062349883842122\ \(0\)\
+\-\ left\\:\\ 0\\.08012927762087008\ \(0\)\
+\-\ revealed\\:\\ 0\\.07701110889806123\ \(0\)\
+\-\ for\\:\\ 0\\.07119617792850969\ \(0\)\
+\-\ region\\:\\ 0\\.07025307489683082\ \(0\)\
+\-\ performed\\:\\ 0\\.06948359930585317\ \(0\)\
+\-\ of\\:\\ 0\\.06895313272917387\ \(0\)\
+\-\ presented\\:\\ 0\\.06848998608771409\ \(0\)\
+\-\ significant\\:\\ 0\\.06781284334124915\ \(0\)\
+\-\ into\\:\\ 0\\.062434214581766775\ \(0\)\
+\-\ man\\:\\ 0\\.062179305490021944\ \(0\)\
+\-\ imaging\\:\\ 0\\.06172376833435509\ \(0\)\
+\-\ treatment\\:\\ 0\\.05594750263234526\ \(0\)\
+\-\ that\\:\\ 0\\.050968745613782916\ \(0\)\
+\-\ the\\:\\ 0\\.046870923741456245\ \(0\)\
+\-\ not\\:\\ 0\\.046366329858432836\ \(0\)\
+\-\ an\\:\\ 0\\.04491235372682376\ \(0\)\
+\-\ pain\\:\\ 0\\.04202780876877704\ \(0\)\
+\-\ was\\:\\ 0\\.040932367484214346\ \(0\)\
+\-\ and\\:\\ 0\\.024269533221894637\ \(0\)\

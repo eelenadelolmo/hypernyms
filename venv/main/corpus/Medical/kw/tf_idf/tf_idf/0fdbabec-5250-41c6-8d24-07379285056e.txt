@@ -1,326 +1,316 @@
-Texto: 
-left upper extremity weakness and numbness for past couple days
-treatment: asa, heparin if no bleed and large vessel atherothrombosis, thrombolytic (t-pa) if within 3 hours of symptom onset
-disposition: often long term inpatient stroke rehabilitation
-23 jan: non-contrast head ct (from emergency dept)
--regional hypoattenuation in right temporal lobe, extending from cerebral cortex into white matter
--loss of gray/white matter differentiation
--sulcal effacement of right temporal-parietal lobes (may represent ischemia and resultant edema)
--some chronic microvascular ischemic disease of periventricular white matter
--ventricles and cisterns preserved, no intracranial hemorrhage or mass
--likely represents infarct of unknown time course (subacute vs. acute)
--mri recommended
-
-24 jan: brain mri (from emergency dept)
--axial dwi‚Äîincreased signal in right posterior parietal lobe=restricted diffusion
--adc map--corresponding decreased signal
--consistent with acute stroke in right posterior parietal lobe
-
-24 jan: carotid us
--echogenic calcified plaque in right carotid bulb and proximal internal carotid artery with 50-69% stenosis with elevated velocities in internal carotid
--hemodynamically insignificant stenosis in left carotid bulb
-
-24 jan: transthoracic echo (no images shown)
--normal left and right ventricular size and function
--negative bubble study
-
-25 jan: ct angiography w/ contrast (sagittal view)
--large calcified plaque in right carotid bifurcation and proximal ica 
--hemodynamically significant stenosis of 64%
-
-26 jan: non-contrast head ct (following worsening left sided weakness and sensory loss)
--hypodensity of right temporal lobe
--two new foci of calcification within the right sylvian fissure, not present on previous exams, likely represent further acute thromboemboli
--more prominent ventricles and cisterns
--no intracranial hemorrhage or mass effect
-
-28 jan: brain mri (following worsening left sided weakness and sensory loss)
--dwi‚Äîinterval increase in size of signal in right temporal-parietal region
--adc map‚Äîcorresponding decrease in signal
-ischemic stoke in right temporal-parietal lobes secondary to emboli from carotid bulb atheroma
-ischemic stroke (embolus, thrombus, arterial dissection)
-hemorrhagic stroke
-malignancy
--87 year old woman
--left upper extremity weakness and numbness for past couple days
--son says her left face is ‚Äúdroopy‚Äù
--no documented medical history
--on no medications
-etiology of ischemic stroke:
--cardioemboli
--carotid occlusion
--arterial dissection
--local arterial thrombosis
-
-middle cerebral artery most common destination with
-contralateral hand, arm and face weakness and sensory deficits, and spatial neglect--especially if the infarct is in the right parietal lobe resulting in left sided neglect as seen in this patient
-
-imaging in ischemic stroke patients:
--noncontrast ct to rule out hemorrhage/mass, some early signs of infarction, yet relatively insensitive to acute infarction
--mri (dwi/adc map): dwi can detect infarction within minutes of symptom onset with high sens/spec
--ct angiography, magnetic resonance angiography, transthoracic echocardiogram to evaluate vascular integrity
-
-
-Keywords by value: 
-- jan: 0.08685935916239634
-- carotid: 0.05507881440617481
-- stroke: 0.054933999145095364
-- temporal-parietal: 0.054305041626076994
-- ischemic: 0.04272646893027695
-- -adc: 0.03620336108405133
-- -hemodynamically: 0.03620336108405133
-- bulb: 0.03377811445867327
-- weakness: 0.03258327877852551
-- -mri: 0.029593759800954408
-- neglect: 0.029593759800954408
-- dept: 0.028211943634132177
-- transthoracic: 0.028211943634132177
-- :: 0.0278507141517207
-- sensory: 0.02723451295253014
-- couple: 0.027179851526202375
-- angiography: 0.026450081192510008
-- -no: 0.024816959760684668
-- map: 0.0226680967472779
-- parietal: 0.022489111601907502
-- right: 0.022216797760420945
-- cisterns: 0.021602342351035256
-- infarction: 0.02151442573816072
-- plaque: 0.021157933379206784
-- matter: 0.02072574930431703
-- stenosis: 0.020620892912718892
-- 24: 0.020466880784143427
-- symptom: 0.019898260823056988
-- sided: 0.019463202955728825
-- lobe: 0.01888562914105572
-- signal: 0.018505743985813377
-- atherothrombosis: 0.018101680542025666
-- -regional: 0.018101680542025666
-- -sulcal: 0.018101680542025666
-- -ventricles: 0.018101680542025666
-- -likely: 0.018101680542025666
-- dwi‚Äîincreased: 0.018101680542025666
-- lobe=restricted: 0.018101680542025666
-- -consistent: 0.018101680542025666
-- -echogenic: 0.018101680542025666
-- 50-69: 0.018101680542025666
-- -hypodensity: 0.018101680542025666
-- -dwi‚Äîinterval: 0.018101680542025666
-- map‚Äîcorresponding: 0.018101680542025666
-- -87: 0.018101680542025666
-- -son: 0.018101680542025666
-- -cardioemboli: 0.018101680542025666
-- -carotid: 0.018101680542025666
-- -arterial: 0.018101680542025666
-- -local: 0.018101680542025666
-- destination: 0.018101680542025666
-- hemorrhage/mass: 0.018101680542025666
-- sens/spec: 0.018101680542025666
-- acute: 0.017329604345843904
-- dissection: 0.017250094074436298
-- face: 0.01720963289807896
-- non-contrast: 0.017129887165606268
-- numbness: 0.016862374631023264
-- -loss: 0.016678380376604834
-- -some: 0.016678380376604834
-- -axial: 0.016678380376604834
-- -negative: 0.016678380376604834
-- -more: 0.016678380376604834
-- atheroma: 0.016678380376604834
-- droopy: 0.016678380376604834
-- -noncontrast: 0.016678380376604834
-- insensitive: 0.016678380376604834
-- (: 0.016316178621524572
-- --: 0.01611979176897226
-- ): 0.01611686778900689
-- t-pa: 0.015845803152563426
-- -two: 0.015845803152563426
-- stoke: 0.015845803152563426
-- infarct: 0.015571408226366415
-- lobes: 0.015464732717523456
-- represent: 0.015412416389895408
-- arterial: 0.015360758146746084
-- thromboemboli: 0.015255080211184
-- -on: 0.015255080211184
-- calcified: 0.015063753376398543
-- intracranial: 0.014831670377370442
-- disposition: 0.014796879900477204
-- gray/white: 0.014796879900477204
-- velocities: 0.014422502987142594
-- -normal: 0.014422502987142594
-- spatial: 0.014422502987142594
-- if: 0.014283840454500835
-- asa: 0.014105971817066089
-- insignificant: 0.014105971817066089
-- dwi/adc: 0.014105971817066089
-- temporal: 0.014052939949134032
-- worsening: 0.01381716620287802
-- left: 0.013742786211314995
-- microvascular: 0.013589925763101187
-- -large: 0.013589925763101187
-- hypoattenuation: 0.013373579735056372
-- -ct: 0.013373579735056372
-- emergency: 0.013288659539960066
-- thrombolytic: 0.01317787094695714
-- -left: 0.01317787094695714
-- in: 0.012979380805141322
-- extremity: 0.012834328417422743
-- says: 0.012682671651645256
-- integrity: 0.012408479880342334
-- cerebral: 0.012157891177675855
-- internal: 0.011765403989235201
-- size: 0.011765403989235201
-- hemorrhage: 0.011680725191688031
-- sylvian: 0.011663294061678334
-- white: 0.011639031674382003
-- rehabilitation: 0.01157590265630093
-- bubble: 0.011259371486224424
-- past: 0.011150716517233816
-- onset: 0.011077705239939015
-- heparin: 0.010801171175517628
-- days: 0.010755951934997855
-- bifurcation: 0.010687064704973869
-- detect: 0.010632304444024873
-- inpatient: 0.010578966689603392
-- embolus: 0.010578966689603392
-- brain: 0.010559965188101691
-- proximal: 0.01053611162918692
-- documented: 0.010526979404214706
-- artery: 0.010449815162662008
-- from: 0.010401936042334393
-- preserved: 0.010378477019040936
-- echocardiogram: 0.010378477019040936
-- resultant: 0.010285125121552729
-- ica: 0.010285125121552729
-- resonance: 0.010285125121552729
-- loss: 0.01018671118056854
-- periventricular: 0.010110263092106513
-- magnetic: 0.01006877909350791
-- within: 0.010041877259051838
-- bleed: 0.010028116614460313
-- following: 0.00996007292361868
-- head: 0.0099531881337737
-- exams: 0.009910748208218119
-- yet: 0.00983607132080359
-- ct: 0.009817689144903843
-- contralateral: 0.009694402180173301
-- effacement: 0.009627071948503915
-- 64: 0.00956187954950067
-- emboli: 0.00949869339207407
-- fissure: 0.009407416672216095
-- differentiation: 0.009348744449538364
-- dwi: 0.009320025266838693
-- echo: 0.009129508360368535
-- w/: 0.009103679238793874
-- minutes: 0.009078170984176714
-- subacute: 0.009003494096762186
-- corresponding: 0.008931437998587094
-- thrombus: 0.008861824956131897
-- occlusion: 0.008750803967897243
-- upper: 0.00846850310213026
-- represents: 0.008431187315511632
-- vessel: 0.008358493420129873
-- 23: 0.008340715057207668
-- 28: 0.008271102014752469
-- ventricles: 0.008254061351888619
-- hemorrhagic: 0.008187278617380282
-- %: 0.00818612334023001
-- ischemia: 0.008154684471268804
-- 26: 0.008122599629578698
-- posterior: 0.008088864676396093
-- mri: 0.008062734517103163
-- term: 0.00802924773209049
-- decrease: 0.00802924773209049
-- deficits: 0.00802924773209049
-- diffusion: 0.007854385702644275
-- ventricular: 0.007840464374132204
-- medications: 0.007826636792651005
-- ,: 0.007782219542591423
-- resulting: 0.007706208194947704
-- foci: 0.007531876688199272
-- thrombosis: 0.007531876688199272
-- cortex: 0.0075081378331662615
-- relatively: 0.0075081378331662615
-- function: 0.007438524790711064
-- etiology: 0.007427148650309389
-- us: 0.0073601844088540275
-- increase: 0.0073601844088540275
-- arm: 0.007349232979746508
-- rule: 0.007327503802476412
-- recommended: 0.007274166048054932
-- especially: 0.007222178762666245
-- hand: 0.007211937404327357
-- prominent: 0.007201746871797317
-- 25: 0.007092867060076126
-- evaluate: 0.007092867060076126
-- no: 0.00706730308586285
-- shown: 0.0070358248339835675
-- sagittal: 0.00699865842403774
-- vs: 0.00690858310143901
-- hours: 0.006899789134720322
-- unknown: 0.006847801849331636
-- previous: 0.006813860777563237
-- malignancy: 0.00678047161766225
-- course: 0.006621214462947929
-- view: 0.0065832579646438166
-- ‚Äú: 0.006553389974905873
-- ‚Äù: 0.0065166557557051015
-- middle: 0.0064171642087113715
-- early: 0.0064171642087113715
-- calcification: 0.006369169647755912
-- effect: 0.006212645283509744
-- signs: 0.006175309926049393
-- new: 0.006114554367146937
-- long: 0.006049736161874176
-- elevated: 0.005953421686568918
-- extending: 0.005898807081806565
-- out: 0.005798878597245413
-- study: 0.005773370342628253
-- vascular: 0.00575318946185564
-- often: 0.005598508313182038
-- further: 0.005579967436961516
-- and: 0.005544425227891739
-- medical: 0.0053989934292936435
-- some: 0.005328394771800327
-- her: 0.005275999298737034
-- decreased: 0.005217158937832771
-- edema: 0.0049628819084831435
-- time: 0.004956060014865119
-- region: 0.004956060014865119
-- likely: 0.004949260710340157
-- chronic: 0.004942483845804928
-- secondary: 0.004905605680716237
-- mass: 0.004880743355020799
-- high: 0.004801942630547876
-- significant: 0.004718371973417296
-- common: 0.0045919244598693985
-- patients: 0.0045412209432567265
-- into: 0.004175208147761205
-- or: 0.004113029769871489
-- imaging: 0.004111034547136762
-- 3: 0.004108779315619178
-- woman: 0.004053188803878658
-- most: 0.004050996184246563
-- can: 0.003979922695008357
-- present: 0.003963056989592774
-- contrast: 0.0039276708148006274
-- may: 0.003848723550098817
-- large: 0.0038368427758338395
-- treatment: 0.0035515748657102405
-- to: 0.003507746270578943
-- seen: 0.003467407833814559
-- images: 0.0033660449526680784
-- for: 0.0029942839779988303
-- of: 0.0028707302044678877
-- disease: 0.002868044232475779
-- as: 0.0026541632564561148
-- not: 0.0025355619542955553
-- history: 0.002423438475784566
-- is: 0.0023092023752966147
-- this: 0.00197358770701054
-- year: 0.0019632551730449995
-- old: 0.0017965802810313237
-- patient: 0.0017589156692328295
-- on: 0.0014864291835019058
-- with: 0.0012012749085204284
-- the: 0.0008516383041291117
-- .: 7.289432463520795e-05
+\-\ Texto\\:\\ \ \(0\)\
+\-\ left\\ upper\\ extremity\\ weakness\\ and\\ numbness\\ for\\ past\\ couple\\ days\ \(0\)\
+\-\ treatment\\:\\ asa\\,\\ heparin\\ if\\ no\\ bleed\\ and\\ large\\ vessel\\ atherothrombosis\\,\\ thrombolytic\\ \\(t\\-pa\\)\\ if\\ within\\ 3\\ hours\\ of\\ symptom\\ onset\ \(0\)\
+\-\ disposition\\:\\ often\\ long\\ term\\ inpatient\\ stroke\\ rehabilitation\ \(0\)\
+\-\ 23\\ jan\\:\\ non\\-contrast\\ head\\ ct\\ \\(from\\ emergency\\ dept\\)\ \(0\)\
+\-\ regional\\ hypoattenuation\\ in\\ right\\ temporal\\ lobe\\,\\ extending\\ from\\ cerebral\\ cortex\\ into\\ white\\ matter\ \(1\)\
+\-\ loss\\ of\\ gray\\/white\\ matter\\ differentiation\ \(1\)\
+\-\ sulcal\\ effacement\\ of\\ right\\ temporal\\-parietal\\ lobes\\ \\(may\\ represent\\ ischemia\\ and\\ resultant\\ edema\\)\ \(1\)\
+\-\ some\\ chronic\\ microvascular\\ ischemic\\ disease\\ of\\ periventricular\\ white\\ matter\ \(1\)\
+\-\ ventricles\\ and\\ cisterns\\ preserved\\,\\ no\\ intracranial\\ hemorrhage\\ or\\ mass\ \(1\)\
+\-\ likely\\ represents\\ infarct\\ of\\ unknown\\ time\\ course\\ \\(subacute\\ vs\\.\\ acute\\)\ \(1\)\
+\-\ mri\\ recommended\ \(0\)\
+\-\ 24\\ jan\\:\\ brain\\ mri\\ \\(from\\ emergency\\ dept\\)\ \(0\)\
+\-\ axial\\ dwi\\‚\\Ä\\îincreased\\ signal\\ in\\ right\\ posterior\\ parietal\\ lobe\\=restricted\\ diffusion\ \(0\)\
+\-\ adc\\ map\\-\\-corresponding\\ decreased\\ signal\ \(0\)\
+\-\ consistent\\ with\\ acute\\ stroke\\ in\\ right\\ posterior\\ parietal\\ lobe\ \(1\)\
+\-\ 24\\ jan\\:\\ carotid\\ us\ \(0\)\
+\-\ echogenic\\ calcified\\ plaque\\ in\\ right\\ carotid\\ bulb\\ and\\ proximal\\ internal\\ carotid\\ artery\\ with\\ 50\\-69\\%\\ stenosis\\ with\\ elevated\\ velocities\\ in\\ internal\\ carotid\ \(1\)\
+\-\ hemodynamically\\ insignificant\\ stenosis\\ in\\ left\\ carotid\\ bulb\ \(1\)\
+\-\ 24\\ jan\\:\\ transthoracic\\ echo\\ \\(no\\ images\\ shown\\)\ \(0\)\
+\-\ normal\\ left\\ and\\ right\\ ventricular\\ size\\ and\\ function\ \(1\)\
+\-\ negative\\ bubble\\ study\ \(1\)\
+\-\ 25\\ jan\\:\\ ct\\ angiography\\ w\\/\\ contrast\\ \\(sagittal\\ view\\)\ \(0\)\
+\-\ large\\ calcified\\ plaque\\ in\\ right\\ carotid\\ bifurcation\\ and\\ proximal\\ ica\\ \ \(0\)\
+\-\ hemodynamically\\ significant\\ stenosis\\ of\\ 64\\%\ \(1\)\
+\-\ 26\\ jan\\:\\ non\\-contrast\\ head\\ ct\\ \\(following\\ worsening\\ left\\ sided\\ weakness\\ and\\ sensory\\ loss\\)\ \(0\)\
+\-\ hypodensity\\ of\\ right\\ temporal\\ lobe\ \(1\)\
+\-\ two\\ new\\ foci\\ of\\ calcification\\ within\\ the\\ right\\ sylvian\\ fissure\\,\\ not\\ present\\ on\\ previous\\ exams\\,\\ likely\\ represent\\ further\\ acute\\ thromboemboli\ \(1\)\
+\-\ more\\ prominent\\ ventricles\\ and\\ cisterns\ \(1\)\
+\-\ no\\ intracranial\\ hemorrhage\\ or\\ mass\\ effect\ \(1\)\
+\-\ 28\\ jan\\:\\ brain\\ mri\\ \\(following\\ worsening\\ left\\ sided\\ weakness\\ and\\ sensory\\ loss\\)\ \(0\)\
+\-\ dwi\\‚\\Ä\\îinterval\\ increase\\ in\\ size\\ of\\ signal\\ in\\ right\\ temporal\\-parietal\\ region\ \(0\)\
+\-\ adc\\ map\\‚\\Ä\\îcorresponding\\ decrease\\ in\\ signal\ \(0\)\
+\-\ ischemic\\ stoke\\ in\\ right\\ temporal\\-parietal\\ lobes\\ secondary\\ to\\ emboli\\ from\\ carotid\\ bulb\\ atheroma\ \(0\)\
+\-\ ischemic\\ stroke\\ \\(embolus\\,\\ thrombus\\,\\ arterial\\ dissection\\)\ \(0\)\
+\-\ hemorrhagic\\ stroke\ \(4\)\
+\-\ malignancy\ \(256\)\
+\-\ 87\\ year\\ old\\ woman\ \(3\)\
+\-\ left\\ upper\\ extremity\\ weakness\\ and\\ numbness\\ for\\ past\\ couple\\ days\ \(0\)\
+\-\ son\\ says\\ her\\ left\\ face\\ is\\ \\‚\\Ä\\údroopy\\‚\\Ä\\ù\ \(0\)\
+\-\ no\\ documented\\ medical\\ history\ \(0\)\
+\-\ on\\ no\\ medications\ \(3\)\
+\-\ etiology\\ of\\ ischemic\\ stroke\\:\ \(0\)\
+\-\ cardioemboli\ \(1\)\
+\-\ carotid\\ occlusion\ \(1\)\
+\-\ arterial\\ dissection\ \(3\)\
+\-\ local\\ arterial\\ thrombosis\ \(1\)\
+\-\ middle\\ cerebral\\ artery\\ most\\ common\\ destination\\ with\ \(0\)\
+\-\ contralateral\\ hand\\,\\ arm\\ and\\ face\\ weakness\\ and\\ sensory\\ deficits\\,\\ and\\ spatial\\ neglect\\-\\-especially\\ if\\ the\\ infarct\\ is\\ in\\ the\\ right\\ parietal\\ lobe\\ resulting\\ in\\ left\\ sided\\ neglect\\ as\\ seen\\ in\\ this\\ patient\ \(1\)\
+\-\ imaging\\ in\\ ischemic\\ stroke\\ patients\\:\ \(0\)\
+\-\ noncontrast\\ ct\\ to\\ rule\\ out\\ hemorrhage\\/mass\\,\\ some\\ early\\ signs\\ of\\ infarction\\,\\ yet\\ relatively\\ insensitive\\ to\\ acute\\ infarction\ \(0\)\
+\-\ mri\\ \\(dwi\\/adc\\ map\\)\\:\\ dwi\\ can\\ detect\\ infarction\\ within\\ minutes\\ of\\ symptom\\ onset\\ with\\ high\\ sens\\/spec\ \(0\)\
+\-\ ct\\ angiography\\,\\ magnetic\\ resonance\\ angiography\\,\\ transthoracic\\ echocardiogram\\ to\\ evaluate\\ vascular\\ integrity\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ jan\\:\\ 0\\.08685935916239634\ \(0\)\
+\-\ carotid\\:\\ 0\\.05507881440617481\ \(0\)\
+\-\ stroke\\:\\ 0\\.054933999145095364\ \(0\)\
+\-\ temporal\\-parietal\\:\\ 0\\.054305041626076994\ \(0\)\
+\-\ ischemic\\:\\ 0\\.04272646893027695\ \(0\)\
+\-\ \\-adc\\:\\ 0\\.03620336108405133\ \(0\)\
+\-\ \\-hemodynamically\\:\\ 0\\.03620336108405133\ \(0\)\
+\-\ bulb\\:\\ 0\\.03377811445867327\ \(0\)\
+\-\ weakness\\:\\ 0\\.03258327877852551\ \(0\)\
+\-\ \\-mri\\:\\ 0\\.029593759800954408\ \(0\)\
+\-\ neglect\\:\\ 0\\.029593759800954408\ \(0\)\
+\-\ dept\\:\\ 0\\.028211943634132177\ \(0\)\
+\-\ transthoracic\\:\\ 0\\.028211943634132177\ \(0\)\
+\-\ \\:\\:\\ 0\\.0278507141517207\ \(0\)\
+\-\ sensory\\:\\ 0\\.02723451295253014\ \(0\)\
+\-\ couple\\:\\ 0\\.027179851526202375\ \(0\)\
+\-\ angiography\\:\\ 0\\.026450081192510008\ \(0\)\
+\-\ \\-no\\:\\ 0\\.024816959760684668\ \(0\)\
+\-\ map\\:\\ 0\\.0226680967472779\ \(0\)\
+\-\ parietal\\:\\ 0\\.022489111601907502\ \(0\)\
+\-\ right\\:\\ 0\\.022216797760420945\ \(0\)\
+\-\ cisterns\\:\\ 0\\.021602342351035256\ \(0\)\
+\-\ infarction\\:\\ 0\\.02151442573816072\ \(0\)\
+\-\ plaque\\:\\ 0\\.021157933379206784\ \(0\)\
+\-\ matter\\:\\ 0\\.02072574930431703\ \(0\)\
+\-\ stenosis\\:\\ 0\\.020620892912718892\ \(0\)\
+\-\ 24\\:\\ 0\\.020466880784143427\ \(0\)\
+\-\ symptom\\:\\ 0\\.019898260823056988\ \(0\)\
+\-\ sided\\:\\ 0\\.019463202955728825\ \(0\)\
+\-\ lobe\\:\\ 0\\.01888562914105572\ \(0\)\
+\-\ signal\\:\\ 0\\.018505743985813377\ \(0\)\
+\-\ atherothrombosis\\:\\ 0\\.018101680542025666\ \(0\)\
+\-\ \\-regional\\:\\ 0\\.018101680542025666\ \(0\)\
+\-\ \\-sulcal\\:\\ 0\\.018101680542025666\ \(0\)\
+\-\ \\-ventricles\\:\\ 0\\.018101680542025666\ \(0\)\
+\-\ \\-likely\\:\\ 0\\.018101680542025666\ \(0\)\
+\-\ dwi\\‚\\Ä\\îincreased\\:\\ 0\\.018101680542025666\ \(0\)\
+\-\ lobe\\=restricted\\:\\ 0\\.018101680542025666\ \(0\)\
+\-\ \\-consistent\\:\\ 0\\.018101680542025666\ \(0\)\
+\-\ \\-echogenic\\:\\ 0\\.018101680542025666\ \(0\)\
+\-\ 50\\-69\\:\\ 0\\.018101680542025666\ \(0\)\
+\-\ \\-hypodensity\\:\\ 0\\.018101680542025666\ \(0\)\
+\-\ \\-dwi\\‚\\Ä\\îinterval\\:\\ 0\\.018101680542025666\ \(0\)\
+\-\ map\\‚\\Ä\\îcorresponding\\:\\ 0\\.018101680542025666\ \(0\)\
+\-\ \\-87\\:\\ 0\\.018101680542025666\ \(0\)\
+\-\ \\-son\\:\\ 0\\.018101680542025666\ \(0\)\
+\-\ \\-cardioemboli\\:\\ 0\\.018101680542025666\ \(0\)\
+\-\ \\-carotid\\:\\ 0\\.018101680542025666\ \(0\)\
+\-\ \\-arterial\\:\\ 0\\.018101680542025666\ \(0\)\
+\-\ \\-local\\:\\ 0\\.018101680542025666\ \(0\)\
+\-\ destination\\:\\ 0\\.018101680542025666\ \(0\)\
+\-\ hemorrhage\\/mass\\:\\ 0\\.018101680542025666\ \(0\)\
+\-\ sens\\/spec\\:\\ 0\\.018101680542025666\ \(0\)\
+\-\ acute\\:\\ 0\\.017329604345843904\ \(0\)\
+\-\ dissection\\:\\ 0\\.017250094074436298\ \(0\)\
+\-\ face\\:\\ 0\\.01720963289807896\ \(0\)\
+\-\ non\\-contrast\\:\\ 0\\.017129887165606268\ \(0\)\
+\-\ numbness\\:\\ 0\\.016862374631023264\ \(0\)\
+\-\ \\-loss\\:\\ 0\\.016678380376604834\ \(0\)\
+\-\ \\-some\\:\\ 0\\.016678380376604834\ \(0\)\
+\-\ \\-axial\\:\\ 0\\.016678380376604834\ \(0\)\
+\-\ \\-negative\\:\\ 0\\.016678380376604834\ \(0\)\
+\-\ \\-more\\:\\ 0\\.016678380376604834\ \(0\)\
+\-\ atheroma\\:\\ 0\\.016678380376604834\ \(0\)\
+\-\ droopy\\:\\ 0\\.016678380376604834\ \(0\)\
+\-\ \\-noncontrast\\:\\ 0\\.016678380376604834\ \(0\)\
+\-\ insensitive\\:\\ 0\\.016678380376604834\ \(0\)\
+\-\ \\(\\:\\ 0\\.016316178621524572\ \(0\)\
+\-\ \\-\\-\\:\\ 0\\.01611979176897226\ \(0\)\
+\-\ \\)\\:\\ 0\\.01611686778900689\ \(0\)\
+\-\ t\\-pa\\:\\ 0\\.015845803152563426\ \(0\)\
+\-\ \\-two\\:\\ 0\\.015845803152563426\ \(0\)\
+\-\ stoke\\:\\ 0\\.015845803152563426\ \(0\)\
+\-\ infarct\\:\\ 0\\.015571408226366415\ \(0\)\
+\-\ lobes\\:\\ 0\\.015464732717523456\ \(0\)\
+\-\ represent\\:\\ 0\\.015412416389895408\ \(0\)\
+\-\ arterial\\:\\ 0\\.015360758146746084\ \(0\)\
+\-\ thromboemboli\\:\\ 0\\.015255080211184\ \(0\)\
+\-\ \\-on\\:\\ 0\\.015255080211184\ \(0\)\
+\-\ calcified\\:\\ 0\\.015063753376398543\ \(0\)\
+\-\ intracranial\\:\\ 0\\.014831670377370442\ \(0\)\
+\-\ disposition\\:\\ 0\\.014796879900477204\ \(0\)\
+\-\ gray\\/white\\:\\ 0\\.014796879900477204\ \(0\)\
+\-\ velocities\\:\\ 0\\.014422502987142594\ \(0\)\
+\-\ \\-normal\\:\\ 0\\.014422502987142594\ \(0\)\
+\-\ spatial\\:\\ 0\\.014422502987142594\ \(0\)\
+\-\ if\\:\\ 0\\.014283840454500835\ \(0\)\
+\-\ asa\\:\\ 0\\.014105971817066089\ \(0\)\
+\-\ insignificant\\:\\ 0\\.014105971817066089\ \(0\)\
+\-\ dwi\\/adc\\:\\ 0\\.014105971817066089\ \(0\)\
+\-\ temporal\\:\\ 0\\.014052939949134032\ \(0\)\
+\-\ worsening\\:\\ 0\\.01381716620287802\ \(0\)\
+\-\ left\\:\\ 0\\.013742786211314995\ \(0\)\
+\-\ microvascular\\:\\ 0\\.013589925763101187\ \(0\)\
+\-\ \\-large\\:\\ 0\\.013589925763101187\ \(0\)\
+\-\ hypoattenuation\\:\\ 0\\.013373579735056372\ \(0\)\
+\-\ \\-ct\\:\\ 0\\.013373579735056372\ \(0\)\
+\-\ emergency\\:\\ 0\\.013288659539960066\ \(0\)\
+\-\ thrombolytic\\:\\ 0\\.01317787094695714\ \(0\)\
+\-\ \\-left\\:\\ 0\\.01317787094695714\ \(0\)\
+\-\ in\\:\\ 0\\.012979380805141322\ \(0\)\
+\-\ extremity\\:\\ 0\\.012834328417422743\ \(0\)\
+\-\ says\\:\\ 0\\.012682671651645256\ \(0\)\
+\-\ integrity\\:\\ 0\\.012408479880342334\ \(0\)\
+\-\ cerebral\\:\\ 0\\.012157891177675855\ \(0\)\
+\-\ internal\\:\\ 0\\.011765403989235201\ \(0\)\
+\-\ size\\:\\ 0\\.011765403989235201\ \(0\)\
+\-\ hemorrhage\\:\\ 0\\.011680725191688031\ \(0\)\
+\-\ sylvian\\:\\ 0\\.011663294061678334\ \(0\)\
+\-\ white\\:\\ 0\\.011639031674382003\ \(0\)\
+\-\ rehabilitation\\:\\ 0\\.01157590265630093\ \(0\)\
+\-\ bubble\\:\\ 0\\.011259371486224424\ \(0\)\
+\-\ past\\:\\ 0\\.011150716517233816\ \(0\)\
+\-\ onset\\:\\ 0\\.011077705239939015\ \(0\)\
+\-\ heparin\\:\\ 0\\.010801171175517628\ \(0\)\
+\-\ days\\:\\ 0\\.010755951934997855\ \(0\)\
+\-\ bifurcation\\:\\ 0\\.010687064704973869\ \(0\)\
+\-\ detect\\:\\ 0\\.010632304444024873\ \(0\)\
+\-\ inpatient\\:\\ 0\\.010578966689603392\ \(0\)\
+\-\ embolus\\:\\ 0\\.010578966689603392\ \(0\)\
+\-\ brain\\:\\ 0\\.010559965188101691\ \(0\)\
+\-\ proximal\\:\\ 0\\.01053611162918692\ \(0\)\
+\-\ documented\\:\\ 0\\.010526979404214706\ \(0\)\
+\-\ artery\\:\\ 0\\.010449815162662008\ \(0\)\
+\-\ from\\:\\ 0\\.010401936042334393\ \(0\)\
+\-\ preserved\\:\\ 0\\.010378477019040936\ \(0\)\
+\-\ echocardiogram\\:\\ 0\\.010378477019040936\ \(0\)\
+\-\ resultant\\:\\ 0\\.010285125121552729\ \(0\)\
+\-\ ica\\:\\ 0\\.010285125121552729\ \(0\)\
+\-\ resonance\\:\\ 0\\.010285125121552729\ \(0\)\
+\-\ loss\\:\\ 0\\.01018671118056854\ \(0\)\
+\-\ periventricular\\:\\ 0\\.010110263092106513\ \(0\)\
+\-\ magnetic\\:\\ 0\\.01006877909350791\ \(0\)\
+\-\ within\\:\\ 0\\.010041877259051838\ \(0\)\
+\-\ bleed\\:\\ 0\\.010028116614460313\ \(0\)\
+\-\ following\\:\\ 0\\.00996007292361868\ \(0\)\
+\-\ head\\:\\ 0\\.0099531881337737\ \(0\)\
+\-\ exams\\:\\ 0\\.009910748208218119\ \(0\)\
+\-\ yet\\:\\ 0\\.00983607132080359\ \(0\)\
+\-\ ct\\:\\ 0\\.009817689144903843\ \(0\)\
+\-\ contralateral\\:\\ 0\\.009694402180173301\ \(0\)\
+\-\ effacement\\:\\ 0\\.009627071948503915\ \(0\)\
+\-\ 64\\:\\ 0\\.00956187954950067\ \(0\)\
+\-\ emboli\\:\\ 0\\.00949869339207407\ \(0\)\
+\-\ fissure\\:\\ 0\\.009407416672216095\ \(0\)\
+\-\ differentiation\\:\\ 0\\.009348744449538364\ \(0\)\
+\-\ dwi\\:\\ 0\\.009320025266838693\ \(0\)\
+\-\ echo\\:\\ 0\\.009129508360368535\ \(0\)\
+\-\ w\\/\\:\\ 0\\.009103679238793874\ \(0\)\
+\-\ minutes\\:\\ 0\\.009078170984176714\ \(0\)\
+\-\ subacute\\:\\ 0\\.009003494096762186\ \(0\)\
+\-\ corresponding\\:\\ 0\\.008931437998587094\ \(0\)\
+\-\ thrombus\\:\\ 0\\.008861824956131897\ \(0\)\
+\-\ occlusion\\:\\ 0\\.008750803967897243\ \(0\)\
+\-\ upper\\:\\ 0\\.00846850310213026\ \(0\)\
+\-\ represents\\:\\ 0\\.008431187315511632\ \(0\)\
+\-\ vessel\\:\\ 0\\.008358493420129873\ \(0\)\
+\-\ 23\\:\\ 0\\.008340715057207668\ \(0\)\
+\-\ 28\\:\\ 0\\.008271102014752469\ \(0\)\
+\-\ ventricles\\:\\ 0\\.008254061351888619\ \(0\)\
+\-\ hemorrhagic\\:\\ 0\\.008187278617380282\ \(0\)\
+\-\ \\%\\:\\ 0\\.00818612334023001\ \(0\)\
+\-\ ischemia\\:\\ 0\\.008154684471268804\ \(0\)\
+\-\ 26\\:\\ 0\\.008122599629578698\ \(0\)\
+\-\ posterior\\:\\ 0\\.008088864676396093\ \(0\)\
+\-\ mri\\:\\ 0\\.008062734517103163\ \(0\)\
+\-\ term\\:\\ 0\\.00802924773209049\ \(0\)\
+\-\ decrease\\:\\ 0\\.00802924773209049\ \(0\)\
+\-\ deficits\\:\\ 0\\.00802924773209049\ \(0\)\
+\-\ diffusion\\:\\ 0\\.007854385702644275\ \(0\)\
+\-\ ventricular\\:\\ 0\\.007840464374132204\ \(0\)\
+\-\ medications\\:\\ 0\\.007826636792651005\ \(0\)\
+\-\ \\,\\:\\ 0\\.007782219542591423\ \(0\)\
+\-\ resulting\\:\\ 0\\.007706208194947704\ \(0\)\
+\-\ foci\\:\\ 0\\.007531876688199272\ \(0\)\
+\-\ thrombosis\\:\\ 0\\.007531876688199272\ \(0\)\
+\-\ cortex\\:\\ 0\\.0075081378331662615\ \(0\)\
+\-\ relatively\\:\\ 0\\.0075081378331662615\ \(0\)\
+\-\ function\\:\\ 0\\.007438524790711064\ \(0\)\
+\-\ etiology\\:\\ 0\\.007427148650309389\ \(0\)\
+\-\ us\\:\\ 0\\.0073601844088540275\ \(0\)\
+\-\ increase\\:\\ 0\\.0073601844088540275\ \(0\)\
+\-\ arm\\:\\ 0\\.007349232979746508\ \(0\)\
+\-\ rule\\:\\ 0\\.007327503802476412\ \(0\)\
+\-\ recommended\\:\\ 0\\.007274166048054932\ \(0\)\
+\-\ especially\\:\\ 0\\.007222178762666245\ \(0\)\
+\-\ hand\\:\\ 0\\.007211937404327357\ \(0\)\
+\-\ prominent\\:\\ 0\\.007201746871797317\ \(0\)\
+\-\ 25\\:\\ 0\\.007092867060076126\ \(0\)\
+\-\ evaluate\\:\\ 0\\.007092867060076126\ \(0\)\
+\-\ no\\:\\ 0\\.00706730308586285\ \(0\)\
+\-\ shown\\:\\ 0\\.0070358248339835675\ \(0\)\
+\-\ sagittal\\:\\ 0\\.00699865842403774\ \(0\)\
+\-\ vs\\:\\ 0\\.00690858310143901\ \(0\)\
+\-\ hours\\:\\ 0\\.006899789134720322\ \(0\)\
+\-\ unknown\\:\\ 0\\.006847801849331636\ \(0\)\
+\-\ previous\\:\\ 0\\.006813860777563237\ \(0\)\
+\-\ malignancy\\:\\ 0\\.00678047161766225\ \(0\)\
+\-\ course\\:\\ 0\\.006621214462947929\ \(0\)\
+\-\ view\\:\\ 0\\.0065832579646438166\ \(0\)\
+\-\ \\‚\\Ä\\ú\\:\\ 0\\.006553389974905873\ \(0\)\
+\-\ \\‚\\Ä\\ù\\:\\ 0\\.0065166557557051015\ \(0\)\
+\-\ middle\\:\\ 0\\.0064171642087113715\ \(0\)\
+\-\ early\\:\\ 0\\.0064171642087113715\ \(0\)\
+\-\ calcification\\:\\ 0\\.006369169647755912\ \(0\)\
+\-\ effect\\:\\ 0\\.006212645283509744\ \(0\)\
+\-\ signs\\:\\ 0\\.006175309926049393\ \(0\)\
+\-\ new\\:\\ 0\\.006114554367146937\ \(0\)\
+\-\ long\\:\\ 0\\.006049736161874176\ \(0\)\
+\-\ elevated\\:\\ 0\\.005953421686568918\ \(0\)\
+\-\ extending\\:\\ 0\\.005898807081806565\ \(0\)\
+\-\ out\\:\\ 0\\.005798878597245413\ \(0\)\
+\-\ study\\:\\ 0\\.005773370342628253\ \(0\)\
+\-\ vascular\\:\\ 0\\.00575318946185564\ \(0\)\
+\-\ often\\:\\ 0\\.005598508313182038\ \(0\)\
+\-\ further\\:\\ 0\\.005579967436961516\ \(0\)\
+\-\ and\\:\\ 0\\.005544425227891739\ \(0\)\
+\-\ medical\\:\\ 0\\.0053989934292936435\ \(0\)\
+\-\ some\\:\\ 0\\.005328394771800327\ \(0\)\
+\-\ her\\:\\ 0\\.005275999298737034\ \(0\)\
+\-\ decreased\\:\\ 0\\.005217158937832771\ \(0\)\
+\-\ edema\\:\\ 0\\.0049628819084831435\ \(0\)\
+\-\ time\\:\\ 0\\.004956060014865119\ \(0\)\
+\-\ region\\:\\ 0\\.004956060014865119\ \(0\)\
+\-\ likely\\:\\ 0\\.004949260710340157\ \(0\)\
+\-\ chronic\\:\\ 0\\.004942483845804928\ \(0\)\
+\-\ secondary\\:\\ 0\\.004905605680716237\ \(0\)\
+\-\ mass\\:\\ 0\\.004880743355020799\ \(0\)\
+\-\ high\\:\\ 0\\.004801942630547876\ \(0\)\
+\-\ significant\\:\\ 0\\.004718371973417296\ \(0\)\
+\-\ common\\:\\ 0\\.0045919244598693985\ \(0\)\
+\-\ patients\\:\\ 0\\.0045412209432567265\ \(0\)\
+\-\ into\\:\\ 0\\.004175208147761205\ \(0\)\
+\-\ or\\:\\ 0\\.004113029769871489\ \(0\)\
+\-\ imaging\\:\\ 0\\.004111034547136762\ \(0\)\
+\-\ 3\\:\\ 0\\.004108779315619178\ \(0\)\
+\-\ woman\\:\\ 0\\.004053188803878658\ \(0\)\
+\-\ most\\:\\ 0\\.004050996184246563\ \(0\)\
+\-\ can\\:\\ 0\\.003979922695008357\ \(0\)\
+\-\ present\\:\\ 0\\.003963056989592774\ \(0\)\
+\-\ contrast\\:\\ 0\\.0039276708148006274\ \(0\)\
+\-\ may\\:\\ 0\\.003848723550098817\ \(0\)\
+\-\ large\\:\\ 0\\.0038368427758338395\ \(0\)\
+\-\ treatment\\:\\ 0\\.0035515748657102405\ \(0\)\
+\-\ to\\:\\ 0\\.003507746270578943\ \(0\)\
+\-\ seen\\:\\ 0\\.003467407833814559\ \(0\)\
+\-\ images\\:\\ 0\\.0033660449526680784\ \(0\)\
+\-\ for\\:\\ 0\\.0029942839779988303\ \(0\)\
+\-\ of\\:\\ 0\\.0028707302044678877\ \(0\)\
+\-\ disease\\:\\ 0\\.002868044232475779\ \(0\)\
+\-\ as\\:\\ 0\\.0026541632564561148\ \(0\)\
+\-\ not\\:\\ 0\\.0025355619542955553\ \(0\)\
+\-\ history\\:\\ 0\\.002423438475784566\ \(0\)\
+\-\ is\\:\\ 0\\.0023092023752966147\ \(0\)\
+\-\ this\\:\\ 0\\.00197358770701054\ \(0\)\
+\-\ year\\:\\ 0\\.0019632551730449995\ \(0\)\
+\-\ old\\:\\ 0\\.0017965802810313237\ \(0\)\
+\-\ patient\\:\\ 0\\.0017589156692328295\ \(0\)\
+\-\ on\\:\\ 0\\.0014864291835019058\ \(0\)\
+\-\ with\\:\\ 0\\.0012012749085204284\ \(0\)\
+\-\ the\\:\\ 0\\.0008516383041291117\ \(0\)\
+\-\ \\.\\:\\ 7\\.289432463520795e\\-05\ \(0\)\

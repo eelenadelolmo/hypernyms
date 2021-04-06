@@ -1,133 +1,129 @@
-Texto: 
-pending.
-see factoid.
-portable ap chest:  the lungs are clear.  the heart size and pulmonary vasculature are normal.
-the bones are diffusely osteopenic.  there is a healing fracture of the left clavical.  there is widening, cupping and fraying of the costochondral junctions of the ribs.  there is diffuse periosteal reaction along the humeri bilaterally.
-
-wrists:  there is diffuse osteopenia.  there is widening, cupping and fraying of the growth plates of the wrists bilaterally.  there is demineralization of the provisional zone of calcification. there is diffuse periosteal reaction along the distal radius and ulna.
-
-knees: there is diffuse osteopenia.  there is widening, cupping and fraying of the growth plates of the knees bilaterally.  there is demineralization of the provisional zone of calcification. there is diffuse periosteal reaction along the distal tibia and femora.
-rickets
-rickets
-hypophosphatasia  
-metaphyseal dysplasias. 
-repetitive stress
-16 month old male comes to the emergency room. 
-"rule out infiltrates" was the given history on the requisition for the cxr.
-this was an interesting case because when the on-call resident saw the fracture, diffuse osteopenia and the "ricketic rosary" he called er attending with the results.  the er said they saw the fracture but rickets was not expected clinically.  the knee and wrist series was then ordered, which confirmed the diagnisis of rickets.
-
-
-Keywords by value: 
-- rickets: 0.086798890636796
-- cupping: 0.07388066398626154
-- fraying: 0.07388066398626154
-- diffuse: 0.06258888920262859
-- osteopenia: 0.06006496962406983
-- there: 0.05640673839159224
-- provisional: 0.05337333747282482
-- saw: 0.05252365589493913
-- widening: 0.05207248690463284
-- demineralization: 0.05175502541264619
-- periosteal: 0.049032393014138004
-- reaction: 0.04694811884075572
-- plates: 0.04616512879522727
-- wrists: 0.044817918435040446
-- knees: 0.04004331308271322
-- zone: 0.036603647620568086
-- ricketic: 0.03554644525792943
-- diagnisis: 0.03554644525792943
-- along: 0.03416194205877237
-- bilaterally: 0.03395207949827302
-- on-call: 0.03275149694921997
-- clavical: 0.03111655699717092
-- requisition: 0.03111655699717092
-- growth: 0.02996493545276048
-- rosary: 0.029956548640510512
-- attending: 0.028321608688461463
-- humeri: 0.027700033366577358
-- fracture: 0.027254931414590063
-- costochondral: 0.027161600331801056
-- junctions: 0.027161600331801056
-- osteopenic: 0.02668666873641241
-- femora: 0.02668666873641241
-- resident: 0.02668666873641241
-- er: 0.02643696900764485
-- hypophosphatasia: 0.026261827947469566
-- dysplasias: 0.025877512706323096
-- calcification: 0.025014400148847815
-- is: 0.024940316783193476
-- said: 0.024905085057867902
-- comes: 0.022567107254428617
-- repetitive: 0.022408959217520223
-- infiltrates: 0.021447624445564587
-- ulna: 0.020774019265471177
-- metaphyseal: 0.020572364343799155
-- portable: 0.020475196797109393
-- interesting: 0.02038031575916506
-- radius: 0.01897034096690801
-- distal: 0.018736117652790537
-- vasculature: 0.018714238524479277
-- ribs: 0.01859203953457876
-- called: 0.018083810821290996
-- healing: 0.017777416035089696
-- diffusely: 0.017402051425952553
-- series: 0.017141815453623636
-- ``: 0.016936572884127556
-- expected: 0.016780476104068447
-- '': 0.01661088308050196
-- ordered: 0.01620858015471676
-- was: 0.015939960035704626
-- wrist: 0.01591929021576982
-- tibia: 0.01582729554735784
-- 16: 0.015591768280598104
-- stress: 0.015107315410267205
-- clinically: 0.015107315410267205
-- the: 0.0150513334153141
-- pending: 0.01490937343366832
-- room: 0.014813930917192896
-- bones: 0.014540452706149506
-- cxr: 0.014540452706149506
-- rule: 0.014389090128250048
-- are: 0.014091216199954858
-- results: 0.013909445197357446
-- :: 0.013672679225693528
-- lungs: 0.013047534669275305
-- emergency: 0.013047534669275305
-- confirmed: 0.012957256464059666
-- clear: 0.012740026665913893
-- ap: 0.012601447458235635
-- knee: 0.012493914203872082
-- they: 0.012415105348739137
-- then: 0.01226196321944391
-- factoid: 0.012078368925863454
-- because: 0.012054509341072774
-- heart: 0.011972095358503122
-- given: 0.01181215480853364
-- size: 0.011551918836204723
-- out: 0.01138731401959079
-- month: 0.01033715540645407
-- see: 0.010283133916245113
-- pulmonary: 0.010066735121855094
-- when: 0.009868271119419377
-- he: 0.009613658637229917
-- chest: 0.00824487500023193
-- case: 0.007538324326077705
-- but: 0.007348803633199748
-- which: 0.006432034625978019
-- male: 0.006230667491481746
-- and: 0.005806742120394144
-- of: 0.005637280683773634
-- ,: 0.005457864224138858
-- normal: 0.005401663123383472
-- not: 0.004979107547346514
-- an: 0.004764777678567459
-- history: 0.004758929587528562
-- this: 0.003875553279492472
-- left: 0.0038552631825520753
-- old: 0.0035279620841219945
-- .: 0.003149152395732331
-- for: 0.0029399522122690123
-- on: 0.002918915372441242
-- to: 0.00172204882436688
-- a: 0.0015991927492685534
-- with: 0.00047179103262052314
+\-\ Texto\\:\\ \ \(0\)\
+\-\ pending\\.\ \(33\)\
+\-\ see\\ factoid\\.\ \(59\)\
+\-\ portable\\ ap\\ chest\\:\\ \\ the\\ lungs\\ are\\ clear\\.\\ \\ the\\ heart\\ size\\ and\\ pulmonary\\ vasculature\\ are\\ normal\\.\ \(0\)\
+\-\ the\\ bones\\ are\\ diffusely\\ osteopenic\\.\\ \\ there\\ is\\ a\\ healing\\ fracture\\ of\\ the\\ left\\ clavical\\.\\ \\ there\\ is\\ widening\\,\\ cupping\\ and\\ fraying\\ of\\ the\\ costochondral\\ junctions\\ of\\ the\\ ribs\\.\\ \\ there\\ is\\ diffuse\\ periosteal\\ reaction\\ along\\ the\\ humeri\\ bilaterally\\.\ \(0\)\
+\-\ wrists\\:\\ \\ there\\ is\\ diffuse\\ osteopenia\\.\\ \\ there\\ is\\ widening\\,\\ cupping\\ and\\ fraying\\ of\\ the\\ growth\\ plates\\ of\\ the\\ wrists\\ bilaterally\\.\\ \\ there\\ is\\ demineralization\\ of\\ the\\ provisional\\ zone\\ of\\ calcification\\.\\ there\\ is\\ diffuse\\ periosteal\\ reaction\\ along\\ the\\ distal\\ radius\\ and\\ ulna\\.\ \(0\)\
+\-\ knees\\:\\ there\\ is\\ diffuse\\ osteopenia\\.\\ \\ there\\ is\\ widening\\,\\ cupping\\ and\\ fraying\\ of\\ the\\ growth\\ plates\\ of\\ the\\ knees\\ bilaterally\\.\\ \\ there\\ is\\ demineralization\\ of\\ the\\ provisional\\ zone\\ of\\ calcification\\.\\ there\\ is\\ diffuse\\ periosteal\\ reaction\\ along\\ the\\ distal\\ tibia\\ and\\ femora\\.\ \(0\)\
+\-\ rickets\ \(46\)\
+\-\ rickets\ \(46\)\
+\-\ hypophosphatasia\\ \\ \ \(0\)\
+\-\ metaphyseal\\ dysplasias\\.\\ \ \(0\)\
+\-\ repetitive\\ stress\ \(1\)\
+\-\ 16\\ month\\ old\\ male\\ comes\\ to\\ the\\ emergency\\ room\\.\\ \ \(1\)\
+\-\ \\"rule\\ out\\ infiltrates\\"\\ was\\ the\\ given\\ history\\ on\\ the\\ requisition\\ for\\ the\\ cxr\\.\ \(0\)\
+\-\ this\\ was\\ an\\ interesting\\ case\\ because\\ when\\ the\\ on\\-call\\ resident\\ saw\\ the\\ fracture\\,\\ diffuse\\ osteopenia\\ and\\ the\\ \\"ricketic\\ rosary\\"\\ he\\ called\\ er\\ attending\\ with\\ the\\ results\\.\\ \\ the\\ er\\ said\\ they\\ saw\\ the\\ fracture\\ but\\ rickets\\ was\\ not\\ expected\\ clinically\\.\\ \\ the\\ knee\\ and\\ wrist\\ series\\ was\\ then\\ ordered\\,\\ which\\ confirmed\\ the\\ diagnisis\\ of\\ rickets\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ rickets\\:\\ 0\\.086798890636796\ \(0\)\
+\-\ cupping\\:\\ 0\\.07388066398626154\ \(0\)\
+\-\ fraying\\:\\ 0\\.07388066398626154\ \(0\)\
+\-\ diffuse\\:\\ 0\\.06258888920262859\ \(0\)\
+\-\ osteopenia\\:\\ 0\\.06006496962406983\ \(0\)\
+\-\ there\\:\\ 0\\.05640673839159224\ \(0\)\
+\-\ provisional\\:\\ 0\\.05337333747282482\ \(0\)\
+\-\ saw\\:\\ 0\\.05252365589493913\ \(0\)\
+\-\ widening\\:\\ 0\\.05207248690463284\ \(0\)\
+\-\ demineralization\\:\\ 0\\.05175502541264619\ \(0\)\
+\-\ periosteal\\:\\ 0\\.049032393014138004\ \(0\)\
+\-\ reaction\\:\\ 0\\.04694811884075572\ \(0\)\
+\-\ plates\\:\\ 0\\.04616512879522727\ \(0\)\
+\-\ wrists\\:\\ 0\\.044817918435040446\ \(0\)\
+\-\ knees\\:\\ 0\\.04004331308271322\ \(0\)\
+\-\ zone\\:\\ 0\\.036603647620568086\ \(0\)\
+\-\ ricketic\\:\\ 0\\.03554644525792943\ \(0\)\
+\-\ diagnisis\\:\\ 0\\.03554644525792943\ \(0\)\
+\-\ along\\:\\ 0\\.03416194205877237\ \(0\)\
+\-\ bilaterally\\:\\ 0\\.03395207949827302\ \(0\)\
+\-\ on\\-call\\:\\ 0\\.03275149694921997\ \(0\)\
+\-\ clavical\\:\\ 0\\.03111655699717092\ \(0\)\
+\-\ requisition\\:\\ 0\\.03111655699717092\ \(0\)\
+\-\ growth\\:\\ 0\\.02996493545276048\ \(0\)\
+\-\ rosary\\:\\ 0\\.029956548640510512\ \(0\)\
+\-\ attending\\:\\ 0\\.028321608688461463\ \(0\)\
+\-\ humeri\\:\\ 0\\.027700033366577358\ \(0\)\
+\-\ fracture\\:\\ 0\\.027254931414590063\ \(0\)\
+\-\ costochondral\\:\\ 0\\.027161600331801056\ \(0\)\
+\-\ junctions\\:\\ 0\\.027161600331801056\ \(0\)\
+\-\ osteopenic\\:\\ 0\\.02668666873641241\ \(0\)\
+\-\ femora\\:\\ 0\\.02668666873641241\ \(0\)\
+\-\ resident\\:\\ 0\\.02668666873641241\ \(0\)\
+\-\ er\\:\\ 0\\.02643696900764485\ \(0\)\
+\-\ hypophosphatasia\\:\\ 0\\.026261827947469566\ \(0\)\
+\-\ dysplasias\\:\\ 0\\.025877512706323096\ \(0\)\
+\-\ calcification\\:\\ 0\\.025014400148847815\ \(0\)\
+\-\ is\\:\\ 0\\.024940316783193476\ \(0\)\
+\-\ said\\:\\ 0\\.024905085057867902\ \(0\)\
+\-\ comes\\:\\ 0\\.022567107254428617\ \(0\)\
+\-\ repetitive\\:\\ 0\\.022408959217520223\ \(0\)\
+\-\ infiltrates\\:\\ 0\\.021447624445564587\ \(0\)\
+\-\ ulna\\:\\ 0\\.020774019265471177\ \(0\)\
+\-\ metaphyseal\\:\\ 0\\.020572364343799155\ \(0\)\
+\-\ portable\\:\\ 0\\.020475196797109393\ \(0\)\
+\-\ interesting\\:\\ 0\\.02038031575916506\ \(0\)\
+\-\ radius\\:\\ 0\\.01897034096690801\ \(0\)\
+\-\ distal\\:\\ 0\\.018736117652790537\ \(0\)\
+\-\ vasculature\\:\\ 0\\.018714238524479277\ \(0\)\
+\-\ ribs\\:\\ 0\\.01859203953457876\ \(0\)\
+\-\ called\\:\\ 0\\.018083810821290996\ \(0\)\
+\-\ healing\\:\\ 0\\.017777416035089696\ \(0\)\
+\-\ diffusely\\:\\ 0\\.017402051425952553\ \(0\)\
+\-\ series\\:\\ 0\\.017141815453623636\ \(0\)\
+\-\ \\`\\`\\:\\ 0\\.016936572884127556\ \(0\)\
+\-\ expected\\:\\ 0\\.016780476104068447\ \(0\)\
+\-\ \\'\\'\\:\\ 0\\.01661088308050196\ \(0\)\
+\-\ ordered\\:\\ 0\\.01620858015471676\ \(0\)\
+\-\ was\\:\\ 0\\.015939960035704626\ \(0\)\
+\-\ wrist\\:\\ 0\\.01591929021576982\ \(0\)\
+\-\ tibia\\:\\ 0\\.01582729554735784\ \(0\)\
+\-\ 16\\:\\ 0\\.015591768280598104\ \(0\)\
+\-\ stress\\:\\ 0\\.015107315410267205\ \(0\)\
+\-\ clinically\\:\\ 0\\.015107315410267205\ \(0\)\
+\-\ the\\:\\ 0\\.0150513334153141\ \(0\)\
+\-\ pending\\:\\ 0\\.01490937343366832\ \(0\)\
+\-\ room\\:\\ 0\\.014813930917192896\ \(0\)\
+\-\ bones\\:\\ 0\\.014540452706149506\ \(0\)\
+\-\ cxr\\:\\ 0\\.014540452706149506\ \(0\)\
+\-\ rule\\:\\ 0\\.014389090128250048\ \(0\)\
+\-\ are\\:\\ 0\\.014091216199954858\ \(0\)\
+\-\ results\\:\\ 0\\.013909445197357446\ \(0\)\
+\-\ \\:\\:\\ 0\\.013672679225693528\ \(0\)\
+\-\ lungs\\:\\ 0\\.013047534669275305\ \(0\)\
+\-\ emergency\\:\\ 0\\.013047534669275305\ \(0\)\
+\-\ confirmed\\:\\ 0\\.012957256464059666\ \(0\)\
+\-\ clear\\:\\ 0\\.012740026665913893\ \(0\)\
+\-\ ap\\:\\ 0\\.012601447458235635\ \(0\)\
+\-\ knee\\:\\ 0\\.012493914203872082\ \(0\)\
+\-\ they\\:\\ 0\\.012415105348739137\ \(0\)\
+\-\ then\\:\\ 0\\.01226196321944391\ \(0\)\
+\-\ factoid\\:\\ 0\\.012078368925863454\ \(0\)\
+\-\ because\\:\\ 0\\.012054509341072774\ \(0\)\
+\-\ heart\\:\\ 0\\.011972095358503122\ \(0\)\
+\-\ given\\:\\ 0\\.01181215480853364\ \(0\)\
+\-\ size\\:\\ 0\\.011551918836204723\ \(0\)\
+\-\ out\\:\\ 0\\.01138731401959079\ \(0\)\
+\-\ month\\:\\ 0\\.01033715540645407\ \(0\)\
+\-\ see\\:\\ 0\\.010283133916245113\ \(0\)\
+\-\ pulmonary\\:\\ 0\\.010066735121855094\ \(0\)\
+\-\ when\\:\\ 0\\.009868271119419377\ \(0\)\
+\-\ he\\:\\ 0\\.009613658637229917\ \(0\)\
+\-\ chest\\:\\ 0\\.00824487500023193\ \(0\)\
+\-\ case\\:\\ 0\\.007538324326077705\ \(0\)\
+\-\ but\\:\\ 0\\.007348803633199748\ \(0\)\
+\-\ which\\:\\ 0\\.006432034625978019\ \(0\)\
+\-\ male\\:\\ 0\\.006230667491481746\ \(0\)\
+\-\ and\\:\\ 0\\.005806742120394144\ \(0\)\
+\-\ of\\:\\ 0\\.005637280683773634\ \(0\)\
+\-\ \\,\\:\\ 0\\.005457864224138858\ \(0\)\
+\-\ normal\\:\\ 0\\.005401663123383472\ \(0\)\
+\-\ not\\:\\ 0\\.004979107547346514\ \(0\)\
+\-\ an\\:\\ 0\\.004764777678567459\ \(0\)\
+\-\ history\\:\\ 0\\.004758929587528562\ \(0\)\
+\-\ this\\:\\ 0\\.003875553279492472\ \(0\)\
+\-\ left\\:\\ 0\\.0038552631825520753\ \(0\)\
+\-\ old\\:\\ 0\\.0035279620841219945\ \(0\)\
+\-\ \\.\\:\\ 0\\.003149152395732331\ \(0\)\
+\-\ for\\:\\ 0\\.0029399522122690123\ \(0\)\
+\-\ on\\:\\ 0\\.002918915372441242\ \(0\)\
+\-\ to\\:\\ 0\\.00172204882436688\ \(0\)\
+\-\ a\\:\\ 0\\.0015991927492685534\ \(0\)\
+\-\ with\\:\\ 0\\.00047179103262052314\ \(0\)\

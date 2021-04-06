@@ -1,92 +1,90 @@
-Texto: 
-pe and labs were normal
-the patient was treated with the ladd's procedure and did well post-operatively.
-the duodenal-jejunal junction is inferior to the level of the duodenal bulb and it is to the right of its expected location to the left of the spine.
-malrotation
-malrotation
-redundant duodenum
-mass displacing duodenaljejunal junction
-2 month old baby boy with sudden onset of emesis persisting for one week.
-the diagnosis of malrotation is not always clear and thus the subsequent decision to intervene surgically is not always easy. although some upper gi series are conclusive, frequently the diagnosis requires good clinical judgement and experience. furthermore, it is not uncommon to discover asymptomatic adults with malrotation on an upper gi series performed for other reasons.
-
-
-Keywords by value: 
-- malrotation: 0.4059936140521156
-- the: 0.22080996589987095
-- duodenal: 0.19738631711954685
-- always: 0.18993307590889436
-- series: 0.18449591189669115
-- gi: 0.16901468145334417
-- junction: 0.16114401822876137
-- duodenaljejunal: 0.1608836093575995
-- intervene: 0.1537328776953056
-- discover: 0.1537328776953056
-- judgement: 0.14865935283948373
-- conclusive: 0.13879003917108826
-- is: 0.13775194412084926
-- persisting: 0.13643509632136802
-- ladd: 0.1324997647090766
-- redundant: 0.13081888636261257
-- easy: 0.13081888636261257
-- to: 0.12575081647633268
-- not: 0.11914517065963573
-- displacing: 0.11706010814095841
-- decision: 0.11434152613485679
-- bulb: 0.11372266003114463
-- furthermore: 0.10942617161510558
-- upper: 0.10751970692587227
-- reasons: 0.10677581357902642
-- diagnosis: 0.10430215067406147
-- and: 0.10394028333279251
-- it: 0.10299294580081447
-- emesis: 0.10211726961674106
-- experience: 0.10004006281026905
-- duodenum: 0.09895443554979039
-- of: 0.09843628617310064
-- requires: 0.09744186266583331
-- adults: 0.09394683927264426
-- surgically: 0.09336217111305345
-- thus: 0.09242883829561349
-- uncommon: 0.09103120634215577
-- expected: 0.09069844412553896
-- baby: 0.09069844412553896
-- sudden: 0.0869953851459715
-- pe: 0.08316726282588711
-- frequently: 0.08284757055060016
-- good: 0.08182194005539589
-- procedure: 0.08020458177749774
-- subsequent: 0.07616049828354828
-- its: 0.07444023947950659
-- clear: 0.07293305598367046
-- did: 0.07216743871706995
-- location: 0.07005185132035242
-- labs: 0.06969760377203389
-- boy: 0.06881807044846695
-- although: 0.06848753568676404
-- asymptomatic: 0.06848753568676404
-- inferior: 0.0684408181117437
-- week: 0.0676649883275159
-- spine: 0.06645717053932265
-- onset: 0.06459904573350325
-- clinical: 0.06375646575143432
-- some: 0.06329744811806653
-- treated: 0.06264736169363287
-- month: 0.06119702093397107
-- for: 0.06098305095892983
-- level: 0.060769093111486115
-- performed: 0.05951614258750705
-- with: 0.0590970610983798
-- one: 0.05759904895684008
-- other: 0.05224394482102755
-- were: 0.05185713729516272
-- well: 0.048711714928263664
-- normal: 0.04107489487259885
-- an: 0.03846965435080775
-- mass: 0.03842706588708466
-- are: 0.03817367252998919
-- was: 0.035060599104996606
-- left: 0.03431734653904084
-- right: 0.0333535410312628
-- patient: 0.03272059930510864
-- on: 0.030383362771471478
-- old: 0.029773980970340123
+\-\ Texto\\:\\ \ \(0\)\
+\-\ pe\\ and\\ labs\\ were\\ normal\ \(0\)\
+\-\ the\\ patient\\ was\\ treated\\ with\\ the\\ ladd\\'s\\ procedure\\ and\\ did\\ well\\ post\\-operatively\\.\ \(0\)\
+\-\ the\\ duodenal\\-jejunal\\ junction\\ is\\ inferior\\ to\\ the\\ level\\ of\\ the\\ duodenal\\ bulb\\ and\\ it\\ is\\ to\\ the\\ right\\ of\\ its\\ expected\\ location\\ to\\ the\\ left\\ of\\ the\\ spine\\.\ \(0\)\
+\-\ malrotation\ \(81\)\
+\-\ malrotation\ \(81\)\
+\-\ redundant\\ duodenum\ \(1\)\
+\-\ mass\\ displacing\\ duodenaljejunal\\ junction\ \(1\)\
+\-\ 2\\ month\\ old\\ baby\\ boy\\ with\\ sudden\\ onset\\ of\\ emesis\\ persisting\\ for\\ one\\ week\\.\ \(1\)\
+\-\ the\\ diagnosis\\ of\\ malrotation\\ is\\ not\\ always\\ clear\\ and\\ thus\\ the\\ subsequent\\ decision\\ to\\ intervene\\ surgically\\ is\\ not\\ always\\ easy\\.\\ although\\ some\\ upper\\ gi\\ series\\ are\\ conclusive\\,\\ frequently\\ the\\ diagnosis\\ requires\\ good\\ clinical\\ judgement\\ and\\ experience\\.\\ furthermore\\,\\ it\\ is\\ not\\ uncommon\\ to\\ discover\\ asymptomatic\\ adults\\ with\\ malrotation\\ on\\ an\\ upper\\ gi\\ series\\ performed\\ for\\ other\\ reasons\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ malrotation\\:\\ 0\\.4059936140521156\ \(0\)\
+\-\ the\\:\\ 0\\.22080996589987095\ \(0\)\
+\-\ duodenal\\:\\ 0\\.19738631711954685\ \(0\)\
+\-\ always\\:\\ 0\\.18993307590889436\ \(0\)\
+\-\ series\\:\\ 0\\.18449591189669115\ \(0\)\
+\-\ gi\\:\\ 0\\.16901468145334417\ \(0\)\
+\-\ junction\\:\\ 0\\.16114401822876137\ \(0\)\
+\-\ duodenaljejunal\\:\\ 0\\.1608836093575995\ \(0\)\
+\-\ intervene\\:\\ 0\\.1537328776953056\ \(0\)\
+\-\ discover\\:\\ 0\\.1537328776953056\ \(0\)\
+\-\ judgement\\:\\ 0\\.14865935283948373\ \(0\)\
+\-\ conclusive\\:\\ 0\\.13879003917108826\ \(0\)\
+\-\ is\\:\\ 0\\.13775194412084926\ \(0\)\
+\-\ persisting\\:\\ 0\\.13643509632136802\ \(0\)\
+\-\ ladd\\:\\ 0\\.1324997647090766\ \(0\)\
+\-\ redundant\\:\\ 0\\.13081888636261257\ \(0\)\
+\-\ easy\\:\\ 0\\.13081888636261257\ \(0\)\
+\-\ to\\:\\ 0\\.12575081647633268\ \(0\)\
+\-\ not\\:\\ 0\\.11914517065963573\ \(0\)\
+\-\ displacing\\:\\ 0\\.11706010814095841\ \(0\)\
+\-\ decision\\:\\ 0\\.11434152613485679\ \(0\)\
+\-\ bulb\\:\\ 0\\.11372266003114463\ \(0\)\
+\-\ furthermore\\:\\ 0\\.10942617161510558\ \(0\)\
+\-\ upper\\:\\ 0\\.10751970692587227\ \(0\)\
+\-\ reasons\\:\\ 0\\.10677581357902642\ \(0\)\
+\-\ diagnosis\\:\\ 0\\.10430215067406147\ \(0\)\
+\-\ and\\:\\ 0\\.10394028333279251\ \(0\)\
+\-\ it\\:\\ 0\\.10299294580081447\ \(0\)\
+\-\ emesis\\:\\ 0\\.10211726961674106\ \(0\)\
+\-\ experience\\:\\ 0\\.10004006281026905\ \(0\)\
+\-\ duodenum\\:\\ 0\\.09895443554979039\ \(0\)\
+\-\ of\\:\\ 0\\.09843628617310064\ \(0\)\
+\-\ requires\\:\\ 0\\.09744186266583331\ \(0\)\
+\-\ adults\\:\\ 0\\.09394683927264426\ \(0\)\
+\-\ surgically\\:\\ 0\\.09336217111305345\ \(0\)\
+\-\ thus\\:\\ 0\\.09242883829561349\ \(0\)\
+\-\ uncommon\\:\\ 0\\.09103120634215577\ \(0\)\
+\-\ expected\\:\\ 0\\.09069844412553896\ \(0\)\
+\-\ baby\\:\\ 0\\.09069844412553896\ \(0\)\
+\-\ sudden\\:\\ 0\\.0869953851459715\ \(0\)\
+\-\ pe\\:\\ 0\\.08316726282588711\ \(0\)\
+\-\ frequently\\:\\ 0\\.08284757055060016\ \(0\)\
+\-\ good\\:\\ 0\\.08182194005539589\ \(0\)\
+\-\ procedure\\:\\ 0\\.08020458177749774\ \(0\)\
+\-\ subsequent\\:\\ 0\\.07616049828354828\ \(0\)\
+\-\ its\\:\\ 0\\.07444023947950659\ \(0\)\
+\-\ clear\\:\\ 0\\.07293305598367046\ \(0\)\
+\-\ did\\:\\ 0\\.07216743871706995\ \(0\)\
+\-\ location\\:\\ 0\\.07005185132035242\ \(0\)\
+\-\ labs\\:\\ 0\\.06969760377203389\ \(0\)\
+\-\ boy\\:\\ 0\\.06881807044846695\ \(0\)\
+\-\ although\\:\\ 0\\.06848753568676404\ \(0\)\
+\-\ asymptomatic\\:\\ 0\\.06848753568676404\ \(0\)\
+\-\ inferior\\:\\ 0\\.0684408181117437\ \(0\)\
+\-\ week\\:\\ 0\\.0676649883275159\ \(0\)\
+\-\ spine\\:\\ 0\\.06645717053932265\ \(0\)\
+\-\ onset\\:\\ 0\\.06459904573350325\ \(0\)\
+\-\ clinical\\:\\ 0\\.06375646575143432\ \(0\)\
+\-\ some\\:\\ 0\\.06329744811806653\ \(0\)\
+\-\ treated\\:\\ 0\\.06264736169363287\ \(0\)\
+\-\ month\\:\\ 0\\.06119702093397107\ \(0\)\
+\-\ for\\:\\ 0\\.06098305095892983\ \(0\)\
+\-\ level\\:\\ 0\\.060769093111486115\ \(0\)\
+\-\ performed\\:\\ 0\\.05951614258750705\ \(0\)\
+\-\ with\\:\\ 0\\.0590970610983798\ \(0\)\
+\-\ one\\:\\ 0\\.05759904895684008\ \(0\)\
+\-\ other\\:\\ 0\\.05224394482102755\ \(0\)\
+\-\ were\\:\\ 0\\.05185713729516272\ \(0\)\
+\-\ well\\:\\ 0\\.048711714928263664\ \(0\)\
+\-\ normal\\:\\ 0\\.04107489487259885\ \(0\)\
+\-\ an\\:\\ 0\\.03846965435080775\ \(0\)\
+\-\ mass\\:\\ 0\\.03842706588708466\ \(0\)\
+\-\ are\\:\\ 0\\.03817367252998919\ \(0\)\
+\-\ was\\:\\ 0\\.035060599104996606\ \(0\)\
+\-\ left\\:\\ 0\\.03431734653904084\ \(0\)\
+\-\ right\\:\\ 0\\.0333535410312628\ \(0\)\
+\-\ patient\\:\\ 0\\.03272059930510864\ \(0\)\
+\-\ on\\:\\ 0\\.030383362771471478\ \(0\)\
+\-\ old\\:\\ 0\\.029773980970340123\ \(0\)\

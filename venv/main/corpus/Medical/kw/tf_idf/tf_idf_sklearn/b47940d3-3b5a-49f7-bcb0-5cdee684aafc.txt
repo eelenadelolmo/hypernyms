@@ -1,112 +1,110 @@
-Texto: 
-currently asymptomatic, the patient initially presented with intense right lower quadrant pain.
-bowel rest. antibiotics.
-the images from the abdomen/pelvis ct demonstrated a redundant sigmoid colon, with multiple diverticuli.  there was surrounding stranding of the fat with no evidence of focal fluid collection suggesting abscess. the appendix was normal.
-diverticulitis
-with patients initial presentation the differential would include right sided diverticulits, appendicitis, and urolithiasis vs. nephrolithiasis.
-50 year old white male who had ct of the abdomen and pelvis at an outside hospital which diagnosed sigmoid diverticulitis.  review of ct by surgeons raises the question of perforated appendicitis instead of diverticulitis.  elective appendectomy is scheduled for six week after this repeat exam is performed. please repeat ct exam at this institution to asses for perforated appendicitis. patient is now asymptomatic
-in this case, the patient had a redundant sigmoid colon which was positioned in the right lower quadrant.  the contrast filled, nondialated appendix was visualized.   the patients intense right lower quadrant pain was, in fact, secondary to diverticulitis.
-
-
-Keywords by value: 
-- diverticulitis: 0.3263873206320142
-- sigmoid: 0.24121760257631267
-- redundant: 0.2257901780530753
-- appendicitis: 0.22093904239488593
-- the: 0.20787958167764778
-- perforated: 0.18970087863332077
-- quadrant: 0.18243287609574363
-- intense: 0.163909907124442
-- appendix: 0.1565432822251504
-- repeat: 0.15230142769271304
-- was: 0.15128432779617226
-- nondialated: 0.13884057498388694
-- lower: 0.13309198392459667
-- diverticulits: 0.13266958155881017
-- ct: 0.132209418198131
-- colon: 0.13220900420792836
-- asses: 0.12212019861978585
-- pelvis: 0.12144180394322936
-- asymptomatic: 0.11820780093072468
-- urolithiasis: 0.11774180910583829
-- right: 0.115134781797098
-- abdomen: 0.10594666163115728
-- raises: 0.10539982225568471
-- diverticuli: 0.10234570608751331
-- elective: 0.10234570608751331
-- of: 0.10193916428993514
-- patients: 0.09767952991601525
-- instead: 0.0966430432277896
-- surgeons: 0.09527918717452478
-- positioned: 0.09402756094735311
-- appendectomy: 0.09179632314848896
-- nephrolithiasis: 0.09111978766103955
-- question: 0.0895493707974279
-- this: 0.0894964866750962
-- exam: 0.08740825575361694
-- had: 0.08651164781291007
-- institution: 0.08585769366361959
-- patient: 0.08471242358643788
-- fact: 0.08327922690799715
-- scheduled: 0.08057040472201521
-- which: 0.07895384201778671
-- suggesting: 0.0782716411125752
-- six: 0.07798978967893762
-- stranding: 0.0777130631018012
-- rest: 0.07507594678438784
-- please: 0.07282899443332677
-- review: 0.07149643383308475
-- is: 0.071326939530712
-- collection: 0.07010396227408963
-- filled: 0.0698564845864132
-- outside: 0.06969370717967976
-- initially: 0.0680820749900038
-- with: 0.06800004861087175
-- visualized: 0.0677935442169934
-- currently: 0.06669119522522643
-- vs: 0.0662329378235547
-- at: 0.06558437019070493
-- in: 0.06479235896595673
-- hospital: 0.06412827271540084
-- antibiotics: 0.06396071642725579
-- diagnosed: 0.06288847438270485
-- pain: 0.06213321328928792
-- would: 0.06145673312499518
-- 50: 0.060631374993165
-- presentation: 0.05976392984984361
-- now: 0.05959621969606256
-- week: 0.058394052216895656
-- initial: 0.05824070540373584
-- surrounding: 0.05790122198035488
-- white: 0.05727992990183696
-- differential: 0.05641000499599266
-- sided: 0.05584563887064495
-- abscess: 0.05574818148885807
-- bowel: 0.0557158338837999
-- fat: 0.05400603312815638
-- demonstrated: 0.05335588882782124
-- for: 0.05262762249813706
-- focal: 0.05193048858207371
-- include: 0.05165580521651049
-- secondary: 0.05145910403006434
-- performed: 0.05136169862590268
-- presented: 0.05062722800016361
-- fluid: 0.05012668971460997
-- evidence: 0.04927791775511805
-- who: 0.04910951169441149
-- case: 0.043616322580665695
-- to: 0.04340856283366958
-- multiple: 0.042464479305170985
-- contrast: 0.042183000219634316
-- after: 0.04211674176735466
-- images: 0.040159016146614865
-- male: 0.03865462777030071
-- by: 0.03686787640392754
-- and: 0.03587967415583437
-- normal: 0.03544712879258234
-- there: 0.034544536292061466
-- from: 0.03448035257036694
-- an: 0.033198838283306095
-- no: 0.028232163224466086
-- year: 0.026755539071211646
-- old: 0.025694579168055353
+\-\ Texto\\:\\ \ \(0\)\
+\-\ currently\\ asymptomatic\\,\\ the\\ patient\\ initially\\ presented\\ with\\ intense\\ right\\ lower\\ quadrant\\ pain\\.\ \(0\)\
+\-\ bowel\\ rest\\.\\ antibiotics\\.\ \(0\)\
+\-\ the\\ images\\ from\\ the\\ abdomen\\/pelvis\\ ct\\ demonstrated\\ a\\ redundant\\ sigmoid\\ colon\\,\\ with\\ multiple\\ diverticuli\\.\\ \\ there\\ was\\ surrounding\\ stranding\\ of\\ the\\ fat\\ with\\ no\\ evidence\\ of\\ focal\\ fluid\\ collection\\ suggesting\\ abscess\\.\\ the\\ appendix\\ was\\ normal\\.\ \(0\)\
+\-\ diverticulitis\ \(62\)\
+\-\ with\\ patients\\ initial\\ presentation\\ the\\ differential\\ would\\ include\\ right\\ sided\\ diverticulits\\,\\ appendicitis\\,\\ and\\ urolithiasis\\ vs\\.\\ nephrolithiasis\\.\ \(0\)\
+\-\ 50\\ year\\ old\\ white\\ male\\ who\\ had\\ ct\\ of\\ the\\ abdomen\\ and\\ pelvis\\ at\\ an\\ outside\\ hospital\\ which\\ diagnosed\\ sigmoid\\ diverticulitis\\.\\ \\ review\\ of\\ ct\\ by\\ surgeons\\ raises\\ the\\ question\\ of\\ perforated\\ appendicitis\\ instead\\ of\\ diverticulitis\\.\\ \\ elective\\ appendectomy\\ is\\ scheduled\\ for\\ six\\ week\\ after\\ this\\ repeat\\ exam\\ is\\ performed\\.\\ please\\ repeat\\ ct\\ exam\\ at\\ this\\ institution\\ to\\ asses\\ for\\ perforated\\ appendicitis\\.\\ patient\\ is\\ now\\ asymptomatic\ \(0\)\
+\-\ in\\ this\\ case\\,\\ the\\ patient\\ had\\ a\\ redundant\\ sigmoid\\ colon\\ which\\ was\\ positioned\\ in\\ the\\ right\\ lower\\ quadrant\\.\\ \\ the\\ contrast\\ filled\\,\\ nondialated\\ appendix\\ was\\ visualized\\.\\ \\ \\ the\\ patients\\ intense\\ right\\ lower\\ quadrant\\ pain\\ was\\,\\ in\\ fact\\,\\ secondary\\ to\\ diverticulitis\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ diverticulitis\\:\\ 0\\.3263873206320142\ \(0\)\
+\-\ sigmoid\\:\\ 0\\.24121760257631267\ \(0\)\
+\-\ redundant\\:\\ 0\\.2257901780530753\ \(0\)\
+\-\ appendicitis\\:\\ 0\\.22093904239488593\ \(0\)\
+\-\ the\\:\\ 0\\.20787958167764778\ \(0\)\
+\-\ perforated\\:\\ 0\\.18970087863332077\ \(0\)\
+\-\ quadrant\\:\\ 0\\.18243287609574363\ \(0\)\
+\-\ intense\\:\\ 0\\.163909907124442\ \(0\)\
+\-\ appendix\\:\\ 0\\.1565432822251504\ \(0\)\
+\-\ repeat\\:\\ 0\\.15230142769271304\ \(0\)\
+\-\ was\\:\\ 0\\.15128432779617226\ \(0\)\
+\-\ nondialated\\:\\ 0\\.13884057498388694\ \(0\)\
+\-\ lower\\:\\ 0\\.13309198392459667\ \(0\)\
+\-\ diverticulits\\:\\ 0\\.13266958155881017\ \(0\)\
+\-\ ct\\:\\ 0\\.132209418198131\ \(0\)\
+\-\ colon\\:\\ 0\\.13220900420792836\ \(0\)\
+\-\ asses\\:\\ 0\\.12212019861978585\ \(0\)\
+\-\ pelvis\\:\\ 0\\.12144180394322936\ \(0\)\
+\-\ asymptomatic\\:\\ 0\\.11820780093072468\ \(0\)\
+\-\ urolithiasis\\:\\ 0\\.11774180910583829\ \(0\)\
+\-\ right\\:\\ 0\\.115134781797098\ \(0\)\
+\-\ abdomen\\:\\ 0\\.10594666163115728\ \(0\)\
+\-\ raises\\:\\ 0\\.10539982225568471\ \(0\)\
+\-\ diverticuli\\:\\ 0\\.10234570608751331\ \(0\)\
+\-\ elective\\:\\ 0\\.10234570608751331\ \(0\)\
+\-\ of\\:\\ 0\\.10193916428993514\ \(0\)\
+\-\ patients\\:\\ 0\\.09767952991601525\ \(0\)\
+\-\ instead\\:\\ 0\\.0966430432277896\ \(0\)\
+\-\ surgeons\\:\\ 0\\.09527918717452478\ \(0\)\
+\-\ positioned\\:\\ 0\\.09402756094735311\ \(0\)\
+\-\ appendectomy\\:\\ 0\\.09179632314848896\ \(0\)\
+\-\ nephrolithiasis\\:\\ 0\\.09111978766103955\ \(0\)\
+\-\ question\\:\\ 0\\.0895493707974279\ \(0\)\
+\-\ this\\:\\ 0\\.0894964866750962\ \(0\)\
+\-\ exam\\:\\ 0\\.08740825575361694\ \(0\)\
+\-\ had\\:\\ 0\\.08651164781291007\ \(0\)\
+\-\ institution\\:\\ 0\\.08585769366361959\ \(0\)\
+\-\ patient\\:\\ 0\\.08471242358643788\ \(0\)\
+\-\ fact\\:\\ 0\\.08327922690799715\ \(0\)\
+\-\ scheduled\\:\\ 0\\.08057040472201521\ \(0\)\
+\-\ which\\:\\ 0\\.07895384201778671\ \(0\)\
+\-\ suggesting\\:\\ 0\\.0782716411125752\ \(0\)\
+\-\ six\\:\\ 0\\.07798978967893762\ \(0\)\
+\-\ stranding\\:\\ 0\\.0777130631018012\ \(0\)\
+\-\ rest\\:\\ 0\\.07507594678438784\ \(0\)\
+\-\ please\\:\\ 0\\.07282899443332677\ \(0\)\
+\-\ review\\:\\ 0\\.07149643383308475\ \(0\)\
+\-\ is\\:\\ 0\\.071326939530712\ \(0\)\
+\-\ collection\\:\\ 0\\.07010396227408963\ \(0\)\
+\-\ filled\\:\\ 0\\.0698564845864132\ \(0\)\
+\-\ outside\\:\\ 0\\.06969370717967976\ \(0\)\
+\-\ initially\\:\\ 0\\.0680820749900038\ \(0\)\
+\-\ with\\:\\ 0\\.06800004861087175\ \(0\)\
+\-\ visualized\\:\\ 0\\.0677935442169934\ \(0\)\
+\-\ currently\\:\\ 0\\.06669119522522643\ \(0\)\
+\-\ vs\\:\\ 0\\.0662329378235547\ \(0\)\
+\-\ at\\:\\ 0\\.06558437019070493\ \(0\)\
+\-\ in\\:\\ 0\\.06479235896595673\ \(0\)\
+\-\ hospital\\:\\ 0\\.06412827271540084\ \(0\)\
+\-\ antibiotics\\:\\ 0\\.06396071642725579\ \(0\)\
+\-\ diagnosed\\:\\ 0\\.06288847438270485\ \(0\)\
+\-\ pain\\:\\ 0\\.06213321328928792\ \(0\)\
+\-\ would\\:\\ 0\\.06145673312499518\ \(0\)\
+\-\ 50\\:\\ 0\\.060631374993165\ \(0\)\
+\-\ presentation\\:\\ 0\\.05976392984984361\ \(0\)\
+\-\ now\\:\\ 0\\.05959621969606256\ \(0\)\
+\-\ week\\:\\ 0\\.058394052216895656\ \(0\)\
+\-\ initial\\:\\ 0\\.05824070540373584\ \(0\)\
+\-\ surrounding\\:\\ 0\\.05790122198035488\ \(0\)\
+\-\ white\\:\\ 0\\.05727992990183696\ \(0\)\
+\-\ differential\\:\\ 0\\.05641000499599266\ \(0\)\
+\-\ sided\\:\\ 0\\.05584563887064495\ \(0\)\
+\-\ abscess\\:\\ 0\\.05574818148885807\ \(0\)\
+\-\ bowel\\:\\ 0\\.0557158338837999\ \(0\)\
+\-\ fat\\:\\ 0\\.05400603312815638\ \(0\)\
+\-\ demonstrated\\:\\ 0\\.05335588882782124\ \(0\)\
+\-\ for\\:\\ 0\\.05262762249813706\ \(0\)\
+\-\ focal\\:\\ 0\\.05193048858207371\ \(0\)\
+\-\ include\\:\\ 0\\.05165580521651049\ \(0\)\
+\-\ secondary\\:\\ 0\\.05145910403006434\ \(0\)\
+\-\ performed\\:\\ 0\\.05136169862590268\ \(0\)\
+\-\ presented\\:\\ 0\\.05062722800016361\ \(0\)\
+\-\ fluid\\:\\ 0\\.05012668971460997\ \(0\)\
+\-\ evidence\\:\\ 0\\.04927791775511805\ \(0\)\
+\-\ who\\:\\ 0\\.04910951169441149\ \(0\)\
+\-\ case\\:\\ 0\\.043616322580665695\ \(0\)\
+\-\ to\\:\\ 0\\.04340856283366958\ \(0\)\
+\-\ multiple\\:\\ 0\\.042464479305170985\ \(0\)\
+\-\ contrast\\:\\ 0\\.042183000219634316\ \(0\)\
+\-\ after\\:\\ 0\\.04211674176735466\ \(0\)\
+\-\ images\\:\\ 0\\.040159016146614865\ \(0\)\
+\-\ male\\:\\ 0\\.03865462777030071\ \(0\)\
+\-\ by\\:\\ 0\\.03686787640392754\ \(0\)\
+\-\ and\\:\\ 0\\.03587967415583437\ \(0\)\
+\-\ normal\\:\\ 0\\.03544712879258234\ \(0\)\
+\-\ there\\:\\ 0\\.034544536292061466\ \(0\)\
+\-\ from\\:\\ 0\\.03448035257036694\ \(0\)\
+\-\ an\\:\\ 0\\.033198838283306095\ \(0\)\
+\-\ no\\:\\ 0\\.028232163224466086\ \(0\)\
+\-\ year\\:\\ 0\\.026755539071211646\ \(0\)\
+\-\ old\\:\\ 0\\.025694579168055353\ \(0\)\

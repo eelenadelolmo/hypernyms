@@ -1,119 +1,117 @@
-Texto: 
-mild right upper quadrant tenderness with otherwise unremarkable physical examination.  the liver transaminases were mildly elevated.
-air in the gall bladder can be an expected finding after stenting or surgical procedure and does not require treatment.  pneumobilia from cholecystitis is a much more serious finding for which urgent surgical referral is warranted.
-the axial ct images of the abdomen demonstrate the presence of a common bile duct stent with proximal portion near the cystic duct and distal portion in the duodenum. there is an air/fluid level in the gall bladder and air within the hepatic biliary system.
-pneumobilia
-differential diagnosis includes pneumobilia from infection, recent surgical procedure such as sphincterotomy or stenting or fistula formation between bowel and the gall bladder.
-45 year old woman with history of painless jaundice and recent common bile duct stenting.
-this patient underwent an mrcp prior to stenting which did not reveal the presence of a common bile duct stone. further imaging eventually led to the discovery of a pancreatic head mass requiring surgical excision.
-
-
-Keywords by value: 
-- stenting: 0.36150539497588324
-- pneumobilia: 0.35053793286683904
-- duct: 0.27226679644070384
-- gall: 0.2711290462319125
-- bile: 0.23034097329747857
-- the: 0.1893340654309399
-- bladder: 0.18408125882966436
-- air: 0.15516169410595615
-- surgical: 0.1537273535518468
-- common: 0.13452957776705207
-- procedure: 0.12608130721108213
-- sphincterotomy: 0.11684597762227968
-- presence: 0.11362874220261089
-- portion: 0.113086897018956
-- recent: 0.10708001116191776
-- transaminases: 0.10560505378081117
-- finding: 0.10395100178689963
-- mrcp: 0.09852410918385668
-- urgent: 0.09678912714770883
-- discovery: 0.09678912714770883
-- an: 0.09071123246981021
-- serious: 0.08938580139988313
-- warranted: 0.08846134125937896
-- led: 0.08527903436925677
-- jaundice: 0.08425176709721888
-- or: 0.08252379588860888
-- and: 0.0816968713261557
-- referral: 0.08076810562786471
-- stent: 0.07977755828377703
-- eventually: 0.07885309814327285
-- requiring: 0.07885309814327285
-- duodenum: 0.07777800414859036
-- of: 0.07737073969252171
-- cholecystitis: 0.07621445955006181
-- biliary: 0.07353399080177057
-- painless: 0.07323263622253859
-- stone: 0.07222667835468997
-- which: 0.0719101499530633
-- pancreatic: 0.07168301005777883
-- fistula: 0.0714189684612256
-- expected: 0.07128881008994653
-- much: 0.06848362571730737
-- require: 0.06796439779939052
-- reveal: 0.06651411134628192
-- is: 0.06496366467120228
-- near: 0.06439043135465589
-- mildly: 0.06384979262057949
-- 45: 0.06340260013964426
-- hepatic: 0.06296938473546192
-- from: 0.06280852863907495
-- formation: 0.062687917913867
-- not: 0.062431923180016786
-- excision: 0.06234393587865626
-- includes: 0.061487592655052395
-- system: 0.06032411303873937
-- in: 0.05901205223179669
-- did: 0.056723473957922
-- otherwise: 0.05636573114324308
-- quadrant: 0.05538584376703772
-- does: 0.05466454879392285
-- liver: 0.054547899314280265
-- underwent: 0.054470674798698014
-- elevated: 0.05390480991626697
-- unremarkable: 0.05301019212247778
-- further: 0.05150127797554375
-- differential: 0.051377511397115355
-- between: 0.051377511397115355
-- such: 0.05086349394508255
-- bowel: 0.05074526922250882
-- examination: 0.05059889231117007
-- tenderness: 0.04958827580953698
-- proximal: 0.049400043328652866
-- abdomen: 0.04824743248850797
-- level: 0.04776439529841018
-- infection: 0.04776439529841018
-- cystic: 0.04762270652105062
-- head: 0.04716060490751891
-- with: 0.04645018121463094
-- distal: 0.04594311622572495
-- axial: 0.04567514811732062
-- mild: 0.04482398016086171
-- prior: 0.04424123034066406
-- more: 0.04341928705077747
-- physical: 0.04287495150484961
-- upper: 0.042255145839965466
-- imaging: 0.04155530074083222
-- can: 0.04149476892108165
-- woman: 0.04118124229922136
-- demonstrate: 0.041107626806527166
-- diagnosis: 0.04099064919506397
-- were: 0.04075961443535039
-- to: 0.039535964087889924
-- after: 0.03835938997550784
-- treatment: 0.037666451033767735
-- images: 0.036576318507970676
-- within: 0.03641837796874821
-- be: 0.03207657216944425
-- as: 0.03176624943479396
-- there: 0.03146272203272336
-- history: 0.03021029146286691
-- mass: 0.030203603035863676
-- ct: 0.0301036619778841
-- this: 0.027170751976108878
-- right: 0.026215821840491836
-- patient: 0.02571833080909827
-- year: 0.02436860293958128
-- for: 0.023966282886282345
-- old: 0.023402294223243334
+\-\ Texto\\:\\ \ \(0\)\
+\-\ mild\\ right\\ upper\\ quadrant\\ tenderness\\ with\\ otherwise\\ unremarkable\\ physical\\ examination\\.\\ \\ the\\ liver\\ transaminases\\ were\\ mildly\\ elevated\\.\ \(0\)\
+\-\ air\\ in\\ the\\ gall\\ bladder\\ can\\ be\\ an\\ expected\\ finding\\ after\\ stenting\\ or\\ surgical\\ procedure\\ and\\ does\\ not\\ require\\ treatment\\.\\ \\ pneumobilia\\ from\\ cholecystitis\\ is\\ a\\ much\\ more\\ serious\\ finding\\ for\\ which\\ urgent\\ surgical\\ referral\\ is\\ warranted\\.\ \(0\)\
+\-\ the\\ axial\\ ct\\ images\\ of\\ the\\ abdomen\\ demonstrate\\ the\\ presence\\ of\\ a\\ common\\ bile\\ duct\\ stent\\ with\\ proximal\\ portion\\ near\\ the\\ cystic\\ duct\\ and\\ distal\\ portion\\ in\\ the\\ duodenum\\.\\ there\\ is\\ an\\ air\\/fluid\\ level\\ in\\ the\\ gall\\ bladder\\ and\\ air\\ within\\ the\\ hepatic\\ biliary\\ system\\.\ \(0\)\
+\-\ pneumobilia\ \(2\)\
+\-\ differential\\ diagnosis\\ includes\\ pneumobilia\\ from\\ infection\\,\\ recent\\ surgical\\ procedure\\ such\\ as\\ sphincterotomy\\ or\\ stenting\\ or\\ fistula\\ formation\\ between\\ bowel\\ and\\ the\\ gall\\ bladder\\.\ \(0\)\
+\-\ 45\\ year\\ old\\ woman\\ with\\ history\\ of\\ painless\\ jaundice\\ and\\ recent\\ common\\ bile\\ duct\\ stenting\\.\ \(1\)\
+\-\ this\\ patient\\ underwent\\ an\\ mrcp\\ prior\\ to\\ stenting\\ which\\ did\\ not\\ reveal\\ the\\ presence\\ of\\ a\\ common\\ bile\\ duct\\ stone\\.\\ further\\ imaging\\ eventually\\ led\\ to\\ the\\ discovery\\ of\\ a\\ pancreatic\\ head\\ mass\\ requiring\\ surgical\\ excision\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ stenting\\:\\ 0\\.36150539497588324\ \(0\)\
+\-\ pneumobilia\\:\\ 0\\.35053793286683904\ \(0\)\
+\-\ duct\\:\\ 0\\.27226679644070384\ \(0\)\
+\-\ gall\\:\\ 0\\.2711290462319125\ \(0\)\
+\-\ bile\\:\\ 0\\.23034097329747857\ \(0\)\
+\-\ the\\:\\ 0\\.1893340654309399\ \(0\)\
+\-\ bladder\\:\\ 0\\.18408125882966436\ \(0\)\
+\-\ air\\:\\ 0\\.15516169410595615\ \(0\)\
+\-\ surgical\\:\\ 0\\.1537273535518468\ \(0\)\
+\-\ common\\:\\ 0\\.13452957776705207\ \(0\)\
+\-\ procedure\\:\\ 0\\.12608130721108213\ \(0\)\
+\-\ sphincterotomy\\:\\ 0\\.11684597762227968\ \(0\)\
+\-\ presence\\:\\ 0\\.11362874220261089\ \(0\)\
+\-\ portion\\:\\ 0\\.113086897018956\ \(0\)\
+\-\ recent\\:\\ 0\\.10708001116191776\ \(0\)\
+\-\ transaminases\\:\\ 0\\.10560505378081117\ \(0\)\
+\-\ finding\\:\\ 0\\.10395100178689963\ \(0\)\
+\-\ mrcp\\:\\ 0\\.09852410918385668\ \(0\)\
+\-\ urgent\\:\\ 0\\.09678912714770883\ \(0\)\
+\-\ discovery\\:\\ 0\\.09678912714770883\ \(0\)\
+\-\ an\\:\\ 0\\.09071123246981021\ \(0\)\
+\-\ serious\\:\\ 0\\.08938580139988313\ \(0\)\
+\-\ warranted\\:\\ 0\\.08846134125937896\ \(0\)\
+\-\ led\\:\\ 0\\.08527903436925677\ \(0\)\
+\-\ jaundice\\:\\ 0\\.08425176709721888\ \(0\)\
+\-\ or\\:\\ 0\\.08252379588860888\ \(0\)\
+\-\ and\\:\\ 0\\.0816968713261557\ \(0\)\
+\-\ referral\\:\\ 0\\.08076810562786471\ \(0\)\
+\-\ stent\\:\\ 0\\.07977755828377703\ \(0\)\
+\-\ eventually\\:\\ 0\\.07885309814327285\ \(0\)\
+\-\ requiring\\:\\ 0\\.07885309814327285\ \(0\)\
+\-\ duodenum\\:\\ 0\\.07777800414859036\ \(0\)\
+\-\ of\\:\\ 0\\.07737073969252171\ \(0\)\
+\-\ cholecystitis\\:\\ 0\\.07621445955006181\ \(0\)\
+\-\ biliary\\:\\ 0\\.07353399080177057\ \(0\)\
+\-\ painless\\:\\ 0\\.07323263622253859\ \(0\)\
+\-\ stone\\:\\ 0\\.07222667835468997\ \(0\)\
+\-\ which\\:\\ 0\\.0719101499530633\ \(0\)\
+\-\ pancreatic\\:\\ 0\\.07168301005777883\ \(0\)\
+\-\ fistula\\:\\ 0\\.0714189684612256\ \(0\)\
+\-\ expected\\:\\ 0\\.07128881008994653\ \(0\)\
+\-\ much\\:\\ 0\\.06848362571730737\ \(0\)\
+\-\ require\\:\\ 0\\.06796439779939052\ \(0\)\
+\-\ reveal\\:\\ 0\\.06651411134628192\ \(0\)\
+\-\ is\\:\\ 0\\.06496366467120228\ \(0\)\
+\-\ near\\:\\ 0\\.06439043135465589\ \(0\)\
+\-\ mildly\\:\\ 0\\.06384979262057949\ \(0\)\
+\-\ 45\\:\\ 0\\.06340260013964426\ \(0\)\
+\-\ hepatic\\:\\ 0\\.06296938473546192\ \(0\)\
+\-\ from\\:\\ 0\\.06280852863907495\ \(0\)\
+\-\ formation\\:\\ 0\\.062687917913867\ \(0\)\
+\-\ not\\:\\ 0\\.062431923180016786\ \(0\)\
+\-\ excision\\:\\ 0\\.06234393587865626\ \(0\)\
+\-\ includes\\:\\ 0\\.061487592655052395\ \(0\)\
+\-\ system\\:\\ 0\\.06032411303873937\ \(0\)\
+\-\ in\\:\\ 0\\.05901205223179669\ \(0\)\
+\-\ did\\:\\ 0\\.056723473957922\ \(0\)\
+\-\ otherwise\\:\\ 0\\.05636573114324308\ \(0\)\
+\-\ quadrant\\:\\ 0\\.05538584376703772\ \(0\)\
+\-\ does\\:\\ 0\\.05466454879392285\ \(0\)\
+\-\ liver\\:\\ 0\\.054547899314280265\ \(0\)\
+\-\ underwent\\:\\ 0\\.054470674798698014\ \(0\)\
+\-\ elevated\\:\\ 0\\.05390480991626697\ \(0\)\
+\-\ unremarkable\\:\\ 0\\.05301019212247778\ \(0\)\
+\-\ further\\:\\ 0\\.05150127797554375\ \(0\)\
+\-\ differential\\:\\ 0\\.051377511397115355\ \(0\)\
+\-\ between\\:\\ 0\\.051377511397115355\ \(0\)\
+\-\ such\\:\\ 0\\.05086349394508255\ \(0\)\
+\-\ bowel\\:\\ 0\\.05074526922250882\ \(0\)\
+\-\ examination\\:\\ 0\\.05059889231117007\ \(0\)\
+\-\ tenderness\\:\\ 0\\.04958827580953698\ \(0\)\
+\-\ proximal\\:\\ 0\\.049400043328652866\ \(0\)\
+\-\ abdomen\\:\\ 0\\.04824743248850797\ \(0\)\
+\-\ level\\:\\ 0\\.04776439529841018\ \(0\)\
+\-\ infection\\:\\ 0\\.04776439529841018\ \(0\)\
+\-\ cystic\\:\\ 0\\.04762270652105062\ \(0\)\
+\-\ head\\:\\ 0\\.04716060490751891\ \(0\)\
+\-\ with\\:\\ 0\\.04645018121463094\ \(0\)\
+\-\ distal\\:\\ 0\\.04594311622572495\ \(0\)\
+\-\ axial\\:\\ 0\\.04567514811732062\ \(0\)\
+\-\ mild\\:\\ 0\\.04482398016086171\ \(0\)\
+\-\ prior\\:\\ 0\\.04424123034066406\ \(0\)\
+\-\ more\\:\\ 0\\.04341928705077747\ \(0\)\
+\-\ physical\\:\\ 0\\.04287495150484961\ \(0\)\
+\-\ upper\\:\\ 0\\.042255145839965466\ \(0\)\
+\-\ imaging\\:\\ 0\\.04155530074083222\ \(0\)\
+\-\ can\\:\\ 0\\.04149476892108165\ \(0\)\
+\-\ woman\\:\\ 0\\.04118124229922136\ \(0\)\
+\-\ demonstrate\\:\\ 0\\.041107626806527166\ \(0\)\
+\-\ diagnosis\\:\\ 0\\.04099064919506397\ \(0\)\
+\-\ were\\:\\ 0\\.04075961443535039\ \(0\)\
+\-\ to\\:\\ 0\\.039535964087889924\ \(0\)\
+\-\ after\\:\\ 0\\.03835938997550784\ \(0\)\
+\-\ treatment\\:\\ 0\\.037666451033767735\ \(0\)\
+\-\ images\\:\\ 0\\.036576318507970676\ \(0\)\
+\-\ within\\:\\ 0\\.03641837796874821\ \(0\)\
+\-\ be\\:\\ 0\\.03207657216944425\ \(0\)\
+\-\ as\\:\\ 0\\.03176624943479396\ \(0\)\
+\-\ there\\:\\ 0\\.03146272203272336\ \(0\)\
+\-\ history\\:\\ 0\\.03021029146286691\ \(0\)\
+\-\ mass\\:\\ 0\\.030203603035863676\ \(0\)\
+\-\ ct\\:\\ 0\\.0301036619778841\ \(0\)\
+\-\ this\\:\\ 0\\.027170751976108878\ \(0\)\
+\-\ right\\:\\ 0\\.026215821840491836\ \(0\)\
+\-\ patient\\:\\ 0\\.02571833080909827\ \(0\)\
+\-\ year\\:\\ 0\\.02436860293958128\ \(0\)\
+\-\ for\\:\\ 0\\.023966282886282345\ \(0\)\
+\-\ old\\:\\ 0\\.023402294223243334\ \(0\)\

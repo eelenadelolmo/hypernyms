@@ -1,50 +1,48 @@
-Texto: 
-longitudinal ultrasound of the gravid uterus reveal two fetal poles.  visualization of a membrane separating the twins confirms diamniotic twins.  additionally, there is a ‚Äútwin peak sign‚Äù, a triangular extension of placental tissue with the apex pointing into the intertwin membrane, confirming dichorionicity.
-dichorionic diamniotic pregnancy with "twin-peak" sign
-25 y/o female presents for obstetric ultrasound for too large for dates.
-
-
-Keywords by value: 
-- diamniotic: 0.3595583808062054
-- twins: 0.32047361935874974
-- twin: 0.2909071387017318
-- membrane: 0.2553790543886416
-- peak: 0.2493368927954612
-- intertwin: 0.19456243073161167
-- dichorionicity: 0.19456243073161167
-- dichorionic: 0.1797791904031027
-- sign: 0.1684547124477193
-- placental: 0.16023680967937487
-- dates: 0.16023680967937487
-- gravid: 0.15820406204176274
-- separating: 0.15464118138568092
-- obstetric: 0.15464118138568092
-- pointing: 0.1515891684480484
-- ultrasound: 0.15008553064950958
-- poles: 0.14441298700008515
-- confirming: 0.1361065963690591
-- triangular: 0.1254888439842314
-- too: 0.12238114509457176
-- confirms: 0.11754982964735908
-- visualization: 0.11642705949733659
-- longitudinal: 0.11562214482077904
-- apex: 0.11434465477673288
-- fetal: 0.11290628686581185
-- for: 0.11062354961492546
-- uterus: 0.10671281064353118
-- reveal: 0.10233859420365979
-- additionally: 0.10019059598983356
-- pregnancy: 0.09956141444822392
-- the: 0.09710311440625968
-- 25: 0.08618772469412071
-- extension: 0.08612159221474486
-- two: 0.07224892195946744
-- of: 0.07142555983112521
-- into: 0.06467289523500552
-- tissue: 0.06382062038404632
-- large: 0.060958202131004745
-- female: 0.0587070457008546
-- presents: 0.05852522271122818
-- there: 0.04840853583514663
-- with: 0.047645491057403025
-- is: 0.03331769245254267
+\-\ Texto\\:\\ \ \(0\)\
+\-\ longitudinal\\ ultrasound\\ of\\ the\\ gravid\\ uterus\\ reveal\\ two\\ fetal\\ poles\\.\\ \\ visualization\\ of\\ a\\ membrane\\ separating\\ the\\ twins\\ confirms\\ diamniotic\\ twins\\.\\ \\ additionally\\,\\ there\\ is\\ a\\ \\‚\\Ä\\útwin\\ peak\\ sign\\‚\\Ä\\ù\\,\\ a\\ triangular\\ extension\\ of\\ placental\\ tissue\\ with\\ the\\ apex\\ pointing\\ into\\ the\\ intertwin\\ membrane\\,\\ confirming\\ dichorionicity\\.\ \(0\)\
+\-\ dichorionic\\ diamniotic\\ pregnancy\\ with\\ \\"twin\\-peak\\"\\ sign\ \(0\)\
+\-\ 25\\ y\\/o\\ female\\ presents\\ for\\ obstetric\\ ultrasound\\ for\\ too\\ large\\ for\\ dates\\.\ \(1\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ diamniotic\\:\\ 0\\.3595583808062054\ \(0\)\
+\-\ twins\\:\\ 0\\.32047361935874974\ \(0\)\
+\-\ twin\\:\\ 0\\.2909071387017318\ \(0\)\
+\-\ membrane\\:\\ 0\\.2553790543886416\ \(0\)\
+\-\ peak\\:\\ 0\\.2493368927954612\ \(0\)\
+\-\ intertwin\\:\\ 0\\.19456243073161167\ \(0\)\
+\-\ dichorionicity\\:\\ 0\\.19456243073161167\ \(0\)\
+\-\ dichorionic\\:\\ 0\\.1797791904031027\ \(0\)\
+\-\ sign\\:\\ 0\\.1684547124477193\ \(0\)\
+\-\ placental\\:\\ 0\\.16023680967937487\ \(0\)\
+\-\ dates\\:\\ 0\\.16023680967937487\ \(0\)\
+\-\ gravid\\:\\ 0\\.15820406204176274\ \(0\)\
+\-\ separating\\:\\ 0\\.15464118138568092\ \(0\)\
+\-\ obstetric\\:\\ 0\\.15464118138568092\ \(0\)\
+\-\ pointing\\:\\ 0\\.1515891684480484\ \(0\)\
+\-\ ultrasound\\:\\ 0\\.15008553064950958\ \(0\)\
+\-\ poles\\:\\ 0\\.14441298700008515\ \(0\)\
+\-\ confirming\\:\\ 0\\.1361065963690591\ \(0\)\
+\-\ triangular\\:\\ 0\\.1254888439842314\ \(0\)\
+\-\ too\\:\\ 0\\.12238114509457176\ \(0\)\
+\-\ confirms\\:\\ 0\\.11754982964735908\ \(0\)\
+\-\ visualization\\:\\ 0\\.11642705949733659\ \(0\)\
+\-\ longitudinal\\:\\ 0\\.11562214482077904\ \(0\)\
+\-\ apex\\:\\ 0\\.11434465477673288\ \(0\)\
+\-\ fetal\\:\\ 0\\.11290628686581185\ \(0\)\
+\-\ for\\:\\ 0\\.11062354961492546\ \(0\)\
+\-\ uterus\\:\\ 0\\.10671281064353118\ \(0\)\
+\-\ reveal\\:\\ 0\\.10233859420365979\ \(0\)\
+\-\ additionally\\:\\ 0\\.10019059598983356\ \(0\)\
+\-\ pregnancy\\:\\ 0\\.09956141444822392\ \(0\)\
+\-\ the\\:\\ 0\\.09710311440625968\ \(0\)\
+\-\ 25\\:\\ 0\\.08618772469412071\ \(0\)\
+\-\ extension\\:\\ 0\\.08612159221474486\ \(0\)\
+\-\ two\\:\\ 0\\.07224892195946744\ \(0\)\
+\-\ of\\:\\ 0\\.07142555983112521\ \(0\)\
+\-\ into\\:\\ 0\\.06467289523500552\ \(0\)\
+\-\ tissue\\:\\ 0\\.06382062038404632\ \(0\)\
+\-\ large\\:\\ 0\\.060958202131004745\ \(0\)\
+\-\ female\\:\\ 0\\.0587070457008546\ \(0\)\
+\-\ presents\\:\\ 0\\.05852522271122818\ \(0\)\
+\-\ there\\:\\ 0\\.04840853583514663\ \(0\)\
+\-\ with\\:\\ 0\\.047645491057403025\ \(0\)\
+\-\ is\\:\\ 0\\.03331769245254267\ \(0\)\

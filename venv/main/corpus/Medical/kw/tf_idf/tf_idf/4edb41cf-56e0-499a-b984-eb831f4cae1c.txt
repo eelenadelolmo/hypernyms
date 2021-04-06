@@ -1,103 +1,101 @@
-Texto: 
-none available
-there is chondrocalcinosis present within the triangular fibrocartilage, hyaline cartilage of the distal radius, and in the lunotriquetral ligament.  there are degenerative changes in the trapezioscaphoid and, to a lesser degree, radiocarpal joint. some degenerative change is also noted in the third cmc joint as well. no erosions are seen.
-cppd
-cppd
-hyperparathyroidism
-hemachomatosis
-history of gout with severe wrist pain for 1 week
-this patient has a history of gout which may have been a clinical diagnosis.  however, in light of the findings of chondrocalcinosis and degenerative changes of joints that are uncommon sites for oa but typical for pyrophosphate arthropathy, this patient most likely has cppd arthropathy with pseudogout. while cppd has an association with concommitant hemochromatosis or hyperparathyroidism, either of which may produce a similar arthropathy, there is no clinical indication to support their presence.
-
-
-Keywords by value: 
-- cppd: 0.1388782250188736
-- arthropathy: 0.09306164978194892
-- degenerative: 0.07497824518755859
-- chondrocalcinosis: 0.07446446433862032
-- gout: 0.061808603009436754
-- hyperparathyroidism: 0.05786819462813119
-- trapezioscaphoid: 0.05687431241268709
-- hemachomatosis: 0.05687431241268709
-- concommitant: 0.05240239511875196
-- cmc: 0.04345856053088169
-- pseudogout: 0.04345856053088169
-- lunotriquetral: 0.042018924715951304
-- radiocarpal: 0.04084265660760321
-- fibrocartilage: 0.039848136092588644
-- hyaline: 0.03940302079267283
-- hemochromatosis: 0.03822675268432473
-- oa: 0.037877931901935856
-- pyrophosphate: 0.03723223216931016
-- joint: 0.03565715167796234
-- indication: 0.034931103498737695
-- lesser: 0.033936582983723124
-- clinical: 0.03392657806536779
-- triangular: 0.03203465046617058
-- changes: 0.03160061904819433
-- has: 0.031058709106340864
-- erosions: 0.03056761922619857
-- produce: 0.03056761922619857
-- radius: 0.030352545547052818
-- sites: 0.030042808649076297
-- support: 0.029557496253995088
-- cartilage: 0.02868432626773856
-- uncommon: 0.02697283506927008
-- association: 0.02678760857970601
-- degree: 0.025827961732865036
-- light: 0.025723901204285145
-- wrist: 0.025470864345231714
-- ligament: 0.025323672875772547
-- joints: 0.025227378358245605
-- there: 0.024613849479967524
-- may: 0.02418488217933063
-- their: 0.024131255540210783
-- either: 0.024011407891353136
-- are: 0.022545945919927778
-- third: 0.02210610770419353
-- typical: 0.02210610770419353
-- similar: 0.02162378463832831
-- change: 0.02148852574500544
-- which: 0.020582510803129662
-- presence: 0.020011520119078252
-- week: 0.018722680118246633
-- available: 0.0185336712828374
-- while: 0.01734612412807944
-- severe: 0.016963289032683897
-- some: 0.016741472605591994
-- likely: 0.01555025784474617
-- however: 0.015350761649013358
-- history: 0.015228574680091398
-- been: 0.014998676706219297
-- distal: 0.014988894122232432
-- for: 0.01411177061889126
-- ,: 0.013972132413795477
-- none: 0.013675609721987139
-- 1: 0.01311823463199811
-- noted: 0.013067233473887701
-- most: 0.012727968656310169
-- diagnosis: 0.012659479553422063
-- well: 0.012471490019152588
-- present: 0.012451669380204393
-- this: 0.01240177049437591
-- have: 0.011938310183000593
-- but: 0.011758085813119597
-- findings: 0.011734431843806192
-- no: 0.011102505170371639
-- patient: 0.011052799108598554
-- seen: 0.01089437171011413
-- is: 0.010883047323575335
-- in: 0.010874767229425934
-- also: 0.010868513507549363
-- within: 0.010516976828297301
-- a: 0.010234833595318743
-- that: 0.009522456313282732
-- as: 0.008339209715445986
-- an: 0.0076236442857079345
-- pain: 0.006732955919553127
-- or: 0.006461437090088435
-- to: 0.005510556237974016
-- the: 0.005351585214333902
-- of: 0.0052614619715220575
-- and: 0.0034840452722364862
-- with: 0.002264596956578511
-- .: 0.0016032048560091865
+\-\ Texto\\:\\ \ \(0\)\
+\-\ none\\ available\ \(6\)\
+\-\ there\\ is\\ chondrocalcinosis\\ present\\ within\\ the\\ triangular\\ fibrocartilage\\,\\ hyaline\\ cartilage\\ of\\ the\\ distal\\ radius\\,\\ and\\ in\\ the\\ lunotriquetral\\ ligament\\.\\ \\ there\\ are\\ degenerative\\ changes\\ in\\ the\\ trapezioscaphoid\\ and\\,\\ to\\ a\\ lesser\\ degree\\,\\ radiocarpal\\ joint\\.\\ some\\ degenerative\\ change\\ is\\ also\\ noted\\ in\\ the\\ third\\ cmc\\ joint\\ as\\ well\\.\\ no\\ erosions\\ are\\ seen\\.\ \(0\)\
+\-\ cppd\ \(0\)\
+\-\ cppd\ \(0\)\
+\-\ hyperparathyroidism\ \(35\)\
+\-\ hemachomatosis\ \(0\)\
+\-\ history\\ of\\ gout\\ with\\ severe\\ wrist\\ pain\\ for\\ 1\\ week\ \(0\)\
+\-\ this\\ patient\\ has\\ a\\ history\\ of\\ gout\\ which\\ may\\ have\\ been\\ a\\ clinical\\ diagnosis\\.\\ \\ however\\,\\ in\\ light\\ of\\ the\\ findings\\ of\\ chondrocalcinosis\\ and\\ degenerative\\ changes\\ of\\ joints\\ that\\ are\\ uncommon\\ sites\\ for\\ oa\\ but\\ typical\\ for\\ pyrophosphate\\ arthropathy\\,\\ this\\ patient\\ most\\ likely\\ has\\ cppd\\ arthropathy\\ with\\ pseudogout\\.\\ while\\ cppd\\ has\\ an\\ association\\ with\\ concommitant\\ hemochromatosis\\ or\\ hyperparathyroidism\\,\\ either\\ of\\ which\\ may\\ produce\\ a\\ similar\\ arthropathy\\,\\ there\\ is\\ no\\ clinical\\ indication\\ to\\ support\\ their\\ presence\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ cppd\\:\\ 0\\.1388782250188736\ \(0\)\
+\-\ arthropathy\\:\\ 0\\.09306164978194892\ \(0\)\
+\-\ degenerative\\:\\ 0\\.07497824518755859\ \(0\)\
+\-\ chondrocalcinosis\\:\\ 0\\.07446446433862032\ \(0\)\
+\-\ gout\\:\\ 0\\.061808603009436754\ \(0\)\
+\-\ hyperparathyroidism\\:\\ 0\\.05786819462813119\ \(0\)\
+\-\ trapezioscaphoid\\:\\ 0\\.05687431241268709\ \(0\)\
+\-\ hemachomatosis\\:\\ 0\\.05687431241268709\ \(0\)\
+\-\ concommitant\\:\\ 0\\.05240239511875196\ \(0\)\
+\-\ cmc\\:\\ 0\\.04345856053088169\ \(0\)\
+\-\ pseudogout\\:\\ 0\\.04345856053088169\ \(0\)\
+\-\ lunotriquetral\\:\\ 0\\.042018924715951304\ \(0\)\
+\-\ radiocarpal\\:\\ 0\\.04084265660760321\ \(0\)\
+\-\ fibrocartilage\\:\\ 0\\.039848136092588644\ \(0\)\
+\-\ hyaline\\:\\ 0\\.03940302079267283\ \(0\)\
+\-\ hemochromatosis\\:\\ 0\\.03822675268432473\ \(0\)\
+\-\ oa\\:\\ 0\\.037877931901935856\ \(0\)\
+\-\ pyrophosphate\\:\\ 0\\.03723223216931016\ \(0\)\
+\-\ joint\\:\\ 0\\.03565715167796234\ \(0\)\
+\-\ indication\\:\\ 0\\.034931103498737695\ \(0\)\
+\-\ lesser\\:\\ 0\\.033936582983723124\ \(0\)\
+\-\ clinical\\:\\ 0\\.03392657806536779\ \(0\)\
+\-\ triangular\\:\\ 0\\.03203465046617058\ \(0\)\
+\-\ changes\\:\\ 0\\.03160061904819433\ \(0\)\
+\-\ has\\:\\ 0\\.031058709106340864\ \(0\)\
+\-\ erosions\\:\\ 0\\.03056761922619857\ \(0\)\
+\-\ produce\\:\\ 0\\.03056761922619857\ \(0\)\
+\-\ radius\\:\\ 0\\.030352545547052818\ \(0\)\
+\-\ sites\\:\\ 0\\.030042808649076297\ \(0\)\
+\-\ support\\:\\ 0\\.029557496253995088\ \(0\)\
+\-\ cartilage\\:\\ 0\\.02868432626773856\ \(0\)\
+\-\ uncommon\\:\\ 0\\.02697283506927008\ \(0\)\
+\-\ association\\:\\ 0\\.02678760857970601\ \(0\)\
+\-\ degree\\:\\ 0\\.025827961732865036\ \(0\)\
+\-\ light\\:\\ 0\\.025723901204285145\ \(0\)\
+\-\ wrist\\:\\ 0\\.025470864345231714\ \(0\)\
+\-\ ligament\\:\\ 0\\.025323672875772547\ \(0\)\
+\-\ joints\\:\\ 0\\.025227378358245605\ \(0\)\
+\-\ there\\:\\ 0\\.024613849479967524\ \(0\)\
+\-\ may\\:\\ 0\\.02418488217933063\ \(0\)\
+\-\ their\\:\\ 0\\.024131255540210783\ \(0\)\
+\-\ either\\:\\ 0\\.024011407891353136\ \(0\)\
+\-\ are\\:\\ 0\\.022545945919927778\ \(0\)\
+\-\ third\\:\\ 0\\.02210610770419353\ \(0\)\
+\-\ typical\\:\\ 0\\.02210610770419353\ \(0\)\
+\-\ similar\\:\\ 0\\.02162378463832831\ \(0\)\
+\-\ change\\:\\ 0\\.02148852574500544\ \(0\)\
+\-\ which\\:\\ 0\\.020582510803129662\ \(0\)\
+\-\ presence\\:\\ 0\\.020011520119078252\ \(0\)\
+\-\ week\\:\\ 0\\.018722680118246633\ \(0\)\
+\-\ available\\:\\ 0\\.0185336712828374\ \(0\)\
+\-\ while\\:\\ 0\\.01734612412807944\ \(0\)\
+\-\ severe\\:\\ 0\\.016963289032683897\ \(0\)\
+\-\ some\\:\\ 0\\.016741472605591994\ \(0\)\
+\-\ likely\\:\\ 0\\.01555025784474617\ \(0\)\
+\-\ however\\:\\ 0\\.015350761649013358\ \(0\)\
+\-\ history\\:\\ 0\\.015228574680091398\ \(0\)\
+\-\ been\\:\\ 0\\.014998676706219297\ \(0\)\
+\-\ distal\\:\\ 0\\.014988894122232432\ \(0\)\
+\-\ for\\:\\ 0\\.01411177061889126\ \(0\)\
+\-\ \\,\\:\\ 0\\.013972132413795477\ \(0\)\
+\-\ none\\:\\ 0\\.013675609721987139\ \(0\)\
+\-\ 1\\:\\ 0\\.01311823463199811\ \(0\)\
+\-\ noted\\:\\ 0\\.013067233473887701\ \(0\)\
+\-\ most\\:\\ 0\\.012727968656310169\ \(0\)\
+\-\ diagnosis\\:\\ 0\\.012659479553422063\ \(0\)\
+\-\ well\\:\\ 0\\.012471490019152588\ \(0\)\
+\-\ present\\:\\ 0\\.012451669380204393\ \(0\)\
+\-\ this\\:\\ 0\\.01240177049437591\ \(0\)\
+\-\ have\\:\\ 0\\.011938310183000593\ \(0\)\
+\-\ but\\:\\ 0\\.011758085813119597\ \(0\)\
+\-\ findings\\:\\ 0\\.011734431843806192\ \(0\)\
+\-\ no\\:\\ 0\\.011102505170371639\ \(0\)\
+\-\ patient\\:\\ 0\\.011052799108598554\ \(0\)\
+\-\ seen\\:\\ 0\\.01089437171011413\ \(0\)\
+\-\ is\\:\\ 0\\.010883047323575335\ \(0\)\
+\-\ in\\:\\ 0\\.010874767229425934\ \(0\)\
+\-\ also\\:\\ 0\\.010868513507549363\ \(0\)\
+\-\ within\\:\\ 0\\.010516976828297301\ \(0\)\
+\-\ a\\:\\ 0\\.010234833595318743\ \(0\)\
+\-\ that\\:\\ 0\\.009522456313282732\ \(0\)\
+\-\ as\\:\\ 0\\.008339209715445986\ \(0\)\
+\-\ an\\:\\ 0\\.0076236442857079345\ \(0\)\
+\-\ pain\\:\\ 0\\.006732955919553127\ \(0\)\
+\-\ or\\:\\ 0\\.006461437090088435\ \(0\)\
+\-\ to\\:\\ 0\\.005510556237974016\ \(0\)\
+\-\ the\\:\\ 0\\.005351585214333902\ \(0\)\
+\-\ of\\:\\ 0\\.0052614619715220575\ \(0\)\
+\-\ and\\:\\ 0\\.0034840452722364862\ \(0\)\
+\-\ with\\:\\ 0\\.002264596956578511\ \(0\)\
+\-\ \\.\\:\\ 0\\.0016032048560091865\ \(0\)\

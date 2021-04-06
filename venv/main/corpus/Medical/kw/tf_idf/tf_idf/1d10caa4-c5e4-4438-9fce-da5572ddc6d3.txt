@@ -1,78 +1,76 @@
-Texto: 
-the patient underwent bronchoscopy with suctioning of mucus plug in right upper lobe bronchus.
-frontal chest radiograph demonstrates a triangular right upper paramediastinal opacity with elevation of the right hilum consistent with volume loss.
-right upper lobe atelectasis
-right upper lobe atelectasis
-pneumonia
-20 y/o intubated female trauma patient.
-intubated patients are at increased risk of mucous plugging due to decreased ciliary function, decreased cough reflex and increased secretions.  acute lobar or whole lung collapse in an intubated patient should raise the suspicion of mucus plugging.  suctioning or bronchoscopy usually results in improvement clinically and radiographically.
-
-
-Keywords by value: 
-- intubated: 0.14789850890339212
-- suctioning: 0.1442567779193516
-- plugging: 0.1173384408102275
-- mucus: 0.11115487321569285
-- bronchoscopy: 0.10213923033936086
-- upper: 0.08008079632499876
-- atelectasis: 0.07972792665347891
-- paramediastinal: 0.07885797323695681
-- lobe: 0.06697064120165633
-- ciliary: 0.0666952259700115
-- secretions: 0.05808063184378914
-- plug: 0.053955552290728306
-- hilum: 0.05001899784307623
-- decreased: 0.049335075781059404
-- bronchus: 0.04907105153663044
-- whole: 0.048847852330565406
-- triangular: 0.048207483711227565
-- mucous: 0.047802894425785156
-- lobar: 0.047802894425785156
-- raise: 0.04722596801344728
-- radiographically: 0.04583663943441162
-- reflex: 0.04521005185055171
-- right: 0.04376852956846683
-- suspicion: 0.04304360960478268
-- collapse: 0.04245502104345807
-- elevation: 0.040974743435261245
-- increased: 0.04059193751067292
-- volume: 0.0391883002995628
-- opacity: 0.03878870736273263
-- improvement: 0.03871072511324463
-- clinically: 0.03637489535675987
-- function: 0.03517050070947852
-- pneumonia: 0.034294317429403004
-- results: 0.033490702999462586
-- cough: 0.03178888231852497
-- risk: 0.03005054997436006
-- 20: 0.029830245011233162
-- underwent: 0.028467922674545815
-- should: 0.02644862662027961
-- radiograph: 0.026426685960401576
-- frontal: 0.026061086742556864
-- usually: 0.025193478192881154
-- patient: 0.02494927954125402
-- loss: 0.02408217643173242
-- lung: 0.024030671070279088
-- y/o: 0.022976980872035344
-- trauma: 0.022689405648135232
-- due: 0.02213861313546446
-- patients: 0.021471598052097335
-- acute: 0.02048426533113102
-- consistent: 0.020342701639137893
-- chest: 0.019851737864636104
-- or: 0.0194470436691982
-- demonstrates: 0.018122535938380445
-- female: 0.017055924965512947
-- in: 0.012273705732240436
-- an: 0.011472474410531357
-- are: 0.011309455073102928
-- at: 0.011240418959530417
-- of: 0.004524419448465569
-- to: 0.004146292314980449
-- the: 0.004026678195251237
-- a: 0.0038504835128019537
-- and: 0.003495320499654727
-- with: 0.003407888623977371
-- ,: 0.0026282530632746343
-- .: 0.002067934141592987
+\-\ Texto\\:\\ \ \(0\)\
+\-\ the\\ patient\\ underwent\\ bronchoscopy\\ with\\ suctioning\\ of\\ mucus\\ plug\\ in\\ right\\ upper\\ lobe\\ bronchus\\.\ \(0\)\
+\-\ frontal\\ chest\\ radiograph\\ demonstrates\\ a\\ triangular\\ right\\ upper\\ paramediastinal\\ opacity\\ with\\ elevation\\ of\\ the\\ right\\ hilum\\ consistent\\ with\\ volume\\ loss\\.\ \(0\)\
+\-\ right\\ upper\\ lobe\\ atelectasis\ \(0\)\
+\-\ right\\ upper\\ lobe\\ atelectasis\ \(0\)\
+\-\ pneumonia\ \(272\)\
+\-\ 20\\ y\\/o\\ intubated\\ female\\ trauma\\ patient\\.\ \(1\)\
+\-\ intubated\\ patients\\ are\\ at\\ increased\\ risk\\ of\\ mucous\\ plugging\\ due\\ to\\ decreased\\ ciliary\\ function\\,\\ decreased\\ cough\\ reflex\\ and\\ increased\\ secretions\\.\\ \\ acute\\ lobar\\ or\\ whole\\ lung\\ collapse\\ in\\ an\\ intubated\\ patient\\ should\\ raise\\ the\\ suspicion\\ of\\ mucus\\ plugging\\.\\ \\ suctioning\\ or\\ bronchoscopy\\ usually\\ results\\ in\\ improvement\\ clinically\\ and\\ radiographically\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ intubated\\:\\ 0\\.14789850890339212\ \(0\)\
+\-\ suctioning\\:\\ 0\\.1442567779193516\ \(0\)\
+\-\ plugging\\:\\ 0\\.1173384408102275\ \(0\)\
+\-\ mucus\\:\\ 0\\.11115487321569285\ \(0\)\
+\-\ bronchoscopy\\:\\ 0\\.10213923033936086\ \(0\)\
+\-\ upper\\:\\ 0\\.08008079632499876\ \(0\)\
+\-\ atelectasis\\:\\ 0\\.07972792665347891\ \(0\)\
+\-\ paramediastinal\\:\\ 0\\.07885797323695681\ \(0\)\
+\-\ lobe\\:\\ 0\\.06697064120165633\ \(0\)\
+\-\ ciliary\\:\\ 0\\.0666952259700115\ \(0\)\
+\-\ secretions\\:\\ 0\\.05808063184378914\ \(0\)\
+\-\ plug\\:\\ 0\\.053955552290728306\ \(0\)\
+\-\ hilum\\:\\ 0\\.05001899784307623\ \(0\)\
+\-\ decreased\\:\\ 0\\.049335075781059404\ \(0\)\
+\-\ bronchus\\:\\ 0\\.04907105153663044\ \(0\)\
+\-\ whole\\:\\ 0\\.048847852330565406\ \(0\)\
+\-\ triangular\\:\\ 0\\.048207483711227565\ \(0\)\
+\-\ mucous\\:\\ 0\\.047802894425785156\ \(0\)\
+\-\ lobar\\:\\ 0\\.047802894425785156\ \(0\)\
+\-\ raise\\:\\ 0\\.04722596801344728\ \(0\)\
+\-\ radiographically\\:\\ 0\\.04583663943441162\ \(0\)\
+\-\ reflex\\:\\ 0\\.04521005185055171\ \(0\)\
+\-\ right\\:\\ 0\\.04376852956846683\ \(0\)\
+\-\ suspicion\\:\\ 0\\.04304360960478268\ \(0\)\
+\-\ collapse\\:\\ 0\\.04245502104345807\ \(0\)\
+\-\ elevation\\:\\ 0\\.040974743435261245\ \(0\)\
+\-\ increased\\:\\ 0\\.04059193751067292\ \(0\)\
+\-\ volume\\:\\ 0\\.0391883002995628\ \(0\)\
+\-\ opacity\\:\\ 0\\.03878870736273263\ \(0\)\
+\-\ improvement\\:\\ 0\\.03871072511324463\ \(0\)\
+\-\ clinically\\:\\ 0\\.03637489535675987\ \(0\)\
+\-\ function\\:\\ 0\\.03517050070947852\ \(0\)\
+\-\ pneumonia\\:\\ 0\\.034294317429403004\ \(0\)\
+\-\ results\\:\\ 0\\.033490702999462586\ \(0\)\
+\-\ cough\\:\\ 0\\.03178888231852497\ \(0\)\
+\-\ risk\\:\\ 0\\.03005054997436006\ \(0\)\
+\-\ 20\\:\\ 0\\.029830245011233162\ \(0\)\
+\-\ underwent\\:\\ 0\\.028467922674545815\ \(0\)\
+\-\ should\\:\\ 0\\.02644862662027961\ \(0\)\
+\-\ radiograph\\:\\ 0\\.026426685960401576\ \(0\)\
+\-\ frontal\\:\\ 0\\.026061086742556864\ \(0\)\
+\-\ usually\\:\\ 0\\.025193478192881154\ \(0\)\
+\-\ patient\\:\\ 0\\.02494927954125402\ \(0\)\
+\-\ loss\\:\\ 0\\.02408217643173242\ \(0\)\
+\-\ lung\\:\\ 0\\.024030671070279088\ \(0\)\
+\-\ y\\/o\\:\\ 0\\.022976980872035344\ \(0\)\
+\-\ trauma\\:\\ 0\\.022689405648135232\ \(0\)\
+\-\ due\\:\\ 0\\.02213861313546446\ \(0\)\
+\-\ patients\\:\\ 0\\.021471598052097335\ \(0\)\
+\-\ acute\\:\\ 0\\.02048426533113102\ \(0\)\
+\-\ consistent\\:\\ 0\\.020342701639137893\ \(0\)\
+\-\ chest\\:\\ 0\\.019851737864636104\ \(0\)\
+\-\ or\\:\\ 0\\.0194470436691982\ \(0\)\
+\-\ demonstrates\\:\\ 0\\.018122535938380445\ \(0\)\
+\-\ female\\:\\ 0\\.017055924965512947\ \(0\)\
+\-\ in\\:\\ 0\\.012273705732240436\ \(0\)\
+\-\ an\\:\\ 0\\.011472474410531357\ \(0\)\
+\-\ are\\:\\ 0\\.011309455073102928\ \(0\)\
+\-\ at\\:\\ 0\\.011240418959530417\ \(0\)\
+\-\ of\\:\\ 0\\.004524419448465569\ \(0\)\
+\-\ to\\:\\ 0\\.004146292314980449\ \(0\)\
+\-\ the\\:\\ 0\\.004026678195251237\ \(0\)\
+\-\ a\\:\\ 0\\.0038504835128019537\ \(0\)\
+\-\ and\\:\\ 0\\.003495320499654727\ \(0\)\
+\-\ with\\:\\ 0\\.003407888623977371\ \(0\)\
+\-\ \\,\\:\\ 0\\.0026282530632746343\ \(0\)\
+\-\ \\.\\:\\ 0\\.002067934141592987\ \(0\)\

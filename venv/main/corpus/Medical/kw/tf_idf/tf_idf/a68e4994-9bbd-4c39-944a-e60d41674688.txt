@@ -1,71 +1,69 @@
-Texto: 
-the patient was afebrile with a normal white blood cell count.  on exam he had diffuse, mild abdominal tenderness to palpation.
-the patient was treated with flagyl and did well.
-there is circumferential wall thickening of the entire colon, especially the cecum.
-pseudomembranous colitis
-diffuse colonic wall thickening is a non-specific finding that can be seen with lymphoma, noninfectious inflamatory conditions, and infectious inflamatory conditions.
-pt presents to the er with bloating and diarhea.  he was recently treated with antibiotics for diverticulitis.
-
-
-Keywords by value: 
-- inflamatory: 0.15104857967179447
-- conditions: 0.0914230157526594
-- diarhea: 0.08733732519791994
-- flagyl: 0.07243093421813616
-- noninfectious: 0.07243093421813616
-- bloating: 0.07116444996376643
-- pseudomembranous: 0.06721042006994582
-- thickening: 0.06229300149878176
-- circumferential: 0.05567669101333455
-- diffuse: 0.0556345681801143
-- treated: 0.05500754486201848
-- wall: 0.053229228392231105
-- non-specific: 0.05316470336622159
-- cecum: 0.052099209789401905
-- he: 0.05127284606522623
-- colitis: 0.05041273160130545
-- colonic: 0.0500713477484605
-- diverticulitis: 0.04714732930239983
-- entire: 0.04516556889381977
-- recently: 0.042873168673808575
-- afebrile: 0.04245144057538619
-- count: 0.03995324727034731
-- infectious: 0.03950381577918106
-- especially: 0.037819366208800664
-- colon: 0.03608530010561656
-- er: 0.03524929201019314
-- antibiotics: 0.03451307911473657
-- pt: 0.03416305112508336
-- did: 0.033176544526805636
-- was: 0.03187992007140925
-- palpation: 0.030666011616645724
-- white: 0.030474238846365784
-- finding: 0.029613564570306252
-- tenderness: 0.027945293794426167
-- lymphoma: 0.02626020036977942
-- blood: 0.0250796889517129
-- cell: 0.02481979259765039
-- mild: 0.02419627369818427
-- abdominal: 0.02296687352819479
-- can: 0.020841100564183545
-- well: 0.020785816698587648
-- exam: 0.0201853111822531
-- had: 0.019826342142373207
-- presents: 0.01877036876890243
-- patient: 0.018421331847664257
-- seen: 0.018157286183523552
-- that: 0.015870760522137886
-- normal: 0.01440443499568926
-- be: 0.014169427132730422
-- there: 0.01367436082220418
-- is: 0.012092274803972595
-- ,: 0.011643443678162899
-- to: 0.00918426039662336
-- a: 0.008529027996098953
-- for: 0.0078398725660507
-- on: 0.00778377432650998
-- the: 0.007432757242130419
-- with: 0.006290547101606975
-- and: 0.005806742120394144
-- .: 0.0026720080933486444
-- of: 0.0012527290408385853
+\-\ Texto\\:\\ \ \(0\)\
+\-\ the\\ patient\\ was\\ afebrile\\ with\\ a\\ normal\\ white\\ blood\\ cell\\ count\\.\\ \\ on\\ exam\\ he\\ had\\ diffuse\\,\\ mild\\ abdominal\\ tenderness\\ to\\ palpation\\.\ \(0\)\
+\-\ the\\ patient\\ was\\ treated\\ with\\ flagyl\\ and\\ did\\ well\\.\ \(0\)\
+\-\ there\\ is\\ circumferential\\ wall\\ thickening\\ of\\ the\\ entire\\ colon\\,\\ especially\\ the\\ cecum\\.\ \(0\)\
+\-\ pseudomembranous\\ colitis\ \(3\)\
+\-\ diffuse\\ colonic\\ wall\\ thickening\\ is\\ a\\ non\\-specific\\ finding\\ that\\ can\\ be\\ seen\\ with\\ lymphoma\\,\\ noninfectious\\ inflamatory\\ conditions\\,\\ and\\ infectious\\ inflamatory\\ conditions\\.\ \(0\)\
+\-\ pt\\ presents\\ to\\ the\\ er\\ with\\ bloating\\ and\\ diarhea\\.\\ \\ he\\ was\\ recently\\ treated\\ with\\ antibiotics\\ for\\ diverticulitis\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ inflamatory\\:\\ 0\\.15104857967179447\ \(0\)\
+\-\ conditions\\:\\ 0\\.0914230157526594\ \(0\)\
+\-\ diarhea\\:\\ 0\\.08733732519791994\ \(0\)\
+\-\ flagyl\\:\\ 0\\.07243093421813616\ \(0\)\
+\-\ noninfectious\\:\\ 0\\.07243093421813616\ \(0\)\
+\-\ bloating\\:\\ 0\\.07116444996376643\ \(0\)\
+\-\ pseudomembranous\\:\\ 0\\.06721042006994582\ \(0\)\
+\-\ thickening\\:\\ 0\\.06229300149878176\ \(0\)\
+\-\ circumferential\\:\\ 0\\.05567669101333455\ \(0\)\
+\-\ diffuse\\:\\ 0\\.0556345681801143\ \(0\)\
+\-\ treated\\:\\ 0\\.05500754486201848\ \(0\)\
+\-\ wall\\:\\ 0\\.053229228392231105\ \(0\)\
+\-\ non\\-specific\\:\\ 0\\.05316470336622159\ \(0\)\
+\-\ cecum\\:\\ 0\\.052099209789401905\ \(0\)\
+\-\ he\\:\\ 0\\.05127284606522623\ \(0\)\
+\-\ colitis\\:\\ 0\\.05041273160130545\ \(0\)\
+\-\ colonic\\:\\ 0\\.0500713477484605\ \(0\)\
+\-\ diverticulitis\\:\\ 0\\.04714732930239983\ \(0\)\
+\-\ entire\\:\\ 0\\.04516556889381977\ \(0\)\
+\-\ recently\\:\\ 0\\.042873168673808575\ \(0\)\
+\-\ afebrile\\:\\ 0\\.04245144057538619\ \(0\)\
+\-\ count\\:\\ 0\\.03995324727034731\ \(0\)\
+\-\ infectious\\:\\ 0\\.03950381577918106\ \(0\)\
+\-\ especially\\:\\ 0\\.037819366208800664\ \(0\)\
+\-\ colon\\:\\ 0\\.03608530010561656\ \(0\)\
+\-\ er\\:\\ 0\\.03524929201019314\ \(0\)\
+\-\ antibiotics\\:\\ 0\\.03451307911473657\ \(0\)\
+\-\ pt\\:\\ 0\\.03416305112508336\ \(0\)\
+\-\ did\\:\\ 0\\.033176544526805636\ \(0\)\
+\-\ was\\:\\ 0\\.03187992007140925\ \(0\)\
+\-\ palpation\\:\\ 0\\.030666011616645724\ \(0\)\
+\-\ white\\:\\ 0\\.030474238846365784\ \(0\)\
+\-\ finding\\:\\ 0\\.029613564570306252\ \(0\)\
+\-\ tenderness\\:\\ 0\\.027945293794426167\ \(0\)\
+\-\ lymphoma\\:\\ 0\\.02626020036977942\ \(0\)\
+\-\ blood\\:\\ 0\\.0250796889517129\ \(0\)\
+\-\ cell\\:\\ 0\\.02481979259765039\ \(0\)\
+\-\ mild\\:\\ 0\\.02419627369818427\ \(0\)\
+\-\ abdominal\\:\\ 0\\.02296687352819479\ \(0\)\
+\-\ can\\:\\ 0\\.020841100564183545\ \(0\)\
+\-\ well\\:\\ 0\\.020785816698587648\ \(0\)\
+\-\ exam\\:\\ 0\\.0201853111822531\ \(0\)\
+\-\ had\\:\\ 0\\.019826342142373207\ \(0\)\
+\-\ presents\\:\\ 0\\.01877036876890243\ \(0\)\
+\-\ patient\\:\\ 0\\.018421331847664257\ \(0\)\
+\-\ seen\\:\\ 0\\.018157286183523552\ \(0\)\
+\-\ that\\:\\ 0\\.015870760522137886\ \(0\)\
+\-\ normal\\:\\ 0\\.01440443499568926\ \(0\)\
+\-\ be\\:\\ 0\\.014169427132730422\ \(0\)\
+\-\ there\\:\\ 0\\.01367436082220418\ \(0\)\
+\-\ is\\:\\ 0\\.012092274803972595\ \(0\)\
+\-\ \\,\\:\\ 0\\.011643443678162899\ \(0\)\
+\-\ to\\:\\ 0\\.00918426039662336\ \(0\)\
+\-\ a\\:\\ 0\\.008529027996098953\ \(0\)\
+\-\ for\\:\\ 0\\.0078398725660507\ \(0\)\
+\-\ on\\:\\ 0\\.00778377432650998\ \(0\)\
+\-\ the\\:\\ 0\\.007432757242130419\ \(0\)\
+\-\ with\\:\\ 0\\.006290547101606975\ \(0\)\
+\-\ and\\:\\ 0\\.005806742120394144\ \(0\)\
+\-\ \\.\\:\\ 0\\.0026720080933486444\ \(0\)\
+\-\ of\\:\\ 0\\.0012527290408385853\ \(0\)\

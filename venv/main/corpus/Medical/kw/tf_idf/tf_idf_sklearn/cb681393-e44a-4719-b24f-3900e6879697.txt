@@ -1,128 +1,126 @@
-Texto: 
-neurological examination reveals an abnormal gait and a positive left straight-leg raising sign
-the patient will be treated conservatively. any deterioration in his symptoms and the presence of progressive neurologic deficit will prompt surgical intervention.
-sagittal and axial mr imaging through lumbar spine and l5/s1 disk space demonstrate the presence of a large disc herniation which severely compresses the thecal sac and impinges on the left descending s1 nerve root.
-extruded lumbar disk herniation
-epidural hematoma
-epidural abscess
-spinal canal  neoplasm
-synovial cyst
-epidermoid, dermoid
-metastasis
-a 32 y.o. man presents with acute low back pain radiating down his left leg.
-this is a case of intervertebrak disk herniation in a typical extrusion pattern with good correlation of clinical and imaging findings. it should be noted that athough bulging disks and protrusions are common and poorly correlated with symptoms, extrusions are rare in asymptomatic patients (1â€“5% prevalence) and may be a good
- predictor of response to treatment and patient outcome.
-
-
-Keywords by value: 
-- disk: 0.27705092912338336
-- herniation: 0.23692812061747368
-- and: 0.19400681340998518
-- epidural: 0.17054479178460577
-- s1: 0.16391012415485853
-- good: 0.1527224416576324
-- lumbar: 0.15162508186823498
-- intervertebrak: 0.15014638877512756
-- extrusions: 0.14347289021004409
-- leg: 0.1417529781870912
-- athough: 0.13873796762529964
-- presence: 0.13491795847667604
-- predictor: 0.13206446906021616
-- protrusions: 0.1273295464754717
-- impinges: 0.1253909704951327
-- disks: 0.1253909704951327
-- extruded: 0.1220881570805103
-- will: 0.12085688247253984
-- raising: 0.11811890150725206
-- extrusion: 0.11811890150725206
-- be: 0.11425909188489834
-- his: 0.11388088719233025
-- correlated: 0.11309266383764972
-- deterioration: 0.11224843403920699
-- compresses: 0.10994811003291768
-- symptoms: 0.10273973155123793
-- prevalence: 0.10257412819547684
-- prompt: 0.1021231719694719
-- severely: 0.10084001288937906
-- thecal: 0.10084001288937906
-- outcome: 0.10003698179234066
-- bulging: 0.09964969633284623
-- imaging: 0.09868201004707701
-- synovial: 0.0965217928811955
-- left: 0.09608111744426527
-- conservatively: 0.09444314054372761
-- the: 0.09366968941597618
-- correlation: 0.09362683080731046
-- of: 0.09186674113255741
-- radiating: 0.09027582153799388
-- deficit: 0.08882567524539023
-- root: 0.08882567524539023
-- response: 0.08660313025155707
-- descending: 0.08479985991675676
-- poorly: 0.08479985991675676
-- sac: 0.08360232297291041
-- disc: 0.08156777661793484
-- epidermoid: 0.08156777661793484
-- gait: 0.08131455819852941
-- 32: 0.08045776916817834
-- dermoid: 0.07930632966981604
-- intervention: 0.07886740038816593
-- neurological: 0.07712246043674724
-- down: 0.07626849454064273
-- neurologic: 0.07502236331107652
-- typical: 0.07255885851901411
-- canal: 0.07226624863239205
-- sagittal: 0.07219390182308248
-- progressive: 0.07190765334519619
-- reveals: 0.07141839393081445
-- are: 0.07125199514790007
-- rare: 0.0708764890935456
-- pattern: 0.0700956847015964
-- in: 0.07006841278271267
-- metastasis: 0.06881252562150354
-- nerve: 0.06697878357913728
-- spinal: 0.06666626395023478
-- hematoma: 0.06571403928691931
-- sign: 0.06499935946284441
-- neoplasm: 0.06409230502310266
-- asymptomatic: 0.06391674205057585
-- back: 0.06261612923330419
-- space: 0.06249555087264004
-- spine: 0.062021881561055106
-- positive: 0.061866973381153385
-- should: 0.06126152129558204
-- patient: 0.0610737146417451
-- mr: 0.060749426173366435
-- any: 0.060677553252965165
-- abscess: 0.06028776625495733
-- examination: 0.06007898283016801
-- clinical: 0.059501419267423854
-- treated: 0.05846633576998328
-- abnormal: 0.05640629154373121
-- through: 0.05588893119932211
-- with: 0.05515297889309608
-- axial: 0.05423273740125141
-- cyst: 0.05416017796286525
-- low: 0.053873097325178136
-- common: 0.05324490862442737
-- patients: 0.052816796083723395
-- acute: 0.05078949281240418
-- noted: 0.04977896095455009
-- man: 0.049705154227203646
-- demonstrate: 0.048809455944415894
-- it: 0.04805964679388974
-- may: 0.04724709914693763
-- case: 0.04716800782406747
-- large: 0.04704224696298248
-- findings: 0.046337196765283334
-- surgical: 0.04563233804492645
-- presents: 0.04516468472000469
-- treatment: 0.044723549500144504
-- which: 0.0426915340139883
-- that: 0.04074360981575664
-- an: 0.03590222584677685
-- pain: 0.03359636619001335
-- this: 0.032261400732186314
-- on: 0.02835560575248622
-- is: 0.02571170181858144
-- to: 0.023471665081155516
+\-\ Texto\\:\\ \ \(0\)\
+\-\ neurological\\ examination\\ reveals\\ an\\ abnormal\\ gait\\ and\\ a\\ positive\\ left\\ straight\\-leg\\ raising\\ sign\ \(0\)\
+\-\ the\\ patient\\ will\\ be\\ treated\\ conservatively\\.\\ any\\ deterioration\\ in\\ his\\ symptoms\\ and\\ the\\ presence\\ of\\ progressive\\ neurologic\\ deficit\\ will\\ prompt\\ surgical\\ intervention\\.\ \(0\)\
+\-\ sagittal\\ and\\ axial\\ mr\\ imaging\\ through\\ lumbar\\ spine\\ and\\ l5\\/s1\\ disk\\ space\\ demonstrate\\ the\\ presence\\ of\\ a\\ large\\ disc\\ herniation\\ which\\ severely\\ compresses\\ the\\ thecal\\ sac\\ and\\ impinges\\ on\\ the\\ left\\ descending\\ s1\\ nerve\\ root\\.\ \(0\)\
+\-\ extruded\\ lumbar\\ disk\\ herniation\ \(0\)\
+\-\ epidural\\ hematoma\ \(39\)\
+\-\ epidural\\ abscess\ \(23\)\
+\-\ spinal\\ canal\\ \\ neoplasm\ \(1\)\
+\-\ synovial\\ cyst\ \(8\)\
+\-\ epidermoid\\,\\ dermoid\ \(1\)\
+\-\ metastasis\ \(206\)\
+\-\ a\\ 32\\ y\\.o\\.\\ man\\ presents\\ with\\ acute\\ low\\ back\\ pain\\ radiating\\ down\\ his\\ left\\ leg\\.\ \(0\)\
+\-\ this\\ is\\ a\\ case\\ of\\ intervertebrak\\ disk\\ herniation\\ in\\ a\\ typical\\ extrusion\\ pattern\\ with\\ good\\ correlation\\ of\\ clinical\\ and\\ imaging\\ findings\\.\\ it\\ should\\ be\\ noted\\ that\\ athough\\ bulging\\ disks\\ and\\ protrusions\\ are\\ common\\ and\\ poorly\\ correlated\\ with\\ symptoms\\,\\ extrusions\\ are\\ rare\\ in\\ asymptomatic\\ patients\\ \\(1\\â\\€\\“5\\%\\ prevalence\\)\\ and\\ may\\ be\\ a\\ good\ \(0\)\
+\-\ \\ predictor\\ of\\ response\\ to\\ treatment\\ and\\ patient\\ outcome\\.\ \(1\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ disk\\:\\ 0\\.27705092912338336\ \(0\)\
+\-\ herniation\\:\\ 0\\.23692812061747368\ \(0\)\
+\-\ and\\:\\ 0\\.19400681340998518\ \(0\)\
+\-\ epidural\\:\\ 0\\.17054479178460577\ \(0\)\
+\-\ s1\\:\\ 0\\.16391012415485853\ \(0\)\
+\-\ good\\:\\ 0\\.1527224416576324\ \(0\)\
+\-\ lumbar\\:\\ 0\\.15162508186823498\ \(0\)\
+\-\ intervertebrak\\:\\ 0\\.15014638877512756\ \(0\)\
+\-\ extrusions\\:\\ 0\\.14347289021004409\ \(0\)\
+\-\ leg\\:\\ 0\\.1417529781870912\ \(0\)\
+\-\ athough\\:\\ 0\\.13873796762529964\ \(0\)\
+\-\ presence\\:\\ 0\\.13491795847667604\ \(0\)\
+\-\ predictor\\:\\ 0\\.13206446906021616\ \(0\)\
+\-\ protrusions\\:\\ 0\\.1273295464754717\ \(0\)\
+\-\ impinges\\:\\ 0\\.1253909704951327\ \(0\)\
+\-\ disks\\:\\ 0\\.1253909704951327\ \(0\)\
+\-\ extruded\\:\\ 0\\.1220881570805103\ \(0\)\
+\-\ will\\:\\ 0\\.12085688247253984\ \(0\)\
+\-\ raising\\:\\ 0\\.11811890150725206\ \(0\)\
+\-\ extrusion\\:\\ 0\\.11811890150725206\ \(0\)\
+\-\ be\\:\\ 0\\.11425909188489834\ \(0\)\
+\-\ his\\:\\ 0\\.11388088719233025\ \(0\)\
+\-\ correlated\\:\\ 0\\.11309266383764972\ \(0\)\
+\-\ deterioration\\:\\ 0\\.11224843403920699\ \(0\)\
+\-\ compresses\\:\\ 0\\.10994811003291768\ \(0\)\
+\-\ symptoms\\:\\ 0\\.10273973155123793\ \(0\)\
+\-\ prevalence\\:\\ 0\\.10257412819547684\ \(0\)\
+\-\ prompt\\:\\ 0\\.1021231719694719\ \(0\)\
+\-\ severely\\:\\ 0\\.10084001288937906\ \(0\)\
+\-\ thecal\\:\\ 0\\.10084001288937906\ \(0\)\
+\-\ outcome\\:\\ 0\\.10003698179234066\ \(0\)\
+\-\ bulging\\:\\ 0\\.09964969633284623\ \(0\)\
+\-\ imaging\\:\\ 0\\.09868201004707701\ \(0\)\
+\-\ synovial\\:\\ 0\\.0965217928811955\ \(0\)\
+\-\ left\\:\\ 0\\.09608111744426527\ \(0\)\
+\-\ conservatively\\:\\ 0\\.09444314054372761\ \(0\)\
+\-\ the\\:\\ 0\\.09366968941597618\ \(0\)\
+\-\ correlation\\:\\ 0\\.09362683080731046\ \(0\)\
+\-\ of\\:\\ 0\\.09186674113255741\ \(0\)\
+\-\ radiating\\:\\ 0\\.09027582153799388\ \(0\)\
+\-\ deficit\\:\\ 0\\.08882567524539023\ \(0\)\
+\-\ root\\:\\ 0\\.08882567524539023\ \(0\)\
+\-\ response\\:\\ 0\\.08660313025155707\ \(0\)\
+\-\ descending\\:\\ 0\\.08479985991675676\ \(0\)\
+\-\ poorly\\:\\ 0\\.08479985991675676\ \(0\)\
+\-\ sac\\:\\ 0\\.08360232297291041\ \(0\)\
+\-\ disc\\:\\ 0\\.08156777661793484\ \(0\)\
+\-\ epidermoid\\:\\ 0\\.08156777661793484\ \(0\)\
+\-\ gait\\:\\ 0\\.08131455819852941\ \(0\)\
+\-\ 32\\:\\ 0\\.08045776916817834\ \(0\)\
+\-\ dermoid\\:\\ 0\\.07930632966981604\ \(0\)\
+\-\ intervention\\:\\ 0\\.07886740038816593\ \(0\)\
+\-\ neurological\\:\\ 0\\.07712246043674724\ \(0\)\
+\-\ down\\:\\ 0\\.07626849454064273\ \(0\)\
+\-\ neurologic\\:\\ 0\\.07502236331107652\ \(0\)\
+\-\ typical\\:\\ 0\\.07255885851901411\ \(0\)\
+\-\ canal\\:\\ 0\\.07226624863239205\ \(0\)\
+\-\ sagittal\\:\\ 0\\.07219390182308248\ \(0\)\
+\-\ progressive\\:\\ 0\\.07190765334519619\ \(0\)\
+\-\ reveals\\:\\ 0\\.07141839393081445\ \(0\)\
+\-\ are\\:\\ 0\\.07125199514790007\ \(0\)\
+\-\ rare\\:\\ 0\\.0708764890935456\ \(0\)\
+\-\ pattern\\:\\ 0\\.0700956847015964\ \(0\)\
+\-\ in\\:\\ 0\\.07006841278271267\ \(0\)\
+\-\ metastasis\\:\\ 0\\.06881252562150354\ \(0\)\
+\-\ nerve\\:\\ 0\\.06697878357913728\ \(0\)\
+\-\ spinal\\:\\ 0\\.06666626395023478\ \(0\)\
+\-\ hematoma\\:\\ 0\\.06571403928691931\ \(0\)\
+\-\ sign\\:\\ 0\\.06499935946284441\ \(0\)\
+\-\ neoplasm\\:\\ 0\\.06409230502310266\ \(0\)\
+\-\ asymptomatic\\:\\ 0\\.06391674205057585\ \(0\)\
+\-\ back\\:\\ 0\\.06261612923330419\ \(0\)\
+\-\ space\\:\\ 0\\.06249555087264004\ \(0\)\
+\-\ spine\\:\\ 0\\.062021881561055106\ \(0\)\
+\-\ positive\\:\\ 0\\.061866973381153385\ \(0\)\
+\-\ should\\:\\ 0\\.06126152129558204\ \(0\)\
+\-\ patient\\:\\ 0\\.0610737146417451\ \(0\)\
+\-\ mr\\:\\ 0\\.060749426173366435\ \(0\)\
+\-\ any\\:\\ 0\\.060677553252965165\ \(0\)\
+\-\ abscess\\:\\ 0\\.06028776625495733\ \(0\)\
+\-\ examination\\:\\ 0\\.06007898283016801\ \(0\)\
+\-\ clinical\\:\\ 0\\.059501419267423854\ \(0\)\
+\-\ treated\\:\\ 0\\.05846633576998328\ \(0\)\
+\-\ abnormal\\:\\ 0\\.05640629154373121\ \(0\)\
+\-\ through\\:\\ 0\\.05588893119932211\ \(0\)\
+\-\ with\\:\\ 0\\.05515297889309608\ \(0\)\
+\-\ axial\\:\\ 0\\.05423273740125141\ \(0\)\
+\-\ cyst\\:\\ 0\\.05416017796286525\ \(0\)\
+\-\ low\\:\\ 0\\.053873097325178136\ \(0\)\
+\-\ common\\:\\ 0\\.05324490862442737\ \(0\)\
+\-\ patients\\:\\ 0\\.052816796083723395\ \(0\)\
+\-\ acute\\:\\ 0\\.05078949281240418\ \(0\)\
+\-\ noted\\:\\ 0\\.04977896095455009\ \(0\)\
+\-\ man\\:\\ 0\\.049705154227203646\ \(0\)\
+\-\ demonstrate\\:\\ 0\\.048809455944415894\ \(0\)\
+\-\ it\\:\\ 0\\.04805964679388974\ \(0\)\
+\-\ may\\:\\ 0\\.04724709914693763\ \(0\)\
+\-\ case\\:\\ 0\\.04716800782406747\ \(0\)\
+\-\ large\\:\\ 0\\.04704224696298248\ \(0\)\
+\-\ findings\\:\\ 0\\.046337196765283334\ \(0\)\
+\-\ surgical\\:\\ 0\\.04563233804492645\ \(0\)\
+\-\ presents\\:\\ 0\\.04516468472000469\ \(0\)\
+\-\ treatment\\:\\ 0\\.044723549500144504\ \(0\)\
+\-\ which\\:\\ 0\\.0426915340139883\ \(0\)\
+\-\ that\\:\\ 0\\.04074360981575664\ \(0\)\
+\-\ an\\:\\ 0\\.03590222584677685\ \(0\)\
+\-\ pain\\:\\ 0\\.03359636619001335\ \(0\)\
+\-\ this\\:\\ 0\\.032261400732186314\ \(0\)\
+\-\ on\\:\\ 0\\.02835560575248622\ \(0\)\
+\-\ is\\:\\ 0\\.02571170181858144\ \(0\)\
+\-\ to\\:\\ 0\\.023471665081155516\ \(0\)\

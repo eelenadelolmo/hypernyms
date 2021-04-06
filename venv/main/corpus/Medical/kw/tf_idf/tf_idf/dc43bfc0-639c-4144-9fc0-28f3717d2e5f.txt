@@ -1,82 +1,80 @@
-Texto: 
-patient subsequently fractured the proximal humerus which was stabilized with internal fixation.
-the images submitted are all from the same patient within a several month period.  these demonstrate the various sensitivies of the imaging modality however are all nonspecific.  all confirm a presence of a polyostotic intramedullary process with altered/increased bone metabolism.
-multiple myeloma
-diagnosis was confirmed by biopsy of humeral lesion and bone marrow aspirate.
-multiple myeloma
-metastatic disease
-lymphoma
-osteomyelitis
-60 year old male presents to ortho for evaluation of right upper extremity pain.
-
-
-Keywords by value: 
-- myeloma: 0.10794284396209651
-- sensitivies: 0.09582085243441846
-- altered/increased: 0.09582085243441846
-- all: 0.07881272248145513
-- ortho: 0.07466965516207809
-- polyostotic: 0.06638552416156834
-- aspirate: 0.06568401849702953
-- stabilized: 0.0650250552164161
-- metabolism: 0.060406759629837124
-- intramedullary: 0.057490846732068876
-- fractured: 0.05717576480953353
-- submitted: 0.054938242481227556
-- various: 0.05131710719287389
-- modality: 0.05096069607523268
-- humeral: 0.049185423726283775
-- humerus: 0.047789976262716305
-- nonspecific: 0.047789976262716305
-- confirm: 0.04727837288382516
-- fixation: 0.047154147929220555
-- bone: 0.04616162350999717
-- period: 0.043426487590885444
-- osteomyelitis: 0.04316664497291203
-- subsequently: 0.04210734784083906
-- marrow: 0.0408616588980238
-- 60: 0.040520892268849064
-- multiple: 0.03912621746694063
-- same: 0.038284930426543545
-- process: 0.035761581356899066
-- confirmed: 0.034928256555291276
-- extremity: 0.033969119235243886
-- presence: 0.03371506107018619
-- biopsy: 0.032953187409095225
-- internal: 0.031139955123682297
-- several: 0.029859704736112908
-- proximal: 0.02788633893159799
-- month: 0.027865375443484885
-- evaluation: 0.026980856476378344
-- lymphoma: 0.026545637330320497
-- however: 0.025862696256489896
-- are: 0.025323345054991342
-- these: 0.02417222491258522
-- metastatic: 0.023381623952348808
-- upper: 0.022413918536616503
-- imaging: 0.0217616720049522
-- was: 0.021484293961167102
-- demonstrate: 0.021374479797098268
-- diagnosis: 0.021328470986743692
-- presents: 0.0189743945163905
-- lesion: 0.018919078543483202
-- patient: 0.01862156371557365
-- images: 0.017818085782058197
-- within: 0.01771881965637045
-- which: 0.017338528122201616
-- male: 0.0167957123683421
-- by: 0.015465988078748638
-- disease: 0.015181929795822871
-- from: 0.013765605577763178
-- a: 0.01293260223321526
-- pain: 0.011343567038377552
-- year: 0.01039244857905342
-- right: 0.009800344664243659
-- old: 0.009510158661546246
-- for: 0.007925088572203426
-- the: 0.007513548081718793
-- of: 0.005065382643390801
-- to: 0.004642044656988981
-- with: 0.0025435690454323856
-- .: 0.002315187136783453
-- and: 0.0019566196275241136
+\-\ Texto\\:\\ \ \(0\)\
+\-\ patient\\ subsequently\\ fractured\\ the\\ proximal\\ humerus\\ which\\ was\\ stabilized\\ with\\ internal\\ fixation\\.\ \(0\)\
+\-\ the\\ images\\ submitted\\ are\\ all\\ from\\ the\\ same\\ patient\\ within\\ a\\ several\\ month\\ period\\.\\ \\ these\\ demonstrate\\ the\\ various\\ sensitivies\\ of\\ the\\ imaging\\ modality\\ however\\ are\\ all\\ nonspecific\\.\\ \\ all\\ confirm\\ a\\ presence\\ of\\ a\\ polyostotic\\ intramedullary\\ process\\ with\\ altered\\/increased\\ bone\\ metabolism\\.\ \(0\)\
+\-\ multiple\\ myeloma\ \(25\)\
+\-\ diagnosis\\ was\\ confirmed\\ by\\ biopsy\\ of\\ humeral\\ lesion\\ and\\ bone\\ marrow\\ aspirate\\.\ \(0\)\
+\-\ multiple\\ myeloma\ \(25\)\
+\-\ metastatic\\ disease\ \(243\)\
+\-\ lymphoma\ \(373\)\
+\-\ osteomyelitis\ \(170\)\
+\-\ 60\\ year\\ old\\ male\\ presents\\ to\\ ortho\\ for\\ evaluation\\ of\\ right\\ upper\\ extremity\\ pain\\.\ \(1\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ myeloma\\:\\ 0\\.10794284396209651\ \(0\)\
+\-\ sensitivies\\:\\ 0\\.09582085243441846\ \(0\)\
+\-\ altered\\/increased\\:\\ 0\\.09582085243441846\ \(0\)\
+\-\ all\\:\\ 0\\.07881272248145513\ \(0\)\
+\-\ ortho\\:\\ 0\\.07466965516207809\ \(0\)\
+\-\ polyostotic\\:\\ 0\\.06638552416156834\ \(0\)\
+\-\ aspirate\\:\\ 0\\.06568401849702953\ \(0\)\
+\-\ stabilized\\:\\ 0\\.0650250552164161\ \(0\)\
+\-\ metabolism\\:\\ 0\\.060406759629837124\ \(0\)\
+\-\ intramedullary\\:\\ 0\\.057490846732068876\ \(0\)\
+\-\ fractured\\:\\ 0\\.05717576480953353\ \(0\)\
+\-\ submitted\\:\\ 0\\.054938242481227556\ \(0\)\
+\-\ various\\:\\ 0\\.05131710719287389\ \(0\)\
+\-\ modality\\:\\ 0\\.05096069607523268\ \(0\)\
+\-\ humeral\\:\\ 0\\.049185423726283775\ \(0\)\
+\-\ humerus\\:\\ 0\\.047789976262716305\ \(0\)\
+\-\ nonspecific\\:\\ 0\\.047789976262716305\ \(0\)\
+\-\ confirm\\:\\ 0\\.04727837288382516\ \(0\)\
+\-\ fixation\\:\\ 0\\.047154147929220555\ \(0\)\
+\-\ bone\\:\\ 0\\.04616162350999717\ \(0\)\
+\-\ period\\:\\ 0\\.043426487590885444\ \(0\)\
+\-\ osteomyelitis\\:\\ 0\\.04316664497291203\ \(0\)\
+\-\ subsequently\\:\\ 0\\.04210734784083906\ \(0\)\
+\-\ marrow\\:\\ 0\\.0408616588980238\ \(0\)\
+\-\ 60\\:\\ 0\\.040520892268849064\ \(0\)\
+\-\ multiple\\:\\ 0\\.03912621746694063\ \(0\)\
+\-\ same\\:\\ 0\\.038284930426543545\ \(0\)\
+\-\ process\\:\\ 0\\.035761581356899066\ \(0\)\
+\-\ confirmed\\:\\ 0\\.034928256555291276\ \(0\)\
+\-\ extremity\\:\\ 0\\.033969119235243886\ \(0\)\
+\-\ presence\\:\\ 0\\.03371506107018619\ \(0\)\
+\-\ biopsy\\:\\ 0\\.032953187409095225\ \(0\)\
+\-\ internal\\:\\ 0\\.031139955123682297\ \(0\)\
+\-\ several\\:\\ 0\\.029859704736112908\ \(0\)\
+\-\ proximal\\:\\ 0\\.02788633893159799\ \(0\)\
+\-\ month\\:\\ 0\\.027865375443484885\ \(0\)\
+\-\ evaluation\\:\\ 0\\.026980856476378344\ \(0\)\
+\-\ lymphoma\\:\\ 0\\.026545637330320497\ \(0\)\
+\-\ however\\:\\ 0\\.025862696256489896\ \(0\)\
+\-\ are\\:\\ 0\\.025323345054991342\ \(0\)\
+\-\ these\\:\\ 0\\.02417222491258522\ \(0\)\
+\-\ metastatic\\:\\ 0\\.023381623952348808\ \(0\)\
+\-\ upper\\:\\ 0\\.022413918536616503\ \(0\)\
+\-\ imaging\\:\\ 0\\.0217616720049522\ \(0\)\
+\-\ was\\:\\ 0\\.021484293961167102\ \(0\)\
+\-\ demonstrate\\:\\ 0\\.021374479797098268\ \(0\)\
+\-\ diagnosis\\:\\ 0\\.021328470986743692\ \(0\)\
+\-\ presents\\:\\ 0\\.0189743945163905\ \(0\)\
+\-\ lesion\\:\\ 0\\.018919078543483202\ \(0\)\
+\-\ patient\\:\\ 0\\.01862156371557365\ \(0\)\
+\-\ images\\:\\ 0\\.017818085782058197\ \(0\)\
+\-\ within\\:\\ 0\\.01771881965637045\ \(0\)\
+\-\ which\\:\\ 0\\.017338528122201616\ \(0\)\
+\-\ male\\:\\ 0\\.0167957123683421\ \(0\)\
+\-\ by\\:\\ 0\\.015465988078748638\ \(0\)\
+\-\ disease\\:\\ 0\\.015181929795822871\ \(0\)\
+\-\ from\\:\\ 0\\.013765605577763178\ \(0\)\
+\-\ a\\:\\ 0\\.01293260223321526\ \(0\)\
+\-\ pain\\:\\ 0\\.011343567038377552\ \(0\)\
+\-\ year\\:\\ 0\\.01039244857905342\ \(0\)\
+\-\ right\\:\\ 0\\.009800344664243659\ \(0\)\
+\-\ old\\:\\ 0\\.009510158661546246\ \(0\)\
+\-\ for\\:\\ 0\\.007925088572203426\ \(0\)\
+\-\ the\\:\\ 0\\.007513548081718793\ \(0\)\
+\-\ of\\:\\ 0\\.005065382643390801\ \(0\)\
+\-\ to\\:\\ 0\\.004642044656988981\ \(0\)\
+\-\ with\\:\\ 0\\.0025435690454323856\ \(0\)\
+\-\ \\.\\:\\ 0\\.002315187136783453\ \(0\)\
+\-\ and\\:\\ 0\\.0019566196275241136\ \(0\)\

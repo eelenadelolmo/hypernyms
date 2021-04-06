@@ -1,64 +1,62 @@
-Texto: 
-â€¢ extraaxial crescent shaped hypodensity, concave toward brain, with adjacent or internal area of iso/hyperdensity.
-â€¢ mass effect with local effacement of sulci and compression of left lateral ventricle
-â€¢ sub-falcial herniation
-chronic subdural hematoma with re-bleeding
-â€¢ subdural mass (e.g. dural metastasis)
-â€¢ subdural empyema
-â€¢ hemorhagic infarct(old)
-â€¢ subdural hematoma, chronic, with re-bleeding
-83 y.o. man with recent (6 weeks) onset of shuffling gait, pronator drift, and right lower extremity weakness.  past medical history of atrial fibrillation
-
-
-Keywords by value: 
-- subdural: 0.4767481996501152
-- hemorhagic: 0.19429150975037976
-- shuffling: 0.1795288545366873
-- hematoma: 0.17006975670887858
-- pronator: 0.1579837687427838
-- drift: 0.1561305996119091
-- concave: 0.1528474969735809
-- crescent: 0.1500035441093024
-- chronic: 0.1442278772993813
-- fibrillation: 0.1359170729728835
-- extraaxial: 0.1321488010754823
-- hypodensity: 0.1321488010754823
-- empyema: 0.13102759434132377
-- sulci: 0.12490053883871706
-- toward: 0.12449485020189914
-- 83: 0.12332218654619598
-- effacement: 0.12047823368191747
-- with: 0.1189478661878811
-- of: 0.1188768373059176
-- atrial: 0.11418543407850121
-- dural: 0.10781215607094838
-- gait: 0.10522216622032093
-- local: 0.10458157629392968
-- herniation: 0.10219609150025866
-- shaped: 0.10150228391393887
-- infarct: 0.10109659527712092
-- mass: 0.09281309235030943
-- ventricle: 0.08942812095116796
-- metastasis: 0.08904436265038806
-- compression: 0.08896843383746561
-- weakness: 0.08866739688976051
-- extremity: 0.0875040765153948
-- effect: 0.08522475785402941
-- recent: 0.082261932070177
-- internal: 0.0818781737693971
-- past: 0.07908181424216881
-- adjacent: 0.07875087291925773
-- area: 0.0787040125934952
-- onset: 0.07801320578343499
-- medical: 0.07721276884558158
-- brain: 0.07573753968203518
-- weeks: 0.07281229660660081
-- man: 0.06431915902847636
-- lower: 0.06208233795100165
-- lateral: 0.0602936106528523
-- and: 0.05020950152286368
-- history: 0.04641682265760604
-- or: 0.04226476269411149
-- left: 0.041443432903578534
-- right: 0.04027949067254802
-- old: 0.03595662564449551
+\-\ Texto\\:\\ \ \(0\)\
+\-\ \\â\\€\\¢\\ extraaxial\\ crescent\\ shaped\\ hypodensity\\,\\ concave\\ toward\\ brain\\,\\ with\\ adjacent\\ or\\ internal\\ area\\ of\\ iso\\/hyperdensity\\.\ \(1\)\
+\-\ \\â\\€\\¢\\ mass\\ effect\\ with\\ local\\ effacement\\ of\\ sulci\\ and\\ compression\\ of\\ left\\ lateral\\ ventricle\ \(1\)\
+\-\ \\â\\€\\¢\\ sub\\-falcial\\ herniation\ \(1\)\
+\-\ chronic\\ subdural\\ hematoma\\ with\\ re\\-bleeding\ \(0\)\
+\-\ \\â\\€\\¢\\ subdural\\ mass\\ \\(e\\.g\\.\\ dural\\ metastasis\\)\ \(1\)\
+\-\ \\â\\€\\¢\\ subdural\\ empyema\ \(2\)\
+\-\ \\â\\€\\¢\\ hemorhagic\\ infarct\\(old\\)\ \(1\)\
+\-\ \\â\\€\\¢\\ subdural\\ hematoma\\,\\ chronic\\,\\ with\\ re\\-bleeding\ \(1\)\
+\-\ 83\\ y\\.o\\.\\ man\\ with\\ recent\\ \\(6\\ weeks\\)\\ onset\\ of\\ shuffling\\ gait\\,\\ pronator\\ drift\\,\\ and\\ right\\ lower\\ extremity\\ weakness\\.\\ \\ past\\ medical\\ history\\ of\\ atrial\\ fibrillation\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ subdural\\:\\ 0\\.4767481996501152\ \(0\)\
+\-\ hemorhagic\\:\\ 0\\.19429150975037976\ \(0\)\
+\-\ shuffling\\:\\ 0\\.1795288545366873\ \(0\)\
+\-\ hematoma\\:\\ 0\\.17006975670887858\ \(0\)\
+\-\ pronator\\:\\ 0\\.1579837687427838\ \(0\)\
+\-\ drift\\:\\ 0\\.1561305996119091\ \(0\)\
+\-\ concave\\:\\ 0\\.1528474969735809\ \(0\)\
+\-\ crescent\\:\\ 0\\.1500035441093024\ \(0\)\
+\-\ chronic\\:\\ 0\\.1442278772993813\ \(0\)\
+\-\ fibrillation\\:\\ 0\\.1359170729728835\ \(0\)\
+\-\ extraaxial\\:\\ 0\\.1321488010754823\ \(0\)\
+\-\ hypodensity\\:\\ 0\\.1321488010754823\ \(0\)\
+\-\ empyema\\:\\ 0\\.13102759434132377\ \(0\)\
+\-\ sulci\\:\\ 0\\.12490053883871706\ \(0\)\
+\-\ toward\\:\\ 0\\.12449485020189914\ \(0\)\
+\-\ 83\\:\\ 0\\.12332218654619598\ \(0\)\
+\-\ effacement\\:\\ 0\\.12047823368191747\ \(0\)\
+\-\ with\\:\\ 0\\.1189478661878811\ \(0\)\
+\-\ of\\:\\ 0\\.1188768373059176\ \(0\)\
+\-\ atrial\\:\\ 0\\.11418543407850121\ \(0\)\
+\-\ dural\\:\\ 0\\.10781215607094838\ \(0\)\
+\-\ gait\\:\\ 0\\.10522216622032093\ \(0\)\
+\-\ local\\:\\ 0\\.10458157629392968\ \(0\)\
+\-\ herniation\\:\\ 0\\.10219609150025866\ \(0\)\
+\-\ shaped\\:\\ 0\\.10150228391393887\ \(0\)\
+\-\ infarct\\:\\ 0\\.10109659527712092\ \(0\)\
+\-\ mass\\:\\ 0\\.09281309235030943\ \(0\)\
+\-\ ventricle\\:\\ 0\\.08942812095116796\ \(0\)\
+\-\ metastasis\\:\\ 0\\.08904436265038806\ \(0\)\
+\-\ compression\\:\\ 0\\.08896843383746561\ \(0\)\
+\-\ weakness\\:\\ 0\\.08866739688976051\ \(0\)\
+\-\ extremity\\:\\ 0\\.0875040765153948\ \(0\)\
+\-\ effect\\:\\ 0\\.08522475785402941\ \(0\)\
+\-\ recent\\:\\ 0\\.082261932070177\ \(0\)\
+\-\ internal\\:\\ 0\\.0818781737693971\ \(0\)\
+\-\ past\\:\\ 0\\.07908181424216881\ \(0\)\
+\-\ adjacent\\:\\ 0\\.07875087291925773\ \(0\)\
+\-\ area\\:\\ 0\\.0787040125934952\ \(0\)\
+\-\ onset\\:\\ 0\\.07801320578343499\ \(0\)\
+\-\ medical\\:\\ 0\\.07721276884558158\ \(0\)\
+\-\ brain\\:\\ 0\\.07573753968203518\ \(0\)\
+\-\ weeks\\:\\ 0\\.07281229660660081\ \(0\)\
+\-\ man\\:\\ 0\\.06431915902847636\ \(0\)\
+\-\ lower\\:\\ 0\\.06208233795100165\ \(0\)\
+\-\ lateral\\:\\ 0\\.0602936106528523\ \(0\)\
+\-\ and\\:\\ 0\\.05020950152286368\ \(0\)\
+\-\ history\\:\\ 0\\.04641682265760604\ \(0\)\
+\-\ or\\:\\ 0\\.04226476269411149\ \(0\)\
+\-\ left\\:\\ 0\\.041443432903578534\ \(0\)\
+\-\ right\\:\\ 0\\.04027949067254802\ \(0\)\
+\-\ old\\:\\ 0\\.03595662564449551\ \(0\)\

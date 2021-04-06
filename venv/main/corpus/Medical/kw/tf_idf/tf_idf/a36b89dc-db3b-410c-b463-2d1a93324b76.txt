@@ -1,65 +1,63 @@
-Texto: 
-prompt perfusion to both kidneys.  symmetrical uptake bilaterally.  a smaller appearing left kidney, with the suggestion of a photopenic region at its superior aspect.  spontaneous exretion of radiotracer bilaterally.  findings not inconsistent with a functionally anephric upper moeity of a duplicated left kidney/collecting system.
-duplicated renal collecting system
-normal but asymmetric bilateral kidneys
-duplicated left kidney/renal collecting system with a functionally anephric upper moeity
-five week old male with a history of a duplicated left renal collecting system with an obstructed left upper pole moiety with an ectopic uretrocele.
-
-
-Keywords by value: 
-- duplicated: 0.23666767533488953
-- anephric: 0.18365663383263536
-- moeity: 0.18365663383263536
-- functionally: 0.14033493504763878
-- system: 0.14018666543336655
-- collecting: 0.13628659774103094
-- exretion: 0.09182831691631768
-- kidney/collecting: 0.09182831691631768
-- kidney/renal: 0.09182831691631768
-- uretrocele: 0.09182831691631768
-- kidneys: 0.08193159377875264
-- inconsistent: 0.0750633386617958
-- moiety: 0.07155841953032484
-- upper: 0.06444001579277245
-- photopenic: 0.06294718439298663
-- bilaterally: 0.05847302580258132
-- obstructed: 0.05788981131192725
-- symmetrical: 0.05749668289543926
-- prompt: 0.05479344127580296
-- suggestion: 0.053936794419167836
-- renal: 0.05348907394704311
-- perfusion: 0.05066952818109448
-- left: 0.04979714944129764
-- five: 0.04439209929547872
-- asymmetric: 0.043250826352650325
-- smaller: 0.043153016557339496
-- ectopic: 0.04267728700699378
-- spontaneous: 0.041533382152752055
-- radiotracer: 0.041533382152752055
-- pole: 0.041450380385573124
-- appearing: 0.03956498528282889
-- uptake: 0.03536441067389804
-- its: 0.03358886920266293
-- kidney: 0.031358160990104265
-- week: 0.030229327274252375
-- a: 0.02891873554927301
-- superior: 0.02842441351098116
-- aspect: 0.02796137431753497
-- region: 0.025141679450409505
-- an: 0.02461801800593187
-- both: 0.02273124990298043
-- bilateral: 0.021602268013692125
-- but: 0.018984409385766017
-- findings: 0.01894621808114541
-- male: 0.016095891019661177
-- normal: 0.01395429640207397
-- not: 0.012862694497311826
-- history: 0.012293901434448785
-- at: 0.012060032841996176
-- old: 0.009113902050648486
-- with: 0.0073127610056181085
-- of: 0.004854325033249517
-- to: 0.00444862612961444
-- ,: 0.0028198965158050767
-- .: 0.002218721006084142
-- the: 0.0014400967156627687
+\-\ Texto\\:\\ \ \(0\)\
+\-\ prompt\\ perfusion\\ to\\ both\\ kidneys\\.\\ \\ symmetrical\\ uptake\\ bilaterally\\.\\ \\ a\\ smaller\\ appearing\\ left\\ kidney\\,\\ with\\ the\\ suggestion\\ of\\ a\\ photopenic\\ region\\ at\\ its\\ superior\\ aspect\\.\\ \\ spontaneous\\ exretion\\ of\\ radiotracer\\ bilaterally\\.\\ \\ findings\\ not\\ inconsistent\\ with\\ a\\ functionally\\ anephric\\ upper\\ moeity\\ of\\ a\\ duplicated\\ left\\ kidney\\/collecting\\ system\\.\ \(0\)\
+\-\ duplicated\\ renal\\ collecting\\ system\ \(1\)\
+\-\ normal\\ but\\ asymmetric\\ bilateral\\ kidneys\ \(0\)\
+\-\ duplicated\\ left\\ kidney\\/renal\\ collecting\\ system\\ with\\ a\\ functionally\\ anephric\\ upper\\ moeity\ \(0\)\
+\-\ five\\ week\\ old\\ male\\ with\\ a\\ history\\ of\\ a\\ duplicated\\ left\\ renal\\ collecting\\ system\\ with\\ an\\ obstructed\\ left\\ upper\\ pole\\ moiety\\ with\\ an\\ ectopic\\ uretrocele\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ duplicated\\:\\ 0\\.23666767533488953\ \(0\)\
+\-\ anephric\\:\\ 0\\.18365663383263536\ \(0\)\
+\-\ moeity\\:\\ 0\\.18365663383263536\ \(0\)\
+\-\ functionally\\:\\ 0\\.14033493504763878\ \(0\)\
+\-\ system\\:\\ 0\\.14018666543336655\ \(0\)\
+\-\ collecting\\:\\ 0\\.13628659774103094\ \(0\)\
+\-\ exretion\\:\\ 0\\.09182831691631768\ \(0\)\
+\-\ kidney\\/collecting\\:\\ 0\\.09182831691631768\ \(0\)\
+\-\ kidney\\/renal\\:\\ 0\\.09182831691631768\ \(0\)\
+\-\ uretrocele\\:\\ 0\\.09182831691631768\ \(0\)\
+\-\ kidneys\\:\\ 0\\.08193159377875264\ \(0\)\
+\-\ inconsistent\\:\\ 0\\.0750633386617958\ \(0\)\
+\-\ moiety\\:\\ 0\\.07155841953032484\ \(0\)\
+\-\ upper\\:\\ 0\\.06444001579277245\ \(0\)\
+\-\ photopenic\\:\\ 0\\.06294718439298663\ \(0\)\
+\-\ bilaterally\\:\\ 0\\.05847302580258132\ \(0\)\
+\-\ obstructed\\:\\ 0\\.05788981131192725\ \(0\)\
+\-\ symmetrical\\:\\ 0\\.05749668289543926\ \(0\)\
+\-\ prompt\\:\\ 0\\.05479344127580296\ \(0\)\
+\-\ suggestion\\:\\ 0\\.053936794419167836\ \(0\)\
+\-\ renal\\:\\ 0\\.05348907394704311\ \(0\)\
+\-\ perfusion\\:\\ 0\\.05066952818109448\ \(0\)\
+\-\ left\\:\\ 0\\.04979714944129764\ \(0\)\
+\-\ five\\:\\ 0\\.04439209929547872\ \(0\)\
+\-\ asymmetric\\:\\ 0\\.043250826352650325\ \(0\)\
+\-\ smaller\\:\\ 0\\.043153016557339496\ \(0\)\
+\-\ ectopic\\:\\ 0\\.04267728700699378\ \(0\)\
+\-\ spontaneous\\:\\ 0\\.041533382152752055\ \(0\)\
+\-\ radiotracer\\:\\ 0\\.041533382152752055\ \(0\)\
+\-\ pole\\:\\ 0\\.041450380385573124\ \(0\)\
+\-\ appearing\\:\\ 0\\.03956498528282889\ \(0\)\
+\-\ uptake\\:\\ 0\\.03536441067389804\ \(0\)\
+\-\ its\\:\\ 0\\.03358886920266293\ \(0\)\
+\-\ kidney\\:\\ 0\\.031358160990104265\ \(0\)\
+\-\ week\\:\\ 0\\.030229327274252375\ \(0\)\
+\-\ a\\:\\ 0\\.02891873554927301\ \(0\)\
+\-\ superior\\:\\ 0\\.02842441351098116\ \(0\)\
+\-\ aspect\\:\\ 0\\.02796137431753497\ \(0\)\
+\-\ region\\:\\ 0\\.025141679450409505\ \(0\)\
+\-\ an\\:\\ 0\\.02461801800593187\ \(0\)\
+\-\ both\\:\\ 0\\.02273124990298043\ \(0\)\
+\-\ bilateral\\:\\ 0\\.021602268013692125\ \(0\)\
+\-\ but\\:\\ 0\\.018984409385766017\ \(0\)\
+\-\ findings\\:\\ 0\\.01894621808114541\ \(0\)\
+\-\ male\\:\\ 0\\.016095891019661177\ \(0\)\
+\-\ normal\\:\\ 0\\.01395429640207397\ \(0\)\
+\-\ not\\:\\ 0\\.012862694497311826\ \(0\)\
+\-\ history\\:\\ 0\\.012293901434448785\ \(0\)\
+\-\ at\\:\\ 0\\.012060032841996176\ \(0\)\
+\-\ old\\:\\ 0\\.009113902050648486\ \(0\)\
+\-\ with\\:\\ 0\\.0073127610056181085\ \(0\)\
+\-\ of\\:\\ 0\\.004854325033249517\ \(0\)\
+\-\ to\\:\\ 0\\.00444862612961444\ \(0\)\
+\-\ \\,\\:\\ 0\\.0028198965158050767\ \(0\)\
+\-\ \\.\\:\\ 0\\.002218721006084142\ \(0\)\
+\-\ the\\:\\ 0\\.0014400967156627687\ \(0\)\

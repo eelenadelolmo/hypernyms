@@ -1,58 +1,56 @@
-Texto: 
-- chest radiograph: interstitial pattern noted predominantly in the bases with more confluent opacity in left retrocardiac region.  no obvious esophageal dilatation.
-- hrct: bilateral basal interstitial thickening causing traction bronchiectasis and fibrosis.
-progressive systemic sclerosis
-- fibrosing aveolitis (idiopathic pulmonary fibrosis)
-- rheumatoid lung
-66 year-old female with progessive dyspnea.
-
-
-Keywords by value: 
-- aveolitis: 0.14941556650790674
-- interstitial: 0.14172167578769027
-- progessive: 0.13766730921028056
-- fibrosis: 0.12897908914814382
-- -: 0.12418498025141447
-- hrct: 0.11038870052495682
-- fibrosing: 0.11038870052495682
-- retrocardiac: 0.1004262146791582
-- confluent: 0.09555024734946699
-- traction: 0.08647366707224051
-- bronchiectasis: 0.08452333944876955
-- bases: 0.08277445408885037
-- 66: 0.07789848675915917
-- obvious: 0.07314760599383446
-- systemic: 0.06929034924159588
-- dyspnea: 0.06855650507628532
-- rheumatoid: 0.06841347340432151
-- predominantly: 0.06785311980667932
-- opacity: 0.067715878955279
-- esophageal: 0.06640133261043367
-- basal: 0.0660260592904809
-- idiopathic: 0.0660260592904809
-- causing: 0.06256871939937693
-- dilatation: 0.06207164117743592
-- progressive: 0.05724473076344581
-- pattern: 0.055363429475784376
-- year-old: 0.05319940036776638
-- sclerosis: 0.05202229209197195
-- thickening: 0.049095331689717824
-- radiograph: 0.04613472294781971
-- pulmonary: 0.042314412037628195
-- lung: 0.04195184949557197
-- region: 0.0409084953769375
-- :: 0.03831440054205644
-- more: 0.036223327276477396
-- bilateral: 0.03514945303922786
-- chest: 0.03465642372978845
-- noted: 0.034329172685637184
-- female: 0.029775597821149722
-- left: 0.016205174055473132
-- no: 0.01458379916447122
-- in: 0.014284651869161185
-- (: 0.012243419088878991
-- ): 0.012093859188361103
-- with: 0.003966243257284398
-- and: 0.0030510000971562447
-- .: 0.002406748209989578
-- the: 0.0023432082153156913
+\-\ Texto\\:\\ \ \(0\)\
+\-\ chest\\ radiograph\\:\\ interstitial\\ pattern\\ noted\\ predominantly\\ in\\ the\\ bases\\ with\\ more\\ confluent\\ opacity\\ in\\ left\\ retrocardiac\\ region\\.\\ \\ no\\ obvious\\ esophageal\\ dilatation\\.\ \(0\)\
+\-\ hrct\\:\\ bilateral\\ basal\\ interstitial\\ thickening\\ causing\\ traction\\ bronchiectasis\\ and\\ fibrosis\\.\ \(0\)\
+\-\ progressive\\ systemic\\ sclerosis\ \(1\)\
+\-\ fibrosing\\ aveolitis\\ \\(idiopathic\\ pulmonary\\ fibrosis\\)\ \(1\)\
+\-\ rheumatoid\\ lung\ \(3\)\
+\-\ 66\\ year\\-old\\ female\\ with\\ progessive\\ dyspnea\\.\ \(1\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ aveolitis\\:\\ 0\\.14941556650790674\ \(0\)\
+\-\ interstitial\\:\\ 0\\.14172167578769027\ \(0\)\
+\-\ progessive\\:\\ 0\\.13766730921028056\ \(0\)\
+\-\ fibrosis\\:\\ 0\\.12897908914814382\ \(0\)\
+\-\ \\-\\:\\ 0\\.12418498025141447\ \(0\)\
+\-\ hrct\\:\\ 0\\.11038870052495682\ \(0\)\
+\-\ fibrosing\\:\\ 0\\.11038870052495682\ \(0\)\
+\-\ retrocardiac\\:\\ 0\\.1004262146791582\ \(0\)\
+\-\ confluent\\:\\ 0\\.09555024734946699\ \(0\)\
+\-\ traction\\:\\ 0\\.08647366707224051\ \(0\)\
+\-\ bronchiectasis\\:\\ 0\\.08452333944876955\ \(0\)\
+\-\ bases\\:\\ 0\\.08277445408885037\ \(0\)\
+\-\ 66\\:\\ 0\\.07789848675915917\ \(0\)\
+\-\ obvious\\:\\ 0\\.07314760599383446\ \(0\)\
+\-\ systemic\\:\\ 0\\.06929034924159588\ \(0\)\
+\-\ dyspnea\\:\\ 0\\.06855650507628532\ \(0\)\
+\-\ rheumatoid\\:\\ 0\\.06841347340432151\ \(0\)\
+\-\ predominantly\\:\\ 0\\.06785311980667932\ \(0\)\
+\-\ opacity\\:\\ 0\\.067715878955279\ \(0\)\
+\-\ esophageal\\:\\ 0\\.06640133261043367\ \(0\)\
+\-\ basal\\:\\ 0\\.0660260592904809\ \(0\)\
+\-\ idiopathic\\:\\ 0\\.0660260592904809\ \(0\)\
+\-\ causing\\:\\ 0\\.06256871939937693\ \(0\)\
+\-\ dilatation\\:\\ 0\\.06207164117743592\ \(0\)\
+\-\ progressive\\:\\ 0\\.05724473076344581\ \(0\)\
+\-\ pattern\\:\\ 0\\.055363429475784376\ \(0\)\
+\-\ year\\-old\\:\\ 0\\.05319940036776638\ \(0\)\
+\-\ sclerosis\\:\\ 0\\.05202229209197195\ \(0\)\
+\-\ thickening\\:\\ 0\\.049095331689717824\ \(0\)\
+\-\ radiograph\\:\\ 0\\.04613472294781971\ \(0\)\
+\-\ pulmonary\\:\\ 0\\.042314412037628195\ \(0\)\
+\-\ lung\\:\\ 0\\.04195184949557197\ \(0\)\
+\-\ region\\:\\ 0\\.0409084953769375\ \(0\)\
+\-\ \\:\\:\\ 0\\.03831440054205644\ \(0\)\
+\-\ more\\:\\ 0\\.036223327276477396\ \(0\)\
+\-\ bilateral\\:\\ 0\\.03514945303922786\ \(0\)\
+\-\ chest\\:\\ 0\\.03465642372978845\ \(0\)\
+\-\ noted\\:\\ 0\\.034329172685637184\ \(0\)\
+\-\ female\\:\\ 0\\.029775597821149722\ \(0\)\
+\-\ left\\:\\ 0\\.016205174055473132\ \(0\)\
+\-\ no\\:\\ 0\\.01458379916447122\ \(0\)\
+\-\ in\\:\\ 0\\.014284651869161185\ \(0\)\
+\-\ \\(\\:\\ 0\\.012243419088878991\ \(0\)\
+\-\ \\)\\:\\ 0\\.012093859188361103\ \(0\)\
+\-\ with\\:\\ 0\\.003966243257284398\ \(0\)\
+\-\ and\\:\\ 0\\.0030510000971562447\ \(0\)\
+\-\ \\.\\:\\ 0\\.002406748209989578\ \(0\)\
+\-\ the\\:\\ 0\\.0023432082153156913\ \(0\)\

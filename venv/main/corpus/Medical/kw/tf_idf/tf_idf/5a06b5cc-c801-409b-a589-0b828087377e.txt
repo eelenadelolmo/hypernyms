@@ -1,280 +1,269 @@
-Texto: 
-gcs < 7, posturing, subsequent code, intubated
-the patient had a hunt and hess scale of 5, world federation of neurosurgeons class of 5, and fisher grade of 4. she subsequently expired.
-in a patient with a more favorable clinical status in a nontraumatic sah a ruptured aneurysm should top the list of primary cause and angiography considered.
-hyperdense material in the ambient, crural, interpenduncular, suprasellar, quadrigeminal, sylvian, superior vermian, and cerebello-pontine angle cisterns. 
-hyperdense material in the interhemispheric fissures, 4th ventricle, third ventricle, and layering in dependant portion of ant horns of lateral ventricles.
-nontraumatic subarachnoid hemorrhage
-subarachnoid hemorrhage (sah)
- - trauma
- - aneurysm
- - coagulopathy
- - idiopathic
- - extension of intraparenchymal hemorrhage
- - avm
-unknown age female found down at restaurant
-occasionally only subtle effacement of sulci is seen when sulci are filled with small amount of blood.  
-
-several evaluation scores exist for sah
-
-hunt and hess scale
-grade 1: asymptomatic; or minimal ha + slight nuchal rigidity. ~ survival 70%.
-grade 2: mod - severe ha; nuchal rigidity; no neurologic deficit except cranial nerve palsy. ~ survival 60%. 
-grade 3: drowsy; minimal neurologic deficit. ~ survival 50%. 
-grade 4: stupor; mod - severe hemiparesis; +/- early decerebrate rigidity & vegetative disturbances. ~ survival 20%. 
-grade 5: deep coma; decerebrate rigidity; moribund. ~ survival 10%. 
-
-world federation of neurosurgeons 
-class 1 - gcs (glasgow coma scale) 15 
-class 2 - gcs 13-14 without focal neurological deficit 
-class 3 - gcs 13-14 with focal neurological deficit 
-class 4 - gcs 7-12 with/without focal neurological deficit 
-class 5 - gcs <7 with/without focal neurological deficit
-
-fisher grade
-grade 1= no hemorrhage evident 
-grade 2= subarachnoid hemorrhage < 1 mm thick 
-grade 3= subarachnoid hemorrhage > 1 mm thick 
-grade 4= subarachnoid hemorrhage of any thickness with intra-ventricular hemorrhage (ivh) or parenchymal extension
-
-complications of sah: 
-
-most important vasospasm induced ischemia.
-
-if proteinaceous breakdown products and rbc's reflux into ventricular system this may result in noncommunicating hydrocephalus, if they obstruct the pacchionian granulations a resulting communicating hydrocephalus can develop.
-
-communicating: free flow between ventricular system and subarachnoid space â€“ with obstruction of flow from basilar cisterns to arachnoid villi or direct impairment with arachnoid villi themselves. third ventricle and associated interstitial edema may be less.
-
-noncommunicating: downstream or distal to obstruction may be normal â€“ as distends ependyma threshold to contain exceeded â€“ periventricular interstitial edema.
-
-
-Keywords by value: 
-- ~: 0.07832696208187388
-- grade: 0.07783305374447973
-- gcs: 0.07466707787749803
-- class: 0.07408727227874802
-- deficit: 0.05750607621785537
-- subarachnoid: 0.05415755647636215
-- sah: 0.053108419329254676
-- rigidity: 0.05254721479762362
-- -: 0.05176623905045375
-- survival: 0.04979795564531781
-- hemorrhage: 0.04946533189871367
-- hess: 0.03832834097376738
-- decerebrate: 0.03832834097376738
-- federation: 0.03531465758002849
-- mod: 0.03531465758002849
-- 13-14: 0.03531465758002849
-- noncommunicating: 0.03531465758002849
-- ;: 0.03522471632091467
-- fisher: 0.033551765805645166
-- with/without: 0.033551765805645166
-- neurosurgeons: 0.0323009741862896
-- neurological: 0.032152387926519505
-- scale: 0.03185017037766634
-- villi: 0.03133078483274956
-- hunt: 0.030538082411906274
-- nontraumatic: 0.030538082411906274
-- nuchal: 0.02877519063752295
-- world: 0.028317101439010662
-- â€“: 0.02508068559385107
-- ha: 0.024695757426249344
-- coma: 0.023397961823831966
-- cisterns: 0.02287030592381341
-- communicating: 0.022628697875314234
-- 5: 0.021740525412557943
-- %: 0.021666532971152255
-- <: 0.021509123005446457
-- sulci: 0.021233446918444226
-- focal: 0.021221683514246973
-- ventricle: 0.0208851542450767
-- :: 0.019656953321576784
-- thick: 0.019499065581218118
-- moribund: 0.01916417048688369
-- 7-12: 0.01916417048688369
-- 3=: 0.01916417048688369
-- 4=: 0.01916417048688369
-- pacchionian: 0.01916417048688369
-- arachnoid: 0.018668390638771556
-- hyperdense: 0.01857488539868041
-- interstitial: 0.018177345372768966
-- 1: 0.017681098851823538
-- crural: 0.017657328790014245
-- interpenduncular: 0.017657328790014245
-- restaurant: 0.017657328790014245
-- vegetative: 0.017657328790014245
-- 1=: 0.017657328790014245
-- 2=: 0.017657328790014245
-- granulations: 0.017657328790014245
-- dependant: 0.016775882902822583
-- ant: 0.016775882902822583
-- drowsy: 0.016775882902822583
-- stupor: 0.016775882902822583
-- intra-ventricular: 0.016775882902822583
-- ivh: 0.016775882902822583
-- downstream: 0.016775882902822583
-- material: 0.01660133108783645
-- ventricular: 0.01660133108783645
-- posturing: 0.0161504870931448
-- cerebello-pontine: 0.0161504870931448
-- exceeded: 0.0161504870931448
-- hydrocephalus: 0.01597328203245147
-- code: 0.01566539241637478
-- distends: 0.01566539241637478
-- ependyma: 0.01566539241637478
-- neurologic: 0.015515192833939184
-- ambient: 0.01493393103241562
-- obstruct: 0.01493393103241562
-- third: 0.014897594322391293
-- aneurysm: 0.01468451789149262
-- minimal: 0.014628173784351295
-- system: 0.014628173784351295
-- threshold: 0.014387595318761475
-- 7: 0.0142358907774264
-- vermian: 0.014158550719505331
-- glasgow: 0.014158550719505331
-- themselves: 0.013951354676452452
-- mm: 0.013661718073021764
-- quadrigeminal: 0.013588193622836873
-- coagulopathy: 0.013588193622836873
-- vasospasm: 0.013588193622836873
-- scores: 0.013427089335546172
-- breakdown: 0.013427089335546172
-- proteinaceous: 0.013277104832313669
-- extension: 0.013262292700789798
-- obstruction: 0.013101739341693197
-- interhemispheric: 0.012763216184347953
-- exist: 0.012763216184347953
-- +/-: 0.012651709022635885
-- fissures: 0.01254564344835451
-- expired: 0.012444512979583005
-- sylvian: 0.012347878713124672
-- intraparenchymal: 0.012347878713124672
-- flow: 0.012278495116776157
-- may: 0.012223880666726894
-- disturbances: 0.012166614345865865
-- favorable: 0.012081351925967425
-- layering: 0.011770263135444223
-- horns: 0.011698980911915983
-- list: 0.01162996200253646
-- hemiparesis: 0.011563067092391343
-- severe: 0.01143178173941741
-- induced: 0.01114486732576644
-- impairment: 0.011091187733178675
-- intubated: 0.011038801751485064
-- products: 0.011038801751485064
-- rbc: 0.010703691577947547
-- periventricular: 0.010703691577947547
-- edema: 0.010508362997527351
-- 4: 0.010352051761648023
-- palsy: 0.01029995865230604
-- contain: 0.010263421438574779
-- effacement: 0.010192139215046535
-- suprasellar: 0.010123120305667014
-- if: 0.010081493190350588
-- top: 0.009959591129063562
-- occasionally: 0.009778326761804757
-- basilar: 0.009749532790609059
-- ruptured: 0.009665370807607558
-- +: 0.009584346036309229
-- thickness: 0.009584346036309229
-- ,: 0.00941600227886217
-- except: 0.009406265335292084
-- 4th: 0.009357954168368801
-- angiography: 0.009334195319385778
-- develop: 0.009264438113839039
-- parenchymal: 0.009131299798098345
-- 70: 0.00892606135359601
-- avm: 0.008849100642615756
-- direct: 0.00877477158881515
-- ventricles: 0.00873853886602121
-- slight: 0.00873853886602121
-- angle: 0.008720646476594004
-- or: 0.008708893469249631
-- 3: 0.00869989359437626
-- filled: 0.008633328994582407
-- ischemia: 0.008633328994582407
-- reflux: 0.008582573855458513
-- subtle: 0.00853297672987988
-- evident: 0.008500529664191453
-- idiopathic: 0.008468559778561681
-- subsequently: 0.008421469568167814
-- important: 0.008345184090317226
-- resulting: 0.008158529110738113
-- 60: 0.008104178453769813
-- cranial: 0.008077504339439781
-- 2: 0.008000454332654549
-- down: 0.00797396510250662
-- amount: 0.007757596416969592
-- free: 0.007646089255257525
-- deep: 0.007519417715857578
-- considered: 0.007499005236836188
-- 15: 0.0074094492445790855
-- complications: 0.00736124520654795
-- 4.: 0.007314086892175648
-- unknown: 0.0072497380448358845
-- subsequent: 0.007231697169151764
-- result: 0.00712648729771296
-- 50: 0.0070673869927039236
-- early: 0.0067938238470487775
-- portion: 0.006728710102954536
-- nerve: 0.006693361144537622
-- they: 0.006693361144537622
-- 20: 0.006679380948167426
-- status: 0.006631146350394899
-- &: 0.006524756287263982
-- less: 0.006291173922440614
-- cause: 0.006285353535982535
-- asymptomatic: 0.006279548691295842
-- 10: 0.0062622265833628486
-- >: 0.0061721032927577486
-- space: 0.006144689145818771
-- several: 0.005971940947222582
-- superior: 0.005932051515335199
-- should: 0.005922192482366957
-- between: 0.00588803377440053
-- found: 0.005854403509678505
-- any: 0.005849641376244117
-- be: 0.005729377058017083
-- clinical: 0.005715890869708705
-- age: 0.005654152881618057
-- only: 0.005585677518445512
-- primary: 0.0055030092671645575
-- in: 0.005496485610525064
-- evaluation: 0.005396171295275669
-- when: 0.00532028529916523
-- she: 0.0052147524814221136
-- a: 0.005173040893286103
-- trauma: 0.0050804538733868025
-- blood: 0.0050704588532810855
-- distal: 0.005050605628143537
-- (: 0.0047110547363730035
-- ): 0.004653506687695467
-- more: 0.0046460354550264486
-- into: 0.0044202747129558845
-- associated: 0.004383614265016743
-- without: 0.004373941665996001
-- most: 0.004288772047234948
-- small: 0.00427951148778504
-- can: 0.00421352685319363
-- 's: 0.004095753518189228
-- lateral: 0.004014495751357718
-- had: 0.0040083691722624095
-- female: 0.0038190440683648556
-- no: 0.003741061524799139
-- patient: 0.0037243127431147304
-- seen: 0.00367092959797324
-- of: 0.003545767850373561
-- and: 0.0035219153295434047
-- normal: 0.0029122009882589154
-- as: 0.002809951099769843
-- to: 0.0027852267941933886
-- from: 0.0027531211155526355
-- are: 0.002532334505499134
-- at: 0.002516876419199202
-- this: 0.0020894287245959414
-- for: 0.001585017714440685
-- .: 0.0015434580911889684
-- with: 0.0015261414272594313
-- the: 0.0015027096163437587
-- is: 0.0012223712573580991
+\-\ Texto\\:\\ \ \(0\)\
+\-\ gcs\\ \\<\\ 7\\,\\ posturing\\,\\ subsequent\\ code\\,\\ intubated\ \(0\)\
+\-\ the\\ patient\\ had\\ a\\ hunt\\ and\\ hess\\ scale\\ of\\ 5\\,\\ world\\ federation\\ of\\ neurosurgeons\\ class\\ of\\ 5\\,\\ and\\ fisher\\ grade\\ of\\ 4\\.\\ she\\ subsequently\\ expired\\.\ \(0\)\
+\-\ in\\ a\\ patient\\ with\\ a\\ more\\ favorable\\ clinical\\ status\\ in\\ a\\ nontraumatic\\ sah\\ a\\ ruptured\\ aneurysm\\ should\\ top\\ the\\ list\\ of\\ primary\\ cause\\ and\\ angiography\\ considered\\.\ \(0\)\
+\-\ hyperdense\\ material\\ in\\ the\\ ambient\\,\\ crural\\,\\ interpenduncular\\,\\ suprasellar\\,\\ quadrigeminal\\,\\ sylvian\\,\\ superior\\ vermian\\,\\ and\\ cerebello\\-pontine\\ angle\\ cisterns\\.\\ \ \(0\)\
+\-\ hyperdense\\ material\\ in\\ the\\ interhemispheric\\ fissures\\,\\ 4th\\ ventricle\\,\\ third\\ ventricle\\,\\ and\\ layering\\ in\\ dependant\\ portion\\ of\\ ant\\ horns\\ of\\ lateral\\ ventricles\\.\ \(0\)\
+\-\ nontraumatic\\ subarachnoid\\ hemorrhage\ \(0\)\
+\-\ subarachnoid\\ hemorrhage\\ \\(sah\\)\ \(0\)\
+\-\ \\ \\-\\ trauma\ \(1\)\
+\-\ \\ \\-\\ aneurysm\ \(2\)\
+\-\ \\ \\-\\ coagulopathy\ \(0\)\
+\-\ \\ \\-\\ idiopathic\ \(2\)\
+\-\ \\ \\-\\ extension\\ of\\ intraparenchymal\\ hemorrhage\ \(0\)\
+\-\ \\ \\-\\ avm\ \(0\)\
+\-\ unknown\\ age\\ female\\ found\\ down\\ at\\ restaurant\ \(0\)\
+\-\ occasionally\\ only\\ subtle\\ effacement\\ of\\ sulci\\ is\\ seen\\ when\\ sulci\\ are\\ filled\\ with\\ small\\ amount\\ of\\ blood\\.\\ \\ \ \(0\)\
+\-\ several\\ evaluation\\ scores\\ exist\\ for\\ sah\ \(0\)\
+\-\ hunt\\ and\\ hess\\ scale\ \(0\)\
+\-\ grade\\ 1\\:\\ asymptomatic\\;\\ or\\ minimal\\ ha\\ \\+\\ slight\\ nuchal\\ rigidity\\.\\ \\~\\ survival\\ 70\\%\\.\ \(0\)\
+\-\ grade\\ 2\\:\\ mod\\ \\-\\ severe\\ ha\\;\\ nuchal\\ rigidity\\;\\ no\\ neurologic\\ deficit\\ except\\ cranial\\ nerve\\ palsy\\.\\ \\~\\ survival\\ 60\\%\\.\\ \ \(0\)\
+\-\ grade\\ 3\\:\\ drowsy\\;\\ minimal\\ neurologic\\ deficit\\.\\ \\~\\ survival\\ 50\\%\\.\\ \ \(0\)\
+\-\ grade\\ 4\\:\\ stupor\\;\\ mod\\ \\-\\ severe\\ hemiparesis\\;\\ \\+\\/\\-\\ early\\ decerebrate\\ rigidity\\ \\&\\ vegetative\\ disturbances\\.\\ \\~\\ survival\\ 20\\%\\.\\ \ \(0\)\
+\-\ grade\\ 5\\:\\ deep\\ coma\\;\\ decerebrate\\ rigidity\\;\\ moribund\\.\\ \\~\\ survival\\ 10\\%\\.\\ \ \(0\)\
+\-\ world\\ federation\\ of\\ neurosurgeons\\ \ \(0\)\
+\-\ class\\ 1\\ \\-\\ gcs\\ \\(glasgow\\ coma\\ scale\\)\\ 15\\ \ \(0\)\
+\-\ class\\ 2\\ \\-\\ gcs\\ 13\\-14\\ without\\ focal\\ neurological\\ deficit\\ \ \(0\)\
+\-\ class\\ 3\\ \\-\\ gcs\\ 13\\-14\\ with\\ focal\\ neurological\\ deficit\\ \ \(0\)\
+\-\ class\\ 4\\ \\-\\ gcs\\ 7\\-12\\ with\\/without\\ focal\\ neurological\\ deficit\\ \ \(0\)\
+\-\ class\\ 5\\ \\-\\ gcs\\ \\<7\\ with\\/without\\ focal\\ neurological\\ deficit\ \(0\)\
+\-\ fisher\\ grade\ \(0\)\
+\-\ grade\\ 1\\=\\ no\\ hemorrhage\\ evident\\ \ \(0\)\
+\-\ grade\\ 2\\=\\ subarachnoid\\ hemorrhage\\ \\<\\ 1\\ mm\\ thick\\ \ \(0\)\
+\-\ grade\\ 3\\=\\ subarachnoid\\ hemorrhage\\ \\>\\ 1\\ mm\\ thick\\ \ \(0\)\
+\-\ grade\\ 4\\=\\ subarachnoid\\ hemorrhage\\ of\\ any\\ thickness\\ with\\ intra\\-ventricular\\ hemorrhage\\ \\(ivh\\)\\ or\\ parenchymal\\ extension\ \(0\)\
+\-\ complications\\ of\\ sah\\:\\ \ \(0\)\
+\-\ most\\ important\\ vasospasm\\ induced\\ ischemia\\.\ \(0\)\
+\-\ if\\ proteinaceous\\ breakdown\\ products\\ and\\ rbc\\'s\\ reflux\\ into\\ ventricular\\ system\\ this\\ may\\ result\\ in\\ noncommunicating\\ hydrocephalus\\,\\ if\\ they\\ obstruct\\ the\\ pacchionian\\ granulations\\ a\\ resulting\\ communicating\\ hydrocephalus\\ can\\ develop\\.\ \(0\)\
+\-\ communicating\\:\\ free\\ flow\\ between\\ ventricular\\ system\\ and\\ subarachnoid\\ space\\ \\â\\€\\“\\ with\\ obstruction\\ of\\ flow\\ from\\ basilar\\ cisterns\\ to\\ arachnoid\\ villi\\ or\\ direct\\ impairment\\ with\\ arachnoid\\ villi\\ themselves\\.\\ third\\ ventricle\\ and\\ associated\\ interstitial\\ edema\\ may\\ be\\ less\\.\ \(0\)\
+\-\ noncommunicating\\:\\ downstream\\ or\\ distal\\ to\\ obstruction\\ may\\ be\\ normal\\ \\â\\€\\“\\ as\\ distends\\ ependyma\\ threshold\\ to\\ contain\\ exceeded\\ \\â\\€\\“\\ periventricular\\ interstitial\\ edema\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ \\~\\:\\ 0\\.07832696208187388\ \(0\)\
+\-\ grade\\:\\ 0\\.07783305374447973\ \(0\)\
+\-\ gcs\\:\\ 0\\.07466707787749803\ \(0\)\
+\-\ class\\:\\ 0\\.07408727227874802\ \(0\)\
+\-\ deficit\\:\\ 0\\.05750607621785537\ \(0\)\
+\-\ subarachnoid\\:\\ 0\\.05415755647636215\ \(0\)\
+\-\ sah\\:\\ 0\\.053108419329254676\ \(0\)\
+\-\ rigidity\\:\\ 0\\.05254721479762362\ \(0\)\
+\-\ \\-\\:\\ 0\\.05176623905045375\ \(0\)\
+\-\ survival\\:\\ 0\\.04979795564531781\ \(0\)\
+\-\ hemorrhage\\:\\ 0\\.04946533189871367\ \(0\)\
+\-\ hess\\:\\ 0\\.03832834097376738\ \(0\)\
+\-\ decerebrate\\:\\ 0\\.03832834097376738\ \(0\)\
+\-\ federation\\:\\ 0\\.03531465758002849\ \(0\)\
+\-\ mod\\:\\ 0\\.03531465758002849\ \(0\)\
+\-\ 13\\-14\\:\\ 0\\.03531465758002849\ \(0\)\
+\-\ noncommunicating\\:\\ 0\\.03531465758002849\ \(0\)\
+\-\ \\;\\:\\ 0\\.03522471632091467\ \(0\)\
+\-\ fisher\\:\\ 0\\.033551765805645166\ \(0\)\
+\-\ with\\/without\\:\\ 0\\.033551765805645166\ \(0\)\
+\-\ neurosurgeons\\:\\ 0\\.0323009741862896\ \(0\)\
+\-\ neurological\\:\\ 0\\.032152387926519505\ \(0\)\
+\-\ scale\\:\\ 0\\.03185017037766634\ \(0\)\
+\-\ villi\\:\\ 0\\.03133078483274956\ \(0\)\
+\-\ hunt\\:\\ 0\\.030538082411906274\ \(0\)\
+\-\ nontraumatic\\:\\ 0\\.030538082411906274\ \(0\)\
+\-\ nuchal\\:\\ 0\\.02877519063752295\ \(0\)\
+\-\ world\\:\\ 0\\.028317101439010662\ \(0\)\
+\-\ \\â\\€\\“\\:\\ 0\\.02508068559385107\ \(0\)\
+\-\ ha\\:\\ 0\\.024695757426249344\ \(0\)\
+\-\ coma\\:\\ 0\\.023397961823831966\ \(0\)\
+\-\ cisterns\\:\\ 0\\.02287030592381341\ \(0\)\
+\-\ communicating\\:\\ 0\\.022628697875314234\ \(0\)\
+\-\ 5\\:\\ 0\\.021740525412557943\ \(0\)\
+\-\ \\%\\:\\ 0\\.021666532971152255\ \(0\)\
+\-\ \\<\\:\\ 0\\.021509123005446457\ \(0\)\
+\-\ sulci\\:\\ 0\\.021233446918444226\ \(0\)\
+\-\ focal\\:\\ 0\\.021221683514246973\ \(0\)\
+\-\ ventricle\\:\\ 0\\.0208851542450767\ \(0\)\
+\-\ \\:\\:\\ 0\\.019656953321576784\ \(0\)\
+\-\ thick\\:\\ 0\\.019499065581218118\ \(0\)\
+\-\ moribund\\:\\ 0\\.01916417048688369\ \(0\)\
+\-\ 7\\-12\\:\\ 0\\.01916417048688369\ \(0\)\
+\-\ 3\\=\\:\\ 0\\.01916417048688369\ \(0\)\
+\-\ 4\\=\\:\\ 0\\.01916417048688369\ \(0\)\
+\-\ pacchionian\\:\\ 0\\.01916417048688369\ \(0\)\
+\-\ arachnoid\\:\\ 0\\.018668390638771556\ \(0\)\
+\-\ hyperdense\\:\\ 0\\.01857488539868041\ \(0\)\
+\-\ interstitial\\:\\ 0\\.018177345372768966\ \(0\)\
+\-\ 1\\:\\ 0\\.017681098851823538\ \(0\)\
+\-\ crural\\:\\ 0\\.017657328790014245\ \(0\)\
+\-\ interpenduncular\\:\\ 0\\.017657328790014245\ \(0\)\
+\-\ restaurant\\:\\ 0\\.017657328790014245\ \(0\)\
+\-\ vegetative\\:\\ 0\\.017657328790014245\ \(0\)\
+\-\ 1\\=\\:\\ 0\\.017657328790014245\ \(0\)\
+\-\ 2\\=\\:\\ 0\\.017657328790014245\ \(0\)\
+\-\ granulations\\:\\ 0\\.017657328790014245\ \(0\)\
+\-\ dependant\\:\\ 0\\.016775882902822583\ \(0\)\
+\-\ ant\\:\\ 0\\.016775882902822583\ \(0\)\
+\-\ drowsy\\:\\ 0\\.016775882902822583\ \(0\)\
+\-\ stupor\\:\\ 0\\.016775882902822583\ \(0\)\
+\-\ intra\\-ventricular\\:\\ 0\\.016775882902822583\ \(0\)\
+\-\ ivh\\:\\ 0\\.016775882902822583\ \(0\)\
+\-\ downstream\\:\\ 0\\.016775882902822583\ \(0\)\
+\-\ material\\:\\ 0\\.01660133108783645\ \(0\)\
+\-\ ventricular\\:\\ 0\\.01660133108783645\ \(0\)\
+\-\ posturing\\:\\ 0\\.0161504870931448\ \(0\)\
+\-\ cerebello\\-pontine\\:\\ 0\\.0161504870931448\ \(0\)\
+\-\ exceeded\\:\\ 0\\.0161504870931448\ \(0\)\
+\-\ hydrocephalus\\:\\ 0\\.01597328203245147\ \(0\)\
+\-\ code\\:\\ 0\\.01566539241637478\ \(0\)\
+\-\ distends\\:\\ 0\\.01566539241637478\ \(0\)\
+\-\ ependyma\\:\\ 0\\.01566539241637478\ \(0\)\
+\-\ neurologic\\:\\ 0\\.015515192833939184\ \(0\)\
+\-\ ambient\\:\\ 0\\.01493393103241562\ \(0\)\
+\-\ obstruct\\:\\ 0\\.01493393103241562\ \(0\)\
+\-\ third\\:\\ 0\\.014897594322391293\ \(0\)\
+\-\ aneurysm\\:\\ 0\\.01468451789149262\ \(0\)\
+\-\ minimal\\:\\ 0\\.014628173784351295\ \(0\)\
+\-\ system\\:\\ 0\\.014628173784351295\ \(0\)\
+\-\ threshold\\:\\ 0\\.014387595318761475\ \(0\)\
+\-\ 7\\:\\ 0\\.0142358907774264\ \(0\)\
+\-\ vermian\\:\\ 0\\.014158550719505331\ \(0\)\
+\-\ glasgow\\:\\ 0\\.014158550719505331\ \(0\)\
+\-\ themselves\\:\\ 0\\.013951354676452452\ \(0\)\
+\-\ mm\\:\\ 0\\.013661718073021764\ \(0\)\
+\-\ quadrigeminal\\:\\ 0\\.013588193622836873\ \(0\)\
+\-\ coagulopathy\\:\\ 0\\.013588193622836873\ \(0\)\
+\-\ vasospasm\\:\\ 0\\.013588193622836873\ \(0\)\
+\-\ scores\\:\\ 0\\.013427089335546172\ \(0\)\
+\-\ breakdown\\:\\ 0\\.013427089335546172\ \(0\)\
+\-\ proteinaceous\\:\\ 0\\.013277104832313669\ \(0\)\
+\-\ extension\\:\\ 0\\.013262292700789798\ \(0\)\
+\-\ obstruction\\:\\ 0\\.013101739341693197\ \(0\)\
+\-\ interhemispheric\\:\\ 0\\.012763216184347953\ \(0\)\
+\-\ exist\\:\\ 0\\.012763216184347953\ \(0\)\
+\-\ \\+\\/\\-\\:\\ 0\\.012651709022635885\ \(0\)\
+\-\ fissures\\:\\ 0\\.01254564344835451\ \(0\)\
+\-\ expired\\:\\ 0\\.012444512979583005\ \(0\)\
+\-\ sylvian\\:\\ 0\\.012347878713124672\ \(0\)\
+\-\ intraparenchymal\\:\\ 0\\.012347878713124672\ \(0\)\
+\-\ flow\\:\\ 0\\.012278495116776157\ \(0\)\
+\-\ may\\:\\ 0\\.012223880666726894\ \(0\)\
+\-\ disturbances\\:\\ 0\\.012166614345865865\ \(0\)\
+\-\ favorable\\:\\ 0\\.012081351925967425\ \(0\)\
+\-\ layering\\:\\ 0\\.011770263135444223\ \(0\)\
+\-\ horns\\:\\ 0\\.011698980911915983\ \(0\)\
+\-\ list\\:\\ 0\\.01162996200253646\ \(0\)\
+\-\ hemiparesis\\:\\ 0\\.011563067092391343\ \(0\)\
+\-\ severe\\:\\ 0\\.01143178173941741\ \(0\)\
+\-\ induced\\:\\ 0\\.01114486732576644\ \(0\)\
+\-\ impairment\\:\\ 0\\.011091187733178675\ \(0\)\
+\-\ intubated\\:\\ 0\\.011038801751485064\ \(0\)\
+\-\ products\\:\\ 0\\.011038801751485064\ \(0\)\
+\-\ rbc\\:\\ 0\\.010703691577947547\ \(0\)\
+\-\ periventricular\\:\\ 0\\.010703691577947547\ \(0\)\
+\-\ edema\\:\\ 0\\.010508362997527351\ \(0\)\
+\-\ 4\\:\\ 0\\.010352051761648023\ \(0\)\
+\-\ palsy\\:\\ 0\\.01029995865230604\ \(0\)\
+\-\ contain\\:\\ 0\\.010263421438574779\ \(0\)\
+\-\ effacement\\:\\ 0\\.010192139215046535\ \(0\)\
+\-\ suprasellar\\:\\ 0\\.010123120305667014\ \(0\)\
+\-\ if\\:\\ 0\\.010081493190350588\ \(0\)\
+\-\ top\\:\\ 0\\.009959591129063562\ \(0\)\
+\-\ occasionally\\:\\ 0\\.009778326761804757\ \(0\)\
+\-\ basilar\\:\\ 0\\.009749532790609059\ \(0\)\
+\-\ ruptured\\:\\ 0\\.009665370807607558\ \(0\)\
+\-\ \\+\\:\\ 0\\.009584346036309229\ \(0\)\
+\-\ thickness\\:\\ 0\\.009584346036309229\ \(0\)\
+\-\ \\,\\:\\ 0\\.00941600227886217\ \(0\)\
+\-\ except\\:\\ 0\\.009406265335292084\ \(0\)\
+\-\ 4th\\:\\ 0\\.009357954168368801\ \(0\)\
+\-\ angiography\\:\\ 0\\.009334195319385778\ \(0\)\
+\-\ develop\\:\\ 0\\.009264438113839039\ \(0\)\
+\-\ parenchymal\\:\\ 0\\.009131299798098345\ \(0\)\
+\-\ 70\\:\\ 0\\.00892606135359601\ \(0\)\
+\-\ avm\\:\\ 0\\.008849100642615756\ \(0\)\
+\-\ direct\\:\\ 0\\.00877477158881515\ \(0\)\
+\-\ ventricles\\:\\ 0\\.00873853886602121\ \(0\)\
+\-\ slight\\:\\ 0\\.00873853886602121\ \(0\)\
+\-\ angle\\:\\ 0\\.008720646476594004\ \(0\)\
+\-\ or\\:\\ 0\\.008708893469249631\ \(0\)\
+\-\ 3\\:\\ 0\\.00869989359437626\ \(0\)\
+\-\ filled\\:\\ 0\\.008633328994582407\ \(0\)\
+\-\ ischemia\\:\\ 0\\.008633328994582407\ \(0\)\
+\-\ reflux\\:\\ 0\\.008582573855458513\ \(0\)\
+\-\ subtle\\:\\ 0\\.00853297672987988\ \(0\)\
+\-\ evident\\:\\ 0\\.008500529664191453\ \(0\)\
+\-\ idiopathic\\:\\ 0\\.008468559778561681\ \(0\)\
+\-\ subsequently\\:\\ 0\\.008421469568167814\ \(0\)\
+\-\ important\\:\\ 0\\.008345184090317226\ \(0\)\
+\-\ resulting\\:\\ 0\\.008158529110738113\ \(0\)\
+\-\ 60\\:\\ 0\\.008104178453769813\ \(0\)\
+\-\ cranial\\:\\ 0\\.008077504339439781\ \(0\)\
+\-\ 2\\:\\ 0\\.008000454332654549\ \(0\)\
+\-\ down\\:\\ 0\\.00797396510250662\ \(0\)\
+\-\ amount\\:\\ 0\\.007757596416969592\ \(0\)\
+\-\ free\\:\\ 0\\.007646089255257525\ \(0\)\
+\-\ deep\\:\\ 0\\.007519417715857578\ \(0\)\
+\-\ considered\\:\\ 0\\.007499005236836188\ \(0\)\
+\-\ 15\\:\\ 0\\.0074094492445790855\ \(0\)\
+\-\ complications\\:\\ 0\\.00736124520654795\ \(0\)\
+\-\ 4\\.\\:\\ 0\\.007314086892175648\ \(0\)\
+\-\ unknown\\:\\ 0\\.0072497380448358845\ \(0\)\
+\-\ subsequent\\:\\ 0\\.007231697169151764\ \(0\)\
+\-\ result\\:\\ 0\\.00712648729771296\ \(0\)\
+\-\ 50\\:\\ 0\\.0070673869927039236\ \(0\)\
+\-\ early\\:\\ 0\\.0067938238470487775\ \(0\)\
+\-\ portion\\:\\ 0\\.006728710102954536\ \(0\)\
+\-\ nerve\\:\\ 0\\.006693361144537622\ \(0\)\
+\-\ they\\:\\ 0\\.006693361144537622\ \(0\)\
+\-\ 20\\:\\ 0\\.006679380948167426\ \(0\)\
+\-\ status\\:\\ 0\\.006631146350394899\ \(0\)\
+\-\ \\&\\:\\ 0\\.006524756287263982\ \(0\)\
+\-\ less\\:\\ 0\\.006291173922440614\ \(0\)\
+\-\ cause\\:\\ 0\\.006285353535982535\ \(0\)\
+\-\ asymptomatic\\:\\ 0\\.006279548691295842\ \(0\)\
+\-\ 10\\:\\ 0\\.0062622265833628486\ \(0\)\
+\-\ \\>\\:\\ 0\\.0061721032927577486\ \(0\)\
+\-\ space\\:\\ 0\\.006144689145818771\ \(0\)\
+\-\ several\\:\\ 0\\.005971940947222582\ \(0\)\
+\-\ superior\\:\\ 0\\.005932051515335199\ \(0\)\
+\-\ should\\:\\ 0\\.005922192482366957\ \(0\)\
+\-\ between\\:\\ 0\\.00588803377440053\ \(0\)\
+\-\ found\\:\\ 0\\.005854403509678505\ \(0\)\
+\-\ any\\:\\ 0\\.005849641376244117\ \(0\)\
+\-\ be\\:\\ 0\\.005729377058017083\ \(0\)\
+\-\ clinical\\:\\ 0\\.005715890869708705\ \(0\)\
+\-\ age\\:\\ 0\\.005654152881618057\ \(0\)\
+\-\ only\\:\\ 0\\.005585677518445512\ \(0\)\
+\-\ primary\\:\\ 0\\.0055030092671645575\ \(0\)\
+\-\ in\\:\\ 0\\.005496485610525064\ \(0\)\
+\-\ evaluation\\:\\ 0\\.005396171295275669\ \(0\)\
+\-\ when\\:\\ 0\\.00532028529916523\ \(0\)\
+\-\ she\\:\\ 0\\.0052147524814221136\ \(0\)\
+\-\ a\\:\\ 0\\.005173040893286103\ \(0\)\
+\-\ trauma\\:\\ 0\\.0050804538733868025\ \(0\)\
+\-\ blood\\:\\ 0\\.0050704588532810855\ \(0\)\
+\-\ distal\\:\\ 0\\.005050605628143537\ \(0\)\
+\-\ \\(\\:\\ 0\\.0047110547363730035\ \(0\)\
+\-\ \\)\\:\\ 0\\.004653506687695467\ \(0\)\
+\-\ more\\:\\ 0\\.0046460354550264486\ \(0\)\
+\-\ into\\:\\ 0\\.0044202747129558845\ \(0\)\
+\-\ associated\\:\\ 0\\.004383614265016743\ \(0\)\
+\-\ without\\:\\ 0\\.004373941665996001\ \(0\)\
+\-\ most\\:\\ 0\\.004288772047234948\ \(0\)\
+\-\ small\\:\\ 0\\.00427951148778504\ \(0\)\
+\-\ can\\:\\ 0\\.00421352685319363\ \(0\)\
+\-\ \\'s\\:\\ 0\\.004095753518189228\ \(0\)\
+\-\ lateral\\:\\ 0\\.004014495751357718\ \(0\)\
+\-\ had\\:\\ 0\\.0040083691722624095\ \(0\)\
+\-\ female\\:\\ 0\\.0038190440683648556\ \(0\)\
+\-\ no\\:\\ 0\\.003741061524799139\ \(0\)\
+\-\ patient\\:\\ 0\\.0037243127431147304\ \(0\)\
+\-\ seen\\:\\ 0\\.00367092959797324\ \(0\)\
+\-\ of\\:\\ 0\\.003545767850373561\ \(0\)\
+\-\ and\\:\\ 0\\.0035219153295434047\ \(0\)\
+\-\ normal\\:\\ 0\\.0029122009882589154\ \(0\)\
+\-\ as\\:\\ 0\\.002809951099769843\ \(0\)\
+\-\ to\\:\\ 0\\.0027852267941933886\ \(0\)\
+\-\ from\\:\\ 0\\.0027531211155526355\ \(0\)\
+\-\ are\\:\\ 0\\.002532334505499134\ \(0\)\
+\-\ at\\:\\ 0\\.002516876419199202\ \(0\)\
+\-\ this\\:\\ 0\\.0020894287245959414\ \(0\)\
+\-\ for\\:\\ 0\\.001585017714440685\ \(0\)\
+\-\ \\.\\:\\ 0\\.0015434580911889684\ \(0\)\
+\-\ with\\:\\ 0\\.0015261414272594313\ \(0\)\
+\-\ the\\:\\ 0\\.0015027096163437587\ \(0\)\
+\-\ is\\:\\ 0\\.0012223712573580991\ \(0\)\

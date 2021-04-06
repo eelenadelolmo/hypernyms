@@ -1,68 +1,66 @@
-Texto: 
-questionable irregularity of uterus on bimanual exam.
-2 distinct endometrial stripes surrounded by myometrium.  single cervix.
-bicornuate uterus
-bicornuate uterus
-didelphys uterus
-septate uterus
-g2p2 female with recent history of menstrual pain and shortened menstrual cycle.
-this patient has not had an mr to fully define the anatomy because it is not indicated.  because the patient has had children and there is myometrium surrounding the endometrial cavities, the patient is much more likely to have a bicornuate uterus as opposed to a septate uterus.  the single cervix differentiates it from didelphys uterus.
-
-
-Keywords by value: 
-- uterus: 0.600095006684049
-- bicornuate: 0.3140414321749387
-- myometrium: 0.22843035722132707
-- didelphys: 0.22843035722132707
-- septate: 0.20764712451887585
-- cervix: 0.19902130359112022
-- menstrual: 0.1977973023468141
-- endometrial: 0.1747064800417291
-- stripes: 0.1367642067365847
-- single: 0.13151887027852846
-- g2p2: 0.13068550084923694
-- because: 0.11953731746398676
-- differentiates: 0.11421517861066353
-- bimanual: 0.1055893576829079
-- shortened: 0.1055893576829079
-- cavities: 0.1055893576829079
-- define: 0.09951065179556011
-- cycle: 0.09831065685482507
-- opposed: 0.09719963507361162
-- fully: 0.09223195096747727
-- distinct: 0.0907681615367688
-- surrounded: 0.08791904050359946
-- it: 0.08755241499215595
-- questionable: 0.08707815095643048
-- the: 0.08532113807561913
-- had: 0.08521786147875403
-- patient: 0.0834455447471122
-- irregularity: 0.08283354099053492
-- anatomy: 0.08109058172285392
-- has: 0.07812557932265585
-- much: 0.07406718961994747
-- indicated: 0.07033769648381262
-- is: 0.0702602413235344
-- children: 0.07007234560314204
-- not: 0.06752208347730147
-- to: 0.06413907817161156
-- recent: 0.057905195644683
-- surrounding: 0.05703530609939602
-- mr: 0.05533497773793607
-- likely: 0.051104305183929694
-- more: 0.046959321056217425
-- exam: 0.043050530299803526
-- have: 0.04272165257399893
-- female: 0.041267075585632494
-- by: 0.03631651533444578
-- and: 0.03534309170398719
-- as: 0.0343561953059214
-- there: 0.03402792089859352
-- from: 0.033964697047900214
-- of: 0.033471552873073664
-- an: 0.032702347875752116
-- history: 0.032673377947168965
-- pain: 0.030602003875634585
-- this: 0.029386020638542565
-- on: 0.025828339655122826
-- with: 0.01674577605896975
+\-\ Texto\\:\\ \ \(0\)\
+\-\ questionable\\ irregularity\\ of\\ uterus\\ on\\ bimanual\\ exam\\.\ \(1\)\
+\-\ 2\\ distinct\\ endometrial\\ stripes\\ surrounded\\ by\\ myometrium\\.\\ \\ single\\ cervix\\.\ \(0\)\
+\-\ bicornuate\\ uterus\ \(14\)\
+\-\ bicornuate\\ uterus\ \(14\)\
+\-\ didelphys\\ uterus\ \(3\)\
+\-\ septate\\ uterus\ \(14\)\
+\-\ g2p2\\ female\\ with\\ recent\\ history\\ of\\ menstrual\\ pain\\ and\\ shortened\\ menstrual\\ cycle\\.\ \(0\)\
+\-\ this\\ patient\\ has\\ not\\ had\\ an\\ mr\\ to\\ fully\\ define\\ the\\ anatomy\\ because\\ it\\ is\\ not\\ indicated\\.\\ \\ because\\ the\\ patient\\ has\\ had\\ children\\ and\\ there\\ is\\ myometrium\\ surrounding\\ the\\ endometrial\\ cavities\\,\\ the\\ patient\\ is\\ much\\ more\\ likely\\ to\\ have\\ a\\ bicornuate\\ uterus\\ as\\ opposed\\ to\\ a\\ septate\\ uterus\\.\\ \\ the\\ single\\ cervix\\ differentiates\\ it\\ from\\ didelphys\\ uterus\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ uterus\\:\\ 0\\.600095006684049\ \(0\)\
+\-\ bicornuate\\:\\ 0\\.3140414321749387\ \(0\)\
+\-\ myometrium\\:\\ 0\\.22843035722132707\ \(0\)\
+\-\ didelphys\\:\\ 0\\.22843035722132707\ \(0\)\
+\-\ septate\\:\\ 0\\.20764712451887585\ \(0\)\
+\-\ cervix\\:\\ 0\\.19902130359112022\ \(0\)\
+\-\ menstrual\\:\\ 0\\.1977973023468141\ \(0\)\
+\-\ endometrial\\:\\ 0\\.1747064800417291\ \(0\)\
+\-\ stripes\\:\\ 0\\.1367642067365847\ \(0\)\
+\-\ single\\:\\ 0\\.13151887027852846\ \(0\)\
+\-\ g2p2\\:\\ 0\\.13068550084923694\ \(0\)\
+\-\ because\\:\\ 0\\.11953731746398676\ \(0\)\
+\-\ differentiates\\:\\ 0\\.11421517861066353\ \(0\)\
+\-\ bimanual\\:\\ 0\\.1055893576829079\ \(0\)\
+\-\ shortened\\:\\ 0\\.1055893576829079\ \(0\)\
+\-\ cavities\\:\\ 0\\.1055893576829079\ \(0\)\
+\-\ define\\:\\ 0\\.09951065179556011\ \(0\)\
+\-\ cycle\\:\\ 0\\.09831065685482507\ \(0\)\
+\-\ opposed\\:\\ 0\\.09719963507361162\ \(0\)\
+\-\ fully\\:\\ 0\\.09223195096747727\ \(0\)\
+\-\ distinct\\:\\ 0\\.0907681615367688\ \(0\)\
+\-\ surrounded\\:\\ 0\\.08791904050359946\ \(0\)\
+\-\ it\\:\\ 0\\.08755241499215595\ \(0\)\
+\-\ questionable\\:\\ 0\\.08707815095643048\ \(0\)\
+\-\ the\\:\\ 0\\.08532113807561913\ \(0\)\
+\-\ had\\:\\ 0\\.08521786147875403\ \(0\)\
+\-\ patient\\:\\ 0\\.0834455447471122\ \(0\)\
+\-\ irregularity\\:\\ 0\\.08283354099053492\ \(0\)\
+\-\ anatomy\\:\\ 0\\.08109058172285392\ \(0\)\
+\-\ has\\:\\ 0\\.07812557932265585\ \(0\)\
+\-\ much\\:\\ 0\\.07406718961994747\ \(0\)\
+\-\ indicated\\:\\ 0\\.07033769648381262\ \(0\)\
+\-\ is\\:\\ 0\\.0702602413235344\ \(0\)\
+\-\ children\\:\\ 0\\.07007234560314204\ \(0\)\
+\-\ not\\:\\ 0\\.06752208347730147\ \(0\)\
+\-\ to\\:\\ 0\\.06413907817161156\ \(0\)\
+\-\ recent\\:\\ 0\\.057905195644683\ \(0\)\
+\-\ surrounding\\:\\ 0\\.05703530609939602\ \(0\)\
+\-\ mr\\:\\ 0\\.05533497773793607\ \(0\)\
+\-\ likely\\:\\ 0\\.051104305183929694\ \(0\)\
+\-\ more\\:\\ 0\\.046959321056217425\ \(0\)\
+\-\ exam\\:\\ 0\\.043050530299803526\ \(0\)\
+\-\ have\\:\\ 0\\.04272165257399893\ \(0\)\
+\-\ female\\:\\ 0\\.041267075585632494\ \(0\)\
+\-\ by\\:\\ 0\\.03631651533444578\ \(0\)\
+\-\ and\\:\\ 0\\.03534309170398719\ \(0\)\
+\-\ as\\:\\ 0\\.0343561953059214\ \(0\)\
+\-\ there\\:\\ 0\\.03402792089859352\ \(0\)\
+\-\ from\\:\\ 0\\.033964697047900214\ \(0\)\
+\-\ of\\:\\ 0\\.033471552873073664\ \(0\)\
+\-\ an\\:\\ 0\\.032702347875752116\ \(0\)\
+\-\ history\\:\\ 0\\.032673377947168965\ \(0\)\
+\-\ pain\\:\\ 0\\.030602003875634585\ \(0\)\
+\-\ this\\:\\ 0\\.029386020638542565\ \(0\)\
+\-\ on\\:\\ 0\\.025828339655122826\ \(0\)\
+\-\ with\\:\\ 0\\.01674577605896975\ \(0\)\

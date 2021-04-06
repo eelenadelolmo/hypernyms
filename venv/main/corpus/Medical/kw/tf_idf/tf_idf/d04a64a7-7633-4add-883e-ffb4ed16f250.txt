@@ -1,105 +1,103 @@
-Texto: 
-the gallbladder demonstrates a nonshadowing, nonmobile hypoechoic mass along the superolateral wall of the gallbladder, as well as a nonshadowing hyperechoic area along the lateral wall.  decubitus images were performed which identified the hypoechoic superolateral mass as nonmobile, and the hyperechoic area as mobile.
-gallbladder mass
-gallbladder polyp
-adenomyomatosis 
-gallbladder cancer 
-tumefactive sludge 
-metastases 
-chronic cholecystitis
-59 yo woman with 6 month history of ascites.
-while the mobile nonshadowing hyperechoic area on the lateral wall is consistent with sludge, the nonmobile nonshadowing hypoechoic mass adjacent to the superolateral wall could represent a polyp, cancer, or tumefactive sludge.  the mass lacks many of the characteristic features of gallbladder cancer (eccentric irregular wall thickening, infiltration of liver or vessels, bile duct obstruction, or associated lymphadenopathy) the size (>10 mm) makes this lesion worrisome for cancer.  the patient was scheduled for a ct scan to further evaluate the finding, with possible resection to follow pending the results of the ct scan.
-
-
-Keywords by value: 
-- nonshadowing: 0.15695550736845684
-- gallbladder: 0.13763089014483232
-- nonmobile: 0.11092112592117785
-- superolateral: 0.10351610772655709
-- sludge: 0.0937984793144966
-- hyperechoic: 0.07160151354798594
-- wall: 0.06913852291169682
-- hypoechoic: 0.06528833795762637
-- cancer: 0.0627746427791009
-- tumefactive: 0.06167241964203541
-- mobile: 0.054349438048995204
-- polyp: 0.054349438048995204
-- area: 0.04528217168940112
-- worrisome: 0.03585264330261524
-- adenomyomatosis: 0.034919380259804254
-- lacks: 0.03375938380852914
-- mass: 0.033197234830937554
-- decubitus: 0.03251277179001401
-- along: 0.03155367460177113
-- eccentric: 0.030436997731731977
-- as: 0.028884413539533582
-- ascites: 0.027393829153845542
-- scan: 0.02672929006070367
-- makes: 0.026469167486373065
-- infiltration: 0.02601472257322249
-- 59: 0.025676037535141853
-- bile: 0.025514095988363905
-- cholecystitis: 0.025356716787432645
-- scheduled: 0.02404837384050083
-- duct: 0.021886472759863614
-- represent: 0.020966052463349337
-- pending: 0.02065656207569689
-- lateral: 0.020633162520944697
-- metastases: 0.020395153352195442
-- lymphadenopathy: 0.020300194824996724
-- characteristic: 0.020206823422908787
-- features: 0.020145431682263
-- many: 0.019621304558142025
-- evaluate: 0.019297353398084208
-- results: 0.019271186642148865
-- vessels: 0.019219217968057728
-- irregular: 0.01904104275143229
-- could: 0.017612055552125992
-- mm: 0.017554162887122936
-- identified: 0.017058475090426378
-- obstruction: 0.01683463714295774
-- or: 0.01678529746866549
-- liver: 0.016459338049344824
-- thickening: 0.016182260165884647
-- 10: 0.016092872784060953
-- possible: 0.01607811295465962
-- size: 0.016004893136194253
-- >: 0.01586127103166796
-- finding: 0.015385818463902131
-- further: 0.015181252188828258
-- follow: 0.015168712133778961
-- ,: 0.015123467347334489
-- adjacent: 0.015094057229800376
-- while: 0.015020386814817394
-- resection: 0.014887796958213512
-- yo: 0.014365092308953978
-- month: 0.014321868943020165
-- 6: 0.014257654532820527
-- chronic: 0.013446869457581006
-- ct: 0.013355348082592658
-- performed: 0.013310493470543682
-- the: 0.01312982033498122
-- consistent: 0.01170557692084471
-- associated: 0.011265153977137999
-- woman: 0.011027390768094449
-- were: 0.010839588473128051
-- well: 0.01079933493278576
-- demonstrates: 0.010428051405883721
-- lesion: 0.009723772212293043
-- images: 0.009157898837705888
-- which: 0.008911422275098039
-- a: 0.008862565403767626
-- for: 0.008146459761371119
-- (: 0.008071080740154866
-- ): 0.007972488180036928
-- to: 0.007157566063290272
-- history: 0.006593377305626164
-- was: 0.0055211034760541166
-- this: 0.005369481638626441
-- patient: 0.004785429781655799
-- on: 0.004044083867963286
-- of: 0.003905155334010785
-- is: 0.003141289264719138
-- with: 0.0019609638450819506
-- .: 0.0011899285842685901
-- and: 0.0010056369035319466
+\-\ Texto\\:\\ \ \(0\)\
+\-\ the\\ gallbladder\\ demonstrates\\ a\\ nonshadowing\\,\\ nonmobile\\ hypoechoic\\ mass\\ along\\ the\\ superolateral\\ wall\\ of\\ the\\ gallbladder\\,\\ as\\ well\\ as\\ a\\ nonshadowing\\ hyperechoic\\ area\\ along\\ the\\ lateral\\ wall\\.\\ \\ decubitus\\ images\\ were\\ performed\\ which\\ identified\\ the\\ hypoechoic\\ superolateral\\ mass\\ as\\ nonmobile\\,\\ and\\ the\\ hyperechoic\\ area\\ as\\ mobile\\.\ \(0\)\
+\-\ gallbladder\\ mass\ \(2\)\
+\-\ gallbladder\\ polyp\ \(6\)\
+\-\ adenomyomatosis\\ \ \(3\)\
+\-\ gallbladder\\ cancer\\ \ \(2\)\
+\-\ tumefactive\\ sludge\\ \ \(1\)\
+\-\ metastases\\ \ \(111\)\
+\-\ chronic\\ cholecystitis\ \(8\)\
+\-\ 59\\ yo\\ woman\\ with\\ 6\\ month\\ history\\ of\\ ascites\\.\ \(1\)\
+\-\ while\\ the\\ mobile\\ nonshadowing\\ hyperechoic\\ area\\ on\\ the\\ lateral\\ wall\\ is\\ consistent\\ with\\ sludge\\,\\ the\\ nonmobile\\ nonshadowing\\ hypoechoic\\ mass\\ adjacent\\ to\\ the\\ superolateral\\ wall\\ could\\ represent\\ a\\ polyp\\,\\ cancer\\,\\ or\\ tumefactive\\ sludge\\.\\ \\ the\\ mass\\ lacks\\ many\\ of\\ the\\ characteristic\\ features\\ of\\ gallbladder\\ cancer\\ \\(eccentric\\ irregular\\ wall\\ thickening\\,\\ infiltration\\ of\\ liver\\ or\\ vessels\\,\\ bile\\ duct\\ obstruction\\,\\ or\\ associated\\ lymphadenopathy\\)\\ the\\ size\\ \\(\\>10\\ mm\\)\\ makes\\ this\\ lesion\\ worrisome\\ for\\ cancer\\.\\ \\ the\\ patient\\ was\\ scheduled\\ for\\ a\\ ct\\ scan\\ to\\ further\\ evaluate\\ the\\ finding\\,\\ with\\ possible\\ resection\\ to\\ follow\\ pending\\ the\\ results\\ of\\ the\\ ct\\ scan\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ nonshadowing\\:\\ 0\\.15695550736845684\ \(0\)\
+\-\ gallbladder\\:\\ 0\\.13763089014483232\ \(0\)\
+\-\ nonmobile\\:\\ 0\\.11092112592117785\ \(0\)\
+\-\ superolateral\\:\\ 0\\.10351610772655709\ \(0\)\
+\-\ sludge\\:\\ 0\\.0937984793144966\ \(0\)\
+\-\ hyperechoic\\:\\ 0\\.07160151354798594\ \(0\)\
+\-\ wall\\:\\ 0\\.06913852291169682\ \(0\)\
+\-\ hypoechoic\\:\\ 0\\.06528833795762637\ \(0\)\
+\-\ cancer\\:\\ 0\\.0627746427791009\ \(0\)\
+\-\ tumefactive\\:\\ 0\\.06167241964203541\ \(0\)\
+\-\ mobile\\:\\ 0\\.054349438048995204\ \(0\)\
+\-\ polyp\\:\\ 0\\.054349438048995204\ \(0\)\
+\-\ area\\:\\ 0\\.04528217168940112\ \(0\)\
+\-\ worrisome\\:\\ 0\\.03585264330261524\ \(0\)\
+\-\ adenomyomatosis\\:\\ 0\\.034919380259804254\ \(0\)\
+\-\ lacks\\:\\ 0\\.03375938380852914\ \(0\)\
+\-\ mass\\:\\ 0\\.033197234830937554\ \(0\)\
+\-\ decubitus\\:\\ 0\\.03251277179001401\ \(0\)\
+\-\ along\\:\\ 0\\.03155367460177113\ \(0\)\
+\-\ eccentric\\:\\ 0\\.030436997731731977\ \(0\)\
+\-\ as\\:\\ 0\\.028884413539533582\ \(0\)\
+\-\ ascites\\:\\ 0\\.027393829153845542\ \(0\)\
+\-\ scan\\:\\ 0\\.02672929006070367\ \(0\)\
+\-\ makes\\:\\ 0\\.026469167486373065\ \(0\)\
+\-\ infiltration\\:\\ 0\\.02601472257322249\ \(0\)\
+\-\ 59\\:\\ 0\\.025676037535141853\ \(0\)\
+\-\ bile\\:\\ 0\\.025514095988363905\ \(0\)\
+\-\ cholecystitis\\:\\ 0\\.025356716787432645\ \(0\)\
+\-\ scheduled\\:\\ 0\\.02404837384050083\ \(0\)\
+\-\ duct\\:\\ 0\\.021886472759863614\ \(0\)\
+\-\ represent\\:\\ 0\\.020966052463349337\ \(0\)\
+\-\ pending\\:\\ 0\\.02065656207569689\ \(0\)\
+\-\ lateral\\:\\ 0\\.020633162520944697\ \(0\)\
+\-\ metastases\\:\\ 0\\.020395153352195442\ \(0\)\
+\-\ lymphadenopathy\\:\\ 0\\.020300194824996724\ \(0\)\
+\-\ characteristic\\:\\ 0\\.020206823422908787\ \(0\)\
+\-\ features\\:\\ 0\\.020145431682263\ \(0\)\
+\-\ many\\:\\ 0\\.019621304558142025\ \(0\)\
+\-\ evaluate\\:\\ 0\\.019297353398084208\ \(0\)\
+\-\ results\\:\\ 0\\.019271186642148865\ \(0\)\
+\-\ vessels\\:\\ 0\\.019219217968057728\ \(0\)\
+\-\ irregular\\:\\ 0\\.01904104275143229\ \(0\)\
+\-\ could\\:\\ 0\\.017612055552125992\ \(0\)\
+\-\ mm\\:\\ 0\\.017554162887122936\ \(0\)\
+\-\ identified\\:\\ 0\\.017058475090426378\ \(0\)\
+\-\ obstruction\\:\\ 0\\.01683463714295774\ \(0\)\
+\-\ or\\:\\ 0\\.01678529746866549\ \(0\)\
+\-\ liver\\:\\ 0\\.016459338049344824\ \(0\)\
+\-\ thickening\\:\\ 0\\.016182260165884647\ \(0\)\
+\-\ 10\\:\\ 0\\.016092872784060953\ \(0\)\
+\-\ possible\\:\\ 0\\.01607811295465962\ \(0\)\
+\-\ size\\:\\ 0\\.016004893136194253\ \(0\)\
+\-\ \\>\\:\\ 0\\.01586127103166796\ \(0\)\
+\-\ finding\\:\\ 0\\.015385818463902131\ \(0\)\
+\-\ further\\:\\ 0\\.015181252188828258\ \(0\)\
+\-\ follow\\:\\ 0\\.015168712133778961\ \(0\)\
+\-\ \\,\\:\\ 0\\.015123467347334489\ \(0\)\
+\-\ adjacent\\:\\ 0\\.015094057229800376\ \(0\)\
+\-\ while\\:\\ 0\\.015020386814817394\ \(0\)\
+\-\ resection\\:\\ 0\\.014887796958213512\ \(0\)\
+\-\ yo\\:\\ 0\\.014365092308953978\ \(0\)\
+\-\ month\\:\\ 0\\.014321868943020165\ \(0\)\
+\-\ 6\\:\\ 0\\.014257654532820527\ \(0\)\
+\-\ chronic\\:\\ 0\\.013446869457581006\ \(0\)\
+\-\ ct\\:\\ 0\\.013355348082592658\ \(0\)\
+\-\ performed\\:\\ 0\\.013310493470543682\ \(0\)\
+\-\ the\\:\\ 0\\.01312982033498122\ \(0\)\
+\-\ consistent\\:\\ 0\\.01170557692084471\ \(0\)\
+\-\ associated\\:\\ 0\\.011265153977137999\ \(0\)\
+\-\ woman\\:\\ 0\\.011027390768094449\ \(0\)\
+\-\ were\\:\\ 0\\.010839588473128051\ \(0\)\
+\-\ well\\:\\ 0\\.01079933493278576\ \(0\)\
+\-\ demonstrates\\:\\ 0\\.010428051405883721\ \(0\)\
+\-\ lesion\\:\\ 0\\.009723772212293043\ \(0\)\
+\-\ images\\:\\ 0\\.009157898837705888\ \(0\)\
+\-\ which\\:\\ 0\\.008911422275098039\ \(0\)\
+\-\ a\\:\\ 0\\.008862565403767626\ \(0\)\
+\-\ for\\:\\ 0\\.008146459761371119\ \(0\)\
+\-\ \\(\\:\\ 0\\.008071080740154866\ \(0\)\
+\-\ \\)\\:\\ 0\\.007972488180036928\ \(0\)\
+\-\ to\\:\\ 0\\.007157566063290272\ \(0\)\
+\-\ history\\:\\ 0\\.006593377305626164\ \(0\)\
+\-\ was\\:\\ 0\\.0055211034760541166\ \(0\)\
+\-\ this\\:\\ 0\\.005369481638626441\ \(0\)\
+\-\ patient\\:\\ 0\\.004785429781655799\ \(0\)\
+\-\ on\\:\\ 0\\.004044083867963286\ \(0\)\
+\-\ of\\:\\ 0\\.003905155334010785\ \(0\)\
+\-\ is\\:\\ 0\\.003141289264719138\ \(0\)\
+\-\ with\\:\\ 0\\.0019609638450819506\ \(0\)\
+\-\ \\.\\:\\ 0\\.0011899285842685901\ \(0\)\
+\-\ and\\:\\ 0\\.0010056369035319466\ \(0\)\

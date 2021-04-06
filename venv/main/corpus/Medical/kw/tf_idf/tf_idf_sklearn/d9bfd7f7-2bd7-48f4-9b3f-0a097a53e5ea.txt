@@ -1,51 +1,49 @@
-Texto: 
-serum calcium 10.3 mg/dl (8.6-10.2 mg/dl)
-intact pth 96.0 pg/ml (13-75 pg/ml)
-24-hour urine calcium 455 mg/24hrs (100-300 mg/24hrs)
-surgical removal with follow-up laboratory values.
-technetium-99m sestamibi scan demonstrates intense and persistent focal uptake in the region of the lower pole of the right lobe of the thyroid gland.
-parathyroid adenoma
-parathyroid adenoma
-parathyroid carcinoma
-thyroid adenoma
-thyroid carcinoma
-50 y/o woman with elevated serum calcium and parathyroid hormone.
-
-
-Keywords by value: 
-- parathyroid: 0.43272606003918346
-- calcium: 0.26709940307704927
-- adenoma: 0.23576538992954948
-- thyroid: 0.23240291498014368
-- serum: 0.1767860844208176
-- 455: 0.15063516759917558
-- sestamibi: 0.12401548821611322
-- carcinoma: 0.117925416800989
-- pth: 0.11700884345310256
-- hormone: 0.10037098054726404
-- intense: 0.0930529667793921
-- values: 0.09092642534041082
-- urine: 0.08823665641694904
-- pole: 0.08590971646516
-- gland: 0.08007587664015872
-- the: 0.0786766020729427
-- persistent: 0.07595012930405978
-- uptake: 0.07579787711000706
-- removal: 0.0753490073993105
-- laboratory: 0.07158181854683919
-- intact: 0.0713459034528827
-- 50: 0.0688418341759469
-- elevated: 0.06719943296965784
-- focal: 0.0589627084004945
-- region: 0.0589627084004945
-- scan: 0.058483055226848664
-- of: 0.057871679842931394
-- lobe: 0.05696554620419391
-- woman: 0.051337833039248944
-- lower: 0.05037159000334807
-- demonstrates: 0.04952267117150623
-- surgical: 0.04791033957200171
-- and: 0.040738356647880794
-- with: 0.038604172105231656
-- right: 0.03268146878267713
-- in: 0.024522094005541107
+\-\ Texto\\:\\ \ \(0\)\
+\-\ serum\\ calcium\\ 10\\.3\\ mg\\/dl\\ \\(8\\.6\\-10\\.2\\ mg\\/dl\\)\ \(0\)\
+\-\ intact\\ pth\\ 96\\.0\\ pg\\/ml\\ \\(13\\-75\\ pg\\/ml\\)\ \(0\)\
+\-\ 24\\-hour\\ urine\\ calcium\\ 455\\ mg\\/24hrs\\ \\(100\\-300\\ mg\\/24hrs\\)\ \(1\)\
+\-\ surgical\\ removal\\ with\\ follow\\-up\\ laboratory\\ values\\.\ \(0\)\
+\-\ technetium\\-99m\\ sestamibi\\ scan\\ demonstrates\\ intense\\ and\\ persistent\\ focal\\ uptake\\ in\\ the\\ region\\ of\\ the\\ lower\\ pole\\ of\\ the\\ right\\ lobe\\ of\\ the\\ thyroid\\ gland\\.\ \(0\)\
+\-\ parathyroid\\ adenoma\ \(27\)\
+\-\ parathyroid\\ adenoma\ \(27\)\
+\-\ parathyroid\\ carcinoma\ \(2\)\
+\-\ thyroid\\ adenoma\ \(56\)\
+\-\ thyroid\\ carcinoma\ \(19\)\
+\-\ 50\\ y\\/o\\ woman\\ with\\ elevated\\ serum\\ calcium\\ and\\ parathyroid\\ hormone\\.\ \(1\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ parathyroid\\:\\ 0\\.43272606003918346\ \(0\)\
+\-\ calcium\\:\\ 0\\.26709940307704927\ \(0\)\
+\-\ adenoma\\:\\ 0\\.23576538992954948\ \(0\)\
+\-\ thyroid\\:\\ 0\\.23240291498014368\ \(0\)\
+\-\ serum\\:\\ 0\\.1767860844208176\ \(0\)\
+\-\ 455\\:\\ 0\\.15063516759917558\ \(0\)\
+\-\ sestamibi\\:\\ 0\\.12401548821611322\ \(0\)\
+\-\ carcinoma\\:\\ 0\\.117925416800989\ \(0\)\
+\-\ pth\\:\\ 0\\.11700884345310256\ \(0\)\
+\-\ hormone\\:\\ 0\\.10037098054726404\ \(0\)\
+\-\ intense\\:\\ 0\\.0930529667793921\ \(0\)\
+\-\ values\\:\\ 0\\.09092642534041082\ \(0\)\
+\-\ urine\\:\\ 0\\.08823665641694904\ \(0\)\
+\-\ pole\\:\\ 0\\.08590971646516\ \(0\)\
+\-\ gland\\:\\ 0\\.08007587664015872\ \(0\)\
+\-\ the\\:\\ 0\\.0786766020729427\ \(0\)\
+\-\ persistent\\:\\ 0\\.07595012930405978\ \(0\)\
+\-\ uptake\\:\\ 0\\.07579787711000706\ \(0\)\
+\-\ removal\\:\\ 0\\.0753490073993105\ \(0\)\
+\-\ laboratory\\:\\ 0\\.07158181854683919\ \(0\)\
+\-\ intact\\:\\ 0\\.0713459034528827\ \(0\)\
+\-\ 50\\:\\ 0\\.0688418341759469\ \(0\)\
+\-\ elevated\\:\\ 0\\.06719943296965784\ \(0\)\
+\-\ focal\\:\\ 0\\.0589627084004945\ \(0\)\
+\-\ region\\:\\ 0\\.0589627084004945\ \(0\)\
+\-\ scan\\:\\ 0\\.058483055226848664\ \(0\)\
+\-\ of\\:\\ 0\\.057871679842931394\ \(0\)\
+\-\ lobe\\:\\ 0\\.05696554620419391\ \(0\)\
+\-\ woman\\:\\ 0\\.051337833039248944\ \(0\)\
+\-\ lower\\:\\ 0\\.05037159000334807\ \(0\)\
+\-\ demonstrates\\:\\ 0\\.04952267117150623\ \(0\)\
+\-\ surgical\\:\\ 0\\.04791033957200171\ \(0\)\
+\-\ and\\:\\ 0\\.040738356647880794\ \(0\)\
+\-\ with\\:\\ 0\\.038604172105231656\ \(0\)\
+\-\ right\\:\\ 0\\.03268146878267713\ \(0\)\
+\-\ in\\:\\ 0\\.024522094005541107\ \(0\)\

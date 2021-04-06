@@ -1,45 +1,43 @@
-Texto: 
-complex ovarian cysts on the left with mr characteristics consistent with a "chocolate cyst".
-endometrioma
-us:
-endometrioma
-primary ovarian neoplasm
-metastatic disease
-hemorrhagic functional cyst
-mr:
-pathognomonic for endometrioma
-the patient complains of waxing and waning dysmenorhea for over 1 year.
-
-
-Keywords by value: 
-- endometrioma: 0.5566447623690775
-- ovarian: 0.2906595567020167
-- chocolate: 0.2728019484983303
-- dysmenorhea: 0.2728019484983303
-- waning: 0.22782366831612652
-- waxing: 0.22467294295880366
-- mr: 0.22075205358512293
-- cyst: 0.19680795788454575
-- pathognomonic: 0.16779187723550493
-- functional: 0.1673488434655702
-- characteristics: 0.1564200494269188
-- complains: 0.14843374180277866
-- hemorrhagic: 0.14797010100377028
-- us: 0.1356920149776602
-- complex: 0.13143304401527944
-- cysts: 0.12926419636893294
-- neoplasm: 0.11644972507622585
-- primary: 0.10489114047361871
-- for: 0.10340578007540328
-- over: 0.09485255003778884
-- metastatic: 0.09355713233624106
-- consistent: 0.09249489850158796
-- disease: 0.07160536465436645
-- the: 0.06807562671702364
-- with: 0.06680520359837124
-- left: 0.05819013534395545
-- patient: 0.05548261430800074
-- year: 0.05257082227293296
-- on: 0.05151948417296946
-- and: 0.03524922387541518
-- of: 0.03338265567037721
+\-\ Texto\\:\\ \ \(0\)\
+\-\ complex\\ ovarian\\ cysts\\ on\\ the\\ left\\ with\\ mr\\ characteristics\\ consistent\\ with\\ a\\ \\"chocolate\\ cyst\\"\\.\ \(0\)\
+\-\ endometrioma\ \(17\)\
+\-\ us\\:\ \(32\)\
+\-\ endometrioma\ \(17\)\
+\-\ primary\\ ovarian\\ neoplasm\ \(1\)\
+\-\ metastatic\\ disease\ \(243\)\
+\-\ hemorrhagic\\ functional\\ cyst\ \(1\)\
+\-\ mr\\:\ \(0\)\
+\-\ pathognomonic\\ for\\ endometrioma\ \(1\)\
+\-\ the\\ patient\\ complains\\ of\\ waxing\\ and\\ waning\\ dysmenorhea\\ for\\ over\\ 1\\ year\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ endometrioma\\:\\ 0\\.5566447623690775\ \(0\)\
+\-\ ovarian\\:\\ 0\\.2906595567020167\ \(0\)\
+\-\ chocolate\\:\\ 0\\.2728019484983303\ \(0\)\
+\-\ dysmenorhea\\:\\ 0\\.2728019484983303\ \(0\)\
+\-\ waning\\:\\ 0\\.22782366831612652\ \(0\)\
+\-\ waxing\\:\\ 0\\.22467294295880366\ \(0\)\
+\-\ mr\\:\\ 0\\.22075205358512293\ \(0\)\
+\-\ cyst\\:\\ 0\\.19680795788454575\ \(0\)\
+\-\ pathognomonic\\:\\ 0\\.16779187723550493\ \(0\)\
+\-\ functional\\:\\ 0\\.1673488434655702\ \(0\)\
+\-\ characteristics\\:\\ 0\\.1564200494269188\ \(0\)\
+\-\ complains\\:\\ 0\\.14843374180277866\ \(0\)\
+\-\ hemorrhagic\\:\\ 0\\.14797010100377028\ \(0\)\
+\-\ us\\:\\ 0\\.1356920149776602\ \(0\)\
+\-\ complex\\:\\ 0\\.13143304401527944\ \(0\)\
+\-\ cysts\\:\\ 0\\.12926419636893294\ \(0\)\
+\-\ neoplasm\\:\\ 0\\.11644972507622585\ \(0\)\
+\-\ primary\\:\\ 0\\.10489114047361871\ \(0\)\
+\-\ for\\:\\ 0\\.10340578007540328\ \(0\)\
+\-\ over\\:\\ 0\\.09485255003778884\ \(0\)\
+\-\ metastatic\\:\\ 0\\.09355713233624106\ \(0\)\
+\-\ consistent\\:\\ 0\\.09249489850158796\ \(0\)\
+\-\ disease\\:\\ 0\\.07160536465436645\ \(0\)\
+\-\ the\\:\\ 0\\.06807562671702364\ \(0\)\
+\-\ with\\:\\ 0\\.06680520359837124\ \(0\)\
+\-\ left\\:\\ 0\\.05819013534395545\ \(0\)\
+\-\ patient\\:\\ 0\\.05548261430800074\ \(0\)\
+\-\ year\\:\\ 0\\.05257082227293296\ \(0\)\
+\-\ on\\:\\ 0\\.05151948417296946\ \(0\)\
+\-\ and\\:\\ 0\\.03524922387541518\ \(0\)\
+\-\ of\\:\\ 0\\.03338265567037721\ \(0\)\

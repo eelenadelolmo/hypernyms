@@ -1,56 +1,54 @@
-Texto: 
-normal exam
-treatment for grade 2 reflux still consists of prophylactic antibiotics and monitoring for resolution.  surgical treatment is usually reserved for more advanced cases of reflux.
-vcug demonstrates a normal bladder with reflux of contrast material into the left ureter and collecting system.  there is no blunting of the collecting system.
-grade 2 reflux on the left.
-grade 2 reflux on the left.
-2 year old female with first uti.
-treatment for grade 2 reflux still consists of prophylactic antibiotics and monitoring for resolution.  surgical treatment is usually reserved for more advanced cases of reflux.
-
-
-Keywords by value: 
-- reflux: 0.2631989315673944
-- grade: 0.12399378258860841
-- reserved: 0.1081909372959495
-- prophylactic: 0.1001937211900397
-- monitoring: 0.08992712117608377
-- consists: 0.08930255312231251
-- 2: 0.08762402364335933
-- advanced: 0.08329270795192728
-- collecting: 0.0830699262421522
-- still: 0.0775349770591095
-- resolution: 0.07020228017225572
-- treatment: 0.0658901698895576
-- system: 0.06408533276953901
-- antibiotics: 0.061137454431819074
-- blunting: 0.05451881876769698
-- cases: 0.05422496883773586
-- vcug: 0.0525683957901159
-- uti: 0.05156496230766041
-- usually: 0.04942720483555732
-- ureter: 0.04391262671024317
-- for: 0.04166332277958372
-- more: 0.0407081201773746
-- material: 0.03636482047811794
-- surgical: 0.034213748004789594
-- bladder: 0.033032484697609804
-- left: 0.027317293407797563
-- first: 0.02730936604557955
-- normal: 0.025516427706649546
-- into: 0.019365013028187685
-- contrast: 0.018216911302932435
-- exam: 0.017878418475709888
-- demonstrates: 0.017777344777649393
-- female: 0.016731050204265085
-- is: 0.01606545081099216
-- on: 0.013788400235531965
-- there: 0.012111576728237988
-- year: 0.009105764469265856
-- old: 0.008332710446307188
-- no: 0.008194706197179068
-- of: 0.006657360045599339
-- the: 0.005266639417280983
-- and: 0.005143114449491956
-- a: 0.003777140969700965
-- .: 0.003042817379772538
-- with: 0.002228650973140757
+\-\ Texto\\:\\ \ \(0\)\
+\-\ normal\\ exam\ \(7\)\
+\-\ treatment\\ for\\ grade\\ 2\\ reflux\\ still\\ consists\\ of\\ prophylactic\\ antibiotics\\ and\\ monitoring\\ for\\ resolution\\.\\ \\ surgical\\ treatment\\ is\\ usually\\ reserved\\ for\\ more\\ advanced\\ cases\\ of\\ reflux\\.\ \(0\)\
+\-\ vcug\\ demonstrates\\ a\\ normal\\ bladder\\ with\\ reflux\\ of\\ contrast\\ material\\ into\\ the\\ left\\ ureter\\ and\\ collecting\\ system\\.\\ \\ there\\ is\\ no\\ blunting\\ of\\ the\\ collecting\\ system\\.\ \(0\)\
+\-\ grade\\ 2\\ reflux\\ on\\ the\\ left\\.\ \(0\)\
+\-\ grade\\ 2\\ reflux\\ on\\ the\\ left\\.\ \(0\)\
+\-\ 2\\ year\\ old\\ female\\ with\\ first\\ uti\\.\ \(1\)\
+\-\ treatment\\ for\\ grade\\ 2\\ reflux\\ still\\ consists\\ of\\ prophylactic\\ antibiotics\\ and\\ monitoring\\ for\\ resolution\\.\\ \\ surgical\\ treatment\\ is\\ usually\\ reserved\\ for\\ more\\ advanced\\ cases\\ of\\ reflux\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ reflux\\:\\ 0\\.2631989315673944\ \(0\)\
+\-\ grade\\:\\ 0\\.12399378258860841\ \(0\)\
+\-\ reserved\\:\\ 0\\.1081909372959495\ \(0\)\
+\-\ prophylactic\\:\\ 0\\.1001937211900397\ \(0\)\
+\-\ monitoring\\:\\ 0\\.08992712117608377\ \(0\)\
+\-\ consists\\:\\ 0\\.08930255312231251\ \(0\)\
+\-\ 2\\:\\ 0\\.08762402364335933\ \(0\)\
+\-\ advanced\\:\\ 0\\.08329270795192728\ \(0\)\
+\-\ collecting\\:\\ 0\\.0830699262421522\ \(0\)\
+\-\ still\\:\\ 0\\.0775349770591095\ \(0\)\
+\-\ resolution\\:\\ 0\\.07020228017225572\ \(0\)\
+\-\ treatment\\:\\ 0\\.0658901698895576\ \(0\)\
+\-\ system\\:\\ 0\\.06408533276953901\ \(0\)\
+\-\ antibiotics\\:\\ 0\\.061137454431819074\ \(0\)\
+\-\ blunting\\:\\ 0\\.05451881876769698\ \(0\)\
+\-\ cases\\:\\ 0\\.05422496883773586\ \(0\)\
+\-\ vcug\\:\\ 0\\.0525683957901159\ \(0\)\
+\-\ uti\\:\\ 0\\.05156496230766041\ \(0\)\
+\-\ usually\\:\\ 0\\.04942720483555732\ \(0\)\
+\-\ ureter\\:\\ 0\\.04391262671024317\ \(0\)\
+\-\ for\\:\\ 0\\.04166332277958372\ \(0\)\
+\-\ more\\:\\ 0\\.0407081201773746\ \(0\)\
+\-\ material\\:\\ 0\\.03636482047811794\ \(0\)\
+\-\ surgical\\:\\ 0\\.034213748004789594\ \(0\)\
+\-\ bladder\\:\\ 0\\.033032484697609804\ \(0\)\
+\-\ left\\:\\ 0\\.027317293407797563\ \(0\)\
+\-\ first\\:\\ 0\\.02730936604557955\ \(0\)\
+\-\ normal\\:\\ 0\\.025516427706649546\ \(0\)\
+\-\ into\\:\\ 0\\.019365013028187685\ \(0\)\
+\-\ contrast\\:\\ 0\\.018216911302932435\ \(0\)\
+\-\ exam\\:\\ 0\\.017878418475709888\ \(0\)\
+\-\ demonstrates\\:\\ 0\\.017777344777649393\ \(0\)\
+\-\ female\\:\\ 0\\.016731050204265085\ \(0\)\
+\-\ is\\:\\ 0\\.01606545081099216\ \(0\)\
+\-\ on\\:\\ 0\\.013788400235531965\ \(0\)\
+\-\ there\\:\\ 0\\.012111576728237988\ \(0\)\
+\-\ year\\:\\ 0\\.009105764469265856\ \(0\)\
+\-\ old\\:\\ 0\\.008332710446307188\ \(0\)\
+\-\ no\\:\\ 0\\.008194706197179068\ \(0\)\
+\-\ of\\:\\ 0\\.006657360045599339\ \(0\)\
+\-\ the\\:\\ 0\\.005266639417280983\ \(0\)\
+\-\ and\\:\\ 0\\.005143114449491956\ \(0\)\
+\-\ a\\:\\ 0\\.003777140969700965\ \(0\)\
+\-\ \\.\\:\\ 0\\.003042817379772538\ \(0\)\
+\-\ with\\:\\ 0\\.002228650973140757\ \(0\)\

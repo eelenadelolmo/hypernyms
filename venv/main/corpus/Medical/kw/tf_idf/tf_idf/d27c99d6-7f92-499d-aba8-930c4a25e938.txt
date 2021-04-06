@@ -1,90 +1,87 @@
-Texto: 
-well developed and well nourished female
-bilateral hypodensities on the occipital lobes on admission head ct
-
-on mri, diffuse flair and t2 hyperintensities in the white matter favoring the posterior cerebral vascular territories without obvious enhancement on the t1 post-gad images and scattered tubular enhancing foci likely representing early vasculitis changes
-posterior revesible encephalopathy syndrome (pres)
-hypertensive encephalopathy
-acute disseminated encephalomyelitis
-progressive multifocal leukoencephalopathy
-toxic demyelination
-radiation injury
-28 year-old female with history of lupus nephritis presents to the er with headache and somnolence of 2 days duration
-
-
-Keywords by value: 
-- encephalopathy: 0.11057865472633488
-- revesible: 0.0968738288347967
-- somnolence: 0.07918769792892745
-- nephritis: 0.07402282288227102
-- favoring: 0.07157069594475222
-- territories: 0.07157069594475222
-- hypodensities: 0.07052333133151789
-- post-gad: 0.06956716235360987
-- pres: 0.06711503541609108
-- hyperintensities: 0.0664058208980958
-- leukoencephalopathy: 0.06511150182494872
-- encephalomyelitis: 0.06290632934734267
-- demyelination: 0.06241784843997087
-- disseminated: 0.05719341221233268
-- nourished: 0.05661490964655882
-- hypertensive: 0.055541959431570725
-- lupus: 0.05528932736316744
-- toxic: 0.05504237290325471
-- multifocal: 0.050505612294399906
-- duration: 0.049725922888111077
-- representing: 0.04844834260112357
-- vasculitis: 0.04805348535688112
-- obvious: 0.04742537091907949
-- 28: 0.04426402946356542
-- occipital: 0.04381543611718899
-- scattered: 0.04372787381335187
-- tubular: 0.04372787381335187
-- posterior: 0.04328875931214173
-- flair: 0.043051413450720735
-- well: 0.04248529566964068
-- lobes: 0.04138090567820837
-- admission: 0.04138090567820837
-- foci: 0.04030795546322028
-- female: 0.038610115855996344
-- progressive: 0.03711471554992641
-- matter: 0.03697230736704173
-- developed: 0.036154565767414444
-- er: 0.03602400172470288
-- year-old: 0.034491918919760625
-- early: 0.03434240625980701
-- cerebral: 0.032532379140264515
-- headache: 0.03225258722599778
-- on: 0.03181938515891992
-- white: 0.031144002337494703
-- radiation: 0.030815947797388315
-- vascular: 0.030789046900260405
-- injury: 0.02993635760317363
-- t1: 0.029763687211255427
-- enhancing: 0.029450038822909443
-- days: 0.028781036221670084
-- diffuse: 0.02842865297115731
-- changes: 0.026912615123462207
-- syndrome: 0.026856116227853204
-- head: 0.02663298143487798
-- t2: 0.026577898557696177
-- likely: 0.026486702922369855
-- enhancement: 0.025170206221132266
-- acute: 0.02318548713303841
-- bilateral: 0.022789205816642243
-- without: 0.022110034795144617
-- mri: 0.021574459944116702
-- 2: 0.020220928533082928
-- presents: 0.019182904346240946
-- images: 0.018013888922520375
-- ct: 0.013135204982330144
-- history: 0.012969390524253666
-- (: 0.007938040947734731
-- and: 0.007912483768449163
-- ): 0.00784107353970665
-- the: 0.0075961145441552635
-- to: 0.004693056136736113
-- in: 0.0046307387927500545
-- ,: 0.002974835884805356
-- with: 0.0025715203536239503
-- of: 0.002560523094461284
+\-\ Texto\\:\\ \ \(0\)\
+\-\ well\\ developed\\ and\\ well\\ nourished\\ female\ \(0\)\
+\-\ bilateral\\ hypodensities\\ on\\ the\\ occipital\\ lobes\\ on\\ admission\\ head\\ ct\ \(0\)\
+\-\ on\\ mri\\,\\ diffuse\\ flair\\ and\\ t2\\ hyperintensities\\ in\\ the\\ white\\ matter\\ favoring\\ the\\ posterior\\ cerebral\\ vascular\\ territories\\ without\\ obvious\\ enhancement\\ on\\ the\\ t1\\ post\\-gad\\ images\\ and\\ scattered\\ tubular\\ enhancing\\ foci\\ likely\\ representing\\ early\\ vasculitis\\ changes\ \(0\)\
+\-\ posterior\\ revesible\\ encephalopathy\\ syndrome\\ \\(pres\\)\ \(0\)\
+\-\ hypertensive\\ encephalopathy\ \(1\)\
+\-\ acute\\ disseminated\\ encephalomyelitis\ \(7\)\
+\-\ progressive\\ multifocal\\ leukoencephalopathy\ \(0\)\
+\-\ toxic\\ demyelination\ \(0\)\
+\-\ radiation\\ injury\ \(1\)\
+\-\ 28\\ year\\-old\\ female\\ with\\ history\\ of\\ lupus\\ nephritis\\ presents\\ to\\ the\\ er\\ with\\ headache\\ and\\ somnolence\\ of\\ 2\\ days\\ duration\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ encephalopathy\\:\\ 0\\.11057865472633488\ \(0\)\
+\-\ revesible\\:\\ 0\\.0968738288347967\ \(0\)\
+\-\ somnolence\\:\\ 0\\.07918769792892745\ \(0\)\
+\-\ nephritis\\:\\ 0\\.07402282288227102\ \(0\)\
+\-\ favoring\\:\\ 0\\.07157069594475222\ \(0\)\
+\-\ territories\\:\\ 0\\.07157069594475222\ \(0\)\
+\-\ hypodensities\\:\\ 0\\.07052333133151789\ \(0\)\
+\-\ post\\-gad\\:\\ 0\\.06956716235360987\ \(0\)\
+\-\ pres\\:\\ 0\\.06711503541609108\ \(0\)\
+\-\ hyperintensities\\:\\ 0\\.0664058208980958\ \(0\)\
+\-\ leukoencephalopathy\\:\\ 0\\.06511150182494872\ \(0\)\
+\-\ encephalomyelitis\\:\\ 0\\.06290632934734267\ \(0\)\
+\-\ demyelination\\:\\ 0\\.06241784843997087\ \(0\)\
+\-\ disseminated\\:\\ 0\\.05719341221233268\ \(0\)\
+\-\ nourished\\:\\ 0\\.05661490964655882\ \(0\)\
+\-\ hypertensive\\:\\ 0\\.055541959431570725\ \(0\)\
+\-\ lupus\\:\\ 0\\.05528932736316744\ \(0\)\
+\-\ toxic\\:\\ 0\\.05504237290325471\ \(0\)\
+\-\ multifocal\\:\\ 0\\.050505612294399906\ \(0\)\
+\-\ duration\\:\\ 0\\.049725922888111077\ \(0\)\
+\-\ representing\\:\\ 0\\.04844834260112357\ \(0\)\
+\-\ vasculitis\\:\\ 0\\.04805348535688112\ \(0\)\
+\-\ obvious\\:\\ 0\\.04742537091907949\ \(0\)\
+\-\ 28\\:\\ 0\\.04426402946356542\ \(0\)\
+\-\ occipital\\:\\ 0\\.04381543611718899\ \(0\)\
+\-\ scattered\\:\\ 0\\.04372787381335187\ \(0\)\
+\-\ tubular\\:\\ 0\\.04372787381335187\ \(0\)\
+\-\ posterior\\:\\ 0\\.04328875931214173\ \(0\)\
+\-\ flair\\:\\ 0\\.043051413450720735\ \(0\)\
+\-\ well\\:\\ 0\\.04248529566964068\ \(0\)\
+\-\ lobes\\:\\ 0\\.04138090567820837\ \(0\)\
+\-\ admission\\:\\ 0\\.04138090567820837\ \(0\)\
+\-\ foci\\:\\ 0\\.04030795546322028\ \(0\)\
+\-\ female\\:\\ 0\\.038610115855996344\ \(0\)\
+\-\ progressive\\:\\ 0\\.03711471554992641\ \(0\)\
+\-\ matter\\:\\ 0\\.03697230736704173\ \(0\)\
+\-\ developed\\:\\ 0\\.036154565767414444\ \(0\)\
+\-\ er\\:\\ 0\\.03602400172470288\ \(0\)\
+\-\ year\\-old\\:\\ 0\\.034491918919760625\ \(0\)\
+\-\ early\\:\\ 0\\.03434240625980701\ \(0\)\
+\-\ cerebral\\:\\ 0\\.032532379140264515\ \(0\)\
+\-\ headache\\:\\ 0\\.03225258722599778\ \(0\)\
+\-\ on\\:\\ 0\\.03181938515891992\ \(0\)\
+\-\ white\\:\\ 0\\.031144002337494703\ \(0\)\
+\-\ radiation\\:\\ 0\\.030815947797388315\ \(0\)\
+\-\ vascular\\:\\ 0\\.030789046900260405\ \(0\)\
+\-\ injury\\:\\ 0\\.02993635760317363\ \(0\)\
+\-\ t1\\:\\ 0\\.029763687211255427\ \(0\)\
+\-\ enhancing\\:\\ 0\\.029450038822909443\ \(0\)\
+\-\ days\\:\\ 0\\.028781036221670084\ \(0\)\
+\-\ diffuse\\:\\ 0\\.02842865297115731\ \(0\)\
+\-\ changes\\:\\ 0\\.026912615123462207\ \(0\)\
+\-\ syndrome\\:\\ 0\\.026856116227853204\ \(0\)\
+\-\ head\\:\\ 0\\.02663298143487798\ \(0\)\
+\-\ t2\\:\\ 0\\.026577898557696177\ \(0\)\
+\-\ likely\\:\\ 0\\.026486702922369855\ \(0\)\
+\-\ enhancement\\:\\ 0\\.025170206221132266\ \(0\)\
+\-\ acute\\:\\ 0\\.02318548713303841\ \(0\)\
+\-\ bilateral\\:\\ 0\\.022789205816642243\ \(0\)\
+\-\ without\\:\\ 0\\.022110034795144617\ \(0\)\
+\-\ mri\\:\\ 0\\.021574459944116702\ \(0\)\
+\-\ 2\\:\\ 0\\.020220928533082928\ \(0\)\
+\-\ presents\\:\\ 0\\.019182904346240946\ \(0\)\
+\-\ images\\:\\ 0\\.018013888922520375\ \(0\)\
+\-\ ct\\:\\ 0\\.013135204982330144\ \(0\)\
+\-\ history\\:\\ 0\\.012969390524253666\ \(0\)\
+\-\ \\(\\:\\ 0\\.007938040947734731\ \(0\)\
+\-\ and\\:\\ 0\\.007912483768449163\ \(0\)\
+\-\ \\)\\:\\ 0\\.00784107353970665\ \(0\)\
+\-\ the\\:\\ 0\\.0075961145441552635\ \(0\)\
+\-\ to\\:\\ 0\\.004693056136736113\ \(0\)\
+\-\ in\\:\\ 0\\.0046307387927500545\ \(0\)\
+\-\ \\,\\:\\ 0\\.002974835884805356\ \(0\)\
+\-\ with\\:\\ 0\\.0025715203536239503\ \(0\)\
+\-\ of\\:\\ 0\\.002560523094461284\ \(0\)\

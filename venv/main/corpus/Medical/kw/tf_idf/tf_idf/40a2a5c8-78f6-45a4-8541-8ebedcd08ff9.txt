@@ -1,134 +1,125 @@
-Texto: 
-normal neurologic examination
--conservative if asymptomatic
--surgical if causing significant symptoms or sequela of associated mass effect
-csf signal intensity mass at superior aspect of 4th ventricle with mass effect on quadrigeminal plate and distortion of 4th ventricle
-arachnoid cyst
-1) arachnoid cyst
-
-2) epidermoid cyst
-
-3) cystic mass 
-
-* see discussion for imaging differentiation.
-22 y/o male with mild dizziness and headache
-**flair, dwi/adc, and post-gadolinium t1 are key imaging sequences determining the nature of cystic appearing masses.  these otherwise could appear similar on standard t1 and t2 imaging.
-
-arachnoid cyst:  follows csf on all sequences (suppresses on flair and no restricted diffusion on dwi/adc), causes mass effect on adjacent structures, may cause bony remodeling, may show delayed opacification with intrathecal contrast, no enhancement
-
-epidermoid cyst:  should show increased signal on flair images and restricted diffusion on dwi/adc, more insinuating with encasement of structures
-
-atrophy or encephalomalacia:  follows csf on all imaging sequences, no mass effect with vascular structures passing through the region, sulci enlarged
-
-cystic mass: enhancing portion of cystic mass
-
-
-Keywords by value: 
-- dwi/adc: 0.10514706543231406
-- *: 0.07278176653193999
-- arachnoid: 0.065720354799757
-- effect: 0.061746086797331526
-- flair: 0.05996446873493245
-- cyst: 0.05858089632719649
-- csf: 0.054619811507234876
-- sequences: 0.054619811507234876
-- structures: 0.05035814517604154
-- cystic: 0.05029862667860731
-- mass: 0.048508612528472016
-- follows: 0.04689806855908562
-- -conservative: 0.0449771348161556
-- 4th: 0.043925090994384165
-- epidermoid: 0.04153659485309436
-- suppresses: 0.04144066960921711
-- imaging: 0.04085864947868577
-- restricted: 0.04012976021816456
-- insinuating: 0.039371970078053
-- diffusion: 0.039031488134569
-- -surgical: 0.035835504871114504
-- on: 0.03323989342494313
-- intrathecal: 0.033229251688634956
-- ventricle: 0.03267745222018804
-- quadrigeminal: 0.03189065850257633
-- encasement: 0.03189065850257633
-- encephalomalacia: 0.03189065850257633
-- sequela: 0.031160552157470853
-- determining: 0.028762574457237507
-- t1: 0.027637709553308607
-- remodeling: 0.027624086950532357
-- passing: 0.027294808781463117
-- post-gadolinium: 0.02713781052295927
-- show: 0.026766897290730875
-- distortion: 0.02590739186573025
-- key: 0.02567004484718488
-- sulci: 0.024916799955317204
-- all: 0.024662484586033578
-- if: 0.02366064728347587
-- dizziness: 0.023374550609026726
-- differentiation: 0.023228768096557054
-- opacification: 0.023087035626622995
-- :: 0.023066832979401326
-- signal: 0.022990554390538556
-- atrophy: 0.022493873350521658
-- standard: 0.02231054677283766
-- plate: 0.021851627198026743
-- nature: 0.02063690714031037
-- discussion: 0.020425173819357552
-- 22: 0.019446796520515505
-- appearing: 0.01937876830179374
-- may: 0.019125799682633914
-- causing: 0.01883446145185326
-- neurologic: 0.018206603835744958
-- appear: 0.01784386954144021
-- delayed: 0.017744797674822347
-- bony: 0.017435488379840536
-- similar: 0.017100441933371877
-- causes: 0.016972350499029648
-- could: 0.01608447930525792
-- portion: 0.015791870649791255
-- intensity: 0.015758523859078066
-- otherwise: 0.015659771599114004
-- headache: 0.014974415497784683
-- enlarged: 0.014875617706040848
-- cause: 0.01475133993138758
-- asymptomatic: 0.014737716316306566
-- masses: 0.014737716316306566
-- ): 0.014561993716598063
-- vascular: 0.014294914632263758
-- superior: 0.01392216171966424
-- should: 0.01389902317290204
-- adjacent: 0.013784878796603403
-- aspect: 0.01369536701267019
-- enhancing: 0.013673232310636526
-- examination: 0.013553178752421251
-- no: 0.013170063531180642
-- see: 0.013011312302187694
-- ,: 0.012430564232936666
-- through: 0.01238243376745341
-- t2: 0.012339738616073223
-- region: 0.012314291975710778
-- y/o: 0.012074637907243063
-- significant: 0.011723709954358282
-- enhancement: 0.011686167174097121
-- mild: 0.011480884969036412
-- these: 0.01134614638754
-- more: 0.010903960761796765
-- symptoms: 0.01086559937192928
-- increased: 0.010665738682651305
-- 1: 0.010374114122243401
-- associated: 0.010288074295447458
-- or: 0.010219619887384769
-- 3: 0.010209058809727242
-- contrast: 0.009759059626570945
-- 2: 0.009388288247502785
-- images: 0.008363591285455888
-- male: 0.007883701723915679
-- normal: 0.006834757421423985
-- are: 0.005943234043518376
-- at: 0.005906954861385883
-- and: 0.00551047976731281
-- for: 0.0037199395338914035
-- (: 0.0036855190114482676
-- of: 0.0035664428815710743
-- with: 0.002984800410456371
-- the: 0.0014107069867716918
-- .: 0.0005433602463879532
+\-\ Texto\\:\\ \ \(0\)\
+\-\ normal\\ neurologic\\ examination\ \(0\)\
+\-\ conservative\\ if\\ asymptomatic\ \(0\)\
+\-\ surgical\\ if\\ causing\\ significant\\ symptoms\\ or\\ sequela\\ of\\ associated\\ mass\\ effect\ \(0\)\
+\-\ csf\\ signal\\ intensity\\ mass\\ at\\ superior\\ aspect\\ of\\ 4th\\ ventricle\\ with\\ mass\\ effect\\ on\\ quadrigeminal\\ plate\\ and\\ distortion\\ of\\ 4th\\ ventricle\ \(0\)\
+\-\ arachnoid\\ cyst\ \(53\)\
+\-\ 1\\)\\ arachnoid\\ cyst\ \(0\)\
+\-\ 2\\)\\ epidermoid\\ cyst\ \(0\)\
+\-\ 3\\)\\ cystic\\ mass\\ \ \(0\)\
+\-\ \\*\\ see\\ discussion\\ for\\ imaging\\ differentiation\\.\ \(0\)\
+\-\ 22\\ y\\/o\\ male\\ with\\ mild\\ dizziness\\ and\\ headache\ \(1\)\
+\-\ \\*\\*flair\\,\\ dwi\\/adc\\,\\ and\\ post\\-gadolinium\\ t1\\ are\\ key\\ imaging\\ sequences\\ determining\\ the\\ nature\\ of\\ cystic\\ appearing\\ masses\\.\\ \\ these\\ otherwise\\ could\\ appear\\ similar\\ on\\ standard\\ t1\\ and\\ t2\\ imaging\\.\ \(0\)\
+\-\ arachnoid\\ cyst\\:\\ \\ follows\\ csf\\ on\\ all\\ sequences\\ \\(suppresses\\ on\\ flair\\ and\\ no\\ restricted\\ diffusion\\ on\\ dwi\\/adc\\)\\,\\ causes\\ mass\\ effect\\ on\\ adjacent\\ structures\\,\\ may\\ cause\\ bony\\ remodeling\\,\\ may\\ show\\ delayed\\ opacification\\ with\\ intrathecal\\ contrast\\,\\ no\\ enhancement\ \(0\)\
+\-\ epidermoid\\ cyst\\:\\ \\ should\\ show\\ increased\\ signal\\ on\\ flair\\ images\\ and\\ restricted\\ diffusion\\ on\\ dwi\\/adc\\,\\ more\\ insinuating\\ with\\ encasement\\ of\\ structures\ \(0\)\
+\-\ atrophy\\ or\\ encephalomalacia\\:\\ \\ follows\\ csf\\ on\\ all\\ imaging\\ sequences\\,\\ no\\ mass\\ effect\\ with\\ vascular\\ structures\\ passing\\ through\\ the\\ region\\,\\ sulci\\ enlarged\ \(0\)\
+\-\ cystic\\ mass\\:\\ enhancing\\ portion\\ of\\ cystic\\ mass\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ dwi\\/adc\\:\\ 0\\.10514706543231406\ \(0\)\
+\-\ \\*\\:\\ 0\\.07278176653193999\ \(0\)\
+\-\ arachnoid\\:\\ 0\\.065720354799757\ \(0\)\
+\-\ effect\\:\\ 0\\.061746086797331526\ \(0\)\
+\-\ flair\\:\\ 0\\.05996446873493245\ \(0\)\
+\-\ cyst\\:\\ 0\\.05858089632719649\ \(0\)\
+\-\ csf\\:\\ 0\\.054619811507234876\ \(0\)\
+\-\ sequences\\:\\ 0\\.054619811507234876\ \(0\)\
+\-\ structures\\:\\ 0\\.05035814517604154\ \(0\)\
+\-\ cystic\\:\\ 0\\.05029862667860731\ \(0\)\
+\-\ mass\\:\\ 0\\.048508612528472016\ \(0\)\
+\-\ follows\\:\\ 0\\.04689806855908562\ \(0\)\
+\-\ \\-conservative\\:\\ 0\\.0449771348161556\ \(0\)\
+\-\ 4th\\:\\ 0\\.043925090994384165\ \(0\)\
+\-\ epidermoid\\:\\ 0\\.04153659485309436\ \(0\)\
+\-\ suppresses\\:\\ 0\\.04144066960921711\ \(0\)\
+\-\ imaging\\:\\ 0\\.04085864947868577\ \(0\)\
+\-\ restricted\\:\\ 0\\.04012976021816456\ \(0\)\
+\-\ insinuating\\:\\ 0\\.039371970078053\ \(0\)\
+\-\ diffusion\\:\\ 0\\.039031488134569\ \(0\)\
+\-\ \\-surgical\\:\\ 0\\.035835504871114504\ \(0\)\
+\-\ on\\:\\ 0\\.03323989342494313\ \(0\)\
+\-\ intrathecal\\:\\ 0\\.033229251688634956\ \(0\)\
+\-\ ventricle\\:\\ 0\\.03267745222018804\ \(0\)\
+\-\ quadrigeminal\\:\\ 0\\.03189065850257633\ \(0\)\
+\-\ encasement\\:\\ 0\\.03189065850257633\ \(0\)\
+\-\ encephalomalacia\\:\\ 0\\.03189065850257633\ \(0\)\
+\-\ sequela\\:\\ 0\\.031160552157470853\ \(0\)\
+\-\ determining\\:\\ 0\\.028762574457237507\ \(0\)\
+\-\ t1\\:\\ 0\\.027637709553308607\ \(0\)\
+\-\ remodeling\\:\\ 0\\.027624086950532357\ \(0\)\
+\-\ passing\\:\\ 0\\.027294808781463117\ \(0\)\
+\-\ post\\-gadolinium\\:\\ 0\\.02713781052295927\ \(0\)\
+\-\ show\\:\\ 0\\.026766897290730875\ \(0\)\
+\-\ distortion\\:\\ 0\\.02590739186573025\ \(0\)\
+\-\ key\\:\\ 0\\.02567004484718488\ \(0\)\
+\-\ sulci\\:\\ 0\\.024916799955317204\ \(0\)\
+\-\ all\\:\\ 0\\.024662484586033578\ \(0\)\
+\-\ if\\:\\ 0\\.02366064728347587\ \(0\)\
+\-\ dizziness\\:\\ 0\\.023374550609026726\ \(0\)\
+\-\ differentiation\\:\\ 0\\.023228768096557054\ \(0\)\
+\-\ opacification\\:\\ 0\\.023087035626622995\ \(0\)\
+\-\ \\:\\:\\ 0\\.023066832979401326\ \(0\)\
+\-\ signal\\:\\ 0\\.022990554390538556\ \(0\)\
+\-\ atrophy\\:\\ 0\\.022493873350521658\ \(0\)\
+\-\ standard\\:\\ 0\\.02231054677283766\ \(0\)\
+\-\ plate\\:\\ 0\\.021851627198026743\ \(0\)\
+\-\ nature\\:\\ 0\\.02063690714031037\ \(0\)\
+\-\ discussion\\:\\ 0\\.020425173819357552\ \(0\)\
+\-\ 22\\:\\ 0\\.019446796520515505\ \(0\)\
+\-\ appearing\\:\\ 0\\.01937876830179374\ \(0\)\
+\-\ may\\:\\ 0\\.019125799682633914\ \(0\)\
+\-\ causing\\:\\ 0\\.01883446145185326\ \(0\)\
+\-\ neurologic\\:\\ 0\\.018206603835744958\ \(0\)\
+\-\ appear\\:\\ 0\\.01784386954144021\ \(0\)\
+\-\ delayed\\:\\ 0\\.017744797674822347\ \(0\)\
+\-\ bony\\:\\ 0\\.017435488379840536\ \(0\)\
+\-\ similar\\:\\ 0\\.017100441933371877\ \(0\)\
+\-\ causes\\:\\ 0\\.016972350499029648\ \(0\)\
+\-\ could\\:\\ 0\\.01608447930525792\ \(0\)\
+\-\ portion\\:\\ 0\\.015791870649791255\ \(0\)\
+\-\ intensity\\:\\ 0\\.015758523859078066\ \(0\)\
+\-\ otherwise\\:\\ 0\\.015659771599114004\ \(0\)\
+\-\ headache\\:\\ 0\\.014974415497784683\ \(0\)\
+\-\ enlarged\\:\\ 0\\.014875617706040848\ \(0\)\
+\-\ cause\\:\\ 0\\.01475133993138758\ \(0\)\
+\-\ asymptomatic\\:\\ 0\\.014737716316306566\ \(0\)\
+\-\ masses\\:\\ 0\\.014737716316306566\ \(0\)\
+\-\ \\)\\:\\ 0\\.014561993716598063\ \(0\)\
+\-\ vascular\\:\\ 0\\.014294914632263758\ \(0\)\
+\-\ superior\\:\\ 0\\.01392216171966424\ \(0\)\
+\-\ should\\:\\ 0\\.01389902317290204\ \(0\)\
+\-\ adjacent\\:\\ 0\\.013784878796603403\ \(0\)\
+\-\ aspect\\:\\ 0\\.01369536701267019\ \(0\)\
+\-\ enhancing\\:\\ 0\\.013673232310636526\ \(0\)\
+\-\ examination\\:\\ 0\\.013553178752421251\ \(0\)\
+\-\ no\\:\\ 0\\.013170063531180642\ \(0\)\
+\-\ see\\:\\ 0\\.013011312302187694\ \(0\)\
+\-\ \\,\\:\\ 0\\.012430564232936666\ \(0\)\
+\-\ through\\:\\ 0\\.01238243376745341\ \(0\)\
+\-\ t2\\:\\ 0\\.012339738616073223\ \(0\)\
+\-\ region\\:\\ 0\\.012314291975710778\ \(0\)\
+\-\ y\\/o\\:\\ 0\\.012074637907243063\ \(0\)\
+\-\ significant\\:\\ 0\\.011723709954358282\ \(0\)\
+\-\ enhancement\\:\\ 0\\.011686167174097121\ \(0\)\
+\-\ mild\\:\\ 0\\.011480884969036412\ \(0\)\
+\-\ these\\:\\ 0\\.01134614638754\ \(0\)\
+\-\ more\\:\\ 0\\.010903960761796765\ \(0\)\
+\-\ symptoms\\:\\ 0\\.01086559937192928\ \(0\)\
+\-\ increased\\:\\ 0\\.010665738682651305\ \(0\)\
+\-\ 1\\:\\ 0\\.010374114122243401\ \(0\)\
+\-\ associated\\:\\ 0\\.010288074295447458\ \(0\)\
+\-\ or\\:\\ 0\\.010219619887384769\ \(0\)\
+\-\ 3\\:\\ 0\\.010209058809727242\ \(0\)\
+\-\ contrast\\:\\ 0\\.009759059626570945\ \(0\)\
+\-\ 2\\:\\ 0\\.009388288247502785\ \(0\)\
+\-\ images\\:\\ 0\\.008363591285455888\ \(0\)\
+\-\ male\\:\\ 0\\.007883701723915679\ \(0\)\
+\-\ normal\\:\\ 0\\.006834757421423985\ \(0\)\
+\-\ are\\:\\ 0\\.005943234043518376\ \(0\)\
+\-\ at\\:\\ 0\\.005906954861385883\ \(0\)\
+\-\ and\\:\\ 0\\.00551047976731281\ \(0\)\
+\-\ for\\:\\ 0\\.0037199395338914035\ \(0\)\
+\-\ \\(\\:\\ 0\\.0036855190114482676\ \(0\)\
+\-\ of\\:\\ 0\\.0035664428815710743\ \(0\)\
+\-\ with\\:\\ 0\\.002984800410456371\ \(0\)\
+\-\ the\\:\\ 0\\.0014107069867716918\ \(0\)\
+\-\ \\.\\:\\ 0\\.0005433602463879532\ \(0\)\

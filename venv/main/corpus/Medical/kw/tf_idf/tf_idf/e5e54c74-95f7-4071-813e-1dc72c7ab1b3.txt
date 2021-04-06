@@ -1,109 +1,107 @@
-Texto: 
-on physical exam the patient had a glasgow coma score (gcs) of 12 with signs of penetrating injury to his neck.
-ct angiogram of the head and neck vessels was obtained (fig. 1).  the next day, the patientâ€™s neurological status deteriorated and a non-contrast head ct was obtained (fig. 2).
-contrast enhanced ct angiogram of the head was performed which demonstrated a radiopaque foreign body in the expected location of the basilar artery with satisfactory collateral filling of the posterior cerebral arteries (fig. 1).   a subsequent non-contrast ct of the head was performed following onset of further neurological symptoms, which revealed interval displacement of the radiopaque foreign body to the left posterior cerebral artery (pca) with loss of gray white matter differentiation consistent with left pca territorial infarction from embolized ied fragment (fig. 2).
-ied fragment embolism to left posterior cerebral artery
-metal fragment embolism
-subarachnoid csf metal fragments
-a 20 year old man injured by an improvised explosive device (ied).
-
-
-Keywords by value: 
-- fig: 0.11193984972170025
-- ied: 0.09591951907502724
-- pca: 0.06535937665980147
-- radiopaque: 0.06330481566042626
-- fragment: 0.06266641227795104
-- metal: 0.059223731207389385
-- head: 0.05129314943013536
-- cerebral: 0.04699121431371541
-- foreign: 0.0445539496082371
-- embolism: 0.044241158050125524
-- non-contrast: 0.044138915606615085
-- angiogram: 0.04373954705653205
-- territorial: 0.04297550922437329
-- artery: 0.040389364954098395
-- deteriorated: 0.039308063824585224
-- neurological: 0.03912724456666395
-- satisfactory: 0.037162745792266895
-- glasgow: 0.03445996471413996
-- improvised: 0.03395567804850861
-- explosive: 0.03307179400267175
-- obtained: 0.032146731224802556
-- posterior: 0.03126410394765791
-- gcs: 0.03028823264872054
-- embolized: 0.03005303813776375
-- body: 0.029367869975545864
-- score: 0.029204664327842165
-- coma: 0.028473710155985987
-- device: 0.027259030570565352
-- (: 0.02675413800903187
-- injured: 0.02674242491149701
-- penetrating: 0.02662078724893247
-- neck: 0.026552837428767007
-- ): 0.02642732193012241
-- ct: 0.025297431817821014
-- performed: 0.0252124691135166
-- differentiation: 0.02408909284087398
-- basilar: 0.02372902160677337
-- collateral: 0.023659857154036054
-- fragments: 0.023659857154036054
-- next: 0.0229533418491444
-- interval: 0.022172198998318658
-- gray: 0.022120579025062762
-- expected: 0.022018825787349074
-- subarachnoid: 0.021968673702933497
-- 1: 0.02151668114243076
-- was: 0.020915926396056862
-- 2: 0.01947200525407985
-- displacement: 0.01937686153158052
-- enhanced: 0.019346365739428408
-- csf: 0.018880922496328105
-- arteries: 0.01871642203564011
-- 12: 0.018504753598530592
-- infarction: 0.018478880660466084
-- vessels: 0.01820232812847795
-- filling: 0.01820232812847795
-- matter: 0.017801481324871946
-- subsequent: 0.017600956073067785
-- which: 0.01687983690203755
-- 20: 0.01625669437120114
-- status: 0.016139297995670123
-- signs: 0.01591204197876219
-- location: 0.01577094014234864
-- left: 0.01517627411544309
-- white: 0.01499526038471967
-- revealed: 0.01451044386172536
-- injury: 0.014413801808935449
-- further: 0.014378011332276498
-- day: 0.014354284811391161
-- onset: 0.014272069978439945
-- â€™: 0.0135133689928331
-- demonstrated: 0.013266772393952207
-- loss: 0.013124149060679574
-- his: 0.013031158876438792
-- s: 0.012967024693727973
-- following: 0.012832157443921419
-- symptoms: 0.011268028978297031
-- physical: 0.011092620473974805
-- consistent: 0.011086234226620122
-- man: 0.01069276107455026
-- a: 0.010492058249169345
-- contrast: 0.010120506279406905
-- exam: 0.009932454708727714
-- had: 0.009755819149421736
-- patient: 0.009064464877422095
-- the: 0.00804625466529039
-- by: 0.00752841747748611
-- to: 0.006778858864174384
-- from: 0.006700718059016996
-- an: 0.006252195049125555
-- of: 0.006164222264443832
-- year: 0.00505875803848103
-- old: 0.00462928358128177
-- on: 0.003830111176536656
-- ,: 0.002864656777960713
-- with: 0.002476278859045285
-- in: 0.002229614974287063
-- and: 0.001904857203515539
-- .: 0.0018782823331929244
+\-\ Texto\\:\\ \ \(0\)\
+\-\ on\\ physical\\ exam\\ the\\ patient\\ had\\ a\\ glasgow\\ coma\\ score\\ \\(gcs\\)\\ of\\ 12\\ with\\ signs\\ of\\ penetrating\\ injury\\ to\\ his\\ neck\\.\ \(0\)\
+\-\ ct\\ angiogram\\ of\\ the\\ head\\ and\\ neck\\ vessels\\ was\\ obtained\\ \\(fig\\.\\ 1\\)\\.\\ \\ the\\ next\\ day\\,\\ the\\ patient\\â\\€\\™s\\ neurological\\ status\\ deteriorated\\ and\\ a\\ non\\-contrast\\ head\\ ct\\ was\\ obtained\\ \\(fig\\.\\ 2\\)\\.\ \(0\)\
+\-\ contrast\\ enhanced\\ ct\\ angiogram\\ of\\ the\\ head\\ was\\ performed\\ which\\ demonstrated\\ a\\ radiopaque\\ foreign\\ body\\ in\\ the\\ expected\\ location\\ of\\ the\\ basilar\\ artery\\ with\\ satisfactory\\ collateral\\ filling\\ of\\ the\\ posterior\\ cerebral\\ arteries\\ \\(fig\\.\\ 1\\)\\.\\ \\ \\ a\\ subsequent\\ non\\-contrast\\ ct\\ of\\ the\\ head\\ was\\ performed\\ following\\ onset\\ of\\ further\\ neurological\\ symptoms\\,\\ which\\ revealed\\ interval\\ displacement\\ of\\ the\\ radiopaque\\ foreign\\ body\\ to\\ the\\ left\\ posterior\\ cerebral\\ artery\\ \\(pca\\)\\ with\\ loss\\ of\\ gray\\ white\\ matter\\ differentiation\\ consistent\\ with\\ left\\ pca\\ territorial\\ infarction\\ from\\ embolized\\ ied\\ fragment\\ \\(fig\\.\\ 2\\)\\.\ \(0\)\
+\-\ ied\\ fragment\\ embolism\\ to\\ left\\ posterior\\ cerebral\\ artery\ \(0\)\
+\-\ metal\\ fragment\\ embolism\ \(0\)\
+\-\ subarachnoid\\ csf\\ metal\\ fragments\ \(0\)\
+\-\ a\\ 20\\ year\\ old\\ man\\ injured\\ by\\ an\\ improvised\\ explosive\\ device\\ \\(ied\\)\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ fig\\:\\ 0\\.11193984972170025\ \(0\)\
+\-\ ied\\:\\ 0\\.09591951907502724\ \(0\)\
+\-\ pca\\:\\ 0\\.06535937665980147\ \(0\)\
+\-\ radiopaque\\:\\ 0\\.06330481566042626\ \(0\)\
+\-\ fragment\\:\\ 0\\.06266641227795104\ \(0\)\
+\-\ metal\\:\\ 0\\.059223731207389385\ \(0\)\
+\-\ head\\:\\ 0\\.05129314943013536\ \(0\)\
+\-\ cerebral\\:\\ 0\\.04699121431371541\ \(0\)\
+\-\ foreign\\:\\ 0\\.0445539496082371\ \(0\)\
+\-\ embolism\\:\\ 0\\.044241158050125524\ \(0\)\
+\-\ non\\-contrast\\:\\ 0\\.044138915606615085\ \(0\)\
+\-\ angiogram\\:\\ 0\\.04373954705653205\ \(0\)\
+\-\ territorial\\:\\ 0\\.04297550922437329\ \(0\)\
+\-\ artery\\:\\ 0\\.040389364954098395\ \(0\)\
+\-\ deteriorated\\:\\ 0\\.039308063824585224\ \(0\)\
+\-\ neurological\\:\\ 0\\.03912724456666395\ \(0\)\
+\-\ satisfactory\\:\\ 0\\.037162745792266895\ \(0\)\
+\-\ glasgow\\:\\ 0\\.03445996471413996\ \(0\)\
+\-\ improvised\\:\\ 0\\.03395567804850861\ \(0\)\
+\-\ explosive\\:\\ 0\\.03307179400267175\ \(0\)\
+\-\ obtained\\:\\ 0\\.032146731224802556\ \(0\)\
+\-\ posterior\\:\\ 0\\.03126410394765791\ \(0\)\
+\-\ gcs\\:\\ 0\\.03028823264872054\ \(0\)\
+\-\ embolized\\:\\ 0\\.03005303813776375\ \(0\)\
+\-\ body\\:\\ 0\\.029367869975545864\ \(0\)\
+\-\ score\\:\\ 0\\.029204664327842165\ \(0\)\
+\-\ coma\\:\\ 0\\.028473710155985987\ \(0\)\
+\-\ device\\:\\ 0\\.027259030570565352\ \(0\)\
+\-\ \\(\\:\\ 0\\.02675413800903187\ \(0\)\
+\-\ injured\\:\\ 0\\.02674242491149701\ \(0\)\
+\-\ penetrating\\:\\ 0\\.02662078724893247\ \(0\)\
+\-\ neck\\:\\ 0\\.026552837428767007\ \(0\)\
+\-\ \\)\\:\\ 0\\.02642732193012241\ \(0\)\
+\-\ ct\\:\\ 0\\.025297431817821014\ \(0\)\
+\-\ performed\\:\\ 0\\.0252124691135166\ \(0\)\
+\-\ differentiation\\:\\ 0\\.02408909284087398\ \(0\)\
+\-\ basilar\\:\\ 0\\.02372902160677337\ \(0\)\
+\-\ collateral\\:\\ 0\\.023659857154036054\ \(0\)\
+\-\ fragments\\:\\ 0\\.023659857154036054\ \(0\)\
+\-\ next\\:\\ 0\\.0229533418491444\ \(0\)\
+\-\ interval\\:\\ 0\\.022172198998318658\ \(0\)\
+\-\ gray\\:\\ 0\\.022120579025062762\ \(0\)\
+\-\ expected\\:\\ 0\\.022018825787349074\ \(0\)\
+\-\ subarachnoid\\:\\ 0\\.021968673702933497\ \(0\)\
+\-\ 1\\:\\ 0\\.02151668114243076\ \(0\)\
+\-\ was\\:\\ 0\\.020915926396056862\ \(0\)\
+\-\ 2\\:\\ 0\\.01947200525407985\ \(0\)\
+\-\ displacement\\:\\ 0\\.01937686153158052\ \(0\)\
+\-\ enhanced\\:\\ 0\\.019346365739428408\ \(0\)\
+\-\ csf\\:\\ 0\\.018880922496328105\ \(0\)\
+\-\ arteries\\:\\ 0\\.01871642203564011\ \(0\)\
+\-\ 12\\:\\ 0\\.018504753598530592\ \(0\)\
+\-\ infarction\\:\\ 0\\.018478880660466084\ \(0\)\
+\-\ vessels\\:\\ 0\\.01820232812847795\ \(0\)\
+\-\ filling\\:\\ 0\\.01820232812847795\ \(0\)\
+\-\ matter\\:\\ 0\\.017801481324871946\ \(0\)\
+\-\ subsequent\\:\\ 0\\.017600956073067785\ \(0\)\
+\-\ which\\:\\ 0\\.01687983690203755\ \(0\)\
+\-\ 20\\:\\ 0\\.01625669437120114\ \(0\)\
+\-\ status\\:\\ 0\\.016139297995670123\ \(0\)\
+\-\ signs\\:\\ 0\\.01591204197876219\ \(0\)\
+\-\ location\\:\\ 0\\.01577094014234864\ \(0\)\
+\-\ left\\:\\ 0\\.01517627411544309\ \(0\)\
+\-\ white\\:\\ 0\\.01499526038471967\ \(0\)\
+\-\ revealed\\:\\ 0\\.01451044386172536\ \(0\)\
+\-\ injury\\:\\ 0\\.014413801808935449\ \(0\)\
+\-\ further\\:\\ 0\\.014378011332276498\ \(0\)\
+\-\ day\\:\\ 0\\.014354284811391161\ \(0\)\
+\-\ onset\\:\\ 0\\.014272069978439945\ \(0\)\
+\-\ \\â\\€\\™\\:\\ 0\\.0135133689928331\ \(0\)\
+\-\ demonstrated\\:\\ 0\\.013266772393952207\ \(0\)\
+\-\ loss\\:\\ 0\\.013124149060679574\ \(0\)\
+\-\ his\\:\\ 0\\.013031158876438792\ \(0\)\
+\-\ s\\:\\ 0\\.012967024693727973\ \(0\)\
+\-\ following\\:\\ 0\\.012832157443921419\ \(0\)\
+\-\ symptoms\\:\\ 0\\.011268028978297031\ \(0\)\
+\-\ physical\\:\\ 0\\.011092620473974805\ \(0\)\
+\-\ consistent\\:\\ 0\\.011086234226620122\ \(0\)\
+\-\ man\\:\\ 0\\.01069276107455026\ \(0\)\
+\-\ a\\:\\ 0\\.010492058249169345\ \(0\)\
+\-\ contrast\\:\\ 0\\.010120506279406905\ \(0\)\
+\-\ exam\\:\\ 0\\.009932454708727714\ \(0\)\
+\-\ had\\:\\ 0\\.009755819149421736\ \(0\)\
+\-\ patient\\:\\ 0\\.009064464877422095\ \(0\)\
+\-\ the\\:\\ 0\\.00804625466529039\ \(0\)\
+\-\ by\\:\\ 0\\.00752841747748611\ \(0\)\
+\-\ to\\:\\ 0\\.006778858864174384\ \(0\)\
+\-\ from\\:\\ 0\\.006700718059016996\ \(0\)\
+\-\ an\\:\\ 0\\.006252195049125555\ \(0\)\
+\-\ of\\:\\ 0\\.006164222264443832\ \(0\)\
+\-\ year\\:\\ 0\\.00505875803848103\ \(0\)\
+\-\ old\\:\\ 0\\.00462928358128177\ \(0\)\
+\-\ on\\:\\ 0\\.003830111176536656\ \(0\)\
+\-\ \\,\\:\\ 0\\.002864656777960713\ \(0\)\
+\-\ with\\:\\ 0\\.002476278859045285\ \(0\)\
+\-\ in\\:\\ 0\\.002229614974287063\ \(0\)\
+\-\ and\\:\\ 0\\.001904857203515539\ \(0\)\
+\-\ \\.\\:\\ 0\\.0018782823331929244\ \(0\)\

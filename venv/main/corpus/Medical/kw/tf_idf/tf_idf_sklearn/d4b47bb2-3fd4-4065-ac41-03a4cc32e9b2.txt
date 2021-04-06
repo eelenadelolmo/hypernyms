@@ -1,69 +1,67 @@
-Texto: 
-phyisical exam was unremarkable.  laboratory values were unremarkable.
--surgical excision
-a partially circumscribed nodular density is seen on screening mammography.  the spot images show that the density persists.  ultrasound confirms that there is a solid, benign-appearing mass with well circumscribed boarders, ovoid shape that is wider that deep.
-fibroadenoma
-1.	fibroadenoma
-2.	phylloides tumor
-3.	breast cancer
-4.	complex cyst
-49 year old female returning for repeat images of the left breast for a mammographic abnormality noted on her annual screening exam.
-
-
-Keywords by value: 
-- fibroadenoma: 0.2995104506063253
-- that: 0.23686721241346292
-- screening: 0.22169741191939066
-- circumscribed: 0.21134525262301188
-- boarders: 0.20852364158841313
-- phylloides: 0.20164190038584398
-- breast: 0.19818083270734993
-- phyisical: 0.19194263092184297
-- unremarkable: 0.1829601000720622
-- wider: 0.1822433614578419
-- density: 0.18096880745380042
-- returning: 0.17002372708007682
-- mammographic: 0.17002372708007682
-- persists: 0.16566235079127176
-- mammography: 0.14219959892213246
-- exam: 0.1373840753884943
-- ovoid: 0.13607732918560686
-- spot: 0.1331742146365925
-- confirms: 0.13184490922992073
-- shape: 0.12938928411713738
-- 49: 0.12881283834778742
-- images: 0.1262400045452456
-- annual: 0.12612221405433555
-- values: 0.12586907579942308
-- repeat: 0.11969001465313632
-- partially: 0.11711137603975862
-- is: 0.1121082391271996
-- nodular: 0.10866669664257948
-- excision: 0.10758735528529173
-- deep: 0.10622004932756023
-- complex: 0.10513745092869052
-- solid: 0.10461398711203264
-- abnormality: 0.09925539177902219
-- laboratory: 0.09909041635367496
-- cancer: 0.09088936960880108
-- show: 0.08662543272910712
-- her: 0.08524999164398497
-- ultrasound: 0.08416861693705414
-- for: 0.08271755561833292
-- on: 0.08242413130867345
-- the: 0.08168377195808771
-- cyst: 0.07871645661671176
-- noted: 0.07234879145135904
-- tumor: 0.07137442489458996
-- were: 0.07033914458148363
-- well: 0.06607268618876817
-- female: 0.06584633201771618
-- seen: 0.0642423977514727
-- there: 0.054295433964345705
-- mass: 0.05212256372520542
-- was: 0.04755628016106927
-- left: 0.04654813060974033
-- year: 0.04205306426866939
-- old: 0.04038549872737484
-- with: 0.026719798159313756
-- of: 0.026703842619711652
+\-\ Texto\\:\\ \ \(0\)\
+\-\ phyisical\\ exam\\ was\\ unremarkable\\.\\ \\ laboratory\\ values\\ were\\ unremarkable\\.\ \(0\)\
+\-\ surgical\\ excision\ \(50\)\
+\-\ a\\ partially\\ circumscribed\\ nodular\\ density\\ is\\ seen\\ on\\ screening\\ mammography\\.\\ \\ the\\ spot\\ images\\ show\\ that\\ the\\ density\\ persists\\.\\ \\ ultrasound\\ confirms\\ that\\ there\\ is\\ a\\ solid\\,\\ benign\\-appearing\\ mass\\ with\\ well\\ circumscribed\\ boarders\\,\\ ovoid\\ shape\\ that\\ is\\ wider\\ that\\ deep\\.\ \(0\)\
+\-\ fibroadenoma\ \(22\)\
+\-\ 1\\.\\	fibroadenoma\ \(0\)\
+\-\ 2\\.\\	phylloides\\ tumor\ \(0\)\
+\-\ 3\\.\\	breast\\ cancer\ \(0\)\
+\-\ 4\\.\\	complex\\ cyst\ \(0\)\
+\-\ 49\\ year\\ old\\ female\\ returning\\ for\\ repeat\\ images\\ of\\ the\\ left\\ breast\\ for\\ a\\ mammographic\\ abnormality\\ noted\\ on\\ her\\ annual\\ screening\\ exam\\.\ \(1\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ fibroadenoma\\:\\ 0\\.2995104506063253\ \(0\)\
+\-\ that\\:\\ 0\\.23686721241346292\ \(0\)\
+\-\ screening\\:\\ 0\\.22169741191939066\ \(0\)\
+\-\ circumscribed\\:\\ 0\\.21134525262301188\ \(0\)\
+\-\ boarders\\:\\ 0\\.20852364158841313\ \(0\)\
+\-\ phylloides\\:\\ 0\\.20164190038584398\ \(0\)\
+\-\ breast\\:\\ 0\\.19818083270734993\ \(0\)\
+\-\ phyisical\\:\\ 0\\.19194263092184297\ \(0\)\
+\-\ unremarkable\\:\\ 0\\.1829601000720622\ \(0\)\
+\-\ wider\\:\\ 0\\.1822433614578419\ \(0\)\
+\-\ density\\:\\ 0\\.18096880745380042\ \(0\)\
+\-\ returning\\:\\ 0\\.17002372708007682\ \(0\)\
+\-\ mammographic\\:\\ 0\\.17002372708007682\ \(0\)\
+\-\ persists\\:\\ 0\\.16566235079127176\ \(0\)\
+\-\ mammography\\:\\ 0\\.14219959892213246\ \(0\)\
+\-\ exam\\:\\ 0\\.1373840753884943\ \(0\)\
+\-\ ovoid\\:\\ 0\\.13607732918560686\ \(0\)\
+\-\ spot\\:\\ 0\\.1331742146365925\ \(0\)\
+\-\ confirms\\:\\ 0\\.13184490922992073\ \(0\)\
+\-\ shape\\:\\ 0\\.12938928411713738\ \(0\)\
+\-\ 49\\:\\ 0\\.12881283834778742\ \(0\)\
+\-\ images\\:\\ 0\\.1262400045452456\ \(0\)\
+\-\ annual\\:\\ 0\\.12612221405433555\ \(0\)\
+\-\ values\\:\\ 0\\.12586907579942308\ \(0\)\
+\-\ repeat\\:\\ 0\\.11969001465313632\ \(0\)\
+\-\ partially\\:\\ 0\\.11711137603975862\ \(0\)\
+\-\ is\\:\\ 0\\.1121082391271996\ \(0\)\
+\-\ nodular\\:\\ 0\\.10866669664257948\ \(0\)\
+\-\ excision\\:\\ 0\\.10758735528529173\ \(0\)\
+\-\ deep\\:\\ 0\\.10622004932756023\ \(0\)\
+\-\ complex\\:\\ 0\\.10513745092869052\ \(0\)\
+\-\ solid\\:\\ 0\\.10461398711203264\ \(0\)\
+\-\ abnormality\\:\\ 0\\.09925539177902219\ \(0\)\
+\-\ laboratory\\:\\ 0\\.09909041635367496\ \(0\)\
+\-\ cancer\\:\\ 0\\.09088936960880108\ \(0\)\
+\-\ show\\:\\ 0\\.08662543272910712\ \(0\)\
+\-\ her\\:\\ 0\\.08524999164398497\ \(0\)\
+\-\ ultrasound\\:\\ 0\\.08416861693705414\ \(0\)\
+\-\ for\\:\\ 0\\.08271755561833292\ \(0\)\
+\-\ on\\:\\ 0\\.08242413130867345\ \(0\)\
+\-\ the\\:\\ 0\\.08168377195808771\ \(0\)\
+\-\ cyst\\:\\ 0\\.07871645661671176\ \(0\)\
+\-\ noted\\:\\ 0\\.07234879145135904\ \(0\)\
+\-\ tumor\\:\\ 0\\.07137442489458996\ \(0\)\
+\-\ were\\:\\ 0\\.07033914458148363\ \(0\)\
+\-\ well\\:\\ 0\\.06607268618876817\ \(0\)\
+\-\ female\\:\\ 0\\.06584633201771618\ \(0\)\
+\-\ seen\\:\\ 0\\.0642423977514727\ \(0\)\
+\-\ there\\:\\ 0\\.054295433964345705\ \(0\)\
+\-\ mass\\:\\ 0\\.05212256372520542\ \(0\)\
+\-\ was\\:\\ 0\\.04755628016106927\ \(0\)\
+\-\ left\\:\\ 0\\.04654813060974033\ \(0\)\
+\-\ year\\:\\ 0\\.04205306426866939\ \(0\)\
+\-\ old\\:\\ 0\\.04038549872737484\ \(0\)\
+\-\ with\\:\\ 0\\.026719798159313756\ \(0\)\
+\-\ of\\:\\ 0\\.026703842619711652\ \(0\)\

@@ -1,46 +1,44 @@
-Texto: 
-n/a
-surgical resection
-chemotherapy
-gastric wall thickening
-linitis plastica
-primary gastric adenocarcinoma
-lymphoma
-metastatic disease
-46 year old male with stage iv gastric carcinoma
-pathology report-gastric signet ring cell stomach carcinoma poorly differentiated (linitis plastica)
-
-
-Keywords by value: 
-- linitis: 0.4171300613674805
-- plastica: 0.4171300613674805
-- gastric: 0.30959239055695
-- report-gastric: 0.23825725470179726
-- signet: 0.20078983953639482
-- carcinoma: 0.13091500919004684
-- differentiated: 0.12343305897073349
-- 46: 0.12229889142751642
-- poorly: 0.11273317634662502
-- ring: 0.1073332793921056
-- stomach: 0.10212340058250999
-- adenocarcinoma: 0.09977174174495242
-- stage: 0.09851444402509045
-- pathology: 0.09452428189519681
-- iv: 0.08428175506651606
-- n/a: 0.08365423371240775
-- chemotherapy: 0.08278231851732068
-- thickening: 0.07828715053225276
-- resection: 0.0720247474464924
-- primary: 0.06841579088907287
-- wall: 0.06689619243888503
-- lymphoma: 0.06600536849701313
-- cell: 0.062384884096796926
-- metastatic: 0.058138091989624066
-- surgical: 0.04854653433112037
-- male: 0.041762311834796575
-- disease: 0.03774966327610011
-- year: 0.025840682953322022
-- old: 0.023646880996277153
-- (: 0.019523289898482718
-- ): 0.019284802489548787
-- with: 0.0031622750294564793
+\-\ Texto\\:\\ \ \(0\)\
+\-\ n\\/a\ \(127\)\
+\-\ surgical\\ resection\ \(126\)\
+\-\ chemotherapy\ \(327\)\
+\-\ gastric\\ wall\\ thickening\ \(3\)\
+\-\ linitis\\ plastica\ \(3\)\
+\-\ primary\\ gastric\\ adenocarcinoma\ \(4\)\
+\-\ lymphoma\ \(373\)\
+\-\ metastatic\\ disease\ \(243\)\
+\-\ 46\\ year\\ old\\ male\\ with\\ stage\\ iv\\ gastric\\ carcinoma\ \(0\)\
+\-\ pathology\\ report\\-gastric\\ signet\\ ring\\ cell\\ stomach\\ carcinoma\\ poorly\\ differentiated\\ \\(linitis\\ plastica\\)\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ linitis\\:\\ 0\\.4171300613674805\ \(0\)\
+\-\ plastica\\:\\ 0\\.4171300613674805\ \(0\)\
+\-\ gastric\\:\\ 0\\.30959239055695\ \(0\)\
+\-\ report\\-gastric\\:\\ 0\\.23825725470179726\ \(0\)\
+\-\ signet\\:\\ 0\\.20078983953639482\ \(0\)\
+\-\ carcinoma\\:\\ 0\\.13091500919004684\ \(0\)\
+\-\ differentiated\\:\\ 0\\.12343305897073349\ \(0\)\
+\-\ 46\\:\\ 0\\.12229889142751642\ \(0\)\
+\-\ poorly\\:\\ 0\\.11273317634662502\ \(0\)\
+\-\ ring\\:\\ 0\\.1073332793921056\ \(0\)\
+\-\ stomach\\:\\ 0\\.10212340058250999\ \(0\)\
+\-\ adenocarcinoma\\:\\ 0\\.09977174174495242\ \(0\)\
+\-\ stage\\:\\ 0\\.09851444402509045\ \(0\)\
+\-\ pathology\\:\\ 0\\.09452428189519681\ \(0\)\
+\-\ iv\\:\\ 0\\.08428175506651606\ \(0\)\
+\-\ n\\/a\\:\\ 0\\.08365423371240775\ \(0\)\
+\-\ chemotherapy\\:\\ 0\\.08278231851732068\ \(0\)\
+\-\ thickening\\:\\ 0\\.07828715053225276\ \(0\)\
+\-\ resection\\:\\ 0\\.0720247474464924\ \(0\)\
+\-\ primary\\:\\ 0\\.06841579088907287\ \(0\)\
+\-\ wall\\:\\ 0\\.06689619243888503\ \(0\)\
+\-\ lymphoma\\:\\ 0\\.06600536849701313\ \(0\)\
+\-\ cell\\:\\ 0\\.062384884096796926\ \(0\)\
+\-\ metastatic\\:\\ 0\\.058138091989624066\ \(0\)\
+\-\ surgical\\:\\ 0\\.04854653433112037\ \(0\)\
+\-\ male\\:\\ 0\\.041762311834796575\ \(0\)\
+\-\ disease\\:\\ 0\\.03774966327610011\ \(0\)\
+\-\ year\\:\\ 0\\.025840682953322022\ \(0\)\
+\-\ old\\:\\ 0\\.023646880996277153\ \(0\)\
+\-\ \\(\\:\\ 0\\.019523289898482718\ \(0\)\
+\-\ \\)\\:\\ 0\\.019284802489548787\ \(0\)\
+\-\ with\\:\\ 0\\.0031622750294564793\ \(0\)\

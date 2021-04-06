@@ -1,92 +1,90 @@
-Texto: 
-none
-conservative management as symptoms indicate- maintain abcâ€™s, control blood pressure, monitor vital signs, and correct any underlying disorder/cause.  f/u with serial ctâ€™s to monitor resolution.
-non-contrast head ct showing right frontal hemorrhage with surrounding vasogenic edema, mass effect, and minimal left subfalcine herniation.  ventricles appear normal for patientâ€™s age with no signs of obstruction.
-traumatic intracerebral hematoma
-trauma (penetrating, accelerating-decelerating, skull fracture, blunt), hypertension, aneurysm, avm, tumor, coagulopathy, drugs (i.e. anticoagulants).
-39 y/o woman with history of seizure disorder and recent blunt head trauma.
-right frontal intraparenchymal hemorrhage with surrounding vasogenic edema and subfalcine herniation due to head trauma.
-
-
-Keywords by value: 
-- subfalcine: 0.09868080804503716
-- blunt: 0.07730221753427562
-- monitor: 0.0737011318997738
-- vasogenic: 0.07008884366575867
-- indicate-: 0.06678423048459468
-- disorder/cause: 0.06678423048459468
-- accelerating-decelerating: 0.06678423048459468
-- â€™: 0.058046062264669455
-- herniation: 0.05764974439197337
-- s: 0.05569926516169516
-- head: 0.05508184796758855
-- trauma: 0.05311383594904384
-- anticoagulants: 0.05204248693114534
-- coagulopathy: 0.04735279595837092
-- abc: 0.04679137192690333
-- intracerebral: 0.04626869865806279
-- signs: 0.04556630203009174
-- hemorrhage: 0.04309479672993993
-- intraparenchymal: 0.04303048642452537
-- surrounding: 0.04256311006613281
-- frontal: 0.04067108991641451
-- f/u: 0.040295536837121344
-- maintain: 0.039636359738715064
-- penetrating: 0.03811612719733513
-- correct: 0.03794587828936499
-- edema: 0.036620052870171074
-- drugs: 0.035766468649578775
-- i.e: 0.03459866046906924
-- serial: 0.03228516312398453
-- non-contrast: 0.0315994509456449
-- vital: 0.030970686403440587
-- avm: 0.030837774966691274
-- ventricles: 0.030452483927043614
-- 39: 0.030085843465968994
-- showing: 0.029793306828637327
-- control: 0.029511647713169494
-- disorder: 0.029081702132923666
-- ,: 0.028711673615469873
-- seizure: 0.028625498648127797
-- resolution: 0.027921361432147157
-- underlying: 0.027744142647490297
-- skull: 0.02757097493479295
-- traumatic: 0.02711421561467083
-- appear: 0.02649544265244153
-- conservative: 0.025854856379501658
-- aneurysm: 0.025586659962449264
-- hypertension: 0.025521068578031728
-- minimal: 0.025488484624248468
-- pressure: 0.025423734165320754
-- management: 0.024428268511027588
-- hematoma: 0.023037627866834016
-- effect: 0.02292089585658519
-- obstruction: 0.022828788246889664
-- recent: 0.02176302309727119
-- any: 0.020385113886911315
-- age: 0.019703866102608384
-- ct: 0.018110661415030954
-- y/o: 0.017929007801663944
-- blood: 0.017669780852343178
-- due: 0.017274826916309393
-- fracture: 0.01706874492630893
-- symptoms: 0.016133768764379844
-- none: 0.016058481112939445
-- tumor: 0.015092668951597055
-- woman: 0.01495381020824929
-- right: 0.01366108650167298
-- (: 0.010944874640058493
-- ): 0.010811177153231896
-- normal: 0.01014857920150834
-- as: 0.009792253832531272
-- mass: 0.009003492476875489
-- history: 0.008941019225053663
-- left: 0.007243221736916021
-- no: 0.006518516293210621
-- patient: 0.006489332809972636
-- to: 0.006470728915802823
-- for: 0.00552354658062663
-- and: 0.005454818355521771
-- with: 0.004431976367041278
-- .: 0.0021514870362028047
-- of: 0.0017652091029998248
+\-\ Texto\\:\\ \ \(0\)\
+\-\ none\ \(204\)\
+\-\ conservative\\ management\\ as\\ symptoms\\ indicate\\-\\ maintain\\ abc\\â\\€\\™s\\,\\ control\\ blood\\ pressure\\,\\ monitor\\ vital\\ signs\\,\\ and\\ correct\\ any\\ underlying\\ disorder\\/cause\\.\\ \\ f\\/u\\ with\\ serial\\ ct\\â\\€\\™s\\ to\\ monitor\\ resolution\\.\ \(0\)\
+\-\ non\\-contrast\\ head\\ ct\\ showing\\ right\\ frontal\\ hemorrhage\\ with\\ surrounding\\ vasogenic\\ edema\\,\\ mass\\ effect\\,\\ and\\ minimal\\ left\\ subfalcine\\ herniation\\.\\ \\ ventricles\\ appear\\ normal\\ for\\ patient\\â\\€\\™s\\ age\\ with\\ no\\ signs\\ of\\ obstruction\\.\ \(0\)\
+\-\ traumatic\\ intracerebral\\ hematoma\ \(0\)\
+\-\ trauma\\ \\(penetrating\\,\\ accelerating\\-decelerating\\,\\ skull\\ fracture\\,\\ blunt\\)\\,\\ hypertension\\,\\ aneurysm\\,\\ avm\\,\\ tumor\\,\\ coagulopathy\\,\\ drugs\\ \\(i\\.e\\.\\ anticoagulants\\)\\.\ \(0\)\
+\-\ 39\\ y\\/o\\ woman\\ with\\ history\\ of\\ seizure\\ disorder\\ and\\ recent\\ blunt\\ head\\ trauma\\.\ \(1\)\
+\-\ right\\ frontal\\ intraparenchymal\\ hemorrhage\\ with\\ surrounding\\ vasogenic\\ edema\\ and\\ subfalcine\\ herniation\\ due\\ to\\ head\\ trauma\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ subfalcine\\:\\ 0\\.09868080804503716\ \(0\)\
+\-\ blunt\\:\\ 0\\.07730221753427562\ \(0\)\
+\-\ monitor\\:\\ 0\\.0737011318997738\ \(0\)\
+\-\ vasogenic\\:\\ 0\\.07008884366575867\ \(0\)\
+\-\ indicate\\-\\:\\ 0\\.06678423048459468\ \(0\)\
+\-\ disorder\\/cause\\:\\ 0\\.06678423048459468\ \(0\)\
+\-\ accelerating\\-decelerating\\:\\ 0\\.06678423048459468\ \(0\)\
+\-\ \\â\\€\\™\\:\\ 0\\.058046062264669455\ \(0\)\
+\-\ herniation\\:\\ 0\\.05764974439197337\ \(0\)\
+\-\ s\\:\\ 0\\.05569926516169516\ \(0\)\
+\-\ head\\:\\ 0\\.05508184796758855\ \(0\)\
+\-\ trauma\\:\\ 0\\.05311383594904384\ \(0\)\
+\-\ anticoagulants\\:\\ 0\\.05204248693114534\ \(0\)\
+\-\ coagulopathy\\:\\ 0\\.04735279595837092\ \(0\)\
+\-\ abc\\:\\ 0\\.04679137192690333\ \(0\)\
+\-\ intracerebral\\:\\ 0\\.04626869865806279\ \(0\)\
+\-\ signs\\:\\ 0\\.04556630203009174\ \(0\)\
+\-\ hemorrhage\\:\\ 0\\.04309479672993993\ \(0\)\
+\-\ intraparenchymal\\:\\ 0\\.04303048642452537\ \(0\)\
+\-\ surrounding\\:\\ 0\\.04256311006613281\ \(0\)\
+\-\ frontal\\:\\ 0\\.04067108991641451\ \(0\)\
+\-\ f\\/u\\:\\ 0\\.040295536837121344\ \(0\)\
+\-\ maintain\\:\\ 0\\.039636359738715064\ \(0\)\
+\-\ penetrating\\:\\ 0\\.03811612719733513\ \(0\)\
+\-\ correct\\:\\ 0\\.03794587828936499\ \(0\)\
+\-\ edema\\:\\ 0\\.036620052870171074\ \(0\)\
+\-\ drugs\\:\\ 0\\.035766468649578775\ \(0\)\
+\-\ i\\.e\\:\\ 0\\.03459866046906924\ \(0\)\
+\-\ serial\\:\\ 0\\.03228516312398453\ \(0\)\
+\-\ non\\-contrast\\:\\ 0\\.0315994509456449\ \(0\)\
+\-\ vital\\:\\ 0\\.030970686403440587\ \(0\)\
+\-\ avm\\:\\ 0\\.030837774966691274\ \(0\)\
+\-\ ventricles\\:\\ 0\\.030452483927043614\ \(0\)\
+\-\ 39\\:\\ 0\\.030085843465968994\ \(0\)\
+\-\ showing\\:\\ 0\\.029793306828637327\ \(0\)\
+\-\ control\\:\\ 0\\.029511647713169494\ \(0\)\
+\-\ disorder\\:\\ 0\\.029081702132923666\ \(0\)\
+\-\ \\,\\:\\ 0\\.028711673615469873\ \(0\)\
+\-\ seizure\\:\\ 0\\.028625498648127797\ \(0\)\
+\-\ resolution\\:\\ 0\\.027921361432147157\ \(0\)\
+\-\ underlying\\:\\ 0\\.027744142647490297\ \(0\)\
+\-\ skull\\:\\ 0\\.02757097493479295\ \(0\)\
+\-\ traumatic\\:\\ 0\\.02711421561467083\ \(0\)\
+\-\ appear\\:\\ 0\\.02649544265244153\ \(0\)\
+\-\ conservative\\:\\ 0\\.025854856379501658\ \(0\)\
+\-\ aneurysm\\:\\ 0\\.025586659962449264\ \(0\)\
+\-\ hypertension\\:\\ 0\\.025521068578031728\ \(0\)\
+\-\ minimal\\:\\ 0\\.025488484624248468\ \(0\)\
+\-\ pressure\\:\\ 0\\.025423734165320754\ \(0\)\
+\-\ management\\:\\ 0\\.024428268511027588\ \(0\)\
+\-\ hematoma\\:\\ 0\\.023037627866834016\ \(0\)\
+\-\ effect\\:\\ 0\\.02292089585658519\ \(0\)\
+\-\ obstruction\\:\\ 0\\.022828788246889664\ \(0\)\
+\-\ recent\\:\\ 0\\.02176302309727119\ \(0\)\
+\-\ any\\:\\ 0\\.020385113886911315\ \(0\)\
+\-\ age\\:\\ 0\\.019703866102608384\ \(0\)\
+\-\ ct\\:\\ 0\\.018110661415030954\ \(0\)\
+\-\ y\\/o\\:\\ 0\\.017929007801663944\ \(0\)\
+\-\ blood\\:\\ 0\\.017669780852343178\ \(0\)\
+\-\ due\\:\\ 0\\.017274826916309393\ \(0\)\
+\-\ fracture\\:\\ 0\\.01706874492630893\ \(0\)\
+\-\ symptoms\\:\\ 0\\.016133768764379844\ \(0\)\
+\-\ none\\:\\ 0\\.016058481112939445\ \(0\)\
+\-\ tumor\\:\\ 0\\.015092668951597055\ \(0\)\
+\-\ woman\\:\\ 0\\.01495381020824929\ \(0\)\
+\-\ right\\:\\ 0\\.01366108650167298\ \(0\)\
+\-\ \\(\\:\\ 0\\.010944874640058493\ \(0\)\
+\-\ \\)\\:\\ 0\\.010811177153231896\ \(0\)\
+\-\ normal\\:\\ 0\\.01014857920150834\ \(0\)\
+\-\ as\\:\\ 0\\.009792253832531272\ \(0\)\
+\-\ mass\\:\\ 0\\.009003492476875489\ \(0\)\
+\-\ history\\:\\ 0\\.008941019225053663\ \(0\)\
+\-\ left\\:\\ 0\\.007243221736916021\ \(0\)\
+\-\ no\\:\\ 0\\.006518516293210621\ \(0\)\
+\-\ patient\\:\\ 0\\.006489332809972636\ \(0\)\
+\-\ to\\:\\ 0\\.006470728915802823\ \(0\)\
+\-\ for\\:\\ 0\\.00552354658062663\ \(0\)\
+\-\ and\\:\\ 0\\.005454818355521771\ \(0\)\
+\-\ with\\:\\ 0\\.004431976367041278\ \(0\)\
+\-\ \\.\\:\\ 0\\.0021514870362028047\ \(0\)\
+\-\ of\\:\\ 0\\.0017652091029998248\ \(0\)\

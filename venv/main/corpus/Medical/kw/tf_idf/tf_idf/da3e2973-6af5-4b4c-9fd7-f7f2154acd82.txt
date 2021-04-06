@@ -1,91 +1,89 @@
-Texto: 
-none
-findings:  
-orbital images demonstrate asymmetric enlargement of the left inferior rectus
-and, to a lesser degree, right inferior rectus and medial rectus muscle bilaterally without evidence of muscular tendon insertion involvement.  
- 	following the administration of gadolinium, there is rather diffuse extraocular muscle enhancement, again to a greater degree involving the inferior and medial rectus muscles, left more than right.  there is no evidence of optic nerve abnormal enhancement or contour distortion.  the intraorbital and extraorbital fat also demonstrates normal signal intensity without evidence of retro-ocular masses or inflammatory changes.
-thyroid orbitopathy
-diff dx: dysthyroid ophthalmopathy, orbital pseudotumor, idiopathic inflammatory orbital myositis, neoplastic infiltration
-history:  mri-orbits: evaluate for thyroid orbitopathy
-
-
-Keywords by value: 
-- rectus: 0.1569624575574161
-- orbitopathy: 0.11148823737680068
-- orbital: 0.09650820212306528
-- dysthyroid: 0.06996443193624205
-- mri-orbits: 0.06996443193624205
-- inferior: 0.06903134193712054
-- extraorbital: 0.06446326383655994
-- degree: 0.06354498521577905
-- retro-ocular: 0.057191115170892044
-- thyroid: 0.05559226103055096
-- intraorbital: 0.053460927637195725
-- evidence: 0.053343871032544704
-- diff: 0.05024295058871823
-- ophthalmopathy: 0.04960769100400762
-- muscle: 0.04871928941946579
-- inflammatory: 0.04703676101892101
-- dx: 0.04441779840554204
-- medial: 0.04338570656492146
-- myositis: 0.042970801923050334
-- lesser: 0.04174738382918321
-- extraocular: 0.041523805440558635
-- muscular: 0.0403003873466915
-- distortion: 0.0403003873466915
-- pseudotumor: 0.03924061438935403
-- infiltration: 0.03695742333814941
-- insertion: 0.03671320382492121
-- enhancement: 0.03635696454163549
-- :: 0.03588174019017984
-- neoplastic: 0.03470529497996969
-- asymmetric: 0.032953010554400246
-- contour: 0.03287848880559199
-- again: 0.03258720811630289
-- rather: 0.03223752565762011
-- gadolinium: 0.03216940070768843
-- without: 0.031936716926320004
-- tendon: 0.03164448164019204
-- optic: 0.03139449221908592
-- muscles: 0.03097510744627338
-- idiopathic: 0.030916964270939467
-- administration: 0.028156033848437855
-- evaluate: 0.02741449411315137
-- enlargement: 0.026909273067342025
-- greater: 0.025473939346591278
-- involvement: 0.02485665600498267
-- intensity: 0.024513259336343657
-- nerve: 0.024436080368946872
-- involving: 0.023796883047645188
-- masses: 0.022925336492032437
-- bilaterally: 0.02227543840098336
-- fat: 0.020626288276838357
-- diffuse: 0.02053180492361361
-- there: 0.020185961213729977
-- changes: 0.01943688870027826
-- abnormal: 0.0193420019072612
-- following: 0.01924823616588213
-- signal: 0.01788154230375221
-- than: 0.017770229007287888
-- ,: 0.017187940667764277
-- more: 0.016961716740572747
-- none: 0.01682317068974608
-- or: 0.01589718649148742
-- demonstrate: 0.015606763026452704
-- left: 0.01517627411544309
-- demonstrates: 0.014814453981374492
-- findings: 0.01443521377611079
-- right: 0.014311614430324074
-- also: 0.013369996775159931
-- images: 0.013010030888486936
-- normal: 0.010631844877770642
-- history: 0.009366782045294312
-- is: 0.0089252504505512
-- no: 0.006828921830982555
-- to: 0.006778858864174384
-- a: 0.006295234949501607
-- for: 0.005786572608275516
-- and: 0.0057145716105466175
-- of: 0.004623166698332874
-- the: 0.004388866181067486
-- .: 0.0011269693999157546
+\-\ Texto\\:\\ \ \(0\)\
+\-\ none\ \(204\)\
+\-\ findings\\:\\ \\ \ \(14\)\
+\-\ orbital\\ images\\ demonstrate\\ asymmetric\\ enlargement\\ of\\ the\\ left\\ inferior\\ rectus\ \(0\)\
+\-\ and\\,\\ to\\ a\\ lesser\\ degree\\,\\ right\\ inferior\\ rectus\\ and\\ medial\\ rectus\\ muscle\\ bilaterally\\ without\\ evidence\\ of\\ muscular\\ tendon\\ insertion\\ involvement\\.\\ \\ \ \(1\)\
+\-\ \\ \\	following\\ the\\ administration\\ of\\ gadolinium\\,\\ there\\ is\\ rather\\ diffuse\\ extraocular\\ muscle\\ enhancement\\,\\ again\\ to\\ a\\ greater\\ degree\\ involving\\ the\\ inferior\\ and\\ medial\\ rectus\\ muscles\\,\\ left\\ more\\ than\\ right\\.\\ \\ there\\ is\\ no\\ evidence\\ of\\ optic\\ nerve\\ abnormal\\ enhancement\\ or\\ contour\\ distortion\\.\\ \\ the\\ intraorbital\\ and\\ extraorbital\\ fat\\ also\\ demonstrates\\ normal\\ signal\\ intensity\\ without\\ evidence\\ of\\ retro\\-ocular\\ masses\\ or\\ inflammatory\\ changes\\.\ \(0\)\
+\-\ thyroid\\ orbitopathy\ \(4\)\
+\-\ diff\\ dx\\:\\ dysthyroid\\ ophthalmopathy\\,\\ orbital\\ pseudotumor\\,\\ idiopathic\\ inflammatory\\ orbital\\ myositis\\,\\ neoplastic\\ infiltration\ \(0\)\
+\-\ history\\:\\ \\ mri\\-orbits\\:\\ evaluate\\ for\\ thyroid\\ orbitopathy\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ rectus\\:\\ 0\\.1569624575574161\ \(0\)\
+\-\ orbitopathy\\:\\ 0\\.11148823737680068\ \(0\)\
+\-\ orbital\\:\\ 0\\.09650820212306528\ \(0\)\
+\-\ dysthyroid\\:\\ 0\\.06996443193624205\ \(0\)\
+\-\ mri\\-orbits\\:\\ 0\\.06996443193624205\ \(0\)\
+\-\ inferior\\:\\ 0\\.06903134193712054\ \(0\)\
+\-\ extraorbital\\:\\ 0\\.06446326383655994\ \(0\)\
+\-\ degree\\:\\ 0\\.06354498521577905\ \(0\)\
+\-\ retro\\-ocular\\:\\ 0\\.057191115170892044\ \(0\)\
+\-\ thyroid\\:\\ 0\\.05559226103055096\ \(0\)\
+\-\ intraorbital\\:\\ 0\\.053460927637195725\ \(0\)\
+\-\ evidence\\:\\ 0\\.053343871032544704\ \(0\)\
+\-\ diff\\:\\ 0\\.05024295058871823\ \(0\)\
+\-\ ophthalmopathy\\:\\ 0\\.04960769100400762\ \(0\)\
+\-\ muscle\\:\\ 0\\.04871928941946579\ \(0\)\
+\-\ inflammatory\\:\\ 0\\.04703676101892101\ \(0\)\
+\-\ dx\\:\\ 0\\.04441779840554204\ \(0\)\
+\-\ medial\\:\\ 0\\.04338570656492146\ \(0\)\
+\-\ myositis\\:\\ 0\\.042970801923050334\ \(0\)\
+\-\ lesser\\:\\ 0\\.04174738382918321\ \(0\)\
+\-\ extraocular\\:\\ 0\\.041523805440558635\ \(0\)\
+\-\ muscular\\:\\ 0\\.0403003873466915\ \(0\)\
+\-\ distortion\\:\\ 0\\.0403003873466915\ \(0\)\
+\-\ pseudotumor\\:\\ 0\\.03924061438935403\ \(0\)\
+\-\ infiltration\\:\\ 0\\.03695742333814941\ \(0\)\
+\-\ insertion\\:\\ 0\\.03671320382492121\ \(0\)\
+\-\ enhancement\\:\\ 0\\.03635696454163549\ \(0\)\
+\-\ \\:\\:\\ 0\\.03588174019017984\ \(0\)\
+\-\ neoplastic\\:\\ 0\\.03470529497996969\ \(0\)\
+\-\ asymmetric\\:\\ 0\\.032953010554400246\ \(0\)\
+\-\ contour\\:\\ 0\\.03287848880559199\ \(0\)\
+\-\ again\\:\\ 0\\.03258720811630289\ \(0\)\
+\-\ rather\\:\\ 0\\.03223752565762011\ \(0\)\
+\-\ gadolinium\\:\\ 0\\.03216940070768843\ \(0\)\
+\-\ without\\:\\ 0\\.031936716926320004\ \(0\)\
+\-\ tendon\\:\\ 0\\.03164448164019204\ \(0\)\
+\-\ optic\\:\\ 0\\.03139449221908592\ \(0\)\
+\-\ muscles\\:\\ 0\\.03097510744627338\ \(0\)\
+\-\ idiopathic\\:\\ 0\\.030916964270939467\ \(0\)\
+\-\ administration\\:\\ 0\\.028156033848437855\ \(0\)\
+\-\ evaluate\\:\\ 0\\.02741449411315137\ \(0\)\
+\-\ enlargement\\:\\ 0\\.026909273067342025\ \(0\)\
+\-\ greater\\:\\ 0\\.025473939346591278\ \(0\)\
+\-\ involvement\\:\\ 0\\.02485665600498267\ \(0\)\
+\-\ intensity\\:\\ 0\\.024513259336343657\ \(0\)\
+\-\ nerve\\:\\ 0\\.024436080368946872\ \(0\)\
+\-\ involving\\:\\ 0\\.023796883047645188\ \(0\)\
+\-\ masses\\:\\ 0\\.022925336492032437\ \(0\)\
+\-\ bilaterally\\:\\ 0\\.02227543840098336\ \(0\)\
+\-\ fat\\:\\ 0\\.020626288276838357\ \(0\)\
+\-\ diffuse\\:\\ 0\\.02053180492361361\ \(0\)\
+\-\ there\\:\\ 0\\.020185961213729977\ \(0\)\
+\-\ changes\\:\\ 0\\.01943688870027826\ \(0\)\
+\-\ abnormal\\:\\ 0\\.0193420019072612\ \(0\)\
+\-\ following\\:\\ 0\\.01924823616588213\ \(0\)\
+\-\ signal\\:\\ 0\\.01788154230375221\ \(0\)\
+\-\ than\\:\\ 0\\.017770229007287888\ \(0\)\
+\-\ \\,\\:\\ 0\\.017187940667764277\ \(0\)\
+\-\ more\\:\\ 0\\.016961716740572747\ \(0\)\
+\-\ none\\:\\ 0\\.01682317068974608\ \(0\)\
+\-\ or\\:\\ 0\\.01589718649148742\ \(0\)\
+\-\ demonstrate\\:\\ 0\\.015606763026452704\ \(0\)\
+\-\ left\\:\\ 0\\.01517627411544309\ \(0\)\
+\-\ demonstrates\\:\\ 0\\.014814453981374492\ \(0\)\
+\-\ findings\\:\\ 0\\.01443521377611079\ \(0\)\
+\-\ right\\:\\ 0\\.014311614430324074\ \(0\)\
+\-\ also\\:\\ 0\\.013369996775159931\ \(0\)\
+\-\ images\\:\\ 0\\.013010030888486936\ \(0\)\
+\-\ normal\\:\\ 0\\.010631844877770642\ \(0\)\
+\-\ history\\:\\ 0\\.009366782045294312\ \(0\)\
+\-\ is\\:\\ 0\\.0089252504505512\ \(0\)\
+\-\ no\\:\\ 0\\.006828921830982555\ \(0\)\
+\-\ to\\:\\ 0\\.006778858864174384\ \(0\)\
+\-\ a\\:\\ 0\\.006295234949501607\ \(0\)\
+\-\ for\\:\\ 0\\.005786572608275516\ \(0\)\
+\-\ and\\:\\ 0\\.0057145716105466175\ \(0\)\
+\-\ of\\:\\ 0\\.004623166698332874\ \(0\)\
+\-\ the\\:\\ 0\\.004388866181067486\ \(0\)\
+\-\ \\.\\:\\ 0\\.0011269693999157546\ \(0\)\

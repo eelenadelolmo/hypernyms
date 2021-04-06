@@ -1,99 +1,97 @@
-Texto: 
-unremarkable
-the patient was scheduled for follow-up with gastroenterology for upper endoscopy.  treatment of a schatzki ring is ballon dilatation.
-single contrast barium esophagram demonstrating a smooth circumferential, annular constriction at the distal esophagus proximal to a small hiatal hernia.  a small outpouching of contrast along the posterior aspect of the ring may represent a small ulcer or diverticulum.  the patient was observed swallowing a 13mm barium tablet which passed through the ring.
-schatzki ring
-schatzki ring associated with hiatal hernia.
-34 year old man with a long history of intermittent dysphagia for solid foods referred by gastroenterology for an upper gi and barium swallow prior to endoscopy.
-this patient's schatzki ring was associated with a small hiatal hernia.  there was also a small outpouching of contrast consistent with a small ulceration or diverticulum.  upon further questioning the patient states he does experience episodic reflux symptoms.
-
-
-Keywords by value: 
-- schatzki: 0.1778166823984416
-- ring: 0.15081005079143953
-- hiatal: 0.0916430577987764
-- gastroenterology: 0.08244219406294244
-- barium: 0.07865866309185934
-- small: 0.07475602345751084
-- hernia: 0.071019201431633
-- outpouching: 0.0694090368834341
-- endoscopy: 0.06258629636783047
-- diverticulum: 0.05152640880510441
-- constriction: 0.048841178071508784
-- ballon: 0.04702040546105448
-- 13mm: 0.04347853338551383
-- tablet: 0.04122109703147122
-- episodic: 0.04006716312771201
-- foods: 0.03956056371205671
-- questioning: 0.03956056371205671
-- esophagram: 0.038654862170027136
-- contrast: 0.03631852569888428
-- annular: 0.03347568290728061
-- ulceration: 0.03329221748403218
-- circumferential: 0.03277172319139312
-- passed: 0.032607321378714256
-- swallow: 0.031562512832135466
-- swallowing: 0.030431552143886247
-- ulcer: 0.02977623139109612
-- experience: 0.029673316702034217
-- scheduled: 0.027244676692719294
-- 34: 0.0268405534522982
-- dysphagia: 0.026338975150689715
-- upper: 0.026102284878085042
-- observed: 0.025930503497920275
-- associated: 0.025524842555793695
-- states: 0.025441315685884536
-- a: 0.02510125327965831
-- was: 0.025019684106675617
-- reflux: 0.02498724033867668
-- gi: 0.02429610557940458
-- represent: 0.023752679689490706
-- smooth: 0.023673067143877666
-- demonstrating: 0.02347830981054378
-- esophagus: 0.02347830981054378
-- intermittent: 0.0232153414376775
-- dilatation: 0.02317865081942227
-- upon: 0.022104483828025885
-- single: 0.02192190057272425
-- patient: 0.021685871668769317
-- solid: 0.02157181425636949
-- referred: 0.020408426857314185
-- long: 0.018646971587548883
-- for: 0.018458434142853548
-- does: 0.018453297913822823
-- unremarkable: 0.01790548366254469
-- along: 0.017873758714294405
-- follow-up: 0.01759517083190976
-- further: 0.017199013555697838
-- aspect: 0.016989189458755424
-- proximal: 0.016237615074095033
-- through: 0.015360487458359927
-- he: 0.015089793304006453
-- distal: 0.014704294866747005
-- prior: 0.013886789697483313
-- symptoms: 0.01347884479049455
-- consistent: 0.013261381448298755
-- man: 0.012790707867658223
-- or: 0.012677503151439335
-- posterior: 0.012466066763939548
-- 's: 0.011924345685867373
-- may: 0.011862837777836227
-- treatment: 0.010946942782284095
-- also: 0.010662149327026273
-- which: 0.010095851817990815
-- by: 0.009005512045853637
-- there: 0.00804883263585436
-- an: 0.007478891546105885
-- history: 0.007469712263968882
-- at: 0.007327614891339449
-- the: 0.006124968309654307
-- this: 0.006083146919709703
-- year: 0.006051299172613384
-- old: 0.005537560739634522
-- to: 0.00540592542332894
-- with: 0.0037026638003129666
-- of: 0.0036868291391768493
-- is: 0.0035588023948400355
-- .: 0.0022468060821105237
-- ,: 0.0017133548450461225
-- and: 0.001139297504634294
+\-\ Texto\\:\\ \ \(0\)\
+\-\ unremarkable\ \(371\)\
+\-\ the\\ patient\\ was\\ scheduled\\ for\\ follow\\-up\\ with\\ gastroenterology\\ for\\ upper\\ endoscopy\\.\\ \\ treatment\\ of\\ a\\ schatzki\\ ring\\ is\\ ballon\\ dilatation\\.\ \(0\)\
+\-\ single\\ contrast\\ barium\\ esophagram\\ demonstrating\\ a\\ smooth\\ circumferential\\,\\ annular\\ constriction\\ at\\ the\\ distal\\ esophagus\\ proximal\\ to\\ a\\ small\\ hiatal\\ hernia\\.\\ \\ a\\ small\\ outpouching\\ of\\ contrast\\ along\\ the\\ posterior\\ aspect\\ of\\ the\\ ring\\ may\\ represent\\ a\\ small\\ ulcer\\ or\\ diverticulum\\.\\ \\ the\\ patient\\ was\\ observed\\ swallowing\\ a\\ 13mm\\ barium\\ tablet\\ which\\ passed\\ through\\ the\\ ring\\.\ \(0\)\
+\-\ schatzki\\ ring\ \(0\)\
+\-\ schatzki\\ ring\\ associated\\ with\\ hiatal\\ hernia\\.\ \(0\)\
+\-\ 34\\ year\\ old\\ man\\ with\\ a\\ long\\ history\\ of\\ intermittent\\ dysphagia\\ for\\ solid\\ foods\\ referred\\ by\\ gastroenterology\\ for\\ an\\ upper\\ gi\\ and\\ barium\\ swallow\\ prior\\ to\\ endoscopy\\.\ \(0\)\
+\-\ this\\ patient\\'s\\ schatzki\\ ring\\ was\\ associated\\ with\\ a\\ small\\ hiatal\\ hernia\\.\\ \\ there\\ was\\ also\\ a\\ small\\ outpouching\\ of\\ contrast\\ consistent\\ with\\ a\\ small\\ ulceration\\ or\\ diverticulum\\.\\ \\ upon\\ further\\ questioning\\ the\\ patient\\ states\\ he\\ does\\ experience\\ episodic\\ reflux\\ symptoms\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ schatzki\\:\\ 0\\.1778166823984416\ \(0\)\
+\-\ ring\\:\\ 0\\.15081005079143953\ \(0\)\
+\-\ hiatal\\:\\ 0\\.0916430577987764\ \(0\)\
+\-\ gastroenterology\\:\\ 0\\.08244219406294244\ \(0\)\
+\-\ barium\\:\\ 0\\.07865866309185934\ \(0\)\
+\-\ small\\:\\ 0\\.07475602345751084\ \(0\)\
+\-\ hernia\\:\\ 0\\.071019201431633\ \(0\)\
+\-\ outpouching\\:\\ 0\\.0694090368834341\ \(0\)\
+\-\ endoscopy\\:\\ 0\\.06258629636783047\ \(0\)\
+\-\ diverticulum\\:\\ 0\\.05152640880510441\ \(0\)\
+\-\ constriction\\:\\ 0\\.048841178071508784\ \(0\)\
+\-\ ballon\\:\\ 0\\.04702040546105448\ \(0\)\
+\-\ 13mm\\:\\ 0\\.04347853338551383\ \(0\)\
+\-\ tablet\\:\\ 0\\.04122109703147122\ \(0\)\
+\-\ episodic\\:\\ 0\\.04006716312771201\ \(0\)\
+\-\ foods\\:\\ 0\\.03956056371205671\ \(0\)\
+\-\ questioning\\:\\ 0\\.03956056371205671\ \(0\)\
+\-\ esophagram\\:\\ 0\\.038654862170027136\ \(0\)\
+\-\ contrast\\:\\ 0\\.03631852569888428\ \(0\)\
+\-\ annular\\:\\ 0\\.03347568290728061\ \(0\)\
+\-\ ulceration\\:\\ 0\\.03329221748403218\ \(0\)\
+\-\ circumferential\\:\\ 0\\.03277172319139312\ \(0\)\
+\-\ passed\\:\\ 0\\.032607321378714256\ \(0\)\
+\-\ swallow\\:\\ 0\\.031562512832135466\ \(0\)\
+\-\ swallowing\\:\\ 0\\.030431552143886247\ \(0\)\
+\-\ ulcer\\:\\ 0\\.02977623139109612\ \(0\)\
+\-\ experience\\:\\ 0\\.029673316702034217\ \(0\)\
+\-\ scheduled\\:\\ 0\\.027244676692719294\ \(0\)\
+\-\ 34\\:\\ 0\\.0268405534522982\ \(0\)\
+\-\ dysphagia\\:\\ 0\\.026338975150689715\ \(0\)\
+\-\ upper\\:\\ 0\\.026102284878085042\ \(0\)\
+\-\ observed\\:\\ 0\\.025930503497920275\ \(0\)\
+\-\ associated\\:\\ 0\\.025524842555793695\ \(0\)\
+\-\ states\\:\\ 0\\.025441315685884536\ \(0\)\
+\-\ a\\:\\ 0\\.02510125327965831\ \(0\)\
+\-\ was\\:\\ 0\\.025019684106675617\ \(0\)\
+\-\ reflux\\:\\ 0\\.02498724033867668\ \(0\)\
+\-\ gi\\:\\ 0\\.02429610557940458\ \(0\)\
+\-\ represent\\:\\ 0\\.023752679689490706\ \(0\)\
+\-\ smooth\\:\\ 0\\.023673067143877666\ \(0\)\
+\-\ demonstrating\\:\\ 0\\.02347830981054378\ \(0\)\
+\-\ esophagus\\:\\ 0\\.02347830981054378\ \(0\)\
+\-\ intermittent\\:\\ 0\\.0232153414376775\ \(0\)\
+\-\ dilatation\\:\\ 0\\.02317865081942227\ \(0\)\
+\-\ upon\\:\\ 0\\.022104483828025885\ \(0\)\
+\-\ single\\:\\ 0\\.02192190057272425\ \(0\)\
+\-\ patient\\:\\ 0\\.021685871668769317\ \(0\)\
+\-\ solid\\:\\ 0\\.02157181425636949\ \(0\)\
+\-\ referred\\:\\ 0\\.020408426857314185\ \(0\)\
+\-\ long\\:\\ 0\\.018646971587548883\ \(0\)\
+\-\ for\\:\\ 0\\.018458434142853548\ \(0\)\
+\-\ does\\:\\ 0\\.018453297913822823\ \(0\)\
+\-\ unremarkable\\:\\ 0\\.01790548366254469\ \(0\)\
+\-\ along\\:\\ 0\\.017873758714294405\ \(0\)\
+\-\ follow\\-up\\:\\ 0\\.01759517083190976\ \(0\)\
+\-\ further\\:\\ 0\\.017199013555697838\ \(0\)\
+\-\ aspect\\:\\ 0\\.016989189458755424\ \(0\)\
+\-\ proximal\\:\\ 0\\.016237615074095033\ \(0\)\
+\-\ through\\:\\ 0\\.015360487458359927\ \(0\)\
+\-\ he\\:\\ 0\\.015089793304006453\ \(0\)\
+\-\ distal\\:\\ 0\\.014704294866747005\ \(0\)\
+\-\ prior\\:\\ 0\\.013886789697483313\ \(0\)\
+\-\ symptoms\\:\\ 0\\.01347884479049455\ \(0\)\
+\-\ consistent\\:\\ 0\\.013261381448298755\ \(0\)\
+\-\ man\\:\\ 0\\.012790707867658223\ \(0\)\
+\-\ or\\:\\ 0\\.012677503151439335\ \(0\)\
+\-\ posterior\\:\\ 0\\.012466066763939548\ \(0\)\
+\-\ \\'s\\:\\ 0\\.011924345685867373\ \(0\)\
+\-\ may\\:\\ 0\\.011862837777836227\ \(0\)\
+\-\ treatment\\:\\ 0\\.010946942782284095\ \(0\)\
+\-\ also\\:\\ 0\\.010662149327026273\ \(0\)\
+\-\ which\\:\\ 0\\.010095851817990815\ \(0\)\
+\-\ by\\:\\ 0\\.009005512045853637\ \(0\)\
+\-\ there\\:\\ 0\\.00804883263585436\ \(0\)\
+\-\ an\\:\\ 0\\.007478891546105885\ \(0\)\
+\-\ history\\:\\ 0\\.007469712263968882\ \(0\)\
+\-\ at\\:\\ 0\\.007327614891339449\ \(0\)\
+\-\ the\\:\\ 0\\.006124968309654307\ \(0\)\
+\-\ this\\:\\ 0\\.006083146919709703\ \(0\)\
+\-\ year\\:\\ 0\\.006051299172613384\ \(0\)\
+\-\ old\\:\\ 0\\.005537560739634522\ \(0\)\
+\-\ to\\:\\ 0\\.00540592542332894\ \(0\)\
+\-\ with\\:\\ 0\\.0037026638003129666\ \(0\)\
+\-\ of\\:\\ 0\\.0036868291391768493\ \(0\)\
+\-\ is\\:\\ 0\\.0035588023948400355\ \(0\)\
+\-\ \\.\\:\\ 0\\.0022468060821105237\ \(0\)\
+\-\ \\,\\:\\ 0\\.0017133548450461225\ \(0\)\
+\-\ and\\:\\ 0\\.001139297504634294\ \(0\)\

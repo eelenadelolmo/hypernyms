@@ -1,116 +1,112 @@
-Texto: 
-patient not currently febrile, but was up until 5 days ago. she had been on a course of antibiotics until 2 days ago.
-patient is on long term prophylactic antibiotics.  she is over the age at which reflux should have spontaneously resolved and still has a rather severe case of reflux with  loss of renal function on the left side.  she will most likely need a surgical procedure to correct the problem before additional  long term effects occur.
-initial vcug images demonstrate reflux of contrast into a massively dilated ureter and left renal pelvis.  there is significant dilation of the left renal pelvis and fornices.
-
-ultrasound also demonstrates hydronephrosis of the left kidney.
-
-dmsa nucleide scan shows multiple foci with no uptake of radiotracer in the left kidney.  this most likely represents scarring from previous bouts with pyelonephritis.  differential renal function is heavily in favor of the right side.
-vesicoureteral reflux
-vesicoureteral reflux grade v
-history of multiple febrile urinary tract infections.
-
-
-Keywords by value: 
-- reflux: 0.3940242938586842
-- renal: 0.22664730327897445
-- vesicoureteral: 0.19794246744174215
-- febrile: 0.1870854721445196
-- she: 0.1624919114476188
-- of: 0.16025644482470153
-- left: 0.15519276946570437
-- until: 0.15143012540599743
-- function: 0.14729588489012718
-- nucleide: 0.14551225788648764
-- term: 0.1427072230800304
-- antibiotics: 0.13406842004864178
-- ago: 0.1331503201651542
-- kidney: 0.12784711620210412
-- pelvis: 0.1272774266142177
-- the: 0.12709012423869673
-- side: 0.1257164531598005
-- massively: 0.12552958037539924
-- dmsa: 0.12339963654442287
-- heavily: 0.12339963654442287
-- long: 0.12067101319761364
-- fornices: 0.11984029951361459
-- bouts: 0.11984029951361459
-- days: 0.1152007676879631
-- favor: 0.1087839888425822
-- likely: 0.10874633081967812
-- vcug: 0.1028572214414185
-- is: 0.09967253468424865
-- prophylactic: 0.09940827159563626
-- correct: 0.09549835156065833
-- most: 0.09470753768423648
-- effects: 0.09449059219327845
-- pyelonephritis: 0.09449059219327845
-- scarring: 0.09385247171844602
-- spontaneously: 0.09264805946380057
-- problem: 0.08973986935573172
-- ureter: 0.08926368818629074
-- multiple: 0.08901003563816369
-- hydronephrosis: 0.08444204088962594
-- need: 0.08376317739244858
-- on: 0.08244130778855309
-- resolved: 0.08173741998397473
-- represents: 0.08130433769126967
-- still: 0.08060768179450557
-- rather: 0.08060768179450557
-- infections: 0.08033732134623472
-- dilation: 0.08007146711582722
-- radiotracer: 0.07942559408454784
-- urinary: 0.07868355868469933
-- tract: 0.07622471898352043
-- foci: 0.07436900914914148
-- before: 0.07356005856117138
-- procedure: 0.07254157110153038
-- additional: 0.07053543812173578
-- uptake: 0.06996570310888733
-- currently: 0.06989589606278623
-- previous: 0.06875366067730823
-- course: 0.06720981786672499
-- occur: 0.06691820307971642
-- grade: 0.06542947608087145
-- dilated: 0.06516840831248803
-- initial: 0.06103933626883132
-- should: 0.05937074050200523
-- patient: 0.059188730328674666
-- differential: 0.05912066552092251
-- will: 0.05856337269636142
-- severe: 0.05760038384398155
-- age: 0.05712420267454056
-- and: 0.05640569119566987
-- ultrasound: 0.05612410463515408
-- loss: 0.05543422913576121
-- scan: 0.0539831488019622
-- with: 0.053450732670765756
-- shows: 0.05340305270750513
-- been: 0.05301160031182627
-- significant: 0.052535419142385284
-- over: 0.05059424537935139
-- into: 0.048368531243750096
-- demonstrate: 0.047302996752856596
-- case: 0.0457122104266323
-- demonstrates: 0.0457122104266323
-- have: 0.04545432079797037
-- had: 0.04533438876999075
-- in: 0.04527054356179066
-- up: 0.04500915094006928
-- but: 0.04499452380967644
-- surgical: 0.04422393768991317
-- contrast: 0.044210012866178004
-- also: 0.04279892337505448
-- images: 0.04208877062538831
-- has: 0.0415614206274942
-- which: 0.041373898884222084
-- there: 0.03620449911045777
-- from: 0.0361372311791314
-- not: 0.0359205491642491
-- history: 0.03476331352565308
-- at: 0.03436794247510237
-- was: 0.031710793653822504
-- this: 0.031265682121412904
-- right: 0.03016683354723237
-- no: 0.029588798636772336
-- to: 0.022747233617650266
+\-\ Texto\\:\\ \ \(0\)\
+\-\ patient\\ not\\ currently\\ febrile\\,\\ but\\ was\\ up\\ until\\ 5\\ days\\ ago\\.\\ she\\ had\\ been\\ on\\ a\\ course\\ of\\ antibiotics\\ until\\ 2\\ days\\ ago\\.\ \(0\)\
+\-\ patient\\ is\\ on\\ long\\ term\\ prophylactic\\ antibiotics\\.\\ \\ she\\ is\\ over\\ the\\ age\\ at\\ which\\ reflux\\ should\\ have\\ spontaneously\\ resolved\\ and\\ still\\ has\\ a\\ rather\\ severe\\ case\\ of\\ reflux\\ with\\ \\ loss\\ of\\ renal\\ function\\ on\\ the\\ left\\ side\\.\\ \\ she\\ will\\ most\\ likely\\ need\\ a\\ surgical\\ procedure\\ to\\ correct\\ the\\ problem\\ before\\ additional\\ \\ long\\ term\\ effects\\ occur\\.\ \(0\)\
+\-\ initial\\ vcug\\ images\\ demonstrate\\ reflux\\ of\\ contrast\\ into\\ a\\ massively\\ dilated\\ ureter\\ and\\ left\\ renal\\ pelvis\\.\\ \\ there\\ is\\ significant\\ dilation\\ of\\ the\\ left\\ renal\\ pelvis\\ and\\ fornices\\.\ \(0\)\
+\-\ ultrasound\\ also\\ demonstrates\\ hydronephrosis\\ of\\ the\\ left\\ kidney\\.\ \(0\)\
+\-\ dmsa\\ nucleide\\ scan\\ shows\\ multiple\\ foci\\ with\\ no\\ uptake\\ of\\ radiotracer\\ in\\ the\\ left\\ kidney\\.\\ \\ this\\ most\\ likely\\ represents\\ scarring\\ from\\ previous\\ bouts\\ with\\ pyelonephritis\\.\\ \\ differential\\ renal\\ function\\ is\\ heavily\\ in\\ favor\\ of\\ the\\ right\\ side\\.\ \(0\)\
+\-\ vesicoureteral\\ reflux\ \(36\)\
+\-\ vesicoureteral\\ reflux\\ grade\\ v\ \(0\)\
+\-\ history\\ of\\ multiple\\ febrile\\ urinary\\ tract\\ infections\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ reflux\\:\\ 0\\.3940242938586842\ \(0\)\
+\-\ renal\\:\\ 0\\.22664730327897445\ \(0\)\
+\-\ vesicoureteral\\:\\ 0\\.19794246744174215\ \(0\)\
+\-\ febrile\\:\\ 0\\.1870854721445196\ \(0\)\
+\-\ she\\:\\ 0\\.1624919114476188\ \(0\)\
+\-\ of\\:\\ 0\\.16025644482470153\ \(0\)\
+\-\ left\\:\\ 0\\.15519276946570437\ \(0\)\
+\-\ until\\:\\ 0\\.15143012540599743\ \(0\)\
+\-\ function\\:\\ 0\\.14729588489012718\ \(0\)\
+\-\ nucleide\\:\\ 0\\.14551225788648764\ \(0\)\
+\-\ term\\:\\ 0\\.1427072230800304\ \(0\)\
+\-\ antibiotics\\:\\ 0\\.13406842004864178\ \(0\)\
+\-\ ago\\:\\ 0\\.1331503201651542\ \(0\)\
+\-\ kidney\\:\\ 0\\.12784711620210412\ \(0\)\
+\-\ pelvis\\:\\ 0\\.1272774266142177\ \(0\)\
+\-\ the\\:\\ 0\\.12709012423869673\ \(0\)\
+\-\ side\\:\\ 0\\.1257164531598005\ \(0\)\
+\-\ massively\\:\\ 0\\.12552958037539924\ \(0\)\
+\-\ dmsa\\:\\ 0\\.12339963654442287\ \(0\)\
+\-\ heavily\\:\\ 0\\.12339963654442287\ \(0\)\
+\-\ long\\:\\ 0\\.12067101319761364\ \(0\)\
+\-\ fornices\\:\\ 0\\.11984029951361459\ \(0\)\
+\-\ bouts\\:\\ 0\\.11984029951361459\ \(0\)\
+\-\ days\\:\\ 0\\.1152007676879631\ \(0\)\
+\-\ favor\\:\\ 0\\.1087839888425822\ \(0\)\
+\-\ likely\\:\\ 0\\.10874633081967812\ \(0\)\
+\-\ vcug\\:\\ 0\\.1028572214414185\ \(0\)\
+\-\ is\\:\\ 0\\.09967253468424865\ \(0\)\
+\-\ prophylactic\\:\\ 0\\.09940827159563626\ \(0\)\
+\-\ correct\\:\\ 0\\.09549835156065833\ \(0\)\
+\-\ most\\:\\ 0\\.09470753768423648\ \(0\)\
+\-\ effects\\:\\ 0\\.09449059219327845\ \(0\)\
+\-\ pyelonephritis\\:\\ 0\\.09449059219327845\ \(0\)\
+\-\ scarring\\:\\ 0\\.09385247171844602\ \(0\)\
+\-\ spontaneously\\:\\ 0\\.09264805946380057\ \(0\)\
+\-\ problem\\:\\ 0\\.08973986935573172\ \(0\)\
+\-\ ureter\\:\\ 0\\.08926368818629074\ \(0\)\
+\-\ multiple\\:\\ 0\\.08901003563816369\ \(0\)\
+\-\ hydronephrosis\\:\\ 0\\.08444204088962594\ \(0\)\
+\-\ need\\:\\ 0\\.08376317739244858\ \(0\)\
+\-\ on\\:\\ 0\\.08244130778855309\ \(0\)\
+\-\ resolved\\:\\ 0\\.08173741998397473\ \(0\)\
+\-\ represents\\:\\ 0\\.08130433769126967\ \(0\)\
+\-\ still\\:\\ 0\\.08060768179450557\ \(0\)\
+\-\ rather\\:\\ 0\\.08060768179450557\ \(0\)\
+\-\ infections\\:\\ 0\\.08033732134623472\ \(0\)\
+\-\ dilation\\:\\ 0\\.08007146711582722\ \(0\)\
+\-\ radiotracer\\:\\ 0\\.07942559408454784\ \(0\)\
+\-\ urinary\\:\\ 0\\.07868355868469933\ \(0\)\
+\-\ tract\\:\\ 0\\.07622471898352043\ \(0\)\
+\-\ foci\\:\\ 0\\.07436900914914148\ \(0\)\
+\-\ before\\:\\ 0\\.07356005856117138\ \(0\)\
+\-\ procedure\\:\\ 0\\.07254157110153038\ \(0\)\
+\-\ additional\\:\\ 0\\.07053543812173578\ \(0\)\
+\-\ uptake\\:\\ 0\\.06996570310888733\ \(0\)\
+\-\ currently\\:\\ 0\\.06989589606278623\ \(0\)\
+\-\ previous\\:\\ 0\\.06875366067730823\ \(0\)\
+\-\ course\\:\\ 0\\.06720981786672499\ \(0\)\
+\-\ occur\\:\\ 0\\.06691820307971642\ \(0\)\
+\-\ grade\\:\\ 0\\.06542947608087145\ \(0\)\
+\-\ dilated\\:\\ 0\\.06516840831248803\ \(0\)\
+\-\ initial\\:\\ 0\\.06103933626883132\ \(0\)\
+\-\ should\\:\\ 0\\.05937074050200523\ \(0\)\
+\-\ patient\\:\\ 0\\.059188730328674666\ \(0\)\
+\-\ differential\\:\\ 0\\.05912066552092251\ \(0\)\
+\-\ will\\:\\ 0\\.05856337269636142\ \(0\)\
+\-\ severe\\:\\ 0\\.05760038384398155\ \(0\)\
+\-\ age\\:\\ 0\\.05712420267454056\ \(0\)\
+\-\ and\\:\\ 0\\.05640569119566987\ \(0\)\
+\-\ ultrasound\\:\\ 0\\.05612410463515408\ \(0\)\
+\-\ loss\\:\\ 0\\.05543422913576121\ \(0\)\
+\-\ scan\\:\\ 0\\.0539831488019622\ \(0\)\
+\-\ with\\:\\ 0\\.053450732670765756\ \(0\)\
+\-\ shows\\:\\ 0\\.05340305270750513\ \(0\)\
+\-\ been\\:\\ 0\\.05301160031182627\ \(0\)\
+\-\ significant\\:\\ 0\\.052535419142385284\ \(0\)\
+\-\ over\\:\\ 0\\.05059424537935139\ \(0\)\
+\-\ into\\:\\ 0\\.048368531243750096\ \(0\)\
+\-\ demonstrate\\:\\ 0\\.047302996752856596\ \(0\)\
+\-\ case\\:\\ 0\\.0457122104266323\ \(0\)\
+\-\ demonstrates\\:\\ 0\\.0457122104266323\ \(0\)\
+\-\ have\\:\\ 0\\.04545432079797037\ \(0\)\
+\-\ had\\:\\ 0\\.04533438876999075\ \(0\)\
+\-\ in\\:\\ 0\\.04527054356179066\ \(0\)\
+\-\ up\\:\\ 0\\.04500915094006928\ \(0\)\
+\-\ but\\:\\ 0\\.04499452380967644\ \(0\)\
+\-\ surgical\\:\\ 0\\.04422393768991317\ \(0\)\
+\-\ contrast\\:\\ 0\\.044210012866178004\ \(0\)\
+\-\ also\\:\\ 0\\.04279892337505448\ \(0\)\
+\-\ images\\:\\ 0\\.04208877062538831\ \(0\)\
+\-\ has\\:\\ 0\\.0415614206274942\ \(0\)\
+\-\ which\\:\\ 0\\.041373898884222084\ \(0\)\
+\-\ there\\:\\ 0\\.03620449911045777\ \(0\)\
+\-\ from\\:\\ 0\\.0361372311791314\ \(0\)\
+\-\ not\\:\\ 0\\.0359205491642491\ \(0\)\
+\-\ history\\:\\ 0\\.03476331352565308\ \(0\)\
+\-\ at\\:\\ 0\\.03436794247510237\ \(0\)\
+\-\ was\\:\\ 0\\.031710793653822504\ \(0\)\
+\-\ this\\:\\ 0\\.031265682121412904\ \(0\)\
+\-\ right\\:\\ 0\\.03016683354723237\ \(0\)\
+\-\ no\\:\\ 0\\.029588798636772336\ \(0\)\
+\-\ to\\:\\ 0\\.022747233617650266\ \(0\)\

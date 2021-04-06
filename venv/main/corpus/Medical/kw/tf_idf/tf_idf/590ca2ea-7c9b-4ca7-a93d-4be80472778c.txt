@@ -1,243 +1,234 @@
-Texto: 
-pe: unremarkable
-lab:  esr-25, crp-1.40
-patient was started on prednisone 50 mg daily by her ophthalmologist in consultation with rheumatology.
-there is diffuse abnormal fdg uptake involving the aortic arch and its major branches. additionally, there is low level fdg uptake involving the descending thoracic aorta, as well as the abdominal aorta. the diffuse abnormal uptake continues to involve the external iliac artery and into the superficial femoral arteries bilaterally.
-giant cell arteritis
-giant cell arteritis     
-
-takayasu arteritis-imaging would be essentially the same as giant cell arteritis, however can be generally distinguished based upon demographics.  giant cell arteritis occurs almost exclusively in older patients, while takaysu arteritis occurs in patients aged 20-40.  
-
-atherosclerosis-pet would show mild heterogeneous enhancement with skipped areas, while more severe atherosclerosis could demonstrate ulcerated plaques.
-
-vascular thrombosis-would show increased fdg uptake in the lumen rather than the vessel wall.
-81 year old female history of vasculitis s/p long-term corticosteroid treatment and colon cancer s/p resection presents with increasing esr/crp on pre-operative evaluation for cataract surgery.
-this patient had a previous biopsy proven diagnosis of giant cell arteritis, but had concluded her extended course of corticosteroids.  
-
-determining disease recurrence can be difficult, especially in a patient such as this who had no recurrence in symptoms and whose only sign was increasing esr/crp, which are imperfect markers for disease activity.  imaging can be helpful in assessing for recurrence, though imaging findings do not necessarily correlate with disease activity, as low level changes can persist on imaging despite clinically inactive disease.  
-
-in this case there was clearly active disease with diffuse increased vascular uptake in large arteries, from the carotids and vertebral arteries through the aorta and into the external iliacs and superficial femorals.  
-
-such diffuse activity was previously thought to be rare, but with increased use of imaging such as mri and pet in recent years, it is now evident that giant cell arteritis is a systemic disease.  in a prospective study of 35 patients with biopsy proven giant cell arteritis by blockmans et al, increased vascular fdg uptake was noted on pet in 29 patients (83%), with subclavian arteries involved in 74%, the aorta in greater than 50% and the femoral arteries in 37%.
-
-in this patient with recent history of colon cancer, pet also served as surveillance for disease recurrence.  her visceral organs did not show any increased fdg uptake to suggest recurrence.
-
-
-Keywords by value: 
-- arteritis: 0.10350841381389245
-- giant: 0.06561564101872112
-- fdg: 0.06329637683308674
-- uptake: 0.05413413205662753
-- recurrence: 0.04245924930221087
-- arteries: 0.040289336728200245
-- esr/crp: 0.040161815143355345
-- cell: 0.03680566054913532
-- aorta: 0.03342163049797763
-- pet: 0.03064773405703987
-- increased: 0.023809621660588334
-- diffuse: 0.023571821597952753
-- disease: 0.02227144143168549
-- proven: 0.02216070480813244
-- activity: 0.021909202474589103
-- superficial: 0.020806483744497214
-- as: 0.020610575264826642
-- patients: 0.020151021406524153
-- esr-25: 0.020080907571677672
-- crp-1.40: 0.020080907571677672
-- arteritis-imaging: 0.020080907571677672
-- takaysu: 0.020080907571677672
-- 20-40.: 0.020080907571677672
-- atherosclerosis-pet: 0.020080907571677672
-- thrombosis-would: 0.020080907571677672
-- imperfect: 0.020080907571677672
-- femorals: 0.020080907571677672
-- blockmans: 0.020080907571677672
-- vascular: 0.01914671937077697
-- skipped: 0.018501984609126543
-- such: 0.018255121570666416
-- imaging: 0.018242130518957653
-- %: 0.018162378435954512
-- show: 0.017925894768735486
-- can: 0.017660340341403822
-- iliacs: 0.017578373884506577
-- served: 0.017578373884506577
-- her: 0.017558621811969946
-- external: 0.016554600791227395
-- s/p: 0.016329885226022373
-- occurs: 0.015978363218976277
-- increasing: 0.015955865352732166
-- in: 0.015358441189622048
-- inactive: 0.015344138684024287
-- colon: 0.015288988199646192
-- cataract: 0.015075840197335485
-- be: 0.015008618716901245
-- 50: 0.014810924904983164
-- femoral: 0.014810924904983164
-- ophthalmologist: 0.014420527959404322
-- ulcerated: 0.014420527959404322
-- rheumatology: 0.014238198329168476
-- carotids: 0.014238198329168476
-- takayasu: 0.014069387458658858
-- demographics: 0.014069387458658858
-- concluded: 0.013912228298096328
-- whose: 0.013912228298096328
-- necessarily: 0.013912228298096328
-- would: 0.013854063227435489
-- biopsy: 0.013811814312695948
-- involving: 0.013660169767668763
-- exclusively: 0.013256916060165163
-- assessing: 0.013256916060165163
-- distinguished: 0.013145776734038894
-- recent: 0.013087558309065134
-- markers: 0.012938551726736556
-- visceral: 0.012938551726736556
-- aged: 0.012841604996853193
-- determining: 0.012841604996853193
-- prospective: 0.012841604996853193
-- cancer: 0.01279801942762991
-- pre-operative: 0.012748616398857169
-- 81: 0.012659275366617347
-- had: 0.012600340450392085
-- persist: 0.012573306510164394
-- corticosteroid: 0.012490464496107731
-- atherosclerosis: 0.012258613256221759
-- while: 0.01224897147996498
-- correlate: 0.012116197864464733
-- surveillance: 0.012116197864464733
-- corticosteroids: 0.011855582030346864
-- 83: 0.011855582030346864
-- prednisone: 0.011513253549596663
-- extended: 0.011262682034302068
-- was: 0.011256008225668416
-- level: 0.01122045115101108
-- organs: 0.01116969343630604
-- 74: 0.01112458494588194
-- abnormal: 0.011102925923985927
-- ,: 0.011099729337838662
-- essentially: 0.010911541533556602
-- consultation: 0.010871223590277786
-- plaques: 0.010871223590277786
-- low: 0.010825366983446012
-- long-term: 0.010754382372994073
-- mg: 0.01067969029367063
-- branches: 0.010643243046867803
-- than: 0.010200678154525165
-- continues: 0.010156741679446257
-- 29: 0.010156741679446257
-- daily: 0.0100707728229933
-- helpful: 0.0100707728229933
-- clearly: 0.010015211426355124
-- vasculitis: 0.009960973046642783
-- subclavian: 0.009934330587045535
-- older: 0.009805601178700794
-- 37: 0.0097807058016343
-- iliac: 0.009707611691038627
-- lab: 0.009523438350197864
-- descending: 0.009501429441515092
-- almost: 0.009415460585062136
-- lumen: 0.009373663002674445
-- systemic: 0.009312370399212204
-- vessel: 0.009272406140326305
-- into: 0.009263445867697982
-- rather: 0.009252683901731512
-- involve: 0.009175459410442944
-- major: 0.0091007673311195
-- despite: 0.00904631284170366
-- though: 0.009028446833819774
-- thought: 0.008958351939362477
-- 35: 0.008958351939362477
-- evident: 0.008907160923754142
-- arch: 0.008760148347130974
-- generally: 0.008760148347130974
-- this: 0.008757514472110551
-- pe: 0.008744384240423515
-- there: 0.008690539110239103
-- started: 0.00868239662419371
-- clinically: 0.008534428751130448
-- difficult: 0.00852014717251178
-- do: 0.008450052278054482
-- additionally: 0.008436288463803997
-- but: 0.008302976314503588
-- suggest: 0.008290133693377378
-- al: 0.008251848685822979
-- previously: 0.008177156606499538
-- involved: 0.008164942613011187
-- same: 0.008023265601918008
-- especially: 0.008011847511203785
-- et: 0.007966739020779684
-- upon: 0.0079556001021141
-- aortic: 0.007879116513199284
-- patient: 0.007804937867119708
-- vertebral: 0.007703408702533617
-- use: 0.007693483177775177
-- previous: 0.007558884279438032
-- rare: 0.007558884279438032
-- thoracic: 0.007503547849895789
-- active: 0.007431796899874442
-- based: 0.0074229848798791805
-- its: 0.007345174130878453
-- course: 0.007345174130878453
-- greater: 0.0073114267828485215
-- could: 0.007181225384579845
-- heterogeneous: 0.007157619947141243
-- did: 0.007028288476065885
-- sign: 0.0067436138992347855
-- now: 0.006654021844422887
-- for: 0.006643354429546379
-- on: 0.006595817880322807
-- areas: 0.006549765765936371
-- by: 0.006482327577425397
-- unremarkable: 0.00644434263936688
-- study: 0.0064046272365830504
-- bilaterally: 0.006393406010305019
-- any: 0.006129464767818437
-- resection: 0.006070422905513026
-- severe: 0.00598931617327108
-- only: 0.005852873937323315
-- artery: 0.005796195881795442
-- years: 0.005715815801864425
-- evaluation: 0.0056543024961886275
-- wall: 0.005638175672525617
-- not: 0.005625597593357336
-- changes: 0.0055786969845901145
-- through: 0.005528375896175099
-- however: 0.005419972791792871
-- history: 0.005376831606865983
-- enhancement: 0.005217514273628783
-- :: 0.005149315790390273
-- mild: 0.005125862081847692
-- is: 0.005123378390749209
-- who: 0.005075098881871758
-- more: 0.004868283164720196
-- abdominal: 0.004865419676815752
-- symptoms: 0.00485115598382264
-- surgery: 0.004726649349340034
-- noted: 0.0046137156912359764
-- demonstrate: 0.004479389843583236
-- mri: 0.0044721545670036895
-- diagnosis: 0.0044697479061057395
-- the: 0.004408861015605379
-- well: 0.004403373469176882
-- it: 0.004375508848594571
-- case: 0.00425855223887761
-- large: 0.004256360892553712
-- findings: 0.004143136527995352
-- female: 0.004001731825621488
-- presents: 0.0039764106959178265
-- treatment: 0.003939901958088581
-- also: 0.0038374022634855382
-- and: 0.003690389639157098
-- which: 0.0036335867590946438
-- a: 0.0036136656202150454
-- that: 0.0033621428896556337
-- to: 0.002918460877742503
-- from: 0.002884819392150825
-- are: 0.0026534712358305275
-- with: 0.0023987188720022952
-- year: 0.002177916330917801
-- old: 0.001993017304925409
-- no: 0.001960009454906155
-- (: 0.0016454709026056048
-- ): 0.001625370597069032
-- of: 0.0015923070724098646
-- .: 0.0012938327507005475
+\-\ Texto\\:\\ \ \(0\)\
+\-\ pe\\:\\ unremarkable\ \(0\)\
+\-\ lab\\:\\ \\ esr\\-25\\,\\ crp\\-1\\.40\ \(0\)\
+\-\ patient\\ was\\ started\\ on\\ prednisone\\ 50\\ mg\\ daily\\ by\\ her\\ ophthalmologist\\ in\\ consultation\\ with\\ rheumatology\\.\ \(0\)\
+\-\ there\\ is\\ diffuse\\ abnormal\\ fdg\\ uptake\\ involving\\ the\\ aortic\\ arch\\ and\\ its\\ major\\ branches\\.\\ additionally\\,\\ there\\ is\\ low\\ level\\ fdg\\ uptake\\ involving\\ the\\ descending\\ thoracic\\ aorta\\,\\ as\\ well\\ as\\ the\\ abdominal\\ aorta\\.\\ the\\ diffuse\\ abnormal\\ uptake\\ continues\\ to\\ involve\\ the\\ external\\ iliac\\ artery\\ and\\ into\\ the\\ superficial\\ femoral\\ arteries\\ bilaterally\\.\ \(0\)\
+\-\ giant\\ cell\\ arteritis\ \(7\)\
+\-\ giant\\ cell\\ arteritis\\ \\ \\ \\ \\ \ \(0\)\
+\-\ takayasu\\ arteritis\\-imaging\\ would\\ be\\ essentially\\ the\\ same\\ as\\ giant\\ cell\\ arteritis\\,\\ however\\ can\\ be\\ generally\\ distinguished\\ based\\ upon\\ demographics\\.\\ \\ giant\\ cell\\ arteritis\\ occurs\\ almost\\ exclusively\\ in\\ older\\ patients\\,\\ while\\ takaysu\\ arteritis\\ occurs\\ in\\ patients\\ aged\\ 20\\-40\\.\\ \\ \ \(0\)\
+\-\ atherosclerosis\\-pet\\ would\\ show\\ mild\\ heterogeneous\\ enhancement\\ with\\ skipped\\ areas\\,\\ while\\ more\\ severe\\ atherosclerosis\\ could\\ demonstrate\\ ulcerated\\ plaques\\.\ \(0\)\
+\-\ vascular\\ thrombosis\\-would\\ show\\ increased\\ fdg\\ uptake\\ in\\ the\\ lumen\\ rather\\ than\\ the\\ vessel\\ wall\\.\ \(0\)\
+\-\ 81\\ year\\ old\\ female\\ history\\ of\\ vasculitis\\ s\\/p\\ long\\-term\\ corticosteroid\\ treatment\\ and\\ colon\\ cancer\\ s\\/p\\ resection\\ presents\\ with\\ increasing\\ esr\\/crp\\ on\\ pre\\-operative\\ evaluation\\ for\\ cataract\\ surgery\\.\ \(0\)\
+\-\ this\\ patient\\ had\\ a\\ previous\\ biopsy\\ proven\\ diagnosis\\ of\\ giant\\ cell\\ arteritis\\,\\ but\\ had\\ concluded\\ her\\ extended\\ course\\ of\\ corticosteroids\\.\\ \\ \ \(0\)\
+\-\ determining\\ disease\\ recurrence\\ can\\ be\\ difficult\\,\\ especially\\ in\\ a\\ patient\\ such\\ as\\ this\\ who\\ had\\ no\\ recurrence\\ in\\ symptoms\\ and\\ whose\\ only\\ sign\\ was\\ increasing\\ esr\\/crp\\,\\ which\\ are\\ imperfect\\ markers\\ for\\ disease\\ activity\\.\\ \\ imaging\\ can\\ be\\ helpful\\ in\\ assessing\\ for\\ recurrence\\,\\ though\\ imaging\\ findings\\ do\\ not\\ necessarily\\ correlate\\ with\\ disease\\ activity\\,\\ as\\ low\\ level\\ changes\\ can\\ persist\\ on\\ imaging\\ despite\\ clinically\\ inactive\\ disease\\.\\ \\ \ \(0\)\
+\-\ in\\ this\\ case\\ there\\ was\\ clearly\\ active\\ disease\\ with\\ diffuse\\ increased\\ vascular\\ uptake\\ in\\ large\\ arteries\\,\\ from\\ the\\ carotids\\ and\\ vertebral\\ arteries\\ through\\ the\\ aorta\\ and\\ into\\ the\\ external\\ iliacs\\ and\\ superficial\\ femorals\\.\\ \\ \ \(0\)\
+\-\ such\\ diffuse\\ activity\\ was\\ previously\\ thought\\ to\\ be\\ rare\\,\\ but\\ with\\ increased\\ use\\ of\\ imaging\\ such\\ as\\ mri\\ and\\ pet\\ in\\ recent\\ years\\,\\ it\\ is\\ now\\ evident\\ that\\ giant\\ cell\\ arteritis\\ is\\ a\\ systemic\\ disease\\.\\ \\ in\\ a\\ prospective\\ study\\ of\\ 35\\ patients\\ with\\ biopsy\\ proven\\ giant\\ cell\\ arteritis\\ by\\ blockmans\\ et\\ al\\,\\ increased\\ vascular\\ fdg\\ uptake\\ was\\ noted\\ on\\ pet\\ in\\ 29\\ patients\\ \\(83\\%\\)\\,\\ with\\ subclavian\\ arteries\\ involved\\ in\\ 74\\%\\,\\ the\\ aorta\\ in\\ greater\\ than\\ 50\\%\\ and\\ the\\ femoral\\ arteries\\ in\\ 37\\%\\.\ \(0\)\
+\-\ in\\ this\\ patient\\ with\\ recent\\ history\\ of\\ colon\\ cancer\\,\\ pet\\ also\\ served\\ as\\ surveillance\\ for\\ disease\\ recurrence\\.\\ \\ her\\ visceral\\ organs\\ did\\ not\\ show\\ any\\ increased\\ fdg\\ uptake\\ to\\ suggest\\ recurrence\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ arteritis\\:\\ 0\\.10350841381389245\ \(0\)\
+\-\ giant\\:\\ 0\\.06561564101872112\ \(0\)\
+\-\ fdg\\:\\ 0\\.06329637683308674\ \(0\)\
+\-\ uptake\\:\\ 0\\.05413413205662753\ \(0\)\
+\-\ recurrence\\:\\ 0\\.04245924930221087\ \(0\)\
+\-\ arteries\\:\\ 0\\.040289336728200245\ \(0\)\
+\-\ esr\\/crp\\:\\ 0\\.040161815143355345\ \(0\)\
+\-\ cell\\:\\ 0\\.03680566054913532\ \(0\)\
+\-\ aorta\\:\\ 0\\.03342163049797763\ \(0\)\
+\-\ pet\\:\\ 0\\.03064773405703987\ \(0\)\
+\-\ increased\\:\\ 0\\.023809621660588334\ \(0\)\
+\-\ diffuse\\:\\ 0\\.023571821597952753\ \(0\)\
+\-\ disease\\:\\ 0\\.02227144143168549\ \(0\)\
+\-\ proven\\:\\ 0\\.02216070480813244\ \(0\)\
+\-\ activity\\:\\ 0\\.021909202474589103\ \(0\)\
+\-\ superficial\\:\\ 0\\.020806483744497214\ \(0\)\
+\-\ as\\:\\ 0\\.020610575264826642\ \(0\)\
+\-\ patients\\:\\ 0\\.020151021406524153\ \(0\)\
+\-\ esr\\-25\\:\\ 0\\.020080907571677672\ \(0\)\
+\-\ crp\\-1\\.40\\:\\ 0\\.020080907571677672\ \(0\)\
+\-\ arteritis\\-imaging\\:\\ 0\\.020080907571677672\ \(0\)\
+\-\ takaysu\\:\\ 0\\.020080907571677672\ \(0\)\
+\-\ 20\\-40\\.\\:\\ 0\\.020080907571677672\ \(0\)\
+\-\ atherosclerosis\\-pet\\:\\ 0\\.020080907571677672\ \(0\)\
+\-\ thrombosis\\-would\\:\\ 0\\.020080907571677672\ \(0\)\
+\-\ imperfect\\:\\ 0\\.020080907571677672\ \(0\)\
+\-\ femorals\\:\\ 0\\.020080907571677672\ \(0\)\
+\-\ blockmans\\:\\ 0\\.020080907571677672\ \(0\)\
+\-\ vascular\\:\\ 0\\.01914671937077697\ \(0\)\
+\-\ skipped\\:\\ 0\\.018501984609126543\ \(0\)\
+\-\ such\\:\\ 0\\.018255121570666416\ \(0\)\
+\-\ imaging\\:\\ 0\\.018242130518957653\ \(0\)\
+\-\ \\%\\:\\ 0\\.018162378435954512\ \(0\)\
+\-\ show\\:\\ 0\\.017925894768735486\ \(0\)\
+\-\ can\\:\\ 0\\.017660340341403822\ \(0\)\
+\-\ iliacs\\:\\ 0\\.017578373884506577\ \(0\)\
+\-\ served\\:\\ 0\\.017578373884506577\ \(0\)\
+\-\ her\\:\\ 0\\.017558621811969946\ \(0\)\
+\-\ external\\:\\ 0\\.016554600791227395\ \(0\)\
+\-\ s\\/p\\:\\ 0\\.016329885226022373\ \(0\)\
+\-\ occurs\\:\\ 0\\.015978363218976277\ \(0\)\
+\-\ increasing\\:\\ 0\\.015955865352732166\ \(0\)\
+\-\ in\\:\\ 0\\.015358441189622048\ \(0\)\
+\-\ inactive\\:\\ 0\\.015344138684024287\ \(0\)\
+\-\ colon\\:\\ 0\\.015288988199646192\ \(0\)\
+\-\ cataract\\:\\ 0\\.015075840197335485\ \(0\)\
+\-\ be\\:\\ 0\\.015008618716901245\ \(0\)\
+\-\ 50\\:\\ 0\\.014810924904983164\ \(0\)\
+\-\ femoral\\:\\ 0\\.014810924904983164\ \(0\)\
+\-\ ophthalmologist\\:\\ 0\\.014420527959404322\ \(0\)\
+\-\ ulcerated\\:\\ 0\\.014420527959404322\ \(0\)\
+\-\ rheumatology\\:\\ 0\\.014238198329168476\ \(0\)\
+\-\ carotids\\:\\ 0\\.014238198329168476\ \(0\)\
+\-\ takayasu\\:\\ 0\\.014069387458658858\ \(0\)\
+\-\ demographics\\:\\ 0\\.014069387458658858\ \(0\)\
+\-\ concluded\\:\\ 0\\.013912228298096328\ \(0\)\
+\-\ whose\\:\\ 0\\.013912228298096328\ \(0\)\
+\-\ necessarily\\:\\ 0\\.013912228298096328\ \(0\)\
+\-\ would\\:\\ 0\\.013854063227435489\ \(0\)\
+\-\ biopsy\\:\\ 0\\.013811814312695948\ \(0\)\
+\-\ involving\\:\\ 0\\.013660169767668763\ \(0\)\
+\-\ exclusively\\:\\ 0\\.013256916060165163\ \(0\)\
+\-\ assessing\\:\\ 0\\.013256916060165163\ \(0\)\
+\-\ distinguished\\:\\ 0\\.013145776734038894\ \(0\)\
+\-\ recent\\:\\ 0\\.013087558309065134\ \(0\)\
+\-\ markers\\:\\ 0\\.012938551726736556\ \(0\)\
+\-\ visceral\\:\\ 0\\.012938551726736556\ \(0\)\
+\-\ aged\\:\\ 0\\.012841604996853193\ \(0\)\
+\-\ determining\\:\\ 0\\.012841604996853193\ \(0\)\
+\-\ prospective\\:\\ 0\\.012841604996853193\ \(0\)\
+\-\ cancer\\:\\ 0\\.01279801942762991\ \(0\)\
+\-\ pre\\-operative\\:\\ 0\\.012748616398857169\ \(0\)\
+\-\ 81\\:\\ 0\\.012659275366617347\ \(0\)\
+\-\ had\\:\\ 0\\.012600340450392085\ \(0\)\
+\-\ persist\\:\\ 0\\.012573306510164394\ \(0\)\
+\-\ corticosteroid\\:\\ 0\\.012490464496107731\ \(0\)\
+\-\ atherosclerosis\\:\\ 0\\.012258613256221759\ \(0\)\
+\-\ while\\:\\ 0\\.01224897147996498\ \(0\)\
+\-\ correlate\\:\\ 0\\.012116197864464733\ \(0\)\
+\-\ surveillance\\:\\ 0\\.012116197864464733\ \(0\)\
+\-\ corticosteroids\\:\\ 0\\.011855582030346864\ \(0\)\
+\-\ 83\\:\\ 0\\.011855582030346864\ \(0\)\
+\-\ prednisone\\:\\ 0\\.011513253549596663\ \(0\)\
+\-\ extended\\:\\ 0\\.011262682034302068\ \(0\)\
+\-\ was\\:\\ 0\\.011256008225668416\ \(0\)\
+\-\ level\\:\\ 0\\.01122045115101108\ \(0\)\
+\-\ organs\\:\\ 0\\.01116969343630604\ \(0\)\
+\-\ 74\\:\\ 0\\.01112458494588194\ \(0\)\
+\-\ abnormal\\:\\ 0\\.011102925923985927\ \(0\)\
+\-\ \\,\\:\\ 0\\.011099729337838662\ \(0\)\
+\-\ essentially\\:\\ 0\\.010911541533556602\ \(0\)\
+\-\ consultation\\:\\ 0\\.010871223590277786\ \(0\)\
+\-\ plaques\\:\\ 0\\.010871223590277786\ \(0\)\
+\-\ low\\:\\ 0\\.010825366983446012\ \(0\)\
+\-\ long\\-term\\:\\ 0\\.010754382372994073\ \(0\)\
+\-\ mg\\:\\ 0\\.01067969029367063\ \(0\)\
+\-\ branches\\:\\ 0\\.010643243046867803\ \(0\)\
+\-\ than\\:\\ 0\\.010200678154525165\ \(0\)\
+\-\ continues\\:\\ 0\\.010156741679446257\ \(0\)\
+\-\ 29\\:\\ 0\\.010156741679446257\ \(0\)\
+\-\ daily\\:\\ 0\\.0100707728229933\ \(0\)\
+\-\ helpful\\:\\ 0\\.0100707728229933\ \(0\)\
+\-\ clearly\\:\\ 0\\.010015211426355124\ \(0\)\
+\-\ vasculitis\\:\\ 0\\.009960973046642783\ \(0\)\
+\-\ subclavian\\:\\ 0\\.009934330587045535\ \(0\)\
+\-\ older\\:\\ 0\\.009805601178700794\ \(0\)\
+\-\ 37\\:\\ 0\\.0097807058016343\ \(0\)\
+\-\ iliac\\:\\ 0\\.009707611691038627\ \(0\)\
+\-\ lab\\:\\ 0\\.009523438350197864\ \(0\)\
+\-\ descending\\:\\ 0\\.009501429441515092\ \(0\)\
+\-\ almost\\:\\ 0\\.009415460585062136\ \(0\)\
+\-\ lumen\\:\\ 0\\.009373663002674445\ \(0\)\
+\-\ systemic\\:\\ 0\\.009312370399212204\ \(0\)\
+\-\ vessel\\:\\ 0\\.009272406140326305\ \(0\)\
+\-\ into\\:\\ 0\\.009263445867697982\ \(0\)\
+\-\ rather\\:\\ 0\\.009252683901731512\ \(0\)\
+\-\ involve\\:\\ 0\\.009175459410442944\ \(0\)\
+\-\ major\\:\\ 0\\.0091007673311195\ \(0\)\
+\-\ despite\\:\\ 0\\.00904631284170366\ \(0\)\
+\-\ though\\:\\ 0\\.009028446833819774\ \(0\)\
+\-\ thought\\:\\ 0\\.008958351939362477\ \(0\)\
+\-\ 35\\:\\ 0\\.008958351939362477\ \(0\)\
+\-\ evident\\:\\ 0\\.008907160923754142\ \(0\)\
+\-\ arch\\:\\ 0\\.008760148347130974\ \(0\)\
+\-\ generally\\:\\ 0\\.008760148347130974\ \(0\)\
+\-\ this\\:\\ 0\\.008757514472110551\ \(0\)\
+\-\ pe\\:\\ 0\\.008744384240423515\ \(0\)\
+\-\ there\\:\\ 0\\.008690539110239103\ \(0\)\
+\-\ started\\:\\ 0\\.00868239662419371\ \(0\)\
+\-\ clinically\\:\\ 0\\.008534428751130448\ \(0\)\
+\-\ difficult\\:\\ 0\\.00852014717251178\ \(0\)\
+\-\ do\\:\\ 0\\.008450052278054482\ \(0\)\
+\-\ additionally\\:\\ 0\\.008436288463803997\ \(0\)\
+\-\ but\\:\\ 0\\.008302976314503588\ \(0\)\
+\-\ suggest\\:\\ 0\\.008290133693377378\ \(0\)\
+\-\ al\\:\\ 0\\.008251848685822979\ \(0\)\
+\-\ previously\\:\\ 0\\.008177156606499538\ \(0\)\
+\-\ involved\\:\\ 0\\.008164942613011187\ \(0\)\
+\-\ same\\:\\ 0\\.008023265601918008\ \(0\)\
+\-\ especially\\:\\ 0\\.008011847511203785\ \(0\)\
+\-\ et\\:\\ 0\\.007966739020779684\ \(0\)\
+\-\ upon\\:\\ 0\\.0079556001021141\ \(0\)\
+\-\ aortic\\:\\ 0\\.007879116513199284\ \(0\)\
+\-\ patient\\:\\ 0\\.007804937867119708\ \(0\)\
+\-\ vertebral\\:\\ 0\\.007703408702533617\ \(0\)\
+\-\ use\\:\\ 0\\.007693483177775177\ \(0\)\
+\-\ previous\\:\\ 0\\.007558884279438032\ \(0\)\
+\-\ rare\\:\\ 0\\.007558884279438032\ \(0\)\
+\-\ thoracic\\:\\ 0\\.007503547849895789\ \(0\)\
+\-\ active\\:\\ 0\\.007431796899874442\ \(0\)\
+\-\ based\\:\\ 0\\.0074229848798791805\ \(0\)\
+\-\ its\\:\\ 0\\.007345174130878453\ \(0\)\
+\-\ course\\:\\ 0\\.007345174130878453\ \(0\)\
+\-\ greater\\:\\ 0\\.0073114267828485215\ \(0\)\
+\-\ could\\:\\ 0\\.007181225384579845\ \(0\)\
+\-\ heterogeneous\\:\\ 0\\.007157619947141243\ \(0\)\
+\-\ did\\:\\ 0\\.007028288476065885\ \(0\)\
+\-\ sign\\:\\ 0\\.0067436138992347855\ \(0\)\
+\-\ now\\:\\ 0\\.006654021844422887\ \(0\)\
+\-\ for\\:\\ 0\\.006643354429546379\ \(0\)\
+\-\ on\\:\\ 0\\.006595817880322807\ \(0\)\
+\-\ areas\\:\\ 0\\.006549765765936371\ \(0\)\
+\-\ by\\:\\ 0\\.006482327577425397\ \(0\)\
+\-\ unremarkable\\:\\ 0\\.00644434263936688\ \(0\)\
+\-\ study\\:\\ 0\\.0064046272365830504\ \(0\)\
+\-\ bilaterally\\:\\ 0\\.006393406010305019\ \(0\)\
+\-\ any\\:\\ 0\\.006129464767818437\ \(0\)\
+\-\ resection\\:\\ 0\\.006070422905513026\ \(0\)\
+\-\ severe\\:\\ 0\\.00598931617327108\ \(0\)\
+\-\ only\\:\\ 0\\.005852873937323315\ \(0\)\
+\-\ artery\\:\\ 0\\.005796195881795442\ \(0\)\
+\-\ years\\:\\ 0\\.005715815801864425\ \(0\)\
+\-\ evaluation\\:\\ 0\\.0056543024961886275\ \(0\)\
+\-\ wall\\:\\ 0\\.005638175672525617\ \(0\)\
+\-\ not\\:\\ 0\\.005625597593357336\ \(0\)\
+\-\ changes\\:\\ 0\\.0055786969845901145\ \(0\)\
+\-\ through\\:\\ 0\\.005528375896175099\ \(0\)\
+\-\ however\\:\\ 0\\.005419972791792871\ \(0\)\
+\-\ history\\:\\ 0\\.005376831606865983\ \(0\)\
+\-\ enhancement\\:\\ 0\\.005217514273628783\ \(0\)\
+\-\ \\:\\:\\ 0\\.005149315790390273\ \(0\)\
+\-\ mild\\:\\ 0\\.005125862081847692\ \(0\)\
+\-\ is\\:\\ 0\\.005123378390749209\ \(0\)\
+\-\ who\\:\\ 0\\.005075098881871758\ \(0\)\
+\-\ more\\:\\ 0\\.004868283164720196\ \(0\)\
+\-\ abdominal\\:\\ 0\\.004865419676815752\ \(0\)\
+\-\ symptoms\\:\\ 0\\.00485115598382264\ \(0\)\
+\-\ surgery\\:\\ 0\\.004726649349340034\ \(0\)\
+\-\ noted\\:\\ 0\\.0046137156912359764\ \(0\)\
+\-\ demonstrate\\:\\ 0\\.004479389843583236\ \(0\)\
+\-\ mri\\:\\ 0\\.0044721545670036895\ \(0\)\
+\-\ diagnosis\\:\\ 0\\.0044697479061057395\ \(0\)\
+\-\ the\\:\\ 0\\.004408861015605379\ \(0\)\
+\-\ well\\:\\ 0\\.004403373469176882\ \(0\)\
+\-\ it\\:\\ 0\\.004375508848594571\ \(0\)\
+\-\ case\\:\\ 0\\.00425855223887761\ \(0\)\
+\-\ large\\:\\ 0\\.004256360892553712\ \(0\)\
+\-\ findings\\:\\ 0\\.004143136527995352\ \(0\)\
+\-\ female\\:\\ 0\\.004001731825621488\ \(0\)\
+\-\ presents\\:\\ 0\\.0039764106959178265\ \(0\)\
+\-\ treatment\\:\\ 0\\.003939901958088581\ \(0\)\
+\-\ also\\:\\ 0\\.0038374022634855382\ \(0\)\
+\-\ and\\:\\ 0\\.003690389639157098\ \(0\)\
+\-\ which\\:\\ 0\\.0036335867590946438\ \(0\)\
+\-\ a\\:\\ 0\\.0036136656202150454\ \(0\)\
+\-\ that\\:\\ 0\\.0033621428896556337\ \(0\)\
+\-\ to\\:\\ 0\\.002918460877742503\ \(0\)\
+\-\ from\\:\\ 0\\.002884819392150825\ \(0\)\
+\-\ are\\:\\ 0\\.0026534712358305275\ \(0\)\
+\-\ with\\:\\ 0\\.0023987188720022952\ \(0\)\
+\-\ year\\:\\ 0\\.002177916330917801\ \(0\)\
+\-\ old\\:\\ 0\\.001993017304925409\ \(0\)\
+\-\ no\\:\\ 0\\.001960009454906155\ \(0\)\
+\-\ \\(\\:\\ 0\\.0016454709026056048\ \(0\)\
+\-\ \\)\\:\\ 0\\.001625370597069032\ \(0\)\
+\-\ of\\:\\ 0\\.0015923070724098646\ \(0\)\
+\-\ \\.\\:\\ 0\\.0012938327507005475\ \(0\)\

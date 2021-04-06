@@ -1,111 +1,104 @@
-Texto: 
-patient reported headache initially.  patient also suffered fractured tibia/fibula in mva (not shown).
-
-
-in six month follow-up visit, anosmia is confirmed.  sense of taste intact.  no reported personality changes.
-no specific treatment planned.
-the original ct exam taken 3 days after the mva shows frontal contusions bilaterally, paramedian in location.  there is a small amount of acute blood medially.  in addition, another area of midline contusion is seen overlying the olfactory bulb, involving the bilateral olfactory gyri.
-
-on the mri exam obtained six months later, the images demonstrate encephalomalacia in the areas of previous contusion/hemorrhage.
-post traumatic encephalomalacia
-post traumatic encephalomalacia
-24 year old woman in motor vehicle accident 3 days prior.
-
-patient had just been transferred to new facility when head ct obtained.  
-
-the patient returned 6 months later with complaint of anosmia.
-none
-
-
-Keywords by value: 
-- encephalomalacia: 0.3610453607267243
-- anosmia: 0.28545769821934486
-- olfactory: 0.24303332618740933
-- contusion: 0.19001364435601947
-- mva: 0.17748310432538197
-- six: 0.17353323709530424
-- the: 0.15418264742537305
-- traumatic: 0.1463834927023258
-- in: 0.144167946043839
-- reported: 0.13913480555177024
-- later: 0.13824650166175786
-- obtained: 0.13664124171348063
-- taste: 0.12721391935997997
-- patient: 0.12566107390604792
-- paramedian: 0.1256000967023284
-- personality: 0.12412679204643941
-- sense: 0.12277148314356529
-- days: 0.1222889230946841
-- gyri: 0.11925566655201683
-- contusions: 0.11547732808115217
-- months: 0.11244420714394583
-- bulb: 0.10918589428720257
-- suffered: 0.10649255965334879
-- post: 0.10511336376710548
-- fractured: 0.10506080672882717
-- original: 0.10251618007068071
-- visit: 0.09962709386894357
-- planned: 0.0989757704144822
-- medially: 0.09865926919880116
-- exam: 0.09724502163823519
-- facility: 0.09578248399436122
-- of: 0.09450934346046362
-- transferred: 0.09450877680139905
-- returned: 0.09077958879185291
-- vehicle: 0.08391412300744769
-- complaint: 0.08365362060717672
-- accident: 0.08252855078635657
-- overlying: 0.08228837197872518
-- is: 0.07935394338041303
-- another: 0.0790429975130251
-- addition: 0.07817940583643472
-- amount: 0.07726884656826528
-- just: 0.07726884656826528
-- taken: 0.07718042693112818
-- motor: 0.07683129452008126
-- initially: 0.07574390769495372
-- shown: 0.0748753931161525
-- ct: 0.07354401264850617
-- specific: 0.0731917463511629
-- previous: 0.0729839851920002
-- midline: 0.07264328311323341
-- confirmed: 0.07122064878553667
-- intact: 0.06990833352921058
-- 24: 0.06847813196499375
-- involving: 0.0676545132207452
-- location: 0.06725725577287876
-- new: 0.06682120621567002
-- headache: 0.06658372235027493
-- areas: 0.06557663885884739
-- bilaterally: 0.06441732003246016
-- no: 0.06281871889529808
-- area: 0.06257118482024943
-- frontal: 0.062166701868072355
-- month: 0.05875567328937227
-- changes: 0.058373835449482554
-- when: 0.05834481689561927
-- head: 0.05760727924692096
-- shows: 0.05668887401218087
-- been: 0.056273336052919475
-- blood: 0.05609469648450659
-- prior: 0.054041226050000384
-- none: 0.05278479989892585
-- acute: 0.05225048326754147
-- bilateral: 0.05191002298064565
-- woman: 0.05030341170386752
-- demonstrate: 0.050213489442419636
-- small: 0.04982340822777564
-- mri: 0.04957977349156098
-- had: 0.04812375553654553
-- after: 0.046856483168397856
-- treatment: 0.046010049429980646
-- seen: 0.04547290755328163
-- also: 0.045432286209444936
-- images: 0.044678438672381346
-- there: 0.03843211548201282
-- not: 0.03813069445998712
-- year: 0.029766558701921693
-- on: 0.029171271888532
-- old: 0.028586200303848244
-- to: 0.02414684171220414
-- with: 0.018913162554132182
+\-\ Texto\\:\\ \ \(0\)\
+\-\ patient\\ reported\\ headache\\ initially\\.\\ \\ patient\\ also\\ suffered\\ fractured\\ tibia\\/fibula\\ in\\ mva\\ \\(not\\ shown\\)\\.\ \(0\)\
+\-\ in\\ six\\ month\\ follow\\-up\\ visit\\,\\ anosmia\\ is\\ confirmed\\.\\ \\ sense\\ of\\ taste\\ intact\\.\\ \\ no\\ reported\\ personality\\ changes\\.\ \(0\)\
+\-\ no\\ specific\\ treatment\\ planned\\.\ \(0\)\
+\-\ the\\ original\\ ct\\ exam\\ taken\\ 3\\ days\\ after\\ the\\ mva\\ shows\\ frontal\\ contusions\\ bilaterally\\,\\ paramedian\\ in\\ location\\.\\ \\ there\\ is\\ a\\ small\\ amount\\ of\\ acute\\ blood\\ medially\\.\\ \\ in\\ addition\\,\\ another\\ area\\ of\\ midline\\ contusion\\ is\\ seen\\ overlying\\ the\\ olfactory\\ bulb\\,\\ involving\\ the\\ bilateral\\ olfactory\\ gyri\\.\ \(0\)\
+\-\ on\\ the\\ mri\\ exam\\ obtained\\ six\\ months\\ later\\,\\ the\\ images\\ demonstrate\\ encephalomalacia\\ in\\ the\\ areas\\ of\\ previous\\ contusion\\/hemorrhage\\.\ \(0\)\
+\-\ post\\ traumatic\\ encephalomalacia\ \(0\)\
+\-\ post\\ traumatic\\ encephalomalacia\ \(0\)\
+\-\ 24\\ year\\ old\\ woman\\ in\\ motor\\ vehicle\\ accident\\ 3\\ days\\ prior\\.\ \(1\)\
+\-\ patient\\ had\\ just\\ been\\ transferred\\ to\\ new\\ facility\\ when\\ head\\ ct\\ obtained\\.\\ \\ \ \(0\)\
+\-\ the\\ patient\\ returned\\ 6\\ months\\ later\\ with\\ complaint\\ of\\ anosmia\\.\ \(0\)\
+\-\ none\ \(204\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ encephalomalacia\\:\\ 0\\.3610453607267243\ \(0\)\
+\-\ anosmia\\:\\ 0\\.28545769821934486\ \(0\)\
+\-\ olfactory\\:\\ 0\\.24303332618740933\ \(0\)\
+\-\ contusion\\:\\ 0\\.19001364435601947\ \(0\)\
+\-\ mva\\:\\ 0\\.17748310432538197\ \(0\)\
+\-\ six\\:\\ 0\\.17353323709530424\ \(0\)\
+\-\ the\\:\\ 0\\.15418264742537305\ \(0\)\
+\-\ traumatic\\:\\ 0\\.1463834927023258\ \(0\)\
+\-\ in\\:\\ 0\\.144167946043839\ \(0\)\
+\-\ reported\\:\\ 0\\.13913480555177024\ \(0\)\
+\-\ later\\:\\ 0\\.13824650166175786\ \(0\)\
+\-\ obtained\\:\\ 0\\.13664124171348063\ \(0\)\
+\-\ taste\\:\\ 0\\.12721391935997997\ \(0\)\
+\-\ patient\\:\\ 0\\.12566107390604792\ \(0\)\
+\-\ paramedian\\:\\ 0\\.1256000967023284\ \(0\)\
+\-\ personality\\:\\ 0\\.12412679204643941\ \(0\)\
+\-\ sense\\:\\ 0\\.12277148314356529\ \(0\)\
+\-\ days\\:\\ 0\\.1222889230946841\ \(0\)\
+\-\ gyri\\:\\ 0\\.11925566655201683\ \(0\)\
+\-\ contusions\\:\\ 0\\.11547732808115217\ \(0\)\
+\-\ months\\:\\ 0\\.11244420714394583\ \(0\)\
+\-\ bulb\\:\\ 0\\.10918589428720257\ \(0\)\
+\-\ suffered\\:\\ 0\\.10649255965334879\ \(0\)\
+\-\ post\\:\\ 0\\.10511336376710548\ \(0\)\
+\-\ fractured\\:\\ 0\\.10506080672882717\ \(0\)\
+\-\ original\\:\\ 0\\.10251618007068071\ \(0\)\
+\-\ visit\\:\\ 0\\.09962709386894357\ \(0\)\
+\-\ planned\\:\\ 0\\.0989757704144822\ \(0\)\
+\-\ medially\\:\\ 0\\.09865926919880116\ \(0\)\
+\-\ exam\\:\\ 0\\.09724502163823519\ \(0\)\
+\-\ facility\\:\\ 0\\.09578248399436122\ \(0\)\
+\-\ of\\:\\ 0\\.09450934346046362\ \(0\)\
+\-\ transferred\\:\\ 0\\.09450877680139905\ \(0\)\
+\-\ returned\\:\\ 0\\.09077958879185291\ \(0\)\
+\-\ vehicle\\:\\ 0\\.08391412300744769\ \(0\)\
+\-\ complaint\\:\\ 0\\.08365362060717672\ \(0\)\
+\-\ accident\\:\\ 0\\.08252855078635657\ \(0\)\
+\-\ overlying\\:\\ 0\\.08228837197872518\ \(0\)\
+\-\ is\\:\\ 0\\.07935394338041303\ \(0\)\
+\-\ another\\:\\ 0\\.0790429975130251\ \(0\)\
+\-\ addition\\:\\ 0\\.07817940583643472\ \(0\)\
+\-\ amount\\:\\ 0\\.07726884656826528\ \(0\)\
+\-\ just\\:\\ 0\\.07726884656826528\ \(0\)\
+\-\ taken\\:\\ 0\\.07718042693112818\ \(0\)\
+\-\ motor\\:\\ 0\\.07683129452008126\ \(0\)\
+\-\ initially\\:\\ 0\\.07574390769495372\ \(0\)\
+\-\ shown\\:\\ 0\\.0748753931161525\ \(0\)\
+\-\ ct\\:\\ 0\\.07354401264850617\ \(0\)\
+\-\ specific\\:\\ 0\\.0731917463511629\ \(0\)\
+\-\ previous\\:\\ 0\\.0729839851920002\ \(0\)\
+\-\ midline\\:\\ 0\\.07264328311323341\ \(0\)\
+\-\ confirmed\\:\\ 0\\.07122064878553667\ \(0\)\
+\-\ intact\\:\\ 0\\.06990833352921058\ \(0\)\
+\-\ 24\\:\\ 0\\.06847813196499375\ \(0\)\
+\-\ involving\\:\\ 0\\.0676545132207452\ \(0\)\
+\-\ location\\:\\ 0\\.06725725577287876\ \(0\)\
+\-\ new\\:\\ 0\\.06682120621567002\ \(0\)\
+\-\ headache\\:\\ 0\\.06658372235027493\ \(0\)\
+\-\ areas\\:\\ 0\\.06557663885884739\ \(0\)\
+\-\ bilaterally\\:\\ 0\\.06441732003246016\ \(0\)\
+\-\ no\\:\\ 0\\.06281871889529808\ \(0\)\
+\-\ area\\:\\ 0\\.06257118482024943\ \(0\)\
+\-\ frontal\\:\\ 0\\.062166701868072355\ \(0\)\
+\-\ month\\:\\ 0\\.05875567328937227\ \(0\)\
+\-\ changes\\:\\ 0\\.058373835449482554\ \(0\)\
+\-\ when\\:\\ 0\\.05834481689561927\ \(0\)\
+\-\ head\\:\\ 0\\.05760727924692096\ \(0\)\
+\-\ shows\\:\\ 0\\.05668887401218087\ \(0\)\
+\-\ been\\:\\ 0\\.056273336052919475\ \(0\)\
+\-\ blood\\:\\ 0\\.05609469648450659\ \(0\)\
+\-\ prior\\:\\ 0\\.054041226050000384\ \(0\)\
+\-\ none\\:\\ 0\\.05278479989892585\ \(0\)\
+\-\ acute\\:\\ 0\\.05225048326754147\ \(0\)\
+\-\ bilateral\\:\\ 0\\.05191002298064565\ \(0\)\
+\-\ woman\\:\\ 0\\.05030341170386752\ \(0\)\
+\-\ demonstrate\\:\\ 0\\.050213489442419636\ \(0\)\
+\-\ small\\:\\ 0\\.04982340822777564\ \(0\)\
+\-\ mri\\:\\ 0\\.04957977349156098\ \(0\)\
+\-\ had\\:\\ 0\\.04812375553654553\ \(0\)\
+\-\ after\\:\\ 0\\.046856483168397856\ \(0\)\
+\-\ treatment\\:\\ 0\\.046010049429980646\ \(0\)\
+\-\ seen\\:\\ 0\\.04547290755328163\ \(0\)\
+\-\ also\\:\\ 0\\.045432286209444936\ \(0\)\
+\-\ images\\:\\ 0\\.044678438672381346\ \(0\)\
+\-\ there\\:\\ 0\\.03843211548201282\ \(0\)\
+\-\ not\\:\\ 0\\.03813069445998712\ \(0\)\
+\-\ year\\:\\ 0\\.029766558701921693\ \(0\)\
+\-\ on\\:\\ 0\\.029171271888532\ \(0\)\
+\-\ old\\:\\ 0\\.028586200303848244\ \(0\)\
+\-\ to\\:\\ 0\\.02414684171220414\ \(0\)\
+\-\ with\\:\\ 0\\.018913162554132182\ \(0\)\

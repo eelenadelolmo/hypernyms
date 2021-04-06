@@ -1,97 +1,95 @@
-Texto: 
-normal white count
-partial obstruction of duodenum on flouroscopic images and subsequent kub.
-duodenal stenosis on ct.
-small bowel obstruction, partial,  secondary to stricture
-stenosis secondary to previous ulcers
-ischemic stricture
-adhesions
-enteric web
-crohn
-neoplasm
-status post esophagectomy with gastric pull-up with recovery complicated by marginal ulcers.  pt now has frequent emesis after meals.
-given this patients history of surgery and subsequent ulcers, the stricure of the duodenum is likely secondary to the ulcers.  ischemic stricture is also a possibility given the recent surgical manipulation.  also, even though the appearance on ct isn't as consistent with adhesions, this would be high in the differential given that it is the most common cause of sbo in post-surgical patients.
-
-
-Keywords by value: 
-- ulcers: 0.15362836000147287
-- stricture: 0.10491783021456272
-- adhesions: 0.080307944465299
-- duodenum: 0.07062387300671866
-- stricure: 0.06729403377073663
-- given: 0.06708582578281701
-- ischemic: 0.06353523776807596
-- pull-up: 0.06200283391913399
-- sbo: 0.0589076804221251
-- secondary: 0.05471060992004902
-- partial: 0.05217336980837779
-- esophagectomy: 0.05142043421592871
-- stenosis: 0.05110623332566972
-- subsequent: 0.05078749156961544
-- flouroscopic: 0.04971704832803399
-- obstruction: 0.04600610761205245
-- meals: 0.043698289851970856
-- kub: 0.04272246258853662
-- marginal: 0.04272246258853662
-- post-surgical: 0.04242306783164134
-- n't: 0.04108039098840727
-- web: 0.04060313635496197
-- enteric: 0.03913464862482871
-- manipulation: 0.038762204623535336
-- emesis: 0.036843773873299415
-- duodenal: 0.035667051126526454
-- recovery: 0.03554683466112081
-- crohn: 0.03486277238104686
-- complicated: 0.03384344877322608
-- patients: 0.033764497700244665
-- possibility: 0.03294434163081094
-- frequent: 0.03261239421142362
-- though: 0.030255634809518175
-- gastric: 0.029147375192384604
-- even: 0.029044909388322458
-- count: 0.028363755695742742
-- also: 0.025719383109467957
-- previous: 0.025330917547124396
-- pt: 0.024253158432311087
-- status: 0.023284941383066058
-- would: 0.02321348762154267
-- now: 0.022298592287798836
-- neoplasm: 0.022214935693984184
-- cause: 0.02207070707291577
-- recent: 0.021929153044578605
-- white: 0.021634383303145172
-- differential: 0.020709617017961295
-- post: 0.02054072544329995
-- bowel: 0.020457660556372208
-- appearance: 0.018655775394920925
-- likely: 0.018399160045310354
-- ct: 0.018248910738809816
-- high: 0.01785149664944134
-- is: 0.01716918407281605
-- common: 0.01707074207600303
-- on: 0.016577656771727362
-- consistent: 0.015994643273520636
-- surgery: 0.015839687514200573
-- most: 0.015059810242199054
-- small: 0.015027292247184111
-- this: 0.014673850584948595
-- it: 0.014662964767427608
-- surgical: 0.013711616566804988
-- after: 0.01349619238632979
-- images: 0.01251346482404087
-- has: 0.012249618095376167
-- that: 0.011267028462281094
-- by: 0.010861609948434159
-- ,: 0.010332445248751427
-- normal: 0.010226049271748862
-- be: 0.01005921162857961
-- as: 0.009867003861787235
-- to: 0.009780185689534036
-- history: 0.009009271280206742
-- the: 0.007387366358209012
-- in: 0.006433545498324503
-- of: 0.0035573679632973565
-- a: 0.0030274794031954293
-- and: 0.002748229095148373
-- with: 0.002679484948623429
-- .: 0.0018969217761940758
+\-\ Texto\\:\\ \ \(0\)\
+\-\ normal\\ white\\ count\ \(3\)\
+\-\ partial\\ obstruction\\ of\\ duodenum\\ on\\ flouroscopic\\ images\\ and\\ subsequent\\ kub\\.\ \(0\)\
+\-\ duodenal\\ stenosis\\ on\\ ct\\.\ \(0\)\
+\-\ small\\ bowel\\ obstruction\\,\\ partial\\,\\ \\ secondary\\ to\\ stricture\ \(0\)\
+\-\ stenosis\\ secondary\\ to\\ previous\\ ulcers\ \(0\)\
+\-\ ischemic\\ stricture\ \(0\)\
+\-\ adhesions\ \(44\)\
+\-\ enteric\\ web\ \(0\)\
+\-\ crohn\ \(1\)\
+\-\ neoplasm\ \(440\)\
+\-\ status\\ post\\ esophagectomy\\ with\\ gastric\\ pull\\-up\\ with\\ recovery\\ complicated\\ by\\ marginal\\ ulcers\\.\\ \\ pt\\ now\\ has\\ frequent\\ emesis\\ after\\ meals\\.\ \(0\)\
+\-\ given\\ this\\ patients\\ history\\ of\\ surgery\\ and\\ subsequent\\ ulcers\\,\\ the\\ stricure\\ of\\ the\\ duodenum\\ is\\ likely\\ secondary\\ to\\ the\\ ulcers\\.\\ \\ ischemic\\ stricture\\ is\\ also\\ a\\ possibility\\ given\\ the\\ recent\\ surgical\\ manipulation\\.\\ \\ also\\,\\ even\\ though\\ the\\ appearance\\ on\\ ct\\ isn\\'t\\ as\\ consistent\\ with\\ adhesions\\,\\ this\\ would\\ be\\ high\\ in\\ the\\ differential\\ given\\ that\\ it\\ is\\ the\\ most\\ common\\ cause\\ of\\ sbo\\ in\\ post\\-surgical\\ patients\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ ulcers\\:\\ 0\\.15362836000147287\ \(0\)\
+\-\ stricture\\:\\ 0\\.10491783021456272\ \(0\)\
+\-\ adhesions\\:\\ 0\\.080307944465299\ \(0\)\
+\-\ duodenum\\:\\ 0\\.07062387300671866\ \(0\)\
+\-\ stricure\\:\\ 0\\.06729403377073663\ \(0\)\
+\-\ given\\:\\ 0\\.06708582578281701\ \(0\)\
+\-\ ischemic\\:\\ 0\\.06353523776807596\ \(0\)\
+\-\ pull\\-up\\:\\ 0\\.06200283391913399\ \(0\)\
+\-\ sbo\\:\\ 0\\.0589076804221251\ \(0\)\
+\-\ secondary\\:\\ 0\\.05471060992004902\ \(0\)\
+\-\ partial\\:\\ 0\\.05217336980837779\ \(0\)\
+\-\ esophagectomy\\:\\ 0\\.05142043421592871\ \(0\)\
+\-\ stenosis\\:\\ 0\\.05110623332566972\ \(0\)\
+\-\ subsequent\\:\\ 0\\.05078749156961544\ \(0\)\
+\-\ flouroscopic\\:\\ 0\\.04971704832803399\ \(0\)\
+\-\ obstruction\\:\\ 0\\.04600610761205245\ \(0\)\
+\-\ meals\\:\\ 0\\.043698289851970856\ \(0\)\
+\-\ kub\\:\\ 0\\.04272246258853662\ \(0\)\
+\-\ marginal\\:\\ 0\\.04272246258853662\ \(0\)\
+\-\ post\\-surgical\\:\\ 0\\.04242306783164134\ \(0\)\
+\-\ n\\'t\\:\\ 0\\.04108039098840727\ \(0\)\
+\-\ web\\:\\ 0\\.04060313635496197\ \(0\)\
+\-\ enteric\\:\\ 0\\.03913464862482871\ \(0\)\
+\-\ manipulation\\:\\ 0\\.038762204623535336\ \(0\)\
+\-\ emesis\\:\\ 0\\.036843773873299415\ \(0\)\
+\-\ duodenal\\:\\ 0\\.035667051126526454\ \(0\)\
+\-\ recovery\\:\\ 0\\.03554683466112081\ \(0\)\
+\-\ crohn\\:\\ 0\\.03486277238104686\ \(0\)\
+\-\ complicated\\:\\ 0\\.03384344877322608\ \(0\)\
+\-\ patients\\:\\ 0\\.033764497700244665\ \(0\)\
+\-\ possibility\\:\\ 0\\.03294434163081094\ \(0\)\
+\-\ frequent\\:\\ 0\\.03261239421142362\ \(0\)\
+\-\ though\\:\\ 0\\.030255634809518175\ \(0\)\
+\-\ gastric\\:\\ 0\\.029147375192384604\ \(0\)\
+\-\ even\\:\\ 0\\.029044909388322458\ \(0\)\
+\-\ count\\:\\ 0\\.028363755695742742\ \(0\)\
+\-\ also\\:\\ 0\\.025719383109467957\ \(0\)\
+\-\ previous\\:\\ 0\\.025330917547124396\ \(0\)\
+\-\ pt\\:\\ 0\\.024253158432311087\ \(0\)\
+\-\ status\\:\\ 0\\.023284941383066058\ \(0\)\
+\-\ would\\:\\ 0\\.02321348762154267\ \(0\)\
+\-\ now\\:\\ 0\\.022298592287798836\ \(0\)\
+\-\ neoplasm\\:\\ 0\\.022214935693984184\ \(0\)\
+\-\ cause\\:\\ 0\\.02207070707291577\ \(0\)\
+\-\ recent\\:\\ 0\\.021929153044578605\ \(0\)\
+\-\ white\\:\\ 0\\.021634383303145172\ \(0\)\
+\-\ differential\\:\\ 0\\.020709617017961295\ \(0\)\
+\-\ post\\:\\ 0\\.02054072544329995\ \(0\)\
+\-\ bowel\\:\\ 0\\.020457660556372208\ \(0\)\
+\-\ appearance\\:\\ 0\\.018655775394920925\ \(0\)\
+\-\ likely\\:\\ 0\\.018399160045310354\ \(0\)\
+\-\ ct\\:\\ 0\\.018248910738809816\ \(0\)\
+\-\ high\\:\\ 0\\.01785149664944134\ \(0\)\
+\-\ is\\:\\ 0\\.01716918407281605\ \(0\)\
+\-\ common\\:\\ 0\\.01707074207600303\ \(0\)\
+\-\ on\\:\\ 0\\.016577656771727362\ \(0\)\
+\-\ consistent\\:\\ 0\\.015994643273520636\ \(0\)\
+\-\ surgery\\:\\ 0\\.015839687514200573\ \(0\)\
+\-\ most\\:\\ 0\\.015059810242199054\ \(0\)\
+\-\ small\\:\\ 0\\.015027292247184111\ \(0\)\
+\-\ this\\:\\ 0\\.014673850584948595\ \(0\)\
+\-\ it\\:\\ 0\\.014662964767427608\ \(0\)\
+\-\ surgical\\:\\ 0\\.013711616566804988\ \(0\)\
+\-\ after\\:\\ 0\\.01349619238632979\ \(0\)\
+\-\ images\\:\\ 0\\.01251346482404087\ \(0\)\
+\-\ has\\:\\ 0\\.012249618095376167\ \(0\)\
+\-\ that\\:\\ 0\\.011267028462281094\ \(0\)\
+\-\ by\\:\\ 0\\.010861609948434159\ \(0\)\
+\-\ \\,\\:\\ 0\\.010332445248751427\ \(0\)\
+\-\ normal\\:\\ 0\\.010226049271748862\ \(0\)\
+\-\ be\\:\\ 0\\.01005921162857961\ \(0\)\
+\-\ as\\:\\ 0\\.009867003861787235\ \(0\)\
+\-\ to\\:\\ 0\\.009780185689534036\ \(0\)\
+\-\ history\\:\\ 0\\.009009271280206742\ \(0\)\
+\-\ the\\:\\ 0\\.007387366358209012\ \(0\)\
+\-\ in\\:\\ 0\\.006433545498324503\ \(0\)\
+\-\ of\\:\\ 0\\.0035573679632973565\ \(0\)\
+\-\ a\\:\\ 0\\.0030274794031954293\ \(0\)\
+\-\ and\\:\\ 0\\.002748229095148373\ \(0\)\
+\-\ with\\:\\ 0\\.002679484948623429\ \(0\)\
+\-\ \\.\\:\\ 0\\.0018969217761940758\ \(0\)\

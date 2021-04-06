@@ -1,107 +1,103 @@
-Texto: 
-heart murmur on exam.  normal development.  clear lungs bilaterally,
-large aberrant right pulmonary vessel whose insertion is uncertain.  in addition to this, cardiomegaly is present with a small right lung and bilaterally enlarged pulmonary arteries.
-scimitar syndrome
-hypoplasia of right lung with aplasia of right pulmonary artery with increased systemic arterial supply
-
-horseshoe lung
-10-year-old girl presenting for follow-up for a ‚Äúheart murmur‚Äù noted at birth.  patient has no complaints and has developed normally without physical limitations.
-see factoid
-
-the large pulmonary arteries and cardiomegaly are not typically seen with is syndrome and raised the question of a cardiac defect, as the chest film demonstrated shunt vascularity.  at pulmonary angiography, it was demonstrated the entire right lung drained in to the scimitar vein and emptied at the junction of the ivc and right atrium.  in addition, an asd was present.  so, for all practical purposes, our patient had two left-to-right shunts.
-
-
-Keywords by value: 
-- pulmonary: 0.292188998004901
-- scimitar: 0.25608034905481725
-- lung: 0.23327777086210957
-- right: 0.22249644297914867
-- cardiomegaly: 0.20052028949340422
-- murmur: 0.1818121262449075
-- addition: 0.15519792813051206
-- arteries: 0.15218046969987734
-- emptied: 0.13791887475415918
-- the: 0.13390818068276636
-- heart: 0.13332151407630244
-- purposes: 0.1300197078692204
-- bilaterally: 0.12787810930252355
-- aplasia: 0.12320521462774041
-- practical: 0.12061446453643497
-- limitations: 0.11945492837153096
-- shunts: 0.11945492837153096
-- and: 0.11886342126757118
-- whose: 0.11837025472807218
-- demonstrated: 0.11783948507636662
-- syndrome: 0.11559383079515327
-- horseshoe: 0.11155576148659217
-- drained: 0.10896501139528673
-- at: 0.10863508108641036
-- raised: 0.10780547523038274
-- uncertain: 0.10672080158692394
-- asd: 0.1062036343737151
-- question: 0.09888741407470644
-- present: 0.0983890567705318
-- aberrant: 0.09731555825413851
-- atrium: 0.09731555825413851
-- supply: 0.096438492743023
-- large: 0.09607226880081517
-- vascularity: 0.09587822058626806
-- hypoplasia: 0.09455418123256688
-- insertion: 0.09405245417503821
-- ivc: 0.09309181510396397
-- shunt: 0.09090606312245375
-- angiography: 0.08861069160555388
-- has: 0.087582166689304
-- normally: 0.087403544620493
-- entire: 0.08723796093355822
-- for: 0.0871733009076055
-- birth: 0.08566610511299029
-- systemic: 0.08507633904704134
-- our: 0.08493207542928025
-- vessel: 0.08409156988097376
-- so: 0.08064461046523234
-- development: 0.07925660998130553
-- arterial: 0.0789519501293936
-- complaints: 0.0789519501293936
-- is: 0.07876478127367988
-- junction: 0.07678338909815562
-- presenting: 0.07510132561530086
-- with: 0.07509096830277877
-- of: 0.0750461282590265
-- to: 0.0719026915950864
-- film: 0.07164165077752238
-- in: 0.07154878669597098
-- cardiac: 0.07119173382250074
-- developed: 0.07112843202157962
-- lungs: 0.07075354789274176
-- defect: 0.07032649675750731
-- clear: 0.06950363131396987
-- vein: 0.06871918054380288
-- typically: 0.06730249698824538
-- girl: 0.06725225297989558
-- factoid: 0.066953902986442
-- was: 0.06682399142540218
-- enlarged: 0.06535654329451918
-- patient: 0.06236405261788559
-- see: 0.05963768268743333
-- artery: 0.059542280681352526
-- all: 0.05706972740265466
-- two: 0.05693342001903188
-- physical: 0.051983461747288344
-- increased: 0.05184248278052378
-- noted: 0.05083066845440088
-- chest: 0.050605576586131996
-- without: 0.05056835263231975
-- small: 0.04945349511563977
-- it: 0.04907502939738488
-- exam: 0.048261513750937644
-- had: 0.047766461469130335
-- seen: 0.04513529466509861
-- normal: 0.039143490026310936
-- as: 0.038514786708543566
-- not: 0.037847593717639016
-- an: 0.03666075192808392
-- are: 0.036378687628537534
-- this: 0.03294300509786826
-- no: 0.03117616115157188
-- on: 0.028954690238398462
+\-\ Texto\\:\\ \ \(0\)\
+\-\ heart\\ murmur\\ on\\ exam\\.\\ \\ normal\\ development\\.\\ \\ clear\\ lungs\\ bilaterally\\,\ \(0\)\
+\-\ large\\ aberrant\\ right\\ pulmonary\\ vessel\\ whose\\ insertion\\ is\\ uncertain\\.\\ \\ in\\ addition\\ to\\ this\\,\\ cardiomegaly\\ is\\ present\\ with\\ a\\ small\\ right\\ lung\\ and\\ bilaterally\\ enlarged\\ pulmonary\\ arteries\\.\ \(0\)\
+\-\ scimitar\\ syndrome\ \(1\)\
+\-\ hypoplasia\\ of\\ right\\ lung\\ with\\ aplasia\\ of\\ right\\ pulmonary\\ artery\\ with\\ increased\\ systemic\\ arterial\\ supply\ \(0\)\
+\-\ horseshoe\\ lung\ \(0\)\
+\-\ 10\\-year\\-old\\ girl\\ presenting\\ for\\ follow\\-up\\ for\\ a\\ \\‚\\Ä\\úheart\\ murmur\\‚\\Ä\\ù\\ noted\\ at\\ birth\\.\\ \\ patient\\ has\\ no\\ complaints\\ and\\ has\\ developed\\ normally\\ without\\ physical\\ limitations\\.\ \(0\)\
+\-\ see\\ factoid\ \(116\)\
+\-\ the\\ large\\ pulmonary\\ arteries\\ and\\ cardiomegaly\\ are\\ not\\ typically\\ seen\\ with\\ is\\ syndrome\\ and\\ raised\\ the\\ question\\ of\\ a\\ cardiac\\ defect\\,\\ as\\ the\\ chest\\ film\\ demonstrated\\ shunt\\ vascularity\\.\\ \\ at\\ pulmonary\\ angiography\\,\\ it\\ was\\ demonstrated\\ the\\ entire\\ right\\ lung\\ drained\\ in\\ to\\ the\\ scimitar\\ vein\\ and\\ emptied\\ at\\ the\\ junction\\ of\\ the\\ ivc\\ and\\ right\\ atrium\\.\\ \\ in\\ addition\\,\\ an\\ asd\\ was\\ present\\.\\ \\ so\\,\\ for\\ all\\ practical\\ purposes\\,\\ our\\ patient\\ had\\ two\\ left\\-to\\-right\\ shunts\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ pulmonary\\:\\ 0\\.292188998004901\ \(0\)\
+\-\ scimitar\\:\\ 0\\.25608034905481725\ \(0\)\
+\-\ lung\\:\\ 0\\.23327777086210957\ \(0\)\
+\-\ right\\:\\ 0\\.22249644297914867\ \(0\)\
+\-\ cardiomegaly\\:\\ 0\\.20052028949340422\ \(0\)\
+\-\ murmur\\:\\ 0\\.1818121262449075\ \(0\)\
+\-\ addition\\:\\ 0\\.15519792813051206\ \(0\)\
+\-\ arteries\\:\\ 0\\.15218046969987734\ \(0\)\
+\-\ emptied\\:\\ 0\\.13791887475415918\ \(0\)\
+\-\ the\\:\\ 0\\.13390818068276636\ \(0\)\
+\-\ heart\\:\\ 0\\.13332151407630244\ \(0\)\
+\-\ purposes\\:\\ 0\\.1300197078692204\ \(0\)\
+\-\ bilaterally\\:\\ 0\\.12787810930252355\ \(0\)\
+\-\ aplasia\\:\\ 0\\.12320521462774041\ \(0\)\
+\-\ practical\\:\\ 0\\.12061446453643497\ \(0\)\
+\-\ limitations\\:\\ 0\\.11945492837153096\ \(0\)\
+\-\ shunts\\:\\ 0\\.11945492837153096\ \(0\)\
+\-\ and\\:\\ 0\\.11886342126757118\ \(0\)\
+\-\ whose\\:\\ 0\\.11837025472807218\ \(0\)\
+\-\ demonstrated\\:\\ 0\\.11783948507636662\ \(0\)\
+\-\ syndrome\\:\\ 0\\.11559383079515327\ \(0\)\
+\-\ horseshoe\\:\\ 0\\.11155576148659217\ \(0\)\
+\-\ drained\\:\\ 0\\.10896501139528673\ \(0\)\
+\-\ at\\:\\ 0\\.10863508108641036\ \(0\)\
+\-\ raised\\:\\ 0\\.10780547523038274\ \(0\)\
+\-\ uncertain\\:\\ 0\\.10672080158692394\ \(0\)\
+\-\ asd\\:\\ 0\\.1062036343737151\ \(0\)\
+\-\ question\\:\\ 0\\.09888741407470644\ \(0\)\
+\-\ present\\:\\ 0\\.0983890567705318\ \(0\)\
+\-\ aberrant\\:\\ 0\\.09731555825413851\ \(0\)\
+\-\ atrium\\:\\ 0\\.09731555825413851\ \(0\)\
+\-\ supply\\:\\ 0\\.096438492743023\ \(0\)\
+\-\ large\\:\\ 0\\.09607226880081517\ \(0\)\
+\-\ vascularity\\:\\ 0\\.09587822058626806\ \(0\)\
+\-\ hypoplasia\\:\\ 0\\.09455418123256688\ \(0\)\
+\-\ insertion\\:\\ 0\\.09405245417503821\ \(0\)\
+\-\ ivc\\:\\ 0\\.09309181510396397\ \(0\)\
+\-\ shunt\\:\\ 0\\.09090606312245375\ \(0\)\
+\-\ angiography\\:\\ 0\\.08861069160555388\ \(0\)\
+\-\ has\\:\\ 0\\.087582166689304\ \(0\)\
+\-\ normally\\:\\ 0\\.087403544620493\ \(0\)\
+\-\ entire\\:\\ 0\\.08723796093355822\ \(0\)\
+\-\ for\\:\\ 0\\.0871733009076055\ \(0\)\
+\-\ birth\\:\\ 0\\.08566610511299029\ \(0\)\
+\-\ systemic\\:\\ 0\\.08507633904704134\ \(0\)\
+\-\ our\\:\\ 0\\.08493207542928025\ \(0\)\
+\-\ vessel\\:\\ 0\\.08409156988097376\ \(0\)\
+\-\ so\\:\\ 0\\.08064461046523234\ \(0\)\
+\-\ development\\:\\ 0\\.07925660998130553\ \(0\)\
+\-\ arterial\\:\\ 0\\.0789519501293936\ \(0\)\
+\-\ complaints\\:\\ 0\\.0789519501293936\ \(0\)\
+\-\ is\\:\\ 0\\.07876478127367988\ \(0\)\
+\-\ junction\\:\\ 0\\.07678338909815562\ \(0\)\
+\-\ presenting\\:\\ 0\\.07510132561530086\ \(0\)\
+\-\ with\\:\\ 0\\.07509096830277877\ \(0\)\
+\-\ of\\:\\ 0\\.0750461282590265\ \(0\)\
+\-\ to\\:\\ 0\\.0719026915950864\ \(0\)\
+\-\ film\\:\\ 0\\.07164165077752238\ \(0\)\
+\-\ in\\:\\ 0\\.07154878669597098\ \(0\)\
+\-\ cardiac\\:\\ 0\\.07119173382250074\ \(0\)\
+\-\ developed\\:\\ 0\\.07112843202157962\ \(0\)\
+\-\ lungs\\:\\ 0\\.07075354789274176\ \(0\)\
+\-\ defect\\:\\ 0\\.07032649675750731\ \(0\)\
+\-\ clear\\:\\ 0\\.06950363131396987\ \(0\)\
+\-\ vein\\:\\ 0\\.06871918054380288\ \(0\)\
+\-\ typically\\:\\ 0\\.06730249698824538\ \(0\)\
+\-\ girl\\:\\ 0\\.06725225297989558\ \(0\)\
+\-\ factoid\\:\\ 0\\.066953902986442\ \(0\)\
+\-\ was\\:\\ 0\\.06682399142540218\ \(0\)\
+\-\ enlarged\\:\\ 0\\.06535654329451918\ \(0\)\
+\-\ patient\\:\\ 0\\.06236405261788559\ \(0\)\
+\-\ see\\:\\ 0\\.05963768268743333\ \(0\)\
+\-\ artery\\:\\ 0\\.059542280681352526\ \(0\)\
+\-\ all\\:\\ 0\\.05706972740265466\ \(0\)\
+\-\ two\\:\\ 0\\.05693342001903188\ \(0\)\
+\-\ physical\\:\\ 0\\.051983461747288344\ \(0\)\
+\-\ increased\\:\\ 0\\.05184248278052378\ \(0\)\
+\-\ noted\\:\\ 0\\.05083066845440088\ \(0\)\
+\-\ chest\\:\\ 0\\.050605576586131996\ \(0\)\
+\-\ without\\:\\ 0\\.05056835263231975\ \(0\)\
+\-\ small\\:\\ 0\\.04945349511563977\ \(0\)\
+\-\ it\\:\\ 0\\.04907502939738488\ \(0\)\
+\-\ exam\\:\\ 0\\.048261513750937644\ \(0\)\
+\-\ had\\:\\ 0\\.047766461469130335\ \(0\)\
+\-\ seen\\:\\ 0\\.04513529466509861\ \(0\)\
+\-\ normal\\:\\ 0\\.039143490026310936\ \(0\)\
+\-\ as\\:\\ 0\\.038514786708543566\ \(0\)\
+\-\ not\\:\\ 0\\.037847593717639016\ \(0\)\
+\-\ an\\:\\ 0\\.03666075192808392\ \(0\)\
+\-\ are\\:\\ 0\\.036378687628537534\ \(0\)\
+\-\ this\\:\\ 0\\.03294300509786826\ \(0\)\
+\-\ no\\:\\ 0\\.03117616115157188\ \(0\)\
+\-\ on\\:\\ 0\\.028954690238398462\ \(0\)\

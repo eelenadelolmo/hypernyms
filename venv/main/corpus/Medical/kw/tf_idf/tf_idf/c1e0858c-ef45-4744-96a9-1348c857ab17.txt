@@ -1,308 +1,306 @@
-Texto: 
-physical exam: blood pressure 122/64, pulse 84, respiratory rate 12, temperature 36.8, oxygen saturation 92% on room air.  patient is an obese female in no acute distress.  alert and oriented to person, time, and place.  extraoccular movements intact.  pupils equal and reactive to light. moist mucous membranes with clear oropharynx.  neck supple without thyromegaly.  regular heart rate and rhythm. normal s1 and s2 without appreciable murmur, rub or gallop. no jvd.  diminished breath sounds bilaterally. no wheezes, rales, or rhonchi. normal bowel sounds.  soft nontender, nondistended.  1+ pitting edema in bilateral lower extremities. no clubbing or cyanosis.  neuro exam grossly normal.
-labs: sodium 139, potassium 4.8, chloride 101, bicarbonate 29, bun 6, creatinine 0.7, glucose 92, calcium 9.5. hemoglobin 14.4, hematocrit 41.2, wbc 7.8, platelets 241,000.  ekg: nsr.
-treatment: most patients are treated symptomatically.  recurrent pneumothoraces are treated with pleural abrasion, pleurodesis, or pleurectomy.  chylous effusion can be managed with thoracentesis, chemical pleurodesis, or partial pleurectomy. antiestrogen measures have also been employed: surgical oophorectomy, ovarian irradiation, hormonal therapy (tamoxifen, gonadotrophin releasing hormone agonist, luteinizing hormone releasing hormone, and progesterone administration).  lung transplantation may be performed in end-stage disease.
-follow-up: lung function decline in lam patients is measured with fev-1.  cardiopulmonary exercise testing is using to determine supplemental oxygen requirements and may provide helpful referral parameters for lung transplantation.
-â€¢ cxr: lungs clear.  cardiomegaly.
-â€¢ ct chest: multiple bilateral and diffuse thin-walled cysts relatively homogeneous in size.
-lymphangioleiomyomatosis
-â€¢ langerhans cell histiocytosis (eosinophilic granuloma)
-â€¢ centrilobular emphysema
-â€¢ lymphocytic interstitial pneumonia
-â€¢ cystic bronchiectasis
-â€¢ idiopathic pulmonary fibrosis
-40 year old woman with history of hypertension, obstructive sleep apnea on cpap, and morbid obesity.  multiple hospitalizations for shortness of breath.
-lymphangioleiomyomatosis (lam) is a rare interstitial lung disease that affects only women, typically during their reproductive years. a small percentage of patients, also usually women, have lam in association with tuberous sclerosis. lam is characterized by the abnormal proliferation of smooth muscle cells in the lungs and in the thoracic and retroperitoneal lymphatics. affected patients are also at risk of developing renal hamartomas and angiomyolipomas. patients with lam characteristically present with chronic cough and dyspnea and less commonly with spontaneous pneumothorax. at radiography, lam manifests with normal to increased lung volumes and interstitial reticular opacities that are often subtle. unilateral pneumothorax and unilateral or bilateral chylous pleural effusions are frequent radiographic findings. computed tomography (ct) demonstrates bilateral diffuse thin-walled cysts surrounded by normal lung parenchyma. ct may also demonstrate associated chylous pleural effusions or pneumothorax and thoracic or abdominal lymphadenopathy.
-
-
-Keywords by value: 
-- lam: 0.07447778557857056
-- chylous: 0.04777865437297972
-- pleurodesis: 0.029134212011163167
-- pleurectomy: 0.029134212011163167
-- releasing: 0.029134212011163167
-- lung: 0.029119519061632307
-- hormone: 0.028501332414202215
-- interstitial: 0.02459287903374625
-- thin-walled: 0.024512035554921416
-- lymphangioleiomyomatosis: 0.02422141605627937
-- pneumothorax: 0.02359704340725436
-- 92: 0.023460019921216792
-- transplantation: 0.022274604737401366
-- patients: 0.021682103915353194
-- â€¢: 0.021508040119943558
-- pleural: 0.019519707051019387
-- oxygen: 0.019229393798189616
-- ,: 0.01857814175118639
-- :: 0.017729801035147687
-- 122/64: 0.017285330243071564
-- 36.8: 0.017285330243071564
-- 9.5.: 0.017285330243071564
-- 41.2: 0.017285330243071564
-- 241,000.: 0.017285330243071564
-- antiestrogen: 0.017285330243071564
-- gonadotrophin: 0.017285330243071564
-- agonist: 0.017285330243071564
-- fev-1: 0.017285330243071564
-- effusions: 0.017102631873384275
-- unilateral: 0.016630617433188687
-- women: 0.01628266403864483
-- bilateral: 0.016265237092662307
-- extraoccular: 0.015926218124326576
-- luteinizing: 0.015926218124326576
-- or: 0.015710160768058156
-- 14.4: 0.015131188500585075
-- nsr: 0.014567106005581584
-- requirements: 0.014567106005581584
-- morbid: 0.014567106005581584
-- bicarbonate: 0.014129569630455682
-- symptomatically: 0.014129569630455682
-- pitting: 0.013469820146884677
-- abrasion: 0.013469820146884677
-- oophorectomy: 0.013469820146884677
-- lymphatics: 0.013469820146884677
-- sounds: 0.013366065303946587
-- also: 0.013212702695452168
-- rub: 0.013207993886836591
-- gallop: 0.013207993886836591
-- 139: 0.013207993886836591
-- progesterone: 0.013207993886836591
-- hospitalizations: 0.013207993886836591
-- reproductive: 0.013207993886836591
-- normal: 0.013133455437246089
-- cysts: 0.013127287383652418
-- rate: 0.013061652903826836
-- 7.8: 0.012977046758098585
-- pneumothoraces: 0.012977046758098585
-- thoracentesis: 0.012977046758098585
-- tamoxifen: 0.012977046758098585
-- thoracic: 0.01291787257295785
-- cpap: 0.01277045751171069
-- lungs: 0.012689367050903042
-- thyromegaly: 0.012583574806212014
-- supplemental: 0.012583574806212014
-- centrilobular: 0.012583574806212014
-- breath: 0.012529872777448424
-- 101: 0.012412964263095093
-- parameters: 0.012412964263095093
-- clear: 0.012390300443712336
-- 4.8: 0.012256017777460708
-- chloride: 0.012256017777460708
-- irradiation: 0.012256017777460708
-- manifests: 0.012110708028139685
-- hormonal: 0.011975427887969192
-- end-stage: 0.011975427887969192
-- hamartomas: 0.011975427887969192
-- angiomyolipomas: 0.011975427887969192
-- potassium: 0.011730009960608396
-- apnea: 0.011617934639353596
-- percentage: 0.011617934639353596
-- jvd: 0.011511920480000114
-- employed: 0.011511920480000114
-- characteristically: 0.011511920480000114
-- are: 0.011420332083623546
-- 1+: 0.011315678404398186
-- 0.7: 0.011315678404398186
-- appreciable: 0.011224462687467024
-- decline: 0.011224462687467024
-- cardiopulmonary: 0.011224462687467024
-- volumes: 0.011224462687467024
-- sodium: 0.011137302368700683
-- may: 0.011025460993518376
-- nondistended: 0.010896905658715718
-- platelets: 0.010896905658715718
-- reticular: 0.010896905658715718
-- person: 0.010822905015612096
-- lymphocytic: 0.01068278939996083
-- moist: 0.010616315769224201
-- 84: 0.010552021998983044
-- oropharynx: 0.01048976964934661
-- obesity: 0.01048976964934661
-- supple: 0.010370897841863406
-- clubbing: 0.010370897841863406
-- chemical: 0.010314059534268793
-- hemoglobin: 0.01020509904180838
-- diffuse: 0.010145127138726725
-- wheezes: 0.010101876034974219
-- rhonchi: 0.010101876034974219
-- ekg: 0.010101876034974219
-- proliferation: 0.010101876034974219
-- treated: 0.010030787592485723
-- langerhans: 0.009910428055437128
-- saturation: 0.009865350568722033
-- hematocrit: 0.009865350568722033
-- membranes: 0.009821286145482703
-- cyanosis: 0.009821286145482703
-- cardiomegaly: 0.009778190249955692
-- bronchiectasis: 0.009778190249955692
-- obese: 0.009694740025605112
-- mucous: 0.009654310050697787
-- surrounded: 0.009575868218121905
-- creatinine: 0.009537793539970725
-- affects: 0.009537793539970725
-- radiography: 0.009537793539970725
-- referral: 0.009500444138067405
-- sleep: 0.009500444138067405
-- temperature: 0.009463792896867105
-- provide: 0.009392483790649704
-- histiocytosis: 0.009323677281215841
-- bun: 0.00925720365047921
-- s2: 0.009224793254496445
-- rales: 0.009224793254496445
-- tuberous: 0.009224793254496445
-- pupils: 0.009161536661911697
-- diminished: 0.009161536661911697
-- emphysema: 0.009161536661911697
-- movements: 0.009100257164844824
-- measured: 0.009100257164844824
-- managed: 0.009011785723118414
-- eosinophilic: 0.008983160626214194
-- glucose: 0.008954947415523802
-- tomography: 0.008954947415523802
-- retroperitoneal: 0.008927134405735653
-- computed: 0.008845986923063388
-- grossly: 0.008793696242510132
-- equal: 0.008768064710025126
-- developing: 0.008768064710025126
-- 29: 0.008742763916229229
-- opacities: 0.008742763916229229
-- rhythm: 0.008693121155475717
-- murmur: 0.008668763273125607
-- helpful: 0.008668763273125607
-- pulse: 0.008644704268043618
-- s1: 0.008644704268043618
-- neuro: 0.008644704268043618
-- obstructive: 0.008620936894450783
-- nontender: 0.008597454166908203
-- exercise: 0.008597454166908203
-- determine: 0.008484082459283056
-- frequent: 0.008376909101365675
-- alert: 0.00835615986738423
-- characterized: 0.008335627906860122
-- granuloma: 0.008236074327696546
-- oriented: 0.008216756099376915
-- calcium: 0.008197626344582083
-- place: 0.008141332019322415
-- association: 0.008141332019322415
-- testing: 0.008104680778122115
-- reactive: 0.007931046665687908
-- homogeneous: 0.007931046665687908
-- dyspnea: 0.007931046665687908
-- without: 0.007890247711208472
-- light: 0.007818048405223916
-- spontaneous: 0.007818048405223916
-- regular: 0.007726119805422248
-- subtle: 0.007696410383813225
-- ovarian: 0.007667144402996213
-- idiopathic: 0.007638308819879163
-- fibrosis: 0.007460555156608318
-- exam: 0.007361701725292306
-- their: 0.007334009036730728
-- smooth: 0.007334009036730728
-- using: 0.007273672451109642
-- have: 0.007256619915157222
-- affected: 0.007250048257940673
-- room: 0.007203636995027133
-- measures: 0.007169535538729351
-- relatively: 0.007169535538729351
-- parenchyma: 0.00713601704194641
-- lymphadenopathy: 0.007124970340538065
-- function: 0.007103061907992721
-- recurrent: 0.007070651512009956
-- cxr: 0.007070651512009956
-- distress: 0.007059966012465711
-- multiple: 0.007058062758742231
-- 40: 0.007049338429192497
-- shortness: 0.007049338429192497
-- ct: 0.007031197961129664
-- respiratory: 0.006956196597849353
-- administration: 0.006956196597849353
-- pneumonia: 0.006926107245546097
-- 12: 0.006857643980631925
-- no: 0.006748581574147467
-- cells: 0.006718522929705877
-- partial: 0.00670069749499754
-- in: 0.006610152629651058
-- hypertension: 0.006605453043725859
-- pressure: 0.006580260607494783
-- extremities: 0.006571934546942918
-- rare: 0.006506569017006463
-- cough: 0.006420107605506023
-- effusion: 0.006367007686677258
-- radiographic: 0.006359538023115164
-- commonly: 0.006322610673442434
-- intact: 0.006154440434702385
-- wbc: 0.006107989903089827
-- risk: 0.006069032641880562
-- sclerosis: 0.006018265163581068
-- muscle: 0.006018265163581068
-- and: 0.006000300191073948
-- typically: 0.0059145603323646516
-- labs: 0.00582740001359831
-- heart: 0.0058217248017819094
-- that: 0.005788159719838523
-- less: 0.005674392165338593
-- air: 0.005669142405003855
-- (: 0.005665582166618514
-- size: 0.00561740366937014
-- ): 0.005596374055790628
-- by: 0.00557988589507794
-- is: 0.00551265469004633
-- bilaterally: 0.00550334360494883
-- disease: 0.005477402122414526
-- follow-up: 0.005451052924395573
-- often: 0.005346026565724808
-- bowel: 0.005254810848793645
-- be: 0.005167673424878154
-- during: 0.005127469117497663
-- usually: 0.005088094615425018
-- only: 0.005038062075460658
-- renal: 0.005034265783251116
-- 6: 0.00500415717916642
-- neck: 0.004920084582389181
-- years: 0.004920084582389181
-- pulmonary: 0.004895196686706006
-- cystic: 0.004832613151474036
-- abnormal: 0.00477861223591159
-- edema: 0.00473906566555155
-- time: 0.004732551425959437
-- chronic: 0.004719587515503922
-- performed: 0.004671722218092782
-- blood: 0.004573355044135881
-- been: 0.0045584213518901785
-- at: 0.004540247658163267
-- cell: 0.004525962179571541
-- therapy: 0.004479687835765907
-- abdominal: 0.004188076937494343
-- acute: 0.004137018292365677
-- physical: 0.004110794646237722
-- increased: 0.004098989768234619
-- soft: 0.004080248556850098
-- chest: 0.004009272549132389
-- associated: 0.003953848160603337
-- %: 0.003908472614403936
-- woman: 0.0038703979362527574
-- most: 0.003868304199466816
-- small: 0.0038599515380021935
-- demonstrate: 0.003855788512417727
-- can: 0.00380043598523347
-- present: 0.0037843308900621193
-- lower: 0.0037683569987526718
-- demonstrates: 0.003660041571868992
-- findings: 0.0035663469329214894
-- surgical: 0.0035220034710812813
-- female: 0.0034446279832310465
-- treatment: 0.0033914058031389942
-- to: 0.003349553791709696
-- for: 0.002859247641736138
-- on: 0.0028387882837859926
-- .: 0.0027146704074441272
-- an: 0.0023169899299700586
-- history: 0.00231414615236683
-- with: 0.0022941995311743083
-- year: 0.001874716214260617
-- old: 0.0017155580330632443
-- patient: 0.0016795920214046822
-- a: 0.001555293340465103
-- of: 0.0011421941254704747
-- the: 0.0008132310864919165
+\-\ Texto\\:\\ \ \(0\)\
+\-\ physical\\ exam\\:\\ blood\\ pressure\\ 122\\/64\\,\\ pulse\\ 84\\,\\ respiratory\\ rate\\ 12\\,\\ temperature\\ 36\\.8\\,\\ oxygen\\ saturation\\ 92\\%\\ on\\ room\\ air\\.\\ \\ patient\\ is\\ an\\ obese\\ female\\ in\\ no\\ acute\\ distress\\.\\ \\ alert\\ and\\ oriented\\ to\\ person\\,\\ time\\,\\ and\\ place\\.\\ \\ extraoccular\\ movements\\ intact\\.\\ \\ pupils\\ equal\\ and\\ reactive\\ to\\ light\\.\\ moist\\ mucous\\ membranes\\ with\\ clear\\ oropharynx\\.\\ \\ neck\\ supple\\ without\\ thyromegaly\\.\\ \\ regular\\ heart\\ rate\\ and\\ rhythm\\.\\ normal\\ s1\\ and\\ s2\\ without\\ appreciable\\ murmur\\,\\ rub\\ or\\ gallop\\.\\ no\\ jvd\\.\\ \\ diminished\\ breath\\ sounds\\ bilaterally\\.\\ no\\ wheezes\\,\\ rales\\,\\ or\\ rhonchi\\.\\ normal\\ bowel\\ sounds\\.\\ \\ soft\\ nontender\\,\\ nondistended\\.\\ \\ 1\\+\\ pitting\\ edema\\ in\\ bilateral\\ lower\\ extremities\\.\\ no\\ clubbing\\ or\\ cyanosis\\.\\ \\ neuro\\ exam\\ grossly\\ normal\\.\ \(0\)\
+\-\ labs\\:\\ sodium\\ 139\\,\\ potassium\\ 4\\.8\\,\\ chloride\\ 101\\,\\ bicarbonate\\ 29\\,\\ bun\\ 6\\,\\ creatinine\\ 0\\.7\\,\\ glucose\\ 92\\,\\ calcium\\ 9\\.5\\.\\ hemoglobin\\ 14\\.4\\,\\ hematocrit\\ 41\\.2\\,\\ wbc\\ 7\\.8\\,\\ platelets\\ 241\\,000\\.\\ \\ ekg\\:\\ nsr\\.\ \(0\)\
+\-\ treatment\\:\\ most\\ patients\\ are\\ treated\\ symptomatically\\.\\ \\ recurrent\\ pneumothoraces\\ are\\ treated\\ with\\ pleural\\ abrasion\\,\\ pleurodesis\\,\\ or\\ pleurectomy\\.\\ \\ chylous\\ effusion\\ can\\ be\\ managed\\ with\\ thoracentesis\\,\\ chemical\\ pleurodesis\\,\\ or\\ partial\\ pleurectomy\\.\\ antiestrogen\\ measures\\ have\\ also\\ been\\ employed\\:\\ surgical\\ oophorectomy\\,\\ ovarian\\ irradiation\\,\\ hormonal\\ therapy\\ \\(tamoxifen\\,\\ gonadotrophin\\ releasing\\ hormone\\ agonist\\,\\ luteinizing\\ hormone\\ releasing\\ hormone\\,\\ and\\ progesterone\\ administration\\)\\.\\ \\ lung\\ transplantation\\ may\\ be\\ performed\\ in\\ end\\-stage\\ disease\\.\ \(0\)\
+\-\ follow\\-up\\:\\ lung\\ function\\ decline\\ in\\ lam\\ patients\\ is\\ measured\\ with\\ fev\\-1\\.\\ \\ cardiopulmonary\\ exercise\\ testing\\ is\\ using\\ to\\ determine\\ supplemental\\ oxygen\\ requirements\\ and\\ may\\ provide\\ helpful\\ referral\\ parameters\\ for\\ lung\\ transplantation\\.\ \(0\)\
+\-\ \\â\\€\\¢\\ cxr\\:\\ lungs\\ clear\\.\\ \\ cardiomegaly\\.\ \(0\)\
+\-\ \\â\\€\\¢\\ ct\\ chest\\:\\ multiple\\ bilateral\\ and\\ diffuse\\ thin\\-walled\\ cysts\\ relatively\\ homogeneous\\ in\\ size\\.\ \(0\)\
+\-\ lymphangioleiomyomatosis\ \(13\)\
+\-\ \\â\\€\\¢\\ langerhans\\ cell\\ histiocytosis\\ \\(eosinophilic\\ granuloma\\)\ \(0\)\
+\-\ \\â\\€\\¢\\ centrilobular\\ emphysema\ \(0\)\
+\-\ \\â\\€\\¢\\ lymphocytic\\ interstitial\\ pneumonia\ \(0\)\
+\-\ \\â\\€\\¢\\ cystic\\ bronchiectasis\ \(0\)\
+\-\ \\â\\€\\¢\\ idiopathic\\ pulmonary\\ fibrosis\ \(0\)\
+\-\ 40\\ year\\ old\\ woman\\ with\\ history\\ of\\ hypertension\\,\\ obstructive\\ sleep\\ apnea\\ on\\ cpap\\,\\ and\\ morbid\\ obesity\\.\\ \\ multiple\\ hospitalizations\\ for\\ shortness\\ of\\ breath\\.\ \(0\)\
+\-\ lymphangioleiomyomatosis\\ \\(lam\\)\\ is\\ a\\ rare\\ interstitial\\ lung\\ disease\\ that\\ affects\\ only\\ women\\,\\ typically\\ during\\ their\\ reproductive\\ years\\.\\ a\\ small\\ percentage\\ of\\ patients\\,\\ also\\ usually\\ women\\,\\ have\\ lam\\ in\\ association\\ with\\ tuberous\\ sclerosis\\.\\ lam\\ is\\ characterized\\ by\\ the\\ abnormal\\ proliferation\\ of\\ smooth\\ muscle\\ cells\\ in\\ the\\ lungs\\ and\\ in\\ the\\ thoracic\\ and\\ retroperitoneal\\ lymphatics\\.\\ affected\\ patients\\ are\\ also\\ at\\ risk\\ of\\ developing\\ renal\\ hamartomas\\ and\\ angiomyolipomas\\.\\ patients\\ with\\ lam\\ characteristically\\ present\\ with\\ chronic\\ cough\\ and\\ dyspnea\\ and\\ less\\ commonly\\ with\\ spontaneous\\ pneumothorax\\.\\ at\\ radiography\\,\\ lam\\ manifests\\ with\\ normal\\ to\\ increased\\ lung\\ volumes\\ and\\ interstitial\\ reticular\\ opacities\\ that\\ are\\ often\\ subtle\\.\\ unilateral\\ pneumothorax\\ and\\ unilateral\\ or\\ bilateral\\ chylous\\ pleural\\ effusions\\ are\\ frequent\\ radiographic\\ findings\\.\\ computed\\ tomography\\ \\(ct\\)\\ demonstrates\\ bilateral\\ diffuse\\ thin\\-walled\\ cysts\\ surrounded\\ by\\ normal\\ lung\\ parenchyma\\.\\ ct\\ may\\ also\\ demonstrate\\ associated\\ chylous\\ pleural\\ effusions\\ or\\ pneumothorax\\ and\\ thoracic\\ or\\ abdominal\\ lymphadenopathy\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ lam\\:\\ 0\\.07447778557857056\ \(0\)\
+\-\ chylous\\:\\ 0\\.04777865437297972\ \(0\)\
+\-\ pleurodesis\\:\\ 0\\.029134212011163167\ \(0\)\
+\-\ pleurectomy\\:\\ 0\\.029134212011163167\ \(0\)\
+\-\ releasing\\:\\ 0\\.029134212011163167\ \(0\)\
+\-\ lung\\:\\ 0\\.029119519061632307\ \(0\)\
+\-\ hormone\\:\\ 0\\.028501332414202215\ \(0\)\
+\-\ interstitial\\:\\ 0\\.02459287903374625\ \(0\)\
+\-\ thin\\-walled\\:\\ 0\\.024512035554921416\ \(0\)\
+\-\ lymphangioleiomyomatosis\\:\\ 0\\.02422141605627937\ \(0\)\
+\-\ pneumothorax\\:\\ 0\\.02359704340725436\ \(0\)\
+\-\ 92\\:\\ 0\\.023460019921216792\ \(0\)\
+\-\ transplantation\\:\\ 0\\.022274604737401366\ \(0\)\
+\-\ patients\\:\\ 0\\.021682103915353194\ \(0\)\
+\-\ \\â\\€\\¢\\:\\ 0\\.021508040119943558\ \(0\)\
+\-\ pleural\\:\\ 0\\.019519707051019387\ \(0\)\
+\-\ oxygen\\:\\ 0\\.019229393798189616\ \(0\)\
+\-\ \\,\\:\\ 0\\.01857814175118639\ \(0\)\
+\-\ \\:\\:\\ 0\\.017729801035147687\ \(0\)\
+\-\ 122\\/64\\:\\ 0\\.017285330243071564\ \(0\)\
+\-\ 36\\.8\\:\\ 0\\.017285330243071564\ \(0\)\
+\-\ 9\\.5\\.\\:\\ 0\\.017285330243071564\ \(0\)\
+\-\ 41\\.2\\:\\ 0\\.017285330243071564\ \(0\)\
+\-\ 241\\,000\\.\\:\\ 0\\.017285330243071564\ \(0\)\
+\-\ antiestrogen\\:\\ 0\\.017285330243071564\ \(0\)\
+\-\ gonadotrophin\\:\\ 0\\.017285330243071564\ \(0\)\
+\-\ agonist\\:\\ 0\\.017285330243071564\ \(0\)\
+\-\ fev\\-1\\:\\ 0\\.017285330243071564\ \(0\)\
+\-\ effusions\\:\\ 0\\.017102631873384275\ \(0\)\
+\-\ unilateral\\:\\ 0\\.016630617433188687\ \(0\)\
+\-\ women\\:\\ 0\\.01628266403864483\ \(0\)\
+\-\ bilateral\\:\\ 0\\.016265237092662307\ \(0\)\
+\-\ extraoccular\\:\\ 0\\.015926218124326576\ \(0\)\
+\-\ luteinizing\\:\\ 0\\.015926218124326576\ \(0\)\
+\-\ or\\:\\ 0\\.015710160768058156\ \(0\)\
+\-\ 14\\.4\\:\\ 0\\.015131188500585075\ \(0\)\
+\-\ nsr\\:\\ 0\\.014567106005581584\ \(0\)\
+\-\ requirements\\:\\ 0\\.014567106005581584\ \(0\)\
+\-\ morbid\\:\\ 0\\.014567106005581584\ \(0\)\
+\-\ bicarbonate\\:\\ 0\\.014129569630455682\ \(0\)\
+\-\ symptomatically\\:\\ 0\\.014129569630455682\ \(0\)\
+\-\ pitting\\:\\ 0\\.013469820146884677\ \(0\)\
+\-\ abrasion\\:\\ 0\\.013469820146884677\ \(0\)\
+\-\ oophorectomy\\:\\ 0\\.013469820146884677\ \(0\)\
+\-\ lymphatics\\:\\ 0\\.013469820146884677\ \(0\)\
+\-\ sounds\\:\\ 0\\.013366065303946587\ \(0\)\
+\-\ also\\:\\ 0\\.013212702695452168\ \(0\)\
+\-\ rub\\:\\ 0\\.013207993886836591\ \(0\)\
+\-\ gallop\\:\\ 0\\.013207993886836591\ \(0\)\
+\-\ 139\\:\\ 0\\.013207993886836591\ \(0\)\
+\-\ progesterone\\:\\ 0\\.013207993886836591\ \(0\)\
+\-\ hospitalizations\\:\\ 0\\.013207993886836591\ \(0\)\
+\-\ reproductive\\:\\ 0\\.013207993886836591\ \(0\)\
+\-\ normal\\:\\ 0\\.013133455437246089\ \(0\)\
+\-\ cysts\\:\\ 0\\.013127287383652418\ \(0\)\
+\-\ rate\\:\\ 0\\.013061652903826836\ \(0\)\
+\-\ 7\\.8\\:\\ 0\\.012977046758098585\ \(0\)\
+\-\ pneumothoraces\\:\\ 0\\.012977046758098585\ \(0\)\
+\-\ thoracentesis\\:\\ 0\\.012977046758098585\ \(0\)\
+\-\ tamoxifen\\:\\ 0\\.012977046758098585\ \(0\)\
+\-\ thoracic\\:\\ 0\\.01291787257295785\ \(0\)\
+\-\ cpap\\:\\ 0\\.01277045751171069\ \(0\)\
+\-\ lungs\\:\\ 0\\.012689367050903042\ \(0\)\
+\-\ thyromegaly\\:\\ 0\\.012583574806212014\ \(0\)\
+\-\ supplemental\\:\\ 0\\.012583574806212014\ \(0\)\
+\-\ centrilobular\\:\\ 0\\.012583574806212014\ \(0\)\
+\-\ breath\\:\\ 0\\.012529872777448424\ \(0\)\
+\-\ 101\\:\\ 0\\.012412964263095093\ \(0\)\
+\-\ parameters\\:\\ 0\\.012412964263095093\ \(0\)\
+\-\ clear\\:\\ 0\\.012390300443712336\ \(0\)\
+\-\ 4\\.8\\:\\ 0\\.012256017777460708\ \(0\)\
+\-\ chloride\\:\\ 0\\.012256017777460708\ \(0\)\
+\-\ irradiation\\:\\ 0\\.012256017777460708\ \(0\)\
+\-\ manifests\\:\\ 0\\.012110708028139685\ \(0\)\
+\-\ hormonal\\:\\ 0\\.011975427887969192\ \(0\)\
+\-\ end\\-stage\\:\\ 0\\.011975427887969192\ \(0\)\
+\-\ hamartomas\\:\\ 0\\.011975427887969192\ \(0\)\
+\-\ angiomyolipomas\\:\\ 0\\.011975427887969192\ \(0\)\
+\-\ potassium\\:\\ 0\\.011730009960608396\ \(0\)\
+\-\ apnea\\:\\ 0\\.011617934639353596\ \(0\)\
+\-\ percentage\\:\\ 0\\.011617934639353596\ \(0\)\
+\-\ jvd\\:\\ 0\\.011511920480000114\ \(0\)\
+\-\ employed\\:\\ 0\\.011511920480000114\ \(0\)\
+\-\ characteristically\\:\\ 0\\.011511920480000114\ \(0\)\
+\-\ are\\:\\ 0\\.011420332083623546\ \(0\)\
+\-\ 1\\+\\:\\ 0\\.011315678404398186\ \(0\)\
+\-\ 0\\.7\\:\\ 0\\.011315678404398186\ \(0\)\
+\-\ appreciable\\:\\ 0\\.011224462687467024\ \(0\)\
+\-\ decline\\:\\ 0\\.011224462687467024\ \(0\)\
+\-\ cardiopulmonary\\:\\ 0\\.011224462687467024\ \(0\)\
+\-\ volumes\\:\\ 0\\.011224462687467024\ \(0\)\
+\-\ sodium\\:\\ 0\\.011137302368700683\ \(0\)\
+\-\ may\\:\\ 0\\.011025460993518376\ \(0\)\
+\-\ nondistended\\:\\ 0\\.010896905658715718\ \(0\)\
+\-\ platelets\\:\\ 0\\.010896905658715718\ \(0\)\
+\-\ reticular\\:\\ 0\\.010896905658715718\ \(0\)\
+\-\ person\\:\\ 0\\.010822905015612096\ \(0\)\
+\-\ lymphocytic\\:\\ 0\\.01068278939996083\ \(0\)\
+\-\ moist\\:\\ 0\\.010616315769224201\ \(0\)\
+\-\ 84\\:\\ 0\\.010552021998983044\ \(0\)\
+\-\ oropharynx\\:\\ 0\\.01048976964934661\ \(0\)\
+\-\ obesity\\:\\ 0\\.01048976964934661\ \(0\)\
+\-\ supple\\:\\ 0\\.010370897841863406\ \(0\)\
+\-\ clubbing\\:\\ 0\\.010370897841863406\ \(0\)\
+\-\ chemical\\:\\ 0\\.010314059534268793\ \(0\)\
+\-\ hemoglobin\\:\\ 0\\.01020509904180838\ \(0\)\
+\-\ diffuse\\:\\ 0\\.010145127138726725\ \(0\)\
+\-\ wheezes\\:\\ 0\\.010101876034974219\ \(0\)\
+\-\ rhonchi\\:\\ 0\\.010101876034974219\ \(0\)\
+\-\ ekg\\:\\ 0\\.010101876034974219\ \(0\)\
+\-\ proliferation\\:\\ 0\\.010101876034974219\ \(0\)\
+\-\ treated\\:\\ 0\\.010030787592485723\ \(0\)\
+\-\ langerhans\\:\\ 0\\.009910428055437128\ \(0\)\
+\-\ saturation\\:\\ 0\\.009865350568722033\ \(0\)\
+\-\ hematocrit\\:\\ 0\\.009865350568722033\ \(0\)\
+\-\ membranes\\:\\ 0\\.009821286145482703\ \(0\)\
+\-\ cyanosis\\:\\ 0\\.009821286145482703\ \(0\)\
+\-\ cardiomegaly\\:\\ 0\\.009778190249955692\ \(0\)\
+\-\ bronchiectasis\\:\\ 0\\.009778190249955692\ \(0\)\
+\-\ obese\\:\\ 0\\.009694740025605112\ \(0\)\
+\-\ mucous\\:\\ 0\\.009654310050697787\ \(0\)\
+\-\ surrounded\\:\\ 0\\.009575868218121905\ \(0\)\
+\-\ creatinine\\:\\ 0\\.009537793539970725\ \(0\)\
+\-\ affects\\:\\ 0\\.009537793539970725\ \(0\)\
+\-\ radiography\\:\\ 0\\.009537793539970725\ \(0\)\
+\-\ referral\\:\\ 0\\.009500444138067405\ \(0\)\
+\-\ sleep\\:\\ 0\\.009500444138067405\ \(0\)\
+\-\ temperature\\:\\ 0\\.009463792896867105\ \(0\)\
+\-\ provide\\:\\ 0\\.009392483790649704\ \(0\)\
+\-\ histiocytosis\\:\\ 0\\.009323677281215841\ \(0\)\
+\-\ bun\\:\\ 0\\.00925720365047921\ \(0\)\
+\-\ s2\\:\\ 0\\.009224793254496445\ \(0\)\
+\-\ rales\\:\\ 0\\.009224793254496445\ \(0\)\
+\-\ tuberous\\:\\ 0\\.009224793254496445\ \(0\)\
+\-\ pupils\\:\\ 0\\.009161536661911697\ \(0\)\
+\-\ diminished\\:\\ 0\\.009161536661911697\ \(0\)\
+\-\ emphysema\\:\\ 0\\.009161536661911697\ \(0\)\
+\-\ movements\\:\\ 0\\.009100257164844824\ \(0\)\
+\-\ measured\\:\\ 0\\.009100257164844824\ \(0\)\
+\-\ managed\\:\\ 0\\.009011785723118414\ \(0\)\
+\-\ eosinophilic\\:\\ 0\\.008983160626214194\ \(0\)\
+\-\ glucose\\:\\ 0\\.008954947415523802\ \(0\)\
+\-\ tomography\\:\\ 0\\.008954947415523802\ \(0\)\
+\-\ retroperitoneal\\:\\ 0\\.008927134405735653\ \(0\)\
+\-\ computed\\:\\ 0\\.008845986923063388\ \(0\)\
+\-\ grossly\\:\\ 0\\.008793696242510132\ \(0\)\
+\-\ equal\\:\\ 0\\.008768064710025126\ \(0\)\
+\-\ developing\\:\\ 0\\.008768064710025126\ \(0\)\
+\-\ 29\\:\\ 0\\.008742763916229229\ \(0\)\
+\-\ opacities\\:\\ 0\\.008742763916229229\ \(0\)\
+\-\ rhythm\\:\\ 0\\.008693121155475717\ \(0\)\
+\-\ murmur\\:\\ 0\\.008668763273125607\ \(0\)\
+\-\ helpful\\:\\ 0\\.008668763273125607\ \(0\)\
+\-\ pulse\\:\\ 0\\.008644704268043618\ \(0\)\
+\-\ s1\\:\\ 0\\.008644704268043618\ \(0\)\
+\-\ neuro\\:\\ 0\\.008644704268043618\ \(0\)\
+\-\ obstructive\\:\\ 0\\.008620936894450783\ \(0\)\
+\-\ nontender\\:\\ 0\\.008597454166908203\ \(0\)\
+\-\ exercise\\:\\ 0\\.008597454166908203\ \(0\)\
+\-\ determine\\:\\ 0\\.008484082459283056\ \(0\)\
+\-\ frequent\\:\\ 0\\.008376909101365675\ \(0\)\
+\-\ alert\\:\\ 0\\.00835615986738423\ \(0\)\
+\-\ characterized\\:\\ 0\\.008335627906860122\ \(0\)\
+\-\ granuloma\\:\\ 0\\.008236074327696546\ \(0\)\
+\-\ oriented\\:\\ 0\\.008216756099376915\ \(0\)\
+\-\ calcium\\:\\ 0\\.008197626344582083\ \(0\)\
+\-\ place\\:\\ 0\\.008141332019322415\ \(0\)\
+\-\ association\\:\\ 0\\.008141332019322415\ \(0\)\
+\-\ testing\\:\\ 0\\.008104680778122115\ \(0\)\
+\-\ reactive\\:\\ 0\\.007931046665687908\ \(0\)\
+\-\ homogeneous\\:\\ 0\\.007931046665687908\ \(0\)\
+\-\ dyspnea\\:\\ 0\\.007931046665687908\ \(0\)\
+\-\ without\\:\\ 0\\.007890247711208472\ \(0\)\
+\-\ light\\:\\ 0\\.007818048405223916\ \(0\)\
+\-\ spontaneous\\:\\ 0\\.007818048405223916\ \(0\)\
+\-\ regular\\:\\ 0\\.007726119805422248\ \(0\)\
+\-\ subtle\\:\\ 0\\.007696410383813225\ \(0\)\
+\-\ ovarian\\:\\ 0\\.007667144402996213\ \(0\)\
+\-\ idiopathic\\:\\ 0\\.007638308819879163\ \(0\)\
+\-\ fibrosis\\:\\ 0\\.007460555156608318\ \(0\)\
+\-\ exam\\:\\ 0\\.007361701725292306\ \(0\)\
+\-\ their\\:\\ 0\\.007334009036730728\ \(0\)\
+\-\ smooth\\:\\ 0\\.007334009036730728\ \(0\)\
+\-\ using\\:\\ 0\\.007273672451109642\ \(0\)\
+\-\ have\\:\\ 0\\.007256619915157222\ \(0\)\
+\-\ affected\\:\\ 0\\.007250048257940673\ \(0\)\
+\-\ room\\:\\ 0\\.007203636995027133\ \(0\)\
+\-\ measures\\:\\ 0\\.007169535538729351\ \(0\)\
+\-\ relatively\\:\\ 0\\.007169535538729351\ \(0\)\
+\-\ parenchyma\\:\\ 0\\.00713601704194641\ \(0\)\
+\-\ lymphadenopathy\\:\\ 0\\.007124970340538065\ \(0\)\
+\-\ function\\:\\ 0\\.007103061907992721\ \(0\)\
+\-\ recurrent\\:\\ 0\\.007070651512009956\ \(0\)\
+\-\ cxr\\:\\ 0\\.007070651512009956\ \(0\)\
+\-\ distress\\:\\ 0\\.007059966012465711\ \(0\)\
+\-\ multiple\\:\\ 0\\.007058062758742231\ \(0\)\
+\-\ 40\\:\\ 0\\.007049338429192497\ \(0\)\
+\-\ shortness\\:\\ 0\\.007049338429192497\ \(0\)\
+\-\ ct\\:\\ 0\\.007031197961129664\ \(0\)\
+\-\ respiratory\\:\\ 0\\.006956196597849353\ \(0\)\
+\-\ administration\\:\\ 0\\.006956196597849353\ \(0\)\
+\-\ pneumonia\\:\\ 0\\.006926107245546097\ \(0\)\
+\-\ 12\\:\\ 0\\.006857643980631925\ \(0\)\
+\-\ no\\:\\ 0\\.006748581574147467\ \(0\)\
+\-\ cells\\:\\ 0\\.006718522929705877\ \(0\)\
+\-\ partial\\:\\ 0\\.00670069749499754\ \(0\)\
+\-\ in\\:\\ 0\\.006610152629651058\ \(0\)\
+\-\ hypertension\\:\\ 0\\.006605453043725859\ \(0\)\
+\-\ pressure\\:\\ 0\\.006580260607494783\ \(0\)\
+\-\ extremities\\:\\ 0\\.006571934546942918\ \(0\)\
+\-\ rare\\:\\ 0\\.006506569017006463\ \(0\)\
+\-\ cough\\:\\ 0\\.006420107605506023\ \(0\)\
+\-\ effusion\\:\\ 0\\.006367007686677258\ \(0\)\
+\-\ radiographic\\:\\ 0\\.006359538023115164\ \(0\)\
+\-\ commonly\\:\\ 0\\.006322610673442434\ \(0\)\
+\-\ intact\\:\\ 0\\.006154440434702385\ \(0\)\
+\-\ wbc\\:\\ 0\\.006107989903089827\ \(0\)\
+\-\ risk\\:\\ 0\\.006069032641880562\ \(0\)\
+\-\ sclerosis\\:\\ 0\\.006018265163581068\ \(0\)\
+\-\ muscle\\:\\ 0\\.006018265163581068\ \(0\)\
+\-\ and\\:\\ 0\\.006000300191073948\ \(0\)\
+\-\ typically\\:\\ 0\\.0059145603323646516\ \(0\)\
+\-\ labs\\:\\ 0\\.00582740001359831\ \(0\)\
+\-\ heart\\:\\ 0\\.0058217248017819094\ \(0\)\
+\-\ that\\:\\ 0\\.005788159719838523\ \(0\)\
+\-\ less\\:\\ 0\\.005674392165338593\ \(0\)\
+\-\ air\\:\\ 0\\.005669142405003855\ \(0\)\
+\-\ \\(\\:\\ 0\\.005665582166618514\ \(0\)\
+\-\ size\\:\\ 0\\.00561740366937014\ \(0\)\
+\-\ \\)\\:\\ 0\\.005596374055790628\ \(0\)\
+\-\ by\\:\\ 0\\.00557988589507794\ \(0\)\
+\-\ is\\:\\ 0\\.00551265469004633\ \(0\)\
+\-\ bilaterally\\:\\ 0\\.00550334360494883\ \(0\)\
+\-\ disease\\:\\ 0\\.005477402122414526\ \(0\)\
+\-\ follow\\-up\\:\\ 0\\.005451052924395573\ \(0\)\
+\-\ often\\:\\ 0\\.005346026565724808\ \(0\)\
+\-\ bowel\\:\\ 0\\.005254810848793645\ \(0\)\
+\-\ be\\:\\ 0\\.005167673424878154\ \(0\)\
+\-\ during\\:\\ 0\\.005127469117497663\ \(0\)\
+\-\ usually\\:\\ 0\\.005088094615425018\ \(0\)\
+\-\ only\\:\\ 0\\.005038062075460658\ \(0\)\
+\-\ renal\\:\\ 0\\.005034265783251116\ \(0\)\
+\-\ 6\\:\\ 0\\.00500415717916642\ \(0\)\
+\-\ neck\\:\\ 0\\.004920084582389181\ \(0\)\
+\-\ years\\:\\ 0\\.004920084582389181\ \(0\)\
+\-\ pulmonary\\:\\ 0\\.004895196686706006\ \(0\)\
+\-\ cystic\\:\\ 0\\.004832613151474036\ \(0\)\
+\-\ abnormal\\:\\ 0\\.00477861223591159\ \(0\)\
+\-\ edema\\:\\ 0\\.00473906566555155\ \(0\)\
+\-\ time\\:\\ 0\\.004732551425959437\ \(0\)\
+\-\ chronic\\:\\ 0\\.004719587515503922\ \(0\)\
+\-\ performed\\:\\ 0\\.004671722218092782\ \(0\)\
+\-\ blood\\:\\ 0\\.004573355044135881\ \(0\)\
+\-\ been\\:\\ 0\\.0045584213518901785\ \(0\)\
+\-\ at\\:\\ 0\\.004540247658163267\ \(0\)\
+\-\ cell\\:\\ 0\\.004525962179571541\ \(0\)\
+\-\ therapy\\:\\ 0\\.004479687835765907\ \(0\)\
+\-\ abdominal\\:\\ 0\\.004188076937494343\ \(0\)\
+\-\ acute\\:\\ 0\\.004137018292365677\ \(0\)\
+\-\ physical\\:\\ 0\\.004110794646237722\ \(0\)\
+\-\ increased\\:\\ 0\\.004098989768234619\ \(0\)\
+\-\ soft\\:\\ 0\\.004080248556850098\ \(0\)\
+\-\ chest\\:\\ 0\\.004009272549132389\ \(0\)\
+\-\ associated\\:\\ 0\\.003953848160603337\ \(0\)\
+\-\ \\%\\:\\ 0\\.003908472614403936\ \(0\)\
+\-\ woman\\:\\ 0\\.0038703979362527574\ \(0\)\
+\-\ most\\:\\ 0\\.003868304199466816\ \(0\)\
+\-\ small\\:\\ 0\\.0038599515380021935\ \(0\)\
+\-\ demonstrate\\:\\ 0\\.003855788512417727\ \(0\)\
+\-\ can\\:\\ 0\\.00380043598523347\ \(0\)\
+\-\ present\\:\\ 0\\.0037843308900621193\ \(0\)\
+\-\ lower\\:\\ 0\\.0037683569987526718\ \(0\)\
+\-\ demonstrates\\:\\ 0\\.003660041571868992\ \(0\)\
+\-\ findings\\:\\ 0\\.0035663469329214894\ \(0\)\
+\-\ surgical\\:\\ 0\\.0035220034710812813\ \(0\)\
+\-\ female\\:\\ 0\\.0034446279832310465\ \(0\)\
+\-\ treatment\\:\\ 0\\.0033914058031389942\ \(0\)\
+\-\ to\\:\\ 0\\.003349553791709696\ \(0\)\
+\-\ for\\:\\ 0\\.002859247641736138\ \(0\)\
+\-\ on\\:\\ 0\\.0028387882837859926\ \(0\)\
+\-\ \\.\\:\\ 0\\.0027146704074441272\ \(0\)\
+\-\ an\\:\\ 0\\.0023169899299700586\ \(0\)\
+\-\ history\\:\\ 0\\.00231414615236683\ \(0\)\
+\-\ with\\:\\ 0\\.0022941995311743083\ \(0\)\
+\-\ year\\:\\ 0\\.001874716214260617\ \(0\)\
+\-\ old\\:\\ 0\\.0017155580330632443\ \(0\)\
+\-\ patient\\:\\ 0\\.0016795920214046822\ \(0\)\
+\-\ a\\:\\ 0\\.001555293340465103\ \(0\)\
+\-\ of\\:\\ 0\\.0011421941254704747\ \(0\)\
+\-\ the\\:\\ 0\\.0008132310864919165\ \(0\)\

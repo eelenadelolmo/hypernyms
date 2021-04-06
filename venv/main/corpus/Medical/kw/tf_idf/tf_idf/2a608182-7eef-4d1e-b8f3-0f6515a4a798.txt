@@ -1,36 +1,34 @@
-Texto: 
-left lateral knee pain.
-orthopedics referal
-linear lucency near the lateral intercondylar tubercle
-tibial plateau fracture
-tibial plateau fracture.
-patient presents to the emergency department complaining of left knee pain after a fall.
-
-
-Keywords by value: 
-- plateau: 0.29384210551946316
-- tibial: 0.21933244297282864
-- referal: 0.20636733507907243
-- tubercle: 0.18711324673018506
-- intercondylar: 0.1782673097546702
-- knee: 0.1721383734755709
-- orthopedics: 0.14383145178444756
-- fracture: 0.12517079612626547
-- complaining: 0.1158646534673646
-- lucency: 0.10903248043735402
-- department: 0.10644199450717116
-- fall: 0.10442423940606083
-- near: 0.10270901698749287
-- lateral: 0.1025926692013639
-- linear: 0.10062671036323022
-- emergency: 0.08988301661056321
-- pain: 0.05797823152948526
-- left: 0.05311695940405081
-- after: 0.049111144516922285
-- presents: 0.048490119319664605
-- patient: 0.023794220303233
-- to: 0.011863003012305173
-- a: 0.011016661161627812
-- the: 0.0076805158168681
-- of: 0.0032362166888330116
-- .: 0.0029582946747788563
+\-\ Texto\\:\\ \ \(0\)\
+\-\ left\\ lateral\\ knee\\ pain\\.\ \(0\)\
+\-\ orthopedics\\ referal\ \(0\)\
+\-\ linear\\ lucency\\ near\\ the\\ lateral\\ intercondylar\\ tubercle\ \(0\)\
+\-\ tibial\\ plateau\\ fracture\ \(7\)\
+\-\ tibial\\ plateau\\ fracture\\.\ \(3\)\
+\-\ patient\\ presents\\ to\\ the\\ emergency\\ department\\ complaining\\ of\\ left\\ knee\\ pain\\ after\\ a\\ fall\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ plateau\\:\\ 0\\.29384210551946316\ \(0\)\
+\-\ tibial\\:\\ 0\\.21933244297282864\ \(0\)\
+\-\ referal\\:\\ 0\\.20636733507907243\ \(0\)\
+\-\ tubercle\\:\\ 0\\.18711324673018506\ \(0\)\
+\-\ intercondylar\\:\\ 0\\.1782673097546702\ \(0\)\
+\-\ knee\\:\\ 0\\.1721383734755709\ \(0\)\
+\-\ orthopedics\\:\\ 0\\.14383145178444756\ \(0\)\
+\-\ fracture\\:\\ 0\\.12517079612626547\ \(0\)\
+\-\ complaining\\:\\ 0\\.1158646534673646\ \(0\)\
+\-\ lucency\\:\\ 0\\.10903248043735402\ \(0\)\
+\-\ department\\:\\ 0\\.10644199450717116\ \(0\)\
+\-\ fall\\:\\ 0\\.10442423940606083\ \(0\)\
+\-\ near\\:\\ 0\\.10270901698749287\ \(0\)\
+\-\ lateral\\:\\ 0\\.1025926692013639\ \(0\)\
+\-\ linear\\:\\ 0\\.10062671036323022\ \(0\)\
+\-\ emergency\\:\\ 0\\.08988301661056321\ \(0\)\
+\-\ pain\\:\\ 0\\.05797823152948526\ \(0\)\
+\-\ left\\:\\ 0\\.05311695940405081\ \(0\)\
+\-\ after\\:\\ 0\\.049111144516922285\ \(0\)\
+\-\ presents\\:\\ 0\\.048490119319664605\ \(0\)\
+\-\ patient\\:\\ 0\\.023794220303233\ \(0\)\
+\-\ to\\:\\ 0\\.011863003012305173\ \(0\)\
+\-\ a\\:\\ 0\\.011016661161627812\ \(0\)\
+\-\ the\\:\\ 0\\.0076805158168681\ \(0\)\
+\-\ of\\:\\ 0\\.0032362166888330116\ \(0\)\
+\-\ \\.\\:\\ 0\\.0029582946747788563\ \(0\)\

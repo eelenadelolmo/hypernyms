@@ -1,54 +1,52 @@
-Texto: 
-prominent neck and inguinal lymphadenopathy.  firm mass involving bilateral perineum.
-large heterogeneous soft tissue mass within the perineal soft tissues and adjacent to the vagina and bladder.  prominent retroperitoneal, mediastinal, cervical, and inguinal lymphadenopathy.
-rhabdomyosarcoma, metastatic
-ddx:
-1.	rhabdomyosarcoma, metastatic
-2.	lymphoma/leukemia
-14 y.o. female presents with progressive fatigue and persistent fevers.
-
-
-Keywords by value: 
-- inguinal: 0.15025578871043835
-- rhabdomyosarcoma: 0.15025578871043835
-- lymphadenopathy: 0.11355421480232541
-- perineum: 0.10974623366778817
-- prominent: 0.10960158520516541
-- lymphoma/leukemia: 0.1052512012857291
-- perineal: 0.100275361737002
-- vagina: 0.09766514166414002
-- fatigue: 0.0713597372174553
-- retroperitoneal: 0.07113810229570598
-- ddx: 0.07049145829316138
-- metastatic: 0.06722216886300282
-- firm: 0.06547727516690979
-- soft: 0.06502896137479844
-- fevers: 0.06346762863843959
-- 14: 0.05883847526120252
-- mediastinal: 0.056689572158214734
-- tissues: 0.05480079260258271
-- bladder: 0.054193920207016084
-- persistent: 0.05325541644541218
-- progressive: 0.052772486172551605
-- heterogeneous: 0.04909679932492196
-- cervical: 0.0485170532279942
-- involving: 0.046850113500051464
-- 2.: 0.042460064715629034
-- adjacent: 0.042216191314597924
-- 1.: 0.04170608072340001
-- neck: 0.03920692401591379
-- y.o: 0.03853717863416719
-- mass: 0.03713940646711139
-- bilateral: 0.03240340202053819
-- tissue: 0.031647206069571776
-- large: 0.02919597549736062
-- female: 0.0274493792413724
-- presents: 0.027275692117311342
-- within: 0.025470803256032525
-- ,: 0.021149223868538077
-- :: 0.01766054399985414
-- and: 0.014063203572829567
-- to: 0.00667293919442166
-- the: 0.004320290146988306
-- .: 0.0033280815091262135
-- with: 0.0018281902514045271
+\-\ Texto\\:\\ \ \(0\)\
+\-\ prominent\\ neck\\ and\\ inguinal\\ lymphadenopathy\\.\\ \\ firm\\ mass\\ involving\\ bilateral\\ perineum\\.\ \(0\)\
+\-\ large\\ heterogeneous\\ soft\\ tissue\\ mass\\ within\\ the\\ perineal\\ soft\\ tissues\\ and\\ adjacent\\ to\\ the\\ vagina\\ and\\ bladder\\.\\ \\ prominent\\ retroperitoneal\\,\\ mediastinal\\,\\ cervical\\,\\ and\\ inguinal\\ lymphadenopathy\\.\ \(0\)\
+\-\ rhabdomyosarcoma\\,\\ metastatic\ \(2\)\
+\-\ ddx\\:\ \(3\)\
+\-\ 1\\.\\	rhabdomyosarcoma\\,\\ metastatic\ \(0\)\
+\-\ 2\\.\\	lymphoma\\/leukemia\ \(0\)\
+\-\ 14\\ y\\.o\\.\\ female\\ presents\\ with\\ progressive\\ fatigue\\ and\\ persistent\\ fevers\\.\ \(1\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ inguinal\\:\\ 0\\.15025578871043835\ \(0\)\
+\-\ rhabdomyosarcoma\\:\\ 0\\.15025578871043835\ \(0\)\
+\-\ lymphadenopathy\\:\\ 0\\.11355421480232541\ \(0\)\
+\-\ perineum\\:\\ 0\\.10974623366778817\ \(0\)\
+\-\ prominent\\:\\ 0\\.10960158520516541\ \(0\)\
+\-\ lymphoma\\/leukemia\\:\\ 0\\.1052512012857291\ \(0\)\
+\-\ perineal\\:\\ 0\\.100275361737002\ \(0\)\
+\-\ vagina\\:\\ 0\\.09766514166414002\ \(0\)\
+\-\ fatigue\\:\\ 0\\.0713597372174553\ \(0\)\
+\-\ retroperitoneal\\:\\ 0\\.07113810229570598\ \(0\)\
+\-\ ddx\\:\\ 0\\.07049145829316138\ \(0\)\
+\-\ metastatic\\:\\ 0\\.06722216886300282\ \(0\)\
+\-\ firm\\:\\ 0\\.06547727516690979\ \(0\)\
+\-\ soft\\:\\ 0\\.06502896137479844\ \(0\)\
+\-\ fevers\\:\\ 0\\.06346762863843959\ \(0\)\
+\-\ 14\\:\\ 0\\.05883847526120252\ \(0\)\
+\-\ mediastinal\\:\\ 0\\.056689572158214734\ \(0\)\
+\-\ tissues\\:\\ 0\\.05480079260258271\ \(0\)\
+\-\ bladder\\:\\ 0\\.054193920207016084\ \(0\)\
+\-\ persistent\\:\\ 0\\.05325541644541218\ \(0\)\
+\-\ progressive\\:\\ 0\\.052772486172551605\ \(0\)\
+\-\ heterogeneous\\:\\ 0\\.04909679932492196\ \(0\)\
+\-\ cervical\\:\\ 0\\.0485170532279942\ \(0\)\
+\-\ involving\\:\\ 0\\.046850113500051464\ \(0\)\
+\-\ 2\\.\\:\\ 0\\.042460064715629034\ \(0\)\
+\-\ adjacent\\:\\ 0\\.042216191314597924\ \(0\)\
+\-\ 1\\.\\:\\ 0\\.04170608072340001\ \(0\)\
+\-\ neck\\:\\ 0\\.03920692401591379\ \(0\)\
+\-\ y\\.o\\:\\ 0\\.03853717863416719\ \(0\)\
+\-\ mass\\:\\ 0\\.03713940646711139\ \(0\)\
+\-\ bilateral\\:\\ 0\\.03240340202053819\ \(0\)\
+\-\ tissue\\:\\ 0\\.031647206069571776\ \(0\)\
+\-\ large\\:\\ 0\\.02919597549736062\ \(0\)\
+\-\ female\\:\\ 0\\.0274493792413724\ \(0\)\
+\-\ presents\\:\\ 0\\.027275692117311342\ \(0\)\
+\-\ within\\:\\ 0\\.025470803256032525\ \(0\)\
+\-\ \\,\\:\\ 0\\.021149223868538077\ \(0\)\
+\-\ \\:\\:\\ 0\\.01766054399985414\ \(0\)\
+\-\ and\\:\\ 0\\.014063203572829567\ \(0\)\
+\-\ to\\:\\ 0\\.00667293919442166\ \(0\)\
+\-\ the\\:\\ 0\\.004320290146988306\ \(0\)\
+\-\ \\.\\:\\ 0\\.0033280815091262135\ \(0\)\
+\-\ with\\:\\ 0\\.0018281902514045271\ \(0\)\

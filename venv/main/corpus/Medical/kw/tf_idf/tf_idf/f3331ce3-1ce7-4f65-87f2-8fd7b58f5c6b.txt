@@ -1,71 +1,68 @@
-Texto: 
-elevated esr (erythrocyte sedimentation rate) and anca (anti-neutrophil cytoplasmic antibodies)
-steroids and immunosuppression
-â€¢ multiple pulmonary nodules
-â€¢ left pleural effusion
-wegener's granulomatosis
-â€¢ metastatic disease
-â€¢ necrotizing vasculitis
-â€¢ infection
-â€¢ congenital (multiple avms)
-others (tb, histo, exposure, etc.)
-26 year old male with hematuria and hemoptysis.
-vasculitis slide shows - http://www.wegenersgranulomatosis.net/list_of_slide_shows.html
-
-wegener website - http://www.wegenersgranulomatosis.net/
-
-
-Keywords by value: 
-- wegener: 0.1452859358394673
-- â€¢: 0.12536114812767102
-- //www.wegenersgranulomatosis.net/list_of_slide_shows.html: 0.11754024565288665
-- //www.wegenersgranulomatosis.net/: 0.11754024565288665
-- vasculitis: 0.11660979113269819
-- anti-neutrophil: 0.1082982832454207
-- anca: 0.09905632083795478
-- immunosuppression: 0.09159477699881581
-- histo: 0.09159477699881581
-- cytoplasmic: 0.08824391795507039
-- avms: 0.08824391795507039
-- slide: 0.08824391795507039
-- website: 0.0868391110796327
-- http: 0.08628769594614069
-- erythrocyte: 0.08440815698904663
-- antibodies: 0.08235281459134987
-- sedimentation: 0.07632634627477577
-- granulomatosis: 0.07133043361555695
-- others: 0.06708438386730983
-- necrotizing: 0.06649169369969872
-- hemoptysis: 0.06564930834474496
-- etc: 0.06167818242586763
-- exposure: 0.05928094095332636
-- esr: 0.057691760723124784
-- tb: 0.05486717410898776
-- hematuria: 0.054044593188916565
-- steroids: 0.053596371711596764
-- 26: 0.05274274692806435
-- -: 0.04884609223222303
-- multiple: 0.047994826759447176
-- nodules: 0.04723358487203669
-- rate: 0.044409619873011244
-- pleural: 0.04424466931564395
-- effusion: 0.043295652269405356
-- congenital: 0.041668786261899175
-- elevated: 0.03865755148478751
-- (: 0.0385259587330059
-- ): 0.038055343579376275
-- pulmonary: 0.03328733746960085
-- infection: 0.03312022098763743
-- shows: 0.03132498266305172
-- :: 0.03014066175975107
-- metastatic: 0.028681458714881206
-- 's: 0.025120621578227267
-- male: 0.02060274050516631
-- disease: 0.01862316721620939
-- left: 0.012748070256972197
-- year: 0.012748070256972197
-- old: 0.011665794624830063
-- ,: 0.010828402620691496
-- and: 0.0072003602292887384
-- with: 0.00156005568119853
-- .: 0.000946654295929234
+\-\ Texto\\:\\ \ \(0\)\
+\-\ elevated\\ esr\\ \\(erythrocyte\\ sedimentation\\ rate\\)\\ and\\ anca\\ \\(anti\\-neutrophil\\ cytoplasmic\\ antibodies\\)\ \(0\)\
+\-\ steroids\\ and\\ immunosuppression\ \(1\)\
+\-\ \\â\\€\\¢\\ multiple\\ pulmonary\\ nodules\ \(0\)\
+\-\ \\â\\€\\¢\\ left\\ pleural\\ effusion\ \(0\)\
+\-\ wegener\\'s\\ granulomatosis\ \(1\)\
+\-\ \\â\\€\\¢\\ metastatic\\ disease\ \(13\)\
+\-\ \\â\\€\\¢\\ necrotizing\\ vasculitis\ \(0\)\
+\-\ \\â\\€\\¢\\ infection\ \(8\)\
+\-\ \\â\\€\\¢\\ congenital\\ \\(multiple\\ avms\\)\ \(0\)\
+\-\ others\\ \\(tb\\,\\ histo\\,\\ exposure\\,\\ etc\\.\\)\ \(0\)\
+\-\ 26\\ year\\ old\\ male\\ with\\ hematuria\\ and\\ hemoptysis\\.\ \(1\)\
+\-\ vasculitis\\ slide\\ shows\\ \\-\\ http\\:\\/\\/www\\.wegenersgranulomatosis\\.net\\/list\\_of\\_slide\\_shows\\.html\ \(0\)\
+\-\ wegener\\ website\\ \\-\\ http\\:\\/\\/www\\.wegenersgranulomatosis\\.net\\/\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ wegener\\:\\ 0\\.1452859358394673\ \(0\)\
+\-\ \\â\\€\\¢\\:\\ 0\\.12536114812767102\ \(0\)\
+\-\ \\/\\/www\\.wegenersgranulomatosis\\.net\\/list\\_of\\_slide\\_shows\\.html\\:\\ 0\\.11754024565288665\ \(0\)\
+\-\ \\/\\/www\\.wegenersgranulomatosis\\.net\\/\\:\\ 0\\.11754024565288665\ \(0\)\
+\-\ vasculitis\\:\\ 0\\.11660979113269819\ \(0\)\
+\-\ anti\\-neutrophil\\:\\ 0\\.1082982832454207\ \(0\)\
+\-\ anca\\:\\ 0\\.09905632083795478\ \(0\)\
+\-\ immunosuppression\\:\\ 0\\.09159477699881581\ \(0\)\
+\-\ histo\\:\\ 0\\.09159477699881581\ \(0\)\
+\-\ cytoplasmic\\:\\ 0\\.08824391795507039\ \(0\)\
+\-\ avms\\:\\ 0\\.08824391795507039\ \(0\)\
+\-\ slide\\:\\ 0\\.08824391795507039\ \(0\)\
+\-\ website\\:\\ 0\\.0868391110796327\ \(0\)\
+\-\ http\\:\\ 0\\.08628769594614069\ \(0\)\
+\-\ erythrocyte\\:\\ 0\\.08440815698904663\ \(0\)\
+\-\ antibodies\\:\\ 0\\.08235281459134987\ \(0\)\
+\-\ sedimentation\\:\\ 0\\.07632634627477577\ \(0\)\
+\-\ granulomatosis\\:\\ 0\\.07133043361555695\ \(0\)\
+\-\ others\\:\\ 0\\.06708438386730983\ \(0\)\
+\-\ necrotizing\\:\\ 0\\.06649169369969872\ \(0\)\
+\-\ hemoptysis\\:\\ 0\\.06564930834474496\ \(0\)\
+\-\ etc\\:\\ 0\\.06167818242586763\ \(0\)\
+\-\ exposure\\:\\ 0\\.05928094095332636\ \(0\)\
+\-\ esr\\:\\ 0\\.057691760723124784\ \(0\)\
+\-\ tb\\:\\ 0\\.05486717410898776\ \(0\)\
+\-\ hematuria\\:\\ 0\\.054044593188916565\ \(0\)\
+\-\ steroids\\:\\ 0\\.053596371711596764\ \(0\)\
+\-\ 26\\:\\ 0\\.05274274692806435\ \(0\)\
+\-\ \\-\\:\\ 0\\.04884609223222303\ \(0\)\
+\-\ multiple\\:\\ 0\\.047994826759447176\ \(0\)\
+\-\ nodules\\:\\ 0\\.04723358487203669\ \(0\)\
+\-\ rate\\:\\ 0\\.044409619873011244\ \(0\)\
+\-\ pleural\\:\\ 0\\.04424466931564395\ \(0\)\
+\-\ effusion\\:\\ 0\\.043295652269405356\ \(0\)\
+\-\ congenital\\:\\ 0\\.041668786261899175\ \(0\)\
+\-\ elevated\\:\\ 0\\.03865755148478751\ \(0\)\
+\-\ \\(\\:\\ 0\\.0385259587330059\ \(0\)\
+\-\ \\)\\:\\ 0\\.038055343579376275\ \(0\)\
+\-\ pulmonary\\:\\ 0\\.03328733746960085\ \(0\)\
+\-\ infection\\:\\ 0\\.03312022098763743\ \(0\)\
+\-\ shows\\:\\ 0\\.03132498266305172\ \(0\)\
+\-\ \\:\\:\\ 0\\.03014066175975107\ \(0\)\
+\-\ metastatic\\:\\ 0\\.028681458714881206\ \(0\)\
+\-\ \\'s\\:\\ 0\\.025120621578227267\ \(0\)\
+\-\ male\\:\\ 0\\.02060274050516631\ \(0\)\
+\-\ disease\\:\\ 0\\.01862316721620939\ \(0\)\
+\-\ left\\:\\ 0\\.012748070256972197\ \(0\)\
+\-\ year\\:\\ 0\\.012748070256972197\ \(0\)\
+\-\ old\\:\\ 0\\.011665794624830063\ \(0\)\
+\-\ \\,\\:\\ 0\\.010828402620691496\ \(0\)\
+\-\ and\\:\\ 0\\.0072003602292887384\ \(0\)\
+\-\ with\\:\\ 0\\.00156005568119853\ \(0\)\
+\-\ \\.\\:\\ 0\\.000946654295929234\ \(0\)\

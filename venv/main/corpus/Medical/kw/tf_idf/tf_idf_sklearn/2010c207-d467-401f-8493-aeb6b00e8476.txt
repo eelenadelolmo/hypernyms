@@ -1,96 +1,93 @@
-Texto: 
-lab results consistent with liver failure
-the patient is in the intensive care unit awaiting liver transplant
-question small liver?
-multiple venous collaterals
-splenomegaly
-ascites
-incidental finding of gallstones
-cirrhosis of the liver
-alcoholism (laennec's cirrhosis)
-chronic viral hepatitis
-biliary cirrhosis
-hemachromatosis
-drug induced cirrhosis
-wilson disease
-alpha 1 anti-trypsin deficiency
-33 yo active duty man with decreased mental status, increased abdominal girth. hx of hepatitis c
-these ct images demonstrate multiple sequelae of chronic hepatitis c infection.  the liver has progressed through cirrhosis with subsequent development of multiple venous collateral vessels, splenomegaly and ascites.  incidentally noted are gallstones.
-
-more on hepatitis c:
-http://digestive.niddk.nih.gov/ddiseases/pubs/chronichepc/
-
-
-Keywords by value: 
-- cirrhosis: 0.45062781354342574
-- hepatitis: 0.351828291638249
-- liver: 0.2951039238370938
-- splenomegaly: 0.19910739710362974
-- gallstones: 0.18532288058210772
-- ascites: 0.17649662698138702
-- laennec: 0.1368233687997964
-- hemachromatosis: 0.12642725719737816
-- multiple: 0.12554254648261914
-- venous: 0.12216702852799795
-- alcoholism: 0.10563503399254166
-- intensive: 0.1038684747135063
-- collaterals: 0.1038684747135063
-- girth: 0.1038684747135063
-- chronic: 0.10156771169413624
-- awaiting: 0.10085873161150867
-- wilson: 0.10019202546659257
-- unit: 0.09152177184644547
-- sequelae: 0.09080742642806298
-- alpha: 0.09012556270868514
-- progressed: 0.0888483302475966
-- question: 0.08824831349069351
-- transplant: 0.08556287315628204
-- induced: 0.08484281078770518
-- of: 0.08371508036227591
-- deficiency: 0.08371457842344752
-- collateral: 0.08187573746883546
-- duty: 0.08112566024402723
-- biliary: 0.07956372103708971
-- viral: 0.0789185282862327
-- drug: 0.07785220188827527
-- hx: 0.07785220188827527
-- lab: 0.07727526850438314
-- 33: 0.07529020602563918
-- mental: 0.07456433444441982
-- incidentally: 0.07288991141877561
-- development: 0.07072954864160898
-- the: 0.06828643733560141
-- results: 0.06666840282082358
-- vessels: 0.06639192644556367
-- failure: 0.06495619976518274
-- subsequent: 0.06477064995144556
-- active: 0.06353235649956199
-- incidental: 0.06341958590323214
-- http: 0.06325200406312187
-- care: 0.06113166332189404
-- status: 0.059706546204763775
-- finding: 0.05623745167044402
-- yo: 0.05345080858206927
-- decreased: 0.05299541364033074
-- infection: 0.05168103868145399
-- through: 0.05092970871756352
-- with: 0.0502590600617065
-- these: 0.048313706559686885
-- more: 0.04697963492624964
-- abdominal: 0.04679308502561078
-- consistent: 0.0463906642875755
-- increased: 0.046264852967995096
-- noted: 0.04536189773671954
-- man: 0.04529464014126213
-- demonstrate: 0.044478420334185996
-- small: 0.04413289174372026
-- images: 0.039575548268241806
-- has: 0.03907968761501269
-- disease: 0.035913552927604
-- ct: 0.03257213892089675
-- are: 0.0324647768400321
-- patient: 0.027827213996189287
-- on: 0.025839512592105325
-- is: 0.023430211602777692
-- in: 0.021283664921047576
-- and: 0.01767919028716922
+\-\ Texto\\:\\ \ \(0\)\
+\-\ lab\\ results\\ consistent\\ with\\ liver\\ failure\ \(0\)\
+\-\ the\\ patient\\ is\\ in\\ the\\ intensive\\ care\\ unit\\ awaiting\\ liver\\ transplant\ \(0\)\
+\-\ question\\ small\\ liver\\?\ \(0\)\
+\-\ multiple\\ venous\\ collaterals\ \(0\)\
+\-\ splenomegaly\ \(46\)\
+\-\ ascites\ \(66\)\
+\-\ incidental\\ finding\\ of\\ gallstones\ \(0\)\
+\-\ cirrhosis\\ of\\ the\\ liver\ \(0\)\
+\-\ alcoholism\\ \\(laennec\\'s\\ cirrhosis\\)\ \(0\)\
+\-\ chronic\\ viral\\ hepatitis\ \(0\)\
+\-\ biliary\\ cirrhosis\ \(2\)\
+\-\ hemachromatosis\ \(0\)\
+\-\ drug\\ induced\\ cirrhosis\ \(0\)\
+\-\ wilson\\ disease\ \(1\)\
+\-\ alpha\\ 1\\ anti\\-trypsin\\ deficiency\ \(0\)\
+\-\ 33\\ yo\\ active\\ duty\\ man\\ with\\ decreased\\ mental\\ status\\,\\ increased\\ abdominal\\ girth\\.\\ hx\\ of\\ hepatitis\\ c\ \(0\)\
+\-\ these\\ ct\\ images\\ demonstrate\\ multiple\\ sequelae\\ of\\ chronic\\ hepatitis\\ c\\ infection\\.\\ \\ the\\ liver\\ has\\ progressed\\ through\\ cirrhosis\\ with\\ subsequent\\ development\\ of\\ multiple\\ venous\\ collateral\\ vessels\\,\\ splenomegaly\\ and\\ ascites\\.\\ \\ incidentally\\ noted\\ are\\ gallstones\\.\ \(0\)\
+\-\ more\\ on\\ hepatitis\\ c\\:\ \(0\)\
+\-\ http\\:\\/\\/digestive\\.niddk\\.nih\\.gov\\/ddiseases\\/pubs\\/chronichepc\\/\ \(1\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ cirrhosis\\:\\ 0\\.45062781354342574\ \(0\)\
+\-\ hepatitis\\:\\ 0\\.351828291638249\ \(0\)\
+\-\ liver\\:\\ 0\\.2951039238370938\ \(0\)\
+\-\ splenomegaly\\:\\ 0\\.19910739710362974\ \(0\)\
+\-\ gallstones\\:\\ 0\\.18532288058210772\ \(0\)\
+\-\ ascites\\:\\ 0\\.17649662698138702\ \(0\)\
+\-\ laennec\\:\\ 0\\.1368233687997964\ \(0\)\
+\-\ hemachromatosis\\:\\ 0\\.12642725719737816\ \(0\)\
+\-\ multiple\\:\\ 0\\.12554254648261914\ \(0\)\
+\-\ venous\\:\\ 0\\.12216702852799795\ \(0\)\
+\-\ alcoholism\\:\\ 0\\.10563503399254166\ \(0\)\
+\-\ intensive\\:\\ 0\\.1038684747135063\ \(0\)\
+\-\ collaterals\\:\\ 0\\.1038684747135063\ \(0\)\
+\-\ girth\\:\\ 0\\.1038684747135063\ \(0\)\
+\-\ chronic\\:\\ 0\\.10156771169413624\ \(0\)\
+\-\ awaiting\\:\\ 0\\.10085873161150867\ \(0\)\
+\-\ wilson\\:\\ 0\\.10019202546659257\ \(0\)\
+\-\ unit\\:\\ 0\\.09152177184644547\ \(0\)\
+\-\ sequelae\\:\\ 0\\.09080742642806298\ \(0\)\
+\-\ alpha\\:\\ 0\\.09012556270868514\ \(0\)\
+\-\ progressed\\:\\ 0\\.0888483302475966\ \(0\)\
+\-\ question\\:\\ 0\\.08824831349069351\ \(0\)\
+\-\ transplant\\:\\ 0\\.08556287315628204\ \(0\)\
+\-\ induced\\:\\ 0\\.08484281078770518\ \(0\)\
+\-\ of\\:\\ 0\\.08371508036227591\ \(0\)\
+\-\ deficiency\\:\\ 0\\.08371457842344752\ \(0\)\
+\-\ collateral\\:\\ 0\\.08187573746883546\ \(0\)\
+\-\ duty\\:\\ 0\\.08112566024402723\ \(0\)\
+\-\ biliary\\:\\ 0\\.07956372103708971\ \(0\)\
+\-\ viral\\:\\ 0\\.0789185282862327\ \(0\)\
+\-\ drug\\:\\ 0\\.07785220188827527\ \(0\)\
+\-\ hx\\:\\ 0\\.07785220188827527\ \(0\)\
+\-\ lab\\:\\ 0\\.07727526850438314\ \(0\)\
+\-\ 33\\:\\ 0\\.07529020602563918\ \(0\)\
+\-\ mental\\:\\ 0\\.07456433444441982\ \(0\)\
+\-\ incidentally\\:\\ 0\\.07288991141877561\ \(0\)\
+\-\ development\\:\\ 0\\.07072954864160898\ \(0\)\
+\-\ the\\:\\ 0\\.06828643733560141\ \(0\)\
+\-\ results\\:\\ 0\\.06666840282082358\ \(0\)\
+\-\ vessels\\:\\ 0\\.06639192644556367\ \(0\)\
+\-\ failure\\:\\ 0\\.06495619976518274\ \(0\)\
+\-\ subsequent\\:\\ 0\\.06477064995144556\ \(0\)\
+\-\ active\\:\\ 0\\.06353235649956199\ \(0\)\
+\-\ incidental\\:\\ 0\\.06341958590323214\ \(0\)\
+\-\ http\\:\\ 0\\.06325200406312187\ \(0\)\
+\-\ care\\:\\ 0\\.06113166332189404\ \(0\)\
+\-\ status\\:\\ 0\\.059706546204763775\ \(0\)\
+\-\ finding\\:\\ 0\\.05623745167044402\ \(0\)\
+\-\ yo\\:\\ 0\\.05345080858206927\ \(0\)\
+\-\ decreased\\:\\ 0\\.05299541364033074\ \(0\)\
+\-\ infection\\:\\ 0\\.05168103868145399\ \(0\)\
+\-\ through\\:\\ 0\\.05092970871756352\ \(0\)\
+\-\ with\\:\\ 0\\.0502590600617065\ \(0\)\
+\-\ these\\:\\ 0\\.048313706559686885\ \(0\)\
+\-\ more\\:\\ 0\\.04697963492624964\ \(0\)\
+\-\ abdominal\\:\\ 0\\.04679308502561078\ \(0\)\
+\-\ consistent\\:\\ 0\\.0463906642875755\ \(0\)\
+\-\ increased\\:\\ 0\\.046264852967995096\ \(0\)\
+\-\ noted\\:\\ 0\\.04536189773671954\ \(0\)\
+\-\ man\\:\\ 0\\.04529464014126213\ \(0\)\
+\-\ demonstrate\\:\\ 0\\.044478420334185996\ \(0\)\
+\-\ small\\:\\ 0\\.04413289174372026\ \(0\)\
+\-\ images\\:\\ 0\\.039575548268241806\ \(0\)\
+\-\ has\\:\\ 0\\.03907968761501269\ \(0\)\
+\-\ disease\\:\\ 0\\.035913552927604\ \(0\)\
+\-\ ct\\:\\ 0\\.03257213892089675\ \(0\)\
+\-\ are\\:\\ 0\\.0324647768400321\ \(0\)\
+\-\ patient\\:\\ 0\\.027827213996189287\ \(0\)\
+\-\ on\\:\\ 0\\.025839512592105325\ \(0\)\
+\-\ is\\:\\ 0\\.023430211602777692\ \(0\)\
+\-\ in\\:\\ 0\\.021283664921047576\ \(0\)\
+\-\ and\\:\\ 0\\.01767919028716922\ \(0\)\

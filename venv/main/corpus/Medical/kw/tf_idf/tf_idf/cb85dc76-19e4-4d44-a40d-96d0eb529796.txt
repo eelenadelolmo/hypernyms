@@ -1,83 +1,81 @@
-Texto: 
-physical examination showed deformity and limited movement at the interphalangeal joint of the thumb.
-reduction and immobilization in slight flexion for three weeks.
-a-p radiograph of the hand and oblique and lateral radiographs of the first ray show a complete dislocation of the distal phalanx of the right thumb.  on the initial film, no fracture was identified; on subsequent radiograph after reduction (not available) an avulsion fracture was noted at the base of the distal phalanx
-dislocation at the interphalangeal joint of the thumb
-with avulsion fracture
-dislocation at the interphalangeal joint of the thumb
-with avulsion fracture
-patient presented with pain in his thumb after falling backwards and catching himself that morning, causing him to bend his thumb backwards.
-
-
-Keywords by value: 
-- thumb: 0.23729983057033444
-- interphalangeal: 0.13653673127441995
-- backwards: 0.11964195558602152
-- avulsion: 0.10620984143993346
-- dislocation: 0.0934820436830176
-- phalanx: 0.07372209943286945
-- fracture: 0.06986276993093887
-- joint: 0.06426579662888561
-- reduction: 0.06245002606487523
-- bend: 0.05759088420811324
-- catching: 0.053252777324892905
-- himself: 0.04845402377135629
-- a-p: 0.04551224375813998
-- ray: 0.04551224375813998
-- radiograph: 0.04220075432436221
-- his: 0.038184326010029954
-- falling: 0.03741499517366065
-- him: 0.036344062317220205
-- morning: 0.036220028663371824
-- distal: 0.03601982308443452
-- at: 0.035899632645942106
-- immobilization: 0.035627990068142566
-- movement: 0.033118012726329416
-- slight: 0.031160681227672533
-- oblique: 0.03078551424424734
-- flexion: 0.030486174429303313
-- causing: 0.028616701120645262
-- deformity: 0.02852496113888555
-- limited: 0.027953738535853312
-- after: 0.02741087135828221
-- hand: 0.02722646136362343
-- base: 0.02594928901419664
-- subsequent: 0.0257874472698435
-- film: 0.025442859963092854
-- identified: 0.023670287140979237
-- complete: 0.023312991736326002
-- three: 0.02233042037478225
-- available: 0.0222691399134868
-- first: 0.022228553758029863
-- initial: 0.021950249172707815
-- showed: 0.021719405177703075
-- radiographs: 0.02097884373024909
-- examination: 0.020592426631585777
-- show: 0.02033454212784206
-- weeks: 0.01880060276667557
-- presented: 0.018057035930406272
-- physical: 0.016251978833963086
-- ;: 0.015700939445368944
-- noted: 0.015700939445368944
-- was: 0.015322132127343981
-- lateral: 0.014315256167632172
-- the: 0.013932098458504925
-- that: 0.011441711074099406
-- on: 0.01122311647078183
-- not: 0.009572237765441359
-- an: 0.009160192746393254
-- pain: 0.008089985794811896
-- of: 0.007225041909952771
-- right: 0.006989393093879199
-- and: 0.006977093245434824
-- no: 0.00667010969537831
-- patient: 0.006640247526483628
-- in: 0.006533290389771395
-- for: 0.005652001152269109
-- (: 0.005599703304215973
-- ): 0.00553129993886283
-- ,: 0.004197055279337789
-- to: 0.003310605491806095
-- a: 0.00307441706836125
-- with: 0.0027210273509276684
-- .: 0.0011007608092200396
+\-\ Texto\\:\\ \ \(0\)\
+\-\ physical\\ examination\\ showed\\ deformity\\ and\\ limited\\ movement\\ at\\ the\\ interphalangeal\\ joint\\ of\\ the\\ thumb\\.\ \(0\)\
+\-\ reduction\\ and\\ immobilization\\ in\\ slight\\ flexion\\ for\\ three\\ weeks\\.\ \(0\)\
+\-\ a\\-p\\ radiograph\\ of\\ the\\ hand\\ and\\ oblique\\ and\\ lateral\\ radiographs\\ of\\ the\\ first\\ ray\\ show\\ a\\ complete\\ dislocation\\ of\\ the\\ distal\\ phalanx\\ of\\ the\\ right\\ thumb\\.\\ \\ on\\ the\\ initial\\ film\\,\\ no\\ fracture\\ was\\ identified\\;\\ on\\ subsequent\\ radiograph\\ after\\ reduction\\ \\(not\\ available\\)\\ an\\ avulsion\\ fracture\\ was\\ noted\\ at\\ the\\ base\\ of\\ the\\ distal\\ phalanx\ \(0\)\
+\-\ dislocation\\ at\\ the\\ interphalangeal\\ joint\\ of\\ the\\ thumb\ \(0\)\
+\-\ with\\ avulsion\\ fracture\ \(2\)\
+\-\ dislocation\\ at\\ the\\ interphalangeal\\ joint\\ of\\ the\\ thumb\ \(0\)\
+\-\ with\\ avulsion\\ fracture\ \(2\)\
+\-\ patient\\ presented\\ with\\ pain\\ in\\ his\\ thumb\\ after\\ falling\\ backwards\\ and\\ catching\\ himself\\ that\\ morning\\,\\ causing\\ him\\ to\\ bend\\ his\\ thumb\\ backwards\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ thumb\\:\\ 0\\.23729983057033444\ \(0\)\
+\-\ interphalangeal\\:\\ 0\\.13653673127441995\ \(0\)\
+\-\ backwards\\:\\ 0\\.11964195558602152\ \(0\)\
+\-\ avulsion\\:\\ 0\\.10620984143993346\ \(0\)\
+\-\ dislocation\\:\\ 0\\.0934820436830176\ \(0\)\
+\-\ phalanx\\:\\ 0\\.07372209943286945\ \(0\)\
+\-\ fracture\\:\\ 0\\.06986276993093887\ \(0\)\
+\-\ joint\\:\\ 0\\.06426579662888561\ \(0\)\
+\-\ reduction\\:\\ 0\\.06245002606487523\ \(0\)\
+\-\ bend\\:\\ 0\\.05759088420811324\ \(0\)\
+\-\ catching\\:\\ 0\\.053252777324892905\ \(0\)\
+\-\ himself\\:\\ 0\\.04845402377135629\ \(0\)\
+\-\ a\\-p\\:\\ 0\\.04551224375813998\ \(0\)\
+\-\ ray\\:\\ 0\\.04551224375813998\ \(0\)\
+\-\ radiograph\\:\\ 0\\.04220075432436221\ \(0\)\
+\-\ his\\:\\ 0\\.038184326010029954\ \(0\)\
+\-\ falling\\:\\ 0\\.03741499517366065\ \(0\)\
+\-\ him\\:\\ 0\\.036344062317220205\ \(0\)\
+\-\ morning\\:\\ 0\\.036220028663371824\ \(0\)\
+\-\ distal\\:\\ 0\\.03601982308443452\ \(0\)\
+\-\ at\\:\\ 0\\.035899632645942106\ \(0\)\
+\-\ immobilization\\:\\ 0\\.035627990068142566\ \(0\)\
+\-\ movement\\:\\ 0\\.033118012726329416\ \(0\)\
+\-\ slight\\:\\ 0\\.031160681227672533\ \(0\)\
+\-\ oblique\\:\\ 0\\.03078551424424734\ \(0\)\
+\-\ flexion\\:\\ 0\\.030486174429303313\ \(0\)\
+\-\ causing\\:\\ 0\\.028616701120645262\ \(0\)\
+\-\ deformity\\:\\ 0\\.02852496113888555\ \(0\)\
+\-\ limited\\:\\ 0\\.027953738535853312\ \(0\)\
+\-\ after\\:\\ 0\\.02741087135828221\ \(0\)\
+\-\ hand\\:\\ 0\\.02722646136362343\ \(0\)\
+\-\ base\\:\\ 0\\.02594928901419664\ \(0\)\
+\-\ subsequent\\:\\ 0\\.0257874472698435\ \(0\)\
+\-\ film\\:\\ 0\\.025442859963092854\ \(0\)\
+\-\ identified\\:\\ 0\\.023670287140979237\ \(0\)\
+\-\ complete\\:\\ 0\\.023312991736326002\ \(0\)\
+\-\ three\\:\\ 0\\.02233042037478225\ \(0\)\
+\-\ available\\:\\ 0\\.0222691399134868\ \(0\)\
+\-\ first\\:\\ 0\\.022228553758029863\ \(0\)\
+\-\ initial\\:\\ 0\\.021950249172707815\ \(0\)\
+\-\ showed\\:\\ 0\\.021719405177703075\ \(0\)\
+\-\ radiographs\\:\\ 0\\.02097884373024909\ \(0\)\
+\-\ examination\\:\\ 0\\.020592426631585777\ \(0\)\
+\-\ show\\:\\ 0\\.02033454212784206\ \(0\)\
+\-\ weeks\\:\\ 0\\.01880060276667557\ \(0\)\
+\-\ presented\\:\\ 0\\.018057035930406272\ \(0\)\
+\-\ physical\\:\\ 0\\.016251978833963086\ \(0\)\
+\-\ \\;\\:\\ 0\\.015700939445368944\ \(0\)\
+\-\ noted\\:\\ 0\\.015700939445368944\ \(0\)\
+\-\ was\\:\\ 0\\.015322132127343981\ \(0\)\
+\-\ lateral\\:\\ 0\\.014315256167632172\ \(0\)\
+\-\ the\\:\\ 0\\.013932098458504925\ \(0\)\
+\-\ that\\:\\ 0\\.011441711074099406\ \(0\)\
+\-\ on\\:\\ 0\\.01122311647078183\ \(0\)\
+\-\ not\\:\\ 0\\.009572237765441359\ \(0\)\
+\-\ an\\:\\ 0\\.009160192746393254\ \(0\)\
+\-\ pain\\:\\ 0\\.008089985794811896\ \(0\)\
+\-\ of\\:\\ 0\\.007225041909952771\ \(0\)\
+\-\ right\\:\\ 0\\.006989393093879199\ \(0\)\
+\-\ and\\:\\ 0\\.006977093245434824\ \(0\)\
+\-\ no\\:\\ 0\\.00667010969537831\ \(0\)\
+\-\ patient\\:\\ 0\\.006640247526483628\ \(0\)\
+\-\ in\\:\\ 0\\.006533290389771395\ \(0\)\
+\-\ for\\:\\ 0\\.005652001152269109\ \(0\)\
+\-\ \\(\\:\\ 0\\.005599703304215973\ \(0\)\
+\-\ \\)\\:\\ 0\\.00553129993886283\ \(0\)\
+\-\ \\,\\:\\ 0\\.004197055279337789\ \(0\)\
+\-\ to\\:\\ 0\\.003310605491806095\ \(0\)\
+\-\ a\\:\\ 0\\.00307441706836125\ \(0\)\
+\-\ with\\:\\ 0\\.0027210273509276684\ \(0\)\
+\-\ \\.\\:\\ 0\\.0011007608092200396\ \(0\)\

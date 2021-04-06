@@ -1,56 +1,54 @@
-Texto: 
-tc-99m mdp bone scan demonstrates diffusely increased uptake in the axial skeleton as well as parts of the appendicular skeleton.  the kidneys and soft tissue activity are not visualized.  these findings are consistent with a superscan, secondary to diffuse osteoblastic metastatic disease in a patient with known prostate cancer.
-superscan -- diffuse osteoblastic metastasis - prostate cancer.
-metabolic and myeloproliferative disorders
-70 year old male with a history of prostate cancer
-
-
-Keywords by value: 
-- superscan: 0.3994009143534803
-- prostate: 0.3926934461405452
-- osteoblastic: 0.30237703772863417
-- skeleton: 0.29399369876488557
-- cancer: 0.2700428129568084
-- myeloproliferative: 0.20651593978077906
-- diffuse: 0.16950179289496733
-- parts: 0.16278641714509015
-- appendicular: 0.15826012313076634
-- mdp: 0.1553555486944322
-- diffusely: 0.1256763123555206
-- metabolic: 0.12251281705750176
-- disorders: 0.11932086407073875
-- kidneys: 0.11633221106467859
-- 70: 0.11157811699685338
-- as: 0.10858284836172438
-- visualized: 0.10552869264033996
-- uptake: 0.1039164364752682
-- are: 0.10256064903747204
-- activity: 0.09921908739991549
-- metastasis: 0.09904925855058075
-- known: 0.08749507065680298
-- the: 0.08089730642657583
-- scan: 0.08017837603209169
-- secondary: 0.0801021990435297
-- with: 0.07938760591734306
-- axial: 0.07806300350475248
-- these: 0.076314787663308
-- metastatic: 0.07411874477441957
-- bone: 0.07373780484227004
-- consistent: 0.073277211515379
-- increased: 0.07307848397358797
-- soft: 0.07194683968093604
-- tissue: 0.07089256014236268
-- demonstrates: 0.06789397947663635
-- in: 0.06723799454881937
-- findings: 0.0666981038911241
-- well: 0.06543652690013335
-- male: 0.06017051299224315
-- disease: 0.056727901067146674
-- and: 0.055850968551036384
-- not: 0.05335093194981832
-- of: 0.05289346677776615
-- history: 0.05163214976967034
-- patient: 0.043954978381902494
-- year: 0.04164817006815755
-- old: 0.03999666013727773
-- to: 0.03378528839391279
+\-\ Texto\\:\\ \ \(0\)\
+\-\ tc\\-99m\\ mdp\\ bone\\ scan\\ demonstrates\\ diffusely\\ increased\\ uptake\\ in\\ the\\ axial\\ skeleton\\ as\\ well\\ as\\ parts\\ of\\ the\\ appendicular\\ skeleton\\.\\ \\ the\\ kidneys\\ and\\ soft\\ tissue\\ activity\\ are\\ not\\ visualized\\.\\ \\ these\\ findings\\ are\\ consistent\\ with\\ a\\ superscan\\,\\ secondary\\ to\\ diffuse\\ osteoblastic\\ metastatic\\ disease\\ in\\ a\\ patient\\ with\\ known\\ prostate\\ cancer\\.\ \(0\)\
+\-\ superscan\\ \\-\\-\\ diffuse\\ osteoblastic\\ metastasis\\ \\-\\ prostate\\ cancer\\.\ \(0\)\
+\-\ metabolic\\ and\\ myeloproliferative\\ disorders\ \(1\)\
+\-\ 70\\ year\\ old\\ male\\ with\\ a\\ history\\ of\\ prostate\\ cancer\ \(1\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ superscan\\:\\ 0\\.3994009143534803\ \(0\)\
+\-\ prostate\\:\\ 0\\.3926934461405452\ \(0\)\
+\-\ osteoblastic\\:\\ 0\\.30237703772863417\ \(0\)\
+\-\ skeleton\\:\\ 0\\.29399369876488557\ \(0\)\
+\-\ cancer\\:\\ 0\\.2700428129568084\ \(0\)\
+\-\ myeloproliferative\\:\\ 0\\.20651593978077906\ \(0\)\
+\-\ diffuse\\:\\ 0\\.16950179289496733\ \(0\)\
+\-\ parts\\:\\ 0\\.16278641714509015\ \(0\)\
+\-\ appendicular\\:\\ 0\\.15826012313076634\ \(0\)\
+\-\ mdp\\:\\ 0\\.1553555486944322\ \(0\)\
+\-\ diffusely\\:\\ 0\\.1256763123555206\ \(0\)\
+\-\ metabolic\\:\\ 0\\.12251281705750176\ \(0\)\
+\-\ disorders\\:\\ 0\\.11932086407073875\ \(0\)\
+\-\ kidneys\\:\\ 0\\.11633221106467859\ \(0\)\
+\-\ 70\\:\\ 0\\.11157811699685338\ \(0\)\
+\-\ as\\:\\ 0\\.10858284836172438\ \(0\)\
+\-\ visualized\\:\\ 0\\.10552869264033996\ \(0\)\
+\-\ uptake\\:\\ 0\\.1039164364752682\ \(0\)\
+\-\ are\\:\\ 0\\.10256064903747204\ \(0\)\
+\-\ activity\\:\\ 0\\.09921908739991549\ \(0\)\
+\-\ metastasis\\:\\ 0\\.09904925855058075\ \(0\)\
+\-\ known\\:\\ 0\\.08749507065680298\ \(0\)\
+\-\ the\\:\\ 0\\.08089730642657583\ \(0\)\
+\-\ scan\\:\\ 0\\.08017837603209169\ \(0\)\
+\-\ secondary\\:\\ 0\\.0801021990435297\ \(0\)\
+\-\ with\\:\\ 0\\.07938760591734306\ \(0\)\
+\-\ axial\\:\\ 0\\.07806300350475248\ \(0\)\
+\-\ these\\:\\ 0\\.076314787663308\ \(0\)\
+\-\ metastatic\\:\\ 0\\.07411874477441957\ \(0\)\
+\-\ bone\\:\\ 0\\.07373780484227004\ \(0\)\
+\-\ consistent\\:\\ 0\\.073277211515379\ \(0\)\
+\-\ increased\\:\\ 0\\.07307848397358797\ \(0\)\
+\-\ soft\\:\\ 0\\.07194683968093604\ \(0\)\
+\-\ tissue\\:\\ 0\\.07089256014236268\ \(0\)\
+\-\ demonstrates\\:\\ 0\\.06789397947663635\ \(0\)\
+\-\ in\\:\\ 0\\.06723799454881937\ \(0\)\
+\-\ findings\\:\\ 0\\.0666981038911241\ \(0\)\
+\-\ well\\:\\ 0\\.06543652690013335\ \(0\)\
+\-\ male\\:\\ 0\\.06017051299224315\ \(0\)\
+\-\ disease\\:\\ 0\\.056727901067146674\ \(0\)\
+\-\ and\\:\\ 0\\.055850968551036384\ \(0\)\
+\-\ not\\:\\ 0\\.05335093194981832\ \(0\)\
+\-\ of\\:\\ 0\\.05289346677776615\ \(0\)\
+\-\ history\\:\\ 0\\.05163214976967034\ \(0\)\
+\-\ patient\\:\\ 0\\.043954978381902494\ \(0\)\
+\-\ year\\:\\ 0\\.04164817006815755\ \(0\)\
+\-\ old\\:\\ 0\\.03999666013727773\ \(0\)\
+\-\ to\\:\\ 0\\.03378528839391279\ \(0\)\

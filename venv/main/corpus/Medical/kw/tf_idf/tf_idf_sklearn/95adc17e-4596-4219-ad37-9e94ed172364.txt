@@ -1,56 +1,54 @@
-Texto: 
-soft tissue swelling and extreme pain of the left shoulder.
-splinting and decreased use.
-radiograph of the left clavicle demonstrates a comminuted fracture with a butterfly fragment of the mid-clavicle.
-butterfly fragment subtype of comminuted fracture.
-comminuted fracture
-patient fell on the ice during recent trip to alaska while getting off a train and landed on shoulder. she immediately heard a loud crack and had excruciating pain.
-see factoid
-
-
-Keywords by value: 
-- comminuted: 0.4129106224875657
-- butterfly: 0.3126257961976098
-- clavicle: 0.26799657708424235
-- fragment: 0.21521558510016603
-- fracture: 0.21184000485343957
-- alaska: 0.19869654110412713
-- shoulder: 0.19302967524344206
-- crack: 0.18986515266539902
-- excruciating: 0.18986515266539902
-- train: 0.1835991828498107
-- loud: 0.1835991828498107
-- trip: 0.16593640597235443
-- landed: 0.15481017237612202
-- splinting: 0.14966141584961815
-- subtype: 0.14646826260125004
-- extreme: 0.14121553984448842
-- getting: 0.14121553984448842
-- ice: 0.1369866502385646
-- heard: 0.1313709043469336
-- immediately: 0.11370812746947731
-- fell: 0.11063531090225712
-- off: 0.10380357203348828
-- and: 0.10269573071898905
-- the: 0.09916638525953266
-- of: 0.0972576369206487
-- use: 0.09506546375396627
-- pain: 0.08891964448936676
-- factoid: 0.08677034429544311
-- left: 0.08476609997010878
-- recent: 0.08412699756096724
-- swelling: 0.08362369415282973
-- radiograph: 0.08092356060896899
-- while: 0.08029776841374728
-- during: 0.07869719347202385
-- see: 0.07728873193275765
-- decreased: 0.07696057681582144
-- on: 0.07504890167381272
-- she: 0.07396073529243231
-- soft: 0.066145972627171
-- tissue: 0.06517669661992566
-- demonstrates: 0.06241988290142046
-- had: 0.06190396859001261
-- patient: 0.04041101471268112
-- to: 0.03106127762130162
-- with: 0.024328937083883395
+\-\ Texto\\:\\ \ \(0\)\
+\-\ soft\\ tissue\\ swelling\\ and\\ extreme\\ pain\\ of\\ the\\ left\\ shoulder\\.\ \(0\)\
+\-\ splinting\\ and\\ decreased\\ use\\.\ \(0\)\
+\-\ radiograph\\ of\\ the\\ left\\ clavicle\\ demonstrates\\ a\\ comminuted\\ fracture\\ with\\ a\\ butterfly\\ fragment\\ of\\ the\\ mid\\-clavicle\\.\ \(0\)\
+\-\ butterfly\\ fragment\\ subtype\\ of\\ comminuted\\ fracture\\.\ \(0\)\
+\-\ comminuted\\ fracture\ \(22\)\
+\-\ patient\\ fell\\ on\\ the\\ ice\\ during\\ recent\\ trip\\ to\\ alaska\\ while\\ getting\\ off\\ a\\ train\\ and\\ landed\\ on\\ shoulder\\.\\ she\\ immediately\\ heard\\ a\\ loud\\ crack\\ and\\ had\\ excruciating\\ pain\\.\ \(0\)\
+\-\ see\\ factoid\ \(116\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ comminuted\\:\\ 0\\.4129106224875657\ \(0\)\
+\-\ butterfly\\:\\ 0\\.3126257961976098\ \(0\)\
+\-\ clavicle\\:\\ 0\\.26799657708424235\ \(0\)\
+\-\ fragment\\:\\ 0\\.21521558510016603\ \(0\)\
+\-\ fracture\\:\\ 0\\.21184000485343957\ \(0\)\
+\-\ alaska\\:\\ 0\\.19869654110412713\ \(0\)\
+\-\ shoulder\\:\\ 0\\.19302967524344206\ \(0\)\
+\-\ crack\\:\\ 0\\.18986515266539902\ \(0\)\
+\-\ excruciating\\:\\ 0\\.18986515266539902\ \(0\)\
+\-\ train\\:\\ 0\\.1835991828498107\ \(0\)\
+\-\ loud\\:\\ 0\\.1835991828498107\ \(0\)\
+\-\ trip\\:\\ 0\\.16593640597235443\ \(0\)\
+\-\ landed\\:\\ 0\\.15481017237612202\ \(0\)\
+\-\ splinting\\:\\ 0\\.14966141584961815\ \(0\)\
+\-\ subtype\\:\\ 0\\.14646826260125004\ \(0\)\
+\-\ extreme\\:\\ 0\\.14121553984448842\ \(0\)\
+\-\ getting\\:\\ 0\\.14121553984448842\ \(0\)\
+\-\ ice\\:\\ 0\\.1369866502385646\ \(0\)\
+\-\ heard\\:\\ 0\\.1313709043469336\ \(0\)\
+\-\ immediately\\:\\ 0\\.11370812746947731\ \(0\)\
+\-\ fell\\:\\ 0\\.11063531090225712\ \(0\)\
+\-\ off\\:\\ 0\\.10380357203348828\ \(0\)\
+\-\ and\\:\\ 0\\.10269573071898905\ \(0\)\
+\-\ the\\:\\ 0\\.09916638525953266\ \(0\)\
+\-\ of\\:\\ 0\\.0972576369206487\ \(0\)\
+\-\ use\\:\\ 0\\.09506546375396627\ \(0\)\
+\-\ pain\\:\\ 0\\.08891964448936676\ \(0\)\
+\-\ factoid\\:\\ 0\\.08677034429544311\ \(0\)\
+\-\ left\\:\\ 0\\.08476609997010878\ \(0\)\
+\-\ recent\\:\\ 0\\.08412699756096724\ \(0\)\
+\-\ swelling\\:\\ 0\\.08362369415282973\ \(0\)\
+\-\ radiograph\\:\\ 0\\.08092356060896899\ \(0\)\
+\-\ while\\:\\ 0\\.08029776841374728\ \(0\)\
+\-\ during\\:\\ 0\\.07869719347202385\ \(0\)\
+\-\ see\\:\\ 0\\.07728873193275765\ \(0\)\
+\-\ decreased\\:\\ 0\\.07696057681582144\ \(0\)\
+\-\ on\\:\\ 0\\.07504890167381272\ \(0\)\
+\-\ she\\:\\ 0\\.07396073529243231\ \(0\)\
+\-\ soft\\:\\ 0\\.066145972627171\ \(0\)\
+\-\ tissue\\:\\ 0\\.06517669661992566\ \(0\)\
+\-\ demonstrates\\:\\ 0\\.06241988290142046\ \(0\)\
+\-\ had\\:\\ 0\\.06190396859001261\ \(0\)\
+\-\ patient\\:\\ 0\\.04041101471268112\ \(0\)\
+\-\ to\\:\\ 0\\.03106127762130162\ \(0\)\
+\-\ with\\:\\ 0\\.024328937083883395\ \(0\)\

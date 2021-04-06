@@ -1,96 +1,93 @@
-Texto: 
-multiple skin biopsies diagnosed as basal cell carcinoma
-excision of suspicious lesions and limited exposure to u.v. and ionizing radiation.
-hands:   multiple well circumscribed elongated (flame shaped) cortical lucencies throughout both hands. nondisplaced fracture at the base of the right second proximal phalanx.
-foot:  healed fractures of the second/third metatarsals. multiple lucencies of hindfoot and distal tibia/fibula. 
-bone scan: multiple areas of focal increased and decreased uptake. increased uptake along the falx cerebri. 
-head ct: calcifications along the falx and tentorium.
-gorlin syndrome
-differential diagnosis of multiple lytic lesions: fibrous dysplasia, metastases, myeloma, osteoporosis, disseminated osteomyelitis, hyperparathyroidism, gorlin syndrome.
-51 yo female injured right index finger.
-
-review of prior studies and labs revealed diagnosis.
-
-
-Keywords by value: 
-- gorlin: 0.3077966334245588
-- multiple: 0.2547022824000231
-- falx: 0.2342229042933197
-- lucencies: 0.22193669649822248
-- hands: 0.1975065002673647
-- uptake: 0.16016552869609557
-- second: 0.15593595608970215
-- ionizing: 0.1436811946028379
-- of: 0.14266744633637832
-- hindfoot: 0.14124326026770803
-- along: 0.13954871022510135
-- flame: 0.13909284978311168
-- and: 0.12912394145118797
-- metatarsals: 0.1264377933385403
-- syndrome: 0.12557211361191112
-- tentorium: 0.12196249771700493
-- cerebri: 0.12044016739935082
-- nondisplaced: 0.11972409965404143
-- lesions: 0.11962535369426579
-- biopsies: 0.11837108171369512
-- elongated: 0.11773040590142766
-- disseminated: 0.11279561070177442
-- increased: 0.11263525212129977
-- osteoporosis: 0.11096834824911124
-- healed: 0.1105387428474788
-- injured: 0.10970871868207599
-- myeloma: 0.1081539596042536
-- diagnosis: 0.10797790459602503
-- index: 0.10778511095477943
-- phalanx: 0.10476324976848253
-- the: 0.1039052811196867
-- 51: 0.09943372841903848
-- hyperparathyroidism: 0.09920407272210094
-- exposure: 0.09897726996480118
-- finger: 0.09897726996480118
-- suspicious: 0.09306096882455232
-- osteomyelitis: 0.08978667205380332
-- basal: 0.08911782850052859
-- lytic: 0.08772732104562417
-- shaped: 0.08701125330031478
-- review: 0.085767235010139
-- metastases: 0.08419686465545713
-- limited: 0.08312545724181135
-- foot: 0.08229333102273347
-- excision: 0.08211345383201295
-- fibrous: 0.08090161849953548
-- circumscribed: 0.08065208312750162
-- dysplasia: 0.0797652365677135
-- base: 0.07922251418538523
-- skin: 0.07747545603859131
-- fractures: 0.07699587232834934
-- throughout: 0.07659459491870688
-- studies: 0.07639721583767844
-- calcifications: 0.07600874613615488
-- diagnosed: 0.07544111325052694
-- cortical: 0.07477048273560112
-- labs: 0.07215384497857526
-- areas: 0.07070844050785345
-- right: 0.06905793309416258
-- radiation: 0.06901630830178446
-- revealed: 0.06828848489123672
-- differential: 0.06766953113646891
-- proximal: 0.06506499982712043
-- yo: 0.06506499982712043
-- decreased: 0.0645106532682654
-- carcinoma: 0.062295896167467474
-- focal: 0.062295896167467474
-- head: 0.062115426291029736
-- scan: 0.06178912798953915
-- distal: 0.06051186695114352
-- cell: 0.05957675614220857
-- fracture: 0.05919020563022632
-- prior: 0.058270306066660685
-- both: 0.0580773596244094
-- bone: 0.05682572891278128
-- well: 0.0504283840097351
-- female: 0.050255624648515795
-- as: 0.0418394575128705
-- ct: 0.039649656749402976
-- at: 0.039337557061029226
-- to: 0.026036490286351195
+\-\ Texto\\:\\ \ \(0\)\
+\-\ multiple\\ skin\\ biopsies\\ diagnosed\\ as\\ basal\\ cell\\ carcinoma\ \(0\)\
+\-\ excision\\ of\\ suspicious\\ lesions\\ and\\ limited\\ exposure\\ to\\ u\\.v\\.\\ and\\ ionizing\\ radiation\\.\ \(0\)\
+\-\ hands\\:\\ \\ \\ multiple\\ well\\ circumscribed\\ elongated\\ \\(flame\\ shaped\\)\\ cortical\\ lucencies\\ throughout\\ both\\ hands\\.\\ nondisplaced\\ fracture\\ at\\ the\\ base\\ of\\ the\\ right\\ second\\ proximal\\ phalanx\\.\ \(0\)\
+\-\ foot\\:\\ \\ healed\\ fractures\\ of\\ the\\ second\\/third\\ metatarsals\\.\\ multiple\\ lucencies\\ of\\ hindfoot\\ and\\ distal\\ tibia\\/fibula\\.\\ \ \(0\)\
+\-\ bone\\ scan\\:\\ multiple\\ areas\\ of\\ focal\\ increased\\ and\\ decreased\\ uptake\\.\\ increased\\ uptake\\ along\\ the\\ falx\\ cerebri\\.\\ \ \(0\)\
+\-\ head\\ ct\\:\\ calcifications\\ along\\ the\\ falx\\ and\\ tentorium\\.\ \(0\)\
+\-\ gorlin\\ syndrome\ \(0\)\
+\-\ differential\\ diagnosis\\ of\\ multiple\\ lytic\\ lesions\\:\\ fibrous\\ dysplasia\\,\\ metastases\\,\\ myeloma\\,\\ osteoporosis\\,\\ disseminated\\ osteomyelitis\\,\\ hyperparathyroidism\\,\\ gorlin\\ syndrome\\.\ \(0\)\
+\-\ 51\\ yo\\ female\\ injured\\ right\\ index\\ finger\\.\ \(1\)\
+\-\ review\\ of\\ prior\\ studies\\ and\\ labs\\ revealed\\ diagnosis\\.\ \(0\)\
+\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
+\-\ gorlin\\:\\ 0\\.3077966334245588\ \(0\)\
+\-\ multiple\\:\\ 0\\.2547022824000231\ \(0\)\
+\-\ falx\\:\\ 0\\.2342229042933197\ \(0\)\
+\-\ lucencies\\:\\ 0\\.22193669649822248\ \(0\)\
+\-\ hands\\:\\ 0\\.1975065002673647\ \(0\)\
+\-\ uptake\\:\\ 0\\.16016552869609557\ \(0\)\
+\-\ second\\:\\ 0\\.15593595608970215\ \(0\)\
+\-\ ionizing\\:\\ 0\\.1436811946028379\ \(0\)\
+\-\ of\\:\\ 0\\.14266744633637832\ \(0\)\
+\-\ hindfoot\\:\\ 0\\.14124326026770803\ \(0\)\
+\-\ along\\:\\ 0\\.13954871022510135\ \(0\)\
+\-\ flame\\:\\ 0\\.13909284978311168\ \(0\)\
+\-\ and\\:\\ 0\\.12912394145118797\ \(0\)\
+\-\ metatarsals\\:\\ 0\\.1264377933385403\ \(0\)\
+\-\ syndrome\\:\\ 0\\.12557211361191112\ \(0\)\
+\-\ tentorium\\:\\ 0\\.12196249771700493\ \(0\)\
+\-\ cerebri\\:\\ 0\\.12044016739935082\ \(0\)\
+\-\ nondisplaced\\:\\ 0\\.11972409965404143\ \(0\)\
+\-\ lesions\\:\\ 0\\.11962535369426579\ \(0\)\
+\-\ biopsies\\:\\ 0\\.11837108171369512\ \(0\)\
+\-\ elongated\\:\\ 0\\.11773040590142766\ \(0\)\
+\-\ disseminated\\:\\ 0\\.11279561070177442\ \(0\)\
+\-\ increased\\:\\ 0\\.11263525212129977\ \(0\)\
+\-\ osteoporosis\\:\\ 0\\.11096834824911124\ \(0\)\
+\-\ healed\\:\\ 0\\.1105387428474788\ \(0\)\
+\-\ injured\\:\\ 0\\.10970871868207599\ \(0\)\
+\-\ myeloma\\:\\ 0\\.1081539596042536\ \(0\)\
+\-\ diagnosis\\:\\ 0\\.10797790459602503\ \(0\)\
+\-\ index\\:\\ 0\\.10778511095477943\ \(0\)\
+\-\ phalanx\\:\\ 0\\.10476324976848253\ \(0\)\
+\-\ the\\:\\ 0\\.1039052811196867\ \(0\)\
+\-\ 51\\:\\ 0\\.09943372841903848\ \(0\)\
+\-\ hyperparathyroidism\\:\\ 0\\.09920407272210094\ \(0\)\
+\-\ exposure\\:\\ 0\\.09897726996480118\ \(0\)\
+\-\ finger\\:\\ 0\\.09897726996480118\ \(0\)\
+\-\ suspicious\\:\\ 0\\.09306096882455232\ \(0\)\
+\-\ osteomyelitis\\:\\ 0\\.08978667205380332\ \(0\)\
+\-\ basal\\:\\ 0\\.08911782850052859\ \(0\)\
+\-\ lytic\\:\\ 0\\.08772732104562417\ \(0\)\
+\-\ shaped\\:\\ 0\\.08701125330031478\ \(0\)\
+\-\ review\\:\\ 0\\.085767235010139\ \(0\)\
+\-\ metastases\\:\\ 0\\.08419686465545713\ \(0\)\
+\-\ limited\\:\\ 0\\.08312545724181135\ \(0\)\
+\-\ foot\\:\\ 0\\.08229333102273347\ \(0\)\
+\-\ excision\\:\\ 0\\.08211345383201295\ \(0\)\
+\-\ fibrous\\:\\ 0\\.08090161849953548\ \(0\)\
+\-\ circumscribed\\:\\ 0\\.08065208312750162\ \(0\)\
+\-\ dysplasia\\:\\ 0\\.0797652365677135\ \(0\)\
+\-\ base\\:\\ 0\\.07922251418538523\ \(0\)\
+\-\ skin\\:\\ 0\\.07747545603859131\ \(0\)\
+\-\ fractures\\:\\ 0\\.07699587232834934\ \(0\)\
+\-\ throughout\\:\\ 0\\.07659459491870688\ \(0\)\
+\-\ studies\\:\\ 0\\.07639721583767844\ \(0\)\
+\-\ calcifications\\:\\ 0\\.07600874613615488\ \(0\)\
+\-\ diagnosed\\:\\ 0\\.07544111325052694\ \(0\)\
+\-\ cortical\\:\\ 0\\.07477048273560112\ \(0\)\
+\-\ labs\\:\\ 0\\.07215384497857526\ \(0\)\
+\-\ areas\\:\\ 0\\.07070844050785345\ \(0\)\
+\-\ right\\:\\ 0\\.06905793309416258\ \(0\)\
+\-\ radiation\\:\\ 0\\.06901630830178446\ \(0\)\
+\-\ revealed\\:\\ 0\\.06828848489123672\ \(0\)\
+\-\ differential\\:\\ 0\\.06766953113646891\ \(0\)\
+\-\ proximal\\:\\ 0\\.06506499982712043\ \(0\)\
+\-\ yo\\:\\ 0\\.06506499982712043\ \(0\)\
+\-\ decreased\\:\\ 0\\.0645106532682654\ \(0\)\
+\-\ carcinoma\\:\\ 0\\.062295896167467474\ \(0\)\
+\-\ focal\\:\\ 0\\.062295896167467474\ \(0\)\
+\-\ head\\:\\ 0\\.062115426291029736\ \(0\)\
+\-\ scan\\:\\ 0\\.06178912798953915\ \(0\)\
+\-\ distal\\:\\ 0\\.06051186695114352\ \(0\)\
+\-\ cell\\:\\ 0\\.05957675614220857\ \(0\)\
+\-\ fracture\\:\\ 0\\.05919020563022632\ \(0\)\
+\-\ prior\\:\\ 0\\.058270306066660685\ \(0\)\
+\-\ both\\:\\ 0\\.0580773596244094\ \(0\)\
+\-\ bone\\:\\ 0\\.05682572891278128\ \(0\)\
+\-\ well\\:\\ 0\\.0504283840097351\ \(0\)\
+\-\ female\\:\\ 0\\.050255624648515795\ \(0\)\
+\-\ as\\:\\ 0\\.0418394575128705\ \(0\)\
+\-\ ct\\:\\ 0\\.039649656749402976\ \(0\)\
+\-\ at\\:\\ 0\\.039337557061029226\ \(0\)\
+\-\ to\\:\\ 0\\.026036490286351195\ \(0\)\
