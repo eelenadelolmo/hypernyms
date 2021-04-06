@@ -27,7 +27,7 @@ def freq_calc(d, all):
     for k, f_k in kw_freq_list:
         keywords_replace += '- ' + re.escape(k) + ' (' + re.escape(str(f_k)) + ')\n'
 
-    text_replace = re.sub(re.escape(keywords), re.escape(keywords_replace), text)
+    text_replace = re.sub(keywords, keywords_replace, text)
 
     with open(d, 'w') as f:
         f.write(text_replace)
@@ -83,42 +83,51 @@ docs = os.listdir(dir_docs)
 for doc in docs:
     freq_calc(dir_docs + '/' + doc, dir_all)
 """
+"""
 dir_docs = 'corpus/Medical/kw/rake/rake_metric_wordDegree_length'
 docs = os.listdir(dir_docs)
 for doc in docs:
     freq_calc(dir_docs + '/' + doc, dir_all)
-
+"""
+"""
 dir_docs = 'corpus/Medical/kw/rake/rake_metric_wordFreq_length'
 docs = os.listdir(dir_docs)
 for doc in docs:
     freq_calc(dir_docs + '/' + doc, dir_all)
-
+"""
+"""
 dir_docs = 'corpus/Medical/kw/tf_idf/tf_idf'
 docs = os.listdir(dir_docs)
 for doc in docs:
     freq_calc(dir_docs + '/' + doc, dir_all)
-
+"""
+"""
 dir_docs = 'corpus/Medical/kw/tf_idf/tf_idf_sklearn'
 docs = os.listdir(dir_docs)
 for doc in docs:
     freq_calc(dir_docs + '/' + doc, dir_all)
-
 """
+
+
 dir_all_kw = 'corpus/Medical/txt_all_rake_degreeFreqRatio.txt'
 freq_calc(dir_all_kw, dir_all)
 """
-
 dir_all_kw = 'corpus/Medical/txt_all_rake_degreeFreqRatio_length.txt'
 freq_calc(dir_all_kw, dir_all)
-
+"""
+"""
 dir_all_kw = 'corpus/Medical/txt_all_rake_wordDegree_length.txt'
 freq_calc(dir_all_kw, dir_all)
-
+"""
+"""
 dir_all_kw = 'corpus/Medical/txt_all_rake_wordFreq_length.txt'
 freq_calc(dir_all_kw, dir_all)
-
+"""
+"""
 dir_all_kw = 'corpus/Medical/txt_all_text_rank.txt'
 freq_calc(dir_all_kw, dir_all)
-
+"""
+"""
 dir_all_kw = 'corpus/Medical/txt_all_yake.txt'
 freq_calc(dir_all_kw, dir_all)
+"""
