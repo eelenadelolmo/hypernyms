@@ -1,38 +1,40 @@
-\-\ Texto\\:\\ \ \(0\)\
-\-\ generalized\\ discomfort\\ with\\ abdominal\\ palpation\\.\\ \\ soft\\ abdomen\\.\\ \\ labs\\ non\\-contributory\ \(0\)\
-\-\ well\\ circumscribed\\ pelvic\\ mass\\ containing\\ macroscopic\\ fat\\ and\\ chunky\\ central\\ calcifications\\.\ \(0\)\
-\-\ ovarian\\ dermoid\\ \\(cystic\\ teratoma\\)\ \(0\)\
-\-\ several\\ weeks\\ of\\ non\\-localized\\ abdominal\\ pain\ \(0\)\
-\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
-\-\ non\\-localized\\:\\ 0\\.2320677498116158\ \(0\)\
-\-\ chunky\\:\\ 0\\.1833606614619465\ \(0\)\
-\-\ macroscopic\\:\\ 0\\.15878348245557186\ \(0\)\
-\-\ generalized\\:\\ 0\\.12776322863179468\ \(0\)\
-\-\ containing\\:\\ 0\\.12394804598537976\ \(0\)\
-\-\ discomfort\\:\\ 0\\.12236911230894977\ \(0\)\
-\-\ abdominal\\:\\ 0\\.1220525278926923\ \(0\)\
-\-\ teratoma\\:\\ 0\\.11414962452461318\ \(0\)\
-\-\ ovarian\\:\\ 0\\.11172124701508768\ \(0\)\
-\-\ dermoid\\:\\ 0\\.11130107137538209\ \(0\)\
-\-\ circumscribed\\:\\ 0\\.10852110249004496\ \(0\)\
-\-\ pelvic\\:\\ 0\\.10020716361615123\ \(0\)\
-\-\ calcifications\\:\\ 0\\.0907761072752215\ \(0\)\
-\-\ non\\-contributory\\:\\ 0\\.09017246309162505\ \(0\)\
-\-\ labs\\:\\ 0\\.08491354305528966\ \(0\)\
-\-\ palpation\\:\\ 0\\.08148397372423005\ \(0\)\
-\-\ central\\:\\ 0\\.08033232448171311\ \(0\)\
-\-\ several\\:\\ 0\\.07848836673492536\ \(0\)\
-\-\ fat\\:\\ 0\\.07425463779661809\ \(0\)\
-\-\ abdomen\\:\\ 0\\.07232526465416275\ \(0\)\
-\-\ cystic\\:\\ 0\\.07041807735005023\ \(0\)\
-\-\ weeks\\:\\ 0\\.06929365019717566\ \(0\)\
-\-\ soft\\:\\ 0\\.05945505039981571\ \(0\)\
-\-\ well\\:\\ 0\\.05523088437053288\ \(0\)\
-\-\ mass\\:\\ 0\\.03395602876993041\ \(0\)\
-\-\ pain\\:\\ 0\\.029817376215163848\ \(0\)\
-\-\ \\(\\:\\ 0\\.0206389064641103\ \(0\)\
-\-\ \\)\\:\\ 0\\.020386791203237286\ \(0\)\
-\-\ and\\:\\ 0\\.005143114449491956\ \(0\)\
-\-\ with\\:\\ 0\\.003342976459711135\ \(0\)\
-\-\ of\\:\\ 0\\.0033286800227996694\ \(0\)\
-\-\ \\.\\:\\ 0\\.003042817379772538\ \(0\)\
+Texto: 
+generalized discomfort with abdominal palpation.  soft abdomen.  labs non-contributory
+well circumscribed pelvic mass containing macroscopic fat and chunky central calcifications.
+ovarian dermoid (cystic teratoma)
+several weeks of non-localized abdominal pain
+
+
+Keywords by value: 
+- non-localized: 0.2320677498116158
+- chunky: 0.1833606614619465
+- macroscopic: 0.15878348245557186
+- generalized: 0.12776322863179468
+- containing: 0.12394804598537976
+- discomfort: 0.12236911230894977
+- abdominal: 0.1220525278926923
+- teratoma: 0.11414962452461318
+- ovarian: 0.11172124701508768
+- dermoid: 0.11130107137538209
+- circumscribed: 0.10852110249004496
+- pelvic: 0.10020716361615123
+- calcifications: 0.0907761072752215
+- non-contributory: 0.09017246309162505
+- labs: 0.08491354305528966
+- palpation: 0.08148397372423005
+- central: 0.08033232448171311
+- several: 0.07848836673492536
+- fat: 0.07425463779661809
+- abdomen: 0.07232526465416275
+- cystic: 0.07041807735005023
+- weeks: 0.06929365019717566
+- soft: 0.05945505039981571
+- well: 0.05523088437053288
+- mass: 0.03395602876993041
+- pain: 0.029817376215163848
+- (: 0.0206389064641103
+- ): 0.020386791203237286
+- and: 0.005143114449491956
+- with: 0.003342976459711135
+- of: 0.0033286800227996694
+- .: 0.003042817379772538

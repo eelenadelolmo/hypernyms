@@ -1,137 +1,141 @@
-\-\ Texto\\:\\ \ \(0\)\
-\-\ unremarkable\\ physical\\ exam\\ and\\ labs\\.\ \(0\)\
-\-\ this\\ patient\\ will\\ be\\ conservatively\\ managed\\ by\\ follow\\-up\\ imaging\\ only\\.\ \(0\)\
-\-\ axial\\ pre\\-contrast\\ ct\\ image\\ demonstrates\\ a\\ large\\ heterogeneous\\-appearing\\ lesion\\ in\\ the\\ deep\\ white\\ matter\\/basal\\ ganglia\\ of\\ left\\ frontal\\ region\\.\\ the\\ lesion\\ demonstrates\\ high\\ density\\ resulting\\ from\\ calcification\\ and\\/or\\ small\\ areas\\ of\\ hemorrhage\\.\\ \ \(0\)\
-\-\ t2\\-weighted\\ mri\\ demonstrates\\ a\\ hypointense\\ blooming\\ artifact\\ within\\ a\\ lesion\\ in\\ the\\ left\\ frontal\\ lobe\\.\ \(0\)\
-\-\ gradient\\-echo\\ mri\\ demonstrates\\ multiple\\,\\ bilateral\\ punctate\\ and\\ rounded\\ areas\\ of\\ hypointensity\\ within\\ the\\ periventricular\\ and\\ subcortical\\ white\\ matter\\.\ \(0\)\
-\-\ cerebral\\ cavernous\\ malformation\\ \\(angioma\\)\ \(0\)\
-\-\ \\â\\€\\¢cerebral\\ cavernous\\ malformation\ \(0\)\
-\-\ \\â\\€\\¢other\\ occult\\ vascular\\ malformation\\ \\(thrombosed\\ avm\\/aneurysm\\,\\ capillary\\ telangiectasia\\)\ \(0\)\
-\-\ \\â\\€\\¢hemorrhagic\\ primary\\ or\\ secondary\\ neoplasm\\ \\(metastatic\\ melanoma\\,\\ thyroid\\,\\ renal\\ cell\\,\\ choriocarcinoma\\)\ \(0\)\
-\-\ \\â\\€\\¢amyloid\\ angiopathy\ \(0\)\
-\-\ \\â\\€\\¢treated\\ or\\ prior\\ infection\\ \\(toxoplasmosis\\,\\ cysticercosis\\)\ \(0\)\
-\-\ \\â\\€\\¢multiple\\ hemorrhages\\ associated\\ with\\ blood\\ dyscrasia\\ \\(disseminated\\ intravascular\\ coagulopathy\\,\\ leukemia\\)\ \(0\)\
-\-\ 34\\ year\\ old\\ man\\ with\\ history\\ of\\ intermittent\\ headaches\\ throughout\\ the\\ last\\ 10\\ years\\.\\ the\\ last\\ 4\\ episodes\\ were\\ associated\\ with\\ transient\\ minimal\\ non\\-specific\\ neurological\\ deficits\\.\ \(0\)\
-\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
-\-\ malformation\\:\\ 0\\.05842879975725222\ \(0\)\
-\-\ heterogeneous\\-appearing\\:\\ 0\\.05037439099409428\ \(0\)\
-\-\ matter\\/basal\\:\\ 0\\.05037439099409428\ \(0\)\
-\-\ avm\\/aneurysm\\:\\ 0\\.05037439099409428\ \(0\)\
-\-\ \\â\\€\\¢amyloid\\:\\ 0\\.05037439099409428\ \(0\)\
-\-\ \\â\\€\\¢treated\\:\\ 0\\.05037439099409428\ \(0\)\
-\-\ \\â\\€\\¢cerebral\\:\\ 0\\.04641354996232316\ \(0\)\
-\-\ \\â\\€\\¢other\\:\\ 0\\.04641354996232316\ \(0\)\
-\-\ dyscrasia\\:\\ 0\\.04641354996232316\ \(0\)\
-\-\ cavernous\\:\\ 0\\.04529700754339293\ \(0\)\
-\-\ gradient\\-echo\\:\\ 0\\.04409660648741936\ \(0\)\
-\-\ \\â\\€\\¢hemorrhagic\\:\\ 0\\.04409660648741936\ \(0\)\
-\-\ demonstrates\\:\\ 0\\.04266562746635854\ \(0\)\
-\-\ last\\:\\ 0\\.04172265657191982\ \(0\)\
-\-\ \\â\\€\\¢multiple\\:\\ 0\\.03925490442806391\ \(0\)\
-\-\ blooming\\:\\ 0\\.037818821980744446\ \(0\)\
-\-\ pre\\-contrast\\:\\ 0\\.03571753752288549\ \(0\)\
-\-\ choriocarcinoma\\:\\ 0\\.03571753752288549\ \(0\)\
-\-\ coagulopathy\\:\\ 0\\.03571753752288549\ \(0\)\
-\-\ hemorrhages\\:\\ 0\\.03453102686700981\ \(0\)\
-\-\ angiopathy\\:\\ 0\\.03418460045663018\ \(0\)\
-\-\ thrombosed\\:\\ 0\\.03325592085950004\ \(0\)\
-\-\ telangiectasia\\:\\ 0\\.032977119921389\ \(0\)\
-\-\ intravascular\\:\\ 0\\.032977119921389\ \(0\)\
-\-\ areas\\:\\ 0\\.03286111052852648\ \(0\)\
-\-\ white\\:\\ 0\\.032389762430994486\ \(0\)\
-\-\ toxoplasmosis\\:\\ 0\\.03133322236452168\ \(0\)\
-\-\ hypointensity\\:\\ 0\\.030938977384596243\ \(0\)\
-\-\ frontal\\:\\ 0\\.030677622108381226\ \(0\)\
-\-\ cysticercosis\\:\\ 0\\.030394347785714388\ \(0\)\
-\-\ lesion\\:\\ 0\\.029838089588579225\ \(0\)\
-\-\ subcortical\\:\\ 0\\.029740574350412993\ \(0\)\
-\-\ disseminated\\:\\ 0\\.029740574350412993\ \(0\)\
-\-\ occult\\:\\ 0\\.029439753016210584\ \(0\)\
-\-\ capillary\\:\\ 0\\.028750450228847067\ \(0\)\
-\-\ angioma\\:\\ 0\\.028622033909692448\ \(0\)\
-\-\ punctate\\:\\ 0\\.028496440157013733\ \(0\)\
-\-\ non\\-specific\\:\\ 0\\.028253242360334902\ \(0\)\
-\-\ periventricular\\:\\ 0\\.02813541786203355\ \(0\)\
-\-\ conservatively\\:\\ 0\\.027171859505257596\ \(0\)\
-\-\ transient\\:\\ 0\\.02643350675394327\ \(0\)\
-\-\ managed\\:\\ 0\\.02626291839308795\ \(0\)\
-\-\ artifact\\:\\ 0\\.025936298885431103\ \(0\)\
-\-\ leukemia\\:\\ 0\\.025055437857846766\ \(0\)\
-\-\ ganglia\\:\\ 0\\.024987812385578182\ \(0\)\
-\-\ melanoma\\:\\ 0\\.024920977872645658\ \(0\)\
-\-\ t2\\-weighted\\:\\ 0\\.02472504030991062\ \(0\)\
-\-\ 34\\:\\ 0\\.024233185402646375\ \(0\)\
-\-\ episodes\\:\\ 0\\.024116563279039476\ \(0\)\
-\-\ rounded\\:\\ 0\\.024059132788448036\ \(0\)\
-\-\ hypointense\\:\\ 0\\.02316196850953567\ \(0\)\
-\-\ associated\\:\\ 0\\.023045286421802307\ \(0\)\
-\-\ mri\\:\\ 0\\.02243743834188137\ \(0\)\
-\-\ deficits\\:\\ 0\\.022344249403017536\ \(0\)\
-\-\ resulting\\:\\ 0\\.021445276519654465\ \(0\)\
-\-\ neurological\\:\\ 0\\.021128712065998534\ \(0\)\
-\-\ intermittent\\:\\ 0\\.020960136840874544\ \(0\)\
-\-\ \\(\\:\\ 0\\.0206389064641103\ \(0\)\
-\-\ and\\/or\\:\\ 0\\.020637209925084016\ \(0\)\
-\-\ \\)\\:\\ 0\\.020386791203237286\ \(0\)\
-\-\ thyroid\\:\\ 0\\.020013213970998346\ \(0\)\
-\-\ deep\\:\\ 0\\.01976532656739706\ \(0\)\
-\-\ matter\\:\\ 0\\.019225599830861702\ \(0\)\
-\-\ minimal\\:\\ 0\\.019225599830861702\ \(0\)\
-\-\ headaches\\:\\ 0\\.01866538479469302\ \(0\)\
-\-\ within\\:\\ 0\\.018630073238698076\ \(0\)\
-\-\ throughout\\:\\ 0\\.018278556150285296\ \(0\)\
-\-\ calcification\\:\\ 0\\.017724489248326453\ \(0\)\
-\-\ labs\\:\\ 0\\.016982708611057933\ \(0\)\
-\-\ cerebral\\:\\ 0\\.01691683715293755\ \(0\)\
-\-\ neoplasm\\:\\ 0\\.01662946614806816\ \(0\)\
-\-\ 10\\:\\ 0\\.01646070987626806\ \(0\)\
-\-\ hemorrhage\\:\\ 0\\.016252894766720205\ \(0\)\
-\-\ unremarkable\\:\\ 0\\.016166093821040346\ \(0\)\
-\-\ density\\:\\ 0\\.016066464896342624\ \(0\)\
-\-\ vascular\\:\\ 0\\.01601030438813541\ \(0\)\
-\-\ follow\\-up\\:\\ 0\\.015885925665381384\ \(0\)\
-\-\ will\\:\\ 0\\.015277034390737954\ \(0\)\
-\-\ image\\:\\ 0\\.015252509521700576\ \(0\)\
-\-\ only\\:\\ 0\\.014682352334199632\ \(0\)\
-\-\ renal\\:\\ 0\\.01467128885404611\ \(0\)\
-\-\ primary\\:\\ 0\\.01446505293083255\ \(0\)\
-\-\ years\\:\\ 0\\.014338532211534185\ \(0\)\
-\-\ infection\\:\\ 0\\.014194380423273183\ \(0\)\
-\-\ axial\\:\\ 0\\.013935951291816408\ \(0\)\
-\-\ region\\:\\ 0\\.013792007012796072\ \(0\)\
-\-\ secondary\\:\\ 0\\.013651599808621757\ \(0\)\
-\-\ 4\\:\\ 0\\.013605553743880259\ \(0\)\
-\-\ high\\:\\ 0\\.013363120349010375\ \(0\)\
-\-\ blood\\:\\ 0\\.013328063271481711\ \(0\)\
-\-\ cell\\:\\ 0\\.013189946923322779\ \(0\)\
-\-\ lobe\\:\\ 0\\.01313900198813448\ \(0\)\
-\-\ prior\\:\\ 0\\.01253778726972779\ \(0\)\
-\-\ metastatic\\:\\ 0\\.012292053734949087\ \(0\)\
-\-\ physical\\:\\ 0\\.01198003011189279\ \(0\)\
-\-\ bilateral\\:\\ 0\\.011850387024653965\ \(0\)\
-\-\ man\\:\\ 0\\.01154818196051428\ \(0\)\
-\-\ or\\:\\ 0\\.011445974273870943\ \(0\)\
-\-\ imaging\\:\\ 0\\.011440421854032014\ \(0\)\
-\-\ small\\:\\ 0\\.011249001625034963\ \(0\)\
-\-\ were\\:\\ 0\\.011087350495370978\ \(0\)\
-\-\ left\\:\\ 0\\.010926917363119026\ \(0\)\
-\-\ \\,\\:\\ 0\\.010828402620691496\ \(0\)\
-\-\ exam\\:\\ 0\\.010727051085425932\ \(0\)\
-\-\ large\\:\\ 0\\.010677385324749027\ \(0\)\
-\-\ multiple\\:\\ 0\\.01028460573416725\ \(0\)\
-\-\ by\\:\\ 0\\.008130690875684998\ \(0\)\
-\-\ be\\:\\ 0\\.007530038419108167\ \(0\)\
-\-\ from\\:\\ 0\\.0072367755037383566\ \(0\)\
-\-\ ct\\:\\ 0\\.006830306590811673\ \(0\)\
-\-\ a\\:\\ 0\\.006798853745461736\ \(0\)\
-\-\ history\\:\\ 0\\.006744083072611905\ \(0\)\
-\-\ this\\:\\ 0\\.0054922126475093315\ \(0\)\
-\-\ year\\:\\ 0\\.005463458681559513\ \(0\)\
-\-\ old\\:\\ 0\\.004999626267784312\ \(0\)\
-\-\ patient\\:\\ 0\\.004894811033807931\ \(0\)\
-\-\ in\\:\\ 0\\.004815968344460056\ \(0\)\
-\-\ the\\:\\ 0\\.004739975475552885\ \(0\)\
-\-\ and\\:\\ 0\\.0030858686696951737\ \(0\)\
-\-\ of\\:\\ 0\\.0026629440182397357\ \(0\)\
-\-\ with\\:\\ 0\\.002005785875826681\ \(0\)\
-\-\ \\.\\:\\ 0\\.0016228359358786868\ \(0\)\
+Texto: 
+unremarkable physical exam and labs.
+this patient will be conservatively managed by follow-up imaging only.
+axial pre-contrast ct image demonstrates a large heterogeneous-appearing lesion in the deep white matter/basal ganglia of left frontal region. the lesion demonstrates high density resulting from calcification and/or small areas of hemorrhage. 
+
+t2-weighted mri demonstrates a hypointense blooming artifact within a lesion in the left frontal lobe.
+
+gradient-echo mri demonstrates multiple, bilateral punctate and rounded areas of hypointensity within the periventricular and subcortical white matter.
+cerebral cavernous malformation (angioma)
+â€¢cerebral cavernous malformation
+â€¢other occult vascular malformation (thrombosed avm/aneurysm, capillary telangiectasia)
+â€¢hemorrhagic primary or secondary neoplasm (metastatic melanoma, thyroid, renal cell, choriocarcinoma)
+â€¢amyloid angiopathy
+â€¢treated or prior infection (toxoplasmosis, cysticercosis)
+â€¢multiple hemorrhages associated with blood dyscrasia (disseminated intravascular coagulopathy, leukemia)
+34 year old man with history of intermittent headaches throughout the last 10 years. the last 4 episodes were associated with transient minimal non-specific neurological deficits.
+
+
+Keywords by value: 
+- malformation: 0.05842879975725222
+- heterogeneous-appearing: 0.05037439099409428
+- matter/basal: 0.05037439099409428
+- avm/aneurysm: 0.05037439099409428
+- â€¢amyloid: 0.05037439099409428
+- â€¢treated: 0.05037439099409428
+- â€¢cerebral: 0.04641354996232316
+- â€¢other: 0.04641354996232316
+- dyscrasia: 0.04641354996232316
+- cavernous: 0.04529700754339293
+- gradient-echo: 0.04409660648741936
+- â€¢hemorrhagic: 0.04409660648741936
+- demonstrates: 0.04266562746635854
+- last: 0.04172265657191982
+- â€¢multiple: 0.03925490442806391
+- blooming: 0.037818821980744446
+- pre-contrast: 0.03571753752288549
+- choriocarcinoma: 0.03571753752288549
+- coagulopathy: 0.03571753752288549
+- hemorrhages: 0.03453102686700981
+- angiopathy: 0.03418460045663018
+- thrombosed: 0.03325592085950004
+- telangiectasia: 0.032977119921389
+- intravascular: 0.032977119921389
+- areas: 0.03286111052852648
+- white: 0.032389762430994486
+- toxoplasmosis: 0.03133322236452168
+- hypointensity: 0.030938977384596243
+- frontal: 0.030677622108381226
+- cysticercosis: 0.030394347785714388
+- lesion: 0.029838089588579225
+- subcortical: 0.029740574350412993
+- disseminated: 0.029740574350412993
+- occult: 0.029439753016210584
+- capillary: 0.028750450228847067
+- angioma: 0.028622033909692448
+- punctate: 0.028496440157013733
+- non-specific: 0.028253242360334902
+- periventricular: 0.02813541786203355
+- conservatively: 0.027171859505257596
+- transient: 0.02643350675394327
+- managed: 0.02626291839308795
+- artifact: 0.025936298885431103
+- leukemia: 0.025055437857846766
+- ganglia: 0.024987812385578182
+- melanoma: 0.024920977872645658
+- t2-weighted: 0.02472504030991062
+- 34: 0.024233185402646375
+- episodes: 0.024116563279039476
+- rounded: 0.024059132788448036
+- hypointense: 0.02316196850953567
+- associated: 0.023045286421802307
+- mri: 0.02243743834188137
+- deficits: 0.022344249403017536
+- resulting: 0.021445276519654465
+- neurological: 0.021128712065998534
+- intermittent: 0.020960136840874544
+- (: 0.0206389064641103
+- and/or: 0.020637209925084016
+- ): 0.020386791203237286
+- thyroid: 0.020013213970998346
+- deep: 0.01976532656739706
+- matter: 0.019225599830861702
+- minimal: 0.019225599830861702
+- headaches: 0.01866538479469302
+- within: 0.018630073238698076
+- throughout: 0.018278556150285296
+- calcification: 0.017724489248326453
+- labs: 0.016982708611057933
+- cerebral: 0.01691683715293755
+- neoplasm: 0.01662946614806816
+- 10: 0.01646070987626806
+- hemorrhage: 0.016252894766720205
+- unremarkable: 0.016166093821040346
+- density: 0.016066464896342624
+- vascular: 0.01601030438813541
+- follow-up: 0.015885925665381384
+- will: 0.015277034390737954
+- image: 0.015252509521700576
+- only: 0.014682352334199632
+- renal: 0.01467128885404611
+- primary: 0.01446505293083255
+- years: 0.014338532211534185
+- infection: 0.014194380423273183
+- axial: 0.013935951291816408
+- region: 0.013792007012796072
+- secondary: 0.013651599808621757
+- 4: 0.013605553743880259
+- high: 0.013363120349010375
+- blood: 0.013328063271481711
+- cell: 0.013189946923322779
+- lobe: 0.01313900198813448
+- prior: 0.01253778726972779
+- metastatic: 0.012292053734949087
+- physical: 0.01198003011189279
+- bilateral: 0.011850387024653965
+- man: 0.01154818196051428
+- or: 0.011445974273870943
+- imaging: 0.011440421854032014
+- small: 0.011249001625034963
+- were: 0.011087350495370978
+- left: 0.010926917363119026
+- ,: 0.010828402620691496
+- exam: 0.010727051085425932
+- large: 0.010677385324749027
+- multiple: 0.01028460573416725
+- by: 0.008130690875684998
+- be: 0.007530038419108167
+- from: 0.0072367755037383566
+- ct: 0.006830306590811673
+- a: 0.006798853745461736
+- history: 0.006744083072611905
+- this: 0.0054922126475093315
+- year: 0.005463458681559513
+- old: 0.004999626267784312
+- patient: 0.004894811033807931
+- in: 0.004815968344460056
+- the: 0.004739975475552885
+- and: 0.0030858686696951737
+- of: 0.0026629440182397357
+- with: 0.002005785875826681
+- .: 0.0016228359358786868

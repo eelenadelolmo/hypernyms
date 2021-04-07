@@ -1,198 +1,200 @@
-\-\ Texto\\:\\ \ \(0\)\
-\-\ abdominal\\ distention\ \(29\)\
-\-\ decreased\\,\\ high\\-pitched\\ bowel\\ sounds\ \(0\)\
-\-\ patient\\ underwent\\ an\\ exploratory\\ laparotomy\\ where\\ he\\ was\\ found\\ to\\ have\\ an\\ ileocecal\\ intussusception\\.\\ \\ manual\\ reduction\\ was\\ unsuccessful\\,\\ and\\ ileocecal\\ resection\\ was\\ performed\\ with\\ a\\ large\\ mass\\ identified\\ at\\ the\\ ileocecal\\ valve\\.\\ \\ the\\ remainder\\ of\\ the\\ ileum\\ and\\ ascending\\ colon\\ were\\ anastomosed\\.\\ \\ \\ pathology\\ revealed\\ burkitt\\â\\€\\™s\\ lymphoma\\.\\ \\ he\\ will\\ have\\ a\\ diagnostic\\ bone\\ marrow\\ aspiration\\/biopsy\\,\\ whole\\ body\\ ct\\ scan\\,\\ pet\\ scan\\,\\ bone\\ scan\\,\\ and\\ spinal\\ tap\\ further\\ evaluation\\ of\\ lymphoma\\ spread\\.\\ \\ he\\ will\\ receive\\ at\\ least\\ 2\\ rounds\\ of\\ chemotherapy\\,\\ with\\ possibility\\ of\\ more\\ rounds\\ based\\ on\\ above\\ findings\\.\ \(0\)\
-\-\ \\â\\€\\¢\\ multiple\\ loops\\ of\\ air\\ filled\\ distended\\ bowel\\ with\\ air\\-fluid\\ levels\\.\ \(0\)\
-\-\ \\â\\€\\¢\\ serial\\ upper\\ gi\\ with\\ small\\ bowel\\ follow\\-through\\ images\\ with\\ progressive\\ distention\\ of\\ distal\\ small\\ bowel\\,\\ with\\ last\\ image\\ showing\\ barium\\ in\\ proximal\\ cecum\\.\ \(0\)\
-\-\ \\â\\€\\¢\\ fluoroscopy\\ shows\\ beaked\\ appearance\\ at\\ distal\\ ileum\\ with\\ incomplete\\ distention\\ at\\ the\\ cecum\\ with\\ barium\\ extending\\ into\\ transverse\\ and\\ descending\\ colon\\.\ \(0\)\
-\-\ intussusception\\,\\ burkitt\\'s\\ lymphoma\ \(0\)\
-\-\ \\â\\€\\¢\\ small\\ bowel\\ obstruction\ \(0\)\
-\-\ \\â\\€\\¢\\ viral\\ gastroenteritis\ \(0\)\
-\-\ \\â\\€\\¢\\ appendicitis\ \(0\)\
-\-\ \\â\\€\\¢\\ inflammatory\\ bowel\\ disease\ \(0\)\
-\-\ \\â\\€\\¢\\ intussusception\ \(0\)\
-\-\ 4\\ year\\ old\\ boy\\ with\\ a\\ 3\\ week\\ history\\ of\\ intermittent\\ crampy\\ abdominal\\ pain\\ lasting\\ as\\ long\\ as\\ 1\\ hour\\,\\ diarrhea\\,\\ intermittent\\ nausea\\/non\\-bilious\\ vomiting\\,\\ and\\ abdominal\\ distention\\.\\ \\ previous\\ evaluations\\ suspected\\ enteroviral\\ infection\\,\\ treated\\ with\\ conservative\\ management\\ but\\ without\\ relief\\ of\\ symptoms\\.\ \(0\)\
-\-\ this\\ case\\ is\\ unusual\\ as\\ it\\ was\\ an\\ older\\ child\\ who\\ presented\\ with\\ the\\ clinical\\ picture\\ of\\ obstruction\\,\\ which\\ ultimately\\ was\\ diagnosed\\ as\\ intussusception\\ secondary\\ to\\ burkitt\\'s\\ lymphoma\\.\\ \\ he\\ was\\ sent\\ home\\ from\\ previous\\ exams\\ with\\ the\\ presumptive\\ diagnosis\\ of\\ viral\\ gastroenteritis\\ and\\ was\\ not\\ worked\\ up\\ for\\ a\\ secondary\\ cause\\ of\\ his\\ abdominal\\ distention\\.\\ \\ intussusception\\ is\\ not\\ thought\\ of\\ as\\ a\\ common\\ etiology\\ of\\ bowel\\ obstruction\\ in\\ this\\ age\\ group\\,\\ but\\ should\\ always\\ be\\ considered\\ in\\ the\\ differential\\ diagnosis\\.\\ \\ burkitt\\'s\\ lymphoma\\ is\\ an\\ unusual\\ cause\\ of\\ intussusception\\ overall\\.\ \(0\)\
-\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
-\-\ intussusception\\:\\ 0\\.09154712446165288\ \(0\)\
-\-\ burkitt\\:\\ 0\\.07753492060681491\ \(0\)\
-\-\ distention\\:\\ 0\\.06796165449281456\ \(0\)\
-\-\ bowel\\:\\ 0\\.05583236526843248\ \(0\)\
-\-\ ileocecal\\:\\ 0\\.05071450185747632\ \(0\)\
-\-\ rounds\\:\\ 0\\.04180808901630025\ \(0\)\
-\-\ \\â\\€\\¢\\:\\ 0\\.0373098655141878\ \(0\)\
-\-\ lymphoma\\:\\ 0\\.036342241583176865\ \(0\)\
-\-\ gastroenteritis\\:\\ 0\\.0349469014571432\ \(0\)\
-\-\ cecum\\:\\ 0\\.028840633990561765\ \(0\)\
-\-\ ileum\\:\\ 0\\.02851289722161517\ \(0\)\
-\-\ he\\:\\ 0\\.02838318264325023\ \(0\)\
-\-\ obstruction\\:\\ 0\\.026905357576691387\ \(0\)\
-\-\ aspiration\\/biopsy\\:\\ 0\\.02623666197609077\ \(0\)\
-\-\ nausea\\/non\\-bilious\\:\\ 0\\.02623666197609077\ \(0\)\
-\-\ enteroviral\\:\\ 0\\.02623666197609077\ \(0\)\
-\-\ viral\\:\\ 0\\.025622969746724098\ \(0\)\
-\-\ abdominal\\:\\ 0\\.025427609977644226\ \(0\)\
-\-\ barium\\:\\ 0\\.024658866604193995\ \(0\)\
-\-\ unusual\\:\\ 0\\.024603495219299276\ \(0\)\
-\-\ intermittent\\:\\ 0\\.02183347587591098\ \(0\)\
-\-\ anastomosed\\:\\ 0\\.021446668189084517\ \(0\)\
-\-\ scan\\:\\ 0\\.021359566611008737\ \(0\)\
-\-\ high\\-pitched\\:\\ 0\\.020904044508150126\ \(0\)\
-\-\ was\\:\\ 0\\.020589115046118475\ \(0\)\
-\-\ follow\\-through\\:\\ 0\\.020445262722949952\ \(0\)\
-\-\ beaked\\:\\ 0\\.020445262722949952\ \(0\)\
-\-\ colon\\:\\ 0\\.019975791129894876\ \(0\)\
-\-\ previous\\:\\ 0\\.019752084515912476\ \(0\)\
-\-\ as\\:\\ 0\\.01923478431390071\ \(0\)\
-\-\ evaluations\\:\\ 0\\.019100068902286094\ \(0\)\
-\-\ lasting\\:\\ 0\\.01860288412650286\ \(0\)\
-\-\ tap\\:\\ 0\\.018382324685569162\ \(0\)\
-\-\ crampy\\:\\ 0\\.017634365077590277\ \(0\)\
-\-\ small\\:\\ 0\\.01757656503911713\ \(0\)\
-\-\ exploratory\\:\\ 0\\.0174734507285716\ \(0\)\
-\-\ worked\\:\\ 0\\.0174734507285716\ \(0\)\
-\-\ presumptive\\:\\ 0\\.017320792114322938\ \(0\)\
-\-\ cause\\:\\ 0\\.017209896586618846\ \(0\)\
-\-\ unsuccessful\\:\\ 0\\.017175583292390103\ \(0\)\
-\-\ manual\\:\\ 0\\.017037130864905305\ \(0\)\
-\-\ \\'s\\:\\ 0\\.016821844806848615\ \(0\)\
-\-\ laparotomy\\:\\ 0\\.016427623684411218\ \(0\)\
-\-\ fluoroscopy\\:\\ 0\\.01621494819636912\ \(0\)\
-\-\ will\\:\\ 0\\.015913577490352035\ \(0\)\
-\-\ air\\-fluid\\:\\ 0\\.015333204695943011\ \(0\)\
-\-\ whole\\:\\ 0\\.014974192827524513\ \(0\)\
-\-\ receive\\:\\ 0\\.014974192827524513\ \(0\)\
-\-\ picture\\:\\ 0\\.014907309327964817\ \(0\)\
-\-\ ultimately\\:\\ 0\\.014841895915111319\ \(0\)\
-\-\ exams\\:\\ 0\\.014364685647030428\ \(0\)\
-\-\ secondary\\:\\ 0\\.01422041646731433\ \(0\)\
-\-\ an\\:\\ 0\\.014067438860532498\ \(0\)\
-\-\ hour\\:\\ 0\\.013905903861830254\ \(0\)\
-\-\ distal\\:\\ 0\\.013829039219916826\ \(0\)\
-\-\ at\\:\\ 0\\.013782894676567058\ \(0\)\
-\-\ incomplete\\:\\ 0\\.013722695846950989\ \(0\)\
-\-\ ascending\\:\\ 0\\.013635154521932258\ \(0\)\
-\-\ pet\\:\\ 0\\.013347574653810021\ \(0\)\
-\-\ group\\:\\ 0\\.01323235289136749\ \(0\)\
-\-\ diarrhea\\:\\ 0\\.013194916039561357\ \(0\)\
-\-\ always\\:\\ 0\\.013085350643362798\ \(0\)\
-\-\ relief\\:\\ 0\\.01297967597533628\ \(0\)\
-\-\ sent\\:\\ 0\\.01294526876580927\ \(0\)\
-\-\ possibility\\:\\ 0\\.012844371290584028\ \(0\)\
-\-\ older\\:\\ 0\\.012811484873362049\ \(0\)\
-\-\ least\\:\\ 0\\.012746782532182267\ \(0\)\
-\-\ valve\\:\\ 0\\.0127149513145729\ \(0\)\
-\-\ serial\\:\\ 0\\.01268345694156535\ \(0\)\
-\-\ overall\\:\\ 0\\.012652292358626971\ \(0\)\
-\-\ bone\\:\\ 0\\.012639492151546843\ \(0\)\
-\-\ loops\\:\\ 0\\.012471861936554246\ \(0\)\
-\-\ descending\\:\\ 0\\.012414070014360493\ \(0\)\
-\-\ spread\\:\\ 0\\.012301747609649638\ \(0\)\
-\-\ distended\\:\\ 0\\.012301747609649638\ \(0\)\
-\-\ home\\:\\ 0\\.012089072121607541\ \(0\)\
-\-\ \\,\\:\\ 0\\.012085270782021759\ \(0\)\
-\-\ reduction\\:\\ 0\\.011988174646382299\ \(0\)\
-\-\ remainder\\:\\ 0\\.011988174646382299\ \(0\)\
-\-\ filled\\:\\ 0\\.011819438504487818\ \(0\)\
-\-\ showing\\:\\ 0\\.011704513396964664\ \(0\)\
-\-\ thought\\:\\ 0\\.011704513396964664\ \(0\)\
-\-\ diagnosis\\:\\ 0\\.01167987696893107\ \(0\)\
-\-\ appendicitis\\:\\ 0\\.011572216484551468\ \(0\)\
-\-\ gi\\:\\ 0\\.011424954409362868\ \(0\)\
-\-\ marrow\\:\\ 0\\.011188311364935088\ \(0\)\
-\-\ child\\:\\ 0\\.011131978002180569\ \(0\)\
-\-\ have\\:\\ 0\\.011014512371220784\ \(0\)\
-\-\ suspected\\:\\ 0\\.010951547580107846\ \(0\)\
-\-\ \\-\\:\\ 0\\.010903145587549783\ \(0\)\
-\-\ last\\:\\ 0\\.010865275148937453\ \(0\)\
-\-\ but\\:\\ 0\\.010848233934723438\ \(0\)\
-\-\ etiology\\:\\ 0\\.010764944621132954\ \(0\)\
-\-\ levels\\:\\ 0\\.010497772003785604\ \(0\)\
-\-\ pathology\\:\\ 0\\.010408923899173457\ \(0\)\
-\-\ where\\:\\ 0\\.010379887664217014\ \(0\)\
-\-\ considered\\:\\ 0\\.01026649526471621\ \(0\)\
-\-\ transverse\\:\\ 0\\.010197758018303563\ \(0\)\
-\-\ conservative\\:\\ 0\\.010157265006232792\ \(0\)\
-\-\ sounds\\:\\ 0\\.010143888846745176\ \(0\)\
-\-\ diagnostic\\:\\ 0\\.01007789522325017\ \(0\)\
-\-\ progressive\\:\\ 0\\.010051902128105068\ \(0\)\
-\-\ vomiting\\:\\ 0\\.009709996544776429\ \(0\)\
-\-\ based\\:\\ 0\\.00969848322103262\ \(0\)\
-\-\ management\\:\\ 0\\.009596819772189409\ \(0\)\
-\-\ diagnosed\\:\\ 0\\.009351771299985136\ \(0\)\
-\-\ above\\:\\ 0\\.0093212460018685\ \(0\)\
-\-\ chemotherapy\\:\\ 0\\.009115910074824003\ \(0\)\
-\-\ spinal\\:\\ 0\\.00910647681660591\ \(0\)\
-\-\ identified\\:\\ 0\\.009087699527340242\ \(0\)\
-\-\ inflammatory\\:\\ 0\\.00881939269104769\ \(0\)\
-\-\ long\\:\\ 0\\.008768516401287868\ \(0\)\
-\-\ underwent\\:\\ 0\\.008726773915113747\ \(0\)\
-\-\ boy\\:\\ 0\\.008645005297398723\ \(0\)\
-\-\ week\\:\\ 0\\.008636950649786392\ \(0\)\
-\-\ air\\:\\ 0\\.008604948293309423\ \(0\)\
-\-\ extending\\:\\ 0\\.008549759073927967\ \(0\)\
-\-\ body\\:\\ 0\\.008259713430622274\ \(0\)\
-\-\ revealed\\:\\ 0\\.008162124672220515\ \(0\)\
-\-\ should\\:\\ 0\\.00810776351752619\ \(0\)\
-\-\ further\\:\\ 0\\.00808763137440553\ \(0\)\
-\-\ differential\\:\\ 0\\.008074285206407529\ \(0\)\
-\-\ found\\:\\ 0\\.008014957185869382\ \(0\)\
-\-\ image\\:\\ 0\\.007944015375885717\ \(0\)\
-\-\ resection\\:\\ 0\\.007931296593810174\ \(0\)\
-\-\ clinical\\:\\ 0\\.007825326785910726\ \(0\)\
-\-\ age\\:\\ 0\\.007740804540310436\ \(0\)\
-\-\ proximal\\:\\ 0\\.00763554518365183\ \(0\)\
-\-\ treated\\:\\ 0\\.007612651297868628\ \(0\)\
-\-\ \\â\\€\\™\\:\\ 0\\.007601270058468618\ \(0\)\
-\-\ decreased\\:\\ 0\\.007561775008108808\ \(0\)\
-\-\ infection\\:\\ 0\\.007392906470454782\ \(0\)\
-\-\ evaluation\\:\\ 0\\.007387615463770261\ \(0\)\
-\-\ not\\:\\ 0\\.007350111141321044\ \(0\)\
-\-\ his\\:\\ 0\\.007330026867996821\ \(0\)\
-\-\ s\\:\\ 0\\.007293951390221985\ \(0\)\
-\-\ appearance\\:\\ 0\\.007273531478376909\ \(0\)\
-\-\ performed\\:\\ 0\\.007091006938176544\ \(0\)\
-\-\ 4\\:\\ 0\\.007086225908270968\ \(0\)\
-\-\ shows\\:\\ 0\\.006992183630145472\ \(0\)\
-\-\ presented\\:\\ 0\\.006932612008995265\ \(0\)\
-\-\ up\\:\\ 0\\.006838830806708998\ \(0\)\
-\-\ common\\:\\ 0\\.006655557178441658\ \(0\)\
-\-\ who\\:\\ 0\\.006630858360540779\ \(0\)\
-\-\ more\\:\\ 0\\.006360643777714781\ \(0\)\
-\-\ symptoms\\:\\ 0\\.006338266300292081\ \(0\)\
-\-\ upper\\:\\ 0\\.006137144361216424\ \(0\)\
-\-\ into\\:\\ 0\\.006051566571308651\ \(0\)\
-\-\ 1\\:\\ 0\\.006051566571308651\ \(0\)\
-\-\ without\\:\\ 0\\.005988134423685\ \(0\)\
-\-\ 3\\:\\ 0\\.005955284305674225\ \(0\)\
-\-\ a\\:\\ 0\\.005901782765157757\ \(0\)\
-\-\ were\\:\\ 0\\.005774661716339051\ \(0\)\
-\-\ this\\:\\ 0\\.005721054841155554\ \(0\)\
-\-\ it\\:\\ 0\\.005716810668253025\ \(0\)\
-\-\ case\\:\\ 0\\.005564001288295448\ \(0\)\
-\-\ large\\:\\ 0\\.005561138189973451\ \(0\)\
-\-\ 2\\:\\ 0\\.005476501477709958\ \(0\)\
-\-\ findings\\:\\ 0\\.005413205166041546\ \(0\)\
-\-\ multiple\\:\\ 0\\.005356565486545443\ \(0\)\
-\-\ is\\:\\ 0\\.00502045337843505\ \(0\)\
-\-\ images\\:\\ 0\\.004878761583182601\ \(0\)\
-\-\ of\\:\\ 0\\.004854325033249517\ \(0\)\
-\-\ which\\:\\ 0\\.004747454128698062\ \(0\)\
-\-\ with\\:\\ 0\\.004178720574638919\ \(0\)\
-\-\ disease\\:\\ 0\\.004156956967903881\ \(0\)\
-\-\ be\\:\\ 0\\.00392189500995217\ \(0\)\
-\-\ from\\:\\ 0\\.0037691539081970604\ \(0\)\
-\-\ in\\:\\ 0\\.0037624752691094187\ \(0\)\
-\-\ ct\\:\\ 0\\.0035574513493810797\ \(0\)\
-\-\ mass\\:\\ 0\\.003537086330201085\ \(0\)\
-\-\ history\\:\\ 0\\.003512543266985367\ \(0\)\
-\-\ and\\:\\ 0\\.003214446530932472\ \(0\)\
-\-\ pain\\:\\ 0\\.0031059766890795676\ \(0\)\
-\-\ the\\:\\ 0\\.0028801934313255374\ \(0\)\
-\-\ year\\:\\ 0\\.002845551396645579\ \(0\)\
-\-\ old\\:\\ 0\\.0026039720144709956\ \(0\)\
-\-\ patient\\:\\ 0\\.002549380746774964\ \(0\)\
-\-\ to\\:\\ 0\\.0025420720740653943\ \(0\)\
-\-\ for\\:\\ 0\\.002169964728103319\ \(0\)\
-\-\ on\\:\\ 0\\.002154437536801869\ \(0\)\
-\-\ \\.\\:\\ 0\\.00158480071863153\ \(0\)\
+Texto: 
+- abdominal distention
+- decreased, high-pitched bowel sounds
+patient underwent an exploratory laparotomy where he was found to have an ileocecal intussusception.  manual reduction was unsuccessful, and ileocecal resection was performed with a large mass identified at the ileocecal valve.  the remainder of the ileum and ascending colon were anastomosed.   pathology revealed burkittâ€™s lymphoma.  he will have a diagnostic bone marrow aspiration/biopsy, whole body ct scan, pet scan, bone scan, and spinal tap further evaluation of lymphoma spread.  he will receive at least 2 rounds of chemotherapy, with possibility of more rounds based on above findings.
+â€¢ multiple loops of air filled distended bowel with air-fluid levels.
+â€¢ serial upper gi with small bowel follow-through images with progressive distention of distal small bowel, with last image showing barium in proximal cecum.
+â€¢ fluoroscopy shows beaked appearance at distal ileum with incomplete distention at the cecum with barium extending into transverse and descending colon.
+intussusception, burkitt's lymphoma
+â€¢ small bowel obstruction
+â€¢ viral gastroenteritis
+â€¢ appendicitis
+â€¢ inflammatory bowel disease
+â€¢ intussusception
+4 year old boy with a 3 week history of intermittent crampy abdominal pain lasting as long as 1 hour, diarrhea, intermittent nausea/non-bilious vomiting, and abdominal distention.  previous evaluations suspected enteroviral infection, treated with conservative management but without relief of symptoms.
+this case is unusual as it was an older child who presented with the clinical picture of obstruction, which ultimately was diagnosed as intussusception secondary to burkitt's lymphoma.  he was sent home from previous exams with the presumptive diagnosis of viral gastroenteritis and was not worked up for a secondary cause of his abdominal distention.  intussusception is not thought of as a common etiology of bowel obstruction in this age group, but should always be considered in the differential diagnosis.  burkitt's lymphoma is an unusual cause of intussusception overall.
+
+
+Keywords by value: 
+- intussusception: 0.09154712446165288
+- burkitt: 0.07753492060681491
+- distention: 0.06796165449281456
+- bowel: 0.05583236526843248
+- ileocecal: 0.05071450185747632
+- rounds: 0.04180808901630025
+- â€¢: 0.0373098655141878
+- lymphoma: 0.036342241583176865
+- gastroenteritis: 0.0349469014571432
+- cecum: 0.028840633990561765
+- ileum: 0.02851289722161517
+- he: 0.02838318264325023
+- obstruction: 0.026905357576691387
+- aspiration/biopsy: 0.02623666197609077
+- nausea/non-bilious: 0.02623666197609077
+- enteroviral: 0.02623666197609077
+- viral: 0.025622969746724098
+- abdominal: 0.025427609977644226
+- barium: 0.024658866604193995
+- unusual: 0.024603495219299276
+- intermittent: 0.02183347587591098
+- anastomosed: 0.021446668189084517
+- scan: 0.021359566611008737
+- high-pitched: 0.020904044508150126
+- was: 0.020589115046118475
+- follow-through: 0.020445262722949952
+- beaked: 0.020445262722949952
+- colon: 0.019975791129894876
+- previous: 0.019752084515912476
+- as: 0.01923478431390071
+- evaluations: 0.019100068902286094
+- lasting: 0.01860288412650286
+- tap: 0.018382324685569162
+- crampy: 0.017634365077590277
+- small: 0.01757656503911713
+- exploratory: 0.0174734507285716
+- worked: 0.0174734507285716
+- presumptive: 0.017320792114322938
+- cause: 0.017209896586618846
+- unsuccessful: 0.017175583292390103
+- manual: 0.017037130864905305
+- 's: 0.016821844806848615
+- laparotomy: 0.016427623684411218
+- fluoroscopy: 0.01621494819636912
+- will: 0.015913577490352035
+- air-fluid: 0.015333204695943011
+- whole: 0.014974192827524513
+- receive: 0.014974192827524513
+- picture: 0.014907309327964817
+- ultimately: 0.014841895915111319
+- exams: 0.014364685647030428
+- secondary: 0.01422041646731433
+- an: 0.014067438860532498
+- hour: 0.013905903861830254
+- distal: 0.013829039219916826
+- at: 0.013782894676567058
+- incomplete: 0.013722695846950989
+- ascending: 0.013635154521932258
+- pet: 0.013347574653810021
+- group: 0.01323235289136749
+- diarrhea: 0.013194916039561357
+- always: 0.013085350643362798
+- relief: 0.01297967597533628
+- sent: 0.01294526876580927
+- possibility: 0.012844371290584028
+- older: 0.012811484873362049
+- least: 0.012746782532182267
+- valve: 0.0127149513145729
+- serial: 0.01268345694156535
+- overall: 0.012652292358626971
+- bone: 0.012639492151546843
+- loops: 0.012471861936554246
+- descending: 0.012414070014360493
+- spread: 0.012301747609649638
+- distended: 0.012301747609649638
+- home: 0.012089072121607541
+- ,: 0.012085270782021759
+- reduction: 0.011988174646382299
+- remainder: 0.011988174646382299
+- filled: 0.011819438504487818
+- showing: 0.011704513396964664
+- thought: 0.011704513396964664
+- diagnosis: 0.01167987696893107
+- appendicitis: 0.011572216484551468
+- gi: 0.011424954409362868
+- marrow: 0.011188311364935088
+- child: 0.011131978002180569
+- have: 0.011014512371220784
+- suspected: 0.010951547580107846
+- -: 0.010903145587549783
+- last: 0.010865275148937453
+- but: 0.010848233934723438
+- etiology: 0.010764944621132954
+- levels: 0.010497772003785604
+- pathology: 0.010408923899173457
+- where: 0.010379887664217014
+- considered: 0.01026649526471621
+- transverse: 0.010197758018303563
+- conservative: 0.010157265006232792
+- sounds: 0.010143888846745176
+- diagnostic: 0.01007789522325017
+- progressive: 0.010051902128105068
+- vomiting: 0.009709996544776429
+- based: 0.00969848322103262
+- management: 0.009596819772189409
+- diagnosed: 0.009351771299985136
+- above: 0.0093212460018685
+- chemotherapy: 0.009115910074824003
+- spinal: 0.00910647681660591
+- identified: 0.009087699527340242
+- inflammatory: 0.00881939269104769
+- long: 0.008768516401287868
+- underwent: 0.008726773915113747
+- boy: 0.008645005297398723
+- week: 0.008636950649786392
+- air: 0.008604948293309423
+- extending: 0.008549759073927967
+- body: 0.008259713430622274
+- revealed: 0.008162124672220515
+- should: 0.00810776351752619
+- further: 0.00808763137440553
+- differential: 0.008074285206407529
+- found: 0.008014957185869382
+- image: 0.007944015375885717
+- resection: 0.007931296593810174
+- clinical: 0.007825326785910726
+- age: 0.007740804540310436
+- proximal: 0.00763554518365183
+- treated: 0.007612651297868628
+- â€™: 0.007601270058468618
+- decreased: 0.007561775008108808
+- infection: 0.007392906470454782
+- evaluation: 0.007387615463770261
+- not: 0.007350111141321044
+- his: 0.007330026867996821
+- s: 0.007293951390221985
+- appearance: 0.007273531478376909
+- performed: 0.007091006938176544
+- 4: 0.007086225908270968
+- shows: 0.006992183630145472
+- presented: 0.006932612008995265
+- up: 0.006838830806708998
+- common: 0.006655557178441658
+- who: 0.006630858360540779
+- more: 0.006360643777714781
+- symptoms: 0.006338266300292081
+- upper: 0.006137144361216424
+- into: 0.006051566571308651
+- 1: 0.006051566571308651
+- without: 0.005988134423685
+- 3: 0.005955284305674225
+- a: 0.005901782765157757
+- were: 0.005774661716339051
+- this: 0.005721054841155554
+- it: 0.005716810668253025
+- case: 0.005564001288295448
+- large: 0.005561138189973451
+- 2: 0.005476501477709958
+- findings: 0.005413205166041546
+- multiple: 0.005356565486545443
+- is: 0.00502045337843505
+- images: 0.004878761583182601
+- of: 0.004854325033249517
+- which: 0.004747454128698062
+- with: 0.004178720574638919
+- disease: 0.004156956967903881
+- be: 0.00392189500995217
+- from: 0.0037691539081970604
+- in: 0.0037624752691094187
+- ct: 0.0035574513493810797
+- mass: 0.003537086330201085
+- history: 0.003512543266985367
+- and: 0.003214446530932472
+- pain: 0.0031059766890795676
+- the: 0.0028801934313255374
+- year: 0.002845551396645579
+- old: 0.0026039720144709956
+- patient: 0.002549380746774964
+- to: 0.0025420720740653943
+- for: 0.002169964728103319
+- on: 0.002154437536801869
+- .: 0.00158480071863153

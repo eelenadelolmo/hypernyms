@@ -1,128 +1,132 @@
-\-\ Texto\\:\\ \ \(0\)\
-\-\ a\\ port\\-a\\-catheter\\ reservoir\\ is\\ palpable\\ in\\ the\\ region\\ of\\ the\\ left\\ anterior\\ chest\\ subjacent\\ to\\ a\\ recently\\ healed\\ surgical\\ incision\\.\ \(0\)\
-\-\ the\\ patient\\ underwent\\ successful\\ flouroscopic\\ guided\\ endovascular\\ snare\\ retreival\\ of\\ the\\ catheter\\ embolus\\.\ \(0\)\
-\-\ a\\ new\\ port\\-a\\-cath\\ was\\ eventually\\ placed\\.\ \(0\)\
-\-\ foreign\\ body\\(catheter\\)\\ in\\ right\\ ventricle\\,\\ infundibulum\\,\\ pulmonary\\ trunk\\,\\ right\\ pulmonary\\ artery\\,\\ and\\ segmental\\ branch\\ of\\ the\\ right\\ pulmonary\\ artery\\ subserving\\ the\\ superior\\ segment\\ of\\ the\\ right\\ lower\\ lobe\\.\ \(0\)\
-\-\ foreign\\ body\\ embolization\\.\ \(0\)\
-\-\ device\\ failure\ \(0\)\
-\-\ operator\\ error\ \(0\)\
-\-\ 44\\ y\\/o\\ female\\ with\\ one\\ day\\ history\\ of\\ sharp\\,\\ substernal\\ chest\\ pain\\.\\ one\\ week\\ prior\\ to\\ onset\\ of\\ chest\\ pain\\,\\ she\\ underwent\\ placement\\ of\\ port\\-a\\-cath\\ via\\ a\\ left\\ subclavian\\ vein\\ access\\ for\\ long\\ term\\ chemotherapy\\ administration\\.\ \(0\)\
-\-\ her\\ past\\ medical\\ history\\ is\\ significant\\ for\\ bilateral\\ breast\\ cancer\\.\ \(0\)\
-\-\ her\\ past\\ surgical\\ history\\ includes\\ bilateral\\ mastectomies\\.\ \(0\)\
-\-\ port\\-a\\-caths\\ are\\ longterm\\ venous\\ access\\ devices\\ most\\ commonly\\ used\\ for\\ the\\ administration\\ of\\ chemotherapy\\,\\ but\\ which\\ can\\ also\\ be\\ used\\ for\\ tpn\\,\\ and\\ intermittent\\ blood\\ draws\\.\\ the\\ most\\ common\\ complications\\ include\\ infection\\,\\ thrombosis\\,\\ catheter\\ occlusion\\,\\ catheter\\ embolization\\,\\ and\\ catheter\\ deconnection\\.\ \(0\)\
-\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
-\-\ catheter\\:\\ 0\\.10637275188223223\ \(0\)\
-\-\ port\\-a\\-cath\\:\\ 0\\.07467440944593158\ \(0\)\
-\-\ access\\:\\ 0\\.05610695380626262\ \(0\)\
-\-\ port\\-a\\-catheter\\:\\ 0\\.045676261264075126\ \(0\)\
-\-\ retreival\\:\\ 0\\.045676261264075126\ \(0\)\
-\-\ port\\-a\\-caths\\:\\ 0\\.045676261264075126\ \(0\)\
-\-\ deconnection\\:\\ 0\\.045676261264075126\ \(0\)\
-\-\ foreign\\:\\ 0\\.0436305516888954\ \(0\)\
-\-\ embolization\\:\\ 0\\.041235611575285186\ \(0\)\
-\-\ longterm\\:\\ 0\\.039983969612945015\ \(0\)\
-\-\ draws\\:\\ 0\\.039983969612945015\ \(0\)\
-\-\ pulmonary\\:\\ 0\\.03880648150601135\ \(0\)\
-\-\ snare\\:\\ 0\\.038493388926666365\ \(0\)\
-\-\ subserving\\:\\ 0\\.038493388926666365\ \(0\)\
-\-\ mastectomies\\:\\ 0\\.038493388926666365\ \(0\)\
-\-\ reservoir\\:\\ 0\\.03733720472296579\ \(0\)\
-\-\ administration\\:\\ 0\\.03676331880728674\ \(0\)\
-\-\ operator\\:\\ 0\\.036392533444240635\ \(0\)\
-\-\ error\\:\\ 0\\.036392533444240635\ \(0\)\
-\-\ used\\:\\ 0\\.03397082027925349\ \(0\)\
-\-\ flouroscopic\\:\\ 0\\.03374576855426141\ \(0\)\
-\-\ tpn\\:\\ 0\\.03374576855426141\ \(0\)\
-\-\ subjacent\\:\\ 0\\.032801097275536255\ \(0\)\
-\-\ infundibulum\\:\\ 0\\.0320023890899028\ \(0\)\
-\-\ chest\\:\\ 0\\.03178335233250029\ \(0\)\
-\-\ chemotherapy\\:\\ 0\\.03174037083047529\ \(0\)\
-\-\ devices\\:\\ 0\\.03164491307183569\ \(0\)\
-\-\ substernal\\:\\ 0\\.03070024179311054\ \(0\)\
-\-\ underwent\\:\\ 0\\.030385451144852013\ \(0\)\
-\-\ body\\:\\ 0\\.028759209457917975\ \(0\)\
-\-\ past\\:\\ 0\\.028136782092709162\ \(0\)\
-\-\ incision\\:\\ 0\\.02805347690313131\ \(0\)\
-\-\ trunk\\:\\ 0\\.027883581448089906\ \(0\)\
-\-\ endovascular\\:\\ 0\\.02771908042055322\ \(0\)\
-\-\ guided\\:\\ 0\\.026966842027576546\ \(0\)\
-\-\ healed\\:\\ 0\\.026694076569102863\ \(0\)\
-\-\ embolus\\:\\ 0\\.026694076569102863\ \(0\)\
-\-\ device\\:\\ 0\\.026694076569102863\ \(0\)\
-\-\ her\\:\\ 0\\.02662602754906669\ \(0\)\
-\-\ artery\\:\\ 0\\.02636818644671709\ \(0\)\
-\-\ eventually\\:\\ 0\\.024376396682866255\ \(0\)\
-\-\ one\\:\\ 0\\.02399721640736419\ \(0\)\
-\-\ branch\\:\\ 0\\.023968205605907112\ \(0\)\
-\-\ sharp\\:\\ 0\\.023968205605907112\ \(0\)\
-\-\ successful\\:\\ 0\\.02358983703070043\ \(0\)\
-\-\ segmental\\:\\ 0\\.02323722841285061\ \(0\)\
-\-\ 44\\:\\ 0\\.022718661270068313\ \(0\)\
-\-\ subclavian\\:\\ 0\\.022596741594367826\ \(0\)\
-\-\ occlusion\\:\\ 0\\.02208104420915004\ \(0\)\
-\-\ bilateral\\:\\ 0\\.02149033916388025\ \(0\)\
-\-\ recently\\:\\ 0\\.020659091640747137\ \(0\)\
-\-\ most\\:\\ 0\\.02044388747904742\ \(0\)\
-\-\ term\\:\\ 0\\.020260329769575487\ \(0\)\
-\-\ segment\\:\\ 0\\.019315658490850332\ \(0\)\
-\-\ via\\:\\ 0\\.019005305425663446\ \(0\)\
-\-\ intermittent\\:\\ 0\\.019005305425663446\ \(0\)\
-\-\ thrombosis\\:\\ 0\\.019005305425663446\ \(0\)\
-\-\ right\\:\\ 0\\.01868666754632988\ \(0\)\
-\-\ surgical\\:\\ 0\\.018613697101051332\ \(0\)\
-\-\ history\\:\\ 0\\.018345303694928757\ \(0\)\
-\-\ placement\\:\\ 0\\.017971040897663364\ \(0\)\
-\-\ placed\\:\\ 0\\.017921928234686454\ \(0\)\
-\-\ includes\\:\\ 0\\.017849121221962878\ \(0\)\
-\-\ complications\\:\\ 0\\.017544936761720503\ \(0\)\
-\-\ failure\\:\\ 0\\.017344343434359415\ \(0\)\
-\-\ \\,\\:\\ 0\\.01683171391817331\ \(0\)\
-\-\ commonly\\:\\ 0\\.016707416805469645\ \(0\)\
-\-\ ventricle\\:\\ 0\\.01659269594600222\ \(0\)\
-\-\ breast\\:\\ 0\\.016334497118293018\ \(0\)\
-\-\ venous\\:\\ 0\\.016071428074907405\ \(0\)\
-\-\ vein\\:\\ 0\\.016020379906808897\ \(0\)\
-\-\ palpable\\:\\ 0\\.01569233700828907\ \(0\)\
-\-\ new\\:\\ 0\\.015428953247671288\ \(0\)\
-\-\ long\\:\\ 0\\.015265396429185098\ \(0\)\
-\-\ for\\:\\ 0\\.015111049712802386\ \(0\)\
-\-\ week\\:\\ 0\\.01503634931776284\ \(0\)\
-\-\ cancer\\:\\ 0\\.014555260437123137\ \(0\)\
-\-\ superior\\:\\ 0\\.014138568378519126\ \(0\)\
-\-\ day\\:\\ 0\\.014056786680585128\ \(0\)\
-\-\ onset\\:\\ 0\\.013976275781995597\ \(0\)\
-\-\ medical\\:\\ 0\\.01362336683972023\ \(0\)\
-\-\ infection\\:\\ 0\\.012870552197268431\ \(0\)\
-\-\ region\\:\\ 0\\.0125057058406182\ \(0\)\
-\-\ she\\:\\ 0\\.01242894373810452\ \(0\)\
-\-\ include\\:\\ 0\\.01242048439393931\ \(0\)\
-\-\ y\\/o\\:\\ 0\\.012262326579376377\ \(0\)\
-\-\ blood\\:\\ 0\\.012085031463778755\ \(0\)\
-\-\ lobe\\:\\ 0\\.011913602838982042\ \(0\)\
-\-\ significant\\:\\ 0\\.011905943787845718\ \(0\)\
-\-\ common\\:\\ 0\\.011586876745888068\ \(0\)\
-\-\ anterior\\:\\ 0\\.011403071625713666\ \(0\)\
-\-\ prior\\:\\ 0\\.011368459959597739\ \(0\)\
-\-\ pain\\:\\ 0\\.01081459240964492\ \(0\)\
-\-\ can\\:\\ 0\\.01004260286253404\ \(0\)\
-\-\ lower\\:\\ 0\\.009957834556289444\ \(0\)\
-\-\ left\\:\\ 0\\.009907826624589791\ \(0\)\
-\-\ but\\:\\ 0\\.009443022285147864\ \(0\)\
-\-\ female\\:\\ 0\\.009102384826154579\ \(0\)\
-\-\ also\\:\\ 0\\.008728598930933426\ \(0\)\
-\-\ which\\:\\ 0\\.008264997861360356\ \(0\)\
-\-\ a\\:\\ 0\\.008219685011784482\ \(0\)\
-\-\ be\\:\\ 0\\.006827755043232794\ \(0\)\
-\-\ the\\:\\ 0\\.006446857835920374\ \(0\)\
-\-\ are\\:\\ 0\\.006035615919842496\ \(0\)\
-\-\ is\\:\\ 0\\.005826847444401302\ \(0\)\
-\-\ was\\:\\ 0\\.0051206089233869784\ \(0\)\
-\-\ of\\:\\ 0\\.004829173090072059\ \(0\)\
-\-\ patient\\:\\ 0\\.004438300160188539\ \(0\)\
-\-\ to\\:\\ 0\\.004425576253295194\ \(0\)\
-\-\ in\\:\\ 0\\.004366810675028548\ \(0\)\
-\-\ \\(\\:\\ 0\\.0037428068717298476\ \(0\)\
-\-\ \\)\\:\\ 0\\.003697086487633705\ \(0\)\
-\-\ and\\:\\ 0\\.0027980674466147946\ \(0\)\
-\-\ \\.\\:\\ 0\\.002023289622128544\ \(0\)\
-\-\ with\\:\\ 0\\.0006062392543517603\ \(0\)\
+Texto: 
+a port-a-catheter reservoir is palpable in the region of the left anterior chest subjacent to a recently healed surgical incision.
+the patient underwent successful flouroscopic guided endovascular snare retreival of the catheter embolus.
+
+a new port-a-cath was eventually placed.
+foreign body(catheter) in right ventricle, infundibulum, pulmonary trunk, right pulmonary artery, and segmental branch of the right pulmonary artery subserving the superior segment of the right lower lobe.
+foreign body embolization.
+device failure
+operator error
+44 y/o female with one day history of sharp, substernal chest pain. one week prior to onset of chest pain, she underwent placement of port-a-cath via a left subclavian vein access for long term chemotherapy administration.
+
+her past medical history is significant for bilateral breast cancer.
+her past surgical history includes bilateral mastectomies.
+port-a-caths are longterm venous access devices most commonly used for the administration of chemotherapy, but which can also be used for tpn, and intermittent blood draws. the most common complications include infection, thrombosis, catheter occlusion, catheter embolization, and catheter deconnection.
+
+
+Keywords by value: 
+- catheter: 0.10637275188223223
+- port-a-cath: 0.07467440944593158
+- access: 0.05610695380626262
+- port-a-catheter: 0.045676261264075126
+- retreival: 0.045676261264075126
+- port-a-caths: 0.045676261264075126
+- deconnection: 0.045676261264075126
+- foreign: 0.0436305516888954
+- embolization: 0.041235611575285186
+- longterm: 0.039983969612945015
+- draws: 0.039983969612945015
+- pulmonary: 0.03880648150601135
+- snare: 0.038493388926666365
+- subserving: 0.038493388926666365
+- mastectomies: 0.038493388926666365
+- reservoir: 0.03733720472296579
+- administration: 0.03676331880728674
+- operator: 0.036392533444240635
+- error: 0.036392533444240635
+- used: 0.03397082027925349
+- flouroscopic: 0.03374576855426141
+- tpn: 0.03374576855426141
+- subjacent: 0.032801097275536255
+- infundibulum: 0.0320023890899028
+- chest: 0.03178335233250029
+- chemotherapy: 0.03174037083047529
+- devices: 0.03164491307183569
+- substernal: 0.03070024179311054
+- underwent: 0.030385451144852013
+- body: 0.028759209457917975
+- past: 0.028136782092709162
+- incision: 0.02805347690313131
+- trunk: 0.027883581448089906
+- endovascular: 0.02771908042055322
+- guided: 0.026966842027576546
+- healed: 0.026694076569102863
+- embolus: 0.026694076569102863
+- device: 0.026694076569102863
+- her: 0.02662602754906669
+- artery: 0.02636818644671709
+- eventually: 0.024376396682866255
+- one: 0.02399721640736419
+- branch: 0.023968205605907112
+- sharp: 0.023968205605907112
+- successful: 0.02358983703070043
+- segmental: 0.02323722841285061
+- 44: 0.022718661270068313
+- subclavian: 0.022596741594367826
+- occlusion: 0.02208104420915004
+- bilateral: 0.02149033916388025
+- recently: 0.020659091640747137
+- most: 0.02044388747904742
+- term: 0.020260329769575487
+- segment: 0.019315658490850332
+- via: 0.019005305425663446
+- intermittent: 0.019005305425663446
+- thrombosis: 0.019005305425663446
+- right: 0.01868666754632988
+- surgical: 0.018613697101051332
+- history: 0.018345303694928757
+- placement: 0.017971040897663364
+- placed: 0.017921928234686454
+- includes: 0.017849121221962878
+- complications: 0.017544936761720503
+- failure: 0.017344343434359415
+- ,: 0.01683171391817331
+- commonly: 0.016707416805469645
+- ventricle: 0.01659269594600222
+- breast: 0.016334497118293018
+- venous: 0.016071428074907405
+- vein: 0.016020379906808897
+- palpable: 0.01569233700828907
+- new: 0.015428953247671288
+- long: 0.015265396429185098
+- for: 0.015111049712802386
+- week: 0.01503634931776284
+- cancer: 0.014555260437123137
+- superior: 0.014138568378519126
+- day: 0.014056786680585128
+- onset: 0.013976275781995597
+- medical: 0.01362336683972023
+- infection: 0.012870552197268431
+- region: 0.0125057058406182
+- she: 0.01242894373810452
+- include: 0.01242048439393931
+- y/o: 0.012262326579376377
+- blood: 0.012085031463778755
+- lobe: 0.011913602838982042
+- significant: 0.011905943787845718
+- common: 0.011586876745888068
+- anterior: 0.011403071625713666
+- prior: 0.011368459959597739
+- pain: 0.01081459240964492
+- can: 0.01004260286253404
+- lower: 0.009957834556289444
+- left: 0.009907826624589791
+- but: 0.009443022285147864
+- female: 0.009102384826154579
+- also: 0.008728598930933426
+- which: 0.008264997861360356
+- a: 0.008219685011784482
+- be: 0.006827755043232794
+- the: 0.006446857835920374
+- are: 0.006035615919842496
+- is: 0.005826847444401302
+- was: 0.0051206089233869784
+- of: 0.004829173090072059
+- patient: 0.004438300160188539
+- to: 0.004425576253295194
+- in: 0.004366810675028548
+- (: 0.0037428068717298476
+- ): 0.003697086487633705
+- and: 0.0027980674466147946
+- .: 0.002023289622128544
+- with: 0.0006062392543517603

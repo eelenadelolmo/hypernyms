@@ -1,84 +1,87 @@
-\-\ Texto\\:\\ \ \(0\)\
-\-\ red\\,\\ indurated\\,\\ tender\\ right\\ breast\\.\\ \\ skin\\ biopsy\\ consistent\\ with\\ metastatic\\ ductal\\ carcinoma\\.\ \(0\)\
-\-\ consideration\\ for\\ induction\\ chemotherapy\\ followed\\ by\\ mastectomy\\ and\\ radiation\\ therapy\\.\ \(0\)\
-\-\ cc\\ and\\ mlo\\ mammograms\\ demonstrate\\ asymmetrically\\ dense\\ right\\ breast\\ parenchyma\\ without\\ evidence\\ of\\ a\\ focal\\ mass\\ or\\ architectural\\ distortion\\.\ \(0\)\
-\-\ t2\\ and\\ t1\\ pre\\ and\\ post\\ gad\\ and\\ subtracted\\ axial\\ images\\ of\\ the\\ breast\\ demonstrate\\ too\\ numerous\\ to\\ count\\ enhancing\\ masses\\ in\\ the\\ right\\ breast\\ parenchyma\\ and\\ skin\\ with\\ marked\\ skin\\ thickening\\.\ \(0\)\
-\-\ inflammatory\\ breast\\ cancer\\ \\(secondary\\)\ \(0\)\
-\-\ mastitis\\ or\\ breast\\ abscess\ \(0\)\
-\-\ leukemic\\ involvement\\ of\\ the\\ breast\ \(0\)\
-\-\ ductal\\ ectasia\ \(0\)\
-\-\ prior\\ invasive\\ ductal\\ carcinoma\\ with\\ new\\ onset\\ painful\\,\\ red\\ right\\ breast\\.\ \(0\)\
-\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
-\-\ breast\\:\\ 0\\.2292769413694947\ \(0\)\
-\-\ ductal\\:\\ 0\\.10985527312321233\ \(0\)\
-\-\ skin\\:\\ 0\\.0895126073246994\ \(0\)\
-\-\ red\\:\\ 0\\.08106926540503466\ \(0\)\
-\-\ subtracted\\:\\ 0\\.08014107658151362\ \(0\)\
-\-\ leukemic\\:\\ 0\\.0738397385764232\ \(0\)\
-\-\ parenchyma\\:\\ 0\\.06617033984350307\ \(0\)\
-\-\ asymmetrically\\:\\ 0\\.062450984317374406\ \(0\)\
-\-\ induction\\:\\ 0\\.06123706256624238\ \(0\)\
-\-\ mastitis\\:\\ 0\\.06016630769663889\ \(0\)\
-\-\ indurated\\:\\ 0\\.05755101612889543\ \(0\)\
-\-\ gad\\:\\ 0\\.056149646312283995\ \(0\)\
-\-\ architectural\\:\\ 0\\.05163658370943044\ \(0\)\
-\-\ pre\\:\\ 0\\.051249678123805015\ \(0\)\
-\-\ ectasia\\:\\ 0\\.050178923254201535\ \(0\)\
-\-\ mammograms\\:\\ 0\\.04922110038458493\ \(0\)\
-\-\ mlo\\:\\ 0\\.04892301108619411\ \(0\)\
-\-\ mastectomy\\:\\ 0\\.04616226186984663\ \(0\)\
-\-\ distortion\\:\\ 0\\.04616226186984663\ \(0\)\
-\-\ carcinoma\\:\\ 0\\.04403504854574303\ \(0\)\
-\-\ too\\:\\ 0\\.043546970302103166\ \(0\)\
-\-\ consideration\\:\\ 0\\.04338606505574498\ \(0\)\
-\-\ cc\\:\\ 0\\.04164919926699308\ \(0\)\
-\-\ invasive\\:\\ 0\\.039033907699249616\ \(0\)\
-\-\ painful\\:\\ 0\\.03692662029872849\ \(0\)\
-\-\ dense\\:\\ 0\\.036694499371408805\ \(0\)\
-\-\ demonstrate\\:\\ 0\\.035753675296964375\ \(0\)\
-\-\ numerous\\:\\ 0\\.03483556183871056\ \(0\)\
-\-\ count\\:\\ 0\\.03377865451038454\ \(0\)\
-\-\ right\\:\\ 0\\.03278660760401515\ \(0\)\
-\-\ tender\\:\\ 0\\.03153100812044572\ \(0\)\
-\-\ marked\\:\\ 0\\.030317086369313694\ \(0\)\
-\-\ involvement\\:\\ 0\\.02847216960570742\ \(0\)\
-\-\ chemotherapy\\:\\ 0\\.027844961683098773\ \(0\)\
-\-\ biopsy\\:\\ 0\\.027560847651243277\ \(0\)\
-\-\ new\\:\\ 0\\.027070799789095983\ \(0\)\
-\-\ inflammatory\\:\\ 0\\.026939235856291124\ \(0\)\
-\-\ thickening\\:\\ 0\\.02633295063357592\ \(0\)\
-\-\ masses\\:\\ 0\\.026259930890873518\ \(0\)\
-\-\ followed\\:\\ 0\\.026044326103443375\ \(0\)\
-\-\ cancer\\:\\ 0\\.025537866039679682\ \(0\)\
-\-\ radiation\\:\\ 0\\.02549319317783942\ \(0\)\
-\-\ t1\\:\\ 0\\.02462268669294767\ \(0\)\
-\-\ abscess\\:\\ 0\\.024562147673947883\ \(0\)\
-\-\ onset\\:\\ 0\\.02452201114477409\ \(0\)\
-\-\ post\\:\\ 0\\.024462136664293577\ \(0\)\
-\-\ enhancing\\:\\ 0\\.024363213935315993\ \(0\)\
-\-\ focal\\:\\ 0\\.02218630549216729\ \(0\)\
-\-\ axial\\:\\ 0\\.022170831600617013\ \(0\)\
-\-\ t2\\:\\ 0\\.0219871706250032\ \(0\)\
-\-\ secondary\\:\\ 0\\.021718454240989157\ \(0\)\
-\-\ therapy\\:\\ 0\\.020769461784005572\ \(0\)\
-\-\ evidence\\:\\ 0\\.020367659848789795\ \(0\)\
-\-\ prior\\:\\ 0\\.019946479747294212\ \(0\)\
-\-\ metastatic\\:\\ 0\\.019555540032873547\ \(0\)\
-\-\ consistent\\:\\ 0\\.019048166080283663\ \(0\)\
-\-\ without\\:\\ 0\\.018291028785074184\ \(0\)\
-\-\ or\\:\\ 0\\.018209504526612862\ \(0\)\
-\-\ images\\:\\ 0\\.0149023990177214\ \(0\)\
-\-\ by\\:\\ 0\\.012935190029498861\ \(0\)\
-\-\ mass\\:\\ 0\\.010804190972250586\ \(0\)\
-\-\ and\\:\\ 0\\.009818673039939187\ \(0\)\
-\-\ \\,\\:\\ 0\\.00738300178683511\ \(0\)\
-\-\ for\\:\\ 0\\.006628255896751955\ \(0\)\
-\-\ \\(\\:\\ 0\\.0065669247840350956\ \(0\)\
-\-\ \\)\\:\\ 0\\.006486706291939137\ \(0\)\
-\-\ to\\:\\ 0\\.003882437349481693\ \(0\)\
-\-\ in\\:\\ 0\\.003830883910365954\ \(0\)\
-\-\ the\\:\\ 0\\.0037704350373716122\ \(0\)\
-\-\ a\\:\\ 0\\.003605452743805466\ \(0\)\
-\-\ with\\:\\ 0\\.00319102298426972\ \(0\)\
-\-\ of\\:\\ 0\\.0031773763853996844\ \(0\)\
-\-\ \\.\\:\\ 0\\.001936338332582524\ \(0\)\
+Texto: 
+red, indurated, tender right breast.  skin biopsy consistent with metastatic ductal carcinoma.
+consideration for induction chemotherapy followed by mastectomy and radiation therapy.
+cc and mlo mammograms demonstrate asymmetrically dense right breast parenchyma without evidence of a focal mass or architectural distortion.
+
+t2 and t1 pre and post gad and subtracted axial images of the breast demonstrate too numerous to count enhancing masses in the right breast parenchyma and skin with marked skin thickening.
+inflammatory breast cancer (secondary)
+mastitis or breast abscess
+leukemic involvement of the breast
+ductal ectasia
+prior invasive ductal carcinoma with new onset painful, red right breast.
+
+
+Keywords by value: 
+- breast: 0.2292769413694947
+- ductal: 0.10985527312321233
+- skin: 0.0895126073246994
+- red: 0.08106926540503466
+- subtracted: 0.08014107658151362
+- leukemic: 0.0738397385764232
+- parenchyma: 0.06617033984350307
+- asymmetrically: 0.062450984317374406
+- induction: 0.06123706256624238
+- mastitis: 0.06016630769663889
+- indurated: 0.05755101612889543
+- gad: 0.056149646312283995
+- architectural: 0.05163658370943044
+- pre: 0.051249678123805015
+- ectasia: 0.050178923254201535
+- mammograms: 0.04922110038458493
+- mlo: 0.04892301108619411
+- mastectomy: 0.04616226186984663
+- distortion: 0.04616226186984663
+- carcinoma: 0.04403504854574303
+- too: 0.043546970302103166
+- consideration: 0.04338606505574498
+- cc: 0.04164919926699308
+- invasive: 0.039033907699249616
+- painful: 0.03692662029872849
+- dense: 0.036694499371408805
+- demonstrate: 0.035753675296964375
+- numerous: 0.03483556183871056
+- count: 0.03377865451038454
+- right: 0.03278660760401515
+- tender: 0.03153100812044572
+- marked: 0.030317086369313694
+- involvement: 0.02847216960570742
+- chemotherapy: 0.027844961683098773
+- biopsy: 0.027560847651243277
+- new: 0.027070799789095983
+- inflammatory: 0.026939235856291124
+- thickening: 0.02633295063357592
+- masses: 0.026259930890873518
+- followed: 0.026044326103443375
+- cancer: 0.025537866039679682
+- radiation: 0.02549319317783942
+- t1: 0.02462268669294767
+- abscess: 0.024562147673947883
+- onset: 0.02452201114477409
+- post: 0.024462136664293577
+- enhancing: 0.024363213935315993
+- focal: 0.02218630549216729
+- axial: 0.022170831600617013
+- t2: 0.0219871706250032
+- secondary: 0.021718454240989157
+- therapy: 0.020769461784005572
+- evidence: 0.020367659848789795
+- prior: 0.019946479747294212
+- metastatic: 0.019555540032873547
+- consistent: 0.019048166080283663
+- without: 0.018291028785074184
+- or: 0.018209504526612862
+- images: 0.0149023990177214
+- by: 0.012935190029498861
+- mass: 0.010804190972250586
+- and: 0.009818673039939187
+- ,: 0.00738300178683511
+- for: 0.006628255896751955
+- (: 0.0065669247840350956
+- ): 0.006486706291939137
+- to: 0.003882437349481693
+- in: 0.003830883910365954
+- the: 0.0037704350373716122
+- a: 0.003605452743805466
+- with: 0.00319102298426972
+- of: 0.0031773763853996844
+- .: 0.001936338332582524

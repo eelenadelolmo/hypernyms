@@ -1,160 +1,164 @@
-\-\ Texto\\:\\ \ \(0\)\
-\-\ normal\\ breast\\ exam\\ without\\ mass\\,\\ nipple\\ discharge\\,\\ or\\ skin\\ retraction\\.\ \(0\)\
-\-\ surgical\\ excision\ \(50\)\
-\-\ screening\\ mammogram\\ in\\ may\\ of\\ 2003\\ demonstrates\\ irregular\\ density\\ in\\ posterior\\ third\\ of\\ the\\ right\\ breast\\ that\\ is\\ seen\\ only\\ on\\ the\\ cranial\\-caudal\\ view\\.\ \(0\)\
-\-\ callback\\ diagnostic\\ mammogram\\ consisting\\ of\\ spot\\ compression\\ views\\ demonstrates\\ persistence\\ of\\ the\\ irregular\\ density\\.\ \(0\)\
-\-\ since\\ the\\ density\\ could\\ not\\ be\\ seen\\ on\\ orthogonal\\ views\\,\\ the\\ patient\\ was\\ referred\\ for\\ an\\ mri\\ of\\ the\\ breasts\\ for\\ further\\ evaluation\\.\\ \\ mri\\ showed\\ a\\ 1\\.2\\ cm\\ mass\\ in\\ the\\ posterior\\ third\\ of\\ the\\ right\\ breast\\ which\\ enhanced\\ more\\ avidly\\ than\\ the\\ rest\\ of\\ the\\ breast\\ parenchyma\\.\\ \\ time\\-enhancement\\ curves\\ for\\ the\\ mass\\ were\\ not\\ suggestive\\ of\\ malignancy\\.\ \(0\)\
-\-\ infiltrating\\ ductal\\ carcinoma\\ of\\ the\\ breast\\ \\(confirmed\\ by\\ mri\\-guided\\ core\\ biopsy\\)\ \(0\)\
-\-\ 1\\.\\ \\ primary\\ breast\\ cancer\\ \\(most\\ commonly\\ infiltrating\\ ductal\\ carcinoma\\)\ \(0\)\
-\-\ 2\\.\\ \\ single\\ metastatic\\ foci\\ in\\ the\\ right\\ breast\\ \\(unlikely\\,\\ especially\\ without\\ a\\ known\\ primary\\)\ \(0\)\
-\-\ 3\\.\\ \\ benign\\ breast\\ mass\\ \\(such\\ as\\ a\\ fibroadenoma\\)\ \(0\)\
-\-\ 4\\.\\ \\ intramammary\\ lymph\\ node\ \(0\)\
-\-\ history\\ of\\ atypical\\ ductal\\ hyperplasia\\ discovered\\ by\\ biopsy\\ of\\ right\\ breast\\ several\\ years\\ ago\\.\ \(0\)\
-\-\ this\\ case\\ demonstrates\\ the\\ facility\\ of\\ mri\\ evaluation\\ of\\ the\\ breast\\.\\ \\ since\\ this\\ lesion\\ was\\ not\\ seen\\ in\\ both\\ views\\ of\\ the\\ mammogram\\,\\ an\\ ultrasound\\ would\\ be\\ very\\ low\\ yield\\ as\\ a\\ diagnostic\\ study\\.\\ \\ mri\\,\\ however\\,\\ demonstrated\\ the\\ affinity\\ of\\ the\\ mass\\ for\\ contrast\\ and\\ raised\\ suspicion\\ of\\ malignancy\\.\\ \\ another\\ important\\ point\\ this\\ case\\ illustrates\\ is\\ that\\ even\\ though\\ time\\-enhancement\\ curves\\ are\\ not\\ suggestive\\ of\\ malignancy\\,\\ the\\ mass\\ may\\ still\\ be\\ malignant\\.\\ \\ additionally\\,\\ this\\ case\\ is\\ a\\ good\\ example\\ of\\ how\\ mr\\ can\\ be\\ used\\ in\\ the\\ acquisition\\ of\\ tissue\\ for\\ pathological\\ evaluation\\.\ \(0\)\
-\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
-\-\ breast\\:\\ 0\\.10870889461484663\ \(0\)\
-\-\ time\\-enhancement\\:\\ 0\\.06079667878597585\ \(0\)\
-\-\ curves\\:\\ 0\\.0496971069760855\ \(0\)\
-\-\ mammogram\\:\\ 0\\.04612561652355421\ \(0\)\
-\-\ ductal\\:\\ 0\\.04166924152949433\ \(0\)\
-\-\ views\\:\\ 0\\.036436692405951786\ \(0\)\
-\-\ malignancy\\:\\ 0\\.03415954839105016\ \(0\)\
-\-\ infiltrating\\:\\ 0\\.032007801062557656\ \(0\)\
-\-\ cranial\\-caudal\\:\\ 0\\.030398339392987923\ \(0\)\
-\-\ mri\\-guided\\:\\ 0\\.030398339392987923\ \(0\)\
-\-\ affinity\\:\\ 0\\.030398339392987923\ \(0\)\
-\-\ density\\:\\ 0\\.02908584162268923\ \(0\)\
-\-\ callback\\:\\ 0\\.028008176701401905\ \(0\)\
-\-\ mri\\:\\ 0\\.027079666964339583\ \(0\)\
-\-\ evaluation\\:\\ 0\\.02567833237062215\ \(0\)\
-\-\ intramammary\\:\\ 0\\.02561801400981589\ \(0\)\
-\-\ suggestive\\:\\ 0\\.025177465172710235\ \(0\)\
-\-\ mass\\:\\ 0\\.02458884841960478\ \(0\)\
-\-\ third\\:\\ 0\\.023630666856206878\ \(0\)\
-\-\ irregular\\:\\ 0\\.023505838982802618\ \(0\)\
-\-\ diagnostic\\:\\ 0\\.02335291582766936\ \(0\)\
-\-\ orthogonal\\:\\ 0\\.022821702919414752\ \(0\)\
-\-\ acquisition\\:\\ 0\\.022458390796456732\ \(0\)\
-\-\ yield\\:\\ 0\\.022129735004028026\ \(0\)\
-\-\ since\\:\\ 0\\.021646652563435977\ \(0\)\
-\-\ biopsy\\:\\ 0\\.020908229252667315\ \(0\)\
-\-\ avidly\\:\\ 0\\.020068228104870713\ \(0\)\
-\-\ persistence\\:\\ 0\\.019586290372542583\ \(0\)\
-\-\ case\\:\\ 0\\.01933970102966142\ \(0\)\
-\-\ demonstrates\\:\\ 0\\.019309874499860543\ \(0\)\
-\-\ raised\\:\\ 0\\.018786974462000082\ \(0\)\
-\-\ retraction\\:\\ 0\\.018670072559670146\ \(0\)\
-\-\ fibroadenoma\\:\\ 0\\.018670072559670146\ \(0\)\
-\-\ consisting\\:\\ 0\\.01855700420510811\ \(0\)\
-\-\ 1\\.2\\:\\ 0\\.01855700420510811\ \(0\)\
-\-\ breasts\\:\\ 0\\.01823847551500116\ \(0\)\
-\-\ be\\:\\ 0\\.01817595480474385\ \(0\)\
-\-\ illustrates\\:\\ 0\\.017854938842207284\ \(0\)\
-\-\ nipple\\:\\ 0\\.01750982346787286\ \(0\)\
-\-\ seen\\:\\ 0\\.017468561535183003\ \(0\)\
-\-\ primary\\:\\ 0\\.01745782250272894\ \(0\)\
-\-\ how\\:\\ 0\\.017428683821630812\ \(0\)\
-\-\ pathological\\:\\ 0\\.017196127680956564\ \(0\)\
-\-\ not\\:\\ 0\\.01703198167919911\ \(0\)\
-\-\ carcinoma\\:\\ 0\\.016702949448385285\ \(0\)\
-\-\ core\\:\\ 0\\.016337865448485443\ \(0\)\
-\-\ example\\:\\ 0\\.01622291227514892\ \(0\)\
-\-\ facility\\:\\ 0\\.016111667922672296\ \(0\)\
-\-\ spot\\:\\ 0\\.01584831282341514\ \(0\)\
-\-\ suspicion\\:\\ 0\\.015287902721698676\ \(0\)\
-\-\ 2003\\:\\ 0\\.014805964989370543\ \(0\)\
-\-\ hyperplasia\\:\\ 0\\.014518442199925539\ \(0\)\
-\-\ discovered\\:\\ 0\\.014518442199925539\ \(0\)\
-\-\ discharge\\:\\ 0\\.014285136515533075\ \(0\)\
-\-\ unlikely\\:\\ 0\\.014036504467597407\ \(0\)\
-\-\ still\\:\\ 0\\.014036504467597407\ \(0\)\
-\-\ without\\:\\ 0\\.013875952871435587\ \(0\)\
-\-\ though\\:\\ 0\\.013667200551885797\ \(0\)\
-\-\ rest\\:\\ 0\\.013587314140570161\ \(0\)\
-\-\ posterior\\:\\ 0\\.013583714128982403\ \(0\)\
-\-\ node\\:\\ 0\\.013483598777682996\ \(0\)\
-\-\ this\\:\\ 0\\.01325706501122942\ \(0\)\
-\-\ important\\:\\ 0\\.01323718855705491\ \(0\)\
-\-\ even\\:\\ 0\\.013120286654724974\ \(0\)\
-\-\ may\\:\\ 0\\.012926402544124992\ \(0\)\
-\-\ point\\:\\ 0\\.012876255375800122\ \(0\)\
-\-\ atypical\\:\\ 0\\.01277079529520674\ \(0\)\
-\-\ additionally\\:\\ 0\\.01277079529520674\ \(0\)\
-\-\ another\\:\\ 0\\.012668465060220131\ \(0\)\
-\-\ foci\\:\\ 0\\.012648358438458776\ \(0\)\
-\-\ enhanced\\:\\ 0\\.01260849353362748\ \(0\)\
-\-\ good\\:\\ 0\\.01260849353362748\ \(0\)\
-\-\ for\\:\\ 0\\.01257083014901233\ \(0\)\
-\-\ screening\\:\\ 0\\.012569084237683954\ \(0\)\
-\-\ parenchyma\\:\\ 0\\.01254954721169886\ \(0\)\
-\-\ right\\:\\ 0\\.012436299436005747\ \(0\)\
-\-\ especially\\:\\ 0\\.012128279508339522\ \(0\)\
-\-\ excision\\:\\ 0\\.012093968022638943\ \(0\)\
-\-\ single\\:\\ 0\\.011943656174104937\ \(0\)\
-\-\ lymph\\:\\ 0\\.011894973823947058\ \(0\)\
-\-\ 4\\.\\:\\ 0\\.011601655070347577\ \(0\)\
-\-\ skin\\:\\ 0\\.011317685983582683\ \(0\)\
-\-\ used\\:\\ 0\\.011304083299820557\ \(0\)\
-\-\ referred\\:\\ 0\\.011119073942950487\ \(0\)\
-\-\ commonly\\:\\ 0\\.011119073942950487\ \(0\)\
-\-\ confirmed\\:\\ 0\\.011080688286506197\ \(0\)\
-\-\ view\\:\\ 0\\.01105533320269496\ \(0\)\
-\-\ compression\\:\\ 0\\.011030163194137677\ \(0\)\
-\-\ ago\\:\\ 0\\.010968030416542237\ \(0\)\
-\-\ could\\:\\ 0\\.010870889461484663\ \(0\)\
-\-\ very\\:\\ 0\\.010695812477438376\ \(0\)\
-\-\ malignant\\:\\ 0\\.010650588539238968\ \(0\)\
-\-\ would\\:\\ 0\\.010486092684214103\ \(0\)\
-\-\ that\\:\\ 0\\.010179177438336712\ \(0\)\
-\-\ benign\\:\\ 0\\.010169139196666212\ \(0\)\
-\-\ 3\\.\\:\\ 0\\.010082324869450784\ \(0\)\
-\-\ \\(\\:\\ 0\\.009963610017156697\ \(0\)\
-\-\ \\)\\:\\ 0\\.009841899201562828\ \(0\)\
-\-\ by\\:\\ 0\\.009812902780999135\ \(0\)\
-\-\ study\\:\\ 0\\.00969528054089641\ \(0\)\
-\-\ cancer\\:\\ 0\\.009686776773671604\ \(0\)\
-\-\ showed\\:\\ 0\\.00966139057904723\ \(0\)\
-\-\ the\\:\\ 0\\.009534433427836261\ \(0\)\
-\-\ several\\:\\ 0\\.009472733916284094\ \(0\)\
-\-\ further\\:\\ 0\\.009370497040690545\ \(0\)\
-\-\ 2\\.\\:\\ 0\\.009370497040690545\ \(0\)\
-\-\ mr\\:\\ 0\\.00936275679981529\ \(0\)\
-\-\ known\\:\\ 0\\.009324314084357998\ \(0\)\
-\-\ such\\:\\ 0\\.00921149237876156\ \(0\)\
-\-\ 1\\.\\:\\ 0\\.009204100573440004\ \(0\)\
-\-\ as\\:\\ 0\\.008914327626856053\ \(0\)\
-\-\ only\\:\\ 0\\.00886004020167219\ \(0\)\
-\-\ ultrasound\\:\\ 0\\.008741802017263114\ \(0\)\
-\-\ in\\:\\ 0\\.00871856338221217\ \(0\)\
-\-\ years\\:\\ 0\\.008652562541443042\ \(0\)\
-\-\ demonstrated\\:\\ 0\\.00864627580157575\ \(0\)\
-\-\ \\,\\:\\ 0\\.008401346860881332\ \(0\)\
-\-\ however\\:\\ 0\\.008204717433093346\ \(0\)\
-\-\ low\\:\\ 0\\.00819368294091862\ \(0\)\
-\-\ an\\:\\ 0\\.008149412857136067\ \(0\)\
-\-\ cm\\:\\ 0\\.007903296957989607\ \(0\)\
-\-\ than\\:\\ 0\\.0077208581204078405\ \(0\)\
-\-\ of\\:\\ 0\\.007633007638488898\ \(0\)\
-\-\ both\\:\\ 0\\.007524827554090074\ \(0\)\
-\-\ metastatic\\:\\ 0\\.0074176186331589315\ \(0\)\
-\-\ more\\:\\ 0\\.007369573480386781\ \(0\)\
-\-\ tissue\\:\\ 0\\.006984210994664116\ \(0\)\
-\-\ a\\:\\ 0\\.006837927617562091\ \(0\)\
-\-\ was\\:\\ 0\\.006815707049749564\ \(0\)\
-\-\ most\\:\\ 0\\.0068028797990623315\ \(0\)\
-\-\ were\\:\\ 0\\.006690642540310073\ \(0\)\
-\-\ can\\:\\ 0\\.006683525353341619\ \(0\)\
-\-\ contrast\\:\\ 0\\.006595778230372087\ \(0\)\
-\-\ exam\\:\\ 0\\.006473220482584614\ \(0\)\
-\-\ surgical\\:\\ 0\\.006193868173280874\ \(0\)\
-\-\ lesion\\:\\ 0\\.0060019145724153605\ \(0\)\
-\-\ is\\:\\ 0\\.005816801155704058\ \(0\)\
-\-\ which\\:\\ 0\\.005500498576698444\ \(0\)\
-\-\ on\\:\\ 0\\.004992351809416745\ \(0\)\
-\-\ normal\\:\\ 0\\.0046193532917210385\ \(0\)\
-\-\ history\\:\\ 0\\.004069705302438218\ \(0\)\
-\-\ are\\:\\ 0\\.004016806456998627\ \(0\)\
-\-\ or\\:\\ 0\\.003453526720564509\ \(0\)\
-\-\ patient\\:\\ 0\\.0029537652790220274\ \(0\)\
-\-\ \\.\\:\\ 0\\.001468946321269501\ \(0\)\
-\-\ and\\:\\ 0\\.000620720709421443\ \(0\)\
+Texto: 
+normal breast exam without mass, nipple discharge, or skin retraction.
+surgical excision
+screening mammogram in may of 2003 demonstrates irregular density in posterior third of the right breast that is seen only on the cranial-caudal view.
+
+callback diagnostic mammogram consisting of spot compression views demonstrates persistence of the irregular density.
+
+since the density could not be seen on orthogonal views, the patient was referred for an mri of the breasts for further evaluation.  mri showed a 1.2 cm mass in the posterior third of the right breast which enhanced more avidly than the rest of the breast parenchyma.  time-enhancement curves for the mass were not suggestive of malignancy.
+infiltrating ductal carcinoma of the breast (confirmed by mri-guided core biopsy)
+1.  primary breast cancer (most commonly infiltrating ductal carcinoma)
+2.  single metastatic foci in the right breast (unlikely, especially without a known primary)
+3.  benign breast mass (such as a fibroadenoma)
+4.  intramammary lymph node
+history of atypical ductal hyperplasia discovered by biopsy of right breast several years ago.
+this case demonstrates the facility of mri evaluation of the breast.  since this lesion was not seen in both views of the mammogram, an ultrasound would be very low yield as a diagnostic study.  mri, however, demonstrated the affinity of the mass for contrast and raised suspicion of malignancy.  another important point this case illustrates is that even though time-enhancement curves are not suggestive of malignancy, the mass may still be malignant.  additionally, this case is a good example of how mr can be used in the acquisition of tissue for pathological evaluation.
+
+
+Keywords by value: 
+- breast: 0.10870889461484663
+- time-enhancement: 0.06079667878597585
+- curves: 0.0496971069760855
+- mammogram: 0.04612561652355421
+- ductal: 0.04166924152949433
+- views: 0.036436692405951786
+- malignancy: 0.03415954839105016
+- infiltrating: 0.032007801062557656
+- cranial-caudal: 0.030398339392987923
+- mri-guided: 0.030398339392987923
+- affinity: 0.030398339392987923
+- density: 0.02908584162268923
+- callback: 0.028008176701401905
+- mri: 0.027079666964339583
+- evaluation: 0.02567833237062215
+- intramammary: 0.02561801400981589
+- suggestive: 0.025177465172710235
+- mass: 0.02458884841960478
+- third: 0.023630666856206878
+- irregular: 0.023505838982802618
+- diagnostic: 0.02335291582766936
+- orthogonal: 0.022821702919414752
+- acquisition: 0.022458390796456732
+- yield: 0.022129735004028026
+- since: 0.021646652563435977
+- biopsy: 0.020908229252667315
+- avidly: 0.020068228104870713
+- persistence: 0.019586290372542583
+- case: 0.01933970102966142
+- demonstrates: 0.019309874499860543
+- raised: 0.018786974462000082
+- retraction: 0.018670072559670146
+- fibroadenoma: 0.018670072559670146
+- consisting: 0.01855700420510811
+- 1.2: 0.01855700420510811
+- breasts: 0.01823847551500116
+- be: 0.01817595480474385
+- illustrates: 0.017854938842207284
+- nipple: 0.01750982346787286
+- seen: 0.017468561535183003
+- primary: 0.01745782250272894
+- how: 0.017428683821630812
+- pathological: 0.017196127680956564
+- not: 0.01703198167919911
+- carcinoma: 0.016702949448385285
+- core: 0.016337865448485443
+- example: 0.01622291227514892
+- facility: 0.016111667922672296
+- spot: 0.01584831282341514
+- suspicion: 0.015287902721698676
+- 2003: 0.014805964989370543
+- hyperplasia: 0.014518442199925539
+- discovered: 0.014518442199925539
+- discharge: 0.014285136515533075
+- unlikely: 0.014036504467597407
+- still: 0.014036504467597407
+- without: 0.013875952871435587
+- though: 0.013667200551885797
+- rest: 0.013587314140570161
+- posterior: 0.013583714128982403
+- node: 0.013483598777682996
+- this: 0.01325706501122942
+- important: 0.01323718855705491
+- even: 0.013120286654724974
+- may: 0.012926402544124992
+- point: 0.012876255375800122
+- atypical: 0.01277079529520674
+- additionally: 0.01277079529520674
+- another: 0.012668465060220131
+- foci: 0.012648358438458776
+- enhanced: 0.01260849353362748
+- good: 0.01260849353362748
+- for: 0.01257083014901233
+- screening: 0.012569084237683954
+- parenchyma: 0.01254954721169886
+- right: 0.012436299436005747
+- especially: 0.012128279508339522
+- excision: 0.012093968022638943
+- single: 0.011943656174104937
+- lymph: 0.011894973823947058
+- 4.: 0.011601655070347577
+- skin: 0.011317685983582683
+- used: 0.011304083299820557
+- referred: 0.011119073942950487
+- commonly: 0.011119073942950487
+- confirmed: 0.011080688286506197
+- view: 0.01105533320269496
+- compression: 0.011030163194137677
+- ago: 0.010968030416542237
+- could: 0.010870889461484663
+- very: 0.010695812477438376
+- malignant: 0.010650588539238968
+- would: 0.010486092684214103
+- that: 0.010179177438336712
+- benign: 0.010169139196666212
+- 3.: 0.010082324869450784
+- (: 0.009963610017156697
+- ): 0.009841899201562828
+- by: 0.009812902780999135
+- study: 0.00969528054089641
+- cancer: 0.009686776773671604
+- showed: 0.00966139057904723
+- the: 0.009534433427836261
+- several: 0.009472733916284094
+- further: 0.009370497040690545
+- 2.: 0.009370497040690545
+- mr: 0.00936275679981529
+- known: 0.009324314084357998
+- such: 0.00921149237876156
+- 1.: 0.009204100573440004
+- as: 0.008914327626856053
+- only: 0.00886004020167219
+- ultrasound: 0.008741802017263114
+- in: 0.00871856338221217
+- years: 0.008652562541443042
+- demonstrated: 0.00864627580157575
+- ,: 0.008401346860881332
+- however: 0.008204717433093346
+- low: 0.00819368294091862
+- an: 0.008149412857136067
+- cm: 0.007903296957989607
+- than: 0.0077208581204078405
+- of: 0.007633007638488898
+- both: 0.007524827554090074
+- metastatic: 0.0074176186331589315
+- more: 0.007369573480386781
+- tissue: 0.006984210994664116
+- a: 0.006837927617562091
+- was: 0.006815707049749564
+- most: 0.0068028797990623315
+- were: 0.006690642540310073
+- can: 0.006683525353341619
+- contrast: 0.006595778230372087
+- exam: 0.006473220482584614
+- surgical: 0.006193868173280874
+- lesion: 0.0060019145724153605
+- is: 0.005816801155704058
+- which: 0.005500498576698444
+- on: 0.004992351809416745
+- normal: 0.0046193532917210385
+- history: 0.004069705302438218
+- are: 0.004016806456998627
+- or: 0.003453526720564509
+- patient: 0.0029537652790220274
+- .: 0.001468946321269501
+- and: 0.000620720709421443

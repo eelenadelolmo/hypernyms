@@ -1,99 +1,102 @@
-\-\ Texto\\:\\ \ \(0\)\
-\-\ penetrating\\ injury\\ to\\ the\\ right\\ upper\\ abdomen\\.\ \(0\)\
-\-\ surgical\\ removal\\ of\\ the\\ metallic\\ blast\\ fragment\\.\\ \ \(0\)\
-\-\ hemothorax\\:\\ removal\\ of\\ the\\ blood\\ in\\ the\\ thoracic\\ cavity\\ by\\ tube\\ thoracostomy\\.\ \(0\)\
-\-\ humerus\\ fracture\\:\\ removal\\ of\\ bone\\ and\\ metallic\\ fragments\\,\\ splint\\ stabilization\\ of\\ the\\ break\\ and\\ realignment\\ of\\ the\\ humerus\\,\\ out\\-screening\\ of\\ neurologic\\ or\\ angiologic\\ complications\\.\ \(0\)\
-\-\ liver\\ damage\\:\\ surgical\\ measures\\(\\?\\)\\;\\ transplantation\\(\\?\\)\ \(0\)\
-\-\ large\\,\\ irregular\\ blast\\ fragment\\ in\\ the\\ right\\ upper\\ abdomen\\ with\\ trajectory\\ path\\ through\\ the\\ liver\\,\\ large\\ hemothorax\\ on\\ the\\ right\\,\\ tracheal\\ deviation\\ on\\ the\\ left\\,\\ diaphragma\\ disruption\\,\\ comminuted\\ fracture\\ of\\ the\\ right\\ humerus\\ with\\ associated\\ bone\\ and\\ metal\\ fragments\\ in\\ the\\ right\\ elbow\\ and\\ fracture\\ of\\ the\\ right\\ anterior\\ rib\\.\ \(0\)\
-\-\ perforating\\ fragment\ \(0\)\
-\-\ child\\ in\\ close\\ proximity\\ to\\ a\\ blast\\ of\\ an\\ improvised\\ explosive\\ device\\.\\ case\\ from\\ a\\ combat\\ hospital\\.\ \(0\)\
-\-\ large\\ metallic\\ fragment\\ in\\ the\\ ruq\\ from\\ an\\ improvised\\ explosive\\ device\\.\\ projectile\\ traveled\\ from\\ anterior\\ to\\ posterior\\,\\ from\\ right\\ to\\ left\\ with\\ perforation\\ of\\ the\\ liver\\,\\ disruption\\ of\\ the\\ diaphragma\\,\\ comminuted\\ fracture\\ of\\ the\\ right\\ humerus\\,\\ bone\\ fragments\\ and\\ metallic\\ remnants\\ in\\ the\\ right\\ elbow\\,\\ fracture\\ of\\ the\\ right\\ anterior\\ rib\\,\\ large\\ hemothorax\\ on\\ the\\ right\\ and\\ tracheal\\ deviation\\ in\\ the\\ left\\ hemithorax\\ from\\ increasing\\ pressure\\ due\\ to\\ bleeding\\.\ \(0\)\
-\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
-\-\ metallic\\:\\ 0\\.08985454770262996\ \(0\)\
-\-\ diaphragma\\:\\ 0\\.07836016376859109\ \(0\)\
-\-\ blast\\:\\ 0\\.07828105926400078\ \(0\)\
-\-\ humerus\\:\\ 0\\.07816316117635377\ \(0\)\
-\-\ hemothorax\\:\\ 0\\.07264296791973365\ \(0\)\
-\-\ fragment\\:\\ 0\\.07018638175130516\ \(0\)\
-\-\ fragments\\:\\ 0\\.05962284002817086\ \(0\)\
-\-\ improvised\\:\\ 0\\.05704553912149447\ \(0\)\
-\-\ explosive\\:\\ 0\\.05556061392448854\ \(0\)\
-\-\ fracture\\:\\ 0\\.050068318450506195\ \(0\)\
-\-\ comminuted\\:\\ 0\\.0475536224103713\ \(0\)\
-\-\ tracheal\\:\\ 0\\.04675706988868519\ \(0\)\
-\-\ device\\:\\ 0\\.0457951713585498\ \(0\)\
-\-\ removal\\:\\ 0\\.04491708069733584\ \(0\)\
-\-\ right\\:\\ 0\\.04407977244539815\ \(0\)\
-\-\ deviation\\:\\ 0\\.04242193027672843\ \(0\)\
-\-\ liver\\:\\ 0\\.03928295347776965\ \(0\)\
-\-\ elbow\\:\\ 0\\.03918932601513107\ \(0\)\
-\-\ out\\-screening\\:\\ 0\\.039180081884295545\ \(0\)\
-\-\ angiologic\\:\\ 0\\.039180081884295545\ \(0\)\
-\-\ rib\\:\\ 0\\.037975321259524394\ \(0\)\
-\-\ disruption\\:\\ 0\\.03699162732274645\ \(0\)\
-\-\ realignment\\:\\ 0\\.03609942774847357\ \(0\)\
-\-\ remnants\\:\\ 0\\.03429736060132617\ \(0\)\
-\-\ large\\:\\ 0\\.033218532121441414\ \(0\)\
-\-\ trajectory\\:\\ 0\\.032027024495699545\ \(0\)\
-\-\ traveled\\:\\ 0\\.02993811947682961\ \(0\)\
-\-\ \\?\\:\\ 0\\.029643373338884504\ \(0\)\
-\-\ anterior\\:\\ 0\\.029343904316836502\ \(0\)\
-\-\ splint\\:\\ 0\\.028522769560747233\ \(0\)\
-\-\ bone\\:\\ 0\\.028312462419464935\ \(0\)\
-\-\ from\\:\\ 0\\.028143015847871385\ \(0\)\
-\-\ thoracostomy\\:\\ 0\\.02813605232968221\ \(0\)\
-\-\ break\\:\\ 0\\.02813605232968221\ \(0\)\
-\-\ perforating\\:\\ 0\\.02778030696224427\ \(0\)\
-\-\ combat\\:\\ 0\\.026333985182534818\ \(0\)\
-\-\ proximity\\:\\ 0\\.025865716224055587\ \(0\)\
-\-\ transplantation\\:\\ 0\\.02524455203572155\ \(0\)\
-\-\ projectile\\:\\ 0\\.025055398193860233\ \(0\)\
-\-\ metal\\:\\ 0\\.024873967107103545\ \(0\)\
-\-\ stabilization\\:\\ 0\\.02453191803538742\ \(0\)\
-\-\ path\\:\\ 0\\.024063649076908188\ \(0\)\
-\-\ abdomen\\:\\ 0\\.022501193447961747\ \(0\)\
-\-\ penetrating\\:\\ 0\\.022361461289103275\ \(0\)\
-\-\ hemithorax\\:\\ 0\\.021451263899565438\ \(0\)\
-\-\ ruq\\:\\ 0\\.021369712172151233\ \(0\)\
-\-\ damage\\:\\ 0\\.02029788080852062\ \(0\)\
-\-\ perforation\\:\\ 0\\.019540790294088443\ \(0\)\
-\-\ close\\:\\ 0\\.018538344554778336\ \(0\)\
-\-\ upper\\:\\ 0\\.018329604492166387\ \(0\)\
-\-\ cavity\\:\\ 0\\.01662375381658965\ \(0\)\
-\-\ child\\:\\ 0\\.01662375381658965\ \(0\)\
-\-\ bleeding\\:\\ 0\\.016486990889181857\ \(0\)\
-\-\ measures\\:\\ 0\\.016250947221119864\ \(0\)\
-\-\ tube\\:\\ 0\\.016002589628255612\ \(0\)\
-\-\ surgical\\:\\ 0\\.015966415735568475\ \(0\)\
-\-\ neurologic\\:\\ 0\\.01585997489691561\ \(0\)\
-\-\ \\,\\:\\ 0\\.015641026007665492\ \(0\)\
-\-\ increasing\\:\\ 0\\.01556583308855427\ \(0\)\
-\-\ irregular\\:\\ 0\\.015148207344472798\ \(0\)\
-\-\ \\:\\:\\ 0\\.015070330879875535\ \(0\)\
-\-\ complications\\:\\ 0\\.015049656866720254\ \(0\)\
-\-\ pressure\\:\\ 0\\.014915257376988175\ \(0\)\
-\-\ thoracic\\:\\ 0\\.014640255582685564\ \(0\)\
-\-\ hospital\\:\\ 0\\.014298206510969438\ \(0\)\
-\-\ in\\:\\ 0\\.013110136048807931\ \(0\)\
-\-\ the\\:\\ 0\\.012903266572338408\ \(0\)\
-\-\ left\\:\\ 0\\.012748070256972197\ \(0\)\
-\-\ injury\\:\\ 0\\.012107593519505779\ \(0\)\
-\-\ through\\:\\ 0\\.010786475637426083\ \(0\)\
-\-\ an\\:\\ 0\\.010503687682530932\ \(0\)\
-\-\ blood\\:\\ 0\\.010366271433374664\ \(0\)\
-\-\ due\\:\\ 0\\.010134565124234843\ \(0\)\
-\-\ on\\:\\ 0\\.009651880164872374\ \(0\)\
-\-\ to\\:\\ 0\\.00949040240984414\ \(0\)\
-\-\ \\;\\:\\ 0\\.009001871948678195\ \(0\)\
-\-\ associated\\:\\ 0\\.008962055830700897\ \(0\)\
-\-\ posterior\\:\\ 0\\.008753949105344216\ \(0\)\
-\-\ case\\:\\ 0\\.008308908590521203\ \(0\)\
-\-\ of\\:\\ 0\\.0067313307127726645\ \(0\)\
-\-\ \\(\\:\\ 0\\.006420993122167649\ \(0\)\
-\-\ \\)\\:\\ 0\\.006342557263229379\ \(0\)\
-\-\ by\\:\\ 0\\.006323870681088332\ \(0\)\
-\-\ and\\:\\ 0\\.004800240152859159\ \(0\)\
-\-\ or\\:\\ 0\\.004451212217616478\ \(0\)\
-\-\ a\\:\\ 0\\.0035253315717209003\ \(0\)\
-\-\ with\\:\\ 0\\.00156005568119853\ \(0\)\
-\-\ \\.\\:\\ 0\\.001419981443893851\ \(0\)\
+Texto: 
+penetrating injury to the right upper abdomen.
+surgical removal of the metallic blast fragment. 
+
+hemothorax: removal of the blood in the thoracic cavity by tube thoracostomy.
+humerus fracture: removal of bone and metallic fragments, splint stabilization of the break and realignment of the humerus, out-screening of neurologic or angiologic complications.
+liver damage: surgical measures(?); transplantation(?)
+large, irregular blast fragment in the right upper abdomen with trajectory path through the liver, large hemothorax on the right, tracheal deviation on the left, diaphragma disruption, comminuted fracture of the right humerus with associated bone and metal fragments in the right elbow and fracture of the right anterior rib.
+perforating fragment
+child in close proximity to a blast of an improvised explosive device. case from a combat hospital.
+large metallic fragment in the ruq from an improvised explosive device. projectile traveled from anterior to posterior, from right to left with perforation of the liver, disruption of the diaphragma, comminuted fracture of the right humerus, bone fragments and metallic remnants in the right elbow, fracture of the right anterior rib, large hemothorax on the right and tracheal deviation in the left hemithorax from increasing pressure due to bleeding.
+
+
+Keywords by value: 
+- metallic: 0.08985454770262996
+- diaphragma: 0.07836016376859109
+- blast: 0.07828105926400078
+- humerus: 0.07816316117635377
+- hemothorax: 0.07264296791973365
+- fragment: 0.07018638175130516
+- fragments: 0.05962284002817086
+- improvised: 0.05704553912149447
+- explosive: 0.05556061392448854
+- fracture: 0.050068318450506195
+- comminuted: 0.0475536224103713
+- tracheal: 0.04675706988868519
+- device: 0.0457951713585498
+- removal: 0.04491708069733584
+- right: 0.04407977244539815
+- deviation: 0.04242193027672843
+- liver: 0.03928295347776965
+- elbow: 0.03918932601513107
+- out-screening: 0.039180081884295545
+- angiologic: 0.039180081884295545
+- rib: 0.037975321259524394
+- disruption: 0.03699162732274645
+- realignment: 0.03609942774847357
+- remnants: 0.03429736060132617
+- large: 0.033218532121441414
+- trajectory: 0.032027024495699545
+- traveled: 0.02993811947682961
+- ?: 0.029643373338884504
+- anterior: 0.029343904316836502
+- splint: 0.028522769560747233
+- bone: 0.028312462419464935
+- from: 0.028143015847871385
+- thoracostomy: 0.02813605232968221
+- break: 0.02813605232968221
+- perforating: 0.02778030696224427
+- combat: 0.026333985182534818
+- proximity: 0.025865716224055587
+- transplantation: 0.02524455203572155
+- projectile: 0.025055398193860233
+- metal: 0.024873967107103545
+- stabilization: 0.02453191803538742
+- path: 0.024063649076908188
+- abdomen: 0.022501193447961747
+- penetrating: 0.022361461289103275
+- hemithorax: 0.021451263899565438
+- ruq: 0.021369712172151233
+- damage: 0.02029788080852062
+- perforation: 0.019540790294088443
+- close: 0.018538344554778336
+- upper: 0.018329604492166387
+- cavity: 0.01662375381658965
+- child: 0.01662375381658965
+- bleeding: 0.016486990889181857
+- measures: 0.016250947221119864
+- tube: 0.016002589628255612
+- surgical: 0.015966415735568475
+- neurologic: 0.01585997489691561
+- ,: 0.015641026007665492
+- increasing: 0.01556583308855427
+- irregular: 0.015148207344472798
+- :: 0.015070330879875535
+- complications: 0.015049656866720254
+- pressure: 0.014915257376988175
+- thoracic: 0.014640255582685564
+- hospital: 0.014298206510969438
+- in: 0.013110136048807931
+- the: 0.012903266572338408
+- left: 0.012748070256972197
+- injury: 0.012107593519505779
+- through: 0.010786475637426083
+- an: 0.010503687682530932
+- blood: 0.010366271433374664
+- due: 0.010134565124234843
+- on: 0.009651880164872374
+- to: 0.00949040240984414
+- ;: 0.009001871948678195
+- associated: 0.008962055830700897
+- posterior: 0.008753949105344216
+- case: 0.008308908590521203
+- of: 0.0067313307127726645
+- (: 0.006420993122167649
+- ): 0.006342557263229379
+- by: 0.006323870681088332
+- and: 0.004800240152859159
+- or: 0.004451212217616478
+- a: 0.0035253315717209003
+- with: 0.00156005568119853
+- .: 0.001419981443893851

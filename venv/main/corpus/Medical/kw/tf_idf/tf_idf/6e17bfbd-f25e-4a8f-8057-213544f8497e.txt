@@ -1,99 +1,101 @@
-\-\ Texto\\:\\ \ \(0\)\
-\-\ ruq\\ tenderness\\ to\\ palpation\\.\ \(0\)\
-\-\ labs\\ unavailable\\.\ \(1\)\
-\-\ serial\\ images\\ show\\ complete\\ non\\-filling\\ of\\ the\\ gallbladder\\ despite\\ pretreatment\\ with\\ cck\\ and\\ subsequent\\ administration\\ of\\ morphine\\.\ \(0\)\
-\-\ acute\\ cholecystitis\ \(21\)\
-\-\ acute\\ acalculous\\ cholecystitis\ \(1\)\
-\-\ acute\\ calculous\\ cholecystitis\\ \ \(1\)\
-\-\ chronic\\ cholecystitis\ \(8\)\
-\-\ status\\-post\\ cholecystectomy\ \(1\)\
-\-\ hepatic\\ insufficiency\\ \\(generally\\ considered\\ in\\ ddx\\;\\ although\\ in\\ this\\ case\\ with\\ such\\ normal\\ appearing\\ hepatic\\ uptake\\,\\ this\\ dx\\ is\\ essentially\\ ruled\\-out\\)\ \(0\)\
-\-\ patient\\ presents\\ with\\ acute\\ symptoms\\ of\\ cholicky\\ right\\ upper\\ quadrant\\ pain\\ with\\ some\\ associated\\ nausea\\ and\\ vomiting\\ for\\ 1\\ week\\.\\ \\ ultrasound\\ of\\ the\\ right\\ upper\\ quadrant\\ was\\ normal\\ \\(per\\ report\\)\\.\\ \\ patient\\ was\\ referred\\ for\\ a\\ hepatobiliary\\ scan\\ to\\ rule\\ out\\ acute\\ cholecystitis\\.\\ patient\\ denied\\ prolonged\\ fasting\\ or\\ recent\\ meal\\.\\ \\ she\\ also\\ denied\\ other\\ concurrent\\ diseases\\.\ \(0\)\
-\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
-\-\ cholecystitis\\:\\ 0\\.1815540921980177\ \(0\)\
-\-\ acute\\:\\ 0\\.0843951731642598\ \(0\)\
-\-\ cholicky\\:\\ 0\\.07052414739173199\ \(0\)\
-\-\ denied\\:\\ 0\\.06658492918094361\ \(0\)\
-\-\ non\\-filling\\:\\ 0\\.06497896994725243\ \(0\)\
-\-\ cck\\:\\ 0\\.06497896994725243\ \(0\)\
-\-\ ruled\\-out\\:\\ 0\\.06497896994725243\ \(0\)\
-\-\ pretreatment\\:\\ 0\\.059433792502772864\ \(0\)\
-\-\ calculous\\:\\ 0\\.057648644092259185\ \(0\)\
-\-\ hepatic\\:\\ 0\\.05709590962889619\ \(0\)\
-\-\ hepatobiliary\\:\\ 0\\.05619007163790755\ \(0\)\
-\-\ acalculous\\:\\ 0\\.05495686619928948\ \(0\)\
-\-\ fasting\\:\\ 0\\.05495686619928948\ \(0\)\
-\-\ morphine\\:\\ 0\\.05064489419342798\ \(0\)\
-\-\ meal\\:\\ 0\\.04941168875480992\ \(0\)\
-\-\ quadrant\\:\\ 0\\.04811801494377687\ \(0\)\
-\-\ concurrent\\:\\ 0\\.04740117332856267\ \(0\)\
-\-\ status\\-post\\:\\ 0\\.0461679678899446\ \(0\)\
-\-\ dx\\:\\ 0\\.04477314079278638\ \(0\)\
-\-\ unavailable\\:\\ 0\\.04279826016933417\ \(0\)\
-\-\ ruq\\:\\ 0\\.038465481909872215\ \(0\)\
-\-\ essentially\\:\\ 0\\.03832133386585079\ \(0\)\
-\-\ cholecystectomy\\:\\ 0\\.036536185455337114\ \(0\)\
-\-\ insufficiency\\:\\ 0\\.03631081843960354\ \(0\)\
-\-\ prolonged\\:\\ 0\\.03631081843960354\ \(0\)\
-\-\ ddx\\:\\ 0\\.03609162664609863\ \(0\)\
-\-\ diseases\\:\\ 0\\.03443727133959719\ \(0\)\
-\-\ serial\\:\\ 0\\.03409313225892766\ \(0\)\
-\-\ upper\\:\\ 0\\.03299328808589949\ \(0\)\
-\-\ gallbladder\\:\\ 0\\.03284790578123332\ \(0\)\
-\-\ despite\\:\\ 0\\.031770650700063255\ \(0\)\
-\-\ generally\\:\\ 0\\.03076564099512398\ \(0\)\
-\-\ report\\:\\ 0\\.030600686697502096\ \(0\)\
-\-\ appearing\\:\\ 0\\.03038590869721259\ \(0\)\
-\-\ per\\:\\ 0\\.029922756869861372\ \(0\)\
-\-\ rule\\:\\ 0\\.028547954814448096\ \(0\)\
-\-\ administration\\:\\ 0\\.028381282119225363\ \(0\)\
-\-\ considered\\:\\ 0\\.027596339271557174\ \(0\)\
-\-\ nausea\\:\\ 0\\.027521920130258663\ \(0\)\
-\-\ uptake\\:\\ 0\\.0271598673975537\ \(0\)\
-\-\ subsequent\\:\\ 0\\.026612645582478493\ \(0\)\
-\-\ vomiting\\:\\ 0\\.026100470712359044\ \(0\)\
-\-\ referred\\:\\ 0\\.02579625154764513\ \(0\)\
-\-\ complete\\:\\ 0\\.024059007471888435\ \(0\)\
-\-\ labs\\:\\ 0\\.023775792055481106\ \(0\)\
-\-\ week\\:\\ 0\\.023216123346625823\ \(0\)\
-\-\ although\\:\\ 0\\.02308743424461283\ \(0\)\
-\-\ recent\\:\\ 0\\.02298175239071838\ \(0\)\
-\-\ palpation\\:\\ 0\\.022815512642784416\ \(0\)\
-\-\ out\\:\\ 0\\.02259243101486813\ \(0\)\
-\-\ normal\\:\\ 0\\.021433799273585616\ \(0\)\
-\-\ such\\:\\ 0\\.021370662318726818\ \(0\)\
-\-\ show\\:\\ 0\\.020985247475933007\ \(0\)\
-\-\ tenderness\\:\\ 0\\.020791298583053067\ \(0\)\
-\-\ some\\:\\ 0\\.020759426030934072\ \(0\)\
-\-\ patient\\:\\ 0\\.02055820634199331\ \(0\)\
-\-\ ultrasound\\:\\ 0\\.020280980680050426\ \(0\)\
-\-\ chronic\\:\\ 0\\.019255917063256\ \(0\)\
-\-\ she\\:\\ 0\\.019190289131633377\ \(0\)\
-\-\ scan\\:\\ 0\\.01913817168346383\ \(0\)\
-\-\ symptoms\\:\\ 0\\.017037259815185113\ \(0\)\
-\-\ 1\\:\\ 0\\.016266610943677654\ \(0\)\
-\-\ \\;\\:\\ 0\\.01620336950762075\ \(0\)\
-\-\ associated\\:\\ 0\\.016131700495261615\ \(0\)\
-\-\ was\\:\\ 0\\.01581244035541899\ \(0\)\
-\-\ other\\:\\ 0\\.01575710838961959\ \(0\)\
-\-\ this\\:\\ 0\\.01537819541302613\ \(0\)\
-\-\ case\\:\\ 0\\.014956035462938166\ \(0\)\
-\-\ right\\:\\ 0\\.014426107345766668\ \(0\)\
-\-\ presents\\:\\ 0\\.013965154364063407\ \(0\)\
-\-\ also\\:\\ 0\\.01347695674936121\ \(0\)\
-\-\ images\\:\\ 0\\.013114111135594833\ \(0\)\
-\-\ for\\:\\ 0\\.011665730378283442\ \(0\)\
-\-\ \\(\\:\\ 0\\.011557787619901769\ \(0\)\
-\-\ \\)\\:\\ 0\\.011416603073812882\ \(0\)\
-\-\ pain\\:\\ 0\\.008348865340245877\ \(0\)\
-\-\ or\\:\\ 0\\.00801218199170966\ \(0\)\
-\-\ to\\:\\ 0\\.00683308973508778\ \(0\)\
-\-\ in\\:\\ 0\\.006742355682244079\ \(0\)\
-\-\ is\\:\\ 0\\.004498326227077805\ \(0\)\
-\-\ with\\:\\ 0\\.0037441336348764715\ \(0\)\
-\-\ of\\:\\ 0\\.00372812162553563\ \(0\)\
-\-\ a\\:\\ 0\\.0031727984145488103\ \(0\)\
-\-\ and\\:\\ 0\\.0028801440917154953\ \(0\)\
-\-\ \\.\\:\\ 0\\.0022719703102301618\ \(0\)\
-\-\ the\\:\\ 0\\.002211988555258013\ \(0\)\
-\-\ \\,\\:\\ 0\\.0021656805241382993\ \(0\)\
+Texto: 
+ruq tenderness to palpation.
+labs unavailable.
+serial images show complete non-filling of the gallbladder despite pretreatment with cck and subsequent administration of morphine.
+acute cholecystitis
+acute acalculous cholecystitis
+acute calculous cholecystitis 
+chronic cholecystitis
+status-post cholecystectomy
+hepatic insufficiency (generally considered in ddx; although in this case with such normal appearing hepatic uptake, this dx is essentially ruled-out)
+patient presents with acute symptoms of cholicky right upper quadrant pain with some associated nausea and vomiting for 1 week.  ultrasound of the right upper quadrant was normal (per report).  patient was referred for a hepatobiliary scan to rule out acute cholecystitis. patient denied prolonged fasting or recent meal.  she also denied other concurrent diseases.
+
+
+Keywords by value: 
+- cholecystitis: 0.1815540921980177
+- acute: 0.0843951731642598
+- cholicky: 0.07052414739173199
+- denied: 0.06658492918094361
+- non-filling: 0.06497896994725243
+- cck: 0.06497896994725243
+- ruled-out: 0.06497896994725243
+- pretreatment: 0.059433792502772864
+- calculous: 0.057648644092259185
+- hepatic: 0.05709590962889619
+- hepatobiliary: 0.05619007163790755
+- acalculous: 0.05495686619928948
+- fasting: 0.05495686619928948
+- morphine: 0.05064489419342798
+- meal: 0.04941168875480992
+- quadrant: 0.04811801494377687
+- concurrent: 0.04740117332856267
+- status-post: 0.0461679678899446
+- dx: 0.04477314079278638
+- unavailable: 0.04279826016933417
+- ruq: 0.038465481909872215
+- essentially: 0.03832133386585079
+- cholecystectomy: 0.036536185455337114
+- insufficiency: 0.03631081843960354
+- prolonged: 0.03631081843960354
+- ddx: 0.03609162664609863
+- diseases: 0.03443727133959719
+- serial: 0.03409313225892766
+- upper: 0.03299328808589949
+- gallbladder: 0.03284790578123332
+- despite: 0.031770650700063255
+- generally: 0.03076564099512398
+- report: 0.030600686697502096
+- appearing: 0.03038590869721259
+- per: 0.029922756869861372
+- rule: 0.028547954814448096
+- administration: 0.028381282119225363
+- considered: 0.027596339271557174
+- nausea: 0.027521920130258663
+- uptake: 0.0271598673975537
+- subsequent: 0.026612645582478493
+- vomiting: 0.026100470712359044
+- referred: 0.02579625154764513
+- complete: 0.024059007471888435
+- labs: 0.023775792055481106
+- week: 0.023216123346625823
+- although: 0.02308743424461283
+- recent: 0.02298175239071838
+- palpation: 0.022815512642784416
+- out: 0.02259243101486813
+- normal: 0.021433799273585616
+- such: 0.021370662318726818
+- show: 0.020985247475933007
+- tenderness: 0.020791298583053067
+- some: 0.020759426030934072
+- patient: 0.02055820634199331
+- ultrasound: 0.020280980680050426
+- chronic: 0.019255917063256
+- she: 0.019190289131633377
+- scan: 0.01913817168346383
+- symptoms: 0.017037259815185113
+- 1: 0.016266610943677654
+- ;: 0.01620336950762075
+- associated: 0.016131700495261615
+- was: 0.01581244035541899
+- other: 0.01575710838961959
+- this: 0.01537819541302613
+- case: 0.014956035462938166
+- right: 0.014426107345766668
+- presents: 0.013965154364063407
+- also: 0.01347695674936121
+- images: 0.013114111135594833
+- for: 0.011665730378283442
+- (: 0.011557787619901769
+- ): 0.011416603073812882
+- pain: 0.008348865340245877
+- or: 0.00801218199170966
+- to: 0.00683308973508778
+- in: 0.006742355682244079
+- is: 0.004498326227077805
+- with: 0.0037441336348764715
+- of: 0.00372812162553563
+- a: 0.0031727984145488103
+- and: 0.0028801440917154953
+- .: 0.0022719703102301618
+- the: 0.002211988555258013
+- ,: 0.0021656805241382993

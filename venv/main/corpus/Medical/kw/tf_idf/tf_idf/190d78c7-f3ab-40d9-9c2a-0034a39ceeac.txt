@@ -1,65 +1,67 @@
-\-\ Texto\\:\\ \ \(0\)\
-\-\ bitemporal\\ hemianopsia\\ noted\ \(0\)\
-\-\ radiation\\ therapy\ \(165\)\
-\-\ \\â\\€\\¢\\ isointense\\ enhancing\\ hypothalamic\\ mass\\.\ \(0\)\
-\-\ \\â\\€\\¢\\ enhancing\\ tumor\\ extending\\ along\\ the\\ ependymal\\ surfaces\ \(0\)\
-\-\ \\â\\€\\¢\\ enhancing\\ tumor\\ right\\ basal\\ ganglia\\ and\\ \\ corpus\\ callosum\\.\ \(0\)\
-\-\ germinoma\\,\\ primary\\ intracranial\ \(0\)\
-\-\ \\â\\€\\¢\\ craniopharyngioma\ \(0\)\
-\-\ \\â\\€\\¢\\ metastatic\\ disease\\,\\ lymphoma\ \(0\)\
-\-\ \\â\\€\\¢\\ ependymoma\ \(8\)\
-\-\ \\â\\€\\¢\\ langerhan\\ histiocytosis\ \(0\)\
-\-\ \\â\\€\\¢\\ germinioma\ \(0\)\
-\-\ \\â\\€\\¢\\ trilateral\\ retinoblastoma\ \(0\)\
-\-\ 34\\ year\\ old\\ man\\ presents\\ with\\ signs\\ and\\ symptoms\\ of\\ hypo\\-thyroidism\\ and\\ evidence\\ of\\ pituitary\\ dysfunction\ \(1\)\
-\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
-\-\ \\â\\€\\¢\\:\\ 0\\.21368377521762105\ \(0\)\
-\-\ germinioma\\:\\ 0\\.13356846096918937\ \(0\)\
-\-\ trilateral\\:\\ 0\\.13356846096918937\ \(0\)\
-\-\ hypo\\-thyroidism\\:\\ 0\\.13356846096918937\ \(0\)\
-\-\ enhancing\\:\\ 0\\.12181606967657997\ \(0\)\
-\-\ ependymal\\:\\ 0\\.09591836021482572\ \(0\)\
-\-\ bitemporal\\:\\ 0\\.09155954093525329\ \(0\)\
-\-\ germinoma\\:\\ 0\\.09155954093525329\ \(0\)\
-\-\ langerhan\\:\\ 0\\.0906409860592467\ \(0\)\
-\-\ retinoblastoma\\:\\ 0\\.08895574916363724\ \(0\)\
-\-\ hemianopsia\\:\\ 0\\.08673448440315427\ \(0\)\
-\-\ hypothalamic\\:\\ 0\\.0854161302063417\ \(0\)\
-\-\ surfaces\\:\\ 0\\.08420336190825782\ \(0\)\
-\-\ histiocytosis\\:\\ 0\\.07204659717303151\ \(0\)\
-\-\ dysfunction\\:\\ 0\\.06898240222613913\ \(0\)\
-\-\ craniopharyngioma\\:\\ 0\\.0685614997396683\ \(0\)\
-\-\ callosum\\:\\ 0\\.06643487310792703\ \(0\)\
-\-\ ganglia\\:\\ 0\\.06625556314357851\ \(0\)\
-\-\ pituitary\\:\\ 0\\.0648927110729279\ \(0\)\
-\-\ 34\\:\\ 0\\.06425465826459266\ \(0\)\
-\-\ corpus\\:\\ 0\\.06379315512088495\ \(0\)\
-\-\ isointense\\:\\ 0\\.06364239253220058\ \(0\)\
-\-\ tumor\\:\\ 0\\.06037067580638822\ \(0\)\
-\-\ basal\\:\\ 0\\.05902329542633899\ \(0\)\
-\-\ ependymoma\\:\\ 0\\.057955846017996394\ \(0\)\
-\-\ intracranial\\:\\ 0\\.054719874801359134\ \(0\)\
-\-\ signs\\:\\ 0\\.04556630203009174\ \(0\)\
-\-\ extending\\:\\ 0\\.04352604619454238\ \(0\)\
-\-\ along\\:\\ 0\\.04278869510391691\ \(0\)\
-\-\ radiation\\:\\ 0\\.04248865529639904\ \(0\)\
-\-\ primary\\:\\ 0\\.038354307013571155\ \(0\)\
-\-\ lymphoma\\:\\ 0\\.03700300961196191\ \(0\)\
-\-\ therapy\\:\\ 0\\.034615769640009286\ \(0\)\
-\-\ evidence\\:\\ 0\\.033946099747982995\ \(0\)\
-\-\ metastatic\\:\\ 0\\.03259256672145591\ \(0\)\
-\-\ symptoms\\:\\ 0\\.03226753752875969\ \(0\)\
-\-\ noted\\:\\ 0\\.0306881998250393\ \(0\)\
-\-\ man\\:\\ 0\\.030620179440757563\ \(0\)\
-\-\ presents\\:\\ 0\\.026449155992544333\ \(0\)\
-\-\ disease\\:\\ 0\\.02116269001841976\ \(0\)\
-\-\ mass\\:\\ 0\\.018006984953750978\ \(0\)\
-\-\ year\\:\\ 0\\.014486443473832041\ \(0\)\
-\-\ right\\:\\ 0\\.01366108650167298\ \(0\)\
-\-\ old\\:\\ 0\\.013256584800943253\ \(0\)\
-\-\ \\,\\:\\ 0\\.008203335318705679\ \(0\)\
-\-\ and\\:\\ 0\\.008182227533282658\ \(0\)\
-\-\ of\\:\\ 0\\.0035304182059996496\ \(0\)\
-\-\ the\\:\\ 0\\.002094686131873118\ \(0\)\
-\-\ with\\:\\ 0\\.0017727905468165111\ \(0\)\
-\-\ \\.\\:\\ 0\\.0010757435181014024\ \(0\)\
+Texto: 
+bitemporal hemianopsia noted
+radiation therapy
+â€¢ isointense enhancing hypothalamic mass.
+â€¢ enhancing tumor extending along the ependymal surfaces
+â€¢ enhancing tumor right basal ganglia and  corpus callosum.
+germinoma, primary intracranial
+â€¢ craniopharyngioma
+â€¢ metastatic disease, lymphoma
+â€¢ ependymoma
+â€¢ langerhan histiocytosis
+â€¢ germinioma
+â€¢ trilateral retinoblastoma
+34 year old man presents with signs and symptoms of hypo-thyroidism and evidence of pituitary dysfunction
+
+
+Keywords by value: 
+- â€¢: 0.21368377521762105
+- germinioma: 0.13356846096918937
+- trilateral: 0.13356846096918937
+- hypo-thyroidism: 0.13356846096918937
+- enhancing: 0.12181606967657997
+- ependymal: 0.09591836021482572
+- bitemporal: 0.09155954093525329
+- germinoma: 0.09155954093525329
+- langerhan: 0.0906409860592467
+- retinoblastoma: 0.08895574916363724
+- hemianopsia: 0.08673448440315427
+- hypothalamic: 0.0854161302063417
+- surfaces: 0.08420336190825782
+- histiocytosis: 0.07204659717303151
+- dysfunction: 0.06898240222613913
+- craniopharyngioma: 0.0685614997396683
+- callosum: 0.06643487310792703
+- ganglia: 0.06625556314357851
+- pituitary: 0.0648927110729279
+- 34: 0.06425465826459266
+- corpus: 0.06379315512088495
+- isointense: 0.06364239253220058
+- tumor: 0.06037067580638822
+- basal: 0.05902329542633899
+- ependymoma: 0.057955846017996394
+- intracranial: 0.054719874801359134
+- signs: 0.04556630203009174
+- extending: 0.04352604619454238
+- along: 0.04278869510391691
+- radiation: 0.04248865529639904
+- primary: 0.038354307013571155
+- lymphoma: 0.03700300961196191
+- therapy: 0.034615769640009286
+- evidence: 0.033946099747982995
+- metastatic: 0.03259256672145591
+- symptoms: 0.03226753752875969
+- noted: 0.0306881998250393
+- man: 0.030620179440757563
+- presents: 0.026449155992544333
+- disease: 0.02116269001841976
+- mass: 0.018006984953750978
+- year: 0.014486443473832041
+- right: 0.01366108650167298
+- old: 0.013256584800943253
+- ,: 0.008203335318705679
+- and: 0.008182227533282658
+- of: 0.0035304182059996496
+- the: 0.002094686131873118
+- with: 0.0017727905468165111
+- .: 0.0010757435181014024

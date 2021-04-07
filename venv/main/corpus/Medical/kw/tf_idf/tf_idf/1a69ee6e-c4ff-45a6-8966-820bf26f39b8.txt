@@ -1,121 +1,124 @@
-\-\ Texto\\:\\ \ \(0\)\
-\-\ in\\ extremis\ \(1\)\
-\-\ coil\\ embolization\\ achieved\\ hemostasis\ \(0\)\
-\-\ digital\\ subtraction\\ angiographic\\ images\\ reveal\\ use\\ of\\ a\\ renegade\\ catheter\\ to\\ subselect\\ a\\ branch\\ of\\ the\\ superior\\ pancreaticoduodenal\\ artery\\,\\ with\\ a\\ small\\ focus\\ of\\ extravasation\\.\\ \\ this\\ focus\\ of\\ extravasation\\ is\\ also\\ seen\\ with\\ subselection\\ of\\ a\\ second\\ branch\\ of\\ the\\ pancreaticoduodenal\\ artery\\.\\ \\ the\\ final\\ image\\ demonstrates\\ multiple\\ coils\\,\\ with\\ no\\ evidence\\ of\\ extravasation\\.\ \(0\)\
-\-\ coil\\ embolization\\ of\\ a\\ duodenal\\ bleed\ \(0\)\
-\-\ differential\\ for\\ duodenal\\ bleeding\\:\ \(0\)\
-\-\ ulcer\ \(274\)\
-\-\ neoplasm\ \(440\)\
-\-\ pancreatitis\ \(88\)\
-\-\ aortoenteric\\ fistula\ \(1\)\
-\-\ angiodysplasia\ \(4\)\
-\-\ dieulofoy\\ lesion\ \(0\)\
-\-\ 63\\ yo\\ caucasian\\ man\\ with\\ fulminant\\ hepatic\\ failure\\ due\\ to\\ augmentin\\ toxicity\\ and\\ developing\\ renal\\ failure\\.\\ \\ he\\ presents\\ with\\ recurrent\\ duodenal\\ bleeds\\ s\\/p\\ upper\\ endoscopy\\ and\\ failed\\ attempts\\ at\\ injection\\ sclerotherapy\\ and\\ electrocautery\\,\\ with\\ recurrent\\ hematemesis\\.\ \(0\)\
-\-\ more\\ proximal\\ embolization\\ of\\ the\\ gda\\ or\\ pda\\ would\\ have\\ allowed\\ bleeding\\ from\\ collateral\\ branches\\ from\\ the\\ sma\\.\\ the\\ operator\\ did\\ an\\ excellent\\ job\\ subselecting\\ the\\ most\\ distal\\ branches\\ possible\\ subserving\\ area\\ of\\ bleeding\\.\ \(0\)\
-\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
-\-\ extravasation\\:\\ 0\\.09987665245209654\ \(0\)\
-\-\ pancreaticoduodenal\\:\\ 0\\.09404081092210896\ \(0\)\
-\-\ duodenal\\:\\ 0\\.0887161461564867\ \(0\)\
-\-\ embolization\\:\\ 0\\.07555512374079153\ \(0\)\
-\-\ bleeding\\:\\ 0\\.07043492943163135\ \(0\)\
-\-\ coil\\:\\ 0\\.06771876609071863\ \(0\)\
-\-\ branches\\:\\ 0\\.05914409743765779\ \(0\)\
-\-\ branch\\:\\ 0\\.058555236480254076\ \(0\)\
-\-\ renegade\\:\\ 0\\.055794420404851254\ \(0\)\
-\-\ subselection\\:\\ 0\\.055794420404851254\ \(0\)\
-\-\ aortoenteric\\:\\ 0\\.055794420404851254\ \(0\)\
-\-\ dieulofoy\\:\\ 0\\.055794420404851254\ \(0\)\
-\-\ gda\\:\\ 0\\.055794420404851254\ \(0\)\
-\-\ subselecting\\:\\ 0\\.055794420404851254\ \(0\)\
-\-\ extremis\\:\\ 0\\.05140741293295287\ \(0\)\
-\-\ subselect\\:\\ 0\\.05140741293295287\ \(0\)\
-\-\ electrocautery\\:\\ 0\\.05140741293295287\ \(0\)\
-\-\ focus\\:\\ 0\\.04859221115880916\ \(0\)\
-\-\ angiodysplasia\\:\\ 0\\.04702040546105448\ \(0\)\
-\-\ fulminant\\:\\ 0\\.04702040546105448\ \(0\)\
-\-\ subserving\\:\\ 0\\.04702040546105448\ \(0\)\
-\-\ recurrent\\:\\ 0\\.04564597811550731\ \(0\)\
-\-\ sclerotherapy\\:\\ 0\\.045608104503369606\ \(0\)\
-\-\ hemostasis\\:\\ 0\\.0444541705996104\ \(0\)\
-\-\ operator\\:\\ 0\\.0444541705996104\ \(0\)\
-\-\ augmentin\\:\\ 0\\.04347853338551383\ \(0\)\
-\-\ job\\:\\ 0\\.04263339798915609\ \(0\)\
-\-\ failure\\:\\ 0\\.04237288965609325\ \(0\)\
-\-\ bleeds\\:\\ 0\\.04122109703147122\ \(0\)\
-\-\ hematemesis\\:\\ 0\\.04122109703147122\ \(0\)\
-\-\ subtraction\\:\\ 0\\.0406178680453679\ \(0\)\
-\-\ toxicity\\:\\ 0\\.037862690379179\ \(0\)\
-\-\ attempts\\:\\ 0\\.036834089559572826\ \(0\)\
-\-\ pda\\:\\ 0\\.036834089559572826\ \(0\)\
-\-\ allowed\\:\\ 0\\.036834089559572826\ \(0\)\
-\-\ angiographic\\:\\ 0\\.03652529105217136\ \(0\)\
-\-\ sma\\:\\ 0\\.035680155655813624\ \(0\)\
-\-\ digital\\:\\ 0\\.034482421480886226\ \(0\)\
-\-\ coils\\:\\ 0\\.034482421480886226\ \(0\)\
-\-\ achieved\\:\\ 0\\.03426785469812875\ \(0\)\
-\-\ artery\\:\\ 0\\.032209240406432894\ \(0\)\
-\-\ endoscopy\\:\\ 0\\.03129314818391524\ \(0\)\
-\-\ bleed\\:\\ 0\\.03090944804583653\ \(0\)\
-\-\ excellent\\:\\ 0\\.03090944804583653\ \(0\)\
-\-\ failed\\:\\ 0\\.03020548832994904\ \(0\)\
-\-\ 63\\:\\ 0\\.029987221392789736\ \(0\)\
-\-\ ulcer\\:\\ 0\\.02977623139109612\ \(0\)\
-\-\ pancreatitis\\:\\ 0\\.029673316702034217\ \(0\)\
-\-\ final\\:\\ 0\\.029182441801110966\ \(0\)\
-\-\ developing\\:\\ 0\\.02830198102603047\ \(0\)\
-\-\ collateral\\:\\ 0\\.02830198102603047\ \(0\)\
-\-\ fistula\\:\\ 0\\.026522440573938145\ \(0\)\
-\-\ catheter\\:\\ 0\\.02598726723198838\ \(0\)\
-\-\ caucasian\\:\\ 0\\.02581848085805065\ \(0\)\
-\-\ injection\\:\\ 0\\.02523547270040631\ \(0\)\
-\-\ reveal\\:\\ 0\\.024081538796647102\ \(0\)\
-\-\ s\\/p\\:\\ 0\\.022686138019695642\ \(0\)\
-\-\ hepatic\\:\\ 0\\.022585407289911468\ \(0\)\
-\-\ use\\:\\ 0\\.021376196930653815\ \(0\)\
-\-\ second\\:\\ 0\\.020772967944550493\ \(0\)\
-\-\ did\\:\\ 0\\.019527966082233696\ \(0\)\
-\-\ would\\:\\ 0\\.019246625812798037\ \(0\)\
-\-\ neoplasm\\:\\ 0\\.018418712505771696\ \(0\)\
-\-\ possible\\:\\ 0\\.018215077334709315\ \(0\)\
-\-\ superior\\:\\ 0\\.017270529728191084\ \(0\)\
-\-\ differential\\:\\ 0\\.017170631831347656\ \(0\)\
-\-\ area\\:\\ 0\\.017100229393254854\ \(0\)\
-\-\ image\\:\\ 0\\.016893602318339244\ \(0\)\
-\-\ yo\\:\\ 0\\.016274376729764315\ \(0\)\
-\-\ renal\\:\\ 0\\.016249845249734614\ \(0\)\
-\-\ proximal\\:\\ 0\\.016237615074095033\ \(0\)\
-\-\ from\\:\\ 0\\.016030831812078636\ \(0\)\
-\-\ he\\:\\ 0\\.015089793304006453\ \(0\)\
-\-\ distal\\:\\ 0\\.014704294866747005\ \(0\)\
-\-\ due\\:\\ 0\\.014432133879448352\ \(0\)\
-\-\ evidence\\:\\ 0\\.014180016350423277\ \(0\)\
-\-\ more\\:\\ 0\\.013526432337418773\ \(0\)\
-\-\ upper\\:\\ 0\\.013051142439042521\ \(0\)\
-\-\ man\\:\\ 0\\.012790707867658223\ \(0\)\
-\-\ a\\:\\ 0\\.012550626639829155\ \(0\)\
-\-\ most\\:\\ 0\\.01248629836536757\ \(0\)\
-\-\ small\\:\\ 0\\.012459337242918473\ \(0\)\
-\-\ demonstrates\\:\\ 0\\.011814058238311304\ \(0\)\
-\-\ have\\:\\ 0\\.011711633407373998\ \(0\)\
-\-\ multiple\\:\\ 0\\.011391177237210563\ \(0\)\
-\-\ presents\\:\\ 0\\.011048381617138772\ \(0\)\
-\-\ lesion\\:\\ 0\\.011016172316458574\ \(0\)\
-\-\ seen\\:\\ 0\\.01068751655106133\ \(0\)\
-\-\ also\\:\\ 0\\.010662149327026273\ \(0\)\
-\-\ images\\:\\ 0\\.010375087923730089\ \(0\)\
-\-\ an\\:\\ 0\\.007478891546105885\ \(0\)\
-\-\ of\\:\\ 0\\.0073736582783536985\ \(0\)\
-\-\ at\\:\\ 0\\.007327614891339449\ \(0\)\
-\-\ \\:\\:\\ 0\\.007153638075890285\ \(0\)\
-\-\ or\\:\\ 0\\.006338751575719667\ \(0\)\
-\-\ the\\:\\ 0\\.006124968309654307\ \(0\)\
-\-\ this\\:\\ 0\\.006083146919709703\ \(0\)\
-\-\ no\\:\\ 0\\.005445849055087354\ \(0\)\
-\-\ to\\:\\ 0\\.00540592542332894\ \(0\)\
-\-\ \\,\\:\\ 0\\.005140064535138368\ \(0\)\
-\-\ for\\:\\ 0\\.004614608535713387\ \(0\)\
-\-\ with\\:\\ 0\\.00444319656037556\ \(0\)\
-\-\ is\\:\\ 0\\.0035588023948400355\ \(0\)\
-\-\ and\\:\\ 0\\.003417892513902882\ \(0\)\
-\-\ in\\:\\ 0\\.0026670710768370563\ \(0\)\
-\-\ \\.\\:\\ 0\\.0015727642574773666\ \(0\)\
+Texto: 
+in extremis
+coil embolization achieved hemostasis
+digital subtraction angiographic images reveal use of a renegade catheter to subselect a branch of the superior pancreaticoduodenal artery, with a small focus of extravasation.  this focus of extravasation is also seen with subselection of a second branch of the pancreaticoduodenal artery.  the final image demonstrates multiple coils, with no evidence of extravasation.
+coil embolization of a duodenal bleed
+differential for duodenal bleeding:
+
+ulcer
+neoplasm
+pancreatitis
+aortoenteric fistula
+angiodysplasia
+dieulofoy lesion
+63 yo caucasian man with fulminant hepatic failure due to augmentin toxicity and developing renal failure.  he presents with recurrent duodenal bleeds s/p upper endoscopy and failed attempts at injection sclerotherapy and electrocautery, with recurrent hematemesis.
+more proximal embolization of the gda or pda would have allowed bleeding from collateral branches from the sma. the operator did an excellent job subselecting the most distal branches possible subserving area of bleeding.
+
+
+Keywords by value: 
+- extravasation: 0.09987665245209654
+- pancreaticoduodenal: 0.09404081092210896
+- duodenal: 0.0887161461564867
+- embolization: 0.07555512374079153
+- bleeding: 0.07043492943163135
+- coil: 0.06771876609071863
+- branches: 0.05914409743765779
+- branch: 0.058555236480254076
+- renegade: 0.055794420404851254
+- subselection: 0.055794420404851254
+- aortoenteric: 0.055794420404851254
+- dieulofoy: 0.055794420404851254
+- gda: 0.055794420404851254
+- subselecting: 0.055794420404851254
+- extremis: 0.05140741293295287
+- subselect: 0.05140741293295287
+- electrocautery: 0.05140741293295287
+- focus: 0.04859221115880916
+- angiodysplasia: 0.04702040546105448
+- fulminant: 0.04702040546105448
+- subserving: 0.04702040546105448
+- recurrent: 0.04564597811550731
+- sclerotherapy: 0.045608104503369606
+- hemostasis: 0.0444541705996104
+- operator: 0.0444541705996104
+- augmentin: 0.04347853338551383
+- job: 0.04263339798915609
+- failure: 0.04237288965609325
+- bleeds: 0.04122109703147122
+- hematemesis: 0.04122109703147122
+- subtraction: 0.0406178680453679
+- toxicity: 0.037862690379179
+- attempts: 0.036834089559572826
+- pda: 0.036834089559572826
+- allowed: 0.036834089559572826
+- angiographic: 0.03652529105217136
+- sma: 0.035680155655813624
+- digital: 0.034482421480886226
+- coils: 0.034482421480886226
+- achieved: 0.03426785469812875
+- artery: 0.032209240406432894
+- endoscopy: 0.03129314818391524
+- bleed: 0.03090944804583653
+- excellent: 0.03090944804583653
+- failed: 0.03020548832994904
+- 63: 0.029987221392789736
+- ulcer: 0.02977623139109612
+- pancreatitis: 0.029673316702034217
+- final: 0.029182441801110966
+- developing: 0.02830198102603047
+- collateral: 0.02830198102603047
+- fistula: 0.026522440573938145
+- catheter: 0.02598726723198838
+- caucasian: 0.02581848085805065
+- injection: 0.02523547270040631
+- reveal: 0.024081538796647102
+- s/p: 0.022686138019695642
+- hepatic: 0.022585407289911468
+- use: 0.021376196930653815
+- second: 0.020772967944550493
+- did: 0.019527966082233696
+- would: 0.019246625812798037
+- neoplasm: 0.018418712505771696
+- possible: 0.018215077334709315
+- superior: 0.017270529728191084
+- differential: 0.017170631831347656
+- area: 0.017100229393254854
+- image: 0.016893602318339244
+- yo: 0.016274376729764315
+- renal: 0.016249845249734614
+- proximal: 0.016237615074095033
+- from: 0.016030831812078636
+- he: 0.015089793304006453
+- distal: 0.014704294866747005
+- due: 0.014432133879448352
+- evidence: 0.014180016350423277
+- more: 0.013526432337418773
+- upper: 0.013051142439042521
+- man: 0.012790707867658223
+- a: 0.012550626639829155
+- most: 0.01248629836536757
+- small: 0.012459337242918473
+- demonstrates: 0.011814058238311304
+- have: 0.011711633407373998
+- multiple: 0.011391177237210563
+- presents: 0.011048381617138772
+- lesion: 0.011016172316458574
+- seen: 0.01068751655106133
+- also: 0.010662149327026273
+- images: 0.010375087923730089
+- an: 0.007478891546105885
+- of: 0.0073736582783536985
+- at: 0.007327614891339449
+- :: 0.007153638075890285
+- or: 0.006338751575719667
+- the: 0.006124968309654307
+- this: 0.006083146919709703
+- no: 0.005445849055087354
+- to: 0.00540592542332894
+- ,: 0.005140064535138368
+- for: 0.004614608535713387
+- with: 0.00444319656037556
+- is: 0.0035588023948400355
+- and: 0.003417892513902882
+- in: 0.0026670710768370563
+- .: 0.0015727642574773666

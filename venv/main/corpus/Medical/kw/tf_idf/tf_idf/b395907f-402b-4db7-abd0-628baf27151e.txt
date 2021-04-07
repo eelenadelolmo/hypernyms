@@ -1,44 +1,46 @@
-\-\ Texto\\:\\ \ \(0\)\
-\-\ tenderness\\ to\\ palpation\\ at\\ the\\ tibialis\\ posterior\\ insertion\\ site\\.\ \(1\)\
-\-\ the\\ patient\\ underwent\\ successful\\ bilateral\\ resection\\ of\\ the\\ accessory\\ navicular\\ bones\\.\ \(0\)\
-\-\ b\\/l\\ accessory\\ navicular\\ bones\\ with\\ inflammation\\ at\\ the\\ left\\ articulation\\.\ \(0\)\
-\-\ accessory\\ navicular\\ syndrome\ \(0\)\
-\-\ none\ \(204\)\
-\-\ 22y\\/o\\ male\\ complains\\ of\\ increasing\\ medial\\ left\\ ankle\\ pain\\ after\\ playing\\ sports\\.\ \(1\)\
-\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
-\-\ navicular\\:\\ 0\\.3382478756171131\ \(0\)\
-\-\ accessory\\:\\ 0\\.3091174066702111\ \(0\)\
-\-\ 22y\\/o\\:\\ 0\\.16244742486813107\ \(0\)\
-\-\ bones\\:\\ 0\\.1442412908450031\ \(0\)\
-\-\ tibialis\\:\\ 0\\.13025866661944904\ \(0\)\
-\-\ articulation\\:\\ 0\\.12501138133009923\ \(0\)\
-\-\ b\\/l\\:\\ 0\\.11639572300825014\ \(0\)\
-\-\ sports\\:\\ 0\\.10578315798700674\ \(0\)\
-\-\ insertion\\:\\ 0\\.09251727363880145\ \(0\)\
-\-\ successful\\:\\ 0\\.09105677093850366\ \(0\)\
-\-\ playing\\:\\ 0\\.09105677093850366\ \(0\)\
-\-\ ankle\\:\\ 0\\.08141172591206497\ \(0\)\
-\-\ complains\\:\\ 0\\.07942662675015814\ \(0\)\
-\-\ inflammation\\:\\ 0\\.07267469747348827\ \(0\)\
-\-\ site\\:\\ 0\\.07223023473779405\ \(0\)\
-\-\ increasing\\:\\ 0\\.07004624889849421\ \(0\)\
-\-\ underwent\\:\\ 0\\.05864392070956439\ \(0\)\
-\-\ palpation\\:\\ 0\\.05703878160696104\ \(0\)\
-\-\ medial\\:\\ 0\\.05466599027180104\ \(0\)\
-\-\ resection\\:\\ 0\\.05329831311040437\ \(0\)\
-\-\ tenderness\\:\\ 0\\.05197824645763267\ \(0\)\
-\-\ syndrome\\:\\ 0\\.04887813153469283\ \(0\)\
-\-\ at\\:\\ 0\\.04631052611326532\ \(0\)\
-\-\ none\\:\\ 0\\.04239439013816013\ \(0\)\
-\-\ bilateral\\:\\ 0\\.04147635458628888\ \(0\)\
-\-\ posterior\\:\\ 0\\.039392770974048974\ \(0\)\
-\-\ left\\:\\ 0\\.03824421077091659\ \(0\)\
-\-\ after\\:\\ 0\\.03536002405218405\ \(0\)\
-\-\ male\\:\\ 0\\.030904110757749462\ \(0\)\
-\-\ pain\\:\\ 0\\.020872163350614696\ \(0\)\
-\-\ patient\\:\\ 0\\.01713183861832776\ \(0\)\
-\-\ the\\:\\ 0\\.011059942776290063\ \(0\)\
-\-\ to\\:\\ 0\\.008541362168859725\ \(0\)\
-\-\ of\\:\\ 0\\.004660152031919537\ \(0\)\
-\-\ \\.\\:\\ 0\\.002839962887787702\ \(0\)\
-\-\ with\\:\\ 0\\.002340083521797795\ \(0\)\
+Texto: 
+tenderness to palpation at the tibialis posterior insertion site.
+the patient underwent successful bilateral resection of the accessory navicular bones.
+b/l accessory navicular bones with inflammation at the left articulation.
+accessory navicular syndrome
+none
+22y/o male complains of increasing medial left ankle pain after playing sports.
+
+
+Keywords by value: 
+- navicular: 0.3382478756171131
+- accessory: 0.3091174066702111
+- 22y/o: 0.16244742486813107
+- bones: 0.1442412908450031
+- tibialis: 0.13025866661944904
+- articulation: 0.12501138133009923
+- b/l: 0.11639572300825014
+- sports: 0.10578315798700674
+- insertion: 0.09251727363880145
+- successful: 0.09105677093850366
+- playing: 0.09105677093850366
+- ankle: 0.08141172591206497
+- complains: 0.07942662675015814
+- inflammation: 0.07267469747348827
+- site: 0.07223023473779405
+- increasing: 0.07004624889849421
+- underwent: 0.05864392070956439
+- palpation: 0.05703878160696104
+- medial: 0.05466599027180104
+- resection: 0.05329831311040437
+- tenderness: 0.05197824645763267
+- syndrome: 0.04887813153469283
+- at: 0.04631052611326532
+- none: 0.04239439013816013
+- bilateral: 0.04147635458628888
+- posterior: 0.039392770974048974
+- left: 0.03824421077091659
+- after: 0.03536002405218405
+- male: 0.030904110757749462
+- pain: 0.020872163350614696
+- patient: 0.01713183861832776
+- the: 0.011059942776290063
+- to: 0.008541362168859725
+- of: 0.004660152031919537
+- .: 0.002839962887787702
+- with: 0.002340083521797795

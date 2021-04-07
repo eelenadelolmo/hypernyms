@@ -1,46 +1,51 @@
-\-\ Texto\\:\\ \ \(0\)\
-\-\ axial\\ fat\\ saturated\\ t2w\\-\\ displaced\\ meniscal\\ fragment\\ into\\ intercondylar\\ notch\ \(0\)\
-\-\ sagittal\\ fat\\ saturated\\ t2w\\-\\ \\ double\\ pcl\\ sign\ \(0\)\
-\-\ coronal\\ t1w\\-\\ truncated\\ appearance\\ to\\ medial\\ meniscus\\ with\\ low\\ signal\\ meniscal\\ fragment\\ present\\ in\\ intercondylar\\ notch\ \(0\)\
-\-\ coronal\\ fat\\ saturated\\ t2w\\-\\ truncated\\ appearance\\ to\\ medial\\ meniscus\\ with\\ low\\ signal\\ meniscal\\ fragment\\ present\\ in\\ intercondylar\\ notch\ \(0\)\
-\-\ bucket\\-handle\\ meniscal\\ tear\ \(0\)\
-\-\ 18\\ y\\/o\\ male\\ suffered\\ twisting\\ injury\\ to\\ knee\\ playing\\ football\\.\ \(1\)\
-\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
-\-\ t2w\\-\\:\\ 0\\.4068700811061461\ \(0\)\
-\-\ meniscal\\:\\ 0\\.3029968077449767\ \(0\)\
-\-\ intercondylar\\:\\ 0\\.29619799159237514\ \(0\)\
-\-\ saturated\\:\\ 0\\.27890444777200235\ \(0\)\
-\-\ notch\\:\\ 0\\.25145642741446267\ \(0\)\
-\-\ truncated\\:\\ 0\\.22172555420099688\ \(0\)\
-\-\ fragment\\:\\ 0\\.18221464493127304\ \(0\)\
-\-\ meniscus\\:\\ 0\\.1521328434787264\ \(0\)\
-\-\ t1w\\-\\:\\ 0\\.13562336036871536\ \(0\)\
-\-\ fat\\:\\ 0\\.11994979951761385\ \(0\)\
-\-\ coronal\\:\\ 0\\.10947763236734515\ \(0\)\
-\-\ bucket\\-handle\\:\\ 0\\.10805783007289912\ \(0\)\
-\-\ pcl\\:\\ 0\\.0861021938322815\ \(0\)\
-\-\ medial\\:\\ 0\\.08410152349507853\ \(0\)\
-\-\ suffered\\:\\ 0\\.08183093634615413\ \(0\)\
-\-\ twisting\\:\\ 0\\.07849148241941832\ \(0\)\
-\-\ football\\:\\ 0\\.0770593220645566\ \(0\)\
-\-\ appearance\\:\\ 0\\.07519712543798897\ \(0\)\
-\-\ low\\:\\ 0\\.07311286316511999\ \(0\)\
-\-\ playing\\:\\ 0\\.07004366995269512\ \(0\)\
-\-\ signal\\:\\ 0\\.06932536400839319\ \(0\)\
-\-\ double\\:\\ 0\\.06359057225911198\ \(0\)\
-\-\ displaced\\:\\ 0\\.06038721993453454\ \(0\)\
-\-\ present\\:\\ 0\\.05938488473635941\ \(0\)\
-\-\ tear\\:\\ 0\\.057737282937531255\ \(0\)\
-\-\ 18\\:\\ 0\\.057070353077937196\ \(0\)\
-\-\ sagittal\\:\\ 0\\.052436102346252\ \(0\)\
-\-\ knee\\:\\ 0\\.04766908803938887\ \(0\)\
-\-\ sign\\:\\ 0\\.045545330796370326\ \(0\)\
-\-\ injury\\:\\ 0\\.041910900644443076\ \(0\)\
-\-\ axial\\:\\ 0\\.03751986886258264\ \(0\)\
-\-\ y\\/o\\:\\ 0\\.03640967738184063\ \(0\)\
-\-\ into\\:\\ 0\\.03128194412245703\ \(0\)\
-\-\ male\\:\\ 0\\.02377239289057651\ \(0\)\
-\-\ to\\:\\ 0\\.019710835774291675\ \(0\)\
-\-\ in\\:\\ 0\\.012966068619700153\ \(0\)\
-\-\ with\\:\\ 0\\.0036001284950735305\ \(0\)\
-\-\ \\.\\:\\ 0\\.0005461467091899427\ \(0\)\
+Texto: 
+axial fat saturated t2w- displaced meniscal fragment into intercondylar notch
+
+sagittal fat saturated t2w-  double pcl sign
+
+coronal t1w- truncated appearance to medial meniscus with low signal meniscal fragment present in intercondylar notch
+
+coronal fat saturated t2w- truncated appearance to medial meniscus with low signal meniscal fragment present in intercondylar notch
+bucket-handle meniscal tear
+18 y/o male suffered twisting injury to knee playing football.
+
+
+Keywords by value: 
+- t2w-: 0.4068700811061461
+- meniscal: 0.3029968077449767
+- intercondylar: 0.29619799159237514
+- saturated: 0.27890444777200235
+- notch: 0.25145642741446267
+- truncated: 0.22172555420099688
+- fragment: 0.18221464493127304
+- meniscus: 0.1521328434787264
+- t1w-: 0.13562336036871536
+- fat: 0.11994979951761385
+- coronal: 0.10947763236734515
+- bucket-handle: 0.10805783007289912
+- pcl: 0.0861021938322815
+- medial: 0.08410152349507853
+- suffered: 0.08183093634615413
+- twisting: 0.07849148241941832
+- football: 0.0770593220645566
+- appearance: 0.07519712543798897
+- low: 0.07311286316511999
+- playing: 0.07004366995269512
+- signal: 0.06932536400839319
+- double: 0.06359057225911198
+- displaced: 0.06038721993453454
+- present: 0.05938488473635941
+- tear: 0.057737282937531255
+- 18: 0.057070353077937196
+- sagittal: 0.052436102346252
+- knee: 0.04766908803938887
+- sign: 0.045545330796370326
+- injury: 0.041910900644443076
+- axial: 0.03751986886258264
+- y/o: 0.03640967738184063
+- into: 0.03128194412245703
+- male: 0.02377239289057651
+- to: 0.019710835774291675
+- in: 0.012966068619700153
+- with: 0.0036001284950735305
+- .: 0.0005461467091899427

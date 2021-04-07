@@ -1,44 +1,46 @@
-\-\ Texto\\:\\ \ \(0\)\
-\-\ atls\\ survey\\ revealed\\ right\\ scalp\\ swelling\\ and\\ possible\\ skull\\ fracture\\;\\ gcs\\ 7\ \(0\)\
-\-\ neurosurgical\\ drainage\ \(0\)\
-\-\ head\\ ct\\ images\\ reveal\\ large\\ right\\ parietal\\ and\\ temporal\\ epidural\\ hematomas\\ with\\ subfalcine\\ herniation\\ related\\ to\\ a\\ right\\ parietal\\ and\\ temporal\\ skull\\ fractures\ \(0\)\
-\-\ epidural\\ hematoma\ \(39\)\
-\-\ epidural\\ hematomas\\ from\\ trauma\ \(0\)\
-\-\ motorcycle\\ crash\ \(0\)\
-\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
-\-\ epidural\\:\\ 0\\.2745879285638091\ \(0\)\
-\-\ hematomas\\:\\ 0\\.23397961823831964\ \(0\)\
-\-\ atls\\:\\ 0\\.19164170486883692\ \(0\)\
-\-\ parietal\\:\\ 0\\.15872749782795584\ \(0\)\
-\-\ skull\\:\\ 0\\.15823342136489865\ \(0\)\
-\-\ temporal\\:\\ 0\\.1487778642440929\ \(0\)\
-\-\ subfalcine\\:\\ 0\\.1415855071950533\ \(0\)\
-\-\ crash\\:\\ 0\\.13588193622836872\ \(0\)\
-\-\ motorcycle\\:\\ 0\\.13136803699405905\ \(0\)\
-\-\ gcs\\:\\ 0\\.12444512979583004\ \(0\)\
-\-\ neurosurgical\\:\\ 0\\.1234787871312467\ \(0\)\
-\-\ survey\\:\\ 0\\.11435152961906705\ \(0\)\
-\-\ scalp\\:\\ 0\\.1049246603783092\ \(0\)\
-\-\ reveal\\:\\ 0\\.08271485064935309\ \(0\)\
-\-\ herniation\\:\\ 0\\.08271485064935309\ \(0\)\
-\-\ drainage\\:\\ 0\\.07769068280232296\ \(0\)\
-\-\ related\\:\\ 0\\.07667937811460789\ \(0\)\
-\-\ 7\\:\\ 0\\.071179453887132\ \(0\)\
-\-\ fractures\\:\\ 0\\.07034323039087556\ \(0\)\
-\-\ hematoma\\:\\ 0\\.06610797561787152\ \(0\)\
-\-\ possible\\:\\ 0\\.06256483084530591\ \(0\)\
-\-\ swelling\\:\\ 0\\.06188719269524201\ \(0\)\
-\-\ revealed\\:\\ 0\\.05961899760578463\ \(0\)\
-\-\ right\\:\\ 0\\.058802067985461955\ \(0\)\
-\-\ head\\:\\ 0\\.052686985012476\ \(0\)\
-\-\ trauma\\:\\ 0\\.05080453873386802\ \(0\)\
-\-\ fracture\\:\\ 0\\.04897987674506041\ \(0\)\
-\-\ \\;\\:\\ 0\\.04403089540114334\ \(0\)\
-\-\ large\\:\\ 0\\.04062048764850173\ \(0\)\
-\-\ images\\:\\ 0\\.035636171564116394\ \(0\)\
-\-\ from\\:\\ 0\\.027531211155526356\ \(0\)\
-\-\ ct\\:\\ 0\\.0259848620302618\ \(0\)\
-\-\ and\\:\\ 0\\.011739717765144682\ \(0\)\
-\-\ to\\:\\ 0\\.009284089313977962\ \(0\)\
-\-\ a\\:\\ 0\\.008621734822143505\ \(0\)\
-\-\ with\\:\\ 0\\.0025435690454323856\ \(0\)\
+Texto: 
+atls survey revealed right scalp swelling and possible skull fracture; gcs 7
+neurosurgical drainage
+head ct images reveal large right parietal and temporal epidural hematomas with subfalcine herniation related to a right parietal and temporal skull fractures
+epidural hematoma
+epidural hematomas from trauma
+motorcycle crash
+
+
+Keywords by value: 
+- epidural: 0.2745879285638091
+- hematomas: 0.23397961823831964
+- atls: 0.19164170486883692
+- parietal: 0.15872749782795584
+- skull: 0.15823342136489865
+- temporal: 0.1487778642440929
+- subfalcine: 0.1415855071950533
+- crash: 0.13588193622836872
+- motorcycle: 0.13136803699405905
+- gcs: 0.12444512979583004
+- neurosurgical: 0.1234787871312467
+- survey: 0.11435152961906705
+- scalp: 0.1049246603783092
+- reveal: 0.08271485064935309
+- herniation: 0.08271485064935309
+- drainage: 0.07769068280232296
+- related: 0.07667937811460789
+- 7: 0.071179453887132
+- fractures: 0.07034323039087556
+- hematoma: 0.06610797561787152
+- possible: 0.06256483084530591
+- swelling: 0.06188719269524201
+- revealed: 0.05961899760578463
+- right: 0.058802067985461955
+- head: 0.052686985012476
+- trauma: 0.05080453873386802
+- fracture: 0.04897987674506041
+- ;: 0.04403089540114334
+- large: 0.04062048764850173
+- images: 0.035636171564116394
+- from: 0.027531211155526356
+- ct: 0.0259848620302618
+- and: 0.011739717765144682
+- to: 0.009284089313977962
+- a: 0.008621734822143505
+- with: 0.0025435690454323856

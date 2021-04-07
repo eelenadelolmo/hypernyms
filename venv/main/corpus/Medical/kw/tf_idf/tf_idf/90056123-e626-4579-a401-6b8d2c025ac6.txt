@@ -1,192 +1,194 @@
-\-\ Texto\\:\\ \ \(0\)\
-\-\ the\\ plain\\ film\\ shows\\ severe\\ osteopenia\\.\\ \\ there\\ is\\ a\\ subtle\\ area\\ of\\ sclerosis\\ noted\\ at\\ the\\ superior\\ posterior\\ aspect\\ of\\ the\\ calcaneus\\.\ \(0\)\
-\-\ on\\ the\\ mri\\,\\ a\\ t1\\ sagital\\ image\\ shows\\ a\\ nondisplaced\\ fracture\\ through\\ the\\ calcaneus\\.\ \(0\)\
-\-\ calcaneal\\ fracture\\ in\\ the\\ setting\\ of\\ disuse\\ osteopenia\\.\ \(0\)\
-\-\ secondary\\ osteoporosis\ \(0\)\
-\-\ medications\\:\\ corticosteroids\\,\\ dilantin\\,\\ gonadotropin\\ releasing\\ hormone\\ agonists\\,\\ loop\\ diuretics\\,\\ methotrexate\\,\\ thyroid\\,\\ heparin\\,\\ depo\\-medroxyprogesterone\\ acetate\\,\\ anti\\-neoplastic\\ agents\\,\\ cyclosporin\\,\\ excessive\\ ethanol\\ \ \(0\)\
-\-\ hereditary\\ skeletal\\/connective\\ tissue\\ diseases\\ such\\ as\\ osteogenesis\\ imperfecta\\,\\ rickets\\,\\ hypophosphatasia\\,\\ marfan\\'s\\ syndrome\\,\\ pseudoglioma\\.\\ \ \(0\)\
-\-\ endocrine\\ and\\ metabolic\\:\\ hypogonadism\\,\\ hyperparathyroidism\\,\\ hyperthyroidism\\,\\ cushing\\ syndrome\\,\\ acidosis\\,\\ insulin\\-dependent\\ diabetes\\,\\ androgen\\ insensitivity\\,\\ gaucher\\'s\\ disease\\,\\ hemochromatosis\\ \ \(0\)\
-\-\ anorexia\\ or\\ severe\\ weight\\ loss\\ \ \(0\)\
-\-\ malabsorption\\ or\\ malnutrition\\ \ \(0\)\
-\-\ celiac\\ sprue\\ \ \(0\)\
-\-\ inflammatory\\ bowel\\ disease\\ \ \(9\)\
-\-\ rheumatologic\\ diseases\\:\\ systemic\\ lupus\\,\\ ankylosing\\ spondylitis\\,\\ rheumatoid\\ arthritis\\ \ \(0\)\
-\-\ marrow\\ diseases\\:\\ myeloma\\,\\ mastocytosis\\,\\ thalassemia\\,\\ \\-\\-leukemia\\ \ \(0\)\
-\-\ renal\\ insufficiency\\ \ \(8\)\
-\-\ hypercalciuria\\ \ \(2\)\
-\-\ hepatic\\ disease\\ \ \(1\)\
-\-\ chronic\\ obstructive\\ pulmonary\\ disease\\ \ \(0\)\
-\-\ cystic\\ fibrosis\\ \ \(5\)\
-\-\ depression\\ \ \(23\)\
-\-\ spinal\\ cord\\ injury\\ or\\ fracture\\ \\(disuse\\)\ \(0\)\
-\-\ stroke\\,\\ parkinson\\'s\\ disease\\,\\ history\\ of\\ polio\ \(0\)\
-\-\ 14\\ yo\\ boy\\ with\\ left\\ foot\\ pain\\ and\\ swelling\\ after\\ a\\ physical\\ therapy\\ session\\ with\\ a\\ new\\ therapist\\.\ \(1\)\
-\-\ the\\ patient\\ presented\\ with\\ pain\\ and\\ swelling\\ in\\ the\\ left\\ foot\\ after\\ a\\ physical\\ therapy\\ appointment\\ with\\ a\\ new\\ therapist\\.\\ \\ the\\ plain\\ film\\ demonstrated\\ severe\\ osteopenia\\,\\ disuse\\ osteopenia\\ secondary\\ to\\ the\\ patient\\â\\€\\™s\\ cerebral\\ palsy\\.\\ \\ due\\ to\\ the\\ osteopenia\\,\\ it\\ was\\ difficult\\ to\\ identify\\ the\\ fracture\\ on\\ plain\\ film\\,\\ so\\ a\\ further\\ evaluation\\ with\\ an\\ mri\\ was\\ recommended\\ to\\ better\\ evaluate\\ the\\ osseous\\ structures\\ and\\ the\\ soft\\ tissues\\.\\ \\ the\\ mri\\ clearly\\ demonstrates\\ a\\ \\ nondisplaced\\ calcaneal\\ fracture\\.\ \(0\)\
-\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
-\-\ osteopenia\\:\\ 0\\.0847332904821918\ \(0\)\
-\-\ disuse\\:\\ 0\\.07606714057522124\ \(0\)\
-\-\ therapist\\:\\ 0\\.050711427050147494\ \(0\)\
-\-\ diseases\\:\\ 0\\.04407500598071312\ \(0\)\
-\-\ calcaneal\\:\\ 0\\.04083484696184493\ \(0\)\
-\-\ fracture\\:\\ 0\\.038448367410798275\ \(0\)\
-\-\ nondisplaced\\:\\ 0\\.03820233856039793\ \(0\)\
-\-\ calcaneus\\:\\ 0\\.03742876391666412\ \(0\)\
-\-\ film\\:\\ 0\\.033605415719170424\ \(0\)\
-\-\ \\,\\:\\ 0\\.03048952956338049\ \(0\)\
-\-\ \\-medications\\:\\ 0\\.030087093597155286\ \(0\)\
-\-\ depo\\-medroxyprogesterone\\:\\ 0\\.030087093597155286\ \(0\)\
-\-\ skeletal\\/connective\\:\\ 0\\.030087093597155286\ \(0\)\
-\-\ pseudoglioma\\:\\ 0\\.030087093597155286\ \(0\)\
-\-\ \\-endocrine\\:\\ 0\\.030087093597155286\ \(0\)\
-\-\ insulin\\-dependent\\:\\ 0\\.030087093597155286\ \(0\)\
-\-\ \\-anorexia\\:\\ 0\\.030087093597155286\ \(0\)\
-\-\ \\-malabsorption\\:\\ 0\\.030087093597155286\ \(0\)\
-\-\ \\-celiac\\:\\ 0\\.030087093597155286\ \(0\)\
-\-\ \\-rheumatologic\\:\\ 0\\.030087093597155286\ \(0\)\
-\-\ \\-marrow\\:\\ 0\\.030087093597155286\ \(0\)\
-\-\ \\-hypercalciuria\\:\\ 0\\.030087093597155286\ \(0\)\
-\-\ \\-depression\\:\\ 0\\.030087093597155286\ \(0\)\
-\-\ \\-stroke\\:\\ 0\\.030087093597155286\ \(0\)\
-\-\ plain\\:\\ 0\\.028415669413198816\ \(0\)\
-\-\ anti\\-neoplastic\\:\\ 0\\.027721403561114515\ \(0\)\
-\-\ \\-hereditary\\:\\ 0\\.027721403561114515\ \(0\)\
-\-\ sprue\\:\\ 0\\.027721403561114515\ \(0\)\
-\-\ \\-spinal\\:\\ 0\\.027721403561114515\ \(0\)\
-\-\ severe\\:\\ 0\\.026921260751529053\ \(0\)\
-\-\ cyclosporin\\:\\ 0\\.026337563601700986\ \(0\)\
-\-\ \\-inflammatory\\:\\ 0\\.026337563601700986\ \(0\)\
-\-\ \\-hepatic\\:\\ 0\\.026337563601700986\ \(0\)\
-\-\ polio\\:\\ 0\\.026337563601700986\ \(0\)\
-\-\ releasing\\:\\ 0\\.025355713525073747\ \(0\)\
-\-\ acetate\\:\\ 0\\.025355713525073747\ \(0\)\
-\-\ hypogonadism\\:\\ 0\\.025355713525073747\ \(0\)\
-\-\ mastocytosis\\:\\ 0\\.025355713525073747\ \(0\)\
-\-\ \\-cystic\\:\\ 0\\.025355713525073747\ \(0\)\
-\-\ session\\:\\ 0\\.025355713525073747\ \(0\)\
-\-\ agonists\\:\\ 0\\.024594131438677128\ \(0\)\
-\-\ androgen\\:\\ 0\\.024594131438677128\ \(0\)\
-\-\ insensitivity\\:\\ 0\\.024594131438677128\ \(0\)\
-\-\ parkinson\\:\\ 0\\.024594131438677128\ \(0\)\
-\-\ foot\\:\\ 0\\.024111363107361842\ \(0\)\
-\-\ gonadotropin\\:\\ 0\\.023971873565660214\ \(0\)\
-\-\ disease\\:\\ 0\\.02383511162484137\ \(0\)\
-\-\ ethanol\\:\\ 0\\.0234457620304136\ \(0\)\
-\-\ dilantin\\:\\ 0\\.022990023489032976\ \(0\)\
-\-\ diuretics\\:\\ 0\\.022990023489032976\ \(0\)\
-\-\ malnutrition\\:\\ 0\\.022990023489032976\ \(0\)\
-\-\ thalassemia\\:\\ 0\\.022990023489032976\ \(0\)\
-\-\ \\-renal\\:\\ 0\\.022588033606246685\ \(0\)\
-\-\ \\-chronic\\:\\ 0\\.022588033606246685\ \(0\)\
-\-\ hypophosphatasia\\:\\ 0\\.022228441402636356\ \(0\)\
-\-\ cushing\\:\\ 0\\.02190315068658064\ \(0\)\
-\-\ gaucher\\:\\ 0\\.020624333452992208\ \(0\)\
-\-\ appointment\\:\\ 0\\.020417423480922466\ \(0\)\
-\-\ new\\:\\ 0\\.020326197793860468\ \(0\)\
-\-\ hemochromatosis\\:\\ 0\\.020222343570205917\ \(0\)\
-\-\ mri\\:\\ 0\\.020101800562265734\ \(0\)\
-\-\ marfan\\:\\ 0\\.0196962320349593\ \(0\)\
-\-\ osteogenesis\\:\\ 0\\.01953746065053987\ \(0\)\
-\-\ imperfecta\\:\\ 0\\.01953746065053987\ \(0\)\
-\-\ swelling\\:\\ 0\\.019432156068130597\ \(0\)\
-\-\ \\'s\\:\\ 0\\.01929057971024278\ \(0\)\
-\-\ hyperthyroidism\\:\\ 0\\.018838503610792385\ \(0\)\
-\-\ acidosis\\:\\ 0\\.018838503610792385\ \(0\)\
-\-\ methotrexate\\:\\ 0\\.018594616361706565\ \(0\)\
-\-\ sagital\\:\\ 0\\.018367000749083113\ \(0\)\
-\-\ rickets\\:\\ 0\\.018367000749083113\ \(0\)\
-\-\ heparin\\:\\ 0\\.017952799871935442\ \(0\)\
-\-\ corticosteroids\\:\\ 0\\.01776314167686783\ \(0\)\
-\-\ osteoporosis\\:\\ 0\\.017672123768737585\ \(0\)\
-\-\ excessive\\:\\ 0\\.017672123768737585\ \(0\)\
-\-\ ankylosing\\:\\ 0\\.017672123768737585\ \(0\)\
-\-\ spondylitis\\:\\ 0\\.017412786202260035\ \(0\)\
-\-\ identify\\:\\ 0\\.017412786202260035\ \(0\)\
-\-\ lupus\\:\\ 0\\.017171770614499104\ \(0\)\
-\-\ agents\\:\\ 0\\.017095071447768527\ \(0\)\
-\-\ loop\\:\\ 0\\.017020058114257348\ \(0\)\
-\-\ myeloma\\:\\ 0\\.01694665809643836\ \(0\)\
-\-\ syndrome\\:\\ 0\\.016681956155185265\ \(0\)\
-\-\ hormone\\:\\ 0\\.016536609250561014\ \(0\)\
-\-\ secondary\\:\\ 0\\.016307371785043056\ \(0\)\
-\-\ palsy\\:\\ 0\\.01617058354969549\ \(0\)\
-\-\ shows\\:\\ 0\\.016036680544224427\ \(0\)\
-\-\ therapy\\:\\ 0\\.015594817721778929\ \(0\)\
-\-\ insufficiency\\:\\ 0\\.015490963498124379\ \(0\)\
-\-\ \\:\\:\\ 0\\.015430372914548329\ \(0\)\
-\-\ hyperparathyroidism\\:\\ 0\\.015306433732696816\ \(0\)\
-\-\ better\\:\\ 0\\.015047096166219267\ \(0\)\
-\-\ obstructive\\:\\ 0\\.015005726335050854\ \(0\)\
-\-\ clearly\\:\\ 0\\.015005726335050854\ \(0\)\
-\-\ leukemia\\:\\ 0\\.014964851962877761\ \(0\)\
-\-\ setting\\:\\ 0\\.01472938141172776\ \(0\)\
-\-\ diabetes\\:\\ 0\\.014438740427631148\ \(0\)\
-\-\ metabolic\\:\\ 0\\.014404090695672042\ \(0\)\
-\-\ physical\\:\\ 0\\.01431061617461596\ \(0\)\
-\-\ systemic\\:\\ 0\\.013952664181754804\ \(0\)\
-\-\ rheumatoid\\:\\ 0\\.01377609191418078\ \(0\)\
-\-\ subtle\\:\\ 0\\.013396482238036671\ \(0\)\
-\-\ \\-\\-\\:\\ 0\\.013396482238036671\ \(0\)\
-\-\ so\\:\\ 0\\.013270528118803051\ \(0\)\
-\-\ fibrosis\\:\\ 0\\.0129859492487039\ \(0\)\
-\-\ 14\\:\\ 0\\.012852090159443554\ \(0\)\
-\-\ difficult\\:\\ 0\\.01276568125847328\ \(0\)\
-\-\ arthritis\\:\\ 0\\.012459837713457284\ \(0\)\
-\-\ osseous\\:\\ 0\\.012382705181316529\ \(0\)\
-\-\ a\\:\\ 0\\.012182246472243724\ \(0\)\
-\-\ recommended\\:\\ 0\\.012090508073046933\ \(0\)\
-\-\ after\\:\\ 0\\.012068267594602064\ \(0\)\
-\-\ tissues\\:\\ 0\\.01197013899851636\ \(0\)\
-\-\ thyroid\\:\\ 0\\.011953284794964884\ \(0\)\
-\-\ evaluate\\:\\ 0\\.011789168116918337\ \(0\)\
-\-\ structures\\:\\ 0\\.011228892439708923\ \(0\)\
-\-\ cord\\:\\ 0\\.011082504847117411\ \(0\)\
-\-\ sclerosis\\:\\ 0\\.010475478612376604\ \(0\)\
-\-\ weight\\:\\ 0\\.010453739881026844\ \(0\)\
-\-\ or\\:\\ 0\\.010254499136147175\ \(0\)\
-\-\ cerebral\\:\\ 0\\.010103912975303997\ \(0\)\
-\-\ boy\\:\\ 0\\.009913726211351438\ \(0\)\
-\-\ superior\\:\\ 0\\.009313118419980176\ \(0\)\
-\-\ injury\\:\\ 0\\.009297640074705802\ \(0\)\
-\-\ further\\:\\ 0\\.009274553384983817\ \(0\)\
-\-\ t1\\:\\ 0\\.009244012069024723\ \(0\)\
-\-\ area\\:\\ 0\\.009221284109673267\ \(0\)\
-\-\ aspect\\:\\ 0\\.009161405919738422\ \(0\)\
-\-\ bowel\\:\\ 0\\.009146599088343888\ \(0\)\
-\-\ such\\:\\ 0\\.009117176757136015\ \(0\)\
-\-\ image\\:\\ 0\\.00910986063582799\ \(0\)\
-\-\ yo\\:\\ 0\\.008775943765538436\ \(0\)\
-\-\ \\â\\€\\™\\:\\ 0\\.008716814811076641\ \(0\)\
-\-\ demonstrated\\:\\ 0\\.008557747380399206\ \(0\)\
-\-\ pulmonary\\:\\ 0\\.00852064952293537\ \(0\)\
-\-\ evaluation\\:\\ 0\\.00847180476391402\ \(0\)\
-\-\ loss\\:\\ 0\\.008465748028902525\ \(0\)\
-\-\ s\\:\\ 0\\.00836439476830917\ \(0\)\
-\-\ through\\:\\ 0\\.008283129755702624\ \(0\)\
-\-\ presented\\:\\ 0\\.00795002605809696\ \(0\)\
-\-\ due\\:\\ 0\\.007782515880385118\ \(0\)\
-\-\ pain\\:\\ 0\\.007123605239117643\ \(0\)\
-\-\ soft\\:\\ 0\\.00710213912625785\ \(0\)\
-\-\ the\\:\\ 0\\.007077608431926235\ \(0\)\
-\-\ noted\\:\\ 0\\.006912700301885985\ \(0\)\
-\-\ tissue\\:\\ 0\\.006912700301885985\ \(0\)\
-\-\ was\\:\\ 0\\.006745921653335746\ \(0\)\
-\-\ posterior\\:\\ 0\\.006722315865878664\ \(0\)\
-\-\ it\\:\\ 0\\.006555796534242378\ \(0\)\
-\-\ left\\:\\ 0\\.006526315831214435\ \(0\)\
-\-\ demonstrates\\:\\ 0\\.006370720824754901\ \(0\)\
-\-\ patient\\:\\ 0\\.005847043897040191\ \(0\)\
-\-\ to\\:\\ 0\\.005830281343931553\ \(0\)\
-\-\ on\\:\\ 0\\.004941235579286198\ \(0\)\
-\-\ as\\:\\ 0\\.004411527323870744\ \(0\)\
-\-\ there\\:\\ 0\\.004340326131279825\ \(0\)\
-\-\ an\\:\\ 0\\.004032985884930819\ \(0\)\
-\-\ history\\:\\ 0\\.0040280359648705915\ \(0\)\
-\-\ at\\:\\ 0\\.003951410077923662\ \(0\)\
-\-\ in\\:\\ 0\\.002876431605052935\ \(0\)\
-\-\ \\(\\:\\ 0\\.0024653983830848483\ \(0\)\
-\-\ and\\:\\ 0\\.0024574608291087845\ \(0\)\
-\-\ \\)\\:\\ 0\\.0024352822256426794\ \(0\)\
-\-\ with\\:\\ 0\\.001996658295049313\ \(0\)\
-\-\ is\\:\\ 0\\.0019190811548966745\ \(0\)\
-\-\ of\\:\\ 0\\.0015904955740339718\ \(0\)\
-\-\ \\.\\:\\ 0\\.001211588262708064\ \(0\)\
+Texto: 
+the plain film shows severe osteopenia.  there is a subtle area of sclerosis noted at the superior posterior aspect of the calcaneus.
+on the mri, a t1 sagital image shows a nondisplaced fracture through the calcaneus.
+calcaneal fracture in the setting of disuse osteopenia.
+secondary osteoporosis
+-medications: corticosteroids, dilantin, gonadotropin releasing hormone agonists, loop diuretics, methotrexate, thyroid, heparin, depo-medroxyprogesterone acetate, anti-neoplastic agents, cyclosporin, excessive ethanol 
+-hereditary skeletal/connective tissue diseases such as osteogenesis imperfecta, rickets, hypophosphatasia, marfan's syndrome, pseudoglioma. 
+-endocrine and metabolic: hypogonadism, hyperparathyroidism, hyperthyroidism, cushing syndrome, acidosis, insulin-dependent diabetes, androgen insensitivity, gaucher's disease, hemochromatosis 
+-anorexia or severe weight loss 
+-malabsorption or malnutrition 
+-celiac sprue 
+-inflammatory bowel disease 
+-rheumatologic diseases: systemic lupus, ankylosing spondylitis, rheumatoid arthritis 
+-marrow diseases: myeloma, mastocytosis, thalassemia, --leukemia 
+-renal insufficiency 
+-hypercalciuria 
+-hepatic disease 
+-chronic obstructive pulmonary disease 
+-cystic fibrosis 
+-depression 
+-spinal cord injury or fracture (disuse)
+-stroke, parkinson's disease, history of polio
+14 yo boy with left foot pain and swelling after a physical therapy session with a new therapist.
+the patient presented with pain and swelling in the left foot after a physical therapy appointment with a new therapist.  the plain film demonstrated severe osteopenia, disuse osteopenia secondary to the patientâ€™s cerebral palsy.  due to the osteopenia, it was difficult to identify the fracture on plain film, so a further evaluation with an mri was recommended to better evaluate the osseous structures and the soft tissues.  the mri clearly demonstrates a  nondisplaced calcaneal fracture.
+
+
+Keywords by value: 
+- osteopenia: 0.0847332904821918
+- disuse: 0.07606714057522124
+- therapist: 0.050711427050147494
+- diseases: 0.04407500598071312
+- calcaneal: 0.04083484696184493
+- fracture: 0.038448367410798275
+- nondisplaced: 0.03820233856039793
+- calcaneus: 0.03742876391666412
+- film: 0.033605415719170424
+- ,: 0.03048952956338049
+- -medications: 0.030087093597155286
+- depo-medroxyprogesterone: 0.030087093597155286
+- skeletal/connective: 0.030087093597155286
+- pseudoglioma: 0.030087093597155286
+- -endocrine: 0.030087093597155286
+- insulin-dependent: 0.030087093597155286
+- -anorexia: 0.030087093597155286
+- -malabsorption: 0.030087093597155286
+- -celiac: 0.030087093597155286
+- -rheumatologic: 0.030087093597155286
+- -marrow: 0.030087093597155286
+- -hypercalciuria: 0.030087093597155286
+- -depression: 0.030087093597155286
+- -stroke: 0.030087093597155286
+- plain: 0.028415669413198816
+- anti-neoplastic: 0.027721403561114515
+- -hereditary: 0.027721403561114515
+- sprue: 0.027721403561114515
+- -spinal: 0.027721403561114515
+- severe: 0.026921260751529053
+- cyclosporin: 0.026337563601700986
+- -inflammatory: 0.026337563601700986
+- -hepatic: 0.026337563601700986
+- polio: 0.026337563601700986
+- releasing: 0.025355713525073747
+- acetate: 0.025355713525073747
+- hypogonadism: 0.025355713525073747
+- mastocytosis: 0.025355713525073747
+- -cystic: 0.025355713525073747
+- session: 0.025355713525073747
+- agonists: 0.024594131438677128
+- androgen: 0.024594131438677128
+- insensitivity: 0.024594131438677128
+- parkinson: 0.024594131438677128
+- foot: 0.024111363107361842
+- gonadotropin: 0.023971873565660214
+- disease: 0.02383511162484137
+- ethanol: 0.0234457620304136
+- dilantin: 0.022990023489032976
+- diuretics: 0.022990023489032976
+- malnutrition: 0.022990023489032976
+- thalassemia: 0.022990023489032976
+- -renal: 0.022588033606246685
+- -chronic: 0.022588033606246685
+- hypophosphatasia: 0.022228441402636356
+- cushing: 0.02190315068658064
+- gaucher: 0.020624333452992208
+- appointment: 0.020417423480922466
+- new: 0.020326197793860468
+- hemochromatosis: 0.020222343570205917
+- mri: 0.020101800562265734
+- marfan: 0.0196962320349593
+- osteogenesis: 0.01953746065053987
+- imperfecta: 0.01953746065053987
+- swelling: 0.019432156068130597
+- 's: 0.01929057971024278
+- hyperthyroidism: 0.018838503610792385
+- acidosis: 0.018838503610792385
+- methotrexate: 0.018594616361706565
+- sagital: 0.018367000749083113
+- rickets: 0.018367000749083113
+- heparin: 0.017952799871935442
+- corticosteroids: 0.01776314167686783
+- osteoporosis: 0.017672123768737585
+- excessive: 0.017672123768737585
+- ankylosing: 0.017672123768737585
+- spondylitis: 0.017412786202260035
+- identify: 0.017412786202260035
+- lupus: 0.017171770614499104
+- agents: 0.017095071447768527
+- loop: 0.017020058114257348
+- myeloma: 0.01694665809643836
+- syndrome: 0.016681956155185265
+- hormone: 0.016536609250561014
+- secondary: 0.016307371785043056
+- palsy: 0.01617058354969549
+- shows: 0.016036680544224427
+- therapy: 0.015594817721778929
+- insufficiency: 0.015490963498124379
+- :: 0.015430372914548329
+- hyperparathyroidism: 0.015306433732696816
+- better: 0.015047096166219267
+- obstructive: 0.015005726335050854
+- clearly: 0.015005726335050854
+- leukemia: 0.014964851962877761
+- setting: 0.01472938141172776
+- diabetes: 0.014438740427631148
+- metabolic: 0.014404090695672042
+- physical: 0.01431061617461596
+- systemic: 0.013952664181754804
+- rheumatoid: 0.01377609191418078
+- subtle: 0.013396482238036671
+- --: 0.013396482238036671
+- so: 0.013270528118803051
+- fibrosis: 0.0129859492487039
+- 14: 0.012852090159443554
+- difficult: 0.01276568125847328
+- arthritis: 0.012459837713457284
+- osseous: 0.012382705181316529
+- a: 0.012182246472243724
+- recommended: 0.012090508073046933
+- after: 0.012068267594602064
+- tissues: 0.01197013899851636
+- thyroid: 0.011953284794964884
+- evaluate: 0.011789168116918337
+- structures: 0.011228892439708923
+- cord: 0.011082504847117411
+- sclerosis: 0.010475478612376604
+- weight: 0.010453739881026844
+- or: 0.010254499136147175
+- cerebral: 0.010103912975303997
+- boy: 0.009913726211351438
+- superior: 0.009313118419980176
+- injury: 0.009297640074705802
+- further: 0.009274553384983817
+- t1: 0.009244012069024723
+- area: 0.009221284109673267
+- aspect: 0.009161405919738422
+- bowel: 0.009146599088343888
+- such: 0.009117176757136015
+- image: 0.00910986063582799
+- yo: 0.008775943765538436
+- â€™: 0.008716814811076641
+- demonstrated: 0.008557747380399206
+- pulmonary: 0.00852064952293537
+- evaluation: 0.00847180476391402
+- loss: 0.008465748028902525
+- s: 0.00836439476830917
+- through: 0.008283129755702624
+- presented: 0.00795002605809696
+- due: 0.007782515880385118
+- pain: 0.007123605239117643
+- soft: 0.00710213912625785
+- the: 0.007077608431926235
+- noted: 0.006912700301885985
+- tissue: 0.006912700301885985
+- was: 0.006745921653335746
+- posterior: 0.006722315865878664
+- it: 0.006555796534242378
+- left: 0.006526315831214435
+- demonstrates: 0.006370720824754901
+- patient: 0.005847043897040191
+- to: 0.005830281343931553
+- on: 0.004941235579286198
+- as: 0.004411527323870744
+- there: 0.004340326131279825
+- an: 0.004032985884930819
+- history: 0.0040280359648705915
+- at: 0.003951410077923662
+- in: 0.002876431605052935
+- (: 0.0024653983830848483
+- and: 0.0024574608291087845
+- ): 0.0024352822256426794
+- with: 0.001996658295049313
+- is: 0.0019190811548966745
+- of: 0.0015904955740339718
+- .: 0.001211588262708064

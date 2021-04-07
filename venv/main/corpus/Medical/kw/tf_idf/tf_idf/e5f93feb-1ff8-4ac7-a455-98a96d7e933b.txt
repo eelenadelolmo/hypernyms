@@ -1,43 +1,45 @@
-\-\ Texto\\:\\ \ \(0\)\
-\-\ elevated\\ urine\\ vma\ \(1\)\
-\-\ the\\ mass\\ was\\ surgically\\ excised\\.\ \(0\)\
-\-\ large\\ left\\ adrenal\\ mass\\.\\ \\ location\\ within\\ the\\ adrenal\\ gland\\ excluded\\ adenopathy\\.\\ contrast\\ within\\ bowel\\ excluded\\ bowel\\ as\\ an\\ etiology\\.\ \(0\)\
-\-\ pheochromocytoma\ \(23\)\
-\-\ pheochromocytoma\ \(23\)\
-\-\ mets\ \(38\)\
-\-\ hemorrhage\ \(627\)\
-\-\ adenoma\ \(519\)\
-\-\ hypertension\\,\\ occ\\ palpations\\,\\ heat\\ intolerance\ \(0\)\
-\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
-\-\ pheochromocytoma\\:\\ 0\\.2567293747889381\ \(0\)\
-\-\ excluded\\:\\ 0\\.21515645032279407\ \(0\)\
-\-\ occ\\:\\ 0\\.20501205637131392\ \(0\)\
-\-\ palpations\\:\\ 0\\.20501205637131392\ \(0\)\
-\-\ adrenal\\:\\ 0\\.20125032810392365\ \(0\)\
-\-\ vma\\:\\ 0\\.1633432315055452\ \(0\)\
-\-\ excised\\:\\ 0\\.12515188882514772\ \(0\)\
-\-\ bowel\\:\\ 0\\.12464900152952368\ \(0\)\
-\-\ heat\\:\\ 0\\.1244135470038784\ \(0\)\
-\-\ intolerance\\:\\ 0\\.12369792703488414\ \(0\)\
-\-\ mets\\:\\ 0\\.11450460757804352\ \(0\)\
-\-\ surgically\\:\\ 0\\.10062516405196183\ \(0\)\
-\-\ urine\\:\\ 0\\.09591094283110127\ \(0\)\
-\-\ adenopathy\\:\\ 0\\.0884856541830289\ \(0\)\
-\-\ gland\\:\\ 0\\.08463648119517835\ \(0\)\
-\-\ etiology\\:\\ 0\\.08411677657443424\ \(0\)\
-\-\ adenoma\\:\\ 0\\.0829882407396747\ \(0\)\
-\-\ hypertension\\:\\ 0\\.07834374540232995\ \(0\)\
-\-\ within\\:\\ 0\\.07582006550632937\ \(0\)\
-\-\ location\\:\\ 0\\.0693187834163696\ \(0\)\
-\-\ elevated\\:\\ 0\\.06742596189207123\ \(0\)\
-\-\ hemorrhage\\:\\ 0\\.06614550195758222\ \(0\)\
-\-\ mass\\:\\ 0\\.055277256137096026\ \(0\)\
-\-\ contrast\\:\\ 0\\.04448315550716059\ \(0\)\
-\-\ large\\:\\ 0\\.04345447515886232\ \(0\)\
-\-\ as\\:\\ 0\\.030059941997537854\ \(0\)\
-\-\ an\\:\\ 0\\.027480578239179765\ \(0\)\
-\-\ was\\:\\ 0\\.022983198191015974\ \(0\)\
-\-\ left\\:\\ 0\\.02223500626216081\ \(0\)\
-\-\ \\,\\:\\ 0\\.012591165838013367\ \(0\)\
-\-\ the\\:\\ 0\\.006430199288540735\ \(0\)\
-\-\ \\.\\:\\ 0\\.0033022824276601184\ \(0\)\
+Texto: 
+elevated urine vma
+the mass was surgically excised.
+large left adrenal mass.  location within the adrenal gland excluded adenopathy. contrast within bowel excluded bowel as an etiology.
+pheochromocytoma
+pheochromocytoma
+mets
+hemorrhage
+adenoma
+hypertension, occ palpations, heat intolerance
+
+
+Keywords by value: 
+- pheochromocytoma: 0.2567293747889381
+- excluded: 0.21515645032279407
+- occ: 0.20501205637131392
+- palpations: 0.20501205637131392
+- adrenal: 0.20125032810392365
+- vma: 0.1633432315055452
+- excised: 0.12515188882514772
+- bowel: 0.12464900152952368
+- heat: 0.1244135470038784
+- intolerance: 0.12369792703488414
+- mets: 0.11450460757804352
+- surgically: 0.10062516405196183
+- urine: 0.09591094283110127
+- adenopathy: 0.0884856541830289
+- gland: 0.08463648119517835
+- etiology: 0.08411677657443424
+- adenoma: 0.0829882407396747
+- hypertension: 0.07834374540232995
+- within: 0.07582006550632937
+- location: 0.0693187834163696
+- elevated: 0.06742596189207123
+- hemorrhage: 0.06614550195758222
+- mass: 0.055277256137096026
+- contrast: 0.04448315550716059
+- large: 0.04345447515886232
+- as: 0.030059941997537854
+- an: 0.027480578239179765
+- was: 0.022983198191015974
+- left: 0.02223500626216081
+- ,: 0.012591165838013367
+- the: 0.006430199288540735
+- .: 0.0033022824276601184

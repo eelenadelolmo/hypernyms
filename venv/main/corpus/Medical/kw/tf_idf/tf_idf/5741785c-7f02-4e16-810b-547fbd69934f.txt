@@ -1,53 +1,55 @@
-\-\ Texto\\:\\ \ \(0\)\
-\-\ non\\-contributory\ \(73\)\
-\-\ surgery\\ and\\ radiation\ \(6\)\
-\-\ intraventricular\\ mass\\ fourth\\ ventricle\\ with\\ cystic\\ components\\.\ \(0\)\
-\-\ homogeneous\\ and\\ intense\\ enhancement\\ with\\ contrast\\ administration\ \(0\)\
-\-\ ependymoma\\,\\ 4th\\ ventricle\ \(0\)\
-\-\ \\â\\€\\¢\\ ependymoma\ \(8\)\
-\-\ \\â\\€\\¢\\ medulloblastoma\ \(1\)\
-\-\ \\â\\€\\¢\\ metastatic\\ disease\ \(13\)\
-\-\ \\â\\€\\¢\\ choroid\\ plexus\\ papilloma\ \(4\)\
-\-\ 34\\ year\\ old\\ man\\ with\\ six\\ month\\ history\\ of\\ headaches\\.\ \(1\)\
-\-\ recent\\ onset\\ of\\ nausea\\ and\\ vomiting\ \(0\)\
-\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
-\-\ ependymoma\\:\\ 0\\.15000336616422597\ \(0\)\
-\-\ ventricle\\:\\ 0\\.12558393402268345\ \(0\)\
-\-\ \\â\\€\\¢\\:\\ 0\\.12290308639967748\ \(0\)\
-\-\ intraventricular\\:\\ 0\\.09736021220110666\ \(0\)\
-\-\ medulloblastoma\\:\\ 0\\.09736021220110666\ \(0\)\
-\-\ intense\\:\\ 0\\.08872664672192367\ \(0\)\
-\-\ choroid\\:\\ 0\\.08551315936692137\ \(0\)\
-\-\ 4th\\:\\ 0\\.0844050768127382\ \(0\)\
-\-\ papilloma\\:\\ 0\\.08419078131210701\ \(0\)\
-\-\ 34\\:\\ 0\\.08315308716594344\ \(0\)\
-\-\ six\\:\\ 0\\.08236074327696546\ \(0\)\
-\-\ components\\:\\ 0\\.08216756099376915\ \(0\)\
-\-\ plexus\\:\\ 0\\.08141332019322414\ \(0\)\
-\-\ fourth\\:\\ 0\\.08104680778122114\ \(0\)\
-\-\ homogeneous\\:\\ 0\\.07931046665687908\ \(0\)\
-\-\ administration\\:\\ 0\\.06956196597849353\ \(0\)\
-\-\ nausea\\:\\ 0\\.06745568659377124\ \(0\)\
-\-\ headaches\\:\\ 0\\.06404788900139761\ \(0\)\
-\-\ vomiting\\:\\ 0\\.06397174194205649\ \(0\)\
-\-\ non\\-contributory\\:\\ 0\\.061883062906017194\ \(0\)\
-\-\ recent\\:\\ 0\\.056327824487054846\ \(0\)\
-\-\ radiation\\:\\ 0\\.05498531861886934\ \(0\)\
-\-\ onset\\:\\ 0\\.052890612273042155\ \(0\)\
-\-\ month\\:\\ 0\\.05026695178040411\ \(0\)\
-\-\ cystic\\:\\ 0\\.04832613151474036\ \(0\)\
-\-\ enhancement\\:\\ 0\\.04491154443378502\ \(0\)\
-\-\ metastatic\\:\\ 0\\.04217861575717824\ \(0\)\
-\-\ surgery\\:\\ 0\\.04068625616392696\ \(0\)\
-\-\ man\\:\\ 0\\.03962611457039214\ \(0\)\
-\-\ contrast\\:\\ 0\\.037505405623684415\ \(0\)\
-\-\ disease\\:\\ 0\\.02738701061207263\ \(0\)\
-\-\ mass\\:\\ 0\\.02330315699897185\ \(0\)\
-\-\ history\\:\\ 0\\.023141461523668302\ \(0\)\
-\-\ year\\:\\ 0\\.01874716214260617\ \(0\)\
-\-\ old\\:\\ 0\\.01715558033063244\ \(0\)\
-\-\ and\\:\\ 0\\.010588765043071673\ \(0\)\
-\-\ with\\:\\ 0\\.0068825985935229254\ \(0\)\
-\-\ \\,\\:\\ 0\\.005308040500338968\ \(0\)\
-\-\ of\\:\\ 0\\.004568776501881899\ \(0\)\
-\-\ \\.\\:\\ 0\\.0013921386704841675\ \(0\)\
+Texto: 
+non-contributory
+surgery and radiation
+intraventricular mass fourth ventricle with cystic components.
+homogeneous and intense enhancement with contrast administration
+ependymoma, 4th ventricle
+â€¢ ependymoma
+â€¢ medulloblastoma
+â€¢ metastatic disease
+â€¢ choroid plexus papilloma
+34 year old man with six month history of headaches.
+recent onset of nausea and vomiting
+
+
+Keywords by value: 
+- ependymoma: 0.15000336616422597
+- ventricle: 0.12558393402268345
+- â€¢: 0.12290308639967748
+- intraventricular: 0.09736021220110666
+- medulloblastoma: 0.09736021220110666
+- intense: 0.08872664672192367
+- choroid: 0.08551315936692137
+- 4th: 0.0844050768127382
+- papilloma: 0.08419078131210701
+- 34: 0.08315308716594344
+- six: 0.08236074327696546
+- components: 0.08216756099376915
+- plexus: 0.08141332019322414
+- fourth: 0.08104680778122114
+- homogeneous: 0.07931046665687908
+- administration: 0.06956196597849353
+- nausea: 0.06745568659377124
+- headaches: 0.06404788900139761
+- vomiting: 0.06397174194205649
+- non-contributory: 0.061883062906017194
+- recent: 0.056327824487054846
+- radiation: 0.05498531861886934
+- onset: 0.052890612273042155
+- month: 0.05026695178040411
+- cystic: 0.04832613151474036
+- enhancement: 0.04491154443378502
+- metastatic: 0.04217861575717824
+- surgery: 0.04068625616392696
+- man: 0.03962611457039214
+- contrast: 0.037505405623684415
+- disease: 0.02738701061207263
+- mass: 0.02330315699897185
+- history: 0.023141461523668302
+- year: 0.01874716214260617
+- old: 0.01715558033063244
+- and: 0.010588765043071673
+- with: 0.0068825985935229254
+- ,: 0.005308040500338968
+- of: 0.004568776501881899
+- .: 0.0013921386704841675

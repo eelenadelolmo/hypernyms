@@ -1,42 +1,44 @@
-\-\ Texto\\:\\ \ \(0\)\
-\-\ mildly\\ febrile\ \(0\)\
-\-\ patient\\ declined\\ surgical\\ intervetion\\.\\ treatment\\ with\\ antibiotics\\.\ \(0\)\
-\-\ progressive\\ expanding\\ aortic\\ knob\\-ap\\ window\\ contour\\ abnormality\\.\ \(0\)\
-\-\ mycotic\\ aneurysm\ \(9\)\
-\-\ mycotic\\ aneurysm\\.\\ \ \(2\)\
-\-\ traumatic\\ pseudoaneurysm\ \(3\)\
-\-\ 84\\ yo\\ diabetic\\ woman\\ with\\ generalized\\ malaise\\ without\\ a\\ history\\ of\\ recent\\ trauma\\.\ \(1\)\
-\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
-\-\ mycotic\\:\\ 0\\.2778710942972508\ \(0\)\
-\-\ intervetion\\:\\ 0\\.22038796059916246\ \(0\)\
-\-\ knob\\-ap\\:\\ 0\\.22038796059916246\ \(0\)\
-\-\ aneurysm\\:\\ 0\\.16887195575216515\ \(0\)\
-\-\ declined\\:\\ 0\\.14677698612000145\ \(0\)\
-\-\ expanding\\:\\ 0\\.1389355471486254\ \(0\)\
-\-\ 84\\:\\ 0\\.1345382804870338\ \(0\)\
-\-\ malaise\\:\\ 0\\.1337445630291693\ \(0\)\
-\-\ pseudoaneurysm\\:\\ 0\\.12944830660600282\ \(0\)\
-\-\ diabetic\\:\\ 0\\.12754865893155476\ \(0\)\
-\-\ window\\:\\ 0\\.12360793532646519\ \(0\)\
-\-\ febrile\\:\\ 0\\.12309245314639679\ \(0\)\
-\-\ generalized\\:\\ 0\\.11179282505282036\ \(0\)\
-\-\ contour\\:\\ 0\\.1035672397376148\ \(0\)\
-\-\ mildly\\:\\ 0\\.09098421728481673\ \(0\)\
-\-\ traumatic\\:\\ 0\\.08947691152841374\ \(0\)\
-\-\ aortic\\:\\ 0\\.08647330373236214\ \(0\)\
-\-\ progressive\\:\\ 0\\.08443597787608258\ \(0\)\
-\-\ antibiotics\\:\\ 0\\.08024290894176253\ \(0\)\
-\-\ abnormality\\:\\ 0\\.07881394859576381\ \(0\)\
-\-\ recent\\:\\ 0\\.07181797622099494\ \(0\)\
-\-\ yo\\:\\ 0\\.06428378808256906\ \(0\)\
-\-\ trauma\\:\\ 0\\.05842521954394823\ \(0\)\
-\-\ without\\:\\ 0\\.05030032915895401\ \(0\)\
-\-\ woman\\:\\ 0\\.04934757368722266\ \(0\)\
-\-\ surgical\\:\\ 0\\.044905544256286345\ \(0\)\
-\-\ treatment\\:\\ 0\\.043240423990022175\ \(0\)\
-\-\ history\\:\\ 0\\.029505363442677086\ \(0\)\
-\-\ patient\\:\\ 0\\.0214147982729097\ \(0\)\
-\-\ a\\:\\ 0\\.009914995045465032\ \(0\)\
-\-\ with\\:\\ 0\\.0058502088044944875\ \(0\)\
-\-\ \\.\\:\\ 0\\.004437442012168284\ \(0\)\
-\-\ of\\:\\ 0\\.0029125950199497107\ \(0\)\
+Texto: 
+mildly febrile
+patient declined surgical intervetion. treatment with antibiotics.
+progressive expanding aortic knob-ap window contour abnormality.
+mycotic aneurysm
+mycotic aneurysm. 
+traumatic pseudoaneurysm
+84 yo diabetic woman with generalized malaise without a history of recent trauma.
+
+
+Keywords by value: 
+- mycotic: 0.2778710942972508
+- intervetion: 0.22038796059916246
+- knob-ap: 0.22038796059916246
+- aneurysm: 0.16887195575216515
+- declined: 0.14677698612000145
+- expanding: 0.1389355471486254
+- 84: 0.1345382804870338
+- malaise: 0.1337445630291693
+- pseudoaneurysm: 0.12944830660600282
+- diabetic: 0.12754865893155476
+- window: 0.12360793532646519
+- febrile: 0.12309245314639679
+- generalized: 0.11179282505282036
+- contour: 0.1035672397376148
+- mildly: 0.09098421728481673
+- traumatic: 0.08947691152841374
+- aortic: 0.08647330373236214
+- progressive: 0.08443597787608258
+- antibiotics: 0.08024290894176253
+- abnormality: 0.07881394859576381
+- recent: 0.07181797622099494
+- yo: 0.06428378808256906
+- trauma: 0.05842521954394823
+- without: 0.05030032915895401
+- woman: 0.04934757368722266
+- surgical: 0.044905544256286345
+- treatment: 0.043240423990022175
+- history: 0.029505363442677086
+- patient: 0.0214147982729097
+- a: 0.009914995045465032
+- with: 0.0058502088044944875
+- .: 0.004437442012168284
+- of: 0.0029125950199497107

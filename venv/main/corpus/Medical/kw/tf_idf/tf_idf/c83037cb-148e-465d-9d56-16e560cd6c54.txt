@@ -1,130 +1,135 @@
-\-\ Texto\\:\\ \ \(0\)\
-\-\ n\\/a\ \(127\)\
-\-\ treatment\\/followup\\:\\ \\ patient\\ underwent\\ angiography\\ and\\ subsequent\\ aneurysm\\ clipping\\.\ \(0\)\
-\-\ noncontrast\\ ct\\ of\\ the\\ head\\:\\ \\ increased\\ attenuation\\ in\\ the\\ anterior\\ interhemispheric\\ fissure\\.\ \(0\)\
-\-\ mr\\:\\ \\ focal\\ area\\ of\\ enlargement\\ of\\ the\\ flow\\ void\\ in\\ the\\ region\\ of\\ the\\ anterior\\ interhemispheric\\ fissure\\ suspicious\\ for\\ aneurysm\\ of\\ the\\ anterior\\ communicating\\ artery\\.\ \(0\)\
-\-\ mra\\:\\ \\ demontrates\\ 7\\ mm\\ aneurysmal\\ dilatation\\ of\\ the\\ anterior\\ communicating\\ artery\\.\\ \\ also\\ identified\\ was\\ diffuse\\ contour\\ irregularity\\ of\\ the\\ distal\\ mca\\ and\\ posterior\\ circulation\\ suggestive\\ of\\ intracranial\\ atherosclerosis\\.\ \(0\)\
-\-\ subarachnoid\\ hemorrhage\ \(52\)\
-\-\ ruptured\\ 7\\ mm\\ anterior\\ communicating\\ artery\\ aneurysm\ \(0\)\
-\-\ subarachnoid\\ hemorrhage\ \(52\)\
-\-\ vascular\\ malformation\ \(36\)\
-\-\ vascular\\ neoplasm\ \(2\)\
-\-\ 66\\ year\\ old\\ with\\ the\\ worst\\ headache\\ of\\ his\\ life\\ presents\\ to\\ the\\ emergency\\ department\\.\ \(1\)\
-\-\ the\\ hallmark\\ of\\ imaging\\ in\\ an\\ acute\\ subarachnoid\\ hemorrhage\\ is\\ the\\ high\\ attenuation\\ within\\ the\\ csf\\ spaces\\.\\ \\ the\\ initial\\ ct\\ read\\ was\\ negative\\ but\\ in\\ retrospect\\,\\ the\\ obscuration\\ of\\ the\\ anterior\\ interhemispheric\\ fissure\\ was\\ the\\ crucial\\ imaging\\ finding\\.\\ \\ since\\ the\\ neurological\\ symptoms\\ were\\ not\\ explained\\ by\\ ct\\,\\ an\\ mri\\/mra\\ was\\ subsequently\\ performed\\ which\\ made\\ the\\ diagnosis\\.\\ \\ \ \(0\)\
-\-\ major\\ landmarks\\ to\\ evaluate\\ for\\ subarachnoid\\ hemorrhage\\ include\\ the\\ basilar\\ cisterns\\ such\\ as\\ the\\ suprasellar\\ cistern\\,\\ quadrigeminal\\ plate\\ cistern\\,\\ sulci\\,\\ and\\ sylvian\\ fissure\\.\ \(0\)\
-\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
-\-\ fissure\\:\\ 0\\.09072102810632156\ \(0\)\
-\-\ interhemispheric\\:\\ 0\\.08719424918019887\ \(0\)\
-\-\ subarachnoid\\:\\ 0\\.08221939267038478\ \(0\)\
-\-\ communicating\\:\\ 0\\.07729604719785554\ \(0\)\
-\-\ anterior\\:\\ 0\\.06537008387414071\ \(0\)\
-\-\ hemorrhage\\:\\ 0\\.0563219125579413\ \(0\)\
-\-\ aneurysm\\:\\ 0\\.05015998685707875\ \(0\)\
-\-\ cistern\\:\\ 0\\.045218051306110285\ \(0\)\
-\-\ treatment\\/followup\\:\\ 0\\.04020975863072551\ \(0\)\
-\-\ landmarks\\:\\ 0\\.038202505620289054\ \(0\)\
-\-\ artery\\:\\ 0\\.03779004938774553\ \(0\)\
-\-\ crucial\\:\\ 0\\.03567366589867524\ \(0\)\
-\-\ attenuation\\:\\ 0\\.034016050202238\ \(0\)\
-\-\ clipping\\:\\ 0\\.03334691525884486\ \(0\)\
-\-\ demontrates\\:\\ 0\\.03334691525884486\ \(0\)\
-\-\ obscuration\\:\\ 0\\.03334691525884486\ \(0\)\
-\-\ 7\\:\\ 0\\.03241836513671358\ \(0\)\
-\-\ hallmark\\:\\ 0\\.032242244212734916\ \(0\)\
-\-\ mri\\/mra\\:\\ 0\\.032242244212734916\ \(0\)\
-\-\ retrospect\\:\\ 0\\.031770411639446175\ \(0\)\
-\-\ mm\\:\\ 0\\.031110843136584212\ \(0\)\
-\-\ quadrigeminal\\:\\ 0\\.03094341122032159\ \(0\)\
-\-\ explained\\:\\ 0\\.02856928706060928\ \(0\)\
-\-\ sylvian\\:\\ 0\\.028118931722957173\ \(0\)\
-\-\ vascular\\:\\ 0\\.027740626415086105\ \(0\)\
-\-\ worst\\:\\ 0\\.02770615148068464\ \(0\)\
-\-\ read\\:\\ 0\\.02732515622753549\ \(0\)\
-\-\ void\\:\\ 0\\.026971398980099127\ \(0\)\
-\-\ atherosclerosis\\:\\ 0\\.026641243660798772\ \(0\)\
-\-\ cisterns\\:\\ 0\\.02604044733899547\ \(0\)\
-\-\ circulation\\:\\ 0\\.025765349065951848\ \(0\)\
-\-\ mca\\:\\ 0\\.024581043674536833\ \(0\)\
-\-\ sulci\\:\\ 0\\.024176696986347387\ \(0\)\
-\-\ mra\\:\\ 0\\.023713696699165093\ \(0\)\
-\-\ suprasellar\\:\\ 0\\.02305265020102389\ \(0\)\
-\-\ aneurysmal\\:\\ 0\\.022975896802330992\ \(0\)\
-\-\ 66\\:\\ 0\\.022752528310843522\ \(0\)\
-\-\ noncontrast\\:\\ 0\\.022609025653055143\ \(0\)\
-\-\ irregularity\\:\\ 0\\.022609025653055143\ \(0\)\
-\-\ \\:\\:\\ 0\\.022381679524567624\ \(0\)\
-\-\ basilar\\:\\ 0\\.022201906354852315\ \(0\)\
-\-\ ruptured\\:\\ 0\\.022010250353957806\ \(0\)\
-\-\ angiography\\:\\ 0\\.021256088351076525\ \(0\)\
-\-\ plate\\:\\ 0\\.02120256896442199\ \(0\)\
-\-\ spaces\\:\\ 0\\.02084330810880399\ \(0\)\
-\-\ contour\\:\\ 0\\.020508364304478176\ \(0\)\
-\-\ suspicious\\:\\ 0\\.020371475535515257\ \(0\)\
-\-\ imaging\\:\\ 0\\.01982251311342181\ \(0\)\
-\-\ major\\:\\ 0\\.019778400288918124\ \(0\)\
-\-\ was\\:\\ 0\\.0195698519250235\ \(0\)\
-\-\ subsequently\\:\\ 0\\.019177603967114824\ \(0\)\
-\-\ department\\:\\ 0\\.018969860407218625\ \(0\)\
-\-\ life\\:\\ 0\\.018455059845218388\ \(0\)\
-\-\ neurological\\:\\ 0\\.01830457728489972\ \(0\)\
-\-\ dilatation\\:\\ 0\\.018129835789449104\ \(0\)\
-\-\ suggestive\\:\\ 0\\.018072932921004873\ \(0\)\
-\-\ intracranial\\:\\ 0\\.0178787709747015\ \(0\)\
-\-\ ct\\:\\ 0\\.01775203445631747\ \(0\)\
-\-\ csf\\:\\ 0\\.01766581362280204\ \(0\)\
-\-\ evaluate\\:\\ 0\\.017100129991371647\ \(0\)\
-\-\ malformation\\:\\ 0\\.0168730032302296\ \(0\)\
-\-\ made\\:\\ 0\\.01685085332728445\ \(0\)\
-\-\ enlargement\\:\\ 0\\.016784992111312354\ \(0\)\
-\-\ subsequent\\:\\ 0\\.016468221276286197\ \(0\)\
-\-\ emergency\\:\\ 0\\.01601875543554592\ \(0\)\
-\-\ since\\:\\ 0\\.015538438721278301\ \(0\)\
-\-\ n\\/a\\:\\ 0\\.015322805184945974\ \(0\)\
-\-\ identified\\:\\ 0\\.015116173471219413\ \(0\)\
-\-\ headache\\:\\ 0\\.014529630879038604\ \(0\)\
-\-\ underwent\\:\\ 0\\.014515821957812966\ \(0\)\
-\-\ neoplasm\\:\\ 0\\.014406715722336278\ \(0\)\
-\-\ the\\:\\ 0\\.014372450389980898\ \(0\)\
-\-\ initial\\:\\ 0\\.014017733382570832\ \(0\)\
-\-\ flow\\:\\ 0\\.013980464736923347\ \(0\)\
-\-\ finding\\:\\ 0\\.013633967846725156\ \(0\)\
-\-\ mr\\:\\ 0\\.013441581544289278\ \(0\)\
-\-\ area\\:\\ 0\\.013375426951159739\ \(0\)\
-\-\ such\\:\\ 0\\.013224419751687387\ \(0\)\
-\-\ diffuse\\:\\ 0\\.012806967427600568\ \(0\)\
-\-\ negative\\:\\ 0\\.012634258224628091\ \(0\)\
-\-\ his\\:\\ 0\\.012192519938846198\ \(0\)\
-\-\ focal\\:\\ 0\\.012081651505635654\ \(0\)\
-\-\ head\\:\\ 0\\.011998026289969783\ \(0\)\
-\-\ region\\:\\ 0\\.01194852092692729\ \(0\)\
-\-\ include\\:\\ 0\\.01186709647539746\ \(0\)\
-\-\ performed\\:\\ 0\\.011794942233798608\ \(0\)\
-\-\ an\\:\\ 0\\.011699652121630988\ \(0\)\
-\-\ high\\:\\ 0\\.011576960698400078\ \(0\)\
-\-\ distal\\:\\ 0\\.011501379153198153\ \(0\)\
-\-\ symptoms\\:\\ 0\\.010542858796525442\ \(0\)\
-\-\ acute\\:\\ 0\\.01044494717379453\ \(0\)\
-\-\ increased\\:\\ 0\\.010348934563364632\ \(0\)\
-\-\ posterior\\:\\ 0\\.009750685884665588\ \(0\)\
-\-\ diagnosis\\:\\ 0\\.009713957083071385\ \(0\)\
-\-\ were\\:\\ 0\\.00960537790440555\ \(0\)\
-\-\ but\\:\\ 0\\.009022293569472959\ \(0\)\
-\-\ presents\\:\\ 0\\.008641803443108545\ \(0\)\
-\-\ in\\:\\ 0\\.00834449960673772\ \(0\)\
-\-\ also\\:\\ 0\\.008339700958763126\ \(0\)\
-\-\ within\\:\\ 0\\.00806995746725783\ \(0\)\
-\-\ which\\:\\ 0\\.007896755382388855\ \(0\)\
-\-\ for\\:\\ 0\\.007218892560818962\ \(0\)\
-\-\ by\\:\\ 0\\.00704391536259839\ \(0\)\
-\-\ \\,\\:\\ 0\\.00670074419597246\ \(0\)\
-\-\ as\\:\\ 0\\.006398898544030336\ \(0\)\
-\-\ of\\:\\ 0\\.006344266380088479\ \(0\)\
-\-\ not\\:\\ 0\\.006112963721494729\ \(0\)\
-\-\ year\\:\\ 0\\.004733194402341162\ \(0\)\
-\-\ old\\:\\ 0\\.004331359390407201\ \(0\)\
-\-\ patient\\:\\ 0\\.0042405541134474655\ \(0\)\
-\-\ to\\:\\ 0\\.004228397113296894\ \(0\)\
-\-\ is\\:\\ 0\\.0027836177147758695\ \(0\)\
-\-\ and\\:\\ 0\\.002673401075230967\ \(0\)\
-\-\ \\.\\:\\ 0\\.0017574027770963503\ \(0\)\
-\-\ with\\:\\ 0\\.0005792285945044047\ \(0\)\
+Texto: 
+n/a
+treatment/followup:  patient underwent angiography and subsequent aneurysm clipping.
+noncontrast ct of the head:  increased attenuation in the anterior interhemispheric fissure.
+
+mr:  focal area of enlargement of the flow void in the region of the anterior interhemispheric fissure suspicious for aneurysm of the anterior communicating artery.
+
+mra:  demontrates 7 mm aneurysmal dilatation of the anterior communicating artery.  also identified was diffuse contour irregularity of the distal mca and posterior circulation suggestive of intracranial atherosclerosis.
+subarachnoid hemorrhage
+ruptured 7 mm anterior communicating artery aneurysm
+subarachnoid hemorrhage
+vascular malformation
+vascular neoplasm
+66 year old with the worst headache of his life presents to the emergency department.
+the hallmark of imaging in an acute subarachnoid hemorrhage is the high attenuation within the csf spaces.  the initial ct read was negative but in retrospect, the obscuration of the anterior interhemispheric fissure was the crucial imaging finding.  since the neurological symptoms were not explained by ct, an mri/mra was subsequently performed which made the diagnosis.  
+
+major landmarks to evaluate for subarachnoid hemorrhage include the basilar cisterns such as the suprasellar cistern, quadrigeminal plate cistern, sulci, and sylvian fissure.
+
+
+Keywords by value: 
+- fissure: 0.09072102810632156
+- interhemispheric: 0.08719424918019887
+- subarachnoid: 0.08221939267038478
+- communicating: 0.07729604719785554
+- anterior: 0.06537008387414071
+- hemorrhage: 0.0563219125579413
+- aneurysm: 0.05015998685707875
+- cistern: 0.045218051306110285
+- treatment/followup: 0.04020975863072551
+- landmarks: 0.038202505620289054
+- artery: 0.03779004938774553
+- crucial: 0.03567366589867524
+- attenuation: 0.034016050202238
+- clipping: 0.03334691525884486
+- demontrates: 0.03334691525884486
+- obscuration: 0.03334691525884486
+- 7: 0.03241836513671358
+- hallmark: 0.032242244212734916
+- mri/mra: 0.032242244212734916
+- retrospect: 0.031770411639446175
+- mm: 0.031110843136584212
+- quadrigeminal: 0.03094341122032159
+- explained: 0.02856928706060928
+- sylvian: 0.028118931722957173
+- vascular: 0.027740626415086105
+- worst: 0.02770615148068464
+- read: 0.02732515622753549
+- void: 0.026971398980099127
+- atherosclerosis: 0.026641243660798772
+- cisterns: 0.02604044733899547
+- circulation: 0.025765349065951848
+- mca: 0.024581043674536833
+- sulci: 0.024176696986347387
+- mra: 0.023713696699165093
+- suprasellar: 0.02305265020102389
+- aneurysmal: 0.022975896802330992
+- 66: 0.022752528310843522
+- noncontrast: 0.022609025653055143
+- irregularity: 0.022609025653055143
+- :: 0.022381679524567624
+- basilar: 0.022201906354852315
+- ruptured: 0.022010250353957806
+- angiography: 0.021256088351076525
+- plate: 0.02120256896442199
+- spaces: 0.02084330810880399
+- contour: 0.020508364304478176
+- suspicious: 0.020371475535515257
+- imaging: 0.01982251311342181
+- major: 0.019778400288918124
+- was: 0.0195698519250235
+- subsequently: 0.019177603967114824
+- department: 0.018969860407218625
+- life: 0.018455059845218388
+- neurological: 0.01830457728489972
+- dilatation: 0.018129835789449104
+- suggestive: 0.018072932921004873
+- intracranial: 0.0178787709747015
+- ct: 0.01775203445631747
+- csf: 0.01766581362280204
+- evaluate: 0.017100129991371647
+- malformation: 0.0168730032302296
+- made: 0.01685085332728445
+- enlargement: 0.016784992111312354
+- subsequent: 0.016468221276286197
+- emergency: 0.01601875543554592
+- since: 0.015538438721278301
+- n/a: 0.015322805184945974
+- identified: 0.015116173471219413
+- headache: 0.014529630879038604
+- underwent: 0.014515821957812966
+- neoplasm: 0.014406715722336278
+- the: 0.014372450389980898
+- initial: 0.014017733382570832
+- flow: 0.013980464736923347
+- finding: 0.013633967846725156
+- mr: 0.013441581544289278
+- area: 0.013375426951159739
+- such: 0.013224419751687387
+- diffuse: 0.012806967427600568
+- negative: 0.012634258224628091
+- his: 0.012192519938846198
+- focal: 0.012081651505635654
+- head: 0.011998026289969783
+- region: 0.01194852092692729
+- include: 0.01186709647539746
+- performed: 0.011794942233798608
+- an: 0.011699652121630988
+- high: 0.011576960698400078
+- distal: 0.011501379153198153
+- symptoms: 0.010542858796525442
+- acute: 0.01044494717379453
+- increased: 0.010348934563364632
+- posterior: 0.009750685884665588
+- diagnosis: 0.009713957083071385
+- were: 0.00960537790440555
+- but: 0.009022293569472959
+- presents: 0.008641803443108545
+- in: 0.00834449960673772
+- also: 0.008339700958763126
+- within: 0.00806995746725783
+- which: 0.007896755382388855
+- for: 0.007218892560818962
+- by: 0.00704391536259839
+- ,: 0.00670074419597246
+- as: 0.006398898544030336
+- of: 0.006344266380088479
+- not: 0.006112963721494729
+- year: 0.004733194402341162
+- old: 0.004331359390407201
+- patient: 0.0042405541134474655
+- to: 0.004228397113296894
+- is: 0.0027836177147758695
+- and: 0.002673401075230967
+- .: 0.0017574027770963503
+- with: 0.0005792285945044047

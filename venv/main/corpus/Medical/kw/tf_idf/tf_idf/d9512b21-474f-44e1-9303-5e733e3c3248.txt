@@ -1,1341 +1,1376 @@
-\-\ Texto\\:\\ \ \(0\)\
-\-\ patient\\ is\\ a\\ 5\\‚\\Ä\\ô10\\"\\ caucasian\\ male\\ weighing\\ 243\\ pounds\\ \\(bmi\\ 34\\.9\\)\ \(0\)\
-\-\ temperature\\:\\ 98\\.6\\ \\¬\\∞\\ fahrenheit\ \(0\)\
-\-\ bp\\:\\ 114\\/80\\ mmhg\ \(0\)\
-\-\ heart\\ rate\\:\\ 72\\/minute\ \(0\)\
-\-\ respirations\\:\\ 14\\/minute\ \(0\)\
-\-\ o2\\ saturation\\:\\ 99\\%\\ on\\ room\\ air\ \(0\)\
-\-\ patient\\ appears\\ stated\\ age\\.\\ he\\ is\\ alert\\ and\\ oriented\\ to\\ person\\ time\\ and\\ place\\,\\ in\\ no\\ acute\\ distress\\.\\ \ \(0\)\
-\-\ heent\\:\\ normocephalic\\,\\ atraumatic\\.\\ conjunctivae\\ pink\\ with\\ no\\ scleral\\ jaundice\\.\\ no\\ cervical\\ or\\ submandibular\\ lymphadenopathy\\.\\ no\\ thyroid\\ nodules\\ palpated\\.\ \(0\)\
-\-\ pulmonary\\:\\ lungs\\ clear\\ to\\ auscultation\\ bilaterally\\.\ \(0\)\
-\-\ cardiovascular\\:\\ regular\\ rate\\ and\\ rhythm\\,\\ normal\\ s1\\/s2\\,\\ no\\ murmurs\\/rubs\\/gallops\\ appreciated\\.\\ carotid\\,\\ radial\\,\\ and\\ pedal\\ pulses\\ 2\\/4\\ and\\ symmetric\\ bilaterally\\.\\ \ \(0\)\
-\-\ abdomen\\:\\ normal\\ bowel\\ sounds\\ appreciated\\ in\\ all\\ 4\\ quadrants\\.\\ soft\\,\\ nontender\\,\\ nondistended\\.\\ \ \(0\)\
-\-\ neurological\\:\\ cranial\\ nerves\\ ii\\-xii\\ intact\\.\\ cerebellar\\ function\\ intact\\.\\ patellar\\ and\\ achilles\\ reflexes\\ 2\\/5\\ and\\ symmetric\\ bilaterally\\.\\ decreased\\ sensation\\ to\\ light\\ touch\\ of\\ the\\ upper\\ extremities\\ bilaterally\\ in\\ the\\ distribution\\ of\\ c6\\-c8\\.\\ decreased\\ sensation\\ to\\ light\\ touch\\ of\\ the\\ lower\\ extremities\\ bilaterally\\ in\\ the\\ distribution\\ of\\ l3\\-s1\\.\ \(0\)\
-\-\ musculoskeletal\\:\ \(0\)\
-\-\ inspection\\:\\ right\\ ankle\\ is\\ mildly\\ swollen\\ compared\\ to\\ the\\ left\\.\\ there\\ are\\ small\\ areas\\ of\\ erythema\\ on\\ the\\ anterior\\ aspect\\ of\\ the\\ right\\ ankle\\ consistent\\ with\\ a\\ rash\\.\ \(0\)\
-\-\ palpation\\:\\ palpation\\ of\\ tibial\\ and\\ fibular\\ heads\\ does\\ not\\ illicit\\ pain\\ bilaterally\\.\\ palpation\\ of\\ the\\ left\\ ankle\\ did\\ not\\ illicit\\ any\\ pain\\.\\ severe\\ pain\\ with\\ palpation\\ of\\ the\\ medial\\ and\\ lateral\\ malleoli\\,\\ talus\\,\\ and\\ navicular\\.\\ \ \(0\)\
-\-\ rom\\:\\ left\\ ankle\\ active\\ and\\ passive\\ rom\\ within\\ normal\\ limits\\ in\\ dorsiflexion\\,\\ plantarflexion\\,\\ inversion\\,\\ and\\ eversion\\.\\ right\\ ankle\\ active\\ and\\ passive\\ rom\\ decreased\\ secondary\\ to\\ pain\\ in\\ dorsiflexion\\,\\ plantarflexion\\,\\ inversion\\,\\ and\\ eversion\\.\ \(0\)\
-\-\ talar\\ tilt\\ test\\:\\ right\\ ankle\\ positive\\,\\ pain\ \(0\)\
-\-\ anterior\\ drawer\\ test\\:\\ right\\ ankle\\ pain\\ but\\ no\\ increased\\ laxity\\ \\ \ \(0\)\
-\-\ strength\\:\\ 5\\/5\\ in\\ the\\ left\\ lower\\ extremity\\:\\ psoas\\,\\ quadriceps\\,\\ hamstring\\,\\ tibialis\\ anterior\\,\\ and\\ gastrocnemius\\.\\ 4\\/5\\ in\\ the\\ right\\ lower\\ extremity\\:\\ psoas\\,\\ quadriceps\\,\\ hamstring\\,\\ tibialis\\ anterior\\,\\ and\\ gastrocnemius\\.\\ \\ \\ \ \(0\)\
-\-\ a\\ computerized\\ force\\ gauge\\ was\\ utilized\\ and\\ demonstrated\\ weakness\\ on\\ the\\ right\\ side\\ as\\ noted\\ below\\:\ \(0\)\
-\-\ movement\\	right\\ avg\\.\\ force\\ \\(lbs\\.\\)\\	left\\ avg\\.\\ force\\ \\(lbs\\.\\)\\	deficit\ \(0\)\
-\-\ hallux\\ extension\\	6\\.2\\	24\\.2\\	right\\ \\-74\\.6\\%\ \(0\)\
-\-\ hallux\\ flexion\\	25\\.6\\	43\\.7\\	right\\ \\-41\\.4\\%\ \(0\)\
-\-\ postural\\ evaluation\\ reveals\\ the\\ patient\\ standing\\ with\\ cane\\ in\\ right\\ hand\ \(0\)\
-\-\ gait\\:\\ patient\\ walks\\ slowly\\ with\\ an\\ obvious\\ limp\\,\\ favors\\ the\\ left\\ lower\\ extremity\\.\\ he\\ is\\ unable\\ to\\ heel\\ walk\\,\\ toe\\ walk\\,\\ or\\ heel\\-to\\-toe\\ walk\\ secondary\\ to\\ pain\\ in\\ the\\ right\\ ankle\\ and\\ inability\\ to\\ maintain\\ balance\\.\ \(0\)\
-\-\ patient\\ is\\ able\\ to\\ hop\\ on\\ his\\ left\\ foot\\ but\\ is\\ unable\\ to\\ do\\ so\\ with\\ the\\ right\\ secondary\\ to\\ pain\\.\ \(0\)\
-\-\ electromyography\\:\\ findings\\ of\\ prolonged\\ right\\ tibial\\ h\\ reflex\\ consistent\\ with\\ right\\ s1\\ radiculopathy\\.\\ there\\ is\\ no\\ electrodiagnostic\\ evidence\\ of\\ peripheral\\ nerve\\ entrapment\\ or\\ neuropathy\\ in\\ the\\ right\\ lower\\ limb\ \(0\)\
-\-\ at\\ this\\ time\\ the\\ patient\\ does\\ not\\ take\\ any\\ medications\\ for\\ the\\ pain\\.\\ he\\ has\\ tried\\ ibuprofen\\,\\ heat\\,\\ ice\\,\\ and\\ physical\\ therapy\\ but\\ they\\ have\\ not\\ been\\ effective\\.\\ the\\ patients\\‚\\Ä\\ô\\ complaints\\ are\\ being\\ managed\\ by\\ a\\ chiropractor\\ much\\ like\\ a\\ primary\\ care\\ practitioner\\ for\\ the\\ accident\\.\\ \\ the\\ current\\ orthopedic\\ surgeon\\ ordered\\ the\\ mri\\ of\\ the\\ ankle\\.\\ \\ however\\,\\ on\\ repeat\\ evaluation\\ such\\ orthopedist\\ indicated\\ that\\ surgery\\ to\\ the\\ ankle\\ of\\ this\\ type\\ is\\ not\\ an\\ area\\ of\\ specialty\\ for\\ him\\.\\ as\\ such\\ the\\ chiropractor\\ is\\ currently\\ referring\\ him\\ to\\ an\\ orthopedic\\ surgeon\\ that\\ specializes\\ in\\ the\\ ankle\\.\ \(0\)\
-\-\ figure\\ 1\\.\\ t2\\-weighted\\ mri\\ images\\ with\\ midline\\ coronal\\ view\\ and\\ axial\\ cut\\ through\\ the\\ right\\ tibiotalar\\ joint\\.\\ there\\ is\\ a\\ 4mm\\ osteochondral\\ defect\\ present\\ at\\ the\\ lateral\\ aspect\\ of\\ the\\ talar\\ dome\\.\\ study\\ performed\\ one\\ month\\ prior\\ to\\ mvc\\.\ \(0\)\
-\-\ figure\\ 2\\.\\ t2\\-weighted\\ mri\\ images\\ with\\ midline\\ coronal\\ view\\ and\\ sagittal\\ cut\\ through\\ the\\ right\\ tibiotalar\\ joint\\.\\ there\\ is\\ a\\ 4mm\\ osteochondral\\ defect\\ present\\ at\\ the\\ lateral\\ aspect\\ of\\ the\\ talar\\ dome\\.\\ study\\ performed\\ one\\ month\\ prior\\ to\\ mvc\\.\ \(0\)\
-\-\ figure\\ 3\\.\\ t2\\-weighted\\ mri\\ images\\ with\\ midline\\ coronal\\ view\\ and\\ axial\\ cut\\ through\\ the\\ right\\ tibiotalar\\ joint\\.\\ there\\ is\\ a\\ minimally\\ worsened\\ 5mm\\ osteochondral\\ defect\\ present\\ at\\ the\\ lateral\\ aspect\\ of\\ the\\ talar\\ dome\\.\\ study\\ performed\\ three\\ months\\ after\\ mvc\\.\ \(0\)\
-\-\ figure\\ 4\\.\\ ct\\ of\\ right\\ ankle\\ with\\ coronal\\ view\\.\\ there\\ is\\ a\\ 4mm\\ subchondral\\ cyst\\ in\\ the\\ lateral\\ aspect\\ of\\ the\\ talus\\.\\ study\\ performed\\ four\\ months\\ after\\ mvc\\.\ \(0\)\
-\-\ figure\\ 5\\.\\ ct\\ of\\ right\\ ankle\\ with\\ sagittal\\ view\\.\\ there\\ is\\ a\\ 4mm\\ subchondral\\ cyst\\ in\\ the\\ lateral\\ aspect\\ of\\ the\\ talus\\.\\ study\\ performed\\ four\\ months\\ after\\ mvc\\.\ \(0\)\
-\-\ figure\\ 6\\.\\ ct\\ of\\ right\\ ankle\\ with\\ coronal\\ view\\ and\\ axial\\ cut\\.\\ there\\ is\\ a\\ 4mm\\ subchondral\\ cyst\\ in\\ the\\ lateral\\ aspect\\ of\\ the\\ talus\\.\\ study\\ performed\\ four\\ months\\ after\\ mvc\\.\ \(0\)\
-\-\ figure\\ 7\\.\\ t2\\-weighted\\ mri\\ images\\ of\\ the\\ lumbar\\ spine\\ with\\ midline\\ sagittal\\ view\\ and\\ axial\\ cut\\ through\\ l2\\-l3\\ disc\\ space\\.\\ \\ there\\ is\\ disc\\ desiccation\\ without\\ canal\\ encroachment\\.\\ \ \(0\)\
-\-\ figure\\ 8\\.\\ t2\\-weighted\\ mri\\ images\\ of\\ the\\ lumbar\\ spine\\ with\\ midline\\ sagittal\\ view\\ and\\ axial\\ cut\\ through\\ l3\\-l4\\ disc\\ space\\.\\ \\ appears\\ to\\ be\\ normal\\ with\\ no\\ evidence\\ of\\ disc\\ herniation\\,\\ canal\\ stenosis\\,\\ foraminal\\ narrowing\\,\\ or\\ arthritic\\ change\\.\ \(0\)\
-\-\ figure\\ 9\\.\\ t2\\-weighted\\ mri\\ images\\ of\\ the\\ lumbar\\ spine\\ with\\ midline\\ sagittal\\ view\\ and\\ axial\\ cut\\ through\\ l4\\-l5\\ disc\\ space\\.\\ there\\ is\\ disc\\ desiccation\\ with\\ a\\ mild\\ bulge\\ of\\ the\\ annulus\\.\ \(0\)\
-\-\ figure\\ 10\\.\\ t2\\-weighted\\ mri\\ images\\ of\\ the\\ lumbar\\ spine\\ with\\ midline\\ sagittal\\ view\\ and\\ axial\\ cut\\ through\\ l5\\-s1\\ disc\\ space\\.\\ there\\ is\\ a\\ small\\ central\\ disc\\ bulge\\ and\\ mild\\ facet\\ arthropathy\\.\ \(0\)\
-\-\ osteoarthritis\\ with\\ subchondral\\ cyst\\ and\\ intra\\-articular\\ fragment\ \(0\)\
-\-\ 1\\.\\	osteochondritis\\ dessicans\ \(0\)\
-\-\ 2\\.\\	osteoarthritis\\ with\\ subchondral\\ cyst\\ and\\ intra\\-articular\\ fragment\ \(0\)\
-\-\ 3\\.\\	peripheral\\ nerve\\ entrapment\\ \ \(0\)\
-\-\ 4\\.\\	lumbar\\ radiculopathy\ \(0\)\
-\-\ patient\\ reports\\ that\\ the\\ right\\ ankle\\ pain\\ began\\ after\\ a\\ motor\\ vehicle\\ collision\\ when\\ a\\ truck\\ with\\ a\\ ball\\ hitch\\ crossed\\ into\\ his\\ lane\\ snagging\\ his\\ front\\ bumper\\ with\\ the\\ ball\\ resulting\\ in\\ eventual\\ impact\\ to\\ the\\ front\\ of\\ his\\ vehicle\\ when\\ the\\ truck\\ stopped\\.\\ \\ the\\ air\\ bags\\ deployed\\ and\\ the\\ patient\\ states\\ that\\ his\\ car\\ was\\ \\‚\\Ä\\útotaled\\.\\‚\\Ä\\ù\\ patient\\ admits\\ to\\ loss\\ of\\ consciousness\\ during\\ the\\ accident\\,\\ which\\ was\\ regained\\ while\\ the\\ patient\\ was\\ still\\ in\\ the\\ vehicle\\.\\ he\\ was\\ wearing\\ his\\ seatbelt\\.\ \(0\)\
-\-\ the\\ onset\\ of\\ right\\ ankle\\ pain\\ was\\ immediate\\.\\ at\\ this\\ time\\ the\\ pain\\ is\\ constant\\,\\ 4\\/10\\ at\\ baseline\\,\\ worsening\\ to\\ 10\\/10\\ with\\ any\\ form\\ of\\ exertion\\ involving\\ the\\ right\\ leg\\.\\ the\\ pain\\ is\\ described\\ as\\ sharp\\ and\\ \\‚\\Ä\\ústabbing\\,\\ like\\ a\\ knife\\‚\\Ä\\ù\\ and\\ has\\ not\\ changed\\ in\\ character\\ since\\ the\\ accident\\.\\ after\\ the\\ mvc\\ the\\ patient\\ was\\ taken\\ to\\ a\\ local\\ hospital\\ where\\ he\\ had\\ a\\ radiograph\\ of\\ the\\ ankle\\ performed\\.\\ he\\ cannot\\ remember\\ the\\ results\\ of\\ this\\ study\\ and\\ it\\ is\\ not\\ available\\ to\\ us\\.\\ the\\ patient\\ was\\ discharged\\ with\\ ibuprofen\\ 800mg\\ which\\ the\\ patient\\ took\\ once\\,\\ citing\\ no\\ relief\\ of\\ pain\\ and\\ nausea\\.\\ he\\ has\\ tried\\ heat\\,\\ ice\\,\\ and\\ went\\ to\\ physical\\ therapy\\ for\\ one\\ month\\ in\\ attempt\\ to\\ relieve\\ the\\ pain\\ with\\ no\\ success\\.\\ the\\ patient\\ reports\\ that\\ he\\ is\\ only\\ able\\ to\\ get\\ a\\ few\\ hours\\ of\\ sleep\\ each\\ night\\ as\\ he\\ wakes\\ up\\ every\\ few\\ hours\\ with\\ right\\ ankle\\ pain\\.\\ he\\ admits\\ to\\ having\\ numbness\\ and\\ tingling\\ in\\ the\\ right\\ lower\\ extremity\\,\\ starting\\ in\\ the\\ back\\ and\\ traveling\\ down\\ his\\ leg\\ to\\ the\\ ankle\\.\\ the\\ patient\\ also\\ suffered\\ neck\\ and\\ lower\\ back\\ injuries\\ with\\ the\\ collision\\.\ \(0\)\
-\-\ of\\ note\\,\\ the\\ patient\\ reports\\ participating\\ in\\ mixed\\ martial\\ arts\\ for\\ eleven\\ years\\.\\ he\\ also\\ reports\\ that\\ he\\ suffered\\ lower\\ back\\,\\ right\\ shoulder\\,\\ and\\ wrist\\ injuries\\ after\\ being\\ struck\\ by\\ a\\ vehicle\\ as\\ a\\ pedestrian\\ in\\ 2007\\.\\ the\\ patient\\ had\\ a\\ prior\\ mri\\ of\\ the\\ right\\ ankle\\ one\\ month\\ before\\ the\\ mvc\\ in\\ 2016\\,\\ for\\ a\\ \\‚\\Ä\\úrash\\ on\\ my\\ ankle\\ that\\ was\\ draining\\ pus\\.\\‚\\Ä\\ù\\ he\\ denies\\ any\\ previous\\ ankle\\ trauma\\ or\\ right\\ ankle\\ pain\\.\ \(0\)\
-\-\ past\\ medical\\ history\\:\\ \ \(0\)\
-\-\ asthma\\:\\ managed\\ with\\ albuterol\\ and\\ advair\\ \\(fluticasone\\/salmeterol\\)\ \(0\)\
-\-\ hypercholesterolemia\\:\\ managed\\ with\\ two\\ medications\\,\\ patient\\ is\\ unsure\\ of\\ which\\ \ \(0\)\
-\-\ no\\ known\\ food\\ or\\ drug\\ allergies\\ \ \(0\)\
-\-\ past\\ surgical\\ history\\:\\ \ \(0\)\
-\-\ bilateral\\ ulnar\\ nerve\\ entrapment\\:\\ twice\\ for\\ each\\ extremity\ \(0\)\
-\-\ bilateral\\ carpal\\ tunnel\\ release\ \(0\)\
-\-\ rotator\\ cuff\\ repair\\ \ \(2\)\
-\-\ vasectomy\ \(2\)\
-\-\ social\\ history\\:\\ 14\\ pack\\ year\\ smoker\\,\\ denies\\ use\\ of\\ any\\ other\\ illicit\\ drugs\\ including\\ marijuana\\,\\ cocaine\\,\\ heroin\\,\\ and\\ ecstasy\\.\\ he\\ lives\\ in\\ a\\ home\\ with\\ his\\ aunt\\.\\ he\\ has\\ not\\ been\\ employed\\ for\\ some\\ time\\,\\ but\\ has\\ worked\\ in\\ construction\\ in\\ the\\ past\\.\\ \ \(0\)\
-\-\ family\\ history\\:\\ no\\ known\\ familial\\ illness\ \(0\)\
-\-\ case\\ contributors\\:\\ luis\\ gude\\ msiv\\,\\ frank\\ mascaro\\,\\ md\\;\\ randall\\ loftus\\,\\ md\\;\\ joanna\\ garvey\\,\\ dc\\;\\ robert\\ lutnick\\,\\ md\\;\\ scott\\ croce\\,\\ dc\\;\\ gary\\ smith\\,\\ dc\\;\\ krishnan\\ kartha\\,\\ md\\;\\ joseph\\ serghany\\,\\ md\\;\\ charles\\ tirone\\,\\ md\\,\\ vaseem\\ iqbal\\,\\ md\\;\\ jennifer\\ sperrazza\\,\\ dc\\;\\ jeffrey\\ lieberman\\,\\ md\\;\\ geoffrey\\ gerow\\,\\ dc\\.\\ \\ \ \(0\)\
-\-\ to\\ listen\\ to\\ luis\\ gude\\ discuss\\ this\\ case\\ highlight\\ this\\ link\\ https\\:\\/\\/youtu\\.be\\/m2udy2gv7ku\\.\\ then\\ use\\ your\\ right\\ mouse\\ click\\ and\\ click\\ the\\ \\"go\\ to\\"\\ option\\.\\ this\\ will\\ take\\ you\\ right\\ to\\ the\\ video\\.\ \(0\)\
-\-\ the\\ first\\ description\\ of\\ an\\ osteochondral\\ defect\\ of\\ the\\ talus\\ in\\ literature\\ was\\ by\\ alexander\\ monro\\ in\\ 1738\\ where\\ he\\ reported\\ findings\\ of\\ ossified\\ cartilage\\ within\\ the\\ joint\\ space\\.\\ \\ \\[1\\]\\ since\\ their\\ discovery\\ many\\ terms\\ have\\ been\\ used\\ to\\ describe\\ osteochondral\\ lesions\\,\\ including\\ osteochondritis\\ dissecans\\ \\(ocd\\)\\,\\ osteochondral\\ fracture\\,\\ transchondral\\ talus\\ fracture\\,\\ and\\ subchondral\\ cyst\\.\\ \\[2\\]\\ the\\ term\\ ocd\\ was\\ first\\ used\\ by\\ franz\\ konig\\ in\\ 1887\\ for\\ description\\ of\\ loose\\ bodies\\ within\\ joints\\,\\ including\\ the\\ elbow\\,\\ knee\\,\\ ankle\\,\\ and\\ hip\\.\\ konig\\ believed\\ that\\ the\\ separation\\ of\\ fragments\\ was\\ secondary\\ to\\ dissecting\\ inflammation\\.\\ \\[3\\]\\ however\\,\\ more\\ recent\\ histological\\ evaluations\\ do\\ not\\ support\\ an\\ inflammatory\\ etiology\\ making\\ ocd\\ a\\ misnomer\\ for\\ these\\ lesions\\.\\ \\[4\\]\\ despite\\ this\\,\\ in\\ an\\ attempt\\ to\\ standardize\\ language\\ used\\ in\\ the\\ discussion\\ of\\ osteochondral\\ lesions\\,\\ the\\ research\\ in\\ osteochondritis\\ dissecans\\ of\\ the\\ knee\\ \\(rock\\)\\ group\\ defined\\ ocd\\ as\\ a\\ focal\\,\\ idiopathic\\ alteration\\ of\\ subchondral\\ bone\\ with\\ risk\\ for\\ instability\\ and\\ disruption\\ of\\ adjacent\\ articular\\ cartilage\\ that\\ may\\ result\\ in\\ premature\\ osteoarthritis\\.\\ \\[5\\]\ \(0\)\
-\-\ a\\ classification\\ for\\ transchondral\\ fractures\\ of\\ the\\ talus\\ was\\ developed\\ by\\ berndt\\ and\\ harty\\ in\\ 1959\\ using\\ radiographic\\ findings\\,\\ and\\ has\\ since\\ been\\ used\\ widely\\ to\\ describe\\ osteochondral\\ defects\\.\\ \\[6\\]\\ stage\\ i\\ lesions\\ represent\\ areas\\ of\\ intact\\ articular\\ cartilage\\ with\\ underlying\\ subchondral\\ bone\\ compression\\ and\\ are\\ usually\\ visible\\ on\\ magnetic\\ resonance\\ imaging\\ \\(mri\\)\\ but\\ not\\ radiographs\\.\\ stage\\ ii\\ lesions\\ have\\ an\\ osteochondral\\ fragment\\ that\\ is\\ partially\\ detached\\.\\ stage\\ iii\\ lesions\\ have\\ an\\ osteochondral\\ fragment\\ that\\ is\\ completely\\ detached\\ but\\ without\\ displacement\\,\\ while\\ stage\\ iv\\ lesions\\ are\\ displaced\\.\\ this\\ system\\ was\\ expanded\\ by\\ scranton\\ and\\ mcdermott\\ to\\ include\\ subchondral\\ cysts\\,\\ stage\\ v\\ lesions\\,\\ in\\ 2001\\.\\ \\[7\\]\\ other\\ classification\\ systems\\ have\\ also\\ been\\ developed\\ using\\ mri\\,\\ computed\\ tomography\\ \\(ct\\)\\ imaging\\,\\ and\\ arthroscopic\\ appearance\\.\\ \\[8\\,\\ 9\\,\\ 10\\,\\ 11\\]\ \(0\)\
-\-\ the\\ exact\\ etiology\\ of\\ osteochondral\\ lesions\\ is\\ currently\\ unknown\\.\\ it\\ likely\\ involves\\ some\\ sort\\ of\\ trauma\\,\\ either\\ an\\ acute\\ injury\\ or\\ repeated\\ microtrauma\\,\\ in\\ combination\\ with\\ ankle\\ instability\\,\\ vascular\\ insufficiency\\,\\ or\\ genetic\\ predisposition\\.\\ \\[4\\]\\ lateral\\ talar\\ lesions\\ are\\ associated\\ with\\ trauma\\ almost\\ universally\\,\\ while\\ up\\ to\\ 82\\%\\ of\\ medial\\ lesions\\ have\\ been\\ associated\\ with\\ trauma\\.\\ \\[2\\]\\ the\\ patient\\ provides\\ a\\ history\\ of\\ repetitive\\ microtrauma\\ to\\ the\\ feet\\ secondary\\ to\\ his\\ participation\\ in\\ mma\\,\\ in\\ addition\\ to\\ the\\ acute\\ trauma\\ sustained\\ in\\ the\\ mvc\\.\\ \ \(0\)\
-\-\ the\\ mechanism\\ of\\ injury\\ to\\ the\\ ankle\\ may\\ determine\\ in\\ which\\ area\\ of\\ the\\ talus\\ an\\ osteochondral\\ defect\\ may\\ form\\.\\ medial\\ lesions\\ tend\\ to\\ be\\ slightly\\ more\\ common\\ \\(54\\.5\\%\\)\\,\\ than\\ lateral\\ lesions\\ \\(31\\.2\\%\\)\\.\\ \\[17\\]\\ generally\\,\\ medial\\ lesions\\ are\\ positioned\\ more\\ posterior\\ and\\ central\\,\\ and\\ tend\\ to\\ be\\ larger\\,\\ cup\\-shaped\\,\\ and\\ deep\\.\\ lateral\\ lesions\\ are\\ more\\ anterior\\ and\\ are\\ often\\ small\\ and\\ shallow\\.\\ these\\ lateral\\ lesions\\ tend\\ to\\ be\\ wafer\\-shaped\\ and\\ are\\ more\\ likely\\ to\\ displace\\ than\\ medial\\ lesions\\.\\ \\[18\\]\\ the\\ patient\\ does\\ have\\ a\\ lateral\\ lesion\\,\\ with\\ ct\\ evidence\\ of\\ a\\ bony\\ fragment\\ within\\ the\\ joint\\ space\\.\\ it\\ is\\ likely\\ that\\ this\\ fragment\\ became\\ displaced\\ after\\ the\\ mvc\\ given\\ the\\ immediate\\ onset\\ of\\ ankle\\ pain\\ after\\ the\\ accident\\.\\ \ \(0\)\
-\-\ like\\ many\\ patients\\ with\\ osteochondral\\ lesions\\ of\\ the\\ talus\\,\\ the\\ patients\\‚\\Ä\\ô\\ initial\\ presentation\\ of\\ diffuse\\ ankle\\ pain\\ with\\ swelling\\,\\ decreased\\ strength\\,\\ and\\ decreased\\ range\\ of\\ motion\\ was\\ nonspecific\\.\\ the\\ most\\ common\\ and\\ initial\\ complaint\\ in\\ patients\\ with\\ talar\\ osteochondral\\ lesions\\ is\\ ankle\\ pain\\,\\ reported\\ in\\ 95\\-97\\%\\ of\\ patients\\.\\ 15\\-49\\%\\ of\\ patients\\ report\\ swelling\\ of\\ the\\ ankle\\ \\[10\\,\\ 11\\]\\,\\ locking\\ in\\ 8\\%\\ \\[13\\]\\,\\ joint\\ instability\\,\\ and\\ decreased\\ strength\\.\\ loomer\\ et\\ al\\ reported\\ 50\\%\\ of\\ patients\\ had\\ decreased\\ dorsiflexion\\,\\ while\\ 20\\%\\ had\\ loss\\ of\\ subtalar\\ motion\\ \\[10\\]\\.\\ our\\ patients\\‚\\Ä\\ô\\ symptoms\\ worsened\\ with\\ weight\\ bearing\\ and\\ activity\\ which\\ is\\ typical\\ for\\ these\\ types\\ of\\ injuries\\.\\ \\[14\\]\ \(0\)\
-\-\ given\\ the\\ nonspecific\\ presentation\\ of\\ osteochondral\\ lesions\\ of\\ the\\ talus\\,\\ the\\ first\\ imaging\\ study\\ performed\\ is\\ usually\\ a\\ simple\\ radiograph\\ with\\ three\\ views\\ of\\ the\\ ankle\\ \\(ap\\,\\ lateral\\,\\ and\\ mortise\\)\\ with\\ weight\\ bearing\\ as\\ tolerated\\.\\ early\\ lesions\\ may\\ show\\ flattening\\ or\\ indistinct\\ radiolucency\\ of\\ the\\ cortical\\ surface\\.\\ as\\ the\\ defect\\ progresses\\,\\ the\\ contour\\ abnormalities\\ may\\ become\\ more\\ pronounced\\,\\ the\\ area\\ may\\ show\\ fragmentation\\,\\ density\\ changes\\ \\(both\\ lucency\\ and\\ sclerosis\\)\\,\\ or\\ an\\ intra\\-articular\\ fragment\\ may\\ be\\ seen\\.\\ \\[19\\]\\ while\\ plain\\ radiographs\\ may\\ be\\ able\\ to\\ visualize\\ some\\ osteochondral\\ lesions\\,\\ they\\ may\\ not\\ identify\\ up\\ to\\ 43\\%\\ of\\ defects\\ as\\ they\\ are\\ unable\\ to\\ visualize\\ non\\-calcified\\ cartilaginous\\ structures\\,\\ particularly\\ stage\\ i\\ lesions\\.\\ \\[20\\,\\ 21\\,\\ 22\\]\\ as\\ such\\,\\ if\\ an\\ osteochondral\\ defect\\ is\\ suspected\\,\\ mri\\ or\\ ct\\ are\\ the\\ preferred\\ imaging\\ modalities\\ for\\ both\\ diagnosis\\ and\\ pre\\-surgical\\ planning\\.\\ \ \(0\)\
-\-\ for\\ most\\ cases\\,\\ mri\\ is\\ preferred\\ as\\ it\\ allows\\ for\\ evaluation\\ of\\ cartilaginous\\ defects\\ \\(including\\ stage\\ i\\ lesions\\)\\ with\\ high\\ sensitivity\\ \\(96\\%\\)\\ and\\ specificity\\ \\(96\\%\\)\\.\\ \\[20\\]\\ mri\\ may\\ also\\ be\\ preferred\\ in\\ cases\\ where\\ damage\\ to\\ soft\\ tissue\\ structures\\ like\\ ankle\\ ligaments\\ is\\ suspected\\.\\ t1\\ weighted\\ images\\ of\\ osteochondral\\ lesions\\ and\\ fragments\\ generally\\ have\\ variable\\ signal\\.\\ on\\ t2\\,\\ the\\ defect\\ is\\ filled\\ with\\ high\\ signal\\ fluid\\,\\ and\\ loose\\ bodies\\ are\\ low\\ signal\\ surrounded\\ by\\ high\\ signal\\ fluid\\.\\ subchondral\\ cysts\\ have\\ large\\ edematous\\ areas\\ on\\ t2\\ weighted\\ images\\,\\ probably\\ secondary\\ to\\ forced\\ synovial\\ fluid\\ intrusion\\ through\\ a\\ bony\\ defect\\.\\ \\[7\\]\\ however\\,\\ mri\\ may\\ overestimate\\ the\\ extent\\ of\\ osteochondral\\ lesions\\,\\ and\\ a\\ high\\ signal\\ line\\ in\\ the\\ bone\\ may\\ represent\\ a\\ false\\ positive\\ secondary\\ to\\ edema\\.\\ \\[23\\]\\ mri\\ also\\ has\\ high\\ sensitivity\\ \\(92\\%\\)\\ and\\ specificity\\ \\(90\\%\\)\\ in\\ detection\\ of\\ separated\\ osteochondral\\ fragments\\.\\ \\[19\\]\\ ct\\ may\\ be\\ preferred\\ in\\ cases\\ where\\ additional\\ evaluation\\ of\\ bony\\ structures\\ is\\ needed\\,\\ or\\ in\\ patients\\ in\\ which\\ mri\\ is\\ contraindicated\\ \\(metallic\\ foreign\\ objects\\,\\ defibrillators\\,\\ pacemakers\\,\\ etc\\.\\)\\ ct\\ also\\ allows\\ for\\ detailed\\ evaluation\\ of\\ osseous\\ structures\\,\\ including\\ bony\\ fragments\\,\\ and\\ providing\\ more\\ accurate\\ measurements\\ of\\ lesion\\ size\\ and\\ depth\\.\\ findings\\ on\\ ct\\ are\\ similar\\ to\\ that\\ of\\ plain\\ radiographs\\,\\ and\\ are\\ also\\ limited\\ by\\ the\\ inability\\ to\\ evaluate\\ cartilaginous\\ structures\\.\\ \\[24\\]\ \(0\)\
-\-\ evaluation\\ of\\ the\\ mri\\ of\\ the\\ patients\\‚\\Ä\\ô\\ right\\ ankle\\ before\\ the\\ accident\\ reveals\\ a\\ 4mm\\ osteochondral\\ defect\\ of\\ the\\ talar\\ dome\\ that\\ fills\\ with\\ increased\\ signal\\ on\\ t2\\ with\\ no\\ evidence\\ of\\ intra\\-articular\\ fragments\\.\\ this\\ suggests\\ communication\\ of\\ the\\ defect\\ with\\ the\\ joint\\ space\\,\\ consistent\\ with\\ a\\ subchondral\\ cyst\\.\\ these\\ findings\\ indicate\\ that\\ the\\ lesion\\ is\\ likely\\ secondary\\ to\\ previous\\ trauma\\,\\ likely\\ from\\ his\\ participation\\ in\\ mma\\.\\ evaluation\\ of\\ the\\ mri\\ taken\\ after\\ the\\ accident\\ shows\\ a\\ small\\ increase\\ in\\ the\\ size\\ of\\ the\\ osteochondral\\ defect\\ with\\ no\\ evidence\\ of\\ intra\\-articular\\ fragments\\.\\ a\\ subsequent\\ ct\\,\\ a\\ necessary\\ evaluation\\,\\ showed\\ the\\ same\\ osteochondral\\ defect\\ with\\ an\\ intra\\-articular\\ calcified\\ fragment\\,\\ likely\\ bone\\.\\ as\\ there\\ is\\ no\\ previous\\ ct\\ of\\ the\\ ankle\\,\\ it\\ is\\ difficult\\ to\\ say\\ with\\ certainty\\ if\\ this\\ fragment\\ was\\ displaced\\ as\\ a\\ result\\ of\\ the\\ accident\\,\\ but\\ is\\ likely\\ given\\ the\\ sudden\\ onset\\ of\\ pain\\ after\\ the\\ mvc\\.\\ \ \(0\)\
-\-\ at\\ this\\ time\\,\\ there\\ have\\ been\\ no\\ randomized\\ control\\ trials\\ to\\ determine\\ which\\ therapy\\ is\\ most\\ appropriate\\ for\\ talar\\ osteochondral\\ defects\\.\\ \\[25\\]\\ most\\ of\\ the\\ data\\ available\\ comes\\ from\\ small\\ studies\\ which\\ have\\ been\\ further\\ compiled\\ and\\ analyzed\\ in\\ systematic\\ reviews\\.\\ the\\ treatment\\ options\\ fall\\ under\\ two\\ broad\\ categories\\,\\ non\\-operative\\ and\\ surgical\\.\\ generally\\,\\ the\\ initial\\ method\\ of\\ treatment\\ is\\ determined\\ by\\ the\\ berndt\\ \\‚\\Ä\\ìharty\\ stage\\ of\\ the\\ lesion\\.\\ nonoperative\\ therapies\\ should\\ be\\ the\\ initial\\ choice\\ for\\ stage\\ i\\ and\\ ii\\ lesions\\.\\ \\[26\\]\\ these\\ therapies\\ are\\ typically\\ tried\\ for\\ up\\ to\\ one\\ year\\ and\\ include\\ bracing\\,\\ immobilization\\,\\ physical\\ therapy\\,\\ oral\\ steroids\\ or\\ nonsteroidal\\ anti\\-inflammatory\\ drugs\\ \\(nsaids\\)\\,\\ and\\ injection\\ of\\ steroids\\ or\\ hyaluronic\\ acid\\.\\ a\\ systemic\\ review\\ by\\ tol\\ et\\ al\\.\\ showed\\ that\\ conservative\\ treatment\\ has\\ a\\ success\\ rate\\ of\\ about\\ 45\\%\\.\\ \\[27\\]\\ given\\ the\\ patients\\ stage\\ v\\ lesion\\,\\ it\\ is\\ not\\ surprising\\ that\\ management\\ with\\ ibuprofen\\ and\\ physical\\ therapy\\ has\\ been\\ ineffective\\.\\ patients\\ with\\ stage\\ iii\\,\\ iv\\,\\ or\\ v\\ lesions\\,\\ as\\ well\\ as\\ those\\ who\\ failed\\ conservative\\ management\\,\\ are\\ considered\\ surgical\\ candidates\\.\\ surgical\\ options\\ include\\ arthroscopic\\ debridement\\,\\ microfracturing\\,\\ and\\ drilling\\,\\ arthrotomy\\,\\ malleolar\\ osteotomy\\,\\ retrograde\\ drilling\\,\\ osteochondral\\ autograft\\ transplant\\ system\\ \\(oats\\)\\ or\\ mosaicplasty\\,\\ ankle\\ fusion\\,\\ and\\ total\\ ankle\\ replacement\\.\\ the\\ surgical\\ strategy\\ employed\\ is\\ usually\\ determined\\ by\\ the\\ extent\\ and\\ location\\ of\\ a\\ lesion\\,\\ with\\ most\\ approaches\\ having\\ a\\ success\\ rate\\ of\\ over\\ 70\\%\\.\\ \\[27\\]\\ the\\ patient\\ has\\ been\\ referred\\ to\\ an\\ orthopedic\\ ankle\\ specialist\\ and\\ will\\ likely\\ undergo\\ surgery\\ at\\ a\\ future\\ date\\.\\ \ \(0\)\
-\-\ references\\:\ \(0\)\
-\-\ 1\\.\\	monro\\ a\\.\\ part\\ of\\ the\\ cartilage\\ of\\ the\\ joint\\ separated\\ and\\ ossified\\.\\ medical\\ essays\\ observations\\ 1738\\;4\\:19\\.\ \(0\)\
-\-\ 2\\.\\	talusan\\ pg\\,\\ milewski\\ md\\,\\ toy\\ jo\\,\\ wall\\ ej\\.\\ osteochondritis\\ dissecans\\ of\\ the\\ talus\\:\\ diagnosis\\ and\\ treatment\\ in\\ athletes\\.\\ clin\\ sports\\ med\\.\\ 2014\\;33\\(2\\)\\:267\\-84\\.\ \(0\)\
-\-\ 3\\.\\	konig\\ f\\.\\ the\\ classic\\:\\ on\\ loose\\ bodies\\ in\\ the\\ joint\\.\\ 1887\\.\\ clin\\ orthop\\ relat\\ res\\ 2013\\;471\\(4\\)\\:1107\\‚\\Ä\\ì15\\.\ \(0\)\
-\-\ 4\\.\\	edmonds\\ ew\\,\\ polousky\\ j\\.\\ a\\ review\\ of\\ knowledge\\ in\\ osteochondritis\\ dissecans\\:\\ 123\\ years\\ of\\ minimal\\ evolution\\ from\\ k\\√\\∂nig\\ to\\ the\\ rock\\ study\\ group\\.\\ clin\\ orthop\\ relat\\ res\\.\\ 2013\\;471\\(4\\)\\:1118\\-26\\.\ \(0\)\
-\-\ 5\\.\\	edmonds\\ ew\\,\\ shea\\ kg\\.\\ osteochondritis\\ dissecans\\:\\ editorial\\ comment\\.\\ clin\\ orthop\\ relat\\ res\\.\\ 2013\\;471\\(4\\)\\:1105\\-6\\.\ \(0\)\
-\-\ 6\\.\\	berndt\\ al\\,\\ harty\\ m\\.\\ osteochondritis\\ dissecans\\ of\\ the\\ ankle\\ joint\\;\\ report\\ of\\ a\\ case\\ simulating\\ a\\ fracture\\ of\\ the\\ talus\\.\\ j\\ bone\\ joint\\ surg\\ am\\ 1959\\;41\\-a\\:988\\‚\\Ä\\ì1020\\.\ \(0\)\
-\-\ 7\\.\\	scranton\\ pe\\ jr\\,\\ mcdermott\\ je\\.\\ treatment\\ of\\ type\\ v\\ osteochondral\\ lesions\\ of\\ the\\ talus\\ with\\ ipsilateral\\ knee\\ osteochondral\\ autografts\\.\\ foot\\ ankle\\ int\\ 2001\\;22\\:\\ 380\\‚\\Ä\\ì4\\.\ \(0\)\
-\-\ 8\\.\\	anderson\\ if\\,\\ crichton\\ kj\\,\\ grattan\\-smith\\ t\\,\\ et\\ al\\.\\ osteochondral\\ fractures\\ of\\ the\\ dome\\ of\\ the\\ talus\\.\\ j\\ bone\\ joint\\ surg\\ am\\ 1989\\;71\\:1143\\‚\\Ä\\ì52\\.\ \(0\)\
-\-\ 9\\.\\	ferkel\\ rd\\,\\ flannigan\\ bd\\,\\ elkins\\ bs\\.\\ magnetic\\ resonance\\ imaging\\ of\\ the\\ foot\\ and\\ ankle\\:\\ correlation\\ of\\ normal\\ anatomy\\ with\\ pathologic\\ conditions\\.\\ foot\\ ankle\\ 1991\\;\\ 11\\:289\\‚\\Ä\\ì305\\.\ \(0\)\
-\-\ 10\\.\\	loomer\\ r\\,\\ fischer\\ c\\,\\ lloyd\\-smith\\ r\\,\\ et\\ al\\.\\ osteochondral\\ lesions\\ of\\ the\\ talus\\.\\ am\\ j\\ sports\\ med\\ 1993\\;21\\(1\\)\\:13\\‚\\Ä\\ì9\\.\ \(0\)\
-\-\ 11\\.\\	perumal\\ v\\,\\ wall\\ e\\,\\ babekir\\ n\\.\\ juvenile\\ osteochondritis\\ dissecans\\ of\\ the\\ talus\\.\\ j\\ pediatr\\ orthop\\ 2007\\;27\\:821\\‚\\Ä\\ì5\\.\ \(0\)\
-\-\ 12\\.\\	pritsch\\ m\\,\\ horoshovski\\ h\\,\\ farine\\ i\\.\\ arthroscopic\\ treatment\\ of\\ osteochondral\\ lesions\\ of\\ the\\ talus\\.\\ j\\ bone\\ joint\\ surg\\ am\\ 1986\\;68\\:862\\‚\\Ä\\ì5\\.\ \(0\)\
-\-\ 13\\.\\	letts\\ m\\,\\ davidson\\ d\\,\\ ahmer\\ a\\.\\ osteochondritis\\ dissecans\\ of\\ the\\ talus\\ in\\ children\\.\\ j\\ pediatr\\ orthop\\ 2003\\;23\\:617\\‚\\Ä\\ì25\\.\ \(0\)\
-\-\ 14\\.\\	roden\\ s\\,\\ tillegard\\ p\\,\\ unanderscharin\\ l\\.\\ flake\\ fracture\\ of\\ the\\ talus\\ progressing\\ to\\ osteochondritis\\ dissecans\\.\\ acta\\ orthop\\ scand\\ 1953\\;23\\:51\\‚\\Ä\\ì66\\.\ \(0\)\
-\-\ 15\\.\\	seiter\\ jl\\,\\ seiter\\ kp\\.\\ osteochondral\\ talar\\ lesions\\ and\\ defects\\.\\ clin\\ podiatr\\ med\\ surg\\.\\ 2012\\;29\\(4\\)\\:483\\-500\\.\ \(0\)\
-\-\ 16\\.\\	haskell\\ a\\,\\ mann\\ r\\.\\ in\\:\\ delee\\ j\\,\\ drez\\ d\\,\\ miller\\ md\\,\\ editors\\.\\ delee\\ \\&\\ drez\\‚\\Ä\\ôs\\ orthopaedic\\ sports\\ medicine\\:\\ principles\\ and\\ practice\\.\\ philadelphia\\:\\ saunders\\/elsevier\\;\\ 2009\\.\\ p\\.\\ 2144\\.\ \(0\)\
-\-\ 17\\.\\	hembree\\ wc\\,\\ wittstein\\ jr\\,\\ vinson\\ en\\,\\ et\\ al\\.\\ magnetic\\ resonance\\ imaging\\ features\\ of\\ osteochondral\\ lesions\\ of\\ the\\ talus\\.\\ foot\\ ankle\\ int\\ 2012\\;33\\(7\\)\\:591\\‚\\Ä\\ì7\\.\ \(0\)\
-\-\ 18\\.\\	bruns\\ j\\,\\ rayf\\ m\\,\\ steinhagen\\ j\\.\\ longitudinal\\ long\\-term\\ results\\ of\\ surgical\\ treatment\\ in\\ patients\\ with\\ osteochondritis\\ dissecans\\ of\\ the\\ femoral\\ condyles\\.\\ knee\\ surg\\ sports\\ traumatol\\ arthrosc\\.\\ 2008\\;16\\:436\\‚\\Ä\\ì441\\.\ \(0\)\
-\-\ 19\\.\\	gaillard\\,\\ frank\\.\\ \\"osteochondritis\\ dissecans\\ \\|\\ radiology\\ reference\\ article\\ \\|\\ radiopaedia\\.org\\.\\"\\ radiopaedia\\ blog\\ rss\\.\\ n\\.p\\.\\,\\ n\\.d\\.\\ web\\.\\ 06\\ dec\\.\\ 2016\\.\ \(0\)\
-\-\ 20\\.\\	verhagen\\ ra\\,\\ maas\\ m\\,\\ dijkgraaf\\ mg\\.\\ prospective\\ study\\ on\\ diagnostic\\ strategies\\ in\\ osteochondral\\ lesions\\ of\\ the\\ talus\\.\\ is\\ mri\\ superior\\ to\\ helical\\ ct\\?\\ j\\ bone\\ joint\\ surg\\ br\\ 2005\\;87\\(1\\)\\:41\\‚\\Ä\\ì6\\.\ \(0\)\
-\-\ 21\\.\\	flick\\ ab\\,\\ gould\\ n\\.\\ osteochondritis\\ dissecans\\ of\\ the\\ talus\\ \\(transchondral\\ fractures\\ of\\ the\\ talus\\)\\:\\ review\\ of\\ the\\ literature\\ and\\ new\\ surgical\\ approach\\ for\\ medial\\ dome\\ lesions\\.\\ foot\\ ankle\\ 1985\\;5\\(4\\)\\:165\\‚\\Ä\\ì85\\.\ \(0\)\
-\-\ 22\\.\\	hepple\\ s\\,\\ winson\\ ig\\,\\ glew\\ d\\.\\ osteochondral\\ lesions\\ of\\ the\\ talus\\:\\ a\\ revised\\ classification\\.\\ foot\\ ankle\\ int\\ 1999\\;20\\(12\\)\\:789\\‚\\Ä\\ì93\\.\ \(0\)\
-\-\ 23\\.\\	de\\ smet\\ aa\\,\\ fisher\\ dr\\,\\ graf\\ bk\\,\\ lange\\ rh\\.\\ osteochondritis\\ dissecans\\ of\\ the\\ knee\\:\\ value\\ of\\ mr\\ imaging\\ in\\ determining\\ lesion\\ stability\\ and\\ the\\ presence\\ of\\ articular\\ cartilage\\ defects\\.\\ ajr\\ am\\ j\\ roentgenol\\.\\ 1990\\;155\\(3\\)\\:549\\-53\\.\ \(0\)\
-\-\ 24\\.\\	van\\ bergen\\ cj\\,\\ gerards\\ rm\\,\\ opdam\\ kt\\,\\ terra\\ mp\\,\\ kerkhoffs\\ gm\\.\\ diagnosing\\,\\ planning\\ and\\ evaluating\\ osteochondral\\ ankle\\ defects\\ with\\ imaging\\ modalities\\.\\ world\\ j\\ orthop\\.\\ 2015\\;6\\(11\\)\\:944\\-53\\.\ \(0\)\
-\-\ 25\\.\\	loveday\\ d\\,\\ clifton\\ r\\,\\ robinson\\ a\\.\\ interventions\\ for\\ treating\\ osteochondral\\ defects\\ of\\ the\\ talus\\ in\\ adults\\.\\ cochrane\\ database\\ syst\\ rev\\.\\ 2010\\;\\(8\\)\\:cd008104\\.\ \(0\)\
-\-\ 26\\.\\	\\ seiter\\ jl\\,\\ seiter\\ kp\\.\\ osteochondral\\ talar\\ lesions\\ and\\ defects\\.\\ clin\\ podiatr\\ med\\ surg\\.\\ 2012\\;29\\(4\\)\\:483\\-500\\.\ \(0\)\
-\-\ 27\\.\\	tol\\ jl\\,\\ struijs\\ pa\\,\\ bossuyt\\ pm\\,\\ verhagen\\ ra\\,\\ van\\ dijk\\ cn\\.\\ treatment\\ strategies\\ in\\ osteochondral\\ defects\\ of\\ the\\ talar\\ dome\\:\\ a\\ systematic\\ review\\.\\ foot\\ ankle\\ int\\.\\ 2000\\;21\\(2\\)\\:119\\-26\\.\ \(0\)\
-\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
-\-\ osteochondral\\:\\ 0\\.048562770016950356\ \(0\)\
-\-\ ankle\\:\\ 0\\.04573692466969942\ \(0\)\
-\-\ talus\\:\\ 0\\.033269556631534095\ \(0\)\
-\-\ \\]\\:\\ 0\\.02949102370714362\ \(0\)\
-\-\ \\[\\:\\ 0\\.02940592553162591\ \(0\)\
-\-\ lesions\\:\\ 0\\.020674093486743053\ \(0\)\
-\-\ \\;\\:\\ 0\\.018799708148802774\ \(0\)\
-\-\ osteochondritis\\:\\ 0\\.018630951713659093\ \(0\)\
-\-\ dissecans\\:\\ 0\\.017411597674471622\ \(0\)\
-\-\ mvc\\:\\ 0\\.01577476157616039\ \(0\)\
-\-\ \\,\\:\\ 0\\.014481070920441118\ \(0\)\
-\-\ talar\\:\\ 0\\.01398259885346405\ \(0\)\
-\-\ \\:\\:\\ 0\\.012699717033602977\ \(0\)\
-\-\ subchondral\\:\\ 0\\.012049984347943781\ \(0\)\
-\-\ figure\\:\\ 0\\.011657223146389712\ \(0\)\
-\-\ cut\\:\\ 0\\.010785894592989094\ \(0\)\
-\-\ orthop\\:\\ 0\\.010442666722044459\ \(0\)\
-\-\ j\\:\\ 0\\.010370445781635958\ \(0\)\
-\-\ md\\:\\ 0\\.01030874102059577\ \(0\)\
-\-\ defect\\:\\ 0\\.010157233815803381\ \(0\)\
-\-\ stage\\:\\ 0\\.009793692896485542\ \(0\)\
-\-\ mri\\:\\ 0\\.009590990986392867\ \(0\)\
-\-\ defects\\:\\ 0\\.00958761430323582\ \(0\)\
-\-\ joint\\:\\ 0\\.009449929059743315\ \(0\)\
-\-\ he\\:\\ 0\\.009317781502815904\ \(0\)\
-\-\ dome\\:\\ 0\\.009315475856829547\ \(0\)\
-\-\ \\%\\:\\ 0\\.008763990864735744\ \(0\)\
-\-\ surg\\:\\ 0\\.008723406082275361\ \(0\)\
-\-\ fragment\\:\\ 0\\.008679007269564788\ \(0\)\
-\-\ seiter\\:\\ 0\\.008613110331183681\ \(0\)\
-\-\ 4mm\\:\\ 0\\.00838955931207843\ \(0\)\
-\-\ intra\\-articular\\:\\ 0\\.007840423821934691\ \(0\)\
-\-\ view\\:\\ 0\\.007831086049783925\ \(0\)\
-\-\ disc\\:\\ 0\\.007775743071841759\ \(0\)\
-\-\ t2\\-weighted\\:\\ 0\\.007398186218769054\ \(0\)\
-\-\ clin\\:\\ 0\\.007373710977110264\ \(0\)\
-\-\ right\\:\\ 0\\.0072676713240458594\ \(0\)\
-\-\ patients\\:\\ 0\\.00702258666139676\ \(0\)\
-\-\ foot\\:\\ 0\\.006902422462586243\ \(0\)\
-\-\ study\\:\\ 0\\.006867687730483535\ \(0\)\
-\-\ accident\\:\\ 0\\.0066358845715316665\ \(0\)\
-\-\ fragments\\:\\ 0\\.006553560823809693\ \(0\)\
-\-\ in\\:\\ 0\\.00648461785511384\ \(0\)\
-\-\ transchondral\\:\\ 0\\.006459832748387761\ \(0\)\
-\-\ konig\\:\\ 0\\.006459832748387761\ \(0\)\
-\-\ to\\:\\ 0\\.006363252226434334\ \(0\)\
-\-\ \\(\\:\\ 0\\.006351983914210791\ \(0\)\
-\-\ \\)\\:\\ 0\\.006274391039589395\ \(0\)\
-\-\ int\\:\\ 0\\.0062702717646977305\ \(0\)\
-\-\ is\\:\\ 0\\.006180528829338704\ \(0\)\
-\-\ that\\:\\ 0\\.006128889200170981\ \(0\)\
-\-\ his\\:\\ 0\\.006015850091956355\ \(0\)\
-\-\ ocd\\:\\ 0\\.005967238126882548\ \(0\)\
-\-\ berndt\\:\\ 0\\.005951908580903678\ \(0\)\
-\-\ 471\\:\\ 0\\.005951908580903678\ \(0\)\
-\-\ may\\:\\ 0\\.0059517021972827575\ \(0\)\
-\-\ the\\:\\ 0\\.005909532199104669\ \(0\)\
-\-\ lateral\\:\\ 0\\.005863870198612397\ \(0\)\
-\-\ v\\:\\ 0\\.005725920907329514\ \(0\)\
-\-\ been\\:\\ 0\\.005678541498446485\ \(0\)\
-\-\ midline\\:\\ 0\\.0056528848586638114\ \(0\)\
-\-\ dc\\:\\ 0\\.005526452104076828\ \(0\)\
-\-\ cartilage\\:\\ 0\\.005429983599779527\ \(0\)\
-\-\ am\\:\\ 0\\.005369660254237787\ \(0\)\
-\-\ pain\\:\\ 0\\.005353143995638844\ \(0\)\
-\-\ al\\:\\ 0\\.005309079003042923\ \(0\)\
-\-\ relat\\:\\ 0\\.005280469353834195\ \(0\)\
-\-\ jl\\:\\ 0\\.005280469353834195\ \(0\)\
-\-\ 4\\:\\ 0\\.005234183474990573\ \(0\)\
-\-\ sports\\:\\ 0\\.005167716560185966\ \(0\)\
-\-\ tibiotalar\\:\\ 0\\.005146867822231394\ \(0\)\
-\-\ a\\:\\ 0\\.005037418098331037\ \(0\)\
-\-\ sagittal\\:\\ 0\\.004995134322188148\ \(0\)\
-\-\ have\\:\\ 0\\.004971865867615048\ \(0\)\
-\-\ preferred\\:\\ 0\\.0049612592141505905\ \(0\)\
-\-\ evaluation\\:\\ 0\\.004850491051933185\ \(0\)\
-\-\ res\\:\\ 0\\.0048497512310431935\ \(0\)\
-\-\ space\\:\\ 0\\.004832901575363078\ \(0\)\
-\-\ med\\:\\ 0\\.004790909055728727\ \(0\)\
-\-\ after\\:\\ 0\\.004750369621079928\ \(0\)\
-\-\ through\\:\\ 0\\.004742466083870774\ \(0\)\
-\-\ as\\:\\ 0\\.004735872640061533\ \(0\)\
-\-\ likely\\:\\ 0\\.004709897344280716\ \(0\)\
-\-\ secondary\\:\\ 0\\.004668353622879936\ \(0\)\
-\-\ performed\\:\\ 0\\.004655746616956168\ \(0\)\
-\-\ aspect\\:\\ 0\\.004589654015970567\ \(0\)\
-\-\ dorsiflexion\\:\\ 0\\.004580289985225912\ \(0\)\
-\-\ are\\:\\ 0\\.004552511470560241\ \(0\)\
-\-\ lumbar\\:\\ 0\\.004437878448552044\ \(0\)\
-\-\ tried\\:\\ 0\\.004383711587623558\ \(0\)\
-\-\ coronal\\:\\ 0\\.004345411641351633\ \(0\)\
-\-\ decreased\\:\\ 0\\.004344234201043458\ \(0\)\
-\-\ m\\:\\ 0\\.00430757125227381\ \(0\)\
-\-\ luis\\:\\ 0\\.004306555165591841\ \(0\)\
-\-\ gude\\:\\ 0\\.004306555165591841\ \(0\)\
-\-\ 1738\\:\\ 0\\.004306555165591841\ \(0\)\
-\-\ scranton\\:\\ 0\\.004306555165591841\ \(0\)\
-\-\ mcdermott\\:\\ 0\\.004306555165591841\ \(0\)\
-\-\ loomer\\:\\ 0\\.004306555165591841\ \(0\)\
-\-\ tol\\:\\ 0\\.004306555165591841\ \(0\)\
-\-\ podiatr\\:\\ 0\\.004306555165591841\ \(0\)\
-\-\ \\:483\\-500\\:\\ 0\\.004306555165591841\ \(0\)\
-\-\ delee\\:\\ 0\\.004306555165591841\ \(0\)\
-\-\ drez\\:\\ 0\\.004306555165591841\ \(0\)\
-\-\ verhagen\\:\\ 0\\.004306555165591841\ \(0\)\
-\-\ et\\:\\ 0\\.00427137082330518\ \(0\)\
-\-\ patient\\:\\ 0\\.004184621059679472\ \(0\)\
-\-\ axial\\:\\ 0\\.004169892606857621\ \(0\)\
-\-\ bone\\:\\ 0\\.004149359416628959\ \(0\)\
-\-\ illicit\\:\\ 0\\.004131019487263228\ \(0\)\
-\-\ arthroscopic\\:\\ 0\\.004131019487263228\ \(0\)\
-\-\ bilaterally\\:\\ 0\\.004113393119478119\ \(0\)\
-\-\ ibuprofen\\:\\ 0\\.004044710472370911\ \(0\)\
-\-\ an\\:\\ 0\\.004040866658521304\ \(0\)\
-\-\ there\\:\\ 0\\.004038178366889314\ \(0\)\
-\-\ structures\\:\\ 0\\.004018155208640344\ \(0\)\
-\-\ cartilaginous\\:\\ 0\\.004018061001801143\ \(0\)\
-\-\ medial\\:\\ 0\\.00400581267257946\ \(0\)\
-\-\ and\\:\\ 0\\.004001177215835827\ \(0\)\
-\-\ 2013\\:\\ 0\\.003992346795784091\ \(0\)\
-\-\ 2012\\:\\ 0\\.003992346795784091\ \(0\)\
-\-\ avg\\:\\ 0\\.003967939053935786\ \(0\)\
-\-\ harty\\:\\ 0\\.003967939053935786\ \(0\)\
-\-\ 1959\\:\\ 0\\.003967939053935786\ \(0\)\
-\-\ mma\\:\\ 0\\.003967939053935786\ \(0\)\
-\-\ edmonds\\:\\ 0\\.003967939053935786\ \(0\)\
-\-\ kp\\:\\ 0\\.003967939053935786\ \(0\)\
-\-\ cyst\\:\\ 0\\.003926379568193141\ \(0\)\
-\-\ not\\:\\ 0\\.0039210167886285195\ \(0\)\
-\-\ has\\:\\ 0\\.003919638423288417\ \(0\)\
-\-\ for\\:\\ 0\\.0039180213165949515\ \(0\)\
-\-\ or\\:\\ 0\\.003914109424381857\ \(0\)\
-\-\ imaging\\:\\ 0\\.003912210697519497\ \(0\)\
-\-\ vehicle\\:\\ 0\\.0038878715359208795\ \(0\)\
-\-\ like\\:\\ 0\\.003864881308846923\ \(0\)\
-\-\ was\\:\\ 0\\.00386234498178285\ \(0\)\
-\-\ by\\:\\ 0\\.0038230532329491017\ \(0\)\
-\-\ extremity\\:\\ 0\\.003816754970252122\ \(0\)\
-\-\ force\\:\\ 0\\.003813825484603522\ \(0\)\
-\-\ entrapment\\:\\ 0\\.003813825484603522\ \(0\)\
-\-\ success\\:\\ 0\\.003813825484603522\ \(0\)\
-\-\ of\\:\\ 0\\.0038132655854739737\ \(0\)\
-\-\ knee\\:\\ 0\\.0037841850544214416\ \(0\)\
-\-\ ew\\:\\ 0\\.003769861326476985\ \(0\)\
-\-\ including\\:\\ 0\\.0037682201282278013\ \(0\)\
-\-\ lower\\:\\ 0\\.003755470580095481\ \(0\)\
-\-\ \\‚\\Ä\\ô\\:\\ 0\\.0037430777816005703\ \(0\)\
-\-\ resonance\\:\\ 0\\.0036703878364896278\ \(0\)\
-\-\ more\\:\\ 0\\.0036541851893466446\ \(0\)\
-\-\ loose\\:\\ 0\\.0036385228301830286\ \(0\)\
-\-\ hamstring\\:\\ 0\\.00362932294227973\ \(0\)\
-\-\ strategies\\:\\ 0\\.00362932294227973\ \(0\)\
-\-\ review\\:\\ 0\\.003618495980078119\ \(0\)\
-\-\ images\\:\\ 0\\.0036036577986185117\ \(0\)\
-\-\ magnetic\\:\\ 0\\.003593181791796545\ \(0\)\
-\-\ walk\\:\\ 0\\.003578670828951274\ \(0\)\
-\-\ classification\\:\\ 0\\.003578670828951274\ \(0\)\
-\-\ tend\\:\\ 0\\.003550483520088698\ \(0\)\
-\-\ eversion\\:\\ 0\\.00352031290255613\ \(0\)\
-\-\ a\\.\\:\\ 0\\.0035101368343170604\ \(0\)\
-\-\ ct\\:\\ 0\\.0035035769029566474\ \(0\)\
-\-\ i\\:\\ 0\\.0034512112312931214\ \(0\)\
-\-\ plantarflexion\\:\\ 0\\.0034312452148209296\ \(0\)\
-\-\ rock\\:\\ 0\\.0034312452148209296\ \(0\)\
-\-\ participation\\:\\ 0\\.0034312452148209296\ \(0\)\
-\-\ trauma\\:\\ 0\\.003425025083182114\ \(0\)\
-\-\ where\\:\\ 0\\.0034075644896696794\ \(0\)\
-\-\ treatment\\:\\ 0\\.003379808421301196\ \(0\)\
-\-\ managed\\:\\ 0\\.003367863252655392\ \(0\)\
-\-\ reports\\:\\ 0\\.003365784461005213\ \(0\)\
-\-\ no\\:\\ 0\\.0033627519324037204\ \(0\)\
-\-\ articular\\:\\ 0\\.003357165549122549\ \(0\)\
-\-\ \\|\\:\\ 0\\.0033559395578462064\ \(0\)\
-\-\ bony\\:\\ 0\\.003338891765948945\ \(0\)\
-\-\ signal\\:\\ 0\\.003302014162588342\ \(0\)\
-\-\ truck\\:\\ 0\\.0032907068306236745\ \(0\)\
-\-\ detached\\:\\ 0\\.0032907068306236745\ \(0\)\
-\-\ any\\:\\ 0\\.003286315379912425\ \(0\)\
-\-\ while\\:\\ 0\\.0032836458718274466\ \(0\)\
-\-\ rate\\:\\ 0\\.0032542466931859727\ \(0\)\
-\-\ drilling\\:\\ 0\\.003233167487362129\ \(0\)\
-\-\ n\\.\\:\\ 0\\.003233167487362129\ \(0\)\
-\-\ instability\\:\\ 0\\.0032217961525426724\ \(0\)\
-\-\ used\\:\\ 0\\.003202915639421555\ \(0\)\
-\-\ tibialis\\:\\ 0\\.0031816967909000745\ \(0\)\
-\-\ hallux\\:\\ 0\\.0031816967909000745\ \(0\)\
-\-\ microtrauma\\:\\ 0\\.0031816967909000745\ \(0\)\
-\-\ systematic\\:\\ 0\\.0031816967909000745\ \(0\)\
-\-\ desiccation\\:\\ 0\\.0031351358823488652\ \(0\)\
-\-\ d\\:\\ 0\\.003122844308035631\ \(0\)\
-\-\ which\\:\\ 0\\.0031170387635418633\ \(0\)\
-\-\ but\\:\\ 0\\.0031161512230666252\ \(0\)\
-\-\ osteoarthritis\\:\\ 0\\.0031075775125523563\ \(0\)\
-\-\ admits\\:\\ 0\\.003092629103164874\ \(0\)\
-\-\ surgical\\:\\ 0\\.0030712145558769357\ \(0\)\
-\-\ this\\:\\ 0\\.0030519745415446336\ \(0\)\
-\-\ pediatr\\:\\ 0\\.003017323446190151\ \(0\)\
-\-\ 20\\:\\ 0\\.0030019689654685057\ \(0\)\
-\-\ orthopedic\\:\\ 0\\.0029892427764328304\ \(0\)\
-\-\ van\\:\\ 0\\.002983619063441274\ \(0\)\
-\-\ lesion\\:\\ 0\\.0029760348270647732\ \(0\)\
-\-\ able\\:\\ 0\\.0029516560927096624\ \(0\)\
-\-\ time\\:\\ 0\\.0029477298818262245\ \(0\)\
-\-\ bodies\\:\\ 0\\.002933561848017157\ \(0\)\
-\-\ monro\\:\\ 0\\.0029224743917490386\ \(0\)\
-\-\ injuries\\:\\ 0\\.0029217425647270617\ \(0\)\
-\-\ be\\:\\ 0\\.002896876040570435\ \(0\)\
-\-\ 96\\:\\ 0\\.002894551375706074\ \(0\)\
-\-\ unable\\:\\ 0\\.0028930024231882626\ \(0\)\
-\-\ also\\:\\ 0\\.0028803950062752954\ \(0\)\
-\-\ displaced\\:\\ 0\\.002876284290970746\ \(0\)\
-\-\ employed\\:\\ 0\\.002868138468392798\ \(0\)\
-\-\ 11\\:\\ 0\\.002865347077817344\ \(0\)\
-\-\ given\\:\\ 0\\.0028621537787165046\ \(0\)\
-\-\ high\\:\\ 0\\.0028560650477244937\ \(0\)\
-\-\ r\\:\\ 0\\.0028439505306564286\ \(0\)\
-\-\ jr\\:\\ 0\\.002843080679244019\ \(0\)\
-\-\ 21\\:\\ 0\\.002833482071510745\ \(0\)\
-\-\ one\\:\\ 0\\.002828201494028632\ \(0\)\
-\-\ separated\\:\\ 0\\.0028192457187313506\ \(0\)\
-\-\ generally\\:\\ 0\\.002818054561106862\ \(0\)\
-\-\ it\\:\\ 0\\.002815117319784587\ \(0\)\
-\-\ 10\\:\\ 0\\.0028144838576911677\ \(0\)\
-\-\ gastrocnemius\\:\\ 0\\.00279651977069281\ \(0\)\
-\-\ click\\:\\ 0\\.00279651977069281\ \(0\)\
-\-\ ossified\\:\\ 0\\.00279651977069281\ \(0\)\
-\-\ therapies\\:\\ 0\\.00279651977069281\ \(0\)\
-\-\ therapy\\:\\ 0\\.0027902305767472067\ \(0\)\
-\-\ initial\\:\\ 0\\.002766567799979783\ \(0\)\
-\-\ 2016\\:\\ 0\\.0027540129915088188\ \(0\)\
-\-\ spine\\:\\ 0\\.0027494905188132366\ \(0\)\
-\-\ evidence\\:\\ 0\\.0027362513231153855\ \(0\)\
-\-\ chiropractor\\:\\ 0\\.0027340706395204187\ \(0\)\
-\-\ four\\:\\ 0\\.002718299670297448\ \(0\)\
-\-\ these\\:\\ 0\\.002715980327256766\ \(0\)\
-\-\ psoas\\:\\ 0\\.002714910545161219\ \(0\)\
-\-\ description\\:\\ 0\\.002714910545161219\ \(0\)\
-\-\ specificity\\:\\ 0\\.002714910545161219\ \(0\)\
-\-\ quadriceps\\:\\ 0\\.0026964736482472736\ \(0\)\
-\-\ describe\\:\\ 0\\.0026964736482472736\ \(0\)\
-\-\ planning\\:\\ 0\\.0026964736482472736\ \(0\)\
-\-\ front\\:\\ 0\\.0026787073345340955\ \(0\)\
-\-\ inversion\\:\\ 0\\.0026450029517852184\ \(0\)\
-\-\ heat\\:\\ 0\\.0026134746073115636\ \(0\)\
-\-\ ice\\:\\ 0\\.0026134746073115636\ \(0\)\
-\-\ collision\\:\\ 0\\.0026134746073115636\ \(0\)\
-\-\ suffered\\:\\ 0\\.0025984420432340095\ \(0\)\
-\-\ visualize\\:\\ 0\\.0025984420432340095\ \(0\)\
-\-\ 10\\.\\:\\ 0\\.002583858280092983\ \(0\)\
-\-\ allows\\:\\ 0\\.0025696972948104956\ \(0\)\
-\-\ rash\\:\\ 0\\.002542550323069015\ \(0\)\
-\-\ ball\\:\\ 0\\.002516832817702419\ \(0\)\
-\-\ month\\:\\ 0\\.002504752848852574\ \(0\)\
-\-\ passive\\:\\ 0\\.0025044645675879637\ \(0\)\
-\-\ modalities\\:\\ 0\\.0025044645675879637\ \(0\)\
-\-\ 4\\.\\:\\ 0\\.0024654225479243752\ \(0\)\
-\-\ j\\.\\:\\ 0\\.0024579036590367544\ \(0\)\
-\-\ 9\\.\\:\\ 0\\.0024469252243264185\ \(0\)\
-\-\ previous\\:\\ 0\\.002431619588671199\ \(0\)\
-\-\ bearing\\:\\ 0\\.0024153968798527638\ \(0\)\
-\-\ most\\:\\ 0\\.0024094224984466\ \(0\)\
-\-\ lbs\\:\\ 0\\.002405323950100572\ \(0\)\
-\-\ small\\:\\ 0\\.002404219936957888\ \(0\)\
-\-\ 7\\:\\ 0\\.0023993074343977077\ \(0\)\
-\-\ inability\\:\\ 0\\.0023954545278643633\ \(0\)\
-\-\ take\\:\\ 0\\.0023954545278643633\ \(0\)\
-\-\ attempt\\:\\ 0\\.0023954545278643633\ \(0\)\
-\-\ frank\\:\\ 0\\.0023762944335051638\ \(0\)\
-\-\ fractures\\:\\ 0\\.0023711201255351313\ \(0\)\
-\-\ sensitivity\\:\\ 0\\.002357857536591218\ \(0\)\
-\-\ 8\\:\\ 0\\.0023413172141543833\ \(0\)\
-\-\ \\‚\\Ä\\ú\\:\\ 0\\.002338667013516727\ \(0\)\
-\-\ 8\\.\\:\\ 0\\.0023314446292779425\ \(0\)\
-\-\ bulge\\:\\ 0\\.0023314446292779425\ \(0\)\
-\-\ \\‚\\Ä\\ù\\:\\ 0\\.002325557904026662\ \(0\)\
-\-\ drugs\\:\\ 0\\.0023063868401291634\ \(0\)\
-\-\ intact\\:\\ 0\\.002300022927477931\ \(0\)\
-\-\ since\\:\\ 0\\.002300022927477931\ \(0\)\
-\-\ on\\:\\ 0\\.002298628031448599\ \(0\)\
-\-\ worsened\\:\\ 0\\.00229831194909291\ \(0\)\
-\-\ him\\:\\ 0\\.002290368362931806\ \(0\)\
-\-\ reported\\:\\ 0\\.0022826635446329836\ \(0\)\
-\-\ ra\\:\\ 0\\.0022825518796164954\ \(0\)\
-\-\ months\\:\\ 0\\.0022803529992086635\ \(0\)\
-\-\ at\\:\\ 0\\.0022623608262464737\ \(0\)\
-\-\ radiculopathy\\:\\ 0\\.002259825931577954\ \(0\)\
-\-\ nerve\\:\\ 0\\.0022561891498441423\ \(0\)\
-\-\ they\\:\\ 0\\.0022561891498441423\ \(0\)\
-\-\ touch\\:\\ 0\\.0022524796309602016\ \(0\)\
-\-\ literature\\:\\ 0\\.0022452421684369278\ \(0\)\
-\-\ up\\:\\ 0\\.0022450875926274777\ \(0\)\
-\-\ surgeon\\:\\ 0\\.0022241517083171386\ \(0\)\
-\-\ 7\\.\\:\\ 0\\.0022241517083171386\ \(0\)\
-\-\ findings\\:\\ 0\\.0022213445722886658\ \(0\)\
-\-\ 2001\\:\\ 0\\.0022173191523939635\ \(0\)\
-\-\ rom\\:\\ 0\\.0022039342114129595\ \(0\)\
-\-\ fracture\\:\\ 0\\.0022013427750588945\ \(0\)\
-\-\ h\\:\\ 0\\.0021973768004055635\ \(0\)\
-\-\ immediate\\:\\ 0\\.002184520274603231\ \(0\)\
-\-\ determined\\:\\ 0\\.002178216706046364\ \(0\)\
-\-\ 29\\:\\ 0\\.002178216706046364\ \(0\)\
-\-\ group\\:\\ 0\\.0021719934399118106\ \(0\)\
-\-\ 33\\:\\ 0\\.0021658484559319083\ \(0\)\
-\-\ each\\:\\ 0\\.002159779809132418\ \(0\)\
-\-\ 114\\/80\\:\\ 0\\.0021532775827959203\ \(0\)\
-\-\ 72\\/minute\\:\\ 0\\.0021532775827959203\ \(0\)\
-\-\ 14\\/minute\\:\\ 0\\.0021532775827959203\ \(0\)\
-\-\ c6\\-c8\\:\\ 0\\.0021532775827959203\ \(0\)\
-\-\ l3\\-s1\\:\\ 0\\.0021532775827959203\ \(0\)\
-\-\ \\-palpation\\:\\ 0\\.0021532775827959203\ \(0\)\
-\-\ \\-talar\\:\\ 0\\.0021532775827959203\ \(0\)\
-\-\ \\-strength\\:\\ 0\\.0021532775827959203\ \(0\)\
-\-\ \\-74\\.6\\:\\ 0\\.0021532775827959203\ \(0\)\
-\-\ \\-41\\.4\\:\\ 0\\.0021532775827959203\ \(0\)\
-\-\ \\-postural\\:\\ 0\\.0021532775827959203\ \(0\)\
-\-\ \\-gait\\:\\ 0\\.0021532775827959203\ \(0\)\
-\-\ heel\\-to\\-toe\\:\\ 0\\.0021532775827959203\ \(0\)\
-\-\ specializes\\:\\ 0\\.0021532775827959203\ \(0\)\
-\-\ hitch\\:\\ 0\\.0021532775827959203\ \(0\)\
-\-\ snagging\\:\\ 0\\.0021532775827959203\ \(0\)\
-\-\ bumper\\:\\ 0\\.0021532775827959203\ \(0\)\
-\-\ totaled\\.\\:\\ 0\\.0021532775827959203\ \(0\)\
-\-\ 800mg\\:\\ 0\\.0021532775827959203\ \(0\)\
-\-\ citing\\:\\ 0\\.0021532775827959203\ \(0\)\
-\-\ martial\\:\\ 0\\.0021532775827959203\ \(0\)\
-\-\ arts\\:\\ 0\\.0021532775827959203\ \(0\)\
-\-\ pus\\.\\:\\ 0\\.0021532775827959203\ \(0\)\
-\-\ fluticasone\\/salmeterol\\:\\ 0\\.0021532775827959203\ \(0\)\
-\-\ ecstasy\\:\\ 0\\.0021532775827959203\ \(0\)\
-\-\ \\/\\/youtu\\.be\\/m2udy2gv7ku\\:\\ 0\\.0021532775827959203\ \(0\)\
-\-\ 1887\\:\\ 0\\.0021532775827959203\ \(0\)\
-\-\ standardize\\:\\ 0\\.0021532775827959203\ \(0\)\
-\-\ 54\\.5\\:\\ 0\\.0021532775827959203\ \(0\)\
-\-\ cup\\-shaped\\:\\ 0\\.0021532775827959203\ \(0\)\
-\-\ wafer\\-shaped\\:\\ 0\\.0021532775827959203\ \(0\)\
-\-\ 15\\-49\\:\\ 0\\.0021532775827959203\ \(0\)\
-\-\ intrusion\\:\\ 0\\.0021532775827959203\ \(0\)\
-\-\ overestimate\\:\\ 0\\.0021532775827959203\ \(0\)\
-\-\ compiled\\:\\ 0\\.0021532775827959203\ \(0\)\
-\-\ \\‚\\Ä\\ìharty\\:\\ 0\\.0021532775827959203\ \(0\)\
-\-\ arthrotomy\\:\\ 0\\.0021532775827959203\ \(0\)\
-\-\ oats\\:\\ 0\\.0021532775827959203\ \(0\)\
-\-\ essays\\:\\ 0\\.0021532775827959203\ \(0\)\
-\-\ 4\\:19\\:\\ 0\\.0021532775827959203\ \(0\)\
-\-\ talusan\\:\\ 0\\.0021532775827959203\ \(0\)\
-\-\ milewski\\:\\ 0\\.0021532775827959203\ \(0\)\
-\-\ toy\\:\\ 0\\.0021532775827959203\ \(0\)\
-\-\ \\:267\\-84\\:\\ 0\\.0021532775827959203\ \(0\)\
-\-\ 1887\\.\\:\\ 0\\.0021532775827959203\ \(0\)\
-\-\ \\:1107\\‚\\Ä\\ì15\\:\\ 0\\.0021532775827959203\ \(0\)\
-\-\ shea\\:\\ 0\\.0021532775827959203\ \(0\)\
-\-\ \\:1105\\-6\\:\\ 0\\.0021532775827959203\ \(0\)\
-\-\ 41\\-a\\:988\\‚\\Ä\\ì1020\\:\\ 0\\.0021532775827959203\ \(0\)\
-\-\ autografts\\:\\ 0\\.0021532775827959203\ \(0\)\
-\-\ 380\\‚\\Ä\\ì4\\:\\ 0\\.0021532775827959203\ \(0\)\
-\-\ crichton\\:\\ 0\\.0021532775827959203\ \(0\)\
-\-\ grattan\\-smith\\:\\ 0\\.0021532775827959203\ \(0\)\
-\-\ 71\\:1143\\‚\\Ä\\ì52\\:\\ 0\\.0021532775827959203\ \(0\)\
-\-\ ferkel\\:\\ 0\\.0021532775827959203\ \(0\)\
-\-\ flannigan\\:\\ 0\\.0021532775827959203\ \(0\)\
-\-\ elkins\\:\\ 0\\.0021532775827959203\ \(0\)\
-\-\ 11\\:289\\‚\\Ä\\ì305\\:\\ 0\\.0021532775827959203\ \(0\)\
-\-\ lloyd\\-smith\\:\\ 0\\.0021532775827959203\ \(0\)\
-\-\ \\:13\\‚\\Ä\\ì9\\:\\ 0\\.0021532775827959203\ \(0\)\
-\-\ perumal\\:\\ 0\\.0021532775827959203\ \(0\)\
-\-\ babekir\\:\\ 0\\.0021532775827959203\ \(0\)\
-\-\ 27\\:821\\‚\\Ä\\ì5\\:\\ 0\\.0021532775827959203\ \(0\)\
-\-\ pritsch\\:\\ 0\\.0021532775827959203\ \(0\)\
-\-\ horoshovski\\:\\ 0\\.0021532775827959203\ \(0\)\
-\-\ farine\\:\\ 0\\.0021532775827959203\ \(0\)\
-\-\ 68\\:862\\‚\\Ä\\ì5\\:\\ 0\\.0021532775827959203\ \(0\)\
-\-\ ahmer\\:\\ 0\\.0021532775827959203\ \(0\)\
-\-\ 23\\:617\\‚\\Ä\\ì25\\:\\ 0\\.0021532775827959203\ \(0\)\
-\-\ roden\\:\\ 0\\.0021532775827959203\ \(0\)\
-\-\ tillegard\\:\\ 0\\.0021532775827959203\ \(0\)\
-\-\ unanderscharin\\:\\ 0\\.0021532775827959203\ \(0\)\
-\-\ flake\\:\\ 0\\.0021532775827959203\ \(0\)\
-\-\ 1953\\:\\ 0\\.0021532775827959203\ \(0\)\
-\-\ 23\\:51\\‚\\Ä\\ì66\\:\\ 0\\.0021532775827959203\ \(0\)\
-\-\ haskell\\:\\ 0\\.0021532775827959203\ \(0\)\
-\-\ mann\\:\\ 0\\.0021532775827959203\ \(0\)\
-\-\ saunders\\/elsevier\\:\\ 0\\.0021532775827959203\ \(0\)\
-\-\ 2144\\:\\ 0\\.0021532775827959203\ \(0\)\
-\-\ hembree\\:\\ 0\\.0021532775827959203\ \(0\)\
-\-\ wittstein\\:\\ 0\\.0021532775827959203\ \(0\)\
-\-\ vinson\\:\\ 0\\.0021532775827959203\ \(0\)\
-\-\ \\:591\\‚\\Ä\\ì7\\:\\ 0\\.0021532775827959203\ \(0\)\
-\-\ bruns\\:\\ 0\\.0021532775827959203\ \(0\)\
-\-\ rayf\\:\\ 0\\.0021532775827959203\ \(0\)\
-\-\ steinhagen\\:\\ 0\\.0021532775827959203\ \(0\)\
-\-\ 16\\:436\\‚\\Ä\\ì441\\:\\ 0\\.0021532775827959203\ \(0\)\
-\-\ blog\\:\\ 0\\.0021532775827959203\ \(0\)\
-\-\ rss\\:\\ 0\\.0021532775827959203\ \(0\)\
-\-\ maas\\:\\ 0\\.0021532775827959203\ \(0\)\
-\-\ dijkgraaf\\:\\ 0\\.0021532775827959203\ \(0\)\
-\-\ \\:41\\‚\\Ä\\ì6\\:\\ 0\\.0021532775827959203\ \(0\)\
-\-\ flick\\:\\ 0\\.0021532775827959203\ \(0\)\
-\-\ gould\\:\\ 0\\.0021532775827959203\ \(0\)\
-\-\ \\:165\\‚\\Ä\\ì85\\:\\ 0\\.0021532775827959203\ \(0\)\
-\-\ hepple\\:\\ 0\\.0021532775827959203\ \(0\)\
-\-\ winson\\:\\ 0\\.0021532775827959203\ \(0\)\
-\-\ glew\\:\\ 0\\.0021532775827959203\ \(0\)\
-\-\ \\:789\\‚\\Ä\\ì93\\:\\ 0\\.0021532775827959203\ \(0\)\
-\-\ graf\\:\\ 0\\.0021532775827959203\ \(0\)\
-\-\ lange\\:\\ 0\\.0021532775827959203\ \(0\)\
-\-\ \\:549\\-53\\:\\ 0\\.0021532775827959203\ \(0\)\
-\-\ bergen\\:\\ 0\\.0021532775827959203\ \(0\)\
-\-\ gerards\\:\\ 0\\.0021532775827959203\ \(0\)\
-\-\ opdam\\:\\ 0\\.0021532775827959203\ \(0\)\
-\-\ kt\\:\\ 0\\.0021532775827959203\ \(0\)\
-\-\ terra\\:\\ 0\\.0021532775827959203\ \(0\)\
-\-\ kerkhoffs\\:\\ 0\\.0021532775827959203\ \(0\)\
-\-\ \\:944\\-53\\:\\ 0\\.0021532775827959203\ \(0\)\
-\-\ loveday\\:\\ 0\\.0021532775827959203\ \(0\)\
-\-\ clifton\\:\\ 0\\.0021532775827959203\ \(0\)\
-\-\ cd008104\\:\\ 0\\.0021532775827959203\ \(0\)\
-\-\ struijs\\:\\ 0\\.0021532775827959203\ \(0\)\
-\-\ bossuyt\\:\\ 0\\.0021532775827959203\ \(0\)\
-\-\ dijk\\:\\ 0\\.0021532775827959203\ \(0\)\
-\-\ \\:119\\-26\\:\\ 0\\.0021532775827959203\ \(0\)\
-\-\ anterior\\:\\ 0\\.0021502616744140082\ \(0\)\
-\-\ nonspecific\\:\\ 0\\.0021478641016951148\ \(0\)\
-\-\ 3\\.\\:\\ 0\\.002142555602448017\ \(0\)\
-\-\ p\\:\\ 0\\.00214201349541924\ \(0\)\
-\-\ does\\:\\ 0\\.00213650786789253\ \(0\)\
-\-\ determine\\:\\ 0\\.0021137674910768726\ \(0\)\
-\-\ areas\\:\\ 0\\.0021069959730674647\ \(0\)\
-\-\ first\\:\\ 0\\.0021012335867995986\ \(0\)\
-\-\ palpation\\:\\ 0\\.0020898429997665254\ \(0\)\
-\-\ cases\\:\\ 0\\.0020860851470306295\ \(0\)\
-\-\ extent\\:\\ 0\\.002071718341701571\ \(0\)\
-\-\ back\\:\\ 0\\.0020657545202839352\ \(0\)\
-\-\ physical\\:\\ 0\\.002048368607309466\ \(0\)\
-\-\ appreciated\\:\\ 0\\.00203300345569564\ \(0\)\
-\-\ 6\\.\\:\\ 0\\.00202837290173641\ \(0\)\
-\-\ options\\:\\ 0\\.00202837290173641\ \(0\)\
-\-\ \\.\\:\\ 0\\.002020369299140616\ \(0\)\
-\-\ 2\\.\\:\\ 0\\.001991287842061743\ \(0\)\
-\-\ past\\:\\ 0\\.0019896429936099905\ \(0\)\
-\-\ 243\\:\\ 0\\.001983969526967893\ \(0\)\
-\-\ 34\\.9\\:\\ 0\\.001983969526967893\ \(0\)\
-\-\ \\-inspection\\:\\ 0\\.001983969526967893\ \(0\)\
-\-\ \\-anterior\\:\\ 0\\.001983969526967893\ \(0\)\
-\-\ 24\\.2\\:\\ 0\\.001983969526967893\ \(0\)\
-\-\ 43\\.7\\:\\ 0\\.001983969526967893\ \(0\)\
-\-\ practitioner\\:\\ 0\\.001983969526967893\ \(0\)\
-\-\ specialty\\:\\ 0\\.001983969526967893\ \(0\)\
-\-\ misnomer\\:\\ 0\\.001983969526967893\ \(0\)\
-\-\ sort\\:\\ 0\\.001983969526967893\ \(0\)\
-\-\ 31\\.2\\:\\ 0\\.001983969526967893\ \(0\)\
-\-\ 95\\-97\\:\\ 0\\.001983969526967893\ \(0\)\
-\-\ defibrillators\\:\\ 0\\.001983969526967893\ \(0\)\
-\-\ reviews\\:\\ 0\\.001983969526967893\ \(0\)\
-\-\ hyaluronic\\:\\ 0\\.001983969526967893\ \(0\)\
-\-\ microfracturing\\:\\ 0\\.001983969526967893\ \(0\)\
-\-\ autograft\\:\\ 0\\.001983969526967893\ \(0\)\
-\-\ mosaicplasty\\:\\ 0\\.001983969526967893\ \(0\)\
-\-\ polousky\\:\\ 0\\.001983969526967893\ \(0\)\
-\-\ k\\√\\∂nig\\:\\ 0\\.001983969526967893\ \(0\)\
-\-\ \\:1118\\-26\\:\\ 0\\.001983969526967893\ \(0\)\
-\-\ editorial\\:\\ 0\\.001983969526967893\ \(0\)\
-\-\ letts\\:\\ 0\\.001983969526967893\ \(0\)\
-\-\ davidson\\:\\ 0\\.001983969526967893\ \(0\)\
-\-\ scand\\:\\ 0\\.001983969526967893\ \(0\)\
-\-\ traumatol\\:\\ 0\\.001983969526967893\ \(0\)\
-\-\ arthrosc\\:\\ 0\\.001983969526967893\ \(0\)\
-\-\ cochrane\\:\\ 0\\.001983969526967893\ \(0\)\
-\-\ syst\\:\\ 0\\.001983969526967893\ \(0\)\
-\-\ radiographs\\:\\ 0\\.001983100274451978\ \(0\)\
-\-\ area\\:\\ 0\\.0019798506918424037\ \(0\)\
-\-\ onset\\:\\ 0\\.0019766154562226306\ \(0\)\
-\-\ steroids\\:\\ 0\\.0019637165991058902\ \(0\)\
-\-\ iii\\:\\ 0\\.0019596958374368547\ \(0\)\
-\-\ such\\:\\ 0\\.0019574983804402923\ \(0\)\
-\-\ 1\\.\\:\\ 0\\.001955927576671422\ \(0\)\
-\-\ form\\:\\ 0\\.0019517522512757504\ \(0\)\
-\-\ light\\:\\ 0\\.001947828376484708\ \(0\)\
-\-\ 27\\:\\ 0\\.0019362423839994532\ \(0\)\
-\-\ tibial\\:\\ 0\\.0019286682821255084\ \(0\)\
-\-\ 19\\:\\ 0\\.0019249248171789675\ \(0\)\
-\-\ sensation\\:\\ 0\\.0019175228606471638\ \(0\)\
-\-\ having\\:\\ 0\\.0019175228606471638\ \(0\)\
-\-\ symmetric\\:\\ 0\\.0019066260567808726\ \(0\)\
-\-\ some\\:\\ 0\\.0019015106892037803\ \(0\)\
-\-\ usually\\:\\ 0\\.0019015106892037803\ \(0\)\
-\-\ \\¬\\∞\\:\\ 0\\.0018849306632384925\ \(0\)\
-\-\ fahrenheit\\:\\ 0\\.0018849306632384925\ \(0\)\
-\-\ 25\\.6\\:\\ 0\\.0018849306632384925\ \(0\)\
-\-\ hop\\:\\ 0\\.0018849306632384925\ \(0\)\
-\-\ vasectomy\\:\\ 0\\.0018849306632384925\ \(0\)\
-\-\ marijuana\\:\\ 0\\.0018849306632384925\ \(0\)\
-\-\ franz\\:\\ 0\\.0018849306632384925\ \(0\)\
-\-\ pre\\-surgical\\:\\ 0\\.0018849306632384925\ \(0\)\
-\-\ pacemakers\\:\\ 0\\.0018849306632384925\ \(0\)\
-\-\ strategy\\:\\ 0\\.0018849306632384925\ \(0\)\
-\-\ jo\\:\\ 0\\.0018849306632384925\ \(0\)\
-\-\ fischer\\:\\ 0\\.0018849306632384925\ \(0\)\
-\-\ gaillard\\:\\ 0\\.0018849306632384925\ \(0\)\
-\-\ radiopaedia\\.org\\:\\ 0\\.0018849306632384925\ \(0\)\
-\-\ 06\\:\\ 0\\.0018849306632384925\ \(0\)\
-\-\ 23\\.\\:\\ 0\\.0018849306632384925\ \(0\)\
-\-\ smet\\:\\ 0\\.0018849306632384925\ \(0\)\
-\-\ fisher\\:\\ 0\\.0018849306632384925\ \(0\)\
-\-\ 155\\:\\ 0\\.0018849306632384925\ \(0\)\
-\-\ 27\\.\\:\\ 0\\.0018849306632384925\ \(0\)\
-\-\ distribution\\:\\ 0\\.0018787030407379079\ \(0\)\
-\-\ few\\:\\ 0\\.0018787030407379079\ \(0\)\
-\-\ report\\:\\ 0\\.0018686301109857165\ \(0\)\
-\-\ medications\\:\\ 0\\.0018620283918031456\ \(0\)\
-\-\ 22\\:\\ 0\\.0018620283918031456\ \(0\)\
-\-\ strength\\:\\ 0\\.001852290133424632\ \(0\)\
-\-\ 14\\:\\ 0\\.0018396005943903083\ \(0\)\
-\-\ represent\\:\\ 0\\.0018333773282557554\ \(0\)\
-\-\ 5\\:\\ 0\\.0018320667482492647\ \(0\)\
-\-\ weighted\\:\\ 0\\.0018151695144808498\ \(0\)\
-\-\ 98\\.6\\:\\ 0\\.001814661471139865\ \(0\)\
-\-\ conjunctivae\\:\\ 0\\.001814661471139865\ \(0\)\
-\-\ \\-patient\\:\\ 0\\.001814661471139865\ \(0\)\
-\-\ lane\\:\\ 0\\.001814661471139865\ \(0\)\
-\-\ bags\\:\\ 0\\.001814661471139865\ \(0\)\
-\-\ participating\\:\\ 0\\.001814661471139865\ \(0\)\
-\-\ eleven\\:\\ 0\\.001814661471139865\ \(0\)\
-\-\ heroin\\:\\ 0\\.001814661471139865\ \(0\)\
-\-\ construction\\:\\ 0\\.001814661471139865\ \(0\)\
-\-\ alexander\\:\\ 0\\.001814661471139865\ \(0\)\
-\-\ say\\:\\ 0\\.001814661471139865\ \(0\)\
-\-\ analyzed\\:\\ 0\\.001814661471139865\ \(0\)\
-\-\ rd\\:\\ 0\\.001814661471139865\ \(0\)\
-\-\ radiopaedia\\:\\ 0\\.001814661471139865\ \(0\)\
-\-\ bk\\:\\ 0\\.001814661471139865\ \(0\)\
-\-\ mp\\:\\ 0\\.001814661471139865\ \(0\)\
-\-\ do\\:\\ 0\\.0018121997801982988\ \(0\)\
-\-\ using\\:\\ 0\\.0018121997801982988\ \(0\)\
-\-\ had\\:\\ 0\\.0018015142347246782\ \(0\)\
-\-\ 5\\.\\:\\ 0\\.0018004981480427087\ \(0\)\
-\-\ ii\\:\\ 0\\.0018004981480427087\ \(0\)\
-\-\ 2\\:\\ 0\\.0017978549062145053\ \(0\)\
-\-\ suspected\\:\\ 0\\.0017976160170572722\ \(0\)\
-\-\ s\\:\\ 0\\.001795872740924221\ \(0\)\
-\-\ test\\:\\ 0\\.0017834550317747846\ \(0\)\
-\-\ fluid\\:\\ 0\\.0017796573800223643\ \(0\)\
-\-\ t2\\:\\ 0\\.0017722926981560956\ \(0\)\
-\-\ before\\:\\ 0\\.0017669865132880667\ \(0\)\
-\-\ etiology\\:\\ 0\\.0017669865132880667\ \(0\)\
-\-\ denies\\:\\ 0\\.0017616181099780544\ \(0\)\
-\-\ murmurs\\/rubs\\/gallops\\:\\ 0\\.001760156451278065\ \(0\)\
-\-\ malleoli\\:\\ 0\\.001760156451278065\ \(0\)\
-\-\ advair\\:\\ 0\\.001760156451278065\ \(0\)\
-\-\ universally\\:\\ 0\\.001760156451278065\ \(0\)\
-\-\ ej\\:\\ 0\\.001760156451278065\ \(0\)\
-\-\ comment\\:\\ 0\\.001760156451278065\ \(0\)\
-\-\ kj\\:\\ 0\\.001760156451278065\ \(0\)\
-\-\ cj\\:\\ 0\\.001760156451278065\ \(0\)\
-\-\ 25\\.\\:\\ 0\\.001760156451278065\ \(0\)\
-\-\ robinson\\:\\ 0\\.001760156451278065\ \(0\)\
-\-\ 26\\.\\:\\ 0\\.001760156451278065\ \(0\)\
-\-\ include\\:\\ 0\\.001756585360061275\ \(0\)\
-\-\ however\\:\\ 0\\.0017435525566172963\ \(0\)\
-\-\ taken\\:\\ 0\\.0017407156794918752\ \(0\)\
-\-\ many\\:\\ 0\\.0017157857918453456\ \(0\)\
-\-\ \\-rom\\:\\ 0\\.0017156226074104648\ \(0\)\
-\-\ gauge\\:\\ 0\\.0017156226074104648\ \(0\)\
-\-\ dessicans\\:\\ 0\\.0017156226074104648\ \(0\)\
-\-\ unsure\\:\\ 0\\.0017156226074104648\ \(0\)\
-\-\ language\\:\\ 0\\.0017156226074104648\ \(0\)\
-\-\ surprising\\:\\ 0\\.0017156226074104648\ \(0\)\
-\-\ malleolar\\:\\ 0\\.0017156226074104648\ \(0\)\
-\-\ observations\\:\\ 0\\.0017156226074104648\ \(0\)\
-\-\ bd\\:\\ 0\\.0017156226074104648\ \(0\)\
-\-\ editors\\:\\ 0\\.0017156226074104648\ \(0\)\
-\-\ 2009\\.\\:\\ 0\\.0017156226074104648\ \(0\)\
-\-\ n\\.p\\.\\:\\ 0\\.0017156226074104648\ \(0\)\
-\-\ ig\\:\\ 0\\.0017156226074104648\ \(0\)\
-\-\ database\\:\\ 0\\.0017156226074104648\ \(0\)\
-\-\ if\\:\\ 0\\.001699128065789425\ \(0\)\
-\-\ with\\:\\ 0\\.0016861862211293341\ \(0\)\
-\-\ results\\:\\ 0\\.0016851697161429638\ \(0\)\
-\-\ motion\\:\\ 0\\.0016783688668422269\ \(0\)\
-\-\ computerized\\:\\ 0\\.0016779697789231032\ \(0\)\
-\-\ 4\\/10\\:\\ 0\\.0016779697789231032\ \(0\)\
-\-\ wakes\\:\\ 0\\.0016779697789231032\ \(0\)\
-\-\ dissecting\\:\\ 0\\.0016779697789231032\ \(0\)\
-\-\ certainty\\:\\ 0\\.0016779697789231032\ \(0\)\
-\-\ bracing\\:\\ 0\\.0016779697789231032\ \(0\)\
-\-\ nonsteroidal\\:\\ 0\\.0016779697789231032\ \(0\)\
-\-\ principles\\:\\ 0\\.0016779697789231032\ \(0\)\
-\-\ wc\\:\\ 0\\.0016779697789231032\ \(0\)\
-\-\ n\\.d\\:\\ 0\\.0016779697789231032\ \(0\)\
-\-\ 1985\\:\\ 0\\.0016779697789231032\ \(0\)\
-\-\ revised\\:\\ 0\\.0016779697789231032\ \(0\)\
-\-\ rh\\:\\ 0\\.0016779697789231032\ \(0\)\
-\-\ 24\\.\\:\\ 0\\.0016779697789231032\ \(0\)\
-\-\ conservative\\:\\ 0\\.0016672403722981038\ \(0\)\
-\-\ canal\\:\\ 0\\.0016585165728843245\ \(0\)\
-\-\ currently\\:\\ 0\\.0016542124059658314\ \(0\)\
-\-\ use\\:\\ 0\\.0016499458305047887\ \(0\)\
-\-\ pedal\\:\\ 0\\.0016453534153118372\ \(0\)\
-\-\ cocaine\\:\\ 0\\.0016453534153118372\ \(0\)\
-\-\ 123\\:\\ 0\\.0016453534153118372\ \(0\)\
-\-\ anderson\\:\\ 0\\.0016453534153118372\ \(0\)\
-\-\ 1986\\:\\ 0\\.0016453534153118372\ \(0\)\
-\-\ acta\\:\\ 0\\.0016453534153118372\ \(0\)\
-\-\ rev\\:\\ 0\\.0016453534153118372\ \(0\)\
-\-\ system\\:\\ 0\\.0016436150319495836\ \(0\)\
-\-\ leg\\:\\ 0\\.0016415228669315078\ \(0\)\
-\-\ hours\\:\\ 0\\.0016415228669315078\ \(0\)\
-\-\ extremities\\:\\ 0\\.001637365226644303\ \(0\)\
-\-\ normal\\:\\ 0\\.001636067970931975\ \(0\)\
-\-\ cysts\\:\\ 0\\.001635299600796955\ \(0\)\
-\-\ left\\:\\ 0\\.0016347671922106505\ \(0\)\
-\-\ reveals\\:\\ 0\\.0016332426723473488\ \(0\)\
-\-\ s1\\/s2\\:\\ 0\\.0016165837436810644\ \(0\)\
-\-\ tilt\\:\\ 0\\.0016165837436810644\ \(0\)\
-\-\ 6\\.2\\:\\ 0\\.0016165837436810644\ \(0\)\
-\-\ cane\\:\\ 0\\.0016165837436810644\ \(0\)\
-\-\ walks\\:\\ 0\\.0016165837436810644\ \(0\)\
-\-\ pedestrian\\:\\ 0\\.0016165837436810644\ \(0\)\
-\-\ 2007\\.\\:\\ 0\\.0016165837436810644\ \(0\)\
-\-\ mortise\\:\\ 0\\.0016165837436810644\ \(0\)\
-\-\ ineffective\\:\\ 0\\.0016165837436810644\ \(0\)\
-\-\ je\\:\\ 0\\.0016165837436810644\ \(0\)\
-\-\ 19\\.\\:\\ 0\\.0016165837436810644\ \(0\)\
-\-\ rm\\:\\ 0\\.0016165837436810644\ \(0\)\
-\-\ gm\\:\\ 0\\.0016165837436810644\ \(0\)\
-\-\ prior\\:\\ 0\\.001607801249781898\ \(0\)\
-\-\ developed\\:\\ 0\\.001607262083456138\ \(0\)\
-\-\ result\\:\\ 0\\.0016014578197107775\ \(0\)\
-\-\ active\\:\\ 0\\.001593824542767406\ \(0\)\
-\-\ within\\:\\ 0\\.0015927028904602653\ \(0\)\
-\-\ orthopedist\\:\\ 0\\.0015908483954500373\ \(0\)\
-\-\ regained\\:\\ 0\\.0015908483954500373\ \(0\)\
-\-\ stabbing\\:\\ 0\\.0015908483954500373\ \(0\)\
-\-\ character\\:\\ 0\\.0015908483954500373\ \(0\)\
-\-\ predisposition\\:\\ 0\\.0015908483954500373\ \(0\)\
-\-\ displace\\:\\ 0\\.0015908483954500373\ \(0\)\
-\-\ radiolucency\\:\\ 0\\.0015908483954500373\ \(0\)\
-\-\ randomized\\:\\ 0\\.0015908483954500373\ \(0\)\
-\-\ approaches\\:\\ 0\\.0015908483954500373\ \(0\)\
-\-\ athletes\\:\\ 0\\.0015908483954500373\ \(0\)\
-\-\ simulating\\:\\ 0\\.0015908483954500373\ \(0\)\
-\-\ 21\\.\\:\\ 0\\.0015908483954500373\ \(0\)\
-\-\ 22\\.\\:\\ 0\\.0015908483954500373\ \(0\)\
-\-\ world\\:\\ 0\\.0015908483954500373\ \(0\)\
-\-\ management\\:\\ 0\\.0015752474076480905\ \(0\)\
-\-\ evaluations\\:\\ 0\\.0015675679411744326\ \(0\)\
-\-\ non\\-calcified\\:\\ 0\\.0015675679411744326\ \(0\)\
-\-\ forced\\:\\ 0\\.0015675679411744326\ \(0\)\
-\-\ depth\\:\\ 0\\.0015675679411744326\ \(0\)\
-\-\ candidates\\:\\ 0\\.0015675679411744326\ \(0\)\
-\-\ 1989\\:\\ 0\\.0015675679411744326\ \(0\)\
-\-\ miller\\:\\ 0\\.0015675679411744326\ \(0\)\
-\-\ appears\\:\\ 0\\.0015538489598423296\ \(0\)\
-\-\ 2\\/5\\:\\ 0\\.001546314551582437\ \(0\)\
-\-\ seatbelt\\:\\ 0\\.001546314551582437\ \(0\)\
-\-\ albuterol\\:\\ 0\\.001546314551582437\ \(0\)\
-\-\ subtalar\\:\\ 0\\.001546314551582437\ \(0\)\
-\-\ objects\\:\\ 0\\.001546314551582437\ \(0\)\
-\-\ osteotomy\\:\\ 0\\.001546314551582437\ \(0\)\
-\-\ pg\\:\\ 0\\.001546314551582437\ \(0\)\
-\-\ acute\\:\\ 0\\.001546076694508912\ \(0\)\
-\-\ consistent\\:\\ 0\\.0015353919898616535\ \(0\)\
-\-\ scleral\\:\\ 0\\.0015267633284086373\ \(0\)\
-\-\ favors\\:\\ 0\\.0015267633284086373\ \(0\)\
-\-\ electromyography\\:\\ 0\\.0015267633284086373\ \(0\)\
-\-\ referring\\:\\ 0\\.0015267633284086373\ \(0\)\
-\-\ l2\\-l3\\:\\ 0\\.0015267633284086373\ \(0\)\
-\-\ arthritic\\:\\ 0\\.0015267633284086373\ \(0\)\
-\-\ traveling\\:\\ 0\\.0015267633284086373\ \(0\)\
-\-\ hypercholesterolemia\\:\\ 0\\.0015267633284086373\ \(0\)\
-\-\ aunt\\:\\ 0\\.0015267633284086373\ \(0\)\
-\-\ listen\\:\\ 0\\.0015267633284086373\ \(0\)\
-\-\ detailed\\:\\ 0\\.0015267633284086373\ \(0\)\
-\-\ nonoperative\\:\\ 0\\.0015267633284086373\ \(0\)\
-\-\ en\\:\\ 0\\.0015267633284086373\ \(0\)\
-\-\ condyles\\:\\ 0\\.0015267633284086373\ \(0\)\
-\-\ helical\\:\\ 0\\.0015267633284086373\ \(0\)\
-\-\ iv\\:\\ 0\\.0015234122801470902\ \(0\)\
-\-\ peripheral\\:\\ 0\\.0015104706018632718\ \(0\)\
-\-\ \\'\\'\\:\\ 0\\.0015093425759518146\ \(0\)\
-\-\ 10\\/10\\:\\ 0\\.0015086617230950755\ \(0\)\
-\-\ highlight\\:\\ 0\\.0015086617230950755\ \(0\)\
-\-\ fragmentation\\:\\ 0\\.0015086617230950755\ \(0\)\
-\-\ trials\\:\\ 0\\.0015086617230950755\ \(0\)\
-\-\ specialist\\:\\ 0\\.0015086617230950755\ \(0\)\
-\-\ knowledge\\:\\ 0\\.0015086617230950755\ \(0\)\
-\-\ article\\:\\ 0\\.0015086617230950755\ \(0\)\
-\-\ weight\\:\\ 0\\.0014963096165807842\ \(0\)\
-\-\ electrodiagnostic\\:\\ 0\\.001491809531720637\ \(0\)\
-\-\ mouse\\:\\ 0\\.001491809531720637\ \(0\)\
-\-\ expanded\\:\\ 0\\.001491809531720637\ \(0\)\
-\-\ 17\\.\\:\\ 0\\.001491809531720637\ \(0\)\
-\-\ br\\:\\ 0\\.001491809531720637\ \(0\)\
-\-\ 1\\:\\ 0\\.0014899802403222082\ \(0\)\
-\-\ discovery\\:\\ 0\\.0014760453594838095\ \(0\)\
-\-\ contraindicated\\:\\ 0\\.0014760453594838095\ \(0\)\
-\-\ providing\\:\\ 0\\.0014760453594838095\ \(0\)\
-\-\ 16\\.\\:\\ 0\\.0014760453594838095\ \(0\)\
-\-\ 20\\.\\:\\ 0\\.0014760453594838095\ \(0\)\
-\-\ pm\\:\\ 0\\.0014760453594838095\ \(0\)\
-\-\ crossed\\:\\ 0\\.0014612371958745193\ \(0\)\
-\-\ eventual\\:\\ 0\\.0014612371958745193\ \(0\)\
-\-\ release\\:\\ 0\\.0014612371958745193\ \(0\)\
-\-\ 92\\:\\ 0\\.0014612371958745193\ \(0\)\
-\-\ roentgenol\\:\\ 0\\.0014612371958745193\ \(0\)\
-\-\ being\\:\\ 0\\.001454708342354938\ \(0\)\
-\-\ weighing\\:\\ 0\\.001447275687853037\ \(0\)\
-\-\ encroachment\\:\\ 0\\.001447275687853037\ \(0\)\
-\-\ my\\:\\ 0\\.001447275687853037\ \(0\)\
-\-\ locking\\:\\ 0\\.001447275687853037\ \(0\)\
-\-\ non\\-operative\\:\\ 0\\.001447275687853037\ \(0\)\
-\-\ 1991\\:\\ 0\\.001447275687853037\ \(0\)\
-\-\ 14\\.\\:\\ 0\\.001447275687853037\ \(0\)\
-\-\ 18\\.\\:\\ 0\\.001447275687853037\ \(0\)\
-\-\ history\\:\\ 0\\.0014413953806876934\ \(0\)\
-\-\ presentation\\:\\ 0\\.0014379094452814276\ \(0\)\
-\-\ l3\\-l4\\:\\ 0\\.001434069234196399\ \(0\)\
-\-\ tunnel\\:\\ 0\\.001434069234196399\ \(0\)\
-\-\ worked\\:\\ 0\\.001434069234196399\ \(0\)\
-\-\ 2014\\:\\ 0\\.001434069234196399\ \(0\)\
-\-\ 1993\\:\\ 0\\.001434069234196399\ \(0\)\
-\-\ practice\\:\\ 0\\.001434069234196399\ \(0\)\
-\-\ lives\\:\\ 0\\.0014215403396220096\ \(0\)\
-\-\ categories\\:\\ 0\\.0014215403396220096\ \(0\)\
-\-\ i\\.\\:\\ 0\\.0014215403396220096\ \(0\)\
-\-\ 13\\.\\:\\ 0\\.0014215403396220096\ \(0\)\
-\-\ 87\\:\\ 0\\.0014215403396220096\ \(0\)\
-\-\ present\\:\\ 0\\.0014142711924267322\ \(0\)\
-\-\ air\\:\\ 0\\.0014124389968500077\ \(0\)\
-\-\ quadrants\\:\\ 0\\.0014096228593656753\ \(0\)\
-\-\ remember\\:\\ 0\\.0014096228593656753\ \(0\)\
-\-\ research\\:\\ 0\\.0014096228593656753\ \(0\)\
-\-\ alteration\\:\\ 0\\.0014096228593656753\ \(0\)\
-\-\ evolution\\:\\ 0\\.0014096228593656753\ \(0\)\
-\-\ orthopaedic\\:\\ 0\\.0014096228593656753\ \(0\)\
-\-\ ab\\:\\ 0\\.0014096228593656753\ \(0\)\
-\-\ type\\:\\ 0\\.0014072419288455838\ \(0\)\
-\-\ three\\:\\ 0\\.0014072419288455838\ \(0\)\
-\-\ available\\:\\ 0\\.001403380092251977\ \(0\)\
-\-\ size\\:\\ 0\\.0013995485448845975\ \(0\)\
-\-\ bmi\\:\\ 0\\.001398259885346405\ \(0\)\
-\-\ wearing\\:\\ 0\\.001398259885346405\ \(0\)\
-\-\ discuss\\:\\ 0\\.001398259885346405\ \(0\)\
-\-\ your\\:\\ 0\\.001398259885346405\ \(0\)\
-\-\ progresses\\:\\ 0\\.001398259885346405\ \(0\)\
-\-\ 12\\.\\:\\ 0\\.001398259885346405\ \(0\)\
-\-\ dr\\:\\ 0\\.001398259885346405\ \(0\)\
-\-\ 1990\\:\\ 0\\.001398259885346405\ \(0\)\
-\-\ 2015\\:\\ 0\\.001398259885346405\ \(0\)\
-\-\ swelling\\:\\ 0\\.001390723431353753\ \(0\)\
-\-\ pink\\:\\ 0\\.0013874021025982776\ \(0\)\
-\-\ drawer\\:\\ 0\\.0013874021025982776\ \(0\)\
-\-\ laxity\\:\\ 0\\.0013874021025982776\ \(0\)\
-\-\ limp\\:\\ 0\\.0013874021025982776\ \(0\)\
-\-\ shallow\\:\\ 0\\.0013874021025982776\ \(0\)\
-\-\ measurements\\:\\ 0\\.0013874021025982776\ \(0\)\
-\-\ 15\\.\\:\\ 0\\.0013874021025982776\ \(0\)\
-\-\ de\\:\\ 0\\.0013874021025982776\ \(0\)\
-\-\ interventions\\:\\ 0\\.0013874021025982776\ \(0\)\
-\-\ submandibular\\:\\ 0\\.0013770064957544094\ \(0\)\
-\-\ fibular\\:\\ 0\\.0013770064957544094\ \(0\)\
-\-\ navicular\\:\\ 0\\.0013770064957544094\ \(0\)\
-\-\ deployed\\:\\ 0\\.0013770064957544094\ \(0\)\
-\-\ widely\\:\\ 0\\.0013770064957544094\ \(0\)\
-\-\ progressing\\:\\ 0\\.0013770064957544094\ \(0\)\
-\-\ dec\\:\\ 0\\.0013770064957544094\ \(0\)\
-\-\ prospective\\:\\ 0\\.0013770064957544094\ \(0\)\
-\-\ determining\\:\\ 0\\.0013770064957544094\ \(0\)\
-\-\ central\\:\\ 0\\.001373537546096707\ \(0\)\
-\-\ case\\:\\ 0\\.0013699348555451423\ \(0\)\
-\-\ showed\\:\\ 0\\.001368736330202099\ \(0\)\
-\-\ l4\\-l5\\:\\ 0\\.0013670353197602094\ \(0\)\
-\-\ annulus\\:\\ 0\\.0013670353197602094\ \(0\)\
-\-\ took\\:\\ 0\\.0013670353197602094\ \(0\)\
-\-\ indistinct\\:\\ 0\\.0013670353197602094\ \(0\)\
-\-\ comes\\:\\ 0\\.0013670353197602094\ \(0\)\
-\-\ nondistended\\:\\ 0\\.0013574552725806096\ \(0\)\
-\-\ ii\\-xii\\:\\ 0\\.0013574552725806096\ \(0\)\
-\-\ link\\:\\ 0\\.0013574552725806096\ \(0\)\
-\-\ repetitive\\:\\ 0\\.0013574552725806096\ \(0\)\
-\-\ accurate\\:\\ 0\\.0013574552725806096\ \(0\)\
-\-\ f\\.\\:\\ 0\\.0013574552725806096\ \(0\)\
-\-\ plain\\:\\ 0\\.0013557712323835293\ \(0\)\
-\-\ positive\\:\\ 0\\.0013546094725374288\ \(0\)\
-\-\ respirations\\:\\ 0\\.0013482368241236368\ \(0\)\
-\-\ person\\:\\ 0\\.0013482368241236368\ \(0\)\
-\-\ mascaro\\:\\ 0\\.0013482368241236368\ \(0\)\
-\-\ terms\\:\\ 0\\.0013482368241236368\ \(0\)\
-\-\ kg\\:\\ 0\\.0013482368241236368\ \(0\)\
-\-\ r\\.\\:\\ 0\\.0013482368241236368\ \(0\)\
-\-\ atraumatic\\:\\ 0\\.0013393536672670478\ \(0\)\
-\-\ aa\\:\\ 0\\.0013393536672670478\ \(0\)\
-\-\ injury\\:\\ 0\\.001330829771318417\ \(0\)\
-\-\ starting\\:\\ 0\\.0013307822652613638\ \(0\)\
-\-\ twice\\:\\ 0\\.0013307822652613638\ \(0\)\
-\-\ fills\\:\\ 0\\.0013307822652613638\ \(0\)\
-\-\ ajr\\:\\ 0\\.0013307822652613638\ \(0\)\
-\-\ diagnosing\\:\\ 0\\.0013307822652613638\ \(0\)\
-\-\ radiograph\\:\\ 0\\.0013297257713343247\ \(0\)\
-\-\ utilized\\:\\ 0\\.0013225014758926092\ \(0\)\
-\-\ stopped\\:\\ 0\\.0013225014758926092\ \(0\)\
-\-\ changed\\:\\ 0\\.0013225014758926092\ \(0\)\
-\-\ pack\\:\\ 0\\.0013225014758926092\ \(0\)\
-\-\ pronounced\\:\\ 0\\.0013225014758926092\ \(0\)\
-\-\ false\\:\\ 0\\.0013225014758926092\ \(0\)\
-\-\ anti\\-inflammatory\\:\\ 0\\.0013225014758926092\ \(0\)\
-\-\ l\\.\\:\\ 0\\.0013225014758926092\ \(0\)\
-\-\ known\\:\\ 0\\.0013209824545499852\ \(0\)\
-\-\ 5mm\\:\\ 0\\.0013144922372939306\ \(0\)\
-\-\ knife\\:\\ 0\\.0013144922372939306\ \(0\)\
-\-\ lieberman\\:\\ 0\\.0013144922372939306\ \(0\)\
-\-\ tolerated\\:\\ 0\\.0013144922372939306\ \(0\)\
-\-\ bs\\:\\ 0\\.0013144922372939306\ \(0\)\
-\-\ 99\\:\\ 0\\.0013067373036557818\ \(0\)\
-\-\ will\\:\\ 0\\.0013060483724372945\ \(0\)\
-\-\ pounds\\:\\ 0\\.0012992210216170048\ \(0\)\
-\-\ https\\:\\ 0\\.0012992210216170048\ \(0\)\
-\-\ histological\\:\\ 0\\.0012992210216170048\ \(0\)\
-\-\ method\\:\\ 0\\.0012992210216170048\ \(0\)\
-\-\ 11\\.\\:\\ 0\\.0012992210216170048\ \(0\)\
-\-\ web\\:\\ 0\\.0012992210216170048\ \(0\)\
-\-\ heel\\:\\ 0\\.0012919291400464916\ \(0\)\
-\-\ relieve\\:\\ 0\\.0012919291400464916\ \(0\)\
-\-\ msiv\\:\\ 0\\.0012919291400464916\ \(0\)\
-\-\ exact\\:\\ 0\\.0012919291400464916\ \(0\)\
-\-\ 82\\:\\ 0\\.0012919291400464916\ \(0\)\
-\-\ provides\\:\\ 0\\.0012919291400464916\ \(0\)\
-\-\ debridement\\:\\ 0\\.0012919291400464916\ \(0\)\
-\-\ treating\\:\\ 0\\.0012919291400464916\ \(0\)\
-\-\ 2010\\:\\ 0\\.0012919291400464916\ \(0\)\
-\-\ neuropathy\\:\\ 0\\.0012848486474052478\ \(0\)\
-\-\ jeffrey\\:\\ 0\\.0012848486474052478\ \(0\)\
-\-\ go\\:\\ 0\\.0012848486474052478\ \(0\)\
-\-\ medical\\:\\ 0\\.0012844698583615068\ \(0\)\
-\-\ show\\:\\ 0\\.0012814635732738768\ \(0\)\
-\-\ normocephalic\\:\\ 0\\.0012779676320250094\ \(0\)\
-\-\ 2\\/4\\:\\ 0\\.0012779676320250094\ \(0\)\
-\-\ maintain\\:\\ 0\\.0012779676320250094\ \(0\)\
-\-\ balance\\:\\ 0\\.0012779676320250094\ \(0\)\
-\-\ get\\:\\ 0\\.0012779676320250094\ \(0\)\
-\-\ familial\\:\\ 0\\.0012779676320250094\ \(0\)\
-\-\ positioned\\:\\ 0\\.0012779676320250094\ \(0\)\
-\-\ edematous\\:\\ 0\\.0012779676320250094\ \(0\)\
-\-\ mmhg\\:\\ 0\\.0012712751615345074\ \(0\)\
-\-\ constant\\:\\ 0\\.0012712751615345074\ \(0\)\
-\-\ palpated\\:\\ 0\\.0012647611783683714\ \(0\)\
-\-\ heads\\:\\ 0\\.0012647611783683714\ \(0\)\
-\-\ tingling\\:\\ 0\\.0012522322837939818\ \(0\)\
-\-\ believed\\:\\ 0\\.0012522322837939818\ \(0\)\
-\-\ retrograde\\:\\ 0\\.0012522322837939818\ \(0\)\
-\-\ 6\\:\\ 0\\.0012467611926599287\ \(0\)\
-\-\ jaundice\\:\\ 0\\.0012462008688964802\ \(0\)\
-\-\ rotator\\:\\ 0\\.0012462008688964802\ \(0\)\
-\-\ identify\\:\\ 0\\.0012462008688964802\ \(0\)\
-\-\ impact\\:\\ 0\\.0012403148035376476\ \(0\)\
-\-\ smoker\\:\\ 0\\.0012403148035376476\ \(0\)\
-\-\ jennifer\\:\\ 0\\.0012403148035376476\ \(0\)\
-\-\ sperrazza\\:\\ 0\\.0012403148035376476\ \(0\)\
-\-\ video\\:\\ 0\\.0012403148035376476\ \(0\)\
-\-\ e\\:\\ 0\\.0012403148035376476\ \(0\)\
-\-\ d\\.\\:\\ 0\\.0012403148035376476\ \(0\)\
-\-\ baseline\\:\\ 0\\.0012345672467691587\ \(0\)\
-\-\ carpal\\:\\ 0\\.0012345672467691587\ \(0\)\
-\-\ metallic\\:\\ 0\\.0012345672467691587\ \(0\)\
-\-\ saturation\\:\\ 0\\.0012289518295183772\ \(0\)\
-\-\ foraminal\\:\\ 0\\.0012289518295183772\ \(0\)\
-\-\ years\\:\\ 0\\.0012258149179377052\ \(0\)\
-\-\ exertion\\:\\ 0\\.0012234626121632093\ \(0\)\
-\-\ allergies\\:\\ 0\\.0012234626121632093\ \(0\)\
-\-\ cuff\\:\\ 0\\.0012234626121632093\ \(0\)\
-\-\ communication\\:\\ 0\\.0012234626121632093\ \(0\)\
-\-\ acid\\:\\ 0\\.0012234626121632093\ \(0\)\
-\-\ m\\.\\:\\ 0\\.0012234626121632093\ \(0\)\
-\-\ toe\\:\\ 0\\.0012180940467702499\ \(0\)\
-\-\ l5\\-s1\\:\\ 0\\.0012180940467702499\ \(0\)\
-\-\ social\\:\\ 0\\.0012180940467702499\ \(0\)\
-\-\ lutnick\\:\\ 0\\.0012180940467702499\ \(0\)\
-\-\ separation\\:\\ 0\\.0012128409433943429\ \(0\)\
-\-\ detection\\:\\ 0\\.0012128409433943429\ \(0\)\
-\-\ loss\\:\\ 0\\.0012117558243617194\ \(0\)\
-\-\ wall\\:\\ 0\\.0012091642013867835\ \(0\)\
-\-\ 4\\/5\\:\\ 0\\.0012076984399263819\ \(0\)\
-\-\ food\\:\\ 0\\.0012076984399263819\ \(0\)\
-\-\ you\\:\\ 0\\.0012076984399263819\ \(0\)\
-\-\ repeated\\:\\ 0\\.0012076984399263819\ \(0\)\
-\-\ 2008\\:\\ 0\\.0012076984399263819\ \(0\)\
-\-\ 2000\\:\\ 0\\.0012076984399263819\ \(0\)\
-\-\ croce\\:\\ 0\\.001202661975050286\ \(0\)\
-\-\ gary\\:\\ 0\\.001202661975050286\ \(0\)\
-\-\ ipsilateral\\:\\ 0\\.001202661975050286\ \(0\)\
-\-\ o2\\:\\ 0\\.0011977272639321817\ \(0\)\
-\-\ iqbal\\:\\ 0\\.0011977272639321817\ \(0\)\
-\-\ synovial\\:\\ 0\\.0011977272639321817\ \(0\)\
-\-\ when\\:\\ 0\\.0011955697301494898\ \(0\)\
-\-\ two\\:\\ 0\\.0011955697301494898\ \(0\)\
-\-\ robert\\:\\ 0\\.0011928902763170914\ \(0\)\
-\-\ scott\\:\\ 0\\.0011928902763170914\ \(0\)\
-\-\ tirone\\:\\ 0\\.0011928902763170914\ \(0\)\
-\-\ surrounded\\:\\ 0\\.0011928902763170914\ \(0\)\
-\-\ effective\\:\\ 0\\.0011881472167525819\ \(0\)\
-\-\ sleep\\:\\ 0\\.0011834945066962327\ \(0\)\
-\-\ sustained\\:\\ 0\\.0011834945066962327\ \(0\)\
-\-\ indicate\\:\\ 0\\.0011834945066962327\ \(0\)\
-\-\ 1999\\:\\ 0\\.0011834945066962327\ \(0\)\
-\-\ value\\:\\ 0\\.0011834945066962327\ \(0\)\
-\-\ temperature\\:\\ 0\\.001178928768295609\ \(0\)\
-\-\ limb\\:\\ 0\\.001178928768295609\ \(0\)\
-\-\ charles\\:\\ 0\\.001178928768295609\ \(0\)\
-\-\ vaseem\\:\\ 0\\.001178928768295609\ \(0\)\
-\-\ 2007\\:\\ 0\\.001178928768295609\ \(0\)\
-\-\ arthropathy\\:\\ 0\\.0011744468096565772\ \(0\)\
-\-\ cardiovascular\\:\\ 0\\.00117004561143902\ \(0\)\
-\-\ philadelphia\\:\\ 0\\.00117004561143902\ \(0\)\
-\-\ car\\:\\ 0\\.0011657223146389712\ \(0\)\
-\-\ option\\:\\ 0\\.0011657223146389712\ \(0\)\
-\-\ ligaments\\:\\ 0\\.0011657223146389712\ \(0\)\
-\-\ failed\\:\\ 0\\.0011657223146389712\ \(0\)\
-\-\ stability\\:\\ 0\\.0011657223146389712\ \(0\)\
-\-\ 5\\/5\\:\\ 0\\.0011614742094333364\ \(0\)\
-\-\ illness\\:\\ 0\\.0011614742094333364\ \(0\)\
-\-\ smith\\:\\ 0\\.0011614742094333364\ \(0\)\
-\-\ evaluating\\:\\ 0\\.0011614742094333364\ \(0\)\
-\-\ making\\:\\ 0\\.0011572987249782068\ \(0\)\
-\-\ future\\:\\ 0\\.0011572987249782068\ \(0\)\
-\-\ asthma\\:\\ 0\\.0011531934200645817\ \(0\)\
-\-\ transplant\\:\\ 0\\.0011531934200645817\ \(0\)\
-\-\ long\\-term\\:\\ 0\\.0011531934200645817\ \(0\)\
-\-\ correlation\\:\\ 0\\.001149155974546455\ \(0\)\
-\-\ mg\\:\\ 0\\.001145184181465903\ \(0\)\
-\-\ genetic\\:\\ 0\\.0011412759398082477\ \(0\)\
-\-\ stated\\:\\ 0\\.0011374292478277543\ \(0\)\
-\-\ reflex\\:\\ 0\\.0011374292478277543\ \(0\)\
-\-\ premature\\:\\ 0\\.0011374292478277543\ \(0\)\
-\-\ flattening\\:\\ 0\\.0011374292478277543\ \(0\)\
-\-\ juvenile\\:\\ 0\\.0011374292478277543\ \(0\)\
-\-\ slowly\\:\\ 0\\.0011336421968907817\ \(0\)\
-\-\ struck\\:\\ 0\\.0011336421968907817\ \(0\)\
-\-\ randall\\:\\ 0\\.0011336421968907817\ \(0\)\
-\-\ loftus\\:\\ 0\\.0011336421968907817\ \(0\)\
-\-\ sharp\\:\\ 0\\.001129912965788977\ \(0\)\
-\-\ etc\\:\\ 0\\.001129912965788977\ \(0\)\
-\-\ data\\:\\ 0\\.001129912965788977\ \(0\)\
-\-\ became\\:\\ 0\\.0011262398154801008\ \(0\)\
-\-\ 43\\:\\ 0\\.0011262398154801008\ \(0\)\
-\-\ nsaids\\:\\ 0\\.0011262398154801008\ \(0\)\
-\-\ 2005\\:\\ 0\\.0011262398154801008\ \(0\)\
-\-\ achilles\\:\\ 0\\.0011226210842184639\ \(0\)\
-\-\ immobilization\\:\\ 0\\.0011226210842184639\ \(0\)\
-\-\ reference\\:\\ 0\\.0011226210842184639\ \(0\)\
-\-\ cn\\:\\ 0\\.0011226210842184639\ \(0\)\
-\-\ support\\:\\ 0\\.0011190551830408497\ \(0\)\
-\-\ contributors\\:\\ 0\\.00111554059157722\ \(0\)\
-\-\ tomography\\:\\ 0\\.00111554059157722\ \(0\)\
-\-\ damage\\:\\ 0\\.00111554059157722\ \(0\)\
-\-\ swollen\\:\\ 0\\.0011120758541585693\ \(0\)\
-\-\ standing\\:\\ 0\\.0011120758541585693\ \(0\)\
-\-\ went\\:\\ 0\\.0011120758541585693\ \(0\)\
-\-\ variable\\:\\ 0\\.0011120758541585693\ \(0\)\
-\-\ probably\\:\\ 0\\.0011120758541585693\ \(0\)\
-\-\ patellar\\:\\ 0\\.0011086595761969817\ \(0\)\
-\-\ prolonged\\:\\ 0\\.0011086595761969817\ \(0\)\
-\-\ facet\\:\\ 0\\.0011086595761969817\ \(0\)\
-\-\ every\\:\\ 0\\.0011086595761969817\ \(0\)\
-\-\ draining\\:\\ 0\\.0011086595761969817\ \(0\)\
-\-\ systems\\:\\ 0\\.0011086595761969817\ \(0\)\
-\-\ insufficiency\\:\\ 0\\.0011086595761969817\ \(0\)\
-\-\ krishnan\\:\\ 0\\.0011052904208153657\ \(0\)\
-\-\ kartha\\:\\ 0\\.0011052904208153657\ \(0\)\
-\-\ computed\\:\\ 0\\.0011019671057064797\ \(0\)\
-\-\ mild\\:\\ 0\\.0010992933336253722\ \(0\)\
-\-\ ulnar\\:\\ 0\\.0010986884002027817\ \(0\)\
-\-\ joanna\\:\\ 0\\.0010954531225403437\ \(0\)\
-\-\ garvey\\:\\ 0\\.0010954531225403437\ \(0\)\
-\-\ serghany\\:\\ 0\\.0010954531225403437\ \(0\)\
-\-\ approach\\:\\ 0\\.0010954531225403437\ \(0\)\
-\-\ than\\:\\ 0\\.0010938196653240224\ \(0\)\
-\-\ common\\:\\ 0\\.0010924607777021969\ \(0\)\
-\-\ musculoskeletal\\:\\ 0\\.0010922601373016155\ \(0\)\
-\-\ geoffrey\\:\\ 0\\.0010922601373016155\ \(0\)\
-\-\ gerow\\:\\ 0\\.0010922601373016155\ \(0\)\
-\-\ longitudinal\\:\\ 0\\.0010922601373016155\ \(0\)\
-\-\ minimally\\:\\ 0\\.0010859967199559053\ \(0\)\
-\-\ rhythm\\:\\ 0\\.0010829242279659541\ \(0\)\
-\-\ broad\\:\\ 0\\.0010829242279659541\ \(0\)\
-\-\ pulses\\:\\ 0\\.001079889904566209\ \(0\)\
-\-\ joseph\\:\\ 0\\.001079889904566209\ \(0\)\
-\-\ choice\\:\\ 0\\.001079889904566209\ \(0\)\
-\-\ anatomy\\:\\ 0\\.001079889904566209\ \(0\)\
-\-\ deficit\\:\\ 0\\.0010768928130684525\ \(0\)\
-\-\ s1\\:\\ 0\\.0010768928130684525\ \(0\)\
-\-\ elbow\\:\\ 0\\.0010768928130684525\ \(0\)\
-\-\ particularly\\:\\ 0\\.0010768928130684525\ \(0\)\
-\-\ mechanism\\:\\ 0\\.0010739320508475574\ \(0\)\
-\-\ nontender\\:\\ 0\\.00107100674770962\ \(0\)\
-\-\ drug\\:\\ 0\\.00107100674770962\ \(0\)\
-\-\ once\\:\\ 0\\.0010681160643566637\ \(0\)\
-\-\ feet\\:\\ 0\\.0010681160643566637\ \(0\)\
-\-\ both\\:\\ 0\\.001066047870388921\ \(0\)\
-\-\ relief\\:\\ 0\\.001065259190941131\ \(0\)\
-\-\ types\\:\\ 0\\.001065259190941131\ \(0\)\
-\-\ adults\\:\\ 0\\.001065259190941131\ \(0\)\
-\-\ auscultation\\:\\ 0\\.0010624353457039362\ \(0\)\
-\-\ nerves\\:\\ 0\\.0010596437736903497\ \(0\)\
-\-\ consciousness\\:\\ 0\\.0010596437736903497\ \(0\)\
-\-\ undergo\\:\\ 0\\.0010596437736903497\ \(0\)\
-\-\ began\\:\\ 0\\.0010568837455384363\ \(0\)\
-\-\ obvious\\:\\ 0\\.0010541545563351816\ \(0\)\
-\-\ combination\\:\\ 0\\.0010514555245358203\ \(0\)\
-\-\ date\\:\\ 0\\.0010487859909422222\ \(0\)\
-\-\ 2003\\:\\ 0\\.0010487859909422222\ \(0\)\
-\-\ movement\\:\\ 0\\.0010435328875663152\ \(0\)\
-\-\ suggests\\:\\ 0\\.0010435328875663152\ \(0\)\
-\-\ alert\\:\\ 0\\.0010409481026785435\ \(0\)\
-\-\ conditions\\:\\ 0\\.0010383903840983542\ \(0\)\
-\-\ simple\\:\\ 0\\.001028419208104154\ \(0\)\
-\-\ foreign\\:\\ 0\\.001028419208104154\ \(0\)\
-\-\ erythema\\:\\ 0\\.0010259887413593646\ \(0\)\
-\-\ \\`\\`\\:\\ 0\\.0010259575171625878\ \(0\)\
-\-\ oriented\\:\\ 0\\.0010235822204890637\ \(0\)\
-\-\ increased\\:\\ 0\\.0010212431762577701\ \(0\)\
-\-\ replacement\\:\\ 0\\.0010188391609245544\ \(0\)\
-\-\ soft\\:\\ 0\\.0010165738954536151\ \(0\)\
-\-\ disruption\\:\\ 0\\.00101650172784782\ \(0\)\
-\-\ 17\\:\\ 0\\.00101650172784782\ \(0\)\
-\-\ place\\:\\ 0\\.001014186450868205\ \(0\)\
-\-\ night\\:\\ 0\\.001014186450868205\ \(0\)\
-\-\ surgery\\:\\ 0\\.001013678096902919\ \(0\)\
-\-\ bilateral\\:\\ 0\\.0010131009913602559\ \(0\)\
-\-\ contour\\:\\ 0\\.0010118929138995094\ \(0\)\
-\-\ part\\:\\ 0\\.0010118929138995094\ \(0\)\
-\-\ heent\\:\\ 0\\.0010096207124675814\ \(0\)\
-\-\ almost\\:\\ 0\\.0010096207124675814\ \(0\)\
-\-\ larger\\:\\ 0\\.0010051387538285495\ \(0\)\
-\-\ numbness\\:\\ 0\\.0010029282419770798\ \(0\)\
-\-\ completely\\:\\ 0\\.0010029282419770798\ \(0\)\
-\-\ 70\\:\\ 0\\.0010029282419770798\ \(0\)\
-\-\ systemic\\:\\ 0\\.0009985663422701898\ \(0\)\
-\-\ caucasian\\:\\ 0\\.0009964142588109435\ \(0\)\
-\-\ still\\:\\ 0\\.0009942809710804222\ \(0\)\
-\-\ become\\:\\ 0\\.0009942809710804222\ \(0\)\
-\-\ home\\:\\ 0\\.0009921661536053086\ \(0\)\
-\-\ our\\:\\ 0\\.0009921661536053086\ \(0\)\
-\-\ 23\\:\\ 0\\.0009921661536053086\ \(0\)\
-\-\ c\\:\\ 0\\.0009921661536053086\ \(0\)\
-\-\ medicine\\:\\ 0\\.0009900694892937816\ \(0\)\
-\-\ reflexes\\:\\ 0\\.000987990669150179\ \(0\)\
-\-\ visible\\:\\ 0\\.000987990669150179\ \(0\)\
-\-\ associated\\:\\ 0\\.0009850818573071333\ \(0\)\
-\-\ 90\\:\\ 0\\.000983885364236554\ \(0\)\
-\-\ appropriate\\:\\ 0\\.000983885364236554\ \(0\)\
-\-\ without\\:\\ 0\\.000982908239549663\ \(0\)\
-\-\ ordered\\:\\ 0\\.0009818582995529451\ \(0\)\
-\-\ repeat\\:\\ 0\\.0009818582995529451\ \(0\)\
-\-\ states\\:\\ 0\\.0009818582995529451\ \(0\)\
-\-\ current\\:\\ 0\\.0009778539493390523\ \(0\)\
-\-\ discussion\\:\\ 0\\.0009778539493390523\ \(0\)\
-\-\ 3\\:\\ 0\\.0009775161341995797\ \(0\)\
-\-\ injection\\:\\ 0\\.000973914188242354\ \(0\)\
-\-\ despite\\:\\ 0\\.0009700369656834164\ \(0\)\
-\-\ involves\\:\\ 0\\.0009700369656834164\ \(0\)\
-\-\ filled\\:\\ 0\\.0009700369656834164\ \(0\)\
-\-\ much\\:\\ 0\\.0009662203272117307\ \(0\)\
-\-\ 26\\:\\ 0\\.0009662203272117307\ \(0\)\
-\-\ t\\:\\ 0\\.0009662203272117307\ \(0\)\
-\-\ wrist\\:\\ 0\\.0009643341410627542\ \(0\)\
-\-\ complaint\\:\\ 0\\.0009643341410627542\ \(0\)\
-\-\ sudden\\:\\ 0\\.0009643341410627542\ \(0\)\
-\-\ 45\\:\\ 0\\.0009643341410627542\ \(0\)\
-\-\ regular\\:\\ 0\\.0009624624085894837\ \(0\)\
-\-\ other\\:\\ 0\\.0009622074004408639\ \(0\)\
-\-\ flexion\\:\\ 0\\.0009606049099609495\ \(0\)\
-\-\ local\\:\\ 0\\.0009587614303235819\ \(0\)\
-\-\ lucency\\:\\ 0\\.0009587614303235819\ \(0\)\
-\-\ diagnosis\\:\\ 0\\.0009585829656963458\ \(0\)\
-\-\ radial\\:\\ 0\\.000956931759652073\ \(0\)\
-\-\ discharged\\:\\ 0\\.000956931759652073\ \(0\)\
-\-\ term\\:\\ 0\\.0009551156926057813\ \(0\)\
-\-\ joints\\:\\ 0\\.0009551156926057813\ \(0\)\
-\-\ partially\\:\\ 0\\.0009551156926057813\ \(0\)\
-\-\ idiopathic\\:\\ 0\\.0009515235706249079\ \(0\)\
-\-\ control\\:\\ 0\\.0009515235706249079\ \(0\)\
-\-\ so\\:\\ 0\\.0009497471272128221\ \(0\)\
-\-\ those\\:\\ 0\\.0009497471272128221\ \(0\)\
-\-\ 13\\:\\ 0\\.0009427677983305416\ \(0\)\
-\-\ pe\\:\\ 0\\.0009376611337435085\ \(0\)\
-\-\ carotid\\:\\ 0\\.000935982364987338\ \(0\)\
-\-\ fusion\\:\\ 0\\.0009310141959015728\ \(0\)\
-\-\ herniation\\:\\ 0\\.0009293803443747538\ \(0\)\
-\-\ from\\:\\ 0\\.0009280183535570681\ \(0\)\
-\-\ necessary\\:\\ 0\\.0009245433567596635\ \(0\)\
-\-\ surface\\:\\ 0\\.0009213711057760751\ \(0\)\
-\-\ fall\\:\\ 0\\.0009182395257982878\ \(0\)\
-\-\ resulting\\:\\ 0\\.0009166886641278777\ \(0\)\
-\-\ mixed\\:\\ 0\\.0009166886641278777\ \(0\)\
-\-\ their\\:\\ 0\\.0009136161721379265\ \(0\)\
-\-\ difficult\\:\\ 0\\.0009136161721379265\ \(0\)\
-\-\ pathologic\\:\\ 0\\.0009136161721379265\ \(0\)\
-\-\ under\\:\\ 0\\.0009120942987254605\ \(0\)\
-\-\ either\\:\\ 0\\.0009090787061943663\ \(0\)\
-\-\ needed\\:\\ 0\\.0009090787061943663\ \(0\)\
-\-\ cranial\\:\\ 0\\.0009075847572404249\ \(0\)\
-\-\ bp\\:\\ 0\\.0009060998900991494\ \(0\)\
-\-\ below\\:\\ 0\\.0009060998900991494\ \(0\)\
-\-\ complaints\\:\\ 0\\.0009060998900991494\ \(0\)\
-\-\ 18\\:\\ 0\\.0009060998900991494\ \(0\)\
-\-\ neurological\\:\\ 0\\.000903156964228076\ \(0\)\
-\-\ indicated\\:\\ 0\\.000903156964228076\ \(0\)\
-\-\ children\\:\\ 0\\.0009016986918815923\ \(0\)\
-\-\ cerebellar\\:\\ 0\\.0009002490740213544\ \(0\)\
-\-\ total\\:\\ 0\\.0008988080085286361\ \(0\)\
-\-\ room\\:\\ 0\\.0008973753950815432\ \(0\)\
-\-\ down\\:\\ 0\\.0008959511351131033\ \(0\)\
-\-\ calcified\\:\\ 0\\.0008959511351131033\ \(0\)\
-\-\ underlying\\:\\ 0\\.0008945351317705714\ \(0\)\
-\-\ displacement\\:\\ 0\\.0008945351317705714\ \(0\)\
-\-\ mildly\\:\\ 0\\.0008889518054207789\ \(0\)\
-\-\ described\\:\\ 0\\.0008889518054207789\ \(0\)\
-\-\ lymphadenopathy\\:\\ 0\\.0008875756897104087\ \(0\)\
-\-\ inflammation\\:\\ 0\\.0008875756897104087\ \(0\)\
-\-\ osseous\\:\\ 0\\.0008862072833721893\ \(0\)\
-\-\ function\\:\\ 0\\.0008848465005071538\ \(0\)\
-\-\ addition\\:\\ 0\\.0008848465005071538\ \(0\)\
-\-\ compared\\:\\ 0\\.0008834932566440333\ \(0\)\
-\-\ radiology\\:\\ 0\\.0008821474687077925\ \(0\)\
-\-\ limited\\:\\ 0\\.0008808090549890272\ \(0\)\
-\-\ features\\:\\ 0\\.0008808090549890272\ \(0\)\
-\-\ distress\\:\\ 0\\.0008794779351141946\ \(0\)\
-\-\ defined\\:\\ 0\\.0008794779351141946\ \(0\)\
-\-\ oral\\:\\ 0\\.0008794779351141946\ \(0\)\
-\-\ us\\:\\ 0\\.0008755275542530316\ \(0\)\
-\-\ increase\\:\\ 0\\.0008755275542530316\ \(0\)\
-\-\ pa\\:\\ 0\\.0008729290202508196\ \(0\)\
-\-\ motor\\:\\ 0\\.0008716400468505159\ \(0\)\
-\-\ references\\:\\ 0\\.0008678134428582346\ \(0\)\
-\-\ nodules\\:\\ 0\\.0008652952773333541\ \(0\)\
-\-\ 9\\:\\ 0\\.0008628028078232804\ \(0\)\
-\-\ limits\\:\\ 0\\.0008603355152032257\ \(0\)\
-\-\ views\\:\\ 0\\.0008603355152032257\ \(0\)\
-\-\ same\\:\\ 0\\.0008603355152032257\ \(0\)\
-\-\ hand\\:\\ 0\\.0008578928959226728\ \(0\)\
-\-\ line\\:\\ 0\\.0008578928959226728\ \(0\)\
-\-\ thyroid\\:\\ 0\\.0008554744613885468\ \(0\)\
-\-\ family\\:\\ 0\\.0008554744613885468\ \(0\)\
-\-\ 12\\:\\ 0\\.000854274164661036\ \(0\)\
-\-\ deep\\:\\ 0\\.0008448783950401772\ \(0\)\
-\-\ slightly\\:\\ 0\\.0008437289346011413\ \(0\)\
-\-\ evaluate\\:\\ 0\\.0008437289346011413\ \(0\)\
-\-\ 25\\:\\ 0\\.0008437289346011413\ \(0\)\
-\-\ considered\\:\\ 0\\.0008425848580714819\ \(0\)\
-\-\ shoulder\\:\\ 0\\.0008414461152513032\ \(0\)\
-\-\ nausea\\:\\ 0\\.0008403126566395537\ \(0\)\
-\-\ range\\:\\ 0\\.0008403126566395537\ \(0\)\
-\-\ narrowing\\:\\ 0\\.0008369435012579378\ \(0\)\
-\-\ typical\\:\\ 0\\.0008369435012579378\ \(0\)\
-\-\ additional\\:\\ 0\\.0008369435012579378\ \(0\)\
-\-\ repair\\:\\ 0\\.0008358306980005219\ \(0\)\
-\-\ sounds\\:\\ 0\\.000832522387031358\ \(0\)\
-\-\ hip\\:\\ 0\\.0008314294997829649\ \(0\)\
-\-\ diagnostic\\:\\ 0\\.0008271062029829157\ \(0\)\
-\-\ worsening\\:\\ 0\\.0008218075159747918\ \(0\)\
-\-\ minimal\\:\\ 0\\.0008218075159747918\ \(0\)\
-\-\ similar\\:\\ 0\\.0008186826133221515\ \(0\)\
-\-\ stenosis\\:\\ 0\\.0008176498003984775\ \(0\)\
-\-\ unknown\\:\\ 0\\.0008145773084085263\ \(0\)\
-\-\ \\?\\:\\ 0\\.0008145773084085263\ \(0\)\
-\-\ change\\:\\ 0\\.0008135616732964932\ \(0\)\
-\-\ subsequent\\:\\ 0\\.0008125502437249173\ \(0\)\
-\-\ 24\\:\\ 0\\.000811542985008781\ \(0\)\
-\-\ note\\:\\ 0\\.0008055851312901295\ \(0\)\
-\-\ about\\:\\ 0\\.0008046061324143263\ \(0\)\
-\-\ classic\\:\\ 0\\.000799769144799236\ \(0\)\
-\-\ 50\\:\\ 0\\.0007940884261465081\ \(0\)\
-\-\ femoral\\:\\ 0\\.0007940884261465081\ \(0\)\
-\-\ radiographic\\:\\ 0\\.0007922238377598274\ \(0\)\
-\-\ lungs\\:\\ 0\\.0007903733751783771\ \(0\)\
-\-\ referred\\:\\ 0\\.0007876237038240453\ \(0\)\
-\-\ hospital\\:\\ 0\\.0007858076367777536\ \(0\)\
-\-\ activity\\:\\ 0\\.0007831086049783924\ \(0\)\
-\-\ compression\\:\\ 0\\.0007813256781387216\ \(0\)\
-\-\ studies\\:\\ 0\\.0007795556711722423\ \(0\)\
-\-\ weakness\\:\\ 0\\.0007751859680088872\ \(0\)\
-\-\ clear\\:\\ 0\\.000771745630959122\ \(0\)\
-\-\ abnormalities\\:\\ 0\\.0007666743091593103\ \(0\)\
-\-\ ap\\:\\ 0\\.0007633509940504244\ \(0\)\
-\-\ early\\:\\ 0\\.0007633509940504244\ \(0\)\
-\-\ cortical\\:\\ 0\\.0007608878482109946\ \(0\)\
-\-\ cervical\\:\\ 0\\.0007584492932563822\ \(0\)\
-\-\ presence\\:\\ 0\\.0007576418218019367\ \(0\)\
-\-\ risk\\:\\ 0\\.0007560348430285996\ \(0\)\
-\-\ did\\:\\ 0\\.0007536440256455603\ \(0\)\
-\-\ care\\:\\ 0\\.0007528522586880196\ \(0\)\
-\-\ sclerosis\\:\\ 0\\.000749710609044051\ \(0\)\
-\-\ extension\\:\\ 0\\.0007450726236398762\ \(0\)\
-\-\ then\\:\\ 0\\.0007427862428974328\ \(0\)\
-\-\ typically\\:\\ 0\\.0007367918342711217\ \(0\)\
-\-\ \\&\\:\\ 0\\.0007331186839622452\ \(0\)\
-\-\ involving\\:\\ 0\\.0007323906360535646\ \(0\)\
-\-\ location\\:\\ 0\\.0007280673392535157\ \(0\)\
-\-\ new\\:\\ 0\\.000727354171177469\ \(0\)\
-\-\ heart\\:\\ 0\\.0007252270759425438\ \(0\)\
-\-\ inflammatory\\:\\ 0\\.0007238192340478807\ \(0\)\
-\-\ side\\:\\ 0\\.0007231183443488204\ \(0\)\
-\-\ recent\\:\\ 0\\.0007016900461259885\ \(0\)\
-\-\ density\\:\\ 0\\.0006867687730483534\ \(0\)\
-\-\ vascular\\:\\ 0\\.0006843681651010495\ \(0\)\
-\-\ superior\\:\\ 0\\.0006665226421724942\ \(0\)\
-\-\ often\\:\\ 0\\.0006659681359354304\ \(0\)\
-\-\ should\\:\\ 0\\.0006654148856592085\ \(0\)\
-\-\ further\\:\\ 0\\.0006637626140205808\ \(0\)\
-\-\ mr\\:\\ 0\\.0006632143312033302\ \(0\)\
-\-\ t1\\:\\ 0\\.0006615768285843292\ \(0\)\
-\-\ adjacent\\:\\ 0\\.0006599502306141346\ \(0\)\
-\-\ bowel\\:\\ 0\\.00065460516191616\ \(0\)\
-\-\ severe\\:\\ 0\\.0006422349291807534\ \(0\)\
-\-\ during\\:\\ 0\\.0006387418783399629\ \(0\)\
-\-\ age\\:\\ 0\\.0006352980765862986\ \(0\)\
-\-\ diffuse\\:\\ 0\\.0006319021544639264\ \(0\)\
-\-\ only\\:\\ 0\\.0006276042155556756\ \(0\)\
-\-\ abdomen\\:\\ 0\\.0006183156479960177\ \(0\)\
-\-\ primary\\:\\ 0\\.0006183156479960177\ \(0\)\
-\-\ neck\\:\\ 0\\.0006129074589688526\ \(0\)\
-\-\ demonstrated\\:\\ 0\\.0006124621354315992\ \(0\)\
-\-\ pulmonary\\:\\ 0\\.0006098071104592241\ \(0\)\
-\-\ changes\\:\\ 0\\.0005982041954653299\ \(0\)\
-\-\ appearance\\:\\ 0\\.0005969483577759261\ \(0\)\
-\-\ focal\\:\\ 0\\.0005961147054563756\ \(0\)\
-\-\ all\\:\\ 0\\.0005903574717711995\ \(0\)\
-\-\ edema\\:\\ 0\\.0005903574717711995\ \(0\)\
-\-\ low\\:\\ 0\\.0005804025532160233\ \(0\)\
-\-\ shows\\:\\ 0\\.0005738577673983583\ \(0\)\
-\-\ who\\:\\ 0\\.0005442033241674894\ \(0\)\
-\-\ over\\:\\ 0\\.0005314222252418081\ \(0\)\
-\-\ symptoms\\:\\ 0\\.0005201899064235806\ \(0\)\
-\-\ upper\\:\\ 0\\.0005036835626205956\ \(0\)\
-\-\ into\\:\\ 0\\.0004966600801074027\ \(0\)\
-\-\ noted\\:\\ 0\\.0004947291618105993\ \(0\)\
-\-\ tissue\\:\\ 0\\.0004947291618105993\ \(0\)\
-\-\ posterior\\:\\ 0\\.00048110370022043196\ \(0\)\
-\-\ can\\:\\ 0\\.0004734299835049022\ \(0\)\
-\-\ well\\:\\ 0\\.0004721741458154985\ \(0\)\
-\-\ year\\:\\ 0\\.0004670763406316144\ \(0\)\
-\-\ large\\:\\ 0\\.00045640997357867115\ \(0\)\
-\-\ seen\\:\\ 0\\.0004124639997722741\ \(0\)\
-\-\ male\\:\\ 0\\.0003774317386144292\ \(0\)\
+Texto: 
+patient is a 5‚Äô10" caucasian male weighing 243 pounds (bmi 34.9)
+temperature: 98.6 ¬∞ fahrenheit
+bp: 114/80 mmhg
+heart rate: 72/minute
+respirations: 14/minute
+o2 saturation: 99% on room air
+
+patient appears stated age. he is alert and oriented to person time and place, in no acute distress. 
+
+heent: normocephalic, atraumatic. conjunctivae pink with no scleral jaundice. no cervical or submandibular lymphadenopathy. no thyroid nodules palpated.
+pulmonary: lungs clear to auscultation bilaterally.
+cardiovascular: regular rate and rhythm, normal s1/s2, no murmurs/rubs/gallops appreciated. carotid, radial, and pedal pulses 2/4 and symmetric bilaterally. 
+abdomen: normal bowel sounds appreciated in all 4 quadrants. soft, nontender, nondistended. 
+neurological: cranial nerves ii-xii intact. cerebellar function intact. patellar and achilles reflexes 2/5 and symmetric bilaterally. decreased sensation to light touch of the upper extremities bilaterally in the distribution of c6-c8. decreased sensation to light touch of the lower extremities bilaterally in the distribution of l3-s1.
+musculoskeletal:
+-inspection: right ankle is mildly swollen compared to the left. there are small areas of erythema on the anterior aspect of the right ankle consistent with a rash.
+-palpation: palpation of tibial and fibular heads does not illicit pain bilaterally. palpation of the left ankle did not illicit any pain. severe pain with palpation of the medial and lateral malleoli, talus, and navicular. 
+-rom: left ankle active and passive rom within normal limits in dorsiflexion, plantarflexion, inversion, and eversion. right ankle active and passive rom decreased secondary to pain in dorsiflexion, plantarflexion, inversion, and eversion.
+-talar tilt test: right ankle positive, pain
+-anterior drawer test: right ankle pain but no increased laxity  
+-strength: 5/5 in the left lower extremity: psoas, quadriceps, hamstring, tibialis anterior, and gastrocnemius. 4/5 in the right lower extremity: psoas, quadriceps, hamstring, tibialis anterior, and gastrocnemius.   
+
+a computerized force gauge was utilized and demonstrated weakness on the right side as noted below:
+movement	right avg. force (lbs.)	left avg. force (lbs.)	deficit
+hallux extension	6.2	24.2	right -74.6%
+hallux flexion	25.6	43.7	right -41.4%
+
+-postural evaluation reveals the patient standing with cane in right hand
+-gait: patient walks slowly with an obvious limp, favors the left lower extremity. he is unable to heel walk, toe walk, or heel-to-toe walk secondary to pain in the right ankle and inability to maintain balance.
+-patient is able to hop on his left foot but is unable to do so with the right secondary to pain.
+electromyography: findings of prolonged right tibial h reflex consistent with right s1 radiculopathy. there is no electrodiagnostic evidence of peripheral nerve entrapment or neuropathy in the right lower limb
+at this time the patient does not take any medications for the pain. he has tried ibuprofen, heat, ice, and physical therapy but they have not been effective. the patients‚Äô complaints are being managed by a chiropractor much like a primary care practitioner for the accident.  the current orthopedic surgeon ordered the mri of the ankle.  however, on repeat evaluation such orthopedist indicated that surgery to the ankle of this type is not an area of specialty for him. as such the chiropractor is currently referring him to an orthopedic surgeon that specializes in the ankle.
+figure 1. t2-weighted mri images with midline coronal view and axial cut through the right tibiotalar joint. there is a 4mm osteochondral defect present at the lateral aspect of the talar dome. study performed one month prior to mvc.
+
+figure 2. t2-weighted mri images with midline coronal view and sagittal cut through the right tibiotalar joint. there is a 4mm osteochondral defect present at the lateral aspect of the talar dome. study performed one month prior to mvc.
+
+figure 3. t2-weighted mri images with midline coronal view and axial cut through the right tibiotalar joint. there is a minimally worsened 5mm osteochondral defect present at the lateral aspect of the talar dome. study performed three months after mvc.
+
+figure 4. ct of right ankle with coronal view. there is a 4mm subchondral cyst in the lateral aspect of the talus. study performed four months after mvc.
+
+figure 5. ct of right ankle with sagittal view. there is a 4mm subchondral cyst in the lateral aspect of the talus. study performed four months after mvc.
+
+figure 6. ct of right ankle with coronal view and axial cut. there is a 4mm subchondral cyst in the lateral aspect of the talus. study performed four months after mvc.
+
+figure 7. t2-weighted mri images of the lumbar spine with midline sagittal view and axial cut through l2-l3 disc space.  there is disc desiccation without canal encroachment. 
+
+figure 8. t2-weighted mri images of the lumbar spine with midline sagittal view and axial cut through l3-l4 disc space.  appears to be normal with no evidence of disc herniation, canal stenosis, foraminal narrowing, or arthritic change.
+
+figure 9. t2-weighted mri images of the lumbar spine with midline sagittal view and axial cut through l4-l5 disc space. there is disc desiccation with a mild bulge of the annulus.
+
+figure 10. t2-weighted mri images of the lumbar spine with midline sagittal view and axial cut through l5-s1 disc space. there is a small central disc bulge and mild facet arthropathy.
+osteoarthritis with subchondral cyst and intra-articular fragment
+1.	osteochondritis dessicans
+2.	osteoarthritis with subchondral cyst and intra-articular fragment
+3.	peripheral nerve entrapment 
+4.	lumbar radiculopathy
+patient reports that the right ankle pain began after a motor vehicle collision when a truck with a ball hitch crossed into his lane snagging his front bumper with the ball resulting in eventual impact to the front of his vehicle when the truck stopped.  the air bags deployed and the patient states that his car was ‚Äútotaled.‚Äù patient admits to loss of consciousness during the accident, which was regained while the patient was still in the vehicle. he was wearing his seatbelt.
+
+the onset of right ankle pain was immediate. at this time the pain is constant, 4/10 at baseline, worsening to 10/10 with any form of exertion involving the right leg. the pain is described as sharp and ‚Äústabbing, like a knife‚Äù and has not changed in character since the accident. after the mvc the patient was taken to a local hospital where he had a radiograph of the ankle performed. he cannot remember the results of this study and it is not available to us. the patient was discharged with ibuprofen 800mg which the patient took once, citing no relief of pain and nausea. he has tried heat, ice, and went to physical therapy for one month in attempt to relieve the pain with no success. the patient reports that he is only able to get a few hours of sleep each night as he wakes up every few hours with right ankle pain. he admits to having numbness and tingling in the right lower extremity, starting in the back and traveling down his leg to the ankle. the patient also suffered neck and lower back injuries with the collision.
+
+of note, the patient reports participating in mixed martial arts for eleven years. he also reports that he suffered lower back, right shoulder, and wrist injuries after being struck by a vehicle as a pedestrian in 2007. the patient had a prior mri of the right ankle one month before the mvc in 2016, for a ‚Äúrash on my ankle that was draining pus.‚Äù he denies any previous ankle trauma or right ankle pain.
+
+past medical history: 
+asthma: managed with albuterol and advair (fluticasone/salmeterol)
+hypercholesterolemia: managed with two medications, patient is unsure of which 
+no known food or drug allergies 
+
+past surgical history: 
+bilateral ulnar nerve entrapment: twice for each extremity
+bilateral carpal tunnel release
+rotator cuff repair 
+vasectomy
+
+social history: 14 pack year smoker, denies use of any other illicit drugs including marijuana, cocaine, heroin, and ecstasy. he lives in a home with his aunt. he has not been employed for some time, but has worked in construction in the past. 
+
+family history: no known familial illness
+case contributors: luis gude msiv, frank mascaro, md; randall loftus, md; joanna garvey, dc; robert lutnick, md; scott croce, dc; gary smith, dc; krishnan kartha, md; joseph serghany, md; charles tirone, md, vaseem iqbal, md; jennifer sperrazza, dc; jeffrey lieberman, md; geoffrey gerow, dc.  
+
+
+to listen to luis gude discuss this case highlight this link https://youtu.be/m2udy2gv7ku. then use your right mouse click and click the "go to" option. this will take you right to the video.
+
+the first description of an osteochondral defect of the talus in literature was by alexander monro in 1738 where he reported findings of ossified cartilage within the joint space.  [1] since their discovery many terms have been used to describe osteochondral lesions, including osteochondritis dissecans (ocd), osteochondral fracture, transchondral talus fracture, and subchondral cyst. [2] the term ocd was first used by franz konig in 1887 for description of loose bodies within joints, including the elbow, knee, ankle, and hip. konig believed that the separation of fragments was secondary to dissecting inflammation. [3] however, more recent histological evaluations do not support an inflammatory etiology making ocd a misnomer for these lesions. [4] despite this, in an attempt to standardize language used in the discussion of osteochondral lesions, the research in osteochondritis dissecans of the knee (rock) group defined ocd as a focal, idiopathic alteration of subchondral bone with risk for instability and disruption of adjacent articular cartilage that may result in premature osteoarthritis. [5]
+
+a classification for transchondral fractures of the talus was developed by berndt and harty in 1959 using radiographic findings, and has since been used widely to describe osteochondral defects. [6] stage i lesions represent areas of intact articular cartilage with underlying subchondral bone compression and are usually visible on magnetic resonance imaging (mri) but not radiographs. stage ii lesions have an osteochondral fragment that is partially detached. stage iii lesions have an osteochondral fragment that is completely detached but without displacement, while stage iv lesions are displaced. this system was expanded by scranton and mcdermott to include subchondral cysts, stage v lesions, in 2001. [7] other classification systems have also been developed using mri, computed tomography (ct) imaging, and arthroscopic appearance. [8, 9, 10, 11]
+
+the exact etiology of osteochondral lesions is currently unknown. it likely involves some sort of trauma, either an acute injury or repeated microtrauma, in combination with ankle instability, vascular insufficiency, or genetic predisposition. [4] lateral talar lesions are associated with trauma almost universally, while up to 82% of medial lesions have been associated with trauma. [2] the patient provides a history of repetitive microtrauma to the feet secondary to his participation in mma, in addition to the acute trauma sustained in the mvc. 
+
+the mechanism of injury to the ankle may determine in which area of the talus an osteochondral defect may form. medial lesions tend to be slightly more common (54.5%), than lateral lesions (31.2%). [17] generally, medial lesions are positioned more posterior and central, and tend to be larger, cup-shaped, and deep. lateral lesions are more anterior and are often small and shallow. these lateral lesions tend to be wafer-shaped and are more likely to displace than medial lesions. [18] the patient does have a lateral lesion, with ct evidence of a bony fragment within the joint space. it is likely that this fragment became displaced after the mvc given the immediate onset of ankle pain after the accident. 
+
+like many patients with osteochondral lesions of the talus, the patients‚Äô initial presentation of diffuse ankle pain with swelling, decreased strength, and decreased range of motion was nonspecific. the most common and initial complaint in patients with talar osteochondral lesions is ankle pain, reported in 95-97% of patients. 15-49% of patients report swelling of the ankle [10, 11], locking in 8% [13], joint instability, and decreased strength. loomer et al reported 50% of patients had decreased dorsiflexion, while 20% had loss of subtalar motion [10]. our patients‚Äô symptoms worsened with weight bearing and activity which is typical for these types of injuries. [14]
+
+given the nonspecific presentation of osteochondral lesions of the talus, the first imaging study performed is usually a simple radiograph with three views of the ankle (ap, lateral, and mortise) with weight bearing as tolerated. early lesions may show flattening or indistinct radiolucency of the cortical surface. as the defect progresses, the contour abnormalities may become more pronounced, the area may show fragmentation, density changes (both lucency and sclerosis), or an intra-articular fragment may be seen. [19] while plain radiographs may be able to visualize some osteochondral lesions, they may not identify up to 43% of defects as they are unable to visualize non-calcified cartilaginous structures, particularly stage i lesions. [20, 21, 22] as such, if an osteochondral defect is suspected, mri or ct are the preferred imaging modalities for both diagnosis and pre-surgical planning. 
+
+for most cases, mri is preferred as it allows for evaluation of cartilaginous defects (including stage i lesions) with high sensitivity (96%) and specificity (96%). [20] mri may also be preferred in cases where damage to soft tissue structures like ankle ligaments is suspected. t1 weighted images of osteochondral lesions and fragments generally have variable signal. on t2, the defect is filled with high signal fluid, and loose bodies are low signal surrounded by high signal fluid. subchondral cysts have large edematous areas on t2 weighted images, probably secondary to forced synovial fluid intrusion through a bony defect. [7] however, mri may overestimate the extent of osteochondral lesions, and a high signal line in the bone may represent a false positive secondary to edema. [23] mri also has high sensitivity (92%) and specificity (90%) in detection of separated osteochondral fragments. [19] ct may be preferred in cases where additional evaluation of bony structures is needed, or in patients in which mri is contraindicated (metallic foreign objects, defibrillators, pacemakers, etc.) ct also allows for detailed evaluation of osseous structures, including bony fragments, and providing more accurate measurements of lesion size and depth. findings on ct are similar to that of plain radiographs, and are also limited by the inability to evaluate cartilaginous structures. [24]
+
+evaluation of the mri of the patients‚Äô right ankle before the accident reveals a 4mm osteochondral defect of the talar dome that fills with increased signal on t2 with no evidence of intra-articular fragments. this suggests communication of the defect with the joint space, consistent with a subchondral cyst. these findings indicate that the lesion is likely secondary to previous trauma, likely from his participation in mma. evaluation of the mri taken after the accident shows a small increase in the size of the osteochondral defect with no evidence of intra-articular fragments. a subsequent ct, a necessary evaluation, showed the same osteochondral defect with an intra-articular calcified fragment, likely bone. as there is no previous ct of the ankle, it is difficult to say with certainty if this fragment was displaced as a result of the accident, but is likely given the sudden onset of pain after the mvc. 
+
+at this time, there have been no randomized control trials to determine which therapy is most appropriate for talar osteochondral defects. [25] most of the data available comes from small studies which have been further compiled and analyzed in systematic reviews. the treatment options fall under two broad categories, non-operative and surgical. generally, the initial method of treatment is determined by the berndt ‚Äìharty stage of the lesion. nonoperative therapies should be the initial choice for stage i and ii lesions. [26] these therapies are typically tried for up to one year and include bracing, immobilization, physical therapy, oral steroids or nonsteroidal anti-inflammatory drugs (nsaids), and injection of steroids or hyaluronic acid. a systemic review by tol et al. showed that conservative treatment has a success rate of about 45%. [27] given the patients stage v lesion, it is not surprising that management with ibuprofen and physical therapy has been ineffective. patients with stage iii, iv, or v lesions, as well as those who failed conservative management, are considered surgical candidates. surgical options include arthroscopic debridement, microfracturing, and drilling, arthrotomy, malleolar osteotomy, retrograde drilling, osteochondral autograft transplant system (oats) or mosaicplasty, ankle fusion, and total ankle replacement. the surgical strategy employed is usually determined by the extent and location of a lesion, with most approaches having a success rate of over 70%. [27] the patient has been referred to an orthopedic ankle specialist and will likely undergo surgery at a future date. 
+
+
+references:
+
+1.	monro a. part of the cartilage of the joint separated and ossified. medical essays observations 1738;4:19.
+2.	talusan pg, milewski md, toy jo, wall ej. osteochondritis dissecans of the talus: diagnosis and treatment in athletes. clin sports med. 2014;33(2):267-84.
+3.	konig f. the classic: on loose bodies in the joint. 1887. clin orthop relat res 2013;471(4):1107‚Äì15.
+4.	edmonds ew, polousky j. a review of knowledge in osteochondritis dissecans: 123 years of minimal evolution from k√∂nig to the rock study group. clin orthop relat res. 2013;471(4):1118-26.
+5.	edmonds ew, shea kg. osteochondritis dissecans: editorial comment. clin orthop relat res. 2013;471(4):1105-6.
+6.	berndt al, harty m. osteochondritis dissecans of the ankle joint; report of a case simulating a fracture of the talus. j bone joint surg am 1959;41-a:988‚Äì1020.
+7.	scranton pe jr, mcdermott je. treatment of type v osteochondral lesions of the talus with ipsilateral knee osteochondral autografts. foot ankle int 2001;22: 380‚Äì4.
+8.	anderson if, crichton kj, grattan-smith t, et al. osteochondral fractures of the dome of the talus. j bone joint surg am 1989;71:1143‚Äì52.
+9.	ferkel rd, flannigan bd, elkins bs. magnetic resonance imaging of the foot and ankle: correlation of normal anatomy with pathologic conditions. foot ankle 1991; 11:289‚Äì305.
+10.	loomer r, fischer c, lloyd-smith r, et al. osteochondral lesions of the talus. am j sports med 1993;21(1):13‚Äì9.
+11.	perumal v, wall e, babekir n. juvenile osteochondritis dissecans of the talus. j pediatr orthop 2007;27:821‚Äì5.
+12.	pritsch m, horoshovski h, farine i. arthroscopic treatment of osteochondral lesions of the talus. j bone joint surg am 1986;68:862‚Äì5.
+13.	letts m, davidson d, ahmer a. osteochondritis dissecans of the talus in children. j pediatr orthop 2003;23:617‚Äì25.
+14.	roden s, tillegard p, unanderscharin l. flake fracture of the talus progressing to osteochondritis dissecans. acta orthop scand 1953;23:51‚Äì66.
+15.	seiter jl, seiter kp. osteochondral talar lesions and defects. clin podiatr med surg. 2012;29(4):483-500.
+16.	haskell a, mann r. in: delee j, drez d, miller md, editors. delee & drez‚Äôs orthopaedic sports medicine: principles and practice. philadelphia: saunders/elsevier; 2009. p. 2144.
+17.	hembree wc, wittstein jr, vinson en, et al. magnetic resonance imaging features of osteochondral lesions of the talus. foot ankle int 2012;33(7):591‚Äì7.
+18.	bruns j, rayf m, steinhagen j. longitudinal long-term results of surgical treatment in patients with osteochondritis dissecans of the femoral condyles. knee surg sports traumatol arthrosc. 2008;16:436‚Äì441.
+19.	gaillard, frank. "osteochondritis dissecans | radiology reference article | radiopaedia.org." radiopaedia blog rss. n.p., n.d. web. 06 dec. 2016.
+20.	verhagen ra, maas m, dijkgraaf mg. prospective study on diagnostic strategies in osteochondral lesions of the talus. is mri superior to helical ct? j bone joint surg br 2005;87(1):41‚Äì6.
+21.	flick ab, gould n. osteochondritis dissecans of the talus (transchondral fractures of the talus): review of the literature and new surgical approach for medial dome lesions. foot ankle 1985;5(4):165‚Äì85.
+22.	hepple s, winson ig, glew d. osteochondral lesions of the talus: a revised classification. foot ankle int 1999;20(12):789‚Äì93.
+23.	de smet aa, fisher dr, graf bk, lange rh. osteochondritis dissecans of the knee: value of mr imaging in determining lesion stability and the presence of articular cartilage defects. ajr am j roentgenol. 1990;155(3):549-53.
+24.	van bergen cj, gerards rm, opdam kt, terra mp, kerkhoffs gm. diagnosing, planning and evaluating osteochondral ankle defects with imaging modalities. world j orthop. 2015;6(11):944-53.
+25.	loveday d, clifton r, robinson a. interventions for treating osteochondral defects of the talus in adults. cochrane database syst rev. 2010;(8):cd008104.
+26.	 seiter jl, seiter kp. osteochondral talar lesions and defects. clin podiatr med surg. 2012;29(4):483-500.
+27.	tol jl, struijs pa, bossuyt pm, verhagen ra, van dijk cn. treatment strategies in osteochondral defects of the talar dome: a systematic review. foot ankle int. 2000;21(2):119-26.
+
+
+Keywords by value: 
+- osteochondral: 0.048562770016950356
+- ankle: 0.04573692466969942
+- talus: 0.033269556631534095
+- ]: 0.02949102370714362
+- [: 0.02940592553162591
+- lesions: 0.020674093486743053
+- ;: 0.018799708148802774
+- osteochondritis: 0.018630951713659093
+- dissecans: 0.017411597674471622
+- mvc: 0.01577476157616039
+- ,: 0.014481070920441118
+- talar: 0.01398259885346405
+- :: 0.012699717033602977
+- subchondral: 0.012049984347943781
+- figure: 0.011657223146389712
+- cut: 0.010785894592989094
+- orthop: 0.010442666722044459
+- j: 0.010370445781635958
+- md: 0.01030874102059577
+- defect: 0.010157233815803381
+- stage: 0.009793692896485542
+- mri: 0.009590990986392867
+- defects: 0.00958761430323582
+- joint: 0.009449929059743315
+- he: 0.009317781502815904
+- dome: 0.009315475856829547
+- %: 0.008763990864735744
+- surg: 0.008723406082275361
+- fragment: 0.008679007269564788
+- seiter: 0.008613110331183681
+- 4mm: 0.00838955931207843
+- intra-articular: 0.007840423821934691
+- view: 0.007831086049783925
+- disc: 0.007775743071841759
+- t2-weighted: 0.007398186218769054
+- clin: 0.007373710977110264
+- right: 0.0072676713240458594
+- patients: 0.00702258666139676
+- foot: 0.006902422462586243
+- study: 0.006867687730483535
+- accident: 0.0066358845715316665
+- fragments: 0.006553560823809693
+- in: 0.00648461785511384
+- transchondral: 0.006459832748387761
+- konig: 0.006459832748387761
+- to: 0.006363252226434334
+- (: 0.006351983914210791
+- ): 0.006274391039589395
+- int: 0.0062702717646977305
+- is: 0.006180528829338704
+- that: 0.006128889200170981
+- his: 0.006015850091956355
+- ocd: 0.005967238126882548
+- berndt: 0.005951908580903678
+- 471: 0.005951908580903678
+- may: 0.0059517021972827575
+- the: 0.005909532199104669
+- lateral: 0.005863870198612397
+- v: 0.005725920907329514
+- been: 0.005678541498446485
+- midline: 0.0056528848586638114
+- dc: 0.005526452104076828
+- cartilage: 0.005429983599779527
+- am: 0.005369660254237787
+- pain: 0.005353143995638844
+- al: 0.005309079003042923
+- relat: 0.005280469353834195
+- jl: 0.005280469353834195
+- 4: 0.005234183474990573
+- sports: 0.005167716560185966
+- tibiotalar: 0.005146867822231394
+- a: 0.005037418098331037
+- sagittal: 0.004995134322188148
+- have: 0.004971865867615048
+- preferred: 0.0049612592141505905
+- evaluation: 0.004850491051933185
+- res: 0.0048497512310431935
+- space: 0.004832901575363078
+- med: 0.004790909055728727
+- after: 0.004750369621079928
+- through: 0.004742466083870774
+- as: 0.004735872640061533
+- likely: 0.004709897344280716
+- secondary: 0.004668353622879936
+- performed: 0.004655746616956168
+- aspect: 0.004589654015970567
+- dorsiflexion: 0.004580289985225912
+- are: 0.004552511470560241
+- lumbar: 0.004437878448552044
+- tried: 0.004383711587623558
+- coronal: 0.004345411641351633
+- decreased: 0.004344234201043458
+- m: 0.00430757125227381
+- luis: 0.004306555165591841
+- gude: 0.004306555165591841
+- 1738: 0.004306555165591841
+- scranton: 0.004306555165591841
+- mcdermott: 0.004306555165591841
+- loomer: 0.004306555165591841
+- tol: 0.004306555165591841
+- podiatr: 0.004306555165591841
+- :483-500: 0.004306555165591841
+- delee: 0.004306555165591841
+- drez: 0.004306555165591841
+- verhagen: 0.004306555165591841
+- et: 0.00427137082330518
+- patient: 0.004184621059679472
+- axial: 0.004169892606857621
+- bone: 0.004149359416628959
+- illicit: 0.004131019487263228
+- arthroscopic: 0.004131019487263228
+- bilaterally: 0.004113393119478119
+- ibuprofen: 0.004044710472370911
+- an: 0.004040866658521304
+- there: 0.004038178366889314
+- structures: 0.004018155208640344
+- cartilaginous: 0.004018061001801143
+- medial: 0.00400581267257946
+- and: 0.004001177215835827
+- 2013: 0.003992346795784091
+- 2012: 0.003992346795784091
+- avg: 0.003967939053935786
+- harty: 0.003967939053935786
+- 1959: 0.003967939053935786
+- mma: 0.003967939053935786
+- edmonds: 0.003967939053935786
+- kp: 0.003967939053935786
+- cyst: 0.003926379568193141
+- not: 0.0039210167886285195
+- has: 0.003919638423288417
+- for: 0.0039180213165949515
+- or: 0.003914109424381857
+- imaging: 0.003912210697519497
+- vehicle: 0.0038878715359208795
+- like: 0.003864881308846923
+- was: 0.00386234498178285
+- by: 0.0038230532329491017
+- extremity: 0.003816754970252122
+- force: 0.003813825484603522
+- entrapment: 0.003813825484603522
+- success: 0.003813825484603522
+- of: 0.0038132655854739737
+- knee: 0.0037841850544214416
+- ew: 0.003769861326476985
+- including: 0.0037682201282278013
+- lower: 0.003755470580095481
+- ‚Äô: 0.0037430777816005703
+- resonance: 0.0036703878364896278
+- more: 0.0036541851893466446
+- loose: 0.0036385228301830286
+- hamstring: 0.00362932294227973
+- strategies: 0.00362932294227973
+- review: 0.003618495980078119
+- images: 0.0036036577986185117
+- magnetic: 0.003593181791796545
+- walk: 0.003578670828951274
+- classification: 0.003578670828951274
+- tend: 0.003550483520088698
+- eversion: 0.00352031290255613
+- a.: 0.0035101368343170604
+- ct: 0.0035035769029566474
+- i: 0.0034512112312931214
+- plantarflexion: 0.0034312452148209296
+- rock: 0.0034312452148209296
+- participation: 0.0034312452148209296
+- trauma: 0.003425025083182114
+- where: 0.0034075644896696794
+- treatment: 0.003379808421301196
+- managed: 0.003367863252655392
+- reports: 0.003365784461005213
+- no: 0.0033627519324037204
+- articular: 0.003357165549122549
+- |: 0.0033559395578462064
+- bony: 0.003338891765948945
+- signal: 0.003302014162588342
+- truck: 0.0032907068306236745
+- detached: 0.0032907068306236745
+- any: 0.003286315379912425
+- while: 0.0032836458718274466
+- rate: 0.0032542466931859727
+- drilling: 0.003233167487362129
+- n.: 0.003233167487362129
+- instability: 0.0032217961525426724
+- used: 0.003202915639421555
+- tibialis: 0.0031816967909000745
+- hallux: 0.0031816967909000745
+- microtrauma: 0.0031816967909000745
+- systematic: 0.0031816967909000745
+- desiccation: 0.0031351358823488652
+- d: 0.003122844308035631
+- which: 0.0031170387635418633
+- but: 0.0031161512230666252
+- osteoarthritis: 0.0031075775125523563
+- admits: 0.003092629103164874
+- surgical: 0.0030712145558769357
+- this: 0.0030519745415446336
+- pediatr: 0.003017323446190151
+- 20: 0.0030019689654685057
+- orthopedic: 0.0029892427764328304
+- van: 0.002983619063441274
+- lesion: 0.0029760348270647732
+- able: 0.0029516560927096624
+- time: 0.0029477298818262245
+- bodies: 0.002933561848017157
+- monro: 0.0029224743917490386
+- injuries: 0.0029217425647270617
+- be: 0.002896876040570435
+- 96: 0.002894551375706074
+- unable: 0.0028930024231882626
+- also: 0.0028803950062752954
+- displaced: 0.002876284290970746
+- employed: 0.002868138468392798
+- 11: 0.002865347077817344
+- given: 0.0028621537787165046
+- high: 0.0028560650477244937
+- r: 0.0028439505306564286
+- jr: 0.002843080679244019
+- 21: 0.002833482071510745
+- one: 0.002828201494028632
+- separated: 0.0028192457187313506
+- generally: 0.002818054561106862
+- it: 0.002815117319784587
+- 10: 0.0028144838576911677
+- gastrocnemius: 0.00279651977069281
+- click: 0.00279651977069281
+- ossified: 0.00279651977069281
+- therapies: 0.00279651977069281
+- therapy: 0.0027902305767472067
+- initial: 0.002766567799979783
+- 2016: 0.0027540129915088188
+- spine: 0.0027494905188132366
+- evidence: 0.0027362513231153855
+- chiropractor: 0.0027340706395204187
+- four: 0.002718299670297448
+- these: 0.002715980327256766
+- psoas: 0.002714910545161219
+- description: 0.002714910545161219
+- specificity: 0.002714910545161219
+- quadriceps: 0.0026964736482472736
+- describe: 0.0026964736482472736
+- planning: 0.0026964736482472736
+- front: 0.0026787073345340955
+- inversion: 0.0026450029517852184
+- heat: 0.0026134746073115636
+- ice: 0.0026134746073115636
+- collision: 0.0026134746073115636
+- suffered: 0.0025984420432340095
+- visualize: 0.0025984420432340095
+- 10.: 0.002583858280092983
+- allows: 0.0025696972948104956
+- rash: 0.002542550323069015
+- ball: 0.002516832817702419
+- month: 0.002504752848852574
+- passive: 0.0025044645675879637
+- modalities: 0.0025044645675879637
+- 4.: 0.0024654225479243752
+- j.: 0.0024579036590367544
+- 9.: 0.0024469252243264185
+- previous: 0.002431619588671199
+- bearing: 0.0024153968798527638
+- most: 0.0024094224984466
+- lbs: 0.002405323950100572
+- small: 0.002404219936957888
+- 7: 0.0023993074343977077
+- inability: 0.0023954545278643633
+- take: 0.0023954545278643633
+- attempt: 0.0023954545278643633
+- frank: 0.0023762944335051638
+- fractures: 0.0023711201255351313
+- sensitivity: 0.002357857536591218
+- 8: 0.0023413172141543833
+- ‚Äú: 0.002338667013516727
+- 8.: 0.0023314446292779425
+- bulge: 0.0023314446292779425
+- ‚Äù: 0.002325557904026662
+- drugs: 0.0023063868401291634
+- intact: 0.002300022927477931
+- since: 0.002300022927477931
+- on: 0.002298628031448599
+- worsened: 0.00229831194909291
+- him: 0.002290368362931806
+- reported: 0.0022826635446329836
+- ra: 0.0022825518796164954
+- months: 0.0022803529992086635
+- at: 0.0022623608262464737
+- radiculopathy: 0.002259825931577954
+- nerve: 0.0022561891498441423
+- they: 0.0022561891498441423
+- touch: 0.0022524796309602016
+- literature: 0.0022452421684369278
+- up: 0.0022450875926274777
+- surgeon: 0.0022241517083171386
+- 7.: 0.0022241517083171386
+- findings: 0.0022213445722886658
+- 2001: 0.0022173191523939635
+- rom: 0.0022039342114129595
+- fracture: 0.0022013427750588945
+- h: 0.0021973768004055635
+- immediate: 0.002184520274603231
+- determined: 0.002178216706046364
+- 29: 0.002178216706046364
+- group: 0.0021719934399118106
+- 33: 0.0021658484559319083
+- each: 0.002159779809132418
+- 114/80: 0.0021532775827959203
+- 72/minute: 0.0021532775827959203
+- 14/minute: 0.0021532775827959203
+- c6-c8: 0.0021532775827959203
+- l3-s1: 0.0021532775827959203
+- -palpation: 0.0021532775827959203
+- -talar: 0.0021532775827959203
+- -strength: 0.0021532775827959203
+- -74.6: 0.0021532775827959203
+- -41.4: 0.0021532775827959203
+- -postural: 0.0021532775827959203
+- -gait: 0.0021532775827959203
+- heel-to-toe: 0.0021532775827959203
+- specializes: 0.0021532775827959203
+- hitch: 0.0021532775827959203
+- snagging: 0.0021532775827959203
+- bumper: 0.0021532775827959203
+- totaled.: 0.0021532775827959203
+- 800mg: 0.0021532775827959203
+- citing: 0.0021532775827959203
+- martial: 0.0021532775827959203
+- arts: 0.0021532775827959203
+- pus.: 0.0021532775827959203
+- fluticasone/salmeterol: 0.0021532775827959203
+- ecstasy: 0.0021532775827959203
+- //youtu.be/m2udy2gv7ku: 0.0021532775827959203
+- 1887: 0.0021532775827959203
+- standardize: 0.0021532775827959203
+- 54.5: 0.0021532775827959203
+- cup-shaped: 0.0021532775827959203
+- wafer-shaped: 0.0021532775827959203
+- 15-49: 0.0021532775827959203
+- intrusion: 0.0021532775827959203
+- overestimate: 0.0021532775827959203
+- compiled: 0.0021532775827959203
+- ‚Äìharty: 0.0021532775827959203
+- arthrotomy: 0.0021532775827959203
+- oats: 0.0021532775827959203
+- essays: 0.0021532775827959203
+- 4:19: 0.0021532775827959203
+- talusan: 0.0021532775827959203
+- milewski: 0.0021532775827959203
+- toy: 0.0021532775827959203
+- :267-84: 0.0021532775827959203
+- 1887.: 0.0021532775827959203
+- :1107‚Äì15: 0.0021532775827959203
+- shea: 0.0021532775827959203
+- :1105-6: 0.0021532775827959203
+- 41-a:988‚Äì1020: 0.0021532775827959203
+- autografts: 0.0021532775827959203
+- 380‚Äì4: 0.0021532775827959203
+- crichton: 0.0021532775827959203
+- grattan-smith: 0.0021532775827959203
+- 71:1143‚Äì52: 0.0021532775827959203
+- ferkel: 0.0021532775827959203
+- flannigan: 0.0021532775827959203
+- elkins: 0.0021532775827959203
+- 11:289‚Äì305: 0.0021532775827959203
+- lloyd-smith: 0.0021532775827959203
+- :13‚Äì9: 0.0021532775827959203
+- perumal: 0.0021532775827959203
+- babekir: 0.0021532775827959203
+- 27:821‚Äì5: 0.0021532775827959203
+- pritsch: 0.0021532775827959203
+- horoshovski: 0.0021532775827959203
+- farine: 0.0021532775827959203
+- 68:862‚Äì5: 0.0021532775827959203
+- ahmer: 0.0021532775827959203
+- 23:617‚Äì25: 0.0021532775827959203
+- roden: 0.0021532775827959203
+- tillegard: 0.0021532775827959203
+- unanderscharin: 0.0021532775827959203
+- flake: 0.0021532775827959203
+- 1953: 0.0021532775827959203
+- 23:51‚Äì66: 0.0021532775827959203
+- haskell: 0.0021532775827959203
+- mann: 0.0021532775827959203
+- saunders/elsevier: 0.0021532775827959203
+- 2144: 0.0021532775827959203
+- hembree: 0.0021532775827959203
+- wittstein: 0.0021532775827959203
+- vinson: 0.0021532775827959203
+- :591‚Äì7: 0.0021532775827959203
+- bruns: 0.0021532775827959203
+- rayf: 0.0021532775827959203
+- steinhagen: 0.0021532775827959203
+- 16:436‚Äì441: 0.0021532775827959203
+- blog: 0.0021532775827959203
+- rss: 0.0021532775827959203
+- maas: 0.0021532775827959203
+- dijkgraaf: 0.0021532775827959203
+- :41‚Äì6: 0.0021532775827959203
+- flick: 0.0021532775827959203
+- gould: 0.0021532775827959203
+- :165‚Äì85: 0.0021532775827959203
+- hepple: 0.0021532775827959203
+- winson: 0.0021532775827959203
+- glew: 0.0021532775827959203
+- :789‚Äì93: 0.0021532775827959203
+- graf: 0.0021532775827959203
+- lange: 0.0021532775827959203
+- :549-53: 0.0021532775827959203
+- bergen: 0.0021532775827959203
+- gerards: 0.0021532775827959203
+- opdam: 0.0021532775827959203
+- kt: 0.0021532775827959203
+- terra: 0.0021532775827959203
+- kerkhoffs: 0.0021532775827959203
+- :944-53: 0.0021532775827959203
+- loveday: 0.0021532775827959203
+- clifton: 0.0021532775827959203
+- cd008104: 0.0021532775827959203
+- struijs: 0.0021532775827959203
+- bossuyt: 0.0021532775827959203
+- dijk: 0.0021532775827959203
+- :119-26: 0.0021532775827959203
+- anterior: 0.0021502616744140082
+- nonspecific: 0.0021478641016951148
+- 3.: 0.002142555602448017
+- p: 0.00214201349541924
+- does: 0.00213650786789253
+- determine: 0.0021137674910768726
+- areas: 0.0021069959730674647
+- first: 0.0021012335867995986
+- palpation: 0.0020898429997665254
+- cases: 0.0020860851470306295
+- extent: 0.002071718341701571
+- back: 0.0020657545202839352
+- physical: 0.002048368607309466
+- appreciated: 0.00203300345569564
+- 6.: 0.00202837290173641
+- options: 0.00202837290173641
+- .: 0.002020369299140616
+- 2.: 0.001991287842061743
+- past: 0.0019896429936099905
+- 243: 0.001983969526967893
+- 34.9: 0.001983969526967893
+- -inspection: 0.001983969526967893
+- -anterior: 0.001983969526967893
+- 24.2: 0.001983969526967893
+- 43.7: 0.001983969526967893
+- practitioner: 0.001983969526967893
+- specialty: 0.001983969526967893
+- misnomer: 0.001983969526967893
+- sort: 0.001983969526967893
+- 31.2: 0.001983969526967893
+- 95-97: 0.001983969526967893
+- defibrillators: 0.001983969526967893
+- reviews: 0.001983969526967893
+- hyaluronic: 0.001983969526967893
+- microfracturing: 0.001983969526967893
+- autograft: 0.001983969526967893
+- mosaicplasty: 0.001983969526967893
+- polousky: 0.001983969526967893
+- k√∂nig: 0.001983969526967893
+- :1118-26: 0.001983969526967893
+- editorial: 0.001983969526967893
+- letts: 0.001983969526967893
+- davidson: 0.001983969526967893
+- scand: 0.001983969526967893
+- traumatol: 0.001983969526967893
+- arthrosc: 0.001983969526967893
+- cochrane: 0.001983969526967893
+- syst: 0.001983969526967893
+- radiographs: 0.001983100274451978
+- area: 0.0019798506918424037
+- onset: 0.0019766154562226306
+- steroids: 0.0019637165991058902
+- iii: 0.0019596958374368547
+- such: 0.0019574983804402923
+- 1.: 0.001955927576671422
+- form: 0.0019517522512757504
+- light: 0.001947828376484708
+- 27: 0.0019362423839994532
+- tibial: 0.0019286682821255084
+- 19: 0.0019249248171789675
+- sensation: 0.0019175228606471638
+- having: 0.0019175228606471638
+- symmetric: 0.0019066260567808726
+- some: 0.0019015106892037803
+- usually: 0.0019015106892037803
+- ¬∞: 0.0018849306632384925
+- fahrenheit: 0.0018849306632384925
+- 25.6: 0.0018849306632384925
+- hop: 0.0018849306632384925
+- vasectomy: 0.0018849306632384925
+- marijuana: 0.0018849306632384925
+- franz: 0.0018849306632384925
+- pre-surgical: 0.0018849306632384925
+- pacemakers: 0.0018849306632384925
+- strategy: 0.0018849306632384925
+- jo: 0.0018849306632384925
+- fischer: 0.0018849306632384925
+- gaillard: 0.0018849306632384925
+- radiopaedia.org: 0.0018849306632384925
+- 06: 0.0018849306632384925
+- 23.: 0.0018849306632384925
+- smet: 0.0018849306632384925
+- fisher: 0.0018849306632384925
+- 155: 0.0018849306632384925
+- 27.: 0.0018849306632384925
+- distribution: 0.0018787030407379079
+- few: 0.0018787030407379079
+- report: 0.0018686301109857165
+- medications: 0.0018620283918031456
+- 22: 0.0018620283918031456
+- strength: 0.001852290133424632
+- 14: 0.0018396005943903083
+- represent: 0.0018333773282557554
+- 5: 0.0018320667482492647
+- weighted: 0.0018151695144808498
+- 98.6: 0.001814661471139865
+- conjunctivae: 0.001814661471139865
+- -patient: 0.001814661471139865
+- lane: 0.001814661471139865
+- bags: 0.001814661471139865
+- participating: 0.001814661471139865
+- eleven: 0.001814661471139865
+- heroin: 0.001814661471139865
+- construction: 0.001814661471139865
+- alexander: 0.001814661471139865
+- say: 0.001814661471139865
+- analyzed: 0.001814661471139865
+- rd: 0.001814661471139865
+- radiopaedia: 0.001814661471139865
+- bk: 0.001814661471139865
+- mp: 0.001814661471139865
+- do: 0.0018121997801982988
+- using: 0.0018121997801982988
+- had: 0.0018015142347246782
+- 5.: 0.0018004981480427087
+- ii: 0.0018004981480427087
+- 2: 0.0017978549062145053
+- suspected: 0.0017976160170572722
+- s: 0.001795872740924221
+- test: 0.0017834550317747846
+- fluid: 0.0017796573800223643
+- t2: 0.0017722926981560956
+- before: 0.0017669865132880667
+- etiology: 0.0017669865132880667
+- denies: 0.0017616181099780544
+- murmurs/rubs/gallops: 0.001760156451278065
+- malleoli: 0.001760156451278065
+- advair: 0.001760156451278065
+- universally: 0.001760156451278065
+- ej: 0.001760156451278065
+- comment: 0.001760156451278065
+- kj: 0.001760156451278065
+- cj: 0.001760156451278065
+- 25.: 0.001760156451278065
+- robinson: 0.001760156451278065
+- 26.: 0.001760156451278065
+- include: 0.001756585360061275
+- however: 0.0017435525566172963
+- taken: 0.0017407156794918752
+- many: 0.0017157857918453456
+- -rom: 0.0017156226074104648
+- gauge: 0.0017156226074104648
+- dessicans: 0.0017156226074104648
+- unsure: 0.0017156226074104648
+- language: 0.0017156226074104648
+- surprising: 0.0017156226074104648
+- malleolar: 0.0017156226074104648
+- observations: 0.0017156226074104648
+- bd: 0.0017156226074104648
+- editors: 0.0017156226074104648
+- 2009.: 0.0017156226074104648
+- n.p.: 0.0017156226074104648
+- ig: 0.0017156226074104648
+- database: 0.0017156226074104648
+- if: 0.001699128065789425
+- with: 0.0016861862211293341
+- results: 0.0016851697161429638
+- motion: 0.0016783688668422269
+- computerized: 0.0016779697789231032
+- 4/10: 0.0016779697789231032
+- wakes: 0.0016779697789231032
+- dissecting: 0.0016779697789231032
+- certainty: 0.0016779697789231032
+- bracing: 0.0016779697789231032
+- nonsteroidal: 0.0016779697789231032
+- principles: 0.0016779697789231032
+- wc: 0.0016779697789231032
+- n.d: 0.0016779697789231032
+- 1985: 0.0016779697789231032
+- revised: 0.0016779697789231032
+- rh: 0.0016779697789231032
+- 24.: 0.0016779697789231032
+- conservative: 0.0016672403722981038
+- canal: 0.0016585165728843245
+- currently: 0.0016542124059658314
+- use: 0.0016499458305047887
+- pedal: 0.0016453534153118372
+- cocaine: 0.0016453534153118372
+- 123: 0.0016453534153118372
+- anderson: 0.0016453534153118372
+- 1986: 0.0016453534153118372
+- acta: 0.0016453534153118372
+- rev: 0.0016453534153118372
+- system: 0.0016436150319495836
+- leg: 0.0016415228669315078
+- hours: 0.0016415228669315078
+- extremities: 0.001637365226644303
+- normal: 0.001636067970931975
+- cysts: 0.001635299600796955
+- left: 0.0016347671922106505
+- reveals: 0.0016332426723473488
+- s1/s2: 0.0016165837436810644
+- tilt: 0.0016165837436810644
+- 6.2: 0.0016165837436810644
+- cane: 0.0016165837436810644
+- walks: 0.0016165837436810644
+- pedestrian: 0.0016165837436810644
+- 2007.: 0.0016165837436810644
+- mortise: 0.0016165837436810644
+- ineffective: 0.0016165837436810644
+- je: 0.0016165837436810644
+- 19.: 0.0016165837436810644
+- rm: 0.0016165837436810644
+- gm: 0.0016165837436810644
+- prior: 0.001607801249781898
+- developed: 0.001607262083456138
+- result: 0.0016014578197107775
+- active: 0.001593824542767406
+- within: 0.0015927028904602653
+- orthopedist: 0.0015908483954500373
+- regained: 0.0015908483954500373
+- stabbing: 0.0015908483954500373
+- character: 0.0015908483954500373
+- predisposition: 0.0015908483954500373
+- displace: 0.0015908483954500373
+- radiolucency: 0.0015908483954500373
+- randomized: 0.0015908483954500373
+- approaches: 0.0015908483954500373
+- athletes: 0.0015908483954500373
+- simulating: 0.0015908483954500373
+- 21.: 0.0015908483954500373
+- 22.: 0.0015908483954500373
+- world: 0.0015908483954500373
+- management: 0.0015752474076480905
+- evaluations: 0.0015675679411744326
+- non-calcified: 0.0015675679411744326
+- forced: 0.0015675679411744326
+- depth: 0.0015675679411744326
+- candidates: 0.0015675679411744326
+- 1989: 0.0015675679411744326
+- miller: 0.0015675679411744326
+- appears: 0.0015538489598423296
+- 2/5: 0.001546314551582437
+- seatbelt: 0.001546314551582437
+- albuterol: 0.001546314551582437
+- subtalar: 0.001546314551582437
+- objects: 0.001546314551582437
+- osteotomy: 0.001546314551582437
+- pg: 0.001546314551582437
+- acute: 0.001546076694508912
+- consistent: 0.0015353919898616535
+- scleral: 0.0015267633284086373
+- favors: 0.0015267633284086373
+- electromyography: 0.0015267633284086373
+- referring: 0.0015267633284086373
+- l2-l3: 0.0015267633284086373
+- arthritic: 0.0015267633284086373
+- traveling: 0.0015267633284086373
+- hypercholesterolemia: 0.0015267633284086373
+- aunt: 0.0015267633284086373
+- listen: 0.0015267633284086373
+- detailed: 0.0015267633284086373
+- nonoperative: 0.0015267633284086373
+- en: 0.0015267633284086373
+- condyles: 0.0015267633284086373
+- helical: 0.0015267633284086373
+- iv: 0.0015234122801470902
+- peripheral: 0.0015104706018632718
+- '': 0.0015093425759518146
+- 10/10: 0.0015086617230950755
+- highlight: 0.0015086617230950755
+- fragmentation: 0.0015086617230950755
+- trials: 0.0015086617230950755
+- specialist: 0.0015086617230950755
+- knowledge: 0.0015086617230950755
+- article: 0.0015086617230950755
+- weight: 0.0014963096165807842
+- electrodiagnostic: 0.001491809531720637
+- mouse: 0.001491809531720637
+- expanded: 0.001491809531720637
+- 17.: 0.001491809531720637
+- br: 0.001491809531720637
+- 1: 0.0014899802403222082
+- discovery: 0.0014760453594838095
+- contraindicated: 0.0014760453594838095
+- providing: 0.0014760453594838095
+- 16.: 0.0014760453594838095
+- 20.: 0.0014760453594838095
+- pm: 0.0014760453594838095
+- crossed: 0.0014612371958745193
+- eventual: 0.0014612371958745193
+- release: 0.0014612371958745193
+- 92: 0.0014612371958745193
+- roentgenol: 0.0014612371958745193
+- being: 0.001454708342354938
+- weighing: 0.001447275687853037
+- encroachment: 0.001447275687853037
+- my: 0.001447275687853037
+- locking: 0.001447275687853037
+- non-operative: 0.001447275687853037
+- 1991: 0.001447275687853037
+- 14.: 0.001447275687853037
+- 18.: 0.001447275687853037
+- history: 0.0014413953806876934
+- presentation: 0.0014379094452814276
+- l3-l4: 0.001434069234196399
+- tunnel: 0.001434069234196399
+- worked: 0.001434069234196399
+- 2014: 0.001434069234196399
+- 1993: 0.001434069234196399
+- practice: 0.001434069234196399
+- lives: 0.0014215403396220096
+- categories: 0.0014215403396220096
+- i.: 0.0014215403396220096
+- 13.: 0.0014215403396220096
+- 87: 0.0014215403396220096
+- present: 0.0014142711924267322
+- air: 0.0014124389968500077
+- quadrants: 0.0014096228593656753
+- remember: 0.0014096228593656753
+- research: 0.0014096228593656753
+- alteration: 0.0014096228593656753
+- evolution: 0.0014096228593656753
+- orthopaedic: 0.0014096228593656753
+- ab: 0.0014096228593656753
+- type: 0.0014072419288455838
+- three: 0.0014072419288455838
+- available: 0.001403380092251977
+- size: 0.0013995485448845975
+- bmi: 0.001398259885346405
+- wearing: 0.001398259885346405
+- discuss: 0.001398259885346405
+- your: 0.001398259885346405
+- progresses: 0.001398259885346405
+- 12.: 0.001398259885346405
+- dr: 0.001398259885346405
+- 1990: 0.001398259885346405
+- 2015: 0.001398259885346405
+- swelling: 0.001390723431353753
+- pink: 0.0013874021025982776
+- drawer: 0.0013874021025982776
+- laxity: 0.0013874021025982776
+- limp: 0.0013874021025982776
+- shallow: 0.0013874021025982776
+- measurements: 0.0013874021025982776
+- 15.: 0.0013874021025982776
+- de: 0.0013874021025982776
+- interventions: 0.0013874021025982776
+- submandibular: 0.0013770064957544094
+- fibular: 0.0013770064957544094
+- navicular: 0.0013770064957544094
+- deployed: 0.0013770064957544094
+- widely: 0.0013770064957544094
+- progressing: 0.0013770064957544094
+- dec: 0.0013770064957544094
+- prospective: 0.0013770064957544094
+- determining: 0.0013770064957544094
+- central: 0.001373537546096707
+- case: 0.0013699348555451423
+- showed: 0.001368736330202099
+- l4-l5: 0.0013670353197602094
+- annulus: 0.0013670353197602094
+- took: 0.0013670353197602094
+- indistinct: 0.0013670353197602094
+- comes: 0.0013670353197602094
+- nondistended: 0.0013574552725806096
+- ii-xii: 0.0013574552725806096
+- link: 0.0013574552725806096
+- repetitive: 0.0013574552725806096
+- accurate: 0.0013574552725806096
+- f.: 0.0013574552725806096
+- plain: 0.0013557712323835293
+- positive: 0.0013546094725374288
+- respirations: 0.0013482368241236368
+- person: 0.0013482368241236368
+- mascaro: 0.0013482368241236368
+- terms: 0.0013482368241236368
+- kg: 0.0013482368241236368
+- r.: 0.0013482368241236368
+- atraumatic: 0.0013393536672670478
+- aa: 0.0013393536672670478
+- injury: 0.001330829771318417
+- starting: 0.0013307822652613638
+- twice: 0.0013307822652613638
+- fills: 0.0013307822652613638
+- ajr: 0.0013307822652613638
+- diagnosing: 0.0013307822652613638
+- radiograph: 0.0013297257713343247
+- utilized: 0.0013225014758926092
+- stopped: 0.0013225014758926092
+- changed: 0.0013225014758926092
+- pack: 0.0013225014758926092
+- pronounced: 0.0013225014758926092
+- false: 0.0013225014758926092
+- anti-inflammatory: 0.0013225014758926092
+- l.: 0.0013225014758926092
+- known: 0.0013209824545499852
+- 5mm: 0.0013144922372939306
+- knife: 0.0013144922372939306
+- lieberman: 0.0013144922372939306
+- tolerated: 0.0013144922372939306
+- bs: 0.0013144922372939306
+- 99: 0.0013067373036557818
+- will: 0.0013060483724372945
+- pounds: 0.0012992210216170048
+- https: 0.0012992210216170048
+- histological: 0.0012992210216170048
+- method: 0.0012992210216170048
+- 11.: 0.0012992210216170048
+- web: 0.0012992210216170048
+- heel: 0.0012919291400464916
+- relieve: 0.0012919291400464916
+- msiv: 0.0012919291400464916
+- exact: 0.0012919291400464916
+- 82: 0.0012919291400464916
+- provides: 0.0012919291400464916
+- debridement: 0.0012919291400464916
+- treating: 0.0012919291400464916
+- 2010: 0.0012919291400464916
+- neuropathy: 0.0012848486474052478
+- jeffrey: 0.0012848486474052478
+- go: 0.0012848486474052478
+- medical: 0.0012844698583615068
+- show: 0.0012814635732738768
+- normocephalic: 0.0012779676320250094
+- 2/4: 0.0012779676320250094
+- maintain: 0.0012779676320250094
+- balance: 0.0012779676320250094
+- get: 0.0012779676320250094
+- familial: 0.0012779676320250094
+- positioned: 0.0012779676320250094
+- edematous: 0.0012779676320250094
+- mmhg: 0.0012712751615345074
+- constant: 0.0012712751615345074
+- palpated: 0.0012647611783683714
+- heads: 0.0012647611783683714
+- tingling: 0.0012522322837939818
+- believed: 0.0012522322837939818
+- retrograde: 0.0012522322837939818
+- 6: 0.0012467611926599287
+- jaundice: 0.0012462008688964802
+- rotator: 0.0012462008688964802
+- identify: 0.0012462008688964802
+- impact: 0.0012403148035376476
+- smoker: 0.0012403148035376476
+- jennifer: 0.0012403148035376476
+- sperrazza: 0.0012403148035376476
+- video: 0.0012403148035376476
+- e: 0.0012403148035376476
+- d.: 0.0012403148035376476
+- baseline: 0.0012345672467691587
+- carpal: 0.0012345672467691587
+- metallic: 0.0012345672467691587
+- saturation: 0.0012289518295183772
+- foraminal: 0.0012289518295183772
+- years: 0.0012258149179377052
+- exertion: 0.0012234626121632093
+- allergies: 0.0012234626121632093
+- cuff: 0.0012234626121632093
+- communication: 0.0012234626121632093
+- acid: 0.0012234626121632093
+- m.: 0.0012234626121632093
+- toe: 0.0012180940467702499
+- l5-s1: 0.0012180940467702499
+- social: 0.0012180940467702499
+- lutnick: 0.0012180940467702499
+- separation: 0.0012128409433943429
+- detection: 0.0012128409433943429
+- loss: 0.0012117558243617194
+- wall: 0.0012091642013867835
+- 4/5: 0.0012076984399263819
+- food: 0.0012076984399263819
+- you: 0.0012076984399263819
+- repeated: 0.0012076984399263819
+- 2008: 0.0012076984399263819
+- 2000: 0.0012076984399263819
+- croce: 0.001202661975050286
+- gary: 0.001202661975050286
+- ipsilateral: 0.001202661975050286
+- o2: 0.0011977272639321817
+- iqbal: 0.0011977272639321817
+- synovial: 0.0011977272639321817
+- when: 0.0011955697301494898
+- two: 0.0011955697301494898
+- robert: 0.0011928902763170914
+- scott: 0.0011928902763170914
+- tirone: 0.0011928902763170914
+- surrounded: 0.0011928902763170914
+- effective: 0.0011881472167525819
+- sleep: 0.0011834945066962327
+- sustained: 0.0011834945066962327
+- indicate: 0.0011834945066962327
+- 1999: 0.0011834945066962327
+- value: 0.0011834945066962327
+- temperature: 0.001178928768295609
+- limb: 0.001178928768295609
+- charles: 0.001178928768295609
+- vaseem: 0.001178928768295609
+- 2007: 0.001178928768295609
+- arthropathy: 0.0011744468096565772
+- cardiovascular: 0.00117004561143902
+- philadelphia: 0.00117004561143902
+- car: 0.0011657223146389712
+- option: 0.0011657223146389712
+- ligaments: 0.0011657223146389712
+- failed: 0.0011657223146389712
+- stability: 0.0011657223146389712
+- 5/5: 0.0011614742094333364
+- illness: 0.0011614742094333364
+- smith: 0.0011614742094333364
+- evaluating: 0.0011614742094333364
+- making: 0.0011572987249782068
+- future: 0.0011572987249782068
+- asthma: 0.0011531934200645817
+- transplant: 0.0011531934200645817
+- long-term: 0.0011531934200645817
+- correlation: 0.001149155974546455
+- mg: 0.001145184181465903
+- genetic: 0.0011412759398082477
+- stated: 0.0011374292478277543
+- reflex: 0.0011374292478277543
+- premature: 0.0011374292478277543
+- flattening: 0.0011374292478277543
+- juvenile: 0.0011374292478277543
+- slowly: 0.0011336421968907817
+- struck: 0.0011336421968907817
+- randall: 0.0011336421968907817
+- loftus: 0.0011336421968907817
+- sharp: 0.001129912965788977
+- etc: 0.001129912965788977
+- data: 0.001129912965788977
+- became: 0.0011262398154801008
+- 43: 0.0011262398154801008
+- nsaids: 0.0011262398154801008
+- 2005: 0.0011262398154801008
+- achilles: 0.0011226210842184639
+- immobilization: 0.0011226210842184639
+- reference: 0.0011226210842184639
+- cn: 0.0011226210842184639
+- support: 0.0011190551830408497
+- contributors: 0.00111554059157722
+- tomography: 0.00111554059157722
+- damage: 0.00111554059157722
+- swollen: 0.0011120758541585693
+- standing: 0.0011120758541585693
+- went: 0.0011120758541585693
+- variable: 0.0011120758541585693
+- probably: 0.0011120758541585693
+- patellar: 0.0011086595761969817
+- prolonged: 0.0011086595761969817
+- facet: 0.0011086595761969817
+- every: 0.0011086595761969817
+- draining: 0.0011086595761969817
+- systems: 0.0011086595761969817
+- insufficiency: 0.0011086595761969817
+- krishnan: 0.0011052904208153657
+- kartha: 0.0011052904208153657
+- computed: 0.0011019671057064797
+- mild: 0.0010992933336253722
+- ulnar: 0.0010986884002027817
+- joanna: 0.0010954531225403437
+- garvey: 0.0010954531225403437
+- serghany: 0.0010954531225403437
+- approach: 0.0010954531225403437
+- than: 0.0010938196653240224
+- common: 0.0010924607777021969
+- musculoskeletal: 0.0010922601373016155
+- geoffrey: 0.0010922601373016155
+- gerow: 0.0010922601373016155
+- longitudinal: 0.0010922601373016155
+- minimally: 0.0010859967199559053
+- rhythm: 0.0010829242279659541
+- broad: 0.0010829242279659541
+- pulses: 0.001079889904566209
+- joseph: 0.001079889904566209
+- choice: 0.001079889904566209
+- anatomy: 0.001079889904566209
+- deficit: 0.0010768928130684525
+- s1: 0.0010768928130684525
+- elbow: 0.0010768928130684525
+- particularly: 0.0010768928130684525
+- mechanism: 0.0010739320508475574
+- nontender: 0.00107100674770962
+- drug: 0.00107100674770962
+- once: 0.0010681160643566637
+- feet: 0.0010681160643566637
+- both: 0.001066047870388921
+- relief: 0.001065259190941131
+- types: 0.001065259190941131
+- adults: 0.001065259190941131
+- auscultation: 0.0010624353457039362
+- nerves: 0.0010596437736903497
+- consciousness: 0.0010596437736903497
+- undergo: 0.0010596437736903497
+- began: 0.0010568837455384363
+- obvious: 0.0010541545563351816
+- combination: 0.0010514555245358203
+- date: 0.0010487859909422222
+- 2003: 0.0010487859909422222
+- movement: 0.0010435328875663152
+- suggests: 0.0010435328875663152
+- alert: 0.0010409481026785435
+- conditions: 0.0010383903840983542
+- simple: 0.001028419208104154
+- foreign: 0.001028419208104154
+- erythema: 0.0010259887413593646
+- ``: 0.0010259575171625878
+- oriented: 0.0010235822204890637
+- increased: 0.0010212431762577701
+- replacement: 0.0010188391609245544
+- soft: 0.0010165738954536151
+- disruption: 0.00101650172784782
+- 17: 0.00101650172784782
+- place: 0.001014186450868205
+- night: 0.001014186450868205
+- surgery: 0.001013678096902919
+- bilateral: 0.0010131009913602559
+- contour: 0.0010118929138995094
+- part: 0.0010118929138995094
+- heent: 0.0010096207124675814
+- almost: 0.0010096207124675814
+- larger: 0.0010051387538285495
+- numbness: 0.0010029282419770798
+- completely: 0.0010029282419770798
+- 70: 0.0010029282419770798
+- systemic: 0.0009985663422701898
+- caucasian: 0.0009964142588109435
+- still: 0.0009942809710804222
+- become: 0.0009942809710804222
+- home: 0.0009921661536053086
+- our: 0.0009921661536053086
+- 23: 0.0009921661536053086
+- c: 0.0009921661536053086
+- medicine: 0.0009900694892937816
+- reflexes: 0.000987990669150179
+- visible: 0.000987990669150179
+- associated: 0.0009850818573071333
+- 90: 0.000983885364236554
+- appropriate: 0.000983885364236554
+- without: 0.000982908239549663
+- ordered: 0.0009818582995529451
+- repeat: 0.0009818582995529451
+- states: 0.0009818582995529451
+- current: 0.0009778539493390523
+- discussion: 0.0009778539493390523
+- 3: 0.0009775161341995797
+- injection: 0.000973914188242354
+- despite: 0.0009700369656834164
+- involves: 0.0009700369656834164
+- filled: 0.0009700369656834164
+- much: 0.0009662203272117307
+- 26: 0.0009662203272117307
+- t: 0.0009662203272117307
+- wrist: 0.0009643341410627542
+- complaint: 0.0009643341410627542
+- sudden: 0.0009643341410627542
+- 45: 0.0009643341410627542
+- regular: 0.0009624624085894837
+- other: 0.0009622074004408639
+- flexion: 0.0009606049099609495
+- local: 0.0009587614303235819
+- lucency: 0.0009587614303235819
+- diagnosis: 0.0009585829656963458
+- radial: 0.000956931759652073
+- discharged: 0.000956931759652073
+- term: 0.0009551156926057813
+- joints: 0.0009551156926057813
+- partially: 0.0009551156926057813
+- idiopathic: 0.0009515235706249079
+- control: 0.0009515235706249079
+- so: 0.0009497471272128221
+- those: 0.0009497471272128221
+- 13: 0.0009427677983305416
+- pe: 0.0009376611337435085
+- carotid: 0.000935982364987338
+- fusion: 0.0009310141959015728
+- herniation: 0.0009293803443747538
+- from: 0.0009280183535570681
+- necessary: 0.0009245433567596635
+- surface: 0.0009213711057760751
+- fall: 0.0009182395257982878
+- resulting: 0.0009166886641278777
+- mixed: 0.0009166886641278777
+- their: 0.0009136161721379265
+- difficult: 0.0009136161721379265
+- pathologic: 0.0009136161721379265
+- under: 0.0009120942987254605
+- either: 0.0009090787061943663
+- needed: 0.0009090787061943663
+- cranial: 0.0009075847572404249
+- bp: 0.0009060998900991494
+- below: 0.0009060998900991494
+- complaints: 0.0009060998900991494
+- 18: 0.0009060998900991494
+- neurological: 0.000903156964228076
+- indicated: 0.000903156964228076
+- children: 0.0009016986918815923
+- cerebellar: 0.0009002490740213544
+- total: 0.0008988080085286361
+- room: 0.0008973753950815432
+- down: 0.0008959511351131033
+- calcified: 0.0008959511351131033
+- underlying: 0.0008945351317705714
+- displacement: 0.0008945351317705714
+- mildly: 0.0008889518054207789
+- described: 0.0008889518054207789
+- lymphadenopathy: 0.0008875756897104087
+- inflammation: 0.0008875756897104087
+- osseous: 0.0008862072833721893
+- function: 0.0008848465005071538
+- addition: 0.0008848465005071538
+- compared: 0.0008834932566440333
+- radiology: 0.0008821474687077925
+- limited: 0.0008808090549890272
+- features: 0.0008808090549890272
+- distress: 0.0008794779351141946
+- defined: 0.0008794779351141946
+- oral: 0.0008794779351141946
+- us: 0.0008755275542530316
+- increase: 0.0008755275542530316
+- pa: 0.0008729290202508196
+- motor: 0.0008716400468505159
+- references: 0.0008678134428582346
+- nodules: 0.0008652952773333541
+- 9: 0.0008628028078232804
+- limits: 0.0008603355152032257
+- views: 0.0008603355152032257
+- same: 0.0008603355152032257
+- hand: 0.0008578928959226728
+- line: 0.0008578928959226728
+- thyroid: 0.0008554744613885468
+- family: 0.0008554744613885468
+- 12: 0.000854274164661036
+- deep: 0.0008448783950401772
+- slightly: 0.0008437289346011413
+- evaluate: 0.0008437289346011413
+- 25: 0.0008437289346011413
+- considered: 0.0008425848580714819
+- shoulder: 0.0008414461152513032
+- nausea: 0.0008403126566395537
+- range: 0.0008403126566395537
+- narrowing: 0.0008369435012579378
+- typical: 0.0008369435012579378
+- additional: 0.0008369435012579378
+- repair: 0.0008358306980005219
+- sounds: 0.000832522387031358
+- hip: 0.0008314294997829649
+- diagnostic: 0.0008271062029829157
+- worsening: 0.0008218075159747918
+- minimal: 0.0008218075159747918
+- similar: 0.0008186826133221515
+- stenosis: 0.0008176498003984775
+- unknown: 0.0008145773084085263
+- ?: 0.0008145773084085263
+- change: 0.0008135616732964932
+- subsequent: 0.0008125502437249173
+- 24: 0.000811542985008781
+- note: 0.0008055851312901295
+- about: 0.0008046061324143263
+- classic: 0.000799769144799236
+- 50: 0.0007940884261465081
+- femoral: 0.0007940884261465081
+- radiographic: 0.0007922238377598274
+- lungs: 0.0007903733751783771
+- referred: 0.0007876237038240453
+- hospital: 0.0007858076367777536
+- activity: 0.0007831086049783924
+- compression: 0.0007813256781387216
+- studies: 0.0007795556711722423
+- weakness: 0.0007751859680088872
+- clear: 0.000771745630959122
+- abnormalities: 0.0007666743091593103
+- ap: 0.0007633509940504244
+- early: 0.0007633509940504244
+- cortical: 0.0007608878482109946
+- cervical: 0.0007584492932563822
+- presence: 0.0007576418218019367
+- risk: 0.0007560348430285996
+- did: 0.0007536440256455603
+- care: 0.0007528522586880196
+- sclerosis: 0.000749710609044051
+- extension: 0.0007450726236398762
+- then: 0.0007427862428974328
+- typically: 0.0007367918342711217
+- &: 0.0007331186839622452
+- involving: 0.0007323906360535646
+- location: 0.0007280673392535157
+- new: 0.000727354171177469
+- heart: 0.0007252270759425438
+- inflammatory: 0.0007238192340478807
+- side: 0.0007231183443488204
+- recent: 0.0007016900461259885
+- density: 0.0006867687730483534
+- vascular: 0.0006843681651010495
+- superior: 0.0006665226421724942
+- often: 0.0006659681359354304
+- should: 0.0006654148856592085
+- further: 0.0006637626140205808
+- mr: 0.0006632143312033302
+- t1: 0.0006615768285843292
+- adjacent: 0.0006599502306141346
+- bowel: 0.00065460516191616
+- severe: 0.0006422349291807534
+- during: 0.0006387418783399629
+- age: 0.0006352980765862986
+- diffuse: 0.0006319021544639264
+- only: 0.0006276042155556756
+- abdomen: 0.0006183156479960177
+- primary: 0.0006183156479960177
+- neck: 0.0006129074589688526
+- demonstrated: 0.0006124621354315992
+- pulmonary: 0.0006098071104592241
+- changes: 0.0005982041954653299
+- appearance: 0.0005969483577759261
+- focal: 0.0005961147054563756
+- all: 0.0005903574717711995
+- edema: 0.0005903574717711995
+- low: 0.0005804025532160233
+- shows: 0.0005738577673983583
+- who: 0.0005442033241674894
+- over: 0.0005314222252418081
+- symptoms: 0.0005201899064235806
+- upper: 0.0005036835626205956
+- into: 0.0004966600801074027
+- noted: 0.0004947291618105993
+- tissue: 0.0004947291618105993
+- posterior: 0.00048110370022043196
+- can: 0.0004734299835049022
+- well: 0.0004721741458154985
+- year: 0.0004670763406316144
+- large: 0.00045640997357867115
+- seen: 0.0004124639997722741
+- male: 0.0003774317386144292

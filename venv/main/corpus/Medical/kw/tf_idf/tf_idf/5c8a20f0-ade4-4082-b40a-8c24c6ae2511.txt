@@ -1,97 +1,101 @@
-\-\ Texto\\:\\ \ \(0\)\
-\-\ n\\/a\ \(127\)\
-\-\ follow\\ up\\ with\\ pediatric\\ endocrinology\\.\ \(0\)\
-\-\ lateral\\ view\\ of\\ the\\ lumbar\\ spine\\ demonstrates\\ dense\\ sclerosis\\ of\\ the\\ endplates\\ of\\ the\\ vertebral\\ bodies\\.\ \(0\)\
-\-\ ap\\ view\\ of\\ the\\ femur\\ and\\ tibia\\ demonstrates\\ overtubulation\\ of\\ diaphyseal\\ shafts\\ with\\ dense\\ metaphyseal\\ bands\\.\\ \\ there\\ is\\ a\\ varus\\ configuration\\ of\\ the\\ femur\\.\ \(0\)\
-\-\ ap\\ view\\ of\\ the\\ wrist\\ demonstrates\\ dense\\ metaphyseal\\ bands\\ and\\ a\\ positive\\ ulnar\\ variance\\.\ \(0\)\
-\-\ bisphosphate\\ therapy\\ in\\ pediatrics\ \(0\)\
-\-\ dense\\ metaphyseal\\ lines\\:\ \(0\)\
-\-\ vitamin\\ intoxication\ \(0\)\
-\-\ arsenic\\,\\ bismuth\\,\\ phosphorus\\ \ \(0\)\
-\-\ systemic\\ illness\ \(2\)\
-\-\ estrogen\\ effect\ \(1\)\
-\-\ leukemia\ \(70\)\
-\-\ lead\ \(339\)\
-\-\ torch\\ infections\ \(0\)\
-\-\ idiopathic\\ hypercalcemia\ \(0\)\
-\-\ rickets\ \(46\)\
-\-\ hypothyroidism\ \(39\)\
-\-\ scurvy\ \(1\)\
-\-\ sickle\\ cell\\ disease\ \(41\)\
-\-\ 15\\ y\\.o\\.\\ with\\ history\\ of\\ osteogenesis\\ imperfecta\\ type\\ i\\ on\\ bisphosphonate\\ therapy\ \(0\)\
-\-\ n\\/a\ \(127\)\
-\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
-\-\ dense\\:\\ 0\\.14677799748563522\ \(0\)\
-\-\ metaphyseal\\:\\ 0\\.1391439915616961\ \(0\)\
-\-\ bands\\:\\ 0\\.09276266104113073\ \(0\)\
-\-\ view\\:\\ 0\\.08743763533040559\ \(0\)\
-\-\ overtubulation\\:\\ 0\\.08014107658151362\ \(0\)\
-\-\ bisphosphate\\:\\ 0\\.08014107658151362\ \(0\)\
-\-\ arsenic\\:\\ 0\\.08014107658151362\ \(0\)\
-\-\ bismuth\\:\\ 0\\.08014107658151362\ \(0\)\
-\-\ scurvy\\:\\ 0\\.0738397385764232\ \(0\)\
-\-\ femur\\:\\ 0\\.06711917171933161\ \(0\)\
-\-\ bisphosphonate\\:\\ 0\\.06550982283211271\ \(0\)\
-\-\ endplates\\:\\ 0\\.062450984317374406\ \(0\)\
-\-\ shafts\\:\\ 0\\.062450984317374406\ \(0\)\
-\-\ variance\\:\\ 0\\.06123706256624238\ \(0\)\
-\-\ pediatrics\\:\\ 0\\.05834202864698298\ \(0\)\
-\-\ intoxication\\:\\ 0\\.05834202864698298\ \(0\)\
-\-\ phosphorus\\:\\ 0\\.05834202864698298\ \(0\)\
-\-\ estrogen\\:\\ 0\\.05755101612889543\ \(0\)\
-\-\ ap\\:\\ 0\\.056821072175317046\ \(0\)\
-\-\ n\\/a\\:\\ 0\\.05627648449743793\ \(0\)\
-\-\ diaphyseal\\:\\ 0\\.056149646312283995\ \(0\)\
-\-\ endocrinology\\:\\ 0\\.05552243838967534\ \(0\)\
-\-\ torch\\:\\ 0\\.05493572456115197\ \(0\)\
-\-\ hypercalcemia\\:\\ 0\\.05204069064189256\ \(0\)\
-\-\ osteogenesis\\:\\ 0\\.05204069064189256\ \(0\)\
-\-\ imperfecta\\:\\ 0\\.05204069064189256\ \(0\)\
-\-\ varus\\:\\ 0\\.05163658370943044\ \(0\)\
-\-\ demonstrates\\:\\ 0\\.0509078509541778\ \(0\)\
-\-\ rickets\\:\\ 0\\.04892301108619411\ \(0\)\
-\-\ vitamin\\:\\ 0\\.04573935263680215\ \(0\)\
-\-\ hypothyroidism\\:\\ 0\\.04553505394723799\ \(0\)\
-\-\ configuration\\:\\ 0\\.04338606505574498\ \(0\)\
-\-\ illness\\:\\ 0\\.0432279583038189\ \(0\)\
-\-\ sickle\\:\\ 0\\.042919762379494526\ \(0\)\
-\-\ lines\\:\\ 0\\.042769495998119876\ \(0\)\
-\-\ therapy\\:\\ 0\\.041538923568011143\ \(0\)\
-\-\ ulnar\\:\\ 0\\.040891184640274435\ \(0\)\
-\-\ leukemia\\:\\ 0\\.03986092386475622\ \(0\)\
-\-\ pediatric\\:\\ 0\\.03740943689249165\ \(0\)\
-\-\ lead\\:\\ 0\\.037245632297012755\ \(0\)\
-\-\ systemic\\:\\ 0\\.037164823684128705\ \(0\)\
-\-\ infections\\:\\ 0\\.03692662029872849\ \(0\)\
-\-\ bodies\\:\\ 0\\.036393946078128\ \(0\)\
-\-\ wrist\\:\\ 0\\.035890763395553776\ \(0\)\
-\-\ tibia\\:\\ 0\\.03568335723404313\ \(0\)\
-\-\ idiopathic\\:\\ 0\\.03541397725580339\ \(0\)\
-\-\ lumbar\\:\\ 0\\.03303395339704012\ \(0\)\
-\-\ i\\:\\ 0\\.03211195177480463\ \(0\)\
-\-\ 15\\:\\ 0\\.03098496956823981\ \(0\)\
-\-\ vertebral\\:\\ 0\\.03074360382192962\ \(0\)\
-\-\ sclerosis\\:\\ 0\\.027902865758421318\ \(0\)\
-\-\ effect\\:\\ 0\\.027505075027902226\ \(0\)\
-\-\ type\\:\\ 0\\.02618749298497191\ \(0\)\
-\-\ spine\\:\\ 0\\.025582759509139526\ \(0\)\
-\-\ positive\\:\\ 0\\.025208050820764695\ \(0\)\
-\-\ follow\\:\\ 0\\.0246836315631494\ \(0\)\
-\-\ y\\.o\\:\\ 0\\.022421631205333636\ \(0\)\
-\-\ cell\\:\\ 0\\.0209840064689226\ \(0\)\
-\-\ up\\:\\ 0\\.020889519555038392\ \(0\)\
-\-\ lateral\\:\\ 0\\.016787891323859546\ \(0\)\
-\-\ disease\\:\\ 0\\.012697614011051855\ \(0\)\
-\-\ there\\:\\ 0\\.011561050513318079\ \(0\)\
-\-\ history\\:\\ 0\\.010729223070064395\ \(0\)\
-\-\ \\:\\:\\ 0\\.010275225599915136\ \(0\)\
-\-\ of\\:\\ 0\\.008473003694399158\ \(0\)\
-\-\ the\\:\\ 0\\.0075408700747432245\ \(0\)\
-\-\ a\\:\\ 0\\.007210905487610932\ \(0\)\
-\-\ on\\:\\ 0\\.006580827385140255\ \(0\)\
-\-\ is\\:\\ 0\\.005111734348952051\ \(0\)\
-\-\ \\,\\:\\ 0\\.0049220011912234065\ \(0\)\
-\-\ in\\:\\ 0\\.003830883910365954\ \(0\)\
-\-\ and\\:\\ 0\\.0032728910133130625\ \(0\)\
-\-\ with\\:\\ 0\\.00319102298426972\ \(0\)\
-\-\ \\.\\:\\ 0\\.001936338332582524\ \(0\)\
+Texto: 
+n/a
+follow up with pediatric endocrinology.
+lateral view of the lumbar spine demonstrates dense sclerosis of the endplates of the vertebral bodies.
+
+ap view of the femur and tibia demonstrates overtubulation of diaphyseal shafts with dense metaphyseal bands.  there is a varus configuration of the femur.
+
+ap view of the wrist demonstrates dense metaphyseal bands and a positive ulnar variance.
+bisphosphate therapy in pediatrics
+dense metaphyseal lines:
+vitamin intoxication
+arsenic, bismuth, phosphorus 
+systemic illness
+estrogen effect
+leukemia
+lead
+torch infections
+idiopathic hypercalcemia
+rickets
+hypothyroidism
+scurvy
+sickle cell disease
+15 y.o. with history of osteogenesis imperfecta type i on bisphosphonate therapy
+n/a
+
+
+Keywords by value: 
+- dense: 0.14677799748563522
+- metaphyseal: 0.1391439915616961
+- bands: 0.09276266104113073
+- view: 0.08743763533040559
+- overtubulation: 0.08014107658151362
+- bisphosphate: 0.08014107658151362
+- arsenic: 0.08014107658151362
+- bismuth: 0.08014107658151362
+- scurvy: 0.0738397385764232
+- femur: 0.06711917171933161
+- bisphosphonate: 0.06550982283211271
+- endplates: 0.062450984317374406
+- shafts: 0.062450984317374406
+- variance: 0.06123706256624238
+- pediatrics: 0.05834202864698298
+- intoxication: 0.05834202864698298
+- phosphorus: 0.05834202864698298
+- estrogen: 0.05755101612889543
+- ap: 0.056821072175317046
+- n/a: 0.05627648449743793
+- diaphyseal: 0.056149646312283995
+- endocrinology: 0.05552243838967534
+- torch: 0.05493572456115197
+- hypercalcemia: 0.05204069064189256
+- osteogenesis: 0.05204069064189256
+- imperfecta: 0.05204069064189256
+- varus: 0.05163658370943044
+- demonstrates: 0.0509078509541778
+- rickets: 0.04892301108619411
+- vitamin: 0.04573935263680215
+- hypothyroidism: 0.04553505394723799
+- configuration: 0.04338606505574498
+- illness: 0.0432279583038189
+- sickle: 0.042919762379494526
+- lines: 0.042769495998119876
+- therapy: 0.041538923568011143
+- ulnar: 0.040891184640274435
+- leukemia: 0.03986092386475622
+- pediatric: 0.03740943689249165
+- lead: 0.037245632297012755
+- systemic: 0.037164823684128705
+- infections: 0.03692662029872849
+- bodies: 0.036393946078128
+- wrist: 0.035890763395553776
+- tibia: 0.03568335723404313
+- idiopathic: 0.03541397725580339
+- lumbar: 0.03303395339704012
+- i: 0.03211195177480463
+- 15: 0.03098496956823981
+- vertebral: 0.03074360382192962
+- sclerosis: 0.027902865758421318
+- effect: 0.027505075027902226
+- type: 0.02618749298497191
+- spine: 0.025582759509139526
+- positive: 0.025208050820764695
+- follow: 0.0246836315631494
+- y.o: 0.022421631205333636
+- cell: 0.0209840064689226
+- up: 0.020889519555038392
+- lateral: 0.016787891323859546
+- disease: 0.012697614011051855
+- there: 0.011561050513318079
+- history: 0.010729223070064395
+- :: 0.010275225599915136
+- of: 0.008473003694399158
+- the: 0.0075408700747432245
+- a: 0.007210905487610932
+- on: 0.006580827385140255
+- is: 0.005111734348952051
+- ,: 0.0049220011912234065
+- in: 0.003830883910365954
+- and: 0.0032728910133130625
+- with: 0.00319102298426972
+- .: 0.001936338332582524

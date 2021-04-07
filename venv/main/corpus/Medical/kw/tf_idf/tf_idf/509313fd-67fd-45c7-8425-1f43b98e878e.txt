@@ -1,86 +1,88 @@
-\-\ Texto\\:\\ \ \(0\)\
-\-\ none\\ provided\ \(5\)\
-\-\ no\\ specific\\ treatment\\ was\\ provided\\.\\ follow\\-up\\ was\\ to\\ be\\ obtained\\ if\\ the\\ patient\\ failed\\ to\\ clinically\\ improve\\.\ \(0\)\
-\-\ frontal\\ and\\ lateral\\ views\\ of\\ the\\ chest\\ reveal\\ no\\ evidence\\ of\\ pulmonary\\ opacities\\ to\\ suggest\\ infiltrate\\.\\ the\\ frontal\\ view\\ reveals\\ a\\ faint\\ lucency\\ surrounding\\ the\\ heart\\.\\ the\\ lateral\\ view\\ shows\\ lucency\\ anterior\\ and\\ posterior\\ to\\ the\\ cardiac\\ silhouette\\.\\ remainder\\ of\\ examination\\ is\\ normal\\.\ \(0\)\
-\-\ asthma\\ and\\ pneumomediastinum\ \(0\)\
-\-\ the\\ differential\\ diagnosis\\ includes\\ pneumomediastinum\\ vs\\.\\ artifact\\.\ \(0\)\
-\-\ \\"sob\\"\\ \\-\\ shortness\\ of\\ breath\\.\ \(0\)\
-\-\ pneumomediastinum\\ is\\ a\\ known\\ complication\\ of\\ asthma\\.\\ patients\\ typically\\ improve\\ clinically\\ without\\ treatment\\ and\\ only\\ with\\ supportive\\ care\\.\\ complications\\ are\\ rare\\ however\\,\\ they\\ include\\ tension\\ pneumothorax\\ and\\ mediastinitis\\.\ \(0\)\
-\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
-\-\ pneumomediastinum\\:\\ 0\\.13297527156250044\ \(0\)\
-\-\ asthma\\:\\ 0\\.0786862310290733\ \(0\)\
-\-\ improve\\:\\ 0\\.07588064244875305\ \(0\)\
-\-\ lucency\\:\\ 0\\.06541948826241241\ \(0\)\
-\-\ clinically\\:\\ 0\\.06244357036243778\ \(0\)\
-\-\ provided\\:\\ 0\\.061426995150723744\ \(0\)\
-\-\ view\\:\\ 0\\.05343411047969231\ \(0\)\
-\-\ mediastinitis\\:\\ 0\\.05147050911959366\ \(0\)\
-\-\ tension\\:\\ 0\\.04599734631635141\ \(0\)\
-\-\ faint\\:\\ 0\\.045119342019202854\ \(0\)\
-\-\ frontal\\:\\ 0\\.04473819890805596\ \(0\)\
-\-\ infiltrate\\:\\ 0\\.04231540671402608\ \(0\)\
-\-\ sob\\:\\ 0\\.04155730856231169\ \(0\)\
-\-\ silhouette\\:\\ 0\\.040376887586786474\ \(0\)\
-\-\ failed\\:\\ 0\\.0397705596344329\ \(0\)\
-\-\ artifact\\:\\ 0\\.037823769207920355\ \(0\)\
-\-\ opacities\\:\\ 0\\.03715674664397422\ \(0\)\
-\-\ complication\\:\\ 0\\.03492121342235189\ \(0\)\
-\-\ remainder\\:\\ 0\\.03356688900987044\ \(0\)\
-\-\ pneumothorax\\:\\ 0\\.03342914482694368\ \(0\)\
-\-\ reveal\\:\\ 0\\.031707359415585355\ \(0\)\
-\-\ supportive\\:\\ 0\\.03148804851294058\ \(0\)\
-\-\ lateral\\:\\ 0\\.03077780076040917\ \(0\)\
-\-\ suggest\\:\\ 0\\.03032807242827224\ \(0\)\
-\-\ shortness\\:\\ 0\\.02995968832406811\ \(0\)\
-\-\ specific\\:\\ 0\\.029435955793570914\ \(0\)\
-\-\ views\\:\\ 0\\.029351779993683384\ \(0\)\
-\-\ treatment\\:\\ 0\\.02882694932668145\ \(0\)\
-\-\ includes\\:\\ 0\\.028707336631990293\ \(0\)\
-\-\ complications\\:\\ 0\\.028218106625100478\ \(0\)\
-\-\ vs\\:\\ 0\\.028037333086673315\ \(0\)\
-\-\ reveals\\:\\ 0\\.027860397919125195\ \(0\)\
-\-\ rare\\:\\ 0\\.027652918322277467\ \(0\)\
-\-\ cardiac\\:\\ 0\\.027123639941258087\ \(0\)\
-\-\ breath\\:\\ 0\\.026625979652077903\ \(0\)\
-\-\ care\\:\\ 0\\.02568480955890627\ \(0\)\
-\-\ they\\:\\ 0\\.025657884387394216\ \(0\)\
-\-\ obtained\\:\\ 0\\.025315550839532016\ \(0\)\
-\-\ typically\\:\\ 0\\.02513688141254977\ \(0\)\
-\-\ heart\\:\\ 0\\.024742330407573117\ \(0\)\
-\-\ surrounding\\:\\ 0\\.023409710536373043\ \(0\)\
-\-\ follow\\-up\\:\\ 0\\.023166974928681184\ \(0\)\
-\-\ differential\\:\\ 0\\.02260799857794108\ \(0\)\
-\-\ known\\:\\ 0\\.022533759037198498\ \(0\)\
-\-\ examination\\:\\ 0\\.02213685862895471\ \(0\)\
-\-\ only\\:\\ 0\\.021411763820707797\ \(0\)\
-\-\ pulmonary\\:\\ 0\\.02080458591850053\ \(0\)\
-\-\ include\\:\\ 0\\.019976279066919057\ \(0\)\
-\-\ however\\:\\ 0\\.019828067129975587\ \(0\)\
-\-\ shows\\:\\ 0\\.01957811416440732\ \(0\)\
-\-\ if\\:\\ 0\\.01932286194817196\ \(0\)\
-\-\ evidence\\:\\ 0\\.018670354861390646\ \(0\)\
-\-\ patients\\:\\ 0\\.018429788328050214\ \(0\)\
-\-\ anterior\\:\\ 0\\.018339940198022812\ \(0\)\
-\-\ none\\:\\ 0\\.017664329224233388\ \(0\)\
-\-\ \\`\\`\\:\\ 0\\.017501125313598476\ \(0\)\
-\-\ \\'\\'\\:\\ 0\\.01716457918318536\ \(0\)\
-\-\ chest\\:\\ 0\\.017039408333812657\ \(0\)\
-\-\ without\\:\\ 0\\.016766776386318002\ \(0\)\
-\-\ was\\:\\ 0\\.01647129203689478\ \(0\)\
-\-\ posterior\\:\\ 0\\.016413654572520406\ \(0\)\
-\-\ diagnosis\\:\\ 0\\.016351827756503498\ \(0\)\
-\-\ \\-\\:\\ 0\\.015264403822569696\ \(0\)\
-\-\ no\\:\\ 0\\.014340735845063367\ \(0\)\
-\-\ to\\:\\ 0\\.014235603614766208\ \(0\)\
-\-\ normal\\:\\ 0\\.011163437121659176\ \(0\)\
-\-\ be\\:\\ 0\\.010981306027866075\ \(0\)\
-\-\ are\\:\\ 0\\.009707282271080014\ \(0\)\
-\-\ is\\:\\ 0\\.00937151297307876\ \(0\)\
-\-\ the\\:\\ 0\\.008064541607711504\ \(0\)\
-\-\ and\\:\\ 0\\.0075003752388424355\ \(0\)\
-\-\ patient\\:\\ 0\\.0071382660909699\ \(0\)\
-\-\ a\\:\\ 0\\.006609996696976688\ \(0\)\
-\-\ of\\:\\ 0\\.004854325033249517\ \(0\)\
-\-\ \\.\\:\\ 0\\.0035499536097346276\ \(0\)\
-\-\ \\,\\:\\ 0\\.0022559172126440613\ \(0\)\
-\-\ with\\:\\ 0\\.0009750348007490811\ \(0\)\
+Texto: 
+none provided
+no specific treatment was provided. follow-up was to be obtained if the patient failed to clinically improve.
+frontal and lateral views of the chest reveal no evidence of pulmonary opacities to suggest infiltrate. the frontal view reveals a faint lucency surrounding the heart. the lateral view shows lucency anterior and posterior to the cardiac silhouette. remainder of examination is normal.
+asthma and pneumomediastinum
+the differential diagnosis includes pneumomediastinum vs. artifact.
+"sob" - shortness of breath.
+pneumomediastinum is a known complication of asthma. patients typically improve clinically without treatment and only with supportive care. complications are rare however, they include tension pneumothorax and mediastinitis.
+
+
+Keywords by value: 
+- pneumomediastinum: 0.13297527156250044
+- asthma: 0.0786862310290733
+- improve: 0.07588064244875305
+- lucency: 0.06541948826241241
+- clinically: 0.06244357036243778
+- provided: 0.061426995150723744
+- view: 0.05343411047969231
+- mediastinitis: 0.05147050911959366
+- tension: 0.04599734631635141
+- faint: 0.045119342019202854
+- frontal: 0.04473819890805596
+- infiltrate: 0.04231540671402608
+- sob: 0.04155730856231169
+- silhouette: 0.040376887586786474
+- failed: 0.0397705596344329
+- artifact: 0.037823769207920355
+- opacities: 0.03715674664397422
+- complication: 0.03492121342235189
+- remainder: 0.03356688900987044
+- pneumothorax: 0.03342914482694368
+- reveal: 0.031707359415585355
+- supportive: 0.03148804851294058
+- lateral: 0.03077780076040917
+- suggest: 0.03032807242827224
+- shortness: 0.02995968832406811
+- specific: 0.029435955793570914
+- views: 0.029351779993683384
+- treatment: 0.02882694932668145
+- includes: 0.028707336631990293
+- complications: 0.028218106625100478
+- vs: 0.028037333086673315
+- reveals: 0.027860397919125195
+- rare: 0.027652918322277467
+- cardiac: 0.027123639941258087
+- breath: 0.026625979652077903
+- care: 0.02568480955890627
+- they: 0.025657884387394216
+- obtained: 0.025315550839532016
+- typically: 0.02513688141254977
+- heart: 0.024742330407573117
+- surrounding: 0.023409710536373043
+- follow-up: 0.023166974928681184
+- differential: 0.02260799857794108
+- known: 0.022533759037198498
+- examination: 0.02213685862895471
+- only: 0.021411763820707797
+- pulmonary: 0.02080458591850053
+- include: 0.019976279066919057
+- however: 0.019828067129975587
+- shows: 0.01957811416440732
+- if: 0.01932286194817196
+- evidence: 0.018670354861390646
+- patients: 0.018429788328050214
+- anterior: 0.018339940198022812
+- none: 0.017664329224233388
+- ``: 0.017501125313598476
+- '': 0.01716457918318536
+- chest: 0.017039408333812657
+- without: 0.016766776386318002
+- was: 0.01647129203689478
+- posterior: 0.016413654572520406
+- diagnosis: 0.016351827756503498
+- -: 0.015264403822569696
+- no: 0.014340735845063367
+- to: 0.014235603614766208
+- normal: 0.011163437121659176
+- be: 0.010981306027866075
+- are: 0.009707282271080014
+- is: 0.00937151297307876
+- the: 0.008064541607711504
+- and: 0.0075003752388424355
+- patient: 0.0071382660909699
+- a: 0.006609996696976688
+- of: 0.004854325033249517
+- .: 0.0035499536097346276
+- ,: 0.0022559172126440613
+- with: 0.0009750348007490811

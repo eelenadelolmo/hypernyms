@@ -1,92 +1,95 @@
-\-\ Texto\\:\\ \ \(0\)\
-\-\ non\\-focal\\ neurologic\\ examination\\.\ \(1\)\
-\-\ ct\\:\\ a\\ hyperdense\\ mass\\ infiltrating\\ and\\ widening\\ the\\ splenium\\ of\\ the\\ corpus\\ callosum\\.\\ a\\ poorly\\ defined\\ subtle\\ hypodense\\ lesion\\ at\\ the\\ level\\ of\\ the\\ right\\ basal\\ ganglia\\ that\\ causes\\ leftward\\ midline\\ shift\\ and\\ mass\\ effect\\ on\\ the\\ right\\ lateral\\ ventricle\\.\ \(0\)\
-\-\ mri\\:\\ a\\ poorly\\ defined\\ t2\\ hyperintense\\ lesion\\ infiltrating\\ and\\ widening\\ the\\ splenium\\ of\\ the\\ corpus\\ callosum\\ with\\ an\\ additional\\ focus\\ at\\ the\\ level\\ of\\ the\\ right\\ basal\\ ganglia\\ that\\ causes\\ leftward\\ midline\\ shift\\.\\ vasogenic\\ edema\\ in\\ the\\ right\\ posterior\\ cerebral\\ hemisphere\\.\\ the\\ mass\\ has\\ mild\\,\\ irregular\\ enhancement\\.\ \(0\)\
-\-\ glioblastoma\\ multiforme\\ with\\ gliomatosis\\ cerebri\ \(0\)\
-\-\ \\â\\€\\¢\\ glioblasatoma\\ multiforme\\ \ \(0\)\
-\-\ \\â\\€\\¢\\ gliomatosis\\ cerebri\ \(0\)\
-\-\ \\â\\€\\¢\\ multiple\\ sclerosis\ \(0\)\
-\-\ \\â\\€\\¢\\ lymphoma\ \(6\)\
-\-\ \\â\\€\\¢\\ metastatic\\ disease\ \(13\)\
-\-\ 56\\ y\\.o\\.\\ woman\\ with\\ vague\\ neurological\\ symptoms\\ such\\ as\\ headache\\ and\\ lethargy\\ that\\ were\\ increasing\\ over\\ a\\ few\\ weeks\\.\ \(1\)\
-\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
-\-\ gliomatosis\\:\\ 0\\.09884328453109618\ \(0\)\
-\-\ leftward\\:\\ 0\\.09371127094924392\ \(0\)\
-\-\ splenium\\:\\ 0\\.08886994380361496\ \(0\)\
-\-\ cerebri\\:\\ 0\\.0811145984693317\ \(0\)\
-\-\ multiforme\\:\\ 0\\.07144418449289842\ \(0\)\
-\-\ infiltrating\\:\\ 0\\.06677886552619944\ \(0\)\
-\-\ glioblasatoma\\:\\ 0\\.06342099585587409\ \(0\)\
-\-\ callosum\\:\\ 0\\.06308923201616093\ \(0\)\
-\-\ ganglia\\:\\ 0\\.062918952050017\ \(0\)\
-\-\ widening\\:\\ 0\\.061937538380570485\ \(0\)\
-\-\ corpus\\:\\ 0\\.06058055018673966\ \(0\)\
-\-\ poorly\\:\\ 0\\.060016223378778794\ \(0\)\
-\-\ shift\\:\\ 0\\.058321503441276866\ \(0\)\
-\-\ \\â\\€\\¢\\:\\ 0\\.05636742271927654\ \(0\)\
-\-\ basal\\:\\ 0\\.056050899253789546\ \(0\)\
-\-\ defined\\:\\ 0\\.05180694483967644\ \(0\)\
-\-\ causes\\:\\ 0\\.04786447047208362\ \(0\)\
-\-\ midline\\:\\ 0\\.0475702170840075\ \(0\)\
-\-\ non\\-focal\\:\\ 0\\.044968122780611235\ \(0\)\
-\-\ lethargy\\:\\ 0\\.03871605193871477\ \(0\)\
-\-\ level\\:\\ 0\\.03543725219635874\ \(0\)\
-\-\ glioblastoma\\:\\ 0\\.03384636373951933\ \(0\)\
-\-\ vasogenic\\:\\ 0\\.03327959483410124\ \(0\)\
-\-\ vague\\:\\ 0\\.033064825315038786\ \(0\)\
-\-\ hypodense\\:\\ 0\\.032754234150540885\ \(0\)\
-\-\ 56\\:\\ 0\\.03235993029086467\ \(0\)\
-\-\ that\\:\\ 0\\.03185569917752856\ \(0\)\
-\-\ hemisphere\\:\\ 0\\.03129216046986989\ \(0\)\
-\-\ hyperdense\\:\\ 0\\.030735421882708596\ \(0\)\
-\-\ subtle\\:\\ 0\\.02823862802694061\ \(0\)\
-\-\ few\\:\\ 0\\.027666943340938832\ \(0\)\
-\-\ focus\\:\\ 0\\.027617155982344776\ \(0\)\
-\-\ neurological\\:\\ 0\\.026600896485969378\ \(0\)\
-\-\ right\\:\\ 0\\.02594623623339329\ \(0\)\
-\-\ neurologic\\:\\ 0\\.02567262123601448\ \(0\)\
-\-\ mass\\:\\ 0\\.02565023756001938\ \(0\)\
-\-\ hyperintense\\:\\ 0\\.025522735718727842\ \(0\)\
-\-\ increasing\\:\\ 0\\.025196492409530296\ \(0\)\
-\-\ lesion\\:\\ 0\\.02504396008633748\ \(0\)\
-\-\ additional\\:\\ 0\\.02465069564136689\ \(0\)\
-\-\ irregular\\:\\ 0\\.024520479514434385\ \(0\)\
-\-\ ventricle\\:\\ 0\\.023038779263154157\ \(0\)\
-\-\ sclerosis\\:\\ 0\\.022081404557024065\ \(0\)\
-\-\ effect\\:\\ 0\\.021766606137188813\ \(0\)\
-\-\ cerebral\\:\\ 0\\.021298176271683966\ \(0\)\
-\-\ headache\\:\\ 0\\.02111500314795538\ \(0\)\
-\-\ such\\:\\ 0\\.01921822150964642\ \(0\)\
-\-\ examination\\:\\ 0\\.019110957089745074\ \(0\)\
-\-\ y\\.o\\:\\ 0\\.017743736925084175\ \(0\)\
-\-\ lymphoma\\:\\ 0\\.0175697743481258\ \(0\)\
-\-\ weeks\\:\\ 0\\.017448041416555024\ \(0\)\
-\-\ t2\\:\\ 0\\.01739991919964282\ \(0\)\
-\-\ edema\\:\\ 0\\.017387938772886986\ \(0\)\
-\-\ at\\:\\ 0\\.01665846263067098\ \(0\)\
-\-\ enhancement\\:\\ 0\\.016478336446928317\ \(0\)\
-\-\ \\:\\:\\ 0\\.016262946992671442\ \(0\)\
-\-\ mild\\:\\ 0\\.016188873769288757\ \(0\)\
-\-\ over\\:\\ 0\\.015652104965035704\ \(0\)\
-\-\ metastatic\\:\\ 0\\.015475607220259643\ \(0\)\
-\-\ symptoms\\:\\ 0\\.015321276812216829\ \(0\)\
-\-\ woman\\:\\ 0\\.014200740629416593\ \(0\)\
-\-\ posterior\\:\\ 0\\.014170061501456466\ \(0\)\
-\-\ mri\\:\\ 0\\.01412428672600446\ \(0\)\
-\-\ were\\:\\ 0\\.013958894508560585\ \(0\)\
-\-\ lateral\\:\\ 0\\.013285381623198204\ \(0\)\
-\-\ multiple\\:\\ 0\\.01294824462934726\ \(0\)\
-\-\ has\\:\\ 0\\.011544604104275382\ \(0\)\
-\-\ a\\:\\ 0\\.011412943937225936\ \(0\)\
-\-\ the\\:\\ 0\\.010940590875826502\ \(0\)\
-\-\ disease\\:\\ 0\\.01004847151953744\ \(0\)\
-\-\ as\\:\\ 0\\.009299118747439768\ \(0\)\
-\-\ ct\\:\\ 0\\.00859930685893556\ \(0\)\
-\-\ an\\:\\ 0\\.008501186073990863\ \(0\)\
-\-\ on\\:\\ 0\\.0052078490098232235\ \(0\)\
-\-\ and\\:\\ 0\\.005180115272869596\ \(0\)\
-\-\ of\\:\\ 0\\.003352627361093192\ \(0\)\
-\-\ in\\:\\ 0\\.003031634749210467\ \(0\)\
-\-\ with\\:\\ 0\\.002525269987551577\ \(0\)\
-\-\ \\.\\:\\ 0\\.0020431387681925915\ \(0\)\
-\-\ \\,\\:\\ 0\\.0019475544281819237\ \(0\)\
+Texto: 
+non-focal neurologic examination.
+ct: a hyperdense mass infiltrating and widening the splenium of the corpus callosum. a poorly defined subtle hypodense lesion at the level of the right basal ganglia that causes leftward midline shift and mass effect on the right lateral ventricle.
+
+mri: a poorly defined t2 hyperintense lesion infiltrating and widening the splenium of the corpus callosum with an additional focus at the level of the right basal ganglia that causes leftward midline shift. vasogenic edema in the right posterior cerebral hemisphere. the mass has mild, irregular enhancement.
+glioblastoma multiforme with gliomatosis cerebri
+â€¢ glioblasatoma multiforme 
+â€¢ gliomatosis cerebri
+â€¢ multiple sclerosis
+â€¢ lymphoma
+â€¢ metastatic disease
+56 y.o. woman with vague neurological symptoms such as headache and lethargy that were increasing over a few weeks.
+
+
+Keywords by value: 
+- gliomatosis: 0.09884328453109618
+- leftward: 0.09371127094924392
+- splenium: 0.08886994380361496
+- cerebri: 0.0811145984693317
+- multiforme: 0.07144418449289842
+- infiltrating: 0.06677886552619944
+- glioblasatoma: 0.06342099585587409
+- callosum: 0.06308923201616093
+- ganglia: 0.062918952050017
+- widening: 0.061937538380570485
+- corpus: 0.06058055018673966
+- poorly: 0.060016223378778794
+- shift: 0.058321503441276866
+- â€¢: 0.05636742271927654
+- basal: 0.056050899253789546
+- defined: 0.05180694483967644
+- causes: 0.04786447047208362
+- midline: 0.0475702170840075
+- non-focal: 0.044968122780611235
+- lethargy: 0.03871605193871477
+- level: 0.03543725219635874
+- glioblastoma: 0.03384636373951933
+- vasogenic: 0.03327959483410124
+- vague: 0.033064825315038786
+- hypodense: 0.032754234150540885
+- 56: 0.03235993029086467
+- that: 0.03185569917752856
+- hemisphere: 0.03129216046986989
+- hyperdense: 0.030735421882708596
+- subtle: 0.02823862802694061
+- few: 0.027666943340938832
+- focus: 0.027617155982344776
+- neurological: 0.026600896485969378
+- right: 0.02594623623339329
+- neurologic: 0.02567262123601448
+- mass: 0.02565023756001938
+- hyperintense: 0.025522735718727842
+- increasing: 0.025196492409530296
+- lesion: 0.02504396008633748
+- additional: 0.02465069564136689
+- irregular: 0.024520479514434385
+- ventricle: 0.023038779263154157
+- sclerosis: 0.022081404557024065
+- effect: 0.021766606137188813
+- cerebral: 0.021298176271683966
+- headache: 0.02111500314795538
+- such: 0.01921822150964642
+- examination: 0.019110957089745074
+- y.o: 0.017743736925084175
+- lymphoma: 0.0175697743481258
+- weeks: 0.017448041416555024
+- t2: 0.01739991919964282
+- edema: 0.017387938772886986
+- at: 0.01665846263067098
+- enhancement: 0.016478336446928317
+- :: 0.016262946992671442
+- mild: 0.016188873769288757
+- over: 0.015652104965035704
+- metastatic: 0.015475607220259643
+- symptoms: 0.015321276812216829
+- woman: 0.014200740629416593
+- posterior: 0.014170061501456466
+- mri: 0.01412428672600446
+- were: 0.013958894508560585
+- lateral: 0.013285381623198204
+- multiple: 0.01294824462934726
+- has: 0.011544604104275382
+- a: 0.011412943937225936
+- the: 0.010940590875826502
+- disease: 0.01004847151953744
+- as: 0.009299118747439768
+- ct: 0.00859930685893556
+- an: 0.008501186073990863
+- on: 0.0052078490098232235
+- and: 0.005180115272869596
+- of: 0.003352627361093192
+- in: 0.003031634749210467
+- with: 0.002525269987551577
+- .: 0.0020431387681925915
+- ,: 0.0019475544281819237

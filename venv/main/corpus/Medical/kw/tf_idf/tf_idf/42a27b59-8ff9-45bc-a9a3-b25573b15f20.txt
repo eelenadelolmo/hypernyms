@@ -1,37 +1,39 @@
-\-\ Texto\\:\\ \ \(0\)\
-\-\ f\\/u\ \(18\)\
-\-\ glucocorticoids\ \(15\)\
-\-\ cyclophosamide\ \(0\)\
-\-\ posterior\\ mediastinum\\ mass\ \(1\)\
-\-\ wegener\\'s\\ granulomatosis\ \(1\)\
-\-\ scwhannoma\ \(3\)\
-\-\ neurofibroma\ \(78\)\
-\-\ ganglioneuroma\ \(11\)\
-\-\ neuroblastoma\ \(81\)\
-\-\ paraganglioma\ \(36\)\
-\-\ extramedullary\\ hematopoiesis\ \(4\)\
-\-\ neoplasma\ \(1\)\
-\-\ hematoma\\-\ \(1\)\
-\-\ h\\/o\\ of\\ known\\ wegener\\'s\\ granulomatosis\ \(0\)\
-\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
-\-\ wegener\\:\\ 0\\.4540185494983353\ \(0\)\
-\-\ granulomatosis\\:\\ 0\\.4458152100972309\ \(0\)\
-\-\ \\-glucocorticoids\\:\\ 0\\.3673132676652707\ \(0\)\
-\-\ \\-cyclophosamide\\:\\ 0\\.3673132676652707\ \(0\)\
-\-\ \\-scwhannoma\\:\\ 0\\.3673132676652707\ \(0\)\
-\-\ \\-paraganglioma\\:\\ 0\\.3673132676652707\ \(0\)\
-\-\ \\-neoplasma\\:\\ 0\\.3673132676652707\ \(0\)\
-\-\ \\-hematoma\\-\\:\\ 0\\.3673132676652707\ \(0\)\
-\-\ \\-ganglioneuroma\\:\\ 0\\.3384321351419397\ \(0\)\
-\-\ \\-neuroblastoma\\:\\ 0\\.3384321351419397\ \(0\)\
-\-\ \\-neurofibroma\\:\\ 0\\.3215377556374328\ \(0\)\
-\-\ \\-extramedullary\\:\\ 0\\.3215377556374328\ \(0\)\
-\-\ hematopoiesis\\:\\ 0\\.2926566231141018\ \(0\)\
-\-\ f\\/u\\:\\ 0\\.22162545260416738\ \(0\)\
-\-\ h\\/o\\:\\ 0\\.1857837332198711\ \(0\)\
-\-\ mediastinum\\:\\ 0\\.17145991909058672\ \(0\)\
-\-\ \\'s\\:\\ 0\\.15700388486392042\ \(0\)\
-\-\ known\\:\\ 0\\.11266879518599249\ \(0\)\
-\-\ posterior\\:\\ 0\\.08206827286260202\ \(0\)\
-\-\ mass\\:\\ 0\\.04951920862281518\ \(0\)\
-\-\ of\\:\\ 0\\.004854325033249517\ \(0\)\
+Texto: 
+f/u
+-glucocorticoids
+-cyclophosamide
+posterior mediastinum mass
+wegener's granulomatosis
+-scwhannoma
+-neurofibroma
+-ganglioneuroma
+-neuroblastoma
+-paraganglioma
+-extramedullary hematopoiesis
+-neoplasma
+-hematoma-
+h/o of known wegener's granulomatosis
+
+
+Keywords by value: 
+- wegener: 0.4540185494983353
+- granulomatosis: 0.4458152100972309
+- -glucocorticoids: 0.3673132676652707
+- -cyclophosamide: 0.3673132676652707
+- -scwhannoma: 0.3673132676652707
+- -paraganglioma: 0.3673132676652707
+- -neoplasma: 0.3673132676652707
+- -hematoma-: 0.3673132676652707
+- -ganglioneuroma: 0.3384321351419397
+- -neuroblastoma: 0.3384321351419397
+- -neurofibroma: 0.3215377556374328
+- -extramedullary: 0.3215377556374328
+- hematopoiesis: 0.2926566231141018
+- f/u: 0.22162545260416738
+- h/o: 0.1857837332198711
+- mediastinum: 0.17145991909058672
+- 's: 0.15700388486392042
+- known: 0.11266879518599249
+- posterior: 0.08206827286260202
+- mass: 0.04951920862281518
+- of: 0.004854325033249517

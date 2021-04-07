@@ -1,162 +1,171 @@
-\-\ Texto\\:\\ \ \(0\)\
-\-\ scout\\:\\ proximal\\ partial\\ bowel\\ obstruction\\ \\(dilated\\ loops\\ of\\ small\\ bowel\\ with\\ ct\\ oral\\ contrast\\ in\\ colon\\)\ \(0\)\
-\-\ \\	\\-ngt\ \(0\)\
-\-\ ct\\:\\ \\	thickened\\ segment\\ of\\ distal\\ small\\ bowel\\ with\\ luminal\\ narrowing\ \(0\)\
-\-\ \\	\\	\\-focal\\ fatty\\ proliferation\\ \\‚\\Ä\\úcreeping\\ fat\\‚\\Ä\\ù\ \(0\)\
-\-\ crohn\\‚\\Ä\\ôs\\ disease\\ complicated\\ by\\ partial\\ small\\ bowel\\ obstruction\ \(0\)\
-\-\ small\\ bowel\\ obstruction\\ \\ in\\ a\\ young\\ adult\\:\\ adhesions\\,\\ appendicitis\\,\\ intussusception\\,\\ incarcerated\\ inguinal\\ hernia\\,\\ and\\ malrotation\\.\ \(0\)\
-\-\ thickened\\ segment\\ of\\ small\\ bowel\\:\\ inflammatory\\ bowel\\ disease\\ \\(ibd\\)\\,\\ infection\\,\\ malignancy\\ \\(lymphoma\\)\\,\\ and\\ ischemia\ \(0\)\
-\-\ teenage\\ \\(14\\)\\ boy\\ with\\ abdominal\\ pain\\ and\\ diarrhea\\.\ \(0\)\
-\-\ crohn\\‚\\Ä\\ôs\\ disease\\ is\\ a\\ transmural\\ granulomatous\\ inflammatory\\ disease\\ that\\ can\\ affect\\ any\\ part\\ of\\ the\\ gi\\ tract\\.\\ \\ the\\ peak\\ incidence\\ is\\ between\\ 20\\ and\\ 40\\ years\\ of\\ age\\ but\\ many\\ cases\\ present\\ in\\ childhood\\ \\(especially\\ the\\ early\\ teenage\\ years\\)\\.\\ \\ \ \(0\)\
-\-\ \\	\ \(2191\)\
-\-\ common\\ presenting\\ symptoms\\ are\\ abdominal\\ pain\\ and\\ diarrhea\\ but\\ gi\\ symptoms\\ may\\ be\\ mild\\ or\\ absent\\.\\ \\ weight\\ loss\\,\\ growth\\ failure\\,\\ delayed\\ puberty\\,\\ or\\ fever\\ of\\ unknown\\ origin\\ may\\ be\\ presenting\\ complaint\\.\\ \\ \ \(0\)\
-\-\ the\\ terminal\\ ileum\\ is\\ involved\\ in\\ the\\ majority\\ of\\ cases\\.\\ \\ most\\ children\\ will\\ have\\ involvement\\ of\\ the\\ distal\\ ileum\\ and\\ the\\ right\\ colon\\.\\ \\ children\\ also\\ can\\ have\\ isolated\\ involvement\\ of\\ the\\ small\\ bowel\\ with\\ a\\ normal\\ terminal\\ ileum\\ or\\ isolated\\ colonic\\ disease\\.\ \(0\)\
-\-\ ct\\ is\\ useful\\ to\\ demonstrate\\ complications\\ such\\ as\\ sinuses\\,\\ fistulas\\,\\ abscesses\\,\\ and\\ phlegmons\\.\\ \\ it\\ is\\ also\\ able\\ to\\ demonstrate\\ focal\\ fat\\ proliferation\\ \\‚\\Ä\\úcreeping\\ fat\\‚\\Ä\\ù\\.\\ \\ ct\\ is\\ also\\ effective\\ at\\ showing\\ thickened\\ bowel\\ wall\\,\\ luminal\\ narrowing\\,\\ proximal\\ dilation\\,\\ and\\ identification\\ of\\ the\\ level\\ of\\ bowel\\ obstruction\\.\ \(0\)\
-\-\ this\\ patient\\ responded\\ well\\ to\\ conservative\\ management\\.\ \(0\)\
-\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
-\-\ bowel\\:\\ 0\\.09177923057824518\ \(0\)\
-\-\ creeping\\:\\ 0\\.055632679749359946\ \(0\)\
-\-\ teenage\\:\\ 0\\.05088509632086717\ \(0\)\
-\-\ ileum\\:\\ 0\\.04921404177977413\ \(0\)\
-\-\ obstruction\\:\\ 0\\.041279452720403224\ \(0\)\
-\-\ small\\:\\ 0\\.04045017707632435\ \(0\)\
-\-\ thickened\\:\\ 0\\.03936895687251536\ \(0\)\
-\-\ luminal\\:\\ 0\\.038904275397516085\ \(0\)\
-\-\ proliferation\\:\\ 0\\.03528737519066337\ \(0\)\
-\-\ terminal\\:\\ 0\\.03358558505848186\ \(0\)\
-\-\ crohn\\:\\ 0\\.031280980698062594\ \(0\)\
-\-\ isolated\\:\\ 0\\.03045253816095532\ \(0\)\
-\-\ diarrhea\\:\\ 0\\.030366382118442576\ \(0\)\
-\-\ \\-ngt\\:\\ 0\\.03019013158892636\ \(0\)\
-\-\ phlegmons\\:\\ 0\\.027816339874679973\ \(0\)\
-\-\ fat\\:\\ 0\\.02670115400220856\ \(0\)\
-\-\ transmural\\:\\ 0\\.026427760737323246\ \(0\)\
-\-\ gi\\:\\ 0\\.026293045764013173\ \(0\)\
-\-\ segment\\:\\ 0\\.025533712936535027\ \(0\)\
-\-\ \\-focal\\:\\ 0\\.025442548160433585\ \(0\)\
-\-\ children\\:\\ 0\\.025284619483309855\ \(0\)\
-\-\ disease\\:\\ 0\\.023916738719446988\ \(0\)\
-\-\ presenting\\:\\ 0\\.023854791991103623\ \(0\)\
-\-\ narrowing\\:\\ 0\\.023468812973630116\ \(0\)\
-\-\ partial\\:\\ 0\\.023406546044169488\ \(0\)\
-\-\ colon\\:\\ 0\\.022985841848098213\ \(0\)\
-\-\ incarcerated\\:\\ 0\\.02266538988572013\ \(0\)\
-\-\ \\‚\\Ä\\ú\\:\\ 0\\.021859595327254518\ \(0\)\
-\-\ \\‚\\Ä\\ù\\:\\ 0\\.02173706406183825\ \(0\)\
-\-\ involvement\\:\\ 0\\.021451634634437097\ \(0\)\
-\-\ responded\\:\\ 0\\.021406058446934797\ \(0\)\
-\-\ puberty\\:\\ 0\\.020915987064603726\ \(0\)\
-\-\ ibd\\:\\ 0\\.02069496473194081\ \(0\)\
-\-\ inflammatory\\:\\ 0\\.020296684549260435\ \(0\)\
-\-\ fistulas\\:\\ 0\\.020106436454794718\ \(0\)\
-\-\ cases\\:\\ 0\\.019498704547815975\ \(0\)\
-\-\ scout\\:\\ 0\\.018542195350357334\ \(0\)\
-\-\ identification\\:\\ 0\\.018429901436579972\ \(0\)\
-\-\ adhesions\\:\\ 0\\.018014282063277685\ \(0\)\
-\-\ proximal\\:\\ 0\\.01757221357333572\ \(0\)\
-\-\ intussusception\\:\\ 0\\.017556982773467674\ \(0\)\
-\-\ \\‚\\Ä\\ô\\:\\ 0\\.017493333833188053\ \(0\)\
-\-\ also\\:\\ 0\\.017307735551405662\ \(0\)\
-\-\ years\\:\\ 0\\.017186596828893716\ \(0\)\
-\-\ affect\\:\\ 0\\.016861979883068052\ \(0\)\
-\-\ s\\:\\ 0\\.016786079911743745\ \(0\)\
-\-\ peak\\:\\ 0\\.01665847501844202\ \(0\)\
-\-\ effective\\:\\ 0\\.01665847501844202\ \(0\)\
-\-\ abscesses\\:\\ 0\\.016529227319870627\ \(0\)\
-\-\ inguinal\\:\\ 0\\.016466387803883653\ \(0\)\
-\-\ childhood\\:\\ 0\\.016466387803883653\ \(0\)\
-\-\ malrotation\\:\\ 0\\.01640468059325804\ \(0\)\
-\-\ ct\\:\\ 0\\.016374022649206066\ \(0\)\
-\-\ colonic\\:\\ 0\\.015947381303448034\ \(0\)\
-\-\ distal\\:\\ 0\\.015912867047575524\ \(0\)\
-\-\ \\:\\:\\ 0\\.01548321665740637\ \(0\)\
-\-\ useful\\:\\ 0\\.015269895881085295\ \(0\)\
-\-\ fatty\\:\\ 0\\.015183191059221288\ \(0\)\
-\-\ complicated\\:\\ 0\\.015183191059221288\ \(0\)\
-\-\ sinuses\\:\\ 0\\.015057115808801027\ \(0\)\
-\-\ \\,\\:\\ 0\\.014833428247522595\ \(0\)\
-\-\ adult\\:\\ 0\\.014667530584976855\ \(0\)\
-\-\ abdominal\\:\\ 0\\.014629583822754214\ \(0\)\
-\-\ symptoms\\:\\ 0\\.014586695047247527\ \(0\)\
-\-\ majority\\:\\ 0\\.014384924339469994\ \(0\)\
-\-\ loops\\:\\ 0\\.014351183598226803\ \(0\)\
-\-\ part\\:\\ 0\\.014187293114741751\ \(0\)\
-\-\ granulomatous\\:\\ 0\\.014123871718278612\ \(0\)\
-\-\ able\\:\\ 0\\.013794611921864562\ \(0\)\
-\-\ dilation\\:\\ 0\\.013794611921864562\ \(0\)\
-\-\ ischemia\\:\\ 0\\.013600449785985982\ \(0\)\
-\-\ complaint\\:\\ 0\\.013520493059968889\ \(0\)\
-\-\ demonstrate\\:\\ 0\\.013468850283103018\ \(0\)\
-\-\ showing\\:\\ 0\\.013468207196507284\ \(0\)\
-\-\ incidence\\:\\ 0\\.013416707616491734\ \(0\)\
-\-\ origin\\:\\ 0\\.013416707616491734\ \(0\)\
-\-\ appendicitis\\:\\ 0\\.013315975132908539\ \(0\)\
-\-\ can\\:\\ 0\\.01327549556485664\ \(0\)\
-\-\ tract\\:\\ 0\\.012962604460870077\ \(0\)\
-\-\ 14\\:\\ 0\\.012896104166838908\ \(0\)\
-\-\ may\\:\\ 0\\.012837865540398107\ \(0\)\
-\-\ hernia\\:\\ 0\\.0128093993449749\ \(0\)\
-\-\ young\\:\\ 0\\.012745781586163478\ \(0\)\
-\-\ growth\\:\\ 0\\.012724835603227052\ \(0\)\
-\-\ absent\\:\\ 0\\.01268332409455464\ \(0\)\
-\-\ have\\:\\ 0\\.012674233413459532\ \(0\)\
-\-\ but\\:\\ 0\\.012482899322147517\ \(0\)\
-\-\ \\(\\:\\ 0\\.012369207641161995\ \(0\)\
-\-\ oral\\:\\ 0\\.012330762556018877\ \(0\)\
-\-\ 40\\:\\ 0\\.012312200681123882\ \(0\)\
-\-\ involved\\:\\ 0\\.01227537605175312\ \(0\)\
-\-\ \\)\\:\\ 0\\.012218111166323717\ \(0\)\
-\-\ especially\\:\\ 0\\.012045209100748156\ \(0\)\
-\-\ many\\:\\ 0\\.012028128479135008\ \(0\)\
-\-\ delayed\\:\\ 0\\.011910891589949246\ \(0\)\
-\-\ conservative\\:\\ 0\\.011687811787993899\ \(0\)\
-\-\ complications\\:\\ 0\\.011596482174698825\ \(0\)\
-\-\ is\\:\\ 0\\.011553920103795731\ \(0\)\
-\-\ failure\\:\\ 0\\.011463898228874543\ \(0\)\
-\-\ unknown\\:\\ 0\\.011420820207618173\ \(0\)\
-\-\ malignancy\\:\\ 0\\.011308526293840807\ \(0\)\
-\-\ management\\:\\ 0\\.011042915902245347\ \(0\)\
-\-\ early\\:\\ 0\\.010702599211104238\ \(0\)\
-\-\ dilated\\:\\ 0\\.010633874680108317\ \(0\)\
-\-\ 20\\:\\ 0\\.01052231245259252\ \(0\)\
-\-\ weight\\:\\ 0\\.010489540360071456\ \(0\)\
-\-\ or\\:\\ 0\\.010289617283873707\ \(0\)\
-\-\ boy\\:\\ 0\\.0099476773285136\ \(0\)\
-\-\ fever\\:\\ 0\\.009901584337506732\ \(0\)\
-\-\ between\\:\\ 0\\.009275669644603574\ \(0\)\
-\-\ any\\:\\ 0\\.009215188469425662\ \(0\)\
-\-\ will\\:\\ 0\\.009155756912257335\ \(0\)\
-\-\ such\\:\\ 0\\.009148399965208397\ \(0\)\
-\-\ be\\:\\ 0\\.009025730981807733\ \(0\)\
-\-\ age\\:\\ 0\\.008907227142275022\ \(0\)\
-\-\ infection\\:\\ 0\\.008506906075591805\ \(0\)\
-\-\ loss\\:\\ 0\\.008494740316672737\ \(0\)\
-\-\ wall\\:\\ 0\\.008476572329584747\ \(0\)\
-\-\ level\\:\\ 0\\.008434551464544287\ \(0\)\
-\-\ lymphoma\\:\\ 0\\.00836369395338865\ \(0\)\
-\-\ focal\\:\\ 0\\.008357854808693157\ \(0\)\
-\-\ mild\\:\\ 0\\.007706347444969647\ \(0\)\
-\-\ common\\:\\ 0\\.007658449356015058\ \(0\)\
-\-\ pain\\:\\ 0\\.007148001147470785\ \(0\)\
-\-\ most\\:\\ 0\\.006756284731945466\ \(0\)\
-\-\ well\\:\\ 0\\.0066201402498926405\ \(0\)\
-\-\ present\\:\\ 0\\.006609619020313975\ \(0\)\
-\-\ it\\:\\ 0\\.006578247892236358\ \(0\)\
-\-\ contrast\\:\\ 0\\.006550601667150361\ \(0\)\
-\-\ in\\:\\ 0\\.005772564796441848\ \(0\)\
-\-\ that\\:\\ 0\\.005054728522461724\ \(0\)\
-\-\ and\\:\\ 0\\.004931753581704615\ \(0\)\
-\-\ by\\:\\ 0\\.00487284555905779\ \(0\)\
-\-\ normal\\:\\ 0\\.00458771388561336\ \(0\)\
-\-\ as\\:\\ 0\\.004426635294157971\ \(0\)\
-\-\ of\\:\\ 0\\.0043888418108831255\ \(0\)\
-\-\ to\\:\\ 0\\.004387686045647119\ \(0\)\
-\-\ the\\:\\ 0\\.0042611080901802465\ \(0\)\
-\-\ a\\:\\ 0\\.004074655498136314\ \(0\)\
-\-\ are\\:\\ 0\\.003989294084005485\ \(0\)\
-\-\ at\\:\\ 0\\.003964942304217921\ \(0\)\
-\-\ this\\:\\ 0\\.003291565799021003\ \(0\)\
-\-\ right\\:\\ 0\\.003087779825720605\ \(0\)\
-\-\ patient\\:\\ 0\\.00293353400998763\ \(0\)\
-\-\ with\\:\\ 0\\.0016027969327382155\ \(0\)\
-\-\ \\.\\:\\ 0\\.0015804587988544573\ \(0\)\
+Texto: 
+scout: proximal partial bowel obstruction (dilated loops of small bowel with ct oral contrast in colon)
+	-ngt
+
+ct: 	thickened segment of distal small bowel with luminal narrowing
+		-focal fatty proliferation ‚Äúcreeping fat‚Äù
+crohn‚Äôs disease complicated by partial small bowel obstruction
+small bowel obstruction  in a young adult: adhesions, appendicitis, intussusception, incarcerated inguinal hernia, and malrotation.
+
+thickened segment of small bowel: inflammatory bowel disease (ibd), infection, malignancy (lymphoma), and ischemia
+teenage (14) boy with abdominal pain and diarrhea.
+crohn‚Äôs disease is a transmural granulomatous inflammatory disease that can affect any part of the gi tract.  the peak incidence is between 20 and 40 years of age but many cases present in childhood (especially the early teenage years).  
+	
+common presenting symptoms are abdominal pain and diarrhea but gi symptoms may be mild or absent.  weight loss, growth failure, delayed puberty, or fever of unknown origin may be presenting complaint.  
+
+the terminal ileum is involved in the majority of cases.  most children will have involvement of the distal ileum and the right colon.  children also can have isolated involvement of the small bowel with a normal terminal ileum or isolated colonic disease.
+
+
+ct is useful to demonstrate complications such as sinuses, fistulas, abscesses, and phlegmons.  it is also able to demonstrate focal fat proliferation ‚Äúcreeping fat‚Äù.  ct is also effective at showing thickened bowel wall, luminal narrowing, proximal dilation, and identification of the level of bowel obstruction.
+
+
+this patient responded well to conservative management.
+
+
+Keywords by value: 
+- bowel: 0.09177923057824518
+- creeping: 0.055632679749359946
+- teenage: 0.05088509632086717
+- ileum: 0.04921404177977413
+- obstruction: 0.041279452720403224
+- small: 0.04045017707632435
+- thickened: 0.03936895687251536
+- luminal: 0.038904275397516085
+- proliferation: 0.03528737519066337
+- terminal: 0.03358558505848186
+- crohn: 0.031280980698062594
+- isolated: 0.03045253816095532
+- diarrhea: 0.030366382118442576
+- -ngt: 0.03019013158892636
+- phlegmons: 0.027816339874679973
+- fat: 0.02670115400220856
+- transmural: 0.026427760737323246
+- gi: 0.026293045764013173
+- segment: 0.025533712936535027
+- -focal: 0.025442548160433585
+- children: 0.025284619483309855
+- disease: 0.023916738719446988
+- presenting: 0.023854791991103623
+- narrowing: 0.023468812973630116
+- partial: 0.023406546044169488
+- colon: 0.022985841848098213
+- incarcerated: 0.02266538988572013
+- ‚Äú: 0.021859595327254518
+- ‚Äù: 0.02173706406183825
+- involvement: 0.021451634634437097
+- responded: 0.021406058446934797
+- puberty: 0.020915987064603726
+- ibd: 0.02069496473194081
+- inflammatory: 0.020296684549260435
+- fistulas: 0.020106436454794718
+- cases: 0.019498704547815975
+- scout: 0.018542195350357334
+- identification: 0.018429901436579972
+- adhesions: 0.018014282063277685
+- proximal: 0.01757221357333572
+- intussusception: 0.017556982773467674
+- ‚Äô: 0.017493333833188053
+- also: 0.017307735551405662
+- years: 0.017186596828893716
+- affect: 0.016861979883068052
+- s: 0.016786079911743745
+- peak: 0.01665847501844202
+- effective: 0.01665847501844202
+- abscesses: 0.016529227319870627
+- inguinal: 0.016466387803883653
+- childhood: 0.016466387803883653
+- malrotation: 0.01640468059325804
+- ct: 0.016374022649206066
+- colonic: 0.015947381303448034
+- distal: 0.015912867047575524
+- :: 0.01548321665740637
+- useful: 0.015269895881085295
+- fatty: 0.015183191059221288
+- complicated: 0.015183191059221288
+- sinuses: 0.015057115808801027
+- ,: 0.014833428247522595
+- adult: 0.014667530584976855
+- abdominal: 0.014629583822754214
+- symptoms: 0.014586695047247527
+- majority: 0.014384924339469994
+- loops: 0.014351183598226803
+- part: 0.014187293114741751
+- granulomatous: 0.014123871718278612
+- able: 0.013794611921864562
+- dilation: 0.013794611921864562
+- ischemia: 0.013600449785985982
+- complaint: 0.013520493059968889
+- demonstrate: 0.013468850283103018
+- showing: 0.013468207196507284
+- incidence: 0.013416707616491734
+- origin: 0.013416707616491734
+- appendicitis: 0.013315975132908539
+- can: 0.01327549556485664
+- tract: 0.012962604460870077
+- 14: 0.012896104166838908
+- may: 0.012837865540398107
+- hernia: 0.0128093993449749
+- young: 0.012745781586163478
+- growth: 0.012724835603227052
+- absent: 0.01268332409455464
+- have: 0.012674233413459532
+- but: 0.012482899322147517
+- (: 0.012369207641161995
+- oral: 0.012330762556018877
+- 40: 0.012312200681123882
+- involved: 0.01227537605175312
+- ): 0.012218111166323717
+- especially: 0.012045209100748156
+- many: 0.012028128479135008
+- delayed: 0.011910891589949246
+- conservative: 0.011687811787993899
+- complications: 0.011596482174698825
+- is: 0.011553920103795731
+- failure: 0.011463898228874543
+- unknown: 0.011420820207618173
+- malignancy: 0.011308526293840807
+- management: 0.011042915902245347
+- early: 0.010702599211104238
+- dilated: 0.010633874680108317
+- 20: 0.01052231245259252
+- weight: 0.010489540360071456
+- or: 0.010289617283873707
+- boy: 0.0099476773285136
+- fever: 0.009901584337506732
+- between: 0.009275669644603574
+- any: 0.009215188469425662
+- will: 0.009155756912257335
+- such: 0.009148399965208397
+- be: 0.009025730981807733
+- age: 0.008907227142275022
+- infection: 0.008506906075591805
+- loss: 0.008494740316672737
+- wall: 0.008476572329584747
+- level: 0.008434551464544287
+- lymphoma: 0.00836369395338865
+- focal: 0.008357854808693157
+- mild: 0.007706347444969647
+- common: 0.007658449356015058
+- pain: 0.007148001147470785
+- most: 0.006756284731945466
+- well: 0.0066201402498926405
+- present: 0.006609619020313975
+- it: 0.006578247892236358
+- contrast: 0.006550601667150361
+- in: 0.005772564796441848
+- that: 0.005054728522461724
+- and: 0.004931753581704615
+- by: 0.00487284555905779
+- normal: 0.00458771388561336
+- as: 0.004426635294157971
+- of: 0.0043888418108831255
+- to: 0.004387686045647119
+- the: 0.0042611080901802465
+- a: 0.004074655498136314
+- are: 0.003989294084005485
+- at: 0.003964942304217921
+- this: 0.003291565799021003
+- right: 0.003087779825720605
+- patient: 0.00293353400998763
+- with: 0.0016027969327382155
+- .: 0.0015804587988544573

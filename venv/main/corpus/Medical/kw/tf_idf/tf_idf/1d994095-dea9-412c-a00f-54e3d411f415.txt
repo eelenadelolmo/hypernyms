@@ -1,104 +1,106 @@
-\-\ Texto\\:\\ \ \(0\)\
-\-\ tachypnea\\,\\ tachycardia\\,\\ low\\-grade\\ fever\\.\\ \\ auscultation\\ of\\ lungs\\ unremarkable\\.\\ \\ patient\\ has\\ right\\ subclavian\\ central\\ line\\ in\\ place\\ \\(not\\ seen\\)\\.\ \(0\)\
-\-\ patient\\ anticoagulated\\ uneventfully\\.\ \(0\)\
-\-\ multiple\\ filling\\ defects\\ in\\ right\\ lower\\ lobe\\ segmental\\ and\\ subsegmental\\ pulmonary\\ arteries\\.\\ \\ multiple\\ filling\\ defects\\ also\\ seen\\ in\\ left\\ lower\\ segmental\\ and\\ subsegmental\\ pulmonary\\ arteries\\.\\ \\ deep\\ venous\\ thrombosis\\ of\\ the\\ left\\ lower\\ extremity\\ within\\ the\\ superficial\\ femoral\\ vein\\.\ \(0\)\
-\-\ pulmonary\\ embolism\\ \\-\\ confirmed\\ by\\ illustrated\\ study\\.\ \(0\)\
-\-\ pulmonary\\ embolism\\ with\\ dvt\\.\\ \\ the\\ constellation\\ of\\ findings\\ on\\ ct\\ examination\\ is\\ diagnostic\\.\ \(0\)\
-\-\ 37\\ year\\ old\\ male\\ with\\ history\\ of\\ hiv\\ with\\ acute\\ onset\\ of\\ pleuritic\\ left\\-sided\\ discomfort\\.\\ \\ patient\\ has\\ a\\ low\\-grade\\ fever\\.\ \(0\)\
-\-\ this\\ patient\\ had\\ a\\ central\\ venous\\ catheter\\ in\\ place\\ at\\ the\\ time\\ of\\ diagnosis\\.\\ \\ this\\ is\\ listed\\ as\\ a\\ risk\\ factor\\ for\\ pe\\.\\ \\ this\\ does\\ not\\ explain\\ the\\ dvt\\ seen\\ in\\ the\\ patient\\'s\\ leg\\,\\ as\\ the\\ patient\\ did\\ not\\ have\\ a\\ history\\ of\\ lower\\ extremity\\ surgery\\,\\ recent\\ immobilization\\,\\ or\\ a\\ coagulopathy\\.\ \(0\)\
-\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
-\-\ subsegmental\\:\\ 0\\.07529402694765841\ \(0\)\
-\-\ dvt\\:\\ 0\\.0622142337512295\ \(0\)\
-\-\ low\\-grade\\:\\ 0\\.060485543185091195\ \(0\)\
-\-\ pulmonary\\:\\ 0\\.057723706594683545\ \(0\)\
-\-\ segmental\\:\\ 0\\.05184722640092679\ \(0\)\
-\-\ embolism\\:\\ 0\\.048332825846668925\ \(0\)\
-\-\ place\\:\\ 0\\.04800091710814371\ \(0\)\
-\-\ defects\\:\\ 0\\.04537767971959242\ \(0\)\
-\-\ lower\\:\\ 0\\.04443611721072514\ \(0\)\
-\-\ arteries\\:\\ 0\\.04089484121082059\ \(0\)\
-\-\ uneventfully\\:\\ 0\\.04059976274415285\ \(0\)\
-\-\ illustrated\\:\\ 0\\.04059976274415285\ \(0\)\
-\-\ filling\\:\\ 0\\.03977156088187668\ \(0\)\
-\-\ coagulopathy\\:\\ 0\\.036130457031820586\ \(0\)\
-\-\ extremity\\:\\ 0\\.03612900542939234\ \(0\)\
-\-\ venous\\:\\ 0\\.03585879327696103\ \(0\)\
-\-\ anticoagulated\\:\\ 0\\.0349302294897498\ \(0\)\
-\-\ explain\\:\\ 0\\.0349302294897498\ \(0\)\
-\-\ pleuritic\\:\\ 0\\.03457979814977041\ \(0\)\
-\-\ fever\\:\\ 0\\.03342500146302851\ \(0\)\
-\-\ central\\:\\ 0\\.032504408749826116\ \(0\)\
-\-\ listed\\:\\ 0\\.03235053525490345\ \(0\)\
-\-\ constellation\\:\\ 0\\.03190567374544606\ \(0\)\
-\-\ patient\\:\\ 0\\.029708390667620387\ \(0\)\
-\-\ tachypnea\\:\\ 0\\.029351727200480515\ \(0\)\
-\-\ seen\\:\\ 0\\.029282559798861678\ \(0\)\
-\-\ tachycardia\\:\\ 0\\.028117194828815435\ \(0\)\
-\-\ hiv\\:\\ 0\\.027387173295149007\ \(0\)\
-\-\ immobilization\\:\\ 0\\.026566535946765266\ \(0\)\
-\-\ superficial\\:\\ 0\\.026398977930156872\ \(0\)\
-\-\ subclavian\\:\\ 0\\.025209081663080866\ \(0\)\
-\-\ factor\\:\\ 0\\.025209081663080866\ \(0\)\
-\-\ auscultation\\:\\ 0\\.025142256100068868\ \(0\)\
-\-\ 37\\:\\ 0\\.024819247670043107\ \(0\)\
-\-\ discomfort\\:\\ 0\\.024756756825510068\ \(0\)\
-\-\ left\\-sided\\:\\ 0\\.0243372730518983\ \(0\)\
-\-\ catheter\\:\\ 0\\.023734035969099215\ \(0\)\
-\-\ pe\\:\\ 0\\.02218950682974522\ \(0\)\
-\-\ not\\:\\ 0\\.021413040550438182\ \(0\)\
-\-\ thrombosis\\:\\ 0\\.021202450561578295\ \(0\)\
-\-\ multiple\\:\\ 0\\.02080700582056958\ \(0\)\
-\-\ line\\:\\ 0\\.020301812230678742\ \(0\)\
-\-\ deep\\:\\ 0\\.01999382745256928\ \(0\)\
-\-\ diagnostic\\:\\ 0\\.01957325315035871\ \(0\)\
-\-\ leg\\:\\ 0\\.01942310583010865\ \(0\)\
-\-\ femoral\\:\\ 0\\.018791896049964188\ \(0\)\
-\-\ lungs\\:\\ 0\\.018703980335146104\ \(0\)\
-\-\ confirmed\\:\\ 0\\.018574564179692468\ \(0\)\
-\-\ has\\:\\ 0\\.018551444745598587\ \(0\)\
-\-\ risk\\:\\ 0\\.017891367903809748\ \(0\)\
-\-\ vein\\:\\ 0\\.01787244694805848\ \(0\)\
-\-\ did\\:\\ 0\\.01783478983232904\ \(0\)\
-\-\ does\\:\\ 0\\.01685330098487865\ \(0\)\
-\-\ this\\:\\ 0\\.01666711930602543\ \(0\)\
-\-\ recent\\:\\ 0\\.016605312421039287\ \(0\)\
-\-\ unremarkable\\:\\ 0\\.016352985079087053\ \(0\)\
-\-\ study\\:\\ 0\\.016252204374913058\ \(0\)\
-\-\ onset\\:\\ 0\\.015592030207659827\ \(0\)\
-\-\ examination\\:\\ 0\\.015355046447829855\ \(0\)\
-\-\ as\\:\\ 0\\.014943092553689337\ \(0\)\
-\-\ time\\:\\ 0\\.01395145218057406\ \(0\)\
-\-\ history\\:\\ 0\\.013644098701815993\ \(0\)\
-\-\ lobe\\:\\ 0\\.013290897964875918\ \(0\)\
-\-\ acute\\:\\ 0\\.01219583427229188\ \(0\)\
-\-\ in\\:\\ 0\\.01217911069769523\ \(0\)\
-\-\ surgery\\:\\ 0\\.01199421424485708\ \(0\)\
-\-\ a\\:\\ 0\\.01146242201787865\ \(0\)\
-\-\ diagnosis\\:\\ 0\\.011342308270407052\ \(0\)\
-\-\ left\\:\\ 0\\.011053240107201327\ \(0\)\
-\-\ \\'s\\:\\ 0\\.010890442880734364\ \(0\)\
-\-\ have\\:\\ 0\\.010696173863382032\ \(0\)\
-\-\ had\\:\\ 0\\.010658091440697735\ \(0\)\
-\-\ \\-\\:\\ 0\\.010588025772880713\ \(0\)\
-\-\ findings\\:\\ 0\\.010513508299363927\ \(0\)\
-\-\ right\\:\\ 0\\.010423487966594413\ \(0\)\
-\-\ also\\:\\ 0\\.009737685512544227\ \(0\)\
-\-\ within\\:\\ 0\\.00942272490396579\ \(0\)\
-\-\ male\\:\\ 0\\.0089318239184247\ \(0\)\
-\-\ by\\:\\ 0\\.008224687301993496\ \(0\)\
-\-\ \\,\\:\\ 0\\.007823990332869577\ \(0\)\
-\-\ ct\\:\\ 0\\.006909269672786375\ \(0\)\
-\-\ at\\:\\ 0\\.006692272559720422\ \(0\)\
-\-\ is\\:\\ 0\\.006500471426413012\ \(0\)\
-\-\ or\\:\\ 0\\.005789148837940505\ \(0\)\
-\-\ the\\:\\ 0\\.005593901693210292\ \(0\)\
-\-\ year\\:\\ 0\\.005526620053600663\ \(0\)\
-\-\ old\\:\\ 0\\.005057425415388755\ \(0\)\
-\-\ of\\:\\ 0\\.004714026621883925\ \(0\)\
-\-\ for\\:\\ 0\\.0042144979690330354\ \(0\)\
-\-\ on\\:\\ 0\\.004184341111938891\ \(0\)\
-\-\ \\(\\:\\ 0\\.004175501307767979\ \(0\)\
-\-\ \\)\\:\\ 0\\.004124495330134711\ \(0\)\
-\-\ \\.\\:\\ 0\\.0030779944593074806\ \(0\)\
-\-\ and\\:\\ 0\\.0020810289680025253\ \(0\)\
-\-\ with\\:\\ 0\\.002028974151847799\ \(0\)\
+Texto: 
+tachypnea, tachycardia, low-grade fever.  auscultation of lungs unremarkable.  patient has right subclavian central line in place (not seen).
+patient anticoagulated uneventfully.
+multiple filling defects in right lower lobe segmental and subsegmental pulmonary arteries.  multiple filling defects also seen in left lower segmental and subsegmental pulmonary arteries.  deep venous thrombosis of the left lower extremity within the superficial femoral vein.
+pulmonary embolism - confirmed by illustrated study.
+pulmonary embolism with dvt.  the constellation of findings on ct examination is diagnostic.
+37 year old male with history of hiv with acute onset of pleuritic left-sided discomfort.  patient has a low-grade fever.
+this patient had a central venous catheter in place at the time of diagnosis.  this is listed as a risk factor for pe.  this does not explain the dvt seen in the patient's leg, as the patient did not have a history of lower extremity surgery, recent immobilization, or a coagulopathy.
+
+
+Keywords by value: 
+- subsegmental: 0.07529402694765841
+- dvt: 0.0622142337512295
+- low-grade: 0.060485543185091195
+- pulmonary: 0.057723706594683545
+- segmental: 0.05184722640092679
+- embolism: 0.048332825846668925
+- place: 0.04800091710814371
+- defects: 0.04537767971959242
+- lower: 0.04443611721072514
+- arteries: 0.04089484121082059
+- uneventfully: 0.04059976274415285
+- illustrated: 0.04059976274415285
+- filling: 0.03977156088187668
+- coagulopathy: 0.036130457031820586
+- extremity: 0.03612900542939234
+- venous: 0.03585879327696103
+- anticoagulated: 0.0349302294897498
+- explain: 0.0349302294897498
+- pleuritic: 0.03457979814977041
+- fever: 0.03342500146302851
+- central: 0.032504408749826116
+- listed: 0.03235053525490345
+- constellation: 0.03190567374544606
+- patient: 0.029708390667620387
+- tachypnea: 0.029351727200480515
+- seen: 0.029282559798861678
+- tachycardia: 0.028117194828815435
+- hiv: 0.027387173295149007
+- immobilization: 0.026566535946765266
+- superficial: 0.026398977930156872
+- subclavian: 0.025209081663080866
+- factor: 0.025209081663080866
+- auscultation: 0.025142256100068868
+- 37: 0.024819247670043107
+- discomfort: 0.024756756825510068
+- left-sided: 0.0243372730518983
+- catheter: 0.023734035969099215
+- pe: 0.02218950682974522
+- not: 0.021413040550438182
+- thrombosis: 0.021202450561578295
+- multiple: 0.02080700582056958
+- line: 0.020301812230678742
+- deep: 0.01999382745256928
+- diagnostic: 0.01957325315035871
+- leg: 0.01942310583010865
+- femoral: 0.018791896049964188
+- lungs: 0.018703980335146104
+- confirmed: 0.018574564179692468
+- has: 0.018551444745598587
+- risk: 0.017891367903809748
+- vein: 0.01787244694805848
+- did: 0.01783478983232904
+- does: 0.01685330098487865
+- this: 0.01666711930602543
+- recent: 0.016605312421039287
+- unremarkable: 0.016352985079087053
+- study: 0.016252204374913058
+- onset: 0.015592030207659827
+- examination: 0.015355046447829855
+- as: 0.014943092553689337
+- time: 0.01395145218057406
+- history: 0.013644098701815993
+- lobe: 0.013290897964875918
+- acute: 0.01219583427229188
+- in: 0.01217911069769523
+- surgery: 0.01199421424485708
+- a: 0.01146242201787865
+- diagnosis: 0.011342308270407052
+- left: 0.011053240107201327
+- 's: 0.010890442880734364
+- have: 0.010696173863382032
+- had: 0.010658091440697735
+- -: 0.010588025772880713
+- findings: 0.010513508299363927
+- right: 0.010423487966594413
+- also: 0.009737685512544227
+- within: 0.00942272490396579
+- male: 0.0089318239184247
+- by: 0.008224687301993496
+- ,: 0.007823990332869577
+- ct: 0.006909269672786375
+- at: 0.006692272559720422
+- is: 0.006500471426413012
+- or: 0.005789148837940505
+- the: 0.005593901693210292
+- year: 0.005526620053600663
+- old: 0.005057425415388755
+- of: 0.004714026621883925
+- for: 0.0042144979690330354
+- on: 0.004184341111938891
+- (: 0.004175501307767979
+- ): 0.004124495330134711
+- .: 0.0030779944593074806
+- and: 0.0020810289680025253
+- with: 0.002028974151847799

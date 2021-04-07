@@ -1,165 +1,171 @@
-\-\ Texto\\:\\ \ \(0\)\
-\-\ decreased\\ breath\\ sounds\\ in\\ the\\ bases\\.\\ \\ no\\ fever\\ or\\ leukocytosis\\.\ \(0\)\
-\-\ patient\\ was\\ admitted\\ for\\ anticoagulation\\.\\ \\ given\\ unexpected\\ findings\\,\\ a\\ work\\ up\\ for\\ hypercoagulability\\ must\\ be\\ performed\\.\ \(0\)\
-\-\ radiograph\\:\\ \\ right\\ basilar\\,\\ lingular\\,\\ left\\ lower\\ lobe\\ air\\ space\\ disease\\.\\ \\ peripherally\\ based\\ wedge\\ shaped\\ opacity\\ in\\ the\\ left\\ costophrenic\\ angle\\.\\ \\ left\\ pleural\\ effusion\\.\ \(0\)\
-\-\ ct\\:\\ \\ intraluminal\\ filling\\ defects\\ of\\ the\\ pulmonary\\ arteries\\ to\\ the\\ lingula\\,\\ lower\\ lobes\\,\\ and\\ right\\ middle\\ lobe\\.\\ \\ peripheral\\ wedge\\-shaped\\ opacities\\ in\\ the\\ lower\\ lobes\\.\\ \\ left\\ pleural\\ effusion\\.\ \(0\)\
-\-\ pulmonary\\ thromboembolism\ \(3\)\
-\-\ cr\\ ddx\\:\ \(0\)\
-\-\ infarct\\ from\\ pulmonary\\ embolism\ \(0\)\
-\-\ pneumonia\ \(272\)\
-\-\ septic\\ emboli\ \(22\)\
-\-\ 41\\ year\\ old\\ white\\ male\\ with\\ history\\ of\\ flank\\ pain\\ 2\\ weeks\\ prior\\.\\ \\ diagnosed\\ with\\ a\\ right\\ lower\\ lobe\\ pneumonia\\ by\\ primary\\ care\\ provider\\ and\\ treated\\ with\\ antibiotics\\.\\ \\ presented\\ to\\ emergency\\ medicine\\ with\\ dyspnea\\ on\\ exertion\\ while\\ recovering\\ from\\ pneumonia\\.\ \(0\)\
-\-\ patient\\ had\\ presented\\ for\\ dyspnea\\ on\\ exertion\\.\\ \\ the\\ prior\\ ct\\ \\(not\\ shown\\)\\ demonstrated\\ a\\ peripheral\\ opacity\\ in\\ the\\ right\\ lower\\ lobe\\.\\ \\ subsequent\\ radiographs\\ from\\ an\\ outside\\ institution\\ described\\ a\\ right\\ lower\\ lobe\\ consolidation\\ and\\ patient\\ was\\ subsequently\\ treated\\.\ \(0\)\
-\-\ the\\ concerning\\ factor\\ for\\ this\\ case\\ was\\ the\\ left\\ lower\\ lobe\\ air\\ space\\ disease\\ and\\ peripherally\\ based\\ opacity\\ in\\ the\\ left\\ costophrenic\\ angle\\ that\\ has\\ been\\ described\\ as\\ a\\ \\"hampton\\'s\\ hump\\"\\ in\\ the\\ setting\\ of\\ pulmonary\\ thromboembolic\\ disease\\.\ \(0\)\
-\-\ a\\ ct\\ pulmonary\\ angiogram\\ was\\ recommended\\ by\\ the\\ radiologist\\ despite\\ the\\ clinical\\ concern\\ for\\ infection\\ and\\ tuberculosis\\.\ \(0\)\
-\-\ radiographic\\ findings\\ for\\ thromboemoblic\\ disease\\ are\\ nonspecific\\ but\\ when\\ there\\ is\\ a\\ discordance\\ between\\ clinical\\ course\\ and\\ radiographic\\ findings\\,\\ this\\ diagnosis\\ must\\ be\\ included\\ in\\ the\\ differential\\ diagnosis\\.\ \(0\)\
-\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
-\-\ lobe\\:\\ 0\\.049095914902281865\ \(0\)\
-\-\ lower\\:\\ 0\\.047875567564224335\ \(0\)\
-\-\ pulmonary\\:\\ 0\\.04442260338469864\ \(0\)\
-\-\ opacity\\:\\ 0\\.042653774288556524\ \(0\)\
-\-\ costophrenic\\:\\ 0\\.03983375515372453\ \(0\)\
-\-\ pneumonia\\:\\ 0\\.03771154478891647\ \(0\)\
-\-\ peripherally\\:\\ 0\\.036312785460940855\ \(0\)\
-\-\ exertion\\:\\ 0\\.035650220172214794\ \(0\)\
-\-\ thromboemoblic\\:\\ 0\\.031371951686713515\ \(0\)\
-\-\ discordance\\:\\ 0\\.028905235741660328\ \(0\)\
-\-\ dyspnea\\:\\ 0\\.028788852665486357\ \(0\)\
-\-\ angle\\:\\ 0\\.028551582770343354\ \(0\)\
-\-\ must\\:\\ 0\\.02772624553835141\ \(0\)\
-\-\ lobes\\:\\ 0\\.026801867734640293\ \(0\)\
-\-\ described\\:\\ 0\\.025902980009912233\ \(0\)\
-\-\ hampton\\:\\ 0\\.023971803851553956\ \(0\)\
-\-\ pleural\\:\\ 0\\.02361815088023698\ \(0\)\
-\-\ hypercoagulability\\:\\ 0\\.023552647141033018\ \(0\)\
-\-\ thromboembolism\\:\\ 0\\.023552647141033018\ \(0\)\
-\-\ hump\\:\\ 0\\.023552647141033018\ \(0\)\
-\-\ based\\:\\ 0\\.023193525710085126\ \(0\)\
-\-\ effusion\\:\\ 0\\.02311155815092812\ \(0\)\
-\-\ radiographic\\:\\ 0\\.0230844440696707\ \(0\)\
-\-\ lingular\\:\\ 0\\.02283851655219974\ \(0\)\
-\-\ peripheral\\:\\ 0\\.022006642861310443\ \(0\)\
-\-\ thromboembolic\\:\\ 0\\.021980288591997292\ \(0\)\
-\-\ recovering\\:\\ 0\\.021734762358947644\ \(0\)\
-\-\ lingula\\:\\ 0\\.02150508790650077\ \(0\)\
-\-\ wedge\\-shaped\\:\\ 0\\.02089352115587209\ \(0\)\
-\-\ air\\:\\ 0\\.020578381683643884\ \(0\)\
-\-\ left\\:\\ 0\\.02041505913038252\ \(0\)\
-\-\ unexpected\\:\\ 0\\.0202136092812717\ \(0\)\
-\-\ space\\:\\ 0\\.02011784346673761\ \(0\)\
-\-\ disease\\:\\ 0\\.019882384928337424\ \(0\)\
-\-\ findings\\:\\ 0\\.0194181879265832\ \(0\)\
-\-\ wedge\\:\\ 0\\.019388692505266987\ \(0\)\
-\-\ leukocytosis\\:\\ 0\\.018719467482124854\ \(0\)\
-\-\ provider\\:\\ 0\\.018719467482124854\ \(0\)\
-\-\ clinical\\:\\ 0\\.018713948754918178\ \(0\)\
-\-\ cr\\:\\ 0\\.01824426679662833\ \(0\)\
-\-\ treated\\:\\ 0\\.018205344029066612\ \(0\)\
-\-\ radiologist\\:\\ 0\\.01745016163180908\ \(0\)\
-\-\ bases\\:\\ 0\\.017379689648548656\ \(0\)\
-\-\ intraluminal\\:\\ 0\\.01724279896944618\ \(0\)\
-\-\ presented\\:\\ 0\\.01657905790051537\ \(0\)\
-\-\ institution\\:\\ 0\\.016571656016394397\ \(0\)\
-\-\ emboli\\:\\ 0\\.016462148334306308\ \(0\)\
-\-\ 41\\:\\ 0\\.016202272408986414\ \(0\)\
-\-\ ddx\\:\\ 0\\.01605499405965241\ \(0\)\
-\-\ right\\:\\ 0\\.01604326884538108\ \(0\)\
-\-\ basilar\\:\\ 0\\.01596008926576572\ \(0\)\
-\-\ septic\\:\\ 0\\.01596008926576572\ \(0\)\
-\-\ concerning\\:\\ 0\\.01596008926576572\ \(0\)\
-\-\ opacities\\:\\ 0\\.015867649812373333\ \(0\)\
-\-\ nonspecific\\:\\ 0\\.01564654027106726\ \(0\)\
-\-\ prior\\:\\ 0\\.015616461012116466\ \(0\)\
-\-\ for\\:\\ 0\\.015568145522620253\ \(0\)\
-\-\ factor\\:\\ 0\\.015520181949156548\ \(0\)\
-\-\ shaped\\:\\ 0\\.015479040232426742\ \(0\)\
-\-\ anticoagulation\\:\\ 0\\.015358394141054211\ \(0\)\
-\-\ setting\\:\\ 0\\.015358394141054211\ \(0\)\
-\-\ consolidation\\:\\ 0\\.015241704380118298\ \(0\)\
-\-\ concern\\:\\ 0\\.015128719688607338\ \(0\)\
-\-\ embolism\\:\\ 0\\.014878254219704136\ \(0\)\
-\-\ angiogram\\:\\ 0\\.014709562978086399\ \(0\)\
-\-\ tuberculosis\\:\\ 0\\.014486072226346078\ \(0\)\
-\-\ medicine\\:\\ 0\\.01442471348458627\ \(0\)\
-\-\ flank\\:\\ 0\\.014305081417685966\ \(0\)\
-\-\ work\\:\\ 0\\.01424674045763018\ \(0\)\
-\-\ despite\\:\\ 0\\.014132851734903583\ \(0\)\
-\-\ was\\:\\ 0\\.014068007433646787\ \(0\)\
-\-\ included\\:\\ 0\\.014022495020517247\ \(0\)\
-\-\ defects\\:\\ 0\\.013968574006209055\ \(0\)\
-\-\ diagnosis\\:\\ 0\\.013965973884558149\ \(0\)\
-\-\ subsequently\\:\\ 0\\.013786035592018483\ \(0\)\
-\-\ from\\:\\ 0\\.013520665976735364\ \(0\)\
-\-\ infarct\\:\\ 0\\.013493373320712532\ \(0\)\
-\-\ admitted\\:\\ 0\\.013137204429050673\ \(0\)\
-\-\ ct\\:\\ 0\\.012761248968598324\ \(0\)\
-\-\ outside\\:\\ 0\\.012755906786875128\ \(0\)\
-\-\ recommended\\:\\ 0\\.012606828702500895\ \(0\)\
-\-\ arteries\\:\\ 0\\.012588625497281071\ \(0\)\
-\-\ filling\\:\\ 0\\.012242847033033213\ \(0\)\
-\-\ shown\\:\\ 0\\.012193760477402124\ \(0\)\
-\-\ sounds\\:\\ 0\\.012129347517816297\ \(0\)\
-\-\ \\:\\:\\ 0\\.012066990918049804\ \(0\)\
-\-\ subsequent\\:\\ 0\\.01183836547263278\ \(0\)\
-\-\ emergency\\:\\ 0\\.011515261914520554\ \(0\)\
-\-\ course\\:\\ 0\\.011475200866390181\ \(0\)\
-\-\ antibiotics\\:\\ 0\\.011422478141176159\ \(0\)\
-\-\ breath\\:\\ 0\\.011370525118325082\ \(0\)\
-\-\ diagnosed\\:\\ 0\\.011182189170088987\ \(0\)\
-\-\ middle\\:\\ 0\\.011121562169546042\ \(0\)\
-\-\ care\\:\\ 0\\.010968601946863887\ \(0\)\
-\-\ in\\:\\ 0\\.01049743989673233\ \(0\)\
-\-\ given\\:\\ 0\\.010424962250947838\ \(0\)\
-\-\ fever\\:\\ 0\\.010289190841821942\ \(0\)\
-\-\ by\\:\\ 0\\.010127195040888787\ \(0\)\
-\-\ white\\:\\ 0\\.010085780116412873\ \(0\)\
-\-\ a\\:\\ 0\\.009879710365587931\ \(0\)\
-\-\ radiograph\\:\\ 0\\.009686650013955026\ \(0\)\
-\-\ differential\\:\\ 0\\.009654661314423236\ \(0\)\
-\-\ between\\:\\ 0\\.009638774150264212\ \(0\)\
-\-\ radiographs\\:\\ 0\\.009630857086128587\ \(0\)\
-\-\ while\\:\\ 0\\.00956814676104026\ \(0\)\
-\-\ be\\:\\ 0\\.009379051411700562\ \(0\)\
-\-\ patient\\:\\ 0\\.009145109582737239\ \(0\)\
-\-\ decreased\\:\\ 0\\.00904183773211587\ \(0\)\
-\-\ primary\\:\\ 0\\.009008484921336997\ \(0\)\
-\-\ demonstrated\\:\\ 0\\.008923202784544367\ \(0\)\
-\-\ infection\\:\\ 0\\.008839916633711057\ \(0\)\
-\-\ when\\:\\ 0\\.008709363834932404\ \(0\)\
-\-\ weeks\\:\\ 0\\.008630881697157112\ \(0\)\
-\-\ performed\\:\\ 0\\.008478926445648821\ \(0\)\
-\-\ been\\:\\ 0\\.008273291421580039\ \(0\)\
-\-\ up\\:\\ 0\\.008177391996634246\ \(0\)\
-\-\ \\`\\`\\:\\ 0\\.007473790169508245\ \(0\)\
-\-\ \\'\\'\\:\\ 0\\.007330069402072039\ \(0\)\
-\-\ the\\:\\ 0\\.006887864718330111\ \(0\)\
-\-\ this\\:\\ 0\\.00684083425846358\ \(0\)\
-\-\ \\'s\\:\\ 0\\.006704792236181654\ \(0\)\
-\-\ case\\:\\ 0\\.006653040686360394\ \(0\)\
-\-\ had\\:\\ 0\\.0065617431289704915\ \(0\)\
-\-\ 2\\:\\ 0\\.006548414578329345\ \(0\)\
-\-\ but\\:\\ 0\\.006485776872005472\ \(0\)\
-\-\ \\,\\:\\ 0\\.005780286096454535\ \(0\)\
-\-\ has\\:\\ 0\\.00571067605158106\ \(0\)\
-\-\ male\\:\\ 0\\.005498952092126239\ \(0\)\
-\-\ that\\:\\ 0\\.005252600457504709\ \(0\)\
-\-\ on\\:\\ 0\\.005152249198330449\ \(0\)\
-\-\ as\\:\\ 0\\.004599919949801167\ \(0\)\
-\-\ there\\:\\ 0\\.004525678136886081\ \(0\)\
-\-\ not\\:\\ 0\\.004394372497302261\ \(0\)\
-\-\ an\\:\\ 0\\.004205213040159181\ \(0\)\
-\-\ history\\:\\ 0\\.004200051735612396\ \(0\)\
-\-\ are\\:\\ 0\\.004145458621101785\ \(0\)\
-\-\ and\\:\\ 0\\.0038436086633213905\ \(0\)\
-\-\ pain\\:\\ 0\\.0037139080695043937\ \(0\)\
-\-\ or\\:\\ 0\\.0035641378966679983\ \(0\)\
-\-\ year\\:\\ 0\\.0034025098550637535\ \(0\)\
-\-\ old\\:\\ 0\\.003113646252178842\ \(0\)\
-\-\ no\\:\\ 0\\.003062078828127409\ \(0\)\
-\-\ to\\:\\ 0\\.0030396306650746353\ \(0\)\
-\-\ \\(\\:\\ 0\\.0025706822998002154\ \(0\)\
-\-\ \\)\\:\\ 0\\.0025392800431078472\ \(0\)\
-\-\ \\.\\:\\ 0\\.002400324504802773\ \(0\)\
-\-\ is\\:\\ 0\\.002001034798522155\ \(0\)\
-\-\ with\\:\\ 0\\.00166553987316569\ \(0\)\
-\-\ of\\:\\ 0\\.0012438128199073499\ \(0\)\
+Texto: 
+decreased breath sounds in the bases.  no fever or leukocytosis.
+patient was admitted for anticoagulation.  given unexpected findings, a work up for hypercoagulability must be performed.
+radiograph:  right basilar, lingular, left lower lobe air space disease.  peripherally based wedge shaped opacity in the left costophrenic angle.  left pleural effusion.
+
+ct:  intraluminal filling defects of the pulmonary arteries to the lingula, lower lobes, and right middle lobe.  peripheral wedge-shaped opacities in the lower lobes.  left pleural effusion.
+pulmonary thromboembolism
+cr ddx:
+infarct from pulmonary embolism
+pneumonia
+septic emboli
+41 year old white male with history of flank pain 2 weeks prior.  diagnosed with a right lower lobe pneumonia by primary care provider and treated with antibiotics.  presented to emergency medicine with dyspnea on exertion while recovering from pneumonia.
+patient had presented for dyspnea on exertion.  the prior ct (not shown) demonstrated a peripheral opacity in the right lower lobe.  subsequent radiographs from an outside institution described a right lower lobe consolidation and patient was subsequently treated.
+
+the concerning factor for this case was the left lower lobe air space disease and peripherally based opacity in the left costophrenic angle that has been described as a "hampton's hump" in the setting of pulmonary thromboembolic disease.
+
+a ct pulmonary angiogram was recommended by the radiologist despite the clinical concern for infection and tuberculosis.
+
+radiographic findings for thromboemoblic disease are nonspecific but when there is a discordance between clinical course and radiographic findings, this diagnosis must be included in the differential diagnosis.
+
+
+Keywords by value: 
+- lobe: 0.049095914902281865
+- lower: 0.047875567564224335
+- pulmonary: 0.04442260338469864
+- opacity: 0.042653774288556524
+- costophrenic: 0.03983375515372453
+- pneumonia: 0.03771154478891647
+- peripherally: 0.036312785460940855
+- exertion: 0.035650220172214794
+- thromboemoblic: 0.031371951686713515
+- discordance: 0.028905235741660328
+- dyspnea: 0.028788852665486357
+- angle: 0.028551582770343354
+- must: 0.02772624553835141
+- lobes: 0.026801867734640293
+- described: 0.025902980009912233
+- hampton: 0.023971803851553956
+- pleural: 0.02361815088023698
+- hypercoagulability: 0.023552647141033018
+- thromboembolism: 0.023552647141033018
+- hump: 0.023552647141033018
+- based: 0.023193525710085126
+- effusion: 0.02311155815092812
+- radiographic: 0.0230844440696707
+- lingular: 0.02283851655219974
+- peripheral: 0.022006642861310443
+- thromboembolic: 0.021980288591997292
+- recovering: 0.021734762358947644
+- lingula: 0.02150508790650077
+- wedge-shaped: 0.02089352115587209
+- air: 0.020578381683643884
+- left: 0.02041505913038252
+- unexpected: 0.0202136092812717
+- space: 0.02011784346673761
+- disease: 0.019882384928337424
+- findings: 0.0194181879265832
+- wedge: 0.019388692505266987
+- leukocytosis: 0.018719467482124854
+- provider: 0.018719467482124854
+- clinical: 0.018713948754918178
+- cr: 0.01824426679662833
+- treated: 0.018205344029066612
+- radiologist: 0.01745016163180908
+- bases: 0.017379689648548656
+- intraluminal: 0.01724279896944618
+- presented: 0.01657905790051537
+- institution: 0.016571656016394397
+- emboli: 0.016462148334306308
+- 41: 0.016202272408986414
+- ddx: 0.01605499405965241
+- right: 0.01604326884538108
+- basilar: 0.01596008926576572
+- septic: 0.01596008926576572
+- concerning: 0.01596008926576572
+- opacities: 0.015867649812373333
+- nonspecific: 0.01564654027106726
+- prior: 0.015616461012116466
+- for: 0.015568145522620253
+- factor: 0.015520181949156548
+- shaped: 0.015479040232426742
+- anticoagulation: 0.015358394141054211
+- setting: 0.015358394141054211
+- consolidation: 0.015241704380118298
+- concern: 0.015128719688607338
+- embolism: 0.014878254219704136
+- angiogram: 0.014709562978086399
+- tuberculosis: 0.014486072226346078
+- medicine: 0.01442471348458627
+- flank: 0.014305081417685966
+- work: 0.01424674045763018
+- despite: 0.014132851734903583
+- was: 0.014068007433646787
+- included: 0.014022495020517247
+- defects: 0.013968574006209055
+- diagnosis: 0.013965973884558149
+- subsequently: 0.013786035592018483
+- from: 0.013520665976735364
+- infarct: 0.013493373320712532
+- admitted: 0.013137204429050673
+- ct: 0.012761248968598324
+- outside: 0.012755906786875128
+- recommended: 0.012606828702500895
+- arteries: 0.012588625497281071
+- filling: 0.012242847033033213
+- shown: 0.012193760477402124
+- sounds: 0.012129347517816297
+- :: 0.012066990918049804
+- subsequent: 0.01183836547263278
+- emergency: 0.011515261914520554
+- course: 0.011475200866390181
+- antibiotics: 0.011422478141176159
+- breath: 0.011370525118325082
+- diagnosed: 0.011182189170088987
+- middle: 0.011121562169546042
+- care: 0.010968601946863887
+- in: 0.01049743989673233
+- given: 0.010424962250947838
+- fever: 0.010289190841821942
+- by: 0.010127195040888787
+- white: 0.010085780116412873
+- a: 0.009879710365587931
+- radiograph: 0.009686650013955026
+- differential: 0.009654661314423236
+- between: 0.009638774150264212
+- radiographs: 0.009630857086128587
+- while: 0.00956814676104026
+- be: 0.009379051411700562
+- patient: 0.009145109582737239
+- decreased: 0.00904183773211587
+- primary: 0.009008484921336997
+- demonstrated: 0.008923202784544367
+- infection: 0.008839916633711057
+- when: 0.008709363834932404
+- weeks: 0.008630881697157112
+- performed: 0.008478926445648821
+- been: 0.008273291421580039
+- up: 0.008177391996634246
+- ``: 0.007473790169508245
+- '': 0.007330069402072039
+- the: 0.006887864718330111
+- this: 0.00684083425846358
+- 's: 0.006704792236181654
+- case: 0.006653040686360394
+- had: 0.0065617431289704915
+- 2: 0.006548414578329345
+- but: 0.006485776872005472
+- ,: 0.005780286096454535
+- has: 0.00571067605158106
+- male: 0.005498952092126239
+- that: 0.005252600457504709
+- on: 0.005152249198330449
+- as: 0.004599919949801167
+- there: 0.004525678136886081
+- not: 0.004394372497302261
+- an: 0.004205213040159181
+- history: 0.004200051735612396
+- are: 0.004145458621101785
+- and: 0.0038436086633213905
+- pain: 0.0037139080695043937
+- or: 0.0035641378966679983
+- year: 0.0034025098550637535
+- old: 0.003113646252178842
+- no: 0.003062078828127409
+- to: 0.0030396306650746353
+- (: 0.0025706822998002154
+- ): 0.0025392800431078472
+- .: 0.002400324504802773
+- is: 0.002001034798522155
+- with: 0.00166553987316569
+- of: 0.0012438128199073499

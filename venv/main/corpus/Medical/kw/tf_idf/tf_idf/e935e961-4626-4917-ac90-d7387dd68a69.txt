@@ -1,54 +1,57 @@
-\-\ Texto\\:\\ \ \(0\)\
-\-\ unremarkable\ \(371\)\
-\-\ cxr\\:\\ right\\ sided\\ aortic\\ arch\\.\\ abnormal\\ right\\ sided\\ mediastinal\\ convexity\\ with\\ a\\ right\\-sided\\ aortic\\ reflection\\.\ \(0\)\
-\-\ ct\\:\\ right\\ aortic\\ arch\\ with\\ aberrant\\ left\\ subclavian\\ artery\\.\\ \\ the\\ order\\ of\\ the\\ vessels\\ off\\ of\\ the\\ aortic\\ arch\\ is\\ left\\ common\\ carotid\\,\\ right\\ common\\ carotid\\,\\ right\\ subclavian\\,\\ and\\ left\\ subclavian\\.\ \(0\)\
-\-\ right\\ sided\\ aortic\\ arch\\ with\\ aberrant\\ left\\ subclavian\\ artery\ \(2\)\
-\-\ differential\\ of\\ chest\\ x\\-ray\\:\ \(0\)\
-\-\ right\\ arch\\ with\\ mirror\\ image\\ branching\ \(1\)\
-\-\ right\\ arch\\ with\\ aberrant\\ left\\ subclavian\ \(1\)\
-\-\ double\\ aortic\\ arch\ \(15\)\
-\-\ any\\ mediastinal\\ mass\ \(1\)\
-\-\ asymptomatic\\ screening\\ chest\\ x\\-ray\\.\ \(0\)\
-\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
-\-\ arch\\:\\ 0\\.2775251120694173\ \(0\)\
-\-\ subclavian\\:\\ 0\\.22480263544912318\ \(0\)\
-\-\ aortic\\:\\ 0\\.2139545659357414\ \(0\)\
-\-\ aberrant\\:\\ 0\\.1487067599608462\ \(0\)\
-\-\ sided\\:\\ 0\\.09771731793237048\ \(0\)\
-\-\ x\\-ray\\:\\ 0\\.07943657306611528\ \(0\)\
-\-\ carotid\\:\\ 0\\.07900849076820952\ \(0\)\
-\-\ \\-\\:\\ 0\\.07553519417354077\ \(0\)\
-\-\ mediastinal\\:\\ 0\\.07480685810568542\ \(0\)\
-\-\ right\\:\\ 0\\.0743613780709622\ \(0\)\
-\-\ reflection\\:\\ 0\\.06822983347041524\ \(0\)\
-\-\ mirror\\:\\ 0\\.06443885635572125\ \(0\)\
-\-\ branching\\:\\ 0\\.05581774270416848\ \(0\)\
-\-\ convexity\\:\\ 0\\.054527401024230274\ \(0\)\
-\-\ artery\\:\\ 0\\.05246453591975668\ \(0\)\
-\-\ left\\:\\ 0\\.04928377676664509\ \(0\)\
-\-\ common\\:\\ 0\\.04610860230837932\ \(0\)\
-\-\ order\\:\\ 0\\.044153803410445794\ \(0\)\
-\-\ right\\-sided\\:\\ 0\\.043001314688918824\ \(0\)\
-\-\ double\\:\\ 0\\.0426122391427039\ \(0\)\
-\-\ chest\\:\\ 0\\.04215936082592822\ \(0\)\
-\-\ off\\:\\ 0\\.04023570657969532\ \(0\)\
-\-\ screening\\:\\ 0\\.0375776745250345\ \(0\)\
-\-\ cxr\\:\\ 0\\.03717559042396987\ \(0\)\
-\-\ vessels\\:\\ 0\\.03546639192043642\ \(0\)\
-\-\ \\:\\:\\ 0\\.03495695307187624\ \(0\)\
-\-\ asymptomatic\\:\\ 0\\.029779303072124612\ \(0\)\
-\-\ unremarkable\\:\\ 0\\.029165633182289284\ \(0\)\
-\-\ differential\\:\\ 0\\.027968658034566284\ \(0\)\
-\-\ any\\:\\ 0\\.027740567351260757\ \(0\)\
-\-\ image\\:\\ 0\\.027517414085542275\ \(0\)\
-\-\ abnormal\\:\\ 0\\.025124662271287745\ \(0\)\
-\-\ ct\\:\\ 0\\.012322718076206628\ \(0\)\
-\-\ mass\\:\\ 0\\.012252175329356334\ \(0\)\
-\-\ \\,\\:\\ 0\\.008372476253111981\ \(0\)\
-\-\ with\\:\\ 0\\.0060311430974169964\ \(0\)\
-\-\ is\\:\\ 0\\.00579681214829614\ \(0\)\
-\-\ the\\:\\ 0\\.0042757510733080146\ \(0\)\
-\-\ a\\:\\ 0\\.00408865775070723\ \(0\)\
-\-\ of\\:\\ 0\\.003603210333958405\ \(0\)\
-\-\ and\\:\\ 0\\.0018557629456929738\ \(0\)\
-\-\ \\.\\:\\ 0\\.0018298729947085707\ \(0\)\
+Texto: 
+unremarkable
+cxr: right sided aortic arch. abnormal right sided mediastinal convexity with a right-sided aortic reflection.
+
+ct: right aortic arch with aberrant left subclavian artery.  the order of the vessels off of the aortic arch is left common carotid, right common carotid, right subclavian, and left subclavian.
+right sided aortic arch with aberrant left subclavian artery
+differential of chest x-ray:
+- right arch with mirror image branching
+- right arch with aberrant left subclavian
+- double aortic arch
+- any mediastinal mass
+asymptomatic screening chest x-ray.
+
+
+Keywords by value: 
+- arch: 0.2775251120694173
+- subclavian: 0.22480263544912318
+- aortic: 0.2139545659357414
+- aberrant: 0.1487067599608462
+- sided: 0.09771731793237048
+- x-ray: 0.07943657306611528
+- carotid: 0.07900849076820952
+- -: 0.07553519417354077
+- mediastinal: 0.07480685810568542
+- right: 0.0743613780709622
+- reflection: 0.06822983347041524
+- mirror: 0.06443885635572125
+- branching: 0.05581774270416848
+- convexity: 0.054527401024230274
+- artery: 0.05246453591975668
+- left: 0.04928377676664509
+- common: 0.04610860230837932
+- order: 0.044153803410445794
+- right-sided: 0.043001314688918824
+- double: 0.0426122391427039
+- chest: 0.04215936082592822
+- off: 0.04023570657969532
+- screening: 0.0375776745250345
+- cxr: 0.03717559042396987
+- vessels: 0.03546639192043642
+- :: 0.03495695307187624
+- asymptomatic: 0.029779303072124612
+- unremarkable: 0.029165633182289284
+- differential: 0.027968658034566284
+- any: 0.027740567351260757
+- image: 0.027517414085542275
+- abnormal: 0.025124662271287745
+- ct: 0.012322718076206628
+- mass: 0.012252175329356334
+- ,: 0.008372476253111981
+- with: 0.0060311430974169964
+- is: 0.00579681214829614
+- the: 0.0042757510733080146
+- a: 0.00408865775070723
+- of: 0.003603210333958405
+- and: 0.0018557629456929738
+- .: 0.0018298729947085707

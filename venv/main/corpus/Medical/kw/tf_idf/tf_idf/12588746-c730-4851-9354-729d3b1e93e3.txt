@@ -1,160 +1,164 @@
-\-\ Texto\\:\\ \ \(0\)\
-\-\ physical\\ exam\\-\\ markedly\\ erythematous\\ posterior\\ pharynx\\ with\\ pustules\\,\\ shotty\\ posterior\\ cervical\\ adenopathy\\.\ \(0\)\
-\-\ labs\\-\\ wbc\\=\\ 20\\.5\\ k\\ \ \(0\)\
-\-\ ent\\ surgical\\ drainage\\ demonstrated\\ retrophargyeal\\ abcess\\.\\ \\ throat\\ culture\\ subsequently\\ revealed\\ 4\\+\\ group\\ a\\ beta\\ hemmolytic\\ strep\\.\ \(0\)\
-\-\ ent\\ drainage\\ and\\ appropriate\\ antibiotic\\ therapy\\.\\ \\ monitor\\ airway\\.\ \(0\)\
-\-\ markedly\\ prominent\\ prevertebral\\ soft\\ tissues\\ on\\ c\\-spine\\ lateral\\ view\\.\ \(0\)\
-\-\ retropharyngeal\\ abscess\ \(4\)\
-\-\ c\\-spine\\ trauma\\ \\(if\\ history\\ correlates\\)\ \(0\)\
-\-\ mucosal\\ space\\ mass\\-\\ neoplastic\\ \\(scc\\,\\ npc\\,\\ lymphoma\\)\ \(0\)\
-\-\ parapharyngeal\\ mass\\-\\ lipoma\\,\\ abcess\\,\\ neoplastic\ \(0\)\
-\-\ retropharyngeal\\ mass\\-\\ abcess\\,\\ lymphoma\\,\\ nodal\\ mets\ \(0\)\
-\-\ prevertebral\\ mass\\-\\ abcess\\,\\ osteomyelitis\\,\\ chordoma\ \(0\)\
-\-\ four\\ year\\ old\\ boy\\ with\\ 4\\ day\\ history\\ of\\ sore\\ throat\\,\\ worse\\ in\\ the\\ last\\ 24\\ hours\\.\\ \\ difficulty\\ swallowing\\,\\ poor\\ appetite\\.\\ \\ parents\\ noticed\\ the\\ patient\\ slobbering\\ for\\ the\\ past\\ several\\ hours\\ prior\\ to\\ ed\\ admission\\.\ \(0\)\
-\-\ retropharyngeal\\ abcess\\ formation\\ occurs\\ most\\ commonly\\ in\\ infants\\ and\\ children\\ up\\ to\\ age\\ 14\\.\\ \\ the\\ abcess\\ may\\ result\\ from\\ pharyngitis\\ \\(as\\ in\\ this\\ case\\)\\,\\ pharyngeal\\ trauma\\,\\ or\\ dental\\ infection\\.\\ \\ clinical\\ findings\\ include\\ hyperextension\\ of\\ the\\ neck\\,\\ gurgling\\ respirations\\,\\ and\\ puddling\\ of\\ saliva\\.\\ \\ complications\\ include\\ rupture\\ with\\ subsequent\\ aspiration\\ and\\ contiguous\\ extension\\ into\\ the\\ posterior\\ mediastinum\\ and\\ lateral\\ pharyngeal\\ space\\.\\ \\ typically\\ polymicrobial\\,\\ the\\ most\\ common\\ causitive\\ bacteria\\ include\\ strep\\.\\ pyogenes\\,\\ group\\ c\\ beta\\-hemolytic\\ strep\\.\\,\\ and\\ staph\\.\\ aureus\\.\ \(0\)\
-\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
-\-\ abcess\\:\\ 0\\.15382740903406264\ \(0\)\
-\-\ mass\\-\\:\\ 0\\.13479312026722076\ \(0\)\
-\-\ retropharyngeal\\:\\ 0\\.08091433748058392\ \(0\)\
-\-\ strep\\:\\ 0\\.05394289165372261\ \(0\)\
-\-\ prevertebral\\:\\ 0\\.04960719832347029\ \(0\)\
-\-\ pharyngeal\\:\\ 0\\.048878974664613946\ \(0\)\
-\-\ c\\-spine\\:\\ 0\\.04569431865074575\ \(0\)\
-\-\ ent\\:\\ 0\\.04477413947469486\ \(0\)\
-\-\ throat\\:\\ 0\\.04265233878814124\ \(0\)\
-\-\ group\\:\\ 0\\.0388303106681177\ \(0\)\
-\-\ wbc\\=\\:\\ 0\\.0384957136417751\ \(0\)\
-\-\ retrophargyeal\\:\\ 0\\.0384957136417751\ \(0\)\
-\-\ hemmolytic\\:\\ 0\\.0384957136417751\ \(0\)\
-\-\ npc\\:\\ 0\\.0384957136417751\ \(0\)\
-\-\ slobbering\\:\\ 0\\.0384957136417751\ \(0\)\
-\-\ causitive\\:\\ 0\\.0384957136417751\ \(0\)\
-\-\ pyogenes\\:\\ 0\\.0384957136417751\ \(0\)\
-\-\ strep\\.\\:\\ 0\\.0384957136417751\ \(0\)\
-\-\ neoplastic\\:\\ 0\\.03819097962861294\ \(0\)\
-\-\ labs\\-\\:\\ 0\\.0354688700585439\ \(0\)\
-\-\ beta\\-hemolytic\\:\\ 0\\.0354688700585439\ \(0\)\
-\-\ markedly\\:\\ 0\\.03532605938428675\ \(0\)\
-\-\ exam\\-\\:\\ 0\\.03369828006680519\ \(0\)\
-\-\ pustules\\:\\ 0\\.03369828006680519\ \(0\)\
-\-\ 20\\.5\\:\\ 0\\.03369828006680519\ \(0\)\
-\-\ puddling\\:\\ 0\\.03369828006680519\ \(0\)\
-\-\ shotty\\:\\ 0\\.0324420264753127\ \(0\)\
-\-\ gurgling\\:\\ 0\\.0324420264753127\ \(0\)\
-\-\ polymicrobial\\:\\ 0\\.03146760048704104\ \(0\)\
-\-\ include\\:\\ 0\\.031403757485112926\ \(0\)\
-\-\ drainage\\:\\ 0\\.03121197737036555\ \(0\)\
-\-\ pharyngitis\\:\\ 0\\.02999828941009251\ \(0\)\
-\-\ 4\\+\\:\\ 0\\.029415182892081494\ \(0\)\
-\-\ saliva\\:\\ 0\\.029415182892081494\ \(0\)\
-\-\ hours\\:\\ 0\\.029346701385229663\ \(0\)\
-\-\ staph\\:\\ 0\\.028024555245275664\ \(0\)\
-\-\ parapharyngeal\\:\\ 0\\.027295061425785853\ \(0\)\
-\-\ scc\\:\\ 0\\.026670166912071126\ \(0\)\
-\-\ beta\\:\\ 0\\.025874002908604078\ \(0\)\
-\-\ 14\\.\\:\\ 0\\.025874002908604078\ \(0\)\
-\-\ hyperextension\\:\\ 0\\.025874002908604078\ \(0\)\
-\-\ posterior\\:\\ 0\\.025803125092171815\ \(0\)\
-\-\ pharynx\\:\\ 0\\.02563790150567711\ \(0\)\
-\-\ nodal\\:\\ 0\\.024997711662044463\ \(0\)\
-\-\ space\\:\\ 0\\.02468608739804921\ \(0\)\
-\-\ aureus\\:\\ 0\\.02461774931711158\ \(0\)\
-\-\ chordoma\\:\\ 0\\.024439487332306973\ \(0\)\
-\-\ correlates\\:\\ 0\\.024268217842554653\ \(0\)\
-\-\ sore\\:\\ 0\\.024268217842554653\ \(0\)\
-\-\ respirations\\:\\ 0\\.024103412916865366\ \(0\)\
-\-\ bacteria\\:\\ 0\\.02364332332883992\ \(0\)\
-\-\ dental\\:\\ 0\\.02336149572561909\ \(0\)\
-\-\ appetite\\:\\ 0\\.021872733337101217\ \(0\)\
-\-\ erythematous\\:\\ 0\\.021682842018587074\ \(0\)\
-\-\ parents\\:\\ 0\\.021682842018587074\ \(0\)\
-\-\ infants\\:\\ 0\\.021682842018587074\ \(0\)\
-\-\ mets\\:\\ 0\\.021500865178409916\ \(0\)\
-\-\ contiguous\\:\\ 0\\.021500865178409916\ \(0\)\
-\-\ lymphoma\\:\\ 0\\.021329245715192013\ \(0\)\
-\-\ \\,\\:\\ 0\\.021278520433673245\ \(0\)\
-\-\ monitor\\:\\ 0\\.02124137425932345\ \(0\)\
-\-\ swallowing\\:\\ 0\\.020996442090541603\ \(0\)\
-\-\ airway\\:\\ 0\\.020764521455982878\ \(0\)\
-\-\ trauma\\:\\ 0\\.020410557045920777\ \(0\)\
-\-\ noticed\\:\\ 0\\.02040342226015269\ \(0\)\
-\-\ k\\:\\ 0\\.020334652142387884\ \(0\)\
-\-\ culture\\:\\ 0\\.019881391034607784\ \(0\)\
-\-\ mucosal\\:\\ 0\\.019252398151538185\ \(0\)\
-\-\ antibiotic\\:\\ 0\\.01909548981430647\ \(0\)\
-\-\ mediastinum\\:\\ 0\\.0179695985073104\ \(0\)\
-\-\ c\\:\\ 0\\.017737677872751677\ \(0\)\
-\-\ appropriate\\:\\ 0\\.01758963616237752\ \(0\)\
-\-\ aspiration\\:\\ 0\\.01758963616237752\ \(0\)\
-\-\ lipoma\\:\\ 0\\.017446449163150485\ \(0\)\
-\-\ osteomyelitis\\:\\ 0\\.017342058242392606\ \(0\)\
-\-\ most\\:\\ 0\\.01723000123779979\ \(0\)\
-\-\ subsequently\\:\\ 0\\.016916489088896043\ \(0\)\
-\-\ poor\\:\\ 0\\.01679347215891047\ \(0\)\
-\-\ adenopathy\\:\\ 0\\.01661521017410586\ \(0\)\
-\-\ difficulty\\:\\ 0\\.01661521017410586\ \(0\)\
-\-\ worse\\:\\ 0\\.01652873581910071\ \(0\)\
-\-\ admission\\:\\ 0\\.016443940684353543\ \(0\)\
-\-\ four\\:\\ 0\\.01619900851557169\ \(0\)\
-\-\ lateral\\:\\ 0\\.01612810520196114\ \(0\)\
-\-\ children\\:\\ 0\\.01612032508542899\ \(0\)\
-\-\ last\\:\\ 0\\.015942063100624383\ \(0\)\
-\-\ rupture\\:\\ 0\\.015843373878278354\ \(0\)\
-\-\ ed\\:\\ 0\\.015770793610872063\ \(0\)\
-\-\ formation\\:\\ 0\\.015402844512104642\ \(0\)\
-\-\ prominent\\:\\ 0\\.01531550535618032\ \(0\)\
-\-\ tissues\\:\\ 0\\.01531550535618032\ \(0\)\
-\-\ occurs\\:\\ 0\\.01531550535618032\ \(0\)\
-\-\ complications\\:\\ 0\\.01478678076424479\ \(0\)\
-\-\ subsequent\\:\\ 0\\.014526553265545028\ \(0\)\
-\-\ 24\\:\\ 0\\.014508545766925543\ \(0\)\
-\-\ result\\:\\ 0\\.014315214659161404\ \(0\)\
-\-\ commonly\\:\\ 0\\.014080923333867429\ \(0\)\
-\-\ view\\:\\ 0\\.014000203619133355\ \(0\)\
-\-\ cervical\\:\\ 0\\.013559351120487461\ \(0\)\
-\-\ extension\\:\\ 0\\.013320206642714643\ \(0\)\
-\-\ typically\\:\\ 0\\.01317216493234049\ \(0\)\
-\-\ boy\\:\\ 0\\.012684374584829568\ \(0\)\
-\-\ several\\:\\ 0\\.011996038583940556\ \(0\)\
-\-\ revealed\\:\\ 0\\.011975868514699096\ \(0\)\
-\-\ past\\:\\ 0\\.011856766253041197\ \(0\)\
-\-\ day\\:\\ 0\\.011846986154379605\ \(0\)\
-\-\ abscess\\:\\ 0\\.011798411546437848\ \(0\)\
-\-\ clinical\\:\\ 0\\.011481702183694341\ \(0\)\
-\-\ age\\:\\ 0\\.011357687011110508\ \(0\)\
-\-\ neck\\:\\ 0\\.01095739361143442\ \(0\)\
-\-\ demonstrated\\:\\ 0\\.01094943223780335\ \(0\)\
-\-\ infection\\:\\ 0\\.010847233947916188\ \(0\)\
-\-\ 4\\:\\ 0\\.010397257227856092\ \(0\)\
-\-\ history\\:\\ 0\\.010307550547660117\ \(0\)\
-\-\ if\\:\\ 0\\.010125517178081377\ \(0\)\
-\-\ up\\:\\ 0\\.01003426703517128\ \(0\)\
-\-\ therapy\\:\\ 0\\.009976597363496126\ \(0\)\
-\-\ common\\:\\ 0\\.009765359004176405\ \(0\)\
-\-\ prior\\:\\ 0\\.009581278481233028\ \(0\)\
-\-\ \\(\\:\\ 0\\.009463254055596426\ \(0\)\
-\-\ \\)\\:\\ 0\\.009347655355196136\ \(0\)\
-\-\ physical\\:\\ 0\\.009155044845332918\ \(0\)\
-\-\ soft\\:\\ 0\\.009087016436653057\ \(0\)\
-\-\ into\\:\\ 0\\.008879154445238895\ \(0\)\
-\-\ may\\:\\ 0\\.008184840038856436\ \(0\)\
-\-\ case\\:\\ 0\\.008163774816014283\ \(0\)\
-\-\ findings\\:\\ 0\\.007942519370261832\ \(0\)\
-\-\ surgical\\:\\ 0\\.007843763188870976\ \(0\)\
-\-\ as\\:\\ 0\\.005644443257179597\ \(0\)\
-\-\ from\\:\\ 0\\.005530286957005293\ \(0\)\
-\-\ in\\:\\ 0\\.005520487731095042\ \(0\)\
-\-\ and\\:\\ 0\\.004716393163289566\ \(0\)\
-\-\ or\\:\\ 0\\.0043734617858677185\ \(0\)\
-\-\ the\\:\\ 0\\.004225960667796421\ \(0\)\
-\-\ this\\:\\ 0\\.004197105734996214\ \(0\)\
-\-\ year\\:\\ 0\\.004175132180231069\ \(0\)\
-\-\ old\\:\\ 0\\.0038206750954683606\ \(0\)\
-\-\ patient\\:\\ 0\\.003740576117538812\ \(0\)\
-\-\ to\\:\\ 0\\.003729852475484596\ \(0\)\
-\-\ for\\:\\ 0\\.0031838783783524676\ \(0\)\
-\-\ on\\:\\ 0\\.003161096123866498\ \(0\)\
-\-\ \\.\\:\\ 0\\.0023252971242803235\ \(0\)\
-\-\ a\\:\\ 0\\.0017318768638366867\ \(0\)\
-\-\ with\\:\\ 0\\.0015328058003042323\ \(0\)\
-\-\ of\\:\\ 0\\.001526250665475831\ \(0\)\
+Texto: 
+physical exam- markedly erythematous posterior pharynx with pustules, shotty posterior cervical adenopathy.
+
+labs- wbc= 20.5 k 
+
+ent surgical drainage demonstrated retrophargyeal abcess.  throat culture subsequently revealed 4+ group a beta hemmolytic strep.
+ent drainage and appropriate antibiotic therapy.  monitor airway.
+markedly prominent prevertebral soft tissues on c-spine lateral view.
+retropharyngeal abscess
+c-spine trauma (if history correlates)
+mucosal space mass- neoplastic (scc, npc, lymphoma)
+parapharyngeal mass- lipoma, abcess, neoplastic
+retropharyngeal mass- abcess, lymphoma, nodal mets
+prevertebral mass- abcess, osteomyelitis, chordoma
+four year old boy with 4 day history of sore throat, worse in the last 24 hours.  difficulty swallowing, poor appetite.  parents noticed the patient slobbering for the past several hours prior to ed admission.
+retropharyngeal abcess formation occurs most commonly in infants and children up to age 14.  the abcess may result from pharyngitis (as in this case), pharyngeal trauma, or dental infection.  clinical findings include hyperextension of the neck, gurgling respirations, and puddling of saliva.  complications include rupture with subsequent aspiration and contiguous extension into the posterior mediastinum and lateral pharyngeal space.  typically polymicrobial, the most common causitive bacteria include strep. pyogenes, group c beta-hemolytic strep., and staph. aureus.
+
+
+Keywords by value: 
+- abcess: 0.15382740903406264
+- mass-: 0.13479312026722076
+- retropharyngeal: 0.08091433748058392
+- strep: 0.05394289165372261
+- prevertebral: 0.04960719832347029
+- pharyngeal: 0.048878974664613946
+- c-spine: 0.04569431865074575
+- ent: 0.04477413947469486
+- throat: 0.04265233878814124
+- group: 0.0388303106681177
+- wbc=: 0.0384957136417751
+- retrophargyeal: 0.0384957136417751
+- hemmolytic: 0.0384957136417751
+- npc: 0.0384957136417751
+- slobbering: 0.0384957136417751
+- causitive: 0.0384957136417751
+- pyogenes: 0.0384957136417751
+- strep.: 0.0384957136417751
+- neoplastic: 0.03819097962861294
+- labs-: 0.0354688700585439
+- beta-hemolytic: 0.0354688700585439
+- markedly: 0.03532605938428675
+- exam-: 0.03369828006680519
+- pustules: 0.03369828006680519
+- 20.5: 0.03369828006680519
+- puddling: 0.03369828006680519
+- shotty: 0.0324420264753127
+- gurgling: 0.0324420264753127
+- polymicrobial: 0.03146760048704104
+- include: 0.031403757485112926
+- drainage: 0.03121197737036555
+- pharyngitis: 0.02999828941009251
+- 4+: 0.029415182892081494
+- saliva: 0.029415182892081494
+- hours: 0.029346701385229663
+- staph: 0.028024555245275664
+- parapharyngeal: 0.027295061425785853
+- scc: 0.026670166912071126
+- beta: 0.025874002908604078
+- 14.: 0.025874002908604078
+- hyperextension: 0.025874002908604078
+- posterior: 0.025803125092171815
+- pharynx: 0.02563790150567711
+- nodal: 0.024997711662044463
+- space: 0.02468608739804921
+- aureus: 0.02461774931711158
+- chordoma: 0.024439487332306973
+- correlates: 0.024268217842554653
+- sore: 0.024268217842554653
+- respirations: 0.024103412916865366
+- bacteria: 0.02364332332883992
+- dental: 0.02336149572561909
+- appetite: 0.021872733337101217
+- erythematous: 0.021682842018587074
+- parents: 0.021682842018587074
+- infants: 0.021682842018587074
+- mets: 0.021500865178409916
+- contiguous: 0.021500865178409916
+- lymphoma: 0.021329245715192013
+- ,: 0.021278520433673245
+- monitor: 0.02124137425932345
+- swallowing: 0.020996442090541603
+- airway: 0.020764521455982878
+- trauma: 0.020410557045920777
+- noticed: 0.02040342226015269
+- k: 0.020334652142387884
+- culture: 0.019881391034607784
+- mucosal: 0.019252398151538185
+- antibiotic: 0.01909548981430647
+- mediastinum: 0.0179695985073104
+- c: 0.017737677872751677
+- appropriate: 0.01758963616237752
+- aspiration: 0.01758963616237752
+- lipoma: 0.017446449163150485
+- osteomyelitis: 0.017342058242392606
+- most: 0.01723000123779979
+- subsequently: 0.016916489088896043
+- poor: 0.01679347215891047
+- adenopathy: 0.01661521017410586
+- difficulty: 0.01661521017410586
+- worse: 0.01652873581910071
+- admission: 0.016443940684353543
+- four: 0.01619900851557169
+- lateral: 0.01612810520196114
+- children: 0.01612032508542899
+- last: 0.015942063100624383
+- rupture: 0.015843373878278354
+- ed: 0.015770793610872063
+- formation: 0.015402844512104642
+- prominent: 0.01531550535618032
+- tissues: 0.01531550535618032
+- occurs: 0.01531550535618032
+- complications: 0.01478678076424479
+- subsequent: 0.014526553265545028
+- 24: 0.014508545766925543
+- result: 0.014315214659161404
+- commonly: 0.014080923333867429
+- view: 0.014000203619133355
+- cervical: 0.013559351120487461
+- extension: 0.013320206642714643
+- typically: 0.01317216493234049
+- boy: 0.012684374584829568
+- several: 0.011996038583940556
+- revealed: 0.011975868514699096
+- past: 0.011856766253041197
+- day: 0.011846986154379605
+- abscess: 0.011798411546437848
+- clinical: 0.011481702183694341
+- age: 0.011357687011110508
+- neck: 0.01095739361143442
+- demonstrated: 0.01094943223780335
+- infection: 0.010847233947916188
+- 4: 0.010397257227856092
+- history: 0.010307550547660117
+- if: 0.010125517178081377
+- up: 0.01003426703517128
+- therapy: 0.009976597363496126
+- common: 0.009765359004176405
+- prior: 0.009581278481233028
+- (: 0.009463254055596426
+- ): 0.009347655355196136
+- physical: 0.009155044845332918
+- soft: 0.009087016436653057
+- into: 0.008879154445238895
+- may: 0.008184840038856436
+- case: 0.008163774816014283
+- findings: 0.007942519370261832
+- surgical: 0.007843763188870976
+- as: 0.005644443257179597
+- from: 0.005530286957005293
+- in: 0.005520487731095042
+- and: 0.004716393163289566
+- or: 0.0043734617858677185
+- the: 0.004225960667796421
+- this: 0.004197105734996214
+- year: 0.004175132180231069
+- old: 0.0038206750954683606
+- patient: 0.003740576117538812
+- to: 0.003729852475484596
+- for: 0.0031838783783524676
+- on: 0.003161096123866498
+- .: 0.0023252971242803235
+- a: 0.0017318768638366867
+- with: 0.0015328058003042323
+- of: 0.001526250665475831

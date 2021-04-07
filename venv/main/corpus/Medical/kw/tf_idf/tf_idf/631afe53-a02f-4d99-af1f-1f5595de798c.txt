@@ -1,55 +1,58 @@
-\-\ Texto\\:\\ \ \(0\)\
-\-\ scar\\ lower\\ back\ \(1\)\
-\-\ surgery\\ pending\ \(2\)\
-\-\ lumbosacral\\ intraspinal\\ lipoma\\ tethering\\ the\\ spinal\\ cord\\ to\\ the\\ s1\\ segment\ \(0\)\
-\-\ ultrasound\\ done\\ shortly\\ after\\ birth\\ reveals\\ tethered\\ cord\\ and\\ associated\\ intraspinal\\ lipoma\\.\ \(0\)\
-\-\ tethered\\ spinal\\ cord\\ with\\ terminal\\ spinal\\ lipoma\ \(0\)\
-\-\ diastemetomyelia\ \(0\)\
-\-\ dermoid\\ tumor\ \(18\)\
-\-\ dysraphism\ \(8\)\
-\-\ spina\\ bifida\ \(8\)\
-\-\ 8\\ year\\ old\\ boy\\ with\\ increasing\\ back\\ pain\\ and\\ abnormal\\ gait\\.\\ \\ history\\ of\\ back\\ surgery\\ shortly\\ after\\ \\ birth\ \(0\)\
-\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
-\-\ lipoma\\:\\ 0\\.19648705860794072\ \(0\)\
-\-\ intraspinal\\:\\ 0\\.19614115016099287\ \(0\)\
-\-\ tethered\\:\\ 0\\.1876877367412519\ \(0\)\
-\-\ cord\\:\\ 0\\.15969707804288857\ \(0\)\
-\-\ shortly\\:\\ 0\\.1594844165700023\ \(0\)\
-\-\ spinal\\:\\ 0\\.15048079723178293\ \(0\)\
-\-\ diastemetomyelia\\:\\ 0\\.14451669547486062\ \(0\)\
-\-\ back\\:\\ 0\\.1386426066564333\ \(0\)\
-\-\ birth\\:\\ 0\\.13462256467718572\ \(0\)\
-\-\ spina\\:\\ 0\\.11042748987355185\ \(0\)\
-\-\ dysraphism\\:\\ 0\\.10849662043656194\ \(0\)\
-\-\ tethering\\:\\ 0\\.10676939886840087\ \(0\)\
-\-\ bifida\\:\\ 0\\.10378052088817209\ \(0\)\
-\-\ lumbosacral\\:\\ 0\\.08324342304398573\ \(0\)\
-\-\ terminal\\:\\ 0\\.0803851707957107\ \(0\)\
-\-\ scar\\:\\ 0\\.07309523929962142\ \(0\)\
-\-\ s1\\:\\ 0\\.07227539633938107\ \(0\)\
-\-\ surgery\\:\\ 0\\.0680327562085336\ \(0\)\
-\-\ gait\\:\\ 0\\.0652333855248364\ \(0\)\
-\-\ dermoid\\:\\ 0\\.06386127046128481\ \(0\)\
-\-\ segment\\:\\ 0\\.06111347686449368\ \(0\)\
-\-\ pending\\:\\ 0\\.06061515756638924\ \(0\)\
-\-\ done\\:\\ 0\\.05807407976070085\ \(0\)\
-\-\ after\\:\\ 0\\.057967252544564016\ \(0\)\
-\-\ increasing\\:\\ 0\\.05741495811351985\ \(0\)\
-\-\ reveals\\:\\ 0\\.054807340168770875\ \(0\)\
-\-\ 8\\:\\ 0\\.05237897636474342\ \(0\)\
-\-\ boy\\:\\ 0\\.04761838983485199\ \(0\)\
-\-\ ultrasound\\:\\ 0\\.041559386639447596\ \(0\)\
-\-\ abnormal\\:\\ 0\\.03995233180844117\ \(0\)\
-\-\ associated\\:\\ 0\\.03305676330996233\ \(0\)\
-\-\ tumor\\:\\ 0\\.03265954592804609\ \(0\)\
-\-\ lower\\:\\ 0\\.03150593556334201\ \(0\)\
-\-\ history\\:\\ 0\\.019347779306673498\ \(0\)\
-\-\ pain\\:\\ 0\\.017108330615257947\ \(0\)\
-\-\ year\\:\\ 0\\.01567385687332647\ \(0\)\
-\-\ old\\:\\ 0\\.014343190112495978\ \(0\)\
-\-\ to\\:\\ 0\\.007001116531852234\ \(0\)\
-\-\ and\\:\\ 0\\.005901934614171097\ \(0\)\
-\-\ the\\:\\ 0\\.004532763432905764\ \(0\)\
-\-\ with\\:\\ 0\\.003836202494750483\ \(0\)\
-\-\ of\\:\\ 0\\.0019098983737375153\ \(0\)\
-\-\ \\.\\:\\ 0\\.0011639192163064352\ \(0\)\
+Texto: 
+scar lower back
+surgery pending
+lumbosacral intraspinal lipoma tethering the spinal cord to the s1 segment
+
+ultrasound done shortly after birth reveals tethered cord and associated intraspinal lipoma.
+tethered spinal cord with terminal spinal lipoma
+diastemetomyelia
+dermoid tumor
+dysraphism
+spina bifida
+8 year old boy with increasing back pain and abnormal gait.  history of back surgery shortly after  birth
+
+
+Keywords by value: 
+- lipoma: 0.19648705860794072
+- intraspinal: 0.19614115016099287
+- tethered: 0.1876877367412519
+- cord: 0.15969707804288857
+- shortly: 0.1594844165700023
+- spinal: 0.15048079723178293
+- diastemetomyelia: 0.14451669547486062
+- back: 0.1386426066564333
+- birth: 0.13462256467718572
+- spina: 0.11042748987355185
+- dysraphism: 0.10849662043656194
+- tethering: 0.10676939886840087
+- bifida: 0.10378052088817209
+- lumbosacral: 0.08324342304398573
+- terminal: 0.0803851707957107
+- scar: 0.07309523929962142
+- s1: 0.07227539633938107
+- surgery: 0.0680327562085336
+- gait: 0.0652333855248364
+- dermoid: 0.06386127046128481
+- segment: 0.06111347686449368
+- pending: 0.06061515756638924
+- done: 0.05807407976070085
+- after: 0.057967252544564016
+- increasing: 0.05741495811351985
+- reveals: 0.054807340168770875
+- 8: 0.05237897636474342
+- boy: 0.04761838983485199
+- ultrasound: 0.041559386639447596
+- abnormal: 0.03995233180844117
+- associated: 0.03305676330996233
+- tumor: 0.03265954592804609
+- lower: 0.03150593556334201
+- history: 0.019347779306673498
+- pain: 0.017108330615257947
+- year: 0.01567385687332647
+- old: 0.014343190112495978
+- to: 0.007001116531852234
+- and: 0.005901934614171097
+- the: 0.004532763432905764
+- with: 0.003836202494750483
+- of: 0.0019098983737375153
+- .: 0.0011639192163064352

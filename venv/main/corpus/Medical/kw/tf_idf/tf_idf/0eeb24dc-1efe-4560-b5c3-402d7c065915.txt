@@ -1,55 +1,58 @@
-\-\ Texto\\:\\ \ \(0\)\
-\-\ ct\\ images\\ demonstrate\\ a\\ hypodense\\ mass\\ within\\ the\\ right\\ maxillary\\ sinus\\ with\\ surrounding\\ osseous\\ expansion\\ and\\ remodeling\\.\ \(0\)\
-\-\ mri\\ images\\ demonstrate\\ a\\ t2\\ hyperintense\\,\\ t1\\ hypointense\\ rim\\ enhancing\\ mass\\ within\\ the\\ right\\ maxillary\\ sinus\\ with\\ surrounding\\ osseous\\ expansion\\ and\\ remodeling\\.\ \(0\)\
-\-\ mucocele\ \(25\)\
-\-\ mucocele\ \(25\)\
-\-\ inverting\\ papilloma\ \(2\)\
-\-\ polyp\ \(200\)\
-\-\ fungal\\ or\\ granulomatous\\ sinusitis\ \(0\)\
-\-\ squamous\\ cell\\ carcinoma\ \(52\)\
-\-\ 32\\ year\\ old\\ male\\ with\\ a\\ history\\ of\\ chronic\\ sinusitis\\.\ \(1\)\
-\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
-\-\ mucocele\\:\\ 0\\.16763761827630844\ \(0\)\
-\-\ remodeling\\:\\ 0\\.1665944936093644\ \(0\)\
-\-\ sinusitis\\:\\ 0\\.1521328434787264\ \(0\)\
-\-\ maxillary\\:\\ 0\\.14376565223307589\ \(0\)\
-\-\ expansion\\:\\ 0\\.12954917655318174\ \(0\)\
-\-\ osseous\\:\\ 0\\.11163484978848441\ \(0\)\
-\-\ inverting\\:\\ 0\\.10181990533277352\ \(0\)\
-\-\ sinus\\:\\ 0\\.09615873752745963\ \(0\)\
-\-\ surrounding\\:\\ 0\\.08643585428814662\ \(0\)\
-\-\ polyp\\:\\ 0\\.07483499546746263\ \(0\)\
-\-\ hypodense\\:\\ 0\\.07004366995269512\ \(0\)\
-\-\ papilloma\\:\\ 0\\.06605738226026858\ \(0\)\
-\-\ 32\\:\\ 0\\.06556371588255319\ \(0\)\
-\-\ squamous\\:\\ 0\\.06431983747287481\ \(0\)\
-\-\ fungal\\:\\ 0\\.06373368599237833\ \(0\)\
-\-\ granulomatous\\:\\ 0\\.06344877756519007\ \(0\)\
-\-\ hypointense\\:\\ 0\\.06235914598721142\ \(0\)\
-\-\ demonstrate\\:\\ 0\\.06050621973332433\ \(0\)\
-\-\ rim\\:\\ 0\\.05564648296462574\ \(0\)\
-\-\ hyperintense\\:\\ 0\\.054579388690818006\ \(0\)\
-\-\ images\\:\\ 0\\.050438888983057054\ \(0\)\
-\-\ within\\:\\ 0\\.050157889488802516\ \(0\)\
-\-\ t1\\:\\ 0\\.0416691620957576\ \(0\)\
-\-\ enhancing\\:\\ 0\\.04123005435207322\ \(0\)\
-\-\ carcinoma\\:\\ 0\\.037260425692551793\ \(0\)\
-\-\ t2\\:\\ 0\\.037209057980774646\ \(0\)\
-\-\ chronic\\:\\ 0\\.03703060973703077\ \(0\)\
-\-\ mass\\:\\ 0\\.03656803098300199\ \(0\)\
-\-\ cell\\:\\ 0\\.0355113955627921\ \(0\)\
-\-\ mri\\:\\ 0\\.030204243921763383\ \(0\)\
-\-\ right\\:\\ 0\\.02774251412647436\ \(0\)\
-\-\ male\\:\\ 0\\.02377239289057651\ \(0\)\
-\-\ ct\\:\\ 0\\.0183892869752622\ \(0\)\
-\-\ a\\:\\ 0\\.018304606237781598\ \(0\)\
-\-\ history\\:\\ 0\\.018157146733955132\ \(0\)\
-\-\ or\\:\\ 0\\.015408042291749347\ \(0\)\
-\-\ year\\:\\ 0\\.01470931183496792\ \(0\)\
-\-\ old\\:\\ 0\\.013460532259419303\ \(0\)\
-\-\ and\\:\\ 0\\.0055387386379144145\ \(0\)\
-\-\ with\\:\\ 0\\.005400192742610296\ \(0\)\
-\-\ the\\:\\ 0\\.004253824144726948\ \(0\)\
-\-\ \\,\\:\\ 0\\.004164770238727499\ \(0\)\
-\-\ of\\:\\ 0\\.001792366166122899\ \(0\)\
-\-\ \\.\\:\\ 0\\.001638440127569828\ \(0\)\
+Texto: 
+ct images demonstrate a hypodense mass within the right maxillary sinus with surrounding osseous expansion and remodeling.
+
+mri images demonstrate a t2 hyperintense, t1 hypointense rim enhancing mass within the right maxillary sinus with surrounding osseous expansion and remodeling.
+mucocele
+mucocele
+inverting papilloma
+polyp
+fungal or granulomatous sinusitis
+squamous cell carcinoma
+32 year old male with a history of chronic sinusitis.
+
+
+Keywords by value: 
+- mucocele: 0.16763761827630844
+- remodeling: 0.1665944936093644
+- sinusitis: 0.1521328434787264
+- maxillary: 0.14376565223307589
+- expansion: 0.12954917655318174
+- osseous: 0.11163484978848441
+- inverting: 0.10181990533277352
+- sinus: 0.09615873752745963
+- surrounding: 0.08643585428814662
+- polyp: 0.07483499546746263
+- hypodense: 0.07004366995269512
+- papilloma: 0.06605738226026858
+- 32: 0.06556371588255319
+- squamous: 0.06431983747287481
+- fungal: 0.06373368599237833
+- granulomatous: 0.06344877756519007
+- hypointense: 0.06235914598721142
+- demonstrate: 0.06050621973332433
+- rim: 0.05564648296462574
+- hyperintense: 0.054579388690818006
+- images: 0.050438888983057054
+- within: 0.050157889488802516
+- t1: 0.0416691620957576
+- enhancing: 0.04123005435207322
+- carcinoma: 0.037260425692551793
+- t2: 0.037209057980774646
+- chronic: 0.03703060973703077
+- mass: 0.03656803098300199
+- cell: 0.0355113955627921
+- mri: 0.030204243921763383
+- right: 0.02774251412647436
+- male: 0.02377239289057651
+- ct: 0.0183892869752622
+- a: 0.018304606237781598
+- history: 0.018157146733955132
+- or: 0.015408042291749347
+- year: 0.01470931183496792
+- old: 0.013460532259419303
+- and: 0.0055387386379144145
+- with: 0.005400192742610296
+- the: 0.004253824144726948
+- ,: 0.004164770238727499
+- of: 0.001792366166122899
+- .: 0.001638440127569828

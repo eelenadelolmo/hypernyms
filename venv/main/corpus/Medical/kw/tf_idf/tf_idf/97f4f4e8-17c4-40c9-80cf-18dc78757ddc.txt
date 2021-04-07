@@ -1,114 +1,116 @@
-\-\ Texto\\:\\ \ \(0\)\
-\-\ conservative\\ treatment\\,\\ daily\\ follow\\-up\\ chest\\ radiographs\\ performed\\.\\ \\ patient\\ discharged\\ from\\ hospital\\ 5\\ days\\ after\\ event\\.\ \(0\)\
-\-\ pneumomediastinum\\,\\ extensive\\ subcutaneous\\ emphysema\\ in\\ neck\\,\\ pneumopericardium\\.\ \(0\)\
-\-\ pneumomediastinum\\ and\\ pneumopericardium\ \(0\)\
-\-\ pneumothorax\\ \\(especially\\ for\\ appearance\\ at\\ inferior\\ lungs\\)\ \(0\)\
-\-\ stage\\ iva\\ squamous\\ cell\\ carcinoma\\ of\\ the\\ glottic\\ region\\.\\ \\ esophageal\\ dilation\\ today\\ for\\ progressive\\ dysphagia\\.\\ \\ severe\\ onset\\ of\\ pain\\ immediately\\ post\\-dilation\\.\ \(0\)\
-\-\ pneumothorax\\ may\\ be\\ mimicked\\ by\\ extrathoracic\\ air\\ dissecting\\ between\\ the\\ chest\\ wall\\ and\\ parietal\\ pleura\\,\\ or\\ between\\ superior\\ diaphragmatic\\ surface\\ and\\ parietal\\ pleura\\ \\-\\-\\ both\\ examples\\ seen\\ in\\ this\\ case\\.\ \(0\)\
-\-\ ct\\ is\\ the\\ most\\ sensitive\\ and\\ specific\\ way\\ to\\ evaluate\\ for\\ mediastinal\\ air\\.\ \(0\)\
-\-\ although\\ not\\ demonstrated\\ well\\ in\\ this\\ case\\,\\ the\\ abnormal\\ appearance\\ of\\ a\\ \\"continuous\\ diaphragm\\ sign\\"\\ is\\ demonstrated\\ by\\ a\\ lucent\\ line\\ beneath\\ the\\ heart\\ border\\,\\ that\\ \\"connects\\"\\ the\\ bilateral\\ hemidiaphragms\\.\\ air\\ beneath\\ the\\ heart\\ may\\ create\\ this\\ appearance\\.\ \(0\)\
-\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
-\-\ pneumopericardium\\:\\ 0\\.0880719009603998\ \(0\)\
-\-\ beneath\\:\\ 0\\.07830087465210625\ \(0\)\
-\-\ pneumomediastinum\\:\\ 0\\.06819244695512842\ \(0\)\
-\-\ pleura\\:\\ 0\\.06605072792098528\ \(0\)\
-\-\ post\\-dilation\\:\\ 0\\.05650973348696473\ \(0\)\
-\-\ air\\:\\ 0\\.05560120435676858\ \(0\)\
-\-\ glottic\\:\\ 0\\.052066482329529186\ \(0\)\
-\-\ pneumothorax\\:\\ 0\\.05142945357991335\ \(0\)\
-\-\ appearance\\:\\ 0\\.04699820339874311\ \(0\)\
-\-\ parietal\\:\\ 0\\.04680426218003826\ \(0\)\
-\-\ iva\\:\\ 0\\.046192823791874345\ \(0\)\
-\-\ mimicked\\:\\ 0\\.046192823791874345\ \(0\)\
-\-\ dissecting\\:\\ 0\\.0440359504801999\ \(0\)\
-\-\ extrathoracic\\:\\ 0\\.04317998001465809\ \(0\)\
-\-\ hemidiaphragms\\:\\ 0\\.04242496055532229\ \(0\)\
-\-\ connects\\:\\ 0\\.0417495726344388\ \(0\)\
-\-\ examples\\:\\ 0\\.03959269932276435\ \(0\)\
-\-\ create\\:\\ 0\\.03873672885722254\ \(0\)\
-\-\ heart\\:\\ 0\\.03806512370395864\ \(0\)\
-\-\ today\\:\\ 0\\.03587591409678396\ \(0\)\
-\-\ between\\:\\ 0\\.03472430174646466\ \(0\)\
-\-\ demonstrated\\:\\ 0\\.03214641003149958\ \(0\)\
-\-\ way\\:\\ 0\\.03210805086023191\ \(0\)\
-\-\ continuous\\:\\ 0\\.03210805086023191\ \(0\)\
-\-\ diaphragmatic\\:\\ 0\\.031305723020783154\ \(0\)\
-\-\ event\\:\\ 0\\.030263935011182037\ \(0\)\
-\-\ emphysema\\:\\ 0\\.029951177548557473\ \(0\)\
-\-\ sensitive\\:\\ 0\\.029750840731223464\ \(0\)\
-\-\ diaphragm\\:\\ 0\\.029461607171733278\ \(0\)\
-\-\ lucent\\:\\ 0\\.02927578962767397\ \(0\)\
-\-\ subcutaneous\\:\\ 0\\.0285004523814069\ \(0\)\
-\-\ daily\\:\\ 0\\.028340187623679864\ \(0\)\
-\-\ immediately\\:\\ 0\\.027184663111943046\ \(0\)\
-\-\ \\`\\`\\:\\ 0\\.026924808174766883\ \(0\)\
-\-\ squamous\\:\\ 0\\.0267999322803645\ \(0\)\
-\-\ dysphagia\\:\\ 0\\.0266766543192883\ \(0\)\
-\-\ \\'\\'\\:\\ 0\\.026407044897208243\ \(0\)\
-\-\ chest\\:\\ 0\\.026214474359711776\ \(0\)\
-\-\ border\\:\\ 0\\.026093501894892616\ \(0\)\
-\-\ dilation\\:\\ 0\\.02582068385374649\ \(0\)\
-\-\ \\-\\-\\:\\ 0\\.02516134163938939\ \(0\)\
-\-\ discharged\\:\\ 0\\.025113324512920428\ \(0\)\
-\-\ esophageal\\:\\ 0\\.025113324512920428\ \(0\)\
-\-\ surface\\:\\ 0\\.024180085301584945\ \(0\)\
-\-\ may\\:\\ 0\\.02402985088330928\ \(0\)\
-\-\ case\\:\\ 0\\.023968005549580392\ \(0\)\
-\-\ stage\\:\\ 0\\.023365605313643244\ \(0\)\
-\-\ mediastinal\\:\\ 0\\.023257260372600917\ \(0\)\
-\-\ specific\\:\\ 0\\.022643042918131472\ \(0\)\
-\-\ especially\\:\\ 0\\.022546160624477316\ \(0\)\
-\-\ line\\:\\ 0\\.02251418920453476\ \(0\)\
-\-\ evaluate\\:\\ 0\\.022142476014468414\ \(0\)\
-\-\ extensive\\:\\ 0\\.021906126425953496\ \(0\)\
-\-\ conservative\\:\\ 0\\.02187718616727063\ \(0\)\
-\-\ progressive\\:\\ 0\\.021650250737457067\ \(0\)\
-\-\ lungs\\:\\ 0\\.020742234602437664\ \(0\)\
-\-\ hospital\\:\\ 0\\.020622413236975147\ \(0\)\
-\-\ sign\\:\\ 0\\.0189772211651543\ \(0\)\
-\-\ inferior\\:\\ 0\\.018585361290763224\ \(0\)\
-\-\ although\\:\\ 0\\.018499546670362844\ \(0\)\
-\-\ this\\:\\ 0\\.018483407948348712\ \(0\)\
-\-\ by\\:\\ 0\\.01824193465698557\ \(0\)\
-\-\ follow\\-up\\:\\ 0\\.01782074994513937\ \(0\)\
-\-\ superior\\:\\ 0\\.017491946775988407\ \(0\)\
-\-\ radiographs\\:\\ 0\\.01734789000770598\ \(0\)\
-\-\ onset\\:\\ 0\\.017291161704648398\ \(0\)\
-\-\ severe\\:\\ 0\\.016854550000423102\ \(0\)\
-\-\ days\\:\\ 0\\.016788937795974214\ \(0\)\
-\-\ neck\\:\\ 0\\.01608489190396463\ \(0\)\
-\-\ 5\\:\\ 0\\.01602666937464207\ \(0\)\
-\-\ wall\\:\\ 0\\.01586640461691504\ \(0\)\
-\-\ abnormal\\:\\ 0\\.015622386155864816\ \(0\)\
-\-\ carcinoma\\:\\ 0\\.015525177371896579\ \(0\)\
-\-\ region\\:\\ 0\\.015471802738713542\ \(0\)\
-\-\ performed\\:\\ 0\\.015272938020687942\ \(0\)\
-\-\ cell\\:\\ 0\\.014796414817830039\ \(0\)\
-\-\ for\\:\\ 0\\.014021310550821446\ \(0\)\
-\-\ both\\:\\ 0\\.013988461478757187\ \(0\)\
-\-\ bilateral\\:\\ 0\\.013293703393041307\ \(0\)\
-\-\ most\\:\\ 0\\.012646379113641512\ \(0\)\
-\-\ well\\:\\ 0\\.012391544570311865\ \(0\)\
-\-\ after\\:\\ 0\\.011333341042366682\ \(0\)\
-\-\ treatment\\:\\ 0\\.011087288202569788\ \(0\)\
-\-\ seen\\:\\ 0\\.010824535994023655\ \(0\)\
-\-\ \\,\\:\\ 0\\.010411925596818746\ \(0\)\
-\-\ that\\:\\ 0\\.009461414926659124\ \(0\)\
-\-\ be\\:\\ 0\\.008447158482973904\ \(0\)\
-\-\ from\\:\\ 0\\.008118177648424438\ \(0\)\
-\-\ in\\:\\ 0\\.008103792887312595\ \(0\)\
-\-\ not\\:\\ 0\\.007915504306038048\ \(0\)\
-\-\ ct\\:\\ 0\\.007662202906359249\ \(0\)\
-\-\ at\\:\\ 0\\.007421558671997648\ \(0\)\
-\-\ is\\:\\ 0\\.0072088561331375076\ \(0\)\
-\-\ pain\\:\\ 0\\.006689795945709838\ \(0\)\
-\-\ or\\:\\ 0\\.006420017621562227\ \(0\)\
-\-\ the\\:\\ 0\\.006203493544393465\ \(0\)\
-\-\ patient\\:\\ 0\\.005490973916130692\ \(0\)\
-\-\ a\\:\\ 0\\.005084612843828221\ \(0\)\
-\-\ \\(\\:\\ 0\\.004630523886178593\ \(0\)\
-\-\ and\\:\\ 0\\.004615615531595345\ \(0\)\
-\-\ \\)\\:\\ 0\\.004573959564828879\ \(0\)\
-\-\ to\\:\\ 0\\.0027376160797627325\ \(0\)\
-\-\ \\.\\:\\ 0\\.0022756112882914275\ \(0\)\
-\-\ of\\:\\ 0\\.0022404577076536236\ \(0\)\
+Texto: 
+conservative treatment, daily follow-up chest radiographs performed.  patient discharged from hospital 5 days after event.
+pneumomediastinum, extensive subcutaneous emphysema in neck, pneumopericardium.
+pneumomediastinum and pneumopericardium
+pneumothorax (especially for appearance at inferior lungs)
+stage iva squamous cell carcinoma of the glottic region.  esophageal dilation today for progressive dysphagia.  severe onset of pain immediately post-dilation.
+pneumothorax may be mimicked by extrathoracic air dissecting between the chest wall and parietal pleura, or between superior diaphragmatic surface and parietal pleura -- both examples seen in this case.
+ct is the most sensitive and specific way to evaluate for mediastinal air.
+although not demonstrated well in this case, the abnormal appearance of a "continuous diaphragm sign" is demonstrated by a lucent line beneath the heart border, that "connects" the bilateral hemidiaphragms. air beneath the heart may create this appearance.
+
+
+Keywords by value: 
+- pneumopericardium: 0.0880719009603998
+- beneath: 0.07830087465210625
+- pneumomediastinum: 0.06819244695512842
+- pleura: 0.06605072792098528
+- post-dilation: 0.05650973348696473
+- air: 0.05560120435676858
+- glottic: 0.052066482329529186
+- pneumothorax: 0.05142945357991335
+- appearance: 0.04699820339874311
+- parietal: 0.04680426218003826
+- iva: 0.046192823791874345
+- mimicked: 0.046192823791874345
+- dissecting: 0.0440359504801999
+- extrathoracic: 0.04317998001465809
+- hemidiaphragms: 0.04242496055532229
+- connects: 0.0417495726344388
+- examples: 0.03959269932276435
+- create: 0.03873672885722254
+- heart: 0.03806512370395864
+- today: 0.03587591409678396
+- between: 0.03472430174646466
+- demonstrated: 0.03214641003149958
+- way: 0.03210805086023191
+- continuous: 0.03210805086023191
+- diaphragmatic: 0.031305723020783154
+- event: 0.030263935011182037
+- emphysema: 0.029951177548557473
+- sensitive: 0.029750840731223464
+- diaphragm: 0.029461607171733278
+- lucent: 0.02927578962767397
+- subcutaneous: 0.0285004523814069
+- daily: 0.028340187623679864
+- immediately: 0.027184663111943046
+- ``: 0.026924808174766883
+- squamous: 0.0267999322803645
+- dysphagia: 0.0266766543192883
+- '': 0.026407044897208243
+- chest: 0.026214474359711776
+- border: 0.026093501894892616
+- dilation: 0.02582068385374649
+- --: 0.02516134163938939
+- discharged: 0.025113324512920428
+- esophageal: 0.025113324512920428
+- surface: 0.024180085301584945
+- may: 0.02402985088330928
+- case: 0.023968005549580392
+- stage: 0.023365605313643244
+- mediastinal: 0.023257260372600917
+- specific: 0.022643042918131472
+- especially: 0.022546160624477316
+- line: 0.02251418920453476
+- evaluate: 0.022142476014468414
+- extensive: 0.021906126425953496
+- conservative: 0.02187718616727063
+- progressive: 0.021650250737457067
+- lungs: 0.020742234602437664
+- hospital: 0.020622413236975147
+- sign: 0.0189772211651543
+- inferior: 0.018585361290763224
+- although: 0.018499546670362844
+- this: 0.018483407948348712
+- by: 0.01824193465698557
+- follow-up: 0.01782074994513937
+- superior: 0.017491946775988407
+- radiographs: 0.01734789000770598
+- onset: 0.017291161704648398
+- severe: 0.016854550000423102
+- days: 0.016788937795974214
+- neck: 0.01608489190396463
+- 5: 0.01602666937464207
+- wall: 0.01586640461691504
+- abnormal: 0.015622386155864816
+- carcinoma: 0.015525177371896579
+- region: 0.015471802738713542
+- performed: 0.015272938020687942
+- cell: 0.014796414817830039
+- for: 0.014021310550821446
+- both: 0.013988461478757187
+- bilateral: 0.013293703393041307
+- most: 0.012646379113641512
+- well: 0.012391544570311865
+- after: 0.011333341042366682
+- treatment: 0.011087288202569788
+- seen: 0.010824535994023655
+- ,: 0.010411925596818746
+- that: 0.009461414926659124
+- be: 0.008447158482973904
+- from: 0.008118177648424438
+- in: 0.008103792887312595
+- not: 0.007915504306038048
+- ct: 0.007662202906359249
+- at: 0.007421558671997648
+- is: 0.0072088561331375076
+- pain: 0.006689795945709838
+- or: 0.006420017621562227
+- the: 0.006203493544393465
+- patient: 0.005490973916130692
+- a: 0.005084612843828221
+- (: 0.004630523886178593
+- and: 0.004615615531595345
+- ): 0.004573959564828879
+- to: 0.0027376160797627325
+- .: 0.0022756112882914275
+- of: 0.0022404577076536236

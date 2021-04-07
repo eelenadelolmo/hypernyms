@@ -1,52 +1,54 @@
-\-\ Texto\\:\\ \ \(0\)\
-\-\ n\\/a\ \(127\)\
-\-\ n\\/a\ \(127\)\
-\-\ cardiomegaly\ \(43\)\
-\-\ pulmonary\\ vasculature\\ prominence\ \(0\)\
-\-\ sclerosis\\ and\\ surface\\ irregularity\\ of\\ the\\ humeral\\ heads\ \(0\)\
-\-\ sickle\\ cell\\ anemia\ \(14\)\
-\-\ cardiomegaly\\:\\ congestive\\ heart\\ failure\\,\\ dialated\\ cardiomyopathy\\,\\ pericardial\\ effusion\\.\ \(0\)\
-\-\ prominence\\ of\\ pulmonary\\ vasculature\\:\\ cardiogenic\\ pulmonary\\ interstitial\\ edema\\,\\ pulmonary\\ hypertension\\.\ \(0\)\
-\-\ sclerosis\\ and\\ irregular\\ cortical\\ surfaces\\ of\\ both\\ humeral\\ heads\\:\\ prior\\ trauma\\,\\ osteonecrosis\\.\ \(0\)\
-\-\ sickle\\ cell\\ anemia\ \(14\)\
-\-\ see\\ factoid\ \(116\)\
-\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
-\-\ heads\\:\\ 0\\.16703007304000364\ \(0\)\
-\-\ prominence\\:\\ 0\\.16304252607332048\ \(0\)\
-\-\ pulmonary\\:\\ 0\\.1610677619496815\ \(0\)\
-\-\ cardiomegaly\\:\\ 0\\.16086700088636785\ \(0\)\
-\-\ sickle\\:\\ 0\\.15229593102401284\ \(0\)\
-\-\ vasculature\\:\\ 0\\.14971390819583422\ \(0\)\
-\-\ humeral\\:\\ 0\\.1459696446070357\ \(0\)\
-\-\ anemia\\:\\ 0\\.1371345236289891\ \(0\)\
-\-\ dialated\\:\\ 0\\.11982619456204205\ \(0\)\
-\-\ cardiogenic\\:\\ 0\\.10674667494564964\ \(0\)\
-\-\ n\\/a\\:\\ 0\\.09984537572126086\ \(0\)\
-\-\ sclerosis\\:\\ 0\\.09901016882020468\ \(0\)\
-\-\ cardiomyopathy\\:\\ 0\\.09556688171081183\ \(0\)\
-\-\ surfaces\\:\\ 0\\.08963583687008089\ \(0\)\
-\-\ congestive\\:\\ 0\\.08530899837661833\ \(0\)\
-\-\ osteonecrosis\\:\\ 0\\.08484145745930781\ \(0\)\
-\-\ cell\\:\\ 0\\.07445937779295117\ \(0\)\
-\-\ pericardial\\:\\ 0\\.07412920514178051\ \(0\)\
-\-\ irregularity\\:\\ 0\\.07366166422446999\ \(0\)\
-\-\ interstitial\\:\\ 0\\.0674320876731752\ \(0\)\
-\-\ surface\\:\\ 0\\.06084021462979438\ \(0\)\
-\-\ irregular\\:\\ 0\\.0549733331049416\ \(0\)\
-\-\ \\:\\:\\ 0\\.05469071690277411\ \(0\)\
-\-\ hypertension\\:\\ 0\\.05433517826290626\ \(0\)\
-\-\ failure\\:\\ 0\\.05399126262631237\ \(0\)\
-\-\ effusion\\:\\ 0\\.05237377290653873\ \(0\)\
-\-\ cortical\\:\\ 0\\.05024314275122277\ \(0\)\
-\-\ factoid\\:\\ 0\\.04831347570345382\ \(0\)\
-\-\ heart\\:\\ 0\\.047888381434012486\ \(0\)\
-\-\ see\\:\\ 0\\.04113253566498045\ \(0\)\
-\-\ edema\\:\\ 0\\.03898263692631114\ \(0\)\
-\-\ trauma\\:\\ 0\\.037693690028353696\ \(0\)\
-\-\ prior\\:\\ 0\\.03538891568068328\ \(0\)\
-\-\ both\\:\\ 0\\.03519677404332454\ \(0\)\
-\-\ \\,\\:\\ 0\\.017465165517244346\ \(0\)\
-\-\ and\\:\\ 0\\.005806742120394144\ \(0\)\
-\-\ of\\:\\ 0\\.005637280683773634\ \(0\)\
-\-\ the\\:\\ 0\\.002229827172639126\ \(0\)\
-\-\ \\.\\:\\ 0\\.0017177194885812713\ \(0\)\
+Texto: 
+n/a
+n/a
+cardiomegaly
+pulmonary vasculature prominence
+sclerosis and surface irregularity of the humeral heads
+sickle cell anemia
+cardiomegaly: congestive heart failure, dialated cardiomyopathy, pericardial effusion.
+prominence of pulmonary vasculature: cardiogenic pulmonary interstitial edema, pulmonary hypertension.
+sclerosis and irregular cortical surfaces of both humeral heads: prior trauma, osteonecrosis.
+sickle cell anemia
+see factoid
+
+
+Keywords by value: 
+- heads: 0.16703007304000364
+- prominence: 0.16304252607332048
+- pulmonary: 0.1610677619496815
+- cardiomegaly: 0.16086700088636785
+- sickle: 0.15229593102401284
+- vasculature: 0.14971390819583422
+- humeral: 0.1459696446070357
+- anemia: 0.1371345236289891
+- dialated: 0.11982619456204205
+- cardiogenic: 0.10674667494564964
+- n/a: 0.09984537572126086
+- sclerosis: 0.09901016882020468
+- cardiomyopathy: 0.09556688171081183
+- surfaces: 0.08963583687008089
+- congestive: 0.08530899837661833
+- osteonecrosis: 0.08484145745930781
+- cell: 0.07445937779295117
+- pericardial: 0.07412920514178051
+- irregularity: 0.07366166422446999
+- interstitial: 0.0674320876731752
+- surface: 0.06084021462979438
+- irregular: 0.0549733331049416
+- :: 0.05469071690277411
+- hypertension: 0.05433517826290626
+- failure: 0.05399126262631237
+- effusion: 0.05237377290653873
+- cortical: 0.05024314275122277
+- factoid: 0.04831347570345382
+- heart: 0.047888381434012486
+- see: 0.04113253566498045
+- edema: 0.03898263692631114
+- trauma: 0.037693690028353696
+- prior: 0.03538891568068328
+- both: 0.03519677404332454
+- ,: 0.017465165517244346
+- and: 0.005806742120394144
+- of: 0.005637280683773634
+- the: 0.002229827172639126
+- .: 0.0017177194885812713

@@ -1,68 +1,70 @@
-\-\ Texto\\:\\ \ \(0\)\
-\-\ diffuse\\ crackles\\ on\\ auscultation\\ of\\ the\\ lungs\\.\ \(0\)\
-\-\ acyanotic\\.\ \(0\)\
-\-\ none\\ required\\.\ \(0\)\
-\-\ initial\\ frontal\\ radiograph\\ of\\ the\\ chest\\ demonstrates\\ normal\\ lung\\ volumes\\,\\ indistinct\\ pulmonary\\ vascularity\\,\\ and\\ hazy\\ interstitial\\ markings\\ diffusely\\ throughout\\ the\\ lungs\\.\\ \\ subsequent\\ frontal\\ radiograph\\ of\\ the\\ chest\\ obtained\\ 12\\ hours\\ later\\ demonstrates\\ resolution\\ of\\ these\\ findings\\.\ \(0\)\
-\-\ transient\\ tachypnea\\ of\\ the\\ newborn\\ \\(ttn\\)\ \(0\)\
-\-\ transient\\ tachypnea\\ of\\ the\\ newborn\ \(0\)\
-\-\ neonatal\\ pneumonia\ \(0\)\
-\-\ meconium\\ aspiration\ \(1\)\
-\-\ term\\ newborn\\ infant\\ delivered\\ via\\ cesarean\\ section\\ in\\ respiratory\\ distress\\.\ \(0\)\
-\-\ none\\.\ \(8\)\
-\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
-\-\ newborn\\:\\ 0\\.16831212074482502\ \(0\)\
-\-\ tachypnea\\:\\ 0\\.12235780254658143\ \(0\)\
-\-\ transient\\:\\ 0\\.11146659474554392\ \(0\)\
-\-\ ttn\\:\\ 0\\.09785989449887414\ \(0\)\
-\-\ acyanotic\\:\\ 0\\.09297477271443842\ \(0\)\
-\-\ lungs\\:\\ 0\\.07797080958988617\ \(0\)\
-\-\ cesarean\\:\\ 0\\.07530806104222845\ \(0\)\
-\-\ hazy\\:\\ 0\\.07207596481819617\ \(0\)\
-\-\ volumes\\:\\ 0\\.0689695900073275\ \(0\)\
-\-\ meconium\\:\\ 0\\.06843402660285963\ \(0\)\
-\-\ indistinct\\:\\ 0\\.06742942890479876\ \(0\)\
-\-\ delivered\\:\\ 0\\.06564123607204848\ \(0\)\
-\-\ radiograph\\:\\ 0\\.06558912419087622\ \(0\)\
-\-\ frontal\\:\\ 0\\.06468173336104475\ \(0\)\
-\-\ neonatal\\:\\ 0\\.06176673457653689\ \(0\)\
-\-\ crackles\\:\\ 0\\.059823744846463134\ \(0\)\
-\-\ markings\\:\\ 0\\.05708410819350336\ \(0\)\
-\-\ vascularity\\:\\ 0\\.05688161279210118\ \(0\)\
-\-\ section\\:\\ 0\\.05519773396830408\ \(0\)\
-\-\ auscultation\\:\\ 0\\.05240494343749295\ \(0\)\
-\-\ diffusely\\:\\ 0\\.051996491007665464\ \(0\)\
-\-\ none\\:\\ 0\\.051077578479711006\ \(0\)\
-\-\ interstitial\\:\\ 0\\.050370957057070634\ \(0\)\
-\-\ chest\\:\\ 0\\.049270578314639005\ \(0\)\
-\-\ infant\\:\\ 0\\.048732937343383534\ \(0\)\
-\-\ aspiration\\:\\ 0\\.048530441941981355\ \(0\)\
-\-\ term\\:\\ 0\\.04711136922322975\ \(0\)\
-\-\ demonstrates\\:\\ 0\\.044978824136221354\ \(0\)\
-\-\ resolution\\:\\ 0\\.04440505673546295\ \(0\)\
-\-\ via\\:\\ 0\\.04419305960425356\ \(0\)\
-\-\ distress\\:\\ 0\\.04338051405250015\ \(0\)\
-\-\ respiratory\\:\\ 0\\.04274289475786952\ \(0\)\
-\-\ pneumonia\\:\\ 0\\.04255800837624711\ \(0\)\
-\-\ 12\\:\\ 0\\.042137330483400987\ \(0\)\
-\-\ hours\\:\\ 0\\.04048430492299755\ \(0\)\
-\-\ subsequent\\:\\ 0\\.04007928551578086\ \(0\)\
-\-\ throughout\\:\\ 0\\.03853912441325213\ \(0\)\
-\-\ later\\:\\ 0\\.037173718566179806\ \(0\)\
-\-\ required\\:\\ 0\\.03705693387695499\ \(0\)\
-\-\ obtained\\:\\ 0\\.03660079639450412\ \(0\)\
-\-\ initial\\:\\ 0\\.03411544750938925\ \(0\)\
-\-\ diffuse\\:\\ 0\\.03116876410090741\ \(0\)\
-\-\ pulmonary\\:\\ 0\\.03007891940024173\ \(0\)\
-\-\ lung\\:\\ 0\\.02982119421974393\ \(0\)\
-\-\ these\\:\\ 0\\.026793309541660724\ \(0\)\
-\-\ findings\\:\\ 0\\.02191369802156578\ \(0\)\
-\-\ normal\\:\\ 0\\.016139909091555434\ \(0\)\
-\-\ the\\:\\ 0\\.009993924195442828\ \(0\)\
-\-\ on\\:\\ 0\\.008721578462234073\ \(0\)\
-\-\ \\(\\:\\ 0\\.008703153328239285\ \(0\)\
-\-\ \\)\\:\\ 0\\.008596839664015725\ \(0\)\
-\-\ of\\:\\ 0\\.008421961503469043\ \(0\)\
-\-\ \\,\\:\\ 0\\.0065231341088502984\ \(0\)\
-\-\ in\\:\\ 0\\.005077075061930783\ \(0\)\
-\-\ \\.\\:\\ 0\\.002993936779294264\ \(0\)\
-\-\ and\\:\\ 0\\.0021687832015929937\ \(0\)\
+Texto: 
+diffuse crackles on auscultation of the lungs.
+acyanotic.
+none required.
+initial frontal radiograph of the chest demonstrates normal lung volumes, indistinct pulmonary vascularity, and hazy interstitial markings diffusely throughout the lungs.  subsequent frontal radiograph of the chest obtained 12 hours later demonstrates resolution of these findings.
+transient tachypnea of the newborn (ttn)
+transient tachypnea of the newborn
+neonatal pneumonia
+meconium aspiration
+term newborn infant delivered via cesarean section in respiratory distress.
+none.
+
+
+Keywords by value: 
+- newborn: 0.16831212074482502
+- tachypnea: 0.12235780254658143
+- transient: 0.11146659474554392
+- ttn: 0.09785989449887414
+- acyanotic: 0.09297477271443842
+- lungs: 0.07797080958988617
+- cesarean: 0.07530806104222845
+- hazy: 0.07207596481819617
+- volumes: 0.0689695900073275
+- meconium: 0.06843402660285963
+- indistinct: 0.06742942890479876
+- delivered: 0.06564123607204848
+- radiograph: 0.06558912419087622
+- frontal: 0.06468173336104475
+- neonatal: 0.06176673457653689
+- crackles: 0.059823744846463134
+- markings: 0.05708410819350336
+- vascularity: 0.05688161279210118
+- section: 0.05519773396830408
+- auscultation: 0.05240494343749295
+- diffusely: 0.051996491007665464
+- none: 0.051077578479711006
+- interstitial: 0.050370957057070634
+- chest: 0.049270578314639005
+- infant: 0.048732937343383534
+- aspiration: 0.048530441941981355
+- term: 0.04711136922322975
+- demonstrates: 0.044978824136221354
+- resolution: 0.04440505673546295
+- via: 0.04419305960425356
+- distress: 0.04338051405250015
+- respiratory: 0.04274289475786952
+- pneumonia: 0.04255800837624711
+- 12: 0.042137330483400987
+- hours: 0.04048430492299755
+- subsequent: 0.04007928551578086
+- throughout: 0.03853912441325213
+- later: 0.037173718566179806
+- required: 0.03705693387695499
+- obtained: 0.03660079639450412
+- initial: 0.03411544750938925
+- diffuse: 0.03116876410090741
+- pulmonary: 0.03007891940024173
+- lung: 0.02982119421974393
+- these: 0.026793309541660724
+- findings: 0.02191369802156578
+- normal: 0.016139909091555434
+- the: 0.009993924195442828
+- on: 0.008721578462234073
+- (: 0.008703153328239285
+- ): 0.008596839664015725
+- of: 0.008421961503469043
+- ,: 0.0065231341088502984
+- in: 0.005077075061930783
+- .: 0.002993936779294264
+- and: 0.0021687832015929937

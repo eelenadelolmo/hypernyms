@@ -1,127 +1,129 @@
-\-\ Texto\\:\\ \ \(0\)\
-\-\ tender\\,\\ tense\\,\\ erythematous\\ right\\ groin\\.\ \(0\)\
-\-\ wbc\\ 12k\ \(0\)\
-\-\ blood\\ cultures\\ positive\\ for\\ staph\\ aureus\ \(0\)\
-\-\ the\\ patient\\ went\\ to\\ surgery\\ where\\ the\\ hematoma\\ was\\ evacuated\\ and\\ the\\ the\\ femoral\\ artery\\ was\\ patched\\ with\\ a\\ saphenous\\ vein\\ graft\\.\ \(0\)\
-\-\ multiple\\ views\\ of\\ the\\ pelvis\\ show\\ pseudoaneurysm\\ of\\ the\\ right\\ femoral\\ artery\\ at\\ the\\ level\\ just\\ inferior\\ to\\ the\\ inguinal\\ canal\\ with\\ hematoma\\ tracking\\ superiorly\\.\\ \\ there\\ is\\ active\\ extravasation\\ of\\ contrast\\ material\\ at\\ the\\ site\\ of\\ the\\ previous\\ cardiac\\ catheterization\\.\ \(0\)\
-\-\ femoral\\ artery\\ pseudoaneurysm\ \(2\)\
-\-\ pseudoaneurysm\ \(57\)\
-\-\ contained\\ rupture\\ of\\ the\\ femoral\\ artery\ \(0\)\
-\-\ 58\\ year\\ old\\ female\\ who\\ resented\\ approximately\\ 3\\ weeks\\ ago\\ with\\ chest\\ pain\\.\\ \\ she\\ had\\ a\\ right\\ femoral\\ artery\\ catheterization\\ which\\ showed\\ no\\ significant\\ blockage\\.\\ \\ she\\ represented\\ to\\ the\\ er\\ approximately\\ 4\\ days\\ later\\ with\\ worsening\\ right\\ groin\\ pain\\.\\ \\ us\\ for\\ dvt\\ was\\ unsuccessful\\ due\\ to\\ patient\\ apin\\.\\ \\ blood\\ cultures\\ were\\ taken\\.\\ \\ the\\ patient\\ presented\\ again\\ for\\ worsening\\ pain\\ and\\ a\\ ct\\ of\\ the\\ abdomen\\/pelvis\\ was\\ obtained\\.\ \(0\)\
-\-\ pseudoaneurysms\\ can\\ be\\ thrombosed\\ with\\ intrarterial\\ injection\\ of\\ thrombin\\ or\\ treated\\ by\\ inserting\\ a\\ graft\\ at\\ the\\ location\\ of\\ the\\ bleeding\\.\\ \\ however\\,\\ due\\ to\\ the\\ infection\\ at\\ the\\ operative\\ site\\ these\\ were\\ not\\ options\\.\ \(0\)\
-\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
-\-\ femoral\\:\\ 0\\.08087059742895036\ \(0\)\
-\-\ pseudoaneurysm\\:\\ 0\\.07728257110806139\ \(0\)\
-\-\ artery\\:\\ 0\\.06329676597284077\ \(0\)\
-\-\ catheterization\\:\\ 0\\.05456033745065964\ \(0\)\
-\-\ graft\\:\\ 0\\.05029172446042722\ \(0\)\
-\-\ groin\\:\\ 0\\.049406674848322785\ \(0\)\
-\-\ 12k\\:\\ 0\\.043858300616748745\ \(0\)\
-\-\ patched\\:\\ 0\\.043858300616748745\ \(0\)\
-\-\ resented\\:\\ 0\\.043858300616748745\ \(0\)\
-\-\ apin\\:\\ 0\\.043858300616748745\ \(0\)\
-\-\ intrarterial\\:\\ 0\\.043858300616748745\ \(0\)\
-\-\ cultures\\:\\ 0\\.0437480379718398\ \(0\)\
-\-\ site\\:\\ 0\\.03593544016805674\ \(0\)\
-\-\ saphenous\\:\\ 0\\.03585114682354427\ \(0\)\
-\-\ inserting\\:\\ 0\\.03585114682354427\ \(0\)\
-\-\ tense\\:\\ 0\\.034177155596573056\ \(0\)\
-\-\ pseudoaneurysms\\:\\ 0\\.03351282030988389\ \(0\)\
-\-\ worsening\\:\\ 0\\.03347741264080396\ \(0\)\
-\-\ represented\\:\\ 0\\.03292683505786208\ \(0\)\
-\-\ thrombin\\:\\ 0\\.03292683505786208\ \(0\)\
-\-\ staph\\:\\ 0\\.03192847338889616\ \(0\)\
-\-\ blockage\\:\\ 0\\.03072866216095144\ \(0\)\
-\-\ hematoma\\:\\ 0\\.030258376899722286\ \(0\)\
-\-\ thrombosed\\:\\ 0\\.02895415995230103\ \(0\)\
-\-\ unsuccessful\\:\\ 0\\.028711422817129725\ \(0\)\
-\-\ evacuated\\:\\ 0\\.028479979953274538\ \(0\)\
-\-\ aureus\\:\\ 0\\.028047087530440558\ \(0\)\
-\-\ tracking\\:\\ 0\\.028047087530440558\ \(0\)\
-\-\ abdomen\\/pelvis\\:\\ 0\\.028047087530440558\ \(0\)\
-\-\ contained\\:\\ 0\\.027105585044676736\ \(0\)\
-\-\ dvt\\:\\ 0\\.026773787161598766\ \(0\)\
-\-\ approximately\\:\\ 0\\.02630664504035406\ \(0\)\
-\-\ extravasation\\:\\ 0\\.02617000180336858\ \(0\)\
-\-\ erythematous\\:\\ 0\\.024703337424161392\ \(0\)\
-\-\ inguinal\\:\\ 0\\.023921319595691676\ \(0\)\
-\-\ she\\:\\ 0\\.023868518820439524\ \(0\)\
-\-\ superiorly\\:\\ 0\\.02365709160905512\ \(0\)\
-\-\ 58\\:\\ 0\\.0234884271728577\ \(0\)\
-\-\ blood\\:\\ 0\\.02320807037322686\ \(0\)\
-\-\ at\\:\\ 0\\.02304006274291807\ \(0\)\
-\-\ operative\\:\\ 0\\.022939431863559862\ \(0\)\
-\-\ due\\:\\ 0\\.022689324905003378\ \(0\)\
-\-\ went\\:\\ 0\\.022650938044403893\ \(0\)\
-\-\ options\\:\\ 0\\.02065711109380314\ \(0\)\
-\-\ again\\:\\ 0\\.020427802102757037\ \(0\)\
-\-\ injection\\:\\ 0\\.01983683923713531\ \(0\)\
-\-\ was\\:\\ 0\\.019667214372411677\ \(0\)\
-\-\ were\\:\\ 0\\.019306331708357424\ \(0\)\
-\-\ material\\:\\ 0\\.01899654801095713\ \(0\)\
-\-\ bleeding\\:\\ 0\\.018455586816248346\ \(0\)\
-\-\ rupture\\:\\ 0\\.018050411035451457\ \(0\)\
-\-\ right\\:\\ 0\\.017942919584286898\ \(0\)\
-\-\ us\\:\\ 0\\.01783288461249707\ \(0\)\
-\-\ just\\:\\ 0\\.017753703242815982\ \(0\)\
-\-\ taken\\:\\ 0\\.017727587044377456\ \(0\)\
-\-\ views\\:\\ 0\\.017523450742497542\ \(0\)\
-\-\ where\\:\\ 0\\.017351454005855308\ \(0\)\
-\-\ tender\\:\\ 0\\.01725577558830363\ \(0\)\
-\-\ canal\\:\\ 0\\.016890464799473693\ \(0\)\
-\-\ previous\\:\\ 0\\.01650920496852386\ \(0\)\
-\-\ er\\:\\ 0\\.01630937391516399\ \(0\)\
-\-\ active\\:\\ 0\\.01623163601514866\ \(0\)\
-\-\ cardiac\\:\\ 0\\.01619321787537796\ \(0\)\
-\-\ ago\\:\\ 0\\.015824521496503725\ \(0\)\
-\-\ pain\\:\\ 0\\.015576241306428876\ \(0\)\
-\-\ wbc\\:\\ 0\\.015497884828735382\ \(0\)\
-\-\ pelvis\\:\\ 0\\.015448215953192183\ \(0\)\
-\-\ vein\\:\\ 0\\.015382752845841379\ \(0\)\
-\-\ later\\:\\ 0\\.015350341497477233\ \(0\)\
-\-\ obtained\\:\\ 0\\.015113761695242995\ \(0\)\
-\-\ location\\:\\ 0\\.014829391477133797\ \(0\)\
-\-\ inferior\\:\\ 0\\.014424459509249069\ \(0\)\
-\-\ showed\\:\\ 0\\.013939319740913914\ \(0\)\
-\-\ positive\\:\\ 0\\.013795450697930929\ \(0\)\
-\-\ show\\:\\ 0\\.01305052703727177\ \(0\)\
-\-\ days\\:\\ 0\\.013030220378965063\ \(0\)\
-\-\ patient\\:\\ 0\\.01278495419278191\ \(0\)\
-\-\ treated\\:\\ 0\\.012725626050168453\ \(0\)\
-\-\ the\\:\\ 0\\.012380532958533653\ \(0\)\
-\-\ infection\\:\\ 0\\.012358291413297548\ \(0\)\
-\-\ level\\:\\ 0\\.012253179242024537\ \(0\)\
-\-\ weeks\\:\\ 0\\.012066058492045513\ \(0\)\
-\-\ 4\\:\\ 0\\.011845631369049975\ \(0\)\
-\-\ however\\:\\ 0\\.011837652017895873\ \(0\)\
-\-\ presented\\:\\ 0\\.01158884395533537\ \(0\)\
-\-\ significant\\:\\ 0\\.01143207537837922\ \(0\)\
-\-\ who\\:\\ 0\\.011084419945978616\ \(0\)\
-\-\ these\\:\\ 0\\.011063903940088757\ \(0\)\
-\-\ for\\:\\ 0\\.010882211173771868\ \(0\)\
-\-\ to\\:\\ 0\\.010623584787138962\ \(0\)\
-\-\ surgery\\:\\ 0\\.01032337842965311\ \(0\)\
-\-\ chest\\:\\ 0\\.010172781094813526\ \(0\)\
-\-\ 3\\:\\ 0\\.009955102122918108\ \(0\)\
-\-\ can\\:\\ 0\\.00964289727596552\ \(0\)\
-\-\ contrast\\:\\ 0\\.009516296949293061\ \(0\)\
-\-\ had\\:\\ 0\\.009173382185277155\ \(0\)\
-\-\ multiple\\:\\ 0\\.008954258723777458\ \(0\)\
-\-\ female\\:\\ 0\\.008740100852974296\ \(0\)\
-\-\ which\\:\\ 0\\.007936042722599745\ \(0\)\
-\-\ a\\:\\ 0\\.007892533369524403\ \(0\)\
-\-\ by\\:\\ 0\\.007078959717636193\ \(0\)\
-\-\ be\\:\\ 0\\.006556003598726015\ \(0\)\
-\-\ there\\:\\ 0\\.006326943066989993\ \(0\)\
-\-\ not\\:\\ 0\\.006143376476328037\ \(0\)\
-\-\ ct\\:\\ 0\\.005946784345234045\ \(0\)\
-\-\ or\\:\\ 0\\.004982700243600535\ \(0\)\
-\-\ year\\:\\ 0\\.004756742633198581\ \(0\)\
-\-\ of\\:\\ 0\\.004636967195939838\ \(0\)\
-\-\ old\\:\\ 0\\.004352908442100769\ \(0\)\
-\-\ no\\:\\ 0\\.004280816670168169\ \(0\)\
-\-\ \\,\\:\\ 0\\.004040448739063991\ \(0\)\
-\-\ with\\:\\ 0\\.002910551644027108\ \(0\)\
-\-\ is\\:\\ 0\\.002797466559127988\ \(0\)\
-\-\ \\.\\:\\ 0\\.0021193752893938073\ \(0\)\
-\-\ and\\:\\ 0\\.0017911343853952084\ \(0\)\
+Texto: 
+tender, tense, erythematous right groin.
+wbc 12k
+blood cultures positive for staph aureus
+the patient went to surgery where the hematoma was evacuated and the the femoral artery was patched with a saphenous vein graft.
+multiple views of the pelvis show pseudoaneurysm of the right femoral artery at the level just inferior to the inguinal canal with hematoma tracking superiorly.  there is active extravasation of contrast material at the site of the previous cardiac catheterization.
+femoral artery pseudoaneurysm
+pseudoaneurysm
+contained rupture of the femoral artery
+58 year old female who resented approximately 3 weeks ago with chest pain.  she had a right femoral artery catheterization which showed no significant blockage.  she represented to the er approximately 4 days later with worsening right groin pain.  us for dvt was unsuccessful due to patient apin.  blood cultures were taken.  the patient presented again for worsening pain and a ct of the abdomen/pelvis was obtained.
+pseudoaneurysms can be thrombosed with intrarterial injection of thrombin or treated by inserting a graft at the location of the bleeding.  however, due to the infection at the operative site these were not options.
+
+
+Keywords by value: 
+- femoral: 0.08087059742895036
+- pseudoaneurysm: 0.07728257110806139
+- artery: 0.06329676597284077
+- catheterization: 0.05456033745065964
+- graft: 0.05029172446042722
+- groin: 0.049406674848322785
+- 12k: 0.043858300616748745
+- patched: 0.043858300616748745
+- resented: 0.043858300616748745
+- apin: 0.043858300616748745
+- intrarterial: 0.043858300616748745
+- cultures: 0.0437480379718398
+- site: 0.03593544016805674
+- saphenous: 0.03585114682354427
+- inserting: 0.03585114682354427
+- tense: 0.034177155596573056
+- pseudoaneurysms: 0.03351282030988389
+- worsening: 0.03347741264080396
+- represented: 0.03292683505786208
+- thrombin: 0.03292683505786208
+- staph: 0.03192847338889616
+- blockage: 0.03072866216095144
+- hematoma: 0.030258376899722286
+- thrombosed: 0.02895415995230103
+- unsuccessful: 0.028711422817129725
+- evacuated: 0.028479979953274538
+- aureus: 0.028047087530440558
+- tracking: 0.028047087530440558
+- abdomen/pelvis: 0.028047087530440558
+- contained: 0.027105585044676736
+- dvt: 0.026773787161598766
+- approximately: 0.02630664504035406
+- extravasation: 0.02617000180336858
+- erythematous: 0.024703337424161392
+- inguinal: 0.023921319595691676
+- she: 0.023868518820439524
+- superiorly: 0.02365709160905512
+- 58: 0.0234884271728577
+- blood: 0.02320807037322686
+- at: 0.02304006274291807
+- operative: 0.022939431863559862
+- due: 0.022689324905003378
+- went: 0.022650938044403893
+- options: 0.02065711109380314
+- again: 0.020427802102757037
+- injection: 0.01983683923713531
+- was: 0.019667214372411677
+- were: 0.019306331708357424
+- material: 0.01899654801095713
+- bleeding: 0.018455586816248346
+- rupture: 0.018050411035451457
+- right: 0.017942919584286898
+- us: 0.01783288461249707
+- just: 0.017753703242815982
+- taken: 0.017727587044377456
+- views: 0.017523450742497542
+- where: 0.017351454005855308
+- tender: 0.01725577558830363
+- canal: 0.016890464799473693
+- previous: 0.01650920496852386
+- er: 0.01630937391516399
+- active: 0.01623163601514866
+- cardiac: 0.01619321787537796
+- ago: 0.015824521496503725
+- pain: 0.015576241306428876
+- wbc: 0.015497884828735382
+- pelvis: 0.015448215953192183
+- vein: 0.015382752845841379
+- later: 0.015350341497477233
+- obtained: 0.015113761695242995
+- location: 0.014829391477133797
+- inferior: 0.014424459509249069
+- showed: 0.013939319740913914
+- positive: 0.013795450697930929
+- show: 0.01305052703727177
+- days: 0.013030220378965063
+- patient: 0.01278495419278191
+- treated: 0.012725626050168453
+- the: 0.012380532958533653
+- infection: 0.012358291413297548
+- level: 0.012253179242024537
+- weeks: 0.012066058492045513
+- 4: 0.011845631369049975
+- however: 0.011837652017895873
+- presented: 0.01158884395533537
+- significant: 0.01143207537837922
+- who: 0.011084419945978616
+- these: 0.011063903940088757
+- for: 0.010882211173771868
+- to: 0.010623584787138962
+- surgery: 0.01032337842965311
+- chest: 0.010172781094813526
+- 3: 0.009955102122918108
+- can: 0.00964289727596552
+- contrast: 0.009516296949293061
+- had: 0.009173382185277155
+- multiple: 0.008954258723777458
+- female: 0.008740100852974296
+- which: 0.007936042722599745
+- a: 0.007892533369524403
+- by: 0.007078959717636193
+- be: 0.006556003598726015
+- there: 0.006326943066989993
+- not: 0.006143376476328037
+- ct: 0.005946784345234045
+- or: 0.004982700243600535
+- year: 0.004756742633198581
+- of: 0.004636967195939838
+- old: 0.004352908442100769
+- no: 0.004280816670168169
+- ,: 0.004040448739063991
+- with: 0.002910551644027108
+- is: 0.002797466559127988
+- .: 0.0021193752893938073
+- and: 0.0017911343853952084

@@ -1,102 +1,105 @@
-\-\ Texto\\:\\ \ \(0\)\
-\-\ physical\\ exam\\ unknown\\.\ \(0\)\
-\-\ canca\\ neg\\.\ \(0\)\
-\-\ the\\ patient\\ was\\ intubated\\ and\\ subsequently\\ underwent\\ tracheostomy\\.\\ \\ she\\ is\\ currently\\ still\\ in\\ the\\ intensive\\ care\\ unit\\,\\ day\\ 20\\.\ \(0\)\
-\-\ diffuse\\,\\ bilateral\\,\\ hazy\\ airspace\\ opacities\\ predominately\\ in\\ the\\ mid\\ to\\ low\\ lung\\ zones\\.\\ \\ overall\\,\\ these\\ findings\\ are\\ nonspecific\\,\\ but\\ with\\ known\\ history\\ of\\ pulmonary\\ hemorrhage\\ after\\ bronchoscopy\\ or\\ clinical\\ findings\\ of\\ hemoptysis\\ and\\ anemia\\,\\ these\\ findings\\ are\\ consistent\\ with\\ diffuse\\ pulmonary\\ hemorrhage\\.\ \(0\)\
-\-\ pulmonary\\ hemorrhage\\ and\\ pulmonary\\-renal\\ syndrome\ \(0\)\
-\-\ pulmonary\\ hemorrhage\\ with\\ renal\\ disease\\:\\ \\ wegener\\â\\€\\™s\\ granulomatosis\\,\\ systemic\\ lupus\\ erythematosus\\,\\ goodpasture\\â\\€\\™s\\ syndrome\\,\\ other\\ vasculitides\ \(0\)\
-\-\ pulmonary\\ hemorrhage\\ without\\ renal\\ disease\\:\\ \\ anitcoagulation\\,\\ pulmonary\\ infection\\ or\\ neoplasm\\,\\ pulmonary\\ embolism\\,\\ idiopathic\\ pulmonary\\ hemosiderosis\\,\\ trauma\\,\\ bone\\ marrow\\ transplantation\ \(0\)\
-\-\ 42\\ year\\ old\\ female\\ with\\ history\\ of\\ scleroderma\\ with\\ new\\ onset\\ seizures\\ and\\ acute\\ renal\\ failure\\.\ \(1\)\
-\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
-\-\ pulmonary\\:\\ 0\\.10259795795424918\ \(0\)\
-\-\ hemorrhage\\:\\ 0\\.09740604740328888\ \(0\)\
-\-\ \\-pulmonary\\:\\ 0\\.09410422294398883\ \(0\)\
-\-\ canca\\:\\ 0\\.06038026317785272\ \(0\)\
-\-\ pulmonary\\-renal\\:\\ 0\\.06038026317785272\ \(0\)\
-\-\ anitcoagulation\\:\\ 0\\.055632679749359946\ \(0\)\
-\-\ renal\\:\\ 0\\.05275634690667265\ \(0\)\
-\-\ goodpasture\\:\\ 0\\.05088509632086717\ \(0\)\
-\-\ hemosiderosis\\:\\ 0\\.04935671583241368\ \(0\)\
-\-\ vasculitides\\:\\ 0\\.048107938046153716\ \(0\)\
-\-\ tracheostomy\\:\\ 0\\.04183197412920745\ \(0\)\
-\-\ 20\\.\\:\\ 0\\.04138992946388162\ \(0\)\
-\-\ intensive\\:\\ 0\\.040974692328152616\ \(0\)\
-\-\ hazy\\:\\ 0\\.040974692328152616\ \(0\)\
-\-\ zones\\:\\ 0\\.03986154897542813\ \(0\)\
-\-\ erythematosus\\:\\ 0\\.03986154897542813\ \(0\)\
-\-\ transplantation\\:\\ 0\\.038904275397516085\ \(0\)\
-\-\ predominately\\:\\ 0\\.03755694461500886\ \(0\)\
-\-\ findings\\:\\ 0\\.03737336169431424\ \(0\)\
-\-\ wegener\\:\\ 0\\.03731659310945221\ \(0\)\
-\-\ scleroderma\\:\\ 0\\.03708439070071467\ \(0\)\
-\-\ granulomatosis\\:\\ 0\\.036642346035388844\ \(0\)\
-\-\ bronchoscopy\\:\\ 0\\.03602856412655537\ \(0\)\
-\-\ neg\\:\\ 0\\.035835612914454716\ \(0\)\
-\-\ unit\\:\\ 0\\.03546528948109666\ \(0\)\
-\-\ diffuse\\:\\ 0\\.035438457813360476\ \(0\)\
-\-\ airspace\\:\\ 0\\.03528737519066337\ \(0\)\
-\-\ \\â\\€\\™\\:\\ 0\\.034986667666376106\ \(0\)\
-\-\ intubated\\:\\ 0\\.0347797863402954\ \(0\)\
-\-\ lupus\\:\\ 0\\.0344611560962208\ \(0\)\
-\-\ hemoptysis\\:\\ 0\\.033723959766136104\ \(0\)\
-\-\ s\\:\\ 0\\.03357215982348749\ \(0\)\
-\-\ syndrome\\:\\ 0\\.033478172284036184\ \(0\)\
-\-\ opacities\\:\\ 0\\.03053979176217059\ \(0\)\
-\-\ these\\:\\ 0\\.030463625917230685\ \(0\)\
-\-\ nonspecific\\:\\ 0\\.030114231617602055\ \(0\)\
-\-\ 42\\:\\ 0\\.02963617845365999\ \(0\)\
-\-\ overall\\:\\ 0\\.029117604332182617\ \(0\)\
-\-\ anemia\\:\\ 0\\.029117604332182617\ \(0\)\
-\-\ embolism\\:\\ 0\\.02863554408038947\ \(0\)\
-\-\ systemic\\:\\ 0\\.028000894556535323\ \(0\)\
-\-\ still\\:\\ 0\\.02788072805207704\ \(0\)\
-\-\ idiopathic\\:\\ 0\\.026681763685879267\ \(0\)\
-\-\ subsequently\\:\\ 0\\.02653339726956982\ \(0\)\
-\-\ \\,\\:\\ 0\\.025958499433164542\ \(0\)\
-\-\ marrow\\:\\ 0\\.025748442593275273\ \(0\)\
-\-\ seizures\\:\\ 0\\.02516338950317697\ \(0\)\
-\-\ mid\\:\\ 0\\.024477886362375724\ \(0\)\
-\-\ currently\\:\\ 0\\.02319296434939765\ \(0\)\
-\-\ failure\\:\\ 0\\.022927796457749085\ \(0\)\
-\-\ unknown\\:\\ 0\\.022841640415236345\ \(0\)\
-\-\ care\\:\\ 0\\.021110802377183234\ \(0\)\
-\-\ new\\:\\ 0\\.020395808060277795\ \(0\)\
-\-\ underwent\\:\\ 0\\.020083534489576844\ \(0\)\
-\-\ neoplasm\\:\\ 0\\.019932579287068\ \(0\)\
-\-\ disease\\:\\ 0\\.01913339097555759\ \(0\)\
-\-\ day\\:\\ 0\\.018581916639403628\ \(0\)\
-\-\ known\\:\\ 0\\.018520897838793286\ \(0\)\
-\-\ onset\\:\\ 0\\.018475487848802395\ \(0\)\
-\-\ clinical\\:\\ 0\\.018008971233328796\ \(0\)\
-\-\ infection\\:\\ 0\\.01701381215118361\ \(0\)\
-\-\ lung\\:\\ 0\\.016953144659169493\ \(0\)\
-\-\ she\\:\\ 0\\.016430042064754603\ \(0\)\
-\-\ low\\:\\ 0\\.01627512364976986\ \(0\)\
-\-\ history\\:\\ 0\\.016167322434343608\ \(0\)\
-\-\ trauma\\:\\ 0\\.016006909464095404\ \(0\)\
-\-\ are\\:\\ 0\\.01595717633602194\ \(0\)\
-\-\ \\:\\:\\ 0\\.01548321665740637\ \(0\)\
-\-\ bone\\:\\ 0\\.01454407316068404\ \(0\)\
-\-\ acute\\:\\ 0\\.014451228281551336\ \(0\)\
-\-\ physical\\:\\ 0\\.01435962513411807\ \(0\)\
-\-\ consistent\\:\\ 0\\.014351358005693171\ \(0\)\
-\-\ bilateral\\:\\ 0\\.01420423102270167\ \(0\)\
-\-\ without\\:\\ 0\\.013780912098343562\ \(0\)\
-\-\ or\\:\\ 0\\.013719489711831609\ \(0\)\
-\-\ other\\:\\ 0\\.01349067499111266\ \(0\)\
-\-\ exam\\:\\ 0\\.012857766711983137\ \(0\)\
-\-\ but\\:\\ 0\\.012482899322147517\ \(0\)\
-\-\ after\\:\\ 0\\.012109597278145222\ \(0\)\
-\-\ female\\:\\ 0\\.012032604598957764\ \(0\)\
-\-\ was\\:\\ 0\\.006769024124751279\ \(0\)\
-\-\ year\\:\\ 0\\.006548666227896676\ \(0\)\
-\-\ old\\:\\ 0\\.00599270271823462\ \(0\)\
-\-\ patient\\:\\ 0\\.00586706801997526\ \(0\)\
-\-\ in\\:\\ 0\\.005772564796441848\ \(0\)\
-\-\ and\\:\\ 0\\.004931753581704615\ \(0\)\
-\-\ with\\:\\ 0\\.004006992331845539\ \(0\)\
-\-\ is\\:\\ 0\\.003851306701265244\ \(0\)\
-\-\ to\\:\\ 0\\.0029251240304314125\ \(0\)\
-\-\ the\\:\\ 0\\.0028407387267868314\ \(0\)\
-\-\ of\\:\\ 0\\.0023939137150271596\ \(0\)\
-\-\ \\.\\:\\ 0\\.001458885045096422\ \(0\)\
+Texto: 
+physical exam unknown.
+canca neg.
+the patient was intubated and subsequently underwent tracheostomy.  she is currently still in the intensive care unit, day 20.
+diffuse, bilateral, hazy airspace opacities predominately in the mid to low lung zones.  overall, these findings are nonspecific, but with known history of pulmonary hemorrhage after bronchoscopy or clinical findings of hemoptysis and anemia, these findings are consistent with diffuse pulmonary hemorrhage.
+pulmonary hemorrhage and pulmonary-renal syndrome
+-pulmonary hemorrhage with renal disease:  wegenerâ€™s granulomatosis, systemic lupus erythematosus, goodpastureâ€™s syndrome, other vasculitides
+
+-pulmonary hemorrhage without renal disease:  anitcoagulation, pulmonary infection or neoplasm, pulmonary embolism, idiopathic pulmonary hemosiderosis, trauma, bone marrow transplantation
+42 year old female with history of scleroderma with new onset seizures and acute renal failure.
+
+
+Keywords by value: 
+- pulmonary: 0.10259795795424918
+- hemorrhage: 0.09740604740328888
+- -pulmonary: 0.09410422294398883
+- canca: 0.06038026317785272
+- pulmonary-renal: 0.06038026317785272
+- anitcoagulation: 0.055632679749359946
+- renal: 0.05275634690667265
+- goodpasture: 0.05088509632086717
+- hemosiderosis: 0.04935671583241368
+- vasculitides: 0.048107938046153716
+- tracheostomy: 0.04183197412920745
+- 20.: 0.04138992946388162
+- intensive: 0.040974692328152616
+- hazy: 0.040974692328152616
+- zones: 0.03986154897542813
+- erythematosus: 0.03986154897542813
+- transplantation: 0.038904275397516085
+- predominately: 0.03755694461500886
+- findings: 0.03737336169431424
+- wegener: 0.03731659310945221
+- scleroderma: 0.03708439070071467
+- granulomatosis: 0.036642346035388844
+- bronchoscopy: 0.03602856412655537
+- neg: 0.035835612914454716
+- unit: 0.03546528948109666
+- diffuse: 0.035438457813360476
+- airspace: 0.03528737519066337
+- â€™: 0.034986667666376106
+- intubated: 0.0347797863402954
+- lupus: 0.0344611560962208
+- hemoptysis: 0.033723959766136104
+- s: 0.03357215982348749
+- syndrome: 0.033478172284036184
+- opacities: 0.03053979176217059
+- these: 0.030463625917230685
+- nonspecific: 0.030114231617602055
+- 42: 0.02963617845365999
+- overall: 0.029117604332182617
+- anemia: 0.029117604332182617
+- embolism: 0.02863554408038947
+- systemic: 0.028000894556535323
+- still: 0.02788072805207704
+- idiopathic: 0.026681763685879267
+- subsequently: 0.02653339726956982
+- ,: 0.025958499433164542
+- marrow: 0.025748442593275273
+- seizures: 0.02516338950317697
+- mid: 0.024477886362375724
+- currently: 0.02319296434939765
+- failure: 0.022927796457749085
+- unknown: 0.022841640415236345
+- care: 0.021110802377183234
+- new: 0.020395808060277795
+- underwent: 0.020083534489576844
+- neoplasm: 0.019932579287068
+- disease: 0.01913339097555759
+- day: 0.018581916639403628
+- known: 0.018520897838793286
+- onset: 0.018475487848802395
+- clinical: 0.018008971233328796
+- infection: 0.01701381215118361
+- lung: 0.016953144659169493
+- she: 0.016430042064754603
+- low: 0.01627512364976986
+- history: 0.016167322434343608
+- trauma: 0.016006909464095404
+- are: 0.01595717633602194
+- :: 0.01548321665740637
+- bone: 0.01454407316068404
+- acute: 0.014451228281551336
+- physical: 0.01435962513411807
+- consistent: 0.014351358005693171
+- bilateral: 0.01420423102270167
+- without: 0.013780912098343562
+- or: 0.013719489711831609
+- other: 0.01349067499111266
+- exam: 0.012857766711983137
+- but: 0.012482899322147517
+- after: 0.012109597278145222
+- female: 0.012032604598957764
+- was: 0.006769024124751279
+- year: 0.006548666227896676
+- old: 0.00599270271823462
+- patient: 0.00586706801997526
+- in: 0.005772564796441848
+- and: 0.004931753581704615
+- with: 0.004006992331845539
+- is: 0.003851306701265244
+- to: 0.0029251240304314125
+- the: 0.0028407387267868314
+- of: 0.0023939137150271596
+- .: 0.001458885045096422

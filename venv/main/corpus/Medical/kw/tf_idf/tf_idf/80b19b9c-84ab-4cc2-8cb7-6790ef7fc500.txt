@@ -1,60 +1,62 @@
-\-\ Texto\\:\\ \ \(0\)\
-\-\ patient\\ underwent\\ a\\ surgical\\ repair\\.\ \(0\)\
-\-\ the\\ ascending\\ and\\ descending\\ portions\\ of\\ the\\ thoracic\\ aorta\\ demonstrate\\ a\\ dissection\\ flap\\.\ \(0\)\
-\-\ stanford\\ a\\ aortic\\ dissection\ \(0\)\
-\-\ woke\\ up\\ from\\ sleep\\ with\\ tearing\\ chest\\ pain\\.\ \(0\)\
-\-\ important\\ to\\ evaluate\\ is\\ extension\\ of\\ dissection\\ flap\\ into\\ aortic\\ branch\\ vessels\\ and\\ interference\\ with\\ vessel\\ flow\\/perfusion\\.\\ \\ this\\ is\\ from\\ the\\ level\\ of\\ the\\ coronary\\ arteries\\ at\\ the\\ aortic\\ root\\,\\ the\\ arch\\ branch\\ vessels\\ or\\ involving\\ meseteric\\ or\\ renal\\ arteries\\ when\\ the\\ flap\\ extends\\ to\\ the\\ abdominal\\ aorta\\.\ \(0\)\
-\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
-\-\ flap\\:\\ 0\\.20133802120066258\ \(0\)\
-\-\ dissection\\:\\ 0\\.15001421096875853\ \(0\)\
-\-\ aortic\\:\\ 0\\.12353329104623162\ \(0\)\
-\-\ branch\\:\\ 0\\.11013961147476362\ \(0\)\
-\-\ flow\\/perfusion\\:\\ 0\\.10494664790436307\ \(0\)\
-\-\ meseteric\\:\\ 0\\.10494664790436307\ \(0\)\
-\-\ interference\\:\\ 0\\.09186793018212366\ \(0\)\
-\-\ aorta\\:\\ 0\\.08733390350364392\ \(0\)\
-\-\ arteries\\:\\ 0\\.08422389916038049\ \(0\)\
-\-\ stanford\\:\\ 0\\.0836161780326005\ \(0\)\
-\-\ vessels\\:\\ 0\\.08191047657815079\ \(0\)\
-\-\ woke\\:\\ 0\\.07640027560914438\ \(0\)\
-\-\ tearing\\:\\ 0\\.07121791761797955\ \(0\)\
-\-\ sleep\\:\\ 0\\.05768126798112353\ \(0\)\
-\-\ coronary\\:\\ 0\\.057240300461119366\ \(0\)\
-\-\ ascending\\:\\ 0\\.05454061808772903\ \(0\)\
-\-\ portions\\:\\ 0\\.05292941156546996\ \(0\)\
-\-\ root\\:\\ 0\\.05248570448455053\ \(0\)\
-\-\ descending\\:\\ 0\\.04965628005744197\ \(0\)\
-\-\ vessel\\:\\ 0\\.04845936066194343\ \(0\)\
-\-\ arch\\:\\ 0\\.04578220386179164\ \(0\)\
-\-\ important\\:\\ 0\\.04569981763745147\ \(0\)\
-\-\ extends\\:\\ 0\\.04408965042392803\ \(0\)\
-\-\ evaluate\\:\\ 0\\.041121741169727055\ \(0\)\
-\-\ repair\\:\\ 0\\.040736796162073055\ \(0\)\
-\-\ thoracic\\:\\ 0\\.0392149703107649\ \(0\)\
-\-\ extension\\:\\ 0\\.03631342049025778\ \(0\)\
-\-\ involving\\:\\ 0\\.03569532457146778\ \(0\)\
-\-\ underwent\\:\\ 0\\.03490709566045499\ \(0\)\
-\-\ renal\\:\\ 0\\.03056518511259606\ \(0\)\
-\-\ from\\:\\ 0\\.030153231265576484\ \(0\)\
-\-\ level\\:\\ 0\\.029320107471987284\ \(0\)\
-\-\ when\\:\\ 0\\.029134895685904827\ \(0\)\
-\-\ up\\:\\ 0\\.027355323226835992\ \(0\)\
-\-\ abdominal\\:\\ 0\\.025427609977644226\ \(0\)\
-\-\ chest\\:\\ 0\\.02434201190544665\ \(0\)\
-\-\ into\\:\\ 0\\.024206266285234604\ \(0\)\
-\-\ or\\:\\ 0\\.02384577973723113\ \(0\)\
-\-\ demonstrate\\:\\ 0\\.023410144539679056\ \(0\)\
-\-\ surgical\\:\\ 0\\.021383592502993494\ \(0\)\
-\-\ a\\:\\ 0\\.014164278636378615\ \(0\)\
-\-\ at\\:\\ 0\\.013782894676567058\ \(0\)\
-\-\ is\\:\\ 0\\.0133878756758268\ \(0\)\
-\-\ the\\:\\ 0\\.013166598543202457\ \(0\)\
-\-\ pain\\:\\ 0\\.01242390675631827\ \(0\)\
-\-\ this\\:\\ 0\\.011442109682311108\ \(0\)\
-\-\ patient\\:\\ 0\\.010197522987099856\ \(0\)\
-\-\ to\\:\\ 0\\.010168288296261577\ \(0\)\
-\-\ and\\:\\ 0\\.004285928707909963\ \(0\)\
-\-\ of\\:\\ 0\\.004160850028499586\ \(0\)\
-\-\ \\,\\:\\ 0\\.003222738875205802\ \(0\)\
-\-\ with\\:\\ 0\\.0027858137164259457\ \(0\)\
-\-\ \\.\\:\\ 0\\.0021130676248420402\ \(0\)\
+Texto: 
+patient underwent a surgical repair.
+the ascending and descending portions of the thoracic aorta demonstrate a dissection flap.
+stanford a aortic dissection
+woke up from sleep with tearing chest pain.
+important to evaluate is extension of dissection flap into aortic branch vessels and interference with vessel flow/perfusion.  this is from the level of the coronary arteries at the aortic root, the arch branch vessels or involving meseteric or renal arteries when the flap extends to the abdominal aorta.
+
+
+Keywords by value: 
+- flap: 0.20133802120066258
+- dissection: 0.15001421096875853
+- aortic: 0.12353329104623162
+- branch: 0.11013961147476362
+- flow/perfusion: 0.10494664790436307
+- meseteric: 0.10494664790436307
+- interference: 0.09186793018212366
+- aorta: 0.08733390350364392
+- arteries: 0.08422389916038049
+- stanford: 0.0836161780326005
+- vessels: 0.08191047657815079
+- woke: 0.07640027560914438
+- tearing: 0.07121791761797955
+- sleep: 0.05768126798112353
+- coronary: 0.057240300461119366
+- ascending: 0.05454061808772903
+- portions: 0.05292941156546996
+- root: 0.05248570448455053
+- descending: 0.04965628005744197
+- vessel: 0.04845936066194343
+- arch: 0.04578220386179164
+- important: 0.04569981763745147
+- extends: 0.04408965042392803
+- evaluate: 0.041121741169727055
+- repair: 0.040736796162073055
+- thoracic: 0.0392149703107649
+- extension: 0.03631342049025778
+- involving: 0.03569532457146778
+- underwent: 0.03490709566045499
+- renal: 0.03056518511259606
+- from: 0.030153231265576484
+- level: 0.029320107471987284
+- when: 0.029134895685904827
+- up: 0.027355323226835992
+- abdominal: 0.025427609977644226
+- chest: 0.02434201190544665
+- into: 0.024206266285234604
+- or: 0.02384577973723113
+- demonstrate: 0.023410144539679056
+- surgical: 0.021383592502993494
+- a: 0.014164278636378615
+- at: 0.013782894676567058
+- is: 0.0133878756758268
+- the: 0.013166598543202457
+- pain: 0.01242390675631827
+- this: 0.011442109682311108
+- patient: 0.010197522987099856
+- to: 0.010168288296261577
+- and: 0.004285928707909963
+- of: 0.004160850028499586
+- ,: 0.003222738875205802
+- with: 0.0027858137164259457
+- .: 0.0021130676248420402

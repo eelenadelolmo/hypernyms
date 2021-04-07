@@ -1,107 +1,112 @@
-\-\ Texto\\:\\ \ \(0\)\
-\-\ csf\\ studies\\ positive\\ for\\ multiple\\ sclerosis\ \(0\)\
-\-\ surgical\\ removal\\ of\\ third\\ ventricular\\ mass\ \(0\)\
-\-\ \\â\\€\\¢\\ non\\-enhancing\\ third\\ ventricular\\ mass\ \(0\)\
-\-\ \\â\\€\\¢\\ secondary\\ obstructive\\ hydrocephalus\ \(0\)\
-\-\ \\â\\€\\¢\\ multiple\\ supra\\-\\ and\\ infra\\-tentorial\\ lesions\\ and\\ spinal\\ cord\\ lesions\\ consistent\\ with\\ demyelinating\\ plaques\\ \\-\\ some\\ lesions\\ enhance\\,\\ consistent\\ with\\ active\\ ms\\.\ \(0\)\
-\-\ neurocytoma\\ 3rd\\ ventricle\\,\\ multiple\\ sclerosis\ \(0\)\
-\-\ \\â\\€\\¢\\ oligodendroglioma\ \(1\)\
-\-\ \\â\\€\\¢\\ central\\ neurocytoma\ \(2\)\
-\-\ \\â\\€\\¢\\ ependymoma\\,\\ subependymoma\ \(0\)\
-\-\ \\â\\€\\¢\\ adem\ \(0\)\
-\-\ \\â\\€\\¢\\ metastatic\\ disease\ \(13\)\
-\-\ 35\\ year\\ old\\ woman\\ presents\\ to\\ er\\ with\\ bilateral\\ lower\\ extremity\\ weakness\\ and\\ numbness\\.\\ \\ has\\ recently\\ been\\ diagnosed\\ with\\ multiple\\ sclerosis\\ by\\ neurologist\\.\ \(0\)\
-\-\ neurocytomas\\ are\\ typically\\ seen\\ in\\ a\\ lateral\\ ventricular\\ location\\,\\ arising\\ from\\ the\\ septum\\ pellucidum\\.\\ \\ third\\ ventricular\\ tumors\\,\\ like\\ this\\ one\\,\\ are\\ less\\ frequent\\.\\ \\ \ \(0\)\
-\-\ the\\ coincidental\\ diagnosis\\ of\\ a\\ primary\\ brain\\ neoplasm\\ in\\ patient\\ with\\ ms\\ is\\ also\\ quite\\ unusual\\.\ \(0\)\
-\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
-\-\ ventricular\\:\\ 0\\.11313499704303358\ \(0\)\
-\-\ \\â\\€\\¢\\:\\ 0\\.09286010972420077\ \(0\)\
-\-\ neurocytoma\\:\\ 0\\.08021216358969396\ \(0\)\
-\-\ third\\:\\ 0\\.07614325986999994\ \(0\)\
-\-\ sclerosis\\:\\ 0\\.06820700518725212\ \(0\)\
-\-\ ms\\:\\ 0\\.06765960269506872\ \(0\)\
-\-\ supra\\-\\:\\ 0\\.06530013647382592\ \(0\)\
-\-\ infra\\-tentorial\\:\\ 0\\.06530013647382592\ \(0\)\
-\-\ neurocytomas\\:\\ 0\\.06530013647382592\ \(0\)\
-\-\ coincidental\\:\\ 0\\.053378374159499246\ \(0\)\
-\-\ multiple\\:\\ 0\\.05332758528827464\ \(0\)\
-\-\ lesions\\:\\ 0\\.050834677918754394\ \(0\)\
-\-\ subependymoma\\:\\ 0\\.04476244223501272\ \(0\)\
-\-\ neurologist\\:\\ 0\\.044313370962298385\ \(0\)\
-\-\ pellucidum\\:\\ 0\\.04010608179484698\ \(0\)\
-\-\ demyelinating\\:\\ 0\\.03917894740259509\ \(0\)\
-\-\ non\\-enhancing\\:\\ 0\\.03855259638016499\ \(0\)\
-\-\ adem\\:\\ 0\\.038162642798791495\ \(0\)\
-\-\ quite\\:\\ 0\\.038162642798791495\ \(0\)\
-\-\ oligodendroglioma\\:\\ 0\\.037102636549601324\ \(0\)\
-\-\ plaques\\:\\ 0\\.03535160856394036\ \(0\)\
-\-\ obstructive\\:\\ 0\\.032567983823480744\ \(0\)\
-\-\ septum\\:\\ 0\\.03239160864797172\ \(0\)\
-\-\ frequent\\:\\ 0\\.031646101049603664\ \(0\)\
-\-\ 3rd\\:\\ 0\\.03133741440959945\ \(0\)\
-\-\ consistent\\:\\ 0\\.031041455834536345\ \(0\)\
-\-\ enhance\\:\\ 0\\.030617682939572434\ \(0\)\
-\-\ unusual\\:\\ 0\\.030617682939572434\ \(0\)\
-\-\ numbness\\:\\ 0\\.030414727575216034\ \(0\)\
-\-\ recently\\:\\ 0\\.029534849530845907\ \(0\)\
-\-\ like\\:\\ 0\\.02930152607114686\ \(0\)\
-\-\ 35\\:\\ 0\\.0291312333435565\ \(0\)\
-\-\ ependymoma\\:\\ 0\\.02833396916435379\ \(0\)\
-\-\ hydrocephalus\\:\\ 0\\.027213739758991395\ \(0\)\
-\-\ csf\\:\\ 0\\.02643329149485935\ \(0\)\
-\-\ arising\\:\\ 0\\.026202990849896156\ \(0\)\
-\-\ removal\\:\\ 0\\.024953933720742134\ \(0\)\
-\-\ er\\:\\ 0\\.02428284560702194\ \(0\)\
-\-\ active\\:\\ 0\\.02416710251144356\ \(0\)\
-\-\ cord\\:\\ 0\\.024053140149669642\ \(0\)\
-\-\ tumors\\:\\ 0\\.023775676723485194\ \(0\)\
-\-\ ventricle\\:\\ 0\\.023721409759840207\ \(0\)\
-\-\ studies\\:\\ 0\\.02364074753910489\ \(0\)\
-\-\ weakness\\:\\ 0\\.0235082322446547\ \(0\)\
-\-\ diagnosed\\:\\ 0\\.023275519679963004\ \(0\)\
-\-\ extremity\\:\\ 0\\.023149325701055094\ \(0\)\
-\-\ spinal\\:\\ 0\\.02266500896577471\ \(0\)\
-\-\ typically\\:\\ 0\\.022343894588933128\ \(0\)\
-\-\ location\\:\\ 0\\.022079316199288098\ \(0\)\
-\-\ neoplasm\\:\\ 0\\.021556715377125394\ \(0\)\
-\-\ less\\:\\ 0\\.021436592624612463\ \(0\)\
-\-\ central\\:\\ 0\\.020826898939703402\ \(0\)\
-\-\ positive\\:\\ 0\\.02053989326136383\ \(0\)\
-\-\ some\\:\\ 0\\.0192216907693834\ \(0\)\
-\-\ brain\\:\\ 0\\.0190470483207612\ \(0\)\
-\-\ primary\\:\\ 0\\.018750994539968122\ \(0\)\
-\-\ secondary\\:\\ 0\\.017696518270435613\ \(0\)\
-\-\ mass\\:\\ 0\\.017606829732556513\ \(0\)\
-\-\ are\\:\\ 0\\.01725739070414225\ \(0\)\
-\-\ been\\:\\ 0\\.017220702884918452\ \(0\)\
-\-\ one\\:\\ 0\\.01715356580230107\ \(0\)\
-\-\ metastatic\\:\\ 0\\.01593414373048956\ \(0\)\
-\-\ bilateral\\:\\ 0\\.015361612809736623\ \(0\)\
-\-\ woman\\:\\ 0\\.01462150331473264\ \(0\)\
-\-\ diagnosis\\:\\ 0\\.014534958005780889\ \(0\)\
-\-\ lower\\:\\ 0\\.014236015328621204\ \(0\)\
-\-\ lateral\\:\\ 0\\.013679022560181855\ \(0\)\
-\-\ \\-\\:\\ 0\\.013568358953395285\ \(0\)\
-\-\ surgical\\:\\ 0\\.013305346446307063\ \(0\)\
-\-\ presents\\:\\ 0\\.012930698485243896\ \(0\)\
-\-\ seen\\:\\ 0\\.012508352704205113\ \(0\)\
-\-\ also\\:\\ 0\\.012478663656815936\ \(0\)\
-\-\ \\,\\:\\ 0\\.012031558467434995\ \(0\)\
-\-\ has\\:\\ 0\\.011886666448105763\ \(0\)\
-\-\ by\\:\\ 0\\.010539784468480555\ \(0\)\
-\-\ disease\\:\\ 0\\.010346204009005216\ \(0\)\
-\-\ from\\:\\ 0\\.009381005282623795\ \(0\)\
-\-\ this\\:\\ 0\\.0071195349134380225\ \(0\)\
-\-\ year\\:\\ 0\\.0070822612538734425\ \(0\)\
-\-\ old\\:\\ 0\\.006480997013794479\ \(0\)\
-\-\ patient\\:\\ 0\\.006345125414195467\ \(0\)\
-\-\ in\\:\\ 0\\.006242921928003777\ \(0\)\
-\-\ a\\:\\ 0\\.005875552619534834\ \(0\)\
-\-\ for\\:\\ 0\\.005400801101057149\ \(0\)\
-\-\ with\\:\\ 0\\.004333488003329249\ \(0\)\
-\-\ is\\:\\ 0\\.004165116876923894\ \(0\)\
-\-\ and\\:\\ 0\\.004000200127382633\ \(0\)\
-\-\ to\\:\\ 0\\.0031634674699480463\ \(0\)\
-\-\ the\\:\\ 0\\.0020481375511648267\ \(0\)\
-\-\ of\\:\\ 0\\.0017259822340442731\ \(0\)\
-\-\ \\.\\:\\ 0\\.0015777571598820568\ \(0\)\
+Texto: 
+csf studies positive for multiple sclerosis
+surgical removal of third ventricular mass
+â€¢ non-enhancing third ventricular mass
+
+â€¢ secondary obstructive hydrocephalus
+
+â€¢ multiple supra- and infra-tentorial lesions and spinal cord lesions consistent with demyelinating plaques - some lesions enhance, consistent with active ms.
+neurocytoma 3rd ventricle, multiple sclerosis
+â€¢ oligodendroglioma
+â€¢ central neurocytoma
+â€¢ ependymoma, subependymoma
+â€¢ adem
+â€¢ metastatic disease
+35 year old woman presents to er with bilateral lower extremity weakness and numbness.  has recently been diagnosed with multiple sclerosis by neurologist.
+neurocytomas are typically seen in a lateral ventricular location, arising from the septum pellucidum.  third ventricular tumors, like this one, are less frequent.  
+
+the coincidental diagnosis of a primary brain neoplasm in patient with ms is also quite unusual.
+
+
+Keywords by value: 
+- ventricular: 0.11313499704303358
+- â€¢: 0.09286010972420077
+- neurocytoma: 0.08021216358969396
+- third: 0.07614325986999994
+- sclerosis: 0.06820700518725212
+- ms: 0.06765960269506872
+- supra-: 0.06530013647382592
+- infra-tentorial: 0.06530013647382592
+- neurocytomas: 0.06530013647382592
+- coincidental: 0.053378374159499246
+- multiple: 0.05332758528827464
+- lesions: 0.050834677918754394
+- subependymoma: 0.04476244223501272
+- neurologist: 0.044313370962298385
+- pellucidum: 0.04010608179484698
+- demyelinating: 0.03917894740259509
+- non-enhancing: 0.03855259638016499
+- adem: 0.038162642798791495
+- quite: 0.038162642798791495
+- oligodendroglioma: 0.037102636549601324
+- plaques: 0.03535160856394036
+- obstructive: 0.032567983823480744
+- septum: 0.03239160864797172
+- frequent: 0.031646101049603664
+- 3rd: 0.03133741440959945
+- consistent: 0.031041455834536345
+- enhance: 0.030617682939572434
+- unusual: 0.030617682939572434
+- numbness: 0.030414727575216034
+- recently: 0.029534849530845907
+- like: 0.02930152607114686
+- 35: 0.0291312333435565
+- ependymoma: 0.02833396916435379
+- hydrocephalus: 0.027213739758991395
+- csf: 0.02643329149485935
+- arising: 0.026202990849896156
+- removal: 0.024953933720742134
+- er: 0.02428284560702194
+- active: 0.02416710251144356
+- cord: 0.024053140149669642
+- tumors: 0.023775676723485194
+- ventricle: 0.023721409759840207
+- studies: 0.02364074753910489
+- weakness: 0.0235082322446547
+- diagnosed: 0.023275519679963004
+- extremity: 0.023149325701055094
+- spinal: 0.02266500896577471
+- typically: 0.022343894588933128
+- location: 0.022079316199288098
+- neoplasm: 0.021556715377125394
+- less: 0.021436592624612463
+- central: 0.020826898939703402
+- positive: 0.02053989326136383
+- some: 0.0192216907693834
+- brain: 0.0190470483207612
+- primary: 0.018750994539968122
+- secondary: 0.017696518270435613
+- mass: 0.017606829732556513
+- are: 0.01725739070414225
+- been: 0.017220702884918452
+- one: 0.01715356580230107
+- metastatic: 0.01593414373048956
+- bilateral: 0.015361612809736623
+- woman: 0.01462150331473264
+- diagnosis: 0.014534958005780889
+- lower: 0.014236015328621204
+- lateral: 0.013679022560181855
+- -: 0.013568358953395285
+- surgical: 0.013305346446307063
+- presents: 0.012930698485243896
+- seen: 0.012508352704205113
+- also: 0.012478663656815936
+- ,: 0.012031558467434995
+- has: 0.011886666448105763
+- by: 0.010539784468480555
+- disease: 0.010346204009005216
+- from: 0.009381005282623795
+- this: 0.0071195349134380225
+- year: 0.0070822612538734425
+- old: 0.006480997013794479
+- patient: 0.006345125414195467
+- in: 0.006242921928003777
+- a: 0.005875552619534834
+- for: 0.005400801101057149
+- with: 0.004333488003329249
+- is: 0.004165116876923894
+- and: 0.004000200127382633
+- to: 0.0031634674699480463
+- the: 0.0020481375511648267
+- of: 0.0017259822340442731
+- .: 0.0015777571598820568

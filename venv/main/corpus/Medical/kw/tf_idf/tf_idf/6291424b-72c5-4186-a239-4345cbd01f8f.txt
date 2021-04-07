@@ -1,68 +1,70 @@
-\-\ Texto\\:\\ \ \(0\)\
-\-\ h\\-shaped\\ vertebral\\ bodies\\ typical\\ of\\ those\\ found\\ in\\ patients\\ with\\ sickle\\ cell\\ disease\\.\ \(0\)\
-\-\ sickle\\ cell\\ crisis\\ is\\ treated\\ with\\ fluid\\,\\ and\\ pain\\ control\\.\ \(0\)\
-\-\ h\\-shaped\\ thoracic\\ vertebral\\ bodies\\ with\\ sclerotic\\ and\\ depressed\\ endplates\\.\ \(0\)\
-\-\ findings\\ on\\ cxr\\ in\\ sickle\\ cell\\ disease\ \(0\)\
-\-\ other\\ sources\\ of\\ chronic\\ bone\\ infarcts\\ such\\ as\\ a\\ hypercoagulable\\ state\\ or\\ other\\ hemaglobinopathies\\.\ \(0\)\
-\-\ patient\\ with\\ known\\ sickle\\ cell\\ disease\\ presented\\ with\\ worsening\\ back\\ pain\\.\ \(0\)\
-\-\ the\\ h\\-shaped\\ vertebral\\ bodies\\ are\\ classic\\ for\\ the\\ appearance\\ of\\ chronic\\ bone\\ infarcts\\ within\\ the\\ vertebral\\ bodies\\.\\ \\ there\\ was\\ no\\ evidence\\ of\\ a\\ new\\ compression\\ fracture\\.\ \(0\)\
-\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
-\-\ h\\-shaped\\:\\ 0\\.22059430137344074\ \(0\)\
-\-\ sickle\\:\\ 0\\.1927009739487509\ \(0\)\
-\-\ bodies\\:\\ 0\\.16340139055486042\ \(0\)\
-\-\ vertebral\\:\\ 0\\.13803250695560237\ \(0\)\
-\-\ cell\\:\\ 0\\.0942139065951627\ \(0\)\
-\-\ infarcts\\:\\ 0\\.09379613711817124\ \(0\)\
-\-\ hemaglobinopathies\\:\\ 0\\.0899542696323112\ \(0\)\
-\-\ endplates\\:\\ 0\\.07009804362154269\ \(0\)\
-\-\ crisis\\:\\ 0\\.06873547839068023\ \(0\)\
-\-\ hypercoagulable\\:\\ 0\\.06548595052212375\ \(0\)\
-\-\ sources\\:\\ 0\\.0599089739265312\ \(0\)\
-\-\ depressed\\:\\ 0\\.05491358387225869\ \(0\)\
-\-\ state\\:\\ 0\\.049250350789818605\ \(0\)\
-\-\ chronic\\:\\ 0\\.0491222374062653\ \(0\)\
-\-\ bone\\:\\ 0\\.04333540166244632\ \(0\)\
-\-\ disease\\:\\ 0\\.042757271669868493\ \(0\)\
-\-\ other\\:\\ 0\\.040196705075560175\ \(0\)\
-\-\ control\\:\\ 0\\.03975038263406503\ \(0\)\
-\-\ those\\:\\ 0\\.039676170804176465\ \(0\)\
-\-\ sclerotic\\:\\ 0\\.039031488134569\ \(0\)\
-\-\ cxr\\:\\ 0\\.036796247664541606\ \(0\)\
-\-\ typical\\:\\ 0\\.034963741777040785\ \(0\)\
-\-\ worsening\\:\\ 0\\.03433142826939589\ \(0\)\
-\-\ thoracic\\:\\ 0\\.03361283169494134\ \(0\)\
-\-\ classic\\:\\ 0\\.03341076406947012\ \(0\)\
-\-\ compression\\:\\ 0\\.032640278839795166\ \(0\)\
-\-\ new\\:\\ 0\\.030385591600005694\ \(0\)\
-\-\ back\\:\\ 0\\.028765983013749764\ \(0\)\
-\-\ known\\:\\ 0\\.02759235800473285\ \(0\)\
-\-\ found\\:\\ 0\\.02747985320869502\ \(0\)\
-\-\ such\\:\\ 0\\.0272584978555189\ \(0\)\
-\-\ treated\\:\\ 0\\.026100518735549583\ \(0\)\
-\-\ appearance\\:\\ 0\\.024937822211577972\ \(0\)\
-\-\ fluid\\:\\ 0\\.024782031679631153\ \(0\)\
-\-\ presented\\:\\ 0\\.023768955459412336\ \(0\)\
-\-\ fracture\\:\\ 0\\.022990554390538556\ \(0\)\
-\-\ evidence\\:\\ 0\\.02286165901394773\ \(0\)\
-\-\ patients\\:\\ 0\\.022567087748632916\ \(0\)\
-\-\ pain\\:\\ 0\\.021298125867974176\ \(0\)\
-\-\ findings\\:\\ 0\\.018559560569285302\ \(0\)\
-\-\ within\\:\\ 0\\.01663399396312328\ \(0\)\
-\-\ as\\:\\ 0\\.013189566386674772\ \(0\)\
-\-\ there\\:\\ 0\\.012976689351683557\ \(0\)\
-\-\ are\\:\\ 0\\.011886468087036752\ \(0\)\
-\-\ or\\:\\ 0\\.010219619887384769\ \(0\)\
-\-\ was\\:\\ 0\\.010084464512384558\ \(0\)\
-\-\ no\\:\\ 0\\.008780042354120427\ \(0\)\
-\-\ patient\\:\\ 0\\.008740733988942734\ \(0\)\
-\-\ in\\:\\ 0\\.0085999434722501\ \(0\)\
-\-\ a\\:\\ 0\\.008093873506502066\ \(0\)\
-\-\ for\\:\\ 0\\.007439879067782807\ \(0\)\
-\-\ on\\:\\ 0\\.007386642983320694\ \(0\)\
-\-\ with\\:\\ 0\\.005969600820912742\ \(0\)\
-\-\ is\\:\\ 0\\.005737661003925771\ \(0\)\
-\-\ of\\:\\ 0\\.004755257175428099\ \(0\)\
-\-\ the\\:\\ 0\\.0042321209603150755\ \(0\)\
-\-\ and\\:\\ 0\\.0036736531782085398\ \(0\)\
-\-\ \\,\\:\\ 0\\.0027623476073192588\ \(0\)\
-\-\ \\.\\:\\ 0\\.002535681149810448\ \(0\)\
+Texto: 
+h-shaped vertebral bodies typical of those found in patients with sickle cell disease.
+sickle cell crisis is treated with fluid, and pain control.
+h-shaped thoracic vertebral bodies with sclerotic and depressed endplates.
+findings on cxr in sickle cell disease
+other sources of chronic bone infarcts such as a hypercoagulable state or other hemaglobinopathies.
+patient with known sickle cell disease presented with worsening back pain.
+the h-shaped vertebral bodies are classic for the appearance of chronic bone infarcts within the vertebral bodies.  there was no evidence of a new compression fracture.
+
+
+Keywords by value: 
+- h-shaped: 0.22059430137344074
+- sickle: 0.1927009739487509
+- bodies: 0.16340139055486042
+- vertebral: 0.13803250695560237
+- cell: 0.0942139065951627
+- infarcts: 0.09379613711817124
+- hemaglobinopathies: 0.0899542696323112
+- endplates: 0.07009804362154269
+- crisis: 0.06873547839068023
+- hypercoagulable: 0.06548595052212375
+- sources: 0.0599089739265312
+- depressed: 0.05491358387225869
+- state: 0.049250350789818605
+- chronic: 0.0491222374062653
+- bone: 0.04333540166244632
+- disease: 0.042757271669868493
+- other: 0.040196705075560175
+- control: 0.03975038263406503
+- those: 0.039676170804176465
+- sclerotic: 0.039031488134569
+- cxr: 0.036796247664541606
+- typical: 0.034963741777040785
+- worsening: 0.03433142826939589
+- thoracic: 0.03361283169494134
+- classic: 0.03341076406947012
+- compression: 0.032640278839795166
+- new: 0.030385591600005694
+- back: 0.028765983013749764
+- known: 0.02759235800473285
+- found: 0.02747985320869502
+- such: 0.0272584978555189
+- treated: 0.026100518735549583
+- appearance: 0.024937822211577972
+- fluid: 0.024782031679631153
+- presented: 0.023768955459412336
+- fracture: 0.022990554390538556
+- evidence: 0.02286165901394773
+- patients: 0.022567087748632916
+- pain: 0.021298125867974176
+- findings: 0.018559560569285302
+- within: 0.01663399396312328
+- as: 0.013189566386674772
+- there: 0.012976689351683557
+- are: 0.011886468087036752
+- or: 0.010219619887384769
+- was: 0.010084464512384558
+- no: 0.008780042354120427
+- patient: 0.008740733988942734
+- in: 0.0085999434722501
+- a: 0.008093873506502066
+- for: 0.007439879067782807
+- on: 0.007386642983320694
+- with: 0.005969600820912742
+- is: 0.005737661003925771
+- of: 0.004755257175428099
+- the: 0.0042321209603150755
+- and: 0.0036736531782085398
+- ,: 0.0027623476073192588
+- .: 0.002535681149810448

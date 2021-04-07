@@ -1,77 +1,79 @@
-\-\ Texto\\:\\ \ \(0\)\
-\-\ n\\/a\ \(127\)\
-\-\ patient\\ is\\ pending\\ treatment\\ and\\ work\\ up\\ by\\ urology\\.\ \(0\)\
-\-\ sonographic\\ images\\ demonstrate\\ a\\ sessile\\ lobular\\ soft\\ tissue\\ mass\\ along\\ the\\ left\\ wall\\ of\\ the\\ bladder\\ with\\ positive\\ color\\ flow\\ with\\ doppler\\.\\ \\ no\\ hydronephrosis\\ was\\ demonstrated\\.\ \(0\)\
-\-\ transitional\\ cell\\ carcinoma\\ of\\ the\\ bladder\ \(2\)\
-\-\ transitional\\ cell\\ carcinoma\ \(13\)\
-\-\ squamous\\ cell\\ carcinoma\ \(52\)\
-\-\ benign\\ neoplasm\ \(14\)\
-\-\ 77\\ year\\ old\\ white\\ female\\ with\\ history\\ of\\ increasing\\ creatinine\\.\\ \\ no\\ history\\ of\\ hematuria\\.\\ \\ past\\ medical\\ history\\ includes\\ hypertension\\ and\\ hyperlipidemia\\.\\ \\ no\\ prior\\ history\\ of\\ smoking\\.\\ \\ patient\\ had\\ no\\ history\\ of\\ occupational\\ exposure\\ to\\ chemicals\\.\ \(0\)\
-\-\ most\\ common\\ malignant\\ urothelial\\ neoplasm\\ is\\ transitional\\ cell\\ carcinoma\\.\ \(0\)\
-\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
-\-\ transitional\\:\\ 0\\.1523883345294288\ \(0\)\
-\-\ carcinoma\\:\\ 0\\.0940554434957618\ \(0\)\
-\-\ cell\\:\\ 0\\.08964041598374703\ \(0\)\
-\-\ chemicals\\:\\ 0\\.07492141878930474\ \(0\)\
-\-\ bladder\\:\\ 0\\.0673477843349326\ \(0\)\
-\-\ urothelial\\:\\ 0\\.06323236243662575\ \(0\)\
-\-\ sessile\\:\\ 0\\.05866922040511375\ \(0\)\
-\-\ history\\:\\ 0\\.05729196784985842\ \(0\)\
-\-\ neoplasm\\:\\ 0\\.05650789467790151\ \(0\)\
-\-\ occupational\\:\\ 0\\.05557743660784643\ \(0\)\
-\-\ urology\\:\\ 0\\.05135104756650812\ \(0\)\
-\-\ hyperlipidemia\\:\\ 0\\.05135104756650812\ \(0\)\
-\-\ 77\\:\\ 0\\.050530102051672555\ \(0\)\
-\-\ creatinine\\:\\ 0\\.04722596801344728\ \(0\)\
-\-\ lobular\\:\\ 0\\.04685955706215751\ \(0\)\
-\-\ exposure\\:\\ 0\\.04316573370387841\ \(0\)\
-\-\ smoking\\:\\ 0\\.041900084986759546\ \(0\)\
-\-\ hydronephrosis\\:\\ 0\\.04179280502378299\ \(0\)\
-\-\ squamous\\:\\ 0\\.04059018869647439\ \(0\)\
-\-\ color\\:\\ 0\\.040496383736166264\ \(0\)\
-\-\ sonographic\\:\\ 0\\.04022028727674361\ \(0\)\
-\-\ doppler\\:\\ 0\\.04012997278487648\ \(0\)\
-\-\ hematuria\\:\\ 0\\.039352859118143124\ \(0\)\
-\-\ work\\:\\ 0\\.038867321054311454\ \(0\)\
-\-\ pending\\:\\ 0\\.03589829719951207\ \(0\)\
-\-\ increasing\\:\\ 0\\.034003033445870974\ \(0\)\
-\-\ includes\\:\\ 0\\.03344544073629937\ \(0\)\
-\-\ no\\:\\ 0\\.03341530682344862\ \(0\)\
-\-\ hypertension\\:\\ 0\\.032706612158254246\ \(0\)\
-\-\ n\\/a\\:\\ 0\\.03005054997436006\ \(0\)\
-\-\ malignant\\:\\ 0\\.029987093945430105\ \(0\)\
-\-\ benign\\:\\ 0\\.02863155696148739\ \(0\)\
-\-\ white\\:\\ 0\\.0275155748806992\ \(0\)\
-\-\ along\\:\\ 0\\.027417998804451612\ \(0\)\
-\-\ flow\\:\\ 0\\.027417998804451612\ \(0\)\
-\-\ positive\\:\\ 0\\.026921219323146763\ \(0\)\
-\-\ past\\:\\ 0\\.026361159921810037\ \(0\)\
-\-\ medical\\:\\ 0\\.0255272796122913\ \(0\)\
-\-\ demonstrated\\:\\ 0\\.024343883324824924\ \(0\)\
-\-\ wall\\:\\ 0\\.024030671070279088\ \(0\)\
-\-\ up\\:\\ 0\\.022309195641303136\ \(0\)\
-\-\ common\\:\\ 0\\.021711332154916475\ \(0\)\
-\-\ prior\\:\\ 0\\.021302065749537507\ \(0\)\
-\-\ soft\\:\\ 0\\.020203172465956796\ \(0\)\
-\-\ tissue\\:\\ 0\\.01966428338303489\ \(0\)\
-\-\ most\\:\\ 0\\.019153739240078408\ \(0\)\
-\-\ demonstrate\\:\\ 0\\.019091768362456706\ \(0\)\
-\-\ had\\:\\ 0\\.017901454555735028\ \(0\)\
-\-\ female\\:\\ 0\\.017055924965512947\ \(0\)\
-\-\ treatment\\:\\ 0\\.01679239766602803\ \(0\)\
-\-\ patient\\:\\ 0\\.016632853027502677\ \(0\)\
-\-\ images\\:\\ 0\\.01591518341698402\ \(0\)\
-\-\ by\\:\\ 0\\.013814280614027908\ \(0\)\
-\-\ mass\\:\\ 0\\.011538456378131693\ \(0\)\
-\-\ is\\:\\ 0\\.010918267541450982\ \(0\)\
-\-\ was\\:\\ 0\\.009594927400132881\ \(0\)\
-\-\ left\\:\\ 0\\.009282575429834123\ \(0\)\
-\-\ year\\:\\ 0\\.009282575429834123\ \(0\)\
-\-\ old\\:\\ 0\\.008494510649148102\ \(0\)\
-\-\ of\\:\\ 0\\.006786629172698355\ \(0\)\
-\-\ to\\:\\ 0\\.004146292314980449\ \(0\)\
-\-\ the\\:\\ 0\\.004026678195251237\ \(0\)\
-\-\ a\\:\\ 0\\.0038504835128019537\ \(0\)\
-\-\ and\\:\\ 0\\.003495320499654727\ \(0\)\
-\-\ with\\:\\ 0\\.003407888623977371\ \(0\)\
-\-\ \\.\\:\\ 0\\.0031019012123894804\ \(0\)\
+Texto: 
+n/a
+patient is pending treatment and work up by urology.
+sonographic images demonstrate a sessile lobular soft tissue mass along the left wall of the bladder with positive color flow with doppler.  no hydronephrosis was demonstrated.
+transitional cell carcinoma of the bladder
+transitional cell carcinoma
+squamous cell carcinoma
+benign neoplasm
+77 year old white female with history of increasing creatinine.  no history of hematuria.  past medical history includes hypertension and hyperlipidemia.  no prior history of smoking.  patient had no history of occupational exposure to chemicals.
+most common malignant urothelial neoplasm is transitional cell carcinoma.
+
+
+Keywords by value: 
+- transitional: 0.1523883345294288
+- carcinoma: 0.0940554434957618
+- cell: 0.08964041598374703
+- chemicals: 0.07492141878930474
+- bladder: 0.0673477843349326
+- urothelial: 0.06323236243662575
+- sessile: 0.05866922040511375
+- history: 0.05729196784985842
+- neoplasm: 0.05650789467790151
+- occupational: 0.05557743660784643
+- urology: 0.05135104756650812
+- hyperlipidemia: 0.05135104756650812
+- 77: 0.050530102051672555
+- creatinine: 0.04722596801344728
+- lobular: 0.04685955706215751
+- exposure: 0.04316573370387841
+- smoking: 0.041900084986759546
+- hydronephrosis: 0.04179280502378299
+- squamous: 0.04059018869647439
+- color: 0.040496383736166264
+- sonographic: 0.04022028727674361
+- doppler: 0.04012997278487648
+- hematuria: 0.039352859118143124
+- work: 0.038867321054311454
+- pending: 0.03589829719951207
+- increasing: 0.034003033445870974
+- includes: 0.03344544073629937
+- no: 0.03341530682344862
+- hypertension: 0.032706612158254246
+- n/a: 0.03005054997436006
+- malignant: 0.029987093945430105
+- benign: 0.02863155696148739
+- white: 0.0275155748806992
+- along: 0.027417998804451612
+- flow: 0.027417998804451612
+- positive: 0.026921219323146763
+- past: 0.026361159921810037
+- medical: 0.0255272796122913
+- demonstrated: 0.024343883324824924
+- wall: 0.024030671070279088
+- up: 0.022309195641303136
+- common: 0.021711332154916475
+- prior: 0.021302065749537507
+- soft: 0.020203172465956796
+- tissue: 0.01966428338303489
+- most: 0.019153739240078408
+- demonstrate: 0.019091768362456706
+- had: 0.017901454555735028
+- female: 0.017055924965512947
+- treatment: 0.01679239766602803
+- patient: 0.016632853027502677
+- images: 0.01591518341698402
+- by: 0.013814280614027908
+- mass: 0.011538456378131693
+- is: 0.010918267541450982
+- was: 0.009594927400132881
+- left: 0.009282575429834123
+- year: 0.009282575429834123
+- old: 0.008494510649148102
+- of: 0.006786629172698355
+- to: 0.004146292314980449
+- the: 0.004026678195251237
+- a: 0.0038504835128019537
+- and: 0.003495320499654727
+- with: 0.003407888623977371
+- .: 0.0031019012123894804

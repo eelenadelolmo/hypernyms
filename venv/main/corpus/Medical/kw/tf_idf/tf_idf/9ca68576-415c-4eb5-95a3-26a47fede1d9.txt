@@ -1,96 +1,99 @@
-\-\ Texto\\:\\ \ \(0\)\
-\-\ rlq\\ tender\\ to\\ palpation\ \(0\)\
-\-\ wbc\\ 16k\ \(0\)\
-\-\ the\\ patient\\'s\\ ruptured\\ appendix\\ was\\ removed\\ laparoscopically\\.\\ \\ the\\ patient\\ subsequently\\ developed\\ an\\ abscess\\ in\\ the\\ right\\ lower\\ quadrant\\,\\ which\\ prompted\\ the\\ repeat\\ ct\\ two\\ weeks\\ later\\.\ \(0\)\
-\-\ initial\\ ct\\:\\:\\ \\ ruptured\\ appendix\\ with\\ a\\ thickened\\ wall\\,\\ inflammation\\ of\\ the\\ periappendiceal\\ fat\\,\\ free\\ air\\ adjacent\\ to\\ the\\ appendix\\,\\ and\\ an\\ 8mm\\ by\\ 4mm\\ density\\ in\\ the\\ lumen\\ consistent\\ with\\ an\\ appendicolith\\.\\ \\ prominent\\ mesenteric\\ lymph\\ nodes\\ adjacent\\ to\\ the\\ ruptured\\ appendix\\.\ \(0\)\
-\-\ f\\/u\\ ct\\:\\ \\ well\\-circumscribed\\ fluid\\ collection\\ with\\ an\\ enhancing\\ wall\\ in\\ the\\ appendiceal\\ fossa\\ consistent\\ with\\ an\\ abscess\ \(0\)\
-\-\ appendiceal\\ rupture\ \(0\)\
-\-\ 13\\ yo\\ boy\\ with\\ several\\ days\\ of\\ increasing\\ right\\ lower\\ quadrant\\ pain\\,\\ now\\ with\\ fevers\ \(1\)\
-\-\ it\\ is\\ unusual\\ for\\ ruptured\\ appendices\\ to\\ be\\ operated\\ on\\ acutely\\,\\ especially\\ laparoscopically\\.\\ \\ it\\ is\\ not\\ unexpected\\ that\\ the\\ patient\\ subsequently\\ developed\\ an\\ abscess\\ in\\ the\\ right\\ lower\\ quadrant\\ two\\ weeks\\ later\\.\ \(0\)\
-\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
-\-\ ruptured\\:\\ 0\\.11473730507095424\ \(0\)\
-\-\ appendix\\:\\ 0\\.10739504706603807\ \(0\)\
-\-\ laparoscopically\\:\\ 0\\.09957298239094695\ \(0\)\
-\-\ appendiceal\\:\\ 0\\.07645350536864946\ \(0\)\
-\-\ quadrant\\:\\ 0\\.05820727614166557\ \(0\)\
-\-\ 16k\\:\\ 0\\.05240239511875196\ \(0\)\
-\-\ abscess\\:\\ 0\\.05229360472517937\ \(0\)\
-\-\ subsequently\\:\\ 0\\.049985496791705726\ \(0\)\
-\-\ appendices\\:\\ 0\\.04978649119547347\ \(0\)\
-\-\ an\\:\\ 0\\.045741865714247605\ \(0\)\
-\-\ developed\\:\\ 0\\.042452457868835024\ \(0\)\
-\-\ operated\\:\\ 0\\.042018924715951304\ \(0\)\
-\-\ 8mm\\:\\ 0\\.039848136092588644\ \(0\)\
-\-\ later\\:\\ 0\\.03981185343216676\ \(0\)\
-\-\ periappendiceal\\:\\ 0\\.03898664323694656\ \(0\)\
-\-\ lower\\:\\ 0\\.03719733037478444\ \(0\)\
-\-\ 4mm\\:\\ 0\\.03693210303618182\ \(0\)\
-\-\ unexpected\\:\\ 0\\.0366453174712087\ \(0\)\
-\-\ appendicolith\\:\\ 0\\.03610737160708579\ \(0\)\
-\-\ acutely\\:\\ 0\\.03585433474803236\ \(0\)\
-\-\ adjacent\\:\\ 0\\.03486240315011958\ \(0\)\
-\-\ prompted\\:\\ 0\\.03431619911290334\ \(0\)\
-\-\ f\\/u\\:\\ 0\\.03431619911290334\ \(0\)\
-\-\ wall\\:\\ 0\\.03193753703533866\ \(0\)\
-\-\ rlq\\:\\ 0\\.03189882201973295\ \(0\)\
-\-\ two\\:\\ 0\\.03157846758214201\ \(0\)\
-\-\ weeks\\:\\ 0\\.03129390654065998\ \(0\)\
-\-\ well\\-circumscribed\\:\\ 0\\.029193928921407146\ \(0\)\
-\-\ consistent\\:\\ 0\\.02703610669459617\ \(0\)\
-\-\ unusual\\:\\ 0\\.02666701417317599\ \(0\)\
-\-\ lumen\\:\\ 0\\.026548632633381173\ \(0\)\
-\-\ fevers\\:\\ 0\\.02620598859909764\ \(0\)\
-\-\ repeat\\:\\ 0\\.02593372824754682\ \(0\)\
-\-\ mesenteric\\:\\ 0\\.025421426456550624\ \(0\)\
-\-\ nodes\\:\\ 0\\.024901234621711208\ \(0\)\
-\-\ 13\\:\\ 0\\.024901234621711208\ \(0\)\
-\-\ removed\\:\\ 0\\.02485595995939736\ \(0\)\
-\-\ it\\:\\ 0\\.02478514044558731\ \(0\)\
-\-\ thickened\\:\\ 0\\.024722011627472014\ \(0\)\
-\-\ inflammation\\:\\ 0\\.023443450797899442\ \(0\)\
-\-\ rupture\\:\\ 0\\.023407307213714472\ \(0\)\
-\-\ collection\\:\\ 0\\.023335621888391438\ \(0\)\
-\-\ ct\\:\\ 0\\.023134909420491154\ \(0\)\
-\-\ free\\:\\ 0\\.022691619725280398\ \(0\)\
-\-\ especially\\:\\ 0\\.022691619725280398\ \(0\)\
-\-\ prominent\\:\\ 0\\.02262742404235673\ \(0\)\
-\-\ increasing\\:\\ 0\\.022595564160804587\ \(0\)\
-\-\ fossa\\:\\ 0\\.02246967503678148\ \(0\)\
-\-\ tender\\:\\ 0\\.022376844472574382\ \(0\)\
-\-\ lymph\\:\\ 0\\.022255112315771913\ \(0\)\
-\-\ \\:\\:\\ 0\\.021876286761109646\ \(0\)\
-\-\ wbc\\:\\ 0\\.02009725710048911\ \(0\)\
-\-\ now\\:\\ 0\\.01884590703033321\ \(0\)\
-\-\ boy\\:\\ 0\\.018740140515651427\ \(0\)\
-\-\ air\\:\\ 0\\.0186533072680772\ \(0\)\
-\-\ palpation\\:\\ 0\\.018399606969987433\ \(0\)\
-\-\ initial\\:\\ 0\\.018268271892124568\ \(0\)\
-\-\ density\\:\\ 0\\.018139557141031996\ \(0\)\
-\-\ several\\:\\ 0\\.017723179585305726\ \(0\)\
-\-\ right\\:\\ 0\\.017450936305362905\ \(0\)\
-\-\ enhancing\\:\\ 0\\.017290022792804897\ \(0\)\
-\-\ days\\:\\ 0\\.01689725352369018\ \(0\)\
-\-\ fat\\:\\ 0\\.0167671762766557\ \(0\)\
-\-\ yo\\:\\ 0\\.01658936466646943\ \(0\)\
-\-\ patient\\:\\ 0\\.016579198662897834\ \(0\)\
-\-\ fluid\\:\\ 0\\.015668639384540987\ \(0\)\
-\-\ \\'s\\:\\ 0\\.012155139473335774\ \(0\)\
-\-\ to\\:\\ 0\\.011021112475948032\ \(0\)\
-\-\ in\\:\\ 0\\.010874767229425934\ \(0\)\
-\-\ \\,\\:\\ 0\\.010479099310346608\ \(0\)\
-\-\ which\\:\\ 0\\.010291255401564831\ \(0\)\
-\-\ the\\:\\ 0\\.009811239559612153\ \(0\)\
-\-\ that\\:\\ 0\\.009522456313282732\ \(0\)\
-\-\ by\\:\\ 0\\.009179812278999193\ \(0\)\
-\-\ be\\:\\ 0\\.008501656279638252\ \(0\)\
-\-\ not\\:\\ 0\\.007966572075754422\ \(0\)\
-\-\ is\\:\\ 0\\.007255364882383556\ \(0\)\
-\-\ pain\\:\\ 0\\.006732955919553127\ \(0\)\
-\-\ was\\:\\ 0\\.00637598401428185\ \(0\)\
-\-\ for\\:\\ 0\\.00470392353963042\ \(0\)\
-\-\ on\\:\\ 0\\.004670264595905987\ \(0\)\
-\-\ with\\:\\ 0\\.004529193913157022\ \(0\)\
-\-\ a\\:\\ 0\\.0025587083988296857\ \(0\)\
-\-\ of\\:\\ 0\\.0015032748490063023\ \(0\)\
-\-\ \\.\\:\\ 0\\.0013741755908650171\ \(0\)\
-\-\ and\\:\\ 0\\.0011613484240788287\ \(0\)\
+Texto: 
+rlq tender to palpation
+wbc 16k
+the patient's ruptured appendix was removed laparoscopically.  the patient subsequently developed an abscess in the right lower quadrant, which prompted the repeat ct two weeks later.
+initial ct::  ruptured appendix with a thickened wall, inflammation of the periappendiceal fat, free air adjacent to the appendix, and an 8mm by 4mm density in the lumen consistent with an appendicolith.  prominent mesenteric lymph nodes adjacent to the ruptured appendix.
+
+f/u ct:  well-circumscribed fluid collection with an enhancing wall in the appendiceal fossa consistent with an abscess
+appendiceal rupture
+13 yo boy with several days of increasing right lower quadrant pain, now with fevers
+it is unusual for ruptured appendices to be operated on acutely, especially laparoscopically.  it is not unexpected that the patient subsequently developed an abscess in the right lower quadrant two weeks later.
+
+
+Keywords by value: 
+- ruptured: 0.11473730507095424
+- appendix: 0.10739504706603807
+- laparoscopically: 0.09957298239094695
+- appendiceal: 0.07645350536864946
+- quadrant: 0.05820727614166557
+- 16k: 0.05240239511875196
+- abscess: 0.05229360472517937
+- subsequently: 0.049985496791705726
+- appendices: 0.04978649119547347
+- an: 0.045741865714247605
+- developed: 0.042452457868835024
+- operated: 0.042018924715951304
+- 8mm: 0.039848136092588644
+- later: 0.03981185343216676
+- periappendiceal: 0.03898664323694656
+- lower: 0.03719733037478444
+- 4mm: 0.03693210303618182
+- unexpected: 0.0366453174712087
+- appendicolith: 0.03610737160708579
+- acutely: 0.03585433474803236
+- adjacent: 0.03486240315011958
+- prompted: 0.03431619911290334
+- f/u: 0.03431619911290334
+- wall: 0.03193753703533866
+- rlq: 0.03189882201973295
+- two: 0.03157846758214201
+- weeks: 0.03129390654065998
+- well-circumscribed: 0.029193928921407146
+- consistent: 0.02703610669459617
+- unusual: 0.02666701417317599
+- lumen: 0.026548632633381173
+- fevers: 0.02620598859909764
+- repeat: 0.02593372824754682
+- mesenteric: 0.025421426456550624
+- nodes: 0.024901234621711208
+- 13: 0.024901234621711208
+- removed: 0.02485595995939736
+- it: 0.02478514044558731
+- thickened: 0.024722011627472014
+- inflammation: 0.023443450797899442
+- rupture: 0.023407307213714472
+- collection: 0.023335621888391438
+- ct: 0.023134909420491154
+- free: 0.022691619725280398
+- especially: 0.022691619725280398
+- prominent: 0.02262742404235673
+- increasing: 0.022595564160804587
+- fossa: 0.02246967503678148
+- tender: 0.022376844472574382
+- lymph: 0.022255112315771913
+- :: 0.021876286761109646
+- wbc: 0.02009725710048911
+- now: 0.01884590703033321
+- boy: 0.018740140515651427
+- air: 0.0186533072680772
+- palpation: 0.018399606969987433
+- initial: 0.018268271892124568
+- density: 0.018139557141031996
+- several: 0.017723179585305726
+- right: 0.017450936305362905
+- enhancing: 0.017290022792804897
+- days: 0.01689725352369018
+- fat: 0.0167671762766557
+- yo: 0.01658936466646943
+- patient: 0.016579198662897834
+- fluid: 0.015668639384540987
+- 's: 0.012155139473335774
+- to: 0.011021112475948032
+- in: 0.010874767229425934
+- ,: 0.010479099310346608
+- which: 0.010291255401564831
+- the: 0.009811239559612153
+- that: 0.009522456313282732
+- by: 0.009179812278999193
+- be: 0.008501656279638252
+- not: 0.007966572075754422
+- is: 0.007255364882383556
+- pain: 0.006732955919553127
+- was: 0.00637598401428185
+- for: 0.00470392353963042
+- on: 0.004670264595905987
+- with: 0.004529193913157022
+- a: 0.0025587083988296857
+- of: 0.0015032748490063023
+- .: 0.0013741755908650171
+- and: 0.0011613484240788287

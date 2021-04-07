@@ -1,225 +1,235 @@
-\-\ Texto\\:\\ \ \(0\)\
-\-\ patient\\ with\\ darkened\\,\\ thickened\\,\\ warm\\ skin\\ over\\ right\\ breast\\.\\ \\ skin\\ dimpling\\ present\\.\\ \\ adenopathy\\ present\\ in\\ right\\ axilla\\.\ \(0\)\
-\-\ left\\ breast\\ and\\ axilla\\ normal\\.\\ \\ exam\\ otherwise\\ unremarkable\\.\ \(0\)\
-\-\ this\\ patient\\ was\\ treated\\ with\\ antibiotics\\ and\\ failed\\ to\\ improve\\ with\\ therapy\\.\ \(0\)\
-\-\ a\\ biopsy\\ was\\ done\\ when\\ the\\ patient\\ returned\\ without\\ resolution\\ of\\ disease\\.\ \(0\)\
-\-\ pathology\\:\\ biopsy\\ showed\\ dermal\\ lymphatic\\ invasion\\ by\\ tumor\\ cells\\,\\ atypical\\ mitotic\\ figures\\ and\\ pleomorphic\\ tumor\\ cells\\ consistent\\ with\\ inflammatory\\ breast\\ cancer\\.\\ \ \(0\)\
-\-\ the\\ patient\\ was\\ then\\ referred\\ for\\ an\\ nih\\ treatment\\ protocol\\.\ \(0\)\
-\-\ neoadjuvant\\ chemotherapy\\ protocol\\ followed\\ by\\ mastectomy\\ and\\ local\\ radiation\\ therapy\\.\ \(0\)\
-\-\ ct\\ of\\ chest\\ shows\\ skin\\ thickening\\ over\\ right\\ breast\\,\\ significant\\ enlargement\\ of\\ right\\ breast\\ compared\\ to\\ left\\.\\ \\ fat\\ streaking\\ within\\ the\\ right\\ breast\\.\ \(0\)\
-\-\ mri\\ of\\ thoracic\\ spine\\ shows\\ abnormal\\ signal\\ intensity\\ at\\ t4\\ and\\ t7\\ consistent\\ with\\ metastases\\.\ \(0\)\
-\-\ inflammatory\\ breast\\ cancer\\,\\ metastatic\\ to\\ thoracic\\ spine\\ \\(stage\\ iv\\)\ \(0\)\
-\-\ inflammatory\\ breast\\ cancer\\ metastatic\\ \\-stage\\ iv\ \(0\)\
-\-\ inflammatory\\ breast\\ cancer\\,\\ locally\\ advanced\\-stage\\ iii\ \(0\)\
-\-\ acute\\ mastitis\\ and\\/or\\ cellulitis\ \(0\)\
-\-\ diffuse\\ inflammation\\ by\\ lymphoma\\ \ \(0\)\
-\-\ advanced\\ non\\-inflammatory\\ breast\\ cancer\ \(0\)\
-\-\ 55\\ y\\/o\\ woman\\ seen\\ as\\ an\\ outpatient\\ for\\ possible\\ mastitis\\.\ \(1\)\
-\-\ in\\ 2004\\,\\ approximately\\ 217\\,440\\ women\\ were\\ diagnosed\\ with\\ breast\\ cancer\\ and\\ approximately\\ 40\\,580\\ died\\ from\\ it\\.\\ \\ breast\\ cancer\\ is\\ the\\ leading\\ cause\\ of\\ death\\ in\\ women\\ in\\ the\\ u\\.s\\.\\ ages\\ 45\\-55\\.\ \(0\)\
-\-\ inflammatory\\ breast\\ cancer\\ is\\ rare\\,\\ consisting\\ of\\ 1\\-5\\%\\ of\\ invasive\\ breast\\ cancers\\.\\ \\ it\\ is\\ rapidly\\ progressive\\ and\\ the\\ most\\ lethal\\ form\\ of\\ locally\\ advanced\\ breast\\ cancer\\.\\ \\ it\\ is\\ characterized\\ by\\ early\\ metastatic\\ spread\\.\\ \\ in\\ fact\\,\\ up\\ to\\ 1\\/3\\ of\\ patients\\ have\\ distant\\ metastases\\ at\\ the\\ time\\ of\\ diagnosis\\.\ \(0\)\
-\-\ while\\ biopsy\\ tends\\ to\\ show\\ characteristic\\ dermal\\ lymphatic\\ invasion\\ by\\ tumor\\ cells\\,\\ which\\ create\\ tumor\\ emboli\\ that\\ facilitate\\ in\\ the\\ early\\ metastatic\\ spread\\,\\ diagnosis\\ is\\ basically\\ clinical\\.\\ \\ the\\ hallmark\\ of\\ inflammatory\\ breast\\ cancer\\ is\\ the\\ classic\\ peau\\ d\\‚\\Ä\\ôorange\\ skin\\ changes\\.\\ \\ the\\ classic\\ definition\\ is\\ \\‚\\Ä\\údiffuse\\ brawny\\ induration\\ of\\ the\\ skin\\ of\\ the\\ breast\\ with\\ an\\ erysipeloid\\ edge\\,\\ usually\\ without\\ underlying\\ palpable\\ mass\\.\\‚\\Ä\\ù1\\ \\ as\\ in\\ this\\ case\\,\\ patients\\ are\\ frequently\\ misdiagnosed\\ with\\ acute\\ mastitis\\ or\\ a\\ breast\\ abscess\\,\\ especially\\ if\\ lactating\\,\\ when\\ they\\ first\\ present\\.\\ \\ \ \(0\)\
-\-\ while\\ bilateral\\ mammograms\\ are\\ recommended\\ for\\ all\\ patients\\ with\\ breast\\ cancer\\,\\ in\\ these\\ patients\\ ct\\ and\\ mri\\ and\\ performed\\ to\\ look\\ for\\ distant\\ metastases\\ to\\ differentiate\\ between\\ stage\\ iii\\ and\\ stage\\ iv\\ cancers\\.\ \(0\)\
-\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
-\-\ breast\\:\\ 0\\.14398702147303002\ \(0\)\
-\-\ cancer\\:\\ 0\\.07428081227887601\ \(0\)\
-\-\ mastitis\\:\\ 0\\.04772808062473759\ \(0\)\
-\-\ inflammatory\\:\\ 0\\.042740133810461885\ \(0\)\
-\-\ skin\\:\\ 0\\.03944866508700695\ \(0\)\
-\-\ axilla\\:\\ 0\\.02876108211495328\ \(0\)\
-\-\ locally\\:\\ 0\\.028226343484615665\ \(0\)\
-\-\ dermal\\:\\ 0\\.027521519089462418\ \(0\)\
-\-\ lymphatic\\:\\ 0\\.027307808692487254\ \(0\)\
-\-\ metastases\\:\\ 0\\.02632739747627152\ \(0\)\
-\-\ stage\\:\\ 0\\.026286305977848656\ \(0\)\
-\-\ cancers\\:\\ 0\\.02476902297036948\ \(0\)\
-\-\ cells\\:\\ 0\\.024709952121274022\ \(0\)\
-\-\ distant\\:\\ 0\\.023975370324410595\ \(0\)\
-\-\ iv\\:\\ 0\\.02248864137592135\ \(0\)\
-\-\ protocol\\:\\ 0\\.02209620537879996\ \(0\)\
-\-\ biopsy\\:\\ 0\\.021863172415649716\ \(0\)\
-\-\ patients\\:\\ 0\\.02126514037851948\ \(0\)\
-\-\ darkened\\:\\ 0\\.021191150057611775\ \(0\)\
-\-\ \\-stage\\:\\ 0\\.021191150057611775\ \(0\)\
-\-\ advanced\\-stage\\:\\ 0\\.021191150057611775\ \(0\)\
-\-\ 217\\,440\\:\\ 0\\.021191150057611775\ \(0\)\
-\-\ 40\\,580\\:\\ 0\\.021191150057611775\ \(0\)\
-\-\ 45\\-55\\.\\:\\ 0\\.021191150057611775\ \(0\)\
-\-\ erysipeloid\\:\\ 0\\.021191150057611775\ \(0\)\
-\-\ mass\\.\\:\\ 0\\.021191150057611775\ \(0\)\
-\-\ advanced\\:\\ 0\\.02102339984363549\ \(0\)\
-\-\ metastatic\\:\\ 0\\.02068374426553933\ \(0\)\
-\-\ women\\:\\ 0\\.01996191985506938\ \(0\)\
-\-\ spread\\:\\ 0\\.019872053830972493\ \(0\)\
-\-\ invasion\\:\\ 0\\.019783836818144624\ \(0\)\
-\-\ non\\-inflammatory\\:\\ 0\\.019524930873573446\ \(0\)\
-\-\ brawny\\:\\ 0\\.019524930873573446\ \(0\)\
-\-\ iii\\:\\ 0\\.019286045092467508\ \(0\)\
-\-\ tumor\\:\\ 0\\.019156079823180877\ \(0\)\
-\-\ dimpling\\:\\ 0\\.01855025513292882\ \(0\)\
-\-\ streaking\\:\\ 0\\.01855025513292882\ \(0\)\
-\-\ basically\\:\\ 0\\.01855025513292882\ \(0\)\
-\-\ peau\\:\\ 0\\.01855025513292882\ \(0\)\
-\-\ orange\\:\\ 0\\.01855025513292882\ \(0\)\
-\-\ lactating\\:\\ 0\\.01855025513292882\ \(0\)\
-\-\ misdiagnosed\\:\\ 0\\.017858711689535116\ \(0\)\
-\-\ by\\:\\ 0\\.017101813740923975\ \(0\)\
-\-\ 1\\-5\\:\\ 0\\.01688403594889049\ \(0\)\
-\-\ t7\\:\\ 0\\.016513481430074965\ \(0\)\
-\-\ induration\\:\\ 0\\.016513481430074965\ \(0\)\
-\-\ mitotic\\:\\ 0\\.016192492505496786\ \(0\)\
-\-\ neoadjuvant\\:\\ 0\\.015909360208245862\ \(0\)\
-\-\ lethal\\:\\ 0\\.015909360208245862\ \(0\)\
-\-\ facilitate\\:\\ 0\\.015909360208245862\ \(0\)\
-\-\ thoracic\\:\\ 0\\.01583681493319352\ \(0\)\
-\-\ classic\\:\\ 0\\.015741609994269577\ \(0\)\
-\-\ nih\\:\\ 0\\.01565608973791455\ \(0\)\
-\-\ u\\.s\\:\\ 0\\.01565608973791455\ \(0\)\
-\-\ hallmark\\:\\ 0\\.01565608973791455\ \(0\)\
-\-\ early\\:\\ 0\\.015024802738665567\ \(0\)\
-\-\ figures\\:\\ 0\\.014526273321458455\ \(0\)\
-\-\ create\\:\\ 0\\.014526273321458455\ \(0\)\
-\-\ present\\:\\ 0\\.013918332360084237\ \(0\)\
-\-\ it\\:\\ 0\\.01385227200384387\ \(0\)\
-\-\ tends\\:\\ 0\\.013551597580813828\ \(0\)\
-\-\ spine\\:\\ 0\\.013529343971179558\ \(0\)\
-\-\ 1\\/3\\:\\ 0\\.013359187225829365\ \(0\)\
-\-\ warm\\:\\ 0\\.013096688927836596\ \(0\)\
-\-\ definition\\:\\ 0\\.013015194813231592\ \(0\)\
-\-\ mammograms\\:\\ 0\\.013015194813231592\ \(0\)\
-\-\ consisting\\:\\ 0\\.01293637312375325\ \(0\)\
-\-\ while\\:\\ 0\\.012926198268520738\ \(0\)\
-\-\ approximately\\:\\ 0\\.012710662627671072\ \(0\)\
-\-\ diffuse\\:\\ 0\\.012437535674881322\ \(0\)\
-\-\ mastectomy\\:\\ 0\\.012206367321353677\ \(0\)\
-\-\ cellulitis\\:\\ 0\\.012206367321353677\ \(0\)\
-\-\ differentiate\\:\\ 0\\.012094540360692877\ \(0\)\
-\-\ t4\\:\\ 0\\.012040519072586969\ \(0\)\
-\-\ died\\:\\ 0\\.012040519072586969\ \(0\)\
-\-\ when\\:\\ 0\\.011766015565461566\ \(0\)\
-\-\ outpatient\\:\\ 0\\.011692968041791036\ \(0\)\
-\-\ ages\\:\\ 0\\.011647179111573022\ \(0\)\
-\-\ pleomorphic\\:\\ 0\\.011558137593110644\ \(0\)\
-\-\ edge\\:\\ 0\\.011514823877959974\ \(0\)\
-\-\ failed\\:\\ 0\\.011472276817624876\ \(0\)\
-\-\ look\\:\\ 0\\.011430469743798268\ \(0\)\
-\-\ rapidly\\:\\ 0\\.011389377355915335\ \(0\)\
-\-\ shows\\:\\ 0\\.011295065864081149\ \(0\)\
-\-\ emboli\\:\\ 0\\.01111986462004825\ \(0\)\
-\-\ death\\:\\ 0\\.011083715876383493\ \(0\)\
-\-\ 2004\\:\\ 0\\.01104810268939998\ \(0\)\
-\-\ therapy\\:\\ 0\\.010983849981926025\ \(0\)\
-\-\ improve\\:\\ 0\\.010944323430108613\ \(0\)\
-\-\ right\\:\\ 0\\.010836919580654048\ \(0\)\
-\-\ fact\\:\\ 0\\.01081257286161103\ \(0\)\
-\-\ returned\\:\\ 0\\.010511699921817745\ \(0\)\
-\-\ over\\:\\ 0\\.010459820144903667\ \(0\)\
-\-\ \\,\\:\\ 0\\.010411925596818746\ \(0\)\
-\-\ invasive\\:\\ 0\\.010321465978166966\ \(0\)\
-\-\ d\\:\\ 0\\.010244330606648937\ \(0\)\
-\-\ characterized\\:\\ 0\\.01021915921273717\ \(0\)\
-\-\ acute\\:\\ 0\\.010143650620704305\ \(0\)\
-\-\ consistent\\:\\ 0\\.010073549369380786\ \(0\)\
-\-\ 55\\:\\ 0\\.009958388436309116\ \(0\)\
-\-\ leading\\:\\ 0\\.009827237031860956\ \(0\)\
-\-\ without\\:\\ 0\\.00967314022287577\ \(0\)\
-\-\ form\\:\\ 0\\.00960393475567659\ \(0\)\
-\-\ is\\:\\ 0\\.009461623674742979\ \(0\)\
-\-\ mri\\:\\ 0\\.009438826225551058\ \(0\)\
-\-\ local\\:\\ 0\\.00943550311477102\ \(0\)\
-\-\ diagnosis\\:\\ 0\\.009433746782598174\ \(0\)\
-\-\ thickened\\:\\ 0\\.009211326447735967\ \(0\)\
-\-\ adenopathy\\:\\ 0\\.009146353677572699\ \(0\)\
-\-\ atypical\\:\\ 0\\.008902717874062393\ \(0\)\
-\-\ frequently\\:\\ 0\\.008902717874062393\ \(0\)\
-\-\ resolution\\:\\ 0\\.008859662762123618\ \(0\)\
-\-\ underlying\\:\\ 0\\.008803429878530574\ \(0\)\
-\-\ inflammation\\:\\ 0\\.00873493960017888\ \(0\)\
-\-\ compared\\:\\ 0\\.00869476296322277\ \(0\)\
-\-\ characteristic\\:\\ 0\\.00869476296322277\ \(0\)\
-\-\ and\\/or\\:\\ 0\\.008681518598292555\ \(0\)\
-\-\ an\\:\\ 0\\.008521621617437957\ \(0\)\
-\-\ done\\:\\ 0\\.008515670349525845\ \(0\)\
-\-\ recommended\\:\\ 0\\.008515670349525845\ \(0\)\
-\-\ especially\\:\\ 0\\.008454810234178994\ \(0\)\
-\-\ pathology\\:\\ 0\\.008407207764717024\ \(0\)\
-\-\ patient\\:\\ 0\\.008236460874196038\ \(0\)\
-\-\ enlargement\\:\\ 0\\.00815040482328148\ \(0\)\
-\-\ progressive\\:\\ 0\\.0081188440265464\ \(0\)\
-\-\ in\\:\\ 0\\.008103792887312595\ \(0\)\
-\-\ rare\\:\\ 0\\.007976803362195424\ \(0\)\
-\-\ referred\\:\\ 0\\.007751277508306831\ \(0\)\
-\-\ antibiotics\\:\\ 0\\.00771566432132332\ \(0\)\
-\-\ \\‚\\Ä\\ú\\:\\ 0\\.007671877206199904\ \(0\)\
-\-\ \\‚\\Ä\\ù\\:\\ 0\\.007628873444779771\ \(0\)\
-\-\ diagnosed\\:\\ 0\\.007553353742295686\ \(0\)\
-\-\ intensity\\:\\ 0\\.007424689125911782\ \(0\)\
-\-\ they\\:\\ 0\\.007401312804056025\ \(0\)\
-\-\ otherwise\\:\\ 0\\.00737816161881333\ \(0\)\
-\-\ chemotherapy\\:\\ 0\\.007362850445050157\ \(0\)\
-\-\ then\\:\\ 0\\.007310016534668486\ \(0\)\
-\-\ palpable\\:\\ 0\\.0072803390447110355\ \(0\)\
-\-\ to\\:\\ 0\\.0071862422093771725\ \(0\)\
-\-\ was\\:\\ 0\\.007127001362117934\ \(0\)\
-\-\ for\\:\\ 0\\.007010655275410723\ \(0\)\
-\-\ thickening\\:\\ 0\\.006963039830993634\ \(0\)\
-\-\ cause\\:\\ 0\\.006950150544596073\ \(0\)\
-\-\ possible\\:\\ 0\\.006918226487702097\ \(0\)\
-\-\ first\\:\\ 0\\.00689298902592753\ \(0\)\
-\-\ followed\\:\\ 0\\.006886720844660509\ \(0\)\
-\-\ unremarkable\\:\\ 0\\.006800640429524185\ \(0\)\
-\-\ radiation\\:\\ 0\\.006740988580678693\ \(0\)\
-\-\ showed\\:\\ 0\\.0067351040094319635\ \(0\)\
-\-\ between\\:\\ 0\\.006510806577462125\ \(0\)\
-\-\ abscess\\:\\ 0\\.006494798663784296\ \(0\)\
-\-\ clinical\\:\\ 0\\.006320456250158664\ \(0\)\
-\-\ show\\:\\ 0\\.006305663304066409\ \(0\)\
-\-\ fat\\:\\ 0\\.006247385391542388\ \(0\)\
-\-\ usually\\:\\ 0\\.006237808302564325\ \(0\)\
-\-\ as\\:\\ 0\\.006214314932183307\ \(0\)\
-\-\ treated\\:\\ 0\\.006148679894432354\ \(0\)\
-\-\ \\‚\\Ä\\ô\\:\\ 0\\.006139487354916962\ \(0\)\
-\-\ changes\\:\\ 0\\.0058871345582573575\ \(0\)\
-\-\ lymphoma\\:\\ 0\\.005870669794205495\ \(0\)\
-\-\ abnormal\\:\\ 0\\.005858394808449306\ \(0\)\
-\-\ all\\:\\ 0\\.005809912234209834\ \(0\)\
-\-\ time\\:\\ 0\\.005801926027017579\ \(0\)\
-\-\ ct\\:\\ 0\\.005746652179769438\ \(0\)\
-\-\ performed\\:\\ 0\\.005727351757757979\ \(0\)\
-\-\ y\\/o\\:\\ 0\\.005689012090912598\ \(0\)\
-\-\ are\\:\\ 0\\.005600355156392316\ \(0\)\
-\-\ if\\:\\ 0\\.005573902485049605\ \(0\)\
-\-\ at\\:\\ 0\\.005566169003998236\ \(0\)\
-\-\ significant\\:\\ 0\\.005523671036188037\ \(0\)\
-\-\ up\\:\\ 0\\.005523671036188037\ \(0\)\
-\-\ signal\\:\\ 0\\.005416044063155719\ \(0\)\
-\-\ these\\:\\ 0\\.005345780509514039\ \(0\)\
-\-\ bilateral\\:\\ 0\\.00498513877239049\ \(0\)\
-\-\ chest\\:\\ 0\\.004915213942445959\ \(0\)\
-\-\ 1\\:\\ 0\\.004887803769133911\ \(0\)\
-\-\ \\%\\:\\ 0\\.004791637099389442\ \(0\)\
-\-\ woman\\:\\ 0\\.004744959008386794\ \(0\)\
-\-\ most\\:\\ 0\\.004742392167615568\ \(0\)\
-\-\ were\\:\\ 0\\.004664149847812311\ \(0\)\
-\-\ this\\:\\ 0\\.004620851987087178\ \(0\)\
-\-\ left\\:\\ 0\\.004596659948427475\ \(0\)\
-\-\ exam\\:\\ 0\\.0045125815864171595\ \(0\)\
-\-\ case\\:\\ 0\\.004494001040546324\ \(0\)\
-\-\ have\\:\\ 0\\.004448168457608394\ \(0\)\
-\-\ and\\:\\ 0\\.004327139560870636\ \(0\)\
-\-\ the\\:\\ 0\\.004320290146988306\ \(0\)\
-\-\ treatment\\:\\ 0\\.0041577330759636705\ \(0\)\
-\-\ seen\\:\\ 0\\.004059200997758871\ \(0\)\
-\-\ within\\:\\ 0\\.003918585116312696\ \(0\)\
-\-\ which\\:\\ 0\\.0038344821808715115\ \(0\)\
-\-\ of\\:\\ 0\\.0036407437749371384\ \(0\)\
-\-\ that\\:\\ 0\\.0035480305974971717\ \(0\)\
-\-\ disease\\:\\ 0\\.0033575421663839043\ \(0\)\
-\-\ normal\\:\\ 0\\.0032202222466324545\ \(0\)\
-\-\ from\\:\\ 0\\.0030443166181591645\ \(0\)\
-\-\ \\:\\:\\ 0\\.0027170067692083295\ \(0\)\
-\-\ with\\:\\ 0\\.002531340348098576\ \(0\)\
-\-\ or\\:\\ 0\\.0024075066080858354\ \(0\)\
-\-\ \\.\\:\\ 0\\.002048050159462285\ \(0\)\
-\-\ a\\:\\ 0\\.0019067298164355832\ \(0\)\
-\-\ \\(\\:\\ 0\\.0017364464573169725\ \(0\)\
-\-\ \\)\\:\\ 0\\.0017152348368108296\ \(0\)\
+Texto: 
+patient with darkened, thickened, warm skin over right breast.  skin dimpling present.  adenopathy present in right axilla.
+
+left breast and axilla normal.  exam otherwise unremarkable.
+this patient was treated with antibiotics and failed to improve with therapy.
+
+a biopsy was done when the patient returned without resolution of disease.
+
+pathology: biopsy showed dermal lymphatic invasion by tumor cells, atypical mitotic figures and pleomorphic tumor cells consistent with inflammatory breast cancer. 
+
+the patient was then referred for an nih treatment protocol.
+
+neoadjuvant chemotherapy protocol followed by mastectomy and local radiation therapy.
+ct of chest shows skin thickening over right breast, significant enlargement of right breast compared to left.  fat streaking within the right breast.
+mri of thoracic spine shows abnormal signal intensity at t4 and t7 consistent with metastases.
+inflammatory breast cancer, metastatic to thoracic spine (stage iv)
+inflammatory breast cancer metastatic -stage iv
+inflammatory breast cancer, locally advanced-stage iii
+acute mastitis and/or cellulitis
+diffuse inflammation by lymphoma 
+advanced non-inflammatory breast cancer
+55 y/o woman seen as an outpatient for possible mastitis.
+in 2004, approximately 217,440 women were diagnosed with breast cancer and approximately 40,580 died from it.  breast cancer is the leading cause of death in women in the u.s. ages 45-55.
+
+inflammatory breast cancer is rare, consisting of 1-5% of invasive breast cancers.  it is rapidly progressive and the most lethal form of locally advanced breast cancer.  it is characterized by early metastatic spread.  in fact, up to 1/3 of patients have distant metastases at the time of diagnosis.
+
+while biopsy tends to show characteristic dermal lymphatic invasion by tumor cells, which create tumor emboli that facilitate in the early metastatic spread, diagnosis is basically clinical.  the hallmark of inflammatory breast cancer is the classic peau d‚Äôorange skin changes.  the classic definition is ‚Äúdiffuse brawny induration of the skin of the breast with an erysipeloid edge, usually without underlying palpable mass.‚Äù1  as in this case, patients are frequently misdiagnosed with acute mastitis or a breast abscess, especially if lactating, when they first present.  
+
+while bilateral mammograms are recommended for all patients with breast cancer, in these patients ct and mri and performed to look for distant metastases to differentiate between stage iii and stage iv cancers.
+
+
+Keywords by value: 
+- breast: 0.14398702147303002
+- cancer: 0.07428081227887601
+- mastitis: 0.04772808062473759
+- inflammatory: 0.042740133810461885
+- skin: 0.03944866508700695
+- axilla: 0.02876108211495328
+- locally: 0.028226343484615665
+- dermal: 0.027521519089462418
+- lymphatic: 0.027307808692487254
+- metastases: 0.02632739747627152
+- stage: 0.026286305977848656
+- cancers: 0.02476902297036948
+- cells: 0.024709952121274022
+- distant: 0.023975370324410595
+- iv: 0.02248864137592135
+- protocol: 0.02209620537879996
+- biopsy: 0.021863172415649716
+- patients: 0.02126514037851948
+- darkened: 0.021191150057611775
+- -stage: 0.021191150057611775
+- advanced-stage: 0.021191150057611775
+- 217,440: 0.021191150057611775
+- 40,580: 0.021191150057611775
+- 45-55.: 0.021191150057611775
+- erysipeloid: 0.021191150057611775
+- mass.: 0.021191150057611775
+- advanced: 0.02102339984363549
+- metastatic: 0.02068374426553933
+- women: 0.01996191985506938
+- spread: 0.019872053830972493
+- invasion: 0.019783836818144624
+- non-inflammatory: 0.019524930873573446
+- brawny: 0.019524930873573446
+- iii: 0.019286045092467508
+- tumor: 0.019156079823180877
+- dimpling: 0.01855025513292882
+- streaking: 0.01855025513292882
+- basically: 0.01855025513292882
+- peau: 0.01855025513292882
+- orange: 0.01855025513292882
+- lactating: 0.01855025513292882
+- misdiagnosed: 0.017858711689535116
+- by: 0.017101813740923975
+- 1-5: 0.01688403594889049
+- t7: 0.016513481430074965
+- induration: 0.016513481430074965
+- mitotic: 0.016192492505496786
+- neoadjuvant: 0.015909360208245862
+- lethal: 0.015909360208245862
+- facilitate: 0.015909360208245862
+- thoracic: 0.01583681493319352
+- classic: 0.015741609994269577
+- nih: 0.01565608973791455
+- u.s: 0.01565608973791455
+- hallmark: 0.01565608973791455
+- early: 0.015024802738665567
+- figures: 0.014526273321458455
+- create: 0.014526273321458455
+- present: 0.013918332360084237
+- it: 0.01385227200384387
+- tends: 0.013551597580813828
+- spine: 0.013529343971179558
+- 1/3: 0.013359187225829365
+- warm: 0.013096688927836596
+- definition: 0.013015194813231592
+- mammograms: 0.013015194813231592
+- consisting: 0.01293637312375325
+- while: 0.012926198268520738
+- approximately: 0.012710662627671072
+- diffuse: 0.012437535674881322
+- mastectomy: 0.012206367321353677
+- cellulitis: 0.012206367321353677
+- differentiate: 0.012094540360692877
+- t4: 0.012040519072586969
+- died: 0.012040519072586969
+- when: 0.011766015565461566
+- outpatient: 0.011692968041791036
+- ages: 0.011647179111573022
+- pleomorphic: 0.011558137593110644
+- edge: 0.011514823877959974
+- failed: 0.011472276817624876
+- look: 0.011430469743798268
+- rapidly: 0.011389377355915335
+- shows: 0.011295065864081149
+- emboli: 0.01111986462004825
+- death: 0.011083715876383493
+- 2004: 0.01104810268939998
+- therapy: 0.010983849981926025
+- improve: 0.010944323430108613
+- right: 0.010836919580654048
+- fact: 0.01081257286161103
+- returned: 0.010511699921817745
+- over: 0.010459820144903667
+- ,: 0.010411925596818746
+- invasive: 0.010321465978166966
+- d: 0.010244330606648937
+- characterized: 0.01021915921273717
+- acute: 0.010143650620704305
+- consistent: 0.010073549369380786
+- 55: 0.009958388436309116
+- leading: 0.009827237031860956
+- without: 0.00967314022287577
+- form: 0.00960393475567659
+- is: 0.009461623674742979
+- mri: 0.009438826225551058
+- local: 0.00943550311477102
+- diagnosis: 0.009433746782598174
+- thickened: 0.009211326447735967
+- adenopathy: 0.009146353677572699
+- atypical: 0.008902717874062393
+- frequently: 0.008902717874062393
+- resolution: 0.008859662762123618
+- underlying: 0.008803429878530574
+- inflammation: 0.00873493960017888
+- compared: 0.00869476296322277
+- characteristic: 0.00869476296322277
+- and/or: 0.008681518598292555
+- an: 0.008521621617437957
+- done: 0.008515670349525845
+- recommended: 0.008515670349525845
+- especially: 0.008454810234178994
+- pathology: 0.008407207764717024
+- patient: 0.008236460874196038
+- enlargement: 0.00815040482328148
+- progressive: 0.0081188440265464
+- in: 0.008103792887312595
+- rare: 0.007976803362195424
+- referred: 0.007751277508306831
+- antibiotics: 0.00771566432132332
+- ‚Äú: 0.007671877206199904
+- ‚Äù: 0.007628873444779771
+- diagnosed: 0.007553353742295686
+- intensity: 0.007424689125911782
+- they: 0.007401312804056025
+- otherwise: 0.00737816161881333
+- chemotherapy: 0.007362850445050157
+- then: 0.007310016534668486
+- palpable: 0.0072803390447110355
+- to: 0.0071862422093771725
+- was: 0.007127001362117934
+- for: 0.007010655275410723
+- thickening: 0.006963039830993634
+- cause: 0.006950150544596073
+- possible: 0.006918226487702097
+- first: 0.00689298902592753
+- followed: 0.006886720844660509
+- unremarkable: 0.006800640429524185
+- radiation: 0.006740988580678693
+- showed: 0.0067351040094319635
+- between: 0.006510806577462125
+- abscess: 0.006494798663784296
+- clinical: 0.006320456250158664
+- show: 0.006305663304066409
+- fat: 0.006247385391542388
+- usually: 0.006237808302564325
+- as: 0.006214314932183307
+- treated: 0.006148679894432354
+- ‚Äô: 0.006139487354916962
+- changes: 0.0058871345582573575
+- lymphoma: 0.005870669794205495
+- abnormal: 0.005858394808449306
+- all: 0.005809912234209834
+- time: 0.005801926027017579
+- ct: 0.005746652179769438
+- performed: 0.005727351757757979
+- y/o: 0.005689012090912598
+- are: 0.005600355156392316
+- if: 0.005573902485049605
+- at: 0.005566169003998236
+- significant: 0.005523671036188037
+- up: 0.005523671036188037
+- signal: 0.005416044063155719
+- these: 0.005345780509514039
+- bilateral: 0.00498513877239049
+- chest: 0.004915213942445959
+- 1: 0.004887803769133911
+- %: 0.004791637099389442
+- woman: 0.004744959008386794
+- most: 0.004742392167615568
+- were: 0.004664149847812311
+- this: 0.004620851987087178
+- left: 0.004596659948427475
+- exam: 0.0045125815864171595
+- case: 0.004494001040546324
+- have: 0.004448168457608394
+- and: 0.004327139560870636
+- the: 0.004320290146988306
+- treatment: 0.0041577330759636705
+- seen: 0.004059200997758871
+- within: 0.003918585116312696
+- which: 0.0038344821808715115
+- of: 0.0036407437749371384
+- that: 0.0035480305974971717
+- disease: 0.0033575421663839043
+- normal: 0.0032202222466324545
+- from: 0.0030443166181591645
+- :: 0.0027170067692083295
+- with: 0.002531340348098576
+- or: 0.0024075066080858354
+- .: 0.002048050159462285
+- a: 0.0019067298164355832
+- (: 0.0017364464573169725
+- ): 0.0017152348368108296

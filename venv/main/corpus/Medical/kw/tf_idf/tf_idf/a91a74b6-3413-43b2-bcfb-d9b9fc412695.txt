@@ -1,109 +1,112 @@
-\-\ Texto\\:\\ \ \(0\)\
-\-\ symmetric\\,\\ fleshy\\,\\ skin\\ colored\\ nodules\\ attached\\ to\\ a\\ narrow\\ stalk\\ of\\ soft\\ tissue\\ from\\ the\\ medial\\ portion\\ of\\ the\\ proximal\\ interphalangeal\\ joint\\ of\\ the\\ fifth\\ digits\\.\ \(0\)\
-\-\ treatment\\ consisted\\ of\\ a\\ snip\\ excision\\ with\\ electrodessication\\ at\\ the\\ base\\ of\\ the\\ soft\\ tissue\\ stalk\ \(0\)\
-\-\ x\\-rays\\ of\\ hands\\ significant\\ for\\ bilateral\\ small\\ supernumerary\\ rudimentary\\ digits\\ extending\\ from\\ the\\ fifth\\ proximal\\ interphalangeal\\ joint\\ region\\ medially\\,\\ with\\ tiny\\ central\\ ossification\\,\\ attached\\ by\\ a\\ narrow\\ stalk\\ of\\ soft\\ tissue\\.\\ soft\\ tissue\\ and\\ osseous\\ structures\\ of\\ the\\ hands\\ are\\ otherwise\\ normal\\.\ \(0\)\
-\-\ histopathology\\:\\ the\\ biopsy\\ shows\\ connective\\ tissue\\ with\\ scattered\\ eccrine\\ glands\\,\\ fatty\\ tissue\\,\\ neural\\ proliferation\\,\\ and\\ cartilage\\.\ \(0\)\
-\-\ case\\ 2\\,\\ \\(27th\\ annual\\ uniformed\\ services\\ dermatology\\ seminar\\,\\ 2003\\)\\ familialpolydactyly\\ \\(autosomal\\ dominant\\ bilateral\\ postaxial\\ polydactyly\\)\ \(0\)\
-\-\ \\â\\€\\¢\\ traumatic\\ neuroma\ \(1\)\
-\-\ full\\ term\\ infant\\ with\\ an\\ uneventful\\ spontaneous\\ vaginal\\ delivery\\ and\\ normal\\ newborn\\ examination\\.\\ father\\,\\ paternal\\ grandfather\\ and\\ aunt\\ have\\ a\\ history\\ of\\ bilateral\\ supernumerary\\ digits\\.\ \(0\)\
-\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
-\-\ stalk\\:\\ 0\\.10312435232229059\ \(0\)\
-\-\ digits\\:\\ 0\\.09675288840275005\ \(0\)\
-\-\ supernumerary\\:\\ 0\\.09060029344934888\ \(0\)\
-\-\ tissue\\:\\ 0\\.07410077518729001\ \(0\)\
-\-\ interphalangeal\\:\\ 0\\.07159852981463485\ \(0\)\
-\-\ attached\\:\\ 0\\.06192498543516012\ \(0\)\
-\-\ fifth\\:\\ 0\\.057175415108797645\ \(0\)\
-\-\ narrow\\:\\ 0\\.05622958298262845\ \(0\)\
-\-\ hands\\:\\ 0\\.05391547889382999\ \(0\)\
-\-\ snip\\:\\ 0\\.05375316112174694\ \(0\)\
-\-\ electrodessication\\:\\ 0\\.05375316112174694\ \(0\)\
-\-\ familialpolydactyly\\:\\ 0\\.05375316112174694\ \(0\)\
-\-\ postaxial\\:\\ 0\\.05375316112174694\ \(0\)\
-\-\ soft\\:\\ 0\\.05075431131691586\ \(0\)\
-\-\ fleshy\\:\\ 0\\.04530014672467444\ \(0\)\
-\-\ eccrine\\:\\ 0\\.04530014672467444\ \(0\)\
-\-\ polydactyly\\:\\ 0\\.042827798504502704\ \(0\)\
-\-\ paternal\\:\\ 0\\.042827798504502704\ \(0\)\
-\-\ grandfather\\:\\ 0\\.042827798504502704\ \(0\)\
-\-\ colored\\:\\ 0\\.0418878553348243\ \(0\)\
-\-\ rudimentary\\:\\ 0\\.03860129130596645\ \(0\)\
-\-\ aunt\\:\\ 0\\.03811322601527416\ \(0\)\
-\-\ bilateral\\:\\ 0\\.037935690170386165\ \(0\)\
-\-\ neuroma\\:\\ 0\\.03684713232760193\ \(0\)\
-\-\ consisted\\:\\ 0\\.03647746999945294\ \(0\)\
-\-\ 27th\\:\\ 0\\.03518899991611631\ \(0\)\
-\-\ joint\\:\\ 0\\.03370035676880587\ \(0\)\
-\-\ uneventful\\:\\ 0\\.03365659486562298\ \(0\)\
-\-\ tiny\\:\\ 0\\.03262062512906568\ \(0\)\
-\-\ x\\-rays\\:\\ 0\\.03157275770878117\ \(0\)\
-\-\ proliferation\\:\\ 0\\.03141437059656617\ \(0\)\
-\-\ proximal\\:\\ 0\\.03128711197203677\ \(0\)\
-\-\ father\\:\\ 0\\.031109429007696286\ \(0\)\
-\-\ glands\\:\\ 0\\.03096249271758006\ \(0\)\
-\-\ connective\\:\\ 0\\.03067883408565998\ \(0\)\
-\-\ autosomal\\:\\ 0\\.03014827690889395\ \(0\)\
-\-\ medially\\:\\ 0\\.02966021161820165\ \(0\)\
-\-\ histopathology\\:\\ 0\\.029100409488609442\ \(0\)\
-\-\ seminar\\:\\ 0\\.028994362276951704\ \(0\)\
-\-\ uniformed\\:\\ 0\\.02868685707190968\ \(0\)\
-\-\ newborn\\:\\ 0\\.028394117930529428\ \(0\)\
-\-\ services\\:\\ 0\\.028114791491314226\ \(0\)\
-\-\ dermatology\\:\\ 0\\.028114791491314226\ \(0\)\
-\-\ vaginal\\:\\ 0\\.027508861772941026\ \(0\)\
-\-\ cartilage\\:\\ 0\\.027110186411582176\ \(0\)\
-\-\ fatty\\:\\ 0\\.02703348652007693\ \(0\)\
-\-\ delivery\\:\\ 0\\.026735985519043805\ \(0\)\
-\-\ dominant\\:\\ 0\\.02659250687629872\ \(0\)\
-\-\ ossification\\:\\ 0\\.02645232688712373\ \(0\)\
-\-\ neural\\:\\ 0\\.026383427159965604\ \(0\)\
-\-\ 2003\\:\\ 0\\.026181279554374742\ \(0\)\
-\-\ annual\\:\\ 0\\.026115359334227088\ \(0\)\
-\-\ infant\\:\\ 0\\.02466362072866362\ \(0\)\
-\-\ spontaneous\\:\\ 0\\.024312223699171936\ \(0\)\
-\-\ scattered\\:\\ 0\\.024263637298872077\ \(0\)\
-\-\ term\\:\\ 0\\.02384294905809798\ \(0\)\
-\-\ symmetric\\:\\ 0\\.023797948403844187\ \(0\)\
-\-\ full\\:\\ 0\\.022509478320507557\ \(0\)\
-\-\ osseous\\:\\ 0\\.022122759866620385\ \(0\)\
-\-\ traumatic\\:\\ 0\\.021823636958149692\ \(0\)\
-\-\ nodules\\:\\ 0\\.021600724789041167\ \(0\)\
-\-\ excision\\:\\ 0\\.021385675161983496\ \(0\)\
-\-\ base\\:\\ 0\\.020411330992874187\ \(0\)\
-\-\ structures\\:\\ 0\\.020061374907528746\ \(0\)\
-\-\ skin\\:\\ 0\\.020012981312432794\ \(0\)\
-\-\ portion\\:\\ 0\\.018873211264384675\ \(0\)\
-\-\ otherwise\\:\\ 0\\.018715336789185032\ \(0\)\
-\-\ biopsy\\:\\ 0\\.01848593440022415\ \(0\)\
-\-\ extending\\:\\ 0\\.017516579566096323\ \(0\)\
-\-\ central\\:\\ 0\\.017144093639389995\ \(0\)\
-\-\ medial\\:\\ 0\\.01666646044871983\ \(0\)\
-\-\ \\,\\:\\ 0\\.01650671131202972\ \(0\)\
-\-\ normal\\:\\ 0\\.01633673725120855\ \(0\)\
-\-\ examination\\:\\ 0\\.01619770143582052\ \(0\)\
-\-\ from\\:\\ 0\\.015444337965295273\ \(0\)\
-\-\ region\\:\\ 0\\.014717080653898248\ \(0\)\
-\-\ shows\\:\\ 0\\.014325449388590724\ \(0\)\
-\-\ significant\\:\\ 0\\.014011263116184289\ \(0\)\
-\-\ small\\:\\ 0\\.012003507831592188\ \(0\)\
-\-\ case\\:\\ 0\\.01139941727358092\ \(0\)\
-\-\ have\\:\\ 0\\.011283159014421291\ \(0\)\
-\-\ 2\\:\\ 0\\.011220149368966745\ \(0\)\
-\-\ treatment\\:\\ 0\\.010546444875615166\ \(0\)\
-\-\ a\\:\\ 0\\.009673165898014665\ \(0\)\
-\-\ \\â\\€\\¢\\:\\ 0\\.009554965558511512\ \(0\)\
-\-\ \\(\\:\\ 0\\.008809289344437324\ \(0\)\
-\-\ \\)\\:\\ 0\\.008701679172113477\ \(0\)\
-\-\ by\\:\\ 0\\.008676042092956554\ \(0\)\
-\-\ an\\:\\ 0\\.007205273562711768\ \(0\)\
-\-\ history\\:\\ 0\\.007196430107970021\ \(0\)\
-\-\ are\\:\\ 0\\.007102889466643913\ \(0\)\
-\-\ at\\:\\ 0\\.00705953141970508\ \(0\)\
-\-\ \\:\\:\\ 0\\.006891919609699177\ \(0\)\
-\-\ the\\:\\ 0\\.006743867546518332\ \(0\)\
-\-\ of\\:\\ 0\\.006393501263304243\ \(0\)\
-\-\ for\\:\\ 0\\.004445781394162897\ \(0\)\
-\-\ and\\:\\ 0\\.004390463554444352\ \(0\)\
-\-\ with\\:\\ 0\\.002853760392436335\ \(0\)\
-\-\ to\\:\\ 0\\.0026040738319694284\ \(0\)\
-\-\ \\.\\:\\ 0\\.001298763515756571\ \(0\)\
+Texto: 
+symmetric, fleshy, skin colored nodules attached to a narrow stalk of soft tissue from the medial portion of the proximal interphalangeal joint of the fifth digits.
+treatment consisted of a snip excision with electrodessication at the base of the soft tissue stalk
+x-rays of hands significant for bilateral small supernumerary rudimentary digits extending from the fifth proximal interphalangeal joint region medially, with tiny central ossification, attached by a narrow stalk of soft tissue. soft tissue and osseous structures of the hands are otherwise normal.
+
+histopathology: the biopsy shows connective tissue with scattered eccrine glands, fatty tissue, neural proliferation, and cartilage.
+case 2, (27th annual uniformed services dermatology seminar, 2003) familialpolydactyly (autosomal dominant bilateral postaxial polydactyly)
+â€¢ traumatic neuroma
+full term infant with an uneventful spontaneous vaginal delivery and normal newborn examination. father, paternal grandfather and aunt have a history of bilateral supernumerary digits.
+
+
+Keywords by value: 
+- stalk: 0.10312435232229059
+- digits: 0.09675288840275005
+- supernumerary: 0.09060029344934888
+- tissue: 0.07410077518729001
+- interphalangeal: 0.07159852981463485
+- attached: 0.06192498543516012
+- fifth: 0.057175415108797645
+- narrow: 0.05622958298262845
+- hands: 0.05391547889382999
+- snip: 0.05375316112174694
+- electrodessication: 0.05375316112174694
+- familialpolydactyly: 0.05375316112174694
+- postaxial: 0.05375316112174694
+- soft: 0.05075431131691586
+- fleshy: 0.04530014672467444
+- eccrine: 0.04530014672467444
+- polydactyly: 0.042827798504502704
+- paternal: 0.042827798504502704
+- grandfather: 0.042827798504502704
+- colored: 0.0418878553348243
+- rudimentary: 0.03860129130596645
+- aunt: 0.03811322601527416
+- bilateral: 0.037935690170386165
+- neuroma: 0.03684713232760193
+- consisted: 0.03647746999945294
+- 27th: 0.03518899991611631
+- joint: 0.03370035676880587
+- uneventful: 0.03365659486562298
+- tiny: 0.03262062512906568
+- x-rays: 0.03157275770878117
+- proliferation: 0.03141437059656617
+- proximal: 0.03128711197203677
+- father: 0.031109429007696286
+- glands: 0.03096249271758006
+- connective: 0.03067883408565998
+- autosomal: 0.03014827690889395
+- medially: 0.02966021161820165
+- histopathology: 0.029100409488609442
+- seminar: 0.028994362276951704
+- uniformed: 0.02868685707190968
+- newborn: 0.028394117930529428
+- services: 0.028114791491314226
+- dermatology: 0.028114791491314226
+- vaginal: 0.027508861772941026
+- cartilage: 0.027110186411582176
+- fatty: 0.02703348652007693
+- delivery: 0.026735985519043805
+- dominant: 0.02659250687629872
+- ossification: 0.02645232688712373
+- neural: 0.026383427159965604
+- 2003: 0.026181279554374742
+- annual: 0.026115359334227088
+- infant: 0.02466362072866362
+- spontaneous: 0.024312223699171936
+- scattered: 0.024263637298872077
+- term: 0.02384294905809798
+- symmetric: 0.023797948403844187
+- full: 0.022509478320507557
+- osseous: 0.022122759866620385
+- traumatic: 0.021823636958149692
+- nodules: 0.021600724789041167
+- excision: 0.021385675161983496
+- base: 0.020411330992874187
+- structures: 0.020061374907528746
+- skin: 0.020012981312432794
+- portion: 0.018873211264384675
+- otherwise: 0.018715336789185032
+- biopsy: 0.01848593440022415
+- extending: 0.017516579566096323
+- central: 0.017144093639389995
+- medial: 0.01666646044871983
+- ,: 0.01650671131202972
+- normal: 0.01633673725120855
+- examination: 0.01619770143582052
+- from: 0.015444337965295273
+- region: 0.014717080653898248
+- shows: 0.014325449388590724
+- significant: 0.014011263116184289
+- small: 0.012003507831592188
+- case: 0.01139941727358092
+- have: 0.011283159014421291
+- 2: 0.011220149368966745
+- treatment: 0.010546444875615166
+- a: 0.009673165898014665
+- â€¢: 0.009554965558511512
+- (: 0.008809289344437324
+- ): 0.008701679172113477
+- by: 0.008676042092956554
+- an: 0.007205273562711768
+- history: 0.007196430107970021
+- are: 0.007102889466643913
+- at: 0.00705953141970508
+- :: 0.006891919609699177
+- the: 0.006743867546518332
+- of: 0.006393501263304243
+- for: 0.004445781394162897
+- and: 0.004390463554444352
+- with: 0.002853760392436335
+- to: 0.0026040738319694284
+- .: 0.001298763515756571

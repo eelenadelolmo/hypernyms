@@ -1,61 +1,63 @@
-\-\ Texto\\:\\ \ \(0\)\
-\-\ multiple\\ well\\ circumscribed\\ bilateral\\ nodules\\.\ \(0\)\
-\-\ metastatic\\ bladder\\ oncocytoma\\ confirmed\\ by\\ lung\\ biopsy\\ and\\ cystoscopy\\.\ \(0\)\
-\-\ metastases\ \(207\)\
-\-\ abscess\ \(594\)\
-\-\ granulomatous\\ disease\ \(29\)\
-\-\ \\ \\ \\ \\ tb\ \(0\)\
-\-\ \\ \\ \\ \\ fungal\ \(0\)\
-\-\ \\ \\ \\ \\ sarcoid\ \(0\)\
-\-\ \\ \\ \\ \\ rheumatoid\ \(0\)\
-\-\ \\ \\ \\ \\ wegener\\ dissease\ \(0\)\
-\-\ 71\\ y\\/o\\ man\\ with\\ chest\\ discomfort\\.\ \(1\)\
-\-\ patient\\ originally\\ was\\ found\\ to\\ have\\ multiple\\ lung\\ nodules\\.\\ \\ biopsy\\ was\\ consistant\\ with\\ metastasis\\ with\\ unknown\\ primary\\.\\ \\ approximately\\ one\\ year\\ later\\ he\\ was\\ found\\ to\\ have\\ bladder\\ cancer\\ by\\ cystoscopy\\.\ \(0\)\
-\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
-\-\ cystoscopy\\:\\ 0\\.21284118044661948\ \(0\)\
-\-\ dissease\\:\\ 0\\.13356846096918937\ \(0\)\
-\-\ nodules\\:\\ 0\\.10734905652735612\ \(0\)\
-\-\ bladder\\:\\ 0\\.10510336040148574\ \(0\)\
-\-\ consistant\\:\\ 0\\.09868080804503716\ \(0\)\
-\-\ biopsy\\:\\ 0\\.09186949217081093\ \(0\)\
-\-\ oncocytoma\\:\\ 0\\.08420336190825782\ \(0\)\
-\-\ wegener\\:\\ 0\\.08254882718151552\ \(0\)\
-\-\ found\\:\\ 0\\.08160683680157917\ \(0\)\
-\-\ lung\\:\\ 0\\.07500482182541655\ \(0\)\
-\-\ 71\\:\\ 0\\.0749139001978577\ \(0\)\
-\-\ originally\\:\\ 0\\.07312930874851854\ \(0\)\
-\-\ sarcoid\\:\\ 0\\.06643487310792703\ \(0\)\
-\-\ discomfort\\:\\ 0\\.0648927110729279\ \(0\)\
-\-\ fungal\\:\\ 0\\.0627680240834029\ \(0\)\
-\-\ granulomatous\\:\\ 0\\.06248743245056598\ \(0\)\
-\-\ tb\\:\\ 0\\.06234906148748609\ \(0\)\
-\-\ rheumatoid\\:\\ 0\\.06115749895234801\ \(0\)\
-\-\ circumscribed\\:\\ 0\\.057549069502296574\ \(0\)\
-\-\ have\\:\\ 0\\.05607388116257854\ \(0\)\
-\-\ metastases\\:\\ 0\\.055314128030954306\ \(0\)\
-\-\ multiple\\:\\ 0\\.05453957586300815\ \(0\)\
-\-\ unknown\\:\\ 0\\.050528477282189496\ \(0\)\
-\-\ confirmed\\:\\ 0\\.048687872774042386\ \(0\)\
-\-\ metastasis\\:\\ 0\\.04846586858030192\ \(0\)\
-\-\ later\\:\\ 0\\.046748767287771574\ \(0\)\
-\-\ was\\:\\ 0\\.044921705555167585\ \(0\)\
-\-\ by\\:\\ 0\\.043117300098329536\ \(0\)\
-\-\ cancer\\:\\ 0\\.04256311006613281\ \(0\)\
-\-\ abscess\\:\\ 0\\.04093691278991314\ \(0\)\
-\-\ approximately\\:\\ 0\\.04005784585690277\ \(0\)\
-\-\ primary\\:\\ 0\\.038354307013571155\ \(0\)\
-\-\ he\\:\\ 0\\.036124050636863934\ \(0\)\
-\-\ y\\/o\\:\\ 0\\.03585801560332789\ \(0\)\
-\-\ one\\:\\ 0\\.035086839141070365\ \(0\)\
-\-\ metastatic\\:\\ 0\\.03259256672145591\ \(0\)\
-\-\ bilateral\\:\\ 0\\.03142148074718855\ \(0\)\
-\-\ chest\\:\\ 0\\.030980742425113922\ \(0\)\
-\-\ man\\:\\ 0\\.030620179440757563\ \(0\)\
-\-\ well\\:\\ 0\\.029289105348009863\ \(0\)\
-\-\ disease\\:\\ 0\\.02116269001841976\ \(0\)\
-\-\ year\\:\\ 0\\.014486443473832041\ \(0\)\
-\-\ patient\\:\\ 0\\.012978665619945273\ \(0\)\
-\-\ to\\:\\ 0\\.012941457831605645\ \(0\)\
-\-\ with\\:\\ 0\\.005318371640449533\ \(0\)\
-\-\ \\.\\:\\ 0\\.003227230554304207\ \(0\)\
-\-\ and\\:\\ 0\\.0027274091777608855\ \(0\)\
+Texto: 
+multiple well circumscribed bilateral nodules.
+metastatic bladder oncocytoma confirmed by lung biopsy and cystoscopy.
+metastases
+abscess
+granulomatous disease
+    tb
+    fungal
+    sarcoid
+    rheumatoid
+    wegener dissease
+71 y/o man with chest discomfort.
+patient originally was found to have multiple lung nodules.  biopsy was consistant with metastasis with unknown primary.  approximately one year later he was found to have bladder cancer by cystoscopy.
+
+
+Keywords by value: 
+- cystoscopy: 0.21284118044661948
+- dissease: 0.13356846096918937
+- nodules: 0.10734905652735612
+- bladder: 0.10510336040148574
+- consistant: 0.09868080804503716
+- biopsy: 0.09186949217081093
+- oncocytoma: 0.08420336190825782
+- wegener: 0.08254882718151552
+- found: 0.08160683680157917
+- lung: 0.07500482182541655
+- 71: 0.0749139001978577
+- originally: 0.07312930874851854
+- sarcoid: 0.06643487310792703
+- discomfort: 0.0648927110729279
+- fungal: 0.0627680240834029
+- granulomatous: 0.06248743245056598
+- tb: 0.06234906148748609
+- rheumatoid: 0.06115749895234801
+- circumscribed: 0.057549069502296574
+- have: 0.05607388116257854
+- metastases: 0.055314128030954306
+- multiple: 0.05453957586300815
+- unknown: 0.050528477282189496
+- confirmed: 0.048687872774042386
+- metastasis: 0.04846586858030192
+- later: 0.046748767287771574
+- was: 0.044921705555167585
+- by: 0.043117300098329536
+- cancer: 0.04256311006613281
+- abscess: 0.04093691278991314
+- approximately: 0.04005784585690277
+- primary: 0.038354307013571155
+- he: 0.036124050636863934
+- y/o: 0.03585801560332789
+- one: 0.035086839141070365
+- metastatic: 0.03259256672145591
+- bilateral: 0.03142148074718855
+- chest: 0.030980742425113922
+- man: 0.030620179440757563
+- well: 0.029289105348009863
+- disease: 0.02116269001841976
+- year: 0.014486443473832041
+- patient: 0.012978665619945273
+- to: 0.012941457831605645
+- with: 0.005318371640449533
+- .: 0.003227230554304207
+- and: 0.0027274091777608855

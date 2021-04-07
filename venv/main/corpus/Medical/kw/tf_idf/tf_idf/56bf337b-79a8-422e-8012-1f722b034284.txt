@@ -1,63 +1,67 @@
-\-\ Texto\\:\\ \ \(0\)\
-\-\ vital\\ signs\\ within\\ normal\\ limits\\.\ \(1\)\
-\-\ comprehensive\\ chemistry\\ within\\ normal\\ parameters\\.\ \(0\)\
-\-\ cbc\\ within\\ normal\\ parameters\\.\ \(0\)\
-\-\ normal\\ physical\\ exam\ \(11\)\
-\-\ no\\ palpable\\ abdominal\\ abnormality\\.\ \(0\)\
-\-\ patient\\ underwent\\ successful\\ surgical\\ treatment\\ without\\ complication\\.\ \(0\)\
-\-\ us\\ imaging\\ of\\ abdomen\\ demonstrated\\ a\\ pyloric\\ channel\\ 18mm\\ in\\ length\\ with\\ the\\ wall\\ of\\ the\\ pylorus\\ measuring\\ 5mm\\ in\\ thickness\\.\ \(0\)\
-\-\ hypertrophic\\ pyloric\\ stenosis\ \(7\)\
-\-\ hypertrophic\\ pyloric\\ stenosis\\.\ \(4\)\
-\-\ 7\\ week\\ old\\ female\\ infant\\ with\\ vomiting\\ and\\ lethargy\\.\ \(1\)\
-\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
-\-\ pyloric\\:\\ 0\\.22162545260416738\ \(0\)\
-\-\ parameters\\:\\ 0\\.17585032706051382\ \(0\)\
-\-\ hypertrophic\\:\\ 0\\.13792696728490111\ \(0\)\
-\-\ 18mm\\:\\ 0\\.10008445154906108\ \(0\)\
-\-\ stenosis\\:\\ 0\\.0929849523008713\ \(0\)\
-\-\ chemistry\\:\\ 0\\.09192074786986497\ \(0\)\
-\-\ comprehensive\\:\\ 0\\.08308757055430947\ \(0\)\
-\-\ channel\\:\\ 0\\.07829811935581323\ \(0\)\
-\-\ pylorus\\:\\ 0\\.07615713769154575\ \(0\)\
-\-\ 5mm\\:\\ 0\\.07474348915946322\ \(0\)\
-\-\ lethargy\\:\\ 0\\.07474348915946322\ \(0\)\
-\-\ normal\\:\\ 0\\.0744229141443945\ \(0\)\
-\-\ within\\:\\ 0\\.06792214201608673\ \(0\)\
-\-\ successful\\:\\ 0\\.06323386870729421\ \(0\)\
-\-\ thickness\\:\\ 0\\.061233321898642286\ \(0\)\
-\-\ length\\:\\ 0\\.05948498515018391\ \(0\)\
-\-\ complication\\:\\ 0\\.05820202237058648\ \(0\)\
-\-\ vital\\:\\ 0\\.056779591739641075\ \(0\)\
-\-\ infant\\:\\ 0\\.05617824721528935\ \(0\)\
-\-\ cbc\\:\\ 0\\.053032029863921984\ \(0\)\
-\-\ us\\:\\ 0\\.04978346954322099\ \(0\)\
-\-\ limits\\:\\ 0\\.048919633322805633\ \(0\)\
-\-\ measuring\\:\\ 0\\.047463273922899236\ \(0\)\
-\-\ 7\\:\\ 0\\.045475762205667666\ \(0\)\
-\-\ vomiting\\:\\ 0\\.04531331720895667\ \(0\)\
-\-\ abnormality\\:\\ 0\\.043785526997646554\ \(0\)\
-\-\ palpable\\:\\ 0\\.04206418114721931\ \(0\)\
-\-\ signs\\:\\ 0\\.04176911019425075\ \(0\)\
-\-\ underwent\\:\\ 0\\.040724944937197485\ \(0\)\
-\-\ week\\:\\ 0\\.040305769699003166\ \(0\)\
-\-\ abdomen\\:\\ 0\\.035158114762440226\ \(0\)\
-\-\ demonstrated\\:\\ 0\\.034825277534124545\ \(0\)\
-\-\ wall\\:\\ 0\\.034377210003315915\ \(0\)\
-\-\ abdominal\\:\\ 0\\.029665544973918268\ \(0\)\
-\-\ physical\\:\\ 0\\.029118128744183864\ \(0\)\
-\-\ without\\:\\ 0\\.02794462731053\ \(0\)\
-\-\ imaging\\:\\ 0\\.027806580895216704\ \(0\)\
-\-\ exam\\:\\ 0\\.02607269361041025\ \(0\)\
-\-\ surgical\\:\\ 0\\.024947524586825743\ \(0\)\
-\-\ female\\:\\ 0\\.024399448214553244\ \(0\)\
-\-\ treatment\\:\\ 0\\.02402245777223454\ \(0\)\
-\-\ old\\:\\ 0\\.012151869400864646\ \(0\)\
-\-\ no\\:\\ 0\\.011950613204219472\ \(0\)\
-\-\ patient\\:\\ 0\\.0118971101516165\ \(0\)\
-\-\ in\\:\\ 0\\.01170547861500708\ \(0\)\
-\-\ a\\:\\ 0\\.005508330580813906\ \(0\)\
-\-\ \\.\\:\\ 0\\.003944392899705142\ \(0\)\
-\-\ the\\:\\ 0\\.00384025790843405\ \(0\)\
-\-\ with\\:\\ 0\\.003250116002496937\ \(0\)\
-\-\ of\\:\\ 0\\.0032362166888330116\ \(0\)\
-\-\ and\\:\\ 0\\.002500125079614145\ \(0\)\
+Texto: 
+vital signs within normal limits.
+
+comprehensive chemistry within normal parameters.
+cbc within normal parameters.
+
+normal physical exam
+no palpable abdominal abnormality.
+patient underwent successful surgical treatment without complication.
+us imaging of abdomen demonstrated a pyloric channel 18mm in length with the wall of the pylorus measuring 5mm in thickness.
+hypertrophic pyloric stenosis
+hypertrophic pyloric stenosis.
+7 week old female infant with vomiting and lethargy.
+
+
+Keywords by value: 
+- pyloric: 0.22162545260416738
+- parameters: 0.17585032706051382
+- hypertrophic: 0.13792696728490111
+- 18mm: 0.10008445154906108
+- stenosis: 0.0929849523008713
+- chemistry: 0.09192074786986497
+- comprehensive: 0.08308757055430947
+- channel: 0.07829811935581323
+- pylorus: 0.07615713769154575
+- 5mm: 0.07474348915946322
+- lethargy: 0.07474348915946322
+- normal: 0.0744229141443945
+- within: 0.06792214201608673
+- successful: 0.06323386870729421
+- thickness: 0.061233321898642286
+- length: 0.05948498515018391
+- complication: 0.05820202237058648
+- vital: 0.056779591739641075
+- infant: 0.05617824721528935
+- cbc: 0.053032029863921984
+- us: 0.04978346954322099
+- limits: 0.048919633322805633
+- measuring: 0.047463273922899236
+- 7: 0.045475762205667666
+- vomiting: 0.04531331720895667
+- abnormality: 0.043785526997646554
+- palpable: 0.04206418114721931
+- signs: 0.04176911019425075
+- underwent: 0.040724944937197485
+- week: 0.040305769699003166
+- abdomen: 0.035158114762440226
+- demonstrated: 0.034825277534124545
+- wall: 0.034377210003315915
+- abdominal: 0.029665544973918268
+- physical: 0.029118128744183864
+- without: 0.02794462731053
+- imaging: 0.027806580895216704
+- exam: 0.02607269361041025
+- surgical: 0.024947524586825743
+- female: 0.024399448214553244
+- treatment: 0.02402245777223454
+- old: 0.012151869400864646
+- no: 0.011950613204219472
+- patient: 0.0118971101516165
+- in: 0.01170547861500708
+- a: 0.005508330580813906
+- .: 0.003944392899705142
+- the: 0.00384025790843405
+- with: 0.003250116002496937
+- of: 0.0032362166888330116
+- and: 0.002500125079614145

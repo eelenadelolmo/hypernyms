@@ -1,46 +1,48 @@
-\-\ Texto\\:\\ \ \(0\)\
-\-\ no\\ palpable\\ breast\\ abnormalities\\.\ \(0\)\
-\-\ pleomorphic\\ calcifications\\ upper\\ outer\\ quadrant\\ right\\ breast\ \(1\)\
-\-\ recurrent\\ breast\\ carcinoma\ \(0\)\
-\-\ breast\\ carcinoma\ \(26\)\
-\-\ sclerosing\\ adenosis\ \(5\)\
-\-\ dystrophic\\ change\ \(1\)\
-\-\ remote\\ history\\ of\\ invasive\\ ductal\\ cancer\\ in\\ the\\ right\\ breast\\,\\ treated\\ with\\ lumpectomy\\ and\\ radiation\\ therapy\\.\\ \\ presents\\ for\\ annual\\ screening\\ mammogram\\.\ \(0\)\
-\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
-\-\ breast\\:\\ 0\\.35028421598117243\ \(0\)\
-\-\ adenosis\\:\\ 0\\.14969059738414806\ \(0\)\
-\-\ dystrophic\\:\\ 0\\.12622276017860776\ \(0\)\
-\-\ lumpectomy\\:\\ 0\\.12527699096930117\ \(0\)\
-\-\ sclerosing\\:\\ 0\\.11231818462828747\ \(0\)\
-\-\ remote\\:\\ 0\\.10987372029019128\ \(0\)\
-\-\ carcinoma\\:\\ 0\\.10764122977848296\ \(0\)\
-\-\ pleomorphic\\:\\ 0\\.10684856086075616\ \(0\)\
-\-\ outer\\:\\ 0\\.10086338455445429\ \(0\)\
-\-\ mammogram\\:\\ 0\\.0990846577172646\ \(0\)\
-\-\ invasive\\:\\ 0\\.09541621882038795\ \(0\)\
-\-\ annual\\:\\ 0\\.09517597624029427\ \(0\)\
-\-\ ductal\\:\\ 0\\.08951170402632116\ \(0\)\
-\-\ screening\\:\\ 0\\.08100076508729659\ \(0\)\
-\-\ recurrent\\:\\ 0\\.08013405046944616\ \(0\)\
-\-\ change\\:\\ 0\\.0740160331216854\ \(0\)\
-\-\ calcifications\\:\\ 0\\.07060363899183894\ \(0\)\
-\-\ abnormalities\\:\\ 0\\.06975032492662704\ \(0\)\
-\-\ palpable\\:\\ 0\\.0673026898355509\ \(0\)\
-\-\ quadrant\\:\\ 0\\.0668305763108012\ \(0\)\
-\-\ cancer\\:\\ 0\\.062425894763661456\ \(0\)\
-\-\ radiation\\:\\ 0\\.062316694434718586\ \(0\)\
-\-\ treated\\:\\ 0\\.05684112969075243\ \(0\)\
-\-\ therapy\\:\\ 0\\.05076979547201362\ \(0\)\
-\-\ upper\\:\\ 0\\.04582401123041596\ \(0\)\
-\-\ right\\:\\ 0\\.04007252040490741\ \(0\)\
-\-\ presents\\:\\ 0\\.03879209545573169\ \(0\)\
-\-\ history\\:\\ 0\\.026226989726824076\ \(0\)\
-\-\ no\\:\\ 0\\.019120981126751157\ \(0\)\
-\-\ for\\:\\ 0\\.016202403303171447\ \(0\)\
-\-\ in\\:\\ 0\\.009364382892005665\ \(0\)\
-\-\ \\,\\:\\ 0\\.006015779233717497\ \(0\)\
-\-\ and\\:\\ 0\\.004000200127382633\ \(0\)\
-\-\ the\\:\\ 0\\.00307220632674724\ \(0\)\
-\-\ with\\:\\ 0\\.00260009280199755\ \(0\)\
-\-\ of\\:\\ 0\\.0025889733510664095\ \(0\)\
-\-\ \\.\\:\\ 0\\.002366635739823085\ \(0\)\
+Texto: 
+no palpable breast abnormalities.
+pleomorphic calcifications upper outer quadrant right breast
+recurrent breast carcinoma
+breast carcinoma
+sclerosing adenosis
+dystrophic change
+remote history of invasive ductal cancer in the right breast, treated with lumpectomy and radiation therapy.  presents for annual screening mammogram.
+
+
+Keywords by value: 
+- breast: 0.35028421598117243
+- adenosis: 0.14969059738414806
+- dystrophic: 0.12622276017860776
+- lumpectomy: 0.12527699096930117
+- sclerosing: 0.11231818462828747
+- remote: 0.10987372029019128
+- carcinoma: 0.10764122977848296
+- pleomorphic: 0.10684856086075616
+- outer: 0.10086338455445429
+- mammogram: 0.0990846577172646
+- invasive: 0.09541621882038795
+- annual: 0.09517597624029427
+- ductal: 0.08951170402632116
+- screening: 0.08100076508729659
+- recurrent: 0.08013405046944616
+- change: 0.0740160331216854
+- calcifications: 0.07060363899183894
+- abnormalities: 0.06975032492662704
+- palpable: 0.0673026898355509
+- quadrant: 0.0668305763108012
+- cancer: 0.062425894763661456
+- radiation: 0.062316694434718586
+- treated: 0.05684112969075243
+- therapy: 0.05076979547201362
+- upper: 0.04582401123041596
+- right: 0.04007252040490741
+- presents: 0.03879209545573169
+- history: 0.026226989726824076
+- no: 0.019120981126751157
+- for: 0.016202403303171447
+- in: 0.009364382892005665
+- ,: 0.006015779233717497
+- and: 0.004000200127382633
+- the: 0.00307220632674724
+- with: 0.00260009280199755
+- of: 0.0025889733510664095
+- .: 0.002366635739823085

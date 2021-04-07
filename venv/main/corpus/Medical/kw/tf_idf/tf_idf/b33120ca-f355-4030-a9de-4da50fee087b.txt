@@ -1,128 +1,130 @@
-\-\ Texto\\:\\ \ \(0\)\
-\-\ diffuse\\ abdominal\\ pain\\ with\\ scrotal\\ crepitus\\.\ \(0\)\
-\-\ emergent\\ exploratory\\ laparotomy\\ with\\ subsequent\\ omental\\ patch\\ to\\ repair\\ sigmoid\\ colon\\ perforation\\.\ \(0\)\
-\-\ free\\ abdominal\\ air\ \(1\)\
-\-\ sigmoid\\ colon\\ perforation\\ secondary\\ to\\ instrumentation\ \(0\)\
-\-\ \\â\\€\\¢\\ gastric\\ ulcer\\ perforation\ \(1\)\
-\-\ \\â\\€\\¢\\ traumatic\\ intestinal\\ rupture\ \(1\)\
-\-\ \\â\\€\\¢\\ trauma\\ secondary\\ to\\ colonic\\ instrumentation\ \(1\)\
-\-\ 47\\ y\\/o\\ man\\ presents\\ with\\ scrotal\\ \\"crackles\\"\\ and\\ diffuse\\ abdominal\\ pain\\.\ \(1\)\
-\-\ this\\ 47\\-year\\-old\\ man\\ has\\ a\\ longstanding\\ history\\ of\\ colonic\\ crohn\\'s\\ disease\\.\\ a\\ diverting\\ ileostomy\\ was\\ done\\ four\\ years\\ ago\\ but\\ he\\ has\\ persistent\\ strictures\\ in\\ the\\ colon\\ and\\ rectum\\;and\\,\\ these\\ have\\ been\\ endoscopically\\ dilated\\ multiple\\ times\\.\\ despite\\ recommendations\\ by\\ \\ gastroenterology\\ for\\ a\\ total\\ colectomy\\,\\ the\\ patient\\ had\\ not\\ been\\ convinced\\.\\ he\\ has\\,\\ therefore\\,\\ been\\ managed\\ medically\\ with\\ steroids\\,\\ remicade\\,\\ and\\ so\\ forth\\,\\ and\\ has\\ had\\ periodic\\ endoscopic\\ dilations\\ of\\ the\\ strictures\\.\\ prior\\ to\\ presentation\\ to\\ the\\ emergency\\ room\\ for\\ diffuse\\ abdominal\\ pain\\,\\ he\\ had\\ three\\ separate\\ strictures\\ dilated\\,\\ apparently\\ at\\ 15\\,\\ 25\\,\\ and\\ 35\\ cm\\ from\\ the\\ anus\\.\\ afterwards\\,\\ he\\ had\\ abdominal\\ pain\\ and\\ subcutaneous\\ emphysema\\ and\\ a\\ subsequent\\ chest\\ x\\-ray\\ showed\\ massive\\ free\\ air\\ so\\ an\\ emergency\\ surgical\\ consultation\\ was\\ obtained\\.\ \(0\)\
-\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
-\-\ strictures\\:\\ 0\\.08394963898647445\ \(0\)\
-\-\ perforation\\:\\ 0\\.0659501672425485\ \(0\)\
-\-\ instrumentation\\:\\ 0\\.05925146666070334\ \(0\)\
-\-\ abdominal\\:\\ 0\\.053397980953052884\ \(0\)\
-\-\ scrotal\\:\\ 0\\.05054318308272936\ \(0\)\
-\-\ colon\\:\\ 0\\.05033899364733509\ \(0\)\
-\-\ he\\:\\ 0\\.047683746840660395\ \(0\)\
-\-\ colonic\\:\\ 0\\.04656635340606826\ \(0\)\
-\-\ sigmoid\\:\\ 0\\.04349610305311915\ \(0\)\
-\-\ 47\\-year\\-old\\:\\ 0\\.04061185621703277\ \(0\)\
-\-\ convinced\\:\\ 0\\.04061185621703277\ \(0\)\
-\-\ remicade\\:\\ 0\\.04061185621703277\ \(0\)\
-\-\ so\\:\\ 0\\.03888264738809294\ \(0\)\
-\-\ diffuse\\:\\ 0\\.03880511130562972\ \(0\)\
-\-\ endoscopically\\:\\ 0\\.03714612031423304\ \(0\)\
-\-\ dilations\\:\\ 0\\.03714612031423304\ \(0\)\
-\-\ had\\:\\ 0\\.03687699638481417\ \(0\)\
-\-\ forth\\:\\ 0\\.03603040255766199\ \(0\)\
-\-\ free\\:\\ 0\\.03517201057418461\ \(0\)\
-\-\ ileostomy\\:\\ 0\\.035118794773692216\ \(0\)\
-\-\ been\\:\\ 0\\.03487192334195987\ \(0\)\
-\-\ diverting\\:\\ 0\\.034348041374555924\ \(0\)\
-\-\ subsequent\\:\\ 0\\.03326580697809812\ \(0\)\
-\-\ gastroenterology\\:\\ 0\\.03256466665486226\ \(0\)\
-\-\ emergency\\:\\ 0\\.032357885979802756\ \(0\)\
-\-\ has\\:\\ 0\\.03209399940988556\ \(0\)\
-\-\ afterwards\\:\\ 0\\.03208811575584064\ \(0\)\
-\-\ dilated\\:\\ 0\\.03105091406591629\ \(0\)\
-\-\ colectomy\\:\\ 0\\.02991152539955141\ \(0\)\
-\-\ exploratory\\:\\ 0\\.029355397224000292\ \(0\)\
-\-\ patch\\:\\ 0\\.029355397224000292\ \(0\)\
-\-\ air\\:\\ 0\\.028912626265519662\ \(0\)\
-\-\ medically\\:\\ 0\\.028854979931215375\ \(0\)\
-\-\ crepitus\\:\\ 0\\.028622379853040912\ \(0\)\
-\-\ omental\\:\\ 0\\.028622379853040912\ \(0\)\
-\-\ anus\\:\\ 0\\.028622379853040912\ \(0\)\
-\-\ longstanding\\:\\ 0\\.028400121040186743\ \(0\)\
-\-\ recommendations\\:\\ 0\\.028400121040186743\ \(0\)\
-\-\ apparently\\:\\ 0\\.027983212995491488\ \(0\)\
-\-\ laparotomy\\:\\ 0\\.027598407789810847\ \(0\)\
-\-\ periodic\\:\\ 0\\.02724111296990012\ \(0\)\
-\-\ emergent\\:\\ 0\\.026300851812385423\ \(0\)\
-\-\ endoscopic\\:\\ 0\\.025156643950241184\ \(0\)\
-\-\ crackles\\:\\ 0\\.0248268541112822\ \(0\)\
-\-\ massive\\:\\ 0\\.024418463956210862\ \(0\)\
-\-\ intestinal\\:\\ 0\\.024226132552071886\ \(0\)\
-\-\ secondary\\:\\ 0\\.023890299665088075\ \(0\)\
-\-\ rectum\\:\\ 0\\.02386233578065974\ \(0\)\
-\-\ consultation\\:\\ 0\\.02386233578065974\ \(0\)\
-\-\ separate\\:\\ 0\\.023689904900303895\ \(0\)\
-\-\ ulcer\\:\\ 0\\.023523222798965935\ \(0\)\
-\-\ \\â\\€\\¢\\:\\ 0\\.023505215273938316\ \(0\)\
-\-\ emphysema\\:\\ 0\\.02336191848787483\ \(0\)\
-\-\ managed\\:\\ 0\\.022980053593951957\ \(0\)\
-\-\ crohn\\:\\ 0\\.022835115909585695\ \(0\)\
-\-\ 47\\:\\ 0\\.022423925418400836\ \(0\)\
-\-\ subcutaneous\\:\\ 0\\.022230352857497384\ \(0\)\
-\-\ pain\\:\\ 0\\.020872163350614696\ \(0\)\
-\-\ times\\:\\ 0\\.02071344794752296\ \(0\)\
-\-\ man\\:\\ 0\\.020209318430899993\ \(0\)\
-\-\ therefore\\:\\ 0\\.020181974654274844\ \(0\)\
-\-\ steroids\\:\\ 0\\.020098639391848784\ \(0\)\
-\-\ despite\\:\\ 0\\.019856656687539536\ \(0\)\
-\-\ 35\\:\\ 0\\.01966358250690064\ \(0\)\
-\-\ x\\-ray\\:\\ 0\\.019263368968532955\ \(0\)\
-\-\ gastric\\:\\ 0\\.019091530751011915\ \(0\)\
-\-\ four\\:\\ 0\\.018547864750329587\ \(0\)\
-\-\ total\\:\\ 0\\.01839859993458118\ \(0\)\
-\-\ room\\:\\ 0\\.01836927433731919\ \(0\)\
-\-\ rupture\\:\\ 0\\.018140663090628714\ \(0\)\
-\-\ traumatic\\:\\ 0\\.017895382305682744\ \(0\)\
-\-\ done\\:\\ 0\\.017712594327013758\ \(0\)\
-\-\ 25\\:\\ 0\\.017271131291285366\ \(0\)\
-\-\ repair\\:\\ 0\\.017109454388070683\ \(0\)\
-\-\ persistent\\:\\ 0\\.0170417332625319\ \(0\)\
-\-\ 15\\:\\ 0\\.0170417332625319\ \(0\)\
-\-\ \\,\\:\\ 0\\.01624260393103724\ \(0\)\
-\-\ ago\\:\\ 0\\.015903644103986245\ \(0\)\
-\-\ obtained\\:\\ 0\\.01518933050371921\ \(0\)\
-\-\ presentation\\:\\ 0\\.014717003172455412\ \(0\)\
-\-\ three\\:\\ 0\\.014403121141734553\ \(0\)\
-\-\ showed\\:\\ 0\\.014009016339618484\ \(0\)\
-\-\ years\\:\\ 0\\.012546215685092413\ \(0\)\
-\-\ y\\/o\\:\\ 0\\.011833145149098204\ \(0\)\
-\-\ trauma\\:\\ 0\\.011685043908789645\ \(0\)\
-\-\ cm\\:\\ 0\\.01145978058908493\ \(0\)\
-\-\ these\\:\\ 0\\.0111192234597892\ \(0\)\
-\-\ prior\\:\\ 0\\.010970563861011818\ \(0\)\
-\-\ to\\:\\ 0\\.010676702711074657\ \(0\)\
-\-\ \\`\\`\\:\\ 0\\.010500675188159085\ \(0\)\
-\-\ \\'\\'\\:\\ 0\\.010298747509911214\ \(0\)\
-\-\ chest\\:\\ 0\\.010223645000287593\ \(0\)\
-\-\ \\;\\:\\ 0\\.010127105942262968\ \(0\)\
-\-\ was\\:\\ 0\\.009882775222136868\ \(0\)\
-\-\ \\'s\\:\\ 0\\.009420233091835225\ \(0\)\
-\-\ have\\:\\ 0\\.00925219039182546\ \(0\)\
-\-\ but\\:\\ 0\\.009112516505167688\ \(0\)\
-\-\ multiple\\:\\ 0\\.008999030017396345\ \(0\)\
-\-\ surgical\\:\\ 0\\.008981108851257268\ \(0\)\
-\-\ presents\\:\\ 0\\.008728221477539629\ \(0\)\
-\-\ a\\:\\ 0\\.007931996036372025\ \(0\)\
-\-\ for\\:\\ 0\\.007291081486427152\ \(0\)\
-\-\ and\\:\\ 0\\.0072003602292887384\ \(0\)\
-\-\ by\\:\\ 0\\.007114354516224374\ \(0\)\
-\-\ disease\\:\\ 0\\.006983687706078521\ \(0\)\
-\-\ from\\:\\ 0\\.006332178565771062\ \(0\)\
-\-\ not\\:\\ 0\\.006174093358709677\ \(0\)\
-\-\ an\\:\\ 0\\.005908324321423649\ \(0\)\
-\-\ history\\:\\ 0\\.005901072688535417\ \(0\)\
-\-\ at\\:\\ 0\\.005788815764158165\ \(0\)\
-\-\ this\\:\\ 0\\.004805686066570666\ \(0\)\
-\-\ patient\\:\\ 0\\.00428295965458194\ \(0\)\
-\-\ the\\:\\ 0\\.003456232117590645\ \(0\)\
-\-\ with\\:\\ 0\\.002340083521797795\ \(0\)\
-\-\ in\\:\\ 0\\.0021069861507012747\ \(0\)\
-\-\ \\.\\:\\ 0\\.0015974791243805824\ \(0\)\
-\-\ of\\:\\ 0\\.0011650380079798843\ \(0\)\
+Texto: 
+diffuse abdominal pain with scrotal crepitus.
+emergent exploratory laparotomy with subsequent omental patch to repair sigmoid colon perforation.
+free abdominal air
+sigmoid colon perforation secondary to instrumentation
+â€¢ gastric ulcer perforation
+â€¢ traumatic intestinal rupture
+â€¢ trauma secondary to colonic instrumentation
+47 y/o man presents with scrotal "crackles" and diffuse abdominal pain.
+this 47-year-old man has a longstanding history of colonic crohn's disease. a diverting ileostomy was done four years ago but he has persistent strictures in the colon and rectum;and, these have been endoscopically dilated multiple times. despite recommendations by  gastroenterology for a total colectomy, the patient had not been convinced. he has, therefore, been managed medically with steroids, remicade, and so forth, and has had periodic endoscopic dilations of the strictures. prior to presentation to the emergency room for diffuse abdominal pain, he had three separate strictures dilated, apparently at 15, 25, and 35 cm from the anus. afterwards, he had abdominal pain and subcutaneous emphysema and a subsequent chest x-ray showed massive free air so an emergency surgical consultation was obtained.
+
+
+Keywords by value: 
+- strictures: 0.08394963898647445
+- perforation: 0.0659501672425485
+- instrumentation: 0.05925146666070334
+- abdominal: 0.053397980953052884
+- scrotal: 0.05054318308272936
+- colon: 0.05033899364733509
+- he: 0.047683746840660395
+- colonic: 0.04656635340606826
+- sigmoid: 0.04349610305311915
+- 47-year-old: 0.04061185621703277
+- convinced: 0.04061185621703277
+- remicade: 0.04061185621703277
+- so: 0.03888264738809294
+- diffuse: 0.03880511130562972
+- endoscopically: 0.03714612031423304
+- dilations: 0.03714612031423304
+- had: 0.03687699638481417
+- forth: 0.03603040255766199
+- free: 0.03517201057418461
+- ileostomy: 0.035118794773692216
+- been: 0.03487192334195987
+- diverting: 0.034348041374555924
+- subsequent: 0.03326580697809812
+- gastroenterology: 0.03256466665486226
+- emergency: 0.032357885979802756
+- has: 0.03209399940988556
+- afterwards: 0.03208811575584064
+- dilated: 0.03105091406591629
+- colectomy: 0.02991152539955141
+- exploratory: 0.029355397224000292
+- patch: 0.029355397224000292
+- air: 0.028912626265519662
+- medically: 0.028854979931215375
+- crepitus: 0.028622379853040912
+- omental: 0.028622379853040912
+- anus: 0.028622379853040912
+- longstanding: 0.028400121040186743
+- recommendations: 0.028400121040186743
+- apparently: 0.027983212995491488
+- laparotomy: 0.027598407789810847
+- periodic: 0.02724111296990012
+- emergent: 0.026300851812385423
+- endoscopic: 0.025156643950241184
+- crackles: 0.0248268541112822
+- massive: 0.024418463956210862
+- intestinal: 0.024226132552071886
+- secondary: 0.023890299665088075
+- rectum: 0.02386233578065974
+- consultation: 0.02386233578065974
+- separate: 0.023689904900303895
+- ulcer: 0.023523222798965935
+- â€¢: 0.023505215273938316
+- emphysema: 0.02336191848787483
+- managed: 0.022980053593951957
+- crohn: 0.022835115909585695
+- 47: 0.022423925418400836
+- subcutaneous: 0.022230352857497384
+- pain: 0.020872163350614696
+- times: 0.02071344794752296
+- man: 0.020209318430899993
+- therefore: 0.020181974654274844
+- steroids: 0.020098639391848784
+- despite: 0.019856656687539536
+- 35: 0.01966358250690064
+- x-ray: 0.019263368968532955
+- gastric: 0.019091530751011915
+- four: 0.018547864750329587
+- total: 0.01839859993458118
+- room: 0.01836927433731919
+- rupture: 0.018140663090628714
+- traumatic: 0.017895382305682744
+- done: 0.017712594327013758
+- 25: 0.017271131291285366
+- repair: 0.017109454388070683
+- persistent: 0.0170417332625319
+- 15: 0.0170417332625319
+- ,: 0.01624260393103724
+- ago: 0.015903644103986245
+- obtained: 0.01518933050371921
+- presentation: 0.014717003172455412
+- three: 0.014403121141734553
+- showed: 0.014009016339618484
+- years: 0.012546215685092413
+- y/o: 0.011833145149098204
+- trauma: 0.011685043908789645
+- cm: 0.01145978058908493
+- these: 0.0111192234597892
+- prior: 0.010970563861011818
+- to: 0.010676702711074657
+- ``: 0.010500675188159085
+- '': 0.010298747509911214
+- chest: 0.010223645000287593
+- ;: 0.010127105942262968
+- was: 0.009882775222136868
+- 's: 0.009420233091835225
+- have: 0.00925219039182546
+- but: 0.009112516505167688
+- multiple: 0.008999030017396345
+- surgical: 0.008981108851257268
+- presents: 0.008728221477539629
+- a: 0.007931996036372025
+- for: 0.007291081486427152
+- and: 0.0072003602292887384
+- by: 0.007114354516224374
+- disease: 0.006983687706078521
+- from: 0.006332178565771062
+- not: 0.006174093358709677
+- an: 0.005908324321423649
+- history: 0.005901072688535417
+- at: 0.005788815764158165
+- this: 0.004805686066570666
+- patient: 0.00428295965458194
+- the: 0.003456232117590645
+- with: 0.002340083521797795
+- in: 0.0021069861507012747
+- .: 0.0015974791243805824
+- of: 0.0011650380079798843

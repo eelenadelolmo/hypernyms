@@ -1,73 +1,75 @@
-\-\ Texto\\:\\ \ \(0\)\
-\-\ right\\ arm\\ held\\ in\\ internal\\ rotation\\ with\\ limited\\ range\\ of\\ motion\\.\ \(0\)\
-\-\ open\\ reduction\\ and\\ internal\\ fixation\\.\ \(1\)\
-\-\ comminuted\\ fracture\\ of\\ the\\ proximal\\ humerus\\ with\\ displacement\\ of\\ the\\ greater\\ and\\ lesser\\ tuberosity\\.\\ \\ there\\ is\\ impaction\\ of\\ the\\ humeral\\ shaft\\ into\\ the\\ humeral\\ head\\ at\\ the\\ level\\ of\\ the\\ surgical\\ neck\\.\ \(0\)\
-\-\ proximal\\ humerus\\ fracture\\-\\ three\\ part\\,\\ including\\ the\\ greater\\ tuberosity\\ and\\ surgical\\ neck\\ impaction\\.\ \(0\)\
-\-\ proximal\\ humeral\\ fracture\ \(0\)\
-\-\ \\ \\ classification\\ according\\ to\\ neer\\-four\\ part\\ system\\.\ \(0\)\
-\-\ sustained\\ fall\\ down\\ stairs\\ and\\ into\\ house\\.\\ now\\ complaining\\ of\\ shoulder\\ pain\\.\ \(0\)\
-\-\ comminuted\\ fractured\\ showed\\ greater\\ then\\ one\\ centimeter\\ of\\ displacement\\ of\\ the\\ greater\\ tuberosity\\ and\\ impaction\\ at\\ the\\ surgical\\ neck\\.\\ \\ the\\ lesser\\ tuberosity\\ demonstrated\\ less\\ than\\ one\\ centimeter\\ of\\ displacement\\.\ \(0\)\
-\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
-\-\ tuberosity\\:\\ 0\\.1924944080262314\ \(0\)\
-\-\ impaction\\:\\ 0\\.13313904202387727\ \(0\)\
-\-\ humeral\\:\\ 0\\.11127194220044526\ \(0\)\
-\-\ greater\\:\\ 0\\.1052366018908361\ \(0\)\
-\-\ centimeter\\:\\ 0\\.09906442133978224\ \(0\)\
-\-\ displacement\\:\\ 0\\.09005475810168981\ \(0\)\
-\-\ comminuted\\:\\ 0\\.08770135280601266\ \(0\)\
-\-\ lesser\\:\\ 0\\.0862323010242145\ \(0\)\
-\-\ neer\\-four\\:\\ 0\\.07225834773743031\ \(0\)\
-\-\ humerus\\:\\ 0\\.07207668551098197\ \(0\)\
-\-\ part\\:\\ 0\\.06791294409023921\ \(0\)\
-\-\ fracture\\-\\:\\ 0\\.06657681347054552\ \(0\)\
-\-\ proximal\\:\\ 0\\.06308712741902496\ \(0\)\
-\-\ neck\\:\\ 0\\.06170270009061842\ \(0\)\
-\-\ held\\:\\ 0\\.05424831021828097\ \(0\)\
-\-\ house\\:\\ 0\\.05424831021828097\ \(0\)\
-\-\ internal\\:\\ 0\\.046965178219324125\ \(0\)\
-\-\ surgical\\:\\ 0\\.04416938779306853\ \(0\)\
-\-\ stairs\\:\\ 0\\.04385067640300633\ \(0\)\
-\-\ fractured\\:\\ 0\\.04311615051210725\ \(0\)\
-\-\ shaft\\:\\ 0\\.04142883859240111\ \(0\)\
-\-\ classification\\:\\ 0\\.04003026878067355\ \(0\)\
-\-\ sustained\\:\\ 0\\.039714971396839154\ \(0\)\
-\-\ according\\:\\ 0\\.03897602797885311\ \(0\)\
-\-\ one\\:\\ 0\\.03796280956246958\ \(0\)\
-\-\ fracture\\:\\ 0\\.03693564475857015\ \(0\)\
-\-\ fixation\\:\\ 0\\.03555886565154338\ \(0\)\
-\-\ complaining\\:\\ 0\\.034189569875615784\ \(0\)\
-\-\ rotation\\:\\ 0\\.03365564116929643\ \(0\)\
-\-\ into\\:\\ 0\\.03333321914688044\ \(0\)\
-\-\ reduction\\:\\ 0\\.03301661214085617\ \(0\)\
-\-\ open\\:\\ 0\\.031133103173373554\ \(0\)\
-\-\ fall\\:\\ 0\\.030813709988673693\ \(0\)\
-\-\ down\\:\\ 0\\.03006577005863152\ \(0\)\
-\-\ limited\\:\\ 0\\.029557641566598996\ \(0\)\
-\-\ arm\\:\\ 0\\.029336692304397945\ \(0\)\
-\-\ shoulder\\:\\ 0\\.02823672455605603\ \(0\)\
-\-\ range\\:\\ 0\\.02819868865805191\ \(0\)\
-\-\ motion\\:\\ 0\\.02816082844611507\ \(0\)\
-\-\ system\\:\\ 0\\.027577704675416377\ \(0\)\
-\-\ including\\:\\ 0\\.0252903167294502\ \(0\)\
-\-\ then\\:\\ 0\\.024925958019853197\ \(0\)\
-\-\ now\\:\\ 0\\.023943570407390553\ \(0\)\
-\-\ less\\:\\ 0\\.02372081970756297\ \(0\)\
-\-\ three\\:\\ 0\\.02361167400284353\ \(0\)\
-\-\ showed\\:\\ 0\\.022965600556751613\ \(0\)\
-\-\ demonstrated\\:\\ 0\\.020552622807024325\ \(0\)\
-\-\ level\\:\\ 0\\.02018761498071256\ \(0\)\
-\-\ head\\:\\ 0\\.01986558451290079\ \(0\)\
-\-\ at\\:\\ 0\\.018979723816912018\ \(0\)\
-\-\ than\\:\\ 0\\.01835285946654323\ \(0\)\
-\-\ the\\:\\ 0\\.011331908582264408\ \(0\)\
-\-\ there\\:\\ 0\\.010423898003811383\ \(0\)\
-\-\ of\\:\\ 0\\.008594542681818819\ \(0\)\
-\-\ pain\\:\\ 0\\.008554165307628973\ \(0\)\
-\-\ right\\:\\ 0\\.00739042384516735\ \(0\)\
-\-\ and\\:\\ 0\\.00737741826771387\ \(0\)\
-\-\ is\\:\\ 0\\.004608940806432178\ \(0\)\
-\-\ to\\:\\ 0\\.003500558265926117\ \(0\)\
-\-\ in\\:\\ 0\\.003454075656887336\ \(0\)\
-\-\ \\.\\:\\ 0\\.002909798040766088\ \(0\)\
-\-\ \\,\\:\\ 0\\.002218934963256454\ \(0\)\
-\-\ with\\:\\ 0\\.0019181012473752416\ \(0\)\
+Texto: 
+right arm held in internal rotation with limited range of motion.
+open reduction and internal fixation.
+comminuted fracture of the proximal humerus with displacement of the greater and lesser tuberosity.  there is impaction of the humeral shaft into the humeral head at the level of the surgical neck.
+proximal humerus fracture- three part, including the greater tuberosity and surgical neck impaction.
+proximal humeral fracture
+  classification according to neer-four part system.
+sustained fall down stairs and into house. now complaining of shoulder pain.
+comminuted fractured showed greater then one centimeter of displacement of the greater tuberosity and impaction at the surgical neck.  the lesser tuberosity demonstrated less than one centimeter of displacement.
+
+
+Keywords by value: 
+- tuberosity: 0.1924944080262314
+- impaction: 0.13313904202387727
+- humeral: 0.11127194220044526
+- greater: 0.1052366018908361
+- centimeter: 0.09906442133978224
+- displacement: 0.09005475810168981
+- comminuted: 0.08770135280601266
+- lesser: 0.0862323010242145
+- neer-four: 0.07225834773743031
+- humerus: 0.07207668551098197
+- part: 0.06791294409023921
+- fracture-: 0.06657681347054552
+- proximal: 0.06308712741902496
+- neck: 0.06170270009061842
+- held: 0.05424831021828097
+- house: 0.05424831021828097
+- internal: 0.046965178219324125
+- surgical: 0.04416938779306853
+- stairs: 0.04385067640300633
+- fractured: 0.04311615051210725
+- shaft: 0.04142883859240111
+- classification: 0.04003026878067355
+- sustained: 0.039714971396839154
+- according: 0.03897602797885311
+- one: 0.03796280956246958
+- fracture: 0.03693564475857015
+- fixation: 0.03555886565154338
+- complaining: 0.034189569875615784
+- rotation: 0.03365564116929643
+- into: 0.03333321914688044
+- reduction: 0.03301661214085617
+- open: 0.031133103173373554
+- fall: 0.030813709988673693
+- down: 0.03006577005863152
+- limited: 0.029557641566598996
+- arm: 0.029336692304397945
+- shoulder: 0.02823672455605603
+- range: 0.02819868865805191
+- motion: 0.02816082844611507
+- system: 0.027577704675416377
+- including: 0.0252903167294502
+- then: 0.024925958019853197
+- now: 0.023943570407390553
+- less: 0.02372081970756297
+- three: 0.02361167400284353
+- showed: 0.022965600556751613
+- demonstrated: 0.020552622807024325
+- level: 0.02018761498071256
+- head: 0.01986558451290079
+- at: 0.018979723816912018
+- than: 0.01835285946654323
+- the: 0.011331908582264408
+- there: 0.010423898003811383
+- of: 0.008594542681818819
+- pain: 0.008554165307628973
+- right: 0.00739042384516735
+- and: 0.00737741826771387
+- is: 0.004608940806432178
+- to: 0.003500558265926117
+- in: 0.003454075656887336
+- .: 0.002909798040766088
+- ,: 0.002218934963256454
+- with: 0.0019181012473752416

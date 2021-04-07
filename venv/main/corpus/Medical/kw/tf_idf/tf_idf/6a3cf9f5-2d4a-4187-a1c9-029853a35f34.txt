@@ -1,110 +1,113 @@
-\-\ Texto\\:\\ \ \(0\)\
-\-\ afebrile\\.\\ \\ minimally\\ tender\\ right\\ submandibular\\ neck\\ mass\\.\\ \\ no\\ other\\ masses\\ or\\ lymphadenopathy\\.\ \(0\)\
-\-\ the\\ patient\\ did\\ well\\ status\\ post\\ surgical\\ excision\\ of\\ the\\ affected\\ lymph\\ nodes\\.\ \(0\)\
-\-\ the\\ margins\\ are\\ smooth\\,\\ rounded\\,\\ and\\ well\\-demarcated\\.\\ \\ there\\ is\\ no\\ evidence\\ of\\ an\\ aggressive\\ infiltration\\ nor\\ is\\ there\\ evidence\\ for\\ thick\\ enhancing\\ ring\\ to\\ indicate\\ abscess\\.\ \(0\)\
-\-\ there\\ is\\ homogeneous\\ enhancement\\ that\\ excludes\\ a\\ cystic\\ nature\\.\ \(0\)\
-\-\ lymphadenitis\ \(11\)\
-\-\ soft\\ tissue\\ neck\\ mass\ \(0\)\
-\-\ malignant\\ neoplasm\\ \\(primary\\ head\\ and\\ neck\\ cancers\\,\\ metastases\\,\\ lymphoma\\)\ \(0\)\
-\-\ benign\\ neoplasm\\ \\(salivary\\ gland\\ adenoma\\,\\ lipoma\\,\\ schwannoma\\)\ \(0\)\
-\-\ congenital\\ \\(branchial\\ cleft\\ cyst\\,\\ thyroglossal\\ duct\\ cyst\\,\\ lymphangioma\\,\\ epidermoid\\ and\\ dermoid\\)\ \(0\)\
-\-\ infectious\\/inflammatory\\ \\(sialadenitis\\,\\ sialolithiasis\\,\\ lymphadenitis\\,\\ abscess\\)\ \(0\)\
-\-\ granulomatous\\ \\(tb\\,\\ sarcoidosis\\)\ \(0\)\
-\-\ vascular\\ \\(aneurysm\\,\\ dissection\\)\ \(0\)\
-\-\ 19\\ yo\\ male\\ with\\ enlarging\\,\\ asymptomatic\\ neck\\ mass\\.\ \(1\)\
-\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
-\-\ lymphadenitis\\:\\ 0\\.09066155954288052\ \(0\)\
-\-\ neck\\:\\ 0\\.06874638731557486\ \(0\)\
-\-\ sialadenitis\\:\\ 0\\.055632679749359946\ \(0\)\
-\-\ infectious\\/inflammatory\\:\\ 0\\.05088509632086717\ \(0\)\
-\-\ excludes\\:\\ 0\\.047052111471994416\ \(0\)\
-\-\ sialolithiasis\\:\\ 0\\.04533077977144026\ \(0\)\
-\-\ well\\-demarcated\\:\\ 0\\.04336035461766094\ \(0\)\
-\-\ thyroglossal\\:\\ 0\\.042812116893869594\ \(0\)\
-\-\ neoplasm\\:\\ 0\\.039865158574136\ \(0\)\
-\-\ salivary\\:\\ 0\\.03952736976878818\ \(0\)\
-\-\ submandibular\\:\\ 0\\.038612771189168164\ \(0\)\
-\-\ branchial\\:\\ 0\\.038612771189168164\ \(0\)\
-\-\ lymphangioma\\:\\ 0\\.03780603806823404\ \(0\)\
-\-\ abscess\\:\\ 0\\.03701145539909955\ \(0\)\
-\-\ cancers\\:\\ 0\\.03528737519066337\ \(0\)\
-\-\ indicate\\:\\ 0\\.033186482948043675\ \(0\)\
-\-\ infiltration\\:\\ 0\\.03189476260689607\ \(0\)\
-\-\ cyst\\:\\ 0\\.03145713884967263\ \(0\)\
-\-\ nor\\:\\ 0\\.031280980698062594\ \(0\)\
-\-\ thick\\:\\ 0\\.030717706052603884\ \(0\)\
-\-\ evidence\\:\\ 0\\.030690994292696953\ \(0\)\
-\-\ minimally\\:\\ 0\\.03045253816095532\ \(0\)\
-\-\ enlarging\\:\\ 0\\.02979185140624599\ \(0\)\
-\-\ \\(\\:\\ 0\\.029686098338788786\ \(0\)\
-\-\ \\)\\:\\ 0\\.02932346679917692\ \(0\)\
-\-\ rounded\\:\\ 0\\.028838001629989084\ \(0\)\
-\-\ dissection\\:\\ 0\\.028769848678939988\ \(0\)\
-\-\ aggressive\\:\\ 0\\.02863554408038947\ \(0\)\
-\-\ cleft\\:\\ 0\\.02856936660839127\ \(0\)\
-\-\ granulomatous\\:\\ 0\\.028247743436557223\ \(0\)\
-\-\ tb\\:\\ 0\\.02818519217927453\ \(0\)\
-\-\ epidermoid\\:\\ 0\\.02788072805207704\ \(0\)\
-\-\ \\,\\:\\ 0\\.027812677964104866\ \(0\)\
-\-\ homogeneous\\:\\ 0\\.027704341092471458\ \(0\)\
-\-\ nature\\:\\ 0\\.027704341092471458\ \(0\)\
-\-\ lipoma\\:\\ 0\\.02736463601617439\ \(0\)\
-\-\ ring\\:\\ 0\\.027200899571971963\ \(0\)\
-\-\ afebrile\\:\\ 0\\.027040986119937778\ \(0\)\
-\-\ 19\\:\\ 0\\.026988500690173604\ \(0\)\
-\-\ duct\\:\\ 0\\.02683341523298347\ \(0\)\
-\-\ schwannoma\\:\\ 0\\.02673194204267429\ \(0\)\
-\-\ dermoid\\:\\ 0\\.026681763685879267\ \(0\)\
-\-\ margins\\:\\ 0\\.026582496512574015\ \(0\)\
-\-\ nodes\\:\\ 0\\.026436242235378337\ \(0\)\
-\-\ sarcoidosis\\:\\ 0\\.026436242235378337\ \(0\)\
-\-\ there\\:\\ 0\\.026131141571198398\ \(0\)\
-\-\ smooth\\:\\ 0\\.0256187986899498\ \(0\)\
-\-\ affected\\:\\ 0\\.02532551103801194\ \(0\)\
-\-\ metastases\\:\\ 0\\.02500501678111633\ \(0\)\
-\-\ gland\\:\\ 0\\.024927182817758006\ \(0\)\
-\-\ lymphadenopathy\\:\\ 0\\.02488859502516721\ \(0\)\
-\-\ adenoma\\:\\ 0\\.024441742135657616\ \(0\)\
-\-\ mass\\:\\ 0\\.02442043164960749\ \(0\)\
-\-\ excision\\:\\ 0\\.024022265250447213\ \(0\)\
-\-\ tender\\:\\ 0\\.023756238994856363\ \(0\)\
-\-\ lymph\\:\\ 0\\.02362700280099073\ \(0\)\
-\-\ aneurysm\\:\\ 0\\.023133144623584265\ \(0\)\
-\-\ congenital\\:\\ 0\\.021405198422208477\ \(0\)\
-\-\ malignant\\:\\ 0\\.02115527860533768\ \(0\)\
-\-\ did\\:\\ 0\\.02113300439036249\ \(0\)\
-\-\ status\\:\\ 0\\.020892652884805844\ \(0\)\
-\-\ benign\\:\\ 0\\.02019897511666576\ \(0\)\
-\-\ masses\\:\\ 0\\.019784879438329364\ \(0\)\
-\-\ asymptomatic\\:\\ 0\\.019784879438329364\ \(0\)\
-\-\ vascular\\:\\ 0\\.019190433341943126\ \(0\)\
-\-\ post\\:\\ 0\\.018430376938851325\ \(0\)\
-\-\ enhancing\\:\\ 0\\.018355846115649034\ \(0\)\
-\-\ yo\\:\\ 0\\.017611996734950425\ \(0\)\
-\-\ primary\\:\\ 0\\.01733824837599792\ \(0\)\
-\-\ cystic\\:\\ 0\\.016881045940080535\ \(0\)\
-\-\ lymphoma\\:\\ 0\\.0167273879067773\ \(0\)\
-\-\ head\\:\\ 0\\.016600008976533534\ \(0\)\
-\-\ enhancement\\:\\ 0\\.015688279220020793\ \(0\)\
-\-\ soft\\:\\ 0\\.014252923041051711\ \(0\)\
-\-\ tissue\\:\\ 0\\.013872747866113654\ \(0\)\
-\-\ other\\:\\ 0\\.01349067499111266\ \(0\)\
-\-\ well\\:\\ 0\\.013240280499785281\ \(0\)\
-\-\ surgical\\:\\ 0\\.012302888837338722\ \(0\)\
-\-\ no\\:\\ 0\\.011786906174024683\ \(0\)\
-\-\ is\\:\\ 0\\.011553920103795731\ \(0\)\
-\-\ male\\:\\ 0\\.010583599574571733\ \(0\)\
-\-\ that\\:\\ 0\\.010109457044923447\ \(0\)\
-\-\ an\\:\\ 0\\.008093594960854314\ \(0\)\
-\-\ are\\:\\ 0\\.00797858816801097\ \(0\)\
-\-\ or\\:\\ 0\\.0068597448559158045\ \(0\)\
-\-\ right\\:\\ 0\\.00617555965144121\ \(0\)\
-\-\ patient\\:\\ 0\\.00586706801997526\ \(0\)\
-\-\ for\\:\\ 0\\.004993891429059693\ \(0\)\
-\-\ and\\:\\ 0\\.0036988151862784612\ \(0\)\
-\-\ to\\:\\ 0\\.0029251240304314125\ \(0\)\
-\-\ the\\:\\ 0\\.0028407387267868314\ \(0\)\
-\-\ a\\:\\ 0\\.002716436998757543\ \(0\)\
-\-\ \\.\\:\\ 0\\.0019451800601285628\ \(0\)\
-\-\ of\\:\\ 0\\.001595942476684773\ \(0\)\
-\-\ with\\:\\ 0\\.0008013984663691078\ \(0\)\
+Texto: 
+afebrile.  minimally tender right submandibular neck mass.  no other masses or lymphadenopathy.
+the patient did well status post surgical excision of the affected lymph nodes.
+the margins are smooth, rounded, and well-demarcated.  there is no evidence of an aggressive infiltration nor is there evidence for thick enhancing ring to indicate abscess.
+
+there is homogeneous enhancement that excludes a cystic nature.
+lymphadenitis
+soft tissue neck mass
+malignant neoplasm (primary head and neck cancers, metastases, lymphoma)
+benign neoplasm (salivary gland adenoma, lipoma, schwannoma)
+congenital (branchial cleft cyst, thyroglossal duct cyst, lymphangioma, epidermoid and dermoid)
+infectious/inflammatory (sialadenitis, sialolithiasis, lymphadenitis, abscess)
+granulomatous (tb, sarcoidosis)
+vascular (aneurysm, dissection)
+19 yo male with enlarging, asymptomatic neck mass.
+
+
+Keywords by value: 
+- lymphadenitis: 0.09066155954288052
+- neck: 0.06874638731557486
+- sialadenitis: 0.055632679749359946
+- infectious/inflammatory: 0.05088509632086717
+- excludes: 0.047052111471994416
+- sialolithiasis: 0.04533077977144026
+- well-demarcated: 0.04336035461766094
+- thyroglossal: 0.042812116893869594
+- neoplasm: 0.039865158574136
+- salivary: 0.03952736976878818
+- submandibular: 0.038612771189168164
+- branchial: 0.038612771189168164
+- lymphangioma: 0.03780603806823404
+- abscess: 0.03701145539909955
+- cancers: 0.03528737519066337
+- indicate: 0.033186482948043675
+- infiltration: 0.03189476260689607
+- cyst: 0.03145713884967263
+- nor: 0.031280980698062594
+- thick: 0.030717706052603884
+- evidence: 0.030690994292696953
+- minimally: 0.03045253816095532
+- enlarging: 0.02979185140624599
+- (: 0.029686098338788786
+- ): 0.02932346679917692
+- rounded: 0.028838001629989084
+- dissection: 0.028769848678939988
+- aggressive: 0.02863554408038947
+- cleft: 0.02856936660839127
+- granulomatous: 0.028247743436557223
+- tb: 0.02818519217927453
+- epidermoid: 0.02788072805207704
+- ,: 0.027812677964104866
+- homogeneous: 0.027704341092471458
+- nature: 0.027704341092471458
+- lipoma: 0.02736463601617439
+- ring: 0.027200899571971963
+- afebrile: 0.027040986119937778
+- 19: 0.026988500690173604
+- duct: 0.02683341523298347
+- schwannoma: 0.02673194204267429
+- dermoid: 0.026681763685879267
+- margins: 0.026582496512574015
+- nodes: 0.026436242235378337
+- sarcoidosis: 0.026436242235378337
+- there: 0.026131141571198398
+- smooth: 0.0256187986899498
+- affected: 0.02532551103801194
+- metastases: 0.02500501678111633
+- gland: 0.024927182817758006
+- lymphadenopathy: 0.02488859502516721
+- adenoma: 0.024441742135657616
+- mass: 0.02442043164960749
+- excision: 0.024022265250447213
+- tender: 0.023756238994856363
+- lymph: 0.02362700280099073
+- aneurysm: 0.023133144623584265
+- congenital: 0.021405198422208477
+- malignant: 0.02115527860533768
+- did: 0.02113300439036249
+- status: 0.020892652884805844
+- benign: 0.02019897511666576
+- masses: 0.019784879438329364
+- asymptomatic: 0.019784879438329364
+- vascular: 0.019190433341943126
+- post: 0.018430376938851325
+- enhancing: 0.018355846115649034
+- yo: 0.017611996734950425
+- primary: 0.01733824837599792
+- cystic: 0.016881045940080535
+- lymphoma: 0.0167273879067773
+- head: 0.016600008976533534
+- enhancement: 0.015688279220020793
+- soft: 0.014252923041051711
+- tissue: 0.013872747866113654
+- other: 0.01349067499111266
+- well: 0.013240280499785281
+- surgical: 0.012302888837338722
+- no: 0.011786906174024683
+- is: 0.011553920103795731
+- male: 0.010583599574571733
+- that: 0.010109457044923447
+- an: 0.008093594960854314
+- are: 0.00797858816801097
+- or: 0.0068597448559158045
+- right: 0.00617555965144121
+- patient: 0.00586706801997526
+- for: 0.004993891429059693
+- and: 0.0036988151862784612
+- to: 0.0029251240304314125
+- the: 0.0028407387267868314
+- a: 0.002716436998757543
+- .: 0.0019451800601285628
+- of: 0.001595942476684773
+- with: 0.0008013984663691078

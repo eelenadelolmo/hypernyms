@@ -1,72 +1,74 @@
-\-\ Texto\\:\\ \ \(0\)\
-\-\ right\\-sided\\ facial\\ droop\\.\ \(0\)\
-\-\ none\\ required\\.\ \(0\)\
-\-\ csf\\-containing\\ space\\ separated\\ by\\ thin\\ septi\\ from\\ the\\ frontal\\ horns\\ of\\ the\\ two\\ lateral\\ ventricles\\ consistent\\ with\\ cavum\\ septi\\ pellucidi\\.\\ \\ this\\ fluid\\ collection\\ extends\\ posteriorly\\ to\\ the\\ foramen\\ of\\ monro\\,\\ consistent\\ with\\ an\\ additional\\ diagnosis\\ of\\ cavum\\ vergae\\.\ \(0\)\
-\-\ cavum\\ septi\\ pellucidi\\ and\\ cavum\\ vergae\\ \\(vergae\\'s\\ ventricle\\)\ \(0\)\
-\-\ cavum\\ septi\\ pellucidi\ \(3\)\
-\-\ cavum\\ vergae\\ \\(septum\\ vergae\\)\ \(0\)\
-\-\ cavum\\ veli\\ interpositi\ \(1\)\
-\-\ twenty\\-one\\-year\\-old\\ woman\\ with\\ bell\\'s\\ palsy\\.\ \(0\)\
-\-\ since\\ the\\ cavum\\ septi\\ pellucidi\\ extends\\ posterior\\ to\\ the\\ foramen\\ of\\ monro\\,\\ an\\ additional\\ diagnosis\\ of\\ cavum\\ vergae\\ \\(septum\\ vergae\\)\\ is\\ made\\.\\ \\ a\\ cavum\\ veli\\ interpositi\\ would\\ be\\ wider\\ posteriorly\\,\\ reflecting\\ lateral\\ boundaries\\ formed\\ by\\ the\\ fornices\\.\ \(0\)\
-\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
-\-\ cavum\\:\\ 0\\.5303820786089362\ \(0\)\
-\-\ vergae\\:\\ 0\\.40633316267081904\ \(0\)\
-\-\ septi\\:\\ 0\\.2977719219641487\ \(0\)\
-\-\ pellucidi\\:\\ 0\\.23219037866903944\ \(0\)\
-\-\ interpositi\\:\\ 0\\.1275521675255932\ \(0\)\
-\-\ veli\\:\\ 0\\.12279709194787782\ \(0\)\
-\-\ monro\\:\\ 0\\.0988810757009964\ \(0\)\
-\-\ septum\\:\\ 0\\.0722787961566311\ \(0\)\
-\-\ foramen\\:\\ 0\\.06742677645573558\ \(0\)\
-\-\ twenty\\-one\\-year\\-old\\:\\ 0\\.06712703506947565\ \(0\)\
-\-\ posteriorly\\:\\ 0\\.06671727158437965\ \(0\)\
-\-\ boundaries\\:\\ 0\\.0637760837627966\ \(0\)\
-\-\ extends\\:\\ 0\\.06121538240677612\ \(0\)\
-\-\ csf\\-containing\\:\\ 0\\.05677362210670401\ \(0\)\
-\-\ wider\\:\\ 0\\.05677362210670401\ \(0\)\
-\-\ reflecting\\:\\ 0\\.05677362210670401\ \(0\)\
-\-\ additional\\:\\ 0\\.056635482547933845\ \(0\)\
-\-\ fornices\\:\\ 0\\.055670056878402166\ \(0\)\
-\-\ bell\\:\\ 0\\.053825895297292994\ \(0\)\
-\-\ droop\\:\\ 0\\.048521317725620315\ \(0\)\
-\-\ separated\\:\\ 0\\.04769418170448822\ \(0\)\
-\-\ horns\\:\\ 0\\.04447546462381283\ \(0\)\
-\-\ formed\\:\\ 0\\.043712048754961465\ \(0\)\
-\-\ palsy\\:\\ 0\\.03915686760380809\ \(0\)\
-\-\ consistent\\:\\ 0\\.034633029236879394\ \(0\)\
-\-\ right\\-sided\\:\\ 0\\.034472128304339884\ \(0\)\
-\-\ ventricles\\:\\ 0\\.03322089155677485\ \(0\)\
-\-\ diagnosis\\:\\ 0\\.032433377368271406\ \(0\)\
-\-\ \\'s\\:\\ 0\\.03114126641929\ \(0\)\
-\-\ facial\\:\\ 0\\.03070786773671322\ \(0\)\
-\-\ lateral\\:\\ 0\\.030523438770653725\ \(0\)\
-\-\ collection\\:\\ 0\\.02989273878265019\ \(0\)\
-\-\ thin\\:\\ 0\\.029026557982705974\ \(0\)\
-\-\ made\\:\\ 0\\.028131176629020316\ \(0\)\
-\-\ ventricle\\:\\ 0\\.026466035682466346\ \(0\)\
-\-\ since\\:\\ 0\\.02594020348510923\ \(0\)\
-\-\ required\\:\\ 0\\.025419219105679867\ \(0\)\
-\-\ would\\:\\ 0\\.025131957672909835\ \(0\)\
-\-\ by\\:\\ 0\\.023518527326361567\ \(0\)\
-\-\ space\\:\\ 0\\.023359975265096155\ \(0\)\
-\-\ frontal\\:\\ 0\\.02218423086349882\ \(0\)\
-\-\ two\\:\\ 0\\.020225877996826493\ \(0\)\
-\-\ fluid\\:\\ 0\\.02007139755870953\ \(0\)\
-\-\ an\\:\\ 0\\.01953165064933438\ \(0\)\
-\-\ \\(\\:\\ 0\\.017909794865550263\ \(0\)\
-\-\ \\)\\:\\ 0\\.01769101715983401\ \(0\)\
-\-\ none\\:\\ 0\\.017518343032297577\ \(0\)\
-\-\ woman\\:\\ 0\\.016313247499908316\ \(0\)\
-\-\ posterior\\:\\ 0\\.01627800453473098\ \(0\)\
-\-\ be\\:\\ 0\\.010890551432594455\ \(0\)\
-\-\ from\\:\\ 0\\.010466410852514152\ \(0\)\
-\-\ this\\:\\ 0\\.007943282754662257\ \(0\)\
-\-\ to\\:\\ 0\\.007058976999057625\ \(0\)\
-\-\ the\\:\\ 0\\.006855336431584751\ \(0\)\
-\-\ \\,\\:\\ 0\\.006711819806213737\ \(0\)\
-\-\ of\\:\\ 0\\.004814206644544977\ \(0\)\
-\-\ is\\:\\ 0\\.004647031226320046\ \(0\)\
-\-\ a\\:\\ 0\\.003277684312550424\ \(0\)\
-\-\ with\\:\\ 0\\.002900929985699746\ \(0\)\
-\-\ \\.\\:\\ 0\\.002053692170920859\ \(0\)\
-\-\ and\\:\\ 0\\.0014876777333241195\ \(0\)\
+Texto: 
+right-sided facial droop.
+none required.
+csf-containing space separated by thin septi from the frontal horns of the two lateral ventricles consistent with cavum septi pellucidi.  this fluid collection extends posteriorly to the foramen of monro, consistent with an additional diagnosis of cavum vergae.
+cavum septi pellucidi and cavum vergae (vergae's ventricle)
+cavum septi pellucidi
+cavum vergae (septum vergae)
+cavum veli interpositi
+twenty-one-year-old woman with bell's palsy.
+since the cavum septi pellucidi extends posterior to the foramen of monro, an additional diagnosis of cavum vergae (septum vergae) is made.  a cavum veli interpositi would be wider posteriorly, reflecting lateral boundaries formed by the fornices.
+
+
+Keywords by value: 
+- cavum: 0.5303820786089362
+- vergae: 0.40633316267081904
+- septi: 0.2977719219641487
+- pellucidi: 0.23219037866903944
+- interpositi: 0.1275521675255932
+- veli: 0.12279709194787782
+- monro: 0.0988810757009964
+- septum: 0.0722787961566311
+- foramen: 0.06742677645573558
+- twenty-one-year-old: 0.06712703506947565
+- posteriorly: 0.06671727158437965
+- boundaries: 0.0637760837627966
+- extends: 0.06121538240677612
+- csf-containing: 0.05677362210670401
+- wider: 0.05677362210670401
+- reflecting: 0.05677362210670401
+- additional: 0.056635482547933845
+- fornices: 0.055670056878402166
+- bell: 0.053825895297292994
+- droop: 0.048521317725620315
+- separated: 0.04769418170448822
+- horns: 0.04447546462381283
+- formed: 0.043712048754961465
+- palsy: 0.03915686760380809
+- consistent: 0.034633029236879394
+- right-sided: 0.034472128304339884
+- ventricles: 0.03322089155677485
+- diagnosis: 0.032433377368271406
+- 's: 0.03114126641929
+- facial: 0.03070786773671322
+- lateral: 0.030523438770653725
+- collection: 0.02989273878265019
+- thin: 0.029026557982705974
+- made: 0.028131176629020316
+- ventricle: 0.026466035682466346
+- since: 0.02594020348510923
+- required: 0.025419219105679867
+- would: 0.025131957672909835
+- by: 0.023518527326361567
+- space: 0.023359975265096155
+- frontal: 0.02218423086349882
+- two: 0.020225877996826493
+- fluid: 0.02007139755870953
+- an: 0.01953165064933438
+- (: 0.017909794865550263
+- ): 0.01769101715983401
+- none: 0.017518343032297577
+- woman: 0.016313247499908316
+- posterior: 0.01627800453473098
+- be: 0.010890551432594455
+- from: 0.010466410852514152
+- this: 0.007943282754662257
+- to: 0.007058976999057625
+- the: 0.006855336431584751
+- ,: 0.006711819806213737
+- of: 0.004814206644544977
+- is: 0.004647031226320046
+- a: 0.003277684312550424
+- with: 0.002900929985699746
+- .: 0.002053692170920859
+- and: 0.0014876777333241195

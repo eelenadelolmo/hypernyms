@@ -1,62 +1,64 @@
-\-\ Texto\\:\\ \ \(0\)\
-\-\ t1\\ and\\ t2\\ fat\\ saturated\\ mr\\ images\\ of\\ the\\ knee\\ demonstrate\\ a\\ double\\ pcl\\ sign\\ on\\ the\\ sagittal\\ images\\,\\ as\\ well\\ as\\ a\\ displaced\\ meniscal\\ fragment\\ within\\ the\\ intercondylar\\ notch\\ on\\ the\\ coronal\\ images\\,\\ consistent\\ with\\ a\\ bucket\\ handle\\ tear\\ of\\ the\\ medial\\ meniscus\\.\\ \\ sagittal\\ images\\ demonstrate\\ the\\ absent\\ bowtie\\ sign\\.\ \(0\)\
-\-\ bucket\\-handle\\ meniscal\\ tear\ \(0\)\
-\-\ bucket\\ handle\\ tear\\ of\\ the\\ meniscus\ \(1\)\
-\-\ radial\\ tear\\ of\\ the\\ meniscus\ \(1\)\
-\-\ flipped\\ meniscus\ \(2\)\
-\-\ parameniscal\\ cyst\ \(2\)\
-\-\ 25\\ year\\ old\\ with\\ knee\\ pain\\ after\\ a\\ twisting\\ injury\\.\ \(1\)\
-\-\ this\\ case\\ demonstrates\\ the\\ double\\ pcl\\ sign\\ of\\ a\\ bucket\\ handle\\ tear\\ of\\ the\\ medial\\ meniscus\\.\ \(0\)\
-\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
-\-\ meniscus\\:\\ 0\\.24476818876527762\ \(0\)\
-\-\ tear\\:\\ 0\\.18578828668017483\ \(0\)\
-\-\ bucket\\:\\ 0\\.18345924042627443\ \(0\)\
-\-\ handle\\:\\ 0\\.1794929614374272\ \(0\)\
-\-\ pcl\\:\\ 0\\.11082460592273856\ \(0\)\
-\-\ meniscal\\:\\ 0\\.09749897278922517\ \(0\)\
-\-\ sign\\:\\ 0\\.08793405450784368\ \(0\)\
-\-\ double\\:\\ 0\\.08184925142261938\ \(0\)\
-\-\ bowtie\\:\\ 0\\.08041951726145102\ \(0\)\
-\-\ parameniscal\\:\\ 0\\.07640501124057811\ \(0\)\
-\-\ bucket\\-handle\\:\\ 0\\.06954216786869745\ \(0\)\
-\-\ flipped\\:\\ 0\\.06801592351397213\ \(0\)\
-\-\ sagittal\\:\\ 0\\.0674920129209184\ \(0\)\
-\-\ images\\:\\ 0\\.06492134225541997\ \(0\)\
-\-\ intercondylar\\:\\ 0\\.06354082327889235\ \(0\)\
-\-\ knee\\:\\ 0\\.061356251931886666\ \(0\)\
-\-\ saturated\\:\\ 0\\.059830987145809075\ \(0\)\
-\-\ medial\\:\\ 0\\.054124742843367366\ \(0\)\
-\-\ notch\\:\\ 0\\.053942797960198255\ \(0\)\
-\-\ twisting\\:\\ 0\\.05051432036893258\ \(0\)\
-\-\ fragment\\:\\ 0\\.03908895023278135\ \(0\)\
-\-\ demonstrate\\:\\ 0\\.03893964636303051\ \(0\)\
-\-\ displaced\\:\\ 0\\.038863062334106385\ \(0\)\
-\-\ radial\\:\\ 0\\.03878889726748106\ \(0\)\
-\-\ absent\\:\\ 0\\.036668620154554014\ \(0\)\
-\-\ coronal\\:\\ 0\\.035227951009294226\ \(0\)\
-\-\ 25\\:\\ 0\\.03420025998274329\ \(0\)\
-\-\ injury\\:\\ 0\\.026972361800879207\ \(0\)\
-\-\ mr\\:\\ 0\\.026883163088578556\ \(0\)\
-\-\ t1\\:\\ 0\\.02681678748736875\ \(0\)\
-\-\ fat\\:\\ 0\\.025731805177045874\ \(0\)\
-\-\ as\\:\\ 0\\.025595594176121342\ \(0\)\
-\-\ t2\\:\\ 0\\.02394642345297378\ \(0\)\
-\-\ cyst\\:\\ 0\\.02273634788144656\ \(0\)\
-\-\ consistent\\:\\ 0\\.02074552741417033\ \(0\)\
-\-\ a\\:\\ 0\\.0196336535553763\ \(0\)\
-\-\ well\\:\\ 0\\.019139415375927237\ \(0\)\
-\-\ case\\:\\ 0\\.01850994487987397\ \(0\)\
-\-\ demonstrates\\:\\ 0\\.01848139803617016\ \(0\)\
-\-\ after\\:\\ 0\\.017504962402071313\ \(0\)\
-\-\ within\\:\\ 0\\.01613991493451566\ \(0\)\
-\-\ on\\:\\ 0\\.014334475492384714\ \(0\)\
-\-\ the\\:\\ 0\\.013688047990458\ \(0\)\
-\-\ pain\\:\\ 0\\.01033275413396767\ \(0\)\
-\-\ this\\:\\ 0\\.009516210032813199\ \(0\)\
-\-\ year\\:\\ 0\\.009466388804682323\ \(0\)\
-\-\ old\\:\\ 0\\.008662718780814403\ \(0\)\
-\-\ of\\:\\ 0\\.006921017869187431\ \(0\)\
-\-\ \\,\\:\\ 0\\.005360595356777968\ \(0\)\
-\-\ with\\:\\ 0\\.0023169143780176187\ \(0\)\
-\-\ and\\:\\ 0\\.0017822673834873115\ \(0\)\
-\-\ \\.\\:\\ 0\\.0014059222216770803\ \(0\)\
+Texto: 
+t1 and t2 fat saturated mr images of the knee demonstrate a double pcl sign on the sagittal images, as well as a displaced meniscal fragment within the intercondylar notch on the coronal images, consistent with a bucket handle tear of the medial meniscus.  sagittal images demonstrate the absent bowtie sign.
+bucket-handle meniscal tear
+bucket handle tear of the meniscus
+radial tear of the meniscus
+flipped meniscus
+parameniscal cyst
+25 year old with knee pain after a twisting injury.
+this case demonstrates the double pcl sign of a bucket handle tear of the medial meniscus.
+
+
+Keywords by value: 
+- meniscus: 0.24476818876527762
+- tear: 0.18578828668017483
+- bucket: 0.18345924042627443
+- handle: 0.1794929614374272
+- pcl: 0.11082460592273856
+- meniscal: 0.09749897278922517
+- sign: 0.08793405450784368
+- double: 0.08184925142261938
+- bowtie: 0.08041951726145102
+- parameniscal: 0.07640501124057811
+- bucket-handle: 0.06954216786869745
+- flipped: 0.06801592351397213
+- sagittal: 0.0674920129209184
+- images: 0.06492134225541997
+- intercondylar: 0.06354082327889235
+- knee: 0.061356251931886666
+- saturated: 0.059830987145809075
+- medial: 0.054124742843367366
+- notch: 0.053942797960198255
+- twisting: 0.05051432036893258
+- fragment: 0.03908895023278135
+- demonstrate: 0.03893964636303051
+- displaced: 0.038863062334106385
+- radial: 0.03878889726748106
+- absent: 0.036668620154554014
+- coronal: 0.035227951009294226
+- 25: 0.03420025998274329
+- injury: 0.026972361800879207
+- mr: 0.026883163088578556
+- t1: 0.02681678748736875
+- fat: 0.025731805177045874
+- as: 0.025595594176121342
+- t2: 0.02394642345297378
+- cyst: 0.02273634788144656
+- consistent: 0.02074552741417033
+- a: 0.0196336535553763
+- well: 0.019139415375927237
+- case: 0.01850994487987397
+- demonstrates: 0.01848139803617016
+- after: 0.017504962402071313
+- within: 0.01613991493451566
+- on: 0.014334475492384714
+- the: 0.013688047990458
+- pain: 0.01033275413396767
+- this: 0.009516210032813199
+- year: 0.009466388804682323
+- old: 0.008662718780814403
+- of: 0.006921017869187431
+- ,: 0.005360595356777968
+- with: 0.0023169143780176187
+- and: 0.0017822673834873115
+- .: 0.0014059222216770803

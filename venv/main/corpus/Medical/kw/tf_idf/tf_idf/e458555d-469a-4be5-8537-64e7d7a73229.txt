@@ -1,54 +1,56 @@
-\-\ Texto\\:\\ \ \(0\)\
-\-\ methylene\\ blue\\ test\\ was\\ positive\\.\ \(0\)\
-\-\ the\\ patient\\ did\\ well\\ after\\ surgical\\ repair\\.\ \(0\)\
-\-\ fluoroscopic\\ images\\ of\\ a\\ cystogram\\ demonstrates\\ contrast\\ entering\\ the\\ superior\\ aspect\\ of\\ the\\ vaginal\\ canal\\.\\ \\ on\\ close\\ inspection\\ a\\ fistulous\\ tract\\ is\\ identified\\.\ \(0\)\
-\-\ vesicovaginal\\ fistula\ \(1\)\
-\-\ bladder\\ diverticulum\ \(8\)\
-\-\ dilated\\ ureter\ \(11\)\
-\-\ vesicovaginal\\ fistula\ \(1\)\
-\-\ the\\ patient\\ presented\\ with\\ vaginal\\ leakage\\ status\\ post\\ a\\ hysterectomy\\.\ \(0\)\
-\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
-\-\ vesicovaginal\\:\\ 0\\.3039833939298793\ \(0\)\
-\-\ vaginal\\:\\ 0\\.15556735623318374\ \(0\)\
-\-\ fistula\\:\\ 0\\.14450157278214576\ \(0\)\
-\-\ methylene\\:\\ 0\\.12424276744021376\ \(0\)\
-\-\ cystogram\\:\\ 0\\.11844152198122733\ \(0\)\
-\-\ fistulous\\:\\ 0\\.11613925659114935\ \(0\)\
-\-\ leakage\\:\\ 0\\.1031431910329359\ \(0\)\
-\-\ entering\\:\\ 0\\.0994999307972944\ \(0\)\
-\-\ hysterectomy\\:\\ 0\\.0979314518627129\ \(0\)\
-\-\ blue\\:\\ 0\\.09719766540721642\ \(0\)\
-\-\ inspection\\:\\ 0\\.09719766540721642\ \(0\)\
-\-\ fluoroscopic\\:\\ 0\\.08055833961336148\ \(0\)\
-\-\ ureter\\:\\ 0\\.07949699663061263\ \(0\)\
-\-\ close\\:\\ 0\\.07191599180732976\ \(0\)\
-\-\ diverticulum\\:\\ 0\\.07018252233798704\ \(0\)\
-\-\ tract\\:\\ 0\\.06526000866507005\ \(0\)\
-\-\ test\\:\\ 0\\.06294366293177558\ \(0\)\
-\-\ bladder\\:\\ 0\\.05980018781463844\ \(0\)\
-\-\ repair\\:\\ 0\\.05899811857955408\ \(0\)\
-\-\ canal\\:\\ 0\\.058534196977486415\ \(0\)\
-\-\ dilated\\:\\ 0\\.05353605873433842\ \(0\)\
-\-\ did\\:\\ 0\\.05319687312056765\ \(0\)\
-\-\ identified\\:\\ 0\\.05264598346872968\ \(0\)\
-\-\ status\\:\\ 0\\.05259185036520092\ \(0\)\
-\-\ positive\\:\\ 0\\.047808372246277875\ \(0\)\
-\-\ superior\\:\\ 0\\.047047305121623986\ \(0\)\
-\-\ post\\:\\ 0\\.04639370746676368\ \(0\)\
-\-\ aspect\\:\\ 0\\.04628089542212685\ \(0\)\
-\-\ presented\\:\\ 0\\.040161338534869126\ \(0\)\
-\-\ well\\:\\ 0\\.03332898194773536\ \(0\)\
-\-\ contrast\\:\\ 0\\.03297889115186044\ \(0\)\
-\-\ demonstrates\\:\\ 0\\.03218312416643424\ \(0\)\
-\-\ surgical\\:\\ 0\\.03096934086640437\ \(0\)\
-\-\ after\\:\\ 0\\.030482779355331075\ \(0\)\
-\-\ patient\\:\\ 0\\.029537652790220276\ \(0\)\
-\-\ images\\:\\ 0\\.02826317055085093\ \(0\)\
-\-\ a\\:\\ 0\\.020513782852686274\ \(0\)\
-\-\ was\\:\\ 0\\.01703926762437391\ \(0\)\
-\-\ on\\:\\ 0\\.012480879523541863\ \(0\)\
-\-\ is\\:\\ 0\\.009694668592840096\ \(0\)\
-\-\ the\\:\\ 0\\.009534433427836261\ \(0\)\
-\-\ of\\:\\ 0\\.004017372441309946\ \(0\)\
-\-\ \\.\\:\\ 0\\.0030603048359781272\ \(0\)\
-\-\ with\\:\\ 0\\.002017313380860168\ \(0\)\
+Texto: 
+methylene blue test was positive.
+the patient did well after surgical repair.
+fluoroscopic images of a cystogram demonstrates contrast entering the superior aspect of the vaginal canal.  on close inspection a fistulous tract is identified.
+vesicovaginal fistula
+bladder diverticulum
+dilated ureter
+vesicovaginal fistula
+the patient presented with vaginal leakage status post a hysterectomy.
+
+
+Keywords by value: 
+- vesicovaginal: 0.3039833939298793
+- vaginal: 0.15556735623318374
+- fistula: 0.14450157278214576
+- methylene: 0.12424276744021376
+- cystogram: 0.11844152198122733
+- fistulous: 0.11613925659114935
+- leakage: 0.1031431910329359
+- entering: 0.0994999307972944
+- hysterectomy: 0.0979314518627129
+- blue: 0.09719766540721642
+- inspection: 0.09719766540721642
+- fluoroscopic: 0.08055833961336148
+- ureter: 0.07949699663061263
+- close: 0.07191599180732976
+- diverticulum: 0.07018252233798704
+- tract: 0.06526000866507005
+- test: 0.06294366293177558
+- bladder: 0.05980018781463844
+- repair: 0.05899811857955408
+- canal: 0.058534196977486415
+- dilated: 0.05353605873433842
+- did: 0.05319687312056765
+- identified: 0.05264598346872968
+- status: 0.05259185036520092
+- positive: 0.047808372246277875
+- superior: 0.047047305121623986
+- post: 0.04639370746676368
+- aspect: 0.04628089542212685
+- presented: 0.040161338534869126
+- well: 0.03332898194773536
+- contrast: 0.03297889115186044
+- demonstrates: 0.03218312416643424
+- surgical: 0.03096934086640437
+- after: 0.030482779355331075
+- patient: 0.029537652790220276
+- images: 0.02826317055085093
+- a: 0.020513782852686274
+- was: 0.01703926762437391
+- on: 0.012480879523541863
+- is: 0.009694668592840096
+- the: 0.009534433427836261
+- of: 0.004017372441309946
+- .: 0.0030603048359781272
+- with: 0.002017313380860168

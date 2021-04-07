@@ -1,135 +1,137 @@
-\-\ Texto\\:\\ \ \(0\)\
-\-\ \\+tnderness\\ to\\ palpation\\ over\\ mcburney\\&\\#39\\;s\\ point\\.\ \(0\)\
-\-\ increased\\ wbc\\ count\ \(0\)\
-\-\ fever\\ to\\ 102\\ f\ \(0\)\
-\-\ treatment\\ is\\ surgical\\.\ \(1\)\
-\-\ ultrasound\\ demonstrates\\ a\\ dilated\\,\\ blind\\-ended\\ tubular\\ structure\\ with\\ surrounding\\ fluid\\.\ \(0\)\
-\-\ ct\\ confirms\\ a\\ massively\\ dilated\\ appendix\\ with\\ surrounding\\ inflammatory\\ changes\\.\ \(0\)\
-\-\ acute\\ appendicitis\\ in\\ cystic\\ fibrosis\\ patient\ \(0\)\
-\-\ prior\\ to\\ imaging\\,\\ the\\ most\\ important\\ diagnostic\\ consideration\\ is\\ to\\ rule\\ out\\ appendicitis\\.\\ \\ additional\\ entities\\ which\\ patients\\ with\\ cystic\\ fibrosis\\ are\\ predisposed\\ \\ to\\ include\\ intussusception\\,\\ crohn\\ disease\\,\\ fibrosing\\ colonopahty\\ and\\ bowel\\ wall\\ edema\\ secondary\\ to\\ hypoproteinemia\\.\ \(0\)\
-\-\ 10\\ y\\.o\\.\\ girl\\ with\\ known\\ cystic\\ fibrosis\\ presents\\ with\\ acute\\ onset\\ of\\ right\\ lower\\ quadrant\\ pain\\,\\ fever\\,\\ and\\ leukocytosis\\.\ \(1\)\
-\-\ although\\ the\\ pulmonary\\ manifestations\\ of\\ cystic\\ fibrosis\\ are\\ prominent\\,\\ significant\\ morbidity\\ secondary\\ to\\ gastrointestinal\\ disease\\ is\\ also\\ seen\\.\\ \\ concerning\\ bowel\\,\\ cf\\ patients\\ are\\ at\\ a\\ higher\\ risk\\ for\\ the\\ development\\ of\\ meconium\\ ileus\\,\\ meconium\\ ileus\\ equivelent\\,\\ intussusception\\,\\ gerd\\,\\ crohn\\ disease\\,\\ fibrosing\\ colonopahty\\ and\\ bowel\\ wall\\ edema\\ \\(from\\ hyproteinemia\\)\\.\ \(0\)\
-\-\ with\\ respect\\ to\\ \\ appendicitis\\,\\ however\\,\\ the\\ incidence\\ is\\ actually\\ lower\\ in\\ patients\\ with\\ cf\\.\\ \\ this\\ is\\ important\\ to\\ remember\\ when\\ imaging\\ a\\ patient\\ with\\ cf\\ for\\ appendicitis\\ as\\ the\\ appendix\\ may\\ be\\ dilated\\ to\\ 6mm\\ without\\ obstruction\\ or\\ inflammation\\.\ \(0\)\
-\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
-\-\ cf\\:\\ 0\\.09107743825637998\ \(0\)\
-\-\ colonopahty\\:\\ 0\\.08087631581620641\ \(0\)\
-\-\ appendicitis\\:\\ 0\\.07134430713411548\ \(0\)\
-\-\ fibrosis\\:\\ 0\\.0698143693554173\ \(0\)\
-\-\ fibrosing\\:\\ 0\\.05975168193552709\ \(0\)\
-\-\ meconium\\:\\ 0\\.052110313835205035\ \(0\)\
-\-\ ileus\\:\\ 0\\.04825844369245032\ \(0\)\
-\-\ intussusception\\:\\ 0\\.04703338504451891\ \(0\)\
-\-\ cystic\\:\\ 0\\.045222618481683644\ \(0\)\
-\-\ dilated\\:\\ 0\\.042730615687040764\ \(0\)\
-\-\ crohn\\:\\ 0\\.04189929524694623\ \(0\)\
-\-\ \\+tnderness\\:\\ 0\\.040438157908103206\ \(0\)\
-\-\ equivelent\\:\\ 0\\.040438157908103206\ \(0\)\
-\-\ hyproteinemia\\:\\ 0\\.040438157908103206\ \(0\)\
-\-\ appendix\\:\\ 0\\.038179431869807115\ \(0\)\
-\-\ blind\\-ended\\:\\ 0\\.03725858368535116\ \(0\)\
-\-\ hypoproteinemia\\:\\ 0\\.03725858368535116\ \(0\)\
-\-\ bowel\\:\\ 0\\.03688009448923981\ \(0\)\
-\-\ important\\:\\ 0\\.03521820808757729\ \(0\)\
-\-\ massively\\:\\ 0\\.03305541519051559\ \(0\)\
-\-\ patients\\:\\ 0\\.030434512835312285\ \(0\)\
-\-\ mcburney\\:\\ 0\\.029875840967763544\ \(0\)\
-\-\ predisposed\\:\\ 0\\.028332390341060734\ \(0\)\
-\-\ 102\\:\\ 0\\.027179571862707953\ \(0\)\
-\-\ entities\\:\\ 0\\.0269315570862388\ \(0\)\
-\-\ fever\\:\\ 0\\.02652534519772446\ \(0\)\
-\-\ remember\\:\\ 0\\.02647245865249117\ \(0\)\
-\-\ surrounding\\:\\ 0\\.025772158388667574\ \(0\)\
-\-\ 6mm\\:\\ 0\\.02567267247292797\ \(0\)\
-\-\ respect\\:\\ 0\\.02499184676137626\ \(0\)\
-\-\ leukocytosis\\:\\ 0\\.02412922184622516\ \(0\)\
-\-\ actually\\:\\ 0\\.02412922184622516\ \(0\)\
-\-\ morbidity\\:\\ 0\\.02387431427212052\ \(0\)\
-\-\ gerd\\:\\ 0\\.02363282925613235\ \(0\)\
-\-\ wall\\:\\ 0\\.022707881837052718\ \(0\)\
-\-\ manifestations\\:\\ 0\\.022313186721949867\ \(0\)\
-\-\ edema\\:\\ 0\\.022173609994782486\ \(0\)\
-\-\ secondary\\:\\ 0\\.021917706114759704\ \(0\)\
-\-\ consideration\\:\\ 0\\.021892051174917194\ \(0\)\
-\-\ gastrointestinal\\:\\ 0\\.021360712571590945\ \(0\)\
-\-\ confirms\\:\\ 0\\.02082042341720387\ \(0\)\
-\-\ concerning\\:\\ 0\\.020572408640734712\ \(0\)\
-\-\ f\\:\\ 0\\.020453255033380306\ \(0\)\
-\-\ to\\:\\ 0\\.01959028020380671\ \(0\)\
-\-\ acute\\:\\ 0\\.01935669109272014\ \(0\)\
-\-\ higher\\:\\ 0\\.019222686287533153\ \(0\)\
-\-\ disease\\:\\ 0\\.019221158824069325\ \(0\)\
-\-\ \\,\\:\\ 0\\.018626839370455554\ \(0\)\
-\-\ imaging\\:\\ 0\\.018367649765647732\ \(0\)\
-\-\ tubular\\:\\ 0\\.018253378518417525\ \(0\)\
-\-\ 39\\:\\ 0\\.018217116227100493\ \(0\)\
-\-\ incidence\\:\\ 0\\.01797100286245682\ \(0\)\
-\-\ structure\\:\\ 0\\.017802956379980764\ \(0\)\
-\-\ lower\\:\\ 0\\.01763176210425562\ \(0\)\
-\-\ point\\:\\ 0\\.01712896357331209\ \(0\)\
-\-\ development\\:\\ 0\\.01707233129889787\ \(0\)\
-\-\ count\\:\\ 0\\.017044275211661925\ \(0\)\
-\-\ inflammation\\:\\ 0\\.016668508594836758\ \(0\)\
-\-\ rule\\:\\ 0\\.01636924014589914\ \(0\)\
-\-\ prominent\\:\\ 0\\.016088306085161895\ \(0\)\
-\-\ are\\:\\ 0\\.0160303743926092\ \(0\)\
-\-\ additional\\:\\ 0\\.015717645386009164\ \(0\)\
-\-\ diagnostic\\:\\ 0\\.015532902729413108\ \(0\)\
-\-\ \\#\\:\\ 0\\.015374709261196736\ \(0\)\
-\-\ wbc\\:\\ 0\\.014289334176953267\ \(0\)\
-\-\ risk\\:\\ 0\\.014198195630087554\ \(0\)\
-\-\ obstruction\\:\\ 0\\.013822936002703833\ \(0\)\
-\-\ quadrant\\:\\ 0\\.013795302449477315\ \(0\)\
-\-\ girl\\:\\ 0\\.013781547848577056\ \(0\)\
-\-\ \\&\\:\\ 0\\.013767834367621247\ \(0\)\
-\-\ inflammatory\\:\\ 0\\.013593192404550569\ \(0\)\
-\-\ although\\:\\ 0\\.013238207709066991\ \(0\)\
-\-\ 10\\:\\ 0\\.01321387260709592\ \(0\)\
-\-\ palpation\\:\\ 0\\.013082289359394735\ \(0\)\
-\-\ out\\:\\ 0\\.0129543755819198\ \(0\)\
-\-\ is\\:\\ 0\\.012896577485888204\ \(0\)\
-\-\ known\\:\\ 0\\.012403904057173485\ \(0\)\
-\-\ onset\\:\\ 0\\.012373491862041973\ \(0\)\
-\-\ ultrasound\\:\\ 0\\.011629002683515154\ \(0\)\
-\-\ pulmonary\\:\\ 0\\.011452065643211301\ \(0\)\
-\-\ y\\.o\\:\\ 0\\.011313667121957341\ \(0\)\
-\-\ s\\:\\ 0\\.011242053518874253\ \(0\)\
-\-\ changes\\:\\ 0\\.011234165028601195\ \(0\)\
-\-\ when\\:\\ 0\\.011226290080807366\ \(0\)\
-\-\ fluid\\:\\ 0\\.011140546351393821\ \(0\)\
-\-\ include\\:\\ 0\\.010996116917570123\ \(0\)\
-\-\ however\\:\\ 0\\.010914532365124177\ \(0\)\
-\-\ significant\\:\\ 0\\.010540583261716622\ \(0\)\
-\-\ prior\\:\\ 0\\.010064737487166806\ \(0\)\
-\-\ over\\:\\ 0\\.009980011881375976\ \(0\)\
-\-\ increased\\:\\ 0\\.009589379733025944\ \(0\)\
-\-\ \\;\\:\\ 0\\.009290922882810063\ \(0\)\
-\-\ without\\:\\ 0\\.009229418194303488\ \(0\)\
-\-\ most\\:\\ 0\\.009049702484991175\ \(0\)\
-\-\ may\\:\\ 0\\.00859783655457855\ \(0\)\
-\-\ demonstrates\\:\\ 0\\.008562482576390761\ \(0\)\
-\-\ surgical\\:\\ 0\\.008239549404823182\ \(0\)\
-\-\ presents\\:\\ 0\\.008007542639944614\ \(0\)\
-\-\ treatment\\:\\ 0\\.007934022750462785\ \(0\)\
-\-\ patient\\:\\ 0\\.007858641568040257\ \(0\)\
-\-\ seen\\:\\ 0\\.00774599823425546\ \(0\)\
-\-\ also\\:\\ 0\\.0077276128150006946\ \(0\)\
-\-\ which\\:\\ 0\\.0073171770056997655\ \(0\)\
-\-\ a\\:\\ 0\\.007277060583827546\ \(0\)\
-\-\ for\\:\\ 0\\.0066890655838781204\ \(0\)\
-\-\ be\\:\\ 0\\.0060447556116694\ \(0\)\
-\-\ as\\:\\ 0\\.005929254614193247\ \(0\)\
-\-\ from\\:\\ 0\\.00580933813373492\ \(0\)\
-\-\ ct\\:\\ 0\\.005483044281614876\ \(0\)\
-\-\ at\\:\\ 0\\.005310840150603822\ \(0\)\
-\-\ pain\\:\\ 0\\.004787193429040068\ \(0\)\
-\-\ or\\:\\ 0\\.004594141050292237\ \(0\)\
-\-\ this\\:\\ 0\\.004408886299606115\ \(0\)\
-\-\ with\\:\\ 0\\.004293731232656505\ \(0\)\
-\-\ right\\:\\ 0\\.0041359252711487\ \(0\)\
-\-\ in\\:\\ 0\\.0038660296343142656\ \(0\)\
-\-\ \\(\\:\\ 0\\.0033135859002011952\ \(0\)\
-\-\ \\)\\:\\ 0\\.003273108679418831\ \(0\)\
-\-\ the\\:\\ 0\\.0031708551537528856\ \(0\)\
-\-\ and\\:\\ 0\\.0024771881522782356\ \(0\)\
-\-\ \\.\\:\\ 0\\.0019541029044410794\ \(0\)\
-\-\ of\\:\\ 0\\.0016032633137337859\ \(0\)\
+Texto: 
++tnderness to palpation over mcburney&#39;s point.
+increased wbc count
+fever to 102 f
+treatment is surgical.
+ultrasound demonstrates a dilated, blind-ended tubular structure with surrounding fluid.
+ct confirms a massively dilated appendix with surrounding inflammatory changes.
+acute appendicitis in cystic fibrosis patient
+prior to imaging, the most important diagnostic consideration is to rule out appendicitis.  additional entities which patients with cystic fibrosis are predisposed  to include intussusception, crohn disease, fibrosing colonopahty and bowel wall edema secondary to hypoproteinemia.
+10 y.o. girl with known cystic fibrosis presents with acute onset of right lower quadrant pain, fever, and leukocytosis.
+although the pulmonary manifestations of cystic fibrosis are prominent, significant morbidity secondary to gastrointestinal disease is also seen.  concerning bowel, cf patients are at a higher risk for the development of meconium ileus, meconium ileus equivelent, intussusception, gerd, crohn disease, fibrosing colonopahty and bowel wall edema (from hyproteinemia).
+with respect to  appendicitis, however, the incidence is actually lower in patients with cf.  this is important to remember when imaging a patient with cf for appendicitis as the appendix may be dilated to 6mm without obstruction or inflammation.
+
+
+Keywords by value: 
+- cf: 0.09107743825637998
+- colonopahty: 0.08087631581620641
+- appendicitis: 0.07134430713411548
+- fibrosis: 0.0698143693554173
+- fibrosing: 0.05975168193552709
+- meconium: 0.052110313835205035
+- ileus: 0.04825844369245032
+- intussusception: 0.04703338504451891
+- cystic: 0.045222618481683644
+- dilated: 0.042730615687040764
+- crohn: 0.04189929524694623
+- +tnderness: 0.040438157908103206
+- equivelent: 0.040438157908103206
+- hyproteinemia: 0.040438157908103206
+- appendix: 0.038179431869807115
+- blind-ended: 0.03725858368535116
+- hypoproteinemia: 0.03725858368535116
+- bowel: 0.03688009448923981
+- important: 0.03521820808757729
+- massively: 0.03305541519051559
+- patients: 0.030434512835312285
+- mcburney: 0.029875840967763544
+- predisposed: 0.028332390341060734
+- 102: 0.027179571862707953
+- entities: 0.0269315570862388
+- fever: 0.02652534519772446
+- remember: 0.02647245865249117
+- surrounding: 0.025772158388667574
+- 6mm: 0.02567267247292797
+- respect: 0.02499184676137626
+- leukocytosis: 0.02412922184622516
+- actually: 0.02412922184622516
+- morbidity: 0.02387431427212052
+- gerd: 0.02363282925613235
+- wall: 0.022707881837052718
+- manifestations: 0.022313186721949867
+- edema: 0.022173609994782486
+- secondary: 0.021917706114759704
+- consideration: 0.021892051174917194
+- gastrointestinal: 0.021360712571590945
+- confirms: 0.02082042341720387
+- concerning: 0.020572408640734712
+- f: 0.020453255033380306
+- to: 0.01959028020380671
+- acute: 0.01935669109272014
+- higher: 0.019222686287533153
+- disease: 0.019221158824069325
+- ,: 0.018626839370455554
+- imaging: 0.018367649765647732
+- tubular: 0.018253378518417525
+- 39: 0.018217116227100493
+- incidence: 0.01797100286245682
+- structure: 0.017802956379980764
+- lower: 0.01763176210425562
+- point: 0.01712896357331209
+- development: 0.01707233129889787
+- count: 0.017044275211661925
+- inflammation: 0.016668508594836758
+- rule: 0.01636924014589914
+- prominent: 0.016088306085161895
+- are: 0.0160303743926092
+- additional: 0.015717645386009164
+- diagnostic: 0.015532902729413108
+- #: 0.015374709261196736
+- wbc: 0.014289334176953267
+- risk: 0.014198195630087554
+- obstruction: 0.013822936002703833
+- quadrant: 0.013795302449477315
+- girl: 0.013781547848577056
+- &: 0.013767834367621247
+- inflammatory: 0.013593192404550569
+- although: 0.013238207709066991
+- 10: 0.01321387260709592
+- palpation: 0.013082289359394735
+- out: 0.0129543755819198
+- is: 0.012896577485888204
+- known: 0.012403904057173485
+- onset: 0.012373491862041973
+- ultrasound: 0.011629002683515154
+- pulmonary: 0.011452065643211301
+- y.o: 0.011313667121957341
+- s: 0.011242053518874253
+- changes: 0.011234165028601195
+- when: 0.011226290080807366
+- fluid: 0.011140546351393821
+- include: 0.010996116917570123
+- however: 0.010914532365124177
+- significant: 0.010540583261716622
+- prior: 0.010064737487166806
+- over: 0.009980011881375976
+- increased: 0.009589379733025944
+- ;: 0.009290922882810063
+- without: 0.009229418194303488
+- most: 0.009049702484991175
+- may: 0.00859783655457855
+- demonstrates: 0.008562482576390761
+- surgical: 0.008239549404823182
+- presents: 0.008007542639944614
+- treatment: 0.007934022750462785
+- patient: 0.007858641568040257
+- seen: 0.00774599823425546
+- also: 0.0077276128150006946
+- which: 0.0073171770056997655
+- a: 0.007277060583827546
+- for: 0.0066890655838781204
+- be: 0.0060447556116694
+- as: 0.005929254614193247
+- from: 0.00580933813373492
+- ct: 0.005483044281614876
+- at: 0.005310840150603822
+- pain: 0.004787193429040068
+- or: 0.004594141050292237
+- this: 0.004408886299606115
+- with: 0.004293731232656505
+- right: 0.0041359252711487
+- in: 0.0038660296343142656
+- (: 0.0033135859002011952
+- ): 0.003273108679418831
+- the: 0.0031708551537528856
+- and: 0.0024771881522782356
+- .: 0.0019541029044410794
+- of: 0.0016032633137337859

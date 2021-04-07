@@ -1,39 +1,41 @@
-\-\ Texto\\:\\ \ \(0\)\
-\-\ not\\ provided\ \(12\)\
-\-\ mass\\ splaying\\ the\\ internal\\ and\\ external\\ carotid\\ arties\\ resulting\\ in\\ a\\ wine\\ glass\\ configuration\\ and\\ \\ demonstrating\\ marked\\ vascularity\ \(0\)\
-\-\ carotid\\ body\\ tumor\ \(3\)\
-\-\ carotid\\ body\\ tumor\ \(3\)\
-\-\ metastatic\\ lymphadenopathy\ \(1\)\
-\-\ branchial\\ cleft\\ cyst\ \(12\)\
-\-\ pulsatile\\ tinnitus\\,\\ hypertension\ \(1\)\
-\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
-\-\ carotid\\:\\ 0\\.3284495830506996\ \(0\)\
-\-\ arties\\:\\ 0\\.2518719549704714\ \(0\)\
-\-\ wine\\:\\ 0\\.19627452214031957\ \(0\)\
-\-\ splaying\\:\\ 0\\.17449909208183678\ \(0\)\
-\-\ tinnitus\\:\\ 0\\.164885599606945\ \(0\)\
-\-\ branchial\\:\\ 0\\.16107041696053007\ \(0\)\
-\-\ pulsatile\\:\\ 0\\.15990407425995135\ \(0\)\
-\-\ body\\:\\ 0\\.15858649786794768\ \(0\)\
-\-\ glass\\:\\ 0\\.1412662118016745\ \(0\)\
-\-\ configuration\\:\\ 0\\.1363562044609128\ \(0\)\
-\-\ vascularity\\:\\ 0\\.13489068176412566\ \(0\)\
-\-\ cleft\\:\\ 0\\.11917507213786073\ \(0\)\
-\-\ tumor\\:\\ 0\\.11384184580633207\ \(0\)\
-\-\ resulting\\:\\ 0\\.10722638259827233\ \(0\)\
-\-\ demonstrating\\:\\ 0\\.10598779857331193\ \(0\)\
-\-\ provided\\:\\ 0\\.10530342025838356\ \(0\)\
-\-\ external\\:\\ 0\\.10382099639069751\ \(0\)\
-\-\ lymphadenopathy\\:\\ 0\\.10382099639069751\ \(0\)\
-\-\ hypertension\\:\\ 0\\.0962508872085768\ \(0\)\
-\-\ marked\\:\\ 0\\.09528227144641448\ \(0\)\
-\-\ internal\\:\\ 0\\.08185359632510775\ \(0\)\
-\-\ cyst\\:\\ 0\\.06561060388646008\ \(0\)\
-\-\ metastatic\\:\\ 0\\.06146026867474543\ \(0\)\
-\-\ not\\:\\ 0\\.03528053347834101\ \(0\)\
-\-\ mass\\:\\ 0\\.03395602876993041\ \(0\)\
-\-\ in\\:\\ 0\\.01203992086115014\ \(0\)\
-\-\ a\\:\\ 0\\.011331422909102893\ \(0\)\
-\-\ and\\:\\ 0\\.010286228898983911\ \(0\)\
-\-\ \\,\\:\\ 0\\.007734573300493925\ \(0\)\
-\-\ the\\:\\ 0\\.003949979562960737\ \(0\)\
+Texto: 
+not provided
+mass splaying the internal and external carotid arties resulting in a wine glass configuration and  demonstrating marked vascularity
+carotid body tumor
+carotid body tumor
+metastatic lymphadenopathy
+branchial cleft cyst
+pulsatile tinnitus, hypertension
+
+
+Keywords by value: 
+- carotid: 0.3284495830506996
+- arties: 0.2518719549704714
+- wine: 0.19627452214031957
+- splaying: 0.17449909208183678
+- tinnitus: 0.164885599606945
+- branchial: 0.16107041696053007
+- pulsatile: 0.15990407425995135
+- body: 0.15858649786794768
+- glass: 0.1412662118016745
+- configuration: 0.1363562044609128
+- vascularity: 0.13489068176412566
+- cleft: 0.11917507213786073
+- tumor: 0.11384184580633207
+- resulting: 0.10722638259827233
+- demonstrating: 0.10598779857331193
+- provided: 0.10530342025838356
+- external: 0.10382099639069751
+- lymphadenopathy: 0.10382099639069751
+- hypertension: 0.0962508872085768
+- marked: 0.09528227144641448
+- internal: 0.08185359632510775
+- cyst: 0.06561060388646008
+- metastatic: 0.06146026867474543
+- not: 0.03528053347834101
+- mass: 0.03395602876993041
+- in: 0.01203992086115014
+- a: 0.011331422909102893
+- and: 0.010286228898983911
+- ,: 0.007734573300493925
+- the: 0.003949979562960737

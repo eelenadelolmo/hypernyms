@@ -1,69 +1,71 @@
-\-\ Texto\\:\\ \ \(0\)\
-\-\ vital\\ signs\\ within\\ normal\\ limits\\.\\ \\ non\\-focal\\ neurologic\\ exam\\.\\ \\ funduscopic\\ reveals\\ papilledema\\,\\ no\\ retinal\\ hemorrhage\\.\ \(0\)\
-\-\ patient\\ underwent\\ continued\\ medical\\ evaluation\\ and\\ management\\ of\\ her\\ headaches\\.\\ \\ annual\\ eye\\ exams\\ recommendations\\.\ \(0\)\
-\-\ bilateral\\ calcifications\\ of\\ the\\ optic\\ discs\\.\\ \\ ct\\ head\\ otherwise\\ essentially\\ normal\\.\ \(0\)\
-\-\ optic\\ disc\\ drusen\ \(1\)\
-\-\ papilledema\ \(45\)\
-\-\ pseudopapilledema\ \(1\)\
-\-\ optic\\ disc\\ drusen\ \(1\)\
-\-\ 30\\ yo\\ female\\ homemaker\\ complains\\ of\\ frequent\\ headaches\\.\\ \\ no\\ associated\\ symptoms\\ of\\ aura\\,\\ vomiting\\ or\\ neurologic\\ changes\\.\\ \\ review\\ of\\ systems\\ noncontributory\\.\ \(0\)\
-\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
-\-\ drusen\\:\\ 0\\.1755939738684611\ \(0\)\
-\-\ \\-papilledema\\:\\ 0\\.11019398029958123\ \(0\)\
-\-\ \\-pseudopapilledema\\:\\ 0\\.11019398029958123\ \(0\)\
-\-\ homemaker\\:\\ 0\\.10152964054258191\ \(0\)\
-\-\ aura\\:\\ 0\\.10152964054258191\ \(0\)\
-\-\ disc\\:\\ 0\\.09948091292537552\ \(0\)\
-\-\ optic\\:\\ 0\\.09889265049012065\ \(0\)\
-\-\ \\-optic\\:\\ 0\\.09646132669122987\ \(0\)\
-\-\ funduscopic\\:\\ 0\\.0928653007855826\ \(0\)\
-\-\ neurologic\\:\\ 0\\.08921235879515031\ \(0\)\
-\-\ headaches\\:\\ 0\\.08166105847678196\ \(0\)\
-\-\ non\\-focal\\:\\ 0\\.07813211333131202\ \(0\)\
-\-\ discs\\:\\ 0\\.07213744982803844\ \(0\)\
-\-\ retinal\\:\\ 0\\.07155594963260228\ \(0\)\
-\-\ recommendations\\:\\ 0\\.07100030260046686\ \(0\)\
-\-\ papilledema\\:\\ 0\\.06648763578125022\ \(0\)\
-\-\ exams\\:\\ 0\\.0603316797175278\ \(0\)\
-\-\ essentially\\:\\ 0\\.059877084165391864\ \(0\)\
-\-\ systems\\:\\ 0\\.05673565381188054\ \(0\)\
-\-\ annual\\:\\ 0\\.053536486635165526\ \(0\)\
-\-\ frequent\\:\\ 0\\.053402795521206185\ \(0\)\
-\-\ noncontributory\\:\\ 0\\.051212744408392546\ \(0\)\
-\-\ vital\\:\\ 0\\.05110163256567697\ \(0\)\
-\-\ complains\\:\\ 0\\.04964164171884884\ \(0\)\
-\-\ review\\:\\ 0\\.04629413294512444\ \(0\)\
-\-\ continued\\:\\ 0\\.04599649983645296\ \(0\)\
-\-\ eye\\:\\ 0\\.0448051225888989\ \(0\)\
-\-\ limits\\:\\ 0\\.04402766999052508\ \(0\)\
-\-\ reveals\\:\\ 0\\.041790596878687795\ \(0\)\
-\-\ 30\\:\\ 0\\.04107611670568844\ \(0\)\
-\-\ vomiting\\:\\ 0\\.04078198548806101\ \(0\)\
-\-\ management\\:\\ 0\\.04030664304319552\ \(0\)\
-\-\ calcifications\\:\\ 0\\.039714546932909406\ \(0\)\
-\-\ otherwise\\:\\ 0\\.038366440417829314\ \(0\)\
-\-\ signs\\:\\ 0\\.03759219917482568\ \(0\)\
-\-\ underwent\\:\\ 0\\.036652450443477744\ \(0\)\
-\-\ hemorrhage\\:\\ 0\\.03555320730220045\ \(0\)\
-\-\ normal\\:\\ 0\\.03349031136497753\ \(0\)\
-\-\ medical\\:\\ 0\\.03286637250082505\ \(0\)\
-\-\ yo\\:\\ 0\\.03214189404128453\ \(0\)\
-\-\ her\\:\\ 0\\.0321176457310617\ \(0\)\
-\-\ evaluation\\:\\ 0\\.031027984947835097\ \(0\)\
-\-\ changes\\:\\ 0\\.030613099702938257\ \(0\)\
-\-\ head\\:\\ 0\\.030295016382173703\ \(0\)\
-\-\ symptoms\\:\\ 0\\.02662071846122674\ \(0\)\
-\-\ bilateral\\:\\ 0\\.02592272161643055\ \(0\)\
-\-\ associated\\:\\ 0\\.025205782023846275\ \(0\)\
-\-\ exam\\:\\ 0\\.02346542424936923\ \(0\)\
-\-\ female\\:\\ 0\\.02195950339309792\ \(0\)\
-\-\ no\\:\\ 0\\.02151110376759505\ \(0\)\
-\-\ within\\:\\ 0\\.020376642604826023\ \(0\)\
-\-\ ct\\:\\ 0\\.014941295667400538\ \(0\)\
-\-\ or\\:\\ 0\\.012519034362046344\ \(0\)\
-\-\ patient\\:\\ 0\\.01070739913645485\ \(0\)\
-\-\ of\\:\\ 0\\.007281487549874277\ \(0\)\
-\-\ \\,\\:\\ 0\\.006767751637932185\ \(0\)\
-\-\ \\.\\:\\ 0\\.004437442012168284\ \(0\)\
-\-\ and\\:\\ 0\\.0022501125716527307\ \(0\)\
-\-\ the\\:\\ 0\\.0017281160587953226\ \(0\)\
+Texto: 
+vital signs within normal limits.  non-focal neurologic exam.  funduscopic reveals papilledema, no retinal hemorrhage.
+patient underwent continued medical evaluation and management of her headaches.  annual eye exams recommendations.
+bilateral calcifications of the optic discs.  ct head otherwise essentially normal.
+optic disc drusen
+-papilledema
+-pseudopapilledema
+-optic disc drusen
+30 yo female homemaker complains of frequent headaches.  no associated symptoms of aura, vomiting or neurologic changes.  review of systems noncontributory.
+
+
+Keywords by value: 
+- drusen: 0.1755939738684611
+- -papilledema: 0.11019398029958123
+- -pseudopapilledema: 0.11019398029958123
+- homemaker: 0.10152964054258191
+- aura: 0.10152964054258191
+- disc: 0.09948091292537552
+- optic: 0.09889265049012065
+- -optic: 0.09646132669122987
+- funduscopic: 0.0928653007855826
+- neurologic: 0.08921235879515031
+- headaches: 0.08166105847678196
+- non-focal: 0.07813211333131202
+- discs: 0.07213744982803844
+- retinal: 0.07155594963260228
+- recommendations: 0.07100030260046686
+- papilledema: 0.06648763578125022
+- exams: 0.0603316797175278
+- essentially: 0.059877084165391864
+- systems: 0.05673565381188054
+- annual: 0.053536486635165526
+- frequent: 0.053402795521206185
+- noncontributory: 0.051212744408392546
+- vital: 0.05110163256567697
+- complains: 0.04964164171884884
+- review: 0.04629413294512444
+- continued: 0.04599649983645296
+- eye: 0.0448051225888989
+- limits: 0.04402766999052508
+- reveals: 0.041790596878687795
+- 30: 0.04107611670568844
+- vomiting: 0.04078198548806101
+- management: 0.04030664304319552
+- calcifications: 0.039714546932909406
+- otherwise: 0.038366440417829314
+- signs: 0.03759219917482568
+- underwent: 0.036652450443477744
+- hemorrhage: 0.03555320730220045
+- normal: 0.03349031136497753
+- medical: 0.03286637250082505
+- yo: 0.03214189404128453
+- her: 0.0321176457310617
+- evaluation: 0.031027984947835097
+- changes: 0.030613099702938257
+- head: 0.030295016382173703
+- symptoms: 0.02662071846122674
+- bilateral: 0.02592272161643055
+- associated: 0.025205782023846275
+- exam: 0.02346542424936923
+- female: 0.02195950339309792
+- no: 0.02151110376759505
+- within: 0.020376642604826023
+- ct: 0.014941295667400538
+- or: 0.012519034362046344
+- patient: 0.01070739913645485
+- of: 0.007281487549874277
+- ,: 0.006767751637932185
+- .: 0.004437442012168284
+- and: 0.0022501125716527307
+- the: 0.0017281160587953226

@@ -1,70 +1,72 @@
-\-\ Texto\\:\\ \ \(0\)\
-\-\ echogenic\\ gallbladder\\ wall\\ with\\ posterior\\ linear\\ echo\\ \\(gallstones\\)\\ and\\ posterior\\ shadowing\\.\ \(0\)\
-\-\ gallstones\ \(51\)\
-\-\ gallstone\\ filled\\ gallbladder\\ demonstrating\\ a\\ wes\\ sign\ \(0\)\
-\-\ 41\\ yo\\ female\\ with\\ right\\ upper\\ quadrant\\ pain\\ and\\ nausea\\.\ \(1\)\
-\-\ this\\ is\\ a\\ classic\\ ultrasound\\ appearance\\ for\\ the\\ wall\\ echo\\ shadow\\ sign\\ which\\ is\\ indicative\\ of\\ a\\ gallstone\\ filled\\ gallbladder\\.\\ you\\ can\\ visualize\\ the\\ gallbladder\\ wall\\ as\\ an\\ echogenic\\ line\\ with\\ a\\ posterior\\ linear\\ echogenic\\ line\\ that\\ is\\ gallstones\\ against\\ the\\ wall\\ and\\ then\\ a\\ posterior\\ clean\\ shadow\\.\\ you\\ must\\ differentiate\\ gallstones\\ from\\ air\\ or\\ calcification\\ in\\ the\\ wall\\.\\ however\\,\\ with\\ air\\ or\\ calcification\\,\\ you\\ will\\ only\\ see\\ echo\\ and\\ shadow\\.\\ the\\ gallbladder\\ wall\\ will\\ not\\ be\\ visualized\\.\ \(0\)\
-\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
-\-\ gallstones\\:\\ 0\\.17642713597702622\ \(0\)\
-\-\ gallbladder\\:\\ 0\\.17398255180737984\ \(0\)\
-\-\ wall\\:\\ 0\\.12585554848671593\ \(0\)\
-\-\ you\\:\\ 0\\.12570298507776123\ \(0\)\
-\-\ shadow\\:\\ 0\\.1236680009843662\ \(0\)\
-\-\ echo\\:\\ 0\\.11303569249574942\ \(0\)\
-\-\ echogenic\\:\\ 0\\.10808059913132192\ \(0\)\
-\-\ gallstone\\:\\ 0\\.09627159674639574\ \(0\)\
-\-\ filled\\:\\ 0\\.06731070063572724\ \(0\)\
-\-\ posterior\\:\\ 0\\.06676740843059148\ \(0\)\
-\-\ linear\\:\\ 0\\.06139934869620827\ \(0\)\
-\-\ line\\:\\ 0\\.05952904264249869\ \(0\)\
-\-\ wes\\:\\ 0\\.05608723598839219\ \(0\)\
-\-\ calcification\\:\\ 0\\.05257263760096829\ \(0\)\
-\-\ clean\\:\\ 0\\.05175820527851091\ \(0\)\
-\-\ sign\\:\\ 0\\.0501770593519334\ \(0\)\
-\-\ air\\:\\ 0\\.04900445129749095\ \(0\)\
-\-\ will\\:\\ 0\\.04531323759964648\ \(0\)\
-\-\ visualize\\:\\ 0\\.04507636324152557\ \(0\)\
-\-\ differentiate\\:\\ 0\\.04263837957667997\ \(0\)\
-\-\ indicative\\:\\ 0\\.041387227044425184\ \(0\)\
-\-\ against\\:\\ 0\\.04059463333246906\ \(0\)\
-\-\ 41\\:\\ 0\\.03858337751631511\ \(0\)\
-\-\ shadowing\\:\\ 0\\.03846485004195291\ \(0\)\
-\-\ must\\:\\ 0\\.03301302964524045\ \(0\)\
-\-\ demonstrating\\:\\ 0\\.03143705889886371\ \(0\)\
-\-\ visualized\\:\\ 0\\.029312984316054964\ \(0\)\
-\-\ nausea\\:\\ 0\\.029154576409172312\ \(0\)\
-\-\ classic\\:\\ 0\\.027747922701763322\ \(0\)\
-\-\ then\\:\\ 0\\.025770905749339743\ \(0\)\
-\-\ quadrant\\:\\ 0\\.025486236728695377\ \(0\)\
-\-\ yo\\:\\ 0\\.021791114604260694\ \(0\)\
-\-\ only\\:\\ 0\\.021774675071906235\ \(0\)\
-\-\ see\\:\\ 0\\.021612010264650747\ \(0\)\
-\-\ ultrasound\\:\\ 0\\.02148408970344325\ \(0\)\
-\-\ appearance\\:\\ 0\\.020711072684191877\ \(0\)\
-\-\ however\\:\\ 0\\.020164136064381954\ \(0\)\
-\-\ upper\\:\\ 0\\.017475258520073884\ \(0\)\
-\-\ or\\:\\ 0\\.0169749618468425\ \(0\)\
-\-\ a\\:\\ 0\\.016805076348245816\ \(0\)\
-\-\ can\\:\\ 0\\.01642561315651754\ \(0\)\
-\-\ female\\:\\ 0\\.014887798910574861\ \(0\)\
-\-\ is\\:\\ 0\\.01429552826401845\ \(0\)\
-\-\ which\\:\\ 0\\.013518174468157193\ \(0\)\
-\-\ that\\:\\ 0\\.012508311258973078\ \(0\)\
-\-\ be\\:\\ 0\\.011167429858846858\ \(0\)\
-\-\ as\\:\\ 0\\.010954046660119727\ \(0\)\
-\-\ from\\:\\ 0\\.010732506043679766\ \(0\)\
-\-\ not\\:\\ 0\\.010464565014762164\ \(0\)\
-\-\ an\\:\\ 0\\.010014109019362118\ \(0\)\
-\-\ pain\\:\\ 0\\.008844137012972328\ \(0\)\
-\-\ this\\:\\ 0\\.008145230621306213\ \(0\)\
-\-\ right\\:\\ 0\\.007640946687376413\ \(0\)\
-\-\ for\\:\\ 0\\.00617888261561623\ \(0\)\
-\-\ \\(\\:\\ 0\\.006121709544439496\ \(0\)\
-\-\ and\\:\\ 0\\.0061020001943124895\ \(0\)\
-\-\ \\)\\:\\ 0\\.0060469295941805515\ \(0\)\
-\-\ the\\:\\ 0\\.0058580205382892285\ \(0\)\
-\-\ \\,\\:\\ 0\\.0045883061952082605\ \(0\)\
-\-\ with\\:\\ 0\\.003966243257284398\ \(0\)\
-\-\ in\\:\\ 0\\.003571162967290296\ \(0\)\
-\-\ \\.\\:\\ 0\\.0021059046837408808\ \(0\)\
-\-\ of\\:\\ 0\\.0009873203457456646\ \(0\)\
+Texto: 
+echogenic gallbladder wall with posterior linear echo (gallstones) and posterior shadowing.
+gallstones
+gallstone filled gallbladder demonstrating a wes sign
+41 yo female with right upper quadrant pain and nausea.
+this is a classic ultrasound appearance for the wall echo shadow sign which is indicative of a gallstone filled gallbladder. you can visualize the gallbladder wall as an echogenic line with a posterior linear echogenic line that is gallstones against the wall and then a posterior clean shadow. you must differentiate gallstones from air or calcification in the wall. however, with air or calcification, you will only see echo and shadow. the gallbladder wall will not be visualized.
+
+
+Keywords by value: 
+- gallstones: 0.17642713597702622
+- gallbladder: 0.17398255180737984
+- wall: 0.12585554848671593
+- you: 0.12570298507776123
+- shadow: 0.1236680009843662
+- echo: 0.11303569249574942
+- echogenic: 0.10808059913132192
+- gallstone: 0.09627159674639574
+- filled: 0.06731070063572724
+- posterior: 0.06676740843059148
+- linear: 0.06139934869620827
+- line: 0.05952904264249869
+- wes: 0.05608723598839219
+- calcification: 0.05257263760096829
+- clean: 0.05175820527851091
+- sign: 0.0501770593519334
+- air: 0.04900445129749095
+- will: 0.04531323759964648
+- visualize: 0.04507636324152557
+- differentiate: 0.04263837957667997
+- indicative: 0.041387227044425184
+- against: 0.04059463333246906
+- 41: 0.03858337751631511
+- shadowing: 0.03846485004195291
+- must: 0.03301302964524045
+- demonstrating: 0.03143705889886371
+- visualized: 0.029312984316054964
+- nausea: 0.029154576409172312
+- classic: 0.027747922701763322
+- then: 0.025770905749339743
+- quadrant: 0.025486236728695377
+- yo: 0.021791114604260694
+- only: 0.021774675071906235
+- see: 0.021612010264650747
+- ultrasound: 0.02148408970344325
+- appearance: 0.020711072684191877
+- however: 0.020164136064381954
+- upper: 0.017475258520073884
+- or: 0.0169749618468425
+- a: 0.016805076348245816
+- can: 0.01642561315651754
+- female: 0.014887798910574861
+- is: 0.01429552826401845
+- which: 0.013518174468157193
+- that: 0.012508311258973078
+- be: 0.011167429858846858
+- as: 0.010954046660119727
+- from: 0.010732506043679766
+- not: 0.010464565014762164
+- an: 0.010014109019362118
+- pain: 0.008844137012972328
+- this: 0.008145230621306213
+- right: 0.007640946687376413
+- for: 0.00617888261561623
+- (: 0.006121709544439496
+- and: 0.0061020001943124895
+- ): 0.0060469295941805515
+- the: 0.0058580205382892285
+- ,: 0.0045883061952082605
+- with: 0.003966243257284398
+- in: 0.003571162967290296
+- .: 0.0021059046837408808
+- of: 0.0009873203457456646

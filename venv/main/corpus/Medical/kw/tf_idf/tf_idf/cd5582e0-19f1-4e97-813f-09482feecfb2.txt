@@ -1,65 +1,67 @@
-\-\ Texto\\:\\ \ \(0\)\
-\-\ during\\ his\\ evaluation\\,\\ radiologic\\ studies\\ had\\ disclosed\\ a\\ contrast\\ enhancing\\ lesion\\ in\\ the\\ fourth\\ ventricle\\.\\ he\\ had\\ no\\ symptoms\\ directly\\ referable\\ to\\ the\\ fourth\\ ventricular\\ lesion\\.\\ craniotomy\\ and\\ removal\\ of\\ the\\ fourth\\ ventricular\\ tumor\\ was\\ eventually\\ performed\\.\ \(0\)\
-\-\ contrast\\ enhancing\\ mass\\ in\\ the\\ inferior\\ portion\\ of\\ the\\ fourth\\ ventricle\ \(0\)\
-\-\ subependymoma\\ of\\ the\\ fourth\\ ventricle\ \(0\)\
-\-\ choroid\\ plexus\\ papilloma\ \(11\)\
-\-\ choroid\\ plexus\\ metastasis\ \(0\)\
-\-\ subependymoma\ \(6\)\
-\-\ this\\ 66\\ year\\-old\\ man\\ developed\\ optic\\ neuritis\\ and\\ visual\\ loss\\ in\\ his\\ right\\ eye\\ that\\ resolved\\ with\\ steroid\\ treatment\\.\ \(0\)\
-\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
-\-\ fourth\\:\\ 0\\.24603495219299276\ \(0\)\
-\-\ subependymoma\\:\\ 0\\.14387927861254088\ \(0\)\
-\-\ ventricle\\:\\ 0\\.11437108277065813\ \(0\)\
-\-\ choroid\\:\\ 0\\.10383740780269024\ \(0\)\
-\-\ plexus\\:\\ 0\\.09885903166320074\ \(0\)\
-\-\ ventricular\\:\\ 0\\.09091205119529483\ \(0\)\
-\-\ referable\\:\\ 0\\.08178105089179981\ \(0\)\
-\-\ disclosed\\:\\ 0\\.0801913914557936\ \(0\)\
-\-\ neuritis\\:\\ 0\\.0644562028845755\ \(0\)\
-\-\ enhancing\\:\\ 0\\.06380841744963713\ \(0\)\
-\-\ craniotomy\\:\\ 0\\.061031416307768586\ \(0\)\
-\-\ his\\:\\ 0\\.05864021494397457\ \(0\)\
-\-\ eventually\\:\\ 0\\.05600767333087127\ \(0\)\
-\-\ directly\\:\\ 0\\.05581409570144531\ \(0\)\
-\-\ 66\\:\\ 0\\.05471441331893323\ \(0\)\
-\-\ steroid\\:\\ 0\\.05370777774717057\ \(0\)\
-\-\ radiologic\\:\\ 0\\.05292941156546996\ \(0\)\
-\-\ papilloma\\:\\ 0\\.05111583151092212\ \(0\)\
-\-\ resolved\\:\\ 0\\.04931773320838799\ \(0\)\
-\-\ optic\\:\\ 0\\.047091738328628875\ \(0\)\
-\-\ visual\\:\\ 0\\.0461175714447285\ \(0\)\
-\-\ contrast\\:\\ 0\\.04554227825733108\ \(0\)\
-\-\ had\\:\\ 0\\.04390118617239781\ \(0\)\
-\-\ eye\\:\\ 0\\.04267154532276085\ \(0\)\
-\-\ lesion\\:\\ 0\\.04144179109524892\ \(0\)\
-\-\ removal\\:\\ 0\\.040104536336907\ \(0\)\
-\-\ developed\\:\\ 0\\.03916744624803231\ \(0\)\
-\-\ metastasis\\:\\ 0\\.03808032531309436\ \(0\)\
-\-\ studies\\:\\ 0\\.037994058544989995\ \(0\)\
-\-\ year\\-old\\:\\ 0\\.03736624549640734\ \(0\)\
-\-\ portion\\:\\ 0\\.036847698182846264\ \(0\)\
-\-\ inferior\\:\\ 0\\.03451567096856027\ \(0\)\
-\-\ during\\:\\ 0\\.031131062499092952\ \(0\)\
-\-\ evaluation\\:\\ 0\\.029550461855081044\ \(0\)\
-\-\ loss\\:\\ 0\\.02952933538652904\ \(0\)\
-\-\ he\\:\\ 0\\.02838318264325023\ \(0\)\
-\-\ performed\\:\\ 0\\.028364027752706175\ \(0\)\
-\-\ symptoms\\:\\ 0\\.025353065201168323\ \(0\)\
-\-\ man\\:\\ 0\\.024058712417738083\ \(0\)\
-\-\ tumor\\:\\ 0\\.023717051209652514\ \(0\)\
-\-\ treatment\\:\\ 0\\.020590678090486748\ \(0\)\
-\-\ that\\:\\ 0\\.0175711991495098\ \(0\)\
-\-\ in\\:\\ 0\\.015049901076437675\ \(0\)\
-\-\ mass\\:\\ 0\\.01414834532080434\ \(0\)\
-\-\ was\\:\\ 0\\.011765208597781985\ \(0\)\
-\-\ this\\:\\ 0\\.011442109682311108\ \(0\)\
-\-\ right\\:\\ 0\\.010733710822743055\ \(0\)\
-\-\ no\\:\\ 0\\.010243382746473833\ \(0\)\
-\-\ the\\:\\ 0\\.009874948907401843\ \(0\)\
-\-\ to\\:\\ 0\\.0050841441481307885\ \(0\)\
-\-\ a\\:\\ 0\\.004721426212126205\ \(0\)\
-\-\ and\\:\\ 0\\.004285928707909963\ \(0\)\
-\-\ of\\:\\ 0\\.004160850028499586\ \(0\)\
-\-\ \\,\\:\\ 0\\.003222738875205802\ \(0\)\
-\-\ \\.\\:\\ 0\\.001690454099873632\ \(0\)\
-\-\ with\\:\\ 0\\.0013929068582129729\ \(0\)\
+Texto: 
+during his evaluation, radiologic studies had disclosed a contrast enhancing lesion in the fourth ventricle. he had no symptoms directly referable to the fourth ventricular lesion. craniotomy and removal of the fourth ventricular tumor was eventually performed.
+contrast enhancing mass in the inferior portion of the fourth ventricle
+subependymoma of the fourth ventricle
+choroid plexus papilloma
+choroid plexus metastasis
+subependymoma
+this 66 year-old man developed optic neuritis and visual loss in his right eye that resolved with steroid treatment.
+
+
+Keywords by value: 
+- fourth: 0.24603495219299276
+- subependymoma: 0.14387927861254088
+- ventricle: 0.11437108277065813
+- choroid: 0.10383740780269024
+- plexus: 0.09885903166320074
+- ventricular: 0.09091205119529483
+- referable: 0.08178105089179981
+- disclosed: 0.0801913914557936
+- neuritis: 0.0644562028845755
+- enhancing: 0.06380841744963713
+- craniotomy: 0.061031416307768586
+- his: 0.05864021494397457
+- eventually: 0.05600767333087127
+- directly: 0.05581409570144531
+- 66: 0.05471441331893323
+- steroid: 0.05370777774717057
+- radiologic: 0.05292941156546996
+- papilloma: 0.05111583151092212
+- resolved: 0.04931773320838799
+- optic: 0.047091738328628875
+- visual: 0.0461175714447285
+- contrast: 0.04554227825733108
+- had: 0.04390118617239781
+- eye: 0.04267154532276085
+- lesion: 0.04144179109524892
+- removal: 0.040104536336907
+- developed: 0.03916744624803231
+- metastasis: 0.03808032531309436
+- studies: 0.037994058544989995
+- year-old: 0.03736624549640734
+- portion: 0.036847698182846264
+- inferior: 0.03451567096856027
+- during: 0.031131062499092952
+- evaluation: 0.029550461855081044
+- loss: 0.02952933538652904
+- he: 0.02838318264325023
+- performed: 0.028364027752706175
+- symptoms: 0.025353065201168323
+- man: 0.024058712417738083
+- tumor: 0.023717051209652514
+- treatment: 0.020590678090486748
+- that: 0.0175711991495098
+- in: 0.015049901076437675
+- mass: 0.01414834532080434
+- was: 0.011765208597781985
+- this: 0.011442109682311108
+- right: 0.010733710822743055
+- no: 0.010243382746473833
+- the: 0.009874948907401843
+- to: 0.0050841441481307885
+- a: 0.004721426212126205
+- and: 0.004285928707909963
+- of: 0.004160850028499586
+- ,: 0.003222738875205802
+- .: 0.001690454099873632
+- with: 0.0013929068582129729

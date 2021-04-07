@@ -1,76 +1,79 @@
-\-\ Texto\\:\\ \ \(0\)\
-\-\ distended\\ abdomen\\ with\\ diffuse\\ tenderness\\.\ \(0\)\
-\-\ labs\\:\\ no\\ significant\\ abnormality\\.\ \(0\)\
-\-\ surgical\\ resection\\ and\\ anastomosis\\ with\\ gastrointestinal\\ follow\\ up\\.\ \(0\)\
-\-\ multiple\\ spot\\ images\\ and\\ overhead\\ views\\ from\\ a\\ small\\ bowel\\ follow\\ through\\ demonstrate\\ narrowing\\ of\\ the\\ terminal\\ ileum\\ with\\ proximal\\ dilated\\ loops\\ of\\ small\\ bowel\\.\\ \\ abdominal\\ ct\\ with\\ contrast\\ demonstrates\\ stricture\\ of\\ theterminal\\ ileum\\ with\\ mild\\ fat\\ stranding\\.\ \(0\)\
-\-\ crohn\\'s\\ disease\ \(1\)\
-\-\ crohn\\'s\\ disease\\,\\ ulcerative\\ colitis\\ with\\ backwash\\ ileitis\\,\\ malignancy\\,\\ adhesions\\,\\ radiation\\ fibrosis\\,\\ infection\\.\ \(0\)\
-\-\ 55\\ y\\/o\\ wf\\ with\\ years\\ of\\ diarrhea\\ and\\ increasing\\ diffuse\\ crampy\\ abdominal\\ pain\\.\ \(0\)\
-\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
-\-\ ileum\\:\\ 0\\.09876632439652265\ \(0\)\
-\-\ crohn\\:\\ 0\\.09416542643128122\ \(0\)\
-\-\ theterminal\\:\\ 0\\.09088163323676803\ \(0\)\
-\-\ backwash\\:\\ 0\\.07955573335359163\ \(0\)\
-\-\ ileitis\\:\\ 0\\.06822983347041524\ \(0\)\
-\-\ overhead\\:\\ 0\\.06229824434769811\ \(0\)\
-\-\ wf\\:\\ 0\\.06167324824649775\ \(0\)\
-\-\ anastomosis\\:\\ 0\\.06108398624814777\ \(0\)\
-\-\ crampy\\:\\ 0\\.06108398624814777\ \(0\)\
-\-\ ulcerative\\:\\ 0\\.05616724323690746\ \(0\)\
-\-\ follow\\:\\ 0\\.05598349426693679\ \(0\)\
-\-\ bowel\\:\\ 0\\.05525677387391256\ \(0\)\
-\-\ adhesions\\:\\ 0\\.05422856043790809\ \(0\)\
-\-\ diffuse\\:\\ 0\\.053340359182996185\ \(0\)\
-\-\ terminal\\:\\ 0\\.050551499160189195\ \(0\)\
-\-\ colitis\\:\\ 0\\.04833385607135471\ \(0\)\
-\-\ gastrointestinal\\:\\ 0\\.04800654990316315\ \(0\)\
-\-\ spot\\:\\ 0\\.047381553801962795\ \(0\)\
-\-\ stricture\\:\\ 0\\.04723105071514679\ \(0\)\
-\-\ diarrhea\\:\\ 0\\.04570610092054243\ \(0\)\
-\-\ abdominal\\:\\ 0\\.04403957192004361\ \(0\)\
-\-\ loops\\:\\ 0\\.04320150114105388\ \(0\)\
-\-\ 55\\:\\ 0\\.04270814009798548\ \(0\)\
-\-\ distended\\:\\ 0\\.0426122391427039\ \(0\)\
-\-\ stranding\\:\\ 0\\.0426122391427039\ \(0\)\
-\-\ small\\:\\ 0\\.04058918112126018\ \(0\)\
-\-\ fibrosis\\:\\ 0\\.03922559927701281\ \(0\)\
-\-\ \\'s\\:\\ 0\\.0388463220281865\ \(0\)\
-\-\ views\\:\\ 0\\.03631148040455676\ \(0\)\
-\-\ increasing\\:\\ 0\\.0361063138652032\ \(0\)\
-\-\ narrowing\\:\\ 0\\.03532419272319585\ \(0\)\
-\-\ malignancy\\:\\ 0\\.03404216162681975\ \(0\)\
-\-\ abnormality\\:\\ 0\\.03250059735907786\ \(0\)\
-\-\ dilated\\:\\ 0\\.03201125161434669\ \(0\)\
-\-\ labs\\:\\ 0\\.030638907287991114\ \(0\)\
-\-\ radiation\\:\\ 0\\.028909806696518933\ \(0\)\
-\-\ disease\\:\\ 0\\.02879871219001452\ \(0\)\
-\-\ resection\\:\\ 0\\.027473357273404317\ \(0\)\
-\-\ tenderness\\:\\ 0\\.026792910545171477\ \(0\)\
-\-\ fat\\:\\ 0\\.026792910545171477\ \(0\)\
-\-\ proximal\\:\\ 0\\.026448898780484693\ \(0\)\
-\-\ abdomen\\:\\ 0\\.02609674497830615\ \(0\)\
-\-\ years\\:\\ 0\\.02586848594864415\ \(0\)\
-\-\ infection\\:\\ 0\\.025608418289410382\ \(0\)\
-\-\ through\\:\\ 0\\.02502017544763782\ \(0\)\
-\-\ y\\/o\\:\\ 0\\.024398237420821037\ \(0\)\
-\-\ significant\\:\\ 0\\.02368914588715694\ \(0\)\
-\-\ up\\:\\ 0\\.02368914588715694\ \(0\)\
-\-\ mild\\:\\ 0\\.023198489215784917\ \(0\)\
-\-\ demonstrate\\:\\ 0\\.02027270248796949\ \(0\)\
-\-\ contrast\\:\\ 0\\.019719336977401084\ \(0\)\
-\-\ demonstrates\\:\\ 0\\.01924351754281635\ \(0\)\
-\-\ multiple\\:\\ 0\\.018554701066796585\ \(0\)\
-\-\ surgical\\:\\ 0\\.018517750208777873\ \(0\)\
-\-\ images\\:\\ 0\\.016899627752055196\ \(0\)\
-\-\ \\,\\:\\ 0\\.013954127088519968\ \(0\)\
-\-\ from\\:\\ 0\\.013056038279940334\ \(0\)\
-\-\ ct\\:\\ 0\\.012322718076206628\ \(0\)\
-\-\ \\:\\:\\ 0\\.011652317690625413\ \(0\)\
-\-\ pain\\:\\ 0\\.010758847087945719\ \(0\)\
-\-\ no\\:\\ 0\\.008870558254678371\ \(0\)\
-\-\ with\\:\\ 0\\.008443600336383795\ \(0\)\
-\-\ and\\:\\ 0\\.005567288837078921\ \(0\)\
-\-\ of\\:\\ 0\\.004804280445277873\ \(0\)\
-\-\ a\\:\\ 0\\.00408865775070723\ \(0\)\
-\-\ \\.\\:\\ 0\\.002561822192591999\ \(0\)\
-\-\ the\\:\\ 0\\.0014252503577693381\ \(0\)\
+Texto: 
+distended abdomen with diffuse tenderness.
+
+labs: no significant abnormality.
+surgical resection and anastomosis with gastrointestinal follow up.
+multiple spot images and overhead views from a small bowel follow through demonstrate narrowing of the terminal ileum with proximal dilated loops of small bowel.  abdominal ct with contrast demonstrates stricture of theterminal ileum with mild fat stranding.
+crohn's disease
+crohn's disease, ulcerative colitis with backwash ileitis, malignancy, adhesions, radiation fibrosis, infection.
+55 y/o wf with years of diarrhea and increasing diffuse crampy abdominal pain.
+
+
+Keywords by value: 
+- ileum: 0.09876632439652265
+- crohn: 0.09416542643128122
+- theterminal: 0.09088163323676803
+- backwash: 0.07955573335359163
+- ileitis: 0.06822983347041524
+- overhead: 0.06229824434769811
+- wf: 0.06167324824649775
+- anastomosis: 0.06108398624814777
+- crampy: 0.06108398624814777
+- ulcerative: 0.05616724323690746
+- follow: 0.05598349426693679
+- bowel: 0.05525677387391256
+- adhesions: 0.05422856043790809
+- diffuse: 0.053340359182996185
+- terminal: 0.050551499160189195
+- colitis: 0.04833385607135471
+- gastrointestinal: 0.04800654990316315
+- spot: 0.047381553801962795
+- stricture: 0.04723105071514679
+- diarrhea: 0.04570610092054243
+- abdominal: 0.04403957192004361
+- loops: 0.04320150114105388
+- 55: 0.04270814009798548
+- distended: 0.0426122391427039
+- stranding: 0.0426122391427039
+- small: 0.04058918112126018
+- fibrosis: 0.03922559927701281
+- 's: 0.0388463220281865
+- views: 0.03631148040455676
+- increasing: 0.0361063138652032
+- narrowing: 0.03532419272319585
+- malignancy: 0.03404216162681975
+- abnormality: 0.03250059735907786
+- dilated: 0.03201125161434669
+- labs: 0.030638907287991114
+- radiation: 0.028909806696518933
+- disease: 0.02879871219001452
+- resection: 0.027473357273404317
+- tenderness: 0.026792910545171477
+- fat: 0.026792910545171477
+- proximal: 0.026448898780484693
+- abdomen: 0.02609674497830615
+- years: 0.02586848594864415
+- infection: 0.025608418289410382
+- through: 0.02502017544763782
+- y/o: 0.024398237420821037
+- significant: 0.02368914588715694
+- up: 0.02368914588715694
+- mild: 0.023198489215784917
+- demonstrate: 0.02027270248796949
+- contrast: 0.019719336977401084
+- demonstrates: 0.01924351754281635
+- multiple: 0.018554701066796585
+- surgical: 0.018517750208777873
+- images: 0.016899627752055196
+- ,: 0.013954127088519968
+- from: 0.013056038279940334
+- ct: 0.012322718076206628
+- :: 0.011652317690625413
+- pain: 0.010758847087945719
+- no: 0.008870558254678371
+- with: 0.008443600336383795
+- and: 0.005567288837078921
+- of: 0.004804280445277873
+- a: 0.00408865775070723
+- .: 0.002561822192591999
+- the: 0.0014252503577693381

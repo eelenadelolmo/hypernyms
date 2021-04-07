@@ -1,61 +1,63 @@
-\-\ Texto\\:\\ \ \(0\)\
-\-\ upper\\ and\\ lower\\ extremity\\ weakness\\.\\ no\\ fever\\.\ \(0\)\
-\-\ surgical\\ decompression\\.\ \(3\)\
-\-\ posterior\\ epidural\\ collection\\ extending\\ from\\ foramen\\ magnum\\ to\\ t5\\ level\\ with\\ compression\\ of\\ the\\ cervical\\ and\\ upper\\ thoracic\\ spinal\\ cord\\.\ \(0\)\
-\-\ epidural\\ hematoma\\,\\ cervical\\ and\\ thoracic\\ spine\ \(0\)\
-\-\ \\â\\€\\¢\\ epidural\\ empyema\ \(0\)\
-\-\ \\â\\€\\¢\\ epidural\\ tumor\ \(0\)\
-\-\ \\â\\€\\¢\\ epidural\\ lipomatosis\ \(1\)\
-\-\ \\â\\€\\¢\\ epidural\\ steroids\ \(0\)\
-\-\ \\â\\€\\¢\\ epidural\\ hematoma\ \(1\)\
-\-\ 67\\ year\\ old\\ woman\\ who\\ developed\\ increased\\ pain\\ and\\ upper\\ and\\ lower\\ extremity\\ weakness\\ immediately\\ following\\ a\\ cervical\\ epidural\\ steroid\\ injection\ \(1\)\
-\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
-\-\ epidural\\:\\ 0\\.44319455136614805\ \(0\)\
-\-\ cervical\\:\\ 0\\.12256939762861692\ \(0\)\
-\-\ \\â\\€\\¢\\:\\ 0\\.10309304944709788\ \(0\)\
-\-\ lipomatosis\\:\\ 0\\.09038958256462085\ \(0\)\
-\-\ thoracic\\:\\ 0\\.08668572384484872\ \(0\)\
-\-\ weakness\\:\\ 0\\.08351608823758906\ \(0\)\
-\-\ t5\\:\\ 0\\.0822443298224337\ \(0\)\
-\-\ extremity\\:\\ 0\\.08224102551690625\ \(0\)\
-\-\ upper\\:\\ 0\\.0813979146856073\ \(0\)\
-\-\ hematoma\\:\\ 0\\.08002544416900235\ \(0\)\
-\-\ magnum\\:\\ 0\\.07214886728672755\ \(0\)\
-\-\ empyema\\:\\ 0\\.06848158567529307\ \(0\)\
-\-\ 67\\:\\ 0\\.06745577591911264\ \(0\)\
-\-\ decompression\\:\\ 0\\.059540249773922464\ \(0\)\
-\-\ steroid\\:\\ 0\\.05936122803634642\ \(0\)\
-\-\ immediately\\:\\ 0\\.05580009796661994\ \(0\)\
-\-\ foramen\\:\\ 0\\.05367526283647372\ \(0\)\
-\-\ steroids\\:\\ 0\\.0528911562943389\ \(0\)\
-\-\ injection\\:\\ 0\\.05246321956137101\ \(0\)\
-\-\ lower\\:\\ 0\\.05057531761483849\ \(0\)\
-\-\ collection\\:\\ 0\\.04759238674606148\ \(0\)\
-\-\ developed\\:\\ 0\\.04329033532677255\ \(0\)\
-\-\ cord\\:\\ 0\\.042725972634281593\ \(0\)\
-\-\ compression\\:\\ 0\\.04208878060920956\ \(0\)\
-\-\ spinal\\:\\ 0\\.04026021329446824\ \(0\)\
-\-\ fever\\:\\ 0\\.038042929296736396\ \(0\)\
-\-\ extending\\:\\ 0\\.037798934853155226\ \(0\)\
-\-\ spine\\:\\ 0\\.03702767823691247\ \(0\)\
-\-\ level\\:\\ 0\\.032406434574301736\ \(0\)\
-\-\ following\\:\\ 0\\.031911549432909844\ \(0\)\
-\-\ who\\:\\ 0\\.029315373804496076\ \(0\)\
-\-\ increased\\:\\ 0\\.027506378707890206\ \(0\)\
-\-\ tumor\\:\\ 0\\.026213582915931725\ \(0\)\
-\-\ woman\\:\\ 0\\.025972407203801395\ \(0\)\
-\-\ posterior\\:\\ 0\\.02591629669345327\ \(0\)\
-\-\ surgical\\:\\ 0\\.023634496976992807\ \(0\)\
-\-\ from\\:\\ 0\\.01666362780466069\ \(0\)\
-\-\ pain\\:\\ 0\\.013731686414878088\ \(0\)\
-\-\ year\\:\\ 0\\.012580332490433088\ \(0\)\
-\-\ and\\:\\ 0\\.011842697745540687\ \(0\)\
-\-\ old\\:\\ 0\\.011512297327134928\ \(0\)\
-\-\ no\\:\\ 0\\.011321633561892131\ \(0\)\
-\-\ to\\:\\ 0\\.005619317216355082\ \(0\)\
-\-\ a\\:\\ 0\\.005218418444981596\ \(0\)\
-\-\ \\,\\:\\ 0\\.003561974546280097\ \(0\)\
-\-\ \\.\\:\\ 0\\.0018683966367024354\ \(0\)\
-\-\ the\\:\\ 0\\.0018190695355740235\ \(0\)\
-\-\ with\\:\\ 0\\.001539528632761707\ \(0\)\
-\-\ of\\:\\ 0\\.001532944747341953\ \(0\)\
+Texto: 
+upper and lower extremity weakness. no fever.
+surgical decompression.
+posterior epidural collection extending from foramen magnum to t5 level with compression of the cervical and upper thoracic spinal cord.
+epidural hematoma, cervical and thoracic spine
+â€¢ epidural empyema
+â€¢ epidural tumor
+â€¢ epidural lipomatosis
+â€¢ epidural steroids
+â€¢ epidural hematoma
+67 year old woman who developed increased pain and upper and lower extremity weakness immediately following a cervical epidural steroid injection
+
+
+Keywords by value: 
+- epidural: 0.44319455136614805
+- cervical: 0.12256939762861692
+- â€¢: 0.10309304944709788
+- lipomatosis: 0.09038958256462085
+- thoracic: 0.08668572384484872
+- weakness: 0.08351608823758906
+- t5: 0.0822443298224337
+- extremity: 0.08224102551690625
+- upper: 0.0813979146856073
+- hematoma: 0.08002544416900235
+- magnum: 0.07214886728672755
+- empyema: 0.06848158567529307
+- 67: 0.06745577591911264
+- decompression: 0.059540249773922464
+- steroid: 0.05936122803634642
+- immediately: 0.05580009796661994
+- foramen: 0.05367526283647372
+- steroids: 0.0528911562943389
+- injection: 0.05246321956137101
+- lower: 0.05057531761483849
+- collection: 0.04759238674606148
+- developed: 0.04329033532677255
+- cord: 0.042725972634281593
+- compression: 0.04208878060920956
+- spinal: 0.04026021329446824
+- fever: 0.038042929296736396
+- extending: 0.037798934853155226
+- spine: 0.03702767823691247
+- level: 0.032406434574301736
+- following: 0.031911549432909844
+- who: 0.029315373804496076
+- increased: 0.027506378707890206
+- tumor: 0.026213582915931725
+- woman: 0.025972407203801395
+- posterior: 0.02591629669345327
+- surgical: 0.023634496976992807
+- from: 0.01666362780466069
+- pain: 0.013731686414878088
+- year: 0.012580332490433088
+- and: 0.011842697745540687
+- old: 0.011512297327134928
+- no: 0.011321633561892131
+- to: 0.005619317216355082
+- a: 0.005218418444981596
+- ,: 0.003561974546280097
+- .: 0.0018683966367024354
+- the: 0.0018190695355740235
+- with: 0.001539528632761707
+- of: 0.001532944747341953

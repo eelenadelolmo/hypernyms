@@ -1,65 +1,67 @@
-\-\ Texto\\:\\ \ \(0\)\
-\-\ right\\ neck\\ mass\ \(13\)\
-\-\ none\\ required\\ \\(although\\ monitoring\\ to\\ ensure\\ stablity\\ is\\ initially\\ warranted\\)\ \(1\)\
-\-\ focal\\ area\\ of\\ heterogeneous\\ echotexture\\ in\\ the\\ region\\ of\\ the\\ right\\ sternocleidomastoid\\ muscle\\ which\\ demonstrates\\ enlargement\\.\\ \\ there\\ is\\ a\\ hypo\\-echoic\\ rim\\ around\\ a\\ hyper\\-echoic\\ lesion\\ with\\ mass\\ like\\ appearance\\.\\ \\ real\\ time\\ sonography\\ demonstrates\\ that\\ the\\ lesion\\ moves\\ synchronously\\ with\\ the\\ sternocleidomastoid\\ muscle\\.\ \(0\)\
-\-\ fibromatosis\\ colli\ \(0\)\
-\-\ fibromatosis\\ colli\ \(0\)\
-\-\ muscle\\ tumor\ \(1\)\
-\-\ infection\ \(713\)\
-\-\ hematoma\ \(500\)\
-\-\ 1\\ month\\ old\\ boy\\ with\\ right\\ neck\\ mass\ \(1\)\
-\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
-\-\ colli\\:\\ 0\\.18483576196680113\ \(0\)\
-\-\ fibromatosis\\:\\ 0\\.1625384498513484\ \(0\)\
-\-\ sternocleidomastoid\\:\\ 0\\.16072284797011283\ \(0\)\
-\-\ muscle\\:\\ 0\\.1211571802668294\ \(0\)\
-\-\ stablity\\:\\ 0\\.11599366347324339\ \(0\)\
-\-\ hypo\\-echoic\\:\\ 0\\.11599366347324339\ \(0\)\
-\-\ synchronously\\:\\ 0\\.11599366347324339\ \(0\)\
-\-\ hyper\\-echoic\\:\\ 0\\.10687330583429674\ \(0\)\
-\-\ moves\\:\\ 0\\.07417716570550727\ \(0\)\
-\-\ real\\:\\ 0\\.0736400341986618\ \(0\)\
-\-\ warranted\\:\\ 0\\.07124106634610977\ \(0\)\
-\-\ echotexture\\:\\ 0\\.07124106634610977\ \(0\)\
-\-\ sonography\\:\\ 0\\.06681380007477801\ \(0\)\
-\-\ neck\\:\\ 0\\.06603271413206532\ \(0\)\
-\-\ ensure\\:\\ 0\\.06533382660863736\ \(0\)\
-\-\ monitoring\\:\\ 0\\.06212070870716313\ \(0\)\
-\-\ like\\:\\ 0\\.05204876341585297\ \(0\)\
-\-\ demonstrates\\:\\ 0\\.04912161056982068\ \(0\)\
-\-\ rim\\:\\ 0\\.04759238674606148\ \(0\)\
-\-\ mass\\:\\ 0\\.04691293448477228\ \(0\)\
-\-\ around\\:\\ 0\\.04681609278866732\ \(0\)\
-\-\ lesion\\:\\ 0\\.045804084894748805\ \(0\)\
-\-\ initially\\:\\ 0\\.0457628992666471\ \(0\)\
-\-\ enlargement\\:\\ 0\\.04461274219059336\ \(0\)\
-\-\ heterogeneous\\:\\ 0\\.041344673115723755\ \(0\)\
-\-\ required\\:\\ 0\\.04047007252351663\ \(0\)\
-\-\ hematoma\\:\\ 0\\.04001272208450118\ \(0\)\
-\-\ boy\\:\\ 0\\.03822002342007857\ \(0\)\
-\-\ although\\:\\ 0\\.037972753691797416\ \(0\)\
-\-\ right\\:\\ 0\\.03559072535962171\ \(0\)\
-\-\ area\\:\\ 0\\.035550476896503515\ \(0\)\
-\-\ month\\:\\ 0\\.03373177027369223\ \(0\)\
-\-\ infection\\:\\ 0\\.032684428606221144\ \(0\)\
-\-\ appearance\\:\\ 0\\.03215666548335054\ \(0\)\
-\-\ focal\\:\\ 0\\.032111757949189496\ \(0\)\
-\-\ region\\:\\ 0\\.0317579108847278\ \(0\)\
-\-\ time\\:\\ 0\\.0317579108847278\ \(0\)\
-\-\ none\\:\\ 0\\.027891046143526402\ \(0\)\
-\-\ 1\\:\\ 0\\.0267542943152593\ \(0\)\
-\-\ tumor\\:\\ 0\\.026213582915931725\ \(0\)\
-\-\ which\\:\\ 0\\.020988744568980904\ \(0\)\
-\-\ that\\:\\ 0\\.019420799059984516\ \(0\)\
-\-\ there\\:\\ 0\\.016733099427170904\ \(0\)\
-\-\ is\\:\\ 0\\.014797125746966464\ \(0\)\
-\-\ old\\:\\ 0\\.011512297327134928\ \(0\)\
-\-\ a\\:\\ 0\\.010436836889963191\ \(0\)\
-\-\ \\(\\:\\ 0\\.00950475955584027\ \(0\)\
-\-\ \\)\\:\\ 0\\.009388653843596119\ \(0\)\
-\-\ the\\:\\ 0\\.007276278142296094\ \(0\)\
-\-\ to\\:\\ 0\\.005619317216355082\ \(0\)\
-\-\ in\\:\\ 0\\.005544700396582301\ \(0\)\
-\-\ with\\:\\ 0\\.0046185858982851205\ \(0\)\
-\-\ of\\:\\ 0\\.003065889494683906\ \(0\)\
-\-\ \\.\\:\\ 0\\.0014012974775268266\ \(0\)\
+Texto: 
+right neck mass
+none required (although monitoring to ensure stablity is initially warranted)
+focal area of heterogeneous echotexture in the region of the right sternocleidomastoid muscle which demonstrates enlargement.  there is a hypo-echoic rim around a hyper-echoic lesion with mass like appearance.  real time sonography demonstrates that the lesion moves synchronously with the sternocleidomastoid muscle.
+fibromatosis colli
+fibromatosis colli
+muscle tumor
+infection
+hematoma
+1 month old boy with right neck mass
+
+
+Keywords by value: 
+- colli: 0.18483576196680113
+- fibromatosis: 0.1625384498513484
+- sternocleidomastoid: 0.16072284797011283
+- muscle: 0.1211571802668294
+- stablity: 0.11599366347324339
+- hypo-echoic: 0.11599366347324339
+- synchronously: 0.11599366347324339
+- hyper-echoic: 0.10687330583429674
+- moves: 0.07417716570550727
+- real: 0.0736400341986618
+- warranted: 0.07124106634610977
+- echotexture: 0.07124106634610977
+- sonography: 0.06681380007477801
+- neck: 0.06603271413206532
+- ensure: 0.06533382660863736
+- monitoring: 0.06212070870716313
+- like: 0.05204876341585297
+- demonstrates: 0.04912161056982068
+- rim: 0.04759238674606148
+- mass: 0.04691293448477228
+- around: 0.04681609278866732
+- lesion: 0.045804084894748805
+- initially: 0.0457628992666471
+- enlargement: 0.04461274219059336
+- heterogeneous: 0.041344673115723755
+- required: 0.04047007252351663
+- hematoma: 0.04001272208450118
+- boy: 0.03822002342007857
+- although: 0.037972753691797416
+- right: 0.03559072535962171
+- area: 0.035550476896503515
+- month: 0.03373177027369223
+- infection: 0.032684428606221144
+- appearance: 0.03215666548335054
+- focal: 0.032111757949189496
+- region: 0.0317579108847278
+- time: 0.0317579108847278
+- none: 0.027891046143526402
+- 1: 0.0267542943152593
+- tumor: 0.026213582915931725
+- which: 0.020988744568980904
+- that: 0.019420799059984516
+- there: 0.016733099427170904
+- is: 0.014797125746966464
+- old: 0.011512297327134928
+- a: 0.010436836889963191
+- (: 0.00950475955584027
+- ): 0.009388653843596119
+- the: 0.007276278142296094
+- to: 0.005619317216355082
+- in: 0.005544700396582301
+- with: 0.0046185858982851205
+- of: 0.003065889494683906
+- .: 0.0014012974775268266

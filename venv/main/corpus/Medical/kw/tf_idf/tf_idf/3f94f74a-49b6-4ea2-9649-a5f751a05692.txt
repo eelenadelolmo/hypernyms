@@ -1,88 +1,90 @@
-\-\ Texto\\:\\ \ \(0\)\
-\-\ patient\\ currently\\ being\\ treated\\ with\\ tamoxifen\\ and\\ xgeva\\.\ \(0\)\
-\-\ mri\\ brain\\ with\\ contrast\\ showed\\ an\\ enhancing\\ widespread\\ pachymeningeal\\ thickening\\ with\\ predominance\\ in\\ the\\ cerebral\\ convexities\\ along\\ with\\ involvement\\ of\\ the\\ anterior\\ falx\\ and\\ sparing\\ of\\ the\\ posterior\\ falx\\ and\\ tentorium\\.\\ some\\ small\\,\\ nonenhancing\\ foci\\ were\\ seen\\ on\\ flair\\ sequence\\ within\\ the\\ brain\\ parenchyma\\.\\ no\\ hydrocephalus\\ or\\ ischemia\\ noted\\.\\ heterogeneous\\ abnormal\\ enhancement\\ and\\ signal\\ intensity\\ observed\\ within\\ the\\ marrow\\ spaces\\ of\\ the\\ calvarium\\.\ \(0\)\
-\-\ carcinomatous\\ meningitis\\ \\(leptomeningeal\\ metastases\\)\ \(0\)\
-\-\ infectious\\ meningitis\\/meningoencephalitis\\ due\\ to\\ fungal\\,\\ bacterial\\,\\ or\\ viral\\ causes\ \(1\)\
-\-\ carcinomatous\\ meningitis\ \(5\)\
-\-\ patient\\ presents\\ with\\ headaches\\ and\\ a\\ history\\ of\\ known\\ metastatic\\ breast\\ cancer\\.\ \(0\)\
-\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
-\-\ falx\\:\\ 0\\.09996738704550504\ \(0\)\
-\-\ meningitis\\:\\ 0\\.08134847319802967\ \(0\)\
-\-\ xgeva\\:\\ 0\\.08087631581620641\ \(0\)\
-\-\ \\-carcinomatous\\:\\ 0\\.08087631581620641\ \(0\)\
-\-\ meningitis\\/meningoencephalitis\\:\\ 0\\.07451716737070233\ \(0\)\
-\-\ pachymeningeal\\:\\ 0\\.06815801892519824\ \(0\)\
-\-\ \\-infectious\\:\\ 0\\.06611083038103117\ \(0\)\
-\-\ carcinomatous\\:\\ 0\\.06302392912762556\ \(0\)\
-\-\ tamoxifen\\:\\ 0\\.06071829217091999\ \(0\)\
-\-\ convexities\\:\\ 0\\.06071829217091999\ \(0\)\
-\-\ calvarium\\:\\ 0\\.05294491730498234\ \(0\)\
-\-\ widespread\\:\\ 0\\.05251812817071727\ \(0\)\
-\-\ tentorium\\:\\ 0\\.05251812817071727\ \(0\)\
-\-\ nonenhancing\\:\\ 0\\.05251812817071727\ \(0\)\
-\-\ predominance\\:\\ 0\\.04908057358868598\ \(0\)\
-\-\ brain\\:\\ 0\\.047180761895463524\ \(0\)\
-\-\ sparing\\:\\ 0\\.04658576885947825\ \(0\)\
-\-\ leptomeningeal\\:\\ 0\\.04658576885947825\ \(0\)\
-\-\ sequence\\:\\ 0\\.04445161936159979\ \(0\)\
-\-\ bacterial\\:\\ 0\\.040118047408038364\ \(0\)\
-\-\ viral\\:\\ 0\\.03949228364632705\ \(0\)\
-\-\ spaces\\:\\ 0\\.03862704805484777\ \(0\)\
-\-\ fungal\\:\\ 0\\.03800632650921644\ \(0\)\
-\-\ observed\\:\\ 0\\.03758733534560921\ \(0\)\
-\-\ ischemia\\:\\ 0\\.036434232454200986\ \(0\)\
-\-\ flair\\:\\ 0\\.03594200572491364\ \(0\)\
-\-\ marrow\\:\\ 0\\.03448873962035037\ \(0\)\
-\-\ hydrocephalus\\:\\ 0\\.03370509052719118\ \(0\)\
-\-\ foci\\:\\ 0\\.033651595845440786\ \(0\)\
-\-\ metastases\\:\\ 0\\.033492958257275086\ \(0\)\
-\-\ parenchyma\\:\\ 0\\.033388703590758434\ \(0\)\
-\-\ currently\\:\\ 0\\.031065805458826215\ \(0\)\
-\-\ causes\\:\\ 0\\.030519088970732217\ \(0\)\
-\-\ headaches\\:\\ 0\\.02996736090891081\ \(0\)\
-\-\ within\\:\\ 0\\.029910668043781317\ \(0\)\
-\-\ breast\\:\\ 0\\.028922549943399562\ \(0\)\
-\-\ heterogeneous\\:\\ 0\\.028827478502706474\ \(0\)\
-\-\ involvement\\:\\ 0\\.0287333821708974\ \(0\)\
-\-\ intensity\\:\\ 0\\.028336428223663314\ \(0\)\
-\-\ being\\:\\ 0\\.02731915575046384\ \(0\)\
-\-\ cerebral\\:\\ 0\\.02716005964921166\ \(0\)\
-\-\ thickening\\:\\ 0\\.026574537336636256\ \(0\)\
-\-\ along\\:\\ 0\\.0259087511638396\ \(0\)\
-\-\ cancer\\:\\ 0\\.025772158388667574\ \(0\)\
-\-\ showed\\:\\ 0\\.02570461713691465\ \(0\)\
-\-\ known\\:\\ 0\\.02480780811434697\ \(0\)\
-\-\ enhancing\\:\\ 0\\.024586729659493205\ \(0\)\
-\-\ some\\:\\ 0\\.023806681228135406\ \(0\)\
-\-\ treated\\:\\ 0\\.023466521431962012\ \(0\)\
-\-\ abnormal\\:\\ 0\\.022358644406558822\ \(0\)\
-\-\ enhancement\\:\\ 0\\.021013658404798498\ \(0\)\
-\-\ due\\:\\ 0\\.02091997388030128\ \(0\)\
-\-\ signal\\:\\ 0\\.020670406699750263\ \(0\)\
-\-\ anterior\\:\\ 0\\.02019075985103429\ \(0\)\
-\-\ metastatic\\:\\ 0\\.01973494865702835\ \(0\)\
-\-\ noted\\:\\ 0\\.018581845765620126\ \(0\)\
-\-\ or\\:\\ 0\\.018376564201168948\ \(0\)\
-\-\ posterior\\:\\ 0\\.01807007842846283\ \(0\)\
-\-\ small\\:\\ 0\\.01806032370991852\ \(0\)\
-\-\ mri\\:\\ 0\\.018011705090959815\ \(0\)\
-\-\ were\\:\\ 0\\.01780079207972405\ \(0\)\
-\-\ contrast\\:\\ 0\\.017548400796402804\ \(0\)\
-\-\ presents\\:\\ 0\\.016015085279889228\ \(0\)\
-\-\ patient\\:\\ 0\\.015717283136080513\ \(0\)\
-\-\ seen\\:\\ 0\\.01549199646851092\ \(0\)\
-\-\ an\\:\\ 0\\.010840962057658072\ \(0\)\
-\-\ history\\:\\ 0\\.010827656309239297\ \(0\)\
-\-\ and\\:\\ 0\\.008257293840927452\ \(0\)\
-\-\ no\\:\\ 0\\.007893983033979835\ \(0\)\
-\-\ the\\:\\ 0\\.007610052369006925\ \(0\)\
-\-\ \\,\\:\\ 0\\.007450735748182222\ \(0\)\
-\-\ on\\:\\ 0\\.00664120194830668\ \(0\)\
-\-\ \\(\\:\\ 0\\.0066271718004023905\ \(0\)\
-\-\ \\)\\:\\ 0\\.006546217358837662\ \(0\)\
-\-\ with\\:\\ 0\\.0053671640408206305\ \(0\)\
-\-\ of\\:\\ 0\\.004275368836623429\ \(0\)\
-\-\ to\\:\\ 0\\.003918056040761342\ \(0\)\
-\-\ in\\:\\ 0\\.0038660296343142656\ \(0\)\
-\-\ a\\:\\ 0\\.003638530291913773\ \(0\)\
-\-\ \\.\\:\\ 0\\.0019541029044410794\ \(0\)\
+Texto: 
+patient currently being treated with tamoxifen and xgeva.
+mri brain with contrast showed an enhancing widespread pachymeningeal thickening with predominance in the cerebral convexities along with involvement of the anterior falx and sparing of the posterior falx and tentorium. some small, nonenhancing foci were seen on flair sequence within the brain parenchyma. no hydrocephalus or ischemia noted. heterogeneous abnormal enhancement and signal intensity observed within the marrow spaces of the calvarium.
+carcinomatous meningitis (leptomeningeal metastases)
+-infectious meningitis/meningoencephalitis due to fungal, bacterial, or viral causes
+-carcinomatous meningitis
+patient presents with headaches and a history of known metastatic breast cancer.
+
+
+Keywords by value: 
+- falx: 0.09996738704550504
+- meningitis: 0.08134847319802967
+- xgeva: 0.08087631581620641
+- -carcinomatous: 0.08087631581620641
+- meningitis/meningoencephalitis: 0.07451716737070233
+- pachymeningeal: 0.06815801892519824
+- -infectious: 0.06611083038103117
+- carcinomatous: 0.06302392912762556
+- tamoxifen: 0.06071829217091999
+- convexities: 0.06071829217091999
+- calvarium: 0.05294491730498234
+- widespread: 0.05251812817071727
+- tentorium: 0.05251812817071727
+- nonenhancing: 0.05251812817071727
+- predominance: 0.04908057358868598
+- brain: 0.047180761895463524
+- sparing: 0.04658576885947825
+- leptomeningeal: 0.04658576885947825
+- sequence: 0.04445161936159979
+- bacterial: 0.040118047408038364
+- viral: 0.03949228364632705
+- spaces: 0.03862704805484777
+- fungal: 0.03800632650921644
+- observed: 0.03758733534560921
+- ischemia: 0.036434232454200986
+- flair: 0.03594200572491364
+- marrow: 0.03448873962035037
+- hydrocephalus: 0.03370509052719118
+- foci: 0.033651595845440786
+- metastases: 0.033492958257275086
+- parenchyma: 0.033388703590758434
+- currently: 0.031065805458826215
+- causes: 0.030519088970732217
+- headaches: 0.02996736090891081
+- within: 0.029910668043781317
+- breast: 0.028922549943399562
+- heterogeneous: 0.028827478502706474
+- involvement: 0.0287333821708974
+- intensity: 0.028336428223663314
+- being: 0.02731915575046384
+- cerebral: 0.02716005964921166
+- thickening: 0.026574537336636256
+- along: 0.0259087511638396
+- cancer: 0.025772158388667574
+- showed: 0.02570461713691465
+- known: 0.02480780811434697
+- enhancing: 0.024586729659493205
+- some: 0.023806681228135406
+- treated: 0.023466521431962012
+- abnormal: 0.022358644406558822
+- enhancement: 0.021013658404798498
+- due: 0.02091997388030128
+- signal: 0.020670406699750263
+- anterior: 0.02019075985103429
+- metastatic: 0.01973494865702835
+- noted: 0.018581845765620126
+- or: 0.018376564201168948
+- posterior: 0.01807007842846283
+- small: 0.01806032370991852
+- mri: 0.018011705090959815
+- were: 0.01780079207972405
+- contrast: 0.017548400796402804
+- presents: 0.016015085279889228
+- patient: 0.015717283136080513
+- seen: 0.01549199646851092
+- an: 0.010840962057658072
+- history: 0.010827656309239297
+- and: 0.008257293840927452
+- no: 0.007893983033979835
+- the: 0.007610052369006925
+- ,: 0.007450735748182222
+- on: 0.00664120194830668
+- (: 0.0066271718004023905
+- ): 0.006546217358837662
+- with: 0.0053671640408206305
+- of: 0.004275368836623429
+- to: 0.003918056040761342
+- in: 0.0038660296343142656
+- a: 0.003638530291913773
+- .: 0.0019541029044410794

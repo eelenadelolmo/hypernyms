@@ -1,110 +1,112 @@
-\-\ Texto\\:\\ \ \(0\)\
-\-\ painless\\ mass\\ of\\ the\\ left\\ ankle\\,\\ an\\ ultrasound\\ was\\ requested\\.\ \(0\)\
-\-\ the\\ patient\\ is\\ treated\\ with\\ intravenous\\ antibiotics\\ and\\ surgical\\ debridement\\.\ \(0\)\
-\-\ ultrasound\\ demonstrates\\ a\\ soft\\ tissue\\ mass\\ in\\ the\\ left\\ ankle\\ with\\ calcifications\\,\\ increased\\ articular\\ space\\,\\ irregularity\\ of\\ articular\\ surface\\ and\\ increased\\ power\\ doppler\\ signal\\.\ \(0\)\
-\-\ radiographic\\ findings\\ correlate\\ with\\ sonographic\\ findings\\,\\ also\\ showing\\ decreased\\ bone\\ density\\.\ \(0\)\
-\-\ chronic\\ osteomyelitis\\ caused\\ by\\ staphylococcus\\ aureus\\.\ \(0\)\
-\-\ coccidioides\\ osteomyelitis\ \(0\)\
-\-\ tuberculous\\ osteomyelitis\ \(0\)\
-\-\ neuropathic\\ joint\ \(7\)\
-\-\ intraarticular\\ chondrosarcoma\ \(0\)\
-\-\ 31\\ year\\ old\\ man\\ with\\ history\\ of\\ lumbosacral\\ myelomeningocele\\ and\\ right\\ talus\\ valgus\\,both\\ surgically\\ corrected\\,\\ who\\ developed\\ multiple\\ decubitus\\ ulcers\\ 22\\ years\\ ago\\.\ \(1\)\
-\-\ this\\ patient\\ had\\ multiple\\ chronically\\ infected\\ decubitus\\ ulcers\\ and\\ chronic\\ ostemyelitis\\ affecting\\ right\\ hip\\ and\\ ankle\\ joints\\.\\ both\\ joints\\ had\\ various\\ surgical\\ debridements\\.\\ left\\ ankle\\ had\\ three\\ previous\\ similar\\ episodes\\ but\\ they\\ were\\ only\\ managed\\ with\\ intravenous\\ antibiotics\\.\ \(0\)\
-\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
-\-\ ankle\\:\\ 0\\.1085489678827533\ \(0\)\
-\-\ osteomyelitis\\:\\ 0\\.07942662675015814\ \(0\)\
-\-\ decubitus\\:\\ 0\\.07759714867216677\ \(0\)\
-\-\ ulcers\\:\\ 0\\.06708438386730983\ \(0\)\
-\-\ articular\\:\\ 0\\.06108549225825652\ \(0\)\
-\-\ coccidioides\\:\\ 0\\.058770122826443325\ \(0\)\
-\-\ ostemyelitis\\:\\ 0\\.058770122826443325\ \(0\)\
-\-\ intravenous\\:\\ 0\\.05654409927284154\ \(0\)\
-\-\ debridements\\:\\ 0\\.05414914162271035\ \(0\)\
-\-\ joints\\:\\ 0\\.05213658194037425\ \(0\)\
-\-\ \\-\\:\\ 0\\.04884609223222303\ \(0\)\
-\-\ chronically\\:\\ 0\\.04341955553981635\ \(0\)\
-\-\ antibiotics\\:\\ 0\\.042796218102273346\ \(0\)\
-\-\ power\\:\\ 0\\.04278415434112085\ \(0\)\
-\-\ myelomeningocele\\:\\ 0\\.04220407849452332\ \(0\)\
-\-\ tuberculous\\:\\ 0\\.03988203386606855\ \(0\)\
-\-\ intraarticular\\:\\ 0\\.03988203386606855\ \(0\)\
-\-\ staphylococcus\\:\\ 0\\.03950097777380223\ \(0\)\
-\-\ corrected\\:\\ 0\\.03950097777380223\ \(0\)\
-\-\ neuropathic\\:\\ 0\\.03816317313738789\ \(0\)\
-\-\ aureus\\:\\ 0\\.03758309729079035\ \(0\)\
-\-\ had\\:\\ 0\\.03687699638481417\ \(0\)\
-\-\ valgus\\:\\ 0\\.03655542609194196\ \(0\)\
-\-\ talus\\:\\ 0\\.03632148395986683\ \(0\)\
-\-\ correlate\\:\\ 0\\.03546007241666679\ \(0\)\
-\-\ debridement\\:\\ 0\\.03526105266233558\ \(0\)\
-\-\ infected\\:\\ 0\\.03469733674214849\ \(0\)\
-\-\ lumbosacral\\:\\ 0\\.03385232537122086\ \(0\)\
-\-\ ultrasound\\:\\ 0\\.03380163446675071\ \(0\)\
-\-\ requested\\:\\ 0\\.03324584684984936\ \(0\)\
-\-\ chronic\\:\\ 0\\.032093195105426665\ \(0\)\
-\-\ affecting\\:\\ 0\\.03170050275613386\ \(0\)\
-\-\ various\\:\\ 0\\.03147449241162932\ \(0\)\
-\-\ managed\\:\\ 0\\.030640071458602612\ \(0\)\
-\-\ irregularity\\:\\ 0\\.030446821212780927\ \(0\)\
-\-\ 31\\:\\ 0\\.02989856722453445\ \(0\)\
-\-\ both\\:\\ 0\\.029095999875814953\ \(0\)\
-\-\ surgically\\:\\ 0\\.028845880361562392\ \(0\)\
-\-\ painless\\:\\ 0\\.02862486564611639\ \(0\)\
-\-\ chondrosarcoma\\:\\ 0\\.0284814909446433\ \(0\)\
-\-\ episodes\\:\\ 0\\.028135990492212725\ \(0\)\
-\-\ increased\\:\\ 0\\.02787313042399541\ \(0\)\
-\-\ sonographic\\:\\ 0\\.02761793059669728\ \(0\)\
-\-\ doppler\\:\\ 0\\.02755591464561519\ \(0\)\
-\-\ showing\\:\\ 0\\.02621811000920085\ \(0\)\
-\-\ 22\\:\\ 0\\.025410480786806928\ \(0\)\
-\-\ surface\\:\\ 0\\.025147288713648346\ \(0\)\
-\-\ findings\\:\\ 0\\.02425115914386613\ \(0\)\
-\-\ multiple\\:\\ 0\\.023997413379723588\ \(0\)\
-\-\ surgical\\:\\ 0\\.023949623603352715\ \(0\)\
-\-\ caused\\:\\ 0\\.023896065380746078\ \(0\)\
-\-\ hip\\:\\ 0\\.022692482480743056\ \(0\)\
-\-\ similar\\:\\ 0\\.022344577459605924\ \(0\)\
-\-\ previous\\:\\ 0\\.022122334657821974\ \(0\)\
-\-\ developed\\:\\ 0\\.021933769898898097\ \(0\)\
-\-\ radiographic\\:\\ 0\\.021622429278591558\ \(0\)\
-\-\ ago\\:\\ 0\\.021204858805314992\ \(0\)\
-\-\ calcifications\\:\\ 0\\.021181091697551686\ \(0\)\
-\-\ they\\:\\ 0\\.020526307509915374\ \(0\)\
-\-\ three\\:\\ 0\\.019204161522312736\ \(0\)\
-\-\ left\\:\\ 0\\.019122105385458294\ \(0\)\
-\-\ space\\:\\ 0\\.0188437133805109\ \(0\)\
-\-\ density\\:\\ 0\\.01874420904573306\ \(0\)\
-\-\ joint\\:\\ 0\\.01842286170028054\ \(0\)\
-\-\ only\\:\\ 0\\.01712941105656624\ \(0\)\
-\-\ treated\\:\\ 0\\.01705233890722573\ \(0\)\
-\-\ decreased\\:\\ 0\\.016938376018163732\ \(0\)\
-\-\ years\\:\\ 0\\.016728287580123218\ \(0\)\
-\-\ mass\\:\\ 0\\.01584614675930086\ \(0\)\
-\-\ signal\\:\\ 0\\.015020495535151859\ \(0\)\
-\-\ who\\:\\ 0\\.014853122727611348\ \(0\)\
-\-\ bone\\:\\ 0\\.014156231209732468\ \(0\)\
-\-\ soft\\:\\ 0\\.013872845093290334\ \(0\)\
-\-\ tissue\\:\\ 0\\.013502807923017291\ \(0\)\
-\-\ man\\:\\ 0\\.013472878953933329\ \(0\)\
-\-\ were\\:\\ 0\\.012935242244599476\ \(0\)\
-\-\ demonstrates\\:\\ 0\\.012444141344354575\ \(0\)\
-\-\ but\\:\\ 0\\.012150022006890252\ \(0\)\
-\-\ right\\:\\ 0\\.012021756121472223\ \(0\)\
-\-\ patient\\:\\ 0\\.011421225745551841\ \(0\)\
-\-\ also\\:\\ 0\\.011230797291134343\ \(0\)\
-\-\ \\,\\:\\ 0\\.010828402620691496\ \(0\)\
-\-\ by\\:\\ 0\\.009485806021632499\ \(0\)\
-\-\ an\\:\\ 0\\.0078777657618982\ \(0\)\
-\-\ history\\:\\ 0\\.007868096918047223\ \(0\)\
-\-\ was\\:\\ 0\\.006588516814757912\ \(0\)\
-\-\ this\\:\\ 0\\.0064075814220942206\ \(0\)\
-\-\ year\\:\\ 0\\.006374035128486099\ \(0\)\
-\-\ and\\:\\ 0\\.006000300191073948\ \(0\)\
-\-\ old\\:\\ 0\\.005832897312415031\ \(0\)\
-\-\ with\\:\\ 0\\.0039001392029963246\ \(0\)\
-\-\ is\\:\\ 0\\.0037486051892315045\ \(0\)\
-\-\ in\\:\\ 0\\.0028093148676016995\ \(0\)\
-\-\ the\\:\\ 0\\.002764985694072516\ \(0\)\
-\-\ a\\:\\ 0\\.0026439986787906754\ \(0\)\
-\-\ of\\:\\ 0\\.0023300760159597686\ \(0\)\
-\-\ \\.\\:\\ 0\\.0021299721658407764\ \(0\)\
+Texto: 
+painless mass of the left ankle, an ultrasound was requested.
+the patient is treated with intravenous antibiotics and surgical debridement.
+ultrasound demonstrates a soft tissue mass in the left ankle with calcifications, increased articular space, irregularity of articular surface and increased power doppler signal.
+radiographic findings correlate with sonographic findings, also showing decreased bone density.
+chronic osteomyelitis caused by staphylococcus aureus.
+- coccidioides osteomyelitis
+- tuberculous osteomyelitis
+- neuropathic joint
+- intraarticular chondrosarcoma
+31 year old man with history of lumbosacral myelomeningocele and right talus valgus,both surgically corrected, who developed multiple decubitus ulcers 22 years ago.
+this patient had multiple chronically infected decubitus ulcers and chronic ostemyelitis affecting right hip and ankle joints. both joints had various surgical debridements. left ankle had three previous similar episodes but they were only managed with intravenous antibiotics.
+
+
+Keywords by value: 
+- ankle: 0.1085489678827533
+- osteomyelitis: 0.07942662675015814
+- decubitus: 0.07759714867216677
+- ulcers: 0.06708438386730983
+- articular: 0.06108549225825652
+- coccidioides: 0.058770122826443325
+- ostemyelitis: 0.058770122826443325
+- intravenous: 0.05654409927284154
+- debridements: 0.05414914162271035
+- joints: 0.05213658194037425
+- -: 0.04884609223222303
+- chronically: 0.04341955553981635
+- antibiotics: 0.042796218102273346
+- power: 0.04278415434112085
+- myelomeningocele: 0.04220407849452332
+- tuberculous: 0.03988203386606855
+- intraarticular: 0.03988203386606855
+- staphylococcus: 0.03950097777380223
+- corrected: 0.03950097777380223
+- neuropathic: 0.03816317313738789
+- aureus: 0.03758309729079035
+- had: 0.03687699638481417
+- valgus: 0.03655542609194196
+- talus: 0.03632148395986683
+- correlate: 0.03546007241666679
+- debridement: 0.03526105266233558
+- infected: 0.03469733674214849
+- lumbosacral: 0.03385232537122086
+- ultrasound: 0.03380163446675071
+- requested: 0.03324584684984936
+- chronic: 0.032093195105426665
+- affecting: 0.03170050275613386
+- various: 0.03147449241162932
+- managed: 0.030640071458602612
+- irregularity: 0.030446821212780927
+- 31: 0.02989856722453445
+- both: 0.029095999875814953
+- surgically: 0.028845880361562392
+- painless: 0.02862486564611639
+- chondrosarcoma: 0.0284814909446433
+- episodes: 0.028135990492212725
+- increased: 0.02787313042399541
+- sonographic: 0.02761793059669728
+- doppler: 0.02755591464561519
+- showing: 0.02621811000920085
+- 22: 0.025410480786806928
+- surface: 0.025147288713648346
+- findings: 0.02425115914386613
+- multiple: 0.023997413379723588
+- surgical: 0.023949623603352715
+- caused: 0.023896065380746078
+- hip: 0.022692482480743056
+- similar: 0.022344577459605924
+- previous: 0.022122334657821974
+- developed: 0.021933769898898097
+- radiographic: 0.021622429278591558
+- ago: 0.021204858805314992
+- calcifications: 0.021181091697551686
+- they: 0.020526307509915374
+- three: 0.019204161522312736
+- left: 0.019122105385458294
+- space: 0.0188437133805109
+- density: 0.01874420904573306
+- joint: 0.01842286170028054
+- only: 0.01712941105656624
+- treated: 0.01705233890722573
+- decreased: 0.016938376018163732
+- years: 0.016728287580123218
+- mass: 0.01584614675930086
+- signal: 0.015020495535151859
+- who: 0.014853122727611348
+- bone: 0.014156231209732468
+- soft: 0.013872845093290334
+- tissue: 0.013502807923017291
+- man: 0.013472878953933329
+- were: 0.012935242244599476
+- demonstrates: 0.012444141344354575
+- but: 0.012150022006890252
+- right: 0.012021756121472223
+- patient: 0.011421225745551841
+- also: 0.011230797291134343
+- ,: 0.010828402620691496
+- by: 0.009485806021632499
+- an: 0.0078777657618982
+- history: 0.007868096918047223
+- was: 0.006588516814757912
+- this: 0.0064075814220942206
+- year: 0.006374035128486099
+- and: 0.006000300191073948
+- old: 0.005832897312415031
+- with: 0.0039001392029963246
+- is: 0.0037486051892315045
+- in: 0.0028093148676016995
+- the: 0.002764985694072516
+- a: 0.0026439986787906754
+- of: 0.0023300760159597686
+- .: 0.0021299721658407764

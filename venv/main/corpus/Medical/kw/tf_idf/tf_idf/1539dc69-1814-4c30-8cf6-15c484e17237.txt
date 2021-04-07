@@ -1,107 +1,109 @@
-\-\ Texto\\:\\ \ \(0\)\
-\-\ urinalysis\\ negative\\.\ \(1\)\
-\-\ none\\ required\\.\ \(0\)\
-\-\ fluoroscopic\\ images\\ demonstrate\\ a\\ duplicated\\ right\\ renal\\ collecting\\ system\\.\\ \\ both\\ the\\ upper\\ and\\ lower\\ pole\\ ureters\\ are\\ of\\ normal\\ caliber\\ and\\ insert\\ on\\ the\\ base\\ of\\ the\\ urinary\\ bladder\\ without\\ evidence\\ of\\ obstructive\\ uropathy\\.\\ \\ both\\ kidneys\\ enhance\\ promptly\\ and\\ symmetrically\\ without\\ renal\\ mantle\\ thinning\\ or\\ focal\\ masses\\.\ \(0\)\
-\-\ duplicated\\ renal\\ collecting\\ system\ \(1\)\
-\-\ duplicated\\ renal\\ collecting\\ system\ \(1\)\
-\-\ 21\\-year\\-old\\ female\\ with\\ history\\ of\\ right\\ ureteral\\ reimplantation\\ at\\ eight\\ years\\ of\\ age\\ for\\ vesicoureteral\\ reflux\\ has\\ incontinence\\ and\\ recurrent\\ urinary\\ tract\\ infections\\.\ \(1\)\
-\-\ this\\ patient\\ is\\ status\\ post\\ surgical\\ reimplantation\\ of\\ the\\ right\\ lower\\ pole\\ ureter\\ to\\ correct\\ vesicoureteral\\ reflux\\.\\ \\ according\\ to\\ the\\ weigert\\-meyer\\ rule\\,\\ the\\ upper\\ pole\\ ureter\\ will\\ insert\\ ectopically\\,\\ inferior\\ and\\ medial\\ to\\ the\\ normal\\ \\(orthotopic\\)\\ location\\.\\ \\ it\\ is\\ this\\ ectopic\\ ureter\\ that\\ is\\ prone\\ to\\ having\\ a\\ ureterocele\\ which\\ may\\ result\\ in\\ obstruction\\.\\ \\ the\\ lower\\ pole\\ ureter\\ inserts\\ orthotopically\\ but\\ is\\ prone\\ to\\ vesicoureteral\\ reflux\\,\\ which\\ predisposes\\ the\\ patient\\ for\\ pyleonephritis\\.\ \(0\)\
-\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
-\-\ ureter\\:\\ 0\\.10913197170592977\ \(0\)\
-\-\ duplicated\\:\\ 0\\.10082883209533755\ \(0\)\
-\-\ pole\\:\\ 0\\.09418311282875788\ \(0\)\
-\-\ vesicoureteral\\:\\ 0\\.09287573051201874\ \(0\)\
-\-\ insert\\:\\ 0\\.07971688618090725\ \(0\)\
-\-\ collecting\\:\\ 0\\.07741723895348503\ \(0\)\
-\-\ reimplantation\\:\\ 0\\.07707613409434855\ \(0\)\
-\-\ reflux\\:\\ 0\\.07008255574279733\ \(0\)\
-\-\ renal\\:\\ 0\\.06076865205817915\ \(0\)\
-\-\ prone\\:\\ 0\\.06067028366689422\ \(0\)\
-\-\ system\\:\\ 0\\.059724496515990495\ \(0\)\
-\-\ orthotopically\\:\\ 0\\.048061368304180785\ \(0\)\
-\-\ pyleonephritis\\:\\ 0\\.048061368304180785\ \(0\)\
-\-\ urinary\\:\\ 0\\.046813088989406226\ \(0\)\
-\-\ weigert\\-meyer\\:\\ 0\\.045662166481055554\ \(0\)\
-\-\ ectopically\\:\\ 0\\.045662166481055554\ \(0\)\
-\-\ orthotopic\\:\\ 0\\.045662166481055554\ \(0\)\
-\-\ uropathy\\:\\ 0\\.042639529654037854\ \(0\)\
-\-\ 21\\-year\\-old\\:\\ 0\\.042639529654037854\ \(0\)\
-\-\ predisposes\\:\\ 0\\.041560703874191966\ \(0\)\
-\-\ mantle\\:\\ 0\\.039858443090453624\ \(0\)\
-\-\ inserts\\:\\ 0\\.038538067047174274\ \(0\)\
-\-\ promptly\\:\\ 0\\.03698561577813586\ \(0\)\
-\-\ symmetrically\\:\\ 0\\.03575698048359004\ \(0\)\
-\-\ ureterocele\\:\\ 0\\.03414790524404186\ \(0\)\
-\-\ lower\\:\\ 0\\.03411589472243543\ \(0\)\
-\-\ eight\\:\\ 0\\.03311622839703134\ \(0\)\
-\-\ urinalysis\\:\\ 0\\.031125268417024166\ \(0\)\
-\-\ ureters\\:\\ 0\\.031125268417024166\ \(0\)\
-\-\ thinning\\:\\ 0\\.03004644263717828\ \(0\)\
-\-\ incontinence\\:\\ 0\\.029907208924691925\ \(0\)\
-\-\ caliber\\:\\ 0\\.029771176272474775\ \(0\)\
-\-\ ureteral\\:\\ 0\\.029638200794060227\ \(0\)\
-\-\ correct\\:\\ 0\\.029638200794060227\ \(0\)\
-\-\ according\\:\\ 0\\.02813654090781112\ \(0\)\
-\-\ fluoroscopic\\:\\ 0\\.02764724081405305\ \(0\)\
-\-\ obstructive\\:\\ 0\\.02601584506609408\ \(0\)\
-\-\ both\\:\\ 0\\.0258248519607825\ \(0\)\
-\-\ enhance\\:\\ 0\\.02445791240735076\ \(0\)\
-\-\ upper\\:\\ 0\\.024403319590162346\ \(0\)\
-\-\ ectopic\\:\\ 0\\.02424271924657635\ \(0\)\
-\-\ infections\\:\\ 0\\.024035078300947536\ \(0\)\
-\-\ without\\:\\ 0\\.023810806702463435\ \(0\)\
-\-\ kidneys\\:\\ 0\\.02327051184248596\ \(0\)\
-\-\ having\\:\\ 0\\.02322585382097482\ \(0\)\
-\-\ tract\\:\\ 0\\.0223969260507341\ \(0\)\
-\-\ recurrent\\:\\ 0\\.0213374690599117\ \(0\)\
-\-\ rule\\:\\ 0\\.021115351194118413\ \(0\)\
-\-\ bladder\\:\\ 0\\.02052314138017177\ \(0\)\
-\-\ base\\:\\ 0\\.01980744546054063\ \(0\)\
-\-\ result\\:\\ 0\\.019397539390224625\ \(0\)\
-\-\ which\\:\\ 0\\.01887745073659821\ \(0\)\
-\-\ required\\:\\ 0\\.018199559241344757\ \(0\)\
-\-\ status\\:\\ 0\\.018049274089832267\ \(0\)\
-\-\ obstruction\\:\\ 0\\.017830769518280682\ \(0\)\
-\-\ location\\:\\ 0\\.017637323591147298\ \(0\)\
-\-\ inferior\\:\\ 0\\.017155718114550668\ \(0\)\
-\-\ masses\\:\\ 0\\.01709226271003602\ \(0\)\
-\-\ medial\\:\\ 0\\.016173369902899717\ \(0\)\
-\-\ right\\:\\ 0\\.016005296611427515\ \(0\)\
-\-\ post\\:\\ 0\\.01592210078741002\ \(0\)\
-\-\ normal\\:\\ 0\\.01585340182957516\ \(0\)\
-\-\ will\\:\\ 0\\.01581941430993575\ \(0\)\
-\-\ age\\:\\ 0\\.015390001926297671\ \(0\)\
-\-\ negative\\:\\ 0\\.015101302730028842\ \(0\)\
-\-\ years\\:\\ 0\\.014847592526736583\ \(0\)\
-\-\ focal\\:\\ 0\\.014440790557031964\ \(0\)\
-\-\ is\\:\\ 0\\.013308657476561554\ \(0\)\
-\-\ evidence\\:\\ 0\\.013257056706312886\ \(0\)\
-\-\ to\\:\\ 0\\.012635151137366457\ \(0\)\
-\-\ none\\:\\ 0\\.01254271897578702\ \(0\)\
-\-\ demonstrate\\:\\ 0\\.011635811487177756\ \(0\)\
-\-\ this\\:\\ 0\\.011374404891291516\ \(0\)\
-\-\ it\\:\\ 0\\.011365966772384713\ \(0\)\
-\-\ may\\:\\ 0\\.011090700407681205\ \(0\)\
-\-\ but\\:\\ 0\\.01078404320138188\ \(0\)\
-\-\ surgical\\:\\ 0\\.010628531184919843\ \(0\)\
-\-\ female\\:\\ 0\\.010395031191999015\ \(0\)\
-\-\ patient\\:\\ 0\\.010137182614395123\ \(0\)\
-\-\ images\\:\\ 0\\.009699786342895585\ \(0\)\
-\-\ has\\:\\ 0\\.009495266097599278\ \(0\)\
-\-\ that\\:\\ 0\\.008733613778454576\ \(0\)\
-\-\ for\\:\\ 0\\.008628498800505504\ \(0\)\
-\-\ the\\:\\ 0\\.00736238794279664\ \(0\)\
-\-\ history\\:\\ 0\\.006983517974598127\ \(0\)\
-\-\ are\\:\\ 0\\.006892744807867466\ \(0\)\
-\-\ at\\:\\ 0\\.006850669543382443\ \(0\)\
-\-\ or\\:\\ 0\\.005926170112211287\ \(0\)\
-\-\ and\\:\\ 0\\.005325710228763859\ \(0\)\
-\-\ \\,\\:\\ 0\\.0048055041216086515\ \(0\)\
-\-\ a\\:\\ 0\\.004693488778918358\ \(0\)\
-\-\ on\\:\\ 0\\.004283378771393066\ \(0\)\
-\-\ \\(\\:\\ 0\\.004274329741087932\ \(0\)\
-\-\ \\)\\:\\ 0\\.004222116521380504\ \(0\)\
-\-\ of\\:\\ 0\\.004136229614129767\ \(0\)\
-\-\ in\\:\\ 0\\.0024934747345577214\ \(0\)\
-\-\ \\.\\:\\ 0\\.0021005642661151643\ \(0\)\
-\-\ with\\:\\ 0\\.0006923324028987558\ \(0\)\
+Texto: 
+urinalysis negative.
+none required.
+fluoroscopic images demonstrate a duplicated right renal collecting system.  both the upper and lower pole ureters are of normal caliber and insert on the base of the urinary bladder without evidence of obstructive uropathy.  both kidneys enhance promptly and symmetrically without renal mantle thinning or focal masses.
+duplicated renal collecting system
+duplicated renal collecting system
+21-year-old female with history of right ureteral reimplantation at eight years of age for vesicoureteral reflux has incontinence and recurrent urinary tract infections.
+this patient is status post surgical reimplantation of the right lower pole ureter to correct vesicoureteral reflux.  according to the weigert-meyer rule, the upper pole ureter will insert ectopically, inferior and medial to the normal (orthotopic) location.  it is this ectopic ureter that is prone to having a ureterocele which may result in obstruction.  the lower pole ureter inserts orthotopically but is prone to vesicoureteral reflux, which predisposes the patient for pyleonephritis.
+
+
+Keywords by value: 
+- ureter: 0.10913197170592977
+- duplicated: 0.10082883209533755
+- pole: 0.09418311282875788
+- vesicoureteral: 0.09287573051201874
+- insert: 0.07971688618090725
+- collecting: 0.07741723895348503
+- reimplantation: 0.07707613409434855
+- reflux: 0.07008255574279733
+- renal: 0.06076865205817915
+- prone: 0.06067028366689422
+- system: 0.059724496515990495
+- orthotopically: 0.048061368304180785
+- pyleonephritis: 0.048061368304180785
+- urinary: 0.046813088989406226
+- weigert-meyer: 0.045662166481055554
+- ectopically: 0.045662166481055554
+- orthotopic: 0.045662166481055554
+- uropathy: 0.042639529654037854
+- 21-year-old: 0.042639529654037854
+- predisposes: 0.041560703874191966
+- mantle: 0.039858443090453624
+- inserts: 0.038538067047174274
+- promptly: 0.03698561577813586
+- symmetrically: 0.03575698048359004
+- ureterocele: 0.03414790524404186
+- lower: 0.03411589472243543
+- eight: 0.03311622839703134
+- urinalysis: 0.031125268417024166
+- ureters: 0.031125268417024166
+- thinning: 0.03004644263717828
+- incontinence: 0.029907208924691925
+- caliber: 0.029771176272474775
+- ureteral: 0.029638200794060227
+- correct: 0.029638200794060227
+- according: 0.02813654090781112
+- fluoroscopic: 0.02764724081405305
+- obstructive: 0.02601584506609408
+- both: 0.0258248519607825
+- enhance: 0.02445791240735076
+- upper: 0.024403319590162346
+- ectopic: 0.02424271924657635
+- infections: 0.024035078300947536
+- without: 0.023810806702463435
+- kidneys: 0.02327051184248596
+- having: 0.02322585382097482
+- tract: 0.0223969260507341
+- recurrent: 0.0213374690599117
+- rule: 0.021115351194118413
+- bladder: 0.02052314138017177
+- base: 0.01980744546054063
+- result: 0.019397539390224625
+- which: 0.01887745073659821
+- required: 0.018199559241344757
+- status: 0.018049274089832267
+- obstruction: 0.017830769518280682
+- location: 0.017637323591147298
+- inferior: 0.017155718114550668
+- masses: 0.01709226271003602
+- medial: 0.016173369902899717
+- right: 0.016005296611427515
+- post: 0.01592210078741002
+- normal: 0.01585340182957516
+- will: 0.01581941430993575
+- age: 0.015390001926297671
+- negative: 0.015101302730028842
+- years: 0.014847592526736583
+- focal: 0.014440790557031964
+- is: 0.013308657476561554
+- evidence: 0.013257056706312886
+- to: 0.012635151137366457
+- none: 0.01254271897578702
+- demonstrate: 0.011635811487177756
+- this: 0.011374404891291516
+- it: 0.011365966772384713
+- may: 0.011090700407681205
+- but: 0.01078404320138188
+- surgical: 0.010628531184919843
+- female: 0.010395031191999015
+- patient: 0.010137182614395123
+- images: 0.009699786342895585
+- has: 0.009495266097599278
+- that: 0.008733613778454576
+- for: 0.008628498800505504
+- the: 0.00736238794279664
+- history: 0.006983517974598127
+- are: 0.006892744807867466
+- at: 0.006850669543382443
+- or: 0.005926170112211287
+- and: 0.005325710228763859
+- ,: 0.0048055041216086515
+- a: 0.004693488778918358
+- on: 0.004283378771393066
+- (: 0.004274329741087932
+- ): 0.004222116521380504
+- of: 0.004136229614129767
+- in: 0.0024934747345577214
+- .: 0.0021005642661151643
+- with: 0.0006923324028987558

@@ -1,69 +1,72 @@
-\-\ Texto\\:\\ \ \(0\)\
-\-\ swollen\\ right\\ knee\\ with\\ decreased\\ knee\\ extension\\ strength\\.\ \(0\)\
-\-\ follow\\-up\\ and\\ treatment\\ with\\ orthopedic\\ surgery\\.\\ see\\ factoid\\.\ \(0\)\
-\-\ plain\\ film\\:\\ \ \(7\)\
-\-\ patella\\ baja\ \(4\)\
-\-\ suprapatellar\\ soft\\ tissue\\ swelling\\ \ \(1\)\
-\-\ ossific\\ fragment\\ with\\ donor\\ site\\ from\\ superior\\ pole\\ of\\ patella\ \(1\)\
-\-\ mri\\:\ \(0\)\
-\-\ large\\ tear\\ of\\ the\\ quadriceps\\ tendon\\ involving\\ the\\ medial\\ and\\ central\\ portion\\ of\\ the\\ quadriceps\\ tendon\\ with\\ the\\ lateral\\ portion\\ of\\ the\\ quadriceps\\ tendon\\ intact\ \(1\)\
-\-\ marked\\ surrounding\\ edema\ \(1\)\
-\-\ quadriceps\\ tendon\\ tear\ \(1\)\
-\-\ quadriceps\\ tendon\\ tear\ \(1\)\
-\-\ fall\\ 5\\ days\\ ago\\ and\\ right\\ knee\\ pain\\ and\\ weakness\\.\ \(0\)\
-\-\ see\\ factoid\\.\ \(59\)\
-\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
-\-\ quadriceps\\:\\ 0\\.3136182703387596\ \(0\)\
-\-\ tendon\\:\\ 0\\.22654572083319302\ \(0\)\
-\-\ tear\\:\\ 0\\.12794057014566584\ \(0\)\
-\-\ knee\\:\\ 0\\.1056303655418276\ \(0\)\
-\-\ \\-patella\\:\\ 0\\.10017634572689203\ \(0\)\
-\-\ \\-suprapatellar\\:\\ 0\\.10017634572689203\ \(0\)\
-\-\ \\-ossific\\:\\ 0\\.10017634572689203\ \(0\)\
-\-\ \\-marked\\:\\ 0\\.09229967322052901\ \(0\)\
-\-\ baja\\:\\ 0\\.08769211517384533\ \(0\)\
-\-\ \\-large\\:\\ 0\\.07520788462079862\ \(0\)\
-\-\ donor\\:\\ 0\\.07401060603377788\ \(0\)\
-\-\ portion\\:\\ 0\\.07034560562179742\ \(0\)\
-\-\ factoid\\:\\ 0\\.06807807940032129\ \(0\)\
-\-\ see\\:\\ 0\\.05795948207338155\ \(0\)\
-\-\ patella\\:\\ 0\\.05691881743404749\ \(0\)\
-\-\ swollen\\:\\ 0\\.05173680166960435\ \(0\)\
-\-\ orthopedic\\:\\ 0\\.04635590881331821\ \(0\)\
-\-\ pole\\:\\ 0\\.04521859678426159\ \(0\)\
-\-\ fragment\\:\\ 0\\.04486345424444223\ \(0\)\
-\-\ strength\\:\\ 0\\.04308679435363889\ \(0\)\
-\-\ fall\\:\\ 0\\.04271900702975216\ \(0\)\
-\-\ site\\:\\ 0\\.041039906101019354\ \(0\)\
-\-\ film\\:\\ 0\\.03729691971862475\ \(0\)\
-\-\ ago\\:\\ 0\\.03614464569087782\ \(0\)\
-\-\ weakness\\:\\ 0\\.036063765375322555\ \(0\)\
-\-\ intact\\:\\ 0\\.03566777979202519\ \(0\)\
-\-\ extension\\:\\ 0\\.034662810467973336\ \(0\)\
-\-\ involving\\:\\ 0\\.034072809818219245\ \(0\)\
-\-\ swelling\\:\\ 0\\.03235012345433105\ \(0\)\
-\-\ central\\:\\ 0\\.03195035632795408\ \(0\)\
-\-\ surrounding\\:\\ 0\\.03192233254959961\ \(0\)\
-\-\ follow\\-up\\:\\ 0\\.031591329448201616\ \(0\)\
-\-\ plain\\:\\ 0\\.03153708764419414\ \(0\)\
-\-\ medial\\:\\ 0\\.0310602217453415\ \(0\)\
-\-\ superior\\:\\ 0\\.03100845110288854\ \(0\)\
-\-\ days\\:\\ 0\\.0297622079110452\ \(0\)\
-\-\ decreased\\:\\ 0\\.028872231849142723\ \(0\)\
-\-\ 5\\:\\ 0\\.028410913891410948\ \(0\)\
-\-\ edema\\:\\ 0\\.027465039652628306\ \(0\)\
-\-\ \\:\\:\\ 0\\.025688063999787843\ \(0\)\
-\-\ soft\\:\\ 0\\.023646895045381252\ \(0\)\
-\-\ surgery\\:\\ 0\\.02357953482227585\ \(0\)\
-\-\ tissue\\:\\ 0\\.023016149868779475\ \(0\)\
-\-\ mri\\:\\ 0\\.022309952896757045\ \(0\)\
-\-\ lateral\\:\\ 0\\.020984864154824437\ \(0\)\
-\-\ right\\:\\ 0\\.020491629752509472\ \(0\)\
-\-\ treatment\\:\\ 0\\.019654738177282808\ \(0\)\
-\-\ from\\:\\ 0\\.014391314922206959\ \(0\)\
-\-\ pain\\:\\ 0\\.011859183721940168\ \(0\)\
-\-\ and\\:\\ 0\\.008182227533282658\ \(0\)\
-\-\ the\\:\\ 0\\.007855072994524193\ \(0\)\
-\-\ with\\:\\ 0\\.005318371640449533\ \(0\)\
-\-\ of\\:\\ 0\\.005295627308999474\ \(0\)\
-\-\ \\.\\:\\ 0\\.002017019096440129\ \(0\)\
+Texto: 
+swollen right knee with decreased knee extension strength.
+follow-up and treatment with orthopedic surgery. see factoid.
+plain film: 
+-patella baja
+-suprapatellar soft tissue swelling 
+-ossific fragment with donor site from superior pole of patella
+
+mri:
+-large tear of the quadriceps tendon involving the medial and central portion of the quadriceps tendon with the lateral portion of the quadriceps tendon intact
+-marked surrounding edema
+quadriceps tendon tear
+quadriceps tendon tear
+fall 5 days ago and right knee pain and weakness.
+see factoid.
+
+
+Keywords by value: 
+- quadriceps: 0.3136182703387596
+- tendon: 0.22654572083319302
+- tear: 0.12794057014566584
+- knee: 0.1056303655418276
+- -patella: 0.10017634572689203
+- -suprapatellar: 0.10017634572689203
+- -ossific: 0.10017634572689203
+- -marked: 0.09229967322052901
+- baja: 0.08769211517384533
+- -large: 0.07520788462079862
+- donor: 0.07401060603377788
+- portion: 0.07034560562179742
+- factoid: 0.06807807940032129
+- see: 0.05795948207338155
+- patella: 0.05691881743404749
+- swollen: 0.05173680166960435
+- orthopedic: 0.04635590881331821
+- pole: 0.04521859678426159
+- fragment: 0.04486345424444223
+- strength: 0.04308679435363889
+- fall: 0.04271900702975216
+- site: 0.041039906101019354
+- film: 0.03729691971862475
+- ago: 0.03614464569087782
+- weakness: 0.036063765375322555
+- intact: 0.03566777979202519
+- extension: 0.034662810467973336
+- involving: 0.034072809818219245
+- swelling: 0.03235012345433105
+- central: 0.03195035632795408
+- surrounding: 0.03192233254959961
+- follow-up: 0.031591329448201616
+- plain: 0.03153708764419414
+- medial: 0.0310602217453415
+- superior: 0.03100845110288854
+- days: 0.0297622079110452
+- decreased: 0.028872231849142723
+- 5: 0.028410913891410948
+- edema: 0.027465039652628306
+- :: 0.025688063999787843
+- soft: 0.023646895045381252
+- surgery: 0.02357953482227585
+- tissue: 0.023016149868779475
+- mri: 0.022309952896757045
+- lateral: 0.020984864154824437
+- right: 0.020491629752509472
+- treatment: 0.019654738177282808
+- from: 0.014391314922206959
+- pain: 0.011859183721940168
+- and: 0.008182227533282658
+- the: 0.007855072994524193
+- with: 0.005318371640449533
+- of: 0.005295627308999474
+- .: 0.002017019096440129

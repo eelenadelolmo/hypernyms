@@ -1,155 +1,161 @@
-\-\ Texto\\:\\ \ \(0\)\
-\-\ the\\ patient\\ was\\ admitted\\ for\\ observation\\.\\ \\ surgery\\ was\\ not\\ performed\\.\ \(0\)\
-\-\ axial\\ ct\\ images\\ with\\ contrast\\ show\\ the\\ entire\\ small\\ bowel\\ in\\ right\\ side\\ of\\ abdomen\\,\\ and\\ large\\ bowel\\ in\\ left\\ side\\ of\\ abdomen\\.\\ \\ there\\ is\\ inversion\\ of\\ smv\\-sma\\ relationship\\ with\\ the\\ smv\\ located\\ to\\ the\\ left\\ of\\ the\\ sma\\.\ \(0\)\
-\-\ intestinal\\ malrotation\ \(3\)\
-\-\ intestinal\\ malrotation\ \(3\)\
-\-\ intestinal\\ non\\-rotation\ \(0\)\
-\-\ intestinal\\ malrotation\\ with\\ midgut\\ volulus\ \(0\)\
-\-\ 77\\ yo\\ female\\ presents\\ to\\ emergency\\ department\\ for\\ worsening\\ abdominal\\ pain\ \(1\)\
-\-\ intestinal\\ malrotation\\ is\\ a\\ congenital\\ anomaly\\ which\\ usually\\ presents\\ in\\ infancy\\,\\ with\\ bilious\\ vomiting\\ in\\ the\\ first\\ month\\ of\\ life\\.\\ \\ it\\ is\\ rare\\ for\\ malrotation\\ to\\ present\\ in\\ adulthood\\.\\ \\ symptomatic\\ adults\\ usually\\ present\\ with\\ acutely\\ or\\ chronic\\ bowel\\ obstruction\\,\\ chronic\\ vague\\ abdominal\\ pain\\,\\ or\\ intestinal\\ ischemia\\ with\\ midgut\\ volulus\\.\\ \\ \ \(0\)\
-\-\ ct\\ scan\\ findings\\ of\\ intestinal\\ malrotation\\ include\\ right\\-side\\ small\\ bowel\\,\\ left\\-sided\\ colon\\;\\ inversion\\ of\\ smv\\-sma\\ complex\\ with\\ smv\\ either\\ vertical\\ or\\ left\\ sided\\ smv\\.\\ \\ the\\ direction\\ of\\ the\\ jejunal\\ vessels\\ can\\ also\\ be\\ determined\\ going\\ in\\ a\\ rightward\\ direction\\.\ \(0\)\
-\-\ the\\ ascending\\ colon\\ gradually\\ becomes\\ fixed\\ to\\ the\\ posterior\\ abdominal\\ wall\\,\\ losing\\ its\\ free\\ mesentery\\.\\ peritoneal\\ bands\\ of\\ fibrosis\\ that\\ fix\\ the\\ cecum\\ to\\ the\\ right\\ lateral\\ abdominal\\ wall\\ \\(ladd\\â\\€\\™s\\ bands\\)\\ run\\ anterior\\ to\\ the\\ duodenum\\ and\\ may\\ cause\\ compression\\ and\\ obstruction\\ of\\ the\\ duodenum\\.\ \(0\)\
-\-\ ladd\\â\\€\\™s\\ procedure\\ is\\ performed\\ to\\ correct\\ the\\ intestinal\\ malrotation\\.\\ \\ in\\ the\\ ladd\\â\\€\\™s\\ procedure\\ there\\ is\\ division\\ of\\ ladd\\â\\€\\™s\\ bands\\,\\ mobilization\\ of\\ right\\ colon\\ and\\ duodenum\\,\\ division\\ of\\ adhesions\\ around\\ the\\ sma\\ and\\ appendectomy\\ may\\ be\\ performed\\.\\ \\ \ \(0\)\
-\-\ ladd\\â\\€\\™s\\ procedure\\ is\\ recommended\\ for\\ all\\ children\\ with\\ diagnosed\\ malrotation\\ and\\ symptomatic\\ adults\\ may\\ also\\ have\\ the\\ surgery\\ for\\ resolution\\ of\\ pain\\.\\ \\ it\\ is\\ controversial\\ if\\ an\\ asymptomatic\\ adult\\ with\\ malrotation\\ should\\ have\\ the\\ surgery\\.\ \(0\)\
-\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
-\-\ malrotation\\:\\ 0\\.13862218842148596\ \(0\)\
-\-\ intestinal\\:\\ 0\\.12463605171483927\ \(0\)\
-\-\ ladd\\:\\ 0\\.1064034380487183\ \(0\)\
-\-\ smv\\:\\ 0\\.06497823359118968\ \(0\)\
-\-\ smv\\-sma\\:\\ 0\\.05669143681007394\ \(0\)\
-\-\ volulus\\:\\ 0\\.05669143681007394\ \(0\)\
-\-\ bands\\:\\ 0\\.049214916629538814\ \(0\)\
-\-\ duodenum\\:\\ 0\\.04462247924701035\ \(0\)\
-\-\ \\â\\€\\™\\:\\ 0\\.041061523145425334\ \(0\)\
-\-\ s\\:\\ 0\\.03940140943914127\ \(0\)\
-\-\ division\\:\\ 0\\.03927632297661921\ \(0\)\
-\-\ midgut\\:\\ 0\\.036813350293300205\ \(0\)\
-\-\ sma\\:\\ 0\\.03625379159883313\ \(0\)\
-\-\ inversion\\:\\ 0\\.034818784837970046\ \(0\)\
-\-\ procedure\\:\\ 0\\.03452485332286061\ \(0\)\
-\-\ bowel\\:\\ 0\\.034468855728421344\ \(0\)\
-\-\ direction\\:\\ 0\\.03420585763665606\ \(0\)\
-\-\ colon\\:\\ 0\\.032372343181565975\ \(0\)\
-\-\ right\\-side\\:\\ 0\\.02834571840503697\ \(0\)\
-\-\ adults\\:\\ 0\\.02804611657693241\ \(0\)\
-\-\ abdominal\\:\\ 0\\.027471630072310165\ \(0\)\
-\-\ non\\-rotation\\:\\ 0\\.024813203007390316\ \(0\)\
-\-\ fix\\:\\ 0\\.023170676885956264\ \(0\)\
-\-\ performed\\:\\ 0\\.02298307071923459\ \(0\)\
-\-\ symptomatic\\:\\ 0\\.02183269083404638\ \(0\)\
-\-\ losing\\:\\ 0\\.021659411197063223\ \(0\)\
-\-\ mobilization\\:\\ 0\\.020941907816631678\ \(0\)\
-\-\ infancy\\:\\ 0\\.020098292818343928\ \(0\)\
-\-\ surgery\\:\\ 0\\.02001606814495442\ \(0\)\
-\-\ jejunal\\:\\ 0\\.019860003518814274\ \(0\)\
-\-\ rightward\\:\\ 0\\.019860003518814274\ \(0\)\
-\-\ run\\:\\ 0\\.019638161488309606\ \(0\)\
-\-\ obstruction\\:\\ 0\\.019378778447520485\ \(0\)\
-\-\ side\\:\\ 0\\.019038241168900776\ \(0\)\
-\-\ adulthood\\:\\ 0\\.018406675146650103\ \(0\)\
-\-\ bilious\\:\\ 0\\.018126895799416565\ \(0\)\
-\-\ going\\:\\ 0\\.018126895799416565\ \(0\)\
-\-\ may\\:\\ 0\\.018080337963647497\ \(0\)\
-\-\ controversial\\:\\ 0\\.017995635366875554\ \(0\)\
-\-\ acutely\\:\\ 0\\.01786952374901934\ \(0\)\
-\-\ adhesions\\:\\ 0\\.01691373106905815\ \(0\)\
-\-\ mesentery\\:\\ 0\\.016823149471094496\ \(0\)\
-\-\ 77\\:\\ 0\\.01673504987563432\ \(0\)\
-\-\ usually\\:\\ 0\\.016687641503966295\ \(0\)\
-\-\ relationship\\:\\ 0\\.01632748812116762\ \(0\)\
-\-\ abdomen\\:\\ 0\\.016278998475213483\ \(0\)\
-\-\ appendectomy\\:\\ 0\\.01625182735779079\ \(0\)\
-\-\ vertical\\:\\ 0\\.016105646090662954\ \(0\)\
-\-\ correct\\:\\ 0\\.016105646090662954\ \(0\)\
-\-\ gradually\\:\\ 0\\.0159658225796027\ \(0\)\
-\-\ wall\\:\\ 0\\.015917421995104476\ \(0\)\
-\-\ fixed\\:\\ 0\\.015898126730091985\ \(0\)\
-\-\ cecum\\:\\ 0\\.015579506464354909\ \(0\)\
-\-\ chronic\\:\\ 0\\.01547903300904823\ \(0\)\
-\-\ vague\\:\\ 0\\.01477816951379547\ \(0\)\
-\-\ ascending\\:\\ 0\\.014731228036557038\ \(0\)\
-\-\ becomes\\:\\ 0\\.014378498399076572\ \(0\)\
-\-\ determined\\:\\ 0\\.01433700835137269\ \(0\)\
-\-\ peritoneal\\:\\ 0\\.014296046853696067\ \(0\)\
-\-\ observation\\:\\ 0\\.014098719051843036\ \(0\)\
-\-\ adult\\:\\ 0\\.013771443507438077\ \(0\)\
-\-\ anomaly\\:\\ 0\\.01360305770191616\ \(0\)\
-\-\ left\\-sided\\:\\ 0\\.013538097228226388\ \(0\)\
-\-\ entire\\:\\ 0\\.013506102595258002\ \(0\)\
-\-\ ischemia\\:\\ 0\\.012769554139896807\ \(0\)\
-\-\ small\\:\\ 0\\.012659648131068287\ \(0\)\
-\-\ is\\:\\ 0\\.012656062535990609\ \(0\)\
-\-\ present\\:\\ 0\\.012411631858081548\ \(0\)\
-\-\ it\\:\\ 0\\.012352722730115862\ \(0\)\
-\-\ department\\:\\ 0\\.012321259814334925\ \(0\)\
-\-\ fibrosis\\:\\ 0\\.012234350899904316\ \(0\)\
-\-\ life\\:\\ 0\\.011986887745125768\ \(0\)\
-\-\ either\\:\\ 0\\.011967100396012013\ \(0\)\
-\-\ have\\:\\ 0\\.011899923333537567\ \(0\)\
-\-\ admitted\\:\\ 0\\.011869949982518453\ \(0\)\
-\-\ children\\:\\ 0\\.011869949982518453\ \(0\)\
-\-\ resolution\\:\\ 0\\.011850867231650884\ \(0\)\
-\-\ for\\:\\ 0\\.011721995958886094\ \(0\)\
-\-\ around\\:\\ 0\\.01144058859144282\ \(0\)\
-\-\ recommended\\:\\ 0\\.011390735901616563\ \(0\)\
-\-\ located\\:\\ 0\\.011309328158901805\ \(0\)\
-\-\ free\\:\\ 0\\.011309328158901805\ \(0\)\
-\-\ presents\\:\\ 0\\.011226008331240682\ \(0\)\
-\-\ vessels\\:\\ 0\\.011061865004123258\ \(0\)\
-\-\ complex\\:\\ 0\\.011002864558244813\ \(0\)\
-\-\ also\\:\\ 0\\.010833566518779108\ \(0\)\
-\-\ worsening\\:\\ 0\\.010818263570420572\ \(0\)\
-\-\ rare\\:\\ 0\\.010669936330139216\ \(0\)\
-\-\ vomiting\\:\\ 0\\.010490542890819552\ \(0\)\
-\-\ emergency\\:\\ 0\\.0104044649452742\ \(0\)\
-\-\ its\\:\\ 0\\.010368268306931322\ \(0\)\
-\-\ compression\\:\\ 0\\.010285361177813269\ \(0\)\
-\-\ sided\\:\\ 0\\.010159249559957059\ \(0\)\
-\-\ diagnosed\\:\\ 0\\.010103521404485548\ \(0\)\
-\-\ pain\\:\\ 0\\.010066959815409017\ \(0\)\
-\-\ congenital\\:\\ 0\\.010048742667660572\ \(0\)\
-\-\ or\\:\\ 0\\.00966099114755988\ \(0\)\
-\-\ to\\:\\ 0\\.009612465463346959\ \(0\)\
-\-\ in\\:\\ 0\\.009484825115697057\ \(0\)\
-\-\ cause\\:\\ 0\\.009296664394057769\ \(0\)\
-\-\ asymptomatic\\:\\ 0\\.009288078450148191\ \(0\)\
-\-\ left\\:\\ 0\\.009222880410992748\ \(0\)\
-\-\ first\\:\\ 0\\.009220203970372515\ \(0\)\
-\-\ should\\:\\ 0\\.00875951299642701\ \(0\)\
-\-\ right\\:\\ 0\\.008697411984987942\ \(0\)\
-\-\ be\\:\\ 0\\.00847431976426964\ \(0\)\
-\-\ the\\:\\ 0\\.00844609777932119\ \(0\)\
-\-\ show\\:\\ 0\\.008434584998365358\ \(0\)\
-\-\ yo\\:\\ 0\\.008268011328947788\ \(0\)\
-\-\ month\\:\\ 0\\.00824313357170614\ \(0\)\
-\-\ there\\:\\ 0\\.008178235089807001\ \(0\)\
-\-\ axial\\:\\ 0\\.007841773234944924\ \(0\)\
-\-\ all\\:\\ 0\\.007771458165373925\ \(0\)\
-\-\ include\\:\\ 0\\.0077078890290362915\ \(0\)\
-\-\ scan\\:\\ 0\\.007692191191102825\ \(0\)\
-\-\ ct\\:\\ 0\\.007686840214739826\ \(0\)\
-\-\ if\\:\\ 0\\.007455766668104937\ \(0\)\
-\-\ anterior\\:\\ 0\\.007076504256471825\ \(0\)\
-\-\ \\,\\:\\ 0\\.006963602971505785\ \(0\)\
-\-\ \\;\\:\\ 0\\.006512608322998693\ \(0\)\
-\-\ was\\:\\ 0\\.006355482457965832\ \(0\)\
-\-\ posterior\\:\\ 0\\.006333242921872825\ \(0\)\
-\-\ can\\:\\ 0\\.006232226213726912\ \(0\)\
-\-\ contrast\\:\\ 0\\.006150404137645998\ \(0\)\
-\-\ large\\:\\ 0\\.006008175021964887\ \(0\)\
-\-\ lateral\\:\\ 0\\.005937839374998554\ \(0\)\
-\-\ findings\\:\\ 0\\.005848350275851961\ \(0\)\
-\-\ female\\:\\ 0\\.005648746853530012\ \(0\)\
-\-\ images\\:\\ 0\\.005270944990190849\ \(0\)\
-\-\ of\\:\\ 0\\.0052445440873692545\ \(0\)\
-\-\ which\\:\\ 0\\.005129082274091796\ \(0\)\
-\-\ that\\:\\ 0\\.0047459187413466985\ \(0\)\
-\-\ not\\:\\ 0\\.003970478044186287\ \(0\)\
-\-\ an\\:\\ 0\\.0037995654800152085\ \(0\)\
-\-\ and\\:\\ 0\\.0034728425543193273\ \(0\)\
-\-\ with\\:\\ 0\\.003385972941508063\ \(0\)\
-\-\ patient\\:\\ 0\\.002754314890406392\ \(0\)\
-\-\ a\\:\\ 0\\.002550481040634092\ \(0\)\
-\-\ \\(\\:\\ 0\\.0023227065152535706\ \(0\)\
-\-\ \\)\\:\\ 0\\.002294333415155322\ \(0\)\
-\-\ \\.\\:\\ 0\\.001712196274791621\ \(0\)\
+Texto: 
+the patient was admitted for observation.  surgery was not performed.
+axial ct images with contrast show the entire small bowel in right side of abdomen, and large bowel in left side of abdomen.  there is inversion of smv-sma relationship with the smv located to the left of the sma.
+intestinal malrotation
+intestinal malrotation
+intestinal non-rotation
+intestinal malrotation with midgut volulus
+77 yo female presents to emergency department for worsening abdominal pain
+intestinal malrotation is a congenital anomaly which usually presents in infancy, with bilious vomiting in the first month of life.  it is rare for malrotation to present in adulthood.  symptomatic adults usually present with acutely or chronic bowel obstruction, chronic vague abdominal pain, or intestinal ischemia with midgut volulus.  
+
+ct scan findings of intestinal malrotation include right-side small bowel, left-sided colon; inversion of smv-sma complex with smv either vertical or left sided smv.  the direction of the jejunal vessels can also be determined going in a rightward direction.
+
+the ascending colon gradually becomes fixed to the posterior abdominal wall, losing its free mesentery. peritoneal bands of fibrosis that fix the cecum to the right lateral abdominal wall (laddâ€™s bands) run anterior to the duodenum and may cause compression and obstruction of the duodenum.
+
+laddâ€™s procedure is performed to correct the intestinal malrotation.  in the laddâ€™s procedure there is division of laddâ€™s bands, mobilization of right colon and duodenum, division of adhesions around the sma and appendectomy may be performed.  
+
+laddâ€™s procedure is recommended for all children with diagnosed malrotation and symptomatic adults may also have the surgery for resolution of pain.  it is controversial if an asymptomatic adult with malrotation should have the surgery.
+
+
+Keywords by value: 
+- malrotation: 0.13862218842148596
+- intestinal: 0.12463605171483927
+- ladd: 0.1064034380487183
+- smv: 0.06497823359118968
+- smv-sma: 0.05669143681007394
+- volulus: 0.05669143681007394
+- bands: 0.049214916629538814
+- duodenum: 0.04462247924701035
+- â€™: 0.041061523145425334
+- s: 0.03940140943914127
+- division: 0.03927632297661921
+- midgut: 0.036813350293300205
+- sma: 0.03625379159883313
+- inversion: 0.034818784837970046
+- procedure: 0.03452485332286061
+- bowel: 0.034468855728421344
+- direction: 0.03420585763665606
+- colon: 0.032372343181565975
+- right-side: 0.02834571840503697
+- adults: 0.02804611657693241
+- abdominal: 0.027471630072310165
+- non-rotation: 0.024813203007390316
+- fix: 0.023170676885956264
+- performed: 0.02298307071923459
+- symptomatic: 0.02183269083404638
+- losing: 0.021659411197063223
+- mobilization: 0.020941907816631678
+- infancy: 0.020098292818343928
+- surgery: 0.02001606814495442
+- jejunal: 0.019860003518814274
+- rightward: 0.019860003518814274
+- run: 0.019638161488309606
+- obstruction: 0.019378778447520485
+- side: 0.019038241168900776
+- adulthood: 0.018406675146650103
+- bilious: 0.018126895799416565
+- going: 0.018126895799416565
+- may: 0.018080337963647497
+- controversial: 0.017995635366875554
+- acutely: 0.01786952374901934
+- adhesions: 0.01691373106905815
+- mesentery: 0.016823149471094496
+- 77: 0.01673504987563432
+- usually: 0.016687641503966295
+- relationship: 0.01632748812116762
+- abdomen: 0.016278998475213483
+- appendectomy: 0.01625182735779079
+- vertical: 0.016105646090662954
+- correct: 0.016105646090662954
+- gradually: 0.0159658225796027
+- wall: 0.015917421995104476
+- fixed: 0.015898126730091985
+- cecum: 0.015579506464354909
+- chronic: 0.01547903300904823
+- vague: 0.01477816951379547
+- ascending: 0.014731228036557038
+- becomes: 0.014378498399076572
+- determined: 0.01433700835137269
+- peritoneal: 0.014296046853696067
+- observation: 0.014098719051843036
+- adult: 0.013771443507438077
+- anomaly: 0.01360305770191616
+- left-sided: 0.013538097228226388
+- entire: 0.013506102595258002
+- ischemia: 0.012769554139896807
+- small: 0.012659648131068287
+- is: 0.012656062535990609
+- present: 0.012411631858081548
+- it: 0.012352722730115862
+- department: 0.012321259814334925
+- fibrosis: 0.012234350899904316
+- life: 0.011986887745125768
+- either: 0.011967100396012013
+- have: 0.011899923333537567
+- admitted: 0.011869949982518453
+- children: 0.011869949982518453
+- resolution: 0.011850867231650884
+- for: 0.011721995958886094
+- around: 0.01144058859144282
+- recommended: 0.011390735901616563
+- located: 0.011309328158901805
+- free: 0.011309328158901805
+- presents: 0.011226008331240682
+- vessels: 0.011061865004123258
+- complex: 0.011002864558244813
+- also: 0.010833566518779108
+- worsening: 0.010818263570420572
+- rare: 0.010669936330139216
+- vomiting: 0.010490542890819552
+- emergency: 0.0104044649452742
+- its: 0.010368268306931322
+- compression: 0.010285361177813269
+- sided: 0.010159249559957059
+- diagnosed: 0.010103521404485548
+- pain: 0.010066959815409017
+- congenital: 0.010048742667660572
+- or: 0.00966099114755988
+- to: 0.009612465463346959
+- in: 0.009484825115697057
+- cause: 0.009296664394057769
+- asymptomatic: 0.009288078450148191
+- left: 0.009222880410992748
+- first: 0.009220203970372515
+- should: 0.00875951299642701
+- right: 0.008697411984987942
+- be: 0.00847431976426964
+- the: 0.00844609777932119
+- show: 0.008434584998365358
+- yo: 0.008268011328947788
+- month: 0.00824313357170614
+- there: 0.008178235089807001
+- axial: 0.007841773234944924
+- all: 0.007771458165373925
+- include: 0.0077078890290362915
+- scan: 0.007692191191102825
+- ct: 0.007686840214739826
+- if: 0.007455766668104937
+- anterior: 0.007076504256471825
+- ,: 0.006963602971505785
+- ;: 0.006512608322998693
+- was: 0.006355482457965832
+- posterior: 0.006333242921872825
+- can: 0.006232226213726912
+- contrast: 0.006150404137645998
+- large: 0.006008175021964887
+- lateral: 0.005937839374998554
+- findings: 0.005848350275851961
+- female: 0.005648746853530012
+- images: 0.005270944990190849
+- of: 0.0052445440873692545
+- which: 0.005129082274091796
+- that: 0.0047459187413466985
+- not: 0.003970478044186287
+- an: 0.0037995654800152085
+- and: 0.0034728425543193273
+- with: 0.003385972941508063
+- patient: 0.002754314890406392
+- a: 0.002550481040634092
+- (: 0.0023227065152535706
+- ): 0.002294333415155322
+- .: 0.001712196274791621

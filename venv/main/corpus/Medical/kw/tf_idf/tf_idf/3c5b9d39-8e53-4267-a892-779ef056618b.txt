@@ -1,22 +1,24 @@
-\-\ Texto\\:\\ \ \(0\)\
-\-\ dilated\\ appendix\\ with\\ diffuse\\ surrounding\\ inflammatory\\ change\\ an\\ intraperitoneal\\ air\ \(0\)\
-\-\ ruptured\\ appendicitis\ \(0\)\
-\-\ abdominal\\ pain\\ for\\ two\\ days\ \(1\)\
-\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
-\-\ intraperitoneal\\:\\ 0\\.29869698856959587\ \(0\)\
-\-\ ruptured\\:\\ 0\\.26153356302938097\ \(0\)\
-\-\ appendix\\:\\ 0\\.24479753375346913\ \(0\)\
-\-\ appendicitis\\:\\ 0\\.2287214552240761\ \(0\)\
-\-\ change\\:\\ 0\\.19592479355740253\ \(0\)\
-\-\ dilated\\:\\ 0\\.18265243568186051\ \(0\)\
-\-\ inflammatory\\:\\ 0\\.1743127025995308\ \(0\)\
-\-\ air\\:\\ 0\\.17007427215011564\ \(0\)\
-\-\ surrounding\\:\\ 0\\.16524501555086854\ \(0\)\
-\-\ days\\:\\ 0\\.15406319389246925\ \(0\)\
-\-\ diffuse\\:\\ 0\\.15217690708090087\ \(0\)\
-\-\ two\\:\\ 0\\.14396066103623562\ \(0\)\
-\-\ abdominal\\:\\ 0\\.12564230812483032\ \(0\)\
-\-\ an\\:\\ 0\\.06950969789910176\ \(0\)\
-\-\ pain\\:\\ 0\\.06138871573710204\ \(0\)\
-\-\ for\\:\\ 0\\.04288871462604207\ \(0\)\
-\-\ with\\:\\ 0\\.0068825985935229254\ \(0\)\
+Texto: 
+dilated appendix with diffuse surrounding inflammatory change an intraperitoneal air
+ruptured appendicitis
+abdominal pain for two days
+
+
+Keywords by value: 
+- intraperitoneal: 0.29869698856959587
+- ruptured: 0.26153356302938097
+- appendix: 0.24479753375346913
+- appendicitis: 0.2287214552240761
+- change: 0.19592479355740253
+- dilated: 0.18265243568186051
+- inflammatory: 0.1743127025995308
+- air: 0.17007427215011564
+- surrounding: 0.16524501555086854
+- days: 0.15406319389246925
+- diffuse: 0.15217690708090087
+- two: 0.14396066103623562
+- abdominal: 0.12564230812483032
+- an: 0.06950969789910176
+- pain: 0.06138871573710204
+- for: 0.04288871462604207
+- with: 0.0068825985935229254

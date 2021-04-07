@@ -1,53 +1,55 @@
-\-\ Texto\\:\\ \ \(0\)\
-\-\ macrocephaly\\ and\\ questionable\\ optic\\ disc\\ edema\\.\ \(0\)\
-\-\ conservative\\.\\ \\ watchful\\ waiting\\.\ \(0\)\
-\-\ symmetric\\ periventricular\\ gray\\ matter\\ heterotopia\\ adjacent\\ to\\ the\\ frontal\\ horns\\ of\\ the\\ lateral\\ ventricles\\.\ \(0\)\
-\-\ gray\\ matter\\ heterotopia\\,\\ focal\\ type\ \(0\)\
-\-\ heterotopic\\ gray\\ matter\ \(5\)\
-\-\ \\(given\\ distribution\\,\\ appearance\\,\\ and\\ signal\\ characteristics\\,\\ no\\ other\\ diagnosis\\ is\\ considered\\)\ \(0\)\
-\-\ many\\ month\\ history\\ of\\ increasing\\ headaches\\.\ \(0\)\
-\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
-\-\ gray\\:\\ 0\\.21258251368153538\ \(0\)\
-\-\ heterotopia\\:\\ 0\\.19110049469893398\ \(0\)\
-\-\ matter\\:\\ 0\\.17107525273224397\ \(0\)\
-\-\ watchful\\:\\ 0\\.12591905191265437\ \(0\)\
-\-\ macrocephaly\\:\\ 0\\.10594184858482984\ \(0\)\
-\-\ waiting\\:\\ 0\\.10594184858482984\ \(0\)\
-\-\ horns\\:\\ 0\\.09121239355053139\ \(0\)\
-\-\ heterotopic\\:\\ 0\\.08566641200462602\ \(0\)\
-\-\ periventricular\\:\\ 0\\.08345251060772664\ \(0\)\
-\-\ questionable\\:\\ 0\\.08180566741359702\ \(0\)\
-\-\ characteristics\\:\\ 0\\.07205373275421462\ \(0\)\
-\-\ ventricles\\:\\ 0\\.06813098098931791\ \(0\)\
-\-\ disc\\:\\ 0\\.06744468672906814\ \(0\)\
-\-\ optic\\:\\ 0\\.06704586473906485\ \(0\)\
-\-\ symmetric\\:\\ 0\\.06615022946153298\ \(0\)\
-\-\ distribution\\:\\ 0\\.06518144278627962\ \(0\)\
-\-\ many\\:\\ 0\\.05952904264249869\ \(0\)\
-\-\ increasing\\:\\ 0\\.059361227880079845\ \(0\)\
-\-\ considered\\:\\ 0\\.05846682049058723\ \(0\)\
-\-\ conservative\\:\\ 0\\.05784476342532574\ \(0\)\
-\-\ headaches\\:\\ 0\\.055363429475784376\ \(0\)\
-\-\ given\\:\\ 0\\.04965109139858208\ \(0\)\
-\-\ type\\:\\ 0\\.04882413946350696\ \(0\)\
-\-\ adjacent\\:\\ 0\\.04579383464634351\ \(0\)\
-\-\ frontal\\:\\ 0\\.045496473465819615\ \(0\)\
-\-\ month\\:\\ 0\\.04345109391187474\ \(0\)\
-\-\ appearance\\:\\ 0\\.041422145368383755\ \(0\)\
-\-\ focal\\:\\ 0\\.041364298375227156\ \(0\)\
-\-\ edema\\:\\ 0\\.0409648049056151\ \(0\)\
-\-\ signal\\:\\ 0\\.038187700513097944\ \(0\)\
-\-\ other\\:\\ 0\\.03338370421529574\ \(0\)\
-\-\ diagnosis\\:\\ 0\\.03325795475899017\ \(0\)\
-\-\ lateral\\:\\ 0\\.031299458400416105\ \(0\)\
-\-\ history\\:\\ 0\\.020003636232323447\ \(0\)\
-\-\ \\,\\:\\ 0\\.018353224780833042\ \(0\)\
-\-\ no\\:\\ 0\\.01458379916447122\ \(0\)\
-\-\ \\(\\:\\ 0\\.012243419088878991\ \(0\)\
-\-\ \\)\\:\\ 0\\.012093859188361103\ \(0\)\
-\-\ is\\:\\ 0\\.009530352176012299\ \(0\)\
-\-\ to\\:\\ 0\\.0072384425159828176\ \(0\)\
-\-\ and\\:\\ 0\\.0061020001943124895\ \(0\)\
-\-\ the\\:\\ 0\\.004686416430631383\ \(0\)\
-\-\ of\\:\\ 0\\.003949281382982658\ \(0\)\
-\-\ \\.\\:\\ 0\\.0030084352624869725\ \(0\)\
+Texto: 
+macrocephaly and questionable optic disc edema.
+conservative.  watchful waiting.
+symmetric periventricular gray matter heterotopia adjacent to the frontal horns of the lateral ventricles.
+gray matter heterotopia, focal type
+heterotopic gray matter
+(given distribution, appearance, and signal characteristics, no other diagnosis is considered)
+many month history of increasing headaches.
+
+
+Keywords by value: 
+- gray: 0.21258251368153538
+- heterotopia: 0.19110049469893398
+- matter: 0.17107525273224397
+- watchful: 0.12591905191265437
+- macrocephaly: 0.10594184858482984
+- waiting: 0.10594184858482984
+- horns: 0.09121239355053139
+- heterotopic: 0.08566641200462602
+- periventricular: 0.08345251060772664
+- questionable: 0.08180566741359702
+- characteristics: 0.07205373275421462
+- ventricles: 0.06813098098931791
+- disc: 0.06744468672906814
+- optic: 0.06704586473906485
+- symmetric: 0.06615022946153298
+- distribution: 0.06518144278627962
+- many: 0.05952904264249869
+- increasing: 0.059361227880079845
+- considered: 0.05846682049058723
+- conservative: 0.05784476342532574
+- headaches: 0.055363429475784376
+- given: 0.04965109139858208
+- type: 0.04882413946350696
+- adjacent: 0.04579383464634351
+- frontal: 0.045496473465819615
+- month: 0.04345109391187474
+- appearance: 0.041422145368383755
+- focal: 0.041364298375227156
+- edema: 0.0409648049056151
+- signal: 0.038187700513097944
+- other: 0.03338370421529574
+- diagnosis: 0.03325795475899017
+- lateral: 0.031299458400416105
+- history: 0.020003636232323447
+- ,: 0.018353224780833042
+- no: 0.01458379916447122
+- (: 0.012243419088878991
+- ): 0.012093859188361103
+- is: 0.009530352176012299
+- to: 0.0072384425159828176
+- and: 0.0061020001943124895
+- the: 0.004686416430631383
+- of: 0.003949281382982658
+- .: 0.0030084352624869725

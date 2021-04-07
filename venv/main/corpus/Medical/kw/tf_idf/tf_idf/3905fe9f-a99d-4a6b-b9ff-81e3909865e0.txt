@@ -1,89 +1,91 @@
-\-\ Texto\\:\\ \ \(0\)\
-\-\ no\\ palpable\\ abdominal\\ mass\\.\\ the\\ finding\\ was\\ incidentally\\ noted\\ on\\ chest\\ ct\\ for\\ chronic\\ lung\\ disease\\,\\ inpatient\\ work\\-up\\.\ \(0\)\
-\-\ enlargement\\ and\\ peripheral\\ calcification\\ of\\ the\\ right\\ adrenal\\ gland\\.\ \(0\)\
-\-\ neonatal\\ adrenal\\ hemorrhage\ \(0\)\
-\-\ neuroblastoma\\ vs\\.\\ resolving\\ adrenal\\ hemorrhage\ \(0\)\
-\-\ 3\\ month\\ old\\ white\\ male\\ infant\\,inpatient\\ with\\ chronic\\ lung\\ disease\\ and\\ history\\ of\\ recurrent\\ aspiration\\,\\ for\\ which\\ a\\ ct\\ was\\ performed\\,\\ demonstrating\\ a\\ calcified\\ right\\ adrenal\\ mass\ \(0\)\
-\-\ the\\ differential\\ diagnosis\\ of\\ a\\ calcified\\ adrenal\\ mass\\ in\\ a\\ young\\ infant\\ is\\ neuroblastoma\\ and\\ resolving\\ adrenal\\ hemorrhage\\.\\ the\\ prognosis\\ of\\ infants\\ under\\ the\\ age\\ of\\ one\\ year\\ with\\ neuroblastoma\\ is\\ excellent\\,\\ so\\,\\ as\\ long\\ as\\ there\\ is\\ no\\ other\\ evidence\\ of\\ neuroblastoma\\ \\(such\\ as\\ liver\\ metastases\\,\\ it\\ is\\ acceptable\\ to\\ wait\\ one\\ month\\ for\\ a\\ follow\\-up\\ ultrasound\\.\\ ultrasound\\ was\\ performed\\ but\\ the\\ adrenal\\ was\\ not\\ visualized\\ on\\ follow\\-up\\ exam\\,\\ nor\\ was\\ a\\ mass\\ visualized\\.\ \(0\)\
-\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
-\-\ adrenal\\:\\ 0\\.19667645701065267\ \(0\)\
-\-\ neuroblastoma\\:\\ 0\\.11096684783627259\ \(0\)\
-\-\ resolving\\:\\ 0\\.06947769508008794\ \(0\)\
-\-\ inpatient\\:\\ 0\\.06690852958229679\ \(0\)\
-\-\ hemorrhage\\:\\ 0\\.05540759579563706\ \(0\)\
-\-\ infant\\:\\ 0\\.05253030908442641\ \(0\)\
-\-\ calcified\\:\\ 0\\.04763667463835124\ \(0\)\
-\-\ wait\\:\\ 0\\.045608824381418465\ \(0\)\
-\-\ visualized\\:\\ 0\\.04492119674408423\ \(0\)\
-\-\ acceptable\\:\\ 0\\.03965888456405382\ \(0\)\
-\-\ follow\\-up\\:\\ 0\\.03610437651223042\ \(0\)\
-\-\ month\\:\\ 0\\.03329369533507285\ \(0\)\
-\-\ neonatal\\:\\ 0\\.03328986344060105\ \(0\)\
-\-\ ultrasound\\:\\ 0\\.032923669935146796\ \(0\)\
-\-\ infants\\:\\ 0\\.03224266767698987\ \(0\)\
-\-\ lung\\:\\ 0\\.03214492363946424\ \(0\)\
-\-\ was\\:\\ 0\\.032086932539405415\ \(0\)\
-\-\ excellent\\:\\ 0\\.0317122908522219\ \(0\)\
-\-\ work\\-up\\:\\ 0\\.03134113232079366\ \(0\)\
-\-\ chronic\\:\\ 0\\.03125960562216883\ \(0\)\
-\-\ performed\\:\\ 0\\.030942575730224926\ \(0\)\
-\-\ mass\\:\\ 0\\.030869117063573107\ \(0\)\
-\-\ one\\:\\ 0\\.030074433549488886\ \(0\)\
-\-\ nor\\:\\ 0\\.02965599468777363\ \(0\)\
-\-\ prognosis\\:\\ 0\\.02632041876083599\ \(0\)\
-\-\ aspiration\\:\\ 0\\.026156017410288654\ \(0\)\
-\-\ so\\:\\ 0\\.02524847232993048\ \(0\)\
-\-\ as\\:\\ 0\\.025180081283651838\ \(0\)\
-\-\ incidentally\\:\\ 0\\.02515503896985191\ \(0\)\
-\-\ under\\:\\ 0\\.024247493889493738\ \(0\)\
-\-\ young\\:\\ 0\\.02416732612441387\ \(0\)\
-\-\ demonstrating\\:\\ 0\\.02408813603938908\ \(0\)\
-\-\ metastases\\:\\ 0\\.023706054870408992\ \(0\)\
-\-\ gland\\:\\ 0\\.02363226422982253\ \(0\)\
-\-\ recurrent\\:\\ 0\\.02341579396834466\ \(0\)\
-\-\ enlargement\\:\\ 0\\.022016677964188932\ \(0\)\
-\-\ vs\\:\\ 0\\.021847272535070118\ \(0\)\
-\-\ calcification\\:\\ 0\\.020141465054916423\ \(0\)\
-\-\ peripheral\\:\\ 0\\.020077489103987774\ \(0\)\
-\-\ palpable\\:\\ 0\\.019666370406492148\ \(0\)\
-\-\ long\\:\\ 0\\.019131308511900803\ \(0\)\
-\-\ liver\\:\\ 0\\.019131308511900803\ \(0\)\
-\-\ white\\:\\ 0\\.018403274108519597\ \(0\)\
-\-\ disease\\:\\ 0\\.018139448587216937\ \(0\)\
-\-\ finding\\:\\ 0\\.017883516266483646\ \(0\)\
-\-\ differential\\:\\ 0\\.017616622268525516\ \(0\)\
-\-\ such\\:\\ 0\\.01734631681714839\ \(0\)\
-\-\ age\\:\\ 0\\.016889028087950043\ \(0\)\
-\-\ ct\\:\\ 0\\.015523424070026532\ \(0\)\
-\-\ a\\:\\ 0\\.015451940330594854\ \(0\)\
-\-\ is\\:\\ 0\\.014604955282720147\ \(0\)\
-\-\ evidence\\:\\ 0\\.014548328463421285\ \(0\)\
-\-\ for\\:\\ 0\\.014203405493039905\ \(0\)\
-\-\ \\,\\:\\ 0\\.014062860546352592\ \(0\)\
-\-\ abdominal\\:\\ 0\\.013869605442351399\ \(0\)\
-\-\ chest\\:\\ 0\\.013277461039334538\ \(0\)\
-\-\ noted\\:\\ 0\\.013152085639302558\ \(0\)\
-\-\ 3\\:\\ 0\\.012993347576016492\ \(0\)\
-\-\ other\\:\\ 0\\.012789860705860056\ \(0\)\
-\-\ diagnosis\\:\\ 0\\.012741683966106624\ \(0\)\
-\-\ it\\:\\ 0\\.012473041458006602\ \(0\)\
-\-\ exam\\:\\ 0\\.012189830778893105\ \(0\)\
-\-\ but\\:\\ 0\\.011834437019698297\ \(0\)\
-\-\ right\\:\\ 0\\.011709502715719697\ \(0\)\
-\-\ no\\:\\ 0\\.011174599359789638\ \(0\)\
-\-\ which\\:\\ 0\\.010358081735341225\ \(0\)\
-\-\ male\\:\\ 0\\.010033802194074501\ \(0\)\
-\-\ on\\:\\ 0\\.009401181978771794\ \(0\)\
-\-\ there\\:\\ 0\\.008257893223798628\ \(0\)\
-\-\ not\\:\\ 0\\.00801830306325932\ \(0\)\
-\-\ history\\:\\ 0\\.007663730764331711\ \(0\)\
-\-\ year\\:\\ 0\\.006208475774499447\ \(0\)\
-\-\ old\\:\\ 0\\.005681393486118537\ \(0\)\
-\-\ the\\:\\ 0\\.005386335767673732\ \(0\)\
-\-\ \\(\\:\\ 0\\.004690660560025069\ \(0\)\
-\-\ of\\:\\ 0\\.004539109121999549\ \(0\)\
-\-\ and\\:\\ 0\\.0035066689428354244\ \(0\)\
-\-\ to\\:\\ 0\\.0027731695353440666\ \(0\)\
-\-\ in\\:\\ 0\\.0027363456502613958\ \(0\)\
-\-\ \\.\\:\\ 0\\.0016136152771521035\ \(0\)\
-\-\ with\\:\\ 0\\.0015195347544141526\ \(0\)\
+Texto: 
+no palpable abdominal mass. the finding was incidentally noted on chest ct for chronic lung disease, inpatient work-up.
+enlargement and peripheral calcification of the right adrenal gland.
+neonatal adrenal hemorrhage
+neuroblastoma vs. resolving adrenal hemorrhage
+3 month old white male infant,inpatient with chronic lung disease and history of recurrent aspiration, for which a ct was performed, demonstrating a calcified right adrenal mass
+the differential diagnosis of a calcified adrenal mass in a young infant is neuroblastoma and resolving adrenal hemorrhage. the prognosis of infants under the age of one year with neuroblastoma is excellent, so, as long as there is no other evidence of neuroblastoma (such as liver metastases, it is acceptable to wait one month for a follow-up ultrasound. ultrasound was performed but the adrenal was not visualized on follow-up exam, nor was a mass visualized.
+
+
+Keywords by value: 
+- adrenal: 0.19667645701065267
+- neuroblastoma: 0.11096684783627259
+- resolving: 0.06947769508008794
+- inpatient: 0.06690852958229679
+- hemorrhage: 0.05540759579563706
+- infant: 0.05253030908442641
+- calcified: 0.04763667463835124
+- wait: 0.045608824381418465
+- visualized: 0.04492119674408423
+- acceptable: 0.03965888456405382
+- follow-up: 0.03610437651223042
+- month: 0.03329369533507285
+- neonatal: 0.03328986344060105
+- ultrasound: 0.032923669935146796
+- infants: 0.03224266767698987
+- lung: 0.03214492363946424
+- was: 0.032086932539405415
+- excellent: 0.0317122908522219
+- work-up: 0.03134113232079366
+- chronic: 0.03125960562216883
+- performed: 0.030942575730224926
+- mass: 0.030869117063573107
+- one: 0.030074433549488886
+- nor: 0.02965599468777363
+- prognosis: 0.02632041876083599
+- aspiration: 0.026156017410288654
+- so: 0.02524847232993048
+- as: 0.025180081283651838
+- incidentally: 0.02515503896985191
+- under: 0.024247493889493738
+- young: 0.02416732612441387
+- demonstrating: 0.02408813603938908
+- metastases: 0.023706054870408992
+- gland: 0.02363226422982253
+- recurrent: 0.02341579396834466
+- enlargement: 0.022016677964188932
+- vs: 0.021847272535070118
+- calcification: 0.020141465054916423
+- peripheral: 0.020077489103987774
+- palpable: 0.019666370406492148
+- long: 0.019131308511900803
+- liver: 0.019131308511900803
+- white: 0.018403274108519597
+- disease: 0.018139448587216937
+- finding: 0.017883516266483646
+- differential: 0.017616622268525516
+- such: 0.01734631681714839
+- age: 0.016889028087950043
+- ct: 0.015523424070026532
+- a: 0.015451940330594854
+- is: 0.014604955282720147
+- evidence: 0.014548328463421285
+- for: 0.014203405493039905
+- ,: 0.014062860546352592
+- abdominal: 0.013869605442351399
+- chest: 0.013277461039334538
+- noted: 0.013152085639302558
+- 3: 0.012993347576016492
+- other: 0.012789860705860056
+- diagnosis: 0.012741683966106624
+- it: 0.012473041458006602
+- exam: 0.012189830778893105
+- but: 0.011834437019698297
+- right: 0.011709502715719697
+- no: 0.011174599359789638
+- which: 0.010358081735341225
+- male: 0.010033802194074501
+- on: 0.009401181978771794
+- there: 0.008257893223798628
+- not: 0.00801830306325932
+- history: 0.007663730764331711
+- year: 0.006208475774499447
+- old: 0.005681393486118537
+- the: 0.005386335767673732
+- (: 0.004690660560025069
+- of: 0.004539109121999549
+- and: 0.0035066689428354244
+- to: 0.0027731695353440666
+- in: 0.0027363456502613958
+- .: 0.0016136152771521035
+- with: 0.0015195347544141526

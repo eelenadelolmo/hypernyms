@@ -1,194 +1,200 @@
-\-\ Texto\\:\\ \ \(0\)\
-\-\ patient\\ had\\ bright\\ red\\ blood\\ per\\ rectum\ \(0\)\
-\-\ inr\\-1\\.2\ \(0\)\
-\-\ cr\\-1\\.2\ \(0\)\
-\-\ bun\\-17\ \(0\)\
-\-\ hgb\\-13\ \(0\)\
-\-\ hct\\-30\ \(0\)\
-\-\ following\\ microcoil\\ embolization\\ of\\ the\\ lower\\ gastrointestinal\\ bleed\\,\\ the\\ patient\\ did\\ well\\,\\ had\\ no\\ further\\ episodes\\ of\\ bleeding\\,\\ and\\ did\\ not\\ require\\ further\\ transfusion\\.\\ \\ the\\ following\\ day\\,\\ colonoscopy\\ was\\ unable\\ to\\ move\\ beyond\\ the\\ splenic\\ flexure\\.\\ \\ a\\ ct\\ study\\ with\\ bowel\\ contrast\\ demonstrated\\ an\\ apple\\ core\\ lesion\\ adjacent\\ to\\ the\\ microcoils\\.\\ \\ pathologic\\ evaluation\\ revealed\\ adenocarcinoma\\.\ \(0\)\
-\-\ the\\ tagged\\ red\\ cell\\ scan\\ showed\\ activity\\ in\\ the\\ left\\ transverse\\ colon\\ and\\ splenic\\ flexure\\ moving\\ both\\ proximally\\ and\\ distally\\ with\\ time\\.\ \(0\)\
-\-\ arteriography\\ demonstrated\\ an\\ abnormal\\ vascular\\ blush\\ in\\ the\\ arterial\\ recta\\ downstream\\ from\\ the\\ ascending\\ branch\\ of\\ the\\ left\\ colic\\ artery\\ and\\ extravasation\\ of\\ contrast\\ material\\ into\\ the\\ bowel\\.\ \(0\)\
-\-\ following\\ embolization\\ with\\ microcoils\\,\\ extravasation\\ was\\ no\\ longer\\ appreciated\\ and\\ the\\ study\\ was\\ concluded\\.\ \(0\)\
-\-\ a\\ ct\\ study\\ with\\ bowel\\ contrast\\ only\\ demonstrates\\ an\\ apple\\ core\\ filling\\ defect\\ adjacent\\ to\\ the\\ microcoils\\.\ \(0\)\
-\-\ adenocarcinoma\ \(192\)\
-\-\ ddx\\ of\\ lower\\ gastrointestinal\\ bleed\\:\ \(0\)\
-\-\ diverticulosis\ \(26\)\
-\-\ hemorrhoids\ \(1\)\
-\-\ neoplasm\ \(440\)\
-\-\ angiodysplasia\\/avm\ \(0\)\
-\-\ vasculitis\ \(67\)\
-\-\ ischemic\\ bowel\ \(6\)\
-\-\ this\\ is\\ a\\ case\\ of\\ an\\ 82\\ year\\ old\\ man\\ presenting\\ with\\ acute\\ onset\\ lower\\ gastrointestinal\\ bleeding\\.\ \(0\)\
-\-\ lower\\ gastrointestinal\\ bleeding\\ can\\ be\\ caused\\ by\\ several\\ factors\\,\\ including\\ diverticulosis\\,\\ neoplasm\\,\\ angiodysplasia\\,\\ and\\ inflammatory\\ bowel\\ disease\\.\\ \\ this\\ patient\\'s\\ lower\\ gi\\ bleed\\ was\\ caused\\ by\\ adenocarcinoma\\ of\\ the\\ colon\\,\\ as\\ demonstrated\\ by\\ ct\\ and\\ confirmed\\ by\\ pathology\\.\\ \\ the\\ patient\\ proceeded\\ to\\ the\\ or\\ for\\ removal\\ of\\ the\\ cancerous\\ lesion\\.\\ \\ had\\ the\\ bleeding\\ vessel\\ not\\ been\\ occluded\\ by\\ transcatheter\\ embolization\\,\\ this\\ patient\\ would\\ have\\ had\\ to\\ undergo\\ two\\ operations\\:\\ one\\ to\\ resect\\ the\\ bowel\\ and\\ one\\ to\\ reanastomose\\ his\\ ostomy\\.\\ \\ because\\ this\\ microcoil\\ embolization\\ procedure\\ was\\ successful\\,\\ the\\ patient\\ received\\ a\\ bowel\\ prep\\ before\\ his\\ resection\\,\\ which\\ allowed\\ him\\ to\\ undergo\\ a\\ single\\ operation\\ instead\\ of\\ two\\ operations\\.\\ \\ thus\\,\\ in\\ addition\\ to\\ stopping\\ this\\ patient\\'s\\ hemorrhage\\,\\ this\\ embolization\\ procedure\\ decreased\\ this\\ patient\\'s\\ risk\\ of\\ surgery\\-\\ and\\ anesthesia\\-related\\ morbidity\\ and\\ mortality\\.\ \(0\)\
-\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
-\-\ microcoils\\:\\ 0\\.07732910898216226\ \(0\)\
-\-\ embolization\\:\\ 0\\.058175972470979824\ \(0\)\
-\-\ bowel\\:\\ 0\\.05485285008828454\ \(0\)\
-\-\ gastrointestinal\\:\\ 0\\.054463571235167554\ \(0\)\
-\-\ microcoil\\:\\ 0\\.051552739321441506\ \(0\)\
-\-\ operations\\:\\ 0\\.04512810605437654\ \(0\)\
-\-\ bleeding\\:\\ 0\\.043386818129425936\ \(0\)\
-\-\ bleed\\:\\ 0\\.042839410449492736\ \(0\)\
-\-\ apple\\:\\ 0\\.03702112148642396\ \(0\)\
-\-\ adenocarcinoma\\:\\ 0\\.03238205653125648\ \(0\)\
-\-\ flexure\\:\\ 0\\.03076123018992447\ \(0\)\
-\-\ extravasation\\:\\ 0\\.03076123018992447\ \(0\)\
-\-\ lower\\:\\ 0\\.02809739867491027\ \(0\)\
-\-\ core\\:\\ 0\\.02770749111146654\ \(0\)\
-\-\ splenic\\:\\ 0\\.027051834397310362\ \(0\)\
-\-\ red\\:\\ 0\\.026074909925595944\ \(0\)\
-\-\ inr\\-1\\.2\\:\\ 0\\.025776369660720753\ \(0\)\
-\-\ cr\\-1\\.2\\:\\ 0\\.025776369660720753\ \(0\)\
-\-\ bun\\-17\\:\\ 0\\.025776369660720753\ \(0\)\
-\-\ hgb\\-13\\:\\ 0\\.025776369660720753\ \(0\)\
-\-\ hct\\-30\\:\\ 0\\.025776369660720753\ \(0\)\
-\-\ \\-hemorrhoids\\:\\ 0\\.025776369660720753\ \(0\)\
-\-\ \\-angiodysplasia\\/avm\\:\\ 0\\.025776369660720753\ \(0\)\
-\-\ reanastomose\\:\\ 0\\.025776369660720753\ \(0\)\
-\-\ anesthesia\\-related\\:\\ 0\\.025776369660720753\ \(0\)\
-\-\ undergo\\:\\ 0\\.025369483096422757\ \(0\)\
-\-\ study\\:\\ 0\\.02466343295491192\ \(0\)\
-\-\ recta\\:\\ 0\\.02374962351873261\ \(0\)\
-\-\ \\-diverticulosis\\:\\ 0\\.02374962351873261\ \(0\)\
-\-\ \\-vasculitis\\:\\ 0\\.02374962351873261\ \(0\)\
-\-\ \\-ischemic\\:\\ 0\\.02374962351873261\ \(0\)\
-\-\ ostomy\\:\\ 0\\.02374962351873261\ \(0\)\
-\-\ downstream\\:\\ 0\\.02256405302718827\ \(0\)\
-\-\ surgery\\-\\:\\ 0\\.02256405302718827\ \(0\)\
-\-\ demonstrated\\:\\ 0\\.0219949121268155\ \(0\)\
-\-\ \\-neoplasm\\:\\ 0\\.021722877376744464\ \(0\)\
-\-\ angiodysplasia\\:\\ 0\\.021722877376744464\ \(0\)\
-\-\ had\\:\\ 0\\.021565494961879626\ \(0\)\
-\-\ following\\:\\ 0\\.02127436628860656\ \(0\)\
-\-\ cancerous\\:\\ 0\\.02107041085243391\ \(0\)\
-\-\ transcatheter\\:\\ 0\\.02107041085243391\ \(0\)\
-\-\ caused\\:\\ 0\\.020961460860303576\ \(0\)\
-\-\ procedure\\:\\ 0\\.02093027170255292\ \(0\)\
-\-\ by\\:\\ 0\\.020802206187790565\ \(0\)\
-\-\ prep\\:\\ 0\\.020537306885200123\ \(0\)\
-\-\ resect\\:\\ 0\\.020086573903249076\ \(0\)\
-\-\ patient\\:\\ 0\\.020037238150090945\ \(0\)\
-\-\ arteriography\\:\\ 0\\.01969613123475632\ \(0\)\
-\-\ this\\:\\ 0\\.01967239910292085\ \(0\)\
-\-\ colon\\:\\ 0\\.019625338653931807\ \(0\)\
-\-\ stopping\\:\\ 0\\.019351736393655783\ \(0\)\
-\-\ colic\\:\\ 0\\.01876497997417581\ \(0\)\
-\-\ blush\\:\\ 0\\.0182765177383186\ \(0\)\
-\-\ did\\:\\ 0\\.018043383865455693\ \(0\)\
-\-\ tagged\\:\\ 0\\.017858094218901426\ \(0\)\
-\-\ concluded\\:\\ 0\\.017858094218901426\ \(0\)\
-\-\ proceeded\\:\\ 0\\.017669385092768178\ \(0\)\
-\-\ diverticulosis\\:\\ 0\\.01701691856845762\ \(0\)\
-\-\ allowed\\:\\ 0\\.01701691856845762\ \(0\)\
-\-\ transfusion\\:\\ 0\\.016874257269716593\ \(0\)\
-\-\ contrast\\:\\ 0\\.016778734094806187\ \(0\)\
-\-\ \\'s\\:\\ 0\\.016526724722517937\ \(0\)\
-\-\ operation\\:\\ 0\\.016249771596330453\ \(0\)\
-\-\ move\\:\\ 0\\.0161394197601233\ \(0\)\
-\-\ occluded\\:\\ 0\\.0161394197601233\ \(0\)\
-\-\ proximally\\:\\ 0\\.01603308161927279\ \(0\)\
-\-\ further\\:\\ 0\\.015891486209358235\ \(0\)\
-\-\ adjacent\\:\\ 0\\.01580021195400156\ \(0\)\
-\-\ instead\\:\\ 0\\.015735471401992256\ \(0\)\
-\-\ 82\\:\\ 0\\.015465373974708586\ \(0\)\
-\-\ moving\\:\\ 0\\.015298244109679497\ \(0\)\
-\-\ morbidity\\:\\ 0\\.015218130150065127\ \(0\)\
-\-\ distally\\:\\ 0\\.014645777585368943\ \(0\)\
-\-\ colonoscopy\\:\\ 0\\.014581511776249716\ \(0\)\
-\-\ beyond\\:\\ 0\\.014518628135252747\ \(0\)\
-\-\ was\\:\\ 0\\.014448501786749807\ \(0\)\
-\-\ his\\:\\ 0\\.01440285981080077\ \(0\)\
-\-\ two\\:\\ 0\\.01431187858254974\ \(0\)\
-\-\ longer\\:\\ 0\\.014112673618135157\ \(0\)\
-\-\ rectum\\:\\ 0\\.013954582327871192\ \(0\)\
-\-\ an\\:\\ 0\\.0138206416875407\ \(0\)\
-\-\ him\\:\\ 0\\.013708725260004112\ \(0\)\
-\-\ mortality\\:\\ 0\\.013615892808791889\ \(0\)\
-\-\ one\\:\\ 0\\.013542288791290316\ \(0\)\
-\-\ branch\\:\\ 0\\.013525917198655181\ \(0\)\
-\-\ ascending\\:\\ 0\\.013395941284705375\ \(0\)\
-\-\ successful\\:\\ 0\\.013312393412061937\ \(0\)\
-\-\ ddx\\:\\ 0\\.013191384008076982\ \(0\)\
-\-\ bright\\:\\ 0\\.012491881993264602\ \(0\)\
-\-\ thus\\:\\ 0\\.01243032231724755\ \(0\)\
-\-\ episodes\\:\\ 0\\.012340346707110842\ \(0\)\
-\-\ appreciated\\:\\ 0\\.012168298461429751\ \(0\)\
-\-\ vessel\\:\\ 0\\.011902299109951017\ \(0\)\
-\-\ \\,\\:\\ 0\\.011873248487600322\ \(0\)\
-\-\ received\\:\\ 0\\.011612079934233646\ \(0\)\
-\-\ unable\\:\\ 0\\.011543812788043612\ \(0\)\
-\-\ require\\:\\ 0\\.011433460951836458\ \(0\)\
-\-\ to\\:\\ 0\\.011238634432710164\ \(0\)\
-\-\ factors\\:\\ 0\\.011224516612707378\ \(0\)\
-\-\ gi\\:\\ 0\\.011224516612707378\ \(0\)\
-\-\ material\\:\\ 0\\.01116463786608884\ \(0\)\
-\-\ per\\:\\ 0\\.01093668014249319\ \(0\)\
-\-\ pathologic\\:\\ 0\\.01093668014249319\ \(0\)\
-\-\ arterial\\:\\ 0\\.01093668014249319\ \(0\)\
-\-\ addition\\:\\ 0\\.010592285301392654\ \(0\)\
-\-\ before\\:\\ 0\\.010576085943569218\ \(0\)\
-\-\ ct\\:\\ 0\\.010485119766596867\ \(0\)\
-\-\ pathology\\:\\ 0\\.010226311199187958\ \(0\)\
-\-\ presenting\\:\\ 0\\.010183624651172892\ \(0\)\
-\-\ lesion\\:\\ 0\\.010178685532166401\ \(0\)\
-\-\ single\\:\\ 0\\.010127661668100677\ \(0\)\
-\-\ filling\\:\\ 0\\.010059181334158868\ \(0\)\
-\-\ transverse\\:\\ 0\\.010018849982894729\ \(0\)\
-\-\ removal\\:\\ 0\\.00985023699502979\ \(0\)\
-\-\ confirmed\\:\\ 0\\.009395905272183617\ \(0\)\
-\-\ activity\\:\\ 0\\.00937440534731444\ \(0\)\
-\-\ defect\\:\\ 0\\.009353062357602124\ \(0\)\
-\-\ risk\\:\\ 0\\.009050311834383293\ \(0\)\
-\-\ including\\:\\ 0\\.009021691932727846\ \(0\)\
-\-\ would\\:\\ 0\\.008891716018778039\ \(0\)\
-\-\ because\\:\\ 0\\.008741281627444584\ \(0\)\
-\-\ inflammatory\\:\\ 0\\.00866466650348545\ \(0\)\
-\-\ neoplasm\\:\\ 0\\.008509229754128444\ \(0\)\
-\-\ hemorrhage\\:\\ 0\\.00831653971981297\ \(0\)\
-\-\ showed\\:\\ 0\\.00819240721615116\ \(0\)\
-\-\ vascular\\:\\ 0\\.00819240721615116\ \(0\)\
-\-\ the\\:\\ 0\\.008084753491440104\ \(0\)\
-\-\ several\\:\\ 0\\.008032435192170723\ \(0\)\
-\-\ revealed\\:\\ 0\\.008018929502532435\ \(0\)\
-\-\ day\\:\\ 0\\.007932631079979326\ \(0\)\
-\-\ onset\\:\\ 0\\.007887196567032602\ \(0\)\
-\-\ resection\\:\\ 0\\.007792151039532803\ \(0\)\
-\-\ only\\:\\ 0\\.007512899586213262\ \(0\)\
-\-\ artery\\:\\ 0\\.007440146175754967\ \(0\)\
-\-\ decreased\\:\\ 0\\.007429112288668302\ \(0\)\
-\-\ evaluation\\:\\ 0\\.007258008174932186\ \(0\)\
-\-\ not\\:\\ 0\\.007221161823052253\ \(0\)\
-\-\ abnormal\\:\\ 0\\.007126000702675179\ \(0\)\
-\-\ time\\:\\ 0\\.00705731352993951\ \(0\)\
-\-\ scan\\:\\ 0\\.006994945790739703\ \(0\)\
-\-\ blood\\:\\ 0\\.0068199154166938575\ \(0\)\
-\-\ been\\:\\ 0\\.0067976458756257045\ \(0\)\
-\-\ cell\\:\\ 0\\.006749241846729492\ \(0\)\
-\-\ \\:\\:\\ 0\\.006609794245559444\ \(0\)\
-\-\ both\\:\\ 0\\.006380701727152402\ \(0\)\
-\-\ acute\\:\\ 0\\.006169237804404957\ \(0\)\
-\-\ into\\:\\ 0\\.0059453987367242885\ \(0\)\
-\-\ man\\:\\ 0\\.0059091574359356695\ \(0\)\
-\-\ a\\:\\ 0\\.0057982427166462175\ \(0\)\
-\-\ can\\:\\ 0\\.0056673168200849985\ \(0\)\
-\-\ well\\:\\ 0\\.00565228348821243\ \(0\)\
-\-\ left\\:\\ 0\\.005591258884636928\ \(0\)\
-\-\ case\\:\\ 0\\.005466387230606055\ \(0\)\
-\-\ demonstrates\\:\\ 0\\.0054579567299800754\ \(0\)\
-\-\ have\\:\\ 0\\.0054106376560382795\ \(0\)\
-\-\ and\\:\\ 0\\.005263421220240305\ \(0\)\
-\-\ no\\:\\ 0\\.005031837138618725\ \(0\)\
-\-\ which\\:\\ 0\\.004664165459773534\ \(0\)\
-\-\ disease\\:\\ 0\\.004084027898291533\ \(0\)\
-\-\ be\\:\\ 0\\.003853089834338974\ \(0\)\
-\-\ as\\:\\ 0\\.0037794663915032972\ \(0\)\
-\-\ from\\:\\ 0\\.0037030284010357082\ \(0\)\
-\-\ in\\:\\ 0\\.0036964669310548676\ \(0\)\
-\-\ of\\:\\ 0\\.0034065438829821177\ \(0\)\
-\-\ or\\:\\ 0\\.0029284290905371565\ \(0\)\
-\-\ year\\:\\ 0\\.002795629442318464\ \(0\)\
-\-\ old\\:\\ 0\\.002558288294918873\ \(0\)\
-\-\ for\\:\\ 0\\.002131895171469927\ \(0\)\
-\-\ with\\:\\ 0\\.00171058736973523\ \(0\)\
-\-\ is\\:\\ 0\\.0016441250829962737\ \(0\)\
-\-\ \\.\\:\\ 0\\.0015569971972520294\ \(0\)\
+Texto: 
+patient had bright red blood per rectum
+
+inr-1.2
+cr-1.2
+bun-17
+hgb-13
+hct-30
+following microcoil embolization of the lower gastrointestinal bleed, the patient did well, had no further episodes of bleeding, and did not require further transfusion.  the following day, colonoscopy was unable to move beyond the splenic flexure.  a ct study with bowel contrast demonstrated an apple core lesion adjacent to the microcoils.  pathologic evaluation revealed adenocarcinoma.
+the tagged red cell scan showed activity in the left transverse colon and splenic flexure moving both proximally and distally with time.
+
+arteriography demonstrated an abnormal vascular blush in the arterial recta downstream from the ascending branch of the left colic artery and extravasation of contrast material into the bowel.
+
+following embolization with microcoils, extravasation was no longer appreciated and the study was concluded.
+
+a ct study with bowel contrast only demonstrates an apple core filling defect adjacent to the microcoils.
+adenocarcinoma
+ddx of lower gastrointestinal bleed:
+-diverticulosis
+-hemorrhoids
+-neoplasm
+-angiodysplasia/avm
+-vasculitis
+-ischemic bowel
+this is a case of an 82 year old man presenting with acute onset lower gastrointestinal bleeding.
+lower gastrointestinal bleeding can be caused by several factors, including diverticulosis, neoplasm, angiodysplasia, and inflammatory bowel disease.  this patient's lower gi bleed was caused by adenocarcinoma of the colon, as demonstrated by ct and confirmed by pathology.  the patient proceeded to the or for removal of the cancerous lesion.  had the bleeding vessel not been occluded by transcatheter embolization, this patient would have had to undergo two operations: one to resect the bowel and one to reanastomose his ostomy.  because this microcoil embolization procedure was successful, the patient received a bowel prep before his resection, which allowed him to undergo a single operation instead of two operations.  thus, in addition to stopping this patient's hemorrhage, this embolization procedure decreased this patient's risk of surgery- and anesthesia-related morbidity and mortality.
+
+
+Keywords by value: 
+- microcoils: 0.07732910898216226
+- embolization: 0.058175972470979824
+- bowel: 0.05485285008828454
+- gastrointestinal: 0.054463571235167554
+- microcoil: 0.051552739321441506
+- operations: 0.04512810605437654
+- bleeding: 0.043386818129425936
+- bleed: 0.042839410449492736
+- apple: 0.03702112148642396
+- adenocarcinoma: 0.03238205653125648
+- flexure: 0.03076123018992447
+- extravasation: 0.03076123018992447
+- lower: 0.02809739867491027
+- core: 0.02770749111146654
+- splenic: 0.027051834397310362
+- red: 0.026074909925595944
+- inr-1.2: 0.025776369660720753
+- cr-1.2: 0.025776369660720753
+- bun-17: 0.025776369660720753
+- hgb-13: 0.025776369660720753
+- hct-30: 0.025776369660720753
+- -hemorrhoids: 0.025776369660720753
+- -angiodysplasia/avm: 0.025776369660720753
+- reanastomose: 0.025776369660720753
+- anesthesia-related: 0.025776369660720753
+- undergo: 0.025369483096422757
+- study: 0.02466343295491192
+- recta: 0.02374962351873261
+- -diverticulosis: 0.02374962351873261
+- -vasculitis: 0.02374962351873261
+- -ischemic: 0.02374962351873261
+- ostomy: 0.02374962351873261
+- downstream: 0.02256405302718827
+- surgery-: 0.02256405302718827
+- demonstrated: 0.0219949121268155
+- -neoplasm: 0.021722877376744464
+- angiodysplasia: 0.021722877376744464
+- had: 0.021565494961879626
+- following: 0.02127436628860656
+- cancerous: 0.02107041085243391
+- transcatheter: 0.02107041085243391
+- caused: 0.020961460860303576
+- procedure: 0.02093027170255292
+- by: 0.020802206187790565
+- prep: 0.020537306885200123
+- resect: 0.020086573903249076
+- patient: 0.020037238150090945
+- arteriography: 0.01969613123475632
+- this: 0.01967239910292085
+- colon: 0.019625338653931807
+- stopping: 0.019351736393655783
+- colic: 0.01876497997417581
+- blush: 0.0182765177383186
+- did: 0.018043383865455693
+- tagged: 0.017858094218901426
+- concluded: 0.017858094218901426
+- proceeded: 0.017669385092768178
+- diverticulosis: 0.01701691856845762
+- allowed: 0.01701691856845762
+- transfusion: 0.016874257269716593
+- contrast: 0.016778734094806187
+- 's: 0.016526724722517937
+- operation: 0.016249771596330453
+- move: 0.0161394197601233
+- occluded: 0.0161394197601233
+- proximally: 0.01603308161927279
+- further: 0.015891486209358235
+- adjacent: 0.01580021195400156
+- instead: 0.015735471401992256
+- 82: 0.015465373974708586
+- moving: 0.015298244109679497
+- morbidity: 0.015218130150065127
+- distally: 0.014645777585368943
+- colonoscopy: 0.014581511776249716
+- beyond: 0.014518628135252747
+- was: 0.014448501786749807
+- his: 0.01440285981080077
+- two: 0.01431187858254974
+- longer: 0.014112673618135157
+- rectum: 0.013954582327871192
+- an: 0.0138206416875407
+- him: 0.013708725260004112
+- mortality: 0.013615892808791889
+- one: 0.013542288791290316
+- branch: 0.013525917198655181
+- ascending: 0.013395941284705375
+- successful: 0.013312393412061937
+- ddx: 0.013191384008076982
+- bright: 0.012491881993264602
+- thus: 0.01243032231724755
+- episodes: 0.012340346707110842
+- appreciated: 0.012168298461429751
+- vessel: 0.011902299109951017
+- ,: 0.011873248487600322
+- received: 0.011612079934233646
+- unable: 0.011543812788043612
+- require: 0.011433460951836458
+- to: 0.011238634432710164
+- factors: 0.011224516612707378
+- gi: 0.011224516612707378
+- material: 0.01116463786608884
+- per: 0.01093668014249319
+- pathologic: 0.01093668014249319
+- arterial: 0.01093668014249319
+- addition: 0.010592285301392654
+- before: 0.010576085943569218
+- ct: 0.010485119766596867
+- pathology: 0.010226311199187958
+- presenting: 0.010183624651172892
+- lesion: 0.010178685532166401
+- single: 0.010127661668100677
+- filling: 0.010059181334158868
+- transverse: 0.010018849982894729
+- removal: 0.00985023699502979
+- confirmed: 0.009395905272183617
+- activity: 0.00937440534731444
+- defect: 0.009353062357602124
+- risk: 0.009050311834383293
+- including: 0.009021691932727846
+- would: 0.008891716018778039
+- because: 0.008741281627444584
+- inflammatory: 0.00866466650348545
+- neoplasm: 0.008509229754128444
+- hemorrhage: 0.00831653971981297
+- showed: 0.00819240721615116
+- vascular: 0.00819240721615116
+- the: 0.008084753491440104
+- several: 0.008032435192170723
+- revealed: 0.008018929502532435
+- day: 0.007932631079979326
+- onset: 0.007887196567032602
+- resection: 0.007792151039532803
+- only: 0.007512899586213262
+- artery: 0.007440146175754967
+- decreased: 0.007429112288668302
+- evaluation: 0.007258008174932186
+- not: 0.007221161823052253
+- abnormal: 0.007126000702675179
+- time: 0.00705731352993951
+- scan: 0.006994945790739703
+- blood: 0.0068199154166938575
+- been: 0.0067976458756257045
+- cell: 0.006749241846729492
+- :: 0.006609794245559444
+- both: 0.006380701727152402
+- acute: 0.006169237804404957
+- into: 0.0059453987367242885
+- man: 0.0059091574359356695
+- a: 0.0057982427166462175
+- can: 0.0056673168200849985
+- well: 0.00565228348821243
+- left: 0.005591258884636928
+- case: 0.005466387230606055
+- demonstrates: 0.0054579567299800754
+- have: 0.0054106376560382795
+- and: 0.005263421220240305
+- no: 0.005031837138618725
+- which: 0.004664165459773534
+- disease: 0.004084027898291533
+- be: 0.003853089834338974
+- as: 0.0037794663915032972
+- from: 0.0037030284010357082
+- in: 0.0036964669310548676
+- of: 0.0034065438829821177
+- or: 0.0029284290905371565
+- year: 0.002795629442318464
+- old: 0.002558288294918873
+- for: 0.002131895171469927
+- with: 0.00171058736973523
+- is: 0.0016441250829962737
+- .: 0.0015569971972520294

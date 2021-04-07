@@ -1,52 +1,55 @@
-\-\ Texto\\:\\ \ \(0\)\
-\-\ mammogram\\ \\-\\ multiple\\ circumscribed\\ masses\\ throughout\\ breast\\.\ \(0\)\
-\-\ ultrasound\\ \\-\\ multiple\\ simple\\ cysts\\ with\\ one\\ solid\\ hypoechoic\\ homogeneous\\ mass\\ extending\\ into\\ ducts\\ with\\ dilatation\\ of\\ the\\ duct\\.\ \(0\)\
-\-\ papillary\\ carcinoma\ \(7\)\
-\-\ papilloma\\ \\-\\ benign\\ vs\\ carcinoma\ \(0\)\
-\-\ 46yo\\ female\\ for\\ routine\\ screening\\ mammogram\\ and\\ called\\ back\\ for\\ additional\\ views\\ for\\ further\\ evaluation\\ of\\ multiple\\ densities\\ on\\ mammogram\\ to\\ include\\ ultrasound\\.\ \(1\)\
-\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
-\-\ mammogram\\:\\ 0\\.22671913206492747\ \(0\)\
-\-\ 46yo\\:\\ 0\\.13766730921028056\ \(0\)\
-\-\ \\-\\:\\ 0\\.09313873518856086\ \(0\)\
-\-\ multiple\\:\\ 0\\.09151555949894588\ \(0\)\
-\-\ ultrasound\\:\\ 0\\.085936358813773\ \(0\)\
-\-\ ducts\\:\\ 0\\.08311009183963308\ \(0\)\
-\-\ carcinoma\\:\\ 0\\.0820992430513853\ \(0\)\
-\-\ densities\\:\\ 0\\.0803047623739115\ \(0\)\
-\-\ called\\:\\ 0\\.07601330650305368\ \(0\)\
-\-\ papillary\\:\\ 0\\.07352850185573376\ \(0\)\
-\-\ papilloma\\:\\ 0\\.07277508215114335\ \(0\)\
-\-\ simple\\:\\ 0\\.0713618345420069\ \(0\)\
-\-\ homogeneous\\:\\ 0\\.06855650507628532\ \(0\)\
-\-\ duct\\:\\ 0\\.06640133261043367\ \(0\)\
-\-\ hypoechoic\\:\\ 0\\.0660260592904809\ \(0\)\
-\-\ circumscribed\\:\\ 0\\.06437692520595888\ \(0\)\
-\-\ dilatation\\:\\ 0\\.06207164117743592\ \(0\)\
-\-\ screening\\:\\ 0\\.061780244558107565\ \(0\)\
-\-\ views\\:\\ 0\\.05969853558037298\ \(0\)\
-\-\ routine\\:\\ 0\\.05807536769745758\ \(0\)\
-\-\ additional\\:\\ 0\\.05807536769745758\ \(0\)\
-\-\ solid\\:\\ 0\\.0577685873306166\ \(0\)\
-\-\ vs\\:\\ 0\\.057025084244081314\ \(0\)\
-\-\ cysts\\:\\ 0\\.05673658106493842\ \(0\)\
-\-\ throughout\\:\\ 0\\.05421605637796486\ \(0\)\
-\-\ breast\\:\\ 0\\.053433185488653424\ \(0\)\
-\-\ benign\\:\\ 0\\.049983904525986465\ \(0\)\
-\-\ masses\\:\\ 0\\.04895919318637436\ \(0\)\
-\-\ extending\\:\\ 0\\.04869015337016605\ \(0\)\
-\-\ back\\:\\ 0\\.0477807853448725\ \(0\)\
-\-\ further\\:\\ 0\\.04605837528475014\ \(0\)\
-\-\ evaluation\\:\\ 0\\.04207184399706454\ \(0\)\
-\-\ include\\:\\ 0\\.04062972013610656\ \(0\)\
-\-\ one\\:\\ 0\\.03924968446289227\ \(0\)\
-\-\ for\\:\\ 0\\.03707329569369738\ \(0\)\
-\-\ into\\:\\ 0\\.034463158778978084\ \(0\)\
-\-\ female\\:\\ 0\\.029775597821149722\ \(0\)\
-\-\ mass\\:\\ 0\\.02014340689741635\ \(0\)\
-\-\ on\\:\\ 0\\.012269339192634374\ \(0\)\
-\-\ to\\:\\ 0\\.0072384425159828176\ \(0\)\
-\-\ with\\:\\ 0\\.003966243257284398\ \(0\)\
-\-\ of\\:\\ 0\\.003949281382982658\ \(0\)\
-\-\ and\\:\\ 0\\.0030510000971562447\ \(0\)\
-\-\ the\\:\\ 0\\.0023432082153156913\ \(0\)\
-\-\ \\.\\:\\ 0\\.0018050611574921835\ \(0\)\
+Texto: 
+mammogram - multiple circumscribed masses throughout breast.
+
+ultrasound - multiple simple cysts with one solid hypoechoic homogeneous mass extending into ducts with dilatation of the duct.
+papillary carcinoma
+papilloma - benign vs carcinoma
+46yo female for routine screening mammogram and called back for additional views for further evaluation of multiple densities on mammogram to include ultrasound.
+
+
+Keywords by value: 
+- mammogram: 0.22671913206492747
+- 46yo: 0.13766730921028056
+- -: 0.09313873518856086
+- multiple: 0.09151555949894588
+- ultrasound: 0.085936358813773
+- ducts: 0.08311009183963308
+- carcinoma: 0.0820992430513853
+- densities: 0.0803047623739115
+- called: 0.07601330650305368
+- papillary: 0.07352850185573376
+- papilloma: 0.07277508215114335
+- simple: 0.0713618345420069
+- homogeneous: 0.06855650507628532
+- duct: 0.06640133261043367
+- hypoechoic: 0.0660260592904809
+- circumscribed: 0.06437692520595888
+- dilatation: 0.06207164117743592
+- screening: 0.061780244558107565
+- views: 0.05969853558037298
+- routine: 0.05807536769745758
+- additional: 0.05807536769745758
+- solid: 0.0577685873306166
+- vs: 0.057025084244081314
+- cysts: 0.05673658106493842
+- throughout: 0.05421605637796486
+- breast: 0.053433185488653424
+- benign: 0.049983904525986465
+- masses: 0.04895919318637436
+- extending: 0.04869015337016605
+- back: 0.0477807853448725
+- further: 0.04605837528475014
+- evaluation: 0.04207184399706454
+- include: 0.04062972013610656
+- one: 0.03924968446289227
+- for: 0.03707329569369738
+- into: 0.034463158778978084
+- female: 0.029775597821149722
+- mass: 0.02014340689741635
+- on: 0.012269339192634374
+- to: 0.0072384425159828176
+- with: 0.003966243257284398
+- of: 0.003949281382982658
+- and: 0.0030510000971562447
+- the: 0.0023432082153156913
+- .: 0.0018050611574921835

@@ -1,74 +1,77 @@
-\-\ Texto\\:\\ \ \(0\)\
-\-\ decreased\\ breath\\ sounds\\ in\\ the\\ right\\ upper\\ lobe\\ on\\ auscultation\\.\ \(0\)\
-\-\ patient\\ underwent\\ partial\\ lung\\ resection\\ and\\ localized\\ radiation\\ therapy\\.\\ \\ no\\ sentinel\\ nodes\\ were\\ identified\\ in\\ surgery\\ and\\ ct\\ of\\ the\\ chest\\ abdomen\\ and\\ pelvis\\ revealed\\ no\\ distant\\ metastatic\\ disease\\.\ \(0\)\
-\-\ chest\\ x\\-ray\\ demonstrates\\ atelectasis\\/collapse\\ of\\ the\\ right\\ upper\\ lobe\\ with\\ right\\ hilar\\ opacity\\/fullness\\.\ \(0\)\
-\-\ ct\\ demonstrates\\ right\\ upper\\ lobe\\ consolidation\\ and\\ a\\ large\\ mass\\ in\\ the\\ right\\ hilum\\.\ \(0\)\
-\-\ bronchogenic\\ carcinoma\ \(18\)\
-\-\ neoplasm\ \(440\)\
-\-\ adenopathy\ \(397\)\
-\-\ infection\ \(713\)\
-\-\ 40\\+\\ pack\\-year\\ smoking\\ history\\ with\\ 2\\ week\\ history\\ of\\ intermittent\\ hemoptysis\\.\\ \\ increased\\ cough\\ in\\ recent\\ months\\.\ \(0\)\
-\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
-\-\ atelectasis\\/collapse\\:\\ 0\\.09378211089326062\ \(0\)\
-\-\ opacity\\/fullness\\:\\ 0\\.09378211089326062\ \(0\)\
-\-\ 40\\+\\:\\ 0\\.08640820471709099\ \(0\)\
-\-\ lobe\\:\\ 0\\.07338272386990001\ \(0\)\
-\-\ pack\\-year\\:\\ 0\\.07308093909479983\ \(0\)\
-\-\ sentinel\\:\\ 0\\.0664954156011166\ \(0\)\
-\-\ upper\\:\\ 0\\.06581107995857612\ \(0\)\
-\-\ hilum\\:\\ 0\\.05480805082805162\ \(0\)\
-\-\ distant\\:\\ 0\\.0530518832710362\ \(0\)\
-\-\ hemoptysis\\:\\ 0\\.05237976729633906\ \(0\)\
-\-\ bronchogenic\\:\\ 0\\.047994184369812\ \(0\)\
-\-\ right\\:\\ 0\\.047959133463320036\ \(0\)\
-\-\ auscultation\\:\\ 0\\.04627245005650973\ \(0\)\
-\-\ smoking\\:\\ 0\\.04591179525144929\ \(0\)\
-\-\ hilar\\:\\ 0\\.045677977094866574\ \(0\)\
-\-\ consolidation\\:\\ 0\\.04556296734907704\ \(0\)\
-\-\ localized\\:\\ 0\\.04427189440222314\ \(0\)\
-\-\ chest\\:\\ 0\\.043504872341649334\ \(0\)\
-\-\ nodes\\:\\ 0\\.04106054645069401\ \(0\)\
-\-\ x\\-ray\\:\\ 0\\.04098589142241054\ \(0\)\
-\-\ adenopathy\\:\\ 0\\.04047748010500258\ \(0\)\
-\-\ demonstrates\\:\\ 0\\.03971534471602523\ \(0\)\
-\-\ intermittent\\:\\ 0\\.03902153135269197\ \(0\)\
-\-\ partial\\:\\ 0\\.036354848111156864\ \(0\)\
-\-\ sounds\\:\\ 0\\.036259006941557224\ \(0\)\
-\-\ cough\\:\\ 0\\.03483249871072417\ \(0\)\
-\-\ breath\\:\\ 0\\.033990612321801575\ \(0\)\
-\-\ pelvis\\:\\ 0\\.03303288730416626\ \(0\)\
-\-\ identified\\:\\ 0\\.032483691927514054\ \(0\)\
-\-\ underwent\\:\\ 0\\.03119357484551297\ \(0\)\
-\-\ neoplasm\\:\\ 0\\.03095911250970136\ \(0\)\
-\-\ week\\:\\ 0\\.0308725044503003\ \(0\)\
-\-\ recent\\:\\ 0\\.030560840945104223\ \(0\)\
-\-\ radiation\\:\\ 0\\.029832460101726983\ \(0\)\
-\-\ revealed\\:\\ 0\\.02917525414751163\ \(0\)\
-\-\ resection\\:\\ 0\\.028350166548087433\ \(0\)\
-\-\ decreased\\:\\ 0\\.027029323433239993\ \(0\)\
-\-\ abdomen\\:\\ 0\\.026929619818039322\ \(0\)\
-\-\ infection\\:\\ 0\\.026425708234817095\ \(0\)\
-\-\ lung\\:\\ 0\\.02633148000253985\ \(0\)\
-\-\ carcinoma\\:\\ 0\\.025765187978892195\ \(0\)\
-\-\ ct\\:\\ 0\\.025431992625362616\ \(0\)\
-\-\ history\\:\\ 0\\.025110947610789008\ \(0\)\
-\-\ months\\:\\ 0\\.0248291627094688\ \(0\)\
-\-\ therapy\\:\\ 0\\.024304689321708647\ \(0\)\
-\-\ metastatic\\:\\ 0\\.022884142591660533\ \(0\)\
-\-\ increased\\:\\ 0\\.022239199806379315\ \(0\)\
-\-\ surgery\\:\\ 0\\.022074458131492287\ \(0\)\
-\-\ were\\:\\ 0\\.020641344007339586\ \(0\)\
-\-\ large\\:\\ 0\\.01987811097692638\ \(0\)\
-\-\ 2\\:\\ 0\\.019575579750112194\ \(0\)\
-\-\ no\\:\\ 0\\.01830732235540004\ \(0\)\
-\-\ in\\:\\ 0\\.01793179702724489\ \(0\)\
-\-\ disease\\:\\ 0\\.014858910012933022\ \(0\)\
-\-\ mass\\:\\ 0\\.012643202201569835\ \(0\)\
-\-\ patient\\:\\ 0\\.009112680116131786\ \(0\)\
-\-\ on\\:\\ 0\\.00770096821665349\ \(0\)\
-\-\ and\\:\\ 0\\.0076599576907326996\ \(0\)\
-\-\ the\\:\\ 0\\.005882948285260672\ \(0\)\
-\-\ a\\:\\ 0\\.0042191468278574605\ \(0\)\
-\-\ of\\:\\ 0\\.003718206408446439\ \(0\)\
-\-\ \\.\\:\\ 0\\.002643582475334297\ \(0\)\
-\-\ with\\:\\ 0\\.0024894505551040368\ \(0\)\
+Texto: 
+decreased breath sounds in the right upper lobe on auscultation.
+patient underwent partial lung resection and localized radiation therapy.  no sentinel nodes were identified in surgery and ct of the chest abdomen and pelvis revealed no distant metastatic disease.
+chest x-ray demonstrates atelectasis/collapse of the right upper lobe with right hilar opacity/fullness.
+
+ct demonstrates right upper lobe consolidation and a large mass in the right hilum.
+bronchogenic carcinoma
+neoplasm
+adenopathy
+infection
+40+ pack-year smoking history with 2 week history of intermittent hemoptysis.  increased cough in recent months.
+
+
+Keywords by value: 
+- atelectasis/collapse: 0.09378211089326062
+- opacity/fullness: 0.09378211089326062
+- 40+: 0.08640820471709099
+- lobe: 0.07338272386990001
+- pack-year: 0.07308093909479983
+- sentinel: 0.0664954156011166
+- upper: 0.06581107995857612
+- hilum: 0.05480805082805162
+- distant: 0.0530518832710362
+- hemoptysis: 0.05237976729633906
+- bronchogenic: 0.047994184369812
+- right: 0.047959133463320036
+- auscultation: 0.04627245005650973
+- smoking: 0.04591179525144929
+- hilar: 0.045677977094866574
+- consolidation: 0.04556296734907704
+- localized: 0.04427189440222314
+- chest: 0.043504872341649334
+- nodes: 0.04106054645069401
+- x-ray: 0.04098589142241054
+- adenopathy: 0.04047748010500258
+- demonstrates: 0.03971534471602523
+- intermittent: 0.03902153135269197
+- partial: 0.036354848111156864
+- sounds: 0.036259006941557224
+- cough: 0.03483249871072417
+- breath: 0.033990612321801575
+- pelvis: 0.03303288730416626
+- identified: 0.032483691927514054
+- underwent: 0.03119357484551297
+- neoplasm: 0.03095911250970136
+- week: 0.0308725044503003
+- recent: 0.030560840945104223
+- radiation: 0.029832460101726983
+- revealed: 0.02917525414751163
+- resection: 0.028350166548087433
+- decreased: 0.027029323433239993
+- abdomen: 0.026929619818039322
+- infection: 0.026425708234817095
+- lung: 0.02633148000253985
+- carcinoma: 0.025765187978892195
+- ct: 0.025431992625362616
+- history: 0.025110947610789008
+- months: 0.0248291627094688
+- therapy: 0.024304689321708647
+- metastatic: 0.022884142591660533
+- increased: 0.022239199806379315
+- surgery: 0.022074458131492287
+- were: 0.020641344007339586
+- large: 0.01987811097692638
+- 2: 0.019575579750112194
+- no: 0.01830732235540004
+- in: 0.01793179702724489
+- disease: 0.014858910012933022
+- mass: 0.012643202201569835
+- patient: 0.009112680116131786
+- on: 0.00770096821665349
+- and: 0.0076599576907326996
+- the: 0.005882948285260672
+- a: 0.0042191468278574605
+- of: 0.003718206408446439
+- .: 0.002643582475334297
+- with: 0.0024894505551040368

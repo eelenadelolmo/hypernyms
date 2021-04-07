@@ -1,78 +1,80 @@
-\-\ Texto\\:\\ \ \(0\)\
-\-\ diffuse\\ low\\ signal\\ on\\ t1\\ and\\ diffuse\\ high\\ signal\\ on\\ t2\\ fat\\ sat\\ images\\ indicating\\ bone\\ marrow\\ edema\\ of\\ the\\ left\\ hip\\.\ \(0\)\
-\-\ transient\\ osteoporosis\\ of\\ the\\ hip\\.\ \(1\)\
-\-\ \\>\\>transient\\ osteoporosis\\ and\\ related\\ conditions\ \(0\)\
-\-\ \\>\\>avascular\\ necrosis\ \(0\)\
-\-\ \\>\\>inflammatory\\ arthropathy\ \(0\)\
-\-\ \\>\\>infection\ \(0\)\
-\-\ \\>\\>osteoid\\ osteoma\ \(0\)\
-\-\ \\>\\>metastasis\ \(0\)\
-\-\ 30\\ year\\ old\\ female\\ 3\\ days\\ postpartum\\ with\\ severe\\ left\\ hip\\ pain\\.\ \(1\)\
-\-\ \\>\\>transient\\ osteoporosis\\ of\\ the\\ hip\\ is\\ an\\ acute\\ transient\\ edema\\ of\\ bone\\ marrow\\.\ \(0\)\
-\-\ \\>\\>the\\ differential\\ diagnosis\\ of\\ bone\\ marrow\\ edema\\ of\\ the\\ hip\\ includes\\ several\\ entitities\\.\\ the\\ main\\ diagnostic\\ dilemma\\ lies\\ between\\ avascular\\ necrosis\\ and\\ transient\\ osteoporosis\\ of\\ the\\ hip\\.\\ \ \(0\)\
-\-\ \\>\\>the\\ absence\\ of\\ subchondral\\ changes\\ favors\\ a\\ transient\\ condition\\ such\\ as\\ transient\\ osteoporosis\\.\ \(0\)\
-\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
-\-\ \\>\\:\\ 0\\.393115502031032\ \(0\)\
-\-\ transient\\:\\ 0\\.24908496748908082\ \(0\)\
-\-\ osteoporosis\\:\\ 0\\.19915124093231204\ \(0\)\
-\-\ hip\\:\\ 0\\.15710180178975963\ \(0\)\
-\-\ marrow\\:\\ 0\\.08675244504503517\ \(0\)\
-\-\ avascular\\:\\ 0\\.07237914707374134\ \(0\)\
-\-\ entitities\\:\\ 0\\.06781168018435768\ \(0\)\
-\-\ edema\\:\\ 0\\.05577515744841441\ \(0\)\
-\-\ dilemma\\:\\ 0\\.05543138855024922\ \(0\)\
-\-\ necrosis\\:\\ 0\\.051893857129918536\ \(0\)\
-\-\ bone\\:\\ 0\\.04900233880292008\ \(0\)\
-\-\ favors\\:\\ 0\\.04808130051157663\ \(0\)\
-\-\ postpartum\\:\\ 0\\.04751123918731723\ \(0\)\
-\-\ lies\\:\\ 0\\.04190940456907711\ \(0\)\
-\-\ osteoid\\:\\ 0\\.04091546817307706\ \(0\)\
-\-\ diffuse\\:\\ 0\\.03980011415962023\ \(0\)\
-\-\ osteoma\\:\\ 0\\.03906037542833177\ \(0\)\
-\-\ sat\\:\\ 0\\.03741749773373131\ \(0\)\
-\-\ arthropathy\\:\\ 0\\.036986040297954055\ \(0\)\
-\-\ signal\\:\\ 0\\.034662682004196595\ \(0\)\
-\-\ subchondral\\:\\ 0\\.03449834679753975\ \(0\)\
-\-\ indicating\\:\\ 0\\.0339138398207865\ \(0\)\
-\-\ conditions\\:\\ 0\\.032701309480758944\ \(0\)\
-\-\ main\\:\\ 0\\.030609511669346313\ \(0\)\
-\-\ condition\\:\\ 0\\.027490549299283507\ \(0\)\
-\-\ absence\\:\\ 0\\.027329447962012407\ \(0\)\
-\-\ related\\:\\ 0\\.027132703025168948\ \(0\)\
-\-\ includes\\:\\ 0\\.026499079967991043\ \(0\)\
-\-\ diagnostic\\:\\ 0\\.026047483038554288\ \(0\)\
-\-\ 30\\:\\ 0\\.025277610280423655\ \(0\)\
-\-\ metastasis\\:\\ 0\\.02460574866384559\ \(0\)\
-\-\ inflammatory\\:\\ 0\\.02279473803224634\ \(0\)\
-\-\ several\\:\\ 0\\.021131483351710674\ \(0\)\
-\-\ differential\\:\\ 0\\.020868921764253305\ \(0\)\
-\-\ t1\\:\\ 0\\.0208345810478788\ \(0\)\
-\-\ between\\:\\ 0\\.0208345810478788\ \(0\)\
-\-\ such\\:\\ 0\\.020548713768006557\ \(0\)\
-\-\ severe\\:\\ 0\\.020225460000507726\ \(0\)\
-\-\ days\\:\\ 0\\.020146725355169058\ \(0\)\
-\-\ fat\\:\\ 0\\.019991633252935643\ \(0\)\
-\-\ infection\\:\\ 0\\.019107819800560054\ \(0\)\
-\-\ changes\\:\\ 0\\.018838830586423543\ \(0\)\
-\-\ t2\\:\\ 0\\.018604528990387323\ \(0\)\
-\-\ low\\:\\ 0\\.018278215791279997\ \(0\)\
-\-\ high\\:\\ 0\\.017988815854437044\ \(0\)\
-\-\ acute\\:\\ 0\\.01622984099312689\ \(0\)\
-\-\ 3\\:\\ 0\\.015392119436204152\ \(0\)\
-\-\ diagnosis\\:\\ 0\\.015093994852157077\ \(0\)\
-\-\ left\\:\\ 0\\.01470931183496792\ \(0\)\
-\-\ female\\:\\ 0\\.013513540549598722\ \(0\)\
-\-\ images\\:\\ 0\\.012609722245764263\ \(0\)\
-\-\ on\\:\\ 0\\.01113678480562197\ \(0\)\
-\-\ as\\:\\ 0\\.009942903891493292\ \(0\)\
-\-\ an\\:\\ 0\\.009089729725267153\ \(0\)\
-\-\ the\\:\\ 0\\.008507648289453896\ \(0\)\
-\-\ pain\\:\\ 0\\.008027755134851806\ \(0\)\
-\-\ year\\:\\ 0\\.00735465591748396\ \(0\)\
-\-\ of\\:\\ 0\\.007169464664491596\ \(0\)\
-\-\ old\\:\\ 0\\.006730266129709651\ \(0\)\
-\-\ is\\:\\ 0\\.004325313679882505\ \(0\)\
-\-\ and\\:\\ 0\\.00415405397843581\ \(0\)\
-\-\ a\\:\\ 0\\.003050767706296933\ \(0\)\
-\-\ \\.\\:\\ 0\\.0019115134821647995\ \(0\)\
-\-\ with\\:\\ 0\\.0009000321237683826\ \(0\)\
+Texto: 
+diffuse low signal on t1 and diffuse high signal on t2 fat sat images indicating bone marrow edema of the left hip.
+transient osteoporosis of the hip.
+>>transient osteoporosis and related conditions
+>>avascular necrosis
+>>inflammatory arthropathy
+>>infection
+>>osteoid osteoma
+>>metastasis
+30 year old female 3 days postpartum with severe left hip pain.
+>>transient osteoporosis of the hip is an acute transient edema of bone marrow.
+>>the differential diagnosis of bone marrow edema of the hip includes several entitities. the main diagnostic dilemma lies between avascular necrosis and transient osteoporosis of the hip. 
+>>the absence of subchondral changes favors a transient condition such as transient osteoporosis.
+
+
+Keywords by value: 
+- >: 0.393115502031032
+- transient: 0.24908496748908082
+- osteoporosis: 0.19915124093231204
+- hip: 0.15710180178975963
+- marrow: 0.08675244504503517
+- avascular: 0.07237914707374134
+- entitities: 0.06781168018435768
+- edema: 0.05577515744841441
+- dilemma: 0.05543138855024922
+- necrosis: 0.051893857129918536
+- bone: 0.04900233880292008
+- favors: 0.04808130051157663
+- postpartum: 0.04751123918731723
+- lies: 0.04190940456907711
+- osteoid: 0.04091546817307706
+- diffuse: 0.03980011415962023
+- osteoma: 0.03906037542833177
+- sat: 0.03741749773373131
+- arthropathy: 0.036986040297954055
+- signal: 0.034662682004196595
+- subchondral: 0.03449834679753975
+- indicating: 0.0339138398207865
+- conditions: 0.032701309480758944
+- main: 0.030609511669346313
+- condition: 0.027490549299283507
+- absence: 0.027329447962012407
+- related: 0.027132703025168948
+- includes: 0.026499079967991043
+- diagnostic: 0.026047483038554288
+- 30: 0.025277610280423655
+- metastasis: 0.02460574866384559
+- inflammatory: 0.02279473803224634
+- several: 0.021131483351710674
+- differential: 0.020868921764253305
+- t1: 0.0208345810478788
+- between: 0.0208345810478788
+- such: 0.020548713768006557
+- severe: 0.020225460000507726
+- days: 0.020146725355169058
+- fat: 0.019991633252935643
+- infection: 0.019107819800560054
+- changes: 0.018838830586423543
+- t2: 0.018604528990387323
+- low: 0.018278215791279997
+- high: 0.017988815854437044
+- acute: 0.01622984099312689
+- 3: 0.015392119436204152
+- diagnosis: 0.015093994852157077
+- left: 0.01470931183496792
+- female: 0.013513540549598722
+- images: 0.012609722245764263
+- on: 0.01113678480562197
+- as: 0.009942903891493292
+- an: 0.009089729725267153
+- the: 0.008507648289453896
+- pain: 0.008027755134851806
+- year: 0.00735465591748396
+- of: 0.007169464664491596
+- old: 0.006730266129709651
+- is: 0.004325313679882505
+- and: 0.00415405397843581
+- a: 0.003050767706296933
+- .: 0.0019115134821647995
+- with: 0.0009000321237683826

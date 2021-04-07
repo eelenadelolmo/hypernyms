@@ -1,88 +1,90 @@
-\-\ Texto\\:\\ \ \(0\)\
-\-\ elevated\\ wbc\\ count\\ with\\ left\\ shift\\.\\ diffuse\\ rales\\,\\ mild\\ without\\ rhonchi\\ on\\ auscultation\\.\ \(0\)\
-\-\ i\\.v\\.\\ antibiotics\ \(0\)\
-\-\ hospitalization\\,\\ serial\\ cts\ \(0\)\
-\-\ treatment\\ of\\ underlying\\ sickle\\ cell\\ anemia\ \(0\)\
-\-\ multiple\\ nodular\\ and\\ hazy\\ opacities\\ of\\ lung\\ bases\\.\\ no\\ frank\\ lobar\\ consolidations\\.\\ non\\-contrast\\ study\\-cannot\\ determine\\ presence\\ of\\ adenopathy\\ well\\.\ \(0\)\
-\-\ pulmonary\\ septic\\ emboli\ \(0\)\
-\-\ vasculitis\ \(67\)\
-\-\ pulmonary\\ metastases\ \(3\)\
-\-\ multiple\\ pulmonary\\ emboli\\ of\\ fungal\\ origin\ \(1\)\
-\-\ three\\ days\\ of\\ fever\\ and\\ new\\ ruq\\ pain\\,\\ with\\ a\\ history\\ of\\ sickle\\ cell\\ anemia\\.\ \(0\)\
-\-\ source\\ of\\ septic\\ emboli\\ never\\ definitively\\ identified\\.\ \(0\)\
-\-\ sickle\\ cell\\ anemia\\ predisposed\\ this\\ patient\\ to\\ possibility\\ of\\ a\\ number\\ of\\ infections\\,\\ including\\ musculo\\-skeletal\\ sources\\.\ \(0\)\
-\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
-\-\ sickle\\:\\ 0\\.13114371838178882\ \(0\)\
-\-\ emboli\\:\\ 0\\.12849621338722422\ \(0\)\
-\-\ anemia\\:\\ 0\\.11808806201385172\ \(0\)\
-\-\ septic\\:\\ 0\\.0830515756237068\ \(0\)\
-\-\ study\\-\\:\\ 0\\.08162517059228239\ \(0\)\
-\-\ musculo\\-skeletal\\:\\ 0\\.08162517059228239\ \(0\)\
-\-\ pulmonary\\:\\ 0\\.06934861972833509\ \(0\)\
-\-\ i\\.v\\:\\ 0\\.06878911169302414\ \(0\)\
-\-\ consolidations\\:\\ 0\\.06672296769937405\ \(0\)\
-\-\ cell\\:\\ 0\\.06411779754393017\ \(0\)\
-\-\ cts\\:\\ 0\\.05718945457732629\ \(0\)\
-\-\ predisposed\\:\\ 0\\.05718945457732629\ \(0\)\
-\-\ hazy\\:\\ 0\\.05539171370287298\ \(0\)\
-\-\ sources\\:\\ 0\\.05436184671111165\ \(0\)\
-\-\ definitively\\:\\ 0\\.05219874623720881\ \(0\)\
-\-\ hospitalization\\:\\ 0\\.04925010057870387\ \(0\)\
-\-\ rhonchi\\:\\ 0\\.04770330349848937\ \(0\)\
-\-\ never\\:\\ 0\\.04658637768563182\ \(0\)\
-\-\ lobar\\:\\ 0\\.04558979746162844\ \(0\)\
-\-\ bases\\:\\ 0\\.045219377696686776\ \(0\)\
-\-\ frank\\:\\ 0\\.045039580605417316\ \(0\)\
-\-\ ruq\\:\\ 0\\.04452023369198173\ \(0\)\
-\-\ rales\\:\\ 0\\.043561523701788764\ \(0\)\
-\-\ source\\:\\ 0\\.04177271602557711\ \(0\)\
-\-\ opacities\\:\\ 0\\.041285274048860246\ \(0\)\
-\-\ vasculitis\\:\\ 0\\.04048951080996464\ \(0\)\
-\-\ auscultation\\:\\ 0\\.04027416949362884\ \(0\)\
-\-\ determine\\:\\ 0\\.04006372272439221\ \(0\)\
-\-\ possibility\\:\\ 0\\.039960266237372526\ \(0\)\
-\-\ serial\\:\\ 0\\.039459643818203306\ \(0\)\
-\-\ number\\:\\ 0\\.039459643818203306\ \(0\)\
-\-\ non\\-contrast\\:\\ 0\\.0386215511557882\ \(0\)\
-\-\ fungal\\:\\ 0\\.03835823693985733\ \(0\)\
-\-\ infections\\:\\ 0\\.03761044660055679\ \(0\)\
-\-\ shift\\:\\ 0\\.03753096749230316\ \(0\)\
-\-\ origin\\:\\ 0\\.0362748020742184\ \(0\)\
-\-\ adenopathy\\:\\ 0\\.03523039935065039\ \(0\)\
-\-\ count\\:\\ 0\\.034404185149465735\ \(0\)\
-\-\ underlying\\:\\ 0\\.03390950768026592\ \(0\)\
-\-\ metastases\\:\\ 0\\.03380307824113874\ \(0\)\
-\-\ multiple\\:\\ 0\\.03332974080517164\ \(0\)\
-\-\ nodular\\:\\ 0\\.03318897969548066\ \(0\)\
-\-\ antibiotics\\:\\ 0\\.02971959590435649\ \(0\)\
-\-\ wbc\\:\\ 0\\.02884328565347974\ \(0\)\
-\-\ presence\\:\\ 0\\.02872023720793638\ \(0\)\
-\-\ including\\:\\ 0\\.02856869112030485\ \(0\)\
-\-\ identified\\:\\ 0\\.02827284297394742\ \(0\)\
-\-\ new\\:\\ 0\\.027572110896301464\ \(0\)\
-\-\ elevated\\:\\ 0\\.026845521864435767\ \(0\)\
-\-\ fever\\:\\ 0\\.026770950245851535\ \(0\)\
-\-\ three\\:\\ 0\\.026672446558767687\ \(0\)\
-\-\ days\\:\\ 0\\.02425068792751831\ \(0\)\
-\-\ diffuse\\:\\ 0\\.023953772410882545\ \(0\)\
-\-\ lung\\:\\ 0\\.02291814000221061\ \(0\)\
-\-\ mild\\:\\ 0\\.020835680128992007\ \(0\)\
-\-\ without\\:\\ 0\\.018629751540353335\ \(0\)\
-\-\ can\\:\\ 0\\.017946503263602497\ \(0\)\
-\-\ well\\:\\ 0\\.017898897712672692\ \(0\)\
-\-\ treatment\\:\\ 0\\.01601497184815636\ \(0\)\
-\-\ not\\:\\ 0\\.011433506219832735\ \(0\)\
-\-\ history\\:\\ 0\\.010927912386176698\ \(0\)\
-\-\ \\,\\:\\ 0\\.010026298722862495\ \(0\)\
-\-\ of\\:\\ 0\\.009708650066499035\ \(0\)\
-\-\ pain\\:\\ 0\\.009663038588247543\ \(0\)\
-\-\ this\\:\\ 0\\.008899418641797528\ \(0\)\
-\-\ left\\:\\ 0\\.008852826567341803\ \(0\)\
-\-\ no\\:\\ 0\\.007967075469479647\ \(0\)\
-\-\ patient\\:\\ 0\\.007931406767744332\ \(0\)\
-\-\ a\\:\\ 0\\.007344440774418541\ \(0\)\
-\-\ on\\:\\ 0\\.006702694558939149\ \(0\)\
-\-\ to\\:\\ 0\\.003954334337435058\ \(0\)\
-\-\ and\\:\\ 0\\.0033335001061521935\ \(0\)\
-\-\ \\.\\:\\ 0\\.0029582946747788563\ \(0\)\
-\-\ with\\:\\ 0\\.0021667440016646246\ \(0\)\
+Texto: 
+elevated wbc count with left shift. diffuse rales, mild without rhonchi on auscultation.
+i.v. antibiotics
+hospitalization, serial cts
+treatment of underlying sickle cell anemia
+multiple nodular and hazy opacities of lung bases. no frank lobar consolidations. non-contrast study-cannot determine presence of adenopathy well.
+pulmonary septic emboli
+vasculitis
+pulmonary metastases
+multiple pulmonary emboli of fungal origin
+three days of fever and new ruq pain, with a history of sickle cell anemia.
+source of septic emboli never definitively identified.
+sickle cell anemia predisposed this patient to possibility of a number of infections, including musculo-skeletal sources.
+
+
+Keywords by value: 
+- sickle: 0.13114371838178882
+- emboli: 0.12849621338722422
+- anemia: 0.11808806201385172
+- septic: 0.0830515756237068
+- study-: 0.08162517059228239
+- musculo-skeletal: 0.08162517059228239
+- pulmonary: 0.06934861972833509
+- i.v: 0.06878911169302414
+- consolidations: 0.06672296769937405
+- cell: 0.06411779754393017
+- cts: 0.05718945457732629
+- predisposed: 0.05718945457732629
+- hazy: 0.05539171370287298
+- sources: 0.05436184671111165
+- definitively: 0.05219874623720881
+- hospitalization: 0.04925010057870387
+- rhonchi: 0.04770330349848937
+- never: 0.04658637768563182
+- lobar: 0.04558979746162844
+- bases: 0.045219377696686776
+- frank: 0.045039580605417316
+- ruq: 0.04452023369198173
+- rales: 0.043561523701788764
+- source: 0.04177271602557711
+- opacities: 0.041285274048860246
+- vasculitis: 0.04048951080996464
+- auscultation: 0.04027416949362884
+- determine: 0.04006372272439221
+- possibility: 0.039960266237372526
+- serial: 0.039459643818203306
+- number: 0.039459643818203306
+- non-contrast: 0.0386215511557882
+- fungal: 0.03835823693985733
+- infections: 0.03761044660055679
+- shift: 0.03753096749230316
+- origin: 0.0362748020742184
+- adenopathy: 0.03523039935065039
+- count: 0.034404185149465735
+- underlying: 0.03390950768026592
+- metastases: 0.03380307824113874
+- multiple: 0.03332974080517164
+- nodular: 0.03318897969548066
+- antibiotics: 0.02971959590435649
+- wbc: 0.02884328565347974
+- presence: 0.02872023720793638
+- including: 0.02856869112030485
+- identified: 0.02827284297394742
+- new: 0.027572110896301464
+- elevated: 0.026845521864435767
+- fever: 0.026770950245851535
+- three: 0.026672446558767687
+- days: 0.02425068792751831
+- diffuse: 0.023953772410882545
+- lung: 0.02291814000221061
+- mild: 0.020835680128992007
+- without: 0.018629751540353335
+- can: 0.017946503263602497
+- well: 0.017898897712672692
+- treatment: 0.01601497184815636
+- not: 0.011433506219832735
+- history: 0.010927912386176698
+- ,: 0.010026298722862495
+- of: 0.009708650066499035
+- pain: 0.009663038588247543
+- this: 0.008899418641797528
+- left: 0.008852826567341803
+- no: 0.007967075469479647
+- patient: 0.007931406767744332
+- a: 0.007344440774418541
+- on: 0.006702694558939149
+- to: 0.003954334337435058
+- and: 0.0033335001061521935
+- .: 0.0029582946747788563
+- with: 0.0021667440016646246

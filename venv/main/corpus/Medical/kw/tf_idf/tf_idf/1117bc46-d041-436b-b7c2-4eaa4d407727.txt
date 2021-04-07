@@ -1,109 +1,111 @@
-\-\ Texto\\:\\ \ \(0\)\
-\-\ severe\\ dyspnea\\ and\\ inspiratory\\ stridor\\.\ \(0\)\
-\-\ the\\ patient\\ needed\\ a\\ percutaneus\\ tracheostomy\\ at\\ er\\ and\\ subsequently\\ underwent\\ to\\ open\\ repair\\.\ \(0\)\
-\-\ mri\\ shows\\ severe\\ subglottic\\ tracheal\\ stenosis\\ with\\ fluid\\ level\\ and\\ scarring\\,\\ sagital\\ images\\ demonstrate\\ the\\ tract\\ created\\ by\\ an\\ emergency\\ tracheostomy\\.\\ esophagogram\\ permormed\\ later\\ revealed\\ a\\ traction\\ diverticulum\\.\ \(0\)\
-\-\ postintubation\\ tracheal\\ stenosis\\.\ \(0\)\
-\-\ subglottic\\ neoplasm\\.\ \(0\)\
-\-\ wegener\\ granulomatosis\\.\ \(0\)\
-\-\ polychondritis\\.\ \(0\)\
-\-\ sarcoidosis\\.\ \(14\)\
-\-\ 28\\ y\\.o\\.\\ man\\ with\\ history\\ of\\ prior\\ head\\ trauma\\ which\\ required\\ prolonged\\ treatment\\ in\\ icu\\.\\ he\\ was\\ just\\ discharged\\ 15\\ days\\ before\\ and\\ now\\ presents\\ with\\ severe\\ inspiratory\\ \\ stridor\\.\ \(0\)\
-\-\ in\\ this\\ patient\\ tracheal\\ stenosis\\ presented\\ 15\\ days\\ after\\ he\\ was\\ discharged\\ because\\ of\\ head\\ trauma\\ that\\ required\\ endotracheal\\ intubation\\ for\\ one\\ week\\.\\ he\\ did\\ not\\ show\\ other\\ previous\\ symptoms\\ than\\ mild\\ dyspnea\\,\\ not\\ referred\\ to\\ his\\ treating\\ physician\\.presenting\\ later\\ with\\ progresive\\ dyspnea\\ and\\ acute\\ inspiratory\\ wheezing\\.\ \(0\)\
-\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
-\-\ inspiratory\\:\\ 0\\.1267007243210465\ \(0\)\
-\-\ tracheal\\:\\ 0\\.10662507491507604\ \(0\)\
-\-\ subglottic\\:\\ 0\\.0894364033328416\ \(0\)\
-\-\ tracheostomy\\:\\ 0\\.08253335436303091\ \(0\)\
-\-\ dyspnea\\:\\ 0\\.08198987431420608\ \(0\)\
-\-\ stridor\\:\\ 0\\.07735778338659706\ \(0\)\
-\-\ stenosis\\:\\ 0\\.06785388411144663\ \(0\)\
-\-\ permormed\\:\\ 0\\.059564313675449315\ \(0\)\
-\-\ postintubation\\:\\ 0\\.059564313675449315\ \(0\)\
-\-\ polychondritis\\:\\ 0\\.059564313675449315\ \(0\)\
-\-\ physician\\.presenting\\:\\ 0\\.059564313675449315\ \(0\)\
-\-\ progresive\\:\\ 0\\.059564313675449315\ \(0\)\
-\-\ percutaneus\\:\\ 0\\.054880886779774006\ \(0\)\
-\-\ severe\\:\\ 0\\.053296820271608196\ \(0\)\
-\-\ discharged\\:\\ 0\\.05294160302723766\ \(0\)\
-\-\ esophagogram\\:\\ 0\\.050197459884098704\ \(0\)\
-\-\ he\\:\\ 0\\.04832812179796661\ \(0\)\
-\-\ 15\\:\\ 0\\.04605873854738351\ \(0\)\
-\-\ later\\:\\ 0\\.041694846499904376\ \(0\)\
-\-\ required\\:\\ 0\\.04156385826739546\ \(0\)\
-\-\ created\\:\\ 0\\.040034774770745504\ \(0\)\
-\-\ endotracheal\\:\\ 0\\.03932287939467911\ \(0\)\
-\-\ wegener\\:\\ 0\\.036812314824189354\ \(0\)\
-\-\ intubation\\:\\ 0\\.036812314824189354\ \(0\)\
-\-\ sagital\\:\\ 0\\.03636169742892806\ \(0\)\
-\-\ granulomatosis\\:\\ 0\\.03614717919707278\ \(0\)\
-\-\ treating\\:\\ 0\\.03573755337398876\ \(0\)\
-\-\ days\\:\\ 0\\.03539289589421592\ \(0\)\
-\-\ traction\\:\\ 0\\.03447261052204183\ \(0\)\
-\-\ icu\\:\\ 0\\.03447261052204183\ \(0\)\
-\-\ scarring\\:\\ 0\\.033695115050523\ \(0\)\
-\-\ wheezing\\:\\ 0\\.03340755008823384\ \(0\)\
-\-\ head\\:\\ 0\\.03275136906180941\ \(0\)\
-\-\ trauma\\:\\ 0\\.03158119975348553\ \(0\)\
-\-\ prolonged\\:\\ 0\\.030667920979394886\ \(0\)\
-\-\ diverticulum\\:\\ 0\\.027503961456778706\ \(0\)\
-\-\ 28\\:\\ 0\\.027216396494489547\ \(0\)\
-\-\ subsequently\\:\\ 0\\.02617483784700807\ \(0\)\
-\-\ sarcoidosis\\:\\ 0\\.02607899571868404\ \(0\)\
-\-\ open\\:\\ 0\\.025663774237510633\ \(0\)\
-\-\ tract\\:\\ 0\\.02557486826063556\ \(0\)\
-\-\ needed\\:\\ 0\\.025147082588917135\ \(0\)\
-\-\ before\\:\\ 0\\.024439333734464008\ \(0\)\
-\-\ just\\:\\ 0\\.024111448323013596\ \(0\)\
-\-\ repair\\:\\ 0\\.023120884308203627\ \(0\)\
-\-\ previous\\:\\ 0\\.02242128512617092\ \(0\)\
-\-\ er\\:\\ 0\\.022149892952351095\ \(0\)\
-\-\ emergency\\:\\ 0\\.0218634364728397\ \(0\)\
-\-\ referred\\:\\ 0\\.021787374617943524\ \(0\)\
-\-\ did\\:\\ 0\\.020847423249952188\ \(0\)\
-\-\ because\\:\\ 0\\.020199448085040865\ \(0\)\
-\-\ underwent\\:\\ 0\\.019812135374852834\ \(0\)\
-\-\ now\\:\\ 0\\.019737267497984105\ \(0\)\
-\-\ neoplasm\\:\\ 0\\.01966322010751303\ \(0\)\
-\-\ week\\:\\ 0\\.019608212286001542\ \(0\)\
-\-\ revealed\\:\\ 0\\.018530228985581713\ \(0\)\
-\-\ show\\:\\ 0\\.01772402658440288\ \(0\)\
-\-\ not\\:\\ 0\\.01668673880732345\ \(0\)\
-\-\ y\\.o\\:\\ 0\\.016664725895856082\ \(0\)\
-\-\ level\\:\\ 0\\.01664114207869549\ \(0\)\
-\-\ his\\:\\ 0\\.01664114207869549\ \(0\)\
-\-\ fluid\\:\\ 0\\.016409723679755767\ \(0\)\
-\-\ shows\\:\\ 0\\.01587414661978972\ \(0\)\
-\-\ presented\\:\\ 0\\.015738902939340604\ \(0\)\
-\-\ one\\:\\ 0\\.015646833671017865\ \(0\)\
-\-\ mild\\:\\ 0\\.01520441522926444\ \(0\)\
-\-\ than\\:\\ 0\\.015128708479177527\ \(0\)\
-\-\ prior\\:\\ 0\\.014825086298664619\ \(0\)\
-\-\ symptoms\\:\\ 0\\.014389577546609049\ \(0\)\
-\-\ acute\\:\\ 0\\.014255941412881725\ \(0\)\
-\-\ man\\:\\ 0\\.013654944885743238\ \(0\)\
-\-\ was\\:\\ 0\\.013355101651536309\ \(0\)\
-\-\ other\\:\\ 0\\.013308368572313843\ \(0\)\
-\-\ demonstrate\\:\\ 0\\.013286838792790816\ \(0\)\
-\-\ mri\\:\\ 0\\.013265377398071756\ \(0\)\
-\-\ after\\:\\ 0\\.011945954071683801\ \(0\)\
-\-\ presents\\:\\ 0\\.011794893888567068\ \(0\)\
-\-\ treatment\\:\\ 0\\.011686601078384373\ \(0\)\
-\-\ patient\\:\\ 0\\.011575566634005243\ \(0\)\
-\-\ images\\:\\ 0\\.011076107378036177\ \(0\)\
-\-\ which\\:\\ 0\\.01077800396785506\ \(0\)\
-\-\ that\\:\\ 0\\.009972842760532591\ \(0\)\
-\-\ by\\:\\ 0\\.009613992589492398\ \(0\)\
-\-\ an\\:\\ 0\\.007984222055977905\ \(0\)\
-\-\ history\\:\\ 0\\.007974422552074888\ \(0\)\
-\-\ at\\:\\ 0\\.007822724005619142\ \(0\)\
-\-\ this\\:\\ 0\\.006494170360230629\ \(0\)\
-\-\ and\\:\\ 0\\.006081385328791164\ \(0\)\
-\-\ to\\:\\ 0\\.005771190654634949\ \(0\)\
-\-\ in\\:\\ 0\\.0056945571640575\ \(0\)\
-\-\ a\\:\\ 0\\.0053594567813324496\ \(0\)\
-\-\ for\\:\\ 0\\.004926406409748075\ \(0\)\
-\-\ \\,\\:\\ 0\\.003658244128611992\ \(0\)\
-\-\ \\.\\:\\ 0\\.0033580642254246477\ \(0\)\
-\-\ with\\:\\ 0\\.0031622750294564793\ \(0\)\
-\-\ the\\:\\ 0\\.0018682335770760243\ \(0\)\
-\-\ of\\:\\ 0\\.0015743756864593033\ \(0\)\
+Texto: 
+severe dyspnea and inspiratory stridor.
+the patient needed a percutaneus tracheostomy at er and subsequently underwent to open repair.
+mri shows severe subglottic tracheal stenosis with fluid level and scarring, sagital images demonstrate the tract created by an emergency tracheostomy. esophagogram permormed later revealed a traction diverticulum.
+postintubation tracheal stenosis.
+subglottic neoplasm.
+wegener granulomatosis.
+polychondritis.
+sarcoidosis.
+28 y.o. man with history of prior head trauma which required prolonged treatment in icu. he was just discharged 15 days before and now presents with severe inspiratory  stridor.
+in this patient tracheal stenosis presented 15 days after he was discharged because of head trauma that required endotracheal intubation for one week. he did not show other previous symptoms than mild dyspnea, not referred to his treating physician.presenting later with progresive dyspnea and acute inspiratory wheezing.
+
+
+Keywords by value: 
+- inspiratory: 0.1267007243210465
+- tracheal: 0.10662507491507604
+- subglottic: 0.0894364033328416
+- tracheostomy: 0.08253335436303091
+- dyspnea: 0.08198987431420608
+- stridor: 0.07735778338659706
+- stenosis: 0.06785388411144663
+- permormed: 0.059564313675449315
+- postintubation: 0.059564313675449315
+- polychondritis: 0.059564313675449315
+- physician.presenting: 0.059564313675449315
+- progresive: 0.059564313675449315
+- percutaneus: 0.054880886779774006
+- severe: 0.053296820271608196
+- discharged: 0.05294160302723766
+- esophagogram: 0.050197459884098704
+- he: 0.04832812179796661
+- 15: 0.04605873854738351
+- later: 0.041694846499904376
+- required: 0.04156385826739546
+- created: 0.040034774770745504
+- endotracheal: 0.03932287939467911
+- wegener: 0.036812314824189354
+- intubation: 0.036812314824189354
+- sagital: 0.03636169742892806
+- granulomatosis: 0.03614717919707278
+- treating: 0.03573755337398876
+- days: 0.03539289589421592
+- traction: 0.03447261052204183
+- icu: 0.03447261052204183
+- scarring: 0.033695115050523
+- wheezing: 0.03340755008823384
+- head: 0.03275136906180941
+- trauma: 0.03158119975348553
+- prolonged: 0.030667920979394886
+- diverticulum: 0.027503961456778706
+- 28: 0.027216396494489547
+- subsequently: 0.02617483784700807
+- sarcoidosis: 0.02607899571868404
+- open: 0.025663774237510633
+- tract: 0.02557486826063556
+- needed: 0.025147082588917135
+- before: 0.024439333734464008
+- just: 0.024111448323013596
+- repair: 0.023120884308203627
+- previous: 0.02242128512617092
+- er: 0.022149892952351095
+- emergency: 0.0218634364728397
+- referred: 0.021787374617943524
+- did: 0.020847423249952188
+- because: 0.020199448085040865
+- underwent: 0.019812135374852834
+- now: 0.019737267497984105
+- neoplasm: 0.01966322010751303
+- week: 0.019608212286001542
+- revealed: 0.018530228985581713
+- show: 0.01772402658440288
+- not: 0.01668673880732345
+- y.o: 0.016664725895856082
+- level: 0.01664114207869549
+- his: 0.01664114207869549
+- fluid: 0.016409723679755767
+- shows: 0.01587414661978972
+- presented: 0.015738902939340604
+- one: 0.015646833671017865
+- mild: 0.01520441522926444
+- than: 0.015128708479177527
+- prior: 0.014825086298664619
+- symptoms: 0.014389577546609049
+- acute: 0.014255941412881725
+- man: 0.013654944885743238
+- was: 0.013355101651536309
+- other: 0.013308368572313843
+- demonstrate: 0.013286838792790816
+- mri: 0.013265377398071756
+- after: 0.011945954071683801
+- presents: 0.011794893888567068
+- treatment: 0.011686601078384373
+- patient: 0.011575566634005243
+- images: 0.011076107378036177
+- which: 0.01077800396785506
+- that: 0.009972842760532591
+- by: 0.009613992589492398
+- an: 0.007984222055977905
+- history: 0.007974422552074888
+- at: 0.007822724005619142
+- this: 0.006494170360230629
+- and: 0.006081385328791164
+- to: 0.005771190654634949
+- in: 0.0056945571640575
+- a: 0.0053594567813324496
+- for: 0.004926406409748075
+- ,: 0.003658244128611992
+- .: 0.0033580642254246477
+- with: 0.0031622750294564793
+- the: 0.0018682335770760243
+- of: 0.0015743756864593033

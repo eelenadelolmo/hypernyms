@@ -1,35 +1,37 @@
-\-\ Texto\\:\\ \ \(0\)\
-\-\ palpable\\ mass\\ left\\ upper\\ quadrant\\ of\\ abdomen\ \(0\)\
-\-\ nephrectomy\ \(68\)\
-\-\ solid\\,\\ homogeneous\\,\\ enhancing\\ left\\ intrarenal\\ mass\ \(0\)\
-\-\ mesoblastic\\ nephroma\ \(7\)\
-\-\ mesoblastic\\ nephroma\ \(7\)\
-\-\ wilms\\ tumo\ \(0\)\
-\-\ neuroblastoma\\ \ \(26\)\
-\-\ fetal\\ rhabdoid\\ tumor\ \(0\)\
-\-\ newborn\\ with\\ abdominal\\ mass\ \(0\)\
-\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
-\-\ mesoblastic\\:\\ 0\\.44907179215244414\ \(0\)\
-\-\ nephroma\\:\\ 0\\.42204078494523317\ \(0\)\
-\-\ tumo\\:\\ 0\\.2938506141322166\ \(0\)\
-\-\ intrarenal\\:\\ 0\\.21709777769908176\ \(0\)\
-\-\ rhabdoid\\:\\ 0\\.21102039247261659\ \(0\)\
-\-\ wilms\\:\\ 0\\.1763052633116779\ \(0\)\
-\-\ nephrectomy\\:\\ 0\\.1615075503471459\ \(0\)\
-\-\ newborn\\:\\ 0\\.15522117802022753\ \(0\)\
-\-\ fetal\\:\\ 0\\.1449870101770638\ \(0\)\
-\-\ neuroblastoma\\:\\ 0\\.14240745472321648\ \(0\)\
-\-\ homogeneous\\:\\ 0\\.13482779331669445\ \(0\)\
-\-\ mass\\:\\ 0\\.11884610069475646\ \(0\)\
-\-\ solid\\:\\ 0\\.11361155508354598\ \(0\)\
-\-\ palpable\\:\\ 0\\.10095403475332636\ \(0\)\
-\-\ quadrant\\:\\ 0\\.10024586446620182\ \(0\)\
-\-\ enhancing\\:\\ 0\\.08933178442949197\ \(0\)\
-\-\ abdomen\\:\\ 0\\.08437947542985655\ \(0\)\
-\-\ abdominal\\:\\ 0\\.07119730793740384\ \(0\)\
-\-\ upper\\:\\ 0\\.06873601684562394\ \(0\)\
-\-\ tumor\\:\\ 0\\.06640774338702704\ \(0\)\
-\-\ left\\:\\ 0\\.06374035128486098\ \(0\)\
-\-\ \\,\\:\\ 0\\.01804733770115249\ \(0\)\
-\-\ with\\:\\ 0\\.0039001392029963246\ \(0\)\
-\-\ of\\:\\ 0\\.0038834600265996145\ \(0\)\
+Texto: 
+palpable mass left upper quadrant of abdomen
+nephrectomy
+solid, homogeneous, enhancing left intrarenal mass
+mesoblastic nephroma
+mesoblastic nephroma
+wilms tumo
+neuroblastoma 
+fetal rhabdoid tumor
+newborn with abdominal mass
+
+
+Keywords by value: 
+- mesoblastic: 0.44907179215244414
+- nephroma: 0.42204078494523317
+- tumo: 0.2938506141322166
+- intrarenal: 0.21709777769908176
+- rhabdoid: 0.21102039247261659
+- wilms: 0.1763052633116779
+- nephrectomy: 0.1615075503471459
+- newborn: 0.15522117802022753
+- fetal: 0.1449870101770638
+- neuroblastoma: 0.14240745472321648
+- homogeneous: 0.13482779331669445
+- mass: 0.11884610069475646
+- solid: 0.11361155508354598
+- palpable: 0.10095403475332636
+- quadrant: 0.10024586446620182
+- enhancing: 0.08933178442949197
+- abdomen: 0.08437947542985655
+- abdominal: 0.07119730793740384
+- upper: 0.06873601684562394
+- tumor: 0.06640774338702704
+- left: 0.06374035128486098
+- ,: 0.01804733770115249
+- with: 0.0039001392029963246
+- of: 0.0038834600265996145

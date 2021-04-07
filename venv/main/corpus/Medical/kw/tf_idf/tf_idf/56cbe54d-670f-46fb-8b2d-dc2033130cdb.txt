@@ -1,69 +1,71 @@
-\-\ Texto\\:\\ \ \(0\)\
-\-\ patient\\ reportedly\\ tachycardic\\ with\\ right\\ heart\\ strain\\ on\\ ekg\\.\\ \ \(0\)\
-\-\ positive\\ d\\-dimer\\.\ \(0\)\
-\-\ this\\ patient\\ underwent\\ thrombectomy\\ and\\ placed\\ on\\ long\\-term\\ anticoagulation\\.\ \(0\)\
-\-\ contrast\\ enhanced\\ ct\\ scan\\ through\\ the\\ chest\\ demonstrates\\ a\\ large\\ intraluminal\\ filling\\ defect\\ within\\ the\\ left\\ main\\ pulmonary\\ artery\\ as\\ well\\ as\\ a\\ filling\\ defect\\ within\\ the\\ right\\ interlobar\\ artery\\ consistent\\ with\\ embolism\\.\ \(0\)\
-\-\ pulmonary\\ embolus\ \(16\)\
-\-\ pulmonary\\ embolism\ \(77\)\
-\-\ middle\\ aged\\ female\\ with\\ history\\ of\\ metastatic\\ breast\\ cancer\\ who\\ presents\\ to\\ emergency\\ room\\ with\\ acute\\ onset\\ of\\ shortness\\ of\\ breath\\.\ \(0\)\
-\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
-\-\ embolism\\:\\ 0\\.10074191411414127\ \(0\)\
-\-\ pulmonary\\:\\ 0\\.09023675820072519\ \(0\)\
-\-\ interlobar\\:\\ 0\\.08950872364875431\ \(0\)\
-\-\ filling\\:\\ 0\\.08289734978993574\ \(0\)\
-\-\ thrombectomy\\:\\ 0\\.07732076085744732\ \(0\)\
-\-\ defect\\:\\ 0\\.07707824882650426\ \(0\)\
-\-\ d\\-dimer\\:\\ 0\\.07627243101419877\ \(0\)\
-\-\ reportedly\\:\\ 0\\.06843402660285963\ \(0\)\
-\-\ aged\\:\\ 0\\.06792126016407894\ \(0\)\
-\-\ tachycardic\\:\\ 0\\.06650218744532735\ \(0\)\
-\-\ strain\\:\\ 0\\.0633755465358685\ \(0\)\
-\-\ ekg\\:\\ 0\\.06207176840767292\ \(0\)\
-\-\ embolus\\:\\ 0\\.06207176840767292\ \(0\)\
-\-\ artery\\:\\ 0\\.06131397571345058\ \(0\)\
-\-\ intraluminal\\:\\ 0\\.058376223017040686\ \(0\)\
-\-\ long\\-term\\:\\ 0\\.05688161279210118\ \(0\)\
-\-\ anticoagulation\\:\\ 0\\.051996491007665464\ \(0\)\
-\-\ main\\:\\ 0\\.04794260863873519\ \(0\)\
-\-\ room\\:\\ 0\\.044263311656190824\ \(0\)\
-\-\ enhanced\\:\\ 0\\.04405377258737313\ \(0\)\
-\-\ shortness\\:\\ 0\\.043315212034797275\ \(0\)\
-\-\ placed\\:\\ 0\\.04167388131680103\ \(0\)\
-\-\ within\\:\\ 0\\.03928027490086944\ \(0\)\
-\-\ emergency\\:\\ 0\\.038985404794943085\ \(0\)\
-\-\ breath\\:\\ 0\\.03849539226806444\ \(0\)\
-\-\ breast\\:\\ 0\\.037982625829283766\ \(0\)\
-\-\ middle\\:\\ 0\\.037652517706535396\ \(0\)\
-\-\ heart\\:\\ 0\\.035772043962756316\ \(0\)\
-\-\ underwent\\:\\ 0\\.03532766307805084\ \(0\)\
-\-\ cancer\\:\\ 0\\.033845364630900786\ \(0\)\
-\-\ positive\\:\\ 0\\.03340826012390502\ \(0\)\
-\-\ onset\\:\\ 0\\.032499050914760845\ \(0\)\
-\-\ as\\:\\ 0\\.031146445925159708\ \(0\)\
-\-\ through\\:\\ 0\\.029240446005070708\ \(0\)\
-\-\ scan\\:\\ 0\\.028822547716059983\ \(0\)\
-\-\ who\\:\\ 0\\.02684299288122533\ \(0\)\
-\-\ metastatic\\:\\ 0\\.02591698076645892\ \(0\)\
-\-\ acute\\:\\ 0\\.025420232880801148\ \(0\)\
-\-\ consistent\\:\\ 0\\.02524455745579763\ \(0\)\
-\-\ chest\\:\\ 0\\.024635289157319502\ \(0\)\
-\-\ well\\:\\ 0\\.023290131963477723\ \(0\)\
-\-\ contrast\\:\\ 0\\.023045490202504886\ \(0\)\
-\-\ large\\:\\ 0\\.022512559419651565\ \(0\)\
-\-\ demonstrates\\:\\ 0\\.022489412068110677\ \(0\)\
-\-\ right\\:\\ 0\\.02172606527976908\ \(0\)\
-\-\ female\\:\\ 0\\.02116578640298595\ \(0\)\
-\-\ presents\\:\\ 0\\.021031858982023203\ \(0\)\
-\-\ patient\\:\\ 0\\.020640769419672002\ \(0\)\
-\-\ on\\:\\ 0\\.017443156924468146\ \(0\)\
-\-\ ct\\:\\ 0\\.014401248836048711\ \(0\)\
-\-\ history\\:\\ 0\\.014219452261531125\ \(0\)\
-\-\ this\\:\\ 0\\.011579966425471483\ \(0\)\
-\-\ left\\:\\ 0\\.011519340593649575\ \(0\)\
-\-\ a\\:\\ 0\\.009556621730568706\ \(0\)\
-\-\ with\\:\\ 0\\.005638755474211554\ \(0\)\
-\-\ to\\:\\ 0\\.005145398896903449\ \(0\)\
-\-\ the\\:\\ 0\\.004996962097721414\ \(0\)\
-\-\ of\\:\\ 0\\.0042109807517345214\ \(0\)\
-\-\ and\\:\\ 0\\.0021687832015929937\ \(0\)\
-\-\ \\.\\:\\ 0\\.0021385262709244742\ \(0\)\
+Texto: 
+patient reportedly tachycardic with right heart strain on ekg. 
+positive d-dimer.
+this patient underwent thrombectomy and placed on long-term anticoagulation.
+contrast enhanced ct scan through the chest demonstrates a large intraluminal filling defect within the left main pulmonary artery as well as a filling defect within the right interlobar artery consistent with embolism.
+pulmonary embolus
+pulmonary embolism
+middle aged female with history of metastatic breast cancer who presents to emergency room with acute onset of shortness of breath.
+
+
+Keywords by value: 
+- embolism: 0.10074191411414127
+- pulmonary: 0.09023675820072519
+- interlobar: 0.08950872364875431
+- filling: 0.08289734978993574
+- thrombectomy: 0.07732076085744732
+- defect: 0.07707824882650426
+- d-dimer: 0.07627243101419877
+- reportedly: 0.06843402660285963
+- aged: 0.06792126016407894
+- tachycardic: 0.06650218744532735
+- strain: 0.0633755465358685
+- ekg: 0.06207176840767292
+- embolus: 0.06207176840767292
+- artery: 0.06131397571345058
+- intraluminal: 0.058376223017040686
+- long-term: 0.05688161279210118
+- anticoagulation: 0.051996491007665464
+- main: 0.04794260863873519
+- room: 0.044263311656190824
+- enhanced: 0.04405377258737313
+- shortness: 0.043315212034797275
+- placed: 0.04167388131680103
+- within: 0.03928027490086944
+- emergency: 0.038985404794943085
+- breath: 0.03849539226806444
+- breast: 0.037982625829283766
+- middle: 0.037652517706535396
+- heart: 0.035772043962756316
+- underwent: 0.03532766307805084
+- cancer: 0.033845364630900786
+- positive: 0.03340826012390502
+- onset: 0.032499050914760845
+- as: 0.031146445925159708
+- through: 0.029240446005070708
+- scan: 0.028822547716059983
+- who: 0.02684299288122533
+- metastatic: 0.02591698076645892
+- acute: 0.025420232880801148
+- consistent: 0.02524455745579763
+- chest: 0.024635289157319502
+- well: 0.023290131963477723
+- contrast: 0.023045490202504886
+- large: 0.022512559419651565
+- demonstrates: 0.022489412068110677
+- right: 0.02172606527976908
+- female: 0.02116578640298595
+- presents: 0.021031858982023203
+- patient: 0.020640769419672002
+- on: 0.017443156924468146
+- ct: 0.014401248836048711
+- history: 0.014219452261531125
+- this: 0.011579966425471483
+- left: 0.011519340593649575
+- a: 0.009556621730568706
+- with: 0.005638755474211554
+- to: 0.005145398896903449
+- the: 0.004996962097721414
+- of: 0.0042109807517345214
+- and: 0.0021687832015929937
+- .: 0.0021385262709244742

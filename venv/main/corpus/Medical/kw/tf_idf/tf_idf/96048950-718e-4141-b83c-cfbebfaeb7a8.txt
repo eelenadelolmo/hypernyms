@@ -1,57 +1,59 @@
-\-\ Texto\\:\\ \ \(0\)\
-\-\ patient\\ underwent\\ transvaginal\\ hysterectomy\ \(0\)\
-\-\ ultrasound\\ demonstrated\\ heterogenous\\ uterus\\.\\ \\ there\\ were\\ no\\ fibroids\\.\\ \\ mri\\ of\\ the\\ pelvis\\ confirmed\\ suspicion\\ of\\ adenomyosis\\.\\ \\ t2\\ sequence\\ demonstrates\\ thickening\\ of\\ junctional\\ zone\\ and\\ increased\\ focal\\ signal\\ through\\ out\\ the\\ myometrium\\.\ \(0\)\
-\-\ adenomyosis\ \(10\)\
-\-\ 36\\ yo\\ female\\ presents\\ with\\ intermenstrual\\ bleeding\\ for\\ several\\ month\\.\\ \\ the\\ bleeding\\ is\\ now\\ increased\\ in\\ the\\ amount\\ with\\ cramping\\.\ \(0\)\
-\-\ see\\ factoid\ \(116\)\
-\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
-\-\ adenomyosis\\:\\ 0\\.200550723474004\ \(0\)\
-\-\ intermenstrual\\:\\ 0\\.13774247537447654\ \(0\)\
-\-\ bleeding\\:\\ 0\\.11592415468955992\ \(0\)\
-\-\ myometrium\\:\\ 0\\.1052512012857291\ \(0\)\
-\-\ junctional\\:\\ 0\\.1034108413535981\ \(0\)\
-\-\ cramping\\:\\ 0\\.09891580897153902\ \(0\)\
-\-\ transvaginal\\:\\ 0\\.0954291909822545\ \(0\)\
-\-\ hysterectomy\\:\\ 0\\.08875037825058357\ \(0\)\
-\-\ fibroids\\:\\ 0\\.08567677990298897\ \(0\)\
-\-\ sequence\\:\\ 0\\.07570666422522464\ \(0\)\
-\-\ zone\\:\\ 0\\.07091956726485067\ \(0\)\
-\-\ suspicion\\:\\ 0\\.06927330920769713\ \(0\)\
-\-\ heterogenous\\:\\ 0\\.06851096289254975\ \(0\)\
-\-\ 36\\:\\ 0\\.0669206082939569\ \(0\)\
-\-\ increased\\:\\ 0\\.06532764943123924\ \(0\)\
-\-\ uterus\\:\\ 0\\.06293791689350707\ \(0\)\
-\-\ amount\\:\\ 0\\.05575772424696894\ \(0\)\
-\-\ confirmed\\:\\ 0\\.05020936879823121\ \(0\)\
-\-\ pelvis\\:\\ 0\\.0485170532279942\ \(0\)\
-\-\ factoid\\:\\ 0\\.04680367958772089\ \(0\)\
-\-\ underwent\\:\\ 0\\.045815563054347176\ \(0\)\
-\-\ now\\:\\ 0\\.04564243108908824\ \(0\)\
-\-\ thickening\\:\\ 0\\.04525975890145862\ \(0\)\
-\-\ out\\:\\ 0\\.044125841825914315\ \(0\)\
-\-\ several\\:\\ 0\\.042923325558162306\ \(0\)\
-\-\ yo\\:\\ 0\\.040177367551605656\ \(0\)\
-\-\ month\\:\\ 0\\.04005647720000952\ \(0\)\
-\-\ see\\:\\ 0\\.039847143925449816\ \(0\)\
-\-\ ultrasound\\:\\ 0\\.03961129039072349\ \(0\)\
-\-\ demonstrated\\:\\ 0\\.039178437225890116\ \(0\)\
-\-\ focal\\:\\ 0\\.03813271256466253\ \(0\)\
-\-\ through\\:\\ 0\\.03792120341282607\ \(0\)\
-\-\ t2\\:\\ 0\\.03779044951172425\ \(0\)\
-\-\ signal\\:\\ 0\\.03520428641051217\ \(0\)\
-\-\ mri\\:\\ 0\\.030676185233040935\ \(0\)\
-\-\ were\\:\\ 0\\.03031697401078002\ \(0\)\
-\-\ demonstrates\\:\\ 0\\.02916595627583103\ \(0\)\
-\-\ female\\:\\ 0\\.0274493792413724\ \(0\)\
-\-\ presents\\:\\ 0\\.027275692117311342\ \(0\)\
-\-\ there\\:\\ 0\\.019870555569765448\ \(0\)\
-\-\ no\\:\\ 0\\.013444439854746906\ \(0\)\
-\-\ patient\\:\\ 0\\.013384248920568562\ \(0\)\
-\-\ for\\:\\ 0\\.011392314822542424\ \(0\)\
-\-\ is\\:\\ 0\\.008785793412261338\ \(0\)\
-\-\ the\\:\\ 0\\.008640580293976612\ \(0\)\
-\-\ in\\:\\ 0\\.006584331720941483\ \(0\)\
-\-\ of\\:\\ 0\\.0054611156624057074\ \(0\)\
-\-\ with\\:\\ 0\\.0036563805028090542\ \(0\)\
-\-\ \\.\\:\\ 0\\.0033280815091262135\ \(0\)\
-\-\ and\\:\\ 0\\.0028126407145659133\ \(0\)\
+Texto: 
+patient underwent transvaginal hysterectomy
+ultrasound demonstrated heterogenous uterus.  there were no fibroids.  mri of the pelvis confirmed suspicion of adenomyosis.  t2 sequence demonstrates thickening of junctional zone and increased focal signal through out the myometrium.
+adenomyosis
+36 yo female presents with intermenstrual bleeding for several month.  the bleeding is now increased in the amount with cramping.
+see factoid
+
+
+Keywords by value: 
+- adenomyosis: 0.200550723474004
+- intermenstrual: 0.13774247537447654
+- bleeding: 0.11592415468955992
+- myometrium: 0.1052512012857291
+- junctional: 0.1034108413535981
+- cramping: 0.09891580897153902
+- transvaginal: 0.0954291909822545
+- hysterectomy: 0.08875037825058357
+- fibroids: 0.08567677990298897
+- sequence: 0.07570666422522464
+- zone: 0.07091956726485067
+- suspicion: 0.06927330920769713
+- heterogenous: 0.06851096289254975
+- 36: 0.0669206082939569
+- increased: 0.06532764943123924
+- uterus: 0.06293791689350707
+- amount: 0.05575772424696894
+- confirmed: 0.05020936879823121
+- pelvis: 0.0485170532279942
+- factoid: 0.04680367958772089
+- underwent: 0.045815563054347176
+- now: 0.04564243108908824
+- thickening: 0.04525975890145862
+- out: 0.044125841825914315
+- several: 0.042923325558162306
+- yo: 0.040177367551605656
+- month: 0.04005647720000952
+- see: 0.039847143925449816
+- ultrasound: 0.03961129039072349
+- demonstrated: 0.039178437225890116
+- focal: 0.03813271256466253
+- through: 0.03792120341282607
+- t2: 0.03779044951172425
+- signal: 0.03520428641051217
+- mri: 0.030676185233040935
+- were: 0.03031697401078002
+- demonstrates: 0.02916595627583103
+- female: 0.0274493792413724
+- presents: 0.027275692117311342
+- there: 0.019870555569765448
+- no: 0.013444439854746906
+- patient: 0.013384248920568562
+- for: 0.011392314822542424
+- is: 0.008785793412261338
+- the: 0.008640580293976612
+- in: 0.006584331720941483
+- of: 0.0054611156624057074
+- with: 0.0036563805028090542
+- .: 0.0033280815091262135
+- and: 0.0028126407145659133

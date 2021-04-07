@@ -1,209 +1,214 @@
-\-\ Texto\\:\\ \ \(0\)\
-\-\ respiratory\\ distress\\,\\ cyanosis\\,\\ tachypnea\ \(0\)\
-\-\ pt\\ was\\ intubated\\ and\\ ventilated\\ with\\ 100\\%\\ o2\\ and\\ transferred\\ to\\ nicu\\ to\\ receive\\ further\\ care\\.\\ \\ patient\\ requiring\\ further\\ workup\\ and\\ evaluation\\ for\\ surgical\\ intervention\\ and\\/or\\ ecmo\\.\ \(0\)\
-\-\ mri\\ at\\ 33\\ weeks\\ revealed\\ cdh\\ with\\ small\\ bowel\\ and\\ stomach\\ herniation\\ into\\ left\\ hemithorax\\ without\\ evidence\\ of\\ liver\\ herniation\\.\\ \\ left\\ pulmonary\\ hypoplasia\\ secondary\\ to\\ cdh\\ and\\ herniation\\ of\\ abdominal\\ contents\\.\ \(0\)\
-\-\ portable\\ chest\\/abd\\ plain\\ film\\ status\\ post\\ delivery\\ \\@\\ 0455\\ shows\\ patient\\ has\\ et\\ and\\ og\\ tubes\\ with\\ adequate\\ placement\\ of\\ each\\.\\ \\ og\\ tube\\ continues\\ into\\ stomach\\ with\\ gastric\\ bubble\\ visualized\\ in\\ left\\ chest\\,\\ no\\ left\\ hemidiaphragm\\ visualized\\.\\ \\ trachea\\ deviated\\ to\\ the\\ right\\ w\\/\\ mediastinal\\ right\\-shift\\ present\\.\\ \\ questionable\\ right\\-sided\\ pneumothorax\\ at\\ base\\ as\\ well\\.\\ \\ left\\ hemithorax\\ filled\\ w\\/\\ radio\\-opaque\\ mass\\ c\\/w\\ herniated\\ abdominal\\ contents\\.\\ \\ \ \(0\)\
-\-\ follow\\ up\\ portable\\ chest\\/abd\\ radiograph\\ \\@\\ 0530\\ revealed\\ similar\\ findings\\ as\\ seen\\ at\\ birth\\,\\ with\\ umbilical\\ artery\\ catheter\\ in\\ descending\\ aorta\\ and\\ umbilical\\ vein\\ catheter\\ in\\ ivc\\ \\-\\ both\\ in\\ good\\ position\\.\\ \\ of\\ note\\,\\ course\\ of\\ umbilical\\ vein\\ catheter\\ appears\\ to\\ deviate\\ significantly\\ to\\ the\\ left\\ in\\ the\\ abdomen\\ before\\ returning\\ to\\ normal\\ location\\ of\\ ivc\\.\\ \\ this\\ is\\ likely\\ due\\ to\\ altered\\ anatomy\\ secondary\\ to\\ cdh\\.\ \(0\)\
-\-\ left\\ lateral\\ decubitus\\ film\\ \\@\\ 0615\\ shows\\ right\\-sided\\ pneumonthorax\\ present\\,\\ no\\ new\\ changes\\ otherwise\\.\ \(0\)\
-\-\ congenital\\ diaphragmatic\\ hernia\\,\\ left\\-sided\\ bochdalek\\ \\(posterolateral\\)\ \(0\)\
-\-\ diaphragmatic\\ eventration\\,\\ congenital\\ cystic\\ adenomatoid\\ malformation\\,\\ bronchopulmonary\\ sequestration\\,\\ bronchogenic\\ cysts\\,\\ bronchial\\ atresia\\,\\ enteric\\ cysts\\,\\ and\\ teratomas\ \(1\)\
-\-\ newborn\\ male\\ baby\\ status\\-post\\ induced\\ vaginal\\ delivery\\ in\\ early\\ am\\ at\\ 37\\ weeks\\ ega\\ with\\ bochdalek\\ \\(posterolateral\\)\\ left\\-sided\\ congenital\\ diaphragmatic\\ hernia\\ \\(cdh\\)\\ first\\ discovered\\ on\\ ultrasound\\ exam\\ at\\ 30\\ weeks\\ ega\\ and\\ diagnosed\\ with\\ in\\ utero\\ mri\\ \\@\\ 33\\ weeks\\ ega\\.\ \(0\)\
-\-\ this\\ is\\ a\\ classic\\ presentation\\ of\\ congenital\\ diaphragmatic\\ hernia\\.\\ \\ this\\ patient\\ does\\ not\\ have\\ liver\\ herniation\\ which\\ is\\ a\\ negative\\ prognostic\\ sign\\.\\ \\ however\\,\\ the\\ patient\\'s\\ overall\\ lung\\ area\\ is\\ greatly\\ reduced\\ and\\ may\\ be\\ a\\ negative\\ prognostic\\ factor\\ for\\ this\\ patient\\.\ \(0\)\
-\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
-\-\ cdh\\:\\ 0\\.08539338003271962\ \(0\)\
-\-\ \\@\\:\\ 0\\.07184562145408001\ \(0\)\
-\-\ diaphragmatic\\:\\ 0\\.05613439989933531\ \(0\)\
-\-\ ega\\:\\ 0\\.05265058812814041\ \(0\)\
-\-\ chest\\/abd\\:\\ 0\\.05066389898831321\ \(0\)\
-\-\ umbilical\\:\\ 0\\.047908809361594966\ \(0\)\
-\-\ herniation\\:\\ 0\\.043734288849083244\ \(0\)\
-\-\ og\\:\\ 0\\.041414255813404584\ \(0\)\
-\-\ bochdalek\\:\\ 0\\.03803617153235792\ \(0\)\
-\-\ congenital\\:\\ 0\\.03592136746715446\ \(0\)\
-\-\ catheter\\:\\ 0\\.03539645019529452\ \(0\)\
-\-\ prognostic\\:\\ 0\\.03289928718740335\ \(0\)\
-\-\ hernia\\:\\ 0\\.03224435007528165\ \(0\)\
-\-\ portable\\:\\ 0\\.029183039113121433\ \(0\)\
-\-\ weeks\\:\\ 0\\.02787675582644998\ \(0\)\
-\-\ posterolateral\\:\\ 0\\.027846129370197568\ \(0\)\
-\-\ hemithorax\\:\\ 0\\.027738703318403585\ \(0\)\
-\-\ contents\\:\\ 0\\.027738703318403585\ \(0\)\
-\-\ ivc\\:\\ 0\\.026165738775432084\ \(0\)\
-\-\ 33\\:\\ 0\\.025479837869497795\ \(0\)\
-\-\ w\\/\\:\\ 0\\.025479837869497795\ \(0\)\
-\-\ 0455\\:\\ 0\\.025331949494156604\ \(0\)\
-\-\ right\\-shift\\:\\ 0\\.025331949494156604\ \(0\)\
-\-\ 0530\\:\\ 0\\.025331949494156604\ \(0\)\
-\-\ deviate\\:\\ 0\\.025331949494156604\ \(0\)\
-\-\ 0615\\:\\ 0\\.025331949494156604\ \(0\)\
-\-\ pneumonthorax\\:\\ 0\\.025331949494156604\ \(0\)\
-\-\ delivery\\:\\ 0\\.025199434627144735\ \(0\)\
-\-\ left\\-sided\\:\\ 0\\.024197403666542567\ \(0\)\
-\-\ right\\-sided\\:\\ 0\\.023971997269109917\ \(0\)\
-\-\ ecmo\\:\\ 0\\.023340147251168255\ \(0\)\
-\-\ ventilated\\:\\ 0\\.02217501763016778\ \(0\)\
-\-\ radio\\-opaque\\:\\ 0\\.02217501763016778\ \(0\)\
-\-\ stomach\\:\\ 0\\.021715895526165915\ \(0\)\
-\-\ visualized\\:\\ 0\\.019878920398244168\ \(0\)\
-\-\ cysts\\:\\ 0\\.019238265993283717\ \(0\)\
-\-\ left\\:\\ 0\\.019232002542845985\ \(0\)\
-\-\ eventration\\:\\ 0\\.01901808576617896\ \(0\)\
-\-\ film\\:\\ 0\\.018862809972637805\ \(0\)\
-\-\ vein\\:\\ 0\\.017769731735713317\ \(0\)\
-\-\ returning\\:\\ 0\\.017748451420549538\ \(0\)\
-\-\ deviated\\:\\ 0\\.017550196042713472\ \(0\)\
-\-\ bronchopulmonary\\:\\ 0\\.01719053183882265\ \(0\)\
-\-\ c\\/w\\:\\ 0\\.017026283523190616\ \(0\)\
-\-\ teratomas\\:\\ 0\\.017026283523190616\ \(0\)\
-\-\ greatly\\:\\ 0\\.017026283523190616\ \(0\)\
-\-\ liver\\:\\ 0\\.0169323075335214\ \(0\)\
-\-\ decubitus\\:\\ 0\\.016723523420725594\ \(0\)\
-\-\ at\\:\\ 0\\.01663452805792576\ \(0\)\
-\-\ status\\-post\\:\\ 0\\.016583321799549064\ \(0\)\
-\-\ utero\\:\\ 0\\.016449643593701675\ \(0\)\
-\-\ adenomatoid\\:\\ 0\\.015969603120531653\ \(0\)\
-\-\ revealed\\:\\ 0\\.01576134419463272\ \(0\)\
-\-\ bubble\\:\\ 0\\.01575664917756119\ \(0\)\
-\-\ further\\:\\ 0\\.015617495067817575\ \(0\)\
-\-\ nicu\\:\\ 0\\.01537293827921486\ \(0\)\
-\-\ tubes\\:\\ 0\\.01495574859575366\ \(0\)\
-\-\ enteric\\:\\ 0\\.014731721177737247\ \(0\)\
-\-\ induced\\:\\ 0\\.014731721177737247\ \(0\)\
-\-\ negative\\:\\ 0\\.014667357249280887\ \(0\)\
-\-\ tachypnea\\:\\ 0\\.014591519556560717\ \(0\)\
-\-\ intubated\\:\\ 0\\.014591519556560717\ \(0\)\
-\-\ sequestration\\:\\ 0\\.014523903184692342\ \(0\)\
-\-\ receive\\:\\ 0\\.014457841350713324\ \(0\)\
-\-\ cyanosis\\:\\ 0\\.01439326417872465\ \(0\)\
-\-\ hemidiaphragm\\:\\ 0\\.01426830696050701\ \(0\)\
-\-\ o2\\:\\ 0\\.014090504076259633\ \(0\)\
-\-\ herniated\\:\\ 0\\.014033599974833827\ \(0\)\
-\-\ altered\\:\\ 0\\.013923064685098784\ \(0\)\
-\-\ bronchial\\:\\ 0\\.013923064685098784\ \(0\)\
-\-\ questionable\\:\\ 0\\.013869351659201792\ \(0\)\
-\-\ secondary\\:\\ 0\\.01373005727878625\ \(0\)\
-\-\ requiring\\:\\ 0\\.013566591556736776\ \(0\)\
-\-\ atresia\\:\\ 0\\.0135190935626241\ \(0\)\
-\-\ shows\\:\\ 0\\.013502147699591257\ \(0\)\
-\-\ hypoplasia\\:\\ 0\\.013381136036226511\ \(0\)\
-\-\ newborn\\:\\ 0\\.013381136036226511\ \(0\)\
-\-\ transferred\\:\\ 0\\.013206927352845952\ \(0\)\
-\-\ adequate\\:\\ 0\\.013164976779796663\ \(0\)\
-\-\ trachea\\:\\ 0\\.013042679037213916\ \(0\)\
-\-\ bronchogenic\\:\\ 0\\.01296394635276531\ \(0\)\
-\-\ vaginal\\:\\ 0\\.01296394635276531\ \(0\)\
-\-\ reduced\\:\\ 0\\.012925374455259162\ \(0\)\
-\-\ continues\\:\\ 0\\.012812671256542835\ \(0\)\
-\-\ each\\:\\ 0\\.01270422203820132\ \(0\)\
-\-\ anatomy\\:\\ 0\\.01270422203820132\ \(0\)\
-\-\ workup\\:\\ 0\\.012634131655660632\ \(0\)\
-\-\ am\\:\\ 0\\.012634131655660632\ \(0\)\
-\-\ significantly\\:\\ 0\\.012565710251368338\ \(0\)\
-\-\ factor\\:\\ 0\\.012532100941703995\ \(0\)\
-\-\ 100\\:\\ 0\\.012401461935736302\ \(0\)\
-\-\ 37\\:\\ 0\\.012338304157808786\ \(0\)\
-\-\ patient\\:\\ 0\\.012307355329258448\ \(0\)\
-\-\ abdominal\\:\\ 0\\.012275397920242041\ \(0\)\
-\-\ overall\\:\\ 0\\.01221600641522604\ \(0\)\
-\-\ discovered\\:\\ 0\\.012098701833271283\ \(0\)\
-\-\ descending\\:\\ 0\\.011985998634554958\ \(0\)\
-\-\ baby\\:\\ 0\\.011958500212094757\ \(0\)\
-\-\ birth\\:\\ 0\\.01179881673176484\ \(0\)\
-\-\ into\\:\\ 0\\.011685783723906362\ \(0\)\
-\-\ pneumothorax\\:\\ 0\\.011527291319635752\ \(0\)\
-\-\ filled\\:\\ 0\\.01141187165950548\ \(0\)\
-\-\ mri\\:\\ 0\\.011283194568474826\ \(0\)\
-\-\ present\\:\\ 0\\.011092004332940695\ \(0\)\
-\-\ this\\:\\ 0\\.011047554176024517\ \(0\)\
-\-\ to\\:\\ 0\\.011044864873525507\ \(0\)\
-\-\ gastric\\:\\ 0\\.010972144109776963\ \(0\)\
-\-\ intervention\\:\\ 0\\.010933572212270811\ \(0\)\
-\-\ \\,\\:\\ 0\\.010890634819660986\ \(0\)\
-\-\ aorta\\:\\ 0\\.010540298698715646\ \(0\)\
-\-\ good\\:\\ 0\\.010507077944689566\ \(0\)\
-\-\ mediastinal\\:\\ 0\\.010425668442890066\ \(0\)\
-\-\ before\\:\\ 0\\.010393739634197334\ \(0\)\
-\-\ and\\/or\\:\\ 0\\.01037790728991294\ \(0\)\
-\-\ distress\\:\\ 0\\.010346501914820437\ \(0\)\
-\-\ tube\\:\\ 0\\.010346501914820437\ \(0\)\
-\-\ position\\:\\ 0\\.010224204172237692\ \(0\)\
-\-\ respiratory\\:\\ 0\\.010194426048572328\ \(0\)\
-\-\ et\\:\\ 0\\.010049995488857131\ \(0\)\
-\-\ placement\\:\\ 0\\.009966697969106406\ \(0\)\
-\-\ malformation\\:\\ 0\\.009794099576167756\ \(0\)\
-\-\ similar\\:\\ 0\\.009631283387761173\ \(0\)\
-\-\ base\\:\\ 0\\.009619132996641858\ \(0\)\
-\-\ note\\:\\ 0\\.009477199791671812\ \(0\)\
-\-\ 30\\:\\ 0\\.009442785449583548\ \(0\)\
-\-\ classic\\:\\ 0\\.009408778387379517\ \(0\)\
-\-\ course\\:\\ 0\\.009265894952458739\ \(0\)\
-\-\ appears\\:\\ 0\\.00914002534711853\ \(0\)\
-\-\ pt\\:\\ 0\\.009129780904117105\ \(0\)\
-\-\ diagnosed\\:\\ 0\\.009029296427571856\ \(0\)\
-\-\ early\\:\\ 0\\.008980341866788614\ \(0\)\
-\-\ care\\:\\ 0\\.008856830882381473\ \(0\)\
-\-\ otherwise\\:\\ 0\\.008819871360420532\ \(0\)\
-\-\ status\\:\\ 0\\.008765308394200153\ \(0\)\
-\-\ location\\:\\ 0\\.008565251973861761\ \(0\)\
-\-\ new\\:\\ 0\\.008556862002300455\ \(0\)\
-\-\ sign\\:\\ 0\\.008507030177482963\ \(0\)\
-\-\ in\\:\\ 0\\.008476381066039611\ \(0\)\
-\-\ presentation\\:\\ 0\\.00845804780026173\ \(0\)\
-\-\ does\\:\\ 0\\.008378221466620707\ \(0\)\
-\-\ first\\:\\ 0\\.008239894927545552\ \(0\)\
-\-\ plain\\:\\ 0\\.007974895726118059\ \(0\)\
-\-\ radiograph\\:\\ 0\\.007821691534256789\ \(0\)\
-\-\ follow\\:\\ 0\\.007802297333179408\ \(0\)\
-\-\ area\\:\\ 0\\.007763897253259388\ \(0\)\
-\-\ post\\:\\ 0\\.007732284577793947\ \(0\)\
-\-\ bowel\\:\\ 0\\.007701015899094135\ \(0\)\
-\-\ as\\:\\ 0\\.007428606355713378\ \(0\)\
-\-\ artery\\:\\ 0\\.007311867793414365\ \(0\)\
-\-\ ultrasound\\:\\ 0\\.007284835014385929\ \(0\)\
-\-\ abdomen\\:\\ 0\\.0072740927094703915\ \(0\)\
-\-\ pulmonary\\:\\ 0\\.007173995144310527\ \(0\)\
-\-\ evaluation\\:\\ 0\\.007132870102950597\ \(0\)\
-\-\ lung\\:\\ 0\\.007112526207582604\ \(0\)\
-\-\ cystic\\:\\ 0\\.0070822778944016045\ \(0\)\
-\-\ changes\\:\\ 0\\.007037494184583507\ \(0\)\
-\-\ likely\\:\\ 0\\.006926120591769128\ \(0\)\
-\-\ however\\:\\ 0\\.006837264527577789\ \(0\)\
-\-\ up\\:\\ 0\\.006603009054753515\ \(0\)\
-\-\ due\\:\\ 0\\.006552520554462183\ \(0\)\
-\-\ is\\:\\ 0\\.006463112395226732\ \(0\)\
-\-\ evidence\\:\\ 0\\.006438053400479533\ \(0\)\
-\-\ both\\:\\ 0\\.006270689628408394\ \(0\)\
-\-\ \\(\\:\\ 0\\.006227256260722936\ \(0\)\
-\-\ \\)\\:\\ 0\\.006151187000976768\ \(0\)\
-\-\ chest\\:\\ 0\\.005875658046142295\ \(0\)\
-\-\ without\\:\\ 0\\.005781647029764828\ \(0\)\
-\-\ \\%\\:\\ 0\\.005727934003867838\ \(0\)\
-\-\ small\\:\\ 0\\.005656825529830801\ \(0\)\
-\-\ well\\:\\ 0\\.00555483032462256\ \(0\)\
-\-\ \\'s\\:\\ 0\\.005413927064273118\ \(0\)\
-\-\ exam\\:\\ 0\\.005394350402153845\ \(0\)\
-\-\ may\\:\\ 0\\.00538600106005208\ \(0\)\
-\-\ have\\:\\ 0\\.005317350799899689\ \(0\)\
-\-\ lateral\\:\\ 0\\.0053065173724843396\ \(0\)\
-\-\ \\-\\:\\ 0\\.005263587525024033\ \(0\)\
-\-\ findings\\:\\ 0\\.005226542918936665\ \(0\)\
-\-\ and\\:\\ 0\\.005172672578512024\ \(0\)\
-\-\ surgical\\:\\ 0\\.005161556811067395\ \(0\)\
-\-\ no\\:\\ 0\\.004945081325883919\ \(0\)\
-\-\ seen\\:\\ 0\\.004852378204217501\ \(0\)\
-\-\ has\\:\\ 0\\.004611206811765166\ \(0\)\
-\-\ which\\:\\ 0\\.0045837488139153695\ \(0\)\
-\-\ male\\:\\ 0\\.0044402457985272216\ \(0\)\
-\-\ for\\:\\ 0\\.004190276716337443\ \(0\)\
-\-\ normal\\:\\ 0\\.0038494610764341986\ \(0\)\
-\-\ be\\:\\ 0\\.003786657250988302\ \(0\)\
-\-\ not\\:\\ 0\\.003548329516499814\ \(0\)\
-\-\ a\\:\\ 0\\.0034189638087810453\ \(0\)\
-\-\ mass\\:\\ 0\\.00341511783605622\ \(0\)\
-\-\ was\\:\\ 0\\.0028398779373956518\ \(0\)\
-\-\ right\\:\\ 0\\.0025908957158345307\ \(0\)\
-\-\ with\\:\\ 0\\.0023535322776701956\ \(0\)\
-\-\ of\\:\\ 0\\.0023434672574308016\ \(0\)\
-\-\ on\\:\\ 0\\.002080146587256977\ \(0\)\
-\-\ \\.\\:\\ 0\\.0017341727403876056\ \(0\)\
-\-\ the\\:\\ 0\\.0015890722379727103\ \(0\)\
+Texto: 
+respiratory distress, cyanosis, tachypnea
+pt was intubated and ventilated with 100% o2 and transferred to nicu to receive further care.  patient requiring further workup and evaluation for surgical intervention and/or ecmo.
+mri at 33 weeks revealed cdh with small bowel and stomach herniation into left hemithorax without evidence of liver herniation.  left pulmonary hypoplasia secondary to cdh and herniation of abdominal contents.
+
+portable chest/abd plain film status post delivery @ 0455 shows patient has et and og tubes with adequate placement of each.  og tube continues into stomach with gastric bubble visualized in left chest, no left hemidiaphragm visualized.  trachea deviated to the right w/ mediastinal right-shift present.  questionable right-sided pneumothorax at base as well.  left hemithorax filled w/ radio-opaque mass c/w herniated abdominal contents.  
+
+follow up portable chest/abd radiograph @ 0530 revealed similar findings as seen at birth, with umbilical artery catheter in descending aorta and umbilical vein catheter in ivc - both in good position.  of note, course of umbilical vein catheter appears to deviate significantly to the left in the abdomen before returning to normal location of ivc.  this is likely due to altered anatomy secondary to cdh.
+
+left lateral decubitus film @ 0615 shows right-sided pneumonthorax present, no new changes otherwise.
+congenital diaphragmatic hernia, left-sided bochdalek (posterolateral)
+diaphragmatic eventration, congenital cystic adenomatoid malformation, bronchopulmonary sequestration, bronchogenic cysts, bronchial atresia, enteric cysts, and teratomas
+newborn male baby status-post induced vaginal delivery in early am at 37 weeks ega with bochdalek (posterolateral) left-sided congenital diaphragmatic hernia (cdh) first discovered on ultrasound exam at 30 weeks ega and diagnosed with in utero mri @ 33 weeks ega.
+this is a classic presentation of congenital diaphragmatic hernia.  this patient does not have liver herniation which is a negative prognostic sign.  however, the patient's overall lung area is greatly reduced and may be a negative prognostic factor for this patient.
+
+
+Keywords by value: 
+- cdh: 0.08539338003271962
+- @: 0.07184562145408001
+- diaphragmatic: 0.05613439989933531
+- ega: 0.05265058812814041
+- chest/abd: 0.05066389898831321
+- umbilical: 0.047908809361594966
+- herniation: 0.043734288849083244
+- og: 0.041414255813404584
+- bochdalek: 0.03803617153235792
+- congenital: 0.03592136746715446
+- catheter: 0.03539645019529452
+- prognostic: 0.03289928718740335
+- hernia: 0.03224435007528165
+- portable: 0.029183039113121433
+- weeks: 0.02787675582644998
+- posterolateral: 0.027846129370197568
+- hemithorax: 0.027738703318403585
+- contents: 0.027738703318403585
+- ivc: 0.026165738775432084
+- 33: 0.025479837869497795
+- w/: 0.025479837869497795
+- 0455: 0.025331949494156604
+- right-shift: 0.025331949494156604
+- 0530: 0.025331949494156604
+- deviate: 0.025331949494156604
+- 0615: 0.025331949494156604
+- pneumonthorax: 0.025331949494156604
+- delivery: 0.025199434627144735
+- left-sided: 0.024197403666542567
+- right-sided: 0.023971997269109917
+- ecmo: 0.023340147251168255
+- ventilated: 0.02217501763016778
+- radio-opaque: 0.02217501763016778
+- stomach: 0.021715895526165915
+- visualized: 0.019878920398244168
+- cysts: 0.019238265993283717
+- left: 0.019232002542845985
+- eventration: 0.01901808576617896
+- film: 0.018862809972637805
+- vein: 0.017769731735713317
+- returning: 0.017748451420549538
+- deviated: 0.017550196042713472
+- bronchopulmonary: 0.01719053183882265
+- c/w: 0.017026283523190616
+- teratomas: 0.017026283523190616
+- greatly: 0.017026283523190616
+- liver: 0.0169323075335214
+- decubitus: 0.016723523420725594
+- at: 0.01663452805792576
+- status-post: 0.016583321799549064
+- utero: 0.016449643593701675
+- adenomatoid: 0.015969603120531653
+- revealed: 0.01576134419463272
+- bubble: 0.01575664917756119
+- further: 0.015617495067817575
+- nicu: 0.01537293827921486
+- tubes: 0.01495574859575366
+- enteric: 0.014731721177737247
+- induced: 0.014731721177737247
+- negative: 0.014667357249280887
+- tachypnea: 0.014591519556560717
+- intubated: 0.014591519556560717
+- sequestration: 0.014523903184692342
+- receive: 0.014457841350713324
+- cyanosis: 0.01439326417872465
+- hemidiaphragm: 0.01426830696050701
+- o2: 0.014090504076259633
+- herniated: 0.014033599974833827
+- altered: 0.013923064685098784
+- bronchial: 0.013923064685098784
+- questionable: 0.013869351659201792
+- secondary: 0.01373005727878625
+- requiring: 0.013566591556736776
+- atresia: 0.0135190935626241
+- shows: 0.013502147699591257
+- hypoplasia: 0.013381136036226511
+- newborn: 0.013381136036226511
+- transferred: 0.013206927352845952
+- adequate: 0.013164976779796663
+- trachea: 0.013042679037213916
+- bronchogenic: 0.01296394635276531
+- vaginal: 0.01296394635276531
+- reduced: 0.012925374455259162
+- continues: 0.012812671256542835
+- each: 0.01270422203820132
+- anatomy: 0.01270422203820132
+- workup: 0.012634131655660632
+- am: 0.012634131655660632
+- significantly: 0.012565710251368338
+- factor: 0.012532100941703995
+- 100: 0.012401461935736302
+- 37: 0.012338304157808786
+- patient: 0.012307355329258448
+- abdominal: 0.012275397920242041
+- overall: 0.01221600641522604
+- discovered: 0.012098701833271283
+- descending: 0.011985998634554958
+- baby: 0.011958500212094757
+- birth: 0.01179881673176484
+- into: 0.011685783723906362
+- pneumothorax: 0.011527291319635752
+- filled: 0.01141187165950548
+- mri: 0.011283194568474826
+- present: 0.011092004332940695
+- this: 0.011047554176024517
+- to: 0.011044864873525507
+- gastric: 0.010972144109776963
+- intervention: 0.010933572212270811
+- ,: 0.010890634819660986
+- aorta: 0.010540298698715646
+- good: 0.010507077944689566
+- mediastinal: 0.010425668442890066
+- before: 0.010393739634197334
+- and/or: 0.01037790728991294
+- distress: 0.010346501914820437
+- tube: 0.010346501914820437
+- position: 0.010224204172237692
+- respiratory: 0.010194426048572328
+- et: 0.010049995488857131
+- placement: 0.009966697969106406
+- malformation: 0.009794099576167756
+- similar: 0.009631283387761173
+- base: 0.009619132996641858
+- note: 0.009477199791671812
+- 30: 0.009442785449583548
+- classic: 0.009408778387379517
+- course: 0.009265894952458739
+- appears: 0.00914002534711853
+- pt: 0.009129780904117105
+- diagnosed: 0.009029296427571856
+- early: 0.008980341866788614
+- care: 0.008856830882381473
+- otherwise: 0.008819871360420532
+- status: 0.008765308394200153
+- location: 0.008565251973861761
+- new: 0.008556862002300455
+- sign: 0.008507030177482963
+- in: 0.008476381066039611
+- presentation: 0.00845804780026173
+- does: 0.008378221466620707
+- first: 0.008239894927545552
+- plain: 0.007974895726118059
+- radiograph: 0.007821691534256789
+- follow: 0.007802297333179408
+- area: 0.007763897253259388
+- post: 0.007732284577793947
+- bowel: 0.007701015899094135
+- as: 0.007428606355713378
+- artery: 0.007311867793414365
+- ultrasound: 0.007284835014385929
+- abdomen: 0.0072740927094703915
+- pulmonary: 0.007173995144310527
+- evaluation: 0.007132870102950597
+- lung: 0.007112526207582604
+- cystic: 0.0070822778944016045
+- changes: 0.007037494184583507
+- likely: 0.006926120591769128
+- however: 0.006837264527577789
+- up: 0.006603009054753515
+- due: 0.006552520554462183
+- is: 0.006463112395226732
+- evidence: 0.006438053400479533
+- both: 0.006270689628408394
+- (: 0.006227256260722936
+- ): 0.006151187000976768
+- chest: 0.005875658046142295
+- without: 0.005781647029764828
+- %: 0.005727934003867838
+- small: 0.005656825529830801
+- well: 0.00555483032462256
+- 's: 0.005413927064273118
+- exam: 0.005394350402153845
+- may: 0.00538600106005208
+- have: 0.005317350799899689
+- lateral: 0.0053065173724843396
+- -: 0.005263587525024033
+- findings: 0.005226542918936665
+- and: 0.005172672578512024
+- surgical: 0.005161556811067395
+- no: 0.004945081325883919
+- seen: 0.004852378204217501
+- has: 0.004611206811765166
+- which: 0.0045837488139153695
+- male: 0.0044402457985272216
+- for: 0.004190276716337443
+- normal: 0.0038494610764341986
+- be: 0.003786657250988302
+- not: 0.003548329516499814
+- a: 0.0034189638087810453
+- mass: 0.00341511783605622
+- was: 0.0028398779373956518
+- right: 0.0025908957158345307
+- with: 0.0023535322776701956
+- of: 0.0023434672574308016
+- on: 0.002080146587256977
+- .: 0.0017341727403876056
+- the: 0.0015890722379727103

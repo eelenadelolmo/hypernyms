@@ -1,130 +1,135 @@
-\-\ Texto\\:\\ \ \(0\)\
-\-\ mild\\ abdominal\\ distension\ \(0\)\
-\-\ diagnosis\\ was\\ established\\ by\\ histopathological\\ examination\\;\\ fna\ \(0\)\
-\-\ large\\ heterogeneous\\ mass\\ arising\\ within\\ the\\ pancreatic\\ head\\.\\ body\\ and\\ tail\\ of\\ pancreas\\ unremarkable\\.\ \(0\)\
-\-\ non\\-functioning\\ pancreatic\\ islet\\ cell\\ tumor\ \(0\)\
-\-\ atypical\\ pancreatic\\ adenocarcinoma\ \(0\)\
-\-\ pancreatic\\ islet\\ cell\\ tumor\ \(2\)\
-\-\ pancreatic\\ mucinous\\ neoplasm\\ with\\ extensive\ \(0\)\
-\-\ \\ \\ \\ \\ solid\\ components\ \(1\)\
-\-\ solid\\ and\\ papillary\\ epithelial\\ neoplasm\\ \\(spen\\)\ \(0\)\
-\-\ \\ \\ \\ of\\ the\\ pancreas\ \(1\)\
-\-\ 42\\ yo\\ pilot\\ with\\ recurrent\\ lymphadenopathy\\;\\ mild\\ luq\\ tenderness\\.\ \(0\)\
-\-\ pancreatic\\ islet\\ cell\\ tumor\\ is\\ typically\\ seen\\ as\\ a\\ solid\\ hypervascular\\ pancreatic\\ mass\\,\\ typically\\ located\\ in\\ the\\ pancreatic\\ head\\.\\ \\ these\\ masses\\ may\\ be\\ large\\ at\\ the\\ time\\ of\\ diagnosis\\ \\(over\\ 4cm\\)\\ and\\ have\\ cystic\\ changes\\ and\\ necrosis\\.\ \(0\)\
-\-\ islet\\ cell\\ tumor\\ subtypes\\ include\\ insulinoma\\ \\(most\\ common\\ type\\)\\,\\ gastrinoma\\ \\(associated\\ with\\ zollinger\\-ellison\\ syndrome\\)\\,\\ and\\ non\\-functioning\\.\ \(0\)\
-\-\ islet\\ cell\\ tumors\\ are\\ typically\\ sporadic\\ but\\ can\\ be\\ seen\\ in\\ multiple\\ endocrine\\ neoplasia\\ \\(men\\)\\ syndromes\\,\\ men\\ 1\\ in\\ particular\\,\\ and\\ von\\ hippel\\ lindau\\ syndrome\\.\\ \\ \ \(0\)\
-\-\ malignant\\ transformation\\ occurs\\ in\\ up\\ to\\ 80\\%\\ of\\ patients\\ with\\ non\\-functioning\\ islet\\ cell\\ tumor\\.\\ \\ nodular\\ calcifications\\ are\\ seen\\ in\\ 20\\-25\\%\\,\\ with\\ contrast\\ enhancement\\ on\\ ct\\ in\\ 83\\%\\ of\\ non\\-functioning\\ islet\\ cell\\ tumor\\ cases\\.\ \(0\)\
-\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
-\-\ islet\\:\\ 0\\.2140357804973202\ \(0\)\
-\-\ pancreatic\\:\\ 0\\.16557581923710346\ \(0\)\
-\-\ non\\-functioning\\:\\ 0\\.14269466359470095\ \(0\)\
-\-\ cell\\:\\ 0\\.07998853951024953\ \(0\)\
-\-\ tumor\\:\\ 0\\.05917521687952904\ \(0\)\
-\-\ solid\\:\\ 0\\.050619009690688804\ \(0\)\
-\-\ men\\:\\ 0\\.047787469083190336\ \(0\)\
-\-\ typically\\:\\ 0\\.044798402517415424\ \(0\)\
-\-\ pancreas\\:\\ 0\\.04329571452946714\ \(0\)\
-\-\ spen\\:\\ 0\\.04020975863072551\ \(0\)\
-\-\ hippel\\:\\ 0\\.04020975863072551\ \(0\)\
-\-\ lindau\\:\\ 0\\.04020975863072551\ \(0\)\
-\-\ histopathological\\:\\ 0\\.03567366589867524\ \(0\)\
-\-\ pilot\\:\\ 0\\.03567366589867524\ \(0\)\
-\-\ insulinoma\\:\\ 0\\.03567366589867524\ \(0\)\
-\-\ zollinger\\-ellison\\:\\ 0\\.03567366589867524\ \(0\)\
-\-\ gastrinoma\\:\\ 0\\.034771083934348725\ \(0\)\
-\-\ 20\\-25\\:\\ 0\\.032242244212734916\ \(0\)\
-\-\ luq\\:\\ 0\\.03057654007104574\ \(0\)\
-\-\ \\%\\:\\ 0\\.02960377772296051\ \(0\)\
-\-\ neoplasia\\:\\ 0\\.02933240923797195\ \(0\)\
-\-\ neoplasm\\:\\ 0\\.028813431444672556\ \(0\)\
-\-\ fna\\:\\ 0\\.02856928706060928\ \(0\)\
-\-\ subtypes\\:\\ 0\\.02856928706060928\ \(0\)\
-\-\ 4cm\\:\\ 0\\.02732515622753549\ \(0\)\
-\-\ sporadic\\:\\ 0\\.02732515622753549\ \(0\)\
-\-\ von\\:\\ 0\\.026641243660798772\ \(0\)\
-\-\ endocrine\\:\\ 0\\.026183949996783844\ \(0\)\
-\-\ established\\:\\ 0\\.025900987552031626\ \(0\)\
-\-\ epithelial\\:\\ 0\\.025765349065951848\ \(0\)\
-\-\ 83\\:\\ 0\\.025765349065951848\ \(0\)\
-\-\ mucinous\\:\\ 0\\.025379400840854265\ \(0\)\
-\-\ seen\\:\\ 0\\.025078627946549855\ \(0\)\
-\-\ hypervascular\\:\\ 0\\.025021377763727405\ \(0\)\
-\-\ distension\\:\\ 0\\.024581043674536833\ \(0\)\
-\-\ syndrome\\:\\ 0\\.024197094819154868\ \(0\)\
-\-\ syndromes\\:\\ 0\\.024176696986347387\ \(0\)\
-\-\ head\\:\\ 0\\.023996052579939565\ \(0\)\
-\-\ transformation\\:\\ 0\\.02398626985353652\ \(0\)\
-\-\ tail\\:\\ 0\\.02329031960293657\ \(0\)\
-\-\ particular\\:\\ 0\\.02268025702658039\ \(0\)\
-\-\ mild\\:\\ 0\\.02227973716763502\ \(0\)\
-\-\ papillary\\:\\ 0\\.021476146581625204\ \(0\)\
-\-\ 42\\:\\ 0\\.021420208189279005\ \(0\)\
-\-\ components\\:\\ 0\\.020745275300407064\ \(0\)\
-\-\ \\;\\:\\ 0\\.020053675133193997\ \(0\)\
-\-\ 80\\:\\ 0\\.01989964296222652\ \(0\)\
-\-\ diagnosis\\:\\ 0\\.01942791416614277\ \(0\)\
-\-\ large\\:\\ 0\\.018500420117139402\ \(0\)\
-\-\ atypical\\:\\ 0\\.018334310077277007\ \(0\)\
-\-\ adenocarcinoma\\:\\ 0\\.018275022002788313\ \(0\)\
-\-\ lymphadenopathy\\:\\ 0\\.01798878650333868\ \(0\)\
-\-\ \\(\\:\\ 0\\.01788024074861041\ \(0\)\
-\-\ recurrent\\:\\ 0\\.01785164490655979\ \(0\)\
-\-\ nodular\\:\\ 0\\.01774460300550451\ \(0\)\
-\-\ \\)\\:\\ 0\\.017661824062210525\ \(0\)\
-\-\ arising\\:\\ 0\\.01751189982542565\ \(0\)\
-\-\ located\\:\\ 0\\.017411886422863673\ \(0\)\
-\-\ occurs\\:\\ 0\\.017362627359234124\ \(0\)\
-\-\ extensive\\:\\ 0\\.016917602586379928\ \(0\)\
-\-\ necrosis\\:\\ 0\\.016698518383389628\ \(0\)\
-\-\ tumors\\:\\ 0\\.015889684938962877\ \(0\)\
-\-\ calcifications\\:\\ 0\\.015728533438776\ \(0\)\
-\-\ heterogeneous\\:\\ 0\\.015555421568292106\ \(0\)\
-\-\ malignant\\:\\ 0\\.015290448892966838\ \(0\)\
-\-\ masses\\:\\ 0\\.014299962366317264\ \(0\)\
-\-\ type\\:\\ 0\\.014260515981915398\ \(0\)\
-\-\ cases\\:\\ 0\\.014093123089015508\ \(0\)\
-\-\ unremarkable\\:\\ 0\\.01400527930040624\ \(0\)\
-\-\ body\\:\\ 0\\.013738929270738042\ \(0\)\
-\-\ examination\\:\\ 0\\.01315060908650775\ \(0\)\
-\-\ be\\:\\ 0\\.013047096270731971\ \(0\)\
-\-\ tenderness\\:\\ 0\\.012865902588522937\ \(0\)\
-\-\ yo\\:\\ 0\\.012729462986647337\ \(0\)\
-\-\ in\\:\\ 0\\.012516749410106581\ \(0\)\
-\-\ cystic\\:\\ 0\\.012201152016097814\ \(0\)\
-\-\ changes\\:\\ 0\\.012123999882351785\ \(0\)\
-\-\ time\\:\\ 0\\.01194852092692729\ \(0\)\
-\-\ include\\:\\ 0\\.01186709647539746\ \(0\)\
-\-\ mass\\:\\ 0\\.011766940662847173\ \(0\)\
-\-\ are\\:\\ 0\\.011533404678510908\ \(0\)\
-\-\ up\\:\\ 0\\.011375480945812987\ \(0\)\
-\-\ enhancement\\:\\ 0\\.011339053297638792\ \(0\)\
-\-\ common\\:\\ 0\\.011070629762160382\ \(0\)\
-\-\ these\\:\\ 0\\.01100913213840515\ \(0\)\
-\-\ patients\\:\\ 0\\.010948389105772406\ \(0\)\
-\-\ over\\:\\ 0\\.010770507871980013\ \(0\)\
-\-\ abdominal\\:\\ 0\\.010573857614465916\ \(0\)\
-\-\ 1\\:\\ 0\\.010065972118612411\ \(0\)\
-\-\ associated\\:\\ 0\\.009982487930236148\ \(0\)\
-\-\ most\\:\\ 0\\.009766510602614239\ \(0\)\
-\-\ can\\:\\ 0\\.009595160160737968\ \(0\)\
-\-\ contrast\\:\\ 0\\.009469186568355967\ \(0\)\
-\-\ may\\:\\ 0\\.009278853311376851\ \(0\)\
-\-\ have\\:\\ 0\\.00916058454636184\ \(0\)\
-\-\ but\\:\\ 0\\.009022293569472959\ \(0\)\
-\-\ multiple\\:\\ 0\\.00890993071029341\ \(0\)\
-\-\ within\\:\\ 0\\.00806995746725783\ \(0\)\
-\-\ \\,\\:\\ 0\\.008040893035166951\ \(0\)\
-\-\ by\\:\\ 0\\.00704391536259839\ \(0\)\
-\-\ as\\:\\ 0\\.006398898544030336\ \(0\)\
-\-\ ct\\:\\ 0\\.00591734481877249\ \(0\)\
-\-\ at\\:\\ 0\\.0057315007565922425\ \(0\)\
-\-\ and\\:\\ 0\\.005346802150461934\ \(0\)\
-\-\ was\\:\\ 0\\.004892462981255875\ \(0\)\
-\-\ on\\:\\ 0\\.0035836188730961785\ \(0\)\
-\-\ with\\:\\ 0\\.0028961429725220234\ \(0\)\
-\-\ of\\:\\ 0\\.0028837574454947633\ \(0\)\
-\-\ is\\:\\ 0\\.0027836177147758695\ \(0\)\
-\-\ the\\:\\ 0\\.0027376095980916\ \(0\)\
-\-\ to\\:\\ 0\\.002114198556648447\ \(0\)\
-\-\ a\\:\\ 0\\.00196336535553763\ \(0\)\
-\-\ \\.\\:\\ 0\\.001581662499386715\ \(0\)\
+Texto: 
+mild abdominal distension
+diagnosis was established by histopathological examination; fna
+large heterogeneous mass arising within the pancreatic head. body and tail of pancreas unremarkable.
+non-functioning pancreatic islet cell tumor
+atypical pancreatic adenocarcinoma
+pancreatic islet cell tumor
+pancreatic mucinous neoplasm with extensive
+    solid components
+solid and papillary epithelial neoplasm (spen)
+   of the pancreas
+42 yo pilot with recurrent lymphadenopathy; mild luq tenderness.
+pancreatic islet cell tumor is typically seen as a solid hypervascular pancreatic mass, typically located in the pancreatic head.  these masses may be large at the time of diagnosis (over 4cm) and have cystic changes and necrosis.
+
+islet cell tumor subtypes include insulinoma (most common type), gastrinoma (associated with zollinger-ellison syndrome), and non-functioning.
+
+islet cell tumors are typically sporadic but can be seen in multiple endocrine neoplasia (men) syndromes, men 1 in particular, and von hippel lindau syndrome.  
+
+malignant transformation occurs in up to 80% of patients with non-functioning islet cell tumor.  nodular calcifications are seen in 20-25%, with contrast enhancement on ct in 83% of non-functioning islet cell tumor cases.
+
+
+Keywords by value: 
+- islet: 0.2140357804973202
+- pancreatic: 0.16557581923710346
+- non-functioning: 0.14269466359470095
+- cell: 0.07998853951024953
+- tumor: 0.05917521687952904
+- solid: 0.050619009690688804
+- men: 0.047787469083190336
+- typically: 0.044798402517415424
+- pancreas: 0.04329571452946714
+- spen: 0.04020975863072551
+- hippel: 0.04020975863072551
+- lindau: 0.04020975863072551
+- histopathological: 0.03567366589867524
+- pilot: 0.03567366589867524
+- insulinoma: 0.03567366589867524
+- zollinger-ellison: 0.03567366589867524
+- gastrinoma: 0.034771083934348725
+- 20-25: 0.032242244212734916
+- luq: 0.03057654007104574
+- %: 0.02960377772296051
+- neoplasia: 0.02933240923797195
+- neoplasm: 0.028813431444672556
+- fna: 0.02856928706060928
+- subtypes: 0.02856928706060928
+- 4cm: 0.02732515622753549
+- sporadic: 0.02732515622753549
+- von: 0.026641243660798772
+- endocrine: 0.026183949996783844
+- established: 0.025900987552031626
+- epithelial: 0.025765349065951848
+- 83: 0.025765349065951848
+- mucinous: 0.025379400840854265
+- seen: 0.025078627946549855
+- hypervascular: 0.025021377763727405
+- distension: 0.024581043674536833
+- syndrome: 0.024197094819154868
+- syndromes: 0.024176696986347387
+- head: 0.023996052579939565
+- transformation: 0.02398626985353652
+- tail: 0.02329031960293657
+- particular: 0.02268025702658039
+- mild: 0.02227973716763502
+- papillary: 0.021476146581625204
+- 42: 0.021420208189279005
+- components: 0.020745275300407064
+- ;: 0.020053675133193997
+- 80: 0.01989964296222652
+- diagnosis: 0.01942791416614277
+- large: 0.018500420117139402
+- atypical: 0.018334310077277007
+- adenocarcinoma: 0.018275022002788313
+- lymphadenopathy: 0.01798878650333868
+- (: 0.01788024074861041
+- recurrent: 0.01785164490655979
+- nodular: 0.01774460300550451
+- ): 0.017661824062210525
+- arising: 0.01751189982542565
+- located: 0.017411886422863673
+- occurs: 0.017362627359234124
+- extensive: 0.016917602586379928
+- necrosis: 0.016698518383389628
+- tumors: 0.015889684938962877
+- calcifications: 0.015728533438776
+- heterogeneous: 0.015555421568292106
+- malignant: 0.015290448892966838
+- masses: 0.014299962366317264
+- type: 0.014260515981915398
+- cases: 0.014093123089015508
+- unremarkable: 0.01400527930040624
+- body: 0.013738929270738042
+- examination: 0.01315060908650775
+- be: 0.013047096270731971
+- tenderness: 0.012865902588522937
+- yo: 0.012729462986647337
+- in: 0.012516749410106581
+- cystic: 0.012201152016097814
+- changes: 0.012123999882351785
+- time: 0.01194852092692729
+- include: 0.01186709647539746
+- mass: 0.011766940662847173
+- are: 0.011533404678510908
+- up: 0.011375480945812987
+- enhancement: 0.011339053297638792
+- common: 0.011070629762160382
+- these: 0.01100913213840515
+- patients: 0.010948389105772406
+- over: 0.010770507871980013
+- abdominal: 0.010573857614465916
+- 1: 0.010065972118612411
+- associated: 0.009982487930236148
+- most: 0.009766510602614239
+- can: 0.009595160160737968
+- contrast: 0.009469186568355967
+- may: 0.009278853311376851
+- have: 0.00916058454636184
+- but: 0.009022293569472959
+- multiple: 0.00890993071029341
+- within: 0.00806995746725783
+- ,: 0.008040893035166951
+- by: 0.00704391536259839
+- as: 0.006398898544030336
+- ct: 0.00591734481877249
+- at: 0.0057315007565922425
+- and: 0.005346802150461934
+- was: 0.004892462981255875
+- on: 0.0035836188730961785
+- with: 0.0028961429725220234
+- of: 0.0028837574454947633
+- is: 0.0027836177147758695
+- the: 0.0027376095980916
+- to: 0.002114198556648447
+- a: 0.00196336535553763
+- .: 0.001581662499386715

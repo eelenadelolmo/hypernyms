@@ -1,80 +1,83 @@
-\-\ Texto\\:\\ \ \(0\)\
-\-\ non\\ contributory\\.\ \(1\)\
-\-\ surgical\\ consult\\.\ \(1\)\
-\-\ scout\\ view\\ from\\ ct\\ demontrates\\ left\\ sided\\ heart\\ deviation\\.\ \(0\)\
-\-\ axial\\ ct\\ images\\ demonstrate\\ left\\ sided\\ cardiac\\ deviation\\ with\\ rotational\\ component\\ and\\ absence\\ of\\ left\\ sided\\ pericardium\\ with\\ interpostion\\ of\\ lung\\ between\\ aorta\\ and\\ left\\ main\\ pulmonary\\ artery\\.\ \(0\)\
-\-\ multiplane\\ mri\\ images\\ demonstrate\\ absent\\ left\\ and\\ posterior\\ pericardial\\ fat\\ and\\ pericardium\\.\ \(0\)\
-\-\ congenital\\ partial\\ absence\\ of\\ the\\ pericardium\\.\ \(0\)\
-\-\ for\\ leftward\\ deviation\\ of\\ heart\\ on\\ plain\\ radiograph\\:\ \(0\)\
-\-\ \\<li\\>chest\\ wall\\ deformities\\:\\ pectus\\ excavatum\ \(0\)\
-\-\ \\<li\\>post\\ surgical\\:\\ volume\\ loss\ \(0\)\
-\-\ \\<li\\>congenital\\ heart\\ disease\\ with\\ right\\ vent\\ hypertrophy\ \(0\)\
-\-\ \\<li\\>surgical\\ or\\ congenital\\ abscence\\ of\\ the\\ pericardium\ \(0\)\
-\-\ chronic\\ cough\\.\ \(7\)\
-\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
-\-\ pericardium\\:\\ 0\\.20249108723659912\ \(0\)\
-\-\ li\\:\\ 0\\.15974872094474324\ \(0\)\
-\-\ deviation\\:\\ 0\\.12559124095084073\ \(0\)\
-\-\ \\<\\:\\ 0\\.11572159745620317\ \(0\)\
-\-\ \\>\\:\\ 0\\.09961991279538822\ \(0\)\
-\-\ sided\\:\\ 0\\.08314543718806962\ \(0\)\
-\-\ congenital\\:\\ 0\\.08224102551690625\ \(0\)\
-\-\ heart\\:\\ 0\\.07813367497128353\ \(0\)\
-\-\ interpostion\\:\\ 0\\.07732910898216226\ \(0\)\
-\-\ multiplane\\:\\ 0\\.07732910898216226\ \(0\)\
-\-\ absence\\:\\ 0\\.062330319913361625\ \(0\)\
-\-\ vent\\:\\ 0\\.06161192065560037\ \(0\)\
-\-\ abscence\\:\\ 0\\.060259721709747235\ \(0\)\
-\-\ demontrates\\:\\ 0\\.059088393704268966\ \(0\)\
-\-\ leftward\\:\\ 0\\.0571309941313373\ \(0\)\
-\-\ excavatum\\:\\ 0\\.05553168222963594\ \(0\)\
-\-\ rotational\\:\\ 0\\.0548295532149558\ \(0\)\
-\-\ pectus\\:\\ 0\\.0548295532149558\ \(0\)\
-\-\ scout\\:\\ 0\\.04749404423073984\ \(0\)\
-\-\ surgical\\:\\ 0\\.047268993953985615\ \(0\)\
-\-\ consult\\:\\ 0\\.04454253338318535\ \(0\)\
-\-\ deformities\\:\\ 0\\.04233802085440547\ \(0\)\
-\-\ left\\:\\ 0\\.041934441634776956\ \(0\)\
-\-\ pericardial\\:\\ 0\\.04031588349816133\ \(0\)\
-\-\ contributory\\:\\ 0\\.03856734926464824\ \(0\)\
-\-\ hypertrophy\\:\\ 0\\.03856734926464824\ \(0\)\
-\-\ volume\\:\\ 0\\.03540697307767516\ \(0\)\
-\-\ main\\:\\ 0\\.0349055834825879\ \(0\)\
-\-\ demonstrate\\:\\ 0\\.03449916037426387\ \(0\)\
-\-\ component\\:\\ 0\\.034235645072196896\ \(0\)\
-\-\ absent\\:\\ 0\\.032487110838683816\ \(0\)\
-\-\ aorta\\:\\ 0\\.032175648659237235\ \(0\)\
-\-\ non\\:\\ 0\\.030985216624811487\ \(0\)\
-\-\ partial\\:\\ 0\\.02997680458288373\ \(0\)\
-\-\ \\:\\:\\ 0\\.0297440741050175\ \(0\)\
-\-\ images\\:\\ 0\\.02875901564823428\ \(0\)\
-\-\ cough\\:\\ 0\\.02872153402463221\ \(0\)\
-\-\ cardiac\\:\\ 0\\.028551199938166405\ \(0\)\
-\-\ view\\:\\ 0\\.02812321604194332\ \(0\)\
-\-\ plain\\:\\ 0\\.024344418532360388\ \(0\)\
-\-\ radiograph\\:\\ 0\\.023876742578257566\ \(0\)\
-\-\ between\\:\\ 0\\.023758732773896875\ \(0\)\
-\-\ post\\:\\ 0\\.02360381607958152\ \(0\)\
-\-\ fat\\:\\ 0\\.022797476516505554\ \(0\)\
-\-\ artery\\:\\ 0\\.022320438527264903\ \(0\)\
-\-\ pulmonary\\:\\ 0\\.021899564124737397\ \(0\)\
-\-\ loss\\:\\ 0\\.021758457653231925\ \(0\)\
-\-\ lung\\:\\ 0\\.021711922107357423\ \(0\)\
-\-\ wall\\:\\ 0\\.021711922107357423\ \(0\)\
-\-\ axial\\:\\ 0\\.02139290768480589\ \(0\)\
-\-\ chronic\\:\\ 0\\.021113944148307015\ \(0\)\
-\-\ ct\\:\\ 0\\.020970239533193734\ \(0\)\
-\-\ chest\\:\\ 0\\.017936219298750163\ \(0\)\
-\-\ posterior\\:\\ 0\\.017277531128968845\ \(0\)\
-\-\ mri\\:\\ 0\\.01722171802556684\ \(0\)\
-\-\ disease\\:\\ 0\\.012252083694874598\ \(0\)\
-\-\ from\\:\\ 0\\.011109085203107124\ \(0\)\
-\-\ or\\:\\ 0\\.008785287271611469\ \(0\)\
-\-\ right\\:\\ 0\\.007909050079915936\ \(0\)\
-\-\ for\\:\\ 0\\.006395685514409781\ \(0\)\
-\-\ on\\:\\ 0\\.006349921161100246\ \(0\)\
-\-\ and\\:\\ 0\\.006316105464288366\ \(0\)\
-\-\ of\\:\\ 0\\.0051098158244731766\ \(0\)\
-\-\ with\\:\\ 0\\.003079057265523414\ \(0\)\
-\-\ the\\:\\ 0\\.0024254260474320315\ \(0\)\
-\-\ \\.\\:\\ 0\\.0021797960761528413\ \(0\)\
+Texto: 
+non contributory.
+surgical consult.
+scout view from ct demontrates left sided heart deviation.
+axial ct images demonstrate left sided cardiac deviation with rotational component and absence of left sided pericardium with interpostion of lung between aorta and left main pulmonary artery.
+multiplane mri images demonstrate absent left and posterior pericardial fat and pericardium.
+congenital partial absence of the pericardium.
+for leftward deviation of heart on plain radiograph:
+
+<li>chest wall deformities: pectus excavatum
+<li>post surgical: volume loss
+<li>congenital heart disease with right vent hypertrophy
+<li>surgical or congenital abscence of the pericardium
+chronic cough.
+
+
+Keywords by value: 
+- pericardium: 0.20249108723659912
+- li: 0.15974872094474324
+- deviation: 0.12559124095084073
+- <: 0.11572159745620317
+- >: 0.09961991279538822
+- sided: 0.08314543718806962
+- congenital: 0.08224102551690625
+- heart: 0.07813367497128353
+- interpostion: 0.07732910898216226
+- multiplane: 0.07732910898216226
+- absence: 0.062330319913361625
+- vent: 0.06161192065560037
+- abscence: 0.060259721709747235
+- demontrates: 0.059088393704268966
+- leftward: 0.0571309941313373
+- excavatum: 0.05553168222963594
+- rotational: 0.0548295532149558
+- pectus: 0.0548295532149558
+- scout: 0.04749404423073984
+- surgical: 0.047268993953985615
+- consult: 0.04454253338318535
+- deformities: 0.04233802085440547
+- left: 0.041934441634776956
+- pericardial: 0.04031588349816133
+- contributory: 0.03856734926464824
+- hypertrophy: 0.03856734926464824
+- volume: 0.03540697307767516
+- main: 0.0349055834825879
+- demonstrate: 0.03449916037426387
+- component: 0.034235645072196896
+- absent: 0.032487110838683816
+- aorta: 0.032175648659237235
+- non: 0.030985216624811487
+- partial: 0.02997680458288373
+- :: 0.0297440741050175
+- images: 0.02875901564823428
+- cough: 0.02872153402463221
+- cardiac: 0.028551199938166405
+- view: 0.02812321604194332
+- plain: 0.024344418532360388
+- radiograph: 0.023876742578257566
+- between: 0.023758732773896875
+- post: 0.02360381607958152
+- fat: 0.022797476516505554
+- artery: 0.022320438527264903
+- pulmonary: 0.021899564124737397
+- loss: 0.021758457653231925
+- lung: 0.021711922107357423
+- wall: 0.021711922107357423
+- axial: 0.02139290768480589
+- chronic: 0.021113944148307015
+- ct: 0.020970239533193734
+- chest: 0.017936219298750163
+- posterior: 0.017277531128968845
+- mri: 0.01722171802556684
+- disease: 0.012252083694874598
+- from: 0.011109085203107124
+- or: 0.008785287271611469
+- right: 0.007909050079915936
+- for: 0.006395685514409781
+- on: 0.006349921161100246
+- and: 0.006316105464288366
+- of: 0.0051098158244731766
+- with: 0.003079057265523414
+- the: 0.0024254260474320315
+- .: 0.0021797960761528413

@@ -1,79 +1,81 @@
-\-\ Texto\\:\\ \ \(0\)\
-\-\ normal\\ chest\\ examination\ \(0\)\
-\-\ ap\\ and\\ lateral\\ radiographs\\ demonstrate\\ a\\ round\\ metallic\\ density\\ overlying\\ the\\ superior\\ mediastinum\\.\ \(0\)\
-\-\ esophageal\\ foreign\\ body\\ \\-\\ coin\\ ingestion\ \(0\)\
-\-\ esophageal\\ vs\\.\\ tracheal\\ foreign\\ body\\.\ \(0\)\
-\-\ 15\\ month\\ old\\ child\\ who\\ presents\\ with\\ coughing\\ for\\ several\\ days\\ and\\ irritability\\.\ \(1\)\
-\-\ the\\ orientation\\ of\\ the\\ metallic\\ coin\\ is\\ consistent\\ with\\ a\\ foreign\\ body\\ in\\ the\\ esophagus\\ due\\ to\\ its\\ orientation\\.\\ conversely\\,\\ a\\ foreign\\ body\\ in\\ the\\ trachea\\ typically\\ would\\ be\\ seen\\ oriented\\ in\\ the\\ saggital\\ plane\\.\\ the\\ reason\\ for\\ this\\ is\\ the\\ presence\\ of\\ cartilage\\ rings\\ in\\ the\\ trachea\\ that\\ are\\ incomplete\\ in\\ the\\ posterior\\ section\\,\\ allowing\\ the\\ coin\\ to\\ distend\\ this\\ portion\\ and\\ orient\\ in\\ this\\ fashion\\.\ \(0\)\
-\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
-\-\ coin\\:\\ 0\\.1684379309734255\ \(0\)\
-\-\ foreign\\:\\ 0\\.1451844219992554\ \(0\)\
-\-\ body\\:\\ 0\\.0956987487134167\ \(0\)\
-\-\ orientation\\:\\ 0\\.0939348723100004\ \(0\)\
-\-\ metallic\\:\\ 0\\.08714341910815405\ \(0\)\
-\-\ trachea\\:\\ 0\\.0782560742232835\ \(0\)\
-\-\ orient\\:\\ 0\\.07599584848246982\ \(0\)\
-\-\ esophageal\\:\\ 0\\.06754618317268253\ \(0\)\
-\-\ distend\\:\\ 0\\.06212138372010688\ \(0\)\
-\-\ conversely\\:\\ 0\\.0605496461615383\ \(0\)\
-\-\ irritability\\:\\ 0\\.05457423943257325\ \(0\)\
-\-\ saggital\\:\\ 0\\.053245354261648614\ \(0\)\
-\-\ coughing\\:\\ 0\\.05209422156660962\ \(0\)\
-\-\ rings\\:\\ 0\\.0497499653986472\ \(0\)\
-\-\ fashion\\:\\ 0\\.04859883270360821\ \(0\)\
-\-\ allowing\\:\\ 0\\.04758346170657042\ \(0\)\
-\-\ reason\\:\\ 0\\.046392510512770276\ \(0\)\
-\-\ tracheal\\:\\ 0\\.045346296228250725\ \(0\)\
-\-\ ingestion\\:\\ 0\\.04486724578726098\ \(0\)\
-\-\ plane\\:\\ 0\\.04114195824251679\ \(0\)\
-\-\ incomplete\\:\\ 0\\.039748498315306316\ \(0\)\
-\-\ section\\:\\ 0\\.039494930339389986\ \(0\)\
-\-\ cartilage\\:\\ 0\\.038328194581892044\ \(0\)\
-\-\ oriented\\:\\ 0\\.03612539319553644\ \(0\)\
-\-\ mediastinum\\:\\ 0\\.03547446601874208\ \(0\)\
-\-\ overlying\\:\\ 0\\.03333412528955457\ \(0\)\
-\-\ child\\:\\ 0\\.03224435007528165\ \(0\)\
-\-\ esophagus\\:\\ 0\\.031979077155740665\ \(0\)\
-\-\ round\\:\\ 0\\.03182374521175206\ \(0\)\
-\-\ 15\\:\\ 0\\.02938229872850327\ \(0\)\
-\-\ vs\\:\\ 0\\.029004137675868947\ \(0\)\
-\-\ its\\:\\ 0\\.027797684857376218\ \(0\)\
-\-\ ap\\:\\ 0\\.026941025600365844\ \(0\)\
-\-\ presence\\:\\ 0\\.02673953119359594\ \(0\)\
-\-\ portion\\:\\ 0\\.026682815925509366\ \(0\)\
-\-\ would\\:\\ 0\\.026215231710535258\ \(0\)\
-\-\ typically\\:\\ 0\\.02600367042677562\ \(0\)\
-\-\ this\\:\\ 0\\.024856996896055163\ \(0\)\
-\-\ density\\:\\ 0\\.024238201352241025\ \(0\)\
-\-\ several\\:\\ 0\\.02368183479071024\ \(0\)\
-\-\ superior\\:\\ 0\\.023523652560811993\ \(0\)\
-\-\ radiographs\\:\\ 0\\.02332992104484597\ \(0\)\
-\-\ examination\\:\\ 0\\.022900198581677286\ \(0\)\
-\-\ days\\:\\ 0\\.022578226691137737\ \(0\)\
-\-\ month\\:\\ 0\\.02210012535172939\ \(0\)\
-\-\ in\\:\\ 0\\.021796408455530426\ \(0\)\
-\-\ due\\:\\ 0\\.019657561663386548\ \(0\)\
-\-\ who\\:\\ 0\\.01920662421673881\ \(0\)\
-\-\ consistent\\:\\ 0\\.018062916110613822\ \(0\)\
-\-\ chest\\:\\ 0\\.017626974138426885\ \(0\)\
-\-\ posterior\\:\\ 0\\.016979642661228006\ \(0\)\
-\-\ demonstrate\\:\\ 0\\.016952173632181385\ \(0\)\
-\-\ lateral\\:\\ 0\\.01591955211745302\ \(0\)\
-\-\ \\-\\:\\ 0\\.0157907625750721\ \(0\)\
-\-\ presents\\:\\ 0\\.015048657719895912\ \(0\)\
-\-\ seen\\:\\ 0\\.014557134612652501\ \(0\)\
-\-\ the\\:\\ 0\\.01310984596327486\ \(0\)\
-\-\ that\\:\\ 0\\.012723971797920891\ \(0\)\
-\-\ for\\:\\ 0\\.01257083014901233\ \(0\)\
-\-\ normal\\:\\ 0\\.011548383229302595\ \(0\)\
-\-\ be\\:\\ 0\\.011359971752964906\ \(0\)\
-\-\ a\\:\\ 0\\.010256891426343137\ \(0\)\
-\-\ are\\:\\ 0\\.010042016142496566\ \(0\)\
-\-\ is\\:\\ 0\\.009694668592840096\ \(0\)\
-\-\ old\\:\\ 0\\.0075425396281228844\ \(0\)\
-\-\ to\\:\\ 0\\.007363243249017004\ \(0\)\
-\-\ \\,\\:\\ 0\\.004667414922711851\ \(0\)\
-\-\ and\\:\\ 0\\.004655405320660822\ \(0\)\
-\-\ \\.\\:\\ 0\\.0021422133851846893\ \(0\)\
-\-\ with\\:\\ 0\\.002017313380860168\ \(0\)\
-\-\ of\\:\\ 0\\.002008686220654973\ \(0\)\
+Texto: 
+normal chest examination
+ap and lateral radiographs demonstrate a round metallic density overlying the superior mediastinum.
+esophageal foreign body - coin ingestion
+esophageal vs. tracheal foreign body.
+15 month old child who presents with coughing for several days and irritability.
+the orientation of the metallic coin is consistent with a foreign body in the esophagus due to its orientation. conversely, a foreign body in the trachea typically would be seen oriented in the saggital plane. the reason for this is the presence of cartilage rings in the trachea that are incomplete in the posterior section, allowing the coin to distend this portion and orient in this fashion.
+
+
+Keywords by value: 
+- coin: 0.1684379309734255
+- foreign: 0.1451844219992554
+- body: 0.0956987487134167
+- orientation: 0.0939348723100004
+- metallic: 0.08714341910815405
+- trachea: 0.0782560742232835
+- orient: 0.07599584848246982
+- esophageal: 0.06754618317268253
+- distend: 0.06212138372010688
+- conversely: 0.0605496461615383
+- irritability: 0.05457423943257325
+- saggital: 0.053245354261648614
+- coughing: 0.05209422156660962
+- rings: 0.0497499653986472
+- fashion: 0.04859883270360821
+- allowing: 0.04758346170657042
+- reason: 0.046392510512770276
+- tracheal: 0.045346296228250725
+- ingestion: 0.04486724578726098
+- plane: 0.04114195824251679
+- incomplete: 0.039748498315306316
+- section: 0.039494930339389986
+- cartilage: 0.038328194581892044
+- oriented: 0.03612539319553644
+- mediastinum: 0.03547446601874208
+- overlying: 0.03333412528955457
+- child: 0.03224435007528165
+- esophagus: 0.031979077155740665
+- round: 0.03182374521175206
+- 15: 0.02938229872850327
+- vs: 0.029004137675868947
+- its: 0.027797684857376218
+- ap: 0.026941025600365844
+- presence: 0.02673953119359594
+- portion: 0.026682815925509366
+- would: 0.026215231710535258
+- typically: 0.02600367042677562
+- this: 0.024856996896055163
+- density: 0.024238201352241025
+- several: 0.02368183479071024
+- superior: 0.023523652560811993
+- radiographs: 0.02332992104484597
+- examination: 0.022900198581677286
+- days: 0.022578226691137737
+- month: 0.02210012535172939
+- in: 0.021796408455530426
+- due: 0.019657561663386548
+- who: 0.01920662421673881
+- consistent: 0.018062916110613822
+- chest: 0.017626974138426885
+- posterior: 0.016979642661228006
+- demonstrate: 0.016952173632181385
+- lateral: 0.01591955211745302
+- -: 0.0157907625750721
+- presents: 0.015048657719895912
+- seen: 0.014557134612652501
+- the: 0.01310984596327486
+- that: 0.012723971797920891
+- for: 0.01257083014901233
+- normal: 0.011548383229302595
+- be: 0.011359971752964906
+- a: 0.010256891426343137
+- are: 0.010042016142496566
+- is: 0.009694668592840096
+- old: 0.0075425396281228844
+- to: 0.007363243249017004
+- ,: 0.004667414922711851
+- and: 0.004655405320660822
+- .: 0.0021422133851846893
+- with: 0.002017313380860168
+- of: 0.002008686220654973

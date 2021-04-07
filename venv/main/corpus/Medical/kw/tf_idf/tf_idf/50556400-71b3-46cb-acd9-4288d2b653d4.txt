@@ -1,70 +1,72 @@
-\-\ Texto\\:\\ \ \(0\)\
-\-\ the\\ patient\\ is\\ tender\\ to\\ palpation\\ in\\ the\\ right\\ upper\\ quadrant\\ with\\ a\\ positive\\ murphy\\'s\\ sign\\.\ \(0\)\
-\-\ total\\ bilirubin\\ was\\ elevated\\ to\\ 7\\.3\ \(0\)\
-\-\ laparoscopic\\ cholecystecomy\ \(0\)\
-\-\ non\\ visualization\\ of\\ the\\ gallbladder\\ within\\ an\\ hour\\ after\\ radiotracer\\ administration\\,\\ consistent\\ with\\ acute\\ cholecystitis\ \(0\)\
-\-\ cholescintigraphy\\ findings\\ in\\ acute\\ cholecystitis\ \(0\)\
-\-\ cholecystitis\ \(124\)\
-\-\ cholelithiasis\ \(35\)\
-\-\ choledocolithiasis\ \(2\)\
-\-\ 3\\ day\\ history\\ of\\ right\\ upper\\ quadrant\\ pain\\,\\ waxing\\ and\\ waning\\,\\ worse\\ after\\ meals\\.\ \(1\)\
-\-\ please\\ refer\\ to\\ the\\ topic\\ section\\ for\\ a\\ full\\ discussion\\ of\\ cholecystitis\\.\ \(0\)\
-\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
-\-\ cholecystitis\\:\\ 0\\.22694261524752216\ \(0\)\
-\-\ cholescintigraphy\\:\\ 0\\.10152964054258191\ \(0\)\
-\-\ cholecystecomy\\:\\ 0\\.0928653007855826\ \(0\)\
-\-\ choledocolithiasis\\:\\ 0\\.08779698693423055\ \(0\)\
-\-\ waxing\\:\\ 0\\.08420096102858328\ \(0\)\
-\-\ waning\\:\\ 0\\.08420096102858328\ \(0\)\
-\-\ 7\\.3\\:\\ 0\\.08141166663715566\ \(0\)\
-\-\ quadrant\\:\\ 0\\.07518439834965136\ \(0\)\
-\-\ meals\\:\\ 0\\.07155594963260228\ \(0\)\
-\-\ refer\\:\\ 0\\.0681027824247503\ \(0\)\
-\-\ murphy\\:\\ 0\\.06648763578125022\ \(0\)\
-\-\ laparoscopic\\:\\ 0\\.06648763578125022\ \(0\)\
-\-\ bilirubin\\:\\ 0\\.06439945972296066\ \(0\)\
-\-\ cholelithiasis\\:\\ 0\\.059438442667750994\ \(0\)\
-\-\ hour\\:\\ 0\\.058404796219687076\ \(0\)\
-\-\ section\\:\\ 0\\.057267648992115484\ \(0\)\
-\-\ topic\\:\\ 0\\.05673565381188054\ \(0\)\
-\-\ visualization\\:\\ 0\\.056393166634529104\ \(0\)\
-\-\ acute\\:\\ 0\\.052746983227662386\ \(0\)\
-\-\ upper\\:\\ 0\\.051552012634217964\ \(0\)\
-\-\ gallbladder\\:\\ 0\\.051324852783177055\ \(0\)\
-\-\ discussion\\:\\ 0\\.050041675857426006\ \(0\)\
-\-\ radiotracer\\:\\ 0\\.04984005858330247\ \(0\)\
-\-\ please\\:\\ 0\\.04739547378900277\ \(0\)\
-\-\ worse\\:\\ 0\\.04731350628217579\ \(0\)\
-\-\ full\\:\\ 0\\.04614443055704049\ \(0\)\
-\-\ total\\:\\ 0\\.04599649983645296\ \(0\)\
-\-\ administration\\:\\ 0\\.04434575331128963\ \(0\)\
-\-\ after\\:\\ 0\\.044200030065230066\ \(0\)\
-\-\ non\\:\\ 0\\.044153933690356376\ \(0\)\
-\-\ tender\\:\\ 0\\.04335513616561287\ \(0\)\
-\-\ sign\\:\\ 0\\.037005581272050884\ \(0\)\
-\-\ elevated\\:\\ 0\\.036241454516988285\ \(0\)\
-\-\ palpation\\:\\ 0\\.03564923850435065\ \(0\)\
-\-\ positive\\:\\ 0\\.03466106987855146\ \(0\)\
-\-\ day\\:\\ 0\\.03391199786691162\ \(0\)\
-\-\ consistent\\:\\ 0\\.02619122836039004\ \(0\)\
-\-\ 3\\:\\ 0\\.02501219408383175\ \(0\)\
-\-\ \\'s\\:\\ 0\\.023550582729588064\ \(0\)\
-\-\ findings\\:\\ 0\\.022735461697374497\ \(0\)\
-\-\ right\\:\\ 0\\.02254079272776042\ \(0\)\
-\-\ within\\:\\ 0\\.020376642604826023\ \(0\)\
-\-\ to\\:\\ 0\\.016015054066611984\ \(0\)\
-\-\ an\\:\\ 0\\.014770810803559124\ \(0\)\
-\-\ history\\:\\ 0\\.014752681721338543\ \(0\)\
-\-\ pain\\:\\ 0\\.013045102094134184\ \(0\)\
-\-\ was\\:\\ 0\\.012353469027671087\ \(0\)\
-\-\ patient\\:\\ 0\\.01070739913645485\ \(0\)\
-\-\ in\\:\\ 0\\.010534930753506373\ \(0\)\
-\-\ \\,\\:\\ 0\\.010151627456898276\ \(0\)\
-\-\ a\\:\\ 0\\.009914995045465032\ \(0\)\
-\-\ for\\:\\ 0\\.00911385185803394\ \(0\)\
-\-\ is\\:\\ 0\\.0070286347298090706\ \(0\)\
-\-\ the\\:\\ 0\\.00691246423518129\ \(0\)\
-\-\ of\\:\\ 0\\.004368892529924566\ \(0\)\
-\-\ with\\:\\ 0\\.0029251044022472437\ \(0\)\
-\-\ and\\:\\ 0\\.0022501125716527307\ \(0\)\
-\-\ \\.\\:\\ 0\\.0013312326036504852\ \(0\)\
+Texto: 
+the patient is tender to palpation in the right upper quadrant with a positive murphy's sign.
+total bilirubin was elevated to 7.3
+laparoscopic cholecystecomy
+non visualization of the gallbladder within an hour after radiotracer administration, consistent with acute cholecystitis
+cholescintigraphy findings in acute cholecystitis
+cholecystitis
+cholelithiasis
+choledocolithiasis
+3 day history of right upper quadrant pain, waxing and waning, worse after meals.
+please refer to the topic section for a full discussion of cholecystitis.
+
+
+Keywords by value: 
+- cholecystitis: 0.22694261524752216
+- cholescintigraphy: 0.10152964054258191
+- cholecystecomy: 0.0928653007855826
+- choledocolithiasis: 0.08779698693423055
+- waxing: 0.08420096102858328
+- waning: 0.08420096102858328
+- 7.3: 0.08141166663715566
+- quadrant: 0.07518439834965136
+- meals: 0.07155594963260228
+- refer: 0.0681027824247503
+- murphy: 0.06648763578125022
+- laparoscopic: 0.06648763578125022
+- bilirubin: 0.06439945972296066
+- cholelithiasis: 0.059438442667750994
+- hour: 0.058404796219687076
+- section: 0.057267648992115484
+- topic: 0.05673565381188054
+- visualization: 0.056393166634529104
+- acute: 0.052746983227662386
+- upper: 0.051552012634217964
+- gallbladder: 0.051324852783177055
+- discussion: 0.050041675857426006
+- radiotracer: 0.04984005858330247
+- please: 0.04739547378900277
+- worse: 0.04731350628217579
+- full: 0.04614443055704049
+- total: 0.04599649983645296
+- administration: 0.04434575331128963
+- after: 0.044200030065230066
+- non: 0.044153933690356376
+- tender: 0.04335513616561287
+- sign: 0.037005581272050884
+- elevated: 0.036241454516988285
+- palpation: 0.03564923850435065
+- positive: 0.03466106987855146
+- day: 0.03391199786691162
+- consistent: 0.02619122836039004
+- 3: 0.02501219408383175
+- 's: 0.023550582729588064
+- findings: 0.022735461697374497
+- right: 0.02254079272776042
+- within: 0.020376642604826023
+- to: 0.016015054066611984
+- an: 0.014770810803559124
+- history: 0.014752681721338543
+- pain: 0.013045102094134184
+- was: 0.012353469027671087
+- patient: 0.01070739913645485
+- in: 0.010534930753506373
+- ,: 0.010151627456898276
+- a: 0.009914995045465032
+- for: 0.00911385185803394
+- is: 0.0070286347298090706
+- the: 0.00691246423518129
+- of: 0.004368892529924566
+- with: 0.0029251044022472437
+- and: 0.0022501125716527307
+- .: 0.0013312326036504852

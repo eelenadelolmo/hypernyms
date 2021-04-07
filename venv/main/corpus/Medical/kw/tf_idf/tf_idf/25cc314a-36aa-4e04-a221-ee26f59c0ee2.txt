@@ -1,138 +1,140 @@
-\-\ Texto\\:\\ \ \(0\)\
-\-\ treatment\\ for\\ high\\-grade\\ tumors\\ include\\ chemotherapy\\,\\ radiotherapy\\ and\\ surgery\\.\\ \\ \\ low\\ grade\\ tumors\\ are\\ treated\\ surgically\\.\ \(0\)\
-\-\ ct\\ chest\\ \\	\ \(0\)\
-\-\ mass\\-like\\ expansion\\ of\\ the\\ left\\ pectoralis\\ major\\ muscle\\,\\ with\\ focal\\ hypodensity\\ within\\ the\\ substance\\ of\\ the\\ muscle\\ near\\ the\\ chest\\ wall\\.\ \(0\)\
-\-\ pet\\ ct\\ \\	\\	\\ \ \(0\)\
-\-\ hypermetabolic\\ left\\ anterior\\ chest\\ wall\\ mass\\ arising\\ from\\ the\\ medial\\ aspect\\ of\\ the\\ pectoralis\\ major\\ muscle\\.\\ \\ \ \(0\)\
-\-\ maximal\\ suv\\ 10\\.11\\.\ \(0\)\
-\-\ soft\\ tissue\\ sarcoma\ \(13\)\
-\-\ tumor\ \(1901\)\
-\-\ infection\ \(713\)\
-\-\ trauma\ \(1087\)\
-\-\ painful\\ mass\\ of\\ left\\ pectoralis\\ region\\.\ \(0\)\
-\-\ differential\\ diagnosis\\ for\\ a\\ chest\\ wall\\ mass\\ include\\ the\\ broad\\ categories\\ tumor\\,\\ infection\\ and\\ trauma\\.\\ \\ considering\\ involvement\\ primarily\\ of\\ the\\ pectoralis\\ muscle\\,\\ the\\ most\\ likely\\ etiology\\ would\\ be\\ a\\ soft\\ tissue\\ sarcoma\\;\\ other\\ considerations\\ could\\ include\\ metastatic\\ disease\\,\\ however\\ in\\ this\\ case\\,\\ no\\ additional\\ focal\\ abnormalities\\ were\\ noted\\.\\ \\ bone\\ tumor\\ with\\ soft\\ tissue\\ mass\\ is\\ much\\ less\\ likely\\,\\ due\\ to\\ disproportionate\\ involvement\\ of\\ soft\\ tissues\\.\\ \\ infection\\ \\(phlegmon\\ leading\\ to\\ abscess\\)\\ may\\ manifest\\ in\\ a\\ patient\\ with\\ history\\ of\\ \\ penetrating\\ trauma\\,\\ or\\ iv\\ drug\\ abuser\\,\\ however\\ a\\ rim\\-enhancing\\ fluid\\ collection\\ would\\ be\\ expected\\ to\\ be\\ seen\\ on\\ contrast\\ ct\\.\\ \\ in\\ a\\ patient\\ with\\ onset\\ of\\ acute\\ pectoralis\\ pain\\ during\\ exercise\\ \\(e\\.g\\.\\ bench\\ press\\,\\ pushups\\)\\,\\ a\\ muscle\\ tear\\ would\\ be\\ suspected\\;\\ however\\,\\ this\\ would\\ not\\ erode\\ underlying\\ bone\\ as\\ seen\\ in\\ this\\ case\\.\ \(0\)\
-\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
-\-\ pectoralis\\:\\ 0\\.13219628188017937\ \(0\)\
-\-\ muscle\\:\\ 0\\.06643539466290789\ \(0\)\
-\-\ would\\:\\ 0\\.052657435124192034\ \(0\)\
-\-\ 10\\.11\\.\\:\\ 0\\.03816241741976839\ \(0\)\
-\-\ bench\\:\\ 0\\.03816241741976839\ \(0\)\
-\-\ soft\\:\\ 0\\.03603336387867619\ \(0\)\
-\-\ chest\\:\\ 0\\.035406562771558764\ \(0\)\
-\-\ pushups\\:\\ 0\\.03516178027448724\ \(0\)\
-\-\ major\\:\\ 0\\.034590795310488844\ \(0\)\
-\-\ sarcoma\\:\\ 0\\.03294271108112764\ \(0\)\
-\-\ infection\\:\\ 0\\.032259955507439056\ \(0\)\
-\-\ disproportionate\\:\\ 0\\.03216114312920609\ \(0\)\
-\-\ erode\\:\\ 0\\.03216114312920609\ \(0\)\
-\-\ wall\\:\\ 0\\.03214492363946424\ \(0\)\
-\-\ abuser\\:\\ 0\\.031195153729577478\ \(0\)\
-\-\ press\\:\\ 0\\.031195153729577478\ \(0\)\
-\-\ include\\:\\ 0\\.031131863480912816\ \(0\)\
-\-\ however\\:\\ 0\\.030900883838922994\ \(0\)\
-\-\ trauma\\:\\ 0\\.030350763399453626\ \(0\)\
-\-\ rim\\-enhancing\\:\\ 0\\.02973856396065448\ \(0\)\
-\-\ tumors\\:\\ 0\\.027789752014463213\ \(0\)\
-\-\ hypermetabolic\\:\\ 0\\.027781918403325227\ \(0\)\
-\-\ involvement\\:\\ 0\\.02711635200543564\ \(0\)\
-\-\ substance\\:\\ 0\\.026439256376035877\ \(0\)\
-\-\ phlegmon\\:\\ 0\\.026439256376035877\ \(0\)\
-\-\ tissue\\:\\ 0\\.026304171278605116\ \(0\)\
-\-\ mass\\-like\\:\\ 0\\.0258974245883562\ \(0\)\
-\-\ tumor\\:\\ 0\\.02587314677416638\ \(0\)\
-\-\ suv\\:\\ 0\\.025415928332467783\ \(0\)\
-\-\ manifest\\:\\ 0\\.025415928332467783\ \(0\)\
-\-\ high\\-grade\\:\\ 0\\.02519387943901518\ \(0\)\
-\-\ categories\\:\\ 0\\.02519387943901518\ \(0\)\
-\-\ maximal\\:\\ 0\\.024058103402359376\ \(0\)\
-\-\ be\\:\\ 0\\.022818298239721715\ \(0\)\
-\-\ hypodensity\\:\\ 0\\.02277130027046357\ \(0\)\
-\-\ radiotherapy\\:\\ 0\\.022530738144252268\ \(0\)\
-\-\ considering\\:\\ 0\\.022530738144252268\ \(0\)\
-\-\ penetrating\\:\\ 0\\.02178064411276293\ \(0\)\
-\-\ considerations\\:\\ 0\\.02131471050154057\ \(0\)\
-\-\ focal\\:\\ 0\\.021129814754445038\ \(0\)\
-\-\ likely\\:\\ 0\\.020868311393382306\ \(0\)\
-\-\ mass\\:\\ 0\\.020579411375715402\ \(0\)\
-\-\ e\\.g\\:\\ 0\\.01958899992561951\ \(0\)\
-\-\ pet\\:\\ 0\\.019414654041905486\ \(0\)\
-\-\ primarily\\:\\ 0\\.019414654041905486\ \(0\)\
-\-\ broad\\:\\ 0\\.019192605148452883\ \(0\)\
-\-\ drug\\:\\ 0\\.01898139231655058\ \(0\)\
-\-\ exercise\\:\\ 0\\.01898139231655058\ \(0\)\
-\-\ surgically\\:\\ 0\\.018731091143871684\ \(0\)\
-\-\ bone\\:\\ 0\\.018384715856795412\ \(0\)\
-\-\ expansion\\:\\ 0\\.01822661574882427\ \(0\)\
-\-\ expected\\:\\ 0\\.018015402916921972\ \(0\)\
-\-\ leading\\:\\ 0\\.017697535087680336\ \(0\)\
-\-\ painful\\:\\ 0\\.017584104904156423\ \(0\)\
-\-\ \\;\\:\\ 0\\.01753611418573674\ \(0\)\
-\-\ much\\:\\ 0\\.017124268483137774\ \(0\)\
-\-\ tear\\:\\ 0\\.01624642160579884\ \(0\)\
-\-\ case\\:\\ 0\\.016186185565950396\ \(0\)\
-\-\ near\\:\\ 0\\.01600660004999889\ \(0\)\
-\-\ suspected\\:\\ 0\\.015929523752884138\ \(0\)\
-\-\ underlying\\:\\ 0\\.015853795798565884\ \(0\)\
-\-\ etiology\\:\\ 0\\.01565810126710248\ \(0\)\
-\-\ collection\\:\\ 0\\.01565810126710248\ \(0\)\
-\-\ ct\\:\\ 0\\.015523424070026532\ \(0\)\
-\-\ arising\\:\\ 0\\.015313436210978273\ \(0\)\
-\-\ tissues\\:\\ 0\\.015182903578204733\ \(0\)\
-\-\ additional\\:\\ 0\\.01483310257207791\ \(0\)\
-\-\ seen\\:\\ 0\\.014620152511408573\ \(0\)\
-\-\ grade\\:\\ 0\\.014090202566887318\ \(0\)\
-\-\ \\,\\:\\ 0\\.014062860546352592\ \(0\)\
-\-\ could\\:\\ 0\\.013647436986279448\ \(0\)\
-\-\ abnormalities\\:\\ 0\\.013587725635057215\ \(0\)\
-\-\ iv\\:\\ 0\\.013499675053944128\ \(0\)\
-\-\ chemotherapy\\:\\ 0\\.01325950556338037\ \(0\)\
-\-\ less\\:\\ 0\\.012527878806591699\ \(0\)\
-\-\ this\\:\\ 0\\.012482301471612119\ \(0\)\
-\-\ left\\:\\ 0\\.012416951548998894\ \(0\)\
-\-\ medial\\:\\ 0\\.011832465426796761\ \(0\)\
-\-\ differential\\:\\ 0\\.011744414845683677\ \(0\)\
-\-\ abscess\\:\\ 0\\.01169626079711804\ \(0\)\
-\-\ onset\\:\\ 0\\.011677148164178138\ \(0\)\
-\-\ aspect\\:\\ 0\\.01162031140468986\ \(0\)\
-\-\ during\\:\\ 0\\.011320386363306529\ \(0\)\
-\-\ treated\\:\\ 0\\.011072947342354368\ \(0\)\
-\-\ fluid\\:\\ 0\\.010513589197419277\ \(0\)\
-\-\ region\\:\\ 0\\.010448490161209146\ \(0\)\
-\-\ a\\:\\ 0\\.010301293553729904\ \(0\)\
-\-\ low\\:\\ 0\\.01028644178730043\ \(0\)\
-\-\ due\\:\\ 0\\.009871329666462508\ \(0\)\
-\-\ anterior\\:\\ 0\\.009527241661310552\ \(0\)\
-\-\ metastatic\\:\\ 0\\.009312161920415975\ \(0\)\
-\-\ acute\\:\\ 0\\.009133676749378768\ \(0\)\
-\-\ surgery\\:\\ 0\\.008982679932295562\ \(0\)\
-\-\ noted\\:\\ 0\\.00876805709286837\ \(0\)\
-\-\ most\\:\\ 0\\.00854041186895271\ \(0\)\
-\-\ other\\:\\ 0\\.008526573803906704\ \(0\)\
-\-\ diagnosis\\:\\ 0\\.008494455977404416\ \(0\)\
-\-\ were\\:\\ 0\\.00839950795103862\ \(0\)\
-\-\ contrast\\:\\ 0\\.008280414228605652\ \(0\)\
-\-\ may\\:\\ 0\\.008113975622935601\ \(0\)\
-\-\ treatment\\:\\ 0\\.007487519305631546\ \(0\)\
-\-\ patient\\:\\ 0\\.007416380354254441\ \(0\)\
-\-\ in\\:\\ 0\\.007296921734030388\ \(0\)\
-\-\ within\\:\\ 0\\.0070568459237492715\ \(0\)\
-\-\ for\\:\\ 0\\.006312624663573291\ \(0\)\
-\-\ \\(\\:\\ 0\\.0062542140800334245\ \(0\)\
-\-\ \\)\\:\\ 0\\.006177815516132511\ \(0\)\
-\-\ disease\\:\\ 0\\.006046482862405646\ \(0\)\
-\-\ as\\:\\ 0\\.005595573618589297\ \(0\)\
-\-\ to\\:\\ 0\\.005546339070688133\ \(0\)\
-\-\ from\\:\\ 0\\.00548240568465027\ \(0\)\
-\-\ the\\:\\ 0\\.005386335767673732\ \(0\)\
-\-\ not\\:\\ 0\\.005345535375506214\ \(0\)\
-\-\ history\\:\\ 0\\.005109153842887807\ \(0\)\
-\-\ are\\:\\ 0\\.005042744036924683\ \(0\)\
-\-\ pain\\:\\ 0\\.004517784275024825\ \(0\)\
-\-\ or\\:\\ 0\\.004335596315860206\ \(0\)\
-\-\ of\\:\\ 0\\.0040347636639995995\ \(0\)\
-\-\ no\\:\\ 0\\.003724866453263212\ \(0\)\
-\-\ on\\:\\ 0\\.0031337273262572645\ \(0\)\
-\-\ is\\:\\ 0\\.002434159213786691\ \(0\)\
-\-\ with\\:\\ 0\\.0020260463392188697\ \(0\)\
-\-\ \\.\\:\\ 0\\.001690454099873632\ \(0\)\
-\-\ and\\:\\ 0\\.0015585195301490776\ \(0\)\
+Texto: 
+treatment for high-grade tumors include chemotherapy, radiotherapy and surgery.   low grade tumors are treated surgically.
+ct chest 	
+mass-like expansion of the left pectoralis major muscle, with focal hypodensity within the substance of the muscle near the chest wall.
+pet ct 		 
+hypermetabolic left anterior chest wall mass arising from the medial aspect of the pectoralis major muscle.  
+maximal suv 10.11.
+soft tissue sarcoma
+tumor
+infection
+trauma
+painful mass of left pectoralis region.
+differential diagnosis for a chest wall mass include the broad categories tumor, infection and trauma.  considering involvement primarily of the pectoralis muscle, the most likely etiology would be a soft tissue sarcoma; other considerations could include metastatic disease, however in this case, no additional focal abnormalities were noted.  bone tumor with soft tissue mass is much less likely, due to disproportionate involvement of soft tissues.  infection (phlegmon leading to abscess) may manifest in a patient with history of  penetrating trauma, or iv drug abuser, however a rim-enhancing fluid collection would be expected to be seen on contrast ct.  in a patient with onset of acute pectoralis pain during exercise (e.g. bench press, pushups), a muscle tear would be suspected; however, this would not erode underlying bone as seen in this case.
+
+
+Keywords by value: 
+- pectoralis: 0.13219628188017937
+- muscle: 0.06643539466290789
+- would: 0.052657435124192034
+- 10.11.: 0.03816241741976839
+- bench: 0.03816241741976839
+- soft: 0.03603336387867619
+- chest: 0.035406562771558764
+- pushups: 0.03516178027448724
+- major: 0.034590795310488844
+- sarcoma: 0.03294271108112764
+- infection: 0.032259955507439056
+- disproportionate: 0.03216114312920609
+- erode: 0.03216114312920609
+- wall: 0.03214492363946424
+- abuser: 0.031195153729577478
+- press: 0.031195153729577478
+- include: 0.031131863480912816
+- however: 0.030900883838922994
+- trauma: 0.030350763399453626
+- rim-enhancing: 0.02973856396065448
+- tumors: 0.027789752014463213
+- hypermetabolic: 0.027781918403325227
+- involvement: 0.02711635200543564
+- substance: 0.026439256376035877
+- phlegmon: 0.026439256376035877
+- tissue: 0.026304171278605116
+- mass-like: 0.0258974245883562
+- tumor: 0.02587314677416638
+- suv: 0.025415928332467783
+- manifest: 0.025415928332467783
+- high-grade: 0.02519387943901518
+- categories: 0.02519387943901518
+- maximal: 0.024058103402359376
+- be: 0.022818298239721715
+- hypodensity: 0.02277130027046357
+- radiotherapy: 0.022530738144252268
+- considering: 0.022530738144252268
+- penetrating: 0.02178064411276293
+- considerations: 0.02131471050154057
+- focal: 0.021129814754445038
+- likely: 0.020868311393382306
+- mass: 0.020579411375715402
+- e.g: 0.01958899992561951
+- pet: 0.019414654041905486
+- primarily: 0.019414654041905486
+- broad: 0.019192605148452883
+- drug: 0.01898139231655058
+- exercise: 0.01898139231655058
+- surgically: 0.018731091143871684
+- bone: 0.018384715856795412
+- expansion: 0.01822661574882427
+- expected: 0.018015402916921972
+- leading: 0.017697535087680336
+- painful: 0.017584104904156423
+- ;: 0.01753611418573674
+- much: 0.017124268483137774
+- tear: 0.01624642160579884
+- case: 0.016186185565950396
+- near: 0.01600660004999889
+- suspected: 0.015929523752884138
+- underlying: 0.015853795798565884
+- etiology: 0.01565810126710248
+- collection: 0.01565810126710248
+- ct: 0.015523424070026532
+- arising: 0.015313436210978273
+- tissues: 0.015182903578204733
+- additional: 0.01483310257207791
+- seen: 0.014620152511408573
+- grade: 0.014090202566887318
+- ,: 0.014062860546352592
+- could: 0.013647436986279448
+- abnormalities: 0.013587725635057215
+- iv: 0.013499675053944128
+- chemotherapy: 0.01325950556338037
+- less: 0.012527878806591699
+- this: 0.012482301471612119
+- left: 0.012416951548998894
+- medial: 0.011832465426796761
+- differential: 0.011744414845683677
+- abscess: 0.01169626079711804
+- onset: 0.011677148164178138
+- aspect: 0.01162031140468986
+- during: 0.011320386363306529
+- treated: 0.011072947342354368
+- fluid: 0.010513589197419277
+- region: 0.010448490161209146
+- a: 0.010301293553729904
+- low: 0.01028644178730043
+- due: 0.009871329666462508
+- anterior: 0.009527241661310552
+- metastatic: 0.009312161920415975
+- acute: 0.009133676749378768
+- surgery: 0.008982679932295562
+- noted: 0.00876805709286837
+- most: 0.00854041186895271
+- other: 0.008526573803906704
+- diagnosis: 0.008494455977404416
+- were: 0.00839950795103862
+- contrast: 0.008280414228605652
+- may: 0.008113975622935601
+- treatment: 0.007487519305631546
+- patient: 0.007416380354254441
+- in: 0.007296921734030388
+- within: 0.0070568459237492715
+- for: 0.006312624663573291
+- (: 0.0062542140800334245
+- ): 0.006177815516132511
+- disease: 0.006046482862405646
+- as: 0.005595573618589297
+- to: 0.005546339070688133
+- from: 0.00548240568465027
+- the: 0.005386335767673732
+- not: 0.005345535375506214
+- history: 0.005109153842887807
+- are: 0.005042744036924683
+- pain: 0.004517784275024825
+- or: 0.004335596315860206
+- of: 0.0040347636639995995
+- no: 0.003724866453263212
+- on: 0.0031337273262572645
+- is: 0.002434159213786691
+- with: 0.0020260463392188697
+- .: 0.001690454099873632
+- and: 0.0015585195301490776

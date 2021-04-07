@@ -1,112 +1,114 @@
-\-\ Texto\\:\\ \ \(0\)\
-\-\ solid\\ mass\\ in\\ left\\ breast\ \(1\)\
-\-\ patient\\ sent\\ to\\ breast\\ care\\ clinic\\.\ \(0\)\
-\-\ ultrasound\\ demonstrates\\ a\\ hypoechoic\\ well\\ circumscribed\\ mass\\.\ \(0\)\
-\-\ fibroadenoma\ \(22\)\
-\-\ 19\\-year\\-old\\ female\\ with\\ palpable\\ mass\\ in\\ left\\ breast\\.\ \(1\)\
-\-\ fibroadenoma\\ is\\ the\\ most\\ common\\ benign\\ solid\\ lesion\\.\\ \\ it\\ is\\ caused\\ by\\ overgrowth\\ of\\ stromal\\ connective\\ tissue\\.\\ \\ it\\ is\\ typically\\ seen\\ in\\ younger\\ women\\ but\\ may\\ be\\ seen\\ in\\ older\\ patients\\ on\\ hormone\\ replacement\\ therapy\\.\\ \\ physical\\ exam\\ will\\ demonstrate\\ freely\\ moveable\\ masses\\ which\\ may\\ or\\ may\\ not\\ be\\ painful\\.\\ \\ there\\ may\\ be\\ multiple\\ lesions\\ in\\ up\\ to\\ 16\\ \\%\\ of\\ cases\\.\\ \\ \\ the\\ appearance\\ on\\ mammography\\ is\\ a\\ well\\-circumscribed\\ oval\\,\\ round\\ or\\ lobulated\\ mass\\.\\ \\ if\\ undergoing\\ degeneration\\ they\\ will\\ develop\\ coarse\\ calcifications\\ classically\\ referred\\ to\\ as\\ popcorn\\ calcifications\\.\\ \\ ultrasound\\ is\\ typically\\ the\\ first\\ line\\ of\\ imaging\\ in\\ younger\\ patients\\ and\\ will\\ demonstrate\\ a\\ hypoechoic\\ well\\ circumscribed\\ mass\\ with\\ no\\ posterior\\ acoustic\\ shadowing\\.\\ \\ unfortunately\\,\\ nonsurgical\\ imaging\\ is\\ limited\\ in\\ differentiating\\ fibroadenomas\\ from\\ cancer\\ and\\ a\\ biopsy\\ or\\ surgical\\ excision\\ will\\ typically\\ be\\ required\\.\ \(0\)\
-\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
-\-\ fibroadenoma\\:\\ 0\\.06295722142214352\ \(0\)\
-\-\ will\\:\\ 0\\.062173977171607955\ \(0\)\
-\-\ younger\\:\\ 0\\.0579869421799698\ \(0\)\
-\-\ breast\\:\\ 0\\.05498647576448638\ \(0\)\
-\-\ typically\\:\\ 0\\.05261207737510416\ \(0\)\
-\-\ moveable\\:\\ 0\\.05125301409282848\ \(0\)\
-\-\ hypoechoic\\:\\ 0\\.04529694765277178\ \(0\)\
-\-\ 19\\-year\\-old\\:\\ 0\\.044865733344758074\ \(0\)\
-\-\ circumscribed\\:\\ 0\\.04416556496687876\ \(0\)\
-\-\ may\\:\\ 0\\.043589031834840086\ \(0\)\
-\-\ fibroadenomas\\:\\ 0\\.04189581692751394\ \(0\)\
-\-\ solid\\:\\ 0\\.039631937819841624\ \(0\)\
-\-\ overgrowth\\:\\ 0\\.039163237687713154\ \(0\)\
-\-\ calcifications\\:\\ 0\\.03694376458875293\ \(0\)\
-\-\ nonsurgical\\:\\ 0\\.03680588240801452\ \(0\)\
-\-\ freely\\:\\ 0\\.036340517828517216\ \(0\)\
-\-\ popcorn\\:\\ 0\\.034780843487850474\ \(0\)\
-\-\ mass\\:\\ 0\\.03454828508568501\ \(0\)\
-\-\ differentiating\\:\\ 0\\.03383596599077039\ \(0\)\
-\-\ stromal\\:\\ 0\\.030924481758721034\ \(0\)\
-\-\ be\\:\\ 0\\.030645505194044863\ \(0\)\
-\-\ oval\\:\\ 0\\.030104257350233213\ \(0\)\
-\-\ ultrasound\\:\\ 0\\.02947816959309655\ \(0\)\
-\-\ coarse\\:\\ 0\\.02938557155972637\ \(0\)\
-\-\ connective\\:\\ 0\\.02925191157004789\ \(0\)\
-\-\ classically\\:\\ 0\\.0289934710899849\ \(0\)\
-\-\ mammography\\:\\ 0\\.028868435013118837\ \(0\)\
-\-\ unfortunately\\:\\ 0\\.028508694293827627\ \(0\)\
-\-\ hormone\\:\\ 0\\.02816992157217661\ \(0\)\
-\-\ acoustic\\:\\ 0\\.027849806588554352\ \(0\)\
-\-\ shadowing\\:\\ 0\\.02638867619157234\ \(0\)\
-\-\ well\\-circumscribed\\:\\ 0\\.02630848245824481\ \(0\)\
-\-\ patients\\:\\ 0\\.02571598371355844\ \(0\)\
-\-\ sent\\:\\ 0\\.02528843200762741\ \(0\)\
-\-\ degeneration\\:\\ 0\\.025221986101676114\ \(0\)\
-\-\ older\\:\\ 0\\.02502708672935842\ \(0\)\
-\-\ lobulated\\:\\ 0\\.024963545621613126\ \(0\)\
-\-\ develop\\:\\ 0\\.02477698565329045\ \(0\)\
-\-\ undergoing\\:\\ 0\\.024363637271408296\ \(0\)\
-\-\ replacement\\:\\ 0\\.024250741423401893\ \(0\)\
-\-\ women\\:\\ 0\\.024139996103804833\ \(0\)\
-\-\ painful\\:\\ 0\\.023615861818954267\ \(0\)\
-\-\ imaging\\:\\ 0\\.023279928191344217\ \(0\)\
-\-\ demonstrate\\:\\ 0\\.02286572257364001\ \(0\)\
-\-\ 16\\:\\ 0\\.02248115426504843\ \(0\)\
-\-\ well\\:\\ 0\\.022477685499635476\ \(0\)\
-\-\ it\\:\\ 0\\.022335446331779262\ \(0\)\
-\-\ clinic\\:\\ 0\\.022199454361641762\ \(0\)\
-\-\ round\\:\\ 0\\.02146252584048395\ \(0\)\
-\-\ limited\\:\\ 0\\.020965303901889984\ \(0\)\
-\-\ caused\\:\\ 0\\.020839591901813437\ \(0\)\
-\-\ line\\:\\ 0\\.020419846022717573\ \(0\)\
-\-\ excision\\:\\ 0\\.020390992596309845\ \(0\)\
-\-\ seen\\:\\ 0\\.01963520482636849\ \(0\)\
-\-\ is\\:\\ 0\\.01961479459481601\ \(0\)\
-\-\ referred\\:\\ 0\\.018747275834044425\ \(0\)\
-\-\ care\\:\\ 0\\.017919634575981117\ \(0\)\
-\-\ they\\:\\ 0\\.017900849572600616\ \(0\)\
-\-\ required\\:\\ 0\\.017882125068530604\ \(0\)\
-\-\ biopsy\\:\\ 0\\.01762612349788814\ \(0\)\
-\-\ palpable\\:\\ 0\\.017608261875580178\ \(0\)\
-\-\ or\\:\\ 0\\.017468420040064665\ \(0\)\
-\-\ in\\:\\ 0\\.01714988727314991\ \(0\)\
-\-\ benign\\:\\ 0\\.017145641668797684\ \(0\)\
-\-\ masses\\:\\ 0\\.01679414184881446\ \(0\)\
-\-\ first\\:\\ 0\\.016671415318522398\ \(0\)\
-\-\ cases\\:\\ 0\\.016551225953378677\ \(0\)\
-\-\ cancer\\:\\ 0\\.01633235618816724\ \(0\)\
-\-\ appearance\\:\\ 0\\.01420875916706187\ \(0\)\
-\-\ if\\:\\ 0\\.01348106647546881\ \(0\)\
-\-\ up\\:\\ 0\\.013359576459617578\ \(0\)\
-\-\ lesions\\:\\ 0\\.013299770385720626\ \(0\)\
-\-\ therapy\\:\\ 0\\.013282795326980307\ \(0\)\
-\-\ common\\:\\ 0\\.01300155355788603\ \(0\)\
-\-\ physical\\:\\ 0\\.012188984125472315\ \(0\)\
-\-\ tissue\\:\\ 0\\.011775704584026707\ \(0\)\
-\-\ \\%\\:\\ 0\\.011589075775267486\ \(0\)\
-\-\ most\\:\\ 0\\.011469971754233\ \(0\)\
-\-\ posterior\\:\\ 0\\.011451386911060747\ \(0\)\
-\-\ left\\:\\ 0\\.011117503131080404\ \(0\)\
-\-\ exam\\:\\ 0\\.010914150813660106\ \(0\)\
-\-\ demonstrates\\:\\ 0\\.010852448846820848\ \(0\)\
-\-\ but\\:\\ 0\\.010595949424613591\ \(0\)\
-\-\ multiple\\:\\ 0\\.01046398839232133\ \(0\)\
-\-\ surgical\\:\\ 0\\.010443149827043335\ \(0\)\
-\-\ female\\:\\ 0\\.010213722508417638\ \(0\)\
-\-\ lesion\\:\\ 0\\.01011950712790962\ \(0\)\
-\-\ which\\:\\ 0\\.009274096437456678\ \(0\)\
-\-\ a\\:\\ 0\\.00922325120508375\ \(0\)\
-\-\ on\\:\\ 0\\.008417337353086373\ \(0\)\
-\-\ by\\:\\ 0\\.00827250525142369\ \(0\)\
-\-\ as\\:\\ 0\\.0075149854993844635\ \(0\)\
-\-\ to\\:\\ 0\\.007448862356563714\ \(0\)\
-\-\ there\\:\\ 0\\.007393695095726678\ \(0\)\
-\-\ from\\:\\ 0\\.007362998332291932\ \(0\)\
-\-\ not\\:\\ 0\\.0071791783240810194\ \(0\)\
-\-\ no\\:\\ 0\\.005002582271533732\ \(0\)\
-\-\ patient\\:\\ 0\\.00498018564486272\ \(0\)\
-\-\ \\,\\:\\ 0\\.0031477914595033417\ \(0\)\
-\-\ \\.\\:\\ 0\\.002476711820745089\ \(0\)\
-\-\ the\\:\\ 0\\.0024113247332027757\ \(0\)\
-\-\ and\\:\\ 0\\.0020931279736304473\ \(0\)\
-\-\ of\\:\\ 0\\.0020320430371742167\ \(0\)\
-\-\ with\\:\\ 0\\.0013605136754638342\ \(0\)\
+Texto: 
+solid mass in left breast
+patient sent to breast care clinic.
+ultrasound demonstrates a hypoechoic well circumscribed mass.
+fibroadenoma
+19-year-old female with palpable mass in left breast.
+fibroadenoma is the most common benign solid lesion.  it is caused by overgrowth of stromal connective tissue.  it is typically seen in younger women but may be seen in older patients on hormone replacement therapy.  physical exam will demonstrate freely moveable masses which may or may not be painful.  there may be multiple lesions in up to 16 % of cases.   the appearance on mammography is a well-circumscribed oval, round or lobulated mass.  if undergoing degeneration they will develop coarse calcifications classically referred to as popcorn calcifications.  ultrasound is typically the first line of imaging in younger patients and will demonstrate a hypoechoic well circumscribed mass with no posterior acoustic shadowing.  unfortunately, nonsurgical imaging is limited in differentiating fibroadenomas from cancer and a biopsy or surgical excision will typically be required.
+
+
+Keywords by value: 
+- fibroadenoma: 0.06295722142214352
+- will: 0.062173977171607955
+- younger: 0.0579869421799698
+- breast: 0.05498647576448638
+- typically: 0.05261207737510416
+- moveable: 0.05125301409282848
+- hypoechoic: 0.04529694765277178
+- 19-year-old: 0.044865733344758074
+- circumscribed: 0.04416556496687876
+- may: 0.043589031834840086
+- fibroadenomas: 0.04189581692751394
+- solid: 0.039631937819841624
+- overgrowth: 0.039163237687713154
+- calcifications: 0.03694376458875293
+- nonsurgical: 0.03680588240801452
+- freely: 0.036340517828517216
+- popcorn: 0.034780843487850474
+- mass: 0.03454828508568501
+- differentiating: 0.03383596599077039
+- stromal: 0.030924481758721034
+- be: 0.030645505194044863
+- oval: 0.030104257350233213
+- ultrasound: 0.02947816959309655
+- coarse: 0.02938557155972637
+- connective: 0.02925191157004789
+- classically: 0.0289934710899849
+- mammography: 0.028868435013118837
+- unfortunately: 0.028508694293827627
+- hormone: 0.02816992157217661
+- acoustic: 0.027849806588554352
+- shadowing: 0.02638867619157234
+- well-circumscribed: 0.02630848245824481
+- patients: 0.02571598371355844
+- sent: 0.02528843200762741
+- degeneration: 0.025221986101676114
+- older: 0.02502708672935842
+- lobulated: 0.024963545621613126
+- develop: 0.02477698565329045
+- undergoing: 0.024363637271408296
+- replacement: 0.024250741423401893
+- women: 0.024139996103804833
+- painful: 0.023615861818954267
+- imaging: 0.023279928191344217
+- demonstrate: 0.02286572257364001
+- 16: 0.02248115426504843
+- well: 0.022477685499635476
+- it: 0.022335446331779262
+- clinic: 0.022199454361641762
+- round: 0.02146252584048395
+- limited: 0.020965303901889984
+- caused: 0.020839591901813437
+- line: 0.020419846022717573
+- excision: 0.020390992596309845
+- seen: 0.01963520482636849
+- is: 0.01961479459481601
+- referred: 0.018747275834044425
+- care: 0.017919634575981117
+- they: 0.017900849572600616
+- required: 0.017882125068530604
+- biopsy: 0.01762612349788814
+- palpable: 0.017608261875580178
+- or: 0.017468420040064665
+- in: 0.01714988727314991
+- benign: 0.017145641668797684
+- masses: 0.01679414184881446
+- first: 0.016671415318522398
+- cases: 0.016551225953378677
+- cancer: 0.01633235618816724
+- appearance: 0.01420875916706187
+- if: 0.01348106647546881
+- up: 0.013359576459617578
+- lesions: 0.013299770385720626
+- therapy: 0.013282795326980307
+- common: 0.01300155355788603
+- physical: 0.012188984125472315
+- tissue: 0.011775704584026707
+- %: 0.011589075775267486
+- most: 0.011469971754233
+- posterior: 0.011451386911060747
+- left: 0.011117503131080404
+- exam: 0.010914150813660106
+- demonstrates: 0.010852448846820848
+- but: 0.010595949424613591
+- multiple: 0.01046398839232133
+- surgical: 0.010443149827043335
+- female: 0.010213722508417638
+- lesion: 0.01011950712790962
+- which: 0.009274096437456678
+- a: 0.00922325120508375
+- on: 0.008417337353086373
+- by: 0.00827250525142369
+- as: 0.0075149854993844635
+- to: 0.007448862356563714
+- there: 0.007393695095726678
+- from: 0.007362998332291932
+- not: 0.0071791783240810194
+- no: 0.005002582271533732
+- patient: 0.00498018564486272
+- ,: 0.0031477914595033417
+- .: 0.002476711820745089
+- the: 0.0024113247332027757
+- and: 0.0020931279736304473
+- of: 0.0020320430371742167
+- with: 0.0013605136754638342

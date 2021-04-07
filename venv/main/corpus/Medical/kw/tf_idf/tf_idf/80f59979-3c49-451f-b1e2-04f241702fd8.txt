@@ -1,60 +1,63 @@
-\-\ Texto\\:\\ \ \(0\)\
-\-\ intense\\ pain\\ and\\ soft\\ tissue\\ swelling\\ across\\ left\\ hand\\.\ \(0\)\
-\-\ orthopedic\\ fixation\\.\ \(1\)\
-\-\ radiograph\\ of\\ the\\ left\\ hand\\ demonstrates\\ oblique\\ complete\\ fracture\\ through\\ the\\ diaphysis\\ of\\ the\\ 3rd\\ and\\ 4th\\ metacarpals\\.\\ there\\ is\\ posterolateral\\ displacement\\ of\\ the\\ distal\\ fracture\\ fragments\\.\ \(0\)\
-\-\ follow\\-up\\ radiograph\\ shows\\ anatomic\\ alignment\\ following\\ orthopedic\\ fixation\\.\ \(0\)\
-\-\ left\\ 3rd\\ and\\ 4th\\ metacarpal\\ fractures\\.\ \(0\)\
-\-\ fracture\ \(2355\)\
-\-\ hematoma\ \(500\)\
-\-\ dislocation\ \(277\)\
-\-\ table\\ fell\\ on\\ patients\\ left\\ hand\\ while\\ moving\\ furniture\\.\ \(0\)\
-\-\ see\\ factoid\\.\ \(59\)\
-\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
-\-\ hand\\:\\ 0\\.1423870344286793\ \(0\)\
-\-\ furniture\\:\\ 0\\.11912862735089863\ \(0\)\
-\-\ fixation\\:\\ 0\\.11724815160779167\ \(0\)\
-\-\ 4th\\:\\ 0\\.11634213290404456\ \(0\)\
-\-\ 3rd\\:\\ 0\\.11433921473772773\ \(0\)\
-\-\ orthopedic\\:\\ 0\\.11025189123167575\ \(0\)\
-\-\ fracture\\:\\ 0\\.09134085122727481\ \(0\)\
-\-\ metacarpals\\:\\ 0\\.08446714954736434\ \(0\)\
-\-\ metacarpal\\:\\ 0\\.0745902913238131\ \(0\)\
-\-\ radiograph\\:\\ 0\\.07356617983571251\ \(0\)\
-\-\ moving\\:\\ 0\\.07070269575014039\ \(0\)\
-\-\ alignment\\:\\ 0\\.0703324393421929\ \(0\)\
-\-\ table\\:\\ 0\\.06830159876044507\ \(0\)\
-\-\ posterolateral\\:\\ 0\\.0654760339245186\ \(0\)\
-\-\ diaphysis\\:\\ 0\\.06210825295662691\ \(0\)\
-\-\ across\\:\\ 0\\.061716529485366746\ \(0\)\
-\-\ intense\\:\\ 0\\.06114944571375821\ \(0\)\
-\-\ fragments\\:\\ 0\\.0604285540826056\ \(0\)\
-\-\ anatomic\\:\\ 0\\.05832038856265181\ \(0\)\
-\-\ fell\\:\\ 0\\.05524500817911024\ \(0\)\
-\-\ dislocation\\:\\ 0\\.05432064700499672\ \(0\)\
-\-\ oblique\\:\\ 0\\.0536666396960528\ \(0\)\
-\-\ left\\:\\ 0\\.051681365906644045\ \(0\)\
-\-\ displacement\\:\\ 0\\.04948955174957729\ \(0\)\
-\-\ fractures\\:\\ 0\\.0437268729456794\ \(0\)\
-\-\ hematoma\\:\\ 0\\.04109414700570392\ \(0\)\
-\-\ complete\\:\\ 0\\.04064021532413587\ \(0\)\
-\-\ factoid\\:\\ 0\\.04047885802181266\ \(0\)\
-\-\ swelling\\:\\ 0\\.038470417080826116\ \(0\)\
-\-\ follow\\-up\\:\\ 0\\.03756806745191543\ \(0\)\
-\-\ while\\:\\ 0\\.03633309783584208\ \(0\)\
-\-\ see\\:\\ 0\\.03446239474633498\ \(0\)\
-\-\ through\\:\\ 0\\.032796716465146876\ \(0\)\
-\-\ following\\:\\ 0\\.03277402374190741\ \(0\)\
-\-\ shows\\:\\ 0\\.03174829323957944\ \(0\)\
-\-\ distal\\:\\ 0\\.031395656607378745\ \(0\)\
-\-\ patients\\:\\ 0\\.029886143234676026\ \(0\)\
-\-\ soft\\:\\ 0\\.028120631945858787\ \(0\)\
-\-\ tissue\\:\\ 0\\.02737055660071073\ \(0\)\
-\-\ demonstrates\\:\\ 0\\.025224610833151164\ \(0\)\
-\-\ there\\:\\ 0\\.017185345357634982\ \(0\)\
-\-\ pain\\:\\ 0\\.01410281307473966\ \(0\)\
-\-\ on\\:\\ 0\\.00978231097791119\ \(0\)\
-\-\ is\\:\\ 0\\.007598524032226023\ \(0\)\
-\-\ the\\:\\ 0\\.007472934308304097\ \(0\)\
-\-\ and\\:\\ 0\\.007297662394549397\ \(0\)\
-\-\ of\\:\\ 0\\.004723127059377909\ \(0\)\
-\-\ \\.\\:\\ 0\\.0038377876861995976\ \(0\)\
+Texto: 
+intense pain and soft tissue swelling across left hand.
+orthopedic fixation.
+radiograph of the left hand demonstrates oblique complete fracture through the diaphysis of the 3rd and 4th metacarpals. there is posterolateral displacement of the distal fracture fragments.
+
+follow-up radiograph shows anatomic alignment following orthopedic fixation.
+left 3rd and 4th metacarpal fractures.
+fracture
+hematoma
+dislocation
+table fell on patients left hand while moving furniture.
+see factoid.
+
+
+Keywords by value: 
+- hand: 0.1423870344286793
+- furniture: 0.11912862735089863
+- fixation: 0.11724815160779167
+- 4th: 0.11634213290404456
+- 3rd: 0.11433921473772773
+- orthopedic: 0.11025189123167575
+- fracture: 0.09134085122727481
+- metacarpals: 0.08446714954736434
+- metacarpal: 0.0745902913238131
+- radiograph: 0.07356617983571251
+- moving: 0.07070269575014039
+- alignment: 0.0703324393421929
+- table: 0.06830159876044507
+- posterolateral: 0.0654760339245186
+- diaphysis: 0.06210825295662691
+- across: 0.061716529485366746
+- intense: 0.06114944571375821
+- fragments: 0.0604285540826056
+- anatomic: 0.05832038856265181
+- fell: 0.05524500817911024
+- dislocation: 0.05432064700499672
+- oblique: 0.0536666396960528
+- left: 0.051681365906644045
+- displacement: 0.04948955174957729
+- fractures: 0.0437268729456794
+- hematoma: 0.04109414700570392
+- complete: 0.04064021532413587
+- factoid: 0.04047885802181266
+- swelling: 0.038470417080826116
+- follow-up: 0.03756806745191543
+- while: 0.03633309783584208
+- see: 0.03446239474633498
+- through: 0.032796716465146876
+- following: 0.03277402374190741
+- shows: 0.03174829323957944
+- distal: 0.031395656607378745
+- patients: 0.029886143234676026
+- soft: 0.028120631945858787
+- tissue: 0.02737055660071073
+- demonstrates: 0.025224610833151164
+- there: 0.017185345357634982
+- pain: 0.01410281307473966
+- on: 0.00978231097791119
+- is: 0.007598524032226023
+- the: 0.007472934308304097
+- and: 0.007297662394549397
+- of: 0.004723127059377909
+- .: 0.0038377876861995976

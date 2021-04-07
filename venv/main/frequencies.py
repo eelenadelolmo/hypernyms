@@ -131,3 +131,4 @@ freq_calc(dir_all_kw, dir_all)
 dir_all_kw = 'corpus/Medical/txt_all_yake.txt'
 freq_calc(dir_all_kw, dir_all)
 """
+

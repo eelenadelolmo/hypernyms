@@ -1,49 +1,51 @@
-\-\ Texto\\:\\ \ \(0\)\
-\-\ normal\\.\ \(455\)\
-\-\ surgical\\ resection\\.\ \(23\)\
-\-\ enlarged\\ appendix\\ without\\ surrounding\\ inflammatory\\ stranding\\.\ \(0\)\
-\-\ appendiceal\\ mucocele\\ from\\ simple\\ retention\\ cyst\ \(0\)\
-\-\ appendiceal\\ mucocele\\ from\\ mucinous\\ adenoma\\ or\\ adenocarcinoma\\ versus\\ simple\\ retention\\ cyst\ \(0\)\
-\-\ less\\ likely\\ given\\ that\\ the\\ patient\\ is\\ asymptomatic\\:\\ superinfected\\ mucocele\\ or\\ acute\\ appendicitis\ \(0\)\
-\-\ denies\\ right\\ lower\\ quadrant\\ pain\\.\\ normal\\ appetite\\.\ \(0\)\
-\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
-\-\ mucocele\\:\\ 0\\.3026790329988902\ \(0\)\
-\-\ appendiceal\\:\\ 0\\.21944987652112347\ \(0\)\
-\-\ retention\\:\\ 0\\.21201762854104378\ \(0\)\
-\-\ simple\\:\\ 0\\.15593882362882985\ \(0\)\
-\-\ superinfected\\:\\ 0\\.15041428228530654\ \(0\)\
-\-\ mucinous\\:\\ 0\\.09493775870097336\ \(0\)\
-\-\ appetite\\:\\ 0\\.0927565913740033\ \(0\)\
-\-\ cyst\\:\\ 0\\.08505078281578157\ \(0\)\
-\-\ appendix\\:\\ 0\\.07706589025572176\ \(0\)\
-\-\ stranding\\:\\ 0\\.07654420734893108\ \(0\)\
-\-\ versus\\:\\ 0\\.07522089320111358\ \(0\)\
-\-\ appendicitis\\:\\ 0\\.07200490257054247\ \(0\)\
-\-\ adenocarcinoma\\:\\ 0\\.06836211934376368\ \(0\)\
-\-\ \\-\\:\\ 0\\.06784179476697642\ \(0\)\
-\-\ denies\\:\\ 0\\.06677837539120514\ \(0\)\
-\-\ adenoma\\:\\ 0\\.06608322873714836\ \(0\)\
-\-\ quadrant\\:\\ 0\\.05569214692566767\ \(0\)\
-\-\ inflammatory\\:\\ 0\\.05487622118874118\ \(0\)\
-\-\ given\\:\\ 0\\.05424841467622856\ \(0\)\
-\-\ enlarged\\:\\ 0\\.053992982784889\ \(0\)\
-\-\ less\\:\\ 0\\.05359148156153115\ \(0\)\
-\-\ asymptomatic\\:\\ 0\\.05349245181474235\ \(0\)\
-\-\ surrounding\\:\\ 0\\.052021578969717874\ \(0\)\
-\-\ normal\\:\\ 0\\.049615276096263\ \(0\)\
-\-\ resection\\:\\ 0\\.04935028991704109\ \(0\)\
-\-\ from\\:\\ 0\\.04690502641311897\ \(0\)\
-\-\ likely\\:\\ 0\\.04463499936917882\ \(0\)\
-\-\ acute\\:\\ 0\\.039071839427898054\ \(0\)\
-\-\ without\\:\\ 0\\.03725950308070667\ \(0\)\
-\-\ or\\:\\ 0\\.03709343514680398\ \(0\)\
-\-\ lower\\:\\ 0\\.03559003832155301\ \(0\)\
-\-\ surgical\\:\\ 0\\.033263366115767655\ \(0\)\
-\-\ that\\:\\ 0\\.027332976454793025\ \(0\)\
-\-\ \\:\\:\\ 0\\.020931015110938242\ \(0\)\
-\-\ pain\\:\\ 0\\.019326077176495086\ \(0\)\
-\-\ right\\:\\ 0\\.016696883502044752\ \(0\)\
-\-\ patient\\:\\ 0\\.015862813535488664\ \(0\)\
-\-\ is\\:\\ 0\\.010412792192309733\ \(0\)\
-\-\ \\.\\:\\ 0\\.003286994083087618\ \(0\)\
-\-\ the\\:\\ 0\\.002560171938956033\ \(0\)\
+Texto: 
+normal.
+surgical resection.
+enlarged appendix without surrounding inflammatory stranding.
+appendiceal mucocele from simple retention cyst
+- appendiceal mucocele from mucinous adenoma or adenocarcinoma versus simple retention cyst
+- less likely given that the patient is asymptomatic: superinfected mucocele or acute appendicitis
+denies right lower quadrant pain. normal appetite.
+
+
+Keywords by value: 
+- mucocele: 0.3026790329988902
+- appendiceal: 0.21944987652112347
+- retention: 0.21201762854104378
+- simple: 0.15593882362882985
+- superinfected: 0.15041428228530654
+- mucinous: 0.09493775870097336
+- appetite: 0.0927565913740033
+- cyst: 0.08505078281578157
+- appendix: 0.07706589025572176
+- stranding: 0.07654420734893108
+- versus: 0.07522089320111358
+- appendicitis: 0.07200490257054247
+- adenocarcinoma: 0.06836211934376368
+- -: 0.06784179476697642
+- denies: 0.06677837539120514
+- adenoma: 0.06608322873714836
+- quadrant: 0.05569214692566767
+- inflammatory: 0.05487622118874118
+- given: 0.05424841467622856
+- enlarged: 0.053992982784889
+- less: 0.05359148156153115
+- asymptomatic: 0.05349245181474235
+- surrounding: 0.052021578969717874
+- normal: 0.049615276096263
+- resection: 0.04935028991704109
+- from: 0.04690502641311897
+- likely: 0.04463499936917882
+- acute: 0.039071839427898054
+- without: 0.03725950308070667
+- or: 0.03709343514680398
+- lower: 0.03559003832155301
+- surgical: 0.033263366115767655
+- that: 0.027332976454793025
+- :: 0.020931015110938242
+- pain: 0.019326077176495086
+- right: 0.016696883502044752
+- patient: 0.015862813535488664
+- is: 0.010412792192309733
+- .: 0.003286994083087618
+- the: 0.002560171938956033

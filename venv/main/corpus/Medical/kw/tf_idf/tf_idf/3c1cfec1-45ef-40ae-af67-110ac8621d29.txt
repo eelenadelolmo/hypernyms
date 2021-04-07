@@ -1,35 +1,37 @@
-\-\ Texto\\:\\ \ \(0\)\
-\-\ mesenteric\\ carcinoid\\ tumor\\ with\\ areas\\ of\\ calcification\\.\ \(0\)\
-\-\ mesenteric\\ carcinoid\\ tumor\ \(0\)\
-\-\ desmoid\\ tumor\ \(1\)\
-\-\ primary\\ mesenteric\\ tumors\ \(0\)\
-\-\ sclerosing\\ mesenteritis\ \(0\)\
-\-\ lipomas\\ \ \(31\)\
-\-\ schwannomas\\ \ \(11\)\
-\-\ smooth\\ muscle\\ tumors\ \(0\)\
-\-\ right\\ upper\\ quadrant\\ pain\\,\\ hx\\ of\\ urolithiasis\\.\ \(0\)\
-\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
-\-\ mesenteric\\:\\ 0\\.36940510319675124\ \(0\)\
-\-\ carcinoid\\:\\ 0\\.3173655503551956\ \(0\)\
-\-\ mesenteritis\\:\\ 0\\.2538241013564548\ \(0\)\
-\-\ urolithiasis\\:\\ 0\\.21467525859097453\ \(0\)\
-\-\ tumors\\:\\ 0\\.2006072723544063\ \(0\)\
-\-\ lipomas\\:\\ 0\\.1888415531789599\ \(0\)\
-\-\ schwannomas\\:\\ 0\\.1888415531789599\ \(0\)\
-\-\ desmoid\\:\\ 0\\.18694703374719632\ \(0\)\
-\-\ tumor\\:\\ 0\\.18677177827601354\ \(0\)\
-\-\ sclerosing\\:\\ 0\\.15794744713352923\ \(0\)\
-\-\ hx\\:\\ 0\\.1322047170404977\ \(0\)\
-\-\ smooth\\:\\ 0\\.11688576902289598\ \(0\)\
-\-\ calcification\\:\\ 0\\.09693080057678528\ \(0\)\
-\-\ muscle\\:\\ 0\\.09591610104457328\ \(0\)\
-\-\ quadrant\\:\\ 0\\.0939804979370642\ \(0\)\
-\-\ areas\\:\\ 0\\.08985459910143959\ \(0\)\
-\-\ primary\\:\\ 0\\.07910575821549051\ \(0\)\
-\-\ upper\\:\\ 0\\.06444001579277245\ \(0\)\
-\-\ pain\\:\\ 0\\.03261275523533546\ \(0\)\
-\-\ right\\:\\ 0\\.02817599090970052\ \(0\)\
-\-\ \\,\\:\\ 0\\.00845968954741523\ \(0\)\
-\-\ of\\:\\ 0\\.007281487549874277\ \(0\)\
-\-\ with\\:\\ 0\\.0036563805028090542\ \(0\)\
-\-\ \\.\\:\\ 0\\.002218721006084142\ \(0\)\
+Texto: 
+mesenteric carcinoid tumor with areas of calcification.
+mesenteric carcinoid tumor
+desmoid tumor
+primary mesenteric tumors
+sclerosing mesenteritis
+lipomas 
+schwannomas 
+smooth muscle tumors
+right upper quadrant pain, hx of urolithiasis.
+
+
+Keywords by value: 
+- mesenteric: 0.36940510319675124
+- carcinoid: 0.3173655503551956
+- mesenteritis: 0.2538241013564548
+- urolithiasis: 0.21467525859097453
+- tumors: 0.2006072723544063
+- lipomas: 0.1888415531789599
+- schwannomas: 0.1888415531789599
+- desmoid: 0.18694703374719632
+- tumor: 0.18677177827601354
+- sclerosing: 0.15794744713352923
+- hx: 0.1322047170404977
+- smooth: 0.11688576902289598
+- calcification: 0.09693080057678528
+- muscle: 0.09591610104457328
+- quadrant: 0.0939804979370642
+- areas: 0.08985459910143959
+- primary: 0.07910575821549051
+- upper: 0.06444001579277245
+- pain: 0.03261275523533546
+- right: 0.02817599090970052
+- ,: 0.00845968954741523
+- of: 0.007281487549874277
+- with: 0.0036563805028090542
+- .: 0.002218721006084142

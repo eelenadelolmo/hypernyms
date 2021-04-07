@@ -1,28 +1,31 @@
-\-\ Texto\\:\\ \ \(0\)\
-\-\ labs\\ wnml\ \(0\)\
-\-\ punctate\\ calcification\\ involving\\ the\\ bilateral\\ \\ \\ femoral\\/tibia\\ cartilage\ \(0\)\
-\-\ marked\\ calcified\\ artherosclerotic\\ disease\ \(0\)\
-\-\ chondrocalcinosis\ \(30\)\
-\-\ 56\\ y\\/o\\ female\\ c\\/o\\ right\\ knee\\ pain\ \(1\)\
-\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
-\-\ \\-punctate\\:\\ 0\\.4197865916174523\ \(0\)\
-\-\ femoral\\/tibia\\:\\ 0\\.4197865916174523\ \(0\)\
-\-\ artherosclerotic\\:\\ 0\\.4197865916174523\ \(0\)\
-\-\ \\-marked\\:\\ 0\\.38677958301935966\ \(0\)\
-\-\ wnml\\:\\ 0\\.36747172072849466\ \(0\)\
-\-\ chondrocalcinosis\\:\\ 0\\.27480933267824165\ \(0\)\
-\-\ c\\/o\\:\\ 0\\.23851694924743708\ \(0\)\
-\-\ 56\\:\\ 0\\.21419191954429467\ \(0\)\
-\-\ cartilage\\:\\ 0\\.21171764626187983\ \(0\)\
-\-\ calcified\\:\\ 0\\.17466780700728785\ \(0\)\
-\-\ calcification\\:\\ 0\\.1477040770693871\ \(0\)\
-\-\ knee\\:\\ 0\\.14754717726477506\ \(0\)\
-\-\ involving\\:\\ 0\\.14278129828587113\ \(0\)\
-\-\ labs\\:\\ 0\\.1415225717588161\ \(0\)\
-\-\ y\\/o\\:\\ 0\\.11269662046760193\ \(0\)\
-\-\ bilateral\\:\\ 0\\.09875322520544971\ \(0\)\
-\-\ female\\:\\ 0\\.08365525102132541\ \(0\)\
-\-\ disease\\:\\ 0\\.0665113114864621\ \(0\)\
-\-\ pain\\:\\ 0\\.04969562702527308\ \(0\)\
-\-\ right\\:\\ 0\\.04293484329097222\ \(0\)\
-\-\ the\\:\\ 0\\.006583299271601228\ \(0\)\
+Texto: 
+labs wnml
+-punctate calcification involving the bilateral   femoral/tibia cartilage
+
+-marked calcified artherosclerotic disease
+chondrocalcinosis
+56 y/o female c/o right knee pain
+
+
+Keywords by value: 
+- -punctate: 0.4197865916174523
+- femoral/tibia: 0.4197865916174523
+- artherosclerotic: 0.4197865916174523
+- -marked: 0.38677958301935966
+- wnml: 0.36747172072849466
+- chondrocalcinosis: 0.27480933267824165
+- c/o: 0.23851694924743708
+- 56: 0.21419191954429467
+- cartilage: 0.21171764626187983
+- calcified: 0.17466780700728785
+- calcification: 0.1477040770693871
+- knee: 0.14754717726477506
+- involving: 0.14278129828587113
+- labs: 0.1415225717588161
+- y/o: 0.11269662046760193
+- bilateral: 0.09875322520544971
+- female: 0.08365525102132541
+- disease: 0.0665113114864621
+- pain: 0.04969562702527308
+- right: 0.04293484329097222
+- the: 0.006583299271601228

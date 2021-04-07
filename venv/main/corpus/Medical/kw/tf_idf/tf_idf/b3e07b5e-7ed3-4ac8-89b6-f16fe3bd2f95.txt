@@ -1,212 +1,224 @@
-\-\ Texto\\:\\ \ \(0\)\
-\-\ wbc\\ 6000\ \(0\)\
-\-\ positive\\ ppd\ \(0\)\
-\-\ patient\\ was\\ admitted\\ for\\ treatment\\ of\\ tuberculosis\\ with\\ iv\\ antibiotics\\.\ \(0\)\
-\-\ chest\\ radiograph\\ demonstrates\\ biapical\\ reticulonodular\\ opacities\\ with\\ a\\ cavitary\\ lesion\\ in\\ the\\ right\\ upper\\ lobe\\.\ \(0\)\
-\-\ ct\\:\\ chest\\ ct\\ demonstrates\\ tree\\-in\\-bud\\ opacities\\ in\\ the\\ upper\\ lobes\\ and\\ mid\\ lungs\\ with\\ a\\ cavitary\\ lesion\\ in\\ the\\ right\\ upper\\ lobe\\.\\ \\ right\\ hilar\\ lymphadenopathy\\ was\\ present\\.\ \(0\)\
-\-\ lumbar\\ spine\\ demonstrates\\ l3\\-4\\ intervertebral\\ disk\\ space\\ narrowing\\ with\\ irregularity\\ of\\ the\\ end\\ plates\\ and\\ no\\ osteophyte\\ formation\\.\ \(0\)\
-\-\ mri\\:\\ \\ right\\ paravertebral\\ rim\\ enhancing\\ fluid\\ is\\ demonstrated\\ adjacent\\ to\\ the\\ l4\\ level\\.\\ \\ marrow\\ edema\\ is\\ present\\ in\\ l3\\ through\\ l5\\.\ \(0\)\
-\-\ reactivation\\ tuberculosis\\ \\(tb\\)\\ vertebral\\ osteomyelitis\\,\\ paraspinal\\ psoas\\ abscess\ \(0\)\
-\-\ spinal\\ involvement\\:\ \(0\)\
-\-\ metastasis\ \(206\)\
-\-\ brucellosis\ \(1\)\
-\-\ fungal\\ infection\ \(12\)\
-\-\ sarcoid\ \(163\)\
-\-\ 23\\ y\\.o\\.\\ man\\ with\\ a\\ chronic\\ cough\\,\\ thought\\ to\\ be\\ secondary\\ to\\ allergies\\.\\ \\ he\\ also\\ has\\ a\\ history\\ of\\ chronic\\ low\\ back\\ pain\\.\ \(0\)\
-\-\ spine\\:\\ \\ radiographic\\ findings\\ associating\\ pulmonary\\ disease\\ and\\ vertebral\\ osteomyelitis\\ was\\ strongly\\ suggestive\\ for\\ tuberculosis\\ and\\ pott\\ disease\\.\ \(0\)\
-\-\ the\\ spine\\ is\\ the\\ most\\ common\\ osseous\\ site\\ of\\ involvement\\ for\\ tuberculosis\\ with\\ the\\ most\\ common\\ level\\ being\\ l1\\.\\ \\ more\\ than\\ one\\ vertebral\\ body\\ is\\ affected\\ as\\ was\\ the\\ case\\ in\\ this\\ patient\\.\\ \\ paraspinal\\ involvement\\ extending\\ to\\ the\\ psoas\\ may\\ occur\\.\ \(0\)\
-\-\ the\\ diagnosis\\ for\\ tuberculosis\\ is\\ favored\\ in\\ cases\\ where\\ there\\ is\\ a\\ calcified\\ paravertebral\\ mass\\ and\\ absent\\ sclerosis\\ or\\ bone\\ formation\\.\ \(0\)\
-\-\ reference\\:\ \(0\)\
-\-\ engin\\,\\ g\\,\\ acunas\\,\\ b\\,\\ acunas\\,\\ g\\,\\ tunaci\\,\\ m\\.\\ \\ imaging\\ of\\ extrapulmonary\\ tuberculosis\\.\\ \\ radiographics\\.\\ \\ 20\\(2\\)\\:\\ 2000\\.\ \(0\)\
-\-\ chest\\:\\ \\ the\\ radiographic\\ findings\\ of\\ upper\\ lobe\\ parenchymal\\ disease\\ with\\ cavitation\\ is\\ characteristic\\ for\\ reactivation\\ tuberculosis\\.\\ \\ the\\ earliest\\ finding\\ is\\ patchy\\,\\ ill\\ defined\\ segmental\\ consolidation\\.\\ \\ \ \(0\)\
-\-\ tree\\ in\\ bud\\ appearance\\ denotes\\ centrilobular\\ nodules\\ with\\ branching\\ centrolobular\\ opacities\\ is\\ characteristic\\ but\\ not\\ pathognomonic\\ for\\ active\\ disease\\.\ \(0\)\
-\-\ reference\\:\ \(0\)\
-\-\ harisinghani\\,\\ m\\,\\ mcloud\\,\\ t\\,\\ shepard\\,\\ jt\\,\\ ko\\,\\ j\\,\\ shroff\\,\\ m\\ and\\ mueller\\,\\ p\\.\\ \\ tuberculosis\\ from\\ head\\ to\\ toe\\.\\ \\ radiographics\\.\\ \\ 20\\ \\(2\\)\\:\\ 2000\\.\ \(0\)\
-\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
-\-\ tuberculosis\\:\\ 0\\.09199065074809601\ \(0\)\
-\-\ acunas\\:\\ 0\\.04980518883596892\ \(0\)\
-\-\ reactivation\\:\\ 0\\.041973017304218124\ \(0\)\
-\-\ opacities\\:\\ 0\\.03778652201082124\ \(0\)\
-\-\ paravertebral\\:\\ 0\\.033798333784803854\ \(0\)\
-\-\ psoas\\:\\ 0\\.03139786376240122\ \(0\)\
-\-\ cavitary\\:\\ 0\\.030050908827683714\ \(0\)\
-\-\ \\:\\:\\ 0\\.028735800406542333\ \(0\)\
-\-\ vertebral\\:\\ 0\\.02865929169840897\ \(0\)\
-\-\ g\\:\\ 0\\.028555470668208675\ \(0\)\
-\-\ radiographics\\:\\ 0\\.028298621097153552\ \(0\)\
-\-\ involvement\\:\\ 0\\.02654185302226963\ \(0\)\
-\-\ reference\\:\\ 0\\.02596616225305306\ \(0\)\
-\-\ paraspinal\\:\\ 0\\.02580239085828892\ \(0\)\
-\-\ m\\:\\ 0\\.02490846992487144\ \(0\)\
-\-\ 6000\\:\\ 0\\.02490259441798446\ \(0\)\
-\-\ tunaci\\:\\ 0\\.02490259441798446\ \(0\)\
-\-\ centrolobular\\:\\ 0\\.02490259441798446\ \(0\)\
-\-\ shepard\\:\\ 0\\.02490259441798446\ \(0\)\
-\-\ ko\\:\\ 0\\.02490259441798446\ \(0\)\
-\-\ shroff\\:\\ 0\\.02490259441798446\ \(0\)\
-\-\ mueller\\:\\ 0\\.02490259441798446\ \(0\)\
-\-\ spine\\:\\ 0\\.02384833513563854\ \(0\)\
-\-\ upper\\:\\ 0\\.023300344693431847\ \(0\)\
-\-\ brucellosis\\:\\ 0\\.02294455153504676\ \(0\)\
-\-\ associating\\:\\ 0\\.02294455153504676\ \(0\)\
-\-\ extrapulmonary\\:\\ 0\\.02294455153504676\ \(0\)\
-\-\ mcloud\\:\\ 0\\.02294455153504676\ \(0\)\
-\-\ osteomyelitis\\:\\ 0\\.02243690021190908\ \(0\)\
-\-\ tree\\-in\\-bud\\:\\ 0\\.02179916987372426\ \(0\)\
-\-\ engin\\:\\ 0\\.02179916987372426\ \(0\)\
-\-\ denotes\\:\\ 0\\.02179916987372426\ \(0\)\
-\-\ harisinghani\\:\\ 0\\.02179916987372426\ \(0\)\
-\-\ characteristic\\:\\ 0\\.020435149111303237\ \(0\)\
-\-\ bud\\:\\ 0\\.02035615963709717\ \(0\)\
-\-\ formation\\:\\ 0\\.019927973973287928\ \(0\)\
-\-\ biapical\\:\\ 0\\.01984112699078656\ \(0\)\
-\-\ 2000\\.\\:\\ 0\\.01984112699078656\ \(0\)\
-\-\ lobe\\:\\ 0\\.019485808033250288\ \(0\)\
-\-\ jt\\:\\ 0\\.019028465769171363\ \(0\)\
-\-\ earliest\\:\\ 0\\.01839811675415947\ \(0\)\
-\-\ radiographic\\:\\ 0\\.018324092608975898\ \(0\)\
-\-\ pott\\:\\ 0\\.018128878958102057\ \(0\)\
-\-\ centrilobular\\:\\ 0\\.018128878958102057\ \(0\)\
-\-\ cavitation\\:\\ 0\\.017656974764138307\ \(0\)\
-\-\ l3\\-4\\:\\ 0\\.01744763021003175\ \(0\)\
-\-\ favored\\:\\ 0\\.01744763021003175\ \(0\)\
-\-\ 20\\:\\ 0\\.017358843142130032\ \(0\)\
-\-\ chest\\:\\ 0\\.017328211864894225\ \(0\)\
-\-\ reticulonodular\\:\\ 0\\.017070422886233665\ \(0\)\
-\-\ l1\\:\\ 0\\.016899166892401927\ \(0\)\
-\-\ plates\\:\\ 0\\.01617083607516436\ \(0\)\
-\-\ p\\.\\:\\ 0\\.015925041224911164\ \(0\)\
-\-\ demonstrates\\:\\ 0\\.01581882374282361\ \(0\)\
-\-\ disease\\:\\ 0\\.015782345098482534\ \(0\)\
-\-\ ppd\\:\\ 0\\.01569893188120061\ \(0\)\
-\-\ ill\\:\\ 0\\.01569893188120061\ \(0\)\
-\-\ osteophyte\\:\\ 0\\.015294692209899272\ \(0\)\
-\-\ branching\\:\\ 0\\.015294692209899272\ \(0\)\
-\-\ \\,\\:\\ 0\\.015294353984027535\ \(0\)\
-\-\ intervertebral\\:\\ 0\\.014859238312082159\ \(0\)\
-\-\ l3\\:\\ 0\\.014482030988284073\ \(0\)\
-\-\ tree\\:\\ 0\\.014344205665771553\ \(0\)\
-\-\ is\\:\\ 0\\.01429552826401845\ \(0\)\
-\-\ l4\\:\\ 0\\.014277735334104338\ \(0\)\
-\-\ allergies\\:\\ 0\\.014149310548576776\ \(0\)\
-\-\ m\\.\\:\\ 0\\.014149310548576776\ \(0\)\
-\-\ toe\\:\\ 0\\.014087223241461591\ \(0\)\
-\-\ 2000\\:\\ 0\\.013966998341973468\ \(0\)\
-\-\ level\\:\\ 0\\.013914627274841423\ \(0\)\
-\-\ chronic\\:\\ 0\\.013598811485350281\ \(0\)\
-\-\ l5\\:\\ 0\\.013531544444156352\ \(0\)\
-\-\ strongly\\:\\ 0\\.013432416422090619\ \(0\)\
-\-\ disk\\:\\ 0\\.013067411530904158\ \(0\)\
-\-\ pathognomonic\\:\\ 0\\.013067411530904158\ \(0\)\
-\-\ patchy\\:\\ 0\\.012941841580139092\ \(0\)\
-\-\ irregularity\\:\\ 0\\.01290119542914446\ \(0\)\
-\-\ segmental\\:\\ 0\\.012668884417175614\ \(0\)\
-\-\ common\\:\\ 0\\.01263427803365196\ \(0\)\
-\-\ sarcoid\\:\\ 0\\.012386162782833852\ \(0\)\
-\-\ for\\:\\ 0\\.01235776523123246\ \(0\)\
-\-\ end\\:\\ 0\\.012254750309288959\ \(0\)\
-\-\ hilar\\:\\ 0\\.012129180358523893\ \(0\)\
-\-\ consolidation\\:\\ 0\\.012098641047495034\ \(0\)\
-\-\ parenchymal\\:\\ 0\\.011865530811088244\ \(0\)\
-\-\ fungal\\:\\ 0\\.011702512964702236\ \(0\)\
-\-\ tb\\:\\ 0\\.011624401294277067\ \(0\)\
-\-\ 23\\:\\ 0\\.01147437353915292\ \(0\)\
-\-\ b\\:\\ 0\\.011378606444023878\ \(0\)\
-\-\ t\\:\\ 0\\.011174310789844141\ \(0\)\
-\-\ was\\:\\ 0\\.011166977652132055\ \(0\)\
-\-\ most\\:\\ 0\\.011145961252700995\ \(0\)\
-\-\ thought\\:\\ 0\\.011109368647966461\ \(0\)\
-\-\ present\\:\\ 0\\.010904004259501021\ \(0\)\
-\-\ j\\:\\ 0\\.010903082955834004\ \(0\)\
-\-\ lobes\\:\\ 0\\.010637464454002715\ \(0\)\
-\-\ marrow\\:\\ 0\\.010619414176887543\ \(0\)\
-\-\ absent\\:\\ 0\\.01046195094805072\ \(0\)\
-\-\ affected\\:\\ 0\\.010444984778389106\ \(0\)\
-\-\ admitted\\:\\ 0\\.010428119899896155\ \(0\)\
-\-\ 2\\:\\ 0\\.010396070601754499\ \(0\)\
-\-\ calcified\\:\\ 0\\.010361649568228942\ \(0\)\
-\-\ suggestive\\:\\ 0\\.010312803531194872\ \(0\)\
-\-\ findings\\:\\ 0\\.010275914891468698\ \(0\)\
-\-\ lymphadenopathy\\:\\ 0\\.01026478777874128\ \(0\)\
-\-\ lumbar\\:\\ 0\\.01026478777874128\ \(0\)\
-\-\ osseous\\:\\ 0\\.010248962198095318\ \(0\)\
-\-\ rim\\:\\ 0\\.010217574555651619\ \(0\)\
-\-\ site\\:\\ 0\\.0102020105561856\ \(0\)\
-\-\ right\\:\\ 0\\.010187928916501884\ \(0\)\
-\-\ defined\\:\\ 0\\.010171137475586194\ \(0\)\
-\-\ mid\\:\\ 0\\.010095399460188857\ \(0\)\
-\-\ nodules\\:\\ 0\\.010007115438990823\ \(0\)\
-\-\ where\\:\\ 0\\.009852096766036489\ \(0\)\
-\-\ lesion\\:\\ 0\\.009833645344635336\ \(0\)\
-\-\ narrowing\\:\\ 0\\.009679227949576263\ \(0\)\
-\-\ cough\\:\\ 0\\.009249307567254441\ \(0\)\
-\-\ active\\:\\ 0\\.009216267906906443\ \(0\)\
-\-\ lungs\\:\\ 0\\.009140645757006429\ \(0\)\
-\-\ antibiotics\\:\\ 0\\.009066995360651134\ \(0\)\
-\-\ occur\\:\\ 0\\.009056628894863103\ \(0\)\
-\-\ metastasis\\:\\ 0\\.009036009396327477\ \(0\)\
-\-\ iv\\:\\ 0\\.008809109992827949\ \(0\)\
-\-\ wbc\\:\\ 0\\.008799646470553141\ \(0\)\
-\-\ sclerosis\\:\\ 0\\.008670382015328658\ \(0\)\
-\-\ spinal\\:\\ 0\\.008643435622541204\ \(0\)\
-\-\ being\\:\\ 0\\.00841183044293943\ \(0\)\
-\-\ in\\:\\ 0\\.008332713590344024\ \(0\)\
-\-\ extending\\:\\ 0\\.008115025561694342\ \(0\)\
-\-\ cases\\:\\ 0\\.00804183859881676\ \(0\)\
-\-\ space\\:\\ 0\\.007984624313775803\ \(0\)\
-\-\ back\\:\\ 0\\.007963464224145416\ \(0\)\
-\-\ body\\:\\ 0\\.007839728001946567\ \(0\)\
-\-\ positive\\:\\ 0\\.007833010142045528\ \(0\)\
-\-\ finding\\:\\ 0\\.00777983475999571\ \(0\)\
-\-\ radiograph\\:\\ 0\\.007689120491303284\ \(0\)\
-\-\ adjacent\\:\\ 0\\.007632305774390585\ \(0\)\
-\-\ abscess\\:\\ 0\\.007632305774390585\ \(0\)\
-\-\ enhancing\\:\\ 0\\.00757049020588915\ \(0\)\
-\-\ demonstrated\\:\\ 0\\.007083107295076179\ \(0\)\
-\-\ pulmonary\\:\\ 0\\.0070524020062713655\ \(0\)\
-\-\ infection\\:\\ 0\\.007016995971957082\ \(0\)\
-\-\ y\\.o\\:\\ 0\\.006967173538380509\ \(0\)\
-\-\ appearance\\:\\ 0\\.006903690894730626\ \(0\)\
-\-\ fluid\\:\\ 0\\.006860562442383766\ \(0\)\
-\-\ through\\:\\ 0\\.006855810786499629\ \(0\)\
-\-\ head\\:\\ 0\\.0068463313858019665\ \(0\)\
-\-\ edema\\:\\ 0\\.006827467484269183\ \(0\)\
-\-\ ct\\:\\ 0\\.006753127985265779\ \(0\)\
-\-\ secondary\\:\\ 0\\.0067486722217762925\ \(0\)\
-\-\ he\\:\\ 0\\.006734992491618699\ \(0\)\
-\-\ low\\:\\ 0\\.006712339132390959\ \(0\)\
-\-\ one\\:\\ 0\\.006541614077148712\ \(0\)\
-\-\ than\\:\\ 0\\.006324996765305858\ \(0\)\
-\-\ \\(\\:\\ 0\\.006121709544439496\ \(0\)\
-\-\ \\)\\:\\ 0\\.0060469295941805515\ \(0\)\
-\-\ more\\:\\ 0\\.006037221212746233\ \(0\)\
-\-\ to\\:\\ 0\\.0060320354299856814\ \(0\)\
-\-\ bone\\:\\ 0\\.005998403054971384\ \(0\)\
-\-\ man\\:\\ 0\\.005708847014378529\ \(0\)\
-\-\ imaging\\:\\ 0\\.005655575775298313\ \(0\)\
-\-\ a\\:\\ 0\\.0056016921160819385\ \(0\)\
-\-\ mri\\:\\ 0\\.005545976991284237\ \(0\)\
-\-\ diagnosis\\:\\ 0\\.0055429924598316945\ \(0\)\
-\-\ may\\:\\ 0\\.0052947129064918755\ \(0\)\
-\-\ case\\:\\ 0\\.005281085968551613\ \(0\)\
-\-\ but\\:\\ 0\\.005148314409699259\ \(0\)\
-\-\ the\\:\\ 0\\.005076951133183998\ \(0\)\
-\-\ treatment\\:\\ 0\\.004885923614691771\ \(0\)\
-\-\ patient\\:\\ 0\\.004839502434555864\ \(0\)\
-\-\ also\\:\\ 0\\.004758812411497603\ \(0\)\
-\-\ has\\:\\ 0\\.0045330507641081295\ \(0\)\
-\-\ be\\:\\ 0\\.003722476619615619\ \(0\)\
-\-\ as\\:\\ 0\\.003651348886706576\ \(0\)\
-\-\ there\\:\\ 0\\.0035924168261722844\ \(0\)\
-\-\ from\\:\\ 0\\.0035775020145599216\ \(0\)\
-\-\ not\\:\\ 0\\.0034881883382540547\ \(0\)\
-\-\ mass\\:\\ 0\\.0033572344829027245\ \(0\)\
-\-\ history\\:\\ 0\\.003333939372053908\ \(0\)\
-\-\ and\\:\\ 0\\.0030510000971562447\ \(0\)\
-\-\ pain\\:\\ 0\\.002948045670990776\ \(0\)\
-\-\ or\\:\\ 0\\.0028291603078070835\ \(0\)\
-\-\ this\\:\\ 0\\.0027150768737687373\ \(0\)\
-\-\ with\\:\\ 0\\.002644162171522932\ \(0\)\
-\-\ no\\:\\ 0\\.002430633194078537\ \(0\)\
-\-\ \\.\\:\\ 0\\.0023064670345733455\ \(0\)\
-\-\ of\\:\\ 0\\.001974640691491329\ \(0\)\
+Texto: 
+wbc 6000
+positive ppd
+patient was admitted for treatment of tuberculosis with iv antibiotics.
+chest radiograph demonstrates biapical reticulonodular opacities with a cavitary lesion in the right upper lobe.
+
+ct: chest ct demonstrates tree-in-bud opacities in the upper lobes and mid lungs with a cavitary lesion in the right upper lobe.  right hilar lymphadenopathy was present.
+
+lumbar spine demonstrates l3-4 intervertebral disk space narrowing with irregularity of the end plates and no osteophyte formation.
+
+mri:  right paravertebral rim enhancing fluid is demonstrated adjacent to the l4 level.  marrow edema is present in l3 through l5.
+reactivation tuberculosis (tb) vertebral osteomyelitis, paraspinal psoas abscess
+spinal involvement:
+metastasis
+brucellosis
+fungal infection
+sarcoid
+23 y.o. man with a chronic cough, thought to be secondary to allergies.  he also has a history of chronic low back pain.
+spine:  radiographic findings associating pulmonary disease and vertebral osteomyelitis was strongly suggestive for tuberculosis and pott disease.
+
+the spine is the most common osseous site of involvement for tuberculosis with the most common level being l1.  more than one vertebral body is affected as was the case in this patient.  paraspinal involvement extending to the psoas may occur.
+
+the diagnosis for tuberculosis is favored in cases where there is a calcified paravertebral mass and absent sclerosis or bone formation.
+
+reference:
+engin, g, acunas, b, acunas, g, tunaci, m.  imaging of extrapulmonary tuberculosis.  radiographics.  20(2): 2000.
+
+
+chest:  the radiographic findings of upper lobe parenchymal disease with cavitation is characteristic for reactivation tuberculosis.  the earliest finding is patchy, ill defined segmental consolidation.  
+
+tree in bud appearance denotes centrilobular nodules with branching centrolobular opacities is characteristic but not pathognomonic for active disease.
+
+reference:
+harisinghani, m, mcloud, t, shepard, jt, ko, j, shroff, m and mueller, p.  tuberculosis from head to toe.  radiographics.  20 (2): 2000.
+
+
+Keywords by value: 
+- tuberculosis: 0.09199065074809601
+- acunas: 0.04980518883596892
+- reactivation: 0.041973017304218124
+- opacities: 0.03778652201082124
+- paravertebral: 0.033798333784803854
+- psoas: 0.03139786376240122
+- cavitary: 0.030050908827683714
+- :: 0.028735800406542333
+- vertebral: 0.02865929169840897
+- g: 0.028555470668208675
+- radiographics: 0.028298621097153552
+- involvement: 0.02654185302226963
+- reference: 0.02596616225305306
+- paraspinal: 0.02580239085828892
+- m: 0.02490846992487144
+- 6000: 0.02490259441798446
+- tunaci: 0.02490259441798446
+- centrolobular: 0.02490259441798446
+- shepard: 0.02490259441798446
+- ko: 0.02490259441798446
+- shroff: 0.02490259441798446
+- mueller: 0.02490259441798446
+- spine: 0.02384833513563854
+- upper: 0.023300344693431847
+- brucellosis: 0.02294455153504676
+- associating: 0.02294455153504676
+- extrapulmonary: 0.02294455153504676
+- mcloud: 0.02294455153504676
+- osteomyelitis: 0.02243690021190908
+- tree-in-bud: 0.02179916987372426
+- engin: 0.02179916987372426
+- denotes: 0.02179916987372426
+- harisinghani: 0.02179916987372426
+- characteristic: 0.020435149111303237
+- bud: 0.02035615963709717
+- formation: 0.019927973973287928
+- biapical: 0.01984112699078656
+- 2000.: 0.01984112699078656
+- lobe: 0.019485808033250288
+- jt: 0.019028465769171363
+- earliest: 0.01839811675415947
+- radiographic: 0.018324092608975898
+- pott: 0.018128878958102057
+- centrilobular: 0.018128878958102057
+- cavitation: 0.017656974764138307
+- l3-4: 0.01744763021003175
+- favored: 0.01744763021003175
+- 20: 0.017358843142130032
+- chest: 0.017328211864894225
+- reticulonodular: 0.017070422886233665
+- l1: 0.016899166892401927
+- plates: 0.01617083607516436
+- p.: 0.015925041224911164
+- demonstrates: 0.01581882374282361
+- disease: 0.015782345098482534
+- ppd: 0.01569893188120061
+- ill: 0.01569893188120061
+- osteophyte: 0.015294692209899272
+- branching: 0.015294692209899272
+- ,: 0.015294353984027535
+- intervertebral: 0.014859238312082159
+- l3: 0.014482030988284073
+- tree: 0.014344205665771553
+- is: 0.01429552826401845
+- l4: 0.014277735334104338
+- allergies: 0.014149310548576776
+- m.: 0.014149310548576776
+- toe: 0.014087223241461591
+- 2000: 0.013966998341973468
+- level: 0.013914627274841423
+- chronic: 0.013598811485350281
+- l5: 0.013531544444156352
+- strongly: 0.013432416422090619
+- disk: 0.013067411530904158
+- pathognomonic: 0.013067411530904158
+- patchy: 0.012941841580139092
+- irregularity: 0.01290119542914446
+- segmental: 0.012668884417175614
+- common: 0.01263427803365196
+- sarcoid: 0.012386162782833852
+- for: 0.01235776523123246
+- end: 0.012254750309288959
+- hilar: 0.012129180358523893
+- consolidation: 0.012098641047495034
+- parenchymal: 0.011865530811088244
+- fungal: 0.011702512964702236
+- tb: 0.011624401294277067
+- 23: 0.01147437353915292
+- b: 0.011378606444023878
+- t: 0.011174310789844141
+- was: 0.011166977652132055
+- most: 0.011145961252700995
+- thought: 0.011109368647966461
+- present: 0.010904004259501021
+- j: 0.010903082955834004
+- lobes: 0.010637464454002715
+- marrow: 0.010619414176887543
+- absent: 0.01046195094805072
+- affected: 0.010444984778389106
+- admitted: 0.010428119899896155
+- 2: 0.010396070601754499
+- calcified: 0.010361649568228942
+- suggestive: 0.010312803531194872
+- findings: 0.010275914891468698
+- lymphadenopathy: 0.01026478777874128
+- lumbar: 0.01026478777874128
+- osseous: 0.010248962198095318
+- rim: 0.010217574555651619
+- site: 0.0102020105561856
+- right: 0.010187928916501884
+- defined: 0.010171137475586194
+- mid: 0.010095399460188857
+- nodules: 0.010007115438990823
+- where: 0.009852096766036489
+- lesion: 0.009833645344635336
+- narrowing: 0.009679227949576263
+- cough: 0.009249307567254441
+- active: 0.009216267906906443
+- lungs: 0.009140645757006429
+- antibiotics: 0.009066995360651134
+- occur: 0.009056628894863103
+- metastasis: 0.009036009396327477
+- iv: 0.008809109992827949
+- wbc: 0.008799646470553141
+- sclerosis: 0.008670382015328658
+- spinal: 0.008643435622541204
+- being: 0.00841183044293943
+- in: 0.008332713590344024
+- extending: 0.008115025561694342
+- cases: 0.00804183859881676
+- space: 0.007984624313775803
+- back: 0.007963464224145416
+- body: 0.007839728001946567
+- positive: 0.007833010142045528
+- finding: 0.00777983475999571
+- radiograph: 0.007689120491303284
+- adjacent: 0.007632305774390585
+- abscess: 0.007632305774390585
+- enhancing: 0.00757049020588915
+- demonstrated: 0.007083107295076179
+- pulmonary: 0.0070524020062713655
+- infection: 0.007016995971957082
+- y.o: 0.006967173538380509
+- appearance: 0.006903690894730626
+- fluid: 0.006860562442383766
+- through: 0.006855810786499629
+- head: 0.0068463313858019665
+- edema: 0.006827467484269183
+- ct: 0.006753127985265779
+- secondary: 0.0067486722217762925
+- he: 0.006734992491618699
+- low: 0.006712339132390959
+- one: 0.006541614077148712
+- than: 0.006324996765305858
+- (: 0.006121709544439496
+- ): 0.0060469295941805515
+- more: 0.006037221212746233
+- to: 0.0060320354299856814
+- bone: 0.005998403054971384
+- man: 0.005708847014378529
+- imaging: 0.005655575775298313
+- a: 0.0056016921160819385
+- mri: 0.005545976991284237
+- diagnosis: 0.0055429924598316945
+- may: 0.0052947129064918755
+- case: 0.005281085968551613
+- but: 0.005148314409699259
+- the: 0.005076951133183998
+- treatment: 0.004885923614691771
+- patient: 0.004839502434555864
+- also: 0.004758812411497603
+- has: 0.0045330507641081295
+- be: 0.003722476619615619
+- as: 0.003651348886706576
+- there: 0.0035924168261722844
+- from: 0.0035775020145599216
+- not: 0.0034881883382540547
+- mass: 0.0033572344829027245
+- history: 0.003333939372053908
+- and: 0.0030510000971562447
+- pain: 0.002948045670990776
+- or: 0.0028291603078070835
+- this: 0.0027150768737687373
+- with: 0.002644162171522932
+- no: 0.002430633194078537
+- .: 0.0023064670345733455
+- of: 0.001974640691491329

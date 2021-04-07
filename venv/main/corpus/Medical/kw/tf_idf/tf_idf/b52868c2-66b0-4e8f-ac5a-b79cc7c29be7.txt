@@ -1,32 +1,34 @@
-\-\ Texto\\:\\ \ \(0\)\
-\-\ normal\ \(4026\)\
-\-\ none\ \(204\)\
-\-\ bicornuate\\ uterus\ \(14\)\
-\-\ congenital\\ right\\ renal\\ agenesis\ \(0\)\
-\-\ compensatory\\ hypertrophy\\ of\\ the\\ left\\ kidney\ \(1\)\
-\-\ bicornuate\\ uterus\\ with\\ associated\\ right\\ renal\\ agenesis\ \(0\)\
-\-\ septated\\ uterus\ \(0\)\
-\-\ uterine\\ didelphis\ \(0\)\
-\-\ rlq\\ pain\ \(0\)\
-\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
-\-\ bicornuate\\:\\ 0\\.4476244223501271\ \(0\)\
-\-\ uterus\\:\\ 0\\.4475585201316058\ \(0\)\
-\-\ agenesis\\:\\ 0\\.37439394876095816\ \(0\)\
-\-\ didelphis\\:\\ 0\\.3008285645706131\ \(0\)\
-\-\ compensatory\\:\\ 0\\.22620252677275138\ \(0\)\
-\-\ septated\\:\\ 0\\.22620252677275138\ \(0\)\
-\-\ renal\\:\\ 0\\.19018337403393104\ \(0\)\
-\-\ rlq\\:\\ 0\\.18312286715031878\ \(0\)\
-\-\ hypertrophy\\:\\ 0\\.1628399191174037\ \(0\)\
-\-\ uterine\\:\\ 0\\.16239635648604384\ \(0\)\
-\-\ congenital\\:\\ 0\\.11574662850527546\ \(0\)\
-\-\ kidney\\:\\ 0\\.11149568352037072\ \(0\)\
-\-\ none\\:\\ 0\\.07850812988548173\ \(0\)\
-\-\ associated\\:\\ 0\\.07468379858917414\ \(0\)\
-\-\ right\\:\\ 0\\.06678753400817901\ \(0\)\
-\-\ normal\\:\\ 0\\.049615276096263\ \(0\)\
-\-\ pain\\:\\ 0\\.03865215435299017\ \(0\)\
-\-\ left\\:\\ 0\\.03541130626936721\ \(0\)\
-\-\ the\\:\\ 0\\.005120343877912066\ \(0\)\
-\-\ with\\:\\ 0\\.004333488003329249\ \(0\)\
-\-\ of\\:\\ 0\\.004314955585110683\ \(0\)\
+Texto: 
+normal
+none
+bicornuate uterus
+congenital right renal agenesis
+compensatory hypertrophy of the left kidney
+bicornuate uterus with associated right renal agenesis
+septated uterus
+uterine didelphis
+rlq pain
+
+
+Keywords by value: 
+- bicornuate: 0.4476244223501271
+- uterus: 0.4475585201316058
+- agenesis: 0.37439394876095816
+- didelphis: 0.3008285645706131
+- compensatory: 0.22620252677275138
+- septated: 0.22620252677275138
+- renal: 0.19018337403393104
+- rlq: 0.18312286715031878
+- hypertrophy: 0.1628399191174037
+- uterine: 0.16239635648604384
+- congenital: 0.11574662850527546
+- kidney: 0.11149568352037072
+- none: 0.07850812988548173
+- associated: 0.07468379858917414
+- right: 0.06678753400817901
+- normal: 0.049615276096263
+- pain: 0.03865215435299017
+- left: 0.03541130626936721
+- the: 0.005120343877912066
+- with: 0.004333488003329249
+- of: 0.004314955585110683

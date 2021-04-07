@@ -1,119 +1,122 @@
-\-\ Texto\\:\\ \ \(0\)\
-\-\ vs\\-\\ normal\\,\\ oropharynx\\ clear\\,\\ \\ lung\\ sounds\\ clear\\ bilat\\,\\ mild\\ tachycardia\\,\\ benign\\ abdomen\\,\\ extremities\\ unremarkable\\.\ \(0\)\
-\-\ conservative\\ with\\ monitoring\\.\ \(0\)\
-\-\ cspine\\,\\ ap\\/lat\\-\\ linear\\ lucencies\\ throughout\\ the\\ prevertebral\\ soft\\ tissues\\.\ \(0\)\
-\-\ ct\\,\\ neck\\ and\\ chest\\-\\ \\ air\\ collectious\\ throughout\\ the\\ soft\\ tissues\\ of\\ the\\ neck\\ and\\ mediastinum\\.\ \(0\)\
-\-\ asthma\\ and\\ pneumomediastinum\ \(0\)\
-\-\ pneumonmediastinum\\ secondary\\ to\\ increased\\ pulmonary\\ pressures\\.\\ \\(asthmatic\\ attack\\)\ \(0\)\
-\-\ spontaneous\\ pneumomedistinum\ \(0\)\
-\-\ borhaave\\'s\\ esophagus\ \(0\)\
-\-\ retropharyngeal\\ gas\\ producing\\ infection\\.\ \(0\)\
-\-\ the\\ patient\\ present\\ to\\ the\\ er\\ with\\ acute\\ anterior\\ neck\\ pain\\,\\ dysphagia\\ and\\ change\\ in\\ voice\\.\\ \\ history\\ was\\ notable\\ for\\ asthma\\ and\\ allergic\\ rhinitis\\.\\ \\ no\\ history\\ of\\ pulomary\\ infection\\ in\\ the\\ past\\.\\ \\ no\\ prior\\ history\\ of\\ difficult\\ swallowing\\ or\\ change\\ in\\ voice\\.\\ \\ recently\\ had\\ an\\ exacerbation\\ of\\ asthmatic\\ symptoms\\.\ \(0\)\
-\-\ the\\ patient\\ underwent\\ contrast\\ esophagram\\ to\\ evaluate\\ for\\ esophageal\\ disruption\\ with\\ boorhaves\\ syndrome\\.\\ \\ no\\ contrast\\ extravasation\\ was\\ demonstrated\\ on\\ esophagram\\ and\\ the\\ patient\\ was\\ later\\ managed\\ with\\ continued\\ radiographic\\ followup\\ as\\ an\\ inpatient\\.\\ \\ she\\ was\\ later\\ dischaged\\ without\\ complication\\.\ \(0\)\
-\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
-\-\ asthmatic\\:\\ 0\\.08588698338550992\ \(0\)\
-\-\ esophagram\\:\\ 0\\.07060656905045419\ \(0\)\
-\-\ voice\\:\\ 0\\.0698604589794996\ \(0\)\
-\-\ asthma\\:\\ 0\\.0545800446444439\ \(0\)\
-\-\ vs\\-\\:\\ 0\\.050956753895760105\ \(0\)\
-\-\ ap\\/lat\\-\\:\\ 0\\.050956753895760105\ \(0\)\
-\-\ collectious\\:\\ 0\\.050956753895760105\ \(0\)\
-\-\ pneumonmediastinum\\:\\ 0\\.050956753895760105\ \(0\)\
-\-\ borhaave\\:\\ 0\\.050956753895760105\ \(0\)\
-\-\ boorhaves\\:\\ 0\\.050956753895760105\ \(0\)\
-\-\ dischaged\\:\\ 0\\.050956753895760105\ \(0\)\
-\-\ cspine\\:\\ 0\\.04695012279425753\ \(0\)\
-\-\ pneumomedistinum\\:\\ 0\\.04695012279425753\ \(0\)\
-\-\ chest\\-\\:\\ 0\\.04460639384565542\ \(0\)\
-\-\ neck\\:\\ 0\\.043512886769106626\ \(0\)\
-\-\ rhinitis\\:\\ 0\\.04294349169275496\ \(0\)\
-\-\ pulomary\\:\\ 0\\.04294349169275496\ \(0\)\
-\-\ tissues\\:\\ 0\\.040546251174165236\ \(0\)\
-\-\ change\\:\\ 0\\.03850545075694616\ \(0\)\
-\-\ bilat\\:\\ 0\\.03825603379555074\ \(0\)\
-\-\ throughout\\:\\ 0\\.036979737876299726\ \(0\)\
-\-\ clear\\:\\ 0\\.036526319227128845\ \(0\)\
-\-\ retropharyngeal\\:\\ 0\\.0357020872505852\ \(0\)\
-\-\ later\\:\\ 0\\.03566957966465808\ \(0\)\
-\-\ attack\\:\\ 0\\.03364038237232663\ \(0\)\
-\-\ prevertebral\\:\\ 0\\.032832509873048255\ \(0\)\
-\-\ allergic\\:\\ 0\\.03235053525490345\ \(0\)\
-\-\ pressures\\:\\ 0\\.03212382593031801\ \(0\)\
-\-\ oropharynx\\:\\ 0\\.030923598388247233\ \(0\)\
-\-\ pneumomediastinum\\:\\ 0\\.030745727528901836\ \(0\)\
-\-\ exacerbation\\:\\ 0\\.030745727528901836\ \(0\)\
-\-\ extravasation\\:\\ 0\\.030405609031659446\ \(0\)\
-\-\ inpatient\\:\\ 0\\.029780096981715905\ \(0\)\
-\-\ lucencies\\:\\ 0\\.029633751270824054\ \(0\)\
-\-\ infection\\:\\ 0\\.02871695461355846\ \(0\)\
-\-\ producing\\:\\ 0\\.02834390415340088\ \(0\)\
-\-\ tachycardia\\:\\ 0\\.028117194828815435\ \(0\)\
-\-\ swallowing\\:\\ 0\\.02779297825857819\ \(0\)\
-\-\ monitoring\\:\\ 0\\.02729002232222195\ \(0\)\
-\-\ notable\\:\\ 0\\.02729002232222195\ \(0\)\
-\-\ managed\\:\\ 0\\.026566535946765266\ \(0\)\
-\-\ complication\\:\\ 0\\.02422280699816316\ \(0\)\
-\-\ soft\\:\\ 0\\.02405695680917399\ \(0\)\
-\-\ dysphagia\\:\\ 0\\.02405524898155477\ \(0\)\
-\-\ disruption\\:\\ 0\\.02405524898155477\ \(0\)\
-\-\ mediastinum\\:\\ 0\\.023786347157075616\ \(0\)\
-\-\ followup\\:\\ 0\\.023579884251861284\ \(0\)\
-\-\ gas\\:\\ 0\\.02352940055261993\ \(0\)\
-\-\ spontaneous\\:\\ 0\\.02304742593447513\ \(0\)\
-\-\ recently\\:\\ 0\\.02304742593447513\ \(0\)\
-\-\ was\\:\\ 0\\.0228503473344205\ \(0\)\
-\-\ esophageal\\:\\ 0\\.02264554117928085\ \(0\)\
-\-\ contrast\\:\\ 0\\.022113013720322604\ \(0\)\
-\-\ difficult\\:\\ 0\\.021620489067818906\ \(0\)\
-\-\ esophagus\\:\\ 0\\.02144261820847351\ \(0\)\
-\-\ continued\\:\\ 0\\.021270057727839516\ \(0\)\
-\-\ linear\\:\\ 0\\.02093966227211727\ \(0\)\
-\-\ history\\:\\ 0\\.02046614805272399\ \(0\)\
-\-\ evaluate\\:\\ 0\\.019966625770272098\ \(0\)\
-\-\ conservative\\:\\ 0\\.019727404867596637\ \(0\)\
-\-\ sounds\\:\\ 0\\.019701425737031094\ \(0\)\
-\-\ extremities\\:\\ 0\\.019373911092143863\ \(0\)\
-\-\ er\\:\\ 0\\.018949041369641397\ \(0\)\
-\-\ radiographic\\:\\ 0\\.01874777105080193\ \(0\)\
-\-\ benign\\:\\ 0\\.017046533913486712\ \(0\)\
-\-\ underwent\\:\\ 0\\.016949110031666006\ \(0\)\
-\-\ air\\:\\ 0\\.016712500731514254\ \(0\)\
-\-\ unremarkable\\:\\ 0\\.016352985079087053\ \(0\)\
-\-\ past\\:\\ 0\\.01569479463552852\ \(0\)\
-\-\ no\\:\\ 0\\.014920996833013905\ \(0\)\
-\-\ patient\\:\\ 0\\.014854195333810194\ \(0\)\
-\-\ abdomen\\:\\ 0\\.014632278976275701\ \(0\)\
-\-\ demonstrated\\:\\ 0\\.014493757124028712\ \(0\)\
-\-\ pulmonary\\:\\ 0\\.014430926648670886\ \(0\)\
-\-\ lung\\:\\ 0\\.014307278151669052\ \(0\)\
-\-\ syndrome\\:\\ 0\\.014126627611182899\ \(0\)\
-\-\ she\\:\\ 0\\.013865815846555909\ \(0\)\
-\-\ secondary\\:\\ 0\\.01380942177172721\ \(0\)\
-\-\ an\\:\\ 0\\.01366086548306046\ \(0\)\
-\-\ mild\\:\\ 0\\.013007245398445878\ \(0\)\
-\-\ anterior\\:\\ 0\\.012721345802096747\ \(0\)\
-\-\ prior\\:\\ 0\\.012682732787296898\ \(0\)\
-\-\ \\,\\:\\ 0\\.012518384532591324\ \(0\)\
-\-\ symptoms\\:\\ 0\\.012310158826000804\ \(0\)\
-\-\ acute\\:\\ 0\\.01219583427229188\ \(0\)\
-\-\ increased\\:\\ 0\\.012083727062425755\ \(0\)\
-\-\ without\\:\\ 0\\.01163013390958474\ \(0\)\
-\-\ present\\:\\ 0\\.01115611996492301\ \(0\)\
-\-\ \\'s\\:\\ 0\\.010890442880734364\ \(0\)\
-\-\ had\\:\\ 0\\.010658091440697735\ \(0\)\
-\-\ for\\:\\ 0\\.008428995938066071\ \(0\)\
-\-\ normal\\:\\ 0\\.007743424593058388\ \(0\)\
-\-\ as\\:\\ 0\\.007471546276844669\ \(0\)\
-\-\ to\\:\\ 0\\.007405805348722304\ \(0\)\
-\-\ in\\:\\ 0\\.007307466418617137\ \(0\)\
-\-\ ct\\:\\ 0\\.006909269672786375\ \(0\)\
-\-\ the\\:\\ 0\\.006393030506526048\ \(0\)\
-\-\ and\\:\\ 0\\.0062430869040075755\ \(0\)\
-\-\ pain\\:\\ 0\\.006032417153356848\ \(0\)\
-\-\ or\\:\\ 0\\.005789148837940505\ \(0\)\
-\-\ on\\:\\ 0\\.004184341111938891\ \(0\)\
-\-\ \\(\\:\\ 0\\.004175501307767979\ \(0\)\
-\-\ \\)\\:\\ 0\\.004124495330134711\ \(0\)\
-\-\ \\.\\:\\ 0\\.002872794828686982\ \(0\)\
-\-\ with\\:\\ 0\\.0027052988691303984\ \(0\)\
-\-\ of\\:\\ 0\\.0026937294982193856\ \(0\)\
+Texto: 
+vs- normal, oropharynx clear,  lung sounds clear bilat, mild tachycardia, benign abdomen, extremities unremarkable.
+conservative with monitoring.
+cspine, ap/lat- linear lucencies throughout the prevertebral soft tissues.
+
+ct, neck and chest-  air collectious throughout the soft tissues of the neck and mediastinum.
+asthma and pneumomediastinum
+pneumonmediastinum secondary to increased pulmonary pressures. (asthmatic attack)
+spontaneous pneumomedistinum
+borhaave's esophagus
+retropharyngeal gas producing infection.
+the patient present to the er with acute anterior neck pain, dysphagia and change in voice.  history was notable for asthma and allergic rhinitis.  no history of pulomary infection in the past.  no prior history of difficult swallowing or change in voice.  recently had an exacerbation of asthmatic symptoms.
+the patient underwent contrast esophagram to evaluate for esophageal disruption with boorhaves syndrome.  no contrast extravasation was demonstrated on esophagram and the patient was later managed with continued radiographic followup as an inpatient.  she was later dischaged without complication.
+
+
+Keywords by value: 
+- asthmatic: 0.08588698338550992
+- esophagram: 0.07060656905045419
+- voice: 0.0698604589794996
+- asthma: 0.0545800446444439
+- vs-: 0.050956753895760105
+- ap/lat-: 0.050956753895760105
+- collectious: 0.050956753895760105
+- pneumonmediastinum: 0.050956753895760105
+- borhaave: 0.050956753895760105
+- boorhaves: 0.050956753895760105
+- dischaged: 0.050956753895760105
+- cspine: 0.04695012279425753
+- pneumomedistinum: 0.04695012279425753
+- chest-: 0.04460639384565542
+- neck: 0.043512886769106626
+- rhinitis: 0.04294349169275496
+- pulomary: 0.04294349169275496
+- tissues: 0.040546251174165236
+- change: 0.03850545075694616
+- bilat: 0.03825603379555074
+- throughout: 0.036979737876299726
+- clear: 0.036526319227128845
+- retropharyngeal: 0.0357020872505852
+- later: 0.03566957966465808
+- attack: 0.03364038237232663
+- prevertebral: 0.032832509873048255
+- allergic: 0.03235053525490345
+- pressures: 0.03212382593031801
+- oropharynx: 0.030923598388247233
+- pneumomediastinum: 0.030745727528901836
+- exacerbation: 0.030745727528901836
+- extravasation: 0.030405609031659446
+- inpatient: 0.029780096981715905
+- lucencies: 0.029633751270824054
+- infection: 0.02871695461355846
+- producing: 0.02834390415340088
+- tachycardia: 0.028117194828815435
+- swallowing: 0.02779297825857819
+- monitoring: 0.02729002232222195
+- notable: 0.02729002232222195
+- managed: 0.026566535946765266
+- complication: 0.02422280699816316
+- soft: 0.02405695680917399
+- dysphagia: 0.02405524898155477
+- disruption: 0.02405524898155477
+- mediastinum: 0.023786347157075616
+- followup: 0.023579884251861284
+- gas: 0.02352940055261993
+- spontaneous: 0.02304742593447513
+- recently: 0.02304742593447513
+- was: 0.0228503473344205
+- esophageal: 0.02264554117928085
+- contrast: 0.022113013720322604
+- difficult: 0.021620489067818906
+- esophagus: 0.02144261820847351
+- continued: 0.021270057727839516
+- linear: 0.02093966227211727
+- history: 0.02046614805272399
+- evaluate: 0.019966625770272098
+- conservative: 0.019727404867596637
+- sounds: 0.019701425737031094
+- extremities: 0.019373911092143863
+- er: 0.018949041369641397
+- radiographic: 0.01874777105080193
+- benign: 0.017046533913486712
+- underwent: 0.016949110031666006
+- air: 0.016712500731514254
+- unremarkable: 0.016352985079087053
+- past: 0.01569479463552852
+- no: 0.014920996833013905
+- patient: 0.014854195333810194
+- abdomen: 0.014632278976275701
+- demonstrated: 0.014493757124028712
+- pulmonary: 0.014430926648670886
+- lung: 0.014307278151669052
+- syndrome: 0.014126627611182899
+- she: 0.013865815846555909
+- secondary: 0.01380942177172721
+- an: 0.01366086548306046
+- mild: 0.013007245398445878
+- anterior: 0.012721345802096747
+- prior: 0.012682732787296898
+- ,: 0.012518384532591324
+- symptoms: 0.012310158826000804
+- acute: 0.01219583427229188
+- increased: 0.012083727062425755
+- without: 0.01163013390958474
+- present: 0.01115611996492301
+- 's: 0.010890442880734364
+- had: 0.010658091440697735
+- for: 0.008428995938066071
+- normal: 0.007743424593058388
+- as: 0.007471546276844669
+- to: 0.007405805348722304
+- in: 0.007307466418617137
+- ct: 0.006909269672786375
+- the: 0.006393030506526048
+- and: 0.0062430869040075755
+- pain: 0.006032417153356848
+- or: 0.005789148837940505
+- on: 0.004184341111938891
+- (: 0.004175501307767979
+- ): 0.004124495330134711
+- .: 0.002872794828686982
+- with: 0.0027052988691303984
+- of: 0.0026937294982193856

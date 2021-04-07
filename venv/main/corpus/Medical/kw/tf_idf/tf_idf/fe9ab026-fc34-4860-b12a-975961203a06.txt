@@ -1,104 +1,108 @@
-\-\ Texto\\:\\ \ \(0\)\
-\-\ child\\ was\\ taken\\ to\\ the\\ or\\ for\\ hemicolectomy\\.\\ \\ stress\\ dose\\ steroid\\ replacement\\ was\\ provided\\.\ \(0\)\
-\-\ plain\\ films\\ of\\ the\\ extremities\\ demonstrate\\ diffuse\\ calcinosis\\ compatible\\ with\\ established\\ diagnosis\\ of\\ juvenile\\ dermatomyositis\\.\ \(0\)\
-\-\ ct\\ scan\\ performed\\ to\\ evaluate\\ abdominal\\ pain\\ shows\\ extensive\\ pneumatosis\\ of\\ the\\ right\\ colon\\ at\\ the\\ hepatic\\ flexure\\.\\ \\ free\\ abdomenal\\ air\\ is\\ noted\\.\ \(0\)\
-\-\ assymetric\\ perfusion\\ of\\ the\\ kidneys\\ was\\ incidentally\\ discovered\\ and\\ confirmed\\ with\\ repeat\\ delayed\\ scanning\\ of\\ the\\ abdomen\\ done\\ to\\ look\\ for\\ free\\ abdominal\\ air\\.\ \(0\)\
-\-\ juvenile\\ dermatomyositis\ \(1\)\
-\-\ bowel\\ ischemia\ \(4\)\
-\-\ infection\\ in\\ immune\\ compromised\\ patient\ \(0\)\
-\-\ steroid\\ dependent\\ child\\ with\\ systemic\\ weakness\\ and\\ established\\ diagnosis\\ presents\\ with\\ \\ abdominal\\ pain\\.\\ \\ later\\ clinicians\\ supplied\\ additional\\ history\\ of\\ hematuria\\.\ \(0\)\
-\-\ vasculitis\\ is\\ associated\\ with\\ dermatomyositis\\ and\\ can\\ cause\\ both\\ the\\ bowel\\ wall\\ ischemia\\ and\\ the\\ differential\\ renal\\ perfusion\\.\\ \\ because\\ the\\ patient\\ is\\ on\\ high\\ dose\\ steroids\\,\\ the\\ free\\ abdomenal\\ air\\ may\\ have\\ been\\ occult\\.\ \(0\)\
-\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
-\-\ dermatomyositis\\:\\ 0\\.12661223548356995\ \(0\)\
-\-\ abdomenal\\:\\ 0\\.09905632083795478\ \(0\)\
-\-\ free\\:\\ 0\\.07034402114836923\ \(0\)\
-\-\ established\\:\\ 0\\.06975999314013852\ \(0\)\
-\-\ perfusion\\:\\ 0\\.06485699607180094\ \(0\)\
-\-\ juvenile\\:\\ 0\\.062088471208091016\ \(0\)\
-\-\ steroid\\:\\ 0\\.060152711076831046\ \(0\)\
-\-\ dose\\:\\ 0\\.05962284002817086\ \(0\)\
-\-\ air\\:\\ 0\\.057825252531039324\ \(0\)\
-\-\ ischemia\\:\\ 0\\.05295108450010543\ \(0\)\
-\-\ child\\:\\ 0\\.04987126144976895\ \(0\)\
-\-\ calcinosis\\:\\ 0\\.044121958977535194\ \(0\)\
-\-\ assymetric\\:\\ 0\\.04341955553981635\ \(0\)\
-\-\ abdominal\\:\\ 0\\.04271838476244231\ \(0\)\
-\-\ hemicolectomy\\:\\ 0\\.04220407849452332\ \(0\)\
-\-\ clinicians\\:\\ 0\\.04028619801151145\ \(0\)\
-\-\ compromised\\:\\ 0\\.03950097777380223\ \(0\)\
-\-\ supplied\\:\\ 0\\.03816317313738789\ \(0\)\
-\-\ immune\\:\\ 0\\.037866828053582324\ \(0\)\
-\-\ bowel\\:\\ 0\\.03573271377179679\ \(0\)\
-\-\ pneumatosis\\:\\ 0\\.03526105266233558\ \(0\)\
-\-\ flexure\\:\\ 0\\.035067802416513895\ \(0\)\
-\-\ scanning\\:\\ 0\\.03487999657006926\ \(0\)\
-\-\ occult\\:\\ 0\\.03434637851891235\ \(0\)\
-\-\ look\\:\\ 0\\.03170050275613386\ \(0\)\
-\-\ compatible\\:\\ 0\\.03147449241162932\ \(0\)\
-\-\ dependent\\:\\ 0\\.03073883869717022\ \(0\)\
-\-\ vasculitis\\:\\ 0\\.029152447783174548\ \(0\)\
-\-\ discovered\\:\\ 0\\.02806898825318938\ \(0\)\
-\-\ replacement\\:\\ 0\\.027807516832167506\ \(0\)\
-\-\ systemic\\:\\ 0\\.027254204035027717\ \(0\)\
-\-\ hematuria\\:\\ 0\\.027022296594458282\ \(0\)\
-\-\ repeat\\:\\ 0\\.026798185855798382\ \(0\)\
-\-\ steroids\\:\\ 0\\.026798185855798382\ \(0\)\
-\-\ kidneys\\:\\ 0\\.02621811000920085\ \(0\)\
-\-\ diagnosis\\:\\ 0\\.0261629244104056\ \(0\)\
-\-\ incidentally\\:\\ 0\\.025825840009047963\ \(0\)\
-\-\ stress\\:\\ 0\\.024977428144975115\ \(0\)\
-\-\ provided\\:\\ 0\\.0245707980602895\ \(0\)\
-\-\ hepatic\\:\\ 0\\.023789962345373415\ \(0\)\
-\-\ taken\\:\\ 0\\.02375496663946579\ \(0\)\
-\-\ done\\:\\ 0\\.023616792436018344\ \(0\)\
-\-\ films\\:\\ 0\\.023515009288479757\ \(0\)\
-\-\ delayed\\:\\ 0\\.023186535628434535\ \(0\)\
-\-\ evaluate\\:\\ 0\\.023028175055047152\ \(0\)\
-\-\ additional\\:\\ 0\\.022842977960999985\ \(0\)\
-\-\ extensive\\:\\ 0\\.02278237148299164\ \(0\)\
-\-\ colon\\:\\ 0\\.022372886065482264\ \(0\)\
-\-\ extremities\\:\\ 0\\.022344577459605924\ \(0\)\
-\-\ confirmed\\:\\ 0\\.02142266402057865\ \(0\)\
-\-\ weakness\\:\\ 0\\.02115740902018923\ \(0\)\
-\-\ later\\:\\ 0\\.020569457606619494\ \(0\)\
-\-\ because\\:\\ 0\\.019930122110573656\ \(0\)\
-\-\ was\\:\\ 0\\.019765550444273736\ \(0\)\
-\-\ cause\\:\\ 0\\.019275084177013107\ \(0\)\
-\-\ plain\\:\\ 0\\.018501758084593898\ \(0\)\
-\-\ differential\\:\\ 0\\.018086398862352866\ \(0\)\
-\-\ diffuse\\:\\ 0\\.017246716135835432\ \(0\)\
-\-\ renal\\:\\ 0\\.017116503663053798\ \(0\)\
-\-\ abdomen\\:\\ 0\\.016875895085971312\ \(0\)\
-\-\ infection\\:\\ 0\\.016560110493818714\ \(0\)\
-\-\ wall\\:\\ 0\\.01650106080159164\ \(0\)\
-\-\ scan\\:\\ 0\\.015948476402886522\ \(0\)\
-\-\ performed\\:\\ 0\\.01588385554151546\ \(0\)\
-\-\ shows\\:\\ 0\\.01566249133152586\ \(0\)\
-\-\ high\\:\\ 0\\.015590307073845438\ \(0\)\
-\-\ been\\:\\ 0\\.01549863259642661\ \(0\)\
-\-\ both\\:\\ 0\\.014547999937907476\ \(0\)\
-\-\ pain\\:\\ 0\\.013914775567076463\ \(0\)\
-\-\ noted\\:\\ 0\\.013502807923017291\ \(0\)\
-\-\ associated\\:\\ 0\\.013443083746051347\ \(0\)\
-\-\ demonstrate\\:\\ 0\\.013109680942220273\ \(0\)\
-\-\ can\\:\\ 0\\.012921482349793798\ \(0\)\
-\-\ may\\:\\ 0\\.012495522459320826\ \(0\)\
-\-\ have\\:\\ 0\\.01233625385576728\ \(0\)\
-\-\ presents\\:\\ 0\\.011637628636719506\ \(0\)\
-\-\ patient\\:\\ 0\\.011421225745551841\ \(0\)\
-\-\ is\\:\\ 0\\.011245815567694512\ \(0\)\
-\-\ for\\:\\ 0\\.009721441981902869\ \(0\)\
-\-\ the\\:\\ 0\\.00921661898024172\ \(0\)\
-\-\ to\\:\\ 0\\.008541362168859725\ \(0\)\
-\-\ ct\\:\\ 0\\.00796869102261362\ \(0\)\
-\-\ history\\:\\ 0\\.007868096918047223\ \(0\)\
-\-\ at\\:\\ 0\\.007718421018877554\ \(0\)\
-\-\ or\\:\\ 0\\.006676818326424717\ \(0\)\
-\-\ right\\:\\ 0\\.006010878060736111\ \(0\)\
-\-\ on\\:\\ 0\\.004825940082436187\ \(0\)\
-\-\ and\\:\\ 0\\.004800240152859159\ \(0\)\
-\-\ of\\:\\ 0\\.004660152031919537\ \(0\)\
-\-\ with\\:\\ 0\\.0039001392029963246\ \(0\)\
-\-\ in\\:\\ 0\\.0028093148676016995\ \(0\)\
-\-\ \\.\\:\\ 0\\.002366635739823085\ \(0\)\
-\-\ \\,\\:\\ 0\\.0018047337701152493\ \(0\)\
+Texto: 
+child was taken to the or for hemicolectomy.  stress dose steroid replacement was provided.
+plain films of the extremities demonstrate diffuse calcinosis compatible with established diagnosis of juvenile dermatomyositis.
+
+ct scan performed to evaluate abdominal pain shows extensive pneumatosis of the right colon at the hepatic flexure.  free abdomenal air is noted.
+
+assymetric perfusion of the kidneys was incidentally discovered and confirmed with repeat delayed scanning of the abdomen done to look for free abdominal air.
+juvenile dermatomyositis
+bowel ischemia
+infection in immune compromised patient
+steroid dependent child with systemic weakness and established diagnosis presents with  abdominal pain.  later clinicians supplied additional history of hematuria.
+vasculitis is associated with dermatomyositis and can cause both the bowel wall ischemia and the differential renal perfusion.  because the patient is on high dose steroids, the free abdomenal air may have been occult.
+
+
+Keywords by value: 
+- dermatomyositis: 0.12661223548356995
+- abdomenal: 0.09905632083795478
+- free: 0.07034402114836923
+- established: 0.06975999314013852
+- perfusion: 0.06485699607180094
+- juvenile: 0.062088471208091016
+- steroid: 0.060152711076831046
+- dose: 0.05962284002817086
+- air: 0.057825252531039324
+- ischemia: 0.05295108450010543
+- child: 0.04987126144976895
+- calcinosis: 0.044121958977535194
+- assymetric: 0.04341955553981635
+- abdominal: 0.04271838476244231
+- hemicolectomy: 0.04220407849452332
+- clinicians: 0.04028619801151145
+- compromised: 0.03950097777380223
+- supplied: 0.03816317313738789
+- immune: 0.037866828053582324
+- bowel: 0.03573271377179679
+- pneumatosis: 0.03526105266233558
+- flexure: 0.035067802416513895
+- scanning: 0.03487999657006926
+- occult: 0.03434637851891235
+- look: 0.03170050275613386
+- compatible: 0.03147449241162932
+- dependent: 0.03073883869717022
+- vasculitis: 0.029152447783174548
+- discovered: 0.02806898825318938
+- replacement: 0.027807516832167506
+- systemic: 0.027254204035027717
+- hematuria: 0.027022296594458282
+- repeat: 0.026798185855798382
+- steroids: 0.026798185855798382
+- kidneys: 0.02621811000920085
+- diagnosis: 0.0261629244104056
+- incidentally: 0.025825840009047963
+- stress: 0.024977428144975115
+- provided: 0.0245707980602895
+- hepatic: 0.023789962345373415
+- taken: 0.02375496663946579
+- done: 0.023616792436018344
+- films: 0.023515009288479757
+- delayed: 0.023186535628434535
+- evaluate: 0.023028175055047152
+- additional: 0.022842977960999985
+- extensive: 0.02278237148299164
+- colon: 0.022372886065482264
+- extremities: 0.022344577459605924
+- confirmed: 0.02142266402057865
+- weakness: 0.02115740902018923
+- later: 0.020569457606619494
+- because: 0.019930122110573656
+- was: 0.019765550444273736
+- cause: 0.019275084177013107
+- plain: 0.018501758084593898
+- differential: 0.018086398862352866
+- diffuse: 0.017246716135835432
+- renal: 0.017116503663053798
+- abdomen: 0.016875895085971312
+- infection: 0.016560110493818714
+- wall: 0.01650106080159164
+- scan: 0.015948476402886522
+- performed: 0.01588385554151546
+- shows: 0.01566249133152586
+- high: 0.015590307073845438
+- been: 0.01549863259642661
+- both: 0.014547999937907476
+- pain: 0.013914775567076463
+- noted: 0.013502807923017291
+- associated: 0.013443083746051347
+- demonstrate: 0.013109680942220273
+- can: 0.012921482349793798
+- may: 0.012495522459320826
+- have: 0.01233625385576728
+- presents: 0.011637628636719506
+- patient: 0.011421225745551841
+- is: 0.011245815567694512
+- for: 0.009721441981902869
+- the: 0.00921661898024172
+- to: 0.008541362168859725
+- ct: 0.00796869102261362
+- history: 0.007868096918047223
+- at: 0.007718421018877554
+- or: 0.006676818326424717
+- right: 0.006010878060736111
+- on: 0.004825940082436187
+- and: 0.004800240152859159
+- of: 0.004660152031919537
+- with: 0.0039001392029963246
+- in: 0.0028093148676016995
+- .: 0.002366635739823085
+- ,: 0.0018047337701152493

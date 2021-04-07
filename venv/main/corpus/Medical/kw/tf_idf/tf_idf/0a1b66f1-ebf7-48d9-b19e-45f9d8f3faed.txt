@@ -1,22 +1,24 @@
-\-\ Texto\\:\\ \ \(0\)\
-\-\ normal\\ knee\\ radiograph\ \(1\)\
-\-\ normal\\ knee\\ radiograph\ \(1\)\
-\-\ internal\\ derangement\ \(1\)\
-\-\ external\\ ligament\\ injury\\ or\\ tendonopathy\ \(0\)\
-\-\ knee\\ pain\\ following\\ a\\ basketball\\ game\ \(0\)\
-\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
-\-\ knee\\:\\ 0\\.4892353772463594\ \(0\)\
-\-\ tendonopathy\\:\\ 0\\.4061529544893888\ \(0\)\
-\-\ derangement\\:\\ 0\\.3792673953438104\ \(0\)\
-\-\ game\\:\\ 0\\.30373663085489866\ \(0\)\
-\-\ radiograph\\:\\ 0\\.28652091093909077\ \(0\)\
-\-\ basketball\\:\\ 0\\.27536839397423096\ \(0\)\
-\-\ ligament\\:\\ 0\\.20658785767077603\ \(0\)\
-\-\ external\\:\\ 0\\.1912492038776007\ \(0\)\
-\-\ internal\\:\\ 0\\.1507829405988827\ \(0\)\
-\-\ injury\\:\\ 0\\.14337939694151577\ \(0\)\
-\-\ normal\\:\\ 0\\.14101183732622116\ \(0\)\
-\-\ following\\:\\ 0\\.12764619773163938\ \(0\)\
-\-\ pain\\:\\ 0\\.054926745659512353\ \(0\)\
-\-\ or\\:\\ 0\\.05271172362966881\ \(0\)\
-\-\ a\\:\\ 0\\.020873673779926383\ \(0\)\
+Texto: 
+normal knee radiograph
+normal knee radiograph
+internal derangement
+external ligament injury or tendonopathy
+knee pain following a basketball game
+
+
+Keywords by value: 
+- knee: 0.4892353772463594
+- tendonopathy: 0.4061529544893888
+- derangement: 0.3792673953438104
+- game: 0.30373663085489866
+- radiograph: 0.28652091093909077
+- basketball: 0.27536839397423096
+- ligament: 0.20658785767077603
+- external: 0.1912492038776007
+- internal: 0.1507829405988827
+- injury: 0.14337939694151577
+- normal: 0.14101183732622116
+- following: 0.12764619773163938
+- pain: 0.054926745659512353
+- or: 0.05271172362966881
+- a: 0.020873673779926383

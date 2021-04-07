@@ -1,61 +1,63 @@
-\-\ Texto\\:\\ \ \(0\)\
-\-\ the\\ patient\\ had\\ marked\\ abdominal\\ distension\\ and\\ obvious\\ ascites\\ on\\ physical\\ exam\\.\\ \\ laboratory\\ values\\ were\\ pending\\ at\\ the\\ time\\ of\\ imaging\\.\ \(0\)\
-\-\ complex\\ ascites\\ with\\ peritoneal\\ studding\\.\ \(0\)\
-\-\ peritoneal\\ carcinomatosis\\ secondary\\ to\\ ovarian\\ adenocarcinoma\ \(0\)\
-\-\ tb\\ peritonits\ \(0\)\
-\-\ peritoneal\\ carcinomatosis\\:\\ ovarian\\,\\ gastric\\,\\ colon\ \(0\)\
-\-\ peritoneal\\ mesothelioma\ \(3\)\
-\-\ pancreatitis\ \(88\)\
-\-\ hemorrhagic\\ fluid\\ \\/\\ ectopic\\ pregnancy\ \(0\)\
-\-\ pseudomyxoma\\ peritonei\ \(1\)\
-\-\ 63\\ year\\ old\\ female\\ with\\ abdominal\\ distension\\.\ \(1\)\
-\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
-\-\ peritoneal\\:\\ 0\\.2822901950158398\ \(0\)\
-\-\ carcinomatosis\\:\\ 0\\.16609522176223454\ \(0\)\
-\-\ distension\\:\\ 0\\.15763081975417267\ \(0\)\
-\-\ ascites\\:\\ 0\\.15566652122343974\ \(0\)\
-\-\ peritonits\\:\\ 0\\.1399288638724841\ \(0\)\
-\-\ studding\\:\\ 0\\.12892652767311988\ \(0\)\
-\-\ ovarian\\:\\ 0\\.12413471890565297\ \(0\)\
-\-\ pseudomyxoma\\:\\ 0\\.12249057357616489\ \(0\)\
-\-\ peritonei\\:\\ 0\\.12249057357616489\ \(0\)\
-\-\ mesothelioma\\:\\ 0\\.08491718287566304\ \(0\)\
-\-\ 63\\:\\ 0\\.07520604730255204\ \(0\)\
-\-\ pancreatitis\\:\\ 0\\.07441879426859375\ \(0\)\
-\-\ obvious\\:\\ 0\\.06850331354978148\ \(0\)\
-\-\ values\\:\\ 0\\.06781307367772213\ \(0\)\
-\-\ abdominal\\:\\ 0\\.0678069599403846\ \(0\)\
-\-\ \\/\\:\\ 0\\.06699045355288744\ \(0\)\
-\-\ tb\\:\\ 0\\.0653180644154616\ \(0\)\
-\-\ ectopic\\:\\ 0\\.06503205639160957\ \(0\)\
-\-\ hemorrhagic\\:\\ 0\\.06328896328038408\ \(0\)\
-\-\ gastric\\:\\ 0\\.06060803413019655\ \(0\)\
-\-\ pending\\:\\ 0\\.05869086684999592\ \(0\)\
-\-\ adenocarcinoma\\:\\ 0\\.05859610229465458\ \(0\)\
-\-\ pregnancy\\:\\ 0\\.058315156626410125\ \(0\)\
-\-\ complex\\:\\ 0\\.054315728216097404\ \(0\)\
-\-\ colon\\:\\ 0\\.05326877634638633\ \(0\)\
-\-\ marked\\:\\ 0\\.05293459524800804\ \(0\)\
-\-\ laboratory\\:\\ 0\\.049985583108794696\ \(0\)\
-\-\ fluid\\:\\ 0\\.038549827057204014\ \(0\)\
-\-\ time\\:\\ 0\\.038311130591100195\ \(0\)\
-\-\ secondary\\:\\ 0\\.037921110579504876\ \(0\)\
-\-\ physical\\:\\ 0\\.03327786142192442\ \(0\)\
-\-\ imaging\\:\\ 0\\.031778949594533375\ \(0\)\
-\-\ were\\:\\ 0\\.03079819582047494\ \(0\)\
-\-\ exam\\:\\ 0\\.029797364126183144\ \(0\)\
-\-\ had\\:\\ 0\\.02926745744826521\ \(0\)\
-\-\ female\\:\\ 0\\.027885083673775134\ \(0\)\
-\-\ at\\:\\ 0\\.01837719290208941\ \(0\)\
-\-\ \\:\\:\\ 0\\.01794087009508992\ \(0\)\
-\-\ year\\:\\ 0\\.01517627411544309\ \(0\)\
-\-\ old\\:\\ 0\\.01388785074384531\ \(0\)\
-\-\ patient\\:\\ 0\\.013596697316133142\ \(0\)\
-\-\ on\\:\\ 0\\.011490333529609969\ \(0\)\
-\-\ \\,\\:\\ 0\\.008593970333882138\ \(0\)\
-\-\ to\\:\\ 0\\.006778858864174384\ \(0\)\
-\-\ the\\:\\ 0\\.004388866181067486\ \(0\)\
-\-\ with\\:\\ 0\\.003714418288567928\ \(0\)\
-\-\ and\\:\\ 0\\.0028572858052733087\ \(0\)\
-\-\ \\.\\:\\ 0\\.0022539387998315092\ \(0\)\
-\-\ of\\:\\ 0\\.0018492666793331496\ \(0\)\
+Texto: 
+the patient had marked abdominal distension and obvious ascites on physical exam.  laboratory values were pending at the time of imaging.
+complex ascites with peritoneal studding.
+peritoneal carcinomatosis secondary to ovarian adenocarcinoma
+tb peritonits
+peritoneal carcinomatosis: ovarian, gastric, colon
+peritoneal mesothelioma
+pancreatitis
+hemorrhagic fluid / ectopic pregnancy
+pseudomyxoma peritonei
+63 year old female with abdominal distension.
+
+
+Keywords by value: 
+- peritoneal: 0.2822901950158398
+- carcinomatosis: 0.16609522176223454
+- distension: 0.15763081975417267
+- ascites: 0.15566652122343974
+- peritonits: 0.1399288638724841
+- studding: 0.12892652767311988
+- ovarian: 0.12413471890565297
+- pseudomyxoma: 0.12249057357616489
+- peritonei: 0.12249057357616489
+- mesothelioma: 0.08491718287566304
+- 63: 0.07520604730255204
+- pancreatitis: 0.07441879426859375
+- obvious: 0.06850331354978148
+- values: 0.06781307367772213
+- abdominal: 0.0678069599403846
+- /: 0.06699045355288744
+- tb: 0.0653180644154616
+- ectopic: 0.06503205639160957
+- hemorrhagic: 0.06328896328038408
+- gastric: 0.06060803413019655
+- pending: 0.05869086684999592
+- adenocarcinoma: 0.05859610229465458
+- pregnancy: 0.058315156626410125
+- complex: 0.054315728216097404
+- colon: 0.05326877634638633
+- marked: 0.05293459524800804
+- laboratory: 0.049985583108794696
+- fluid: 0.038549827057204014
+- time: 0.038311130591100195
+- secondary: 0.037921110579504876
+- physical: 0.03327786142192442
+- imaging: 0.031778949594533375
+- were: 0.03079819582047494
+- exam: 0.029797364126183144
+- had: 0.02926745744826521
+- female: 0.027885083673775134
+- at: 0.01837719290208941
+- :: 0.01794087009508992
+- year: 0.01517627411544309
+- old: 0.01388785074384531
+- patient: 0.013596697316133142
+- on: 0.011490333529609969
+- ,: 0.008593970333882138
+- to: 0.006778858864174384
+- the: 0.004388866181067486
+- with: 0.003714418288567928
+- and: 0.0028572858052733087
+- .: 0.0022539387998315092
+- of: 0.0018492666793331496

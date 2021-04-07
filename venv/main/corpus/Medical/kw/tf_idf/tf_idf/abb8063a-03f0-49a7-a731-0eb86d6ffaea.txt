@@ -1,225 +1,231 @@
-\-\ Texto\\:\\ \ \(0\)\
-\-\ normal\\ physical\\ exam\\.\\ urinalysis\\ was\\ consistent\\ with\\ gross\\ hematuria\\,\\ no\\ crystals\\ were\\ visualized\\,\\ wbc\\'s\\ were\\ within\\ normal\\ limits\\.\ \(0\)\
-\-\ transurethral\\ resection\\ of\\ bladder\\ tumor\\,\\ turbt\\,\\ with\\ biopsy\\ of\\ remaining\\ bladder\\ and\\ prostatic\\ urethra\\ is\\ normally\\ sufficient\\ for\\ low\\-grade\\ urothelial\\ cancer\\.\\ adjuvant\\ intravesicular\\ therapy\\ may\\ be\\ included\\ for\\ cases\\ of\\ high\\-grade\\ urothelial\\ cancer\\.\\ bcg\\ is\\ most\\ commonly\\ used\\ due\\ to\\ its\\ favorable\\ toxicity\\ profile\\ and\\ its\\ efficacy\\.\\ six\\ months\\ of\\ bcg\\ therapy\\ is\\ usually\\ required\\ to\\ qualify\\ as\\ bcg\\ resistant\\ tumors\\.\\ alternatives\\ for\\ these\\ tumors\\ include\\ adding\\ mitomycin\\ c\\,\\ anthracyclines\\,\\ and\\ interferon\\.\ \(0\)\
-\-\ high\\ grade\\ tumors\\ are\\ most\\ likely\\ to\\ be\\ muscle\\-invasive\\.\\ mvac\\ is\\ considered\\ first\\ line\\ multi\\-agent\\ chemotherapy\\.\ \(0\)\
-\-\ follow\\-up\\ includes\\ screening\\ cystography\\ for\\ recurrence\\ of\\ disease\\ which\\ is\\ not\\ uncommon\\.\ \(0\)\
-\-\ bilateral\\ extrarenal\\ pelves\\.\ \(0\)\
-\-\ no\\ evidence\\ of\\ obstructing\\ stones\\ or\\ stones\\ in\\ the\\ bladder\\.\\ \\ \ \(0\)\
-\-\ abnormal\\ layering\\ of\\ contrast\\ material\\ within\\ the\\ posterior\\ aspect\\ of\\ the\\ bladder\\ concerning\\ for\\ clot\\ vs\\ mural\\ mass\\.\ \(0\)\
-\-\ metastatic\\ disease\\ with\\ spread\\ to\\ bilateral\\ hilar\\ and\\ mediastinal\\ lymph\\ nodes\\.\ \(0\)\
-\-\ metastatic\\ disease\\ with\\ spread\\ to\\ left\\ lower\\ lung\\ lobe\\.\ \(0\)\
-\-\ urothelial\\ cancer\ \(3\)\
-\-\ bladder\\ cancer\\ \\-\\ mainly\\ urothelial\\ \\(transitional\\ cell\\)\\ cancer\ \(0\)\
-\-\ bph\ \(3\)\
-\-\ renal\\ stones\ \(7\)\
-\-\ cystitis\ \(180\)\
-\-\ 82\\ yo\\ man\\ with\\ 2\\-month\\ history\\ of\\ painless\\ gross\\ hematuria\ \(1\)\
-\-\ this\\ man\\ had\\ metastasis\\ to\\ his\\ right\\ acetabulum\\ and\\ right\\ femur\\,\\ right\\ lower\\ lung\\,\\ and\\ caudate\\ lobe\\ of\\ the\\ liver\\,\\ with\\ large\\ infiltration\\ of\\ mediastinal\\ and\\ perihilar\\ lymph\\ nodes\\.\\ up\\ to\\ 45\\%\\ of\\ new\\ urothelial\\ cancers\\ are\\ high\\ grade\\ and\\ half\\ of\\ those\\ are\\ already\\ invasive\\.\\ metastases\\ most\\ commonly\\ travel\\ to\\ lung\\ and\\ liver\\.\ \(0\)\
-\-\ this\\ patient\\'s\\ initial\\ non\\-contrast\\ ct\\ \\ did\\ not\\ clearly\\ show\\ the\\ mural\\ mass\\ as\\ it\\ is\\ shown\\ here\\.\\ his\\ enlarged\\ prostate\\ produced\\ a\\ mass\\ effect\\ indenting\\ the\\ contour\\ of\\ the\\ posterior\\ bladder\\ wall\\.\\ this\\ highlights\\ the\\ need\\ for\\ careful\\ evaluation\\ of\\ the\\ bladder\\ wall\\ when\\ it\\ is\\ opposed\\ by\\ the\\ prostate\\ and\\ having\\ a\\ properly\\ distended\\ bladder\\ to\\ evaluate\\ thickening\\ of\\ the\\ trabeculated\\ bladder\\ wall\\.\ \(0\)\
-\-\ this\\ patient\\'s\\ hilar\\ and\\ mediastinal\\ lymphadenopathy\\ with\\ mass\\ effect\\ on\\ the\\ pulmonary\\ vessels\\ aggravated\\ this\\ man\\'s\\ congestive\\ heart\\ failure\\ with\\ frequent\\ admissions\\ for\\ exacerbations\\ to\\ rule\\ out\\ pulmonary\\ embolisms\\.\ \(0\)\
-\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
-\-\ urothelial\\:\\ 0\\.08502523930773435\ \(0\)\
-\-\ bladder\\:\\ 0\\.08150312803979443\ \(0\)\
-\-\ bcg\\:\\ 0\\.05819235558365488\ \(0\)\
-\-\ cancer\\:\\ 0\\.03667317577499694\ \(0\)\
-\-\ stones\\:\\ 0\\.03443872963057363\ \(0\)\
-\-\ \\-\\:\\ 0\\.028695484992820312\ \(0\)\
-\-\ mediastinal\\:\\ 0\\.028418793353465345\ \(0\)\
-\-\ mural\\:\\ 0\\.025400912299660943\ \(0\)\
-\-\ tumors\\:\\ 0\\.02514138139167494\ \(0\)\
-\-\ prostate\\:\\ 0\\.023701578615929208\ \(0\)\
-\-\ turbt\\:\\ 0\\.023017019383724538\ \(0\)\
-\-\ anthracyclines\\:\\ 0\\.023017019383724538\ \(0\)\
-\-\ muscle\\-invasive\\:\\ 0\\.023017019383724538\ \(0\)\
-\-\ mvac\\:\\ 0\\.023017019383724538\ \(0\)\
-\-\ hilar\\:\\ 0\\.022421565780247822\ \(0\)\
-\-\ spread\\:\\ 0\\.021584267346434875\ \(0\)\
-\-\ gross\\:\\ 0\\.02125632530341122\ \(0\)\
-\-\ multi\\-agent\\:\\ 0\\.02120723562247142\ \(0\)\
-\-\ pelves\\:\\ 0\\.02120723562247142\ \(0\)\
-\-\ embolisms\\:\\ 0\\.02120723562247142\ \(0\)\
-\-\ hematuria\\:\\ 0\\.021166289760672283\ \(0\)\
-\-\ nodes\\:\\ 0\\.020155046299557375\ \(0\)\
-\-\ intravesicular\\:\\ 0\\.020148579987724253\ \(0\)\
-\-\ qualify\\:\\ 0\\.020148579987724253\ \(0\)\
-\-\ mitomycin\\:\\ 0\\.020148579987724253\ \(0\)\
-\-\ admissions\\:\\ 0\\.020148579987724253\ \(0\)\
-\-\ \\'s\\:\\ 0\\.019676727084773315\ \(0\)\
-\-\ alternatives\\:\\ 0\\.019397451861218298\ \(0\)\
-\-\ 2\\-month\\:\\ 0\\.019397451861218298\ \(0\)\
-\-\ lung\\:\\ 0\\.01938766934912856\ \(0\)\
-\-\ wall\\:\\ 0\\.01938766934912856\ \(0\)\
-\-\ bph\\:\\ 0\\.018814831622799996\ \(0\)\
-\-\ adding\\:\\ 0\\.01833879622647113\ \(0\)\
-\-\ interferon\\:\\ 0\\.01833879622647113\ \(0\)\
-\-\ cystography\\:\\ 0\\.01833879622647113\ \(0\)\
-\-\ lymph\\:\\ 0\\.018013276286917214\ \(0\)\
-\-\ transurethral\\:\\ 0\\.017936314033710665\ \(0\)\
-\-\ extrarenal\\:\\ 0\\.017936314033710665\ \(0\)\
-\-\ trabeculated\\:\\ 0\\.017936314033710665\ \(0\)\
-\-\ indenting\\:\\ 0\\.017005047861546874\ \(0\)\
-\-\ highlights\\:\\ 0\\.017005047861546874\ \(0\)\
-\-\ exacerbations\\:\\ 0\\.017005047861546874\ \(0\)\
-\-\ grade\\:\\ 0\\.016996536777811856\ \(0\)\
-\-\ commonly\\:\\ 0\\.016838284300029458\ \(0\)\
-\-\ its\\:\\ 0\\.016838284300029458\ \(0\)\
-\-\ crystals\\:\\ 0\\.016126530272457546\ \(0\)\
-\-\ prostatic\\:\\ 0\\.016126530272457546\ \(0\)\
-\-\ aggravated\\:\\ 0\\.016126530272457546\ \(0\)\
-\-\ man\\:\\ 0\\.01582975334013054\ \(0\)\
-\-\ effect\\:\\ 0\\.015799259807150103\ \(0\)\
-\-\ toxicity\\:\\ 0\\.01561959550890413\ \(0\)\
-\-\ efficacy\\:\\ 0\\.01561959550890413\ \(0\)\
-\-\ properly\\:\\ 0\\.015470356830470846\ \(0\)\
-\-\ most\\:\\ 0\\.01545301677593793\ \(0\)\
-\-\ liver\\:\\ 0\\.015384968724975058\ \(0\)\
-\-\ cystitis\\:\\ 0\\.01532918915091399\ \(0\)\
-\-\ travel\\:\\ 0\\.01532918915091399\ \(0\)\
-\-\ high\\-grade\\:\\ 0\\.015195264100293752\ \(0\)\
-\-\ perihilar\\:\\ 0\\.015195264100293752\ \(0\)\
-\-\ resistant\\:\\ 0\\.015067874637710378\ \(0\)\
-\-\ adjuvant\\:\\ 0\\.014946412455896037\ \(0\)\
-\-\ caudate\\:\\ 0\\.014946412455896037\ \(0\)\
-\-\ urethra\\:\\ 0\\.014510239911083592\ \(0\)\
-\-\ favorable\\:\\ 0\\.014510239911083592\ \(0\)\
-\-\ profile\\:\\ 0\\.014510239911083592\ \(0\)\
-\-\ opposed\\:\\ 0\\.01441170119572368\ \(0\)\
-\-\ mainly\\:\\ 0\\.014225124266266381\ \(0\)\
-\-\ layering\\:\\ 0\\.014136608465546586\ \(0\)\
-\-\ careful\\:\\ 0\\.013968100577458934\ \(0\)\
-\-\ sufficient\\:\\ 0\\.01388775682114887\ \(0\)\
-\-\ 82\\:\\ 0\\.01380981174765101\ \(0\)\
-\-\ acetabulum\\:\\ 0\\.01380981174765101\ \(0\)\
-\-\ congestive\\:\\ 0\\.01380981174765101\ \(0\)\
-\-\ urinalysis\\:\\ 0\\.013734126272786121\ \(0\)\
-\-\ low\\-grade\\:\\ 0\\.013660573069217724\ \(0\)\
-\-\ transitional\\:\\ 0\\.013660573069217724\ \(0\)\
-\-\ cancers\\:\\ 0\\.013451584276336429\ \(0\)\
-\-\ obstructing\\:\\ 0\\.01338548033904063\ \(0\)\
-\-\ for\\:\\ 0\\.01332573639816973\ \(0\)\
-\-\ already\\:\\ 0\\.013258090876457258\ \(0\)\
-\-\ pulmonary\\:\\ 0\\.013036816241358034\ \(0\)\
-\-\ clot\\:\\ 0\\.013020566651377033\ \(0\)\
-\-\ his\\:\\ 0\\.012861039308861264\ \(0\)\
-\-\ produced\\:\\ 0\\.01260191743447056\ \(0\)\
-\-\ this\\:\\ 0\\.012547483202534373\ \(0\)\
-\-\ mass\\:\\ 0\\.012412125398930178\ \(0\)\
-\-\ high\\:\\ 0\\.012211728778469011\ \(0\)\
-\-\ infiltration\\:\\ 0\\.012158316816205812\ \(0\)\
-\-\ lobe\\:\\ 0\\.012006920876885296\ \(0\)\
-\-\ therapy\\:\\ 0\\.011930239144859599\ \(0\)\
-\-\ half\\:\\ 0\\.011779251516350727\ \(0\)\
-\-\ concerning\\:\\ 0\\.011709621628407748\ \(0\)\
-\-\ here\\:\\ 0\\.011641800515083307\ \(0\)\
-\-\ remaining\\:\\ 0\\.011608539351173569\ \(0\)\
-\-\ clearly\\:\\ 0\\.011479576543524543\ \(0\)\
-\-\ metastatic\\:\\ 0\\.011232947277368618\ \(0\)\
-\-\ painless\\:\\ 0\\.011210782890123911\ \(0\)\
-\-\ invasive\\:\\ 0\\.011210782890123911\ \(0\)\
-\-\ frequent\\:\\ 0\\.01115463091826761\ \(0\)\
-\-\ to\\:\\ 0\\.011150603353602774\ \(0\)\
-\-\ need\\:\\ 0\\.011127001389989446\ \(0\)\
-\-\ normally\\:\\ 0\\.010993076339369207\ \(0\)\
-\-\ six\\:\\ 0\\.010967096363251275\ \(0\)\
-\-\ disease\\:\\ 0\\.01094050293380447\ \(0\)\
-\-\ uncommon\\:\\ 0\\.010915899310017917\ \(0\)\
-\-\ non\\-contrast\\:\\ 0\\.010890672388577351\ \(0\)\
-\-\ bilateral\\:\\ 0\\.010829335401119812\ \(0\)\
-\-\ contour\\:\\ 0\\.010816421904711727\ \(0\)\
-\-\ distended\\:\\ 0\\.010792133673217437\ \(0\)\
-\-\ c\\:\\ 0\\.01060555674376014\ \(0\)\
-\-\ 45\\:\\ 0\\.010308052150159048\ \(0\)\
-\-\ included\\:\\ 0\\.010288044649517877\ \(0\)\
-\-\ posterior\\:\\ 0\\.010285318792179888\ \(0\)\
-\-\ is\\:\\ 0\\.010276854957423184\ \(0\)\
-\-\ having\\:\\ 0\\.010248483800900116\ \(0\)\
-\-\ those\\:\\ 0\\.010152127255376746\ \(0\)\
-\-\ were\\:\\ 0\\.010132043533628832\ \(0\)\
-\-\ lower\\:\\ 0\\.010035833260385705\ \(0\)\
-\-\ it\\:\\ 0\\.010030539867013142\ \(0\)\
-\-\ material\\:\\ 0\\.009969467755097607\ \(0\)\
-\-\ recurrence\\:\\ 0\\.009733478038470272\ \(0\)\
-\-\ femur\\:\\ 0\\.009638523353951016\ \(0\)\
-\-\ metastases\\:\\ 0\\.009531938511861578\ \(0\)\
-\-\ screening\\:\\ 0\\.009517061172136675\ \(0\)\
-\-\ lymphadenopathy\\:\\ 0\\.009487558416904473\ \(0\)\
-\-\ rule\\:\\ 0\\.009317217628736324\ \(0\)\
-\-\ limits\\:\\ 0\\.009196380154678867\ \(0\)\
-\-\ line\\:\\ 0\\.009170270276520686\ \(0\)\
-\-\ are\\:\\ 0\\.009124338427124817\ \(0\)\
-\-\ visualized\\:\\ 0\\.009031154436800224\ \(0\)\
-\-\ evaluate\\:\\ 0\\.009018867515031522\ \(0\)\
-\-\ considered\\:\\ 0\\.009006638143458607\ \(0\)\
-\-\ includes\\:\\ 0\\.008994465785479988\ \(0\)\
-\-\ vessels\\:\\ 0\\.008982349911964315\ \(0\)\
-\-\ shown\\:\\ 0\\.008946336016057434\ \(0\)\
-\-\ vs\\:\\ 0\\.008784543003657436\ \(0\)\
-\-\ failure\\:\\ 0\\.008740099955173282\ \(0\)\
-\-\ used\\:\\ 0\\.008559227563832799\ \(0\)\
-\-\ within\\:\\ 0\\.00851243555292993\ \(0\)\
-\-\ metastasis\\:\\ 0\\.00835182069530007\ \(0\)\
-\-\ wbc\\:\\ 0\\.008133354701242329\ \(0\)\
-\-\ did\\:\\ 0\\.008055923344629044\ \(0\)\
-\-\ required\\:\\ 0\\.008030614913282674\ \(0\)\
-\-\ chemotherapy\\:\\ 0\\.00799724748078555\ \(0\)\
-\-\ biopsy\\:\\ 0\\.007915648150487625\ \(0\)\
-\-\ new\\:\\ 0\\.00777490333368292\ \(0\)\
-\-\ heart\\:\\ 0\\.007752166185140403\ \(0\)\
-\-\ enlarged\\:\\ 0\\.0076125876511331765\ \(0\)\
-\-\ thickening\\:\\ 0\\.0075629884326197175\ \(0\)\
-\-\ first\\:\\ 0\\.00748690191850092\ \(0\)\
-\-\ cases\\:\\ 0\\.007432926537809746\ \(0\)\
-\-\ initial\\:\\ 0\\.007393164864959029\ \(0\)\
-\-\ out\\:\\ 0\\.007373508816862967\ \(0\)\
-\-\ follow\\-up\\:\\ 0\\.007258582223085488\ \(0\)\
-\-\ right\\:\\ 0\\.00706238936640013\ \(0\)\
-\-\ aspect\\:\\ 0\\.007008595129199367\ \(0\)\
-\-\ normal\\:\\ 0\\.006995365298167629\ \(0\)\
-\-\ resection\\:\\ 0\\.0069580043225070986\ \(0\)\
-\-\ be\\:\\ 0\\.006881236153232006\ \(0\)\
-\-\ show\\:\\ 0\\.0068489711083332275\ \(0\)\
-\-\ usually\\:\\ 0\\.006775269592341407\ \(0\)\
-\-\ as\\:\\ 0\\.006749751989003279\ \(0\)\
-\-\ yo\\:\\ 0\\.006713711549093373\ \(0\)\
-\-\ renal\\:\\ 0\\.00670359151294535\ \(0\)\
-\-\ evaluation\\:\\ 0\\.006481041242367644\ \(0\)\
-\-\ not\\:\\ 0\\.006448139278025772\ \(0\)\
-\-\ when\\:\\ 0\\.006389898792731085\ \(0\)\
-\-\ abnormal\\:\\ 0\\.006363165118315695\ \(0\)\
-\-\ \\,\\:\\ 0\\.006361333132260017\ \(0\)\
-\-\ likely\\:\\ 0\\.006293185289649234\ \(0\)\
-\-\ include\\:\\ 0\\.0062588863917239865\ \(0\)\
-\-\ months\\:\\ 0\\.006093841500496259\ \(0\)\
-\-\ cell\\:\\ 0\\.006026738150343307\ \(0\)\
-\-\ up\\:\\ 0\\.005999600916590662\ \(0\)\
-\-\ due\\:\\ 0\\.005953726247918642\ \(0\)\
-\-\ evidence\\:\\ 0\\.005849719538816914\ \(0\)\
-\-\ these\\:\\ 0\\.00580638300772282\ \(0\)\
-\-\ physical\\:\\ 0\\.0054739040981233375\ \(0\)\
-\-\ consistent\\:\\ 0\\.00547075266013369\ \(0\)\
-\-\ \\%\\:\\ 0\\.00520449355965015\ \(0\)\
-\-\ tumor\\:\\ 0\\.005201650918043894\ \(0\)\
-\-\ and\\:\\ 0\\.005169971444006274\ \(0\)\
-\-\ contrast\\:\\ 0\\.004994192393754322\ \(0\)\
-\-\ exam\\:\\ 0\\.004901394099084956\ \(0\)\
-\-\ may\\:\\ 0\\.004893807751692229\ \(0\)\
-\-\ large\\:\\ 0\\.004878700866399686\ \(0\)\
-\-\ of\\:\\ 0\\.0048669995111431195\ \(0\)\
-\-\ had\\:\\ 0\\.004814229293056679\ \(0\)\
-\-\ no\\:\\ 0\\.004493180943622987\ \(0\)\
-\-\ patient\\:\\ 0\\.004473064913401503\ \(0\)\
-\-\ the\\:\\ 0\\.00433157027792039\ \(0\)\
-\-\ which\\:\\ 0\\.004164868374001433\ \(0\)\
-\-\ by\\:\\ 0\\.003715067632493146\ \(0\)\
-\-\ ct\\:\\ 0\\.0031208972673421485\ \(0\)\
-\-\ history\\:\\ 0\\.003081500098451915\ \(0\)\
-\-\ or\\:\\ 0\\.0026149419032994977\ \(0\)\
-\-\ was\\:\\ 0\\.0025803590658320806\ \(0\)\
-\-\ left\\:\\ 0\\.0024963584054123102\ \(0\)\
-\-\ with\\:\\ 0\\.0024439514587966523\ \(0\)\
-\-\ a\\:\\ 0\\.0020710172418725915\ \(0\)\
-\-\ \\.\\:\\ 0\\.0020391378437117965\ \(0\)\
-\-\ on\\:\\ 0\\.0018900548625729193\ \(0\)\
-\-\ \\(\\:\\ 0\\.0018860619484173905\ \(0\)\
-\-\ \\)\\:\\ 0\\.001863022694812807\ \(0\)\
-\-\ in\\:\\ 0\\.0011002538645959658\ \(0\)\
+Texto: 
+normal physical exam. urinalysis was consistent with gross hematuria, no crystals were visualized, wbc's were within normal limits.
+transurethral resection of bladder tumor, turbt, with biopsy of remaining bladder and prostatic urethra is normally sufficient for low-grade urothelial cancer. adjuvant intravesicular therapy may be included for cases of high-grade urothelial cancer. bcg is most commonly used due to its favorable toxicity profile and its efficacy. six months of bcg therapy is usually required to qualify as bcg resistant tumors. alternatives for these tumors include adding mitomycin c, anthracyclines, and interferon.
+
+high grade tumors are most likely to be muscle-invasive. mvac is considered first line multi-agent chemotherapy.
+
+follow-up includes screening cystography for recurrence of disease which is not uncommon.
+- bilateral extrarenal pelves.
+- no evidence of obstructing stones or stones in the bladder.  
+- abnormal layering of contrast material within the posterior aspect of the bladder concerning for clot vs mural mass.
+- metastatic disease with spread to bilateral hilar and mediastinal lymph nodes.
+- metastatic disease with spread to left lower lung lobe.
+urothelial cancer
+bladder cancer - mainly urothelial (transitional cell) cancer
+bph
+renal stones
+cystitis
+82 yo man with 2-month history of painless gross hematuria
+this man had metastasis to his right acetabulum and right femur, right lower lung, and caudate lobe of the liver, with large infiltration of mediastinal and perihilar lymph nodes. up to 45% of new urothelial cancers are high grade and half of those are already invasive. metastases most commonly travel to lung and liver.
+
+this patient's initial non-contrast ct  did not clearly show the mural mass as it is shown here. his enlarged prostate produced a mass effect indenting the contour of the posterior bladder wall. this highlights the need for careful evaluation of the bladder wall when it is opposed by the prostate and having a properly distended bladder to evaluate thickening of the trabeculated bladder wall.
+
+this patient's hilar and mediastinal lymphadenopathy with mass effect on the pulmonary vessels aggravated this man's congestive heart failure with frequent admissions for exacerbations to rule out pulmonary embolisms.
+
+
+Keywords by value: 
+- urothelial: 0.08502523930773435
+- bladder: 0.08150312803979443
+- bcg: 0.05819235558365488
+- cancer: 0.03667317577499694
+- stones: 0.03443872963057363
+- -: 0.028695484992820312
+- mediastinal: 0.028418793353465345
+- mural: 0.025400912299660943
+- tumors: 0.02514138139167494
+- prostate: 0.023701578615929208
+- turbt: 0.023017019383724538
+- anthracyclines: 0.023017019383724538
+- muscle-invasive: 0.023017019383724538
+- mvac: 0.023017019383724538
+- hilar: 0.022421565780247822
+- spread: 0.021584267346434875
+- gross: 0.02125632530341122
+- multi-agent: 0.02120723562247142
+- pelves: 0.02120723562247142
+- embolisms: 0.02120723562247142
+- hematuria: 0.021166289760672283
+- nodes: 0.020155046299557375
+- intravesicular: 0.020148579987724253
+- qualify: 0.020148579987724253
+- mitomycin: 0.020148579987724253
+- admissions: 0.020148579987724253
+- 's: 0.019676727084773315
+- alternatives: 0.019397451861218298
+- 2-month: 0.019397451861218298
+- lung: 0.01938766934912856
+- wall: 0.01938766934912856
+- bph: 0.018814831622799996
+- adding: 0.01833879622647113
+- interferon: 0.01833879622647113
+- cystography: 0.01833879622647113
+- lymph: 0.018013276286917214
+- transurethral: 0.017936314033710665
+- extrarenal: 0.017936314033710665
+- trabeculated: 0.017936314033710665
+- indenting: 0.017005047861546874
+- highlights: 0.017005047861546874
+- exacerbations: 0.017005047861546874
+- grade: 0.016996536777811856
+- commonly: 0.016838284300029458
+- its: 0.016838284300029458
+- crystals: 0.016126530272457546
+- prostatic: 0.016126530272457546
+- aggravated: 0.016126530272457546
+- man: 0.01582975334013054
+- effect: 0.015799259807150103
+- toxicity: 0.01561959550890413
+- efficacy: 0.01561959550890413
+- properly: 0.015470356830470846
+- most: 0.01545301677593793
+- liver: 0.015384968724975058
+- cystitis: 0.01532918915091399
+- travel: 0.01532918915091399
+- high-grade: 0.015195264100293752
+- perihilar: 0.015195264100293752
+- resistant: 0.015067874637710378
+- adjuvant: 0.014946412455896037
+- caudate: 0.014946412455896037
+- urethra: 0.014510239911083592
+- favorable: 0.014510239911083592
+- profile: 0.014510239911083592
+- opposed: 0.01441170119572368
+- mainly: 0.014225124266266381
+- layering: 0.014136608465546586
+- careful: 0.013968100577458934
+- sufficient: 0.01388775682114887
+- 82: 0.01380981174765101
+- acetabulum: 0.01380981174765101
+- congestive: 0.01380981174765101
+- urinalysis: 0.013734126272786121
+- low-grade: 0.013660573069217724
+- transitional: 0.013660573069217724
+- cancers: 0.013451584276336429
+- obstructing: 0.01338548033904063
+- for: 0.01332573639816973
+- already: 0.013258090876457258
+- pulmonary: 0.013036816241358034
+- clot: 0.013020566651377033
+- his: 0.012861039308861264
+- produced: 0.01260191743447056
+- this: 0.012547483202534373
+- mass: 0.012412125398930178
+- high: 0.012211728778469011
+- infiltration: 0.012158316816205812
+- lobe: 0.012006920876885296
+- therapy: 0.011930239144859599
+- half: 0.011779251516350727
+- concerning: 0.011709621628407748
+- here: 0.011641800515083307
+- remaining: 0.011608539351173569
+- clearly: 0.011479576543524543
+- metastatic: 0.011232947277368618
+- painless: 0.011210782890123911
+- invasive: 0.011210782890123911
+- frequent: 0.01115463091826761
+- to: 0.011150603353602774
+- need: 0.011127001389989446
+- normally: 0.010993076339369207
+- six: 0.010967096363251275
+- disease: 0.01094050293380447
+- uncommon: 0.010915899310017917
+- non-contrast: 0.010890672388577351
+- bilateral: 0.010829335401119812
+- contour: 0.010816421904711727
+- distended: 0.010792133673217437
+- c: 0.01060555674376014
+- 45: 0.010308052150159048
+- included: 0.010288044649517877
+- posterior: 0.010285318792179888
+- is: 0.010276854957423184
+- having: 0.010248483800900116
+- those: 0.010152127255376746
+- were: 0.010132043533628832
+- lower: 0.010035833260385705
+- it: 0.010030539867013142
+- material: 0.009969467755097607
+- recurrence: 0.009733478038470272
+- femur: 0.009638523353951016
+- metastases: 0.009531938511861578
+- screening: 0.009517061172136675
+- lymphadenopathy: 0.009487558416904473
+- rule: 0.009317217628736324
+- limits: 0.009196380154678867
+- line: 0.009170270276520686
+- are: 0.009124338427124817
+- visualized: 0.009031154436800224
+- evaluate: 0.009018867515031522
+- considered: 0.009006638143458607
+- includes: 0.008994465785479988
+- vessels: 0.008982349911964315
+- shown: 0.008946336016057434
+- vs: 0.008784543003657436
+- failure: 0.008740099955173282
+- used: 0.008559227563832799
+- within: 0.00851243555292993
+- metastasis: 0.00835182069530007
+- wbc: 0.008133354701242329
+- did: 0.008055923344629044
+- required: 0.008030614913282674
+- chemotherapy: 0.00799724748078555
+- biopsy: 0.007915648150487625
+- new: 0.00777490333368292
+- heart: 0.007752166185140403
+- enlarged: 0.0076125876511331765
+- thickening: 0.0075629884326197175
+- first: 0.00748690191850092
+- cases: 0.007432926537809746
+- initial: 0.007393164864959029
+- out: 0.007373508816862967
+- follow-up: 0.007258582223085488
+- right: 0.00706238936640013
+- aspect: 0.007008595129199367
+- normal: 0.006995365298167629
+- resection: 0.0069580043225070986
+- be: 0.006881236153232006
+- show: 0.0068489711083332275
+- usually: 0.006775269592341407
+- as: 0.006749751989003279
+- yo: 0.006713711549093373
+- renal: 0.00670359151294535
+- evaluation: 0.006481041242367644
+- not: 0.006448139278025772
+- when: 0.006389898792731085
+- abnormal: 0.006363165118315695
+- ,: 0.006361333132260017
+- likely: 0.006293185289649234
+- include: 0.0062588863917239865
+- months: 0.006093841500496259
+- cell: 0.006026738150343307
+- up: 0.005999600916590662
+- due: 0.005953726247918642
+- evidence: 0.005849719538816914
+- these: 0.00580638300772282
+- physical: 0.0054739040981233375
+- consistent: 0.00547075266013369
+- %: 0.00520449355965015
+- tumor: 0.005201650918043894
+- and: 0.005169971444006274
+- contrast: 0.004994192393754322
+- exam: 0.004901394099084956
+- may: 0.004893807751692229
+- large: 0.004878700866399686
+- of: 0.0048669995111431195
+- had: 0.004814229293056679
+- no: 0.004493180943622987
+- patient: 0.004473064913401503
+- the: 0.00433157027792039
+- which: 0.004164868374001433
+- by: 0.003715067632493146
+- ct: 0.0031208972673421485
+- history: 0.003081500098451915
+- or: 0.0026149419032994977
+- was: 0.0025803590658320806
+- left: 0.0024963584054123102
+- with: 0.0024439514587966523
+- a: 0.0020710172418725915
+- .: 0.0020391378437117965
+- on: 0.0018900548625729193
+- (: 0.0018860619484173905
+- ): 0.001863022694812807
+- in: 0.0011002538645959658

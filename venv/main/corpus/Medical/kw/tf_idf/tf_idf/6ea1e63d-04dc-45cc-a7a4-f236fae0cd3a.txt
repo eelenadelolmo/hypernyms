@@ -1,103 +1,106 @@
-\-\ Texto\\:\\ \ \(0\)\
-\-\ n\\/a\ \(127\)\
-\-\ patient\\ was\\ started\\ on\\ parenteral\\ nutrition\\ and\\ placed\\ on\\ observation\\.\ \(0\)\
-\-\ plain\\ radiograph\\ demonstrates\\ air\\ fluid\\ levels\\ without\\ dilated\\ loops\\ of\\ small\\ bowel\\.\\ \\ median\\ surgical\\ clips\\ from\\ laparotomy\\ are\\ present\\.\\ \ \(0\)\
-\-\ fluoroscopic\\ images\\ of\\ the\\ abdomen\\ demonstrate\\ angulation\\ of\\ small\\ bowel\\ in\\ the\\ right\\ lower\\ quadrant\\ which\\ are\\ fixed\\ in\\ position\\.\\ \\ serial\\ abdominal\\ radiographs\\ demonstrate\\ dilated\\ loops\\ of\\ small\\ bowel\\ with\\ normal\\ caliber\\ loops\\ distal\\ to\\ the\\ right\\ lower\\ quadrant\\.\ \(0\)\
-\-\ intraperitoneal\\ adhesions\\ and\\ partial\\ small\\ bowel\\ obstruction\ \(0\)\
-\-\ intraperitoneal\\ adhesions\ \(0\)\
-\-\ stricture\ \(142\)\
-\-\ bowel\\ wall\\ ischemia\ \(1\)\
-\-\ 75\\ year\\ old\\ status\\ post\\ abdominal\\ aortic\\ aneurysm\\ repair\\ with\\ inability\\ to\\ advance\\ diet\\.\\ \\ concern\\ for\\ small\\ bowel\\ obstruction\\.\ \(0\)\
-\-\ intraperitoneal\\ adhesions\\ are\\ the\\ most\\ common\\ post\\ surgical\\ cause\\ for\\ small\\ bowel\\ obstruction\\.\\ \\ this\\ patient\\ demonstrated\\ inability\\ to\\ advance\\ diet\\ and\\ had\\ increased\\ nasogastric\\ tube\\ output\\.\\ \\ dilatation\\ of\\ loops\\ of\\ small\\ bowel\\ with\\ angulation\\ is\\ highly\\ suggestive\\ of\\ adhesions\\.\\ \\ normal\\ caliber\\ of\\ small\\ bowel\\ distally\\ demonstrated\\ no\\ other\\ area\\ of\\ extrinsic\\ compression\\.\ \(0\)\
-\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
-\-\ bowel\\:\\ 0\\.14707062070709045\ \(0\)\
-\-\ adhesions\\:\\ 0\\.12829683810919718\ \(0\)\
-\-\ loops\\:\\ 0\\.1022084295288348\ \(0\)\
-\-\ small\\:\\ 0\\.0960280626527375\ \(0\)\
-\-\ intraperitoneal\\:\\ 0\\.09288747815274016\ \(0\)\
-\-\ advance\\:\\ 0\\.08214727905227637\ \(0\)\
-\-\ diet\\:\\ 0\\.06380487177451694\ \(0\)\
-\-\ caliber\\:\\ 0\\.06135766817131996\ \(0\)\
-\-\ angulation\\:\\ 0\\.060553302710444394\ \(0\)\
-\-\ inability\\:\\ 0\\.059798724616321366\ \(0\)\
-\-\ obstruction\\:\\ 0\\.05512317162053845\ \(0\)\
-\-\ parenteral\\:\\ 0\\.04035545028433097\ \(0\)\
-\-\ nasogastric\\:\\ 0\\.03860129130596645\ \(0\)\
-\-\ dilated\\:\\ 0\\.037866968373068646\ \(0\)\
-\-\ quadrant\\:\\ 0\\.036675316268122614\ \(0\)\
-\-\ nutrition\\:\\ 0\\.03612894308579472\ \(0\)\
-\-\ output\\:\\ 0\\.03548650091714944\ \(0\)\
-\-\ laparotomy\\:\\ 0\\.03365659486562298\ \(0\)\
-\-\ clips\\:\\ 0\\.03322086947548795\ \(0\)\
-\-\ post\\:\\ 0\\.032815061378930414\ \(0\)\
-\-\ extrinsic\\:\\ 0\\.032074209527299294\ \(0\)\
-\-\ demonstrated\\:\\ 0\\.030578292468987408\ \(0\)\
-\-\ distally\\:\\ 0\\.03054180447680597\ \(0\)\
-\-\ median\\:\\ 0\\.03014827690889395\ \(0\)\
-\-\ fixed\\:\\ 0\\.03014827690889395\ \(0\)\
-\-\ fluoroscopic\\:\\ 0\\.02849014449740833\ \(0\)\
-\-\ stricture\\:\\ 0\\.027935438532739262\ \(0\)\
-\-\ observation\\:\\ 0\\.026735985519043805\ \(0\)\
-\-\ 75\\:\\ 0\\.026663824191927938\ \(0\)\
-\-\ abdominal\\:\\ 0\\.026047795586855067\ \(0\)\
-\-\ serial\\:\\ 0\\.025985619099792426\ \(0\)\
-\-\ concern\\:\\ 0\\.025921769710357697\ \(0\)\
-\-\ highly\\:\\ 0\\.02509169547667123\ \(0\)\
-\-\ ischemia\\:\\ 0\\.024215434984804312\ \(0\)\
-\-\ demonstrate\\:\\ 0\\.02398112367479318\ \(0\)\
-\-\ lower\\:\\ 0\\.0234373423093154\ \(0\)\
-\-\ started\\:\\ 0\\.023241293402567312\ \(0\)\
-\-\ dilatation\\:\\ 0\\.022330651399199507\ \(0\)\
-\-\ suggestive\\:\\ 0\\.022260563719774296\ \(0\)\
-\-\ tube\\:\\ 0\\.02195477235583849\ \(0\)\
-\-\ surgical\\:\\ 0\\.021905143539651874\ \(0\)\
-\-\ position\\:\\ 0\\.021695262511821446\ \(0\)\
-\-\ levels\\:\\ 0\\.021507630446780265\ \(0\)\
-\-\ are\\:\\ 0\\.021308668399931736\ \(0\)\
-\-\ placed\\:\\ 0\\.021091049690820034\ \(0\)\
-\-\ aortic\\:\\ 0\\.021091049690820034\ \(0\)\
-\-\ repair\\:\\ 0\\.02086518827813498\ \(0\)\
-\-\ partial\\:\\ 0\\.020837534892980156\ \(0\)\
-\-\ aneurysm\\:\\ 0\\.020594140945385992\ \(0\)\
-\-\ compression\\:\\ 0\\.01950455686768248\ \(0\)\
-\-\ n\\/a\\:\\ 0\\.018873211264384675\ \(0\)\
-\-\ status\\:\\ 0\\.018599556836473498\ \(0\)\
-\-\ air\\:\\ 0\\.01762965016190223\ \(0\)\
-\-\ cause\\:\\ 0\\.01762965016190223\ \(0\)\
-\-\ plain\\:\\ 0\\.016922339711518807\ \(0\)\
-\-\ radiograph\\:\\ 0\\.016597247889764407\ \(0\)\
-\-\ radiographs\\:\\ 0\\.016501651470744713\ \(0\)\
-\-\ area\\:\\ 0\\.016474611244721143\ \(0\)\
-\-\ normal\\:\\ 0\\.01633673725120855\ \(0\)\
-\-\ abdomen\\:\\ 0\\.015435269895705466\ \(0\)\
-\-\ wall\\:\\ 0\\.015092433659992355\ \(0\)\
-\-\ fluid\\:\\ 0\\.014808775028072275\ \(0\)\
-\-\ distal\\:\\ 0\\.014166332859426993\ \(0\)\
-\-\ common\\:\\ 0\\.013635775682660958\ \(0\)\
-\-\ increased\\:\\ 0\\.012746858425607657\ \(0\)\
-\-\ without\\:\\ 0\\.012268372965598538\ \(0\)\
-\-\ most\\:\\ 0\\.01202948257151266\ \(0\)\
-\-\ other\\:\\ 0\\.012009991150624687\ \(0\)\
-\-\ present\\:\\ 0\\.011768346060559029\ \(0\)\
-\-\ demonstrates\\:\\ 0\\.011381836595446256\ \(0\)\
-\-\ had\\:\\ 0\\.011242986702687245\ \(0\)\
-\-\ right\\:\\ 0\\.010995508647688008\ \(0\)\
-\-\ patient\\:\\ 0\\.01044624305995595\ \(0\)\
-\-\ images\\:\\ 0\\.00999551153627655\ \(0\)\
-\-\ which\\:\\ 0\\.009726491385625298\ \(0\)\
-\-\ for\\:\\ 0\\.008891562788325794\ \(0\)\
-\-\ on\\:\\ 0\\.008827939175188147\ \(0\)\
-\-\ to\\:\\ 0\\.007812221495908285\ \(0\)\
-\-\ from\\:\\ 0\\.007722168982647637\ \(0\)\
-\-\ of\\:\\ 0\\.006393501263304243\ \(0\)\
-\-\ was\\:\\ 0\\.006026082452522481\ \(0\)\
-\-\ this\\:\\ 0\\.005860592764110568\ \(0\)\
-\-\ year\\:\\ 0\\.005829910178493383\ \(0\)\
-\-\ old\\:\\ 0\\.005334967054038138\ \(0\)\
-\-\ no\\:\\ 0\\.005246610675023183\ \(0\)\
-\-\ in\\:\\ 0\\.005138990611466524\ \(0\)\
-\-\ is\\:\\ 0\\.003428602307223937\ \(0\)\
-\-\ the\\:\\ 0\\.003371933773259166\ \(0\)\
-\-\ and\\:\\ 0\\.003292847665833264\ \(0\)\
-\-\ \\.\\:\\ 0\\.0023810664455537135\ \(0\)\
-\-\ with\\:\\ 0\\.002140320294327251\ \(0\)\
+Texto: 
+n/a
+patient was started on parenteral nutrition and placed on observation.
+plain radiograph demonstrates air fluid levels without dilated loops of small bowel.  median surgical clips from laparotomy are present. 
+
+fluoroscopic images of the abdomen demonstrate angulation of small bowel in the right lower quadrant which are fixed in position.  serial abdominal radiographs demonstrate dilated loops of small bowel with normal caliber loops distal to the right lower quadrant.
+intraperitoneal adhesions and partial small bowel obstruction
+intraperitoneal adhesions
+stricture
+bowel wall ischemia
+75 year old status post abdominal aortic aneurysm repair with inability to advance diet.  concern for small bowel obstruction.
+intraperitoneal adhesions are the most common post surgical cause for small bowel obstruction.  this patient demonstrated inability to advance diet and had increased nasogastric tube output.  dilatation of loops of small bowel with angulation is highly suggestive of adhesions.  normal caliber of small bowel distally demonstrated no other area of extrinsic compression.
+
+
+Keywords by value: 
+- bowel: 0.14707062070709045
+- adhesions: 0.12829683810919718
+- loops: 0.1022084295288348
+- small: 0.0960280626527375
+- intraperitoneal: 0.09288747815274016
+- advance: 0.08214727905227637
+- diet: 0.06380487177451694
+- caliber: 0.06135766817131996
+- angulation: 0.060553302710444394
+- inability: 0.059798724616321366
+- obstruction: 0.05512317162053845
+- parenteral: 0.04035545028433097
+- nasogastric: 0.03860129130596645
+- dilated: 0.037866968373068646
+- quadrant: 0.036675316268122614
+- nutrition: 0.03612894308579472
+- output: 0.03548650091714944
+- laparotomy: 0.03365659486562298
+- clips: 0.03322086947548795
+- post: 0.032815061378930414
+- extrinsic: 0.032074209527299294
+- demonstrated: 0.030578292468987408
+- distally: 0.03054180447680597
+- median: 0.03014827690889395
+- fixed: 0.03014827690889395
+- fluoroscopic: 0.02849014449740833
+- stricture: 0.027935438532739262
+- observation: 0.026735985519043805
+- 75: 0.026663824191927938
+- abdominal: 0.026047795586855067
+- serial: 0.025985619099792426
+- concern: 0.025921769710357697
+- highly: 0.02509169547667123
+- ischemia: 0.024215434984804312
+- demonstrate: 0.02398112367479318
+- lower: 0.0234373423093154
+- started: 0.023241293402567312
+- dilatation: 0.022330651399199507
+- suggestive: 0.022260563719774296
+- tube: 0.02195477235583849
+- surgical: 0.021905143539651874
+- position: 0.021695262511821446
+- levels: 0.021507630446780265
+- are: 0.021308668399931736
+- placed: 0.021091049690820034
+- aortic: 0.021091049690820034
+- repair: 0.02086518827813498
+- partial: 0.020837534892980156
+- aneurysm: 0.020594140945385992
+- compression: 0.01950455686768248
+- n/a: 0.018873211264384675
+- status: 0.018599556836473498
+- air: 0.01762965016190223
+- cause: 0.01762965016190223
+- plain: 0.016922339711518807
+- radiograph: 0.016597247889764407
+- radiographs: 0.016501651470744713
+- area: 0.016474611244721143
+- normal: 0.01633673725120855
+- abdomen: 0.015435269895705466
+- wall: 0.015092433659992355
+- fluid: 0.014808775028072275
+- distal: 0.014166332859426993
+- common: 0.013635775682660958
+- increased: 0.012746858425607657
+- without: 0.012268372965598538
+- most: 0.01202948257151266
+- other: 0.012009991150624687
+- present: 0.011768346060559029
+- demonstrates: 0.011381836595446256
+- had: 0.011242986702687245
+- right: 0.010995508647688008
+- patient: 0.01044624305995595
+- images: 0.00999551153627655
+- which: 0.009726491385625298
+- for: 0.008891562788325794
+- on: 0.008827939175188147
+- to: 0.007812221495908285
+- from: 0.007722168982647637
+- of: 0.006393501263304243
+- was: 0.006026082452522481
+- this: 0.005860592764110568
+- year: 0.005829910178493383
+- old: 0.005334967054038138
+- no: 0.005246610675023183
+- in: 0.005138990611466524
+- is: 0.003428602307223937
+- the: 0.003371933773259166
+- and: 0.003292847665833264
+- .: 0.0023810664455537135
+- with: 0.002140320294327251

@@ -1,186 +1,193 @@
-\-\ Texto\\:\\ \ \(0\)\
-\-\ patient\\ is\\ a\\ mildly\\ obese\\ boy\\ with\\ abnormal\\ head\\ size\\ and\\ microphthalmia\\.\\ neuro\\ exam\\ reveals\\ depressed\\ gag\\ reflexes\\ with\\ severe\\ developmental\\ delay\\.\\ \ \(0\)\
-\-\ extremities\\ show\\ no\\ clubbing\\ but\\ abnormal\\ foot\\ structure\\.\\ all\\ other\\ systems\\ are\\ within\\ normal\\ limits\\.\\ \\ \\ \ \(0\)\
-\-\ creatine\\ kinase\\ levels\\ are\\ abnormally\\ low\\ at\\ 37\\ u\\/l\\.\ \(0\)\
-\-\ the\\ patient\\ has\\ been\\ given\\ seizure\\ prophylaxis\\ with\\ phenobarbital\\ elixir\\ and\\ topomax\\ tablets\\ and\\ will\\ be\\ followed\\ up\\ every\\ two\\ weeks\\.\ \(0\)\
-\-\ image\\ 1\\:\\ coronal\\ t2\\ weighted\\ image\\ shows\\ marked\\ decreased\\ gyral\\ folds\\,\\ a\\ thin\\ layer\\ of\\ gray\\ matter\\,\\ and\\ ventriculomegaly\\ leading\\ to\\ diagnosis\\ of\\ type\\ 2\\ lissencephaly\\.\\ \ \(0\)\
-\-\ image\\ 2\\:\\ sagittal\\ t2\\ weighted\\ image\\ shows\\ dysgenesis\\ of\\ the\\ corpus\\ callosum\\,\\ markedly\\ underdeveloped\\ cerebellar\\ hemispheres\\,\\ and\\ an\\ enlarged\\ fourth\\ ventricle\\ and\\ widened\\ cerebral\\ aqueduct\\ indicative\\ of\\ hydrocephalus\\.\\ \ \(0\)\
-\-\ image\\ 3\\:\\ axial\\ t2\\ weighted\\ fse\\ image\\ shows\\ significant\\ ventriculomegaly\\ indicative\\ of\\ hydrocephalus\\.\\ \ \(0\)\
-\-\ image\\ 4\\:\\ ap\\ femur\\ image\\ shows\\ underdeveloped\\ muscle\\ fibers\\ with\\ irregularly\\ bowed\\ and\\ radiolucent\\ bone\\ most\\ prominent\\ at\\ the\\ distal\\ femur\\.\ \(0\)\
-\-\ walker\\ warburg\\ syndrome\ \(0\)\
-\-\ 1\\)\\	dandy\\ walker\\ syndrome\ \(0\)\
-\-\ 2\\)\\	fukuyama\\ muscle\\ dystrophy\ \(0\)\
-\-\ 3\\)\\	fryns\\ syndrome\ \(0\)\
-\-\ 4\\)\\	miller\\ dieker\\ syndrome\ \(0\)\
-\-\ 5\\)\\	viral\\ infection\ \(0\)\
-\-\ 6\\)\\	meckel\\ syndrome\ \(0\)\
-\-\ 7\\)\\	trisomy\\ 18\ \(0\)\
-\-\ 8\\)\\	trisomy\\ 13\ \(0\)\
-\-\ 9\\)\\	neu\\-laxova\\ syndrome\ \(0\)\
-\-\ 10\\)\\	goldenhar\\ syndrome\ \(0\)\
-\-\ the\\ patient\\ is\\ a\\ five\\ year\\ old\\ boy\\ born\\ four\\ weeks\\ premature\\.\\ the\\ child\\ is\\ currently\\ afflicted\\ with\\ chronic\\ developmental\\ delay\\ disorder\\,\\ seizure\\ disorder\\,\\ and\\ respiratory\\ distress\\.\ \(0\)\
-\-\ this\\ patient\\ is\\ currently\\ stable\\ \\ with\\ physical\\ therapy\\ and\\ seizure\\ prophylaxis\\ with\\ topomax\\ and\\ phenobarbital\\ elixir\\.\\ the\\ patient\\ is\\ currently\\ blind\\ with\\ profound\\ global\\ delay\\ but\\ all\\ other\\ organ\\ systems\\ are\\ within\\ normal\\ limits\\.\ \(0\)\
-\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
-\-\ image\\:\\ 0\\.0746626340223105\ \(0\)\
-\-\ syndrome\\:\\ 0\\.05981589523476395\ \(0\)\
-\-\ topomax\\:\\ 0\\.056799798904940926\ \(0\)\
-\-\ elixir\\:\\ 0\\.0539643785685202\ \(0\)\
-\-\ underdeveloped\\:\\ 0\\.05195261582410215\ \(0\)\
-\-\ phenobarbital\\:\\ 0\\.05039217140931747\ \(0\)\
-\-\ delay\\:\\ 0\\.04448399418317953\ \(0\)\
-\-\ ventriculomegaly\\:\\ 0\\.043710273192342386\ \(0\)\
-\-\ walker\\:\\ 0\\.042709567992057954\ \(0\)\
-\-\ trisomy\\:\\ 0\\.042709567992057954\ \(0\)\
-\-\ seizure\\:\\ 0\\.03963530582048464\ \(0\)\
-\-\ weighted\\:\\ 0\\.03897537058890524\ \(0\)\
-\-\ prophylaxis\\:\\ 0\\.037411066581585814\ \(0\)\
-\-\ currently\\:\\ 0\\.03551929505257403\ \(0\)\
-\-\ indicative\\:\\ 0\\.03415169784085435\ \(0\)\
-\-\ shows\\:\\ 0\\.03285837342278152\ \(0\)\
-\-\ systems\\:\\ 0\\.031740225908744354\ \(0\)\
-\-\ dieker\\:\\ 0\\.030823490992889856\ \(0\)\
-\-\ microphthalmia\\:\\ 0\\.028399899452470463\ \(0\)\
-\-\ fukuyama\\:\\ 0\\.028399899452470463\ \(0\)\
-\-\ fryns\\:\\ 0\\.028399899452470463\ \(0\)\
-\-\ afflicted\\:\\ 0\\.028399899452470463\ \(0\)\
-\-\ developmental\\:\\ 0\\.02777154781474061\ \(0\)\
-\-\ warburg\\:\\ 0\\.0269821892842601\ \(0\)\
-\-\ neu\\-laxova\\:\\ 0\\.0269821892842601\ \(0\)\
-\-\ disorder\\:\\ 0\\.026844648122698767\ \(0\)\
-\-\ femur\\:\\ 0\\.025815066045896777\ \(0\)\
-\-\ hydrocephalus\\:\\ 0\\.025691292779467398\ \(0\)\
-\-\ t2\\:\\ 0\\.025369812259619078\ \(0\)\
-\-\ creatine\\:\\ 0\\.025196085704658734\ \(0\)\
-\-\ tablets\\:\\ 0\\.025196085704658734\ \(0\)\
-\-\ goldenhar\\:\\ 0\\.025196085704658734\ \(0\)\
-\-\ \\)\\:\\ 0\\.024948870353612068\ \(0\)\
-\-\ limits\\:\\ 0\\.02463086433036368\ \(0\)\
-\-\ lissencephaly\\:\\ 0\\.023552716371631685\ \(0\)\
-\-\ bowed\\:\\ 0\\.023552716371631685\ \(0\)\
-\-\ gag\\:\\ 0\\.023140887575630344\ \(0\)\
-\-\ kinase\\:\\ 0\\.023140887575630344\ \(0\)\
-\-\ dysgenesis\\:\\ 0\\.022772494164239345\ \(0\)\
-\-\ dandy\\:\\ 0\\.022439241787301147\ \(0\)\
-\-\ miller\\:\\ 0\\.022439241787301147\ \(0\)\
-\-\ gyral\\:\\ 0\\.02213500620342132\ \(0\)\
-\-\ muscle\\:\\ 0\\.02146374289109332\ \(0\)\
-\-\ profound\\:\\ 0\\.021354783996028977\ \(0\)\
-\-\ dystrophy\\:\\ 0\\.021129124831212296\ \(0\)\
-\-\ aqueduct\\:\\ 0\\.02091715062905693\ \(0\)\
-\-\ boy\\:\\ 0\\.020312739719762038\ \(0\)\
-\-\ fse\\:\\ 0\\.019860224503627094\ \(0\)\
-\-\ global\\:\\ 0\\.019860224503627094\ \(0\)\
-\-\ irregularly\\:\\ 0\\.019431545055751804\ \(0\)\
-\-\ 2\\:\\ 0\\.01930179541794279\ \(0\)\
-\-\ layer\\:\\ 0\\.018931192455609588\ \(0\)\
-\-\ depressed\\:\\ 0\\.018816542725459275\ \(0\)\
-\-\ meckel\\:\\ 0\\.018816542725459275\ \(0\)\
-\-\ blind\\:\\ 0\\.018705533290792907\ \(0\)\
-\-\ clubbing\\:\\ 0\\.01849355908863754\ \(0\)\
-\-\ radiolucent\\:\\ 0\\.01839220406460519\ \(0\)\
-\-\ u\\/l\\:\\ 0\\.018197903885742214\ \(0\)\
-\-\ folds\\:\\ 0\\.01810465826657382\ \(0\)\
-\-\ widened\\:\\ 0\\.017754716103787167\ \(0\)\
-\-\ organ\\:\\ 0\\.017513482287399226\ \(0\)\
-\-\ obese\\:\\ 0\\.017287823122582546\ \(0\)\
-\-\ abnormal\\:\\ 0\\.017042603079125255\ \(0\)\
-\-\ weeks\\:\\ 0\\.016959984313994043\ \(0\)\
-\-\ all\\:\\ 0\\.01690156286315588\ \(0\)\
-\-\ fibers\\:\\ 0\\.016811836499070025\ \(0\)\
-\-\ 4\\:\\ 0\\.016650153183070247\ \(0\)\
-\-\ abnormally\\:\\ 0\\.016449806153123032\ \(0\)\
-\-\ premature\\:\\ 0\\.016281941750373518\ \(0\)\
-\-\ hemispheres\\:\\ 0\\.0159190158983398\ \(0\)\
-\-\ every\\:\\ 0\\.015870112954372177\ \(0\)\
-\-\ \\:\\:\\ 0\\.015808039384484825\ \(0\)\
-\-\ born\\:\\ 0\\.015590243347122052\ \(0\)\
-\-\ neuro\\:\\ 0\\.015415381736721136\ \(0\)\
-\-\ callosum\\:\\ 0\\.015331124563367776\ \(0\)\
-\-\ viral\\:\\ 0\\.015051254956117652\ \(0\)\
-\-\ 37\\:\\ 0\\.015013041422788314\ \(0\)\
-\-\ patient\\:\\ 0\\.014975383407629161\ \(0\)\
-\-\ five\\:\\ 0\\.014900844518762089\ \(0\)\
-\-\ corpus\\:\\ 0\\.014721497335588835\ \(0\)\
-\-\ gray\\:\\ 0\\.01461814488019882\ \(0\)\
-\-\ fourth\\:\\ 0\\.014452402786161812\ \(0\)\
-\-\ leading\\:\\ 0\\.014294162955434116\ \(0\)\
-\-\ 1\\:\\ 0\\.01421906551020774\ \(0\)\
-\-\ reflexes\\:\\ 0\\.014142775522730185\ \(0\)\
-\-\ markedly\\:\\ 0\\.014142775522730185\ \(0\)\
-\-\ 3\\:\\ 0\\.013992835851094683\ \(0\)\
-\-\ other\\:\\ 0\\.013773696144772368\ \(0\)\
-\-\ structure\\:\\ 0\\.01357008563229303\ \(0\)\
-\-\ 13\\:\\ 0\\.013495424357920411\ \(0\)\
-\-\ child\\:\\ 0\\.013078128002561787\ \(0\)\
-\-\ 18\\:\\ 0\\.012970534790440271\ \(0\)\
-\-\ four\\:\\ 0\\.012970534790440271\ \(0\)\
-\-\ cerebellar\\:\\ 0\\.012886782199452534\ \(0\)\
-\-\ but\\:\\ 0\\.012744778328905857\ \(0\)\
-\-\ mildly\\:\\ 0\\.012725065354519822\ \(0\)\
-\-\ distress\\:\\ 0\\.012589449882368925\ \(0\)\
-\-\ coronal\\:\\ 0\\.012440640041743766\ \(0\)\
-\-\ respiratory\\:\\ 0\\.012404406520640454\ \(0\)\
-\-\ foot\\:\\ 0\\.012350750682617167\ \(0\)\
-\-\ 9\\:\\ 0\\.012350750682617167\ \(0\)\
-\-\ levels\\:\\ 0\\.012333046829622248\ \(0\)\
-\-\ stable\\:\\ 0\\.01231543216518184\ \(0\)\
-\-\ thin\\:\\ 0\\.012280466838837142\ \(0\)\
-\-\ prominent\\:\\ 0\\.012263114428549977\ \(0\)\
-\-\ are\\:\\ 0\\.012218956704855963\ \(0\)\
-\-\ sagittal\\:\\ 0\\.011917295987784543\ \(0\)\
-\-\ matter\\:\\ 0\\.01176391598042237\ \(0\)\
-\-\ extremities\\:\\ 0\\.011719183982310798\ \(0\)\
-\-\ reveals\\:\\ 0\\.011689677448583997\ \(0\)\
-\-\ marked\\:\\ 0\\.011660417834351422\ \(0\)\
-\-\ 7\\:\\ 0\\.011448443632196057\ \(0\)\
-\-\ within\\:\\ 0\\.011399520338364206\ \(0\)\
-\-\ ventricle\\:\\ 0\\.011197168942581916\ \(0\)\
-\-\ 8\\:\\ 0\\.01117173971415856\ \(0\)\
-\-\ ap\\:\\ 0\\.010927129264484048\ \(0\)\
-\-\ cerebral\\:\\ 0\\.010351211544629618\ \(0\)\
-\-\ given\\:\\ 0\\.010242707666141057\ \(0\)\
-\-\ enlarged\\:\\ 0\\.010194479267076945\ \(0\)\
-\-\ type\\:\\ 0\\.010072112686527659\ \(0\)\
-\-\ 10\\:\\ 0\\.010072112686527659\ \(0\)\
-\-\ size\\:\\ 0\\.010017048501324375\ \(0\)\
-\-\ followed\\:\\ 0\\.010017048501324375\ \(0\)\
-\-\ is\\:\\ 0\\.009830258363369329\ \(0\)\
-\-\ normal\\:\\ 0\\.009367919262930777\ \(0\)\
-\-\ will\\:\\ 0\\.0093478357285984\ \(0\)\
-\-\ severe\\:\\ 0\\.009193390909321694\ \(0\)\
-\-\ show\\:\\ 0\\.009171873896823867\ \(0\)\
-\-\ 6\\:\\ 0\\.008923497067744316\ \(0\)\
-\-\ decreased\\:\\ 0\\.008883763645890068\ \(0\)\
-\-\ 5\\:\\ 0\\.008741819658895675\ \(0\)\
-\-\ infection\\:\\ 0\\.008685372636618206\ \(0\)\
-\-\ two\\:\\ 0\\.008557102229426593\ \(0\)\
-\-\ axial\\:\\ 0\\.008527242923314237\ \(0\)\
-\-\ head\\:\\ 0\\.008474130456552084\ \(0\)\
-\-\ chronic\\:\\ 0\\.008416047667506994\ \(0\)\
-\-\ low\\:\\ 0\\.008308279905127272\ \(0\)\
-\-\ been\\:\\ 0\\.008128653459664304\ \(0\)\
-\-\ distal\\:\\ 0\\.008123351709601493\ \(0\)\
-\-\ at\\:\\ 0\\.008096245823997433\ \(0\)\
-\-\ up\\:\\ 0\\.00803443059809169\ \(0\)\
-\-\ significant\\:\\ 0\\.00803443059809169\ \(0\)\
-\-\ therapy\\:\\ 0\\.007988254532309835\ \(0\)\
-\-\ bone\\:\\ 0\\.007424596788321224\ \(0\)\
-\-\ physical\\:\\ 0\\.007330438005528806\ \(0\)\
-\-\ most\\:\\ 0\\.006898024971077189\ \(0\)\
-\-\ diagnosis\\:\\ 0\\.006860906750980489\ \(0\)\
-\-\ exam\\:\\ 0\\.006563755034788595\ \(0\)\
-\-\ and\\:\\ 0\\.006294021179448198\ \(0\)\
-\-\ \\,\\:\\ 0\\.005679232143719316\ \(0\)\
-\-\ has\\:\\ 0\\.0056108390576723\ \(0\)\
-\-\ be\\:\\ 0\\.004607540990713039\ \(0\)\
-\-\ a\\:\\ 0\\.004160137781313999\ \(0\)\
-\-\ an\\:\\ 0\\.004131695329666888\ \(0\)\
-\-\ this\\:\\ 0\\.003360619626972493\ \(0\)\
-\-\ year\\:\\ 0\\.0033430254170381635\ \(0\)\
-\-\ with\\:\\ 0\\.003272844086430482\ \(0\)\
-\-\ old\\:\\ 0\\.0030592118771407503\ \(0\)\
-\-\ no\\:\\ 0\\.003008545981481825\ \(0\)\
-\-\ the\\:\\ 0\\.00290033464413201\ \(0\)\
-\-\ of\\:\\ 0\\.0020367797342305673\ \(0\)\
-\-\ \\.\\:\\ 0\\.0017377395292407268\ \(0\)\
-\-\ to\\:\\ 0\\.0014932451344160358\ \(0\)\
+Texto: 
+patient is a mildly obese boy with abnormal head size and microphthalmia. neuro exam reveals depressed gag reflexes with severe developmental delay. 
+
+extremities show no clubbing but abnormal foot structure. all other systems are within normal limits.   
+
+creatine kinase levels are abnormally low at 37 u/l.
+the patient has been given seizure prophylaxis with phenobarbital elixir and topomax tablets and will be followed up every two weeks.
+image 1: coronal t2 weighted image shows marked decreased gyral folds, a thin layer of gray matter, and ventriculomegaly leading to diagnosis of type 2 lissencephaly. 
+
+image 2: sagittal t2 weighted image shows dysgenesis of the corpus callosum, markedly underdeveloped cerebellar hemispheres, and an enlarged fourth ventricle and widened cerebral aqueduct indicative of hydrocephalus. 
+
+image 3: axial t2 weighted fse image shows significant ventriculomegaly indicative of hydrocephalus. 
+
+image 4: ap femur image shows underdeveloped muscle fibers with irregularly bowed and radiolucent bone most prominent at the distal femur.
+walker warburg syndrome
+1)	dandy walker syndrome
+2)	fukuyama muscle dystrophy
+3)	fryns syndrome
+4)	miller dieker syndrome
+5)	viral infection
+6)	meckel syndrome
+7)	trisomy 18
+8)	trisomy 13
+9)	neu-laxova syndrome
+10)	goldenhar syndrome
+the patient is a five year old boy born four weeks premature. the child is currently afflicted with chronic developmental delay disorder, seizure disorder, and respiratory distress.
+this patient is currently stable  with physical therapy and seizure prophylaxis with topomax and phenobarbital elixir. the patient is currently blind with profound global delay but all other organ systems are within normal limits.
+
+
+Keywords by value: 
+- image: 0.0746626340223105
+- syndrome: 0.05981589523476395
+- topomax: 0.056799798904940926
+- elixir: 0.0539643785685202
+- underdeveloped: 0.05195261582410215
+- phenobarbital: 0.05039217140931747
+- delay: 0.04448399418317953
+- ventriculomegaly: 0.043710273192342386
+- walker: 0.042709567992057954
+- trisomy: 0.042709567992057954
+- seizure: 0.03963530582048464
+- weighted: 0.03897537058890524
+- prophylaxis: 0.037411066581585814
+- currently: 0.03551929505257403
+- indicative: 0.03415169784085435
+- shows: 0.03285837342278152
+- systems: 0.031740225908744354
+- dieker: 0.030823490992889856
+- microphthalmia: 0.028399899452470463
+- fukuyama: 0.028399899452470463
+- fryns: 0.028399899452470463
+- afflicted: 0.028399899452470463
+- developmental: 0.02777154781474061
+- warburg: 0.0269821892842601
+- neu-laxova: 0.0269821892842601
+- disorder: 0.026844648122698767
+- femur: 0.025815066045896777
+- hydrocephalus: 0.025691292779467398
+- t2: 0.025369812259619078
+- creatine: 0.025196085704658734
+- tablets: 0.025196085704658734
+- goldenhar: 0.025196085704658734
+- ): 0.024948870353612068
+- limits: 0.02463086433036368
+- lissencephaly: 0.023552716371631685
+- bowed: 0.023552716371631685
+- gag: 0.023140887575630344
+- kinase: 0.023140887575630344
+- dysgenesis: 0.022772494164239345
+- dandy: 0.022439241787301147
+- miller: 0.022439241787301147
+- gyral: 0.02213500620342132
+- muscle: 0.02146374289109332
+- profound: 0.021354783996028977
+- dystrophy: 0.021129124831212296
+- aqueduct: 0.02091715062905693
+- boy: 0.020312739719762038
+- fse: 0.019860224503627094
+- global: 0.019860224503627094
+- irregularly: 0.019431545055751804
+- 2: 0.01930179541794279
+- layer: 0.018931192455609588
+- depressed: 0.018816542725459275
+- meckel: 0.018816542725459275
+- blind: 0.018705533290792907
+- clubbing: 0.01849355908863754
+- radiolucent: 0.01839220406460519
+- u/l: 0.018197903885742214
+- folds: 0.01810465826657382
+- widened: 0.017754716103787167
+- organ: 0.017513482287399226
+- obese: 0.017287823122582546
+- abnormal: 0.017042603079125255
+- weeks: 0.016959984313994043
+- all: 0.01690156286315588
+- fibers: 0.016811836499070025
+- 4: 0.016650153183070247
+- abnormally: 0.016449806153123032
+- premature: 0.016281941750373518
+- hemispheres: 0.0159190158983398
+- every: 0.015870112954372177
+- :: 0.015808039384484825
+- born: 0.015590243347122052
+- neuro: 0.015415381736721136
+- callosum: 0.015331124563367776
+- viral: 0.015051254956117652
+- 37: 0.015013041422788314
+- patient: 0.014975383407629161
+- five: 0.014900844518762089
+- corpus: 0.014721497335588835
+- gray: 0.01461814488019882
+- fourth: 0.014452402786161812
+- leading: 0.014294162955434116
+- 1: 0.01421906551020774
+- reflexes: 0.014142775522730185
+- markedly: 0.014142775522730185
+- 3: 0.013992835851094683
+- other: 0.013773696144772368
+- structure: 0.01357008563229303
+- 13: 0.013495424357920411
+- child: 0.013078128002561787
+- 18: 0.012970534790440271
+- four: 0.012970534790440271
+- cerebellar: 0.012886782199452534
+- but: 0.012744778328905857
+- mildly: 0.012725065354519822
+- distress: 0.012589449882368925
+- coronal: 0.012440640041743766
+- respiratory: 0.012404406520640454
+- foot: 0.012350750682617167
+- 9: 0.012350750682617167
+- levels: 0.012333046829622248
+- stable: 0.01231543216518184
+- thin: 0.012280466838837142
+- prominent: 0.012263114428549977
+- are: 0.012218956704855963
+- sagittal: 0.011917295987784543
+- matter: 0.01176391598042237
+- extremities: 0.011719183982310798
+- reveals: 0.011689677448583997
+- marked: 0.011660417834351422
+- 7: 0.011448443632196057
+- within: 0.011399520338364206
+- ventricle: 0.011197168942581916
+- 8: 0.01117173971415856
+- ap: 0.010927129264484048
+- cerebral: 0.010351211544629618
+- given: 0.010242707666141057
+- enlarged: 0.010194479267076945
+- type: 0.010072112686527659
+- 10: 0.010072112686527659
+- size: 0.010017048501324375
+- followed: 0.010017048501324375
+- is: 0.009830258363369329
+- normal: 0.009367919262930777
+- will: 0.0093478357285984
+- severe: 0.009193390909321694
+- show: 0.009171873896823867
+- 6: 0.008923497067744316
+- decreased: 0.008883763645890068
+- 5: 0.008741819658895675
+- infection: 0.008685372636618206
+- two: 0.008557102229426593
+- axial: 0.008527242923314237
+- head: 0.008474130456552084
+- chronic: 0.008416047667506994
+- low: 0.008308279905127272
+- been: 0.008128653459664304
+- distal: 0.008123351709601493
+- at: 0.008096245823997433
+- up: 0.00803443059809169
+- significant: 0.00803443059809169
+- therapy: 0.007988254532309835
+- bone: 0.007424596788321224
+- physical: 0.007330438005528806
+- most: 0.006898024971077189
+- diagnosis: 0.006860906750980489
+- exam: 0.006563755034788595
+- and: 0.006294021179448198
+- ,: 0.005679232143719316
+- has: 0.0056108390576723
+- be: 0.004607540990713039
+- a: 0.004160137781313999
+- an: 0.004131695329666888
+- this: 0.003360619626972493
+- year: 0.0033430254170381635
+- with: 0.003272844086430482
+- old: 0.0030592118771407503
+- no: 0.003008545981481825
+- the: 0.00290033464413201
+- of: 0.0020367797342305673
+- .: 0.0017377395292407268
+- to: 0.0014932451344160358

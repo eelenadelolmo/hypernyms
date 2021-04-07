@@ -1,75 +1,78 @@
-\-\ Texto\\:\\ \ \(0\)\
-\-\ abdominal\\ pain\\ and\\ tenderness\\,\\ low\\ grade\\ fever\\.\ \(1\)\
-\-\ the\\ patient\\ underwent\\ percutaneus\\ drainage\\ with\\ good\\ evolution\\.\ \(0\)\
-\-\ free\\ abdominal\\ fluid\\.\ \(0\)\
-\-\ mesenteric\\ fat\\ stranding\\.\ \(3\)\
-\-\ peritoneal\\ fluid\\ collection\\ with\\ gas\\.\ \(0\)\
-\-\ thickening\\ and\\ generalized\\ enhancement\\ of\\ bowel\\ loops\\.\ \(1\)\
-\-\ peritoneal\\ abscess\ \(5\)\
-\-\ mesenteric\\ cyst\\.\ \(0\)\
-\-\ intraabdominal\\ desmoid\\.\ \(0\)\
-\-\ inflammatory\\ pseudotumor\\.\ \(0\)\
-\-\ abscess\\.\ \(76\)\
-\-\ young\\ woman\\ with\\ diabetes\\ mellytus\\ type\\ 1\\ and\\ chronic\\ renal\\ failure\\ treated\\ with\\ peritoneal\\ dyalisis\\.\ \(0\)\
-\-\ this\\ patient\\ was\\ in\\ peritoneal\\ dyalisis\\ because\\ of\\ chronic\\ renal\\ failure\\ and\\ developed\\ spontaneus\\ bacterial\\ peritonitis\\ with\\ the\\ subsequent\\ formation\\ of\\ a\\ peritoneal\\ abscess\\.\ \(0\)\
-\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
-\-\ peritoneal\\:\\ 0\\.22454901876259983\ \(0\)\
-\-\ dyalisis\\:\\ 0\\.17809128129225252\ \(0\)\
-\-\ \\-\\:\\ 0\\.09251153831860422\ \(0\)\
-\-\ mellytus\\:\\ 0\\.08904564064612626\ \(0\)\
-\-\ spontaneus\\:\\ 0\\.08904564064612626\ \(0\)\
-\-\ percutaneus\\:\\ 0\\.08204415397380357\ \(0\)\
-\-\ abscess\\:\\ 0\\.08187382557982628\ \(0\)\
-\-\ mesenteric\\:\\ 0\\.07960244648010802\ \(0\)\
-\-\ failure\\:\\ 0\\.06762541985517913\ \(0\)\
-\-\ intraabdominal\\:\\ 0\\.0631370612778279\ \(0\)\
-\-\ desmoid\\:\\ 0\\.060427324039497805\ \(0\)\
-\-\ peritonitis\\:\\ 0\\.05930383277575817\ \(0\)\
-\-\ evolution\\:\\ 0\\.05829288874993006\ \(0\)\
-\-\ renal\\:\\ 0\\.05186819291834484\ \(0\)\
-\-\ pseudotumor\\:\\ 0\\.04994260013190513\ \(0\)\
-\-\ fluid\\:\\ 0\\.0490634162546233\ \(0\)\
-\-\ chronic\\:\\ 0\\.04862605319004041\ \(0\)\
-\-\ generalized\\:\\ 0\\.045168818203159745\ \(0\)\
-\-\ bacterial\\:\\ 0\\.04417037542905235\ \(0\)\
-\-\ abdominal\\:\\ 0\\.04314988359842657\ \(0\)\
-\-\ diabetes\\:\\ 0\\.042732837831271984\ \(0\)\
-\-\ loops\\:\\ 0\\.042328743542244716\ \(0\)\
-\-\ stranding\\:\\ 0\\.041751385826689684\ \(0\)\
-\-\ gas\\:\\ 0\\.0411170332889217\ \(0\)\
-\-\ young\\:\\ 0\\.03759361841575491\ \(0\)\
-\-\ good\\:\\ 0\\.036933970957090605\ \(0\)\
-\-\ collection\\:\\ 0\\.036535569623239124\ \(0\)\
-\-\ drainage\\:\\ 0\\.036098701100069255\ \(0\)\
-\-\ formation\\:\\ 0\\.03562880195224206\ \(0\)\
-\-\ free\\:\\ 0\\.035527283408267295\ \(0\)\
-\-\ subsequent\\:\\ 0\\.03360182523040214\ \(0\)\
-\-\ developed\\:\\ 0\\.03323298469530015\ \(0\)\
-\-\ grade\\:\\ 0\\.03287713932273708\ \(0\)\
-\-\ because\\:\\ 0\\.030197154712990386\ \(0\)\
-\-\ inflammatory\\:\\ 0\\.02993248428476792\ \(0\)\
-\-\ underwent\\:\\ 0\\.029618141772507267\ \(0\)\
-\-\ thickening\\:\\ 0\\.029258834037306586\ \(0\)\
-\-\ fever\\:\\ 0\\.02920467299547441\ \(0\)\
-\-\ type\\:\\ 0\\.02909721442774657\ \(0\)\
-\-\ bowel\\:\\ 0\\.02707023770590666\ \(0\)\
-\-\ tenderness\\:\\ 0\\.026251639625067005\ \(0\)\
-\-\ fat\\:\\ 0\\.026251639625067005\ \(0\)\
-\-\ treated\\:\\ 0\\.025836877132160197\ \(0\)\
-\-\ low\\:\\ 0\\.024001697503701007\ \(0\)\
-\-\ cyst\\:\\ 0\\.023195668040667704\ \(0\)\
-\-\ enhancement\\:\\ 0\\.023136250162858953\ \(0\)\
-\-\ 1\\:\\ 0\\.020538650181411183\ \(0\)\
-\-\ woman\\:\\ 0\\.019938413610999055\ \(0\)\
-\-\ patient\\:\\ 0\\.017304887493260365\ \(0\)\
-\-\ pain\\:\\ 0\\.010541496641724594\ \(0\)\
-\-\ was\\:\\ 0\\.009982601234481686\ \(0\)\
-\-\ this\\:\\ 0\\.009708456700142759\ \(0\)\
-\-\ and\\:\\ 0\\.007273091140695695\ \(0\)\
-\-\ with\\:\\ 0\\.005909301822721704\ \(0\)\
-\-\ \\.\\:\\ 0\\.0043029740724056095\ \(0\)\
-\-\ in\\:\\ 0\\.0042565376781843935\ \(0\)\
-\-\ a\\:\\ 0\\.004006058604228296\ \(0\)\
-\-\ of\\:\\ 0\\.0035304182059996496\ \(0\)\
-\-\ the\\:\\ 0\\.002792914842497491\ \(0\)\
-\-\ \\,\\:\\ 0\\.002734445106235226\ \(0\)\
+Texto: 
+abdominal pain and tenderness, low grade fever.
+the patient underwent percutaneus drainage with good evolution.
+- free abdominal fluid.
+- mesenteric fat stranding.
+- peritoneal fluid collection with gas.
+- thickening and generalized enhancement of bowel loops.
+-
+peritoneal abscess
+mesenteric cyst.
+intraabdominal desmoid.
+inflammatory pseudotumor.
+abscess.
+young woman with diabetes mellytus type 1 and chronic renal failure treated with peritoneal dyalisis.
+this patient was in peritoneal dyalisis because of chronic renal failure and developed spontaneus bacterial peritonitis with the subsequent formation of a peritoneal abscess.
+
+
+Keywords by value: 
+- peritoneal: 0.22454901876259983
+- dyalisis: 0.17809128129225252
+- -: 0.09251153831860422
+- mellytus: 0.08904564064612626
+- spontaneus: 0.08904564064612626
+- percutaneus: 0.08204415397380357
+- abscess: 0.08187382557982628
+- mesenteric: 0.07960244648010802
+- failure: 0.06762541985517913
+- intraabdominal: 0.0631370612778279
+- desmoid: 0.060427324039497805
+- peritonitis: 0.05930383277575817
+- evolution: 0.05829288874993006
+- renal: 0.05186819291834484
+- pseudotumor: 0.04994260013190513
+- fluid: 0.0490634162546233
+- chronic: 0.04862605319004041
+- generalized: 0.045168818203159745
+- bacterial: 0.04417037542905235
+- abdominal: 0.04314988359842657
+- diabetes: 0.042732837831271984
+- loops: 0.042328743542244716
+- stranding: 0.041751385826689684
+- gas: 0.0411170332889217
+- young: 0.03759361841575491
+- good: 0.036933970957090605
+- collection: 0.036535569623239124
+- drainage: 0.036098701100069255
+- formation: 0.03562880195224206
+- free: 0.035527283408267295
+- subsequent: 0.03360182523040214
+- developed: 0.03323298469530015
+- grade: 0.03287713932273708
+- because: 0.030197154712990386
+- inflammatory: 0.02993248428476792
+- underwent: 0.029618141772507267
+- thickening: 0.029258834037306586
+- fever: 0.02920467299547441
+- type: 0.02909721442774657
+- bowel: 0.02707023770590666
+- tenderness: 0.026251639625067005
+- fat: 0.026251639625067005
+- treated: 0.025836877132160197
+- low: 0.024001697503701007
+- cyst: 0.023195668040667704
+- enhancement: 0.023136250162858953
+- 1: 0.020538650181411183
+- woman: 0.019938413610999055
+- patient: 0.017304887493260365
+- pain: 0.010541496641724594
+- was: 0.009982601234481686
+- this: 0.009708456700142759
+- and: 0.007273091140695695
+- with: 0.005909301822721704
+- .: 0.0043029740724056095
+- in: 0.0042565376781843935
+- a: 0.004006058604228296
+- of: 0.0035304182059996496
+- the: 0.002792914842497491
+- ,: 0.002734445106235226

@@ -1,88 +1,90 @@
-\-\ Texto\\:\\ \ \(0\)\
-\-\ tachycardia\\ with\\ diminished\\ breath\\ sounds\\ in\\ the\\ bilateral\\ bases\\.\ \(0\)\
-\-\ supportive\\/diuretic\\ care\\ may\\ be\\ suitable\\ for\\ mild\\ cases\\ to\\ ensure\\ that\\ cardiac\\ filling\\ is\\ not\\ impaired\\.\\ serious\\ cases\\ may\\ require\\ surgical\\ stripping\\ of\\ the\\ pericardium\\ to\\ allow\\ for\\ adequate\\ filling\\.\ \(0\)\
-\-\ a\\ pa\\ and\\ lateral\\ chest\\ radiograph\\ and\\ an\\ axial\\ ct\\ image\\ through\\ the\\ thorax\\ demonstrate\\ calcification\\ of\\ the\\ pericardium\\ and\\ bilateral\\ pleural\\ effusions\\.\ \(0\)\
-\-\ constrictive\\ pericarditis\\,\\ calcified\\ pericardium\ \(0\)\
-\-\ although\\ there\\ are\\ many\\ causes\\ for\\ pleural\\ effusions\\,\\ this\\ finding\\ in\\ conjunction\\ with\\ a\\ calcified\\ pericardium\\ is\\ highly\\ suggestive\\ of\\ constrictive\\ pericarditis\\.\ \(0\)\
-\-\ 58\\ year\\ old\\ male\\ complaining\\ of\\ shortness\\ of\\ breath\\ and\\ racing\\ heartbeat\\.\ \(1\)\
-\-\ this\\ patient\\ had\\ a\\ benign\\ course\\ and\\ did\\ not\\ require\\ surgery\\ to\\ remove\\ the\\ calcified\\ pericardium\\.\ \(0\)\
-\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
-\-\ pericardium\\:\\ 0\\.230839839449723\ \(0\)\
-\-\ constrictive\\:\\ 0\\.10589270154608446\ \(0\)\
-\-\ pericarditis\\:\\ 0\\.09480234665712534\ \(0\)\
-\-\ calcified\\:\\ 0\\.08803257473167309\ \(0\)\
-\-\ supportive\\/diuretic\\:\\ 0\\.07052414739173199\ \(0\)\
-\-\ effusions\\:\\ 0\\.06977873804340784\ \(0\)\
-\-\ racing\\:\\ 0\\.06497896994725243\ \(0\)\
-\-\ require\\:\\ 0\\.0625638983284491\ \(0\)\
-\-\ stripping\\:\\ 0\\.057648644092259185\ \(0\)\
-\-\ suitable\\:\\ 0\\.05619007163790755\ \(0\)\
-\-\ heartbeat\\:\\ 0\\.05619007163790755\ \(0\)\
-\-\ filling\\:\\ 0\\.05504384026051733\ \(0\)\
-\-\ pleural\\:\\ 0\\.05309360317877274\ \(0\)\
-\-\ breath\\:\\ 0\\.05112188093198957\ \(0\)\
-\-\ conjunction\\:\\ 0\\.04655828920330006\ \(0\)\
-\-\ cases\\:\\ 0\\.04554897382369812\ \(0\)\
-\-\ impaired\\:\\ 0\\.04415745246369735\ \(0\)\
-\-\ serious\\:\\ 0\\.043866511310330356\ \(0\)\
-\-\ allow\\:\\ 0\\.04231326319480269\ \(0\)\
-\-\ remove\\:\\ 0\\.04163680409057819\ \(0\)\
-\-\ ensure\\:\\ 0\\.03972296657805152\ \(0\)\
-\-\ bases\\:\\ 0\\.039069542329937375\ \(0\)\
-\-\ tachycardia\\:\\ 0\\.038914197643080566\ \(0\)\
-\-\ thorax\\:\\ 0\\.038761812083315014\ \(0\)\
-\-\ 58\\:\\ 0\\.03776939089395518\ \(0\)\
-\-\ diminished\\:\\ 0\\.03737906958059973\ \(0\)\
-\-\ adequate\\:\\ 0\\.03665129535495391\ \(0\)\
-\-\ complaining\\:\\ 0\\.03336902019860101\ \(0\)\
-\-\ bilateral\\:\\ 0\\.0331810836690311\ \(0\)\
-\-\ highly\\:\\ 0\\.03292030446539265\ \(0\)\
-\-\ may\\:\\ 0\\.02998925390236998\ \(0\)\
-\-\ suggestive\\:\\ 0\\.029205859600343876\ \(0\)\
-\-\ shortness\\:\\ 0\\.02876130079110539\ \(0\)\
-\-\ pa\\:\\ 0\\.028590171271254846\ \(0\)\
-\-\ many\\:\\ 0\\.028097708127259383\ \(0\)\
-\-\ sounds\\:\\ 0\\.027266773220051038\ \(0\)\
-\-\ causes\\:\\ 0\\.026612645582478493\ \(0\)\
-\-\ cardiac\\:\\ 0\\.02603869434360776\ \(0\)\
-\-\ course\\:\\ 0\\.02579625154764513\ \(0\)\
-\-\ calcification\\:\\ 0\\.02481428494765703\ \(0\)\
-\-\ did\\:\\ 0\\.024683349127943392\ \(0\)\
-\-\ care\\:\\ 0\\.02465741717655002\ \(0\)\
-\-\ benign\\:\\ 0\\.023592402936265612\ \(0\)\
-\-\ although\\:\\ 0\\.02308743424461283\ \(0\)\
-\-\ finding\\:\\ 0\\.02203249204030785\ \(0\)\
-\-\ radiograph\\:\\ 0\\.021775589231370903\ \(0\)\
-\-\ image\\:\\ 0\\.021353513330380807\ \(0\)\
-\-\ not\\:\\ 0\\.019757098747870967\ \(0\)\
-\-\ axial\\:\\ 0\\.01951033180854297\ \(0\)\
-\-\ through\\:\\ 0\\.01941565614736695\ \(0\)\
-\-\ mild\\:\\ 0\\.018002027631449095\ \(0\)\
-\-\ for\\:\\ 0\\.017498595567425165\ \(0\)\
-\-\ surgery\\:\\ 0\\.0165999925148822\ \(0\)\
-\-\ chest\\:\\ 0\\.01635783200046015\ \(0\)\
-\-\ demonstrate\\:\\ 0\\.015731617130664326\ \(0\)\
-\-\ this\\:\\ 0\\.01537819541302613\ \(0\)\
-\-\ lateral\\:\\ 0\\.014773344364996404\ \(0\)\
-\-\ had\\:\\ 0\\.014750798553925666\ \(0\)\
-\-\ surgical\\:\\ 0\\.014369774162011628\ \(0\)\
-\-\ male\\:\\ 0\\.012361644303099786\ \(0\)\
-\-\ that\\:\\ 0\\.011807845828470586\ \(0\)\
-\-\ be\\:\\ 0\\.010542053786751434\ \(0\)\
-\-\ to\\:\\ 0\\.01024963460263167\ \(0\)\
-\-\ there\\:\\ 0\\.01017372445171991\ \(0\)\
-\-\ ct\\:\\ 0\\.009562429227136343\ \(0\)\
-\-\ a\\:\\ 0\\.00951839524364643\ \(0\)\
-\-\ an\\:\\ 0\\.00945331891427784\ \(0\)\
-\-\ are\\:\\ 0\\.009318990980236815\ \(0\)\
-\-\ is\\:\\ 0\\.00899665245415561\ \(0\)\
-\-\ year\\:\\ 0\\.007648842154183318\ \(0\)\
-\-\ and\\:\\ 0\\.0072003602292887384\ \(0\)\
-\-\ old\\:\\ 0\\.006999476774898037\ \(0\)\
-\-\ patient\\:\\ 0\\.006852735447331104\ \(0\)\
-\-\ in\\:\\ 0\\.006742355682244079\ \(0\)\
-\-\ the\\:\\ 0\\.005529971388145032\ \(0\)\
-\-\ of\\:\\ 0\\.004660152031919537\ \(0\)\
-\-\ \\,\\:\\ 0\\.004331361048276599\ \(0\)\
-\-\ \\.\\:\\ 0\\.0019879740214513914\ \(0\)\
-\-\ with\\:\\ 0\\.0018720668174382357\ \(0\)\
+Texto: 
+tachycardia with diminished breath sounds in the bilateral bases.
+supportive/diuretic care may be suitable for mild cases to ensure that cardiac filling is not impaired. serious cases may require surgical stripping of the pericardium to allow for adequate filling.
+a pa and lateral chest radiograph and an axial ct image through the thorax demonstrate calcification of the pericardium and bilateral pleural effusions.
+constrictive pericarditis, calcified pericardium
+although there are many causes for pleural effusions, this finding in conjunction with a calcified pericardium is highly suggestive of constrictive pericarditis.
+58 year old male complaining of shortness of breath and racing heartbeat.
+this patient had a benign course and did not require surgery to remove the calcified pericardium.
+
+
+Keywords by value: 
+- pericardium: 0.230839839449723
+- constrictive: 0.10589270154608446
+- pericarditis: 0.09480234665712534
+- calcified: 0.08803257473167309
+- supportive/diuretic: 0.07052414739173199
+- effusions: 0.06977873804340784
+- racing: 0.06497896994725243
+- require: 0.0625638983284491
+- stripping: 0.057648644092259185
+- suitable: 0.05619007163790755
+- heartbeat: 0.05619007163790755
+- filling: 0.05504384026051733
+- pleural: 0.05309360317877274
+- breath: 0.05112188093198957
+- conjunction: 0.04655828920330006
+- cases: 0.04554897382369812
+- impaired: 0.04415745246369735
+- serious: 0.043866511310330356
+- allow: 0.04231326319480269
+- remove: 0.04163680409057819
+- ensure: 0.03972296657805152
+- bases: 0.039069542329937375
+- tachycardia: 0.038914197643080566
+- thorax: 0.038761812083315014
+- 58: 0.03776939089395518
+- diminished: 0.03737906958059973
+- adequate: 0.03665129535495391
+- complaining: 0.03336902019860101
+- bilateral: 0.0331810836690311
+- highly: 0.03292030446539265
+- may: 0.02998925390236998
+- suggestive: 0.029205859600343876
+- shortness: 0.02876130079110539
+- pa: 0.028590171271254846
+- many: 0.028097708127259383
+- sounds: 0.027266773220051038
+- causes: 0.026612645582478493
+- cardiac: 0.02603869434360776
+- course: 0.02579625154764513
+- calcification: 0.02481428494765703
+- did: 0.024683349127943392
+- care: 0.02465741717655002
+- benign: 0.023592402936265612
+- although: 0.02308743424461283
+- finding: 0.02203249204030785
+- radiograph: 0.021775589231370903
+- image: 0.021353513330380807
+- not: 0.019757098747870967
+- axial: 0.01951033180854297
+- through: 0.01941565614736695
+- mild: 0.018002027631449095
+- for: 0.017498595567425165
+- surgery: 0.0165999925148822
+- chest: 0.01635783200046015
+- demonstrate: 0.015731617130664326
+- this: 0.01537819541302613
+- lateral: 0.014773344364996404
+- had: 0.014750798553925666
+- surgical: 0.014369774162011628
+- male: 0.012361644303099786
+- that: 0.011807845828470586
+- be: 0.010542053786751434
+- to: 0.01024963460263167
+- there: 0.01017372445171991
+- ct: 0.009562429227136343
+- a: 0.00951839524364643
+- an: 0.00945331891427784
+- are: 0.009318990980236815
+- is: 0.00899665245415561
+- year: 0.007648842154183318
+- and: 0.0072003602292887384
+- old: 0.006999476774898037
+- patient: 0.006852735447331104
+- in: 0.006742355682244079
+- the: 0.005529971388145032
+- of: 0.004660152031919537
+- ,: 0.004331361048276599
+- .: 0.0019879740214513914
+- with: 0.0018720668174382357

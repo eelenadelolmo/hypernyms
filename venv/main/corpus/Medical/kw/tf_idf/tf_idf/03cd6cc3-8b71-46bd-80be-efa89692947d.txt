@@ -1,160 +1,168 @@
-\-\ Texto\\:\\ \ \(0\)\
-\-\ wbc\\:\\ \\ 7\\.7\\ k\\/ul\ \(0\)\
-\-\ cholesterol\\:\\ 125\\ mg\\/dl\ \(0\)\
-\-\ uric\\ acid\\:\\ 4\\.2\ \(0\)\
-\-\ gram\\ stain\\:\ \(0\)\
-\-\ \\ \\ no\\ white\\ blood\\ cells\\ or\\ organisms\\ noted\\.\\ \ \(0\)\
-\-\ synovial\\ fluid\\ \\-\\ birefringent\\ crystals\\ \\.\\ \\.\\ \\.\\ \\.\\ \\.\\ \\.\\ \\.\\ \\ urates\ \(0\)\
-\-\ synovial\\ fluid\\ \\-\\ bacteriology\\ result\\:\ \(0\)\
-\-\ \\ \\ no\\ growth\\ after\\ 5\\ days\ \(0\)\
-\-\ patient\\ is\\ currently\\ undergoing\\ workup\\ from\\ orthopedics\\.\ \(0\)\
-\-\ ap\\,\\ lateral\\ and\\ oblique\\ views\\ of\\ the\\ left\\ third\\ digit\\ demonstrate\\ a\\ soft\\ tissue\\ mass\\ on\\ the\\ extensor\\ surface\\ of\\ the\\ pip\\ joint\\.\\ \\ there\\ is\\ mild\\ erosive\\ change\\ of\\ the\\ radial\\ aspect\\ of\\ the\\ proximal\\ phalangeal\\ head\\ with\\ preservation\\ of\\ joint\\ space\\ and\\ normal\\ mineralization\\.\ \(0\)\
-\-\ tophaceous\\ gout\ \(5\)\
-\-\ soft\\ tissue\\ mass\\ without\\ calcification\\ \\(ddx\\)\\:\ \(0\)\
-\-\ amyloidosis\ \(26\)\
-\-\ xanthomatosis\ \(0\)\
-\-\ psoriasis\ \(16\)\
-\-\ tophaceous\\ gout\ \(5\)\
-\-\ 77\\ year\\ old\\ with\\ \\"cyst\\ on\\ finger\\"\\.\ \(1\)\
-\-\ this\\ patient\\ with\\ no\\ known\\ history\\ of\\ gout\\ presented\\ with\\ a\\ cystic\\ lesion\\ by\\ physical\\ exam\\.\\ \\ the\\ nonspecific\\ soft\\ tissue\\ swelling\\ with\\ erosion\\ in\\ the\\ head\\ of\\ the\\ proximal\\ phalanx\\ still\\ included\\ a\\ broad\\ differential\\.\\ \\ tissue\\ diagnosis\\ confirmed\\ the\\ etiology\\.\ \(0\)\
-\-\ xanthomatosis\\ occurs\\ on\\ the\\ extensor\\ surfaces\\ of\\ limbs\\ with\\ associated\\ erosions\\.\\ \\ history\\ of\\ hypercholesterolemia\\ and\\ tissue\\ aspirate\\ differentiates\\ this\\ disease\\.\ \(0\)\
-\-\ psoriasis\\ presents\\ with\\ soft\\ tissue\\ swelling\\ with\\ normal\\ bone\\ density\\ and\\ articular\\ erosion\\.\\ \\ hyperuricemia\\ can\\ occur\\ in\\ psoriasis\\ secondary\\ to\\ rapid\\ cell\\ turnover\\.\ \(0\)\
-\-\ amyloidosis\\ presents\\ with\\ soft\\ tissue\\ swelling\\ and\\ erosions\\.\\ \\ this\\ is\\ typically\\ symmetric\\ and\\ is\\ associated\\ with\\ juxtaarticular\\ osteopenia\\.\ \(0\)\
-\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
-\-\ psoriasis\\:\\ 0\\.0766627810401375\ \(0\)\
-\-\ xanthomatosis\\:\\ 0\\.07377002865243931\ \(0\)\
-\-\ gout\\:\\ 0\\.06012761589830145\ \(0\)\
-\-\ tissue\\:\\ 0\\.05932195949442743\ \(0\)\
-\-\ tophaceous\\:\\ 0\\.0553832121056927\ \(0\)\
-\-\ amyloidosis\\:\\ 0\\.04476805457043323\ \(0\)\
-\-\ soft\\:\\ 0\\.04353403271953033\ \(0\)\
-\-\ extensor\\:\\ 0\\.04311260901955524\ \(0\)\
-\-\ synovial\\:\\ 0\\.04103343446475608\ \(0\)\
-\-\ erosions\\:\\ 0\\.039648376402182245\ \(0\)\
-\-\ erosion\\:\\ 0\\.03611471760365048\ \(0\)\
-\-\ swelling\\:\\ 0\\.03573402758135313\ \(0\)\
-\-\ urates\\:\\ 0\\.033984816918019044\ \(0\)\
-\-\ bacteriology\\:\\ 0\\.033984816918019044\ \(0\)\
-\-\ birefringent\\:\\ 0\\.032288310189533\ \(0\)\
-\-\ hyperuricemia\\:\\ 0\\.032288310189533\ \(0\)\
-\-\ juxtaarticular\\:\\ 0\\.03108461950981844\ \(0\)\
-\-\ \\:\\:\\ 0\\.028375099983029246\ \(0\)\
-\-\ differentiates\\:\\ 0\\.02818442210161783\ \(0\)\
-\-\ turnover\\:\\ 0\\.02818442210161783\ \(0\)\
-\-\ k\\/ul\\:\\ 0\\.02769160605284635\ \(0\)\
-\-\ phalangeal\\:\\ 0\\.02769160605284635\ \(0\)\
-\-\ 7\\.7\\:\\ 0\\.027250767075198544\ \(0\)\
-\-\ uric\\:\\ 0\\.026487915373131787\ \(0\)\
-\-\ hypercholesterolemia\\:\\ 0\\.02615300864646427\ \(0\)\
-\-\ crystals\\:\\ 0\\.025842933449168364\ \(0\)\
-\-\ 125\\:\\ 0\\.025554260346712498\ \(0\)\
-\-\ aspirate\\:\\ 0\\.025284224693417224\ \(0\)\
-\-\ 4\\.2\\:\\ 0\\.024565185961506517\ \(0\)\
-\-\ pip\\:\\ 0\\.024146426720682318\ \(0\)\
-\-\ limbs\\:\\ 0\\.024146426720682318\ \(0\)\
-\-\ surfaces\\:\\ 0\\.02325281123826366\ \(0\)\
-\-\ joint\\:\\ 0\\.02312493100453624\ \(0\)\
-\-\ cholesterol\\:\\ 0\\.022654062938511892\ \(0\)\
-\-\ gram\\:\\ 0\\.02213036777970852\ \(0\)\
-\-\ digit\\:\\ 0\\.02213036777970852\ \(0\)\
-\-\ stain\\:\\ 0\\.02200908101454847\ \(0\)\
-\-\ preservation\\:\\ 0\\.02200908101454847\ \(0\)\
-\-\ mineralization\\:\\ 0\\.02177657117708064\ \(0\)\
-\-\ 77\\:\\ 0\\.02177657117708064\ \(0\)\
-\-\ organisms\\:\\ 0\\.021664988553305908\ \(0\)\
-\-\ orthopedics\\:\\ 0\\.021664988553305908\ \(0\)\
-\-\ proximal\\:\\ 0\\.021468980600058703\ \(0\)\
-\-\ erosive\\:\\ 0\\.021246229312481713\ \(0\)\
-\-\ acid\\:\\ 0\\.02095755621002585\ \(0\)\
-\-\ osteopenia\\:\\ 0\\.020775610134964182\ \(0\)\
-\-\ fluid\\:\\ 0\\.02032333978747994\ \(0\)\
-\-\ head\\:\\ 0\\.020281182515262727\ \(0\)\
-\-\ mg\\/dl\\:\\ 0\\.02011792986918003\ \(0\)\
-\-\ phalanx\\:\\ 0\\.019895713026862254\ \(0\)\
-\-\ articular\\:\\ 0\\.019169087528741583\ \(0\)\
-\-\ finger\\:\\ 0\\.01893330118333936\ \(0\)\
-\-\ ddx\\:\\ 0\\.01887637376888003\ \(0\)\
-\-\ broad\\:\\ 0\\.01855017485059672\ \(0\)\
-\-\ workup\\:\\ 0\\.018396141490250626\ \(0\)\
-\-\ nonspecific\\:\\ 0\\.018396141490250626\ \(0\)\
-\-\ rapid\\:\\ 0\\.01805735880182524\ \(0\)\
-\-\ undergoing\\:\\ 0\\.017533663643021866\ \(0\)\
-\-\ still\\:\\ 0\\.01703174182260773\ \(0\)\
-\-\ associated\\:\\ 0\\.0168741636979724\ \(0\)\
-\-\ oblique\\:\\ 0\\.016616449110911743\ \(0\)\
-\-\ included\\:\\ 0\\.016486699166382204\ \(0\)\
-\-\ radial\\:\\ 0\\.016391960769939692\ \(0\)\
-\-\ symmetric\\:\\ 0\\.016329972963307307\ \(0\)\
-\-\ surface\\:\\ 0\\.015782817184298123\ \(0\)\
-\-\ growth\\:\\ 0\\.015546661071725101\ \(0\)\
-\-\ \\-\\:\\ 0\\.01532827162099049\ \(0\)\
-\-\ etiology\\:\\ 0\\.015133980722596956\ \(0\)\
-\-\ views\\:\\ 0\\.014737295394318015\ \(0\)\
-\-\ occurs\\:\\ 0\\.014674689232490766\ \(0\)\
-\-\ presents\\:\\ 0\\.01460790205445963\ \(0\)\
-\-\ cells\\:\\ 0\\.014336597046652707\ \(0\)\
-\-\ third\\:\\ 0\\.014336597046652707\ \(0\)\
-\-\ currently\\:\\ 0\\.014168087008418649\ \(0\)\
-\-\ change\\:\\ 0\\.013936073181907292\ \(0\)\
-\-\ result\\:\\ 0\\.013716251702711136\ \(0\)\
-\-\ confirmed\\:\\ 0\\.01344518662379413\ \(0\)\
-\-\ occur\\:\\ 0\\.013414421040926938\ \(0\)\
-\-\ ap\\:\\ 0\\.013075978952478818\ \(0\)\
-\-\ wbc\\:\\ 0\\.013033785985672851\ \(0\)\
-\-\ calcification\\:\\ 0\\.012978182504004723\ \(0\)\
-\-\ typically\\:\\ 0\\.01262102832429277\ \(0\)\
-\-\ this\\:\\ 0\\.012064483849131377\ \(0\)\
-\-\ white\\:\\ 0\\.011858176622226015\ \(0\)\
-\-\ space\\:\\ 0\\.011826598355969182\ \(0\)\
-\-\ density\\:\\ 0\\.011764147936652548\ \(0\)\
-\-\ differential\\:\\ 0\\.011351296357125227\ \(0\)\
-\-\ known\\:\\ 0\\.011314021273907194\ \(0\)\
-\-\ aspect\\:\\ 0\\.011231347006206515\ \(0\)\
-\-\ normal\\:\\ 0\\.011210146063590803\ \(0\)\
-\-\ days\\:\\ 0\\.010958469858460156\ \(0\)\
-\-\ no\\:\\ 0\\.010800554192934752\ \(0\)\
-\-\ 5\\:\\ 0\\.01046092226964085\ \(0\)\
-\-\ cystic\\:\\ 0\\.010312270741639156\ \(0\)\
-\-\ secondary\\:\\ 0\\.009995941282463628\ \(0\)\
-\-\ mass\\:\\ 0\\.009945280392866648\ \(0\)\
-\-\ history\\:\\ 0\\.009876272282067642\ \(0\)\
-\-\ blood\\:\\ 0\\.009759042144390374\ \(0\)\
-\-\ presented\\:\\ 0\\.009746266255323887\ \(0\)\
-\-\ cell\\:\\ 0\\.00965791092711919\ \(0\)\
-\-\ cyst\\:\\ 0\\.009608247431071557\ \(0\)\
-\-\ mild\\:\\ 0\\.00941528641812191\ \(0\)\
-\-\ is\\:\\ 0\\.009410724324430554\ \(0\)\
-\-\ on\\:\\ 0\\.00908649806316437\ \(0\)\
-\-\ bone\\:\\ 0\\.008884663939162634\ \(0\)\
-\-\ \\`\\`\\:\\ 0\\.008787175889672875\ \(0\)\
-\-\ physical\\:\\ 0\\.008771988575653715\ \(0\)\
-\-\ \\'\\'\\:\\ 0\\.008618198753063777\ \(0\)\
-\-\ noted\\:\\ 0\\.00847456564206106\ \(0\)\
-\-\ without\\:\\ 0\\.00841846513120569\ \(0\)\
-\-\ demonstrate\\:\\ 0\\.008227833227334898\ \(0\)\
-\-\ diagnosis\\:\\ 0\\.008210122722930627\ \(0\)\
-\-\ can\\:\\ 0\\.008109716955937528\ \(0\)\
-\-\ exam\\:\\ 0\\.007854535313596393\ \(0\)\
-\-\ lateral\\:\\ 0\\.007726644542362135\ \(0\)\
-\-\ after\\:\\ 0\\.00739749457158662\ \(0\)\
-\-\ lesion\\:\\ 0\\.007282657849374287\ \(0\)\
-\-\ patient\\:\\ 0\\.007168133313107849\ \(0\)\
-\-\ by\\:\\ 0\\.005953434741610354\ \(0\)\
-\-\ disease\\:\\ 0\\.00584409013060964\ \(0\)\
-\-\ the\\:\\ 0\\.0057844888997332965\ \(0\)\
-\-\ there\\:\\ 0\\.005320985591903718\ \(0\)\
-\-\ from\\:\\ 0\\.005298894197297959\ \(0\)\
-\-\ a\\:\\ 0\\.004978240190191647\ \(0\)\
-\-\ with\\:\\ 0\\.004895572221334298\ \(0\)\
-\-\ and\\:\\ 0\\.004519054537210505\ \(0\)\
-\-\ of\\:\\ 0\\.004387172414987012\ \(0\)\
-\-\ or\\:\\ 0\\.004190471752986223\ \(0\)\
-\-\ left\\:\\ 0\\.004000440457208848\ \(0\)\
-\-\ year\\:\\ 0\\.004000440457208848\ \(0\)\
-\-\ old\\:\\ 0\\.0036608142128127805\ \(0\)\
-\-\ in\\:\\ 0\\.0035263366538933463\ \(0\)\
-\-\ \\.\\:\\ 0\\.003119206100603647\ \(0\)\
-\-\ \\(\\:\\ 0\\.0030224340010203367\ \(0\)\
-\-\ \\)\\:\\ 0\\.0029855133561226153\ \(0\)\
-\-\ to\\:\\ 0\\.0017868958512258838\ \(0\)\
-\-\ \\,\\:\\ 0\\.0011326780983986918\ \(0\)\
+Texto: 
+wbc:  7.7 k/ul
+cholesterol: 125 mg/dl
+uric acid: 4.2
+
+gram stain:
+  no white blood cells or organisms noted. 
+
+synovial fluid - birefringent crystals . . . . . . .  urates
+
+synovial fluid - bacteriology result:
+  no growth after 5 days
+patient is currently undergoing workup from orthopedics.
+ap, lateral and oblique views of the left third digit demonstrate a soft tissue mass on the extensor surface of the pip joint.  there is mild erosive change of the radial aspect of the proximal phalangeal head with preservation of joint space and normal mineralization.
+tophaceous gout
+soft tissue mass without calcification (ddx):
+amyloidosis
+xanthomatosis
+psoriasis
+tophaceous gout
+77 year old with "cyst on finger".
+this patient with no known history of gout presented with a cystic lesion by physical exam.  the nonspecific soft tissue swelling with erosion in the head of the proximal phalanx still included a broad differential.  tissue diagnosis confirmed the etiology.
+
+xanthomatosis occurs on the extensor surfaces of limbs with associated erosions.  history of hypercholesterolemia and tissue aspirate differentiates this disease.
+
+psoriasis presents with soft tissue swelling with normal bone density and articular erosion.  hyperuricemia can occur in psoriasis secondary to rapid cell turnover.
+
+amyloidosis presents with soft tissue swelling and erosions.  this is typically symmetric and is associated with juxtaarticular osteopenia.
+
+
+Keywords by value: 
+- psoriasis: 0.0766627810401375
+- xanthomatosis: 0.07377002865243931
+- gout: 0.06012761589830145
+- tissue: 0.05932195949442743
+- tophaceous: 0.0553832121056927
+- amyloidosis: 0.04476805457043323
+- soft: 0.04353403271953033
+- extensor: 0.04311260901955524
+- synovial: 0.04103343446475608
+- erosions: 0.039648376402182245
+- erosion: 0.03611471760365048
+- swelling: 0.03573402758135313
+- urates: 0.033984816918019044
+- bacteriology: 0.033984816918019044
+- birefringent: 0.032288310189533
+- hyperuricemia: 0.032288310189533
+- juxtaarticular: 0.03108461950981844
+- :: 0.028375099983029246
+- differentiates: 0.02818442210161783
+- turnover: 0.02818442210161783
+- k/ul: 0.02769160605284635
+- phalangeal: 0.02769160605284635
+- 7.7: 0.027250767075198544
+- uric: 0.026487915373131787
+- hypercholesterolemia: 0.02615300864646427
+- crystals: 0.025842933449168364
+- 125: 0.025554260346712498
+- aspirate: 0.025284224693417224
+- 4.2: 0.024565185961506517
+- pip: 0.024146426720682318
+- limbs: 0.024146426720682318
+- surfaces: 0.02325281123826366
+- joint: 0.02312493100453624
+- cholesterol: 0.022654062938511892
+- gram: 0.02213036777970852
+- digit: 0.02213036777970852
+- stain: 0.02200908101454847
+- preservation: 0.02200908101454847
+- mineralization: 0.02177657117708064
+- 77: 0.02177657117708064
+- organisms: 0.021664988553305908
+- orthopedics: 0.021664988553305908
+- proximal: 0.021468980600058703
+- erosive: 0.021246229312481713
+- acid: 0.02095755621002585
+- osteopenia: 0.020775610134964182
+- fluid: 0.02032333978747994
+- head: 0.020281182515262727
+- mg/dl: 0.02011792986918003
+- phalanx: 0.019895713026862254
+- articular: 0.019169087528741583
+- finger: 0.01893330118333936
+- ddx: 0.01887637376888003
+- broad: 0.01855017485059672
+- workup: 0.018396141490250626
+- nonspecific: 0.018396141490250626
+- rapid: 0.01805735880182524
+- undergoing: 0.017533663643021866
+- still: 0.01703174182260773
+- associated: 0.0168741636979724
+- oblique: 0.016616449110911743
+- included: 0.016486699166382204
+- radial: 0.016391960769939692
+- symmetric: 0.016329972963307307
+- surface: 0.015782817184298123
+- growth: 0.015546661071725101
+- -: 0.01532827162099049
+- etiology: 0.015133980722596956
+- views: 0.014737295394318015
+- occurs: 0.014674689232490766
+- presents: 0.01460790205445963
+- cells: 0.014336597046652707
+- third: 0.014336597046652707
+- currently: 0.014168087008418649
+- change: 0.013936073181907292
+- result: 0.013716251702711136
+- confirmed: 0.01344518662379413
+- occur: 0.013414421040926938
+- ap: 0.013075978952478818
+- wbc: 0.013033785985672851
+- calcification: 0.012978182504004723
+- typically: 0.01262102832429277
+- this: 0.012064483849131377
+- white: 0.011858176622226015
+- space: 0.011826598355969182
+- density: 0.011764147936652548
+- differential: 0.011351296357125227
+- known: 0.011314021273907194
+- aspect: 0.011231347006206515
+- normal: 0.011210146063590803
+- days: 0.010958469858460156
+- no: 0.010800554192934752
+- 5: 0.01046092226964085
+- cystic: 0.010312270741639156
+- secondary: 0.009995941282463628
+- mass: 0.009945280392866648
+- history: 0.009876272282067642
+- blood: 0.009759042144390374
+- presented: 0.009746266255323887
+- cell: 0.00965791092711919
+- cyst: 0.009608247431071557
+- mild: 0.00941528641812191
+- is: 0.009410724324430554
+- on: 0.00908649806316437
+- bone: 0.008884663939162634
+- ``: 0.008787175889672875
+- physical: 0.008771988575653715
+- '': 0.008618198753063777
+- noted: 0.00847456564206106
+- without: 0.00841846513120569
+- demonstrate: 0.008227833227334898
+- diagnosis: 0.008210122722930627
+- can: 0.008109716955937528
+- exam: 0.007854535313596393
+- lateral: 0.007726644542362135
+- after: 0.00739749457158662
+- lesion: 0.007282657849374287
+- patient: 0.007168133313107849
+- by: 0.005953434741610354
+- disease: 0.00584409013060964
+- the: 0.0057844888997332965
+- there: 0.005320985591903718
+- from: 0.005298894197297959
+- a: 0.004978240190191647
+- with: 0.004895572221334298
+- and: 0.004519054537210505
+- of: 0.004387172414987012
+- or: 0.004190471752986223
+- left: 0.004000440457208848
+- year: 0.004000440457208848
+- old: 0.0036608142128127805
+- in: 0.0035263366538933463
+- .: 0.003119206100603647
+- (: 0.0030224340010203367
+- ): 0.0029855133561226153
+- to: 0.0017868958512258838
+- ,: 0.0011326780983986918

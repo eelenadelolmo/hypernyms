@@ -1,161 +1,164 @@
-\-\ Texto\\:\\ \ \(0\)\
-\-\ soft\\,\\ non\\-distended\\ abdomen\\ with\\ tenderness\\ in\\ the\\ left\\ upper\\ quadrant\\ on\\ abdominal\\ exam\\.\\ \\ no\\ peritoneal\\ signs\\ or\\ rebound\\ tenderness\\ noted\\.\ \(0\)\
-\-\ management\\ with\\ repeat\\ imaging\\ along\\ with\\ careful\\ observation\\ of\\ the\\ patient\\ for\\ onset\\ of\\ new\\ symptoms\\ related\\ to\\ complications\\ was\\ undertaken\\ in\\ this\\ patient\\.\ \(0\)\
-\-\ abdominal\\ mri\\ demonstrates\\ a\\ large\\ cystic\\ mass\\ that\\ appears\\ to\\ be\\ originating\\ from\\ the\\ body\\ of\\ the\\ pancreas\\.\\ \\ in\\ another\\ t1wi\\ a\\ communication\\ with\\ the\\ pancreatic\\ duct\\ can\\ be\\ appreciated\\.\ \(0\)\
-\-\ pancreatic\\ pseudocyst\ \(8\)\
-\-\ pancreatic\\ pseudocyst\ \(8\)\
-\-\ serous\\ \\(microcystic\\)\\ cystadenoma\ \(0\)\
-\-\ mucinous\\ tumor\\ of\\ the\\ pancreas\ \(1\)\
-\-\ intraductal\\ papillary\\ mucinous\\ tumor\\ \\(ipmt\\)\\ of\\ the\\ pancreas\ \(0\)\
-\-\ cystic\\ islet\\ cell\\ tumor\ \(0\)\
-\-\ congenital\\ cyst\\ of\\ the\\ pancreas\ \(0\)\
-\-\ 63\\ y\\.o\\.\\ man\\ presents\\ with\\ left\\ upper\\ quadrant\\ abdominal\\ pain\\ that\\ radiates\\ to\\ the\\ left\\ flank\\,\\ and\\ history\\ of\\ an\\ episode\\ of\\ acute\\ pancreatitis\\ several\\ weeks\\ earlier\\.\ \(1\)\
-\-\ pancreatic\\ pseudocyst\\ is\\ often\\ indistinguishable\\ from\\ other\\ cystic\\ masses\\ of\\ the\\ pancreas\\ by\\ imaging\\ findings\\ alone\\.\\ \\ in\\ this\\ patient\\,\\ the\\ history\\ of\\ an\\ episode\\ of\\ acute\\ pancreatitis\\,\\ and\\ a\\ clear\\ temporal\\ relationship\\ between\\ it\\ and\\ the\\ pseudocyst\\,\\ narrows\\ down\\ the\\ diagnosis\\.\\ \\ the\\ communication\\ with\\ the\\ pancreatic\\ duct\\ is\\ also\\ helpful\\ in\\ narrowing\\ down\\ the\\ diagnosis\\,\\ since\\ roughly\\ 70\\%\\ of\\ pseudocysts\\ will\\ maintain\\ this\\ communication\\.\\ \\ \ \(0\)\
-\-\ it\\ is\\ important\\ to\\ look\\ for\\ signs\\ of\\ complications\\,\\ such\\ as\\ obstruction\\ of\\ adjacent\\ organs\\,\\ erosion\\ into\\ nearby\\ vessels\\,\\ and\\ rupture\\ leading\\ to\\ peritonitis\\.\\ \\ the\\ adjacent\\ stomach\\ does\\ not\\ appear\\ to\\ be\\ compressed\\ significantly\\,\\ and\\ there\\ is\\ no\\ sign\\ of\\ pseudoaneurysm\\ in\\ the\\ adjacent\\ vessels\\.\\ \\ no\\ adjacent\\ peripancreatic\\ inflammatory\\ changes\\ suggest\\ that\\ the\\ pseudocyst\\ has\\ not\\ ruptured\\,\\ and\\ peritonitis\\ is\\ not\\ present\\.\ \(0\)\
-\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
-\-\ pseudocyst\\:\\ 0\\.0968365185607398\ \(0\)\
-\-\ pancreas\\:\\ 0\\.07671696785045932\ \(0\)\
-\-\ pancreatic\\:\\ 0\\.07334718308310284\ \(0\)\
-\-\ communication\\:\\ 0\\.05272479930732819\ \(0\)\
-\-\ peritonitis\\:\\ 0\\.041200557507368826\ \(0\)\
-\-\ adjacent\\:\\ 0\\.03792050868960375\ \(0\)\
-\-\ mucinous\\:\\ 0\\.035976413823526746\ \(0\)\
-\-\ pancreatitis\\:\\ 0\\.032900940624009875\ \(0\)\
-\-\ episode\\:\\ 0\\.02968807680909422\ \(0\)\
-\-\ duct\\:\\ 0\\.027492481572039207\ \(0\)\
-\-\ ipmt\\:\\ 0\\.027076863632625923\ \(0\)\
-\-\ cystic\\:\\ 0\\.025943502181597456\ \(0\)\
-\-\ down\\:\\ 0\\.02574051892738979\ \(0\)\
-\-\ pseudocysts\\:\\ 0\\.02464476826224015\ \(0\)\
-\-\ vessels\\:\\ 0\\.024142035201981285\ \(0\)\
-\-\ narrows\\:\\ 0\\.024103888683898896\ \(0\)\
-\-\ complications\\:\\ 0\\.02376261610534777\ \(0\)\
-\-\ peripancreatic\\:\\ 0\\.022852397652534922\ \(0\)\
-\-\ microcystic\\:\\ 0\\.022517975969010975\ \(0\)\
-\-\ abdominal\\:\\ 0\\.022483360401285422\ \(0\)\
-\-\ indistinguishable\\:\\ 0\\.021931821285982322\ \(0\)\
-\-\ nearby\\:\\ 0\\.021931821285982322\ \(0\)\
-\-\ undertaken\\:\\ 0\\.02167179331351312\ \(0\)\
-\-\ islet\\:\\ 0\\.02167179331351312\ \(0\)\
-\-\ quadrant\\:\\ 0\\.021104392519200384\ \(0\)\
-\-\ signs\\:\\ 0\\.021104392519200384\ \(0\)\
-\-\ tumor\\:\\ 0\\.02097086633274538\ \(0\)\
-\-\ roughly\\:\\ 0\\.020789988302001173\ \(0\)\
-\-\ serous\\:\\ 0\\.019929909501885435\ \(0\)\
-\-\ intraductal\\:\\ 0\\.019929909501885435\ \(0\)\
-\-\ non\\-distended\\:\\ 0\\.01877116674093604\ \(0\)\
-\-\ careful\\:\\ 0\\.01877116674093604\ \(0\)\
-\-\ radiates\\:\\ 0\\.018663196008771994\ \(0\)\
-\-\ t1wi\\:\\ 0\\.018456738113954683\ \(0\)\
-\-\ maintain\\:\\ 0\\.018357892931615397\ \(0\)\
-\-\ compressed\\:\\ 0\\.018261756180078154\ \(0\)\
-\-\ tenderness\\:\\ 0\\.018237981213204444\ \(0\)\
-\-\ pseudoaneurysm\\:\\ 0\\.01816818338329864\ \(0\)\
-\-\ originating\\:\\ 0\\.017901566165832248\ \(0\)\
-\-\ relationship\\:\\ 0\\.01781701335327414\ \(0\)\
-\-\ cystadenoma\\:\\ 0\\.0174223537623033\ \(0\)\
-\-\ organs\\:\\ 0\\.01720524708259071\ \(0\)\
-\-\ look\\:\\ 0\\.016684475134807294\ \(0\)\
-\-\ 63\\:\\ 0\\.016624494666879926\ \(0\)\
-\-\ alone\\:\\ 0\\.016231100638386217\ \(0\)\
-\-\ rebound\\:\\ 0\\.015690221060044963\ \(0\)\
-\-\ peritoneal\\:\\ 0\\.01560024761929641\ \(0\)\
-\-\ ruptured\\:\\ 0\\.01560024761929641\ \(0\)\
-\-\ that\\:\\ 0\\.015536639247987614\ \(0\)\
-\-\ helpful\\:\\ 0\\.01551252375190898\ \(0\)\
-\-\ observation\\:\\ 0\\.015384917982888366\ \(0\)\
-\-\ significantly\\:\\ 0\\.015343393570091866\ \(0\)\
-\-\ papillary\\:\\ 0\\.015221689857853654\ \(0\)\
-\-\ erosion\\:\\ 0\\.01514283773205696\ \(0\)\
-\-\ earlier\\:\\ 0\\.014808416048533012\ \(0\)\
-\-\ acute\\:\\ 0\\.014806170730571897\ \(0\)\
-\-\ appreciated\\:\\ 0\\.014601958153715703\ \(0\)\
-\-\ upper\\:\\ 0\\.01447074038855241\ \(0\)\
-\-\ 70\\:\\ 0\\.014406976219839173\ \(0\)\
-\-\ leading\\:\\ 0\\.014344317913172483\ \(0\)\
-\-\ repeat\\:\\ 0\\.014104308345157043\ \(0\)\
-\-\ flank\\:\\ 0\\.014104308345157043\ \(0\)\
-\-\ imaging\\:\\ 0\\.01404964087337265\ \(0\)\
-\-\ be\\:\\ 0\\.013871123403620306\ \(0\)\
-\-\ diagnosis\\:\\ 0\\.013769960216002946\ \(0\)\
-\-\ it\\:\\ 0\\.013479637786196609\ \(0\)\
-\-\ important\\:\\ 0\\.013469419935248856\ \(0\)\
-\-\ stomach\\:\\ 0\\.01325812568965919\ \(0\)\
-\-\ not\\:\\ 0\\.012998091281494057\ \(0\)\
-\-\ another\\:\\ 0\\.012890718833206449\ \(0\)\
-\-\ suggest\\:\\ 0\\.012769714706640945\ \(0\)\
-\-\ rupture\\:\\ 0\\.012730289888160502\ \(0\)\
-\-\ related\\:\\ 0\\.01237632067814724\ \(0\)\
-\-\ appear\\:\\ 0\\.012271573439025551\ \(0\)\
-\-\ narrowing\\:\\ 0\\.012022619979473676\ \(0\)\
-\-\ temporal\\:\\ 0\\.012006634658295217\ \(0\)\
-\-\ management\\:\\ 0\\.011314145415633829\ \(0\)\
-\-\ appears\\:\\ 0\\.011160452002797364\ \(0\)\
-\-\ clear\\:\\ 0\\.011086058291742616\ \(0\)\
-\-\ since\\:\\ 0\\.011013209198941111\ \(0\)\
-\-\ congenital\\:\\ 0\\.010965470068920834\ \(0\)\
-\-\ obstruction\\:\\ 0\\.01057333350382258\ \(0\)\
-\-\ \\,\\:\\ 0\\.010448458669088286\ \(0\)\
-\-\ new\\:\\ 0\\.010448378865966872\ \(0\)\
-\-\ inflammatory\\:\\ 0\\.01039759980418254\ \(0\)\
-\-\ sign\\:\\ 0\\.010387531585137092\ \(0\)\
-\-\ does\\:\\ 0\\.010230249369768444\ \(0\)\
-\-\ masses\\:\\ 0\\.010135411922793288\ \(0\)\
-\-\ this\\:\\ 0\\.010117233824359294\ \(0\)\
-\-\ left\\:\\ 0\\.01006426599234647\ \(0\)\
-\-\ along\\:\\ 0\\.00990896097143339\ \(0\)\
-\-\ is\\:\\ 0\\.009864750497977642\ \(0\)\
-\-\ body\\:\\ 0\\.009737767412944156\ \(0\)\
-\-\ several\\:\\ 0\\.00963892223060487\ \(0\)\
-\-\ often\\:\\ 0\\.00956657385445492\ \(0\)\
-\-\ between\\:\\ 0\\.009503493109558751\ \(0\)\
-\-\ onset\\:\\ 0\\.009464635880439123\ \(0\)\
-\-\ will\\:\\ 0\\.009380635152207516\ \(0\)\
-\-\ such\\:\\ 0\\.009373097508213517\ \(0\)\
-\-\ the\\:\\ 0\\.00921661898024172\ \(0\)\
-\-\ no\\:\\ 0\\.009057306849513705\ \(0\)\
-\-\ patient\\:\\ 0\\.009016757167540926\ \(0\)\
-\-\ to\\:\\ 0\\.008990907546168131\ \(0\)\
-\-\ from\\:\\ 0\\.0088872681624857\ \(0\)\
-\-\ abdomen\\:\\ 0\\.008882050045248058\ \(0\)\
-\-\ in\\:\\ 0\\.008871520634531683\ \(0\)\
-\-\ y\\.o\\:\\ 0\\.008653962921356843\ \(0\)\
-\-\ changes\\:\\ 0\\.00859315079380723\ \(0\)\
-\-\ weeks\\:\\ 0\\.008509746515442626\ \(0\)\
-\-\ an\\:\\ 0\\.00829238501252442\ \(0\)\
-\-\ history\\:\\ 0\\.008282207282154971\ \(0\)\
-\-\ cell\\:\\ 0\\.00809909021607539\ \(0\)\
-\-\ cyst\\:\\ 0\\.008057442582547729\ \(0\)\
-\-\ symptoms\\:\\ 0\\.00747248237508119\ \(0\)\
-\-\ soft\\:\\ 0\\.007301497417521228\ \(0\)\
-\-\ into\\:\\ 0\\.007134478484069147\ \(0\)\
-\-\ noted\\:\\ 0\\.007106741012114364\ \(0\)\
-\-\ man\\:\\ 0\\.007090988923122804\ \(0\)\
-\-\ \\%\\:\\ 0\\.00699410888893336\ \(0\)\
-\-\ other\\:\\ 0\\.006911012451587539\ \(0\)\
-\-\ mri\\:\\ 0\\.006888687210226736\ \(0\)\
-\-\ can\\:\\ 0\\.006800780184101999\ \(0\)\
-\-\ present\\:\\ 0\\.006771960540111161\ \(0\)\
-\-\ exam\\:\\ 0\\.006586785754208906\ \(0\)\
-\-\ large\\:\\ 0\\.006556289234495017\ \(0\)\
-\-\ demonstrates\\:\\ 0\\.006549548075976091\ \(0\)\
-\-\ findings\\:\\ 0\\.006381883985227928\ \(0\)\
-\-\ of\\:\\ 0\\.006131778989367812\ \(0\)\
-\-\ presents\\:\\ 0\\.006125067703536582\ \(0\)\
-\-\ also\\:\\ 0\\.005910945942702286\ \(0\)\
-\-\ has\\:\\ 0\\.005630526212260624\ \(0\)\
-\-\ for\\:\\ 0\\.005116548411527825\ \(0\)\
-\-\ \\(\\:\\ 0\\.005069205096448144\ \(0\)\
-\-\ \\)\\:\\ 0\\.005007282049917931\ \(0\)\
-\-\ by\\:\\ 0\\.004992529485069736\ \(0\)\
-\-\ as\\:\\ 0\\.004535359669803957\ \(0\)\
-\-\ there\\:\\ 0\\.004462159847245574\ \(0\)\
-\-\ a\\:\\ 0\\.004174734755985276\ \(0\)\
-\-\ mass\\:\\ 0\\.004170038620868647\ \(0\)\
-\-\ and\\:\\ 0\\.00378966327857302\ \(0\)\
-\-\ pain\\:\\ 0\\.0036617830439674903\ \(0\)\
-\-\ or\\:\\ 0\\.003514114908644588\ \(0\)\
-\-\ was\\:\\ 0\\.0034676404288199536\ \(0\)\
-\-\ on\\:\\ 0\\.0025399684644400984\ \(0\)\
-\-\ with\\:\\ 0\\.0024632458124187314\ \(0\)\
-\-\ \\.\\:\\ 0\\.001619277085142111\ \(0\)\
+Texto: 
+soft, non-distended abdomen with tenderness in the left upper quadrant on abdominal exam.  no peritoneal signs or rebound tenderness noted.
+management with repeat imaging along with careful observation of the patient for onset of new symptoms related to complications was undertaken in this patient.
+abdominal mri demonstrates a large cystic mass that appears to be originating from the body of the pancreas.  in another t1wi a communication with the pancreatic duct can be appreciated.
+pancreatic pseudocyst
+pancreatic pseudocyst
+serous (microcystic) cystadenoma
+mucinous tumor of the pancreas
+intraductal papillary mucinous tumor (ipmt) of the pancreas
+cystic islet cell tumor
+congenital cyst of the pancreas
+63 y.o. man presents with left upper quadrant abdominal pain that radiates to the left flank, and history of an episode of acute pancreatitis several weeks earlier.
+pancreatic pseudocyst is often indistinguishable from other cystic masses of the pancreas by imaging findings alone.  in this patient, the history of an episode of acute pancreatitis, and a clear temporal relationship between it and the pseudocyst, narrows down the diagnosis.  the communication with the pancreatic duct is also helpful in narrowing down the diagnosis, since roughly 70% of pseudocysts will maintain this communication.  
+
+it is important to look for signs of complications, such as obstruction of adjacent organs, erosion into nearby vessels, and rupture leading to peritonitis.  the adjacent stomach does not appear to be compressed significantly, and there is no sign of pseudoaneurysm in the adjacent vessels.  no adjacent peripancreatic inflammatory changes suggest that the pseudocyst has not ruptured, and peritonitis is not present.
+
+
+Keywords by value: 
+- pseudocyst: 0.0968365185607398
+- pancreas: 0.07671696785045932
+- pancreatic: 0.07334718308310284
+- communication: 0.05272479930732819
+- peritonitis: 0.041200557507368826
+- adjacent: 0.03792050868960375
+- mucinous: 0.035976413823526746
+- pancreatitis: 0.032900940624009875
+- episode: 0.02968807680909422
+- duct: 0.027492481572039207
+- ipmt: 0.027076863632625923
+- cystic: 0.025943502181597456
+- down: 0.02574051892738979
+- pseudocysts: 0.02464476826224015
+- vessels: 0.024142035201981285
+- narrows: 0.024103888683898896
+- complications: 0.02376261610534777
+- peripancreatic: 0.022852397652534922
+- microcystic: 0.022517975969010975
+- abdominal: 0.022483360401285422
+- indistinguishable: 0.021931821285982322
+- nearby: 0.021931821285982322
+- undertaken: 0.02167179331351312
+- islet: 0.02167179331351312
+- quadrant: 0.021104392519200384
+- signs: 0.021104392519200384
+- tumor: 0.02097086633274538
+- roughly: 0.020789988302001173
+- serous: 0.019929909501885435
+- intraductal: 0.019929909501885435
+- non-distended: 0.01877116674093604
+- careful: 0.01877116674093604
+- radiates: 0.018663196008771994
+- t1wi: 0.018456738113954683
+- maintain: 0.018357892931615397
+- compressed: 0.018261756180078154
+- tenderness: 0.018237981213204444
+- pseudoaneurysm: 0.01816818338329864
+- originating: 0.017901566165832248
+- relationship: 0.01781701335327414
+- cystadenoma: 0.0174223537623033
+- organs: 0.01720524708259071
+- look: 0.016684475134807294
+- 63: 0.016624494666879926
+- alone: 0.016231100638386217
+- rebound: 0.015690221060044963
+- peritoneal: 0.01560024761929641
+- ruptured: 0.01560024761929641
+- that: 0.015536639247987614
+- helpful: 0.01551252375190898
+- observation: 0.015384917982888366
+- significantly: 0.015343393570091866
+- papillary: 0.015221689857853654
+- erosion: 0.01514283773205696
+- earlier: 0.014808416048533012
+- acute: 0.014806170730571897
+- appreciated: 0.014601958153715703
+- upper: 0.01447074038855241
+- 70: 0.014406976219839173
+- leading: 0.014344317913172483
+- repeat: 0.014104308345157043
+- flank: 0.014104308345157043
+- imaging: 0.01404964087337265
+- be: 0.013871123403620306
+- diagnosis: 0.013769960216002946
+- it: 0.013479637786196609
+- important: 0.013469419935248856
+- stomach: 0.01325812568965919
+- not: 0.012998091281494057
+- another: 0.012890718833206449
+- suggest: 0.012769714706640945
+- rupture: 0.012730289888160502
+- related: 0.01237632067814724
+- appear: 0.012271573439025551
+- narrowing: 0.012022619979473676
+- temporal: 0.012006634658295217
+- management: 0.011314145415633829
+- appears: 0.011160452002797364
+- clear: 0.011086058291742616
+- since: 0.011013209198941111
+- congenital: 0.010965470068920834
+- obstruction: 0.01057333350382258
+- ,: 0.010448458669088286
+- new: 0.010448378865966872
+- inflammatory: 0.01039759980418254
+- sign: 0.010387531585137092
+- does: 0.010230249369768444
+- masses: 0.010135411922793288
+- this: 0.010117233824359294
+- left: 0.01006426599234647
+- along: 0.00990896097143339
+- is: 0.009864750497977642
+- body: 0.009737767412944156
+- several: 0.00963892223060487
+- often: 0.00956657385445492
+- between: 0.009503493109558751
+- onset: 0.009464635880439123
+- will: 0.009380635152207516
+- such: 0.009373097508213517
+- the: 0.00921661898024172
+- no: 0.009057306849513705
+- patient: 0.009016757167540926
+- to: 0.008990907546168131
+- from: 0.0088872681624857
+- abdomen: 0.008882050045248058
+- in: 0.008871520634531683
+- y.o: 0.008653962921356843
+- changes: 0.00859315079380723
+- weeks: 0.008509746515442626
+- an: 0.00829238501252442
+- history: 0.008282207282154971
+- cell: 0.00809909021607539
+- cyst: 0.008057442582547729
+- symptoms: 0.00747248237508119
+- soft: 0.007301497417521228
+- into: 0.007134478484069147
+- noted: 0.007106741012114364
+- man: 0.007090988923122804
+- %: 0.00699410888893336
+- other: 0.006911012451587539
+- mri: 0.006888687210226736
+- can: 0.006800780184101999
+- present: 0.006771960540111161
+- exam: 0.006586785754208906
+- large: 0.006556289234495017
+- demonstrates: 0.006549548075976091
+- findings: 0.006381883985227928
+- of: 0.006131778989367812
+- presents: 0.006125067703536582
+- also: 0.005910945942702286
+- has: 0.005630526212260624
+- for: 0.005116548411527825
+- (: 0.005069205096448144
+- ): 0.005007282049917931
+- by: 0.004992529485069736
+- as: 0.004535359669803957
+- there: 0.004462159847245574
+- a: 0.004174734755985276
+- mass: 0.004170038620868647
+- and: 0.00378966327857302
+- pain: 0.0036617830439674903
+- or: 0.003514114908644588
+- was: 0.0034676404288199536
+- on: 0.0025399684644400984
+- with: 0.0024632458124187314
+- .: 0.001619277085142111

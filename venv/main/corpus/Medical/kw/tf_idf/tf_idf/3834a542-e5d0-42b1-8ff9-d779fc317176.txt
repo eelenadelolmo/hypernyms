@@ -1,49 +1,51 @@
-\-\ Texto\\:\\ \ \(0\)\
-\-\ neurodevelopmental\\ delay\\,\\ sensory\\-neural\\ hearing\\ loss\\.\ \(0\)\
-\-\ \\.\ \(82185\)\
-\-\ unenhanced\\ head\\ ct\\ shows\\ ventricular\\ dilation\\ with\\ white\\ matter\\ volume\\ loss\\ and\\ periventricular\\ \\(subependymal\\)\\ calcification\\.\ \(0\)\
-\-\ congenital\\ cmv\ \(0\)\
-\-\ torch\\ infection\ \(0\)\
-\-\ congenital\\ lymphocytic\\ choriomeningitis\ \(0\)\
-\-\ pseudo\\-torch\\ syndromes\ \(0\)\
-\-\ tuberous\\ sclerosis\\ complex\ \(1\)\
-\-\ 14\\ year\\ old\\ male\\ with\\ neurodevelopmental\\ delay\\.\ \(1\)\
-\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
-\-\ neurodevelopmental\\:\\ 0\\.323009741862896\ \(0\)\
-\-\ sensory\\-neural\\:\\ 0\\.19164170486883692\ \(0\)\
-\-\ choriomeningitis\\:\\ 0\\.19164170486883692\ \(0\)\
-\-\ pseudo\\-torch\\:\\ 0\\.19164170486883692\ \(0\)\
-\-\ delay\\:\\ 0\\.1843829324114398\ \(0\)\
-\-\ congenital\\:\\ 0\\.13587647694097554\ \(0\)\
-\-\ torch\\:\\ 0\\.13136803699405905\ \(0\)\
-\-\ cmv\\:\\ 0\\.11920247638676726\ \(0\)\
-\-\ lymphocytic\\:\\ 0\\.11843962160826138\ \(0\)\
-\-\ unenhanced\\:\\ 0\\.11435152961906705\ \(0\)\
-\-\ subependymal\\:\\ 0\\.11091187733178674\ \(0\)\
-\-\ loss\\:\\ 0\\.10784626836819303\ \(0\)\
-\-\ periventricular\\:\\ 0\\.10703691577947547\ \(0\)\
-\-\ syndromes\\:\\ 0\\.10616723459222113\ \(0\)\
-\-\ tuberous\\:\\ 0\\.10227488173463449\ \(0\)\
-\-\ hearing\\:\\ 0\\.09152930952126971\ \(0\)\
-\-\ volume\\:\\ 0\\.08774771588815149\ \(0\)\
-\-\ dilation\\:\\ 0\\.08756579741705331\ \(0\)\
-\-\ ventricular\\:\\ 0\\.08300665543918224\ \(0\)\
-\-\ 14\\:\\ 0\\.08186222645036872\ \(0\)\
-\-\ complex\\:\\ 0\\.07438893212204645\ \(0\)\
-\-\ matter\\:\\ 0\\.07314086892175647\ \(0\)\
-\-\ calcification\\:\\ 0\\.06743012214037238\ \(0\)\
-\-\ sclerosis\\:\\ 0\\.06672424420492054\ \(0\)\
-\-\ white\\:\\ 0\\.061610961145913426\ \(0\)\
-\-\ infection\\:\\ 0\\.054000360305930584\ \(0\)\
-\-\ head\\:\\ 0\\.052686985012476\ \(0\)\
-\-\ shows\\:\\ 0\\.05107334129845389\ \(0\)\
-\-\ male\\:\\ 0\\.0335914247366842\ \(0\)\
-\-\ ct\\:\\ 0\\.0259848620302618\ \(0\)\
-\-\ year\\:\\ 0\\.02078489715810684\ \(0\)\
-\-\ old\\:\\ 0\\.019020317323092492\ \(0\)\
-\-\ \\(\\:\\ 0\\.01570351578791001\ \(0\)\
-\-\ \\)\\:\\ 0\\.015511688958984892\ \(0\)\
-\-\ \\,\\:\\ 0\\.005885001424288856\ \(0\)\
-\-\ with\\:\\ 0\\.005087138090864771\ \(0\)\
-\-\ and\\:\\ 0\\.003913239255048227\ \(0\)\
-\-\ \\.\\:\\ 0\\.003086916182377937\ \(0\)\
+Texto: 
+neurodevelopmental delay, sensory-neural hearing loss.
+.
+unenhanced head ct shows ventricular dilation with white matter volume loss and periventricular (subependymal) calcification.
+congenital cmv
+torch infection
+congenital lymphocytic choriomeningitis
+pseudo-torch syndromes
+tuberous sclerosis complex
+14 year old male with neurodevelopmental delay.
+
+
+Keywords by value: 
+- neurodevelopmental: 0.323009741862896
+- sensory-neural: 0.19164170486883692
+- choriomeningitis: 0.19164170486883692
+- pseudo-torch: 0.19164170486883692
+- delay: 0.1843829324114398
+- congenital: 0.13587647694097554
+- torch: 0.13136803699405905
+- cmv: 0.11920247638676726
+- lymphocytic: 0.11843962160826138
+- unenhanced: 0.11435152961906705
+- subependymal: 0.11091187733178674
+- loss: 0.10784626836819303
+- periventricular: 0.10703691577947547
+- syndromes: 0.10616723459222113
+- tuberous: 0.10227488173463449
+- hearing: 0.09152930952126971
+- volume: 0.08774771588815149
+- dilation: 0.08756579741705331
+- ventricular: 0.08300665543918224
+- 14: 0.08186222645036872
+- complex: 0.07438893212204645
+- matter: 0.07314086892175647
+- calcification: 0.06743012214037238
+- sclerosis: 0.06672424420492054
+- white: 0.061610961145913426
+- infection: 0.054000360305930584
+- head: 0.052686985012476
+- shows: 0.05107334129845389
+- male: 0.0335914247366842
+- ct: 0.0259848620302618
+- year: 0.02078489715810684
+- old: 0.019020317323092492
+- (: 0.01570351578791001
+- ): 0.015511688958984892
+- ,: 0.005885001424288856
+- with: 0.005087138090864771
+- and: 0.003913239255048227
+- .: 0.003086916182377937

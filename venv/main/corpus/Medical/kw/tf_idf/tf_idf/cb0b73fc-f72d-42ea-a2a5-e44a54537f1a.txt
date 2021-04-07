@@ -1,98 +1,100 @@
-\-\ Texto\\:\\ \ \(0\)\
-\-\ thorax\\-\\ \\ narrow\\ and\\ abnormally\\ small\\ thorax\\ with\\ reduced\\ thoracic\\ cage\\ capacity\\.\\ \\ supraclavicular\\ and\\ suprasternal\\ retractions\\.\ \(0\)\
-\-\ limbs\\-mild\\ limb\\ shortening\\ and\\ short\\ digits\\.\ \(0\)\
-\-\ medical\\ care\\ is\\ supportive\\.\ \(0\)\
-\-\ mechanical\\ ventilation\\ is\\ urgently\\ requierd\\ in\\ the\\ most\\ severe\\ cases\\.\ \(0\)\
-\-\ treat\\ respiratory\\ infections\\ vigorously\\ with\\ antibiotics\\,\\ endotracheal\\ suctioning\\,\\ and\\ postural\\ drainage\\.\ \(0\)\
-\-\ genetic\\ counseling\\:\\ \\ the\\ parents\\ are\\ obligatory\\ carriers\\ with\\ 25\\%\\ recurrence\\ risk\\.\ \(0\)\
-\-\ small\\ and\\ bell\\-shaped\\ thorax\\.\\ \ \(0\)\
-\-\ trident\\ pelvis\ \(0\)\
-\-\ asphyxiating\\ thoracic\\ dystrophy\\ \\(jeune\\ syndrome\\)\ \(0\)\
-\-\ asphyxiating\\ thoracic\\ dystrophy\\ \ \(0\)\
-\-\ ellis\\-van\\ creveld\\ syndrome\ \(0\)\
-\-\ achondroplasia\ \(6\)\
-\-\ achodrogenesis\ \(0\)\
-\-\ cartilage\\-hair\\ hypoplasia\ \(0\)\
-\-\ thanatophoric\\ dysplasia\ \(0\)\
-\-\ barnes\\ syndrome\\ \\(thoracolaryngopelvic\\ dysplasia\\)\ \(0\)\
-\-\ short\\ rib\\ polydactyly\\ syndrome\ \(0\)\
-\-\ a\\ newborn\\ with\\ respiratory\\ distress\\.\ \(0\)\
-\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
-\-\ asphyxiating\\:\\ 0\\.1403073842781525\ \(0\)\
-\-\ dystrophy\\:\\ 0\\.10987144912230394\ \(0\)\
-\-\ thoracic\\:\\ 0\\.0898379319846614\ \(0\)\
-\-\ syndrome\\:\\ 0\\.08886933006307787\ \(0\)\
-\-\ thorax\\:\\ 0\\.08809502746207958\ \(0\)\
-\-\ thorax\\-\\:\\ 0\\.08014107658151362\ \(0\)\
-\-\ limbs\\-mild\\:\\ 0\\.08014107658151362\ \(0\)\
-\-\ requierd\\:\\ 0\\.08014107658151362\ \(0\)\
-\-\ obligatory\\:\\ 0\\.08014107658151362\ \(0\)\
-\-\ bell\\-shaped\\:\\ 0\\.08014107658151362\ \(0\)\
-\-\ ellis\\-van\\:\\ 0\\.08014107658151362\ \(0\)\
-\-\ achodrogenesis\\:\\ 0\\.08014107658151362\ \(0\)\
-\-\ cartilage\\-hair\\:\\ 0\\.08014107658151362\ \(0\)\
-\-\ suprasternal\\:\\ 0\\.0738397385764232\ \(0\)\
-\-\ trident\\:\\ 0\\.0738397385764232\ \(0\)\
-\-\ creveld\\:\\ 0\\.0738397385764232\ \(0\)\
-\-\ barnes\\:\\ 0\\.0738397385764232\ \(0\)\
-\-\ thoracolaryngopelvic\\:\\ 0\\.0738397385764232\ \(0\)\
-\-\ short\\:\\ 0\\.07323684874880822\ \(0\)\
-\-\ urgently\\:\\ 0\\.07015369213907625\ \(0\)\
-\-\ vigorously\\:\\ 0\\.07015369213907625\ \(0\)\
-\-\ carriers\\:\\ 0\\.07015369213907625\ \(0\)\
-\-\ jeune\\:\\ 0\\.07015369213907625\ \(0\)\
-\-\ suctioning\\:\\ 0\\.0675384005713328\ \(0\)\
-\-\ thanatophoric\\:\\ 0\\.06550982283211271\ \(0\)\
-\-\ respiratory\\:\\ 0\\.06450291390733036\ \(0\)\
-\-\ polydactyly\\:\\ 0\\.06385235413398584\ \(0\)\
-\-\ dysplasia\\:\\ 0\\.06132910388081281\ \(0\)\
-\-\ achondroplasia\\:\\ 0\\.05920848482702229\ \(0\)\
-\-\ capacity\\:\\ 0\\.05834202864698298\ \(0\)\
-\-\ cage\\:\\ 0\\.0568233551500451\ \(0\)\
-\-\ counseling\\:\\ 0\\.05493572456115197\ \(0\)\
-\-\ postural\\:\\ 0\\.053373449498182346\ \(0\)\
-\-\ endotracheal\\:\\ 0\\.05290714682193188\ \(0\)\
-\-\ retractions\\:\\ 0\\.05246359987493704\ \(0\)\
-\-\ shortening\\:\\ 0\\.050878569082711794\ \(0\)\
-\-\ digits\\:\\ 0\\.0480832536304576\ \(0\)\
-\-\ supraclavicular\\:\\ 0\\.04781973056797349\ \(0\)\
-\-\ ventilation\\:\\ 0\\.04731455010292976\ \(0\)\
-\-\ parents\\:\\ 0\\.04513973474778581\ \(0\)\
-\-\ limb\\:\\ 0\\.043877585249111124\ \(0\)\
-\-\ treat\\:\\ 0\\.043877585249111124\ \(0\)\
-\-\ mechanical\\:\\ 0\\.042919762379494526\ \(0\)\
-\-\ abnormally\\:\\ 0\\.042769495998119876\ \(0\)\
-\-\ genetic\\:\\ 0\\.04247621543249969\ \(0\)\
-\-\ hypoplasia\\:\\ 0\\.04233304855097114\ \(0\)\
-\-\ newborn\\:\\ 0\\.04233304855097114\ \(0\)\
-\-\ narrow\\:\\ 0\\.04191659822341393\ \(0\)\
-\-\ reduced\\:\\ 0\\.040891184640274435\ \(0\)\
-\-\ rib\\:\\ 0\\.0388383967426954\ \(0\)\
-\-\ infections\\:\\ 0\\.03692662029872849\ \(0\)\
-\-\ small\\:\\ 0\\.035792277897838516\ \(0\)\
-\-\ supportive\\:\\ 0\\.03435059837775335\ \(0\)\
-\-\ recurrence\\:\\ 0\\.033890200806673765\ \(0\)\
-\-\ distress\\:\\ 0\\.032732569694159205\ \(0\)\
-\-\ drainage\\:\\ 0\\.03248883099006232\ \(0\)\
-\-\ 25\\:\\ 0\\.031402056893246114\ \(0\)\
-\-\ antibiotics\\:\\ 0\\.02917923961518637\ \(0\)\
-\-\ pelvis\\:\\ 0\\.028228103696287532\ \(0\)\
-\-\ risk\\:\\ 0\\.028138242248718966\ \(0\)\
-\-\ care\\:\\ 0\\.028019792246079565\ \(0\)\
-\-\ cases\\:\\ 0\\.02588009876346484\ \(0\)\
-\-\ medical\\:\\ 0\\.023902816364236402\ \(0\)\
-\-\ severe\\:\\ 0\\.023902816364236402\ \(0\)\
-\-\ \\%\\:\\ 0\\.018121100303145524\ \(0\)\
-\-\ most\\:\\ 0\\.01793486492480069\ \(0\)\
-\-\ \\(\\:\\ 0\\.013133849568070191\ \(0\)\
-\-\ \\)\\:\\ 0\\.012973412583878274\ \(0\)\
-\-\ are\\:\\ 0\\.010589762477541833\ \(0\)\
-\-\ \\:\\:\\ 0\\.010275225599915136\ \(0\)\
-\-\ is\\:\\ 0\\.010223468697904102\ \(0\)\
-\-\ and\\:\\ 0\\.008182227533282658\ \(0\)\
-\-\ \\,\\:\\ 0\\.0049220011912234065\ \(0\)\
-\-\ with\\:\\ 0\\.004254697312359627\ \(0\)\
-\-\ in\\:\\ 0\\.003830883910365954\ \(0\)\
-\-\ a\\:\\ 0\\.003605452743805466\ \(0\)\
-\-\ \\.\\:\\ 0\\.002904507498873786\ \(0\)\
-\-\ the\\:\\ 0\\.002513623358247742\ \(0\)\
+Texto: 
+thorax-  narrow and abnormally small thorax with reduced thoracic cage capacity.  supraclavicular and suprasternal retractions.
+limbs-mild limb shortening and short digits.
+medical care is supportive.
+mechanical ventilation is urgently requierd in the most severe cases.
+treat respiratory infections vigorously with antibiotics, endotracheal suctioning, and postural drainage.
+genetic counseling:  the parents are obligatory carriers with 25% recurrence risk.
+small and bell-shaped thorax. 
+trident pelvis
+asphyxiating thoracic dystrophy (jeune syndrome)
+asphyxiating thoracic dystrophy 
+ellis-van creveld syndrome
+achondroplasia
+achodrogenesis
+cartilage-hair hypoplasia
+thanatophoric dysplasia
+barnes syndrome (thoracolaryngopelvic dysplasia)
+short rib polydactyly syndrome
+a newborn with respiratory distress.
+
+
+Keywords by value: 
+- asphyxiating: 0.1403073842781525
+- dystrophy: 0.10987144912230394
+- thoracic: 0.0898379319846614
+- syndrome: 0.08886933006307787
+- thorax: 0.08809502746207958
+- thorax-: 0.08014107658151362
+- limbs-mild: 0.08014107658151362
+- requierd: 0.08014107658151362
+- obligatory: 0.08014107658151362
+- bell-shaped: 0.08014107658151362
+- ellis-van: 0.08014107658151362
+- achodrogenesis: 0.08014107658151362
+- cartilage-hair: 0.08014107658151362
+- suprasternal: 0.0738397385764232
+- trident: 0.0738397385764232
+- creveld: 0.0738397385764232
+- barnes: 0.0738397385764232
+- thoracolaryngopelvic: 0.0738397385764232
+- short: 0.07323684874880822
+- urgently: 0.07015369213907625
+- vigorously: 0.07015369213907625
+- carriers: 0.07015369213907625
+- jeune: 0.07015369213907625
+- suctioning: 0.0675384005713328
+- thanatophoric: 0.06550982283211271
+- respiratory: 0.06450291390733036
+- polydactyly: 0.06385235413398584
+- dysplasia: 0.06132910388081281
+- achondroplasia: 0.05920848482702229
+- capacity: 0.05834202864698298
+- cage: 0.0568233551500451
+- counseling: 0.05493572456115197
+- postural: 0.053373449498182346
+- endotracheal: 0.05290714682193188
+- retractions: 0.05246359987493704
+- shortening: 0.050878569082711794
+- digits: 0.0480832536304576
+- supraclavicular: 0.04781973056797349
+- ventilation: 0.04731455010292976
+- parents: 0.04513973474778581
+- limb: 0.043877585249111124
+- treat: 0.043877585249111124
+- mechanical: 0.042919762379494526
+- abnormally: 0.042769495998119876
+- genetic: 0.04247621543249969
+- hypoplasia: 0.04233304855097114
+- newborn: 0.04233304855097114
+- narrow: 0.04191659822341393
+- reduced: 0.040891184640274435
+- rib: 0.0388383967426954
+- infections: 0.03692662029872849
+- small: 0.035792277897838516
+- supportive: 0.03435059837775335
+- recurrence: 0.033890200806673765
+- distress: 0.032732569694159205
+- drainage: 0.03248883099006232
+- 25: 0.031402056893246114
+- antibiotics: 0.02917923961518637
+- pelvis: 0.028228103696287532
+- risk: 0.028138242248718966
+- care: 0.028019792246079565
+- cases: 0.02588009876346484
+- medical: 0.023902816364236402
+- severe: 0.023902816364236402
+- %: 0.018121100303145524
+- most: 0.01793486492480069
+- (: 0.013133849568070191
+- ): 0.012973412583878274
+- are: 0.010589762477541833
+- :: 0.010275225599915136
+- is: 0.010223468697904102
+- and: 0.008182227533282658
+- ,: 0.0049220011912234065
+- with: 0.004254697312359627
+- in: 0.003830883910365954
+- a: 0.003605452743805466
+- .: 0.002904507498873786
+- the: 0.002513623358247742

@@ -1,81 +1,85 @@
-\-\ Texto\\:\\ \ \(0\)\
-\-\ findings\\:\\ \\ us\\:\\ \\ lobulated\\ mass\\ at\\ bladder\\ trigone\\ with\\ color\\ flow\\,\\ with\\ apparent\\ involvement\\ of\\ bilateral\\ ureteral\\ orifices\\.mild\\ right\\ pelvocaliectesis\\ \\.\\ \ \(0\)\
-\-\ ct\\:\\ irregular\\ soft\\ tissue\\ mass\\ posterior\\ bladder\\ wall\\ outlined\\ by\\ contrast\\ instilled\\ through\\ catheter\ \(0\)\
-\-\ mri\\:\\ \\ t2wi\\ shows\\ enlargement\\ of\\ the\\ prostate\\.\ \(0\)\
-\-\ rabdomyosarcoma\\,\\ prostate\\.\\ \\ botryoid\\ subtype\ \(0\)\
-\-\ rhabdomyosarcoma\\,\\ hemangioma\\,\\ neurofibroma\\,\\ pheochromocytoma\\,\\ leiomyoma\\,\\ focal\\ cystitis\\,\\ inflammatory\\ pseudotumor\\,\\ rp\\ abcess\\ \\(unlikely\\ given\\ history\\)\\,\\ hematoma\\ \\(unlikely\\ w\\/\\ flow\\)\\,\\ tcc\\ and\\ leimyosarcoma\\ \\(rarely\\)\\,\\ benign\\ tumors\\ \\(rarely\\)\ \(0\)\
-\-\ urinary\\ obstruction\\,\\ hematuria\\.\\ afebrile\\ w\\/o\\ history\\ of\\ febrile\\ illness\\.\ \(0\)\
-\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
-\-\ prostate\\:\\ 0\\.08405282046204524\ \(0\)\
-\-\ orifices\\.mild\\:\\ 0\\.08162517059228239\ \(0\)\
-\-\ pelvocaliectesis\\:\\ 0\\.08162517059228239\ \(0\)\
-\-\ rabdomyosarcoma\\:\\ 0\\.08162517059228239\ \(0\)\
-\-\ leimyosarcoma\\:\\ 0\\.08162517059228239\ \(0\)\
-\-\ rarely\\:\\ 0\\.07587073245687784\ \(0\)\
-\-\ unlikely\\:\\ 0\\.07538122769635644\ \(0\)\
-\-\ botryoid\\:\\ 0\\.07520714114265327\ \(0\)\
-\-\ instilled\\:\\ 0\\.06503480513646706\ \(0\)\
-\-\ bladder\\:\\ 0\\.0642298313564635\ \(0\)\
-\-\ rp\\:\\ 0\\.061280498579909984\ \(0\)\
-\-\ tcc\\:\\ 0\\.061280498579909984\ \(0\)\
-\-\ trigone\\:\\ 0\\.05861677568683794\ \(0\)\
-\-\ outlined\\:\\ 0\\.056550631693187844\ \(0\)\
-\-\ cystitis\\:\\ 0\\.05436184671111165\ \(0\)\
-\-\ abcess\\:\\ 0\\.05436184671111165\ \(0\)\
-\-\ subtype\\:\\ 0\\.05343514802076921\ \(0\)\
-\-\ flow\\:\\ 0\\.05229729401589844\ \(0\)\
-\-\ pheochromocytoma\\:\\ 0\\.05110816257372379\ \(0\)\
-\-\ t2wi\\:\\ 0\\.04746887935048668\ \(0\)\
-\-\ leiomyoma\\:\\ 0\\.04658637768563182\ \(0\)\
-\-\ ureteral\\:\\ 0\\.04637829568700165\ \(0\)\
-\-\ pseudotumor\\:\\ 0\\.045780716787579695\ \(0\)\
-\-\ febrile\\:\\ 0\\.04558979746162844\ \(0\)\
-\-\ w\\/o\\:\\ 0\\.044690133124094665\ \(0\)\
-\-\ rhabdomyosarcoma\\:\\ 0\\.04452023369198173\ \(0\)\
-\-\ illness\\:\\ 0\\.044028476050185915\ \(0\)\
-\-\ neurofibroma\\:\\ 0\\.04387019425982202\ \(0\)\
-\-\ \\:\\:\\ 0\\.041862030221876484\ \(0\)\
-\-\ w\\/\\:\\ 0\\.041050849900857556\ \(0\)\
-\-\ lobulated\\:\\ 0\\.03975675784182831\ \(0\)\
-\-\ color\\:\\ 0\\.0386215511557882\ \(0\)\
-\-\ catheter\\:\\ 0\\.03801840946902004\ \(0\)\
-\-\ hematuria\\:\\ 0\\.03753096749230316\ \(0\)\
-\-\ urinary\\:\\ 0\\.03662690758893357\ \(0\)\
-\-\ afebrile\\:\\ 0\\.03655540716213811\ \(0\)\
-\-\ hemangioma\\:\\ 0\\.03535468657594799\ \(0\)\
-\-\ apparent\\:\\ 0\\.034986720569933974\ \(0\)\
-\-\ us\\:\\ 0\\.03318897969548066\ \(0\)\
-\-\ \\,\\:\\ 0\\.032585470849303105\ \(0\)\
-\-\ irregular\\:\\ 0\\.031558765300984996\ \(0\)\
-\-\ enlargement\\:\\ 0\\.03139415191189903\ \(0\)\
-\-\ tumors\\:\\ 0\\.02971959590435649\ \(0\)\
-\-\ involvement\\:\\ 0\\.028999432005813112\ \(0\)\
-\-\ hematoma\\:\\ 0\\.02815710072613046\ \(0\)\
-\-\ obstruction\\:\\ 0\\.02790185230175403\ \(0\)\
-\-\ inflammatory\\:\\ 0\\.02743811059437059\ \(0\)\
-\-\ benign\\:\\ 0\\.027306021916974083\ \(0\)\
-\-\ given\\:\\ 0\\.02712420733811428\ \(0\)\
-\-\ \\(\\:\\ 0\\.02675413800903187\ \(0\)\
-\-\ \\)\\:\\ 0\\.02642732193012241\ \(0\)\
-\-\ wall\\:\\ 0\\.02291814000221061\ \(0\)\
-\-\ focal\\:\\ 0\\.0225971630012815\ \(0\)\
-\-\ through\\:\\ 0\\.022471824244637673\ \(0\)\
-\-\ mass\\:\\ 0\\.02200853716569564\ \(0\)\
-\-\ history\\:\\ 0\\.021855824772353396\ \(0\)\
-\-\ shows\\:\\ 0\\.0217534601826748\ \(0\)\
-\-\ soft\\:\\ 0\\.019267840407347685\ \(0\)\
-\-\ bilateral\\:\\ 0\\.019202016012170777\ \(0\)\
-\-\ tissue\\:\\ 0\\.01875389989307957\ \(0\)\
-\-\ posterior\\:\\ 0\\.018237393969467115\ \(0\)\
-\-\ mri\\:\\ 0\\.01817848013809833\ \(0\)\
-\-\ contrast\\:\\ 0\\.017710885988962085\ \(0\)\
-\-\ findings\\:\\ 0\\.01684108273879592\ \(0\)\
-\-\ by\\:\\ 0\\.013174730585600692\ \(0\)\
-\-\ ct\\:\\ 0\\.011067626420296694\ \(0\)\
-\-\ at\\:\\ 0\\.01072002919288549\ \(0\)\
-\-\ right\\:\\ 0\\.008348441751022376\ \(0\)\
-\-\ of\\:\\ 0\\.0032362166888330116\ \(0\)\
-\-\ with\\:\\ 0\\.0021667440016646246\ \(0\)\
-\-\ and\\:\\ 0\\.0016667500530760967\ \(0\)\
-\-\ \\.\\:\\ 0\\.001643497041543809\ \(0\)\
-\-\ the\\:\\ 0\\.0012800859694780166\ \(0\)\
+Texto: 
+findings:  us:  lobulated mass at bladder trigone with color flow, with apparent involvement of bilateral ureteral orifices.mild right pelvocaliectesis . 
+
+ct: irregular soft tissue mass posterior bladder wall outlined by contrast instilled through catheter
+
+mri:  t2wi shows enlargement of the prostate.
+rabdomyosarcoma, prostate.  botryoid subtype
+rhabdomyosarcoma, hemangioma, neurofibroma, pheochromocytoma, leiomyoma, focal cystitis, inflammatory pseudotumor, rp abcess (unlikely given history), hematoma (unlikely w/ flow), tcc and leimyosarcoma (rarely), benign tumors (rarely)
+urinary obstruction, hematuria. afebrile w/o history of febrile illness.
+
+
+Keywords by value: 
+- prostate: 0.08405282046204524
+- orifices.mild: 0.08162517059228239
+- pelvocaliectesis: 0.08162517059228239
+- rabdomyosarcoma: 0.08162517059228239
+- leimyosarcoma: 0.08162517059228239
+- rarely: 0.07587073245687784
+- unlikely: 0.07538122769635644
+- botryoid: 0.07520714114265327
+- instilled: 0.06503480513646706
+- bladder: 0.0642298313564635
+- rp: 0.061280498579909984
+- tcc: 0.061280498579909984
+- trigone: 0.05861677568683794
+- outlined: 0.056550631693187844
+- cystitis: 0.05436184671111165
+- abcess: 0.05436184671111165
+- subtype: 0.05343514802076921
+- flow: 0.05229729401589844
+- pheochromocytoma: 0.05110816257372379
+- t2wi: 0.04746887935048668
+- leiomyoma: 0.04658637768563182
+- ureteral: 0.04637829568700165
+- pseudotumor: 0.045780716787579695
+- febrile: 0.04558979746162844
+- w/o: 0.044690133124094665
+- rhabdomyosarcoma: 0.04452023369198173
+- illness: 0.044028476050185915
+- neurofibroma: 0.04387019425982202
+- :: 0.041862030221876484
+- w/: 0.041050849900857556
+- lobulated: 0.03975675784182831
+- color: 0.0386215511557882
+- catheter: 0.03801840946902004
+- hematuria: 0.03753096749230316
+- urinary: 0.03662690758893357
+- afebrile: 0.03655540716213811
+- hemangioma: 0.03535468657594799
+- apparent: 0.034986720569933974
+- us: 0.03318897969548066
+- ,: 0.032585470849303105
+- irregular: 0.031558765300984996
+- enlargement: 0.03139415191189903
+- tumors: 0.02971959590435649
+- involvement: 0.028999432005813112
+- hematoma: 0.02815710072613046
+- obstruction: 0.02790185230175403
+- inflammatory: 0.02743811059437059
+- benign: 0.027306021916974083
+- given: 0.02712420733811428
+- (: 0.02675413800903187
+- ): 0.02642732193012241
+- wall: 0.02291814000221061
+- focal: 0.0225971630012815
+- through: 0.022471824244637673
+- mass: 0.02200853716569564
+- history: 0.021855824772353396
+- shows: 0.0217534601826748
+- soft: 0.019267840407347685
+- bilateral: 0.019202016012170777
+- tissue: 0.01875389989307957
+- posterior: 0.018237393969467115
+- mri: 0.01817848013809833
+- contrast: 0.017710885988962085
+- findings: 0.01684108273879592
+- by: 0.013174730585600692
+- ct: 0.011067626420296694
+- at: 0.01072002919288549
+- right: 0.008348441751022376
+- of: 0.0032362166888330116
+- with: 0.0021667440016646246
+- and: 0.0016667500530760967
+- .: 0.001643497041543809
+- the: 0.0012800859694780166

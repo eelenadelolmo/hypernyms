@@ -1,59 +1,61 @@
-\-\ Texto\\:\\ \ \(0\)\
-\-\ not\\ available\\.\ \(14\)\
-\-\ ercp\\ with\\ stent\\ placement\\.\ \(0\)\
-\-\ ct\\:non\\-calcified\\ choledocholithiasis\\ with\\ associated\\ intrahepatic\\ ductal\\ dilatation\ \(0\)\
-\-\ ercp\\:\\ gallstone\\ impacted\\ within\\ the\\ common\\ bile\\ duct\\ with\\ a\\ stent\\ placed\\ with\\ subsequent\\ decompression\\ and\\ evacuation\\ of\\ the\\ stone\ \(0\)\
-\-\ non\\-calcified\\ choledocholithiasis\ \(0\)\
-\-\ non\\-calcified\\ choledocholithiasis\ \(0\)\
-\-\ air\\ bubble\\,\\ blood\\ clot\\,\\ fungus\\ ball\ \(0\)\
-\-\ ipmn\ \(0\)\
-\-\ ampullary\\ or\\ periampullary\\ carcinoma\ \(0\)\
-\-\ distal\\ cholangiocarcinoma\ \(0\)\
-\-\ abdominal\\ pain\ \(486\)\
-\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
-\-\ non\\-calcified\\:\\ 0\\.326319821245837\ \(0\)\
-\-\ choledocholithiasis\\:\\ 0\\.3012786440374746\ \(0\)\
-\-\ ercp\\:\\ 0\\.19405003290197229\ \(0\)\
-\-\ stent\\:\\ 0\\.16298933012657718\ \(0\)\
-\-\ periampullary\\:\\ 0\\.13079501924234557\ \(0\)\
-\-\ ipmn\\:\\ 0\\.12591905191265437\ \(0\)\
-\-\ ampullary\\:\\ 0\\.12591905191265437\ \(0\)\
-\-\ fungus\\:\\ 0\\.10242253731740197\ \(0\)\
-\-\ impacted\\:\\ 0\\.09950982109830607\ \(0\)\
-\-\ gallstone\\:\\ 0\\.09627159674639574\ \(0\)\
-\-\ evacuation\\:\\ 0\\.0929375239625643\ \(0\)\
-\-\ bubble\\:\\ 0\\.0929375239625643\ \(0\)\
-\-\ cholangiocarcinoma\\:\\ 0\\.09121239355053139\ \(0\)\
-\-\ ball\\:\\ 0\\.08732130131926868\ \(0\)\
-\-\ intrahepatic\\:\\ 0\\.08527675915335994\ \(0\)\
-\-\ clot\\:\\ 0\\.08452333944876955\ \(0\)\
-\-\ bile\\:\\ 0\\.07740717257486676\ \(0\)\
-\-\ decompression\\:\\ 0\\.07669591496301877\ \(0\)\
-\-\ stone\\:\\ 0\\.07205373275421462\ \(0\)\
-\-\ ductal\\:\\ 0\\.06827163866414326\ \(0\)\
-\-\ duct\\:\\ 0\\.06640133261043367\ \(0\)\
-\-\ dilatation\\:\\ 0\\.06207164117743592\ \(0\)\
-\-\ placement\\:\\ 0\\.05878662530930558\ \(0\)\
-\-\ placed\\:\\ 0\\.05862596863210993\ \(0\)\
-\-\ subsequent\\:\\ 0\\.05638272369169172\ \(0\)\
-\-\ air\\:\\ 0\\.04900445129749095\ \(0\)\
-\-\ available\\:\\ 0\\.04869015337016605\ \(0\)\
-\-\ carcinoma\\:\\ 0\\.04104962152569265\ \(0\)\
-\-\ blood\\:\\ 0\\.03953239105947965\ \(0\)\
-\-\ distal\\:\\ 0\\.03937760320247503\ \(0\)\
-\-\ \\:\\:\\ 0\\.03831440054205644\ \(0\)\
-\-\ common\\:\\ 0\\.037902834100955886\ \(0\)\
-\-\ abdominal\\:\\ 0\\.0362020209851206\ \(0\)\
-\-\ associated\\:\\ 0\\.03417733155775766\ \(0\)\
-\-\ within\\:\\ 0\\.02762934590484884\ \(0\)\
-\-\ not\\:\\ 0\\.020929130029524328\ \(0\)\
-\-\ ct\\:\\ 0\\.020259383955797336\ \(0\)\
-\-\ pain\\:\\ 0\\.017688274025944657\ \(0\)\
-\-\ or\\:\\ 0\\.0169749618468425\ \(0\)\
-\-\ \\,\\:\\ 0\\.009176612390416521\ \(0\)\
-\-\ with\\:\\ 0\\.007932486514568796\ \(0\)\
-\-\ a\\:\\ 0\\.006722030539298327\ \(0\)\
-\-\ the\\:\\ 0\\.004686416430631383\ \(0\)\
-\-\ and\\:\\ 0\\.0030510000971562447\ \(0\)\
-\-\ of\\:\\ 0\\.001974640691491329\ \(0\)\
-\-\ \\.\\:\\ 0\\.001203374104994789\ \(0\)\
+Texto: 
+not available.
+ercp with stent placement.
+ct:non-calcified choledocholithiasis with associated intrahepatic ductal dilatation
+ercp: gallstone impacted within the common bile duct with a stent placed with subsequent decompression and evacuation of the stone
+non-calcified choledocholithiasis
+non-calcified choledocholithiasis
+air bubble, blood clot, fungus ball
+ipmn
+ampullary or periampullary carcinoma
+distal cholangiocarcinoma
+abdominal pain
+
+
+Keywords by value: 
+- non-calcified: 0.326319821245837
+- choledocholithiasis: 0.3012786440374746
+- ercp: 0.19405003290197229
+- stent: 0.16298933012657718
+- periampullary: 0.13079501924234557
+- ipmn: 0.12591905191265437
+- ampullary: 0.12591905191265437
+- fungus: 0.10242253731740197
+- impacted: 0.09950982109830607
+- gallstone: 0.09627159674639574
+- evacuation: 0.0929375239625643
+- bubble: 0.0929375239625643
+- cholangiocarcinoma: 0.09121239355053139
+- ball: 0.08732130131926868
+- intrahepatic: 0.08527675915335994
+- clot: 0.08452333944876955
+- bile: 0.07740717257486676
+- decompression: 0.07669591496301877
+- stone: 0.07205373275421462
+- ductal: 0.06827163866414326
+- duct: 0.06640133261043367
+- dilatation: 0.06207164117743592
+- placement: 0.05878662530930558
+- placed: 0.05862596863210993
+- subsequent: 0.05638272369169172
+- air: 0.04900445129749095
+- available: 0.04869015337016605
+- carcinoma: 0.04104962152569265
+- blood: 0.03953239105947965
+- distal: 0.03937760320247503
+- :: 0.03831440054205644
+- common: 0.037902834100955886
+- abdominal: 0.0362020209851206
+- associated: 0.03417733155775766
+- within: 0.02762934590484884
+- not: 0.020929130029524328
+- ct: 0.020259383955797336
+- pain: 0.017688274025944657
+- or: 0.0169749618468425
+- ,: 0.009176612390416521
+- with: 0.007932486514568796
+- a: 0.006722030539298327
+- the: 0.004686416430631383
+- and: 0.0030510000971562447
+- of: 0.001974640691491329
+- .: 0.001203374104994789

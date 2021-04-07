@@ -1,65 +1,67 @@
-\-\ Texto\\:\\ \ \(0\)\
-\-\ asymptomatic\\ during\\ sonographic\\ evaluation\\.\ \(0\)\
-\-\ must\\ rule\\ out\\ gallbladder\\ cancer\\.\\ \\ elective\\ cholecystectomy\\.\\ \\ close\\ follow\\-up\\ if\\ not\\ a\\ surgical\\ candidate\\.\ \(0\)\
-\-\ long\\ and\\ transverse\\ gray\\ scale\\ and\\ color\\ flow\\ images\\ of\\ the\\ gallbladder\\ demonstrate\\ non\\-mobile\\ echogenic\\ material\\ in\\ the\\ gallbladder\\ fundus\\ with\\ posterior\\ shadowing\\ and\\ blood\\ flow\\.\ \(0\)\
-\-\ adenomyomatosis\ \(9\)\
-\-\ gallbladder\\ cancer\\.\ \(1\)\
-\-\ gallbladder\\ polyp\\ with\\ calcification\\.\ \(0\)\
-\-\ adherent\\ stone\\:\\ less\\ likely\\ with\\ demonstrated\\ blood\\ flow\\.\ \(0\)\
-\-\ patient\\ has\\ long\\ history\\ of\\ biliary\\ colic\ \(0\)\
-\-\ none\\.\ \(8\)\
-\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
-\-\ gallbladder\\:\\ 0\\.26662261186066\ \(0\)\
-\-\ flow\\:\\ 0\\.11002807312435776\ \(0\)\
-\-\ colic\\:\\ 0\\.08334575520997568\ \(0\)\
-\-\ non\\-mobile\\:\\ 0\\.08117622164292158\ \(0\)\
-\-\ adenomyomatosis\\:\\ 0\\.08117622164292158\ \(0\)\
-\-\ adherent\\:\\ 0\\.07847960651593139\ \(0\)\
-\-\ long\\:\\ 0\\.07652523404760321\ \(0\)\
-\-\ elective\\:\\ 0\\.07494799982133864\ \(0\)\
-\-\ cancer\\:\\ 0\\.07296533154194196\ \(0\)\
-\-\ candidate\\:\\ 0\\.06831390081139072\ \(0\)\
-\-\ fundus\\:\\ 0\\.06421191445530659\ \(0\)\
-\-\ scale\\:\\ 0\\.0634245817044438\ \(0\)\
-\-\ polyp\\:\\ 0\\.06317239877123468\ \(0\)\
-\-\ blood\\:\\ 0\\.060582105779462325\ \(0\)\
-\-\ cholecystectomy\\:\\ 0\\.05931198937554726\ \(0\)\
-\-\ shadowing\\:\\ 0\\.05894613383052524\ \(0\)\
-\-\ biliary\\:\\ 0\\.0560481656316394\ \(0\)\
-\-\ echogenic\\:\\ 0\\.05521000301946315\ \(0\)\
-\-\ stone\\:\\ 0\\.05521000301946315\ \(0\)\
-\-\ gray\\:\\ 0\\.05429596669788134\ \(0\)\
-\-\ close\\:\\ 0\\.054170487335391246\ \(0\)\
-\-\ color\\:\\ 0\\.054170487335391246\ \(0\)\
-\-\ sonographic\\:\\ 0\\.05380116350005964\ \(0\)\
-\-\ must\\:\\ 0\\.05059139607971914\ \(0\)\
-\-\ material\\:\\ 0\\.049588391561069915\ \(0\)\
-\-\ rule\\:\\ 0\\.046344082490987176\ \(0\)\
-\-\ transverse\\:\\ 0\\.044499307716233734\ \(0\)\
-\-\ calcification\\:\\ 0\\.040282930109832846\ \(0\)\
-\-\ less\\:\\ 0\\.0375836364197751\ \(0\)\
-\-\ asymptomatic\\:\\ 0\\.03751418698696218\ \(0\)\
-\-\ out\\:\\ 0\\.036676024374785926\ \(0\)\
-\-\ follow\\-up\\:\\ 0\\.03610437651223042\ \(0\)\
-\-\ during\\:\\ 0\\.03396115908991958\ \(0\)\
-\-\ demonstrated\\:\\ 0\\.032563895876064515\ \(0\)\
-\-\ evaluation\\:\\ 0\\.03223686747827023\ \(0\)\
-\-\ likely\\:\\ 0\\.03130246709007346\ \(0\)\
-\-\ if\\:\\ 0\\.030113551088060204\ \(0\)\
-\-\ none\\:\\ 0\\.02752882476503905\ \(0\)\
-\-\ posterior\\:\\ 0\\.025579721411720113\ \(0\)\
-\-\ demonstrate\\:\\ 0\\.0255383394978317\ \(0\)\
-\-\ surgical\\:\\ 0\\.023327555457811087\ \(0\)\
-\-\ images\\:\\ 0\\.021289141453887717\ \(0\)\
-\-\ has\\:\\ 0\\.020840259357068545\ \(0\)\
-\-\ not\\:\\ 0\\.01603660612651864\ \(0\)\
-\-\ history\\:\\ 0\\.015327461528663423\ \(0\)\
-\-\ \\:\\:\\ 0\\.014678893714164481\ \(0\)\
-\-\ patient\\:\\ 0\\.011124570531381663\ \(0\)\
-\-\ and\\:\\ 0\\.007013337885670849\ \(0\)\
-\-\ in\\:\\ 0\\.0054726913005227916\ \(0\)\
-\-\ a\\:\\ 0\\.005150646776864952\ \(0\)\
-\-\ with\\:\\ 0\\.004558604263242457\ \(0\)\
-\-\ \\.\\:\\ 0\\.0041492964269625515\ \(0\)\
-\-\ the\\:\\ 0\\.0035908905117824886\ \(0\)\
-\-\ of\\:\\ 0\\.0030260727479997\ \(0\)\
+Texto: 
+asymptomatic during sonographic evaluation.
+must rule out gallbladder cancer.  elective cholecystectomy.  close follow-up if not a surgical candidate.
+long and transverse gray scale and color flow images of the gallbladder demonstrate non-mobile echogenic material in the gallbladder fundus with posterior shadowing and blood flow.
+adenomyomatosis
+gallbladder cancer.
+gallbladder polyp with calcification.
+adherent stone: less likely with demonstrated blood flow.
+patient has long history of biliary colic
+none.
+
+
+Keywords by value: 
+- gallbladder: 0.26662261186066
+- flow: 0.11002807312435776
+- colic: 0.08334575520997568
+- non-mobile: 0.08117622164292158
+- adenomyomatosis: 0.08117622164292158
+- adherent: 0.07847960651593139
+- long: 0.07652523404760321
+- elective: 0.07494799982133864
+- cancer: 0.07296533154194196
+- candidate: 0.06831390081139072
+- fundus: 0.06421191445530659
+- scale: 0.0634245817044438
+- polyp: 0.06317239877123468
+- blood: 0.060582105779462325
+- cholecystectomy: 0.05931198937554726
+- shadowing: 0.05894613383052524
+- biliary: 0.0560481656316394
+- echogenic: 0.05521000301946315
+- stone: 0.05521000301946315
+- gray: 0.05429596669788134
+- close: 0.054170487335391246
+- color: 0.054170487335391246
+- sonographic: 0.05380116350005964
+- must: 0.05059139607971914
+- material: 0.049588391561069915
+- rule: 0.046344082490987176
+- transverse: 0.044499307716233734
+- calcification: 0.040282930109832846
+- less: 0.0375836364197751
+- asymptomatic: 0.03751418698696218
+- out: 0.036676024374785926
+- follow-up: 0.03610437651223042
+- during: 0.03396115908991958
+- demonstrated: 0.032563895876064515
+- evaluation: 0.03223686747827023
+- likely: 0.03130246709007346
+- if: 0.030113551088060204
+- none: 0.02752882476503905
+- posterior: 0.025579721411720113
+- demonstrate: 0.0255383394978317
+- surgical: 0.023327555457811087
+- images: 0.021289141453887717
+- has: 0.020840259357068545
+- not: 0.01603660612651864
+- history: 0.015327461528663423
+- :: 0.014678893714164481
+- patient: 0.011124570531381663
+- and: 0.007013337885670849
+- in: 0.0054726913005227916
+- a: 0.005150646776864952
+- with: 0.004558604263242457
+- .: 0.0041492964269625515
+- the: 0.0035908905117824886
+- of: 0.0030260727479997

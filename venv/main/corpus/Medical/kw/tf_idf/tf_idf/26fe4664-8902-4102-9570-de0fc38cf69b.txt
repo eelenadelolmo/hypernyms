@@ -1,56 +1,58 @@
-\-\ Texto\\:\\ \ \(0\)\
-\-\ anterior\\ chest\\ wall\\ pain\\ with\\ palpation\ \(0\)\
-\-\ pain\\ medications\\;\\ patient\\'s\\ pain\\ slowly\\ resolved\ \(0\)\
-\-\ nuclear\\ medicine\\ bone\\ scan\\ demonstrates\\ bilateral\\ symmetric\\ foci\\ of\\ focally\\ increased\\ activity\\ in\\ the\\ anterior\\ ribs\ \(0\)\
-\-\ rib\\ fractures\\,\\ cpr\ \(0\)\
-\-\ rib\\ fractures\\ from\\ chest\\ compressions\\/cpr\ \(0\)\
-\-\ rib\\ fractures\\ from\\ blunt\\ force\\ trauma\\ to\\ chest\ \(0\)\
-\-\ metastatic\\ disease\ \(243\)\
-\-\ chest\\ pain\\;\\ known\\ coronary\\ artery\\ disease\\,\\ hypertension\\,\\ hyperlipidemia\\,\\ smoker\\,\\ diabetic\ \(0\)\
-\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
-\-\ rib\\:\\ 0\\.20026048320452317\ \(0\)\
-\-\ fractures\\:\\ 0\\.15167759053032542\ \(0\)\
-\-\ compressions\\/cpr\\:\\ 0\\.13774247537447654\ \(0\)\
-\-\ chest\\:\\ 0\\.12779556250359492\ \(0\)\
-\-\ cpr\\:\\ 0\\.1269120506782274\ \(0\)\
-\-\ focally\\:\\ 0\\.08944493704075285\ \(0\)\
-\-\ hyperlipidemia\\:\\ 0\\.08264309217734901\ \(0\)\
-\-\ force\\:\\ 0\\.08132188298941052\ \(0\)\
-\-\ blunt\\:\\ 0\\.07971791183222172\ \(0\)\
-\-\ diabetic\\:\\ 0\\.07971791183222172\ \(0\)\
-\-\ smoker\\:\\ 0\\.0793413875887989\ \(0\)\
-\-\ coronary\\:\\ 0\\.07512789435521917\ \(0\)\
-\-\ slowly\\:\\ 0\\.0725176742823572\ \(0\)\
-\-\ ribs\\:\\ 0\\.0720441531964927\ \(0\)\
-\-\ nuclear\\:\\ 0\\.06888748713597258\ \(0\)\
-\-\ anterior\\:\\ 0\\.06877477574258554\ \(0\)\
-\-\ pain\\:\\ 0\\.06522551047067092\ \(0\)\
-\-\ resolved\\:\\ 0\\.06472952483600924\ \(0\)\
-\-\ medicine\\:\\ 0\\.0633335076432616\ \(0\)\
-\-\ \\;\\:\\ 0\\.06329441213914355\ \(0\)\
-\-\ symmetric\\:\\ 0\\.060982242784850725\ \(0\)\
-\-\ medications\\:\\ 0\\.059555814344078736\ \(0\)\
-\-\ foci\\:\\ 0\\.05731287417426633\ \(0\)\
-\-\ hypertension\\:\\ 0\\.05263720394219044\ \(0\)\
-\-\ activity\\:\\ 0\\.05009447857471154\ \(0\)\
-\-\ palpation\\:\\ 0\\.04456154813043831\ \(0\)\
-\-\ disease\\:\\ 0\\.043648048162990755\ \(0\)\
-\-\ known\\:\\ 0\\.04225079819474718\ \(0\)\
-\-\ artery\\:\\ 0\\.03975828112669061\ \(0\)\
-\-\ from\\:\\ 0\\.039576116036069135\ \(0\)\
-\-\ wall\\:\\ 0\\.03867436125373041\ \(0\)\
-\-\ scan\\:\\ 0\\.03737924156926529\ \(0\)\
-\-\ trauma\\:\\ 0\\.03651576221496764\ \(0\)\
-\-\ metastatic\\:\\ 0\\.03361108443150141\ \(0\)\
-\-\ bone\\:\\ 0\\.03317866689781047\ \(0\)\
-\-\ increased\\:\\ 0\\.03266382471561962\ \(0\)\
-\-\ bilateral\\:\\ 0\\.03240340202053819\ \(0\)\
-\-\ \\'s\\:\\ 0\\.02943822841198508\ \(0\)\
-\-\ demonstrates\\:\\ 0\\.02916595627583103\ \(0\)\
-\-\ \\,\\:\\ 0\\.021149223868538077\ \(0\)\
-\-\ patient\\:\\ 0\\.013384248920568562\ \(0\)\
-\-\ to\\:\\ 0\\.00667293919442166\ \(0\)\
-\-\ in\\:\\ 0\\.006584331720941483\ \(0\)\
-\-\ the\\:\\ 0\\.002160145073494153\ \(0\)\
-\-\ with\\:\\ 0\\.0018281902514045271\ \(0\)\
-\-\ of\\:\\ 0\\.0018203718874685692\ \(0\)\
+Texto: 
+anterior chest wall pain with palpation
+pain medications; patient's pain slowly resolved
+nuclear medicine bone scan demonstrates bilateral symmetric foci of focally increased activity in the anterior ribs
+rib fractures, cpr
+rib fractures from chest compressions/cpr
+rib fractures from blunt force trauma to chest
+metastatic disease
+chest pain; known coronary artery disease, hypertension, hyperlipidemia, smoker, diabetic
+
+
+Keywords by value: 
+- rib: 0.20026048320452317
+- fractures: 0.15167759053032542
+- compressions/cpr: 0.13774247537447654
+- chest: 0.12779556250359492
+- cpr: 0.1269120506782274
+- focally: 0.08944493704075285
+- hyperlipidemia: 0.08264309217734901
+- force: 0.08132188298941052
+- blunt: 0.07971791183222172
+- diabetic: 0.07971791183222172
+- smoker: 0.0793413875887989
+- coronary: 0.07512789435521917
+- slowly: 0.0725176742823572
+- ribs: 0.0720441531964927
+- nuclear: 0.06888748713597258
+- anterior: 0.06877477574258554
+- pain: 0.06522551047067092
+- resolved: 0.06472952483600924
+- medicine: 0.0633335076432616
+- ;: 0.06329441213914355
+- symmetric: 0.060982242784850725
+- medications: 0.059555814344078736
+- foci: 0.05731287417426633
+- hypertension: 0.05263720394219044
+- activity: 0.05009447857471154
+- palpation: 0.04456154813043831
+- disease: 0.043648048162990755
+- known: 0.04225079819474718
+- artery: 0.03975828112669061
+- from: 0.039576116036069135
+- wall: 0.03867436125373041
+- scan: 0.03737924156926529
+- trauma: 0.03651576221496764
+- metastatic: 0.03361108443150141
+- bone: 0.03317866689781047
+- increased: 0.03266382471561962
+- bilateral: 0.03240340202053819
+- 's: 0.02943822841198508
+- demonstrates: 0.02916595627583103
+- ,: 0.021149223868538077
+- patient: 0.013384248920568562
+- to: 0.00667293919442166
+- in: 0.006584331720941483
+- the: 0.002160145073494153
+- with: 0.0018281902514045271
+- of: 0.0018203718874685692

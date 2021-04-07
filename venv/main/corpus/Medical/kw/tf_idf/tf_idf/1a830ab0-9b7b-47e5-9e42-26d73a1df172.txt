@@ -1,165 +1,173 @@
-\-\ Texto\\:\\ \ \(0\)\
-\-\ remarkable\\ physical\\ exam\\ findings\\ include\\:\ \(0\)\
-\-\ confusion\\ and\\ inability\\ to\\ give\\ great\\ details\\ on\\ medical\\ history\ \(1\)\
-\-\ no\\ slurred\\ speech\\,\\ but\\ speech\\ was\\ slow\ \(1\)\
-\-\ left\\-sided\\ facial\\ droop\\ around\\ mouth\ \(1\)\
-\-\ pupils\\ round\\,\\ equal\\,\\ and\\ active\\ to\\ light\ \(1\)\
-\-\ intact\\ extraocular\\ muscles\ \(1\)\
-\-\ normal\\ heart\\ rhythms\ \(1\)\
-\-\ normal\\ gi\\ exam\ \(0\)\
-\-\ 4\\/5\\ strength\\ in\\ upper\\ extremity\\;\\ otherwise\\ normal\ \(1\)\
-\-\ slight\\ weakness\\ in\\ left\\ upper\\ extremity\\ compared\\ to\\ right\\ \ \(1\)\
-\-\ indescribable\\ sensation\\ in\\ left\\ upper\\ extremity\ \(0\)\
-\-\ not\\ applicable\ \(4\)\
-\-\ no\\ evidence\\ of\\ pulmonary\\ embolus\\.\ \(0\)\
-\-\ severe\\ pericardial\\ effusion\\ that\\ expands\\ the\\ retrosternal\\ pericardial\\ space\\.\\ \ \(1\)\
-\-\ aneurysmal\\ dilatation\\ of\\ the\\ thoracic\\ aorta\\ with\\ the\\ greatest\\ axial\\ dimension\\ identified\\ within\\ the\\ ascending\\ aorta\\ measuring\\ approximately\\ 5\\.4\\ cm\\.\ \(0\)\
-\-\ the\\ left\\ atrium\\ appears\\ somewhat\\ compressed\\.\\ the\\ left\\ ventricular\\ musculature\\ appears\\ somewhat\\ hypertrophied\\.\ \(0\)\
-\-\ there\\ is\\ mediastinal\\ hematoma\\.\ \(0\)\
-\-\ cardiac\\ tamponade\ \(8\)\
-\-\ seizure\ \(388\)\
-\-\ this\\ 85\\ year\\ old\\ woman\\ was\\ admitted\\ to\\ the\\ emergency\\ department\\ because\\ of\\ a\\ seizure\\ lasting\\ about\\ 5\\ minutes\\ after\\ which\\ she\\ had\\ difficulty\\ speaking\\ and\\ had\\ some\\ left\\-sided\\ weakness\\.\\ \\ in\\ the\\ er\\,\\ she\\ went\\ pulseless\\ and\\ went\\ into\\ respiratory\\ arrest\\ at\\ which\\ point\\ no\\ further\\ treatment\\ was\\ pursued\\ and\\ the\\ patient\\ expired\\.\ \(0\)\
-\-\ past\\ medical\\ history\\ includes\\ cerebral\\ vascular\\ accident\\ and\\ hypertension\\.\\ she\\ had\\ residual\\ left\\-sided\\ weakness\\ from\\ a\\ previous\\ cva\\.\ \(0\)\
-\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
-\-\ left\\-sided\\:\\ 0\\.060726176509303946\ \(0\)\
-\-\ speech\\:\\ 0\\.04734325121015261\ \(0\)\
-\-\ weakness\\:\\ 0\\.045773240668678626\ \(0\)\
-\-\ extremity\\:\\ 0\\.0450744082159967\ \(0\)\
-\-\ pericardial\\:\\ 0\\.04419241075759992\ \(0\)\
-\-\ went\\:\\ 0\\.04377729372043445\ \(0\)\
-\-\ rhythms\\:\\ 0\\.04238230011522355\ \(0\)\
-\-\ indescribable\\:\\ 0\\.04238230011522355\ \(0\)\
-\-\ somewhat\\:\\ 0\\.04038844141466576\ \(0\)\
-\-\ seizure\\:\\ 0\\.03633236366877759\ \(0\)\
-\-\ aorta\\:\\ 0\\.03526946103031774\ \(0\)\
-\-\ pulseless\\:\\ 0\\.03464461784390576\ \(0\)\
-\-\ she\\:\\ 0\\.03459787704020441\ \(0\)\
-\-\ 5\\.4\\:\\ 0\\.03238498501099357\ \(0\)\
-\-\ speaking\\:\\ 0\\.03238498501099357\ \(0\)\
-\-\ pursued\\:\\ 0\\.031818720416491725\ \(0\)\
-\-\ appears\\:\\ 0\\.030583930969204316\ \(0\)\
-\-\ expands\\:\\ 0\\.03005081281973539\ \(0\)\
-\-\ retrosternal\\:\\ 0\\.03005081281973539\ \(0\)\
-\-\ lasting\\:\\ 0\\.03005081281973539\ \(0\)\
-\-\ upper\\:\\ 0\\.029741545750510363\ \(0\)\
-\-\ details\\:\\ 0\\.029694524492073267\ \(0\)\
-\-\ slurred\\:\\ 0\\.029694524492073267\ \(0\)\
-\-\ tamponade\\:\\ 0\\.029362827994539847\ \(0\)\
-\-\ droop\\:\\ 0\\.028226343484615665\ \(0\)\
-\-\ give\\:\\ 0\\.027979741107752438\ \(0\)\
-\-\ cva\\:\\ 0\\.027745173010784014\ \(0\)\
-\-\ expired\\:\\ 0\\.027521519089462418\ \(0\)\
-\-\ applicable\\:\\ 0\\.027103195161627656\ \(0\)\
-\-\ had\\:\\ 0\\.026593987777510215\ \(0\)\
-\-\ hypertrophied\\:\\ 0\\.026193377855673192\ \(0\)\
-\-\ arrest\\:\\ 0\\.026193377855673192\ \(0\)\
-\-\ musculature\\:\\ 0\\.025289280588832137\ \(0\)\
-\-\ medical\\:\\ 0\\.025281825000634656\ \(0\)\
-\-\ extraocular\\:\\ 0\\.025153843680338406\ \(0\)\
-\-\ compressed\\:\\ 0\\.02502211784289555\ \(0\)\
-\-\ embolus\\:\\ 0\\.02476902297036948\ \(0\)\
-\-\ confusion\\:\\ 0\\.02464730273967578\ \(0\)\
-\-\ 4\\/5\\:\\ 0\\.023770756793551\ \(0\)\
-\-\ inability\\:\\ 0\\.023574497204511307\ \(0\)\
-\-\ dimension\\:\\ 0\\.023574497204511307\ \(0\)\
-\-\ mouth\\:\\ 0\\.023116275186221287\ \(0\)\
-\-\ atrium\\:\\ 0\\.023116275186221287\ \(0\)\
-\-\ 85\\:\\ 0\\.02294455363524975\ \(0\)\
-\-\ greatest\\:\\ 0\\.02269795125838653\ \(0\)\
-\-\ pupils\\:\\ 0\\.022463383161418105\ \(0\)\
-\-\ great\\:\\ 0\\.022387669906763587\ \(0\)\
-\-\ remarkable\\:\\ 0\\.0223131305484176\ \(0\)\
-\-\ aneurysmal\\:\\ 0\\.0223131305484176\ \(0\)\
-\-\ slow\\:\\ 0\\.0222397292400965\ \(0\)\
-\-\ ascending\\:\\ 0\\.02202601884312134\ \(0\)\
-\-\ equal\\:\\ 0\\.021498620202465454\ \(0\)\
-\-\ minutes\\:\\ 0\\.021255140717759902\ \(0\)\
-\-\ residual\\:\\ 0\\.020388497333957287\ \(0\)\
-\-\ slight\\:\\ 0\\.0193256147998546\ \(0\)\
-\-\ normal\\:\\ 0\\.019321333479794728\ \(0\)\
-\-\ light\\:\\ 0\\.01916925330127018\ \(0\)\
-\-\ sensation\\:\\ 0\\.01887100622954204\ \(0\)\
-\-\ muscles\\:\\ 0\\.0187637670107233\ \(0\)\
-\-\ accident\\:\\ 0\\.018658867744402917\ \(0\)\
-\-\ gi\\:\\ 0\\.018455695584355402\ \(0\)\
-\-\ department\\:\\ 0\\.018422652895471934\ \(0\)\
-\-\ left\\:\\ 0\\.0183866397937099\ \(0\)\
-\-\ ventricular\\:\\ 0\\.01835724110674223\ \(0\)\
-\-\ difficulty\\:\\ 0\\.018292707355145398\ \(0\)\
-\-\ strength\\:\\ 0\\.018229028380385683\ \(0\)\
-\-\ exam\\:\\ 0\\.018050326345668638\ \(0\)\
-\-\ point\\:\\ 0\\.01795247143741363\ \(0\)\
-\-\ facial\\:\\ 0\\.017863711519914904\ \(0\)\
-\-\ round\\:\\ 0\\.017747857906554036\ \(0\)\
-\-\ admitted\\:\\ 0\\.017747857906554036\ \(0\)\
-\-\ dilatation\\:\\ 0\\.01760685975706115\ \(0\)\
-\-\ mediastinal\\:\\ 0\\.01744294527945069\ \(0\)\
-\-\ compared\\:\\ 0\\.01738952592644554\ \(0\)\
-\-\ around\\:\\ 0\\.017105880057397677\ \(0\)\
-\-\ respiratory\\:\\ 0\\.017056058965880628\ \(0\)\
-\-\ includes\\:\\ 0\\.0165619249799944\ \(0\)\
-\-\ measuring\\:\\ 0\\.016429594819465123\ \(0\)\
-\-\ hypertension\\:\\ 0\\.016196062751443214\ \(0\)\
-\-\ previous\\:\\ 0\\.015953606724390848\ \(0\)\
-\-\ thoracic\\:\\ 0\\.01583681493319352\ \(0\)\
-\-\ about\\:\\ 0\\.01583681493319352\ \(0\)\
-\-\ er\\:\\ 0\\.01576050075455751\ \(0\)\
-\-\ active\\:\\ 0\\.015685379033869618\ \(0\)\
-\-\ cardiac\\:\\ 0\\.01564825381226428\ \(0\)\
-\-\ effusion\\:\\ 0\\.015611413077910584\ \(0\)\
-\-\ emergency\\:\\ 0\\.01555667595182825\ \(0\)\
-\-\ which\\:\\ 0\\.015337928723486046\ \(0\)\
-\-\ intact\\:\\ 0\\.015090214527395273\ \(0\)\
-\-\ otherwise\\:\\ 0\\.01475632323762666\ \(0\)\
-\-\ identified\\:\\ 0\\.014680130005703469\ \(0\)\
-\-\ hematoma\\:\\ 0\\.014620033069336971\ \(0\)\
-\-\ because\\:\\ 0\\.014372684214356\ \(0\)\
-\-\ heart\\:\\ 0\\.014274421388984491\ \(0\)\
-\-\ was\\:\\ 0\\.014254002724235867\ \(0\)\
-\-\ cerebral\\:\\ 0\\.014232915873865727\ \(0\)\
-\-\ space\\:\\ 0\\.013589216380176128\ \(0\)\
-\-\ vascular\\:\\ 0\\.013470208018863927\ \(0\)\
-\-\ further\\:\\ 0\\.013064635297116626\ \(0\)\
-\-\ past\\:\\ 0\\.013053843615127087\ \(0\)\
-\-\ approximately\\:\\ 0\\.012710662627671072\ \(0\)\
-\-\ severe\\:\\ 0\\.012640912500317328\ \(0\)\
-\-\ some\\:\\ 0\\.01247561660512865\ \(0\)\
-\-\ no\\:\\ 0\\.012410252173612529\ \(0\)\
-\-\ 5\\:\\ 0\\.012020002030981556\ \(0\)\
-\-\ pulmonary\\:\\ 0\\.012002645722211843\ \(0\)\
-\-\ axial\\:\\ 0\\.011724959019557075\ \(0\)\
-\-\ include\\:\\ 0\\.011524776384760994\ \(0\)\
-\-\ history\\:\\ 0\\.011348216708721956\ \(0\)\
-\-\ cm\\:\\ 0\\.011019019797197048\ \(0\)\
-\-\ evidence\\:\\ 0\\.01077135857387922\ \(0\)\
-\-\ physical\\:\\ 0\\.010079352257602108\ \(0\)\
-\-\ into\\:\\ 0\\.009775607538267821\ \(0\)\
-\-\ \\;\\:\\ 0\\.009737601867560546\ \(0\)\
-\-\ woman\\:\\ 0\\.009489918016773588\ \(0\)\
-\-\ but\\:\\ 0\\.008762035101122778\ \(0\)\
-\-\ findings\\:\\ 0\\.008744408345144037\ \(0\)\
-\-\ after\\:\\ 0\\.008500005781775012\ \(0\)\
-\-\ treatment\\:\\ 0\\.008315466151927341\ \(0\)\
-\-\ to\\:\\ 0\\.008212848239288197\ \(0\)\
-\-\ in\\:\\ 0\\.008103792887312595\ \(0\)\
-\-\ within\\:\\ 0\\.007837170232625392\ \(0\)\
-\-\ that\\:\\ 0\\.0070960611949943435\ \(0\)\
-\-\ there\\:\\ 0\\.006114017098389369\ \(0\)\
-\-\ from\\:\\ 0\\.006088633236318329\ \(0\)\
-\-\ the\\:\\ 0\\.00598194020352227\ \(0\)\
-\-\ not\\:\\ 0\\.005936628229528536\ \(0\)\
-\-\ at\\:\\ 0\\.005566169003998236\ \(0\)\
-\-\ \\:\\:\\ 0\\.005434013538416659\ \(0\)\
-\-\ \\,\\:\\ 0\\.005205962798409373\ \(0\)\
-\-\ and\\:\\ 0\\.0051925674730447634\ \(0\)\
-\-\ this\\:\\ 0\\.004620851987087178\ \(0\)\
-\-\ year\\:\\ 0\\.004596659948427475\ \(0\)\
-\-\ right\\:\\ 0\\.004334767832261619\ \(0\)\
-\-\ old\\:\\ 0\\.004206416331068532\ \(0\)\
-\-\ patient\\:\\ 0\\.004118230437098019\ \(0\)\
-\-\ a\\:\\ 0\\.0038134596328711664\ \(0\)\
-\-\ on\\:\\ 0\\.003480245251756866\ \(0\)\
-\-\ is\\:\\ 0\\.0027033210499265658\ \(0\)\
-\-\ \\.\\:\\ 0\\.001706708466218571\ \(0\)\
-\-\ of\\:\\ 0\\.001680343280740218\ \(0\)\
-\-\ with\\:\\ 0\\.0005625200773552391\ \(0\)\
+Texto: 
+remarkable physical exam findings include:
+confusion and inability to give great details on medical history
+no slurred speech, but speech was slow
+
+left-sided facial droop around mouth
+pupils round, equal, and active to light
+intact extraocular muscles
+normal heart rhythms
+normal gi exam
+4/5 strength in upper extremity; otherwise normal
+slight weakness in left upper extremity compared to right 
+indescribable sensation in left upper extremity
+not applicable
+no evidence of pulmonary embolus.
+
+severe pericardial effusion that expands the retrosternal pericardial space. 
+
+aneurysmal dilatation of the thoracic aorta with the greatest axial dimension identified within the ascending aorta measuring approximately 5.4 cm.
+
+the left atrium appears somewhat compressed. the left ventricular musculature appears somewhat hypertrophied.
+
+there is mediastinal hematoma.
+cardiac tamponade
+seizure
+this 85 year old woman was admitted to the emergency department because of a seizure lasting about 5 minutes after which she had difficulty speaking and had some left-sided weakness.  in the er, she went pulseless and went into respiratory arrest at which point no further treatment was pursued and the patient expired.
+
+past medical history includes cerebral vascular accident and hypertension. she had residual left-sided weakness from a previous cva.
+
+
+Keywords by value: 
+- left-sided: 0.060726176509303946
+- speech: 0.04734325121015261
+- weakness: 0.045773240668678626
+- extremity: 0.0450744082159967
+- pericardial: 0.04419241075759992
+- went: 0.04377729372043445
+- rhythms: 0.04238230011522355
+- indescribable: 0.04238230011522355
+- somewhat: 0.04038844141466576
+- seizure: 0.03633236366877759
+- aorta: 0.03526946103031774
+- pulseless: 0.03464461784390576
+- she: 0.03459787704020441
+- 5.4: 0.03238498501099357
+- speaking: 0.03238498501099357
+- pursued: 0.031818720416491725
+- appears: 0.030583930969204316
+- expands: 0.03005081281973539
+- retrosternal: 0.03005081281973539
+- lasting: 0.03005081281973539
+- upper: 0.029741545750510363
+- details: 0.029694524492073267
+- slurred: 0.029694524492073267
+- tamponade: 0.029362827994539847
+- droop: 0.028226343484615665
+- give: 0.027979741107752438
+- cva: 0.027745173010784014
+- expired: 0.027521519089462418
+- applicable: 0.027103195161627656
+- had: 0.026593987777510215
+- hypertrophied: 0.026193377855673192
+- arrest: 0.026193377855673192
+- musculature: 0.025289280588832137
+- medical: 0.025281825000634656
+- extraocular: 0.025153843680338406
+- compressed: 0.02502211784289555
+- embolus: 0.02476902297036948
+- confusion: 0.02464730273967578
+- 4/5: 0.023770756793551
+- inability: 0.023574497204511307
+- dimension: 0.023574497204511307
+- mouth: 0.023116275186221287
+- atrium: 0.023116275186221287
+- 85: 0.02294455363524975
+- greatest: 0.02269795125838653
+- pupils: 0.022463383161418105
+- great: 0.022387669906763587
+- remarkable: 0.0223131305484176
+- aneurysmal: 0.0223131305484176
+- slow: 0.0222397292400965
+- ascending: 0.02202601884312134
+- equal: 0.021498620202465454
+- minutes: 0.021255140717759902
+- residual: 0.020388497333957287
+- slight: 0.0193256147998546
+- normal: 0.019321333479794728
+- light: 0.01916925330127018
+- sensation: 0.01887100622954204
+- muscles: 0.0187637670107233
+- accident: 0.018658867744402917
+- gi: 0.018455695584355402
+- department: 0.018422652895471934
+- left: 0.0183866397937099
+- ventricular: 0.01835724110674223
+- difficulty: 0.018292707355145398
+- strength: 0.018229028380385683
+- exam: 0.018050326345668638
+- point: 0.01795247143741363
+- facial: 0.017863711519914904
+- round: 0.017747857906554036
+- admitted: 0.017747857906554036
+- dilatation: 0.01760685975706115
+- mediastinal: 0.01744294527945069
+- compared: 0.01738952592644554
+- around: 0.017105880057397677
+- respiratory: 0.017056058965880628
+- includes: 0.0165619249799944
+- measuring: 0.016429594819465123
+- hypertension: 0.016196062751443214
+- previous: 0.015953606724390848
+- thoracic: 0.01583681493319352
+- about: 0.01583681493319352
+- er: 0.01576050075455751
+- active: 0.015685379033869618
+- cardiac: 0.01564825381226428
+- effusion: 0.015611413077910584
+- emergency: 0.01555667595182825
+- which: 0.015337928723486046
+- intact: 0.015090214527395273
+- otherwise: 0.01475632323762666
+- identified: 0.014680130005703469
+- hematoma: 0.014620033069336971
+- because: 0.014372684214356
+- heart: 0.014274421388984491
+- was: 0.014254002724235867
+- cerebral: 0.014232915873865727
+- space: 0.013589216380176128
+- vascular: 0.013470208018863927
+- further: 0.013064635297116626
+- past: 0.013053843615127087
+- approximately: 0.012710662627671072
+- severe: 0.012640912500317328
+- some: 0.01247561660512865
+- no: 0.012410252173612529
+- 5: 0.012020002030981556
+- pulmonary: 0.012002645722211843
+- axial: 0.011724959019557075
+- include: 0.011524776384760994
+- history: 0.011348216708721956
+- cm: 0.011019019797197048
+- evidence: 0.01077135857387922
+- physical: 0.010079352257602108
+- into: 0.009775607538267821
+- ;: 0.009737601867560546
+- woman: 0.009489918016773588
+- but: 0.008762035101122778
+- findings: 0.008744408345144037
+- after: 0.008500005781775012
+- treatment: 0.008315466151927341
+- to: 0.008212848239288197
+- in: 0.008103792887312595
+- within: 0.007837170232625392
+- that: 0.0070960611949943435
+- there: 0.006114017098389369
+- from: 0.006088633236318329
+- the: 0.00598194020352227
+- not: 0.005936628229528536
+- at: 0.005566169003998236
+- :: 0.005434013538416659
+- ,: 0.005205962798409373
+- and: 0.0051925674730447634
+- this: 0.004620851987087178
+- year: 0.004596659948427475
+- right: 0.004334767832261619
+- old: 0.004206416331068532
+- patient: 0.004118230437098019
+- a: 0.0038134596328711664
+- on: 0.003480245251756866
+- is: 0.0027033210499265658
+- .: 0.001706708466218571
+- of: 0.001680343280740218
+- with: 0.0005625200773552391

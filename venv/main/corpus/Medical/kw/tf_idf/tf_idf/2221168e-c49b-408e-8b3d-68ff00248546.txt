@@ -1,164 +1,170 @@
-\-\ Texto\\:\\ \ \(0\)\
-\-\ focal\\ tenderness\\ to\\ the\\ posterior\\ medial\\ distal\\-mid\\ right\\ tibia\\.\ \(0\)\
-\-\ referred\\ for\\ immediate\\ othopedic\\ consultation\\ and\\ treated\\ with\\ immobilization\\ and\\ non\\-weight\\ bearing\\,\\ with\\ a\\ gradual\\ return\\ to\\ activity\\.\ \(0\)\
-\-\ \\(by\\ report\\ had\\ bilateral\\ tibial\\ stress\\ fractures\\)\ \(0\)\
-\-\ 2\\-phase\\ focally\\ increased\\ activity\\ with\\ a\\ fusiform\\ configuration\\ on\\ the\\ delayed\\ images\\ oriented\\ in\\ an\\ unusual\\ \\(for\\ a\\ simple\\ stress\\ fracture\\)\\ oblique\\ configuration\\,\\ and\\ appearing\\ to\\ involve\\ the\\ entire\\ cortical\\ diameter\\.\\ \\ \ \(1\)\
-\-\ zoomed\\ in\\ images\\ of\\ plain\\ radiographs\\ demonstrate\\ periosteal\\ reaction\\ and\\ also\\ endosteal\\ callus\\ formation\\ seen\\ in\\ the\\ posterior\\-medial\\ cortex\\ of\\ the\\ distal\\-mid\\ right\\ tibia\\.\\ \\ additionally\\,\\ there\\ is\\ a\\ linear\\ lucency\\ seen\\ in\\ the\\ cortex\\ that\\ is\\ obliquely\\ oriented\\ in\\ relation\\ to\\ the\\ long\\ axis\\ of\\ the\\ shaft\\.\\ \\ the\\ corresponds\\ to\\ the\\ abnormality\\ seen\\ on\\ the\\ bone\\ scan\\.\ \(0\)\
-\-\ no\\ abnormality\\ is\\ seen\\ in\\ the\\ left\\ tibia\\.\ \(0\)\
-\-\ right\\ tibial\\ \\(completed\\)\\ stress\\ fracture\\.\ \(0\)\
-\-\ ddx\\ for\\ 2\\ or\\ 3\\-phase\\ focally\\ increased\\ bone\\ scan\\ activity\\.\ \(0\)\
-\-\ 1\\-\\ trauma\\ \\(including\\ fracture\\)\ \(0\)\
-\-\ 2\\-\\ infection\ \(0\)\
-\-\ 3\\-\\ bone\\ tumor\ \(0\)\
-\-\ 22\\ year\\ old\\ woman\\ marine\\ who\\ had\\ been\\ on\\ limited\\ duty\\ for\\ an\\ extended\\ period\\ of\\ time\ \(0\)\
-\-\ this\\ young\\ woman\\ had\\ earlier\\ conservative\\ treatment\\ \\(restricted\\ activity\\)\\ for\\ bilateral\\ tibial\\ stress\\ fractures\\.\\ \\ because\\ her\\ symptoms\\ had\\ improved\\,\\ she\\ recently\\ ran\\ for\\ a\\ physical\\ fitness\\ test\\.\\ \\ after\\ running\\ that\\,\\ she\\ had\\ an\\ acute\\ exacerbation\\ of\\ symptoms\\.\ \(0\)\
-\-\ in\\ this\\ particular\\ case\\,\\ the\\ intense\\ radiotracer\\ uptake\\ is\\ more\\ obliquely\\ oriented\\ in\\ relation\\ to\\ the\\ long\\ axis\\ of\\ the\\ cortex\\,\\ which\\ suggested\\ a\\ complete\\ fracture\\ of\\ the\\ cortex\\.\\ \\ radiographs\\,\\ performed\\ immediately\\ following\\ the\\ bone\\ scan\\,\\ demonstrate\\ a\\ visible\\ linear\\ lucency\\ within\\ the\\ posterior\\ medial\\ cortex\\ of\\ the\\ right\\ tibia\\,\\ indicating\\ a\\ completed\\ stress\\ fracture\\.\\ \\ additionally\\ there\\ is\\ periosteal\\ reaction\\ and\\ callous\\ formation\\ seen\\ in\\ the\\ region\\ of\\ the\\ fracture\\ site\\.\ \(0\)\
-\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
-\-\ stress\\:\\ 0\\.05965946212971762\ \(0\)\
-\-\ cortex\\:\\ 0\\.05822393510751543\ \(0\)\
-\-\ distal\\-mid\\:\\ 0\\.05614979887876751\ \(0\)\
-\-\ tibia\\:\\ 0\\.050002156633691015\ \(0\)\
-\-\ fracture\\:\\ 0\\.04305237573769641\ \(0\)\
-\-\ activity\\:\\ 0\\.040841358328427245\ \(0\)\
-\-\ obliquely\\:\\ 0\\.040322367988398077\ \(0\)\
-\-\ oriented\\:\\ 0\\.040037059974670955\ \(0\)\
-\-\ tibial\\:\\ 0\\.03771959210360747\ \(0\)\
-\-\ focally\\:\\ 0\\.036461630386039376\ \(0\)\
-\-\ relation\\:\\ 0\\.03427726891389397\ \(0\)\
-\-\ completed\\:\\ 0\\.03136113455959154\ \(0\)\
-\-\ configuration\\:\\ 0\\.030397879975362727\ \(0\)\
-\-\ had\\:\\ 0\\.029360665911476246\ \(0\)\
-\-\ axis\\:\\ 0\\.028998971636466135\ \(0\)\
-\-\ posterior\\-medial\\:\\ 0\\.028074899439383755\ \(0\)\
-\-\ bone\\:\\ 0\\.02705012333069898\ \(0\)\
-\-\ seen\\:\\ 0\\.026888974762224366\ \(0\)\
-\-\ othopedic\\:\\ 0\\.025867424342059086\ \(0\)\
-\-\ 2\\-phase\\:\\ 0\\.025867424342059086\ \(0\)\
-\-\ zoomed\\:\\ 0\\.025867424342059086\ \(0\)\
-\-\ periosteal\\:\\ 0\\.025817480822730842\ \(0\)\
-\-\ lucency\\:\\ 0\\.025001078316845508\ \(0\)\
-\-\ reaction\\:\\ 0\\.024720028604049725\ \(0\)\
-\-\ additionally\\:\\ 0\\.023589367105795893\ \(0\)\
-\-\ linear\\:\\ 0\\.0230736405928426\ \(0\)\
-\-\ 3\\-phase\\:\\ 0\\.022949300992141396\ \(0\)\
-\-\ fitness\\:\\ 0\\.022949300992141396\ \(0\)\
-\-\ scan\\:\\ 0\\.022856096755729093\ \(0\)\
-\-\ formation\\:\\ 0\\.022466569383897857\ \(0\)\
-\-\ 3\\-\\:\\ 0\\.022368659091523704\ \(0\)\
-\-\ ran\\:\\ 0\\.022368659091523704\ \(0\)\
-\-\ 2\\-\\:\\ 0\\.02187773335958976\ \(0\)\
-\-\ callous\\:\\ 0\\.02187773335958976\ \(0\)\
-\-\ 1\\-\\:\\ 0\\.021452474147409754\ \(0\)\
-\-\ marine\\:\\ 0\\.02107736893831299\ \(0\)\
-\-\ callus\\:\\ 0\\.02074182589481673\ \(0\)\
-\-\ fractures\\:\\ 0\\.020610118458473096\ \(0\)\
-\-\ abnormality\\:\\ 0\\.020079986903379313\ \(0\)\
-\-\ non\\-weight\\:\\ 0\\.019670258262265095\ \(0\)\
-\-\ long\\:\\ 0\\.0187657421072148\ \(0\)\
-\-\ gradual\\:\\ 0\\.01746278316494043\ \(0\)\
-\-\ endosteal\\:\\ 0\\.01746278316494043\ \(0\)\
-\-\ medial\\:\\ 0\\.017409551041974853\ \(0\)\
-\-\ corresponds\\:\\ 0\\.017351027369363135\ \(0\)\
-\-\ radiographs\\:\\ 0\\.017237393893007217\ \(0\)\
-\-\ exacerbation\\:\\ 0\\.016939525039808976\ \(0\)\
-\-\ fusiform\\:\\ 0\\.01649023014089208\ \(0\)\
-\-\ shaft\\:\\ 0\\.01609655512188833\ \(0\)\
-\-\ bearing\\:\\ 0\\.015746233799549706\ \(0\)\
-\-\ extended\\:\\ 0\\.015746233799549706\ \(0\)\
-\-\ running\\:\\ 0\\.015312691843101998\ \(0\)\
-\-\ she\\:\\ 0\\.015278892620727213\ \(0\)\
-\-\ consultation\\:\\ 0\\.015198939987681364\ \(0\)\
-\-\ immobilization\\:\\ 0\\.014636976811434369\ \(0\)\
-\-\ particular\\:\\ 0\\.014590483819647258\ \(0\)\
-\-\ intense\\:\\ 0\\.014411015868847476\ \(0\)\
-\-\ ddx\\:\\ 0\\.014367685766759007\ \(0\)\
-\-\ immediate\\:\\ 0\\.014241124210550364\ \(0\)\
-\-\ duty\\:\\ 0\\.014200030564576136\ \(0\)\
-\-\ indicating\\:\\ 0\\.01404076170924282\ \(0\)\
-\-\ for\\:\\ 0\\.013932002840306658\ \(0\)\
-\-\ suggested\\:\\ 0\\.013852262118827754\ \(0\)\
-\-\ return\\:\\ 0\\.013779879153612607\ \(0\)\
-\-\ symptoms\\:\\ 0\\.01356469730508369\ \(0\)\
-\-\ immediately\\:\\ 0\\.013505756195742407\ \(0\)\
-\-\ earlier\\:\\ 0\\.013440759789273594\ \(0\)\
-\-\ simple\\:\\ 0\\.013408752350249704\ \(0\)\
-\-\ entire\\:\\ 0\\.013377063398488022\ \(0\)\
-\-\ increased\\:\\ 0\\.013315189692991438\ \(0\)\
-\-\ bilateral\\:\\ 0\\.013209030123021936\ \(0\)\
-\-\ unusual\\:\\ 0\\.013163653493128275\ \(0\)\
-\-\ improved\\:\\ 0\\.012963650622940281\ \(0\)\
-\-\ visible\\:\\ 0\\.012881636304142782\ \(0\)\
-\-\ involve\\:\\ 0\\.012828110449632016\ \(0\)\
-\-\ period\\:\\ 0\\.012723684262297648\ \(0\)\
-\-\ recently\\:\\ 0\\.01269810409765668\ \(0\)\
-\-\ radiotracer\\:\\ 0\\.01269810409765668\ \(0\)\
-\-\ oblique\\:\\ 0\\.01264755203027996\ \(0\)\
-\-\ woman\\:\\ 0\\.012572630238782844\ \(0\)\
-\-\ posterior\\:\\ 0\\.012545468463072921\ \(0\)\
-\-\ demonstrate\\:\\ 0\\.012525172874732744\ \(0\)\
-\-\ restricted\\:\\ 0\\.012524574845159642\ \(0\)\
-\-\ report\\:\\ 0\\.01218180202926039\ \(0\)\
-\-\ 22\\:\\ 0\\.012138764707073374\ \(0\)\
-\-\ appearing\\:\\ 0\\.012096301232966795\ \(0\)\
-\-\ in\\:\\ 0\\.012078264558160173\ \(0\)\
-\-\ young\\:\\ 0\\.011852765041909987\ \(0\)\
-\-\ test\\:\\ 0\\.011626536465105046\ \(0\)\
-\-\ \\(\\:\\ 0\\.0115025752586602\ \(0\)\
-\-\ site\\:\\ 0\\.011501629735317525\ \(0\)\
-\-\ right\\:\\ 0\\.011485754256183653\ \(0\)\
-\-\ limited\\:\\ 0\\.011484179207404705\ \(0\)\
-\-\ diameter\\:\\ 0\\.011449562416841317\ \(0\)\
-\-\ \\)\\:\\ 0\\.011362065161039889\ \(0\)\
-\-\ an\\:\\ 0\\.011289791696987864\ \(0\)\
-\-\ delayed\\:\\ 0\\.011076370523137516\ \(0\)\
-\-\ conservative\\:\\ 0\\.010868920516223627\ \(0\)\
-\-\ uptake\\:\\ 0\\.010812049123229975\ \(0\)\
-\-\ images\\:\\ 0\\.010441171286301619\ \(0\)\
-\-\ referred\\:\\ 0\\.01026920841864854\ \(0\)\
-\-\ a\\:\\ 0\\.010104453549518505\ \(0\)\
-\-\ cortical\\:\\ 0\\.00992062054323507\ \(0\)\
-\-\ including\\:\\ 0\\.009826174015901032\ \(0\)\
-\-\ complete\\:\\ 0\\.009577630363012913\ \(0\)\
-\-\ because\\:\\ 0\\.009520758970019262\ \(0\)\
-\-\ that\\:\\ 0\\.009401151137317347\ \(0\)\
-\-\ the\\:\\ 0\\.009245971269987713\ \(0\)\
-\-\ is\\:\\ 0\\.008953674815043403\ \(0\)\
-\-\ plain\\:\\ 0\\.00883841946716269\ \(0\)\
-\-\ \\,\\:\\ 0\\.008621339666155648\ \(0\)\
-\-\ tenderness\\:\\ 0\\.008276790837202654\ \(0\)\
-\-\ her\\:\\ 0\\.008182839676703618\ \(0\)\
-\-\ to\\:\\ 0\\.008160537104006107\ \(0\)\
-\-\ treated\\:\\ 0\\.008146021770967704\ \(0\)\
-\-\ there\\:\\ 0\\.00810009908576426\ \(0\)\
-\-\ infection\\:\\ 0\\.007910880809149068\ \(0\)\
-\-\ focal\\:\\ 0\\.007772272624644592\ \(0\)\
-\-\ following\\:\\ 0\\.00772381451242404\ \(0\)\
-\-\ time\\:\\ 0\\.0076866281122271105\ \(0\)\
-\-\ region\\:\\ 0\\.0076866281122271105\ \(0\)\
-\-\ performed\\:\\ 0\\.007587829080341781\ \(0\)\
-\-\ trauma\\:\\ 0\\.007442703126617609\ \(0\)\
-\-\ been\\:\\ 0\\.007403805380458571\ \(0\)\
-\-\ who\\:\\ 0\\.007095440793444911\ \(0\)\
-\-\ on\\:\\ 0\\.006916156169096447\ \(0\)\
-\-\ more\\:\\ 0\\.006806293978701167\ \(0\)\
-\-\ acute\\:\\ 0\\.006719360920721323\ \(0\)\
-\-\ physical\\:\\ 0\\.006676768374462543\ \(0\)\
-\-\ tumor\\:\\ 0\\.006344688858633157\ \(0\)\
-\-\ this\\:\\ 0\\.006121893078433969\ \(0\)\
-\-\ case\\:\\ 0\\.005953835773462646\ \(0\)\
-\-\ 2\\:\\ 0\\.005860205402899829\ \(0\)\
-\-\ after\\:\\ 0\\.005630577078373256\ \(0\)\
-\-\ treatment\\:\\ 0\\.005508334266244863\ \(0\)\
-\-\ also\\:\\ 0\\.005365030553089655\ \(0\)\
-\-\ within\\:\\ 0\\.005191501300592617\ \(0\)\
-\-\ which\\:\\ 0\\.005080078303320219\ \(0\)\
-\-\ by\\:\\ 0\\.004531435997595143\ \(0\)\
-\-\ of\\:\\ 0\\.003339280914592025\ \(0\)\
-\-\ or\\:\\ 0\\.0031895628947888775\ \(0\)\
-\-\ left\\:\\ 0\\.0030449212397226583\ \(0\)\
-\-\ year\\:\\ 0\\.0030449212397226583\ \(0\)\
-\-\ and\\:\\ 0\\.0028663854415958354\ \(0\)\
-\-\ old\\:\\ 0\\.0027864159135740593\ \(0\)\
-\-\ no\\:\\ 0\\.002740267995871981\ \(0\)\
-\-\ \\.\\:\\ 0\\.0016958377116566693\ \(0\)\
-\-\ with\\:\\ 0\\.0011178742938524496\ \(0\)\
+Texto: 
+focal tenderness to the posterior medial distal-mid right tibia.
+referred for immediate othopedic consultation and treated with immobilization and non-weight bearing, with a gradual return to activity.
+
+(by report had bilateral tibial stress fractures)
+2-phase focally increased activity with a fusiform configuration on the delayed images oriented in an unusual (for a simple stress fracture) oblique configuration, and appearing to involve the entire cortical diameter.  
+
+zoomed in images of plain radiographs demonstrate periosteal reaction and also endosteal callus formation seen in the posterior-medial cortex of the distal-mid right tibia.  additionally, there is a linear lucency seen in the cortex that is obliquely oriented in relation to the long axis of the shaft.  the corresponds to the abnormality seen on the bone scan.
+
+no abnormality is seen in the left tibia.
+right tibial (completed) stress fracture.
+ddx for 2 or 3-phase focally increased bone scan activity.
+1- trauma (including fracture)
+2- infection
+3- bone tumor
+22 year old woman marine who had been on limited duty for an extended period of time
+this young woman had earlier conservative treatment (restricted activity) for bilateral tibial stress fractures.  because her symptoms had improved, she recently ran for a physical fitness test.  after running that, she had an acute exacerbation of symptoms.
+
+in this particular case, the intense radiotracer uptake is more obliquely oriented in relation to the long axis of the cortex, which suggested a complete fracture of the cortex.  radiographs, performed immediately following the bone scan, demonstrate a visible linear lucency within the posterior medial cortex of the right tibia, indicating a completed stress fracture.  additionally there is periosteal reaction and callous formation seen in the region of the fracture site.
+
+
+Keywords by value: 
+- stress: 0.05965946212971762
+- cortex: 0.05822393510751543
+- distal-mid: 0.05614979887876751
+- tibia: 0.050002156633691015
+- fracture: 0.04305237573769641
+- activity: 0.040841358328427245
+- obliquely: 0.040322367988398077
+- oriented: 0.040037059974670955
+- tibial: 0.03771959210360747
+- focally: 0.036461630386039376
+- relation: 0.03427726891389397
+- completed: 0.03136113455959154
+- configuration: 0.030397879975362727
+- had: 0.029360665911476246
+- axis: 0.028998971636466135
+- posterior-medial: 0.028074899439383755
+- bone: 0.02705012333069898
+- seen: 0.026888974762224366
+- othopedic: 0.025867424342059086
+- 2-phase: 0.025867424342059086
+- zoomed: 0.025867424342059086
+- periosteal: 0.025817480822730842
+- lucency: 0.025001078316845508
+- reaction: 0.024720028604049725
+- additionally: 0.023589367105795893
+- linear: 0.0230736405928426
+- 3-phase: 0.022949300992141396
+- fitness: 0.022949300992141396
+- scan: 0.022856096755729093
+- formation: 0.022466569383897857
+- 3-: 0.022368659091523704
+- ran: 0.022368659091523704
+- 2-: 0.02187773335958976
+- callous: 0.02187773335958976
+- 1-: 0.021452474147409754
+- marine: 0.02107736893831299
+- callus: 0.02074182589481673
+- fractures: 0.020610118458473096
+- abnormality: 0.020079986903379313
+- non-weight: 0.019670258262265095
+- long: 0.0187657421072148
+- gradual: 0.01746278316494043
+- endosteal: 0.01746278316494043
+- medial: 0.017409551041974853
+- corresponds: 0.017351027369363135
+- radiographs: 0.017237393893007217
+- exacerbation: 0.016939525039808976
+- fusiform: 0.01649023014089208
+- shaft: 0.01609655512188833
+- bearing: 0.015746233799549706
+- extended: 0.015746233799549706
+- running: 0.015312691843101998
+- she: 0.015278892620727213
+- consultation: 0.015198939987681364
+- immobilization: 0.014636976811434369
+- particular: 0.014590483819647258
+- intense: 0.014411015868847476
+- ddx: 0.014367685766759007
+- immediate: 0.014241124210550364
+- duty: 0.014200030564576136
+- indicating: 0.01404076170924282
+- for: 0.013932002840306658
+- suggested: 0.013852262118827754
+- return: 0.013779879153612607
+- symptoms: 0.01356469730508369
+- immediately: 0.013505756195742407
+- earlier: 0.013440759789273594
+- simple: 0.013408752350249704
+- entire: 0.013377063398488022
+- increased: 0.013315189692991438
+- bilateral: 0.013209030123021936
+- unusual: 0.013163653493128275
+- improved: 0.012963650622940281
+- visible: 0.012881636304142782
+- involve: 0.012828110449632016
+- period: 0.012723684262297648
+- recently: 0.01269810409765668
+- radiotracer: 0.01269810409765668
+- oblique: 0.01264755203027996
+- woman: 0.012572630238782844
+- posterior: 0.012545468463072921
+- demonstrate: 0.012525172874732744
+- restricted: 0.012524574845159642
+- report: 0.01218180202926039
+- 22: 0.012138764707073374
+- appearing: 0.012096301232966795
+- in: 0.012078264558160173
+- young: 0.011852765041909987
+- test: 0.011626536465105046
+- (: 0.0115025752586602
+- site: 0.011501629735317525
+- right: 0.011485754256183653
+- limited: 0.011484179207404705
+- diameter: 0.011449562416841317
+- ): 0.011362065161039889
+- an: 0.011289791696987864
+- delayed: 0.011076370523137516
+- conservative: 0.010868920516223627
+- uptake: 0.010812049123229975
+- images: 0.010441171286301619
+- referred: 0.01026920841864854
+- a: 0.010104453549518505
+- cortical: 0.00992062054323507
+- including: 0.009826174015901032
+- complete: 0.009577630363012913
+- because: 0.009520758970019262
+- that: 0.009401151137317347
+- the: 0.009245971269987713
+- is: 0.008953674815043403
+- plain: 0.00883841946716269
+- ,: 0.008621339666155648
+- tenderness: 0.008276790837202654
+- her: 0.008182839676703618
+- to: 0.008160537104006107
+- treated: 0.008146021770967704
+- there: 0.00810009908576426
+- infection: 0.007910880809149068
+- focal: 0.007772272624644592
+- following: 0.00772381451242404
+- time: 0.0076866281122271105
+- region: 0.0076866281122271105
+- performed: 0.007587829080341781
+- trauma: 0.007442703126617609
+- been: 0.007403805380458571
+- who: 0.007095440793444911
+- on: 0.006916156169096447
+- more: 0.006806293978701167
+- acute: 0.006719360920721323
+- physical: 0.006676768374462543
+- tumor: 0.006344688858633157
+- this: 0.006121893078433969
+- case: 0.005953835773462646
+- 2: 0.005860205402899829
+- after: 0.005630577078373256
+- treatment: 0.005508334266244863
+- also: 0.005365030553089655
+- within: 0.005191501300592617
+- which: 0.005080078303320219
+- by: 0.004531435997595143
+- of: 0.003339280914592025
+- or: 0.0031895628947888775
+- left: 0.0030449212397226583
+- year: 0.0030449212397226583
+- and: 0.0028663854415958354
+- old: 0.0027864159135740593
+- no: 0.002740267995871981
+- .: 0.0016958377116566693
+- with: 0.0011178742938524496

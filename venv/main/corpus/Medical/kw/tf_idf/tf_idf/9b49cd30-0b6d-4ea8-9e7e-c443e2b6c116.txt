@@ -1,133 +1,136 @@
-\-\ Texto\\:\\ \ \(0\)\
-\-\ afebrile\\,\\ lungs\\ clear\\ to\\ auscultation\\ bilaterally\\,\\ no\\ signs\\ of\\ trauma\\ or\\ palpable\\ mass\ \(0\)\
-\-\ following\\ findings\\ with\\ imaging\ \(0\)\
-\-\ chest\\ x\\-ray\\ demonstrates\\ mass\\ in\\ right\\ upper\\ chest\\.\\ \\ sharp\\ medial\\ border\\ indicates\\ mass\\ abutting\\ lung\\ tissue\\ while\\ indistinct\\ lateral\\ border\\ suggests\\ blending\\ of\\ the\\ mass\\ with\\ pleura\\/chest\\ wall\\.\ \(0\)\
-\-\ chest\\ ct\\ demonstrates\\ a\\ soft\\ tissue\\ mass\\ with\\ fat\\ attenuation\\ and\\ no\\ bony\\ invasion\\.\ \(0\)\
-\-\ chest\\ wall\\ tumors\\ \\-\\ lipoma\ \(0\)\
-\-\ chest\\ wall\\ tumors\\ arising\\ from\\ bony\\ or\\ soft\\ tissue\\:\ \(0\)\
-\-\ \\â\\€\\¢\\ soft\\ tissue\\ tumors\\ \\-\\ benign\ \(0\)\
-\-\ \\ \\Â\\»\\ mole\\,\\ nevus\\,\\ wart\\,\\ neurofibroma\\,\\ lipoma\\,\\ hemangioma\\,\\ desmoid\ \(1\)\
-\-\ \\â\\€\\¢\\ bony\\ tumors\\ \\-\\ benign\ \(0\)\
-\-\ \\ \\Â\\»\\ osteochondroma\\,\\ enchondroma\\,\\ osteoblastoma\ \(1\)\
-\-\ \\â\\€\\¢\\ soft\\ tissue\\ tumors\\ \\-\\ malignant\ \(0\)\
-\-\ \\ \\Â\\»\\ \\ fibrosarcoma\\,\\ liposarcoma\\,\\ metastases\\,\\ melanoma\\,\\ bronchogenic\\ carcinoma\\,\\ primitive\\ neuroectodermal\\ \\(askin\\)\\ tumor\ \(0\)\
-\-\ \\â\\€\\¢\\ bony\\ tumors\\ \\-\\ malignant\ \(0\)\
-\-\ \\ \\Â\\»\\ chondrosarcoma\\,\\ osteogenic\\ sarcoma\\,\\ fibrosarcoma\\,\\ metastases\\ \\(multiple\\ myeloma\\;\\ breast\\,\\ lung\\,\\ kidney\\,\\ or\\ prostate\\ carcinomas\\)\ \(1\)\
-\-\ \\â\\€\\¢\\ non\\-neoplastic\\ tumors\ \(0\)\
-\-\ \\ \\Â\\»\\ fibrous\\ dysplasia\\,\\ eosinophilic\\ granuloma\\,\\ brown\\ tumor\ \(0\)\
-\-\ \\â\\€\\¢\\ infection\\ \\(abscess\\)\\ \\-\\ tuberculosis\\,\\ staphylococcus\ \(0\)\
-\-\ \\â\\€\\¢\\ trauma\\ \\-\\ hematoma\\,\\ healing\\ rib\\ fracture\ \(0\)\
-\-\ 90\\ \\+\\ y\\.o\\.\\ \\ man\\ presenting\\ with\\ new\\ cough\\,\\ no\\ signs\\ nor\\ symptoms\\ of\\ infection\ \(1\)\
-\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
-\-\ tumors\\:\\ 0\\.10854113286808456\ \(0\)\
-\-\ \\Â\\»\\:\\ 0\\.10169923280141079\ \(0\)\
-\-\ bony\\:\\ 0\\.06603585937099024\ \(0\)\
-\-\ \\-\\:\\ 0\\.06194250826550021\ \(0\)\
-\-\ fibrosarcoma\\:\\ 0\\.05967595260242743\ \(0\)\
-\-\ \\â\\€\\¢\\:\\ 0\\.05299082348391891\ \(0\)\
-\-\ chest\\:\\ 0\\.04938958937337001\ \(0\)\
-\-\ tissue\\:\\ 0\\.04892321711238149\ \(0\)\
-\-\ blending\\:\\ 0\\.042587045526408206\ \(0\)\
-\-\ pleura\\/chest\\:\\ 0\\.042587045526408206\ \(0\)\
-\-\ wart\\:\\ 0\\.042587045526408206\ \(0\)\
-\-\ soft\\:\\ 0\\.04021114519794299\ \(0\)\
-\-\ border\\:\\ 0\\.03932933618940336\ \(0\)\
-\-\ lipoma\\:\\ 0\\.038601322303009285\ \(0\)\
-\-\ wall\\:\\ 0\\.03587187130780792\ \(0\)\
-\-\ metastases\\:\\ 0\\.035272777295101296\ \(0\)\
-\-\ askin\\:\\ 0\\.0348119831474995\ \(0\)\
-\-\ \\,\\:\\ 0\\.03400223045144672\ \(0\)\
-\-\ non\\-neoplastic\\:\\ 0\\.033931202679895855\ \(0\)\
-\-\ mole\\:\\ 0\\.03146344604334518\ \(0\)\
-\-\ malignant\\:\\ 0\\.029842228757287932\ \(0\)\
-\-\ osteogenic\\:\\ 0\\.029837976301213716\ \(0\)\
-\-\ neuroectodermal\\:\\ 0\\.0291928971097909\ \(0\)\
-\-\ signs\\:\\ 0\\.029056772309044004\ \(0\)\
-\-\ desmoid\\:\\ 0\\.02890002454062938\ \(0\)\
-\-\ mass\\:\\ 0\\.028706787607429094\ \(0\)\
-\-\ staphylococcus\\:\\ 0\\.028623896937537842\ \(0\)\
-\-\ benign\\:\\ 0\\.02849324026119035\ \(0\)\
-\-\ nevus\\:\\ 0\\.028362702631884337\ \(0\)\
-\-\ abutting\\:\\ 0\\.027654473287962233\ \(0\)\
-\-\ brown\\:\\ 0\\.027234128471587207\ \(0\)\
-\-\ indistinct\\:\\ 0\\.027036920768590808\ \(0\)\
-\-\ osteoblastoma\\:\\ 0\\.027036920768590808\ \(0\)\
-\-\ primitive\\:\\ 0\\.026847448724372055\ \(0\)\
-\-\ carcinomas\\:\\ 0\\.02648943919705939\ \(0\)\
-\-\ liposarcoma\\:\\ 0\\.024888680086168367\ \(0\)\
-\-\ osteochondroma\\:\\ 0\\.024530670558855695\ \(0\)\
-\-\ enchondroma\\:\\ 0\\.024530670558855695\ \(0\)\
-\-\ indicates\\:\\ 0\\.024305936183807907\ \(0\)\
-\-\ infection\\:\\ 0\\.02400016013596915\ \(0\)\
-\-\ myeloma\\:\\ 0\\.02398729865824367\ \(0\)\
-\-\ lung\\:\\ 0\\.023914580871871944\ \(0\)\
-\-\ neurofibroma\\:\\ 0\\.02288879700512453\ \(0\)\
-\-\ trauma\\:\\ 0\\.02257979499283023\ \(0\)\
-\-\ sharp\\:\\ 0\\.022347167545604212\ \(0\)\
-\-\ eosinophilic\\:\\ 0\\.02213242473125236\ \(0\)\
-\-\ nor\\:\\ 0\\.022062913922305017\ \(0\)\
-\-\ prostate\\:\\ 0\\.021926822729229193\ \(0\)\
-\-\ bronchogenic\\:\\ 0\\.021794460535083708\ \(0\)\
-\-\ healing\\:\\ 0\\.02129854674735384\ \(0\)\
-\-\ \\+\\:\\ 0\\.02129854674735384\ \(0\)\
-\-\ melanoma\\:\\ 0\\.021068459554169035\ \(0\)\
-\-\ auscultation\\:\\ 0\\.021012610170588957\ \(0\)\
-\-\ suggests\\:\\ 0\\.020638761554089346\ \(0\)\
-\-\ chondrosarcoma\\:\\ 0\\.020638761554089346\ \(0\)\
-\-\ rib\\:\\ 0\\.020638761554089346\ \(0\)\
-\-\ granuloma\\:\\ 0\\.020291777329107433\ \(0\)\
-\-\ invasion\\:\\ 0\\.019879410909053534\ \(0\)\
-\-\ tuberculosis\\:\\ 0\\.01966466809470168\ \(0\)\
-\-\ 90\\:\\ 0\\.019459066092678515\ \(0\)\
-\-\ tumor\\:\\ 0\\.01924862127160204\ \(0\)\
-\-\ afebrile\\:\\ 0\\.01907238634546336\ \(0\)\
-\-\ x\\-ray\\:\\ 0\\.018611950694234738\ \(0\)\
-\-\ hemangioma\\:\\ 0\\.018445923430929385\ \(0\)\
-\-\ sarcoma\\:\\ 0\\.018381077922078465\ \(0\)\
-\-\ demonstrates\\:\\ 0\\.01803498745558634\ \(0\)\
-\-\ arising\\:\\ 0\\.017088907076019233\ \(0\)\
-\-\ presenting\\:\\ 0\\.01682511898889434\ \(0\)\
-\-\ fibrous\\:\\ 0\\.016687083373222573\ \(0\)\
-\-\ attenuation\\:\\ 0\\.01659720323877313\ \(0\)\
-\-\ dysplasia\\:\\ 0\\.016295172528718378\ \(0\)\
-\-\ cough\\:\\ 0\\.015817656419362666\ \(0\)\
-\-\ lungs\\:\\ 0\\.015631828975750123\ \(0\)\
-\-\ clear\\:\\ 0\\.015263413590080412\ \(0\)\
-\-\ breast\\:\\ 0\\.01522974852092054\ \(0\)\
-\-\ hematoma\\:\\ 0\\.014690661248415893\ \(0\)\
-\-\ palpable\\:\\ 0\\.014631019529467586\ \(0\)\
-\-\ kidney\\:\\ 0\\.014542915241787486\ \(0\)\
-\-\ or\\:\\ 0\\.014514822448749385\ \(0\)\
-\-\ new\\:\\ 0\\.014385449163287722\ \(0\)\
-\-\ bilaterally\\:\\ 0\\.013558962504946393\ \(0\)\
-\-\ medial\\:\\ 0\\.013204345476280443\ \(0\)\
-\-\ abscess\\:\\ 0\\.01305234900547955\ \(0\)\
-\-\ while\\:\\ 0\\.012988643670784122\ \(0\)\
-\-\ fat\\:\\ 0\\.012555131994597261\ \(0\)\
-\-\ no\\:\\ 0\\.012470205082663798\ \(0\)\
-\-\ y\\.o\\:\\ 0\\.011914876485926087\ \(0\)\
-\-\ following\\:\\ 0\\.011716317666189122\ \(0\)\
-\-\ carcinoma\\:\\ 0\\.011700133671574233\ \(0\)\
-\-\ fracture\\:\\ 0\\.010884417054457867\ \(0\)\
-\-\ \\(\\:\\ 0\\.010469010525273341\ \(0\)\
-\-\ \\)\\:\\ 0\\.010341125972656596\ \(0\)\
-\-\ symptoms\\:\\ 0\\.010288200371488594\ \(0\)\
-\-\ upper\\:\\ 0\\.009961741571829557\ \(0\)\
-\-\ \\;\\:\\ 0\\.009784643422476298\ \(0\)\
-\-\ man\\:\\ 0\\.009762955763719803\ \(0\)\
-\-\ imaging\\:\\ 0\\.009671854224423201\ \(0\)\
-\-\ lateral\\:\\ 0\\.008921101669683818\ \(0\)\
-\-\ findings\\:\\ 0\\.008786651863719611\ \(0\)\
-\-\ multiple\\:\\ 0\\.008694714992653473\ \(0\)\
-\-\ from\\:\\ 0\\.006118046923450301\ \(0\)\
-\-\ ct\\:\\ 0\\.0057744137845026225\ \(0\)\
-\-\ \\:\\:\\ 0\\.005460264811549106\ \(0\)\
-\-\ right\\:\\ 0\\.004355708739663848\ \(0\)\
-\-\ with\\:\\ 0\\.002260950262606565\ \(0\)\
-\-\ to\\:\\ 0\\.002063130958661769\ \(0\)\
-\-\ in\\:\\ 0\\.0020357354113055793\ \(0\)\
-\-\ a\\:\\ 0\\.0019159410715874456\ \(0\)\
-\-\ of\\:\\ 0\\.0016884608811302672\ \(0\)\
-\-\ and\\:\\ 0\\.0008696087233440505\ \(0\)\
-\-\ \\.\\:\\ 0\\.0006859813738617637\ \(0\)\
-\-\ the\\:\\ 0\\.0006678709405972261\ \(0\)\
+Texto: 
+afebrile, lungs clear to auscultation bilaterally, no signs of trauma or palpable mass
+following findings with imaging
+chest x-ray demonstrates mass in right upper chest.  sharp medial border indicates mass abutting lung tissue while indistinct lateral border suggests blending of the mass with pleura/chest wall.
+
+chest ct demonstrates a soft tissue mass with fat attenuation and no bony invasion.
+chest wall tumors - lipoma
+chest wall tumors arising from bony or soft tissue:
+â€¢ soft tissue tumors - benign
+ Â» mole, nevus, wart, neurofibroma, lipoma, hemangioma, desmoid
+â€¢ bony tumors - benign
+ Â» osteochondroma, enchondroma, osteoblastoma
+â€¢ soft tissue tumors - malignant
+ Â»  fibrosarcoma, liposarcoma, metastases, melanoma, bronchogenic carcinoma, primitive neuroectodermal (askin) tumor
+â€¢ bony tumors - malignant
+ Â» chondrosarcoma, osteogenic sarcoma, fibrosarcoma, metastases (multiple myeloma; breast, lung, kidney, or prostate carcinomas)
+â€¢ non-neoplastic tumors
+ Â» fibrous dysplasia, eosinophilic granuloma, brown tumor
+â€¢ infection (abscess) - tuberculosis, staphylococcus
+â€¢ trauma - hematoma, healing rib fracture
+90 + y.o.  man presenting with new cough, no signs nor symptoms of infection
+
+
+Keywords by value: 
+- tumors: 0.10854113286808456
+- Â»: 0.10169923280141079
+- bony: 0.06603585937099024
+- -: 0.06194250826550021
+- fibrosarcoma: 0.05967595260242743
+- â€¢: 0.05299082348391891
+- chest: 0.04938958937337001
+- tissue: 0.04892321711238149
+- blending: 0.042587045526408206
+- pleura/chest: 0.042587045526408206
+- wart: 0.042587045526408206
+- soft: 0.04021114519794299
+- border: 0.03932933618940336
+- lipoma: 0.038601322303009285
+- wall: 0.03587187130780792
+- metastases: 0.035272777295101296
+- askin: 0.0348119831474995
+- ,: 0.03400223045144672
+- non-neoplastic: 0.033931202679895855
+- mole: 0.03146344604334518
+- malignant: 0.029842228757287932
+- osteogenic: 0.029837976301213716
+- neuroectodermal: 0.0291928971097909
+- signs: 0.029056772309044004
+- desmoid: 0.02890002454062938
+- mass: 0.028706787607429094
+- staphylococcus: 0.028623896937537842
+- benign: 0.02849324026119035
+- nevus: 0.028362702631884337
+- abutting: 0.027654473287962233
+- brown: 0.027234128471587207
+- indistinct: 0.027036920768590808
+- osteoblastoma: 0.027036920768590808
+- primitive: 0.026847448724372055
+- carcinomas: 0.02648943919705939
+- liposarcoma: 0.024888680086168367
+- osteochondroma: 0.024530670558855695
+- enchondroma: 0.024530670558855695
+- indicates: 0.024305936183807907
+- infection: 0.02400016013596915
+- myeloma: 0.02398729865824367
+- lung: 0.023914580871871944
+- neurofibroma: 0.02288879700512453
+- trauma: 0.02257979499283023
+- sharp: 0.022347167545604212
+- eosinophilic: 0.02213242473125236
+- nor: 0.022062913922305017
+- prostate: 0.021926822729229193
+- bronchogenic: 0.021794460535083708
+- healing: 0.02129854674735384
+- +: 0.02129854674735384
+- melanoma: 0.021068459554169035
+- auscultation: 0.021012610170588957
+- suggests: 0.020638761554089346
+- chondrosarcoma: 0.020638761554089346
+- rib: 0.020638761554089346
+- granuloma: 0.020291777329107433
+- invasion: 0.019879410909053534
+- tuberculosis: 0.01966466809470168
+- 90: 0.019459066092678515
+- tumor: 0.01924862127160204
+- afebrile: 0.01907238634546336
+- x-ray: 0.018611950694234738
+- hemangioma: 0.018445923430929385
+- sarcoma: 0.018381077922078465
+- demonstrates: 0.01803498745558634
+- arising: 0.017088907076019233
+- presenting: 0.01682511898889434
+- fibrous: 0.016687083373222573
+- attenuation: 0.01659720323877313
+- dysplasia: 0.016295172528718378
+- cough: 0.015817656419362666
+- lungs: 0.015631828975750123
+- clear: 0.015263413590080412
+- breast: 0.01522974852092054
+- hematoma: 0.014690661248415893
+- palpable: 0.014631019529467586
+- kidney: 0.014542915241787486
+- or: 0.014514822448749385
+- new: 0.014385449163287722
+- bilaterally: 0.013558962504946393
+- medial: 0.013204345476280443
+- abscess: 0.01305234900547955
+- while: 0.012988643670784122
+- fat: 0.012555131994597261
+- no: 0.012470205082663798
+- y.o: 0.011914876485926087
+- following: 0.011716317666189122
+- carcinoma: 0.011700133671574233
+- fracture: 0.010884417054457867
+- (: 0.010469010525273341
+- ): 0.010341125972656596
+- symptoms: 0.010288200371488594
+- upper: 0.009961741571829557
+- ;: 0.009784643422476298
+- man: 0.009762955763719803
+- imaging: 0.009671854224423201
+- lateral: 0.008921101669683818
+- findings: 0.008786651863719611
+- multiple: 0.008694714992653473
+- from: 0.006118046923450301
+- ct: 0.0057744137845026225
+- :: 0.005460264811549106
+- right: 0.004355708739663848
+- with: 0.002260950262606565
+- to: 0.002063130958661769
+- in: 0.0020357354113055793
+- a: 0.0019159410715874456
+- of: 0.0016884608811302672
+- and: 0.0008696087233440505
+- .: 0.0006859813738617637
+- the: 0.0006678709405972261

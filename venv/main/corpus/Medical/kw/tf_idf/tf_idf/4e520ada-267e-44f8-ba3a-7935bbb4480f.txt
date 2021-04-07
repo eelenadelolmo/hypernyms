@@ -1,33 +1,35 @@
-\-\ Texto\\:\\ \ \(0\)\
-\-\ unknown\ \(157\)\
-\-\ complete\\ occlusion\\ of\\ the\\ left\\ internal\\ carotid\\ artery\ \(0\)\
-\-\ complete\\ occlusion\\ of\\ the\\ left\\ internal\\ carotid\\ artery\ \(0\)\
-\-\ atheromatous\\ plaque\\ disease\ \(0\)\
-\-\ dissection\ \(173\)\
-\-\ vasculitis\ \(67\)\
-\-\ history\\ of\\ transient\\ ischemic\\ attacks\\ \\(right\\ sided\\ arm\\ numbness\\)\ \(0\)\
-\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
-\-\ atheromatous\\:\\ 0\\.26713692193837874\ \(0\)\
-\-\ occlusion\\:\\ 0\\.25828130499187624\ \(0\)\
-\-\ carotid\\:\\ 0\\.2322370789247371\ \(0\)\
-\-\ attacks\\:\\ 0\\.1944734288232766\ \(0\)\
-\-\ complete\\:\\ 0\\.18226520812036695\ \(0\)\
-\-\ internal\\:\\ 0\\.1736288406896225\ \(0\)\
-\-\ plaque\\:\\ 0\\.1561199023586925\ \(0\)\
-\-\ artery\\:\\ 0\\.1542139389156484\ \(0\)\
-\-\ transient\\:\\ 0\\.14017768733151734\ \(0\)\
-\-\ vasculitis\\:\\ 0\\.13251112628715703\ \(0\)\
-\-\ dissection\\:\\ 0\\.12728478506440116\ \(0\)\
-\-\ ischemic\\:\\ 0\\.1261078204184538\ \(0\)\
-\-\ numbness\\:\\ 0\\.12442388553497469\ \(0\)\
-\-\ arm\\:\\ 0\\.10845686245868331\ \(0\)\
-\-\ unknown\\:\\ 0\\.10105695456437899\ \(0\)\
-\-\ sided\\:\\ 0\\.09574323070141351\ \(0\)\
-\-\ left\\:\\ 0\\.057945773895328165\ \(0\)\
-\-\ disease\\:\\ 0\\.04232538003683952\ \(0\)\
-\-\ history\\:\\ 0\\.03576407690021465\ \(0\)\
-\-\ right\\:\\ 0\\.02732217300334596\ \(0\)\
-\-\ \\(\\:\\ 0\\.021889749280116985\ \(0\)\
-\-\ \\)\\:\\ 0\\.02162235430646379\ \(0\)\
-\-\ of\\:\\ 0\\.010591254617998948\ \(0\)\
-\-\ the\\:\\ 0\\.008378744527492472\ \(0\)\
+Texto: 
+unknown
+complete occlusion of the left internal carotid artery
+complete occlusion of the left internal carotid artery
+atheromatous plaque disease
+dissection
+vasculitis
+history of transient ischemic attacks (right sided arm numbness)
+
+
+Keywords by value: 
+- atheromatous: 0.26713692193837874
+- occlusion: 0.25828130499187624
+- carotid: 0.2322370789247371
+- attacks: 0.1944734288232766
+- complete: 0.18226520812036695
+- internal: 0.1736288406896225
+- plaque: 0.1561199023586925
+- artery: 0.1542139389156484
+- transient: 0.14017768733151734
+- vasculitis: 0.13251112628715703
+- dissection: 0.12728478506440116
+- ischemic: 0.1261078204184538
+- numbness: 0.12442388553497469
+- arm: 0.10845686245868331
+- unknown: 0.10105695456437899
+- sided: 0.09574323070141351
+- left: 0.057945773895328165
+- disease: 0.04232538003683952
+- history: 0.03576407690021465
+- right: 0.02732217300334596
+- (: 0.021889749280116985
+- ): 0.02162235430646379
+- of: 0.010591254617998948
+- the: 0.008378744527492472

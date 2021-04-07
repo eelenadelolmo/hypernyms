@@ -1,61 +1,63 @@
-\-\ Texto\\:\\ \ \(0\)\
-\-\ n\\/a\ \(127\)\
-\-\ the\\ patient\\ was\\ later\\ treated\\ with\\ intra\\-articular\\ steroid\\ injections\\ and\\ subsequent\\ surgical\\ core\\ decompression\\.\ \(0\)\
-\-\ frontal\\ radiograph\\ of\\ the\\ pelvis\\ demonstrates\\ central\\ sclerosis\\ of\\ the\\ femoral\\ heads\\ and\\ subtle\\ serpiginous\\ subchondral\\ lucencies\\.\ \(0\)\
-\-\ mr\\ images\\ demonstrate\\ low\\ t1\\ and\\ high\\ t2\\ signal\\ in\\ a\\ linear\\ subchondral\\ pattern\\.\ \(0\)\
-\-\ avascular\\ necrosis\\ of\\ the\\ femoral\\ heads\ \(1\)\
-\-\ avascular\\ necrosis\\ of\\ the\\ femoral\\ heads\\.\ \(0\)\
-\-\ history\\ of\\ progressive\\ bilateral\\ hip\\ pain\\.\ \(0\)\
-\-\ please\\ see\\ factoid\\.\ \(0\)\
-\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
-\-\ heads\\:\\ 0\\.21279173688657996\ \(0\)\
-\-\ femoral\\:\\ 0\\.13360265821823855\ \(0\)\
-\-\ avascular\\:\\ 0\\.12889437150118319\ \(0\)\
-\-\ subchondral\\:\\ 0\\.12287082421041554\ \(0\)\
-\-\ necrosis\\:\\ 0\\.09241371817656724\ \(0\)\
-\-\ serpiginous\\:\\ 0\\.08194938465630523\ \(0\)\
-\-\ intra\\-articular\\:\\ 0\\.07328469207077769\ \(0\)\
-\-\ injections\\:\\ 0\\.07286316250000023\ \(0\)\
-\-\ lucencies\\:\\ 0\\.0702279310938707\ \(0\)\
-\-\ core\\:\\ 0\\.06490384904192847\ \(0\)\
-\-\ decompression\\:\\ 0\\.0619871093536727\ \(0\)\
-\-\ steroid\\:\\ 0\\.061800730558388056\ \(0\)\
-\-\ subtle\\:\\ 0\\.05376944240746225\ \(0\)\
-\-\ please\\:\\ 0\\.05194024524822222\ \(0\)\
-\-\ linear\\:\\ 0\\.04962413113803134\ \(0\)\
-\-\ hip\\:\\ 0\\.04662838865906107\ \(0\)\
-\-\ progressive\\:\\ 0\\.04626628924716853\ \(0\)\
-\-\ subsequent\\:\\ 0\\.0455695986001344\ \(0\)\
-\-\ pattern\\:\\ 0\\.04474578546672984\ \(0\)\
-\-\ pelvis\\:\\ 0\\.04253549872043327\ \(0\)\
-\-\ n\\/a\\:\\ 0\\.04240009105971351\ \(0\)\
-\-\ later\\:\\ 0\\.04226600878072498\ \(0\)\
-\-\ sclerosis\\:\\ 0\\.04204541415652527\ \(0\)\
-\-\ factoid\\:\\ 0\\.04103336292622105\ \(0\)\
-\-\ central\\:\\ 0\\.03851549803917752\ \(0\)\
-\-\ radiograph\\:\\ 0\\.03728696786193647\ \(0\)\
-\-\ mr\\:\\ 0\\.03719451331433471\ \(0\)\
-\-\ t1\\:\\ 0\\.037102678578414296\ \(0\)\
-\-\ frontal\\:\\ 0\\.03677112239018297\ \(0\)\
-\-\ treated\\:\\ 0\\.03503905254909396\ \(0\)\
-\-\ see\\:\\ 0\\.034934482345599836\ \(0\)\
-\-\ t2\\:\\ 0\\.03313135299658016\ \(0\)\
-\-\ low\\:\\ 0\\.03255024729953972\ \(0\)\
-\-\ high\\:\\ 0\\.032034877548997476\ \(0\)\
-\-\ signal\\:\\ 0\\.030864031921544913\ \(0\)\
-\-\ bilateral\\:\\ 0\\.02840846204540334\ \(0\)\
-\-\ demonstrate\\:\\ 0\\.026937700566206035\ \(0\)\
-\-\ demonstrates\\:\\ 0\\.025570153447303918\ \(0\)\
-\-\ surgical\\:\\ 0\\.024605777674677445\ \(0\)\
-\-\ images\\:\\ 0\\.022455669752730875\ \(0\)\
-\-\ history\\:\\ 0\\.016167322434343608\ \(0\)\
-\-\ pain\\:\\ 0\\.01429600229494157\ \(0\)\
-\-\ was\\:\\ 0\\.013538048249502558\ \(0\)\
-\-\ patient\\:\\ 0\\.01173413603995052\ \(0\)\
-\-\ the\\:\\ 0\\.009469129089289438\ \(0\)\
-\-\ of\\:\\ 0\\.007979712383423864\ \(0\)\
-\-\ and\\:\\ 0\\.0073976303725569225\ \(0\)\
-\-\ in\\:\\ 0\\.005772564796441848\ \(0\)\
-\-\ a\\:\\ 0\\.005432873997515086\ \(0\)\
-\-\ \\.\\:\\ 0\\.002917770090192844\ \(0\)\
-\-\ with\\:\\ 0\\.0016027969327382155\ \(0\)\
+Texto: 
+n/a
+the patient was later treated with intra-articular steroid injections and subsequent surgical core decompression.
+frontal radiograph of the pelvis demonstrates central sclerosis of the femoral heads and subtle serpiginous subchondral lucencies.
+mr images demonstrate low t1 and high t2 signal in a linear subchondral pattern.
+avascular necrosis of the femoral heads
+avascular necrosis of the femoral heads.
+history of progressive bilateral hip pain.
+please see factoid.
+
+
+Keywords by value: 
+- heads: 0.21279173688657996
+- femoral: 0.13360265821823855
+- avascular: 0.12889437150118319
+- subchondral: 0.12287082421041554
+- necrosis: 0.09241371817656724
+- serpiginous: 0.08194938465630523
+- intra-articular: 0.07328469207077769
+- injections: 0.07286316250000023
+- lucencies: 0.0702279310938707
+- core: 0.06490384904192847
+- decompression: 0.0619871093536727
+- steroid: 0.061800730558388056
+- subtle: 0.05376944240746225
+- please: 0.05194024524822222
+- linear: 0.04962413113803134
+- hip: 0.04662838865906107
+- progressive: 0.04626628924716853
+- subsequent: 0.0455695986001344
+- pattern: 0.04474578546672984
+- pelvis: 0.04253549872043327
+- n/a: 0.04240009105971351
+- later: 0.04226600878072498
+- sclerosis: 0.04204541415652527
+- factoid: 0.04103336292622105
+- central: 0.03851549803917752
+- radiograph: 0.03728696786193647
+- mr: 0.03719451331433471
+- t1: 0.037102678578414296
+- frontal: 0.03677112239018297
+- treated: 0.03503905254909396
+- see: 0.034934482345599836
+- t2: 0.03313135299658016
+- low: 0.03255024729953972
+- high: 0.032034877548997476
+- signal: 0.030864031921544913
+- bilateral: 0.02840846204540334
+- demonstrate: 0.026937700566206035
+- demonstrates: 0.025570153447303918
+- surgical: 0.024605777674677445
+- images: 0.022455669752730875
+- history: 0.016167322434343608
+- pain: 0.01429600229494157
+- was: 0.013538048249502558
+- patient: 0.01173413603995052
+- the: 0.009469129089289438
+- of: 0.007979712383423864
+- and: 0.0073976303725569225
+- in: 0.005772564796441848
+- a: 0.005432873997515086
+- .: 0.002917770090192844
+- with: 0.0016027969327382155

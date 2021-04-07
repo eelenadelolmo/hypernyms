@@ -1,184 +1,187 @@
-\-\ Texto\\:\\ \ \(0\)\
-\-\ gen\\ \\-\\ well\\-appearing\\ elderly\\ gentleman\\ in\\ no\\ acute\\ distress\\.\ \(0\)\
-\-\ heent\\ \\-\\ normocephalic\\,\\ atraumatic\\,\\ perrla\\,\\ eomi\\,\\ op\\ clear\ \(0\)\
-\-\ neck\\ \\-\\ supple\\,\\ nontender\\,\\ no\\ lymphadenopathy\ \(0\)\
-\-\ chest\\ \\-\\ clear\\ to\\ auscultation\\ bilaterally\ \(0\)\
-\-\ cv\\ \\-\\ regular\\ rate\\ and\\ rhythm\\,\\ no\\ rubs\\ or\\ murmurs\ \(0\)\
-\-\ abd\\ \\-\\ bowel\\ sounds\\ present\\,\\ palpable\\ pulsatile\\ abdominal\\ mass\\,\\ no\\ organomegally\ \(0\)\
-\-\ blood\\ pressure\\ control\\ and\\ stent\\-graft\\ repair\\.\ \(0\)\
-\-\ contrast\\ enhanced\\ ct\\ scan\\ of\\ the\\ abdomen\\.\\ a\\ moderate\\ degree\\ of\\ atherosclerotic\\ calcifications\\ are\\ noted\\ involving\\ the\\ aorta\\.\\ in\\ addition\\,\\ there\\ is\\ a\\ large\\ infrarenal\\ abdominal\\ aortic\\ aneurysm\\ measuring\\ 6\\ cm\\ in\\ widest\\ diameter\\,\\ with\\ peripheral\\ atherosclerotic\\ calcification\\ and\\ wall\\ thickening\\.\\ there\\ is\\ no\\ plaque\\ alteration\\ identified\\ and\\ there\\ is\\ no\\ abdominal\\ hemorrhage\\ noted\\.\\ bilateral\\ renal\\ cysts\\ are\\ noted\\.\\ there\\ is\\ no\\ stone\\ or\\ solid\\ mass\\ identified\\ in\\ either\\ kidney\\.\\ the\\ adrenal\\ glands\\,\\ pancreas\\,\\ spleen\\ and\\ small\\ bowel\\ loops\\ are\\ within\\ normal\\ limits\\.\\ numerous\\ small\\ cystic\\ structures\\ are\\ noted\\ in\\ the\\ right\\ and\\ left\\ lobes\\ of\\ the\\ liver\\.\\ there\\ is\\ diffuse\\ osteopenia\\ without\\ evidence\\ of\\ focal\\ bony\\ lesion\\.\ \(0\)\
-\-\ infrarenal\\ abdominal\\ aortic\\ aneurysm\ \(4\)\
-\-\ aaa\\ etiologies\\:\ \(0\)\
-\-\ \\<li\\>atherosclerosis\ \(0\)\
-\-\ \\<li\\>cystic\\ medial\\ necrosis\ \(0\)\
-\-\ \\<li\\>infection\\ \\(salmonella\\ and\\ syphilis\\)\ \(0\)\
-\-\ \\<li\\>connective\\ tissue\\ disorder\\ \\(marfan\\'s\\ and\\ ehlers\\-danlos\\)\ \(0\)\
-\-\ aaa\\ risk\\ factors\\:\ \(0\)\
-\-\ \\<li\\>smoking\ \(0\)\
-\-\ \\<li\\>male\ \(0\)\
-\-\ \\<li\\>white\ \(0\)\
-\-\ \\<li\\>atherosclerosis\\ especially\\ peripheral\\ vascular\\ disease\ \(0\)\
-\-\ \\<li\\>hypertension\ \(0\)\
-\-\ \\<li\\>family\\ history\\ of\\ aortic\\ aneurysm\ \(0\)\
-\-\ \\<li\\>femoral\\ or\\ popiliteal\\ aneurysms\ \(0\)\
-\-\ 71\\ y\\/o\\ cm\\ with\\ known\\ 6\\.4\\ cm\\ aaa\\ with\\ apparent\\ short\\ neck\\.\\ history\\ of\\ hypertension\\,\\ tobacco\\ use\\ and\\ known\\ coronary\\ artery\\ disease\\.\ \(0\)\
-\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
-\-\ li\\:\\ 0\\.17034429937475173\ \(0\)\
-\-\ \\<\\:\\ 0\\.12339700953237992\ \(0\)\
-\-\ \\>\\:\\ 0\\.10622735599100071\ \(0\)\
-\-\ aaa\\:\\ 0\\.0630251132076657\ \(0\)\
-\-\ infrarenal\\:\\ 0\\.04110836531786882\ \(0\)\
-\-\ \\-\\:\\ 0\\.03738221344302783\ \(0\)\
-\-\ atherosclerosis\\:\\ 0\\.03660905591483913\ \(0\)\
-\-\ aortic\\:\\ 0\\.03529522601320903\ \(0\)\
-\-\ atherosclerotic\\:\\ 0\\.034875095033010624\ \(0\)\
-\-\ aneurysm\\:\\ 0\\.03446366443921737\ \(0\)\
-\-\ popiliteal\\:\\ 0\\.029984756544103736\ \(0\)\
-\-\ abdominal\\:\\ 0\\.02906012568873626\ \(0\)\
-\-\ organomegally\\:\\ 0\\.027627113072811404\ \(0\)\
-\-\ widest\\:\\ 0\\.027627113072811404\ \(0\)\
-\-\ noted\\:\\ 0\\.027556750863300592\ \(0\)\
-\-\ stent\\-graft\\:\\ 0\\.025269469601519073\ \(0\)\
-\-\ cm\\:\\ 0\\.02338730732466312\ \(0\)\
-\-\ well\\-appearing\\:\\ 0\\.023366014540514235\ \(0\)\
-\-\ 6\\.4\\:\\ 0\\.023366014540514235\ \(0\)\
-\-\ hypertension\\:\\ 0\\.022916877906804\ \(0\)\
-\-\ salmonella\\:\\ 0\\.022152834459089974\ \(0\)\
-\-\ there\\:\\ 0\\.021627815586139264\ \(0\)\
-\-\ clear\\:\\ 0\\.021493378320725478\ \(0\)\
-\-\ peripheral\\:\\ 0\\.021033560013701477\ \(0\)\
-\-\ ehlers\\-danlos\\:\\ 0\\.021008371069221904\ \(0\)\
-\-\ identified\\:\\ 0\\.020771884633920552\ \(0\)\
-\-\ gentleman\\:\\ 0\\.02055418265893441\ \(0\)\
-\-\ no\\:\\ 0\\.020486765492947666\ \(0\)\
-\-\ op\\:\\ 0\\.01962923804844583\ \(0\)\
-\-\ alteration\\:\\ 0\\.01962923804844583\ \(0\)\
-\-\ marfan\\:\\ 0\\.01962923804844583\ \(0\)\
-\-\ syphilis\\:\\ 0\\.019471006702748917\ \(0\)\
-\-\ pulsatile\\:\\ 0\\.019036199316660875\ \(0\)\
-\-\ perrla\\:\\ 0\\.018774427067898534\ \(0\)\
-\-\ atraumatic\\:\\ 0\\.01865072759792957\ \(0\)\
-\-\ known\\:\\ 0\\.01839490533648857\ \(0\)\
-\-\ bowel\\:\\ 0\\.018230976414182035\ \(0\)\
-\-\ supple\\:\\ 0\\.01799033299098754\ \(0\)\
-\-\ eomi\\:\\ 0\\.017891735926792805\ \(0\)\
-\-\ normocephalic\\:\\ 0\\.017795916617382272\ \(0\)\
-\-\ plaque\\:\\ 0\\.017523662509649155\ \(0\)\
-\-\ tobacco\\:\\ 0\\.017523662509649155\ \(0\)\
-\-\ aneurysms\\:\\ 0\\.017437547516505312\ \(0\)\
-\-\ glands\\:\\ 0\\.0172715945771535\ \(0\)\
-\-\ elderly\\:\\ 0\\.017113363231456586\ \(0\)\
-\-\ connective\\:\\ 0\\.017113363231456586\ \(0\)\
-\-\ neck\\:\\ 0\\.017069681204207363\ \(0\)\
-\-\ osteopenia\\:\\ 0\\.01688901640223279\ \(0\)\
-\-\ 71\\:\\ 0\\.01681740616686601\ \(0\)\
-\-\ cystic\\:\\ 0\\.016766208892869103\ \(0\)\
-\-\ rubs\\:\\ 0\\.016678555845368544\ \(0\)\
-\-\ coronary\\:\\ 0\\.01635437156031982\ \(0\)\
-\-\ cv\\:\\ 0\\.01611558156483258\ \(0\)\
-\-\ etiologies\\:\\ 0\\.01611558156483258\ \(0\)\
-\-\ gen\\:\\ 0\\.016002192380248935\ \(0\)\
-\-\ are\\:\\ 0\\.015848624116049002\ \(0\)\
-\-\ murmurs\\:\\ 0\\.01563268951969521\ \(0\)\
-\-\ spleen\\:\\ 0\\.01563268951969521\ \(0\)\
-\-\ abd\\:\\ 0\\.01539135708441533\ \(0\)\
-\-\ rhythm\\:\\ 0\\.015079904045212979\ \(0\)\
-\-\ nontender\\:\\ 0\\.01491395110586117\ \(0\)\
-\-\ pancreas\\:\\ 0\\.01487369784855844\ \(0\)\
-\-\ auscultation\\:\\ 0\\.014794592875210594\ \(0\)\
-\-\ adrenal\\:\\ 0\\.014717285898756321\ \(0\)\
-\-\ smoking\\:\\ 0\\.014679281474953175\ \(0\)\
-\-\ stone\\:\\ 0\\.014459762695573681\ \(0\)\
-\-\ loops\\:\\ 0\\.014253556498919137\ \(0\)\
-\-\ heent\\:\\ 0\\.014059140125313872\ \(0\)\
-\-\ short\\:\\ 0\\.013700771024436913\ \(0\)\
-\-\ degree\\:\\ 0\\.013616782546238368\ \(0\)\
-\-\ regular\\:\\ 0\\.013402452723691656\ \(0\)\
-\-\ small\\:\\ 0\\.0133916686012321\ \(0\)\
-\-\ control\\:\\ 0\\.013250127544688343\ \(0\)\
-\-\ disorder\\:\\ 0\\.013057090753557562\ \(0\)\
-\-\ factors\\:\\ 0\\.013057090753557562\ \(0\)\
-\-\ numerous\\:\\ 0\\.013033713613123\ \(0\)\
-\-\ \\,\\:\\ 0\\.012890955500823208\ \(0\)\
-\-\ apparent\\:\\ 0\\.012852264699159418\ \(0\)\
-\-\ lobes\\:\\ 0\\.012808375567064493\ \(0\)\
-\-\ either\\:\\ 0\\.012659075588978693\ \(0\)\
-\-\ aorta\\:\\ 0\\.01247627192909199\ \(0\)\
-\-\ enhanced\\:\\ 0\\.012436949403918263\ \(0\)\
-\-\ lymphadenopathy\\:\\ 0\\.01235964242746399\ \(0\)\
-\-\ addition\\:\\ 0\\.012321638003660844\ \(0\)\
-\-\ distress\\:\\ 0\\.012246879817542558\ \(0\)\
-\-\ diameter\\:\\ 0\\.012228444213905352\ \(0\)\
-\-\ limits\\:\\ 0\\.011980318364768728\ \(0\)\
-\-\ especially\\:\\ 0\\.011963268902783883\ \(0\)\
-\-\ family\\:\\ 0\\.011912627363689492\ \(0\)\
-\-\ repair\\:\\ 0\\.011639084617735159\ \(0\)\
-\-\ measuring\\:\\ 0\\.011623658919893691\ \(0\)\
-\-\ bony\\:\\ 0\\.011623658919893691\ \(0\)\
-\-\ sounds\\:\\ 0\\.01159301582485163\ \(0\)\
-\-\ solid\\:\\ 0\\.01159301582485163\ \(0\)\
-\-\ use\\:\\ 0\\.011487888146405792\ \(0\)\
-\-\ necrosis\\:\\ 0\\.011473131678383349\ \(0\)\
-\-\ moderate\\:\\ 0\\.011429242546288423\ \(0\)\
-\-\ pressure\\:\\ 0\\.011414737788511358\ \(0\)\
-\-\ cysts\\:\\ 0\\.011385912526637301\ \(0\)\
-\-\ rate\\:\\ 0\\.01132898466148246\ \(0\)\
-\-\ structures\\:\\ 0\\.011190698928009233\ \(0\)\
-\-\ femoral\\:\\ 0\\.011057816383142191\ \(0\)\
-\-\ calcifications\\:\\ 0\\.010806679437526369\ \(0\)\
-\-\ calcification\\:\\ 0\\.010550291219241935\ \(0\)\
-\-\ risk\\:\\ 0\\.010527913766527505\ \(0\)\
-\-\ palpable\\:\\ 0\\.010301432117686362\ \(0\)\
-\-\ kidney\\:\\ 0\\.010239399506972821\ \(0\)\
-\-\ or\\:\\ 0\\.010219619887384769\ \(0\)\
-\-\ involving\\:\\ 0\\.010198664163276508\ \(0\)\
-\-\ liver\\:\\ 0\\.010021161601471849\ \(0\)\
-\-\ thickening\\:\\ 0\\.009852464522766502\ \(0\)\
-\-\ hemorrhage\\:\\ 0\\.00967434212304774\ \(0\)\
-\-\ white\\:\\ 0\\.009639810247319788\ \(0\)\
-\-\ is\\:\\ 0\\.009562768339876288\ \(0\)\
-\-\ bilaterally\\:\\ 0\\.009546616457564296\ \(0\)\
-\-\ vascular\\:\\ 0\\.009529943088175839\ \(0\)\
-\-\ disease\\:\\ 0\\.009501615926637444\ \(0\)\
-\-\ medial\\:\\ 0\\.009296937121054599\ \(0\)\
-\-\ diffuse\\:\\ 0\\.008799344967262975\ \(0\)\
-\-\ renal\\:\\ 0\\.008732910032170303\ \(0\)\
-\-\ 6\\:\\ 0\\.008680680821002974\ \(0\)\
-\-\ artery\\:\\ 0\\.00865486391873537\ \(0\)\
-\-\ abdomen\\:\\ 0\\.008610150554066994\ \(0\)\
-\-\ infection\\:\\ 0\\.008449035966234038\ \(0\)\
-\-\ wall\\:\\ 0\\.008418908572240633\ \(0\)\
-\-\ focal\\:\\ 0\\.008300998653531979\ \(0\)\
-\-\ scan\\:\\ 0\\.008136977756574756\ \(0\)\
-\-\ mass\\:\\ 0\\.008084768754745337\ \(0\)\
-\-\ y\\/o\\:\\ 0\\.008049758604828709\ \(0\)\
-\-\ history\\:\\ 0\\.008028670324537981\ \(0\)\
-\-\ blood\\:\\ 0\\.00793337099492959\ \(0\)\
-\-\ \\:\\:\\ 0\\.007688944326467109\ \(0\)\
-\-\ evidence\\:\\ 0\\.007620553004649244\ \(0\)\
-\-\ acute\\:\\ 0\\.007176460303083317\ \(0\)\
-\-\ in\\:\\ 0\\.007166619560208418\ \(0\)\
-\-\ bilateral\\:\\ 0\\.007053801800389265\ \(0\)\
-\-\ chest\\:\\ 0\\.006954860544413329\ \(0\)\
-\-\ tissue\\:\\ 0\\.006889187715825148\ \(0\)\
-\-\ without\\:\\ 0\\.006843582198497143\ \(0\)\
-\-\ present\\:\\ 0\\.006564655625617962\ \(0\)\
-\-\ contrast\\:\\ 0\\.006506039751047297\ \(0\)\
-\-\ \\'s\\:\\ 0\\.006408321831180425\ \(0\)\
-\-\ large\\:\\ 0\\.006355586502826802\ \(0\)\
-\-\ lesion\\:\\ 0\\.005920255870749846\ \(0\)\
-\-\ within\\:\\ 0\\.005544664654374427\ \(0\)\
-\-\ and\\:\\ 0\\.00551047976731281\ \(0\)\
-\-\ male\\:\\ 0\\.005255801149277119\ \(0\)\
-\-\ \\(\\:\\ 0\\.0049140253485976905\ \(0\)\
-\-\ \\)\\:\\ 0\\.0048539979055326875\ \(0\)\
-\-\ normal\\:\\ 0\\.004556504947615989\ \(0\)\
-\-\ ct\\:\\ 0\\.0040656586850069485\ \(0\)\
-\-\ left\\:\\ 0\\.0032520587390235194\ \(0\)\
-\-\ right\\:\\ 0\\.00306677452078373\ \(0\)\
-\-\ a\\:\\ 0\\.002697957835500689\ \(0\)\
-\-\ of\\:\\ 0\\.0023776285877140494\ \(0\)\
-\-\ the\\:\\ 0\\.0023511783112861533\ \(0\)\
-\-\ \\.\\:\\ 0\\.001569707378454087\ \(0\)\
-\-\ to\\:\\ 0\\.001452612613751654\ \(0\)\
-\-\ with\\:\\ 0\\.0011939201641825482\ \(0\)\
+Texto: 
+gen - well-appearing elderly gentleman in no acute distress.
+heent - normocephalic, atraumatic, perrla, eomi, op clear
+neck - supple, nontender, no lymphadenopathy
+chest - clear to auscultation bilaterally
+cv - regular rate and rhythm, no rubs or murmurs
+abd - bowel sounds present, palpable pulsatile abdominal mass, no organomegally
+blood pressure control and stent-graft repair.
+contrast enhanced ct scan of the abdomen. a moderate degree of atherosclerotic calcifications are noted involving the aorta. in addition, there is a large infrarenal abdominal aortic aneurysm measuring 6 cm in widest diameter, with peripheral atherosclerotic calcification and wall thickening. there is no plaque alteration identified and there is no abdominal hemorrhage noted. bilateral renal cysts are noted. there is no stone or solid mass identified in either kidney. the adrenal glands, pancreas, spleen and small bowel loops are within normal limits. numerous small cystic structures are noted in the right and left lobes of the liver. there is diffuse osteopenia without evidence of focal bony lesion.
+infrarenal abdominal aortic aneurysm
+aaa etiologies:
+<li>atherosclerosis
+<li>cystic medial necrosis
+<li>infection (salmonella and syphilis)
+<li>connective tissue disorder (marfan's and ehlers-danlos)
+
+aaa risk factors:
+<li>smoking
+<li>male
+<li>white
+<li>atherosclerosis especially peripheral vascular disease
+<li>hypertension
+<li>family history of aortic aneurysm
+<li>femoral or popiliteal aneurysms
+71 y/o cm with known 6.4 cm aaa with apparent short neck. history of hypertension, tobacco use and known coronary artery disease.
+
+
+Keywords by value: 
+- li: 0.17034429937475173
+- <: 0.12339700953237992
+- >: 0.10622735599100071
+- aaa: 0.0630251132076657
+- infrarenal: 0.04110836531786882
+- -: 0.03738221344302783
+- atherosclerosis: 0.03660905591483913
+- aortic: 0.03529522601320903
+- atherosclerotic: 0.034875095033010624
+- aneurysm: 0.03446366443921737
+- popiliteal: 0.029984756544103736
+- abdominal: 0.02906012568873626
+- organomegally: 0.027627113072811404
+- widest: 0.027627113072811404
+- noted: 0.027556750863300592
+- stent-graft: 0.025269469601519073
+- cm: 0.02338730732466312
+- well-appearing: 0.023366014540514235
+- 6.4: 0.023366014540514235
+- hypertension: 0.022916877906804
+- salmonella: 0.022152834459089974
+- there: 0.021627815586139264
+- clear: 0.021493378320725478
+- peripheral: 0.021033560013701477
+- ehlers-danlos: 0.021008371069221904
+- identified: 0.020771884633920552
+- gentleman: 0.02055418265893441
+- no: 0.020486765492947666
+- op: 0.01962923804844583
+- alteration: 0.01962923804844583
+- marfan: 0.01962923804844583
+- syphilis: 0.019471006702748917
+- pulsatile: 0.019036199316660875
+- perrla: 0.018774427067898534
+- atraumatic: 0.01865072759792957
+- known: 0.01839490533648857
+- bowel: 0.018230976414182035
+- supple: 0.01799033299098754
+- eomi: 0.017891735926792805
+- normocephalic: 0.017795916617382272
+- plaque: 0.017523662509649155
+- tobacco: 0.017523662509649155
+- aneurysms: 0.017437547516505312
+- glands: 0.0172715945771535
+- elderly: 0.017113363231456586
+- connective: 0.017113363231456586
+- neck: 0.017069681204207363
+- osteopenia: 0.01688901640223279
+- 71: 0.01681740616686601
+- cystic: 0.016766208892869103
+- rubs: 0.016678555845368544
+- coronary: 0.01635437156031982
+- cv: 0.01611558156483258
+- etiologies: 0.01611558156483258
+- gen: 0.016002192380248935
+- are: 0.015848624116049002
+- murmurs: 0.01563268951969521
+- spleen: 0.01563268951969521
+- abd: 0.01539135708441533
+- rhythm: 0.015079904045212979
+- nontender: 0.01491395110586117
+- pancreas: 0.01487369784855844
+- auscultation: 0.014794592875210594
+- adrenal: 0.014717285898756321
+- smoking: 0.014679281474953175
+- stone: 0.014459762695573681
+- loops: 0.014253556498919137
+- heent: 0.014059140125313872
+- short: 0.013700771024436913
+- degree: 0.013616782546238368
+- regular: 0.013402452723691656
+- small: 0.0133916686012321
+- control: 0.013250127544688343
+- disorder: 0.013057090753557562
+- factors: 0.013057090753557562
+- numerous: 0.013033713613123
+- ,: 0.012890955500823208
+- apparent: 0.012852264699159418
+- lobes: 0.012808375567064493
+- either: 0.012659075588978693
+- aorta: 0.01247627192909199
+- enhanced: 0.012436949403918263
+- lymphadenopathy: 0.01235964242746399
+- addition: 0.012321638003660844
+- distress: 0.012246879817542558
+- diameter: 0.012228444213905352
+- limits: 0.011980318364768728
+- especially: 0.011963268902783883
+- family: 0.011912627363689492
+- repair: 0.011639084617735159
+- measuring: 0.011623658919893691
+- bony: 0.011623658919893691
+- sounds: 0.01159301582485163
+- solid: 0.01159301582485163
+- use: 0.011487888146405792
+- necrosis: 0.011473131678383349
+- moderate: 0.011429242546288423
+- pressure: 0.011414737788511358
+- cysts: 0.011385912526637301
+- rate: 0.01132898466148246
+- structures: 0.011190698928009233
+- femoral: 0.011057816383142191
+- calcifications: 0.010806679437526369
+- calcification: 0.010550291219241935
+- risk: 0.010527913766527505
+- palpable: 0.010301432117686362
+- kidney: 0.010239399506972821
+- or: 0.010219619887384769
+- involving: 0.010198664163276508
+- liver: 0.010021161601471849
+- thickening: 0.009852464522766502
+- hemorrhage: 0.00967434212304774
+- white: 0.009639810247319788
+- is: 0.009562768339876288
+- bilaterally: 0.009546616457564296
+- vascular: 0.009529943088175839
+- disease: 0.009501615926637444
+- medial: 0.009296937121054599
+- diffuse: 0.008799344967262975
+- renal: 0.008732910032170303
+- 6: 0.008680680821002974
+- artery: 0.00865486391873537
+- abdomen: 0.008610150554066994
+- infection: 0.008449035966234038
+- wall: 0.008418908572240633
+- focal: 0.008300998653531979
+- scan: 0.008136977756574756
+- mass: 0.008084768754745337
+- y/o: 0.008049758604828709
+- history: 0.008028670324537981
+- blood: 0.00793337099492959
+- :: 0.007688944326467109
+- evidence: 0.007620553004649244
+- acute: 0.007176460303083317
+- in: 0.007166619560208418
+- bilateral: 0.007053801800389265
+- chest: 0.006954860544413329
+- tissue: 0.006889187715825148
+- without: 0.006843582198497143
+- present: 0.006564655625617962
+- contrast: 0.006506039751047297
+- 's: 0.006408321831180425
+- large: 0.006355586502826802
+- lesion: 0.005920255870749846
+- within: 0.005544664654374427
+- and: 0.00551047976731281
+- male: 0.005255801149277119
+- (: 0.0049140253485976905
+- ): 0.0048539979055326875
+- normal: 0.004556504947615989
+- ct: 0.0040656586850069485
+- left: 0.0032520587390235194
+- right: 0.00306677452078373
+- a: 0.002697957835500689
+- of: 0.0023776285877140494
+- the: 0.0023511783112861533
+- .: 0.001569707378454087
+- to: 0.001452612613751654
+- with: 0.0011939201641825482

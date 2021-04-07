@@ -1,113 +1,116 @@
-\-\ Texto\\:\\ \ \(0\)\
-\-\ patient\\ was\\ noted\\ to\\ have\\ decreased\\ lower\\ extremity\\ distal\\ pulses\\ bilaterally\\ prior\\ to\\ arteriogram\\.\ \(0\)\
-\-\ patient\\ was\\ referred\\ to\\ vascular\\ surgery\\ for\\ further\\ management\\.\\ he\\ underwent\\ right\\ popliteal\\-popliteal\\ artery\\ bypass\\ and\\ left\\ gastrocnemius\\ release\\.\\ he\\ did\\ well\\ and\\ returned\\ to\\ duty\\.\ \(0\)\
-\-\ arteriogram\\ images\\ with\\ feet\\ in\\ neutral\\ position\\ demonstrate\\ occlusion\\ of\\ right\\ popliteal\\ artery\\ above\\ the\\ knee\\ with\\ distal\\ reconstitution\\ by\\ sural\\ artery\\.\\ the\\ left\\ popliteal\\ artery\\ was\\ deviated\\ laterally\\.\\ provocative\\ maneuvers\\ demonstrate\\ positional\\ occlusion\\ of\\ bilateral\\ popliteal\\ arteries\\.\ \(0\)\
-\-\ popliteal\\ artery\\ entrapment\\ syndrome\\ \\(bilateral\\)\ \(0\)\
-\-\ bilateral\\ popliteal\\ artery\\ entrapment\\ syndrome\ \(1\)\
-\-\ cystic\\ adventitial\\ disease\ \(1\)\
-\-\ patient\\ is\\ a\\ 22y\\ male\\ soldier\\ who\\ presents\\ with\\ recurrent\\ right\\ leg\\ pain\\ during\\ running\\.\ \(0\)\
-\-\ popliteal\\ artery\\ entrapment\\ syndrome\\ is\\ an\\ unusual\\ cause\\ of\\ claudication\\.\\ originally\\ described\\ by\\ a\\ medical\\ student\\ in\\ 1879\\,\\ it\\ is\\ caused\\ by\\ anomalous\\ insertion\\ of\\ muscles\\ \\(typically\\ the\\ medial\\ head\\ of\\ the\\ gastrocnemius\\)\\ in\\ the\\ popliteal\\ space\\.\\ there\\ is\\ also\\ a\\ purely\\ functional\\ variant\\ of\\ popliteal\\ artery\\ entrapment\\ syndrome\\.\\ popliteal\\ artery\\ entrapment\\ is\\ bilateral\\ in\\ 15\\-40\\%\\ of\\ cases\\.\ \(0\)\
-\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
-\-\ popliteal\\:\\ 0\\.25605159548440115\ \(0\)\
-\-\ entrapment\\:\\ 0\\.14298353053083168\ \(0\)\
-\-\ artery\\:\\ 0\\.1258284062031527\ \(0\)\
-\-\ arteriogram\\:\\ 0\\.07157069594475222\ \(0\)\
-\-\ gastrocnemius\\:\\ 0\\.06290632934734267\ \(0\)\
-\-\ syndrome\\:\\ 0\\.05371223245570641\ \(0\)\
-\-\ popliteal\\-popliteal\\:\\ 0\\.04843691441739835\ \(0\)\
-\-\ 22y\\:\\ 0\\.04843691441739835\ \(0\)\
-\-\ 1879\\:\\ 0\\.04843691441739835\ \(0\)\
-\-\ occlusion\\:\\ 0\\.04683122563039514\ \(0\)\
-\-\ bilateral\\:\\ 0\\.04557841163328449\ \(0\)\
-\-\ adventitial\\:\\ 0\\.040819912433223124\ \(0\)\
-\-\ 15\\-40\\:\\ 0\\.040819912433223124\ \(0\)\
-\-\ provocative\\:\\ 0\\.039593848964463725\ \(0\)\
-\-\ purely\\:\\ 0\\.039593848964463725\ \(0\)\
-\-\ sural\\:\\ 0\\.03774510041159992\ \(0\)\
-\-\ claudication\\:\\ 0\\.03701141144113551\ \(0\)\
-\-\ student\\:\\ 0\\.03701141144113551\ \(0\)\
-\-\ maneuvers\\:\\ 0\\.036364251904561974\ \(0\)\
-\-\ reconstitution\\:\\ 0\\.03578534797237611\ \(0\)\
-\-\ positional\\:\\ 0\\.03478358117680493\ \(0\)\
-\-\ deviated\\:\\ 0\\.03355751770804554\ \(0\)\
-\-\ release\\:\\ 0\\.03286980813137518\ \(0\)\
-\-\ neutral\\:\\ 0\\.0319768469802885\ \(0\)\
-\-\ soldier\\:\\ 0\\.029568852854293146\ \(0\)\
-\-\ bypass\\:\\ 0\\.029061307139287566\ \(0\)\
-\-\ anomalous\\:\\ 0\\.027400423227897822\ \(0\)\
-\-\ originally\\:\\ 0\\.026519419656056177\ \(0\)\
-\-\ running\\:\\ 0\\.026418600212824328\ \(0\)\
-\-\ laterally\\:\\ 0\\.026319597435337082\ \(0\)\
-\-\ he\\:\\ 0\\.026199860901461754\ \(0\)\
-\-\ functional\\:\\ 0\\.025849695383479053\ \(0\)\
-\-\ distal\\:\\ 0\\.025530533944461836\ \(0\)\
-\-\ insertion\\:\\ 0\\.025416833417253145\ \(0\)\
-\-\ duty\\:\\ 0\\.024498953831191796\ \(0\)\
-\-\ pulses\\:\\ 0\\.024291589391725602\ \(0\)\
-\-\ returned\\:\\ 0\\.02402674267844056\ \(0\)\
-\-\ feet\\:\\ 0\\.02402674267844056\ \(0\)\
-\-\ by\\:\\ 0\\.023453915987552882\ \(0\)\
-\-\ unusual\\:\\ 0\\.022710918663968564\ \(0\)\
-\-\ variant\\:\\ 0\\.022365858767050814\ \(0\)\
-\-\ demonstrate\\:\\ 0\\.021609364190472977\ \(0\)\
-\-\ muscles\\:\\ 0\\.021444305155112343\ \(0\)\
-\-\ described\\:\\ 0\\.01999653127138829\ \(0\)\
-\-\ recurrent\\:\\ 0\\.019813364127060865\ \(0\)\
-\-\ caused\\:\\ 0\\.019694559379735778\ \(0\)\
-\-\ position\\:\\ 0\\.01954957720845449\ \(0\)\
-\-\ arteries\\:\\ 0\\.01943628442162627\ \(0\)\
-\-\ leg\\:\\ 0\\.01846262257477361\ \(0\)\
-\-\ referred\\:\\ 0\\.017717205733272755\ \(0\)\
-\-\ management\\:\\ 0\\.017717205733272755\ \(0\)\
-\-\ above\\:\\ 0\\.017208454157295695\ \(0\)\
-\-\ extremity\\:\\ 0\\.017171203129903504\ \(0\)\
-\-\ knee\\:\\ 0\\.01702467429978174\ \(0\)\
-\-\ did\\:\\ 0\\.016952849675785298\ \(0\)\
-\-\ typically\\:\\ 0\\.01657376796431853\ \(0\)\
-\-\ was\\:\\ 0\\.016290288827698136\ \(0\)\
-\-\ underwent\\:\\ 0\\.016110967227902305\ \(0\)\
-\-\ cause\\:\\ 0\\.015886058387648165\ \(0\)\
-\-\ cases\\:\\ 0\\.015641817933962267\ \(0\)\
-\-\ space\\:\\ 0\\.015530533005915576\ \(0\)\
-\-\ is\\:\\ 0\\.01544754885672323\ \(0\)\
-\-\ bilaterally\\:\\ 0\\.015421457354526942\ \(0\)\
-\-\ vascular\\:\\ 0\\.015394523450130202\ \(0\)\
-\-\ medial\\:\\ 0\\.015018129195549738\ \(0\)\
-\-\ further\\:\\ 0\\.014931011768133287\ \(0\)\
-\-\ right\\:\\ 0\\.014862061139182692\ \(0\)\
-\-\ medical\\:\\ 0\\.014446757143219805\ \(0\)\
-\-\ during\\:\\ 0\\.014368182691889057\ \(0\)\
-\-\ patient\\:\\ 0\\.014119647212907495\ \(0\)\
-\-\ decreased\\:\\ 0\\.013960200014970107\ \(0\)\
-\-\ cystic\\:\\ 0\\.01354193795193274\ \(0\)\
-\-\ head\\:\\ 0\\.01331649071743899\ \(0\)\
-\-\ who\\:\\ 0\\.012241584665613748\ \(0\)\
-\-\ prior\\:\\ 0\\.01205556468243057\ \(0\)\
-\-\ surgery\\:\\ 0\\.011401093760221291\ \(0\)\
-\-\ noted\\:\\ 0\\.011128687848640625\ \(0\)\
-\-\ \\%\\:\\ 0\\.01095231337003301\ \(0\)\
-\-\ well\\:\\ 0\\.01062132391741017\ \(0\)\
-\-\ lower\\:\\ 0\\.010559681699801444\ \(0\)\
-\-\ it\\:\\ 0\\.010554112002928663\ \(0\)\
-\-\ left\\:\\ 0\\.01050665131069137\ \(0\)\
-\-\ have\\:\\ 0\\.010167242188819186\ \(0\)\
-\-\ presents\\:\\ 0\\.009591452173120473\ \(0\)\
-\-\ to\\:\\ 0\\.009386112273472226\ \(0\)\
-\-\ in\\:\\ 0\\.009261477585500109\ \(0\)\
-\-\ also\\:\\ 0\\.009256151613572261\ \(0\)\
-\-\ images\\:\\ 0\\.009006944461260187\ \(0\)\
-\-\ male\\:\\ 0\\.00849014031806304\ \(0\)\
-\-\ \\(\\:\\ 0\\.007938040947734731\ \(0\)\
-\-\ \\)\\:\\ 0\\.00784107353970665\ \(0\)\
-\-\ disease\\:\\ 0\\.007674382094591782\ \(0\)\
-\-\ there\\:\\ 0\\.006987448112444994\ \(0\)\
-\-\ a\\:\\ 0\\.006537359370636285\ \(0\)\
-\-\ an\\:\\ 0\\.006492664089476538\ \(0\)\
-\-\ pain\\:\\ 0\\.0057341108106084325\ \(0\)\
-\-\ of\\:\\ 0\\.004480915415307247\ \(0\)\
-\-\ for\\:\\ 0\\.004006088728806127\ \(0\)\
-\-\ the\\:\\ 0\\.0037980572720776318\ \(0\)\
-\-\ \\.\\:\\ 0\\.002340628753671183\ \(0\)\
-\-\ and\\:\\ 0\\.001978120942112291\ \(0\)\
-\-\ with\\:\\ 0\\.0019286402652179627\ \(0\)\
-\-\ \\,\\:\\ 0\\.001487417942402678\ \(0\)\
+Texto: 
+patient was noted to have decreased lower extremity distal pulses bilaterally prior to arteriogram.
+patient was referred to vascular surgery for further management. he underwent right popliteal-popliteal artery bypass and left gastrocnemius release. he did well and returned to duty.
+arteriogram images with feet in neutral position demonstrate occlusion of right popliteal artery above the knee with distal reconstitution by sural artery. the left popliteal artery was deviated laterally. provocative maneuvers demonstrate positional occlusion of bilateral popliteal arteries.
+popliteal artery entrapment syndrome (bilateral)
+bilateral popliteal artery entrapment syndrome
+
+cystic adventitial disease
+patient is a 22y male soldier who presents with recurrent right leg pain during running.
+popliteal artery entrapment syndrome is an unusual cause of claudication. originally described by a medical student in 1879, it is caused by anomalous insertion of muscles (typically the medial head of the gastrocnemius) in the popliteal space. there is also a purely functional variant of popliteal artery entrapment syndrome. popliteal artery entrapment is bilateral in 15-40% of cases.
+
+
+Keywords by value: 
+- popliteal: 0.25605159548440115
+- entrapment: 0.14298353053083168
+- artery: 0.1258284062031527
+- arteriogram: 0.07157069594475222
+- gastrocnemius: 0.06290632934734267
+- syndrome: 0.05371223245570641
+- popliteal-popliteal: 0.04843691441739835
+- 22y: 0.04843691441739835
+- 1879: 0.04843691441739835
+- occlusion: 0.04683122563039514
+- bilateral: 0.04557841163328449
+- adventitial: 0.040819912433223124
+- 15-40: 0.040819912433223124
+- provocative: 0.039593848964463725
+- purely: 0.039593848964463725
+- sural: 0.03774510041159992
+- claudication: 0.03701141144113551
+- student: 0.03701141144113551
+- maneuvers: 0.036364251904561974
+- reconstitution: 0.03578534797237611
+- positional: 0.03478358117680493
+- deviated: 0.03355751770804554
+- release: 0.03286980813137518
+- neutral: 0.0319768469802885
+- soldier: 0.029568852854293146
+- bypass: 0.029061307139287566
+- anomalous: 0.027400423227897822
+- originally: 0.026519419656056177
+- running: 0.026418600212824328
+- laterally: 0.026319597435337082
+- he: 0.026199860901461754
+- functional: 0.025849695383479053
+- distal: 0.025530533944461836
+- insertion: 0.025416833417253145
+- duty: 0.024498953831191796
+- pulses: 0.024291589391725602
+- returned: 0.02402674267844056
+- feet: 0.02402674267844056
+- by: 0.023453915987552882
+- unusual: 0.022710918663968564
+- variant: 0.022365858767050814
+- demonstrate: 0.021609364190472977
+- muscles: 0.021444305155112343
+- described: 0.01999653127138829
+- recurrent: 0.019813364127060865
+- caused: 0.019694559379735778
+- position: 0.01954957720845449
+- arteries: 0.01943628442162627
+- leg: 0.01846262257477361
+- referred: 0.017717205733272755
+- management: 0.017717205733272755
+- above: 0.017208454157295695
+- extremity: 0.017171203129903504
+- knee: 0.01702467429978174
+- did: 0.016952849675785298
+- typically: 0.01657376796431853
+- was: 0.016290288827698136
+- underwent: 0.016110967227902305
+- cause: 0.015886058387648165
+- cases: 0.015641817933962267
+- space: 0.015530533005915576
+- is: 0.01544754885672323
+- bilaterally: 0.015421457354526942
+- vascular: 0.015394523450130202
+- medial: 0.015018129195549738
+- further: 0.014931011768133287
+- right: 0.014862061139182692
+- medical: 0.014446757143219805
+- during: 0.014368182691889057
+- patient: 0.014119647212907495
+- decreased: 0.013960200014970107
+- cystic: 0.01354193795193274
+- head: 0.01331649071743899
+- who: 0.012241584665613748
+- prior: 0.01205556468243057
+- surgery: 0.011401093760221291
+- noted: 0.011128687848640625
+- %: 0.01095231337003301
+- well: 0.01062132391741017
+- lower: 0.010559681699801444
+- it: 0.010554112002928663
+- left: 0.01050665131069137
+- have: 0.010167242188819186
+- presents: 0.009591452173120473
+- to: 0.009386112273472226
+- in: 0.009261477585500109
+- also: 0.009256151613572261
+- images: 0.009006944461260187
+- male: 0.00849014031806304
+- (: 0.007938040947734731
+- ): 0.00784107353970665
+- disease: 0.007674382094591782
+- there: 0.006987448112444994
+- a: 0.006537359370636285
+- an: 0.006492664089476538
+- pain: 0.0057341108106084325
+- of: 0.004480915415307247
+- for: 0.004006088728806127
+- the: 0.0037980572720776318
+- .: 0.002340628753671183
+- and: 0.001978120942112291
+- with: 0.0019286402652179627
+- ,: 0.001487417942402678

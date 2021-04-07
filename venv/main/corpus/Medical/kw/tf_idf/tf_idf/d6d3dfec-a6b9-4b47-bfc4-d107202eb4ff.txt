@@ -1,45 +1,47 @@
-\-\ Texto\\:\\ \ \(0\)\
-\-\ post\\-surgical\\ scar\\ right\\ breast\\ without\\ palpable\\ mass\\.\ \(0\)\
-\-\ 6\\ month\\ mammogram\\.\ \(1\)\
-\-\ wire\\ delineating\\ surgical\\ scar\\.\\ surgical\\ clips\\ in\\ surgical\\ bed\\.\\ \\ \\ asymmetric\\ architectural\\ distortion\\,\\ trabecular\\ and\\ skin\\ thickening\ \(0\)\
-\-\ post\\-therapy\\ changes\\ of\\ the\\ breast\ \(0\)\
-\-\ post\\-therapy\\ \\(radiation\\)\\ changes\\ of\\ the\\ breast\ \(0\)\
-\-\ 6\\ month\\ mammogram\\ after\\ lumpectomy\\ and\\ radiation\\ therapy\\ for\\ breast\\ carcinoma\\.\ \(1\)\
-\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
-\-\ post\\-therapy\\:\\ 0\\.3148399437130892\ \(0\)\
-\-\ breast\\:\\ 0\\.22518271027361086\ \(0\)\
-\-\ scar\\:\\ 0\\.15924319990274666\ \(0\)\
-\-\ mammogram\\:\\ 0\\.15924319990274666\ \(0\)\
-\-\ delineating\\:\\ 0\\.12868000913450708\ \(0\)\
-\-\ wire\\:\\ 0\\.10906193255114799\ \(0\)\
-\-\ architectural\\:\\ 0\\.10142900371495264\ \(0\)\
-\-\ lumpectomy\\:\\ 0\\.10066901060033129\ \(0\)\
-\-\ radiation\\:\\ 0\\.10015183034151201\ \(0\)\
-\-\ post\\-surgical\\:\\ 0\\.09923967653473242\ \(0\)\
-\-\ trabecular\\:\\ 0\\.0985657421064673\ \(0\)\
-\-\ clips\\:\\ 0\\.0972896891782147\ \(0\)\
-\-\ surgical\\:\\ 0\\.09622616626347072\ \(0\)\
-\-\ month\\:\\ 0\\.09155766217145034\ \(0\)\
-\-\ 6\\:\\ 0\\.09114714862053122\ \(0\)\
-\-\ distortion\\:\\ 0\\.09067587153005588\ \(0\)\
-\-\ bed\\:\\ 0\\.08866733611172213\ \(0\)\
-\-\ changes\\:\\ 0\\.08746599915125215\ \(0\)\
-\-\ asymmetric\\:\\ 0\\.07414427374740055\ \(0\)\
-\-\ skin\\:\\ 0\\.058609445272124604\ \(0\)\
-\-\ palpable\\:\\ 0\\.0540825186178534\ \(0\)\
-\-\ thickening\\:\\ 0\\.051725438744524135\ \(0\)\
-\-\ carcinoma\\:\\ 0\\.04324870839314047\ \(0\)\
-\-\ therapy\\:\\ 0\\.04079715707572523\ \(0\)\
-\-\ without\\:\\ 0\\.03592880654211\ \(0\)\
-\-\ after\\:\\ 0\\.0315714500465929\ \(0\)\
-\-\ mass\\:\\ 0\\.021222517981206508\ \(0\)\
-\-\ right\\:\\ 0\\.016100566234114582\ \(0\)\
-\-\ for\\:\\ 0\\.013019788368619912\ \(0\)\
-\-\ \\(\\:\\ 0\\.012899316540068937\ \(0\)\
-\-\ \\)\\:\\ 0\\.012741744502023304\ \(0\)\
-\-\ in\\:\\ 0\\.007524950538218837\ \(0\)\
-\-\ and\\:\\ 0\\.006428893061864944\ \(0\)\
-\-\ the\\:\\ 0\\.004937474453700921\ \(0\)\
-\-\ \\,\\:\\ 0\\.004834108312808703\ \(0\)\
-\-\ of\\:\\ 0\\.004160850028499586\ \(0\)\
-\-\ \\.\\:\\ 0\\.00316960143726306\ \(0\)\
+Texto: 
+post-surgical scar right breast without palpable mass.
+6 month mammogram.
+wire delineating surgical scar. surgical clips in surgical bed.   asymmetric architectural distortion, trabecular and skin thickening
+post-therapy changes of the breast
+post-therapy (radiation) changes of the breast
+6 month mammogram after lumpectomy and radiation therapy for breast carcinoma.
+
+
+Keywords by value: 
+- post-therapy: 0.3148399437130892
+- breast: 0.22518271027361086
+- scar: 0.15924319990274666
+- mammogram: 0.15924319990274666
+- delineating: 0.12868000913450708
+- wire: 0.10906193255114799
+- architectural: 0.10142900371495264
+- lumpectomy: 0.10066901060033129
+- radiation: 0.10015183034151201
+- post-surgical: 0.09923967653473242
+- trabecular: 0.0985657421064673
+- clips: 0.0972896891782147
+- surgical: 0.09622616626347072
+- month: 0.09155766217145034
+- 6: 0.09114714862053122
+- distortion: 0.09067587153005588
+- bed: 0.08866733611172213
+- changes: 0.08746599915125215
+- asymmetric: 0.07414427374740055
+- skin: 0.058609445272124604
+- palpable: 0.0540825186178534
+- thickening: 0.051725438744524135
+- carcinoma: 0.04324870839314047
+- therapy: 0.04079715707572523
+- without: 0.03592880654211
+- after: 0.0315714500465929
+- mass: 0.021222517981206508
+- right: 0.016100566234114582
+- for: 0.013019788368619912
+- (: 0.012899316540068937
+- ): 0.012741744502023304
+- in: 0.007524950538218837
+- and: 0.006428893061864944
+- the: 0.004937474453700921
+- ,: 0.004834108312808703
+- of: 0.004160850028499586
+- .: 0.00316960143726306

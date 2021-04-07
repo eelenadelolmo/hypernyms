@@ -1,144 +1,147 @@
-\-\ Texto\\:\\ \ \(0\)\
-\-\ none\\.\ \(8\)\
-\-\ this\\ patient\\ was\\ stage\\ 1\\ sarcoid\\ and\\ was\\ began\\ on\\ a\\ steroid\\ regimen\\ with\\ radiographic\\ followup\\.\ \(0\)\
-\-\ bilateral\\ and\\ symmetric\\ hilar\\ adenopathy\ \(1\)\
-\-\ pulmonary\\ sarcoidosis\ \(3\)\
-\-\ sarcoid\ \(163\)\
-\-\ lymphoma\\,\\ hodgkin\\â\\€\\™s\\ and\\ nhl\ \(0\)\
-\-\ castleman\\â\\€\\™s\\ disease\ \(0\)\
-\-\ metastic\\ disease\ \(2\)\
-\-\ severe\\ infection\ \(0\)\
-\-\ 32\\ yo\\ man\\ with\\ shortness\\ of\\ breath\\.\ \(1\)\
-\-\ this\\ is\\ a\\ good\\ example\\ of\\ stage\\ 1\\ sarcoid\\,\\ bilateral\\ symmetric\\ hilar\\ adenopathy\\.\\ \\ the\\ patient\\â\\€\\™s\\ shortness\\ of\\ breath\\ resolved\\ with\\ bronchodilators\\ and\\ is\\ scheduled\\ for\\ continued\\ radiographic\\ followup\\ and\\ was\\ put\\ on\\ a\\ steroid\\ regimen\\.\ \(0\)\
-\-\ stages\\ based\\ on\\ cxr\\:\ \(0\)\
-\-\ stage\\ 0\\:\\ normal\\ film\\,\\ 10\\%\ \(0\)\
-\-\ stage\\ 1\\:\\ adenopathy\\,\\ 50\\%\ \(0\)\
-\-\ \\	symmetric\\ hilar\\ adenopathy\ \(0\)\
-\-\ \\	paratracheal\\,\\ tracheobronchial\\,\\ and\\ azygos\\ adenpathy\\ is\\ commonly\\ associated\\ with\\ hilar\\ adenopathy\ \(0\)\
-\-\ \\	calcification\\,\\ 5\\%\ \(0\)\
-\-\ stage\\ 2\\:\\ adenopathy\\ with\\ pulmonary\\ opacities\\,\\ 30\\%\ \(0\)\
-\-\ \\	reticulonodular\\ pattern\ \(0\)\
-\-\ \\	acinar\\ pattern\\ may\\ coalesce\\ to\\ consolidation\ \(0\)\
-\-\ \\	large\\ nodules\\ \\>1cm\\ \\(2\\%\\)\ \(0\)\
-\-\ stage\\ 3\\:\\ pulmonary\\ opacities\\ without\\ hilar\\ adenopathy\\,\\ 10\\%\ \(0\)\
-\-\ stage\\ 4\\:\\ pulmonary\\ fibrosis\\,\\ upper\\ lobes\\ with\\ bullae\ \(0\)\
-\-\ other\\ less\\ common\\ plain\\ film\\ findings\\:\ \(0\)\
-\-\ \\	pleural\\ effusion\\,\\ 10\\%\ \(0\)\
-\-\ \\	unilateral\\ hilar\\ adenopathy\\,\\ 1\\-3\\%\ \(0\)\
-\-\ \\	eggshell\\ calcification\\ of\\ lymph\\ nodes\ \(0\)\
-\-\ \\	complications\\ of\\ stage\\ 3\\ include\\ pneumothorax\\ \\(blebs\\,\\ bullae\\)\\ and\\ aspergillus\\ with\\ fungus\\ ball\ \(0\)\
-\-\ \\	bronchostenosis\\ with\\ lobar\\/segmental\\ collapse\ \(0\)\
-\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
-\-\ adenopathy\\:\\ 0\\.13835938654073607\ \(0\)\
-\-\ stage\\:\\ 0\\.1325467065064853\ \(0\)\
-\-\ hilar\\:\\ 0\\.11710172309774884\ \(0\)\
-\-\ \\%\\:\\ 0\\.0724844012125821\ \(0\)\
-\-\ sarcoid\\:\\ 0\\.059791385797134326\ \(0\)\
-\-\ bullae\\:\\ 0\\.05834202864698298\ \(0\)\
-\-\ symmetric\\:\\ 0\\.053220866430415174\ \(0\)\
-\-\ regimen\\:\\ 0\\.04863438655606155\ \(0\)\
-\-\ pulmonary\\:\\ 0\\.04539182382218297\ \(0\)\
-\-\ steroid\\:\\ 0\\.04101321209783935\ \(0\)\
-\-\ opacities\\:\\ 0\\.04053463270251733\ \(0\)\
-\-\ adenpathy\\:\\ 0\\.04007053829075681\ \(0\)\
-\-\ bronchostenosis\\:\\ 0\\.04007053829075681\ \(0\)\
-\-\ lobar\\/segmental\\:\\ 0\\.04007053829075681\ \(0\)\
-\-\ 10\\:\\ 0\\.03928123947745787\ \(0\)\
-\-\ followup\\:\\ 0\\.03708472705065457\ \(0\)\
-\-\ eggshell\\:\\ 0\\.0369198692882116\ \(0\)\
-\-\ \\:\\:\\ 0\\.03596328959970298\ \(0\)\
-\-\ bronchodilators\\:\\ 0\\.03507684606953813\ \(0\)\
-\-\ acinar\\:\\ 0\\.03507684606953813\ \(0\)\
-\-\ \\â\\€\\™\\:\\ 0\\.03482763735880167\ \(0\)\
-\-\ s\\:\\ 0\\.0334195590970171\ \(0\)\
-\-\ shortness\\:\\ 0\\.032683296353528846\ \(0\)\
-\-\ nhl\\:\\ 0\\.03192617706699292\ \(0\)\
-\-\ metastic\\:\\ 0\\.03192617706699292\ \(0\)\
-\-\ blebs\\:\\ 0\\.03192617706699292\ \(0\)\
-\-\ tracheobronchial\\:\\ 0\\.031225492158687203\ \(0\)\
-\-\ coalesce\\:\\ 0\\.030083153848319444\ \(0\)\
-\-\ film\\:\\ 0\\.0298375357748998\ \(0\)\
-\-\ pattern\\:\\ 0\\.02969493035519344\ \(0\)\
-\-\ radiographic\\:\\ 0\\.02948513083444303\ \(0\)\
-\-\ azygos\\:\\ 0\\.02917101432349149\ \(0\)\
-\-\ breath\\:\\ 0\\.029046523256812257\ \(0\)\
-\-\ aspergillus\\:\\ 0\\.028775508064447716\ \(0\)\
-\-\ castleman\\:\\ 0\\.02841167757502255\ \(0\)\
-\-\ 1\\-3\\:\\ 0\\.02841167757502255\ \(0\)\
-\-\ calcification\\:\\ 0\\.02819805107688299\ \(0\)\
-\-\ 1\\:\\ 0\\.02772717774490509\ \(0\)\
-\-\ reticulonodular\\:\\ 0\\.027467862280575985\ \(0\)\
-\-\ fungus\\:\\ 0\\.027467862280575985\ \(0\)\
-\-\ put\\:\\ 0\\.026686724749091173\ \(0\)\
-\-\ paratracheal\\:\\ 0\\.024317193278030776\ \(0\)\
-\-\ hodgkin\\:\\ 0\\.024177322102272806\ \(0\)\
-\-\ 1cm\\:\\ 0\\.024177322102272806\ \(0\)\
-\-\ ball\\:\\ 0\\.02341798535380387\ \(0\)\
-\-\ stages\\:\\ 0\\.023302904408420734\ \(0\)\
-\-\ 0\\:\\ 0\\.023302904408420734\ \(0\)\
-\-\ example\\:\\ 0\\.021384747999059938\ \(0\)\
-\-\ collapse\\:\\ 0\\.019876668943073553\ \(0\)\
-\-\ began\\:\\ 0\\.019667645701065266\ \(0\)\
-\-\ scheduled\\:\\ 0\\.019566631442952946\ \(0\)\
-\-\ consolidation\\:\\ 0\\.01946781332187837\ \(0\)\
-\-\ 32\\:\\ 0\\.019371097874390716\ \(0\)\
-\-\ unilateral\\:\\ 0\\.019276397479377795\ \(0\)\
-\-\ bilateral\\:\\ 0\\.018852888448313124\ \(0\)\
-\-\ resolved\\:\\ 0\\.01883040722502087\ \(0\)\
-\-\ pneumothorax\\:\\ 0\\.018234078996514733\ \(0\)\
-\-\ 3\\:\\ 0\\.018190686606423086\ \(0\)\
-\-\ sarcoidosis\\:\\ 0\\.017544051665296535\ \(0\)\
-\-\ nodes\\:\\ 0\\.017544051665296535\ \(0\)\
-\-\ fibrosis\\:\\ 0\\.01729492331759201\ \(0\)\
-\-\ lobes\\:\\ 0\\.01711664734871346\ \(0\)\
-\-\ 2\\:\\ 0\\.01672822269555042\ \(0\)\
-\-\ continued\\:\\ 0\\.016725999940528345\ \(0\)\
-\-\ good\\:\\ 0\\.01662028693069077\ \(0\)\
-\-\ cxr\\:\\ 0\\.016391055777841262\ \(0\)\
-\-\ nodules\\:\\ 0\\.016102358479103414\ \(0\)\
-\-\ \\,\\:\\ 0\\.01599650387147607\ \(0\)\
-\-\ lymph\\:\\ 0\\.015679738222475665\ \(0\)\
-\-\ complications\\:\\ 0\\.015391694522782077\ \(0\)\
-\-\ pleural\\:\\ 0\\.015083409993969527\ \(0\)\
-\-\ 30\\:\\ 0\\.01493676971115943\ \(0\)\
-\-\ based\\:\\ 0\\.014812228919395274\ \(0\)\
-\-\ 50\\:\\ 0\\.014777263712017293\ \(0\)\
-\-\ effusion\\:\\ 0\\.014759881455479096\ \(0\)\
-\-\ commonly\\:\\ 0\\.01465696110661655\ \(0\)\
-\-\ was\\:\\ 0\\.013476511666550273\ \(0\)\
-\-\ less\\:\\ 0\\.013154272746921283\ \(0\)\
-\-\ \\>\\:\\ 0\\.012905306884857111\ \(0\)\
-\-\ disease\\:\\ 0\\.012697614011051855\ \(0\)\
-\-\ plain\\:\\ 0\\.012614835057677656\ \(0\)\
-\-\ severe\\:\\ 0\\.011951408182118201\ \(0\)\
-\-\ yo\\:\\ 0\\.011687961469558009\ \(0\)\
-\-\ 5\\:\\ 0\\.01136436555656438\ \(0\)\
-\-\ infection\\:\\ 0\\.011290984427603668\ \(0\)\
-\-\ lymphoma\\:\\ 0\\.011100902883588571\ \(0\)\
-\-\ include\\:\\ 0\\.010896152218319485\ \(0\)\
-\-\ 4\\:\\ 0\\.01082259956899566\ \(0\)\
-\-\ common\\:\\ 0\\.010164850963438167\ \(0\)\
-\-\ on\\:\\ 0\\.009871241077710383\ \(0\)\
-\-\ none\\:\\ 0\\.009635088667763666\ \(0\)\
-\-\ upper\\:\\ 0\\.009373093206221447\ \(0\)\
-\-\ man\\:\\ 0\\.00918605383222727\ \(0\)\
-\-\ associated\\:\\ 0\\.00916573891776228\ \(0\)\
-\-\ without\\:\\ 0\\.009145514392537092\ \(0\)\
-\-\ other\\:\\ 0\\.00895290249410204\ \(0\)\
-\-\ this\\:\\ 0\\.008737611030128482\ \(0\)\
-\-\ may\\:\\ 0\\.00851967440408238\ \(0\)\
-\-\ large\\:\\ 0\\.00849337469014127\ \(0\)\
-\-\ findings\\:\\ 0\\.008267440617227088\ \(0\)\
-\-\ patient\\:\\ 0\\.007787199371967163\ \(0\)\
-\-\ is\\:\\ 0\\.0076676015234280765\ \(0\)\
-\-\ \\(\\:\\ 0\\.0065669247840350956\ \(0\)\
-\-\ \\)\\:\\ 0\\.006486706291939137\ \(0\)\
-\-\ normal\\:\\ 0\\.0060891475209050045\ \(0\)\
-\-\ and\\:\\ 0\\.005727559273297859\ \(0\)\
-\-\ a\\:\\ 0\\.005408179115708199\ \(0\)\
-\-\ with\\:\\ 0\\.004254697312359627\ \(0\)\
-\-\ for\\:\\ 0\\.0033141279483759776\ \(0\)\
-\-\ of\\:\\ 0\\.002647813654499737\ \(0\)\
-\-\ to\\:\\ 0\\.0019412186747408465\ \(0\)\
-\-\ \\.\\:\\ 0\\.0008068076385760517\ \(0\)\
-\-\ the\\:\\ 0\\.0006284058395619354\ \(0\)\
+Texto: 
+none.
+this patient was stage 1 sarcoid and was began on a steroid regimen with radiographic followup.
+bilateral and symmetric hilar adenopathy
+pulmonary sarcoidosis
+sarcoid
+lymphoma, hodgkinâ€™s and nhl
+castlemanâ€™s disease
+metastic disease
+severe infection
+32 yo man with shortness of breath.
+this is a good example of stage 1 sarcoid, bilateral symmetric hilar adenopathy.  the patientâ€™s shortness of breath resolved with bronchodilators and is scheduled for continued radiographic followup and was put on a steroid regimen.
+
+stages based on cxr:
+stage 0: normal film, 10%
+stage 1: adenopathy, 50%
+	symmetric hilar adenopathy
+	paratracheal, tracheobronchial, and azygos adenpathy is commonly associated with hilar adenopathy
+	calcification, 5%
+stage 2: adenopathy with pulmonary opacities, 30%
+	reticulonodular pattern
+	acinar pattern may coalesce to consolidation
+	large nodules >1cm (2%)
+stage 3: pulmonary opacities without hilar adenopathy, 10%
+stage 4: pulmonary fibrosis, upper lobes with bullae
+other less common plain film findings:
+	pleural effusion, 10%
+	unilateral hilar adenopathy, 1-3%
+	eggshell calcification of lymph nodes
+	complications of stage 3 include pneumothorax (blebs, bullae) and aspergillus with fungus ball
+	bronchostenosis with lobar/segmental collapse
+
+
+Keywords by value: 
+- adenopathy: 0.13835938654073607
+- stage: 0.1325467065064853
+- hilar: 0.11710172309774884
+- %: 0.0724844012125821
+- sarcoid: 0.059791385797134326
+- bullae: 0.05834202864698298
+- symmetric: 0.053220866430415174
+- regimen: 0.04863438655606155
+- pulmonary: 0.04539182382218297
+- steroid: 0.04101321209783935
+- opacities: 0.04053463270251733
+- adenpathy: 0.04007053829075681
+- bronchostenosis: 0.04007053829075681
+- lobar/segmental: 0.04007053829075681
+- 10: 0.03928123947745787
+- followup: 0.03708472705065457
+- eggshell: 0.0369198692882116
+- :: 0.03596328959970298
+- bronchodilators: 0.03507684606953813
+- acinar: 0.03507684606953813
+- â€™: 0.03482763735880167
+- s: 0.0334195590970171
+- shortness: 0.032683296353528846
+- nhl: 0.03192617706699292
+- metastic: 0.03192617706699292
+- blebs: 0.03192617706699292
+- tracheobronchial: 0.031225492158687203
+- coalesce: 0.030083153848319444
+- film: 0.0298375357748998
+- pattern: 0.02969493035519344
+- radiographic: 0.02948513083444303
+- azygos: 0.02917101432349149
+- breath: 0.029046523256812257
+- aspergillus: 0.028775508064447716
+- castleman: 0.02841167757502255
+- 1-3: 0.02841167757502255
+- calcification: 0.02819805107688299
+- 1: 0.02772717774490509
+- reticulonodular: 0.027467862280575985
+- fungus: 0.027467862280575985
+- put: 0.026686724749091173
+- paratracheal: 0.024317193278030776
+- hodgkin: 0.024177322102272806
+- 1cm: 0.024177322102272806
+- ball: 0.02341798535380387
+- stages: 0.023302904408420734
+- 0: 0.023302904408420734
+- example: 0.021384747999059938
+- collapse: 0.019876668943073553
+- began: 0.019667645701065266
+- scheduled: 0.019566631442952946
+- consolidation: 0.01946781332187837
+- 32: 0.019371097874390716
+- unilateral: 0.019276397479377795
+- bilateral: 0.018852888448313124
+- resolved: 0.01883040722502087
+- pneumothorax: 0.018234078996514733
+- 3: 0.018190686606423086
+- sarcoidosis: 0.017544051665296535
+- nodes: 0.017544051665296535
+- fibrosis: 0.01729492331759201
+- lobes: 0.01711664734871346
+- 2: 0.01672822269555042
+- continued: 0.016725999940528345
+- good: 0.01662028693069077
+- cxr: 0.016391055777841262
+- nodules: 0.016102358479103414
+- ,: 0.01599650387147607
+- lymph: 0.015679738222475665
+- complications: 0.015391694522782077
+- pleural: 0.015083409993969527
+- 30: 0.01493676971115943
+- based: 0.014812228919395274
+- 50: 0.014777263712017293
+- effusion: 0.014759881455479096
+- commonly: 0.01465696110661655
+- was: 0.013476511666550273
+- less: 0.013154272746921283
+- >: 0.012905306884857111
+- disease: 0.012697614011051855
+- plain: 0.012614835057677656
+- severe: 0.011951408182118201
+- yo: 0.011687961469558009
+- 5: 0.01136436555656438
+- infection: 0.011290984427603668
+- lymphoma: 0.011100902883588571
+- include: 0.010896152218319485
+- 4: 0.01082259956899566
+- common: 0.010164850963438167
+- on: 0.009871241077710383
+- none: 0.009635088667763666
+- upper: 0.009373093206221447
+- man: 0.00918605383222727
+- associated: 0.00916573891776228
+- without: 0.009145514392537092
+- other: 0.00895290249410204
+- this: 0.008737611030128482
+- may: 0.00851967440408238
+- large: 0.00849337469014127
+- findings: 0.008267440617227088
+- patient: 0.007787199371967163
+- is: 0.0076676015234280765
+- (: 0.0065669247840350956
+- ): 0.006486706291939137
+- normal: 0.0060891475209050045
+- and: 0.005727559273297859
+- a: 0.005408179115708199
+- with: 0.004254697312359627
+- for: 0.0033141279483759776
+- of: 0.002647813654499737
+- to: 0.0019412186747408465
+- .: 0.0008068076385760517
+- the: 0.0006284058395619354

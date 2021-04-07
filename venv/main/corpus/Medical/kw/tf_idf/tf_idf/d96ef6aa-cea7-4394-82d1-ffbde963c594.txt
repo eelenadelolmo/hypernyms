@@ -1,66 +1,69 @@
-\-\ Texto\\:\\ \ \(0\)\
-\-\ decreased\\ urine\\ output\\.\ \(3\)\
-\-\ thrombectomy\ \(12\)\
-\-\ in\\ the\\ transplant\\ kidney\\,\\ ultrasound\\ demonstrated\\ mildly\\ elevated\\ ri\\,\\ with\\ reversal\\ of\\ flow\\ in\\ diastole\\ in\\ the\\ renal\\ arteries\\.\\ \\ only\\ a\\ small\\ amount\\ of\\ venous\\ flow\\ was\\ detected\\.\ \(0\)\
-\-\ tc99m\\-mag3\\ images\\ demonstrate\\ no\\ flow\\ to\\ the\\ transplant\\ kidney\\.\ \(0\)\
-\-\ renal\\ vein\\ thrombosis\\ in\\ a\\ transplant\\ kidney\ \(0\)\
-\-\ renal\\ vein\\ thrombosis\ \(4\)\
-\-\ atn\ \(3\)\
-\-\ acute\\ rejection\ \(0\)\
-\-\ 45\\ year\\ old\\ male\\,\\ post\\ op\\ day\\ 1\\ from\\ renal\\ transplant\\,\\ with\\ decreased\\ urine\\ output\\.\ \(1\)\
-\-\ surgical\\ treatment\\ revealed\\ renal\\ vein\\ thrombosis\\.\\ \\ post\\ thrombectomy\\,\\ there\\ was\\ improved\\ flow\\ to\\ the\\ transplant\\ kidney\\ with\\ decreased\\ ris\\.\ \(0\)\
-\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
-\-\ transplant\\:\\ 0\\.2360586930872199\ \(0\)\
-\-\ renal\\:\\ 0\\.12837377747290346\ \(0\)\
-\-\ thrombectomy\\:\\ 0\\.12835246302336256\ \(0\)\
-\-\ kidney\\:\\ 0\\.12041533820200039\ \(0\)\
-\-\ output\\:\\ 0\\.11639572300825014\ \(0\)\
-\-\ flow\\:\\ 0\\.11296215507434065\ \(0\)\
-\-\ thrombosis\\:\\ 0\\.11004071841459136\ \(0\)\
-\-\ vein\\:\\ 0\\.09275799966042352\ \(0\)\
-\-\ tc99m\\-mag3\\:\\ 0\\.08815518423966498\ \(0\)\
-\-\ ris\\:\\ 0\\.08815518423966498\ \(0\)\
-\-\ urine\\:\\ 0\\.0824834108347471\ \(0\)\
-\-\ atn\\:\\ 0\\.07716906135298389\ \(0\)\
-\-\ decreased\\:\\ 0\\.07622269208173678\ \(0\)\
-\-\ ri\\:\\ 0\\.07206080511532398\ \(0\)\
-\-\ diastole\\:\\ 0\\.07206080511532398\ \(0\)\
-\-\ rejection\\:\\ 0\\.07206080511532398\ \(0\)\
-\-\ op\\:\\ 0\\.05770995986243075\ \(0\)\
-\-\ reversal\\:\\ 0\\.055196815579621694\ \(0\)\
-\-\ post\\:\\ 0\\.05381670066144587\ \(0\)\
-\-\ detected\\:\\ 0\\.04511453330762328\ \(0\)\
-\-\ improved\\:\\ 0\\.040705862956032485\ \(0\)\
-\-\ 45\\:\\ 0\\.03947983973510916\ \(0\)\
-\-\ mildly\\:\\ 0\\.03639368691392669\ \(0\)\
-\-\ amount\\:\\ 0\\.03568494351806012\ \(0\)\
-\-\ arteries\\:\\ 0\\.03537403764735981\ \(0\)\
-\-\ venous\\:\\ 0\\.031017856184571292\ \(0\)\
-\-\ elevated\\:\\ 0\\.02899316361359063\ \(0\)\
-\-\ revealed\\:\\ 0\\.02742473889866093\ \(0\)\
-\-\ day\\:\\ 0\\.027129598293529296\ \(0\)\
-\-\ only\\:\\ 0\\.025694116584849356\ \(0\)\
-\-\ ultrasound\\:\\ 0\\.025351225850063032\ \(0\)\
-\-\ demonstrated\\:\\ 0\\.025074199824569675\ \(0\)\
-\-\ acute\\:\\ 0\\.02109879329106495\ \(0\)\
-\-\ 1\\:\\ 0\\.02033326367959707\ \(0\)\
-\-\ was\\:\\ 0\\.019765550444273736\ \(0\)\
-\-\ small\\:\\ 0\\.019685752843811185\ \(0\)\
-\-\ demonstrate\\:\\ 0\\.01966452141333041\ \(0\)\
-\-\ surgical\\:\\ 0\\.017962217702514535\ \(0\)\
-\-\ treatment\\:\\ 0\\.01729616959600887\ \(0\)\
-\-\ in\\:\\ 0\\.016855889205610198\ \(0\)\
-\-\ images\\:\\ 0\\.01639263891949354\ \(0\)\
-\-\ male\\:\\ 0\\.015452055378874731\ \(0\)\
-\-\ \\,\\:\\ 0\\.01353550327586437\ \(0\)\
-\-\ there\\:\\ 0\\.012717155564649887\ \(0\)\
-\-\ from\\:\\ 0\\.012664357131542124\ \(0\)\
-\-\ year\\:\\ 0\\.009561052692729147\ \(0\)\
-\-\ old\\:\\ 0\\.008749345968622547\ \(0\)\
-\-\ no\\:\\ 0\\.00860444150703802\ \(0\)\
-\-\ to\\:\\ 0\\.008541362168859725\ \(0\)\
-\-\ a\\:\\ 0\\.007931996036372025\ \(0\)\
-\-\ the\\:\\ 0\\.005529971388145032\ \(0\)\
-\-\ with\\:\\ 0\\.003510125282696692\ \(0\)\
-\-\ \\.\\:\\ 0\\.0024849675268142396\ \(0\)\
-\-\ of\\:\\ 0\\.0023300760159597686\ \(0\)\
+Texto: 
+decreased urine output.
+thrombectomy
+in the transplant kidney, ultrasound demonstrated mildly elevated ri, with reversal of flow in diastole in the renal arteries.  only a small amount of venous flow was detected.
+
+tc99m-mag3 images demonstrate no flow to the transplant kidney.
+renal vein thrombosis in a transplant kidney
+renal vein thrombosis
+atn
+acute rejection
+45 year old male, post op day 1 from renal transplant, with decreased urine output.
+surgical treatment revealed renal vein thrombosis.  post thrombectomy, there was improved flow to the transplant kidney with decreased ris.
+
+
+Keywords by value: 
+- transplant: 0.2360586930872199
+- renal: 0.12837377747290346
+- thrombectomy: 0.12835246302336256
+- kidney: 0.12041533820200039
+- output: 0.11639572300825014
+- flow: 0.11296215507434065
+- thrombosis: 0.11004071841459136
+- vein: 0.09275799966042352
+- tc99m-mag3: 0.08815518423966498
+- ris: 0.08815518423966498
+- urine: 0.0824834108347471
+- atn: 0.07716906135298389
+- decreased: 0.07622269208173678
+- ri: 0.07206080511532398
+- diastole: 0.07206080511532398
+- rejection: 0.07206080511532398
+- op: 0.05770995986243075
+- reversal: 0.055196815579621694
+- post: 0.05381670066144587
+- detected: 0.04511453330762328
+- improved: 0.040705862956032485
+- 45: 0.03947983973510916
+- mildly: 0.03639368691392669
+- amount: 0.03568494351806012
+- arteries: 0.03537403764735981
+- venous: 0.031017856184571292
+- elevated: 0.02899316361359063
+- revealed: 0.02742473889866093
+- day: 0.027129598293529296
+- only: 0.025694116584849356
+- ultrasound: 0.025351225850063032
+- demonstrated: 0.025074199824569675
+- acute: 0.02109879329106495
+- 1: 0.02033326367959707
+- was: 0.019765550444273736
+- small: 0.019685752843811185
+- demonstrate: 0.01966452141333041
+- surgical: 0.017962217702514535
+- treatment: 0.01729616959600887
+- in: 0.016855889205610198
+- images: 0.01639263891949354
+- male: 0.015452055378874731
+- ,: 0.01353550327586437
+- there: 0.012717155564649887
+- from: 0.012664357131542124
+- year: 0.009561052692729147
+- old: 0.008749345968622547
+- no: 0.00860444150703802
+- to: 0.008541362168859725
+- a: 0.007931996036372025
+- the: 0.005529971388145032
+- with: 0.003510125282696692
+- .: 0.0024849675268142396
+- of: 0.0023300760159597686

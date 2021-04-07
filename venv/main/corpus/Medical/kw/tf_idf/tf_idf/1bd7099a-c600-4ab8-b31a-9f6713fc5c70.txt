@@ -1,88 +1,90 @@
-\-\ Texto\\:\\ \ \(0\)\
-\-\ ocf\\ is\\ an\\ uncommon\\ injury\\ requiring\\ ct\\ imaging\\ for\\ diagnosis\\.\\ patients\\ sustaining\\ high\\ energy\\ blunt\\ craniocervical\\ trauma\\,\\ particularly\\ in\\ the\\ setting\\ of\\ loss\\ of\\ consciousness\\,\\ impaired\\ consciousness\\,\\ occipitocervical\\ pain\\ or\\ motion\\ impairment\\,\\ and\\ lower\\ cranial\\ nerve\\ deficits\\,\\ should\\ undergo\\ ct\\ imaging\\ of\\ the\\ craniocervical\\ junction\\.\\ untreated\\ patients\\ with\\ ocf\\ often\\ develop\\ lower\\ cranial\\ nerve\\ deficits\\ that\\ usually\\ recover\\ or\\ improve\\ with\\ external\\ immobilization\\.\\ identification\\ of\\ type\\ iii\\ ocf\\ should\\ prompt\\ external\\ immobilization\\.\\ additional\\ treatment\\ may\\ be\\ dictated\\ by\\ the\\ presence\\ of\\ associated\\ cervical\\ fractures\\ or\\ instability\\.\ \(0\)\
-\-\ avulsion\\ fracture\\ through\\ the\\ inferomedial\\ aspect\\ of\\ the\\ left\\ occipital\\ condyle\ \(1\)\
-\-\ occipital\\ condyle\\ fracture\\-\\ type\\ iii\ \(0\)\
-\-\ motor\\ vehicle\\ accident\\ with\\ loss\\ of\\ consciousness\\,\\ unable\\ to\\ clinically\\ clear\\ cervical\\ spine\ \(1\)\
-\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
-\-\ ocf\\:\\ 0\\.20989329580872615\ \(0\)\
-\-\ consciousness\\:\\ 0\\.10329003832114979\ \(0\)\
-\-\ craniocervical\\:\\ 0\\.10048590117743646\ \(0\)\
-\-\ immobilization\\:\\ 0\\.07295255109191097\ \(0\)\
-\-\ condyle\\:\\ 0\\.07226727852262195\ \(0\)\
-\-\ occipitocervical\\:\\ 0\\.06446326383655994\ \(0\)\
-\-\ fracture\\-\\:\\ 0\\.06446326383655994\ \(0\)\
-\-\ iii\\:\\ 0\\.06367456157513081\ \(0\)\
-\-\ occipital\\:\\ 0\\.06328896328038408\ \(0\)\
-\-\ deficits\\:\\ 0\\.06206735945282649\ \(0\)\
-\-\ cranial\\:\\ 0\\.05897860311336983\ \(0\)\
-\-\ dictated\\:\\ 0\\.058962095736877836\ \(0\)\
-\-\ external\\:\\ 0\\.057678331328165286\ \(0\)\
-\-\ inferomedial\\:\\ 0\\.053460927637195725\ \(0\)\
-\-\ sustaining\\:\\ 0\\.05093351707276292\ \(0\)\
-\-\ recover\\:\\ 0\\.05024295058871823\ \(0\)\
-\-\ cervical\\:\\ 0\\.049287165183994106\ \(0\)\
-\-\ nerve\\:\\ 0\\.048872160737893744\ \(0\)\
-\-\ type\\:\\ 0\\.0457241941007446\ \(0\)\
-\-\ untreated\\:\\ 0\\.044741782489036125\ \(0\)\
-\-\ energy\\:\\ 0\\.04441779840554204\ \(0\)\
-\-\ impaired\\:\\ 0\\.04380699649176324\ \(0\)\
-\-\ should\\:\\ 0\\.043241405426806344\ \(0\)\
-\-\ identification\\:\\ 0\\.04271056523397898\ \(0\)\
-\-\ prompt\\:\\ 0\\.04174738382918321\ \(0\)\
-\-\ blunt\\:\\ 0\\.04049163775604913\ \(0\)\
-\-\ impairment\\:\\ 0\\.04049163775604913\ \(0\)\
-\-\ loss\\:\\ 0\\.03937244718203872\ \(0\)\
-\-\ requiring\\:\\ 0\\.03746963382336824\ \(0\)\
-\-\ avulsion\\:\\ 0\\.036246215729501104\ \(0\)\
-\-\ improve\\:\\ 0\\.036133639261310975\ \(0\)\
-\-\ patients\\:\\ 0\\.035104358720095645\ \(0\)\
-\-\ particularly\\:\\ 0\\.03499046965636702\ \(0\)\
-\-\ instability\\:\\ 0\\.034894268382300794\ \(0\)\
-\-\ undergo\\:\\ 0\\.034430012773716594\ \(0\)\
-\-\ setting\\:\\ 0\\.03425165677489074\ \(0\)\
-\-\ develop\\:\\ 0\\.033822551844174265\ \(0\)\
-\-\ uncommon\\:\\ 0\\.033180868537594145\ \(0\)\
-\-\ imaging\\:\\ 0\\.031778949594533375\ \(0\)\
-\-\ vehicle\\:\\ 0\\.03158124219853191\ \(0\)\
-\-\ unable\\:\\ 0\\.03133320613897552\ \(0\)\
-\-\ accident\\:\\ 0\\.03080194040345878\ \(0\)\
-\-\ lower\\:\\ 0\\.030505747132759723\ \(0\)\
-\-\ clinically\\:\\ 0\\.02973503350592275\ \(0\)\
-\-\ junction\\:\\ 0\\.028405368739178958\ \(0\)\
-\-\ motor\\:\\ 0\\.028321383744492157\ \(0\)\
-\-\ motion\\:\\ 0\\.027266833892270147\ \(0\)\
-\-\ additional\\:\\ 0\\.027194021382142834\ \(0\)\
-\-\ fractures\\:\\ 0\\.025680861888732347\ \(0\)\
-\-\ clear\\:\\ 0\\.02507560804084639\ \(0\)\
-\-\ presence\\:\\ 0\\.02461734617823118\ \(0\)\
-\-\ or\\:\\ 0\\.02384577973723113\ \(0\)\
-\-\ spine\\:\\ 0\\.022334155127026568\ \(0\)\
-\-\ often\\:\\ 0\\.021638678956505175\ \(0\)\
-\-\ injury\\:\\ 0\\.021620702713403172\ \(0\)\
-\-\ aspect\\:\\ 0\\.021303904241931407\ \(0\)\
-\-\ usually\\:\\ 0\\.020594668681482214\ \(0\)\
-\-\ through\\:\\ 0\\.01926156363826086\ \(0\)\
-\-\ ct\\:\\ 0\\.01897307386336576\ \(0\)\
-\-\ high\\:\\ 0\\.01855988937362552\ \(0\)\
-\-\ trauma\\:\\ 0\\.018547688744110547\ \(0\)\
-\-\ fracture\\:\\ 0\\.01788154230375221\ \(0\)\
-\-\ associated\\:\\ 0\\.0160036711262516\ \(0\)\
-\-\ diagnosis\\:\\ 0\\.015573169291908093\ \(0\)\
-\-\ may\\:\\ 0\\.014875621975381934\ \(0\)\
-\-\ treatment\\:\\ 0\\.013727118726991167\ \(0\)\
-\-\ \\,\\:\\ 0\\.012890955500823208\ \(0\)\
-\-\ that\\:\\ 0\\.011714132766339867\ \(0\)\
-\-\ by\\:\\ 0\\.011292626216229165\ \(0\)\
-\-\ be\\:\\ 0\\.010458386693205786\ \(0\)\
-\-\ an\\:\\ 0\\.009378292573688331\ \(0\)\
-\-\ pain\\:\\ 0\\.00828260450421218\ \(0\)\
-\-\ left\\:\\ 0\\.007588137057721545\ \(0\)\
-\-\ of\\:\\ 0\\.006472433377666023\ \(0\)\
-\-\ for\\:\\ 0\\.005786572608275516\ \(0\)\
-\-\ the\\:\\ 0\\.005486082726334357\ \(0\)\
-\-\ is\\:\\ 0\\.0044626252252756\ \(0\)\
-\-\ to\\:\\ 0\\.003389429432087192\ \(0\)\
-\-\ in\\:\\ 0\\.0033444224614305944\ \(0\)\
-\-\ with\\:\\ 0\\.0027858137164259457\ \(0\)\
-\-\ and\\:\\ 0\\.0014286429026366544\ \(0\)\
-\-\ \\.\\:\\ 0\\.0014087117498946934\ \(0\)\
+Texto: 
+ocf is an uncommon injury requiring ct imaging for diagnosis. patients sustaining high energy blunt craniocervical trauma, particularly in the setting of loss of consciousness, impaired consciousness, occipitocervical pain or motion impairment, and lower cranial nerve deficits, should undergo ct imaging of the craniocervical junction. untreated patients with ocf often develop lower cranial nerve deficits that usually recover or improve with external immobilization. identification of type iii ocf should prompt external immobilization. additional treatment may be dictated by the presence of associated cervical fractures or instability.
+avulsion fracture through the inferomedial aspect of the left occipital condyle
+occipital condyle fracture- type iii
+motor vehicle accident with loss of consciousness, unable to clinically clear cervical spine
+
+
+Keywords by value: 
+- ocf: 0.20989329580872615
+- consciousness: 0.10329003832114979
+- craniocervical: 0.10048590117743646
+- immobilization: 0.07295255109191097
+- condyle: 0.07226727852262195
+- occipitocervical: 0.06446326383655994
+- fracture-: 0.06446326383655994
+- iii: 0.06367456157513081
+- occipital: 0.06328896328038408
+- deficits: 0.06206735945282649
+- cranial: 0.05897860311336983
+- dictated: 0.058962095736877836
+- external: 0.057678331328165286
+- inferomedial: 0.053460927637195725
+- sustaining: 0.05093351707276292
+- recover: 0.05024295058871823
+- cervical: 0.049287165183994106
+- nerve: 0.048872160737893744
+- type: 0.0457241941007446
+- untreated: 0.044741782489036125
+- energy: 0.04441779840554204
+- impaired: 0.04380699649176324
+- should: 0.043241405426806344
+- identification: 0.04271056523397898
+- prompt: 0.04174738382918321
+- blunt: 0.04049163775604913
+- impairment: 0.04049163775604913
+- loss: 0.03937244718203872
+- requiring: 0.03746963382336824
+- avulsion: 0.036246215729501104
+- improve: 0.036133639261310975
+- patients: 0.035104358720095645
+- particularly: 0.03499046965636702
+- instability: 0.034894268382300794
+- undergo: 0.034430012773716594
+- setting: 0.03425165677489074
+- develop: 0.033822551844174265
+- uncommon: 0.033180868537594145
+- imaging: 0.031778949594533375
+- vehicle: 0.03158124219853191
+- unable: 0.03133320613897552
+- accident: 0.03080194040345878
+- lower: 0.030505747132759723
+- clinically: 0.02973503350592275
+- junction: 0.028405368739178958
+- motor: 0.028321383744492157
+- motion: 0.027266833892270147
+- additional: 0.027194021382142834
+- fractures: 0.025680861888732347
+- clear: 0.02507560804084639
+- presence: 0.02461734617823118
+- or: 0.02384577973723113
+- spine: 0.022334155127026568
+- often: 0.021638678956505175
+- injury: 0.021620702713403172
+- aspect: 0.021303904241931407
+- usually: 0.020594668681482214
+- through: 0.01926156363826086
+- ct: 0.01897307386336576
+- high: 0.01855988937362552
+- trauma: 0.018547688744110547
+- fracture: 0.01788154230375221
+- associated: 0.0160036711262516
+- diagnosis: 0.015573169291908093
+- may: 0.014875621975381934
+- treatment: 0.013727118726991167
+- ,: 0.012890955500823208
+- that: 0.011714132766339867
+- by: 0.011292626216229165
+- be: 0.010458386693205786
+- an: 0.009378292573688331
+- pain: 0.00828260450421218
+- left: 0.007588137057721545
+- of: 0.006472433377666023
+- for: 0.005786572608275516
+- the: 0.005486082726334357
+- is: 0.0044626252252756
+- to: 0.003389429432087192
+- in: 0.0033444224614305944
+- with: 0.0027858137164259457
+- and: 0.0014286429026366544
+- .: 0.0014087117498946934

@@ -1,187 +1,189 @@
-\-\ Texto\\:\\ \ \(0\)\
-\-\ the\\ patient\\ had\\ an\\ essentially\\ normal\\ physical\\ exam\\,\\ except\\ for\\ minor\\ neurological\\ deficits\\.\\ the\\ patient\\ demonstrated\\ minor\\ loss\\ of\\ motor\\ and\\ sensory\\ function\\ in\\ the\\ right\\ arm\\,\\ and\\ a\\ slight\\ widening\\ of\\ gait\\ on\\ turning\\.\\ \ \(0\)\
-\-\ csf\\ analysis\\ conducted\\ after\\ the\\ mri\\ imaging\\ demonstrated\\ no\\ malignant\\ cells\\,\\ 4\\ wbc\\,\\ 2\\ rbc\\,\\ protein\\ 41\\,\\ glucose\\ 72\\,\\ negative\\ oligo\\-clonalbands\\,\\ normal\\ igg\\ levels\\.\\ blood\\ labs\\ showed\\ negative\\ ana\\,\\ esr\\ 0\\,\\ lyme\\ negative\\,\\ and\\ spep\\ normal\\.\ \(0\)\
-\-\ the\\ csf\\ analysis\\ was\\ not\\ consistent\\ with\\ an\\ infection\\,\\ and\\ therefore\\ the\\ patient\\ was\\ treated\\ with\\ steroids\\ and\\ the\\ symptoms\\ improved\\.\\ the\\ lesions\\ shows\\ good\\ response\\ to\\ steroids\\ radiographically\\ as\\ well\\ as\\ clinically\\.\ \(0\)\
-\-\ bilateral\\ pontine\\ lesions\\ with\\ left\\ more\\ than\\ right\\.\\ the\\ lesion\\ is\\ shown\\ to\\ have\\ hyperintensity\\ on\\ t2\\ and\\ flair\\,\\ although\\ minimal\\ on\\ t1\\.\ \(0\)\
-\-\ grading\\ gliomas\\ using\\ rcbv\\ perfusion\\ imaging\ \(0\)\
-\-\ \\>\\>\\ low\\ grade\\ glioma\ \(0\)\
-\-\ \\>\\>\\ demyelination\ \(1\)\
-\-\ \\>\\>\\ infection\ \(1\)\
-\-\ \\>\\>\\ ischemic\\ infarcts\ \(1\)\
-\-\ patient\\ is\\ a\\ 60\\ yo\\ rhd\\ male\\ that\\ presented\\ with\\ a\\ 4\\ wk\\ history\\ of\\ subacute\\ onset\\ disequilibrium\\.\\ his\\ neurological\\ complaints\\ were\\ significant\\ for\\ loss\\ of\\ balance\\ especially\\ in\\ the\\ dark\\ and\\ in\\ turning\\,\\ as\\ well\\ as\\ diplopia\\ on\\ lateral\\ gaze\\ bilaterally\\.\\ the\\ patient\\ also\\ complained\\ of\\ mild\\ numbness\\ in\\ right\\ lateral\\ forearm\\ and\\ hand\\.\ \(0\)\
-\-\ a\\ diffuse\\ pontine\\ lesion\\ that\\ shows\\ hyperintensity\\ on\\ t2\\ and\\ flair\\ is\\ suspicious\\ for\\ a\\ mass\\ as\\ well\\ as\\ demyelination\\.\\ the\\ extensive\\ csf\\ analysis\\ and\\ the\\ lack\\ of\\ stereotypical\\ localization\\ of\\ the\\ lesions\\ makes\\ demyelination\\ less\\ likely\\.\\ the\\ mr\\ spectroscopy\\ was\\ instrumental\\ in\\ differentiating\\ the\\ lesion\\ between\\ a\\ tumor\\ versus\\ an\\ infection\\,\\ the\\ former\\ having\\ the\\ elevatred\\ choline\\ level\\ as\\ was\\ the\\ case\\ here\\,\\ and\\ the\\ latter\\ having\\ the\\ elevation\\ in\\ lactate\\.\\ \ \(0\)\
-\-\ with\\ the\\ presumptive\\ diagnosis\\ of\\ tumor\\,\\ the\\ grading\\ of\\ the\\ tumor\\ comes\\ to\\ play\\,\\ and\\ the\\ dwi\\ proves\\ to\\ be\\ instrumental\\ in\\ demonstrating\\ the\\ lack\\ of\\ extensive\\ neo\\-vascularization\\ as\\ would\\ be\\ expected\\ of\\ a\\ high\\ grade\\ tumor\\.\ \(0\)\
-\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
-\-\ \\>\\:\\ 0\\.06583576845608266\ \(0\)\
-\-\ demyelination\\:\\ 0\\.04939151485249869\ \(0\)\
-\-\ instrumental\\:\\ 0\\.044735687740860224\ \(0\)\
-\-\ turning\\:\\ 0\\.03904972105673427\ \(0\)\
-\-\ analysis\\:\\ 0\\.03782269830706013\ \(0\)\
-\-\ grading\\:\\ 0\\.03720361247053987\ \(0\)\
-\-\ pontine\\:\\ 0\\.03373789072702903\ \(0\)\
-\-\ csf\\:\\ 0\\.031030385667878368\ \(0\)\
-\-\ as\\:\\ 0\\.029972811730878325\ \(0\)\
-\-\ hyperintensity\\:\\ 0\\.027273301795902535\ \(0\)\
-\-\ oligo\\-clonalbands\\:\\ 0\\.025552227315844923\ \(0\)\
-\-\ elevatred\\:\\ 0\\.025552227315844923\ \(0\)\
-\-\ neo\\-vascularization\\:\\ 0\\.025552227315844923\ \(0\)\
-\-\ minor\\:\\ 0\\.025418560145641648\ \(0\)\
-\-\ stereotypical\\:\\ 0\\.023543105053352328\ \(0\)\
-\-\ steroids\\:\\ 0\\.023302770309389896\ \(0\)\
-\-\ tumor\\:\\ 0\\.02309834552592245\ \(0\)\
-\-\ having\\:\\ 0\\.022754604613013013\ \(0\)\
-\-\ flair\\:\\ 0\\.022711180429075866\ \(0\)\
-\-\ lack\\:\\ 0\\.022540665152517646\ \(0\)\
-\-\ negative\\:\\ 0\\.022192349229346733\ \(0\)\
-\-\ infection\\:\\ 0\\.021600144122372236\ \(0\)\
-\-\ rcbv\\:\\ 0\\.021533982790859732\ \(0\)\
-\-\ rhd\\:\\ 0\\.021533982790859732\ \(0\)\
-\-\ neurological\\:\\ 0\\.02143492528434634\ \(0\)\
-\-\ spep\\:\\ 0\\.020358721607937516\ \(0\)\
-\-\ disequilibrium\\:\\ 0\\.020358721607937516\ \(0\)\
-\-\ proves\\:\\ 0\\.020358721607937516\ \(0\)\
-\-\ wk\\:\\ 0\\.019911908043220825\ \(0\)\
-\-\ choline\\:\\ 0\\.019911908043220825\ \(0\)\
-\-\ lesions\\:\\ 0\\.01989183048994737\ \(0\)\
-\-\ extensive\\:\\ 0\\.019810757811297076\ \(0\)\
-\-\ spectroscopy\\:\\ 0\\.01887806762600711\ \(0\)\
-\-\ grade\\:\\ 0\\.018868619089570843\ \(0\)\
-\-\ latter\\:\\ 0\\.017702806443084893\ \(0\)\
-\-\ former\\:\\ 0\\.01751573826587454\ \(0\)\
-\-\ play\\:\\ 0\\.01751573826587454\ \(0\)\
-\-\ lactate\\:\\ 0\\.017340014724377628\ \(0\)\
-\-\ igg\\:\\ 0\\.017017621579130605\ \(0\)\
-\-\ ana\\:\\ 0\\.016868945363514513\ \(0\)\
-\-\ gaze\\:\\ 0\\.016868945363514513\ \(0\)\
-\-\ differentiating\\:\\ 0\\.016868945363514513\ \(0\)\
-\-\ presumptive\\:\\ 0\\.016868945363514513\ \(0\)\
-\-\ well\\:\\ 0\\.016809399591031747\ \(0\)\
-\-\ conducted\\:\\ 0\\.016340477082952325\ \(0\)\
-\-\ gliomas\\:\\ 0\\.016340477082952325\ \(0\)\
-\-\ comes\\:\\ 0\\.016222152461154486\ \(0\)\
-\-\ localization\\:\\ 0\\.016108469234623234\ \(0\)\
-\-\ lyme\\:\\ 0\\.015330892461885034\ \(0\)\
-\-\ balance\\:\\ 0\\.015165215900030112\ \(0\)\
-\-\ lesion\\:\\ 0\\.015135262834786563\ \(0\)\
-\-\ 0\\:\\ 0\\.014859823101021918\ \(0\)\
-\-\ demonstrated\\:\\ 0\\.01453576801424329\ \(0\)\
-\-\ diplopia\\:\\ 0\\.014454716021673633\ \(0\)\
-\-\ forearm\\:\\ 0\\.014392379194946204\ \(0\)\
-\-\ loss\\:\\ 0\\.014379502449092403\ \(0\)\
-\-\ rbc\\:\\ 0\\.014271588770596729\ \(0\)\
-\-\ \\,\\:\\ 0\\.014124003418293254\ \(0\)\
-\-\ perfusion\\:\\ 0\\.014099346972130639\ \(0\)\
-\-\ 72\\:\\ 0\\.014044134812795294\ \(0\)\
-\-\ t2\\:\\ 0\\.01402080445652378\ \(0\)\
-\-\ essentially\\:\\ 0\\.01388454125574304\ \(0\)\
-\-\ 4\\:\\ 0\\.013802735682197365\ \(0\)\
-\-\ makes\\:\\ 0\\.01373327820307472\ \(0\)\
-\-\ radiographically\\:\\ 0\\.013684561918099704\ \(0\)\
-\-\ shows\\:\\ 0\\.013619557679587703\ \(0\)\
-\-\ dark\\:\\ 0\\.013543141152391205\ \(0\)\
-\-\ infarcts\\:\\ 0\\.013321770199392438\ \(0\)\
-\-\ glucose\\:\\ 0\\.013237748353383011\ \(0\)\
-\-\ 41\\:\\ 0\\.013196633469348356\ \(0\)\
-\-\ dwi\\:\\ 0\\.013156093637537516\ \(0\)\
-\-\ complained\\:\\ 0\\.013076676321050227\ \(0\)\
-\-\ here\\:\\ 0\\.012924085789208424\ \(0\)\
-\-\ sensory\\:\\ 0\\.012814693534185679\ \(0\)\
-\-\ protein\\:\\ 0\\.012709280072820824\ \(0\)\
-\-\ subacute\\:\\ 0\\.012709280072820824\ \(0\)\
-\-\ except\\:\\ 0\\.012541687113722779\ \(0\)\
-\-\ esr\\:\\ 0\\.012541687113722779\ \(0\)\
-\-\ widening\\:\\ 0\\.012477272224491735\ \(0\)\
-\-\ patient\\:\\ 0\\.012414375810382435\ \(0\)\
-\-\ response\\:\\ 0\\.012414257770473166\ \(0\)\
-\-\ elevation\\:\\ 0\\.012233039344440314\ \(0\)\
-\-\ ischemic\\:\\ 0\\.012062487170460798\ \(0\)\
-\-\ expected\\:\\ 0\\.012062487170460798\ \(0\)\
-\-\ suspicious\\:\\ 0\\.011927646545432121\ \(0\)\
-\-\ numbness\\:\\ 0\\.011901415138128013\ \(0\)\
-\-\ improved\\:\\ 0\\.01179880085682101\ \(0\)\
-\-\ versus\\:\\ 0\\.011773705022782997\ \(0\)\
-\-\ therefore\\:\\ 0\\.011699695451753533\ \(0\)\
-\-\ slight\\:\\ 0\\.011651385154694948\ \(0\)\
-\-\ normal\\:\\ 0\\.011648803953035662\ \(0\)\
-\-\ imaging\\:\\ 0\\.011606225069307842\ \(0\)\
-\-\ gait\\:\\ 0\\.01153401888989861\ \(0\)\
-\-\ was\\:\\ 0\\.011458290112622456\ \(0\)\
-\-\ deficits\\:\\ 0\\.011334039552255272\ \(0\)\
-\-\ glioma\\:\\ 0\\.011167170416540844\ \(0\)\
-\-\ clinically\\:\\ 0\\.010859751367380483\ \(0\)\
-\-\ 60\\:\\ 0\\.010805571271693085\ \(0\)\
-\-\ using\\:\\ 0\\.010752385362509905\ \(0\)\
-\-\ complaints\\:\\ 0\\.010752385362509905\ \(0\)\
-\-\ demonstrating\\:\\ 0\\.010752385362509905\ \(0\)\
-\-\ lateral\\:\\ 0\\.010705322003620581\ \(0\)\
-\-\ good\\:\\ 0\\.01059844383986078\ \(0\)\
-\-\ function\\:\\ 0\\.010500178472684892\ \(0\)\
-\-\ on\\:\\ 0\\.010491174092252581\ \(0\)\
-\-\ the\\:\\ 0\\.010418786673316728\ \(0\)\
-\-\ arm\\:\\ 0\\.010374134669961012\ \(0\)\
-\-\ motor\\:\\ 0\\.010343461889292789\ \(0\)\
-\-\ an\\:\\ 0\\.010275346645954173\ \(0\)\
-\-\ levels\\:\\ 0\\.01022391708194772\ \(0\)\
-\-\ especially\\:\\ 0\\.0101947856736767\ \(0\)\
-\-\ hand\\:\\ 0\\.010180329031615717\ \(0\)\
-\-\ cells\\:\\ 0\\.009931729548260862\ \(0\)\
-\-\ shown\\:\\ 0\\.009931729548260862\ \(0\)\
-\-\ minimal\\:\\ 0\\.009752115856234197\ \(0\)\
-\-\ wbc\\:\\ 0\\.009029202465437137\ \(0\)\
-\-\ malignant\\:\\ 0\\.00895266862718638\ \(0\)\
-\-\ would\\:\\ 0\\.008814396749049536\ \(0\)\
-\-\ labs\\:\\ 0\\.008614417411406198\ \(0\)\
-\-\ that\\:\\ 0\\.00855641002063086\ \(0\)\
-\-\ in\\:\\ 0\\.008550088727483432\ \(0\)\
-\-\ less\\:\\ 0\\.008388231896587486\ \(0\)\
-\-\ although\\:\\ 0\\.008365012407468416\ \(0\)\
-\-\ bilaterally\\:\\ 0\\.008135377502967835\ \(0\)\
-\-\ showed\\:\\ 0\\.008121168892532454\ \(0\)\
-\-\ a\\:\\ 0\\.008046952500667271\ \(0\)\
-\-\ mr\\:\\ 0\\.007870143396946186\ \(0\)\
-\-\ t1\\:\\ 0\\.007850711699200706\ \(0\)\
-\-\ between\\:\\ 0\\.007850711699200706\ \(0\)\
-\-\ right\\:\\ 0\\.007840275731394928\ \(0\)\
-\-\ onset\\:\\ 0\\.007818612249058407\ \(0\)\
-\-\ be\\:\\ 0\\.007639169410689445\ \(0\)\
-\-\ diffuse\\:\\ 0\\.0074985722329719276\ \(0\)\
-\-\ yo\\:\\ 0\\.007453192821167426\ \(0\)\
-\-\ treated\\:\\ 0\\.007414060394445969\ \(0\)\
-\-\ his\\:\\ 0\\.007138808775788209\ \(0\)\
-\-\ level\\:\\ 0\\.007138808775788209\ \(0\)\
-\-\ likely\\:\\ 0\\.006986347727349729\ \(0\)\
-\-\ low\\:\\ 0\\.006887443631496811\ \(0\)\
-\-\ high\\:\\ 0\\.006778394379932799\ \(0\)\
-\-\ blood\\:\\ 0\\.006760611804374781\ \(0\)\
-\-\ presented\\:\\ 0\\.00675176126093452\ \(0\)\
-\-\ significant\\:\\ 0\\.0066604265247948505\ \(0\)\
-\-\ mild\\:\\ 0\\.006522473779510542\ \(0\)\
-\-\ than\\:\\ 0\\.006489996680922533\ \(0\)\
-\-\ for\\:\\ 0\\.00634007085776274\ \(0\)\
-\-\ and\\:\\ 0\\.006261182808077164\ \(0\)\
-\-\ more\\:\\ 0\\.006194713940035265\ \(0\)\
-\-\ symptoms\\:\\ 0\\.006172920222893157\ \(0\)\
-\-\ physical\\:\\ 0\\.0060768268683514155\ \(0\)\
-\-\ consistent\\:\\ 0\\.006073328315452763\ \(0\)\
-\-\ bilateral\\:\\ 0\\.0060110658820708525\ \(0\)\
-\-\ mri\\:\\ 0\\.0056906546519264346\ \(0\)\
-\-\ diagnosis\\:\\ 0\\.005687592263131652\ \(0\)\
-\-\ were\\:\\ 0\\.005624018367217163\ \(0\)\
-\-\ exam\\:\\ 0\\.005441257796955183\ \(0\)\
-\-\ case\\:\\ 0\\.005418853428600785\ \(0\)\
-\-\ have\\:\\ 0\\.005363588632942295\ \(0\)\
-\-\ had\\:\\ 0\\.005344492229683213\ \(0\)\
-\-\ 2\\:\\ 0\\.005333636221769699\ \(0\)\
-\-\ after\\:\\ 0\\.005124641166983196\ \(0\)\
-\-\ to\\:\\ 0\\.0049515143007882465\ \(0\)\
-\-\ is\\:\\ 0\\.0048894850294323965\ \(0\)\
-\-\ also\\:\\ 0\\.004882955343971453\ \(0\)\
-\-\ male\\:\\ 0\\.0044788566315578935\ \(0\)\
-\-\ of\\:\\ 0\\.0037146139384865873\ \(0\)\
-\-\ not\\:\\ 0\\.0035791845557737257\ \(0\)\
-\-\ mass\\:\\ 0\\.0034448145128914915\ \(0\)\
-\-\ history\\:\\ 0\\.0034209117034987926\ \(0\)\
-\-\ left\\:\\ 0\\.0027713196210809123\ \(0\)\
-\-\ no\\:\\ 0\\.0024940410165327593\ \(0\)\
-\-\ with\\:\\ 0\\.0016957126969549237\ \(0\)\
-\-\ \\.\\:\\ 0\\.0015434580911889684\ \(0\)\
+Texto: 
+the patient had an essentially normal physical exam, except for minor neurological deficits. the patient demonstrated minor loss of motor and sensory function in the right arm, and a slight widening of gait on turning. 
+csf analysis conducted after the mri imaging demonstrated no malignant cells, 4 wbc, 2 rbc, protein 41, glucose 72, negative oligo-clonalbands, normal igg levels. blood labs showed negative ana, esr 0, lyme negative, and spep normal.
+the csf analysis was not consistent with an infection, and therefore the patient was treated with steroids and the symptoms improved. the lesions shows good response to steroids radiographically as well as clinically.
+bilateral pontine lesions with left more than right. the lesion is shown to have hyperintensity on t2 and flair, although minimal on t1.
+grading gliomas using rcbv perfusion imaging
+>> low grade glioma
+>> demyelination
+>> infection
+>> ischemic infarcts
+patient is a 60 yo rhd male that presented with a 4 wk history of subacute onset disequilibrium. his neurological complaints were significant for loss of balance especially in the dark and in turning, as well as diplopia on lateral gaze bilaterally. the patient also complained of mild numbness in right lateral forearm and hand.
+a diffuse pontine lesion that shows hyperintensity on t2 and flair is suspicious for a mass as well as demyelination. the extensive csf analysis and the lack of stereotypical localization of the lesions makes demyelination less likely. the mr spectroscopy was instrumental in differentiating the lesion between a tumor versus an infection, the former having the elevatred choline level as was the case here, and the latter having the elevation in lactate. 
+with the presumptive diagnosis of tumor, the grading of the tumor comes to play, and the dwi proves to be instrumental in demonstrating the lack of extensive neo-vascularization as would be expected of a high grade tumor.
+
+
+Keywords by value: 
+- >: 0.06583576845608266
+- demyelination: 0.04939151485249869
+- instrumental: 0.044735687740860224
+- turning: 0.03904972105673427
+- analysis: 0.03782269830706013
+- grading: 0.03720361247053987
+- pontine: 0.03373789072702903
+- csf: 0.031030385667878368
+- as: 0.029972811730878325
+- hyperintensity: 0.027273301795902535
+- oligo-clonalbands: 0.025552227315844923
+- elevatred: 0.025552227315844923
+- neo-vascularization: 0.025552227315844923
+- minor: 0.025418560145641648
+- stereotypical: 0.023543105053352328
+- steroids: 0.023302770309389896
+- tumor: 0.02309834552592245
+- having: 0.022754604613013013
+- flair: 0.022711180429075866
+- lack: 0.022540665152517646
+- negative: 0.022192349229346733
+- infection: 0.021600144122372236
+- rcbv: 0.021533982790859732
+- rhd: 0.021533982790859732
+- neurological: 0.02143492528434634
+- spep: 0.020358721607937516
+- disequilibrium: 0.020358721607937516
+- proves: 0.020358721607937516
+- wk: 0.019911908043220825
+- choline: 0.019911908043220825
+- lesions: 0.01989183048994737
+- extensive: 0.019810757811297076
+- spectroscopy: 0.01887806762600711
+- grade: 0.018868619089570843
+- latter: 0.017702806443084893
+- former: 0.01751573826587454
+- play: 0.01751573826587454
+- lactate: 0.017340014724377628
+- igg: 0.017017621579130605
+- ana: 0.016868945363514513
+- gaze: 0.016868945363514513
+- differentiating: 0.016868945363514513
+- presumptive: 0.016868945363514513
+- well: 0.016809399591031747
+- conducted: 0.016340477082952325
+- gliomas: 0.016340477082952325
+- comes: 0.016222152461154486
+- localization: 0.016108469234623234
+- lyme: 0.015330892461885034
+- balance: 0.015165215900030112
+- lesion: 0.015135262834786563
+- 0: 0.014859823101021918
+- demonstrated: 0.01453576801424329
+- diplopia: 0.014454716021673633
+- forearm: 0.014392379194946204
+- loss: 0.014379502449092403
+- rbc: 0.014271588770596729
+- ,: 0.014124003418293254
+- perfusion: 0.014099346972130639
+- 72: 0.014044134812795294
+- t2: 0.01402080445652378
+- essentially: 0.01388454125574304
+- 4: 0.013802735682197365
+- makes: 0.01373327820307472
+- radiographically: 0.013684561918099704
+- shows: 0.013619557679587703
+- dark: 0.013543141152391205
+- infarcts: 0.013321770199392438
+- glucose: 0.013237748353383011
+- 41: 0.013196633469348356
+- dwi: 0.013156093637537516
+- complained: 0.013076676321050227
+- here: 0.012924085789208424
+- sensory: 0.012814693534185679
+- protein: 0.012709280072820824
+- subacute: 0.012709280072820824
+- except: 0.012541687113722779
+- esr: 0.012541687113722779
+- widening: 0.012477272224491735
+- patient: 0.012414375810382435
+- response: 0.012414257770473166
+- elevation: 0.012233039344440314
+- ischemic: 0.012062487170460798
+- expected: 0.012062487170460798
+- suspicious: 0.011927646545432121
+- numbness: 0.011901415138128013
+- improved: 0.01179880085682101
+- versus: 0.011773705022782997
+- therefore: 0.011699695451753533
+- slight: 0.011651385154694948
+- normal: 0.011648803953035662
+- imaging: 0.011606225069307842
+- gait: 0.01153401888989861
+- was: 0.011458290112622456
+- deficits: 0.011334039552255272
+- glioma: 0.011167170416540844
+- clinically: 0.010859751367380483
+- 60: 0.010805571271693085
+- using: 0.010752385362509905
+- complaints: 0.010752385362509905
+- demonstrating: 0.010752385362509905
+- lateral: 0.010705322003620581
+- good: 0.01059844383986078
+- function: 0.010500178472684892
+- on: 0.010491174092252581
+- the: 0.010418786673316728
+- arm: 0.010374134669961012
+- motor: 0.010343461889292789
+- an: 0.010275346645954173
+- levels: 0.01022391708194772
+- especially: 0.0101947856736767
+- hand: 0.010180329031615717
+- cells: 0.009931729548260862
+- shown: 0.009931729548260862
+- minimal: 0.009752115856234197
+- wbc: 0.009029202465437137
+- malignant: 0.00895266862718638
+- would: 0.008814396749049536
+- labs: 0.008614417411406198
+- that: 0.00855641002063086
+- in: 0.008550088727483432
+- less: 0.008388231896587486
+- although: 0.008365012407468416
+- bilaterally: 0.008135377502967835
+- showed: 0.008121168892532454
+- a: 0.008046952500667271
+- mr: 0.007870143396946186
+- t1: 0.007850711699200706
+- between: 0.007850711699200706
+- right: 0.007840275731394928
+- onset: 0.007818612249058407
+- be: 0.007639169410689445
+- diffuse: 0.0074985722329719276
+- yo: 0.007453192821167426
+- treated: 0.007414060394445969
+- his: 0.007138808775788209
+- level: 0.007138808775788209
+- likely: 0.006986347727349729
+- low: 0.006887443631496811
+- high: 0.006778394379932799
+- blood: 0.006760611804374781
+- presented: 0.00675176126093452
+- significant: 0.0066604265247948505
+- mild: 0.006522473779510542
+- than: 0.006489996680922533
+- for: 0.00634007085776274
+- and: 0.006261182808077164
+- more: 0.006194713940035265
+- symptoms: 0.006172920222893157
+- physical: 0.0060768268683514155
+- consistent: 0.006073328315452763
+- bilateral: 0.0060110658820708525
+- mri: 0.0056906546519264346
+- diagnosis: 0.005687592263131652
+- were: 0.005624018367217163
+- exam: 0.005441257796955183
+- case: 0.005418853428600785
+- have: 0.005363588632942295
+- had: 0.005344492229683213
+- 2: 0.005333636221769699
+- after: 0.005124641166983196
+- to: 0.0049515143007882465
+- is: 0.0048894850294323965
+- also: 0.004882955343971453
+- male: 0.0044788566315578935
+- of: 0.0037146139384865873
+- not: 0.0035791845557737257
+- mass: 0.0034448145128914915
+- history: 0.0034209117034987926
+- left: 0.0027713196210809123
+- no: 0.0024940410165327593
+- with: 0.0016957126969549237
+- .: 0.0015434580911889684

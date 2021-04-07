@@ -113,7 +113,7 @@ idf = computeIDF([x['freqs'] for x in text_words_freqs_tf])
 
 dir_kw = 'corpus/Medical/kw/tf_idf/tf_idf/'
 shutil.rmtree(dir_parent, ignore_errors=True)
-os.makedirs(dir_parent)
+os.makedirs(dir_kw)
 
 
 ## Getting and saving the TF-IDF metrics for every text

@@ -1,52 +1,55 @@
-\-\ Texto\\:\\ \ \(0\)\
-\-\ none\ \(204\)\
-\-\ neonatal\\ head\\ ultrasound\\ demonstrates\\ a\\ parallel\\ configuration\\ of\\ the\\ lateral\\ ventricles\\ with\\ a\\ focal\\ area\\ of\\ increased\\ echogenicity\\ in\\ the\\ midline\\.\ \(0\)\
-\-\ \\ ct\\ images\\ confirm\\ the\\ parallel\\ lateral\\ ventricles\\ and\\ absence\\ of\\ the\\ corpus\\ callosum\\.\\ a\\ focus\\ of\\ midline\\ hypodensity\\ represents\\ a\\ midline\\ lipoma\\ with\\ associated\\ calcifications\\.\ \(0\)\
-\-\ agenesis\\ of\\ the\\ corpus\\ callosum\ \(7\)\
-\-\ agenesis\\ of\\ corpus\\ callosum\ \(1\)\
-\-\ lipoma\\ of\\ corpus\\ callosum\ \(0\)\
-\-\ colpocephaly\ \(7\)\
-\-\ newborn\\ white\\ male\\ with\\ abnormal\\ findings\\ on\\ prenatal\\ ultrasound\ \(0\)\
-\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
-\-\ callosum\\:\\ 0\\.24025762329442102\ \(0\)\
-\-\ corpus\\:\\ 0\\.23070401303991267\ \(0\)\
-\-\ parallel\\:\\ 0\\.14833756280285867\ \(0\)\
-\-\ agenesis\\:\\ 0\\.1384744741992585\ \(0\)\
-\-\ midline\\:\\ 0\\.13586835975363784\ \(0\)\
-\-\ ventricles\\:\\ 0\\.11012953091423991\ \(0\)\
-\-\ lipoma\\:\\ 0\\.10945854406469756\ \(0\)\
-\-\ colpocephaly\\:\\ 0\\.09227502578474879\ \(0\)\
-\-\ hypodensity\\:\\ 0\\.07205712825311074\ \(0\)\
-\-\ neonatal\\:\\ 0\\.0702279310938707\ \(0\)\
-\-\ ultrasound\\:\\ 0\\.06945541328784392\ \(0\)\
-\-\ configuration\\:\\ 0\\.06537626241276641\ \(0\)\
-\-\ newborn\\:\\ 0\\.06378952521379214\ \(0\)\
-\-\ prenatal\\:\\ 0\\.06357713909686111\ \(0\)\
-\-\ echogenicity\\:\\ 0\\.06295905094233413\ \(0\)\
-\-\ confirm\\:\\ 0\\.05958370281249198\ \(0\)\
-\-\ represents\\:\\ 0\\.05624641400896115\ \(0\)\
-\-\ focus\\:\\ 0\\.052586091528026346\ \(0\)\
-\-\ lateral\\:\\ 0\\.050593645085604114\ \(0\)\
-\-\ absence\\:\\ 0\\.048668879932350854\ \(0\)\
-\-\ calcifications\\:\\ 0\\.04352279115935277\ \(0\)\
-\-\ white\\:\\ 0\\.03882334537961668\ \(0\)\
-\-\ area\\:\\ 0\\.03701145539909955\ \(0\)\
-\-\ focal\\:\\ 0\\.03343141923477263\ \(0\)\
-\-\ abnormal\\:\\ 0\\.03338482520979331\ \(0\)\
-\-\ head\\:\\ 0\\.03320001795306707\ \(0\)\
-\-\ none\\:\\ 0\\.02903725351928776\ \(0\)\
-\-\ increased\\:\\ 0\\.028636777832871996\ \(0\)\
-\-\ associated\\:\\ 0\\.02762277482065345\ \(0\)\
-\-\ demonstrates\\:\\ 0\\.025570153447303918\ \(0\)\
-\-\ findings\\:\\ 0\\.024915574462876157\ \(0\)\
-\-\ images\\:\\ 0\\.022455669752730875\ \(0\)\
-\-\ a\\:\\ 0\\.021731495990060343\ \(0\)\
-\-\ male\\:\\ 0\\.021167199149143466\ \(0\)\
-\-\ ct\\:\\ 0\\.016374022649206066\ \(0\)\
-\-\ of\\:\\ 0\\.011171597336793411\ \(0\)\
-\-\ on\\:\\ 0\\.009916315237882577\ \(0\)\
-\-\ the\\:\\ 0\\.009469129089289438\ \(0\)\
-\-\ in\\:\\ 0\\.005772564796441848\ \(0\)\
-\-\ with\\:\\ 0\\.004808390798214646\ \(0\)\
-\-\ and\\:\\ 0\\.0024658767908523073\ \(0\)\
-\-\ \\.\\:\\ 0\\.001458885045096422\ \(0\)\
+Texto: 
+none
+neonatal head ultrasound demonstrates a parallel configuration of the lateral ventricles with a focal area of increased echogenicity in the midline.
+
+ ct images confirm the parallel lateral ventricles and absence of the corpus callosum. a focus of midline hypodensity represents a midline lipoma with associated calcifications.
+agenesis of the corpus callosum
+agenesis of corpus callosum
+lipoma of corpus callosum
+colpocephaly
+newborn white male with abnormal findings on prenatal ultrasound
+
+
+Keywords by value: 
+- callosum: 0.24025762329442102
+- corpus: 0.23070401303991267
+- parallel: 0.14833756280285867
+- agenesis: 0.1384744741992585
+- midline: 0.13586835975363784
+- ventricles: 0.11012953091423991
+- lipoma: 0.10945854406469756
+- colpocephaly: 0.09227502578474879
+- hypodensity: 0.07205712825311074
+- neonatal: 0.0702279310938707
+- ultrasound: 0.06945541328784392
+- configuration: 0.06537626241276641
+- newborn: 0.06378952521379214
+- prenatal: 0.06357713909686111
+- echogenicity: 0.06295905094233413
+- confirm: 0.05958370281249198
+- represents: 0.05624641400896115
+- focus: 0.052586091528026346
+- lateral: 0.050593645085604114
+- absence: 0.048668879932350854
+- calcifications: 0.04352279115935277
+- white: 0.03882334537961668
+- area: 0.03701145539909955
+- focal: 0.03343141923477263
+- abnormal: 0.03338482520979331
+- head: 0.03320001795306707
+- none: 0.02903725351928776
+- increased: 0.028636777832871996
+- associated: 0.02762277482065345
+- demonstrates: 0.025570153447303918
+- findings: 0.024915574462876157
+- images: 0.022455669752730875
+- a: 0.021731495990060343
+- male: 0.021167199149143466
+- ct: 0.016374022649206066
+- of: 0.011171597336793411
+- on: 0.009916315237882577
+- the: 0.009469129089289438
+- in: 0.005772564796441848
+- with: 0.004808390798214646
+- and: 0.0024658767908523073
+- .: 0.001458885045096422

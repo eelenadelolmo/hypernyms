@@ -1,63 +1,65 @@
-\-\ Texto\\:\\ \ \(0\)\
-\-\ multiple\\ cranial\\ nerve\\ deficits\ \(1\)\
-\-\ radiation\\ and\\ chemotherapy\ \(19\)\
-\-\ \\â\\€\\¢\\ butterfly\\ spread\\ of\\ tumor\\ from\\ right\\ frontal\\ lobe\\ across\\ corpus\\ callosum\\ into\\ left\\ frontal\\ lobe\\.\ \(0\)\
-\-\ \\â\\€\\¢\\ diffuse\\ enhancement\\ of\\ leptomeningeal\\ surfaces\\ following\\ contrast\\ admnistration\\.\ \(0\)\
-\-\ gbm\\ \\(glioblastoma\\ multiforme\\)\\ with\\ leptomeningeal\\ carcinomatosis\ \(0\)\
-\-\ \\â\\€\\¢\\ meningitis\\,\\ infectious\ \(0\)\
-\-\ \\â\\€\\¢\\ recurrent\\ subarachnoid\\ hemorrhage\ \(0\)\
-\-\ \\â\\€\\¢\\ lymphoma\ \(6\)\
-\-\ \\â\\€\\¢\\ sarcoidosis\ \(1\)\
-\-\ \\â\\€\\¢\\ meningitis\\,\\ carcinomatous\ \(0\)\
-\-\ 65\\ year\\ old\\ woman\\ with\\ headache\\ and\\ multiple\\ cranial\\ nerve\\ deficits\\.\ \(1\)\
-\-\ Keywords\\ by\\ value\\:\\ \ \(0\)\
-\-\ \\â\\€\\¢\\:\\ 0\\.1567014351595888\ \(0\)\
-\-\ leptomeningeal\\:\\ 0\\.1450813944480894\ \(0\)\
-\-\ meningitis\\:\\ 0\\.12667119397978904\ \(0\)\
-\-\ admnistration\\:\\ 0\\.1259359774852357\ \(0\)\
-\-\ deficits\\:\\ 0\\.11172124701508768\ \(0\)\
-\-\ cranial\\:\\ 0\\.1061614856040657\ \(0\)\
-\-\ carcinomatous\\:\\ 0\\.09813726107015978\ \(0\)\
-\-\ butterfly\\:\\ 0\\.09043731105969281\ \(0\)\
-\-\ nerve\\:\\ 0\\.08796988932820875\ \(0\)\
-\-\ surfaces\\:\\ 0\\.07939174122778593\ \(0\)\
-\-\ frontal\\:\\ 0\\.07669405527095306\ \(0\)\
-\-\ carcinomatosis\\:\\ 0\\.07474284979300555\ \(0\)\
-\-\ gbm\\:\\ 0\\.07220454726104193\ \(0\)\
-\-\ multiforme\\:\\ 0\\.07093386888937771\ \(0\)\
-\-\ glioblastoma\\:\\ 0\\.06720920799704552\ \(0\)\
-\-\ lobe\\:\\ 0\\.0656950099406724\ \(0\)\
-\-\ across\\:\\ 0\\.06524318831310198\ \(0\)\
-\-\ callosum\\:\\ 0\\.06263859464461691\ \(0\)\
-\-\ corpus\\:\\ 0\\.06014783197112009\ \(0\)\
-\-\ 65\\:\\ 0\\.059587536068930365\ \(0\)\
-\-\ subarachnoid\\:\\ 0\\.05931541899792045\ \(0\)\
-\-\ spread\\:\\ 0\\.05904838852631826\ \(0\)\
-\-\ sarcoidosis\\:\\ 0\\.05513844809093196\ \(0\)\
-\-\ infectious\\:\\ 0\\.05248364096376911\ \(0\)\
-\-\ recurrent\\:\\ 0\\.051514746730358246\ \(0\)\
-\-\ multiple\\:\\ 0\\.05142302867083625\ \(0\)\
-\-\ chemotherapy\\:\\ 0\\.043756368359155216\ \(0\)\
-\-\ headache\\:\\ 0\\.041928363393797116\ \(0\)\
-\-\ hemorrhage\\:\\ 0\\.040632236916800506\ \(0\)\
-\-\ radiation\\:\\ 0\\.040060732136604806\ \(0\)\
-\-\ diffuse\\:\\ 0\\.036957248862504496\ \(0\)\
-\-\ lymphoma\\:\\ 0\\.0348885519198498\ \(0\)\
-\-\ following\\:\\ 0\\.03464682509858783\ \(0\)\
-\-\ enhancement\\:\\ 0\\.032721268087471944\ \(0\)\
-\-\ into\\:\\ 0\\.029047519542281526\ \(0\)\
-\-\ tumor\\:\\ 0\\.028460461451583017\ \(0\)\
-\-\ woman\\:\\ 0\\.028198613535555802\ \(0\)\
-\-\ contrast\\:\\ 0\\.027325366954398647\ \(0\)\
-\-\ from\\:\\ 0\\.01809193875934589\ \(0\)\
-\-\ left\\:\\ 0\\.013658646703898781\ \(0\)\
-\-\ year\\:\\ 0\\.013658646703898781\ \(0\)\
-\-\ right\\:\\ 0\\.012880452987291666\ \(0\)\
-\-\ old\\:\\ 0\\.01249906566946078\ \(0\)\
-\-\ \\(\\:\\ 0\\.01031945323205515\ \(0\)\
-\-\ \\)\\:\\ 0\\.010193395601618643\ \(0\)\
-\-\ \\,\\:\\ 0\\.007734573300493925\ \(0\)\
-\-\ and\\:\\ 0\\.005143114449491956\ \(0\)\
-\-\ with\\:\\ 0\\.003342976459711135\ \(0\)\
-\-\ of\\:\\ 0\\.0033286800227996694\ \(0\)\
-\-\ \\.\\:\\ 0\\.001521408689886269\ \(0\)\
+Texto: 
+multiple cranial nerve deficits
+radiation and chemotherapy
+â€¢ butterfly spread of tumor from right frontal lobe across corpus callosum into left frontal lobe.
+â€¢ diffuse enhancement of leptomeningeal surfaces following contrast admnistration.
+gbm (glioblastoma multiforme) with leptomeningeal carcinomatosis
+â€¢ meningitis, infectious
+â€¢ recurrent subarachnoid hemorrhage
+â€¢ lymphoma
+â€¢ sarcoidosis
+â€¢ meningitis, carcinomatous
+65 year old woman with headache and multiple cranial nerve deficits.
+
+
+Keywords by value: 
+- â€¢: 0.1567014351595888
+- leptomeningeal: 0.1450813944480894
+- meningitis: 0.12667119397978904
+- admnistration: 0.1259359774852357
+- deficits: 0.11172124701508768
+- cranial: 0.1061614856040657
+- carcinomatous: 0.09813726107015978
+- butterfly: 0.09043731105969281
+- nerve: 0.08796988932820875
+- surfaces: 0.07939174122778593
+- frontal: 0.07669405527095306
+- carcinomatosis: 0.07474284979300555
+- gbm: 0.07220454726104193
+- multiforme: 0.07093386888937771
+- glioblastoma: 0.06720920799704552
+- lobe: 0.0656950099406724
+- across: 0.06524318831310198
+- callosum: 0.06263859464461691
+- corpus: 0.06014783197112009
+- 65: 0.059587536068930365
+- subarachnoid: 0.05931541899792045
+- spread: 0.05904838852631826
+- sarcoidosis: 0.05513844809093196
+- infectious: 0.05248364096376911
+- recurrent: 0.051514746730358246
+- multiple: 0.05142302867083625
+- chemotherapy: 0.043756368359155216
+- headache: 0.041928363393797116
+- hemorrhage: 0.040632236916800506
+- radiation: 0.040060732136604806
+- diffuse: 0.036957248862504496
+- lymphoma: 0.0348885519198498
+- following: 0.03464682509858783
+- enhancement: 0.032721268087471944
+- into: 0.029047519542281526
+- tumor: 0.028460461451583017
+- woman: 0.028198613535555802
+- contrast: 0.027325366954398647
+- from: 0.01809193875934589
+- left: 0.013658646703898781
+- year: 0.013658646703898781
+- right: 0.012880452987291666
+- old: 0.01249906566946078
+- (: 0.01031945323205515
+- ): 0.010193395601618643
+- ,: 0.007734573300493925
+- and: 0.005143114449491956
+- with: 0.003342976459711135
+- of: 0.0033286800227996694
+- .: 0.001521408689886269
