@@ -60,198 +60,201 @@ The patient is sent for a cardiac MRI evaluation.
 
 
 Keywords: 
-\-\ possible\\ small\\ apical\\ aneurysm\ \(1\)\
-\-\ \\â\\€\\¢\\ pathophysiological\\ hypertrophy\\ due\ \(0\)\
-\-\ marked\\ left\\ ventricular\\ hypertrophy\ \(2\)\
-\-\ maximum\\ apical\\ wall\\ thickness\ \(1\)\
-\-\ lv\\ outflow\\ tract\\ obstruction\ \(0\)\
-\-\ 4\\ cm\\ involving\\ inferoseptum\ \(1\)\
-\-\ \\Â\\»\\ apical\\ hypertrophic\\ cardiomyopathy\ \(0\)\
-\-\ acute\\ respiratory\\ distress\\ syndrome\ \(0\)\
-\-\ maximum\\ wall\\ thickness\ \(2\)\
-\-\ apical\\ hypertrophic\\ cardiomyopathy\ \(0\)\
-\-\ touch\\ without\\ dermatitis\ \(1\)\
-\-\ sudden\\ unexplained\\ death\ \(1\)\
-\-\ secondary\\ tobacco\\ smoke\ \(1\)\
-\-\ rhythm\\ without\\ murmur\ \(7\)\
-\-\ recreational\\ drug\\ use\ \(1\)\
-\-\ pulmonary\\ function\\ studies\ \(1\)\
-\-\ nontender\\ without\\ hepatosplenomegaly\ \(1\)\
-\-\ muscle\\ strength\\ intact\ \(1\)\
-\-\ moist\\ without\\ pallor\ \(1\)\
-\-\ left\\ shoulder\\ pain\ \(29\)\
-\-\ late\\ gadolinium\\ enhancement\ \(1\)\
-\-\ implanted\\ without\\ complications\ \(1\)\
-\-\ height\\ 5\\ feet\ \(1\)\
-\-\ general\\ household\\ tasks\ \(1\)\
-\-\ ekg\\ study\\ showed\ \(0\)\
-\-\ echocardiogram\\ study\\ showed\ \(0\)\
-\-\ blood\\ pressure\\ 121\ \(0\)\
-\-\ peripheral\\ edema\\ noted\ \(1\)\
-\-\ nonsustained\\ ventricular\\ tachycardia\ \(1\)\
-\-\ mid\\ cavity\\ obstruction\ \(1\)\
-\-\ abdominal\\ bruits\\ noted\ \(1\)\
-\-\ weight\\ 202\\ pounds\ \(1\)\
-\-\ moderate\\ aortic\\ insufficiency\ \(1\)\
-\-\ hour\\ holter\\ monitor\ \(0\)\
-\-\ ongoing\\ chest\\ pain\ \(1\)\
-\-\ daily\\ chest\\ pain\ \(1\)\
-\-\ within\\ normal\\ limits\ \(205\)\
-\-\ normal\\ without\\ bruits\ \(2\)\
-\-\ atrial\\ tachycardia\\ runs\ \(1\)\
-\-\ symmetrical\\ without\\ bruits\ \(1\)\
-\-\ potential\\ lethal\\ arrhythmia\ \(1\)\
-\-\ past\\ medical\\ history\ \(145\)\
-\-\ heart\\ palpitations\\ \\,\\"\ \(0\)\
-\-\ equal\\ expansion\\ bilaterally\ \(1\)\
-\-\ cardiac\\ mri\\ evaluation\ \(0\)\
-\-\ acute\\ distress\ \(65\)\
-\-\ ventricular\\ tachycardia\ \(3\)\
-\-\ apical\\ septum\ \(1\)\
-\-\ left\\ side\ \(309\)\
-\-\ basal\\ lv\ \(0\)\
-\-\ noted\\ throughout\ \(6\)\
-\-\ weight\\ loss\ \(185\)\
-\-\ monitor\\ revealed\ \(1\)\
-\-\ cardiac\\ enzymes\ \(7\)\
-\-\ atrial\\ fibrillation\ \(35\)\
-\-\ aortic\\ stenosis\ \(12\)\
-\-\ normal\\ affect\ \(1\)\
-\-\ 8\\ cm\ \(68\)\
-\-\ 2\\ cm\ \(153\)\
-\-\ vital\\ signs\ \(44\)\
-\-\ two\\ children\ \(2\)\
-\-\ storage\\ disorder\ \(2\)\
-\-\ short\\ pr\ \(0\)\
-\-\ repolarization\\ abnormality\ \(3\)\
-\-\ regular\\ rate\ \(15\)\
-\-\ recommended\\ proceeding\ \(1\)\
-\-\ radiates\\ across\ \(1\)\
-\-\ pulse\\ 62\ \(1\)\
-\-\ pulsatile\\ masses\ \(2\)\
-\-\ oral\\ mucosa\ \(8\)\
-\-\ myocardial\\ infarction\ \(21\)\
-\-\ laboratory\\ tests\ \(8\)\
-\-\ good\\ rom\ \(0\)\
-\-\ femoral\\ arteries\ \(6\)\
-\-\ fatal\\ arrhythmia\ \(1\)\
-\-\ fabry\\ \\â\\€\\™\ \(0\)\
-\-\ extreme\\ fatigue\ \(1\)\
-\-\ emotional\\ stress\ \(2\)\
-\-\ ejection\\ fraction\ \(22\)\
-\-\ chamber\\ cardioverter\ \(1\)\
-\-\ carotid\\ upstrokes\ \(0\)\
-\-\ bowel\\ sounds\ \(73\)\
-\-\ benign\\ pvcs\ \(0\)\
-\-\ beat\\ run\ \(1\)\
-\-\ athlete\\ \\â\\€\\™\ \(0\)\
-\-\ ages\\ 37\ \(1\)\
-\-\ 110\\ milliseconds\ \(1\)\
-\-\ well\\ developed\ \(26\)\
-\-\ patient\\ states\ \(22\)\
-\-\ never\\ smoked\ \(1\)\
-\-\ near\\ syncope\ \(1\)\
-\-\ family\\ history\ \(101\)\
-\-\ denies\\ exposure\ \(1\)\
-\-\ also\\ counseled\ \(1\)\
-\-\ obstruction\ \(546\)\
-\-\ \\Â\\»\ \(455\)\
-\-\ respiratory\ \(215\)\
-\-\ inferoseptum\ \(2\)\
-\-\ due\ \(942\)\
-\-\ chest\ \(1434\)\
-\-\ normal\ \(4026\)\
-\-\ symmetrical\ \(62\)\
-\-\ history\ \(2609\)\
-\-\ heart\ \(464\)\
-\-\ evaluation\ \(719\)\
-\-\ bilaterally\ \(719\)\
-\-\ arrhythmia\ \(19\)\
-\-\ well\ \(2069\)\
-\-\ syncope\ \(25\)\
-\-\ patient\ \(6664\)\
-\-\ never\ \(57\)\
-\-\ family\ \(175\)\
-\-\ denies\ \(211\)\
-\-\ also\ \(1857\)\
-\-\ 8\ \(4289\)\
-\-\ 2\ \(13754\)\
-\-\ waves\ \(21\)\
-\-\ ulcerations\ \(16\)\
-\-\ thyromegaly\ \(11\)\
-\-\ symptoms\ \(1193\)\
-\-\ soft\ \(1126\)\
-\-\ skin\ \(300\)\
-\-\ sister\ \(18\)\
-\-\ since\ \(279\)\
-\-\ shortness\ \(201\)\
-\-\ sent\ \(5254\)\
-\-\ rub\ \(179\)\
-\-\ risk\ \(497\)\
-\-\ pt\ \(6402\)\
-\-\ psych\ \(49\)\
-\-\ prescribed\ \(53\)\
-\-\ pmi\ \(0\)\
-\-\ particularly\ \(102\)\
-\-\ oriented\ \(125\)\
-\-\ ordered\ \(131\)\
-\-\ onset\ \(516\)\
-\-\ oldest\ \(1\)\
-\-\ nondisplaced\ \(25\)\
-\-\ neck\ \(1086\)\
-\-\ nausea\ \(246\)\
-\-\ musculoskeletal\ \(27\)\
-\-\ mother\ \(578\)\
-\-\ mild\ \(927\)\
-\-\ mentions\ \(5\)\
-\-\ lids\ \(32\)\
-\-\ lasix\ \(6\)\
-\-\ jvd\ \(0\)\
-\-\ issues\ \(262\)\
-\-\ interval\ \(126\)\
-\-\ indicated\ \(204\)\
-\-\ importance\ \(51\)\
-\-\ implementation\ \(2\)\
-\-\ heent\ \(2\)\
-\-\ gi\ \(12448\)\
-\-\ gallop\ \(57\)\
-\-\ flipped\ \(8\)\
-\-\ fibrosis\ \(205\)\
-\-\ extremities\ \(325\)\
-\-\ exertion\ \(60\)\
-\-\ evidence\ \(994\)\
-\-\ evaluate\ \(387\)\
-\-\ episodes\ \(123\)\
-\-\ episode\ \(239\)\
-\-\ elevation\ \(105\)\
-\-\ dyspnea\ \(130\)\
-\-\ dual\ \(326\)\
-\-\ dp\ \(240\)\
-\-\ disease\ \(2755\)\
-\-\ discomfort\ \(110\)\
-\-\ diaphoresis\ \(12\)\
-\-\ diagnosed\ \(355\)\
-\-\ describes\ \(42\)\
-\-\ defibrillator\ \(10\)\
-\-\ cyanosis\ \(53\)\
-\-\ cool\ \(9\)\
-\-\ conjunctivae\ \(0\)\
-\-\ condition\ \(355\)\
-\-\ concerns\ \(13\)\
-\-\ clubbing\ \(38\)\
-\-\ clear\ \(592\)\
-\-\ cardiovascular\ \(24\)\
-\-\ brother\ \(16\)\
-\-\ breath\ \(424\)\
-\-\ auscultation\ \(83\)\
-\-\ arrhythmias\ \(7\)\
-\-\ appearance\ \(749\)\
-\-\ alert\ \(63\)\
-\-\ alcohol\ \(122\)\
-\-\ aid\ \(82\)\
-\-\ adenopathy\ \(397\)\
-\-\ abdomen\ \(661\)\
-\-\ 74\ \(128\)\
-\-\ 48\ \(260\)\
-\-\ 30\ \(631\)\
-\-\ 1\ \(15898\)\
+- possible small apical aneurysm
+- physiological left ventricular hypertrophy
+- marked left ventricular hypertrophy
+- maximum apical wall thickness
+- lv outflow tract obstruction
+- 4 cm involving inferoseptum
+- Â» apical hypertrophic cardiomyopathy
+- infiltrative heart muscle disease
+- acute respiratory distress syndrome
+- maximum wall thickness
+- apical hypertrophic cardiomyopathy
+- muscle strength intact
+- left shoulder pain
+- touch without dermatitis
+- sudden unexplained death
+- secondary tobacco smoke
+- rhythm without murmur
+- recreational drug use
+- pulmonary function studies
+- nontender without hepatosplenomegaly
+- moist without pallor
+- late gadolinium enhancement
+- implanted without complications
+- height 5 feet
+- general household tasks
+- ekg study showed
+- echocardiogram study showed
+- blood pressure 121
+- nonsustained ventricular tachycardia
+- peripheral edema noted
+- pathophysiological hypertrophy due
+- mid cavity obstruction
+- heart palpitations ,"
+- abdominal bruits noted
+- weight 202 pounds
+- moderate aortic insufficiency
+- hour holter monitor
+- ongoing chest pain
+- daily chest pain
+- within normal limits
+- normal without bruits
+- atrial tachycardia runs
+- symmetrical without bruits
+- potential lethal arrhythmia
+- past medical history
+- equal expansion bilaterally
+- cardiac mri evaluation
+- acute distress
+- ventricular tachycardia
+- apical septum
+- left side
+- basal lv
+- noted throughout
+- weight loss
+- monitor revealed
+- cardiac enzymes
+- atrial fibrillation
+- aortic stenosis
+- normal affect
+- 8 cm
+- 2 cm
+- vital signs
+- two children
+- storage disorder
+- short pr
+- repolarization abnormality
+- regular rate
+- recommended proceeding
+- radiates across
+- pulse 62
+- pulsatile masses
+- oral mucosa
+- myocardial infarction
+- laboratory tests
+- good rom
+- femoral arteries
+- fatal arrhythmia
+- fabry â€™
+- extreme fatigue
+- emotional stress
+- ejection fraction
+- chamber cardioverter
+- carotid upstrokes
+- bowel sounds
+- benign pvcs
+- beat run
+- athlete â€™
+- ages 37
+- 110 milliseconds
+- well developed
+- patient states
+- never smoked
+- near syncope
+- family history
+- denies exposure
+- also counseled
+- obstruction
+- heart
+- Â»
+- respiratory
+- inferoseptum
+- disease
+- chest
+- normal
+- symmetrical
+- history
+- evaluation
+- due
+- bilaterally
+- arrhythmia
+- well
+- syncope
+- patient
+- never
+- family
+- denies
+- also
+- 8
+- 2
+- waves
+- ulcerations
+- thyromegaly
+- symptoms
+- soft
+- skin
+- sister
+- since
+- shortness
+- sent
+- rub
+- risk
+- pt
+- psych
+- prescribed
+- pmi
+- particularly
+- oriented
+- ordered
+- onset
+- oldest
+- nondisplaced
+- neck
+- nausea
+- musculoskeletal
+- mother
+- mild
+- mentions
+- lids
+- lasix
+- jvd
+- issues
+- interval
+- indicated
+- importance
+- implementation
+- hypertension
+- heent
+- gi
+- gallop
+- flipped
+- fibrosis
+- extremities
+- exertion
+- evidence
+- evaluate
+- episodes
+- episode
+- elevation
+- dyspnea
+- dual
+- dp
+- discomfort
+- diaphoresis
+- diagnosed
+- describes
+- defibrillator
+- cyanosis
+- cool
+- conjunctivae
+- condition
+- concerns
+- clubbing
+- clear
+- cardiovascular
+- brother
+- breath
+- auscultation
+- arrhythmias
+- appearance
+- alert
+- alcohol
+- aid
+- adenopathy
+- abdomen
+- 74
+- 48
+- 30
+- 1

@@ -9,21 +9,21 @@ Routine screening chest film.
 
 
 Keywords: 
-\-\ top\\ normal\\ normal\\ chest\\ review\\ normal\\ routine\\ screening\\ chest\\ film\ \(0\)\
-\-\ pt\\_id\\ \\=\\&\\ topic\\_id\ \(0\)\
-\-\ lung\\ lobe\\ anatomy\ \(0\)\
-\-\ http\\ \\:\\/\\/\\ rad\ \(0\)\
-\-\ usuhs\ \(106\)\
-\-\ tfcase\\_thumbnails\ \(0\)\
-\-\ raw\\_image\ \(1\)\
-\-\ quiz\ \(19\)\
-\-\ php3\ \(10\)\
-\-\ parent\ \(278\)\
-\-\ mode\ \(434\)\
-\-\ medpix\ \(147\)\
-\-\ imageid\ \(16\)\
-\-\ html\ \(127\)\
-\-\ edu\ \(1575\)\
-\-\ case\\_prog\ \(4\)\
-\-\ 7747\ \(1\)\
-\-\ 36501\ \(1\)\
+- top normal normal chest review normal routine screening chest film
+- pt_id =& topic_id
+- lung lobe anatomy
+- http :// rad
+- usuhs
+- tfcase_thumbnails
+- raw_image
+- quiz
+- php3
+- parent
+- mode
+- medpix
+- imageid
+- html
+- edu
+- case_prog
+- 7747
+- 36501

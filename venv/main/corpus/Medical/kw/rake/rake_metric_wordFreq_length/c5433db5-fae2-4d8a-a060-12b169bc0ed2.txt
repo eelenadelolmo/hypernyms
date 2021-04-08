@@ -89,544 +89,551 @@ Finally, the patient has admitted history of depression. Headaches, fatigue, and
 
 
 Keywords: 
-\-\ patient\\ experienced\\ cervical\\ pain\ \(1\)\
-\-\ cervical\\ spine\\ mri\\ findings\ \(0\)\
-\-\ leg\\ pain\\ since\\ 2004\ \(1\)\
-\-\ quantify\\ disease\\ progression\\ since\ \(1\)\
-\-\ subsequently\\ left\\ arm\\ pain\ \(1\)\
-\-\ lower\\ back\\ pain\ \(134\)\
-\-\ indicates\\ advanced\\ disease\\ 2\ \(0\)\
-\-\ experienced\\ daily\\ headaches\\ since\ \(1\)\
-\-\ extensive\\ ms\\ plaques\\ seen\ \(0\)\
-\-\ existing\\ ms\\ since\\ 2004\ \(0\)\
-\-\ cervical\\ l\\ lateral\ \(0\)\
-\-\ extensive\\ ms\\ plaques\ \(0\)\
-\-\ right\\ arm\\ pain\ \(8\)\
-\-\ ms\\ symptoms\\ classically\\ wax\ \(0\)\
-\-\ mild\\ diffuse\\ posterior\\ bulge\ \(0\)\
-\-\ lumbar\\ mri\\ findings\ \(0\)\
-\-\ cervical\\ r\\ lateral\ \(0\)\
-\-\ cervical\\ l\\ rotation\ \(0\)\
-\-\ mild\\ diffuse\\ posterior\\ ridging\ \(0\)\
-\-\ lumbar\\ l\\ lateral\\ bend\ \(0\)\
-\-\ track\\ disease\\ progression\\ pt\ \(0\)\
-\-\ ms\\ type\\ progression\\ theory\ \(0\)\
-\-\ ms\\ symptoms\ \(0\)\
-\-\ indicates\\ advanced\\ disease\ \(0\)\
-\-\ disc\\ disease\\ following\ \(1\)\
-\-\ demonstrate\\ extensive\\ disease\ \(1\)\
-\-\ cervical\\ r\\ rotation\ \(0\)\
-\-\ systemic\\ medical\\ disease\ \(1\)\
-\-\ mri\\ brain\\ 2012\ \(0\)\
-\-\ mild\\ bilateral\\ posterolateral\\ ridging\ \(1\)\
-\-\ lumbar\\ r\\ lateral\\ bend\ \(0\)\
-\-\ l\\ straight\\ leg\\ raise\ \(0\)\
-\-\ indicating\\ advanced\\ disease\ \(0\)\
-\-\ degenerative\\ disc\\ disease\ \(10\)\
-\-\ cervical\\ flexion\ \(9\)\
-\-\ bilateral\\ knee\\ pain\ \(12\)\
-\-\ back\\ pain\ \(447\)\
-\-\ vessel\\ ischemic\\ disease\ \(3\)\
-\-\ progressed\\ since\\ 2010\\ due\ \(1\)\
-\-\ ms\\ symptom\\ exacerbation\ \(0\)\
-\-\ leg\\ pain\ \(47\)\
-\-\ ischemic\\ vascular\\ disease\ \(0\)\
-\-\ r\\ straight\\ leg\\ raise\ \(0\)\
-\-\ normal\\ cervical\\ lordosis\ \(9\)\
-\-\ mri\\ evaluation\ \(0\)\
-\-\ mild\\ central\\ bulge\ \(0\)\
-\-\ left\\ lower\\ extremity\\ extending\ \(2\)\
-\-\ experienced\\ since\ \(1\)\
-\-\ cervical\\ spine\ \(205\)\
-\-\ based\\ posterior\\ disc\\ bulge\ \(0\)\
-\-\ angella\\ sandell\\ ms\\ 1v\ \(0\)\
-\-\ neck\\ pain\ \(191\)\
-\-\ multiple\\ sclerosis\\ symptoms\ \(1\)\
-\-\ lower\\ back\ \(226\)\
-\-\ anterior\\ subarachnoid\\ space\\ 3\ \(0\)\
-\-\ also\\ experienced\\ episodes\ \(2\)\
-\-\ also\\ demonstrates\\ findings\ \(1\)\
-\-\ 2012\\ mri\ \(0\)\
-\-\ pregnancy\\ four\\ years\\ ago\ \(1\)\
-\-\ past\\ medical\\ history\ \(145\)\
-\-\ ms\\ etiology\ \(0\)\
-\-\ mri\\ brain\ \(0\)\
-\-\ memory\\ difficulties\\ could\ \(1\)\
-\-\ lower\\ extremities\\ bilaterally\ \(19\)\
-\-\ g6p4024\\ past\\ surgical\\ history\ \(0\)\
-\-\ cervical\\ extensionn37\ \(1\)\
-\-\ back\\ flexion\ \(2\)\
-\-\ post\\ mva\\ findings\ \(0\)\
-\-\ patient\\ follow\ \(7\)\
-\-\ ms\ \(3148\)\
-\-\ monofilament\\ senory\\ evaluation\\ demonstrated\ \(0\)\
-\-\ lumbar\\ flexion\ \(3\)\
-\-\ four\\ years\\ ago\ \(5\)\
-\-\ experiences\\ daily\\ frontal\\ headaches\ \(1\)\
-\-\ anterior\\ subarachnoid\\ space\\ flattening\ \(0\)\
-\-\ trauma\\ back\ \(0\)\
-\-\ reflexes\\ biceps\\ graded\\ 2\ \(0\)\
-\-\ namely\\ diffuse\\ shaking\\ tremors\ \(1\)\
-\-\ mild\\ effacement\ \(5\)\
-\-\ memory\\ loss\ \(16\)\
-\-\ lower\\ extremities\ \(157\)\
-\-\ left\\ hip\\ flexor\\ 26\ \(0\)\
-\-\ head\\ mri\ \(0\)\
-\-\ four\\ year\\ ago\ \(1\)\
-\-\ experienced\\ ophthalmologic\\ blindness\ \(1\)\
-\-\ diffuse\\ plaques\ \(1\)\
-\-\ daily\\ arm\ \(1\)\
-\-\ could\\ also\ \(25\)\
-\-\ bilateral\\ loss\ \(3\)\
-\-\ anterior\\ subarachnoid\\ space\ \(17\)\
-\-\ traumatic\\ headaches\\ may\ \(1\)\
-\-\ reported\\ loss\ \(3\)\
-\-\ reported\\ arm\ \(1\)\
-\-\ radial\\ pulses\\ 2\\ \\+\\.\ \(0\)\
-\-\ plaques\\ noted\ \(0\)\
-\-\ patient\\ online\\ forums\ \(1\)\
-\-\ neck\\ flexion\ \(5\)\
-\-\ mri\ \(5\)\
-\-\ motor\\ vehicle\\ accident\\ inclusive\ \(0\)\
-\-\ lower\\ limb\\ paralysis\ \(1\)\
-\-\ leg\\ tremors\ \(2\)\
-\-\ left\\ flexor\\ hallucis\ \(3\)\
-\-\ l\\ negative\\ rhomberg\ \(0\)\
-\-\ intermittent\\ memory\\ difficulties\ \(1\)\
-\-\ facet\\ arthropathy\\ mildly\\ encroaching\ \(0\)\
-\-\ extensive\\ views\\ noted\ \(0\)\
-\-\ evaluation\\ \\‚\\Ä\\î\\ neither\\ intention\ \(0\)\
-\-\ eight\\ years\\ ago\ \(0\)\
-\-\ case\\ report\\ \\)\\,\\ exemplifies\ \(0\)\
-\-\ bilateral\\ facet\\ arthropathy\ \(0\)\
-\-\ admitted\\ history\ \(1\)\
-\-\ whether\\ physical\\ trauma\ \(1\)\
-\-\ vitamin\\ b12\\ deficiency\ \(0\)\
-\-\ tremors\\ could\ \(0\)\
-\-\ since\ \(279\)\
-\-\ see\\ imaging\\ \\)\\.\ \(0\)\
-\-\ reports\\ loss\ \(8\)\
-\-\ radicular\\ symptoms\ \(12\)\
-\-\ patient\\ stated\ \(8\)\
-\-\ patient\\ noticed\ \(4\)\
-\-\ nerve\\ conduction\\ studies\\ would\ \(1\)\
-\-\ multiple\\ sclerosis\\ vs\ \(0\)\
-\-\ motor\\ vehicle\\ accident\ \(113\)\
-\-\ mild\\ indentation\ \(1\)\
-\-\ memory\\ difficulties\ \(4\)\
-\-\ many\\ case\\ reports\ \(1\)\
-\-\ lumbar\\ extension\ \(3\)\
-\-\ function\\ loss\ \(1\)\
-\-\ foramina\\ without\\ significant\\ stenosis\ \(0\)\
-\-\ experienced\\ aphasia\ \(1\)\
-\-\ constitutional\\ symptoms\ \(13\)\
-\-\ central\\ canal\\ stenosis\ \(11\)\
-\-\ \\‚\\Ä\\ú\\ full\\ attack\\ \\‚\\Ä\\ù\ \(0\)\
-\-\ symptoms\ \(1193\)\
-\-\ subsequently\\ attack\\ native\\ myelin\ \(1\)\
-\-\ social\\ history\ \(7\)\
-\-\ small\\ central\\ protrusion\ \(0\)\
-\-\ ray\\ evaluation\ \(2\)\
-\-\ patient\ \(6664\)\
-\-\ one\\ prospective\\ study\ \(1\)\
-\-\ neural\\ foraminal\\ narrowing\ \(3\)\
-\-\ multiple\\ sclerosis\ \(41\)\
-\-\ l\ \(296491\)\
-\-\ impaired\\ sleep\\ due\ \(1\)\
-\-\ experience\\ another\\ exacerbation\ \(1\)\
-\-\ every\\ 3\\ months\ \(5\)\
-\-\ daily\\ bowel\\ incontinence\ \(1\)\
-\-\ c5\\ level\ \(0\)\
-\-\ c4\\ level\ \(0\)\
-\-\ c3\\ level\ \(0\)\
-\-\ back\ \(894\)\
-\-\ also\\ give\ \(3\)\
-\-\ 2012\\ demonstrates\ \(1\)\
-\-\ 2\\ mm\ \(54\)\
-\-\ \\‚\\Ä\\ú\\ post\ \(0\)\
-\-\ upper\\ extremities\ \(70\)\
-\-\ traumatic\\ headache\\ \\.\\‚\\Ä\\ù\ \(0\)\
-\-\ tracking\\ right\ \(1\)\
-\-\ t1\\ imaging\ \(0\)\
-\-\ spine\\ cord\ \(0\)\
-\-\ sagittal\\ t2\\ flair\ \(0\)\
-\-\ sagittal\\ images\ \(15\)\
-\-\ right\\ w\ \(87\)\
-\-\ referrals\\ imaging\ \(1\)\
-\-\ psychiatric\\ follow\ \(1\)\
-\-\ posterolateral\\ ridging\ \(2\)\
-\-\ posterior\\ spurring\ \(14\)\
-\-\ pmd\\ follow\ \(0\)\
-\-\ plaques\ \(112\)\
-\-\ physical\\ trauma\ \(4\)\
-\-\ perform\\ rapid\\ alternating\\ movements\ \(1\)\
-\-\ past\\ success\ \(1\)\
-\-\ likely\\ could\ \(1\)\
-\-\ left\ \(6663\)\
-\-\ however\\ admitted\ \(1\)\
-\-\ history\ \(2609\)\
-\-\ flexion\ \(325\)\
-\-\ findings\ \(1459\)\
-\-\ eyes\\ without\\ glasses\ \(1\)\
-\-\ evaluation\ \(719\)\
-\-\ equivoval\\ published\\ literature\\ found\ \(1\)\
-\-\ demonstrated\\ 20\ \(2\)\
-\-\ computerized\\ inclinometric\\ rom\ \(0\)\
-\-\ clinical\\ depression\ \(1\)\
-\-\ clinical\\ correlation\ \(3\)\
-\-\ chronic\\ nsaid\\ therapy\ \(0\)\
-\-\ chiropractic\\ clinical\\ diagnosis\ \(0\)\
-\-\ case\\ contributors\ \(0\)\
-\-\ c6\\ level\ \(0\)\
-\-\ bulges\\ mildly\\ encroaching\ \(0\)\
-\-\ b12\\ deficiency\ \(0\)\
-\-\ arm\ \(586\)\
-\-\ also\ \(1857\)\
-\-\ achilles\\ reflex\\ graded\\ 0\ \(0\)\
-\-\ 2010\\ 1\ \(0\)\
-\-\ 2\ \(13754\)\
-\-\ \\‚\\Ä\\¢\\ small\ \(1\)\
-\-\ \\‚\\Ä\\¢\\ multi\ \(6\)\
-\-\ vertebral\\ subluxation\\ complex\ \(1\)\
-\-\ ventral\\ thecal\\ sac\ \(12\)\
-\-\ using\\ computerized\\ testing\ \(0\)\
-\-\ uncovertebral\\ joint\\ hypertrophy\\ resulting\ \(1\)\
-\-\ systemic\\ causes\ \(1\)\
-\-\ summer\\ season\\ \\)\\.\ \(0\)\
-\-\ spinal\\ cord\ \(299\)\
-\-\ spinal\\ canal\ \(92\)\
-\-\ sciatic\\ nerve\\ paresthesias\ \(1\)\
-\-\ right\ \(7267\)\
-\-\ relative\\ deficiency\ \(2\)\
-\-\ providing\\ primary\\ care\ \(0\)\
-\-\ primary\\ physician\\ diagnosed\ \(1\)\
-\-\ perform\\ rom\ \(0\)\
-\-\ past\ \(477\)\
-\-\ oral\\ mucosa\\ moist\ \(0\)\
-\-\ obstructive\\ sleep\\ apnea\ \(6\)\
-\-\ neural\\ foramina\ \(54\)\
-\-\ minimal\\ effacement\ \(0\)\
-\-\ least\\ 2010\ \(1\)\
-\-\ imaging\ \(1265\)\
-\-\ images\\ continue\ \(2\)\
-\-\ headaches\ \(312\)\
-\-\ foraminal\\ pathology\ \(0\)\
-\-\ follow\ \(2068\)\
-\-\ current\\ medications\\ include\\ soma\ \(0\)\
-\-\ chronic\\ form\ \(3\)\
-\-\ charles\\ tirone\\ md\ \(0\)\
-\-\ case\ \(1848\)\
-\-\ bulge\ \(151\)\
-\-\ axial\\ flair\ \(0\)\
-\-\ 4\\ bl\ \(5\)\
-\-\ 4\\ \\%\\.\ \(0\)\
-\-\ 30\\ vision\ \(1\)\
-\-\ 2012\ \(73\)\
-\-\ vertebral\\ discs\ \(9\)\
-\-\ ventral\\ aspect\ \(4\)\
-\-\ unclear\\ whether\ \(4\)\
-\-\ topic\\ discussion\\ attached\ \(1\)\
-\-\ serious\\ causes\ \(1\)\
-\-\ sensitive\\ study\ \(1\)\
-\-\ reviewed\\ prospective\ \(1\)\
-\-\ retrospective\\ studies\ \(3\)\
-\-\ required\\ correlation\ \(0\)\
-\-\ reported\ \(462\)\
-\-\ post\ \(2733\)\
-\-\ possible\\ nystagmus\ \(0\)\
-\-\ possible\\ manifestation\ \(1\)\
-\-\ plausible\\ cause\ \(1\)\
-\-\ phase\\ ii\\ pathophysiology\ \(0\)\
-\-\ p\\ mva\ \(0\)\
-\-\ oral\\ ulcers\ \(4\)\
-\-\ one\\ week\ \(69\)\
-\-\ ocular\\ blindness\ \(1\)\
-\-\ noted\ \(1338\)\
-\-\ neck\ \(1086\)\
-\-\ migraine\\ headache\ \(11\)\
-\-\ may\\ prediscpose\ \(1\)\
-\-\ long\\ standing\\ nature\ \(1\)\
-\-\ local\\ hospital\ \(16\)\
-\-\ literature\\ explores\ \(0\)\
-\-\ immediately\\ following\ \(16\)\
-\-\ images\ \(1885\)\
-\-\ hyperthyroid\\ iron\ \(0\)\
-\-\ five\\ months\ \(14\)\
-\-\ feet\\ b\ \(5\)\
-\-\ exacerbation\ \(56\)\
-\-\ especially\\ periventricularly\ \(0\)\
-\-\ especially\\ periventricular\ \(0\)\
-\-\ effacement\ \(70\)\
-\-\ dynamic\\ motion\\ x\ \(0\)\
-\-\ due\ \(942\)\
-\-\ dtr\\ \\‚\\Ä\\ô\ \(0\)\
-\-\ discontinue\\ tysabri\ \(0\)\
-\-\ diagnostic\\ work\ \(2\)\
-\-\ demonstrated\ \(718\)\
-\-\ cta\\ b\ \(0\)\
-\-\ conservative\\ management\\ treatment\ \(1\)\
-\-\ cn\\ \\‚\\Ä\\ô\ \(0\)\
-\-\ brain\ \(782\)\
-\-\ biologic\\ therapy\ \(1\)\
-\-\ bbb\\ underlies\ \(0\)\
-\-\ axial\\ scans\ \(1\)\
-\-\ ax\\ ir\\ fspgr\ \(0\)\
-\-\ another\\ sign\ \(0\)\
-\-\ admitted\ \(182\)\
-\-\ acquire\\ er\\ records\ \(0\)\
-\-\ accident\ \(382\)\
-\-\ 68\\ degrees\ \(1\)\
-\-\ 66\\ degrees\ \(2\)\
-\-\ 5\\ cups\ \(1\)\
-\-\ 4\ \(7367\)\
-\-\ 3\ \(8405\)\
-\-\ 12\\ intact\ \(7\)\
-\-\ year\ \(4238\)\
-\-\ would\ \(459\)\
-\-\ work\ \(390\)\
-\-\ vitamin\ \(64\)\
-\-\ vision\ \(232\)\
-\-\ upper\ \(1399\)\
-\-\ tysabri\ \(0\)\
-\-\ two\\ weeks\ \(67\)\
-\-\ tubal\\ ligation\ \(7\)\
-\-\ theory\ \(16\)\
-\-\ subcortical\\ infarcts\ \(1\)\
-\-\ resting\\ tremor\ \(3\)\
-\-\ report\ \(1067\)\
-\-\ renal\\ failure\ \(67\)\
-\-\ recent\\ worsening\ \(4\)\
-\-\ randall\\ loftus\ \(0\)\
-\-\ quiet\\ breathing\ \(0\)\
-\-\ pathology\ \(218\)\
-\-\ outpatient\\ psychiatrist\ \(1\)\
-\-\ occasional\\ syncope\ \(1\)\
-\-\ normal\ \(4026\)\
-\-\ non\\ distended\ \(0\)\
-\-\ neurologic\\ complaint\ \(5\)\
-\-\ narrowing\ \(307\)\
-\-\ muscle\\ spasm\ \(25\)\
-\-\ multi\ \(1319\)\
-\-\ mineral\\ deficiencies\ \(1\)\
-\-\ md\ \(31\)\
-\-\ litigation\\ exist\ \(1\)\
-\-\ ligamentous\\ instability\ \(5\)\
-\-\ late\\ forties\ \(1\)\
-\-\ krishnan\\ kartha\ \(0\)\
-\-\ knee\ \(865\)\
-\-\ joseph\\ serghany\ \(0\)\
-\-\ joanna\\ garvey\ \(0\)\
-\-\ iron\ \(92\)\
-\-\ immune\\ cells\ \(1\)\
-\-\ however\ \(389\)\
-\-\ hospital\ \(381\)\
-\-\ glasses\ \(3\)\
-\-\ geoffrey\\ gerow\ \(0\)\
-\-\ function\ \(496\)\
-\-\ form\ \(3049\)\
-\-\ family\\ hx\ \(1\)\
-\-\ extension\ \(505\)\
-\-\ drug\\ use\ \(19\)\
-\-\ diabetes\\ mellitus\ \(26\)\
-\-\ described\\ complaints\ \(1\)\
-\-\ depression\ \(57\)\
-\-\ depressant\\ medication\ \(1\)\
-\-\ denies\\ alcohol\ \(4\)\
-\-\ decreased\\ energy\ \(3\)\
-\-\ chest\\ symmetrical\ \(0\)\
-\-\ cause\ \(1456\)\
-\-\ carotid\\ arteries\ \(19\)\
-\-\ c5\ \(4\)\
-\-\ c4\ \(1\)\
-\-\ c3\ \(4\)\
-\-\ c\\ x2\ \(0\)\
-\-\ bruits\\ auscultated\ \(2\)\
-\-\ bilaterally\ \(719\)\
-\-\ bbb\ \(0\)\
-\-\ based\ \(311\)\
-\-\ ap\\ dimension\ \(0\)\
-\-\ animal\\ models\ \(1\)\
-\-\ adventitious\\ sounds\ \(1\)\
-\-\ acute\\ distress\ \(65\)\
-\-\ 5\ \(8237\)\
-\-\ 30\ \(631\)\
-\-\ 20\ \(2416\)\
-\-\ 12\ \(1027\)\
-\-\ 1\ \(15898\)\
-\-\ warranted\ \(30\)\
-\-\ wane\ \(3\)\
-\-\ ventricles\ \(137\)\
-\-\ understand\ \(16\)\
-\-\ trial\ \(370\)\
-\-\ treat\ \(2113\)\
-\-\ tobacco\ \(43\)\
-\-\ time\ \(1151\)\
-\-\ throbbing\ \(8\)\
-\-\ though\ \(721\)\
-\-\ tested\ \(44\)\
-\-\ t10\ \(0\)\
-\-\ suspicion\ \(90\)\
-\-\ support\ \(190\)\
-\-\ suggestive\ \(196\)\
-\-\ suggest\ \(734\)\
-\-\ strength\ \(261\)\
-\-\ straightening\ \(14\)\
-\-\ steroids\ \(152\)\
-\-\ stay\ \(54\)\
-\-\ spondylolisthesis\ \(29\)\
-\-\ soon\ \(32\)\
-\-\ soft\ \(1126\)\
-\-\ show\ \(2606\)\
-\-\ shortness\ \(201\)\
-\-\ sensation\ \(159\)\
-\-\ seizures\ \(203\)\
-\-\ secondary\ \(741\)\
-\-\ said\ \(14\)\
-\-\ s2\ \(7\)\
-\-\ s1\ \(13\)\
-\-\ ruled\ \(73\)\
-\-\ rule\ \(304\)\
-\-\ rubs\ \(64\)\
-\-\ rrr\ \(3\)\
-\-\ resp\ \(776\)\
-\-\ remit\ \(907\)\
-\-\ remained\ \(72\)\
-\-\ relieved\ \(52\)\
-\-\ relief\ \(113\)\
-\-\ relationship\ \(51\)\
-\-\ related\ \(322\)\
-\-\ regardless\ \(12\)\
-\-\ regarding\ \(44\)\
-\-\ recommended\ \(221\)\
-\-\ rather\ \(114\)\
-\-\ question\ \(141\)\
-\-\ prudent\ \(7\)\
-\-\ present\ \(4381\)\
-\-\ pre\ \(9195\)\
-\-\ point\ \(485\)\
-\-\ pink\ \(31\)\
-\-\ photophobia\ \(28\)\
-\-\ perpendicular\ \(17\)\
-\-\ performed\ \(898\)\
-\-\ peer\ \(3\)\
-\-\ pathologies\ \(11\)\
-\-\ patent\ \(137\)\
-\-\ outlined\ \(15\)\
-\-\ oligodendrocytes\ \(1\)\
-\-\ often\ \(615\)\
-\-\ obtained\ \(400\)\
-\-\ observed\ \(133\)\
-\-\ obese\ \(35\)\
-\-\ nutrient\ \(4\)\
-\-\ number\ \(113\)\
-\-\ november\ \(0\)\
-\-\ normocephalic\ \(13\)\
-\-\ nontender\ \(76\)\
-\-\ neurologist\ \(24\)\
-\-\ neuro\ \(1122\)\
-\-\ necessary\ \(182\)\
-\-\ musculoskeletal\ \(27\)\
-\-\ murmurs\ \(78\)\
-\-\ mother\ \(578\)\
-\-\ moderate\ \(287\)\
-\-\ might\ \(55\)\
-\-\ meeting\ \(7\)\
-\-\ medscape\ \(38\)\
-\-\ manage\ \(404\)\
-\-\ lortab\ \(3\)\
-\-\ living\ \(27\)\
-\-\ leukoencephalopathy\ \(7\)\
-\-\ lesions\ \(1236\)\
-\-\ legs\ \(83\)\
-\-\ laxity\ \(33\)\
-\-\ lasted\ \(10\)\
-\-\ large\ \(2002\)\
-\-\ l5\ \(2\)\
-\-\ l4\ \(1\)\
-\-\ l3\ \(0\)\
-\-\ known\ \(736\)\
-\-\ june\ \(0\)\
-\-\ interfered\ \(5\)\
-\-\ integrity\ \(26\)\
-\-\ inpatient\ \(41\)\
-\-\ infarct\ \(514\)\
-\-\ impingement\ \(109\)\
-\-\ ibuprofen\ \(25\)\
-\-\ hypothyroidism\ \(39\)\
-\-\ hypothyroid\ \(45\)\
-\-\ hypesthesia\ \(8\)\
-\-\ htn\ \(15\)\
-\-\ hpi\ \(0\)\
-\-\ herniation\ \(401\)\
-\-\ helpful\ \(84\)\
-\-\ heent\ \(2\)\
-\-\ gi\ \(12448\)\
-\-\ general\ \(298\)\
-\-\ gallops\ \(49\)\
-\-\ gadolinium\ \(152\)\
-\-\ followed\ \(428\)\
-\-\ folate\ \(7\)\
-\-\ finally\ \(9\)\
-\-\ fatigue\ \(79\)\
-\-\ father\ \(40\)\
-\-\ exploring\ \(6\)\
-\-\ evidence\ \(994\)\
-\-\ evaluaton\ \(1\)\
-\-\ environmental\ \(3\)\
-\-\ emg\ \(0\)\
-\-\ dp\ \(240\)\
-\-\ difficult\ \(396\)\
-\-\ deceased\ \(5\)\
-\-\ dc\ \(33\)\
-\-\ day\ \(1289\)\
-\-\ cva\ \(1\)\
-\-\ cv\ \(6\)\
-\-\ currently\ \(210\)\
-\-\ curious\ \(1\)\
-\-\ cross\ \(198\)\
-\-\ coronal\ \(180\)\
-\-\ consistent\ \(1042\)\
-\-\ concept\ \(18\)\
-\-\ compromised\ \(34\)\
-\-\ compromise\ \(81\)\
-\-\ coffee\ \(6\)\
-\-\ coexist\ \(10\)\
-\-\ cholecystectomy\ \(63\)\
-\-\ chiropractor\ \(38\)\
-\-\ caused\ \(225\)\
-\-\ calf\ \(60\)\
-\-\ cadasil\ \(0\)\
-\-\ c2\ \(8\)\
-\-\ broad\ \(187\)\
-\-\ breath\ \(424\)\
-\-\ breakdown\ \(14\)\
-\-\ blood\ \(828\)\
-\-\ barrier\ \(21\)\
-\-\ atraumatic\ \(24\)\
-\-\ asthma\ \(67\)\
-\-\ association\ \(113\)\
-\-\ associated\ \(1240\)\
-\-\ anti\ \(908\)\
-\-\ annually\ \(12\)\
-\-\ ambien\ \(6\)\
-\-\ along\ \(515\)\
-\-\ almost\ \(113\)\
-\-\ allergies\ \(23\)\
-\-\ adem\ \(8\)\
-\-\ able\ \(2982\)\
-\-\ abdomen\ \(661\)\
-\-\ 92\ \(112\)\
-\-\ 9\ \(4978\)\
-\-\ 84\ \(104\)\
-\-\ 80\ \(384\)\
-\-\ 8\ \(4289\)\
-\-\ 7\ \(4391\)\
-\-\ 69\ \(104\)\
-\-\ 60\ \(445\)\
-\-\ 6\ \(5312\)\
-\-\ 49\ \(153\)\
-\-\ 36\ \(281\)\
-\-\ 29\ \(228\)\
-\-\ 28\ \(276\)\
-\-\ 27\ \(323\)\
-\-\ 11\ \(860\)\
+- patient experienced cervical pain
+- cervical spine mri findings
+- leg pain since 2004
+- quantify disease progression since
+- subsequently left arm pain
+- lower back pain
+- indicates advanced disease 2
+- experienced daily headaches since
+- extensive ms plaques seen
+- existing ms since 2004
+- cervical l lateral
+- extensive ms plaques
+- right arm pain
+- ms symptoms classically wax
+- mild diffuse posterior bulge
+- lumbar mri findings
+- cervical r lateral
+- cervical l rotation
+- mild diffuse posterior ridging
+- lumbar l lateral bend
+- disc disease following
+- track disease progression pt
+- ms type progression theory
+- ms symptoms
+- indicates advanced disease
+- demonstrate extensive disease
+- degenerative disc disease
+- cervical r rotation
+- systemic medical disease
+- ms symptom exacerbation
+- mri brain 2012
+- mild bilateral posterolateral ridging
+- lumbar r lateral bend
+- l straight leg raise
+- indicating advanced disease
+- cervical flexion
+- bilateral knee pain
+- back pain
+- vessel ischemic disease
+- progressed since 2010 due
+- multiple sclerosis symptoms
+- leg pain
+- ischemic vascular disease
+- based posterior disc bulge
+- r straight leg raise
+- normal cervical lordosis
+- mri evaluation
+- mild central bulge
+- left lower extremity extending
+- experienced since
+- cervical spine
+- angella sandell ms 1v
+- neck pain
+- multiple sclerosis exacerbation
+- lower back
+- anterior subarachnoid space 3
+- also experienced episodes
+- also demonstrates findings
+- 2012 mri
+- pregnancy four years ago
+- past medical history
+- ms etiology
+- mri brain
+- memory difficulties could
+- lower extremities bilaterally
+- level disc herniation
+- g6p4024 past surgical history
+- cervical extensionn37
+- back flexion
+- post mva findings
+- patient follow
+- ms
+- monofilament senory evaluation demonstrated
+- lumbar flexion
+- four years ago
+- experiences daily frontal headaches
+- anterior subarachnoid space flattening
+- trauma back
+- reflexes biceps graded 2
+- namely diffuse shaking tremors
+- multiple sclerosis vs
+- mild effacement
+- memory loss
+- lower extremities
+- left hip flexor 26
+- head mri
+- four year ago
+- experienced ophthalmologic blindness
+- diffuse plaques
+- daily arm
+- could also
+- bilateral loss
+- anterior subarachnoid space
+- traumatic headaches may
+- reported loss
+- reported arm
+- radial pulses 2 +.
+- plaques noted
+- patient online forums
+- neck flexion
+- multiple sclerosis
+- mri
+- motor vehicle accident inclusive
+- lower limb paralysis
+- leg tremors
+- left flexor hallucis
+- l negative rhomberg
+- intermittent memory difficulties
+- facet arthropathy mildly encroaching
+- extensive views noted
+- evaluation ‚Äî neither intention
+- eight years ago
+- case report ), exemplifies
+- bilateral facet arthropathy
+- admitted history
+- whether physical trauma
+- vitamin b12 deficiency
+- tremors could
+- since
+- see imaging ).
+- reports loss
+- radicular symptoms
+- patient stated
+- patient noticed
+- nerve conduction studies would
+- motor vehicle accident
+- mild indentation
+- memory difficulties
+- many case reports
+- lumbar extension
+- function loss
+- foramina without significant stenosis
+- experienced aphasia
+- experience another exacerbation
+- constitutional symptoms
+- central canal stenosis
+- c5 level
+- c4 level
+- c3 level
+- ‚Äú full attack ‚Äù
+- symptoms
+- subsequently attack native myelin
+- social history
+- small central protrusion
+- ray evaluation
+- patient
+- one prospective study
+- neural foraminal narrowing
+- l
+- impaired sleep due
+- every 3 months
+- daily bowel incontinence
+- c6 level
+- back
+- also give
+- 2012 demonstrates
+- 2 mm
+- ‚Äú post
+- upper extremities
+- traumatic headache .‚Äù
+- tracking right
+- t1 imaging
+- spine cord
+- sagittal t2 flair
+- sagittal images
+- right w
+- referrals imaging
+- psychiatric follow
+- posterolateral ridging
+- posterior spurring
+- pmd follow
+- plaques
+- physical trauma
+- perform rapid alternating movements
+- past success
+- likely could
+- left
+- however admitted
+- history
+- flexion
+- findings
+- eyes without glasses
+- evaluation
+- equivoval published literature found
+- demonstrated 20
+- computerized inclinometric rom
+- clinical depression
+- clinical correlation
+- chronic nsaid therapy
+- chiropractic clinical diagnosis
+- case contributors
+- bulges mildly encroaching
+- b12 deficiency
+- arm
+- also
+- achilles reflex graded 0
+- 2010 1
+- 2
+- vertebral subluxation complex
+- ventral thecal sac
+- using computerized testing
+- uncovertebral joint hypertrophy resulting
+- systemic causes
+- summer season ).
+- spinal cord
+- spinal canal
+- sciatic nerve paresthesias
+- right
+- relative deficiency
+- providing primary care
+- primary physician diagnosed
+- perform rom
+- past
+- oral mucosa moist
+- obstructive sleep apnea
+- neural foramina
+- minimal effacement
+- least 2010
+- imaging
+- images continue
+- headaches
+- foraminal pathology
+- follow
+- exacerbation
+- current medications include soma
+- chronic form
+- charles tirone md
+- cerebral autosomal dominant arteriopathy
+- case
+- bulge
+- axial flair
+- acute disseminated encephalomyelitis
+- 4 bl
+- 4 %.
+- 30 vision
+- 2012
+- vertebral discs
+- ventral aspect
+- unclear whether
+- topic discussion attached
+- serious causes
+- sensitive study
+- reviewed prospective
+- retrospective studies
+- required correlation
+- reported
+- post
+- possible nystagmus
+- possible manifestation
+- plausible cause
+- phase ii pathophysiology
+- p mva
+- oral ulcers
+- one week
+- ocular blindness
+- noted
+- neck
+- migraine headache
+- may prediscpose
+- long standing nature
+- local hospital
+- literature explores
+- immediately following
+- images
+- hyperthyroid iron
+- five months
+- feet b
+- especially periventricularly
+- especially periventricular
+- effacement
+- dynamic motion x
+- due
+- dtr ‚Äô
+- discontinue tysabri
+- diagnostic work
+- demonstrated
+- cta b
+- conservative management treatment
+- cn ‚Äô
+- brain
+- biologic therapy
+- bbb underlies
+- axial scans
+- ax ir fspgr
+- another sign
+- admitted
+- acute distress
+- acquire er records
+- accident
+- 68 degrees
+- 66 degrees
+- 5 cups
+- 4
+- 3
+- 12 intact
+- year
+- would
+- work
+- vitamin
+- vision
+- upper
+- tysabri
+- two weeks
+- tubal ligation
+- transverse myelitis
+- theory
+- subcortical infarcts
+- small
+- resting tremor
+- report
+- renal failure
+- recent worsening
+- randall loftus
+- quiet breathing
+- pathology
+- outpatient psychiatrist
+- occasional syncope
+- normal
+- non distended
+- neurologic complaint
+- narrowing
+- muscle spasm
+- mineral deficiencies
+- md
+- litigation exist
+- ligamentous instability
+- late forties
+- krishnan kartha
+- knee
+- joseph serghany
+- joanna garvey
+- iron
+- immune cells
+- however
+- hospital
+- herniation
+- glasses
+- geoffrey gerow
+- function
+- form
+- family hx
+- extension
+- drug use
+- diabetes mellitus
+- described complaints
+- depression
+- depressant medication
+- denies alcohol
+- decreased energy
+- chest symmetrical
+- cause
+- carotid arteries
+- c5
+- c4
+- c3
+- c x2
+- bruits auscultated
+- bilaterally
+- bbb
+- based
+- ap dimension
+- animal models
+- adventitious sounds
+- 5
+- 30
+- 20
+- 12
+- 1
+- warranted
+- wane
+- ventricles
+- vasculitis
+- understand
+- trial
+- treat
+- tobacco
+- time
+- throbbing
+- though
+- tested
+- t10
+- suspicion
+- support
+- suggestive
+- suggest
+- strength
+- straightening
+- steroids
+- stay
+- spondylolisthesis
+- soon
+- soft
+- show
+- shortness
+- sensation
+- seizures
+- secondary
+- sarcoidosis
+- said
+- s2
+- s1
+- ruled
+- rule
+- rubs
+- rrr
+- resp
+- remit
+- remained
+- relieved
+- relief
+- relationship
+- related
+- regardless
+- regarding
+- recommended
+- rather
+- question
+- prudent
+- present
+- pre
+- point
+- pink
+- photophobia
+- perpendicular
+- performed
+- peer
+- pathologies
+- patent
+- outlined
+- oligodendrocytes
+- often
+- obtained
+- observed
+- obese
+- nutrient
+- number
+- november
+- normocephalic
+- nontender
+- neurologist
+- neuro
+- necessary
+- musculoskeletal
+- murmurs
+- multi
+- mother
+- moderate
+- might
+- meeting
+- medscape
+- manage
+- lortab
+- living
+- leukoencephalopathy
+- lesions
+- legs
+- laxity
+- lasted
+- large
+- l5
+- l4
+- l3
+- known
+- june
+- interfered
+- integrity
+- inpatient
+- infarction
+- infarct
+- impingement
+- ibuprofen
+- hypothyroidism
+- hypothyroid
+- hypesthesia
+- htn
+- hpi
+- helpful
+- heent
+- gi
+- general
+- gallops
+- gadolinium
+- followed
+- folate
+- finally
+- fatigue
+- father
+- exploring
+- evidence
+- evaluaton
+- environmental
+- emg
+- dp
+- difficult
+- deceased
+- dc
+- day
+- cva
+- cv
+- currently
+- curious
+- cross
+- coronal
+- consistent
+- concept
+- compromised
+- compromise
+- coffee
+- coexist
+- cholecystectomy
+- chiropractor
+- caused
+- calf
+- cadasil
+- c2
+- broad
+- breath
+- breakdown
+- blood
+- barrier
+- atraumatic
+- asthma
+- association
+- associated
+- anti
+- annually
+- ambien
+- along
+- almost
+- allergies
+- adem
+- able
+- abdomen
+- 92
+- 9
+- 84
+- 80
+- 8
+- 7
+- 69
+- 60
+- 6
+- 49
+- 36
+- 29
+- 28
+- 27
+- 11

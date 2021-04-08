@@ -26,135 +26,140 @@ Another notable finding is the presence of an occipital infarct ipsilateral to t
 
 
 Keywords: 
-\-\ persistent\\ visual\\ field\\ defect\ \(1\)\
-\-\ one\\ interesting\\ imaging\\ feature\ \(0\)\
-\-\ ipsilateral\\ subgaleal\\ hematoma\\ implies\ \(1\)\
-\-\ posterior\\ cerebral\\ artery\\ results\ \(1\)\
-\-\ left\\ frontal\\ epidural\\ hematoma\ \(2\)\
-\-\ epidural\\ hematomas\\ rarely\\ cross\ \(1\)\
-\-\ secondary\\ left\\ occipital\\ infarct\ \(1\)\
-\-\ occipital\\ infarct\\ ipsilateral\ \(1\)\
-\-\ occipital\\ infarct\\ evident\ \(1\)\
-\-\ transfuse\\ blood\\ products\ \(1\)\
-\-\ sickle\\ cell\\ anemia\ \(14\)\
-\-\ patient\\ underwent\\ craniotomy\ \(2\)\
-\-\ parasympathetic\\ fibers\\ innervating\ \(1\)\
-\-\ painful\\ sca\\ crisis\ \(0\)\
-\-\ another\\ notable\\ finding\ \(0\)\
-\-\ epidural\\ hematomas\\ \\.\\)\ \(0\)\
-\-\ scalp\\ hematoma\\ \\)\\.\ \(0\)\
-\-\ larger\\ hematoma\\ crosses\ \(1\)\
-\-\ epidural\\ hematoma\\ associated\ \(1\)\
-\-\ bilateral\\ epidural\\ hematoma\ \(0\)\
-\-\ pupillary\\ abnormality\\ evident\ \(1\)\
-\-\ supratentorial\\ subdural\\ hematomas\ \(0\)\
-\-\ unreported\\ trauma\\ occurred\ \(1\)\
-\-\ left\\ occipital\\ infarction\ \(1\)\
-\-\ known\\ head\\ trauma\ \(1\)\
-\-\ sided\\ epidural\\ hematoma\ \(1\)\
-\-\ reactive\\ left\\ pupil\ \(1\)\
-\-\ sided\\ transtentorial\\ herniation\ \(1\)\
-\-\ left\\ uncal\\ herniation\ \(1\)\
-\-\ second\\ unusual\\ feature\ \(1\)\
-\-\ epidural\\ hematomas\ \(4\)\
-\-\ epidural\\ hematoma\ \(39\)\
-\-\ subdural\\ hematomas\ \(23\)\
-\-\ sided\\ hematoma\ \(3\)\
-\-\ tentorium\\ results\ \(1\)\
-\-\ persistent\\ right\ \(7\)\
-\-\ meningeal\\ artery\ \(10\)\
-\-\ distinguish\\ epidural\ \(1\)\
-\-\ uncal\\ herniation\ \(6\)\
-\-\ large\\ hematoma\ \(5\)\
-\-\ hematoma\\ resulted\ \(3\)\
-\-\ contralateral\\ hematoma\ \(1\)\
-\-\ pupillary\\ dilation\ \(1\)\
-\-\ blunt\\ trauma\ \(23\)\
-\-\ tentorial\\ herniation\ \(6\)\
-\-\ usual\\ etiology\ \(2\)\
-\-\ unusual\\ etiology\ \(1\)\
-\-\ unusual\\ amount\ \(2\)\
-\-\ surgeons\\ encountered\ \(1\)\
-\-\ subtle\\ cases\ \(3\)\
-\-\ smaller\\ right\ \(1\)\
-\-\ skull\\ fracture\ \(37\)\
-\-\ several\\ reasons\ \(2\)\
-\-\ sagittal\\ suture\ \(7\)\
-\-\ reported\\ history\ \(7\)\
-\-\ raising\\ suspicion\ \(1\)\
-\-\ possible\\ un\ \(5\)\
-\-\ outermost\\ layer\ \(1\)\
-\-\ oculomotor\\ nerve\ \(3\)\
-\-\ metopic\\ suture\ \(7\)\
-\-\ mass\\ effect\ \(295\)\
-\-\ joint\\ pain\ \(10\)\
-\-\ fuses\\ early\ \(1\)\
-\-\ dura\\ mater\ \(2\)\
-\-\ downward\\ trans\ \(3\)\
-\-\ common\\ mechanism\ \(5\)\
-\-\ cn\\ iii\ \(0\)\
-\-\ calvarial\\ fracture\ \(1\)\
-\-\ achieve\\ hemostasis\ \(2\)\
-\-\ abdominal\\ pain\ \(486\)\
-\-\ unusual\\ case\ \(11\)\
-\-\ thi\\ case\ \(0\)\
-\-\ midline\\ anteriorly\ \(3\)\
-\-\ left\ \(6663\)\
-\-\ feature\ \(246\)\
-\-\ hematoma\ \(500\)\
-\-\ secondary\ \(741\)\
-\-\ cross\ \(198\)\
-\-\ trauma\ \(1087\)\
-\-\ herniation\ \(401\)\
-\-\ unusual\ \(121\)\
-\-\ second\ \(1045\)\
-\-\ pupil\ \(48\)\
-\-\ infarction\ \(233\)\
-\-\ case\ \(1848\)\
-\-\ midline\ \(358\)\
-\-\ \\â\\€\\¢\ \(8449\)\
-\-\ witnessed\ \(13\)\
-\-\ unresponsive\ \(28\)\
-\-\ unlikely\ \(132\)\
-\-\ treated\ \(627\)\
-\-\ sutures\ \(21\)\
-\-\ subsequently\ \(134\)\
-\-\ subperiosteal\ \(30\)\
-\-\ subfalcine\ \(17\)\
-\-\ resulting\ \(195\)\
-\-\ report\ \(1067\)\
-\-\ recovery\ \(68\)\
-\-\ radiologists\ \(18\)\
-\-\ present\ \(4381\)\
-\-\ presence\ \(369\)\
-\-\ periosteum\ \(24\)\
-\-\ pca\ \(0\)\
-\-\ note\ \(1539\)\
-\-\ non\ \(1889\)\
-\-\ laceration\ \(82\)\
-\-\ infancy\ \(13\)\
-\-\ however\ \(389\)\
-\-\ helpful\ \(84\)\
-\-\ girl\ \(350\)\
-\-\ found\ \(632\)\
-\-\ forced\ \(13\)\
-\-\ falx\ \(34\)\
-\-\ evacuation\ \(31\)\
-\-\ evacuated\ \(25\)\
-\-\ dysfunction\ \(107\)\
-\-\ distribution\ \(190\)\
-\-\ dilated\ \(347\)\
-\-\ compression\ \(499\)\
-\-\ coincides\ \(4\)\
-\-\ clinicians\ \(17\)\
-\-\ causing\ \(203\)\
-\-\ calvarium\ \(29\)\
-\-\ blocked\ \(9\)\
-\-\ bleeding\ \(222\)\
-\-\ barrier\ \(21\)\
-\-\ anterior\ \(1277\)\
-\-\ admitted\ \(182\)\
-\-\ adherent\ \(14\)\
-\-\ additionally\ \(13\)\
-\-\ absence\ \(209\)\
-\-\ 11\ \(860\)\
+- persistent visual field defect
+- one interesting imaging feature
+- ipsilateral subgaleal hematoma implies
+- posterior cerebral artery results
+- large left subgaleal hematoma
+- left frontal epidural hematoma
+- epidural hematomas rarely cross
+- secondary left occipital infarct
+- occipital infarct ipsilateral
+- occipital infarct evident
+- transfuse blood products
+- spontaneous parenchymal bleed
+- sickle cell anemia
+- patient underwent craniotomy
+- parasympathetic fibers innervating
+- painful sca crisis
+- another notable finding
+- scalp hematoma ).
+- larger hematoma crosses
+- epidural hematomas .)
+- traumatic epidural hematoma
+- epidural hematoma associated
+- bilateral epidural hematoma
+- pupillary abnormality evident
+- supratentorial subdural hematomas
+- traumatic subdural hematoma
+- left occipital infarction
+- sided epidural hematoma
+- unreported trauma occurred
+- known head trauma
+- reactive left pupil
+- sided transtentorial herniation
+- left uncal herniation
+- rightward subfalcine herniation
+- second unusual feature
+- large hematoma
+- epidural hematomas
+- epidural hematoma
+- subdural hematomas
+- sided hematoma
+- tentorium results
+- persistent right
+- meningeal artery
+- distinguish epidural
+- uncal herniation
+- hematoma resulted
+- contralateral hematoma
+- pupillary dilation
+- pca infarct
+- tentorial herniation
+- blunt trauma
+- usual etiology
+- unusual etiology
+- unusual amount
+- surgeons encountered
+- subtle cases
+- smaller right
+- skull fracture
+- several reasons
+- sagittal suture
+- reported history
+- raising suspicion
+- possible un
+- outermost layer
+- oculomotor nerve
+- metopic suture
+- mass effect
+- joint pain
+- fuses early
+- dura mater
+- downward trans
+- common mechanism
+- cn iii
+- calvarial fracture
+- achieve hemostasis
+- abdominal pain
+- unusual case
+- thi case
+- midline anteriorly
+- left
+- hematoma
+- feature
+- secondary
+- cross
+- herniation
+- trauma
+- unusual
+- subfalcine
+- second
+- pupil
+- infarction
+- case
+- pca
+- midline
+- witnessed
+- unresponsive
+- unlikely
+- treated
+- sutures
+- subsequently
+- subperiosteal
+- resulting
+- report
+- recovery
+- radiologists
+- present
+- presence
+- periosteum
+- note
+- non
+- laceration
+- infancy
+- however
+- helpful
+- girl
+- found
+- forced
+- falx
+- evacuation
+- evacuated
+- dysfunction
+- distribution
+- dilated
+- compression
+- coincides
+- clinicians
+- causing
+- calvarium
+- blocked
+- bleeding
+- barrier
+- anterior
+- admitted
+- adherent
+- additionally
+- absence
+- 11
