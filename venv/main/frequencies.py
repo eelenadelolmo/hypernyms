@@ -6,7 +6,7 @@ import os
 # Rewrites the document with the absolute frequency of every keyword in the whole corpora
 def freq_calc(d, all):
     with open(all, 'r') as f:
-        text_all = f.read()
+        text_all = f.read().lower()
         f.close()
 
     with open(d, 'r') as f:
@@ -20,7 +20,7 @@ def freq_calc(d, all):
         for kw in kw_list:
             kw_clean = re.sub('^- ?', '', kw)
             if len(kw_clean) > 0:
-                kw_freq_list.append((kw_clean, text_all.count(kw_clean)))
+                kw_freq_list.append((kw_clean, text_all.count(kw_clean.lower())))
         f.close()
 
     keywords_replace = str()
@@ -128,12 +128,13 @@ docs = os.listdir(dir_docs)
 for doc in docs:
     freq_calc(dir_docs + '/' + doc, dir_all)
 """
-"""
+
+
 dir_docs = 'corpus/Medical/kw/tf_idf/tf_idf'
 docs = os.listdir(dir_docs)
 for doc in docs:
     freq_calc_withScore(dir_docs + '/' + doc, dir_all)
-"""
+
 
 dir_docs = 'corpus/Medical/kw/tf_idf/tf_idf_sklearn'
 docs = os.listdir(dir_docs)
