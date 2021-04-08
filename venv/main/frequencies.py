@@ -27,7 +27,40 @@ def freq_calc(d, all):
     for k, f_k in kw_freq_list:
         keywords_replace += '- ' + re.escape(k) + ' (' + re.escape(str(f_k)) + ')\n'
 
-    text_replace = re.sub(keywords, keywords_replace, text)
+    text_replace = re.sub(re.escape(keywords), re.escape(keywords_replace), text).replace('\\', '')
+
+    with open(d, 'w') as f:
+        f.write(text_replace)
+        f.close()
+
+
+# The first argument is the path to a document and the second argument is the patch to a document with the whole corpora
+# Rewrites the document with the absolute frequency of every keyword in the whole corpora
+def freq_calc_withScore(d, all):
+    with open(all, 'r') as f:
+        text_all = f.read().lower()
+        f.close()
+
+    with open(d, 'r') as f:
+        text = f.read()
+        if re.search(r'Keywords by value: ?\n.+', text, re.DOTALL):
+            keywords = re.search(r'Keywords by value: ?\n(.+)', text, re.DOTALL).group(1)
+        else:
+            keywords = text
+        kw_list = keywords.split('\n')
+        kw_freq_list = list()
+        for kw in kw_list:
+            kw_clean = re.sub('^- ?', '', kw)
+            if len(kw_clean) > 0:
+                fin_str = kw_clean.rfind(': ')
+                kw_freq_list.append((kw_clean, text_all.count(kw_clean[:fin_str].lower())))
+        f.close()
+
+    keywords_replace = str()
+    for k, f_k in kw_freq_list:
+        keywords_replace += '- ' + re.escape(k) + ' (' + re.escape(str(f_k)) + ')\n'
+
+    text_replace = re.sub(re.escape(keywords), re.escape(keywords_replace), text).replace('\\', '')
 
     with open(d, 'w') as f:
         f.write(text_replace)
@@ -99,14 +132,14 @@ for doc in docs:
 dir_docs = 'corpus/Medical/kw/tf_idf/tf_idf'
 docs = os.listdir(dir_docs)
 for doc in docs:
-    freq_calc(dir_docs + '/' + doc, dir_all)
+    freq_calc_withScore(dir_docs + '/' + doc, dir_all)
 """
-"""
+
 dir_docs = 'corpus/Medical/kw/tf_idf/tf_idf_sklearn'
 docs = os.listdir(dir_docs)
 for doc in docs:
-    freq_calc(dir_docs + '/' + doc, dir_all)
-"""
+    freq_calc_withScore(dir_docs + '/' + doc, dir_all)
+
 
 
 dir_all_kw = 'corpus/Medical/txt_all_rake_degreeFreqRatio.txt'
