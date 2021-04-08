@@ -110,12 +110,12 @@ docs = os.listdir(dir_docs)
 for doc in docs:
     freq_calc(dir_docs + '/' + doc, dir_all)
 """
-
+"""
 dir_docs = 'corpus/Medical/kw/rake/rake_degreeFreqRatio_length'
 docs = os.listdir(dir_docs)
 for doc in docs:
     freq_calc(dir_docs + '/' + doc, dir_all)
-
+"""
 """
 dir_docs = 'corpus/Medical/kw/rake/rake_metric_wordDegree_length'
 docs = os.listdir(dir_docs)
