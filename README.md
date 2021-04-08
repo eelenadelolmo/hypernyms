@@ -6,6 +6,8 @@ The original corpus is in the `venv/main/corpus/Medical/` folder, being the orig
 
 The script `corpus_processing.py` creates the folder `venv/main/corpus/Medical/txt/` with one file for every case with its identifier as filename. The selected fields from the original cases are _exam_, _txFollowup_, _findings_, _diagnosis_, _ddx_, _history_ and _discussion_.
 
+The script `frecuencies.py` modifies the output files in order to add the absolute frequency of every keaword in the whole corpus.
+
 
 
 ## Rake

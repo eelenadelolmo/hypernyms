@@ -128,21 +128,18 @@ docs = os.listdir(dir_docs)
 for doc in docs:
     freq_calc(dir_docs + '/' + doc, dir_all)
 """
-
-
+"""
 dir_docs = 'corpus/Medical/kw/tf_idf/tf_idf'
 docs = os.listdir(dir_docs)
 for doc in docs:
     freq_calc_withScore(dir_docs + '/' + doc, dir_all)
-
-
+"""
+"""
 dir_docs = 'corpus/Medical/kw/tf_idf/tf_idf_sklearn'
 docs = os.listdir(dir_docs)
 for doc in docs:
     freq_calc_withScore(dir_docs + '/' + doc, dir_all)
-
-
-
+"""
 dir_all_kw = 'corpus/Medical/txt_all_rake_degreeFreqRatio.txt'
 freq_calc(dir_all_kw, dir_all)
 """
