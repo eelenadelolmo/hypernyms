@@ -4,7 +4,7 @@ import os
 
 
 dir_all = 'corpus/Medical/txt/'
-dir_kw = 'corpus/Medical/kw/pke/topi_crank/'
+dir_kw = 'corpus/Medical/kw/pke/topic_rank/'
 shutil.rmtree(dir_kw, ignore_errors=True)
 os.makedirs(dir_kw)
 docs = os.listdir(dir_all)
