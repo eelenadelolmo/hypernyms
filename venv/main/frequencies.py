@@ -68,12 +68,12 @@ def freq_calc_withScore(d, all):
 
 
 dir_all = 'corpus/Medical/txt_all.txt'
-
+"""
 dir_docs = 'corpus/Medical/kw/pke/topic_rank'
 docs = os.listdir(dir_docs)
 for doc in docs:
     freq_calc(dir_docs + '/' + doc, dir_all)
-
+"""
 """
 dir_docs = 'corpus/Medical/kw/text_rank'
 docs = os.listdir(dir_docs)
