@@ -9,39 +9,67 @@ import en_core_web_trf
 
 nlp = en_core_web_trf.load()
 
-doc = textacy.make_spacy_doc("I am only testing the big big big well performing model very well dressed by now. The president Obama was the very first EEUU president. There was a red, small fruit in the tree.", lang=u'en_core_web_trf')
 
-# print(list(doc.sents))
+# Get a list of noun phrases and deletes the overlapping shorter ones
+def delete_overlapping(np_list):
+    for i, elem_i in enumerate(np_list):
+        for j in range(i):
+            elem_j = np_list[j]
+            if not elem_j:
+                continue
+            if elem_j.start <= elem_i.start and elem_j.end >= elem_i.end:
+                # elem_i inside elem_j
+                np_list[i] = None
+                break
+            elif elem_i.start <= elem_j.start and elem_i.end >= elem_j.end:
+                # elem_j inside elem_i
+                np_list[j] = None
+            elif elem_i.end > elem_j.start and elem_i.start < elem_j.end:
+                continue
+                # raise ValueError('partial overlap?')
+    return [elem for elem in np_list if elem]
 
+# For testing only
+text = """
+I am only testing the big big big well performing model. 
+The president Obama was the very first EEUU president. 
+There was a red, small fruit in the tree.
+I want to match only the first noun phrase of every sentence of the text.
+It was a time well spent.
+"""
+
+all = 'corpus/Medical/txt_all_short.txt'
+
+with open(all) as f:
+    text = f.read()
+
+doc = textacy.make_spacy_doc(text, lang=u'en_core_web_trf')
+
+"""
 for token in doc:
   print(token.text, token.lemma_, token.pos_, token.tag_, token.dep_, token.shape_, token.is_alpha, token.is_stop)
+"""
 
-# Equivalent to '<DET>? <NUM>* (<ADJ> <PUNCT>? <CONJ>?)* (<NOUN>|<PROPN> <PART>?)+'
-pattern_np = [{"POS": "DET", "OP":"?"}, {"POS": "NUM", "OP":"*"}, {"POS": "ADV", "OP":"*"}, {"POS": "ADJ", "OP":"*"}, {"TEXT": ",", "OP":"*"}, {"POS": "CONJ", "OP":"*"}, {"POS": "ADV", "OP":"*"}, {"POS": "ADJ", "OP":"*"}, {"TEXT": ",", "OP":"*"}, {"POS": "CONJ", "OP":"*"}, {"POS": "ADV", "OP":"*"}, {"POS": "ADJ", "OP":"*"}, {"TEXT": ",", "OP":"*"}, {"POS": "CONJ", "OP":"*"}, {"POS": "ADV", "OP":"*"}, {"POS": "ADJ", "OP":"*"}, {"TEXT": ",", "OP":"*"}, {"POS": "CONJ", "OP":"*"}, {"POS": "ADV", "OP":"*"}, {"POS": "ADJ", "OP":"*"}, {"POS": "NOUN", "OP":"+"}, {"POS": "ADV", "OP":"*"}, {"POS": "PART", "OP":"*"}, {"TEXT": ",", "OP":"*"}, {"POS": "CONJ", "OP":"*"}, {"POS": "ADV", "OP":"*"}, {"POS": "PART", "OP":"*"}, {"TEXT": ",", "OP":"*"}, {"POS": "CONJ", "OP":"*"}, {"POS": "ADV", "OP":"*"}, {"POS": "PART", "OP":"*"}, {"TEXT": ",", "OP":"*"}, {"POS": "CONJ", "OP":"*"}, {"POS": "ADV", "OP":"*"}, {"POS": "ADV", "OP":"*"}]
-pattern_pnp = [{"POS": "DET", "OP":"?"}, {"POS": "NUM", "OP":"*"}, {"POS": "ADV", "OP":"*"}, {"POS": "ADJ", "OP":"*"}, {"TEXT": ",", "OP":"*"}, {"POS": "CONJ", "OP":"*"}, {"POS": "ADV", "OP":"*"}, {"POS": "ADJ", "OP":"*"}, {"TEXT": ",", "OP":"*"}, {"POS": "CONJ", "OP":"*"}, {"POS": "ADV", "OP":"*"}, {"POS": "ADJ", "OP":"*"}, {"TEXT": ",", "OP":"*"}, {"POS": "CONJ", "OP":"*"}, {"POS": "ADV", "OP":"*"}, {"POS": "ADJ", "OP":"*"}, {"TEXT": ",", "OP":"*"}, {"POS": "CONJ", "OP":"*"}, {"POS": "ADV", "OP":"*"}, {"POS": "ADJ", "OP":"*"}, {"POS": "NOUN", "OP":"*"}, {"POS": "PROPN", "OP":"+"}, {"POS": "NOUN", "OP":"*"}, {"POS": "ADV", "OP":"*"}, {"POS": "PART", "OP":"*"}, {"TEXT": ",", "OP":"*"}, {"POS": "CONJ", "OP":"*"}, {"POS": "ADV", "OP":"*"}, {"POS": "PART", "OP":"*"}, {"TEXT": ",", "OP":"*"}, {"POS": "CONJ", "OP":"*"}, {"POS": "ADV", "OP":"*"}, {"POS": "PART", "OP":"*"}, {"TEXT": ",", "OP":"*"}, {"POS": "CONJ", "OP":"*"}, {"POS": "ADV", "OP":"*"}]
+# Approximately equivalent to '<DET>? <NUM>* (<ADJ> <CONJ>?)* (<NOUN>|<PROPN> (<PART> <CONJ>?)*)+'
+pattern_np = [{"POS": "DET", "OP":"?"}, {"POS": "NUM", "OP":"*"}, {"POS": "ADV", "OP":"*"}, {"POS": "ADJ", "OP":"*"}, {"POS": "CONJ", "OP":"*"}, {"POS": "ADV", "OP":"*"}, {"POS": "ADJ", "OP":"*"}, {"POS": "CONJ", "OP":"*"}, {"POS": "ADV", "OP":"*"}, {"POS": "ADJ", "OP":"*"}, {"POS": "CONJ", "OP":"*"}, {"POS": "ADV", "OP":"*"}, {"POS": "ADJ", "OP":"*"}, {"POS": "CONJ", "OP":"*"}, {"POS": "ADV", "OP":"*"}, {"POS": "ADJ", "OP":"*"}, {"POS": "NOUN", "OP":"+"}, {"POS": "ADV", "OP":"*"}, {"TAG": "VBN", "OP":"*"}, {"POS": "CONJ", "OP":"*"}, {"POS": "ADV", "OP":"*"}, {"TAG": "VBN", "OP":"*"}, {"POS": "CONJ", "OP":"*"}, {"POS": "ADV", "OP":"*"}, {"TAG": "VBN", "OP":"*"}, {"POS": "CONJ", "OP":"*"}, {"POS": "ADV", "OP":"*"}, {"POS": "ADV", "OP":"*"}]
+pattern_pnp = [{"POS": "DET", "OP":"?"}, {"POS": "NUM", "OP":"*"}, {"POS": "ADV", "OP":"*"}, {"POS": "ADJ", "OP":"*"}, {"POS": "CONJ", "OP":"*"}, {"POS": "ADV", "OP":"*"}, {"POS": "ADJ", "OP":"*"}, {"POS": "CONJ", "OP":"*"}, {"POS": "ADV", "OP":"*"}, {"POS": "ADJ", "OP":"*"}, {"POS": "CONJ", "OP":"*"}, {"POS": "ADV", "OP":"*"}, {"POS": "ADJ", "OP":"*"}, {"POS": "CONJ", "OP":"*"}, {"POS": "ADV", "OP":"*"}, {"POS": "ADJ", "OP":"*"}, {"POS": "NOUN", "OP":"*"}, {"POS": "PROPN", "OP":"+"}, {"POS": "NOUN", "OP":"*"}, {"POS": "ADV", "OP":"*"}, {"TAG": "VBN", "OP":"*"}, {"POS": "CONJ", "OP":"*"}, {"POS": "ADV", "OP":"*"}, {"TAG": "VBN", "OP":"*"}, {"POS": "CONJ", "OP":"*"}, {"POS": "ADV", "OP":"*"}, {"TAG": "VBN", "OP":"*"}, {"POS": "CONJ", "OP":"*"}, {"POS": "ADV", "OP":"*"}]
+pattern_np_pp = [{"POS": "DET", "OP":"?"}, {"POS": "NUM", "OP":"*"}, {"POS": "ADV", "OP":"*"}, {"POS": "ADJ", "OP":"*"}, {"POS": "CONJ", "OP":"*"}, {"POS": "ADV", "OP":"*"}, {"POS": "ADJ", "OP":"*"}, {"POS": "CONJ", "OP":"*"}, {"POS": "ADV", "OP":"*"}, {"POS": "ADJ", "OP":"*"}, {"POS": "CONJ", "OP":"*"}, {"POS": "ADV", "OP":"*"}, {"POS": "ADJ", "OP":"*"}, {"POS": "CONJ", "OP":"*"}, {"POS": "ADV", "OP":"*"}, {"POS": "ADJ", "OP":"*"}, {"POS": "NOUN", "OP":"+"}, {"POS": "ADV", "OP":"*"}, {"TAG": "VBN", "OP":"*"}, {"POS": "CONJ", "OP":"*"}, {"POS": "ADV", "OP":"*"}, {"TAG": "VBN", "OP":"*"}, {"POS": "CONJ", "OP":"*"}, {"POS": "ADV", "OP":"*"}, {"TAG": "VBN", "OP":"*"}, {"POS": "CONJ", "OP":"*"}, {"POS": "ADV", "OP":"*"}, {"POS": "ADV", "OP":"*"}, {"POS": "ADP"}, {"POS": "DET", "OP":"?"}, {"POS": "NUM", "OP":"*"}, {"POS": "ADV", "OP":"*"}, {"POS": "ADJ", "OP":"*"}, {"POS": "CONJ", "OP":"*"}, {"POS": "ADV", "OP":"*"}, {"POS": "ADJ", "OP":"*"}, {"POS": "CONJ", "OP":"*"}, {"POS": "ADV", "OP":"*"}, {"POS": "ADJ", "OP":"*"}, {"POS": "CONJ", "OP":"*"}, {"POS": "ADV", "OP":"*"}, {"POS": "ADJ", "OP":"*"}, {"POS": "CONJ", "OP":"*"}, {"POS": "ADV", "OP":"*"}, {"POS": "ADJ", "OP":"*"}, {"POS": "NOUN", "OP":"+"}, {"POS": "ADV", "OP":"*"}, {"POS": "VBN", "OP":"*"}, {"POS": "CONJ", "OP":"*"}, {"POS": "ADV", "OP":"*"}, {"TAG": "VBN", "OP":"*"}, {"POS": "CONJ", "OP":"*"}, {"POS": "ADV", "OP":"*"}, {"TAG": "VBN", "OP":"*"}, {"POS": "CONJ", "OP":"*"}, {"POS": "ADV", "OP":"*"}, {"POS": "ADV", "OP":"*"}]
 
 salida_np = list(textacy.extract.token_matches(doc, pattern_np))
+salida_np = delete_overlapping(salida_np
+                               )
 salida_pnp = list(textacy.extract.token_matches(doc, pattern_pnp))
+salida_pnp = delete_overlapping(salida_pnp)
 
-salida = salida_np + salida_pnp
+salida_np_pnp = salida_np + salida_pnp
 
-# take the longest when overlapping
-for i, el_i in enumerate(salida):
-    for j in range(i):
-        el_j = salida[j]
-        if not el_j:
-            continue
-        if el_j.start <= el_i.start and el_j.end >= el_i.end:
-            # el_i inside el_j
-            salida[i] = None
-            break
-        elif el_i.start <= el_j.start and el_i.end >= el_j.end:
-            # el_j inside el_i
-            salida[j] = None
-        elif el_i.end > el_j.start and el_i.start < el_j.end:
-            continue
-            # raise ValueError('partial overlap?')
-salida = [el for el in salida if el]
+salida_np_pp = list(textacy.extract.token_matches(doc, pattern_np_pp))
+salida_np_pp = delete_overlapping(salida_np_pp)
 
-for e in salida:
-    print("Noun phrase:", e)
+with open('corpus/Medical/txt_all_noun_phrases.txt', 'w') as f_w:
+    for e in salida_np_pnp:
+        f_w.write('-' + e.text + '\n')
+
+with open('corpus/Medical/txt_all_noun_phrases_pp.txt', 'w') as f_w:
+    for e in salida_np_pp:
+        f_w.write('-' + e.text + '\n')
