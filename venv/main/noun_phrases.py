@@ -38,7 +38,7 @@ I want to match only the first noun phrase of every sentence of the text.
 It was a time well spent.
 """
 
-all = 'corpus/Medical/txt_all_short.txt'
+all = 'corpus/Medical/txt_all.txt'
 
 with open(all) as f:
     text = f.read()

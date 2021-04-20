@@ -35,6 +35,40 @@ def freq_calc(d, all):
 
 
 # The first argument is the path to a document and the second argument is the patch to a document with the whole corpora
+# Rewrites the document with the absolute frequency of every keyword in the whole corpora and reorders the keyword by frequency
+def freq_calc_order_by_freq(d, all):
+    with open(all, 'r') as f:
+        text_all = f.read().lower()
+        f.close()
+
+    with open(d, 'r') as f:
+        text = f.read()
+        if re.search(r'Keywords: ?\n.+', text, re.DOTALL):
+            keywords = re.search(r'Keywords: ?\n(.+)', text, re.DOTALL).group(1)
+        else:
+            keywords = text
+        kw_list = keywords.split('\n')
+        kw_freq = dict()
+        for kw in kw_list:
+            kw_clean = re.sub('^- ?', '', kw)
+            if len(kw_clean) > 0:
+                kw_freq[kw_clean] = text_all.count(kw_clean.lower())
+        f.close()
+
+    kw_freq = {k: v for k, v in sorted(kw_freq.items(), key=lambda item: item[1], reverse=True)}
+
+    keywords_replace = str()
+    for k in kw_freq:
+        keywords_replace += '- ' + re.escape(k) + ' (' + re.escape(str(kw_freq[k])) + ')\n'
+
+    text_replace = re.sub(re.escape(keywords), re.escape(keywords_replace), text).replace('\\', '')
+
+    with open(d, 'w') as f:
+        f.write(text_replace)
+        f.close()
+
+
+# The first argument is the path to a document and the second argument is the patch to a document with the whole corpora
 # Rewrites the document with the absolute frequency of every keyword in the whole corpora
 def freq_calc_withScore(d, all):
     with open(all, 'r') as f:
@@ -166,9 +200,9 @@ freq_calc(dir_all_kw, dir_all)
 """
 
 dir_all_kw = 'corpus/Medical/txt_all_noun_phrases.txt'
-freq_calc(dir_all_kw, dir_all)
+freq_calc_order_by_freq(dir_all_kw, dir_all)
 
 dir_all_kw = 'corpus/Medical/txt_all_noun_phrases_pp.txt'
-freq_calc(dir_all_kw, dir_all)
+freq_calc_order_by_freq(dir_all_kw, dir_all)
 
 
