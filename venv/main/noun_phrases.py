@@ -9,6 +9,9 @@ import en_core_web_trf
 
 nlp = en_core_web_trf.load()
 
+# changed in /home/elena/PycharmProjects/hypernyms/venv/lib/python3.8/site-packages/spacy/language.py
+# nlp.max_length = 10000000000
+
 
 # Get a list of noun phrases and deletes the overlapping shorter ones
 def delete_overlapping(np_list):
@@ -41,7 +44,7 @@ It was a time well spent.
 all = 'corpus/Medical/txt_all.txt'
 
 with open(all) as f:
-    text = f.read()
+    text = f.read().lower()
 
 doc = textacy.make_spacy_doc(text, lang=u'en_core_web_trf')
 
