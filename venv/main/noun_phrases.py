@@ -89,10 +89,10 @@ salida_np_pnp = salida_np + salida_pnp
 salida_np_pp = delete_overlapping(salida_np_pp)
 
 # Saving results to txt
-with open('corpus/Medical/txt_all_noun_phrases.txt', 'w') as f_w:
+with open('corpus/Medical/txt_all_noun_phrases_old.txt', 'w') as f_w:
     for e in salida_np_pnp:
         f_w.write('-' + e.text + '\n')
 
-with open('corpus/Medical/txt_all_noun_phrases_pp.txt', 'w') as f_w:
+with open('corpus/Medical/txt_all_noun_phrases_pp_old.txt', 'w') as f_w:
     for e in salida_np_pp:
         f_w.write('-' + e.text + '\n')
