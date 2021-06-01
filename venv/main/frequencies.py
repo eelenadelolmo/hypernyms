@@ -89,6 +89,7 @@ def freq_calc_order_by_freq_stopwords(d, all):
         kw_freq = dict()
         for kw in kw_list:
             kw_clean = re.sub('^- ?', '', kw)
+            kw_clean = re.sub('"', '', kw_clean)
             kw_words = kw_clean.split()
             kw_nonstop = [w for w in kw_words if not w in to_delete]
 
@@ -96,10 +97,10 @@ def freq_calc_order_by_freq_stopwords(d, all):
             # if len(kw_nonstop) > 0 and len([w for w in kw_nonstop if len(w) <= 2]) == 0:
 
             # If there is at least one non-stopword word in the keyword and none word is not an English word according to the NLTK dictionary
-            if len(kw_nonstop) > 0 and len([w for w in kw_nonstop if w not in words.words()]) == 0:
+            # if len(kw_nonstop) > 0 and len([w for w in kw_nonstop if w not in words.words()]) == 0:
 
             # All restrictions
-            # if len(kw_nonstop) > 0 and len([w for w in kw_nonstop if w not in words.words()]) == 0 and len([w for w in kw_nonstop if len(w) <= 2]) == 0:
+            if len(kw_nonstop) > 0 and len([w for w in kw_nonstop if w not in words.words()]) == 0 and len([w for w in kw_nonstop if len(w) <= 2]) == 0:
                 kw_freq[kw_clean] = 0
                 for k in kw_nonstop:
                     kw_freq[kw_clean] += text_all.count(k.lower())
@@ -118,6 +119,85 @@ def freq_calc_order_by_freq_stopwords(d, all):
     with open(d, 'w') as f:
         f.write(text_replace)
         f.close()
+
+
+
+# The first argument is the path to a document and the second argument is the path to a document with the whole corpora
+# Rewrites the document with the absolute frequency of every keyword in the whole corpora and reorders the keyword by frequency
+def freq_calc_order_by_freq_stopwords_roots(d, all):
+    to_delete = stopwords.words('english')
+    root_kw_dict = dict()
+
+    with open(all, 'r') as f:
+        text_all = f.read().lower()
+        f.close()
+
+    with open(d, 'r') as f:
+        text = f.read()
+        if re.search(r'Keywords: ?\n.+', text, re.DOTALL):
+            keywords = re.search(r'Keywords: ?\n(.+)', text, re.DOTALL).group(1)
+        else:
+            keywords = text
+        kw_line = keywords.split('\n')
+        for kw in kw_line:
+            if len(kw.split(' / ')) > 1:
+                kw_kw = kw.split(' / ')[0]
+                kw_root = kw.split(' / ')[1]
+                kw_clean = re.sub('^- ?', '', kw_kw)
+                kw_clean = re.sub('"', '', kw_clean)
+                kw_clean = re.sub('•', '', kw_clean)
+                kw_root = re.sub('"', '', kw_root)
+                kw_root = re.sub('"', '', kw_root)
+                kw_root = re.sub('•', '', kw_root)
+                kw_words = kw_clean.split()
+                kw_nonstop = [w for w in kw_words if not w in to_delete]
+
+                # If there at lest one non-stopword word in the keyword and none word with less than 3 characters
+                # if len(kw_nonstop) > 0 and len([w for w in kw_nonstop if len(w) <= 2]) == 0:
+
+                # If there is at least one non-stopword word in the keyword and none word is not an English word according to the NLTK dictionary
+                if len(kw_nonstop) > 0 and len([w for w in kw_nonstop if w not in words.words()]) == 0:
+
+                    if kw_root not in root_kw_dict:
+                        root_kw_dict[kw_root] = list()
+
+                    root_kw_dict[kw_root].append(kw_clean)
+
+    f.close()
+
+    freq_roots = dict()
+
+    for e in root_kw_dict:
+        if e not in freq_roots:
+            freq_roots[e] = text_all.count(e.lower())
+
+    freq_roots = {k: v for k, v in sorted(freq_roots.items(), key=lambda item: item[1], reverse=True)}
+
+    text_replace = str()
+
+    for r in freq_roots:
+        kw_freq = dict()
+        kw_list = root_kw_dict[r]
+
+        for k in kw_list:
+            kw_words = k.split()
+            kw_nonstop = [w for w in kw_words if not w in to_delete]
+
+            kw_freq[k] = 0
+            for k_n in kw_nonstop:
+                kw_freq[k] += text_all.count(k_n.lower())
+            kw_freq[k] = int(kw_freq[k] / len(kw_nonstop))
+
+        kw_freq = {k: v for k, v in sorted(kw_freq.items(), key=lambda item: item[1], reverse=True)}
+
+        text_replace += '- ' + re.escape(r) + ' (' + re.escape(str(freq_roots[r])) + ')\n'
+        for k in kw_freq:
+            text_replace += '\t' + re.escape(k).replace('\\', '') + ' (' + re.escape(str(kw_freq[k])) + ')\n'
+
+    with open(d, 'w') as f:
+        f.write(text_replace)
+        f.close()
+
 
 
 # The first argument is the path to a document and the second argument is the patch to a document with the whole corpora
@@ -262,12 +342,13 @@ freq_calc_order_by_freq(dir_all_kw, dir_all)
 """
 
 
-
+"""
 # dir_all_kw = 'corpus/Medical/txt_all_noun_phrases_isWord_longerThanTwo.txt'
 dir_all_kw = 'corpus/Medical/txt_all_noun_phrases_isWord.txt'
 # dir_all_kw = 'corpus/Medical/txt_all_noun_phrases_isWord.txt'
 freq_calc_order_by_freq_stopwords(dir_all_kw, dir_all)
 
+"""
 """
 dir_all_kw = 'corpus/Medical/txt_all_noun_phrases_plus_barePP_isWord_longerThanTwo.txt'
 freq_calc_order_by_freq_stopwords(dir_all_kw, dir_all)
@@ -276,3 +357,7 @@ freq_calc_order_by_freq_stopwords(dir_all_kw, dir_all)
 dir_all_kw = 'corpus/Medical/txt_all_noun_phrases_adjectives_isWord_longerThanTwo.txt'
 freq_calc_order_by_freq_stopwords(dir_all_kw, dir_all)
 """
+
+
+dir_all_kw = 'corpus/Medical/txt_all_noun_phrases_adjectives_coord_isWord.txt'
+freq_calc_order_by_freq_stopwords_roots(dir_all_kw, dir_all)
