@@ -156,7 +156,10 @@ def freq_calc_order_by_freq_stopwords_roots(d, all):
                 # if len(kw_nonstop) > 0 and len([w for w in kw_nonstop if len(w) <= 2]) == 0:
 
                 # If there is at least one non-stopword word in the keyword and none word is not an English word according to the NLTK dictionary
-                if len(kw_nonstop) > 0 and len([w for w in kw_nonstop if w not in words.words()]) == 0:
+                # if len(kw_nonstop) > 0 and len([w for w in kw_nonstop if w not in words.words()]) == 0:
+
+                # All restrictions
+                if len(kw_nonstop) > 0 and len([w for w in kw_nonstop if w not in words.words()]) == 0 and len([w for w in kw_nonstop if len(w) <= 2]) == 0:
 
                     if kw_root not in root_kw_dict:
                         root_kw_dict[kw_root] = list()
@@ -359,5 +362,5 @@ freq_calc_order_by_freq_stopwords(dir_all_kw, dir_all)
 """
 
 
-dir_all_kw = 'corpus/Medical/txt_all_noun_phrases_adjectives_coord_isWord.txt'
+dir_all_kw = 'corpus/Medical/txt_all_noun_phrases_adjectives_coord_isWord_longerThanTwo.txt'
 freq_calc_order_by_freq_stopwords_roots(dir_all_kw, dir_all)
