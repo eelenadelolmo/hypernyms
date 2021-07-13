@@ -226,9 +226,11 @@ def freq_calc_order_by_freq_stopwords_roots_moreSpecific(d, all):
                 kw_clean = re.sub('^- ?', '', kw_kw)
                 kw_clean = re.sub('"', '', kw_clean)
                 kw_clean = re.sub('•', '', kw_clean)
+                kw_clean = kw_clean.strip()
                 kw_root = re.sub('"', '', kw_root)
                 kw_root = re.sub('"', '', kw_root)
                 kw_root = re.sub('•', '', kw_root)
+                kw_root = kw_root.strip()
                 kw_words = kw_clean.split()
                 kw_nonstop = [w for w in kw_words if not w in to_delete]
                 kw_root_moreSpecific = 'no_kw_root_moreSpecific'
@@ -239,15 +241,18 @@ def freq_calc_order_by_freq_stopwords_roots_moreSpecific(d, all):
                 kw_clean = re.sub('^- ?', '', kw_kw)
                 kw_clean = re.sub('"', '', kw_clean)
                 kw_clean = re.sub('•', '', kw_clean)
+                kw_clean = kw_clean.strip()
                 kw_root = re.sub('"', '', kw_root)
                 kw_root = re.sub('"', '', kw_root)
                 kw_root = re.sub('•', '', kw_root)
+                kw_root = kw_root.strip()
                 kw_words = kw_clean.split()
                 kw_nonstop = [w for w in kw_words if not w in to_delete]
                 kw_root_moreSpecific = kw.split(' / ')[2]
                 kw_root_moreSpecific = re.sub('"', '', kw_root_moreSpecific)
                 kw_root_moreSpecific = re.sub('"', '', kw_root_moreSpecific)
                 kw_root_moreSpecific = re.sub('•', '', kw_root_moreSpecific)
+                kw_root_moreSpecific = kw_root_moreSpecific.strip()
 
             # If there at lest one non-stopword word in the keyword and none word with less than 3 characters
             # if len(kw_nonstop) > 0 and len([w for w in kw_words if len(w) <= 2]) == 0:
@@ -258,14 +263,14 @@ def freq_calc_order_by_freq_stopwords_roots_moreSpecific(d, all):
             # All restrictions
             if len(kw_nonstop) > 0 and len([w for w in kw_nonstop if w not in words.words()]) == 0 and len([w for w in kw_words if len(w) <= 2]) == 0:
 
-                if kw_root not in root_kw_dict:
+                if kw_root not in root_kw_dict and kw_root != "":
                     root_kw_dict[kw_root] = dict()
 
-                if kw_root_moreSpecific not in root_kw_dict[kw_root]:
+                if kw_root != "" and kw_root_moreSpecific not in root_kw_dict[kw_root] and kw_root_moreSpecific != "":
                     root_kw_dict[kw_root][kw_root_moreSpecific] = list()
 
                 root_kw_dict[kw_root][kw_root_moreSpecific].append(kw_clean)
-                
+
         f.close()
 
     freq_roots = dict()
@@ -287,7 +292,9 @@ def freq_calc_order_by_freq_stopwords_roots_moreSpecific(d, all):
 
         freq_roots_moreSpec = {k: v for k, v in sorted(freq_roots_moreSpec.items(), key=lambda item: item[1], reverse=True)}
 
-        for r_moreSpec in root_kw_dict[r]:
+        text_replace += '- ' + re.escape(r) + ' (' + re.escape(str(freq_roots[r])) + ')\n'
+
+        for r_moreSpec in freq_roots_moreSpec:
 
             kw_freq = dict()
             kw_moreSpecific_list = root_kw_dict[r][r_moreSpec]
@@ -302,15 +309,14 @@ def freq_calc_order_by_freq_stopwords_roots_moreSpecific(d, all):
 
             kw_freq = {k: v for k, v in sorted(kw_freq.items(), key=lambda item: item[1], reverse=True)}
 
-            text_replace += '- ' + re.escape(r) + ' (' + re.escape(str(freq_roots[r])) + ')\n'
-
             if r_moreSpec == 'no_kw_root_moreSpecific':
                 for k in kw_freq:
                     text_replace += '\t' + re.escape(k).replace('\\', '') + ' (' + re.escape(str(kw_freq[k])) + ')\n'
             else:
-                text_replace += '\t+ ' + re.escape(r_moreSpec).replace('\\', '') + ' (' + re.escape(str(freq_roots_moreSpec[r_moreSpec])) + ')\n\t\t'
-                for k in kw_freq:
-                    text_replace += '\t' + re.escape(k).replace('\\', '') + ' (' + re.escape(str(kw_freq[k])) + ')\n'
+                if len(r_moreSpec.split()) > 1:
+                    text_replace += '\t+ ' + re.escape(r_moreSpec).replace('\\', '') + ' (' + re.escape(str(freq_roots_moreSpec[r_moreSpec])) + ')\n'
+                    for k in kw_freq:
+                        text_replace += '\t\t' + re.escape(k).replace('\\', '') + ' (' + re.escape(str(kw_freq[k])) + ')\n'
 
     with open(d, 'w') as f:
         f.write(text_replace)
