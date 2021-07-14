@@ -269,7 +269,8 @@ def freq_calc_order_by_freq_stopwords_roots_moreSpecific(d, all):
                 if kw_root != "" and kw_root_moreSpecific not in root_kw_dict[kw_root] and kw_root_moreSpecific != "":
                     root_kw_dict[kw_root][kw_root_moreSpecific] = list()
 
-                root_kw_dict[kw_root][kw_root_moreSpecific].append(kw_clean)
+                if kw_root != "" and kw_root_moreSpecific != "":
+                    root_kw_dict[kw_root][kw_root_moreSpecific].append(kw_clean)
 
         f.close()
 
