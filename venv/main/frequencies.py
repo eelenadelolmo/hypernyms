@@ -274,6 +274,15 @@ def freq_calc_order_by_freq_stopwords_roots_moreSpecific(d, all):
 
         f.close()
 
+
+    # kw_dict_complex has the following structure:
+    # { (root, root_freq): { (rootMoreSpec, rootMoreSpec_freq): [ (kw, kw_freq) ] } }
+    kw_dict_complex = dict()
+
+    # kw_dict has the following structure:
+    # { (root, root_freq): [ (kw, kw_freq) ] }
+    kw_dict = dict()
+
     freq_roots = dict()
 
     for e in root_kw_dict:
@@ -287,13 +296,16 @@ def freq_calc_order_by_freq_stopwords_roots_moreSpecific(d, all):
     for r in freq_roots:
 
         freq_roots_moreSpec = dict()
+
         for kw_moreSpecific in root_kw_dict[r]:
+
+            # if isinstance(kw_moreSpecific, str):
             if kw_moreSpecific not in freq_roots_moreSpec:
                 freq_roots_moreSpec[kw_moreSpecific] = text_all.count(kw_moreSpecific.lower())
 
         freq_roots_moreSpec = {k: v for k, v in sorted(freq_roots_moreSpec.items(), key=lambda item: item[1], reverse=True)}
 
-        text_replace += '- ' + re.escape(r) + ' (' + re.escape(str(freq_roots[r])) + ')\n'
+        # text_replace += '- ' + re.escape(r) + ' (' + re.escape(str(freq_roots[r])) + ')\n'
 
         for r_moreSpec in freq_roots_moreSpec:
 
@@ -311,13 +323,99 @@ def freq_calc_order_by_freq_stopwords_roots_moreSpecific(d, all):
             kw_freq = {k: v for k, v in sorted(kw_freq.items(), key=lambda item: item[1], reverse=True)}
 
             if r_moreSpec == 'no_kw_root_moreSpecific':
+                kw_dict[ (r, freq_roots[r]) ] = list()
                 for k in kw_freq:
-                    text_replace += '\t' + re.escape(k).replace('\\', '') + ' (' + re.escape(str(kw_freq[k])) + ')\n'
+                    # text_replace += '\t' + re.escape(k).replace('\\', '') + ' (' + re.escape(str(kw_freq[k])) + ')\n'
+                    kw_dict[(r, freq_roots[r])].append((k, kw_freq[k]))
             else:
                 if len(r_moreSpec.split()) > 1:
-                    text_replace += '\t+ ' + re.escape(r_moreSpec).replace('\\', '') + ' (' + re.escape(str(freq_roots_moreSpec[r_moreSpec])) + ')\n'
+
+                    # Create the dict entry if it doesn't exist
+                    if (r, freq_roots[r]) not in list(kw_dict_complex.keys()):
+                        kw_dict_complex[(r, freq_roots[r])] = dict()
+
+                    # text_replace += '\t+ ' + re.escape(r_moreSpec).replace('\\', '') + ' (' + re.escape(str(freq_roots_moreSpec[r_moreSpec])) + ')\n'
+                    kw_dict_complex[(r, freq_roots[r])][(r_moreSpec, freq_roots_moreSpec[r_moreSpec])] = list()
                     for k in kw_freq:
-                        text_replace += '\t\t' + re.escape(k).replace('\\', '') + ' (' + re.escape(str(kw_freq[k])) + ')\n'
+                        # text_replace += '\t\t' + re.escape(k).replace('\\', '') + ' (' + re.escape(str(kw_freq[k])) + ')\n'
+                        kw_dict_complex[(r, freq_roots[r])][(r_moreSpec, freq_roots_moreSpec[r_moreSpec])].append((k, kw_freq[k]))
+
+    # Implementing another layer of classification, grouping more specific groups within less specific (which are substrings of the former)
+    # Reminder:
+    # kw_dict_complex has the following structure:
+    # { (root, root_freq): { (rootMoreSpec, rootMoreSpec_freq): [ (kw, kw_freq) ] } }
+    # And now it may have the following:
+    # { (root, root_freq): { (rootMoreSpec, rootMoreSpec_freq): [ { (rootMoreSpec, rootMoreSpec_freq): [ (kw, kw_freq) ] } ] } }
+
+    for (root, f) in kw_dict_complex:
+        root_spec_list = list(kw_dict_complex[(root, f)].keys())
+        for n, (e, f_e) in enumerate(root_spec_list):
+            root_spec_list_others = root_spec_list[:]
+            root_spec_list_others.pop(n)
+            father = None
+            sons = list()
+            for (e_other, f_e_other) in root_spec_list_others:
+                if e in e_other:
+                    # Checking if the substring matching matches only full words
+                    e_words = e.split()
+                    e_other_words = e_other.split()
+                    matches_full_words = True
+                    for w in e_words:
+                        if w not in e_other_words:
+                            matches_full_words = False
+                    if matches_full_words:
+                        # Grouping (updating) with the less specific father only (the shortest)
+                        if father is None or len(father[0]) > len(e):
+                            father = (e, f_e)
+                        sons.append((e_other, f_e_other))
+
+            if len(sons) > 0 and father is not None:
+                if father in kw_dict_complex[(root, f)]:
+                    for son in sons:
+                        if son in kw_dict_complex[(root, f)]:
+                            new = {son: kw_dict_complex[(root, f)][son]}
+                            kw_dict_complex[(root, f)][father].append(new)
+                            kw_dict_complex[(root, f)].pop(son)
+
+    # Reminder:
+    # kw_dict has the following structure:
+    # { (root, root_freq): [ (kw, kw_freq) ] }
+    # kw_dict_complex has the following structure:
+    # { (root, root_freq): { (rootMoreSpec, rootMoreSpec_freq): [ (kw, kw_freq) | { (rootMoreSpec, rootMoreSpec_freq): [ (kw, kw_freq) ] } ] } }
+
+    # print(kw_dict)
+    # print("_______")
+    # print(kw_dict_complex)
+
+    # Ordering with the most frequent before
+    all_roots = list(set(list(kw_dict.keys()) + list(kw_dict_complex.keys())))
+    all_roots = sorted(all_roots, key=lambda x: x[1], reverse=True)
+
+    for root_general in all_roots:
+        text_replace += '- ' + re.escape(root_general[0]) + ' (' + re.escape(str(root_general[1])) + ')\n'
+
+        # Not all roots contain single-token keywords
+        if root_general in list(kw_dict.keys()):
+            for keywords_simple in kw_dict[root_general]:
+                text_replace += '\t' + re.escape(keywords_simple[0]).replace('\\', '') + ' (' + re.escape(str(keywords_simple[1])) + ')\n'
+
+        # Not all roots contain complex sub-roots
+        if root_general in list(kw_dict_complex.keys()):
+            for keyword_moreSpec in kw_dict_complex[root_general]:
+                text_replace += '\t+ ' + re.escape(keyword_moreSpec[0]).replace('\\', '') + ' (' + re.escape(str(keyword_moreSpec[1])) + ')\n'
+
+                for kw_final in kw_dict_complex[root_general][keyword_moreSpec]:
+
+                    # If there is no more specific root
+                    if isinstance(kw_final, tuple):
+                        text_replace += '\t\t' + re.escape(kw_final[0]).replace('\\', '') + ' (' + re.escape(str(kw_final[1])) + ')\n'
+
+                    if isinstance(kw_final, dict):
+                        # There is always exactly one clave
+                        for clave in kw_final:
+                            text_replace += '\t\t+' + re.escape(clave[0]).replace('\\', '') + ' (' + re.escape(str(clave[1])) + ')\n'
+                            for vals in kw_final[clave]:
+                                text_replace += '\t\t\t' + re.escape(vals[0]).replace('\\', '') + ' (' + re.escape(str(vals[1])) + ')\n'
 
     with open(d, 'w') as f:
         f.write(text_replace)
